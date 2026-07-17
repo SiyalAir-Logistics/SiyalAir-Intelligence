@@ -1,6 +1,6 @@
 /**
- * SIYALAIR-INTEL-STUDIO CORE ENGINE
- * Specialized to handle local background images without CORS errors.
+ * SIYALAIR-INTEL-STUDIO CORE ENGINE (PROD_v2.0_2026)
+ * Engineered for high-density global logistics asset synthesis.
  */
 
 window.onload = async () => {
@@ -9,7 +9,7 @@ window.onload = async () => {
     script.src = 'template.js?t=' + Date.now();
     
     script.onload = async () => {
-        console.log("Template loaded successfully.");
+        console.log("Siyal Air Template loaded successfully.");
         
         // Force fix the background image compatibility
         await fixBackgroundCORS();
@@ -30,7 +30,7 @@ window.onload = async () => {
     };
     
     script.onerror = () => {
-        console.error("Failed to load template.js. Check file path.");
+        console.error("Critical System Fault: Failed to load template.js. Check network path.");
     };
     
     document.head.appendChild(script);
@@ -38,7 +38,7 @@ window.onload = async () => {
 
 /**
  * FIX: Converts the background-image to Base64 
- * This prevents the "Tainted Canvas" error while keeping your image.
+ * Prevents the HTML2Canvas Tainted Canvas exploit block.
  */
 async function fixBackgroundCORS() {
     const canvas = document.getElementById('post-canvas');
@@ -52,11 +52,11 @@ async function fixBackgroundCORS() {
         const reader = new FileReader();
         reader.onloadend = () => {
             canvas.style.backgroundImage = `url(${reader.result})`;
-            console.log("Background optimized for capture.");
+            console.log("Background channel secured and optimized for render capture.");
         };
         reader.readAsDataURL(blob);
     } catch (e) {
-        console.warn("Local fetch blocked. If download fails, run via a local server (VS Code Live Server).");
+        console.warn("Local sandbox file system blocked fetch. Run via a dedicated local server (VS Code Live Server).");
     }
 }
 
@@ -88,7 +88,7 @@ function initTabs() {
 
 function fitText(element, maxHeight, maxWidth) {
     let fontSize = parseInt(window.getComputedStyle(element).fontSize);
-    while ((element.scrollHeight > maxHeight || element.scrollWidth > maxWidth) && fontSize > 20) {
+    while ((element.scrollHeight > maxHeight || element.scrollWidth > maxWidth) && fontSize > 18) {
         fontSize--;
         element.style.fontSize = fontSize + "px";
     }
@@ -101,7 +101,7 @@ function switchSlide(id, element) {
     const canvas = document.getElementById('post-canvas');
     if (!canvas) return;
 
-    // UPDATED: Logic to wrap text before and including colon in blue span
+    // Structural Title Splitter Logic
     const formatTitleBlue = (text) => {
         if (text.includes(':')) {
             const parts = text.split(':');
@@ -109,7 +109,6 @@ function switchSlide(id, element) {
             const whitePart = parts.slice(1).join(':');
             return `<span class="blue-text">${bluePart}</span>${whitePart}`;
         }
-        // Fallback to original logic if no colon
         const words = text.trim().split(' ');
         if (words.length <= 1) return `<span class="last-word-blue">${text}</span>`;
         const last = words.pop();
@@ -118,11 +117,9 @@ function switchSlide(id, element) {
 
     let html = "";
     if (id === 'main') {
-        // Merge original title strings and divide into single clean words
         const fullTitleStr = `${dailyData.main.titleWhite} ${dailyData.main.titleBlue}`.trim();
         const wordsArray = fullTitleStr.split(/\s+/);
         
-        // Convert each word to a block layer, explicitly coloring the final word blue
         const stackedTitleHTML = wordsArray.map((word, idx) => {
             if (idx === wordsArray.length - 1) {
                 return `<div class="last-word-blue">${word}</div>`;
@@ -130,10 +127,10 @@ function switchSlide(id, element) {
             return `<div>${word}</div>`;
         }).join('');
 
-        // Dynamically style the kicker string to make "AIR" dark blue
+        // BRAND FIXED LOGIC: Target exact brand parameters for Siyal Air
         let kickerHTML = dailyData.main.kicker;
-        if (kickerHTML.includes('SIYALAIR INTEL')) {
-            kickerHTML = kickerHTML.replace('INTEL', '<span class="blue-text">INTEL</span>');
+        if (kickerHTML.includes('SIYAL AIR')) {
+            kickerHTML = kickerHTML.replace('AIR', '<span class="blue-text">AIR</span>');
         }
         
         canvas.className = 'main-hook-style'; 
@@ -148,18 +145,19 @@ function switchSlide(id, element) {
                 </div><div class="swipe-prompt">SWIPE NEXT →</div>`;
     } else if (id === 'follow') {
         canvas.className = 'main-hook-style cta-slide';
+        // CTA FIXED LOGIC: Optimized for conversion and enterprise links
         html = `<div class="content-body">
-                <span class="kicker">STAY AHEAD</span>
-                <header><h1 class="auto-fit">LIKE. SHARE. <span class="last-word-blue">FOLLOW.</span></h1></header>
-                <div class="bulletin-container"><div class="bulletin-label">HOURLY UPDATES</div>
-                <p class="cta-subtext">Join the archive for the latest AI happenings and enterprise visual systems updates.</p></div>
+                <span class="kicker">GLOBAL FREIGHT CONVERSION MATRIX</span>
+                <header><h1 class="auto-fit">SCAN. CONNECT. <span class="last-word-blue">FORWARD.</span></h1></header>
+                <div class="bulletin-container"><div class="bulletin-label">SIYAL AIR LOGISTICS NETWORKS</div>
+                <p class="cta-subtext">Scan the link infrastructure to capture real-time freight routing solutions, cross-border customs advisory, and spot market contract structures.</p></div>
+                <div class="barcode-target-zone"></div>
                 </div>`;
     } else {
         const index = id - 1;
         const slide = dailyData.slides[index];
         canvas.className = 'sub-slide-style';
         if (slide) {
-            // FIXED PARSER: Handles both array (points) and string (content) safely.
             let bulletList = "";
             if (Array.isArray(slide.points)) {
                 bulletList = slide.points.map(p => `<li>${p}</li>`).join('');
@@ -215,7 +213,7 @@ async function downloadCurrentSlide() {
 
     } catch (err) {
         console.error("Capture Error:", err);
-        alert("Download failed. If you are not using a local server, the browser is blocking the background image file access.");
+        alert("Render extraction halted. Verify local script server permissions.");
     } finally {
         dlBtn.innerText = "DOWNLOAD SLIDE";
         dlBtn.disabled = false;
@@ -265,13 +263,13 @@ async function downloadAllSlides() {
             link.href = imageData;
             link.download = `SIYAL_AIR_${fileSuffix}.png`;
             
-            document.body.appendChild(link);
+                document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
         }
     } catch (err) {
-        console.error("Bulk Capture Error:", err);
-        alert("Download failed during bulk process. Ensure environment uses a valid local file system pipeline connection server.");
+        console.error("Bulk Processing Error:", err);
+        alert("Bulk download failed. Verify pipeline file system links.");
     } finally {
         switchSlide(originalId, originalActiveTab);
         dlBtn.innerText = "DOWNLOAD ALL SLIDES";
