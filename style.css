@@ -81,16 +81,16 @@ body {
    ========================================================================== */
 
 .main-hook-style .content-body {
-    padding: 70px; /* Reduced padding to let text expand to the walls */
+    padding: 80px; 
     height: 1350px;
     display: flex;
     flex-direction: column;
     overflow: hidden;
 }
 
-/* 1. THE TITLE BOX (Fixed Boundary) */
+/* 1. THE TITLE BOX (Horizontal Flow Layout) */
 .main-hook-style header {
-    height: 650px; /* Slightly increased space for the title */
+    height: 600px; 
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
@@ -100,62 +100,64 @@ body {
 .main-hook-style header h1 {
     font-family: var(--font-title) !important;
     display: flex;
-    flex-direction: column;
+    flex-direction: row; /* Horizontal flow */
+    flex-wrap: wrap;     /* Wraps only when out of space */
+    gap: 0px 25px;       /* Adds spacing between words */
     width: 100%;
-    margin-bottom: 0;
+    margin-bottom: 20px;
     justify-content: flex-start;
 }
 
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
-    /* Increased clamp values to force text to expand */
-    font-size: clamp(90px, 12cqw, 160px) !important; 
-    line-height: 1.05 !important;
+    /* Changed display to inline-block for natural flow */
+    display: inline-block !important; 
+    font-size: clamp(80px, 10cqw, 150px) !important; 
+    line-height: 1.0 !important;
     font-weight: 900 !important;
     text-transform: uppercase !important;
     transform: scaleY(1.1);
     transform-origin: left;
-    white-space: nowrap; /* Ensures it hits the wall boundary */
+    white-space: nowrap; 
 }
 
-/* THE TEAL ACCENT FIX: Targeted selectors for any line structure */
+/* TARGETS THE LAST WORD (TEAL) */
 .main-hook-style header h1 span:last-child,
-.main-hook-style header h1 div:last-child,
-.main-hook-style header h1 .last-word-blue {
+.main-hook-style header h1 div:last-child {
     color: var(--aeon-blue) !important;
 }
 
-/* 2. THE NEWS LIST BOX (Decently Visible & Centered) */
+/* 2. THE NEWS LIST BOX (Expanded & High-Visibility) */
 .main-hook-style .bulletin-list {
     flex: 1; 
     display: flex;
     flex-direction: column;
-    justify-content: flex-start; /* Aligns items from the top of the remaining space */
+    justify-content: flex-start;
     list-style: none;
-    margin-top: 50px; /* Creates separation from title */
+    margin-top: 40px;
     width: 100%;
+    padding-right: 50px;
 }
 
 .main-hook-style .bulletin-list li {
     font-family: var(--font-body);
-    /* Increased font size for better visibility */
-    font-size: clamp(30px, 4cqw, 42px) !important; 
-    font-weight: 400;
+    /* Increased font size for professional impact */
+    font-size: clamp(40px, 4cqw, 55px) !important; 
+    font-weight: 500; /* Slightly bolder for visibility */
     color: #ffffff;
-    line-height: 1.4; 
-    margin-bottom: 25px; 
+    line-height: 1.5; /* Proper spacing for reading */
+    margin-bottom: 30px; /* Proper vertical gaps */
     text-transform: uppercase;
     display: flex;
     align-items: center;
     width: 100%;
 }
 
-/* Number alignment */
 .main-hook-style .bulletin-list li .num {
     color: var(--aeon-blue);
     font-weight: 800;
-    margin-right: 25px;
-    min-width: 50px;
+    margin-right: 30px;
+    min-width: 60px; /* Ensures numbers align perfectly */
 }
 
 /* ==========================================================================
