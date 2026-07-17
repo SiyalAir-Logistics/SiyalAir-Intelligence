@@ -22,15 +22,16 @@
 
 :root {
     --bg-black: #050505;
-    /* Updated to Premium Teal/Green-like color */
-    --aeon-blue: #00f2ff; 
+    --aeon-blue: #007bff;
     --aeon-red: #ff0000;
     --text-white: #ffffff;
     --accent-gray: rgba(255, 255, 255, 0.1);
     
+    /* UNIVERSAL FONT ASSIGNMENT */
     --font-title: 'Proelium', sans-serif;
     --font-body: 'anteroly', sans-serif;
 
+    /* GLOBAL PADDING VARIABLES FOR EASY ADJUSTMENT */
     --main-padding-top: 100px;
     --main-padding-bottom: 200px;
     --sub-padding-top: 140px;
@@ -77,113 +78,136 @@ body {
 }
 
 /* ==========================================================================
-   FINALIZED MASTER CSS: SEGMENT 1 (MAIN SLIDE)
+   SEGMENT 1: MAIN SLIDE (Hook Style)
    ========================================================================== */
 
-/* Force the container to hold everything exactly as sized */
 .main-hook-style .content-body {
-    padding: 60px !important;
-    height: 1350px !important;
-    width: 100% !important;
-    display: flex !important;
-    flex-direction: column !important;
-    overflow: hidden !important;
-    box-sizing: border-box !important;
+    padding-top: 100px;
+    padding-left: 200px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    max-height: 1120px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    text-align: left;
 }
 
-/* 1. THE LABEL BOX */
-.main-hook-style .label-box {
-    height: 80px !important;
-    width: 100% !important;
-    display: flex !important;
-    align-items: flex-end !important;
-    margin-bottom: 20px !important;
+.main-hook-style .logo-container {
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-bottom: 20px;
+    padding: 0;
 }
 
-.main-hook-style .label-box p {
-    font-size: 30px !important;
-    letter-spacing: 2px !important;
-    text-transform: uppercase !important;
-    color: #ffffff !important;
-    margin: 0 !important;
+.main-hook-style .brand-logo {
+    height: 80px;
+    width: auto;
+    object-fit: contain;
 }
 
-/* 2. THE MAIN TITLE BOX */
-.main-hook-style .title-box {
-    height: 600px !important;
-    width: 100% !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: center !important; /* Centers text perfectly */
+.main-hook-style .kicker {
+    font-family: 'anteroly', sans-serif !important;
+    color: #ffffff;
+    font-size: 30px;
+    font-weight: 10;
+    letter-spacing: 15px;
+    line-height: 2;
+    text-transform: uppercase;
+    margin-bottom: 40px;
+    text-align: left;
+    padding: 0;
 }
 
-/* Force H1 to expand */
-.main-hook-style .title-box h1 {
-    display: flex !important;
-    flex-wrap: wrap !important;
-    gap: 10px 25px !important;
-    width: 100% !important;
-    margin: 0 !important;
-    padding: 0 !important;
+.main-hook-style header h1 {
+    font-family: var(--font-title) !important;
+    margin-bottom: 60px;
+    text-align: left;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+    max-width: 780px; 
 }
 
-/* Force Span/Div to respect the Wall */
-.main-hook-style .title-box h1 span, 
-.main-hook-style .title-box h1 div {
+/* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
+.main-hook-style header h1 span, 
+.main-hook-style header h1 div {
     display: inline-block !important;
-    font-size: clamp(80px, 12cqw, 180px) !important;
-    line-height: 0.9 !important;
-    font-weight: 900 !important;
+    transform: scaleY(1.5);
+    transform-origin: left;
+    font-size: clamp(80px, 12cqw, 140px) !important; 
+    line-height: 1.4 !important;
+    font-weight: 1500 !important;
+    letter-spacing: -1px !important;
     text-transform: uppercase !important;
-    transform: scaleY(1.1) !important;
-    white-space: nowrap !important;
-    margin: 0 !important;
+    overflow-wrap: break-word !important;
+    word-break: break-word !important;
+    color: var(--text-white);
+    text-align: left;
+    margin-bottom: 15px;
 }
 
-/* Teal Accent Fix */
-.main-hook-style .title-box h1 span:last-child,
-.main-hook-style .title-box h1 div:last-child {
+/* Force the very last word in the layout container to turn dark blue */
+.main-hook-style header h1 span:last-child,
+.main-hook-style header h1 div:last-child,
+.main-hook-style header h1 .last-word-blue {
     color: var(--aeon-blue) !important;
+    margin-bottom: 0px;
 }
 
-/* 3. THE NEWS LIST BOX */
-.main-hook-style .list-box {
-    flex: 1 !important;
-    width: 100% !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: flex-start !important;
-    padding-top: 20px !important;
+.main-hook-style .bulletin-container {
+    margin-top: 20px;
+    max-width: 100%;
+    flex: 0 1 auto; 
+    display: flex;
+    flex-direction: column;
+    padding: 0;
+}
+
+.main-hook-style .bulletin-label {
+    font-family: var(--font-title);
+    font-size: clamp(25px, 4cqw, 40px);
+    font-weight: 100;
+    letter-spacing: 2px;
+    line-height: 1;
+    color: var(--aeon-blue);
+    margin-bottom: 20px; 
+    text-transform: uppercase;
 }
 
 .main-hook-style .bulletin-list {
-    list-style: none !important;
-    width: 100% !important;
-    margin: 0 !important;
-    padding: 0 !important;
+    list-style: none;
+    max-height: 1200px;
+    overflow: hidden;
 }
 
 .main-hook-style .bulletin-list li {
-    display: flex !important;
-    align-items: center !important;
-    width: 100% !important;
-    font-size: clamp(50px, 5cqw, 80px) !important;
-    font-weight: 600 !important;
-    color: #ffffff !important;
-    line-height: 1.2 !important;
-    margin-bottom: 35px !important;
-    text-transform: uppercase !important;
+    font-family: var(--font-body);
+    font-size: clamp(20px, 3cqw, 28px); 
+    font-weight: 100;
+    color: #ffffff;
+    letter-spacing: 1px;
+    line-height: 1; 
+    margin-bottom: 10px; 
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
 }
 
 .main-hook-style .bulletin-list li .num {
-    color: var(--aeon-blue) !important;
-    font-weight: 800 !important;
-    margin-right: 30px !important;
-    min-width: 60px !important;
+    color: var(--aeon-blue);
+    font-weight: 100;
+    margin-right: 20px;
 }
 
 /* ==========================================================================
-   SEGMENT 2: MIDDLE SLIDES (Sub-Slide Style - PRESERVED)
+   SEGMENT 2: MIDDLE SLIDES (Sub-Slide Style)
    ========================================================================== */
 
 .sub-slide-style .content-body {
@@ -270,7 +294,7 @@ body {
 }
 
 /* ==========================================================================
-   SEGMENT 3: FINAL SLIDE (CTA Style - PRESERVED)
+   SEGMENT 3: FINAL SLIDE (CTA Style)
    ========================================================================== */
 
 .cta-slide .content-body {
@@ -341,7 +365,7 @@ body {
 }
 
 /* ==========================================================================
-   GLOBAL ELEMENTS (SWIPE PROMPT & UTILITIES - PRESERVED)
+   GLOBAL ELEMENTS (SWIPE PROMPT & UTILITIES)
    ========================================================================== */
 
 .swipe-prompt {
