@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
-        "titleWhite": "DECODING GLOBAL FREIGHT",
-        "titleBlue": "DYNAMICS"
+        "titleWhite": "GLOBAL FREIGHT ARCHITECTURE",
+        "titleBlue": "DECOUPLING"
     },
     "slides": [
         {
             "id": 1,
             "heading": "DOJ: TRADE FRAUD TASK FORCE",
             "points": [
-                "The Department of Justice Trade Fraud Task Force has officially surpassed one billion dollars in total recoveries.",
-                "Enforcement actions target customs duty evasion, illicit transshipments, and trade compliance violations across global import networks.",
-                "Shippers face escalating audit risks as federal agencies deploy advanced data analytics to detect valuation fraud.",
-                "Importers must implement rigorous supply chain tracing mechanisms to mitigate potential legal exposure and severe financial penalties."
+                "The DOJ Trade Fraud Task Force recovered one billion dollars in penalties since inception.",
+                "Regulatory audits target customs evasion tactics and systematic undervaluation of imported e-commerce goods.",
+                "Importers must implement real-time tracking systems to verify vendor origin and trace structural compliance.",
+                "Increased legal crackdowns force logistics operators to establish rigid cargo origin verification networks globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,28 +23,44 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "FMC: DETENTION FEE BILLING RULE",
+            "heading": "US TREASURY: IRANIAN SHIPPING BLOCKADE",
             "points": [
-                "The D.C. Circuit Court of Appeals upheld the Federal Maritime Commission decision regarding ocean container detention fees.",
-                "Ocean carriers cannot assess detention and demurrage charges unless those fees directly promote cargo and port fluidity.",
-                "This legal victory strengthens shipper protections against unfair billing practices during periods of severe maritime disruption.",
-                "Vessel-operating common carriers must rapidly align their billing procedures with the newly affirmed federal compliance standards."
+                "Restored United States maritime blockades against Iranian crude vessels trigger complex tanker route deviations.",
+                "Shippers navigate escalating security risks and severe insurance premium increases near the Strait of Hormuz.",
+                "Alternative global bunkering strategies are critical to mitigate energy supply price volatility across trade lanes.",
+                "Freight networks face prolonged vessel transit times as carriers implement wide geopolitical avoidance corridors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FEDEX: FREIGHT SPIN-OFF DEPARTURE",
+            "heading": "UPS: RFID PACKAGE SENSING SYSTEM",
             "points": [
-                "FedEx has officially completed the structural spin-off of its highly profitable less-than-truckload subsidiary FedEx Freight.",
-                "The transaction establishes FedEx Freight as an independent, publicly traded entity poised to optimize domestic capacity.",
-                "This divestment allows the parent logistics company to streamline express operations and improve long-term capital efficiency.",
-                "Shippers must prepare for independent rate negotiations and potential service realignments under the restructured corporate entity."
+                "Integrated RFID package sensing technology is replacing manual scanning systems across domestic fulfillment hubs.",
+                "Automated sensor arrays on delivery vehicles enhance end-to-end cargo visibility and eliminate sorting errors.",
+                "Warehouses use continuous data streams to optimize workforce utilization and expedite regional delivery speeds.",
+                "Enterprise supply chains gain precise execution metrics, lowering total carbon footprints and administration overhead."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "FEDEX: FREIGHT SPIN-OFF AND CLOSURES",
+            "points": [
+                "FedEx officially completed the strategic spinoff of its highly profitable less-than-truckload freight division.",
+                "Concurrent terminal closures under the Network 2.0 strategy aim to streamline redundant regional operations.",
+                "Freight consolidators must adapt to shifting transit schedules as carrier networks consolidate handling facilities.",
+                "Industrial shippers face potential capacity limitations as the carrier reorganizes overlapping regional fulfillment hubs."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,29 +70,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "IRAN: STRATEGIC PORT BLOCKADE",
-            "points": [
-                "The United States has restored a strict naval blockade against Iranian shipping, disrupting Middle Eastern crude exports.",
-                "Brent crude prices surged by nearly four percent to eighty-seven dollars per barrel amid severe geopolitical uncertainty.",
-                "Ocean tankers face worst-case operational routing scenarios through the Strait of Hormuz due to rising hostile actions.",
-                "Shippers must anticipate rising fuel surcharges and implement alternative fuel hedging strategies to manage escalating ocean transit costs."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "USPS: HAZMAT NONCOMPLIANCE FEE",
+            "heading": "AMAZON: HANDLING TIME ENFORCEMENT",
             "points": [
-                "The United States Postal Service has implemented strict new noncompliance fees targeting undeclared hazardous materials shipments.",
-                "E-commerce sellers face unexpected penalties for everyday items like essential oils, perfume, and lithium battery shipments.",
-                "The regulatory change aims to enhance postal transportation safety and curb dangerous shipping practices in commercial sorting networks.",
-                "Retailers must upgrade their product labeling workflows and cargo classification protocols to avoid costly manual sorting surcharges."
+                "Amazon has activated its automated handling-time policy for all merchant-fulfilled marketplace transactions.",
+                "Sellers must maintain precise processing cycles to prevent automatic suspension of their distribution privileges.",
+                "The mandate pressures logistics networks to coordinate immediate cargo handoffs to major parcel carriers.",
+                "Merchants are integrating predictive warehouse software to streamline pick-pack operations and satisfy compliance rules."
             ],
             "imageUrl": "",
             "tags": [
@@ -87,32 +87,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "ARCBEST: TERMINAL CONSOLIDATIONS",
+            "heading": "JOC: TRANS-PACIFIC DATA CENTER SHIFT",
             "points": [
-                "ArcBest announced plans to close ten ABF Freight terminals and reduce its total workforce by two percent.",
-                "The operational restructuring aims to eliminate network redundancies and protect margins against stagnant industrial shipping volumes.",
-                "Less-than-truckload carriers are adjusting capacities as operating costs per mile hover at historic highs across North America.",
-                "Shippers utilizing ABF networks should brace for regional cargo rerouting and minor transit disruptions during terminal consolidations."
+                "Surge in data center hardware imports keeps trans-Pacific container shipping volumes elevated during peak seasons.",
+                "Heavy physical infrastructure components displace consumer merchandise allocations across major ocean carrier vessel fleets.",
+                "Freight forwarders scramble to secure container space as technology developers prioritize critical hardware deliveries.",
+                "Port facilities experience localized dwell time increases due to specialized handling needs for computing machinery."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EBAY: DEPOP ACQUISITION APPROVAL",
+            "heading": "FMCSA: CABOTAGE ENFORCEMENT LAUNCH",
             "points": [
-                "Regulators cleared the one point two billion dollar acquisition of fashion marketplace Depop by eBay from Etsy.",
-                "The transaction consolidates eBay control over the rapidly growing peer-to-peer apparel and circular fashion retail segment.",
-                "Marketplace operators are aggressively expanding their vertical niches to counter rising competition from ultra-fast fashion platforms.",
-                "Brands should expect integrated shipping options and unified seller tools to emerge across the merged marketplace platforms."
+                "Strict cabotage regulations limit Mexican motor carrier operations inside designated United States border trade zones.",
+                "Federal inspection blitzes sideline commercial truck drivers lacking proper dual-country commercial driver licenses.",
+                "Cross-border supply chains face localized chassis shortages and freight transfer delays at key ports.",
+                "Intermodal brokers are adjusting transfer hubs to transition freight onto domestic fleets without border delays."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
