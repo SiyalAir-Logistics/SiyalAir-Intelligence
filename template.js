@@ -1,50 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
-        "titleWhite": "GLOBAL FREIGHT ARCHITECTURE",
-        "titleBlue": "DECOUPLING"
+        "titleWhite": "GLOBAL LOGISTICS COMPLIANCE",
+        "titleBlue": "REALIGNMENT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE",
+            "heading": "FMC: DETENTION FEE COMPLIANCE MANDATE",
             "points": [
-                "The DOJ Trade Fraud Task Force recovered one billion dollars in penalties since inception.",
-                "Regulatory audits target customs evasion tactics and systematic undervaluation of imported e-commerce goods.",
-                "Importers must implement real-time tracking systems to verify vendor origin and trace structural compliance.",
-                "Increased legal crackdowns force logistics operators to establish rigid cargo origin verification networks globally."
+                "The U.S. Court of Appeals upheld the Federal Maritime Commission ruling on container detention billing practices.",
+                "Ocean carriers must now prove that all assessed detention fees directly promote active seaport freight fluidity.",
+                "Shippers gain structural leverage to dispute unfair charges through the streamlined charge complaint process framework.",
+                "Marine terminal operators must adjust billing timelines to prevent immediate administrative penalties and regulatory audits."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "US TREASURY: IRANIAN SHIPPING BLOCKADE",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE RECOVERIES",
             "points": [
-                "Restored United States maritime blockades against Iranian crude vessels trigger complex tanker route deviations.",
-                "Shippers navigate escalating security risks and severe insurance premium increases near the Strait of Hormuz.",
-                "Alternative global bunkering strategies are critical to mitigate energy supply price volatility across trade lanes.",
-                "Freight networks face prolonged vessel transit times as carriers implement wide geopolitical avoidance corridors."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "UPS: RFID PACKAGE SENSING SYSTEM",
-            "points": [
-                "Integrated RFID package sensing technology is replacing manual scanning systems across domestic fulfillment hubs.",
-                "Automated sensor arrays on delivery vehicles enhance end-to-end cargo visibility and eliminate sorting errors.",
-                "Warehouses use continuous data streams to optimize workforce utilization and expedite regional delivery speeds.",
-                "Enterprise supply chains gain precise execution metrics, lowering total carbon footprints and administration overhead."
+                "The Department of Justice Trade Fraud Task Force has officially surpassed one billion dollars in recoveries.",
+                "Customs enforcement focuses heavily on industrial evasion, illegal transshipments, and systematic de minimis abuse patterns.",
+                "Importers face heightened scrutiny with automated algorithmic targeting tools scanning all inbound cargo documentation files.",
+                "Corporate compliance managers must implement immediate forensic audits of their tier-one and tier-two global supplier networks."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,13 +38,61 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "FEDEX: FREIGHT SPIN-OFF AND CLOSURES",
+            "id": 3,
+            "heading": "MARITIME: STRAIT OF HORMUZ RISK SECURITY",
             "points": [
-                "FedEx officially completed the strategic spinoff of its highly profitable less-than-truckload freight division.",
-                "Concurrent terminal closures under the Network 2.0 strategy aim to streamline redundant regional operations.",
-                "Freight consolidators must adapt to shifting transit schedules as carrier networks consolidate handling facilities.",
-                "Industrial shippers face potential capacity limitations as the carrier reorganizes overlapping regional fulfillment hubs."
+                "Renewed military blockades in the Strait of Hormuz are forcing international energy tankers to alter routes.",
+                "Maritime risk analysts warn of severe capacity crunches and immediate ocean freight rate surges worldwide.",
+                "Global supply chain planners are actively shifting transshipment operations to secure overland pipeline rail networks.",
+                "Shippers must brace for compounding fuel surcharges across both domestic trucking and international air transport."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "ATRI: MOTOR CARRIER OPERATING COST SURGE",
+            "points": [
+                "The American Transportation Research Institute reported that motor carrier operating costs reached record historical highs.",
+                "Average fleet expenses surged to over two dollars and thirty-three cents per active truck mile.",
+                "Rising driver wages, equipment maintenance, and diesel fuel prices remain the primary drivers of cost.",
+                "Fleet operators are forced to deploy advanced route optimization algorithms to protect collapsing operating margins."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AMAZON: PEAK HOLIDAY FEES ADJUSTMENT",
+            "points": [
+                "Amazon announced its peak season holiday fulfillment fees starting October fifteenth to combat rising operational costs.",
+                "The ongoing three point five percent fuel surcharge will apply directly to all holiday shipments.",
+                "Multi-channel merchants must accelerate inventory intake schedules to avoid early warehouse gridlock and fee penalties.",
+                "E-commerce brands are diversifying fulfillment networks to bypass localized carrier constraints and maintain margin targets."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.retaildive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "FEDEX: LTL FREIGHT SPIN-OFF COMPLETION",
+            "points": [
+                "FedEx completed the structural spin-off of its less-than-truckload subsidiary into an independent public company.",
+                "The transaction aims to unlock shareholder value and optimize capital allocation across global transportation operations.",
+                "Shippers expect immediate pricing realignments and service contract adjustments as the entity establishes independent operations.",
+                "Logistics managers must re-evaluate multi-carrier procurement strategies to mitigate potential freight rate volatility in 2026."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,49 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AMAZON: HANDLING TIME ENFORCEMENT",
+            "id": 7,
+            "heading": "EBAY: DEPOP FASHION PLATFORM ACQUISITION",
             "points": [
-                "Amazon has activated its automated handling-time policy for all merchant-fulfilled marketplace transactions.",
-                "Sellers must maintain precise processing cycles to prevent automatic suspension of their distribution privileges.",
-                "The mandate pressures logistics networks to coordinate immediate cargo handoffs to major parcel carriers.",
-                "Merchants are integrating predictive warehouse software to streamline pick-pack operations and satisfy compliance rules."
+                "eBay finalized its one point two billion dollar acquisition of the consumer fashion marketplace platform Depop.",
+                "United Kingdom antitrust regulators cleared the transaction to allow rapid expansion into secondary apparel logistics.",
+                "The consolidation signals a major push by global marketplaces to control circular supply chain infrastructure.",
+                "Logistics providers must develop specialized white-label returns management services to capture growing peer-to-peer parcel volumes."
             ],
             "imageUrl": "",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "JOC: TRANS-PACIFIC DATA CENTER SHIFT",
-            "points": [
-                "Surge in data center hardware imports keeps trans-Pacific container shipping volumes elevated during peak seasons.",
-                "Heavy physical infrastructure components displace consumer merchandise allocations across major ocean carrier vessel fleets.",
-                "Freight forwarders scramble to secure container space as technology developers prioritize critical hardware deliveries.",
-                "Port facilities experience localized dwell time increases due to specialized handling needs for computing machinery."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 7,
-            "heading": "FMCSA: CABOTAGE ENFORCEMENT LAUNCH",
-            "points": [
-                "Strict cabotage regulations limit Mexican motor carrier operations inside designated United States border trade zones.",
-                "Federal inspection blitzes sideline commercial truck drivers lacking proper dual-country commercial driver licenses.",
-                "Cross-border supply chains face localized chassis shortages and freight transfer delays at key ports.",
-                "Intermodal brokers are adjusting transfer hubs to transition freight onto domestic fleets without border delays."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
