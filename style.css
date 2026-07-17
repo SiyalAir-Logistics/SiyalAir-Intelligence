@@ -77,107 +77,109 @@ body {
 }
 
 /* ==========================================================================
-   SEGMENT 1: MAIN SLIDE (Modular "Box" System)
+   FINALIZED MASTER CSS: SEGMENT 1 (MAIN SLIDE)
    ========================================================================== */
 
+/* Force the container to hold everything exactly as sized */
 .main-hook-style .content-body {
-    padding: 60px; /* Overall container padding */
-    height: 1350px;
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
+    padding: 60px !important;
+    height: 1350px !important;
+    width: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    overflow: hidden !important;
+    box-sizing: border-box !important;
 }
 
-/* --------------------------------------------------------------------------
-   BOX 1: THE LABEL (e.g., "UNCLASSIFIED // GLOBAL MACRO BRIEFING")
-   -------------------------------------------------------------------------- */
+/* 1. THE LABEL BOX */
 .main-hook-style .label-box {
-    height: 80px; /* Control height */
-    padding-bottom: 20px; /* Space between label and title */
-    display: flex;
-    align-items: flex-end;
+    height: 80px !important;
+    width: 100% !important;
+    display: flex !important;
+    align-items: flex-end !important;
+    margin-bottom: 20px !important;
 }
 
 .main-hook-style .label-box p {
-    font-size: 30px; /* Change font size here */
-    letter-spacing: 2px;
-    text-transform: uppercase;
-    color: #ffffff;
-    opacity: 0.8;
+    font-size: 30px !important;
+    letter-spacing: 2px !important;
+    text-transform: uppercase !important;
+    color: #ffffff !important;
+    margin: 0 !important;
 }
 
-/* --------------------------------------------------------------------------
-   BOX 2: THE MAIN TITLE (The Headline)
-   -------------------------------------------------------------------------- */
+/* 2. THE MAIN TITLE BOX */
 .main-hook-style .title-box {
-    height: 500px; /* Control title box height */
-    padding: 0;
-    display: flex;
-    flex-direction: column;
-    justify-content: center; /* Vertically centers the text in this box */
-    width: 100%;
+    height: 600px !important;
+    width: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: center !important; /* Centers text perfectly */
 }
 
+/* Force H1 to expand */
 .main-hook-style .title-box h1 {
-    font-family: var(--font-title);
-    display: flex;
-    flex-direction: row; 
-    flex-wrap: wrap;     
-    gap: 0px 25px;       
-    width: 100%;
+    display: flex !important;
+    flex-wrap: wrap !important;
+    gap: 10px 25px !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
+/* Force Span/Div to respect the Wall */
 .main-hook-style .title-box h1 span, 
 .main-hook-style .title-box h1 div {
-    display: inline-block; 
-    font-size: clamp(90px, 11cqw, 160px); /* Adjust font size range */
-    line-height: 1.0; 
-    font-weight: 900;
-    text-transform: uppercase;
-    transform: scaleY(1.1);
-    transform-origin: left;
-    white-space: nowrap; 
+    display: inline-block !important;
+    font-size: clamp(80px, 12cqw, 180px) !important;
+    line-height: 0.9 !important;
+    font-weight: 900 !important;
+    text-transform: uppercase !important;
+    transform: scaleY(1.1) !important;
+    white-space: nowrap !important;
+    margin: 0 !important;
 }
 
-/* The "Last Word Blue" logic */
+/* Teal Accent Fix */
 .main-hook-style .title-box h1 span:last-child,
 .main-hook-style .title-box h1 div:last-child {
     color: var(--aeon-blue) !important;
 }
 
-/* --------------------------------------------------------------------------
-   BOX 3: THE NEWS LIST (The 7 Briefing Titles)
-   -------------------------------------------------------------------------- */
+/* 3. THE NEWS LIST BOX */
 .main-hook-style .list-box {
-    flex: 1; /* Fills remaining space */
-    padding-top: 40px; /* Space between title and list */
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+    flex: 1 !important;
+    width: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+    padding-top: 20px !important;
 }
 
 .main-hook-style .bulletin-list {
-    list-style: none;
-    width: 100%;
+    list-style: none !important;
+    width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
 .main-hook-style .bulletin-list li {
-    font-family: var(--font-body);
-    font-size: clamp(45px, 4cqw, 60px); /* Adjust list font size */
-    font-weight: 500;
-    color: #ffffff;
-    line-height: 1.3;
-    margin-bottom: 35px; /* Vertical gap between items */
-    text-transform: uppercase;
-    display: flex;
-    align-items: center;
+    display: flex !important;
+    align-items: center !important;
+    width: 100% !important;
+    font-size: clamp(50px, 5cqw, 80px) !important;
+    font-weight: 600 !important;
+    color: #ffffff !important;
+    line-height: 1.2 !important;
+    margin-bottom: 35px !important;
+    text-transform: uppercase !important;
 }
 
 .main-hook-style .bulletin-list li .num {
-    color: var(--aeon-blue);
-    font-weight: 800;
-    margin-right: 30px;
-    min-width: 60px; /* Controls space between number and text */
+    color: var(--aeon-blue) !important;
+    font-weight: 800 !important;
+    margin-right: 30px !important;
+    min-width: 60px !important;
 }
 
 /* ==========================================================================
