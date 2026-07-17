@@ -22,16 +22,15 @@
 
 :root {
     --bg-black: #050505;
-    --aeon-blue: #007bff;
+    /* Updated to Premium Teal/Green-like color */
+    --aeon-blue: #00f2ff; 
     --aeon-red: #ff0000;
     --text-white: #ffffff;
     --accent-gray: rgba(255, 255, 255, 0.1);
     
-    /* UNIVERSAL FONT ASSIGNMENT */
     --font-title: 'Proelium', sans-serif;
     --font-body: 'anteroly', sans-serif;
 
-    /* GLOBAL PADDING VARIABLES FOR EASY ADJUSTMENT */
     --main-padding-top: 100px;
     --main-padding-bottom: 200px;
     --sub-padding-top: 140px;
@@ -78,123 +77,77 @@ body {
 }
 
 /* ==========================================================================
-   SEGMENT 1: MAIN SLIDE (Hook Style)
+   SEGMENT 1: MAIN SLIDE (Hook Style - Optimized for Premium Flow)
    ========================================================================== */
 
 .main-hook-style .content-body {
-    padding-top: 100px;
-    padding-left: 200px;
-    padding-right: 100px;
-    padding-bottom: 100px;
-    max-height: 1120px;
-    overflow: hidden;
+    padding-top: 120px;
+    padding-left: 120px;
+    padding-right: 120px;
+    padding-bottom: 80px;
+    max-height: 1350px;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-    text-align: left;
-}
-
-.main-hook-style .logo-container {
-    width: 100%;
-    display: flex;
     justify-content: flex-start;
-    align-items: center;
-    margin-bottom: 20px;
-    padding: 0;
-}
-
-.main-hook-style .brand-logo {
-    height: 80px;
-    width: auto;
-    object-fit: contain;
+    align-items: flex-start;
 }
 
 .main-hook-style .kicker {
     font-family: 'anteroly', sans-serif !important;
-    color: #ffffff;
-    font-size: 30px;
-    font-weight: 10;
-    letter-spacing: 15px;
-    line-height: 2;
+    color: var(--text-white);
+    font-size: 32px;
+    font-weight: 400;
+    letter-spacing: 12px;
     text-transform: uppercase;
     margin-bottom: 40px;
-    text-align: left;
-    padding: 0;
+    opacity: 0.8;
 }
 
 .main-hook-style header h1 {
     font-family: var(--font-title) !important;
-    margin-bottom: 60px;
-    text-align: left;
-    padding: 0;
+    margin-bottom: 50px;
     display: flex;
     flex-direction: column;
-    align-items: flex-start;
     width: 100%;
-    max-width: 780px; 
+    max-width: 900px; 
 }
 
-/* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
-    display: inline-block !important;
-    transform: scaleY(1.5);
+    display: block !important;
+    transform: scaleY(1.3); /* Slightly reduced stretch for elegance */
     transform-origin: left;
-    font-size: clamp(80px, 12cqw, 140px) !important; 
-    line-height: 1.4 !important;
-    font-weight: 1500 !important;
-    letter-spacing: -1px !important;
+    font-size: clamp(80px, 10cqw, 120px) !important; 
+    line-height: 1.1 !important; /* Tight leading for stacked look */
+    font-weight: 800 !important;
+    letter-spacing: -2px !important;
     text-transform: uppercase !important;
-    overflow-wrap: break-word !important;
-    word-break: break-word !important;
     color: var(--text-white);
-    text-align: left;
-    margin-bottom: 15px;
 }
 
-/* Force the very last word in the layout container to turn dark blue */
+/* Target the last visual line of the main title for the Teal Accent */
 .main-hook-style header h1 span:last-child,
-.main-hook-style header h1 div:last-child,
-.main-hook-style header h1 .last-word-blue {
+.main-hook-style header h1 div:last-child {
     color: var(--aeon-blue) !important;
-    margin-bottom: 0px;
-}
-
-.main-hook-style .bulletin-container {
-    margin-top: 20px;
-    max-width: 100%;
-    flex: 0 1 auto; 
-    display: flex;
-    flex-direction: column;
-    padding: 0;
-}
-
-.main-hook-style .bulletin-label {
-    font-family: var(--font-title);
-    font-size: clamp(25px, 4cqw, 40px);
-    font-weight: 100;
-    letter-spacing: 2px;
-    line-height: 1;
-    color: var(--aeon-blue);
-    margin-bottom: 20px; 
-    text-transform: uppercase;
 }
 
 .main-hook-style .bulletin-list {
     list-style: none;
-    max-height: 1200px;
-    overflow: hidden;
+    margin-top: auto; /* Push bullets to bottom area */
+    padding-top: 40px;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    width: 100%;
+    max-width: 850px;
 }
 
 .main-hook-style .bulletin-list li {
     font-family: var(--font-body);
-    font-size: clamp(20px, 3cqw, 28px); 
-    font-weight: 100;
+    font-size: clamp(24px, 3cqw, 32px); 
+    font-weight: 300;
     color: #ffffff;
-    letter-spacing: 1px;
-    line-height: 1; 
-    margin-bottom: 10px; 
+    letter-spacing: 0.5px;
+    line-height: 1.4; 
+    margin-bottom: 25px; 
     text-transform: uppercase;
     display: flex;
     align-items: center;
@@ -202,12 +155,13 @@ body {
 
 .main-hook-style .bulletin-list li .num {
     color: var(--aeon-blue);
-    font-weight: 100;
-    margin-right: 20px;
+    font-weight: 700;
+    margin-right: 30px;
+    font-size: 0.8em;
 }
 
 /* ==========================================================================
-   SEGMENT 2: MIDDLE SLIDES (Sub-Slide Style)
+   SEGMENT 2: MIDDLE SLIDES (Sub-Slide Style - PRESERVED)
    ========================================================================== */
 
 .sub-slide-style .content-body {
@@ -294,7 +248,7 @@ body {
 }
 
 /* ==========================================================================
-   SEGMENT 3: FINAL SLIDE (CTA Style)
+   SEGMENT 3: FINAL SLIDE (CTA Style - PRESERVED)
    ========================================================================== */
 
 .cta-slide .content-body {
@@ -365,7 +319,7 @@ body {
 }
 
 /* ==========================================================================
-   GLOBAL ELEMENTS (SWIPE PROMPT & UTILITIES)
+   GLOBAL ELEMENTS (SWIPE PROMPT & UTILITIES - PRESERVED)
    ========================================================================== */
 
 .swipe-prompt {
