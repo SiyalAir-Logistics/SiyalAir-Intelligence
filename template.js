@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
-        "titleWhite": "LOGISTICS NETWORKS COMPLIANCE",
-        "titleBlue": "PRESSURE"
+        "titleWhite": "GLOBAL FREIGHT LOGISTICS",
+        "titleBlue": "PIVOT"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DOJ: TRADE FRAUD CRISIS",
+            "heading": "STRAIT OF HORMUZ: OPERATIONAL BLOCKADE",
             "points": [
-                "DOJ Trade Fraud Task Force surpasses one billion dollars in penalties and recoveries targeting customs evasion.",
-                "Crackdowns recover massive financial losses within ten months of the initiative launching across international shipping lanes.",
-                "Enforcement focuses on misclassified cargo entries and illicit trade practices bypassing established federal customs protocols.",
-                "Importers must audit supply chains immediately to mitigate high-risk exposures to aggressive federal trade investigations."
+                "Crude oil tankers are currently executing forced zig-zag routing patterns to bypass restored U.S. blockades.",
+                "Maritime risk firms warn of worst-case scenarios as transit costs escalate well beyond pandemic-era peaks.",
+                "Iraq and Syria have signed critical infrastructure agreements to restore alternative pipeline capacity for oil flow.",
+                "Shipping stakeholders must re-evaluate vessel insurance premiums and fuel surcharges amidst rising regional geopolitical instability."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: inboundlogistics.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ARCBEST: TERMINAL CLOSURES AND LAYOFFS",
+            "heading": "OCEAN CAPACITY: TRANS-PACIFIC PEAK",
             "points": [
-                "ArcBest initiates the closure of ten LTL terminals and eliminates two percent of its workforce.",
-                "Network adjustments target underperforming freight facilities to protect long-term margins amidst volatile national shipping demand.",
-                "Excess capacity challenges force major transport carriers to streamline less-than-truckload logistics operations and terminal footprints.",
-                "Shippers must brace for altered transit schedules as carrier network consolidations impact localized distribution routes."
+                "Trans-Pacific ocean freight volumes remain high, primarily driven by urgent data center hardware and infrastructure components.",
+                "Container spot rates show preliminary cooling trends, indicating potential market softening after months of aggressive frontloading.",
+                "Major carriers are deploying extra-loader vessels to capture surges in Indian exports and early holiday orders.",
+                "Supply chain managers should anticipate shifting vessel arrival reliability as port congestion monitors observe persistent dwell spikes."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EBAY: DEPOP ACQUISITION COMPLETED",
+            "heading": "US CUSTOMS: COMPLIANCE ENFORCEMENT SURGE",
             "points": [
-                "United Kingdom regulators clear eBay to acquire the fashion marketplace Depop from Etsy for billions.",
-                "The massive one point two billion dollar transaction expands consumer-to-consumer apparel logistics networks globally.",
-                "E-commerce platforms consolidate logistics assets to streamline specialized retail fulfillment and capture young consumer demographics.",
-                "Multi-channel merchants should prepare for updated cross-platform shipping policies as administrative ownership transitions are finalized."
+                "The DOJ Trade Fraud Task Force has successfully surpassed $1 billion in total recoveries and penalties collected.",
+                "Importers must prepare for increased scrutiny on cargo origin data as transparency mandates become strictly enforced operations.",
+                "Forced labor investigation protocols remain a primary bottleneck for high-volume retailers relying on opaque international tier-two suppliers.",
+                "FMC mandates regarding detention and demurrage billing continue to prioritize cargo fluidity for domestic import/export operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ecommercebytes.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FMC: DETENTION FEES REGULATION UPHELD",
+            "heading": "RETAIL LOGISTICS: DIGITAL TWIN INTEGRATION",
             "points": [
-                "United States Court of Appeals upholds the FMC ruling that detention fees must promote fluidity.",
-                "Ocean carriers face stricter billing oversight to prevent predatory detention charges during periods of port congestion.",
-                "Federal authorities tighten regulatory frameworks to protect shippers from arbitrary shipping container return penalties and fees.",
-                "Logisticians should utilize this judicial precedent to dispute non-compliant invoicing structures from major maritime carriers."
+                "Major retailers are aggressively deploying digital twin technology to enhance supply chain resilience against localized disruptions.",
+                "Corporate inventory strategies are shifting toward AI-powered demand forecasting to optimize stock levels for seasonal peaks.",
+                "Amazon and Walmart lead the rapid adoption of autonomous robotics within high-volume sorting and fulfillment warehouse environments.",
+                "Marketplace sellers must prepare for modified holiday fulfillment fee structures beginning in mid-October of this year."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: fmc.gov",
+                "Source: https://www.retaildive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ZOOX: ROBOTAXI NAVIGATION SYSTEM RECALL",
+            "heading": "TRUCKING INDUSTRY: NETWORK CONSOLIDATION",
             "points": [
-                "Amazon-owned Zoox issues a critical software recall after robotaxis struggled to navigate through dense smoke.",
-                "Technical navigation limits affect autonomous vehicle fleets, pausing pilot operations in compromised outdoor urban atmospheres.",
-                "Sensor arrays require software updates to differentiate particulate smoke columns from normal environmental highway obstacles.",
-                "Autonomous freight programs must reassess safety redundancy protocols under extreme climate and poor visibility conditions."
+                "LTL carrier networks are facing structural contraction, evidenced by recent terminal closures and planned workforce reductions.",
+                "Class 8 truck sales have experienced a slight uptick, ending a significant year-long period of continuous industry declines.",
+                "Operational costs per mile for domestic fleets reached record highs in 2025, forcing carriers to streamline routes.",
+                "Stringent cabotage enforcement at the southern border is currently reducing available cross-border carrier capacity for U.S. shippers."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "US CBP: IMPORT PRICE SURGE",
+            "heading": "AIR CARGO: AI CAPACITY OPTIMIZATION",
             "points": [
-                "Import prices show unexpected gains as goods shipped from Chinese factories reach highest levels since 2008.",
-                "Rising factory gate costs compound global inflation pressures, impacting landed-cost calculations across Western retail sectors.",
-                "Heightened tariff expectations prompt massive frontloading of container volumes, accelerating ocean shipping rates and terminal dwell times.",
-                "Procurement officers must adjust baseline margins to absorb rising import costs from high-tariff manufacturing jurisdictions."
+                "Air cargo markets are seeing sustained yield strength due to robust global demand for AI-related technology hardware.",
+                "Airlines are increasingly integrating AI-powered sales and procurement systems to maximize revenue across global logistics networks.",
+                "New strategic air routes, such as Bangkok-Cincinnati, are being deployed to capture regional manufacturing output surges.",
+                "Industry experts warn that while AI drives efficiency, the fundamental human layer remains critical to operational success."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME RISK: STRAIT OF HORMUZ DISRUPTIONS",
+            "heading": "E-COMMERCE: PLATFORM POLICY SHIFTS",
             "points": [
-                "Escalating military tensions near the Strait of Hormuz disrupt commercial oil tankers and dry bulk vessels.",
-                "Brent crude prices surge by nearly four percent, raising global diesel and marine fuel surcharges.",
-                "Geopolitical blockades compel ocean freight lines to reroute vessels, extending transit schedules and tightening global capacity.",
-                "Supply chain planners must activate contingency fuel budgets as maritime shipping lanes face prolonged regional volatility."
+                "eBay continues its aggressive fashion sector expansion through the pending $1.2 billion acquisition of the Depop marketplace.",
+                "New marketplace handling-time regulations are forcing sellers to automate compliance or face significant account-level visibility penalties.",
+                "USPS account holders must verify password compliance by end-of-month deadlines to avoid critical interruptions in logistics services.",
+                "Platform dispute resolution mechanisms are undergoing fundamental policy changes, impacting how sellers manage inventory return cycles."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
