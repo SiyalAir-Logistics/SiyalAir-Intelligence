@@ -1,66 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
-        "titleWhite": "DECODING GLOBAL LOGISTICS",
-        "titleBlue": "VOLATILITY"
+        "titleWhite": "GLOBAL LOGISTICS",
+        "titleBlue": "TRANSITION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ATRI: OPERATIONAL COST ESCALATION",
+            "heading": "FMC: DETENTION FEE UPHOLD",
             "points": [
-                "ATRI reports average trucking operational costs surged to a record high of $2.336 per mile.",
-                "Rising expenses reflect a 3.4 percent year-over-year escalation in key baseline equipment and fuel line items.",
-                "Fleet operators must optimize resource allocation to mitigate persistent macroeconomic headwinds and margin compression.",
-                "High operating expenses will likely accelerate consolidation among struggling carrier networks throughout the third quarter."
+                "U.S. Court of Appeals officially upheld the Federal Maritime Commission ruling on container detention billing practices.",
+                "Ocean carriers must prove that all levied demurrage and detention charges actively incentivize container cargo fluid movement.",
+                "The ruling establishes a regulatory standard requiring invoice accuracy and clear billing timeframes for global shippers.",
+                "Importers gain substantial leverage to challenge unfair maritime terminal storage invoices under the updated legal precedent."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DOT & DHS: CDL FRAUD PROBE",
+            "heading": "USPS: HAZMAT NONCOMPLIANCE PENALTIES",
             "points": [
-                "Interagency federal investigators target seventy-five commercial driver license schools in a coordinated nationwide enforcement action.",
-                "Joint operations focus on fraudulent credentialing schemes to secure supply chain integrity and driver safety.",
-                "Rigorous audits aim to eliminate unauthorized operators and enforce strict compliance with federal cabotage laws.",
-                "Supply chain executives must verify carrier driver credentials to prevent operational disruption and legal liabilities."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMAZON: HOLIDAY FEES SURCHARGE",
-            "points": [
-                "Amazon initiates its peak holiday fulfillment fees starting October fifteenth to address seasonal supply chain strain.",
-                "The company implements an ongoing three point five percent fuel and logistics surcharge on all shipments.",
-                "Merchants must adjust their pricing structures to accommodate rising multi-channel fulfillment operational overhead costs.",
-                "Early inventory positioning is critical for brands aiming to mitigate elevated peak-season logistics and storage fees."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "USPS: HAZMAT & PASSWORD COMPLIANCE",
-            "points": [
-                "United States Postal Service enforces strict password compliance rules for all online merchant accounts by July thirtieth.",
-                "New noncompliance fees target unauthorized hazardous material shipments to ensure safe transportation throughout postal networks.",
-                "E-commerce businesses must update cybersecurity protocols and hazard classification procedures to avoid automated penalties.",
-                "Regulatory shifts demand real-time compliance auditing to prevent shipping delays and localized delivery disruptions."
+                "United States Postal Service institutes a new noncompliance penalty system for undeclared hazardous materials shipments.",
+                "E-commerce merchants face sudden unexpected surcharges for everyday retail items containing flammable liquids or lithium batteries.",
+                "Automated sorting technology will identify restricted commodities to enforce strict air and ground network shipping standards.",
+                "Shippers must audit product catalogues and update safety data sheets to prevent costly shipping channel balance delays."
             ],
             "imageUrl": "",
             "tags": [
@@ -70,29 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "PORT OF LA: RECORD IMPORT SURGE",
+            "id": 3,
+            "heading": "FEDEX: FREIGHT BUSINESS SPINOFF",
             "points": [
-                "Port of Los Angeles logs over one million TEUs in June amid tariff and geopolitical anxieties.",
-                "Shippers accelerate peak season volumes early to bypass potential Red Sea and Strait of Hormuz bottlenecks.",
-                "Record-high container arrivals stress regional inland intermodal links and raise equipment chassis availability concerns.",
-                "Logistic managers must implement diversified routing strategies to maintain fluid cross-border supply chain operations."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "FEDEX: FREIGHT DIVISION SPINOFF",
-            "points": [
-                "FedEx completes the official spin-off of its less-than-truckload subsidiary FedEx Freight into a separate public entity.",
-                "The strategic realignment aims to unlock enterprise value and optimize operational focus for both corporate units.",
-                "Shippers must renegotiate service contracts as the newly independent freight carrier adjusts its regional pricing structures.",
-                "The transaction underscores broader industry restructuring as transportation conglomerates streamline multi-modal services."
+                "FedEx officially completes the separation of its highly profitable less-than-truckload division into an independent public entity.",
+                "The logistics giant aims to unlock shareholder value by streamlining separate express and ground network operations.",
+                "Industry analysts predict the corporate restructuring will drive intense competition and pricing shifts in regional trucking markets.",
+                "Shippers should expect recalibrated freight contracts as the standalone shipping carrier optimizes its corporate operating margins."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +54,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "UNITED AIRLINES: CARGO REVENUE SURGE",
+            "id": 4,
+            "heading": "USDOT: CDL FRAUD INVESTIGATION",
             "points": [
-                "United Airlines records a twenty-three percent surge in cargo revenue driven by massive peak-season transport yields.",
-                "High shipping volumes mirror pandemic-era demand levels as geopolitical conflicts disrupt traditional ocean freight lanes.",
-                "Air freight capacity remains highly constrained along major transpacific routes due to surging electronic commerce exports.",
-                "Forwarders should lock in long-term capacity agreements to hedge against volatile spot-market rate fluctuations."
+                "Federal agencies initiate a massive coordinated crackdown investigating seventy-five commercial driver license schools for suspected fraud.",
+                "Joint DHS and DOT task forces target illicit operations to eliminate unqualified drivers from interstate commerce routes.",
+                "Strict regulatory enforcement aims to improve highway safety metrics amid broader commercial driver shortage market pressures.",
+                "Fleet operators face heightened compliance audits and driver credential verification protocols during the active multi-state sweep."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "IRAQ & SYRIA: BYPASS AGREEMENT",
+            "points": [
+                "Iraq and Syria sign a bilateral agreement to restore a crucial overland oil transit pipeline infrastructure network.",
+                "The restored energy corridor provides global shippers a vital overland alternative to the volatile Strait of Hormuz.",
+                "Mid-East logistics operations seek strategic alternatives to mitigate maritime security threats in high-risk oceanic shipping channels.",
+                "Global supply chains will secure resilient trade lanes by diversifying energy distribution pathways away from choke points."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AMAZON: HOLIDAY PEAK FEES",
+            "points": [
+                "Amazon releases its structured holiday peak fulfillment fee schedule featuring early seasonal cost increases starting October fifteenth.",
+                "Sellers will absorb an active three point five percent fuel and logistics surcharge applied to peak rates.",
+                "Multi-channel merchants must balance early shipping deadlines against higher warehousing costs to maintain key product margins.",
+                "Inventory planners should optimize intake schedules to mitigate the financial impact of extended premium winter storage rates."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.retaildive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "UPS: RFID SENSING INTEGRATION",
+            "points": [
+                "United Parcel Service deploys advanced radio frequency identification package sensors to completely phase out manual sorting scans.",
+                "Automated sensing systems expand end-to-end shipment visibility across delivery vehicles and sorting hubs in the country.",
+                "Logistics planners anticipate the sensor network will minimize misplaced packages and optimize real-time routing efficiency parameters.",
+                "Integrated tracking architectures allow modern enterprises to receive highly precise transit updates for lean inventory strategies."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
