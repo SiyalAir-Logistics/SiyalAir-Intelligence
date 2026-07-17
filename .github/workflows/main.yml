@@ -39,8 +39,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config --global user.name "Aeon-Intel-Bot"
-          git config --global user.email "bot@aeon.intel"
+          git config --global user.name "SiyalAir-Bot"
+          git config --global user.email "bot@siyalair.com"
           
           # 1. Fetch latest upstream state
           git fetch origin main
@@ -87,7 +87,7 @@ jobs:
           import time
           import json
           
-          target_url = "https://mrfahimroshansiyals-sudo.github.io/aeon-intel-feed/template.js"
+          target_url = "https://siyalair-logistics.github.io/SiyalAir-Intelligence/template.js"
           success = False
           
           # Loop for up to 5 minutes (30 checks spaced 10 seconds apart)
@@ -158,8 +158,8 @@ jobs:
               tw_match = re.search(r'"titleWhite"\s*:\s*"([^"]+)"', content)
               tb_match = re.search(r'"titleBlue"\s*:\s*"([^"]+)"', content)
 
-              title_white = tw_match.group(1).strip() if tw_match else "AEON"
-              title_blue = tb_match.group(1).strip() if tb_match else "INTEL"
+              title_white = tw_match.group(1).strip() if tw_match else "SIYAL"
+              title_blue = tb_match.group(1).strip() if tb_match else "AIR"
               
               # Construct the raw dynamic text base string
               raw_subject = f"{title_white} {title_blue}"
@@ -167,14 +167,14 @@ jobs:
               # Convert entire string to Proper Title Case as requested
               subject_line = raw_subject.title()
               
-              recipient = "mr.fahim.roshan.siyals@gmail.com"
+              recipient = "wonderway.fun@gmail.com"
               sender = os.environ.get('EMAIL_USER')
               password = os.environ.get('EMAIL_PASS')
 
               # Build the Email Container
               msg = MIMEMultipart('alternative')
               msg['Subject'] = subject_line
-              msg['From'] = f"Aeon Intel Core <{sender}>"
+              msg['From'] = f"SiyalAir Core <{sender}>"
               msg['To'] = recipient
 
               # Minimalist, premium dark HTML notification body layout
@@ -182,7 +182,7 @@ jobs:
               <html>
                 <body style="background-color: #0d1117; color: #c9d1d9; font-family: monospace; padding: 30px;">
                   <div style="max-width: 600px; margin: 0 auto; border: 1px solid #30363d; padding: 20px; border-radius: 6px; background-color: #161b22;">
-                    <h2 style="color: #58a6ff; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0;">⚡_ AEON INTEL SYSTEM DISPATCH</h2>
+                    <h2 style="color: #00a8a8; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0;">⚡_ SIYALAIR SYSTEM DISPATCH</h2>
                     <p style="font-size: 14px; color: #8b949e;">Automated reconfirmation deployment pipeline executed successfully.</p>
                     <table style="width: 100%; font-size: 13px; border-collapse: collapse; margin: 20px 0;">
                       <tr>
@@ -195,11 +195,11 @@ jobs:
                       </tr>
                       <tr>
                         <td style="padding: 8px 0; color: #8b949e;"><strong>Live Feed URL:</strong></td>
-                        <td style="padding: 8px 0;"><a href="https://mrfahimroshansiyals-sudo.github.io/aeon-intel-feed" style="color: #58a6ff; text-decoration: underline; font-weight: bold;">Launch Live Dashboard →</a></td>
+                        <td style="padding: 8px 0;"><a href="https://siyalair-logistics.github.io/SiyalAir-Intelligence" style="color: #00a8a8; text-decoration: underline; font-weight: bold;">Launch Live Dashboard →</a></td>
                       </tr>
                     </table>
                     
-                    <h3 style="color: #58a6ff; font-size: 14px; margin-top: 25px; margin-bottom: 10px; border-bottom: 1px solid #30363d; padding-bottom: 5px;">📱 SOCIAL MEDIA POST CONTENT (POST.TXT)</h3>
+                    <h3 style="color: #00a8a8; font-size: 14px; margin-top: 25px; margin-bottom: 10px; border-bottom: 1px solid #30363d; padding-bottom: 5px;">📱 SOCIAL MEDIA POST CONTENT (POST.TXT)</h3>
                     <pre style="background-color: #0d1117; border: 1px solid #30363d; padding: 15px; border-radius: 4px; color: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.6; white-space: pre-wrap; word-wrap: break-word; margin: 10px 0;">{post_content}</pre>
                     
                     <p style="font-size: 11px; color: #8b949e; border-top: 1px solid #30363d; padding-top: 15px; margin-bottom: 0;">
