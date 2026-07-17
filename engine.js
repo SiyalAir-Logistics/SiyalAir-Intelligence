@@ -127,37 +127,34 @@ function switchSlide(id, element) {
             return `<div>${word}</div>`;
         }).join('');
 
-        // DYNAMIC BRIEFING PANEL: Compiles exactly 7 slide titles into a polished panel list
+        // DYNAMIC PREVIEW GENERATION: Compiles exactly 7 sub-slide titles for the bottom matrix panel
         const matrixItemsHTML = dailyData.slides.slice(0, 7).map((slide, idx) => {
             const cleanHeading = slide.heading.replace(/:$/, '').trim();
             return `
-                <div class="matrix-row-item">
-                    <span class="matrix-row-num">0${idx + 1}</span>
-                    <span class="matrix-row-text">${cleanHeading}</span>
+                <div class="matrix-item">
+                    <span class="matrix-num">0${idx + 1}</span>
+                    <span class="matrix-text">${cleanHeading}</span>
                 </div>
             `;
         }).join('');
         
-        canvas.className = 'main-hook-style premium-dashboard-layout'; 
+        canvas.className = 'main-hook-style clean-intel-layout'; 
         html = `
-            <div class="dashboard-split-wrapper">
-                <!-- Left Column: Master Analytical Hook -->
-                <div class="dashboard-left-hook">
-                    <span class="briefing-kicker-tracker">UNCLASSIFIED // GLOBAL MACRO BRIEFING</span>
-                    <header>
-                        <h1 class="auto-fit main-title-impact">${stackedTitleHTML}</h1>
-                    </header>
-                    <div class="action-prompt-zone">SWIPE TO READ →</div>
-                </div>
+            <div class="content-body intel-cover-container">
+                <span class="kicker">UNCLASSIFIED // GLOBAL MACRO BRIEFING</span>
+                <header>
+                    <h1 class="auto-fit">${stackedTitleHTML}</h1>
+                </header>
                 
-                <!-- Right Column: Premium Intelligence Panel -->
-                <div class="dashboard-right-panel">
-                    <div class="panel-header-title">INSIDE THIS BRIEFING</div>
-                    <div class="panel-list-stack">
+                <!-- Bottom Briefing Matrix Panel -->
+                <div class="briefing-bottom-matrix">
+                    <div class="matrix-header">INSIDE THIS BRIEFING</div>
+                    <div class="matrix-grid-layout">
                         ${matrixItemsHTML}
                     </div>
                 </div>
             </div>
+            <div class="swipe-prompt">SWIPE NEXT →</div>
         `;
     } else if (id === 'follow') {
         canvas.className = 'main-hook-style cta-slide';
@@ -196,7 +193,7 @@ function switchSlide(id, element) {
     canvas.innerHTML = html;
     setTimeout(() => {
         const titles = canvas.querySelectorAll('.auto-fit');
-        titles.forEach(t => fitText(t, 520, 420)); // Constrained bounding box to force accurate left column auto-fitting
+        titles.forEach(t => fitText(t, 500, 850));
     }, 50);
 }
 
