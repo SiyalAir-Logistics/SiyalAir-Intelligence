@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
-        "titleWhite": "GLOBAL TRADE",
-        "titleBlue": "DECOUPLING"
+        "titleWhite": "DECODING GLOBAL FREIGHT",
+        "titleBlue": "DYNAMICS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DOJ TRADE FRAUD: COMPLIANCE ENFORCEMENT",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE",
             "points": [
-                "The DOJ Trade Fraud Task Force secured over one billion dollars in recoveries within its first year.",
-                "Importers face increased customs scrutiny as enforcement agencies target supply chain compliance and trade duty evasion.",
-                "Global logistics operations must implement real-time transaction screening to prevent severe regulatory penalties and forfeitures.",
-                "Advanced digital customs auditing systems are now critical to identify and remediate tariff classification discrepancies immediately."
+                "The Department of Justice Trade Fraud Task Force has officially surpassed one billion dollars in total recoveries.",
+                "Enforcement actions target customs duty evasion, illicit transshipments, and trade compliance violations across global import networks.",
+                "Shippers face escalating audit risks as federal agencies deploy advanced data analytics to detect valuation fraud.",
+                "Importers must implement rigorous supply chain tracing mechanisms to mitigate potential legal exposure and severe financial penalties."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,76 +23,12 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ARCBEST: TERMINAL CONSOLIDATION",
+            "heading": "FMC: DETENTION FEE BILLING RULE",
             "points": [
-                "ArcBest announced the closure of ten less-than-truckload terminals alongside a two percent reduction in workforce.",
-                "This structural consolidation addresses persistent freight volume soft spots and improves overall carrier network operating efficiency.",
-                "Shippers should evaluate regional terminal networks to mitigate localized delays stemming from carrier service point reductions.",
-                "Freight network optimizations are accelerating as carriers realign capacity with current industrial production demand trends."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AMAZON: HOLIDAY SURCHARGE IMPLEMENTATION",
-            "points": [
-                "Amazon announced its peak season holiday fulfillment fees starting October fifteenth with integrated logistics surcharges.",
-                "Merchants must absorb dynamic fuel and shipping surcharges representing a persistent shift in third-party fulfillment costs.",
-                "E-commerce supply chains are frontloading inventory to minimize peak-season storage expenses and shipping bottlenecks.",
-                "Automated fulfillment strategies are critical for online brands navigating escalating multi-channel marketplace distribution overheads."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "FEDEX: FREIGHT DIVISION SPINOFF",
-            "points": [
-                "FedEx officially completed the spinoff of its highly profitable less-than-truckload subsidiary FedEx Freight.",
-                "The newly independent public entity aims to optimize asset utilization and drive strategic capital allocation decisions.",
-                "This division reshapes the competitive dynamics of the domestic freight transportation and logistics service market.",
-                "Shippers must prepare for independent contract negotiations as the carrier transition updates its operational footprint."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "STRAIT OF HORMUZ: GEOPOLITICAL BLOCKADE",
-            "points": [
-                "Renewed closures in the Strait of Hormuz have pushed ocean freight rates past previous pandemic peaks.",
-                "Energy tankers and container carriers are executing extensive route detours to bypass critical Middle East chokepoints.",
-                "Ocean shipping capacity faces immediate space crunches, prompting carriers to deploy emergency surcharge adjustments.",
-                "Procurement teams are restructuring maritime supply chains to accommodate extended transit times and soaring insurance premiums."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "FMC: DETENTION FEE REGULATION",
-            "points": [
-                "The US Court of Appeals upheld the Federal Maritime Commission decision regulating detention fee billing practices.",
-                "Demurrage and detention fees must strictly promote freight fluidity rather than serving as revenue generation tools.",
-                "Ocean carriers and port terminals must align billing structures with revised federal maritime transparency mandates.",
-                "Importers can now leverage standardized complaint procedures to dispute unfair or non-compliant container storage charges."
+                "The D.C. Circuit Court of Appeals upheld the Federal Maritime Commission decision regarding ocean container detention fees.",
+                "Ocean carriers cannot assess detention and demurrage charges unless those fees directly promote cargo and port fluidity.",
+                "This legal victory strengthens shipper protections against unfair billing practices during periods of severe maritime disruption.",
+                "Vessel-operating common carriers must rapidly align their billing procedures with the newly affirmed federal compliance standards."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,13 +38,77 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "USPS: COMPLIANCE FEE MANDATES",
+            "id": 3,
+            "heading": "FEDEX: FREIGHT SPIN-OFF DEPARTURE",
             "points": [
-                "The USPS implemented new hazardous materials noncompliance fees alongside strict digital account security deadline requirements.",
-                "Online merchants face automated penalty fees for improperly labeling common consumer products classified as dangerous goods.",
-                "Platform users must update system credentials by July thirtieth to maintain uninterrupted access to shipping portals.",
-                "E-commerce operators are updating warehouse labeling workflows to prevent unexpected transit charges and delivery holds."
+                "FedEx has officially completed the structural spin-off of its highly profitable less-than-truckload subsidiary FedEx Freight.",
+                "The transaction establishes FedEx Freight as an independent, publicly traded entity poised to optimize domestic capacity.",
+                "This divestment allows the parent logistics company to streamline express operations and improve long-term capital efficiency.",
+                "Shippers must prepare for independent rate negotiations and potential service realignments under the restructured corporate entity."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "IRAN: STRATEGIC PORT BLOCKADE",
+            "points": [
+                "The United States has restored a strict naval blockade against Iranian shipping, disrupting Middle Eastern crude exports.",
+                "Brent crude prices surged by nearly four percent to eighty-seven dollars per barrel amid severe geopolitical uncertainty.",
+                "Ocean tankers face worst-case operational routing scenarios through the Strait of Hormuz due to rising hostile actions.",
+                "Shippers must anticipate rising fuel surcharges and implement alternative fuel hedging strategies to manage escalating ocean transit costs."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "USPS: HAZMAT NONCOMPLIANCE FEE",
+            "points": [
+                "The United States Postal Service has implemented strict new noncompliance fees targeting undeclared hazardous materials shipments.",
+                "E-commerce sellers face unexpected penalties for everyday items like essential oils, perfume, and lithium battery shipments.",
+                "The regulatory change aims to enhance postal transportation safety and curb dangerous shipping practices in commercial sorting networks.",
+                "Retailers must upgrade their product labeling workflows and cargo classification protocols to avoid costly manual sorting surcharges."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ARCBEST: TERMINAL CONSOLIDATIONS",
+            "points": [
+                "ArcBest announced plans to close ten ABF Freight terminals and reduce its total workforce by two percent.",
+                "The operational restructuring aims to eliminate network redundancies and protect margins against stagnant industrial shipping volumes.",
+                "Less-than-truckload carriers are adjusting capacities as operating costs per mile hover at historic highs across North America.",
+                "Shippers utilizing ABF networks should brace for regional cargo rerouting and minor transit disruptions during terminal consolidations."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "EBAY: DEPOP ACQUISITION APPROVAL",
+            "points": [
+                "Regulators cleared the one point two billion dollar acquisition of fashion marketplace Depop by eBay from Etsy.",
+                "The transaction consolidates eBay control over the rapidly growing peer-to-peer apparel and circular fashion retail segment.",
+                "Marketplace operators are aggressively expanding their vertical niches to counter rising competition from ultra-fast fashion platforms.",
+                "Brands should expect integrated shipping options and unified seller tools to emerge across the merged marketplace platforms."
             ],
             "imageUrl": "",
             "tags": [
