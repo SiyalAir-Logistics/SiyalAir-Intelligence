@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "AEON INTEL",
-        "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
-        "titleBlue": "ARCHITECTURE"
+        "titleWhite": "SOVEREIGN INFRASTRUCTURE",
+        "titleBlue": "TRANSFORMATION"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OPENAI: GPT-5.5 FRONTIER LAUNCH",
+            "heading": "ASML: HIGH NA EUV LOGIC MILESTONE",
             "points": [
-                "OpenAI officially introduces its next-generation GPT-5.5 frontier intelligence model to power advanced enterprise workflows.",
-                "The model integrates deep context reasoning to execute autonomous, multi-step actions across complex digital environments.",
-                "Systems developers can now access enhanced cognitive orchestration pathways directly through the standardized API interface.",
-                "This architecture establishes a new paradigm for secure, high-throughput autonomous agents operating in production."
+                "ASML successfully achieved a critical high-volume logic readiness milestone using its advanced high numerical aperture EUV systems.",
+                "The breakthrough scales operational output limits and reduces pattern errors across global next-generation semiconductor fabrication lines.",
+                "Integrating this high numerical aperture technology strengthens foundational lithography pathways for mass-producing sub-two nanometer silicon chips.",
+                "Foundries deploying these high-volume systems will secure unparalleled performance advantages for subsequent enterprise artificial intelligence applications."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.asml.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "NVIDIA: VERA CPU DEPLOYMENT",
+            "heading": "NVIDIA: NATIONAL VERA RUBIN FACTORY",
             "points": [
-                "NVIDIA deploys its first specialized CPU architecture engineered specifically to run autonomous enterprise AI agents.",
-                "Top-tier global research laboratories are actively receiving early shipments of the agent-optimized Vera silicon hardware.",
-                "The hardware leverages high-bandwidth memory interfaces to accelerate massive parallel data transfers during execution cycles.",
-                "Systems architects predict this processor will significantly reduce operational latency within enterprise multi-agent networks."
+                "NVIDIA collaborated with Noetra to deploy a massive national AI factory utilizing Vera CPUs and Rubin graphics architectures.",
+                "This installation integrates twenty-seven thousand five hundred Rubin accelerators to deliver unprecedented post-training compute capability.",
+                "Deploying highly localized infrastructure represents a significant paradigm shift toward sovereign data centers and hardware-level independence.",
+                "Global developers utilizing this architecture will see drastically reduced processing times for complex multi-agent intelligence simulations."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,80 +39,80 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "GOOGLE: AGENT EXECUTOR RUNTIME",
+            "heading": "MOONSHOT AI: KIMI K3 DEPLOYMENT",
             "points": [
-                "Google open-sources its Agent Executor framework to accelerate production deployments of enterprise-grade digital workers.",
-                "The tool provides standardized runtime environments that simplify monitoring and orchestrating autonomous agentic pipelines.",
-                "Developers can leverage this infrastructure to eliminate custom boilerplate code for agent decision-making loops.",
-                "This release lowers the technological barrier for scaling robust cognitive workflows across cloud environments."
+                "Moonshot AI unveiled its massive open-weight Kimi K3 model boasting a capacity of nearly three trillion parameters.",
+                "The model delivers highly optimized performance metrics while lowering token consumption during complex multi-step reasoning processes.",
+                "Introducing accessible open-weight structures democratizes ultra-large-scale modeling capabilities and bypasses conventional proprietary software limitations.",
+                "Enterprise operators must navigate integration compliance challenges while leveraging this extensive parameters structure for legacy automation tasks."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://cloud.google.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MICROSOFT: AGENTIC DEVOPS DEPLOY",
+            "heading": "ANTHROPIC: META COMPUTE SHARING TALKS",
             "points": [
-                "Microsoft announces deep integration of connected AI agents within its Azure and GitHub developer platforms.",
-                "These agentic assistants actively automate code generation, pipeline orchestration, and cloud infrastructure management tasks.",
-                "Testing demonstrates a significant reduction in overall software development lifecycle duration and deployment error rates.",
-                "Engineers can shift focus toward high-level software system design rather than manual cloud configuration processes."
+                "Anthropic entered early discussions with Meta to acquire substantial back-end computational processing capacity for model development.",
+                "Securing this additional power optimizes training schedules and alleviates critical shortages in high-performance hardware availability.",
+                "This collaborative model signals an evolving cloud consolidation pattern where model developers share underlying physical compute clusters.",
+                "Enterprise clients can expect faster iterations of advanced Claude models as resource pooling accelerates foundational research timelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://azure.microsoft.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OPENAI: MATHEMATICAL BREAKTHROUGH",
+            "heading": "LINUX FOUNDATION: X402 PROTOCOL",
             "points": [
-                "An advanced OpenAI neural network successfully disproves a fundamental conjecture within discrete geometry mathematical research.",
-                "The model navigated vast combinatorial spaces to generate a valid counterexample that stumped human mathematicians.",
-                "This breakthrough highlights the growing capacity of deep learning models to solve complex, formal logical problems.",
-                "Researchers expect this methodology to accelerate discoveries across advanced materials science and cryptographic systems engineering."
+                "The Linux Foundation announced the x402 project establishing an open protocol for native agent-to-agent transactional payments.",
+                "This protocol enables software agents to autonomously negotiate and execute secure digital transactions over public networks.",
+                "Establishing an open billing standard represents a crucial step toward fully decoupling automated workflows from legacy finance platforms.",
+                "Financial institutions must rapidly design compatible interfaces to capture transactional volumes initiated by automated software systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://openai.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMD: VENICE EPYC TSMC 2NM",
+            "heading": "NEW YORK STATE: DATA CENTER SUSPENSION",
             "points": [
-                "AMD initiates the production ramp of its next-generation Venice EPYC processors on TSMC's advanced two-nanometer process node.",
-                "The new architecture delivers substantial improvements in compute efficiency and density for modern hyper-scale data centers.",
-                "Integration of advanced backside power delivery systems enables superior thermal management and structural power reliability.",
-                "This milestone solidifies AMD's competitive positioning in high-performance computing markets geared toward intensive model training."
+                "New York State enacted a temporary pause on issuing development permits for hyperscale artificial intelligence data facilities.",
+                "The moratorium addresses mounting local concerns regarding electrical grid stability and the environmental impacts of intensive cooling systems.",
+                "This restrictive state action highlights growing friction between aggressive technology infrastructure expansion and localized resource sustainability targets.",
+                "Hyperscalers must rapidly pioneer highly energy-efficient platforms or shift development activities toward geographically less constrained jurisdictions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.amd.com",
+                "Source: https://www.cio.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DEEPSEEK: V4-PRO AGGRESSIVE PRICE CUT",
+            "heading": "ATLASSIAN: SPEC-DRIVEN AI INTEGRATION",
             "points": [
-                "DeepSeek slashes licensing fees for its high-performance V4-Pro model to challenge established market competitors.",
-                "The aggressive pricing strategy intensifies the ongoing cost compression trend across the global artificial intelligence sector.",
-                "Enterprise customers benefit from substantially lower operational expenses when running high-volume, complex inference workloads.",
-                "This disruption forces rival model developers to optimize their infrastructure or risk losing critical market share."
+                "Atlassian integrated specialized Jira Planner features to facilitate spec-driven development paradigms for enterprise artificial intelligence workflows.",
+                "This architecture optimizes tokenomics and downstream code efficiency by performing rigorous planning before launching generative coding operations.",
+                "Shifting focus to upfront specification drafting mitigates expensive iterative debugging cycles and decreases total cloud token expenditures.",
+                "Engineering executives will realize substantial cost improvements as programmatic agents consume highly structured specifications rather than ambiguous instructions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.infoworld.com",
+                "Source: https://www.techtarget.com",
                 "Published: Last 60 Mins",
                 "Status: Audited & True"
             ]
