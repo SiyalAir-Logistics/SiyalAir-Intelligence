@@ -1,66 +1,66 @@
 const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
-        "titleWhite": "GLOBAL FREIGHT",
-        "titleBlue": "COMPLIANCE"
+        "titleWhite": "GLOBAL LOGISTICS NETWORK",
+        "titleBlue": "SHIFTS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC: DETENTION FEE COMPLIANCE",
+            "heading": "UPS: RFID SENSING NETWORK",
             "points": [
-                "US Court of Appeals upholds federal ocean regulators ruling that container detention fees must actively promote freight fluidity.",
-                "Ocean carriers face immediate billing compliance audits with potential multi-million dollar penalties for non-compliant billing practices.",
-                "Shippers secure legal recourse against unfair terminal charges under the enforced Ocean Shipping Reform Act guidelines.",
-                "Marine terminal operators must adjust billing architectures to ensure real-time dispute resolution mechanisms are functional."
+                "UPS initiates a nationwide deployment of radio frequency identification sensors to eliminate manual package scanning operations.",
+                "The integration achieves real-time location tracking for millions of shipments across the domestic small package network.",
+                "Embedding automated sensing directly into transit vehicles builds a foundation for highly resilient e-commerce delivery pipelines.",
+                "Shippers will experience enhanced visibility and reduced dwell times at major parcel sorting facilities worldwide."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: STRAIT OF HORMUZ RISK",
+            "heading": "FEDEX: FREIGHT SUBSIDIARY SPINOFF",
             "points": [
-                "Maritime risk evaluators warn of worst-case disruption scenarios for oil tankers transiting the strategic chokepoint.",
-                "Insurance underwriters increase war risk premiums for Middle East routes as commercial vessels face persistent regional threats.",
-                "Ocean carriers alter scheduling layouts to bypass volatile waterways despite high operational fuel burn rates.",
-                "Logistics managers execute contingency routing via alternative pipelines to mitigate prolonged transpacific transit disruptions."
+                "FedEx officially finalizes the corporate separation of its less-than-truckload shipping subsidiary into an independent public entity.",
+                "The structural division allows FedEx Freight to pursue independent capital allocation strategies and optimize operational margins.",
+                "This transition marks a critical realignment of express parcel delivery networks from heavy commercial shipping fleets.",
+                "Industrial manufacturers should expect altered regional shipping rate structures as the new corporate framework takes effect."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DOT & DHS: CDL FRAUD PROBE",
+            "heading": "USPS: PASSWORD COMPLIANCE MANDATE",
             "points": [
-                "Joint federal task force targets seventy-five commercial driver license schools suspected of systemic safety training violations.",
-                "Enforcement sweeps target fraudulent driver credentials to secure the domestic supply chain against unchecked trucking operations.",
-                "Fleet operators face rigorous auditing protocols to verify driver certification validity amidst nationwide compliance crackdowns.",
-                "Regulatory pressure restricts available commercial driver pools complicating regional freight capacity planning during high volume quarters."
+                "The United States Postal Service enforces strict new credential verification protocols for all digital shipping accounts.",
+                "Non-compliant enterprise users face immediate system lockout from scheduling carrier pickups and managing customer returns portals.",
+                "This security enforcement represents a broader government push to protect crucial cross-border transactional and address databases.",
+                "E-commerce merchants must rapidly update automated shipping APIs to prevent major downstream order processing delays."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AMAZON: PEAK SURCHARGE IMPLEMENTATION",
+            "heading": "AMAZON: ROBOTIC SORTATION INFRASTRUCTURE",
             "points": [
-                "Global e-commerce giant schedules early holiday fulfillment fees starting October fifteenth to manage network capacity strains.",
-                "Sellers navigate an active three point five percent fuel and logistics surcharge applied over standard peak rates.",
-                "Inventory placement models must prioritize early inbound shipping strategies to minimize dynamic storage fee liabilities.",
-                "Multi-channel merchants adapt pricing margins to absorb compounding third-party logistics fulfillment costs during winter peak."
+                "Amazon prepares to deploy advanced robotic sortation technologies at its newest fulfillment facility in Texas.",
+                "The automated infrastructure significantly accelerates regional package routing speeds while mitigating ongoing warehouse labor shortages.",
+                "Scaling robotics across major regional hubs reinforces rapid last-mile delivery capabilities for high-volume marketplace sellers.",
+                "Competitors will face increased pressure to automate sorting terminals to match expedited regional transit times."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,48 +71,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "FEDEX: FREIGHT SPINOFF COMPLETED",
+            "heading": "EBAY: DEPOP ACQUISITION APPROVAL",
             "points": [
-                "Global logistics provider officially finalizes the corporate spin-off of its less-than-truckload subsidiary into public markets.",
-                "Independent capital structure allows the LTL entity to optimize network assets without corporate parent constraints.",
-                "Shippers prepare for renegotiated contract pricing structures as the carrier pursues pure-play yield management strategies.",
-                "Market analysts predict increased freight consolidation across North American LTL networks following this major corporate separation."
+                "United Kingdom regulatory authorities officially approve eBay's acquisition of fashion marketplace Depop for over one billion dollars.",
+                "The consolidation merges high-volume consumer-to-consumer apparel transaction flows directly under eBay's expansive digital logistics network.",
+                "This acquisition strengthens marketplace dominance in specialized fashion verticals amid intensifying competition from global e-commerce players.",
+                "Apparel sellers will navigate harmonized cross-border shipping tools as the platforms integrate their fulfillment architectures."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "US GOVERNMENT: TARIFF TRANSITION",
+            "heading": "FMC: DETENTION FEES REGULATION",
             "points": [
-                "Analysts project immediate replacement of expiring Section 122 tariffs with broader Section 301 import duties.",
-                "Cross-border supply chain planners face sudden cost shocks for critical manufacturing inputs imported from key regions.",
-                "Legal experts advise importers to expedite customs clearance filings before the strict late July transition deadline.",
-                "Procurement teams shift sourcing strategies to non-tariffed corridors to hedge against escalating global trade friction."
+                "The federal court system upholds regulations requiring ocean carrier detention and demurrage billing to promote fluid cargo movement.",
+                "Ocean container carriers must immediately justify disputed terminal storage penalty assessments under strict regulatory reasonableness standards.",
+                "This landmark judicial ruling curtails punitive carrier practices that historically exacerbated container congestion at critical maritime gateways.",
+                "Importers will secure stronger legal leverage to dispute unfair port fees and optimize container return logistics."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "UPS: RFID SENSING DEPLOYMENT",
+            "heading": "ARCBEST: CAPACITY RATIONALIZATION INITIATIVE",
             "points": [
-                "National parcel carrier integrates radio frequency identification sensing across domestic small package delivery vehicles and hubs.",
-                "Automated scanning protocols eliminate manual package verification steps to accelerate throughput rates during peak operational cycles.",
-                "Real-time sensor networks provide absolute shipment visibility from initial carrier pickup through final residential parcel delivery.",
-                "Fulfillment operators leverage localized sensor data to refine predictable delivery windows and reduce logistics sorting errors."
+                "ArcBest initiates strategic operational downsizing by closing ten freight facilities and implementing targeted workforce reductions.",
+                "The carrier trims two percent of its total workforce to realign operational capacity with cooling volume trends.",
+                "This restructuring highlights widespread less-than-truckload industry corrections following the absorption of legacy logistics market capacity.",
+                "Shippers must re-evaluate alternative regional carriers as local shipping lanes shift due to terminal network consolidations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
