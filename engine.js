@@ -158,9 +158,12 @@ function switchSlide(id, element) {
         const slide = dailyData.slides[index];
         canvas.className = 'sub-slide-style';
         if (slide) {
+            // FIXED PARSER: Safely flattens point arrays and splits sentences into individual micro-bullets
             let bulletList = "";
             if (Array.isArray(slide.points)) {
-                bulletList = slide.points.map(p => `<li>${p}</li>`).join('');
+                const combinedText = slide.points.join(' ');
+                const sentences = combinedText.split('. ').filter(s => s.trim().length > 0);
+                bulletList = sentences.map(s => `<li>${s.trim().replace(/\.$/, '')}</li>`).join('');
             } else if (slide.content) {
                 const sentences = slide.content.split('. ').filter(s => s.trim().length > 0);
                 bulletList = sentences.map(s => `<li>${s.trim().replace(/\.$/, '')}</li>`).join('');
@@ -263,7 +266,7 @@ async function downloadAllSlides() {
             link.href = imageData;
             link.download = `SIYAL_AIR_${fileSuffix}.png`;
             
-                document.body.appendChild(link);
+            document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
         }
