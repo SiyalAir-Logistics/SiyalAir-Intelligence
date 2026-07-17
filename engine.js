@@ -127,38 +127,22 @@ function switchSlide(id, element) {
             return `<div>${word}</div>`;
         }).join('');
 
-        // DYNAMIC BRIEFING PANEL: Compiles exactly 7 slide titles into a polished panel list
-        const matrixItemsHTML = dailyData.slides.slice(0, 7).map((slide, idx) => {
-            const cleanHeading = slide.heading.replace(/:$/, '').trim();
-            return `
-                <div class="matrix-row-item">
-                    <span class="matrix-row-num">0${idx + 1}</span>
-                    <span class="matrix-row-text">${cleanHeading}</span>
-                </div>
-            `;
-        }).join('');
+        // BRAND FIXED LOGIC: Target exact brand parameters for Siyal Air
+        let kickerHTML = dailyData.main.kicker;
+        if (kickerHTML.includes('SIYAL AIR')) {
+            kickerHTML = kickerHTML.replace('AIR', '<span class="blue-text">AIR</span>');
+        }
         
-        canvas.className = 'main-hook-style premium-dashboard-layout'; 
-        html = `
-            <div class="dashboard-split-wrapper">
-                <!-- Left Column: Master Analytical Hook -->
-                <div class="dashboard-left-hook">
-                    <span class="briefing-kicker-tracker">UNCLASSIFIED // GLOBAL MACRO BRIEFING</span>
-                    <header>
-                        <h1 class="auto-fit main-title-impact">${stackedTitleHTML}</h1>
-                    </header>
-                    <div class="action-prompt-zone">SWIPE TO READ →</div>
+        canvas.className = 'main-hook-style'; 
+        html = `<div class="content-body">
+                <div class="logo-container">
+                    <img src="assets/logo.png" alt="SIYALAIR LOGO" class="brand-logo" onerror="this.style.display='none';">
                 </div>
-                
-                <!-- Right Column: Premium Intelligence Panel -->
-                <div class="dashboard-right-panel">
-                    <div class="panel-header-title">INSIDE THIS BRIEFING</div>
-                    <div class="panel-list-stack">
-                        ${matrixItemsHTML}
-                    </div>
-                </div>
-            </div>
-        `;
+                <span class="kicker">${kickerHTML}</span>
+                <header>
+                    <h1 class="auto-fit">${stackedTitleHTML}</h1>
+                </header>
+                </div><div class="swipe-prompt">SWIPE NEXT →</div>`;
     } else if (id === 'follow') {
         canvas.className = 'main-hook-style cta-slide';
         // CTA FIXED LOGIC: Optimized for conversion and enterprise links
@@ -196,7 +180,7 @@ function switchSlide(id, element) {
     canvas.innerHTML = html;
     setTimeout(() => {
         const titles = canvas.querySelectorAll('.auto-fit');
-        titles.forEach(t => fitText(t, 520, 420)); // Constrained bounding box to force accurate left column auto-fitting
+        titles.forEach(t => fitText(t, 500, 850));
     }, 50);
 }
 
