@@ -132,8 +132,8 @@ jobs:
       - name: Dispatch Reconfirmation Email Notification
         if: env.PUSH_SUCCESS == 'true'
         env:
-          EMAIL_USER: ${{ secrets.EMAIL_USERNAME }}
-          EMAIL_PASS: ${{ secrets.EMAIL_PASSWORD }}
+          EMAIL_USER: ${{ secrets.EMAIL_USER }}
+          EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
         run: |
           python - << 'EOF'
           import os
