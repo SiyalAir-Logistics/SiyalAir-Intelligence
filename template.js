@@ -1,18 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
-        "titleWhite": "DECOUPLING GLOBAL FREIGHT",
-        "titleBlue": "FLUIDITY"
+        "titleWhite": "GLOBAL FREIGHT",
+        "titleBlue": "COMPLIANCE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC: DETENTION FEE FLUIDITY",
+            "heading": "FMC: DETENTION FEE COMPLIANCE",
             "points": [
-                "US Appeals Court upholds Federal Maritime Commission rules requiring container detention fees to directly optimize cargo movement.",
-                "Carriers face strict limits on demurrage billing practices, preventing opportunistic storage charges during severe regional bottleneck events.",
-                "The landmark judicial decision solidifies federal regulatory authority over ocean carriers to protect domestic shippers from systemic exploitation.",
-                "Shippers must audit current carrier billing structures immediately to identify and challenge non-compliant ocean freight invoice charges."
+                "US Court of Appeals upholds federal ocean regulators ruling that container detention fees must actively promote freight fluidity.",
+                "Ocean carriers face immediate billing compliance audits with potential multi-million dollar penalties for non-compliant billing practices.",
+                "Shippers secure legal recourse against unfair terminal charges under the enforced Ocean Shipping Reform Act guidelines.",
+                "Marine terminal operators must adjust billing architectures to ensure real-time dispute resolution mechanisms are functional."
             ],
             "imageUrl": "",
             "tags": [
@@ -23,12 +23,28 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "DHS & DOT: CDL FRAUD CRACKDOWN",
+            "heading": "MARITIME: STRAIT OF HORMUZ RISK",
             "points": [
-                "Joint federal taskforce launches an intensive investigation targeting seventy-five commercial driver license training programs suspect of systemic fraud.",
-                "Regulatory audits threaten to disqualify thousands of active driver credentials, worsening the chronic domestic long-haul capacity shortage.",
-                "Heightened cross-agency enforcement signals an aggressive government effort to secure transport networks against unqualified commercial vehicle operators.",
-                "Logistics providers should thoroughly vet carrier driver rosters to mitigate liability risks associated with fraudulent licensing networks."
+                "Maritime risk evaluators warn of worst-case disruption scenarios for oil tankers transiting the strategic chokepoint.",
+                "Insurance underwriters increase war risk premiums for Middle East routes as commercial vessels face persistent regional threats.",
+                "Ocean carriers alter scheduling layouts to bypass volatile waterways despite high operational fuel burn rates.",
+                "Logistics managers execute contingency routing via alternative pipelines to mitigate prolonged transpacific transit disruptions."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "DOT & DHS: CDL FRAUD PROBE",
+            "points": [
+                "Joint federal task force targets seventy-five commercial driver license schools suspected of systemic safety training violations.",
+                "Enforcement sweeps target fraudulent driver credentials to secure the domestic supply chain against unchecked trucking operations.",
+                "Fleet operators face rigorous auditing protocols to verify driver certification validity amidst nationwide compliance crackdowns.",
+                "Regulatory pressure restricts available commercial driver pools complicating regional freight capacity planning during high volume quarters."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,13 +54,29 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "FEDEX: FREIGHT DIVISION SPINOFF",
+            "id": 4,
+            "heading": "AMAZON: PEAK SURCHARGE IMPLEMENTATION",
             "points": [
-                "FedEx officially completes the separation of its massive less-than-truckload freight segment into a standalone public company.",
-                "The structural shift enables independent capital allocation strategies, potentially triggering pricing adjustments across the North American market.",
-                "Corporate reorganization reflects a broader industry trend toward unlocking shareholder equity by separating specialized asset-heavy supply operations.",
-                "Enterprise shippers must renegotiate multi-year transport contracts as both entities transition to distinct commercial pricing frameworks."
+                "Global e-commerce giant schedules early holiday fulfillment fees starting October fifteenth to manage network capacity strains.",
+                "Sellers navigate an active three point five percent fuel and logistics surcharge applied over standard peak rates.",
+                "Inventory placement models must prioritize early inbound shipping strategies to minimize dynamic storage fee liabilities.",
+                "Multi-channel merchants adapt pricing margins to absorb compounding third-party logistics fulfillment costs during winter peak."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.retaildive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "FEDEX: FREIGHT SPINOFF COMPLETED",
+            "points": [
+                "Global logistics provider officially finalizes the corporate spin-off of its less-than-truckload subsidiary into public markets.",
+                "Independent capital structure allows the LTL entity to optimize network assets without corporate parent constraints.",
+                "Shippers prepare for renegotiated contract pricing structures as the carrier pursues pure-play yield management strategies.",
+                "Market analysts predict increased freight consolidation across North American LTL networks following this major corporate separation."
             ],
             "imageUrl": "",
             "tags": [
@@ -54,29 +86,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "USPS: HAZMAT SECURITY ENFORCEMENT",
+            "id": 6,
+            "heading": "US GOVERNMENT: TARIFF TRANSITION",
             "points": [
-                "United States Postal Service mandates strict password compliance policies and introduces costly new noncompliance fees for dangerous items.",
-                "Online sellers shipping common household goods like cosmetics face unexpected operational penalties without granular hazardous materials declarations.",
-                "Enhanced security protocols focus on eliminating dangerous unregulated shipments while securing digital fulfillment portals from cyber vulnerabilities.",
-                "E-commerce brands should rapidly integrate automated hazmat classification software into their warehouse dispatch pipelines to prevent fines."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "US GOVT: TARIFF TRANSITION MANDATE",
-            "points": [
-                "Looming expiration of Section 122 tariffs on July twenty-fourth prompts federal transition toward much broader Section 301 penalties.",
-                "Importers face sudden cost escalations across raw material categories, driving rapid re-evaluation of current transpacific production pipelines.",
-                "Geopolitical trade policy shifts focus increasingly on protecting domestic manufacturing bases through aggressive structural import cost barriers.",
-                "Procurement officers must accelerate nearshoring evaluations to buffer corporate supply chains against prolonged legislative tariff fluctuations."
+                "Analysts project immediate replacement of expiring Section 122 tariffs with broader Section 301 import duties.",
+                "Cross-border supply chain planners face sudden cost shocks for critical manufacturing inputs imported from key regions.",
+                "Legal experts advise importers to expedite customs clearance filings before the strict late July transition deadline.",
+                "Procurement teams shift sourcing strategies to non-tariffed corridors to hedge against escalating global trade friction."
             ],
             "imageUrl": "",
             "tags": [
@@ -86,33 +102,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "WEST COAST PORTS: RECORD IMPORT SURGE",
-            "points": [
-                "Port of Los Angeles logs over one million TEUs in June as shippers aggressively pull holiday inventory forward.",
-                "High frontloading volumes create localized inland chassis shortages, challenging distribution center capacity limits ahead of typical peak season.",
-                "Importers alter traditional shipping schedules to bypass impending tariff implementations and worsening maritime route diversions globally.",
-                "Warehouse operators must scale flexible labor resources and optimize yard spaces to handle highly irregular seasonal cargo deliveries."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "GLOBAL TRANSIT: STRATEGIC AIRFREIGHT SPIKE",
+            "heading": "UPS: RFID SENSING DEPLOYMENT",
             "points": [
-                "Severe maritime disruption around the Strait of Hormuz is projected to escalate global air cargo rates by fifteen percent.",
-                "Ocean delays force time-sensitive electronics and retail components into air lanes, triggering sudden space constraints for global shippers.",
-                "Intermodal volatility highlights the fragile nature of ocean transport, driving increased demand for premium multi-modal logistics alternatives.",
-                "Supply chain planners should pre-book air transport capacity immediately to mitigate severe bottleneck delays during peak delivery periods."
+                "National parcel carrier integrates radio frequency identification sensing across domestic small package delivery vehicles and hubs.",
+                "Automated scanning protocols eliminate manual package verification steps to accelerate throughput rates during peak operational cycles.",
+                "Real-time sensor networks provide absolute shipment visibility from initial carrier pickup through final residential parcel delivery.",
+                "Fulfillment operators leverage localized sensor data to refine predictable delivery windows and reduce logistics sorting errors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
