@@ -1,98 +1,66 @@
 const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
-        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
-        "titleBlue": "PIVOT"
+        "titleWhite": "GLOBAL TRADE",
+        "titleBlue": "DECOUPLING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OCEAN FREIGHT: CAPACITY AND RATE TRENDS",
+            "heading": "DOJ TRADE FRAUD: COMPLIANCE ENFORCEMENT",
             "points": [
-                "Transpacific container volumes remain robust as data center hardware and infrastructure shipments sustain peak season demand levels through July 2026.",
-                "Spot freight rates on major east-west trades exhibit a minor retreat as global ocean capacity increases and demand growth begins cooling.",
-                "Carriers are strategically deploying extra-loaders on key routes, yet vessel delays in major Chinese ports follow recent seasonal weather-related disruptions.",
-                "The Federal Maritime Commission remains focused on enforcing detention and demurrage billing practices to ensure continued fluidity in the global ocean supply chain."
+                "The DOJ Trade Fraud Task Force secured over one billion dollars in recoveries within its first year.",
+                "Importers face increased customs scrutiny as enforcement agencies target supply chain compliance and trade duty evasion.",
+                "Global logistics operations must implement real-time transaction screening to prevent severe regulatory penalties and forfeitures.",
+                "Advanced digital customs auditing systems are now critical to identify and remediate tariff classification discrepancies immediately."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATION: US TRADE COMPLIANCE ENFORCEMENT",
+            "heading": "ARCBEST: TERMINAL CONSOLIDATION",
             "points": [
-                "The Department of Justice Trade Fraud Task Force has officially surpassed $1 billion in total recoveries, penalties, and forfeitures since inception.",
-                "Stricter cabotage enforcement is currently limiting the participation of Mexican carriers within established US border zones to maintain regulatory compliance integrity.",
-                "Presidential tariff actions continue to expand, with new 25% duties applied to specific Brazilian imports affecting manufacturing and commodity procurement sectors nationwide.",
-                "Importers must monitor ongoing modifications to US trade actions as official government notices regarding suspension and liquidation of entries remain high-priority."
+                "ArcBest announced the closure of ten less-than-truckload terminals alongside a two percent reduction in workforce.",
+                "This structural consolidation addresses persistent freight volume soft spots and improves overall carrier network operating efficiency.",
+                "Shippers should evaluate regional terminal networks to mitigate localized delays stemming from carrier service point reductions.",
+                "Freight network optimizations are accelerating as carriers realign capacity with current industrial production demand trends."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.cbp.gov",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: PEAK SEASON AI DYNAMICS",
+            "heading": "AMAZON: HOLIDAY SURCHARGE IMPLEMENTATION",
             "points": [
-                "Air cargo markets show resilience as high-yield AI-related shipments offset weaker e-commerce demand during the current peak season transition window.",
-                "Major carriers are prioritizing AI-powered sales and procurement systems to streamline global capacity management amidst lingering geopolitical and operational risks.",
-                "New air cargo routes connecting Southeast Asia to US hubs are expanding capacity to support manufacturing supply chains despite ongoing Middle East tensions.",
-                "Airlines maintain cautious stances on Middle East connectivity, keeping strategic routes on hold while monitoring regional stability and volatile jet fuel pricing."
+                "Amazon announced its peak season holiday fulfillment fees starting October fifteenth with integrated logistics surcharges.",
+                "Merchants must absorb dynamic fuel and shipping surcharges representing a persistent shift in third-party fulfillment costs.",
+                "E-commerce supply chains are frontloading inventory to minimize peak-season storage expenses and shipping bottlenecks.",
+                "Automated fulfillment strategies are critical for online brands navigating escalating multi-channel marketplace distribution overheads."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "E-COMMERCE: MARKETPLACE POLICY SHIFTS",
+            "heading": "FEDEX: FREIGHT DIVISION SPINOFF",
             "points": [
-                "eBay is finalizing a $1.2 billion acquisition of the C2C fashion marketplace Depop following regulatory clearance from United Kingdom competition authorities.",
-                "Amazon has officially opened 2026 holiday deal submissions, signaling earlier lead times for peak season fulfillment planning and seller inventory management.",
-                "USPS implemented new noncompliance fees for hazardous materials, forcing sellers to review shipping protocols for common items like nail polish and essentials.",
-                "PayPal continues to sunset legacy seller profiles and update dispute resolution terms, impacting operational workflows for independent merchants across major digital platforms."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "TRUCKING: LTL CAPACITY AND OPERATIONAL COSTS",
-            "points": [
-                "US Class 8 retail sales recorded a slight increase in June, ending a year-long stretch of volume declines across the heavy-duty sector.",
-                "Operating costs for trucking fleets surged by 3.4% in 2025, reaching the highest average per-mile levels recorded since the current study began.",
-                "LTL carriers are actively restructuring networks, resulting in facility closures and headcount reductions to balance capacity against softer demand inflection points.",
-                "The industry remains focused on workforce development, utilizing AI-driven labor management tools to mitigate high turnover and improve operational service efficiency."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "TECHNOLOGY: AI-DRIVEN SUPPLY CHAIN TWINS",
-            "points": [
-                "Major retailers are betting on digital twins and AI-powered simulation tools to reconfigure supply chain strategies amidst global conflict and weather risks.",
-                "Warehouse automation is shifting toward flexible, modular software environments where robotics and connected systems work together to optimize high-volume distribution center throughput.",
-                "Demand-forecasting tools are being integrated directly into replenishment and inventory optimization platforms to close the critical gap between execution and strategic planning.",
-                "RFID sensing rollouts are expanding across small package networks to automate visibility, phasing out traditional manual scanning requirements in facility operations."
+                "FedEx officially completed the spinoff of its highly profitable less-than-truckload subsidiary FedEx Freight.",
+                "The newly independent public entity aims to optimize asset utilization and drive strategic capital allocation decisions.",
+                "This division reshapes the competitive dynamics of the domestic freight transportation and logistics service market.",
+                "Shippers must prepare for independent contract negotiations as the carrier transition updates its operational footprint."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +70,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "ENERGY & RISK: STRAIT OF HORMUZ IMPACTS",
+            "id": 5,
+            "heading": "STRAIT OF HORMUZ: GEOPOLITICAL BLOCKADE",
             "points": [
-                "The restoration of US blockades on Iranian energy tankers is forcing significant rerouting and operational delays in global crude shipping lanes.",
-                "Global oil markets face renewed volatility as pipeline agreements and regional tensions combine to drive fuel costs upward near seasonal peaks.",
-                "Supply chain leaders are evaluating climate-driven risks such as Super El Ni\u00f1o patterns, which threaten to expose vulnerabilities in global commodity movement.",
-                "Increased focus on domestic production and infrastructure investment is occurring as US manufacturers seek to hedge against geopolitical strife and tariff exposure."
+                "Renewed closures in the Strait of Hormuz have pushed ocean freight rates past previous pandemic peaks.",
+                "Energy tankers and container carriers are executing extensive route detours to bypass critical Middle East chokepoints.",
+                "Ocean shipping capacity faces immediate space crunches, prompting carriers to deploy emergency surcharge adjustments.",
+                "Procurement teams are restructuring maritime supply chains to accommodate extended transit times and soaring insurance premiums."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "FMC: DETENTION FEE REGULATION",
+            "points": [
+                "The US Court of Appeals upheld the Federal Maritime Commission decision regulating detention fee billing practices.",
+                "Demurrage and detention fees must strictly promote freight fluidity rather than serving as revenue generation tools.",
+                "Ocean carriers and port terminals must align billing structures with revised federal maritime transparency mandates.",
+                "Importers can now leverage standardized complaint procedures to dispute unfair or non-compliant container storage charges."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "USPS: COMPLIANCE FEE MANDATES",
+            "points": [
+                "The USPS implemented new hazardous materials noncompliance fees alongside strict digital account security deadline requirements.",
+                "Online merchants face automated penalty fees for improperly labeling common consumer products classified as dangerous goods.",
+                "Platform users must update system credentials by July thirtieth to maintain uninterrupted access to shipping portals.",
+                "E-commerce operators are updating warehouse labeling workflows to prevent unexpected transit charges and delivery holds."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
