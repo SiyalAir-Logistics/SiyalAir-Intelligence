@@ -1,118 +1,118 @@
 const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
-        "titleWhite": "FREIGHT INFRASTRUCTURE",
-        "titleBlue": "DISRUPTED"
+        "titleWhite": "DECODING GLOBAL LOGISTICS",
+        "titleBlue": "VOLATILITY"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC: DETENTION FEE FLUIDITY MANDATE",
+            "heading": "ATRI: OPERATIONAL COST ESCALATION",
             "points": [
-                "US federal court upheld that ocean carrier detention fees must actively incentivize fluid freight movement across terminals.",
-                "Ocean carriers face aggressive regulatory enforcement restricting arbitrary demurrage billings during extended port congestion events.",
-                "Shippers obtain enhanced transactional protection against billing disputes, forcing ocean carriers to streamline administrative validation.",
-                "Terminal operators must realign invoicing architectures with federal standards to prevent severe civil noncompliance penalties."
+                "ATRI reports average trucking operational costs surged to a record high of $2.336 per mile.",
+                "Rising expenses reflect a 3.4 percent year-over-year escalation in key baseline equipment and fuel line items.",
+                "Fleet operators must optimize resource allocation to mitigate persistent macroeconomic headwinds and margin compression.",
+                "High operating expenses will likely accelerate consolidation among struggling carrier networks throughout the third quarter."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: fmc.gov",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HORMUZ STRAIT TRANSIT CRITICAL",
+            "heading": "DOT & DHS: CDL FRAUD PROBE",
             "points": [
-                "Geopolitical conflict and maritime attacks in the Strait of Hormuz threaten global oil and container shipping capacity.",
-                "Ocean carrier spot rates are projected to surpass pandemic peaks due to prolonged Cape of Good Hope diversions.",
-                "Marine insurers are implementing aggressive risk premiums, significantly escalating the baseline operating costs for global tanker fleets.",
-                "Multimodal logistics planners must urgently activate alternative land-bridge and intermodal routing to bypass high-risk West Asian corridors."
+                "Interagency federal investigators target seventy-five commercial driver license schools in a coordinated nationwide enforcement action.",
+                "Joint operations focus on fraudulent credentialing schemes to secure supply chain integrity and driver safety.",
+                "Rigorous audits aim to eliminate unauthorized operators and enforce strict compliance with federal cabotage laws.",
+                "Supply chain executives must verify carrier driver credentials to prevent operational disruption and legal liabilities."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMAZON: HOLIDAY FULFILLMENT PEAK FEE",
+            "heading": "AMAZON: HOLIDAY FEES SURCHARGE",
             "points": [
-                "Amazon announced its holiday peak fulfillment fees starting October fifteenth, incorporating an ongoing fuel and logistics surcharge.",
-                "Third-party sellers face compressed profit margins, requiring early inventory intake to mitigate elevated holiday storage liabilities.",
-                "Automated fulfillment networks will prioritize high-velocity stock to optimize inventory turnover ratios during peak shopping windows.",
-                "Supply chain planners must recalibrate pricing architectures to offset the cumulative pressure of continuous marketplace logistics surcharges."
+                "Amazon initiates its peak holiday fulfillment fees starting October fifteenth to address seasonal supply chain strain.",
+                "The company implements an ongoing three point five percent fuel and logistics surcharge on all shipments.",
+                "Merchants must adjust their pricing structures to accommodate rising multi-channel fulfillment operational overhead costs.",
+                "Early inventory positioning is critical for brands aiming to mitigate elevated peak-season logistics and storage fees."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: retaildive.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "USPS: HAZMAT NONCOMPLIANCE PENALTY MATRIX",
+            "heading": "USPS: HAZMAT & PASSWORD COMPLIANCE",
             "points": [
-                "United States Postal Service enforces strict new noncompliance fees targeting undeclared hazardous materials inside regional networks.",
-                "E-commerce shippers face automated detection checks on common household items, escalating delivery delays and financial liabilities.",
-                "Logistics platforms must integrate automated hazardous material categorization filters directly into pre-shipment label generation protocols.",
-                "Third-party sellers must update packing procedures to ensure full compliance with regulatory safety reporting guidelines."
+                "United States Postal Service enforces strict password compliance rules for all online merchant accounts by July thirtieth.",
+                "New noncompliance fees target unauthorized hazardous material shipments to ensure safe transportation throughout postal networks.",
+                "E-commerce businesses must update cybersecurity protocols and hazard classification procedures to avoid automated penalties.",
+                "Regulatory shifts demand real-time compliance auditing to prevent shipping delays and localized delivery disruptions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ecommercebytes.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PORT OF ANTWERP: TERMINAL TOXIC SHUTDOWN",
+            "heading": "PORT OF LA: RECORD IMPORT SURGE",
             "points": [
-                "A severe toxic gas leak at Port of Antwerp forced immediate closure of major container box terminals.",
-                "Regional supply chains face immediate vessel berthing delays and localized intermodal drayage congestion throughout Northern Europe.",
-                "Terminal operators initiated emergency environmental sweeps to certify safe working conditions before fully reopening affected dock zones.",
-                "Global shippers must expect minor transit delays as carriers adjust vessel arrival schedules to minimize port dwell."
+                "Port of Los Angeles logs over one million TEUs in June amid tariff and geopolitical anxieties.",
+                "Shippers accelerate peak season volumes early to bypass potential Red Sea and Strait of Hormuz bottlenecks.",
+                "Record-high container arrivals stress regional inland intermodal links and raise equipment chassis availability concerns.",
+                "Logistic managers must implement diversified routing strategies to maintain fluid cross-border supply chain operations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "US GOVERNMENT: TARIFF POLICY TRANSITION",
+            "heading": "FEDEX: FREIGHT DIVISION SPINOFF",
             "points": [
-                "Trade analysts predict a swift transition from expiring Section one-twenty-two tariffs to expanded Section three-O-one trade duties.",
-                "Importers are accelerating inbound shipments to bypass anticipated financial friction from aggressive new custom enforcement measures.",
-                "Customs brokers must rapidly adjust compliance frameworks to avoid costly clearance delays at major US entry ports.",
-                "International supply chains face persistent architectural pressure to diversify production origins away from targeted manufacturing hubs."
+                "FedEx completes the official spin-off of its less-than-truckload subsidiary FedEx Freight into a separate public entity.",
+                "The strategic realignment aims to unlock enterprise value and optimize operational focus for both corporate units.",
+                "Shippers must renegotiate service contracts as the newly independent freight carrier adjusts its regional pricing structures.",
+                "The transaction underscores broader industry restructuring as transportation conglomerates streamline multi-modal services."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "J.B. HUNT: INTERMODAL VALUE OPTIMIZATION",
+            "heading": "UNITED AIRLINES: CARGO REVENUE SURGE",
             "points": [
-                "J.B. Hunt reports that domestic intermodal cost competitiveness against over-the-road trucking has reached its strongest level in a decade.",
-                "Shippers are shifting high-volume freight lanes toward rail intermodal to achieve substantial fuel and carbon emission reductions.",
-                "Operational investments in terminal expansions and chassis pool availability continue to support improved container transit times.",
-                "Transportation networks must balance intermodal integration with spot market capacity variations to optimize regional distribution cost curves."
+                "United Airlines records a twenty-three percent surge in cargo revenue driven by massive peak-season transport yields.",
+                "High shipping volumes mirror pandemic-era demand levels as geopolitical conflicts disrupt traditional ocean freight lanes.",
+                "Air freight capacity remains highly constrained along major transpacific routes due to surging electronic commerce exports.",
+                "Forwarders should lock in long-term capacity agreements to hedge against volatile spot-market rate fluctuations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: joc.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
