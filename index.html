@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AEON INTEL | POST GENERATOR</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <nav id="control-panel">
+        <div class="tabs" id="slide-tabs">
+            </div>
+        <div class="actions">
+            <button type="button" id="download-active" class="action-btn download">DOWNLOAD SLIDE</button>
+        </div>
+    </nav>
+
+    <div id="render-container">
+        <div id="post-canvas" class="instagram-portrait">
+            
+            <main class="content-body">
+                <header>
+                    <h1 id="slide-heading">INITIALIZING...</h1>
+                    <div class="header-divider"></div>
+                </header>
+                
+                <section id="slide-content">
+                </section>
+
+                <div id="slide-tags" class="tag-container"></div>
+
+                <footer class="canvas-footer" style="display: none !important;">
+                    <p>NEWS. INSIGHT. IMPACT.</p>
+                    <div class="footer-accent"></div>
+                </footer>
+            </main>
+
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
+    
+    <script>
+      (function() {
+        const cacheBuster = new Date().getTime();
+        const script = document.createElement('script');
+        script.src = `template.js?v=${cacheBuster}`;
+        script.async = false; // Guarantees execution completes sequentially before engine.js processes it
+        document.body.appendChild(script);
+      })();
+    </script>
+
+    <script src="engine.js"></script>
+</body>
+</html>
