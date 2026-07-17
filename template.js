@@ -1,6 +1,6 @@
 const dailyData = {
     "main": {
-        "kicker": "SIYALAIR INTEL",
+        "kicker": "AEON INTEL",
         "titleWhite": "SOVEREIGN AGENTIC COMPUTE",
         "titleBlue": "ARCHITECTURE"
     },
