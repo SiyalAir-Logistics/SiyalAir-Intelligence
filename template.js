@@ -1,98 +1,18 @@
 const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
-        "titleWhite": "GLOBAL LOGISTICS NETWORK",
-        "titleBlue": "SHIFTS"
+        "titleWhite": "SUPPLY CHAIN",
+        "titleBlue": "DECOUPLING"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "UPS: RFID SENSING NETWORK",
+            "heading": "FMC: FREIGHT FLUIDITY RULE UPHOLD",
             "points": [
-                "UPS initiates a nationwide deployment of radio frequency identification sensors to eliminate manual package scanning operations.",
-                "The integration achieves real-time location tracking for millions of shipments across the domestic small package network.",
-                "Embedding automated sensing directly into transit vehicles builds a foundation for highly resilient e-commerce delivery pipelines.",
-                "Shippers will experience enhanced visibility and reduced dwell times at major parcel sorting facilities worldwide."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "FEDEX: FREIGHT SUBSIDIARY SPINOFF",
-            "points": [
-                "FedEx officially finalizes the corporate separation of its less-than-truckload shipping subsidiary into an independent public entity.",
-                "The structural division allows FedEx Freight to pursue independent capital allocation strategies and optimize operational margins.",
-                "This transition marks a critical realignment of express parcel delivery networks from heavy commercial shipping fleets.",
-                "Industrial manufacturers should expect altered regional shipping rate structures as the new corporate framework takes effect."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "USPS: PASSWORD COMPLIANCE MANDATE",
-            "points": [
-                "The United States Postal Service enforces strict new credential verification protocols for all digital shipping accounts.",
-                "Non-compliant enterprise users face immediate system lockout from scheduling carrier pickups and managing customer returns portals.",
-                "This security enforcement represents a broader government push to protect crucial cross-border transactional and address databases.",
-                "E-commerce merchants must rapidly update automated shipping APIs to prevent major downstream order processing delays."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AMAZON: ROBOTIC SORTATION INFRASTRUCTURE",
-            "points": [
-                "Amazon prepares to deploy advanced robotic sortation technologies at its newest fulfillment facility in Texas.",
-                "The automated infrastructure significantly accelerates regional package routing speeds while mitigating ongoing warehouse labor shortages.",
-                "Scaling robotics across major regional hubs reinforces rapid last-mile delivery capabilities for high-volume marketplace sellers.",
-                "Competitors will face increased pressure to automate sorting terminals to match expedited regional transit times."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "EBAY: DEPOP ACQUISITION APPROVAL",
-            "points": [
-                "United Kingdom regulatory authorities officially approve eBay's acquisition of fashion marketplace Depop for over one billion dollars.",
-                "The consolidation merges high-volume consumer-to-consumer apparel transaction flows directly under eBay's expansive digital logistics network.",
-                "This acquisition strengthens marketplace dominance in specialized fashion verticals amid intensifying competition from global e-commerce players.",
-                "Apparel sellers will navigate harmonized cross-border shipping tools as the platforms integrate their fulfillment architectures."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "FMC: DETENTION FEES REGULATION",
-            "points": [
-                "The federal court system upholds regulations requiring ocean carrier detention and demurrage billing to promote fluid cargo movement.",
-                "Ocean container carriers must immediately justify disputed terminal storage penalty assessments under strict regulatory reasonableness standards.",
-                "This landmark judicial ruling curtails punitive carrier practices that historically exacerbated container congestion at critical maritime gateways.",
-                "Importers will secure stronger legal leverage to dispute unfair port fees and optimize container return logistics."
+                "The US Court of Appeals upheld the Federal Maritime Commission decision on detention and demurrage billing practices.",
+                "Ocean carriers must now ensure that all levied detention fees actively promote port and container fluidity.",
+                "Shippers gain increased protection against unfair billing practices under the updated Ocean Shipping Reform Act framework.",
+                "This legal validation solidifies the regulatory power of the commission to police anticompetitive marine terminal operations."
             ],
             "imageUrl": "",
             "tags": [
@@ -102,17 +22,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "ARCBEST: CAPACITY RATIONALIZATION INITIATIVE",
+            "id": 2,
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT SURGE",
             "points": [
-                "ArcBest initiates strategic operational downsizing by closing ten freight facilities and implementing targeted workforce reductions.",
-                "The carrier trims two percent of its total workforce to realign operational capacity with cooling volume trends.",
-                "This restructuring highlights widespread less-than-truckload industry corrections following the absorption of legacy logistics market capacity.",
-                "Shippers must re-evaluate alternative regional carriers as local shipping lanes shift due to terminal network consolidations."
+                "The Department of Justice Trade Fraud Task Force surpassed one billion dollars in total financial recoveries.",
+                "Enforcement actions target customs evasion, duty avoidance, and illegal transshipment networks across global maritime supply chains.",
+                "Importers face heightened scrutiny as federal agencies deploy advanced data analytics to detect trade compliance violations.",
+                "Logistics operators must audit supply chain documentation to mitigate severe exposure to federal trade fraud penalties."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "FEDEX: FREIGHT LTL SPINOFF COMPLETED",
+            "points": [
+                "FedEx officially finalized the spin-off of its highly profitable less-than-truckload subsidiary into a separate public entity.",
+                "The standalone company will operate independently to optimize capital allocation and maximize freight market network efficiency.",
+                "Shippers must prepare for independent pricing strategies as the carrier decouples from the broader parcel network.",
+                "This structural transformation represents a massive shift in the competitive North American trucking and logistics landscape."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "EBAY: ECOMMERCE ACQUISITION CLEARANCE",
+            "points": [
+                "United Kingdom regulators officially cleared the one point two billion dollar acquisition of fashion marketplace Depop.",
+                "The structural deal allows the acquiring marketplace platform to aggressively expand its global peer-to-peer apparel operations.",
+                "Integrating the specialized platform enhances consumer-to-consumer digital infrastructure and scales secondary market transactional capability.",
+                "Multi-channel sellers must adapt to changing merchant rules as fashion marketplaces consolidate under unified corporate control."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "ARCBEST: ABF TERMINAL CLOSURES SHIFT",
+            "points": [
+                "ArcBest announced plans to close ten ABF Freight terminals and reduce its workforce by two percent.",
+                "The structural cost-cutting measures respond to softer freight volumes and persistent tonnage pressures across trucking networks.",
+                "This operational consolidation will redirect freight flows through larger regional hubs to maintain system-wide service levels.",
+                "Industrial shippers face potential transit disruptions as local LTL terminal capacity is pruned in selected regions."
             ],
             "imageUrl": "",
             "tags": [
                 "Source: https://www.freightwaves.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "USPS: HAZMAT AND SECURITY MANDATES",
+            "points": [
+                "The postal service implemented mandatory password compliance deadlines alongside new penalty structures for noncompliant hazmat shippers.",
+                "Sellers utilizing online portal accounts must update authentication credentials to maintain access to shipping label systems.",
+                "Strict new penalties will apply to undeclared hazardous materials shipments including daily household items and chemicals.",
+                "Importers and e-commerce merchants must integrate automated compliance software to prevent unexpected delays and monetary fines."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "SARONIC: AUTOMATED SHIPYARD PORT ALPHA",
+            "points": [
+                "Autonomous vessel manufacturer Saronic selected a Texas port to construct a three billion dollar defense shipyard.",
+                "The facility named Port Alpha will build automated surface vessels up to twelve hundred feet in length.",
+                "This massive infrastructure project aims to accelerate the manufacturing of uncrewed defense-capable maritime transport platforms.",
+                "Commercial shipbuilders face intense competition for regional labor as advanced automation assembly plants expand in Texas."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
