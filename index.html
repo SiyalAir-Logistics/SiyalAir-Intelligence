@@ -8,49 +8,73 @@
 </head>
 <body>
 
+    <!-- Control Panel Top Navigation -->
     <nav id="control-panel">
-        <div class="tabs" id="slide-tabs">
-            </div>
+        <div class="tabs" id="slide-tabs"></div>
         <div class="actions">
             <button type="button" id="download-active" class="action-btn download">DOWNLOAD SLIDE</button>
         </div>
     </nav>
 
+    <!-- Render Studio Workspace Container -->
     <div id="render-container">
         <div id="post-canvas" class="instagram-portrait">
             
+            <!-- Core Document Layer Container -->
             <main class="content-body">
-                <header>
+                
+                <!-- Document Header Section -->
+                <header class="canvas-header-block">
+                    <!-- Target for dynamic metadata tags / briefings lines -->
+                    <div id="slide-kicker" class="kicker"></div>
+                    
+                    <!-- Core Analytical Title Hook -->
                     <h1 id="slide-heading">INITIALIZING...</h1>
                     <div class="header-divider"></div>
                 </header>
                 
-                <section id="slide-content">
-                </section>
+                <!-- Standard Carousel Sub-Slide Bullet Points Container -->
+                <section id="slide-content"></section>
 
+                <!-- Premium Bottom Executive Matrix Container (Main Slide Only) -->
+                <div id="briefing-matrix" class="matrix-panel-block">
+                    <div class="matrix-panel-title">INSIDE THIS BRIEFING</div>
+                    <div id="matrix-grid-flow" class="matrix-grid-container">
+                        <!-- Dynamically populated with exactly 7 slide titles by engine.js -->
+                    </div>
+                </div>
+
+                <!-- Footer Tag Cloud Zone -->
                 <div id="slide-tags" class="tag-container"></div>
 
+                <!-- Hidden Legacy Footers -->
                 <footer class="canvas-footer" style="display: none !important;">
                     <p>NEWS. INSIGHT. IMPACT.</p>
                     <div class="footer-accent"></div>
                 </footer>
+                
+                <!-- Corner Action Prompt -->
+                <div id="footer-swipe-prompt" class="swipe-prompt">SWIPE NEXT →</div>
             </main>
 
         </div>
     </div>
 
+    <!-- External Dependency Render Core -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     
+    <!-- Proactive Cache Buster Script Element -->
     <script>
       (function() {
         const cacheBuster = new Date().getTime();
         const script = document.createElement('script');
         script.src = `template.js?v=${cacheBuster}`;
-        script.async = false; // Guarantees execution completes sequentially before engine.js processes it
+        script.async = false; 
         document.body.appendChild(script);
       })();
     </script>
 
+    <!-- Core Automation System Pipeline -->
     <script src="engine.js"></script>
 </body>
 </html>
