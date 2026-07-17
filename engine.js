@@ -127,22 +127,35 @@ function switchSlide(id, element) {
             return `<div>${word}</div>`;
         }).join('');
 
-        // BRAND FIXED LOGIC: Target exact brand parameters for Siyal Air
-        let kickerHTML = dailyData.main.kicker;
-        if (kickerHTML.includes('SIYAL AIR')) {
-            kickerHTML = kickerHTML.replace('AIR', '<span class="blue-text">AIR</span>');
-        }
-        
-        canvas.className = 'main-hook-style'; 
-        html = `<div class="content-body">
-                <div class="logo-container">
-                    <img src="assets/logo.png" alt="SIYALAIR LOGO" class="brand-logo" onerror="this.style.display='none';">
+        // DYNAMIC PREVIEW GENERATION: Compiles exactly 7 sub-slide titles for the bottom matrix panel
+        const matrixItemsHTML = dailyData.slides.slice(0, 7).map((slide, idx) => {
+            const cleanHeading = slide.heading.replace(/:$/, '').trim();
+            return `
+                <div class="matrix-item">
+                    <span class="matrix-num">0${idx + 1}</span>
+                    <span class="matrix-text">${cleanHeading}</span>
                 </div>
-                <span class="kicker">${kickerHTML}</span>
+            `;
+        }).join('');
+        
+        canvas.className = 'main-hook-style clean-intel-layout'; 
+        html = `
+            <div class="content-body intel-cover-container">
+                <span class="kicker">UNCLASSIFIED // GLOBAL MACRO BRIEFING</span>
                 <header>
                     <h1 class="auto-fit">${stackedTitleHTML}</h1>
                 </header>
-                </div><div class="swipe-prompt">SWIPE NEXT →</div>`;
+                
+                <!-- Bottom Briefing Matrix Panel -->
+                <div class="briefing-bottom-matrix">
+                    <div class="matrix-header">INSIDE THIS BRIEFING</div>
+                    <div class="matrix-grid-layout">
+                        ${matrixItemsHTML}
+                    </div>
+                </div>
+            </div>
+            <div class="swipe-prompt">SWIPE NEXT →</div>
+        `;
     } else if (id === 'follow') {
         canvas.className = 'main-hook-style cta-slide';
         // CTA FIXED LOGIC: Optimized for conversion and enterprise links
