@@ -1,2 +1,2 @@
-# aeon-intel-feed
-Automated intelligence feed for AEON INTEL.
+# siyalair-intel-feed
+Automated intelligence feed for SIYALAIR LOGISTICS.
