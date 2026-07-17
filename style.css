@@ -77,85 +77,107 @@ body {
 }
 
 /* ==========================================================================
-   SEGMENT 1: MAIN SLIDE (Optimized "Max-Fill" Layout)
+   SEGMENT 1: MAIN SLIDE (Modular "Box" System)
    ========================================================================== */
 
 .main-hook-style .content-body {
-    padding: 80px; 
+    padding: 60px; /* Overall container padding */
     height: 1350px;
     display: flex;
     flex-direction: column;
     overflow: hidden;
 }
 
-/* 1. THE TITLE BOX (Vertical Centered Flow) */
-.main-hook-style header {
-    height: 600px; 
+/* --------------------------------------------------------------------------
+   BOX 1: THE LABEL (e.g., "UNCLASSIFIED // GLOBAL MACRO BRIEFING")
+   -------------------------------------------------------------------------- */
+.main-hook-style .label-box {
+    height: 80px; /* Control height */
+    padding-bottom: 20px; /* Space between label and title */
+    display: flex;
+    align-items: flex-end;
+}
+
+.main-hook-style .label-box p {
+    font-size: 30px; /* Change font size here */
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #ffffff;
+    opacity: 0.8;
+}
+
+/* --------------------------------------------------------------------------
+   BOX 2: THE MAIN TITLE (The Headline)
+   -------------------------------------------------------------------------- */
+.main-hook-style .title-box {
+    height: 500px; /* Control title box height */
+    padding: 0;
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Fixes title touching top: centers vertically */
+    justify-content: center; /* Vertically centers the text in this box */
     width: 100%;
 }
 
-.main-hook-style header h1 {
-    font-family: var(--font-title) !important;
+.main-hook-style .title-box h1 {
+    font-family: var(--font-title);
     display: flex;
     flex-direction: row; 
     flex-wrap: wrap;     
     gap: 0px 25px;       
     width: 100%;
-    margin-bottom: 0; /* Removed margin to let centering do the work */
 }
 
-.main-hook-style header h1 span, 
-.main-hook-style header h1 div {
-    display: inline-block !important; 
-    font-size: clamp(90px, 11cqw, 160px) !important; 
-    line-height: 1.05 !important;
-    font-weight: 900 !important;
-    text-transform: uppercase !important;
+.main-hook-style .title-box h1 span, 
+.main-hook-style .title-box h1 div {
+    display: inline-block; 
+    font-size: clamp(90px, 11cqw, 160px); /* Adjust font size range */
+    line-height: 1.0; 
+    font-weight: 900;
+    text-transform: uppercase;
     transform: scaleY(1.1);
     transform-origin: left;
     white-space: nowrap; 
 }
 
-/* TARGETS THE LAST WORD (TEAL) */
-.main-hook-style header h1 span:last-child,
-.main-hook-style header h1 div:last-child {
+/* The "Last Word Blue" logic */
+.main-hook-style .title-box h1 span:last-child,
+.main-hook-style .title-box h1 div:last-child {
     color: var(--aeon-blue) !important;
 }
 
-/* 2. THE NEWS LIST BOX (Expanded & High-Visibility) */
-.main-hook-style .bulletin-list {
-    flex: 1; 
+/* --------------------------------------------------------------------------
+   BOX 3: THE NEWS LIST (The 7 Briefing Titles)
+   -------------------------------------------------------------------------- */
+.main-hook-style .list-box {
+    flex: 1; /* Fills remaining space */
+    padding-top: 40px; /* Space between title and list */
     display: flex;
     flex-direction: column;
-    justify-content: center; /* Centers the list block vertically in the remaining space */
+    justify-content: flex-start;
+}
+
+.main-hook-style .bulletin-list {
     list-style: none;
-    margin-top: 20px;
     width: 100%;
-    padding-right: 50px;
 }
 
 .main-hook-style .bulletin-list li {
     font-family: var(--font-body);
-    /* Increased font size for maximum visibility */
-    font-size: clamp(50px, 5cqw, 70px) !important; 
-    font-weight: 600; 
+    font-size: clamp(45px, 4cqw, 60px); /* Adjust list font size */
+    font-weight: 500;
     color: #ffffff;
-    line-height: 1.3; 
-    margin-bottom: 40px; /* Increased gaps for professional spacing */
+    line-height: 1.3;
+    margin-bottom: 35px; /* Vertical gap between items */
     text-transform: uppercase;
     display: flex;
     align-items: center;
-    width: 100%;
 }
 
 .main-hook-style .bulletin-list li .num {
     color: var(--aeon-blue);
     font-weight: 800;
-    margin-right: 40px;
-    min-width: 70px; /* Larger hit box for numbers */
+    margin-right: 30px;
+    min-width: 60px; /* Controls space between number and text */
 }
 
 /* ==========================================================================
