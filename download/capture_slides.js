@@ -30,7 +30,8 @@ const path = require('path');
     });
 
     console.log("Connecting to live visual matrix page...");
-    await page.goto('https://siyalair-logistics.github.io/SiyalAir-Intelligence', {
+    // LOCKED IN: Target the authentic SiyalAir website deployment URL
+    await page.goto('https://siyalair-logistics.github.io/SiyalAir-Intelligence/', {
         waitUntil: 'networkidle2',
         timeout: 60000
     });
