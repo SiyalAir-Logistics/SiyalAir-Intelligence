@@ -30,7 +30,7 @@ const path = require('path');
     });
 
     console.log("Connecting to live visual matrix page...");
-    await page.goto('https://github.com/SiyalAir-Logistics/SiyalAir-Intelligence', {
+    await page.goto('https://siyalair-logistics.github.io/SiyalAir-Intelligence', {
         waitUntil: 'networkidle2',
         timeout: 60000
     });
