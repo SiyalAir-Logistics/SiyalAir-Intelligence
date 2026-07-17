@@ -77,88 +77,81 @@ body {
 }
 
 /* ==========================================================================
-   SEGMENT 1: MAIN SLIDE (Hook Style - Optimized for Premium Flow)
+   SEGMENT 1: MAIN SLIDE (Optimized "Invisible Wall" Layout)
    ========================================================================== */
 
 .main-hook-style .content-body {
-    padding-top: 120px;
-    padding-left: 120px;
-    padding-right: 120px;
-    padding-bottom: 80px;
-    max-height: 1350px;
+    padding: 100px; /* Uniform padding */
+    height: 1350px;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden; /* Hard wall: Nothing escapes */
+}
+
+/* 1. THE TITLE BOX (Fixed Boundary) */
+.main-hook-style header {
+    height: 600px; /* Fixed "Invisible Wall" Height */
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    align-items: flex-start;
-}
-
-.main-hook-style .kicker {
-    font-family: 'anteroly', sans-serif !important;
-    color: var(--text-white);
-    font-size: 32px;
-    font-weight: 400;
-    letter-spacing: 12px;
-    text-transform: uppercase;
-    margin-bottom: 40px;
-    opacity: 0.8;
+    overflow: hidden; 
+    border: 0px solid red; /* Demo wall */
 }
 
 .main-hook-style header h1 {
     font-family: var(--font-title) !important;
-    margin-bottom: 50px;
     display: flex;
     flex-direction: column;
     width: 100%;
-    max-width: 900px; 
+    margin-bottom: 0;
 }
 
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
-    display: block !important;
-    transform: scaleY(1.3); /* Slightly reduced stretch for elegance */
-    transform-origin: left;
-    font-size: clamp(80px, 10cqw, 120px) !important; 
-    line-height: 1.1 !important; /* Tight leading for stacked look */
+    /* Responsive sizing that shrinks if words are too long */
+    font-size: clamp(60px, 9cqw, 130px) !important; 
+    line-height: 1.1 !important;
     font-weight: 800 !important;
-    letter-spacing: -2px !important;
     text-transform: uppercase !important;
-    color: var(--text-white);
+    transform: scaleY(1.2);
+    transform-origin: left;
 }
 
-/* Target the last visual line of the main title for the Teal Accent */
-.main-hook-style header h1 span:last-child,
-.main-hook-style header h1 div:last-child {
-    color: var(--aeon-blue) !important;
-}
-
+/* 2. THE NEWS LIST BOX (Variable Box that fills remaining space) */
 .main-hook-style .bulletin-list {
+    flex: 1; /* Occupies exactly the space between Title and Footer */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Vertically center the 7 items */
     list-style: none;
-    margin-top: auto; /* Push bullets to bottom area */
-    padding-top: 40px;
-    border-top: 1px solid rgba(255, 255, 255, 0.2);
-    width: 100%;
-    max-width: 850px;
+    overflow: hidden; /* Hard wall: List will clip if too long */
+    margin-top: 20px;
 }
 
 .main-hook-style .bulletin-list li {
     font-family: var(--font-body);
-    font-size: clamp(24px, 3cqw, 32px); 
+    /* Dynamic scaling: larger if few items, smaller if text is long */
+    font-size: clamp(20px, 2.5cqw, 30px) !important; 
     font-weight: 300;
     color: #ffffff;
-    letter-spacing: 0.5px;
-    line-height: 1.4; 
-    margin-bottom: 25px; 
+    line-height: 1.3; 
+    margin-bottom: 12px; 
     text-transform: uppercase;
     display: flex;
     align-items: center;
 }
 
+/* Ensures the number alignment stays clean */
 .main-hook-style .bulletin-list li .num {
     color: var(--aeon-blue);
     font-weight: 700;
-    margin-right: 30px;
-    font-size: 0.8em;
+    margin-right: 20px;
+    min-width: 40px; /* Aligns the start of the text */
 }
+
+/* 3. THE "SWIPE NEXT" FOOTER BOUNDARY */
+/* This will naturally sit at the bottom because the bulletin-list 
+   takes up all flexible space (flex: 1), pushing this to the bottom edge. */
 
 /* ==========================================================================
    SEGMENT 2: MIDDLE SLIDES (Sub-Slide Style - PRESERVED)
