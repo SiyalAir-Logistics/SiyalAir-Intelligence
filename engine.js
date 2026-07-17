@@ -1,5 +1,5 @@
 /**
- * AEON-INTEL-STUDIO CORE ENGINE
+ * SIYALAIR-INTEL-STUDIO CORE ENGINE
  * Specialized to handle local background images without CORS errors.
  */
 
@@ -130,16 +130,16 @@ function switchSlide(id, element) {
             return `<div>${word}</div>`;
         }).join('');
 
-        // Dynamically style the kicker string to make "INTEL" dark blue
+        // Dynamically style the kicker string to make "AIR" dark blue
         let kickerHTML = dailyData.main.kicker;
-        if (kickerHTML.includes('AEON INTEL')) {
+        if (kickerHTML.includes('SIYALAIR INTEL')) {
             kickerHTML = kickerHTML.replace('INTEL', '<span class="blue-text">INTEL</span>');
         }
         
         canvas.className = 'main-hook-style'; 
         html = `<div class="content-body">
                 <div class="logo-container">
-                    <img src="assets/logo.png" alt="AEON INTEL LOGO" class="brand-logo" onerror="this.style.display='none';">
+                    <img src="assets/logo.png" alt="SIYALAIR LOGO" class="brand-logo" onerror="this.style.display='none';">
                 </div>
                 <span class="kicker">${kickerHTML}</span>
                 <header>
@@ -207,7 +207,7 @@ async function downloadCurrentSlide() {
         const slideName = activeTab ? activeTab.innerText.replace(/\s+/g, '_') : "SLIDE";
         
         link.href = imageData;
-        link.download = `AEON_INTEL_${slideName}.png`;
+        link.download = `SIYAL_AIR_${slideName}.png`;
         
         document.body.appendChild(link);
         link.click();
@@ -263,7 +263,7 @@ async function downloadAllSlides() {
             const fileSuffix = typeof slideId === 'string' ? slideId.toUpperCase() : `SLIDE_${slideId}`;
             
             link.href = imageData;
-            link.download = `AEON_INTEL_${fileSuffix}.png`;
+            link.download = `SIYAL_AIR_${fileSuffix}.png`;
             
             document.body.appendChild(link);
             link.click();
