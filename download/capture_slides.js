@@ -30,7 +30,7 @@ const path = require('path');
     });
 
     console.log("Connecting to live visual matrix page...");
-    await page.goto('https://mrfahimroshansiyals-sudo.github.io/aeon-intel-feed', {
+    await page.goto('https://github.com/SiyalAir-Logistics/SiyalAir-Intelligence', {
         waitUntil: 'networkidle2',
         timeout: 60000
     });
