@@ -1,22 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUPPLY CHAIN CAPACITY",
+        "titleWhite": "GLOBAL FREIGHT SYSTEM",
         "titleBlue": "SHIFTS",
-        "footerSummary": "FMC detention ruling and strategic carrier restructurings accelerate freight compliance mandates, forcing shippers to optimize network resilience."
+        "footerSummary": "Global trade networks are reorganizing around aggressive federal fraud enforcement, strict ocean freight billing regulations, and structured carrier terminal network consolidations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC: DETENTION FEE REGULATION",
+            "heading": "USPS: COMPLIANCE REGULATIONS",
             "points": [
-                "US Court of Appeals upholds FMC ruling requiring detention fees strictly to promote freight fluidity.",
-                "Shipping lines face heightened enforcement as carriers must justify administrative billing under revised regulatory oversight standards.",
-                "Importers receive enhanced legal leverage to contest unfair detention charges across US container gateways and terminals.",
-                "Compliance teams must audit historical ocean carrier billing data to identify systemic non-compliant demurrage fees immediately."
+                "USPS enforces strict credential compliance mandates starting July 30 to secure global e-commerce transit.",
+                "New hazardous materials handling fees are targeting undeclared lithium batteries inside domestic air parcels.",
+                "Sellers must integrate automated address validation modules to bypass manual routing delays at hubs.",
+                "Multi-factor authentication pathways will prevent bulk account suspensions across high-volume merchant shipment profiles."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: FREIGHT SPIN-OFF COMPLETED",
+            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
+            "points": [
+                "The Justice Department's Trade Fraud Task Force recovered over one billion dollars since inception.",
+                "Enforcement actions target misclassified consumer imports bypassing de minimis exemptions at major entry ports.",
+                "Importers must execute comprehensive supply chain trace audits to mitigate rising federal regulatory liabilities.",
+                "Supply chain automation platforms are introducing predictive compliance engines to flag historical tariff vulnerabilities."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FMC: FREIGHT FLUIDITY MANDATES",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "FMC: FREIGHT FLUIDITY MANDATES",
+            "points": [
+                "US Appeals Court upheld FMC detention rules ensuring billing practices promote terminal freight fluidity.",
+                "Ocean carriers cannot levy detention fees on containers during periods of extreme port congestion.",
+                "The decision establishes clear billing guidelines and dispute resolution channels for transpacific import shippers.",
+                "Marine terminal systems must integrate standardized data-sharing protocols to optimize container dwell time profiles."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "UPS: RFID NETWORK IMPLEMENTATION",
             "tags": [
                 "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
@@ -24,50 +58,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "FEDEX: FREIGHT SPIN-OFF COMPLETED",
-            "points": [
-                "FedEx officially completes the planned corporate spin-off of its less-than-truckload subsidiary into a separate public entity.",
-                "The newly independent freight operator restructured its asset base to optimize regional network density and yield management.",
-                "Financial decoupling enables targeted technology investments in linehaul automation without competing for parent company capital allocations.",
-                "Shippers should expect revised pricing models as the autonomous enterprise prioritizes profitability over volume market share."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "ARCBEST: NETWORK CAPACITY CONSOLIDATION",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "ARCBEST: NETWORK CAPACITY CONSOLIDATION",
-            "points": [
-                "ArcBest announces the permanent closure of ten ABF Freight service terminals alongside targeted workforce reductions nationwide.",
-                "The structural consolidation aims to optimize regional freight efficiency by shifting volumes toward larger hub facilities.",
-                "Reduced terminal counts reflect ongoing adjustments to soft tonnage volumes within the domestic industrial trucking landscape.",
-                "Logistics managers must proactively secure backup regional capacity to mitigate transit delays across affected shipping corridors."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "JUSTICE DEPARTMENT: TRADE FRAUD RECOVERIES",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "JUSTICE DEPARTMENT: TRADE FRAUD RECOVERIES",
+            "heading": "UPS: RFID NETWORK IMPLEMENTATION",
             "points": [
-                "The federal trade fraud task force surpasses one billion dollars in regulatory recoveries since its inception last year.",
-                "Government prosecutors target systematic customs evasion, misclassified imports, and illegal tariff mitigation schemes across major industries.",
-                "Enhanced interagency data sharing allows agents to quickly identify fraudulent shipping manifests and undeclared product origins.",
-                "Global supply chain compliance audits must intensify to detect hidden exposure before formal customs enforcement actions occur."
+                "United Parcel Service is deploying smart RFID package sensors across its entire domestic network.",
+                "The automated tracking system eliminates manual barcode scanning inside logistics hubs and transit vehicles.",
+                "Real-time scanning technology monitors e-commerce parcels continuously from point of origin to final delivery.",
+                "Fleet logistics managers leverage automated sensor data streams to dynamically optimize localized parcel routing."
             ],
             "imageUrl": "",
-            "nextUpTease": "EBAY: DEPOP ACQUISITION COMPLETED",
+            "nextUpTease": "AMAZON: HOLIDAY FEAST SURCHARGES",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -76,32 +76,32 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "EBAY: DEPOP ACQUISITION COMPLETED",
+            "heading": "AMAZON: HOLIDAY FEAST SURCHARGES",
             "points": [
-                "eBay secures regulatory approval for its one point two billion dollar acquisition of fashion marketplace Depop from Etsy.",
-                "The transaction shifts market dominance in consumer-to-consumer apparel logistics and consolidated e-commerce fulfillment networks globally.",
-                "Sellers must adapt to centralized shipping systems integrated directly within the expanding cross-border fashion marketplace infrastructure.",
-                "Multi-channel retail strategies must integrate specialized logistics channels to match changing consumer expectations for circular commerce platforms."
+                "Amazon will launch peak holiday fulfillment fees on October 15 with integrated surcharge structures.",
+                "Sellers must adjust product pricing early to offset the continuous three-percent fuel logistics surcharge.",
+                "Strategic inventory placement across regional fulfillment nodes is critical to neutralizing peak shipping inflation.",
+                "Brands are deploying decentralized third-party logistics centers to mitigate high centralized platform distribution costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "ZOOX: ROBOTAXI SENSOR RECALL",
+            "nextUpTease": "ARCBEST: TERMINAL CONSOLIDATION PHASE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ZOOX: ROBOTAXI SENSOR RECALL",
+            "heading": "ARCBEST: TERMINAL CONSOLIDATION PHASE",
             "points": [
-                "Amazon-owned Zoox issues a voluntary recall of its autonomous fleet following critical navigation failures during smoke events.",
-                "Heavy smoke conditions disrupted the vehicle lidar array, prompting hazardous braking and navigation system failures on public roads.",
-                "The safety incident underscores persistent operational vulnerabilities in optical and sensor suites under extreme environmental conditions.",
-                "Logistics developers must implement redundant multispectral sensor platforms before scaling driverless commercial cargo delivery services."
+                "ArcBest will close ten terminal locations and consolidate regional less-than-truckload freight routing networks.",
+                "Shippers face restricted regional capacity and higher freight rates across secondary freight market lanes.",
+                "Transportation management systems must dynamically adjust transit timetables to align with consolidated hub schedules.",
+                "Logistics coordinators are diversifying carrier agreements to mitigate the operational impacts of terminal closures."
             ],
             "imageUrl": "",
-            "nextUpTease": "SARONIC: MILITARY DRONE SHIPYARD",
+            "nextUpTease": "MARITIME: DATA CENTER FLOWS",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "SARONIC: MILITARY DRONE SHIPYARD",
+            "heading": "MARITIME: DATA CENTER FLOWS",
             "points": [
-                "Drone boat manufacturer Saronic selects a Texas port for a three billion dollar defense vessel manufacturing facility.",
-                "The deepwater project expands regional maritime industrial capacity while supporting advanced autonomous defense technology deployment pipelines.",
-                "Strategic coastal positioning enables rapid sea trial validation and direct supply chain access to military export channels.",
-                "Commercial maritime developers should monitor military manufacturing buildouts for long-term port congestion and pilot labor shortages."
+                "Imports of high-density hardware for data centers sustain transpacific ocean freight container volumes continuously.",
+                "Technical infrastructure shipments mask underlying demand weakness in traditional consumer merchandise and retail segments.",
+                "Procurement teams are securing multi-month container space allocations to protect critical technical hardware pipelines.",
+                "Maritime logistics analytics engines must decouple industrial infrastructure import metrics from retail spending indicators."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
