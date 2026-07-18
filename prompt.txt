@@ -39,7 +39,7 @@ Dynamic Title Choice: Synthesize the core theme of the 7 items. In the 'main' JS
 
 SECTION 3: FORMATTING & HARSH CHARACTER BOUNDARIES
 Slide Headings: UPPERCASE. Max 45 chars. Format: "ORGANIZATION: CORE UPGRADE".
-Slide Content Format: Every slide must contain exactly three distinct, narrative paragraphs separated by double line breaks (\n\n). To maximize information density and ensure no critical data is missed from the source, each paragraph must be highly detailed and completely filled with analytical substance.
+Slide Content Format: Every slide must contain exactly three distinct, narrative paragraphs separated by double line breaks (\n\n). To maximize information density and ensure no critical data is missed from the source, each paragraph must be highly detailed and completely filled with analytical substance. 
 CRITICAL AUTOMATION RULE: Do not include any bullet symbols (➔, •, -) in the content string. The engine.js automatically converts sentences into bullet points based on periods. To maximize words, expand coverage, and generate a comprehensive layout of 9 to 12 deep technical bullet points per sub-slide, ensure each of your three narrative paragraphs contains exactly 3 to 4 dense, highly information-packed sentences (totaling 9-12 sentences per slide content block). 
 CRITICAL LENGTH CONTROL: Each paragraph summary point must be highly precise, punchy, and not lengthy—maximum of 3 lines per individual string point constraint. Compress the entire news development so that no technical architecture, data, or operational change is missed.
 CRITICAL EDITORIAL RULE: ABSOLUTELY ZERO SALES PITCHES OR SELF-PROMOTION. Do not mention Siyal Air LLC inside the points array strings, do not pitch freight services, and do not include promotional marketing calls-to-action within the 7 data slides. Siyal Air acts strictly as the objective publishing intelligence agency (kicker). The text must remain completely unbiased, forensic, and analytical to establish authority, leaving all profile routing to the external end-slide templates.
@@ -50,6 +50,7 @@ Extract 7 distinct technical developments from the scraped data sources. Parse y
 - kicker: Static string value "SIYAL AIR"
 - titleWhite: Dynamic theme string (all phrase words except the last, maximum 3 words)
 - titleBlue: Dynamic theme string (only the very last word, exactly 1 word)
+- footerSummary: A high-density, two-line analytical synthesis of the top logistics development (max 25 words).
 - slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings, 4 technical narrative array entries, empty image reference layouts, and audit validation metadata arrays.
 
 SECTION 5: SOCIAL MEDIA POST FORMAT SPECIFICATIONS
@@ -97,7 +98,8 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
     "main": {
       "kicker": "SIYAL AIR",
       "titleWhite": "[DYNAMIC MAIN TITLE WORDS EXCEPT LAST, MAX 3]",
-      "titleBlue": "[DYNAMIC MAIN TITLE LAST WORD, EXACTLY 1]"
+      "titleBlue": "[DYNAMIC MAIN TITLE LAST WORD, EXACTLY 1]",
+      "footerSummary": "[DYNAMIC TWO-LINE SUMMARY OF TOP LOGISTICS SIGNAL]"
     },
     "slides": [
       {
