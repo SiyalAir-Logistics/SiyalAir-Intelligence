@@ -1,34 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
-        "titleWhite": "GLOBAL LOGISTICS NETWORK",
-        "titleBlue": "SHIFTS"
+        "titleWhite": "DECODING GLOBAL LOGISTICS",
+        "titleBlue": "ARCHITECTURE"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "LEVI STRAUSS: UNIFIED ERP INTEGRATION",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE SURGE",
             "points": [
-                "Levi Strauss is migrating its global operations to a single unified ERP platform by mid-2027.",
-                "This consolidation will streamline transpacific inventory flows and eliminate disparate legacy databases across multiple continents.",
-                "The fashion brand recently completed migrating its complex Asian business unit to this centralized cloud framework.",
-                "Shippers can expect reduced transaction lead times and synchronized data points across global retail fulfillment hubs."
+                "US DOJ Trade Fraud Task Force surpasses one billion dollars in regulatory recoveries since its inception.",
+                "Custom compliance audits and severe anti-dumping enforcement actions drive high-value asset forfeitures across maritime hubs.",
+                "Supply chain operators face heightened operational risk and cargo clearance delays amid strict trade verification protocols.",
+                "Importers must implement comprehensive ledger automation to prevent catastrophic penalties and secure transpacific routing pipelines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FEDEX FREIGHT: INDEPENDENT SPIN-OFF",
+            "heading": "FEDEX: FREIGHT DIVISION SPINOFF OFFICIAL",
             "points": [
-                "FedEx officially completed the separation of its massive FedEx Freight LTL subsidiary into an independent company.",
-                "This structural divestiture creates a separately traded public entity designed to maximize freight network capital efficiency.",
-                "The parent corporation intends to focus on parcel optimization under its unified One FedEx consolidation strategy.",
-                "Commercial shippers must prepare for potential pricing recalibrations as the LTL giant establishes independent operational margins."
+                "FedEx officially completes the public spin-off of its highly profitable less-than-truckload subsidiary FedEx Freight.",
+                "The newly independent corporate entity will optimize its domestic network without parental cross-subsidization constraints.",
+                "Shippers anticipate structural adjustments to freight rate structures and contract negotiations across major North American lanes.",
+                "LTL market dynamics will shift as competitors adjust capacity to match the standalone giant\u2019s realigned operating margins."
             ],
             "imageUrl": "",
             "tags": [
@@ -39,80 +39,80 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "DOJ: TRADE FRAUD ENFORCEMENT SURGE",
+            "heading": "EBAY: DEPOP ACQUISITION REGULATORY APPROVAL",
             "points": [
-                "The Department of Justice Trade Fraud Task Force surpassed one billion dollars in financial customs recoveries.",
-                "Heavy penalties and forfeitures were assessed within ten months of the federal enforcement unit\u2019s strategic launch.",
-                "Customs enforcement is shifting toward algorithmic screening models to actively detect tariff evasion and illicit transshipments.",
-                "Global logistics managers must audit supplier compliance data to mitigate severe exposure to cargo seizure actions."
+                "UK regulators approve eBay\u2019s acquisition of fashion marketplace Depop from Etsy for over one billion dollars.",
+                "This multi-billion dollar transaction shifts global consumer-to-consumer apparel logistics and consolidation networks toward automated fulfillment centers.",
+                "Integration strategies require unified multi-channel listing systems and real-time cross-border shipping compliance databases.",
+                "Third-party logistics networks must adapt to massive volumes of individual parcel shipping from regional consumer hubs."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ARCBEST: LTL NETWORK RATIONALIZATION",
+            "heading": "US STATE: IRANIAN BLOCKADE DISRUPTS SHIPPING",
             "points": [
-                "ArcBest announced the strategic closure of ten less-than-truckload terminals alongside a targeted two percent workforce reduction.",
-                "Fleet consolidation aims to restore corporate operating ratios amid prolonged domestic manufacturing and freight volume stagnation.",
-                "This restructuring mirrors industry-wide attempts to realign terminal capacity with actual non-contract spot market demand levels.",
-                "Regional supply chain designs must adjust to altered transit patterns and potential localized capacity constraints immediately."
+                "Restored US blockade forces Iranian energy tankers to execute complex tactical maneuvers and sudden routing changes.",
+                "Maritime risk metrics spike as commercial fleets avoid volatile transit points near the strategic Strait of Hormuz.",
+                "Ocean freight capacity experiences severe bottlenecks, driving up bunker adjustment factors and spot shipping market rates.",
+                "Industrial supply chains must implement dynamic route planning software to mitigate sudden vessel delays and disruptions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "USPS: HAZARDOUS MATERIAL PENALTIES",
+            "heading": "ARCBEST: ABF FREIGHT TERMINAL CONSOLIDATION",
             "points": [
-                "The Postal Service implemented strict noncompliance fees targeting unregistered hazardous materials shipped through its domestic network.",
-                "Unlabeled household items such as cosmetics and essential oils face instant penalties under new shipping rules.",
-                "Automated screening systems at sorting hubs will identify noncompliant packages using high-resolution digital scanning arrays.",
-                "E-commerce merchants must update product taxonomy systems to guarantee absolute adherence to active regulatory standards."
+                "ArcBest announces the permanent closure of ten ABF Freight service terminals alongside a corporate workforce reduction.",
+                "Operational consolidation seeks to streamline regional less-than-truckload shipping efficiency and improve corporate profit margins.",
+                "Freight volumes are rerouted through larger regional logistics centers, changing localized transit times and network density.",
+                "Shippers must evaluate regional carrier options to offset capacity reductions in smaller domestic consumer markets."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EBAY: DIGITAL MARKETPLACE EXPANSION",
+            "heading": "AMAZON ZOOX: ROBOTAXI SMOKE SOFTWARE RECALL",
             "points": [
-                "United Kingdom regulators formally cleared eBay\u2019s one point two billion dollar acquisition of fashion platform Depop.",
-                "The transactional migration consolidates consumer-to-consumer apparel shipping flows under a singular, integrated marketplace logistics umbrella.",
-                "This transaction enables Etsy to divest non-core assets while eBay expands its digital circular commerce infrastructure.",
-                "Third-party sellers should anticipate unified shipping label programs and standardized return policies across both digital platforms."
+                "Amazon's autonomous vehicle division Zoox initiates a software recall following sensor navigation failures in dense smoke.",
+                "Hard-braking incidents during autonomous testing expose critical edge-case limitations in current lidar and camera tracking suites.",
+                "Last-mile delivery operators must evaluate backup human driver protocols to maintain consistent urban fulfillment networks.",
+                "Regulatory bodies will increase scrutiny on autonomous freight integration before permitting unmanned commercial operations in complex environments."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "IRAN CEASEFIRE: MARITIME TRANSITION",
+            "heading": "FMC: COURT UPHOLDS FREIGHT FLUIDITY RULE",
             "points": [
-                "A preliminary ceasefire agreement between the United States and Iran has begun easing energy trade pressures.",
-                "Full normalization of ocean freight transits through the critical Strait of Hormuz will require several months.",
-                "Carrier networks must maintain flexible routing strategies while war-risk insurance premiums slowly adjust to baseline levels.",
-                "Fleet operators must continuously balance immediate spot market shifts against long-term structural canal capacity limitations."
+                "Federal Court of Appeals sustains FMC ruling requiring container detention fees to actively promote port cargo fluidity.",
+                "Ocean carriers cannot impose financial penalties on shippers when port congestion prevents container return operations.",
+                "This legal precedent enforces greater billing transparency and reduces unfair operating charges across all maritime networks.",
+                "Shippers should audit incoming carrier invoices using automated tools to quickly contest non-compliant detention charges."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
