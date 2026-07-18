@@ -1,18 +1,34 @@
 const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
-        "titleWhite": "LOGISTICS INFRASTRUCTURE SHIFT",
-        "titleBlue": "ACCELERATES"
+        "titleWhite": "GLOBAL LOGISTICS NETWORK",
+        "titleBlue": "SHIFTS"
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FEDEX: LTL SPIN-OFF FINALIZED",
+            "heading": "LEVI STRAUSS: UNIFIED ERP INTEGRATION",
             "points": [
-                "FedEx has officially completed the spin-off of its LTL subsidiary, FedEx Freight, into a standalone publicly traded entity.",
-                "The separation marks a strategic shift to decouple core air-parcel networks from heavy ground-based freight assets.",
-                "Analysts anticipate this move will enhance operational focus on market-specific yield management and regional service density.",
-                "The reorganization aims to unlock shareholder value by streamlining capital allocation across distinct logistics business models."
+                "Levi Strauss is migrating its global operations to a single unified ERP platform by mid-2027.",
+                "This consolidation will streamline transpacific inventory flows and eliminate disparate legacy databases across multiple continents.",
+                "The fashion brand recently completed migrating its complex Asian business unit to this centralized cloud framework.",
+                "Shippers can expect reduced transaction lead times and synchronized data points across global retail fulfillment hubs."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "FEDEX FREIGHT: INDEPENDENT SPIN-OFF",
+            "points": [
+                "FedEx officially completed the separation of its massive FedEx Freight LTL subsidiary into an independent company.",
+                "This structural divestiture creates a separately traded public entity designed to maximize freight network capital efficiency.",
+                "The parent corporation intends to focus on parcel optimization under its unified One FedEx consolidation strategy.",
+                "Commercial shippers must prepare for potential pricing recalibrations as the LTL giant establishes independent operational margins."
             ],
             "imageUrl": "",
             "tags": [
@@ -22,13 +38,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "US TRADE: FRAUD TASK FORCE MILESTONE",
+            "id": 3,
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT SURGE",
             "points": [
-                "The Department of Justice Trade Fraud Task Force has surpassed $1 billion in total recoveries and penalties.",
-                "This initiative, launched in late 2025, targets illicit trade activities, including duty evasion and misclassified high-value imports.",
-                "Increased surveillance of cross-border documentation remains a central component of this ongoing federal enforcement campaign.",
-                "Compliance teams are advised to verify all tariff and classification reporting to mitigate future audit exposure."
+                "The Department of Justice Trade Fraud Task Force surpassed one billion dollars in financial customs recoveries.",
+                "Heavy penalties and forfeitures were assessed within ten months of the federal enforcement unit\u2019s strategic launch.",
+                "Customs enforcement is shifting toward algorithmic screening models to actively detect tariff evasion and illicit transshipments.",
+                "Global logistics managers must audit supplier compliance data to mitigate severe exposure to cargo seizure actions."
             ],
             "imageUrl": "",
             "tags": [
@@ -38,61 +54,45 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "OCEAN FREIGHT: PEAK SEASON DYNAMICS",
-            "points": [
-                "Spot rates on major east-west trades show early signs of softening following months of sustained demand growth.",
-                "Carriers report an accelerated peak season start, though current volume projections indicate potential cooling for second-half 2026.",
-                "Capacity management remains volatile as liners adjust sailing schedules in response to fluctuating trans-Pacific import levels.",
-                "Data-driven shippers are re-evaluating long-term contract allocations amidst these evolving global maritime trade conditions."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "TRUCKING: CLASS 8 SALES REBOUND",
+            "heading": "ARCBEST: LTL NETWORK RATIONALIZATION",
             "points": [
-                "June Class 8 retail sales recorded a slight increase over prior year figures, ending a yearlong period of declines.",
-                "The modest uptick signals potential stabilizing demand for new heavy-duty equipment within the North American market.",
-                "Manufacturers remain cautious as regulatory proposals concerning emission standards continue to influence long-term fleet procurement strategies.",
-                "Equipment refresh cycles are being driven by a combination of replacement needs and easing supply chain bottlenecks."
+                "ArcBest announced the strategic closure of ten less-than-truckload terminals alongside a targeted two percent workforce reduction.",
+                "Fleet consolidation aims to restore corporate operating ratios amid prolonged domestic manufacturing and freight volume stagnation.",
+                "This restructuring mirrors industry-wide attempts to realign terminal capacity with actual non-contract spot market demand levels.",
+                "Regional supply chain designs must adjust to altered transit patterns and potential localized capacity constraints immediately."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AI INTEGRATION: DATA CENTER LOGISTICS",
+            "heading": "USPS: HAZARDOUS MATERIAL PENALTIES",
             "points": [
-                "Surging shipments of AI-related hardware are actively masking weakness in broader consumer discretionary cargo volume segments.",
-                "Walmart and other major retailers are prioritizing the deployment of digital twins to refine complex supply chain orchestration.",
-                "Artificial intelligence tools are increasingly utilized to model climate-resilient routing and optimize inventory placement across distribution networks.",
-                "Automation tech-stack investments continue to scale as firms prioritize visibility over traditional manual management methods."
+                "The Postal Service implemented strict noncompliance fees targeting unregistered hazardous materials shipped through its domestic network.",
+                "Unlabeled household items such as cosmetics and essential oils face instant penalties under new shipping rules.",
+                "Automated screening systems at sorting hubs will identify noncompliant packages using high-resolution digital scanning arrays.",
+                "E-commerce merchants must update product taxonomy systems to guarantee absolute adherence to active regulatory standards."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EBAY & ETSY: FASHION MARKET CONSOLIDATION",
+            "heading": "EBAY: DIGITAL MARKETPLACE EXPANSION",
             "points": [
-                "eBay has reached a definitive agreement to acquire fashion marketplace Depop from Etsy for $1.2 billion.",
-                "The deal strengthens eBay's competitive position within the high-growth secondary fashion and circular economy retail sectors.",
-                "Regulators recently approved the transaction, allowing for the integration of specialized e-commerce operations by mid-2026.",
-                "Market participants view this acquisition as a consolidation effort to dominate niche peer-to-peer apparel segments."
+                "United Kingdom regulators formally cleared eBay\u2019s one point two billion dollar acquisition of fashion platform Depop.",
+                "The transactional migration consolidates consumer-to-consumer apparel shipping flows under a singular, integrated marketplace logistics umbrella.",
+                "This transaction enables Etsy to divest non-core assets while eBay expands its digital circular commerce infrastructure.",
+                "Third-party sellers should anticipate unified shipping label programs and standardized return policies across both digital platforms."
             ],
             "imageUrl": "",
             "tags": [
@@ -103,16 +103,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "CARBOS: MEXICAN CARRIER ENFORCEMENT",
+            "heading": "IRAN CEASEFIRE: MARITIME TRANSITION",
             "points": [
-                "New cabotage enforcement actions at U.S. border zones have restricted operations for several international motor carriers.",
-                "Increased regulatory scrutiny is driving operational friction for trans-border freight moving through major southern land crossings.",
-                "Logistics providers are adjusting routing to align with tighter cabotage compliance requirements and avoid regulatory penalties.",
-                "The enforcement effort highlights the ongoing federal commitment to protecting domestic capacity within regional border hubs."
+                "A preliminary ceasefire agreement between the United States and Iran has begun easing energy trade pressures.",
+                "Full normalization of ocean freight transits through the critical Strait of Hormuz will require several months.",
+                "Carrier networks must maintain flexible routing strategies while war-risk insurance premiums slowly adjust to baseline levels.",
+                "Fleet operators must continuously balance immediate spot market shifts against long-term structural canal capacity limitations."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
