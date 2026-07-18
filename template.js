@@ -1,22 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleWhite": "SUPPLY CHAIN CAPACITY",
         "titleBlue": "SHIFTS",
-        "footerSummary": "DOJ task force recovers one billion dollars as ArcBest consolidates terminals and air carriers capture rising AI cargo yields."
+        "footerSummary": "FMC detention ruling and strategic carrier restructurings accelerate freight compliance mandates, forcing shippers to optimize network resilience."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ARCBEST: TERMINAL CONSOLIDATION & LAYOFFS",
+            "heading": "FMC: DETENTION FEE REGULATION",
             "points": [
-                "ArcBest plans to close ten ABF Freight service terminals to streamline its less-than-truckload networks.",
-                "The carrier will cut two percent of its workforce while consolidating affected regional freight operations.",
-                "Shippers must adapt to localized capacity shifts as ArcBest moves volume to larger regional facilities.",
-                "Analysts predict this consolidation will enhance operating ratios despite short-term disruption in smaller markets."
+                "US Court of Appeals upholds FMC ruling requiring detention fees strictly to promote freight fluidity.",
+                "Shipping lines face heightened enforcement as carriers must justify administrative billing under revised regulatory oversight standards.",
+                "Importers receive enhanced legal leverage to contest unfair detention charges across US container gateways and terminals.",
+                "Compliance teams must audit historical ocean carrier billing data to identify systemic non-compliant demurrage fees immediately."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE RECOVERIES",
+            "nextUpTease": "FEDEX: FREIGHT SPIN-OFF COMPLETED",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "FEDEX: FREIGHT SPIN-OFF COMPLETED",
+            "points": [
+                "FedEx officially completes the planned corporate spin-off of its less-than-truckload subsidiary into a separate public entity.",
+                "The newly independent freight operator restructured its asset base to optimize regional network density and yield management.",
+                "Financial decoupling enables targeted technology investments in linehaul automation without competing for parent company capital allocations.",
+                "Shippers should expect revised pricing models as the autonomous enterprise prioritizes profitability over volume market share."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ARCBEST: NETWORK CAPACITY CONSOLIDATION",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "ARCBEST: NETWORK CAPACITY CONSOLIDATION",
+            "points": [
+                "ArcBest announces the permanent closure of ten ABF Freight service terminals alongside targeted workforce reductions nationwide.",
+                "The structural consolidation aims to optimize regional freight efficiency by shifting volumes toward larger hub facilities.",
+                "Reduced terminal counts reflect ongoing adjustments to soft tonnage volumes within the domestic industrial trucking landscape.",
+                "Logistics managers must proactively secure backup regional capacity to mitigate transit delays across affected shipping corridors."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "JUSTICE DEPARTMENT: TRADE FRAUD RECOVERIES",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -24,16 +58,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE RECOVERIES",
+            "id": 4,
+            "heading": "JUSTICE DEPARTMENT: TRADE FRAUD RECOVERIES",
             "points": [
-                "The Justice Department Trade Fraud Task Force secured over one billion dollars in trade-related recoveries.",
-                "Enforcement actions targeted customs violations, anti-dumping evasion, and systemic supply chain compliance infractions globally.",
-                "Importers face increased customs scrutiny as federal agencies deploy advanced data analytics to flag anomalies.",
-                "Logistics providers must audit billing architectures to eliminate exposure to severe civil and criminal penalties."
+                "The federal trade fraud task force surpasses one billion dollars in regulatory recoveries since its inception last year.",
+                "Government prosecutors target systematic customs evasion, misclassified imports, and illegal tariff mitigation schemes across major industries.",
+                "Enhanced interagency data sharing allows agents to quickly identify fraudulent shipping manifests and undeclared product origins.",
+                "Global supply chain compliance audits must intensify to detect hidden exposure before formal customs enforcement actions occur."
             ],
             "imageUrl": "",
-            "nextUpTease": "EBAY: DEPOP ACQUISITION REGULATORY APPROVAL",
+            "nextUpTease": "EBAY: DEPOP ACQUISITION COMPLETED",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -41,16 +75,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "EBAY: DEPOP ACQUISITION REGULATORY APPROVAL",
+            "id": 5,
+            "heading": "EBAY: DEPOP ACQUISITION COMPLETED",
             "points": [
-                "United Kingdom regulators cleared eBay\u2019s one point two billion dollar acquisition of fashion marketplace Depop.",
-                "The strategic transaction enables eBay to expand its global apparel footprint and capture Gen-Z consumers.",
-                "Integrating Depop will alter peer-to-peer parcel shipping volumes across major European and North American lanes.",
-                "Third-party logistics networks must adapt to changing multi-channel fulfillment requirements for high-volume consumer goods."
+                "eBay secures regulatory approval for its one point two billion dollar acquisition of fashion marketplace Depop from Etsy.",
+                "The transaction shifts market dominance in consumer-to-consumer apparel logistics and consolidated e-commerce fulfillment networks globally.",
+                "Sellers must adapt to centralized shipping systems integrated directly within the expanding cross-border fashion marketplace infrastructure.",
+                "Multi-channel retail strategies must integrate specialized logistics channels to match changing consumer expectations for circular commerce platforms."
             ],
             "imageUrl": "",
-            "nextUpTease": "DHL: BANGKOK TO CINCINNATI ROUTE LAUNCH",
+            "nextUpTease": "ZOOX: ROBOTAXI SENSOR RECALL",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -58,50 +92,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "DHL: BANGKOK TO CINCINNATI ROUTE LAUNCH",
-            "points": [
-                "DHL Global Forwarding expanded transpacific air cargo capacity by launching a thrice-weekly Bangkok to Cincinnati route.",
-                "The dedicated flight connects critical manufacturing regions in Southeast Asia to major logistics hubs in America.",
-                "Shippers gain more reliable transit times for high-value electronics amidst ongoing ocean freight disruptions.",
-                "This strategic lane addition mitigates capacity crunches on traditional transpacific trade corridors ahead of peak season."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "UNITED AIRLINES: AI HARDWARE CARGO REVENUE",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "UNITED AIRLINES: AI HARDWARE CARGO REVENUE",
-            "points": [
-                "United Airlines recorded a twenty-three percent increase in cargo revenue driven by booming AI-related shipments.",
-                "High-yield computer hardware and microchip infrastructure shipments offset weaker general e-commerce demand during the quarter.",
-                "Air carriers are prioritizing tech manufacturing hubs to capture premium rates and secure long-term cargo agreements.",
-                "Industry experts forecast sustained high yields for air freight as global data center buildouts accelerate rapidly."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FMCSA: CDL TRAINING SCHOOL FRAUD PROBE",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "FMCSA: CDL TRAINING SCHOOL FRAUD PROBE",
+            "heading": "ZOOX: ROBOTAXI SENSOR RECALL",
             "points": [
-                "Homeland Security and Transportation departments launched a joint investigation into seventy-five CDL training schools.",
-                "Federal authorities suspect widespread commercial driver license fraud, threatening fleet safety and regulatory compliance standards.",
-                "Audits may disqualify thousands of active commercial drivers, exacerbating regional driver shortages across trucking fleets.",
-                "Shippers should review carrier vetting protocols to ensure compliance with federal driver training and safety rules."
+                "Amazon-owned Zoox issues a voluntary recall of its autonomous fleet following critical navigation failures during smoke events.",
+                "Heavy smoke conditions disrupted the vehicle lidar array, prompting hazardous braking and navigation system failures on public roads.",
+                "The safety incident underscores persistent operational vulnerabilities in optical and sensor suites under extreme environmental conditions.",
+                "Logistics developers must implement redundant multispectral sensor platforms before scaling driverless commercial cargo delivery services."
             ],
             "imageUrl": "",
-            "nextUpTease": "MITSUBISHI: TEXAS PORT AUTO DISTRIBUTION",
+            "nextUpTease": "SARONIC: MILITARY DRONE SHIPYARD",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "MITSUBISHI: TEXAS PORT AUTO DISTRIBUTION",
+            "heading": "SARONIC: MILITARY DRONE SHIPYARD",
             "points": [
-                "Mitsubishi Motors selected Port Freeport in Texas to optimize its Gulf and Midwest vehicle distribution flows.",
-                "The partnership bypasses congested coastal ports to accelerate finished vehicle transit times to dealer networks.",
-                "Developing dedicated automotive infrastructure at Gulf ports highlights shifts toward regionalized supply chain routing strategies.",
-                "Shippers expect increased ocean carrier services to Texas ports as manufacturers decentralize import gateways."
+                "Drone boat manufacturer Saronic selects a Texas port for a three billion dollar defense vessel manufacturing facility.",
+                "The deepwater project expands regional maritime industrial capacity while supporting advanced autonomous defense technology deployment pipelines.",
+                "Strategic coastal positioning enables rapid sea trial validation and direct supply chain access to military export channels.",
+                "Commercial maritime developers should monitor military manufacturing buildouts for long-term port congestion and pilot labor shortages."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
