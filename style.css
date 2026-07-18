@@ -70,7 +70,7 @@ body {
 
 .main-hook-style .content-body {
     padding-top: 300px;
-    padding-left: 200px;
+    padding-left: 100px; /* UPDATED: Adjusted to match right padding as per screenshot */
     padding-right: 100px;
     padding-bottom: 100px;
     max-height: 1120px;
@@ -119,13 +119,13 @@ body {
     flex-direction: column;
     align-items: flex-start;
     width: 100%;
-    max-width: 780px; 
+    max-width: 880px; /* UPDATED: Adjusted max-width to fill the balanced padding */
 }
 
 /* DYNAMIC 2-LINER FOOTER PLACEHOLDER - FIXED POSITIONING */
 .footer-paragraph-placeholder {
     width: 100%;
-    max-width: 780px;
+    max-width: 880px; /* UPDATED: Adjusted max-width to fill the balanced padding */
     margin-top: 30px; 
     margin-bottom: 100px; 
     font-family: var(--font-body);
@@ -216,7 +216,7 @@ body {
     padding-left: 100px;  
     padding-right: 100px; 
     padding-bottom: 60px; 
-    max-height: 1220px;    
+    max-height: 1220px;      
     overflow: hidden;
     text-align: left;
 }
@@ -292,6 +292,19 @@ body {
     top: 4px;
     font-size: 22px;
     color: var(--aeon-blue); 
+}
+
+.next-up-tease {
+    position: absolute;
+    bottom: 135px;
+    right: 100px;
+    text-align: right;
+    font-family: var(--font-title);
+    font-size: 22px;
+    color: #ffffff;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: 700;
 }
 
 /* ==========================================================================
@@ -372,7 +385,7 @@ body {
 .swipe-prompt {
     font-family: var(--font-title);
     position: absolute;
-    bottom: 90px; 
+    bottom: 95px;
     right: 100px; 
     font-size: 26px;
     font-weight: 700;
@@ -383,7 +396,8 @@ body {
     z-index: 10;
 }
 
-#post-canvas div:last-child .swipe-prompt {
+/* Ensure the prompt is hidden on the final CTA slide */
+.cta-slide .swipe-prompt {
     display: none !important;
 }
 
