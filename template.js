@@ -1,35 +1,35 @@
 const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
-        "titleWhite": "GLOBAL LOGISTICS",
+        "titleWhite": "LOGISTICS INFRASTRUCTURE",
         "titleBlue": "SHIFTS",
-        "footerSummary": "US blockade on Iran disrupts Strait of Hormuz energy lanes, driving ocean freight rates higher and forcing global carrier rerouting."
+        "footerSummary": "Decoupling risks and regulatory enforcement intensify as the DOJ hits one billion in trade fraud recoveries and Iran maritime transits undergo complex transitions."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GLOBAL ENERGY: IRAN SHIPPING BLOCKADE",
+            "heading": "US-IRAN: MARITIME SANCTIONS CEASEFIRE",
             "points": [
-                "US restored a strict blockade against Iranian shipping, forcing energy tankers to drastically alter routing networks.",
-                "Shippers face immediate route disruptions in the Strait of Hormuz, driving maritime freight rates past pandemic peaks.",
-                "Infrastructure challenges escalate as manufacturers struggle to procure critical localized exhaust ventilation systems during maritime delays.",
-                "Fleet operators deploy complex routing algorithms to mitigate escalating fuel surcharges and unpredictable ocean transport delays."
+                "The preliminary United States and Iran ceasefire memorandum eases acute energy shipping pressures across key lanes.",
+                "Maritime analysts project full logistics and transit normalization through the critical Strait of Hormuz will take months.",
+                "Re-routing strategies remain active as ocean carriers balance immediate regional security gains against lingering insurance surcharges.",
+                "Global supply chains must maintain flexible transport networks while regional port congestion and vessel schedules gradually stabilize."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "COMPLIANCE: DOJ TRADE FRAUD TASK FORCE",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE",
             "points": [
-                "The Justice Department Trade Fraud Task Force surpassed one billion dollars in recoveries and penalties.",
-                "Importers face unprecedented regulatory scrutiny as customs enforcement actions accelerate across global e-commerce supply chains.",
-                "Corporate logistics teams must audit compliance documentation to prevent heavy financial losses and cargo seizures.",
-                "Compliance protocols transition toward automated verification systems to align with shifting federal trade enforcement mandates."
+                "The Department of Justice trade fraud task force surpassed one billion dollars in recoveries and penalties.",
+                "Federal enforcement targeted systematic customs evasion customs classification errors and illicit transshipment schemes across import networks.",
+                "Global manufacturers must audit their multi tier supply chains to ensure strict compliance with federal import mandates.",
+                "Increased regulatory vigilance forces logistics providers to implement highly robust digital compliance screening frameworks for cargo."
             ],
             "imageUrl": "",
             "tags": [
@@ -40,28 +40,44 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "E-COMMERCE: AMAZON HOLIDAY FEE SURCHARGE",
+            "heading": "ARCBEST: ABF TERMINAL CONSOLIDATIONS",
             "points": [
-                "Amazon announced its peak holiday fulfillment fees alongside an ongoing fuel and logistics surcharge.",
-                "Sellers face elevated operational costs starting October fifteenth, compressing margins and forcing aggressive early shipping.",
-                "Multi-channel merchants must balance inventory levels across fulfillment networks to mitigate rising peak season storage costs.",
-                "Warehouse operators prioritize rapid delivery turnarounds to sustain consumer demand without incurring excessive platform fees."
+                "ArcBest announced plans to close ten smaller terminal facilities and reduce its total workforce by two percent.",
+                "The consolidation moves freight volume handling into regional hub facilities to optimize overall less than truckload network.",
+                "Operating costs across the trucking sector reached record highs of over two dollars and thirty cents per mile.",
+                "Shippers must re-evaluate regional capacity commitments as carriers streamline footprints to preserve operational margin and capital."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LOGISTICS: FEDEX FREIGHT SPINOFF",
+            "heading": "DHS & DOT: CDL TRAINING CRACKDOWN",
             "points": [
-                "FedEx officially finalized the spinoff of its less-than-truckload subsidiary FedEx Freight into a separate public entity.",
-                "The restructuring aims to optimize operational agility and unlock shareholder value amidst volatile domestic trucking conditions.",
-                "Shippers must prepare for potential pricing adjustments and network recalibrations as the independent carrier optimizes yield.",
-                "Industry analysts predict a wave of capacity consolidation as LTL providers adjust to shifting competitive postures."
+                "Federal agencies initiated a coordinated investigation targeting seventy-five commercial driver licensing schools for systemic compliance fraud.",
+                "The multi-agency task force aims to eliminate fraudulent licensing schemes that compromise interstate highway transportation safety.",
+                "Strict vetting of driver credentials will likely accelerate current localized driver shortages across regional motor carrier networks.",
+                "Logistics operators must implement rigorous secondary verification protocols to validate driver qualification databases during carrier onboarding."
+            ],
+            "imageUrl": "",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "FEDEX: FREIGHT SPIN-OFF OFFICIAL",
+            "points": [
+                "FedEx completed the strategic spin-off of its highly profitable less-than-truckload operational division into an independent entity.",
+                "The restructuring separates high-volume parcel operations from specialized industrial freight transportation networks to maximize shareholder value.",
+                "Market analysts anticipate increased capital flexibility and targeted infrastructure investments for both independent public logistics companies.",
+                "Corporate shippers face recalibrated contract pricing structures as the newly independent freight carrier optimizes its operational margin."
             ],
             "imageUrl": "",
             "tags": [
@@ -71,29 +87,13 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "INTERMODAL: JB HUNT RAILWAY INFRASTRUCTURE",
-            "points": [
-                "J.B. Hunt declared the intermodal value proposition to be at its strongest level in over decade.",
-                "Shippers actively shift freight from over-the-road truckload networks to rail intermodal corridors to cut operational costs.",
-                "Railway infrastructure constraints and emerging chassis shortages at major inland hubs threaten to disrupt cargo transfers.",
-                "Supply chain managers integrate multi-modal tracking solutions to optimize trans-Pacific port-to-door transit reliability and flow."
-            ],
-            "imageUrl": "",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "MARKETPLACE: EBAY DEPOP ACQUISITION",
+            "heading": "EBAY: DEPOP PLATFORM ACQUISITION",
             "points": [
-                "eBay finalized a one point two billion dollar acquisition of the fashion marketplace Depop from Etsy.",
-                "The acquisition consolidates consumer-to-consumer fashion volumes, intensifying competition among major digital retail platforms and marketplaces.",
-                "Cross-border apparel supply chains must adapt to changing platform fee structures and localized international shipping policies.",
-                "Online merchants shift inventory placement strategies to capitalize on algorithmic changes across consolidated selling platforms."
+                "eBay finalized a one point two billion dollar acquisition of the consumer-to-consumer fashion marketplace platform Depop.",
+                "The strategic acquisition expands the e-commerce giant's competitive market share within the rapidly growing global apparel category.",
+                "Logistics networks must adapt to high-volume decentralized peer-to-peer shipping requirements generated by collaborative circular economy platforms.",
+                "System integrations will focus on optimizing label generation and local pickup options for dynamic consumer-to-consumer delivery networks."
             ],
             "imageUrl": "",
             "tags": [
@@ -104,12 +104,12 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "TRUCKING: ARCBEST LTL CONSOLIDATION",
+            "heading": "FMCSA: BORDER ZONE CABOTAGE ENFORCEMENT",
             "points": [
-                "ArcBest announced plans to close ten ABF Freight service terminals and lay off two percent of workforce.",
-                "The carrier will consolidate smaller market operations into regional hubs to combat ongoing freight volume softness.",
-                "Logistics managers face localized capacity disruptions and potential transit delays in affected service regions as terminals close.",
-                "Fleet operators accelerate structural consolidation efforts to preserve operating ratios in a persistently challenging rate environment."
+                "Enhanced regulatory enforcement of cabotage laws restricts Mexican motor carriers operating within designated United States border zones.",
+                "Federal inspectors are targeting unauthorized point-to-point domestic transport movements completed by foreign transportation providers and equipment.",
+                "Border logistics hubs anticipate immediate warehouse capacity constraints as cross-docking operations replace direct long-haul transit configurations.",
+                "Cross-border supply chain operations must transition to integrated dual-carrier models to prevent severe intermodal transfer delays."
             ],
             "imageUrl": "",
             "tags": [
