@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DECOUPLING FREIGHT",
-        "titleBlue": "NETWORKS",
-        "footerSummary": "Global shipping dynamics face structural realignments as US courts enforce fair container billing and government actions disrupt regional energy networks."
+        "titleWhite": "LOGISTICS NETWORK",
+        "titleBlue": "RECALIBRATION",
+        "footerSummary": "Global logistics face acute capacity shocks from federal CDL fraud crackdowns and escalating maritime blockades in the Strait of Hormuz."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "EBAY: DEPOP ACQUISITION",
+            "heading": "FMC: DETENTION FEE RULING",
             "points": [
-                "eBay finalizes its $1.2 billion acquisition of fashion platform Depop from Etsy following UK regulatory clearance.",
-                "The strategic transaction expands the marketplace operator's consumer-to-consumer fashion trading division across critical transatlantic commerce corridors.",
-                "High-volume apparel networks will integrate direct peer-to-peer routing capabilities to optimize specialized localized sorting operations.",
-                "Multi-channel retail entities must adapt to shifting inventory distributions as second-hand apparel supply lines consolidate."
+                "US Court of Appeals upheld Federal Maritime Commission authority mandating detention fees must actively incentivize freight fluidity.",
+                "Carrier billing practices will face stricter federal scrutiny to eliminate unfair penalty charges during severe port congestion.",
+                "Ocean transportation intermediaries must adjust billing reconciliation frameworks to align directly with updated compliance standards.",
+                "Shipping lines will likely reduce legacy demurrage fees to avoid substantial civil penalties under the regulatory sweep."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: FREIGHT DIVISION SPIN-OFF",
+            "nextUpTease": "FEDEX: FREIGHT SPIN-OFF APPROVED",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FEDEX: FREIGHT DIVISION SPIN-OFF",
+            "heading": "FEDEX: FREIGHT SPIN-OFF APPROVED",
             "points": [
-                "FedEx completes the official spin-off of its less-than-truckload subsidiary into a separate publicly traded company.",
-                "This corporate reorganization establishes an independent capital structure for the largest domestic less-than-truckload carrier network.",
-                "Operational separation allows the restructured enterprise to pursue dedicated fleet modernization and targeted regional terminal expansions.",
-                "Shippers should anticipate targeted freight pricing realignments as the newly independent corporate entity optimizes margins."
+                "FedEx officially completed the long-awaited separation of its less-than-truckload subsidiary FedEx Freight into a public company.",
+                "This structural spin-off aims to maximize shareholder value and streamline independent capital allocation across transportation segments.",
+                "Independent operational control will allow FedEx Freight to dynamically optimize its national LTL pricing models and network.",
+                "Corporate shippers should anticipate localized structural adjustments as the independent LTL entity recalibrates its regional terminal assets."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: FMC BILLING UPHELD",
+            "nextUpTease": "ARCBEST: TERMINAL NETWORK CONSOLIDATION",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -42,85 +42,85 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "REGULATION: FMC BILLING UPHELD",
+            "heading": "ARCBEST: TERMINAL NETWORK CONSOLIDATION",
             "points": [
-                "The Federal Maritime Commission wins federal appeals court backing on rulings that detention fees must promote fluidity.",
-                "Ocean carriers face strict penalties for charging demurrage fees when terminal congestion prevents equipment return.",
-                "This legal milestone accelerates regulatory enforcement of fair container billing practices across all domestic port networks.",
-                "Importers gain stronger transactional leverage to challenge administrative shipping assessments during periods of severe infrastructure disruption."
+                "ArcBest announced plans to close ten ABF Freight terminals and lay off two percent of its workforce.",
+                "Operations in smaller markets will consolidate into larger regional hubs to combat sluggish freight volumes and reduce overhead.",
+                "This consolidation reflects ongoing structural adjustments among major LTL carriers seeking network efficiency amid soft market demands.",
+                "Intermodal and regional shippers must prepare for localized transit delays during the transition of active freight volumes."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCBEST: LTL NETWORK CONSOLIDATION",
+            "nextUpTease": "DOT & DHS: CDL FRAUD CRACKDOWN",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ARCBEST: LTL NETWORK CONSOLIDATION",
+            "heading": "DOT & DHS: CDL FRAUD CRACKDOWN",
             "points": [
-                "ArcBest initiates the closure of ten LTL service centers and slashes two percent of its workforce.",
-                "Regional freight operations will consolidate into larger adjacent facilities to mitigate declining volumes and rising operational costs.",
-                "The structural rationalization targets underperforming secondary markets to improve overall asset utilization across the primary network.",
-                "Freight managers must reroute shipments to adjacent regional hubs to maintain consistent transit performance metrics."
+                "Federal agencies launched a massive investigation targeting seventy-five commercial driver license training schools suspected of pervasive fraud.",
+                "This multi-agency enforcement operation aims to eliminate safety risks associated with illegally obtained commercial vehicle driving credentials.",
+                "Logistics networks face immediate capacity constraints as regulators systematically revoke non-compliant driver licenses across multiple states.",
+                "Transport companies must strengthen third-party carrier vetting protocols to verify credential validity and prevent negligent selection liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: TRADE FRAUD TASK FORCE",
+            "nextUpTease": "EBAY: DEPOP ACQUISITION COMPLETED",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COMPLIANCE: TRADE FRAUD TASK FORCE",
+            "heading": "EBAY: DEPOP ACQUISITION COMPLETED",
             "points": [
-                "The Department of Justice Trade Fraud Task Force achieves one billion dollars in recoveries within its year.",
-                "Federal enforcement actions target illegal customs evasion schemes, forced labor imports, and systematic misclassification of foreign goods.",
-                "Enhanced transactional scrutiny on automated imports increases operational risks for third-party logistics firms handling cross-border flows.",
-                "Importers must implement rigorous digital compliance protocols to prevent costly cargo seizures at active international entry ports."
+                "eBay finalized its one point two billion dollar acquisition of fashion marketplace Depop after receiving UK regulatory clearance.",
+                "This transaction shifts competitive dynamics within the global consumer-to-consumer e-commerce sector toward consolidated circular economy platforms.",
+                "The acquisition positions eBay to capture high-growth apparel demographics while leveraging Depop\u2019s specialized community commerce features.",
+                "Retail logistics networks must optimize last-mile sorting infrastructure to support rising volumes of peer-to-peer apparel shipments."
             ],
             "imageUrl": "",
-            "nextUpTease": "BORDER LANDS: CABOTAGE ENFORCEMENT",
+            "nextUpTease": "US MARITIME: IRAN SHIPPING BLOCKADE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "BORDER LANDS: CABOTAGE ENFORCEMENT",
+            "heading": "US MARITIME: IRAN SHIPPING BLOCKADE",
             "points": [
-                "Federal authorities accelerate cabotage enforcement, restricting unauthorized Mexican carrier operations within domestic border zones.",
-                "Strict administrative policing targets foreign operators transporting domestic freight between points inside the United States border.",
-                "Transport networks must shift transborder freight handling structures to ensure certified cross-dock transfers at processing terminals.",
-                "Supply chain directors should expect initial capacity tightness in border lanes during transitions to compliant transfer partners."
+                "The United States restored a strict shipping blockade against Iran, causing oil tankers to execute complex ocean maneuvers.",
+                "Disruptions around the critical Strait of Hormuz waterway are driving maritime insurance premiums and global diesel prices higher.",
+                "Ocean carriers are actively routing vessels away from high-conflict zones, compounding regional transit delays and chassis shortages.",
+                "Global supply chains must immediately integrate adaptive risk mitigation strategies to bypass escalating geopolitical bottlenecks in the region."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEOPOLITICS: IRAN SHIELD BLOCKADE",
+            "nextUpTease": "PORT OF LA: RECORD TARIFF FRONTLOADING",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GEOPOLITICS: IRAN SHIELD BLOCKADE",
+            "heading": "PORT OF LA: RECORD TARIFF FRONTLOADING",
             "points": [
-                "Reinstated United States blockade measures against Iranian shipping disrupt global energy flows and maritime transit lanes.",
-                "Ocean tankers carrying regional crude must perform irregular navigation maneuvers to bypass international enforcement patrols.",
-                "Escalating shipping threats near critical maritime chokepoints push regional transit insurance premiums and overall freight rates higher.",
-                "Global energy distribution plans require rapid diversification to offset structural supply delays in contested transit channels."
+                "West Coast maritime gateways logged record container counts as retailers aggressively frontload imports to preempt impending tariff actions.",
+                "The Port of Los Angeles surpassed one million container units in June, signaling intense pre-peak retail distribution demand.",
+                "Heavy infrastructure imports for regional data center buildouts are further inflating import volumes across key transpacific trade corridors.",
+                "Warehouse managers must scale storage capacities immediately to accommodate the unprecedented influx of early peak-season consumer inventory."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
