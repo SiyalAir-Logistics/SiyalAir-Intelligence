@@ -1,73 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "Global Logistics Supply",
-        "titleBlue": "Shift",
-        "footerSummary": "Supply chain volatility remains elevated as geopolitical conflicts disrupt energy routes and port operations, forcing rapid shifts in capacity management and trade strategy."
+        "titleWhite": "GLOBAL REGULATORY COMPLIANCE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "The US Justice Department and Federal Maritime Commission enforce landmark cargo compliance and billing rules to restore global supply chain integrity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OCEAN FREIGHT: TRANS-PACIFIC TURMOIL",
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
             "points": [
-                "Trans-Pacific ocean capacity faces sustained disruption due to renewed hostilities in the Strait of Hormuz and critical energy route blockades.",
-                "Port of Los Angeles cargo volumes exceeded one million TEUs in June, signaling a robust but fragile peak season import surge.",
-                "Carriers are increasingly deploying extra-loaders across US and Europe trades to capture volume spikes from emerging Indian export manufacturing demands.",
-                "Blank sailings and vessel delays are rising as carriers attempt to navigate volatile demand shifts and persistent maritime security risks."
+                "The Justice Department trade fraud task force achieved one billion dollars in recoveries since inception.",
+                "Operations face immediate scrutiny as multi-agency audits target systemic customs evasion and misclassified import entries.",
+                "Importers must overhaul regulatory validation frameworks to mitigate escalating penalty risks and potential cargo seizures.",
+                "Advanced digital compliance auditing systems will become mandatory to prevent devastating financial and operational disruption."
             ],
             "imageUrl": "",
-            "nextUpTease": "Trucking Network Consolidation",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "TRUCKING: NETWORK RESTRUCTURING",
-            "points": [
-                "ArcBest has initiated a significant restructuring, closing ten ABF Freight sites and reducing their workforce to optimize operational network density.",
-                "LTL carriers are aggressively expanding terminal footprints, yet total door counts remain five percent below 2022 peak pandemic-era capacity levels.",
-                "Trucking operating costs hit a record two dollars and thirty-four cents per mile in 2025, forcing carriers toward aggressive financial discipline.",
-                "Department of Transportation and DHS are conducting a joint probe into seventy-five CDL training schools to eliminate widespread fraudulent licensing activities."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AI In Supply Chain",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "LOGISTICS TECH: AI OPERATIONAL SCALE",
-            "points": [
-                "Walmart is leveraging digital twins and generative AI to stress-test supply chain nodes against global conflicts and unpredictable climate-driven weather events.",
-                "Air cargo markets show unexpected resilience as AI-related hardware and infrastructure shipments offset sustained weakness in traditional consumer e-commerce volume demands.",
-                "Tech-forward logistics providers are deploying modular AI agents to automate procurement and sales processes, reducing human-layer friction in freight forwarding systems.",
-                "Industry analysts emphasize that successful AI implementation requires unified ERP foundations rather than siloed, unlinked application layers within core infrastructure."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "Trade Compliance Enforcement",
-            "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "TRADE COMPLIANCE: REVENUE RECOVERY",
-            "points": [
-                "The Justice Department\u2019s Trade Fraud Task Force has officially surpassed one billion dollars in recovered penalties and forfeitures for trade violations.",
-                "Federal Maritime Commission enforcement actions continue, with recent wins securing nearly two million dollars in civil penalties from non-compliant shipping entities.",
-                "CBP continues its rigorous enforcement of border trade policies, maintaining high-signal vigilance over automated entry documentation to ensure absolute regulatory and tariff compliance.",
-                "Importers are facing heightened scrutiny on country-of-origin reporting as the U.S. government expands its audit net across diverse international trade corridors."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "Marketplace Policy Shifts",
+            "nextUpTease": "FMC: DETENTION FEES COMPLIANCE",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -75,33 +24,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "MARKETPLACE: RETAIL INFRASTRUCTURE",
+            "id": 2,
+            "heading": "FMC: DETENTION FEES COMPLIANCE",
             "points": [
-                "eBay has finalized its strategic acquisition of Depop for one point two billion dollars, signaling a major consolidation effort within the fashion marketplace.",
-                "Amazon has initiated its peak season fulfillment fee structures, incorporating a three point five percent logistics surcharge starting mid-October for all sellers.",
-                "USPS has mandated new password security protocols for all business account holders to be completed by July 30 to prevent unauthorized logistics access.",
-                "Retailers are aggressively pivoting toward automated inventory management systems to mitigate the high costs associated with record-breaking seasonal e-commerce return volumes."
+                "The federal appeals court upheld the decision requiring ocean carrier detention fees to promote freight fluidity.",
+                "Ocean carriers can no longer penalize shippers during periods of documented port congestion and terminal backlogs.",
+                "Marine terminal operators must adjust billing software configurations to prevent illegal non-fluidity demurrage charges.",
+                "Importers gain significant leverage to dispute invalid supply chain storage invoices through streamlined charge complaint channels."
             ],
             "imageUrl": "",
-            "nextUpTease": "Rail & Intermodal Update",
+            "nextUpTease": "FEDEX: FREIGHT SPINOFF COMPLETED",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "RAIL & INTERMODAL: VOLUME TRENDS",
+            "id": 3,
+            "heading": "FEDEX: FREIGHT SPINOFF COMPLETED",
             "points": [
-                "Intermodal container volumes show a three percent annual increase, providing a critical counterbalance to the slight contraction in total rail carload activity.",
-                "J.B. Hunt reports that the intermodal value proposition for shippers is at its strongest point in a decade, driving renewed domestic rail adoption.",
-                "Chicago chassis fleets face intensive operational testing as West Coast import volumes surge, triggering localized equipment gaps for the first time since 2022.",
-                "Infrastructure investment at major ports like Savannah and Freeport is successfully streamlining inland freight corridors to reduce truck traffic and cross-docking bottlenecks."
+                "FedEx officially spun off its massive less-than-truckload freight subsidiary into a separately traded public entity.",
+                "The restructuring isolates specialized logistics assets to optimize independent capital allocation strategies and operation efficiency.",
+                "Industrial shippers must prepare for localized pricing adjustments as the carrier reorganizes regional freight terminals.",
+                "Separated operations will trigger fresh competition across the consolidating national less-than-truckload transportation market."
             ],
             "imageUrl": "",
-            "nextUpTease": "Energy Sector Logistics",
+            "nextUpTease": "EBAY: DEPOP ACQUISITION COMPLETED",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -109,13 +58,64 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "ENERGY: GLOBAL ROUTE DISRUPTION",
+            "id": 4,
+            "heading": "EBAY: DEPOP ACQUISITION COMPLETED",
             "points": [
-                "Shutting down Iranian energy tanker routes has forced global carriers into inefficient zig-zag navigation patterns, spiking regional fuel and bunker surcharge prices.",
-                "Canadian oil refinery outages are creating localized supply crunches, contributing to pump price volatility across the critical American transportation and logistics corridors.",
-                "Global trade architecture is decoupling from traditional energy logistics as nations race to diversify oil sources and secure alternative pipeline infrastructure bypasses.",
-                "Freight market participants should brace for sustained fuel price elevation as geopolitical risk premiums remain baked into global maritime and ground transportation rates."
+                "United Kingdom regulators approved the one point two billion dollar fashion marketplace transaction with Etsy.",
+                "The strategic acquisition accelerates consumer-to-consumer circular fashion volumes across domestic and international shipping lanes.",
+                "Shippers will experience unified multi-platform inventory syndication tools to streamline decentralized ecommerce product fulfillment.",
+                "Consolidated shipping volume negotiations will likely drive lower parcel processing rates for active marketplace participants."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ARCBEST: TERMINAL CONSOLIDATION EFFORT",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "ARCBEST: TERMINAL CONSOLIDATION EFFORT",
+            "points": [
+                "ArcBest announced the closure of ten regional freight facilities alongside selective workforce reductions this quarter.",
+                "Operations will merge into surrounding larger hub terminals to protect profit margins against soft volume levels.",
+                "Shippers using secondary markets must re-evaluate transit schedules due to anticipated freight routing changes.",
+                "Aggressive capacity reduction highlights continuing structural consolidation throughout the domestic less-than-truckload transportation sector."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS: HAZMAT AND SECURITY MANDATES",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "USPS: HAZMAT AND SECURITY MANDATES",
+            "points": [
+                "The postal service introduced strict noncompliance fines for undeclared hazardous materials alongside mandatory credential updates.",
+                "Common household products like essential oils and nail polish face elevated inspection rates at processing hubs.",
+                "Online sellers must implement automated inventory tagging to flag restricted items before printing final postage labels.",
+                "Failure to configure compliant system passwords by the July deadline will lock merchant shipping account access."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "SARONIC: TEXAS DRONE SHIPYARD BUILD",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "SARONIC: TEXAS DRONE SHIPYARD BUILD",
+            "points": [
+                "Defense startup Saronic selected a Texas deepwater port to build a three billion dollar manufacturing shipyard.",
+                "The facility will manufacture autonomous surface drone boats to secure vulnerable global maritime shipping lanes.",
+                "Industrial supply chains gain protective infrastructure as naval defense capabilities modernize against regional ocean threats.",
+                "This domestic development underscores a broader strategic pivot toward autonomous security operations across major trade corridors."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
