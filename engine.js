@@ -101,7 +101,6 @@ function switchSlide(id, element) {
     const canvas = document.getElementById('post-canvas');
     if (!canvas) return;
 
-    // Structural Title Splitter Logic
     const formatTitleBlue = (text) => {
         if (text.includes(':')) {
             const parts = text.split(':');
@@ -127,18 +126,19 @@ function switchSlide(id, element) {
             return `<div>${word}</div>`;
         }).join('');
 
-        // Fetches content from template.js; defaults to empty string if missing
         const footerText = dailyData.main.footerSummary || "";
-        let kickerHTML = "";
+        const nextTease = dailyData.slides[0]?.heading || "";
         
         canvas.className = 'main-hook-style'; 
         html = `<div class="content-body">
-                <span class="kicker">${kickerHTML}</span>
+                <span class="kicker"></span>
                 <header>
                     <h1 class="auto-fit">${stackedTitleHTML}</h1>
                 </header>
                 <div class="footer-paragraph-placeholder">${footerText}</div>
-                </div><div class="swipe-prompt">SWIPE NEXT →</div>`;
+                </div>
+                <div class="next-up-tease">NEXT UP: ${nextTease}</div>
+                <div class="swipe-prompt">SWIPE NEXT →</div>`;
     } else if (id === 'follow') {
         canvas.className = 'main-hook-style cta-slide';
         html = `<div class="content-body">
@@ -164,11 +164,14 @@ function switchSlide(id, element) {
             }
             
             const formattedHeading = formatTitleBlue(slide.heading);
+            const nextTease = (index < dailyData.slides.length - 1) ? dailyData.slides[index + 1].heading : "";
             
             html = `<div class="content-body">
                     <header><h1 class="auto-fit">${formattedHeading}</h1><div class="header-divider"></div></header>
                     <div class="detail-text"><ul class="smart-bullets">${bulletList}</ul></div>
-                    </div><div class="swipe-prompt">SWIPE NEXT →</div>`;
+                    </div>
+                    ${nextTease ? `<div class="next-up-tease">NEXT UP: ${nextTease}</div>` : ""}
+                    <div class="swipe-prompt">SWIPE NEXT →</div>`;
         }
     }
     canvas.innerHTML = html;
