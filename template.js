@@ -1,19 +1,19 @@
 const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "RESTRUCTURE",
-        "footerSummary": "Geopolitical conflict and tariff threats trigger unprecedented early peak season cargo surges as federal enforcement task forces crack down on trade compliance."
+        "titleWhite": "GLOBAL LOGISTICS STRATEGIC",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Global supply chains in 2026 face unprecedented regulatory and geopolitical friction, forcing structural restructuring across LTL operations, maritime routes, and e-commerce compliance platforms."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE RECOVERIES",
+            "heading": "DOJ TRADE FRAUD TASK FORCE SURGE",
             "points": [
-                "Federal task force deploys multi-agency data sharing to target systematic customs valuation evasion and import duty fraud.",
-                "The specialized enforcement initiative recovers over one billion dollars in penalties and forfeitures within eleven operational months.",
-                "Regulators increase surveillance on cross-border transactions to eliminate illicit trade loops undermining domestic manufacturing protections.",
-                "Importers must implement rigorous origin auditing protocols to mitigate severe penalty exposure during upcoming custom sweeps."
+                "DOJ Trade Fraud Task Force secures over one billion dollars in recoveries targeting import customs violations.",
+                "Manufacturers face heightened audits and severe financial penalties due to aggressive misclassification and evasion enforcement actions.",
+                "Importers must implement automated validation tools to monitor compliance and protect logistics networks from sudden disruptions.",
+                "Shippers should anticipate increased inspection rates at primary ports of entry as federal oversight intensifies globally."
             ],
             "imageUrl": "",
             "tags": [
@@ -24,96 +24,96 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "SHIPPERS: GEOPOLITICAL OCEAN STRATEGY SHIFT",
+            "heading": "FEDEX FREIGHT SPIN-OFF COMPLETED",
             "points": [
-                "Importers scrap traditional contract cycles to secure early ocean capacity ahead of looming tariff deadlines.",
-                "Southern California ports handle over one million container units as frontloading triggers unprecedented cargo volume spikes.",
-                "Escalating maritime conflict in the Strait of Hormuz forces carriers to reroute vessels around unstable corridors.",
-                "Logistics planners must diversify gateway options to maintain supply continuity amid rising blank sailings and delays."
+                "FedEx officially completes the spin-off of its less-than-truckload subsidiary into an independent publicly traded entity.",
+                "Shippers navigate sudden rate recalibrations and network modifications as the carrier reorganizes its operational corporate structures.",
+                "Corporate restructuring drives market volatility, prompting competitive LTL providers to adjust their baseline pricing strategies accordingly.",
+                "Logistics managers must renegotiate existing freight contracts to mitigate exposure to potential transitional service level declines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: AI COMPONENT DEMAND SURGE",
+            "heading": "GEOPOLITICAL HORMUZ BLOCKADE EMERGENCY",
             "points": [
-                "Booming global demand for artificial intelligence hardware drives heavy high-yield technical components into premium air transport.",
-                "High-value technological shipments offset softer consumer retail e-commerce volumes across major transpacific and European air corridors.",
-                "Data center infrastructure buildouts sustain elevated charter rates even during traditional midyear shipping lulls.",
-                "Shippers must negotiate dedicated block space agreements early to secure capacity for critical electronics programs."
+                "Restored United States maritime blockades against Iranian shipping force oil tankers to execute complex transit maneuvers.",
+                "Ocean freight rates surge as carriers reroute vessels away from the high-risk Strait of Hormuz chokepoints.",
+                "Iraq and Syria finalize agreements to restore critical overland pipelines providing essential alternative logistics routing options.",
+                "Marine insurers implement substantial war risk surcharges, driving up overall operating costs for international container lines."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ARCBEST: ABF TERMINAL CONSOLIDATION PROGRAM",
+            "heading": "EBAY EXPANDS FASHION MARKETSHARE",
             "points": [
-                "ArcBest initiates structural network optimization by shuttering underperforming regional freight handling facilities in secondary markets.",
-                "The carrier closes ten freight terminals and trims two percent of its workforce to reduce overhead.",
-                "Less-than-truckload operators adjust physical footprints as post-pandemic capacity realities pressure operating ratios and margins.",
-                "Shippers in impacted secondary regions must prepare for localized transit delays as cargo consolidation shifts routing."
+                "eBay completes its one point two billion dollar acquisition of Depop following regulatory approval from UK officials.",
+                "The transaction consolidation reshapes global customer-to-customer e-commerce dynamics and optimizes secondary fashion supply chain logistics channels.",
+                "Retail logistics networks face shifting fulfillment patterns as decentralized peer-to-peer marketplaces scale their reverse logistics capabilities.",
+                "Cross-border parcel carriers must adapt sorting operations to accommodate high volumes of single-unit apparel shipments efficiently."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "UPS: NATIONWIDE RFID PACKAGE SENSING",
+            "heading": "FMC DETENTION BILLING COMPLIANCE",
             "points": [
-                "UPS deploys radio frequency identification package sensing technologies across its domestic small package delivery infrastructure.",
-                "The automated tracking system replaces manual barcode scanning to accelerate throughput at sorting hubs.",
-                "Integrating smart label technology provides granular visibility into individual package transit times and sorting errors.",
-                "Enterprise retail brands gain precise delivery milestone data to optimize inventory allocation and final-mile customer communication."
+                "Federal court decision upholds Federal Maritime Commission rules requiring container detention fees to promote freight fluidity.",
+                "Ocean carriers must audit billing practices to eliminate non-compliant demurrage charges under the updated regulatory standard.",
+                "Shippers gain increased leverage to challenge unfair terminal fees, reducing overall import administrative operational friction costs.",
+                "Marine terminal operators must upgrade their digital invoicing systems to ensure transparent documentation for all transactions."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DOT: FEDERAL CDL FRAUD CRACKDOWN",
+            "heading": "USPS HAZMAT COMPLIANCE ENFORCEMENT",
             "points": [
-                "Federal transportation and security agencies launch a joint investigation into commercial driver licensing training schools.",
-                "Seventy-five licensing academies face scrutiny for illicitly bypassing mandatory driver safety and verification protocols.",
-                "The massive federal dragnet aims to eliminate corrupt licensing pipelines that compromise interstate highway safety.",
-                "Carriers must perform deeper credential vetting during driver onboarding to avoid liability from fraudulent commercial licenses."
+                "United States Postal Service institutes strict password changes and noncompliance fees targeting hazardous material postal shipments.",
+                "Online merchants face unexpected operational surcharges if household products are mislabeled under the new hazmat rules.",
+                "E-commerce fulfillment centers must update automated packaging workflows to satisfy rigid mail safety and labeling standards.",
+                "Shippers risk immediate account suspension and transit delays if their platform security protocols remain non-compliant."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EBAY: DEPOP ACQUISITION REGULATORY APPROVAL",
+            "heading": "ABF FREIGHT NETWORK CONSOLIDATION",
             "points": [
-                "United Kingdom regulatory authorities approve the multi-billion dollar acquisition of peer-to-peer apparel marketplace Depop.",
-                "The one-point-two billion dollar transaction expands the parent marketplace footprint in high-growth social commerce categories.",
-                "E-commerce platforms consolidate specialized peer-to-peer networks to secure market share among younger demographic consumer groups.",
-                "Independent sellers will benefit from integrated cross-platform marketing and simplified international shipping label programs."
+                "ArcBest announces plans to close ten terminal locations and reduce its total workforce by two percent.",
+                "Terminal closures reflect broader industry adjustments as carriers consolidate less-than-truckload networks to preserve operational profit margins.",
+                "Regional shippers face reduced local capacity and potential changes to transit times in affected secondary markets.",
+                "Fleet operators must optimize asset utilization to offset declining shipment volumes across industrial manufacturing distribution corridors."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
