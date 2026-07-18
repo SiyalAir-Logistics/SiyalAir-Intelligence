@@ -13,7 +13,7 @@ The Loadstar: https://theloadstar.com
 Journal of Commerce: https://www.joc.com
 FreightWaves: https://www.freightwaves.com
 Air Cargo Next: https://aircargonext.com
-Air Cargo News: https://www.aircargonews.net
+Air Cargo News: https://www.cargonews.net
 Logistics Management: https://www.logisticsmgmt.com
 Retail Dive: https://www.retaildive.com
 Ecommerce Bytes: https://www.ecommercebytes.com
@@ -47,11 +47,11 @@ JSON Safety: Escape all double quotes inside strings using a backslash (\").
 
 SECTION 4: DATA INTERCHANGE SCHEMA SPECIFICATIONS (template.js DATA MAP)
 Extract 7 distinct technical developments from the scraped data sources. Parse your findings into a clean object matching the JSON structural footprint nested inside the final wrapper. Every point string must be 12-18 words, removing any prefix text labels while retaining high-density, strategic architectural intent.
-- kicker: Static string value "SIYAL AIR"
+- kicker: Static string value "" (Empty string to maintain empty block padding)
 - titleWhite: Dynamic theme string (all phrase words except the last, maximum 3 words)
 - titleBlue: Dynamic theme string (only the very last word, exactly 1 word)
 - footerSummary: A high-density, two-line analytical synthesis of the top logistics development (max 25 words).
-- slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings, 4 technical narrative array entries, empty image reference layouts, and audit validation metadata arrays.
+- slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings, 4 technical narrative array entries, empty image reference layouts, a nextUpTease string, and audit validation metadata arrays.
 
 SECTION 5: SOCIAL MEDIA POST FORMAT SPECIFICATIONS
 Generate an Instagram caption string block updated concurrently with the generated slides. The format must match this text structure exactly, preserving paragraph splits, line boundaries, and symbols:
@@ -96,7 +96,7 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
 {
   "slides_data": {
     "main": {
-      "kicker": "SIYAL AIR",
+      "kicker": "",
       "titleWhite": "[DYNAMIC MAIN TITLE WORDS EXCEPT LAST, MAX 3]",
       "titleBlue": "[DYNAMIC MAIN TITLE LAST WORD, EXACTLY 1]",
       "footerSummary": "[DYNAMIC TWO-LINE SUMMARY OF TOP LOGISTICS SIGNAL]"
@@ -112,6 +112,7 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
           "[Direct stakeholder prediction implication block, max 3 lines]"
         ],
         "imageUrl": "",
+        "nextUpTease": "[TITLE OF NEXT SLIDE]",
         "tags": ["Source: [Domain Root URL]", "Published: Last 48 Hours", "Status: Audited & True"]
       },
       {
@@ -124,6 +125,7 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
           "[Direct stakeholder prediction implication block, max 3 lines]"
         ],
         "imageUrl": "",
+        "nextUpTease": "[TITLE OF NEXT SLIDE]",
         "tags": ["Source: [Domain Root URL]", "Published: Last 48 Hours", "Status: Audited & True"]
       },
       {
@@ -136,6 +138,7 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
           "[Direct stakeholder prediction implication block, max 3 lines]"
         ],
         "imageUrl": "",
+        "nextUpTease": "[TITLE OF NEXT SLIDE]",
         "tags": ["Source: [Domain Root URL]", "Published: Last 48 Hours", "Status: Audited & True"]
       },
       {
@@ -148,6 +151,7 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
           "[Direct stakeholder prediction implication block, max 3 lines]"
         ],
         "imageUrl": "",
+        "nextUpTease": "[TITLE OF NEXT SLIDE]",
         "tags": ["Source: [Domain Root URL]", "Published: Last 48 Hours", "Status: Audited & True"]
       },
       {
@@ -160,6 +164,7 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
           "[Direct stakeholder prediction implication block, max 3 lines]"
         ],
         "imageUrl": "",
+        "nextUpTease": "[TITLE OF NEXT SLIDE]",
         "tags": ["Source: [Domain Root URL]", "Published: Last 48 Hours", "Status: Audited & True"]
       },
       {
@@ -172,6 +177,7 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
           "[Direct stakeholder prediction implication block, max 3 lines]"
         ],
         "imageUrl": "",
+        "nextUpTease": "[TITLE OF NEXT SLIDE]",
         "tags": ["Source: [Domain Root URL]", "Published: Last 48 Hours", "Status: Audited & True"]
       },
       {
@@ -184,6 +190,7 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
           "[Direct stakeholder prediction implication block, max 3 lines]"
         ],
         "imageUrl": "",
+        "nextUpTease": "FINAL SLIDE",
         "tags": ["Source: [Domain Root URL]", "Published: Last 48 Hours", "Status: Audited & True"]
       }
     ]
