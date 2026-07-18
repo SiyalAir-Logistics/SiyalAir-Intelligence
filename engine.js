@@ -127,25 +127,20 @@ function switchSlide(id, element) {
             return `<div>${word}</div>`;
         }).join('');
 
-        // BRAND FIXED LOGIC: Target exact brand parameters for Siyal Air
-        let kickerHTML = dailyData.main.kicker;
-        if (kickerHTML.includes('SIYAL AIR')) {
-            kickerHTML = kickerHTML.replace('AIR', '<span class="blue-text">AIR</span>');
-        }
+        // Fetches content from template.js; defaults to empty string if missing
+        const footerText = dailyData.main.footerSummary || "";
+        let kickerHTML = "BREAKING LOGISTICS NEWS";
         
         canvas.className = 'main-hook-style'; 
         html = `<div class="content-body">
-                <div class="logo-container">
-                    <img src="assets/logo.png" alt="SIYALAIR LOGO" class="brand-logo" onerror="this.style.display='none';">
-                </div>
                 <span class="kicker">${kickerHTML}</span>
                 <header>
                     <h1 class="auto-fit">${stackedTitleHTML}</h1>
                 </header>
+                <div class="footer-paragraph-placeholder">${footerText}</div>
                 </div><div class="swipe-prompt">SWIPE NEXT →</div>`;
     } else if (id === 'follow') {
         canvas.className = 'main-hook-style cta-slide';
-        // CTA FIXED LOGIC: Optimized for conversion and enterprise links
         html = `<div class="content-body">
                 <span class="kicker">GLOBAL FREIGHT CONVERSION MATRIX</span>
                 <header><h1 class="auto-fit">SCAN. CONNECT. <span class="last-word-blue">FORWARD.</span></h1></header>
@@ -158,7 +153,6 @@ function switchSlide(id, element) {
         const slide = dailyData.slides[index];
         canvas.className = 'sub-slide-style';
         if (slide) {
-            // FIXED PARSER: Safely flattens point arrays and splits sentences into individual micro-bullets
             let bulletList = "";
             if (Array.isArray(slide.points)) {
                 const combinedText = slide.points.join(' ');
