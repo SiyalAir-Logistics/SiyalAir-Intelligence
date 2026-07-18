@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT",
-        "titleBlue": "RECONSTRUCTION",
-        "footerSummary": "Global shipping networks face rapid structural realignment through US-Iran geopolitics, aggressive regulatory enforcement, and strategic carrier service network transformations."
+        "titleWhite": "DECOUPLING FREIGHT",
+        "titleBlue": "NETWORKS",
+        "footerSummary": "Global shipping dynamics face structural realignments as US courts enforce fair container billing and government actions disrupt regional energy networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US-IRAN CONFLICT: ENERGY SHOCK",
+            "heading": "EBAY: DEPOP ACQUISITION",
             "points": [
-                "US military completed new strikes against Iran, disrupting energy lanes and forcing major tanker detours around Hormuz.",
-                "Re-establishing blockades and shipping restrictions has forced tankers to execute complex U-turn maneuvers to bypass inspection zones.",
-                "A tentative bilateral memorandum of understanding offers potential relief but logistics normalization will require several months.",
-                "Freight operators must maintain alternative routings and anticipate elevated fuel surcharges during ongoing regional maritime volatility."
+                "eBay finalizes its $1.2 billion acquisition of fashion platform Depop from Etsy following UK regulatory clearance.",
+                "The strategic transaction expands the marketplace operator's consumer-to-consumer fashion trading division across critical transatlantic commerce corridors.",
+                "High-volume apparel networks will integrate direct peer-to-peer routing capabilities to optimize specialized localized sorting operations.",
+                "Multi-channel retail entities must adapt to shifting inventory distributions as second-hand apparel supply lines consolidate."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX CORP: FREIGHT SPINOFF",
+            "nextUpTease": "FEDEX: FREIGHT DIVISION SPIN-OFF",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FEDEX CORP: FREIGHT SPINOFF",
+            "heading": "FEDEX: FREIGHT DIVISION SPIN-OFF",
             "points": [
-                "FedEx officially completed the long-awaited spin-off of its less-than-truckload subsidiary into a separately traded public company.",
-                "The standalone entity immediately alters North American trucking dynamics by isolating LTL assets from express delivery networks.",
-                "Structural separation allows both independent corporations to optimize capital allocation and pursue distinct technological integration paths.",
-                "Industrial shippers should prepare for immediate rate adjustments as the independent logistics provider restructures regional operations."
+                "FedEx completes the official spin-off of its less-than-truckload subsidiary into a separate publicly traded company.",
+                "This corporate reorganization establishes an independent capital structure for the largest domestic less-than-truckload carrier network.",
+                "Operational separation allows the restructured enterprise to pursue dedicated fleet modernization and targeted regional terminal expansions.",
+                "Shippers should anticipate targeted freight pricing realignments as the newly independent corporate entity optimizes margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "US JUSTICE DEPT: TRADE ENFORCEMENT",
+            "nextUpTease": "REGULATION: FMC BILLING UPHELD",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -42,66 +42,15 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "US JUSTICE DEPT: TRADE ENFORCEMENT",
+            "heading": "REGULATION: FMC BILLING UPHELD",
             "points": [
-                "The federal trade fraud task force secured over one billion dollars in penalties and recoveries since inception.",
-                "Intensive government enforcement targeting customs non-compliance and tariff evasion has accelerated commercial audits for top importers.",
-                "Regulators are utilizing advanced trade data diagnostics to detect unlawful evasion of anti-dumping and countervailing duties.",
-                "Corporate compliance officers must implement rigorous origin verification protocols to eliminate transshipment liabilities within supply chains."
+                "The Federal Maritime Commission wins federal appeals court backing on rulings that detention fees must promote fluidity.",
+                "Ocean carriers face strict penalties for charging demurrage fees when terminal congestion prevents equipment return.",
+                "This legal milestone accelerates regulatory enforcement of fair container billing practices across all domestic port networks.",
+                "Importers gain stronger transactional leverage to challenge administrative shipping assessments during periods of severe infrastructure disruption."
             ],
             "imageUrl": "",
-            "nextUpTease": "EBAY INC: DEPOP ACQUISITION",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "EBAY INC: DEPOP ACQUISITION",
-            "points": [
-                "United Kingdom regulatory authorities officially cleared eBay\u2019s one point two billion dollar acquisition of fashion platform Depop.",
-                "The transaction transfers ownership from Etsy to eBay, scaling secondary market capabilities in consumer-to-consumer fashion.",
-                "Consolidating these major digital marketplaces enhances global circular economy flows and deepens younger demographic retail engagement.",
-                "Multi-channel e-commerce merchants must realign listing strategies as cross-border fashion fulfillment networks consolidate under unified ownership."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "ARCBEST CORP: TERMINAL CONSOLIDATION",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "ARCBEST CORP: TERMINAL CONSOLIDATION",
-            "points": [
-                "ArcBest announced plans to close ten smaller service centers and eliminate two percent of its active workforce.",
-                "Operational consolidation aims to streamline freight routing and eliminate redundant overhead costs across secondary logistics markets.",
-                "This capacity contraction highlights persistent pricing pressures and shifting volume distributions within the North American trucking sector.",
-                "Regional freight clients must expect localized routing modifications and adjust dispatch schedules to mitigate transit disruptions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "US COURT OF APPEALS: FMC BILLING",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "US COURT OF APPEALS: FMC BILLING",
-            "points": [
-                "The US Court of Appeals upheld federal rules requiring ocean carrier detention fees to actively promote freight fluidity.",
-                "This landmark judicial decision confirms regulatory authority over carrier billing practices and limits arbitrary maritime demurrage charges.",
-                "Ocean carriers face direct compliance mandates to verify billing clarity and prevent punitive invoicing during port congestion.",
-                "Importers should leverage this legal precedent to challenge invalid demurrage assessments and lower terminal operational friction."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DHL GLOBAL: TRANSPACIFIC EXPANSION",
+            "nextUpTease": "ARCBEST: LTL NETWORK CONSOLIDATION",
             "tags": [
                 "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
@@ -109,18 +58,69 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "DHL GLOBAL: TRANSPACIFIC EXPANSION",
+            "id": 4,
+            "heading": "ARCBEST: LTL NETWORK CONSOLIDATION",
             "points": [
-                "DHL Global Forwarding established a new direct air cargo service connecting manufacturing hubs in Bangkok to Cincinnati.",
-                "Thrice-weekly flights provide reliable high-capacity transportation linking critical Southeast Asian supply nodes directly to central US hubs.",
-                "The strategic route bypasses marine congestion points and supports high-yield technology and industrial hardware supply chains.",
-                "Supply chain managers should integrate this consistent aerial capacity to diversify cross-border transport and mitigate ocean delays."
+                "ArcBest initiates the closure of ten LTL service centers and slashes two percent of its workforce.",
+                "Regional freight operations will consolidate into larger adjacent facilities to mitigate declining volumes and rising operational costs.",
+                "The structural rationalization targets underperforming secondary markets to improve overall asset utilization across the primary network.",
+                "Freight managers must reroute shipments to adjacent regional hubs to maintain consistent transit performance metrics."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "COMPLIANCE: TRADE FRAUD TASK FORCE",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "COMPLIANCE: TRADE FRAUD TASK FORCE",
+            "points": [
+                "The Department of Justice Trade Fraud Task Force achieves one billion dollars in recoveries within its year.",
+                "Federal enforcement actions target illegal customs evasion schemes, forced labor imports, and systematic misclassification of foreign goods.",
+                "Enhanced transactional scrutiny on automated imports increases operational risks for third-party logistics firms handling cross-border flows.",
+                "Importers must implement rigorous digital compliance protocols to prevent costly cargo seizures at active international entry ports."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "BORDER LANDS: CABOTAGE ENFORCEMENT",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "BORDER LANDS: CABOTAGE ENFORCEMENT",
+            "points": [
+                "Federal authorities accelerate cabotage enforcement, restricting unauthorized Mexican carrier operations within domestic border zones.",
+                "Strict administrative policing targets foreign operators transporting domestic freight between points inside the United States border.",
+                "Transport networks must shift transborder freight handling structures to ensure certified cross-dock transfers at processing terminals.",
+                "Supply chain directors should expect initial capacity tightness in border lanes during transitions to compliant transfer partners."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "GEOPOLITICS: IRAN SHIELD BLOCKADE",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "GEOPOLITICS: IRAN SHIELD BLOCKADE",
+            "points": [
+                "Reinstated United States blockade measures against Iranian shipping disrupt global energy flows and maritime transit lanes.",
+                "Ocean tankers carrying regional crude must perform irregular navigation maneuvers to bypass international enforcement patrols.",
+                "Escalating shipping threats near critical maritime chokepoints push regional transit insurance premiums and overall freight rates higher.",
+                "Global energy distribution plans require rapid diversification to offset structural supply delays in contested transit channels."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
