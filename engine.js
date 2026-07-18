@@ -129,7 +129,7 @@ function switchSlide(id, element) {
 
         // Fetches content from template.js; defaults to empty string if missing
         const footerText = dailyData.main.footerSummary || "";
-        let kickerHTML = "BREAKING LOGISTICS NEWS";
+        let kickerHTML = "";
         
         canvas.className = 'main-hook-style'; 
         html = `<div class="content-body">
