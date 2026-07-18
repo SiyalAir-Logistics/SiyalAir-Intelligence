@@ -2,98 +2,98 @@ const dailyData = {
     "main": {
         "kicker": "SIYAL AIR",
         "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
-        "titleBlue": "RESTRUCTURING",
-        "footerSummary": "FedEx official LTL spin-off and escalating Middle East maritime blockades force global supply chains to restructure freight network capacities."
+        "titleBlue": "VOLATILITY",
+        "footerSummary": "Logistics networks face extreme strain from rising trade tariffs, Middle East maritime blockades, and persistent labor shortages impacting national distribution capacity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FEDEX: FREIGHT SPIN-OFF",
+            "heading": "MARITIME: HORMUZ BLOCKADE IMPACT",
             "points": [
-                "FedEx officially completes the spin-off of its less-than-truckload subsidiary FedEx Freight into an independent publicly traded entity.",
-                "The structural separation aims to maximize shareholder value while optimizing independent capital allocation for LTL networks.",
-                "This transition allows FedEx to streamline its express and ground operations under the unified Network 2.0 initiative.",
-                "Shippers must renegotiate contract pricing structures as the newly independent LTL giant establishes its standalone corporate strategy."
+                "Middle East shipping disruptions have reached a critical escalation point following new US military strikes against Iranian interests in the region.",
+                "Oil tankers and container vessels are now executing significant rerouting strategies to navigate the Strait of Hormuz, forcing massive transit delays.",
+                "The insurance and security premiums for vessels traversing the Persian Gulf have surged, creating an inflationary floor for transcontinental energy shipments.",
+                "Market analysts expect continued freight rate instability as global carriers grapple with increased vessel dwell times and regional operational unpredictability."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ARCBEST: TERMINAL CONSOLIDATION",
+            "heading": "TRUCKING: NETWORK CAPACITY DYNAMICS",
             "points": [
-                "ArcBest announces the permanent closure of ten ABF Freight service terminals alongside a two percent workforce reduction.",
-                "Operations from the decommissioned regional facilities will be absorbed into nearby high-capacity hubs to maintain network throughput.",
-                "High operating costs and soft volume levels are forcing LTL carriers to consolidate physical real estate footprints.",
-                "Shippers in smaller markets will experience localized transit adjustments as regional consolidation reduces direct lane coverage."
+                "Cass Information Systems reports that while freight shipment volumes softened in June, truckload linehaul rates have maintained a steady year over year increase.",
+                "ArcBest has initiated a tactical consolidation of its terminal network, resulting in the closure of ten sites and a 2% workforce reduction.",
+                "Total industry truck operating costs hit record highs in 2025 at $2.336 per mile, further compressing margins for asset-heavy logistics providers and carriers.",
+                "Supply chain resilience is now being driven more by the contraction of active fleet capacity than by any meaningful rebound in consumer freight volume."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "USPS: SECURITY ARCHITECTURE",
+            "heading": "POLICY: TRADE ENFORCEMENT ESCALATION",
             "points": [
-                "United States Postal Service mandates strict password compliance updates for all online business portal accounts by July thirtieth.",
-                "Non-compliant commercial sellers will face automated account lockouts preventing carrier pickup scheduling and label printing capabilities.",
-                "The cybersecurity reinforcement targets systemic tracking fraud and unauthorized address redirection across the domestic parcel network.",
-                "E-commerce businesses must immediately update access credentials to avoid disruptive operational delays during critical fulfillment windows."
+                "The DOJ Trade Fraud Task Force has officially surpassed $1 billion in recovered penalties and charged losses since its inception in August 2025.",
+                "Enforcement focus has intensified regarding cargo theft rings and illegal training schools for commercial drivers, significantly tightening the national logistics compliance landscape.",
+                "New tariffs on Brazilian imports and aggressive cabotage enforcement in border zones are forcing shippers to rapidly re-evaluate their cross-border North American strategies.",
+                "Regulatory bodies are signaling a long-term shift toward stricter documentation requirements, increasing the operational burden on customs brokers and global trade intermediaries."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "US BLOCKADE: HORMUZ ROUTING",
+            "heading": "TECHNOLOGY: AI-DRIVEN SUPPLY CHAINS",
             "points": [
-                "Reinstated United States maritime blockades against Iranian shipping routes force energy tankers to execute emergency tactical diversions.",
-                "Tankers transiting the Strait of Hormuz face severe security threats driving global marine insurance premiums to historic peaks.",
-                "Escalating geopolitical conflicts compel ocean carriers to redesign primary shipping lanes and bypass volatile Middle Eastern waterways completely.",
-                "Global energy supply chains must secure alternative overland corridors to mitigate prolonged transit delays and escalating spot rates."
+                "Retailers are aggressively integrating digital twin modeling and generative AI to optimize global inventory distribution despite persistent geopolitical and climate-based supply chain vulnerabilities.",
+                "Warehouse operators are increasingly deploying autonomous robotics for inventory management, moving beyond traditional point solutions toward fully connected and flexible facility environments.",
+                "Market leaders like Walmart and Amazon are setting new benchmarks for automated logistics, forcing competitors to accelerate their investment in AI-based procurement platforms.",
+                "The transition toward modular application stacks is becoming essential to avoid the systemic operational risks inherent in unlinked, legacy supply chain software systems."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FMC: DETENTION FEES RULE",
+            "heading": "OCEAN: TRANS-PACIFIC PEAK SEASON",
             "points": [
-                "US Court of Appeals upholds the Federal Maritime Commission ruling that ocean container detention fees must promote fluidity.",
-                "The judicial affirmation restricts ocean carriers from billing demurrage charges when marine terminals are closed or inaccessible.",
-                "This landmark regulatory victory establishes a clear legal precedent safeguarding shippers against unfair punitive carrier billing practices.",
-                "Importers will see reduced operational friction and greater billing transparency across major United States container gateway ports."
+                "Despite overall weak demand in the consumer sector, trans-Pacific container volumes remain propped up by high-value hardware shipments for critical data center infrastructure buildouts.",
+                "Ocean carriers are attempting to sustain elevated spot freight rates by deploying extra-loaders to mitigate the impact of frontloading on major east-west trade lanes.",
+                "Port of Los Angeles and Port of Long Beach continue to handle high container volumes, yet equipment gaps in Chicago threaten to disrupt inland flow.",
+                "Shippers are currently navigating a high-risk transition period where excess ocean capacity meets an unpredictable early peak season demand surge in late 2026."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EBAY: DEPOP ACQUISITION",
+            "heading": "E-COMMERCE: HOLIDAY READINESS",
             "points": [
-                "United Kingdom regulators clear eBay to finalize its one point two billion dollar acquisition of fashion marketplace Depop.",
-                "The strategic acquisition diversifies eBay's transactional portfolio by integrating Depop's extensive peer-to-peer consumer-to-consumer apparel platform.",
-                "Multi-channel marketplaces are actively consolidating specialized e-commerce brands to capture resilient niche consumer segments globally.",
-                "Sellers should expect harmonized cross-platform advertising tools and unified payout systems as integration execution proceeds throughout 2026."
+                "Marketplaces are shifting early-season fulfillment protocols, with Amazon announcing 2026 holiday fees and logistics surcharges effective starting in mid-October for all sellers.",
+                "Fashion e-commerce consolidation continues to intensify, highlighted by recent high-value acquisitions aimed at diversifying marketplace exposure and expanding consumer reach in apparel categories.",
+                "Sellers face heightened non-compliance risks due to evolving hazardous material handling fees from postal services, necessitating more granular control over SKU-level shipping classifications.",
+                "Platform updates to seller-initiated offers and automated handling rules are forcing logistics managers to automate manual payout and compliance workflows to protect thin margins."
             ],
             "imageUrl": "",
             "tags": [
@@ -104,16 +104,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "ZOOX: ROBOTAXI RECALL",
+            "heading": "AIR CARGO: YIELD STABILIZATION",
             "points": [
-                "Amazon's Zoox issues a voluntary safety recall for its autonomous robotaxis following navigation failures in heavy smoke environments.",
-                "Sensor suites struggled to process environmental hazards, causing abrupt braking maneuvers that compromised surrounding public roadway safety.",
-                "The software failure highlights critical technical limitations in current lidar and camera arrays operating under degraded visibility conditions.",
-                "Autonomous logistics developers must implement specialized sensor fusion redundancies before deploying driverless fleets on public urban corridors."
+                "Air cargo markets are demonstrating resilience driven by AI-related shipments, which successfully offset weaker consumer goods demand during the mid-year operational window.",
+                "International carriers are expanding trans-Pacific air capacity with new direct routes to capture high-yield traffic from Southeast Asian manufacturing hubs into U.S. hubs.",
+                "A strategic pivot toward digital sales operations and AI-powered booking platforms is standardizing pricing models and increasing operational transparency for global freight forwarders.",
+                "Industry experts warn that while AI shipments currently prop up air yields, the market remains highly susceptible to sudden shifts in global economic demand."
             ],
             "imageUrl": "",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
