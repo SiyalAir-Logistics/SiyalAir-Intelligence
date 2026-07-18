@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL REGULATORY COMPLIANCE",
+        "titleWhite": "GLOBAL LOGISTICS COMPLIANCE",
         "titleBlue": "SHIFTS",
-        "footerSummary": "The US Justice Department and Federal Maritime Commission enforce landmark cargo compliance and billing rules to restore global supply chain integrity."
+        "footerSummary": "Federal trade fraud recoveries surpass one billion dollars as maritime blockades and rising carrier operating costs disrupt global shipping networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
+            "heading": "DOJ: TRADE FRAUD PENALTIES",
             "points": [
-                "The Justice Department trade fraud task force achieved one billion dollars in recoveries since inception.",
-                "Operations face immediate scrutiny as multi-agency audits target systemic customs evasion and misclassified import entries.",
-                "Importers must overhaul regulatory validation frameworks to mitigate escalating penalty risks and potential cargo seizures.",
-                "Advanced digital compliance auditing systems will become mandatory to prevent devastating financial and operational disruption."
+                "Trade Fraud Task Force has officially surpassed one billion dollars in recoveries, penalties, and forfeitures.",
+                "Accelerated federal enforcement actions demonstrate a major crackdown on systemic customs noncompliance and import duty evasion.",
+                "Global manufacturers must recalibrate auditing processes to counter rising regulatory scrutiny on cross-border transactions.",
+                "Future shipping operations face enhanced customs audits, cargo clearance delays, and potential risk mitigation penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: DETENTION FEES COMPLIANCE",
+            "nextUpTease": "FEDEX: LTL SPIN-OFF FINALIZED",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -25,34 +25,34 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "FMC: DETENTION FEES COMPLIANCE",
+            "heading": "FEDEX: LTL SPIN-OFF FINALIZED",
             "points": [
-                "The federal appeals court upheld the decision requiring ocean carrier detention fees to promote freight fluidity.",
-                "Ocean carriers can no longer penalize shippers during periods of documented port congestion and terminal backlogs.",
-                "Marine terminal operators must adjust billing software configurations to prevent illegal non-fluidity demurrage charges.",
-                "Importers gain significant leverage to dispute invalid supply chain storage invoices through streamlined charge complaint channels."
+                "Memphis-based FedEx has completed its long-awaited corporate spin-off of the FedEx Freight less-than-truckload subsidiary.",
+                "The newly separated entity will operate as an independent public company, altering competitive dynamics in logistics.",
+                "This strategic restructuring decouples parcel and freight operations to optimize independent capital allocation and market responsiveness.",
+                "Enterprise shippers must prepare for localized freight tariff renegotiations and shifted carrier capacity allocation strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: FREIGHT SPINOFF COMPLETED",
+            "nextUpTease": "ARCBEST: TERMINAL CONSOLIDATION",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FEDEX: FREIGHT SPINOFF COMPLETED",
+            "heading": "ARCBEST: TERMINAL CONSOLIDATION",
             "points": [
-                "FedEx officially spun off its massive less-than-truckload freight subsidiary into a separately traded public entity.",
-                "The restructuring isolates specialized logistics assets to optimize independent capital allocation strategies and operation efficiency.",
-                "Industrial shippers must prepare for localized pricing adjustments as the carrier reorganizes regional freight terminals.",
-                "Separated operations will trigger fresh competition across the consolidating national less-than-truckload transportation market."
+                "ArcBest plans to shut down ten ABF Freight service centers and reduce its total workforce by two percent.",
+                "The consolidation targets smaller regional markets to streamline operational efficiency and counter softening national transport volumes.",
+                "Network rationalization highlights ongoing structural adjustments within the less-than-truckload sector amid changing market demands.",
+                "Logistics coordinators must adjust regional routing paths to prevent delivery delays across affected midmarket distribution nodes."
             ],
             "imageUrl": "",
             "nextUpTease": "EBAY: DEPOP ACQUISITION COMPLETED",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -61,13 +61,13 @@ const dailyData = {
             "id": 4,
             "heading": "EBAY: DEPOP ACQUISITION COMPLETED",
             "points": [
-                "United Kingdom regulators approved the one point two billion dollar fashion marketplace transaction with Etsy.",
-                "The strategic acquisition accelerates consumer-to-consumer circular fashion volumes across domestic and international shipping lanes.",
-                "Shippers will experience unified multi-platform inventory syndication tools to streamline decentralized ecommerce product fulfillment.",
-                "Consolidated shipping volume negotiations will likely drive lower parcel processing rates for active marketplace participants."
+                "eBay has completed the one point two billion dollar acquisition of the fashion marketplace Depop from Etsy.",
+                "This acquisition officially cleared British regulatory hurdles, consolidating peer-to-peer apparel logistics under a single marketplace umbrella.",
+                "The strategic platform integration expands e-commerce logistics infrastructure focusing heavily on specialized consumer-to-consumer fashion fulfillment.",
+                "Retail sellers should anticipate updated platform shipping standards, international logistics protocols, and unified fee structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCBEST: TERMINAL CONSOLIDATION EFFORT",
+            "nextUpTease": "USPS: SECURITY COMPLIANCE DEADLINE",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -76,32 +76,15 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "ARCBEST: TERMINAL CONSOLIDATION EFFORT",
+            "heading": "USPS: SECURITY COMPLIANCE DEADLINE",
             "points": [
-                "ArcBest announced the closure of ten regional freight facilities alongside selective workforce reductions this quarter.",
-                "Operations will merge into surrounding larger hub terminals to protect profit margins against soft volume levels.",
-                "Shippers using secondary markets must re-evaluate transit schedules due to anticipated freight routing changes.",
-                "Aggressive capacity reduction highlights continuing structural consolidation throughout the domestic less-than-truckload transportation sector."
+                "United States Postal Service enforces a strict July thirty deadline for mandatory platform password compliance upgrades.",
+                "Non-compliant commercial seller accounts risk losing automated pickup schedules, shipping supply orders, and digital return portals.",
+                "This cybersecurity mandate addresses increasing data protection regulations and systemic vulnerabilities within retail shipping platforms.",
+                "E-commerce merchants must immediately update system credentials to maintain uninterrupted access to parcel shipping networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: HAZMAT AND SECURITY MANDATES",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "USPS: HAZMAT AND SECURITY MANDATES",
-            "points": [
-                "The postal service introduced strict noncompliance fines for undeclared hazardous materials alongside mandatory credential updates.",
-                "Common household products like essential oils and nail polish face elevated inspection rates at processing hubs.",
-                "Online sellers must implement automated inventory tagging to flag restricted items before printing final postage labels.",
-                "Failure to configure compliant system passwords by the July deadline will lock merchant shipping account access."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "SARONIC: TEXAS DRONE SHIPYARD BUILD",
+            "nextUpTease": "US NAVY: IRANIAN BLOCKADE",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -109,18 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "SARONIC: TEXAS DRONE SHIPYARD BUILD",
+            "id": 6,
+            "heading": "US NAVY: IRANIAN BLOCKADE",
             "points": [
-                "Defense startup Saronic selected a Texas deepwater port to build a three billion dollar manufacturing shipyard.",
-                "The facility will manufacture autonomous surface drone boats to secure vulnerable global maritime shipping lanes.",
-                "Industrial supply chains gain protective infrastructure as naval defense capabilities modernize against regional ocean threats.",
-                "This domestic development underscores a broader strategic pivot toward autonomous security operations across major trade corridors."
+                "Restored United States naval blockades have forced Iranian energy tankers into erratic shipping navigation routes.",
+                "Vessel detours through key regional maritime channels threaten global crude oil distribution networks and fuel pricing.",
+                "Extreme geographic disruptions require carriers to bypass traditional waterways, adding shipping transit times and fuel surcharges.",
+                "Supply chain planners must prepare for severe ocean freight rate increases and localized bunkering capacity constraints."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ATRI: TRUCK OPERATING COSTS",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "ATRI: TRUCK OPERATING COSTS",
+            "points": [
+                "Motor carrier operating costs rose three point four percent, reaching a record two point three dollars per mile.",
+                "Higher equipment maintenance, labor rates, and fuel expenses drive the sharpest carrier cost inflation since twenty-sixteen.",
+                "Margin contraction forces transportation providers to rationalize fleet utilization and heavily restrict empty backhaul mileage.",
+                "Shippers face upward pressure on contract freight rates as motor carriers pass down severe operational expenses."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
