@@ -1,22 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "RESTRUCTURE",
-        "footerSummary": "Geopolitical conflict and tariff threats trigger unprecedented early peak season cargo surges as federal enforcement task forces crack down on trade compliance."
+        "titleWhite": "GLOBAL LOGISTICS REGULATORY",
+        "titleBlue": "COMPLIANCE",
+        "footerSummary": "Global supply chains face major restructuring as regulatory enforcement, carrier spin-offs, and critical port safety incidents disrupt traditional peak season planning cycles."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE RECOVERIES",
+            "heading": "FMC: DETENTION REGULATION UPHELD",
             "points": [
-                "Federal task force deploys multi-agency data sharing to target systematic customs valuation evasion and import duty fraud.",
-                "The specialized enforcement initiative recovers over one billion dollars in penalties and forfeitures within eleven operational months.",
-                "Regulators increase surveillance on cross-border transactions to eliminate illicit trade loops undermining domestic manufacturing protections.",
-                "Importers must implement rigorous origin auditing protocols to mitigate severe penalty exposure during upcoming custom sweeps."
+                "The US Court of Appeals upheld the Federal Maritime Commission ruling regarding detention fee billing practices.",
+                "Ocean carriers must now ensure that demurrage and detention charges actively promote container and freight fluidity.",
+                "This decision strengthens regulatory oversight to protect importers and exporters from unfair maritime billing practices.",
+                "Shippers gain leverage to dispute non-compliant fees through the streamlined charge complaint process established recently."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEOPOLITICAL OCEAN STRATEGY",
+            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT RISE",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT RISE",
+            "points": [
+                "The Department of Justice Trade Fraud Task Force recovered one billion dollars within its first year.",
+                "Enforcement actions focused heavily on customs evasion, product misclassification, and illegal tariff mitigation strategies.",
+                "Importers must audit supply chain documentation to prevent severe civil penalties and structural compliance violations.",
+                "Advanced data analytics are now actively deployed by government agencies to detect systemic shipping anomalies."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FEDEX: FREIGHT SPIN-OFF COMPLETED",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -24,50 +41,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "SHIPPERS: GEOPOLITICAL OCEAN STRATEGY SHIFT",
-            "points": [
-                "Importers scrap traditional contract cycles to secure early ocean capacity ahead of looming tariff deadlines.",
-                "Southern California ports handle over one million container units as frontloading triggers unprecedented cargo volume spikes.",
-                "Escalating maritime conflict in the Strait of Hormuz forces carriers to reroute vessels around unstable corridors.",
-                "Logistics planners must diversify gateway options to maintain supply continuity amid rising blank sailings and delays."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AI COMPONENT DEMAND",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "AIR CARGO: AI COMPONENT DEMAND SURGE",
+            "heading": "FEDEX: FREIGHT SPIN-OFF COMPLETED",
             "points": [
-                "Booming global demand for artificial intelligence hardware drives heavy high-yield technical components into premium air transport.",
-                "High-value technological shipments offset softer consumer retail e-commerce volumes across major transpacific and European air corridors.",
-                "Data center infrastructure buildouts sustain elevated charter rates even during traditional midyear shipping lulls.",
-                "Shippers must negotiate dedicated block space agreements early to secure capacity for critical electronics programs."
+                "FedEx finalized the spin-off of its less-than-truckload subsidiary into an independent publicly traded company.",
+                "The restructuring aims to maximize shareholder value while optimizing the core parcel and air networks.",
+                "Operational independence allows the newly formed entity to adjust LTL pricing strategies and terminal infrastructure.",
+                "Shippers must prepare for independent contract negotiations and potential adjustments in multi-regional freight distribution patterns."
             ],
             "imageUrl": "",
-            "nextUpTease": "ABF TERMINAL CONSOLIDATION",
+            "nextUpTease": "ARCBEST: TERMINAL CLOSURES & CONSOLIDATION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ARCBEST: ABF TERMINAL CONSOLIDATION PROGRAM",
+            "heading": "ARCBEST: TERMINAL CLOSURES & CONSOLIDATION",
             "points": [
-                "ArcBest initiates structural network optimization by shuttering underperforming regional freight handling facilities in secondary markets.",
-                "The carrier closes ten freight terminals and trims two percent of its workforce to reduce overhead.",
-                "Less-than-truckload operators adjust physical footprints as post-pandemic capacity realities pressure operating ratios and margins.",
-                "Shippers in impacted secondary regions must prepare for localized transit delays as cargo consolidation shifts routing."
+                "ArcBest announced the closure of ten ABF Freight service centers alongside a two percent workforce reduction.",
+                "This corporate restructuring aims to consolidate regional freight operations and improve carrier network efficiency.",
+                "Low freight volumes and persistent market pressures forced the consolidation of these smaller service facilities.",
+                "Shippers using consolidated regional hubs may experience localized transit adjustments as terminal networks realign."
             ],
             "imageUrl": "",
-            "nextUpTease": "NATIONWIDE RFID SENSING",
+            "nextUpTease": "AMAZON: HOLIDAY FEES & SURCHARGES ANNOUNCED",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -76,51 +76,51 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "UPS: NATIONWIDE RFID PACKAGE SENSING",
+            "heading": "AMAZON: HOLIDAY FEES & SURCHARGES ANNOUNCED",
             "points": [
-                "UPS deploys radio frequency identification package sensing technologies across its domestic small package delivery infrastructure.",
-                "The automated tracking system replaces manual barcode scanning to accelerate throughput at sorting hubs.",
-                "Integrating smart label technology provides granular visibility into individual package transit times and sorting errors.",
-                "Enterprise retail brands gain precise delivery milestone data to optimize inventory allocation and final-mile customer communication."
+                "Amazon revealed its peak season holiday fulfillment fees alongside an ongoing fuel and logistics surcharge.",
+                "The additional costs apply starting October fifteenth to mitigate elevated operational expenses during peak volumes.",
+                "E-commerce merchants must adjust margin expectations or increase consumer pricing to absorb these fulfillment changes.",
+                "Early inventory positioning is recommended to bypass potential congestion and secure critical warehouse space."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDERAL CDL CRACKDOWN",
+            "nextUpTease": "US GOVT: IRANIAN SHIPPING BLOCKADE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DOT: FEDERAL CDL FRAUD CRACKDOWN",
+            "heading": "US GOVT: IRANIAN SHIPPING BLOCKADE",
             "points": [
-                "Federal transportation and security agencies launch a joint investigation into commercial driver licensing training schools.",
-                "Seventy-five licensing academies face scrutiny for illicitly bypassing mandatory driver safety and verification protocols.",
-                "The massive federal dragnet aims to eliminate corrupt licensing pipelines that compromise interstate highway safety.",
-                "Carriers must perform deeper credential vetting during driver onboarding to avoid liability from fraudulent commercial licenses."
+                "The United States restored its maritime blockade against Iranian shipping, disrupting global energy supply lines.",
+                "Sanctions force oil tankers to utilize complex navigation patterns through critical maritime transit choke points.",
+                "Freight rates in neighboring trade lanes face upward pressure as geopolitical risk premiums rise significantly.",
+                "Supply chain planners must monitor transit schedules through sensitive corridors to mitigate potential vessel delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEPOP REGULATORY APPROVAL",
+            "nextUpTease": "PORT OF ANTWERP: TOXIC GAS LEAK CLOSURES",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EBAY: DEPOP ACQUISITION REGULATORY APPROVAL",
+            "heading": "PORT OF ANTWERP: TOXIC GAS LEAK CLOSURES",
             "points": [
-                "United Kingdom regulatory authorities approve the multi-billion dollar acquisition of peer-to-peer apparel marketplace Depop.",
-                "The one-point-two billion dollar transaction expands the parent marketplace footprint in high-growth social commerce categories.",
-                "E-commerce platforms consolidate specialized peer-to-peer networks to secure market share among younger demographic consumer groups.",
-                "Independent sellers will benefit from integrated cross-platform marketing and simplified international shipping label programs."
+                "A severe toxic gas leak at Antwerp container terminals caused temporary facility closures and localized congestion.",
+                "Over one hundred fifty workers required hospitalization, prompting immediate emergency response and environmental safety reviews.",
+                "Port authorities partially reopened affected quays after declaring the maritime logistics area safe for operations.",
+                "Ocean carriers anticipate minor schedule disruptions and container backlogs as terminal processing returns to normal."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
