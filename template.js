@@ -1,56 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DECODING GLOBAL",
-        "titleBlue": "LOGISTICS",
-        "footerSummary": "US-Iran preliminary ceasefire eases global shipping anxieties, yet logistics normalization remains months away amidst persistent underwriting caution."
+        "titleWhite": "LOGISTICS NETWORK",
+        "titleBlue": "RESTRUCTURING",
+        "footerSummary": "Global supply chains undergo deep restructuring as Strait of Hormuz threats, FedEx structural spinoffs, and intensified trade customs enforcement rewrite operational rules."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US-IRAN: CEASEFIRE AGREEMENT SIGNED",
+            "heading": "STRAIT OF HORMUZ: TRANSIT CRUNCH",
             "points": [
-                "United States and Iran signed a preliminary memorandum of understanding to ease regional energy and supply chain pressures.",
-                "Fully restoring maritime trade and cargo shipping routes through the region will still require several months.",
-                "Insurance underwriters remain highly cautious regarding risk assessment protocols for commercial vessels transiting the critical waterways.",
-                "Ocean carriers must continue utilizing alternative routing frameworks to guarantee vessel safety during the transition period."
+                "Iran called off the interim peace agreement raising direct maritime security threats in the Strait of Hormuz.",
+                "Oil shippers and tanker operators face worst-case scenario operations as regional insurance rates surge exponentially overnight.",
+                "Iraq and Syria signed a bilateral treaty to restore alternative pipeline infrastructure bypassing the critical choke point.",
+                "Shippers must reroute active assets around Africa to mitigate severe transit delays and rising fuel surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCBEST: LTL NETWORK CONSOLIDATION",
+            "nextUpTease": "FEDEX: FREIGHT DIVISION SPINOFF",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ARCBEST: LTL NETWORK CONSOLIDATION",
+            "heading": "FEDEX: FREIGHT DIVISION SPINOFF",
             "points": [
-                "ArcBest plans to shut down ten ABF Freight service centers and eliminate two percent of workforce.",
-                "Low freight volumes are forcing carriers to streamline less-than-truckload networks and consolidate operations into larger regional hubs.",
-                "Industrial shippers should expect transition disruptions as cargo flows are rerouted through adjacent distribution facilities.",
-                "This consolidation underscores a broader industry push toward operational efficiency amidst stagnant shipping demand across North America."
+                "FedEx officially finalized the corporate spinoff of its less-than-truckload subsidiary FedEx Freight into a separate entity.",
+                "The long-awaited restructuring establishes FedEx Freight as an independent publicly traded enterprise targeting mid-market freight capacity.",
+                "This structural separation allows both corporations to optimize independent capital allocation strategies and technology deployments.",
+                "Global supply chains must renegotiate long-term LTL contracts as pricing models shift under the newly independent entity."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: FREIGHT DIVISION SPIN-OFF",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "FEDEX: FREIGHT DIVISION SPIN-OFF",
-            "points": [
-                "FedEx officially finalized the corporate spin-off of its highly profitable less-than-truckload subsidiary FedEx Freight today.",
-                "The newly created independent entity will trade publicly to unlock direct equity value for its shareholders.",
-                "Operational structures and customer pricing agreements are expected to remain stable throughout the immediate post-transaction phase.",
-                "Analysts project this move will allow the parent company to focus entirely on express and ground integrations."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "WALMART: DIGITAL TWIN INTEGRATION",
+            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -58,33 +41,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "WALMART: DIGITAL TWIN INTEGRATION",
+            "id": 3,
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
             "points": [
-                "Walmart is deploying advanced digital twins and artificial intelligence models to optimize global supply chain routing mechanics.",
-                "These real-time simulation tools help mitigate shipping bottlenecks caused by geopolitical conflicts and extreme weather events.",
-                "Incorporating predictive logistics algorithms enables faster distribution cycles and reduces inventory overhead across retail networks.",
-                "Enterprise supply chains must increasingly rely on algorithmic automation to maintain distribution resilience in volatile environments."
+                "The Department of Justice Trade Fraud Task Force crossed one billion dollars in total global recoveries.",
+                "Regulatory enforcement measures executed over eleven months targeted duty evasion, transshipment violations, and illegal customs entries.",
+                "Advanced data analytics and interagency sharing now enable instantaneous detection of fraudulent supply chain documentation practices.",
+                "Importers must establish rigorous auditing systems to prevent severe operational disruptions from federal compliance enforcement sweeps."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD RECOVERIES",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "DOJ: TRADE FRAUD RECOVERIES",
-            "points": [
-                "The Department of Justice Trade Fraud Task Force has recovered over one billion dollars since inception.",
-                "Customs enforcement agencies are heavily targeting import duty evasion, counterfeit goods, and systematic trade compliance violations.",
-                "Importers must execute rigorous customs audits to verify product origin classifications and avoid severe financial penalties.",
-                "This massive milestone signals an unprecedented era of regulatory oversight for international shipping and trade partners."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "ATRI: OPERATING COSTS RISE",
+            "nextUpTease": "ARCBEST: LTL NETWORK CONSOLIDATION",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -92,16 +58,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "ATRI: OPERATING COSTS RISE",
+            "id": 4,
+            "heading": "ARCBEST: LTL NETWORK CONSOLIDATION",
             "points": [
-                "Average marginal trucking operating costs increased to an all-time high of two point three four dollars.",
-                "Severe inflation in equipment maintenance, driver compensation, and high fuel expenses drove the overall cost increase.",
-                "Motor carriers are facing intense margin compression as spot freight rates struggle to offset historical operational costs.",
-                "Fleet operators must leverage software solutions to optimize asset utilization and decrease idle mileage across networks."
+                "ArcBest initiated the closure of ten ABF Freight service centers to consolidate regional shipping lane operations.",
+                "The restructuring actions include laying off two percent of the total corporate workforce to reduce operational overhead.",
+                "Consolidating freight terminals aims to optimize asset utilization and improve terminal density across smaller geographic markets.",
+                "Shippers utilizing ABF routes will experience localized transition delays as freight flows shift to consolidated terminals."
             ],
             "imageUrl": "",
-            "nextUpTease": "EBAY: DEPOP ACQUISITION CLEARED",
+            "nextUpTease": "EBAY: DEPOP PLATFORM ACQUISITION",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -109,13 +75,47 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "EBAY: DEPOP ACQUISITION CLEARED",
+            "id": 5,
+            "heading": "EBAY: DEPOP PLATFORM ACQUISITION",
             "points": [
-                "United Kingdom regulators cleared eBay to acquire consumer-to-consumer fashion marketplace Depop from Etsy for one billion dollars.",
-                "This regulatory approval enables eBay to significantly scale its digital marketplace footprint within the global apparel sector.",
-                "The acquisition is scheduled to close quickly, merging substantial user databases and automated payment systems.",
-                "Peer-to-peer commerce networks continue to consolidate as platforms pursue increased transactional scale and younger consumer demographics."
+                "United Kingdom regulators cleared eBay to acquire consumer-to-consumer fashion marketplace Depop from Etsy for $1.2 billion.",
+                "The cash transaction enables eBay to capture significant market share in the rapidly expanding youth circular fashion sector.",
+                "Integrating Depop represents a major architectural shift toward specialized apparel marketplaces fighting primary e-commerce platforms.",
+                "Third-party logistics networks must adapt shipping configurations to handle elevated volumes of individual peer-to-peer apparel packages."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "HAPAG-LLOYD: GEMINI CAPACITY UPGRADE",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "HAPAG-LLOYD: GEMINI CAPACITY UPGRADE",
+            "points": [
+                "Hapag-Lloyd upgraded its full-year profit guidance following robust demand and earlier-than-expected ocean freight shipping activity.",
+                "Spot freight rates experienced their first minor decline, signaling that early peak season volumes may have crested.",
+                "High import volumes driven by data center infrastructure hardware have temporarily masked underlying consumer demand weakness.",
+                "Shippers should expect container equipment shortages to persist near major Asian hubs despite the minor rate cooling."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS: HAZMAT SECURITY ENFORCEMENT",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "USPS: HAZMAT SECURITY ENFORCEMENT",
+            "points": [
+                "United States Postal Service announced mandatory password compliance rules alongside new hazmat noncompliance shipping penalty fees.",
+                "The safety fees penalize unregistered hazardous materials including common household goods like essential oils and nail polish.",
+                "Upgraded digital infrastructure secures shipping portal access while checking package profiles against automated safety profiles.",
+                "E-commerce merchants must update shipping classifications immediately to avoid unexpected delivery delays and severe penalty assessments."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
