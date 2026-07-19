@@ -1,73 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DECODING GLOBAL",
-        "titleBlue": "LOGISTICS",
-        "footerSummary": "Federal appeals court upholds FMC detention fee rules to enforce freight fluidity, while major carrier spin-offs reshape less-than-truckload logistics."
+        "titleWhite": "GLOBAL LOGISTICS STRUCTURAL",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "DOJ trade enforcement and major carrier spin-offs highlight a rapid, regulatory-driven restructuring of global supply chain networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FEDEX: FREIGHT SPIN-OFF TRANSACTIONS",
+            "heading": "THE JUSTICE DEPARTMENT: TRADE FRAUD TASK FORCE",
             "points": [
-                "FedEx officially finalized the spin-off of its less-than-truckload subsidiary FedEx Freight into a separately-traded public company.",
-                "The strategic divestiture separates high-margin LTL operations from the main parcel network to maximize independent market valuation.",
-                "This separation forces shippers to renegotiate separate volume-based pricing contracts with the newly decoupled transport entity.",
-                "Industrial carriers anticipate increased pricing transparency and capital expenditure reallocation specifically targeted at network technology modernization."
+                "DOJ\u2019s Trade Fraud Task Force reached one billion dollars in recoveries less than a year from inception.",
+                "Importers face unprecedented audit pressures and severe financial forfeitures under this aggressively accelerated enforcement framework.",
+                "Customs compliance is shifting toward automated, real-time oversight to eliminate systematic tariff evasion across global corridors.",
+                "Multi-channel merchants must instantly audit their classification logs to mitigate catastrophic border enforcement and seizure risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCBEST: TERMINAL NETWORK CONSOLIDATION",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "ARCBEST: TERMINAL NETWORK CONSOLIDATION",
-            "points": [
-                "ArcBest announced plans to close ten ABF Freight service terminals and lay off two percent of workforce.",
-                "Consolidation efforts target smaller shipping markets to redirect freight volumes into regional distribution hubs for efficiency.",
-                "The restructuring addresses persistent low cargo volumes and rising operational costs across the domestic trucking sector.",
-                "Network contraction will temporarily reduce regional capacity, forcing freight forwarders to source alternative less-than-truckload providers."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FMC: COURT DETENTION FEE VALIDATION",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "FMC: COURT DETENTION FEE VALIDATION",
-            "points": [
-                "The US Court of Appeals upheld the Federal Maritime Commission ruling regarding ocean carrier detention charges.",
-                "Under the validated mandate, container detention and demurrage fees must actively serve to promote freight fluidity.",
-                "Regulatory compliance now prevents ocean carriers from penalizing importers when terminal congestion blocks container retrieval.",
-                "Global shippers will experience improved billing transparency and lower operational friction during peak port congestion cycles."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT SURGE",
-            "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "DOJ: TRADE FRAUD ENFORCEMENT SURGE",
-            "points": [
-                "The Justice Department Trade Fraud Task Force surpassed one billion dollars in financial recoveries and penalties.",
-                "Enforcement actions aggressively targeted customs duty evasion, illegal transshipment networks, and systematic trade compliance violations.",
-                "This milestone reflects intensified federal oversight of international import lanes to protect domestic manufacturing infrastructure.",
-                "Importers must implement rigorous digital auditing of supply chain partners to avoid severe legal and financial liabilities."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AMAZON: HOLIDAY SURCHARGE IMPLEMENTATION",
+            "nextUpTease": "FEDEX CORPORATION: FREIGHT SUBSIDIARY SPIN-OFF",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -75,16 +24,67 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AMAZON: HOLIDAY SURCHARGE IMPLEMENTATION",
+            "id": 2,
+            "heading": "FEDEX CORPORATION: FREIGHT SUBSIDIARY SPIN-OFF",
             "points": [
-                "Amazon announced its 2026 peak season fulfillment fees alongside an ongoing fuel and logistics surcharge.",
-                "The added three point five percent surcharge applies to seasonal fulfillment costs starting October fifteenth.",
-                "E-commerce merchants face escalating overhead costs, squeezing margins on low-cost goods during high-volume sales periods.",
-                "Shippers are urged to frontload inventory shipments before October to mitigate aggressive peak-season pricing structures."
+                "FedEx officially finalized the spin-off of its less-than-truckload subsidiary into a separately traded public entity.",
+                "This structural carve-out directly recalibrates capacity allocation and pricing strategies across North American logistics networks.",
+                "Corporate separation highlights a strategic industry shift toward pure-play operational models to maximize independent capital deployment.",
+                "Shippers must renegotiate LTL carrier agreements early to avoid regional freight rate volatility and disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "HORMUZ: STRATEGIC WATERWAY DISRUPTIONS",
+            "nextUpTease": "ARCBEST CORPORATION: TERMINAL NETWORK CONSOLIDATION",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "ARCBEST CORPORATION: TERMINAL NETWORK CONSOLIDATION",
+            "points": [
+                "ArcBest announced plans to close ten ABF Freight terminals and reduce its total workforce by two percent.",
+                "Consolidating smaller market operations is designed to optimize carrier density but temporarily constrains local shipping capacity.",
+                "Network rationalization reflects persistent freight market headwinds and the strategic necessity of eliminating high-overhead facilities.",
+                "Regional logistics managers must seek alternative regional carriers to safeguard supply chain reliability during the transition."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "EBAY INCORPORATED: DEPOP MARKETPLACE ACQUISITION",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "EBAY INCORPORATED: DEPOP MARKETPLACE ACQUISITION",
+            "points": [
+                "eBay finalized a one point two billion dollar acquisition of fashion marketplace Depop from Etsy.",
+                "The transaction establishes a highly consolidated consumer-to-consumer fashion ecosystem designed to dominate youth demographics globally.",
+                "E-commerce consolidation intensifies as legacy marketplaces aggressively acquire niche platforms to capture specialized sector demand.",
+                "Direct-to-consumer brands must re-evaluate multi-channel distribution strategies to counter eBay\u2019s expanded retail footprint."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AMAZON: PEAK FULFILLMENT SURCHARGE IMPLEMENTATION",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AMAZON: PEAK FULFILLMENT SURCHARGE IMPLEMENTATION",
+            "points": [
+                "Amazon announced its peak holiday fulfillment fees incorporating an active three point five percent logistics surcharge.",
+                "The targeted surcharge directly elevates cross-border shipping costs for sellers beginning October fifteenth through the holidays.",
+                "Rising fuel and operating overheads are forcing major e-commerce platforms to permanently pass logistics costs to sellers.",
+                "Third-party sellers must optimize product pricing and inventory cycles immediately to preserve essential profit margins."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "UNITED PARCEL SERVICE: RFID SENSING EXPANSION",
             "tags": [
                 "Source: https://www.retaildive.com",
                 "Published: Last 48 Hours",
@@ -93,34 +93,34 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "HORMUZ: STRATEGIC WATERWAY DISRUPTIONS",
+            "heading": "UNITED PARCEL SERVICE: RFID SENSING EXPANSION",
             "points": [
-                "Renewed geopolitical tensions in the Strait of Hormuz force global energy tankers into highly complex maritime detours.",
-                "Regional operators must deploy evasive maneuvering protocols, causing significant transit delays and rising marine insurance premiums.",
-                "Neighboring nations are finalizing pipeline agreements to establish overland crude bypasses, mitigating maritime chokepoint dependency.",
-                "Fleet managers must establish secondary routing strategies to secure supply continuity amid unpredictable waterway closures."
+                "United Parcel Service is deploying radio frequency identification sensors across its entire domestic small package infrastructure.",
+                "Implementing automated RFID readers completely eliminates manual scanning steps, accelerating warehouse throughput and package tracking.",
+                "Logistics networks are actively adopting IoT hardware to construct highly visible, autonomous, and self-correcting routing systems.",
+                "Enterprise shippers should update warehouse APIs to leverage real-time package data and improve delivery accuracy."
             ],
             "imageUrl": "",
-            "nextUpTease": "EBAY: DEPOP ACQUISITION INTEGRATION",
+            "nextUpTease": "U.S. DEPT OF TRANSPORTATION: CDL TRAINING CRACKDOWN",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EBAY: DEPOP ACQUISITION INTEGRATION",
+            "heading": "U.S. DEPT OF TRANSPORTATION: CDL TRAINING CRACKDOWN",
             "points": [
-                "eBay secured regulatory clearance to finalize its one point two billion dollar acquisition of fashion marketplace Depop.",
-                "The transaction expands eBay's competitive footprint in the consumer-to-consumer fashion sector to capture younger demographic cohorts.",
-                "Depop's integration shifts market dynamics, intensifying competition against independent social commerce platforms like Vinted and Poshmark.",
-                "Sellers anticipate platform changes, revised transaction fees, and cross-platform listing opportunities post-merger integration."
+                "Federal agencies initiated a massive joint investigation targeting seventy-five commercial driver license schools for suspected fraud.",
+                "Sweeping enforcement actions threaten to immediately disqualify hundreds of commercial drivers, compounding critical driver shortage issues.",
+                "Regulatory compliance programs are prioritizing safety integrity over sheer labor volume to secure commercial highway operations.",
+                "Logistics providers must conduct comprehensive background audits on drivers to ensure complete regulatory compliance immediately."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
