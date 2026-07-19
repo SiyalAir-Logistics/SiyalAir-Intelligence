@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS STRUCTURAL",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "DOJ trade enforcement and major carrier spin-offs highlight a rapid, regulatory-driven restructuring of global supply chain networks."
+        "titleWhite": "CROSS-BORDER LOGISTICS",
+        "titleBlue": "RESTRUCTURING",
+        "footerSummary": "DOJ's Trade Fraud Task Force hit one billion dollars in recoveries, signaling intensive regulatory audits and enforcement actions across international supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "THE JUSTICE DEPARTMENT: TRADE FRAUD TASK FORCE",
+            "heading": "DOJ: TRADE COMPLIANCE CRACKDOWN",
             "points": [
-                "DOJ\u2019s Trade Fraud Task Force reached one billion dollars in recoveries less than a year from inception.",
-                "Importers face unprecedented audit pressures and severe financial forfeitures under this aggressively accelerated enforcement framework.",
-                "Customs compliance is shifting toward automated, real-time oversight to eliminate systematic tariff evasion across global corridors.",
-                "Multi-channel merchants must instantly audit their classification logs to mitigate catastrophic border enforcement and seizure risks."
+                "Federal Trade Fraud Task Force recoveries surpassed one billion dollars within eleven months of operation.",
+                "Enforcement actions targeted illegal customs evasion, misclassified imports, and systematically bypassed trade tariff structures.",
+                "Importers face intensive audits and rising legal risks as multi-agency data-sharing networks automate compliance screening.",
+                "Corporate logistics teams must execute thorough transactional audits to avoid massive fines and cargo seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX CORPORATION: FREIGHT SUBSIDIARY SPIN-OFF",
+            "nextUpTease": "EBAY: DEPOP ACQUISITION CLEARANCE",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -25,49 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "FEDEX CORPORATION: FREIGHT SUBSIDIARY SPIN-OFF",
+            "heading": "EBAY: MARKETPLACE LOGISTICS CONSOLIDATION",
             "points": [
-                "FedEx officially finalized the spin-off of its less-than-truckload subsidiary into a separately traded public entity.",
-                "This structural carve-out directly recalibrates capacity allocation and pricing strategies across North American logistics networks.",
-                "Corporate separation highlights a strategic industry shift toward pure-play operational models to maximize independent capital deployment.",
-                "Shippers must renegotiate LTL carrier agreements early to avoid regional freight rate volatility and disruptions."
+                "United Kingdom regulators cleared the one point two billion dollar acquisition of Depop from Etsy.",
+                "The transaction enables massive structural consolidation of consumer-to-consumer fashion fulfillment pipelines across global markets.",
+                "Integrating localized shipping APIs will optimize regional deliveries and decrease platform-wide transit friction significantly.",
+                "High-volume digital merchants must adapt their routing strategies to capitalize on updated marketplace logistics networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCBEST CORPORATION: TERMINAL NETWORK CONSOLIDATION",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "ARCBEST CORPORATION: TERMINAL NETWORK CONSOLIDATION",
-            "points": [
-                "ArcBest announced plans to close ten ABF Freight terminals and reduce its total workforce by two percent.",
-                "Consolidating smaller market operations is designed to optimize carrier density but temporarily constrains local shipping capacity.",
-                "Network rationalization reflects persistent freight market headwinds and the strategic necessity of eliminating high-overhead facilities.",
-                "Regional logistics managers must seek alternative regional carriers to safeguard supply chain reliability during the transition."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "EBAY INCORPORATED: DEPOP MARKETPLACE ACQUISITION",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "EBAY INCORPORATED: DEPOP MARKETPLACE ACQUISITION",
-            "points": [
-                "eBay finalized a one point two billion dollar acquisition of fashion marketplace Depop from Etsy.",
-                "The transaction establishes a highly consolidated consumer-to-consumer fashion ecosystem designed to dominate youth demographics globally.",
-                "E-commerce consolidation intensifies as legacy marketplaces aggressively acquire niche platforms to capture specialized sector demand.",
-                "Direct-to-consumer brands must re-evaluate multi-channel distribution strategies to counter eBay\u2019s expanded retail footprint."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AMAZON: PEAK FULFILLMENT SURCHARGE IMPLEMENTATION",
+            "nextUpTease": "PORT OF LA: RECORD SHIPPERS EXPANSION",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -75,52 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AMAZON: PEAK FULFILLMENT SURCHARGE IMPLEMENTATION",
+            "id": 3,
+            "heading": "PORT OF LA: RECORD IMPORT FRONT-LOADING",
             "points": [
-                "Amazon announced its peak holiday fulfillment fees incorporating an active three point five percent logistics surcharge.",
-                "The targeted surcharge directly elevates cross-border shipping costs for sellers beginning October fifteenth through the holidays.",
-                "Rising fuel and operating overheads are forcing major e-commerce platforms to permanently pass logistics costs to sellers.",
-                "Third-party sellers must optimize product pricing and inventory cycles immediately to preserve essential profit margins."
+                "West Coast maritime gateways registered historic container volumes exceeding one million TEUs during late June.",
+                "Shippers advanced peak-season deliveries to secure vessel space and hedge against escalating trade tariff pressures.",
+                "Extreme volume surges are straining chassis allocation networks and creating localized truck dwell bottlenecks.",
+                "Supply chain executives should diversify destination gateways to maintain operational fluidity amid peak-season disruption."
             ],
             "imageUrl": "",
-            "nextUpTease": "UNITED PARCEL SERVICE: RFID SENSING EXPANSION",
+            "nextUpTease": "DOT: CDL SCHOOL FRAUD PROBE",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.dcvelocity.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "DOT: SYSTEMIC CDL FRAUD PROBE",
+            "points": [
+                "Federal transportation agencies launched a comprehensive joint probe targeting seventy-five commercial driver training schools.",
+                "Investigators uncovered widespread licensing fraud and systemic safety compromises across regional commercial driver networks.",
+                "The sweeping federal crackdown threatens to worsen driver recruitment constraints and disrupt carrier capacity pipelines.",
+                "Fleet operators must instantly implement rigorous background verifications to maintain regulatory compliance during audits."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "XENETA: AIR CARGO TECH DEMAND",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "XENETA: AIR FREIGHT PROFILE EVOLUTION",
+            "points": [
+                "High-yield artificial intelligence hardware shipments are actively propping up global air cargo load factors.",
+                "Rapidly expanding technology infrastructure needs have offset cooling consumer e-commerce shipping demand across Asia-Pacific routes.",
+                "Air carriers are shifting widebody capacity allocations toward critical technology corridors to maximize freight yields.",
+                "Logistics procurement managers must secure multi-modal space commitments to counter localized air cargo capacity crunches."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ARCBEST: TERMINAL NETWORK REDUCTION",
+            "tags": [
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "UNITED PARCEL SERVICE: RFID SENSING EXPANSION",
+            "heading": "ARCBEST: REGIONAL NETWORK CONSOLIDATION",
             "points": [
-                "United Parcel Service is deploying radio frequency identification sensors across its entire domestic small package infrastructure.",
-                "Implementing automated RFID readers completely eliminates manual scanning steps, accelerating warehouse throughput and package tracking.",
-                "Logistics networks are actively adopting IoT hardware to construct highly visible, autonomous, and self-correcting routing systems.",
-                "Enterprise shippers should update warehouse APIs to leverage real-time package data and improve delivery accuracy."
+                "Less-than-truckload operator ArcBest will close ten ABF Freight service terminals to optimize network efficiency.",
+                "The structural downsizing includes a two percent workforce reduction to mitigate persistent volume headwinds.",
+                "Consolidated freight flows will relocate into larger regional facilities to maintain operational service levels.",
+                "Industrial shippers should prepare for localized transit adjustments and changing regional freight capacity dynamics."
             ],
             "imageUrl": "",
-            "nextUpTease": "U.S. DEPT OF TRANSPORTATION: CDL TRAINING CRACKDOWN",
+            "nextUpTease": "USPS: MANDATORY HAZMAT CHARGES",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "U.S. DEPT OF TRANSPORTATION: CDL TRAINING CRACKDOWN",
+            "heading": "USPS: STRICT COMPLIANCE PROTOCOLS",
             "points": [
-                "Federal agencies initiated a massive joint investigation targeting seventy-five commercial driver license schools for suspected fraud.",
-                "Sweeping enforcement actions threaten to immediately disqualify hundreds of commercial drivers, compounding critical driver shortage issues.",
-                "Regulatory compliance programs are prioritizing safety integrity over sheer labor volume to secure commercial highway operations.",
-                "Logistics providers must conduct comprehensive background audits on drivers to ensure complete regulatory compliance immediately."
+                "United States Postal Service established mandatory hazmat noncompliance fees targeting unregistered hazardous item mailings.",
+                "Regulatory updates enforce strict penalties for improper labeling of common products like essential oils.",
+                "Online merchants must integrate compliant automated hazmat validation systems before the late July deadline.",
+                "Implementation of automated screening will prevent costly postage penalties and eliminate critical outbound shipping delays."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
