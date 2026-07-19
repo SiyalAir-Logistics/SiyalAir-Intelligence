@@ -1,90 +1,90 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT SIGNAL",
-        "titleBlue": "SHIFT",
-        "footerSummary": "Logistics networks are reconfiguring around high-friction geopolitical trade blocks and record-breaking demand cycles as air and ocean carriers navigate new capacity constraints."
+        "titleWhite": "DECODING GLOBAL",
+        "titleBlue": "LOGISTICS",
+        "footerSummary": "Federal appeals court upholds FMC detention fee rules to enforce freight fluidity, while major carrier spin-offs reshape less-than-truckload logistics."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OCEAN FREIGHT: CAPACITY VOLATILITY",
+            "heading": "FEDEX: FREIGHT SPIN-OFF TRANSACTIONS",
             "points": [
-                "Global ocean carriers face mounting pressure as port congestion in Asia exacerbates existing vessel delays and terminal labor availability issues.",
-                "Spot freight rates are fluctuating following a cooling trend in demand which contrasts with the ongoing peak season shipment surge.",
-                "Shipping alliances are implementing strategic blank sailings to manage overcapacity and stabilize profitability amidst the evolving transpacific trade lane dynamics.",
-                "Shippers are increasingly prioritizing network flexibility as container dwell times at major gateways signal a potential return to prolonged port bottlenecks."
+                "FedEx officially finalized the spin-off of its less-than-truckload subsidiary FedEx Freight into a separately-traded public company.",
+                "The strategic divestiture separates high-margin LTL operations from the main parcel network to maximize independent market valuation.",
+                "This separation forces shippers to renegotiate separate volume-based pricing contracts with the newly decoupled transport entity.",
+                "Industrial carriers anticipate increased pricing transparency and capital expenditure reallocation specifically targeted at network technology modernization."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI LOGISTICS INTEGRATION",
+            "nextUpTease": "ARCBEST: TERMINAL NETWORK CONSOLIDATION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TECHNOLOGY: AI-POWERED ORCHESTRATION",
+            "heading": "ARCBEST: TERMINAL NETWORK CONSOLIDATION",
             "points": [
-                "Enterprises are shifting toward unified ERP systems and modular software layers to eliminate fragmented data silos within their core supply chain infrastructure.",
-                "AI-powered predictive forecasting tools are now directly linked to inventory replenishment processes to reduce manual intervention and optimize stock levels.",
-                "Leading logistics providers are deploying autonomous agents to handle complex procurement and air freight sales operations in high-volume transpacific corridors.",
-                "Digital twins are being utilized by retail giants to map supply chain resilience against global conflict risks and sudden climate-driven transit disruptions."
+                "ArcBest announced plans to close ten ABF Freight service terminals and lay off two percent of workforce.",
+                "Consolidation efforts target smaller shipping markets to redirect freight volumes into regional distribution hubs for efficiency.",
+                "The restructuring addresses persistent low cargo volumes and rising operational costs across the domestic trucking sector.",
+                "Network contraction will temporarily reduce regional capacity, forcing freight forwarders to source alternative less-than-truckload providers."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING MARKET RECOVERY",
+            "nextUpTease": "FMC: COURT DETENTION FEE VALIDATION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRUCKING: CAPACITY RECOVERY DYNAMICS",
+            "heading": "FMC: COURT DETENTION FEE VALIDATION",
             "points": [
-                "The U.S. trucking market recovery is currently driven by a contraction in available road capacity rather than broad-based freight volume growth.",
-                "Operating costs for motor carriers reached historic highs in 2025 as the industry grapples with increased insurance and labor management expenses.",
-                "ArcBest and other major LTL providers are consolidating their terminal networks to streamline operations and mitigate the impact of lower freight volumes.",
-                "Regulatory authorities are intensifying fraud investigations targeting commercial driver license training schools to ensure safety standards across the logistics ecosystem."
+                "The US Court of Appeals upheld the Federal Maritime Commission ruling regarding ocean carrier detention charges.",
+                "Under the validated mandate, container detention and demurrage fees must actively serve to promote freight fluidity.",
+                "Regulatory compliance now prevents ocean carriers from penalizing importers when terminal congestion blocks container retrieval.",
+                "Global shippers will experience improved billing transparency and lower operational friction during peak port congestion cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE COMPLIANCE ENFORCEMENT",
+            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT SURGE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REGULATION: COMPLIANCE TASK FORCE",
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT SURGE",
             "points": [
-                "The DOJ Trade Fraud Task Force surpassed $1 billion in recoveries as it aggressively targets non-compliant importers and logistics intermediaries.",
-                "New federal rules regarding detention and demurrage billing practices are being strictly enforced to improve freight fluidity at major maritime terminals.",
-                "Shippers must navigate a complex landscape of tariffs and retaliatory trade actions as geopolitical strife forces shifts in manufacturing sourcing strategies.",
-                "Enhanced scrutiny of forced labor transparency remains a critical regulatory pillar for companies importing hardware and infrastructure components into the U.S."
+                "The Justice Department Trade Fraud Task Force surpassed one billion dollars in financial recoveries and penalties.",
+                "Enforcement actions aggressively targeted customs duty evasion, illegal transshipment networks, and systematic trade compliance violations.",
+                "This milestone reflects intensified federal oversight of international import lanes to protect domestic manufacturing infrastructure.",
+                "Importers must implement rigorous digital auditing of supply chain partners to avoid severe legal and financial liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL INVENTORY SHIFTS",
+            "nextUpTease": "AMAZON: HOLIDAY SURCHARGE IMPLEMENTATION",
             "tags": [
-                "Source: https://www.cbp.gov",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RETAIL: E-COMMERCE HOLIDAY STRATEGY",
+            "heading": "AMAZON: HOLIDAY SURCHARGE IMPLEMENTATION",
             "points": [
-                "Major retailers are adjusting their holiday fulfillment fees and early shipping deadlines to manage anticipated surges in seasonal inventory demand.",
-                "Growth in rapid delivery services has solidified as a mainstream option for grocery retailers partnering with integrated platform providers.",
-                "E-commerce marketplaces are expanding their fashion portfolio reach through targeted acquisitions and the deployment of advanced generative AI advertising tools.",
-                "Supply chain leaders are balancing value-focused pricing with high-cost logistics surcharges to maintain margin integrity throughout the peak retail season."
+                "Amazon announced its 2026 peak season fulfillment fees alongside an ongoing fuel and logistics surcharge.",
+                "The added three point five percent surcharge applies to seasonal fulfillment costs starting October fifteenth.",
+                "E-commerce merchants face escalating overhead costs, squeezing margins on low-cost goods during high-volume sales periods.",
+                "Shippers are urged to frontload inventory shipments before October to mitigate aggressive peak-season pricing structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY AND FUEL IMPACTS",
+            "nextUpTease": "HORMUZ: STRATEGIC WATERWAY DISRUPTIONS",
             "tags": [
                 "Source: https://www.retaildive.com",
                 "Published: Last 48 Hours",
@@ -93,15 +93,15 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "ENERGY: STRAIT OF HORMUZ RISKS",
+            "heading": "HORMUZ: STRATEGIC WATERWAY DISRUPTIONS",
             "points": [
-                "Renewed geopolitical instability and shipping blockades in the Strait of Hormuz are driving diesel and crude oil price volatility for global transporters.",
-                "Energy tanker operators are forced to implement U-turns and zig-zag transit paths, significantly increasing transit times and operational costs for fuel supplies.",
-                "Alternative pipeline agreements between regional producers are being fast-tracked to bypass high-risk maritime chokepoints and stabilize supply chain energy availability.",
-                "Global shippers are monitoring these energy-dependent logistics fluctuations as they directly influence the landed cost of goods across all transportation modes."
+                "Renewed geopolitical tensions in the Strait of Hormuz force global energy tankers into highly complex maritime detours.",
+                "Regional operators must deploy evasive maneuvering protocols, causing significant transit delays and rising marine insurance premiums.",
+                "Neighboring nations are finalizing pipeline agreements to establish overland crude bypasses, mitigating maritime chokepoint dependency.",
+                "Fleet managers must establish secondary routing strategies to secure supply continuity amid unpredictable waterway closures."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE DEVELOPMENTS",
+            "nextUpTease": "EBAY: DEPOP ACQUISITION INTEGRATION",
             "tags": [
                 "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: GATEWAY EXPANSION",
+            "heading": "EBAY: DEPOP ACQUISITION INTEGRATION",
             "points": [
-                "New shipyard projects and port-to-door corridor improvements are being fast-tracked to support the growing defense and automotive manufacturing sectors.",
-                "Regional manufacturing hubs in Thailand and Argentina are emerging as key alternatives to traditional sourcing routes amidst ongoing global trade friction.",
-                "The deployment of automated warehousing technology, including drone-based cycle counting, is significantly reducing resource constraints for modern distribution center operators.",
-                "Investments in inland rail intermodal connectivity are essential to maintaining terminal fluidity as import volumes continue to climb at coastal gateways."
+                "eBay secured regulatory clearance to finalize its one point two billion dollar acquisition of fashion marketplace Depop.",
+                "The transaction expands eBay's competitive footprint in the consumer-to-consumer fashion sector to capture younger demographic cohorts.",
+                "Depop's integration shifts market dynamics, intensifying competition against independent social commerce platforms like Vinted and Poshmark.",
+                "Sellers anticipate platform changes, revised transaction fees, and cross-platform listing opportunities post-merger integration."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
