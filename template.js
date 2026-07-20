@@ -1,39 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "LOGISTICS NETWORK",
-        "titleBlue": "FRICTION",
-        "footerSummary": "Ocean carriers lock in structural blank sailings as geopolitical escalation in Hormuz restricts maritime flow, forcing systematic freight network adaptations."
+        "titleWhite": "DECODING GLOBAL",
+        "titleBlue": "LOGISTICS",
+        "footerSummary": "US Trade Fraud Task Force hits $1B in recoveries while global carriers structurally blank up to 14% of ocean capacity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SEA-INTELLIGENCE: STRUCTURAL CAPACITY WITHDRAWAL",
+            "heading": "DOJ: TRADE FRAUD CRACKDOWN",
             "points": [
-                "Sea-Intelligence confirms ocean carriers now routinely withdraw ten to fourteen percent of scheduled trade lane capacity.",
-                "Blank sailings have evolved from tactical responses into permanent structural tools for global maritime capacity management.",
-                "Shippers must adjust inventory pipelines as historical single-digit pre-pandemic capacity volatility becomes permanently obsolete.",
-                "Dynamic blanking strategies will force freight forwarders to secure multi-carrier allocations to avoid cargo delays."
+                "The Department of Justice Trade Fraud Task Force has surpassed one billion dollars in regulatory recoveries.",
+                "This financial milestone was achieved in under eleven months following the enforcement agency's late August launch.",
+                "Global importers face unprecedented scrutiny as federal agencies transition civil trade compliance into severe criminal prosecutions.",
+                "Supply chain compliance directors must audit import declarations immediately to avoid systemic border asset seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ TASK FORCE: TRADE FRAUD ENFORCEMENT",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "DOJ TASK FORCE: TRADE FRAUD ENFORCEMENT",
-            "points": [
-                "The Department of Justice Trade Fraud Task Force achieved one billion dollars in recoveries since inception.",
-                "Custom compliance audits are intensifying as regulators target illegal tariff evasion schemes and systematic documentation errors.",
-                "Importers face escalating civil and criminal liabilities for misclassifying country-of-origin data within electronic customs filings.",
-                "Supply chain leaders must establish robust automated compliance controls to mitigate severe trade fraud penalty risks."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FEDEX FREIGHT: INDEPENDENT PUBLIC SPINOFF",
+            "nextUpTease": "HOUTHIS: NAVAL EMBARGO THREAT",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -41,50 +24,67 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "FEDEX FREIGHT: INDEPENDENT PUBLIC SPINOFF",
+            "id": 2,
+            "heading": "HOUTHIS: NAVAL EMBARGO THREAT",
             "points": [
-                "FedEx officially finalized the spin-off of its less-than-truckload subsidiary into a separately traded public company.",
-                "The newly formed public entity aims to optimize capital allocation and enhance standalone operational efficiency metrics.",
-                "Shippers must renegotiate LTL carrier agreements as the independent carrier adjusts its long-term pricing structure.",
-                "Industry analysts predict this restructuring will trigger broader consolidation waves across the North American trucking market."
+                "Yemen's Houthi forces have declared a strict maritime embargo targeting vessels operating near Saudi Arabian waters.",
+                "The maritime blockade directly threatens key global channels carrying approximately five percent of daily energy supplies.",
+                "Freight routing through the Bab el-Mandeb strait faces severe disruption, forcing costly oceanic vessel diversions.",
+                "Energy logistics coordinators must immediately restructure international shipping lanes to bypass highly volatile Middle Eastern passages."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDERAL MARITIME COMMISSION: FEE REGULATION",
+            "nextUpTease": "SEA-INTELLIGENCE: STRUCTURAL BLANK SAILINGS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.cnbc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "SEA-INTELLIGENCE: STRUCTURAL BLANK SAILINGS",
+            "points": [
+                "Container shipping networks have formally transitioned into a permanent era of structurally constrained vessel capacity.",
+                "Ocean carriers are systematically blanking ten to fourteen percent of scheduled space to elevate spot rates.",
+                "Global shippers can no longer treat blanked sailings as temporary disruptions to regular oceanic transport networks.",
+                "Supply chain planners must secure multi-carrier contracts to mitigate persistent cargo delays at key export hubs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS: COMPLIANCE ENFORCEMENT PUSH",
+            "tags": [
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FEDERAL MARITIME COMMISSION: FEE REGULATION",
+            "heading": "USPS: COMPLIANCE ENFORCEMENT PUSH",
             "points": [
-                "The United States Court of Appeals upheld FMC rules stating detention fees must promote freight fluidity.",
-                "Ocean carriers can no longer legally charge demurrage when marine terminals are closed or inaccessible.",
-                "This legal precedent significantly strengthens the bargaining power of exporters and domestic drayage trucking operators.",
-                "Logistics managers should systematically audit past terminal invoices to identify and dispute invalid charge assessments."
+                "The United States Postal Service is implementing rigorous system password updates and strict hazardous materials regulations.",
+                "E-commerce shippers must complete system password updates before the mandatory July thirtieth compliance deadline passes.",
+                "Failure to properly declare hazardous household goods will trigger unexpected shipping penalties on lightweight parcel volumes.",
+                "Online merchants must retrain warehouse packing personnel to identify everyday hazardous materials before carrier handoff."
             ],
             "imageUrl": "",
-            "nextUpTease": "US POSTAL SERVICE: SECURE COMPLIANCE MANDATE",
+            "nextUpTease": "EBAY: FASHION EXPANSION ACQUISITION",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "US POSTAL SERVICE: SECURE COMPLIANCE MANDATE",
+            "heading": "EBAY: FASHION EXPANSION ACQUISITION",
             "points": [
-                "The United States Postal Service mandates strict password security compliance for all business accounts by July.",
-                "Noncompliant e-commerce shippers face account suspension, halting automated pickup scheduling and digital shipping label generation.",
-                "Concurrently, new hazardous material noncompliance fees will penalize sellers shipping undeclared household consumer products.",
-                "Retailers must update automated shipping software to flag restricted items before final postal system induction."
+                "United Kingdom regulators have cleared eBay's strategic acquisition of customer-to-customer apparel marketplace Depop from Etsy.",
+                "The high-profile transaction valued at one point two billion dollars significantly consolidates the fashion resale market.",
+                "This major consolidation indicates intense competition among online platforms attempting to dominate circular fashion supply chains.",
+                "Retail competitors must invest in premium digital authentication systems to combat consolidated consumer fashion platforms."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON LOGISTICS: THIRD-PARTY B2B EXPANSION",
+            "nextUpTease": "ARCBEST: TERMINAL CLOSURE CUTS",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -93,34 +93,34 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "AMAZON LOGISTICS: THIRD-PARTY B2B EXPANSION",
+            "heading": "ARCBEST: TERMINAL CLOSURE CUTS",
             "points": [
-                "Amazon expands specialized business-to-business features, incentivizing third-party merchant integration ahead of its annual conference.",
-                "New mandatory handling-time automation rules force merchant-fulfilled sellers to match exact warehouse packaging speeds.",
-                "Sellers failing to configure manual overrides risk algorithmic demotion within the competitive online marketplace ecosystem.",
-                "Multichannel merchants must synchronize warehouse management systems to meet strict operational fulfillment window constraints."
+                "LTL carrier ArcBest announced plans to close ten freight terminals and downsize its regional corporate workforce.",
+                "The restructuring initiative will eliminate approximately two percent of the transportation company's total active workforce.",
+                "This consolidation reflects ongoing operational pressures in the domestic trucking sector amid shifting freight carrier networks.",
+                "Freight shippers must evaluate alternative less-than-truckload options to prevent cargo transit bottlenecks within impacted regions."
             ],
             "imageUrl": "",
-            "nextUpTease": "STRAIT OF HORMUZ: GEOPOLITICAL MARITIME RISK",
+            "nextUpTease": "USA: BRAZIL TARIFF ENFORCEMENT",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "STRAIT OF HORMUZ: GEOPOLITICAL MARITIME RISK",
+            "heading": "USA: BRAZIL TARIFF ENFORCEMENT",
             "points": [
-                "United States shipping blockades against Iranian vessels halt regional energy exports, driving global diesel prices higher.",
-                "Maritime traffic through the critical Strait of Hormuz is nearing a standstill as targeted merchant ships detour.",
-                "Ocean carriers face spiraling insurance premiums and fuel surcharges, directly inflating overall spot container freight rates.",
-                "Supply chain orchestrators must deploy advanced risk modeling to mitigate prolonged maritime transport disruptions worldwide."
+                "The United States will impose a substantial new tariff on imports originating from Brazil starting July.",
+                "The executive trade action levies a strict twenty-five percent tax on specific Brazilian import commodity groups.",
+                "Exceptions are maintained only for items already protected under Section two hundred thirty-two national security exemptions.",
+                "Global procurement officers must recalculate landed import costs to mitigate immediate tariff hits on manufacturing supply lines."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
