@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Aggressive federal trade fraud enforcement and carrier network restructuring are forcing shippers to rapidly reconfigure North American capacity and compliance protocols."
+        "titleWhite": "GLOBAL FREIGHT",
+        "titleBlue": "ARCHITECTURE",
+        "footerSummary": "The DOJ trade fraud task force surpassing one billion dollars in recoveries signals a major escalation in global customs compliance enforcement."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GEOPOLITICS: IRAN SHIPPING BLOCKADE",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE",
             "points": [
-                "United States restores maritime blockade against Iranian energy shipping to halt regional crude oil exports.",
-                "Ocean carriers face immediate detours driving global diesel and bunkering prices toward four dollars.",
-                "Energy tankers shift to complex zig-zag navigation patterns across highly contested Middle Eastern waterways.",
-                "Shippers must brace for prolonged transit delays and escalating maritime insurance surcharges worldwide."
+                "The Justice Department trade fraud task force achieved over one billion dollars in regulatory recoveries.",
+                "Importers face severe financial penalties and cargo forfeitures under escalated enforcement guidelines.",
+                "Logistics networks must implement enhanced transaction auditing protocols to mitigate compliance risks.",
+                "Strict supply chain screening will become mandatory for modern cross-border container shipping operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIERS: ARCBEST TERMINAL CLOSURES",
+            "nextUpTease": "ARCBEST: LTL TERMINAL CONSOLIDATION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CARRIERS: ARCBEST TERMINAL CLOSURES",
+            "heading": "ARCBEST: LTL TERMINAL CONSOLIDATION",
             "points": [
-                "ArcBest announces plans to close ten ABF Freight less-than-truckload service terminals to cut costs.",
-                "The carrier plans to terminate two percent of its total workforce during the regional consolidation.",
-                "Freight volume declines compel domestic freight networks to prune redundant facilities and optimize asset density.",
-                "Cargo clients will experience localized routing shifts as operations merge into larger regional freight hubs."
+                "ArcBest plans to close ten ABF Freight service centers and downsize its workforce by two percent.",
+                "Affected regional operations will consolidate into larger adjacent facilities to maintain service coverage.",
+                "Less-than-truckload carriers are streamlining legacy infrastructure to counteract persistent volume deficits.",
+                "Shippers must prepare for localized capacity constraints and potential route modifications."
             ],
             "imageUrl": "",
-            "nextUpTease": "CORPORATE: FEDEX FREIGHT SPINOFF",
+            "nextUpTease": "US STATE: IRAN ENERGY BLOCKADE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CORPORATE: FEDEX FREIGHT SPINOFF",
+            "heading": "US STATE: IRAN ENERGY BLOCKADE",
             "points": [
-                "FedEx officially completes the separation of its highly profitable less-than-truckload division into public trading.",
-                "The independent enterprise structure aims to unlock distinct shareholder valuation and isolate core transportation assets.",
-                "Less-than-truckload markets adjust as the largest carrier operates free from express division corporate overhead burdens.",
-                "Corporate logistics buyers must evaluate potential pricing strategy adjustments from the newly independent logistics provider."
+                "The United States reinstated a strict maritime blockade halting Iranian crude oil energy shipments.",
+                "Global energy tankers are forced into unpredictable routing patterns causing increased fuel price volatility.",
+                "Geopolitical friction in key maritime straits threatens to disrupt global container shipping rates.",
+                "Ocean carriers must adjust fuel surcharges to offset rising bunker procurement expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: FEDERAL CDL PROBE",
+            "nextUpTease": "EBAY: CONSUMER FASHION EXPANSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REGULATION: FEDERAL CDL PROBE",
+            "heading": "EBAY: CONSUMER FASHION EXPANSION",
             "points": [
-                "Federal agencies launch coordinated investigations into seventy-five commercial driver license schools for suspected fraud.",
-                "The joint operation targets systemic training irregularities that compromise domestic highway safety and driver vetting.",
-                "Sweeping credential audits threaten to exacerbate localized truck driver shortages across major interstate transport corridors.",
-                "Shippers should mandate strict carrier safety compliance reviews to mitigate exposure to uncertified transport labor."
+                "United Kingdom antitrust regulators cleared eBay's one point two billion dollar acquisition of Depop.",
+                "The strategic transaction transitions Depop fashion operations from Etsy to the eBay marketplace portfolio.",
+                "E-commerce platforms are aggressively restructuring asset portfolios to capture lucrative peer-to-peer consumer segments.",
+                "Online sellers should leverage expanded cross-platform tools to optimize fashion inventory distribution."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: FMC DETENTION FEES RULE",
+            "nextUpTease": "AMAZON: BUSINESS SELLER EXPANSION",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: FMC DETENTION FEES RULE",
+            "heading": "AMAZON: BUSINESS SELLER EXPANSION",
             "points": [
-                "Federal Appeals Court upholds regulatory guidelines stating container detention fees must actively incentivize cargo fluidity.",
-                "Shipping lines face strict limitations on billing practices for containers delayed by non-operational port closures.",
-                "The landmark legal victory strengthens shipper protections against unfair carrier billing during supply chain disruptions.",
-                "Importers should audit previous carrier demurrage charges to identify potential billing refunds and regulatory violations."
+                "Amazon is opening advanced business buyer features directly to global third-party marketplace merchants.",
+                "The program expands merchant access to high-volume commercial purchasers through specialized B2B tools.",
+                "Multi-channel sellers are shifting inventory strategies to satisfy corporate bulk purchasing specifications.",
+                "Industrial brands must update digital storefront architectures to support automated volume tier pricing."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: TRADE FRAUD TASK FORCE",
+            "nextUpTease": "FEDEX: CORPORATE FREIGHT SPIN-OFF",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "COMPLIANCE: TRADE FRAUD TASK FORCE",
+            "heading": "FEDEX: CORPORATE FREIGHT SPIN-OFF",
             "points": [
-                "Justice Department Trade Fraud Task Force recovers over one billion dollars in penalties within ten months.",
-                "Federal agents intensify inspections targeting customs duty evasion, misclassification, and illegal transshipment networks.",
-                "Regulatory enforcement shifts focus toward automated transactional data monitoring to expose high-volume customs non-compliance.",
-                "Global supply chains must implement comprehensive compliance audits to prevent costly import delays and civil forfeitures."
+                "FedEx officially completed the structural spin-off of its profitable less-than-truckload business unit.",
+                "The newly formed independent entity will trade publicly to optimize regional freight transportation.",
+                "Corporate restructurings under Network Two Point Zero aim to streamline fragmented parcel delivery networks.",
+                "Enterprise shippers should anticipate adjusted contract structures as freight divisions operate autonomously."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE: EBAY DEPOP ACQUISITION",
+            "nextUpTease": "DOT: CDL TRAINING SCHOOL CRACKDOWN",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ECOMMERCE: EBAY DEPOP ACQUISITION",
+            "heading": "DOT: CDL TRAINING SCHOOL CRACKDOWN",
             "points": [
-                "United Kingdom regulators clear eBay's one point two billion dollar acquisition of fashion platform Depop.",
-                "The strategic transaction officially transfers ownership from Etsy to enhance eBay's peer-to-peer apparel market share.",
-                "Online marketplaces continue restructuring specialized platforms to capture highly resilient secondary consumer retail sectors.",
-                "Logistics providers should optimize last-mile residential delivery channels to support rising consumer-to-consumer parcel shipping volumes."
+                "Federal agencies launched joint investigations targeting seventy-five commercial driver license training operations.",
+                "The coordinated crackdown aims to eliminate widespread testing fraud and improve highway safety.",
+                "Regulatory oversight will restrict questionable driver pipeline sources, temporarily impacting carrier recruiting capabilities.",
+                "Fleet operators must enhance driver vetting procedures to confirm credential authenticity and compliance."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
