@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
-        "titleBlue": "RESILIENCE",
-        "footerSummary": "Escalating geopolitical conflict and trade tariffs are forcing structural shifts in global supply chain capacity and carrier risk management strategies across all logistics sectors."
+        "titleWhite": "GLOBAL TRADE COMPLIANCE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Unprecedented tariff actions, intensified customs fraud task force enforcement, and de minimis restructuring are forcing systemic re-routing of global cross-border e-commerce cargo networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFF ESCALATION: TRADE BARRIERS",
+            "heading": "WHITE HOUSE: NEW TARIFF PENALTIES",
             "points": [
-                "President Trump has implemented a 50% tariff on Canadian imports impacting multiple sectors despite USMCA agreements. Shippers must recalibrate landed costs immediately to account for these heavy new duties. Compliance teams are scrambling to assess how specific Section 338 tariff filings impact cross-border automotive and raw material flows.",
-                "New tariffs on Brazilian goods at 25% take effect July 22 further complicating procurement strategies for manufacturers. Importers are forced to seek alternative sourcing regions as administrative enforcement on trade fraud expands significantly. Federal agencies are intensifying oversight on origin claims to prevent rampant circumvention of these new tariff mandates.",
-                "The DOJ Trade Fraud Task Force has exceeded $1 billion in total recoveries marking an aggressive federal push against evasion. These enforcement actions provide a clear signal that customs authorities will prioritize auditing high-value supply chains. Logistics partners must audit import documentation to align with current regulatory requirements and federal compliance scrutiny.",
-                "Supply chain leaders now face a high-pressure environment where trade policy dictates operational viability for cross-border networks. Businesses are adjusting to the reality that existing free trade status provides less protection against sudden tariff volatility. Executives must integrate policy monitoring into daily logistics planning to avoid significant penalties during the remaining fiscal year."
+                "United States imposes fifty percent tariffs on Canadian imports disrupting established duty free USMCA trade corridors.",
+                "Importers face severe margin pressure as twenty five percent tariffs target incoming Brazilian goods this July.",
+                "Supply chain executives must quickly restructure nearshore sourcing networks to mitigate escalating North American tariff exposures.",
+                "Multi-tiered international manufacturing frameworks face imminent cost re-evaluations under these aggressive new bilateral trade levies."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEOPOLITICAL MARITIME RISKS",
+            "nextUpTease": "DOJ: TRADE FRAUD CRACKDOWN",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME LOGISTICS: RED SEA DISRUPTION",
+            "heading": "DOJ: TRADE FRAUD CRACKDOWN",
             "points": [
-                "Tensions in the Strait of Hormuz have intensified with 59 commercial vessels attacked and increased threats to regional maritime security. Shipowners are offering massive bonus structures to incentivize crews to continue navigating these high-risk zones. The instability is driving global insurance premiums higher while forcing carriers to consider longer, safer alternative routes.",
-                "Oil prices have surged past $90 per barrel as U.S. strikes against Iranian-backed entities exacerbate supply chain uncertainty. The potential for a sustained regional conflict could push international benchmarks toward $120 if transit disruptions persist at key chokepoints. Logistics managers are re-evaluating fuel surcharges to mitigate the impact of volatile energy costs.",
-                "A major Chinese oil tanker recently executed an emergency U-turn following explicit Houthi attack threats in the Red Sea region. This maneuver adds thousands of miles to transit journeys significantly delaying downstream inventory arrivals for manufacturing partners. Visibility into real-time vessel tracking is now a core requirement for mitigating these sudden maritime route shifts.",
-                "The maritime sector is witnessing a transformation where security and risk management take precedence over historical transit speed and scheduling. Carriers are increasingly reliant on dynamic rerouting to avoid geopolitical flashpoints while attempting to maintain vessel utilization. Stakeholders must prepare for extended lead times as ocean shipping corridors face unprecedented structural pressure from regional instability."
+                "The Justice Department Trade Fraud Task Force recovers over one billion dollars in enforcement penalties.",
+                "Customs authorities intensify audits targeting systematic tariff evasion, misclassification schemes, and illicit transshipment operations.",
+                "Logistics partners must implement advanced compliance controls to safeguard international trade lanes against federal legal actions.",
+                "Shippers face heightened regulatory scrutiny demanding complete transparency across multi-tier cross-border supplier networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRANS-PACIFIC DATA CAPACITY",
+            "nextUpTease": "EUROPEAN UNION: PARCEL TAX SHOCK",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRANS-PACIFIC: PEAK SEASON SHIFTS",
+            "heading": "EUROPEAN UNION: PARCEL TAX SHOCK",
             "points": [
-                "Trans-Pacific shipping volumes are currently sustained by a surge in data center infrastructure hardware rather than traditional consumer demand. Imports of high-end server components and construction materials are keeping port metrics steady during a soft consumer retail period. Logistics operators are reconfiguring distribution networks to prioritize the specific handling requirements of sensitive tech cargo.",
-                "Blank sailings have become a structural feature of modern trade lanes as carriers attempt to maintain rate stability amid cooling demand. Sea-Intelligence data confirms that carriers are aggressively managing capacity to prevent a collapse in spot market pricing across the Pacific. Shippers must anticipate consistent scheduling disruptions as liners favor yield over volume in the current market.",
-                "Chicago rail and chassis operations face their most significant stress test in four years as imports from the West Coast begin to climb. While shortages are not yet at pandemic-era levels, equipment gaps are emerging among major regional intermodal providers. Managing equipment turnaround times is critical for preventing bottlenecks in critical inland distribution hubs for data hardware.",
-                "The trans-Pacific trade lane is undergoing a divergence where infrastructure investments drive volume while consumer sectors remain sluggish. Operational success requires precise load planning and early space booking as liners continue to reduce active vessel capacity. Strategic inventory management is essential to navigate the current environment where supply chain reliability hinges on non-retail cargo flows."
+                "European Union introduces three euro customs duty on low value imports disrupting international e-commerce air networks.",
+                "Air cargo carriers experience processing bottlenecks at major hubs due to variable regional customs implementation practices.",
+                "Global e-commerce shippers must recalibrate direct to consumer postal injection models to absorb new operational frictions.",
+                "Logistics integrators project significant consolidation of cross-border small parcel lanes to optimize customs clearance workloads."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE MARKETPLACE RULES",
+            "nextUpTease": "PANAMA REGISTRY: VESSEL FLAG SHIFT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARKETPLACE RULES: E-COMMERCE SHIFTS",
+            "heading": "PANAMA REGISTRY: VESSEL FLAG SHIFT",
             "points": [
-                "Amazon is aggressively expanding its B2B capabilities, holding a dedicated conference to deepen ties with professional business sellers. This strategic pivot aims to capture a larger share of corporate procurement while streamlining the integration of third-party fulfillment networks. Sellers must adapt to new B2B standards or risk losing visibility within the massive platform ecosystem.",
-                "The EU is disrupting low-value air cargo flows with the introduction of a new \u20ac3 customs duty on all e-commerce imports. Carriers and shippers are struggling to adapt to varying enforcement practices across member states creating significant friction in cross-border air logistics. This regulatory change increases the total cost of ownership for small-parcel cross-border trade transactions.",
-                "eBay has finalized a $1.2 billion deal to acquire the Depop fashion marketplace after clearing regulatory hurdles in the UK. This consolidation signals an intent to dominate the circular fashion economy through unified platform architecture and streamlined C2C logistics. Sellers should expect shifts in platform fee structures and listing compliance requirements following the integration phase.",
-                "E-commerce giants are tightening control over their logistics supply chains to improve reliability and protect margins against global headwinds. Marketplace policies are increasingly favoring sellers who adopt integrated fulfillment and digital handling tools to automate the compliance process. Success in this environment requires platforms to move beyond retail and become fully functional enterprise trade portals."
+                "Over one hundred containerships shift away from Panama registries in response to retaliatory Chinese maritime policies.",
+                "Ocean carriers navigate massive re-flagging logistics to maintain unhindered vessel access across vital Asian shipping lanes.",
+                "Global ocean networks face temporary administrative disruptions as vessel operators rapidly complete alternative flag registrations.",
+                "Maritime alliance networks require strategic planning to hedge against escalating geopolitical confrontations targeting flag states."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER RESTRUCTURING UPDATES",
+            "nextUpTease": "FMC: DETENTION FEE REGULATION",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CARRIER NETWORK: RESTRUCTURING",
+            "heading": "FMC: DETENTION FEE REGULATION",
             "points": [
-                "ArcBest has announced the closure of 10 LTL terminals in a broad corporate restructuring aimed at long-term margin protection. The consolidation involves cutting 2% of their total workforce to streamline operations in less profitable markets. Shippers utilizing these hubs must prepare for service reassignments and potential short-term transit delays as network integration proceeds.",
-                "FedEx has successfully completed the spin-off of its FedEx Freight LTL unit into an independently traded public company. This structural evolution marks a significant shift in the company's core asset strategy, separating ground express logistics from regional trucking dominance. Market analysts are watching to see how this agility improves service levels across the newly separated networks.",
-                "Mountain Valley Express has officially shut down operations, adding to the growing list of mid-tier freight service closures in 2026. These disruptions are removing capacity from the LTL market, which may stabilize rates for remaining carriers in the medium term. Freight managers must conduct deeper due diligence on smaller carrier financial health to mitigate sudden service outages.",
-                "The trucking and LTL sectors are undergoing a phase of brutal consolidation driven by inflationary pressure and shifting demand patterns. Larger carriers are rationalizing footprints to focus on core lanes, leaving shippers to navigate a tightening capacity environment. Robust contingency planning and diversified carrier contracts are now prerequisites for maintaining consistent logistics flow in the current market."
+                "United States Appeals Court upholds Federal Maritime Commission mandate linking detention billing to cargo fluidity enforcement.",
+                "Ocean carriers must structure invoice generation processes to align directly with verified terminal accessibility periods.",
+                "Importers gain significant financial leverage to contest unreasonable demurrage charges during periods of peak port congestion.",
+                "Terminal operators will shift billing architectures toward digital validation platforms to comply with strict federal guidelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI LOGISTICS TECHNOLOGY",
+            "nextUpTease": "EBAY: DEPOP ACQUISITION COMPLETED",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AI INTEGRATION: TECH ARCHITECTURE",
+            "heading": "EBAY: DEPOP ACQUISITION COMPLETED",
             "points": [
-                "Walmart is doubling down on AI-driven digital twin technology to enhance supply chain resilience against global volatility. This technology allows for real-time stress testing of logistics pathways before disruptions occur in the physical world. By simulating various conflict and weather scenarios, the retailer improves its ability to reroute critical inventory during crisis events.",
-                "Supply chain professionals are increasingly utilizing AI to solve labor management challenges such as warehouse turnover. New agentic AI tools are being deployed to monitor worker efficiency and eliminate firefighting during daily fulfillment operations. Data-backed decision-making is replacing legacy manual processes, allowing for faster response times at the physical edge of the warehouse.",
-                "AstraZeneca has successfully redefined its biopharmaceutical logistics with OMP constraint-based planning software. This implementation demonstrates the power of integrated planning platforms to close the gap between demand forecasting and actual physical execution. Advanced planning systems are now essential for managing high-value inventory in complex, regulated global supply chains with limited margins for error.",
-                "The industry is moving past the experimental phase of AI and into a cycle of measurable business impact and real-world deployment. Supply chain leaders are focusing on connecting disparate apps into a modular, intelligent orchestration layer that bridges human and machine execution. This transition is mandatory for firms wanting to maintain competitive speed in a high-volatility economy."
+                "EBay secures regulatory clearance to complete one point two billion dollar purchase of Etsy fashion marketplace Depop.",
+                "The multi-channel platform aggressively scales its consumer to consumer circular fashion logistics footprint across European regions.",
+                "Marketplace competitors must invest heavily in consolidated return infrastructure to counter eBay expanded reverse logistics capabilities.",
+                "Integrated logistics networks will adapt to support high volume peer to peer fulfillment flows with localized drop points."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE & COMPLIANCE",
+            "nextUpTease": "UPS: NATIONWIDE RFID ADOPTION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: REGULATORY UPGRADE",
+            "heading": "UPS: NATIONWIDE RFID ADOPTION",
             "points": [
-                "The U.S. Court of Appeals has upheld the FMC mandate requiring detention fees to strictly promote freight fluidity at major terminals. This ruling forces MTOs to prove that charges are actually facilitating the movement of cargo rather than simply serving as revenue collection tools. The decision empowers importers to challenge excessive fees that do not directly improve terminal efficiency.",
-                "The Federal Maritime Commission remains focused on enforcing laws that protect U.S. exporters from unfair and deceptive practices in ocean shipping. Future budget requests for fiscal year 2027 indicate a move toward more rigorous monitoring of service contracts and carrier agreements. Importers should track these regulatory shifts to understand their rights in future disputes with shipping lines.",
-                "CBP has launched a new outreach initiative for small businesses as the nation prepares to celebrate 250 years of independence. While the focus remains on secure trade, the agency is expanding its use of statistical dashboards to provide transparency on border security impacts. Stakeholders are encouraged to use these public resources to monitor real-time border wait times and trade traffic.",
-                "Public sector infrastructure projects and regulatory frameworks are being realigned to support a more resilient, transparent, and competitive U.S. supply chain. Policy and execution are finally converging, with legal precedents supporting shippers in their quest for equitable treatment at ports. Staying aligned with current federal guidance is crucial for maintaining compliant and efficient international trade operations."
+                "UPS rolls out extensive radio frequency identification sensing across domestic networks eliminating manual package scanning tasks.",
+                "Distribution facilities report dramatic improvements in real time visibility from initial warehouse pickup to final delivery.",
+                "Supply chain managers gain high resolution shipment tracking data enabling precise exceptions handling throughout distribution networks.",
+                "Competing parcel networks must accelerate warehouse technology deployments to maintain operational parity with automated parcel sorting."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
