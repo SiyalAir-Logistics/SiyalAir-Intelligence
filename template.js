@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL SUPPLY CHAIN",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Tariff escalations, regional maritime blockades, and structural blank sailings are forcing global logistics networks into decentralized, high-compliance operational frameworks."
+        "titleWhite": "GLOBAL LOGISTICS",
+        "titleBlue": "UPHEAVAL",
+        "footerSummary": "Severe fifty percent Canadian tariffs and structural blank sailings threaten global supply chain budgets as custom enforcements escalate rapidly."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRUMP: CANADIAN TARIFF ESCALATION",
+            "heading": "WHITE HOUSE: CANADIAN TARIFF IMPOSITION",
             "points": [
-                "President Trump ordered fifty percent tariffs on select Canadian imports to combat alleged cross-border trade discrimination.",
-                "The sudden tariff implementation is projected to disrupt major automotive supply chains and manufacturing corridors overnight.",
-                "Automotive manufacturers are actively reorganizing North American sourcing networks to mitigate immediate high-tariff financial exposures.",
-                "Shippers must quickly re-evaluate regional logistics budgets to absorb heightened border compliance costs starting next month."
+                "President Trump ordered fifty percent tariffs on some Canadian imports starting in thirty days.",
+                "The new duties apply to diverse products, overriding previous United States-Mexico-Canada Agreement duty-free statuses.",
+                "Shippers face immediate cross-border cost spikes, forcing immediate renegotiation of nearshore trade contracts across North America.",
+                "Businesses must pivot sourcing strategies rapidly to mitigate severe margin erosion from these unilateral trade actions."
             ],
             "imageUrl": "",
-            "nextUpTease": "HOUTHI: RED SEA BLOCKADE",
+            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -25,32 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "HOUTHI: RED SEA BLOCKADE",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE",
             "points": [
-                "Houthi rebels announced a strict maritime blockade targeting critical trade routes along the Bab el-Mandeb strait.",
-                "Ocean carriers are redirecting vessels around Africa to avoid rising regional conflict and skyrocketing insurance premiums.",
-                "This geopolitical disruption permanently reduces global vessel capacity while driving ocean freight rates significantly higher.",
-                "Importers must build extended transit buffers into their inventory models to prevent severe component supply shortages."
+                "The Justice Department Trade Fraud Task Force surpassed one billion dollars in recovery penalties within ten months.",
+                "Intense federal scrutiny focuses heavily on tariff evasion, misclassification, and illegal de minimis shipping schemes globally.",
+                "Custom brokers and importers face massive liability risks under the highly aggressive, expanded trade enforcement mandate.",
+                "Supply chain compliance teams must audit vendor classification databases to prevent catastrophic border delays and penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
-            "points": [
-                "The Justice Department Trade Fraud Task Force surpassed one billion dollars in recovery penalties and forfeitures.",
-                "Enforcement audits are aggressively targeting tariff evasion schemes, misclassification of goods, and illegal customs routing practices.",
-                "Customs and Border Protection is deploying advanced automated screening protocols to verify origin documentation of imports.",
-                "Compliance officers must immediately verify third-party supply chain documentation to avoid severe legal and financial liabilities."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CARRIERS: STRUCTURAL BLANK SAILINGS",
+            "nextUpTease": "SEA-INTELLIGENCE: CAPACITY RETRENCHMENT MANDATE",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -58,16 +41,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "CARRIERS: STRUCTURAL BLANK SAILINGS",
+            "id": 3,
+            "heading": "SEA-INTELLIGENCE: CAPACITY RETRENCHMENT MANDATE",
             "points": [
-                "Ocean carriers are structurally restricting global capacity by routinely blanking up to fourteen percent of scheduled space.",
-                "This coordinated capacity management strategy keeps container spot rates elevated despite cooling global consumer merchandise demand.",
-                "Alliance partners are prioritizing schedule reliability over volume expansion by deploying tactical blank sailings across trade-lanes.",
-                "Logistics managers must secure multi-year volume commitments to guarantee container allocation during unpredictable peak shipping cycles."
+                "Container lines enter a structural capacity constriction phase, routinely withdrawing up to fourteen percent of scheduled space.",
+                "Frequent blank sailings act as permanent operational leverage tools, driving ocean spot rates upward despite cooling demand.",
+                "Global shippers must shift away from volatile spot markets toward long-term space guarantees and contractual allocations.",
+                "Ocean supply chains must absorb higher structural freight costs and longer transit times as routing remains inconsistent."
             ],
             "imageUrl": "",
-            "nextUpTease": "EBAY: DEPOP FASHION ACQUISITION",
+            "nextUpTease": "EBAY: DEPOP PLATFORM INTEGRATION",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -75,16 +58,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "EBAY: DEPOP FASHION ACQUISITION",
+            "id": 4,
+            "heading": "EBAY: DEPOP PLATFORM INTEGRATION",
             "points": [
-                "eBay secured final regulatory clearance to purchase peer-to-peer fashion marketplace Depop from Etsy for over one billion.",
-                "The strategic acquisition allows eBay to consolidate its dominance in global consumer-to-consumer apparel and fashion logistics.",
-                "E-commerce sellers will gain access to integrated shipping tools designed to optimize high-volume cross-border parcel delivery.",
-                "Multi-channel merchants should prepare for consolidated platform logistics rules and updated seller fee schedules this summer."
+                "United Kingdom regulators cleared eBay to buy customer-to-customer fashion marketplace Depop from Etsy for over one billion.",
+                "The transaction consolidates multi-channel consumer marketplace power, positioning eBay to dominate global circular fashion logistics infrastructure.",
+                "Integrating Depop allows eBay to tap specialized international parcel shipping volumes and streamline cross-border shipping protocols.",
+                "Independent online fashion merchants should prepare for updated shipping rate scales and unified cross-channel fulfillment tools."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: FREIGHT SPINOFF COMPLETED",
+            "nextUpTease": "MARITIME: HORMUZ TRANSIT SURCHARGES",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -92,35 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "FEDEX: FREIGHT SPINOFF COMPLETED",
+            "id": 5,
+            "heading": "MARITIME: HORMUZ TRANSIT SURCHARGES",
             "points": [
-                "FedEx officially completed the long-planned spin-off of its highly profitable less-than-truckload logistics division, FedEx Freight.",
-                "The newly independent public company aims to streamline domestic operations and optimize dedicated linehaul terminal networks.",
-                "Shippers expect highly competitive pricing dynamics as the carrier focuses purely on regional industrial freight efficiency.",
-                "Enterprise procurement teams must renegotiate existing volume contracts to align with the newly structured corporate entity."
+                "Shipowners are offering massive double-salary bonuses to secure maritime crews willing to transit the dangerous Strait of Hormuz.",
+                "Escalating regional conflicts continue to strain critical fuel shipping corridors, directly driving global diesel spot prices upward.",
+                "Ocean carriers are adjusting risk surcharges, complicating cost models for global logistics networks traversing the Middle East.",
+                "Shippers should anticipate sustained elevated transport rates and longer transit times as vessels avoid volatile routing zones."
             ],
             "imageUrl": "",
-            "nextUpTease": "FRANCE: REGIME FORTY-TWO ABOLITION",
+            "nextUpTease": "ARCBEST: SERVICE CENTER CONSOLIDATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ARCBEST: SERVICE CENTER CONSOLIDATION",
+            "points": [
+                "ArcBest announced plans to close ten ABF Freight service centers and trim two percent of workforce.",
+                "The restructuring merges truckload and logistics subsidiaries to optimize operational efficiency within underperforming smaller regional markets.",
+                "Less-than-truckload networks are realigning terminal footprints to counter softer freight demand and rising industrial property costs.",
+                "Shippers using ArcBest services must prepare for localized transit adjustments as operations merge into centralized regional hubs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS: PORTAL PASSWORD COMPLIANCE",
+            "tags": [
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FRANCE: REGIME FORTY-TWO ABOLITION",
+            "heading": "USPS: PORTAL PASSWORD COMPLIANCE",
             "points": [
-                "French customs officials abolished Regime Forty-Two import benefits for non-European Union businesses operating within domestic borders.",
-                "This regulatory adjustment eliminates historic value-added tax deferrals, triggering immediate cash-flow friction for international logistics operations.",
-                "Forwarders are rapidly shifting cargo entry points to neighboring European gateways to minimize compliance overhead costs.",
-                "Shippers must restructure their European customs representation models to maintain smooth, uninterrupted import flows going forward."
+                "Postal service users must update business account passwords by July thirtieth to maintain API access and scheduling.",
+                "Concurrent noncompliance fees will target improperly declared hazmat items like essential oils and common household cosmetics shipments.",
+                "The double mandate aims to secure digital shipping infrastructure while penalizing manual sorting errors at processing plants.",
+                "E-commerce retailers must review their labeling software compliance to avoid automatic surcharges and package rejection delays."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
