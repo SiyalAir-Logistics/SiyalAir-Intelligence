@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS",
-        "titleBlue": "UPHEAVAL",
-        "footerSummary": "Severe fifty percent Canadian tariffs and structural blank sailings threaten global supply chain budgets as custom enforcements escalate rapidly."
+        "titleWhite": "GLOBAL FREIGHT SIGNAL",
+        "titleBlue": "DYNAMICS",
+        "footerSummary": "Escalating US-Iran tensions and revised trade tariffs are triggering systemic supply chain re-routing and accelerated infrastructure investments across major global maritime and logistics corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "WHITE HOUSE: CANADIAN TARIFF IMPOSITION",
+            "heading": "GEOPOLITICS: US-IRAN CONFLICT IMPACT",
             "points": [
-                "President Trump ordered fifty percent tariffs on some Canadian imports starting in thirty days.",
-                "The new duties apply to diverse products, overriding previous United States-Mexico-Canada Agreement duty-free statuses.",
-                "Shippers face immediate cross-border cost spikes, forcing immediate renegotiation of nearshore trade contracts across North America.",
-                "Businesses must pivot sourcing strategies rapidly to mitigate severe margin erosion from these unilateral trade actions."
+                "Escalating tensions in the Strait of Hormuz have triggered immediate operational volatility for energy and cargo transit lanes globally.",
+                "Shipping carriers are implementing significant hazard premiums and bonus structures to maintain crewing levels amidst escalating regional commercial vessel attacks.",
+                "Market analysts at Goldman Sachs indicate Brent crude prices face extreme upside pressure if current maritime supply chain bottlenecks remain unmitigated.",
+                "Logistics providers are aggressively re-evaluating risk profiles for all Middle East maritime transit assets to ensure business continuity and safety."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE",
+            "nextUpTease": "TARIFFS & TRADE",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -25,102 +25,102 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE",
+            "heading": "GOVERNMENT: TARIFF ESCALATION IMPACT",
             "points": [
-                "The Justice Department Trade Fraud Task Force surpassed one billion dollars in recovery penalties within ten months.",
-                "Intense federal scrutiny focuses heavily on tariff evasion, misclassification, and illegal de minimis shipping schemes globally.",
-                "Custom brokers and importers face massive liability risks under the highly aggressive, expanded trade enforcement mandate.",
-                "Supply chain compliance teams must audit vendor classification databases to prevent catastrophic border delays and penalties."
+                "The U.S. government has mandated a 50% tariff on specific Canadian goods, complicating cross-border trade flow and supply chain stability.",
+                "Supply chain leaders must now reconcile these aggressive duty requirements with existing USMCA provisions to mitigate landed cost fluctuations for importers.",
+                "Compliance departments are shifting focus toward tariff engineering and domestic sourcing strategies to navigate the unpredictable landscape of new trade actions.",
+                "Increased enforcement activities by federal trade task forces continue to aggressively target tariff evasion across all major U.S. entry ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "SEA-INTELLIGENCE: CAPACITY RETRENCHMENT MANDATE",
+            "nextUpTease": "OPERATIONAL RESTRUCTURING",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SEA-INTELLIGENCE: CAPACITY RETRENCHMENT MANDATE",
+            "heading": "OPERATIONS: NETWORK CONSOLIDATION TRENDS",
             "points": [
-                "Container lines enter a structural capacity constriction phase, routinely withdrawing up to fourteen percent of scheduled space.",
-                "Frequent blank sailings act as permanent operational leverage tools, driving ocean spot rates upward despite cooling demand.",
-                "Global shippers must shift away from volatile spot markets toward long-term space guarantees and contractual allocations.",
-                "Ocean supply chains must absorb higher structural freight costs and longer transit times as routing remains inconsistent."
+                "Major logistics players are actively consolidating their regional terminal networks to improve long-term operational efficiency and asset utilization rates.",
+                "ArcBest has announced the closure of 10 LTL terminals as part of a broader corporate strategy to streamline critical freight distribution.",
+                "FedEx continues the systematic spin-off of its LTL freight subsidiary into a separately traded entity to refine its core business focus.",
+                "These structural changes indicate a broader industry pivot toward lean management as freight volumes face sustained downward pressure in secondary markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "EBAY: DEPOP PLATFORM INTEGRATION",
+            "nextUpTease": "AI & TECHNOLOGY",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "EBAY: DEPOP PLATFORM INTEGRATION",
+            "heading": "TECHNOLOGY: SUPPLY CHAIN AUTOMATION",
             "points": [
-                "United Kingdom regulators cleared eBay to buy customer-to-customer fashion marketplace Depop from Etsy for over one billion.",
-                "The transaction consolidates multi-channel consumer marketplace power, positioning eBay to dominate global circular fashion logistics infrastructure.",
-                "Integrating Depop allows eBay to tap specialized international parcel shipping volumes and streamline cross-border shipping protocols.",
-                "Independent online fashion merchants should prepare for updated shipping rate scales and unified cross-channel fulfillment tools."
+                "Retail giants like Walmart are integrating AI-driven digital twins to simulate and optimize supply chain flows against global weather and conflict.",
+                "Instacart has acquired shelf-scanning startup Arpalus to enhance inventory accuracy and data precision across its extensive retail distribution network.",
+                "Investment in agentic AI and predictive analytics is rapidly becoming the standard for enterprises seeking to bridge physical and digital execution.",
+                "Apparel brands are unifying their ERP systems to achieve better visibility and control over manufacturing outputs through mid-2027 development cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ TRANSIT SURCHARGES",
+            "nextUpTease": "CUSTOMS COMPLIANCE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: HORMUZ TRANSIT SURCHARGES",
+            "heading": "COMPLIANCE: US CUSTOMS ENFORCEMENT",
             "points": [
-                "Shipowners are offering massive double-salary bonuses to secure maritime crews willing to transit the dangerous Strait of Hormuz.",
-                "Escalating regional conflicts continue to strain critical fuel shipping corridors, directly driving global diesel spot prices upward.",
-                "Ocean carriers are adjusting risk surcharges, complicating cost models for global logistics networks traversing the Middle East.",
-                "Shippers should anticipate sustained elevated transport rates and longer transit times as vessels avoid volatile routing zones."
+                "The DOJ Trade Fraud Task Force has successfully surpassed $1 billion in recovered funds related to tariff evasion and import violations.",
+                "CBP continues to refine its automated compliance dashboards to provide stakeholders with real-time visibility into border security and trade flow statistics.",
+                "Heightened scrutiny on cross-border logistics requires rigorous documentation to prevent costly detention, demurrage, and potential civil penalty assessments by regulators.",
+                "Importers are increasingly utilizing certified logistics partners to manage the complexities of modern customs compliance and government audit requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCBEST: SERVICE CENTER CONSOLIDATION",
+            "nextUpTease": "MARITIME CAPACITY",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.cbp.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ARCBEST: SERVICE CENTER CONSOLIDATION",
+            "heading": "MARITIME: STRUCTURAL CAPACITY SHIFTS",
             "points": [
-                "ArcBest announced plans to close ten ABF Freight service centers and trim two percent of workforce.",
-                "The restructuring merges truckload and logistics subsidiaries to optimize operational efficiency within underperforming smaller regional markets.",
-                "Less-than-truckload networks are realigning terminal footprints to counter softer freight demand and rising industrial property costs.",
-                "Shippers using ArcBest services must prepare for localized transit adjustments as operations merge into centralized regional hubs."
+                "The container shipping sector is entering a new era of structurally constrained capacity as carriers normalize routine blanked sailings to stabilize rates.",
+                "Port of Los Angeles volumes remain high due to infrastructure-related imports, even as consumer merchandise demand remains soft across trans-Pacific lanes.",
+                "Regulatory bodies, including the FMC, are actively monitoring detention and demurrage billing practices to ensure fairness in ocean transportation and terminal operations.",
+                "Trans-Pacific carriers are aggressively adjusting schedule reliability to balance the effects of shifting port congestion and fluctuating consumer demand patterns."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: PORTAL PASSWORD COMPLIANCE",
+            "nextUpTease": "AIR CARGO DYNAMICS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "USPS: PORTAL PASSWORD COMPLIANCE",
+            "heading": "AIR FREIGHT: CAPACITY EXPANSION",
             "points": [
-                "Postal service users must update business account passwords by July thirtieth to maintain API access and scheduling.",
-                "Concurrent noncompliance fees will target improperly declared hazmat items like essential oils and common household cosmetics shipments.",
-                "The double mandate aims to secure digital shipping infrastructure while penalizing manual sorting errors at processing plants.",
-                "E-commerce retailers must review their labeling software compliance to avoid automatic surcharges and package rejection delays."
+                "DHL Global Forwarding has launched new transpacific air routes to enhance connectivity between Southeast Asian manufacturing hubs and core U.S. markets.",
+                "The implementation of EU-based customs duties on low-value e-commerce goods is causing operational friction and re-routing within global air cargo networks.",
+                "Air cargo associations are transitioning leadership to focus on long-term digital strategy and infrastructure investments at emerging international airport gateways.",
+                "Strategic partnerships between carriers and digital marketplaces are accelerating the deployment of AI-powered sales tools for more efficient air freight procurement."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
