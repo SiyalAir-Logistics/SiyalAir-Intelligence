@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE COMPLIANCE",
+        "titleWhite": "GLOBAL FREIGHT",
         "titleBlue": "SHIFTS",
-        "footerSummary": "Unprecedented tariff actions, intensified customs fraud task force enforcement, and de minimis restructuring are forcing systemic re-routing of global cross-border e-commerce cargo networks."
+        "footerSummary": "Severe geopolitical disruption, aggressive tariff rollouts, and intense customs enforcement are driving rapid structural realignment across international supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "WHITE HOUSE: NEW TARIFF PENALTIES",
+            "heading": "US GOVERNMENT: CANADIAN TARIFF IMPACT",
             "points": [
-                "United States imposes fifty percent tariffs on Canadian imports disrupting established duty free USMCA trade corridors.",
-                "Importers face severe margin pressure as twenty five percent tariffs target incoming Brazilian goods this July.",
-                "Supply chain executives must quickly restructure nearshore sourcing networks to mitigate escalating North American tariff exposures.",
-                "Multi-tiered international manufacturing frameworks face imminent cost re-evaluations under these aggressive new bilateral trade levies."
+                "The United States administration instituted a fifty percent tariff directive targeting over five hundred Canadian import categories.",
+                "Ocean and land borders brace for administrative friction as legal challenges question United States-Mexico-Canada Agreement compliance.",
+                "Supply chain engineers are frontloading raw materials to mitigate immediate financial exposure before the thirty-day activation window.",
+                "Multi-national manufacturers must restructure procurement networks to avoid margin erosion from newly taxed industrial inputs."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD CRACKDOWN",
+            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DOJ: TRADE FRAUD CRACKDOWN",
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
             "points": [
-                "The Justice Department Trade Fraud Task Force recovers over one billion dollars in enforcement penalties.",
-                "Customs authorities intensify audits targeting systematic tariff evasion, misclassification schemes, and illicit transshipment operations.",
-                "Logistics partners must implement advanced compliance controls to safeguard international trade lanes against federal legal actions.",
-                "Shippers face heightened regulatory scrutiny demanding complete transparency across multi-tier cross-border supplier networks."
+                "The Justice Department's Trade Fraud Task Force surpassed one billion dollars in penalties and recoveries since mid-2025.",
+                "Customs compliance audits are intensifying as federal agencies target misclassified imports and evasive de minimis shipping schemes.",
+                "Logistics providers must deploy automated compliance validation software to mitigate vicarious liability during rigorous border inspections.",
+                "Importers face heightened transaction scrutiny as enforcement agencies coordinate real-time data sharing across critical maritime ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "EUROPEAN UNION: PARCEL TAX SHOCK",
+            "nextUpTease": "EUROPEAN UNION: PARCEL TAX DISRUPTION",
             "tags": [
-                "Source: inboundlogistics.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EUROPEAN UNION: PARCEL TAX SHOCK",
+            "heading": "EUROPEAN UNION: PARCEL TAX DISRUPTION",
             "points": [
-                "European Union introduces three euro customs duty on low value imports disrupting international e-commerce air networks.",
-                "Air cargo carriers experience processing bottlenecks at major hubs due to variable regional customs implementation practices.",
-                "Global e-commerce shippers must recalibrate direct to consumer postal injection models to absorb new operational frictions.",
-                "Logistics integrators project significant consolidation of cross-border small parcel lanes to optimize customs clearance workloads."
+                "The European Union's new three-euro customs duty on low-value e-commerce imports is causing severe air cargo congestion.",
+                "Express carriers are re-routing high-volume regional distribution networks to secondary airports with more flexible customs clearance capabilities.",
+                "Digital sellers must integrate real-time duty calculation engines at checkout to prevent escalating parcel abandonment rates.",
+                "Air freight capacity allocations face localized imbalances as processing times at major European hubs increase significantly."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA REGISTRY: VESSEL FLAG SHIFT",
+            "nextUpTease": "MSC: WIDEBODY FREIGHTER EXPANSION",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PANAMA REGISTRY: VESSEL FLAG SHIFT",
+            "heading": "MSC: WIDEBODY FREIGHTER EXPANSION",
             "points": [
-                "Over one hundred containerships shift away from Panama registries in response to retaliatory Chinese maritime policies.",
-                "Ocean carriers navigate massive re-flagging logistics to maintain unhindered vessel access across vital Asian shipping lanes.",
-                "Global ocean networks face temporary administrative disruptions as vessel operators rapidly complete alternative flag registrations.",
-                "Maritime alliance networks require strategic planning to hedge against escalating geopolitical confrontations targeting flag states."
+                "Mediterranean Shipping Company expanded its air cargo division by placing a direct order for next-generation Boeing freighters.",
+                "The integration of widebody aircraft allows the maritime giant to offer seamless multimodal services across key global lanes.",
+                "Increased dedicated freighter capacity provides shippers with critical spot market alternatives amid volatile ocean freight schedules.",
+                "Strategic investments in long-haul air assets signal a structural shift toward integrated end-to-end global logistics networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: DETENTION FEE REGULATION",
+            "nextUpTease": "GLOBAL GATEWAYS: HORMUZ ROUTING RISKS",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FMC: DETENTION FEE REGULATION",
+            "heading": "GLOBAL GATEWAYS: HORMUZ ROUTING RISKS",
             "points": [
-                "United States Appeals Court upholds Federal Maritime Commission mandate linking detention billing to cargo fluidity enforcement.",
-                "Ocean carriers must structure invoice generation processes to align directly with verified terminal accessibility periods.",
-                "Importers gain significant financial leverage to contest unreasonable demurrage charges during periods of peak port congestion.",
-                "Terminal operators will shift billing architectures toward digital validation platforms to comply with strict federal guidelines."
+                "International crude prices surpassed ninety dollars per barrel following escalating military strikes and maritime security threats.",
+                "Shippers face compounding bunker adjustment factors as vessel operators divert cargo volumes away from critical Middle East channels.",
+                "Commercial crew bonuses have surged dramatically to secure vessel staffing for transits navigating high-risk maritime chokepoints.",
+                "Logistics managers are updating contingency planning algorithms to optimize alternative intermodal and overland freight routing options."
             ],
             "imageUrl": "",
-            "nextUpTease": "EBAY: DEPOP ACQUISITION COMPLETED",
+            "nextUpTease": "ARCBEST: LTL NETWORK CONSOLIDATION",
             "tags": [
-                "Source: fmc.gov",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EBAY: DEPOP ACQUISITION COMPLETED",
+            "heading": "ARCBEST: LTL NETWORK CONSOLIDATION",
             "points": [
-                "EBay secures regulatory clearance to complete one point two billion dollar purchase of Etsy fashion marketplace Depop.",
-                "The multi-channel platform aggressively scales its consumer to consumer circular fashion logistics footprint across European regions.",
-                "Marketplace competitors must invest heavily in consolidated return infrastructure to counter eBay expanded reverse logistics capabilities.",
-                "Integrated logistics networks will adapt to support high volume peer to peer fulfillment flows with localized drop points."
+                "ArcBest initiated a corporate restructuring plan involving the consolidation of subsidiaries and closing of ten service centers.",
+                "The logistics provider is reducing headcount by two percent to optimize operational efficiency amidst shifting freight volumes.",
+                "Shippers must adapt to localized capacity constraints as regional freight networks consolidate operations into larger hubs.",
+                "Rationalization of less-than-truckload assets reflects broader industry trends prioritizing yield optimization over raw volume growth."
             ],
             "imageUrl": "",
-            "nextUpTease": "UPS: NATIONWIDE RFID ADOPTION",
+            "nextUpTease": "USPS: HAZMAT NONCOMPLIANCE PENALTIES",
             "tags": [
-                "Source: ecommercebytes.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "UPS: NATIONWIDE RFID ADOPTION",
+            "heading": "USPS: HAZMAT NONCOMPLIANCE PENALTIES",
             "points": [
-                "UPS rolls out extensive radio frequency identification sensing across domestic networks eliminating manual package scanning tasks.",
-                "Distribution facilities report dramatic improvements in real time visibility from initial warehouse pickup to final delivery.",
-                "Supply chain managers gain high resolution shipment tracking data enabling precise exceptions handling throughout distribution networks.",
-                "Competing parcel networks must accelerate warehouse technology deployments to maintain operational parity with automated parcel sorting."
+                "The United States Postal Service implemented new monetary penalties targeting undeclared hazardous materials within parcel shipments.",
+                "E-commerce merchants face direct operational friction as household items like essential oils trigger automated compliance screening.",
+                "Fulfillment operations must update automated product classification databases to ensure compliance with updated postal shipping guidelines.",
+                "Noncompliance fees threaten margins for high-volume retailers failing to properly declare regulated chemical formulations before transit."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: inboundlogistics.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
