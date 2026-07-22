@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUPPLY CHAIN GEOPOLITICAL",
-        "titleBlue": "FRICTION",
-        "footerSummary": "Escalating tariffs and geopolitical disruptions in the Middle East force global shippers to pivot toward automated customs compliance and alternative maritime routing structures."
+        "titleWhite": "GLOBAL TRADE",
+        "titleBlue": "VOLATILITY",
+        "footerSummary": "New US tariffs on Canada and Brazil combined with escalating Red Sea attacks and Suez/Panama canal constraints are driving up ocean freight rates globally."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC: DETENTION FEES UPHOLDING",
+            "heading": "US: CANADIAN TARIFF IMPOSITION",
             "points": [
-                "The D.C. Circuit Court upheld the Federal Maritime Commission decision regulating ocean carrier detention billing practices.",
-                "Ocean carriers face strict compliance penalties if assessed fees do not demonstrably incentivize rapid freight fluidity.",
-                "Importers gain regulatory leverage to dispute unfair charges, forcing carriers to optimize terminal storage allocations.",
-                "Logistical operators must implement automated billing audit software to track container dwell times and mitigate billing disputes."
+                "The United States has unilaterally imposed a fifty percent tariff on imported Canadian goods starting July 2026.",
+                "This protective trade measure breaks USMCA frameworks and prompts immediate reciprocal retaliatory threats from Canadian officials.",
+                "Cross-border automotive and industrial supply chains face severe structural disruptions and elevated operational compliance friction.",
+                "Logistics operators must prepare for immediate customs delays and potential cross-border infrastructure congestion at key ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "US GOVERNMENT: CANADIAN TARIFFS LEVY",
+            "nextUpTease": "BRAZIL: NEW IMPORT TARIFFS",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "US GOVERNMENT: CANADIAN TARIFFS LEVY",
+            "heading": "BRAZIL: NEW IMPORT TARIFFS",
             "points": [
-                "The United States government imposed a strict fifty percent tariff on selected cross-border Canadian import shipments.",
-                "Supply chains face immediate cost spikes, prompting manufacturers to rapidly recalibrate North American component sourcing strategies.",
-                "This unilateral border taxation threatens to disrupt integrated automotive and industrial manufacturing corridors between both nations.",
-                "Shippers must leverage bonded warehouse structures and tariff exclusion programs to maintain critical operational margins."
+                "The United States has implemented a new twenty-five percent tariff on imports originating from Brazil.",
+                "Specific exemptions are maintained for commodities already covered under existing Section 232 steel and aluminum rules.",
+                "Industrial manufacturers are actively restructuring their sourcing pipelines to mitigate sudden double-digit cost increases across materials.",
+                "Sellers must rapidly audit customs classifications to verify specific tariff exposure and minimize unexpected financial liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL GATEWAYS: MIDDLE EAST ESCALATION",
+            "nextUpTease": "RED SEA: SECURITY ESCALATION",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -42,49 +42,32 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "GLOBAL GATEWAYS: MIDDLE EAST ESCALATION",
+            "heading": "RED SEA: SECURITY ESCALATION",
             "points": [
-                "Armed Houthi forces deployed advanced missiles and drones, escalating maritime shipping threats across the Red Sea.",
-                "Ocean carriers are redirecting tankers, causing international crude oil prices to surge past ninety dollars per barrel.",
-                "Prolonged transit detours around the Cape of Good Hope permanently reduce available global fleet vessel capacity.",
-                "Logistics managers should prepare for sustained bunker fuel surcharges and extended transpacific ocean transit delays."
+                "Houthi militants have deployed advanced missiles and drones to attack commercial shipping vessels in the Red Sea.",
+                "Ongoing military exchanges between the United States and Iran continue to drive international oil prices upward.",
+                "Ocean carriers are avoiding the Suez Canal route entirely, reverting back to lengthy Cape of Good Hope transits.",
+                "Global supply chains face compounding delays and significant freight rate hikes due to prolonged transit voyages."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT",
+            "nextUpTease": "PANAMA CANAL: DRAFT LIMITS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
+            "heading": "PANAMA CANAL: DRAFT LIMITS",
             "points": [
-                "The Department of Justice Trade Fraud Task Force recovered over one billion dollars in regulatory penalties.",
-                "Federal agents are heavily targeting corporate duty evasion, misclassification of goods, and illegal country-of-origin labeling.",
-                "This aggressive enforcement mandate reflects a broader federal initiative to protect domestic industrial supply chain capabilities.",
-                "Importers must establish rigorous internal compliance audits to verify third-party supply chain documentation and manufacturing origins."
+                "The Panama Canal Authority is officially restricting neo-Panamax vessels to a maximum draft depth of forty-nine feet.",
+                "Ocean carriers are responding by levying specialized surcharges tied directly to these strict draft limitations.",
+                "These container weight restrictions force ocean vessels to reduce total cargo volumes, squeezing trans-Pacific transit capacity.",
+                "Shippers must re-evaluate cargo weight distributions to maintain optimal margins under the new maritime fee structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "ALTANA: CUSTOMS AUTOMATION ACQUISITION",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "ALTANA: CUSTOMS AUTOMATION ACQUISITION",
-            "points": [
-                "Global intelligence firm Altana acquired advanced automated customs entry writing software to streamline international customs workflows.",
-                "The software transition enables automated tariff classification, significantly reducing entry processing delays for high-volume cross-border shippers.",
-                "Incorporating artificial intelligence into customs processes minimizes compliance risks amid rapidly changing global tariff policies.",
-                "Customs brokers must integrate predictive AI entry models to accelerate cargo clearance and lower overall administrative costs."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AMAZON: LOGISTICS EXPANSION PUSH",
+            "nextUpTease": "EUROPE: NEW PARCEL DUTY",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
@@ -92,16 +75,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AMAZON: LOGISTICS EXPANSION PUSH",
+            "id": 5,
+            "heading": "EUROPE: NEW PARCEL DUTY",
             "points": [
-                "Amazon is aggressively capturing package volumes rejected by FedEx and UPS due to escalating fuel surcharges.",
-                "The e-commerce giant is rapidly scaling its independent parcel shipping services to directly compete with traditional carriers.",
-                "This expansion leverages excess fulfillment network capacity, offering cost-effective delivery alternatives to third-party merchant accounts.",
-                "Retailers should diversify parcel carriers to leverage competitive pricing structures and bypass rising private delivery fees."
+                "The European Union is introducing a flat three-euro customs duty on low-value e-commerce package imports.",
+                "This tax policy aims to create a level playing field but disrupts high-velocity cross-border air cargo flows.",
+                "Airports specializing in e-commerce fulfillment face operational backlogs due to increased physical parcel declarations and inspections.",
+                "E-commerce retailers must re-engineer their localized clearance processes to prevent terminal delays and customer delivery disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACP: PANAMA DRAFT SURCHARGES",
+            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -109,18 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "ACP: PANAMA DRAFT SURCHARGES",
+            "id": 6,
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
             "points": [
-                "The Panama Canal Authority introduced strict forty-nine-foot draft limits on larger neo-Panamax ocean vessels.",
-                "Ocean carriers are implementing heavy draft surcharges, reducing the allowable weight capacity for transpacific trade routes.",
-                "Regional environmental constraints continue to throttle transit reliability, driving up spot freight rates across East Coast ports.",
-                "Shippers must optimize vessel space and consider alternative intermodal rail routings via West Coast port terminals."
+                "The Department of Justice Trade Fraud Task Force has officially surpassed one billion dollars in recoveries.",
+                "This milestone is reached less than one year after the enforcement initiative was launched in 2025.",
+                "Enforcement operations primarily target improper customs classifications, anti-dumping violations, and structural import duty evasion schemes.",
+                "Importers should perform preemptive internal audits to ensure compliance and avoid severe financial and legal penalties."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CHINA: SHIPS REFLAGGING WAVE",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "CHINA: SHIPS REFLAGGING WAVE",
+            "points": [
+                "More than one hundred Panama-registered containerships have successfully reflagged to alternative maritime country registries.",
+                "This massive operational migration represents a direct retaliation response to ongoing geopolitical tensions involving China.",
+                "The sudden structural shift impacts ocean vessel documentation, compliance procedures, and international port clearance protocols.",
+                "Vessel operators must update compliance registries to prevent delays at international ports during global transits."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
