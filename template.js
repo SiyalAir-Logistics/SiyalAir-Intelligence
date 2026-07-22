@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "SURGE",
-        "footerSummary": "Escalating US-Iran tensions and new 50% tariffs on Canadian goods are disrupting North American trade routes and forcing emergency supply chain reconfigurations."
+        "titleWhite": "SUPPLY CHAIN GEOPOLITICAL",
+        "titleBlue": "FRICTION",
+        "footerSummary": "Escalating tariffs and geopolitical disruptions in the Middle East force global shippers to pivot toward automated customs compliance and alternative maritime routing structures."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GEOPOLITICS: STRAIT OF HORMUZ BLOCKADE",
+            "heading": "FMC: DETENTION FEES UPHOLDING",
             "points": [
-                "Attacks between US and Iranian forces have intensified, leading to a de facto closure of the Strait of Hormuz to commercial shipping.",
-                "Oil prices have surged past $95 per barrel as the international standard, causing immediate volatility in global fuel surcharges for freight carriers.",
-                "Global logistics operators are rerouting vessels to avoid the region, significantly increasing transit times, bunker consumption, and insurance premiums for long-haul ocean cargo.",
-                "Stakeholders must prepare for potential supply shocks and cascading delivery delays as energy-sensitive transport costs continue to climb through the third quarter."
+                "The D.C. Circuit Court upheld the Federal Maritime Commission decision regulating ocean carrier detention billing practices.",
+                "Ocean carriers face strict compliance penalties if assessed fees do not demonstrably incentivize rapid freight fluidity.",
+                "Importers gain regulatory leverage to dispute unfair charges, forcing carriers to optimize terminal storage allocations.",
+                "Logistical operators must implement automated billing audit software to track container dwell times and mitigate billing disputes."
             ],
             "imageUrl": "",
-            "nextUpTease": "NORTH AMERICAN TRADE TARIFFS",
+            "nextUpTease": "US GOVERNMENT: CANADIAN TARIFFS LEVY",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TARIFFS: US-CANADA TRADE DISPUTE",
+            "heading": "US GOVERNMENT: CANADIAN TARIFFS LEVY",
             "points": [
-                "The US has officially initiated a 50% tariff mandate on a broad range of Canadian imports, significantly altering cross-border trade economics for North American manufacturers.",
-                "The sudden policy shift has paralyzed logistics planning for cross-border trucking operations, with carriers reporting immediate uncertainty in freight contract enforcement.",
-                "Logistics managers are pivoting toward inventory frontloading and re-evaluating sourcing strategies to mitigate the sudden 50% increase in import duties for essential commodities.",
-                "The abrupt nature of this trade action signals a hardening stance on North American supply chain integration, necessitating urgent tariff-compliance audits for importers."
+                "The United States government imposed a strict fifty percent tariff on selected cross-border Canadian import shipments.",
+                "Supply chains face immediate cost spikes, prompting manufacturers to rapidly recalibrate North American component sourcing strategies.",
+                "This unilateral border taxation threatens to disrupt integrated automotive and industrial manufacturing corridors between both nations.",
+                "Shippers must leverage bonded warehouse structures and tariff exclusion programs to maintain critical operational margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN SHIPPING MARKET VOLATILITY",
+            "nextUpTease": "GLOBAL GATEWAYS: MIDDLE EAST ESCALATION",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -42,66 +42,32 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MARITIME: CAPACITY AND SURCHARGE SPIKES",
+            "heading": "GLOBAL GATEWAYS: MIDDLE EAST ESCALATION",
             "points": [
-                "Container lines are implementing aggressive surcharges on Indian and trans-Pacific trades, capitalizing on unprecedented capacity demand amidst current geopolitical instabilities.",
-                "The Panama Canal Authority's new 49-foot depth restriction on neo-Panamax vessels is forcing carriers to levy draft-related surcharges, tightening available slot capacity globally.",
-                "Spot rates on major maritime lanes remain elevated as ocean carriers aggressively manage blank sailings to maintain price floors despite cooling consumer demand sectors.",
-                "Market analysts warn that vessel overcapacity from newbuild deliveries will be masked by current disruptions, extending the peak season freight rate environment for shippers."
+                "Armed Houthi forces deployed advanced missiles and drones, escalating maritime shipping threats across the Red Sea.",
+                "Ocean carriers are redirecting tankers, causing international crude oil prices to surge past ninety dollars per barrel.",
+                "Prolonged transit detours around the Cape of Good Hope permanently reduce available global fleet vessel capacity.",
+                "Logistics managers should prepare for sustained bunker fuel surcharges and extended transpacific ocean transit delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE COMPLIANCE SHIFTS",
+            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "COMPLIANCE: CROSS-BORDER E-COMMERCE",
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
             "points": [
-                "The EU is introducing a new customs duty on low-value e-commerce imports, creating substantial operational friction for air cargo flows and parcel logistics providers.",
-                "Marketplaces are rushing to adapt to shifting de minimis tax landscapes, which are significantly inflating landed costs for direct-to-consumer businesses across European borders.",
-                "Sellers must now navigate rigorous new compliance requirements for carrier pickups and customs reporting to avoid detention of small-package shipments at regional gateways.",
-                "Automated handling and strict password compliance protocols are becoming mandatory for sellers to maintain account-level standing on major international distribution platforms."
+                "The Department of Justice Trade Fraud Task Force recovered over one billion dollars in regulatory penalties.",
+                "Federal agents are heavily targeting corporate duty evasion, misclassification of goods, and illegal country-of-origin labeling.",
+                "This aggressive enforcement mandate reflects a broader federal initiative to protect domestic industrial supply chain capabilities.",
+                "Importers must establish rigorous internal compliance audits to verify third-party supply chain documentation and manufacturing origins."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS LABOR AND AUTOMATION",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "TECHNOLOGY: AI-POWERED WAREHOUSE SHIFT",
-            "points": [
-                "Leading retailers like Walmart are accelerating the deployment of AI-driven digital twins to maintain supply chain resilience during geopolitical and weather-related disruptions.",
-                "Warehouse operators are increasingly adopting drone-based inventory counting and automated picking systems to mitigate chronic labor shortages and reduce operational overhead costs.",
-                "Supply chain leaders are prioritizing the integration of agentic AI into transportation back-office functions to improve forecasting accuracy and automate exception management workflows.",
-                "Investment in specialized AI learning tools is rising as companies seek to upskill workers for a tech-centric, highly automated logistics environment by 2027."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FREIGHT FINANCIAL PERFORMANCE",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "FINANCE: TRADE FRAUD ENFORCEMENT",
-            "points": [
-                "The US Justice Department\u2019s Trade Fraud Task Force has officially surpassed $1 billion in total recoveries, marking a aggressive expansion in customs enforcement actions.",
-                "Importers and manufacturers are facing heightened scrutiny regarding supply chain documentation, with increased penalties for misclassification or duty evasion across all transport modes.",
-                "Financial institutions and logistics partners are tightening vetting processes as the DOJ expands its reach into previously opaque areas of third-party shipping and brokerage.",
-                "Shippers are advised to conduct immediate internal audits of import filings to align with new federal compliance standards and avoid becoming targets for future enforcement."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INTERMODAL NETWORK RESTRUCTURING",
+            "nextUpTease": "ALTANA: CUSTOMS AUTOMATION ACQUISITION",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -109,18 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "OPERATIONS: INTERMODAL NETWORK SHIFTS",
+            "id": 5,
+            "heading": "ALTANA: CUSTOMS AUTOMATION ACQUISITION",
             "points": [
-                "Major logistics players are aggressively consolidating regional networks and cutting workforce capacity to restructure operations for long-term growth amidst current freight market volatility.",
-                "Intermodal providers are expanding chassis fleets to alleviate equipment gaps that have begun to emerge at key inland ports like Chicago for the first time post-pandemic.",
-                "Carrier restructuring activity is intensifying as companies seek to improve operating margins through brand consolidation and the shedding of non-core distribution assets.",
-                "The combination of capacity optimization and network streamlining is creating a two-speed logistics market where agility determines carrier success in the upcoming fiscal year."
+                "Global intelligence firm Altana acquired advanced automated customs entry writing software to streamline international customs workflows.",
+                "The software transition enables automated tariff classification, significantly reducing entry processing delays for high-volume cross-border shippers.",
+                "Incorporating artificial intelligence into customs processes minimizes compliance risks amid rapidly changing global tariff policies.",
+                "Customs brokers must integrate predictive AI entry models to accelerate cargo clearance and lower overall administrative costs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AMAZON: LOGISTICS EXPANSION PUSH",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AMAZON: LOGISTICS EXPANSION PUSH",
+            "points": [
+                "Amazon is aggressively capturing package volumes rejected by FedEx and UPS due to escalating fuel surcharges.",
+                "The e-commerce giant is rapidly scaling its independent parcel shipping services to directly compete with traditional carriers.",
+                "This expansion leverages excess fulfillment network capacity, offering cost-effective delivery alternatives to third-party merchant accounts.",
+                "Retailers should diversify parcel carriers to leverage competitive pricing structures and bypass rising private delivery fees."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ACP: PANAMA DRAFT SURCHARGES",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "ACP: PANAMA DRAFT SURCHARGES",
+            "points": [
+                "The Panama Canal Authority introduced strict forty-nine-foot draft limits on larger neo-Panamax ocean vessels.",
+                "Ocean carriers are implementing heavy draft surcharges, reducing the allowable weight capacity for transpacific trade routes.",
+                "Regional environmental constraints continue to throttle transit reliability, driving up spot freight rates across East Coast ports.",
+                "Shippers must optimize vessel space and consider alternative intermodal rail routings via West Coast port terminals."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
