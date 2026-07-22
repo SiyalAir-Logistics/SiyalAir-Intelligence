@@ -1,56 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE BARRIERS",
-        "titleBlue": "TIGHTEN",
-        "footerSummary": "Global trade routes face systemic friction as new U.S. tariffs and heightened customs enforcement disrupt traditional North American and transpacific logistics corridors."
+        "titleWhite": "GLOBAL TRADE",
+        "titleBlue": "DECOUPLING",
+        "footerSummary": "DP World's bypass terminals and severe US-Canada tariff hikes force immediate structural reconfiguration of global maritime and overland freight lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US CUSTOMS: CANADIAN IMPORT TARIFFS",
+            "heading": "DP WORLD: HORMUZ BYPASS TERMINALS",
             "points": [
-                "Trump administration orders 50% tariffs on Canadian goods, disrupting established North American supply chain corridors and USMCA trade flows.",
-                "Shippers face immediate 50% cost escalations across cross-border freight routes, requiring rapid supply chain network redesign.",
-                "The unexpected tariff policy undermines bilateral trade agreements, forcing manufacturers to re-evaluate nearshoring strategies in Canada.",
-                "Supply chain managers must renegotiate logistics contracts and establish customs mitigation frameworks to offset massive financial exposure."
+                "DP World signed a fifty year concession with Fujairah to construct two new container terminals outside Hormuz.",
+                "This strategic infrastructure bypasses the high risk waterway to safeguard volatile Middle East cargo transits.",
+                "The new facilities will integrate directly with nearby free zones through dedicated inland logistics networks.",
+                "Shippers can mitigate maritime chokepoint vulnerabilities by routing critical global volumes through these east coast gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "JUSTICE DEPARTMENT: CUSTOMS FRAUD CRACKDOWN",
+            "nextUpTease": "US CUSTOMS: CANADIAN TARIFF ESCALATION",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "JUSTICE DEPARTMENT: CUSTOMS FRAUD CRACKDOWN",
+            "heading": "US CUSTOMS: CANADIAN TARIFF ESCALATION",
             "points": [
-                "The DOJ Trade Fraud Task Force surpassed $1 billion in recoveries and penalties, signaling hyper-enforcement of customs violations.",
-                "Logistics partners and importers face intensified scrutiny on transaction declarations, valuation accuracy, and product classifications.",
-                "Enhanced multi-agency data sharing creates a highly hostile regulatory environment for non-compliant global supply chain networks.",
-                "Importers must deploy automated compliance audits and strict oversight to prevent disruptive cargo seizures and severe financial penalties."
+                "The United States finalized severe fifty percent tariffs on major Canadian imports starting late July.",
+                "Cross border supply chains face sudden pricing disruptions as automotive and dairy sectors absorb direct financial impacts.",
+                "Logistics managers are forced to restructure North American freight routing to circumvent escalating trade enforcement measures.",
+                "Companies must execute immediate contract reviews to account for increased customs duties across northern border lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "EUROPEAN UNION: DE MINIMIS PARCEL TAX",
+            "nextUpTease": "EUROPEAN UNION: LOW VALUE PARCEL TAX",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EUROPEAN UNION: DE MINIMIS PARCEL TAX",
+            "heading": "EUROPEAN UNION: LOW VALUE PARCEL TAX",
             "points": [
-                "The EU proposes a \u20ac3 flat customs duty on all low-value e-commerce imports to eliminate de minimis loopholes.",
-                "Cross-border e-commerce air cargo networks face massive administrative bottlenecks and operational friction at European hub airports.",
-                "Clearing millions of individual small parcels with mandatory duties will degrade delivery times and escalate unit shipping costs.",
-                "High-volume marketplace operators must restructure European logistics routes, leveraging regional fulfillment hubs to mitigate customs delays."
+                "The European Union implemented a strict three euro customs duty on low value ecommerce imports.",
+                "This landmark regulation removes previous de minimis exemptions to establish a level playing field for retailers.",
+                "High volume air cargo hubs face massive processing backlogs as custom clearance protocols expand significantly.",
+                "Digital sellers must restructure pricing matrices to absorb increased administrative burdens and direct compliance costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT SECURITY: SEVERE CBP INSPECTIONS",
+            "nextUpTease": "CBP: HEIGHTENED PORT COMPLIANCE SCRUTINY",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -59,15 +59,15 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "PORT SECURITY: SEVERE CBP INSPECTIONS",
+            "heading": "CBP: HEIGHTENED PORT COMPLIANCE SCRUTINY",
             "points": [
-                "Heightened CBP security inspections at United States container ports reach post-9/11 intensity levels, delaying terminal cargo releases.",
-                "Importers face escalating demurrage and detention risks as container dwell times climb due to prolonged agency examinations.",
-                "Strict enforcement focus on trade compliance and forced labor prevention strains terminal yard capacity and logistics coordination.",
-                "Cargo owners must inject buffer times into inland routing schedules and secure flexible demurrage terms with carriers."
+                "United States Customs and Border Protection escalated cargo security examinations across major maritime container terminals.",
+                "These rigorous compliance sweeps trigger severe container dwell times and elevated demurrage risks for importers.",
+                "Ocean carriers are enforcing strict billing timelines while shippers navigate complex documentation audits at ports.",
+                "Supply chain operators must implement advanced cargo tracking systems to monitor administrative delays in real time."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME REFLAGGING: CHINA REGISTRY REPRISALS",
+            "nextUpTease": "VESSEL REGISTRIES: PANAMA FLEET DEPARTURES",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
@@ -76,15 +76,15 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "MARITIME REFLAGGING: CHINA REGISTRY REPRISALS",
+            "heading": "VESSEL REGISTRIES: PANAMA FLEET DEPARTURES",
             "points": [
-                "Over 100 containerships reflag from Panama to alternative registries in response to target sanctions and China's regulatory reprisals.",
-                "Vessel operators navigate complex legal and operational transitions to preserve access to key trade routes and ports.",
-                "The mass reflagging exposes escalating geopolitical volatility inside international maritime administration and global vessel registry networks.",
-                "Shippers must monitor vessel registry status to ensure compliance with regional maritime sanctions and cargo security mandates."
+                "Over one hundred containerships are reflagging from Panama registries following targeted regulatory pressure from China.",
+                "This rapid maritime relocation disrupts traditional vessel registration patterns and impacts international ocean shipping compliance.",
+                "Ocean carriers are transitioning vessels to alternative sovereign flags to avoid regional operating restrictions and penalties.",
+                "Strategic maritime planning is required to navigate complex carrier reallocations and potential route availability shifts."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: MAERSK BOSTON FULFILLMENT HUB",
+            "nextUpTease": "US TRADE POLICY: BRAZIL TARIFF LEVY",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -93,15 +93,15 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "INFRASTRUCTURE: MAERSK BOSTON FULFILLMENT HUB",
+            "heading": "US TRADE POLICY: BRAZIL TARIFF LEVY",
             "points": [
-                "Maersk is opening a $100 million, 617,000-square-foot fulfillment facility in Massachusetts to optimize regional e-commerce supply chains.",
-                "The automated hub establishes high-capacity sorting and rapid distribution capabilities adjacent to key Northeast consumer markets.",
-                "This strategic facility expansion reflects a broader industry push to bring warehousing infrastructure closer to urban demand centers.",
-                "Retailers utilizing this integrated hub will see accelerated last-mile delivery times and reduced reliance on fragmented regional carriers."
+                "A fresh twenty five percent United States tariff on Brazilian imports took effect on July twenty-second.",
+                "This regulatory trade action impacts multiple product categories with select exemptions carved out under Section 232.",
+                "Freight forwarders report minimal immediate panic but caution that long term cargo routing economics will shift.",
+                "Importers are diversifying their global sourcing footprints to mitigate escalating transactional friction in Latin American trade."
             ],
             "imageUrl": "",
-            "nextUpTease": "US PORTS: NUCLEAR PROPULSION INITIATIVE",
+            "nextUpTease": "USPS: NONCOMPLIANCE HAZMAT FEES",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "US PORTS: NUCLEAR PROPULSION INITIATIVE",
+            "heading": "USPS: NONCOMPLIANCE HAZMAT FEES",
             "points": [
-                "Federal agencies initiate plans to integrate marine nuclear power technology on commercial ships at major United States container ports.",
-                "The transition aims to eliminate maritime carbon emissions and build energy resilience across critical marine transportation corridors.",
-                "Implementing nuclear marine propulsion requires upgrading port safety protocols, specialized technician workforces, and unique dockside security grids.",
-                "Port operators must prepare for complex regulatory frameworks and significant infrastructure investments to support next-generation vessel fueling."
+                "The United States Postal Service implemented strict noncompliance fees targeting improperly declared hazardous shipping materials.",
+                "Everyday consumer goods like essential oils and nail polish face sudden regulatory classification as active hazmat.",
+                "Ecommerce merchants must adopt rigid compliance screening protocols to avoid unexpected penalties on lightweight ground parcels.",
+                "Operations managers are updating automated warehouse sorting software to validate parcel packaging safety standards dynamically."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
