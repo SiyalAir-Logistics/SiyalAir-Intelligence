@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE",
-        "titleBlue": "VOLATILITY",
-        "footerSummary": "New US tariffs on Canada and Brazil combined with escalating Red Sea attacks and Suez/Panama canal constraints are driving up ocean freight rates globally."
+        "titleWhite": "GLOBAL LOGISTICS BORDER",
+        "titleBlue": "FRICTION",
+        "footerSummary": "New fifty percent U.S. tariffs on Canadian imports and systemic Red Sea blockades are driving high-friction structural shifts across global shipping lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US: CANADIAN TARIFF IMPOSITION",
+            "heading": "US GOVERNMENT: CANADIAN TARIFF IMPOSITION",
             "points": [
-                "The United States has unilaterally imposed a fifty percent tariff on imported Canadian goods starting July 2026.",
-                "This protective trade measure breaks USMCA frameworks and prompts immediate reciprocal retaliatory threats from Canadian officials.",
-                "Cross-border automotive and industrial supply chains face severe structural disruptions and elevated operational compliance friction.",
-                "Logistics operators must prepare for immediate customs delays and potential cross-border infrastructure congestion at key ports."
+                "The United States has enacted a massive fifty percent tariff on key imports from Canada.",
+                "Cross-border manufacturing operations face severe disruption as corporate supply chains scramble to realign logistics strategies.",
+                "Bilateral negotiations are intensifying as Canada cancels joint infrastructure events and threatens strong retaliatory measures.",
+                "Shippers must prepare for immediate cost spikes and custom clearing delays across all northern border ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "BRAZIL: NEW IMPORT TARIFFS",
+            "nextUpTease": "DEPARTMENT OF JUSTICE: TRADE FRAUD TASKFORCE",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -25,83 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "BRAZIL: NEW IMPORT TARIFFS",
+            "heading": "DEPARTMENT OF JUSTICE: TRADE FRAUD TASKFORCE",
             "points": [
-                "The United States has implemented a new twenty-five percent tariff on imports originating from Brazil.",
-                "Specific exemptions are maintained for commodities already covered under existing Section 232 steel and aluminum rules.",
-                "Industrial manufacturers are actively restructuring their sourcing pipelines to mitigate sudden double-digit cost increases across materials.",
-                "Sellers must rapidly audit customs classifications to verify specific tariff exposure and minimize unexpected financial liabilities."
+                "The federal Trade Fraud Task Force surpassed one billion dollars in recoveries within its first year.",
+                "Customs authorities are expanding targeted enforcement actions against importers bypass compliance laws using fraudulent declarations.",
+                "Enhanced auditing protocols are forcing global logistics partners to implement rigorous record-keeping and data verification measures.",
+                "Importers face escalated liability risks and potential asset forfeitures if discrepancies are detected in customs entries."
             ],
             "imageUrl": "",
-            "nextUpTease": "RED SEA: SECURITY ESCALATION",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "RED SEA: SECURITY ESCALATION",
-            "points": [
-                "Houthi militants have deployed advanced missiles and drones to attack commercial shipping vessels in the Red Sea.",
-                "Ongoing military exchanges between the United States and Iran continue to drive international oil prices upward.",
-                "Ocean carriers are avoiding the Suez Canal route entirely, reverting back to lengthy Cape of Good Hope transits.",
-                "Global supply chains face compounding delays and significant freight rate hikes due to prolonged transit voyages."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: DRAFT LIMITS",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "PANAMA CANAL: DRAFT LIMITS",
-            "points": [
-                "The Panama Canal Authority is officially restricting neo-Panamax vessels to a maximum draft depth of forty-nine feet.",
-                "Ocean carriers are responding by levying specialized surcharges tied directly to these strict draft limitations.",
-                "These container weight restrictions force ocean vessels to reduce total cargo volumes, squeezing trans-Pacific transit capacity.",
-                "Shippers must re-evaluate cargo weight distributions to maintain optimal margins under the new maritime fee structures."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "EUROPE: NEW PARCEL DUTY",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "EUROPE: NEW PARCEL DUTY",
-            "points": [
-                "The European Union is introducing a flat three-euro customs duty on low-value e-commerce package imports.",
-                "This tax policy aims to create a level playing field but disrupts high-velocity cross-border air cargo flows.",
-                "Airports specializing in e-commerce fulfillment face operational backlogs due to increased physical parcel declarations and inspections.",
-                "E-commerce retailers must re-engineer their localized clearance processes to prevent terminal delays and customer delivery disruptions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
-            "points": [
-                "The Department of Justice Trade Fraud Task Force has officially surpassed one billion dollars in recoveries.",
-                "This milestone is reached less than one year after the enforcement initiative was launched in 2025.",
-                "Enforcement operations primarily target improper customs classifications, anti-dumping violations, and structural import duty evasion schemes.",
-                "Importers should perform preemptive internal audits to ensure compliance and avoid severe financial and legal penalties."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CHINA: SHIPS REFLAGGING WAVE",
+            "nextUpTease": "FMC: DETENTION FEE BILLING RULING",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -109,18 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "CHINA: SHIPS REFLAGGING WAVE",
+            "id": 3,
+            "heading": "FMC: DETENTION FEE BILLING RULING",
             "points": [
-                "More than one hundred Panama-registered containerships have successfully reflagged to alternative maritime country registries.",
-                "This massive operational migration represents a direct retaliation response to ongoing geopolitical tensions involving China.",
-                "The sudden structural shift impacts ocean vessel documentation, compliance procedures, and international port clearance protocols.",
-                "Vessel operators must update compliance registries to prevent delays at international ports during global transits."
+                "The US Court of Appeals upheld a pivotal federal decision regarding ocean container detention charges.",
+                "Carrier-imposed demurrage and detention fees must strictly serve the operational purpose of promoting maritime freight fluidity.",
+                "The ruling empowers shippers to legally challenge unreasonable billing practices from major ocean carrier alliances.",
+                "Global shipping lines are forced to restructure billing protocols to avoid multimillion-dollar civil regulatory penalties."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "EUROPEAN UNION: LOW-VALUE PARCEL DUTY",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "EUROPEAN UNION: LOW-VALUE PARCEL DUTY",
+            "points": [
+                "The European Union has implemented a mandatory three euro customs duty on low-value e-commerce imports.",
+                "The regulatory change has created immediate operational processing backlogs across major European air cargo hubs.",
+                "Logistics providers are struggling to handle increased administrative workloads without triggering delays for parcel delivery schedules.",
+                "Global e-commerce marketplaces must rapidly update compliance engines to collect and report these mandatory import fees."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "YEMEN HOUTHIS: RED SEA SHIPPING BLOCKADE",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "YEMEN HOUTHIS: RED SEA SHIPPING BLOCKADE",
+            "points": [
+                "Armed Houthi militants have launched coordinated missile attacks and announced a new Red Sea shipping blockade.",
+                "Global energy markets reacted instantly with international oil benchmark prices climbing past ninety-three dollars per barrel.",
+                "Ocean carriers are rerouting vessels around Africa to safeguard cargo and crew from high-risk combat zones.",
+                "Shippers must expect prolonged transit schedules, higher bunker fuel surcharges, and elevated maritime insurance premiums."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PANAMA REGISTRY: MASS VESSEL FLAG SWAP",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "PANAMA REGISTRY: MASS VESSEL FLAG SWAP",
+            "points": [
+                "More than one hundred container vessels have actively reflagged away from the Panama shipping registry.",
+                "The mass migration is driven by strategic Chinese reprisal actions targetting vessels associated with western alliances.",
+                "Shipowners are choosing alternative registries to secure smoother transit corridors and minimize geopolitical trade friction.",
+                "Maritime trade lawyers predict continued regulatory divergence will force further restructuring of global commercial fleet registrations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AMAZON: BUSINESS SELLER UPGRADE ACTION",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "AMAZON: BUSINESS SELLER UPGRADE ACTION",
+            "points": [
+                "Amazon is opening complex business-to-business features to all third-party merchant partners on its platform.",
+                "The digital update allows smaller online merchants to pitch bulk inventories directly to large corporate buyers.",
+                "This strategic marketplace expansion directly threatens traditional wholesale distributors by streamlining digital procurement pipelines.",
+                "Corporate logistics teams must adapt fulfillment operations to handle bulk business demands and commercial freight standards."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
