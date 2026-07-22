@@ -44,19 +44,50 @@ async function fixBackgroundCORS() {
     const canvas = document.getElementById('post-canvas');
     if (!canvas) return;
 
-    const bgUrl = 'assets/background.png';
+    let bgIndex = 1;
+
+    try {
+        const trackerRes = await fetch('bg_tracker.txt?t=' + Date.now());
+        if (trackerRes.ok) {
+            const text = await trackerRes.text();
+            const parsedNum = parseInt(text.trim());
+            if (!isNaN(parsedNum) && parsedNum > 0) {
+                bgIndex = parsedNum;
+            }
+        }
+    } catch (e) {
+        console.log("Tracker read defaulted, using background1.png");
+    }
+
+    const bgUrl = `assets/background${bgIndex}.png`;
     
     try {
         const response = await fetch(bgUrl);
+        if (!response.ok) throw new Error("Background asset not found");
         const blob = await response.blob();
         const reader = new FileReader();
         reader.onloadend = () => {
             canvas.style.backgroundImage = `url(${reader.result})`;
-            console.log("Background channel secured and optimized for render capture.");
+            console.log(`Loaded background${bgIndex}.png successfully and optimized for render capture.`);
         };
         reader.readAsDataURL(blob);
     } catch (e) {
-        console.warn("Local sandbox file system blocked fetch. Run via a dedicated local server (VS Code Live Server).");
+        console.warn(`Failed to load background${bgIndex}.png, falling back to default asset.`);
+        fallbackDefaultBackground(canvas);
+    }
+}
+
+async function fallbackDefaultBackground(canvas) {
+    try {
+        const response = await fetch('assets/background.png');
+        const blob = await response.blob();
+        const reader = new FileReader();
+        reader.onloadend = () => {
+            canvas.style.backgroundImage = `url(${reader.result})`;
+        };
+        reader.readAsDataURL(blob);
+    } catch (err) {
+        console.error("Default background fallback failed.");
     }
 }
 
