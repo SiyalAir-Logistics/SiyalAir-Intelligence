@@ -1,73 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT SHIELD",
-        "titleBlue": "DEPLOYS",
-        "footerSummary": "New fifty percent tariffs on Canada and European de minimis changes force rapid international cargo routing adjustments globally."
+        "titleWhite": "GLOBAL TRADE FRICTION",
+        "titleBlue": "ACCELERATES",
+        "footerSummary": "Escalating geopolitical instability and protectionist tariff policies are driving significant volatility in trans-Pacific logistics corridors and reshaping international supply chain architecture for 2026."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRUMP ADMINISTRATION: CANADIAN TARIFFS ENFORCED",
+            "heading": "TARIFF ESCALATION: US-CANADA TRADE DISPUTES",
             "points": [
-                "The United States enforces new fifty percent tariffs on imports from Canada disrupting regional supply chains.",
-                "Importers face significant cargo delays and customs processing bottlenecks at northern border ports of entry.",
-                "Shippers must rapidly re-evaluate alternative sourcing networks to bypass mounting cross-border regulatory tariff barriers.",
-                "Long-term trade strategies now require flexible nearshoring models to absorb sudden legislative tariff adjustments successfully."
+                "The U.S. has officially imposed aggressive 50 percent tariffs on a broad range of Canadian imports.",
+                "This significant trade barrier follows deepening geopolitical tensions and threatens to disrupt established North American manufacturing supply chains.",
+                "Analysts anticipate retaliatory measures from Canadian provinces, creating complex compliance hurdles for cross-border logistics operators.",
+                "Supply chain managers must urgently audit vendor sourcing strategies to mitigate the impact of sudden duty cost spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "EUROPEAN UNION: PARCEL TAX DISRUPTION",
+            "nextUpTease": "MIDEAST INSTABILITY AND ENERGY COSTS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "EUROPEAN UNION: PARCEL TAX DISRUPTION",
+            "heading": "ENERGY VOLATILITY: RED SEA RISK IMPACT",
             "points": [
-                "The European Union implements a three Euro customs duty on low-value e-commerce imports globally.",
-                "Air cargo carriers report severe bottlenecks as customs offices process massive volumes of individual parcel entries.",
-                "Logistics providers are adjusting cargo routing strategies to mitigate localized administrative clearance delays across Europe.",
-                "E-commerce retailers face increased operational costs and longer delivery times for direct-to-consumer international shipments."
+                "Brent crude oil prices have surged above 90 dollars per barrel following sustained regional military engagement.",
+                "Ongoing conflict near the Strait of Hormuz is forcing shipping carriers to reassess transit security and fuel costs.",
+                "Logistics providers are bracing for potential service disruptions as international maritime routes remain under direct physical threat.",
+                "The spike in fuel prices is expected to drive higher surcharges throughout global ocean and trucking networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "US FEDERAL MARITIME COMMISSION: FEE FLUIDITY UPHOLD",
+            "nextUpTease": "PANAMA CANAL DRAFT RESTRICTIONS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "US FEDERAL MARITIME COMMISSION: FEE FLUIDITY UPHOLD",
+            "heading": "MARITIME LOGISTICS: PANAMA CANAL CAPACITY",
             "points": [
-                "The US Court of Appeals upholds key regulatory limits on ocean detention and demurrage charges.",
-                "Ocean carriers must structure billing structures to actively promote cargo fluidity and prevent port terminal congestion.",
-                "Importers gain substantial protection from unreasonable carrier fees during periods of severe supply chain disruptions.",
-                "Regulatory compliance frameworks will require highly transparent documentation from global ocean shipping lines moving forward."
+                "New neo-Panamax vessel depth restrictions at 49 feet are causing immediate operational friction for major ocean carriers.",
+                "Carriers have responded by implementing specific canal draft surcharges to cover operational inefficiencies and cargo capacity loss.",
+                "This infrastructure constraint forces re-routing decisions and impacts the arrival schedules for time-sensitive Pacific trade lanes.",
+                "Importers should expect continued transit delays as vessel operators normalize these new operational financial requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "ALTANA: CUSTOMS AUTOMATION ACQUISITION",
-            "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "ALTANA: CUSTOMS AUTOMATION ACQUISITION",
-            "points": [
-                "Altana acquires customs entry writing automation software to streamline digital compliance processes for global traders.",
-                "The technology integration leverages artificial intelligence to automate complex tariff classification and entry declarations.",
-                "Global freight forwarders can now reduce manual administrative errors and accelerate customs clearance processing timelines.",
-                "Enterprise supply chains gain automated visibility into changing regulatory requirements across diverse international trade jurisdictions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RED SEA SHIPPING: RE-ROUTING MITIGATION",
+            "nextUpTease": "AUTOMATION IN WAREHOUSE OPERATIONS",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
@@ -75,33 +58,50 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "RED SEA SHIPPING: RE-ROUTING MITIGATION",
+            "id": 4,
+            "heading": "WAREHOUSE TECH: AI-DRIVEN INVENTORY GAINS",
             "points": [
-                "Oil tankers reroute from the Red Sea as escalated geopolitical threats disrupt critical Suez Canal transits.",
-                "Vessels diversion around Africa adds ten thousand miles to global voyages sharply increasing shipping transit times.",
-                "Ocean freight rates climb rapidly as bunkering costs rise and vessel capacity is stretched thin globally.",
-                "Supply chain managers face inventory planning challenges as ocean transit predictability decreases across major trade lanes."
+                "Retail leaders are increasingly adopting shelf-scanning technology and digital twins to optimize complex fulfillment center operations.",
+                "Integration of automated inventory accuracy tools is reducing reliance on labor-intensive manual cycle counting across large facilities.",
+                "Advanced data management is essential to maintaining visibility in a landscape characterized by frequent supply chain disruptions.",
+                "Warehouse productivity is currently dependent on the successful scaling of these software-driven orchestration environments."
             ],
             "imageUrl": "",
-            "nextUpTease": "EBAY: DEPOP MARKETPLACE ACQUISITION",
+            "nextUpTease": "TRUCK TONNAGE AND CAPACITY",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "FREIGHT MARKET: TRUCK TONNAGE TRENDS",
+            "points": [
+                "Recent market data indicates a modest recovery in truck tonnage despite broader pressures on the logistics industry.",
+                "For-hire carriers are leveraging improved freight demand to consolidate positions amidst ongoing capacity volatility in the sector.",
+                "Mergers and acquisitions continue to build momentum as firms seek scale to navigate high operating costs.",
+                "Strategic capacity management remains a critical performance indicator for logistics enterprises heading into the next fiscal quarter."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "E-COMMERCE COMPLIANCE SHIFTS",
+            "tags": [
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EBAY: DEPOP MARKETPLACE ACQUISITION",
+            "heading": "COMPLIANCE: CROSS-BORDER E-COMMERCE",
             "points": [
-                "eBay secures regulatory clearance for its one point two billion dollar acquisition of fashion marketplace Depop.",
-                "The strategic acquisition expands the e-commerce giant's market share in consumer-to-consumer apparel and social shopping.",
-                "Platform integrations will likely consolidate shipping APIs and cross-border logistics networks for small online merchants.",
-                "The consolidated entity aims to capture rising global demand for sustainable resale and peer-to-peer retail transactions."
+                "New customs duty policies for low-value e-commerce imports are creating significant bottlenecks within international air cargo flows.",
+                "Marketplace sellers must navigate rigorous compliance updates for account passwords and shipping documentation to avoid delivery delays.",
+                "Regulatory bodies are tightening enforcement on hazmat classifications and de minimis exclusions to secure revenue collection.",
+                "Failure to maintain strict compliance adherence is resulting in unexpected fees and rejected shipments for global retailers."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEPARTMENT OF JUSTICE: TRADE FRAUD ENFORCEMENT",
+            "nextUpTease": "PROFESSIONAL COMPENSATION TRENDS",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "DEPARTMENT OF JUSTICE: TRADE FRAUD ENFORCEMENT",
+            "heading": "TALENT MANAGEMENT: LOGISTICS SALARY SHIFT",
             "points": [
-                "The Justice Department Trade Fraud Task Force recovers over one billion dollars in penalty assessments.",
-                "Government enforcement agencies target intentional tariff evasion and illegal customs circumvention schemes across major sectors.",
-                "Importers must implement rigorous compliance audits to verify raw material origins and supply chain supplier validity.",
-                "Strict regulatory oversight will drive widespread adoption of end-to-end trace tools across global manufacturing operations."
+                "Logistics management compensation is rebounding significantly as professionals take on broader responsibilities regarding enterprise risk mitigation.",
+                "Strategic decision-making roles are expanding as firms prioritize technology adoption and automated supply chain infrastructure.",
+                "High turnover in warehouse operations is being addressed through AI-managed labor tools to ensure long-term business continuity.",
+                "Investment in workforce development and upskilling is now essential to maintaining operational resilience across global freight networks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
