@@ -7,6 +7,7 @@ on:
       - 'template.js'  # Block the bot from triggering itself
       - 'post.txt'     # Block the bot from triggering itself on text updates
       - 'download/**'  # Block the bot from looping on its own image updates
+      - 'bg_tracker.txt' # Block the bot from looping on background tracker state updates
   workflow_dispatch:
   schedule:
     - cron: '16 * * * *'  # Single Primary Precise Hourly Trigger (Exactly once per hour)
@@ -48,22 +49,62 @@ jobs:
           # 2. Force Git to clear any local tracking discrepancies by resetting tracking pointer
           git reset --mixed origin/main
           
-          # 3. Stage BOTH the freshly overwritten template.js and post.txt files generated this hour
-          git add template.js post.txt
+          # 3. Dynamically rotate and increment background tracker state automatically
+          python - << 'EOF'
+          import os
+          import glob
+
+          tracker_file = "bg_tracker.txt"
           
-          # 4. Verify structural differences cleanly without stashing or merging files
+          # Scan assets folder dynamically to find total available backgrounds
+          bg_files = glob.glob("assets/background*.png")
+          valid_indices = []
+          for f in bg_files:
+              filename = os.path.basename(f)
+              num_part = filename.replace("background", "").replace(".png", "")
+              if num_part.isdigit():
+                  valid_indices.append(int(num_part))
+
+          max_backgrounds = max(valid_indices) if valid_indices else 1
+
+          # Read current tracker value
+          try:
+              if os.path.exists(tracker_file):
+                  with open(tracker_file, "r", encoding="utf-8") as f:
+                      current_val = int(f.read().strip())
+              else:
+                  current_val = 1
+          except Exception:
+              current_val = 1
+
+          # Determine next rotation step
+          if current_val >= max_backgrounds:
+              next_val = 1
+          else:
+              next_val = current_val + 1
+
+          # Write updated index back
+          with open(tracker_file, "w", encoding="utf-8") as f:
+              f.write(str(next_val))
+          print(f"Dynamic Background Rotation: Found {max_backgrounds} total backgrounds. Rotated tracker: {current_val} -> {next_val}")
+          EOF
+
+          # 4. Stage template.js, post.txt, and the dynamically updated background tracking state file
+          git add template.js post.txt bg_tracker.txt
+          
+          # 5. Verify structural differences cleanly without stashing or merging files
           if ! git diff --cached --quiet; then
             
-            # 5. Commit using the protected perimeter safety tag [skip ci]
-            git commit -m "Automated Hourly Update: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
+            # 6. Commit using the protected perimeter safety tag [skip ci]
+            git commit -m "Automated Hourly Update & BG Rotation: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
             
-            # 6. Force clean push directly into the remote target branch
+            # 7. Force clean push directly into the remote target branch
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
             
-            # 7. Set tracking variable for email and screenshot phase
+            # 8. Set tracking variable for email and screenshot phase
             echo "PUSH_SUCCESS=true" >> $GITHUB_ENV
           else
-            echo "No changes detected in template.js or post.txt. Skipping push payload sequence to prevent loops."
+            echo "No changes detected in template.js, post.txt, or background tracker. Skipping push payload sequence to prevent loops."
             echo "PUSH_SUCCESS=false" >> $GITHUB_ENV
           fi
 
