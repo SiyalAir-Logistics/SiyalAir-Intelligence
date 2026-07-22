@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CROSS-BORDER TRADE",
-        "titleBlue": "FRICTION",
-        "footerSummary": "Escalating tariffs, Middle East military conflicts, and canal draft limits are creating unprecedented cost spikes across global supply chains."
+        "titleWhite": "GLOBAL FREIGHT",
+        "titleBlue": "SHOCKS",
+        "footerSummary": "Escalating tariff actions and geopolitical conflicts disrupt traditional shipping lanes, forcing rapid supply chain compliance transformations worldwide."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US GOVERNMENT: CANADIAN TARIFF IMPOSITION",
+            "heading": "US-CANADA: TARIFF ESCALATION",
             "points": [
-                "The United States finalized a sudden fifty percent tariff on imported Canadian goods to protect domestic industrial sectors.",
-                "Logistics providers face massive billing adjustments as supply chains absorb unexpected customs costs across northern borders.",
-                "Manufacturing networks must recalibrate nearshoring routes to bypass escalating cross-border financial friction between historical trade partners.",
-                "Importers will experience severe cargo clearance delays as customs agencies implement rigorous verification protocols for northern shipments."
+                "US implements 50% tariff on Canadian imports, severely disrupting integrated North American cross-border automotive supply chains.",
+                "Freight lanes face instant disruption as Canadian provinces hold firm on reciprocal trade bans, raising cross-border transit times.",
+                "Importers must immediately re-route components or establish bonded warehouses to mitigate severe cost impacts from this trade dispute.",
+                "Logistics managers predict long-term restructuring of nearshore manufacturing nodes as regional trade agreements face unprecedented regulatory friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "MIDDLE EAST: HORMUZ SHIPPING DISRUPTION",
+            "nextUpTease": "MIDDLE EAST: MARITIME BLOCKADE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MIDDLE EAST: HORMUZ SHIPPING DISRUPTION",
+            "heading": "MIDDLE EAST: MARITIME BLOCKADE",
             "points": [
-                "Escalating military exchanges between American forces and Iran have severely compromised vessel transits through critical oil lanes.",
-                "International oil prices surged past ninety-three dollars per barrel as shipping companies rerouted tankers from high-risk zones.",
-                "Global carrier networks are implementing contingency routing protocols around Africa to bypass the deteriorating Red Sea security corridor.",
-                "Shippers must prepare for substantial fuel surcharge spikes as global maritime networks face prolonged transit times."
+                "Houthi militants declare a new blockade in the Red Sea as US-Iran military exchanges escalate hostilities.",
+                "Brent crude oil prices surge past 94 dollars per barrel, triggering immediate hikes in global maritime fuel surcharges.",
+                "Ocean carriers abandon standard routes, diverting container vessels around Africa to avoid catastrophic bottleneck delays in Suez.",
+                "Shippers must anticipate persistent capacity crunches and prepare alternative air freight strategies for critical time-sensitive cargo transits."
             ],
             "imageUrl": "",
-            "nextUpTease": "EUROPEAN UNION: DE MINIMIS REFORM",
+            "nextUpTease": "FMC: DETENTION FEES RULE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EUROPEAN UNION: DE MINIMIS REFORM",
+            "heading": "FMC: DETENTION FEES RULE",
             "points": [
-                "The European Union introduced a mandatory three-euro customs duty targeting low-value e-commerce imports into member states.",
-                "Air cargo hubs expect significant throughput slowdowns as customs authorities inspect high volumes of small parcel shipments.",
-                "Digital marketplaces must restructure their checkout architecture to calculate localized duties for all European shipping destinations.",
-                "Cross-border retail shippers will face increased margin pressures and mandatory compliance overhead to maintain international flows."
+                "US Court of Appeals upholds the FMC ruling that container detention and demurrage fees must actively promote freight fluidity.",
+                "Ocean carriers face strict penalties and must automate billing systems to prevent illegal charges on non-operating terminal days.",
+                "This judicial precedent empowers shippers to dispute unfair container retention fees, significantly shifting the regulatory power dynamic.",
+                "Logistics operators will see reduced port dwell times as carriers streamline equipment turnarounds to avoid compliance penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEPT OF JUSTICE: CUSTOMS ENFORCEMENT SURGE",
+            "nextUpTease": "BRAZIL: IMPORT TARIFFS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEPT OF JUSTICE: CUSTOMS ENFORCEMENT SURGE",
+            "heading": "BRAZIL: IMPORT TARIFFS",
             "points": [
-                "The Department of Justice Trade Fraud Task Force recovered over one billion dollars in penalties since inception.",
-                "Federal agents are intensifying audits on import declarations to detect systematic evasion of countervailing and anti-dumping duties.",
-                "Importers must implement rigorous compliance validation systems to mitigate legal risks associated with modern customs clearance operations.",
-                "Logistics providers will face heightened liability and operational scrutiny during routine multi-agency border enforcement actions."
+                "United States imposes a new 25% tariff on Brazilian imports to stimulate domestic manufacturing and metal processing.",
+                "Brazilian forwarders leverage targeted commodity exemptions to buffer immediate financial impacts on existing automotive supply chain contracts.",
+                "Shippers must dynamically re-classify freight under Section 232 rules to avoid paying excessive double duties.",
+                "Global trade lanes will shift as manufacturing supply chains seek alternative non-tariffed sourcing partners across Latin America."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: DRAFT SURCHARGE ESCALATION",
+            "nextUpTease": "EUROPE: PARCEL TAX LAWS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PANAMA CANAL: DRAFT SURCHARGE ESCALATION",
+            "heading": "EUROPE: PARCEL TAX LAWS",
             "points": [
-                "Ocean carriers are introducing new emergency surcharges as draft limits at the Panama Canal tighten significantly.",
-                "Neo-Panamax vessel depth restrictions to forty-nine feet force container fleets to reduce maximum cargo payloads immediately.",
-                "Intermodal operators are transitioning excess cargo volumes to overland rail networks to bypass transit restrictions in Central America.",
-                "East Coast importers will experience rising spot freight rates and extended delivery timelines throughout the peak season."
+                "European Union establishes a 3 euro customs duty on low-value e-commerce imports to eliminate historic tax advantages.",
+                "Air cargo networks face severe congestion at major hubs like Liege due to intensive manual customs clearance bottlenecks.",
+                "E-commerce sellers must integrate advanced customs API engines to automate duty calculations directly at the digital point-of-sale.",
+                "Cross-border parcel flows will experience systemic transit delays as logistics providers adjust networks to absorb new processing overheads."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME REGISTRY: CHINA PANAMA REFLAGGING",
+            "nextUpTease": "PANAMA: VESSEL REFLAGGING",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME REGISTRY: CHINA PANAMA REFLAGGING",
+            "heading": "PANAMA: VESSEL REFLAGGING",
             "points": [
-                "More than one hundred containerships have reflagged from Panama to alternative national registries due to Chinese reprisal.",
-                "Vessel operators face administrative bottlenecks and high registration costs to maintain access to crucial Asian shipping routes.",
-                "Geopolitical tensions are reshaping traditional maritime flag choices, driving carriers toward diplomatically neutral sovereign maritime registers.",
-                "Ocean freight networks must carefully manage regulatory compliance transitions to prevent sudden port exclusions in critical territories."
+                "Over 100 containerships strip Panama flags to register under alternative registries following Chinese trade reprisal threats.",
+                "Maritime operators face complex regulatory paperwork and temporary operational suspensions during rapid multi-jurisdictional vessel reflagging.",
+                "This mass exodus highlights growing geopolitical vulnerability within traditional open registry systems under intense state-sponsored trade pressures.",
+                "Ocean carriers will increasingly prioritize neutral sovereign registries to safeguard global vessel passage through contested maritime corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "US GOVERNMENT: BRAZIL TARIFF IMPLEMENTATION",
+            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "US GOVERNMENT: BRAZIL TARIFF IMPLEMENTATION",
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
             "points": [
-                "The United States implemented a twenty-five percent import tariff targeting major fresh goods shipments from Brazilian exporters.",
-                "Freight forwarders are leveraging specific regulatory exemption lists to insulate existing agricultural supply chain operations from disruption.",
-                "Importers are actively re-negotiating supply contracts to absorb the increased financial friction of new Latin American levies.",
-                "Stakeholders should expect continuous policy shifts as bilateral trade agreements are renegotiated under domestic protectionist pressures."
+                "Department of Justice Trade Fraud Task Force surpasses 1 billion dollars in total financial recoveries and penalties.",
+                "Manufacturers face intensified audit scrutiny as federal agencies deploy advanced data analytics tools to detect customs evasion tactics.",
+                "Compliance officers must implement rigorous digital trade trail verification systems to secure supply chains against regulatory liabilities.",
+                "Importers will see heightened inspection rates at US ports as federal task forces clamp down on illegal trade."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
