@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "ACCELERATES",
-        "footerSummary": "Escalating geopolitical instability and protectionist tariff policies are driving significant volatility in trans-Pacific logistics corridors and reshaping international supply chain architecture for 2026."
+        "titleWhite": "GLOBAL FREIGHT",
+        "titleBlue": "SHIFT",
+        "footerSummary": "The US-imposed fifty percent Canadian tariff and mounting Red Sea blockades represent systemic friction requiring rapid, multi-channel supply chain diversification."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFF ESCALATION: US-CANADA TRADE DISPUTES",
+            "heading": "US GOVERNMENT: CANADIAN IMPORT TARIFFS",
             "points": [
-                "The U.S. has officially imposed aggressive 50 percent tariffs on a broad range of Canadian imports.",
-                "This significant trade barrier follows deepening geopolitical tensions and threatens to disrupt established North American manufacturing supply chains.",
-                "Analysts anticipate retaliatory measures from Canadian provinces, creating complex compliance hurdles for cross-border logistics operators.",
-                "Supply chain managers must urgently audit vendor sourcing strategies to mitigate the impact of sudden duty cost spikes."
+                "The United States has imposed a fifty percent tariff on major import categories arriving from Canada.",
+                "Multi-sector supply chains face immediate cost escalation, forcing manufacturers to aggressively evaluate alternative domestic sourcing options.",
+                "Cross-border freight flows are experiencing disruptions as logistics operators adjust financial models to absorb tax burdens.",
+                "Shippers expect severe bottlenecks at land borders while compliance officers rapidly update customs tariff classification codes."
             ],
             "imageUrl": "",
-            "nextUpTease": "MIDEAST INSTABILITY AND ENERGY COSTS",
+            "nextUpTease": "RED SEA: HOUTHI SHIPPING BLOCKADE",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -25,83 +25,49 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ENERGY VOLATILITY: RED SEA RISK IMPACT",
+            "heading": "RED SEA: HOUTHI SHIPPING BLOCKADE",
             "points": [
-                "Brent crude oil prices have surged above 90 dollars per barrel following sustained regional military engagement.",
-                "Ongoing conflict near the Strait of Hormuz is forcing shipping carriers to reassess transit security and fuel costs.",
-                "Logistics providers are bracing for potential service disruptions as international maritime routes remain under direct physical threat.",
-                "The spike in fuel prices is expected to drive higher surcharges throughout global ocean and trucking networks."
+                "Militants issued warnings of a new shipping blockade in the Red Sea, threatening critical global maritime lanes.",
+                "Global oil prices spiked past ninety dollars per barrel as international tension escalated across the Middle East.",
+                "Ocean carriers are rerouting vessels around Africa to avoid rising conflict zones and high insurance surcharges.",
+                "Extended transit times will likely strain global container availability and trigger space constraints across transpacific trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL DRAFT RESTRICTIONS",
+            "nextUpTease": "EUROPEAN UNION: LOW-VALUE PARCEL TAX",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME LOGISTICS: PANAMA CANAL CAPACITY",
+            "heading": "EUROPEAN UNION: LOW-VALUE PARCEL TAX",
             "points": [
-                "New neo-Panamax vessel depth restrictions at 49 feet are causing immediate operational friction for major ocean carriers.",
-                "Carriers have responded by implementing specific canal draft surcharges to cover operational inefficiencies and cargo capacity loss.",
-                "This infrastructure constraint forces re-routing decisions and impacts the arrival schedules for time-sensitive Pacific trade lanes.",
-                "Importers should expect continued transit delays as vessel operators normalize these new operational financial requirements."
+                "The European Union implemented a three euro customs duty on low-value e-commerce imports to balance competition.",
+                "High-volume parcel shippers face increased administrative friction and processing delays at major European cargo hub airports.",
+                "Logistics providers must redesign compliance systems to track and collect duties on micro-transactions from external marketplaces.",
+                "Global e-commerce operators will likely restructure distribution networks to mitigate rising cross-border tax compliance costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION IN WAREHOUSE OPERATIONS",
+            "nextUpTease": "EBAY: DEPOP PLATFORM ACQUISITION",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "WAREHOUSE TECH: AI-DRIVEN INVENTORY GAINS",
+            "heading": "EBAY: DEPOP PLATFORM ACQUISITION",
             "points": [
-                "Retail leaders are increasingly adopting shelf-scanning technology and digital twins to optimize complex fulfillment center operations.",
-                "Integration of automated inventory accuracy tools is reducing reliance on labor-intensive manual cycle counting across large facilities.",
-                "Advanced data management is essential to maintaining visibility in a landscape characterized by frequent supply chain disruptions.",
-                "Warehouse productivity is currently dependent on the successful scaling of these software-driven orchestration environments."
+                "Regulators cleared a massive one point two billion dollar acquisition of the consumer fashion marketplace Depop.",
+                "The transaction enables integrated inventory sharing and expands seller reach across critical peer-to-peer e-commerce segments.",
+                "Cross-border trade operations must align logistics systems to handle highly fragmented, consumer-to-consumer international shipments efficiently.",
+                "Platform consolidation will reshape e-commerce logistics, driving logistics providers to offer specialized, low-cost domestic parcel solutions."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCK TONNAGE AND CAPACITY",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "FREIGHT MARKET: TRUCK TONNAGE TRENDS",
-            "points": [
-                "Recent market data indicates a modest recovery in truck tonnage despite broader pressures on the logistics industry.",
-                "For-hire carriers are leveraging improved freight demand to consolidate positions amidst ongoing capacity volatility in the sector.",
-                "Mergers and acquisitions continue to build momentum as firms seek scale to navigate high operating costs.",
-                "Strategic capacity management remains a critical performance indicator for logistics enterprises heading into the next fiscal quarter."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "E-COMMERCE COMPLIANCE SHIFTS",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "COMPLIANCE: CROSS-BORDER E-COMMERCE",
-            "points": [
-                "New customs duty policies for low-value e-commerce imports are creating significant bottlenecks within international air cargo flows.",
-                "Marketplace sellers must navigate rigorous compliance updates for account passwords and shipping documentation to avoid delivery delays.",
-                "Regulatory bodies are tightening enforcement on hazmat classifications and de minimis exclusions to secure revenue collection.",
-                "Failure to maintain strict compliance adherence is resulting in unexpected fees and rejected shipments for global retailers."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PROFESSIONAL COMPENSATION TRENDS",
+            "nextUpTease": "DEPARTMENT OF JUSTICE: TRADE FRAUD ACTIONS",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -109,18 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "TALENT MANAGEMENT: LOGISTICS SALARY SHIFT",
+            "id": 5,
+            "heading": "DEPARTMENT OF JUSTICE: TRADE FRAUD ACTIONS",
             "points": [
-                "Logistics management compensation is rebounding significantly as professionals take on broader responsibilities regarding enterprise risk mitigation.",
-                "Strategic decision-making roles are expanding as firms prioritize technology adoption and automated supply chain infrastructure.",
-                "High turnover in warehouse operations is being addressed through AI-managed labor tools to ensure long-term business continuity.",
-                "Investment in workforce development and upskilling is now essential to maintaining operational resilience across global freight networks."
+                "The federal trade fraud task force successfully recovered over one billion dollars in penalties and forfeitures.",
+                "Regulatory agencies have dramatically intensified audits targeting import classification evasion and de minimis compliance violations.",
+                "Importers and third-party logistics providers are implementing advanced data validation tools to ensure absolute cargo compliance.",
+                "Strict enforcement of trade laws will force supply chain managers to heavily document product origin chains."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PANAMA REGISTRY: CHINA SHIFT REFLAGGING",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "PANAMA REGISTRY: CHINA SHIFT REFLAGGING",
+            "points": [
+                "Over one hundred container vessels are reflagging away from Panama due to strategic Chinese retaliatory actions.",
+                "Maritime carriers are transferring registration to alternative sovereign flags to avoid discriminatory port fees and inspections.",
+                "Regulatory changes are complicating vessel compliance operations, adding administrative friction for major global ocean transportation lines.",
+                "Industry experts predict shifting alliances as vessel registries adapt to changing geopolitical tensions between dominant nations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PANAMA CANAL: VESSEL DRAFT LIMITS",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "PANAMA CANAL: VESSEL DRAFT LIMITS",
+            "points": [
+                "The canal authority will restrict neo-Panamax vessels to a strict forty-nine foot depth starting this Friday.",
+                "Ocean carriers are introducing hefty transit surcharges to compensate for reduced container capacities on restricted vessels.",
+                "Port operators along the East Coast anticipate minor cargo backlogs as ships adjust loading strategies globally.",
+                "Supply chain planners must diversify routing strategies to bypass draft-restricted lanes and control soaring logistics expenses."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
