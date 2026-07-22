@@ -1,90 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE",
-        "titleBlue": "DECOUPLING",
-        "footerSummary": "DP World's bypass terminals and severe US-Canada tariff hikes force immediate structural reconfiguration of global maritime and overland freight lanes."
+        "titleWhite": "GLOBAL TRADE FRICTION",
+        "titleBlue": "ACCELERATES",
+        "footerSummary": "New fifty percent tariffs on Canadian imports disrupt USMCA corridors, forcing immediate supply chain restructuring to avoid severe margin erosion."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DP WORLD: HORMUZ BYPASS TERMINALS",
+            "heading": "US GOVERNMENT: CANADIAN TARIFF ENFORCEMENT",
             "points": [
-                "DP World signed a fifty year concession with Fujairah to construct two new container terminals outside Hormuz.",
-                "This strategic infrastructure bypasses the high risk waterway to safeguard volatile Middle East cargo transits.",
-                "The new facilities will integrate directly with nearby free zones through dedicated inland logistics networks.",
-                "Shippers can mitigate maritime chokepoint vulnerabilities by routing critical global volumes through these east coast gateways."
+                "The United States imposed a restrictive fifty percent tariff on diverse imports originating from Canadian trade corridors.",
+                "New duties apply immediately to previously exempt materials despite active United States-Mexico-Canada Agreement trade frameworks.",
+                "Importers must quickly restructure North American supply lines to avoid severe margin erosion from border duties.",
+                "Automotive and agricultural logistics operations will experience significant cost increases over the coming financial quarters."
             ],
             "imageUrl": "",
-            "nextUpTease": "US CUSTOMS: CANADIAN TARIFF ESCALATION",
+            "nextUpTease": "DP WORLD: HORMUZ BYPASS EXPANSION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "US CUSTOMS: CANADIAN TARIFF ESCALATION",
+            "heading": "DP WORLD: HORMUZ BYPASS EXPANSION",
             "points": [
-                "The United States finalized severe fifty percent tariffs on major Canadian imports starting late July.",
-                "Cross border supply chains face sudden pricing disruptions as automotive and dairy sectors absorb direct financial impacts.",
-                "Logistics managers are forced to restructure North American freight routing to circumvent escalating trade enforcement measures.",
-                "Companies must execute immediate contract reviews to account for increased customs duties across northern border lanes."
+                "DP World signed a fifty-year concession to construct two container terminals on the eastern coast of UAE.",
+                "The infrastructure bypasses the volatile Strait of Hormuz to establish direct overland connectivity with Jebel Ali.",
+                "Global ocean carriers gain secure alternative routes to safeguard vital energy and consumer cargo transport lanes.",
+                "Middle Eastern logistics networks will prioritize terrestrial rail links to buffer against maritime chokepoint disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "EUROPEAN UNION: LOW VALUE PARCEL TAX",
+            "nextUpTease": "FMC: DETENTION FEE FLUIDITY RULE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EUROPEAN UNION: LOW VALUE PARCEL TAX",
+            "heading": "FMC: DETENTION FEE FLUIDITY RULE",
             "points": [
-                "The European Union implemented a strict three euro customs duty on low value ecommerce imports.",
-                "This landmark regulation removes previous de minimis exemptions to establish a level playing field for retailers.",
-                "High volume air cargo hubs face massive processing backlogs as custom clearance protocols expand significantly.",
-                "Digital sellers must restructure pricing matrices to absorb increased administrative burdens and direct compliance costs."
+                "The United States Court of Appeals upheld federal rules forcing ocean carriers to justify demurrage fees.",
+                "Carriers cannot levy administrative penalties unless charges directly encourage prompt container return and port fluidity.",
+                "Shippers obtain stronger regulatory leverage to contest unfair billing practices during periods of severe port congestion.",
+                "Maritime operators will reform invoice systems to maintain compliant documentation for demurrage and detention assessments."
             ],
             "imageUrl": "",
-            "nextUpTease": "CBP: HEIGHTENED PORT COMPLIANCE SCRUTINY",
+            "nextUpTease": "EUROPEAN UNION: DE MINIMIS ELIMINATION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CBP: HEIGHTENED PORT COMPLIANCE SCRUTINY",
+            "heading": "EUROPEAN UNION: DE MINIMIS ELIMINATION",
             "points": [
-                "United States Customs and Border Protection escalated cargo security examinations across major maritime container terminals.",
-                "These rigorous compliance sweeps trigger severe container dwell times and elevated demurrage risks for importers.",
-                "Ocean carriers are enforcing strict billing timelines while shippers navigate complex documentation audits at ports.",
-                "Supply chain operators must implement advanced cargo tracking systems to monitor administrative delays in real time."
+                "The European Union implemented a strict three euro customs duty targeting low-value e-commerce package imports.",
+                "Eliminating the historical de minimis threshold imposes new customs clearance obligations on cross-border retail shipments.",
+                "Air cargo hubs at Liege and Vatry are adjusting physical processing capacities for massive compliance documentation.",
+                "Digital marketplaces must integrate automated tax calculation engines to prevent shipment delays at European borders."
             ],
             "imageUrl": "",
-            "nextUpTease": "VESSEL REGISTRIES: PANAMA FLEET DEPARTURES",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "VESSEL REGISTRIES: PANAMA FLEET DEPARTURES",
-            "points": [
-                "Over one hundred containerships are reflagging from Panama registries following targeted regulatory pressure from China.",
-                "This rapid maritime relocation disrupts traditional vessel registration patterns and impacts international ocean shipping compliance.",
-                "Ocean carriers are transitioning vessels to alternative sovereign flags to avoid regional operating restrictions and penalties.",
-                "Strategic maritime planning is required to navigate complex carrier reallocations and potential route availability shifts."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "US TRADE POLICY: BRAZIL TARIFF LEVY",
+            "nextUpTease": "USPS: DIGITAL SECURITY COMPLIANCE",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -92,35 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "US TRADE POLICY: BRAZIL TARIFF LEVY",
+            "id": 5,
+            "heading": "USPS: DIGITAL SECURITY COMPLIANCE",
             "points": [
-                "A fresh twenty five percent United States tariff on Brazilian imports took effect on July twenty-second.",
-                "This regulatory trade action impacts multiple product categories with select exemptions carved out under Section 232.",
-                "Freight forwarders report minimal immediate panic but caution that long term cargo routing economics will shift.",
-                "Importers are diversifying their global sourcing footprints to mitigate escalating transactional friction in Latin American trade."
+                "The United States Postal Service mandated comprehensive password security upgrades for all commercial shipping portals.",
+                "Non-compliant business accounts risk immediate lockout and disruption of carrier pickup scheduling by July deadline.",
+                "Security protocols are being enhanced alongside physical deployments of smart lockers to secure localized retail transactions.",
+                "Small business logistics operators will adopt secondary verification systems to manage multi-user postal shipping profiles securely."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: NONCOMPLIANCE HAZMAT FEES",
+            "nextUpTease": "MARITIME REGISTRY: VESSEL REFLAGGING SHIFT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MARITIME REGISTRY: VESSEL REFLAGGING SHIFT",
+            "points": [
+                "More than one hundred container vessels initiated reflagging procedures to exit the Panamanian maritime registry.",
+                "The rapid shift represents a strategic response to Chinese regulatory actions targeting vessels registered under Panama.",
+                "Shipowners are migrating assets to neutral international registries to preserve uninhibited access to major global tradeways.",
+                "Maritime compliance managers will experience increased administrative overhead as vessel registration transitions alter global routing protocols."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRANSPACIFIC TRADE: INFRASTRUCTURE CARGO SURGE",
+            "tags": [
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "USPS: NONCOMPLIANCE HAZMAT FEES",
+            "heading": "TRANSPACIFIC TRADE: INFRASTRUCTURE CARGO SURGE",
             "points": [
-                "The United States Postal Service implemented strict noncompliance fees targeting improperly declared hazardous shipping materials.",
-                "Everyday consumer goods like essential oils and nail polish face sudden regulatory classification as active hazmat.",
-                "Ecommerce merchants must adopt rigid compliance screening protocols to avoid unexpected penalties on lightweight ground parcels.",
-                "Operations managers are updating automated warehouse sorting software to validate parcel packaging safety standards dynamically."
+                "Transpacific ocean and air cargo volumes remain elevated due to specialized data center infrastructure imports.",
+                "Shipments of server components mask underlying market weakness in standard consumer retail and manufacturing sectors.",
+                "Technology companies are frontloading critical hardware assets ahead of anticipated tariff adjustments and trade constraints.",
+                "High-value technology cargo will continue dominating premium shipping space, keeping container spot rates artificially inflated."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
