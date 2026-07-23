@@ -1,56 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS TRADE",
-        "titleBlue": "RECONFIGURATION",
-        "footerSummary": "Global trade architectures are undergoing rapid shifts due to punitive tariff enforcement and geopolitical risk mitigation strategies across primary international maritime and land corridors."
+        "titleWhite": "CROSS-BORDER FREIGHT",
+        "titleBlue": "DECOUPLING",
+        "footerSummary": "New United States tariffs on Canadian goods and expanding DOJ customs enforcement actions signal a volatile era of cross-border regulatory compliance."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFF ENFORCEMENT ESCALATION",
+            "heading": "DOJ TASK FORCE: TRADE FRAUD RECOVERIES",
             "points": [
-                "US authorities have aggressively expanded trade enforcement by imposing 50% tariffs on Canadian goods and targeting generic pharmaceutical imports with 200% duties.",
-                "Customs compliance departments must now navigate a complex landscape of emergency trade measures that impact landed costs across multiple North American manufacturing sectors.",
-                "The DOJ Trade Fraud Task Force has surpassed $1 billion in recoveries since inception, signaling a permanent increase in audit intensity for international importers.",
-                "Trade policy shifts are forcing logistics providers to re-evaluate supply chain sourcing strategies to maintain compliance and avoid punitive duty assessments in real-time."
+                "The Department of Justice Trade Fraud Task Force recovered one billion dollars in penalties since inception.",
+                "Global manufacturers face heightened scrutiny as enforcement actions target customs valuation and import classification errors.",
+                "Supply chain audits must expand to mitigate substantial financial risks from systemic trade compliance failures.",
+                "Shippers should implement robust documentation protocols to prevent disruptive cargo seizures at United States ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME CAPACITY DISRUPTION",
+            "nextUpTease": "US TREASURY: SEALEAD CAPACITY SANCTIONS",
             "tags": [
-                "Source: https://www.cbp.gov",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME CAPACITY DISRUPTION",
+            "heading": "US TREASURY: SEALEAD CAPACITY SANCTIONS",
             "points": [
-                "DP World is executing a 50-year concession for two new UAE container terminals to bypass potential security risks associated with the Strait of Hormuz.",
-                "Ocean carriers are currently implementing emergency bunker fuel surcharges as regional conflicts escalate risks, further straining the cost of trans-Pacific trade routes.",
-                "Container volume demand remains elevated, yet shipping line infrastructure is facing capacity crunches due to regional instability and shifting geopolitical trade flow requirements.",
-                "Market stakeholders must account for persistent vessel delays and higher operational fees as transit routes adjust to protect critical cargo from regional volatility."
+                "The United States Treasury sanctioned six SeaLead container vessels, severely restricting global ocean freight capacity.",
+                "Shippers must rapidly re-route affected container volumes to avoid cargo arrests and lengthy regulatory delays.",
+                "This enforcement action underscores escalating geopolitical friction points impacting secondary non-alliance maritime operators.",
+                "Marine insurers and freight forwarders are actively auditing fleet networks to eliminate sanctioned vessel exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER OPERATIONAL FRAGILITY",
+            "nextUpTease": "DP WORLD: HORMUZ BYPASS EXPANSION",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CARRIER OPERATIONAL FRAGILITY",
+            "heading": "DP WORLD: HORMUZ BYPASS EXPANSION",
             "points": [
-                "The US Treasury has sanctioned six SeaLead vessels, severely restricting their operational footprint and creating immediate liquidity challenges for their global freight network.",
-                "Financial analysts report that carrier profitability is highly sensitive to recent fuel price spikes and fluctuating volume demand within the major ocean freight corridors.",
-                "Logistics operators are reporting increasing difficulty in managing service levels as carrier reliability remains inconsistent across major international maritime and rail transport hubs.",
-                "Stakeholders are advised to diversify carrier selection to mitigate risks posed by vessel sanctions and the ongoing consolidation of underperforming maritime freight entities."
+                "DP World secured a fifty-year concession to construct two new container terminals in Fujairah.",
+                "This infrastructure development allows ocean carriers to completely bypass volatile transit routes through Strait of Hormuz.",
+                "Global logistics networks gain resilient alternative lanes securing Middle Eastern trade flows from regional military threats.",
+                "Shippers will experience stabilized ocean freight transit times despite ongoing geopolitical escalations within Persian Gulf."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE INFRASTRUCTURE REFORM",
+            "nextUpTease": "US CUSTOMS: CANADIAN IMPORT TARIFFS",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -59,68 +59,68 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "E-COMMERCE INFRASTRUCTURE REFORM",
+            "heading": "US CUSTOMS: CANADIAN IMPORT TARIFFS",
             "points": [
-                "Amazon is aggressively expanding B2B fulfillment services while simultaneously forcing third-party sellers to adopt automated systems to maintain their listing and account status.",
-                "New parcel delivery surcharges are reshaping the profitability of online retailers, compelling a shift toward more centralized and automated fulfillment warehouse network strategies.",
-                "Marketplaces are intensifying compliance requirements for international merchants to mitigate the impact of de minimis customs duty changes and trade-related border enforcement actions.",
-                "Sellers must prioritize operational transparency and technical compliance to survive the narrowing margins of modern cross-border e-commerce and logistics marketplace ecosystems."
+                "The United States imposed new fifty percent tariffs on an extensive array of Canadian imports.",
+                "These Section 338 duties apply even to goods previously qualifying for USMCA duty-free trade status.",
+                "Cross-border supply chains face immediate cost increases, disrupting automotive and agricultural manufacturing integration.",
+                "Logistics managers must restructure North American procurement networks to offset significant regional tariff compliance costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRIAL REAL ESTATE SHIFT",
+            "nextUpTease": "EUROPEAN UNION: DE MINIMIS TAXATION",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INDUSTRIAL REAL ESTATE SHIFT",
+            "heading": "EUROPEAN UNION: DE MINIMIS TAXATION",
             "points": [
-                "The US industrial real estate sector reports vacancy rates stabilizing at 7.3%, as supply and demand equilibrium returns to pre-disruption market levels in 2026.",
-                "Warehouse operators are increasingly deploying drone technology for inventory cycle counting to combat labor shortages and enhance precision in large-scale distribution center environments.",
-                "Corporate logistics leaders are re-evaluating long-term lease commitments as inventory strategies move toward agility and regionalized storage to manage ongoing global demand uncertainty.",
-                "Investors are focusing on data-center-linked industrial assets as the backbone of modern supply chain infrastructure requirements amid high-tech component and infrastructure expansion projects."
+                "The European Union introduced a mandatory three-euro customs duty targeting low-value e-commerce parcel imports.",
+                "This policy eliminates historical de minimis tax exemptions, creating a level playing field for domestic retailers.",
+                "International air cargo networks expect significant clearance congestion at European gateway airports during peak season.",
+                "E-commerce sellers must update customs documentation systems to handle individual parcel duty payments seamlessly."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPPLY CHAIN AI INTEGRATION",
+            "nextUpTease": "US GOVERNMENT: PHARMACEUTICAL TARIFFS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SUPPLY CHAIN AI INTEGRATION",
+            "heading": "US GOVERNMENT: PHARMACEUTICAL TARIFFS",
             "points": [
-                "Warehouse leaders are transitioning from experimental AI to agentic orchestration to solve critical labor management and high-volume demand forecasting challenges in logistics operations.",
-                "AI-driven visibility tools are becoming essential for managing complex, multi-tiered supplier networks where human error remains the primary driver of supply chain defect costs.",
-                "Supply chain organizations are struggling to scale intelligent automation due to data silos and the persistent requirement for rigorous, high-quality EDI infrastructure alignment.",
-                "The adoption of spatial AI in fleet management is providing deeper operational insights into driver safety, vehicle performance, and real-time compliance across national networks."
+                "Plans for a two hundred percent tariff on generic pharmaceutical imports have been mapped out.",
+                "Duty-free status will continue for two years before the steep tariff hikes are fully enforced.",
+                "Healthcare supply chains must initiate domestic manufacturing onshoring efforts to prevent severe medical supply shortages.",
+                "Importers face complex dual-track sourcing strategies to balance immediate cost efficiency against future regulatory liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR AND TALENT DYNAMICS",
+            "nextUpTease": "EBAY: DEPOP ACQUISITION COMPLETED",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LABOR AND TALENT DYNAMICS",
+            "heading": "EBAY: DEPOP ACQUISITION COMPLETED",
             "points": [
-                "Logistics leadership roles are demanding broader strategic responsibilities, with average professional compensation rising to $126,400 as complexity in global operations continues to expand.",
-                "The federal government is proposing streamlined CDL eligibility for veterans to address critical shortages in the national trucking workforce and logistics support systems.",
-                "Automation is creating a significant skills gap, forcing companies to invest heavily in upskilling programs to maintain operational control over next-generation supply chain software.",
-                "Corporate culture, trust, and strategic decision-making capabilities are now cited as the primary competitive advantages for supply chain officers operating in highly unpredictable markets."
+                "United Kingdom regulators approved eBay's one point two billion dollar acquisition of Depop from Etsy.",
+                "This strategic consolidation enhances eBay's market share within the rapidly expanding consumer-to-consumer fashion sector.",
+                "Integrating Depop's platform allows eBay to leverage advanced peer-to-peer transaction technologies for global trade.",
+                "Marketplace sellers will see shifts in platform fees and unified cross-border logistics shipping options."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
