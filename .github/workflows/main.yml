@@ -98,11 +98,11 @@ jobs:
           follow_tracker_file = "follow_tracker.txt"
           
           # Scan followup folder dynamically to find total available follow-up slides
-          follow_files = glob.glob("followup/Slide9-*.png")
+          follow_files = glob.glob("followup/slide9-*.png")
           valid_follow_indices = []
           for f in follow_files:
               filename = os.path.basename(f)
-              num_part = filename.replace("Slide9-", "").replace(".png", "")
+              num_part = filename.replace("slide9-", "").replace(".png", "")
               if num_part.isdigit():
                   valid_follow_indices.append(int(num_part))
 
