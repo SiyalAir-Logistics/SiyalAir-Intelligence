@@ -1,39 +1,37 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "SURGE",
-        "footerSummary": "Escalating regional conflicts, tariff-driven trade barriers, and infrastructure constraints are forcing a fundamental, high-cost restructuring of international logistics and supply chain management."
+        "titleWhite": "GLOBAL FREIGHT STRESS",
+        "titleBlue": "SPIKE",
+        "footerSummary": "Global trade faces volatility as Brent crude exceeds $100 and new tariffs disrupt trans-Pacific capacity. Shippers must pivot to flexible, data-driven route planning."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ENERGY WARFARE: HORMUZ BYPASS",
+            "heading": "ENERGY: OIL SURGE IMPACT",
             "points": [
-                "DP World is launching two new container terminals in Fujairah to bypass the Strait of Hormuz.",
-                "Rising hostilities between the U.S. and Iran have triggered regional maritime transit and oil price volatility.",
-                "Brent crude prices climbed 3.3% as regional geopolitical tensions significantly increase ocean cargo risk premiums.",
-                "Shippers must now recalibrate transit timelines to account for the closure of traditional Gulf shipping lanes."
+                "Brent crude prices breach $100/barrel following Red Sea tanker incidents.",
+                "Immediate bunker fuel surcharges likely to inflate global ocean freight rates.",
+                "Logistics managers must hedge fuel exposure through Q4 contracts immediately."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE TARIFF ESCALATION",
+            "nextUpTease": "TARIFF ESCALATION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE POLICY: TARIFF AGGRESSION",
+            "heading": "TARIFFS: TRADE RESTRUCTURING",
             "points": [
-                "The U.S. has implemented aggressive 50% tariffs on Canadian goods, complicating cross-border logistics and trade.",
-                "Congressional hearings indicate a formal shift toward protectionist policies aimed at reducing the national trade deficit.",
-                "Retaliatory measures have caused the collapse of joint infrastructure projects like the Gordie Howe Bridge celebration.",
-                "Supply chain planners are now modeling scenarios for sustained high-cost friction on North American trade routes."
+                "Trump administration enforces 50% tariffs on key Canadian goods and materials.",
+                "Cross-border land freight friction rises as duty-free status is bypassed.",
+                "Importers must audit HTS codes to mitigate Section 338 tariff exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "CHINA SOURCING RESTRICTIONS",
+            "nextUpTease": "MARITIME CAPACITY",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -42,15 +40,62 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "CHINA TECH: CARGO RESTRICTION",
+            "heading": "MARITIME: CAPACITY CRUNCH",
             "points": [
-                "Senate panels move to ban Chinese-linked automotive technology due to data security and national safety concerns.",
-                "Proposed legislation targets the integration of Chinese software in U.S. vehicle braking and steering systems.",
-                "Major automakers are actively lobbying to mitigate the impact of these stringent new compliance requirements.",
-                "Logistics providers face operational uncertainty as supply chain decoupling efforts move from rhetoric to law."
+                "Panama Canal drought triggers new surcharges from MSC and CMA CGM carriers.",
+                "Transit restrictions force rerouting, increasing lead times by 7-12 days.",
+                "Diversify port entry strategies to avoid East Coast congestion bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME REGULATORY SHIFTS",
+            "nextUpTease": "CARRIER CONSOLIDATION",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "FORWARDING: SCALE SHIFTS",
+            "points": [
+                "Kuehne+Nagel explores divestment of Apex Logistics unit post-integration.",
+                "Market leaders prioritize balance sheet liquidity amid slowing global demand.",
+                "Shifts in forwarder ownership demand re-evaluation of 3PL partnership terms."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RAILWAY INTEGRATION",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "RAIL: TRANSCONTINENTAL PUSH",
+            "points": [
+                "Union Pacific secures CN support for major transcontinental rail merger deal.",
+                "Market power concentration poses risk to regional pricing for inland freight.",
+                "Evaluate intermodal alternative providers to counter emerging rail monopolies."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AUTOMATION TECH",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "TECH: DRIVERLESS SCALE",
+            "points": [
+                "Aurora unveils second-gen autonomous hardware for long-haul commercial trucks.",
+                "Autonomous fleet scaling reduces labor dependency in high-traffic corridors.",
+                "Incorporate pilot autonomous lanes into regional logistics roadmaps for 2027."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RETAIL COMPLIANCE",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -58,69 +103,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "FMC: DETENTION FEE ENFORCEMENT",
-            "points": [
-                "The U.S. Court of Appeals upheld Federal Maritime Commission rules enforcing stricter ocean container billing practices.",
-                "Detention and demurrage fees must now directly promote freight fluidity to remain legally compliant under OSRA.",
-                "The ruling empowers the FMC to aggressively audit and penalize non-compliant common carriers and terminal operators.",
-                "Importers gain increased leverage to contest improper charges that were previously considered standard operating costs."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "ECOMMERCE MARKETPLACE COMPLIANCE",
-            "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "MARKETPLACE: SELLER SCRUTINY",
-            "points": [
-                "U.S. Senate investigations are probing potential manipulation of cross-border ecommerce by Chinese logistics operators.",
-                "Amazon is aggressively expanding B2B features to capture market share from traditional wholesale supply channels.",
-                "eBay faces backlash over public disclosure of private second-chance offers, complicating seller-side marketplace trust dynamics.",
-                "Retailers must adapt to tightening platform policies that prioritize data transparency and automated compliance enforcement."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INDUSTRIAL REAL ESTATE TRENDS",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "LOGISTICS: REAL ESTATE REBOUND",
-            "points": [
-                "Industrial real estate markets are stabilizing as demand for warehousing outpaces new facility construction pipelines.",
-                "National vacancy rates have compressed to 7.3%, signaling a shift toward tightened warehouse capacity for shippers.",
-                "Automation and AI-driven inventory management are becoming essential tools for maintaining operational margins amid labor shortages.",
-                "Companies are investing heavily in nearshoring infrastructure to hedge against ongoing global trade instability."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "WORKFORCE & AI INTEGRATION",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "AUTOMATION: WORKFORCE SHIFTS",
+            "heading": "RETAIL: MARKET FRICTION",
             "points": [
-                "Trucking industry capacity is tightening as regulatory crackdowns on unlicensed drivers intensify across U.S. corridors.",
-                "Trump\u2019s proposal for automatic CDL eligibility for veterans aims to address the critical domestic freight driver shortfall.",
-                "AI-driven fleet safety and predictive maintenance systems are now standard requirements for Tier 1 logistics carriers.",
-                "The industry faces a permanent transition toward higher-skill labor profiles coupled with deep-tech operational orchestration."
+                "USPS increases lightweight parcel shipping costs for rural zone deliveries.",
+                "Marketplace sellers face margin compression from evolving last-mile fee hikes.",
+                "Re-verify carrier mix to optimize parcel spend against new rural surcharges."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
