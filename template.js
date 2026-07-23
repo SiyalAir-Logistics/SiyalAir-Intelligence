@@ -2,38 +2,21 @@ const dailyData = {
     "main": {
         "kicker": "",
         "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "SURGE",
-        "footerSummary": "Escalating US-Iran tensions and new 50% tariffs on Canadian imports drive extreme volatility across North American freight and fuel markets this week."
+        "titleBlue": "SPIKES",
+        "footerSummary": "Escalating geopolitical conflicts and aggressive new US tariff frameworks are rapidly dismantling traditional supply chain predictability and forcing urgent, mandatory logistics network restructuring."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFF IMPACT: NORTH AMERICAN TRADE",
+            "heading": "GEO-POLITICAL TRADE DISRUPTION",
             "points": [
-                "The United States has implemented aggressive 50% tariffs on a wide range of Canadian goods to address ongoing trade disputes.",
-                "Supply chain operators must pivot immediately as duty-free status under the USMCA is effectively bypassed by these emergency national measures.",
-                "Logistics providers are reporting significant re-routing of trans-border freight to mitigate the severe cost impact of these newly imposed levies.",
-                "Manufacturers are scrambling to assess the cumulative impact on production costs as cross-border trade friction reaches a multi-year high level."
+                "Middle East conflict escalation has triggered a 3.3 percent surge in Brent crude oil prices to 94 dollars per barrel amid tanker strikes.",
+                "US officials are actively managing a 50 percent tariff penalty on Canadian imports to combat alleged unfair discrimination against domestic automotive and dairy sectors.",
+                "Shipping giants are executing 50-year terminal development deals outside the Strait of Hormuz to bypass deepening regional maritime transit vulnerabilities.",
+                "The ongoing trade dispute is forcing importers to adopt emergency procurement strategies to offset the rapidly climbing cost of global fuel surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "IRAN CONFLICT LOGISTICS",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "REGIONAL RISK: STRAIT OF HORMUZ",
-            "points": [
-                "Oil tanker attacks near Saudi Arabia have spiked energy prices globally, with Brent crude surging 3.3% to $94 per barrel.",
-                "Maritime insurance premiums are climbing rapidly as carriers evaluate the security risks of navigating traditional routes near the volatile region.",
-                "Strategic infrastructure shifts are underway with DP World announcing two new container terminals in the UAE to bypass the Strait.",
-                "Global freight operators are preparing for extended transit times and increased bunker fuel surcharges as the regional conflict continues intensifying."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CARRIER CAPACITY SHIFTS",
+            "nextUpTease": "TARIFF ENFORCEMENT",
             "tags": [
                 "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
@@ -41,81 +24,98 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "CARRIER OPERATIONS: CAPACITY CRUNCH",
+            "id": 2,
+            "heading": "CBP ENFORCEMENT SHIFTS",
             "points": [
-                "US importers are reporting an intensifying peak season capacity pinch at East Coast ports despite early efforts to frontload cargo volume.",
-                "Ocean carriers are implementing emergency surcharges to recoup costs associated with Panama Canal draft limits and regional trade bottlenecks.",
-                "The surge in data center infrastructure hardware imports is masking broader weakness in consumer merchandise sectors across trans-Pacific trade lanes.",
-                "Carriers are strategically blanking sailings to maintain rate stability as demand becomes increasingly unpredictable in the second half of 2026."
+                "The Department of Justice Trade Fraud Task Force has officially surpassed 1 billion dollars in total recoveries, penalties, and forfeited asset valuations.",
+                "CBP is intensifying security protocols at major US ports, significantly increasing the probability of logistical bottlenecks and elevated daily demurrage cost liabilities.",
+                "Federal regulators are now targeting generic pharmaceuticals with a structured roadmap toward 200 percent tariff levies, impacting long-term supply chain planning.",
+                "Manufacturers must immediately audit cross-border compliance documentation to mitigate the risk of seizure and heavy non-compliance financial penalties under new enforcement."
             ],
             "imageUrl": "",
-            "nextUpTease": "US CUSTOMS ENFORCEMENT",
+            "nextUpTease": "CARRIER CAPACITY",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.cbp.gov",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "OCEAN FREIGHT VOLATILITY",
+            "points": [
+                "June US container import volumes achieved a 9 percent annual gain to 2.53 million TEUs, masking underlying weakness in consumer merchandise demand sectors.",
+                "Ocean carriers are implementing emergency bunker adjustment factors to pass soaring fuel costs directly onto shippers amidst spiking global energy prices.",
+                "The Federal Maritime Commission continues to enforce strict detention and demurrage billing standards to ensure freight fluidity and market-wide operational transparency.",
+                "Data center infrastructure hardware imports are sustaining trans-Pacific trade volumes, providing a temporary buffer against broader declines in traditional retail merchant volumes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRUCKING OPERATIONS",
+            "tags": [
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "COMPLIANCE: CUSTOMS ENFORCEMENT",
+            "heading": "TRUCKING MARKET DYNAMICS",
             "points": [
-                "The DOJ Trade Fraud Task Force has officially surpassed $1 billion in total recoveries, signaling a period of hyper-aggressive enforcement actions.",
-                "Importers are facing heightened inspection levels at US ports, directly contributing to increased demurrage risks and operational bottlenecks for intermediaries.",
-                "Federal oversight of ecommerce imports is intensifying as regulators look for systemic violations in low-value shipments and misclassified customs declarations.",
-                "Supply chain managers must audit documentation protocols to prevent exposure to potential forensic audits and heavy civil penalties in 2026."
+                "Federal regulators are accelerating nationwide enforcement blitzes, resulting in increased out-of-service orders for commercial drivers failing safety and regulatory compliance checks.",
+                "Knight-Swift reports a rapid progression in truckload fundamentals during the second quarter, signaling an accelerated tightening of available active lane capacity.",
+                "Increased diesel production by US refiners is struggling to outpace the surge in fuel surcharges, directly impacting carrier profit margins and operational efficiency.",
+                "Industry-wide consolidation is building momentum as mid-year M&A reports indicate significant capacity reductions and business closure trends across for-hire logistics fleets."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS LABOR MARKET",
+            "nextUpTease": "E-COMMERCE COMPLIANCE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LABOR: AUTOMATION & UPSKILLING",
+            "heading": "E-COMMERCE INFRASTRUCTURE",
             "points": [
-                "Logistics management compensation is rebounding significantly, with professionals taking on broader strategic roles in enterprise-wide risk management and digital transformation.",
-                "Warehouse labor turnover remains a persistent threat, prompting firms to integrate AI-driven labor management tools to eliminate excessive manual firefighting.",
-                "President Trump has proposed automatic CDL eligibility for veterans to address the ongoing driver shortage within the national trucking infrastructure.",
-                "Technical upskilling is now a core requirement as companies shift from simple digitization toward complex, AI-driven supply chain orchestration models."
+                "Amazon is aggressively expanding B2B platform features to capture business buyer segments, pressuring third-party sellers to adapt to new automated handling rules.",
+                "USPS implemented a new fee structure for lightweight packages in rural locations, increasing last-mile fulfillment costs for independent online and marketplace sellers.",
+                "eBay is facing intense seller scrutiny after publicizing private second-chance offers, triggering marketplace policy concerns regarding data transparency and platform communication protocols.",
+                "Regulatory bodies are probing potential cross-border manipulation within e-commerce platforms, threatening the future of duty-free access for small-package shipments and marketplace trade."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL DISTRIBUTION TRENDS",
+            "nextUpTease": "WAREHOUSE TECH",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARKETPLACE: RETAIL DISTRIBUTION",
+            "heading": "WAREHOUSE AUTOMATION UPGRADES",
             "points": [
-                "Amazon is aggressively expanding its B2B logistics infrastructure to capture market share from traditional carriers struggling with post-peak season demand.",
-                "Retailers are aggressively resetting distribution strategies in fragmented international markets to mitigate persistent revenue declines and supply chain execution challenges.",
-                "Instacart is enhancing its last-mile fulfillment capabilities through the acquisition of advanced shelf-scanning technology and regional delivery network partnerships.",
-                "E-commerce platforms are facing increased scrutiny from legislative bodies regarding the manipulation of seller accounts and unfair competitive pricing practices."
+                "Industrial real estate vacancy rates stabilized at 7.3 percent in the second quarter as supply and demand dynamics regain historical levels of equilibrium.",
+                "Warehouse operators are increasingly deploying drone-based cycle counting technologies to reduce labor-intensive inventory verification and improve facility-wide operational throughput efficiency metrics.",
+                "Leading logistics firms are shifting from point-solution automation to integrated, software-driven environments to achieve real-time orchestration across complex global distribution node networks.",
+                "RFID package sensing technology is being deployed by major parcel carriers to replace legacy manual scanning and enhance end-to-end shipment visibility metrics."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY INTEGRATION",
+            "nextUpTease": "DIGITAL LOGISTICS",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECH: AI ORCHESTRATION SHIFTS",
+            "heading": "DIGITAL SUPPLY CHAIN ORCHESTRATION",
             "points": [
-                "Supply chain firms are shifting focus from experimental AI pilots to real-world execution within warehouse automation and predictive demand forecasting systems.",
-                "RFID technology is seeing massive adoption across logistics networks to eliminate manual scanning requirements and improve end-to-end package shipment visibility.",
-                "Constraint-based planning software is becoming a critical tool for global biopharmaceutical giants to manage complex inventory movements under geopolitical volatility.",
-                "Data-driven visibility platforms are essential for mitigating the 'supplier sprawl' risk resulting from rapid, uncoordinated global supplier base diversification efforts."
+                "Supply chain leaders are prioritizing investment in agentic AI to manage complex, multi-modal logistics flows and mitigate the risk of human-error-driven operational failures.",
+                "Companies are increasingly facing the issue of supplier sprawl, which forces a re-evaluation of diversification strategies implemented during the recent global supply crisis.",
+                "Digital freight forwarding platforms are integrating AI-driven automated sales agents to power strategic transitions toward fully autonomous commercial booking and pricing engines.",
+                "Scenario-based strategy embedding is becoming the defining characteristic of the Chief Supply Chain Officer role as geopolitical volatility becomes a persistent, unavoidable constant."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
