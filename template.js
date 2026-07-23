@@ -2,89 +2,89 @@ const dailyData = {
     "main": {
         "kicker": "",
         "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "SURGE",
-        "footerSummary": "Escalating tariff frameworks and geopolitical instability at key maritime chokepoints are forcing a mandatory recalibration of global supply chain architecture and risk mitigation."
+        "titleBlue": "SPIKE",
+        "footerSummary": "US trade enforcement expands with aggressive tariffs on Canadian goods and renewed scrutiny of low-value import channels, forcing immediate supply chain recalibration."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: HORMUZ TERMINAL EXPANSION",
+            "heading": "TARIFF ESCALATION: US-CANADA TRADE",
             "points": [
-                "DP World has secured a 50-year concession to develop two new terminals on the UAE east coast.",
-                "This infrastructure project serves as a strategic bypass for the volatile and constrained Strait of Hormuz.",
-                "Global carriers are increasingly prioritizing terminal autonomy to avoid transit bottlenecks and regional geopolitical security risks.",
-                "The expansion provides crucial relief for maritime routes facing heightened insurance premiums and unpredictable vessel traffic."
+                "United States officials have officially implemented 50% tariffs on a wide range of Canadian imports.",
+                "Trade dispute intensity continues to climb as diplomatic bridge-opening events are cancelled by Canadian authorities today.",
+                "Importers must immediately assess duty-free eligibility under USMCA frameworks as new duties override previous agreements.",
+                "Logistics providers should anticipate significant cross-border bottlenecks as cargo undergoes enhanced inspection and revenue collection."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE: TARIFF ENFORCEMENT",
+            "nextUpTease": "MIDDLE EASTERN LOGISTICS SHIFTS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE: US TARIFF ENFORCEMENT ESCALATION",
+            "heading": "MIDDLE EAST: HORMUZ BYPASS STRATEGY",
             "points": [
-                "The Justice Department\u2019s Trade Fraud Task Force has surpassed $1 billion in recovered penalties and forfeitures.",
-                "Federal oversight is intensifying regarding duty evasion and improper classification of imported goods across all sectors.",
-                "Importers must bolster internal compliance protocols to mitigate the rising risk of severe fiscal penalties and audits.",
-                "Enhanced scrutiny of trade documents is now a baseline expectation for maintaining efficient US border clearance operations."
+                "DP World has secured a 50-year concession to develop two container terminals in the UAE.",
+                "Infrastructure investment aims to provide a reliable landbridge bypass for cargo bypassing the Strait of Hormuz.",
+                "Strategic terminal deployment offers ocean carriers a hedge against escalating maritime security risks and conflict flare-ups.",
+                "Regional freight flows are expected to reorient toward these land-linked terminals to ensure continuous throughput."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: AUTOMATION SHIFTS",
+            "nextUpTease": "TRANS-PACIFIC VOLUME DYNAMICS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LOGISTICS: UPS RFID NETWORK ROLLOUT",
+            "heading": "TRANS-PACIFIC: PEAK SEASON CAPACITY",
             "points": [
-                "UPS is deploying radio frequency identification sensors across its U.S. facility and vehicle infrastructure networks.",
-                "This technology transition moves the carrier away from traditional manual scanning towards automated, real-time shipment visibility.",
-                "The integration ensures continuous tracking data from initial pick-up through final delivery for improved operational transparency.",
-                "Shippers gain granular visibility into parcel movement, reducing the latency typically associated with standard logistics tracking updates."
+                "Data center infrastructure and hardware imports are currently sustaining volume levels on major trans-Pacific trade lanes.",
+                "Consumer merchandise sectors exhibit underlying weakness despite the artificial buoyancy provided by industrial tech components.",
+                "Shippers face an emerging capacity pinch at East Coast ports alongside new emergency bunker fuel surcharges.",
+                "Carriers report high vessel utilization rates as frontloading strategies continue to dominate current maritime procurement patterns."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: MARKETPLACE CONSOLIDATION",
+            "nextUpTease": "US CUSTOMS ENFORCEMENT PIVOT",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RETAIL: EBAY DEPOP ACQUISITION",
+            "heading": "CBP ENFORCEMENT: REVENUE RECOVERY",
             "points": [
-                "eBay is acquiring the fashion marketplace Depop from Etsy for a reported $1.2 billion transaction valuation.",
-                "UK regulatory bodies have formally cleared the deal, signaling a consolidation trend within the C2C fashion sector.",
-                "This strategic acquisition aims to expand eBay's market share in niche apparel resale and platform-based demographic targeting.",
-                "Marketplace sellers should expect shifts in fee structures and listing visibility as integration efforts proceed throughout 2026."
+                "US Customs and Border Protection maintains rigorous oversight of trade channels to ensure comprehensive revenue collection standards.",
+                "Operational focus remains on identifying systemic gaps in customs compliance that impact the national trade agenda.",
+                "Recent government notices highlight the systematic liquidation of entries as the agency enforces stricter regulatory compliance.",
+                "Trade entities must prepare for increased audit frequency and potential detention of goods lacking documentation clarity."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: INTERMODAL CAPACITY UPDATE",
+            "nextUpTease": "COMMERCIAL TRUCKING REGULATORY CHANGES",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.cbp.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL: INTERMODAL CHASSIS MODERNIZATION",
+            "heading": "TRUCKING: CDL ELIGIBILITY REFORM",
             "points": [
-                "ITE has expanded its intermodal chassis footprint through the tactical acquisition of NACPC units.",
-                "Capacity optimization continues as stakeholders address lingering equipment gaps within critical rail-linked freight corridors.",
-                "Operators are emphasizing fleet reliability to maintain fluid movement despite fluctuating volumes in the trans-Pacific trade.",
-                "Proactive equipment investment is the primary mitigation strategy against post-pandemic logistics service disruptions in inland regions."
+                "President Trump announced a new proposal granting automatic CDL eligibility for specific categories of military veterans.",
+                "Regulatory shifts seek to address the chronic driver shortage by streamlining the credentialing process for talent.",
+                "Trucking fleets should prepare for rapid assimilation of newly certified drivers into standard intermodal and long-haul networks.",
+                "Safety compliance remains a top-tier priority as enforcement blitzes continue targeting broad violations nationwide across highways."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: FUEL PRICE DYNAMICS",
+            "nextUpTease": "E-COMMERCE PARCEL TAX IMPACT",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -93,34 +93,34 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "ENERGY: DIESEL PRICE VOLATILITY",
+            "heading": "E-COMMERCE: CUSTOMS DUTY DISRUPTION",
             "points": [
-                "National benchmark diesel prices recorded the second-largest weekly increase since the commencement of recent geopolitical conflict.",
-                "Fuel surcharges are expected to spike, placing immediate upward pressure on carrier operating costs and shipper expenditures.",
-                "Refiners are currently prioritizing diesel production output to offset supply constraints driven by international shipping route instability.",
-                "Supply chain managers must recalculate transportation budgets to account for prolonged energy price inflation throughout the year."
+                "European Commission parcel tax proposals seek to create a level playing field for global air cargo flows.",
+                "New customs duty implementation on low-value imports is triggering significant operational friction for e-commerce logistics providers.",
+                "Marketplace sellers are adjusting pricing models to absorb increased tax liabilities on high-volume, low-margin package traffic.",
+                "Strategic shift toward domestic fulfillment hubs is accelerating to avoid border delays and complex duty payment structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECH: WAREHOUSE ROBOTICS",
+            "nextUpTease": "GLOBAL ENERGY FUEL PRICE VOLATILITY",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECH: WAREHOUSE AUTOMATION SCALING",
+            "heading": "ENERGY: FUEL PRICE VOLATILITY",
             "points": [
-                "Leading warehouse operators are shifting toward flexible, software-driven environments utilizing integrated robotics and connectivity.",
-                "Spatial AI and agentic software are replacing traditional point solutions to orchestrate complex fulfillment and inventory management.",
-                "Labor turnover risks are being mitigated through accelerated deployment of automated picking and cycle-counting drone technologies.",
-                "Investment in digital orchestration is becoming a mandatory requirement for maintaining operational competitive advantage in 2026."
+                "Brent crude prices surged 3.3% to $94 per barrel following intensified attacks targeting oil tankers in the region.",
+                "Refiners are aggressively ramping up diesel production to meet escalating demand despite significant geopolitical and operational risks.",
+                "Logistics providers should expect sharp increases in fuel surcharges as energy costs impact the broader transportation sector.",
+                "Supply chain resilience is being tested by concurrent inflationary pressures on both freight capacity and critical energy inputs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
