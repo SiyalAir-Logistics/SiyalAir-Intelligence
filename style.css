@@ -275,14 +275,17 @@ body {
 
 .sub-slide-style .smart-bullets li {
     font-family: var(--font-body);
-    font-size: 36px; 
+    /* UPDATED: Increased font size from 36px to 40px to eliminate vertical dead space while maintaining hierarchy */
+    font-size: 40px; 
     font-weight: 500;
-    line-height: 1.2;
+    /* UPDATED: Increased line-height from 1.2 to 1.4 for an airy, high-end magazine editorial spread */
+    line-height: 1.4;
     letter-spacing: 0px;
     color: rgba(255, 255, 255, 0.95);
     position: relative;
     padding-left: 50px;
-    margin-bottom: 15px;
+    /* UPDATED: Increased margin-bottom from 15px to 28px to naturally fill out the lower-canvas void */
+    margin-bottom: 28px;
     text-align: left;
 }
 
@@ -290,7 +293,8 @@ body {
     content: '▶'; 
     position: absolute;
     left: 0;
-    top: 4px;
+    /* UPDATED: Adjusted top offset from 4px to 2px to align precisely with the larger 40px body text line-box */
+    top: 2px;
     font-size: 22px;
     color: var(--aeon-blue); 
 }
