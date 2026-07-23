@@ -147,7 +147,7 @@ body {
     line-height: 1.3 !important;
     font-weight: 800 !important;
     letter-spacing: -1px !important;
-    text-transform: none !important;
+    text-transform: uppercase !important;
     overflow-wrap: break-word !important;
     word-break: break-word !important;
     color: var(--text-white);
