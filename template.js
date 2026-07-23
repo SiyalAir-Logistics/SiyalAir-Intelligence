@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE PROTECTION",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "US tariffs and Treasury sanctions drive rapid restructuring of international logistics corridors and cross-border regulatory frameworks."
+        "titleWhite": "GLOBAL TRADE FRICTION",
+        "titleBlue": "SURGE",
+        "footerSummary": "Supply chain volatility spikes as US-Canada tariff tensions intensify, forcing shippers to recalibrate inventory strategies and navigate escalating logistics cost structures."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DP WORLD: HORMUZ BYPASS TERMINALS",
+            "heading": "TARIFF ESCALATION: US-CANADA TRADE DISPUTE",
             "points": [
-                "DP World signs a long-term concession to construct two major container terminals in the United Arab Emirates.",
-                "The infrastructure expansion aims to bypass the strategic Strait of Hormuz to safeguard regional ocean freight flows.",
-                "This development shifts regional logistics architecture toward landbridge networks and alternative maritime trade routes in the Gulf.",
-                "Shippers must adapt routing strategies to mitigate geopolitical disruptions and leverage new deepwater port capacity."
+                "United States officials have implemented aggressive 50% tariffs on a broad spectrum of Canadian imports under new trade measures.",
+                "This policy applies strictly to goods regardless of their duty-free status previously granted under the existing trilateral trade agreement.",
+                "Logistics providers are reporting significant disruption as businesses scramble to adjust landed cost models and bypass newly impacted border checkpoints.",
+                "The diplomatic fallout has deepened, exemplified by Canada cancelling a joint infrastructure event celebrating the new Gordie Howe bridge project."
             ],
             "imageUrl": "",
-            "nextUpTease": "US TREASURY SANCTIONS",
+            "nextUpTease": "HORMUZ BYPASS STRATEGY",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "US TREASURY: SEALEAD VESSEL SANCTIONS",
+            "heading": "INFRASTRUCTURE: UAE TERMINAL EXPANSION",
             "points": [
-                "The United States Treasury Department has sanctioned six container vessels operated by Singapore-based carrier SeaLead Shipping.",
-                "These enforcement actions target transport networks allegedly used to bypass international trade restrictions and sanctions programs.",
-                "SeaLead faces severe capacity deployment constraints as maritime insurers and global ports restrict access for sanctioned vessels.",
-                "Global supply chain managers must immediately audit carrier networks to eliminate exposure to sanctioned maritime assets."
+                "DP World has secured a 50-year concession to develop new shipping terminals at Fujairah, bypassing the volatile Strait of Hormuz.",
+                "Strategic positioning outside the maritime chokepoint aims to insulate regional supply chains from geopolitical escalations involving Iran and international tankers.",
+                "The project marks a significant architectural shift in Middle East maritime logistics, prioritizing flow security over traditional transit route dominance.",
+                "Analysts expect the terminal to become a primary transshipment hub for global carriers seeking to hedge against ongoing Persian Gulf insecurity."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ FRAUD RECOVERIES",
+            "nextUpTease": "CARRIER CAPACITY SHIFTS",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -42,66 +42,49 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE",
+            "heading": "OCEAN FREIGHT: DETENTION FEE ENFORCEMENT",
             "points": [
-                "The Department of Justice Trade Fraud Task Force recovered over one billion dollars within its first year.",
-                "Investigations focus on customs evasion, misclassification of goods, and illegal circumvention of anti-dumping and countervailing duties.",
-                "Enhanced multi-agency enforcement significantly raises financial and regulatory risks for importers utilizing non-compliant customs brokers.",
-                "Compliance executives must implement rigorous trade data auditing protocols to survive escalating federal regulatory scrutiny."
+                "The US Court of Appeals for the D.C. Circuit has upheld Federal Maritime Commission mandates regarding detention and demurrage billing.",
+                "Regulators continue to enforce strict conditions ensuring that penalty fees must objectively promote freight fluidity rather than acting as revenue generators.",
+                "Carriers face heightened scrutiny concerning the documentation of charges, as the Commission cracks down on non-compliant practices across port terminals.",
+                "Shipping lines must align billing systems with new administrative standards or face severe financial penalties and federal operational oversight actions."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADIAN IMPORT TARIFFS",
+            "nextUpTease": "US CUSTOMS COMPLIANCE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "US GOVERNMENT: CANADIAN IMPORT TARIFFS",
+            "heading": "REGULATORY: CUSTOMS REVENUE OPERATIONS",
             "points": [
-                "The United States imposed a fifty percent tariff on a wide variety of Canadian industrial imports.",
-                "These emergency Section 338 duties apply even to goods qualifying for duty-free treatment under the USMCA.",
-                "Shippers face immediate margin pressures and must re-evaluate cross-border sourcing strategies across North American manufacturing networks.",
-                "Supply chain planners must prepare for retaliatory trade measures and potential custom clearance bottlenecks at northern borders."
+                "US Customs and Border Protection is aggressively expanding its focus on revenue collection and trade enforcement to bolster national fiscal security.",
+                "The Trade Fraud Task Force recently achieved a major milestone, surpassing $1 billion in total recoveries, penalties, and forfeited illicit cargo losses.",
+                "Importers are being warned that enforcement actions are becoming more granular, targeting undervaluation and improper origin declarations in the electronic entry system.",
+                "Advanced data analytics are now enabling rapid identification of non-compliant patterns, forcing supply chain managers to implement more robust compliance auditing protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU LOW-VALUE PARCEL TAX",
+            "nextUpTease": "DOMESTIC RETAIL LOGISTICS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.cbp.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EUROPEAN UNION: LOW-VALUE PARCEL TAX",
+            "heading": "RETAIL LOGISTICS: E-COMMERCE SHIFTS",
             "points": [
-                "The European Union implemented a three-euro customs duty on low-value e-commerce imports to protect regional markets.",
-                "This de minimis change triggers significant administrative burdens and processing delays for cross-border air cargo volumes.",
-                "E-commerce marketplaces must integrate automated tax calculation engines to manage real-time customs compliance at European gateways.",
-                "Logistics operators expect air cargo pricing models to adjust as consolidation strategies adapt to the parcel tax."
+                "Amazon is aggressively expanding its B2B logistics infrastructure, opening up advanced fulfillment features to third-party sellers ahead of peak season.",
+                "Marketplace competition is intensifying as eBay finalizes the $1.2 billion acquisition of Depop, consolidating fashion e-commerce market share across international borders.",
+                "Retailers are reporting an early peak season shift as companies rush to frontload inventory to mitigate the risk of ongoing trade tariff instability.",
+                "Automated handling time features are becoming mandatory for seller-fulfilled orders, forcing a technical upgrade in how warehouse management systems interface with marketplaces."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS RURAL DELIVERY SURCHARGES",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "USPS: RURAL DELIVERY RATE SURCHARGES",
-            "points": [
-                "The United States Postal Service implemented two-to-three dollar surcharges on lightweight packages sent to rural destinations.",
-                "Online marketplace sellers on platforms like eBay face immediate shipping cost increases for low-value consumer goods.",
-                "This regional pricing adjustment shifts the competitive balance of domestic last-mile delivery services toward alternative carriers.",
-                "E-commerce retailers must optimize fulfillment networks to minimize exposure to high-cost rural zone shipping fees."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "KNIGHT-SWIFT TRUCKLOAD RECOVERY",
+            "nextUpTease": "TRANSPORTATION M&A WAVES",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -109,18 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "KNIGHT-SWIFT: TRUCKLOAD FUNDAMENTALS RECOVERY",
+            "id": 6,
+            "heading": "TRUCKING: CONSOLIDATION AND LABOR",
             "points": [
-                "Knight-Swift reports rapid progression in truckload fundamentals due to ongoing commercial capacity reductions and market cleanup.",
-                "Freight industry analysts expect truckload rate firming to accelerate in September and continue throughout the peak season.",
-                "Carriers are leveraging fleet optimization and digital broker platforms to maximize revenue yields during the market transition.",
-                "Shippers must secure contractual capacity early to avoid elevated spot market exposure during the upcoming crunch."
+                "Freight market volatility is driving widespread industry consolidation, with major mergers and acquisitions accelerating as smaller carriers struggle with tightened margins.",
+                "President Trump has proposed a new initiative to streamline labor shortages by granting automatic commercial driver license eligibility for specific military veterans.",
+                "Commercial vehicle safety blitzes have expanded across multiple US states, resulting in a surge of out-of-service orders for non-compliant fleet operators.",
+                "Diesel price spikes, now at record levels due to regional conflict, continue to squeeze operating budgets for smaller independent trucking firms nationwide."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AUTONOMOUS FREIGHT TECH",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "TECH: AI ORCHESTRATION EVOLUTION",
+            "points": [
+                "Supply chain leaders are transitioning from basic digitization to high-level AI-driven orchestration to manage complex multi-modal logistics networks more effectively.",
+                "Warehouse operations are increasingly deploying spatial and agentic AI tools to combat labor turnover and optimize inventory accuracy across distribution centers.",
+                "Despite aggressive AI adoption, technical experts warn that failing to pilot intelligently or lacking clean data integration leads to stalled ROI for firms.",
+                "Automated forecasting platforms are being tightly integrated with replenishment cycles to close the critical information gap between planning and execution teams."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
