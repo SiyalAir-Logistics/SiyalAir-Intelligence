@@ -2,21 +2,21 @@ const dailyData = {
     "main": {
         "kicker": "",
         "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "SURGES",
-        "footerSummary": "Escalating geopolitical conflicts and rapid tariff implementation are driving structural shifts in global freight routing and domestic supply chain infrastructure resilience."
+        "titleBlue": "SPIKES",
+        "footerSummary": "Escalating geopolitical tensions and new protectionist trade mandates are forcing radical shifts in North American logistics infrastructure and cross-border supply chain operations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFF DISRUPTION: GLOBAL IMPACTS",
+            "heading": "US TRADE: TARIFF ESCALATION IMPACT",
             "points": [
-                "United States officials have implemented significant 50% tariffs on Canadian imports under Section 338 authorities. This trade action persists despite existing duty-free agreements under the United States-Mexico-Canada Agreement frameworks.",
-                "Industrial sectors face immediate cost surges as domestic manufacturers reconcile new duty burdens on raw materials. Supply chain procurement teams must recalibrate landed cost models to account for these aggressive trade interventions.",
-                "President Trump continues to outline future plans for 200% tariffs on generic pharmaceuticals and strategic commodities. These proposed levies aim to force long-term onshoring while creating short-term volatility for pharmaceutical logistics providers.",
-                "Market analysts expect accelerated nearshoring initiatives as companies attempt to bypass escalating trade disputes. Stakeholders should anticipate further tariff-driven capacity shifts across North American cross-border freight corridors."
+                "The U.S. government has initiated 50 percent tariffs on various Canadian imports to address deepening trade disputes across North America.",
+                "These aggressive Section 338 duties apply even to goods previously qualifying for duty-free status under existing trade agreements.",
+                "Logistics providers face urgent rerouting requirements as carriers adjust networks to mitigate the immediate impact of these new levies.",
+                "Importers must rapidly assess their landed costs as the broader trade war significantly complicates North American supply chain predictability."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME LOGISTICS CAPACITY",
+            "nextUpTease": "MIDDLE EAST GEOPOLITICAL RISK",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -25,49 +25,32 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MARITIME OPERATIONS: CAPACITY CRUNCH",
+            "heading": "MIDDLE EAST: STRAIT BYPASS STRATEGY",
             "points": [
-                "Ocean carriers are implementing emergency fuel surcharges as bunker prices climb amid heightened geopolitical tensions in the Middle East. Capacity constraints are intensifying across East Coast port terminals during peak season.",
-                "The U.S. Court of Appeals recently upheld FMC decisions requiring stricter oversight of detention and demurrage billing practices. This regulatory enforcement aims to improve freight fluidity for importers facing equipment shortages.",
-                "Shipping lines are pivoting routes to bypass regional conflicts, including new terminal developments by DP World in the UAE. These strategic infrastructure investments seek to mitigate risks posed by restricted transit zones.",
-                "Data center construction materials are currently monopolizing trans-Pacific capacity, masking volume weakness in standard consumer merchandise. Carriers are capitalizing on high-demand infrastructure freight to maintain elevated rate structures."
+                "DP World is developing two new container terminals in the UAE to provide critical capacity outside the volatile Strait of Hormuz.",
+                "This infrastructure shift allows ocean carriers to circumvent primary regional chokepoints currently facing increased security threats and transit delays.",
+                "Strategic terminal investment aims to preserve global freight fluidity while geopolitical tensions between the U.S. and Iran continue escalating.",
+                "Market analysts expect this port expansion to redefine regional routing options for major international container lines operating in the Gulf."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY AND FUEL VOLATILITY",
+            "nextUpTease": "US CUSTOMS ENFORCEMENT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ENERGY MARKETS: FUEL VOLATILITY",
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
             "points": [
-                "Brent crude prices have surged 3.3% to $94 per barrel following intensified attacks between United States and Iranian forces. Continued regional conflict creates high uncertainty for global maritime bunkering and diesel pricing.",
-                "U.S. refiners are aggressively ramping up diesel production to meet persistent industrial demand and combat rising regional energy costs. These operational adjustments attempt to buffer against anticipated downstream supply chain surcharges.",
-                "Major energy providers are set to capture significant profit premiums as fuel surcharges wallop global shipping and trucking operators. Shippers should prepare for sustained operational cost increases throughout the third quarter cycle.",
-                "The energy shock is rippling through logistics networks, forcing carriers to optimize fuel efficiency to maintain margins. Analysts anticipate further price climbs if tensions in the Strait of Hormuz continue to escalate."
+                "The Department of Justice Trade Fraud Task Force has officially surpassed $1 billion in total recoveries and penalties within one year.",
+                "Strict federal oversight is intensifying for importers and manufacturers as authorities crack down on deceptive documentation and valuation practices.",
+                "Logistics partners are now subject to heightened scrutiny to ensure total compliance with evolving customs transparency and reporting standards.",
+                "Stakeholders must prepare for increased audit frequency as federal agencies prioritize the protection of U.S. market integrity and revenue."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS COMPLIANCE ENFORCEMENT",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "CUSTOMS COMPLIANCE: TASK FORCE",
-            "points": [
-                "The Department of Justice Trade Fraud Task Force has successfully surpassed $1 billion in recovered penalties and forfeitures. This milestone highlights a period of intense federal scrutiny regarding international trade compliance enforcement.",
-                "Importers must bolster internal audit functions to survive rigorous inspections and evolving regulatory demands from border agencies. Operational failures in documentation now carry significantly higher financial risks than in previous cycles.",
-                "CBP continues to prioritize small business outreach and compliance education amid the ongoing America First trade agenda. The focus remains on identifying illicit import patterns that undermine domestic market competitiveness and security.",
-                "Supply chain managers should expect increased demands for data transparency across all international tiers. Maintaining strict adherence to documentation requirements is essential to mitigate potential shipment seizure or civil penalties."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RETAIL FULFILLMENT SHIFTS",
+            "nextUpTease": "TRUCKING INDUSTRY CONSOLIDATION",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -75,16 +58,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "RETAIL INFRASTRUCTURE: EVOLUTION",
+            "id": 4,
+            "heading": "TRUCKING: MARKET CONSOLIDATION TRENDS",
             "points": [
-                "Amazon is aggressively expanding its B2B logistics infrastructure while simultaneously consolidating its fulfillment network to drive regional efficiencies. These shifts force third-party sellers to adapt to new automated handling time requirements.",
-                "Retail giants are leveraging AI-driven inventory accuracy tools to streamline replenishment and reduce holding costs in distribution centers. This technology allows for real-time visibility that is crucial for managing seasonal demand peaks.",
-                "Marketplaces like eBay and Amazon are facing increased regulatory pressure regarding Chinese import manipulation and compliance standards. Future operations will likely require more granular data reporting for all cross-border e-commerce activity.",
-                "Consumer spending forecasts for back-to-school are reaching record highs, yet price sensitivity remains a critical market factor. Retailers are recalibrating logistics strategies to balance rapid delivery expectations against thinning operational margins."
+                "Mid-year reports indicate that capacity reductions are accelerating industry consolidation among major for-hire and specialized truckload carriers.",
+                "Smaller entities face significant operational pressure as larger fleets capture market share through strategic acquisitions and advanced technology integration.",
+                "Tightened capital availability and regulatory compliance burdens are driving a rapid evolution in the competitive landscape of the sector.",
+                "Shippers should anticipate narrowed service provider options as the industry moves toward higher levels of structural vertical integration."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS LABOR DYNAMICS",
+            "nextUpTease": "E-COMMERCE PARCEL SHIFTS",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "USPS: RURAL SHIPPING SURCHARGES",
+            "points": [
+                "The United States Postal Service has implemented new surcharges increasing the cost of lightweight parcel delivery to rural destinations.",
+                "Online marketplace sellers report significant margin compression as shipping expenses for low-value goods escalate under the new pricing model.",
+                "E-commerce businesses are actively seeking alternative last-mile solutions to mitigate the impact on their national fulfillment and distribution strategies.",
+                "Market dynamics are shifting as logistics costs for rural access become a major factor in final checkout profitability calculations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AUTOMATION IN WAREHOUSING",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -93,34 +93,34 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "LOGISTICS LABOR: WORKFORCE RISKS",
+            "heading": "TECHNOLOGY: AI WAREHOUSE ORCHESTRATION",
             "points": [
-                "Warehouse worker turnover remains a critical threat to business continuity, consistently exceeding standard professional sector averages globally. Automation and AI-orchestrated labor management are becoming mandatory for maintaining operational consistency at scale.",
-                "Technological upgrades in warehouse sensing and RFID are replacing manual labor roles to improve throughput and tracking accuracy. This shift signals a long-term transition toward capital-intensive rather than labor-intensive facility management models.",
-                "The industry faces a chronic seafarer shortage that rarely appears on traditional risk dashboards but dictates global freight movement. Failing to account for human capital constraints creates significant vulnerability for international maritime supply chains.",
-                "Companies are increasingly forced to invest in internal workforce development through specialized training to secure technical talent. Upskilling initiatives are now central to ensuring reliable operations in an era of rapid technological adoption."
+                "Warehouse operations are increasingly deploying agentic AI to manage complex labor requirements and reduce reliance on manual process cycles.",
+                "Leading facilities utilize spatial intelligence to optimize real-time inventory visibility and streamline order fulfillment accuracy across various consumer segments.",
+                "Automation investments are now prioritizing flexible, software-driven connectivity over rigid point solutions to better handle fluctuating inventory demands.",
+                "Operations leaders are successfully scaling robotics to alleviate resource constraints and improve overall supply chain throughput during peak volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARKET CONSOLIDATION TRENDS",
+            "nextUpTease": "OCEAN FREIGHT CAPACITY",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARKET CONSOLIDATION: LOGISTICS",
+            "heading": "OCEAN: TRANS-PACIFIC CAPACITY PINCH",
             "points": [
-                "Truckload carrier fundamentals are showing rapid progression as capacity cleanup efforts fuel bullish outlooks among major transportation firms. Market consolidation is accelerating as smaller operators struggle with mounting compliance and fuel costs.",
-                "Logistics M&A activity is building momentum as larger 3PLs acquire specialized assets to expand their domestic service footprints. These strategic acquisitions aim to create integrated networks that can handle diverse, high-frequency e-commerce distribution needs.",
-                "Intermodal rail chassis fleets are undergoing critical tests as West Coast import volumes rise to levels unseen since 2022. Infrastructure gaps are re-emerging, signaling a potential for localized bottlenecks during the coming peak season.",
-                "Carriers are exiting underperforming segments, such as LTL terminal closures, to focus on routes that offer higher profitability. Stakeholders must monitor these network shifts to ensure their current service providers remain viable partners."
+                "U.S. importers are experiencing a significant capacity crunch on East Coast routes as peak season cargo volumes begin to intensify.",
+                "Carriers are implementing emergency fuel surcharges to offset rising bunker prices and increased operational costs across major trade lanes.",
+                "Data center hardware shipments remain a key driver of trans-Pacific volume, effectively masking weakness in standard consumer merchandise demand.",
+                "Industry experts warn of persistent port congestion risks as high utilization rates strain existing terminal infrastructure and drayage network capacity."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
