@@ -8,6 +8,7 @@ on:
       - 'post.txt'     # Block the bot from triggering itself on text updates
       - 'download/**'  # Block the bot from looping on its own image updates
       - 'bg_tracker.txt' # Block the bot from looping on background tracker state updates
+      - 'follow_tracker.txt' # Block the bot from looping on follow-up tracker state updates
   workflow_dispatch:
   schedule:
     - cron: '16 * * * *'  # Single Primary Precise Hourly Trigger (Exactly once per hour)
@@ -89,14 +90,54 @@ jobs:
           print(f"Dynamic Background Rotation: Found {max_backgrounds} total backgrounds. Rotated tracker: {current_val} -> {next_val}")
           EOF
 
-          # 4. Stage template.js, post.txt, and the dynamically updated background tracking state file
-          git add template.js post.txt bg_tracker.txt
+          # 3.1. Dynamically rotate and increment follow-up slide tracker state automatically
+          python - << 'EOF'
+          import os
+          import glob
+
+          follow_tracker_file = "follow_tracker.txt"
+          
+          # Scan followup folder dynamically to find total available follow-up slides
+          follow_files = glob.glob("followup/Slide9-*.png")
+          valid_follow_indices = []
+          for f in follow_files:
+              filename = os.path.basename(f)
+              num_part = filename.replace("Slide9-", "").replace(".png", "")
+              if num_part.isdigit():
+                  valid_follow_indices.append(int(num_part))
+
+          max_followups = max(valid_follow_indices) if valid_follow_indices else 1
+
+          # Read current tracker value
+          try:
+              if os.path.exists(follow_tracker_file):
+                  with open(follow_tracker_file, "r", encoding="utf-8") as f:
+                      current_follow_val = int(f.read().strip())
+              else:
+                  current_follow_val = 1
+          except Exception:
+              current_follow_val = 1
+
+          # Determine next rotation step
+          if current_follow_val >= max_followups:
+              next_follow_val = 1
+          else:
+              next_follow_val = current_follow_val + 1
+
+          # Write updated index back
+          with open(follow_tracker_file, "w", encoding="utf-8") as f:
+              f.write(str(next_follow_val))
+          print(f"Dynamic Follow-up Rotation: Found {max_followups} total follow slides. Rotated tracker: {current_follow_val} -> {next_follow_val}")
+          EOF
+
+          # 4. Stage template.js, post.txt, and the dynamically updated tracking state files
+          git add template.js post.txt bg_tracker.txt follow_tracker.txt
           
           # 5. Verify structural differences cleanly without stashing or merging files
           if ! git diff --cached --quiet; then
             
             # 6. Commit using the protected perimeter safety tag [skip ci]
-            git commit -m "Automated Hourly Update & BG Rotation: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
+            git commit -m "Automated Hourly Update & Dynamic Rotation: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
             
             # 7. Force clean push directly into the remote target branch
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
@@ -104,7 +145,7 @@ jobs:
             # 8. Set tracking variable for email and screenshot phase
             echo "PUSH_SUCCESS=true" >> $GITHUB_ENV
           else
-            echo "No changes detected in template.js, post.txt, or background tracker. Skipping push payload sequence to prevent loops."
+            echo "No changes detected in template.js, post.txt, or tracker files. Skipping push payload sequence to prevent loops."
             echo "PUSH_SUCCESS=false" >> $GITHUB_ENV
           fi
 
