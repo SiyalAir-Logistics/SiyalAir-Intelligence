@@ -125,7 +125,7 @@ function fitText(element, maxHeight, maxWidth) {
     }
 }
 
-function switchSlide(id, element) {
+async function switchSlide(id, element) {
     document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
     if (element) element.classList.add('active');
     
@@ -172,7 +172,25 @@ function switchSlide(id, element) {
                 <div class="swipe-prompt">SWIPE NEXT →</div>`;
     } else if (id === 'follow') {
         canvas.className = 'main-hook-style cta-slide';
-        html = `<div class="content-body">
+        
+        // Dynamically fetch active follow-up slide index from follow_tracker.txt
+        let followIndex = 1;
+        try {
+            const trackerRes = await fetch('follow_tracker.txt?t=' + Date.now());
+            if (trackerRes.ok) {
+                const text = await trackerRes.text();
+                const parsedNum = parseInt(text.trim());
+                if (!isNaN(parsedNum) && parsedNum > 0) {
+                    followIndex = parsedNum;
+                }
+            }
+        } catch (e) {
+            console.log("Follow tracker read defaulted, using Slide9-1.png");
+        }
+
+        const followAssetUrl = `followup/slide9-${followIndex}.png`;
+
+        html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;">
                 <span class="kicker">GLOBAL FREIGHT CONVERSION MATRIX</span>
                 <header><h1 class="auto-fit">SCAN. CONNECT. <span class="last-word-blue">FORWARD.</span></h1></header>
                 <div class="bulletin-container"><div class="bulletin-label">SIYAL AIR LOGISTICS NETWORKS</div>
@@ -276,7 +294,7 @@ async function downloadAllSlides() {
 
     try {
         for (const slideId of queue) {
-            switchSlide(slideId, null);
+            await switchSlide(slideId, null);
             await new Promise(resolve => setTimeout(resolve, 80));
 
             const rendered = await html2canvas(canvas, { 
@@ -302,7 +320,7 @@ async function downloadAllSlides() {
         console.error("Bulk Processing Error:", err);
         alert("Bulk download failed. Verify pipeline file system links.");
     } finally {
-        switchSlide(originalId, originalActiveTab);
+        await switchSlide(originalId, originalActiveTab);
         dlBtn.innerText = "DOWNLOAD ALL SLIDES";
         dlBtn.disabled = false;
     }
