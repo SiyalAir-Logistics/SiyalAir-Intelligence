@@ -2,89 +2,72 @@ const dailyData = {
     "main": {
         "kicker": "",
         "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "ACCELERATES",
-        "footerSummary": "New fifty percent tariffs on Canadian imports disrupt USMCA corridors, forcing immediate supply chain restructuring to avoid severe margin erosion."
+        "titleBlue": "SURGE",
+        "footerSummary": "Escalating tariff frameworks and geopolitical instability at key maritime chokepoints are forcing a mandatory recalibration of global supply chain architecture and risk mitigation."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US GOVERNMENT: CANADIAN TARIFF ENFORCEMENT",
+            "heading": "MARITIME: HORMUZ TERMINAL EXPANSION",
             "points": [
-                "The United States imposed a restrictive fifty percent tariff on diverse imports originating from Canadian trade corridors.",
-                "New duties apply immediately to previously exempt materials despite active United States-Mexico-Canada Agreement trade frameworks.",
-                "Importers must quickly restructure North American supply lines to avoid severe margin erosion from border duties.",
-                "Automotive and agricultural logistics operations will experience significant cost increases over the coming financial quarters."
+                "DP World has secured a 50-year concession to develop two new terminals on the UAE east coast.",
+                "This infrastructure project serves as a strategic bypass for the volatile and constrained Strait of Hormuz.",
+                "Global carriers are increasingly prioritizing terminal autonomy to avoid transit bottlenecks and regional geopolitical security risks.",
+                "The expansion provides crucial relief for maritime routes facing heightened insurance premiums and unpredictable vessel traffic."
             ],
             "imageUrl": "",
-            "nextUpTease": "DP WORLD: HORMUZ BYPASS EXPANSION",
+            "nextUpTease": "TRADE: TARIFF ENFORCEMENT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DP WORLD: HORMUZ BYPASS EXPANSION",
+            "heading": "TRADE: US TARIFF ENFORCEMENT ESCALATION",
             "points": [
-                "DP World signed a fifty-year concession to construct two container terminals on the eastern coast of UAE.",
-                "The infrastructure bypasses the volatile Strait of Hormuz to establish direct overland connectivity with Jebel Ali.",
-                "Global ocean carriers gain secure alternative routes to safeguard vital energy and consumer cargo transport lanes.",
-                "Middle Eastern logistics networks will prioritize terrestrial rail links to buffer against maritime chokepoint disruptions."
+                "The Justice Department\u2019s Trade Fraud Task Force has surpassed $1 billion in recovered penalties and forfeitures.",
+                "Federal oversight is intensifying regarding duty evasion and improper classification of imported goods across all sectors.",
+                "Importers must bolster internal compliance protocols to mitigate the rising risk of severe fiscal penalties and audits.",
+                "Enhanced scrutiny of trade documents is now a baseline expectation for maintaining efficient US border clearance operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: DETENTION FEE FLUIDITY RULE",
+            "nextUpTease": "LOGISTICS: AUTOMATION SHIFTS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FMC: DETENTION FEE FLUIDITY RULE",
+            "heading": "LOGISTICS: UPS RFID NETWORK ROLLOUT",
             "points": [
-                "The United States Court of Appeals upheld federal rules forcing ocean carriers to justify demurrage fees.",
-                "Carriers cannot levy administrative penalties unless charges directly encourage prompt container return and port fluidity.",
-                "Shippers obtain stronger regulatory leverage to contest unfair billing practices during periods of severe port congestion.",
-                "Maritime operators will reform invoice systems to maintain compliant documentation for demurrage and detention assessments."
+                "UPS is deploying radio frequency identification sensors across its U.S. facility and vehicle infrastructure networks.",
+                "This technology transition moves the carrier away from traditional manual scanning towards automated, real-time shipment visibility.",
+                "The integration ensures continuous tracking data from initial pick-up through final delivery for improved operational transparency.",
+                "Shippers gain granular visibility into parcel movement, reducing the latency typically associated with standard logistics tracking updates."
             ],
             "imageUrl": "",
-            "nextUpTease": "EUROPEAN UNION: DE MINIMIS ELIMINATION",
+            "nextUpTease": "RETAIL: MARKETPLACE CONSOLIDATION",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "EUROPEAN UNION: DE MINIMIS ELIMINATION",
+            "heading": "RETAIL: EBAY DEPOP ACQUISITION",
             "points": [
-                "The European Union implemented a strict three euro customs duty targeting low-value e-commerce package imports.",
-                "Eliminating the historical de minimis threshold imposes new customs clearance obligations on cross-border retail shipments.",
-                "Air cargo hubs at Liege and Vatry are adjusting physical processing capacities for massive compliance documentation.",
-                "Digital marketplaces must integrate automated tax calculation engines to prevent shipment delays at European borders."
+                "eBay is acquiring the fashion marketplace Depop from Etsy for a reported $1.2 billion transaction valuation.",
+                "UK regulatory bodies have formally cleared the deal, signaling a consolidation trend within the C2C fashion sector.",
+                "This strategic acquisition aims to expand eBay's market share in niche apparel resale and platform-based demographic targeting.",
+                "Marketplace sellers should expect shifts in fee structures and listing visibility as integration efforts proceed throughout 2026."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: DIGITAL SECURITY COMPLIANCE",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "USPS: DIGITAL SECURITY COMPLIANCE",
-            "points": [
-                "The United States Postal Service mandated comprehensive password security upgrades for all commercial shipping portals.",
-                "Non-compliant business accounts risk immediate lockout and disruption of carrier pickup scheduling by July deadline.",
-                "Security protocols are being enhanced alongside physical deployments of smart lockers to secure localized retail transactions.",
-                "Small business logistics operators will adopt secondary verification systems to manage multi-user postal shipping profiles securely."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME REGISTRY: VESSEL REFLAGGING SHIFT",
+            "nextUpTease": "RAIL: INTERMODAL CAPACITY UPDATE",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -92,35 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MARITIME REGISTRY: VESSEL REFLAGGING SHIFT",
+            "id": 5,
+            "heading": "RAIL: INTERMODAL CHASSIS MODERNIZATION",
             "points": [
-                "More than one hundred container vessels initiated reflagging procedures to exit the Panamanian maritime registry.",
-                "The rapid shift represents a strategic response to Chinese regulatory actions targeting vessels registered under Panama.",
-                "Shipowners are migrating assets to neutral international registries to preserve uninhibited access to major global tradeways.",
-                "Maritime compliance managers will experience increased administrative overhead as vessel registration transitions alter global routing protocols."
+                "ITE has expanded its intermodal chassis footprint through the tactical acquisition of NACPC units.",
+                "Capacity optimization continues as stakeholders address lingering equipment gaps within critical rail-linked freight corridors.",
+                "Operators are emphasizing fleet reliability to maintain fluid movement despite fluctuating volumes in the trans-Pacific trade.",
+                "Proactive equipment investment is the primary mitigation strategy against post-pandemic logistics service disruptions in inland regions."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRANSPACIFIC TRADE: INFRASTRUCTURE CARGO SURGE",
+            "nextUpTease": "ENERGY: FUEL PRICE DYNAMICS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ENERGY: DIESEL PRICE VOLATILITY",
+            "points": [
+                "National benchmark diesel prices recorded the second-largest weekly increase since the commencement of recent geopolitical conflict.",
+                "Fuel surcharges are expected to spike, placing immediate upward pressure on carrier operating costs and shipper expenditures.",
+                "Refiners are currently prioritizing diesel production output to offset supply constraints driven by international shipping route instability.",
+                "Supply chain managers must recalculate transportation budgets to account for prolonged energy price inflation throughout the year."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TECH: WAREHOUSE ROBOTICS",
+            "tags": [
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRANSPACIFIC TRADE: INFRASTRUCTURE CARGO SURGE",
+            "heading": "TECH: WAREHOUSE AUTOMATION SCALING",
             "points": [
-                "Transpacific ocean and air cargo volumes remain elevated due to specialized data center infrastructure imports.",
-                "Shipments of server components mask underlying market weakness in standard consumer retail and manufacturing sectors.",
-                "Technology companies are frontloading critical hardware assets ahead of anticipated tariff adjustments and trade constraints.",
-                "High-value technology cargo will continue dominating premium shipping space, keeping container spot rates artificially inflated."
+                "Leading warehouse operators are shifting toward flexible, software-driven environments utilizing integrated robotics and connectivity.",
+                "Spatial AI and agentic software are replacing traditional point solutions to orchestrate complex fulfillment and inventory management.",
+                "Labor turnover risks are being mitigated through accelerated deployment of automated picking and cycle-counting drone technologies.",
+                "Investment in digital orchestration is becoming a mandatory requirement for maintaining operational competitive advantage in 2026."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
