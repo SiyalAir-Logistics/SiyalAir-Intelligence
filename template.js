@@ -1,21 +1,21 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT SHIFT",
-        "titleBlue": "VOLATILITY",
-        "footerSummary": "Escalating geopolitical instability and energy prices are forcing a rapid re-evaluation of global supply chain networks and carrier transit reliability for 2026."
+        "titleWhite": "GLOBAL TRADE VOLATILITY",
+        "titleBlue": "RISES",
+        "footerSummary": "Savage tariff hikes and severe geopolitical sea route disruptions trigger a cascade of multi-carrier capacity crunches and operational surcharges worldwide."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL SURCHARGES",
+            "heading": "US CUSTOMS: CANADA IMPORT TARIFFS",
             "points": [
-                "MSC and CMA CGM reintroduce transit surcharges due to water level constraints.",
-                "Additional fees directly inflate landed costs for trans-Pacific container transit.",
-                "Carriers are shifting capacity strategies to mitigate ongoing environmental risk."
+                "US imposes a 50% Section 338 tariff on a wide array of Canadian imports.",
+                "Duties apply even to goods qualifying for duty-free status under the USMCA.",
+                "Shippers must audit regional supply chains and recalculate cross-border costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY PRICE VOLATILITY",
+            "nextUpTease": "PANAMA CANAL: TRANSIT RESTRICTIONS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -24,30 +24,14 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ENERGY: FUEL PRICE SPIKES",
+            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS",
             "points": [
-                "Brent crude exceeds $100 per barrel following Red Sea tanker disruptions.",
-                "Shipping and logistics operators face immediate, unpredictable operational overhead.",
-                "Supply chain leaders must factor energy volatility into Q4 routing decisions."
+                "Panama Canal Authority introduces transit limits to prepare for El Ni\u00f1o weather.",
+                "Carriers MSC and CMA CGM levy fresh Panama Canal surcharges to offset capacity.",
+                "Logisticians must secure space early or pivot cargo to alternative ocean lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER MARKET ADJUSTMENTS",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "FREIGHT: KUEHNE+NAGEL MARKET SHIFT",
-            "points": [
-                "Global freight giants adjust scale and strategy amid AI-driven cost inflation.",
-                "Operational budgets are tightening as companies pivot toward asset-light models.",
-                "Strategic focus on market share gains in road and air units is intensifying."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "US CUSTOMS ENFORCEMENT",
+            "nextUpTease": "FEDEX: 2026 PEAK FEES",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -55,31 +39,15 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "COMPLIANCE: TRADE FRAUD TASK FORCE",
+            "id": 3,
+            "heading": "FEDEX: 2026 PEAK FEES",
             "points": [
-                "DOJ Trade Fraud Task Force recoveries surpass $1 billion in annual penalties.",
-                "Heightened scrutiny on import declarations increases audit risk for importers.",
-                "Strict regulatory compliance is now a prerequisite for supply chain stability."
+                "FedEx releases its 2026 peak season surcharge schedule with elevated rates.",
+                "Shippers face significantly higher home delivery prices than the previous peak.",
+                "Retailers must optimize regional fulfillment hubs to minimize high-cost zones."
             ],
             "imageUrl": "",
-            "nextUpTease": "LAST MILE CONSTRAINTS",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "LOGISTICS: USMCA TARIFF IMPACT",
-            "points": [
-                "New 50% Section 338 duties applied to Canadian imports despite existing pacts.",
-                "Cross-border friction creates immediate bottlenecks for manufacturing supply.",
-                "Importers are forced to re-calculate landed costs for North American trade."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RAIL INFRASTRUCTURE TEST",
+            "nextUpTease": "RED SEA: TANKER ENCELIA ATTACK",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -87,33 +55,65 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "INTERMODAL: CHICAGO RAIL CHALLENGES",
+            "id": 4,
+            "heading": "RED SEA: TANKER ENCELIA ATTACK",
             "points": [
-                "Chicago chassis fleets face first significant post-pandemic operational test.",
-                "Equipment gaps are emerging as West Coast import volumes exert new pressure.",
-                "Intermodal recovery strategies are required to maintain inland throughput."
+                "Houthis strike the Saudi-owned tanker Encelia in the Red Sea, causing a ship fire.",
+                "Crude oil prices surge past $100 per barrel, driving up maritime fuel surcharges.",
+                "Ocean operators must brace for prolonged routing diversions around South Africa."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL INVENTORY SHIFTS",
+            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS IPO",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychainbrain.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "KUEHNE+NAGEL: APEX LOGISTICS IPO",
+            "points": [
+                "Kuehne+Nagel weighs selling a stake or launching an IPO for its Apex Logistics unit.",
+                "Rising AI-related operational cost inflation threatens overall freight margins.",
+                "Enterprise shippers must monitor forwarding consolidation for service changes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS: RURAL DELIVERY SURCHARGE",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "USPS: RURAL DELIVERY SURCHARGE",
+            "points": [
+                "USPS implements a rate increase for lightweight packages sent to rural addresses.",
+                "Sellers face an extra $2 to $3 in shipping costs per lightweight rural parcel.",
+                "E-commerce brands should renegotiate regional parcel carrier mix to offset costs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "US DOJ: TRADE FRAUD CRACKDOWN",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "E-COMMERCE: USPS RURAL PRICING",
+            "heading": "US DOJ: TRADE FRAUD CRACKDOWN",
             "points": [
-                "USPS rate adjustments increase shipping costs for rural parcel deliveries.",
-                "Lightweight package margins are tightening for small-scale online retailers.",
-                "E-commerce distribution models require immediate re-optimization to compensate."
+                "The DOJ Trade Fraud Task Force surpasses $1 billion in total monetary recoveries.",
+                "Enforcement targets customs evasion, incorrect classification, and duty avoidance.",
+                "Compliance officers must rigorously audit import documentation and product origins."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
