@@ -1,69 +1,69 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "Global Logistics Energy",
-        "titleBlue": "Volatility",
-        "footerSummary": "Escalating geopolitical tensions in the Middle East drive crude oil past $100/barrel, forcing immediate rerouting and aggressive tariff-driven shifts in global trade supply networks."
+        "titleWhite": "Global Trade Friction",
+        "titleBlue": "Escalates",
+        "footerSummary": "Escalating Red Sea tensions and aggressive U.S. tariff expansion are forcing carriers to restructure trans-oceanic lanes while shippers face rising landed-cost volatility."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ENERGY: CRUDE PRICE SHOCK",
+            "heading": "RED SEA: INFRASTRUCTURE THREAT",
             "points": [
-                "Brent crude surges past $100/barrel following tanker incidents in the Red Sea.",
-                "Surging fuel surcharges are significantly inflating operational costs for long-haul.",
-                "Carriers are implementing emergency surcharges to offset rapidly shifting fuel costs."
+                "Houthi strikes on Saudi tankers in the Red Sea disrupt critical trade corridors.",
+                "Vessel rerouting increases transit times and drives $100/bbl energy surcharges.",
+                "Carriers must pivot to bypass routes, escalating global ocean freight volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL CONSTRAINTS",
+            "nextUpTease": "TARIFFS & TRADE",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: CANAL RESTRICTIONS",
+            "heading": "TRUMP TARIFFS: POLICY SHIFTS",
             "points": [
-                "Panama Canal Authority reintroduces transit restrictions due to fluctuating levels.",
-                "Blank sailings and capacity constraints are creating predictable transit friction.",
-                "Shippers must adjust inventory lead times to account for canal transit unpredictability."
+                "Administration imposes 50% duties on Canadian imports and 200% on pharmaceuticals.",
+                "Tariff complexity creates significant landed-cost calculation friction for importers.",
+                "Strategy must shift to domestic production hedging to mitigate trade levies."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFF ENFORCEMENT SURGE",
+            "nextUpTease": "PANAMA CANAL",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "COMPLIANCE: TRADE ENFORCEMENT",
+            "heading": "PANAMA CANAL: CAPACITY CRUNCH",
             "points": [
-                "DOJ Trade Fraud Task Force recoveries exceed $1 billion since August 2025 launch.",
-                "Increased scrutiny on import valuation and country-of-origin misclassification risks.",
-                "Importers must bolster audit trails to mitigate growing federal enforcement actions."
+                "MSC and CMA CGM implement new surcharges due to re-imposed draft restrictions.",
+                "Operational constraints reduce throughput capacity, forcing cargo into lane shifts.",
+                "Shippers must account for variable water-level fees in Q3 logistics budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER CONSOLIDATION TRENDS",
+            "nextUpTease": "FREIGHT FORWARDING",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "STRATEGY: FORWARDER CONSOLIDATION",
+            "heading": "KUEHNE+NAGEL: ASSET STRATEGY",
             "points": [
-                "Kuehne+Nagel signals potential exit from its Apex Logistics unit after valuation.",
-                "Market leaders are aggressively pursuing divestment to optimize core operational focus.",
-                "Consolidation strategy points to a high-signal retreat from mid-market scale plays."
+                "K+N weighs potential divestment of Apex Logistics unit following $4B valuation.",
+                "Market focus shifts toward core profit margin optimization amidst AI-cost surges.",
+                "Consolidation signals a trend of large forwarders offloading non-core segments."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS RATE ADJUSTMENTS",
+            "nextUpTease": "US CUSTOMS ENFORCEMENT",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -72,48 +72,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "PARCEL: USPS COST SHIFTS",
+            "heading": "CBP: TRADE COMPLIANCE",
             "points": [
-                "USPS implements $2-$3 surcharges for lightweight packages destined for rural zones.",
-                "Ecommerce sellers face immediate margin compression on low-cost shipping lanes.",
-                "Marketplace sellers are pivoting to regional carrier alternatives to preserve margins."
+                "Justice Department task force achieves $1B milestone in trade fraud recoveries.",
+                "Increased scrutiny on cross-border documentation creates higher compliance risk.",
+                "Importers must audit supply chain origin data to avoid retroactive penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL INFRASTRUCTURE PIVOT",
+            "nextUpTease": "RAIL CONSOLIDATION",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAIL: TRANSCONTINENTAL MERGERS",
+            "heading": "UP/CN: NETWORK INTEGRATION",
             "points": [
-                "Union Pacific secures CN support for a proposed transcontinental rail acquisition.",
-                "Proposed network consolidation threatens to concentrate critical inland market power.",
-                "Supply chain managers should prepare for potential long-term rate volatility surges."
+                "Union Pacific and CN confirm MoU to enable expanded transcontinental rail access.",
+                "Consolidation seeks to alleviate inland congestion but concentrates market power.",
+                "Shippers must evaluate secondary rail options to hedge against rate inflation."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE EMISSIONS RULES",
+            "nextUpTease": "AI LOGISTICS IMPACT",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EQUIPMENT: EMISSIONS UPGRADE",
+            "heading": "TECH: AI ORCHESTRATION",
             "points": [
-                "Cummins staggers MY-2027 engine releases to comply with new EPA NOx regulations.",
-                "OEM supply chain constraints on new hardware will impact fleet replacement cycles.",
-                "Planning for tighter emission standards is now a primary capital expenditure driver."
+                "Industry shifts from pilot projects to agentic AI in warehouse management.",
+                "High turnover in labor fuels rapid integration of autonomous fulfillment tech.",
+                "Operational continuity depends on successful human-AI workforce upskilling."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
