@@ -190,13 +190,7 @@ async function switchSlide(id, element) {
 
         const followAssetUrl = `followup/slide9-${followIndex}.png`;
 
-        html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;">
-                <span class="kicker">GLOBAL FREIGHT CONVERSION MATRIX</span>
-                <header><h1 class="auto-fit">SCAN. CONNECT. <span class="last-word-blue">FORWARD.</span></h1></header>
-                <div class="bulletin-container"><div class="bulletin-label">SIYAL AIR LOGISTICS NETWORKS</div>
-                <p class="cta-subtext">Scan the link infrastructure to capture real-time freight routing solutions, cross-border customs advisory, and spot market contract structures.</p></div>
-                <div class="barcode-target-zone"></div>
-                </div>`;
+        html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
     } else {
         const index = id - 1;
         const slide = dailyData.slides[index];
