@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE LOGISTICS",
-        "titleBlue": "PIVOT",
-        "footerSummary": "Trade volatility drives terminal development outside Hormuz while tariff escalations force rapid supply chain reconfiguration as retailers and logistics providers battle record-high border friction."
+        "titleWhite": "Global Trade Risk",
+        "titleBlue": "Pulse",
+        "footerSummary": "Escalating geopolitical instability in the Red Sea and new U.S. tariff mandates are driving acute volatility across trans-Pacific freight and domestic supply networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DP WORLD: HORMUZ STRATEGY",
+            "heading": "RED SEA: INFRASTRUCTURE DEFLECTION",
             "points": [
-                "DP World has secured a 50-year concession to develop two container terminals in the UAE.",
-                "This infrastructure initiative is designed to bypass the Strait of Hormuz to ensure trade stability.",
-                "The project marks a significant strategic shift toward regional autonomy in maritime freight connectivity.",
-                "Global shippers view this bypass as a long-term hedge against escalating geopolitical Middle East risks."
+                "Houthis launched targeted strikes on tankers near Saudi Arabia, forcing an immediate rerouting of critical regional energy and container traffic lanes.",
+                "Shipping giants are re-evaluating maritime security as conflict expansion threatens to choke major transit arteries previously considered stable for global trade.",
+                "Increased risk profiles are triggering surge surcharges across maritime carriers, directly inflating landed costs for importers dependent on critical Middle East hubs.",
+                "Industry stakeholders must anticipate significant schedule reliability degradation as vessels bypass traditional routes to avoid high-risk zones in the Strait of Hormuz."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFF IMPACTS",
+            "nextUpTease": "U.S. TARIFF ESCALATION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "US TARIFFS: TRADE FRICTION",
+            "heading": "U.S. TARIFFS: DOMESTIC IMPACT",
             "points": [
-                "New 50 percent tariffs on Canadian imports signal aggressive US trade policy shifts for 2026.",
-                "Logistics providers are reporting increased border compliance costs following the recent federal mandates.",
-                "Exporters face heightened duty-free qualification complexity despite existing USMCA trade agreements.",
-                "Market analysts expect these measures to accelerate long-term nearshoring and regional supply chain diversification."
+                "The U.S. government imposed 50 percent duties on Canadian goods, disrupting integrated supply chains that rely on cross-border North American trade fluidity.",
+                "Trade authorities are signaling a long-term shift toward restrictive import policies, specifically targeting generic pharmaceuticals and automotive components from international markets.",
+                "Importers face immediate margin compression as firms scramble to adjust procurement strategies ahead of further anticipated trade deficit reduction measures.",
+                "Logistics providers are reporting increased friction at border checkpoints, slowing transit times for critical raw materials across industrial manufacturing networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER CAPACITY",
+            "nextUpTease": "CHINA MARKET RESTRUCTURING",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -42,85 +42,85 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MARITIME: CAPACITY CRUNCH",
+            "heading": "CHINA: AUTOMOTIVE MARKET PIVOT",
             "points": [
-                "Peak season volumes are currently masking underlying weakness in consumer goods demand and spending.",
-                "Data center infrastructure components are sustaining trans-Pacific ocean freight volumes amid retail volatility.",
-                "Emergency fuel surcharges are being implemented across major carriers as bunker prices show spikes.",
-                "Ocean capacity management remains tight as carriers focus on blank sailings to maintain rates."
+                "Nike and other major retailers are aggressively resetting distribution models in China as weakening regional consumer demand impacts global revenue growth forecasts.",
+                "Legislative bodies are probing potential data manipulation and security risks linked to Chinese-manufactured autonomous vehicle technology within U.S. borders.",
+                "New regulatory scrutiny is creating structural hurdles for foreign firms attempting to maintain operational footprint amid hardening geopolitical and economic trade barriers.",
+                "Supply chain architects must now account for increased compliance costs when navigating shifting operational dynamics within the Chinese manufacturing and retail ecosystem."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING UPDATES",
+            "nextUpTease": "MARITIME CAPACITY MANAGEMENT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRUCKING: SECTOR CONSOLIDATION",
+            "heading": "MARITIME: CAPACITY AND SURCHARGES",
             "points": [
-                "Knight-Swift reports optimistic outlooks driven by significant truckload capacity cleanup over Q2 2026.",
-                "Commercial vehicle enforcement blitzes are increasing nationwide, resulting in broad safety violation reports.",
-                "Rising diesel fuel surcharges are tightening margins for smaller carriers operating in high-volume corridors.",
-                "Industry experts anticipate further M&A activity as freight market fundamentals improve toward peak season."
+                "Ocean carriers are implementing hefty emergency fuel and capacity surcharges in response to surging demand in Indian markets and operational flux.",
+                "Frontloading strategies on trans-Pacific and Asia-Europe trades have stabilized ship utilization, though blank sailings remain a tool for managing rate volatility.",
+                "Port operators are expanding global footprint through aggressive 50-year terminal concessions, signaling long-term commitment to infrastructure development despite current global instability.",
+                "Shippers face a complex landscape where carrier profitability growth increasingly relies on dynamic fee adjustments rather than raw volume expansion alone."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI LOGISTICS",
+            "nextUpTease": "CARRIER OPERATIONAL TURMOIL",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TECH: AI ORCHESTRATION",
+            "heading": "SEA-LEAD: REGULATORY SANCTIONS",
             "points": [
-                "Warehouse operations are shifting from basic digitization toward agentic AI-driven supply chain orchestration.",
-                "Supply chain leaders are increasingly deploying autonomous inventory robots to resolve labor constraint issues.",
-                "Integration of AI into fleet safety management creates granular visibility into driver behavioral performance.",
-                "Enterprises are prioritizing constraint-based planning software to improve resilience against current supply disruptions."
+                "U.S. Treasury sanctions against six vessels linked to SeaLead have effectively crippled the Singapore-based carrier's ability to maintain existing operational capacity.",
+                "Enforcement actions underscore a tightening regulatory environment for maritime intermediaries caught violating international trade compliance and maritime safety standards.",
+                "The removal of these vessels creates immediate, localized capacity gaps on key shipping lanes, forcing cargo owners to find alternative logistics providers.",
+                "Freight forwarders are conducting deep audits of partner carriers to mitigate secondary sanction risks following this latest crackdown on non-compliant operators."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL SUPPLY",
+            "nextUpTease": "TRUCKING INDUSTRY CONSOLIDATION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RETAIL: E-COMMERCE SHIFT",
+            "heading": "TRUCKING: MARKET CONSOLIDATION",
             "points": [
-                "Amazon is aggressively expanding B2B features to capture market share from traditional wholesale competitors.",
-                "US consumer sentiment remains cautious, impacting retail inventory turnover and regional distribution center throughput.",
-                "Marketplace sellers face stricter compliance rules for handling times and shipping transparency protocols.",
-                "Retail logistics networks are currently optimizing for higher reverse logistics efficiency and cost control."
+                "Freight carriers are increasingly engaging in M&A activities as capacity reductions drive industry consolidation to improve regional operational margin efficiencies.",
+                "New federal proposals for automatic CDL eligibility for veterans seek to alleviate chronic driver shortages impacting domestic last-mile and regional trucking capacity.",
+                "Fuel price volatility continues to pressure for-hire carrier profitability, leading to increased reliance on index-based fuel surcharges to protect operational cash flow.",
+                "Logistics managers are observing tightening equipment availability as intermodal chassis units move toward greater centralization and acquisition by strategic industrial partners."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDERAL OVERSIGHT",
+            "nextUpTease": "E-COMMERCE COMPLIANCE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FMC: REGULATORY ENFORCEMENT",
+            "heading": "E-COMMERCE: COMPLIANCE HURDLES",
             "points": [
-                "Federal Maritime Commission continues to prioritize detention and demurrage compliance for port fluidity.",
-                "Task forces are scaling up penalties against carriers involved in systemic international trade violations.",
-                "New regulatory oversight aims to protect US shippers from unfair and deceptive maritime practices.",
-                "Compliance with updated FMC statutes is now mandatory for maintaining secure global ocean trade."
+                "Amazon is aggressively ramping up its parcel handling and B2B volume capabilities to capitalize on shifting service levels at traditional integrators like UPS.",
+                "European authorities are implementing new customs duties on low-value e-commerce imports, significantly increasing transactional friction for cross-border digital retail supply chains.",
+                "Marketplaces like eBay are expanding fashion portfolios through high-value acquisitions, forcing logistics providers to integrate specialized omnichannel fulfillment solutions at scale.",
+                "Sellers face heightened scrutiny regarding package declaration and hazard classification as USPS and other carriers enforce stricter compliance and non-compliance fee structures."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
