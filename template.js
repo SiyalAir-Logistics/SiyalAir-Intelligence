@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DECODING GLOBAL LOGISTICS",
-        "titleBlue": "FRICTION",
-        "footerSummary": "Escalating geopolitical sanctions, protective trade tariffs, and strategic bypass routing are rapidly fragmenting global logistics networks and inflating operational compliance costs."
+        "titleWhite": "GLOBAL TRADE PROTECTION",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "US tariffs and Treasury sanctions drive rapid restructuring of international logistics corridors and cross-border regulatory frameworks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SEALEAD SHIPPING: CAPACITY HOBLING SANCTIONS",
+            "heading": "DP WORLD: HORMUZ BYPASS TERMINALS",
             "points": [
-                "The United States Treasury Department sanctioned six additional vessels operated by Singapore-based ocean carrier SeaLead Shipping.",
-                "This targeted regulatory action severely restricts the struggling ocean line from deploying critical maritime shipping capacity.",
-                "Global freight networks must adapt to tightening Western geopolitical enforcement mechanisms targeting suspected shadow fleet operations.",
-                "Shippers should immediately evaluate alternative vessel networks to mitigate sudden container rollings and transit disruptions."
+                "DP World signs a long-term concession to construct two major container terminals in the United Arab Emirates.",
+                "The infrastructure expansion aims to bypass the strategic Strait of Hormuz to safeguard regional ocean freight flows.",
+                "This development shifts regional logistics architecture toward landbridge networks and alternative maritime trade routes in the Gulf.",
+                "Shippers must adapt routing strategies to mitigate geopolitical disruptions and leverage new deepwater port capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "DP WORLD: STRAIT OF HORMUZ BYPASS",
+            "nextUpTease": "US TREASURY SANCTIONS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DP WORLD: STRAIT OF HORMUZ BYPASS",
+            "heading": "US TREASURY: SEALEAD VESSEL SANCTIONS",
             "points": [
-                "DP World secured a fifty-year concession with Fujairah Ports Authority to build two major terminals.",
-                "The strategic maritime infrastructure project aims to securely bypass the increasingly volatile and high-risk Strait of Hormuz.",
-                "Ongoing military conflicts in the Middle East drive port operators to construct proactive regional overland transport alternatives.",
-                "Global ocean carriers will likely route critical cargo through Fujairah to safeguard fragile energy supply corridors."
+                "The United States Treasury Department has sanctioned six container vessels operated by Singapore-based carrier SeaLead Shipping.",
+                "These enforcement actions target transport networks allegedly used to bypass international trade restrictions and sanctions programs.",
+                "SeaLead faces severe capacity deployment constraints as maritime insurers and global ports restrict access for sanctioned vessels.",
+                "Global supply chain managers must immediately audit carrier networks to eliminate exposure to sanctioned maritime assets."
             ],
             "imageUrl": "",
-            "nextUpTease": "EUROPEAN UNION: DE MINIMIS PARCEL TAX",
+            "nextUpTease": "DOJ FRAUD RECOVERIES",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -42,32 +42,15 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "EUROPEAN UNION: DE MINIMIS PARCEL TAX",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE",
             "points": [
-                "The European Union has proposed introducing a mandatory three-euro customs duty on low-value e-commerce package imports.",
-                "This policy shift eliminates traditional de minimis thresholds and causes significant congestion across European air cargo hubs.",
-                "Global retail marketplaces must restructure their international clearance procedures to accommodate direct-to-consumer taxation updates.",
-                "Logistics providers will experience increased processing times and higher compliance costs for high-volume consumer goods shipments."
+                "The Department of Justice Trade Fraud Task Force recovered over one billion dollars within its first year.",
+                "Investigations focus on customs evasion, misclassification of goods, and illegal circumvention of anti-dumping and countervailing duties.",
+                "Enhanced multi-agency enforcement significantly raises financial and regulatory risks for importers utilizing non-compliant customs brokers.",
+                "Compliance executives must implement rigorous trade data auditing protocols to survive escalating federal regulatory scrutiny."
             ],
             "imageUrl": "",
-            "nextUpTease": "US JUSTICE DEPARTMENT: TRADE FRAUD CRACKDOWN",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "US JUSTICE DEPARTMENT: TRADE FRAUD CRACKDOWN",
-            "points": [
-                "The United States Department of Justice Trade Fraud Task Force recovered over one billion dollars in penalties.",
-                "Enforcement efforts targeting customs evasion and duty loopholes have dramatically accelerated since the division was launched.",
-                "Importers face unprecedented scrutiny over product classification, forcing supply chains to prioritize highly detailed compliance audits.",
-                "Cross-border enterprises must prepare for randomized federal audits and potential seizure risks on high-volume inbound freight."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "USPS: RURAL DELIVERY PRICING SURCHARGE",
+            "nextUpTease": "CANADIAN IMPORT TARIFFS",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -75,35 +58,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "USPS: RURAL DELIVERY PRICING SURCHARGE",
+            "id": 4,
+            "heading": "US GOVERNMENT: CANADIAN IMPORT TARIFFS",
             "points": [
-                "The United States Postal Service announced a two to three dollar surcharge on lightweight rural packages.",
-                "Online marketplace sellers face immediate margin compression when shipping low-cost goods to far-flung domestic destinations.",
-                "Rising operational costs in remote delivery networks are forcing national postal carriers to adjust localized pricing structures.",
-                "Small e-commerce businesses will likely shift volume toward regional courier networks to mitigate escalating final mile fees."
+                "The United States imposed a fifty percent tariff on a wide variety of Canadian industrial imports.",
+                "These emergency Section 338 duties apply even to goods qualifying for duty-free treatment under the USMCA.",
+                "Shippers face immediate margin pressures and must re-evaluate cross-border sourcing strategies across North American manufacturing networks.",
+                "Supply chain planners must prepare for retaliatory trade measures and potential custom clearance bottlenecks at northern borders."
             ],
             "imageUrl": "",
-            "nextUpTease": "US GOVERNMENT: CANADIAN TARIFF IMPACTS",
+            "nextUpTease": "EU LOW-VALUE PARCEL TAX",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "EUROPEAN UNION: LOW-VALUE PARCEL TAX",
+            "points": [
+                "The European Union implemented a three-euro customs duty on low-value e-commerce imports to protect regional markets.",
+                "This de minimis change triggers significant administrative burdens and processing delays for cross-border air cargo volumes.",
+                "E-commerce marketplaces must integrate automated tax calculation engines to manage real-time customs compliance at European gateways.",
+                "Logistics operators expect air cargo pricing models to adjust as consolidation strategies adapt to the parcel tax."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS RURAL DELIVERY SURCHARGES",
+            "tags": [
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "US GOVERNMENT: CANADIAN TARIFF IMPACTS",
+            "heading": "USPS: RURAL DELIVERY RATE SURCHARGES",
             "points": [
-                "The United States implemented aggressive fifty percent Section 338 tariffs on a wide range of Canadian imports.",
-                "These sweeping levies apply to cross-border shipments regardless of their existing duty-free status under the USMCA.",
-                "Heightened geopolitical tensions have severely strained trade relations and led to the cancellation of joint infrastructure events.",
-                "Procurement teams must immediately diversify raw material sourcing to insulate production lines from soaring import costs."
+                "The United States Postal Service implemented two-to-three dollar surcharges on lightweight packages sent to rural destinations.",
+                "Online marketplace sellers on platforms like eBay face immediate shipping cost increases for low-value consumer goods.",
+                "This regional pricing adjustment shifts the competitive balance of domestic last-mile delivery services toward alternative carriers.",
+                "E-commerce retailers must optimize fulfillment networks to minimize exposure to high-cost rural zone shipping fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "KNIGHT-SWIFT: TRUCKLOAD FUNDAMENTALS RECOVERY",
+            "nextUpTease": "KNIGHT-SWIFT TRUCKLOAD RECOVERY",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -112,10 +112,10 @@ const dailyData = {
             "id": 7,
             "heading": "KNIGHT-SWIFT: TRUCKLOAD FUNDAMENTALS RECOVERY",
             "points": [
-                "Knight-Swift Transportation reported rapid improvements in domestic truckload market fundamentals during the second quarter of twenty-twenty-six.",
-                "Regulatory capacity cleanups and ongoing carrier exits are driving a accelerated market correction heading into peak season.",
-                "Sustained reductions in active driver pools have stabilized truckload pricing and positioned major assets for stronger volumes.",
-                "Shippers should secure contract freight capacity early to avoid localized spot rate spikes beginning this September."
+                "Knight-Swift reports rapid progression in truckload fundamentals due to ongoing commercial capacity reductions and market cleanup.",
+                "Freight industry analysts expect truckload rate firming to accelerate in September and continue throughout the peak season.",
+                "Carriers are leveraging fleet optimization and digital broker platforms to maximize revenue yields during the market transition.",
+                "Shippers must secure contractual capacity early to avoid elevated spot market exposure during the upcoming crunch."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
