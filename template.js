@@ -1,56 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CROSS-BORDER FREIGHT",
-        "titleBlue": "DECOUPLING",
-        "footerSummary": "New United States tariffs on Canadian goods and expanding DOJ customs enforcement actions signal a volatile era of cross-border regulatory compliance."
+        "titleWhite": "CROSS-BORDER COMPLIANCE",
+        "titleBlue": "SHIFT",
+        "footerSummary": "Global supply chains tighten under new 50% Canadian tariffs, federal maritime fee mandates, and strategic Middle East transport detours."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DOJ TASK FORCE: TRADE FRAUD RECOVERIES",
+            "heading": "FMC: DEMURRAGE REGULATORY VICTORY",
             "points": [
-                "The Department of Justice Trade Fraud Task Force recovered one billion dollars in penalties since inception.",
-                "Global manufacturers face heightened scrutiny as enforcement actions target customs valuation and import classification errors.",
-                "Supply chain audits must expand to mitigate substantial financial risks from systemic trade compliance failures.",
-                "Shippers should implement robust documentation protocols to prevent disruptive cargo seizures at United States ports."
+                "Federal courts upheld regulatory standards mandating detention and demurrage fees explicitly incentivize active cargo movement.",
+                "Ocean carriers face stringent documentation rules to justify administrative charges levied on terminal shipping containers.",
+                "Regulatory oversight intensifies as ocean terminals must align invoice parameters with absolute chassis and container availability.",
+                "Importers gain significant legal leverage to dispute arbitrary port charges through streamlined formal federal cargo complaints."
             ],
             "imageUrl": "",
-            "nextUpTease": "US TREASURY: SEALEAD CAPACITY SANCTIONS",
+            "nextUpTease": "WHITE HOUSE: PHARMACEUTICAL TARIFF VOLATILITY",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "US TREASURY: SEALEAD CAPACITY SANCTIONS",
+            "heading": "WHITE HOUSE: PHARMACEUTICAL TARIFF VOLATILITY",
             "points": [
-                "The United States Treasury sanctioned six SeaLead container vessels, severely restricting global ocean freight capacity.",
-                "Shippers must rapidly re-route affected container volumes to avoid cargo arrests and lengthy regulatory delays.",
-                "This enforcement action underscores escalating geopolitical friction points impacting secondary non-alliance maritime operators.",
-                "Marine insurers and freight forwarders are actively auditing fleet networks to eliminate sanctioned vessel exposure."
+                "Executive trade mandates outline new two hundred percent tariffs targeting generic pharmaceutical imports after two years.",
+                "Pharmaceutical manufacturers face rapid supply chain relocation pressures to preserve tax-free status on global shipments.",
+                "Active pharmaceutical ingredient sourcing must transition to domestic production networks to mitigate impending fiscal exposure.",
+                "Importers project substantial wholesale price increases on imported medical compounds due to shifting duty framework guidelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "DP WORLD: HORMUZ BYPASS EXPANSION",
+            "nextUpTease": "DEPT OF TREASURY: SEALEAD VESSEL SANCTIONS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DP WORLD: HORMUZ BYPASS EXPANSION",
+            "heading": "DEPT OF TREASURY: SEALEAD VESSEL SANCTIONS",
             "points": [
-                "DP World secured a fifty-year concession to construct two new container terminals in Fujairah.",
-                "This infrastructure development allows ocean carriers to completely bypass volatile transit routes through Strait of Hormuz.",
-                "Global logistics networks gain resilient alternative lanes securing Middle Eastern trade flows from regional military threats.",
-                "Shippers will experience stabilized ocean freight transit times despite ongoing geopolitical escalations within Persian Gulf."
+                "Federal authorities sanctioned six cargo vessels operated by SeaLead Shipping due to non-compliant global trade relationships.",
+                "Maritime slot sharing agreements face immediate operational disruption as shippers reroute containers away from blockaded hulls.",
+                "Global container lines reassess joint services to prevent secondary trade penalties from Western regulatory enforcement operations.",
+                "Vessel tracking software must update risk compliance protocols to flag transshipments involving these specific blacklisted hulls."
             ],
             "imageUrl": "",
-            "nextUpTease": "US CUSTOMS: CANADIAN IMPORT TARIFFS",
+            "nextUpTease": "DP WORLD: STRAIT OF HORMUZ BYPASS",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -59,32 +59,15 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "US CUSTOMS: CANADIAN IMPORT TARIFFS",
+            "heading": "DP WORLD: STRAIT OF HORMUZ BYPASS",
             "points": [
-                "The United States imposed new fifty percent tariffs on an extensive array of Canadian imports.",
-                "These Section 338 duties apply even to goods previously qualifying for USMCA duty-free trade status.",
-                "Cross-border supply chains face immediate cost increases, disrupting automotive and agricultural manufacturing integration.",
-                "Logistics managers must restructure North American procurement networks to offset significant regional tariff compliance costs."
+                "Terminal operators finalized a fifty year agreement to construct new ocean cargo container terminals outside Hormuz.",
+                "New port developments bypass critical maritime chokepoints to ensure continuous transit routes for volatile regional shipments.",
+                "Overland rail link developments connect the new infrastructure directly to deepwater docks on the Arabian Gulf.",
+                "Cargo shipping networks gain enhanced resilience against localized regional geopolitical disruptions and maritime security threats."
             ],
             "imageUrl": "",
-            "nextUpTease": "EUROPEAN UNION: DE MINIMIS TAXATION",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "EUROPEAN UNION: DE MINIMIS TAXATION",
-            "points": [
-                "The European Union introduced a mandatory three-euro customs duty targeting low-value e-commerce parcel imports.",
-                "This policy eliminates historical de minimis tax exemptions, creating a level playing field for domestic retailers.",
-                "International air cargo networks expect significant clearance congestion at European gateway airports during peak season.",
-                "E-commerce sellers must update customs documentation systems to handle individual parcel duty payments seamlessly."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "US GOVERNMENT: PHARMACEUTICAL TARIFFS",
+            "nextUpTease": "DEPT OF JUSTICE: ANTI-FRAUD CRACKDOWN",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -92,16 +75,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "US GOVERNMENT: PHARMACEUTICAL TARIFFS",
+            "id": 5,
+            "heading": "DEPT OF JUSTICE: ANTI-FRAUD CRACKDOWN",
             "points": [
-                "Plans for a two hundred percent tariff on generic pharmaceutical imports have been mapped out.",
-                "Duty-free status will continue for two years before the steep tariff hikes are fully enforced.",
-                "Healthcare supply chains must initiate domestic manufacturing onshoring efforts to prevent severe medical supply shortages.",
-                "Importers face complex dual-track sourcing strategies to balance immediate cost efficiency against future regulatory liabilities."
+                "Federal investigators recovered over one billion dollars targeting deliberate customs valuation fraud and illegal transshipment schemes.",
+                "Importers face systematic audit reviews checking classification accuracy and country of origin filings for high-risk commodities.",
+                "Specialized enforcement units prioritize investigating foreign trade zone activities to neutralize active duty evasion operations.",
+                "Global logistics operators must update compliance programs to verify supplier declarations before presenting entry documents."
             ],
             "imageUrl": "",
-            "nextUpTease": "EBAY: DEPOP ACQUISITION COMPLETED",
+            "nextUpTease": "WHITE HOUSE: SECTION 338 TARIFFS",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "WHITE HOUSE: SECTION 338 TARIFFS",
+            "points": [
+                "New trade policies impose fifty percent tariffs on Canadian imports regardless of active USMCA duty-free classifications.",
+                "Cross-border industrial manufacturing networks must rapidly recalculate land transport costs for raw materials and components.",
+                "Customs authorities began executing immediate collection of import duties on various industrial goods at border stations.",
+                "Shippers anticipate immediate border clearance delays as processing terminals struggle with new tariff collection administrative demands."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "EUROPEAN UNION: E-COMMERCE TAX OVERHAUL",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "EBAY: DEPOP ACQUISITION COMPLETED",
+            "heading": "EUROPEAN UNION: E-COMMERCE TAX OVERHAUL",
             "points": [
-                "United Kingdom regulators approved eBay's one point two billion dollar acquisition of Depop from Etsy.",
-                "This strategic consolidation enhances eBay's market share within the rapidly expanding consumer-to-consumer fashion sector.",
-                "Integrating Depop's platform allows eBay to leverage advanced peer-to-peer transaction technologies for global trade.",
-                "Marketplace sellers will see shifts in platform fees and unified cross-border logistics shipping options."
+                "Regulatory frameworks implement a flat three euro customs fee for historically exempt low-value online retail imports.",
+                "Small package cargo hubs experience immediate processing bottlenecks due to manual tax verification requirements on arrivals.",
+                "International air logistics carriers modify parcel manifest systems to capture dynamic value declarations at origin facilities.",
+                "Consumer goods brands shift warehousing operations inland to manage bulk custom clearances before final package delivery."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
