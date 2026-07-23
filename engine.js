@@ -173,7 +173,6 @@ async function switchSlide(id, element) {
     } else if (id === 'follow') {
         canvas.className = 'main-hook-style cta-slide';
         
-        // Dynamically fetch active follow-up slide index from follow_tracker.txt
         let followIndex = 1;
         try {
             const trackerRes = await fetch('follow_tracker.txt?t=' + Date.now());
@@ -198,9 +197,7 @@ async function switchSlide(id, element) {
         if (slide) {
             let bulletList = "";
             if (Array.isArray(slide.points)) {
-                const combinedText = slide.points.join(' ');
-                const sentences = combinedText.split('. ').filter(s => s.trim().length > 0);
-                bulletList = sentences.map(s => `<li>${s.trim().replace(/\.$/, '')}</li>`).join('');
+                bulletList = slide.points.map(pt => `<li>${pt.trim().replace(/\.$/, '')}</li>`).join('');
             } else if (slide.content) {
                 const sentences = slide.content.split('. ').filter(s => s.trim().length > 0);
                 bulletList = sentences.map(s => `<li>${s.trim().replace(/\.$/, '')}</li>`).join('');
