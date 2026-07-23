@@ -1,874 +1,451 @@
 /* --- UNIVERSAL FONT SETUP: SIYIAL AIR --- */
 
 @font-face {
-
     font-family: 'MyriadPro';
-
     src: url('fonts/MYRIADPRO-REGULAR.OTF') format('opentype');
-
     font-weight: normal;
-
     font-style: normal;
-
 }
-
-
 
 :root {
-
     --bg-black: #050505;
-
     /* SIYIAL AIR BRAND COLOR */
-
     --aeon-blue: rgba(1, 231, 231, 0.6) !important;
-
     --aeon-red: #ff0000;
-
     --text-white: #ffffff;
-
     --accent-gray: rgba(255, 255, 255, 0.1);
-
     
-
     /* UNIVERSAL FONT ASSIGNMENT */
-
     --font-title: 'MyriadPro', sans-serif;
-
     --font-body: 'MyriadPro', sans-serif;
 
-
-
     /* GLOBAL PADDING VARIABLES FOR EASY ADJUSTMENT */
-
     --main-padding-top: 100px;
-
     --main-padding-bottom: 200px;
-
     --sub-padding-top: 140px;
-
     --sub-padding-bottom: 200px;
-
-    --cta-padding-top: 340px;
-
-    --cta-padding-bottom: 200px;
-
+    --cta-padding-top: 100px;
+    --cta-padding-bottom: 60px;
 }
-
-
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
-
-
 body {
-
     background-color: #1a1a1a;
-
     font-family: var(--font-body);
-
     display: flex;
-
     flex-direction: column;
-
     align-items: center;
-
     color: var(--text-white);
-
 }
-
-
 
 /* --- RENDER CANVAS BASE --- */
-
 #post-canvas {
-
     width: 1080px;
-
     height: 1350px;
-
     display: flex;
-
     overflow: hidden;
-
     position: relative;
-
     background-image: url('assets/background.png');
-
     background-size: cover;
-
     background-position: center;
-
     background-color: var(--bg-black);
-
     container-type: inline-size;
-
 }
-
-
 
 .content-body {
-
     position: absolute;
-
     top: 0;
-
     left: 0;        
-
     width: 100%; 
-
     height: 100%;
-
     display: flex;
-
     flex-direction: column;
-
     z-index: 2;
-
     text-align: left;
-
 }
-
-
 
 /* ==========================================================================
-
    SEGMENT 1: MAIN SLIDE (Hook Style)
-
    ========================================================================== */
 
-
-
-.main-hook-style .content-body {
-
+.main-hook-style:not(.cta-slide) .content-body {
     padding-top: 300px;
-
     padding-left: 100px; /* UPDATED: Adjusted to match right padding as per screenshot */
-
     padding-right: 100px;
-
     padding-bottom: 100px;
-
     max-height: 1120px;
-
     overflow: hidden;
-
     display: flex;
-
     flex-direction: column;
-
     justify-content: center;
-
     align-items: flex-start;
-
     text-align: left;
-
 }
-
-
 
 .main-hook-style .logo-container {
-
     width: 100%;
-
     display: flex;
-
     justify-content: flex-start;
-
     align-items: center;
-
     margin-bottom: 20px;
-
     padding: 0;
-
 }
-
-
 
 .main-hook-style .brand-logo {
-
     height: 80px;
-
     width: auto;
-
     object-fit: contain;
-
 }
-
-
 
 .main-hook-style .kicker {
-
     font-family: var(--font-body) !important;
-
     color: #ffffff;
-
     font-size: 30px;
-
     font-weight: 600;
-
     letter-spacing: 2px;
-
     line-height: 2;
-
     text-transform: none;
-
     margin-bottom: 40px;
-
     text-align: left;
-
     padding: 0;
-
 }
-
-
 
 .main-hook-style header h1 {
-
     font-family: var(--font-title) !important;
-
     margin-bottom: 30px; 
-
     text-align: left;
-
     padding: 0;
-
     display: flex;
-
     flex-direction: column;
-
     align-items: flex-start;
-
     width: 100%;
-
     max-width: 880px; /* UPDATED: Adjusted max-width to fill the balanced padding */
-
 }
-
-
 
 /* DYNAMIC 2-LINER FOOTER PLACEHOLDER - FIXED POSITIONING */
-
 .footer-paragraph-placeholder {
-
     width: 100%;
-
     max-width: 880px; /* UPDATED: Adjusted max-width to fill the balanced padding */
-
     margin-top: 30px; 
-
     margin-bottom: 100px; 
-
     font-family: var(--font-body);
-
     font-size: 32px;
-
     line-height: 1.3;
-
     color: #ffffff;
-
     text-transform: none; 
-
     z-index: 5;
-
 }
-
-
 
 /* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
-
 .main-hook-style header h1 span, 
-
 .main-hook-style header h1 div {
-
     display: inline-block !important;
-
     transform: scaleY(1.8);
-
     transform-origin: left;
-
     font-size: clamp(80px, 12cqw, 140px) !important; 
-
     line-height: 1.3 !important;
-
     font-weight: 800 !important;
-
     letter-spacing: -1px !important;
-
     text-transform: none !important;
-
     overflow-wrap: break-word !important;
-
     word-break: break-word !important;
-
     color: var(--text-white);
-
     text-align: left;
-
     margin-bottom: 15px;
-
 }
-
-
 
 /* Force the very last word in the layout container to turn dark blue */
-
 .main-hook-style header h1 span:last-child,
-
 .main-hook-style header h1 div:last-child,
-
 .main-hook-style header h1 .last-word-blue {
-
     color: var(--aeon-blue) !important;
-
     margin-bottom: 0px;
-
 }
-
-
 
 .main-hook-style .bulletin-container {
-
     margin-top: 20px;
-
     max-width: 100%;
-
     flex: 0 1 auto; 
-
     display: flex;
-
     flex-direction: column;
-
     padding: 0;
-
 }
-
-
 
 .main-hook-style .bulletin-label {
-
     font-family: var(--font-title);
-
     font-size: clamp(25px, 4cqw, 40px);
-
     font-weight: 700;
-
     letter-spacing: 1px;
-
     line-height: 1;
-
     color: var(--aeon-blue);
-
     margin-bottom: 20px; 
-
     text-transform: none;
-
 }
-
-
 
 .main-hook-style .bulletin-list {
-
     list-style: none;
-
     max-height: 1200px;
-
     overflow: hidden;
-
 }
-
-
 
 .main-hook-style .bulletin-list li {
-
     font-family: var(--font-body);
-
     font-size: clamp(20px, 3cqw, 28px); 
-
     font-weight: 500;
-
     color: #ffffff;
-
     letter-spacing: 0.5px;
-
     line-height: 1; 
-
     margin-bottom: 10px; 
-
     text-transform: none;
-
     display: flex;
-
     align-items: center;
-
 }
-
-
 
 .main-hook-style .bulletin-list li .num {
-
     color: var(--aeon-blue);
-
     font-weight: 700;
-
     margin-right: 20px;
-
 }
 
-
-
 /* ==========================================================================
-
    SEGMENT 2: MIDDLE SLIDES (Sub-Slide Style)
-
    ========================================================================== */
-
-
 
 .sub-slide-style .content-body {
-
     padding-top: var(--sub-padding-top);
-
     padding-left: 100px;  
-
     padding-right: 100px; 
-
     padding-bottom: 60px; 
-
     max-height: 1220px;      
-
     overflow: hidden;
-
     text-align: left;
-
 }
-
-
 
 .sub-slide-style header {
-
     min-height: 250px; 
-
     display: flex;
-
     flex-direction: column;
-
     justify-content: flex-start;
-
     margin-bottom: 20px;
-
 }
-
-
 
 .sub-slide-style header h1 {
-
     font-family: var(--font-title) !important;
-
     font-size: clamp(50px, 7cqw, 85px) !important;
-
     display: -webkit-box !important;
-
     -webkit-line-clamp: 2 !important; 
-
     -webkit-box-orient: vertical !important;
-
     overflow: hidden !important;
-
     word-break: break-word !important;
-
     font-weight: 800 !important;
-
     line-height: 1.1 !important; 
-
     letter-spacing: 0px !important;
-
     margin-bottom: 15px; 
-
     text-transform: none !important;
-
     text-align: left;
-
 }
-
-
 
 .sub-slide-style header h1 .last-word-blue {
-
     color: var(--aeon-blue) !important;
-
 }
-
-
 
 .sub-slide-style .header-divider {
-
     width: 140px;
-
     height: 8px;
-
     background: var(--aeon-blue);
-
     margin-bottom: 20px;
-
 }
-
-
 
 .sub-slide-style .slide-summary, 
-
 .sub-slide-style .slide-projection {
-
     font-family: var(--font-body);
-
     font-size: 10px; 
-
     font-weight: 500;
-
     line-height: 1.4;
-
     color: #ffffff;
-
     margin-bottom: 1px;
-
     text-align: left;
-
 }
-
-
 
 .sub-slide-style .smart-bullets {
-
     list-style: none;
-
     margin-top: 0;
-
 }
-
-
 
 .sub-slide-style .smart-bullets li {
-
     font-family: var(--font-body);
-
     font-size: 36px; 
-
     font-weight: 500;
-
     line-height: 1.2;
-
     letter-spacing: 0px;
-
     color: rgba(255, 255, 255, 0.95);
-
     position: relative;
-
     padding-left: 50px;
-
     margin-bottom: 15px;
-
     text-align: left;
-
 }
-
-
 
 .sub-slide-style .smart-bullets li::before {
-
     content: '▶'; 
-
     position: absolute;
-
     left: 0;
-
     top: 4px;
-
     font-size: 22px;
-
     color: var(--aeon-blue); 
-
 }
-
-
 
 .next-up-tease {
-
     position: absolute;
-
     bottom: 135px;
-
     right: 100px;
-
     text-align: right;
-
     font-family: var(--font-title);
-
     font-size: 22px;
-
     color: #ffffff;
-
     text-transform: uppercase;
-
     letter-spacing: 2px;
-
     font-weight: 700;
-
 }
 
-
-
 /* ==========================================================================
-
-   SEGMENT 3: FINAL SLIDE (CTA Style)
-
+   SEGMENT 3: FINAL SLIDE (CTA Style) - FULLY INDEPENDENT FIX
    ========================================================================== */
 
-
+.cta-slide {
+    display: flex !important;
+    flex-direction: column !important;
+    position: relative !important;
+}
 
 .cta-slide .content-body {
-
-    padding-top: var(--cta-padding-top);
-
-    padding-left: 100px;
-
-    padding-right: 100px;
-
-    padding-bottom: var(--cta-padding-bottom);
-
-    max-height: 1120px;
-
-    overflow: hidden;
-
-    display: flex;
-
-    flex-direction: column;
-
-    justify-content: flex-start;
-
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    padding-top: var(--cta-padding-top) !important;
+    padding-left: 100px !important;
+    padding-right: 100px !important;
+    padding-bottom: var(--cta-padding-bottom) !important;
+    max-height: 1350px !important;
+    overflow: visible !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: flex-start !important;
+    background-size: cover !important;
+    background-position: center !important;
 }
-
-
 
 .cta-slide header h1 {
-
     font-family: var(--font-title);
-
     font-size: clamp(410px, 44cqw, 650px);
-
     font-weight: 900;
-
     line-height: 1; 
-
     letter-spacing: -3px;
-
     margin-bottom: 60px;
-
     text-transform: none;
-
     display: flex; 
-
     flex-direction: column; 
-
     white-space: nowrap !important;
-
     word-break: keep-all !important;
-
     overflow-wrap: normal !important;
-
 }
-
-
 
 .cta-slide header h1 span {
-
     display: block; 
-
 }
-
-
 
 .cta-slide header h1 .last-word-blue {
-
     color: var(--aeon-blue);
-
     display: block;
-
     white-space: nowrap !important;
-
 }
-
-
 
 .cta-slide .cta-subtext {
-
     font-family: var(--font-body);
-
     font-size: 25px;
-
     font-weight: 500;
-
     line-height: 1.5;
-
     letter-spacing: 0.5px;
-
     color: rgba(255, 255, 255, 0.8);
-
     max-width: 95%;
-
     margin-top: 10px;
-
 }
-
-
 
 .cta-slide .cta-footer-actions {
-
     margin-top: auto; 
-
     width: 100%;
-
     display: flex;
-
     justify-content: space-between;
-
     align-items: center;
-
     padding-top: 40px;
-
     border-top: 1px solid var(--aeon-blue);
-
 }
-
-
 
 .cta-slide .cta-footer-actions span {
-
     font-family: var(--font-title);
-
     font-size: clamp(50px, 6cqw, 90px);
-
     font-weight: 500;
-
     color: var(--text-white);
-
     text-transform: none;
-
     letter-spacing: 1px;
-
 }
-
-
 
 /* ==========================================================================
-
    GLOBAL ELEMENTS (SWIPE PROMPT & UTILITIES)
-
    ========================================================================== */
 
-
-
 .swipe-prompt {
-
     font-family: var(--font-title);
-
     position: absolute;
-
     bottom: 95px;
-
     right: 100px; 
-
     font-size: 26px;
-
     font-weight: 700;
-
     letter-spacing: 2px;
-
     line-height: 1.0;
-
     text-transform: none;
-
     color: var(--text-white);
-
     z-index: 10;
-
 }
-
-
 
 /* Ensure the prompt is hidden on the final CTA slide */
-
 .cta-slide .swipe-prompt {
-
     display: none !important;
-
 }
-
-
 
 .canvas-footer, .footer-accent {
-
     display: none !important;
-
 }
-
-
 
 #control-panel {
-
     width: 100%;
-
     background: #111;
-
     padding: 20px;
-
     display: flex;
-
     justify-content: space-between;
-
     align-items: center;
-
     border-bottom: 2px solid var(--aeon-blue);
-
     position: sticky;
-
     top: 0;
-
     z-index: 100;
-
 }
-
-
 
 .tab-btn {
-
     background: #222;
-
     color: white;
-
     border: 1px solid var(--accent-gray);
-
     padding: 8px 15px;
-
     margin-right: 5px;
-
     cursor: pointer;
-
     font-weight: 600;
-
     transition: 0.2s;
-
     text-transform: none;
-
 }
-
-
 
 .tab-btn.active { background: var(--aeon-blue); border-color: white; }
 
-
-
 .blue-text {
-
     color: var(--aeon-blue) !important;
-
-} 
-
+}
