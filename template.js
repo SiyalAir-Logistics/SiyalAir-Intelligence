@@ -1,37 +1,21 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT STRESS",
-        "titleBlue": "SPIKE",
-        "footerSummary": "Global trade faces volatility as Brent crude exceeds $100 and new tariffs disrupt trans-Pacific capacity. Shippers must pivot to flexible, data-driven route planning."
+        "titleWhite": "MANAGING GLOBAL FREIGHT",
+        "titleBlue": "FRICTION",
+        "footerSummary": "US Section 338 Canadian tariffs and rising Red Sea tensions push crude past $100, forcing sudden routing adjustments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ENERGY: OIL SURGE IMPACT",
+            "heading": "US CUSTOMS: CANADIAN IMPORT TARIFFS",
             "points": [
-                "Brent crude prices breach $100/barrel following Red Sea tanker incidents.",
-                "Immediate bunker fuel surcharges likely to inflate global ocean freight rates.",
-                "Logistics managers must hedge fuel exposure through Q4 contracts immediately."
+                "US imposes 50% Section 338 tariffs on Canada imports despite USMCA framework.",
+                "Cross-border supply chains face immediate 50% duty assessments on key materials.",
+                "Shippers must re-evaluate duty-drawback programs and explore alternative sourcing."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFF ESCALATION",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "TARIFFS: TRADE RESTRUCTURING",
-            "points": [
-                "Trump administration enforces 50% tariffs on key Canadian goods and materials.",
-                "Cross-border land freight friction rises as duty-free status is bypassed.",
-                "Importers must audit HTS codes to mitigate Section 338 tariff exposure."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME CAPACITY",
+            "nextUpTease": "RED SEA: SAUDI TANKER ATTACKED",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -39,31 +23,47 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MARITIME: CAPACITY CRUNCH",
+            "id": 2,
+            "heading": "RED SEA: SAUDI TANKER ATTACKED",
             "points": [
-                "Panama Canal drought triggers new surcharges from MSC and CMA CGM carriers.",
-                "Transit restrictions force rerouting, increasing lead times by 7-12 days.",
-                "Diversify port entry strategies to avoid East Coast congestion bottlenecks."
+                "Houthi forces strike Saudi tanker Encelia in the Red Sea, triggering onboard fire.",
+                "Global crude benchmarks surge as Brent oil prices cross the $100 per barrel mark.",
+                "Carriers brace for extended Cape routes and sharp increases in fuel surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER CONSOLIDATION",
+            "nextUpTease": "USPS: RURAL SHIPPING PRICE SURGE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychainbrain.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "USPS: RURAL SHIPPING PRICE SURGE",
+            "points": [
+                "USPS raises lightweight Ground Advantage rates by $2 to $3 for rural destinations.",
+                "E-commerce retailers face steep margin compression on low-value consumer goods.",
+                "Merchants must adjust zone-skipping tactics and audit final-mile carrier mixes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "US TREASURY: VESSEL CAPACITY SANCTIONS",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FORWARDING: SCALE SHIFTS",
+            "heading": "US TREASURY: VESSEL CAPACITY SANCTIONS",
             "points": [
-                "Kuehne+Nagel explores divestment of Apex Logistics unit post-integration.",
-                "Market leaders prioritize balance sheet liquidity amid slowing global demand.",
-                "Shifts in forwarder ownership demand re-evaluation of 3PL partnership terms."
+                "US Treasury sanctions six container ships operated under SeaLead Shipping networks.",
+                "Sanctioned container vessels face immediate exclusion from major Western ports.",
+                "Compliance teams must screen vessel manifests to mitigate secondary sanction risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAY INTEGRATION",
+            "nextUpTease": "FMC: DETENTION FEE FLUIDITY RULING",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -72,48 +72,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "RAIL: TRANSCONTINENTAL PUSH",
+            "heading": "FMC: DETENTION FEE FLUIDITY RULING",
             "points": [
-                "Union Pacific secures CN support for major transcontinental rail merger deal.",
-                "Market power concentration poses risk to regional pricing for inland freight.",
-                "Evaluate intermodal alternative providers to counter emerging rail monopolies."
+                "US Appeals Court upholds FMC ruling requiring detention fees to promote fluidity.",
+                "Carriers cannot legally assess detention charges during periods of port congestion.",
+                "Importers gain leverage to dispute invalid demurrage and detention billing spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION TECH",
+            "nextUpTease": "PANAMA CANAL: ARID TRANSIT SURCHARGES",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECH: DRIVERLESS SCALE",
+            "heading": "PANAMA CANAL: ARID TRANSIT SURCHARGES",
             "points": [
-                "Aurora unveils second-gen autonomous hardware for long-haul commercial trucks.",
-                "Autonomous fleet scaling reduces labor dependency in high-traffic corridors.",
-                "Incorporate pilot autonomous lanes into regional logistics roadmaps for 2027."
+                "Panama Canal reintroduces transit restrictions as dry El Nino conditions return.",
+                "Ocean carriers levy fresh operational surcharges to offset restricted draft limits.",
+                "Logistics planners must redirect time-sensitive cargo to US West Coast rail lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL COMPLIANCE",
+            "nextUpTease": "CUMMINS: EPA NOX ENGINE PHASE-IN",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RETAIL: MARKET FRICTION",
+            "heading": "CUMMINS: EPA NOX ENGINE PHASE-IN",
             "points": [
-                "USPS increases lightweight parcel shipping costs for rural zone deliveries.",
-                "Marketplace sellers face margin compression from evolving last-mile fee hikes.",
-                "Re-verify carrier mix to optimize parcel spend against new rural surcharges."
+                "Cummins staggers model-year 2027 engine releases to meet strict EPA NOx standards.",
+                "Fleet operators face potential equipment procurement delays and higher asset costs.",
+                "Carriers must align multi-year fleet refresh schedules with phased OEM rollouts."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
