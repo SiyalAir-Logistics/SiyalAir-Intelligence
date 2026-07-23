@@ -185,7 +185,7 @@ async function switchSlide(id, element) {
                 }
             }
         } catch (e) {
-            console.log("Follow tracker read defaulted, using Slide9-1.png");
+            console.log("Follow tracker read defaulted, using slide9-1.png");
         }
 
         const followAssetUrl = `followup/slide9-${followIndex}.png`;
