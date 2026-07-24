@@ -1,37 +1,37 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT FRICTION",
-        "titleBlue": "SURGES",
-        "footerSummary": "New US forced-labor tariffs, Panama Canal transit caps, and rising parcel surcharges are sharply increasing operational costs and complexity for global logistics managers."
+        "titleWhite": "SUPPLY CHAIN FRICTION",
+        "titleBlue": "ACCELERATES",
+        "footerSummary": "Sudden US forced-labor tariffs on 60 nations spark widespread supply chain reassessment, forcing immediate compliance audits and cost recalculations across global corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US TRADE AGENDA: FORCED LABOR TARIFFS",
+            "heading": "WHITE HOUSE: NEW GLOBAL FORCED LABOR TARIFFS",
             "points": [
-                "US imposes Section 301 tariffs on 60 trading partners to combat forced labor.",
-                "New duties of 10% to 12.5% take effect immediately as previous exemptions expire.",
-                "Shippers must audit multi-tier sourcing origins to mitigate sudden duty exposures."
+                "US imposes sweeping Section 301 tariffs on 60 partners as global duties expire.",
+                "Shippers face immediate 10% to 12.5% duty hikes on high-volume trade lanes.",
+                "Supply chain leaders must audit vendor origin compliance to mitigate severe costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: TRANSIT RESTRICTIONS RETURN",
+            "nextUpTease": "PANAMA CANAL: EL NINO TRANSIT RESTRICTIONS",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: cbp.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS RETURN",
+            "heading": "PANAMA CANAL: EL NINO TRANSIT RESTRICTIONS",
             "points": [
-                "Panama Canal Authority reinstates vessel transit caps in preparation for El Ni\u00f1o.",
-                "Ocean carriers like MSC and CMA CGM quickly deploy new canal transit surcharges.",
-                "Logistics managers should adjust transits and route allocations to the East Coast."
+                "Panama Canal Authority schedules transit cuts ahead of projected El Ni\u00f1o drought.",
+                "Ocean carriers introduce new draft limit surcharges, escalating per-teu costs.",
+                "Logistics planners must reroute time-sensitive cargo via alternative US gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "US TREASURY: SEALEAD SHIPPING SANCTIONS",
+            "nextUpTease": "LITIGATION: BROKER VETTING NUCLEAR VERDICT",
             "tags": [
                 "Source: theloadstar.com",
                 "Published: Last 48 Hours",
@@ -40,62 +40,62 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "US TREASURY: SEALEAD SHIPPING SANCTIONS",
+            "heading": "LITIGATION: BROKER VETTING NUCLEAR VERDICT",
             "points": [
-                "The US Treasury sanctions six container vessels linked to SeaLead Shipping.",
-                "The regulatory action directly hobbles the carrier's available ocean container space.",
-                "Importers must monitor vessel assignments to prevent seizure delays at US ports."
+                "C.H. Robinson hit with massive negligent selection verdict in post-Montgomery ruling.",
+                "Courts demand rigorous carrier compliance vetting over automated digital platforms.",
+                "Forwarders must rebuild onboarding protocols to block high-risk contract carriers."
             ],
             "imageUrl": "",
-            "nextUpTease": "US POSTAL SERVICE: RURAL RATE HIKES",
+            "nextUpTease": "ENERGY SURGE: BRENT CRUDE SURPASSES $100",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "US POSTAL SERVICE: RURAL RATE HIKES",
+            "heading": "ENERGY SURGE: BRENT CRUDE SURPASSES $100",
             "points": [
-                "USPS implements targeted delivery rate increases for rural ZIP codes.",
-                "Lightweight package shipping costs jump by $2 to $3 per parcel for online sellers.",
-                "E-commerce brands must optimize parcel zone routing to contain margin compression."
+                "Global oil benchmark Brent crude breaks past $100 for the first time in two months.",
+                "Fuel surcharges escalate immediately across trucking, air cargo, and ocean lanes.",
+                "Importers should secure long-term spot fuel hedges to neutralize rate volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "UNION PACIFIC: CANADIAN NATIONAL SETTLEMENT",
+            "nextUpTease": "TRADE COMPLIANCE: TRADE FRAUD TASK FORCE",
             "tags": [
-                "Source: ecommercebytes.com",
+                "Source: cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "UNION PACIFIC: CANADIAN NATIONAL SETTLEMENT",
+            "heading": "TRADE COMPLIANCE: TRADE FRAUD TASK FORCE",
             "points": [
-                "Canadian National drops opposition to the Norfolk Southern merger with Union Pacific.",
-                "Deal creates faster transits through Chicago while expanding intermodal routing.",
-                "Intermodal shippers gain diversified inland networks and optimized chassis access."
+                "DOJ Trade Fraud Task Force recovers over $1 billion in penalties and forfeitures.",
+                "Customs enforcement intensifies focus on transshipment evasion and classification.",
+                "Multi-channel merchants must verify customs broker declarations to avoid audits."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS OPTIONS",
+            "nextUpTease": "CAPACITY SHOCK: TREASURY SANCTIONS SHIPS",
             "tags": [
-                "Source: joc.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "KUEHNE+NAGEL: APEX LOGISTICS OPTIONS",
+            "heading": "CAPACITY SHOCK: TREASURY SANCTIONS SHIPS",
             "points": [
-                "Kuehne+Nagel explores strategic options, including a sale or IPO of Apex Logistics.",
-                "The asset is valued near $4 billion, shaping transpacific air forwarding dynamics.",
-                "Air freight buyers must watch for consolidation shifts in transpacific capacity."
+                "US Treasury sanctions six containerships operated by Singapore-based SeaLead.",
+                "Sudden withdrawal of carrier capacity threatens transpacific spot market stability.",
+                "Logistics networks must shift freight to secure alliance carriers immediately."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: PEAK SURCHARGE ESCALATION",
+            "nextUpTease": "REGULATORY SHIFT: CANADA IMPORT TARIFFS",
             "tags": [
                 "Source: theloadstar.com",
                 "Published: Last 48 Hours",
@@ -104,18 +104,50 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "FEDEX: PEAK SURCHARGE ESCALATION",
+            "heading": "REGULATORY SHIFT: CANADA IMPORT TARIFFS",
             "points": [
-                "FedEx unveils its 2026 peak season surcharge schedule and home delivery rate hikes.",
-                "Shippers face elevated residential fees amid highly volatile diesel fuel surcharges.",
-                "Enterprise shippers must negotiate volume caps early to protect holiday budgets."
+                "US slaps 50% Section 338 tariffs on wide-ranging Canadian industrial imports.",
+                "Tariffs apply despite standard duty-free status under active USMCA guidelines.",
+                "Cross-border manufacturers must recalculate total landed costs on northern lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINAL SLIDE",
+            "nextUpTease": "DAILY QUOTE",
             "tags": [
                 "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 8,
+            "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
+            "points": [
+                "\"Annual air freight contracts are increasingly difficult to sustain in this tightening market.\"",
+                "\u2014 Niall van de Wouw, Chief Airfreight Officer at Xeneta",
+                "Context: Xeneta Global Air Freight Market Analysis, July 2026"
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ARCHIVE ACCESS",
+            "tags": [
+                "Source: Verified Wire",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 9,
+            "heading": "SIYAL AIR INTELLIGENCE: ARCHIVE ROUTING",
+            "points": [
+                "Access full global freight intelligence and hourly macro data streams.",
+                "Explore deep analytical archives and supply chain compliance maps.",
+                "Subscribe to our continuous network feed for real-time trade alerts."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "END OF FEED",
+            "tags": [
+                "Source: Siyal Air Core",
+                "Published: Real-Time",
+                "Status: System Active"
             ]
         }
     ]
