@@ -1,119 +1,119 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT FRICTION",
-        "titleBlue": "ACCELERATES",
-        "footerSummary": "New US tariffs on 60 nations, a $100 Brent crude threshold, and rigid broker carrier-vetting rules force immediate, systemic trade lane routing changes."
+        "titleWhite": "Global Tariff Regulatory",
+        "titleBlue": "Shifts",
+        "footerSummary": "The U.S. implements sweeping new tariffs and customs enforcement measures, driving up logistics friction and shifting e-commerce supply chain strategies globally."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "WHITE HOUSE: SWEEPING TARIFF MANDATE",
+            "heading": "US CUSTOMS: NEW FORCED LABOR TARIFFS",
             "points": [
-                "US slaps 10% to 12.5% tariffs on 60 trading partners linked to forced labor.",
-                "Section 122 duties expire as new targeted duties hit global freight pathways.",
-                "Shippers must audit multi-tier supplier origins immediately to avoid customs holds."
+                "U.S. mandates new 10% to 12.5% tariffs on imports from 60 global trading partners.",
+                "Levies take effect immediately, replacing expiring Section 122 emergency duties.",
+                "Shippers must audit multi-tier supplier origins to avoid unexpected assessments."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADIAN IMPORT LEVIES",
+            "nextUpTease": "US-CANADA TRADE: SECTION 338 LEVIES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "US CUSTOMS: CANADIAN IMPORT LEVIES",
+            "heading": "US-CANADA TRADE: SECTION 338 LEVIES",
             "points": [
-                "US imposes 50% tariffs on diverse Canadian imports, disrupting USMCA trade paths.",
-                "Cross-border supply chains face immediate bilateral cost spikes up to 50 percent.",
-                "Logistics managers must rewrite border routing strategies to mitigate USMCA risk."
+                "White House imposes sweeping 50% import tariffs on numerous Canadian products.",
+                "Duties apply even to goods qualifying for duty-free status under the USMCA.",
+                "Importers must re-evaluate cross-border nearshoring strategies and tax exposures."
             ],
             "imageUrl": "",
-            "nextUpTease": "BRENT CRUDE SPIKE",
+            "nextUpTease": "PANAMA CANAL: TRANSIT RESTRICTIONS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GLOBAL ENERGY: BRENT CRUDE SPIKE",
+            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS",
             "points": [
-                "Brent crude oil surges 7.2% to top $100 per barrel amid escalating Red Sea risks.",
-                "Fuel surcharges escalate immediately, inflating transport costs across all modes.",
-                "Shippers must brace for Q3 margin erosion and lock in carrier fuel hedges now."
+                "Panama Canal Authority reintroduces vessel draft limits to prepare for El Ni\u00f1o.",
+                "Surcharges rise as container ship daily transit slots are actively restricted.",
+                "Bypassing the canal via intermodal US West Coast routes is highly recommended."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER VETTING MANDATE",
+            "nextUpTease": "FEDERAL MARITIME: DETENTION FEE RULING",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FEDERAL COURTS: CARRIER VETTING MANDATE",
+            "heading": "FEDERAL MARITIME: DETENTION FEE RULING",
             "points": [
-                "US Supreme Court's Montgomery ruling drastically raises the bar for broker liability.",
-                "Freight brokers face severe legal exposures without standardized safety vetting tools.",
-                "Operations must automate and document active carrier safety audits at every dispatch."
+                "U.S. Appeals Court upholds FMC decision regulating unfair carrier detention fees.",
+                "Carrier billing must align strictly with promoting active cargo fluid movement.",
+                "Importers should file charge complaints to claw back non-compliant demurrage fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "RURAL SHIPPING RATE HIKE",
+            "nextUpTease": "ENERGY MARKETS: OIL BREACHES ONE HUNDRED",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "USPS: RURAL SHIPPING RATE HIKE",
+            "heading": "ENERGY MARKETS: OIL BREACHES ONE HUNDRED",
             "points": [
-                "USPS raises rates by $2 to $3 for lightweight parcels bound for rural coordinates.",
-                "E-commerce margins decline for lightweight consumer goods shipped via postal lanes.",
-                "Retailers should diversify last-mile carriers to bypass regional parcel surcharges."
+                "Brent crude oil surges 7.2% to top $100 per barrel amid Red Sea security risks.",
+                "Fuel surcharges across ocean and truckload carriers are set to spike in August.",
+                "Logistics teams must adjust transport budgets to absorb rising fuel-index costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL TRANSIT LIMITS",
+            "nextUpTease": "JUSTICE DEPARTMENT: TRADE FRAUD ACTIONS",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PANAMA CANAL: TRANSIT VOLUME CAP",
+            "heading": "JUSTICE DEPARTMENT: TRADE FRAUD ACTIONS",
             "points": [
-                "Panama Canal Authority plans to reintroduce draft restrictions ahead of El Nino.",
-                "Carrier capacity reduces per transit, raising ocean spot rates and delay risks.",
-                "Supply chain planners must diversify to West Coast ports to secure transit times."
+                "DOJ Trade Fraud Task Force surpasses $1 billion in total recovery enforcement.",
+                "Customs inspections target systematic tariff evasion and illegal transshipment.",
+                "Importers must maintain absolute record-keeping transparency to mitigate penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "DETENTION CHARGE COMPLIANCE",
+            "nextUpTease": "USPS: ZONE RURAL SHIPPING SURCHARGES",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FMC: DETENTION CHARGE COMPLIANCE",
+            "heading": "USPS: ZONE RURAL SHIPPING SURCHARGES",
             "points": [
-                "US Appeals Court upholds FMC rule that ocean detention fees must promote fluid trade.",
-                "Ocean carriers are legally barred from penalizing shippers during gridlock windows.",
-                "Importers should file immediate charge complaints to claw back non-compliant fees."
+                "USPS introduces $2 to $3 rate hikes on lightweight packages to rural destinations.",
+                "Low-margin e-commerce shippers face immediate margin erosion on domestic parcels.",
+                "Multi-carrier routing strategies are required to offset rising postal expenditures."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY QUOTE",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,9 +122,9 @@ const dailyData = {
             "id": 8,
             "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
             "points": [
-                "\"Our cost reduction programme is fully on track, and our structural efficiency is improving as we navigate volatile trade lanes.\"",
-                "\u2014 Stefan Paul, CEO, Kuehne+Nagel",
-                "Context: Q2 2026 Earnings Call (July 23, 2026)"
+                "\"Effective leaders target the biggest bottlenecks rather than perfecting every link.\"",
+                "\u2014 Davey Miller, COO of CMC",
+                "Context: Executive Statement on Logistics Leadership, July 2026"
             ],
             "imageUrl": "",
             "nextUpTease": "ARCHIVE ACCESS",
