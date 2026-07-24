@@ -42,7 +42,7 @@ const path = require('path');
 
     console.log("Awaiting engine synthesis pipeline to process all slides...");
     
-    // Wait until files have finished downloading completely (dynamically checks based on available elements for 9 total assets)
+    // Wait until files have finished downloading completely (dynamically checks based on available elements)
     let totalFiles = 0;
     for (let attempt = 0; attempt < 45; attempt++) {
         await new Promise(r => setTimeout(r, 1000));
@@ -62,9 +62,9 @@ const path = require('path');
         if (file.includes('MAIN')) {
             newName = "slide_01.webp";
         } else if (file.includes('FOLLOW')) {
-            newName = "slide_09.webp"; // Strictly assigned as the final CTA carousel slide
+            newName = "slide_09.webp";
         } else if (file.includes('QUOTE')) {
-            newName = "slide_08.webp"; // Strictly assigned as the second-to-last quote slide
+            newName = "slide_08.webp";
         } else {
             const match = file.match(/SLIDE_(\d+)/);
             if (match) {
