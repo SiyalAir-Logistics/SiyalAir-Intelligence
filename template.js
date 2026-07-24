@@ -1,119 +1,119 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "REGULATORY TARIFF SHIFTS",
-        "titleBlue": "COLLIDE",
-        "footerSummary": "New Section 301 forced-labor tariffs and sudden 50% Canadian duties trigger sweeping compliance demands, compounding Panama Canal restrictions and ocean carrier capacity strains."
+        "titleWhite": "SURGENT TRADE FRICTION",
+        "titleBlue": "INCIDENTS",
+        "footerSummary": "New US forced-labor tariffs, heavy Canadian import duties, and Red Sea vessel strikes are forcing immediate global supply chain rerouting and margin adjustments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRUMP ADMINISTRATION: SECTION 301 SHIFTS",
+            "heading": "US CUSTOMS: FORCED LABOR TARIFFS",
             "points": [
-                "US levies new Section 301 tariffs tied to forced labor as stopgap duties expire.",
-                "Imports from partner nations face immediate 10% to 12.5% customs duties.",
-                "Compliance teams must map entire tier-two supplier networks for forced labor risk."
+                "US Customs institutes Section 301 tariffs targeting forced labor risks.",
+                "New 10% to 12.5% duties apply to imports from 60 global trading partners.",
+                "Importers must audit multi-tier suppliers to escape sweeping duty exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: TRANSIT RESTRICTIONS",
+            "nextUpTease": "US TRADE: CANADIAN IMPORT TARIFFS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS",
+            "heading": "US TRADE: CANADIAN IMPORT TARIFFS",
             "points": [
-                "Panama Canal Authority reintroduces vessel transit limits ahead of El Nino.",
-                "Major carriers implement aggressive draft-limit surcharges on transpacific routes.",
-                "Shippers must redirect high-priority volumes to West Coast ports to bypass delays."
+                "US imposes 50% tariffs on Canadian imports under Section 338 actions.",
+                "Duties apply to USMCA-qualifying goods, dismantling regional transit lanes.",
+                "Supply chain managers must redraw North American nearshoring costing models."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO NEXT: CONTRACT VOLATILITY",
+            "nextUpTease": "RED SEA: TANKER FIRE ATTACK",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO NEXT: CONTRACT VOLATILITY",
+            "heading": "RED SEA: TANKER FIRE ATTACK",
             "points": [
-                "Shift in market conditions renders annual air cargo contracts highly unsustainable.",
-                "Shippers face extreme rate volatility as spot-market exposure increases sharply.",
-                "Procurement teams must leverage index-linked pricing to secure long-term capacity."
+                "Saudi tanker Encelia hit by Houthi drone strikes in active Red Sea lanes.",
+                "Immediate localized ship fires prompt vessels to divert around Africa.",
+                "Marine underwriters are raising risk premiums on remaining Suez-bound hulls."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS UNIT",
+            "nextUpTease": "PANAMA CANAL: TRANSIT RESTRICTIONS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "KUEHNE+NAGEL: APEX LOGISTICS UNIT",
+            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS",
             "points": [
-                "Kuehne+Nagel evaluates a strategic stake sale and IPO for Apex Logistics unit.",
-                "Potential shift in Asian air freight capacity ownership triggers market volatility.",
-                "Importers must secure firm capacity guarantees directly with regional air hubs."
+                "Panama Canal Authority reintroduces strict draft limits and transit quotas.",
+                "El Nino climate patterns force ocean carriers to levy transit surcharges.",
+                "Shippers must pivot East Coast cargo to US West Coast intermodal loops."
             ],
             "imageUrl": "",
-            "nextUpTease": "US-CANADA TRADE: SECTION 338 TARIFFS",
+            "nextUpTease": "USPS: RURAL SHIPPING SURCHARGES",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "US-CANADA TRADE: SECTION 338 TARIFFS",
+            "heading": "USPS: RURAL SHIPPING SURCHARGES",
             "points": [
-                "US slaps 50% Section 338 duties on wide-ranging Canadian industrial imports.",
-                "USMCA duty-free qualified goods face sudden, intense operational cost increases.",
-                "Nearshoring supply chains must adjust cross-border billing models to absorb fees."
+                "USPS implements targeted pricing hikes for lightweight parcel shipments.",
+                "Rural delivery costs spike by $2 to $3 per package for e-commerce brands.",
+                "Marketplace sellers must adjust checkout pricing to absorb these deficits."
             ],
             "imageUrl": "",
-            "nextUpTease": "US TREASURY: SEALEAD SHIP SANCTIONS",
+            "nextUpTease": "US TREASURY: BOX SHIP SANCTIONS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "US TREASURY: SEALEAD SHIP SANCTIONS",
+            "heading": "US TREASURY: BOX SHIP SANCTIONS",
             "points": [
-                "US Treasury sanctions six container ships operated by Singapore-based SeaLead.",
-                "Targeted carrier capacity is severely hobbled, disrupting global maritime loops.",
-                "Cargo booking coordinators must immediately redirect freight to compliant carriers."
+                "US Treasury department sanctions six container vessels operated by SeaLead.",
+                "The carrier faces immediate capacity constraints and booking cancellations.",
+                "Global networks must scrub sanctioned tonnage to prevent cargo seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "US CUSTOMS: TARIFF RECOVERY LIMBO",
+            "nextUpTease": "US LAW: BROKER VETTING STANDARDS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "US CUSTOMS: TARIFF RECOVERY LIMBO",
+            "heading": "US LAW: BROKER VETTING STANDARDS",
             "points": [
-                "CBP returns 86 billion dollars in unlawful tariff duties amid historic litigation.",
-                "Billions of dollars in active duty claims remain locked in administrative appeals.",
-                "Importers must establish rigorous audit and escrow protocols for disputed tariffs."
+                "Supreme Court's Montgomery ruling raises standards for freight broker vetting.",
+                "Third-party logistics firms face multi-million dollar negligent selection suits.",
+                "Brokers must deploy real-time digital compliance systems to verify carriers."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY QUOTE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,9 +122,9 @@ const dailyData = {
             "id": 8,
             "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
             "points": [
-                "\"Constant market shifts demand prioritization and creative workarounds. Effective leaders target the biggest bottlenecks rather than perfecting every link.\"",
-                "\u2014 Davey Miller, Chief Operating Officer, CMC",
-                "Context: Inbound Logistics Leadership Review, July 2026"
+                "\"Constant market shifts demand prioritization and creative workarounds.\"",
+                "\u2014 Davey Miller, COO, CMC",
+                "Context: July 2026 Industry Perspective"
             ],
             "imageUrl": "",
             "nextUpTease": "ARCHIVE ACCESS",
