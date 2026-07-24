@@ -9,6 +9,7 @@ on:
       - 'download/**'  # Block the bot from looping on its own image updates
       - 'bg_tracker.txt' # Block the bot from looping on background tracker state updates
       - 'follow_tracker.txt' # Block the bot from looping on follow-up tracker state updates
+      - 'processed_hashes.txt' # Block the bot from looping on hash registry updates
   workflow_dispatch:
   schedule:
     - cron: '16 * * * *'  # Single Primary Precise Hourly Trigger (Exactly once per hour)
@@ -130,8 +131,8 @@ jobs:
           print(f"Dynamic Follow-up Rotation: Found {max_followups} total follow slides. Rotated tracker: {current_follow_val} -> {next_follow_val}")
           EOF
 
-          # 4. Stage template.js, post.txt, and the dynamically updated tracking state files
-          git add template.js post.txt bg_tracker.txt follow_tracker.txt
+          # 4. Stage template.js, post.txt, tracker files, and deduplication hash registry
+          git add template.js post.txt bg_tracker.txt follow_tracker.txt processed_hashes.txt
           
           # 5. Verify structural differences cleanly without stashing or merging files
           if ! git diff --cached --quiet; then
