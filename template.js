@@ -1,119 +1,119 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TARIFF REORGANIZATION COMPLIANCE",
-        "titleBlue": "SHIFT",
-        "footerSummary": "Importers face severe friction as the US shifts to Section 301 tariffs, while rising broker liability and canal surcharges squeeze global margins."
+        "titleWhite": "TARIFF OVERHAULS AND INFLATION",
+        "titleBlue": "SHOCKS",
+        "footerSummary": "The US transition to Section 301 forced-labor tariffs on 60 nations forces immediate, high-friction supply chain audits and landed-cost recalibration."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US CBP: SECTION 301 TARIFF SHIFT",
+            "heading": "US CUSTOMS: SECTION 301 TARIFF OVERHAUL",
             "points": [
-                "US replaces temporary Section 122 surcharges with Section 301 forced labor tariffs.",
-                "Imports from 60 countries hit with sudden 10% to 12.5% duty rates overnight.",
-                "Supply chain managers must urgently audit vendor origins to prevent cargo seizures."
+                "US replaces Section 122 surcharges with a new Section 301 forced-labor tariff.",
+                "Imports from 60 economies face immediate duties ranging from 10% to 12.5%.",
+                "Importers must instantly deploy origin audits to mitigate non-compliance risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON: BROKER LIABILITY SHOCK",
+            "nextUpTease": "LITIGATION: BROKER NEGLIGENT SELECTION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: cbp.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "C.H. ROBINSON: BROKER LIABILITY SHOCK",
+            "heading": "LITIGATION: BROKER NEGLIGENT SELECTION",
             "points": [
-                "Giant nuclear verdict strikes broker following landmark negligent selection lawsuit.",
-                "Vetting processes face intense scrutiny as legal standards for third parties rise.",
-                "Intermediaries must deploy strict, automated compliance checks on all carriers."
+                "C.H. Robinson faces massive nuclear verdict under post-Montgomery liability rules.",
+                "Recent rulings shift strict carrier vetting responsibility directly to intermediaries.",
+                "Brokers must automate real-time driver verification and safety rating monitoring."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE CRACKDOWN",
+            "nextUpTease": "REGULATION: CANADA USMCA TARIFF SHOCK",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE CRACKDOWN",
+            "heading": "REGULATION: CANADA USMCA TARIFF SHOCK",
             "points": [
-                "Joint Trade Fraud Task Force recovers $1 billion within first year of operation.",
-                "Importers face aggressive auditing and heavy financial penalties for customs evasion.",
-                "Compliance teams must enforce absolute transparency in product valuation and duty."
+                "US imposes emergency Section 338 tariffs on diversified Canadian import categories.",
+                "Importers face sudden 50% levies on goods previously cleared duty-free under USMCA.",
+                "Logistics managers must re-evaluate North American nearshoring financial modeling."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: DRAFT LIMITS RESTRICTIONS",
+            "nextUpTease": "PANAMA CANAL: DRAFT LIMITS REINSTATED",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PANAMA CANAL: DRAFT LIMITS RESTRICTIONS",
+            "heading": "PANAMA CANAL: DRAFT LIMITS REINSTATED",
             "points": [
-                "Canal authority reintroduces draft limits and transit restrictions due to El Ni\u00f1o.",
-                "Ocean carriers introduce fresh transshipment surcharges, hiking container costs.",
-                "Shippers should diversify routing to US East Coast and Gulf ports to avoid delays."
+                "Panama Canal Authority reinstates transit limits ahead of El Ni\u00f1o weather trends.",
+                "Ocean carriers introduce hefty surcharges as daily vessel transits are throttled.",
+                "Shippers must divert time-sensitive cargo to US West Coast rail corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: SWEEPING CANADA IMPORT TARIFFS",
+            "nextUpTease": "USPS: RURAL SHIPPING FEE SURGES",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "USTR: SWEEPING CANADA IMPORT TARIFFS",
+            "heading": "USPS: RURAL SHIPPING FEE SURGES",
             "points": [
-                "US imposes 50% Section 338 duties on a wide variety of Canadian imports.",
-                "Duties apply to goods despite qualifying for duty-free status under USMCA rules.",
-                "Nearshoring strategies must adjust to mitigate unilateral North American tariffs."
+                "USPS raises lightweight package rates targeting final-mile rural delivery zones.",
+                "Parcel shippers face direct $2.00 to $3.00 cost increases per residential package.",
+                "Multi-channel merchants must leverage zone-skipping to curb last-mile inflation."
             ],
             "imageUrl": "",
-            "nextUpTease": "FORWARDERS: AIR FREIGHT RATE BALANCING",
+            "nextUpTease": "JUSTICE DEPT: TRADE FRAUD ENFORCEMENT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FORWARDERS: AIR FREIGHT RATE BALANCING",
+            "heading": "JUSTICE DEPT: TRADE FRAUD ENFORCEMENT",
             "points": [
-                "Spot cargo rates begin cooling as global peak-season demand begins to stabilize.",
-                "Skyrocketing fuel surcharges offset any relief from lower baseline contract rates.",
-                "Fleet managers must secure flexible capacity to counter volatile operating expenses."
+                "DOJ Trade Fraud Task Force accelerates audits of illegal cross-border schemes.",
+                "Enforcement actions net over $1 billion in tariff evasion penalties within a year.",
+                "Compliance officers must implement continuous transaction bond and import auditing."
             ],
             "imageUrl": "",
-            "nextUpTease": "EBAY: DEPOP ACQUISITION SECURED",
+            "nextUpTease": "ENERGY: CRUDE SPIKE FUEL SURCHARGES",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EBAY: DEPOP ACQUISITION SECURED",
+            "heading": "ENERGY: CRUDE SPIKE FUEL SURCHARGES",
             "points": [
-                "Regulators clear eBay's $1.2 billion acquisition of fashion platform Depop.",
-                "Integration changes peer-to-peer shipping rules and seller payout structures.",
-                "Marketplace sellers must prepare for fee updates and consolidated shipping tools."
+                "Geopolitical conflict in the Middle East pushes Brent crude back toward $100.",
+                "Surging energy costs trigger instant hikes in parcel and truckload fuel surcharges.",
+                "Procurement teams must deploy dynamic freight fuel pegging to insulate margins."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -121,8 +121,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "Setting big, hairy, audacious goals guides supply chains through unpredictable eras of global disruption.",
-        "author": "Lakshmanan Chidambaram, CEO, Bristlecone",
-        "context": "July 2026 Executive Briefing"
+        "quoteText": "Annual air contracts are increasingly difficult to sustain as market capacity dynamics shift rapidly.",
+        "author": "Xeneta Analyst, Lead Freight Analyst at Xeneta",
+        "context": "July 2026 Market Intelligence Briefing"
     }
 };
