@@ -1,119 +1,119 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRADE COMPLIANCE",
-        "titleBlue": "SHOCKS",
-        "footerSummary": "US transitions to forced-labor Section 301 tariffs across sixty nations while global energy costs surge past one hundred dollars per barrel."
+        "titleWhite": "GLOBAL TRADE DECOUPLING",
+        "titleBlue": "SHOCK",
+        "footerSummary": "The US transition to Section 301 forced labor tariffs on 60 nations forces immediate, deep provenance audits across global retail supply chains."
     },
     "slides": [
         {
             "id": 1,
             "heading": "US CUSTOMS: SECTION 301 TRANSITION",
             "points": [
-                "US replaces temporary Section 122 surcharges with Section 301 tariffs on 60 nations.",
-                "Importers face sudden 10% to 12.5% tariff adjustments based on forced-labor audits.",
-                "Compliance teams must quickly restructure trade classification databases to avoid delays."
+                "US replaces Section 122 surcharges with Section 301 forced labor tariffs.",
+                "Duties of 10% to 12.5% hit imports from 60 partner economies instantly.",
+                "Importers must deploy strict source-tracing to bypass customs seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL FUEL: ENERGY PRICE SPIKES",
+            "nextUpTease": "PANAMA CANAL SURCHARGES",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GLOBAL FUEL: ENERGY PRICE SPIKES",
+            "heading": "PANAMA CANAL: TRANSIT SURCHARGES",
             "points": [
-                "Brent crude oil surges past $100 per barrel driven by rising Middle East tensions.",
-                "Shippers hit with immediate 10% weekly bunker and diesel fuel surcharge increases.",
-                "Logistic managers must renegotiate contract fuel caps to prevent margin depletion."
+                "Panama Canal reintroduces strict transit restrictions due to El Ni\u00f1o.",
+                "Major carriers immediately enforce new draft-limit transit surcharges.",
+                "Shippers must divert US East Coast cargo to intermodal West Coast routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADA BORDER: SECTION 338 TARIFFS",
+            "nextUpTease": "USPS RURAL SHIPPING MARKUPS",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CANADA BORDER: SECTION 338 TARIFFS",
+            "heading": "USPS: RURAL SHIPPING MARKUPS",
             "points": [
-                "US imposes sudden 50% tariffs on select Canadian imports, disrupting USMCA lanes.",
-                "Cross-border supply chains face overnight cost hikes despite duty-free agreements.",
-                "Freight forwarders advise immediate reassessment of nearshore raw material sourcing."
+                "USPS adds a $2 to $3 surcharge on lightweight packages to rural addresses.",
+                "E-commerce merchants on eBay and Etsy face severe low-margin compression.",
+                "Sellers must leverage regional parcel carriers to bypass postal networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN CARRIERS: FMC COURT VICTORY",
+            "nextUpTease": "SUPREME COURT: BROKER LIABILITY",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OCEAN CARRIERS: FMC COURT VICTORY",
+            "heading": "SUPREME COURT: BROKER LIABILITY",
             "points": [
-                "US Court of Appeals upholds FMC authority to enforce strict freight fluidity rules.",
-                "Ocean carriers are banned from assessing detention and demurrage during port blocks.",
-                "Cargo owners can now formally dispute unreasonable carrier billing practices in court."
+                "Supreme Court Montgomery ruling escalates carrier vetting duties for brokers.",
+                "Nuclear negligence lawsuits target entities utilizing unverified truckers.",
+                "Logistics providers must transition to real-time credentialing systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS FRAUD: TASK FORCE RECOVERIES",
+            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS SALE",
             "tags": [
-                "Source: fmc.gov",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CUSTOMS FRAUD: TASK FORCE RECOVERIES",
+            "heading": "KUEHNE+NAGEL: APEX LOGISTICS SALE",
             "points": [
-                "DOJ Trade Fraud Task Force recovers $1 billion in unlawful duty and tariff evasion.",
-                "Enforcement focus shifts toward cross-border truck brokers and customs misdeclaration.",
-                "Supply chain audits must expand origin-tracing protocols to mitigate legal risks."
+                "Kuehne+Nagel explores the strategic sale of its Apex Logistics business.",
+                "The potential spin-off threatens to disrupt trans-Pacific air charter capacity.",
+                "Enterprise shippers should secure fixed air freight allocations for 2026."
             ],
             "imageUrl": "",
-            "nextUpTease": "US POSTAL SERVICE: RURAL SURCHARGES",
+            "nextUpTease": "PAYPAL: SELLER PROFILE REMOVAL",
             "tags": [
-                "Source: inboundlogistics.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "US POSTAL SERVICE: RURAL SURCHARGES",
+            "heading": "PAYPAL: SELLER PROFILE REMOVAL",
             "points": [
-                "USPS implements a $2 to $3 rate surcharge on lightweight shipments to rural zones.",
-                "E-commerce merchants face direct margin erosion on Ground Advantage parcel delivery.",
-                "Retailers must pivot to regional multi-carrier networks to bypass rural surcharges."
+                "PayPal eliminates merchant seller profiles and updates arbitration terms.",
+                "Tighter platform regulations delay cash flows and increase hold margins.",
+                "Sellers must integrate alternative payment gateways to mitigate hold risk."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: TRANSIT RESTRICTIONS",
+            "nextUpTease": "TRADE POLICY: CANADA IMPORT TARIFFS",
             "tags": [
-                "Source: ecommercebytes.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS",
+            "heading": "TRADE POLICY: CANADA IMPORT TARIFFS",
             "points": [
-                "Panama Canal Authority schedules transit restrictions in preparation for El Ni\u00f1o.",
-                "Under-keel clearance reductions limit container vessel weights, reducing capacity.",
-                "Shippers must secure alternative intermodal routes via the US West Coast early."
+                "US slaps sweeping 50% tariffs on critical industrial imports from Canada.",
+                "Duties override previous USMCA duty-free treatments on standard goods.",
+                "Nearshore supply chains must alter sourcing configurations to avoid costs."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY QUOTE",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,9 +122,9 @@ const dailyData = {
             "id": 8,
             "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
             "points": [
-                "\"Replacing Section 122 with Section 301 overnight forces importers to race. Mapping sixty nations under new compliance frameworks requires instant database realignment.\"",
-                "\u2014 Thomas Alston, VP, Global Trade Group",
-                "Context: Official Trade Advisory, July 2026 Briefing"
+                "\"The complexity of the new tariff regime leaves importers facing massive operational friction, forcing an immediate shift in tracking origin.\"",
+                "\u2014 Paul Wiseman, Lead Reporter, AP",
+                "Context: Analysis of US Import Surcharges, July 2026"
             ],
             "imageUrl": "",
             "nextUpTease": "ARCHIVE ACCESS",
