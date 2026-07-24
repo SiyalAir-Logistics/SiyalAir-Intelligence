@@ -142,7 +142,7 @@ body {
 .main-hook-style header h1 div {
     display: inline-block !important;
     font-size: clamp(70px, 11cqw, 130px) !important; /* RESTORED: Massive high-impact font scale */
-    line-height: 0.9 !important; /* CONDENSED: Keeps multi-line titles tightly packed yet separated */
+    line-height: 1.2 !important; /* CONDENSED: Keeps multi-line titles tightly packed yet separated */
     font-weight: 900 !important;
     letter-spacing: -2px !important;
     text-transform: uppercase !important;
