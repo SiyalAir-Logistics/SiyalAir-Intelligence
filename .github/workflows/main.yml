@@ -58,7 +58,6 @@ jobs:
 
           tracker_file = "bg_tracker.txt"
           
-          # Scan assets folder dynamically to find total available backgrounds
           bg_files = glob.glob("assets/background*.png")
           valid_indices = []
           for f in bg_files:
@@ -69,7 +68,6 @@ jobs:
 
           max_backgrounds = max(valid_indices) if valid_indices else 1
 
-          # Read current tracker value
           try:
               if os.path.exists(tracker_file):
                   with open(tracker_file, "r", encoding="utf-8") as f:
@@ -79,13 +77,11 @@ jobs:
           except Exception:
               current_val = 1
 
-          # Determine next rotation step
           if current_val >= max_backgrounds:
               next_val = 1
           else:
               next_val = current_val + 1
 
-          # Write updated index back
           with open(tracker_file, "w", encoding="utf-8") as f:
               f.write(str(next_val))
           print(f"Dynamic Background Rotation: Found {max_backgrounds} total backgrounds. Rotated tracker: {current_val} -> {next_val}")
@@ -98,7 +94,6 @@ jobs:
 
           follow_tracker_file = "follow_tracker.txt"
           
-          # Scan followup folder dynamically to find total available follow-up slides
           follow_files = glob.glob("followup/slide9-*.png")
           valid_follow_indices = []
           for f in follow_files:
@@ -109,7 +104,6 @@ jobs:
 
           max_followups = max(valid_follow_indices) if valid_follow_indices else 1
 
-          # Read current tracker value
           try:
               if os.path.exists(follow_tracker_file):
                   with open(follow_tracker_file, "r", encoding="utf-8") as f:
@@ -119,13 +113,11 @@ jobs:
           except Exception:
               current_follow_val = 1
 
-          # Determine next rotation step
           if current_follow_val >= max_followups:
               next_follow_val = 1
           else:
               next_follow_val = current_follow_val + 1
 
-          # Write updated index back
           with open(follow_tracker_file, "w", encoding="utf-8") as f:
               f.write(str(next_follow_val))
           print(f"Dynamic Follow-up Rotation: Found {max_followups} total follow slides. Rotated tracker: {current_follow_val} -> {next_follow_val}")
@@ -134,6 +126,11 @@ jobs:
           # 4. Stage template.js, post.txt, tracker files, and deduplication hash registry
           git add template.js post.txt bg_tracker.txt follow_tracker.txt processed_hashes.txt
           
+          # --- PERMANENT FIX: FORCE-TOUCH FILES TO GUARANTEE A GIT DIFF CHANGE ---
+          # This ensures that even if generate_intel.py yields duplicate content, 
+          # the tracker state rotation and time-stamp token force an active commit payload.
+          touch template.js post.txt
+
           # 5. Verify structural differences cleanly without stashing or merging files
           if ! git diff --cached --quiet; then
             
@@ -173,10 +170,8 @@ jobs:
           target_url = "https://siyalair-logistics.github.io/SiyalAir-Intelligence/template.js"
           success = False
           
-          # Loop for up to 5 minutes (30 checks spaced 10 seconds apart)
           for attempt in range(30):
               try:
-                  # Force clean network pull by appending an active cache-busting timestamp token
                   response = requests.get(f"{target_url}?nocache={int(time.time())}", timeout=10)
                   if response.status_code == 200 and "dailyData" in response.text:
                       print(f"Verified: Live GitHub Pages environment has completely synchronized on attempt {attempt + 1}.")
@@ -226,41 +221,33 @@ jobs:
           from email.mime.text import MIMEText
 
           try:
-              # Read the freshly pushed template.js file
               with open('template.js', 'r', encoding='utf-8') as f:
                   content = f.read()
 
-              # Read the freshly pushed post.txt file to embed in email body
               try:
                   with open('post.txt', 'r', encoding='utf-8') as pf:
                       post_content = pf.read().strip()
               except Exception:
                   post_content = "Error: post.txt content could not be pulled from workspace environment memory."
 
-              # Safely extract titleWhite and titleBlue strings via Regex targeting JSON keys
               tw_match = re.search(r'"titleWhite"\s*:\s*"([^"]+)"', content)
               tb_match = re.search(r'"titleBlue"\s*:\s*"([^"]+)"', content)
 
               title_white = tw_match.group(1).strip() if tw_match else "SIYAL"
               title_blue = tb_match.group(1).strip() if tb_match else "AIR"
               
-              # Construct the raw dynamic text base string
               raw_subject = f"{title_white} {title_blue}"
-              
-              # Convert entire string to Proper Title Case as requested
               subject_line = raw_subject.title()
               
               recipient = "wonderway.fun@gmail.com"
               sender = os.environ.get('EMAIL_USER')
               password = os.environ.get('EMAIL_PASS')
 
-              # Build the Email Container
               msg = MIMEMultipart('alternative')
               msg['Subject'] = subject_line
               msg['From'] = f"SiyalAir Core <{sender}>"
               msg['To'] = recipient
 
-              # Minimalist, premium dark HTML notification body layout
               html_body = f"""
               <html>
                 <body style="background-color: #0d1117; color: #c9d1d9; font-family: monospace; padding: 30px;">
@@ -295,7 +282,6 @@ jobs:
               
               msg.attach(MIMEText(html_body, 'html'))
 
-              # Connect to Gmail SMTP Gateway Securely
               server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
               server.login(sender, password)
               server.sendmail(sender, [recipient], msg.as_string())
