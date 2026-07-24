@@ -373,13 +373,12 @@ async function downloadAllSlides() {
     dlBtn.innerText = "CAPTURING ALL...";
     dlBtn.disabled = true;
 
-    // --- REQUIREMENT 3: Exclude 'post' from bulk image download queue entirely ---
-    const queue = ['main'];
-    dailyData.slides.forEach((_, i) => queue.push(i + 1));
-    queue.push('quote');
-    queue.push('follow');
-
-    queue.reverse();
+    // --- EXACT REVERSE PIPELINE ORDER: FOLLOW -> QUOTE -> SLIDES 7..1 -> MAIN ---
+    const queue = ['follow', 'quote'];
+    for (let i = dailyData.slides.length; i >= 1; i--) {
+        queue.push(i);
+    }
+    queue.push('main');
 
     try {
         for (const slideId of queue) {
