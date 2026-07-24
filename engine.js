@@ -4,14 +4,11 @@
  */
 
 window.onload = async () => {
-    // FORCE CACHE-BUST: Load the template.js dynamically
     const script = document.createElement('script');
     script.src = 'template.js?t=' + Date.now();
     
     script.onload = async () => {
         console.log("Siyal Air Template loaded successfully.");
-        
-        // Force fix the background image compatibility
         await fixBackgroundCORS();
 
         if (typeof dailyData !== 'undefined') {
@@ -28,7 +25,6 @@ window.onload = async () => {
             };
         }
 
-        // Wire up the copy caption button handler
         const copyBtn = document.getElementById('copy-caption-btn');
         if (copyBtn) {
             copyBtn.onclick = (e) => {
@@ -45,31 +41,23 @@ window.onload = async () => {
     document.head.appendChild(script);
 };
 
-/**
- * FIX: Converts the background-image to Base64 
- * Prevents the HTML2Canvas Tainted Canvas exploit block.
- */
 async function fixBackgroundCORS() {
     const canvas = document.getElementById('post-canvas');
     if (!canvas) return;
 
     let bgIndex = 1;
-
     try {
         const trackerRes = await fetch('bg_tracker.txt?t=' + Date.now());
         if (trackerRes.ok) {
             const text = await trackerRes.text();
             const parsedNum = parseInt(text.trim());
-            if (!isNaN(parsedNum) && parsedNum > 0) {
-                bgIndex = parsedNum;
-            }
+            if (!isNaN(parsedNum) && parsedNum > 0) bgIndex = parsedNum;
         }
     } catch (e) {
         console.log("Tracker read defaulted, using background1.png");
     }
 
     const bgUrl = `assets/background${bgIndex}.png`;
-    
     try {
         const response = await fetch(bgUrl);
         if (!response.ok) throw new Error("Background asset not found");
@@ -77,11 +65,9 @@ async function fixBackgroundCORS() {
         const reader = new FileReader();
         reader.onloadend = () => {
             canvas.style.backgroundImage = `url(${reader.result})`;
-            console.log(`Loaded background${bgIndex}.png successfully and optimized for render capture.`);
         };
         reader.readAsDataURL(blob);
     } catch (e) {
-        console.warn(`Failed to load background${bgIndex}.png, falling back to default asset.`);
         fallbackDefaultBackground(canvas);
     }
 }
@@ -105,17 +91,13 @@ function initTabs() {
     if (!tabContainer) return;
     tabContainer.innerHTML = ''; 
     
-    // 1. MAIN TAB
     const mainBtn = document.createElement('button');
     mainBtn.className = 'tab-btn active';
     mainBtn.innerText = 'MAIN';
     mainBtn.onclick = (e) => { e.preventDefault(); switchSlide('main', mainBtn); };
     tabContainer.appendChild(mainBtn);
     
-    // 2. SLIDES 1 through 7 (Core Intelligence)
-    // Assuming dailyData.slides contains indices 0 to 6 as the core 7 slides, and index 7 as the quote slide.
-    // Let's safely split them or map them according to your exact sequencing order: MAIN, SLIDE-1 to SLIDE-7, QUOTE, FOLLOW, POST.
-    const coreSlidesCount = Math.min(7, dailyData.slides.length);
+    const coreSlidesCount = Math.min(7, dailyData.slides ? dailyData.slides.length : 0);
     for (let i = 0; i < coreSlidesCount; i++) {
         const btn = document.createElement('button');
         btn.className = 'tab-btn';
@@ -124,21 +106,18 @@ function initTabs() {
         tabContainer.appendChild(btn);
     }
 
-    // 3. QUOTE TAB (Slide 8 - Daily Executive Quote)
     const quoteBtn = document.createElement('button');
     quoteBtn.className = 'tab-btn';
     quoteBtn.innerText = 'QUOTE';
     quoteBtn.onclick = (e) => { e.preventDefault(); switchSlide('quote', quoteBtn); };
     tabContainer.appendChild(quoteBtn);
 
-    // 4. FOLLOW TAB (Slide 9 - Follow-up / Archive Routing)
     const followBtn = document.createElement('button');
     followBtn.className = 'tab-btn';
     followBtn.innerText = 'FOLLOW';
     followBtn.onclick = (e) => { e.preventDefault(); switchSlide('follow', followBtn); };
     tabContainer.appendChild(followBtn);
 
-    // 5. POST TAB (Slide 10 - Isolated Social Caption View)
     const postBtn = document.createElement('button');
     postBtn.className = 'tab-btn';
     postBtn.innerText = 'POST';
@@ -165,20 +144,30 @@ async function switchSlide(id, element) {
 
     if (!canvas) return;
 
-    // Handle view visibility toggle between Visual Canvas and Text Caption Canvas
+    // Reset inline background overrides from previous renders
+    canvas.style.backgroundImage = "";
+
     if (id === 'post') {
         canvas.style.display = 'none';
         if (captionCanvas) captionCanvas.style.display = 'block';
         if (dlBtn) dlBtn.style.display = 'none';
         if (copyBtn) copyBtn.style.display = 'inline-block';
 
-        // Populate caption text from template payload
         const captionDisplay = document.getElementById('caption-text-display');
         if (captionDisplay) {
-            const rawCaption = (typeof dailyData !== 'undefined' && dailyData.social_post) 
-                ? dailyData.social_post 
-                : "No social caption payload found in template.js.";
-            captionDisplay.innerText = rawCaption;
+            let captionText = "";
+            if (typeof dailyData !== 'undefined') {
+                captionText = dailyData.social_post || dailyData.caption || dailyData.postText || "";
+            }
+            if (!captionText) {
+                try {
+                    const res = await fetch('post.txt?t=' + Date.now());
+                    if (res.ok) captionText = await res.text();
+                } catch (err) {
+                    console.log("Could not fetch external post.txt");
+                }
+            }
+            captionDisplay.innerText = captionText.trim() || "No social caption payload found in template.js or post.txt.";
         }
         return;
     } else {
@@ -189,6 +178,7 @@ async function switchSlide(id, element) {
     }
 
     const formatTitleBlue = (text) => {
+        if (!text) return "";
         if (text.includes(':')) {
             const parts = text.split(':');
             const bluePart = parts[0] + ':';
@@ -203,7 +193,7 @@ async function switchSlide(id, element) {
 
     let html = "";
     if (id === 'main') {
-        const fullTitleStr = `${dailyData.main.titleWhite} ${dailyData.main.titleBlue}`.trim();
+        const fullTitleStr = `${dailyData.main.titleWhite || ''} ${dailyData.main.titleBlue || ''}`.trim();
         const wordsArray = fullTitleStr.split(/\s+/);
         
         const stackedTitleHTML = wordsArray.map((word, idx) => {
@@ -214,7 +204,7 @@ async function switchSlide(id, element) {
         }).join('');
 
         const footerText = dailyData.main.footerSummary || "";
-        const nextTease = dailyData.slides[0]?.heading || "";
+        const nextTease = dailyData.slides && dailyData.slides[0] ? dailyData.slides[0].heading : "";
         
         canvas.className = 'main-hook-style'; 
         html = `<div class="content-body">
@@ -227,24 +217,24 @@ async function switchSlide(id, element) {
                 <div class="next-up-tease">NEXT UP: ${nextTease}</div>
                 <div class="swipe-prompt">SWIPE NEXT →</div>`;
     } else if (id === 'quote') {
-        // Slide 8: Daily Executive Quote Card
         canvas.className = 'sub-slide-style';
-        const quoteData = dailyData.quote_slide || dailyData.slides[7] || {
-            heading: "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-            quote: "Constraint awareness is the vital skill; constant market shifts demand prioritization.",
-            author: "Davey Miller, COO at CMC",
-            context: "Inbound Logistics Industry Leadership Review, July 2026"
-        };
+        
+        // Robust multi-source quote object resolver
+        const qSrc = dailyData.quote_slide || (dailyData.slides && dailyData.slides[7]) || {};
+        const qHeading = qSrc.heading || "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION";
+        const qText = qSrc.quote || qSrc.content || qSrc.text || "Constraint awareness is the vital skill; constant market shifts demand prioritization.";
+        const qAuthor = qSrc.author || qSrc.speaker || "Executive Leadership";
+        const qContext = qSrc.context || qSrc.source || "Global Logistics Industry Review, July 2026";
 
-        const formattedHeading = formatTitleBlue(quoteData.heading || "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION");
+        const formattedHeading = formatTitleBlue(qHeading);
         
         html = `<div class="content-body">
                 <header><h1 class="auto-fit">${formattedHeading}</h1><div class="header-divider"></div></header>
                 <div class="detail-text">
                     <ul class="smart-bullets" style="list-style: none;">
-                        <li style="font-size: 32px; font-style: italic; margin-bottom: 24px;">"${quoteData.quote || quoteData.content}"</li>
-                        <li style="font-size: 26px; color: var(--aeon-blue); font-weight: 700; margin-bottom: 15px;">— ${quoteData.author || "Executive Leadership"}</li>
-                        <li style="font-size: 22px; color: rgba(255,255,255,0.8); font-weight: 400;">Context: ${quoteData.context || "Global Logistics Review"}</li>
+                        <li style="font-size: 32px; font-style: italic; margin-bottom: 24px;">"${qText}"</li>
+                        <li style="font-size: 26px; color: var(--aeon-blue); font-weight: 700; margin-bottom: 15px;">— ${qAuthor}</li>
+                        <li style="font-size: 22px; color: rgba(255,255,255,0.8); font-weight: 400;">Context: ${qContext}</li>
                     </ul>
                 </div>
                 </div>
@@ -258,49 +248,48 @@ async function switchSlide(id, element) {
             if (trackerRes.ok) {
                 const text = await trackerRes.text();
                 const parsedNum = parseInt(text.trim());
-                if (!isNaN(parsedNum) && parsedNum > 0) {
-                    followIndex = parsedNum;
-                }
+                if (!isNaN(parsedNum) && parsedNum > 0) followIndex = parsedNum;
             }
         } catch (e) {
-            console.log("Follow tracker read defaulted, using slide9-1.png");
+            console.log("Follow tracker read defaulted");
         }
 
         const followAssetUrl = `followup/slide9-${followIndex}.png`;
+        canvas.style.backgroundImage = `url('${followAssetUrl}')`;
+        canvas.style.backgroundSize = 'cover';
+        canvas.style.backgroundPosition = 'center';
 
-        // Follow-up slide has no swipe prompt or next-up tease per instructions
-        html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
+        html = `<div class="content-body" style="width: 100%; height: 100%;"></div>`;
     } else {
         const index = id - 1;
-        const slide = dailyData.slides[index];
+        const slide = dailyData.slides && dailyData.slides[index] ? dailyData.slides[index] : {};
         canvas.className = 'sub-slide-style';
-        if (slide) {
-            let bulletList = "";
-            if (Array.isArray(slide.points)) {
-                bulletList = slide.points.map(pt => `<li>${pt.trim().replace(/\.$/, '')}</li>`).join('');
-            } else if (slide.content) {
-                const sentences = slide.content.split('. ').filter(s => s.trim().length > 0);
-                bulletList = sentences.map(s => `<li>${s.trim().replace(/\.$/, '')}</li>`).join('');
-            }
-            
-            const formattedHeading = formatTitleBlue(slide.heading);
-            
-            // Customized footer handling: Slide 7 specifically teases the Executive Perspective quote slide
-            let nextTease = "";
-            if (index === 6) {
-                nextTease = "EXECUTIVE PERSPECTIVE";
-            } else if (index < dailyData.slides.length - 1 && index < 6) {
-                nextTease = dailyData.slides[index + 1].heading;
-            }
-            
-            html = `<div class="content-body">
-                    <header><h1 class="auto-fit">${formattedHeading}</h1><div class="header-divider"></div></header>
-                    <div class="detail-text"><ul class="smart-bullets">${bulletList}</ul></div>
-                    </div>
-                    ${nextTease ? `<div class="next-up-tease">NEXT UP: ${nextTease}</div>` : ""}
-                    <div class="swipe-prompt">SWIPE NEXT →</div>`;
+        
+        let bulletList = "";
+        if (Array.isArray(slide.points)) {
+            bulletList = slide.points.map(pt => `<li>${pt.trim().replace(/\.$/, '')}</li>`).join('');
+        } else if (slide.content) {
+            const sentences = slide.content.split('. ').filter(s => s.trim().length > 0);
+            bulletList = sentences.map(s => `<li>${s.trim().replace(/\.$/, '')}</li>`).join('');
         }
+        
+        const formattedHeading = formatTitleBlue(slide.heading || "LOGISTICS INSIGHT");
+        
+        let nextTease = "";
+        if (index === 6) {
+            nextTease = "EXECUTIVE PERSPECTIVE";
+        } else if (dailyData.slides && index < dailyData.slides.length - 1 && index < 6) {
+            nextTease = dailyData.slides[index + 1].heading;
+        }
+        
+        html = `<div class="content-body">
+                <header><h1 class="auto-fit">${formattedHeading}</h1><div class="header-divider"></div></header>
+                <div class="detail-text"><ul class="smart-bullets">${bulletList}</ul></div>
+                </div>
+                ${nextTease ? `<div class="next-up-tease">NEXT UP: ${nextTease}</div>` : ""}
+                <div class="swipe-prompt">SWIPE NEXT →</div>`;
     }
+    
     canvas.innerHTML = html;
     setTimeout(() => {
         const titles = canvas.querySelectorAll('.auto-fit');
@@ -313,8 +302,7 @@ function copyCaptionToClipboard() {
     const copyBtn = document.getElementById('copy-caption-btn');
     if (!captionDisplay) return;
 
-    const textToCopy = captionDisplay.innerText;
-    navigator.clipboard.writeText(textToCopy).then(() => {
+    navigator.clipboard.writeText(captionDisplay.innerText).then(() => {
         if (copyBtn) {
             const originalText = copyBtn.innerText;
             copyBtn.innerText = "COPIED TO CLIPBOARD!";
@@ -325,7 +313,6 @@ function copyCaptionToClipboard() {
             }, 2000);
         }
     }).catch(err => {
-        console.error("Failed to copy text: ", err);
         alert("Clipboard access failed. Please check browser permissions.");
     });
 }
@@ -349,20 +336,16 @@ async function downloadCurrentSlide() {
             logging: false
         });
         
-        const imageData = rendered.toDataURL("image/png");
         const link = document.createElement('a');
         const slideName = activeTab ? activeTab.innerText.replace(/\s+/g, '_') : "SLIDE";
         
-        link.href = imageData;
+        link.href = rendered.toDataURL("image/png");
         link.download = `SIYAL_AIR_${slideName}.png`;
-        
         document.body.appendChild(link);
         link.click();
         document.body.removeChild(link);
-
     } catch (err) {
-        console.error("Capture Error:", err);
-        alert("Render extraction halted. Verify local script server permissions.");
+        alert("Render extraction halted.");
     } finally {
         dlBtn.innerText = "DOWNLOAD SLIDE";
         dlBtn.disabled = false;
@@ -378,30 +361,30 @@ async function downloadAllSlides() {
     let originalId = 'main';
     
     if (originalActiveTab) {
-        if (originalActiveTab.innerText === 'MAIN') originalId = 'main';
-        else if (originalActiveTab.innerText === 'FOLLOW') originalId = 'follow';
-        else if (originalActiveTab.innerText === 'QUOTE') originalId = 'quote';
-        else if (originalActiveTab.innerText === 'POST') originalId = 'post';
-        else originalId = parseInt(originalActiveTab.innerText.replace('SLIDE-', ''));
+        const txt = originalActiveTab.innerText;
+        if (txt === 'MAIN') originalId = 'main';
+        else if (txt === 'FOLLOW') originalId = 'follow';
+        else if (txt === 'QUOTE') originalId = 'quote';
+        else if (txt === 'POST') originalId = 'post';
+        else originalId = parseInt(txt.replace('SLIDE-', ''));
     }
 
     dlBtn.innerText = "CAPTURING ALL...";
     dlBtn.disabled = true;
 
-    // Queue excluding the isolated POST caption view (capturing visual slides only)
     const queue = ['main'];
-    for (let i = 0; i < Math.min(7, dailyData.slides.length); i++) {
+    const maxSlides = dailyData.slides ? Math.min(7, dailyData.slides.length) : 0;
+    for (let i = 0; i < maxSlides; i++) {
         queue.push(i + 1);
     }
     queue.push('quote');
     queue.push('follow');
-
     queue.reverse();
 
     try {
         for (const slideId of queue) {
             await switchSlide(slideId, null);
-            await new Promise(resolve => setTimeout(resolve, 80));
+            await new Promise(resolve => setTimeout(resolve, 100));
 
             const rendered = await html2canvas(canvas, { 
                 scale: 2, 
@@ -411,20 +394,17 @@ async function downloadAllSlides() {
                 logging: false
             });
             
-            const imageData = rendered.toDataURL("image/png");
             const link = document.createElement('a');
             const fileSuffix = typeof slideId === 'string' ? slideId.toUpperCase() : `SLIDE_${slideId}`;
             
-            link.href = imageData;
+            link.href = rendered.toDataURL("image/png");
             link.download = `SIYAL_AIR_${fileSuffix}.png`;
-            
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
         }
     } catch (err) {
-        console.error("Bulk Processing Error:", err);
-        alert("Bulk download failed. Verify pipeline file system links.");
+        alert("Bulk download failed.");
     } finally {
         await switchSlide(originalId, originalActiveTab);
         dlBtn.innerText = "DOWNLOAD ALL SLIDES";
