@@ -1,119 +1,119 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE DECOUPLING",
-        "titleBlue": "SHOCK",
-        "footerSummary": "The US transition to Section 301 forced labor tariffs on 60 nations forces immediate, deep provenance audits across global retail supply chains."
+        "titleWhite": "CUSTOMS COMPLIANCE",
+        "titleBlue": "DECOUPLING",
+        "footerSummary": "Global trade lanes fracture as the US deploys forced-labor tariffs against 60 nations, while fuel markets surge past $100 per barrel."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US CUSTOMS: SECTION 301 TRANSITION",
+            "heading": "US CUSTOMS: SECTION 301 REGIME",
             "points": [
-                "US replaces Section 122 surcharges with Section 301 forced labor tariffs.",
-                "Duties of 10% to 12.5% hit imports from 60 partner economies instantly.",
-                "Importers must deploy strict source-tracing to bypass customs seizures."
+                "US shifts from Section 122 to Section 301 forced-labor tariffs on 60 nations.",
+                "Importers face immediate 10% to 12.5% custom duty hikes across supply networks.",
+                "Compliance teams must perform immediate forced-labor origin audits on raw inputs."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL SURCHARGES",
+            "nextUpTease": "CN RAILWAY: NS MERGER ENDORSEMENT",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: cbp.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PANAMA CANAL: TRANSIT SURCHARGES",
+            "heading": "CN RAILWAY: NS MERGER ENDORSEMENT",
             "points": [
-                "Panama Canal reintroduces strict transit restrictions due to El Ni\u00f1o.",
-                "Major carriers immediately enforce new draft-limit transit surcharges.",
-                "Shippers must divert US East Coast cargo to intermodal West Coast routes."
+                "Canadian National backs the proposed Union Pacific and Norfolk Southern merger.",
+                "Network access expansion trades off direct midwestern rail-corridor competition.",
+                "Shippers gain streamlined intermodal transits through the Chicago rail gateway."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS RURAL SHIPPING MARKUPS",
+            "nextUpTease": "PANAMA CANAL: TRANSIT RESTRICTIONS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "USPS: RURAL SHIPPING MARKUPS",
+            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS",
             "points": [
-                "USPS adds a $2 to $3 surcharge on lightweight packages to rural addresses.",
-                "E-commerce merchants on eBay and Etsy face severe low-margin compression.",
-                "Sellers must leverage regional parcel carriers to bypass postal networks."
+                "Panama Canal Authority reintroduces draft restrictions ahead of El Ni\u00f1o drying.",
+                "Ocean carriers enforce immediate low-water surcharges and limit container weights.",
+                "Logistics planners must divert critical US East Coast cargo to West Coast ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPREME COURT: BROKER LIABILITY",
+            "nextUpTease": "FREIGHT BROKERAGE: VETTING STANDARDS",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SUPREME COURT: BROKER LIABILITY",
+            "heading": "FREIGHT BROKERAGE: VETTING STANDARDS",
             "points": [
-                "Supreme Court Montgomery ruling escalates carrier vetting duties for brokers.",
-                "Nuclear negligence lawsuits target entities utilizing unverified truckers.",
-                "Logistics providers must transition to real-time credentialing systems."
+                "Supreme Court's Montgomery ruling sparks massive nuclear negligence broker verdicts.",
+                "Standard freight brokers face intense liability risk for carrier safety failures.",
+                "3PLs must implement strict automated AI-driven motor carrier safety verification."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS SALE",
+            "nextUpTease": "AMAZON: MANDATORY AI LABELING",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "KUEHNE+NAGEL: APEX LOGISTICS SALE",
+            "heading": "AMAZON: MANDATORY AI LABELING",
             "points": [
-                "Kuehne+Nagel explores the strategic sale of its Apex Logistics business.",
-                "The potential spin-off threatens to disrupt trans-Pacific air charter capacity.",
-                "Enterprise shippers should secure fixed air freight allocations for 2026."
+                "Amazon mandates clear labeling of AI-generated human models in product imagery.",
+                "Sellers face instant listing suspensions for compliance gaps under new state laws.",
+                "Brand managers must review digital asset generation workflows to secure compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "PAYPAL: SELLER PROFILE REMOVAL",
+            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS STRATEGY",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PAYPAL: SELLER PROFILE REMOVAL",
+            "heading": "KUEHNE+NAGEL: APEX LOGISTICS STRATEGY",
             "points": [
-                "PayPal eliminates merchant seller profiles and updates arbitration terms.",
-                "Tighter platform regulations delay cash flows and increase hold margins.",
-                "Sellers must integrate alternative payment gateways to mitigate hold risk."
+                "Kuehne+Nagel evaluates an initial public listing or sale of Apex Logistics unit.",
+                "Strategic shift threatens transpacific air freight capacity control blocks.",
+                "Shippers must re-evaluate multi-year air freight volume commitments with forwarders."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: CANADA IMPORT TARIFFS",
+            "nextUpTease": "GLOBAL FUEL: CRUDE OIL PRICE SURGE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRADE POLICY: CANADA IMPORT TARIFFS",
+            "heading": "GLOBAL FUEL: CRUDE OIL PRICE SURGE",
             "points": [
-                "US slaps sweeping 50% tariffs on critical industrial imports from Canada.",
-                "Duties override previous USMCA duty-free treatments on standard goods.",
-                "Nearshore supply chains must alter sourcing configurations to avoid costs."
+                "Brent crude oil surges past $100 per barrel amid escalating geopolitical actions.",
+                "Carriers prepare steep fuel surcharges across ocean, air, and truckload networks.",
+                "Supply chain managers must renegotiate bunker and diesel surcharge baseline clauses."
             ],
             "imageUrl": "",
-            "nextUpTease": "DAILY QUOTE",
+            "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,32 +122,16 @@ const dailyData = {
             "id": 8,
             "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
             "points": [
-                "\"The complexity of the new tariff regime leaves importers facing massive operational friction, forcing an immediate shift in tracking origin.\"",
-                "\u2014 Paul Wiseman, Lead Reporter, AP",
-                "Context: Analysis of US Import Surcharges, July 2026"
+                "\"Detention fees must always promote freight fluidity, not serve as carrier revenue.\"",
+                "\u2014 Laura DiBella, Chairman, FMC",
+                "Context: July 2026 Federal Court of Appeals Ruling"
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCHIVE ACCESS",
+            "nextUpTease": "",
             "tags": [
                 "Source: Verified Wire",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 9,
-            "heading": "SIYAL AIR INTELLIGENCE: ARCHIVE ROUTING",
-            "points": [
-                "Access full global freight intelligence and hourly macro data streams.",
-                "Explore deep analytical archives and supply chain compliance maps.",
-                "Subscribe to our continuous network feed for real-time trade alerts."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "END OF FEED",
-            "tags": [
-                "Source: Siyal Air Core",
-                "Published: Real-Time",
-                "Status: System Active"
             ]
         }
     ]
