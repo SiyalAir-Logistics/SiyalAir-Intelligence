@@ -63,10 +63,12 @@ const path = require('path');
             newName = "slide_01.webp";
         } else if (file.includes('FOLLOW')) {
             newName = "slide_09.webp";
+        } else if (file.includes('QUOTE')) {
+            newName = "slide_08.webp";
         } else {
             const match = file.match(/SLIDE_(\d+)/);
             if (match) {
-                // Adds 1 so SLIDE_1 becomes slide_02.webp (leaving slide_01 for MAIN)
+                // Adds 1 so SLIDE_1 becomes slide_02.webp (leaving slide_01 for MAIN, capping content slides up to slide_07)
                 const slideNum = parseInt(match[1]) + 1; 
                 newName = `slide_${String(slideNum).padStart(2, '0')}.webp`;
             }
