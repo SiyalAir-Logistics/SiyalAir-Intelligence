@@ -1,119 +1,119 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT ARCHITECTURE",
-        "titleBlue": "SHIFT",
-        "footerSummary": "New US Section 301 forced-labor tariffs and imminent Panama Canal El Ni\u00f1o transit restrictions force immediate lane re-routing and strict origin audits."
+        "titleWhite": "GLOBAL FREIGHT FRICTION",
+        "titleBlue": "ACCELERATES",
+        "footerSummary": "New US tariffs on 60 nations, a $100 Brent crude threshold, and rigid broker carrier-vetting rules force immediate, systemic trade lane routing changes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US CUSTOMS: NEW TARIFF SHIFT",
+            "heading": "WHITE HOUSE: SWEEPING TARIFF MANDATE",
             "points": [
-                "US implements Section 301 tariffs on 60 trading partners linked to forced labor.",
-                "Importers face sudden 10% to 12.5% duties as temporary stopgap levies expire.",
-                "Supply chain managers must audit country-of-origin compliance frameworks immediately."
+                "US slaps 10% to 12.5% tariffs on 60 trading partners linked to forced labor.",
+                "Section 122 duties expire as new targeted duties hit global freight pathways.",
+                "Shippers must audit multi-tier supplier origins immediately to avoid customs holds."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC FEES UPHOLD",
+            "nextUpTease": "CANADIAN IMPORT LEVIES",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATION: FMC D&D DECISION UPHELD",
+            "heading": "US CUSTOMS: CANADIAN IMPORT LEVIES",
             "points": [
-                "US Court of Appeals upholds FMC decision on detention and demurrage fee structures.",
-                "Ocean carriers must prove billing practices actively incentivize cargo fluidity.",
-                "Shippers should review chargeback terms to reclaim non-compliant demurrage fees."
+                "US imposes 50% tariffs on diverse Canadian imports, disrupting USMCA trade paths.",
+                "Cross-border supply chains face immediate bilateral cost spikes up to 50 percent.",
+                "Logistics managers must rewrite border routing strategies to mitigate USMCA risk."
             ],
             "imageUrl": "",
-            "nextUpTease": "BROKER VETTING VERDICT",
+            "nextUpTease": "BRENT CRUDE SPIKE",
             "tags": [
-                "Source: fmc.gov",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LITIGATION: BROKER VETTING RISK",
+            "heading": "GLOBAL ENERGY: BRENT CRUDE SPIKE",
             "points": [
-                "C.H. Robinson hit with major nuclear verdict following Supreme Court ruling.",
-                "Freight brokers face soaring liability risks for negligent carrier selection.",
-                "Intermediaries must implement automated, multi-tiered carrier screening protocols."
+                "Brent crude oil surges 7.2% to top $100 per barrel amid escalating Red Sea risks.",
+                "Fuel surcharges escalate immediately, inflating transport costs across all modes.",
+                "Shippers must brace for Q3 margin erosion and lock in carrier fuel hedges now."
             ],
             "imageUrl": "",
-            "nextUpTease": "PEAK FEES UNVEILED",
+            "nextUpTease": "CARRIER VETTING MANDATE",
             "tags": [
-                "Source: freightwaves.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PARCEL: FEDEX PEAK FEES LAUNCH",
+            "heading": "FEDERAL COURTS: CARRIER VETTING MANDATE",
             "points": [
-                "FedEx officially announces its scheduled peak season surcharges for late 2026.",
-                "High-volume e-commerce shippers face significantly increased home delivery costs.",
-                "Brands must diversify last-mile carriers to mitigate Q4 margin compression."
+                "US Supreme Court's Montgomery ruling drastically raises the bar for broker liability.",
+                "Freight brokers face severe legal exposures without standardized safety vetting tools.",
+                "Operations must automate and document active carrier safety audits at every dispatch."
             ],
             "imageUrl": "",
-            "nextUpTease": "APEX DIVESTMENT PLAN",
+            "nextUpTease": "RURAL SHIPPING RATE HIKE",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "M&A: KUEHNE+NAGEL APEX STRATEGY",
+            "heading": "USPS: RURAL SHIPPING RATE HIKE",
             "points": [
-                "Kuehne+Nagel explores the potential sale of a stake in its Apex Logistics unit.",
-                "Realigning trans-Pacific air freight assets introduces partner integration risks.",
-                "Shippers must monitor Asian gateway capacity allocations during the evaluation."
+                "USPS raises rates by $2 to $3 for lightweight parcels bound for rural coordinates.",
+                "E-commerce margins decline for lightweight consumer goods shipped via postal lanes.",
+                "Retailers should diversify last-mile carriers to bypass regional parcel surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANAL TRANSIT CUTS",
+            "nextUpTease": "PANAMA CANAL TRANSIT LIMITS",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: PANAMA CANAL RESTRICTIONS",
+            "heading": "PANAMA CANAL: TRANSIT VOLUME CAP",
             "points": [
-                "Panama Canal Authority plans transit cuts in anticipation of severe El Ni\u00f1o weather.",
-                "Daily vessel draft limits and surcharges threaten US East Coast trade lanes.",
-                "Shippers must secure space early or reroute critical cargo to US West Coast ports."
+                "Panama Canal Authority plans to reintroduce draft restrictions ahead of El Nino.",
+                "Carrier capacity reduces per transit, raising ocean spot rates and delay risks.",
+                "Supply chain planners must diversify to West Coast ports to secure transit times."
             ],
             "imageUrl": "",
-            "nextUpTease": "RURAL SHIPPING FEES",
+            "nextUpTease": "DETENTION CHARGE COMPLIANCE",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "POSTAL: USPS RURAL RATE HIKES",
+            "heading": "FMC: DETENTION CHARGE COMPLIANCE",
             "points": [
-                "USPS increases shipping costs for lightweight packages bound for rural zip codes.",
-                "Online sellers face a $2 to $3 delivery surcharge on low-margin e-commerce goods.",
-                "Marketplaces must adjust pricing tiers or switch to regional parcel networks."
+                "US Appeals Court upholds FMC rule that ocean detention fees must promote fluid trade.",
+                "Ocean carriers are legally barred from penalizing shippers during gridlock windows.",
+                "Importers should file immediate charge complaints to claw back non-compliant fees."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY QUOTE",
             "tags": [
-                "Source: ecommercebytes.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,9 +122,9 @@ const dailyData = {
             "id": 8,
             "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
             "points": [
-                "\"Effective leaders target the biggest bottlenecks rather than perfecting every link.\"",
-                "\u2014 Davey Miller, COO, CMC",
-                "Context: Inbound Logistics Executive Briefing, July 2026"
+                "\"Our cost reduction programme is fully on track, and our structural efficiency is improving as we navigate volatile trade lanes.\"",
+                "\u2014 Stefan Paul, CEO, Kuehne+Nagel",
+                "Context: Q2 2026 Earnings Call (July 23, 2026)"
             ],
             "imageUrl": "",
             "nextUpTease": "ARCHIVE ACCESS",
