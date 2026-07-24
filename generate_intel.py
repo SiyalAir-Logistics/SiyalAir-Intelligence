@@ -7,6 +7,7 @@ import json
 from google import genai
 from google.genai import types
 import datetime
+import hashlib
 
 # 1. AUTH & CONFIG
 # Fetches API key from GitHub Secrets
@@ -15,8 +16,30 @@ client = genai.Client(api_key=api_key)
 
 # Models in priority order
 MODEL_PRIORITY = ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-2.5-flash"]
+HASH_FILE = "processed_hashes.txt"
 
-# 2. STEALTH ENGINE
+# 2. DEDUPLICATION ENGINE
+def load_processed_hashes():
+    """Loads previously processed article content hashes to prevent duplication."""
+    if not os.path.exists(HASH_FILE):
+        return set()
+    with open(HASH_FILE, "r", encoding="utf-8") as f:
+        return set(line.strip() for line in f if line.strip())
+
+def save_processed_hash(content_signature):
+    """Appends a new unique content hash to the registry file."""
+    processed = load_processed_hashes()
+    content_hash = hashlib.sha256(content_signature.encode('utf-8')).hexdigest()
+    
+    if content_hash in processed:
+        return True # Duplicate detected
+        
+    processed.add(content_hash)
+    with open(HASH_FILE, "w", encoding="utf-8") as f:
+        f.write("\n".join(processed) + "\n")
+    return False
+
+# 3. STEALTH ENGINE
 def get_stealth_headers():
     """Rotates User-Agent to mimic different browsers/devices."""
     user_agents = [
@@ -58,9 +81,17 @@ def fetch_and_clean():
             continue # Fail silently to keep the pipeline moving
     return prompt_content, scraped_text
 
-# 3. PIPELINE EXECUTION
+# 4. PIPELINE EXECUTION
 def main():
     prompt_base, data = fetch_and_clean()
+    
+    # Check deduplication against the combined gathered intel signature
+    if data.strip():
+        signature_sample = data[:1000] # Use top text chunk as unique fingerprint
+        if save_processed_hash(signature_sample):
+            print("Duplicate news feed detected in registry. Halting execution to avoid redundancy.")
+            return
+
     final_input = f"{prompt_base}\n\n[LATEST LIVE DATA]:\n{data}"
     
     for model in MODEL_PRIORITY:
