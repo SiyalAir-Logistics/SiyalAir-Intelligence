@@ -42,7 +42,7 @@ const path = require('path');
 
     console.log("Awaiting engine synthesis pipeline to process all slides...");
     
-    // --- TARGET COUNT: Await precisely 10 total exported image files (MAIN, SLIDE 1-7, QUOTE, FOLLOW) ---
+    // --- UPDATED TARGET COUNT: Await precisely 10 total exported image files (MAIN, SLIDE 1-7, QUOTE, FOLLOW) ---
     let totalFiles = 0;
     for (let attempt = 0; attempt < 45; attempt++) {
         await new Promise(r => setTimeout(r, 1000));
@@ -51,11 +51,11 @@ const path = require('path');
         if (totalFiles >= 10) break; 
     }
 
-    console.log(`Discovered ${totalFiles} raw assets. Streamlining structural order labels in reverse sequence...`);
+    console.log(`Discovered ${totalFiles} raw assets. Streamlining structural order labels...`);
 
-    // --- REVERSE ORDER PROCESSING: Reverse the array loop so FOLLOW/Slide 10 processes first down to MAIN ---
+    // Organize and sequentially rename the captured files cleanly (slide_01 to slide_10)
     const files = fs.readdirSync(downloadPath).filter(f => f.endsWith('.png') || f.endsWith('.webp') || f.endsWith('.jpg'));
-    files.reverse().forEach((file) => {
+    files.forEach((file) => {
         const fullPath = path.join(downloadPath, file);
         let newName = "";
 
@@ -76,10 +76,10 @@ const path = require('path');
 
         if (newName) {
             fs.renameSync(fullPath, path.join(downloadPath, newName));
-            console.log(`Renamed (Reverse Flow): ${file} -> ${newName}`);
+            console.log(`Renamed: ${file} -> ${newName}`);
         }
     });
 
-    console.log("Asset synchronization sequence completed successfully in reverse order.");
+    console.log("Asset synchronization sequence completed successfully.");
     await browser.close();
 })();
