@@ -42,18 +42,18 @@ const path = require('path');
 
     console.log("Awaiting engine synthesis pipeline to process all slides...");
     
-    // Wait until files have finished downloading completely (dynamically checks based on available elements)
+    // --- UPDATED TARGET COUNT: Await precisely 10 total exported image files (MAIN, SLIDE 1-7, QUOTE, FOLLOW) ---
     let totalFiles = 0;
     for (let attempt = 0; attempt < 45; attempt++) {
         await new Promise(r => setTimeout(r, 1000));
         const files = fs.readdirSync(downloadPath).filter(f => f.endsWith('.png') || f.endsWith('.webp') || f.endsWith('.jpg'));
         totalFiles = files.length;
-        if (totalFiles >= 9) break; 
+        if (totalFiles >= 10) break; 
     }
 
     console.log(`Discovered ${totalFiles} raw assets. Streamlining structural order labels...`);
 
-    // Organize and sequentially rename the captured files cleanly (slide_01 to slide_09)
+    // Organize and sequentially rename the captured files cleanly (slide_01 to slide_10)
     const files = fs.readdirSync(downloadPath).filter(f => f.endsWith('.png') || f.endsWith('.webp') || f.endsWith('.jpg'));
     files.forEach((file) => {
         const fullPath = path.join(downloadPath, file);
@@ -62,14 +62,14 @@ const path = require('path');
         if (file.includes('MAIN')) {
             newName = "slide_01.webp";
         } else if (file.includes('FOLLOW')) {
-            newName = "slide_09.webp";
+            newName = "slide_10.webp";
         } else if (file.includes('QUOTE')) {
-            newName = "slide_08.webp";
+            newName = "slide_09.webp";
         } else {
-            const match = file.match(/SLIDE_(\d+)/);
+            const match = file.match(/SLIDE_(\d+)/) || file.match(/_(\d+)_/);
             if (match) {
-                // Adds 1 so SLIDE_1 becomes slide_02.webp (leaving slide_01 for MAIN, capping content slides up to slide_07)
-                const slideNum = parseInt(match[1]) + 1; 
+                const parsedVal = parseInt(match[1]);
+                const slideNum = parsedVal <= 7 && !file.includes('SLIDE_') ? parsedVal + 1 : parsedVal;
                 newName = `slide_${String(slideNum).padStart(2, '0')}.webp`;
             }
         }
