@@ -63,10 +63,13 @@ const path = require('path');
             newName = "slide_01.webp";
         } else if (file.includes('FOLLOW')) {
             newName = "slide_09.webp";
+        } else if (file.includes('QUOTE')) {
+            newName = "slide_08.webp";
         } else {
             const match = file.match(/SLIDE_(\d+)/);
             if (match) {
-                // Adds 1 so SLIDE_1 becomes slide_02.webp (leaving slide_01 for MAIN)
+                // Standard sub-slides 1 through 7 map directly to slide_02 through slide_08 originally, 
+                // but with QUOTE locked at slide_08, sub-slides map precisely to slide_02 through slide_07.
                 const slideNum = parseInt(match[1]) + 1; 
                 newName = `slide_${String(slideNum).padStart(2, '0')}.webp`;
             }
