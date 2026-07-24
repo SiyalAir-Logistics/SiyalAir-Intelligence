@@ -213,7 +213,7 @@ async function switchSlide(id, element) {
         // --- REQUIREMENT 3: Slide 9 (FOLLOW) strictly has image background only with nothing else ---
         html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
     } else if (id === 'quote') {
-        // --- REQUIREMENT 4: Independent standalone quote style class with NO bullet points ---
+        // --- FIXED: Independent standalone quote style with clean layout and NO 'NEXT UP' text string ---
         canvas.className = 'quote-slide-style';
         const qData = dailyData.quote || { heading: "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION", quoteText: "", author: "", context: "" };
         const formattedQuoteHeading = formatTitleBlue(qData.heading || "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION");
@@ -222,11 +222,10 @@ async function switchSlide(id, element) {
                 <header><h1 class="auto-fit">${formattedQuoteHeading}</h1><div class="header-divider"></div></header>
                 <div class="quote-content-wrapper">
                     <p class="quote-main-text">"${qData.quoteText || qData.content || ""}"</p>
-                    <p class="quote-author">${qData.author || ""}</p>
-                    <p class="quote-context">${qData.context || ""}</p>
+                    <p class="quote-author">${qData.author ? "— " + qData.author : (qData.author || "")}</p>
+                    <p class="quote-context">${qData.context ? "Context: " + qData.context : (qData.context || "")}</p>
                 </div>
                 </div>
-                <div class="next-up-tease">NEXT UP: FOLLOW</div>
                 <div class="swipe-prompt">SWIPE NEXT →</div>`;
     } else if (id === 'post') {
         // --- REQUIREMENT 3: Isolated POST slide with clean white background, text caption, and standalone copy button ---
@@ -249,7 +248,7 @@ async function switchSlide(id, element) {
                 <div style="text-align: right; margin-top: 20px;">
                     <button id="isolated-copy-btn" style="background: #00c0ff; color: #ffffff; border: none; padding: 12px 24px; font-weight: bold; cursor: pointer; border-radius: 4px; font-size: 14px;">COPY POST CAPTION</button>
                 </div>
-               </div>`;
+               `;
     } else {
         const index = id - 1;
         const slide = dailyData.slides[index];
@@ -376,18 +375,21 @@ async function downloadAllSlides() {
     dlBtn.innerText = "CAPTURING ALL...";
     dlBtn.disabled = true;
 
-    // --- EXACT REVERSE PIPELINE ORDER: FOLLOW -> QUOTE -> SLIDES 7..1 -> MAIN ---
-    const queue = ['follow', 'quote'];
+    // --- FIXED PIPELINE ORDER: MAIN -> SLIDES 1..7 -> QUOTE -> FOLLOW (Sequential Folder Ordering) ---
+    const queue = ['main'];
     const maxSubSlides = Math.min(dailyData.slides.length, 7);
-    for (let i = maxSubSlides; i >= 1; i--) {
+    for (let i = 1; i <= maxSubSlides; i++) {
         queue.push(i);
     }
-    queue.push('main');
+    queue.push('quote');
+    queue.push('follow');
 
     try {
+        let sequenceIndex = 1;
         for (const slideId of queue) {
             await switchSlide(slideId, null);
-            await new Promise(resolve => setTimeout(resolve, 80));
+            // Increased pause interval to 1500ms to guarantee DOM paint stability and prevent race conditions
+            await new Promise(resolve => setTimeout(resolve, 1500));
 
             const rendered = await html2canvas(canvas, { 
                 scale: 2, 
@@ -399,14 +401,18 @@ async function downloadAllSlides() {
             
             const imageData = rendered.toDataURL("image/png");
             const link = document.createElement('a');
-            const fileSuffix = typeof slideId === 'string' ? slideId.toUpperCase() : `SLIDE_${slideId}`;
+            
+            // Apply pristine zero-padded file serialization prefixes (01 to 09)
+            const paddedNum = String(sequenceIndex).padStart(2, '0');
+            const fileSuffix = typeof slideId === 'string' ? slideId.toUpperCase() : `SLIDE_${paddedNum}`;
             
             link.href = imageData;
-            link.download = `SIYAL_AIR_${fileSuffix}.png`;
+            link.download = `SIYAL_AIR_${paddedNum}_${fileSuffix}.png`;
             
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
+            sequenceIndex++;
         }
     } catch (err) {
         console.error("Bulk Processing Error:", err);
