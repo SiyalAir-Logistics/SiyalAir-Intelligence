@@ -112,15 +112,36 @@ def main():
             if not raw_text.startswith('{'): raw_text = '{' + raw_text
             if not raw_text.endswith('}'): raw_text = raw_text + '}'
             
-            # --- VALIDATION: Ensure generated text is valid JSON ---
+            # --- VALIDATION & STRUCTURAL EXTRACTION: Ensure generated text parses correctly and splits quote data ---
             parsed_payload = json.loads(raw_text)
             
             # Extract content paths from the structured JSON schema safely
-            slides_object = parsed_payload.get("slides_data", parsed_payload)
+            slides_data_obj = parsed_payload.get("slides_data", parsed_payload)
+            
+            # --- FIX: Isolate executive quote slide from standard core slides array ---
+            slides_list = slides_data_obj.get("slides", [])
+            extracted_quote = {}
+            cleaned_slides = []
+            
+            for s in slides_list:
+                if s.get("id") == 8 or "EXECUTIVE PERSPECTIVE" in s.get("heading", ""):
+                    points = s.get("points", ["", "", ""])
+                    extracted_quote = {
+                        "heading": s.get("heading", "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION"),
+                        "quoteText": points[0].strip('"'),
+                        "author": points[1].replace("—", "").strip(),
+                        "context": points[2].replace("Context:", "").strip()
+                    }
+                else:
+                    cleaned_slides.append(s)
+            
+            slides_data_obj["slides"] = cleaned_slides
+            slides_data_obj["quote"] = extracted_quote
+            
             post_content = parsed_payload.get("social_post", "")
             
             # Convert extracted slides data back to a clean string format
-            slides_json_str = json.dumps(slides_object, indent=4)
+            slides_json_str = json.dumps(slides_data_obj, indent=4)
             
             # Save exactly as required for template.js
             with open("template.js", "w", encoding="utf-8") as f:
