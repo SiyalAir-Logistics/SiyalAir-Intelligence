@@ -397,6 +397,106 @@ body {
 }
 
 /* ==========================================================================
+   SEGMENT 4: QUOTE SLIDE (Standalone Executive Perspective Style)
+   ========================================================================== */
+
+.quote-slide-style .content-body {
+    padding-top: 140px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 60px;
+    max-height: 1220px;
+    overflow: hidden;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+}
+
+.quote-slide-style header {
+    min-height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+}
+
+.quote-slide-style header h1 {
+    font-family: var(--font-title) !important;
+    font-size: clamp(40px, 6cqw, 70px) !important;
+    display: -webkit-box !important;
+    -webkit-line-clamp: 2 !important;
+    -webkit-box-orient: vertical !important;
+    overflow: hidden !important;
+    word-break: break-word !important;
+    font-weight: 800 !important;
+    line-height: 1.1 !important;
+    letter-spacing: 0px !important;
+    margin-bottom: 15px;
+    text-transform: none !important;
+    text-align: left;
+}
+
+.quote-slide-style header h1 .last-word-blue {
+    color: var(--aeon-blue) !important;
+}
+
+.quote-slide-style .header-divider {
+    width: 140px;
+    height: 8px;
+    background: var(--aeon-blue);
+    margin-bottom: 20px;
+}
+
+.quote-content-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex: 1;
+    margin-bottom: 40px;
+}
+
+.quote-main-text {
+    font-family: var(--font-body);
+    font-size: 38px;
+    font-weight: 500;
+    line-height: 1.4;
+    letter-spacing: 0px;
+    color: rgba(255, 255, 255, 0.95);
+    margin-bottom: 30px;
+    font-style: italic;
+    text-align: left;
+}
+
+.quote-author {
+    font-family: var(--font-title);
+    font-size: 26px;
+    font-weight: 700;
+    color: var(--aeon-blue);
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+    text-align: left;
+}
+
+.quote-context {
+    font-family: var(--font-body);
+    font-size: 20px;
+    font-weight: 400;
+    color: rgba(255, 255, 255, 0.7);
+    letter-spacing: 0.5px;
+    text-align: left;
+}
+
+/* ==========================================================================
+   SEGMENT 5: POST SLIDE STYLE (Isolated Social Post Container)
+   ========================================================================== */
+
+.post-slide-style {
+    background: #ffffff !important;
+    background-image: none !important;
+}
+
+/* ==========================================================================
    GLOBAL ELEMENTS (SWIPE PROMPT & UTILITIES)
    ========================================================================== */
 
