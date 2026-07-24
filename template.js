@@ -1,69 +1,37 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TARIFF OVERHAULS AND INFLATION",
+        "titleWhite": "GLOBAL SUPPLY CORRIDOR",
         "titleBlue": "SHOCKS",
-        "footerSummary": "The US transition to Section 301 forced-labor tariffs on 60 nations forces immediate, high-friction supply chain audits and landed-cost recalibration."
+        "footerSummary": "New US Section 301 tariffs on 60 economies and a historic $604M carrier vetting verdict disrupt global trade routes and broker compliance."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US CUSTOMS: SECTION 301 TARIFF OVERHAUL",
+            "heading": "USTR: SECTION 301 TARIFF TRANSITION",
             "points": [
-                "US replaces Section 122 surcharges with a new Section 301 forced-labor tariff.",
-                "Imports from 60 economies face immediate duties ranging from 10% to 12.5%.",
-                "Importers must instantly deploy origin audits to mitigate non-compliance risks."
+                "US replaces temporary Section 122 fees with active Section 301 forced-labor duties.",
+                "Imports from 60 global economies face strict new 10% to 12.5% structural tariffs.",
+                "Importers must audit multi-tier supply chain compliance to mitigate duty exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "LITIGATION: BROKER NEGLIGENT SELECTION",
+            "nextUpTease": "PANAMA CANAL LIMITS",
             "tags": [
-                "Source: cbp.gov",
+                "Source: logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LITIGATION: BROKER NEGLIGENT SELECTION",
+            "heading": "PANAMA CANAL: EL NINO TRANSIT CORRIDORS",
             "points": [
-                "C.H. Robinson faces massive nuclear verdict under post-Montgomery liability rules.",
-                "Recent rulings shift strict carrier vetting responsibility directly to intermediaries.",
-                "Brokers must automate real-time driver verification and safety rating monitoring."
+                "Panama Canal Authority reinstates vessel transit limits ahead of El Nino weather.",
+                "Ocean carriers implement new draft-linked surcharges on US East Coast routes.",
+                "Logistics desks must route heavy ocean cargo via West Coast rail connections."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: CANADA USMCA TARIFF SHOCK",
-            "tags": [
-                "Source: freightwaves.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "REGULATION: CANADA USMCA TARIFF SHOCK",
-            "points": [
-                "US imposes emergency Section 338 tariffs on diversified Canadian import categories.",
-                "Importers face sudden 50% levies on goods previously cleared duty-free under USMCA.",
-                "Logistics managers must re-evaluate North American nearshoring financial modeling."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: DRAFT LIMITS REINSTATED",
-            "tags": [
-                "Source: supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "PANAMA CANAL: DRAFT LIMITS REINSTATED",
-            "points": [
-                "Panama Canal Authority reinstates transit limits ahead of El Ni\u00f1o weather trends.",
-                "Ocean carriers introduce hefty surcharges as daily vessel transits are throttled.",
-                "Shippers must divert time-sensitive cargo to US West Coast rail corridors."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "USPS: RURAL SHIPPING FEE SURGES",
+            "nextUpTease": "NEGLIGENT CARRIER SELECTION",
             "tags": [
                 "Source: theloadstar.com",
                 "Published: Last 48 Hours",
@@ -71,15 +39,47 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "USPS: RURAL SHIPPING FEE SURGES",
+            "id": 3,
+            "heading": "CH ROBINSON: NUCLEAR CARRIER VERDICT",
             "points": [
-                "USPS raises lightweight package rates targeting final-mile rural delivery zones.",
-                "Parcel shippers face direct $2.00 to $3.00 cost increases per residential package.",
-                "Multi-channel merchants must leverage zone-skipping to curb last-mile inflation."
+                "Federal jury delivers a $604 million negligent carrier selection verdict.",
+                "The massive ruling raises the legal threshold for broker vetting liability.",
+                "Shippers must mandate automated, real-time safety and insurance validation."
             ],
             "imageUrl": "",
-            "nextUpTease": "JUSTICE DEPT: TRADE FRAUD ENFORCEMENT",
+            "nextUpTease": "US-CANADA IMPORT DUTIES",
+            "tags": [
+                "Source: freightwaves.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "US CUSTOMS: CANADIAN IMPORT TARIFFS",
+            "points": [
+                "US slaps new 50% tariffs on a wide variety of Canadian cross-border imports.",
+                "The duties bypass existing duty-free classifications under USMCA frameworks.",
+                "Nearshore manufacturers must immediately re-audit landed cost calculations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS RURAL SURCHARGES",
+            "tags": [
+                "Source: supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "USPS: RURAL PARCEL SURCHARGES",
+            "points": [
+                "USPS implements a new $2 to $3 surcharge on lightweight rural deliveries.",
+                "E-commerce merchants face direct margin erosion on low-cost marketplace items.",
+                "Retailers must optimize final-mile routing and diversify regional carriers."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FEDEX PEAK SURCHARGES",
             "tags": [
                 "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -88,27 +88,27 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "JUSTICE DEPT: TRADE FRAUD ENFORCEMENT",
+            "heading": "FEDEX: PEAK SEASON FEES UNVEILED",
             "points": [
-                "DOJ Trade Fraud Task Force accelerates audits of illegal cross-border schemes.",
-                "Enforcement actions net over $1 billion in tariff evasion penalties within a year.",
-                "Compliance officers must implement continuous transaction bond and import auditing."
+                "FedEx announces early peak season fees and elevated home delivery surcharges.",
+                "Rising demand fees and fuel surcharges pressure B2C e-commerce margins.",
+                "Shippers must lock in carrier capacity agreements before peak volumes surge."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: CRUDE SPIKE FUEL SURCHARGES",
+            "nextUpTease": "APEX LOGISTICS DIVESTMENT",
             "tags": [
-                "Source: inboundlogistics.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ENERGY: CRUDE SPIKE FUEL SURCHARGES",
+            "heading": "KUEHNE+NAGEL: APEX LOGISTICS OPTIONS",
             "points": [
-                "Geopolitical conflict in the Middle East pushes Brent crude back toward $100.",
-                "Surging energy costs trigger instant hikes in parcel and truckload fuel surcharges.",
-                "Procurement teams must deploy dynamic freight fuel pegging to insulate margins."
+                "Kuehne+Nagel explores a strategic stake sale of its Apex Logistics division.",
+                "Forwarder consolidation threatens existing air freight capacity allocations.",
+                "Air shippers must secure redundant space agreements on critical transpacific lanes."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
@@ -120,9 +120,9 @@ const dailyData = {
         }
     ],
     "quote": {
-        "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "Annual air contracts are increasingly difficult to sustain as market capacity dynamics shift rapidly.",
-        "author": "Xeneta Analyst, Lead Freight Analyst at Xeneta",
-        "context": "July 2026 Market Intelligence Briefing"
+        "heading": "EXECUTIVE PERSPECTIVE",
+        "quoteText": "Effective leaders target the biggest bottlenecks rather than perfecting every link.",
+        "author": "Davey Miller, Chief Operating Officer, CMC",
+        "context": "Official Executive Commentary, July 2026"
     }
 };
