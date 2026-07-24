@@ -57,7 +57,7 @@ DEDICATED QUOTE CARD (SLIDE 8 / QUOTE):
 - Acts as the eighth structural card directly preceding the final FOLLOW card.
 - Features a verified industry executive quote under 40 words matching the hourly operational friction.
 - Strict legal/journalistic attribution format: Speaker Full Name, Exact Title & Company (Max 35 chars for title), and Date/Context benchmark.
-- CRITICAL LAYOUT CONSTRAINT: To prevent unwanted footer text overflow (such as "NEXT UP: FOLLOW") on the quote render canvas, the internal metadata field `nextUpTease` for Slide 8 must be set to an empty string `""` or explicitly omitted from visible layout text rendering.
+- CRITICAL RENDERING OVERRIDE: The front-end template rendering layer for Slide 8 must conditionally suppress or nullify any footer generation logic to ensure the footer container is completely removed, eliminating any trace of "NEXT UP: FOLLOW" or swipe prompts from the quote render output.
 
 CRITICAL EDITORIAL RULE: ABSOLUTELY ZERO SALES PITCHES OR SELF-PROMOTION. Do not mention Siyal Air LLC inside the points array strings, do not pitch freight services, and do not include promotional marketing calls-to-action within the core data slides. Siyal Air acts strictly as the objective publishing intelligence agency (kicker). The text must remain completely unbiased, forensic, and analytical to establish authority, leaving all profile routing to external end-slide templates.
 JSON Safety: Escape all double quotes inside strings using a backslash (\").
@@ -218,7 +218,7 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
         ],
         "imageUrl": "",
         "nextUpTease": "",
-        "tags": ["Source: Verified Wire", "Published: Last 48 Hours", "Status: Audited & True"]
+        "tags": ["Source: Verified Wire", "Published: Last `48 Hours", "Status: Audited & True"]
       }
     ]
   },
