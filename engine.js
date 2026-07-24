@@ -115,11 +115,25 @@ function initTabs() {
         tabContainer.appendChild(btn);
     });
 
+    // --- REQUIREMENT 1 & 3: Insert QUOTE tab right after regular slides ---
+    const quoteBtn = document.createElement('button');
+    quoteBtn.className = 'tab-btn';
+    quoteBtn.innerText = 'QUOTE';
+    quoteBtn.onclick = (e) => { e.preventDefault(); switchSlide('quote', quoteBtn); };
+    tabContainer.appendChild(quoteBtn);
+
     const followBtn = document.createElement('button');
     followBtn.className = 'tab-btn';
     followBtn.innerText = 'FOLLOW';
     followBtn.onclick = (e) => { e.preventDefault(); switchSlide('follow', followBtn); };
     tabContainer.appendChild(followBtn);
+
+    // --- REQUIREMENT 1 & 3: Insert POST tab at the absolute end, isolated from downloads ---
+    const postBtn = document.createElement('button');
+    postBtn.className = 'tab-btn';
+    postBtn.innerText = 'POST';
+    postBtn.onclick = (e) => { e.preventDefault(); switchSlide('post', postBtn); };
+    tabContainer.appendChild(postBtn);
 }
 
 function fitText(element, maxHeight, maxWidth) {
@@ -194,7 +208,46 @@ async function switchSlide(id, element) {
 
         const followAssetUrl = `followup/slide9-${followIndex}.png`;
 
+        // --- REQUIREMENT 3: Slide 9 (FOLLOW) strictly has image background only with nothing else ---
         html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
+    } else if (id === 'quote') {
+        // --- REQUIREMENT 4: Independent standalone quote style class with NO bullet points ---
+        canvas.className = 'quote-slide-style';
+        const qData = dailyData.quote || { heading: "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION", quoteText: "", author: "", context: "" };
+        const formattedQuoteHeading = formatTitleBlue(qData.heading || "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION");
+        
+        html = `<div class="content-body">
+                <header><h1 class="auto-fit">${formattedQuoteHeading}</h1><div class="header-divider"></div></header>
+                <div class="quote-content-wrapper">
+                    <p class="quote-main-text">"${qData.quoteText || qData.content || ""}"</p>
+                    <p class="quote-author">${qData.author || ""}</p>
+                    <p class="quote-context">${qData.context || ""}</p>
+                </div>
+                </div>
+                <div class="next-up-tease">NEXT UP: FOLLOW</div>
+                <div class="swipe-prompt">SWIPE NEXT →</div>`;
+    } else if (id === 'post') {
+        // --- REQUIREMENT 3: Isolated POST slide with clean white background, text caption, and standalone copy button ---
+        canvas.className = 'post-slide-style';
+        let postTextContent = "Loading post content...";
+        try {
+            const postRes = await fetch('post.txt?t=' + Date.now());
+            if (postRes.ok) {
+                postTextContent = await postRes.text();
+            }
+        } catch (e) {
+            postTextContent = "Failed to load post.txt content.";
+        }
+
+        html = `<div class="post-content-container" style="background: #ffffff; color: #111111; padding: 40px; width: 100%; height: 100%; box-sizing: border-box; overflow-y: auto; display: flex; flex-direction: column; justify-content: space-between;">
+                <div>
+                    <h2 style="margin-top: 0; color: #000000; font-family: sans-serif; font-size: 24px; border-bottom: 2px solid #00c0ff; padding-bottom: 10px;">SOCIAL MEDIA POST CAPTION</h2>
+                    <pre style="white-space: pre-wrap; font-family: monospace; font-size: 14px; line-height: 1.5; color: #222222; margin-top: 20px;">${postTextContent}</pre>
+                </div>
+                <div style="text-align: right; margin-top: 20px;">
+                    <button id="isolated-copy-btn" style="background: #00c0ff; color: #ffffff; border: none; padding: 12px 24px; font-weight: bold; cursor: pointer; border-radius: 4px; font-size: 14px;">COPY POST CAPTION</button>
+                </div>
+               </div>`;
     } else {
         const index = id - 1;
         const slide = dailyData.slides[index];
@@ -209,7 +262,14 @@ async function switchSlide(id, element) {
             }
             
             const formattedHeading = formatTitleBlue(slide.heading);
-            const nextTease = (index < dailyData.slides.length - 1) ? dailyData.slides[index + 1].heading : "";
+            
+            // --- REQUIREMENT 2: Slide 7 bottom next up precisely points to EXECUTIVE PERSPECTIVE ---
+            let nextTease = "";
+            if (index === dailyData.slides.length - 1) {
+                nextTease = "EXECUTIVE PERSPECTIVE";
+            } else if (index < dailyData.slides.length - 1) {
+                nextTease = dailyData.slides[index + 1].heading;
+            }
             
             html = `<div class="content-body">
                     <header><h1 class="auto-fit">${formattedHeading}</h1><div class="header-divider"></div></header>
@@ -220,6 +280,31 @@ async function switchSlide(id, element) {
         }
     }
     canvas.innerHTML = html;
+
+    // Attach copy event listener if POST slide is active
+    if (id === 'post') {
+        const copyBtn = document.getElementById('isolated-copy-btn');
+        if (copyBtn) {
+            copyBtn.onclick = async () => {
+                try {
+                    let textToCopy = "";
+                    const postRes = await fetch('post.txt?t=' + Date.now());
+                    if (postRes.ok) {
+                        textToCopy = await postRes.text();
+                    } else {
+                        textToCopy = document.querySelector('.post-content-container pre')?.innerText || "";
+                    }
+                    await navigator.clipboard.writeText(textToCopy);
+                    copyBtn.innerText = "COPIED SUCCESSFULLY!";
+                    setTimeout(() => { copyBtn.innerText = "COPY POST CAPTION"; }, 2000);
+                } catch (err) {
+                    console.error("Clipboard write failed", err);
+                    alert("Failed to copy text automatically.");
+                }
+            };
+        }
+    }
+
     setTimeout(() => {
         const titles = canvas.querySelectorAll('.auto-fit');
         titles.forEach(t => fitText(t, 500, 850));
@@ -232,6 +317,10 @@ async function downloadCurrentSlide() {
     const activeTab = document.querySelector('.tab-btn.active');
     
     if (!canvas || !dlBtn) return;
+    if (activeTab && activeTab.innerText === 'POST') {
+        alert("Post slide is isolated from image downloads.");
+        return;
+    }
 
     dlBtn.innerText = "CAPTURING...";
     dlBtn.disabled = true;
@@ -273,18 +362,21 @@ async function downloadAllSlides() {
     const originalActiveTab = document.querySelector('.tab-btn.active');
     let originalId = 'main';
     
-    classNamesCorrection:
     if (originalActiveTab) {
         if (originalActiveTab.innerText === 'MAIN') originalId = 'main';
         else if (originalActiveTab.innerText === 'FOLLOW') originalId = 'follow';
+        else if (originalActiveTab.innerText === 'QUOTE') originalId = 'quote';
+        else if (originalActiveTab.innerText === 'POST') originalId = 'post';
         else originalId = parseInt(originalActiveTab.innerText.replace('SLIDE-', ''));
     }
 
     dlBtn.innerText = "CAPTURING ALL...";
     dlBtn.disabled = true;
 
+    // --- REQUIREMENT 3: Exclude 'post' from bulk image download queue entirely ---
     const queue = ['main'];
     dailyData.slides.forEach((_, i) => queue.push(i + 1));
+    queue.push('quote');
     queue.push('follow');
 
     queue.reverse();
