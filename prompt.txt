@@ -53,21 +53,22 @@ MANDATORY 3-TIER ANALYTICAL PILLARS PER DATA SLIDE (1-7):
 2. Bullet 2 (The Quantitative Friction): Delivers the hard operational bottleneck, cost metric, or compliance impact. Max 85 chars.
 3. Bullet 3 (The Strategic Horizon): Delivers the forward-looking decision-maker takeaway. Max 85 chars.
 
-DEDICATED SLIDE 8 (DAILY EXECUTIVE QUOTE / INDUSTRY VALIDATION):
-- Acts as the second-to-last slide directly preceding the closing sequence.
+DEDICATED QUOTE CARD (SLIDE 8 / QUOTE):
+- Acts as the eighth structural card directly preceding the final FOLLOW card.
 - Features a verified industry executive quote under 40 words matching the hourly operational friction.
 - Strict legal/journalistic attribution format: Speaker Full Name, Exact Title & Company (Max 35 chars for title), and Date/Context benchmark.
+- CRITICAL LAYOUT CONSTRAINT: To prevent unwanted footer text overflow (such as "NEXT UP: FOLLOW") on the quote render canvas, the internal metadata field `nextUpTease` for Slide 8 must be set to an empty string `""` or explicitly omitted from visible layout text rendering.
 
 CRITICAL EDITORIAL RULE: ABSOLUTELY ZERO SALES PITCHES OR SELF-PROMOTION. Do not mention Siyal Air LLC inside the points array strings, do not pitch freight services, and do not include promotional marketing calls-to-action within the core data slides. Siyal Air acts strictly as the objective publishing intelligence agency (kicker). The text must remain completely unbiased, forensic, and analytical to establish authority, leaving all profile routing to external end-slide templates.
 JSON Safety: Escape all double quotes inside strings using a backslash (\").
 
 SECTION 4: DATA INTERCHANGE SCHEMA SPECIFICATIONS (template.js DATA MAP)
-Extract 7 distinct technical developments from the scraped data sources, plus 1 verified executive quote, and structure them into exactly 9 slides total:
+Extract 7 distinct technical developments from the scraped data sources, plus 1 verified executive quote, and structure them into the exact fixed UI tab architecture layout (MAIN, SLIDES 1-7, QUOTE, FOLLOW):
 - kicker: Static string value "" (Empty string to maintain empty block padding)
 - titleWhite: Dynamic theme string (all phrase words except the last, 2 to 5 words)
 - titleBlue: Dynamic theme string (only the very last word, exactly 1 word)
 - footerSummary: A high-density, two-line analytical synthesis of the top logistics development (max 25 words).
-- slides: Array of exactly 9 slide objects numbered 1-9 (Slides 1-7: Core Intelligence Signals; Slide 8: Daily Executive Quote; Slide 9: Final Follow-Up/CTA).
+- slides: Array of exactly 8 content slides numbered 1-8 corresponding strictly to the tab layout (Slides 1-7: Core Intelligence Signals; Slide 8: Daily Executive Quote). Note: The final visual CTA card ('FOLLOW') is handled separately by the engine pipeline.
 
 SECTION 5: SOCIAL MEDIA POST FORMAT SPECIFICATIONS
 Generate an Instagram caption string block updated concurrently with the generated slides. The format must match this text structure exactly, preserving paragraph splits, line boundaries, and symbols:
@@ -204,7 +205,7 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
           "[The Strategic Horizon: Forward-looking decision takeaway, max 85 chars]"
         ],
         "imageUrl": "",
-        "nextUpTease": "DAILY QUOTE",
+        "nextUpTease": "EXECUTIVE PERSPECTIVE",
         "tags": ["Source: [Domain Root URL]", "Published: Last 48 Hours", "Status: Audited & True"]
       },
       {
@@ -216,20 +217,8 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
           "Context: [Date / Earnings Call / Official Statement Benchmark]"
         ],
         "imageUrl": "",
-        "nextUpTease": "ARCHIVE ACCESS",
+        "nextUpTease": "",
         "tags": ["Source: Verified Wire", "Published: Last 48 Hours", "Status: Audited & True"]
-      },
-      {
-        "id": 9,
-        "heading": "SIYAL AIR INTELLIGENCE: ARCHIVE ROUTING",
-        "points": [
-          "Access full global freight intelligence and hourly macro data streams.",
-          "Explore deep analytical archives and supply chain compliance maps.",
-          "Subscribe to our continuous network feed for real-time trade alerts."
-        ],
-        "imageUrl": "",
-        "nextUpTease": "END OF FEED",
-        "tags": ["Source: Siyal Air Core", "Published: Real-Time", "Status: System Active"]
       }
     ]
   },
