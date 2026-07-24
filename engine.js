@@ -215,8 +215,8 @@ async function switchSlide(id, element) {
     } else if (id === 'quote') {
         // --- FIXED: Independent standalone quote style with clean layout and NO 'NEXT UP' text string ---
         canvas.className = 'quote-slide-style';
-        const qData = dailyData.quote || { heading: "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION", quoteText: "", author: "", context: "" };
-        const formattedQuoteHeading = formatTitleBlue(qData.heading || "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION");
+        const qData = dailyData.quote || { heading: "EXECUTIVE PERSPECTIVE", quoteText: "", author: "", context: "" };
+        const formattedQuoteHeading = formatTitleBlue(qData.heading || "EXECUTIVE PERSPECTIVE");
         
         html = `<div class="content-body">
                 <header><h1 class="auto-fit">${formattedQuoteHeading}</h1><div class="header-divider"></div></header>
