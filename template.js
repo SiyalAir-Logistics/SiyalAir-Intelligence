@@ -1,119 +1,119 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF",
-        "titleBlue": "VOLATILITY",
-        "footerSummary": "Section 301 tariffs on 60 economies trigger broad supply chain realignment while geopolitical risks suppress international energy market stability."
+        "titleWhite": "TARIFF OVERHAULS AND INFLATION",
+        "titleBlue": "SHOCKS",
+        "footerSummary": "The US transition to Section 301 forced-labor tariffs on 60 nations forces immediate, high-friction supply chain audits and landed-cost recalibration."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFF REGIME SHIFT",
+            "heading": "US CUSTOMS: SECTION 301 TARIFF OVERHAUL",
             "points": [
-                "USTR implements Section 301 tariffs on 60 nations, replacing Section 122 levies.",
-                "New 10% to 12.5% duties target forced labor, increasing landed cost complexity.",
-                "Importers must recalibrate duty budgets for immediate compliance enforcement."
+                "US replaces Section 122 surcharges with a new Section 301 forced-labor tariff.",
+                "Imports from 60 economies face immediate duties ranging from 10% to 12.5%.",
+                "Importers must instantly deploy origin audits to mitigate non-compliance risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY MARKET IMPACT",
+            "nextUpTease": "LITIGATION: BROKER NEGLIGENT SELECTION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: cbp.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ENERGY PRICE ANOMALY",
+            "heading": "LITIGATION: BROKER NEGLIGENT SELECTION",
             "points": [
-                "Brent crude prices fluctuate sharply following renewed Middle East tensions.",
-                "Refiners are accelerating diesel output to mitigate rising logistics surcharges.",
-                "Fuel volatility is now directly impacting back-to-school and grocery freight rates."
+                "C.H. Robinson faces massive nuclear verdict under post-Montgomery liability rules.",
+                "Recent rulings shift strict carrier vetting responsibility directly to intermediaries.",
+                "Brokers must automate real-time driver verification and safety rating monitoring."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRIAL REAL ESTATE",
+            "nextUpTease": "REGULATION: CANADA USMCA TARIFF SHOCK",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INDUSTRIAL REAL ESTATE",
+            "heading": "REGULATION: CANADA USMCA TARIFF SHOCK",
             "points": [
-                "Colliers reports Q2 vacancy rates stabilized at 7.3% as demand meets new supply.",
-                "Lower vacancy absorption indicates a balanced market following rapid expansion.",
-                "Decision-makers should monitor sub-market space availability for regional shifts."
+                "US imposes emergency Section 338 tariffs on diversified Canadian import categories.",
+                "Importers face sudden 50% levies on goods previously cleared duty-free under USMCA.",
+                "Logistics managers must re-evaluate North American nearshoring financial modeling."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE FRAUD ENFORCEMENT",
+            "nextUpTease": "PANAMA CANAL: DRAFT LIMITS REINSTATED",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRADE FRAUD RECOVERIES",
+            "heading": "PANAMA CANAL: DRAFT LIMITS REINSTATED",
             "points": [
-                "DOJ Trade Fraud Task Force recoveries exceed $1 billion since August 2025.",
-                "Aggressive enforcement highlights increased scrutiny of import documentation.",
-                "Audit logistics chains to prevent liability in tariff-evasion investigations."
+                "Panama Canal Authority reinstates transit limits ahead of El Ni\u00f1o weather trends.",
+                "Ocean carriers introduce hefty surcharges as daily vessel transits are throttled.",
+                "Shippers must divert time-sensitive cargo to US West Coast rail corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME REGULATION",
+            "nextUpTease": "USPS: RURAL SHIPPING FEE SURGES",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME FLOW FLUIDITY",
+            "heading": "USPS: RURAL SHIPPING FEE SURGES",
             "points": [
-                "D.C. Circuit Court upholds FMC detention fee rules to ensure freight fluidity.",
-                "Commission mandates strict billing transparency for demurrage and detention.",
-                "Monitor carrier invoices for compliance with the updated Shipping Act mandates."
+                "USPS raises lightweight package rates targeting final-mile rural delivery zones.",
+                "Parcel shippers face direct $2.00 to $3.00 cost increases per residential package.",
+                "Multi-channel merchants must leverage zone-skipping to curb last-mile inflation."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS LABOR MARKET",
+            "nextUpTease": "JUSTICE DEPT: TRADE FRAUD ENFORCEMENT",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "COMPENSATION TRENDS 2026",
+            "heading": "JUSTICE DEPT: TRADE FRAUD ENFORCEMENT",
             "points": [
-                "Logistics professional salaries average $126,400 per 2026 industry survey.",
-                "Expanded strategic roles drive value in risk management and automation tech.",
-                "Talent retention strategies must account for rising expectations in supply chain."
+                "DOJ Trade Fraud Task Force accelerates audits of illegal cross-border schemes.",
+                "Enforcement actions net over $1 billion in tariff evasion penalties within a year.",
+                "Compliance officers must implement continuous transaction bond and import auditing."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER SELECTION RISK",
+            "nextUpTease": "ENERGY: CRUDE SPIKE FUEL SURCHARGES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CARRIER NEGLIGENT VERDICTS",
+            "heading": "ENERGY: CRUDE SPIKE FUEL SURCHARGES",
             "points": [
-                "C.H. Robinson faces $604 million verdict in negligent carrier selection case.",
-                "Legal precedent creates significant liability risk for third-party brokers.",
-                "Implement enhanced digital vetting to mitigate third-party transport liability."
+                "Geopolitical conflict in the Middle East pushes Brent crude back toward $100.",
+                "Surging energy costs trigger instant hikes in parcel and truckload fuel surcharges.",
+                "Procurement teams must deploy dynamic freight fuel pegging to insulate margins."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -121,8 +121,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "Constant market shifts demand prioritization. Effective leaders target the biggest bottlenecks rather than perfecting every link.",
-        "author": "Davey Miller, COO at CMC",
-        "context": "Inbound Logistics 2026 Operations Audit"
+        "quoteText": "Annual air contracts are increasingly difficult to sustain as market capacity dynamics shift rapidly.",
+        "author": "Xeneta Analyst, Lead Freight Analyst at Xeneta",
+        "context": "July 2026 Market Intelligence Briefing"
     }
 };
