@@ -107,13 +107,15 @@ function initTabs() {
     mainBtn.onclick = (e) => { e.preventDefault(); switchSlide('main', mainBtn); };
     tabContainer.appendChild(mainBtn);
     
-    dailyData.slides.forEach((slide, index) => {
+    // --- STABLE TAB FIX: Strictly limit regular slides loop to exactly 7 slides (SLIDE-1 through SLIDE-7) ---
+    const targetSlideCount = Math.min(dailyData.slides.length, 7);
+    for (let index = 0; index < targetSlideCount; index++) {
         const btn = document.createElement('button');
         btn.className = 'tab-btn';
         btn.innerText = `SLIDE-${index + 1}`;
         btn.onclick = (e) => { e.preventDefault(); switchSlide(index + 1, btn); };
         tabContainer.appendChild(btn);
-    });
+    }
 
     // --- REQUIREMENT 1 & 3: Insert QUOTE tab right after regular slides ---
     const quoteBtn = document.createElement('button');
@@ -265,9 +267,10 @@ async function switchSlide(id, element) {
             
             // --- REQUIREMENT 2: Slide 7 bottom next up precisely points to EXECUTIVE PERSPECTIVE ---
             let nextTease = "";
-            if (index === dailyData.slides.length - 1) {
+            const maxSubSlides = Math.min(dailyData.slides.length, 7);
+            if (index === maxSubSlides - 1) {
                 nextTease = "EXECUTIVE PERSPECTIVE";
-            } else if (index < dailyData.slides.length - 1) {
+            } else if (index < maxSubSlides - 1) {
                 nextTease = dailyData.slides[index + 1].heading;
             }
             
@@ -375,7 +378,8 @@ async function downloadAllSlides() {
 
     // --- EXACT REVERSE PIPELINE ORDER: FOLLOW -> QUOTE -> SLIDES 7..1 -> MAIN ---
     const queue = ['follow', 'quote'];
-    for (let i = dailyData.slides.length; i >= 1; i--) {
+    const maxSubSlides = Math.min(dailyData.slides.length, 7);
+    for (let i = maxSubSlides; i >= 1; i--) {
         queue.push(i);
     }
     queue.push('main');
