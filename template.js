@@ -1,119 +1,119 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL SUPPLY CORRIDOR",
-        "titleBlue": "SHOCKS",
-        "footerSummary": "New US Section 301 tariffs on 60 economies and a historic $604M carrier vetting verdict disrupt global trade routes and broker compliance."
+        "titleWhite": "GLOBAL TRADE FRICTION",
+        "titleBlue": "SURGE",
+        "footerSummary": "New U.S. Section 301 tariffs on 60 nations create immediate compliance urgency, while rising geopolitical conflict in the Middle East throttles global maritime capacity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFF TRANSITION",
+            "heading": "SECTION 301 TARIFF SHIFT",
             "points": [
-                "US replaces temporary Section 122 fees with active Section 301 forced-labor duties.",
-                "Imports from 60 global economies face strict new 10% to 12.5% structural tariffs.",
-                "Importers must audit multi-tier supply chain compliance to mitigate duty exposure."
+                "U.S. implements new tariffs on 60 trading partners as Section 122 expires.",
+                "Duty rates now range from 10% to 12.5% across impacted imported categories.",
+                "Importers must recalibrate landed cost models to account for immediate levies."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL LIMITS",
+            "nextUpTease": "LEGAL LIABILITY SPIKE",
             "tags": [
-                "Source: logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PANAMA CANAL: EL NINO TRANSIT CORRIDORS",
+            "heading": "LEGAL LIABILITY SPIKE",
             "points": [
-                "Panama Canal Authority reinstates vessel transit limits ahead of El Nino weather.",
-                "Ocean carriers implement new draft-linked surcharges on US East Coast routes.",
-                "Logistics desks must route heavy ocean cargo via West Coast rail connections."
+                "C.H. Robinson hit with $604M verdict in negligent carrier selection litigation.",
+                "Legal exposure centers on carrier vetting protocols in high-risk freight lanes.",
+                "Shippers must formalize AI-driven carrier compliance to mitigate tort risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "NEGLIGENT CARRIER SELECTION",
+            "nextUpTease": "MARITIME CAPACITY STRAIN",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CH ROBINSON: NUCLEAR CARRIER VERDICT",
+            "heading": "MARITIME CAPACITY STRAIN",
             "points": [
-                "Federal jury delivers a $604 million negligent carrier selection verdict.",
-                "The massive ruling raises the legal threshold for broker vetting liability.",
-                "Shippers must mandate automated, real-time safety and insurance validation."
+                "Geopolitical instability in the Red Sea disrupts major global transit arteries.",
+                "Oil tankers face escalating threats, driving up fuel surcharges and premiums.",
+                "Strait of Hormuz transit normalcy likely suspended for 12 months or longer."
             ],
             "imageUrl": "",
-            "nextUpTease": "US-CANADA IMPORT DUTIES",
+            "nextUpTease": "CARRIER RATE VOLATILITY",
             "tags": [
-                "Source: freightwaves.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "US CUSTOMS: CANADIAN IMPORT TARIFFS",
+            "heading": "CARRIER RATE VOLATILITY",
             "points": [
-                "US slaps new 50% tariffs on a wide variety of Canadian cross-border imports.",
-                "The duties bypass existing duty-free classifications under USMCA frameworks.",
-                "Nearshore manufacturers must immediately re-audit landed cost calculations."
+                "Spot freight rates decline gently due to ongoing capacity injection discipline.",
+                "Annual air freight contracts face tightening sustainability in volatile markets.",
+                "Blank sailings persist as the primary lever for carrier capacity management."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS RURAL SURCHARGES",
+            "nextUpTease": "RETAIL INVENTORY PRESSURE",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "USPS: RURAL PARCEL SURCHARGES",
+            "heading": "RETAIL INVENTORY PRESSURE",
             "points": [
-                "USPS implements a new $2 to $3 surcharge on lightweight rural deliveries.",
-                "E-commerce merchants face direct margin erosion on low-cost marketplace items.",
-                "Retailers must optimize final-mile routing and diversify regional carriers."
+                "Tractor Supply lowers outlook citing pet market weakness and fuel cost drag.",
+                "Retailers race to beat incoming tariff deadlines with aggressive frontloading.",
+                "Inventory optimization platforms struggle to close planning-to-execution gaps."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX PEAK SURCHARGES",
+            "nextUpTease": "INFRASTRUCTURE DECOUPLING",
             "tags": [
-                "Source: ecommercebytes.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FEDEX: PEAK SEASON FEES UNVEILED",
+            "heading": "INFRASTRUCTURE DECOUPLING",
             "points": [
-                "FedEx announces early peak season fees and elevated home delivery surcharges.",
-                "Rising demand fees and fuel surcharges pressure B2C e-commerce margins.",
-                "Shippers must lock in carrier capacity agreements before peak volumes surge."
+                "Gordie Howe Bridge opens to limited service as U.S.-Canada tensions persist.",
+                "Trade alliance deterioration impacts cross-border movement of critical goods.",
+                "Diversification strategies lead to 'supplier sprawl' across the North continent."
             ],
             "imageUrl": "",
-            "nextUpTease": "APEX LOGISTICS DIVESTMENT",
+            "nextUpTease": "TRADE FRAUD ENFORCEMENT",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "KUEHNE+NAGEL: APEX LOGISTICS OPTIONS",
+            "heading": "TRADE FRAUD ENFORCEMENT",
             "points": [
-                "Kuehne+Nagel explores a strategic stake sale of its Apex Logistics division.",
-                "Forwarder consolidation threatens existing air freight capacity allocations.",
-                "Air shippers must secure redundant space agreements on critical transpacific lanes."
+                "DOJ Trade Fraud Task Force surpasses $1 billion in total penalty recoveries.",
+                "Aggressive enforcement targets forced labor non-compliance in supply chains.",
+                "Mandatory audits for OTI/NVOCC filings increase due to stricter regulations."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -121,8 +121,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE",
-        "quoteText": "Effective leaders target the biggest bottlenecks rather than perfecting every link.",
-        "author": "Davey Miller, Chief Operating Officer, CMC",
-        "context": "Official Executive Commentary, July 2026"
+        "quoteText": "Effective leaders target the biggest bottlenecks rather than perfecting every link in a broken supply chain during periods of high ambiguity.",
+        "author": "Davey Miller, COO at CMC",
+        "context": "Inbound Logistics Industry Assessment, July 2026"
     }
 };
