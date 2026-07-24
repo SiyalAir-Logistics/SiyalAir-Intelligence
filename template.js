@@ -1,21 +1,21 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE BARRIERS",
-        "titleBlue": "INTENSIFY",
-        "footerSummary": "New US forced-labor tariffs, a $100 Brent crude spike, and Panama Canal restrictions converge to disrupt global supply chains entering Q3 2026."
+        "titleWhite": "SHIFTS IN GLOBAL TARIFF",
+        "titleBlue": "FORENSICS",
+        "footerSummary": "New US forced-labor tariffs and Canada duties upend North American margins, while ocean lane transit bottlenecks trigger immediate global freight routing recalculations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US CUSTOMS: TARIFF COMPLIANCE ENFORCEMENT",
+            "heading": "TRUMP ADMINISTRATION: SECTION 301 REVISED",
             "points": [
-                "US Customs levies new tariffs on 60 trading partners over forced labor.",
-                "Import shipments face immediate 10% to 12.5% duty hikes at ports of entry.",
-                "Shippers must audit multi-tier supplier compliance to avoid seizure risks."
+                "New forced-labor tariffs hit 60 trading partners as stopgap levies expire.",
+                "Imports face sudden 10% to 12.5% duty rates, disrupting existing contract margins.",
+                "Shippers must audit multi-tier supplier compliance to mitigate immediate tax hits."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: TRANSIT RESTRICTIONS REBOUND",
+            "nextUpTease": "CANADA IMPORT DUTIES",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -24,46 +24,14 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS REBOUND",
+            "heading": "US TRADE DESK: SECTION 338 LEVIES",
             "points": [
-                "Panama Canal Authority reinstates vessel draft limits ahead of El Ni\u00f1o.",
-                "Lower water levels restrict container volumes, triggering fresh surcharges.",
-                "Shippers should redirect critical US East Coast cargo via intermodal rail."
+                "US slaps 50% tariffs on Canadian imports, bypassing standard USMCA exemptions.",
+                "Supply chains brace for widespread cost increases across cross-border operations.",
+                "Importers must evaluate nearshore alternatives to avoid severe margin erosion."
             ],
             "imageUrl": "",
-            "nextUpTease": "XENETA: AIR FREIGHT CONTRACT CRUNCH",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "XENETA: AIR FREIGHT CONTRACT CRUNCH",
-            "points": [
-                "Tightening capacity makes long-term fixed air freight contracts unviable.",
-                "Spot market rates surge as peak season demand matches limited cargo space.",
-                "Logistics managers must transition to index-linked flexible pricing models."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FEDEX: 2026 PEAK SEASON SURCHARGES",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "FEDEX: 2026 PEAK SEASON SURCHARGES",
-            "points": [
-                "FedEx announces elevated peak season fees targeting 2026 holiday volumes.",
-                "Shippers face steep home delivery fee hikes, squeezing retail margins.",
-                "Diversifying parcel carriers is essential to mitigate Q3/Q4 cost inflation."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "ENERGY MARKET: BUNKER FUEL INFLATION",
+            "nextUpTease": "SUEZ LANE RESTORATION",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -71,31 +39,63 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "ENERGY MARKET: BUNKER FUEL INFLATION",
+            "id": 3,
+            "heading": "CMA CGM: SUEZ CANAL ROUTING RETURN",
             "points": [
-                "Brent crude oil surges 7.2% to $100.88, topping $100 for the first time.",
-                "Ocean carriers prepare to implement emergency bunker adjustment surcharges.",
-                "Shippers must factor rising fuel surcharges into their landed cost models."
+                "Carrier seeks Suez return for India-USEC lane despite ongoing security incidents.",
+                "Shippers risk extreme transit volatility and sudden emergency rerouting surcharges.",
+                "Cargo planners must balance lower transit times against critical safety profiles."
             ],
             "imageUrl": "",
-            "nextUpTease": "US TREASURY: VESSEL SANCTIONS IMPACT",
+            "nextUpTease": "CHASSIS EQUIPMENT GAPS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.joc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "CHICAGO RAIL HUBS: CHASSIS LIMITS",
+            "points": [
+                "Chicago chassis fleet faces major equipment gaps as West Coast import volumes surge.",
+                "Inland truckers report extended dwell times and rising localized drayage friction.",
+                "Shippers should pre-stage private chassis pools to bypass terminal congestion."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "APEX LOGISTICS DIVESTMENT",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "KUEHNE+NAGEL: APEX LOGISTICS STRATEGY",
+            "points": [
+                "Forwarder weighs selling its stake or pursuing an IPO for Apex Logistics unit.",
+                "Corporate restructuring threatens to shift transpacific air freight capacity blocks.",
+                "Logistics buyers should secure direct carrier baselines to buffer forwarding shifts."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PANAMA CANAL CONSTRAINTS",
+            "tags": [
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "US TREASURY: VESSEL SANCTIONS IMPACT",
+            "heading": "PANAMA CANAL: TRANSIT CAP REDUCTIONS",
             "points": [
-                "US Treasury sanctions six container ships operated by Singaporean SeaLead.",
-                "SeaLead faces immediate capacity constraints, disrupting scheduled ocean loops.",
-                "Ocean freight planners must identify alternative carriers to secure capacity."
+                "Authority prepares to reintroduce strict vessel transit limits due to El Ni\u00f1o.",
+                "Low water levels threaten draft restrictions, causing ocean carrier surcharges.",
+                "Shippers must secure alternative US West Coast landbridge routing options early."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: SMART LOCKER ROLLOUT",
+            "nextUpTease": "USPS RURAL FREIGHT SURCHARGES",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -104,16 +104,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "USPS: SMART LOCKER ROLLOUT",
+            "heading": "USPS NETWORK: RURAL DELIVERY PENALTIES",
             "points": [
-                "USPS launches Local XChange smart lockers for secure marketplace handoffs.",
-                "Traditional last-mile hubs face processing shifts as locker networks scale.",
-                "E-commerce sellers should integrate locker delivery options to cut cargo loss."
+                "Postal Service increases lightweight package rates to rural spots by $2 to $3.",
+                "E-commerce merchants face ballooning last-mile costs on legacy parcel networks.",
+                "Retailers must optimize regional fulfillment hubs closer to target demographics."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY QUOTE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,9 +122,9 @@ const dailyData = {
             "id": 8,
             "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
             "points": [
-                "\"Shippers must prepare for extreme volatility as fixed-rate contracts become untenable in this market.\"",
-                "\u2014 Peter Sand, Chief Analyst, Xeneta",
-                "Context: Xeneta Market Intelligence Report, July 2026"
+                "\"As we navigate a highly volatile forwarding market, driving structural efficiency through advanced technology and targeted capacity management remains our primary defense against global supply chain disruption.\"",
+                "\u2014 Stefan Paul, CEO, Kuehne+Nagel",
+                "Context: July 2026 Q2 Earnings Call"
             ],
             "imageUrl": "",
             "nextUpTease": "ARCHIVE ACCESS",
