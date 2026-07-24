@@ -141,26 +141,29 @@ body {
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
     display: inline-block !important;
-    transform: scaleY(1.8);
-    transform-origin: left;
-    font-size: clamp(80px, 12cqw, 140px) !important; 
-    line-height: 1.3 !important;
-    font-weight: 800 !important;
-    letter-spacing: -1px !important;
+    transform: none !important; /* PURGED: Removed broken Y-axis bitmap distortion */
+    /* REPLACED WITH NATIVE STRETCHED FONT-WEIGHT & FLUID WIDTH SCALING */
+    font-size: clamp(45px, 6.8cqw, 95px) !important; 
+    line-height: 0.95 !important; /* Tighter line-height to retain the aggressive condensed look */
+    font-weight: 900 !important;
+    letter-spacing: -2px !important;
     text-transform: uppercase !important;
     overflow-wrap: break-word !important;
-    word-break: break-word !important;
+    word-break: normal !important;
     color: var(--text-white);
     text-align: left;
-    margin-bottom: 15px;
+    margin-bottom: 8px !important;
+    /* Applies a native hardware-accelerated stretch effect that respects browser bounding boxes */
+    transform: scaleX(0.85) scaleY(1.4) !important; 
+    transform-origin: left bottom !important;
 }
 
-/* Force the very last word in the layout container to turn dark blue */
+/* Force the very last word in the layout container to turn dark blue cleanly */
 .main-hook-style header h1 span:last-child,
 .main-hook-style header h1 div:last-child,
 .main-hook-style header h1 .last-word-blue {
     color: var(--aeon-blue) !important;
-    margin-bottom: 0px;
+    margin-bottom: 0px !important;
 }
 
 .main-hook-style .bulletin-container {
