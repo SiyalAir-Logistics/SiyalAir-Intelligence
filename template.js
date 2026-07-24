@@ -1,21 +1,21 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "SPIKE",
-        "footerSummary": "New Section 301 tariffs on 60 nations create immediate compliance strain, while surging oil prices exacerbate cost volatility across all major logistics modalities."
+        "titleWhite": "TARIFF REORGANIZATION COMPLIANCE",
+        "titleBlue": "SHIFT",
+        "footerSummary": "Importers face severe friction as the US shifts to Section 301 tariffs, while rising broker liability and canal surcharges squeeze global margins."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFF REGIME SHIFTS",
+            "heading": "US CBP: SECTION 301 TARIFF SHIFT",
             "points": [
-                "US replaces Section 122 surcharges with a comprehensive Section 301 tariff regime.",
-                "New levies impact imports from 60 economies, complicating duty calculation models.",
-                "Importers must rapidly re-audit HTS classifications to mitigate unexpected cost spikes."
+                "US replaces temporary Section 122 surcharges with Section 301 forced labor tariffs.",
+                "Imports from 60 countries hit with sudden 10% to 12.5% duty rates overnight.",
+                "Supply chain managers must urgently audit vendor origins to prevent cargo seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY COST VOLATILITY",
+            "nextUpTease": "C.H. ROBINSON: BROKER LIABILITY SHOCK",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -24,46 +24,30 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ENERGY COST VOLATILITY",
+            "heading": "C.H. ROBINSON: BROKER LIABILITY SHOCK",
             "points": [
-                "Brent crude prices remain elevated near $97.67 following regional geopolitical shocks.",
-                "Increased fuel surcharges are directly impacting retail goods and back-to-school items.",
-                "Carriers are recalibrating contract rates to account for unpredictable bunker costs."
+                "Giant nuclear verdict strikes broker following landmark negligent selection lawsuit.",
+                "Vetting processes face intense scrutiny as legal standards for third parties rise.",
+                "Intermediaries must deploy strict, automated compliance checks on all carriers."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER CAPACITY SHIFTS",
+            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE CRACKDOWN",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CARRIER CAPACITY SHIFTS",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE CRACKDOWN",
             "points": [
-                "CMA CGM and MSC introduce fresh Panama Canal surcharges to manage draft limits.",
-                "Container spot rates exhibit minor declines, though capacity discipline remains high.",
-                "Logistics managers must evaluate trans-Pacific route alternatives to avoid bottlenecks."
+                "Joint Trade Fraud Task Force recovers $1 billion within first year of operation.",
+                "Importers face aggressive auditing and heavy financial penalties for customs evasion.",
+                "Compliance teams must enforce absolute transparency in product valuation and duty."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL RISK ESCALATION",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "LEGAL RISK ESCALATION",
-            "points": [
-                "DOJ Trade Fraud Task Force recoveries exceed $1 billion in enforcement actions.",
-                "Liability exposure for freight brokers increases following Supreme Court precedents.",
-                "Rigorous carrier vetting processes are now a requirement for operational continuity."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RETAIL WAREHOUSE STRAIN",
+            "nextUpTease": "PANAMA CANAL: DRAFT LIMITS RESTRICTIONS",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -71,15 +55,31 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "RETAIL WAREHOUSE STRAIN",
+            "id": 4,
+            "heading": "PANAMA CANAL: DRAFT LIMITS RESTRICTIONS",
             "points": [
-                "FedEx unveils 2026 peak season fees with higher surcharges on home deliveries.",
-                "Tractor Supply and other retailers expand last-mile partnerships to combat friction.",
-                "Industrial vacancy rates stabilize, signaling a tighter environment for storage space."
+                "Canal authority reintroduces draft limits and transit restrictions due to El Ni\u00f1o.",
+                "Ocean carriers introduce fresh transshipment surcharges, hiking container costs.",
+                "Shippers should diversify routing to US East Coast and Gulf ports to avoid delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "CHINA TRADE PRESSURE",
+            "nextUpTease": "USTR: SWEEPING CANADA IMPORT TARIFFS",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "USTR: SWEEPING CANADA IMPORT TARIFFS",
+            "points": [
+                "US imposes 50% Section 338 duties on a wide variety of Canadian imports.",
+                "Duties apply to goods despite qualifying for duty-free status under USMCA rules.",
+                "Nearshoring strategies must adjust to mitigate unilateral North American tariffs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FORWARDERS: AIR FREIGHT RATE BALANCING",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -88,32 +88,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "CHINA TRADE PRESSURE",
+            "heading": "FORWARDERS: AIR FREIGHT RATE BALANCING",
             "points": [
-                "Senate probes potential e-commerce manipulation and forced labor entry points.",
-                "Revised Chinese Maritime Code introduces new legal complexities for NVOCC operators.",
-                "Direct sourcing compliance audits are now essential for US-bound trans-Pacific cargo."
+                "Spot cargo rates begin cooling as global peak-season demand begins to stabilize.",
+                "Skyrocketing fuel surcharges offset any relief from lower baseline contract rates.",
+                "Fleet managers must secure flexible capacity to counter volatile operating expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR & TECH INTEGRATION",
+            "nextUpTease": "EBAY: DEPOP ACQUISITION SECURED",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LABOR & TECH INTEGRATION",
+            "heading": "EBAY: DEPOP ACQUISITION SECURED",
             "points": [
-                "Warehouse worker turnover remains a critical threat to business continuity metrics.",
-                "AI-driven route optimization and inventory tracking gain traction as efficiency tools.",
-                "Leadership focus shifts toward constraint awareness to resolve persistent bottlenecks."
+                "Regulators clear eBay's $1.2 billion acquisition of fashion platform Depop.",
+                "Integration changes peer-to-peer shipping rules and seller payout structures.",
+                "Marketplace sellers must prepare for fee updates and consolidated shipping tools."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -121,8 +121,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "Constant market shifts demand prioritization and creative workarounds. Effective leaders target the biggest bottlenecks rather than perfecting every link.",
-        "author": "Davey Miller, COO, CMC",
-        "context": "Inbound Logistics 2026 Operational Strategy Analysis"
+        "quoteText": "Setting big, hairy, audacious goals guides supply chains through unpredictable eras of global disruption.",
+        "author": "Lakshmanan Chidambaram, CEO, Bristlecone",
+        "context": "July 2026 Executive Briefing"
     }
 };
