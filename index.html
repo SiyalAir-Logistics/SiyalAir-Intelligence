@@ -13,6 +13,7 @@
             </div>
         <div class="actions">
             <button type="button" id="download-active" class="action-btn download">DOWNLOAD SLIDE</button>
+            <button type="button" id="copy-caption-btn" class="action-btn copy-btn" style="display: none; background: #22c55e; color: white; margin-left: 10px; font-weight: bold; cursor: pointer; border: none; padding: 10px 16px; border-radius: 4px;">COPY CAPTION</button>
         </div>
     </nav>
 
@@ -37,6 +38,19 @@
             </main>
 
         </div>
+
+        <!-- Slide 10: Dedicated Social Post Caption View Container -->
+        <div id="caption-canvas" class="instagram-portrait" style="display: none; background: #0f172a; color: #f8fafc; padding: 30px; box-sizing: border-box; overflow-y: auto;">
+            <div style="display: flex; flex-direction: column; height: 100%; justify-content: space-between;">
+                <div>
+                    <h2 style="font-size: 18px; letter-spacing: 1px; color: #38bdf8; margin-bottom: 15px; border-bottom: 2px solid #38bdf8; padding-bottom: 8px;">SOCIAL MEDIA CAPTION (SLIDE 10)</h2>
+                    <pre id="caption-text-display" style="white-space: pre-wrap; word-wrap: break-word; font-family: inherit; font-size: 14px; line-height: 1.6; color: #e2e8f0; margin: 0;"></pre>
+                </div>
+                <div style="font-size: 11px; color: #64748b; text-align: right; border-top: 1px solid #1e293b; padding-top: 10px;">
+                    SIYAL AIR INTELLIGENCE • ZERO-FRICTION PIPELINE
+                </div>
+            </div>
+        </div>
     </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
@@ -47,7 +61,7 @@
         const script = document.createElement('script');
         script.src = `template.js?v=${cacheBuster}`;
         script.async = false; // Guarantees execution completes sequentially before engine.js processes it
-        document.body.appendChild(script);
+        script.body?.appendChild(script) || document.body.appendChild(script);
       })();
     </script>
 
