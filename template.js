@@ -1,21 +1,21 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CUSTOMS COMPLIANCE",
-        "titleBlue": "DECOUPLING",
-        "footerSummary": "Global trade lanes fracture as the US deploys forced-labor tariffs against 60 nations, while fuel markets surge past $100 per barrel."
+        "titleWhite": "GLOBAL FREIGHT ARCHITECTURE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Importers face rising friction as US Section 301 tariffs take effect, coupled with new Panama Canal restrictions and tightening carrier vetting rules."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US CUSTOMS: SECTION 301 REGIME",
+            "heading": "CBP: SECTION 301 TARIFF TRANSITION",
             "points": [
-                "US shifts from Section 122 to Section 301 forced-labor tariffs on 60 nations.",
-                "Importers face immediate 10% to 12.5% custom duty hikes across supply networks.",
-                "Compliance teams must perform immediate forced-labor origin audits on raw inputs."
+                "US replaces temporary Section 122 surcharges with a permanent Section 301 regime.",
+                "New 10% to 12.5% duties target imports from 60 global trading partners.",
+                "Importers must reclassify active HS codes to avoid customs clearance delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "CN RAILWAY: NS MERGER ENDORSEMENT",
+            "nextUpTease": "PANAMA CANAL: EL NINO RESTRICTIONS",
             "tags": [
                 "Source: cbp.gov",
                 "Published: Last 48 Hours",
@@ -24,30 +24,14 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "CN RAILWAY: NS MERGER ENDORSEMENT",
+            "heading": "ACP: EL NINO TRANSIT RESTRICTIONS",
             "points": [
-                "Canadian National backs the proposed Union Pacific and Norfolk Southern merger.",
-                "Network access expansion trades off direct midwestern rail-corridor competition.",
-                "Shippers gain streamlined intermodal transits through the Chicago rail gateway."
+                "Panama Canal Authority reintroduces strict transit limits ahead of El Ni\u00f1o weather.",
+                "Draft limits and new transit surcharges threaten to increase US East Coast spot rates.",
+                "Shippers must evaluate Suez routing or West Coast landbridge options to bypass delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: TRANSIT RESTRICTIONS",
-            "tags": [
-                "Source: logisticsmgmt.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS",
-            "points": [
-                "Panama Canal Authority reintroduces draft restrictions ahead of El Ni\u00f1o drying.",
-                "Ocean carriers enforce immediate low-water surcharges and limit container weights.",
-                "Logistics planners must divert critical US East Coast cargo to West Coast ports."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FREIGHT BROKERAGE: VETTING STANDARDS",
+            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS STRUCTURING",
             "tags": [
                 "Source: theloadstar.com",
                 "Published: Last 48 Hours",
@@ -55,15 +39,31 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "FREIGHT BROKERAGE: VETTING STANDARDS",
+            "id": 3,
+            "heading": "KUEHNE+NAGEL: APEX LOGISTICS STRUCTURING",
             "points": [
-                "Supreme Court's Montgomery ruling sparks massive nuclear negligence broker verdicts.",
-                "Standard freight brokers face intense liability risk for carrier safety failures.",
-                "3PLs must implement strict automated AI-driven motor carrier safety verification."
+                "Kuehne+Nagel explores selling a stake or executing an IPO for Apex Logistics.",
+                "Air cargo contract volatility pressures forwarder margins despite rising spot demand.",
+                "Shippers should secure multi-carrier space to hedge against transpacific spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON: MANDATORY AI LABELING",
+            "nextUpTease": "CH ROBINSON: BRACING FOR LIABILITY SHIFTS",
+            "tags": [
+                "Source: cargonews.net",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "CH ROBINSON: BRACING FOR LIABILITY SHIFTS",
+            "points": [
+                "Brokerages face rising liability risks following a massive post-Montgomery verdict.",
+                "Negligent selection lawsuits threaten brokers relying solely on basic FMCSA ratings.",
+                "Operations must deploy advanced AI carrier vetting protocols to limit liability."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "US TREASURY: MARITIME SANCTIONS ESCALATION",
             "tags": [
                 "Source: freightwaves.com",
                 "Published: Last 48 Hours",
@@ -72,48 +72,48 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "AMAZON: MANDATORY AI LABELING",
+            "heading": "US TREASURY: MARITIME SANCTIONS ESCALATION",
             "points": [
-                "Amazon mandates clear labeling of AI-generated human models in product imagery.",
-                "Sellers face instant listing suspensions for compliance gaps under new state laws.",
-                "Brand managers must review digital asset generation workflows to secure compliance."
+                "Office of Foreign Assets Control sanctions six container vessels linked to SeaLead.",
+                "Sanctioned hulls reduce active carrier capacity on critical Middle East trade lanes.",
+                "Logistics managers must audit vessel IMO lists to prevent cargo impoundment risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS STRATEGY",
+            "nextUpTease": "COLLIERS: WAREHOUSE VACANCY STABILIZATION",
             "tags": [
-                "Source: cnbc.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "KUEHNE+NAGEL: APEX LOGISTICS STRATEGY",
+            "heading": "COLLIERS: INDUSTRIAL VACANCY STABILIZATION",
             "points": [
-                "Kuehne+Nagel evaluates an initial public listing or sale of Apex Logistics unit.",
-                "Strategic shift threatens transpacific air freight capacity control blocks.",
-                "Shippers must re-evaluate multi-year air freight volume commitments with forwarders."
+                "Industrial real estate markets stabilize as net demand outpaces new warehouse supply.",
+                "National vacancy rates drop seven basis points to 7.3% during the second quarter.",
+                "Lease holders should secure agreements before regional space squeezes resume."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL FUEL: CRUDE OIL PRICE SURGE",
+            "nextUpTease": "USPS: LIGHTWEIGHT RURAL SURCHARGES",
             "tags": [
-                "Source: supplychainbrain.com",
+                "Source: logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GLOBAL FUEL: CRUDE OIL PRICE SURGE",
+            "heading": "USPS: LIGHTWEIGHT RURAL SURCHARGES",
             "points": [
-                "Brent crude oil surges past $100 per barrel amid escalating geopolitical actions.",
-                "Carriers prepare steep fuel surcharges across ocean, air, and truckload networks.",
-                "Supply chain managers must renegotiate bunker and diesel surcharge baseline clauses."
+                "Postal Service implements a $2 to $3 price hike on lightweight rural deliveries.",
+                "E-commerce sellers using Ground Advantage face margin erosion on low-cost items.",
+                "Brands must optimize multi-carrier networks to bypass expensive remote postal zones."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: cnbc.com",
+                "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,14 +122,14 @@ const dailyData = {
             "id": 8,
             "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
             "points": [
-                "\"Detention fees must always promote freight fluidity, not serve as carrier revenue.\"",
+                "\"Detention fees must strictly promote freight fluidity and cannot serve as capital generation.\"",
                 "\u2014 Laura DiBella, Chairman, FMC",
-                "Context: July 2026 Federal Court of Appeals Ruling"
+                "Context: July 2026 Federal Appeals Court Ruling"
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: Verified Wire",
+                "Source: fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
