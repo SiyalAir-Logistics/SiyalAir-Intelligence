@@ -27,6 +27,15 @@ window.onload = async () => {
                 downloadAllSlides();
             };
         }
+
+        // Wire up the copy caption button handler
+        const copyBtn = document.getElementById('copy-caption-btn');
+        if (copyBtn) {
+            copyBtn.onclick = (e) => {
+                e.preventDefault();
+                copyCaptionToClipboard();
+            };
+        }
     };
     
     script.onerror = () => {
@@ -96,25 +105,45 @@ function initTabs() {
     if (!tabContainer) return;
     tabContainer.innerHTML = ''; 
     
+    // 1. MAIN TAB
     const mainBtn = document.createElement('button');
     mainBtn.className = 'tab-btn active';
     mainBtn.innerText = 'MAIN';
     mainBtn.onclick = (e) => { e.preventDefault(); switchSlide('main', mainBtn); };
     tabContainer.appendChild(mainBtn);
     
-    dailyData.slides.forEach((slide, index) => {
+    // 2. SLIDES 1 through 7 (Core Intelligence)
+    // Assuming dailyData.slides contains indices 0 to 6 as the core 7 slides, and index 7 as the quote slide.
+    // Let's safely split them or map them according to your exact sequencing order: MAIN, SLIDE-1 to SLIDE-7, QUOTE, FOLLOW, POST.
+    const coreSlidesCount = Math.min(7, dailyData.slides.length);
+    for (let i = 0; i < coreSlidesCount; i++) {
         const btn = document.createElement('button');
         btn.className = 'tab-btn';
-        btn.innerText = `SLIDE-${index + 1}`;
-        btn.onclick = (e) => { e.preventDefault(); switchSlide(index + 1, btn); };
+        btn.innerText = `SLIDE-${i + 1}`;
+        btn.onclick = (e) => { e.preventDefault(); switchSlide(i + 1, btn); };
         tabContainer.appendChild(btn);
-    });
+    }
 
+    // 3. QUOTE TAB (Slide 8 - Daily Executive Quote)
+    const quoteBtn = document.createElement('button');
+    quoteBtn.className = 'tab-btn';
+    quoteBtn.innerText = 'QUOTE';
+    quoteBtn.onclick = (e) => { e.preventDefault(); switchSlide('quote', quoteBtn); };
+    tabContainer.appendChild(quoteBtn);
+
+    // 4. FOLLOW TAB (Slide 9 - Follow-up / Archive Routing)
     const followBtn = document.createElement('button');
     followBtn.className = 'tab-btn';
     followBtn.innerText = 'FOLLOW';
     followBtn.onclick = (e) => { e.preventDefault(); switchSlide('follow', followBtn); };
     tabContainer.appendChild(followBtn);
+
+    // 5. POST TAB (Slide 10 - Isolated Social Caption View)
+    const postBtn = document.createElement('button');
+    postBtn.className = 'tab-btn';
+    postBtn.innerText = 'POST';
+    postBtn.onclick = (e) => { e.preventDefault(); switchSlide('post', postBtn); };
+    tabContainer.appendChild(postBtn);
 }
 
 function fitText(element, maxHeight, maxWidth) {
@@ -130,7 +159,34 @@ async function switchSlide(id, element) {
     if (element) element.classList.add('active');
     
     const canvas = document.getElementById('post-canvas');
+    const captionCanvas = document.getElementById('caption-canvas');
+    const dlBtn = document.getElementById('download-active');
+    const copyBtn = document.getElementById('copy-caption-btn');
+
     if (!canvas) return;
+
+    // Handle view visibility toggle between Visual Canvas and Text Caption Canvas
+    if (id === 'post') {
+        canvas.style.display = 'none';
+        if (captionCanvas) captionCanvas.style.display = 'block';
+        if (dlBtn) dlBtn.style.display = 'none';
+        if (copyBtn) copyBtn.style.display = 'inline-block';
+
+        // Populate caption text from template payload
+        const captionDisplay = document.getElementById('caption-text-display');
+        if (captionDisplay) {
+            const rawCaption = (typeof dailyData !== 'undefined' && dailyData.social_post) 
+                ? dailyData.social_post 
+                : "No social caption payload found in template.js.";
+            captionDisplay.innerText = rawCaption;
+        }
+        return;
+    } else {
+        canvas.style.display = 'flex';
+        if (captionCanvas) captionCanvas.style.display = 'none';
+        if (dlBtn) dlBtn.style.display = 'inline-block';
+        if (copyBtn) copyBtn.style.display = 'none';
+    }
 
     const formatTitleBlue = (text) => {
         if (text.includes(':')) {
@@ -170,6 +226,29 @@ async function switchSlide(id, element) {
                 </div>
                 <div class="next-up-tease">NEXT UP: ${nextTease}</div>
                 <div class="swipe-prompt">SWIPE NEXT →</div>`;
+    } else if (id === 'quote') {
+        // Slide 8: Daily Executive Quote Card
+        canvas.className = 'sub-slide-style';
+        const quoteData = dailyData.quote_slide || dailyData.slides[7] || {
+            heading: "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
+            quote: "Constraint awareness is the vital skill; constant market shifts demand prioritization.",
+            author: "Davey Miller, COO at CMC",
+            context: "Inbound Logistics Industry Leadership Review, July 2026"
+        };
+
+        const formattedHeading = formatTitleBlue(quoteData.heading || "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION");
+        
+        html = `<div class="content-body">
+                <header><h1 class="auto-fit">${formattedHeading}</h1><div class="header-divider"></div></header>
+                <div class="detail-text">
+                    <ul class="smart-bullets" style="list-style: none;">
+                        <li style="font-size: 32px; font-style: italic; margin-bottom: 24px;">"${quoteData.quote || quoteData.content}"</li>
+                        <li style="font-size: 26px; color: var(--aeon-blue); font-weight: 700; margin-bottom: 15px;">— ${quoteData.author || "Executive Leadership"}</li>
+                        <li style="font-size: 22px; color: rgba(255,255,255,0.8); font-weight: 400;">Context: ${quoteData.context || "Global Logistics Review"}</li>
+                    </ul>
+                </div>
+                </div>
+                <div class="swipe-prompt">SWIPE NEXT →</div>`;
     } else if (id === 'follow') {
         canvas.className = 'main-hook-style cta-slide';
         
@@ -189,6 +268,7 @@ async function switchSlide(id, element) {
 
         const followAssetUrl = `followup/slide9-${followIndex}.png`;
 
+        // Follow-up slide has no swipe prompt or next-up tease per instructions
         html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
     } else {
         const index = id - 1;
@@ -204,7 +284,14 @@ async function switchSlide(id, element) {
             }
             
             const formattedHeading = formatTitleBlue(slide.heading);
-            const nextTease = (index < dailyData.slides.length - 1) ? dailyData.slides[index + 1].heading : "";
+            
+            // Customized footer handling: Slide 7 specifically teases the Executive Perspective quote slide
+            let nextTease = "";
+            if (index === 6) {
+                nextTease = "EXECUTIVE PERSPECTIVE";
+            } else if (index < dailyData.slides.length - 1 && index < 6) {
+                nextTease = dailyData.slides[index + 1].heading;
+            }
             
             html = `<div class="content-body">
                     <header><h1 class="auto-fit">${formattedHeading}</h1><div class="header-divider"></div></header>
@@ -219,6 +306,28 @@ async function switchSlide(id, element) {
         const titles = canvas.querySelectorAll('.auto-fit');
         titles.forEach(t => fitText(t, 500, 850));
     }, 50);
+}
+
+function copyCaptionToClipboard() {
+    const captionDisplay = document.getElementById('caption-text-display');
+    const copyBtn = document.getElementById('copy-caption-btn');
+    if (!captionDisplay) return;
+
+    const textToCopy = captionDisplay.innerText;
+    navigator.clipboard.writeText(textToCopy).then(() => {
+        if (copyBtn) {
+            const originalText = copyBtn.innerText;
+            copyBtn.innerText = "COPIED TO CLIPBOARD!";
+            copyBtn.style.background = "#15803d";
+            setTimeout(() => {
+                copyBtn.innerText = originalText;
+                copyBtn.style.background = "#22c55e";
+            }, 2000);
+        }
+    }).catch(err => {
+        console.error("Failed to copy text: ", err);
+        alert("Clipboard access failed. Please check browser permissions.");
+    });
 }
 
 async function downloadCurrentSlide() {
@@ -271,14 +380,20 @@ async function downloadAllSlides() {
     if (originalActiveTab) {
         if (originalActiveTab.innerText === 'MAIN') originalId = 'main';
         else if (originalActiveTab.innerText === 'FOLLOW') originalId = 'follow';
+        else if (originalActiveTab.innerText === 'QUOTE') originalId = 'quote';
+        else if (originalActiveTab.innerText === 'POST') originalId = 'post';
         else originalId = parseInt(originalActiveTab.innerText.replace('SLIDE-', ''));
     }
 
     dlBtn.innerText = "CAPTURING ALL...";
     dlBtn.disabled = true;
 
+    // Queue excluding the isolated POST caption view (capturing visual slides only)
     const queue = ['main'];
-    dailyData.slides.forEach((_, i) => queue.push(i + 1));
+    for (let i = 0; i < Math.min(7, dailyData.slides.length); i++) {
+        queue.push(i + 1);
+    }
+    queue.push('quote');
     queue.push('follow');
 
     queue.reverse();
