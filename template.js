@@ -1,119 +1,119 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "Global Tariff Regulatory",
-        "titleBlue": "Shifts",
-        "footerSummary": "The U.S. implements sweeping new tariffs and customs enforcement measures, driving up logistics friction and shifting e-commerce supply chain strategies globally."
+        "titleWhite": "GLOBAL TRADE BARRIERS",
+        "titleBlue": "INTENSIFY",
+        "footerSummary": "New US forced-labor tariffs, a $100 Brent crude spike, and Panama Canal restrictions converge to disrupt global supply chains entering Q3 2026."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US CUSTOMS: NEW FORCED LABOR TARIFFS",
+            "heading": "US CUSTOMS: TARIFF COMPLIANCE ENFORCEMENT",
             "points": [
-                "U.S. mandates new 10% to 12.5% tariffs on imports from 60 global trading partners.",
-                "Levies take effect immediately, replacing expiring Section 122 emergency duties.",
-                "Shippers must audit multi-tier supplier origins to avoid unexpected assessments."
+                "US Customs levies new tariffs on 60 trading partners over forced labor.",
+                "Import shipments face immediate 10% to 12.5% duty hikes at ports of entry.",
+                "Shippers must audit multi-tier supplier compliance to avoid seizure risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "US-CANADA TRADE: SECTION 338 LEVIES",
+            "nextUpTease": "PANAMA CANAL: TRANSIT RESTRICTIONS REBOUND",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "US-CANADA TRADE: SECTION 338 LEVIES",
+            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS REBOUND",
             "points": [
-                "White House imposes sweeping 50% import tariffs on numerous Canadian products.",
-                "Duties apply even to goods qualifying for duty-free status under the USMCA.",
-                "Importers must re-evaluate cross-border nearshoring strategies and tax exposures."
+                "Panama Canal Authority reinstates vessel draft limits ahead of El Ni\u00f1o.",
+                "Lower water levels restrict container volumes, triggering fresh surcharges.",
+                "Shippers should redirect critical US East Coast cargo via intermodal rail."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: TRANSIT RESTRICTIONS",
+            "nextUpTease": "XENETA: AIR FREIGHT CONTRACT CRUNCH",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS",
+            "heading": "XENETA: AIR FREIGHT CONTRACT CRUNCH",
             "points": [
-                "Panama Canal Authority reintroduces vessel draft limits to prepare for El Ni\u00f1o.",
-                "Surcharges rise as container ship daily transit slots are actively restricted.",
-                "Bypassing the canal via intermodal US West Coast routes is highly recommended."
+                "Tightening capacity makes long-term fixed air freight contracts unviable.",
+                "Spot market rates surge as peak season demand matches limited cargo space.",
+                "Logistics managers must transition to index-linked flexible pricing models."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDERAL MARITIME: DETENTION FEE RULING",
+            "nextUpTease": "FEDEX: 2026 PEAK SEASON SURCHARGES",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FEDERAL MARITIME: DETENTION FEE RULING",
+            "heading": "FEDEX: 2026 PEAK SEASON SURCHARGES",
             "points": [
-                "U.S. Appeals Court upholds FMC decision regulating unfair carrier detention fees.",
-                "Carrier billing must align strictly with promoting active cargo fluid movement.",
-                "Importers should file charge complaints to claw back non-compliant demurrage fees."
+                "FedEx announces elevated peak season fees targeting 2026 holiday volumes.",
+                "Shippers face steep home delivery fee hikes, squeezing retail margins.",
+                "Diversifying parcel carriers is essential to mitigate Q3/Q4 cost inflation."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY MARKETS: OIL BREACHES ONE HUNDRED",
+            "nextUpTease": "ENERGY MARKET: BUNKER FUEL INFLATION",
             "tags": [
-                "Source: fmc.gov",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ENERGY MARKETS: OIL BREACHES ONE HUNDRED",
+            "heading": "ENERGY MARKET: BUNKER FUEL INFLATION",
             "points": [
-                "Brent crude oil surges 7.2% to top $100 per barrel amid Red Sea security risks.",
-                "Fuel surcharges across ocean and truckload carriers are set to spike in August.",
-                "Logistics teams must adjust transport budgets to absorb rising fuel-index costs."
+                "Brent crude oil surges 7.2% to $100.88, topping $100 for the first time.",
+                "Ocean carriers prepare to implement emergency bunker adjustment surcharges.",
+                "Shippers must factor rising fuel surcharges into their landed cost models."
             ],
             "imageUrl": "",
-            "nextUpTease": "JUSTICE DEPARTMENT: TRADE FRAUD ACTIONS",
+            "nextUpTease": "US TREASURY: VESSEL SANCTIONS IMPACT",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "JUSTICE DEPARTMENT: TRADE FRAUD ACTIONS",
+            "heading": "US TREASURY: VESSEL SANCTIONS IMPACT",
             "points": [
-                "DOJ Trade Fraud Task Force surpasses $1 billion in total recovery enforcement.",
-                "Customs inspections target systematic tariff evasion and illegal transshipment.",
-                "Importers must maintain absolute record-keeping transparency to mitigate penalties."
+                "US Treasury sanctions six container ships operated by Singaporean SeaLead.",
+                "SeaLead faces immediate capacity constraints, disrupting scheduled ocean loops.",
+                "Ocean freight planners must identify alternative carriers to secure capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: ZONE RURAL SHIPPING SURCHARGES",
+            "nextUpTease": "USPS: SMART LOCKER ROLLOUT",
             "tags": [
-                "Source: inboundlogistics.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "USPS: ZONE RURAL SHIPPING SURCHARGES",
+            "heading": "USPS: SMART LOCKER ROLLOUT",
             "points": [
-                "USPS introduces $2 to $3 rate hikes on lightweight packages to rural destinations.",
-                "Low-margin e-commerce shippers face immediate margin erosion on domestic parcels.",
-                "Multi-carrier routing strategies are required to offset rising postal expenditures."
+                "USPS launches Local XChange smart lockers for secure marketplace handoffs.",
+                "Traditional last-mile hubs face processing shifts as locker networks scale.",
+                "E-commerce sellers should integrate locker delivery options to cut cargo loss."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY QUOTE",
             "tags": [
-                "Source: ecommercebytes.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,9 +122,9 @@ const dailyData = {
             "id": 8,
             "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
             "points": [
-                "\"Effective leaders target the biggest bottlenecks rather than perfecting every link.\"",
-                "\u2014 Davey Miller, COO of CMC",
-                "Context: Executive Statement on Logistics Leadership, July 2026"
+                "\"Shippers must prepare for extreme volatility as fixed-rate contracts become untenable in this market.\"",
+                "\u2014 Peter Sand, Chief Analyst, Xeneta",
+                "Context: Xeneta Market Intelligence Report, July 2026"
             ],
             "imageUrl": "",
             "nextUpTease": "ARCHIVE ACCESS",
