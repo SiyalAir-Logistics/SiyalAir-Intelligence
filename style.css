@@ -453,3 +453,44 @@ body {
 .blue-text {
     color: var(--aeon-blue) !important;
 }
+
+/* ==========================================================================
+   SLIDE 10: SOCIAL MEDIA CAPTION VIEW CONTAINER STYLING
+   ========================================================================== */
+
+#caption-canvas {
+    width: 1080px;
+    height: 1350px;
+    background: #050505;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.8);
+}
+
+#caption-canvas pre {
+    font-family: var(--font-body) !important;
+    scrollbar-width: thin;
+    scrollbar-color: var(--aeon-blue) #111;
+}
+
+#caption-canvas pre::-webkit-scrollbar {
+    width: 8px;
+}
+
+#caption-canvas pre::-webkit-scrollbar-track {
+    background: #111;
+}
+
+#caption-canvas pre::-webkit-scrollbar-thumb {
+    background: var(--aeon-blue);
+    border-radius: 4px;
+}
+
+#copy-caption-btn:hover {
+    background: #16a34a !important;
+    transform: translateY(-1px);
+    box-shadow: 0 4px 12px rgba(34, 197, 94, 0.3);
+}
+
+#copy-caption-btn:active {
+    transform: translateY(0px);
+}
