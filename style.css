@@ -141,10 +141,8 @@ body {
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
     display: inline-block !important;
-    transform: none !important; /* PURGED: Removed broken Y-axis bitmap distortion */
-    /* REPLACED WITH NATIVE STRETCHED FONT-WEIGHT & FLUID WIDTH SCALING */
-    font-size: clamp(45px, 6.8cqw, 95px) !important; 
-    line-height: 0.95 !important; /* Tighter line-height to retain the aggressive condensed look */
+    font-size: clamp(70px, 11cqw, 130px) !important; /* RESTORED: Massive high-impact font scale */
+    line-height: 0.9 !important; /* CONDENSED: Keeps multi-line titles tightly packed yet separated */
     font-weight: 900 !important;
     letter-spacing: -2px !important;
     text-transform: uppercase !important;
@@ -152,9 +150,10 @@ body {
     word-break: normal !important;
     color: var(--text-white);
     text-align: left;
-    margin-bottom: 8px !important;
-    /* Applies a native hardware-accelerated stretch effect that respects browser bounding boxes */
-    transform: scaleX(0.85) scaleY(1.4) !important; 
+    margin-bottom: 10px !important;
+    
+    /* CONTROLLED VERTICAL STRETCH: Recaptures the heavy editorial poster look safely */
+    transform: scaleY(1.4) !important; 
     transform-origin: left bottom !important;
 }
 
