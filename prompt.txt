@@ -210,7 +210,7 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
       },
       {
         "id": 8,
-        "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
+        "heading": "EXECUTIVE PERSPECTIVE",
         "points": [
           "\"[Verified Executive Quote under 40 words matching hourly friction]\"",
           "— [Speaker Full Name], [Exact Title & Company, max 35 chars]",
