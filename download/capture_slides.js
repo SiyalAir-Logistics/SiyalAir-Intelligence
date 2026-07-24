@@ -4,12 +4,7 @@ const path = require('path');
 
 (async () => {
     // Target the specific "download" directory you just created
-    const downloadPath = path.resolve(__dirname, 'download');
-    
-    // Ensure the download directory exists locally to prevent missing folder faults
-    if (!fs.existsSync(downloadPath)) {
-        fs.mkdirSync(downloadPath, { recursive: true });
-    }
+    const downloadPath = path.resolve(__dirname);
     
     console.log("Cleaning out any old slide images from previous runs...");
     const existingFiles = fs.readdirSync(downloadPath);
@@ -26,9 +21,6 @@ const path = require('path');
     });
     
     const page = await browser.newPage();
-
-    // Set viewport dimensions to ensure high fidelity rendering layout matches UI specs
-    await page.setViewport({ width: 1080, height: 1350, deviceScaleFactor: 2 });
 
     // Intercept the browser's native download behavior and force it into your 'download' folder
     const client = await page.target().createCDPSession();
