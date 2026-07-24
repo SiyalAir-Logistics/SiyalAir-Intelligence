@@ -1,119 +1,119 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL SUPPLY",
-        "titleBlue": "REGIMES",
-        "footerSummary": "US replaces Section 122 surcharges with sweeping Section 301 tariffs, while Red Sea tanker attacks and Panama Canal restrictions tighten global shipping capacity."
+        "titleWhite": "TRADE COMPLIANCE",
+        "titleBlue": "SHOCKS",
+        "footerSummary": "US transitions to forced-labor Section 301 tariffs across sixty nations while global energy costs surge past one hundred dollars per barrel."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US CUSTOMS: TARIFF REGIME TRANSLATION",
+            "heading": "US CUSTOMS: SECTION 301 TRANSITION",
             "points": [
-                "US replaces temporary Section 122 surcharges with sweeping Section 301 tariffs.",
-                "Importers face complex new duties targeting sixty distinct global trading economies.",
-                "Compliance divisions must instantly audit import classifications for tariff exposure."
+                "US replaces temporary Section 122 surcharges with Section 301 tariffs on 60 nations.",
+                "Importers face sudden 10% to 12.5% tariff adjustments based on forced-labor audits.",
+                "Compliance teams must quickly restructure trade classification databases to avoid delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "RED SEA: TANKER FIRE ESCALATES RISK",
+            "nextUpTease": "GLOBAL FUEL: ENERGY PRICE SPIKES",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RED SEA: TANKER FIRE ESCALATES RISK",
+            "heading": "GLOBAL FUEL: ENERGY PRICE SPIKES",
             "points": [
-                "Houthis attack Saudi oil tanker Encelia in Red Sea, causing active onboard fires.",
-                "Marine insurers prepare to escalate war risk premiums along critical transit lanes.",
-                "Cargo routers must evaluate extended fuel surcharges for Southern Africa diversions."
+                "Brent crude oil surges past $100 per barrel driven by rising Middle East tensions.",
+                "Shippers hit with immediate 10% weekly bunker and diesel fuel surcharge increases.",
+                "Logistic managers must renegotiate contract fuel caps to prevent margin depletion."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS SPIN-OFF",
+            "nextUpTease": "CANADA BORDER: SECTION 338 TARIFFS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "KUEHNE+NAGEL: APEX LOGISTICS SPIN-OFF",
+            "heading": "CANADA BORDER: SECTION 338 TARIFFS",
             "points": [
-                "Kuehne+Nagel evaluates options for its high-performing Apex Logistics subsidiary.",
-                "Parent company weighs a partial stake sale, shifting transpacific capacity control.",
-                "Shippers must monitor freight forwarding consolidation to secure long-term allocations."
+                "US imposes sudden 50% tariffs on select Canadian imports, disrupting USMCA lanes.",
+                "Cross-border supply chains face overnight cost hikes despite duty-free agreements.",
+                "Freight forwarders advise immediate reassessment of nearshore raw material sourcing."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: SURCHARGES AND RESTRICTIONS",
+            "nextUpTease": "OCEAN CARRIERS: FMC COURT VICTORY",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PANAMA CANAL: SURCHARGES AND RESTRICTIONS",
+            "heading": "OCEAN CARRIERS: FMC COURT VICTORY",
             "points": [
-                "Panama Canal Authority reintroduces draft transit restrictions ahead of El Nino.",
-                "Ocean carriers MSC and CMA CGM quickly levy new canal surcharges on US-bound cargo.",
-                "Intermodal planners must redirect critical East Coast volumes to West Coast ports."
+                "US Court of Appeals upholds FMC authority to enforce strict freight fluidity rules.",
+                "Ocean carriers are banned from assessing detention and demurrage during port blocks.",
+                "Cargo owners can now formally dispute unreasonable carrier billing practices in court."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: CONTRACTING FRICTION",
+            "nextUpTease": "CUSTOMS FRAUD: TASK FORCE RECOVERIES",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR CARGO: ANNUAL CONTRACT VOLATILITY",
+            "heading": "CUSTOMS FRAUD: TASK FORCE RECOVERIES",
             "points": [
-                "Global shippers struggle to secure annual air freight contracts in a tight market.",
-                "Spot-market volatility prevents forwarders from locking in stable pricing structures.",
-                "Logistics buyers should secure short-term block space agreements to mitigate spikes."
+                "DOJ Trade Fraud Task Force recovers $1 billion in unlawful duty and tariff evasion.",
+                "Enforcement focus shifts toward cross-border truck brokers and customs misdeclaration.",
+                "Supply chain audits must expand origin-tracing protocols to mitigate legal risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "LITIGATION: BROKER LIABILITY RECKONING",
+            "nextUpTease": "US POSTAL SERVICE: RURAL SURCHARGES",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LITIGATION: BROKER LIABILITY RECKONING",
+            "heading": "US POSTAL SERVICE: RURAL SURCHARGES",
             "points": [
-                "C.H. Robinson is hit with a nuclear court verdict under negligent selection claims.",
-                "Freight brokerages face massive financial exposure following supreme court rulings.",
-                "Risk officers must implement stricter automated carrier vetting tools immediately."
+                "USPS implements a $2 to $3 rate surcharge on lightweight shipments to rural zones.",
+                "E-commerce merchants face direct margin erosion on Ground Advantage parcel delivery.",
+                "Retailers must pivot to regional multi-carrier networks to bypass rural surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "SANCTIONS: SEALEAD FLEET DISRUPTIONS",
+            "nextUpTease": "PANAMA CANAL: TRANSIT RESTRICTIONS",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SANCTIONS: SEALEAD FLEET DISRUPTIONS",
+            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS",
             "points": [
-                "US Treasury sanctions six container ships operated by Singapore-based SeaLead.",
-                "Carrier struggles to deploy sufficient ocean capacity under tightening trade blocks.",
-                "Supply chain directors must audit ocean alliances to avoid sanctioned vessel lanes."
+                "Panama Canal Authority schedules transit restrictions in preparation for El Ni\u00f1o.",
+                "Under-keel clearance reductions limit container vessel weights, reducing capacity.",
+                "Shippers must secure alternative intermodal routes via the US West Coast early."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY QUOTE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,9 +122,9 @@ const dailyData = {
             "id": 8,
             "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
             "points": [
-                "\"Constant market shifts demand prioritization and creative workarounds. Effective leaders target the biggest bottlenecks rather than perfecting every link.\"",
-                "\u2014 Davey Miller, COO, CMC",
-                "Context: July 2026 Executive Insight, Inbound Logistics"
+                "\"Replacing Section 122 with Section 301 overnight forces importers to race. Mapping sixty nations under new compliance frameworks requires instant database realignment.\"",
+                "\u2014 Thomas Alston, VP, Global Trade Group",
+                "Context: Official Trade Advisory, July 2026 Briefing"
             ],
             "imageUrl": "",
             "nextUpTease": "ARCHIVE ACCESS",
