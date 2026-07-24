@@ -1,119 +1,119 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "SURGE",
-        "footerSummary": "New U.S. Section 301 tariffs on 60 nations create immediate compliance urgency, while rising geopolitical conflict in the Middle East throttles global maritime capacity."
+        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleBlue": "VOLATILITY",
+        "footerSummary": "New U.S. Section 301 tariffs on 60 economies replace expiring Section 122 levies, triggering immediate, complex compliance shifts across international supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SECTION 301 TARIFF SHIFT",
+            "heading": "TARIFF REGIME SHIFT",
             "points": [
-                "U.S. implements new tariffs on 60 trading partners as Section 122 expires.",
-                "Duty rates now range from 10% to 12.5% across impacted imported categories.",
-                "Importers must recalibrate landed cost models to account for immediate levies."
+                "USTR replaces expiring Section 122 import surcharges with new Section 301 duties.",
+                "Imports from 60 global economies now face mandatory 10% or 12.5% tariff levels.",
+                "Importers must rapidly re-classify tariff codes to maintain border compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL LIABILITY SPIKE",
+            "nextUpTease": "BROKER LIABILITY RISKS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LEGAL LIABILITY SPIKE",
+            "heading": "BROKER LIABILITY SHOCK",
             "points": [
-                "C.H. Robinson hit with $604M verdict in negligent carrier selection litigation.",
-                "Legal exposure centers on carrier vetting protocols in high-risk freight lanes.",
-                "Shippers must formalize AI-driven carrier compliance to mitigate tort risks."
+                "C.H. Robinson hit with $604M verdict in negligent carrier selection court case.",
+                "Legal precedent creates massive operational friction for freight brokerage vetting.",
+                "Firms must overhaul carrier selection protocols to mitigate nuclear verdicts."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME CAPACITY STRAIN",
+            "nextUpTease": "AIR FREIGHT CAPACITY",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME CAPACITY STRAIN",
+            "heading": "AIR CARGO TIGHTENING",
             "points": [
-                "Geopolitical instability in the Red Sea disrupts major global transit arteries.",
-                "Oil tankers face escalating threats, driving up fuel surcharges and premiums.",
-                "Strait of Hormuz transit normalcy likely suspended for 12 months or longer."
+                "Annual air freight contracts proving difficult to sustain in tightening market.",
+                "Spot rates cooling while fuel cost volatility climbs, pressuring carrier yields.",
+                "Shippers face increased procurement friction and renewed capacity uncertainty."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER RATE VOLATILITY",
+            "nextUpTease": "PANAMA CANAL SQUEEZE",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CARRIER RATE VOLATILITY",
+            "heading": "PANAMA CANAL CONSTRAINTS",
             "points": [
-                "Spot freight rates decline gently due to ongoing capacity injection discipline.",
-                "Annual air freight contracts face tightening sustainability in volatile markets.",
-                "Blank sailings persist as the primary lever for carrier capacity management."
+                "ACP reinstates transit restrictions ahead of predicted El Ni\u00f1o weather impacts.",
+                "Carriers rolling out new surcharges to offset anticipated capacity bottlenecks.",
+                "Transit delays likely to disrupt Asia-US East Coast cargo flow parity."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL INVENTORY PRESSURE",
+            "nextUpTease": "US CUSTOMS ENFORCEMENT",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RETAIL INVENTORY PRESSURE",
+            "heading": "TRADE FRAUD CRACKDOWN",
             "points": [
-                "Tractor Supply lowers outlook citing pet market weakness and fuel cost drag.",
-                "Retailers race to beat incoming tariff deadlines with aggressive frontloading.",
-                "Inventory optimization platforms struggle to close planning-to-execution gaps."
+                "DOJ Trade Fraud Task Force surpasses $1 billion in total penalty recoveries.",
+                "Aggressive audit posture increases compliance risk for cross-border logistics.",
+                "Importers advised to enhance internal documentation for forced labor tracing."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE DECOUPLING",
+            "nextUpTease": "CARRIER CAPACITY INJECTION",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "INFRASTRUCTURE DECOUPLING",
+            "heading": "ULCV CAPACITY INJECTION",
             "points": [
-                "Gordie Howe Bridge opens to limited service as U.S.-Canada tensions persist.",
-                "Trade alliance deterioration impacts cross-border movement of critical goods.",
-                "Diversification strategies lead to 'supplier sprawl' across the North continent."
+                "East-West tradelanes see surge of new ULCV vessel deliveries this quarter.",
+                "Blank sailings and capacity discipline attempt to stabilize spot rate decay.",
+                "Network planners must account for rapid changes in regional space availability."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE FRAUD ENFORCEMENT",
+            "nextUpTease": "RAIL SERVICE TEST",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRADE FRAUD ENFORCEMENT",
+            "heading": "CHICAGO RAIL CHASSIS",
             "points": [
-                "DOJ Trade Fraud Task Force surpasses $1 billion in total penalty recoveries.",
-                "Aggressive enforcement targets forced labor non-compliance in supply chains.",
-                "Mandatory audits for OTI/NVOCC filings increase due to stricter regulations."
+                "Inland chassis fleets face first major post-COVID surge due to rising imports.",
+                "Equipment gaps emerging in rail yards, testing current intermodal resilience.",
+                "Truckers warn of service delays as throughput demands exceed recent norms."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -121,8 +121,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE",
-        "quoteText": "Effective leaders target the biggest bottlenecks rather than perfecting every link in a broken supply chain during periods of high ambiguity.",
-        "author": "Davey Miller, COO at CMC",
-        "context": "Inbound Logistics Industry Assessment, July 2026"
+        "quoteText": "Effective leaders target the biggest bottlenecks rather than perfecting every link. By partnering with teams to identify root causes, they resolve issues faster and keep operations moving.",
+        "author": "Davey Miller, COO at CMC Logistics",
+        "context": "July 2026 Industry Operational Best Practices Assessment"
     }
 };
