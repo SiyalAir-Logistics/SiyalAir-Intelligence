@@ -1,138 +1,128 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TARIFF SHOCK & COMPLIANCE",
-        "titleBlue": "RESTRICTIONS",
-        "footerSummary": "New Section 301 tariffs on 60 nations and 50% duties on Canada disrupt existing trade lanes, forcing swift regulatory audits."
+        "titleWhite": "TARIFF REORGANIZATION COMPLIANCE",
+        "titleBlue": "SHIFT",
+        "footerSummary": "Importers face severe friction as the US shifts to Section 301 tariffs, while rising broker liability and canal surcharges squeeze global margins."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US CUSTOMS: SECTION 301 TRANSITION",
+            "heading": "US CBP: SECTION 301 TARIFF SHIFT",
             "points": [
-                "US replaces temporary Section 122 surcharges with a new Section 301 tariff regime.",
-                "Imports from 60 economies face immediate duties of 10% to 12.5% starting Friday.",
-                "Importers must audit customs entries to verify compliance under the new framework."
+                "US replaces temporary Section 122 surcharges with Section 301 forced labor tariffs.",
+                "Imports from 60 countries hit with sudden 10% to 12.5% duty rates overnight.",
+                "Supply chain managers must urgently audit vendor origins to prevent cargo seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "US TRADE REGIME: CANADIAN TARIFF SHOCK",
+            "nextUpTease": "C.H. ROBINSON: BROKER LIABILITY SHOCK",
             "tags": [
-                "Source: cbp.gov",
-                "Published: Last 24 Hours",
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "US TRADE REGIME: CANADIAN TARIFF SHOCK",
+            "heading": "C.H. ROBINSON: BROKER LIABILITY SHOCK",
             "points": [
-                "US imposes 50% Section 338 duties on a wide variety of imports from Canada.",
-                "New tariffs bypass duty-free provisions established under the USMCA agreement.",
-                "Shippers must recalculate nearshored landing costs and diversify supply lanes."
+                "Giant nuclear verdict strikes broker following landmark negligent selection lawsuit.",
+                "Vetting processes face intense scrutiny as legal standards for third parties rise.",
+                "Intermediaries must deploy strict, automated compliance checks on all carriers."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPREME COURT: BROKER VETTING SHIFT",
+            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE CRACKDOWN",
             "tags": [
-                "Source: supplychaindive.com",
-                "Published: Last 24 Hours",
+                "Source: https://www.freightwaves.com",
+                "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SUPREME COURT: BROKER VETTING SHIFT",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE CRACKDOWN",
             "points": [
-                "Supreme Court Montgomery ruling holds brokers liable for negligent carrier selection.",
-                "Shippers and brokers face multi-million dollar liability risks for safety failures.",
-                "Operations must implement automated, data-driven carrier safety verification tools."
+                "Joint Trade Fraud Task Force recovers $1 billion within first year of operation.",
+                "Importers face aggressive auditing and heavy financial penalties for customs evasion.",
+                "Compliance teams must enforce absolute transparency in product valuation and duty."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: EL NINO RESTRICTIONS RETURN",
+            "nextUpTease": "PANAMA CANAL: DRAFT LIMITS RESTRICTIONS",
             "tags": [
-                "Source: freightwaves.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PANAMA CANAL: EL NINO RESTRICTIONS RETURN",
+            "heading": "PANAMA CANAL: DRAFT LIMITS RESTRICTIONS",
             "points": [
-                "Panama Canal Authority reinstates vessel transit limits due to El Nino weather.",
-                "Draft restrictions force ocean carriers to introduce fresh transit surcharges.",
-                "Shippers should expect longer transit times and divert discretionary cargo east."
+                "Canal authority reintroduces draft limits and transit restrictions due to El Ni\u00f1o.",
+                "Ocean carriers introduce fresh transshipment surcharges, hiking container costs.",
+                "Shippers should diversify routing to US East Coast and Gulf ports to avoid delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "US TREASURY: VESSEL SANCTIONS IMPOSED",
+            "nextUpTease": "USTR: SWEEPING CANADA IMPORT TARIFFS",
             "tags": [
-                "Source: theloadstar.com",
-                "Published: Last 24 Hours",
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "US TREASURY: VESSEL SANCTIONS IMPOSED",
+            "heading": "USTR: SWEEPING CANADA IMPORT TARIFFS",
             "points": [
-                "US Treasury sanctions six container ships operated by Singapore-based SeaLead.",
-                "Sanctioned vessels are frozen, reducing immediate regional transpacific capacity.",
-                "Shippers must screen partner vessel schedules to avoid severe asset seizure risks."
+                "US imposes 50% Section 338 duties on a wide variety of Canadian imports.",
+                "Duties apply to goods despite qualifying for duty-free status under USMCA rules.",
+                "Nearshoring strategies must adjust to mitigate unilateral North American tariffs."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX EXPRESS: PEAK SEASON FEES UNVEILED",
+            "nextUpTease": "FORWARDERS: AIR FREIGHT RATE BALANCING",
             "tags": [
-                "Source: theloadstar.com",
-                "Published: Last 24 Hours",
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FEDEX EXPRESS: PEAK SEASON FEES UNVEILED",
+            "heading": "FORWARDERS: AIR FREIGHT RATE BALANCING",
             "points": [
-                "FedEx releases its 2026 peak season surcharge schedule with higher home fees.",
-                "Commercial and residential deliveries face elevated surcharges through January.",
-                "Retailers must optimize last-mile routing to offset rising delivery expenses."
+                "Spot cargo rates begin cooling as global peak-season demand begins to stabilize.",
+                "Skyrocketing fuel surcharges offset any relief from lower baseline contract rates.",
+                "Fleet managers must secure flexible capacity to counter volatile operating expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUMMINS ENGINE: EPA NOx UPGRADE",
+            "nextUpTease": "EBAY: DEPOP ACQUISITION SECURED",
             "tags": [
-                "Source: supplychaindive.com",
-                "Published: Last 24 Hours",
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CUMMINS ENGINE: EPA NOx UPGRADE",
+            "heading": "EBAY: DEPOP ACQUISITION SECURED",
             "points": [
-                "Cummins begins phasing in MY-2027 engines to meet strict EPA emissions rules.",
-                "Compliance raises heavy-duty truck acquisition costs and fleet operational spend.",
-                "Carriers must budget for increased capital expenditure on next-gen powertrains."
+                "Regulators clear eBay's $1.2 billion acquisition of fashion platform Depop.",
+                "Integration changes peer-to-peer shipping rules and seller payout structures.",
+                "Marketplace sellers must prepare for fee updates and consolidated shipping tools."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: ttnews.com",
-                "Published: Last 24 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 8,
-            "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-            "points": [
-                "\"Effective leaders target the biggest bottlenecks rather than perfecting every link.\"",
-                "\u2014 Davey Miller, COO, CMC",
-                "Context: Logistics Leadership Interview, July 2026"
-            ],
-            "imageUrl": "",
-            "nextUpTease": "",
-            "tags": [
-                "Source: Verified Wire",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         }
-    ]
+    ],
+    "quote": {
+        "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
+        "quoteText": "Setting big, hairy, audacious goals guides supply chains through unpredictable eras of global disruption.",
+        "author": "Lakshmanan Chidambaram, CEO, Bristlecone",
+        "context": "July 2026 Executive Briefing"
+    }
 };
