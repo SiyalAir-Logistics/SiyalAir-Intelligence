@@ -1,85 +1,85 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR TARIFF",
-        "titleBlue": "SHOCK",
-        "footerSummary": "New US Section 301 tariffs on 60 trading partners trigger severe cost hikes, disrupting cross-border logistics and forcing immediate compliance restructuring."
+        "titleWhite": "GLOBAL TRADE FRICTION",
+        "titleBlue": "SPIKES",
+        "footerSummary": "New Section 301 tariffs on 60 trading partners and rising fuel costs are creating significant cross-border supply chain volatility for Q3 2026 operations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US CUSTOMS: FORCED LABOR TARIFFS",
+            "heading": "TARIFF EXPANSION: SECTION 301",
             "points": [
-                "US replaces expiring levies with new Section 301 tariffs on 60 trade partners.",
-                "Importers face immediate 10% to 12.5% duties on previously exempt components.",
-                "Supply chain managers must restructure origin sourcing to prove compliance pathways."
+                "President Trump enacted new tariffs on 60 trading partners to combat forced labor.",
+                "Imports now face 10% or 12.5% duties as previous stopgap levies officially expire.",
+                "Importers must recalibrate landed cost models for immediate 2026 compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: EL NINO RESTRICTIONS",
+            "nextUpTease": "MARITIME REGULATION",
             "tags": [
-                "Source: https://www.cbp.gov",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PANAMA CANAL: EL NINO RESTRICTIONS",
+            "heading": "MARITIME: DETENTION FEE ENFORCEMENT",
             "points": [
-                "Canal Authority prepares for El Ni\u00f1o with new ocean transit restrictions.",
-                "Daily vessel transits are slashed, compounding draft limits and shipping delays.",
-                "Shippers must secure alternative intermodal routing via US West Coast ports."
+                "D.C. Circuit Court upheld FMC ruling requiring detention fees to drive fluidity.",
+                "Ocean carriers face stricter scrutiny on billing practices under OSRA mandates.",
+                "Shifting fee structures will necessitate more granular terminal performance audits."
             ],
             "imageUrl": "",
-            "nextUpTease": "US TREASURY: BOX SHIP SANCTIONS",
+            "nextUpTease": "ENERGY VOLATILITY",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "US TREASURY: BOX SHIP SANCTIONS",
+            "heading": "ENERGY: DIESEL PRICE SURGE",
             "points": [
-                "Office of Foreign Assets Control sanctions six additional container vessels.",
-                "SeaLead Shipping capacity is hobbled, forcing immediate cargo re-routings.",
-                "Logistics legal teams must audit carrier vessel ownership to avoid penalty exposure."
+                "Brent crude oil breached $100 per barrel, fueling the highest diesel cost spike.",
+                "Rising fuel surcharges are significantly inflating carrier operational overheads.",
+                "Logistics managers must hedge fuel exposure to protect thinning margin targets."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: RURAL SHIPPING SURCHARGES",
+            "nextUpTease": "AUTOMATION SHIFTS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "USPS: RURAL SHIPPING SURCHARGES",
+            "heading": "TRUCKING: BROKER TRANSPARENCY",
             "points": [
-                "Postal Service hikes lightweight parcel rates specifically targeting rural regions.",
-                "E-commerce sellers face a $2 to $3 cost increase per Ground Advantage shipment.",
-                "Multi-channel retailers must recalibrate free-shipping thresholds for rural zones."
+                "FMCSA set to finalize the broker transparency proposal within the current month.",
+                "New rules aim to curb carrier vetting failures following supreme court rulings.",
+                "Brokers should prepare for mandatory data disclosure on carrier selection flows."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS SPIN-OFF",
+            "nextUpTease": "AIR FREIGHT",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "KUEHNE+NAGEL: APEX LOGISTICS SPIN-OFF",
+            "heading": "AIR CARGO: PEAK SEASON PRESSURE",
             "points": [
-                "Forwarding giant Kuehne+Nagel explores selling its stake in Apex Logistics unit.",
-                "Global air freight capacity ownership shifts, altering long-term contract baselines.",
-                "Shippers must evaluate multi-forwarder portfolios to mitigate allocation volatility."
+                "Annual air freight contracts face unsustainable pressure in a tightening market.",
+                "Forwarders report difficulty sustaining fixed rates against volatile demand spikes.",
+                "Diversification into flexible capacity is now a primary risk mitigation strategy."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: BILLION DOLLAR FRAUD CRACKDOWN",
+            "nextUpTease": "US CUSTOMS COMPLIANCE",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -88,14 +88,14 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "DOJ: BILLION DOLLAR FRAUD CRACKDOWN",
+            "heading": "TRADE COMPLIANCE: RECOVERY METRICS",
             "points": [
-                "Department of Justice Trade Fraud Task Force recovers $1 billion since inception.",
-                "Importers face aggressive customs audits, seizure risks, and severe compliance fees.",
-                "Corporate compliance teams must proactively validate custom valuation filings."
+                "DOJ Trade Fraud Task Force surpassed $1 billion in total penalties and losses.",
+                "Heightened enforcement targets misclassification and illicit customs valuation.",
+                "Strict data integrity in filing is mandatory to avoid punitive federal action."
             ],
             "imageUrl": "",
-            "nextUpTease": "US-CANADA TRADE: SECTION 338 TARIFFS",
+            "nextUpTease": "RURAL E-COMMERCE",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -104,16 +104,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "US-CANADA TRADE: SECTION 338 TARIFFS",
+            "heading": "LAST-MILE: RURAL DELIVERY COSTS",
             "points": [
-                "US imposes sudden 50% tariffs on many Canadian imports under Section 338.",
-                "Duty-free status under USMCA is bypassed, triggering immediate material cost spikes.",
-                "Nearshoring firms must review cross-border supply lines for sudden trade barriers."
+                "USPS implemented a $2-$3 surcharge for lightweight packages to rural destinations.",
+                "Marketplace sellers face margin compression on low-value, high-distance orders.",
+                "Review localized shipping zones to optimize cost-to-serve for regional buyers."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY QUOTE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,9 +122,9 @@ const dailyData = {
             "id": 8,
             "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
             "points": [
-                "\"Detention and demurrage fees must always serve the primary purpose of promoting freight fluidity.\"",
-                "\u2014 Laura DiBella, Chairman of FMC",
-                "Context: Federal Court Ruling, July 2026"
+                "\"Constraint awareness is the vital skill; constant market shifts demand prioritization and creative workarounds to keep global operations moving forward.\"",
+                "\u2014 Davey Miller, COO at CMC",
+                "Context: Inbound Logistics Industry Leadership Review, July 2026"
             ],
             "imageUrl": "",
             "nextUpTease": "ARCHIVE ACCESS",
