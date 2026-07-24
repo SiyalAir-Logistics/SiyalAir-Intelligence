@@ -1,128 +1,138 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "SPIKES",
-        "footerSummary": "New U.S. Section 301 tariffs on 60 trading partners trigger broad supply chain volatility. Rising oil costs and regulatory bottlenecks intensify market uncertainty."
+        "titleWhite": "TARIFF SHOCK & COMPLIANCE",
+        "titleBlue": "RESTRICTIONS",
+        "footerSummary": "New Section 301 tariffs on 60 nations and 50% duties on Canada disrupt existing trade lanes, forcing swift regulatory audits."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRUMP TARIFFS: SECTION 301 ENACTMENT",
+            "heading": "US CUSTOMS: SECTION 301 TRANSITION",
             "points": [
-                "U.S. implements sweeping 10-12.5% tariffs on 60 trade partners as stopgap levies end.",
-                "Importers face immediate cost inflation and classification complexity at U.S. ports.",
-                "Supply chain managers must audit landed-cost models to account for new duty tiers."
+                "US replaces temporary Section 122 surcharges with a new Section 301 tariff regime.",
+                "Imports from 60 economies face immediate duties of 10% to 12.5% starting Friday.",
+                "Importers must audit customs entries to verify compliance under the new framework."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL SURCHARGES",
+            "nextUpTease": "US TRADE REGIME: CANADIAN TARIFF SHOCK",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
+                "Source: cbp.gov",
+                "Published: Last 24 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS",
+            "heading": "US TRADE REGIME: CANADIAN TARIFF SHOCK",
             "points": [
-                "Panama Canal Authority initiates new draft limits due to emerging El Ni\u00f1o conditions.",
-                "Vessel capacity constraints on key Asia-USEC lanes are projected to reduce throughput.",
-                "Shift cargo routing to intermodal or West Coast alternatives to bypass bottlenecks."
+                "US imposes 50% Section 338 duties on a wide variety of imports from Canada.",
+                "New tariffs bypass duty-free provisions established under the USMCA agreement.",
+                "Shippers must recalculate nearshored landing costs and diversify supply lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY PRICE VOLATILITY",
+            "nextUpTease": "SUPREME COURT: BROKER VETTING SHIFT",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
+                "Source: supplychaindive.com",
+                "Published: Last 24 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FUEL MARKET: BRENT CRUDE SURGE",
+            "heading": "SUPREME COURT: BROKER VETTING SHIFT",
             "points": [
-                "International oil benchmarks exceed $100/barrel for the first time in two months.",
-                "Carriers adjust fuel surcharges, impacting LTL and ocean freight rate stability.",
-                "Lock in short-term fuel hedging to mitigate volatility for remaining Q3 lanes."
+                "Supreme Court Montgomery ruling holds brokers liable for negligent carrier selection.",
+                "Shippers and brokers face multi-million dollar liability risks for safety failures.",
+                "Operations must implement automated, data-driven carrier safety verification tools."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS RURAL SHIPPING COSTS",
+            "nextUpTease": "PANAMA CANAL: EL NINO RESTRICTIONS RETURN",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "USPS: LIGHTWEIGHT PACKAGE HIKE",
+            "heading": "PANAMA CANAL: EL NINO RESTRICTIONS RETURN",
             "points": [
-                "New pricing structures add $2-$3 cost per lightweight parcel to rural U.S. zones.",
-                "Retailers face margin compression on low-value e-commerce goods in remote regions.",
-                "Optimize zone-skipping strategies to consolidate last-mile delivery volume."
+                "Panama Canal Authority reinstates vessel transit limits due to El Nino weather.",
+                "Draft restrictions force ocean carriers to introduce fresh transit surcharges.",
+                "Shippers should expect longer transit times and divert discretionary cargo east."
             ],
             "imageUrl": "",
-            "nextUpTease": "CBP ENFORCEMENT ACTIONS",
+            "nextUpTease": "US TREASURY: VESSEL SANCTIONS IMPOSED",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 48 Hours",
+                "Source: theloadstar.com",
+                "Published: Last 24 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DOJ: TRADE FRAUD PENALTIES",
+            "heading": "US TREASURY: VESSEL SANCTIONS IMPOSED",
             "points": [
-                "Justice Department Trade Fraud Task Force hits $1 billion in cumulative recoveries.",
-                "Increased scrutiny on entry filings heightens risk of retroactive penalty audits.",
-                "Strengthen compliance protocols for country-of-origin documentation immediately."
+                "US Treasury sanctions six container ships operated by Singapore-based SeaLead.",
+                "Sanctioned vessels are frozen, reducing immediate regional transpacific capacity.",
+                "Shippers must screen partner vessel schedules to avoid severe asset seizure risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION & TECH SHIFTS",
+            "nextUpTease": "FEDEX EXPRESS: PEAK SEASON FEES UNVEILED",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 48 Hours",
+                "Source: theloadstar.com",
+                "Published: Last 24 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "WAREHOUSE TECH: RFID EXPANSION",
+            "heading": "FEDEX EXPRESS: PEAK SEASON FEES UNVEILED",
             "points": [
-                "UPS accelerates RFID deployment across domestic networks to phase out manual scans.",
-                "Operational visibility improves, yet integration requires legacy WMS upgrades.",
-                "Evaluate facility compatibility for automated sensing to boost throughput rates."
+                "FedEx releases its 2026 peak season surcharge schedule with higher home fees.",
+                "Commercial and residential deliveries face elevated surcharges through January.",
+                "Retailers must optimize last-mile routing to offset rising delivery expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL FREIGHT DYNAMICS",
+            "nextUpTease": "CUMMINS ENGINE: EPA NOx UPGRADE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 48 Hours",
+                "Source: supplychaindive.com",
+                "Published: Last 24 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAIL: INTERMODAL VOLUME SHIFTS",
+            "heading": "CUMMINS ENGINE: EPA NOx UPGRADE",
             "points": [
-                "Union Pacific expands network options following strategic merger support deals.",
-                "Improved Chicago transit times offer alternatives to congested trucking corridors.",
-                "Re-route high-volume inland shipments to rail to capture cost efficiencies."
+                "Cummins begins phasing in MY-2027 engines to meet strict EPA emissions rules.",
+                "Compliance raises heavy-duty truck acquisition costs and fleet operational spend.",
+                "Carriers must budget for increased capital expenditure on next-gen powertrains."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: ttnews.com",
+                "Published: Last 24 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 8,
+            "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
+            "points": [
+                "\"Effective leaders target the biggest bottlenecks rather than perfecting every link.\"",
+                "\u2014 Davey Miller, COO, CMC",
+                "Context: Logistics Leadership Interview, July 2026"
+            ],
+            "imageUrl": "",
+            "nextUpTease": "",
+            "tags": [
+                "Source: Verified Wire",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         }
-    ],
-    "quote": {
-        "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "Constraint awareness is critical. Constant market shifts demand prioritization and creative workarounds to resolve bottlenecks before they disrupt the broader logistics chain.",
-        "author": "Davey Miller, COO, CMC",
-        "context": "Inbound Logistics Operational Leadership Survey, July 2026"
-    }
+    ]
 };
