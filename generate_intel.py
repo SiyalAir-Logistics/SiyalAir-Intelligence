@@ -216,7 +216,7 @@ def main():
             
             post_content = parsed_payload.get("social_post", "")
             
-            # Convert extracted slides data back to a clean string format
+            # Convert extracted slides data back to clean string format
             slides_json_str = json.dumps(slides_data_obj, indent=4)
             
             # Save exactly as required for template.js with live UTC comment header
@@ -231,7 +231,7 @@ def main():
                 
             return # Success
         except Exception:
-            time.sleep(10) # Back-off if model rate-limits or JSON is invalid
+            time.sleep(10) # Back-off if model rate-limit or JSON is invalid
             continue
 
 if __name__ == "__main__":
