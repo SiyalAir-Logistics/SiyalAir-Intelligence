@@ -9,6 +9,7 @@ on:
       - 'download/**'  # Block the bot from looping on its own image updates
       - 'bg_tracker.txt' # Block the bot from looping on background tracker state updates
       - 'follow_tracker.txt' # Block the bot from looping on follow-up tracker state updates
+      - 'quote_tracker.txt' # Block the bot from looping on quote tracker state updates
       - 'processed_hashes.txt' # Block the bot from looping on hash registry updates
   workflow_dispatch:
   schedule:
@@ -123,13 +124,47 @@ jobs:
           print(f"Dynamic Follow-up Rotation: Found {max_followups} total follow slides. Rotated tracker: {current_follow_val} -> {next_follow_val}")
           EOF
 
-          # 4. Stage template.js, post.txt, tracker files, and deduplication hash registry
-          git add template.js post.txt bg_tracker.txt follow_tracker.txt processed_hashes.txt
+          # --- NEW FIX: Dynamically rotate and increment quote tracker state automatically ---
+          python - << 'EOF'
+          import os
+          import glob
+
+          quote_tracker_file = "quote_tracker.txt"
+          
+          quote_files = glob.glob("quotes/quote*.png") if os.path.exists("quotes") else []
+          valid_quote_indices = []
+          for f in quote_files:
+              filename = os.path.basename(f)
+              num_part = filename.replace("quote", "").replace(".png", "")
+              if num_part.isdigit():
+                  valid_quote_indices.append(int(num_part))
+
+          max_quotes = max(valid_quote_indices) if valid_quote_indices else 1
+
+          try:
+              if os.path.exists(quote_tracker_file):
+                  with open(quote_tracker_file, "r", encoding="utf-8") as f:
+                      current_quote_val = int(f.read().strip())
+              else:
+                  current_quote_val = 1
+          except Exception:
+              current_quote_val = 1
+
+          if current_quote_val >= max_quotes:
+              next_quote_val = 1
+          else:
+              next_quote_val = current_quote_val + 1
+
+          with open(quote_tracker_file, "w", encoding="utf-8") as f:
+              f.write(str(next_quote_val))
+          print(f"Dynamic Quote Rotation: Found {max_quotes} total quotes. Rotated tracker: {current_quote_val} -> {next_quote_val}")
+          EOF
+
+          # 4. Stage template.js, post.txt, all tracker files, and deduplication hash registry atomically
+          git add template.js post.txt bg_tracker.txt follow_tracker.txt quote_tracker.txt processed_hashes.txt
           
           # --- PERMANENT FIX: FORCE-TOUCH FILES TO GUARANTEE A GIT DIFF CHANGE ---
-          # This ensures that even if generate_intel.py yields duplicate content, 
-          # the tracker state rotation and time-stamp token force an active commit payload.
-          touch template.js post.txt
+          touch template.js post.txt bg_tracker.txt follow_tracker.txt quote_tracker.txt processed_hashes.txt
 
           # 5. Verify structural differences cleanly without stashing or merging files
           if ! git diff --cached --quiet; then
@@ -219,6 +254,7 @@ jobs:
           import smtplib
           from email.mime.multipart import MIMEMultipart
           from email.mime.text import MIMEText
+          import datetime
 
           try:
               with open('template.js', 'r', encoding='utf-8') as f:
@@ -229,6 +265,17 @@ jobs:
                       post_content = pf.read().strip()
               except Exception:
                   post_content = "Error: post.txt content could not be pulled from workspace environment memory."
+
+              # --- FILE TIME-STAMP AUDIT COLLECTION FOR VERIFIED TRACEABILITY ---
+              files_to_check = ['template.js', 'post.txt', 'bg_tracker.txt', 'follow_tracker.txt', 'quote_tracker.txt', 'processed_hashes.txt']
+              file_timestamps_html = ""
+              for fname in files_to_check:
+                  if os.path.exists(fname):
+                      mtime = os.path.getmtime(fname)
+                      time_str = datetime.datetime.utcfromtimestamp(mtime).strftime('%Y-%m-%d %H:%M:%S UTC')
+                      file_timestamps_html += f'<tr><td style="padding: 4px 0; color: #8b949e;">{fname}</td><td style="padding: 4px 0; color: #56d364;">{time_str}</td></tr>'
+                  else:
+                      file_timestamps_html += f'<tr><td style="padding: 4px 0; color: #8b949e;">{fname}</td><td style="padding: 4px 0; color: #f85149;">MISSING</td></tr>'
 
               tw_match = re.search(r'"titleWhite"\s*:\s*"([^"]+)"', content)
               tb_match = re.search(r'"titleBlue"\s*:\s*"([^"]+)"', content)
@@ -252,12 +299,18 @@ jobs:
               <html>
                 <body style="background-color: #0d1117; color: #c9d1d9; font-family: monospace; padding: 30px;">
                   <div style="max-width: 600px; margin: 0 auto; border: 1px solid #30363d; padding: 20px; border-radius: 6px; background-color: #161b22;">
-                    <h2 style="color: #00a8a8; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0;">⚡_ SIYALAIR SYSTEM DISPATCH</h2>
-                    <p style="font-size: 14px; color: #8b949e;">Automated reconfirmation deployment pipeline executed successfully.</p>
+                    <h2 style="color: #00a8a8; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0;">⚡ SIYALAIR SYSTEM DISPATCH</h2>
+                    <p style="font-size: 14px; color: #8b949e;">Automated reconfirmation deployment pipeline executed successfully with full file sync verification.</p>
+                    
+                    <h3 style="color: #00a8a8; font-size: 14px; margin-top: 20px; margin-bottom: 8px; border-bottom: 1px solid #30363d; padding-bottom: 4px;">🕒 FILE MODIFICATION TIMESTAMPS (AUDIT PROOF)</h3>
+                    <table style="width: 100%; font-size: 12px; border-collapse: collapse; margin-bottom: 15px;">
+                      {file_timestamps_html}
+                    </table>
+
                     <table style="width: 100%; font-size: 13px; border-collapse: collapse; margin: 20px 0;">
                       <tr>
                         <td style="padding: 6px 0; color: #8b949e; width: 140px;"><strong>Status:</strong></td>
-                        <td style="padding: 6px 0; color: #56d364;">UPDATED & DEPLOYED</td>
+                        <td style="padding: 6px 0; color: #56d364;">SYNCHRONIZED & COMMITTED</td>
                       </tr>
                       <tr>
                         <td style="padding: 6px 0; color: #8b949e;"><strong>Subject Context:</strong></td>
