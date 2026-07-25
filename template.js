@@ -2,118 +2,118 @@ const dailyData = {
     "main": {
         "kicker": "",
         "titleWhite": "GLOBAL TRADE TARIFF",
-        "titleBlue": "INSTABILITY",
-        "footerSummary": "New U.S. Section 301 tariffs on 60 economies trigger immediate legal and operational friction, compounding supply chain volatility across air and maritime lanes."
+        "titleBlue": "SHIFT",
+        "footerSummary": "New USTR tariffs on 60 nations create immediate compliance friction, while C.H. Robinson faces a landmark $604M judgment, signaling intensifying legal and operational volatility."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SUPPLY CHAIN DIVE: USTR TARIFF EXPANSION",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "USTR enacts 10% to 12.5% tariffs on 60 trading partners as Section 122 expires.",
-                "Importers face immediate landed-cost surges and complex cross-border documentation.",
-                "Strategic sourcing shifts toward non-affected regions to bypass new levy structures."
+                "USTR finalized new 10%-12.5% Section 301 tariffs on 60 nations today.",
+                "Importers face immediate duty reclassification as Section 122 levies expire.",
+                "Strategic re-auditing of supply chains is required to mitigate duty spikes."
             ],
             "imageUrl": "",
             "nextUpTease": "C.H. ROBINSON VERDICT",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FREIGHTWAVES: C.H. ROBINSON LIABILITY",
+            "heading": "LEGAL: C.H. ROBINSON JUDGMENT",
             "points": [
-                "Jury awards $604 million in negligence verdict regarding carrier selection.",
-                "Brokerage models face heightened scrutiny over carrier vetting and safety compliance.",
-                "Industry standard insurance and compliance protocols will require immediate revision."
+                "A $604 million nuclear verdict was issued against C.H. Robinson for negligence.",
+                "Case highlights escalating liability risks in carrier selection and vetting.",
+                "Brokers must implement rigorous compliance frameworks to defend vetting protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "US CUSTOMS ENFORCEMENT",
+            "nextUpTease": "DATA CENTER FREIGHT",
             "tags": [
-                "Source: freightwaves.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INBOUND LOGISTICS: TRADE FRAUD CRACKDOWN",
+            "heading": "JOC: DATA CENTER LOGISTICS",
             "points": [
-                "DOJ Trade Fraud Task Force hits $1 billion in total penalty and loss recoveries.",
-                "Aggressive enforcement of customs compliance creates operational bottlenecks.",
-                "Logistics firms must tighten documentation to avoid high-penalty audit exposure."
+                "Data center infrastructure buildouts are masking weak consumer freight demand.",
+                "Hardware logistics volume remains stable despite retail-sector cooling.",
+                "Shift focus toward project-based infrastructure lanes to maintain load stability."
             ],
             "imageUrl": "",
-            "nextUpTease": "US IMPORT VOLUME SHIFTS",
+            "nextUpTease": "RURAL SHIPPING COSTS",
             "tags": [
-                "Source: inboundlogistics.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DC VELOCITY: IMPORT VOLUME SURGE",
+            "heading": "USPS: RURAL DELIVERY SURCHARGE",
             "points": [
-                "Summer import volumes projected to reach highest levels since 2022.",
-                "Inland infrastructure struggles to manage rapid inflow of data center components.",
-                "Forward-deployed inventory strategies are essential to counter peak season delays."
+                "USPS implemented a $2-$3 rate hike for lightweight rural package deliveries.",
+                "Small parcel margins are eroding on low-density, remote delivery routes.",
+                "Re-evaluate marketplace shipping configurations for rural-heavy customer bases."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL SURCHARGES",
+            "nextUpTease": "TRUCKING CAPACITY",
             "tags": [
-                "Source: dcvelocity.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "THE LOADSTAR: PANAMA CANAL CONGESTION",
+            "heading": "TRUCKING: CAPACITY CONSTRAINTS",
             "points": [
-                "ACP reinstates transit restrictions; MSC and CMA CGM announce fresh surcharges.",
-                "Draft limitations force rerouting and longer dwell times for trans-Pacific lanes.",
-                "Carriers adjust schedules, impacting reliability for East Coast delivery windows."
+                "Trucking rates hold near record highs as capacity tightens across US networks.",
+                "Driver supply remains choked, limiting elasticity in the spot market.",
+                "Contracting for reliable lane capacity is urgent for Q3-Q4 risk management."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX PEAK SEASON FEE",
+            "nextUpTease": "TRADE FRAUD RECOVERIES",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SUPPLY CHAIN DIVE: FEDEX SURCHARGES",
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
             "points": [
-                "FedEx unveils 2026 peak season fee structure with higher home delivery costs.",
-                "Retailers face margin compression from sustained last-mile carrier pricing power.",
-                "Diversified regional carrier usage remains the primary mitigation strategy."
+                "DOJ Trade Fraud Task Force recovered $1 billion in penalties in under one year.",
+                "Enhanced scrutiny of import data is targeting systematic undervaluation.",
+                "Centralize trade data compliance to prevent exposure to punitive audit actions."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL MARKET SHIFT",
+            "nextUpTease": "GLOBAL TANKER THREATS",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRANSPORT TOPICS: KUEHNE+NAGEL APEX SPIN",
+            "heading": "MARITIME: TANKER ESCALATION",
             "points": [
-                "Logistics giant explores potential divestment of Apex Logistics unit.",
-                "Market consolidation trends intensify as major forwarders realign capital assets.",
-                "Increased focus on specialized freight lanes rather than general sprawl."
+                "Red Sea and regional hostilities are forcing oil tanker diversions.",
+                "Energy supply chains face sustained premium costs due to route volatility.",
+                "Monitor bunker fuel pricing indices as geopolitical risks disrupt supply."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY: QUOTE UNQUOTE",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -123,8 +123,8 @@ const dailyData = {
             "heading": "DAILY: QUOTE UNQUOTE",
             "points": [
                 "\"Constraint awareness. Constant market shifts demand prioritization and creative workarounds.\"",
-                "\u2014 Davey Miller, Chief Operating Officer at CMC",
-                "Domain: Inbound Logistics"
+                "\u2014 Davey Miller, Chief Operating Officer, CMC",
+                "Domain: https://www.inboundlogistics.com"
             ],
             "imageUrl": "",
             "nextUpTease": "SUPPRESS_FOOTER",
