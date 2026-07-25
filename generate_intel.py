@@ -18,7 +18,7 @@ client = genai.Client(api_key=api_key)
 MODEL_PRIORITY = ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-2.5-flash"]
 HASH_FILE = "processed_hashes.txt"
 
-# 2. DEDUPLICATION ENGINE
+# 2. DEDUPLICATION & TRACKER ROTATION ENGINE
 def load_processed_hashes():
     """Loads previously processed article content hashes to prevent duplication."""
     if not os.path.exists(HASH_FILE):
@@ -27,7 +27,7 @@ def load_processed_hashes():
         return set(line.strip() for line in f if line.strip())
 
 def save_processed_hash(content_signature):
-    """Appends a new unique content hash to the registry file."""
+    """Appends a new unique content hash to the registry file with rolling bounds."""
     processed = load_processed_hashes()
     content_hash = hashlib.sha256(content_signature.encode('utf-8')).hexdigest()
     
@@ -35,9 +35,46 @@ def save_processed_hash(content_signature):
         return True # Duplicate detected
         
     processed.add(content_hash)
+    # Maintain rolling set of last 50 hashes to prevent permanent lockouts on static prompts
+    processed_list = list(processed)[-50:]
     with open(HASH_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(processed) + "\n")
+        f.write("\n".join(processed_list) + "\n")
     return False
+
+def rotate_trackers():
+    """Dynamically rotates background, quote, and follow trackers on every run."""
+    # Rotate background tracker (1 to 5)
+    bg_index = 1
+    if os.path.exists("bg_tracker.txt"):
+        try:
+            with open("bg_tracker.txt", "r", encoding="utf-8") as f:
+                bg_index = (int(f.read().strip()) % 5) + 1
+        except Exception:
+            bg_index = 1
+    with open("bg_tracker.txt", "w", encoding="utf-8") as f:
+        f.write(str(bg_index))
+
+    # Rotate quote tracker (0 to 9)
+    q_index = 0
+    if os.path.exists("quote_tracker.txt"):
+        try:
+            with open("quote_tracker.txt", "r", encoding="utf-8") as f:
+                q_index = (int(f.read().strip()) + 1) % 10
+        except Exception:
+            q_index = 0
+    with open("quote_tracker.txt", "w", encoding="utf-8") as f:
+        f.write(str(q_index))
+
+    # Rotate follow tracker (1 to 3)
+    f_index = 1
+    if os.path.exists("follow_tracker.txt"):
+        try:
+            with open("follow_tracker.txt", "r", encoding="utf-8") as f:
+                f_index = (int(f.read().strip()) % 3) + 1
+        except Exception:
+            f_index = 1
+    with open("follow_tracker.txt", "w", encoding="utf-8") as f:
+        f.write(str(f_index))
 
 # 3. STEALTH ENGINE
 def get_stealth_headers():
@@ -56,6 +93,8 @@ def get_stealth_headers():
 
 def fetch_and_clean():
     """Extracts URLs from prompt.txt and scrapes with human-like timing."""
+    if not os.path.exists("prompt.txt"):
+        return "Global Intelligence Update", ""
     with open("prompt.txt", "r", encoding="utf-8") as f:
         prompt_content = f.read()
     
@@ -64,8 +103,8 @@ def fetch_and_clean():
     
     for url in urls:
         try:
-            # Human jitter: wait between 5 and 15 seconds to look like a slow reader
-            time.sleep(random.uniform(5.0, 15.0))
+            # Human jitter: wait between 2 and 5 seconds to look like a slow reader
+            time.sleep(random.uniform(2.0, 5.0))
             response = requests.get(url, headers=get_stealth_headers(), timeout=20)
             
             if response.status_code == 200:
@@ -85,14 +124,20 @@ def fetch_and_clean():
 def main():
     prompt_base, data = fetch_and_clean()
     
-    # Check deduplication against the combined gathered intel signature
+    # Always rotate trackers on every execution cycle
+    rotate_trackers()
+
+    # Generate exact UTC timestamp for salt and header injection
+    utc_now_str = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+
+    # Check deduplication against gathered intel combined with dynamic timestamp salt
     if data.strip():
-        signature_sample = data[:1000] # Use top text chunk as unique fingerprint
+        signature_sample = data[:1000] + utc_now_str # Unique fingerprint combined with runner clock
         if save_processed_hash(signature_sample):
             print("Duplicate news feed detected in registry. Halting execution to avoid redundancy.")
             return
 
-    final_input = f"{prompt_base}\n\n[LATEST LIVE DATA]:\n{data}"
+    final_input = f"{prompt_base}\n\n[EXECUTION TIMESTAMP UTC]: {utc_now_str}\n\n[LATEST LIVE DATA]:\n{data}"
     
     for model in MODEL_PRIORITY:
         try:
@@ -143,9 +188,9 @@ def main():
             # Convert extracted slides data back to a clean string format
             slides_json_str = json.dumps(slides_data_obj, indent=4)
             
-            # Save exactly as required for template.js
+            # Save exactly as required for template.js with live UTC comment header
             with open("template.js", "w", encoding="utf-8") as f:
-                f.write(f"const dailyData = {slides_json_str};")
+                f.write(f"/* GENERATED UTC: {utc_now_str} */\nconst dailyData = {slides_json_str};")
                 
             # Save the clean free-form social media post to your root location
             with open("post.txt", "w", encoding="utf-8") as f:
