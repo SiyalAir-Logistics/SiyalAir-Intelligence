@@ -1,38 +1,22 @@
-/* GENERATED UTC: 2026-07-25 14:55:23 */
+/* GENERATED UTC: 2026-07-25 14:59:13 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "Global Trade Systemic",
-        "titleBlue": "Shift",
-        "footerSummary": "New U.S. Section 301 tariffs on 60 economies trigger global supply chain compliance restructuring as logistics firms face record-high legal and operational headwinds."
+        "titleWhite": "TRADE POLICY SHOCKS",
+        "titleBlue": "INTENSIFY",
+        "footerSummary": "The US transition to Section 301 tariffs and escalating $604 million broker liabilities represent a high-friction realignment of global supply chain compliance."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SUPPLY CHAIN DIVE: U.S. TARIFF RESTRUCTURE",
+            "heading": "THE LOADSTAR: NEW SECTION 301 TARIFFS",
             "points": [
-                "New Section 301 tariffs on 60 trading partners replace expired Section 122 levies.",
-                "Importers now face 10% or 12.5% duties, sparking legal challenges from businesses.",
-                "Supply chains must pivot to new compliance protocols to avoid duty-free disqualification."
+                "US replaces temporary Section 122 surcharge with permanent Section 301 tariffs.",
+                "New 10% to 12.5% duties target imports from 60 economies starting July 24, 2026.",
+                "Importers must audit customs entries immediately to mitigate tariff-rate shocks."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS RATE FLUCTUATIONS",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "THE LOADSTAR: TRANS-PACIFIC CAPACITY",
-            "points": [
-                "Capacity injection of large containerships impacts east-west tradelane pricing.",
-                "Spot rates on main trades face downward pressure despite lingering blank sailings.",
-                "Shippers must balance lower spot market costs against unreliable schedule integrity."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CARRIER LEGAL LIABILITIES",
+            "nextUpTease": "BROKER NEGLIGENT LIABILITY",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -40,81 +24,97 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "FREIGHTWAVES: CARRIER LEGAL RISKS",
+            "id": 2,
+            "heading": "TRANSPORT TOPICS: $604M NEGLIGENT VERDICT",
             "points": [
-                "C.H. Robinson faces appeal following a massive $604 million negligent selection case.",
-                "Nuclear verdicts set new precedents for broker carrier vetting and liability scope.",
-                "Logistics providers must overhaul vetting tech to mitigate high-stakes legal exposure."
+                "Jury hands down $604 million verdict against C.H. Robinson for fatal truck crash.",
+                "Ruling sets extreme legal precedent for negligent carrier selection by brokerages.",
+                "Shippers and 3PLs must drastically tighten motor carrier vetting frameworks."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL CONSTRAINTS",
+            "nextUpTease": "PEAK SEASON FEES",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "SUPPLY CHAIN DIVE: FEDEX PEAK FEES SURGE",
+            "points": [
+                "FedEx announces heavy peak season fee increases and home delivery rate hikes.",
+                "Shippers face elevated demand surcharges across the entire domestic US network.",
+                "Logistics managers should lock in volume commitments early to contain cost spikes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PANAMA CANAL RESTRICTIONS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "JOC: DATA CENTER LOGISTICS IMPACT",
+            "heading": "THE LOADSTAR: PANAMA CANAL TRANSIT LIMITS",
             "points": [
-                "Hardware and infrastructure imports sustain trans-Pacific volumes amid weak retail.",
-                "Data center buildouts mask current consumer merchandise demand suppression.",
-                "Logistics planners should shift focus to project cargo and specialized tech lanes."
+                "Panama Canal Authority prepares for El Nino with immediate transit restrictions.",
+                "Draft limit reductions and daily slots force ocean carriers to add new surcharges.",
+                "Importers should prepare to shift East Coast cargo to West Coast rail corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING CAPACITY TIGHTENING",
+            "nextUpTease": "SEMICONDUCTOR ONWARD EXPANSION",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LOGISTICS MGMT: LABOR MARKET TRENDS",
+            "heading": "SUPPLY CHAIN DIVE: TSMC $100B US EXPANSION",
             "points": [
-                "Logistics professional salaries rebound to $126k amid strategic role expansion.",
-                "Industry talent focus shifting toward risk management and technology integration.",
-                "Higher compensation reflects the increased complexity of managing global disruptions."
+                "TSMC commits another $100 billion to construct four advanced semiconductor plants.",
+                "The expansion brings the manufacturer's total US facility count to twelve.",
+                "Deep domestic chip supply chain integration will stabilize high-tech logistics."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION & ROBOTICS",
+            "nextUpTease": "APEX LOGISTICS DIVESTMENT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DC VELOCITY: RETAIL IMPORT SURGE",
+            "heading": "TRANSPORT TOPICS: APEX LOGISTICS STRATEGY",
             "points": [
-                "Summer monthly imports set to hit the highest volume levels recorded since 2022.",
-                "Concentrated peak volume creates localized bottlenecks at key coastal terminals.",
-                "Inventory planning requires buffer stock to offset unpredictable arrival delays."
+                "Kuehne+Nagel explores the potential sale of a stake in its Apex Logistics unit.",
+                "The move signals a shift in air freight forwarder consolidation and asset focus.",
+                "Global shippers must monitor joint-venture transitions to protect air capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPPLY CHAIN REGULATORY WATCH",
+            "nextUpTease": "ALUMINUM TARIFF REDUCTIONS",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SUPPLYCHAINBRAIN: VENDOR AI RISKS",
+            "heading": "SUPPLY CHAIN DIVE: ONSHORING TARIFF CUTS",
             "points": [
-                "Managing vendor AI agent behavior poses new operational risks in supply chains.",
-                "Probabilistic outputs from AI models lack the predictability of standard EDI flows.",
-                "Execution control requires human-in-the-loop oversight to avoid systemic errors."
+                "US offers to cut aluminum import duties in half for local production guarantees.",
+                "To qualify for the 50% tariff relief, companies must expand capacity by 2029.",
+                "Industrial supply chains face rapid restructuring to capture the tariff relief."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "Effective leaders target the biggest bottlenecks rather than perfecting every link.",
-        "author": "Davey Miller, Chief Operating Officer at CMC",
-        "context": "Domain: Inbound Logistics"
+        "quoteText": "We are transitioning from cost-optimized logistics to risk-hedged, politically constrained supply networks.",
+        "author": "Soren Toft, CEO of MSC",
+        "context": "Domain: https://www.fmc.gov"
     }
 };
