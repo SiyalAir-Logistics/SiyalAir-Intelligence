@@ -1,120 +1,120 @@
-/* GENERATED UTC: 2026-07-25 17:48:53 */
+/* GENERATED UTC: 2026-07-25 18:10:05 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE COMPLIANCE",
-        "titleBlue": "SHIFT",
-        "footerSummary": "New USTR Section 301 tariffs on 60 nations create immediate import friction, while trucking capacity tightens as rates hit record levels across US lanes."
+        "titleWhite": "Global Trade Compliance",
+        "titleBlue": "Shift",
+        "footerSummary": "New U.S. tariffs on 60 nations create immediate operational friction, while carrier liability risks in the U.S. reach record-setting $604 million levels."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SUPPLY CHAIN DIVE: TARIFF ENFORCEMENT EXPANSION",
+            "heading": "USTR: NEW GLOBAL TARIFF REGIME",
             "points": [
-                "USTR initiates new 10% and 12.5% duties on 60 nations effective immediately.",
-                "Importers face sudden cost hikes as Section 122 levies expire Friday.",
-                "Diversification strategies must pivot to account for broader trade barrier scope."
+                "U.S. implements Section 301 tariffs on 60 nations as Section 122 expires.",
+                "Duty levels remain volatile with 10% to 12.5% mandates impacting landed costs.",
+                "Importers face urgent recalibration of trade lanes to mitigate duty exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING CAPACITY CRISIS",
+            "nextUpTease": "CARRIER LIABILITY CRISIS",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FREIGHTWAVES: TRUCKING CAPACITY TIGHTENING",
+            "heading": "LEGAL: NUCLEAR VERDICT ON BROKERS",
             "points": [
-                "Shippers encounter severe capacity constraints as trucking rates hold near record highs.",
-                "New driver regulations and safety enforcement reduce total fleet availability.",
-                "Operational budgets must adjust for persistent upward pressure on spot market rates."
+                "C.H. Robinson hit with $604M verdict in negligent carrier selection lawsuit.",
+                "Broker vetting standards now demand AI-driven, real-time safety compliance.",
+                "Industry shift toward rigorous, documentable carrier vetting is now mandatory."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL RISK AMPLIFICATION",
+            "nextUpTease": "RAIL VOLUME DYNAMICS",
             "tags": [
-                "Source: freightwaves.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRANSPORT TOPICS: NUCLEAR VERDICT IMPACT",
+            "heading": "RAIL: INTERMODAL VOLUME SURGE",
             "points": [
-                "C.H. Robinson faces a $604 million jury verdict regarding negligent carrier selection.",
-                "Broker liability standards are escalating, requiring more rigorous vetting protocols.",
-                "Legal scrutiny necessitates automated compliance tools to replace manual oversight."
+                "Data center hardware imports sustain peak season volumes on Trans-Pacific lanes.",
+                "Rail equipment gaps emerge in Chicago as West Coast import volumes increase.",
+                "Reliable intermodal service capacity is now critical for 2027 contract bids."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME FEE REGULATION",
+            "nextUpTease": "AIR CARGO MARKET TIGHTENING",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FMC: FREIGHT FLUIDITY ENFORCEMENT",
+            "heading": "AIR CARGO: RATE VOLATILITY",
             "points": [
-                "Appeals court upholds mandates that detention fees must drive freight fluidity.",
-                "Carriers face heightened scrutiny over demurrage billing practices and compliance.",
-                "Transparency in billing is now a critical prerequisite for all ocean shipments."
+                "Spot rates cool while fuel surcharges climb, creating new balancing act.",
+                "Annual contract sustainability faces immense pressure from shifting conditions.",
+                "Carriers struggle to maintain margins amidst rising operational input costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL FULFILLMENT PRESSURE",
+            "nextUpTease": "PANAMA CANAL CONSTRAINTS",
             "tags": [
-                "Source: fmc.gov",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RETAIL DIVE: PEAK SEASON LOGISTICS",
+            "heading": "MARITIME: PANAMA CANAL ALERT",
             "points": [
-                "Retailers report soaring fuel costs and logistics overhead compressing margins.",
-                "Amazon competition and Instacart partnerships are redefining last-mile expectations.",
-                "Supply chain resilience is now the primary barrier to maintaining holiday volume."
+                "Authority announces new transit restrictions in anticipation of El Ni\u00f1o.",
+                "Carriers roll out hefty surcharges impacting East Coast delivery timelines.",
+                "Supply chain planners must model increased transit times for autumn peak."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECH BUDGET FRICTION",
+            "nextUpTease": "RETAIL INVENTORY STRAIN",
             "tags": [
-                "Source: retaildive.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CNBC: AI SPENDING CREDIT RISK",
+            "heading": "RETAIL: INVENTORY CAPACITY PINCH",
             "points": [
-                "Moody\u2019s warns that heavy AI infrastructure capex threatens corporate credit quality.",
-                "Capital allocation is shifting toward tech at the expense of traditional assets.",
-                "Financial planners must monitor balance sheet volatility in major logistics firms."
+                "Logistics Managers' Index hits 71.1, signaling tightening warehouse capacity.",
+                "Retailers rush to secure space ahead of accelerated holiday shipping windows.",
+                "Operational focus shifts to maximizing throughput in constrained DCs."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE FRAUD RECOVERIES",
+            "nextUpTease": "TECHNOLOGY ADOPTION GAPS",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INBOUND LOGISTICS: TRADE FRAUD TASK FORCE",
+            "heading": "TECH: EDI INTEGRATION BOTTLENECKS",
             "points": [
-                "DOJ Trade Fraud Task Force surpasses $1 billion in total recovered penalties.",
-                "Strict enforcement of customs entry data is now a standard operational risk.",
-                "Importers must audit cross-border documentation to avoid severe forfeiture risks."
+                "Customized EDI integrations create persistent friction in modern freight flows.",
+                "Technical debt in legacy systems slows response to real-time market shifts.",
+                "Shift toward flexible, software-driven orchestration is now the primary fix."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: inboundlogistics.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "Effective leaders target the biggest bottlenecks rather than perfecting every link.",
+        "quoteText": "Constraint awareness. Constant market shifts demand prioritization and creative workarounds.",
         "author": "Davey Miller, Chief Operating Officer, CMC",
-        "context": "Domain: Operational Leadership"
+        "context": "Domain: Inbound Logistics"
     }
 };
