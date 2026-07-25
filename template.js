@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF",
-        "titleBlue": "VOLATILITY",
-        "footerSummary": "New Section 301 tariffs on 60 nations create urgent compliance friction for U.S. importers as previous temporary surcharge frameworks expire this week."
+        "titleWhite": "GLOBAL TARIFF REGIME",
+        "titleBlue": "SHIFT",
+        "footerSummary": "New U.S. Section 301 tariffs on 60 economies replace Section 122 measures, triggering widespread importer legal challenges and immediate logistics network reconfiguration."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
+            "heading": "USTR: TARIFF REGIME OVERHAUL",
             "points": [
-                "The U.S. Trade Representative has finalized new 10% and 12.5% import duties covering 60 distinct trading nations globally. This structural pivot replaces expiring Section 122 levies with long-term enforcement mechanisms targeting forced labor and trade compliance. Supply chain managers face immediate landed-cost recalibrations across all impacted trans-Pacific and Atlantic trade lanes.",
-                "Importers must audit current tariff codes to determine if specific shipments qualify for existing duty-free treatment. Legal teams are prioritizing the identification of origin-specific bottlenecks to mitigate potential border detention risks. Compliance departments are currently stress-testing ERP systems against these revised duty rates before enforcement begins.",
-                "Logistics providers are reporting significant confusion among shippers navigating the transition from temporary to permanent tariff structures. The lack of clear exemption protocols for goods already in transit creates high-risk exposure for high-volume retail merchandise. Failure to adjust procurement strategies will result in substantial margin erosion during the upcoming peak season.",
-                "Anticipate rigorous secondary inspections at U.S. ports of entry for goods originating from the 60 affected nations. Stakeholders are advised to secure comprehensive documentation proving supply chain integrity to satisfy new federal oversight demands. Future tariff escalations remain highly probable given the current political focus on restrictive trade policies."
+                "The USTR has officially transitioned to a new Section 301 tariff framework covering 60 global trading partners. Duties are now set at 10 percent and 12.5 percent levels following the expiration of Section 122.",
+                "Importers are facing significant operational uncertainty as customs compliance requirements shift rapidly to match these new enforcement mandates. Legal specialists report that companies are struggling to map specific goods against the updated duty schedules.",
+                "This policy shift marks a definitive move toward more aggressive, forced labor-based trade enforcement. Supply chain managers are forced to conduct urgent audits of their entire cross-border sourcing networks to avoid penalties.",
+                "Industry analysts predict a surge in protests and litigation as companies challenge the classification of goods under these new specific categories. Visibility into origin documentation has become the single most critical asset for modern importers."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER LIABILITY VERDICTS",
+            "nextUpTease": "C.H. ROBINSON ADVISORY VERDICT",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -25,15 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "C.H. ROBINSON: NUCLEAR VERDICT IMPACT",
+            "heading": "C.H. ROBINSON: LEGAL IMPACT",
             "points": [
-                "A $604 million legal verdict against C.H. Robinson has fundamentally altered the risk landscape for third-party logistics freight brokerages. The ruling establishes a dangerous precedent for broker liability in cases of negligent carrier selection and highway safety failures. Industry leaders are rapidly re-evaluating vetting protocols to insulate their operational structures from similar catastrophic litigation.",
-                "Insurance premiums for freight intermediaries are projected to spike as underwriters incorporate this legal risk into 2027 contract pricing. Smaller carriers face intensified scrutiny, as brokers mandate higher safety scores and tighter compliance documentation to avoid liability. This shift effectively raises the barrier to entry for smaller logistics startups in the market.",
-                "Legal counsel for major 3PLs is recommending a total overhaul of the carrier onboarding lifecycle to prioritize audit trails over speed. Standard brokerage agreements are currently being rewritten to shift safety responsibilities more aggressively toward underlying asset-based motor carriers. The industry is bracing for an era of hyper-defensive document management and vendor verification.",
-                "Expect this ruling to drive further consolidation as smaller brokerages fail to meet the heightened compliance costs now demanded by shippers. Enterprise-level shippers are demanding total transparency into carrier vetting records, forcing brokers to invest heavily in automated compliance monitoring technology. The legal definition of brokerage liability will remain a central point of contention through 2027."
+                "C.H. Robinson faces a massive 604 million dollar advisory verdict following a negligent carrier selection case in Mississippi. The ruling underscores extreme liability risks associated with broker-level vetting protocols.",
+                "Industry legal experts warn that this decision may fundamentally redefine the standard of care required for freight brokers nationwide. The verdict could trigger a massive shift in how third-party logistics firms qualify motor carriers.",
+                "Shipment liability frameworks are being stress-tested as this nuclear verdict suggests that brokers could be held responsible for carrier performance failings. Companies are now rushing to implement AI-driven vetting and audit processes.",
+                "Expect a wave of insurance premium adjustments across the brokerage sector as providers reassess the risks of negligent selection claims. The legal landscape for intermediary liability has become significantly more volatile overnight."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL RESTRICTIONS",
+            "nextUpTease": "INTERNATIONAL ENGINE EMISSIONS",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -42,85 +42,85 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "PANAMA CANAL: TRANSIT VOLATILITY",
+            "heading": "INTERNATIONAL: EPA COMPLIANCE",
             "points": [
-                "The Panama Canal Authority has officially reintroduced transit restrictions due to evolving El Nino climate patterns and water resource constraints. Carriers are proactively rolling out emergency surcharges to offset the operational inefficiencies created by decreased slot availability for deep-sea vessels. Major oceanic alliances are adjusting port calls to prioritize high-value containers amidst the capacity tightening.",
-                "Data indicates that congestion levels at major Pacific ports are intensifying as vessels divert to alternate routes or slow-steam. Freight forwarders are shifting to intermodal alternatives, pressuring domestic rail networks that were already operating at near-maximum capacity thresholds. The disruption is expected to persist through the peak shopping season, affecting global inventory flow.",
-                "Shippers with tight deadlines are being forced to explore expensive air-freight conversions to avoid catastrophic stockouts for Q4 inventory needs. Warehouse networks near East Coast hubs are seeing an influx of early-arriving cargo as companies attempt to front-load supply lines. Operational agility is currently the primary determinant of success for global retailers relying on canal transit.",
-                "Anticipate persistent fluctuations in spot rates as capacity remains constrained by environmental variables and infrastructure limitations at critical canal chokepoints. Stakeholders should focus on diversifying routing options and building safety stock to mitigate the impact of unpredictable transit delays. Long-term forecasting models must now factor in recurring climate-related disruptions at this key artery."
+                "International is actively considering a staggered introduction of model-year 2027 engines to manage upcoming NOx emissions regulation compliance. This move signals internal manufacturing stress as firms navigate rigid federal environmental standards.",
+                "Fleets are bracing for potential equipment delivery delays as manufacturers grapple with these complex technical transitions before the hard 2027 deadline. The industry remains highly sensitive to potential capacity constraints during the switch.",
+                "Cummins and other major manufacturers are also actively adjusting production timelines to ensure full compliance with the stringent EPA NOx rules. Strategic alignment between engine makers and OEMs is currently undergoing significant reconfiguration.",
+                "Technician shortages remain a massive underlying bottleneck as shops prepare to service these high-complexity next-generation engine systems. Maintenance costs are expected to climb as specialized certification requirements continue to tighten significantly."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL STRATEGIC PIVOT",
+            "nextUpTease": "PANAMA CANAL SURCHARGES",
             "tags": [
-                "Source: https://www.theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "KUEHNE+NAGEL: GROWTH ARCHITECTURE",
+            "heading": "CARRIERS: CANAL SURCHARGES",
             "points": [
-                "Global forwarding giant Kuehne+Nagel is accelerating its digital transformation strategy by leveraging AI to optimize internal operational costs and pricing power. The firm is focusing on the potential divestment of its Apex Logistics unit to sharpen its core focus on scalable, technology-driven forwarding services. Investors are watching closely as the company navigates AI-related cost inflation while pursuing market share gains.",
-                "Management has reaffirmed its commitment to a robust cost reduction program, targeting inefficiencies within its massive road and air logistics networks. By integrating advanced agentic AI, the organization aims to reduce the manual labor required for complex customs and clearance documentation processes. This strategic focus highlights the broader industry trend of prioritizing automation to stay competitive.",
-                "The company is aggressively investing in high-margin healthcare and data-center logistics to insulate its revenue streams from traditional container shipping volatility. Strategic investments in artificial intelligence are now being marketed as a competitive advantage to win major enterprise accounts and mid-market players. The goal is to maximize pricing power while simultaneously driving down the cost of execution.",
-                "This pivot signals a shift toward a future where forwarding is defined by high-frequency data orchestration rather than sheer physical asset ownership. Competitors are likely to follow suit as the benefits of predictive analytics and AI-driven supply chain planning become standard market expectations. Future operational success hinges on the firm's ability to balance rapid technological adoption with profitability."
+                "MSC and CMA CGM have officially introduced fresh surcharges related to Panama Canal draft limits and transit restrictions. These added costs highlight the ongoing fragility of critical global shipping chokepoints during seasonal shifts.",
+                "Carrier capacity discipline remains under pressure as blanked sailings continue to manifest as a permanent feature of modern trans-Pacific trade routes. Shippers are finding it increasingly difficult to secure reliable, predictable slot space.",
+                "The Panama Canal Authority is preparing for El Nino-related weather impacts that threaten to disrupt transit availability for the foreseeable future. Freight rates on east-west trade lanes are reacting as market capacity enters a delicate balancing act.",
+                "Global supply chain reliability is effectively being throttled by these recurring canal disruptions and regional maritime security threats. Forwarders advise shippers to incorporate long-term buffer strategies into their annual routing procurement cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING CAPACITY STRAIN",
+            "nextUpTease": "INDUSTRIAL REAL ESTATE",
             "tags": [
-                "Source: https://www.theloadstar.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRUCKING: CAPACITY AND REGULATION",
+            "heading": "REAL ESTATE: MARKET STABILITY",
             "points": [
-                "Shippers are encountering significantly tighter truckload capacity as new federal driver regulations reduce the total available pool of qualified commercial operators. Freight rates are holding near record highs, placing sustained pressure on transportation budgets for large enterprise retailers and manufacturers. The market is struggling to balance high demand with the structural limitations of the current driver workforce.",
-                "Ongoing enforcement blitzes have sidelined hundreds of drivers, further exacerbating the supply-demand imbalance and forcing carriers to pass costs to shippers. The integration of data-driven safety monitoring systems is now mandatory for survival in an environment of increasing federal audit activity. Carriers that lack modern, compliant fleets are rapidly losing market share to tech-enabled competitors.",
-                "Small to mid-sized trucking firms are finding it increasingly difficult to navigate the complex web of new emissions standards and maintenance costs. The rise of alternative fuel adoption adds a layer of operational complexity, as companies scramble to upgrade fleets before looming deadlines. Industry volatility is becoming the baseline expectation for both for-hire and private carrier networks.",
-                "Looking forward, the shortage of skilled diesel technicians will likely emerge as the next major bottleneck for fleet maintenance and availability. Stakeholders should prepare for continued upward pressure on spot market rates as the industry absorbs these rising regulatory and compliance costs. Resilient supply chains must now incorporate higher buffer zones into their transport planning."
+                "Colliers reports that the industrial real estate vacancy rate fell seven basis points to 7.3 percent during the second quarter of 2026. This data confirms that market demand is successfully outpacing new supply additions.",
+                "The logistics real estate sector shows signs of stabilizing as developers shift away from speculative builds toward more targeted fulfillment infrastructure. Rent growth is expected to moderate as market saturation reaches a strategic equilibrium.",
+                "Data center-linked cargo continues to drive massive demand for high-spec warehousing, masking weakness in the broader retail-centric consumer goods merchandise sector. Large-scale regional fulfillment hubs remain the primary target for institutional investor capital.",
+                "Supply chain resilience is being physically reinforced through increased investment in massive, multi-million-square-foot fulfillment centers near major urban population nodes. Facility flexibility has become the dominant driver for modern industrial tenant requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON B2B EXPANSION",
+            "nextUpTease": "AI PROCUREMENT RISKS",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AMAZON: B2B MARKETPLACE SHIFT",
+            "heading": "AI: VENDOR AGENT RISK",
             "points": [
-                "Amazon is aggressively expanding its B2B conference influence, pushing third-party sellers to broaden their catalogs to capture enterprise-grade business buyer demand. This strategic move aims to dominate the industrial supply procurement sector by leveraging Amazon's unmatched fulfillment and logistics infrastructure. Sellers are under pressure to optimize listings for professional purchasing requirements rather than simple consumer retail.",
-                "The integration of business-facing features into the standard seller portal is forcing smaller marketplace vendors to upgrade their operational back-ends for bulk orders. Amazon is increasingly leaning on these sellers to provide the velocity and scale required for high-volume corporate contracts and inventory agreements. This transition requires sellers to maintain perfect handling times to avoid penalties.",
-                "New handling-time rules are designed to force compliance across the seller network, ensuring that business buyers receive consistent service levels comparable to corporate vendors. Sellers who fail to adopt automated handling features risk losing visibility and their eligibility for the B2B marketplace storefront. Operational precision is now a survival factor for anyone selling into this lucrative enterprise vertical.",
-                "Competitors in the B2B e-commerce space must adapt to this accelerated pace, as Amazon's logistics network provides a distinct advantage in last-mile delivery speed. Future B2B retail will likely depend on real-time inventory visibility and automated fulfillment, which Amazon is currently scaling at lightning speed. Stakeholders should prepare for a complete transformation in how B2B procurement is handled globally."
+                "Supply chain executives are now addressing the critical risk of probabilistic behavior inherent in forward-deployed agentic AI systems. Unpredictable outputs from these models pose significant operational hazards to automated workflows.",
+                "The rise of AI-driven orchestration is shifting the industry away from simple digitization toward complex, agent-led automated decision-making frameworks. Companies must now implement rigorous governance protocols for third-party AI agents.",
+                "Vendor-provided AI risk management has become a high-priority function for internal IT and supply chain security departments worldwide. Failures in model logic could cascade into massive fulfillment errors or data integrity breaches.",
+                "Experts warn that measuring past carrier performance will not prevent future failures in an automated, AI-augmented environment. Future-proof supply chains require dynamic, real-time model auditing to maintain functional system stability."
             ],
             "imageUrl": "",
-            "nextUpTease": "RFID TECHNOLOGY ROLLOUT",
+            "nextUpTease": "USPS RETAIL FEES",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "UPS: RFID NETWORK INTEGRATION",
+            "heading": "USPS: NONCOMPLIANCE FEES",
             "points": [
-                "UPS has officially initiated a massive rollout of radio frequency identification technology across its entire U.S. small package sorting and delivery network. This infrastructure upgrade aims to eliminate manual scanning requirements, thereby increasing throughput and reducing package dwell time at key distribution hubs. The deployment marks a significant leap toward full-scale, automated shipment visibility from pickup to final delivery.",
-                "The deployment includes sensors embedded directly into delivery vehicles and facility hardware to ensure real-time tracking of every individual small parcel. This level of granularity provides unprecedented data for supply chain optimization, allowing logistics managers to identify bottlenecks with surgical precision. Operational efficiency is projected to climb as manual error rates drop to near-zero levels.",
-                "Shippers utilizing the UPS network will gain immediate access to enhanced tracking data, which can be integrated into their own inventory management systems. This transparency helps in mitigating the 'blind spot' in transit times that has plagued e-commerce fulfillment for years. The move is a clear signal that the industry is transitioning to a high-signal, fully digitized state.",
-                "Adoption of RFID sensing will become the industry standard for all major parcel carriers as they compete for high-volume enterprise retail contracts. Logistics providers who do not mirror this technical capability will struggle to maintain service level agreements for top-tier global shipping customers. Expect this technology to redefine expectations for delivery speed and parcel accountability in 2026 and beyond."
+                "New USPS fees for hazardous materials and rural delivery have blindsided many e-commerce sellers in recent days. Compliance with these updated pricing structures is now essential for maintaining margin integrity on lightweight packages.",
+                "Sellers are encountering additional costs related to package processing as carrier noncompliance fees take full effect across the domestic network. Precise product categorization is now critical to avoid unexpected shipping bill surcharges.",
+                "Small parcel shippers are re-evaluating their carrier mix in response to these rising costs and aggressive delivery fee structures. The USPS is effectively pushing sellers toward more automated and standardized label reporting processes.",
+                "Marketplace sellers must update their automated shipping platforms immediately to account for these specific, localized delivery cost variations. Failure to optimize shipping logic will result in consistent profitability erosion for e-commerce operators."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
