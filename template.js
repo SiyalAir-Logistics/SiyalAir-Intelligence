@@ -1,22 +1,22 @@
-/* GENERATED UTC: 2026-07-25 19:19:58 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF",
-        "titleBlue": "SHIFT",
-        "footerSummary": "New U.S. tariff regime on 60 economies triggers widespread import uncertainty, compounding with peak season capacity constraints and escalating trans-Pacific logistics friction."
+        "titleWhite": "GLOBAL TRADE FRICTION",
+        "titleBlue": "SURGE",
+        "footerSummary": "Escalating regional conflicts, tariff-driven trade barriers, and infrastructure constraints are forcing a fundamental, high-cost restructuring of international logistics and supply chain management."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: NEW SECTION 301 TARIFF REGIME",
+            "heading": "ENERGY WARFARE: HORMUZ BYPASS",
             "points": [
-                "Implementation of 10% and 12.5% duties on 60 nations as Section 122 expires.",
-                "Immediate surge in landed-cost complexity for importers navigating new levies.",
-                "Shift focus toward long-term duty mitigation and supply chain diversification."
+                "DP World is launching two new container terminals in Fujairah to bypass the Strait of Hormuz.",
+                "Rising hostilities between the U.S. and Iran have triggered regional maritime transit and oil price volatility.",
+                "Brent crude prices climbed 3.3% as regional geopolitical tensions significantly increase ocean cargo risk premiums.",
+                "Shippers must now recalibrate transit timelines to account for the closure of traditional Gulf shipping lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON VERDICT",
+            "nextUpTease": "TRADE TARIFF ESCALATION",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -25,30 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "FREIGHTWAVES: NUCLEAR VERDICT IMPACT",
+            "heading": "TRADE POLICY: TARIFF AGGRESSION",
             "points": [
-                "C.H. Robinson hit with $604M judgment in negligent carrier selection litigation.",
-                "Heightened broker liability standards forcing rigorous vetting of carrier safety.",
-                "Anticipate consolidation of small carriers as insurance risk premiums inflate."
+                "The U.S. has implemented aggressive 50% tariffs on Canadian goods, complicating cross-border logistics and trade.",
+                "Congressional hearings indicate a formal shift toward protectionist policies aimed at reducing the national trade deficit.",
+                "Retaliatory measures have caused the collapse of joint infrastructure projects like the Gordie Howe Bridge celebration.",
+                "Supply chain planners are now modeling scenarios for sustained high-cost friction on North American trade routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL SURCHARGES",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "SUPPLY CHAIN DIVE: PANAMA CANAL FEES",
-            "points": [
-                "MSC and CMA CGM introduce fresh surcharges citing canal draft restrictions.",
-                "Increased operational overhead for east-west tradelane transit costs.",
-                "Shippers likely to pivot toward intermodal alternatives to offset canal tolls."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR CARGO RATE COOLING",
+            "nextUpTease": "CHINA SOURCING RESTRICTIONS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -56,31 +41,50 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "THE LOADSTAR: AIR CARGO BALANCING",
+            "id": 3,
+            "heading": "CHINA TECH: CARGO RESTRICTION",
             "points": [
-                "Spot rates cooling while fuel cost pressures climb, tightening carrier margins.",
-                "Contract sustainability faces severe headwinds in a volatile rate landscape.",
-                "Prioritize agile charter strategies to maintain flow during peak fluctuations."
+                "Senate panels move to ban Chinese-linked automotive technology due to data security and national safety concerns.",
+                "Proposed legislation targets the integration of Chinese software in U.S. vehicle braking and steering systems.",
+                "Major automakers are actively lobbying to mitigate the impact of these stringent new compliance requirements.",
+                "Logistics providers face operational uncertainty as supply chain decoupling efforts move from rhetoric to law."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS RURAL RATE HIKE",
+            "nextUpTease": "MARITIME REGULATORY SHIFTS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.freightwaves.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "FMC: DETENTION FEE ENFORCEMENT",
+            "points": [
+                "The U.S. Court of Appeals upheld Federal Maritime Commission rules enforcing stricter ocean container billing practices.",
+                "Detention and demurrage fees must now directly promote freight fluidity to remain legally compliant under OSRA.",
+                "The ruling empowers the FMC to aggressively audit and penalize non-compliant common carriers and terminal operators.",
+                "Importers gain increased leverage to contest improper charges that were previously considered standard operating costs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ECOMMERCE MARKETPLACE COMPLIANCE",
+            "tags": [
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ECOMMERCEBYTES: USPS RURAL PRICING",
+            "heading": "MARKETPLACE: SELLER SCRUTINY",
             "points": [
-                "USPS implementing $2-$3 cost increase for lightweight rural package transit.",
-                "Margin compression for e-commerce sellers reliant on low-cost shipping tiers.",
-                "Re-evaluate last-mile carrier mix to mitigate rural delivery surcharges."
+                "U.S. Senate investigations are probing potential manipulation of cross-border ecommerce by Chinese logistics operators.",
+                "Amazon is aggressively expanding B2B features to capture market share from traditional wholesale supply channels.",
+                "eBay faces backlash over public disclosure of private second-chance offers, complicating seller-side marketplace trust dynamics.",
+                "Retailers must adapt to tightening platform policies that prioritize data transparency and automated compliance enforcement."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRIAL REAL ESTATE",
+            "nextUpTease": "INDUSTRIAL REAL ESTATE TRENDS",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -89,14 +93,15 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "LOGISTICS MGMT: INDUSTRIAL VACANCY",
+            "heading": "LOGISTICS: REAL ESTATE REBOUND",
             "points": [
-                "Industrial real estate vacancy stabilizes at 7.3% as supply-demand gap closes.",
-                "Stabilization signals an end to the period of explosive warehouse capacity.",
-                "Secure long-term lease renewals before market pricing potentially rebounds."
+                "Industrial real estate markets are stabilizing as demand for warehousing outpaces new facility construction pipelines.",
+                "National vacancy rates have compressed to 7.3%, signaling a shift toward tightened warehouse capacity for shippers.",
+                "Automation and AI-driven inventory management are becoming essential tools for maintaining operational margins amid labor shortages.",
+                "Companies are investing heavily in nearshoring infrastructure to hedge against ongoing global trade instability."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKLOAD RATE SURGE",
+            "nextUpTease": "WORKFORCE & AI INTEGRATION",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -105,25 +110,20 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "JOC: TRUCKLOAD RATE FORECAST",
+            "heading": "AUTOMATION: WORKFORCE SHIFTS",
             "points": [
-                "Inbound import volumes projected to drive spot truckload rates higher in August.",
-                "Capacity tightening threatens reliability for existing 2027 contract bids.",
-                "Optimize freight audit schedules to prepare for mid-quarter price volatility."
+                "Trucking industry capacity is tightening as regulatory crackdowns on unlicensed drivers intensify across U.S. corridors.",
+                "Trump\u2019s proposal for automatic CDL eligibility for veterans aims to address the critical domestic freight driver shortfall.",
+                "AI-driven fleet safety and predictive maintenance systems are now standard requirements for Tier 1 logistics carriers.",
+                "The industry faces a permanent transition toward higher-skill labor profiles coupled with deep-tech operational orchestration."
             ],
             "imageUrl": "",
-            "nextUpTease": "DAILY: QUOTE UNQUOTE",
+            "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         }
-    ],
-    "quote": {
-        "heading": "DAILY: QUOTE UNQUOTE",
-        "quoteText": "Effective leaders target the biggest bottlenecks rather than perfecting every link.",
-        "author": "Davey Miller, Chief Operating Officer, CMC",
-        "context": "Domain: Inbound Logistics"
-    }
+    ]
 };
