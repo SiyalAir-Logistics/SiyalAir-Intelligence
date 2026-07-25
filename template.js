@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "The transition to Section 301 tariffs and landmark carrier liability rulings fundamentally restructure compliance and financial risk parameters for global logistics operators."
+        "titleWhite": "DECODING GLOBAL",
+        "titleBlue": "LOGISTICS",
+        "footerSummary": "New Section 301 tariffs and escalating broker liability verdicts are forcing global supply chains to restructure compliance frameworks immediately."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US TRADE REPRESENTATIVE: SECTION 301 TARIFFS",
+            "heading": "USTR: SECTION 301 REPOSITION",
             "points": [
-                "US replaces Section 122 surcharges with Section 301 tariffs on sixty nations to enforce forced labor standards.",
-                "Importers face immediate regulatory changes as newly enacted ten percent and twelve percent duties restructure global cargo costs.",
-                "Supply chain engineers must quickly pivot routing frameworks to minimize heavy duty liabilities across diverse sourcing pipelines.",
-                "Customs brokers predict extensive classification audits will delay clearance operations during the initial regulatory adaptation period."
+                "The United States officially replaces its temporary Section 122 import surcharges with new Section 301 tariff structures.",
+                "New tariffs of ten to twelve percent target imports from sixty trading partners based on forced labor commitments.",
+                "Customs specialists warn that the rapid transition creates immediate compliance challenges for global multi-channel retail product importers.",
+                "Importers must rapidly reclassify customs entries to avoid significant clearance delays at major maritime ports of entry."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON: NEGLIGENT SELECTION",
+            "nextUpTease": "C.H. ROBINSON: LIABILITY VERDICT",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -25,49 +25,49 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "C.H. ROBINSON: NEGLIGENT SELECTION",
+            "heading": "C.H. ROBINSON: LIABILITY VERDICT",
             "points": [
-                "Federal court delivers a stunning six hundred four million dollar verdict against major freight broker over carrier selection.",
-                "The landmark liability ruling forces immediate adjustments in digital carrier vetting and risk mitigation compliance processes.",
-                "Third-party logistics providers face escalating insurance premiums alongside intensified scrutiny regarding independent operator dispatch protocols.",
-                "Automation engineers are rapidly deploying rigorous artificial intelligence systems to audit and verify carrier safety compliance metrics."
+                "A jury orders logistics giant C.H. Robinson to pay six hundred and four million dollars in damages.",
+                "The landmark verdict finds the broker liable for negligent carrier selection during a fatal twenty twenty-one crash.",
+                "The company plans to appeal the decision amid growing industry concerns over carrier vetting liability standards.",
+                "Freight brokers must immediately tighten their carrier selection frameworks to mitigate escalating systemic litigation risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: TRANSIT RESTRICTIONS",
+            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE",
             "points": [
-                "Historic El Ni\u00f1o conditions compel the canal authority to reintroduce draft restrictions and transit bottlenecks for ocean carriers.",
-                "Major global maritime shipping alliances announce immediate dry-season surcharges to offset rising container rerouting operational costs.",
-                "Freight forwarders anticipate significant capacity crunches as ocean vessels bypass the canal for longer intercontinental routing lanes.",
-                "Supply chain planners must shift critical eastern seaboard allocations toward west coast intermodal railway distribution corridors."
+                "The Department of Justice Trade Fraud Task Force surpasses one billion dollars in total financial recoveries.",
+                "These penal collections reflect aggressive enforcement actions targeting import compliance violations and customs duty evasion.",
+                "The task force achieved this massive milestone in less than one year since its initial deployment.",
+                "Global manufacturers and third-party logistics firms must implement robust internal compliance audits to avoid severe penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDERAL MARITIME COMMISSION: FLUIDITY MANDATE",
+            "nextUpTease": "FMC: DETENTION FEES RULE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FEDERAL MARITIME COMMISSION: FLUIDITY MANDATE",
+            "heading": "FMC: DETENTION FEES RULE",
             "points": [
-                "US Appeals Court upholds commission ruling that detention fees must exclusively function to promote maritime freight fluidity.",
-                "The landmark legal victory restricts ocean carriers from charging unfair demurrage during extensive terminal congestion events.",
-                "Importers receive much-needed regulatory relief, paving the way for systematic audits of legacy billing dispute files.",
-                "Compliance teams are rebuilding automated billing platforms to cross-reference terminal availability timestamps with carrier invoice records."
+                "The United States Court of Appeals upholds a critical Federal Maritime Commission ruling on container detention billing.",
+                "The court reaffirms that carrier detention and demurrage fees must actively incentivize and promote maritime freight fluidity.",
+                "This ruling provides shippers with stronger legal protections against unreasonable storage penalties during severe port congestion.",
+                "Ocean carriers must align their billing practices with strict regulatory standards to prevent costly legal disputes."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC SEMICONDUCTOR: US EXPANSION",
+            "nextUpTease": "USPS: RURAL SHIPPING SURCHARGES",
             "tags": [
                 "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
@@ -76,46 +76,46 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "TSMC SEMICONDUCTOR: US EXPANSION",
+            "heading": "USPS: RURAL SHIPPING SURCHARGES",
             "points": [
-                "Global microchip manufacturer commits an additional hundred billion dollars to construct four advanced semiconductor facilities within the US.",
-                "Massive capital injection will expand the domestic tech manufacturing ecosystem to twelve total fabrication plants by late decade.",
-                "Industrial logistics developers must design custom heavy-haul transport corridors to support highly specialized cleanroom equipment arrivals.",
-                "Chip buyers anticipate highly resilient localized component pipelines that structurally bypass geopolitical choke points in East Asia."
+                "The United States Postal Service introduces new two to three dollar surcharges for lightweight remote shipments.",
+                "These added delivery fees target lightweight packages sent to designated rural regions across the domestic network.",
+                "Online sellers utilizing e-commerce marketplaces will face immediate shipping margin compression on low-cost consumer goods.",
+                "Merchants must optimize their regional fulfillment networks to minimize reliance on high-cost final mile rural shipping."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS",
+            "nextUpTease": "FEDERAL COURT: TARIFF LITIGATION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "KUEHNE+NAGEL: APEX LOGISTICS",
+            "heading": "FEDERAL COURT: TARIFF LITIGATION",
             "points": [
-                "Forwarding giant evaluates strategic options to divest a significant minority stake in its highly profitable Asian airfreight subsidiary.",
-                "Potential transaction aims to unlock capital and optimize operational assets ahead of long-term global forwarding consolidation trends.",
-                "Analysts suggest the move highlights shifting valuations within transpacific trade lanes as e-commerce volumes remain structurally volatile.",
-                "Corporate stakeholders anticipate structured investment programs focusing heavily on digital orchestration platforms and artificial intelligence integration."
+                "Domestic business owners file lawsuits challenging the immediate implementation of new federal import tariffs.",
+                "The legal challenges target newly enacted import duties imposed on goods coming from Canada and Mexico.",
+                "Trade experts speculate whether these high-stakes lawsuits can successfully block the administration's aggressive trade policies.",
+                "Importers must develop flexible supply chain strategies to manage continued price volatility during prolonged legal battles."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX EXPRESS: PEAK SURCHARGES",
+            "nextUpTease": "FEDEX: PEAK DEMAND SURCHARGES",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FEDEX EXPRESS: PEAK SURCHARGES",
+            "heading": "FEDEX: PEAK DEMAND SURCHARGES",
             "points": [
-                "Parcel carrier unveils aggressive demand surcharges for the twenty twenty-six peak shipping season to manage package volumes.",
-                "Elevated home delivery fees target e-commerce retailers, driving average fulfillment costs higher during the winter holiday rush.",
-                "Multi-channel merchants must re-engineer pricing algorithms to absorb rising parcel freight expenditures without losing consumer sales momentum.",
-                "Logistics engineers expect intensified regional warehouse distribution strategies as brands bypass long-haul shipping lanes to cut costs."
+                "FedEx unveils its comprehensive peak season shipping surcharge schedule to manage elevated holiday parcel volumes.",
+                "Shippers will experience significantly higher home delivery prices as the logistics provider implements network-wide demand fees.",
+                "These aggressive pricing maneuvers are designed to offset rising operational costs and support network investments.",
+                "High-volume e-commerce retailers must adjust their shipping budgets to accommodate the impending peak season cost increases."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
