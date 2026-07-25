@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL SUPPLY",
-        "titleBlue": "DISRUPTION",
-        "footerSummary": "The transition to Section 301 tariffs and a massive six hundred million dollar freight broker liability verdict reshape global logistics regulatory frameworks."
+        "titleWhite": "GLOBAL FREIGHT",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "The transition to Section 301 tariffs and landmark carrier liability rulings fundamentally restructure compliance and financial risk parameters for global logistics operators."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "C.H. ROBINSON: NEGLIGENT CARRIER APPEAL",
+            "heading": "US TRADE REPRESENTATIVE: SECTION 301 TARIFFS",
             "points": [
-                "C.H. Robinson appeals a six hundred four million dollar verdict over negligent carrier selection liabilities.",
-                "The landmark ruling elevates regulatory vetting standards and operational risks for third-party logistics broker networks.",
-                "Shippers demand automated compliance tools to verify driver credentials and carrier safety records in real-time.",
-                "Legal analysts predict this case will fundamentally restructure independent carrier selection protocols across North America."
+                "US replaces Section 122 surcharges with Section 301 tariffs on sixty nations to enforce forced labor standards.",
+                "Importers face immediate regulatory changes as newly enacted ten percent and twelve percent duties restructure global cargo costs.",
+                "Supply chain engineers must quickly pivot routing frameworks to minimize heavy duty liabilities across diverse sourcing pipelines.",
+                "Customs brokers predict extensive classification audits will delay clearance operations during the initial regulatory adaptation period."
             ],
             "imageUrl": "",
-            "nextUpTease": "US TRADE REGIME: SECTION 301 TRANSITION",
+            "nextUpTease": "C.H. ROBINSON: NEGLIGENT SELECTION",
             "tags": [
-                "Source: freightwaves.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "US TRADE REGIME: SECTION 301 TRANSITION",
+            "heading": "C.H. ROBINSON: NEGLIGENT SELECTION",
             "points": [
-                "The United States transitions import policies by replacing Section 122 surcharges with Section 301 tariffs.",
-                "New regulations impose ten percent to twelve point five percent duties across sixty trading nations.",
-                "Importers face complex customs compliance hurdles requiring revised digital classification tools for incoming international shipments.",
-                "Supply chain managers must audit global supplier networks to mitigate sudden cost increases from forced-labor enforcement."
+                "Federal court delivers a stunning six hundred four million dollar verdict against major freight broker over carrier selection.",
+                "The landmark liability ruling forces immediate adjustments in digital carrier vetting and risk mitigation compliance processes.",
+                "Third-party logistics providers face escalating insurance premiums alongside intensified scrutiny regarding independent operator dispatch protocols.",
+                "Automation engineers are rapidly deploying rigorous artificial intelligence systems to audit and verify carrier safety compliance metrics."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: DETENTION FEES FLUIDITY RULING",
+            "nextUpTease": "PANAMA CANAL: TRANSIT RESTRICTIONS",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FMC: DETENTION FEES FLUIDITY RULING",
+            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS",
             "points": [
-                "The United States Court of Appeals upholds the Federal Maritime Commission ruling on container detention billing.",
-                "Under the validated regulations, ocean carriers can only assess demurrage charges that encourage freight fluidity.",
-                "Shippers gain increased protection against unfair billing practices from vessel operating common carriers during congestion.",
-                "Maritime lawyers expect this legal milestone to streamline port operations and reduce administrative invoicing disputes."
+                "Historic El Ni\u00f1o conditions compel the canal authority to reintroduce draft restrictions and transit bottlenecks for ocean carriers.",
+                "Major global maritime shipping alliances announce immediate dry-season surcharges to offset rising container rerouting operational costs.",
+                "Freight forwarders anticipate significant capacity crunches as ocean vessels bypass the canal for longer intercontinental routing lanes.",
+                "Supply chain planners must shift critical eastern seaboard allocations toward west coast intermodal railway distribution corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: RURAL SHIPPING RATE SURCHARGES",
+            "nextUpTease": "FEDERAL MARITIME COMMISSION: FLUIDITY MANDATE",
             "tags": [
-                "Source: fmc.gov",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "USPS: RURAL SHIPPING RATE SURCHARGES",
+            "heading": "FEDERAL MARITIME COMMISSION: FLUIDITY MANDATE",
             "points": [
-                "The United States Postal Service increases lightweight shipping rates to rural areas by two to three dollars.",
-                "Multi-channel e-commerce merchants must adjust regional shipping strategies to protect profit margins on small packages.",
-                "Regional parcel carriers and alternative distribution networks stand to capture volume diverted from traditional postal services.",
-                "Financial projections indicate rising delivery fees will suppress remote consumer spending on major marketplace channels."
+                "US Appeals Court upholds commission ruling that detention fees must exclusively function to promote maritime freight fluidity.",
+                "The landmark legal victory restricts ocean carriers from charging unfair demurrage during extensive terminal congestion events.",
+                "Importers receive much-needed regulatory relief, paving the way for systematic audits of legacy billing dispute files.",
+                "Compliance teams are rebuilding automated billing platforms to cross-reference terminal availability timestamps with carrier invoice records."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC: HUNDRED BILLION CHIP EXPANSION",
+            "nextUpTease": "TSMC SEMICONDUCTOR: US EXPANSION",
             "tags": [
-                "Source: ecommercebytes.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TSMC: HUNDRED BILLION CHIP EXPANSION",
+            "heading": "TSMC SEMICONDUCTOR: US EXPANSION",
             "points": [
-                "Taiwan Semiconductor Manufacturing Company invests one hundred billion dollars to construct four additional domestic microchip facilities.",
-                "The expanded infrastructure project increases the total number of advanced American semiconductor facilities to twelve.",
-                "Federal funding and local onshoring initiatives aim to establish a secure domestic supply chain for hardware.",
-                "Global logistics planners expect restructured material flows as high-tech production clusters in North American corridors."
+                "Global microchip manufacturer commits an additional hundred billion dollars to construct four advanced semiconductor facilities within the US.",
+                "Massive capital injection will expand the domestic tech manufacturing ecosystem to twelve total fabrication plants by late decade.",
+                "Industrial logistics developers must design custom heavy-haul transport corridors to support highly specialized cleanroom equipment arrivals.",
+                "Chip buyers anticipate highly resilient localized component pipelines that structurally bypass geopolitical choke points in East Asia."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE NAGEL: APEX LOGISTICS IPO STRATEGY",
+            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "KUEHNE NAGEL: APEX LOGISTICS IPO STRATEGY",
+            "heading": "KUEHNE+NAGEL: APEX LOGISTICS",
             "points": [
-                "Kuehne and Nagel evaluates strategic options including selling a minority stake in its Apex Logistics unit.",
-                "The global forwarding giant explores an initial public offering or partial divestment to optimize capital structure.",
-                "Strategic reallocation of assets highlights the widening division between specialized logistics integration and pure forwarding scale.",
-                "Industry consolidation trends will accelerate as competitors seek to acquire high-capacity transpacific air freight networks."
+                "Forwarding giant evaluates strategic options to divest a significant minority stake in its highly profitable Asian airfreight subsidiary.",
+                "Potential transaction aims to unlock capital and optimize operational assets ahead of long-term global forwarding consolidation trends.",
+                "Analysts suggest the move highlights shifting valuations within transpacific trade lanes as e-commerce volumes remain structurally volatile.",
+                "Corporate stakeholders anticipate structured investment programs focusing heavily on digital orchestration platforms and artificial intelligence integration."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERNATIONAL TRUCKS: EPA ENGINE PHASE IN",
+            "nextUpTease": "FEDEX EXPRESS: PEAK SURCHARGES",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INTERNATIONAL TRUCKS: EPA ENGINE PHASE IN",
+            "heading": "FEDEX EXPRESS: PEAK SURCHARGES",
             "points": [
-                "International plans to stagger the introduction of heavy-duty truck engines compliant with twenty twenty-seven regulations.",
-                "Fleet operators must coordinate procurement strategies to manage transition costs associated with low emission technologies.",
-                "Staged manufacturing rollouts minimize production bottlenecks and allow carriers time to test modern heavy powertrain configurations.",
-                "Equipment manufacturers balance environmental compliance mandates against carrier demand for reliable long-haul freight trucking power."
+                "Parcel carrier unveils aggressive demand surcharges for the twenty twenty-six peak shipping season to manage package volumes.",
+                "Elevated home delivery fees target e-commerce retailers, driving average fulfillment costs higher during the winter holiday rush.",
+                "Multi-channel merchants must re-engineer pricing algorithms to absorb rising parcel freight expenditures without losing consumer sales momentum.",
+                "Logistics engineers expect intensified regional warehouse distribution strategies as brands bypass long-haul shipping lanes to cut costs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
