@@ -1,38 +1,38 @@
-/* GENERATED UTC: 2026-07-25 17:34:38 */
+/* GENERATED UTC: 2026-07-25 17:48:53 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleWhite": "GLOBAL TRADE COMPLIANCE",
         "titleBlue": "SHIFT",
-        "footerSummary": "The USTR has transitioned to a Section 301 tariff regime across 60 economies as Section 122 expires, fundamentally altering cost structures for US imports."
+        "footerSummary": "New USTR Section 301 tariffs on 60 nations create immediate import friction, while trucking capacity tightens as rates hit record levels across US lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: TRADE TARIFF OVERHAUL",
+            "heading": "SUPPLY CHAIN DIVE: TARIFF ENFORCEMENT EXPANSION",
             "points": [
-                "US replaces temporary Section 122 surcharges with permanent Section 301 tariffs.",
-                "New 10% to 12.5% duties apply to goods originating from 60 global trading partners.",
-                "Importers must recalibrate landed cost models to account for immediate fiscal impact."
+                "USTR initiates new 10% and 12.5% duties on 60 nations effective immediately.",
+                "Importers face sudden cost hikes as Section 122 levies expire Friday.",
+                "Diversification strategies must pivot to account for broader trade barrier scope."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON VERDICT",
+            "nextUpTease": "TRUCKING CAPACITY CRISIS",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FREIGHTWAVES: LEGAL LIABILITY SPIKE",
+            "heading": "FREIGHTWAVES: TRUCKING CAPACITY TIGHTENING",
             "points": [
-                "C.H. Robinson faces a $604 million verdict in a negligent carrier selection case.",
-                "The ruling sets a precedent for massive damages in broker-shipper liability claims.",
-                "Legal departments must overhaul carrier vetting protocols to mitigate litigation risk."
+                "Shippers encounter severe capacity constraints as trucking rates hold near record highs.",
+                "New driver regulations and safety enforcement reduce total fleet availability.",
+                "Operational budgets must adjust for persistent upward pressure on spot market rates."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL SURCHARGES",
+            "nextUpTease": "LEGAL RISK AMPLIFICATION",
             "tags": [
                 "Source: freightwaves.com",
                 "Published: Last 48 Hours",
@@ -41,75 +41,75 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MSC/CMA CGM: CANAL CONGESTION",
+            "heading": "TRANSPORT TOPICS: NUCLEAR VERDICT IMPACT",
             "points": [
-                "Major carriers implement new surcharges to manage Panama Canal transit constraints.",
-                "El Ni\u00f1o-driven drought conditions force renewed vessel draft limits and delays.",
-                "Shifting volume to alternative trade routes may be required to bypass canal blockages."
+                "C.H. Robinson faces a $604 million jury verdict regarding negligent carrier selection.",
+                "Broker liability standards are escalating, requiring more rigorous vetting protocols.",
+                "Legal scrutiny necessitates automated compliance tools to replace manual oversight."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX PEAK FEE UPDATE",
+            "nextUpTease": "MARITIME FEE REGULATION",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FEDEX: PEAK SEASON PRICING",
+            "heading": "FMC: FREIGHT FLUIDITY ENFORCEMENT",
             "points": [
-                "Carrier unveils 2026 peak season surcharges and elevated home delivery pricing.",
-                "Operating costs rise as network restructuring and facility closures continue nationwide.",
-                "Shippers must adjust holiday fulfillment budgets to offset carrier rate hikes."
+                "Appeals court upholds mandates that detention fees must drive freight fluidity.",
+                "Carriers face heightened scrutiny over demurrage billing practices and compliance.",
+                "Transparency in billing is now a critical prerequisite for all ocean shipments."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS RURAL COST INCREASE",
+            "nextUpTease": "RETAIL FULFILLMENT PRESSURE",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "USPS: LAST-MILE COST HIKE",
+            "heading": "RETAIL DIVE: PEAK SEASON LOGISTICS",
             "points": [
-                "New USPS pricing adds $2-$3 to lightweight parcel shipping for rural destinations.",
-                "Marketplace sellers face margin compression on low-value items sent to remote zones.",
-                "Optimize logistics zoning to minimize exposure to increased rural delivery surcharges."
+                "Retailers report soaring fuel costs and logistics overhead compressing margins.",
+                "Amazon competition and Instacart partnerships are redefining last-mile expectations.",
+                "Supply chain resilience is now the primary barrier to maintaining holiday volume."
             ],
             "imageUrl": "",
-            "nextUpTease": "DATA CENTER CARGO SURGE",
+            "nextUpTease": "TECH BUDGET FRICTION",
             "tags": [
-                "Source: ecommercebytes.com",
+                "Source: retaildive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "JOC: DATA CENTER LOGISTICS",
+            "heading": "CNBC: AI SPENDING CREDIT RISK",
             "points": [
-                "Infrastructure hardware imports are sustaining trans-Pacific volumes mid-season.",
-                "Growth in data center buildouts is offsetting broader weakness in retail demand.",
-                "Monitor high-tech equipment flows for reliable capacity availability on major lanes."
+                "Moody\u2019s warns that heavy AI infrastructure capex threatens corporate credit quality.",
+                "Capital allocation is shifting toward tech at the expense of traditional assets.",
+                "Financial planners must monitor balance sheet volatility in major logistics firms."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ TRADE FRAUD TASKFORCE",
+            "nextUpTease": "TRADE FRAUD RECOVERIES",
             "tags": [
-                "Source: joc.com",
+                "Source: cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
+            "heading": "INBOUND LOGISTICS: TRADE FRAUD TASK FORCE",
             "points": [
-                "Justice Department task force surpasses $1 billion in total penalty recoveries.",
-                "Regulatory scrutiny on import documentation and customs compliance is intensifying.",
-                "Conduct deep-tier supply chain audits to prevent exposure to federal trade litigation."
+                "DOJ Trade Fraud Task Force surpasses $1 billion in total recovered penalties.",
+                "Strict enforcement of customs entry data is now a standard operational risk.",
+                "Importers must audit cross-border documentation to avoid severe forfeiture risks."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "Constraint awareness. Constant market shifts demand prioritization and creative workarounds.",
-        "author": "Davey Miller, Chief Operating Officer at CMC",
-        "context": "Domain: Inbound Logistics"
+        "quoteText": "Effective leaders target the biggest bottlenecks rather than perfecting every link.",
+        "author": "Davey Miller, Chief Operating Officer, CMC",
+        "context": "Domain: Operational Leadership"
     }
 };
