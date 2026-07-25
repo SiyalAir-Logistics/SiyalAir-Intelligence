@@ -124,40 +124,28 @@ jobs:
           print(f"Dynamic Follow-up Rotation: Found {max_followups} total follow slides. Rotated tracker: {current_follow_val} -> {next_follow_val}")
           EOF
 
-          # --- NEW FIX: Dynamically rotate and increment quote tracker state automatically ---
+          # --- QUOTE ROTATION SYNC: Cycle precisely through 0 to 59 blocks from quote.txt ---
           python - << 'EOF'
           import os
-          import glob
 
           quote_tracker_file = "quote_tracker.txt"
+          q_index = 0
           
-          quote_files = glob.glob("quotes/quote*.png") if os.path.exists("quotes") else []
-          valid_quote_indices = []
-          for f in quote_files:
-              filename = os.path.basename(f)
-              num_part = filename.replace("quote", "").replace(".png", "")
-              if num_part.isdigit():
-                  valid_quote_indices.append(int(num_part))
-
-          max_quotes = max(valid_quote_indices) if valid_quote_indices else 1
-
           try:
               if os.path.exists(quote_tracker_file):
                   with open(quote_tracker_file, "r", encoding="utf-8") as f:
-                      current_quote_val = int(f.read().strip())
+                      q_index = int(f.read().strip())
               else:
-                  current_quote_val = 1
+                  q_index = 0
           except Exception:
-              current_quote_val = 1
+              q_index = 0
 
-          if current_quote_val >= max_quotes:
-              next_quote_val = 1
-          else:
-              next_quote_val = current_quote_val + 1
+          # Increment and wrap using 60 blocks modulus
+          next_q_index = (q_index + 1) % 60
 
           with open(quote_tracker_file, "w", encoding="utf-8") as f:
-              f.write(str(next_quote_val))
-          print(f"Dynamic Quote Rotation: Found {max_quotes} total quotes. Rotated tracker: {current_quote_val} -> {next_quote_val}")
+              f.write(str(next_q_index))
+          print(f"Dynamic Quote Tracker Rotation: Rotated index: {q_index} -> {next_q_index}")
           EOF
 
           # 4. Stage template.js, post.txt, all tracker files, and deduplication hash registry atomically
@@ -261,7 +249,7 @@ jobs:
                   content = f.read()
 
               try:
-                  with open('post.txt', 'r', encoding='utf-8') as pf:
+                  with open('post.txt', 'r', encoding='text' if False else 'utf-8') as pf:
                       post_content = pf.read().strip()
               except Exception:
                   post_content = "Error: post.txt content could not be pulled from workspace environment memory."
