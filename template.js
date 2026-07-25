@@ -1,119 +1,119 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRADE COMPLIANCE FORCE",
-        "titleBlue": "DECOUPLING",
-        "footerSummary": "New Section 301 tariffs on 60 nations and a $604M negligent broker verdict rewrite global trade risk compliance rules."
+        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleBlue": "INSTABILITY",
+        "footerSummary": "New U.S. Section 301 tariffs on 60 economies trigger immediate legal and operational friction, compounding supply chain volatility across air and maritime lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: NEW SECTION 301 TARIFF TIMELINE",
+            "heading": "SUPPLY CHAIN DIVE: USTR TARIFF EXPANSION",
             "points": [
-                "USTR implements Section 301 tariffs on 60 nations targeting forced labor.",
-                "Importers face sudden 10% to 12.5% duties as Section 122 surcharges expire.",
-                "Compliance desks must audit regional origin maps to mitigate penalty exposure."
+                "USTR enacts 10% to 12.5% tariffs on 60 trading partners as Section 122 expires.",
+                "Importers face immediate landed-cost surges and complex cross-border documentation.",
+                "Strategic sourcing shifts toward non-affected regions to bypass new levy structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "COURT: CH ROBINSON NUCLEAR VERDICT",
+            "nextUpTease": "C.H. ROBINSON VERDICT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "COURT: CH ROBINSON NUCLEAR VERDICT",
+            "heading": "FREIGHTWAVES: C.H. ROBINSON LIABILITY",
             "points": [
-                "Jury delivers a massive $604 million verdict over negligent carrier selection.",
-                "Broker liability risks surge, forcing immediate overhauls in carrier vetting.",
-                "Shippers must enforce stricter compliance audits to insulate corporate liability."
+                "Jury awards $604 million in negligence verdict regarding carrier selection.",
+                "Brokerage models face heightened scrutiny over carrier vetting and safety compliance.",
+                "Industry standard insurance and compliance protocols will require immediate revision."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC: $100B US CHIP FOUNDRY EXPANSION",
+            "nextUpTease": "US CUSTOMS ENFORCEMENT",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TSMC: $100B US CHIP FOUNDRY EXPANSION",
+            "heading": "INBOUND LOGISTICS: TRADE FRAUD CRACKDOWN",
             "points": [
-                "TSMC commits an additional $100 billion to build four advanced chip factories.",
-                "Domestic high-tech logistics demand spikes as 12 total US facilities ramp up.",
-                "Tech supply chains must recalibrate regional raw material and component lanes."
+                "DOJ Trade Fraud Task Force hits $1 billion in total penalty and loss recoveries.",
+                "Aggressive enforcement of customs compliance creates operational bottlenecks.",
+                "Logistics firms must tighten documentation to avoid high-penalty audit exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "CBP: 50 PERCENT CANADA IMPORT TARIFFS",
+            "nextUpTease": "US IMPORT VOLUME SHIFTS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CBP: 50 PERCENT CANADA IMPORT TARIFFS",
+            "heading": "DC VELOCITY: IMPORT VOLUME SURGE",
             "points": [
-                "US imposes sudden 50% tariffs on key Canadian goods under Section 338.",
-                "Duties apply even to items qualifying for USMCA duty-free trade status.",
-                "Shippers must instantly re-evaluate cross-border North American trade flows."
+                "Summer import volumes projected to reach highest levels since 2022.",
+                "Inland infrastructure struggles to manage rapid inflow of data center components.",
+                "Forward-deployed inventory strategies are essential to counter peak season delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACP: PANAMA CANAL TRANSIT RESTRICTIONS",
+            "nextUpTease": "PANAMA CANAL SURCHARGES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: dcvelocity.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ACP: PANAMA CANAL TRANSIT RESTRICTIONS",
+            "heading": "THE LOADSTAR: PANAMA CANAL CONGESTION",
             "points": [
-                "Panama Canal Authority schedules transit restrictions to mitigate El Nino risk.",
-                "Ocean carriers introduce fresh surcharges to offset reduced vessel draft limits.",
-                "Intermodal routings to the US East Coast must prepare for major space crunches."
+                "ACP reinstates transit restrictions; MSC and CMA CGM announce fresh surcharges.",
+                "Draft limitations force rerouting and longer dwell times for trans-Pacific lanes.",
+                "Carriers adjust schedules, impacting reliability for East Coast delivery windows."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: RURAL SHIPPING RATE SURCHARGES",
+            "nextUpTease": "FEDEX PEAK SEASON FEE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "USPS: RURAL SHIPPING RATE SURCHARGES",
+            "heading": "SUPPLY CHAIN DIVE: FEDEX SURCHARGES",
             "points": [
-                "USPS increases lightweight package rates to rural ZIP codes by up to $3.",
-                "E-commerce sellers face unexpected margins compression on low-value items.",
-                "Shippers must audit regional logistics profiles to offset rising parcel fees."
+                "FedEx unveils 2026 peak season fee structure with higher home delivery costs.",
+                "Retailers face margin compression from sustained last-mile carrier pricing power.",
+                "Diversified regional carrier usage remains the primary mitigation strategy."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD PENALTIES TOP $1B",
+            "nextUpTease": "KUEHNE+NAGEL MARKET SHIFT",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DOJ: TRADE FRAUD PENALTIES TOP $1B",
+            "heading": "TRANSPORT TOPICS: KUEHNE+NAGEL APEX SPIN",
             "points": [
-                "Department of Justice Trade Fraud Task Force crosses $1 billion in recoveries.",
-                "Customs enforcement intensifies focus on systemic duty evasion and trade fraud.",
-                "Global importers require rigorous compliance structures to survive CBP audits."
+                "Logistics giant explores potential divestment of Apex Logistics unit.",
+                "Market consolidation trends intensify as major forwarders realign capital assets.",
+                "Increased focus on specialized freight lanes rather than general sprawl."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY: QUOTE UNQUOTE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,9 +122,9 @@ const dailyData = {
             "id": 8,
             "heading": "DAILY: QUOTE UNQUOTE",
             "points": [
-                "\"Effective leaders target the biggest bottlenecks rather than perfecting every link.\"",
-                "\u2014 Davey Miller, Chief Operating Officer, CMC",
-                "Domain: Supply Chain Leadership"
+                "\"Constraint awareness. Constant market shifts demand prioritization and creative workarounds.\"",
+                "\u2014 Davey Miller, Chief Operating Officer at CMC",
+                "Domain: Inbound Logistics"
             ],
             "imageUrl": "",
             "nextUpTease": "SUPPRESS_FOOTER",
