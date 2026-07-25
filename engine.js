@@ -153,6 +153,9 @@ async function switchSlide(id, element) {
     const canvas = document.getElementById('post-canvas');
     if (!canvas) return;
 
+    // Ensure background CORS base64 is re-evaluated and preserved across slide renders
+    await fixBackgroundCORS();
+
     const formatTitleBlue = (text) => {
         if (!text) return "";
         let cleanText = text.trim();
