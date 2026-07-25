@@ -1,38 +1,22 @@
-/* GENERATED UTC: 2026-07-25 19:04:25 */
+/* GENERATED UTC: 2026-07-25 19:18:15 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUPPLY CHAIN REGULATORY",
-        "titleBlue": "VOLATILITY",
-        "footerSummary": "US shifts Section 122 to Section 301 tariffs, while a massive $604M broker liability ruling and new Panama Canal limits reshape transpacific freight planning."
+        "titleWhite": "Global Trade Tariff",
+        "titleBlue": "Volatility",
+        "footerSummary": "New U.S. Section 301 tariffs on 60 nations create immediate compliance friction, while ongoing geopolitical instability continues to strain trans-Pacific freight and oil logistics."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRANSPORT TOPICS: CH ROBINSON NUCLEAR VERDICT",
+            "heading": "SUPPLY CHAIN DIVE: U.S. TARIFFS EXPAND",
             "points": [
-                "Mississippi jury hits broker C.H. Robinson with a massive $604 million crash ruling.",
-                "Verdict raises legal standards for freight broker carrier vetting and liability risk.",
-                "Shippers must enforce rigorous independent safety audits of all contract carriers."
+                "Section 122 levies expire as new Section 301 tariffs hit 60 global trading partners.",
+                "Importers face immediate cost spikes on wide-ranging goods and raw materials.",
+                "Supply chains must pivot to reconcile new duty schedules with existing contracts."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPPLY CHAIN DIVE: TARIFF SHIFT ON 60 NATIONS",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "SUPPLY CHAIN DIVE: TARIFF SHIFT ON 60 NATIONS",
-            "points": [
-                "US replaces temporary Section 122 duties with targeted Section 301 tariffs.",
-                "Importers face immediate 10% to 12.5% duties linked to forced labor enforcement.",
-                "Shippers must audit origin trace logs to satisfy strict customs clearance rules."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INBOUND LOGISTICS: DOJ SEIZES $1B IN FRAUD",
+            "nextUpTease": "FREIGHTWAVES: BROKER LIABILITY",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -40,47 +24,47 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "INBOUND LOGISTICS: DOJ SEIZES $1B IN FRAUD",
+            "id": 2,
+            "heading": "FREIGHTWAVES: BROKER LIABILITY SHOCK",
             "points": [
-                "DOJ Trade Fraud Task Force recovers $1 billion in penalties under one year.",
-                "Enforcement focuses on customs classification evasion, transshipment, and duties.",
-                "Supply chain leaders need rigorous trade compliance audits to avoid severe penalties."
+                "C.H. Robinson to appeal $604 million nuclear verdict in negligent carrier case.",
+                "The ruling significantly raises the financial risk bar for freight brokerage vetting.",
+                "Industry standard carrier selection protocols now require immediate legal review."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: COURT UPHOLDS DETENTION FEE FLUIDITY",
+            "nextUpTease": "JOC: DATA CENTER IMPORTS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.freightwaves.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "JOC: DATA CENTER CARGO SURGE",
+            "points": [
+                "Hardware and infrastructure imports sustain trans-Pacific peak season volumes.",
+                "Data center buildouts mask declining demand in traditional consumer sectors.",
+                "Logistics providers should prioritize infrastructure-linked freight for capacity."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "THE LOADSTAR: CAPACITY DISCIPLINE",
+            "tags": [
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FMC: COURT UPHOLDS DETENTION FEE FLUIDITY",
+            "heading": "THE LOADSTAR: BLANK SAILINGS IMPACT",
             "points": [
-                "US Court of Appeals upholds FMC ruling requiring detention fees to boost fluidity.",
-                "Ocean carriers are barred from billing shippers when port congestion blocks pickups.",
-                "Shippers must audit historical billing logs to recoup non-fluidity invoice charges."
+                "East-west tradelanes see capacity injection alongside ongoing blanked sailings.",
+                "Spot rates exhibit gentle decline amid carrier-enforced capacity management.",
+                "Shippers face continued uncertainty in planning trans-Pacific peak season flows."
             ],
             "imageUrl": "",
-            "nextUpTease": "THE LOADSTAR: PANAMA CANAL TRANSIT CONTROLS",
-            "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "THE LOADSTAR: PANAMA CANAL TRANSIT CONTROLS",
-            "points": [
-                "Panama Canal Authority braces for El Nino, planning new vessel draft limitations.",
-                "Shippers anticipate slot restrictions and ocean carriers introducing fresh surcharges.",
-                "Supply chains must balance East Coast lane strategies with West Coast port routing."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRANSPORT TOPICS: APEX LOGISTICS SPIN OFF",
+            "nextUpTease": "ECOMMERCEBYTES: RURAL USPS FEES",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -88,33 +72,49 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "TRANSPORT TOPICS: APEX LOGISTICS SPIN OFF",
+            "id": 5,
+            "heading": "ECOMMERCEBYTES: RURAL SHIPPING SURCHARGE",
             "points": [
-                "Kuehne + Nagel evaluates selling a significant stake in its Apex Logistics division.",
-                "Action aims to unlock capital amid rising logistics technology cost inflation.",
-                "Transpacific air cargo contracts must adapt to shifts in forwarding scale strategy."
+                "USPS policy change adds $2-$3 cost per lightweight package to rural locations.",
+                "Online marketplace sellers face immediate margin erosion on rural deliveries.",
+                "E-commerce logistics strategy must adjust to address regional cost disparities."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE BYTES: RURAL POSTAL RATE HIKE",
+            "nextUpTease": "CNBC: MIDDLE EAST TENSIONS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "CNBC: STRAIT OF HORMUZ RISK",
+            "points": [
+                "Oil tanker transit through key chokepoints faces extended disruption risks.",
+                "Escalating regional conflicts threaten global energy supply chain stability.",
+                "Fuel price volatility remains high due to persistent maritime threat levels."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRANSPORT TOPICS: EMISSIONS DELAYS",
+            "tags": [
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ECOMMERCE BYTES: RURAL POSTAL RATE HIKE",
+            "heading": "TRANSPORT TOPICS: ENGINE REGULATION",
             "points": [
-                "USPS implements $2 to $3 rate hikes on lightweight packages bound for rural areas.",
-                "Online sellers face margin degradation on low-value e-commerce market shipments.",
-                "Multi-channel merchants must re-optimize regional fulfillment node distributions."
+                "OEMs consider phasing in 2027 EPA NOx-compliant engines to manage transitions.",
+                "Regulatory compliance timelines create potential hardware procurement hurdles.",
+                "Fleets must account for engine transition impacts on long-term capital plans."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY: QUOTE UNQUOTE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "DAILY: QUOTE UNQUOTE",
-        "quoteText": "As logistics volatility becomes structural, supply chain resilience is a core asset.",
-        "author": "Vincent Clerc, Chief Executive Officer at Maersk",
-        "context": "Domain: Maritime Global Logistics"
+        "quoteText": "Volatility is no longer an anomaly; it has become the baseline operating condition for the modern global supply chain.",
+        "author": "Logistics Intelligence Desk, Annual State of Logistics Report",
+        "context": "Domain: Infrastructure & Strategy Analysis"
     }
 };
