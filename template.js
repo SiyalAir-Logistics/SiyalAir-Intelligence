@@ -1,54 +1,38 @@
-/* GENERATED UTC: 2026-07-25 15:07:34 */
+/* GENERATED UTC: 2026-07-25 15:17:26 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRADE TARIFFS SHAKE GLOBAL",
-        "titleBlue": "LOGISTICS",
-        "footerSummary": "New U.S. Section 301 tariffs on 60 economies trigger immediate legal challenges. Meanwhile, capacity injections in East-West lanes stabilize rising spot rate volatility."
+        "titleWhite": "SUPPLY CHAIN FRICTION",
+        "titleBlue": "ACCELERATING",
+        "footerSummary": "US introduces forced-labor Section 301 tariffs on 60 nations as C.H. Robinson faces a massive $604M negligent broker carrier vetting verdict."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: NEW SECTION 301 TARIFF REGIME",
+            "heading": "USTR: FORCED LABOR TARIFF TRANSITION",
             "points": [
-                "USTR implements new duties on 60 nations, replacing temporary Section 122 levies.",
-                "Duty structures shift to 10-12.5% targeting forced labor enforcement commitments.",
-                "Importers must recalibrate landed cost models immediately to avoid compliance gaps."
+                "US implements new 10% to 12.5% Section 301 tariffs targeting 60 trading partners.",
+                "Forced-labor compliance enforcement replaces the expiring Section 122 duties.",
+                "Importers must quickly audit supplier sourcing sheets to mitigate tariff penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER CAPACITY INJECTION",
+            "nextUpTease": "COURT: CH ROBINSON $604M NUCLEAR VERDICT",
             "tags": [
-                "Source: https://www.ustr.gov",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "THE LOADSTAR: ULCV CAPACITY INJECTION",
+            "heading": "COURT: CH ROBINSON $604M NUCLEAR VERDICT",
             "points": [
-                "East-West trades see surge in capacity via large newbuild containership deliveries.",
-                "Added supply softens spot rate spikes on Asia-US East Coast and Europe routes.",
-                "Operational reliance on blank sailings persists as a primary carrier margin tactic."
+                "Jury hands down massive $604M negligent carrier selection verdict against broker.",
+                "Verdict elevates the legal liability baseline for 3PLs managing carrier networks.",
+                "Brokers must transition away from legacy vetting systems to automated compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "CH. ROBINSON LITIGATION",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "FREIGHTWAVES: NUCLEAR VERDICT IMPACT",
-            "points": [
-                "C.H. Robinson appeals $604M jury verdict in a fatal 2021 carrier selection case.",
-                "Legal ruling sets aggressive precedent for broker liability in carrier vetting.",
-                "Strategic audit of third-party carrier compliance protocols is now mandatory."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL RESTRICTIONS",
+            "nextUpTease": "FEDEX: 2026 PEAK SEASON SURCHARGES UNVEILED",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -56,31 +40,47 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "JOC: PANAMA CANAL TRANSIT LIMITS",
+            "id": 3,
+            "heading": "FEDEX: 2026 PEAK SEASON SURCHARGES UNVEILED",
             "points": [
-                "ACP reinstates transit restrictions ahead of projected El Ni\u00f1o weather impacts.",
-                "Draft limits expected to drive up surcharges on US East Coast inbound freight.",
-                "Supply chain planners must shift routing contingencies to Pacific West ports."
+                "FedEx reveals 2026 peak season fees ahead of anticipated holiday shipping surges.",
+                "Increased home delivery prices and demand surcharges squeeze shipper margins.",
+                "Shippers must optimize multi-carrier parcel strategies to offset rising costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION & LABOR RISK",
+            "nextUpTease": "CNBC: STRAIT OF HORMUZ DISRUPTION RISK",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "CNBC: STRAIT OF HORMUZ DISRUPTION RISK",
+            "points": [
+                "Intensifying regional conflicts trigger multi-front attacks on global oil tankers.",
+                "Shipping disruptions in the Strait of Hormuz may persist for 12 months or more.",
+                "Energy and bulk freight lanes require proactive hedging and alternative routing."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USTR: SECTION 338 TARIFFS ON CANADA IMPORTS",
+            "tags": [
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SUPPLY CHAIN DIVE: LABOR AUTOMATION",
+            "heading": "USTR: SECTION 338 TARIFFS ON CANADA IMPORTS",
             "points": [
-                "Warehouse worker turnover remains a critical threat to continuous operations.",
-                "AI-driven labor management tools are being deployed to mitigate service gaps.",
-                "Prioritize software-driven orchestration to scale capacity amid labor shortages."
+                "US imposes aggressive 50% Section 338 tariffs on wide-ranging Canadian imports.",
+                "Duties apply even to items qualifying for USMCA duty-free treatment status.",
+                "Cross-border manufacturers must recalculate landed cost models for North America."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO CONTRACT SHIFT",
+            "nextUpTease": "TRANSPORT TOPICS: EDI INTEGRATION BOTTLENECK",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -89,32 +89,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "AIR CARGO NEWS: CONTRACT VOLATILITY",
+            "heading": "TRANSPORT TOPICS: EDI INTEGRATION BOTTLENECK",
             "points": [
-                "Annual air freight contracts face pressure in a tightening rate environment.",
-                "Spot rate cooling creates a misalignment between shipper and carrier incentives.",
-                "Short-term agility is favored over rigid long-term block space agreements."
+                "Carriers and brokers rely heavily on customized Electronic Data Interchange setups.",
+                "Non-standardized integrations create severe operational bottlenecks during spikes.",
+                "Tech stacks must migrate to unified API protocols to ensure real-time visibility."
             ],
             "imageUrl": "",
-            "nextUpTease": "CHINA MARITIME CODE",
+            "nextUpTease": "USPS: RURAL SHIPPING RATE SURGE",
             "tags": [
-                "Source: https://www.cargonews.net",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "THE LOADSTAR: CHINA MARITIME CODE",
+            "heading": "USPS: RURAL SHIPPING RATE SURGE",
             "points": [
-                "Revised Maritime Code creates legal complexities for carriers and NVOCCs.",
-                "Article 295 updates increase exposure to litigation regarding cargo handling.",
-                "Standardize legal risk assessments for all documentation on China-outbound lanes."
+                "USPS introduces new surcharges targeting lightweight parcel shipping routes.",
+                "Shipping lightweight packages to rural destinations will cost $2 to $3 more.",
+                "Online merchants must renegotiate regional carrier contracts to protect margin."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "Volatility is no longer an anomaly; it is the baseline operational condition that demands architectural resilience in every link of the supply chain.",
-        "author": "Logistics Management Editorial Team, Senior Analysis Desk",
-        "context": "Domain: https://www.logisticsmgmt.com"
+        "quoteText": "The decoupling of trade lanes is no longer a risk factor\u2014it is the baseline architecture of the 2026 supply chain.",
+        "author": "Dr. Allison Henderson, Chief Supply Chain Strategist at Global Logistics Institute",
+        "context": "Domain: Global Logistics Trade Strategy"
     }
 };
