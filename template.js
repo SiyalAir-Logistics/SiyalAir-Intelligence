@@ -1,38 +1,38 @@
-/* GENERATED UTC: 2026-07-25 17:17:30 */
+/* GENERATED UTC: 2026-07-25 17:17:54 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "COMPLIANCE INFRASTRUCTURE",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Global supply chain networks adapt as the US introduces strict Section 301 tariffs on 60 nations and broker liabilities hit historic highs."
+        "titleWhite": "GLOBAL SUPPLY CHAIN",
+        "titleBlue": "SHOCKS",
+        "footerSummary": "The structural shift to Section 301 tariffs and regional carrier liability verdicts signals a new era of severe regulatory friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CBP: SECTION 301 TRANSITION IMPACTS",
+            "heading": "USTR: SECTION 301 TARIFF TRANSITION",
             "points": [
-                "US replaces Section 122 tariffs with Section 301 on 60 trading partners.",
-                "Duties rise between 10% and 12.5% based on forced labor enforcement rules.",
-                "Importers must quickly audit compliance files to prevent customs seizure risks."
+                "US replaces temporary Section 122 surcharge with permanent Section 301 duties.",
+                "Importers face immediate 10% to 12.5% tariffs across sixty trading partners.",
+                "Shippers must audit vendor lists immediately to mitigate regulatory friction."
             ],
             "imageUrl": "",
             "nextUpTease": "C.H. ROBINSON VERDICT",
             "tags": [
-                "Source: cbp.gov",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "COURTROOM: LIABILITY STANDARD WARNING",
+            "heading": "COURT: C.H. ROBINSON NEGLIGENT VERDICT",
             "points": [
-                "Mississippi jury awards a massive $604 million negligent broker select verdict.",
-                "Third-party logistics providers face ballooning costs for safety compliance audits.",
-                "Brokerages must tighten vetting protocols to survive rising liability thresholds."
+                "Mississippi jury hits logistics giant with a historic $604 million crash ruling.",
+                "Broker liability standard raised significantly for carrier vetting procedures.",
+                "Freight brokers must deploy automated compliance and real-time safety checks."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS RURAL SURCHARGES",
+            "nextUpTease": "TSMC SEMICONDUCTOR EXPANSION",
             "tags": [
                 "Source: freightwaves.com",
                 "Published: Last 48 Hours",
@@ -41,14 +41,62 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "USPS: LIGHTWEIGHT PARCEL SURCHARGES",
+            "heading": "TSMC: $100B US CHIP EXPANSION",
             "points": [
-                "USPS implements rural delivery surcharges on lightweight e-commerce packages.",
-                "Shipping fees to rural destinations increase by $2.00 to $3.00 per package.",
-                "E-commerce merchants must recalculate margins or diversify last-mile carriers."
+                "Tech giant commits massive funding to build four additional US silicon fabs.",
+                "Total planned facilities rise to twelve to satisfy domestic supply chain goals.",
+                "Long-term tech supply chain strategies pivot toward complete domestic reliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "EPA MY-2027 FLEET STAGGER",
+            "nextUpTease": "CANADA IMPORT TARIFFS",
+            "tags": [
+                "Source: supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "US: 50% CANADA IMPORT TARIFFS",
+            "points": [
+                "Section 338 duties slap 50% tariff on a wide array of Canadian products.",
+                "Tariffs apply even if goods qualified for duty-free status under USMCA rules.",
+                "Supply chain leads must restructure cross-border sourcing models immediately."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LMI CAPACITY CRUNCH",
+            "tags": [
+                "Source: supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "LMI: WAREHOUSE NETWORK CAPACITY CRUNCH",
+            "points": [
+                "Logistics Managers Index climbs to 71.1 as warehouse demand outpaces supply.",
+                "Retailers accelerate early peak season importing to beat incoming trade tariffs.",
+                "Expect elevated industrial real estate rates through the end of the year."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS RURAL RATE SURGE",
+            "tags": [
+                "Source: inboundlogistics.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "USPS: RURAL SHIPPING RATE SURGE",
+            "points": [
+                "Postal service adds a $2 to $3 surcharge on lightweight packages to rural zones.",
+                "Lightweight Ground Advantage items face immediate margins compression.",
+                "Multi-channel e-commerce brands must reassess last-mile regional carrier mix."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PANAMA CANAL RESTRICTIONS",
             "tags": [
                 "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -56,65 +104,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "TRATON: EPA ENGINE PLAN UNVEILED",
-            "points": [
-                "International plans to stagger model year 2027 heavy-duty engine introductions.",
-                "Incoming EPA NOx emissions rules force a phased rollout of compliant vehicles.",
-                "Fleets must extend current heavy-duty asset leases to secure market capacity."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL APEX VALUATION",
-            "tags": [
-                "Source: ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "K+N: APEX LOGISTICS SPIN-OFF OPTIONS",
-            "points": [
-                "Kuehne + Nagel evaluates selling a partial stake in its Apex Logistics unit.",
-                "A potential IPO or stake sale could alter dominant transpacific air trade lanes.",
-                "High-volume air shippers must lock in multi-year block space allocations now."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TSMC $100B EXPANSION",
-            "tags": [
-                "Source: cargonews.net",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "TSMC: SEMICONDUCTOR LOGISTICS DEMAND",
-            "points": [
-                "TSMC commits a massive $100B to construct four additional advanced US fabs.",
-                "Supply chains face immediate regional flatbed and specialized transport squeezes.",
-                "Industrial logistics teams must secure transport capacity around Southwest hubs."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FEDEX PEAK RATE UPDATE",
-            "tags": [
-                "Source: supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "FEDEX: 2026 PEAK SEASON SURCHARGES",
+            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS RETURN",
             "points": [
-                "FedEx releases its peak season rate card, hiking residential parcel fees.",
-                "Escalated peak home delivery surcharges threaten low-margin e-commerce margins.",
-                "Shippers must model regional carrier splits to bypass peak shipping windows."
+                "Canal Authority reintroduces strict draft limits to prepare for El Ni\u00f1o.",
+                "Spot rates face immediate pressure as carriers implement heavy draft surcharges.",
+                "Ocean freight schedulers must prepare for multi-week route delays or bypasses."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
