@@ -1,90 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE FLOW",
-        "titleBlue": "VOLATILITY",
-        "footerSummary": "New U.S. Section 301 tariffs on 60 nations create immediate compliance friction, while carrier capacity discipline stabilizes fading container spot rates amidst market shifts."
+        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleBlue": "SHIFT",
+        "footerSummary": "US implements new Section 301 tariffs across 60 trading partners as Section 122 expires. Importers face immediate compliance uncertainty in this complex trade landscape."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFF ARCHITECTURE: SECTION 301 UPDATES",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "The United States has officially transitioned from temporary Section 122 surcharges to a comprehensive Section 301 tariff regime covering 60 distinct global trading economies.",
-                "Importers now face mandatory 10% to 12.5% duties on a wide array of goods, complicating landed-cost calculations and forcing immediate adjustments to international supply chain pricing.",
-                "Legal challenges have already been filed by multiple small businesses contesting the constitutional validity and economic impact of these broad, rapid-fire executive trade enforcement actions.",
-                "Experts anticipate a protracted period of administrative uncertainty as supply chain managers scramble to re-classify shipments under the new, stricter federal duty-free criteria."
+                "The U.S. Trade Representative has officially implemented new tariffs on 60 trading nations effective immediately. These duties target goods based on forced labor enforcement commitments across global supply chains.",
+                "New levies range between 10% and 12.5% as legacy Section 122 surcharges officially expire this week. The policy shift forces importers to reconcile cost structures amidst immediate, unpredictable duty rate spikes.",
+                "Customs brokers report massive operational friction as existing import frameworks fail to account for the abrupt transition. Legal departments are now scrambling to reclassify thousands of inbound product tariff codes.",
+                "Shippers should anticipate significant delays at port entries as CBP increases physical inspection and documentation scrutiny. The transition period lacks sufficient guidance for companies managing long-lead inventory arrival schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINER CAPACITY DISCIPLINE",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "OCEAN FREIGHT: SPOT RATE STABILIZATION",
-            "points": [
-                "Trans-Pacific and Asia-Europe container spot rates are experiencing a managed decline, as major carriers successfully implement aggressive capacity discipline and intentional blank sailing strategies.",
-                "The implementation of ultra-large container vessels into east-west trades is being countered by strategic schedule adjustments to prevent a total collapse of spot market pricing.",
-                "Market analysts note that while volumes remain steady, the structural reliance on blank sailings has become a standard, permanent feature of the modern liner landscape.",
-                "Shippers are navigating an environment where capacity control, rather than organic demand surges, dictates the baseline for current ocean transportation service costs and availability."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LEGAL RISK IN LOGISTICS",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "LEGAL RISK: THE $604M NUCLEAR VERDICT",
-            "points": [
-                "A landmark legal ruling resulted in a $604 million judgment against a major global freight broker following a fatal highway crash involving a contracted carrier.",
-                "This nuclear verdict fundamentally shifts the liability framework for 3PLs, moving the focus toward the rigor and defensive quality of carrier vetting and safety compliance.",
-                "Market participants are rapidly reassessing broker-carrier agreements to mitigate risks associated with negligent selection claims in a post-Montgomery legal climate of extreme damages.",
-                "Brokers are expected to increase investment in automated carrier safety monitoring systems to provide a documented, auditable defense against future claims of negligent carrier vetting."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "US CUSTOMS COMPLIANCE",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "US CUSTOMS: TRADE FRAUD TASK FORCE",
-            "points": [
-                "The DOJ Trade Fraud Task Force has officially surpassed $1 billion in total recoveries, penalties, and forfeited losses since its inception in August 2025.",
-                "This enforcement milestone underscores the federal government's heightened intensity regarding cross-border compliance, document verification, and the accurate declaration of imported goods and valuation.",
-                "Importers and logistics service providers must now treat customs data integrity as a top-tier operational risk, given the increased frequency of deep-dive agency investigations.",
-                "Future enforcement actions are expected to prioritize the systematic detection of evasion patterns related to forced labor and artificial devaluation of high-duty e-commerce shipments."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AUTOMATION IN WAREHOUSING",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "WAREHOUSE OPS: FLEXIBLE ROBOTIC SCALE",
-            "points": [
-                "Warehouse operations are accelerating the shift toward flexible, software-driven fulfillment environments that integrate autonomous mobile robots and AI-orchestrated task management systems.",
-                "Leading retailers are utilizing cloud-based 3D imagery to digitize product configurations, thereby reducing the dependency on manual rendering and warehouse floor space for staging.",
-                "The integration of intelligent orchestration platforms is allowing distribution centers to maximize throughput while simultaneously managing the persistent challenge of high labor turnover rates.",
-                "Operational focus is shifting from simple point-solution automation to connected ecosystems that synchronize inventory levels, order picking efficiency, and final-mile delivery scheduling seamlessly."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR CARGO EVOLUTION",
+            "nextUpTease": "LOGISTICS LEGAL RISKS",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -92,16 +24,50 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AIR CARGO: FUEL AND RATE PRESSURES",
+            "id": 2,
+            "heading": "FREIGHT: NUCLEAR VERDICT IMPACT",
             "points": [
-                "Global air cargo markets face a complex balancing act as spot rates cool and rising fuel costs squeeze the margins of major carrier operations.",
-                "Forwarders are reporting that annual contract sustainment is increasingly difficult, leading to a more volatile, opportunistic spot-buying environment for time-critical international air shipments.",
-                "The push for capacity optimization continues, with carriers integrating freighter fleets more closely with regional charter opportunities to capture pockets of high-value trade demand.",
-                "Market indicators suggest that shippers should prepare for sustained pricing pressure driven by energy volatility and the cooling of peak-season demand expectations throughout 2026."
+                "C.H. Robinson faces a staggering $604 million advisory verdict following a negligent carrier selection legal challenge. The decision creates a high-stakes precedent for all third-party logistics firms operating within the U.S.",
+                "Legal experts warn that carrier vetting processes must now move beyond simple documentation to active verification. The ruling exposes brokers to existential financial liabilities if they fail to adequately vet sub-contracted motor carriers.",
+                "Supply chain procurement teams are re-evaluating insurance thresholds and service level agreements with all third-party brokerage partners. Risk mitigation strategies now include mandatory deep-dive auditing of safety performance for all contracted carriers.",
+                "This legal milestone triggers a wave of defensive operational posture changes across the entire freight forwarding sector. Smaller brokerages may struggle to maintain operations under the weight of heightened compliance and legal requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING CAPACITY DYNAMICS",
+            "nextUpTease": "CARRIER CAPACITY CRUNCH",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "RAIL: INTERMODAL VOLUME SHIFT",
+            "points": [
+                "Canadian National Railway reported positive outlooks as volume growth exceeds original 2026 fiscal projections. Increased intermodal activity reflects a broader reliance on rail networks to manage current peak season demands.",
+                "New deal structures between Union Pacific and Canadian National are expanding intermodal options across North American corridors. The increased rail capacity provides a necessary, albeit strained, alternative to rising truckload freight costs.",
+                "Shippers are aggressively shifting intermodal bids to secure capacity for the upcoming 2027 contract cycles early. Reliability metrics remain the primary driver for service selection as rail congestion levels begin to climb.",
+                "Infrastructure investment into logistics hubs connected by these rail corridors continues to receive critical federal funding support. This focus on long-haul efficiency is essential to maintaining domestic product flow during supply chain volatility."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CARGO CAPACITY UPDATES",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AIR: CARGO CAPACITY BALANCING",
+            "points": [
+                "Air cargo carriers are facing an increasingly complex market as spot rates begin to cool significantly. Fuel costs continue to climb, forcing airlines to refine operational efficiency to protect tightening profit margins.",
+                "Annual air freight contracts are becoming unsustainable in the current high-volatility, low-yield climate for global freight forwarders. Market conditions have shifted decisively, limiting the room for margin expansion in traditional air freight.",
+                "Industry data indicates that trans-Pacific capacity remains in flux due to unpredictable peak season consumer demand fluctuations. Carriers are monitoring throughput to balance space availability against rising operational and sustainable fuel surcharges.",
+                "Shippers reliant on premium air services must prepare for rapid price adjustments as the balancing act continues. The reliance on legacy booking tools is being replaced by dynamic, data-driven capacity management systems worldwide."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RETAIL WAREHOUSE TRENDS",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -109,18 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "SURFACE TRANSPORT: TRUCKING CAPACITY",
+            "id": 5,
+            "heading": "RETAIL: WAREHOUSE EXPANSIONS",
             "points": [
-                "Shippers are grappling with tighter trucking capacity as record-high freight rates persist, constrained by new driver safety rules and evolving regulatory compliance requirements.",
-                "The domestic intermodal market is showing signs of renewed activity, with rail providers expanding options to capture overflow from strained truckload, long-haul capacity lanes.",
-                "Autonomous and AI-driven load-matching systems are becoming mandatory tools for small carriers seeking to maintain viability amidst the ongoing consolidation of the brokerage sector.",
-                "Strategic planning for 2027 bid cycles is already underway, with a heavy emphasis on securing reliable intermodal capacity to bypass anticipated highway congestion and service gaps."
+                "Maersk is opening a 617,000-square-foot fulfillment hub near Boston to support large-scale e-commerce logistics. The facility will be fully operational by August, targeting localized speed for high-volume regional retail distributions.",
+                "Amazon continues aggressive expansion of its fulfillment network, planning a massive 4.2 million-square-foot center on Long Island. These massive footprint investments highlight a strategic pivot toward hyper-localized, high-velocity distribution models globally.",
+                "Tractor Supply is integrating Instacart to enhance its last-mile delivery capabilities for essential household and farm goods. Retailers are increasingly embedding third-party gig-delivery platforms into internal fulfillment workflows to preserve market share.",
+                "Industrial real estate vacancy rates continue to stabilize at approximately 7.3% as demand finally meets new supply. Warehouse planning remains a top priority for retailers facing persistent consumer demand in volatile markets."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRUCKING SAFETY BLITZ",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "TRUCKING: SAFETY COMPLIANCE",
+            "points": [
+                "Commercial vehicle safety blitzes are expanding across Maryland, Florida, and Kentucky to identify systemic compliance violations. Enforcement agents are reporting broad failures in driver logbooks and hazardous materials documentation procedures.",
+                "Federal agents have ramped up physical weigh station inspections, removing non-compliant drivers from circulation across U.S. highways. Increased scrutiny is creating short-term capacity tightening as carriers struggle with staffing and regulatory fatigue.",
+                "FMCSA continues to reject exemptions, reflecting a zero-tolerance approach toward medical and safety standard waivers for truckers. The stricter regulatory environment forces fleets to invest heavily in electronic compliance and driver education.",
+                "Shippers must account for increased transit times resulting from frequent commercial vehicle enforcement and highway inspection cycles. Operational reliability now hinges on carrier ability to maintain perfect scores during these targeted safety blitzes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TECHNOLOGY INNOVATION",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "LOGISTICS: AI ORCHESTRATION",
+            "points": [
+                "Warehouse operations are moving beyond simple point solutions toward integrated, software-driven intelligent orchestration of automated systems. Robotics and AI are now coordinating end-to-end tasks from inventory counting to high-speed order fulfillment.",
+                "Drones are successfully streamlining inventory counts in massive distribution centers by reducing manual labor hours and equipment reliance. This automation shift is providing real-world efficiency gains that offset the rising costs of human labor.",
+                "Artificial intelligence tools are now analyzing fleet-related data to predict maintenance failures before they disrupt logistics operations. These predictive capabilities allow companies to proactively manage risk and optimize transport network performance cycles.",
+                "Supply chain resilience is being redefined as organizations invest in AI learning tools to train technical staff. Advanced software platforms are essential for bridging the gap between demand forecasting and actual warehouse execution."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
