@@ -1,129 +1,129 @@
-/* GENERATED UTC: 2026-07-25 15:59:42 */
+/* GENERATED UTC: 2026-07-25 16:02:11 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUPPLY CHAIN FRICTION",
-        "titleBlue": "ACCELERATING",
-        "footerSummary": "Global logistics face severe friction as the $604M C.H. Robinson verdict, new 50% Canadian tariffs, and USTR forced labor compliance reshape transport dynamics."
+        "titleWhite": "GLOBAL TRADE REGULATORY",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "New tariffs on sixty nations and a massive six hundred million dollar broker verdict trigger unprecedented cross-border compliance and carrier vetting audits."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "C.H. ROBINSON: $604M LIABILITY VERDICT",
+            "heading": "TRANSPORT TOPICS: ROBINSON $604M VERDICT",
             "points": [
-                "C.H. Robinson appeals a staggering $604 million jury verdict over fatal truck crash.",
-                "Legal precedent escalates broker liability risks for negligent third-party vetting.",
-                "Compliance desks must adopt automated, audit-proof carrier screening protocols."
+                "Jury hits C.H. Robinson with a $604 million highway crash liability verdict.",
+                "Broker liability risks escalate, driving up carrier vetting and insurance costs.",
+                "Logistics providers must deploy strict, audited carrier compliance workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR TARIFFS ON 60 NATIONS",
+            "nextUpTease": "SUPPLY CHAIN DIVE: NEW 60-NATION TARIFFS",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "USTR: NEW FORCED LABOR TARIFFS IMPLEMENTED",
+            "heading": "SUPPLY CHAIN DIVE: NEW 60-NATION TARIFFS",
             "points": [
-                "USTR implements new forced labor tariffs on 60 nations under Section 301.",
-                "Importers face new 10% to 12.5% duties as temporary Section 122 exemptions expire.",
-                "Global supply chain mapping is now required to trace raw material origin paths."
+                "USTR implements 10% to 12.5% tariffs on 60 nations as Section 122 duties expire.",
+                "New duties are tied to forced labor enforcement, creating deep compliance burdens.",
+                "Sourcing managers must audit lower-tier suppliers to verify labor compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "US-CANADA IMPORT DUTIES",
+            "nextUpTease": "FMC: COURT UPHOLDS FLUIDITY RULES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "US CUSTOMS: 50% TARIFFS ON CANADIAN IMPORTS",
+            "heading": "FMC: COURT UPHOLDS FLUIDITY RULES",
             "points": [
-                "US imposes 50% Section 338 duties on a vast range of Canadian imports.",
-                "Tariffs apply even to goods previously deemed duty-free under USMCA frameworks.",
-                "Nearshoring strategies require rapid reallocation of North American transit costs."
+                "U.S. Court of Appeals upholds FMC rule that detention fees must promote fluidity.",
+                "Carriers are barred from assessing punitive fees during port terminal closures.",
+                "Shippers can confidently file formal charge complaints under OSRA 2022 rules."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: PEAK HOLIDAY SURCHARGES",
+            "nextUpTease": "INBOUND LOGISTICS: DOJ $1B FRAUD CLAWBACK",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FEDEX: PEAK DEMAND HOLIDAY SURCHARGES",
+            "heading": "INBOUND LOGISTICS: DOJ $1B FRAUD CLAWBACK",
             "points": [
-                "FedEx unveils heavy peak season demand surcharges for the 2026 holiday window.",
-                "Shippers face steep residential delivery fee hikes, squeezing e-commerce margins.",
-                "Retailers must diversify last-mile carriers to bypass peak holiday price points."
+                "Justice Department Trade Fraud Task Force recovers $1 billion in its first year.",
+                "Federal enforcement intensifies on customs evasion and product misclassification.",
+                "Importers must run proactive customs compliance audits to mitigate seizure risk."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: LIGHTWEIGHT RURAL SURCHARGE",
+            "nextUpTease": "ECOMMERCEBYTES: USPS RURAL ZONE SURCHARGES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "USPS: LIGHTWEIGHT RURAL SHIPPING SURCHARGE",
+            "heading": "ECOMMERCEBYTES: USPS RURAL ZONE SURCHARGES",
             "points": [
-                "USPS implements a $2 to $3 rate hike on lightweight package deliveries.",
-                "Rural deliveries face immediate margin compression on low-value consumer goods.",
-                "Fulfillers must optimize carrier routing based on regional delivery zone density."
+                "USPS raises Ground Advantage rates by $2 to $3 for lightweight rural shipments.",
+                "E-commerce merchants face direct margin erosion on non-urban marketplace orders.",
+                "Sellers must adjust localized pricing or diversify regional last-mile partners."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE SURPASSES $1B",
+            "nextUpTease": "TRANSPORT TOPICS: MY-2027 ENGINE STAGGER",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE TARGETS $1B",
+            "heading": "TRANSPORT TOPICS: MY-2027 ENGINE STAGGER",
             "points": [
-                "DOJ Trade Fraud Task Force surpasses $1 billion in total recovered assets.",
-                "Federal audits intensely target customs evasion and falsified country-of-origin.",
-                "Importers should run proactive compliance audits to prevent severe trade penalties."
+                "Cummins and International plan to stagger introduction of MY-2027 heavy engines.",
+                "Emission rule compliance threatens to disrupt fleet procurement and raise costs.",
+                "Shippers must secure multi-year freight capacity ahead of the engine transition."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRATON: EPA 2027 ENGINE DEPLOYMENT SHIFT",
+            "nextUpTease": "SUPPLY CHAIN DIVE: TSMC $100B US FACTORIES",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRATON: EPA 2027 ENGINE DEPLOYMENT SHIFT",
+            "heading": "SUPPLY CHAIN DIVE: TSMC $100B US FACTORIES",
             "points": [
-                "International plans to stagger model-year 2027 engine releases for EPA compliance.",
-                "Strict NOx rules introduce technical complexity and higher fleet equipment costs.",
-                "Fleet managers must speed up truck orders to bypass upcoming regulatory lock-ins."
+                "TSMC commits an additional $100 billion to build four advanced fabs in the US.",
+                "Massive facility builds drive up regional demand for specialized heavy logistics.",
+                "High-tech shippers should secure early long-term regional domestic agreements."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         }
     ],
     "quote": {
-        "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "The C.H. Robinson verdict fundamentally changes the risk equation for all 3PLs. Broker selection is now a structural threat to enterprise solvency.",
-        "author": "Mark Millett, VP of Global Compliance",
-        "context": "Domain: Regulatory Compliance & Risk Brokerage"
+        "heading": "EXECUTIVE PERSPECTIVE: CUSTOMS & COMPLIANCE",
+        "quoteText": "\"Customs friction costs global commerce more than ocean transit delays ever will.\"",
+        "author": "\u2014 World Trade Organization (WTO), Trade Facilitation Policy Division",
+        "context": "Domain: Customs & Compliance"
     }
 };
