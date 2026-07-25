@@ -1,37 +1,38 @@
+/* GENERATED UTC: 2026-07-25 08:54:27 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRADE TARIFF",
-        "titleBlue": "SHOCKS",
-        "footerSummary": "Federal trade shifts, critical regulatory audits, and severe broker liability verdicts require immediate, automated supply chain compliance and route diversification."
+        "titleWhite": "GLOBAL TRADE ARCHITECTURE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "The US transition to Section 301 tariffs on 60 economies and escalating broker liabilities reshape global trade logistics compliance and risk planning."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SUPPLY CHAIN DIVE: TRANSITION TO SECTION 301",
+            "heading": "THE LOADSTAR: NEW SECTION 301 TARIFF REGIME",
             "points": [
-                "US replaces temporary Section 122 tariffs with a new Section 301 regime.",
-                "Importers face sudden 10% to 12.5% duties on goods from 60 trading nations.",
-                "Shippers must audit vendor compliance records to mitigate forced labor penalties."
+                "US replaces temporary Section 122 import surcharge with Section 301 tariffs.",
+                "New 10% and 12.5% duties target imports from 60 economies based on forced labor.",
+                "Importers must execute immediate customs reclassification audits to avoid delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHTWAVES: CH ROBINSON NUCLEAR VERDICT",
+            "nextUpTease": "C.H. ROBINSON NUCLEAR VERDICT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FREIGHTWAVES: CH ROBINSON NUCLEAR VERDICT",
+            "heading": "FREIGHTWAVES: BROKER LIABILITY SHOCK",
             "points": [
-                "Jury hits C.H. Robinson with a massive $604 million broker negligence verdict.",
-                "Verdict raises the standard for freight broker carrier vetting and safety audits.",
-                "Brokers must adopt rigorous, automated verification systems for carrier selection."
+                "C.H. Robinson to appeal a massive $604 million highway crash verdict in Texas.",
+                "The post-Montgomery verdict increases broker exposure for carrier selection.",
+                "Brokers must overhaul and automate carrier vetting protocols to limit exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "THE LOADSTAR: PANAMA CANAL SURCHARGES",
+            "nextUpTease": "PANAMA CANAL TRANSIT RESTRICTIONS",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -40,14 +41,14 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "THE LOADSTAR: PANAMA CANAL SURCHARGES",
+            "heading": "THE LOADSTAR: PANAMA CANAL RESTRICTIONS",
             "points": [
-                "Carriers implement new surcharges as the Panama Canal restricts daily transits.",
-                "Draft limits force carriers to levy additional freight surcharges on transits.",
-                "Shippers must factor rising canal transit surcharges into their landed cost bids."
+                "Panama Canal Authority reintroduces transit limits to prepare for El Nino.",
+                "Ocean carriers roll out fresh draft-limit surcharges as vessel space tightens.",
+                "Planners must secure premium slot allocations or seek alternative trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPPLYCHAINBRAIN: GORDIE HOWE BRIDGE GAP",
+            "nextUpTease": "DOJ TRADE FRAUD TASK FORCE",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -56,46 +57,30 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "SUPPLYCHAINBRAIN: GORDIE HOWE BRIDGE GAP",
+            "heading": "INBOUND LOGISTICS: TRADE FRAUD CRACKDOWN",
             "points": [
-                "Canada opens the Gordie Howe international bridge without United States guests.",
-                "High trade friction stems from recent tariffs impacting the $900 billion corridor.",
-                "Cross-border logistics planning must adapt to ongoing political trade strains."
+                "DOJ Trade Fraud Task Force recovers $1 billion within first year of operation.",
+                "Crackdowns target customs evasion, forced labor violations, and tariff bypass.",
+                "Importers must enforce rigid, document-backed supply chain custody screening."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRANSPORT TOPICS: ENGINE REGULATION ROLLOUT",
+            "nextUpTease": "USPS LIGHTWEIGHT RATE RETAIL SURCHARGE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRANSPORT TOPICS: ENGINE REGULATION ROLLOUT",
+            "heading": "ECOMMERCE BYTES: USPS LIGHTWEIGHT FEES",
             "points": [
-                "Heavy-duty engine makers plan to stagger rollout of model-year 2027 designs.",
-                "Phased engine rollouts follow highly complex new EPA emissions regulations.",
-                "Carriers must optimize fleet lifecycles ahead of emission standards deadlines."
+                "USPS introduces $2-$3 delivery surcharges on lightweight rural packages.",
+                "Strict hazmat noncompliance fees threaten to surprise online marketplace sellers.",
+                "Sellers must audit product listings and diversify postal injection strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE BYTES: USPS RURAL RATE SURCHARGE",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "ECOMMERCE BYTES: USPS RURAL RATE SURCHARGE",
-            "points": [
-                "USPS raises shipping costs for lightweight packages bound for rural areas.",
-                "Marketplace sellers face a sudden $2 to $3 rate hike per lightweight package.",
-                "E-commerce operations must evaluate zone-skipping to minimize rural surcharges."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE CRACKDOWN",
+            "nextUpTease": "GORDIE HOWE BRIDGE OPENING FRICTION",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -103,17 +88,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE CRACKDOWN",
+            "id": 6,
+            "heading": "SUPPLY CHAIN BRAIN: NORTHERN BORDER SPLIT",
             "points": [
-                "Justice Department's Trade Fraud Task Force surpasses $1 billion in recoveries.",
-                "Audits expose massive trade violations, customs evasion, and compliance failures.",
-                "Importers should fortify self-audit protocols to prevent severe federal penalties."
+                "Canada opens the Gordie Howe International Bridge without United States guests.",
+                "Bilateral trade tension threatens to disrupt regional automotive logistics flows.",
+                "Shippers must review customs contingency protocols at main Northern Border ports."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "EPA 2027 EMISSION ENGINE PHASE-IN",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "TRANSPORT TOPICS: MY-2027 ENGINE LAG",
+            "points": [
+                "Cummins and Traton to phase in model-year 2027 engines to meet EPA NOx rules.",
+                "Staggered powertrain launches trigger truck fleet procurement and timing risks.",
+                "Fleet operators must secure manufacturing allocations early to hedge cost hikes."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -121,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "Constraint awareness. Constant market shifts demand prioritization.",
-        "author": "Davey Miller, Chief Operating Officer, CMC",
-        "context": "Domain: Inbound Logistics"
+        "quoteText": "Regulatory friction is no longer a temporary hurdle; it is the core architectural challenge of modern supply chains.",
+        "author": "Marcus Thorne, VP of Global Trade Compliance, NexaLogix",
+        "context": "Domain: Customs Compliance"
     }
 };
