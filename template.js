@@ -1,120 +1,120 @@
-/* GENERATED UTC: 2026-07-25 18:40:08 */
+/* GENERATED UTC: 2026-07-25 18:57:59 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF",
-        "titleBlue": "RESTRUCTURING",
-        "footerSummary": "The U.S. has replaced temporary Section 122 surcharges with a new Section 301 tariff regime impacting 60 economies, forcing immediate supply chain compliance audits."
+        "titleWhite": "GLOBAL TRADE TARIFF SHIFTS",
+        "titleBlue": "RECALIBRATION",
+        "footerSummary": "New U.S. Section 301 tariffs on 60 economies replace Section 122 duties, triggering widespread compliance re-evaluations and immediate operational friction for importers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SUPPLY CHAIN DIVE: TARIFF REGIME SHIFT",
+            "heading": "SUPPLY CHAIN DIVE: USTR TARIFF EXPANSION",
             "points": [
-                "U.S. implements 10-12.5% tariffs on 60 trading partners via Section 301.",
-                "New levies replace expiring Section 122 surcharges as of Friday.",
-                "Importers must rapidly update landing cost models to account for duties."
+                "USTR enacts new 10% to 12.5% tariffs on 60 trading nations for forced labor issues.",
+                "Duty implementation coincides with the expiration of previous Section 122 levies.",
+                "Importers face immediate landed cost volatility and urgent customs audit cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRANSPORT TOPICS: LTL CAPACITY",
+            "nextUpTease": "LOGISTICS: RATE VOLATILITY",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FREIGHTWAVES: TRUCKING RATE PRESSURE",
+            "heading": "FREIGHTWAVES: TRUCKING CAPACITY CRUNCH",
             "points": [
-                "Trucking capacity tightens as carrier closures and driver rules impact supply.",
-                "Rates hold near record highs despite volume volatility in secondary lanes.",
-                "Shippers face reduced maneuverability and rising costs for 2027 contract bids."
+                "Record-high freight rates persist as trucking capacity tightens across US networks.",
+                "Driver supply is restricted by compounding new regulatory compliance requirements.",
+                "Shippers must pivot to higher-cost intermodal or specialized carrier lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOADSTAR: OCEAN RATE CAPACITY",
+            "nextUpTease": "FMC: SHIPPER REGULATION",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "THE LOADSTAR: CONTAINER RATE TRENDS",
+            "heading": "FEDERAL MARITIME COMMISSION: DETAIN FEES",
             "points": [
-                "Capacity discipline by ocean carriers is currently slowing spot rate declines.",
-                "East-West trades see new ULCV deliveries injecting volume amid peak season.",
-                "Importers face ongoing uncertainty due to trans-Pacific tariff fluctuations."
+                "US Court of Appeals validates FMC mandate that detention fees must aid fluidity.",
+                "Shipping lines face stricter oversight regarding billing practices and transparency.",
+                "Legal precedents now empower shippers to contest predatory port-related charges."
             ],
             "imageUrl": "",
-            "nextUpTease": "JOURNAL OF COMMERCE: INFRASTRUCTURE",
+            "nextUpTease": "TECHNOLOGY: EDI BOTTLENECKS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "JOC: LOGISTICS HUB FEDERAL FUNDING",
+            "heading": "TRANSPORT TOPICS: EDI INTEGRATION RISK",
             "points": [
-                "New federal funding targets infrastructure at three key TradePort corridor hubs.",
-                "Investment aims to improve connectivity within the U.S. logistics network.",
-                "Long-term bid stability depends on reliable intermodal infrastructure capacity."
+                "Heavy reliance on customized EDI integrations is creating critical data bottlenecks.",
+                "System fragmentation prevents real-time visibility for multi-carrier logistics.",
+                "Enterprises are shifting toward standardized, AI-orchestrated communication layers."
             ],
             "imageUrl": "",
-            "nextUpTease": "CNBC: TECH AI SPENDING",
+            "nextUpTease": "INFRASTRUCTURE: FED FUNDING",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CNBC: AI SPENDING CREDIT RISK",
+            "heading": "JOURNAL OF COMMERCE: LOGISTICS HUBS",
             "points": [
-                "Moody\u2019s warns excessive AI capex threatens credit quality of tech megacaps.",
-                "Bond market anxiety rises regarding high-cost operational investment budgets.",
-                "Investors scrutinize the 'sell chips, buy software' shift during earnings."
+                "Federal capital injection confirmed for three key nodes in TradePort Corridor.",
+                "Infrastructure investment aims to stabilize regional freight movement for 2027.",
+                "Localized buildouts may alter standard carrier routing strategies significantly."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS MGMT: LABOR SURVEY",
+            "nextUpTease": "CARRIER LAW: LEGAL LIABILITY",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LOGISTICS MGMT: SALARY REBOUND",
+            "heading": "THE LOADSTAR: CARRIER LIABILITY SHOCK",
             "points": [
-                "Logistics salaries rose to an average of $126,400 in the 2026 industry survey.",
-                "Professionals now manage broader roles in risk, tech, and enterprise strategy.",
-                "Increased visibility signals a shift toward strategic supply chain leadership."
+                "C.H. Robinson faces $604M verdict in landmark negligent carrier selection case.",
+                "Industry standard for broker vetting faces immediate legal and insurance crisis.",
+                "Brokers must overhaul third-party compliance to mitigate future nuclear verdicts."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRANSPORT TOPICS: ENGINE RULES",
+            "nextUpTease": "RISK: MIDDLE EAST DISRUPTION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRANSPORT TOPICS: EPA EMISSION RULES",
+            "heading": "CNBC: RED SEA TRADE CORRIDOR RISK",
             "points": [
-                "International considers phasing in 2027-compliant engines due to NOx rules.",
-                "Original Equipment Manufacturers face production hurdles for new engine specs.",
-                "Fleets must prepare for higher acquisition costs of upgraded equipment units."
+                "Strait of Hormuz traffic projected to face severe disruption for 12+ months.",
+                "Escalating regional conflicts threaten critical energy and maritime supply routes.",
+                "Carriers are rerouting assets to avoid conflict zones, driving up global premiums."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY: QUOTE UNQUOTE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,7 +122,7 @@ const dailyData = {
     ],
     "quote": {
         "heading": "DAILY: QUOTE UNQUOTE",
-        "quoteText": "Constraint awareness. Constant market shifts demand prioritization and creative workarounds.",
+        "quoteText": "Constant market shifts demand prioritization and creative workarounds. Effective leaders target the biggest bottlenecks rather than perfecting every link.",
         "author": "Davey Miller, Chief Operating Officer, CMC",
         "context": "Domain: Inbound Logistics"
     }
