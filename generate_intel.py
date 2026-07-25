@@ -54,12 +54,12 @@ def rotate_trackers():
     with open("bg_tracker.txt", "w", encoding="utf-8") as f:
         f.write(str(bg_index))
 
-    # Rotate quote tracker (0 to 9)
+    # Rotate quote tracker (0 to 59 for the new 60-quote txt library)
     q_index = 0
     if os.path.exists("quote_tracker.txt"):
         try:
             with open("quote_tracker.txt", "r", encoding="utf-8") as f:
-                q_index = (int(f.read().strip()) + 1) % 10
+                q_index = (int(f.read().strip()) + 1) % 60
         except Exception:
             q_index = 0
     with open("quote_tracker.txt", "w", encoding="utf-8") as f:
@@ -137,6 +137,34 @@ def main():
             print("Duplicate news feed detected in registry. Halting execution to avoid redundancy.")
             return
 
+    # --- QUOTE SYNC: Read 60-quote master list from quote.txt and extract current active index payload ---
+    q_index = 0
+    if os.path.exists("quote_tracker.txt"):
+        try:
+            with open("quote_tracker.txt", "r", encoding="utf-8") as tf:
+                q_index = int(tf.read().strip())
+        except Exception:
+            q_index = 0
+
+    active_quote_lines = [
+        "EXECUTIVE PERSPECTIVE: SUPPLY CHAIN RESILIENCE",
+        "Supply chain resilience is no longer a luxury; it is primary corporate survival.",
+        "— World Economic Forum, Global Risks Report",
+        "Domain: Supply Chain Resilience"
+    ]
+
+    if os.path.exists("quote.txt"):
+        try:
+            with open("quote.txt", "r", encoding="utf-8") as qf:
+                content = qf.read().strip()
+                # Split blocks separated by double newlines or blocks of 4 lines
+                blocks = [b.strip() for b in content.split("\n\n") if b.strip()]
+                if len(blocks) >= 10: # If it's the full 60-quote master file
+                    selected_block = blocks[q_index % len(blocks)]
+                    active_quote_lines = [line.strip() for line in selected_block.split("\n") if line.strip()]
+        except Exception:
+            pass
+
     final_input = f"{prompt_base}\n\n[EXECUTION TIMESTAMP UTC]: {utc_now_str}\n\n[LATEST LIVE DATA]:\n{data}"
     
     for model in MODEL_PRIORITY:
@@ -157,59 +185,25 @@ def main():
             if not raw_text.startswith('{'): raw_text = '{' + raw_text
             if not raw_text.endswith('}'): raw_text = raw_text + '}'
             
-            # --- VALIDATION & STRUCTURAL EXTRACTION: Ensure generated text parses correctly and splits quote data ---
+            # --- VALIDATION & STRUCTURAL EXTRACTION ---
             parsed_payload = json.loads(raw_text)
             
             # Extract content paths from the structured JSON schema safely
             slides_data_obj = parsed_payload.get("slides_data", parsed_payload)
-            
-            # --- FIX: Synchronize with quote.js library using quote_tracker.txt index ---
             slides_list = slides_data_obj.get("slides", [])
-            extracted_quote = {}
-            q_index = 0
-            
-            if os.path.exists("quote_tracker.txt"):
-                try:
-                    with open("quote_tracker.txt", "r", encoding="utf-8") as tf:
-                        q_index = int(tf.read().strip())
-                except Exception:
-                    q_index = 0
 
-            if os.path.exists("quote.js"):
-                try:
-                    with open("quote.js", "r", encoding="utf-8") as qf:
-                        qf_content = qf.read()
-                        match = re.search(r'\[.*\]', qf_content, re.DOTALL)
-                        if match:
-                            quote_array = json.loads(match.group(0))
-                            if quote_array and len(quote_array) > 0:
-                                selected_q = quote_array[q_index % len(quote_array)]
-                                extracted_quote = {
-                                    "heading": selected_q.get("heading", "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION"),
-                                    "quoteText": selected_q.get("quoteText", selected_q.get("quote", "")),
-                                    "author": selected_q.get("author", ""),
-                                    "context": selected_q.get("context", selected_q.get("title", ""))
-                                }
-                except Exception:
-                    pass
+            # Format extracted quote cleanly for front-end template consumption
+            extracted_quote = {
+                "heading": active_quote_lines[0] if len(active_quote_lines) > 0 else "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
+                "quoteText": active_quote_lines[1] if len(active_quote_lines) > 1 else "",
+                "author": active_quote_lines[2] if len(active_quote_lines) > 2 else "",
+                "context": active_quote_lines[3] if len(active_quote_lines) > 3 else ""
+            }
 
             cleaned_slides = []
-            if not extracted_quote.get("quoteText"):
-                for s in slides_list:
-                    if s.get("id") == 8 or "EXECUTIVE PERSPECTIVE" in s.get("heading", ""):
-                        points = s.get("points", ["", "", ""])
-                        extracted_quote = {
-                            "heading": s.get("heading", "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION"),
-                            "quoteText": points[0].strip('"'),
-                            "author": points[1].replace("—", "").strip(),
-                            "context": points[2].replace("Context:", "").strip()
-                        }
-                    else:
-                        cleaned_slides.append(s)
-            else:
-                for s in slides_list:
-                    if s.get("id") != 8 and "EXECUTIVE PERSPECTIVE" not in s.get("heading", ""):
-                        cleaned_slides.append(s)
+            for s in slides_list:
+                if s.get("id") != 8 and "EXECUTIVE PERSPECTIVE" not in s.get("heading", ""):
+                    cleaned_slides.append(s)
             
             slides_data_obj["slides"] = cleaned_slides
             slides_data_obj["quote"] = extracted_quote
