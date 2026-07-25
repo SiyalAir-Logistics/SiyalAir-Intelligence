@@ -1,70 +1,38 @@
-/* GENERATED UTC: 2026-07-25 14:59:13 */
+/* GENERATED UTC: 2026-07-25 15:07:34 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRADE POLICY SHOCKS",
-        "titleBlue": "INTENSIFY",
-        "footerSummary": "The US transition to Section 301 tariffs and escalating $604 million broker liabilities represent a high-friction realignment of global supply chain compliance."
+        "titleWhite": "TRADE TARIFFS SHAKE GLOBAL",
+        "titleBlue": "LOGISTICS",
+        "footerSummary": "New U.S. Section 301 tariffs on 60 economies trigger immediate legal challenges. Meanwhile, capacity injections in East-West lanes stabilize rising spot rate volatility."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "THE LOADSTAR: NEW SECTION 301 TARIFFS",
+            "heading": "USTR: NEW SECTION 301 TARIFF REGIME",
             "points": [
-                "US replaces temporary Section 122 surcharge with permanent Section 301 tariffs.",
-                "New 10% to 12.5% duties target imports from 60 economies starting July 24, 2026.",
-                "Importers must audit customs entries immediately to mitigate tariff-rate shocks."
+                "USTR implements new duties on 60 nations, replacing temporary Section 122 levies.",
+                "Duty structures shift to 10-12.5% targeting forced labor enforcement commitments.",
+                "Importers must recalibrate landed cost models immediately to avoid compliance gaps."
             ],
             "imageUrl": "",
-            "nextUpTease": "BROKER NEGLIGENT LIABILITY",
+            "nextUpTease": "CARRIER CAPACITY INJECTION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ustr.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRANSPORT TOPICS: $604M NEGLIGENT VERDICT",
+            "heading": "THE LOADSTAR: ULCV CAPACITY INJECTION",
             "points": [
-                "Jury hands down $604 million verdict against C.H. Robinson for fatal truck crash.",
-                "Ruling sets extreme legal precedent for negligent carrier selection by brokerages.",
-                "Shippers and 3PLs must drastically tighten motor carrier vetting frameworks."
+                "East-West trades see surge in capacity via large newbuild containership deliveries.",
+                "Added supply softens spot rate spikes on Asia-US East Coast and Europe routes.",
+                "Operational reliance on blank sailings persists as a primary carrier margin tactic."
             ],
             "imageUrl": "",
-            "nextUpTease": "PEAK SEASON FEES",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "SUPPLY CHAIN DIVE: FEDEX PEAK FEES SURGE",
-            "points": [
-                "FedEx announces heavy peak season fee increases and home delivery rate hikes.",
-                "Shippers face elevated demand surcharges across the entire domestic US network.",
-                "Logistics managers should lock in volume commitments early to contain cost spikes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL RESTRICTIONS",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "THE LOADSTAR: PANAMA CANAL TRANSIT LIMITS",
-            "points": [
-                "Panama Canal Authority prepares for El Nino with immediate transit restrictions.",
-                "Draft limit reductions and daily slots force ocean carriers to add new surcharges.",
-                "Importers should prepare to shift East Coast cargo to West Coast rail corridors."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "SEMICONDUCTOR ONWARD EXPANSION",
+            "nextUpTease": "CH. ROBINSON LITIGATION",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -72,15 +40,47 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "SUPPLY CHAIN DIVE: TSMC $100B US EXPANSION",
+            "id": 3,
+            "heading": "FREIGHTWAVES: NUCLEAR VERDICT IMPACT",
             "points": [
-                "TSMC commits another $100 billion to construct four advanced semiconductor plants.",
-                "The expansion brings the manufacturer's total US facility count to twelve.",
-                "Deep domestic chip supply chain integration will stabilize high-tech logistics."
+                "C.H. Robinson appeals $604M jury verdict in a fatal 2021 carrier selection case.",
+                "Legal ruling sets aggressive precedent for broker liability in carrier vetting.",
+                "Strategic audit of third-party carrier compliance protocols is now mandatory."
             ],
             "imageUrl": "",
-            "nextUpTease": "APEX LOGISTICS DIVESTMENT",
+            "nextUpTease": "PANAMA CANAL RESTRICTIONS",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "JOC: PANAMA CANAL TRANSIT LIMITS",
+            "points": [
+                "ACP reinstates transit restrictions ahead of projected El Ni\u00f1o weather impacts.",
+                "Draft limits expected to drive up surcharges on US East Coast inbound freight.",
+                "Supply chain planners must shift routing contingencies to Pacific West ports."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AUTOMATION & LABOR RISK",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "SUPPLY CHAIN DIVE: LABOR AUTOMATION",
+            "points": [
+                "Warehouse worker turnover remains a critical threat to continuous operations.",
+                "AI-driven labor management tools are being deployed to mitigate service gaps.",
+                "Prioritize software-driven orchestration to scale capacity amid labor shortages."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO CONTRACT SHIFT",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -89,32 +89,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "TRANSPORT TOPICS: APEX LOGISTICS STRATEGY",
+            "heading": "AIR CARGO NEWS: CONTRACT VOLATILITY",
             "points": [
-                "Kuehne+Nagel explores the potential sale of a stake in its Apex Logistics unit.",
-                "The move signals a shift in air freight forwarder consolidation and asset focus.",
-                "Global shippers must monitor joint-venture transitions to protect air capacity."
+                "Annual air freight contracts face pressure in a tightening rate environment.",
+                "Spot rate cooling creates a misalignment between shipper and carrier incentives.",
+                "Short-term agility is favored over rigid long-term block space agreements."
             ],
             "imageUrl": "",
-            "nextUpTease": "ALUMINUM TARIFF REDUCTIONS",
+            "nextUpTease": "CHINA MARITIME CODE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.cargonews.net",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SUPPLY CHAIN DIVE: ONSHORING TARIFF CUTS",
+            "heading": "THE LOADSTAR: CHINA MARITIME CODE",
             "points": [
-                "US offers to cut aluminum import duties in half for local production guarantees.",
-                "To qualify for the 50% tariff relief, companies must expand capacity by 2029.",
-                "Industrial supply chains face rapid restructuring to capture the tariff relief."
+                "Revised Maritime Code creates legal complexities for carriers and NVOCCs.",
+                "Article 295 updates increase exposure to litigation regarding cargo handling.",
+                "Standardize legal risk assessments for all documentation on China-outbound lanes."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "We are transitioning from cost-optimized logistics to risk-hedged, politically constrained supply networks.",
-        "author": "Soren Toft, CEO of MSC",
-        "context": "Domain: https://www.fmc.gov"
+        "quoteText": "Volatility is no longer an anomaly; it is the baseline operational condition that demands architectural resilience in every link of the supply chain.",
+        "author": "Logistics Management Editorial Team, Senior Analysis Desk",
+        "context": "Domain: https://www.logisticsmgmt.com"
     }
 };
