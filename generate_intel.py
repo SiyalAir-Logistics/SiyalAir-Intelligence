@@ -163,22 +163,53 @@ def main():
             # Extract content paths from the structured JSON schema safely
             slides_data_obj = parsed_payload.get("slides_data", parsed_payload)
             
-            # --- FIX: Isolate executive quote slide from standard core slides array ---
+            # --- FIX: Synchronize with quote.js library using quote_tracker.txt index ---
             slides_list = slides_data_obj.get("slides", [])
             extracted_quote = {}
-            cleaned_slides = []
+            q_index = 0
             
-            for s in slides_list:
-                if s.get("id") == 8 or "EXECUTIVE PERSPECTIVE" in s.get("heading", ""):
-                    points = s.get("points", ["", "", ""])
-                    extracted_quote = {
-                        "heading": s.get("heading", "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION"),
-                        "quoteText": points[0].strip('"'),
-                        "author": points[1].replace("—", "").strip(),
-                        "context": points[2].replace("Context:", "").strip()
-                    }
-                else:
-                    cleaned_slides.append(s)
+            if os.path.exists("quote_tracker.txt"):
+                try:
+                    with open("quote_tracker.txt", "r", encoding="utf-8") as tf:
+                        q_index = int(tf.read().strip())
+                except Exception:
+                    q_index = 0
+
+            if os.path.exists("quote.js"):
+                try:
+                    with open("quote.js", "r", encoding="utf-8") as qf:
+                        qf_content = qf.read()
+                        match = re.search(r'\[.*\]', qf_content, re.DOTALL)
+                        if match:
+                            quote_array = json.loads(match.group(0))
+                            if quote_array and len(quote_array) > 0:
+                                selected_q = quote_array[q_index % len(quote_array)]
+                                extracted_quote = {
+                                    "heading": selected_q.get("heading", "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION"),
+                                    "quoteText": selected_q.get("quoteText", selected_q.get("quote", "")),
+                                    "author": selected_q.get("author", ""),
+                                    "context": selected_q.get("context", selected_q.get("title", ""))
+                                }
+                except Exception:
+                    pass
+
+            cleaned_slides = []
+            if not extracted_quote.get("quoteText"):
+                for s in slides_list:
+                    if s.get("id") == 8 or "EXECUTIVE PERSPECTIVE" in s.get("heading", ""):
+                        points = s.get("points", ["", "", ""])
+                        extracted_quote = {
+                            "heading": s.get("heading", "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION"),
+                            "quoteText": points[0].strip('"'),
+                            "author": points[1].replace("—", "").strip(),
+                            "context": points[2].replace("Context:", "").strip()
+                        }
+                    else:
+                        cleaned_slides.append(s)
+            else:
+                for s in slides_list:
+                    if s.get("id") != 8 and "EXECUTIVE PERSPECTIVE" not in s.get("heading", ""):
+                        cleaned_slides.append(s)
             
             slides_data_obj["slides"] = cleaned_slides
             slides_data_obj["quote"] = extracted_quote
