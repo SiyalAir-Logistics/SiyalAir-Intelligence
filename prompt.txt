@@ -97,7 +97,7 @@ Global supply chain architecture is shifting toward deep transactional autonomy,
 07 / [TITLE 7]
 [One-sentence premium summary of signal 07].
 
-✦ ━━━━━━ DAILY EXECUTIVE PERSPECTIVE ━━━━━━ ✦
+✦ ━━━━━━ DAILY: QUOTE UNQUOTE ━━━━━━ ✦
 "[Exact Sequential Quote String from quote.js]"
 — [Author], [Title]
 
@@ -205,12 +205,12 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
           "[The Strategic Horizon: Forward-looking decision takeaway, max 85 chars]"
         ],
         "imageUrl": "",
-        "nextUpTease": "EXECUTIVE PERSPECTIVE",
+        "nextUpTease": "DAILY: QUOTE UNQUOTE",
         "tags": ["Source: [Domain Root URL]", "Published: Last 48 Hours", "Status: Audited & True"]
       },
       {
         "id": 8,
-        "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
+        "heading": "DAILY: QUOTE UNQUOTE",
         "points": [
           "\"[Exact quote string pulled sequentially from quote.js based on current tracker index]\"",
           "— [Author from quote.js], [Title from quote.js]",
