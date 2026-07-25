@@ -1,120 +1,120 @@
-/* GENERATED UTC: 2026-07-25 17:17:54 */
+/* GENERATED UTC: 2026-07-25 17:18:13 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL SUPPLY CHAIN",
-        "titleBlue": "SHOCKS",
-        "footerSummary": "The structural shift to Section 301 tariffs and regional carrier liability verdicts signals a new era of severe regulatory friction."
+        "titleWhite": "GLOBAL TRADE ARCHITECTURE",
+        "titleBlue": "DECOUPLING",
+        "footerSummary": "Importers face sudden regulatory friction as the US transitions to a strict 60-nation forced labor tariff framework, driving compliance costs upward."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFF TRANSITION",
+            "heading": "C.H. ROBINSON: NUCLEAR VERDICT APPEAL",
             "points": [
-                "US replaces temporary Section 122 surcharge with permanent Section 301 duties.",
-                "Importers face immediate 10% to 12.5% tariffs across sixty trading partners.",
-                "Shippers must audit vendor lists immediately to mitigate regulatory friction."
+                "Broker appeals a historic $604 million jury verdict from a Mississippi highway crash.",
+                "Ruling raises legal standards for third-party carrier vetting across all US brokers.",
+                "Shippers must audit broker compliance to mitigate secondary liability exposures."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON VERDICT",
+            "nextUpTease": "60-NATION TARIFF SYSTEM SHIFT",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "COURT: C.H. ROBINSON NEGLIGENT VERDICT",
+            "heading": "USTR: 60-NATION TARIFF SYSTEM SHIFT",
             "points": [
-                "Mississippi jury hits logistics giant with a historic $604 million crash ruling.",
-                "Broker liability standard raised significantly for carrier vetting procedures.",
-                "Freight brokers must deploy automated compliance and real-time safety checks."
+                "US replaces temporary Section 122 surcharges with a new Section 301 tariff regime.",
+                "Imports from 60 countries face 10% to 12.5% duties based on forced labor metrics.",
+                "Importers must reclassify trade origins to avoid immediate customs entry delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC SEMICONDUCTOR EXPANSION",
+            "nextUpTease": "TRADE FRAUD TASK FORCE CRACKDOWN",
             "tags": [
-                "Source: freightwaves.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TSMC: $100B US CHIP EXPANSION",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE CRACKDOWN",
             "points": [
-                "Tech giant commits massive funding to build four additional US silicon fabs.",
-                "Total planned facilities rise to twelve to satisfy domestic supply chain goals.",
-                "Long-term tech supply chain strategies pivot toward complete domestic reliance."
+                "Justice Department Trade Fraud Task Force surpasses $1 billion in total recoveries.",
+                "Enhanced enforcement targets customs evasion, illegal transshipment, and duty fraud.",
+                "Importers must implement rigorous audit trails to withstand federal trade scrutiny."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADA IMPORT TARIFFS",
+            "nextUpTease": "INLAND CHASSIS DEFICIT EMERGING",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "US: 50% CANADA IMPORT TARIFFS",
+            "heading": "JOC: INLAND CHASSIS DEFICIT EMERGING",
             "points": [
-                "Section 338 duties slap 50% tariff on a wide array of Canadian products.",
-                "Tariffs apply even if goods qualified for duty-free status under USMCA rules.",
-                "Supply chain leads must restructure cross-border sourcing models immediately."
+                "Rising trans-Pacific import volumes trigger container chassis gaps in Chicago hub.",
+                "Out-of-service equipment spikes dwell times for intermodal rail-to-truck moves.",
+                "BCOs should secure dedicated equipment agreements to avoid demurrage penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "LMI CAPACITY CRUNCH",
+            "nextUpTease": "RURAL SHIPPING RATE SURGES",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LMI: WAREHOUSE NETWORK CAPACITY CRUNCH",
+            "heading": "USPS: RURAL SHIPPING RATE SURGES",
             "points": [
-                "Logistics Managers Index climbs to 71.1 as warehouse demand outpaces supply.",
-                "Retailers accelerate early peak season importing to beat incoming trade tariffs.",
-                "Expect elevated industrial real estate rates through the end of the year."
+                "Postal Service increases shipping rates for lightweight packages to rural zones.",
+                "Shippers face an additional $2 to $3 cost spike per package on e-commerce routes.",
+                "Retailers must adjust baseline pricing or diversify final-mile carrier networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS RURAL RATE SURGE",
+            "nextUpTease": "PANAMA CANAL: TRANSIT LIMITS REIMPOSED",
             "tags": [
-                "Source: inboundlogistics.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "USPS: RURAL SHIPPING RATE SURGE",
+            "heading": "PANAMA CANAL: TRANSIT LIMITS REIMPOSED",
             "points": [
-                "Postal service adds a $2 to $3 surcharge on lightweight packages to rural zones.",
-                "Lightweight Ground Advantage items face immediate margins compression.",
-                "Multi-channel e-commerce brands must reassess last-mile regional carrier mix."
+                "Canal Authority prepares for El Ni\u00f1o with fresh vessel draft and transit curbs.",
+                "Draft restrictions limit container vessel payloads and drive slot allocation costs.",
+                "Carriers are adding heavy canal surcharges, requiring budget recalibrations."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL RESTRICTIONS",
+            "nextUpTease": "CNBC: HORMUZ TRAFFIC DELAYS EXTEND",
             "tags": [
-                "Source: ecommercebytes.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS RETURN",
+            "heading": "CNBC: HORMUZ TRAFFIC DELAYS EXTEND",
             "points": [
-                "Canal Authority reintroduces strict draft limits to prepare for El Ni\u00f1o.",
-                "Spot rates face immediate pressure as carriers implement heavy draft surcharges.",
-                "Ocean freight schedulers must prepare for multi-week route delays or bypasses."
+                "Escalating maritime conflicts in key trade choke points threaten global oil tankers.",
+                "Experts warn traffic patterns may not return to normal for 12 months or longer.",
+                "Supply chain planners must factor in prolonged transit detours and insurance hikes."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
