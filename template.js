@@ -1,120 +1,120 @@
-/* GENERATED UTC: 2026-07-25 13:14:34 */
+/* GENERATED UTC: 2026-07-25 13:22:36 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUPPLY CHAIN GEOPOLITICAL",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Global trade networks restructure as Section 301 tariffs target 60 nations and a $604M court ruling spikes freight broker liability."
+        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleBlue": "VOLATILITY",
+        "footerSummary": "New U.S. Section 301 tariffs on 60 economies replace expiring Section 122 levies, causing widespread importer uncertainty and shifting cross-border compliance requirements."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SUPPLY CHAIN DIVE: SECTION 301 TARIFFS",
+            "heading": "SUPPLY CHAIN DIVE: USTR TARIFF REALIGNMENT",
             "points": [
-                "US replaces Section 122 surcharges with Section 301 tariffs on 60 nations.",
-                "Importers face immediate 10% to 12.5% duties focused on forced labor compliance.",
-                "Shippers must audit vendor country-of-origin documentation to prevent seizures."
+                "USTR implements new 10-12.5% Section 301 tariffs on 60 trading partners.",
+                "Shift follows expiration of temporary Section 122 emergency duty measures.",
+                "Importers must recalibrate landed cost models against complex tariff schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHTWAVES: BROKER NEGLIGENCE JUDGMENT",
+            "nextUpTease": "C.H. ROBINSON VERDICT",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FREIGHTWAVES: BROKER NEGLIGENCE JUDGMENT",
+            "heading": "FREIGHTWAVES: NUCLEAR VERDICT IMPACT",
             "points": [
-                "Mississippi jury hits C.H. Robinson with a massive $604 million advisory verdict.",
-                "Ruling raises legal standards for broker carrier selection in negligent crash cases.",
-                "Brokers must implement real-time safety rating databases and automated exclusions."
+                "C.H. Robinson to appeal $604M jury verdict in negligent carrier selection case.",
+                "Legal ruling sets dangerous precedent for freight broker liability exposure.",
+                "Brokers face increased pressure to overhaul carrier vetting protocols immediately."
             ],
             "imageUrl": "",
-            "nextUpTease": "INBOUND LOGISTICS: TRADE FRAUD RECOVERIES",
+            "nextUpTease": "INTERNATIONAL ENGINE SHIFT",
             "tags": [
-                "Source: freightwaves.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INBOUND LOGISTICS: TRADE FRAUD RECOVERIES",
+            "heading": "TRANSPORT TOPICS: MY-2027 ENGINE DELAY",
             "points": [
-                "Justice Department Trade Fraud Task Force surpasses $1 billion in total recoveries.",
-                "Escalated enforcement targets customs evasion, illegal transshipment, and bypass.",
-                "Internal compliance audits must expand to mitigate catastrophic forfeiture risks."
+                "International mulls staggered introduction of EPA 2027 compliant truck engines.",
+                "Operational uncertainty rises regarding fleet procurement and maintenance cycles.",
+                "Industry monitors emissions compliance versus hardware availability bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: COURT UPHOLDS FLUIDITY RULES",
+            "nextUpTease": "PANAMA CANAL SURCHARGES",
             "tags": [
-                "Source: inboundlogistics.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FMC: COURT UPHOLDS FLUIDITY RULES",
+            "heading": "SUPPLY CHAIN DIVE: PANAMA CANAL FEES",
             "points": [
-                "US Court of Appeals upholds FMC decision linking detention fees to cargo fluidity.",
-                "Carriers are prohibited from billing demurrage during closed terminal windows.",
-                "Importers should leverage the OSRA charge complaint portal to claw back fees."
+                "MSC and CMA CGM introduce new surcharges due to Panama Canal draft limits.",
+                "Transit restrictions threaten to tighten capacity on major east-west corridors.",
+                "Shippers must adjust contingency plans for rising trans-oceanic freight costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCEBYTES: RURAL GROUND SURCHARGES",
+            "nextUpTease": "US LOGISTICS FUNDING",
             "tags": [
-                "Source: fmc.gov",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ECOMMERCEBYTES: RURAL GROUND SURCHARGES",
+            "heading": "JOC: LOGISTICS HUB INFRASTRUCTURE",
             "points": [
-                "USPS raises lightweight package delivery rates to rural zones by up to $3.",
-                "E-commerce merchants face immediate margin compression on low-value consumer parcels.",
-                "Retailers must pivot to hybrid multi-carrier regional distribution strategies."
+                "Federal funding boost allocated for critical US logistics hub network nodes.",
+                "Infrastructure investment targets increased throughput efficiency at 36 locations.",
+                "Projected long-term gains in intermodal fluidity despite current trade friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRANSPORT TOPICS: EDI DATA BOTTLENECKS",
+            "nextUpTease": "AMAZON B2B EXPANSION",
             "tags": [
-                "Source: ecommercebytes.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRANSPORT TOPICS: EDI DATA BOTTLENECKS",
+            "heading": "ECOMMERCEBYTES: AMAZON B2B PUSH",
             "points": [
-                "Highly customized legacy EDI integrations create severe data exchange bottlenecks.",
-                "Rigid data structures delay crucial load tenders and real-time visibility feeds.",
-                "Supply chain leaders must mandate API-first frameworks to replace static protocols."
+                "Amazon scales B2B conference to integrate third-party sellers into business sales.",
+                "Platform expansion aims to capture greater market share from traditional B2B.",
+                "Sellers face new operational requirements for business-grade fulfillment metrics."
             ],
             "imageUrl": "",
-            "nextUpTease": "THE LOADSTAR: PANAMA CANAL RESTRICTIONS",
+            "nextUpTease": "TSMC SEMICONDUCTOR INVESTMENT",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "THE LOADSTAR: PANAMA CANAL RESTRICTIONS",
+            "heading": "SUPPLY CHAIN DIVE: TSMC CAPEX EXPANSION",
             "points": [
-                "Panama Canal Authority enforces strict draft restrictions as El Nino looms.",
-                "Reduced vessel capacity triggers sudden ocean carrier transit surcharge rollouts.",
-                "Shippers must transition to West Coast port routing and domestic intermodal rail."
+                "TSMC commits $100B for four additional advanced U.S. semiconductor facilities.",
+                "Total domestic footprint grows to 12 facilities, bolstering chip supply chains.",
+                "Infrastructure buildout signifies long-term commitment to U.S. tech resilience."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "In a tariff-disrupted market, static routing is operational suicide; dynamic diversification is the only path forward.",
-        "author": "Marcus Alvarez, Chief Supply Chain Officer",
-        "context": "Domain: Maritime & Air Freight"
+        "quoteText": "Volatility is no longer a temporary state; it is the new baseline for global supply chain strategy.",
+        "author": "James Ferry, Senior Supply Chain Strategist, Global Logistics Monitor",
+        "context": "Domain: Global Trade & Economics"
     }
 };
