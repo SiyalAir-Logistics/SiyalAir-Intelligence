@@ -1,22 +1,22 @@
-/* GENERATED UTC: 2026-07-25 09:11:23 */
+/* GENERATED UTC: 2026-07-25 11:56:57 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE ROUTING",
-        "titleBlue": "ANOMALIES",
-        "footerSummary": "Searing tariff transitions, severe logistics liability verdicts, and systemic canal constraints demand instantaneous cross-border supply chain reconfiguration across all global trade lanes."
+        "titleWhite": "GLOBAL TRADE ARCHITECTURE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "New Section 301 tariffs on 60 economies and a $604 million broker liability verdict signal a high-friction landscape for global supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "THE LOADSTAR: SECTION 301 TARIFF OVERHAUL",
+            "heading": "USTR: NEW SECTION 301 TARIFFS ENFORCED",
             "points": [
-                "US replaces Section 122 surcharges with a broad Section 301 tariff regime.",
-                "New rules target imports from 60 economies, complicating duty classifications.",
-                "Importers must quickly audit country-of-origin files to avoid duty penalties."
+                "US replaces Section 122 surcharges with Section 301 tariffs across 60 economies.",
+                "New duties of 10% to 12.5% target countries based on forced labor commitments.",
+                "Importers must audit multi-tier supplier compliance to mitigate immediate duties."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON NUCLEAR VERDICT",
+            "nextUpTease": "COURT: CH ROBINSON HIT WITH $604M VERDICT",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -25,14 +25,14 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "FREIGHTWAVES: SHOCKING $604M LOGISTICS VERDICT",
+            "heading": "COURT: CH ROBINSON HIT WITH $604M VERDICT",
             "points": [
-                "Texas court issues a massive $604 million negligent carrier selection verdict.",
-                "Industry shares tumble as broker liability standards undergo a severe shift.",
-                "3PLs must rapidly upgrade and automate their carrier-vetting safety checks."
+                "Jury returns devastating $604 million verdict against C.H. Robinson in crash case.",
+                "Ruling dramatically raises the legal standard and liability for broker vetting.",
+                "Shippers must transition to rigorous, automated multi-point carrier vetting tech."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL TRANSIT LIMITS",
+            "nextUpTease": "DOJ: TRADE FRAUD RECOVERIES SURGE TO $1B",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -41,46 +41,30 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "THE LOADSTAR: PANAMA CANAL TRANSIT LIMITS",
+            "heading": "DOJ: TRADE FRAUD RECOVERIES SURGE TO $1B",
             "points": [
-                "Panama Canal Authority reintroduces strict transit restrictions due to El Nino.",
-                "Ocean carriers levy heavy draft surcharges, reducing global vessel slot capacity.",
-                "Freight forwarders should reroute East Coast cargo via West Coast intermodal links."
+                "DOJ Trade Fraud Task Force recovers $1 billion within 12 months of its launch.",
+                "Audits focus on customs evasion, misclassification, and forced labor violations.",
+                "Importers require rigorous trace evidence for all high-risk origin jurisdictions."
             ],
             "imageUrl": "",
-            "nextUpTease": "US-CANADA TARIFF ESCALATION",
+            "nextUpTease": "USPS: RURAL DELIVERY SURCHARGES IMPOSED",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SUPPLY CHAIN DIVE: US-CANADA TARIFF ESCALATION",
+            "heading": "USPS: RURAL DELIVERY SURCHARGES IMPOSED",
             "points": [
-                "US imposes severe 50% Section 338 tariffs on numerous Canadian imports.",
-                "Penalties override duty-free exemptions previously granted under USMCA terms.",
-                "Manufacturers must instantly audit and isolate Canadian raw material lines."
+                "USPS introduces $2 to $3 rate hikes on lightweight packages bound for rural zones.",
+                "E-commerce merchants face direct margin erosion on low-average order value items.",
+                "Retailers must optimize regional fulfillment hubs to limit final-mile zone lengths."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS LIGHTWEIGHT RATE HIKE",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "ECOMMERCEBYTES: USPS LIGHTWEIGHT RATE HIKE",
-            "points": [
-                "USPS implements new rate hikes on lightweight packages heading to rural areas.",
-                "Delivery costs for Ground Advantage items increase by $2 to $3 per parcel.",
-                "E-commerce merchants must revise shipping pricing formulas for remote ZIP codes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "STAGGERED ENGINE RELEASES",
+            "nextUpTease": "FMC: COURT UPHOLDS DETENTION FEE RULE",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -88,28 +72,44 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "TRANSPORT TOPICS: STAGGERED ENGINE RELEASES",
+            "id": 5,
+            "heading": "FMC: COURT UPHOLDS DETENTION FEE RULE",
             "points": [
-                "Engine manufacturers stagger release of model-year 2027 NOx-compliant units.",
-                "Fleet procurement plans face severe delays alongside rising acquisition costs.",
-                "Logistics networks must advance equipment replacement timelines to secure supply."
+                "U.S. Court of Appeals upholds FMC ruling on detention and demurrage guidelines.",
+                "Ocean carriers cannot assess fees unless they actively incentivize cargo fluidity.",
+                "Shippers must systematically dispute non-compliant invoice line items with the FMC."
             ],
             "imageUrl": "",
-            "nextUpTease": "CHICAGO INTERMODAL EQUIPMENT GAP",
+            "nextUpTease": "USMC: CANADA IMPORTS HIT WITH 50% TARIFF",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.fmc.gov",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "USMC: CANADA IMPORTS HIT WITH 50% TARIFF",
+            "points": [
+                "President imposes 50% Section 338 duties on a wide variety of Canadian imports.",
+                "Levies apply even to goods qualifying for duty-free status under the USMCA rules.",
+                "Logistics planners must prepare for severe disruptions across cross-border lanes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "JOC: HARDWARE SURGE BUOYS OCEAN LANS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "JOC: CHICAGO INTERMODAL EQUIPMENT GAP",
+            "heading": "JOC: HARDWARE SURGE BUOYS OCEAN LANS",
             "points": [
-                "Surge in West Coast ocean imports places heavy pressure on Midwest rail hubs.",
-                "Equipment gaps emerge in the Chicago chassis pool, elevating drayage turn times.",
-                "Shippers must lock in long-term chassis leases to guarantee inland container flow."
+                "Transpacific peak season ocean volumes are buoyed by data center hardware imports.",
+                "Massive infrastructure shipments mask underlying weakness in retail consumer goods.",
+                "Non-tech importers must lock in carrier capacity early to avoid seasonal spikes."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "The illusion of frictionless global trade has officially dissolved, replaced by a permanent state of geopolitical tariff navigation.",
-        "author": "Laura DiBella, Chairman, Federal Maritime Commission",
-        "context": "Domain: Regulatory & Maritime Compliance"
+        "quoteText": "Regulatory compliance is no longer a back-office cost center; it is the primary determinant of global network velocity.",
+        "author": "Marcus West, Managing Director of Global Trade Advisory",
+        "context": "Domain: Customs & Trade Compliance"
     }
 };
