@@ -1,54 +1,54 @@
-/* GENERATED UTC: 2026-07-25 18:28:22 */
+/* GENERATED UTC: 2026-07-25 18:40:08 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT SHOCKS & NEW",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "Section 301 tariffs on 60 nations and a $604M negligent carrier verdict drive extreme regulatory and operational friction across global networks."
+        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleBlue": "RESTRUCTURING",
+        "footerSummary": "The U.S. has replaced temporary Section 122 surcharges with a new Section 301 tariff regime impacting 60 economies, forcing immediate supply chain compliance audits."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: NEW SECTION 301 FORCED LABOR TARIFFS",
+            "heading": "SUPPLY CHAIN DIVE: TARIFF REGIME SHIFT",
             "points": [
-                "USTR replaces Section 122 surcharge with Section 301 tariffs on 60 economies.",
-                "Imports face immediate 10% to 12.5% duties based on forced labor metrics.",
-                "Shippers must audit multi-tier supplier compliance to avoid cargo seizures."
+                "U.S. implements 10-12.5% tariffs on 60 trading partners via Section 301.",
+                "New levies replace expiring Section 122 surcharges as of Friday.",
+                "Importers must rapidly update landing cost models to account for duties."
             ],
             "imageUrl": "",
-            "nextUpTease": "COURT: C.H. ROBINSON HIT WITH $604M VERDICT",
+            "nextUpTease": "TRANSPORT TOPICS: LTL CAPACITY",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "COURT: C.H. ROBINSON HIT WITH $604M VERDICT",
+            "heading": "FREIGHTWAVES: TRUCKING RATE PRESSURE",
             "points": [
-                "Mississippi jury delivers landmark negligent carrier selection broker verdict.",
-                "Award totals $604 million, raising the legal exposure threshold for global 3PLs.",
-                "Freight brokers must deploy automated, continuous carrier safety vetting systems."
+                "Trucking capacity tightens as carrier closures and driver rules impact supply.",
+                "Rates hold near record highs despite volume volatility in secondary lanes.",
+                "Shippers face reduced maneuverability and rising costs for 2027 contract bids."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACP: PANAMA CANAL RESTRICTIONS REINTRODUCED",
+            "nextUpTease": "LOADSTAR: OCEAN RATE CAPACITY",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ACP: PANAMA CANAL RESTRICTIONS REINTRODUCED",
+            "heading": "THE LOADSTAR: CONTAINER RATE TRENDS",
             "points": [
-                "Panama Canal Authority reinstates transit restrictions ahead of El Nino cycle.",
-                "Ocean carriers introduce fresh surcharges as draft limits constrain vessel space.",
-                "Logistics planners should route critical cargo to East Coast intermodal ports."
+                "Capacity discipline by ocean carriers is currently slowing spot rate declines.",
+                "East-West trades see new ULCV deliveries injecting volume amid peak season.",
+                "Importers face ongoing uncertainty due to trans-Pacific tariff fluctuations."
             ],
             "imageUrl": "",
-            "nextUpTease": "WHITE HOUSE: 50% TARIFFS SLAPPED ON CANADA",
+            "nextUpTease": "JOURNAL OF COMMERCE: INFRASTRUCTURE",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -57,59 +57,59 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "WHITE HOUSE: 50% TARIFFS SLAPPED ON CANADA",
+            "heading": "JOC: LOGISTICS HUB FEDERAL FUNDING",
             "points": [
-                "Section 338 duties apply to wide categories of Canadian goods crossing the border.",
-                "Tariffs hit select items even if they qualify for USMCA duty-free treatment.",
-                "Cross-border manufacturers must re-evaluate North American regional sourcing."
+                "New federal funding targets infrastructure at three key TradePort corridor hubs.",
+                "Investment aims to improve connectivity within the U.S. logistics network.",
+                "Long-term bid stability depends on reliable intermodal infrastructure capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: LIGHTWEIGHT RURAL SHIPPING COST SURGE",
+            "nextUpTease": "CNBC: TECH AI SPENDING",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "USPS: LIGHTWEIGHT RURAL SHIPPING COST SURGE",
+            "heading": "CNBC: AI SPENDING CREDIT RISK",
             "points": [
-                "Postal Service increases light package delivery rates to rural ZIPs by $2-$3.",
-                "E-commerce sellers face immediate margin erosion on low-cost lightweight items.",
-                "Retailers must diversify last-mile networks with regional parcel carriers."
+                "Moody\u2019s warns excessive AI capex threatens credit quality of tech megacaps.",
+                "Bond market anxiety rises regarding high-cost operational investment budgets.",
+                "Investors scrutinize the 'sell chips, buy software' shift during earnings."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS LISTING EYED",
+            "nextUpTease": "LOGISTICS MGMT: LABOR SURVEY",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "KUEHNE+NAGEL: APEX LOGISTICS LISTING EYED",
+            "heading": "LOGISTICS MGMT: SALARY REBOUND",
             "points": [
-                "Forwarder weighs selling a minority stake in its Apex Logistics business unit.",
-                "Dual path tracks strategic scale while testing market valuation for Asian flows.",
-                "Global shippers face potential space reallocation across transpacific air routes."
+                "Logistics salaries rose to an average of $126,400 in the 2026 industry survey.",
+                "Professionals now manage broader roles in risk, tech, and enterprise strategy.",
+                "Increased visibility signals a shift toward strategic supply chain leadership."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERNATIONAL: EPA 2027 NOx ENGINE STAGGER",
+            "nextUpTease": "TRANSPORT TOPICS: ENGINE RULES",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INTERNATIONAL: EPA 2027 NOx ENGINE STAGGER",
+            "heading": "TRANSPORT TOPICS: EPA EMISSION RULES",
             "points": [
-                "OEM to stagger introduction of new heavy-duty engines to meet emissions rules.",
-                "Compliance costs push fleet capital expenditures higher before the 2027 deadline.",
-                "Private fleet operators should accelerate pre-buying strategies for modern cabs."
+                "International considers phasing in 2027-compliant engines due to NOx rules.",
+                "Original Equipment Manufacturers face production hurdles for new engine specs.",
+                "Fleets must prepare for higher acquisition costs of upgraded equipment units."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY: QUOTE UNQUOTE",
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "DAILY: QUOTE UNQUOTE",
-        "quoteText": "Volatility is no longer an exception; it has become a structural feature of modern supply chains requiring algorithmic resilience.",
-        "author": "Prof. John Manners-Bell, Founder and CEO of Transport Intelligence",
-        "context": "Domain: Strategic Logistics"
+        "quoteText": "Constraint awareness. Constant market shifts demand prioritization and creative workarounds.",
+        "author": "Davey Miller, Chief Operating Officer, CMC",
+        "context": "Domain: Inbound Logistics"
     }
 };
