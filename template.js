@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "New Section 301 forced labor tariffs and a landmark $604 million carrier selection verdict dramatically elevate global compliance risks for supply chain operators."
+        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleBlue": "SURGE",
+        "footerSummary": "US trade shifts under new Section 301 tariffs on 60 economies replace Section 122, creating massive compliance complexity for global importers and logistics providers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TRANSITION",
+            "heading": "USTR: TARIFF REGIME SHIFT",
             "points": [
-                "USTR activates Section 301 tariffs on sixty nations to replace expiring Section 122 import surcharges immediately.",
-                "New ten and twelve point five percent duties target trading partners failing forced labor enforcement commitments.",
-                "Supply chain experts warn importers face complex administrative burdens navigating these newly implemented compliance rules.",
-                "Shippers must rapidly audit multi-tier supplier origins to mitigate exposure to escalating penalty and forfeiture actions."
+                "United States trade authorities have officially transitioned from Section 122 temporary surcharges to a rigorous new Section 301 tariff regime covering 60 global economies.",
+                "Imports are now subject to 10% or 12.5% duties based on specific forced labor enforcement commitments and new compliance mandates effective as of this Friday.",
+                "Supply chain professionals report immediate operational friction as custom brokers scramble to update landed cost calculations for cross-border cargo moving across all major trade lanes.",
+                "This policy pivot forces importers to re-evaluate vendor viability and audit supply chain transparency to mitigate the impact of rising tariff-driven expenses on overall fiscal bottom lines."
             ],
             "imageUrl": "",
-            "nextUpTease": "CH ROBINSON: CARRIER NEGLIGENT VERDICT",
+            "nextUpTease": "CARRIER LEGAL EXPOSURE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CH ROBINSON: CARRIER NEGLIGENT VERDICT",
+            "heading": "LEGAL RISK: CARRIER LIABILITY",
             "points": [
-                "C.H. Robinson appeals a staggering six hundred four million dollar verdict over negligent carrier selection liabilities.",
-                "The landmark Mississippi decision raises the legal standard for broker vetting practices within third-party logistics.",
-                "Plaintiff attorneys target systemic gaps in automated carrier onboarding technologies to establish broker negligence claims.",
-                "Freight intermediaries must instantly implement rigorous, manual oversight processes to counter rising nuclear litigation threats."
+                "C.H. Robinson faces a massive $604 million nuclear verdict following a judicial ruling on negligent carrier selection for a fatal 2021 highway accident.",
+                "This precedent significantly raises the operational bar for freight brokers regarding carrier vetting procedures, insurance validation, and automated safety compliance monitoring systems across domestic networks.",
+                "Legal experts warn that traditional broker reliance on manual checks is now insufficient, necessitating advanced AI-driven forensic auditing for every active carrier partner in their fleet portfolios.",
+                "Stricter regulatory scrutiny of broker liability is expected to drive up insurance premiums and force consolidation among smaller providers who cannot absorb rising risk mitigation costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: COURT DETENTION BILLING UPHOLD",
+            "nextUpTease": "TECH: EDI BOTTLENECKS",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FMC: COURT DETENTION BILLING UPHOLD",
+            "heading": "TECH: INTEGRATION FRICTION",
             "points": [
-                "U.S. Court of Appeals upholds the landmark Federal Maritime Commission ruling regarding ocean container detention billing.",
-                "The decision mandates that late fees must actively incentivize cargo movement and promote overall port fluidity.",
-                "Carriers face strict regulatory enforcement and massive civil penalties for non-compliant billing practices across national terminals.",
-                "Importers gain significant leverage to dispute unfair charges using the commission's updated billing complaint procedures."
+                "Modern logistics networks are hitting a ceiling with legacy EDI systems as customized integrations create persistent data bottlenecks and slow down real-time shipment visibility.",
+                "Operational efficiency is increasingly hampered by fragmented data silos that prevent seamless orchestration between warehouse management systems, transportation management software, and external carrier APIs.",
+                "Technical leadership teams are pivoting toward API-first middleware architectures to displace rigid EDI structures that fail to support high-velocity, multi-channel commerce and volatile demand signals.",
+                "Reducing dependency on bespoke coding in EDI workflows is now a top-tier mandate to ensure long-term scalability and improve the agility of digital supply chain control towers."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC: DOMESTIC CHIP MANUFACTURE EXPANSION",
+            "nextUpTease": "AUTONOMOUS LOGISTICS SHIFTS",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TSMC: DOMESTIC CHIP MANUFACTURE EXPANSION",
+            "heading": "AUTONOMOUS: ROBOTAXI DECOUPLING",
             "points": [
-                "TSMC commits one hundred billion dollars to construct four additional advanced semiconductor facilities within the United States.",
-                "This capital expansion increases the chip manufacturer's planned American footprint to twelve total fabrication plants.",
-                "The massive domestic manufacturing scale-up directly addresses persistent geopolitical and high-tech supply chain vulnerability risks.",
-                "Global technology suppliers must establish localized logistics ecosystems to support highly specialized domestic cleanroom operations."
+                "Waymo is aggressively exploring options to terminate its existing robotaxi exclusivity agreement with Uber, signaling a broader strategic move toward independent platform dominance.",
+                "The potential dissolution of this partnership creates a vacuum in the autonomous last-mile delivery sector, inviting new entrants to compete for market share in key urban centers.",
+                "Technical integration of autonomous fleets requires highly reliable, real-time connectivity protocols that exceed current capabilities of joint-venture software stacks designed for shared operational environments.",
+                "Analysts suggest this decoupling will force rapid innovation in proprietary driverless technology to secure the competitive advantage required for scalable, long-term commercial logistics deployment."
             ],
             "imageUrl": "",
-            "nextUpTease": "US GOVT: CANADIAN SECTION 338 TARIFFS",
+            "nextUpTease": "HEALTHCARE COLD STORAGE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "US GOVT: CANADIAN SECTION 338 TARIFFS",
+            "heading": "LOGISTICS: HEALTHCARE DEMAND",
             "points": [
-                "United States slaps fifty percent tariffs on major Canadian imports utilizing Section 338 regulatory authority mechanisms.",
-                "These aggressive import duties apply regardless of prior duty-free status granted under active USMCA trade agreements.",
-                "Cross-border supply chain operations face immediate cost inflation and severe transit disruption along Northern border corridors.",
-                "Procurement managers are forcing nearshore manufacturing relocations to hedge against unpredictable trade policy enforcement shifts."
+                "Global logistics giants are aggressively pivoting capacity to support the surging demand for temperature-controlled storage driven by the rapid rise of pharmaceutical GLP-1 treatments.",
+                "Cold-chain infrastructure is undergoing massive capital investment as carriers race to integrate specialized handling requirements with high-speed, secure distribution hubs near healthcare nodes.",
+                "The complexity of managing high-value, perishable pharmaceutical freight requires a complete overhaul of existing logistics standards to prevent product spoilage and ensure absolute integrity throughout delivery.",
+                "Stakeholders are prioritizing the acquisition of hyper-compliant cold storage facilities to capture the premium pricing associated with the critical logistics of global life-science medical supply chains."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: EL NINO TRANSIT CAPS",
+            "nextUpTease": "MARKETPLACE COMPLIANCE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PANAMA CANAL: EL NINO TRANSIT CAPS",
+            "heading": "MARKETPLACE: TRADE INTEGRITY",
             "points": [
-                "Panama Canal Authority prepares for El Ni\u00f1o disruptions by reintroducing strict vessel transit limits and draft surcharges.",
-                "Ocean carriers are bracing for space crunches as daily container ship passages are systematically throttled down.",
-                "Shippers must evaluate alternative routing via the Suez Canal or shift containerized volumes to West Coast ports.",
-                "Higher intermodal feeder costs will inevitably trigger sudden increases in contract transpacific ocean freight spot rates."
+                "US Senate investigators are probing alleged China-based manipulation of e-commerce platforms, citing significant risks to domestic retail integrity and fair market trade practices.",
+                "Evidence suggests fraudulent actors are exploiting gaps in marketplace account verification to bypass safety protocols and inflate listing performance through illicit, unmonitored digital traffic.",
+                "Marketplace operators face mounting pressure to implement more robust identity verification and transactional auditing tools to prevent further unauthorized manipulation of the e-commerce supply chain ecosystem.",
+                "Increased legislative oversight will likely force smaller third-party sellers into more rigorous, costly compliance regimes to maintain active, authorized status on global multi-channel commerce platforms."
             ],
             "imageUrl": "",
-            "nextUpTease": "EBAY: DEPOP FASHION MERGER APPROVED",
+            "nextUpTease": "RAIL INFRASTRUCTURE FUNDING",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EBAY: DEPOP FASHION MERGER APPROVED",
+            "heading": "INFRASTRUCTURE: FED FUNDING",
             "points": [
-                "eBay finalizes the one point two billion dollar acquisition of C2C fashion marketplace Depop from Etsy.",
-                "United Kingdom regulators cleared the transaction clearing the path for immediate global e-commerce integration efforts.",
-                "The strategic transaction strengthens eBay's competitive position against emerging cross-border platforms targeting younger consumer cohorts.",
-                "Sellers should expect upgraded multi-channel listing tools and consolidated cross-border logistics support across both platforms."
+                "Federal funding has been secured to accelerate development of key logistics hubs within the TradePort Corridor System, boosting national supply chain capacity and rail intermodal integration.",
+                "Three specific regional hubs have been designated for primary infrastructure upgrades, focusing on enhancing throughput speed and connectivity for the critical freight rail network backbone.",
+                "This capital injection is aimed at resolving chronic congestion points that have historically hindered the efficient movement of trans-Pacific imports to domestic manufacturing and distribution markets.",
+                "Strategic expansion of these hubs will serve as a crucial test for the stability of post-COVID-19 intermodal performance as domestic import volumes continue to rise throughout 2026."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
