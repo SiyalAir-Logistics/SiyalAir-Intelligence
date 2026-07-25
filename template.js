@@ -1,120 +1,120 @@
-/* GENERATED UTC: 2026-07-25 15:17:26 */
+/* GENERATED UTC: 2026-07-25 15:52:01 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUPPLY CHAIN FRICTION",
-        "titleBlue": "ACCELERATING",
-        "footerSummary": "US introduces forced-labor Section 301 tariffs on 60 nations as C.H. Robinson faces a massive $604M negligent broker carrier vetting verdict."
+        "titleWhite": "UNPRECEDENTED GLOBAL LOGISTICS",
+        "titleBlue": "FRICTION",
+        "footerSummary": "New US Section 301 tariffs, a historic $604M freight broker liability verdict, and aggressive federal trade fraud crackdowns drive massive 2026 supply chain restructuring."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFF TRANSITION",
+            "heading": "THE LOADSTAR: NEW SECTION 301 TARIFFS",
             "points": [
-                "US implements new 10% to 12.5% Section 301 tariffs targeting 60 trading partners.",
-                "Forced-labor compliance enforcement replaces the expiring Section 122 duties.",
-                "Importers must quickly audit supplier sourcing sheets to mitigate tariff penalties."
+                "US replaces Section 122 surcharges with a new Section 301 tariff regime.",
+                "Targets imports from 60 economies with new 10% to 12.5% duties effective immediately.",
+                "Importers face complex compliance adjustments to prevent cargo liquidation delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "COURT: CH ROBINSON $604M NUCLEAR VERDICT",
+            "nextUpTease": "$604M BROKER LIABILITY",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "COURT: CH ROBINSON $604M NUCLEAR VERDICT",
+            "heading": "TRANSPORT TOPICS: $604M BROKER LIABILITY",
             "points": [
-                "Jury hands down massive $604M negligent carrier selection verdict against broker.",
-                "Verdict elevates the legal liability baseline for 3PLs managing carrier networks.",
-                "Brokers must transition away from legacy vetting systems to automated compliance."
+                "Jury hits broker with a $604 million verdict over negligent carrier selection.",
+                "Landmark ruling drastically raises the liability standards for freight broker operations.",
+                "Brokers must immediately deploy rigorous AI-driven carrier screening technologies."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: 2026 PEAK SEASON SURCHARGES UNVEILED",
+            "nextUpTease": "TRADE FRAUD CRACKDOWN",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FEDEX: 2026 PEAK SEASON SURCHARGES UNVEILED",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE CRACKDOWN",
             "points": [
-                "FedEx reveals 2026 peak season fees ahead of anticipated holiday shipping surges.",
-                "Increased home delivery prices and demand surcharges squeeze shipper margins.",
-                "Shippers must optimize multi-carrier parcel strategies to offset rising costs."
+                "DOJ Trade Fraud Task Force crosses $1 billion in total recoveries and penalties.",
+                "Enforcement targets forced labor, evasion, and systemic customs duty manipulation.",
+                "Importers require forensic audits to withstand intensifying federal trade scrutiny."
             ],
             "imageUrl": "",
-            "nextUpTease": "CNBC: STRAIT OF HORMUZ DISRUPTION RISK",
+            "nextUpTease": "FMC DETENTION FEE RULING",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CNBC: STRAIT OF HORMUZ DISRUPTION RISK",
+            "heading": "FMC: FEDERAL DETENTION FEE RULING UPHELD",
             "points": [
-                "Intensifying regional conflicts trigger multi-front attacks on global oil tankers.",
-                "Shipping disruptions in the Strait of Hormuz may persist for 12 months or more.",
-                "Energy and bulk freight lanes require proactive hedging and alternative routing."
+                "US Appeals Court upholds FMC ruling that detention fees must promote cargo fluidity.",
+                "Ocean carriers cannot bill fees during periods when container pickup is obstructed.",
+                "Shippers obtain critical legal leverage to dispute unfair port demurrage charges."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: SECTION 338 TARIFFS ON CANADA IMPORTS",
+            "nextUpTease": "RURAL PARCEL PRICE HIKE",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "USTR: SECTION 338 TARIFFS ON CANADA IMPORTS",
+            "heading": "USPS: RURAL PARCEL PRICE INCREASES",
             "points": [
-                "US imposes aggressive 50% Section 338 tariffs on wide-ranging Canadian imports.",
-                "Duties apply even to items qualifying for USMCA duty-free treatment status.",
-                "Cross-border manufacturers must recalculate landed cost models for North America."
+                "USPS imposes $2-$3 rate increases for lightweight packages sent to rural locations.",
+                "Online merchants face immediate margin compression on multi-channel parcel lanes.",
+                "Brands must diversify last-mile routing to bypass escalating regional postage costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRANSPORT TOPICS: EDI INTEGRATION BOTTLENECK",
+            "nextUpTease": "CHINA MARITIME CODE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRANSPORT TOPICS: EDI INTEGRATION BOTTLENECK",
+            "heading": "THE LOADSTAR: CHINA MARITIME CODE REVISION",
             "points": [
-                "Carriers and brokers rely heavily on customized Electronic Data Interchange setups.",
-                "Non-standardized integrations create severe operational bottlenecks during spikes.",
-                "Tech stacks must migrate to unified API protocols to ensure real-time visibility."
+                "China implements revised Maritime Code shifting legal parameters for cargo carriers.",
+                "Regulatory adjustments trigger urgent contractual legal reviews for NVOCC operators.",
+                "Global forwarders must adjust transpacific terms of lading to mitigate legal risk."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: RURAL SHIPPING RATE SURGE",
+            "nextUpTease": "EPA 2027 ENGINE LIMITS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "USPS: RURAL SHIPPING RATE SURGE",
+            "heading": "TRANSPORT TOPICS: EPA 2027 ENGINE LIMITS",
             "points": [
-                "USPS introduces new surcharges targeting lightweight parcel shipping routes.",
-                "Shipping lightweight packages to rural destinations will cost $2 to $3 more.",
-                "Online merchants must renegotiate regional carrier contracts to protect margin."
+                "Truck engine builders phase in model-year 2027 lines to meet strict EPA NOx rules.",
+                "Staggered rollouts force heavy-duty fleets to manage complex procurement schedules.",
+                "Fleet operators must expand technician certifications to handle advanced power units."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "The decoupling of trade lanes is no longer a risk factor\u2014it is the baseline architecture of the 2026 supply chain.",
-        "author": "Dr. Allison Henderson, Chief Supply Chain Strategist at Global Logistics Institute",
-        "context": "Domain: Global Logistics Trade Strategy"
+        "quoteText": "Detention and demurrage fees must strictly promote freight fluidity across ocean supply chains.",
+        "author": "Laura DiBella, Chairman, Federal Maritime Commission",
+        "context": "Domain: fmc.gov"
     }
 };
