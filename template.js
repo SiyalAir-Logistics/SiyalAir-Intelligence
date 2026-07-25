@@ -1,21 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF",
-        "titleBlue": "SHIFT",
-        "footerSummary": "New USTR tariffs on 60 nations create immediate compliance friction, while C.H. Robinson faces a landmark $604M judgment, signaling intensifying legal and operational volatility."
+        "titleWhite": "Global Trade Tariff",
+        "titleBlue": "Expansion",
+        "footerSummary": "USTR implements new Section 301 tariffs across 60 nations, replacing expired Section 122 duties and complicating global trade compliance for importers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "USTR: TARIFF REGIME EXPANSION",
             "points": [
-                "USTR finalized new 10%-12.5% Section 301 tariffs on 60 nations today.",
-                "Importers face immediate duty reclassification as Section 122 levies expire.",
-                "Strategic re-auditing of supply chains is required to mitigate duty spikes."
+                "The Office of the United States Trade Representative has officially activated new Section 301 tariffs targeting 60 global trading partners.",
+                "These levies range from 10 percent to 12.5 percent, effective immediately following the expiration of temporary Section 122 surcharge frameworks.",
+                "Customs brokers and logistics teams now face a massive administrative burden as they reclassify goods under this complex new trade structure.",
+                "Importers must rapidly assess landed cost impacts as supply chains pivot to accommodate these abrupt federal shifts in international trade duties."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON VERDICT",
+            "nextUpTease": "CARRIER CAPACITY SHIFTS",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "MARITIME: CAPACITY DISCIPLINE",
+            "points": [
+                "Global ocean carriers are employing aggressive capacity discipline to maintain freight rates despite cooling demand across primary East-West trade lanes.",
+                "Blank sailings remain a structural reality for shippers as vessel operators prioritize equipment utilization and profitability over aggressive volume expansion strategies.",
+                "Market analysis indicates spot rates are experiencing a gentle decline rather than a total collapse, thanks to coordinated liner vessel capacity adjustments.",
+                "Forwarders report that the trans-Pacific market currently operates in uncharted waters with tariff volatility complicating peak season capacity planning for major retailers."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRUCKING INDUSTRY LITIGATION",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -23,63 +41,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "LEGAL: C.H. ROBINSON JUDGMENT",
-            "points": [
-                "A $604 million nuclear verdict was issued against C.H. Robinson for negligence.",
-                "Case highlights escalating liability risks in carrier selection and vetting.",
-                "Brokers must implement rigorous compliance frameworks to defend vetting protocols."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DATA CENTER FREIGHT",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "JOC: DATA CENTER LOGISTICS",
+            "heading": "LEGAL: NUCLEAR VERDICT IMPACT",
             "points": [
-                "Data center infrastructure buildouts are masking weak consumer freight demand.",
-                "Hardware logistics volume remains stable despite retail-sector cooling.",
-                "Shift focus toward project-based infrastructure lanes to maintain load stability."
+                "The logistics sector is reeling after a 604 million dollar nuclear verdict was handed down against C.H. Robinson regarding negligent carrier selection.",
+                "Legal experts warn this outcome sets a dangerous precedent, drastically raising the bar for freight broker carrier vetting and insurance compliance requirements.",
+                "Brokerages are now scrambling to modernize their internal compliance systems, transitioning from manual processes to automated AI-driven risk management protocols.",
+                "Stakeholders expect significantly increased scrutiny on outsourcing agreements as shippers demand higher levels of transparency and documented safety performance from partners."
             ],
             "imageUrl": "",
-            "nextUpTease": "RURAL SHIPPING COSTS",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "USPS: RURAL DELIVERY SURCHARGE",
-            "points": [
-                "USPS implemented a $2-$3 rate hike for lightweight rural package deliveries.",
-                "Small parcel margins are eroding on low-density, remote delivery routes.",
-                "Re-evaluate marketplace shipping configurations for rural-heavy customer bases."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRUCKING CAPACITY",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "TRUCKING: CAPACITY CONSTRAINTS",
-            "points": [
-                "Trucking rates hold near record highs as capacity tightens across US networks.",
-                "Driver supply remains choked, limiting elasticity in the spot market.",
-                "Contracting for reliable lane capacity is urgent for Q3-Q4 risk management."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRADE FRAUD RECOVERIES",
+            "nextUpTease": "TECHNOLOGY & AI DISTILLATION",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -87,31 +58,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
+            "id": 4,
+            "heading": "TECH: AI DISTILLATION TRENDS",
             "points": [
-                "DOJ Trade Fraud Task Force recovered $1 billion in penalties in under one year.",
-                "Enhanced scrutiny of import data is targeting systematic undervaluation.",
-                "Centralize trade data compliance to prevent exposure to punitive audit actions."
+                "Tech firms are pivoting toward AI distillation to optimize processing power, moving beyond simple automation into agentic supply chain decision architectures.",
+                "The industry is seeing a shift from experimental AI pilots to real-world operational execution within warehouse and transportation management system environments.",
+                "Investment remains concentrated in hardware-integrated AI, as data centers continue to consume significant trans-Pacific import capacity for buildout components.",
+                "Supply chain executives must now manage probabilistic AI agent behavior, which creates unpredictable risks within sensitive planning and procurement workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL TANKER THREATS",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 7,
-            "heading": "MARITIME: TANKER ESCALATION",
-            "points": [
-                "Red Sea and regional hostilities are forcing oil tanker diversions.",
-                "Energy supply chains face sustained premium costs due to route volatility.",
-                "Monitor bunker fuel pricing indices as geopolitical risks disrupt supply."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DAILY: QUOTE UNQUOTE",
+            "nextUpTease": "RAIL INFRASTRUCTURE FUNDING",
             "tags": [
                 "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
@@ -119,17 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 8,
-            "heading": "DAILY: QUOTE UNQUOTE",
+            "id": 5,
+            "heading": "INFRASTRUCTURE: FEDERAL FUNDING",
             "points": [
-                "\"Constraint awareness. Constant market shifts demand prioritization and creative workarounds.\"",
-                "\u2014 Davey Miller, Chief Operating Officer, CMC",
-                "Domain: https://www.inboundlogistics.com"
+                "The U.S. government has announced a strategic injection of federal funding into three critical hubs within the TradePort Corridor logistics network.",
+                "These investments aim to bridge the gap in regional freight connectivity, supporting the 36-hub system intended to modernize domestic goods movement infrastructure.",
+                "Enhanced terminal capacities are expected to stabilize intermodal service reliability, providing a competitive edge for shippers bidding on 2027 freight contracts.",
+                "Local infrastructure development is prioritizing bottlenecks that have long constrained throughput for inland intermodal facilities serving major West Coast gateway ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPPRESS_FOOTER",
+            "nextUpTease": "E-COMMERCE MARKETPLACE RULES",
             "tags": [
-                "Source: Verified Library",
+                "Source: https://www.joc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ECOMMERCE: MARKETPLACE COMPLIANCE",
+            "points": [
+                "Senate investigations are probing potential manipulation in e-commerce, specifically regarding accounts that bypass standard operating procedures through third-party illicit services.",
+                "Amazon is aggressively expanding B2B features, compelling third-party sellers to adapt their fulfillment infrastructure to meet the demands of enterprise-level business buyers.",
+                "New USPS noncompliance fees and password requirements are forcing online sellers to refine their shipping protocols or risk unexpected surcharges on small parcels.",
+                "Marketplace dynamics are tightening as major platforms integrate stricter handling-time rules, effectively limiting seller flexibility in high-volume, holiday-driven fulfillment cycles."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "WAREHOUSE AUTOMATION SCALES",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "WAREHOUSE: AUTOMATION SCALING",
+            "points": [
+                "Warehouse operations are scaling flexible robotics, with major retailers deploying drone-based cycle counting to replace labor-intensive manual inventory processes.",
+                "Software-driven orchestration is replacing traditional point-solution automation, enabling a more cohesive response to fluctuating order volumes and labor supply shortages.",
+                "Leading fulfillment centers are integrating constraint-based planning platforms to bridge the gap between long-term supply forecasting and day-to-day warehouse floor execution.",
+                "Adoption of autonomous yard management systems is delivering significant yard fleet reductions, proving that strategic technology deployment remains the primary driver of efficiency."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FINAL SLIDE",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
