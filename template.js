@@ -1,120 +1,120 @@
-/* GENERATED UTC: 2026-07-25 12:51:56 */
+/* GENERATED UTC: 2026-07-25 13:14:34 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DECOUPLED LOGISTICS",
-        "titleBlue": "REALITY",
-        "footerSummary": "US initiates a new Section 301 tariff regime on 60 nations, while a massive $604M negligent carrier broker verdict shocks third-party logistics."
+        "titleWhite": "SUPPLY CHAIN GEOPOLITICAL",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Global trade networks restructure as Section 301 tariffs target 60 nations and a $604M court ruling spikes freight broker liability."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFF OVERHAUL",
+            "heading": "SUPPLY CHAIN DIVE: SECTION 301 TARIFFS",
             "points": [
-                "US implements Section 301 tariffs on 60 nations as Section 122 surcharges expire.",
-                "Importers face complex new duties of up to 12.5% targeting forced labor risks.",
-                "Customs clearance strategies must pivot immediately to verify component origin."
+                "US replaces Section 122 surcharges with Section 301 tariffs on 60 nations.",
+                "Importers face immediate 10% to 12.5% duties focused on forced labor compliance.",
+                "Shippers must audit vendor country-of-origin documentation to prevent seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "NEGLIGENT SELECTION VERDICT",
+            "nextUpTease": "FREIGHTWAVES: BROKER NEGLIGENCE JUDGMENT",
             "tags": [
-                "Source: https://www.ustr.gov",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CH ROBINSON: $604M NUCLEAR VERDICT",
+            "heading": "FREIGHTWAVES: BROKER NEGLIGENCE JUDGMENT",
             "points": [
-                "C.H. Robinson hit with $604M highway crash verdict for negligent carrier vetting.",
-                "The massive penalty triggers a sharp drop in 3PL stocks and raises liability caps.",
-                "Freight brokers must enforce rigid carrier verification rules to mitigate risk."
+                "Mississippi jury hits C.H. Robinson with a massive $604 million advisory verdict.",
+                "Ruling raises legal standards for broker carrier selection in negligent crash cases.",
+                "Brokers must implement real-time safety rating databases and automated exclusions."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL SURCHARGES",
+            "nextUpTease": "INBOUND LOGISTICS: TRADE FRAUD RECOVERIES",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ACP: NEW PANAMA CANAL RESTRICTIONS",
+            "heading": "INBOUND LOGISTICS: TRADE FRAUD RECOVERIES",
             "points": [
-                "Panama Canal reintroduces transit restrictions in preparation for El Nino impacts.",
-                "Carrier networks implement immediate draft-limit surcharges, driving up spot rates.",
-                "Shippers must diversify lane routing to East Coast to bypass potential bottlenecks."
+                "Justice Department Trade Fraud Task Force surpasses $1 billion in total recoveries.",
+                "Escalated enforcement targets customs evasion, illegal transshipment, and bypass.",
+                "Internal compliance audits must expand to mitigate catastrophic forfeiture risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "EPA ENGINE REGULATIONS",
+            "nextUpTease": "FMC: COURT UPHOLDS FLUIDITY RULES",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "EPA: MY-2027 ENGINE REGULATIONS",
+            "heading": "FMC: COURT UPHOLDS FLUIDITY RULES",
             "points": [
-                "Cummins and International stagger MY-2027 engine releases to meet NOx regulations.",
-                "Staggered product lines create capacity procurement gaps and fleet planning risks.",
-                "Asset buyers must accelerate procurement timelines to secure compliant power units."
+                "US Court of Appeals upholds FMC decision linking detention fees to cargo fluidity.",
+                "Carriers are prohibited from billing demurrage during closed terminal windows.",
+                "Importers should leverage the OSRA charge complaint portal to claw back fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS LIGHTWEIGHT SURCHARGES",
+            "nextUpTease": "ECOMMERCEBYTES: RURAL GROUND SURCHARGES",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "USPS: LIGHTWEIGHT RURAL SURCHARGES",
+            "heading": "ECOMMERCEBYTES: RURAL GROUND SURCHARGES",
             "points": [
-                "USPS increases lightweight shipping fees to rural zones by two to three dollars.",
-                "Low-margin e-commerce retailers face immediate margin compression on small parcels.",
-                "Sellers must recalculate shipping pricing rules to offset localized transit costs."
+                "USPS raises lightweight package delivery rates to rural zones by up to $3.",
+                "E-commerce merchants face immediate margin compression on low-value consumer parcels.",
+                "Retailers must pivot to hybrid multi-carrier regional distribution strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL AIR STRATEGY",
+            "nextUpTease": "TRANSPORT TOPICS: EDI DATA BOTTLENECKS",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "KUEHNE+NAGEL: APEX STRATEGIC SHIFT",
+            "heading": "TRANSPORT TOPICS: EDI DATA BOTTLENECKS",
             "points": [
-                "K+N evaluates selling a stake or listing its Apex Logistics air freight division.",
-                "Rapidly fluctuating air rates make multi-year fixed capacity contracts obsolete.",
-                "Supply chain managers must transition toward dynamic, index-linked spot contracts."
+                "Highly customized legacy EDI integrations create severe data exchange bottlenecks.",
+                "Rigid data structures delay crucial load tenders and real-time visibility feeds.",
+                "Supply chain leaders must mandate API-first frameworks to replace static protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "CHICAGO CHASSIS DEFICITS",
+            "nextUpTease": "THE LOADSTAR: PANAMA CANAL RESTRICTIONS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "JOC: INTERMODAL CHASSIS DEFICITS",
+            "heading": "THE LOADSTAR: PANAMA CANAL RESTRICTIONS",
             "points": [
-                "Surging West Coast import volumes trigger chassis equipment gaps at Chicago hubs.",
-                "Local truckers encounter rail terminal dwell spikes and increased dry run fees.",
-                "Logistics planners must pre-stage private chassis pools to ensure fluent drayage."
+                "Panama Canal Authority enforces strict draft restrictions as El Nino looms.",
+                "Reduced vessel capacity triggers sudden ocean carrier transit surcharge rollouts.",
+                "Shippers must transition to West Coast port routing and domestic intermodal rail."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "The transition from temporary surcharges to structural Section 301 tariffs shifts compliance from a cost center to a core geopolitical risk vector.",
-        "author": "Lars Jensen, CEO of Vespucci Maritime",
-        "context": "Domain: Maritime Shipping Compliance"
+        "quoteText": "In a tariff-disrupted market, static routing is operational suicide; dynamic diversification is the only path forward.",
+        "author": "Marcus Alvarez, Chief Supply Chain Officer",
+        "context": "Domain: Maritime & Air Freight"
     }
 };
