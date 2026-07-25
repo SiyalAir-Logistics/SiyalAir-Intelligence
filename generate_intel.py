@@ -88,6 +88,27 @@ def main():
             slides_object = parsed_payload.get("slides_data", parsed_payload)
             post_content = parsed_payload.get("social_post", "")
             
+            # --- ROBUST ENFORCEMENT: Enforce strict 4-bullet point limit per slide ---
+            if isinstance(slides_object, dict) and "slides" in slides_object:
+                for slide in slides_object["slides"]:
+                    if "points" in slide and isinstance(slide["points"], list):
+                        # Flatten any multi-sentence strings or accidental sub-lists that broke formatting
+                        cleaned_points = []
+                        for pt in slide["points"]:
+                            # Clean internal rogue line breaks or accidental markdown bullet tokens
+                            clean_pt = str(pt).replace('\n', ' ').replace('•', '').replace('➔', '').strip()
+                            if clean_pt:
+                                cleaned_points.append(clean_pt)
+                        
+                        # Hard lock: Slice or pad precisely to 4 bullet items to prevent overflowing and UI breakage
+                        if len(cleaned_points) > 4:
+                            # If model generated extra, merge trailing sentences or truncate to exact top 4 major points
+                            slide["points"] = cleaned_points[:4]
+                        elif len(cleaned_points) < 4:
+                            while len(cleaned_points) < 4:
+                                cleaned_points.append("Continuous trade shifts require monitoring immediate carrier capacity adjustments.")
+                            slide["points"] = cleaned_points
+
             # Convert extracted slides data back to a clean string format
             slides_json_str = json.dumps(slides_object, indent=4)
             
