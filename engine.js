@@ -1,240 +1,457 @@
-import os
-import time
-import random
-import re
-import requests
-import json
-from google import genai
-from google.genai import types
-import datetime
-import hashlib
+/**
+ * SIYALAIR-INTEL-STUDIO CORE ENGINE (PROD_v2.0_2026)
+ * Engineered for high-density global logistics asset synthesis.
+ */
 
-# 1. AUTH & CONFIG
-# Fetches API key from GitHub Secrets
-api_key = os.environ.get("GEMINI_API_KEY")
-client = genai.Client(api_key=api_key)
-
-# Models in priority order
-MODEL_PRIORITY = ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-2.5-flash"]
-HASH_FILE = "processed_hashes.txt"
-
-# 2. DEDUPLICATION & TRACKER ROTATION ENGINE
-def load_processed_hashes():
-    """Loads previously processed article content hashes to prevent duplication."""
-    if not os.path.exists(HASH_FILE):
-        return set()
-    with open(HASH_FILE, "r", encoding="utf-8") as f:
-        return set(line.strip() for line in f if line.strip())
-
-def save_processed_hash(content_signature):
-    """Appends a new unique content hash to the registry file with rolling bounds."""
-    processed = load_processed_hashes()
-    content_hash = hashlib.sha256(content_signature.encode('utf-8')).hexdigest()
+window.onload = async () => {
+    // FORCE CACHE-BUST: Load the template.js dynamically
+    const script = document.createElement('script');
+    script.src = 'template.js?t=' + Date.now();
     
-    if content_hash in processed:
-        return True # Duplicate detected
+    script.onload = async () => {
+        console.log("Siyal Air Template loaded successfully.");
         
-    processed.add(content_hash)
-    # Maintain rolling set of last 50 hashes to prevent permanent lockouts on static prompts
-    processed_list = list(processed)[-50:]
-    with open(HASH_FILE, "w", encoding="utf-8") as f:
-        f.write("\n".join(processed_list) + "\n")
-    return False
+        // Force fix the background image compatibility
+        await fixBackgroundCORS();
 
-def rotate_trackers():
-    """Dynamically rotates background, quote, and follow trackers on every run."""
-    # Rotate background tracker (1 to 5)
-    bg_index = 1
-    if os.path.exists("bg_tracker.txt"):
-        try:
-            with open("bg_tracker.txt", "r", encoding="utf-8") as f:
-                bg_index = (int(f.read().strip()) % 5) + 1
-        except Exception:
-            bg_index = 1
-    with open("bg_tracker.txt", "w", encoding="utf-8") as f:
-        f.write(str(bg_index))
+        if (typeof dailyData !== 'undefined') {
+            initTabs();
+            const mainBtn = document.querySelector('.tab-btn');
+            if (mainBtn) switchSlide('main', mainBtn);
+        }
+        
+        const dlBtn = document.getElementById('download-active');
+        if (dlBtn) {
+            dlBtn.onclick = (e) => {
+                e.preventDefault();
+                downloadAllSlides();
+            };
+        }
+    };
+    
+    script.onerror = () => {
+        console.error("Critical System Fault: Failed to load template.js. Check network path.");
+    };
+    
+    document.head.appendChild(script);
+};
 
-    # Rotate quote tracker (0 to 9)
-    q_index = 0
-    if os.path.exists("quote_tracker.txt"):
-        try:
-            with open("quote_tracker.txt", "r", encoding="utf-8") as f:
-                q_index = (int(f.read().strip()) + 1) % 10
-        except Exception:
-            q_index = 0
-    with open("quote_tracker.txt", "w", encoding="utf-8") as f:
-        f.write(str(q_index))
+/**
+ * FIX: Converts the background-image to Base64 
+ * Prevents the HTML2Canvas Tainted Canvas exploit block.
+ */
+async function fixBackgroundCORS() {
+    const canvas = document.getElementById('post-canvas');
+    if (!canvas) return;
 
-    # Rotate follow tracker (1 to 3)
-    f_index = 1
-    if os.path.exists("follow_tracker.txt"):
-        try:
-            with open("follow_tracker.txt", "r", encoding="utf-8") as f:
-                f_index = (int(f.read().strip()) % 3) + 1
-        except Exception:
-            f_index = 1
-    with open("follow_tracker.txt", "w", encoding="utf-8") as f:
-        f.write(str(f_index))
+    let bgIndex = 1;
 
-# 3. STEALTH ENGINE
-def get_stealth_headers():
-    """Rotates User-Agent to mimic different browsers/devices."""
-    user_agents = [
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, with Gecko) Chrome/126.0.0.0 Safari/537.36"
-    ]
-    return {
-        "User-Agent": random.choice(user_agents),
-        "Referer": "https://www.google.com/",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Connection": "keep-alive"
+    try {
+        const trackerRes = await fetch('bg_tracker.txt?t=' + Date.now());
+        if (trackerRes.ok) {
+            const text = await trackerRes.text();
+            const parsedNum = parseInt(text.trim());
+            if (!isNaN(parsedNum) && parsedNum > 0) {
+                bgIndex = parsedNum;
+            }
+        }
+    } catch (e) {
+        console.log("Tracker read defaulted, using background1.png");
     }
 
-def fetch_and_clean():
-    """Extracts URLs from prompt.txt and scrapes with human-like timing."""
-    if not os.path.exists("prompt.txt"):
-        return "Global Intelligence Update", ""
-    with open("prompt.txt", "r", encoding="utf-8") as f:
-        prompt_content = f.read()
+    const bgUrl = `assets/background${bgIndex}.png`;
     
-    urls = list(set(re.findall(r'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+', prompt_content)))
-    scraped_text = ""
+    try {
+        const response = await fetch(bgUrl);
+        if (!response.ok) throw new Error("Background asset not found");
+        const blob = await response.blob();
+        const reader = new FileReader();
+        reader.onloadend = () => {
+            // Apply inline style background image permanently to survive tab switches/re-renders
+            canvas.style.backgroundImage = `url(${reader.result})`;
+            canvas.style.backgroundSize = 'cover';
+            canvas.style.backgroundPosition = 'center';
+            console.log(`Loaded background${bgIndex}.png successfully and optimized for render capture.`);
+        };
+        reader.readAsDataURL(blob);
+    } catch (e) {
+        console.warn(`Failed to load background${bgIndex}.png, falling back to default asset.`);
+        fallbackDefaultBackground(canvas);
+    }
+}
+
+async function fallbackDefaultBackground(canvas) {
+    try {
+        const response = await fetch('assets/background.png');
+        const blob = await response.blob();
+        const reader = new FileReader();
+        reader.onloadend = () => {
+            canvas.style.backgroundImage = `url(${reader.result})`;
+            canvas.style.backgroundSize = 'cover';
+            canvas.style.backgroundPosition = 'center';
+        };
+        reader.readAsDataURL(blob);
+    } catch (err) {
+        console.error("Default background fallback failed.");
+    }
+}
+
+function initTabs() {
+    const tabContainer = document.getElementById('slide-tabs');
+    if (!tabContainer) return;
+    tabContainer.innerHTML = ''; 
     
-    for url in urls:
-        try:
-            # Human jitter: wait between 2 and 5 seconds to look like a slow reader
-            time.sleep(random.uniform(2.0, 5.0))
-            response = requests.get(url, headers=get_stealth_headers(), timeout=20)
-            
-            if response.status_code == 200:
-                from bs4 import BeautifulSoup
-                soup = BeautifulSoup(response.content, 'html.parser')
-                # Remove non-content junk
-                for element in soup(["script", "style", "nav", "footer", "iframe"]):
-                    element.extract()
-                # EXPANDED DATA BUFFER: Increased character chunk threshold from 1,000 to 5,000
-                text = soup.get_text(separator=' ', strip=True)[:5000]
-                scraped_text += f"\n---SOURCE: {url}---\n{text}\n"
-        except Exception:
-            continue # Fail silently to keep the pipeline moving
-    return prompt_content, scraped_text
-
-# 4. PIPELINE EXECUTION
-def main():
-    prompt_base, data = fetch_and_clean()
+    const mainBtn = document.createElement('button');
+    mainBtn.className = 'tab-btn active';
+    mainBtn.innerText = 'MAIN';
+    mainBtn.onclick = (e) => { e.preventDefault(); switchSlide('main', mainBtn); };
+    tabContainer.appendChild(mainBtn);
     
-    # Always rotate trackers on every execution cycle
-    rotate_trackers()
+    // --- STABLE TAB FIX: Strictly limit regular slides loop to exactly 7 slides (SLIDE-1 through SLIDE-7) ---
+    const targetSlideCount = Math.min(dailyData.slides.length, 7);
+    for (let index = 0; index < targetSlideCount; index++) {
+        const btn = document.createElement('button');
+        btn.className = 'tab-btn';
+        btn.innerText = `SLIDE-${index + 1}`;
+        btn.onclick = (e) => { e.preventDefault(); switchSlide(index + 1, btn); };
+        tabContainer.appendChild(btn);
+    }
 
-    # Generate exact UTC timestamp for salt and header injection
-    utc_now_str = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
+    // --- REQUIREMENT 1 & 3: Insert QUOTE tab right after regular slides ---
+    const quoteBtn = document.createElement('button');
+    quoteBtn.className = 'tab-btn';
+    quoteBtn.innerText = 'QUOTE';
+    quoteBtn.onclick = (e) => { e.preventDefault(); switchSlide('quote', quoteBtn); };
+    tabContainer.appendChild(quoteBtn);
 
-    # Check deduplication against gathered intel combined with dynamic timestamp salt
-    if data.strip():
-        signature_sample = data[:1000] + utc_now_str # Unique fingerprint combined with runner clock
-        if save_processed_hash(signature_sample):
-            print("Duplicate news feed detected in registry. Halting execution to avoid redundancy.")
-            return
+    const followBtn = document.createElement('button');
+    followBtn.className = 'tab-btn';
+    followBtn.innerText = 'FOLLOW';
+    followBtn.onclick = (e) => { e.preventDefault(); switchSlide('follow', followBtn); };
+    tabContainer.appendChild(followBtn);
 
-    final_input = f"{prompt_base}\n\n[EXECUTION TIMESTAMP UTC]: {utc_now_str}\n\n[LATEST LIVE DATA]:\n{data}"
+    // --- REQUIREMENT 1 & 3: Insert POST tab at the absolute end, isolated from downloads ---
+    const postBtn = document.createElement('button');
+    postBtn.className = 'tab-btn';
+    postBtn.innerText = 'POST';
+    postBtn.onclick = (e) => { e.preventDefault(); switchSlide('post', postBtn); };
+    tabContainer.appendChild(postBtn);
+}
+
+function fitText(element, maxHeight, maxWidth) {
+    let fontSize = parseInt(window.getComputedStyle(element).fontSize);
+    while ((element.scrollHeight > maxHeight || element.scrollWidth > maxWidth) && fontSize > 18) {
+        fontSize--;
+        element.style.fontSize = fontSize + "px";
+    }
+}
+
+async function switchSlide(id, element) {
+    document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+    if (element) element.classList.add('active');
     
-    for model in MODEL_PRIORITY:
-        try:
-            response = client.models.generate_content(
-                model=model,
-                contents=final_input,
-                config=types.GenerateContentConfig(response_mime_type="application/json")
-            )
-            
-            # --- UPDATED: Sanitization and strict }; closure ---
-            # Remove any markdown artifacts
-            raw_text = response.text.replace("```json", "").replace("```", "").strip()
-            
-            # Ensure the output is clean for valid JSON parsing
-            if raw_text.endswith(';'):
-                raw_text = raw_text[:-1]
-            if not raw_text.startswith('{'): raw_text = '{' + raw_text
-            if not raw_text.endswith('}'): raw_text = raw_text + '}'
-            
-            # --- VALIDATION & STRUCTURAL EXTRACTION: Ensure generated text parses correctly and splits quote data ---
-            parsed_payload = json.loads(raw_text)
-            
-            # Extract content paths from the structured JSON schema safely
-            slides_data_obj = parsed_payload.get("slides_data", parsed_payload)
-            
-            # --- FIX: Synchronize with quote.js library using quote_tracker.txt index ---
-            slides_list = slides_data_obj.get("slides", [])
-            extracted_quote = {}
-            q_index = 0
-            
-            if os.path.exists("quote_tracker.txt"):
-                try:
-                    with open("quote_tracker.txt", "r", encoding="utf-8") as tf:
-                        q_index = int(tf.read().strip())
-                except Exception:
-                    q_index = 0
+    const canvas = document.getElementById('post-canvas');
+    if (!canvas) return;
 
-            if os.path.exists("quote.js"):
-                try:
-                    with open("quote.js", "r", encoding="utf-8") as qf:
-                        qf_content = qf.read()
-                        match = re.search(r'\[.*\]', qf_content, re.DOTALL)
-                        if match:
-                            quote_array = json.loads(match.group(0))
-                            if quote_array and len(quote_array) > 0:
-                                selected_q = quote_array[q_index % len(quote_array)]
-                                extracted_quote = {
-                                    "heading": selected_q.get("heading", "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION"),
-                                    "quoteText": selected_q.get("quoteText", selected_q.get("quote", "")),
-                                    "author": selected_q.get("author", ""),
-                                    "context": selected_q.get("context", selected_q.get("title", ""))
-                                }
-                except Exception:
-                    pass
+    const formatTitleBlue = (text) => {
+        if (!text) return "";
+        let cleanText = text.trim();
+        // Fix title glitch by matching standard labels with colons like "DOJ: TITLE" or "TRIGGER: TITLE"
+        const colonIndex = cleanText.indexOf(':');
+        if (colonIndex !== -1 && colonIndex <= 25) {
+            const bluePart = cleanText.substring(0, colonIndex + 1);
+            const whitePart = cleanText.substring(colonIndex + 1).trim();
+            return `<span class="blue-text">${bluePart}</span> ${whitePart}`;
+        }
+        const words = cleanText.split(' ');
+        if (words.length <= 1) return `<span class="last-word-blue">${cleanText}</span>`;
+        const last = words.pop();
+        return `${words.join(' ')} <span class="last-word-blue">${last}</span>`;
+    };
 
-            cleaned_slides = []
-            if not extracted_quote.get("quoteText"):
-                for s in slides_list:
-                    if s.get("id") == 8 or "EXECUTIVE PERSPECTIVE" in s.get("heading", ""):
-                        points = s.get("points", ["", "", ""])
-                        extracted_quote = {
-                            "heading": s.get("heading", "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION"),
-                            "quoteText": points[0].strip('"'),
-                            "author": points[1].replace("—", "").strip(),
-                            "context": points[2].replace("Context:", "").strip()
-                        }
-                    else:
-                        cleaned_slides.append(s)
-            else:
-                for s in slides_list:
-                    if s.get("id") != 8 and "EXECUTIVE PERSPECTIVE" not in s.get("heading", ""):
-                        cleaned_slides.append(s)
-            
-            slides_data_obj["slides"] = cleaned_slides
-            slides_data_obj["quote"] = extracted_quote
-            
-            post_content = parsed_payload.get("social_post", "")
-            
-            # Convert extracted slides data back to clean string format
-            slides_json_str = json.dumps(slides_data_obj, indent=4)
-            
-            # Save exactly as required for template.js with live UTC comment header
-            with open("template.js", "w", encoding="utf-8") as f:
-                f.write(f"/* GENERATED UTC: {utc_now_str} */\nconst dailyData = {slides_json_str};")
-                
-            # Save the clean free-form social media post to your root location
-            with open("post.txt", "w", encoding="utf-8") as f:
-                # Safely convert raw literal \n string characters into actual structural line breaks
-                clean_post = post_content.replace('\\n', '\n')
-                f.write(clean_post)
-                
-            return # Success
-        except Exception:
-            time.sleep(10) # Back-off if model rate-limit or JSON is invalid
-            continue
+    let html = "";
+    if (id === 'main') {
+        const fullTitleStr = `${dailyData.main.titleWhite} ${dailyData.main.titleBlue}`.trim();
+        const wordsArray = fullTitleStr.split(/\s+/);
+        
+        const stackedTitleHTML = wordsArray.map((word, idx) => {
+            if (idx === wordsArray.length - 1) {
+                return `<div class="last-word-blue">${word}</div>`;
+            }
+            return `<div>${word}</div>`;
+        }).join('');
 
-if __name__ == "__main__":
-    main()
+        const footerText = dailyData.main.footerSummary || "";
+        const nextTease = dailyData.slides[0]?.heading || "";
+        
+        canvas.className = 'main-hook-style'; 
+        html = `<div class="content-body">
+                <span class="kicker"></span>
+                <header>
+                    <h1 class="auto-fit">${stackedTitleHTML}</h1>
+                </header>
+                <div class="footer-paragraph-placeholder">${footerText}</div>
+                </div>
+                <div class="next-up-tease">NEXT UP: ${nextTease}</div>
+                <div class="swipe-prompt">SWIPE NEXT →</div>`;
+    } else if (id === 'follow') {
+        canvas.className = 'main-hook-style cta-slide';
+        
+        let followIndex = 1;
+        try {
+            const trackerRes = await fetch('follow_tracker.txt?t=' + Date.now());
+            if (trackerRes.ok) {
+                const text = await trackerRes.text();
+                const parsedNum = parseInt(text.trim());
+                if (!isNaN(parsedNum) && parsedNum > 0) {
+                    followIndex = parsedNum;
+                }
+            }
+        } catch (e) {
+            console.log("Follow tracker read defaulted, using slide9-1.png");
+        }
 
-# SYSTEM RESET LOGIC: Kickstart cron automation cache sync
+        const followAssetUrl = `followup/slide9-${followIndex}.png`;
+
+        // --- REQUIREMENT 3: Slide 9 (FOLLOW) strictly has image background only with nothing else ---
+        html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
+    } else if (id === 'quote') {
+        // --- FIXED: Independent standalone quote style dynamically pulling from window.globalQuoteLibrary using quote_tracker.txt sequence ---
+        canvas.className = 'quote-slide-style';
+        
+        let qIndex = 0;
+        try {
+            const qTrackerRes = await fetch('quote_tracker.txt?t=' + Date.now());
+            if (qTrackerRes.ok) {
+                const qText = await qTrackerRes.text();
+                const parsedQNum = parseInt(qText.trim());
+                if (!isNaN(parsedQNum) && parsedQNum >= 0) {
+                    qIndex = parsedQNum;
+                }
+            }
+        } catch (e) {
+            console.log("Quote tracker read defaulted to index 0");
+        }
+
+        let selectedQuoteObj = null;
+        if (typeof window.globalQuoteLibrary !== 'undefined' && window.globalQuoteLibrary.length > 0) {
+            selectedQuoteObj = window.globalQuoteLibrary[qIndex % window.globalQuoteLibrary.length];
+        }
+
+        const qData = selectedQuoteObj ? {
+            heading: `EXECUTIVE PERSPECTIVE: ${selectedQuoteObj.domain.toUpperCase()}`,
+            quoteText: selectedQuoteObj.quote,
+            author: `${selectedQuoteObj.author}, ${selectedQuoteObj.title}`,
+            context: selectedQuoteObj.domain
+        } : (dailyData.quote || { heading: "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION", quoteText: "", author: "", context: "" });
+
+        const formattedQuoteHeading = formatTitleBlue(qData.heading || "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION");
+        
+        html = `<div class="content-body">
+                <header><h1 class="auto-fit">${formattedQuoteHeading}</h1><div class="header-divider"></div></header>
+                <div class="quote-content-wrapper">
+                    <p class="quote-main-text">"${qData.quoteText || qData.content || ""}"</p>
+                    <p class="quote-author">${qData.author ? "— " + qData.author : (qData.author || "")}</p>
+                    <p class="quote-context">${qData.context ? "Context: " + qData.context : ""}</p>
+                </div>
+                </div>
+                <div class="swipe-prompt">SWIPE NEXT →</div>`;
+    } else if (id === 'post') {
+        // --- REQUIREMENT 3: Isolated POST slide with clean white background, text caption, and standalone copy button ---
+        canvas.className = 'post-slide-style';
+        let postTextContent = "Loading post content...";
+        try {
+            const postRes = await fetch('post.txt?t=' + Date.now());
+            if (postRes.ok) {
+                postTextContent = await postRes.text();
+            }
+        } catch (e) {
+            postTextContent = "Failed to load post.txt content.";
+        }
+
+        html = `<div class="post-content-container" style="background: #ffffff; color: #111111; padding: 40px; width: 100%; height: 100%; box-sizing: border-box; overflow-y: auto; display: flex; flex-direction: column; justify-content: space-between;">
+                <div>
+                    <h2 style="margin-top: 0; color: #000000; font-family: sans-serif; font-size: 24px; border-bottom: 2px solid #00c0ff; padding-bottom: 10px;">SOCIAL MEDIA POST CAPTION</h2>
+                    <pre style="white-space: pre-wrap; font-family: monospace; font-size: 14px; line-height: 1.5; color: #222222; margin-top: 20px;">${postTextContent}</pre>
+                </div>
+                <div style="text-align: right; margin-top: 20px;">
+                    <button id="isolated-copy-btn" style="background: #00c0ff; color: #ffffff; border: none; padding: 12px 24px; font-weight: bold; cursor: pointer; border-radius: 4px; font-size: 14px;">COPY POST CAPTION</button>
+                </div>
+               `;
+    } else {
+        const index = id - 1;
+        const slide = dailyData.slides[index];
+        canvas.className = 'sub-slide-style';
+        if (slide) {
+            let bulletList = "";
+            if (Array.isArray(slide.points)) {
+                bulletList = slide.points.map(pt => `<li>${pt.trim().replace(/\.$/, '')}</li>`).join('');
+            } else if (slide.content) {
+                const sentences = slide.content.split('. ').filter(s => s.trim().length > 0);
+                bulletList = sentences.map(s => `<li>${s.trim().replace(/\.$/, '')}</li>`).join('');
+            }
+            
+            // --- TITLE GLITCH FIX: Ensure formatTitleBlue correctly handles sources prefixes like "SOURCE: TITLE" ---
+            const formattedHeading = formatTitleBlue(slide.heading);
+            
+            // --- REQUIREMENT 2: Slide 7 bottom next up precisely points to EXECUTIVE PERSPECTIVE ---
+            let nextTease = "";
+            const maxSubSlides = Math.min(dailyData.slides.length, 7);
+            if (index === maxSubSlides - 1) {
+                nextTease = "EXECUTIVE PERSPECTIVE";
+            } else if (index < maxSubSlides - 1) {
+                nextTease = dailyData.slides[index + 1].heading;
+            }
+            
+            html = `<div class="content-body">
+                    <header><h1 class="auto-fit">${formattedHeading}</h1><div class="header-divider"></div></header>
+                    <div class="detail-text"><ul class="smart-bullets">${bulletList}</ul></div>
+                    </div>
+                    ${nextTease ? `<div class="next-up-tease">NEXT UP: ${nextTease}</div>` : ""}
+                    <div class="swipe-prompt">SWIPE NEXT →</div>`;
+        }
+    }
+    canvas.innerHTML = html;
+
+    // Attach copy event listener if POST slide is active
+    if (id === 'post') {
+        const copyBtn = document.getElementById('isolated-copy-btn');
+        if (copyBtn) {
+            copyBtn.onclick = async () => {
+                try {
+                    let textToCopy = "";
+                    const postRes = await fetch('post.txt?t=' + Date.now());
+                    if (postRes.ok) {
+                        textToCopy = await postRes.text();
+                    } else {
+                        textToCopy = document.querySelector('.post-content-container pre')?.innerText || "";
+                    }
+                    await navigator.clipboard.writeText(textToCopy);
+                    copyBtn.innerText = "COPIED SUCCESSFULLY!";
+                    setTimeout(() => { copyBtn.innerText = "COPY POST CAPTION"; }, 2000);
+                } catch (err) {
+                    console.error("Clipboard write failed", err);
+                    alert("Failed to copy text automatically.");
+                }
+            };
+        }
+    }
+
+    setTimeout(() => {
+        const titles = canvas.querySelectorAll('.auto-fit');
+        titles.forEach(t => fitText(t, 500, 850));
+    }, 50);
+}
+
+async function downloadCurrentSlide() {
+    const canvas = document.getElementById('post-canvas');
+    const dlBtn = document.getElementById('download-active');
+    const activeTab = document.querySelector('.tab-btn.active');
+    
+    if (!canvas || !dlBtn) return;
+    if (activeTab && activeTab.innerText === 'POST') {
+        alert("Post slide is isolated from image downloads.");
+        return;
+    }
+
+    dlBtn.innerText = "CAPTURING...";
+    dlBtn.disabled = true;
+
+    try {
+        const rendered = await html2canvas(canvas, { 
+            scale: 2, 
+            useCORS: true,
+            allowTaint: true, 
+            backgroundColor: "#050505",
+            logging: false
+        });
+        
+        const imageData = rendered.toDataURL("image/png");
+        const link = document.createElement('a');
+        const slideName = activeTab ? activeTab.innerText.replace(/\s+/g, '_') : "SLIDE";
+        
+        link.href = imageData;
+        link.download = `SIYAL_AIR_${slideName}.png`;
+        
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+
+    } catch (err) {
+        console.error("Capture Error:", err);
+        alert("Render extraction halted. Verify local script server permissions.");
+    } finally {
+        dlBtn.innerText = "DOWNLOAD SLIDE";
+        dlBtn.disabled = false;
+    }
+}
+
+async function downloadAllSlides() {
+    const canvas = document.getElementById('post-canvas');
+    const dlBtn = document.getElementById('download-active');
+    if (!canvas || !dlBtn) return;
+
+    const originalActiveTab = document.querySelector('.tab-btn.active');
+    let originalId = 'main';
+    
+    if (originalActiveTab) {
+        if (originalActiveTab.innerText === 'MAIN') originalId = 'main';
+        else if (originalActiveTab.innerText === 'FOLLOW') originalId = 'follow';
+        else if (originalActiveTab.innerText === 'QUOTE') originalId = 'quote';
+        else if (originalActiveTab.innerText === 'POST') originalId = 'post';
+        else originalId = parseInt(originalActiveTab.innerText.replace('SLIDE-', ''));
+    }
+
+    dlBtn.innerText = "CAPTURING ALL (REVERSE ORDER)...";
+    dlBtn.disabled = true;
+
+    // --- REVERSE ORDER PIPELINE: FOLLOW -> QUOTE -> SLIDES 7..1 -> MAIN ---
+    const queue = ['follow', 'quote'];
+    const maxSubSlides = Math.min(dailyData.slides.length, 7);
+    for (let i = maxSubSlides; i >= 1; i--) {
+        queue.push(i);
+    }
+    queue.push('main');
+
+    // Calculate total items for reverse indexing serialization (09 down to 01)
+    const totalItems = queue.length;
+
+    try {
+        let sequenceIndex = totalItems;
+        for (const slideId of queue) {
+            await switchSlide(slideId, null);
+            // Increased pause interval to 1500ms to guarantee DOM paint stability and prevents race conditions
+            await new Promise(resolve => setTimeout(resolve, 1500));
+
+            const rendered = await html2canvas(canvas, { 
+                scale: 2, 
+                useCORS: true,
+                allowTaint: true,
+                backgroundColor: "#050505",
+                logging: false
+            });
+            
+            const imageData = rendered.toDataURL("image/png");
+            const link = document.createElement('a');
+            
+            // Apply pristine zero-padded file serialization prefixes in reverse sequences (09 to 01)
+            const paddedNum = String(sequenceIndex).padStart(2, '0');
+            const fileSuffix = typeof slideId === 'string' ? slideId.toUpperCase() : `SLIDE_${paddedNum}`;
+            
+            link.href = imageData;
+            link.download = `SIYAL_AIR_${paddedNum}_${fileSuffix}.png`;
+            
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+            sequenceIndex--;
+        }
+    } catch (err) {
+        console.error("Bulk Processing Error:", err);
+        alert("Bulk download failed. Verify pipeline file system links.");
+    } finally {
+        await switchSlide(originalId, originalActiveTab);
+        dlBtn.innerText = "DOWNLOAD ALL SLIDES";
+        dlBtn.disabled = false;
+    }
+}
