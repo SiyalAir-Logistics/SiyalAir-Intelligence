@@ -216,7 +216,7 @@ async function switchSlide(id, element) {
         // --- REQUIREMENT 3: Slide 9 (FOLLOW) strictly has image background only with nothing else ---
         html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
     } else if (id === 'quote') {
-        // --- FIXED: Independent standalone quote style integrating globalQuoteLibrary and quote_tracker.txt sequence ---
+        // --- FIXED: Independent standalone quote style dynamically pulling from window.globalQuoteLibrary using quote_tracker.txt sequence ---
         canvas.className = 'quote-slide-style';
         
         let qIndex = 0;
@@ -252,7 +252,7 @@ async function switchSlide(id, element) {
                 <div class="quote-content-wrapper">
                     <p class="quote-main-text">"${qData.quoteText || qData.content || ""}"</p>
                     <p class="quote-author">${qData.author ? "— " + qData.author : (qData.author || "")}</p>
-                    <p class="quote-context">${qData.domain ? "Domain: " + qData.domain : (qData.context ? "Context: " + qData.context : "")}</p>
+                    <p class="quote-context">${qData.context ? "Context: " + qData.context : ""}</p>
                 </div>
                 </div>
                 <div class="swipe-prompt">SWIPE NEXT →</div>`;
