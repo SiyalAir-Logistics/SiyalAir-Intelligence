@@ -154,14 +154,17 @@ async function switchSlide(id, element) {
     if (!canvas) return;
 
     const formatTitleBlue = (text) => {
-        if (text.includes(':')) {
-            const parts = text.split(':');
-            const bluePart = parts[0] + ':';
-            const whitePart = parts.slice(1).join(':');
-            return `<span class="blue-text">${bluePart}</span>${whitePart}`;
+        if (!text) return "";
+        let cleanText = text.trim();
+        // Fix title glitch by matching standard labels with colons like "DOJ: TITLE" or "TRIGGER: TITLE"
+        const colonIndex = cleanText.indexOf(':');
+        if (colonIndex !== -1 && colonIndex <= 25) {
+            const bluePart = cleanText.substring(0, colonIndex + 1);
+            const whitePart = cleanText.substring(colonIndex + 1).trim();
+            return `<span class="blue-text">${bluePart}</span> ${whitePart}`;
         }
-        const words = text.trim().split(' ');
-        if (words.length <= 1) return `<span class="last-word-blue">${text}</span>`;
+        const words = cleanText.split(' ');
+        if (words.length <= 1) return `<span class="last-word-blue">${cleanText}</span>`;
         const last = words.pop();
         return `${words.join(' ')} <span class="last-word-blue">${last}</span>`;
     };
@@ -399,20 +402,22 @@ async function downloadAllSlides() {
         else originalId = parseInt(originalActiveTab.innerText.replace('SLIDE-', ''));
     }
 
-    dlBtn.innerText = "CAPTURING ALL...";
+    dlBtn.innerText = "CAPTURING ALL (REVERSE ORDER)...";
     dlBtn.disabled = true;
 
-    // --- FIXED PIPELINE ORDER: MAIN -> SLIDES 1..7 -> QUOTE -> FOLLOW (Sequential Folder Ordering) ---
-    const queue = ['main'];
+    // --- REVERSE ORDER PIPELINE: FOLLOW -> QUOTE -> SLIDES 7..1 -> MAIN ---
+    const queue = ['follow', 'quote'];
     const maxSubSlides = Math.min(dailyData.slides.length, 7);
-    for (let i = 1; i <= maxSubSlides; i++) {
+    for (let i = maxSubSlides; i >= 1; i--) {
         queue.push(i);
     }
-    queue.push('quote');
-    queue.push('follow');
+    queue.push('main');
+
+    // Calculate total items for reverse indexing serialization (09 down to 01)
+    const totalItems = queue.length;
 
     try {
-        let sequenceIndex = 1;
+        let sequenceIndex = totalItems;
         for (const slideId of queue) {
             await switchSlide(slideId, null);
             // Increased pause interval to 1500ms to guarantee DOM paint stability and prevent race conditions
@@ -429,7 +434,7 @@ async function downloadAllSlides() {
             const imageData = rendered.toDataURL("image/png");
             const link = document.createElement('a');
             
-            // Apply pristine zero-padded file serialization prefixes (01 to 09)
+            // Apply pristine zero-padded file serialization prefixes in reverse sequence (09 to 01)
             const paddedNum = String(sequenceIndex).padStart(2, '0');
             const fileSuffix = typeof slideId === 'string' ? slideId.toUpperCase() : `SLIDE_${paddedNum}`;
             
@@ -439,7 +444,7 @@ async function downloadAllSlides() {
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
-            sequenceIndex++;
+            sequenceIndex--;
         }
     } catch (err) {
         console.error("Bulk Processing Error:", err);
