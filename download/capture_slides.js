@@ -36,34 +36,24 @@ const path = require('path');
         timeout: 60000
     });
 
-    // --- ENHANCEMENT: Explicitly wait for the canvas and quote tracker bindings to paint completely before clicking download ---
-    console.log("Awaiting core DOM painting and template injection bindings...");
-    try {
-        await page.waitForSelector('#post-canvas .content-body', { timeout: 15000 });
-        // Give an extra buffer to allow asynchronous tracker text and quotes to settle
-        await new Promise(r => setTimeout(r, 2000));
-    } catch (e) {
-        console.warn("Warning: Selector wait timed out, attempting click sequence regardless.");
-    }
-
     console.log("Triggering your engine's bulk download sequence...");
     // Programmatically click your existing functional header button (#download-active)
     await page.click('#download-active');
 
     console.log("Awaiting engine synthesis pipeline to process all slides...");
     
-    // --- UPDATED TARGET COUNT: Await precisely 10 total exported image files (MAIN, SLIDE 1-7, QUOTE, FOLLOW) ---
+    // Wait until files have finished downloading completely (dynamically checks based on available elements)
     let totalFiles = 0;
     for (let attempt = 0; attempt < 45; attempt++) {
         await new Promise(r => setTimeout(r, 1000));
         const files = fs.readdirSync(downloadPath).filter(f => f.endsWith('.png') || f.endsWith('.webp') || f.endsWith('.jpg'));
         totalFiles = files.length;
-        if (totalFiles >= 10) break; 
+        if (totalFiles >= 9) break; 
     }
 
     console.log(`Discovered ${totalFiles} raw assets. Streamlining structural order labels...`);
 
-    // Organize and sequentially rename the captured files cleanly (slide_01 to slide_10)
+    // Organize and sequentially rename the captured files cleanly (slide_01 to slide_09)
     const files = fs.readdirSync(downloadPath).filter(f => f.endsWith('.png') || f.endsWith('.webp') || f.endsWith('.jpg'));
     files.forEach((file) => {
         const fullPath = path.join(downloadPath, file);
@@ -72,14 +62,12 @@ const path = require('path');
         if (file.includes('MAIN')) {
             newName = "slide_01.webp";
         } else if (file.includes('FOLLOW')) {
-            newName = "slide_10.webp";
-        } else if (file.includes('QUOTE')) {
             newName = "slide_09.webp";
         } else {
-            const match = file.match(/SLIDE_(\d+)/) || file.match(/_(\d+)_/);
+            const match = file.match(/SLIDE_(\d+)/);
             if (match) {
-                const parsedVal = parseInt(match[1]);
-                const slideNum = parsedVal <= 7 && !file.includes('SLIDE_') ? parsedVal + 1 : parsedVal;
+                // Adds 1 so SLIDE_1 becomes slide_02.webp (leaving slide_01 for MAIN)
+                const slideNum = parseInt(match[1]) + 1; 
                 newName = `slide_${String(slideNum).padStart(2, '0')}.webp`;
             }
         }
