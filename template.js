@@ -1,38 +1,38 @@
-/* GENERATED UTC: 2026-07-25 19:18:15 */
+/* GENERATED UTC: 2026-07-25 19:19:58 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "Global Trade Tariff",
-        "titleBlue": "Volatility",
-        "footerSummary": "New U.S. Section 301 tariffs on 60 nations create immediate compliance friction, while ongoing geopolitical instability continues to strain trans-Pacific freight and oil logistics."
+        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleBlue": "SHIFT",
+        "footerSummary": "New U.S. tariff regime on 60 economies triggers widespread import uncertainty, compounding with peak season capacity constraints and escalating trans-Pacific logistics friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SUPPLY CHAIN DIVE: U.S. TARIFFS EXPAND",
+            "heading": "USTR: NEW SECTION 301 TARIFF REGIME",
             "points": [
-                "Section 122 levies expire as new Section 301 tariffs hit 60 global trading partners.",
-                "Importers face immediate cost spikes on wide-ranging goods and raw materials.",
-                "Supply chains must pivot to reconcile new duty schedules with existing contracts."
+                "Implementation of 10% and 12.5% duties on 60 nations as Section 122 expires.",
+                "Immediate surge in landed-cost complexity for importers navigating new levies.",
+                "Shift focus toward long-term duty mitigation and supply chain diversification."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHTWAVES: BROKER LIABILITY",
+            "nextUpTease": "C.H. ROBINSON VERDICT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FREIGHTWAVES: BROKER LIABILITY SHOCK",
+            "heading": "FREIGHTWAVES: NUCLEAR VERDICT IMPACT",
             "points": [
-                "C.H. Robinson to appeal $604 million nuclear verdict in negligent carrier case.",
-                "The ruling significantly raises the financial risk bar for freight brokerage vetting.",
-                "Industry standard carrier selection protocols now require immediate legal review."
+                "C.H. Robinson hit with $604M judgment in negligent carrier selection litigation.",
+                "Heightened broker liability standards forcing rigorous vetting of carrier safety.",
+                "Anticipate consolidation of small carriers as insurance risk premiums inflate."
             ],
             "imageUrl": "",
-            "nextUpTease": "JOC: DATA CENTER IMPORTS",
+            "nextUpTease": "PANAMA CANAL SURCHARGES",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -41,30 +41,30 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "JOC: DATA CENTER CARGO SURGE",
+            "heading": "SUPPLY CHAIN DIVE: PANAMA CANAL FEES",
             "points": [
-                "Hardware and infrastructure imports sustain trans-Pacific peak season volumes.",
-                "Data center buildouts mask declining demand in traditional consumer sectors.",
-                "Logistics providers should prioritize infrastructure-linked freight for capacity."
+                "MSC and CMA CGM introduce fresh surcharges citing canal draft restrictions.",
+                "Increased operational overhead for east-west tradelane transit costs.",
+                "Shippers likely to pivot toward intermodal alternatives to offset canal tolls."
             ],
             "imageUrl": "",
-            "nextUpTease": "THE LOADSTAR: CAPACITY DISCIPLINE",
+            "nextUpTease": "AIR CARGO RATE COOLING",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "THE LOADSTAR: BLANK SAILINGS IMPACT",
+            "heading": "THE LOADSTAR: AIR CARGO BALANCING",
             "points": [
-                "East-west tradelanes see capacity injection alongside ongoing blanked sailings.",
-                "Spot rates exhibit gentle decline amid carrier-enforced capacity management.",
-                "Shippers face continued uncertainty in planning trans-Pacific peak season flows."
+                "Spot rates cooling while fuel cost pressures climb, tightening carrier margins.",
+                "Contract sustainability faces severe headwinds in a volatile rate landscape.",
+                "Prioritize agile charter strategies to maintain flow during peak fluctuations."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCEBYTES: RURAL USPS FEES",
+            "nextUpTease": "USPS RURAL RATE HIKE",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -73,14 +73,14 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "ECOMMERCEBYTES: RURAL SHIPPING SURCHARGE",
+            "heading": "ECOMMERCEBYTES: USPS RURAL PRICING",
             "points": [
-                "USPS policy change adds $2-$3 cost per lightweight package to rural locations.",
-                "Online marketplace sellers face immediate margin erosion on rural deliveries.",
-                "E-commerce logistics strategy must adjust to address regional cost disparities."
+                "USPS implementing $2-$3 cost increase for lightweight rural package transit.",
+                "Margin compression for e-commerce sellers reliant on low-cost shipping tiers.",
+                "Re-evaluate last-mile carrier mix to mitigate rural delivery surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "CNBC: MIDDLE EAST TENSIONS",
+            "nextUpTease": "INDUSTRIAL REAL ESTATE",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -89,32 +89,32 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "CNBC: STRAIT OF HORMUZ RISK",
+            "heading": "LOGISTICS MGMT: INDUSTRIAL VACANCY",
             "points": [
-                "Oil tanker transit through key chokepoints faces extended disruption risks.",
-                "Escalating regional conflicts threaten global energy supply chain stability.",
-                "Fuel price volatility remains high due to persistent maritime threat levels."
+                "Industrial real estate vacancy stabilizes at 7.3% as supply-demand gap closes.",
+                "Stabilization signals an end to the period of explosive warehouse capacity.",
+                "Secure long-term lease renewals before market pricing potentially rebounds."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRANSPORT TOPICS: EMISSIONS DELAYS",
+            "nextUpTease": "TRUCKLOAD RATE SURGE",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRANSPORT TOPICS: ENGINE REGULATION",
+            "heading": "JOC: TRUCKLOAD RATE FORECAST",
             "points": [
-                "OEMs consider phasing in 2027 EPA NOx-compliant engines to manage transitions.",
-                "Regulatory compliance timelines create potential hardware procurement hurdles.",
-                "Fleets must account for engine transition impacts on long-term capital plans."
+                "Inbound import volumes projected to drive spot truckload rates higher in August.",
+                "Capacity tightening threatens reliability for existing 2027 contract bids.",
+                "Optimize freight audit schedules to prepare for mid-quarter price volatility."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY: QUOTE UNQUOTE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "DAILY: QUOTE UNQUOTE",
-        "quoteText": "Volatility is no longer an anomaly; it has become the baseline operating condition for the modern global supply chain.",
-        "author": "Logistics Intelligence Desk, Annual State of Logistics Report",
-        "context": "Domain: Infrastructure & Strategy Analysis"
+        "quoteText": "Effective leaders target the biggest bottlenecks rather than perfecting every link.",
+        "author": "Davey Miller, Chief Operating Officer, CMC",
+        "context": "Domain: Inbound Logistics"
     }
 };
