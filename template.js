@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF",
-        "titleBlue": "SHIFT",
-        "footerSummary": "New Section 301 tariffs on 60 trading partners trigger immediate supply chain volatility as US importers navigate complex, rapidly evolving duty enforcement and legal challenges."
+        "titleWhite": "GLOBAL TARIFF FRICTION",
+        "titleBlue": "SPIKES",
+        "footerSummary": "New Section 301 tariffs on 60 nations create immediate trade uncertainty, complicating U.S. import logistics while carriers implement fresh surcharges to mitigate volatility."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR ENFORCEMENT: TRADE TARIFF EXPANSION",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "United States Trade Representative initiates new Section 301 duties targeting 60 trading partners to enforce forced labor commitments.",
-                "Importers face immediate operational complexity as temporary Section 122 surcharge expirations coincide with new tariff regime implementation.",
-                "Legal challenges from domestic businesses are already targeting the administration's aggressive trade policy framework in federal courtrooms.",
-                "Supply chain managers must recalibrate landed cost models immediately to account for 10% to 12.5% duty fluctuations nationwide."
+                "The U.S. Trade Representative has officially implemented Section 301 tariffs on 60 trading partners targeting forced labor.",
+                "These duties ranging from 10% to 12.5% replace expiring Section 122 levies with immediate effect on supply chains.",
+                "Importers face significant compliance hurdles as documentation requirements intensify to prove supply chain origin and labor standards.",
+                "Logistics experts anticipate localized port congestion as companies rush to clear pending cargo under the new tariff regime."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER LIABILITY VERDICTS",
+            "nextUpTease": "CARRIER SURCHARGE ESCALATION",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -25,15 +25,32 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "LEGAL PRECEDENT: NUCLEAR CARRIER VERDICTS",
+            "heading": "CARRIERS: TRANS-PACIFIC SURCHARGES",
             "points": [
-                "C.H. Robinson faces a massive $604 million advisory verdict in a Mississippi negligent carrier selection lawsuit.",
-                "The Supreme Court's Montgomery ruling is fundamentally transforming how brokers must vet independent carriers to avoid massive liability.",
-                "Industry experts warn that AI-driven freight matching must incorporate stringent safety compliance data to mitigate future nuclear verdicts.",
-                "Brokerage firms are rapidly overhaulng vetting protocols as litigation risks for negligent carrier selection escalate across the country."
+                "Global carriers including MSC and CMA CGM have introduced fresh surcharges tied specifically to Panama Canal transit draft limits.",
+                "Heightened regional tensions near the Strait of Hormuz are further inflating bunker costs and disrupting standard vessel routing.",
+                "Shippers report capacity crunches on east-west trade lanes as carriers balance blank sailings against rising seasonal volume demands.",
+                "Ongoing equipment imbalances at major U.S. hubs force carriers to prioritize high-yield data center infrastructure and industrial freight."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL CONGESTION",
+            "nextUpTease": "LEGAL RISK IN BROKERAGE",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "LITIGATION: BROKER LIABILITY RISKS",
+            "points": [
+                "A massive $604 million jury verdict against C.H. Robinson has fundamentally altered the landscape for freight broker carrier vetting.",
+                "Legal precedents regarding negligent carrier selection are causing 3PL firms to reconsider reliance on automated AI-driven onboarding platforms.",
+                "Supreme Court rulings continue to raise the bar for broker accountability in fatal accident cases involving third-party motor carriers.",
+                "Logistics providers are aggressively auditing their risk management frameworks to avoid potential nuclear verdicts in future litigation cycles."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AUTOMATION & LABOR SHIFTS",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -41,33 +58,50 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MARITIME OPERATIONS: CANAL CAPACITY CONSTRAINTS",
+            "id": 4,
+            "heading": "WAREHOUSING: AUTOMATION ADOPTION",
             "points": [
-                "Panama Canal Authority reintroduces transit restrictions as El Ni\u00f1o climate patterns threaten regional maritime water levels again.",
-                "Major ocean carriers are implementing new Panama Canal draft surcharges to cover increased operational costs and scheduling delays.",
-                "East-west trade routes face potential bottlenecks as large container vessels struggle with reduced canal capacity and draft limitations.",
-                "Logistics providers are proactively rerouting supply chains to manage the persistent risk of congestion in critical oceanic lanes."
+                "Retailers are rapidly integrating drone inventory counting and AI-powered robotics to overcome significant warehouse labor turnover challenges.",
+                "Warehouse vacancy rates have stabilized at 7.3%, signaling a regain of balance as demand for fulfillment space begins leveling.",
+                "New federal investments in logistics hubs aim to modernize infrastructure connectivity across 36 regional corridors by mid-2027.",
+                "High-density fulfillment centers are increasingly relying on intelligent orchestration software to manage constraint-based planning and inventory replenishment workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE MARKETPLACE REGULATION",
+            "nextUpTease": "TRUCKING EMISSION REGULATIONS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 4,
-            "heading": "MARKETPLACE COMPLIANCE: E-COMMERCE SCRUTINY",
+            "id": 5,
+            "heading": "TRUCKING: MY-2027 ENGINE DEBATE",
             "points": [
-                "Congressional leaders are launching probes into potential Chinese market manipulation within major e-commerce platforms and retail networks.",
-                "Amazon and other major marketplaces are tightening rules for third-party sellers to improve B2B customer appeal and compliance.",
-                "E-commerce entities face increased regulatory pressure to sanitize supply chains against illicit goods and hazardous materials handling.",
-                "Sellers must navigate evolving handling-time requirements and stricter verification protocols to maintain account status on global marketplaces."
+                "International is evaluating a staggered phase-in for MY-2027 engines to ensure compliance with upcoming aggressive NOx emissions regulations.",
+                "Diesel production is ramping up at U.S. refineries, yet fuel tax increases across multiple states persist, inflating operational transport costs.",
+                "Autonomous technology and heavy truck cab overhauls remain high-priority equipment upgrades for fleets facing intense market-driven service expectations.",
+                "The trucking sector continues to face driver shortages exacerbated by regulatory shifts regarding CDL testing and licensing requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL INFRASTRUCTURE FUNDING",
+            "nextUpTease": "E-COMMERCE MARKETPLACE CHANGES",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "E-COMMERCE: PLATFORM COMPLIANCE",
+            "points": [
+                "Amazon is aggressively expanding B2B features for third-party sellers to capture broader business-to-business commerce market share this fall.",
+                "New USPS fees for lightweight package shipments to rural regions are prompting sellers to adjust their e-commerce fulfillment strategies.",
+                "Marketplaces are under intense scrutiny regarding potential China-linked price manipulation and the enforcement of stringent listing-level violation policies.",
+                "Consolidation continues within the fashion sector as eBay finalizes the acquisition of Depop to strengthen its competitive position globally."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "INFRASTRUCTURE & TRADE DATA",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -75,52 +109,18 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "INFRASTRUCTURE: LOGISTICS CORRIDOR FUNDING",
-            "points": [
-                "Federal funding initiatives are targeting 36 critical logistics hubs to strengthen domestic supply chain resilience and infrastructure capacity.",
-                "TradePort Corridor System projects are accelerating to connect key inland intermodal facilities with major manufacturing and shipping centers.",
-                "Heavy investment in data center hardware is currently sustaining peak season trans-Pacific shipping volumes despite wider retail weakness.",
-                "Logistics nodes are undergoing rapid modernization to handle complex intermodal flows and mitigate the risk of post-pandemic equipment gaps."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LOGISTICS LABOR DEVELOPMENTS",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "HUMAN CAPITAL: INDUSTRY LABOR SHIFTS",
-            "points": [
-                "Logistics and supply chain professionals report record-high compensation levels as their strategic importance grows across the enterprise.",
-                "Workforce development is becoming a core corporate priority as firms struggle to bridge the technical skills gap in warehousing.",
-                "New initiatives aim to incentivize veterans to fill commercial trucking roles, addressing the long-term industry driver shortage crisis.",
-                "Corporate leadership focus is shifting toward retention and upskilling as turnover rates remain a persistent threat to continuity."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY INTEGRATION RISKS",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "SYSTEM ARCHITECTURE: AI INTEGRATION RISKS",
+            "heading": "INFRASTRUCTURE: FED FUNDING BOOST",
             "points": [
-                "Supply chain executives are struggling to manage probabilistic AI agent risks and unpredictable outcomes in automated logistics workflows.",
-                "Customized EDI integrations remain a major source of operational bottlenecks as systems struggle with legacy versus modern standards.",
-                "Organizations are pivoting toward intelligent orchestration platforms to bridge the gap between long-term planning and real-time execution.",
-                "Resilience is increasingly defined by the ability to manage vendor AI agent risk while maintaining core electronic data stability."
+                "The Department of Transportation is channeling fresh funding into three major logistics hubs to bolster critical U.S. supply chain infrastructure.",
+                "Data center construction materials are currently driving trans-Pacific container volumes, compensating for weaker performance in the consumer merchandise segment.",
+                "CBP reports $1 billion in recoveries by the Trade Fraud Task Force, highlighting intensified enforcement against international shipping malfeasance.",
+                "Global trade remains in a state of flux as stakeholders adjust to long-term tariff uncertainty and shifting manufacturing onshoring promises."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
