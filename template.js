@@ -1,56 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "Global Trade Tariff",
-        "titleBlue": "Expansion",
-        "footerSummary": "USTR implements new Section 301 tariffs across 60 nations, replacing expired Section 122 duties and complicating global trade compliance for importers."
+        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleBlue": "VOLATILITY",
+        "footerSummary": "New USTR Section 301 tariffs on 60 economies trigger global supply chain friction as importers scramble to navigate shifting compliance and rising logistics costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: TARIFF REGIME EXPANSION",
+            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
             "points": [
-                "The Office of the United States Trade Representative has officially activated new Section 301 tariffs targeting 60 global trading partners.",
-                "These levies range from 10 percent to 12.5 percent, effective immediately following the expiration of temporary Section 122 surcharge frameworks.",
-                "Customs brokers and logistics teams now face a massive administrative burden as they reclassify goods under this complex new trade structure.",
-                "Importers must rapidly assess landed cost impacts as supply chains pivot to accommodate these abrupt federal shifts in international trade duties."
+                "The USTR implemented new 10% and 12.5% duties on 60 trading nations as Section 122 tariffs expire.",
+                "This shift creates immediate uncertainty for importers balancing forced labor compliance with existing supply chain contracts.",
+                "Experts anticipate widespread legal challenges as companies attempt to navigate the complex new tariff regime structure.",
+                "Strategic inventory stockpiling is accelerating as organizations look to mitigate the impact of sudden duty hikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER CAPACITY SHIFTS",
+            "nextUpTease": "CARRIER CAPACITY DISRUPTION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: CAPACITY DISCIPLINE",
+            "heading": "MARITIME: PANAMA CANAL RESTRICTIONS",
             "points": [
-                "Global ocean carriers are employing aggressive capacity discipline to maintain freight rates despite cooling demand across primary East-West trade lanes.",
-                "Blank sailings remain a structural reality for shippers as vessel operators prioritize equipment utilization and profitability over aggressive volume expansion strategies.",
-                "Market analysis indicates spot rates are experiencing a gentle decline rather than a total collapse, thanks to coordinated liner vessel capacity adjustments.",
-                "Forwarders report that the trans-Pacific market currently operates in uncharted waters with tariff volatility complicating peak season capacity planning for major retailers."
+                "Panama Canal Authority reinstates transit restrictions due to environmental concerns and El Ni\u00f1o weather patterns.",
+                "Carriers are rolling out surcharges to compensate for reduced draft capacity and emerging supply chain bottlenecks.",
+                "Global trade lanes are tightening as container ships face increased transit times and heightened fuel costs.",
+                "The ripple effects of these restrictions are expected to impact peak season inventory arrival projections globally."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING INDUSTRY LITIGATION",
+            "nextUpTease": "FREIGHT BROKER LEGAL LIABILITY",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LEGAL: NUCLEAR VERDICT IMPACT",
+            "heading": "TRUCKING: NUCLEAR VERDICT CONSEQUENCES",
             "points": [
-                "The logistics sector is reeling after a 604 million dollar nuclear verdict was handed down against C.H. Robinson regarding negligent carrier selection.",
-                "Legal experts warn this outcome sets a dangerous precedent, drastically raising the bar for freight broker carrier vetting and insurance compliance requirements.",
-                "Brokerages are now scrambling to modernize their internal compliance systems, transitioning from manual processes to automated AI-driven risk management protocols.",
-                "Stakeholders expect significantly increased scrutiny on outsourcing agreements as shippers demand higher levels of transparency and documented safety performance from partners."
+                "A massive $604 million jury verdict against C.H. Robinson has shaken industry standards for carrier vetting.",
+                "The ruling heightens legal risks for freight brokers regarding negligent selection and commercial safety oversight.",
+                "Logistics providers are rapidly auditing carrier compliance systems to avoid the precedent set by recent litigation.",
+                "Heightened scrutiny on broker liability signals a permanent shift toward stricter vetting and risk management."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY & AI DISTILLATION",
+            "nextUpTease": "LOGISTICS LABOR SHORTAGES",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "INDUSTRY: KUEHNE+NAGEL APEX IPO",
+            "points": [
+                "Kuehne+Nagel signals intent to divest or list its Apex Logistics unit amidst changing market dynamics.",
+                "Industry analysts view the move as a divergence from DSV\u2019s aggressive acquisition-focused growth and operational strategy.",
+                "Pricing power and market share gains in road and air remain central to current forwarder performance metrics.",
+                "The proposed listing highlights the industry trend toward optimizing specialized units for better capital allocation."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RETAIL WAREHOUSE EXPANSION",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -58,69 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "TECH: AI DISTILLATION TRENDS",
-            "points": [
-                "Tech firms are pivoting toward AI distillation to optimize processing power, moving beyond simple automation into agentic supply chain decision architectures.",
-                "The industry is seeing a shift from experimental AI pilots to real-world operational execution within warehouse and transportation management system environments.",
-                "Investment remains concentrated in hardware-integrated AI, as data centers continue to consume significant trans-Pacific import capacity for buildout components.",
-                "Supply chain executives must now manage probabilistic AI agent behavior, which creates unpredictable risks within sensitive planning and procurement workflows."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RAIL INFRASTRUCTURE FUNDING",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "INFRASTRUCTURE: FEDERAL FUNDING",
+            "heading": "RETAIL: AMAZON INFRASTRUCTURE GROWTH",
             "points": [
-                "The U.S. government has announced a strategic injection of federal funding into three critical hubs within the TradePort Corridor logistics network.",
-                "These investments aim to bridge the gap in regional freight connectivity, supporting the 36-hub system intended to modernize domestic goods movement infrastructure.",
-                "Enhanced terminal capacities are expected to stabilize intermodal service reliability, providing a competitive edge for shippers bidding on 2027 freight contracts.",
-                "Local infrastructure development is prioritizing bottlenecks that have long constrained throughput for inland intermodal facilities serving major West Coast gateway ports."
+                "Amazon announces a 4.2 million-square-foot fulfillment center project on Long Island to bolster regional capacity.",
+                "Major retailers are intensifying warehouse density to manage last-mile delivery and peak season order fulfillment demands.",
+                "Corporate strategy is pivoting toward deeper integration of automated systems within massive new physical footprint projects.",
+                "Infrastructure investment remains a core competitive moat for dominant e-commerce players navigating tightening market logistics."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE MARKETPLACE RULES",
+            "nextUpTease": "AUTOMATION & ROBOTICS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ECOMMERCE: MARKETPLACE COMPLIANCE",
+            "heading": "TECHNOLOGY: AI-DRIVEN WAREHOUSE OPS",
             "points": [
-                "Senate investigations are probing potential manipulation in e-commerce, specifically regarding accounts that bypass standard operating procedures through third-party illicit services.",
-                "Amazon is aggressively expanding B2B features, compelling third-party sellers to adapt their fulfillment infrastructure to meet the demands of enterprise-level business buyers.",
-                "New USPS noncompliance fees and password requirements are forcing online sellers to refine their shipping protocols or risk unexpected surcharges on small parcels.",
-                "Marketplace dynamics are tightening as major platforms integrate stricter handling-time rules, effectively limiting seller flexibility in high-volume, holiday-driven fulfillment cycles."
+                "Warehouse operators are increasingly deploying AI-powered tools to optimize inventory management and reduce labor turnover rates.",
+                "Advanced robotics are replacing manual cycle counts to improve efficiency in large-scale logistics distribution facility environments.",
+                "Integration of automated planning software is closing the gap between demand forecasting and operational warehouse execution.",
+                "Tech-driven supply chain resilience is becoming the standard for enterprises facing labor and demand volatility challenges."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSE AUTOMATION SCALES",
+            "nextUpTease": "TRADE REGULATION COMPLIANCE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "WAREHOUSE: AUTOMATION SCALING",
+            "heading": "GOVERNMENT: TRADE FRAUD ENFORCEMENT",
             "points": [
-                "Warehouse operations are scaling flexible robotics, with major retailers deploying drone-based cycle counting to replace labor-intensive manual inventory processes.",
-                "Software-driven orchestration is replacing traditional point-solution automation, enabling a more cohesive response to fluctuating order volumes and labor supply shortages.",
-                "Leading fulfillment centers are integrating constraint-based planning platforms to bridge the gap between long-term supply forecasting and day-to-day warehouse floor execution.",
-                "Adoption of autonomous yard management systems is delivering significant yard fleet reductions, proving that strategic technology deployment remains the primary driver of efficiency."
+                "The DOJ Trade Fraud Task Force achieves $1 billion in recoveries since the inception of investigations.",
+                "Federal oversight of international imports is intensifying to prevent illicit activity and ensure market fair competition.",
+                "Manufacturers and importers face heightened scrutiny from customs agencies regarding origin and compliance documentation procedures.",
+                "Enforcement actions act as a deterrent against fraudulent trade practices across the global supply chain landscape."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
