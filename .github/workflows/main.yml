@@ -339,8 +339,8 @@ jobs:
               server.login(sender, password)
               server.sendmail(sender, [recipient], msg.as_string())
               server.quit()
-              print(f"Success: Notification email sent to {recipient} with subject: {subject_line}")
+              print(f"Success: Notification email report sent to {recipient}")
 
           except Exception as e:
-              print(f"Error executing email step: {str(e)}")
+              print(f"Email failure: {e}")
           EOF
