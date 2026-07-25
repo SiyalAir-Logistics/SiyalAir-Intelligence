@@ -1,120 +1,120 @@
-/* GENERATED UTC: 2026-07-25 17:08:08 */
+/* GENERATED UTC: 2026-07-25 17:17:30 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "SPIKES",
-        "footerSummary": "New U.S. Section 301 tariffs on 60 economies and persistent capacity constraints are triggering significant operational volatility for international supply chain stakeholders."
+        "titleWhite": "COMPLIANCE INFRASTRUCTURE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Global supply chain networks adapt as the US introduces strict Section 301 tariffs on 60 nations and broker liabilities hit historic highs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "THE LOADSTAR: NEW TARIFF REGIME",
+            "heading": "CBP: SECTION 301 TRANSITION IMPACTS",
             "points": [
-                "U.S. replaces Section 122 surcharges with Section 301 duties across 60 economies.",
-                "Importers face high administrative complexity and immediate duty liability increases.",
-                "Customs specialists project prolonged legal ambiguity regarding final tariff assessments."
+                "US replaces Section 122 tariffs with Section 301 on 60 trading partners.",
+                "Duties rise between 10% and 12.5% based on forced labor enforcement rules.",
+                "Importers must quickly audit compliance files to prevent customs seizure risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRANSPORT TOPICS: LTL SHIFTS",
+            "nextUpTease": "C.H. ROBINSON VERDICT",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: cbp.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRANSPORT TOPICS: LTL REALIGNMENT",
+            "heading": "COURTROOM: LIABILITY STANDARD WARNING",
             "points": [
-                "International is staggering model-year 2027 engine rollouts due to NOx regulations.",
-                "Phased implementation creates potential maintenance and engine parts procurement lags.",
-                "Fleets must adjust capital expenditure forecasts for new equipment compliance."
+                "Mississippi jury awards a massive $604 million negligent broker select verdict.",
+                "Third-party logistics providers face ballooning costs for safety compliance audits.",
+                "Brokerages must tighten vetting protocols to survive rising liability thresholds."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHTWAVES: TRUCKING CAPACITY",
+            "nextUpTease": "USPS RURAL SURCHARGES",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FREIGHTWAVES: CAPACITY CRUNCH",
+            "heading": "USPS: LIGHTWEIGHT PARCEL SURCHARGES",
             "points": [
-                "Trucking capacity tightens as rates hold near record levels amidst driver rules.",
-                "Shippers face severe maneuverability limits in securing consistent freight space.",
-                "Regulatory compliance costs are effectively choking off available network supply."
+                "USPS implements rural delivery surcharges on lightweight e-commerce packages.",
+                "Shipping fees to rural destinations increase by $2.00 to $3.00 per package.",
+                "E-commerce merchants must recalculate margins or diversify last-mile carriers."
             ],
             "imageUrl": "",
-            "nextUpTease": "DC VELOCITY: IMPORT SURGE",
+            "nextUpTease": "EPA MY-2027 FLEET STAGGER",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DC VELOCITY: IMPORT VOLUME SPIKE",
+            "heading": "TRATON: EPA ENGINE PLAN UNVEILED",
             "points": [
-                "Summer monthly imports projected to reach highest levels since the 2022 peak.",
-                "Increased inbound volumes are exacerbating existing warehouse labor constraints.",
-                "Strategic inventory stockpiling is accelerating ahead of potential Q3 disruptions."
+                "International plans to stagger model year 2027 heavy-duty engine introductions.",
+                "Incoming EPA NOx emissions rules force a phased rollout of compliant vehicles.",
+                "Fleets must extend current heavy-duty asset leases to secure market capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPPLY CHAIN DIVE: TARIFF IMPACT",
+            "nextUpTease": "KUEHNE+NAGEL APEX VALUATION",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SUPPLY CHAIN DIVE: TARIFF ACTIONS",
+            "heading": "K+N: APEX LOGISTICS SPIN-OFF OPTIONS",
             "points": [
-                "US imposes targeted 10-12.5% duties based on new forced labor enforcement rules.",
-                "Tariff implementation impacts cross-sector logistics costs effective immediately.",
-                "Manufacturers must re-verify tier-1 and tier-2 source compliance protocols now."
+                "Kuehne + Nagel evaluates selling a partial stake in its Apex Logistics unit.",
+                "A potential IPO or stake sale could alter dominant transpacific air trade lanes.",
+                "High-volume air shippers must lock in multi-year block space allocations now."
             ],
             "imageUrl": "",
-            "nextUpTease": "JOC: INFRASTRUCTURE FUNDING",
+            "nextUpTease": "TSMC $100B EXPANSION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: cargonews.net",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "JOURNAL OF COMMERCE: FUNDING BOOST",
+            "heading": "TSMC: SEMICONDUCTOR LOGISTICS DEMAND",
             "points": [
-                "Federal grants awarded to develop infrastructure at 36 key logistics corridor hubs.",
-                "Investment aims to mitigate inland transit bottlenecks and improve freight flow.",
-                "Long-term regional connectivity will likely benefit from improved terminal access."
+                "TSMC commits a massive $100B to construct four additional advanced US fabs.",
+                "Supply chains face immediate regional flatbed and specialized transport squeezes.",
+                "Industrial logistics teams must secure transport capacity around Southwest hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "CNBC: AI SPENDING RISKS",
+            "nextUpTease": "FEDEX PEAK RATE UPDATE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CNBC: AI SPENDING ANXIETY",
+            "heading": "FEDEX: 2026 PEAK SEASON SURCHARGES",
             "points": [
-                "Bond markets signal growing anxiety over aggressive AI capital expenditure budgets.",
-                "High investment costs threaten credit ratings for major hyperscale tech platforms.",
-                "Logistics providers should monitor tech-spending stability for potential SaaS ripple."
+                "FedEx releases its peak season rate card, hiking residential parcel fees.",
+                "Escalated peak home delivery surcharges threaten low-margin e-commerce margins.",
+                "Shippers must model regional carrier splits to bypass peak shipping windows."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
