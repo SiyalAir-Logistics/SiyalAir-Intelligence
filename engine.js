@@ -186,14 +186,14 @@ async function switchSlide(id, element) {
         
         canvas.className = 'main-hook-style'; 
         html = `<div class="content-body">
-                <span class="kicker"></span>
-                <header>
-                    <h1 class="auto-fit">${stackedTitleHTML}</h1>
-                </header>
-                <div class="footer-paragraph-placeholder">${footerText}</div>
-                </div>
-                <div class="next-up-tease">NEXT UP: ${nextTease}</div>
-                <div class="swipe-prompt">SWIPE NEXT →</div>`;
+            <span class="kicker"></span>
+            <header>
+                <h1 class="auto-fit">${stackedTitleHTML}</h1>
+            </header>
+            <div class="footer-paragraph-placeholder">${footerText}</div>
+            </div>
+            <div class="next-up-tease">NEXT UP: ${nextTease}</div>
+            <div class="swipe-prompt">SWIPE NEXT →</div>`;
     } else if (id === 'follow') {
         canvas.className = 'main-hook-style cta-slide';
         
@@ -216,43 +216,33 @@ async function switchSlide(id, element) {
         // --- REQUIREMENT 3: Slide 9 (FOLLOW) strictly has image background only with nothing else ---
         html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
     } else if (id === 'quote') {
-        // --- FIXED: Independent standalone quote style dynamically pulling from window.globalQuoteLibrary using quote_tracker.txt sequence ---
+        // --- FIXED: Directly fetch quote.txt cleanly matching post.txt style ---
         canvas.className = 'quote-slide-style';
         
-        let qIndex = 0;
+        let quoteFileContent = "EXECUTIVE PERSPECTIVE\nLoading daily executive insight...";
         try {
-            const qTrackerRes = await fetch('quote_tracker.txt?t=' + Date.now());
-            if (qTrackerRes.ok) {
-                const qText = await qTrackerRes.text();
-                const parsedQNum = parseInt(qText.trim());
-                if (!isNaN(parsedQNum) && parsedQNum >= 0) {
-                    qIndex = parsedQNum;
-                }
+            const qRes = await fetch('quote.txt?t=' + Date.now());
+            if (qRes.ok) {
+                quoteFileContent = await qRes.text();
             }
         } catch (e) {
-            console.log("Quote tracker read defaulted to index 0");
+            console.log("Failed to load quote.txt, using fallback.");
         }
 
-        let selectedQuoteObj = null;
-        if (typeof window.globalQuoteLibrary !== 'undefined' && window.globalQuoteLibrary.length > 0) {
-            selectedQuoteObj = window.globalQuoteLibrary[qIndex % window.globalQuoteLibrary.length];
-        }
+        const lines = quoteFileContent.split('\n').map(l => l.trim()).filter(l => l.length > 0);
+        const headingText = lines[0] || "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION";
+        const mainQuoteText = lines[1] || quoteFileContent;
+        const authorText = lines[2] || "";
+        const domainText = lines[3] || "";
 
-        const qData = selectedQuoteObj ? {
-            heading: `EXECUTIVE PERSPECTIVE: ${selectedQuoteObj.domain.toUpperCase()}`,
-            quoteText: selectedQuoteObj.quote,
-            author: `${selectedQuoteObj.author}, ${selectedQuoteObj.title}`,
-            context: selectedQuoteObj.domain
-        } : (dailyData.quote || { heading: "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION", quoteText: "", author: "", context: "" });
-
-        const formattedQuoteHeading = formatTitleBlue(qData.heading || "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION");
+        const formattedQuoteHeading = formatTitleBlue(headingText);
         
         html = `<div class="content-body">
                 <header><h1 class="auto-fit">${formattedQuoteHeading}</h1><div class="header-divider"></div></header>
                 <div class="quote-content-wrapper">
-                    <p class="quote-main-text">"${qData.quoteText || qData.content || ""}"</p>
-                    <p class="quote-author">${qData.author ? "— " + qData.author : (qData.author || "")}</p>
-                    <p class="quote-context">${qData.context ? "Context: " + qData.context : ""}</p>
+                    <p class="quote-main-text">"${mainQuoteText}"</p>
+                    <p class="quote-author">${authorText}</p>
+                    <p class="quote-context">${domainText}</p>
                 </div>
                 </div>
                 <div class="swipe-prompt">SWIPE NEXT →</div>`;
