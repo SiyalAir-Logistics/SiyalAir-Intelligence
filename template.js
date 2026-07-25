@@ -1,120 +1,120 @@
-/* GENERATED UTC: 2026-07-25 13:22:36 */
+/* GENERATED UTC: 2026-07-25 13:56:58 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF",
-        "titleBlue": "VOLATILITY",
-        "footerSummary": "New U.S. Section 301 tariffs on 60 economies replace expiring Section 122 levies, causing widespread importer uncertainty and shifting cross-border compliance requirements."
+        "titleWhite": "GLOBAL LOGISTICS SYSTEMIC",
+        "titleBlue": "FRICTION",
+        "footerSummary": "The US implements Section 301 tariffs on 60 economies as 3PLs face massive litigation risks and carriers brace for Panama Canal transit restrictions."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SUPPLY CHAIN DIVE: USTR TARIFF REALIGNMENT",
+            "heading": "USTR: SECTION 301 TARIFF TRANSITION",
             "points": [
-                "USTR implements new 10-12.5% Section 301 tariffs on 60 trading partners.",
-                "Shift follows expiration of temporary Section 122 emergency duty measures.",
-                "Importers must recalibrate landed cost models against complex tariff schedules."
+                "US replaces Section 122 surcharges with Section 301 tariffs on 60 nations.",
+                "Imports face sudden 10% to 12.5% custom duties, disrupting low-margin agreements.",
+                "Importers must audit sourcing networks to offset immediate cost hikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON VERDICT",
+            "nextUpTease": "CH ROBINSON NUCLEAR VERDICT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FREIGHTWAVES: NUCLEAR VERDICT IMPACT",
+            "heading": "CH ROBINSON: $604M NUCLEAR VERDICT",
             "points": [
-                "C.H. Robinson to appeal $604M jury verdict in negligent carrier selection case.",
-                "Legal ruling sets dangerous precedent for freight broker liability exposure.",
-                "Brokers face increased pressure to overhaul carrier vetting protocols immediately."
+                "Mississippi jury awards $604 million in damages over a fatal highway crash.",
+                "Brokers face extreme liability exposure due to loose carrier vetting protocols.",
+                "Shippers must transition to rigorous, automated safety-vetting compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERNATIONAL ENGINE SHIFT",
+            "nextUpTease": "DOJ TRADE FRAUD CLAIMS",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRANSPORT TOPICS: MY-2027 ENGINE DELAY",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE SURGE",
             "points": [
-                "International mulls staggered introduction of EPA 2027 compliant truck engines.",
-                "Operational uncertainty rises regarding fleet procurement and maintenance cycles.",
-                "Industry monitors emissions compliance versus hardware availability bottlenecks."
+                "The federal trade fraud task force recovers $1 billion in penalties and losses.",
+                "Customs compliance and forced-labor enforcement actions trigger massive audits.",
+                "Importers must maintain absolute transaction visibility to mitigate seizure risk."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL SURCHARGES",
+            "nextUpTease": "EDI CUSTOMIZATION BOTTLENECKS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SUPPLY CHAIN DIVE: PANAMA CANAL FEES",
+            "heading": "TRANSPORT TOPICS: EDI INTEGRATION BLOCKED",
             "points": [
-                "MSC and CMA CGM introduce new surcharges due to Panama Canal draft limits.",
-                "Transit restrictions threaten to tighten capacity on major east-west corridors.",
-                "Shippers must adjust contingency plans for rising trans-oceanic freight costs."
+                "Customized EDI integrations create severe operational bottlenecks for carriers.",
+                "Legacy data systems fail to dynamically handle real-time rate and route changes.",
+                "Operators must fast-track standardized API transitions for workflow fluidity."
             ],
             "imageUrl": "",
-            "nextUpTease": "US LOGISTICS FUNDING",
+            "nextUpTease": "FMC DETENTION FEE RULES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "JOC: LOGISTICS HUB INFRASTRUCTURE",
+            "heading": "FMC: OCEAN CARRIER DETENTION FEE RULING",
             "points": [
-                "Federal funding boost allocated for critical US logistics hub network nodes.",
-                "Infrastructure investment targets increased throughput efficiency at 36 locations.",
-                "Projected long-term gains in intermodal fluidity despite current trade friction."
+                "Federal court upholds FMC ruling requiring detention fees to promote cargo flow.",
+                "Shipping lines face strict limitations on billing for non-fluid container dwell.",
+                "Shippers should review historic demurrage invoices to reclaim unlawful charges."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON B2B EXPANSION",
+            "nextUpTease": "USPS RURAL RATE HIKES",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ECOMMERCEBYTES: AMAZON B2B PUSH",
+            "heading": "USPS: NEW RURAL SHIPPING SURCHARGES",
             "points": [
-                "Amazon scales B2B conference to integrate third-party sellers into business sales.",
-                "Platform expansion aims to capture greater market share from traditional B2B.",
-                "Sellers face new operational requirements for business-grade fulfillment metrics."
+                "Postal Service increases lightweight package rates to rural areas by $2 to $3.",
+                "E-commerce margins on budget items face sudden compression on third-party sites.",
+                "Online retailers must recalculate regional fulfillment paths to manage costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC SEMICONDUCTOR INVESTMENT",
+            "nextUpTease": "PANAMA CANAL TRANSIT RESTRICTIONS",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SUPPLY CHAIN DIVE: TSMC CAPEX EXPANSION",
+            "heading": "PANAMA CANAL: TRANSIT RESTRICTIONS RETURN",
             "points": [
-                "TSMC commits $100B for four additional advanced U.S. semiconductor facilities.",
-                "Total domestic footprint grows to 12 facilities, bolstering chip supply chains.",
-                "Infrastructure buildout signifies long-term commitment to U.S. tech resilience."
+                "Authority prepares for El Nino, scheduling new vessel transit limitations.",
+                "Shippers face longer ocean transit delays and higher carrier-imposed surcharges.",
+                "Logistics planners should secure space early on alternative intermodal routes."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "Volatility is no longer a temporary state; it is the new baseline for global supply chain strategy.",
-        "author": "James Ferry, Senior Supply Chain Strategist, Global Logistics Monitor",
-        "context": "Domain: Global Trade & Economics"
+        "quoteText": "Legacy networks are falling behind as compliance friction reaches historic levels.",
+        "author": "Marcus Weyhing, Managing Director of Global Compliance",
+        "context": "Domain: Custom Compliance & Broker Risk Management"
     }
 };
