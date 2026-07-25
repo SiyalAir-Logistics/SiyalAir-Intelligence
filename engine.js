@@ -239,13 +239,13 @@ async function switchSlide(id, element) {
         }
 
         const qData = selectedQuoteObj ? {
-            heading: `EXECUTIVE PERSPECTIVE: ${selectedQuoteObj.domain.toUpperCase()}`,
+            heading: `DAILY: QUOTE UNQUOTE`,
             quoteText: selectedQuoteObj.quote,
             author: `${selectedQuoteObj.author}, ${selectedQuoteObj.title}`,
             context: selectedQuoteObj.domain
-        } : (dailyData.quote || { heading: "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION", quoteText: "", author: "", context: "" });
+        } : (dailyData.quote || { heading: "DAILY: QUOTE UNQUOTE", quoteText: "", author: "", context: "" });
 
-        const formattedQuoteHeading = formatTitleBlue(qData.heading || "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION");
+        const formattedQuoteHeading = formatTitleBlue(qData.heading || "DAILY: QUOTE UNQUOTE");
         
         html = `<div class="content-body">
                 <header><h1 class="auto-fit">${formattedQuoteHeading}</h1><div class="header-divider"></div></header>
@@ -298,7 +298,7 @@ async function switchSlide(id, element) {
             let nextTease = "";
             const maxSubSlides = Math.min(dailyData.slides.length, 7);
             if (index === maxSubSlides - 1) {
-                nextTease = "EXECUTIVE PERSPECTIVE";
+                nextTease = "DAILY QUOTE UNQUOTE";
             } else if (index < maxSubSlides - 1) {
                 nextTease = dailyData.slides[index + 1].heading;
             }
