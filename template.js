@@ -1,120 +1,120 @@
-/* GENERATED UTC: 2026-07-25 18:57:59 */
+/* GENERATED UTC: 2026-07-25 19:04:25 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF SHIFTS",
-        "titleBlue": "RECALIBRATION",
-        "footerSummary": "New U.S. Section 301 tariffs on 60 economies replace Section 122 duties, triggering widespread compliance re-evaluations and immediate operational friction for importers."
+        "titleWhite": "SUPPLY CHAIN REGULATORY",
+        "titleBlue": "VOLATILITY",
+        "footerSummary": "US shifts Section 122 to Section 301 tariffs, while a massive $604M broker liability ruling and new Panama Canal limits reshape transpacific freight planning."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SUPPLY CHAIN DIVE: USTR TARIFF EXPANSION",
+            "heading": "TRANSPORT TOPICS: CH ROBINSON NUCLEAR VERDICT",
             "points": [
-                "USTR enacts new 10% to 12.5% tariffs on 60 trading nations for forced labor issues.",
-                "Duty implementation coincides with the expiration of previous Section 122 levies.",
-                "Importers face immediate landed cost volatility and urgent customs audit cycles."
+                "Mississippi jury hits broker C.H. Robinson with a massive $604 million crash ruling.",
+                "Verdict raises legal standards for freight broker carrier vetting and liability risk.",
+                "Shippers must enforce rigorous independent safety audits of all contract carriers."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: RATE VOLATILITY",
+            "nextUpTease": "SUPPLY CHAIN DIVE: TARIFF SHIFT ON 60 NATIONS",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FREIGHTWAVES: TRUCKING CAPACITY CRUNCH",
+            "heading": "SUPPLY CHAIN DIVE: TARIFF SHIFT ON 60 NATIONS",
             "points": [
-                "Record-high freight rates persist as trucking capacity tightens across US networks.",
-                "Driver supply is restricted by compounding new regulatory compliance requirements.",
-                "Shippers must pivot to higher-cost intermodal or specialized carrier lanes."
+                "US replaces temporary Section 122 duties with targeted Section 301 tariffs.",
+                "Importers face immediate 10% to 12.5% duties linked to forced labor enforcement.",
+                "Shippers must audit origin trace logs to satisfy strict customs clearance rules."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: SHIPPER REGULATION",
+            "nextUpTease": "INBOUND LOGISTICS: DOJ SEIZES $1B IN FRAUD",
             "tags": [
-                "Source: freightwaves.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FEDERAL MARITIME COMMISSION: DETAIN FEES",
+            "heading": "INBOUND LOGISTICS: DOJ SEIZES $1B IN FRAUD",
             "points": [
-                "US Court of Appeals validates FMC mandate that detention fees must aid fluidity.",
-                "Shipping lines face stricter oversight regarding billing practices and transparency.",
-                "Legal precedents now empower shippers to contest predatory port-related charges."
+                "DOJ Trade Fraud Task Force recovers $1 billion in penalties under one year.",
+                "Enforcement focuses on customs classification evasion, transshipment, and duties.",
+                "Supply chain leaders need rigorous trade compliance audits to avoid severe penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: EDI BOTTLENECKS",
+            "nextUpTease": "FMC: COURT UPHOLDS DETENTION FEE FLUIDITY",
             "tags": [
-                "Source: fmc.gov",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRANSPORT TOPICS: EDI INTEGRATION RISK",
+            "heading": "FMC: COURT UPHOLDS DETENTION FEE FLUIDITY",
             "points": [
-                "Heavy reliance on customized EDI integrations is creating critical data bottlenecks.",
-                "System fragmentation prevents real-time visibility for multi-carrier logistics.",
-                "Enterprises are shifting toward standardized, AI-orchestrated communication layers."
+                "US Court of Appeals upholds FMC ruling requiring detention fees to boost fluidity.",
+                "Ocean carriers are barred from billing shippers when port congestion blocks pickups.",
+                "Shippers must audit historical billing logs to recoup non-fluidity invoice charges."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: FED FUNDING",
+            "nextUpTease": "THE LOADSTAR: PANAMA CANAL TRANSIT CONTROLS",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "JOURNAL OF COMMERCE: LOGISTICS HUBS",
+            "heading": "THE LOADSTAR: PANAMA CANAL TRANSIT CONTROLS",
             "points": [
-                "Federal capital injection confirmed for three key nodes in TradePort Corridor.",
-                "Infrastructure investment aims to stabilize regional freight movement for 2027.",
-                "Localized buildouts may alter standard carrier routing strategies significantly."
+                "Panama Canal Authority braces for El Nino, planning new vessel draft limitations.",
+                "Shippers anticipate slot restrictions and ocean carriers introducing fresh surcharges.",
+                "Supply chains must balance East Coast lane strategies with West Coast port routing."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER LAW: LEGAL LIABILITY",
+            "nextUpTease": "TRANSPORT TOPICS: APEX LOGISTICS SPIN OFF",
             "tags": [
-                "Source: joc.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "THE LOADSTAR: CARRIER LIABILITY SHOCK",
+            "heading": "TRANSPORT TOPICS: APEX LOGISTICS SPIN OFF",
             "points": [
-                "C.H. Robinson faces $604M verdict in landmark negligent carrier selection case.",
-                "Industry standard for broker vetting faces immediate legal and insurance crisis.",
-                "Brokers must overhaul third-party compliance to mitigate future nuclear verdicts."
+                "Kuehne + Nagel evaluates selling a significant stake in its Apex Logistics division.",
+                "Action aims to unlock capital amid rising logistics technology cost inflation.",
+                "Transpacific air cargo contracts must adapt to shifts in forwarding scale strategy."
             ],
             "imageUrl": "",
-            "nextUpTease": "RISK: MIDDLE EAST DISRUPTION",
+            "nextUpTease": "ECOMMERCE BYTES: RURAL POSTAL RATE HIKE",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CNBC: RED SEA TRADE CORRIDOR RISK",
+            "heading": "ECOMMERCE BYTES: RURAL POSTAL RATE HIKE",
             "points": [
-                "Strait of Hormuz traffic projected to face severe disruption for 12+ months.",
-                "Escalating regional conflicts threaten critical energy and maritime supply routes.",
-                "Carriers are rerouting assets to avoid conflict zones, driving up global premiums."
+                "USPS implements $2 to $3 rate hikes on lightweight packages bound for rural areas.",
+                "Online sellers face margin degradation on low-value e-commerce market shipments.",
+                "Multi-channel merchants must re-optimize regional fulfillment node distributions."
             ],
             "imageUrl": "",
             "nextUpTease": "DAILY: QUOTE UNQUOTE",
             "tags": [
-                "Source: cnbc.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "DAILY: QUOTE UNQUOTE",
-        "quoteText": "Constant market shifts demand prioritization and creative workarounds. Effective leaders target the biggest bottlenecks rather than perfecting every link.",
-        "author": "Davey Miller, Chief Operating Officer, CMC",
-        "context": "Domain: Inbound Logistics"
+        "quoteText": "As logistics volatility becomes structural, supply chain resilience is a core asset.",
+        "author": "Vincent Clerc, Chief Executive Officer at Maersk",
+        "context": "Domain: Maritime Global Logistics"
     }
 };
