@@ -67,10 +67,7 @@ async function fixBackgroundCORS() {
         const blob = await response.blob();
         const reader = new FileReader();
         reader.onloadend = () => {
-            // Apply inline style background image permanently to survive tab switches/re-renders
             canvas.style.backgroundImage = `url(${reader.result})`;
-            canvas.style.backgroundSize = 'cover';
-            canvas.style.backgroundPosition = 'center';
             console.log(`Loaded background${bgIndex}.png successfully and optimized for render capture.`);
         };
         reader.readAsDataURL(blob);
@@ -87,8 +84,6 @@ async function fallbackDefaultBackground(canvas) {
         const reader = new FileReader();
         reader.onloadend = () => {
             canvas.style.backgroundImage = `url(${reader.result})`;
-            canvas.style.backgroundSize = 'cover';
-            canvas.style.backgroundPosition = 'center';
         };
         reader.readAsDataURL(blob);
     } catch (err) {
@@ -107,35 +102,19 @@ function initTabs() {
     mainBtn.onclick = (e) => { e.preventDefault(); switchSlide('main', mainBtn); };
     tabContainer.appendChild(mainBtn);
     
-    // --- STABLE TAB FIX: Strictly limit regular slides loop to exactly 7 slides (SLIDE-1 through SLIDE-7) ---
-    const targetSlideCount = Math.min(dailyData.slides.length, 7);
-    for (let index = 0; index < targetSlideCount; index++) {
+    dailyData.slides.forEach((slide, index) => {
         const btn = document.createElement('button');
         btn.className = 'tab-btn';
         btn.innerText = `SLIDE-${index + 1}`;
         btn.onclick = (e) => { e.preventDefault(); switchSlide(index + 1, btn); };
         tabContainer.appendChild(btn);
-    }
-
-    // --- REQUIREMENT 1 & 3: Insert QUOTE tab right after regular slides ---
-    const quoteBtn = document.createElement('button');
-    quoteBtn.className = 'tab-btn';
-    quoteBtn.innerText = 'QUOTE';
-    quoteBtn.onclick = (e) => { e.preventDefault(); switchSlide('quote', quoteBtn); };
-    tabContainer.appendChild(quoteBtn);
+    });
 
     const followBtn = document.createElement('button');
     followBtn.className = 'tab-btn';
     followBtn.innerText = 'FOLLOW';
     followBtn.onclick = (e) => { e.preventDefault(); switchSlide('follow', followBtn); };
     tabContainer.appendChild(followBtn);
-
-    // --- REQUIREMENT 1 & 3: Insert POST tab at the absolute end, isolated from downloads ---
-    const postBtn = document.createElement('button');
-    postBtn.className = 'tab-btn';
-    postBtn.innerText = 'POST';
-    postBtn.onclick = (e) => { e.preventDefault(); switchSlide('post', postBtn); };
-    tabContainer.appendChild(postBtn);
 }
 
 function fitText(element, maxHeight, maxWidth) {
@@ -153,21 +132,15 @@ async function switchSlide(id, element) {
     const canvas = document.getElementById('post-canvas');
     if (!canvas) return;
 
-    // Ensure background CORS base64 is re-evaluated and preserved across slide renders
-    await fixBackgroundCORS();
-
     const formatTitleBlue = (text) => {
-        if (!text) return "";
-        let cleanText = text.trim();
-        // Fix title glitch by matching standard labels with colons like "DOJ: TITLE" or "TRIGGER: TITLE"
-        const colonIndex = cleanText.indexOf(':');
-        if (colonIndex !== -1 && colonIndex <= 25) {
-            const bluePart = cleanText.substring(0, colonIndex + 1);
-            const whitePart = cleanText.substring(colonIndex + 1).trim();
-            return `<span class="blue-text">${bluePart}</span> ${whitePart}`;
+        if (text.includes(':')) {
+            const parts = text.split(':');
+            const bluePart = parts[0] + ':';
+            const whitePart = parts.slice(1).join(':');
+            return `<span class="blue-text">${bluePart}</span>${whitePart}`;
         }
-        const words = cleanText.split(' ');
-        if (words.length <= 1) return `<span class="last-word-blue">${cleanText}</span>`;
+        const words = text.trim().split(' ');
+        if (words.length <= 1) return `<span class="last-word-blue">${text}</span>`;
         const last = words.pop();
         return `${words.join(' ')} <span class="last-word-blue">${last}</span>`;
     };
@@ -200,6 +173,7 @@ async function switchSlide(id, element) {
     } else if (id === 'follow') {
         canvas.className = 'main-hook-style cta-slide';
         
+        // Dynamically fetch active follow-up slide index from follow_tracker.txt
         let followIndex = 1;
         try {
             const trackerRes = await fetch('follow_tracker.txt?t=' + Date.now());
@@ -216,71 +190,7 @@ async function switchSlide(id, element) {
 
         const followAssetUrl = `followup/slide9-${followIndex}.png`;
 
-        // --- REQUIREMENT 3: Slide 9 (FOLLOW) strictly has image background only with nothing else ---
         html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
-    } else if (id === 'quote') {
-        // --- FIXED: Independent standalone quote style dynamically pulling from window.globalQuoteLibrary using quote_tracker.txt sequence ---
-        canvas.className = 'quote-slide-style';
-        
-        let qIndex = 0;
-        try {
-            const qTrackerRes = await fetch('quote_tracker.txt?t=' + Date.now());
-            if (qTrackerRes.ok) {
-                const qText = await qTrackerRes.text();
-                const parsedQNum = parseInt(qText.trim());
-                if (!isNaN(parsedQNum) && parsedQNum >= 0) {
-                    qIndex = parsedQNum;
-                }
-            }
-        } catch (e) {
-            console.log("Quote tracker read defaulted to index 0");
-        }
-
-        let selectedQuoteObj = null;
-        if (typeof window.globalQuoteLibrary !== 'undefined' && window.globalQuoteLibrary.length > 0) {
-            selectedQuoteObj = window.globalQuoteLibrary[qIndex % window.globalQuoteLibrary.length];
-        }
-
-        const qData = selectedQuoteObj ? {
-            heading: `DAILY: QUOTE UNQUOTE`,
-            quoteText: selectedQuoteObj.quote,
-            author: `${selectedQuoteObj.author}, ${selectedQuoteObj.title}`,
-            context: selectedQuoteObj.domain
-        } : (dailyData.quote || { heading: "DAILY: QUOTE UNQUOTE", quoteText: "", author: "", context: "" });
-
-        const formattedQuoteHeading = formatTitleBlue(qData.heading || "DAILY: QUOTE UNQUOTE");
-        
-        html = `<div class="content-body">
-                <header><h1 class="auto-fit">${formattedQuoteHeading}</h1><div class="header-divider"></div></header>
-                <div class="quote-content-wrapper">
-                    <p class="quote-main-text">"${qData.quoteText || qData.content || ""}"</p>
-                    <p class="quote-author">${qData.author ? "— " + qData.author : (qData.author || "")}</p>
-                    <p class="quote-context">${qData.context ? "Context: " + qData.context : ""}</p>
-                </div>
-                </div>
-                <div class="swipe-prompt">SWIPE NEXT →</div>`;
-    } else if (id === 'post') {
-        // --- REQUIREMENT 3: Isolated POST slide with clean white background, text caption, and standalone copy button ---
-        canvas.className = 'post-slide-style';
-        let postTextContent = "Loading post content...";
-        try {
-            const postRes = await fetch('post.txt?t=' + Date.now());
-            if (postRes.ok) {
-                postTextContent = await postRes.text();
-            }
-        } catch (e) {
-            postTextContent = "Failed to load post.txt content.";
-        }
-
-        html = `<div class="post-content-container" style="background: #ffffff; color: #111111; padding: 40px; width: 100%; height: 100%; box-sizing: border-box; overflow-y: auto; display: flex; flex-direction: column; justify-content: space-between;">
-                <div>
-                    <h2 style="margin-top: 0; color: #000000; font-family: sans-serif; font-size: 24px; border-bottom: 2px solid #00c0ff; padding-bottom: 10px;">SOCIAL MEDIA POST CAPTION</h2>
-                    <pre style="white-space: pre-wrap; font-family: monospace; font-size: 14px; line-height: 1.5; color: #222222; margin-top: 20px;">${postTextContent}</pre>
-                </div>
-                <div style="text-align: right; margin-top: 20px;">
-                    <button id="isolated-copy-btn" style="background: #00c0ff; color: #ffffff; border: none; padding: 12px 24px; font-weight: bold; cursor: pointer; border-radius: 4px; font-size: 14px;">COPY POST CAPTION</button>
-                </div>
-               `;
     } else {
         const index = id - 1;
         const slide = dailyData.slides[index];
@@ -288,23 +198,16 @@ async function switchSlide(id, element) {
         if (slide) {
             let bulletList = "";
             if (Array.isArray(slide.points)) {
-                bulletList = slide.points.map(pt => `<li>${pt.trim().replace(/\.$/, '')}</li>`).join('');
+                const combinedText = slide.points.join(' ');
+                const sentences = combinedText.split('. ').filter(s => s.trim().length > 0);
+                bulletList = sentences.map(s => `<li>${s.trim().replace(/\.$/, '')}</li>`).join('');
             } else if (slide.content) {
                 const sentences = slide.content.split('. ').filter(s => s.trim().length > 0);
                 bulletList = sentences.map(s => `<li>${s.trim().replace(/\.$/, '')}</li>`).join('');
             }
             
-            // --- TITLE GLITCH FIX: Ensure formatTitleBlue correctly handles sources prefixes like "SOURCE: TITLE" ---
             const formattedHeading = formatTitleBlue(slide.heading);
-            
-            // --- REQUIREMENT 2: Slide 7 bottom next up precisely points to EXECUTIVE PERSPECTIVE ---
-            let nextTease = "";
-            const maxSubSlides = Math.min(dailyData.slides.length, 7);
-            if (index === maxSubSlides - 1) {
-                nextTease = "DAILY QUOTE UNQUOTE";
-            } else if (index < maxSubSlides - 1) {
-                nextTease = dailyData.slides[index + 1].heading;
-            }
+            const nextTease = (index < dailyData.slides.length - 1) ? dailyData.slides[index + 1].heading : "";
             
             html = `<div class="content-body">
                     <header><h1 class="auto-fit">${formattedHeading}</h1><div class="header-divider"></div></header>
@@ -315,31 +218,6 @@ async function switchSlide(id, element) {
         }
     }
     canvas.innerHTML = html;
-
-    // Attach copy event listener if POST slide is active
-    if (id === 'post') {
-        const copyBtn = document.getElementById('isolated-copy-btn');
-        if (copyBtn) {
-            copyBtn.onclick = async () => {
-                try {
-                    let textToCopy = "";
-                    const postRes = await fetch('post.txt?t=' + Date.now());
-                    if (postRes.ok) {
-                        textToCopy = await postRes.text();
-                    } else {
-                        textToCopy = document.querySelector('.post-content-container pre')?.innerText || "";
-                    }
-                    await navigator.clipboard.writeText(textToCopy);
-                    copyBtn.innerText = "COPIED SUCCESSFULLY!";
-                    setTimeout(() => { copyBtn.innerText = "COPY POST CAPTION"; }, 2000);
-                } catch (err) {
-                    console.error("Clipboard write failed", err);
-                    alert("Failed to copy text automatically.");
-                }
-            };
-        }
-    }
-
     setTimeout(() => {
         const titles = canvas.querySelectorAll('.auto-fit');
         titles.forEach(t => fitText(t, 500, 850));
@@ -352,10 +230,6 @@ async function downloadCurrentSlide() {
     const activeTab = document.querySelector('.tab-btn.active');
     
     if (!canvas || !dlBtn) return;
-    if (activeTab && activeTab.innerText === 'POST') {
-        alert("Post slide is isolated from image downloads.");
-        return;
-    }
 
     dlBtn.innerText = "CAPTURING...";
     dlBtn.disabled = true;
@@ -400,31 +274,22 @@ async function downloadAllSlides() {
     if (originalActiveTab) {
         if (originalActiveTab.innerText === 'MAIN') originalId = 'main';
         else if (originalActiveTab.innerText === 'FOLLOW') originalId = 'follow';
-        else if (originalActiveTab.innerText === 'QUOTE') originalId = 'quote';
-        else if (originalActiveTab.innerText === 'POST') originalId = 'post';
         else originalId = parseInt(originalActiveTab.innerText.replace('SLIDE-', ''));
     }
 
-    dlBtn.innerText = "CAPTURING ALL (REVERSE ORDER)...";
+    dlBtn.innerText = "CAPTURING ALL...";
     dlBtn.disabled = true;
 
-    // --- REVERSE ORDER PIPELINE: FOLLOW -> QUOTE -> SLIDES 7..1 -> MAIN ---
-    const queue = ['follow', 'quote'];
-    const maxSubSlides = Math.min(dailyData.slides.length, 7);
-    for (let i = maxSubSlides; i >= 1; i--) {
-        queue.push(i);
-    }
-    queue.push('main');
+    const queue = ['main'];
+    dailyData.slides.forEach((_, i) => queue.push(i + 1));
+    queue.push('follow');
 
-    // Calculate total items for reverse indexing serialization (09 down to 01)
-    const totalItems = queue.length;
+    queue.reverse();
 
     try {
-        let sequenceIndex = totalItems;
         for (const slideId of queue) {
             await switchSlide(slideId, null);
-            // Increased pause interval to 1500ms to guarantee DOM paint stability and prevents race conditions
-            await new Promise(resolve => setTimeout(resolve, 1500));
+            await new Promise(resolve => setTimeout(resolve, 80));
 
             const rendered = await html2canvas(canvas, { 
                 scale: 2, 
@@ -436,18 +301,14 @@ async function downloadAllSlides() {
             
             const imageData = rendered.toDataURL("image/png");
             const link = document.createElement('a');
-            
-            // Apply pristine zero-padded file serialization prefixes in reverse sequences (09 to 01)
-            const paddedNum = String(sequenceIndex).padStart(2, '0');
-            const fileSuffix = typeof slideId === 'string' ? slideId.toUpperCase() : `SLIDE_${paddedNum}`;
+            const fileSuffix = typeof slideId === 'string' ? slideId.toUpperCase() : `SLIDE_${slideId}`;
             
             link.href = imageData;
-            link.download = `SIYAL_AIR_${paddedNum}_${fileSuffix}.png`;
+            link.download = `SIYAL_AIR_${fileSuffix}.png`;
             
             document.body.appendChild(link);
             link.click();
             document.body.removeChild(link);
-            sequenceIndex--;
         }
     } catch (err) {
         console.error("Bulk Processing Error:", err);
