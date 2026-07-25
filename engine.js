@@ -291,7 +291,7 @@ async function switchSlide(id, element) {
                 bulletList = sentences.map(s => `<li>${s.trim().replace(/\.$/, '')}</li>`).join('');
             }
             
-            // --- TITLE GLITCH FIX: Ensure formatTitleBlue correctly handles source prefixes like "SOURCE: TITLE" ---
+            // --- TITLE GLITCH FIX: Ensure formatTitleBlue correctly handles sources prefixes like "SOURCE: TITLE" ---
             const formattedHeading = formatTitleBlue(slide.heading);
             
             // --- REQUIREMENT 2: Slide 7 bottom next up precisely points to EXECUTIVE PERSPECTIVE ---
@@ -420,7 +420,7 @@ async function downloadAllSlides() {
         let sequenceIndex = totalItems;
         for (const slideId of queue) {
             await switchSlide(slideId, null);
-            // Increased pause interval to 1500ms to guarantee DOM paint stability and prevent race conditions
+            // Increased pause interval to 1500ms to guarantee DOM paint stability and prevents race conditions
             await new Promise(resolve => setTimeout(resolve, 1500));
 
             const rendered = await html2canvas(canvas, { 
@@ -434,7 +434,7 @@ async function downloadAllSlides() {
             const imageData = rendered.toDataURL("image/png");
             const link = document.createElement('a');
             
-            // Apply pristine zero-padded file serialization prefixes in reverse sequence (09 to 01)
+            // Apply pristine zero-padded file serialization prefixes in reverse sequences (09 to 01)
             const paddedNum = String(sequenceIndex).padStart(2, '0');
             const fileSuffix = typeof slideId === 'string' ? slideId.toUpperCase() : `SLIDE_${paddedNum}`;
             
