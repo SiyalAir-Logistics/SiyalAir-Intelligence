@@ -1,120 +1,120 @@
-/* GENERATED UTC: 2026-07-25 14:49:11 */
+/* GENERATED UTC: 2026-07-25 14:55:23 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "STRUCTURAL FREIGHT",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "New Section 301 tariffs, a historic $604M freight broker ruling, and Panama Canal restrictions trigger rapid restructuring across global logistics networks."
+        "titleWhite": "Global Trade Systemic",
+        "titleBlue": "Shift",
+        "footerSummary": "New U.S. Section 301 tariffs on 60 economies trigger global supply chain compliance restructuring as logistics firms face record-high legal and operational headwinds."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: NEW SECTION 301 TARIFF REGIME",
+            "heading": "SUPPLY CHAIN DIVE: U.S. TARIFF RESTRUCTURE",
             "points": [
-                "US replaces Section 122 import surcharges with 10% to 12.5% Section 301 tariffs.",
-                "New duties impact 60 global economies, targeting forced labor enforcement gaps.",
-                "Importers must audit customs classifications to mitigate new tariff exposures."
+                "New Section 301 tariffs on 60 trading partners replace expired Section 122 levies.",
+                "Importers now face 10% or 12.5% duties, sparking legal challenges from businesses.",
+                "Supply chains must pivot to new compliance protocols to avoid duty-free disqualification."
             ],
             "imageUrl": "",
-            "nextUpTease": "COURT: C.H. ROBINSON $604M VERDICT",
+            "nextUpTease": "LOGISTICS RATE FLUCTUATIONS",
             "tags": [
-                "Source: cbp.gov",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "COURT: C.H. ROBINSON $604M VERDICT",
+            "heading": "THE LOADSTAR: TRANS-PACIFIC CAPACITY",
             "points": [
-                "Jury hits broker with $604 million verdict for negligent carrier selection.",
-                "Legal exposure raises carrier vetting standards to unprecedented liability levels.",
-                "3PLs must implement algorithmic vetting protocols to mitigate negligent selection."
+                "Capacity injection of large containerships impacts east-west tradelane pricing.",
+                "Spot rates on main trades face downward pressure despite lingering blank sailings.",
+                "Shippers must balance lower spot market costs against unreliable schedule integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS SPIN-OFF",
+            "nextUpTease": "CARRIER LEGAL LIABILITIES",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "KUEHNE+NAGEL: APEX LOGISTICS SPIN-OFF",
+            "heading": "FREIGHTWAVES: CARRIER LEGAL RISKS",
             "points": [
-                "Kuehne+Nagel evaluates options, including a stake sale in Apex Logistics.",
-                "Move marks divergent paths as DSV pursues M&A while K+N prioritizes optimization.",
-                "Shippers face potential capacity shifts across transpacific air corridors."
+                "C.H. Robinson faces appeal following a massive $604 million negligent selection case.",
+                "Nuclear verdicts set new precedents for broker carrier vetting and liability scope.",
+                "Logistics providers must overhaul vetting tech to mitigate high-stakes legal exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: NEW TRANSIT RESTRICTIONS",
+            "nextUpTease": "PANAMA CANAL CONSTRAINTS",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PANAMA CANAL: NEW TRANSIT RESTRICTIONS",
+            "heading": "JOC: DATA CENTER LOGISTICS IMPACT",
             "points": [
-                "Panama Canal Authority prepares to reintroduce draft limits and transit curbs.",
-                "Draft limits will force ocean carriers to levy fresh transit surcharges.",
-                "Shippers must brace for transit delays and route diversions to US West Coast."
+                "Hardware and infrastructure imports sustain trans-Pacific volumes amid weak retail.",
+                "Data center buildouts mask current consumer merchandise demand suppression.",
+                "Logistics planners should shift focus to project cargo and specialized tech lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "JOC: CHICAGO CHASSIS SHORTAGE RISKS",
+            "nextUpTease": "TRUCKING CAPACITY TIGHTENING",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "JOC: CHICAGO CHASSIS SHORTAGE RISKS",
+            "heading": "LOGISTICS MGMT: LABOR MARKET TRENDS",
             "points": [
-                "West Coast import surges trigger regional inland chassis equipment deficits.",
-                "Chicago rail hubs face localized chassis deficits, delaying container turns.",
-                "Intermodal operators must secure chassis pools to prevent demurrage fees."
+                "Logistics professional salaries rebound to $126k amid strategic role expansion.",
+                "Industry talent focus shifting toward risk management and technology integration.",
+                "Higher compensation reflects the increased complexity of managing global disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOADSTAR: AIR FREIGHT CONTRACT CRUNCH",
+            "nextUpTease": "AUTOMATION & ROBOTICS",
             "tags": [
-                "Source: joc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LOADSTAR: AIR FREIGHT CONTRACT CRUNCH",
+            "heading": "DC VELOCITY: RETAIL IMPORT SURGE",
             "points": [
-                "Annual air freight contracts degrade under tightening spot market rates.",
-                "Climbing jet fuel indexes and capacity crunches squeeze forwarder margins.",
-                "Shippers must transition to hybrid index-linked pricing structures."
+                "Summer monthly imports set to hit the highest volume levels recorded since 2022.",
+                "Concentrated peak volume creates localized bottlenecks at key coastal terminals.",
+                "Inventory planning requires buffer stock to offset unpredictable arrival delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOADSTAR: EAST-WEST ULCV DELIVERIES",
+            "nextUpTease": "SUPPLY CHAIN REGULATORY WATCH",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LOADSTAR: EAST-WEST ULCV DELIVERIES",
+            "heading": "SUPPLYCHAINBRAIN: VENDOR AI RISKS",
             "points": [
-                "Carriers deploy new Ultra Large Container Vessels on east-west lanes.",
-                "Capacity injection decelerates the decline of spot rates on major routes.",
-                "Shippers can leverage brief capacity relief before Q3 blank sailings."
+                "Managing vendor AI agent behavior poses new operational risks in supply chains.",
+                "Probabilistic outputs from AI models lack the predictability of standard EDI flows.",
+                "Execution control requires human-in-the-loop oversight to avoid systemic errors."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
@@ -122,8 +122,8 @@ const dailyData = {
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "Volatility is no longer a temporary disruption; it is now an active structural baseline.",
-        "author": "Stefan Paul, Chief Executive Officer, Kuehne + Nagel",
-        "context": "Domain: Global Freight Forwarding and Supply Chain Logistics"
+        "quoteText": "Effective leaders target the biggest bottlenecks rather than perfecting every link.",
+        "author": "Davey Miller, Chief Operating Officer at CMC",
+        "context": "Domain: Inbound Logistics"
     }
 };
