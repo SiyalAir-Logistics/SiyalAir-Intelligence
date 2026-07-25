@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TARIFF FRICTION",
-        "titleBlue": "SPIKES",
-        "footerSummary": "New Section 301 tariffs on 60 nations create immediate trade uncertainty, complicating U.S. import logistics while carriers implement fresh surcharges to mitigate volatility."
+        "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "New Section 301 forced labor tariffs and a landmark $604 million carrier selection verdict dramatically elevate global compliance risks for supply chain operators."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "USTR: SECTION 301 TRANSITION",
             "points": [
-                "The U.S. Trade Representative has officially implemented Section 301 tariffs on 60 trading partners targeting forced labor.",
-                "These duties ranging from 10% to 12.5% replace expiring Section 122 levies with immediate effect on supply chains.",
-                "Importers face significant compliance hurdles as documentation requirements intensify to prove supply chain origin and labor standards.",
-                "Logistics experts anticipate localized port congestion as companies rush to clear pending cargo under the new tariff regime."
+                "USTR activates Section 301 tariffs on sixty nations to replace expiring Section 122 import surcharges immediately.",
+                "New ten and twelve point five percent duties target trading partners failing forced labor enforcement commitments.",
+                "Supply chain experts warn importers face complex administrative burdens navigating these newly implemented compliance rules.",
+                "Shippers must rapidly audit multi-tier supplier origins to mitigate exposure to escalating penalty and forfeiture actions."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER SURCHARGE ESCALATION",
+            "nextUpTease": "CH ROBINSON: CARRIER NEGLIGENT VERDICT",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -25,32 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "CARRIERS: TRANS-PACIFIC SURCHARGES",
+            "heading": "CH ROBINSON: CARRIER NEGLIGENT VERDICT",
             "points": [
-                "Global carriers including MSC and CMA CGM have introduced fresh surcharges tied specifically to Panama Canal transit draft limits.",
-                "Heightened regional tensions near the Strait of Hormuz are further inflating bunker costs and disrupting standard vessel routing.",
-                "Shippers report capacity crunches on east-west trade lanes as carriers balance blank sailings against rising seasonal volume demands.",
-                "Ongoing equipment imbalances at major U.S. hubs force carriers to prioritize high-yield data center infrastructure and industrial freight."
+                "C.H. Robinson appeals a staggering six hundred four million dollar verdict over negligent carrier selection liabilities.",
+                "The landmark Mississippi decision raises the legal standard for broker vetting practices within third-party logistics.",
+                "Plaintiff attorneys target systemic gaps in automated carrier onboarding technologies to establish broker negligence claims.",
+                "Freight intermediaries must instantly implement rigorous, manual oversight processes to counter rising nuclear litigation threats."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL RISK IN BROKERAGE",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "LITIGATION: BROKER LIABILITY RISKS",
-            "points": [
-                "A massive $604 million jury verdict against C.H. Robinson has fundamentally altered the landscape for freight broker carrier vetting.",
-                "Legal precedents regarding negligent carrier selection are causing 3PL firms to reconsider reliance on automated AI-driven onboarding platforms.",
-                "Supreme Court rulings continue to raise the bar for broker accountability in fatal accident cases involving third-party motor carriers.",
-                "Logistics providers are aggressively auditing their risk management frameworks to avoid potential nuclear verdicts in future litigation cycles."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AUTOMATION & LABOR SHIFTS",
+            "nextUpTease": "FMC: COURT DETENTION BILLING UPHOLD",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -58,69 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "WAREHOUSING: AUTOMATION ADOPTION",
+            "id": 3,
+            "heading": "FMC: COURT DETENTION BILLING UPHOLD",
             "points": [
-                "Retailers are rapidly integrating drone inventory counting and AI-powered robotics to overcome significant warehouse labor turnover challenges.",
-                "Warehouse vacancy rates have stabilized at 7.3%, signaling a regain of balance as demand for fulfillment space begins leveling.",
-                "New federal investments in logistics hubs aim to modernize infrastructure connectivity across 36 regional corridors by mid-2027.",
-                "High-density fulfillment centers are increasingly relying on intelligent orchestration software to manage constraint-based planning and inventory replenishment workflows."
+                "U.S. Court of Appeals upholds the landmark Federal Maritime Commission ruling regarding ocean container detention billing.",
+                "The decision mandates that late fees must actively incentivize cargo movement and promote overall port fluidity.",
+                "Carriers face strict regulatory enforcement and massive civil penalties for non-compliant billing practices across national terminals.",
+                "Importers gain significant leverage to dispute unfair charges using the commission's updated billing complaint procedures."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING EMISSION REGULATIONS",
+            "nextUpTease": "TSMC: DOMESTIC CHIP MANUFACTURE EXPANSION",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.fmc.gov",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "TSMC: DOMESTIC CHIP MANUFACTURE EXPANSION",
+            "points": [
+                "TSMC commits one hundred billion dollars to construct four additional advanced semiconductor facilities within the United States.",
+                "This capital expansion increases the chip manufacturer's planned American footprint to twelve total fabrication plants.",
+                "The massive domestic manufacturing scale-up directly addresses persistent geopolitical and high-tech supply chain vulnerability risks.",
+                "Global technology suppliers must establish localized logistics ecosystems to support highly specialized domestic cleanroom operations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "US GOVT: CANADIAN SECTION 338 TARIFFS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRUCKING: MY-2027 ENGINE DEBATE",
+            "heading": "US GOVT: CANADIAN SECTION 338 TARIFFS",
             "points": [
-                "International is evaluating a staggered phase-in for MY-2027 engines to ensure compliance with upcoming aggressive NOx emissions regulations.",
-                "Diesel production is ramping up at U.S. refineries, yet fuel tax increases across multiple states persist, inflating operational transport costs.",
-                "Autonomous technology and heavy truck cab overhauls remain high-priority equipment upgrades for fleets facing intense market-driven service expectations.",
-                "The trucking sector continues to face driver shortages exacerbated by regulatory shifts regarding CDL testing and licensing requirements."
+                "United States slaps fifty percent tariffs on major Canadian imports utilizing Section 338 regulatory authority mechanisms.",
+                "These aggressive import duties apply regardless of prior duty-free status granted under active USMCA trade agreements.",
+                "Cross-border supply chain operations face immediate cost inflation and severe transit disruption along Northern border corridors.",
+                "Procurement managers are forcing nearshore manufacturing relocations to hedge against unpredictable trade policy enforcement shifts."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE MARKETPLACE CHANGES",
+            "nextUpTease": "PANAMA CANAL: EL NINO TRANSIT CAPS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "E-COMMERCE: PLATFORM COMPLIANCE",
+            "heading": "PANAMA CANAL: EL NINO TRANSIT CAPS",
             "points": [
-                "Amazon is aggressively expanding B2B features for third-party sellers to capture broader business-to-business commerce market share this fall.",
-                "New USPS fees for lightweight package shipments to rural regions are prompting sellers to adjust their e-commerce fulfillment strategies.",
-                "Marketplaces are under intense scrutiny regarding potential China-linked price manipulation and the enforcement of stringent listing-level violation policies.",
-                "Consolidation continues within the fashion sector as eBay finalizes the acquisition of Depop to strengthen its competitive position globally."
+                "Panama Canal Authority prepares for El Ni\u00f1o disruptions by reintroducing strict vessel transit limits and draft surcharges.",
+                "Ocean carriers are bracing for space crunches as daily container ship passages are systematically throttled down.",
+                "Shippers must evaluate alternative routing via the Suez Canal or shift containerized volumes to West Coast ports.",
+                "Higher intermodal feeder costs will inevitably trigger sudden increases in contract transpacific ocean freight spot rates."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE & TRADE DATA",
+            "nextUpTease": "EBAY: DEPOP FASHION MERGER APPROVED",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: FED FUNDING BOOST",
+            "heading": "EBAY: DEPOP FASHION MERGER APPROVED",
             "points": [
-                "The Department of Transportation is channeling fresh funding into three major logistics hubs to bolster critical U.S. supply chain infrastructure.",
-                "Data center construction materials are currently driving trans-Pacific container volumes, compensating for weaker performance in the consumer merchandise segment.",
-                "CBP reports $1 billion in recoveries by the Trade Fraud Task Force, highlighting intensified enforcement against international shipping malfeasance.",
-                "Global trade remains in a state of flux as stakeholders adjust to long-term tariff uncertainty and shifting manufacturing onshoring promises."
+                "eBay finalizes the one point two billion dollar acquisition of C2C fashion marketplace Depop from Etsy.",
+                "United Kingdom regulators cleared the transaction clearing the path for immediate global e-commerce integration efforts.",
+                "The strategic transaction strengthens eBay's competitive position against emerging cross-border platforms targeting younger consumer cohorts.",
+                "Sellers should expect upgraded multi-channel listing tools and consolidated cross-border logistics support across both platforms."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
