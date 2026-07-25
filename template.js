@@ -1,22 +1,22 @@
+/* GENERATED UTC: 2026-07-25 19:19:58 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "Global Trade Tariff",
-        "titleBlue": "Shift",
-        "footerSummary": "New U.S. Section 301 tariffs target 60 nations as supply chains reconfigure to mitigate rising costs and geopolitical uncertainty across key global shipping corridors."
+        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleBlue": "SHIFT",
+        "footerSummary": "New U.S. tariff regime on 60 economies triggers widespread import uncertainty, compounding with peak season capacity constraints and escalating trans-Pacific logistics friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: TARIFF REGIME OVERHAUL",
+            "heading": "USTR: NEW SECTION 301 TARIFF REGIME",
             "points": [
-                "The U.S. Trade Representative has replaced Section 122 surcharges with a new Section 301 regime covering 60 economies.",
-                "New tariffs ranging from 10% to 12.5% are now active, impacting cost structures for major trans-Pacific and Atlantic importers.",
-                "Companies are scrambling to recalibrate landed cost models as legal challenges emerge to block the immediate enforcement of these duties.",
-                "Customs compliance departments must now pivot to address the increased complexity of forced labor and origin-based duty enforcement."
+                "Implementation of 10% and 12.5% duties on 60 nations as Section 122 expires.",
+                "Immediate surge in landed-cost complexity for importers navigating new levies.",
+                "Shift focus toward long-term duty mitigation and supply chain diversification."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER CAPACITY FRICTION",
+            "nextUpTease": "C.H. ROBINSON VERDICT",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -25,15 +25,14 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "CARRIERS: CAPACITY FRICTION RISES",
+            "heading": "FREIGHTWAVES: NUCLEAR VERDICT IMPACT",
             "points": [
-                "Ocean carriers are injecting new ULCV capacity into east-west trades while simultaneously implementing aggressive peak season surcharges.",
-                "Spot rates continue a gentle decline, yet structural capacity discipline remains the primary lever for maintaining carrier profitability.",
-                "The Panama Canal Authority is reintroducing transit restrictions due to El Ni\u00f1o, further complicating routing for East Coast vessel schedules.",
-                "Shippers face a volatile Q3 as blank sailings become the standard strategy to manage fluctuating demand and equipment positioning."
+                "C.H. Robinson hit with $604M judgment in negligent carrier selection litigation.",
+                "Heightened broker liability standards forcing rigorous vetting of carrier safety.",
+                "Anticipate consolidation of small carriers as insurance risk premiums inflate."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING MARKET DISTRESS",
+            "nextUpTease": "PANAMA CANAL SURCHARGES",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -42,32 +41,30 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "TRUCKING: MARKET DISTRESS SIGNALS",
+            "heading": "SUPPLY CHAIN DIVE: PANAMA CANAL FEES",
             "points": [
-                "Commercial vehicle enforcement blitzes are expanding, leading to increased out-of-service orders and reduced driver availability in key corridors.",
-                "Truckload carriers face record-high operating costs, forcing a contraction in capacity as smaller logistics players exit the market.",
-                "The Supreme Court's Montgomery ruling is reshaping broker liability, driving a shift toward more rigorous and automated carrier vetting protocols.",
-                "Legal and insurance liabilities from high-profile nuclear verdicts are forcing large brokerages to re-evaluate their risk management and safety frameworks."
+                "MSC and CMA CGM introduce fresh surcharges citing canal draft restrictions.",
+                "Increased operational overhead for east-west tradelane transit costs.",
+                "Shippers likely to pivot toward intermodal alternatives to offset canal tolls."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT TIGHTENING",
+            "nextUpTease": "AIR CARGO RATE COOLING",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: OPERATIONAL TIGHTENING",
+            "heading": "THE LOADSTAR: AIR CARGO BALANCING",
             "points": [
-                "Annual air freight contracts are failing to sustain current market conditions, creating tension between shippers and global logistics forwarders.",
-                "Spot rates are cooling as fuel costs climb, forcing carriers into a new balancing act to maintain margin stability.",
-                "Forwarders are aggressively pursuing technology-driven scale, with major firms like Kuehne+Nagel exploring partial divestments of logistics units.",
-                "Demand for expedited shipping persists, yet consumers are increasingly resistant to high costs, pressuring retailers to rethink premium air logistics."
+                "Spot rates cooling while fuel cost pressures climb, tightening carrier margins.",
+                "Contract sustainability faces severe headwinds in a volatile rate landscape.",
+                "Prioritize agile charter strategies to maintain flow during peak fluctuations."
             ],
             "imageUrl": "",
-            "nextUpTease": "CBP ENFORCEMENT SURGE",
+            "nextUpTease": "USPS RURAL RATE HIKE",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -76,32 +73,14 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "CBP: TRADE FRAUD ENFORCEMENT",
+            "heading": "ECOMMERCEBYTES: USPS RURAL PRICING",
             "points": [
-                "The Justice Department's Trade Fraud Task Force has officially surpassed $1 billion in total recoveries, penalties, and forfeited import losses.",
-                "Enforcement actions are increasingly targeting cross-border compliance, with focus shifting to systemic duty evasion and improper classification strategies.",
-                "Importers must bolster their internal audit trails as federal agencies intensify scrutiny of supply chain data and forced labor documentation.",
-                "Stricter administrative compliance is now a mandatory operational requirement for maintaining reliable and uninterrupted flow through U.S. ports of entry."
+                "USPS implementing $2-$3 cost increase for lightweight rural package transit.",
+                "Margin compression for e-commerce sellers reliant on low-cost shipping tiers.",
+                "Re-evaluate last-mile carrier mix to mitigate rural delivery surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE MARKET RESTRUCTURING",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "ECOMMERCE: MARKET RESTRUCTURING",
-            "points": [
-                "Amazon is aggressively expanding B2B features to third-party sellers, aiming to dominate the corporate procurement space through its existing marketplace.",
-                "eBay is finalizing its acquisition of Depop, signaling a strategic pivot to consolidate its market share within the fashion resale sector.",
-                "New handling-time rules and shipping surcharges are creating operational friction for small-to-mid-sized online sellers managing cross-border inventory fulfillment.",
-                "Marketplaces are tightening policy enforcement regarding listing violations, forcing sellers to adopt automated account-level and listing-level appeals processes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE & TECH",
+            "nextUpTease": "INDUSTRIAL REAL ESTATE",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -109,21 +88,42 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "INFRASTRUCTURE: TECH INTEGRATION",
+            "id": 6,
+            "heading": "LOGISTICS MGMT: INDUSTRIAL VACANCY",
             "points": [
-                "Federal funding for logistics hubs is spurring local infrastructure development, aiming to optimize connectivity across the TradePort Corridor network systems.",
-                "Warehouse operators are increasingly deploying drone technology for inventory cycle counts to reduce labor reliance and enhance operational efficiency.",
-                "AI-driven orchestration is moving from pilot to production, with companies prioritizing constraint-based planning to mitigate volatile market and supplier fluctuations.",
-                "Supply chain resilience is becoming contingent on intelligent EDI integration to prevent data silos and operational bottlenecks across global nodes."
+                "Industrial real estate vacancy stabilizes at 7.3% as supply-demand gap closes.",
+                "Stabilization signals an end to the period of explosive warehouse capacity.",
+                "Secure long-term lease renewals before market pricing potentially rebounds."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINAL SLIDE",
+            "nextUpTease": "TRUCKLOAD RATE SURGE",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "JOC: TRUCKLOAD RATE FORECAST",
+            "points": [
+                "Inbound import volumes projected to drive spot truckload rates higher in August.",
+                "Capacity tightening threatens reliability for existing 2027 contract bids.",
+                "Optimize freight audit schedules to prepare for mid-quarter price volatility."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "DAILY: QUOTE UNQUOTE",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         }
-    ]
+    ],
+    "quote": {
+        "heading": "DAILY: QUOTE UNQUOTE",
+        "quoteText": "Effective leaders target the biggest bottlenecks rather than perfecting every link.",
+        "author": "Davey Miller, Chief Operating Officer, CMC",
+        "context": "Domain: Inbound Logistics"
+    }
 };
