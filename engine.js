@@ -213,9 +213,35 @@ async function switchSlide(id, element) {
         // --- REQUIREMENT 3: Slide 9 (FOLLOW) strictly has image background only with nothing else ---
         html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
     } else if (id === 'quote') {
-        // --- FIXED: Independent standalone quote style with clean layout and NO 'NEXT UP' text string ---
+        // --- FIXED: Independent standalone quote style integrating globalQuoteLibrary and quote_tracker.txt sequence ---
         canvas.className = 'quote-slide-style';
-        const qData = dailyData.quote || { heading: "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION", quoteText: "", author: "", context: "" };
+        
+        let qIndex = 0;
+        try {
+            const qTrackerRes = await fetch('quote_tracker.txt?t=' + Date.now());
+            if (qTrackerRes.ok) {
+                const qText = await qTrackerRes.text();
+                const parsedQNum = parseInt(qText.trim());
+                if (!isNaN(parsedQNum) && parsedQNum >= 0) {
+                    qIndex = parsedQNum;
+                }
+            }
+        } catch (e) {
+            console.log("Quote tracker read defaulted to index 0");
+        }
+
+        let selectedQuoteObj = null;
+        if (typeof window.globalQuoteLibrary !== 'undefined' && window.globalQuoteLibrary.length > 0) {
+            selectedQuoteObj = window.globalQuoteLibrary[qIndex % window.globalQuoteLibrary.length];
+        }
+
+        const qData = selectedQuoteObj ? {
+            heading: `EXECUTIVE PERSPECTIVE: ${selectedQuoteObj.domain.toUpperCase()}`,
+            quoteText: selectedQuoteObj.quote,
+            author: `${selectedQuoteObj.author}, ${selectedQuoteObj.title}`,
+            context: selectedQuoteObj.domain
+        } : (dailyData.quote || { heading: "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION", quoteText: "", author: "", context: "" });
+
         const formattedQuoteHeading = formatTitleBlue(qData.heading || "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION");
         
         html = `<div class="content-body">
@@ -223,7 +249,7 @@ async function switchSlide(id, element) {
                 <div class="quote-content-wrapper">
                     <p class="quote-main-text">"${qData.quoteText || qData.content || ""}"</p>
                     <p class="quote-author">${qData.author ? "— " + qData.author : (qData.author || "")}</p>
-                    <p class="quote-context">${qData.context ? "Context: " + qData.context : (qData.context || "")}</p>
+                    <p class="quote-context">${qData.domain ? "Domain: " + qData.domain : (qData.context ? "Context: " + qData.context : "")}</p>
                 </div>
                 </div>
                 <div class="swipe-prompt">SWIPE NEXT →</div>`;
@@ -262,6 +288,7 @@ async function switchSlide(id, element) {
                 bulletList = sentences.map(s => `<li>${s.trim().replace(/\.$/, '')}</li>`).join('');
             }
             
+            // --- TITLE GLITCH FIX: Ensure formatTitleBlue correctly handles source prefixes like "SOURCE: TITLE" ---
             const formattedHeading = formatTitleBlue(slide.heading);
             
             // --- REQUIREMENT 2: Slide 7 bottom next up precisely points to EXECUTIVE PERSPECTIVE ---
