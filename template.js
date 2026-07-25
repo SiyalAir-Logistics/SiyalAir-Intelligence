@@ -118,12 +118,22 @@ const dailyData = {
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
+        },
+        {
+            "id": 8,
+            "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
+            "points": [
+                "DYNAMIC_QUOTE_PLACEHOLDER",
+                "DYNAMIC_AUTHOR_PLACEHOLDER",
+                "DYNAMIC_DOMAIN_PLACEHOLDER"
+            ],
+            "imageUrl": "",
+            "nextUpTease": "SUPPRESS_FOOTER",
+            "tags": [
+                "Source: Verified Library",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
         }
-    ],
-    "quote": {
-        "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "Legacy networks are falling behind as compliance friction reaches historic levels.",
-        "author": "Marcus Weyhing, Managing Director of Global Compliance",
-        "context": "Domain: Custom Compliance & Broker Risk Management"
-    }
+    ]
 };
