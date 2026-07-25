@@ -1,120 +1,120 @@
-/* GENERATED UTC: 2026-07-25 16:02:11 */
+/* GENERATED UTC: 2026-07-25 17:08:08 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE REGULATORY",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "New tariffs on sixty nations and a massive six hundred million dollar broker verdict trigger unprecedented cross-border compliance and carrier vetting audits."
+        "titleWhite": "GLOBAL TRADE FRICTION",
+        "titleBlue": "SPIKES",
+        "footerSummary": "New U.S. Section 301 tariffs on 60 economies and persistent capacity constraints are triggering significant operational volatility for international supply chain stakeholders."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRANSPORT TOPICS: ROBINSON $604M VERDICT",
+            "heading": "THE LOADSTAR: NEW TARIFF REGIME",
             "points": [
-                "Jury hits C.H. Robinson with a $604 million highway crash liability verdict.",
-                "Broker liability risks escalate, driving up carrier vetting and insurance costs.",
-                "Logistics providers must deploy strict, audited carrier compliance workflows."
+                "U.S. replaces Section 122 surcharges with Section 301 duties across 60 economies.",
+                "Importers face high administrative complexity and immediate duty liability increases.",
+                "Customs specialists project prolonged legal ambiguity regarding final tariff assessments."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPPLY CHAIN DIVE: NEW 60-NATION TARIFFS",
+            "nextUpTease": "TRANSPORT TOPICS: LTL SHIFTS",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SUPPLY CHAIN DIVE: NEW 60-NATION TARIFFS",
+            "heading": "TRANSPORT TOPICS: LTL REALIGNMENT",
             "points": [
-                "USTR implements 10% to 12.5% tariffs on 60 nations as Section 122 duties expire.",
-                "New duties are tied to forced labor enforcement, creating deep compliance burdens.",
-                "Sourcing managers must audit lower-tier suppliers to verify labor compliance."
+                "International is staggering model-year 2027 engine rollouts due to NOx regulations.",
+                "Phased implementation creates potential maintenance and engine parts procurement lags.",
+                "Fleets must adjust capital expenditure forecasts for new equipment compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: COURT UPHOLDS FLUIDITY RULES",
+            "nextUpTease": "FREIGHTWAVES: TRUCKING CAPACITY",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FMC: COURT UPHOLDS FLUIDITY RULES",
+            "heading": "FREIGHTWAVES: CAPACITY CRUNCH",
             "points": [
-                "U.S. Court of Appeals upholds FMC rule that detention fees must promote fluidity.",
-                "Carriers are barred from assessing punitive fees during port terminal closures.",
-                "Shippers can confidently file formal charge complaints under OSRA 2022 rules."
+                "Trucking capacity tightens as rates hold near record levels amidst driver rules.",
+                "Shippers face severe maneuverability limits in securing consistent freight space.",
+                "Regulatory compliance costs are effectively choking off available network supply."
             ],
             "imageUrl": "",
-            "nextUpTease": "INBOUND LOGISTICS: DOJ $1B FRAUD CLAWBACK",
+            "nextUpTease": "DC VELOCITY: IMPORT SURGE",
             "tags": [
-                "Source: fmc.gov",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INBOUND LOGISTICS: DOJ $1B FRAUD CLAWBACK",
+            "heading": "DC VELOCITY: IMPORT VOLUME SPIKE",
             "points": [
-                "Justice Department Trade Fraud Task Force recovers $1 billion in its first year.",
-                "Federal enforcement intensifies on customs evasion and product misclassification.",
-                "Importers must run proactive customs compliance audits to mitigate seizure risk."
+                "Summer monthly imports projected to reach highest levels since the 2022 peak.",
+                "Increased inbound volumes are exacerbating existing warehouse labor constraints.",
+                "Strategic inventory stockpiling is accelerating ahead of potential Q3 disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCEBYTES: USPS RURAL ZONE SURCHARGES",
+            "nextUpTease": "SUPPLY CHAIN DIVE: TARIFF IMPACT",
             "tags": [
-                "Source: inboundlogistics.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ECOMMERCEBYTES: USPS RURAL ZONE SURCHARGES",
+            "heading": "SUPPLY CHAIN DIVE: TARIFF ACTIONS",
             "points": [
-                "USPS raises Ground Advantage rates by $2 to $3 for lightweight rural shipments.",
-                "E-commerce merchants face direct margin erosion on non-urban marketplace orders.",
-                "Sellers must adjust localized pricing or diversify regional last-mile partners."
+                "US imposes targeted 10-12.5% duties based on new forced labor enforcement rules.",
+                "Tariff implementation impacts cross-sector logistics costs effective immediately.",
+                "Manufacturers must re-verify tier-1 and tier-2 source compliance protocols now."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRANSPORT TOPICS: MY-2027 ENGINE STAGGER",
+            "nextUpTease": "JOC: INFRASTRUCTURE FUNDING",
             "tags": [
-                "Source: ecommercebytes.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRANSPORT TOPICS: MY-2027 ENGINE STAGGER",
+            "heading": "JOURNAL OF COMMERCE: FUNDING BOOST",
             "points": [
-                "Cummins and International plan to stagger introduction of MY-2027 heavy engines.",
-                "Emission rule compliance threatens to disrupt fleet procurement and raise costs.",
-                "Shippers must secure multi-year freight capacity ahead of the engine transition."
+                "Federal grants awarded to develop infrastructure at 36 key logistics corridor hubs.",
+                "Investment aims to mitigate inland transit bottlenecks and improve freight flow.",
+                "Long-term regional connectivity will likely benefit from improved terminal access."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPPLY CHAIN DIVE: TSMC $100B US FACTORIES",
+            "nextUpTease": "CNBC: AI SPENDING RISKS",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SUPPLY CHAIN DIVE: TSMC $100B US FACTORIES",
+            "heading": "CNBC: AI SPENDING ANXIETY",
             "points": [
-                "TSMC commits an additional $100 billion to build four advanced fabs in the US.",
-                "Massive facility builds drive up regional demand for specialized heavy logistics.",
-                "High-tech shippers should secure early long-term regional domestic agreements."
+                "Bond markets signal growing anxiety over aggressive AI capital expenditure budgets.",
+                "High investment costs threaten credit ratings for major hyperscale tech platforms.",
+                "Logistics providers should monitor tech-spending stability for potential SaaS ripple."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
