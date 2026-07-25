@@ -1,102 +1,102 @@
-/* GENERATED UTC: 2026-07-25 14:21:16 */
+/* GENERATED UTC: 2026-07-25 14:49:11 */
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUPPLY CHAIN FRICTION",
-        "titleBlue": "SHOCKS",
-        "footerSummary": "US enforces massive Section 301 tariffs on 60 economies as Hormuz security risks and Panama Canal bottlenecks restrict global freight flows."
+        "titleWhite": "STRUCTURAL FREIGHT",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "New Section 301 tariffs, a historic $604M freight broker ruling, and Panama Canal restrictions trigger rapid restructuring across global logistics networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: NEW SEC 301 TARIFF SHIFT ON 60 NATIONS",
+            "heading": "USTR: NEW SECTION 301 TARIFF REGIME",
             "points": [
-                "US replaces temporary Section 122 import surcharges with 10% to 12.5% tariffs.",
-                "Tariff adjustments impact 60 global trading partners, disrupting cost projections.",
-                "Importers must instantly reclassify customs entries to avoid heavy compliance fines."
+                "US replaces Section 122 import surcharges with 10% to 12.5% Section 301 tariffs.",
+                "New duties impact 60 global economies, targeting forced labor enforcement gaps.",
+                "Importers must audit customs classifications to mitigate new tariff exposures."
             ],
             "imageUrl": "",
-            "nextUpTease": "COURT: CH ROBINSON HIT WITH $604M VERDICT",
+            "nextUpTease": "COURT: C.H. ROBINSON $604M VERDICT",
             "tags": [
-                "Source: supplychaindive.com",
-                "Published: Last 24 Hours",
+                "Source: cbp.gov",
+                "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "COURT: CH ROBINSON HIT WITH $604M VERDICT",
+            "heading": "COURT: C.H. ROBINSON $604M VERDICT",
             "points": [
-                "Jury delivers $604 million verdict against broker over negligent carrier selection.",
-                "Freight broker liability exposure spikes, making basic carrier vetting highly risky.",
-                "Shippers must audit 3PL compliance frameworks to mitigate secondary liability risk."
+                "Jury hits broker with $604 million verdict for negligent carrier selection.",
+                "Legal exposure raises carrier vetting standards to unprecedented liability levels.",
+                "3PLs must implement algorithmic vetting protocols to mitigate negligent selection."
             ],
             "imageUrl": "",
-            "nextUpTease": "CNBC: STRAIT OF HORMUZ DEEPENS FREIGHT CRUNCH",
+            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS SPIN-OFF",
             "tags": [
                 "Source: ttnews.com",
-                "Published: Last 24 Hours",
+                "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CNBC: STRAIT OF HORMUZ DEEPENS FREIGHT CRUNCH",
+            "heading": "KUEHNE+NAGEL: APEX LOGISTICS SPIN-OFF",
             "points": [
-                "Middle East conflict escalation forces oil tankers to bypass crucial chokepoints.",
-                "Strait of Hormuz transit disruptions are projected to persist for over 12 months.",
-                "Ocean carriers face soaring insurance premiums, triggering emergency risk surcharges."
+                "Kuehne+Nagel evaluates options, including a stake sale in Apex Logistics.",
+                "Move marks divergent paths as DSV pursues M&A while K+N prioritizes optimization.",
+                "Shippers face potential capacity shifts across transpacific air corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: US SLAPS 50% TARIFFS ON CANADA IMPORTS",
+            "nextUpTease": "PANAMA CANAL: NEW TRANSIT RESTRICTIONS",
             "tags": [
-                "Source: cnbc.com",
-                "Published: Last 24 Hours",
+                "Source: theloadstar.com",
+                "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "USTR: US SLAPS 50% TARIFFS ON CANADA IMPORTS",
+            "heading": "PANAMA CANAL: NEW TRANSIT RESTRICTIONS",
             "points": [
-                "US activates aggressive Section 338 duties targeting a wide array of Canadian goods.",
-                "New 50% tariffs override existing duty-free treatments under the USMCA trade pact.",
-                "Cross-border supply chains face immediate sourcing cost shocks and route delays."
+                "Panama Canal Authority prepares to reintroduce draft limits and transit curbs.",
+                "Draft limits will force ocean carriers to levy fresh transit surcharges.",
+                "Shippers must brace for transit delays and route diversions to US West Coast."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: NEW RURAL SHIPPING FEES ACTIVE",
+            "nextUpTease": "JOC: CHICAGO CHASSIS SHORTAGE RISKS",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "USPS: NEW RURAL SHIPPING FEES ACTIVE",
+            "heading": "JOC: CHICAGO CHASSIS SHORTAGE RISKS",
             "points": [
-                "USPS implements $2 to $3 price hikes on lightweight packages to rural destinations.",
-                "E-commerce merchants face steep shipping cost increases on low-margin postal lanes.",
-                "Sellers must recalculate regional retail margins or transition to regional carriers."
+                "West Coast import surges trigger regional inland chassis equipment deficits.",
+                "Chicago rail hubs face localized chassis deficits, delaying container turns.",
+                "Intermodal operators must secure chassis pools to prevent demurrage fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACP: PANAMA CANAL TRANSIT LIMITS RETURN",
+            "nextUpTease": "LOADSTAR: AIR FREIGHT CONTRACT CRUNCH",
             "tags": [
-                "Source: ecommercebytes.com",
+                "Source: joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ACP: PANAMA CANAL TRANSIT LIMITS RETURN",
+            "heading": "LOADSTAR: AIR FREIGHT CONTRACT CRUNCH",
             "points": [
-                "Panama Canal Authority reintroduces vessel transit restrictions to counter El Nino.",
-                "Shippers face reduced daily slot availability and heavy canal transit surcharges.",
-                "Forwarders must expect longer trans-Pacific transit times and potential port delays."
+                "Annual air freight contracts degrade under tightening spot market rates.",
+                "Climbing jet fuel indexes and capacity crunches squeeze forwarder margins.",
+                "Shippers must transition to hybrid index-linked pricing structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "TT: CUSTOM EDI BOTTLENECKS STRANGLE FREIGHT",
+            "nextUpTease": "LOADSTAR: EAST-WEST ULCV DELIVERIES",
             "tags": [
                 "Source: theloadstar.com",
                 "Published: Last 48 Hours",
@@ -105,25 +105,25 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "TT: CUSTOM EDI BOTTLENECKS STRANGLE FREIGHT",
+            "heading": "LOADSTAR: EAST-WEST ULCV DELIVERIES",
             "points": [
-                "Logistics providers remain heavily reliant on legacy customized EDI connections.",
-                "Non-standard integrations build severe data exchange bottlenecks across 3PL networks.",
-                "Enterprise operators must aggressively shift toward modern API-driven data pipelines."
+                "Carriers deploy new Ultra Large Container Vessels on east-west lanes.",
+                "Capacity injection decelerates the decline of spot rates on major routes.",
+                "Shippers can leverage brief capacity relief before Q3 blank sailings."
             ],
             "imageUrl": "",
             "nextUpTease": "EXECUTIVE PERSPECTIVE",
             "tags": [
-                "Source: ttnews.com",
-                "Published: Last 24 Hours",
+                "Source: theloadstar.com",
+                "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         }
     ],
     "quote": {
         "heading": "EXECUTIVE PERSPECTIVE: INDUSTRY VALIDATION",
-        "quoteText": "The shift from transactional broker relationships to strict carrier vetting is no longer optional; it is a multi-million dollar survival strategy.",
-        "author": "Lars Jensen, CEO & Partner at Vespucci Maritime",
-        "context": "Domain: Maritime & Port Logistics Compliance"
+        "quoteText": "Volatility is no longer a temporary disruption; it is now an active structural baseline.",
+        "author": "Stefan Paul, Chief Executive Officer, Kuehne + Nagel",
+        "context": "Domain: Global Freight Forwarding and Supply Chain Logistics"
     }
 };
