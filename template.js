@@ -1,39 +1,21 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "SURGE",
-        "footerSummary": "Escalating regional conflicts, tariff-driven trade barriers, and infrastructure constraints are forcing a fundamental, high-cost restructuring of international logistics and supply chain management."
+        "titleWhite": "TRADE COMPLIANCE FORCE",
+        "titleBlue": "DECOUPLING",
+        "footerSummary": "New Section 301 tariffs on 60 nations and a $604M negligent broker verdict rewrite global trade risk compliance rules."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ENERGY WARFARE: HORMUZ BYPASS",
+            "heading": "USTR: NEW SECTION 301 TARIFF TIMELINE",
             "points": [
-                "DP World is launching two new container terminals in Fujairah to bypass the Strait of Hormuz.",
-                "Rising hostilities between the U.S. and Iran have triggered regional maritime transit and oil price volatility.",
-                "Brent crude prices climbed 3.3% as regional geopolitical tensions significantly increase ocean cargo risk premiums.",
-                "Shippers must now recalibrate transit timelines to account for the closure of traditional Gulf shipping lanes."
+                "USTR implements Section 301 tariffs on 60 nations targeting forced labor.",
+                "Importers face sudden 10% to 12.5% duties as Section 122 surcharges expire.",
+                "Compliance desks must audit regional origin maps to mitigate penalty exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE TARIFF ESCALATION",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "TRADE POLICY: TARIFF AGGRESSION",
-            "points": [
-                "The U.S. has implemented aggressive 50% tariffs on Canadian goods, complicating cross-border logistics and trade.",
-                "Congressional hearings indicate a formal shift toward protectionist policies aimed at reducing the national trade deficit.",
-                "Retaliatory measures have caused the collapse of joint infrastructure projects like the Gordie Howe Bridge celebration.",
-                "Supply chain planners are now modeling scenarios for sustained high-cost friction on North American trade routes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CHINA SOURCING RESTRICTIONS",
+            "nextUpTease": "COURT: CH ROBINSON NUCLEAR VERDICT",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -41,16 +23,15 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "CHINA TECH: CARGO RESTRICTION",
+            "id": 2,
+            "heading": "COURT: CH ROBINSON NUCLEAR VERDICT",
             "points": [
-                "Senate panels move to ban Chinese-linked automotive technology due to data security and national safety concerns.",
-                "Proposed legislation targets the integration of Chinese software in U.S. vehicle braking and steering systems.",
-                "Major automakers are actively lobbying to mitigate the impact of these stringent new compliance requirements.",
-                "Logistics providers face operational uncertainty as supply chain decoupling efforts move from rhetoric to law."
+                "Jury delivers a massive $604 million verdict over negligent carrier selection.",
+                "Broker liability risks surge, forcing immediate overhauls in carrier vetting.",
+                "Shippers must enforce stricter compliance audits to insulate corporate liability."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME REGULATORY SHIFTS",
+            "nextUpTease": "TSMC: $100B US CHIP FOUNDRY EXPANSION",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -58,33 +39,63 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "FMC: DETENTION FEE ENFORCEMENT",
+            "id": 3,
+            "heading": "TSMC: $100B US CHIP FOUNDRY EXPANSION",
             "points": [
-                "The U.S. Court of Appeals upheld Federal Maritime Commission rules enforcing stricter ocean container billing practices.",
-                "Detention and demurrage fees must now directly promote freight fluidity to remain legally compliant under OSRA.",
-                "The ruling empowers the FMC to aggressively audit and penalize non-compliant common carriers and terminal operators.",
-                "Importers gain increased leverage to contest improper charges that were previously considered standard operating costs."
+                "TSMC commits an additional $100 billion to build four advanced chip factories.",
+                "Domestic high-tech logistics demand spikes as 12 total US facilities ramp up.",
+                "Tech supply chains must recalibrate regional raw material and component lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE MARKETPLACE COMPLIANCE",
+            "nextUpTease": "CBP: 50 PERCENT CANADA IMPORT TARIFFS",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "CBP: 50 PERCENT CANADA IMPORT TARIFFS",
+            "points": [
+                "US imposes sudden 50% tariffs on key Canadian goods under Section 338.",
+                "Duties apply even to items qualifying for USMCA duty-free trade status.",
+                "Shippers must instantly re-evaluate cross-border North American trade flows."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ACP: PANAMA CANAL TRANSIT RESTRICTIONS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARKETPLACE: SELLER SCRUTINY",
+            "heading": "ACP: PANAMA CANAL TRANSIT RESTRICTIONS",
             "points": [
-                "U.S. Senate investigations are probing potential manipulation of cross-border ecommerce by Chinese logistics operators.",
-                "Amazon is aggressively expanding B2B features to capture market share from traditional wholesale supply channels.",
-                "eBay faces backlash over public disclosure of private second-chance offers, complicating seller-side marketplace trust dynamics.",
-                "Retailers must adapt to tightening platform policies that prioritize data transparency and automated compliance enforcement."
+                "Panama Canal Authority schedules transit restrictions to mitigate El Nino risk.",
+                "Ocean carriers introduce fresh surcharges to offset reduced vessel draft limits.",
+                "Intermodal routings to the US East Coast must prepare for major space crunches."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRIAL REAL ESTATE TRENDS",
+            "nextUpTease": "USPS: RURAL SHIPPING RATE SURCHARGES",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "USPS: RURAL SHIPPING RATE SURCHARGES",
+            "points": [
+                "USPS increases lightweight package rates to rural ZIP codes by up to $3.",
+                "E-commerce sellers face unexpected margins compression on low-value items.",
+                "Shippers must audit regional logistics profiles to offset rising parcel fees."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "DOJ: TRADE FRAUD PENALTIES TOP $1B",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -92,35 +103,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "LOGISTICS: REAL ESTATE REBOUND",
+            "id": 7,
+            "heading": "DOJ: TRADE FRAUD PENALTIES TOP $1B",
             "points": [
-                "Industrial real estate markets are stabilizing as demand for warehousing outpaces new facility construction pipelines.",
-                "National vacancy rates have compressed to 7.3%, signaling a shift toward tightened warehouse capacity for shippers.",
-                "Automation and AI-driven inventory management are becoming essential tools for maintaining operational margins amid labor shortages.",
-                "Companies are investing heavily in nearshoring infrastructure to hedge against ongoing global trade instability."
+                "Department of Justice Trade Fraud Task Force crosses $1 billion in recoveries.",
+                "Customs enforcement intensifies focus on systemic duty evasion and trade fraud.",
+                "Global importers require rigorous compliance structures to survive CBP audits."
             ],
             "imageUrl": "",
-            "nextUpTease": "WORKFORCE & AI INTEGRATION",
+            "nextUpTease": "DAILY: QUOTE UNQUOTE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 7,
-            "heading": "AUTOMATION: WORKFORCE SHIFTS",
+            "id": 8,
+            "heading": "DAILY: QUOTE UNQUOTE",
             "points": [
-                "Trucking industry capacity is tightening as regulatory crackdowns on unlicensed drivers intensify across U.S. corridors.",
-                "Trump\u2019s proposal for automatic CDL eligibility for veterans aims to address the critical domestic freight driver shortfall.",
-                "AI-driven fleet safety and predictive maintenance systems are now standard requirements for Tier 1 logistics carriers.",
-                "The industry faces a permanent transition toward higher-skill labor profiles coupled with deep-tech operational orchestration."
+                "\"Effective leaders target the biggest bottlenecks rather than perfecting every link.\"",
+                "\u2014 Davey Miller, Chief Operating Officer, CMC",
+                "Domain: Supply Chain Leadership"
             ],
             "imageUrl": "",
-            "nextUpTease": "FINAL SLIDE",
+            "nextUpTease": "SUPPRESS_FOOTER",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: Verified Library",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
