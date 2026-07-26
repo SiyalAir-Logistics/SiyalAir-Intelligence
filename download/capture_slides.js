@@ -29,13 +29,10 @@ const path = require('path');
         downloadPath: downloadPath
     });
 
-    // FIXED: Appended dynamic cache-busting query string to completely bypass GitHub Pages CDN edge cache and force live payload ingestion
-    const liveTargetUrl = `https://siyalair-logistics.github.io/SiyalAir-Intelligence/?cache_bust=${Date.now()}`;
-
     console.log("Connecting to live visual matrix page...");
-    // LOCKED IN: Target the authentic SiyalAir website deployment URL with zero-cache injection
-    await page.goto(liveTargetUrl, {
-        waitUntil: 'networkidle0', // Upgraded to networkidle0 to guarantee full evaluation of newly deployed static payloads
+    // LOCKED IN: Target the authentic SiyalAir website deployment URL
+    await page.goto('https://siyalair-logistics.github.io/SiyalAir-Intelligence/', {
+        waitUntil: 'networkidle2',
         timeout: 60000
     });
 
