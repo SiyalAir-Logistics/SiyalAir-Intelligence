@@ -50,7 +50,7 @@ Extract 7 distinct technical developments from the scraped data sources. Parse y
 - kicker: Static string value "" (Empty string to maintain empty block padding)
 - titleWhite: Dynamic theme string (all phrase words except the last, maximum 3 words)
 - titleBlue: Dynamic theme string (only the very last word, exactly 1 word)
-- footerSummary: A high-density, two-line analytical synthesis of the top logistics development (max 25 words).
+- footerSummary: A dynamic, hourly-refreshed 2-line forensic teaser unique to this specific update's core catalyst, highlighting immediate financial, regulatory, or operational risk (max 25 words).
 - slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings, 4 technical narrative array entries, empty image reference layouts, a nextUpTease string, and audit validation metadata arrays.
 
 SECTION 5: SOCIAL MEDIA POST FORMAT SPECIFICATIONS
@@ -100,7 +100,7 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
       "kicker": "",
       "titleWhite": "[DYNAMIC MAIN TITLE WORDS EXCEPT LAST, MAX 3]",
       "titleBlue": "[DYNAMIC MAIN TITLE LAST WORD, EXACTLY 1]",
-      "footerSummary": "[DYNAMIC TWO-LINE SUMMARY OF TOP LOGISTICS SIGNAL]"
+      "footerSummary": "[DYNAMIC HOURLY-REFRESHED FORENSIC TEASER HIGHLIGHTING IMMEDIATE RISK]"
     },
     "slides": [
       {
@@ -172,7 +172,7 @@ SYSTEM DIRECTIVE: Because the automation pipeline enforces strict response_mime_
         "id": 6,
         "heading": "[UPPERCASE SECTION HEADLINE]",
         "points": [
-          "[Technical breakthrough summary sentence block, max 3 lines]",
+          "[Technical breakthrough summary sister block, max 3 lines]",
           "[Quantitative operational impact sentence block, max 3 lines]",
           "[Strategic architectural context sentence block, max 3 lines]",
           "[Direct stakeholder prediction implication block, max 3 lines]"
