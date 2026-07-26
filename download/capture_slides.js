@@ -29,12 +29,23 @@ const path = require('path');
         downloadPath: downloadPath
     });
 
+    // Appended dynamic cache-busting query string to completely bypass GitHub Pages CDN edge cache and force live payload ingestion
+    const liveTargetUrl = `https://siyalair-logistics.github.io/SiyalAir-Intelligence/?cache_bust=${Date.now()}`;
+
     console.log("Connecting to live visual matrix page...");
-    // LOCKED IN: Target the authentic SiyalAir website deployment URL
-    await page.goto('https://siyalair-logistics.github.io/SiyalAir-Intelligence/', {
-        waitUntil: 'networkidle2',
+    // LOCKED IN: Target the authentic SiyalAir website deployment URL with zero-cache injection
+    await page.goto(liveTargetUrl, {
+        waitUntil: 'networkidle0', // Upgraded to networkidle0 to guarantee full evaluation of newly deployed static payloads
         timeout: 60000
     });
+
+    // IMPLEMENTED USER SUGGESTION: Enforce a dedicated 120-second (2 minute) stability delay post-load. 
+    // This allows client-side scripts, canvas generators, and dynamic render loops enough real-world time to flush legacy DOM elements and re-synthesize fresh asset buffers before automated triggering.
+    console.log("Page fully loaded. Initiating mandatory 2-minute stabilization window to ensure fresh asset compilation...");
+    for (let i = 120; i > 0; i -= 15) {
+        console.log(`Stabilization countdown: ${i} seconds remaining...`);
+        await new Promise(r => setTimeout(r, 15000));
+    }
 
     console.log("Triggering your engine's bulk download sequence...");
     // Programmatically click your existing functional header button (#download-active)
