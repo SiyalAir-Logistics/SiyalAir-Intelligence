@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS COMPLIANCE",
+        "titleWhite": "GLOBAL FREIGHT SYSTEM",
         "titleBlue": "SHIFTS",
-        "footerSummary": "New Section 301 tariffs and a historic $604 million broker liability verdict escalate immediate regulatory, legal, and financial risks for global supply chains."
+        "footerSummary": "Unprecedented tariff overhauls, high-stakes 3PL negligent vetting liabilities, and rising parcel surcharges trigger severe immediate supply chain operational friction."
     },
     "slides": [
         {
             "id": 1,
             "heading": "USTR: SECTION 301 TARIFF OVERHAUL",
             "points": [
-                "United States replaces temporary Section 122 import surcharges with permanent Section 301 forced labor tariff regimes.",
-                "New regulations impose ten to twelve point five percent duties on sixty global trading partner nations.",
-                "Importers face complex compliance challenges as customs clearance systems adapt to the sudden regulatory transition.",
-                "Supply chain managers must audit vendor origins immediately to mitigate substantial new duty exposure risks."
+                "The US replaced temporary Section 122 surcharges with a permanent Section 301 tariff regime targeting sixty global economies.",
+                "Imports face immediate ten to twelve point five percent duties linked strictly to forced labor enforcement compliance mandates.",
+                "Customs specialists warn that managing this dual-framework transition introduces massive administrative complexity for cross-border logistics lanes.",
+                "Importers must rapidly audit supplier origins to prevent severe border clearance delays and unexpected duty exposure risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON: CARRIER VETTING LIABILITY",
+            "nextUpTease": "C.H. ROBINSON: NEGLIGENT VETTING LIABILITIES",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "C.H. ROBINSON: CARRIER VETTING LIABILITY",
+            "heading": "C.H. ROBINSON: NEGLIGENT VETTING LIABILITIES",
             "points": [
-                "Jury delivers landmark six hundred four million dollar nuclear verdict against logistics broker for negligent carrier selection.",
-                "Ruling establishes unprecedented shipper and broker liability thresholds regarding commercial motor vehicle safety compliance audits.",
-                "Legal precedents force global third-party logistics firms to implement advanced, automated real-time carrier vetting systems.",
-                "Freight brokerages must overhaul risk management frameworks to protect balance sheets from massive nuclear litigation."
+                "C.H. Robinson plans to appeal a staggering six hundred four million dollar negligent carrier selection jury verdict.",
+                "The landmark ruling establishes a high-risk precedent for third-party logistics brokers managing commercial vehicle carrier selection compliance.",
+                "Industry experts signal that broker liability now requires extreme validation of motor carrier safety profiles prior to dispatch.",
+                "Firms must deploy advanced automated compliance vetting workflows to eliminate systemic third-party carrier safety verification gaps."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: PEAK DEMAND SURCHARGE INCREASE",
+            "nextUpTease": "USPS: GROUND ADVANTAGE RATE SURGES",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -42,32 +42,15 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "FEDEX: PEAK DEMAND SURCHARGE INCREASE",
+            "heading": "USPS: GROUND ADVANTAGE RATE SURGES",
             "points": [
-                "FedEx announces twenty twenty-six peak season demand surcharges targeting residential and high-volume e-commerce home deliveries.",
-                "Tiered residential pricing mechanisms will elevate operational shipping costs significantly during critical holiday fulfillment windows.",
-                "Enterprise shippers face intense pressure to optimize multi-carrier parcel networks and negotiate contract mitigation clauses.",
-                "Last-mile distribution networks must balance rising carrier fees against consumer expectations for free shipping options."
+                "The postal service implemented abrupt Ground Advantage rate increases directly impacting lightweight marketplace shipping across online networks.",
+                "Sellers face elevated logistics costs especially when executing lightweight parcel deliveries to highly remote rural destination points.",
+                "E-commerce platforms warn that these sudden shipping price adjustments squeeze margins for small multi-channel marketplace retailers.",
+                "Businesses are compelled to restructure pricing strategies or transition to alternative regional last-mile delivery provider networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: REGIONAL MARKETPLACE RATE REVOLUTION",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "USPS: REGIONAL MARKETPLACE RATE REVOLUTION",
-            "points": [
-                "Postal Service implements targeted Ground Advantage rate increases specifically affecting high-volume e-commerce marketplace sellers nationwide.",
-                "New rural shipping surcharges add two to three dollars to lightweight parcel deliveries in remote areas.",
-                "Small-scale online merchants must adjust pricing models rapidly to offset immediate margin compression from postage.",
-                "E-commerce platforms are restructuring label printing services to assist sellers in mitigating localized delivery cost spikes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TSMC: DOMESTIC CHIP INFRASTRUCTURE BOOM",
+            "nextUpTease": "FEDEX: PEAK DEMAND FEE INJECTION",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -75,16 +58,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "TSMC: DOMESTIC CHIP INFRASTRUCTURE BOOM",
+            "id": 4,
+            "heading": "FEDEX: PEAK DEMAND FEE INJECTION",
             "points": [
-                "Semiconductor giant commits additional one hundred billion dollars to construct four advanced fabrication facilities in America.",
-                "Investment scales total planned domestic production sites to twelve, securing localized microchip supply chain resilience.",
-                "Collaborative federal funding initiatives accelerate high-tech manufacturing ecosystems and reduce heavy reliance on foreign foundries.",
-                "Hardware and data center supply chains expect enhanced geographic stability and reduced cross-border transit risks."
+                "FedEx unveiled its peak season surcharge schedules raising home delivery fees ahead of the competitive shipping periods.",
+                "Simultaneously the logistics giant accelerates Network 2.0 terminal consolidation and ship center closures to compress structural costs.",
+                "Elevated fuel adjustments combined with demand fees amplify financial friction for high-volume business-to-consumer shippers.",
+                "Shippers must optimize parcel routing configurations to mitigate escalating freight surcharges driven by carrier capacity restructuring."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL: APEX SPINOFF STRATEGY",
+            "nextUpTease": "PANAMA CANAL: DRAFT RESTRICTIONS REIMPOSED",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -92,35 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "KUEHNE+NAGEL: APEX SPINOFF STRATEGY",
+            "id": 5,
+            "heading": "PANAMA CANAL: DRAFT RESTRICTIONS REIMPOSED",
             "points": [
-                "Global logistics leader explores strategic divestment options and potential public listing for high-performing Apex Logistics division.",
-                "Transaction seeks to unlock maximum corporate valuation while optimizing capital allocation across traditional freight forwarding operations.",
-                "Shippers monitor organizational shifts as forwarder consolidation changes trans-Pacific air and ocean capacity market dynamics.",
-                "Corporate restructuring highlights the growing divergence between general freight forwarding and specialized high-volume Asian trade specialists."
+                "The Panama Canal Authority is reintroducing transit restrictions to proactively mitigate upcoming El Nino weather pattern disruptions.",
+                "Ocean carriers including MSC and CMA CGM have responded by implementing new maritime surcharges on transpacific lanes.",
+                "Restricted draft depths limit total cargo capacity per vessel causing immediate cargo backlogs across major eastern gateways.",
+                "Logistics managers must evaluate alternative intermodal rail routings via West Coast ports to secure predictable cargo flows."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: CLIMATE TRANSIT RESTRICTIONS",
+            "nextUpTease": "TSMC: SEMICONDUCTOR CAPITAL EXPANSION",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "TSMC: SEMICONDUCTOR CAPITAL EXPANSION",
+            "points": [
+                "TSMC announced an additional one hundred billion dollar investment to construct four advanced fabrication plants in America.",
+                "This massive expansion brings the chipmaker's total planned domestic production footprint to twelve advanced manufacturing semiconductor installations.",
+                "Federal funding support accelerates domestic technology manufacturing onshoring aims reducing critical high-tech component supply chain vulnerability risks.",
+                "Electronics manufacturers can expect more robust regionalized buffer stocks of critical microprocessors over the next decade."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "JBS: SCOPE 3 DECARBONIZATION REVERSAL",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PANAMA CANAL: CLIMATE TRANSIT RESTRICTIONS",
+            "heading": "JBS: SCOPE 3 DECARBONIZATION REVERSAL",
             "points": [
-                "Canal Authority reintroduces strict draft limits and vessel transit restrictions in response to oncoming El Ni\u00f1o weather.",
-                "Ocean carriers implement heavy operational surcharges as container slot availability declines on major east-west tradelanes.",
-                "Maritime logistics managers must evaluate alternative routing options including intermodal rail corridors to avoid port congestion.",
-                "Importers face escalating transit delays and increased spot rates for containerized cargo transiting the critical waterway."
+                "Meat processing giant JBS withdrew its ambitious net-zero carbon emissions target citing immense supply chain execution complexities.",
+                "The retraction includes abandoning difficult scope three emissions tracking targets across deeply fragmented global livestock supplier networks.",
+                "This move underscores the structural friction enterprises face when trying to enforce carbon accountability across tiers.",
+                "Other multinational corporations may pause or downscale unrealistic sustainability timelines in favor of near-term supply chain viability."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
