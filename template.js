@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE REGULATORY",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "New Trump tariffs and severe broker liability verdicts trigger massive compliance risks, forcing immediate network restructuring to prevent catastrophic supply disruptions."
+        "titleWhite": "DECODING GLOBAL LOGISTICS",
+        "titleBlue": "FRICTION",
+        "footerSummary": "Importers and brokers face extreme financial risks as new US forced labor tariffs launch alongside a historic $604M negligent carrier verdict."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: NEW SECTION 301 REGIME",
+            "heading": "USTR: NEW SECTION 301 FORCED LABOR TARIFFS",
             "points": [
-                "The United States replaced its temporary Section 122 import surcharges with a permanent Section 301 tariff regime.",
-                "New ten and twelve percent duties now target imports from sixty trading partners based on forced labor commitments.",
-                "Customs specialists warn that managing compliance under this sudden transition introduces severe administrative bottlenecks for global importers.",
-                "Importers must immediately audit supplier networks to mitigate multi-million dollar exposure to these expanded regulatory trade duties."
+                "United States Trade Representative implements new Section 301 tariffs on sixty trading partners targeting forced labor compliance.",
+                "Importers face ten and twelve point five percent tariffs replacing expired Section 122 ocean import surcharges.",
+                "Global supply chain compliance shifts focus toward verifying downstream manufacturing labor origins under strict federal oversight.",
+                "Supply chain managers must restructure origin sourcing strategies to mitigate rising tariff liabilities across multiple jurisdictions."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON: COLISEUM BROKER LIABILITY",
+            "nextUpTease": "C.H. ROBINSON: BROKER VETTING VERDICT",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "C.H. ROBINSON: COLISEUM BROKER LIABILITY",
+            "heading": "C.H. ROBINSON: BROKER VETTING VERDICT",
             "points": [
-                "A Mississippi jury handed down a devastating six hundred four million dollar verdict against C.H. Robinson.",
-                "The case establishes a strict legal precedent regarding broker liability for negligent third-party motor carrier selection.",
-                "Freight brokerages must overhaul their automated safety verification technologies to prevent massive negligent selection liability exposures.",
-                "Shippers are reassessing direct liabilities and demanding rigorous real-time safety audit trails from logistics partners worldwide."
+                "A Mississippi jury hits C.H. Robinson with a six hundred four million dollar negligent carrier selection verdict.",
+                "This massive nuclear liability decision escalates standard vetting requirements for third-party logistics brokers across North America.",
+                "Brokers must move past basic safety data and utilize advanced real-time carrier validation systems to prevent lawsuits.",
+                "Shippers face higher freight brokerage costs as regulatory scrutiny on sub-contracted motor carriers intensifies."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: DETENTION FEE REGULATIONS UPHELD",
+            "nextUpTease": "FEDERAL MARITIME COMMISSION: DETENTION RULING",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -42,15 +42,15 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "FMC: DETENTION FEE REGULATIONS UPHELD",
+            "heading": "FEDERAL MARITIME COMMISSION: DETENTION RULING",
             "points": [
-                "The US Court of Appeals upheld the Federal Maritime Commission ruling on container detention billing practices.",
-                "Ocean carrier demurrage and detention fees must strictly serve the operational purpose of promoting maritime freight fluidity.",
-                "This ruling legally prevents carriers from leveraging administrative delays as secondary revenue generators during port congestion.",
-                "Importers gain significant financial leverage to dispute unfair billing practices and demand transparent operational data transparency."
+                "The United States Court of Appeals upholds the ruling that detention fees must promote freight fluidity.",
+                "Ocean carriers cannot charge demurrage penalties when ports remain inaccessible for physical container retrieval during congestion.",
+                "This landmark decision protects shippers from exploitative carrier practices while establishing rigorous terminal billing transparency standards.",
+                "Global logistics operators expect streamlined supply chain workflows as terminal invoice dispute resolution processes become standardized."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: PARCEL MARKETPLACE RATE SURCHARGE",
+            "nextUpTease": "FEDEX: PEAK DEMAND SURCHARGES",
             "tags": [
                 "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
@@ -59,15 +59,32 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "USPS: PARCEL MARKETPLACE RATE SURCHARGE",
+            "heading": "FEDEX: PEAK DEMAND SURCHARGES",
             "points": [
-                "The United States Postal Service raised lightweight package rates for marketplace sellers using Ground Advantage services.",
-                "Sellers shipping lightweight goods to rural locations face cost increases of two to three dollars per parcel.",
-                "E-commerce merchants must adjust fulfillment algorithms to offset rising shipping expenses and maintain thin retail profit margins.",
-                "Strategic multi-carrier routing configurations are becoming critical to bypass domestic postal network delivery cost surges."
+                "FedEx introduces comprehensive holiday demand surcharges across its entire domestic shipping network for late twenty twenty-six.",
+                "These escalating rates target high-volume residential deliveries and additional handling packages to manage peak capacity constraints.",
+                "Retailers must optimize fulfillment schedules and realign regional carrier distribution networks to mitigate rising peak shipping costs.",
+                "E-commerce merchants will likely pass these holiday logistics surcharges onto consumers through increased delivery prices."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC: MULTI-BILLION DOMESTIC CHIP PUSH",
+            "nextUpTease": "USPS: GROUND ADVANTAGE RATE HIKES",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "USPS: GROUND ADVANTAGE RATE HIKES",
+            "points": [
+                "United States Postal Service implements rate increases for Ground Advantage services targeting marketplace and online sellers.",
+                "Lightweight package deliveries to rural locations will see an immediate transport cost increase of up to three dollars.",
+                "Omnichannel e-commerce businesses are forced to re-evaluate low-cost parcel shipping configurations and alternative regional carrier options.",
+                "Marketplace platforms are adjusting automated shipping label programs to reflect these sudden regulatory postal pricing changes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS OPTIONS",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -75,52 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "TSMC: MULTI-BILLION DOMESTIC CHIP PUSH",
-            "points": [
-                "Taiwan Semiconductor Manufacturing Company committed an additional one hundred billion dollars to expand its United States footprint.",
-                "The massive capital investment will establish four more advanced fabrication facilities bringing the domestic total to twelve.",
-                "This manufacturing expansion aims to decouple critical technology components from volatile geopolitical choke points in East Asia.",
-                "Global high-tech supply chains must restructure material routing to integrate localized American semiconductor production outputs by 2027."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "US GOVERNMENT: SEVERE CANADIAN TARIFFS",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "US GOVERNMENT: SEVERE CANADIAN TARIFFS",
+            "heading": "KUEHNE+NAGEL: APEX LOGISTICS OPTIONS",
             "points": [
-                "The United States imposed severe fifty percent tariffs on critical imports arriving from Canada under Section 338.",
-                "These steep duties apply globally even to products previously qualifying for duty-free status under the USMCA agreement.",
-                "Cross-border automotive and raw material supply chains face immediate disruption as procurement costs skyrocket overnight.",
-                "Industrial buyers must rapidly source alternative domestic suppliers to avoid crushing import tax liabilities on vital components."
+                "Kuehne+Nagel evaluates strategic options including a potential partial sale or public offering of its Apex Logistics unit.",
+                "This capital restructure aims to optimize internal freight forwarder balance sheets amidst volatile global air freight markets.",
+                "Apex Logistics remains a crucial asset for transpacific e-commerce cargo distribution and charter capacity optimization.",
+                "Stakeholders anticipate shifting air charter network alliances as corporate restructuring decisions alter long-term forwarder capacities."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: NEW EL NINO RESTRICIONS",
+            "nextUpTease": "INTERNATIONAL: STAGGERED EPA COMPLIANCE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PANAMA CANAL: NEW EL NINO RESTRICIONS",
+            "heading": "INTERNATIONAL: STAGGERED EPA COMPLIANCE",
             "points": [
-                "The Panama Canal Authority announced plans to reintroduce strict daily vessel transit limits and draft depth restrictions.",
-                "Anticipated water shortages from El Ni\u00f1o weather patterns are forcing these proactive operational maritime cargo constraints.",
-                "Global ocean carriers face soaring slot auction prices and must evaluate costly alternative routing around Cape Horn.",
-                "Logistics managers should brace for extended transit times and preemptively secure space on alternative transpacific air lanes."
+                "International plans a staggered launch of model-year twenty twenty-seven engines meeting strict new emissions standards.",
+                "The phase-in strategy helps fleet operators adapt to incoming nitrogen oxide emissions rules without disrupting operations.",
+                "Engine manufacturers face severe engineering and compliance validation hurdles before the official twenty twenty-seven enforcement deadline.",
+                "Trucking fleets must execute strategic procurement planning to balance higher equipment acquisition costs and emissions savings."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
