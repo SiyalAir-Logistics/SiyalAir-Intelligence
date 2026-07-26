@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS COMPLIANCE",
-        "titleBlue": "TIGHTENS",
-        "footerSummary": "Global freight networks hit by sweeping forced labor tariffs, massive broker liability verdicts, and new transshipment enforcement actions."
+        "titleWhite": "GLOBAL TRADE",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "New US tariffs on 60 nations and a historic $604 million broker verdict trigger immediate regulatory and legal compliance risks for global shippers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: NEW SECTION 301 TARIFFS",
+            "heading": "USTR: SECTION 301 IMPLEMENTATION",
             "points": [
-                "The United States replaced Section 122 import surcharges with forced labor tariffs targeting sixty global trading partners.",
-                "Importers face ten and twelve point five percent duties as customs compliance shifts to forced labor verification.",
-                "Supply chain experts warn that tracking country of origin documentation will become increasingly complex for international trade.",
-                "Global shippers must swiftly audit multi-tier suppliers to mitigate significant financial exposures under the updated regulatory regime."
+                "The United States replaced its temporary Section 122 import surcharges with new Section 301 tariffs on sixty economies.",
+                "Shippers face immediate ten to twelve percent duties on imports as the federal government targets global forced labor.",
+                "Concurrently, new Section 338 duties slap fifty percent tariffs on major industrial imports arriving from Canadian suppliers.",
+                "Supply chain managers must restructure landed cost models to mitigate sudden cross-border tax liabilities across diverse lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "COURT: C.H. ROBINSON LIABILITY RULING",
+            "nextUpTease": "COURT: BROKER VETTING VERDICT",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -25,32 +25,49 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "COURT: C.H. ROBINSON LIABILITY RULING",
+            "heading": "COURT: BROKER VETTING VERDICT",
             "points": [
-                "C.H. Robinson faces a massive six hundred four million dollar verdict for negligent third-party carrier selection.",
-                "The advisory decision significantly raises safety vetting standards for global freight brokerages managing commercial transport fleets.",
-                "Shippers may face direct liability risks if their logistics partners fail to execute rigorous safety audits.",
-                "Industry executives predict that automated carrier screening algorithms will become mandatory across all digital brokerage platforms."
+                "A jury issued a historic six hundred four million dollar negligent selection verdict against broker C.H. Robinson.",
+                "The landmark decision raises the liability bar for third-party logistics firms during motor carrier verification and onboarding.",
+                "Industry experts predict severe spikes in corporate insurance premiums alongside stricter compliance auditing for all freight intermediaries.",
+                "Enterprise logistics networks must deploy automated vetting workflows to eliminate high-risk carriers from active routing pools immediately."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: GROUND ADVANTAGE RATE HIKE",
+            "nextUpTease": "FMC: DETENTION FEES RULING",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "USPS: GROUND ADVANTAGE RATE HIKE",
+            "heading": "FMC: DETENTION FEES RULING",
             "points": [
-                "The United States Postal Service raised Ground Advantage package shipping rates for online marketplace merchants.",
-                "E-commerce businesses must absorb increased fulfillment expenses or pass the higher parcel distribution costs to consumers.",
-                "Regional delivery alternatives are gaining traction as high shipping costs squeeze retail margins on lightweight goods.",
-                "Analysts expect multi-carrier shipping software integration to become essential for optimizing real-time parcel carrier selection."
+                "The US Court of Appeals upheld the Federal Maritime Commission ruling regarding ocean container demurrage billing practices.",
+                "Ocean carriers must prove detention fees actively promote port cargo fluidity rather than serving as commercial penalty instruments.",
+                "This legal precedent reinforces administrative authority to penalize shipping lines violating the Ocean Shipping Reform Act guidelines.",
+                "Marine terminal operators must adjust billing structures to prevent regulatory disputes and costly cargo flow delay investigations."
             ],
             "imageUrl": "",
-            "nextUpTease": "US TRADE: CANADA IMPORT TARIFFS",
+            "nextUpTease": "USPS: MARKETPLACE RATE INCREASES",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "USPS: MARKETPLACE RATE INCREASES",
+            "points": [
+                "The United States Postal Service raised Ground Advantage package rates for prominent e-commerce marketplace sellers unexpectedly.",
+                "This rate change heavily impacts domestic sellers distributing lightweight merchandise via platforms like eBay and Etsy.",
+                "Additionally, new noncompliance fees target hazardous household cargo, introducing strict financial penalties for undeclared shipments.",
+                "Multi-channel retailers must optimize parcel carrier mixes to offset rising regional outbound fulfillment and last-mile distribution costs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ACP: PANAMA CANAL RESTRICTIONS",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -58,64 +75,47 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "US TRADE: CANADA IMPORT TARIFFS",
-            "points": [
-                "The United States applied fifty percent tariffs on various Canadian imports despite existing USMCA trade agreements.",
-                "These Section 338 duties target a wide range of goods previously exempt under duty-free trade classifications.",
-                "Cross-border supply chains face severe cost shocks, forcing manufacturers to reassess North American sourcing strategies.",
-                "Corporate compliance officers must rapidly update customs entry software to prevent unexpected delays at border crossings."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TSMC: SEMICONDUCTOR FACILITY EXPANSION",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "TSMC: SEMICONDUCTOR FACILITY EXPANSION",
+            "heading": "ACP: PANAMA CANAL RESTRICTIONS",
             "points": [
-                "TSMC committed an additional one hundred billion dollars to construct four advanced semiconductor facilities in America.",
-                "This capital injection brings the manufacturer's total domestic microchip production sites to twelve active industrial facilities.",
-                "The massive investment aligns with federal initiatives aiming to build resilient domestic supply chains for critical components.",
-                "High-tech logistics providers must scale dedicated transport solutions for specialized, high-value sensitive equipment across North America."
+                "The Panama Canal Authority reintroduced strict transit restrictions and drafts due to impending El Ni\u00f1o weather patterns.",
+                "Major ocean carriers including MSC and CMA CGM announced immediate surcharges for cargo transiting this critical gateway.",
+                "Shippers must brace for extended transit delays and escalating container freight rates on Asia to US East Coast.",
+                "Logistics directors are actively evaluating alternative intermodal routing options via West Coast ports to secure delivery timelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE",
+            "nextUpTease": "TSMC: SEMICONDUCTOR CAPACITY EXPANSION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE",
+            "heading": "TSMC: SEMICONDUCTOR CAPACITY EXPANSION",
             "points": [
-                "The Department of Justice Trade Fraud Task Force recovered over one billion dollars in penalty assessments.",
-                "Enforcement actions focused heavily on customs duty evasion, misclassified merchandise entries, and illegal transshipment schemes.",
-                "Importers face increased audit frequency as regulatory bodies utilize advanced predictive data analytics to identify noncompliance.",
-                "Global corporations must strengthen trade compliance oversight and maintain transparent auditing records to minimize litigation risks."
+                "TSMC committed one hundred billion dollars to build four additional advanced semiconductor fabrication facilities inside the United States.",
+                "The massive investment expands the manufacturer's total domestic footprint to twelve modern high-tech chip manufacturing installations.",
+                "This domestic expansion secures localized supply chains for critical automotive, enterprise computing, and aerospace electronic hardware markets.",
+                "High-tech procurement teams must align long-term component sourcing strategies with this expanding onshore chip fabrication infrastructure network."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA: TRANSIT RESTRICTIONS RETURN",
+            "nextUpTease": "CHINA: MARITIME CODE REVISIONS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PANAMA: TRANSIT RESTRICTIONS RETURN",
+            "heading": "CHINA: MARITIME CODE REVISIONS",
             "points": [
-                "The Panama Canal Authority is reintroducing vessel transit restrictions to prepare for upcoming El Nino impacts.",
-                "Maritime ocean carriers anticipate reduced daily slot allocations, which could drive spot freight rates significantly higher.",
-                "Intermodal shippers are preparing alternative routings to West Coast ports to bypass potential canal choke points.",
-                "Logisticians must optimize vessel scheduling and load configurations to maintain consistent transit times across trade lanes."
+                "China implemented critical revisions to its Maritime Code, fundamentally altering legal liabilities for carriers and NVOCC operators.",
+                "Specifically, Article 295 introduces rigorous new regulatory requirements that redefine standard maritime transportation and shipping contracts.",
+                "Global maritime legal specialists warn these regulatory shifts could trigger unprecedented litigation regarding carrier service level defaults.",
+                "Cargo forwarders must audit all active ocean contracts to guarantee alignment with China's updated maritime legal frameworks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
