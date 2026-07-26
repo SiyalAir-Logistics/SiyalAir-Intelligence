@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DECODING GLOBAL",
-        "titleBlue": "LOGISTICS",
-        "footerSummary": "New Section 301 tariffs and escalating broker liability verdicts are forcing global supply chains to restructure compliance frameworks immediately."
+        "titleWhite": "GLOBAL TRADE REGULATORY",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "New Trump tariffs and severe broker liability verdicts trigger massive compliance risks, forcing immediate network restructuring to prevent catastrophic supply disruptions."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 REPOSITION",
+            "heading": "USTR: NEW SECTION 301 REGIME",
             "points": [
-                "The United States officially replaces its temporary Section 122 import surcharges with new Section 301 tariff structures.",
-                "New tariffs of ten to twelve percent target imports from sixty trading partners based on forced labor commitments.",
-                "Customs specialists warn that the rapid transition creates immediate compliance challenges for global multi-channel retail product importers.",
-                "Importers must rapidly reclassify customs entries to avoid significant clearance delays at major maritime ports of entry."
+                "The United States replaced its temporary Section 122 import surcharges with a permanent Section 301 tariff regime.",
+                "New ten and twelve percent duties now target imports from sixty trading partners based on forced labor commitments.",
+                "Customs specialists warn that managing compliance under this sudden transition introduces severe administrative bottlenecks for global importers.",
+                "Importers must immediately audit supplier networks to mitigate multi-million dollar exposure to these expanded regulatory trade duties."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON: LIABILITY VERDICT",
+            "nextUpTease": "C.H. ROBINSON: COLISEUM BROKER LIABILITY",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -25,15 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "C.H. ROBINSON: LIABILITY VERDICT",
+            "heading": "C.H. ROBINSON: COLISEUM BROKER LIABILITY",
             "points": [
-                "A jury orders logistics giant C.H. Robinson to pay six hundred and four million dollars in damages.",
-                "The landmark verdict finds the broker liable for negligent carrier selection during a fatal twenty twenty-one crash.",
-                "The company plans to appeal the decision amid growing industry concerns over carrier vetting liability standards.",
-                "Freight brokers must immediately tighten their carrier selection frameworks to mitigate escalating systemic litigation risks."
+                "A Mississippi jury handed down a devastating six hundred four million dollar verdict against C.H. Robinson.",
+                "The case establishes a strict legal precedent regarding broker liability for negligent third-party motor carrier selection.",
+                "Freight brokerages must overhaul their automated safety verification technologies to prevent massive negligent selection liability exposures.",
+                "Shippers are reassessing direct liabilities and demanding rigorous real-time safety audit trails from logistics partners worldwide."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE",
+            "nextUpTease": "FMC: DETENTION FEE REGULATIONS UPHELD",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -42,32 +42,15 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE",
+            "heading": "FMC: DETENTION FEE REGULATIONS UPHELD",
             "points": [
-                "The Department of Justice Trade Fraud Task Force surpasses one billion dollars in total financial recoveries.",
-                "These penal collections reflect aggressive enforcement actions targeting import compliance violations and customs duty evasion.",
-                "The task force achieved this massive milestone in less than one year since its initial deployment.",
-                "Global manufacturers and third-party logistics firms must implement robust internal compliance audits to avoid severe penalties."
+                "The US Court of Appeals upheld the Federal Maritime Commission ruling on container detention billing practices.",
+                "Ocean carrier demurrage and detention fees must strictly serve the operational purpose of promoting maritime freight fluidity.",
+                "This ruling legally prevents carriers from leveraging administrative delays as secondary revenue generators during port congestion.",
+                "Importers gain significant financial leverage to dispute unfair billing practices and demand transparent operational data transparency."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: DETENTION FEES RULE",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "FMC: DETENTION FEES RULE",
-            "points": [
-                "The United States Court of Appeals upholds a critical Federal Maritime Commission ruling on container detention billing.",
-                "The court reaffirms that carrier detention and demurrage fees must actively incentivize and promote maritime freight fluidity.",
-                "This ruling provides shippers with stronger legal protections against unreasonable storage penalties during severe port congestion.",
-                "Ocean carriers must align their billing practices with strict regulatory standards to prevent costly legal disputes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "USPS: RURAL SHIPPING SURCHARGES",
+            "nextUpTease": "USPS: PARCEL MARKETPLACE RATE SURCHARGE",
             "tags": [
                 "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
@@ -75,16 +58,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "USPS: RURAL SHIPPING SURCHARGES",
+            "id": 4,
+            "heading": "USPS: PARCEL MARKETPLACE RATE SURCHARGE",
             "points": [
-                "The United States Postal Service introduces new two to three dollar surcharges for lightweight remote shipments.",
-                "These added delivery fees target lightweight packages sent to designated rural regions across the domestic network.",
-                "Online sellers utilizing e-commerce marketplaces will face immediate shipping margin compression on low-cost consumer goods.",
-                "Merchants must optimize their regional fulfillment networks to minimize reliance on high-cost final mile rural shipping."
+                "The United States Postal Service raised lightweight package rates for marketplace sellers using Ground Advantage services.",
+                "Sellers shipping lightweight goods to rural locations face cost increases of two to three dollars per parcel.",
+                "E-commerce merchants must adjust fulfillment algorithms to offset rising shipping expenses and maintain thin retail profit margins.",
+                "Strategic multi-carrier routing configurations are becoming critical to bypass domestic postal network delivery cost surges."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDERAL COURT: TARIFF LITIGATION",
+            "nextUpTease": "TSMC: MULTI-BILLION DOMESTIC CHIP PUSH",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -92,35 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "FEDERAL COURT: TARIFF LITIGATION",
+            "id": 5,
+            "heading": "TSMC: MULTI-BILLION DOMESTIC CHIP PUSH",
             "points": [
-                "Domestic business owners file lawsuits challenging the immediate implementation of new federal import tariffs.",
-                "The legal challenges target newly enacted import duties imposed on goods coming from Canada and Mexico.",
-                "Trade experts speculate whether these high-stakes lawsuits can successfully block the administration's aggressive trade policies.",
-                "Importers must develop flexible supply chain strategies to manage continued price volatility during prolonged legal battles."
+                "Taiwan Semiconductor Manufacturing Company committed an additional one hundred billion dollars to expand its United States footprint.",
+                "The massive capital investment will establish four more advanced fabrication facilities bringing the domestic total to twelve.",
+                "This manufacturing expansion aims to decouple critical technology components from volatile geopolitical choke points in East Asia.",
+                "Global high-tech supply chains must restructure material routing to integrate localized American semiconductor production outputs by 2027."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: PEAK DEMAND SURCHARGES",
+            "nextUpTease": "US GOVERNMENT: SEVERE CANADIAN TARIFFS",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "US GOVERNMENT: SEVERE CANADIAN TARIFFS",
+            "points": [
+                "The United States imposed severe fifty percent tariffs on critical imports arriving from Canada under Section 338.",
+                "These steep duties apply globally even to products previously qualifying for duty-free status under the USMCA agreement.",
+                "Cross-border automotive and raw material supply chains face immediate disruption as procurement costs skyrocket overnight.",
+                "Industrial buyers must rapidly source alternative domestic suppliers to avoid crushing import tax liabilities on vital components."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PANAMA CANAL: NEW EL NINO RESTRICIONS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FEDEX: PEAK DEMAND SURCHARGES",
+            "heading": "PANAMA CANAL: NEW EL NINO RESTRICIONS",
             "points": [
-                "FedEx unveils its comprehensive peak season shipping surcharge schedule to manage elevated holiday parcel volumes.",
-                "Shippers will experience significantly higher home delivery prices as the logistics provider implements network-wide demand fees.",
-                "These aggressive pricing maneuvers are designed to offset rising operational costs and support network investments.",
-                "High-volume e-commerce retailers must adjust their shipping budgets to accommodate the impending peak season cost increases."
+                "The Panama Canal Authority announced plans to reintroduce strict daily vessel transit limits and draft depth restrictions.",
+                "Anticipated water shortages from El Ni\u00f1o weather patterns are forcing these proactive operational maritime cargo constraints.",
+                "Global ocean carriers face soaring slot auction prices and must evaluate costly alternative routing around Cape Horn.",
+                "Logistics managers should brace for extended transit times and preemptively secure space on alternative transpacific air lanes."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
