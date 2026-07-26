@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL REGULATORY SUPPLY",
+        "titleWhite": "GLOBAL LOGISTICS COMPLIANCE",
         "titleBlue": "SHIFTS",
-        "footerSummary": "New Section 301 tariffs, severe freight carrier verdicts, and canal transit cuts increase cross-border cost and operational risks in 2026."
+        "footerSummary": "New Section 301 tariffs and a historic $604 million broker liability verdict escalate immediate regulatory, legal, and financial risks for global supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CBP: SECTION 301 CUSTOMS REGIME",
+            "heading": "USTR: SECTION 301 TARIFF OVERHAUL",
             "points": [
-                "The United States officially enacted a new Section 301 tariff regime targeting imports from sixty global economies.",
-                "These new duties replace the expired Section 122 surcharges and focus on enforcing strict forced labor regulations.",
-                "Customs clearance professionals warn that the sudden transition will create immediate compliance hurdles at major entry ports.",
-                "Importers must urgently update their automated classification databases to avoid severe customs clearance delays and financial penalties."
+                "United States replaces temporary Section 122 import surcharges with permanent Section 301 forced labor tariff regimes.",
+                "New regulations impose ten to twelve point five percent duties on sixty global trading partner nations.",
+                "Importers face complex compliance challenges as customs clearance systems adapt to the sudden regulatory transition.",
+                "Supply chain managers must audit vendor origins immediately to mitigate substantial new duty exposure risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBINSON: NUCLEAR FREIGHT VERDICT APPEAL",
+            "nextUpTease": "C.H. ROBINSON: CARRIER VETTING LIABILITY",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -25,15 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "ROBINSON: NUCLEAR FREIGHT VERDICT APPEAL",
+            "heading": "C.H. ROBINSON: CARRIER VETTING LIABILITY",
             "points": [
-                "C.H. Robinson officially announced plans to appeal a staggering six hundred four million dollar highway crash ruling.",
-                "The Mississippi jury decision highlights severe liabilities for third-party logistics brokers during their carrier vetting procedures.",
-                "Logistics legal experts suggest this verdict sets a dangerous precedent that shifts operational safety duties to intermediaries.",
-                "Freight brokerages must immediately transition toward advanced artificial intelligence tools to verify active motor carrier safety records."
+                "Jury delivers landmark six hundred four million dollar nuclear verdict against logistics broker for negligent carrier selection.",
+                "Ruling establishes unprecedented shipper and broker liability thresholds regarding commercial motor vehicle safety compliance audits.",
+                "Legal precedents force global third-party logistics firms to implement advanced, automated real-time carrier vetting systems.",
+                "Freight brokerages must overhaul risk management frameworks to protect balance sheets from massive nuclear litigation."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: EL NINO TRANSIT CAPS",
+            "nextUpTease": "FEDEX: PEAK DEMAND SURCHARGE INCREASE",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -42,66 +42,49 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "PANAMA CANAL: EL NINO TRANSIT CAPS",
+            "heading": "FEDEX: PEAK DEMAND SURCHARGE INCREASE",
             "points": [
-                "The Panama Canal Authority confirmed plans to reintroduce structural transit restrictions and draft limits due to El Nino.",
-                "Ocean carriers are already preparing to implement fresh transit surcharges for containers moving on crucial transpacific trade lanes.",
-                "Drought conditions are projected to limit daily vessel passages, squeezing overall ocean capacity heading to East Coast ports.",
-                "Logistics managers should actively evaluate alternative intermodal rail routings through West Coast ports to secure cargo fluidity."
+                "FedEx announces twenty twenty-six peak season demand surcharges targeting residential and high-volume e-commerce home deliveries.",
+                "Tiered residential pricing mechanisms will elevate operational shipping costs significantly during critical holiday fulfillment windows.",
+                "Enterprise shippers face intense pressure to optimize multi-carrier parcel networks and negotiate contract mitigation clauses.",
+                "Last-mile distribution networks must balance rising carrier fees against consumer expectations for free shipping options."
             ],
             "imageUrl": "",
-            "nextUpTease": "US TRADE: SECTION 338 CANADIAN DUTIES",
+            "nextUpTease": "USPS: REGIONAL MARKETPLACE RATE REVOLUTION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "US TRADE: SECTION 338 CANADIAN DUTIES",
+            "heading": "USPS: REGIONAL MARKETPLACE RATE REVOLUTION",
             "points": [
-                "The United States has implemented fifty percent Section 338 tariffs on a wide variety of Canadian imports.",
-                "These steep tariffs apply even to goods previously qualifying for duty-free status under active USMCA trade agreements.",
-                "Cross-border supply chains face substantial cost escalations for critical raw materials and industrial components manufactured in Canada.",
-                "Procurement teams are forced to quickly re-evaluate regional sourcing strategies to mitigate these sudden north-bound trade barriers."
+                "Postal Service implements targeted Ground Advantage rate increases specifically affecting high-volume e-commerce marketplace sellers nationwide.",
+                "New rural shipping surcharges add two to three dollars to lightweight parcel deliveries in remote areas.",
+                "Small-scale online merchants must adjust pricing models rapidly to offset immediate margin compression from postage.",
+                "E-commerce platforms are restructuring label printing services to assist sellers in mitigating localized delivery cost spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL: APEX STRATEGIC EVALUATION",
+            "nextUpTease": "TSMC: DOMESTIC CHIP INFRASTRUCTURE BOOM",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "KUEHNE+NAGEL: APEX STRATEGIC EVALUATION",
+            "heading": "TSMC: DOMESTIC CHIP INFRASTRUCTURE BOOM",
             "points": [
-                "Global freight forwarding giant Kuehne+Nagel is actively considering selling a stake in its Apex Logistics business unit.",
-                "This strategic evaluation comes as the global air cargo market faces volatile rate changes and climbing fuel surcharges.",
-                "Apex Logistics has been a critical driver for Kuehne+Nagel's transpacific air freight capacity and electronic commerce volumes.",
-                "The potential transaction could trigger a massive realignment of global forwarding capacity and impact long-term air cargo rates."
+                "Semiconductor giant commits additional one hundred billion dollars to construct four advanced fabrication facilities in America.",
+                "Investment scales total planned domestic production sites to twelve, securing localized microchip supply chain resilience.",
+                "Collaborative federal funding initiatives accelerate high-tech manufacturing ecosystems and reduce heavy reliance on foreign foundries.",
+                "Hardware and data center supply chains expect enhanced geographic stability and reduced cross-border transit risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: HOLIDAY PEAK DEMAND FEES",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "FEDEX: HOLIDAY PEAK DEMAND FEES",
-            "points": [
-                "FedEx unveiled its peak season demand surcharges and higher home delivery fees for the upcoming holiday period.",
-                "These pricing adjustments are designed to offset localized delivery network strains and high operational volumes during peak months.",
-                "Shippers face increased parcel costs that will challenge electronic commerce margins during the critical winter shopping season.",
-                "Retailers must optimize fulfillment networks and explore regional carrier alternatives to control escalating last-mile shipping expenses."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRATON: EPA ENGINE PHASING PLANS",
+            "nextUpTease": "KUEHNE+NAGEL: APEX SPINOFF STRATEGY",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -109,18 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "TRATON: EPA ENGINE PHASING PLANS",
+            "id": 6,
+            "heading": "KUEHNE+NAGEL: APEX SPINOFF STRATEGY",
             "points": [
-                "Traton and Cummins are planning to stagger the introduction of heavy-duty truck engines compliant with EPA rules.",
-                "The upcoming model year twenty twenty-seven engines must meet extremely stringent federal nitrogen oxide emissions regulations.",
-                "Fleet operators are concerned that the rapid technology shift could trigger equipment shortages and elevated acquisition costs.",
-                "Staggered introductions will allow manufacturers to optimize engineering validation processes while keeping global freight networks moving."
+                "Global logistics leader explores strategic divestment options and potential public listing for high-performing Apex Logistics division.",
+                "Transaction seeks to unlock maximum corporate valuation while optimizing capital allocation across traditional freight forwarding operations.",
+                "Shippers monitor organizational shifts as forwarder consolidation changes trans-Pacific air and ocean capacity market dynamics.",
+                "Corporate restructuring highlights the growing divergence between general freight forwarding and specialized high-volume Asian trade specialists."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PANAMA CANAL: CLIMATE TRANSIT RESTRICTIONS",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "PANAMA CANAL: CLIMATE TRANSIT RESTRICTIONS",
+            "points": [
+                "Canal Authority reintroduces strict draft limits and vessel transit restrictions in response to oncoming El Ni\u00f1o weather.",
+                "Ocean carriers implement heavy operational surcharges as container slot availability declines on major east-west tradelanes.",
+                "Maritime logistics managers must evaluate alternative routing options including intermodal rail corridors to avoid port congestion.",
+                "Importers face escalating transit delays and increased spot rates for containerized cargo transiting the critical waterway."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
