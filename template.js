@@ -1,56 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT",
-        "titleBlue": "CHOKEPOINTS",
-        "footerSummary": "Rising tariff barriers and massive legal liabilities force logistics operators to rebuild compliance frameworks and adjust regional shipping strategies immediately."
+        "titleWhite": "GLOBAL LOGISTICS STRATEGIC",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Unprecedented six hundred million dollar freight liability rulings and aggressive federal trade enforcement actions trigger systemic operational risks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "C.H. ROBINSON: NUCLEAR VERDICT APPEAL",
+            "heading": "C.H. ROBINSON: BROKER NEGLIGENCE LITIGATION",
             "points": [
-                "C.H. Robinson officially appeals a massive six hundred and four million dollar negligent carrier selection jury verdict.",
-                "Brokerages face immediate insurance premium hikes and mandatory implementation of advanced carrier vetting automation protocols.",
-                "The ruling intensifies legal scrutiny on third-party logistics firms regarding their subcontracted fleet safety standards.",
-                "Freight brokers must rapidly integrate real-time compliance monitoring software to mitigate catastrophic liability exposure risks."
+                "C.H. Robinson faces a massive six hundred million dollar jury verdict over broker carrier vetting liabilities.",
+                "The logistics provider plans to appeal the decision which impacts standard third party liability across North America.",
+                "Legal experts warn that the ruling dramatically elevates the compliance standards required for negligent carrier selection.",
+                "Shippers must deploy rigorous carrier vetting software to mitigate massive vicarious liability risks in highway logistics."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: SECTION 301 IMPLEMENTATION",
+            "nextUpTease": "US TRADE REVENUE: TARIFF COMPLIANCE REFORMS",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "USTR: SECTION 301 IMPLEMENTATION",
+            "heading": "US TRADE REVENUE: TARIFF COMPLIANCE REFORMS",
             "points": [
-                "United States Trade Representative implements new ten and twelve point five percent tariffs on sixty trading partners.",
-                "Importers face sudden cost increases as forced labor compliance standards replace expiring Section 122 import surcharges.",
-                "Supply chains must pivot sourcing strategies to avoid severe penalties on goods from restricted international territories.",
-                "Compliance officers must deploy automated origin-tracing technologies to guarantee verifiable documentation for all incoming shipments."
+                "The Office of the US Trade Representative implemented Section 301 tariffs on sixty target trading nations.",
+                "These forced labor based tariffs replace expiring temporary Section 122 import surcharges to secure domestic supply chains.",
+                "Importers face a baseline tariff rate of ten to twelve point five percent on affected international goods.",
+                "Supply chain planners must adjust landed cost models to account for these extensive new global trade duties."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: GROUND ADVANTAGE RATE HIKE",
+            "nextUpTease": "USPS MARKETPLACE: REGULATORY RATE ADJUSTMENTS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "USPS: GROUND ADVANTAGE RATE HIKE",
+            "heading": "USPS MARKETPLACE: REGULATORY RATE ADJUSTMENTS",
             "points": [
-                "United States Postal Service enacts rate increases for Ground Advantage lightweight packages sold on digital marketplaces.",
-                "Shipping costs to rural areas rise by two to three dollars per package, squeezing e-commerce seller margins.",
-                "High-volume merchants are forced to renegotiate regional carrier contracts to offset postal delivery cost escalations.",
-                "Retailers must dynamically adjust shipping rates at checkout to preserve profitability during high-volume parcel shipping seasons."
+                "The United States Postal Service raised Ground Advantage package rates for major online e-commerce marketplace sellers.",
+                "Lightweight package shipping costs to rural locations will experience a targeted two to three dollar surcharge increase.",
+                "Platforms like eBay and Amazon are urging sellers to audit shipping templates to absorb escalating transit expenses.",
+                "E-commerce businesses must recalibrate fulfillment strategies to mitigate margin erosion caused by rising last mile rates."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: DETENTION FEE RULE UPHELD",
+            "nextUpTease": "DOJ TASK FORCE: TRADE FRAUD ENFORCEMENT",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -59,49 +59,32 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "FMC: DETENTION FEE RULE UPHELD",
+            "heading": "DOJ TASK FORCE: TRADE FRAUD ENFORCEMENT",
             "points": [
-                "US Court of Appeals upholds Federal Maritime Commission rule stating detention fees must promote freight fluidity.",
-                "Ocean carriers can no longer legally charge demurrage fees when terminal congestion prevents container pickup operations.",
-                "The decision shifts financial leverage from global container lines to domestic shippers and drayage operators.",
-                "Importers must utilize digital dispute portals to aggressively challenge non-compliant invoices issued by ocean carriers."
+                "The Department of Justice Trade Fraud Task Force recovered over one billion dollars in penalties and forfeitures.",
+                "Federal investigators are targeting illicit customs evasion schemes and forced labor compliance violations across major supply networks.",
+                "Logistics networks face heightened regulatory scrutiny as federal agencies expand multi agency import fraud enforcement initiatives.",
+                "Global importers must establish robust compliance documentation audits to avoid devastating trade penalties and container seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC: SEMICONDUCTOR FACILITY EXPANSION",
+            "nextUpTease": "KUEHNE+NAGEL: STRUCTURAL PORTFOLIO DIVESTMENT",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TSMC: SEMICONDUCTOR FACILITY EXPANSION",
+            "heading": "KUEHNE+NAGEL: STRUCTURAL PORTFOLIO DIVESTMENT",
             "points": [
-                "TSMC announces additional one hundred billion dollar investment to build four advanced semiconductor facilities in America.",
-                "The expansion scales high-tech logistics demand and secures domestic electronic component manufacturing supply chains.",
-                "Regional industrial infrastructure must rapidly adapt to handle massive inflows of specialized heavy machinery and chemicals.",
-                "Technology manufacturers can plan local sourcing strategies to bypass volatile transpacific ocean and air shipping corridors."
+                "Kuehne+Nagel explores the strategic divestment of a minority stake in its highly profitable Apex Logistics subsidiary.",
+                "The potential transaction follows divergent growth strategies between the world top freight forwarding competitors like DSV.",
+                "Executives are evaluating an independent public listing for Apex to unlock capital and optimize core operations.",
+                "Forwarding markets expect this tactical shift to trigger significant realignments in transpacific air cargo capacity management."
             ],
             "imageUrl": "",
-            "nextUpTease": "KUEHNE+NAGEL: APEX LOGISTICS SPINOUT",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "KUEHNE+NAGEL: APEX LOGISTICS SPINOUT",
-            "points": [
-                "Kuehne+Nagel evaluates strategic options including selling a minority stake or executing an IPO for Apex Logistics.",
-                "A potential divestment redirects capital toward expanding internal digital logistics solutions and road freight network infrastructure.",
-                "The move indicates a structural shift among top-tier freight forwarders prioritizing organic scaling over acquisition models.",
-                "Shippers must monitor capacity allocations as ownership transitions could impact transpacific air cargo block space agreements."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AMAZON: HANDLING TIME MANDATE",
+            "nextUpTease": "HMM MARITIME: VESSEL CAPACITY EXPANSION",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -109,18 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "AMAZON: HANDLING TIME MANDATE",
+            "id": 6,
+            "heading": "HMM MARITIME: VESSEL CAPACITY EXPANSION",
             "points": [
-                "Amazon enforces a strict handling-time policy requiring third-party merchants to automate their shipping preparation windows.",
-                "Unprepared sellers risk account suspension if manual fulfillment timelines fail to meet the platform's compressed schedules.",
-                "Third-party logistics providers must sync warehouse management systems directly with seller central to prevent delivery delays.",
-                "Brand owners must transition to automated execution models to maintain buy-box eligibility and seller performance ratings."
+                "Ocean carrier HMM expanded its boxship fleet orders to reinforce its global hub and spoke liner model.",
+                "The container capacity injection aims to stabilize weekly schedules amid ongoing maritime disruptions and blanked sailings.",
+                "Strategic fleet expansions will provide shippers with more predictable space allocations on critical east west trade lanes.",
+                "Freight buyers should monitor these capacity deployments as ocean alliances restructure their long term service networks."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRATON INTERNATIONAL: EPA ENGINE COMPLIANCE",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "TRATON INTERNATIONAL: EPA ENGINE COMPLIANCE",
+            "points": [
+                "Truck manufacturer International plans a phased introduction of model year 2027 low emission diesel engines.",
+                "The staggered deployment strategy directly addresses strict incoming Environmental Protection Agency nitrogen oxide emissions regulations.",
+                "Fleet operators must prepare for complex technological transitions and rising capital expenditure requirements for truck acquisitions.",
+                "Transport companies should optimize maintenance schedules to extend existing assets before fully transitioning to new technologies."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
