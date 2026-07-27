@@ -1,39 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF",
-        "titleBlue": "PIVOT",
-        "footerSummary": "Escalating trade barriers and geopolitical tension now force rapid, high-cost adjustments to global logistics and procurement strategies for mid-to-large enterprise supply chains."
+        "titleWhite": "CRITICAL SUPPLY CHAIN",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Unprecedented tariff rollouts, a landmark $604 million broker verdict, and massive semiconductor expansions signal immediate financial and regulatory realignment."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR ENFORCES FORCED LABOR TARIFFS",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "USTR finalized new Section 301 tariffs on 60 trading partners to combat forced labor compliance risks.",
-                "Implementation began following the expiration of Section 122 duties, impacting diverse manufacturing imports globally.",
-                "Importers must recalibrate landed cost models immediately to account for 10 percent or 12.5 percent duty increases.",
-                "Customs compliance departments face heightened audit scrutiny regarding origin transparency and multi-tier supply chain visibility."
+                "United States Trade Representative implements Section 301 tariffs targeting sixty trading partners due to forced labor concerns.",
+                "Imports from affected nations face immediate ten to twelve percent duty increases following Section 122 expiration.",
+                "Global supply chain managers must rapidly reconfigure vendor sourcing channels to mitigate sudden import cost spikes.",
+                "Analysts predict widespread nearshoring acceleration as manufacturers seek alternative duty free trade lanes to preserve margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE TARIFF IMPACT",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "TRUMP TARIFF BLITZ IMPACT",
-            "points": [
-                "New administrative trade actions target specific imports from China, Canada, and Mexico alongside broad multi-national levies.",
-                "Strategic sectors including pharmaceuticals and aluminum production are facing 50 percent to 200 percent tariff barriers.",
-                "Supply chain managers are pivoting toward accelerated domestic onshoring programs to offset extreme protectionist duty costs.",
-                "Policy volatility remains the primary disruptor for 2026/2027 procurement planning and long-term capital expenditure allocations."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CARRIER RATE FLUCTUATIONS",
+            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -41,33 +24,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "OCEAN FREIGHT CAPACITY VOLATILITY",
+            "id": 2,
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
             "points": [
-                "Global liner schedule reliability faces fragmentation as carriers prioritize core lanes over regional network services.",
-                "Panama Canal draft limits and regional instability trigger new surcharges, increasing total freight expenditure for shippers.",
-                "Capacity discipline among major alliances keeps spot rates high despite the overall cooling of trans-Pacific volumes.",
-                "Data center infrastructure cargo is currently masking underlying weakness in consumer goods import demand trends."
+                "Department of Justice trade fraud task force recovers over one billion dollars in penalties and forfeitures.",
+                "Federal authorities intensify inspections targeting Customs and Border Protection trade compliance violations across all major gateways.",
+                "Importers face increased scrutiny regarding transaction documentation accuracy, classification codes, and forced labor compliance audits.",
+                "Supply chain compliance officers must implement rigorous automated verification systems to prevent severe regulatory enforcement penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING INDUSTRY LIABILITY",
+            "nextUpTease": "C.H. ROBINSON: BROKER NEGLIGENCE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 4,
-            "heading": "BROKER LIABILITY LEGAL PRECEDENT",
+            "id": 3,
+            "heading": "C.H. ROBINSON: BROKER NEGLIGENCE",
             "points": [
-                "A 604 million dollar verdict against C.H. Robinson marks a critical shift in carrier selection liability.",
-                "Legal experts warn that standard broker AI vetting tools may prove insufficient under current judicial scrutiny.",
-                "Freight brokers are scrambling to overhaul carrier compliance standards to mitigate extreme nuclear verdict financial risks.",
-                "Industry leaders are calling for standardized vetting protocols to protect against future negligent selection litigation cases."
+                "Juries deliver a historic six hundred four million dollar verdict against C.H. Robinson for negligent carrier selection.",
+                "The landmark ruling establishes unprecedented legal liabilities for freight brokers failing to thoroughly vet third party carriers.",
+                "Industry experts predict rapid implementation of rigorous AI driven carrier vetting systems to mitigate massive legal exposures.",
+                "Freight forwarders must immediately restructure compliance protocols to meet the heightened standards set by the Supreme Court."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE FUNDING SHIFTS",
+            "nextUpTease": "USPS: GROUND ADVANTAGE INCREASES",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -75,33 +58,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "LOGISTICS HUB FEDERAL INVESTMENT",
+            "id": 4,
+            "heading": "USPS: GROUND ADVANTAGE INCREASES",
             "points": [
-                "Federal funding initiatives are targeting 36 critical logistics hubs to connect the TradePort Corridor system nationally.",
-                "Strategic infrastructure projects include truck-only lanes and improved rail-to-road interchange points for enhanced flow efficiency.",
-                "Regional logistics networks are receiving federal support to combat bottleneck issues at inland ports and terminals.",
-                "Operational planners should align warehouse expansion strategies with these designated high-growth federally supported logistics corridor zones."
+                "United States Postal Service raises Ground Advantage package rates targeting third party online marketplace sellers immediately.",
+                "Shipping lightweight items to rural locations now costs an additional two to three dollars per package.",
+                "E-commerce merchants must absorb higher delivery expenses or adjust customer shipping pricing models to remain competitive.",
+                "Multi channel brands are exploring regional fulfillment consolidation to bypass costly rural postal service delivery surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARKETPLACE COMPLIANCE RULES",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "E-COMMERCE MARKETPLACE REGULATION",
-            "points": [
-                "Marketplaces are facing increased regulatory pressure regarding account unfreezing scams and bribery-based account management practices.",
-                "USPS rate hikes for lightweight parcels on major marketplaces are forcing adjustments to e-commerce fulfillment cost structures.",
-                "Stricter handling-time requirements for third-party sellers are compelling automated logistics and inventory management system upgrades.",
-                "B2B e-commerce focus continues to expand as major platforms leverage seller networks to capture corporate purchasing demand."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "SUPPLY CHAIN AI ADOPTION",
+            "nextUpTease": "TSMC: US SEMICONDUCTOR EXPANSION",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -109,18 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "SUPPLY CHAIN AI ORCHESTRATION",
+            "id": 5,
+            "heading": "TSMC: US SEMICONDUCTOR EXPANSION",
             "points": [
-                "Warehouse operations are moving from point-solution automation toward integrated AI-driven supply chain orchestration platforms.",
-                "Autonomous Mobile Robots are scaling from pilot programs to high-density distribution center deployments for improved throughput.",
-                "AI agents are now managing vendor risk, forecasting demand, and optimizing fleet safety in real-time environments.",
-                "Forward-Deployed Engineering is gaining traction as a model to integrate custom AI workflows into legacy systems."
+                "Taiwan Semiconductor Manufacturing Company invests an additional one hundred billion dollars to construct four new American facilities.",
+                "The massive expansion increases the total planned United States advanced semiconductor manufacturing facilities to twelve operational hubs.",
+                "Domestic technology supply chains receive a vital boost, reducing reliance on complex Asian manufacturing and logistics networks.",
+                "Logistics infrastructure surrounding domestic chip fabrication plants must scale rapidly to support incoming raw material demand."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FMC: OCEAN DETENTION REGULATION",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "FMC: OCEAN DETENTION REGULATION",
+            "points": [
+                "United States Court of Appeals upholds Federal Maritime Commission rules stating detention fees must promote freight fluidity.",
+                "The landmark judicial decision prevents ocean carriers from charging punitive fees when terminal gates are completely inaccessible.",
+                "Shippers secure significant leverage against unreasonable demurrage and detention billing practices by international container lines.",
+                "Ocean transportation intermediaries must update their billing dispute mechanisms to align with the newly upheld federal standards."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PROJECT44: AI ENTERPRISE DISRUPTION",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "PROJECT44: AI ENTERPRISE DISRUPTION",
+            "points": [
+                "Project44 leadership predicts advanced artificial intelligence tools will disrupt WiseTech CargoWise dominance in freight forwarding software.",
+                "Next generation logistics technology focuses on real time automation rather than static, legacy enterprise resource planning platforms.",
+                "Forwarders are seeking modular cloud integrations that leverage agentic workflows to accelerate operational efficiency across global networks.",
+                "The technology shift will compel legacy software providers to rapidly upgrade legacy architectures with native artificial intelligence."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
