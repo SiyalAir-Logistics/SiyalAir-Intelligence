@@ -3,20 +3,20 @@ const dailyData = {
         "kicker": "",
         "titleWhite": "GLOBAL TRADE FRICTION",
         "titleBlue": "SURGE",
-        "footerSummary": "New U.S. forced labor tariffs on 60 nations and rising transit costs demand immediate recalibration of trans-Pacific import strategies and supply chain buffers."
+        "footerSummary": "Escalating tariff frameworks and judicial liability shifts for freight intermediaries create immediate operational volatility for trans-Pacific and domestic US supply chain networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "TRUMP TARIFFS: 60 NATION MANDATE",
             "points": [
-                "USTR finalized enforcement actions imposing 10% to 12.5% tariffs on goods from 60 trading partners to combat forced labor practices.",
-                "These levies trigger immediate landed cost increases for US importers previously operating under duty-free or preferential trade status.",
-                "Supply chain managers must audit sourcing origins to ensure compliance with Section 301 and newly expired Section 122 duty frameworks.",
-                "This regulatory pivot signals a long-term shift toward aggressive trade enforcement and heightened vetting for international import documentation."
+                "The USTR is implementing tariffs on 60 trading partners under Section 301 authority.",
+                "Imports face 10% to 12.5% levies effective immediately following Section 122 expiration.",
+                "Global supply chain architects must pivot sourcing strategies to mitigate these sudden landed-cost spikes.",
+                "Importers should anticipate extended delays as customs validation protocols tighten across all major ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER CAPACITY DISCIPLINE",
+            "nextUpTease": "CARRIER LIABILITY RISKS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -25,32 +25,49 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "CARRIER: CAPACITY DISCIPLINE",
+            "heading": "C.H. ROBINSON: $604M VERDICT IMPACT",
             "points": [
-                "Container spot rates are stabilizing through deliberate carrier capacity management despite ongoing weakness in consumer merchandise demand.",
-                "Liner reliability is fragmenting as major ocean carriers prioritize core high-margin tradelanes at the expense of regional network service coverage.",
-                "Data center infrastructure hardware imports remain the primary volume driver, artificially propping up trans-Pacific cargo demand during the peak season.",
-                "Shippers face increased equipment gaps at inland hubs, necessitating more flexible intermodal capacity strategies to mitigate typical holiday constraints."
+                "A $604 million jury verdict against C.H. Robinson signals a severe tightening of broker liability.",
+                "The case centers on negligent carrier selection following the precedent set by the Montgomery ruling.",
+                "Logistics providers face urgent pressure to automate and audit carrier vetting processes for safety compliance.",
+                "Industry analysts expect a systemic shift in how 3PLs document and manage third-party service provider risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE FRAUD ENFORCEMENT",
+            "nextUpTease": "US IMPORT VOLUME SHIFTS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE",
+            "heading": "SUMMER IMPORT VOLUMES PEAKING",
             "points": [
-                "Justice Department's Trade Fraud Task Force surpassed $1 billion in total recoveries, penalties, and forfeitures since its August 2025 inception.",
-                "The rapid escalation in enforcement highlights increased scrutiny regarding import valuation and classification accuracy across high-volume international trade channels.",
-                "Importers must bolster internal compliance protocols to mitigate risks associated with enhanced federal auditing of trade data and customs filings.",
-                "The task force activity represents a permanent expansion of US trade oversight, requiring stricter operational transparency from logistics partners."
+                "US import volumes are hitting the highest levels recorded since the 2022 inventory buildup cycle.",
+                "Trans-Pacific trade lanes show robust activity driven by data center infrastructure and hardware replenishment needs.",
+                "Market reliance on capacity discipline is keeping spot rate declines modest despite increasing overall throughput.",
+                "Supply chain managers must navigate localized capacity pinches as East Coast port congestion begins re-emerging."
             ],
             "imageUrl": "",
-            "nextUpTease": "LIABILITY VERDICT RISK",
+            "nextUpTease": "TRADE FRAUD ENFORCEMENT",
+            "tags": [
+                "Source: https://www.dcvelocity.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "TRADE FRAUD: $1B RECOVERY MILESTONE",
+            "points": [
+                "The DOJ Trade Fraud Task Force has officially surpassed $1 billion in total penalties and recoveries.",
+                "Enforcement targets trade violations, forfeited assets, and charged losses accrued since the task force inception.",
+                "Companies face heightened scrutiny regarding forced labor compliance and misclassification of goods within US borders.",
+                "Logistics partners are now critical buffers against regulatory fines and potential criminal trade practice investigations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS RATE ADJUSTMENTS",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -58,50 +75,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "LEGAL: CARRIER LIABILITY SHIFT",
-            "points": [
-                "C.H. Robinson is appealing a $604 million nuclear verdict stemming from a negligent carrier selection case in Mississippi.",
-                "The ruling sets a dangerous precedent for freight brokers, emphasizing the critical requirement for rigorous, AI-driven carrier vetting and compliance.",
-                "Transportation legal standards are tightening as plaintiffs leverage Supreme Court-level rulings to hold intermediaries accountable for independent contractor safety records.",
-                "Logistics firms must immediately formalize automated carrier qualification audits to avoid catastrophic financial exposure in post-Montgomery legal environments."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "GEOPOLITICAL SUPPLY RISK",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "GEOPOLITICAL: OIL PRICE VOLATILITY",
+            "heading": "USPS GROUND ADVANTAGE RATE HIKE",
             "points": [
-                "Brent crude prices tumbled 6.8% following the pause in U.S. and Iran hostilities, providing a temporary respite for transport fuel costs.",
-                "Despite the short-term cooling, supply chain planners remain cautious as the Strait of Hormuz transit stability remains subject to fresh diplomatic friction.",
-                "Oil market uncertainty is complicating long-term freight rate forecasting, forcing carriers to maintain volatile fuel surcharge adjustment schedules across networks.",
-                "Market reliance on US crude exports to fill global shortages keeps energy prices highly sensitive to Middle East conflict escalation cycles."
+                "USPS implemented increased Ground Advantage shipping rates impacting marketplace sellers effective this past Saturday.",
+                "Rural delivery cost premiums have escalated by $2 to $3 per lightweight parcel package handled.",
+                "E-commerce merchants must recalibrate shipping algorithms to absorb these localized geographic distribution cost variations.",
+                "Marketplace platforms are signaling further integration of automated handling tools to manage these carrier-side cost shifts."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS RATE ADJUSTMENTS",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "USPS: PACKAGE RATE REVISION",
-            "points": [
-                "USPS implemented increased Ground Advantage rates, specifically targeting lightweight parcel shipments destined for rural and underserved domestic locations.",
-                "Marketplace sellers on platforms like eBay and Amazon face margin compression as delivery costs scale for non-metropolitan fulfillment operations.",
-                "Increased parcel transit pricing necessitates a review of shipping logic and warehouse distribution placement to minimize the impact of regional surcharges.",
-                "The postal service continues to aggressively update its fee structures, requiring e-commerce operations to maintain dynamic shipping rate management software."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RAIL INFRASTRUCTURE GROWTH",
+            "nextUpTease": "ENERGY PRICE VOLATILITY",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -109,13 +92,30 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "RAIL: INTERMODAL INFRASTRUCTURE",
+            "id": 6,
+            "heading": "ENERGY MARKET: OIL PRICE TUMBLE",
             "points": [
-                "Class I railroads reported significant annual volume gains in June, signaling a robust recovery in intermodal reliance across US transport networks.",
-                "Federal funding injections into designated logistics hubs aim to reduce bottlenecks and improve connectivity between major trade corridor systems.",
-                "Reliable intermodal service is becoming the critical differentiator for 2027 contract bids as shippers seek to circumvent unpredictable truckload capacity.",
-                "Infrastructure investment is shifting toward strengthening terminal fluidity, ensuring long-term systemic support for escalating US import and export volumes."
+                "Brent crude oil prices dropped by 6.8% following temporary US-Iran ceasefire and peace talk pauses.",
+                "Easing tensions provide critical relief for global ocean freight fuel surcharges and inflationary logistics cost pressures.",
+                "Market participants remain cautious as geopolitical volatility in the Strait of Hormuz dictates long-term pricing trends.",
+                "Carriers adjust service reliability metrics based on these rapid shifts in global bunker fuel cost baselines."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RAIL INFRASTRUCTURE FUNDING",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "LOGISTICS HUBS: FEDERAL FUNDING",
+            "points": [
+                "New federal funding targets infrastructure development for three key nodes within the 36-hub TradePort Corridor.",
+                "Investment prioritizes systemic efficiency improvements to intermodal connectivity and regional port-to-warehouse cargo fluid movement.",
+                "Rail operators and logistics hubs are utilizing these grants to modernize assets and alleviate regional congestion.",
+                "Stakeholders should monitor project rollout phases to identify opportunities for optimized inland freight routing and transit."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",

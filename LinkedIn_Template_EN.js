@@ -7,37 +7,37 @@ module.exports = {
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "New US forced labor tariffs on 60 nations are triggering immediate landed cost increases for importers."
+                "narration_line": "The USTR is deploying new tariffs on 60 trading partners, forcing a rapid recalibration of global sourcing strategies."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Ocean carriers are tightening capacity to stabilize spot rates, leading to fragmented service reliability across regional networks."
+                "narration_line": "A massive $604 million legal verdict against C.H. Robinson signals a severe escalation in broker negligence liability risks."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The DOJ Trade Fraud Task Force has recovered over one billion dollars, escalating scrutiny on import compliance."
+                "narration_line": "US import volumes are hitting 2022 highs, creating localized capacity pinches and new pressures on domestic port infrastructure."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A massive 604 million dollar legal verdict against a broker underscores the urgent need for rigorous carrier vetting."
+                "narration_line": "DOJ trade fraud recoveries have exceeded $1 billion, signaling aggressive enforcement against forced labor and trade compliance violations."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Oil prices have retreated following a pause in hostilities, providing a temporary buffer against rising logistics fuel costs."
+                "narration_line": "New USPS rate hikes are increasing costs for marketplace sellers, particularly for lightweight packages destined for rural locations."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "USPS has raised Ground Advantage rates, specifically impacting e-commerce parcel deliveries to rural domestic locations."
+                "narration_line": "Crude oil prices tumbled 6.8% following recent geopolitical pauses, providing temporary relief for volatile global freight fuel surcharges."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Intermodal volumes are surging as federal infrastructure investment streamlines flow across major US logistics trade hubs."
+                "narration_line": "Strategic federal funding is now fueling infrastructure upgrades for critical US logistics hubs within the TradePort Corridor system."
             },
             {
                 "slide_index": 8,
