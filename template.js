@@ -1,39 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "SURGE",
-        "footerSummary": "Escalating tariff frameworks and judicial liability shifts for freight intermediaries create immediate operational volatility for trans-Pacific and domestic US supply chain networks."
+        "titleWhite": "Global Trade Friction",
+        "titleBlue": "Escalates",
+        "footerSummary": "Section 301 tariffs on 60 nations and Middle East instability are driving logistics volatility, mandating immediate reassessment of trans-Pacific and carrier-vetting infrastructure strategies."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRUMP TARIFFS: 60 NATION MANDATE",
+            "heading": "USTR ENFORCEMENT: FORCED LABOR TARIFFS",
             "points": [
-                "The USTR is implementing tariffs on 60 trading partners under Section 301 authority.",
-                "Imports face 10% to 12.5% levies effective immediately following Section 122 expiration.",
-                "Global supply chain architects must pivot sourcing strategies to mitigate these sudden landed-cost spikes.",
-                "Importers should anticipate extended delays as customs validation protocols tighten across all major ports."
+                "The Office of the United States Trade Representative is implementing Section 301 tariffs on 60 trading partners to curb forced labor practices.",
+                "These aggressive trade measures follow the expiration of Section 122 protections, significantly raising the cost of compliance for global importers and manufacturers.",
+                "Logistics providers must urgently audit supply chain provenance to avoid punitive duties on goods sourced from regions currently under intense federal scrutiny.",
+                "Failure to pivot sourcing strategies now will likely result in permanent margin erosion as these trade barriers become standard operating procedure."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER LIABILITY RISKS",
+            "nextUpTease": "CARRIER CAPACITY TIGHTENING",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "C.H. ROBINSON: $604M VERDICT IMPACT",
+            "heading": "TRUCKING MARKET: CAPACITY TIGHTENING",
             "points": [
-                "A $604 million jury verdict against C.H. Robinson signals a severe tightening of broker liability.",
-                "The case centers on negligent carrier selection following the precedent set by the Montgomery ruling.",
-                "Logistics providers face urgent pressure to automate and audit carrier vetting processes for safety compliance.",
-                "Industry analysts expect a systemic shift in how 3PLs document and manage third-party service provider risks."
+                "Federal enforcement actions are accelerating a significant decline in for-hire truckload capacity, tightening the market faster than analysts projected for 2026.",
+                "Knight-Swift reports show spot and contract rates are rising, forcing shippers to pay premiums to secure reliable domestic transport options.",
+                "Carriers are prioritizing high-volume core lanes, leaving smaller shippers vulnerable to significant service disruptions and increased operational overhead during peak demand cycles.",
+                "Supply chain managers must transition to long-term capacity hedging or risk exposure to extreme spot market fluctuations in the coming months."
             ],
             "imageUrl": "",
-            "nextUpTease": "US IMPORT VOLUME SHIFTS",
+            "nextUpTease": "C.H. ROBINSON LEGAL IMPACT",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "BROKER LIABILITY: POST-MONTGOMERY RISKS",
+            "points": [
+                "The legal landscape for freight brokers has shifted dramatically following the landmark nuclear verdict against C.H. Robinson, increasing liability for negligent carrier selection.",
+                "Attorneys are now aggressively utilizing the Montgomery ruling to challenge brokerage vetting processes, leading to multi-million dollar judgments for freight intermediaries.",
+                "Third-party logistics firms must immediately overhaul compliance frameworks to ensure rigorous due diligence standards are met before tendering loads to external carriers.",
+                "This trend signals an era of increased litigation risk where operational documentation serves as the primary defense against catastrophic financial loss."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PANAMA CANAL SURCHARGES",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -41,50 +58,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "SUMMER IMPORT VOLUMES PEAKING",
-            "points": [
-                "US import volumes are hitting the highest levels recorded since the 2022 inventory buildup cycle.",
-                "Trans-Pacific trade lanes show robust activity driven by data center infrastructure and hardware replenishment needs.",
-                "Market reliance on capacity discipline is keeping spot rate declines modest despite increasing overall throughput.",
-                "Supply chain managers must navigate localized capacity pinches as East Coast port congestion begins re-emerging."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRADE FRAUD ENFORCEMENT",
-            "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "TRADE FRAUD: $1B RECOVERY MILESTONE",
+            "heading": "OCEAN CONSTRAINTS: PANAMA CANAL SURCHARGES",
             "points": [
-                "The DOJ Trade Fraud Task Force has officially surpassed $1 billion in total penalties and recoveries.",
-                "Enforcement targets trade violations, forfeited assets, and charged losses accrued since the task force inception.",
-                "Companies face heightened scrutiny regarding forced labor compliance and misclassification of goods within US borders.",
-                "Logistics partners are now critical buffers against regulatory fines and potential criminal trade practice investigations."
+                "Major ocean carriers including MSC and CMA CGM have introduced fresh surcharges citing operational constraints and critically low water levels.",
+                "These fees are compounding cost pressures on trans-Pacific and Asia-US East Coast lanes, disrupting reliable cost-to-serve models for major international importers.",
+                "Environmental volatility at key waterways is forcing carriers to sacrifice regional service reliability to protect core, high-margin trade route schedules.",
+                "Importers must diversify port entry strategies to bypass the escalating costs and delays currently inherent in restricted primary canal transit routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS RATE ADJUSTMENTS",
+            "nextUpTease": "E-COMMERCE PARCEL SURCHARGES",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "USPS GROUND ADVANTAGE RATE HIKE",
+            "heading": "E-COMMERCE: USPS PACKAGE RATE HIKES",
             "points": [
-                "USPS implemented increased Ground Advantage shipping rates impacting marketplace sellers effective this past Saturday.",
-                "Rural delivery cost premiums have escalated by $2 to $3 per lightweight parcel package handled.",
-                "E-commerce merchants must recalibrate shipping algorithms to absorb these localized geographic distribution cost variations.",
-                "Marketplace platforms are signaling further integration of automated handling tools to manage these carrier-side cost shifts."
+                "USPS has implemented localized rate hikes targeting marketplace sellers, disproportionately increasing the cost of shipping lightweight parcels to rural U.S. destinations.",
+                "Marketplace platforms are forcing sellers to adjust to these new fee structures immediately, impacting competitive pricing and final consumer purchase behavior.",
+                "The new noncompliance fees for hazardous materials in shipments create an additional layer of logistical complexity for high-volume, low-margin retail distributors.",
+                "Operational reliance on standard mail for e-commerce fulfillment is no longer cost-effective, necessitating a shift toward multi-modal last-mile carrier diversification."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY PRICE VOLATILITY",
+            "nextUpTease": "GEOPOLITICAL SUPPLY CHAIN SQUEEZE",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -93,34 +93,34 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "ENERGY MARKET: OIL PRICE TUMBLE",
+            "heading": "MACRO THREATS: GEOPOLITICAL SQUEEZE",
             "points": [
-                "Brent crude oil prices dropped by 6.8% following temporary US-Iran ceasefire and peace talk pauses.",
-                "Easing tensions provide critical relief for global ocean freight fuel surcharges and inflationary logistics cost pressures.",
-                "Market participants remain cautious as geopolitical volatility in the Strait of Hormuz dictates long-term pricing trends.",
-                "Carriers adjust service reliability metrics based on these rapid shifts in global bunker fuel cost baselines."
+                "Persistent conflict in the Middle East is creating a stop-start recovery for material flows, particularly in the plastics and petrochemical supply chain sectors.",
+                "Escalating instability around the Strait of Hormuz is causing price spikes in raw materials, forcing manufacturers to rethink long-term global sourcing strategies.",
+                "Supply chain managers are experiencing a sustained squeeze between rising input costs and lengthening lead times due to geopolitical maritime interference.",
+                "Resilience is no longer optional as companies prioritize local inventory buffers over lean, just-in-time models that are failing in the face of macro risk."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL INFRASTRUCTURE FUNDING",
+            "nextUpTease": "LOGISTICS LABOR TURNOVER",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LOGISTICS HUBS: FEDERAL FUNDING",
+            "heading": "AUTOMATION: WAREHOUSE LABOR OPTIMIZATION",
             "points": [
-                "New federal funding targets infrastructure development for three key nodes within the 36-hub TradePort Corridor.",
-                "Investment prioritizes systemic efficiency improvements to intermodal connectivity and regional port-to-warehouse cargo fluid movement.",
-                "Rail operators and logistics hubs are utilizing these grants to modernize assets and alleviate regional congestion.",
-                "Stakeholders should monitor project rollout phases to identify opportunities for optimized inland freight routing and transit."
+                "Artificial intelligence is now replacing manual labor management in warehousing to mitigate the impact of historically high worker turnover rates.",
+                "Leading logistics hubs are integrating autonomous drones and AI-driven task orchestration to maintain operational continuity amidst persistent staffing shortages and labor volatility.",
+                "Investment in robotic automation is shifting from point solutions to full-facility integration, effectively decoupling warehouse output from reliance on human labor variability.",
+                "Companies failing to modernize warehouse systems are facing uncompetitive service levels and rising costs of persistent labor-based fire-fighting in fulfillment centers."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
