@@ -86,6 +86,7 @@ def main():
             
             # Extract content paths from the structured JSON schema safely
             slides_object = parsed_payload.get("slides_data", parsed_payload)
+            shorts_module_object = parsed_payload.get("linkedin_shorts_module", {})
             post_content = parsed_payload.get("social_post", "")
             
             # --- ROBUST ENFORCEMENT: Enforce strict 4-bullet point limit per slide ---
@@ -115,6 +116,11 @@ def main():
             # Save exactly as required for template.js
             with open("template.js", "w", encoding="utf-8") as f:
                 f.write(f"const dailyData = {slides_json_str};")
+                
+            # Save LinkedIn Shorts Module export file (`LinkedIn_Template_EN.js`)
+            shorts_json_str = json.dumps(shorts_module_object, indent=4)
+            with open("LinkedIn_Template_EN.js", "w", encoding="utf-8") as f:
+                f.write(f"module.exports = {shorts_json_str};")
                 
             # Save the clean free-form social media post to your root location
             with open("post.txt", "w", encoding="utf-8") as f:
