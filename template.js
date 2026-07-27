@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "Global Trade Friction",
-        "titleBlue": "Escalates",
-        "footerSummary": "Section 301 tariffs on 60 nations and Middle East instability are driving logistics volatility, mandating immediate reassessment of trans-Pacific and carrier-vetting infrastructure strategies."
+        "titleWhite": "GLOBAL TRADE FRICTION",
+        "titleBlue": "SPIKE",
+        "footerSummary": "Escalating tariff frameworks and US-Iran geopolitical instability create significant freight volatility, mandating immediate supply chain hedging and rigorous customs compliance review."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR ENFORCEMENT: FORCED LABOR TARIFFS",
+            "heading": "TARIFF EXPANSION: 60 NATION ACTION",
             "points": [
-                "The Office of the United States Trade Representative is implementing Section 301 tariffs on 60 trading partners to curb forced labor practices.",
-                "These aggressive trade measures follow the expiration of Section 122 protections, significantly raising the cost of compliance for global importers and manufacturers.",
-                "Logistics providers must urgently audit supply chain provenance to avoid punitive duties on goods sourced from regions currently under intense federal scrutiny.",
-                "Failure to pivot sourcing strategies now will likely result in permanent margin erosion as these trade barriers become standard operating procedure."
+                "USTR initiates Section 301 tariffs on 60 trading partners as Section 122 protections expire globally.",
+                "Implementation forces immediate reassessment of landed costs for importers managing multi-regional sourcing strategies.",
+                "Legal challenges from small business coalitions argue administrative overreach regarding statutory tariff limitations.",
+                "Compliance teams must reconcile duty increases with existing inventory liquidation timelines to prevent margin erosion."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER CAPACITY TIGHTENING",
+            "nextUpTease": "RAILROAD INTERMODAL RESTRUCTURING",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -25,32 +25,32 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "TRUCKING MARKET: CAPACITY TIGHTENING",
+            "heading": "RAILROAD INTEGRATION: CN-UP COOPERATION",
             "points": [
-                "Federal enforcement actions are accelerating a significant decline in for-hire truckload capacity, tightening the market faster than analysts projected for 2026.",
-                "Knight-Swift reports show spot and contract rates are rising, forcing shippers to pay premiums to secure reliable domestic transport options.",
-                "Carriers are prioritizing high-volume core lanes, leaving smaller shippers vulnerable to significant service disruptions and increased operational overhead during peak demand cycles.",
-                "Supply chain managers must transition to long-term capacity hedging or risk exposure to extreme spot market fluctuations in the coming months."
+                "Canadian National and Union Pacific finalize intermodal deal to facilitate expanded North American freight capacity.",
+                "Agreement allows shippers to bypass bottlenecks while strengthening Norfolk Southern merger positioning via service reliability.",
+                "Operational synergy targets seamless rail connectivity across primary logistics hubs to offset fluctuating truckload volumes.",
+                "Market participants anticipate improved intermodal pricing power as infrastructure investments stabilize regional transit flow."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON LEGAL IMPACT",
+            "nextUpTease": "CARRIER LIABILITY IMPACT",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "BROKER LIABILITY: POST-MONTGOMERY RISKS",
+            "heading": "CARRIER LIABILITY: LEGAL PRECEDENTS",
             "points": [
-                "The legal landscape for freight brokers has shifted dramatically following the landmark nuclear verdict against C.H. Robinson, increasing liability for negligent carrier selection.",
-                "Attorneys are now aggressively utilizing the Montgomery ruling to challenge brokerage vetting processes, leading to multi-million dollar judgments for freight intermediaries.",
-                "Third-party logistics firms must immediately overhaul compliance frameworks to ensure rigorous due diligence standards are met before tendering loads to external carriers.",
-                "This trend signals an era of increased litigation risk where operational documentation serves as the primary defense against catastrophic financial loss."
+                "Federal courts uphold nuclear verdicts against major logistics providers in landmark negligent carrier selection cases.",
+                "Legal outcomes establish higher duty-of-care standards for freight brokers managing third-party carrier vetting protocols.",
+                "Industry shift mandates automated compliance verification to mitigate liability in catastrophic transit loss events.",
+                "Operational risk exposure forces carriers to reassess insurance requirements and rigorous safety management systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL SURCHARGES",
+            "nextUpTease": "US CUSTOMS ENFORCEMENT",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -59,68 +59,68 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "OCEAN CONSTRAINTS: PANAMA CANAL SURCHARGES",
+            "heading": "COMPLIANCE: TRADE FRAUD TASK FORCE",
             "points": [
-                "Major ocean carriers including MSC and CMA CGM have introduced fresh surcharges citing operational constraints and critically low water levels.",
-                "These fees are compounding cost pressures on trans-Pacific and Asia-US East Coast lanes, disrupting reliable cost-to-serve models for major international importers.",
-                "Environmental volatility at key waterways is forcing carriers to sacrifice regional service reliability to protect core, high-margin trade route schedules.",
-                "Importers must diversify port entry strategies to bypass the escalating costs and delays currently inherent in restricted primary canal transit routes."
+                "DOJ Trade Fraud Task Force surpasses 1 billion dollars in recoveries, signaling aggressive customs enforcement.",
+                "Enforcement focus spans tariff evasion, forced labor violations, and intentional misclassification of imported commercial goods.",
+                "Strict regulatory scrutiny necessitates transparent supply chain mapping and granular import documentation for all entities.",
+                "Proactive self-audits are now essential to protect corporate assets from heavy punitive forfeiture actions."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE PARCEL SURCHARGES",
+            "nextUpTease": "AIR CARGO PERFORMANCE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "E-COMMERCE: USPS PACKAGE RATE HIKES",
+            "heading": "AIR CARGO: BALANCING CAPACITY",
             "points": [
-                "USPS has implemented localized rate hikes targeting marketplace sellers, disproportionately increasing the cost of shipping lightweight parcels to rural U.S. destinations.",
-                "Marketplace platforms are forcing sellers to adjust to these new fee structures immediately, impacting competitive pricing and final consumer purchase behavior.",
-                "The new noncompliance fees for hazardous materials in shipments create an additional layer of logistical complexity for high-volume, low-margin retail distributors.",
-                "Operational reliance on standard mail for e-commerce fulfillment is no longer cost-effective, necessitating a shift toward multi-modal last-mile carrier diversification."
+                "Air cargo demand recalibrates as global rates soften against persistent fuel cost pressures and operational constraints.",
+                "Carriers transition to strategic digital sales models to sustain volume amidst evolving global trade fluctuations.",
+                "Forwarders are prioritizing core tradelanes to maintain schedule reliability at the expense of secondary networks.",
+                "Technology integration via AI-powered booking platforms is accelerating the transition toward real-time air cargo transparency."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEOPOLITICAL SUPPLY CHAIN SQUEEZE",
+            "nextUpTease": "MARITIME REGULATORY SHIFTS",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MACRO THREATS: GEOPOLITICAL SQUEEZE",
+            "heading": "MARITIME: FMC DETENTION ENFORCEMENT",
             "points": [
-                "Persistent conflict in the Middle East is creating a stop-start recovery for material flows, particularly in the plastics and petrochemical supply chain sectors.",
-                "Escalating instability around the Strait of Hormuz is causing price spikes in raw materials, forcing manufacturers to rethink long-term global sourcing strategies.",
-                "Supply chain managers are experiencing a sustained squeeze between rising input costs and lengthening lead times due to geopolitical maritime interference.",
-                "Resilience is no longer optional as companies prioritize local inventory buffers over lean, just-in-time models that are failing in the face of macro risk."
+                "US Court of Appeals validates FMC mandate requiring detention fees to directly promote port freight fluidity.",
+                "Regulatory oversight forces ocean carriers to transparently justify demurrage charges against strict operational performance metrics.",
+                "Supply chain participants gain increased leverage to dispute unfair billing practices linked to historical congestion.",
+                "Standardization of billing protocols reduces administrative friction for beneficial cargo owners navigating peak season cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS LABOR TURNOVER",
+            "nextUpTease": "TRUCKING MARKET TIGHTENING",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AUTOMATION: WAREHOUSE LABOR OPTIMIZATION",
+            "heading": "FREIGHT: TRUCKLOAD MARKET TIGHTENING",
             "points": [
-                "Artificial intelligence is now replacing manual labor management in warehousing to mitigate the impact of historically high worker turnover rates.",
-                "Leading logistics hubs are integrating autonomous drones and AI-driven task orchestration to maintain operational continuity amidst persistent staffing shortages and labor volatility.",
-                "Investment in robotic automation is shifting from point solutions to full-facility integration, effectively decoupling warehouse output from reliance on human labor variability.",
-                "Companies failing to modernize warehouse systems are facing uncompetitive service levels and rising costs of persistent labor-based fire-fighting in fulfillment centers."
+                "Increased federal enforcement actions contribute to rapid tightening of domestic truckload capacity across major corridors.",
+                "Rate floors demonstrate upward resilience as heavier shipment volumes stress existing commercial vehicle resource infrastructure.",
+                "Shippers face escalated costs and extended dwell times due to reduced availability of compliant carrier assets.",
+                "Market intelligence suggests a prolonged cycle of capacity discipline impacting contract bid sustainability through 2027."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]

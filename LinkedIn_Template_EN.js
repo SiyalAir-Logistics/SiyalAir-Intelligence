@@ -1,43 +1,43 @@
 module.exports = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL TRADE FRICTION ESCALATES",
+        "hookTitle": "GLOBAL TRADE FRICTION SPIKE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR is implementing new forced labor tariffs on 60 nations, forcing an immediate audit of all international supply chain sourcing."
+                "narration_line": "New Section 301 tariffs on 60 nations create immediate financial risks for global import and manufacturing cost structures."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "For-hire truckload capacity is tightening rapidly, driving up spot and contract rates as federal enforcement actions increase carrier operating costs."
+                "narration_line": "Canadian National and Union Pacific's new intermodal alliance signals a strategic expansion to stabilize North American freight corridors."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A nuclear legal verdict against C.H. Robinson has permanently altered freight broker liability, mandating stricter carrier vetting and compliance documentation standards."
+                "narration_line": "Legal precedents on carrier liability mandate immediate adoption of automated vetting to prevent massive financial loss in transit."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Panama Canal water levels have forced ocean carriers to implement fresh surcharges, further straining trans-Pacific freight cost-to-serve models."
+                "narration_line": "Customs enforcement achieves one billion dollars in fraud recoveries, increasing the urgency for rigorous import compliance programs."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "USPS rate hikes on lightweight parcels are pressuring marketplace sellers to diversify last-mile delivery partners to maintain profit margins."
+                "narration_line": "Air cargo networks are narrowing focus to core lanes as volatile fuel costs force a digital transition in procurement."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Middle East instability continues to create price spikes in raw materials, forcing manufacturers to abandon lean models for greater inventory security."
+                "narration_line": "FMC detention rulings empower shippers to challenge unfair demurrage fees, forcing transparency across all ocean freight billing practices."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Warehouses are aggressively deploying AI-driven robotics to combat record-high labor turnover and stabilize fulfillment operations against volatile market demand."
+                "narration_line": "Tightening truckload capacity driven by federal enforcement suggests higher rate floors and increased risk of operational disruption."
             },
             {
                 "slide_index": 8,
