@@ -1,107 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "SPIKE",
-        "footerSummary": "Escalating tariff frameworks and US-Iran geopolitical instability create significant freight volatility, mandating immediate supply chain hedging and rigorous customs compliance review."
+        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
+        "titleBlue": "PIVOT",
+        "footerSummary": "Escalating trade barriers and judicial rulings on detention fees are creating significant volatility in ocean carrier reliability and domestic freight contract enforcement."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFF EXPANSION: 60 NATION ACTION",
+            "heading": "FMC ENFORCEMENT ON DETENTION",
             "points": [
-                "USTR initiates Section 301 tariffs on 60 trading partners as Section 122 protections expire globally.",
-                "Implementation forces immediate reassessment of landed costs for importers managing multi-regional sourcing strategies.",
-                "Legal challenges from small business coalitions argue administrative overreach regarding statutory tariff limitations.",
-                "Compliance teams must reconcile duty increases with existing inventory liquidation timelines to prevent margin erosion."
+                "US Court of Appeals upholds key regulatory mandate requiring detention fees to directly support freight fluidity.",
+                "This legal victory forces ocean carriers to overhaul billing transparency and align pricing with actual cargo accessibility.",
+                "Importers and exporters gain stronger leverage against punitive charges when port congestion prevents equipment return.",
+                "Expect intensified FMC oversight as carriers are forced to justify fees against federal regulatory performance benchmarks."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILROAD INTERMODAL RESTRUCTURING",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "RAILROAD INTEGRATION: CN-UP COOPERATION",
-            "points": [
-                "Canadian National and Union Pacific finalize intermodal deal to facilitate expanded North American freight capacity.",
-                "Agreement allows shippers to bypass bottlenecks while strengthening Norfolk Southern merger positioning via service reliability.",
-                "Operational synergy targets seamless rail connectivity across primary logistics hubs to offset fluctuating truckload volumes.",
-                "Market participants anticipate improved intermodal pricing power as infrastructure investments stabilize regional transit flow."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CARRIER LIABILITY IMPACT",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "CARRIER LIABILITY: LEGAL PRECEDENTS",
-            "points": [
-                "Federal courts uphold nuclear verdicts against major logistics providers in landmark negligent carrier selection cases.",
-                "Legal outcomes establish higher duty-of-care standards for freight brokers managing third-party carrier vetting protocols.",
-                "Industry shift mandates automated compliance verification to mitigate liability in catastrophic transit loss events.",
-                "Operational risk exposure forces carriers to reassess insurance requirements and rigorous safety management systems."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "US CUSTOMS ENFORCEMENT",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "COMPLIANCE: TRADE FRAUD TASK FORCE",
-            "points": [
-                "DOJ Trade Fraud Task Force surpasses 1 billion dollars in recoveries, signaling aggressive customs enforcement.",
-                "Enforcement focus spans tariff evasion, forced labor violations, and intentional misclassification of imported commercial goods.",
-                "Strict regulatory scrutiny necessitates transparent supply chain mapping and granular import documentation for all entities.",
-                "Proactive self-audits are now essential to protect corporate assets from heavy punitive forfeiture actions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR CARGO PERFORMANCE",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AIR CARGO: BALANCING CAPACITY",
-            "points": [
-                "Air cargo demand recalibrates as global rates soften against persistent fuel cost pressures and operational constraints.",
-                "Carriers transition to strategic digital sales models to sustain volume amidst evolving global trade fluctuations.",
-                "Forwarders are prioritizing core tradelanes to maintain schedule reliability at the expense of secondary networks.",
-                "Technology integration via AI-powered booking platforms is accelerating the transition toward real-time air cargo transparency."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME REGULATORY SHIFTS",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MARITIME: FMC DETENTION ENFORCEMENT",
-            "points": [
-                "US Court of Appeals validates FMC mandate requiring detention fees to directly promote port freight fluidity.",
-                "Regulatory oversight forces ocean carriers to transparently justify demurrage charges against strict operational performance metrics.",
-                "Supply chain participants gain increased leverage to dispute unfair billing practices linked to historical congestion.",
-                "Standardization of billing protocols reduces administrative friction for beneficial cargo owners navigating peak season cycles."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRUCKING MARKET TIGHTENING",
+            "nextUpTease": "OCEAN RELIABILITY FRAGMENTATION",
             "tags": [
                 "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
@@ -109,18 +24,103 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "FREIGHT: TRUCKLOAD MARKET TIGHTENING",
+            "id": 2,
+            "heading": "CARRIER SCHEDULE RELIABILITY SHIFT",
             "points": [
-                "Increased federal enforcement actions contribute to rapid tightening of domestic truckload capacity across major corridors.",
-                "Rate floors demonstrate upward resilience as heavier shipment volumes stress existing commercial vehicle resource infrastructure.",
-                "Shippers face escalated costs and extended dwell times due to reduced availability of compliant carrier assets.",
-                "Market intelligence suggests a prolonged cycle of capacity discipline impacting contract bid sustainability through 2027."
+                "Geopolitical tensions are forcing container lines to prioritize core tradelanes over regional network connectivity.",
+                "Global schedule reliability shows modest improvement but remains fragmented due to constant routing disruptions.",
+                "Carriers are sacrificing service frequency on secondary routes to maintain stability on critical Asia-West trade.",
+                "Supply chain managers must diversify transit options to account for declining regional service consistency."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRUMP TARIFF LITIGATION",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "SECTION 301 TARIFF LAWSUITS",
+            "points": [
+                "Private businesses launch legal challenges seeking immediate removal and retroactive refunds for Section 301 trade levies.",
+                "Plaintiffs argue current tariff enforcement acts as a workaround for expired regulations impacting forced labor compliance.",
+                "Trade compliance teams must prepare for potential duty adjustments if courts block the current enforcement framework.",
+                "Uncertainty regarding tariff status creates significant landed cost volatility for major US-based import entities."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "C.H. ROBINSON VERDICT IMPACT",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "BROKERAGE LIABILITY NUCLEAR VERDICTS",
+            "points": [
+                "C.H. Robinson faces a massive $604 million verdict following a negligent carrier selection case in Texas.",
+                "The ruling sets a precedent for increased broker liability regarding thorough vetting of third-party motor carriers.",
+                "Logistics providers are rapidly auditing carrier qualification programs to mitigate rising legal risks in freight brokerage.",
+                "Expect industry-wide shifts toward stricter, AI-driven compliance checks to prevent catastrophic negligent selection litigation."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PANAMA CANAL SURCHARGE UPDATES",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "PANAMA CANAL CAPACITY CONSTRAINTS",
+            "points": [
+                "Major carriers implement fresh surcharges due to ongoing operational constraints and low water levels at canal.",
+                "Shippers face increased costs as water shortages reduce throughput capacity for heavy container vessel transit.",
+                "Operational reliance on Panama Canal remains a critical vulnerability in current US East Coast supply chains.",
+                "Logistics managers are rerouting critical cargo to avoid congestion and mitigate unpredictable transit time delays."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS RATE ADJUSTMENT IMPACT",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "USPS GROUND ADVANTAGE SHIFTS",
+            "points": [
+                "US Postal Service initiates targeted rate increases for lightweight package shipments impacting marketplace sellers immediately.",
+                "Rural delivery surcharges continue to climb, forcing sellers to reconsider fulfillment strategies for remote consumer bases.",
+                "E-commerce platforms are adjusting shipping labels to reflect the updated Ground Advantage cost structures effectively.",
+                "Smaller retailers face margin compression as postage costs continue to outpace modest retail price increases."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FORCED LABOR TARIFF ESCALATION",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "FORCED LABOR TARIFF IMPLEMENTATION",
+            "points": [
+                "USTR moves forward with implementing forced labor-based tariffs on imports from 60 global trading partners.",
+                "This decisive regulatory action replaces expiring Section 122 levies with stringent new trade enforcement measures.",
+                "Compliance departments are scrambling to document supply chain transparency to avoid significant import penalty exposures.",
+                "Aggressive trade policy shifts signal a permanent move toward high-friction, politically-driven supply chain management regimes."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
