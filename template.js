@@ -1,90 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE SUPPLY",
-        "titleBlue": "BARRIERS",
-        "footerSummary": "New forced-labor tariffs on sixty nations alongside historic broker liability verdicts trigger immediate cross-border compliance audits and severe ocean shipping cost spikes."
+        "titleWhite": "GLOBAL TRADE FRICTION",
+        "titleBlue": "SPIKES",
+        "footerSummary": "Section 301 forced-labor tariffs and renewed Middle East geopolitical tensions create massive inflationary pressure on trans-Pacific and Atlantic trade lanes through Q3 2026."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC: DETENTION BILLING REFORM",
+            "heading": "USTR ENFORCEMENT: FORCED LABOR TARIFFS",
             "points": [
-                "Federal appeals court upholds FMC decision requiring ocean detention fees to directly promote container cargo fluidity.",
-                "The regulatory ruling strictly prohibits ocean carriers from charging fees during non-operational terminal weekend hours.",
-                "Importers gain significant leverage to dispute unfair billing practices across major United States maritime ports.",
-                "Shippers must optimize supply chain visibility systems to audit and contest improper container detention invoices."
+                "The USTR is implementing mandatory Section 301 tariffs against 60 trading nations effective immediately following the expiration of Section 122 measures.",
+                "These punitive duties target forced-labor supply chain compliance and represent a significant shift in U.S. import enforcement strategy for all major importers.",
+                "Logistics providers face urgent documentation requirements as customs clearance times for high-risk origins are projected to increase by 40% across major ports.",
+                "Stakeholders must prepare for immediate cost-basis adjustments and potential disruption to long-standing trans-Pacific trade agreements currently under federal review."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: FORCED LABOR TARIFFS",
+            "nextUpTease": "MIDDLE EAST CHOKEPOINTS",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "GEOPOLITICS: STRAIT OF HORMUZ TENSION",
             "points": [
-                "United States Trade Representative implements new forced labor tariffs targeting sixty active global trading nations.",
-                "Importers face immediate duties of up to twelve percent as previous trade concessions expire.",
-                "Supply chain networks must immediately trace origin raw materials to prevent border cargo seizure actions.",
-                "The aggressive regulatory shift forces manufacturing relocation strategies away from high risk international zones."
+                "Renewed hostilities near the Strait of Hormuz have halted de-escalation efforts, forcing ocean carriers to re-route critical energy and dry-bulk cargo vessels.",
+                "Refiners are aggressively pivoting away from Middle Eastern barrels toward Russian and Atlantic Basin suppliers to bypass persistent regional maritime chokepoints.",
+                "Shipping schedule reliability has cratered as vessels divert for safety, exacerbating transit time delays and spiking bunker fuel insurance premiums globally.",
+                "Immediate risk remains for dry cargo flows as fuel volatility and carrier risk-mitigation strategies threaten to further tighten available ocean freight capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON: BROKER LIABILITY",
+            "nextUpTease": "BROKER LIABILITY SHIFTS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "C.H. ROBINSON: BROKER LIABILITY",
+            "heading": "LEGAL RISK: BROKER LIABILITY EXPLOSION",
             "points": [
-                "A massive six hundred million dollar jury verdict establishes extreme liability risk for freight brokerages.",
-                "The legal decision penalizes negligent third party carrier selection after a severe highway safety accident.",
-                "Logistics intermediaries must overhaul carrier vetting protocols and implement advanced safety verification technology systems.",
-                "The ruling increases liability insurance premiums and restricts carrier networks across domestic trucking routes."
+                "The $604 million nuclear verdict against C.H. Robinson has fundamentally altered the legal framework regarding negligent carrier selection in U.S. freight brokerage.",
+                "Legal precedents established by the Montgomery v. Caribe ruling are forcing brokerage firms to overhaul internal vetting protocols and risk management systems.",
+                "Industry experts warn that failing to enforce rigorous safety data audits could lead to unprecedented financial liabilities for mid-sized and large 3PLs.",
+                "Expect a rapid industry consolidation as smaller brokers unable to absorb rising insurance and legal compliance costs face forced exit from the market."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC: SEMICONDUCTOR DOMESTIC SOURCING",
+            "nextUpTease": "RAILROAD MERGER UPDATES",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TSMC: SEMICONDUCTOR DOMESTIC SOURCING",
+            "heading": "RAILWAY ARCHITECTURE: MERGER COMPLIANCE",
             "points": [
-                "Taiwan Semiconductor Manufacturing Company pledges one hundred billion dollars to construct four additional US fabs.",
-                "The massive capital project expands the manufacturer domestic production footprint to twelve operational silicon facilities.",
-                "This industrial move significantly reduces high tech component reliance on complex Asian marine shipping channels.",
-                "Logistics providers must adapt heavy transport infrastructure to support advanced microchip manufacturing assembly pipelines."
+                "Union Pacific and Norfolk Southern have filed supplemental merger documentation to satisfy Surface Transportation Board requirements regarding enhanced public interest protections.",
+                "The proposed rail network integration is being scrutinized for its long-term impact on competition and service reliability for high-volume intermodal domestic shippers.",
+                "Regulatory oversight is tightening as federal agencies mandate transparency that exceeds standard industrial merger requirements for other freight-based transportation sectors.",
+                "Shippers should anticipate a transition phase marked by operational adjustments as the carriers attempt to stabilize capacity across major North American rail arteries."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHEIN: DE MINIMIS COOLDOWN",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "SHEIN: DE MINIMIS COOLDOWN",
-            "points": [
-                "E-commerce giant Shein registers significant financial losses following the regulatory end of de minimis exemptions.",
-                "Direct consumer shipments face strict customs inspections and newly imposed duties on low value parcels.",
-                "Cross-border retail logistics models must shift toward domestic inventory warehousing to mitigate trade compliance friction.",
-                "The structural change increases fulfillment costs and delays air freight delivery timelines to Western consumers."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MSC & CMA CGM: CANAL SURCHARGES",
+            "nextUpTease": "USPS RATE ADJUSTMENTS",
             "tags": [
                 "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
@@ -92,35 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MSC & CMA CGM: CANAL SURCHARGES",
+            "id": 5,
+            "heading": "USPS INFRASTRUCTURE: MARKETPLACE PRICING",
             "points": [
-                "Global ocean carriers introduce heavy transit surcharges due to low draft levels at the Panama Canal.",
-                "Reduced vessel capacity limits cargo allocation space for transpacific shipments bound for the East Coast.",
-                "Shippers face surging spot rates and variable ocean transit schedules across vital water trade gateways.",
-                "Intermodal transport demand increases on West Coast routes to bypass rising tropical canal draft restrictions."
+                "The United States Postal Service has implemented significant Ground Advantage rate hikes specifically targeting lightweight e-commerce parcels for marketplace sellers.",
+                "Increased costs for rural delivery and new noncompliance fees for hazardous materials are squeezing profit margins for small-to-mid-sized online retail businesses.",
+                "Marketplaces are responding by integrating smart-locker services to centralize package handling and potentially reduce last-mile logistical friction for high-density local transactions.",
+                "Sellers must recalibrate shipping algorithms and checkout structures to mitigate the impact of rising parcel costs on consumer pricing and checkout conversion rates."
             ],
             "imageUrl": "",
-            "nextUpTease": "UP & NS: REGULATORY MERGER REVISION",
+            "nextUpTease": "AUTOMATION & ROBOTICS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "WAREHOUSE TECH: AUTONOMOUS SCALING",
+            "points": [
+                "Investment in warehouse robotics, specifically humanoid units and drone-based cycle counting, is accelerating to combat rising labor costs and retention challenges.",
+                "Leading logistics firms are shifting from point-solution automation to flexible, software-driven environments orchestrated by intelligent AI-powered control tower systems.",
+                "Warehouse worker turnover metrics continue to outperform national averages, prompting an aggressive push toward proactive safety technologies and human-machine collaborative workflows.",
+                "Operational resilience is now tied to the successful integration of constraint-based planning software that directly links inventory data to automated fulfillment systems."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRUCKING CAPACITY TRENDS",
+            "tags": [
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "UP & NS: REGULATORY MERGER REVISION",
+            "heading": "TRUCKING: SPOT RATE TIGHTENING",
             "points": [
-                "Union Pacific and Norfolk Southern submit revised merger documentation providing enhanced customer protection frameworks.",
-                "The class one railroads aim to satisfy strict competition rules set by federal transportation regulators.",
-                "This strategic realignment attempts to secure a robust and integrated domestic rail shipping network model.",
-                "Shippers anticipate consolidated rail service lanes, though freight cost impacts remain highly debated among analysts."
+                "Knight-Swift reports significant tightening in truckload capacity as market conditions rebound, signaling potential upward pressure on spot rates through late 2026.",
+                "Regional safety inspections and commercial vehicle crackdowns in major corridors are sidelining equipment and further exacerbating the existing national driver shortage.",
+                "The implementation of truck-only lane infrastructure projects on major interstates is being prioritized to improve transit reliability for high-value logistics operations.",
+                "Carriers are increasingly leveraging internal software updates for emissions compliance to avoid operational derating, impacting fleet uptime during peak shipping periods."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
