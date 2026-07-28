@@ -4,14 +4,23 @@ import random
 import re
 import requests
 import json
+import datetime
 from google import genai
 from google.genai import types
-import datetime
+
+# Optional top-level BeautifulSoup import guard
+try:
+    from bs4 import BeautifulSoup
+except ImportError:
+    BeautifulSoup = None
 
 # 1. AUTH & CONFIG
-# Fetches API key from GitHub Secrets
+# Fetches API key from GitHub Secrets / System Environment
 api_key = os.environ.get("GEMINI_API_KEY")
-client = genai.Client(api_key=api_key)
+if not api_key:
+    print("[CRITICAL WARNING]: GEMINI_API_KEY environment variable is missing or empty.")
+
+client = genai.Client(api_key=api_key) if api_key else None
 
 # Models in priority order
 MODEL_PRIORITY = ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-2.5-flash"]
@@ -33,6 +42,10 @@ def get_stealth_headers():
 
 def fetch_and_clean():
     """Extracts URLs from prompt.txt and scrapes with human-like timing."""
+    if not os.path.exists("prompt.txt"):
+        print("[WARN]: prompt.txt not found in current execution directory.")
+        return "", ""
+
     with open("prompt.txt", "r", encoding="utf-8") as f:
         prompt_content = f.read()
     
@@ -46,7 +59,9 @@ def fetch_and_clean():
             response = requests.get(url, headers=get_stealth_headers(), timeout=20)
             
             if response.status_code == 200:
-                from bs4 import BeautifulSoup
+                if BeautifulSoup is None:
+                    from bs4 import BeautifulSoup
+                
                 soup = BeautifulSoup(response.content, 'html.parser')
                 # Remove non-content junk
                 for element in soup(["script", "style", "nav", "footer", "iframe"]):
@@ -54,23 +69,35 @@ def fetch_and_clean():
                 # EXPANDED DATA BUFFER: Increased character chunk threshold from 1,000 to 5,000
                 text = soup.get_text(separator=' ', strip=True)[:5000]
                 scraped_text += f"\n---SOURCE: {url}---\n{text}\n"
-        except Exception:
+            else:
+                print(f"[WARN]: HTTP {response.status_code} encountered while scraping {url}")
+        except Exception as e:
+            print(f"[SILENT FETCH NOTICE]: Scraping failed for {url} ({e}). Continuing pipeline.")
             continue # Fail silently to keep the pipeline moving
+            
     return prompt_content, scraped_text
 
 # 3. PIPELINE EXECUTION
 def main():
+    if not client:
+        print("[FATAL]: Cannot execute pipeline without a valid Gemini API client instance.")
+        return
+
     prompt_base, data = fetch_and_clean()
     final_input = f"{prompt_base}\n\n[LATEST LIVE DATA]:\n{data}"
     
     for model in MODEL_PRIORITY:
         try:
+            print(f"[EXECUTION]: Initiating generation request using model priority: {model}")
             response = client.models.generate_content(
                 model=model,
                 contents=final_input,
                 config=types.GenerateContentConfig(response_mime_type="application/json")
             )
             
+            if not response or not response.text:
+                raise ValueError("Model returned an empty payload or null string response.")
+
             # --- UPDATED: Sanitization and strict }; closure ---
             # Remove any markdown artifacts
             raw_text = response.text.replace("```json", "").replace("```", "").strip()
@@ -78,8 +105,10 @@ def main():
             # Ensure the output is clean for valid JSON parsing
             if raw_text.endswith(';'):
                 raw_text = raw_text[:-1]
-            if not raw_text.startswith('{'): raw_text = '{' + raw_text
-            if not raw_text.endswith('}'): raw_text = raw_text + '}'
+            if not raw_text.startswith('{'): 
+                raw_text = '{' + raw_text
+            if not raw_text.endswith('}'): 
+                raw_text = raw_text + '}'
             
             # --- VALIDATION: Ensure generated text is valid JSON ---
             parsed_payload = json.loads(raw_text)
@@ -136,12 +165,17 @@ def main():
                 
             # Save the clean free-form social media post to your root location
             with open("post.txt", "w", encoding="utf-8") as f:
-                # Safely convert raw literal \n string characters into actual structural line breaks
-                clean_post = post_content.replace('\\n', '\n')
+                # Safely handle string vs object structure for post_content
+                if isinstance(post_content, dict):
+                    clean_post = json.dumps(post_content, indent=2)
+                else:
+                    clean_post = str(post_content).replace('\\n', '\n')
                 f.write(clean_post)
                 
+            print(f"[SUCCESS]: Ingestion and pipeline synthesis completed successfully using {model}.")
             return # Success
-        except Exception:
+        except Exception as e:
+            print(f"[RETRY NOTICE]: Model {model} pipeline execution failed: {e}. Backing off 10s...")
             time.sleep(10) # Back-off if model rate-limits or JSON is invalid
             continue
 
