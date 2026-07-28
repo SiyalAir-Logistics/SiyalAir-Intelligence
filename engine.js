@@ -11,18 +11,18 @@ window.onload = async () => {
     script.onload = async () => {
         console.log("Siyal Air Template loaded successfully.");
         
-        // DYNAMIC HYDRATION: Load updated LinkedIn Intelligence Module with strict cache-busting
+        // DYNAMIC HYDRATION: Load updated LinkedIn Intelligence Module
         const linkedinScript = document.createElement('script');
         linkedinScript.src = 'Social_Media/LinkedIn/LinkedIn_Template_EN.js?t=' + Date.now();
         linkedinScript.onload = () => {
-            console.log("LinkedIn Intelligence Module (Social_Media/LinkedIn/LinkedIn_Template_EN.js) loaded successfully.");
+            console.log("LinkedIn Intelligence Module loaded successfully.");
         };
         linkedinScript.onerror = () => {
-            console.warn("Notice: Social_Media/LinkedIn/LinkedIn_Template_EN.js not found at nested path, utilizing embedded fallback module.");
+            console.warn("Notice: LinkedIn template path not found, using embedded fallback.");
         };
         document.head.appendChild(linkedinScript);
 
-        // Force fix the background image compatibility
+        // Fix background image compatibility
         await fixBackgroundCORS();
 
         if (typeof dailyData !== 'undefined') {
@@ -41,15 +41,25 @@ window.onload = async () => {
     };
     
     script.onerror = () => {
-        console.error("Critical System Fault: Failed to load template.js. Check network path.");
+        console.error("Critical System Fault: Failed to load template.js.");
     };
     
     document.head.appendChild(script);
 };
 
 /**
- * FIX: Converts the background-image to Base64 
- * Prevents the HTML2Canvas Tainted Canvas exploit block.
+ * Normalizes dailyData whether it has top-level keys or nested wrappers.
+ */
+function getNormalizedData() {
+    if (typeof dailyData === 'undefined' || !dailyData) return null;
+    if (dailyData.slides && dailyData.main) return dailyData;
+    if (dailyData.slides_data && dailyData.slides_data.slides) return dailyData.slides_data;
+    if (dailyData.data && dailyData.data.slides) return dailyData.data;
+    return dailyData;
+}
+
+/**
+ * FIX: Converts background-image to Base64 to prevent HTML2Canvas Tainted Canvas block.
  */
 async function fixBackgroundCORS() {
     const canvas = document.getElementById('post-canvas');
@@ -79,7 +89,7 @@ async function fixBackgroundCORS() {
         const reader = new FileReader();
         reader.onloadend = () => {
             canvas.style.backgroundImage = `url(${reader.result})`;
-            console.log(`Loaded background${bgIndex}.png successfully and optimized for render capture.`);
+            console.log(`Loaded background${bgIndex}.png successfully.`);
         };
         reader.readAsDataURL(blob);
     } catch (e) {
@@ -114,8 +124,9 @@ function initTabs() {
     mainBtn.onclick = (e) => { e.preventDefault(); switchSlide('main', mainBtn); };
     tabContainer.appendChild(mainBtn);
     
-    if (dailyData && Array.isArray(dailyData.slides)) {
-        dailyData.slides.forEach((slide, index) => {
+    const data = getNormalizedData();
+    if (data && Array.isArray(data.slides)) {
+        data.slides.forEach((slide, index) => {
             const btn = document.createElement('button');
             btn.className = 'tab-btn';
             btn.innerText = `SLIDE-${index + 1}`;
@@ -146,6 +157,9 @@ async function switchSlide(id, element) {
     const canvas = document.getElementById('post-canvas');
     if (!canvas) return;
 
+    const data = getNormalizedData();
+    if (!data) return;
+
     const formatTitleBlue = (text) => {
         if (!text) return "";
         if (text.includes(':')) {
@@ -162,7 +176,7 @@ async function switchSlide(id, element) {
 
     let html = "";
     if (id === 'main') {
-        const fullTitleStr = `${dailyData.main?.titleWhite || ''} ${dailyData.main?.titleBlue || ''}`.trim();
+        const fullTitleStr = `${data.main?.titleWhite || ''} ${data.main?.titleBlue || ''}`.trim();
         const wordsArray = fullTitleStr.split(/\s+/);
         
         const stackedTitleHTML = wordsArray.map((word, idx) => {
@@ -172,8 +186,8 @@ async function switchSlide(id, element) {
             return `<div>${word}</div>`;
         }).join('');
 
-        const footerText = dailyData.main?.footerSummary || "";
-        const nextTease = dailyData.slides?.[0]?.heading || "";
+        const footerText = data.main?.footerSummary || "";
+        const nextTease = data.slides?.[0]?.heading || "";
         
         canvas.className = 'main-hook-style'; 
         html = `<div class="content-body">
@@ -188,7 +202,6 @@ async function switchSlide(id, element) {
     } else if (id === 'follow') {
         canvas.className = 'main-hook-style cta-slide';
         
-        // Dynamically fetch active follow-up slide index from follow_tracker.txt
         let followIndex = 1;
         try {
             const trackerRes = await fetch('follow_tracker.txt?t=' + Date.now());
@@ -208,7 +221,7 @@ async function switchSlide(id, element) {
         html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
     } else {
         const index = id - 1;
-        const slide = dailyData.slides?.[index];
+        const slide = data.slides?.[index];
         canvas.className = 'sub-slide-style';
         if (slide) {
             let bulletList = "";
@@ -220,7 +233,7 @@ async function switchSlide(id, element) {
             }
             
             const formattedHeading = formatTitleBlue(slide.heading);
-            const nextTease = (index < dailyData.slides.length - 1) ? dailyData.slides[index + 1].heading : "";
+            const nextTease = (index < data.slides.length - 1) ? data.slides[index + 1].heading : "";
             
             html = `<div class="content-body">
                     <header><h1 class="auto-fit">${formattedHeading}</h1><div class="header-divider"></div></header>
@@ -281,6 +294,9 @@ async function downloadAllSlides() {
     const dlBtn = document.getElementById('download-active');
     if (!canvas || !dlBtn) return;
 
+    const data = getNormalizedData();
+    if (!data) return;
+
     const originalActiveTab = document.querySelector('.tab-btn.active');
     let originalId = 'main';
     
@@ -294,8 +310,8 @@ async function downloadAllSlides() {
     dlBtn.disabled = true;
 
     const queue = ['main'];
-    if (dailyData && Array.isArray(dailyData.slides)) {
-        dailyData.slides.forEach((_, i) => queue.push(i + 1));
+    if (data && Array.isArray(data.slides)) {
+        data.slides.forEach((_, i) => queue.push(i + 1));
     }
     queue.push('follow');
 
@@ -336,9 +352,7 @@ async function downloadAllSlides() {
 }
 
 /**
- * ---------------------------------------------------------------------------
- * EMBEDDED BACKEND MODULE: LinkedIn Shorts & Post Data Pipeline Integration
- * ---------------------------------------------------------------------------
+ * EMBEDDED BACKEND MODULE FALLBACK
  */
 const linkedinShortsModule = (typeof window !== 'undefined' && window.linkedinData)
     ? window.linkedinData
@@ -356,28 +370,15 @@ const linkedinShortsModule = (typeof window !== 'undefined' && window.linkedinDa
                 heading: "GLOBAL FREIGHT SHIFT:",
                 narration: "The international logistics landscape is experiencing rapid structural adjustments driven by real-time trade updates and port data.",
                 visualText: "CRITICAL SUPPLY CHAIN SHIFTS"
-            },
-            {
-                slideNumber: 2,
-                heading: "CAPACITY & ROUTING:",
-                narration: "Operators are leveraging automated intelligence to optimize multi-modal routing and secure resilient margins ahead of market volatility.",
-                visualText: "DATA-DRIVEN LANE OPTIMIZATION"
-            },
-            {
-                slideNumber: 3,
-                heading: "OPERATIONAL RESILIENCE:",
-                narration: "Real-time visibility mitigates unforeseen bottlenecks across major trade lanes, reducing administrative overhead significantly.",
-                visualText: "MITIGATING NETWORK BOTTLENECK"
             }
         ],
         socialPost: {
             headline: "GLOBAL LOGISTICS INTELLIGENCE BRIEFING",
-            body: "The international freight landscape is experiencing rapid structural adjustments driven by real-time trade data, port congestion updates, and shifting carrier alliances.\n\nForward-thinking logistics operators are leveraging automated intelligence to optimize routing, reduce transit delays, and secure capacity ahead of market volatility.",
-            hashtags: ["#SupplyChain", "#FreightForwarding", "#LogisticsInnovation", "#GlobalTrade", "#SiyalAir"]
+            body: "The international freight landscape is experiencing rapid structural adjustments driven by real-time trade data.",
+            hashtags: ["#SupplyChain", "#FreightForwarding", "#SiyalAir"]
         }
     };
 
-// Export for Node.js backend pipeline integration if required in hybrid setups
 if (typeof module !== 'undefined' && module.exports) {
     module.exports = linkedinShortsModule;
 }
