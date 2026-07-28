@@ -1,39 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CRITICAL FREIGHT",
-        "titleBlue": "RESTRUCTURE",
-        "footerSummary": "Severe broker liability rulings, sweeping multi-nation tariffs, and climbing canal surcharges expose global supply chains to immediate regulatory friction."
+        "titleWhite": "SUPPLY CHAIN SECURITY",
+        "titleBlue": "FRICTION",
+        "footerSummary": "New forced labor tariffs and massive judicial broker liability penalties trigger immediate operational risks across cross-border freight networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
+            "heading": "USTR: SECTION 301 FORCED LABOR TARIFFS",
             "points": [
-                "Federal courts ruled C.H. Robinson negligent in carrier selection, dismantling historical asset-light broker liability protections.",
-                "The jury awarded an unprecedented six hundred four million dollar nuclear verdict following a fatal highway crash.",
-                "Brokerage firms must immediately implement rigorous, real-time digital carrier vetting processes to mitigate existential legal exposure.",
-                "Shippers will prioritize heavily audited logistics partners, triggering consolidation across the fragmented third-party brokerage market."
+                "United States Trade Representative implements Section 301 forced labor tariffs on sixty nations following Section 122 expiration.",
+                "Importers face sudden ten to twelve point five percent tariff rate hikes across critical manufacturing sectors.",
+                "Supply chains must instantly restructure sourcing pipelines away from targeted non-compliant international production hubs.",
+                "Shippers must rapidly deploy automated compliance audits to mitigate immediate financial exposure and border delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: FORCED LABOR TARIFF ACTIVATION",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "USTR: FORCED LABOR TARIFF ACTIVATION",
-            "points": [
-                "The United States Trade Representative implemented strict forced labor-based tariffs across sixty active global trading partners.",
-                "Imports face immediate ten to twelve percent duties as legacy Section one hundred twenty-two levies officially expire.",
-                "Importers must immediately execute deep supply chain mapping to guarantee full trace compliance and verify raw origin.",
-                "Global brands will accelerate nearshoring initiatives to mitigate rising transaction costs and continuous customs enforcement delays."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "USPS: GROUND ADVANTAGE RATE SURGE",
+            "nextUpTease": "CH ROBINSON: NEGLIGENT CARRIER LIABILITY",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -41,16 +24,67 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "USPS: GROUND ADVANTAGE RATE SURGE",
+            "id": 2,
+            "heading": "CH ROBINSON: NEGLIGENT CARRIER LIABILITY",
             "points": [
-                "The United States Postal Service announced sudden rate hikes on Ground Advantage shipping for high-volume marketplace transactions.",
-                "Sellers experience a two to three dollar surcharge per lightweight package shipped to rural delivery zones.",
-                "Multi-channel merchants are forced to restructure regional fulfillment strategies or pass direct transit costs to consumers.",
-                "Small businesses will shift low-margin parcel volumes toward alternative regional carriers to bypass postal network increases."
+                "C.H. Robinson faces a historic six hundred and four million dollar jury verdict for negligent carrier selection.",
+                "The massive judicial ruling exposes freight brokerages to catastrophic financial liabilities during carrier vetting processes.",
+                "Supply chain networks are abandoning legacy databases for real-time artificial intelligence driven carrier verification systems.",
+                "Freight brokers will immediately tighten carrier screening protocols to prevent multi-million dollar corporate negligence lawsuits."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ ROUTING RATE SPIKE",
+            "nextUpTease": "US REGULATORS: UP-NS RAILROAD MERGER",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "US REGULATORS: UP-NS RAILROAD MERGER",
+            "points": [
+                "Union Pacific and Norfolk Southern submit supplemental merger documentation detailing customer protection mandates to federal regulators.",
+                "The proposed consolidated rail network aims to streamline intermodal logistics across major domestic freight corridors.",
+                "Shipper coalitions express deep concern over potential routing monopolies and localized freight terminal congestion risks.",
+                "Logistics managers should diversify terrestrial shipping lanes to hedge against impending transcontinental rail consolidation friction."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME: STRAIT OF HORMUZ DISRUPTION",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MARITIME: STRAIT OF HORMUZ DISRUPTION",
+            "points": [
+                "Strait of Hormuz geopolitical tensions severely compromise global liner schedule reliability and spark routing alterations.",
+                "Port schedule reliability plummets as global container lines prioritize high-margin core east-west transit routes.",
+                "Shippers navigate unpredictable vessel omissions and immediate blank sailings across secondary regional shipping lanes.",
+                "Ocean freight procurement teams must negotiate long-term capacity allocations to secure essential maritime container space."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS: GROUND ADVANTAGE RATE HIKES",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "USPS: GROUND ADVANTAGE RATE HIKES",
+            "points": [
+                "United States Postal Service increases Ground Advantage shipping rates impacting light parcel home delivery operations.",
+                "E-commerce marketplace sellers face two to three dollar cost increases on lightweight rural shipping.",
+                "Multi-channel merchants must re-optimize their postal network routing algorithms to preserve e-commerce profit margins.",
+                "Online retail operations should integrate alternative regional parcel carriers to offset rising federal postage expenses."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT SURGE",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -58,33 +92,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "MARITIME: HORMUZ ROUTING RATE SPIKE",
+            "id": 6,
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT SURGE",
             "points": [
-                "Geopolitical instability in the Strait of Hormuz forced ocean carriers to suspend primary Middle East transits.",
-                "Asia to United States ocean freight spot rates surged two hundred thirty-four percent since February.",
-                "Global shippers are leveraging the Gulf landbridge and intermodal bypass routes to secure critical cargo flows.",
-                "Prolonged maritime detours will trigger severe regional space crunches and elevated marine fuel surcharges through peak season."
+                "Department of Justice Trade Fraud Task Force recovers one billion dollars targeting systematic import non-compliance.",
+                "Aggressive federal investigations recover record-breaking penalties from international manufacturers bypassing critical customs duties.",
+                "Customs compliance auditing shifts toward deep predictive analytics and comprehensive digital transaction tracing models.",
+                "Import logistics specialists must implement rigorous origin auditing protocols to withstand intensifying federal trade scrutiny."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: CUSTOMS COMPLIANCE ENFORCEMENT",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "DOJ: CUSTOMS COMPLIANCE ENFORCEMENT",
-            "points": [
-                "The Department of Justice Trade Fraud Task Force initiated aggressive sweeps targeting systemic cross-border customs violations.",
-                "Enforcement actions generated one billion dollars in penalties, forfeitures, and recoveries within ten operational months.",
-                "Compliance officers must proactively audit entry filings to detect undervalued shipments and false country of origin.",
-                "Strict regulatory surveillance will force undercompliant import channels to restructure their logistics documentation systems immediately."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PROJECT44: AGENTIC AI SYSTEM DISRUPTION",
+            "nextUpTease": "OCEAN FREIGHT: ASIA-US RATE SPIKE",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -92,35 +109,18 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "PROJECT44: AGENTIC AI SYSTEM DISRUPTION",
-            "points": [
-                "Project44 launched advanced agentic artificial intelligence solutions to optimize real-time visibility across global freight networks.",
-                "The transition threatens legacy software architectures by automating manual forwarding tasks with ninety percent fewer resources.",
-                "Traditional transportation management systems face severe market pressure as dynamic AI orchestration displaces rigid electronic integrations.",
-                "Logistics providers failing to adopt cognitive automation will lose critical operational velocity and customer integration capabilities."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: DRAFT SURCHARGE INITIATIVE",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "PANAMA CANAL: DRAFT SURCHARGE INITIATIVE",
+            "heading": "OCEAN FREIGHT: ASIA-US RATE SPIKE",
             "points": [
-                "Extreme low water levels forced major ocean carriers to introduce emergency draft-limit surcharges for canal transits.",
-                "Shippers face additional operational fees ranging from three hundred to six hundred dollars per transiting container.",
-                "Marine planners must dynamically adjust vessel payloads or reroute intermodal shipments through West Coast port gateways.",
-                "Continuous environmental disruptions will permanently elevate baseline transit expenses and reshape global maritime trade lanes."
+                "Global shipping disruptions propel Asia-US ocean freight spot rates up two hundred thirty-four percent.",
+                "High-volume importers absorb extreme spot market pricing spikes as capacity shortages grip major marine gateways.",
+                "Maritime shippers increasingly utilize forward air cargo charters to bypass severely congested oceanic container corridors.",
+                "Logistics executives must execute early peak season volume bookings to guarantee space and control costs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]

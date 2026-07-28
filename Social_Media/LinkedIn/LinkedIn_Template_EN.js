@@ -1,43 +1,43 @@
 if (typeof window !== 'undefined') { window.linkedinData = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "CRITICAL FREIGHT RESTRUCTURE",
+        "hookTitle": "SUPPLY CHAIN SECURITY FRICTION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "C.H. Robinson's massive six hundred million dollar verdict dismantles traditional liability shields for asset-light logistics brokers."
+                "narration_line": "United States Trade Representative institutes strict forced labor tariffs on sixty nations following the sudden expiration of Section 122 duties."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The USTR implemented new forced labor tariffs on sixty nations, creating immediate compliance and duty challenges for importers."
+                "narration_line": "A historic six hundred four million dollar verdict exposes freight brokers to extreme liabilities for negligent third-party motor carrier selection."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "New USPS Ground Advantage rate hikes increase delivery costs for marketplace sellers shipping lightweight parcels to rural locations."
+                "narration_line": "Union Pacific and Norfolk Southern file crucial customer safety protections to advance their transcontinental railroad network consolidation."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Strait of Hormuz disruptions have triggered a dramatic two hundred thirty-four percent surge in Asia-US ocean freight spot rates."
+                "narration_line": "Mounting Strait of Hormuz geopolitical friction severely compromises global maritime liner schedule reliability and forces emergency blank sailings."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The DOJ Trade Fraud Task Force recovered one billion dollars, signaling a major regulatory crackdown on global customs evasion."
+                "narration_line": "USPS enforces sharp Ground Advantage rate hikes, increasing lightweight rural parcel shipping costs for online marketplace sellers."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Agentic AI technologies are rapidly replacing rigid legacy freight software, driving a paradigm shift in logistics network orchestration."
+                "narration_line": "The Justice Department's Trade Fraud Task Force recovers one billion dollars in penalties targeting aggressive cross-border customs evasion schemes."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Ocean carriers introduced fresh Panama Canal surcharges due to persistent low water levels, elevating global container shipping costs."
+                "narration_line": "Severe global shipping capacity limits drive Asia to United States ocean freight spot rates up two hundred thirty-four percent since February."
             },
             {
                 "slide_index": 8,
@@ -50,43 +50,43 @@ if (typeof window !== 'undefined') { window.linkedinData = {
 if (typeof module !== 'undefined' && module.exports) { module.exports = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "CRITICAL FREIGHT RESTRUCTURE",
+        "hookTitle": "SUPPLY CHAIN SECURITY FRICTION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "C.H. Robinson's massive six hundred million dollar verdict dismantles traditional liability shields for asset-light logistics brokers."
+                "narration_line": "United States Trade Representative institutes strict forced labor tariffs on sixty nations following the sudden expiration of Section 122 duties."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The USTR implemented new forced labor tariffs on sixty nations, creating immediate compliance and duty challenges for importers."
+                "narration_line": "A historic six hundred four million dollar verdict exposes freight brokers to extreme liabilities for negligent third-party motor carrier selection."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "New USPS Ground Advantage rate hikes increase delivery costs for marketplace sellers shipping lightweight parcels to rural locations."
+                "narration_line": "Union Pacific and Norfolk Southern file crucial customer safety protections to advance their transcontinental railroad network consolidation."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Strait of Hormuz disruptions have triggered a dramatic two hundred thirty-four percent surge in Asia-US ocean freight spot rates."
+                "narration_line": "Mounting Strait of Hormuz geopolitical friction severely compromises global maritime liner schedule reliability and forces emergency blank sailings."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The DOJ Trade Fraud Task Force recovered one billion dollars, signaling a major regulatory crackdown on global customs evasion."
+                "narration_line": "USPS enforces sharp Ground Advantage rate hikes, increasing lightweight rural parcel shipping costs for online marketplace sellers."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Agentic AI technologies are rapidly replacing rigid legacy freight software, driving a paradigm shift in logistics network orchestration."
+                "narration_line": "The Justice Department's Trade Fraud Task Force recovers one billion dollars in penalties targeting aggressive cross-border customs evasion schemes."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Ocean carriers introduced fresh Panama Canal surcharges due to persistent low water levels, elevating global container shipping costs."
+                "narration_line": "Severe global shipping capacity limits drive Asia to United States ocean freight spot rates up two hundred thirty-four percent since February."
             },
             {
                 "slide_index": 8,
