@@ -121,6 +121,7 @@ body {
     align-items: flex-start;
     width: 100%;
     max-width: 880px; /* UPDATED: Adjusted max-width to fill the balanced padding */
+    container-type: inline-size; /* Added container query anchor for precise word scaling */
 }
 
 /* DYNAMIC 2-LINER FOOTER PLACEHOLDER - FIXED POSITIONING */
@@ -137,22 +138,36 @@ body {
     z-index: 5;
 }
 
-/* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
+/* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED & BOUNDED */
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
-    display: inline-block !important;
-    transform: scaleY(1.8);
-    transform-origin: left;
-    font-size: clamp(80px, 12cqw, 140px) !important; 
-    line-height: 1.3 !important;
+    display: block !important; /* Force each word line into a distinct, isolated block */
+    width: max-content;
+    max-width: 100% !important;
+    box-sizing: border-box !important;
+    
+    /* Dynamically scaled via container query units (cqi) based on 880px container width */
+    font-size: clamp(48px, 10.5cqi, 115px) !important; 
+    
+    /* Stretched vertical aesthetic with top-left origin */
+    transform: scaleY(1.45);
+    transform-origin: top left;
+    
+    /* CRUCIAL: Line height (1.65) strictly compensates for scaleY (1.45) so visual text stays INSIDE DOM box */
+    line-height: 1.65 !important;
+    
     font-weight: 800 !important;
-    letter-spacing: -1px !important;
-    text-transform: none !important;
-    overflow-wrap: break-word !important;
-    word-break: break-word !important;
+    letter-spacing: -0.5px !important;
+    text-transform: uppercase !important;
+    
+    /* PERMANENT FIX: Prohibit arbitrary word splitting (eliminates "INFRASTRUCTU / RE") */
+    overflow-wrap: normal !important;
+    word-break: normal !important;
+    white-space: nowrap !important;
+    
     color: var(--text-white);
     text-align: left;
-    margin-bottom: 15px;
+    margin-bottom: 22px; /* Controlled vertical gap between bounded line blocks */
 }
 
 /* Force the very last word in the layout container to turn dark blue */
