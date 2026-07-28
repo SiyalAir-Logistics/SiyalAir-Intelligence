@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUPPLY CHAIN FRICTION",
-        "titleBlue": "ELEVATED",
-        "footerSummary": "Customs enforcements, historic civil liabilities, and maritime blocks trigger severe margin deterioration and routing friction across international trade."
+        "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "High-friction regulatory updates, nuclear broker verdicts, and escalating trade wars redefine international shipping margins and global distribution networks."
     },
     "slides": [
         {
             "id": 1,
             "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
             "points": [
-                "A massive six hundred and four million dollar highway crash ruling threatens traditional asset-light brokerage models.",
-                "Shippers and brokers face extreme legal vulnerabilities following the Supreme Court's Montgomery decision regarding carrier vetting.",
-                "Standard electronic data interchange integrations are no longer sufficient to shield intermediaries from negligent carrier selection.",
-                "Compliance teams must implement automated, continuous safety monitoring systems for third-party carriers to mitigate legal exposures."
+                "C.H. Robinson faces a massive six hundred four million dollar nuclear verdict for negligent carrier vetting.",
+                "Freight brokers must rapidly deploy advanced artificial intelligence to audit motor carrier safety records continuously.",
+                "The landmark Montgomery ruling removes historical legal shields protecting logistics intermediaries from highway accident liabilities.",
+                "Expect freight brokerage margins to contract as compliance costs rise to prevent catastrophic multi-million litigation."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: FORCED LABOR TARIFFS LEVIED",
+            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT SURGE",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -25,49 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "USTR: FORCED LABOR TARIFFS LEVIED",
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT SURGE",
             "points": [
-                "The United States Trade Representative implements strict tariffs on sixty trading partners targeting forced labor compliance.",
-                "Importers face standard duty increases of ten to twelve percent as previous temporary trade rules expire.",
-                "Legal battles intensify as multiple small businesses sue the administration over rapid, unilateral tariff escalation practices.",
-                "Logistics networks must redesign global sourcing lanes to circumvent non-compliant regions and minimize high tariff exposures."
+                "The Department of Justice Trade Fraud Task Force surpassed one billion dollars in regulatory recoveries.",
+                "Global importers face intense scrutiny regarding forced labor compliance and severe multi-channel customs entry audits.",
+                "Customs and Border Protection is actively targeting duty evasion schemes through sophisticated network data analytics.",
+                "Businesses must establish absolute provenance tracing to avoid immediate container seizures at major domestic ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: GROUND ADVANTAGE RATE SURGE",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "USPS: GROUND ADVANTAGE RATE SURGE",
-            "points": [
-                "The United States Postal Service raises Ground Advantage package shipping rates for online marketplace third-party sellers.",
-                "Lightweight package shipments to rural destinations face immediate two to three dollar cost increases per package.",
-                "E-commerce platforms warn that rising domestic parcel rates will heavily squeeze operating margins for independent brands.",
-                "Multichannel merchants must optimize fulfillment nodes to consolidate shipments and reduce reliance on long-distance postal transport."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD PENALTIES CLIMB",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "DOJ: TRADE FRAUD PENALTIES CLIMB",
-            "points": [
-                "The Department of Justice Trade Fraud Task Force surpasses one billion dollars in regulatory recoveries and penalties.",
-                "Enforcement actions focus heavily on customs evasion, product misclassification, and illicit transshipment through third-party hubs.",
-                "Importers face unprecedented scrutiny on import documentation accuracy and product origin verification in the fiscal year.",
-                "Supply chain compliance officers must adopt advanced forensic tracking and digital audit trails to prevent border seizures."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "REGULATORS: CLASS I RAILROAD MERGER",
+            "nextUpTease": "USTR: TRADE TARIFF EXPANSION",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -75,33 +41,67 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "REGULATORS: CLASS I RAILROAD MERGER",
+            "id": 3,
+            "heading": "USTR: TRADE TARIFF EXPANSION",
             "points": [
-                "Union Pacific and Norfolk Southern file detailed supplemental safety and competition data to secure federal merger approval.",
-                "Regulators demand strict customer protection frameworks and intermodal service guarantees to prevent market concentration issues.",
-                "Canadian National withdraws active regulatory opposition to the proposed eastern rail merger following strategic compromise agreements.",
-                "Intermodal shippers must prepare for altered routing options and potential chassis equipment pooling shifts across major hubs."
+                "The United States Trade Representative implements forced labor tariffs on sixty nations as exemptions expire.",
+                "Importers will see immediate ten percent to twelve point five percent duties on critical goods.",
+                "This aggressive trade enforcement framework replaces previous Section one hundred twenty two global tariff structures.",
+                "Supply chain managers must accelerate nearshoring efforts to mitigate compounding compliance and import tax pressures."
             ],
             "imageUrl": "",
-            "nextUpTease": "MIDDLE EAST: STRAIT OF HORMUZ DISRUPTIONS",
+            "nextUpTease": "SHEIN: DE MINIMIS END LOSSES",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "SHEIN: DE MINIMIS END LOSSES",
+            "points": [
+                "E-commerce giant Shein swings to a massive operational loss following United States de minimis elimination.",
+                "Low-value package imports lose their competitive tax exemptions, driving immediate cost increases for online consumers.",
+                "The regulatory shift forces cross-border e-commerce platforms to restructure traditional direct-to-consumer delivery networks entirely.",
+                "Marketplaces will likely establish domestic warehousing systems to hold bulk inventory and offset customs costs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "OCEAN CARRIERS: ASIA-US RATE SURGE",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "OCEAN CARRIERS: ASIA-US RATE SURGE",
+            "points": [
+                "Geopolitical conflicts send Asia to United States ocean shipping rates soaring over two hundred percent.",
+                "Shippers encounter severe capacity crunches, extreme spot market volatility, and unexpected peak season carrier surcharges.",
+                "Vessel diversions around southern Africa bypass the Suez Canal entirely, lengthening transit times and tightening vessel supply.",
+                "Anticipate elevated maritime shipping costs persisting into next year as global container carrier reliability drops."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TSMC: CHIP PRODUCTION CAPACITY EXPANSION",
+            "tags": [
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MIDDLE EAST: STRAIT OF HORMUZ DISRUPTIONS",
+            "heading": "TSMC: CHIP PRODUCTION CAPACITY EXPANSION",
             "points": [
-                "Renewed military conflicts near the Strait of Hormuz destabilize maritime flows and inflate raw polymer material costs.",
-                "Global manufacturers report stop-start recoveries for critical virgin plastic shipments as ocean freight rates surge rapidly.",
-                "Diversification strategies accelerate as public and private refiners swap Middle Eastern oil for alternative Atlantic Basin crude.",
-                "Industrial buyers should lock in long-term petrochemical supply contracts to hedge against volatile maritime chokepoint escalations."
+                "TSMC commits an additional one hundred billion dollars to construct advanced domestic semiconductor manufacturing plants.",
+                "This expansion increases total domestic fabrication facilities to twelve, shielding critical defense and tech supply chains.",
+                "Rising geopolitical tensions force high-tech companies to localize hardware component sourcing and reduce East Asian dependencies.",
+                "Localized semiconductor manufacturing will reduce microchip lead times and lower vulnerability to transpacific transport bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS: DE MINIMIS THRESHOLD REVISIONS",
+            "nextUpTease": "MIDDLE EAST: HORMUZ CHOKEPOINT CONFLICT",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "CUSTOMS: DE MINIMIS THRESHOLD REVISIONS",
+            "heading": "MIDDLE EAST: HORMUZ CHOKEPOINT CONFLICT",
             "points": [
-                "Major international fast-fashion marketplaces face deep financial losses as the United States eliminates de minimis exemptions.",
-                "Inbound parcels under eight hundred dollars are now fully subject to standard tariffs and formal customs filings.",
-                "Border patrol agencies intensify physical cargo audits to block illegal product imports and verify manufacturing supply chains.",
-                "Direct-to-consumer logistics models must pivot to domestic warehousing to handle bulk imports under traditional compliance structures."
+                "Escalating regional hostilities disrupt the strategic Strait of Hormuz chokepoint, halting critical chemical trade flows.",
+                "Petrochemical and raw polymer manufacturers face severe raw material shortages and volatile global logistics bottlenecks.",
+                "Stop-and-start ocean shipping operations create compounding supply crunches for worldwide plastics manufacturing and distribution networks.",
+                "Companies must seek alternative regional landbridges and diverse sourcing routes to stabilize essential manufacturing runs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
