@@ -9,37 +9,69 @@ const dailyData = {
         "en": {
             "main": {
                 "kicker": "",
-                "titleWhite": "GLOBAL SUPPLY CHAIN",
-                "titleBlue": "SHIFTS",
-                "footerSummary": "Increased regulatory audits and carrier capacity reductions are escalating cross-border supply chain risks."
+                "titleWhite": "CRITICAL LOGISTICS REGULATORY",
+                "titleBlue": "DISRUPTION",
+                "footerSummary": "Severe regulatory shifts, multi-million dollar broker liabilities, and escalating maritime fuel surcharges threaten immediate margins across global supply chain networks."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "CBP: TYPE 86 REGULATORY CRACKDOWN",
+                    "heading": "USTR: TARIFF IMPLEMENTATION",
                     "points": [
-                        "The US Customs and Border Protection has intensified structural compliance protocols for Type 86 import transactions. This regulatory update targets e-commerce supply chains utilizing de minimis exceptions to bypass standard entry fees. Importers must now provide mandatory Harmonized Tariff Schedule codes along with extended manufacturer data.",
-                        "Non-compliant shipments face immediate cargo seizures and administrative penalties at major international airport gateways. Customs brokers are adjusting their automation software to handle the sudden surge in entry validation steps. Data pipelines must run in real-time to avoid clearance delays and unexpected dwell time charges.",
-                        "Supply chain architects are shifting away from direct-to-consumer individual air parcels to avoid high inspection rates. High-volume merchants are establishing secondary regional consolidation hubs within foreign trade zones. This strategic shift allows bulk entry processing under traditional customs frameworks."
+                        "The Office of the United States Trade Representative is implementing Section 301 tariffs targeting sixty trading partners. This regulatory overhaul coincides with the expiration of existing Section 122 import duties. Importers must immediately audit their supply chains to identify exposure to these forced labor-based levies.",
+                        "These strategic tariffs impose a ten percent or twelve point five percent duty on incoming shipments. The federal measure aims to eliminate supply chain reliance on forced labor practices across global manufacturing networks. Customs and Border Protection will enforce strict origin-verification procedures at all primary ports of entry.",
+                        "Supply chain leaders are warning of immediate increases in landed costs for diversified consumer goods. Procurement departments must re-examine supplier agreements to mitigate sudden financial exposure under the new tax framework. Legal challenges are already mounting as trade groups seek refunds and tariff removals."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "FMC: CARRIER BLANK SAILINGS SCRUTINY",
+                    "nextUpTease": "US CUSTOMS: DE MINIMIS END",
                     "tags": [
-                        "Source: https://www.cbp.gov",
+                        "Source: https://www.supplychaindive.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "FMC: CARRIER BLANK SAILINGS SCRUTINY",
+                    "heading": "US CUSTOMS: DE MINIMIS END",
                     "points": [
-                        "The Federal Maritime Commission has launched a detailed investigation into ocean carrier blank sailings on key global trade routes. Ocean carriers are utilizing capacity artificial restrictions to stabilize container freight rates during seasonal demand drops. Marine terminal operators warn that unpredictable schedules are causing extensive harbor congestion.",
-                        "Under new maritime regulatory mandates, carriers must report voided voyages at least fourteen days in advance. Shipping alliances are now facing severe administrative penalties for failing to provide adequate notice to cargo owners. This policy update aims to establish transparent booking confirmations across transpacific supply networks.",
-                        "Logistics managers are shifting contract allocations toward independent regional non-vessel operating common carriers. Securing guaranteed equipment allocations has become the primary procurement objective for high-volume enterprise shippers. Diversifying maritime carriers reduces operational reliance on single-alliance block bookings."
+                        "The elimination of the eight-hundred-dollar De Minimis exemption has driven major fast-fashion platforms into financial deficits. Direct-to-consumer e-commerce shipments from overseas are now subject to standard customs processing fees and duties. This regulatory change disrupts the low-cost shipping models of global cross-border marketplaces.",
+                        "Federal authorities have enacted this policy to address trade imbalances and close structural tax loopholes. Import volumes for small packages are projected to drop significantly due to increased transactional friction. Logistics providers must restructure their processing hubs to accommodate massive increases in formal customs declarations.",
+                        "Compliance costs will rise as digital sellers adapt to the complex customs verification frameworks. Shippers must deploy advanced classification technology to automate tariff calculations at the point of sale. Market analysts warn that consumers will ultimately absorb these regulatory compliance expenses through higher pricing."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "AMAZON: MULTI-CHANNEL INVENTORY PENALTIES",
+                    "nextUpTease": "3PL BROKERS: LIABILITY VERDICT",
+                    "tags": [
+                        "Source: https://www.supplychainbrain.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "heading": "3PL BROKERS: LIABILITY VERDICT",
+                    "points": [
+                        "A Texas jury has delivered a six-hundred and four million dollar nuclear verdict against a major logistics provider. The landmark case highlights massive liabilities associated with negligent carrier selection within the brokerage sector. This judgment establishes a highly dangerous legal precedent for asset-light transportation intermediaries nationwide.",
+                        "The legal decision emphasizes the critical need for rigorous safety vetting and compliance monitoring protocols. Freight brokers can no longer rely solely on basic federal safety ratings when dispatching independent sub-contractors. Industry experts warn that carrier compliance practices must evolve immediately to avoid catastrophic legal risks.",
+                        "Brokerage stock prices have suffered immediate declines as investors assess the broader industry exposure. Shippers are increasingly demanding automated verification systems and contract revisions to shield themselves from joint liability. Insurance premiums for third-party logistics firms are expected to escalate significantly following this legal decision."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "FMC: BILLING RULE UPHELD",
+                    "tags": [
+                        "Source: https://www.freightwaves.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "heading": "FMC: BILLING RULE UPHELD",
+                    "points": [
+                        "The United States Court of Appeals has officially upheld the Federal Maritime Commission's billing regulation decision. The judicial ruling mandates that detention and demurrage fees must actively promote freight fluidity at marine terminals. Ocean carriers must now ensure their invoice practices strictly align with these newly verified standards.",
+                        "This legal victory for shippers curtails predatory billing practices during periods of severe port congestion. The Federal Maritime Commission is empowered to penalize ocean carriers that fail to issue compliant invoices. Marine terminal operators must adjust their operational tracking systems to prevent unlawful charge assessments.",
+                        "Importers and exporters gain significant leverage when disputing unfair container storage and equipment fees. This judicial backing secures the implementation of the landmark Ocean Shipping Reform Act guidelines. Carrier compliance teams must conduct immediate audits of historical billing data to minimize regulatory penalties."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "USPS: E-COMMERCE RATE SURGE",
                     "tags": [
                         "Source: https://www.fmc.gov",
                         "Published: Last 48 Hours",
@@ -47,15 +79,15 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 3,
-                    "heading": "AMAZON: MULTI-CHANNEL INVENTORY PENALTIES",
+                    "id": 5,
+                    "heading": "USPS: E-COMMERCE RATE SURGE",
                     "points": [
-                        "Amazon has updated its multi-channel fulfillment operational regulations with strict inventory utilization thresholds. High-volume third-party sellers face increased storage fees for units exceeding standard seasonal aging limits. The platform is prioritizing rapid inventory turnover to maximize fulfillment center processing efficiency.",
-                        "Cross-border e-commerce brands must optimize their domestic distribution networks to minimize inbound processing times. The integration of advanced inventory prediction software is now a critical operational prerequisite for merchants. Failure to meet inventory distribution targets results in diminished organic product visibility.",
-                        "Logistic service providers are launching specialized bypass networks to handle overflow merchant inventory. Off-site commercial warehouse partners are coordinating multi-channel order fulfillment via programmatic API integrations. This strategy helps online retailers circumvent Amazon's premium long-term storage fees."
+                        "The United States Postal Service has implemented immediate rate increases for Ground Advantage shipping services. Online marketplace sellers face immediate margin erosion as postal costs escalate without prior notice periods. These changes specifically target lightweight parcels utilized heavily by digital retailers across the nation.",
+                        "Shipping lightweight items to rural locations will now incur an additional surcharge of two to three dollars. This pricing shift is designed to offset the rising operational costs of rural delivery networks. E-commerce platforms are warning sellers to adjust their shipping templates to prevent immediate losses.",
+                        "Small business owners must re-evaluate their carrier mix to identify cost-effective regional fulfillment alternatives. Multi-channel sellers are adjusting retail prices or offering fewer free shipping promotions to absorb these hikes. Third-party logistics providers are experiencing increased demand for alternative localized shipping consolidations."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "SUEZ CANAL: ROUTING CAPE SURCHARGES",
+                    "nextUpTease": "OCEAN CARRIERS: BUNKER SURCHARGES",
                     "tags": [
                         "Source: https://www.ecommercebytes.com",
                         "Published: Last 48 Hours",
@@ -63,15 +95,15 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 4,
-                    "heading": "SUEZ CANAL: ROUTING CAPE SURCHARGES",
+                    "id": 6,
+                    "heading": "OCEAN CARRIERS: BUNKER SURCHARGES",
                     "points": [
-                        "Global ocean carriers have solidified long-term rerouting schedules around the Cape of Good Hope for the remainder of the fiscal year. This sustained maritime diversion has permanently altered transit time expectations for European cargo networks. Shippers must account for an additional ten to fourteen days of transit duration.",
-                        "Ocean carriers are introducing dynamic bunker adjustment factors to offset rising fuel consumption costs. The extended ocean transit has increased global vessel demand, reducing available spot market container capacity. Maritime fuel costs have surged by fifteen percent along the southern African routing.",
-                        "Supply chain engineers are redesigning inventory safety stock thresholds to mitigate potential stockout disruptions. Importers are increasingly utilizing intermodal rail connections across central land bridges to bypass maritime choke points. This modal shift helps stabilize production cycles for high-value industrial manufacturers."
+                        "Container lines are introducing a new wave of emergency bunker surcharges amid escalating Middle East tensions. Ocean carriers face rising operating costs as fuel prices spike and vessel route diversions continue. These surcharges will directly impact contract freight rates across major transpacific and Asia-Europe lanes.",
+                        "Despite ongoing blockades, some liners continue to send vessels through the critical Bab el-Mandeb Strait. These high-risk transits require specialized security protocols and drive significant insurance premium increases. Global alliance schedules remain highly fragmented as carriers balance safety risks against operational schedule reliability.",
+                        "Cargo owners must prepare for heightened volatility in spot rates and fluctuating transit times. Supply chain managers are looking to diversify port gateways to avoid congested shipping corridors altogether. Forwarders expect these emergency surcharges to remain active until regional geopolitical hostilities subside."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "EUROPEAN UNION: CABOTAGE LAW REFORMS",
+                    "nextUpTease": "SEMICONDUCTORS: RESHORING INITIATIVE",
                     "tags": [
                         "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
@@ -79,49 +111,17 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 5,
-                    "heading": "EUROPEAN UNION: CABOTAGE LAW REFORMS",
-                    "points": [
-                        "The European Commission has implemented strict enforcement guidelines for cross-border road freight cabotage operations. Road freight operators must verify driver rest cycles using smart tachograph 2.0 digital hardware logs. Regulatory agencies aim to eliminate illegal cabotage and maintain fair competition across member states.",
-                        "Non-compliant transportation companies face heavy financial penalties and potential revocation of operational transport licenses. Fleet dispatchers must plan multi-stop regional distribution routes with meticulous operational precision. The mandatory cooling-off period requires trucks to exit host countries after three operations.",
-                        "European logistics managers are establishing regional transport cooperatives to optimize cross-border fleet utilization rates. Integrating localized carrier networks allows shippers to maintain consistent capacity during peak shipping seasons. Fleet operators are investing in digital compliance platforms to streamline transport audit verifications."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "AIR CARGO: BLOCK SPACE ACQUISITIONS",
-                    "tags": [
-                        "Source: https://www.joc.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 6,
-                    "heading": "AIR CARGO: BLOCK SPACE ACQUISITIONS",
-                    "points": [
-                        "Global freight forwarders are securing multi-year block space agreements on high-demand transpacific air lanes. Fast-fashion e-commerce platforms continue to dominate outbound air freight capacity from major Asian manufacturing centers. This concentrated demand has inflated spot air freight rates to record levels.",
-                        "Traditional electronics and automotive manufacturers are struggling to locate competitive charter flight options. Air cargo carriers are prioritizing high-yield digital platform freight over bulk industrial shipments. Logistics planners must commit to long-term cargo space allocations to secure consistent lift.",
-                        "Importers are shifting urgent global shipments toward secondary regional airports to avoid major hub congestion. These alternative airports offer faster cargo ground handling times and lower processing costs. Strategic regional hub diversification helps maintain supply chain velocity for sensitive components."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "US EAST COAST: PORT LABOR DISPUTES",
-                    "tags": [
-                        "Source: https://aircargonext.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
                     "id": 7,
-                    "heading": "US EAST COAST: PORT LABOR DISPUTES",
+                    "heading": "SEMICONDUCTORS: RESHORING INITIATIVE",
                     "points": [
-                        "Labor contract negotiations at major US East Coast marine terminals have hit a structural impasse regarding terminal automation. Port operators and labor unions are debating the operational limits of automated container handling machinery. Maritime trade experts warn that prolonged labor disputes could trigger extensive cargo backlogs.",
-                        "Cargo owners are preemptively rerouting inbound freight to West Coast gateways and Canadian maritime ports. This sudden volume shift is inflating intermodal rail rates and domestic long-haul trucking costs. Port congestion indices show rising vessel dwell times at alternative West Coast marine terminals.",
-                        "Supply chain directors are implementing flexible port-of-entry strategies to minimize localized operational disruption risks. Diversifying terminal drop-off destinations allows logistics teams to adapt dynamically to labor-induced port closures. Corporate freight budgets are expanding to accommodate premium emergency transportation surcharges."
+                        "A leading microchip manufacturer has committed an additional one-hundred billion dollars to United States manufacturing. The federal funding initiative will support the construction of four advanced semiconductor fabrication facilities. This strategic investment brings the organization's total planned operational facilities in the country to twelve.",
+                        "The project aims to establish a highly resilient domestic supply chain for critical technology components. Government agencies are partnering with private entities to accelerate the reshoring of advanced microchip assembly. Logistics providers must prepare specialized cleanroom transport capabilities to support these massive domestic construction projects.",
+                        "The expansion will significantly reduce long-term reliance on overseas chip production and transit networks. Industry analysts predict this localized manufacturing surge will reshape global electronic component trade flows. Technology supply chains will benefit from reduced lead times and protected domestic production corridors."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.freightwaves.com",
+                        "Source: https://www.supplychaindive.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
@@ -131,37 +131,69 @@ const dailyData = {
         "de": {
             "main": {
                 "kicker": "",
-                "titleWhite": "GLOBALE LIEFERKETTEN IM",
-                "titleBlue": "WANDEL",
-                "footerSummary": "Versch\u00e4rfte regulatorische Audits und Kapazit\u00e4tsengp\u00e4sse der Reedereien erh\u00f6hen die globalen Risiken."
+                "titleWhite": "KRITISCHE LOGISTIK RECHTLICHE",
+                "titleBlue": "ST\u00d6RUNG",
+                "footerSummary": "Schwere regulatorische Verschiebungen, millionenschwere Broker-Haftungen und eskalierende maritime Treibstoffzuschl\u00e4ge bedrohen die Margen in globalen Lieferkettennetzen."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "CBP: REGULIERUNGS-MA\u1e9eNAHMEN ZU TYP 86",
+                    "heading": "USTR: TARIFIMPLEMENTIERUNG",
                     "points": [
-                        "Die US-Zollbeh\u00f6rde CBP hat die Compliance-Protokolle f\u00fcr Importe des Typs 86 erheblich versch\u00e4rft. Diese Regulierungsma\u00dfnahme zielt auf E-Commerce-Lieferketten ab, die De Minimis-Ausnahmen nutzen, um Standardzollgeb\u00fchren zu umgehen. Importeure m\u00fcssen nun zwingend HTS-Codes sowie detaillierte Herstellerdaten \u00fcbermitteln.",
-                        "Nicht konforme Sendungen m\u00fcssen mit sofortigen Beschlagnahmungen und Strafen an gro\u00dfen Flughafen-Gateways rechnen. Zollmakler passen ihre Automatisierungssoftware an die pl\u00f6tzliche Zunahme an Validierungsschritten an. Daten-Pipelines m\u00fcssen in Echtzeit laufen, um Verz\u00f6gerungen und Demurrage-Geb\u00fchren zu vermeiden.",
-                        "Supply-Chain-Architekten weichen von direkten Luftfrachtpaketen an Endverbraucher ab, um hohe Kontrollraten zu vermeiden. Gro\u00dfe Online-H\u00e4ndler richten stattdessen sekund\u00e4re Konsolidierungspunkte in Freihandelszonen ein. Dieser strategische Schritt erm\u00f6glicht eine Massenabfertigung unter traditionellen Zollverfahren."
+                        "Das B\u00fcro des Handelsbeauftragten der Vereinigten Staaten f\u00fchrt neue Z\u00f6lle gem\u00e4\u00df Section 301 f\u00fcr sechzig Handelspartner ein. Diese regulatorische \u00c4nderung f\u00e4llt mit dem Auslaufen der bestehenden Importz\u00f6lle nach Section 122 zusammen. Importeure m\u00fcssen ihre Lieferketten unverz\u00fcglich \u00fcberpr\u00fcfen, um finanzielle Risiken durch diese auf Zwangsarbeit basierenden Abgaben zu vermeiden.",
+                        "Diese strategischen Z\u00f6lle erheben eine Abgabe von zehn oder zw\u00f6lf Komma f\u00fcnf Prozent auf eingehende Sendungen. Die Bundesma\u00dfnahme zielt darauf ab, die Abh\u00e4ngigkeit der Lieferkette von Zwangsarbeit in globalen Produktionsnetzwerken zu beseitigen. Customs and Border Protection wird strenge Ursprungspr\u00fcfungen an allen prim\u00e4ren Eingangsh\u00e4fen durchf\u00fchren.",
+                        "Branchenf\u00fchrer warnen vor einem sofortigen Anstieg der Einstandskosten f\u00fcr diverse Konsumg\u00fcter. Einkaufsabteilungen m\u00fcssen Lieferantenvereinbarungen neu verhandeln, um pl\u00f6tzliche finanzielle Belastungen im neuen Steuerrahmen abzufedern. Rechtliche Schritte von Handelsverb\u00e4nden zur R\u00fcckforderung und Aufhebung der Z\u00f6lle sind bereits im Gange."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "FMC: UNTERSUCHUNG VON BLANK SAILINGS",
+                    "nextUpTease": "US-ZOLL: ENDE VON DE MINIMIS",
                     "tags": [
-                        "Source: https://www.cbp.gov",
+                        "Source: https://www.supplychaindive.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "FMC: UNTERSUCHUNG VON BLANK SAILINGS",
+                    "heading": "US-ZOLL: ENDE VON DE MINIMIS",
                     "points": [
-                        "Die Federal Maritime Commission hat eine detaillierte Untersuchung von Blank Sailings auf wichtigen globalen Handelsrouten eingeleitet. Seereedereien nutzen k\u00fcnstliche Kapazit\u00e4tsbeschr\u00e4nkungen, um die Containerfrachtraten bei saisonalen Nachfrager\u00fcckg\u00e4ngen zu stabilisieren. Terminalbetreiber warnen, dass unvorhersehbare Fahrpl\u00e4ne zu Hafen\u00fcberlastungen f\u00fchren.",
-                        "Nach neuen maritimen Vorschriften m\u00fcssen Reedereien stornierte Abfahrten mindestens vierzehn Tage im Voraus melden. Allianzen drohen nun empfindliche Strafen, wenn sie Frachteigent\u00fcmer nicht rechtzeitig informieren. Diese Aktualisierung soll f\u00fcr transparente Buchungsbest\u00e4tigungen im Transpazifik-Netzwerk sorgen.",
-                        "Logistikmanager verlagern ihre Vertragsvolumina hin zu unabh\u00e4ngigen regionalen NVOCCs. Die Sicherung garantierter Stellplatz- und Equipment-Zusagen ist zum prim\u00e4ren Beschaffungsziel f\u00fcr Gro\u00dfverlader geworden. Die Diversifizierung der Reedereien verringert die Abh\u00e4ngigkeit von den Blockbuchungen einzelner Allianzen."
+                        "Die Abschaffung der De Minimis Freigrenze von achthundert Dollar hat gro\u00dfe Fast-Fashion-Plattformen in finanzielle Verluste getrieben. Direkt an Endverbraucher gerichtete E-Commerce-Sendungen aus dem Ausland unterliegen nun regul\u00e4ren Zollabwicklungsgeb\u00fchren und Z\u00f6llen. Diese regulatorische \u00c4nderung st\u00f6rt die Niedrigpreis-Versandmodelle globaler grenz\u00fcberschreitender Marktpl\u00e4tze.",
+                        "Die Bundesbeh\u00f6rden haben diese Richtlinie erlassen, um Handelsungleichgewichte auszugleichen und steuerliche Schlupfl\u00f6cher zu schlie\u00dfen. Das Importvolumen f\u00fcr Kleinpakete wird aufgrund der gestiegenen Transaktionsh\u00fcrden voraussichtlich erheblich sinken. Logistikdienstleister m\u00fcssen ihre Abwicklungszentren umstrukturieren, um massive Zunahmen formeller Zolldeklarationen zu bew\u00e4ltigen.",
+                        "Die Compliance-Kosten werden steigen, da sich Online-Verk\u00e4ufer an die komplexen Zollpr\u00fcfungsrahmen anpassen m\u00fcssen. Versender m\u00fcssen fortschrittliche Klassifizierungstechnologien einsetzen, um Tarifberechnungen am Point of Sale zu automatisieren. Marktanalysten warnen, dass Verbraucher diese zus\u00e4tzlichen Kosten letztendlich \u00fcber h\u00f6here Preise tragen m\u00fcssen."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "AMAZON: GEB\u00dcHREN F\u00dcR LAGERBEST\u00c4NDE",
+                    "nextUpTease": "3PL-BROKER: HAFTUNGSURTEIL",
+                    "tags": [
+                        "Source: https://www.supplychainbrain.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "heading": "3PL-BROKER: HAFTUNGSURTEIL",
+                    "points": [
+                        "Eine Jury in Texas hat ein wegweisendes Urteil \u00fcber sechshundertvier Millionen Dollar gegen einen gro\u00dfen Logistikdienstleister gef\u00e4llt. Dieser historische Fall verdeutlicht die massiven Haftungsrisiken bei fahrl\u00e4ssiger Frachtf\u00fchrerauswahl im Brokerage-Sektor. Das Urteil schafft einen hochgef\u00e4hrlichen Pr\u00e4zedenzfall f\u00fcr anlageleichte Transportvermittler im ganzen Land.",
+                        "Die Gerichtsentscheidung unterstreicht die dringende Notwendigkeit strenger Sicherheitspr\u00fcfungen und Compliance-\u00dcberwachungsprotokolle. Frachtmakler k\u00f6nnen sich bei der Beauftragung unabh\u00e4ngiger Subunternehmer nicht mehr ausschlie\u00dflich auf grundlegende staatliche Sicherheitsbewertungen verlassen. Branchenexperten warnen, dass sich die \u00dcberpr\u00fcfungspraktiken der Frachtf\u00fchrer sofort weiterentwickeln m\u00fcssen, um katastrophale rechtliche Risiken zu vermeiden.",
+                        "Die Aktienkurse von Logistikbrokern brachen sofort ein, da Investoren das breitere Branchenrisiko neu bewerteten. Verlader fordern zunehmend automatisierte Verifizierungssysteme und Vertrags\u00e4nderungen, um sich vor einer Mithaftung zu sch\u00fctzen. Es wird erwartet, dass die Versicherungspr\u00e4mien f\u00fcr Drittanbieter-Logistikunternehmen nach dieser Gerichtsentscheidung erheblich steigen werden."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "FMC: ABRECHNUNGSREGEL BEST\u00c4TIGT",
+                    "tags": [
+                        "Source: https://www.freightwaves.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "heading": "FMC: ABRECHNUNGSREGEL BEST\u00c4TIGT",
+                    "points": [
+                        "Das Bundesberufungsgericht hat die Abrechnungsregelung der Federal Maritime Commission offiziell best\u00e4tigt. Das Gerichtsurteil schreibt vor, dass Detention- und Demurrage-Geb\u00fchren aktiv den Frachtfluss an Hafenterminals f\u00f6rdern m\u00fcssen. Seefrachtf\u00fchrer m\u00fcssen nun sicherstellen, dass ihre Rechnungspraktiken strikt mit diesen neu verifizierten Standards \u00fcbereinstimmen.",
+                        "Dieser juristische Sieg f\u00fcr Verlader schr\u00e4nkt r\u00e4uberische Abrechnungspraktiken in Zeiten schwerer Hafen\u00fcberlastung ein. Die Federal Maritime Commission ist befugt, Seefrachtf\u00fchrer zu bestrafen, die nicht konforme Rechnungen ausstellen. Hafenterminalbetreiber m\u00fcssen ihre Tracking-Systeme anpassen, um unrechtm\u00e4\u00dfige Geb\u00fchrenerhebungen zu verhindern.",
+                        "Importeure und Exporteure gewinnen erheblichen Spielraum bei der Anfechtung ungerechtfertigter Containerlager- und Ausr\u00fcstungsgeb\u00fchren. Diese gerichtliche Best\u00e4tigung sichert die Umsetzung der wegweisenden Richtlinien des Ocean Shipping Reform Act. Compliance-Teams der Frachtf\u00fchrer m\u00fcssen historische Abrechnungsdaten umgehend pr\u00fcfen, um regulatorische Strafen zu minimieren."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "USPS: E-COMMERCE-TARIFERH\u00d6HUNG",
                     "tags": [
                         "Source: https://www.fmc.gov",
                         "Published: Last 48 Hours",
@@ -169,15 +201,15 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 3,
-                    "heading": "AMAZON: GEB\u00dcHREN F\u00dcR LAGERBEST\u00c4NDE",
+                    "id": 5,
+                    "heading": "USPS: E-COMMERCE-TARIFERH\u00d6HUNG",
                     "points": [
-                        "Amazon hat die Richtlinien f\u00fcr die Multichannel-Abwicklung durch strenge Grenzwerte f\u00fcr die Bestandsnutzung aktualisiert. Dritth\u00e4ndler mit hohem Volumen m\u00fcssen mit h\u00f6heren Geb\u00fchren f\u00fcr Best\u00e4nde rechnen, die saisonale Lagerfristen \u00fcberschreiten. Die Plattform priorisiert einen schnellen Lagerumschlag, um die Effizienz der Logistikzentren zu maximieren.",
-                        "Grenz\u00fcberschreitende E-Commerce-Marken m\u00fcssen ihre inl\u00e4ndischen Vertriebsnetze optimieren, um die Durchlaufzeiten beim Wareneingang zu minimieren. Die Integration fortschrittlicher Prognosesoftware ist mittlerweile eine kritische operative Voraussetzung f\u00fcr H\u00e4ndler. Ein Verfehlen der Bestandsverteilungsziele f\u00fchrt zu einer verringerten organischen Sichtbarkeit.",
-                        "Logistikdienstleister richten spezialisierte Bypass-Netzwerke ein, um \u00fcbersch\u00fcssige Best\u00e4nde von H\u00e4ndlern abzuwickeln. Externe gewerbliche Lagerhalter koordinieren die Multichannel-Auftragsabwicklung \u00fcber programmatische API-Integrationen. Diese Strategie hilft Online-H\u00e4ndlern, die teuren Langzeitlagergeb\u00fchren von Amazon zu umgehen."
+                        "Der United States Postal Service hat sofortige Tariferh\u00f6hungen f\u00fcr Ground Advantage Versanddienste eingef\u00fchrt. Online-Marktplatzverk\u00e4ufer sehen sich mit einer sofortigen Margenerosion konfrontiert, da die Portokosten ohne Vorank\u00fcndigung steigen. Diese \u00c4nderungen betreffen insbesondere leichte Pakete, die von Online-H\u00e4ndlern im ganzen Land intensiv genutzt werden.",
+                        "Der Versand von Leichtg\u00fctern in l\u00e4ndliche Regionen wird nun mit einem zus\u00e4tzlichen Zuschlag von zwei bis drei Dollar belegt. Diese Preisanpassung soll die steigenden Betriebskosten der l\u00e4ndlichen Zustellungsnetze ausgleichen. E-Commerce-Plattformen warnen Verk\u00e4ufer, ihre Versandtarife anzupassen, um unmittelbare Verluste zu vermeiden.",
+                        "Kleinunternehmer m\u00fcssen ihren Carrier-Mix neu bewerten, um kosteng\u00fcnstige regionale Fulfillment-Alternativen zu identifizieren. Multi-Channel-Verk\u00e4ufer passen ihre Verkaufspreise an oder reduzieren kostenlose Versandaktionen, um diese Erh\u00f6hungen aufzufangen. Drittanbieter-Logistikdienstleister verzeichnen eine steigende Nachfrage nach alternativen, lokal konsolidierten Versandl\u00f6sungen."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "SUEZKANAL: UMLEITUNGEN UND CAPE-ZUSCHL\u00c4GE",
+                    "nextUpTease": "REEDEREIEN: BUNKERZUSCHL\u00c4GE",
                     "tags": [
                         "Source: https://www.ecommercebytes.com",
                         "Published: Last 48 Hours",
@@ -185,15 +217,15 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 4,
-                    "heading": "SUEZKANAL: UMLEITUNGEN UND CAPE-ZUSCHL\u00c4GE",
+                    "id": 6,
+                    "heading": "REEDEREIEN: BUNKERZUSCHL\u00c4GE",
                     "points": [
-                        "Globale Reedereien haben langfristige Umleitungspl\u00e4ne um das Kap der Guten Hoffnung f\u00fcr das verbleibende Gesch\u00e4ftsjahr beschlossen. Diese anhaltende maritime Umleitung hat die Transitzeiten f\u00fcr europ\u00e4ische Frachtnetzwerke dauerhaft ver\u00e4ndert. Verlader m\u00fcssen mit einer zus\u00e4tzlichen Transitzeit von zehn bis vierzehn Tagen kalkulieren.",
-                        "Die Reedereien f\u00fchren dynamische Treibstoffzuschl\u00e4ge ein, um die gestiegenen Verbrauchskosten auszugleichen. Der verl\u00e4ngerte Seetransport hat die weltweite Schiffsachfrage erh\u00f6ht und die verf\u00fcgbare Spotmarkt-Kapazit\u00e4t verringert. Die Treibstoffkosten auf der s\u00fcdafrikanischen Route sind um f\u00fcnfzehn Prozent gestiegen.",
-                        "Supply-Chain-Ingenieure passen die Sicherheitsbest\u00e4nde an, um das Risiko von Lieferengp\u00e4ssen zu minimieren. Importeure nutzen zunehmend intermodale Schienenverbindungen \u00fcber zentrale Landbr\u00fccken, um maritime Nadel\u00f6hre zu umgehen. Dieser Verkehrsverlagerungsprozess stabilisiert die Produktionszyklen von Industrieunternehmen mit hoher Wertsch\u00f6pfung."
+                        "Containerreedereien f\u00fchren angesichts eskalierender Spannungen im Nahen Osten eine neue Welle von Notfall-Bunkerzuschl\u00e4gen ein. Seefrachtf\u00fchrer sind mit steigenden Betriebskosten konfrontiert, da die Treibstoffpreise steigen und Schiffsumleitungen andauern. Diese Zuschl\u00e4ge werden sich direkt auf die vertraglichen Frachtraten auf den wichtigsten Transpazifik- und Asien-Europa-Routen auswirken.",
+                        "Trotz anhaltender Blockaden schicken einige Reedereien weiterhin Schiffe durch die kritische Meerenge Bab el-Mandeb. Diese risikoreichen Passagen erfordern spezielle Sicherheitsvorkehrungen und f\u00fchren zu erheblichen Steigerungen der Versicherungspr\u00e4mien. Globale Allianzfahrpl\u00e4ne bleiben stark fragmentiert, da Carrier die Sicherheitsrisiken gegen die Zuverl\u00e4ssigkeit ihrer Fahrpl\u00e4ne abw\u00e4gen m\u00fcssen.",
+                        "Ladungseigent\u00fcmer m\u00fcssen sich auf eine hohe Volatilit\u00e4t der Spotraten und schwankende Transitzeiten einstellen. Supply-Chain-Manager versuchen, alternative Hafengateways zu nutzen, um \u00fcberlastete Schifffahrtskorridore g\u00e4nzlich zu umgehen. Spediteure erwarten, dass diese Notfallzuschl\u00e4ge aktiv bleiben, bis die regionalen geopolitischen Spannungen nachlassen."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "EU: REFORMEN DES KABOTAGEGESETZES",
+                    "nextUpTease": "HALBLEITER: RESHORING-INITIATIVE",
                     "tags": [
                         "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
@@ -201,49 +233,17 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 5,
-                    "heading": "EU: REFORMEN DES KABOTAGEGESETZES",
-                    "points": [
-                        "Die Europ\u00e4ische Kommission hat strenge Durchsetzungsrichtlinien f\u00fcr den grenz\u00fcberschreitenden Kabotage-Stra\u00dfeng\u00fcterverkehr eingef\u00fchrt. Stra\u00dfentransportunternehmen m\u00fcssen die Ruhezeiten der Fahrer mithilfe der digitalen Protokolle des Smart Tachograph 2.0 nachweisen. Die Regulierungsbeh\u00f6rden wollen illegale Kabotage unterbinden und einen fairen Wettbewerb sichern.",
-                        "Nicht konforme Transportunternehmen m\u00fcssen mit hohen Geldstrafen und dem Entzug von Transportlizenzen rechnen. Disponenten m\u00fcssen regionale Verteilertouren mit akribischer betrieblicher Pr\u00e4zision planen. Die obligatorische Cooling-off-Periode schreibt vor, dass Lkw das Gastland nach drei Operationen verlassen m\u00fcssen.",
-                        "Europ\u00e4ische Logistikmanager gr\u00fcnden regionale Transportkooperationen, um die Auslastung grenz\u00fcberschreitender Flotten zu optimieren. Die Integration lokaler Frachtf\u00fchrer erm\u00f6glicht es Verladern, auch in Spitzenzeiten stabile Kapazit\u00e4ten zu sichern. Flottenbetreiber investieren in digitale Compliance-Plattformen, um Transportaudits zu vereinfachen."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "LUFTFRACHT: BLOCK SPACE AGREEMENTS",
-                    "tags": [
-                        "Source: https://www.joc.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 6,
-                    "heading": "LUFTFRACHT: BLOCK SPACE AGREEMENTS",
-                    "points": [
-                        "Globale Speditionen sichern sich mehrj\u00e4hrige Block Space Agreements auf stark frequentierten transpazifischen Luftfrachtrouten. Fast-Fashion-E-Commerce-Plattformen dominieren weiterhin die ausgehende Luftfrachtkapazit\u00e4t aus den gro\u00dfen asiatischen Produktionszentren. Diese konzentrierte Nachfrage hat die Spot-Luftfrachtraten auf Rekordh\u00f6ren getrieben.",
-                        "Traditionelle Elektronik- und Automobilhersteller haben Schwierigkeiten, wettbewerbsf\u00e4hige Charterfl\u00fcge zu finden. Luftfrachtgesellschaften priorisieren die margenstarke Fracht digitaler Plattformen gegen\u00fcber klassischen Industriefrachten. Logistikplaner m\u00fcssen langfristige Kapazit\u00e4tszusagen eingehen, um sich Laderaum dauerhaft zu sichern.",
-                        "Importeure verlagern dringende Sendungen auf sekund\u00e4re Regionalflugh\u00e4fen, um die \u00dcberlastung der gro\u00dfen Hubs zu umgehen. Diese Ausweichflugh\u00e4fen bieten schnellere Abfertigungszeiten und geringere Bearbeitungsgeb\u00fchren. Eine strategische Diversifizierung der Flugh\u00e4fen sichert die Liefergeschwindigkeit f\u00fcr zeitkritische Bauteile."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "US-OSTK\u00dcSTE: HAFEN-ARBEITSKONFLIKTE",
-                    "tags": [
-                        "Source: https://aircargonext.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
                     "id": 7,
-                    "heading": "US-OSTK\u00dcSTE: HAFEN-ARBEITSKONFLIKTE",
+                    "heading": "HALBLEITER: RESHORING-INITIATIVE",
                     "points": [
-                        "Die Tarifverhandlungen an den gro\u00dfen US-Ostk\u00fcstenh\u00e4fen sind beim Thema Terminal-Automatisierung in eine Sackgasse geraten. Hafenbetreiber und Gewerkschaften streiten \u00fcber die Grenzen des Einsatzes automatischer Containerumschlagsanlagen. Experten warnen, dass anhaltende Arbeitsk\u00e4mpfe zu massiven R\u00fcckstaus bei der Frachtabwicklung f\u00fchren k\u00f6nnen.",
-                        "Verlader leiten Importfrachten vorsorglich an die Westk\u00fcste oder in kanadische H\u00e4fen um. Diese pl\u00f6tzliche Volumenverlagerung treibt die intermodalen Bahntarife und die inl\u00e4ndischen Lkw-Kosten in die H\u00f6he. Hafen\u00fcberlastungsindizes zeigen bereits steigende Liegezeiten an den Ausweichh\u00e4fen der Westk\u00fcste.",
-                        "Supply-Chain-Verantwortliche implementieren flexible Port-of-Entry-Strategien, um die Risiken lokaler St\u00f6rungen zu minimieren. Durch die Diversifizierung der Entladeh\u00e4fen k\u00f6nnen Logistikteams dynamisch auf streikbedingte Schlie\u00dfungen reagieren. Die Transportbudgets der Unternehmen werden erh\u00f6ht, um ungeplante Notfallzuschl\u00e4ge abzufedern."
+                        "Ein f\u00fchrender Mikrochip-Hersteller hat zus\u00e4tzliche einhundert Milliarden Dollar f\u00fcr die Produktion in den Vereinigten Staaten zugesagt. Die staatliche F\u00f6rderinitiative wird den Bau von vier fortschrittlichen Halbleiter-Fabrikationsanlagen unterst\u00fctzen. Diese strategische Investition erh\u00f6ht die Gesamtzahl der geplanten Produktionsst\u00e4tten des Unternehmens im Land auf zw\u00f6lf.",
+                        "Das Projekt zielt darauf ab, eine \u00e4u\u00dferst widerstandsf\u00e4hige inl\u00e4ndische Lieferkette f\u00fcr kritische Technologiekomponenten aufzubauen. Regierungsbeh\u00f6rden kooperieren mit privaten Unternehmen, um die Verlagerung der fortschrittlichen Mikrochip-Montage ins Inland zu beschleunigen. Logistikdienstleister m\u00fcssen spezialisierte Reinraum-Transportkapazit\u00e4ten vorbereiten, um diese massiven inl\u00e4ndischen Bauprojekte zu unterst\u00fctzen.",
+                        "Die Expansion wird die langfristige Abh\u00e4ngigkeit von ausl\u00e4ndischen Chipproduktionsst\u00e4tten und Transportnetzen erheblich verringern. Branchenanalysten prognostizieren, dass dieser inl\u00e4ndische Produktionsschub die globalen Handelsstr\u00f6me f\u00fcr elektronische Bauteile ver\u00e4ndern wird. Technologie-Lieferketten werden von k\u00fcrzeren Durchlaufzeiten und gesch\u00fctzten inl\u00e4ndischen Produktionskorridoren profitieren."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.freightwaves.com",
+                        "Source: https://www.supplychaindive.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
@@ -253,37 +253,69 @@ const dailyData = {
         "fr": {
             "main": {
                 "kicker": "",
-                "titleWhite": "MUTATIONS LOGISTIQUES",
-                "titleBlue": "GLOBALES",
-                "footerSummary": "Le renforcement des contr\u00f4les r\u00e9glementaires et les r\u00e9ductions de capacit\u00e9 augmentent les risques logistiques."
+                "titleWhite": "PERTURBATION R\u00c9GLEMENTAIRE LOGISTIQUE",
+                "titleBlue": "CRITIQUE",
+                "footerSummary": "Des modifications r\u00e9glementaires strictes, des responsabilit\u00e9s de courtiers de plusieurs millions et des surcharges de carburant menacent les cha\u00eenes logistiques mondiales."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "CBP : RESSERREMENT SUR LE TYPE 86",
+                    "heading": "USTR: APPLICATION DES TARIFS",
                     "points": [
-                        "Les douanes am\u00e9ricaines ont intensifi\u00e9 les protocoles de conformit\u00e9 pour les d\u00e9clarations d'importation de type 86. Cette mise \u00e0 jour cible les cha\u00eenes d'approvisionnement e-commerce exploitant les exceptions de minimis pour \u00e9viter les frais standards. Les importateurs doivent d\u00e9sormais fournir les codes douaniers HTS et des donn\u00e9es d\u00e9taill\u00e9es sur les fabricants.",
-                        "Les cargaisons non conformes s'exposent \u00e0 des saisies imm\u00e9diates et \u00e0 des sanctions administratives dans les grands a\u00e9roports. Les commissionnaires agr\u00e9\u00e9s en douane adaptent leurs logiciels d'automatisation pour g\u00e9rer la hausse des validations. Les flux de donn\u00e9es doivent \u00eatre trait\u00e9s en temps r\u00e9el pour \u00e9viter les frais de surestaries.",
-                        "Les concepteurs de cha\u00eenes logistiques abandonnent l'envoi direct de colis a\u00e9riens pour contourner les taux d'inspection \u00e9lev\u00e9s. Les marchands \u00e0 fort volume \u00e9tablissent des hubs de consolidation secondaires dans des zones franches. Ce changement strat\u00e9gique permet de traiter les flux de masse sous des r\u00e9gimes douaniers classiques."
+                        "Le bureau du repr\u00e9sentant commercial des \u00c9tats-Unis applique de nouveaux tarifs douaniers de la Section 301 ciblant soixante partenaires commerciaux. Cette r\u00e9forme r\u00e9glementaire co\u00efncide directement avec l'expiration des droits de douane existants de la Section 122 ce vendredi. Les importateurs doivent imm\u00e9diatement auditer leurs cha\u00eenes d'approvisionnement pour identifier leur exposition \u00e0 ces nouvelles taxes.",
+                        "Ces tarifs strat\u00e9giques imposent des droits de douane de dix ou de douze virgule cinq pour cent sur les cargaisons import\u00e9es. Cette mesure f\u00e9d\u00e9rale vise \u00e0 \u00e9liminer la d\u00e9pendance de la cha\u00eene logistique envers le travail forc\u00e9 dans les r\u00e9seaux manufacturiers mondiaux. Les douanes et la protection des fronti\u00e8res appliqueront des proc\u00e9dures strictes de v\u00e9rification de l'origine \u00e0 tous les ports d'entr\u00e9e.",
+                        "Les leaders de l'industrie pr\u00e9viennent d'une augmentation imm\u00e9diate des co\u00fbts de revient d\u00e9barqu\u00e9s pour divers biens de consommation. Les services d'achats doivent r\u00e9\u00e9valuer les contrats de fourniture pour att\u00e9nuer l'exposition financi\u00e8re soudaine sous ce nouveau cadre fiscal. Des recours juridiques s'organisent d\u00e9j\u00e0 alors que des associations professionnelles r\u00e9clament des remboursements et la suppression des tarifs."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "FMC : SURVEILLANCE DES BLANK SAILINGS",
+                    "nextUpTease": "DOUANE US: FIN DU DE MINIMIS",
                     "tags": [
-                        "Source: https://www.cbp.gov",
+                        "Source: https://www.supplychaindive.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "FMC : SURVEILLANCE DES BLANK SAILINGS",
+                    "heading": "DOUANE US: FIN DU DE MINIMIS",
                     "points": [
-                        "La Federal Maritime Commission a lanc\u00e9 une enqu\u00eate approfondie sur les blank sailings sur les grandes routes mondiales. Les transporteurs maritimes imposent des restrictions de capacit\u00e9 pour stabiliser les taux de fret lors des baisses saisonni\u00e8res. Les op\u00e9rateurs de terminaux pr\u00e9viennent que ces perturbations entra\u00eenent des congestions portuaires majeures.",
-                        "Sous les nouvelles r\u00e8gles maritimes, les compagnies doivent d\u00e9clarer les annulations de travers\u00e9es au moins quatorze jours \u00e0 l'avance. Les alliances maritimes s'exposent \u00e0 de lourdes sanctions en cas de d\u00e9faut d'information des chargeurs. Cette r\u00e9forme vise \u00e0 garantir la transparence des r\u00e9servations sur le r\u00e9seau transp\u00e9cifique.",
-                        "Les directeurs logistiques r\u00e9orientent leurs contrats vers des commissionnaires de transport ind\u00e9pendants et des NVOCC r\u00e9gionaux. S\u00e9curiser les allocations d'\u00e9quipements est devenu la priorit\u00e9 absolue des chargeurs industriels \u00e0 gros volumes. Diversifier les transporteurs permet de r\u00e9duire la d\u00e9pendance envers les r\u00e9servations des grandes alliances."
+                        "L'\u00e9limination de l'exon\u00e9ration De Minimis de huit cents dollars a plong\u00e9 les grandes plateformes de fast-fashion dans des pertes financi\u00e8res significatives. Les exp\u00e9ditions de commerce \u00e9lectronique directes aux consommateurs en provenance de l'\u00e9tranger sont d\u00e9sormais soumises aux frais et droits de douane standards. Ce changement r\u00e9glementaire perturbe les mod\u00e8les d'exp\u00e9dition \u00e0 bas co\u00fbt des places de march\u00e9 transfrontali\u00e8res mondiales.",
+                        "Les autorit\u00e9s f\u00e9d\u00e9rales ont promulgu\u00e9 cette politique pour corriger les d\u00e9s\u00e9quilibres commerciaux et combler les lacunes fiscales structurelles. Les volumes d'importation de petits colis devraient chuter de mani\u00e8re significative en raison de l'augmentation des frictions transactionnelles. Les prestataires logistiques doivent restructurer leurs hubs de traitement pour g\u00e9rer des augmentations massives de d\u00e9clarations douani\u00e8res formelles.",
+                        "Les co\u00fbts de conformit\u00e9 vont augmenter \u00e0 mesure que les vendeurs en ligne s'adaptent \u00e0 ces cadres complexes de v\u00e9rification. Les exp\u00e9diteurs doivent d\u00e9ployer des technologies de classification avanc\u00e9es pour automatiser le calcul des tarifs au point de vente. Les analystes pr\u00e9viennent que les consommateurs finiront par absorber ces d\u00e9penses r\u00e9glementaires \u00e0 travers des augmentations de prix."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "AMAZON : SURTAXES SUR LES STOCKS",
+                    "nextUpTease": "COURTIERS 3PL: VERDICT DE RESPONSABILIT\u00c9",
+                    "tags": [
+                        "Source: https://www.supplychainbrain.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "heading": "COURTIERS 3PL: VERDICT DE RESPONSABILIT\u00c9",
+                    "points": [
+                        "Un jury du Texas a rendu un verdict historique de six cent quatre millions de dollars contre un grand prestataire logistique. Cette affaire historique met en \u00e9vidence les responsabilit\u00e9s massives associ\u00e9es \u00e0 la s\u00e9lection n\u00e9gligente de transporteurs dans le secteur du courtage. Ce jugement \u00e9tablit un pr\u00e9c\u00e9dent juridique tr\u00e8s dangereux pour les interm\u00e9diaires de transport sans actifs dans tout le pays.",
+                        "La d\u00e9cision judiciaire souligne la n\u00e9cessit\u00e9 absolue d'une v\u00e9rification rigoureuse de la s\u00e9curit\u00e9 et de protocoles de contr\u00f4le de la conformit\u00e9. Les courtiers de fret ne peuvent plus se fier uniquement aux notations de s\u00e9curit\u00e9 f\u00e9d\u00e9rales de base lors de la sous-traitance. Les experts du secteur pr\u00e9viennent que les pratiques de conformit\u00e9 des transporteurs doivent \u00e9voluer imm\u00e9diatement pour \u00e9viter des risques juridiques catastrophiques.",
+                        "Les cours des actions des soci\u00e9t\u00e9s de courtage ont imm\u00e9diatement chut\u00e9 alors que les investisseurs \u00e9valuent l'exposition globale de l'industrie. Les chargeurs exigent de plus en plus des syst\u00e8mes de v\u00e9rification automatis\u00e9s et des r\u00e9visions de contrats pour se prot\u00e9ger de toute co-responsabilit\u00e9. Les primes d'assurance pour les entreprises logistiques tierces devraient augmenter consid\u00e9rablement \u00e0 la suite de cette d\u00e9cision de justice."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "FMC: R\u00c8GLE DE FACTURATION CONFIRM\u00c9E",
+                    "tags": [
+                        "Source: https://www.freightwaves.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "heading": "FMC: R\u00c8GLE DE FACTURATION CONFIRM\u00c9E",
+                    "points": [
+                        "La Cour d'appel des \u00c9tats-Unis a officiellement confirm\u00e9 la d\u00e9cision de facturation de la Federal Maritime Commission. La d\u00e9cision judiciaire stipule que les frais de d\u00e9tention et de surestaries doivent promouvoir activement la fluidit\u00e9 du fret dans les terminaux maritimes. Les transporteurs maritimes doivent d\u00e9sormais s'assurer que leurs pratiques de facturation s'alignent strictement sur ces normes nouvellement v\u00e9rifi\u00e9es.",
+                        "Cette victoire juridique pour les chargeurs limite les pratiques de facturation abusives pendant les p\u00e9riodes de grave congestion portuaire. La Federal Maritime Commission est habilit\u00e9e \u00e0 p\u00e9naliser les transporteurs maritimes qui ne parviennent pas \u00e0 \u00e9mettre des factures conformes. Les op\u00e9rateurs de terminaux maritimes doivent ajuster leurs syst\u00e8mes de suivi op\u00e9rationnel pour \u00e9viter des \u00e9valuations de frais ill\u00e9gales.",
+                        "Les importateurs et exportateurs obtiennent une influence importante pour contester les frais de stockage de conteneurs injustifi\u00e9s. Ce soutien judiciaire s\u00e9curise la mise en \u0153uvre des directives de la loi historique sur la r\u00e9forme du transport maritime. Les \u00e9quipes de conformit\u00e9 des transporteurs doivent mener des audits imm\u00e9diats des donn\u00e9es de facturation historiques pour minimiser les p\u00e9nalit\u00e9s."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "USPS: HAUSSE DES TARIFS E-COMMERCE",
                     "tags": [
                         "Source: https://www.fmc.gov",
                         "Published: Last 48 Hours",
@@ -291,15 +323,15 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 3,
-                    "heading": "AMAZON : SURTAXES SUR LES STOCKS",
+                    "id": 5,
+                    "heading": "USPS: HAUSSE DES TARIFS E-COMMERCE",
                     "points": [
-                        "Amazon a mis \u00e0 jour ses r\u00e8gles d'exp\u00e9dition multi-canal en imposant des seuils stricts de rotation des stocks. Les vendeurs tiers font face \u00e0 des frais de stockage accrus pour les unit\u00e9s d\u00e9passant les limites de conservation. La plateforme cherche \u00e0 acc\u00e9l\u00e9rer la rotation des stocks pour maximiser l'efficacit\u00e9 de ses centres.",
-                        "Les marques d'e-commerce transfrontalier doivent optimiser leurs r\u00e9seaux de distribution pour r\u00e9duire les d\u00e9lais de r\u00e9ception. L'int\u00e9gration de logiciels de pr\u00e9vision de la demande est devenue indispensable pour la gestion op\u00e9rationnelle. Tout manquement aux objectifs de distribution se traduit par une baisse de la visibilit\u00e9 organique.",
-                        "Les prestataires logistiques d\u00e9veloppent des r\u00e9seaux de contournement pour stocker les surplus de marchandises des vendeurs. Des entrep\u00f4ts tiers synchronisent la pr\u00e9paration des commandes multicanales gr\u00e2ce \u00e0 des int\u00e9grations d'API d\u00e9di\u00e9es. Cette approche permet aux e-commer\u00e7ants de contourner les frais de stockage de longue dur\u00e9e d'Amazon."
+                        "Le service postal des \u00c9tats-Unis a mis en \u0153uvre des augmentations de tarifs imm\u00e9diates pour les services d'exp\u00e9dition Ground Advantage. Les vendeurs des places de march\u00e9 en ligne font face \u00e0 une \u00e9rosion de leurs marges car les co\u00fbts postaux augmentent sans pr\u00e9avis. Ces modifications ciblent sp\u00e9cifiquement les colis l\u00e9gers largement utilis\u00e9s par les d\u00e9taillants num\u00e9riques \u00e0 travers le pays.",
+                        "L'exp\u00e9dition d'articles l\u00e9gers vers des zones rurales entra\u00eenera d\u00e9sormais un suppl\u00e9ment de deux \u00e0 trois dollars. Ce changement de tarification est con\u00e7u pour compenser les co\u00fbts op\u00e9rationnels croissants des r\u00e9seaux de livraison ruraux. Les plateformes de commerce \u00e9lectronique avertissent les vendeurs d'ajuster leurs mod\u00e8les d'exp\u00e9dition pour \u00e9viter des pertes financi\u00e8res directes.",
+                        "Les propri\u00e9taires de petites entreprises doivent r\u00e9\u00e9valuer leur s\u00e9lection de transporteurs pour identifier des alternatives de traitement r\u00e9gionales rentables. Les vendeurs multicanaux ajustent leurs prix de vente ou r\u00e9duisent les promotions de livraison gratuite pour absorber ces hausses. Les prestataires logistiques tiers constatent une augmentation de la demande pour des solutions d'exp\u00e9dition locales consolid\u00e9es."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "CANAL DE SUEZ : D\u00c9VIATIONS ET SURCHARGES",
+                    "nextUpTease": "TRANSPORTEURS MARITIMES: SURCHARGES BUNKER",
                     "tags": [
                         "Source: https://www.ecommercebytes.com",
                         "Published: Last 48 Hours",
@@ -307,15 +339,15 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 4,
-                    "heading": "CANAL DE SUEZ : D\u00c9VIATIONS ET SURCHARGES",
+                    "id": 6,
+                    "heading": "TRANSPORTEURS MARITIMES: SURCHARGES BUNKER",
                     "points": [
-                        "Les transporteurs maritimes ont p\u00e9rennis\u00e9 les d\u00e9viations par le cap de Bonne-Esp\u00e9rance pour le reste de l'ann\u00e9e. Cette modification structurelle alt\u00e8re durablement les pr\u00e9visions de transit des r\u00e9seaux logistiques europ\u00e9ens. Les chargeurs doivent d\u00e9sormais int\u00e9grer un d\u00e9lai suppl\u00e9mentaire de dix \u00e0 quatorze jours de mer.",
-                        "Les compagnies maritimes appliquent des surcharges de carburant dynamiques pour couvrir la hausse de la consommation. L'allongement des trajets a accru la demande mondiale de navires, r\u00e9duisant la capacit\u00e9 disponible sur le march\u00e9 spot. Le co\u00fbt du carburant a augment\u00e9 de quinze pour cent sur la route sud-africaine.",
-                        "Les ing\u00e9nieurs logistiques ajustent les stocks de s\u00e9curit\u00e9 pour limiter le risque de rupture de cha\u00eene d'approvisionnement. Les importateurs recourent davantage aux liaisons ferroviaires intermodales via les corridors terrestres pour \u00e9viter les goulots maritimes. Ce report modal permet de stabiliser les flux de production des fabricants industriels."
+                        "Les compagnies maritimes de conteneurs introduisent une nouvelle vague de surcharges de carburant d'urgence en raison de l'escalade des tensions au Moyen-Orient. Les transporteurs font face \u00e0 des co\u00fbts d'exploitation croissants alors que les prix du carburant grimpent et que les d\u00e9viations de routes se poursuivent. Ces surcharges affecteront directement les taux de fret contractuels sur les principales liaisons transpacifiques et Asie-Europe.",
+                        "Malgr\u00e9 les blocus en cours, certains transporteurs continuent d'envoyer des navires \u00e0 travers le d\u00e9troit critique de Bab el-Mandeb. Ces transits \u00e0 haut risque n\u00e9cessitent des protocoles de s\u00e9curit\u00e9 sp\u00e9cialis\u00e9s et entra\u00eenent des augmentations importantes des primes d'assurance. Les calendriers des alliances mondiales restent tr\u00e8s fragment\u00e9s car les transporteurs \u00e9valuent les risques de s\u00e9curit\u00e9 face \u00e0 la fiabilit\u00e9 des horaires.",
+                        "Les propri\u00e9taires de cargaisons doivent se pr\u00e9parer \u00e0 une forte volatilit\u00e9 des taux spot et \u00e0 des temps de transit fluctuants. Les gestionnaires de la cha\u00eene d'approvisionnement cherchent \u00e0 diversifier les ports d'entr\u00e9e pour \u00e9viter compl\u00e8tement les couloirs maritimes surcharg\u00e9s. Les transitaires s'attendent \u00e0 ce que ces surcharges d'urgence restent actives jusqu'\u00e0 ce que les hostilit\u00e9s g\u00e9opolitiques r\u00e9gionales s'apaisent."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "UE : R\u00c9FORME DES LOIS SUR LE CABOTAGE",
+                    "nextUpTease": "SEMI-CONDUCTEURS: INITIATIVE DE RELOCALISATION",
                     "tags": [
                         "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
@@ -323,49 +355,17 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 5,
-                    "heading": "UE : R\u00c9FORME DES LOIS SUR LE CABOTAGE",
-                    "points": [
-                        "La Commission europ\u00e9enne a mis en place des contr\u00f4les stricts sur le cabotage routier de marchandises transfrontalier. Les transporteurs routiers doivent justifier des temps de repos via les donn\u00e9es du chronotachygraphe intelligent 2.0. Les agences de r\u00e9gulation entendent \u00e9liminer le cabotage ill\u00e9gal et pr\u00e9server une concurrence \u00e9quitable.",
-                        "Les entreprises de transport non conformes s'exposent \u00e0 de lourdes amendes et au retrait de leurs licences d'exploitation. Les exploitants doivent planifier les tourn\u00e9es de distribution r\u00e9gionale avec une extr\u00eame rigueur logistique. La p\u00e9riode de carence obligatoire impose aux camions de quitter le pays d'accueil apr\u00e8s trois op\u00e9rations.",
-                        "Les logisticiens europ\u00e9ens structurent des coop\u00e9ratives de transport r\u00e9gionales pour optimiser l'usage des flottes transfrontali\u00e8res. Int\u00e9grer des transporteurs locaux permet de maintenir des capacit\u00e9s r\u00e9guli\u00e8res pendant les p\u00e9riodes de forte activit\u00e9. Les flottes investissent dans des plateformes de conformit\u00e9 num\u00e9rique pour faciliter les audits."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "FRET A\u00c9RIEN : CONTRATS DE BLOCK SPACE",
-                    "tags": [
-                        "Source: https://www.joc.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 6,
-                    "heading": "FRET A\u00c9RIEN : CONTRATS DE BLOCK SPACE",
-                    "points": [
-                        "Les transitaires mondiaux signent des accords de block space pluriannuels sur les liaisons transp\u00e9cifiques \u00e0 forte demande. Les plateformes de fast-fashion continuent de saturer les capacit\u00e9s de fret a\u00e9rien au d\u00e9part des usines asiatiques. Cette concentration de la demande maintient les taux de fret spot a\u00e9riens \u00e0 des niveaux records.",
-                        "Les fabricants industriels d'\u00e9lectronique et d'automobile peinent \u00e0 trouver des vols charters comp\u00e9titifs sur le march\u00e9. Les compagnies a\u00e9riennes privil\u00e9gient les cargaisons e-commerce \u00e0 forte rentabilit\u00e9 par rapport aux volumes industriels. Les planificateurs doivent s'engager sur le long terme pour s'assurer un acc\u00e8s garanti \u00e0 l'espace soute.",
-                        "Les importateurs redirigent leurs flux urgents vers des a\u00e9roports r\u00e9gionaux secondaires pour contourner la saturation des hubs. Ces plateformes alternatives offrent des temps de traitement au sol plus courts et des co\u00fbts op\u00e9rationnels r\u00e9duits. Cette diversification permet de maintenir la vitesse de livraison des composants critiques."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "USA : CONFLITS SOCIAUX PORTUAIRES",
-                    "tags": [
-                        "Source: https://aircargonext.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
                     "id": 7,
-                    "heading": "USA : CONFLITS SOCIAUX PORTUAIRES",
+                    "heading": "SEMI-CONDUCTEURS: INITIATIVE DE RELOCALISATION",
                     "points": [
-                        "Les n\u00e9gociations collectives dans les ports de la c\u00f4te Est am\u00e9ricaine butent sur la question de l'automatisation. Les op\u00e9rateurs de terminaux et les syndicats s'opposent sur les limites d'exploitation des portiques automatiques. Les experts du secteur alertent sur le fait que des gr\u00e8ves prolong\u00e9es provoqueraient d'importants retards de livraison.",
-                        "Les chargeurs anticipent les blocages en d\u00e9routant leurs marchandises vers les ports de la c\u00f4te Ouest ou du Canada. Ce report soudain de trafic pousse \u00e0 la hausse les tarifs ferroviaires intermodaux et le transport routier int\u00e9rieur. Les indicateurs de congestion signalent d\u00e9j\u00e0 une augmentation des temps d'attente \u00e0 l'Ouest.",
-                        "Les directions logistiques adoptent des plans de transport flexibles pour att\u00e9nuer l'impact des fermetures portuaires locales. R\u00e9partir les points d'entr\u00e9e permet aux \u00e9quipes logistiques de s'adapter en temps r\u00e9el aux mouvements sociaux. Les budgets de transport int\u00e8grent d\u00e9sormais des provisions pour couvrir les surcharges d'urgence."
+                        "Un leader de la fabrication de puces \u00e9lectroniques a engag\u00e9 cent milliards de dollars suppl\u00e9mentaires pour la production aux \u00c9tats-Unis. Cette initiative de financement f\u00e9d\u00e9ral soutiendra la construction de quatre installations de fabrication de semi-conducteurs de pointe. Cet investissement strat\u00e9gique porte \u00e0 douze le nombre total d'installations op\u00e9rationnelles pr\u00e9vues par l'organisation dans le pays.",
+                        "Le projet vise \u00e0 \u00e9tablir une cha\u00eene d'approvisionnement nationale hautement r\u00e9siliente pour les composants technologiques critiques. Les agences gouvernementales s'associent \u00e0 des entit\u00e9s priv\u00e9es pour acc\u00e9l\u00e9rer la relocalisation de l'assemblage de puces avanc\u00e9es. Les prestataires logistiques doivent pr\u00e9parer des capacit\u00e9s de transport sp\u00e9cialis\u00e9es en salle blanche pour soutenir ces chantiers de construction nationaux massifs.",
+                        "Cette expansion r\u00e9duira consid\u00e9rablement la d\u00e9pendance \u00e0 long terme vis-\u00e0-vis des sites de production et des r\u00e9seaux de transit \u00e9trangers. Les analystes pr\u00e9disent que cet essor de la fabrication locale remodelera les flux commerciaux mondiaux de composants \u00e9lectroniques. Les cha\u00eenes d'approvisionnement technologiques b\u00e9n\u00e9ficieront de d\u00e9lais d'ex\u00e9cution r\u00e9duits et de couloirs de production nationaux prot\u00e9g\u00e9s."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.freightwaves.com",
+                        "Source: https://www.supplychaindive.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
@@ -375,37 +375,69 @@ const dailyData = {
         "es": {
             "main": {
                 "kicker": "",
-                "titleWhite": "CAMBIOS LOG\u00cdSTICOS",
-                "titleBlue": "GLOBALES",
-                "footerSummary": "El aumento de auditor\u00edas regulatorias y reducciones de capacidad elevan los riesgos log\u00edsticos globales."
+                "titleWhite": "DISRUPCI\u00d3N REGULATORIA LOG\u00cdSTICA",
+                "titleBlue": "CR\u00cdTICA",
+                "footerSummary": "Graves cambios regulatorios, responsabilidades multimillonarias de intermediarios y crecientes recargos por combustible amenazan los m\u00e1rgenes en las redes log\u00edsticas globales."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "CBP: RESTRICCIONES EN IMPORTACIONES TIPO 86",
+                    "heading": "USTR: IMPLEMENTACI\u00d3N DE ARANCELES",
                     "points": [
-                        "La Oficina de Aduanas y Protecci\u00f3n Fronteriza de EE. UU. ha endurecido los requisitos de cumplimiento para transacciones Tipo 86. Esta medida regulatoria apunta a frenar el uso fraudulento de exenciones de minimis en env\u00edos de comercio electr\u00f3nico. Los importadores deben declarar de forma obligatoria los c\u00f3digos HTS y datos de fabricaci\u00f3n.",
-                        "Los cargamentos que no cumplan con estas normas se exponen a incautaciones y multas en los principales aeropuertos de entrada. Los agentes de aduanas est\u00e1n actualizando sus sistemas inform\u00e1ticos para procesar el aumento en las validaciones de datos. Los flujos de informaci\u00f3n deben transmitirse en tiempo real para evitar demoras y recargos.",
-                        "Los dise\u00f1adores de cadenas de suministro est\u00e1n reduciendo los env\u00edos a\u00e9reos directos al consumidor final para evitar las altas tasas de inspecci\u00f3n. Las empresas con gran volumen de ventas prefieren abrir centros de consolidaci\u00f3n en zonas francas comerciales. Esta estrategia permite procesar las mercanc\u00edas bajo reg\u00edmenes de importaci\u00f3n est\u00e1ndar."
+                        "La Oficina del Representante Comercial de los Estados Unidos est\u00e1 implementando aranceles de la Secci\u00f3n 301 dirigidos a sesenta socios comerciales. Esta reforma regulatoria coincide directamente con la expiraci\u00f3n de los aranceles de importaci\u00f3n de la Secci\u00f3n 122 este viernes. Los importadores deben auditar de inmediato sus cadenas de suministro para identificar la exposici\u00f3n a estos nuevos grav\u00e1menes.",
+                        "Estos aranceles estrat\u00e9gicos imponen un impuesto del diez o del doce coma cinco por ciento a los cargamentos entrantes. La medida federal tiene como objetivo eliminar la dependencia de la cadena de suministro del trabajo forzado en las redes de fabricaci\u00f3n globales. La Oficina de Aduanas y Protecci\u00f3n Fronteriza aplicar\u00e1 procedimientos estrictos de verificaci\u00f3n de origen en todos los puertos de entrada.",
+                        "Los l\u00edderes de la industria advierten de incrementos inmediatos en los costos totales en destino para diversos bienes de consumo. Los departamentos de compras deben renegociar los acuerdos con proveedores para mitigar la repentina exposici\u00f3n financiera bajo este nuevo marco tributario. Ya se est\u00e1n presentando recursos legales de grupos comerciales que buscan reembolsos y la eliminaci\u00f3n de los aranceles."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "FMC: INVESTIGACI\u00d3N DE BLANK SAILINGS",
+                    "nextUpTease": "ADUANAS EE.UU.: FIN DE DE MINIMIS",
                     "tags": [
-                        "Source: https://www.cbp.gov",
+                        "Source: https://www.supplychaindive.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "FMC: INVESTIGACI\u00d3N DE BLANK SAILINGS",
+                    "heading": "ADUANAS EE.UU.: FIN DE DE MINIMIS",
                     "points": [
-                        "La Comisi\u00f3n Mar\u00edtima Federal ha iniciado una investigaci\u00f3n formal sobre el uso de blank sailings en rutas comerciales cr\u00edticas. Las navieras aplican recortes de capacidad para frenar la ca\u00edda de las tarifas de fletes ante la baja demanda estacional. Los operadores portuarios advierten que la falta de previsi\u00f3n de los buques est\u00e1 saturando las terminales.",
-                        "Las nuevas normas mar\u00edtimas obligan a las navieras a comunicar cualquier cancelaci\u00f3n de ruta con al menos catorce d\u00edas de antelaci\u00f3n. Las alianzas mar\u00edtimas se enfrentan a sanciones si no notifican debidamente las cancelaciones a los propietarios de carga. Esta medida busca recuperar la transparencia en las reservas del mercado transpac\u00edfero.",
-                        "Los directores de log\u00edstica est\u00e1n derivando parte de sus cargas contractuales hacia operadores NVOCC regionales independientes. Asegurar el acceso a contenedores y espacio f\u00edsico es la prioridad de compra de los importadores de gran escala. La diversificaci\u00f3n de navieras disminuye la dependencia directa de las reservas en bloque de las alianzas."
+                        "La eliminaci\u00f3n de la exenci\u00f3n De Minimis de ochocientos d\u00f3lares ha provocado p\u00e9rdidas financieras significativas en las grandes plataformas de fast-fashion. Los env\u00edos de comercio electr\u00f3nico directos al consumidor procedentes del extranjero ahora est\u00e1n sujetos a tarifas y aranceles de procesamiento aduanero est\u00e1ndar. Este cambio regulatorio interrumpe los modelos de env\u00edo de bajo costo de los mercados transfronterizos globales.",
+                        "Las autoridades federales han promulgado esta pol\u00edtica para corregir los desequilibrios comerciales y cerrar los vac\u00edos fiscales estructurales. Se proyecta que los vol\u00famenes de importaci\u00f3n de paquetes peque\u00f1os disminuyan de manera significativa debido al aumento de las fricciones transaccionales. Los proveedores log\u00edsticos deben reestructurar sus centros de procesamiento para gestionar incrementos masivos en las declaraciones aduaneras formales.",
+                        "Los costos de cumplimiento aumentar\u00e1n a medida que los vendedores en l\u00ednea se adapten a estos marcos complejos de verificaci\u00f3n. Los transportistas deben desplegar tecnolog\u00edas de clasificaci\u00f3n avanzadas para automatizar el c\u00e1lculo de tarifas en el punto de venta. Los analistas advierten que los consumidores absorber\u00e1n finalmente estos gastos de cumplimiento regulatorio a trav\u00e9s de precios de venta m\u00e1s altos."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "AMAZON: RECARGOS POR ALMACENAMIENTO",
+                    "nextUpTease": "CORREDORES 3PL: VERDICTO DE RESPONSABILIDAD",
+                    "tags": [
+                        "Source: https://www.supplychainbrain.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 3,
+                    "heading": "CORREDORES 3PL: VERDICTO DE RESPONSABILIDAD",
+                    "points": [
+                        "Un jurado de Texas ha emitido un veredicto nuclear de seiscientos cuatro millones de d\u00f3lares contra un importante proveedor log\u00edstico. Este caso hist\u00f3rico resalta las enormes responsabilidades asociadas con la selecci\u00f3n negligente de transportistas en el sector del corretaje de carga. Esta sentencia establece un precedente legal sumamente peligroso para los intermediarios de transporte sin activos de todo el pa\u00eds.",
+                        "La decisi\u00f3n judicial enfatiza la necesidad cr\u00edtica de realizar auditor\u00edas de seguridad rigurosas y protocolos de control de cumplimiento. Los corredores de carga ya no pueden confiar exclusivamente en las calificaciones b\u00e1sicas de seguridad del gobierno al subcontratar transportistas. Los expertos del sector advierten que las pr\u00e1cticas de cumplimiento de las navieras y camioneras deben evolucionar inmediatamente para evitar riesgos legales.",
+                        "Los precios de las acciones de los intermediarios de carga sufrieron ca\u00eddas inmediatas mientras los inversores eval\u00faan la exposici\u00f3n general del sector. Los cargadores exigen cada vez m\u00e1s sistemas de verificaci\u00f3n automatizados y revisiones contractuales para protegerse de la responsabilidad solidaria. Se prev\u00e9 que las primas de seguros para las empresas de log\u00edstica de terceros aumenten sustancialmente tras este fallo."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "FMC: REGLA DE FACTURACI\u00d3N RATIFICADA",
+                    "tags": [
+                        "Source: https://www.freightwaves.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "heading": "FMC: REGLA DE FACTURACI\u00d3N RATIFICADA",
+                    "points": [
+                        "El Tribunal de Apelaciones de los Estados Unidos ha ratificado oficialmente la decisi\u00f3n regulatoria de la Federal Maritime Commission. El fallo judicial exige que las tarifas de demora y detenci\u00f3n promuevan activamente la fluidez de la carga en las terminales marinas. Las navieras ahora deben garantizar que sus pr\u00e1cticas de facturaci\u00f3n se alineen estrictamente con estos est\u00e1ndares recientemente verificados.",
+                        "Esta victoria legal para los cargadores limita las pr\u00e1cticas de facturaci\u00f3n abusivas durante per\u00edodos de grave congesti\u00f3n portuaria. La Federal Maritime Commission est\u00e1 facultada para penalizar a las navieras que no emitan facturas de flete que cumplan las normas. Los operadores de terminales marinas deben ajustar sus sistemas de seguimiento operativo para evitar cobros de tarifas ilegales.",
+                        "Los importadores y exportadores obtienen una influencia significativa al disputar tarifas injustificadas de almacenamiento de contenedores y equipos. Este respaldo judicial asegura la implementaci\u00f3n de las directrices de la hist\u00f3rica ley de reforma del transporte mar\u00edtimo. Los equipos de cumplimiento de las navieras deben realizar auditor\u00edas inmediatas de la facturaci\u00f3n hist\u00f3rica para minimizar las multas."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "USPS: ALZA DE TARIFAS DE COMERCIO ELECTR\u00d3NICO",
                     "tags": [
                         "Source: https://www.fmc.gov",
                         "Published: Last 48 Hours",
@@ -413,15 +445,15 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 3,
-                    "heading": "AMAZON: RECARGOS POR ALMACENAMIENTO",
+                    "id": 5,
+                    "heading": "USPS: ALZA DE TARIFAS DE COMERCIO ELECTR\u00d3NICO",
                     "points": [
-                        "Amazon ha endurecido las directrices de su servicio multi-canal imponiendo l\u00edmites estrictos de permanencia de inventario. Los vendedores externos afrontan tarifas de almacenamiento elevadas si sus productos superan los tiempos de rotaci\u00f3n estacionales. La plataforma busca forzar una salida r\u00e1pida de las mercanc\u00edas para optimizar sus centros de distribuci\u00f3n.",
-                        "Las marcas de comercio electr\u00f3nico transfronterizo deben redise\u00f1ar sus redes de reparto para acelerar la entrada de productos. Contar con programas inform\u00e1ticos de previsi\u00f3n de la demanda es ya un requisito indispensable para los vendedores. No cumplir con las metas de rotaci\u00f3n penaliza la visibilidad de los art\u00edculos en la web.",
-                        "Los operadores log\u00edsticos est\u00e1n creando redes de almacenamiento alternativas para gestionar el exceso de stock de los vendedores. Centros de distribuci\u00f3n independientes coordinan la entrega de pedidos multicanal mediante la integraci\u00f3n de sistemas de API. Esta v\u00eda ayuda a los minoristas a eludir los altos costes de almacenamiento de Amazon."
+                        "El Servicio Postal de los Estados Unidos ha implementado incrementos tarifarios inmediatos para los servicios de env\u00edo Ground Advantage. Los vendedores de los mercados en l\u00ednea enfrentan una erosi\u00f3n inmediata de m\u00e1rgenes ya que las tarifas aumentan sin previo aviso. Estos cambios se dirigen espec\u00edficamente a paquetes ligeros utilizados ampliamente por los minoristas digitales en todo el pa\u00eds.",
+                        "El env\u00edo de art\u00edculos ligeros a ubicaciones rurales ahora incurrir\u00e1 en un recargo adicional de dos a tres d\u00f3lares. Este cambio de tarifas est\u00e1 dise\u00f1ado para compensar los crecientes costos operativos de las redes de entrega rural. Las plataformas de comercio electr\u00f3nico advierten a los vendedores que ajusten sus plantillas de env\u00edo para evitar p\u00e9rdidas directas.",
+                        "Los propietarios de peque\u00f1as empresas deben reevaluar su combinaci\u00f3n de transportistas para identificar alternativas regionales rentables de distribuci\u00f3n. Los vendedores omnicanal est\u00e1n ajustando los precios minoristas o reduciendo las promociones de env\u00edo gratuito para absorber estas alzas. Los proveedores log\u00edsticos de terceros experimentan una mayor demanda de soluciones de consolidaci\u00f3n de env\u00edos locales alternativos."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "CANAL DE SUEZ: DESV\u00cdOS Y RECARGOS",
+                    "nextUpTease": "NAVIERAS: RECARGOS POR COMBUSTIBLE",
                     "tags": [
                         "Source: https://www.ecommercebytes.com",
                         "Published: Last 48 Hours",
@@ -429,15 +461,15 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 4,
-                    "heading": "CANAL DE SUEZ: DESV\u00cdOS Y RECARGOS",
+                    "id": 6,
+                    "heading": "NAVIERAS: RECARGOS POR COMBUSTIBLE",
                     "points": [
-                        "Las l\u00edneas navieras globales mantendr\u00e1n los desv\u00edos fijos por el cabo de Buena Esperanza durante el resto del a\u00f1o fiscal. Esta medida ha modificado por completo las previsiones de tiempo de tr\u00e1nsito para las cadenas log\u00edsticas europeas. Los cargadores deben asumir entre diez y catorce d\u00edas adicionales en los tiempos de viaje mar\u00edtimo.",
-                        "Las navieras aplican recargos din\u00e1micos por combustible para compensar el mayor consumo de los buques en tr\u00e1nsito. El desv\u00edo prolongado de las rutas ha absorbido la oferta de barcos, reduciendo el espacio disponible en el mercado spot. El gasto en combustible mar\u00edtimo se ha incrementado un quince por ciento en la ruta africana.",
-                        "Los analistas de la cadena de suministro est\u00e1n elevando los stocks de seguridad para evitar paros por falta de material. Los importadores recurren cada vez m\u00e1s al transporte ferroviario intermodal a trav\u00e9s de rutas terrestres centroasi\u00e1ticas. Este cambio de modalidad permite estabilizar los planes de producci\u00f3n de los fabricantes industriales."
+                        "Las navieras de contenedores est\u00e1n introduciendo una nueva ola de recargos de combustible de emergencia debido a la escalada geopol\u00edtica del Medio Oriente. Los transportistas enfrentan costos operativos crecientes a medida que los precios del combustible suben y contin\u00faan los desv\u00edos de rutas. Estos recargos afectar\u00e1n directamente a las tarifas de flete por contrato en las principales rutas transpac\u00edficas y de Asia-Europa.",
+                        "A pesar de los bloqueos en curso, algunas navieras contin\u00faan enviando buques a trav\u00e9s del cr\u00edtico estrecho de Bab el-Mandeb. Estos tr\u00e1nsitos de alto riesgo requieren protocolos de seguridad especializados y provocan incrementos significativos en las primas de seguros. Los calendarios de las alianzas globales siguen muy fragmentados debido a que los transportistas equilibran los riesgos de seguridad.",
+                        "Los propietarios de la carga deben prepararse para una alta volatilidad en las tarifas spot y tiempos de tr\u00e1nsito fluctuantes. Los gerentes de la cadena de suministro buscan diversificar los puertos de entrada para evitar por completo los corredores congestionados. Los transitarios esperan que estos recargos de emergencia permanezcan activos hasta que disminuyan las hostilidades geopol\u00edticas regionales."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "UE: REFORMA DE LAS LEYES DE CABOTAJE",
+                    "nextUpTease": "SEMICONDUCTORES: INICIATIVA DE RELOCALIZACI\u00d3N",
                     "tags": [
                         "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
@@ -445,60 +477,22 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 5,
-                    "heading": "UE: REFORMA DE LAS LEYES DE CABOTAJE",
-                    "points": [
-                        "La Comisi\u00f3n Europea ha endurecido los controles sobre las actividades de cabotaje en el transporte por carretera de mercanc\u00edas. Las empresas de transporte deben registrar los tiempos de conducci\u00f3n mediante los tac\u00f3grafos inteligentes 2.0. Las autoridades de inspecci\u00f3n buscan atajar el cabotaje ilegal y garantizar una competencia limpia.",
-                        "Las flotas de transporte que infrinjan la norma se enfrentan a sanciones econ\u00f3micas y a la p\u00e9rdida de sus licencias. Los operadores de transporte deben planificar los trayectos de distribuci\u00f3n regional con un alto nivel de detalle t\u00e9cnico. El periodo de enfriamiento obligatorio exige que los camiones abandonen el pa\u00eds tras tres operaciones.",
-                        "Los gestores log\u00edsticos europeos crean alianzas con transportistas locales para rentabilizar el uso de las flotas de camiones. Integrar transportistas de proximidad permite asegurar capacidad de carga estable en las temporadas de mayor demanda. Los transportistas invierten en soluciones de control digital para agilizar las auditor\u00edas de tr\u00e1fico."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "FLETE A\u00c9REO: BLOCK SPACE AGREEMENTS",
-                    "tags": [
-                        "Source: https://www.joc.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 6,
-                    "heading": "FLETE A\u00c9REO: BLOCK SPACE AGREEMENTS",
-                    "points": [
-                        "Los transitarios mundiales est\u00e1n firmando acuerdos de block space de varios a\u00f1os en las rutas a\u00e9reas transpac\u00edferas saturadas. Las empresas de moda r\u00e1pida siguen copando el espacio de carga a\u00e9rea disponible desde los centros de producci\u00f3n asi\u00e1ticos. Esta concentraci\u00f3n de la demanda mantiene las tarifas a\u00e9reas spot en niveles m\u00e1ximos hist\u00f3ricos.",
-                        "Los sectores de automoci\u00f3n y electr\u00f3nica sufren para cerrar vuelos ch\u00e1rter competitivos para sus mercanc\u00edas de alto valor. Las aerol\u00edneas priorizan el transporte de paqueter\u00eda e-commerce de alto rendimiento frente a los fletes industriales de carga general. Los operadores deben firmar reservas a largo plazo para asegurar un acceso continuo a las bodegas.",
-                        "Los importadores desv\u00edan sus env\u00edos de urgencia hacia aeropuertos secundarios para evitar el colapso de los centros de conexi\u00f3n. Estas terminales alternativas garantizan descargas r\u00e1pidas y reducen los costes por manipulaci\u00f3n de mercanc\u00edas en tierra. La diversificaci\u00f3n de aeropuertos asegura la agilidad de entrega de componentes clave."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "EE. UU.: HUELGAS EN PUERTOS DE LA COSTA ESTE",
-                    "tags": [
-                        "Source: https://aircargonext.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
                     "id": 7,
-                    "heading": "EE. UU.: HUELGAS EN PUERTOS DE LA COSTA ESTE",
+                    "heading": "SEMICONDUCTORES: INICIATIVA DE RELOCALIZACI\u00d3N",
                     "points": [
-                        "Las negociaciones colectivas en las terminales de la costa Este de EE. UU. siguen bloqueadas por la automatizaci\u00f3n portuaria. Los sindicatos de estibadores y los operadores mar\u00edtimos discrepan sobre el uso de gr\u00faas y maquinaria de carga automatizada. Expertos del sector advierten que la inestabilidad laboral provocar\u00e1 retrasos prolongados de los buques.",
-                        "Los propietarios de carga est\u00e1n desviando sus contenedores hacia los puertos de la costa Oeste y terminales de Canad\u00e1. Este desplazamiento de tr\u00e1fico satura el ferrocarril intermodal y eleva las tarifas de transporte terrestre local. Los \u00edndices de congesti\u00f3n muestran un incremento en los tiempos de fondeo en las terminales de destino.",
-                        "Los directores de log\u00edstica dise\u00f1an planes flexibles de distribuci\u00f3n para reducir el impacto de un posible cierre de terminales. Contar con m\u00faltiples puertos de entrada permite adaptar los flujos de carga en tiempo real ante paros imprevistos. Los presupuestos anuales de transporte se ampl\u00edan para absorber recargos extraordinarios de flete."
+                        "Un fabricante l\u00edder de microchips ha comprometido cien mil millones de d\u00f3lares adicionales para la producci\u00f3n en los Estados Unidos. La iniciativa de financiamiento federal respaldar\u00e1 la construcci\u00f3n de cuatro plantas avanzadas de fabricaci\u00f3n de semiconductores de silicio. Esta inversi\u00f3n estrat\u00e9gica eleva a doce el n\u00famero total de instalaciones operativas planificadas por la organizaci\u00f3n en el pa\u00eds.",
+                        "El proyecto tiene como objetivo establecer una cadena de suministro nacional altamente resiliente para componentes tecnol\u00f3gicos cr\u00edticos. Las agencias gubernamentales se est\u00e1n asociando con entidades privadas para acelerar la relocalizaci\u00f3n del ensamblaje avanzado de microchips. Los proveedores log\u00edsticos deben preparar capacidades de transporte especializadas en salas limpias para respaldar estos proyectos masivos de construcci\u00f3n.",
+                        "La expansi\u00f3n reducir\u00e1 significativamente la dependencia a largo plazo de las plantas de producci\u00f3n y redes de tr\u00e1nsito extranjeras. Los analistas de la industria predicen que este auge de fabricaci\u00f3n local remodelar\u00e1 los flujos comerciales de componentes electr\u00f3nicos. Las cadenas de suministro de tecnolog\u00eda se beneficiar\u00edan de menores tiempos de entrega y corredores de producci\u00f3n nacionales protegidos."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.freightwaves.com",
+                        "Source: https://www.supplychaindive.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 }
             ]
         }
-    },
-    "main": {
-        "titleWhite": "GLOBAL LOGISTICS",
-        "titleBlue": "INTELLIGENCE",
-        "footerSummary": "Real-time updates on global freight and supply chain operations."
-    },
-    "slides": []
+    }
 };
