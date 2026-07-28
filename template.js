@@ -1,22 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
-        "titleBlue": "SHIFT",
-        "footerSummary": "Escalating tariff frameworks and judicial rulings on broker liability are fundamentally re-engineering the cost and risk profile of US import-export supply chains."
+        "titleWhite": "SUPPLY CHAIN",
+        "titleBlue": "SHOCKS",
+        "footerSummary": "Severe legal liabilities and targeted regulatory tariffs trigger systemic operational friction across global freight routes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "US TRADE POLICY: TARIFF ESCALATION",
+            "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
             "points": [
-                "The USTR is implementing new Section 301 tariffs on 60 trading partners to enforce strict forced labor compliance measures.",
-                "These levies replace expiring Section 122 duties, forcing importers to immediately re-evaluate landed costs and sourcing strategies globally.",
-                "Supply chain managers must navigate complex documentation hurdles as the new enforcement regime begins to impact all inbound cargo flows.",
-                "Retailers are aggressively seeking duty-free pathways to mitigate margin compression resulting from these sudden, wide-reaching trade actions."
+                "A landmark federal court hits C.H. Robinson with a massive six hundred four million dollar liability verdict.",
+                "The post-Montgomery ruling strips third-party logistics providers of traditional asset-light carrier selection liability protection.",
+                "Shippers must immediately upgrade automated carrier vetting architectures to mitigate catastrophic secondary negligent selection exposures.",
+                "This structural precedent forces logistics intermediaries to implement continuous, real-time safety compliance monitoring systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "JUDICIAL PRECEDENT: BROKER LIABILITY",
+            "nextUpTease": "USTR: FORCED LABOR TARIFFS",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "USTR: FORCED LABOR TARIFFS",
+            "points": [
+                "United States Trade Representative implements Section 301 tariffs targeting sixty global trading partners over labor compliance.",
+                "New import levies of up to twelve point five percent replace expiring Section 122 duty frameworks.",
+                "Importers must urgently deploy digital traceability systems to map multi-tier supplier compliance across global supply hubs.",
+                "The regulatory shift demands rigorous chain-of-custody documentation to prevent immediate seizure at United States ports."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "GEOPOLITICS: STRAIT OF HORMUZ",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -24,67 +41,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "JUDICIAL PRECEDENT: BROKER LIABILITY",
-            "points": [
-                "A staggering $604 million nuclear verdict against C.H. Robinson has permanently altered the standards for negligent carrier selection in logistics.",
-                "Legal experts and defense attorneys are now advising 3PLs to adopt rigorous, defensible vetting processes to shield against catastrophic litigation.",
-                "The ruling forces brokerages to move beyond basic safety ratings and implement deep-dive, AI-driven carrier verification protocols immediately.",
-                "Shippers are demanding greater transparency, expecting brokers to assume higher degrees of fiduciary risk for every contracted load movement."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CARRIER OPERATIONS: CAPACITY TIGHTENING",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "CARRIER OPERATIONS: CAPACITY TIGHTENING",
+            "heading": "GEOPOLITICS: STRAIT OF HORMUZ",
             "points": [
-                "Spot truckload rates are surging as peak season imports exert unprecedented pressure on domestic surface transportation networks nationwide.",
-                "Class I railroads report capacity gaps emerging as infrastructure demands and equipment shortages complicate the movement of critical goods.",
-                "Shippers facing limited capacity are forced to pay premium rates while securing contracts to bypass ongoing transport bottlenecks.",
-                "Fleet operators are prioritizing high-density lanes, causing regional service fragmentation as carriers focus on maximum operational efficiency and reliability."
+                "Escalating maritime hostilities in the Strait of Hormuz disrupt global logistics and halt virgin material flows.",
+                "Liner schedule reliability drops as carriers reroute assets, driving up emergency fuel and war risk surcharges.",
+                "Supply chain managers are bypassing maritime bottlenecks by utilizing overland Gulf landbridges and alternative cargo networks.",
+                "Severe operational friction threatens global manufacturing inputs and increases fuel cost volatility across major trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARKETPLACE RULES: USPS RATE HIKES",
+            "nextUpTease": "RETAIL: DE MINIMIS END",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARKETPLACE RULES: USPS RATE HIKES",
+            "heading": "RETAIL: DE MINIMIS END",
             "points": [
-                "USPS has officially increased Ground Advantage package rates, specifically targeting marketplaces and e-commerce sellers with significant cost adjustments.",
-                "Rural delivery premiums are expanding the financial burden on shippers who rely on traditional last-mile logistics for remote markets.",
-                "E-commerce platforms like eBay are updating their internal labels to reflect these cost hikes, impacting seller profit margins globally.",
-                "Compliance with new password and security protocols is now mandatory for accessing critical USPS tools, complicating administrative logistics workflows."
+                "E-commerce giant Shein records significant financial losses following the termination of the US de minimis exemption.",
+                "The elimination of the eight hundred dollar tax-free import threshold disrupts direct-to-consumer cross-border fulfillment networks.",
+                "Marketplaces are forced to restructure international logistics channels and absorb rising customs clearance and duty fees.",
+                "This structural policy change levels the playing field, favoring domestic warehousing networks over direct air freight."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL TRADE: MIDDLE EAST CHOKEPOINTS",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "GLOBAL TRADE: MIDDLE EAST CHOKEPOINTS",
-            "points": [
-                "Escalating tensions in the Strait of Hormuz continue to force significant re-routing of global tanker and container ship traffic.",
-                "Refiners are actively sourcing alternatives to Middle Eastern barrels to mitigate risk associated with Red Sea and Hormuz transit.",
-                "Ocean carriers are struggling to maintain schedule reliability as the geopolitical volatility creates unpredictable delays for trans-Pacific flows.",
-                "Strategic landbridge alternatives are gaining prominence as logistics providers test the long-term viability of non-ocean routes into regions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: RAIL MERGER UPDATES",
+            "nextUpTease": "USPS: GROUND RATE HIKES",
             "tags": [
                 "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
@@ -92,35 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "INFRASTRUCTURE: RAIL MERGER UPDATES",
+            "id": 5,
+            "heading": "USPS: GROUND RATE HIKES",
             "points": [
-                "Union Pacific and Norfolk Southern have filed supplemental merger documentation with regulators to address public interest and competition concerns.",
-                "The revised applications introduce comprehensive customer protections, aiming to secure final approval from the Surface Transportation Board effectively.",
-                "Improved rail fluidity remains the primary objective, with regulators requiring strict adherence to new operational and service standard benchmarks.",
-                "Investors are monitoring these developments as a proxy for broader rail industry consolidation and future capacity expansion prospects."
+                "United States Postal Service raises Ground Advantage package rates, imposing immediate price hikes on e-commerce marketplaces.",
+                "Lightweight shipping to remote destinations incurs significant rural surcharges of up to three dollars per shipment.",
+                "High-volume merchants must recalculate last-mile shipping budgets to prevent severe margins erosion under new rate structures.",
+                "Automated routing engines must dynamically compare regional carriers to offset escalating postal network distribution surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION: WAREHOUSE LABOR INTELLIGENCE",
+            "nextUpTease": "RAILROADS: MERGER AMENDMENTS",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "RAILROADS: MERGER AMENDMENTS",
+            "points": [
+                "Union Pacific and Norfolk Southern file crucial supplemental documentation to advance their proposed rail merger application.",
+                "The carriers commit to enhanced customer protection protocols exceeding baseline Surface Transportation Board competitive policy requirements.",
+                "Shippers demand enforceable service guarantees to prevent inland freight disruptions and preserve vital intermodal network fluidity.",
+                "Consolidation within Class I railroads will reshape inland logistics corridors and influence long-term surface contract negotiations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TSMC: SEMICONDUCTOR EXPANSION",
+            "tags": [
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AUTOMATION: WAREHOUSE LABOR INTELLIGENCE",
+            "heading": "TSMC: SEMICONDUCTOR EXPANSION",
             "points": [
-                "AI-driven warehouse labor management is becoming the primary solution to mitigate escalating turnover and resource constraint threats today.",
-                "Intelligent orchestration systems are replacing fragmented manual processes, enabling real-time visibility into workforce performance and operational deployment metrics.",
-                "Robotic integration, including autonomous drones for cycle counting, is actively reducing warehouse labor dependencies and increasing inventory precision speeds.",
-                "Leading logistics players are pivoting toward flexible, software-driven environments to optimize throughput and effectively manage fluctuating demand cycles annually."
+                "Taiwan Semiconductor Manufacturing Company commits one hundred billion dollars to construct four advanced facilities in America.",
+                "The expansion increases total planned domestic fabrication sites to twelve, bolstering domestic high-tech manufacturing capacity.",
+                "This mega-scale investment accelerates the regional decoupling of critical high-technology hardware supply chain ecosystems.",
+                "Strategic operations leaders must secure regional transport capacity to support highly specialized cleanroom equipment inbound logistics."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]

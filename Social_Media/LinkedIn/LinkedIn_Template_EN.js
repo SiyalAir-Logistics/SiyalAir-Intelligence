@@ -1,43 +1,43 @@
 if (typeof window !== 'undefined') { window.linkedinData = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE SHIFT",
+        "hookTitle": "SUPPLY CHAIN SHOCKS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR is enforcing new tariffs on 60 nations, forcing companies to immediately recalculate their landed cost models for international freight."
+                "narration_line": "C.H. Robinson is hit with a six hundred four million dollar verdict, ending traditional broker liability protection in freight."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A massive 604 million dollar negligent carrier verdict has rewritten the playbook for broker risk management and carrier selection compliance."
+                "narration_line": "The USTR deploys Section 301 tariffs on sixty countries, replacing expiring frameworks with strict forced labor compliance duties."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Truckload capacity is tightening rapidly, with shippers forced to accept premium rates to secure limited space during this peak season."
+                "narration_line": "Strait of Hormuz clashes choke global ocean shipping routes, causing significant delays and forcing immediate overland bypass routing."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "USPS rate hikes for marketplaces are now live, creating significant margin pressure for e-commerce sellers relying on low-cost shipping options."
+                "narration_line": "Shein swings to a financial loss as the end of the US de minimis tax exemption upends direct-to-consumer shipping logistics."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Geopolitical friction in the Strait of Hormuz is causing major disruptions, pushing global refiners to seek alternative non-Middle Eastern energy sources."
+                "narration_line": "The USPS increases Ground Advantage postal rates and introduces rural surcharges, squeezing online marketplace merchant delivery margins."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Major rail carriers have submitted supplemental merger applications, promising better service protections to satisfy strict federal transportation oversight requirements."
+                "narration_line": "Union Pacific and Norfolk Southern revise their rail merger application with strict customer protections to secure federal approval."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Warehouse automation is rapidly scaling as AI-powered orchestration tools replace traditional labor-intensive processes to maintain critical operational continuity."
+                "narration_line": "TSMC commits another one hundred billion dollars to build advanced semiconductor fabrication facilities, accelerating high-tech domestic supply decoupling."
             },
             {
                 "slide_index": 8,
@@ -50,43 +50,43 @@ if (typeof window !== 'undefined') { window.linkedinData = {
 if (typeof module !== 'undefined' && module.exports) { module.exports = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE SHIFT",
+        "hookTitle": "SUPPLY CHAIN SHOCKS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR is enforcing new tariffs on 60 nations, forcing companies to immediately recalculate their landed cost models for international freight."
+                "narration_line": "C.H. Robinson is hit with a six hundred four million dollar verdict, ending traditional broker liability protection in freight."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A massive 604 million dollar negligent carrier verdict has rewritten the playbook for broker risk management and carrier selection compliance."
+                "narration_line": "The USTR deploys Section 301 tariffs on sixty countries, replacing expiring frameworks with strict forced labor compliance duties."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Truckload capacity is tightening rapidly, with shippers forced to accept premium rates to secure limited space during this peak season."
+                "narration_line": "Strait of Hormuz clashes choke global ocean shipping routes, causing significant delays and forcing immediate overland bypass routing."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "USPS rate hikes for marketplaces are now live, creating significant margin pressure for e-commerce sellers relying on low-cost shipping options."
+                "narration_line": "Shein swings to a financial loss as the end of the US de minimis tax exemption upends direct-to-consumer shipping logistics."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Geopolitical friction in the Strait of Hormuz is causing major disruptions, pushing global refiners to seek alternative non-Middle Eastern energy sources."
+                "narration_line": "The USPS increases Ground Advantage postal rates and introduces rural surcharges, squeezing online marketplace merchant delivery margins."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Major rail carriers have submitted supplemental merger applications, promising better service protections to satisfy strict federal transportation oversight requirements."
+                "narration_line": "Union Pacific and Norfolk Southern revise their rail merger application with strict customer protections to secure federal approval."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Warehouse automation is rapidly scaling as AI-powered orchestration tools replace traditional labor-intensive processes to maintain critical operational continuity."
+                "narration_line": "TSMC commits another one hundred billion dollars to build advanced semiconductor fabrication facilities, accelerating high-tech domestic supply decoupling."
             },
             {
                 "slide_index": 8,
