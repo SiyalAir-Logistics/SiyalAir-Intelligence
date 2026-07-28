@@ -1,90 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUPPLY CHAIN",
-        "titleBlue": "SHOCKS",
-        "footerSummary": "Severe legal liabilities and targeted regulatory tariffs trigger systemic operational friction across global freight routes."
+        "titleWhite": "SUPPLY CHAIN FRICTION",
+        "titleBlue": "ELEVATED",
+        "footerSummary": "Customs enforcements, historic civil liabilities, and maritime blocks trigger severe margin deterioration and routing friction across international trade."
     },
     "slides": [
         {
             "id": 1,
             "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
             "points": [
-                "A landmark federal court hits C.H. Robinson with a massive six hundred four million dollar liability verdict.",
-                "The post-Montgomery ruling strips third-party logistics providers of traditional asset-light carrier selection liability protection.",
-                "Shippers must immediately upgrade automated carrier vetting architectures to mitigate catastrophic secondary negligent selection exposures.",
-                "This structural precedent forces logistics intermediaries to implement continuous, real-time safety compliance monitoring systems."
+                "A massive six hundred and four million dollar highway crash ruling threatens traditional asset-light brokerage models.",
+                "Shippers and brokers face extreme legal vulnerabilities following the Supreme Court's Montgomery decision regarding carrier vetting.",
+                "Standard electronic data interchange integrations are no longer sufficient to shield intermediaries from negligent carrier selection.",
+                "Compliance teams must implement automated, continuous safety monitoring systems for third-party carriers to mitigate legal exposures."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: FORCED LABOR TARIFFS",
+            "nextUpTease": "USTR: FORCED LABOR TARIFFS LEVIED",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "USTR: FORCED LABOR TARIFFS LEVIED",
             "points": [
-                "United States Trade Representative implements Section 301 tariffs targeting sixty global trading partners over labor compliance.",
-                "New import levies of up to twelve point five percent replace expiring Section 122 duty frameworks.",
-                "Importers must urgently deploy digital traceability systems to map multi-tier supplier compliance across global supply hubs.",
-                "The regulatory shift demands rigorous chain-of-custody documentation to prevent immediate seizure at United States ports."
+                "The United States Trade Representative implements strict tariffs on sixty trading partners targeting forced labor compliance.",
+                "Importers face standard duty increases of ten to twelve percent as previous temporary trade rules expire.",
+                "Legal battles intensify as multiple small businesses sue the administration over rapid, unilateral tariff escalation practices.",
+                "Logistics networks must redesign global sourcing lanes to circumvent non-compliant regions and minimize high tariff exposures."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEOPOLITICS: STRAIT OF HORMUZ",
+            "nextUpTease": "USPS: GROUND ADVANTAGE RATE SURGE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GEOPOLITICS: STRAIT OF HORMUZ",
+            "heading": "USPS: GROUND ADVANTAGE RATE SURGE",
             "points": [
-                "Escalating maritime hostilities in the Strait of Hormuz disrupt global logistics and halt virgin material flows.",
-                "Liner schedule reliability drops as carriers reroute assets, driving up emergency fuel and war risk surcharges.",
-                "Supply chain managers are bypassing maritime bottlenecks by utilizing overland Gulf landbridges and alternative cargo networks.",
-                "Severe operational friction threatens global manufacturing inputs and increases fuel cost volatility across major trade lanes."
+                "The United States Postal Service raises Ground Advantage package shipping rates for online marketplace third-party sellers.",
+                "Lightweight package shipments to rural destinations face immediate two to three dollar cost increases per package.",
+                "E-commerce platforms warn that rising domestic parcel rates will heavily squeeze operating margins for independent brands.",
+                "Multichannel merchants must optimize fulfillment nodes to consolidate shipments and reduce reliance on long-distance postal transport."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: DE MINIMIS END",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "RETAIL: DE MINIMIS END",
-            "points": [
-                "E-commerce giant Shein records significant financial losses following the termination of the US de minimis exemption.",
-                "The elimination of the eight hundred dollar tax-free import threshold disrupts direct-to-consumer cross-border fulfillment networks.",
-                "Marketplaces are forced to restructure international logistics channels and absorb rising customs clearance and duty fees.",
-                "This structural policy change levels the playing field, favoring domestic warehousing networks over direct air freight."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "USPS: GROUND RATE HIKES",
-            "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "USPS: GROUND RATE HIKES",
-            "points": [
-                "United States Postal Service raises Ground Advantage package rates, imposing immediate price hikes on e-commerce marketplaces.",
-                "Lightweight shipping to remote destinations incurs significant rural surcharges of up to three dollars per shipment.",
-                "High-volume merchants must recalculate last-mile shipping budgets to prevent severe margins erosion under new rate structures.",
-                "Automated routing engines must dynamically compare regional carriers to offset escalating postal network distribution surcharges."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RAILROADS: MERGER AMENDMENTS",
+            "nextUpTease": "DOJ: TRADE FRAUD PENALTIES CLIMB",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -92,16 +58,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "RAILROADS: MERGER AMENDMENTS",
+            "id": 4,
+            "heading": "DOJ: TRADE FRAUD PENALTIES CLIMB",
             "points": [
-                "Union Pacific and Norfolk Southern file crucial supplemental documentation to advance their proposed rail merger application.",
-                "The carriers commit to enhanced customer protection protocols exceeding baseline Surface Transportation Board competitive policy requirements.",
-                "Shippers demand enforceable service guarantees to prevent inland freight disruptions and preserve vital intermodal network fluidity.",
-                "Consolidation within Class I railroads will reshape inland logistics corridors and influence long-term surface contract negotiations."
+                "The Department of Justice Trade Fraud Task Force surpasses one billion dollars in regulatory recoveries and penalties.",
+                "Enforcement actions focus heavily on customs evasion, product misclassification, and illicit transshipment through third-party hubs.",
+                "Importers face unprecedented scrutiny on import documentation accuracy and product origin verification in the fiscal year.",
+                "Supply chain compliance officers must adopt advanced forensic tracking and digital audit trails to prevent border seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC: SEMICONDUCTOR EXPANSION",
+            "nextUpTease": "REGULATORS: CLASS I RAILROAD MERGER",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "REGULATORS: CLASS I RAILROAD MERGER",
+            "points": [
+                "Union Pacific and Norfolk Southern file detailed supplemental safety and competition data to secure federal merger approval.",
+                "Regulators demand strict customer protection frameworks and intermodal service guarantees to prevent market concentration issues.",
+                "Canadian National withdraws active regulatory opposition to the proposed eastern rail merger following strategic compromise agreements.",
+                "Intermodal shippers must prepare for altered routing options and potential chassis equipment pooling shifts across major hubs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MIDDLE EAST: STRAIT OF HORMUZ DISRUPTIONS",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
@@ -109,18 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "TSMC: SEMICONDUCTOR EXPANSION",
+            "id": 6,
+            "heading": "MIDDLE EAST: STRAIT OF HORMUZ DISRUPTIONS",
             "points": [
-                "Taiwan Semiconductor Manufacturing Company commits one hundred billion dollars to construct four advanced facilities in America.",
-                "The expansion increases total planned domestic fabrication sites to twelve, bolstering domestic high-tech manufacturing capacity.",
-                "This mega-scale investment accelerates the regional decoupling of critical high-technology hardware supply chain ecosystems.",
-                "Strategic operations leaders must secure regional transport capacity to support highly specialized cleanroom equipment inbound logistics."
+                "Renewed military conflicts near the Strait of Hormuz destabilize maritime flows and inflate raw polymer material costs.",
+                "Global manufacturers report stop-start recoveries for critical virgin plastic shipments as ocean freight rates surge rapidly.",
+                "Diversification strategies accelerate as public and private refiners swap Middle Eastern oil for alternative Atlantic Basin crude.",
+                "Industrial buyers should lock in long-term petrochemical supply contracts to hedge against volatile maritime chokepoint escalations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CUSTOMS: DE MINIMIS THRESHOLD REVISIONS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "CUSTOMS: DE MINIMIS THRESHOLD REVISIONS",
+            "points": [
+                "Major international fast-fashion marketplaces face deep financial losses as the United States eliminates de minimis exemptions.",
+                "Inbound parcels under eight hundred dollars are now fully subject to standard tariffs and formal customs filings.",
+                "Border patrol agencies intensify physical cargo audits to block illegal product imports and verify manufacturing supply chains.",
+                "Direct-to-consumer logistics models must pivot to domestic warehousing to handle bulk imports under traditional compliance structures."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
