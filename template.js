@@ -9,101 +9,85 @@ const dailyData = {
         "en": {
             "main": {
                 "kicker": "",
-                "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
-                "titleBlue": "SHIFTS",
-                "footerSummary": "Broker liabilities surge past $600M and forced labor tariffs trigger severe customs delays across critical global entry gateways."
+                "titleWhite": "GLOBAL LOGISTICS",
+                "titleBlue": "STRATEGY",
+                "footerSummary": "Regulatory crackdowns and pricing restructures are shifting cross-border lanes. Prepare for systematic changes in ocean, air, and customs operational paradigms."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "C.H. ROBINSON: CARRIER VETTING RISK",
+                    "heading": "CBP: DE MINIMIS COMPLIANCE",
                     "points": [
-                        "The federal court issued a massive six-hundred-four million dollar judgment against logistics giant C.H. Robinson. The landmark ruling stemmed from negligent carrier selection allegations following a severe highway accident. This judicial outcome severely threatens the traditional asset-light business model of major freight brokers.",
-                        "Under the post-Montgomery legal environment, brokers face unlimited financial exposure during catastrophic accidents. Insurance underwriters are immediately restructuring liability coverage rules for non-asset transport providers. Shippers must now verify carrier safety records to avoid vicarious liability exposure.",
-                        "Automated vetting workflows must dynamically integrate real-time federal safety ratings to mitigate operational risks. Companies are abandoning legacy electronic data interchange connections to deploy real-time compliance APIs. This systemic shift forces a complete overhaul of carrier onboarding and verification protocols."
+                        "US Customs and Border Protection is actively enforcing strict Type 86 electronic entry protocols for all de minimis shipments. This enforcement targets high-volume e-commerce air cargo channels to eliminate systemic customs evasion risks. Non-compliant customs brokers face immediate operational suspensions and deep cargo clearance bottlenecks.",
+                        "Logistics providers must now transmit precise retail buyer and item data elements prior to flight departure. This mandatory pre-filing protocol shifts liability directly onto the initial global consolidators and origin freight forwarders. Underestimated customs entry values face immediate seizure and secondary audit investigations at US ports.",
+                        "Global supply chain compliance teams are rapidly restructuring their high-volume direct-to-consumer delivery networks. Establishing secondary hubs in Mexico and Canada mitigates direct dependence on immediate direct-from-China air courier lanes. Freight forwarders are investing heavily in automated entry software integrations to preserve processing times."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "USTR: FORCED LABOR TARIFFS",
+                    "nextUpTease": "FMC: DEMURRAGE BILLING REFORM",
                     "tags": [
-                        "Source: https://www.freightwaves.com",
+                        "Source: https://www.cbp.gov",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "USTR: FORCED LABOR TARIFFS",
+                    "heading": "FMC: DEMURRAGE BILLING REFORM",
                     "points": [
-                        "The Office of the United States Trade Representative is implementing Section 301 tariffs on sixty trading partners. These import levies target systemic forced labor practices as Section 122 emergency duties officially expire. The newly enacted regulatory framework establishes high-barrier customs thresholds for global supply chain compliance.",
-                        "Importers will face ten to twelve point five percent tariffs on multi-sector trade items. These targeted financial measures are driving sudden cargo frontloading maneuvers across major North American gateways. Customs brokers are adjusting documentation to prevent severe cargo delays at marine terminal yards.",
-                        "Global brands must urgently map multi-tier supplier networks to secure valid country-of-origin certification. Regulatory compliance operations are shifting from reactive audits to automated chain-of-custody tracking platforms. Importers must proactively restructure their sourcing strategies to mitigate escalating trade policy risks."
+                        "The Federal Maritime Commission enforces strict regulatory caps on unreasonable ocean demurrage and detention billing practices. Ocean carriers must now issue highly detailed, accurate invoices directly to the actual contracting parties. Any failure to comply results in automatic dispute resolution procedures and severe financial penalty assessments.",
+                        "Under these rules, container terminal operators face increased billing transparency demands from commercial shipping alliances. Marine terminal operators cannot issue invoice charges to third-party motor carriers without pre-arranged explicit agreements. This shift significantly mitigates unexpected inland drayage operating costs and delays for global importers.",
+                        "Maritime logistics directors are restructuring their import clearance timelines to align with these new consumer protections. Implementing automated freight audit tools helps companies quickly detect and flag non-compliant container fee assessments. This proactive regulatory oversight establishes an equitable operating framework across key North American seaport terminals."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "SEA-INTELLIGENCE: LINER SCHEDULE ROTATIONS",
+                    "nextUpTease": "AMAZON: INBOUND PLACEMENT FEES",
                     "tags": [
-                        "Source: https://www.logisticsmgmt.com",
+                        "Source: https://www.fmc.gov",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 3,
-                    "heading": "SEA-INTELLIGENCE: LINER SCHEDULE ROTATIONS",
+                    "heading": "AMAZON: INBOUND PLACEMENT FEES",
                     "points": [
-                        "Ocean container carriers are systematically prioritizing major transpacific and Asia-to-Europe lanes over regional feeder networks. This structural prioritization attempts to maximize yield on high-volume lanes amid global vessel shortages. Consequently, regional secondary ports are experiencing severe blank sailings and equipment deficits.",
-                        "Schedule reliability remains highly fragmented as carriers bypass traditional regional transshipment hubs globally. Freight forwarders are reporting localized space crunches and escalating spot rates for non-core ocean shipments. Marine terminal operators must adjust yard management strategies to accommodate volatile carrier arrival windows.",
-                        "Shippers are actively deploying multi-carrier strategies to secure ocean container allocations. Logistics managers are utilizing automated predictive tracking systems to manage extended dwell times. This tactical realignment highlights the growing necessity of flexible booking structures in modern shipping."
+                        "Amazon has initiated restructuring of its fulfillment center inbound placement fee structures across key regional networks. This strategy aims to optimize inventory distribution across decentralized fulfillment nodes to accelerate localized deliveries. Sellers face significant cost variations depending on the selected inventory placement option and shipment volume.",
+                        "Third-party merchants are adapting by utilizing regional consolidation hubs to minimize direct inventory distribution expenses. The updated fee framework incentivizes consolidated bulk shipments directly to primary western and eastern regional distribution hubs. This policy alters the financial viability of small-batch shipments across domestic parcel delivery routes.",
+                        "E-commerce supply chain planners are deploying automated inventory management software to optimize dynamic placement decisions. Integrating real-time warehouse availability data helps brands balance initial transit times against localized fulfillment fees. This adjustment represents a critical transformation in multi-channel merchant operational models and profit margins."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "PROJECT44: AI SOFTWARE DECOUPLING",
+                    "nextUpTease": "AIR FREIGHT: CAPACITY CONSTRAINT",
                     "tags": [
-                        "Source: https://theloadstar.com",
+                        "Source: https://www.retaildive.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 4,
-                    "heading": "PROJECT44: AI SOFTWARE DECOUPLING",
+                    "heading": "AIR FREIGHT: CAPACITY CONSTRAINT",
                     "points": [
-                        "Real-time supply chain visibility provider Project44 is launching advanced artificial intelligence initiatives. These software updates aim to directly challenge CargoWise's long-standing dominance in global freight forwarding workflows. The technological shift leverages generative intelligence to automate complex international documentation and tracking.",
-                        "Freight forwarders are rapidly migrating legacy system architectures to modern cloud-native visibility platforms. This industry-wide shift reduces manual tracking overhead and increases operational data transparency significantly. Software procurement cycles are transitioning from monolithic multi-year contracts to agile modular solutions.",
-                        "Digital supply chain orchestrations now require high-frequency API integrations for real-time transport intelligence. Freight forwarders are prioritizing software that offers automated exceptions management over basic milestone tracking. The competitive landscape for logistics software is evolving into a pure artificial intelligence capability race."
+                        "Global air cargo capacity constraints are intensifying due to sustained high-volume e-commerce demand from Asian manufacturing hubs. Major air freight carriers report historically high load factors along primary Transpacific and Asia-Europe trade lanes. This capacity squeeze forces cargo forwarders to secure long-term block space agreements ahead of schedule.",
+                        "Shippers are facing elevated spot rates as available widebody belly space remains highly constrained across global hubs. Peak season shipping demand continues to outpace standard commercial passenger airline capacity additions on core international routes. Freight consolidators are increasingly leasing dedicated freighter aircraft to guarantee reliable transit times for time-sensitive goods.",
+                        "Aviation fuel price fluctuations further complicate contract negotiations between major international airlines and global logistics providers. Supply chain executives are utilizing alternative secondary cargo airports to bypass congested primary international hub operations. This decentralized route planning mitigates severe ground handling delays and optimizes overall global network velocity."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "USPS: MARKETPLACE RATE SURCHARGES",
+                    "nextUpTease": "SEA-AIR: TRANSSHIPMENT SURGE",
                     "tags": [
-                        "Source: https://theloadstar.com",
+                        "Source: https://aircargonext.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 5,
-                    "heading": "USPS: MARKETPLACE RATE SURCHARGES",
+                    "heading": "SEA-AIR: TRANSSHIPMENT SURGE",
                     "points": [
-                        "The United States Postal Service is implementing substantial package rate increases for domestic e-commerce sellers. This immediate tariff adjustment significantly elevates Ground Advantage rates for lightweight merchant shipments. The policy shift directly affects online marketplace logistics across eBay, Etsy, and Amazon networks.",
-                        "Lightweight packages heading to rural delivery destinations will incur additional surcharges. Online merchants are facing increased shipping costs that compress small-business profit margins. Logistics software platforms are automatically updating shipping label calculators to reflect the new rates.",
-                        "E-commerce businesses are actively diversifying their final-mile carrier portfolios to optimize shipping costs. Multi-carrier shipping software is becoming essential to route packages based on real-time rate comparisons. Shippers must refine their delivery strategies to survive escalating postal transport operational costs."
+                        "Sea-air transshipment hubs in Singapore and Dubai are experiencing unprecedented volume surges due to maritime routing disruptions. Importers are bypassing prolonged maritime transits around the Cape of Good Hope by utilizing hybrid sea-air transportation. This operational shift reduces overall transit times by half compared to traditional direct ocean shipping options.",
+                        "Logistical coordinators must secure seamless transfer windows between container terminals and regional air cargo airport hubs. Automated customs processing systems at global transit hubs are critical to preventing intermodal transshipment cargo bottlenecks. Port operators are dedicating specific transit corridors to accelerate physical cargo movement from dock to airfield.",
+                        "The rapid growth of intermodal transport models requires precise synchronization of dynamic multi-carrier cargo tracking platforms. Companies are investing in unified digital tracking tools to maintain clear visibility across ocean and air segments. This adaptive strategy provides global supply chains with vital flexibility during periods of prolonged oceanic volatility."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "HMM: FLEET EXPANSION STRATEGY",
-                    "tags": [
-                        "Source: https://www.ecommercebytes.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 6,
-                    "heading": "HMM: FLEET EXPANSION STRATEGY",
-                    "points": [
-                        "South Korean ocean carrier HMM is launching a massive five-year vessel fleet expansion initiative. The strategic shipbuilding program focuses on securing additional medium-sized container vessels and feeder ships. This capacity expansion aims to support HMM's optimized hub-and-spoke liner shipping network.",
-                        "The carrier is investing capital to acquire new container vessels with advanced environmental designs. This capacity injection will directly bolster cargo slot availability across critical intra-Asia trade lanes. Global alliances are closely monitoring these asset deployments to evaluate potential container market shares.",
-                        "Fleet modernization programs are increasingly tied to strict international maritime decarbonization rules. Shippers are prioritizing ocean carriers that offer verifiable lower carbon emission metrics per container mile. This capital deployment reflects a long-term commitment to resilient ocean transport infrastructure."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "FMC: DETENTION BILLING COMPLIANCE",
+                    "nextUpTease": "EU CUSTOMS: ICS2 IMPLEMENTATION",
                     "tags": [
                         "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
@@ -111,17 +95,33 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 7,
-                    "heading": "FMC: DETENTION BILLING COMPLIANCE",
+                    "id": 6,
+                    "heading": "EU CUSTOMS: ICS2 IMPLEMENTATION",
                     "points": [
-                        "The United States Court of Appeals upheld the Federal Maritime Commission's historic detention rules. The landmark judicial decision confirms that carrier demurrage billing practices must promote absolute freight fluidity. This legal precedent prevents ocean carriers from charging fees during periods of extreme port congestion.",
-                        "Ocean carriers must systematically audit their billing practices to comply with strict federal guidelines. Importers are expected to recover millions of dollars in wrongfully assessed late fee penalties. Freight brokers are utilizing the updated FMC guidelines to contest unfair carrier storage invoices.",
-                        "The regulatory enforcement actions reinforce the Federal Maritime Commission's active market oversight role. Supply chain legal teams are redesigning contract templates to incorporate these federal compliance standards. Importers must establish automated audit workflows to verify the legitimacy of container storage fees."
+                        "The European Union has initiated the mandatory implementation of its advanced Import Control System 2 platform. Maritime and inland waterway carriers must now submit comprehensive entry summary declarations prior to arriving at EU borders. This regulatory expansion aims to enhance common border security risks through detailed pre-loading risk assessments.",
+                        "Cargo declarants are required to provide precise buyer and seller tax identification codes for every shipment. Failure to submit accurate compliance documentation leads to immediate cargo rejections and significant customs clearance delays. Logistics providers must train global operations personnel on the technical filing standards of the new system.",
+                        "International trade networks are adapting by integrating their enterprise resource planning software directly with European customs portals. This digital transition ensures rapid data transmission while minimizing human entry errors on critical trade filings. Compliance with these updated rules is essential to maintaining uninterrupted access to key continental retail markets."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "PORT INFRASTRUCTURE: DIGITALIZATION",
+                    "tags": [
+                        "Source: https://www.supplychaindive.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 7,
+                    "heading": "PORT INFRASTRUCTURE: DIGITALIZATION",
+                    "points": [
+                        "Global seaport operators are accelerating investments in digital infrastructure and terminal automation technologies to enhance cargo velocity. Implementing automated guided vehicles and remote-controlled gantry cranes increases container handling efficiency and reduces vessel turnaround times. These modernization initiatives are designed to mitigate operational disruptions caused by labor shortages at major gateways.",
+                        "Port authorities face complex integration challenges when deploying real-time terminal operating systems across legacy maritime networks. Digital twin technology is increasingly utilized to simulate traffic flows and optimize container stack configurations in real time. These advanced software integrations allow terminals to handle higher volume surges without requiring physical land expansion.",
+                        "Maritime logistics coordinators must align vessel schedules with highly predictable, automated landside gate operating hours. Improved synchronization between marine terminals and inland rail networks reduces congestion across surrounding container drayage corridors. This systematic digitalization represents the future framework of highly resilient and scalable maritime shipping operations."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.fmc.gov",
+                        "Source: https://www.joc.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
@@ -131,101 +131,85 @@ const dailyData = {
         "de": {
             "main": {
                 "kicker": "",
-                "titleWhite": "GLOBALE FRACHT-COMPLIANCE",
-                "titleBlue": "\u00c4NDERUNGEN",
-                "footerSummary": "Maklerhaftungen \u00fcbersteigen 600 Mio. USD und Zwangsarbeitsz\u00f6lle f\u00fchren zu schwerwiegenden Verz\u00f6gerungen an globalen Eingangsh\u00e4fen."
+                "titleWhite": "GLOBALE LOGISTIK",
+                "titleBlue": "STRATEGIE",
+                "footerSummary": "Beh\u00f6rdliche Versch\u00e4rfungen und Tarifumstrukturierungen verschieben die Transportwege. Bereiten Sie sich auf systematische \u00c4nderungen vor."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "C.H. ROBINSON: NETZWERK-HAFTUNGSRISIKO",
+                    "heading": "CBP: DE-MINIMIS-COMPLIANCE",
                     "points": [
-                        "Das Bundesgericht verh\u00e4ngte ein massives Urteil \u00fcber sechshundertvier Millionen Dollar gegen den Logistikriesen C.H. Robinson. Das wegweisende Urteil resultierte aus Vorw\u00fcrfen der fahrl\u00e4ssigen Frachtf\u00fchrerauswahl nach einem schweren Autobahnunfall. Dieses gerichtliche Ergebnis bedroht das traditionelle anlagenleichte Gesch\u00e4ftsmodell gro\u00dfer Frachtmakler erheblich.",
-                        "Unter den rechtlichen Rahmenbedingungen nach Montgomery drohen Maklern unbegrenzte finanzielle Risiken bei schweren Unf\u00e4llen. Versicherer strukturieren die Haftungsregeln f\u00fcr Transportanbieter ohne eigene Flotte ab sofort v\u00f6llig neu. Verfrachter m\u00fcssen nun Sicherheitsnachweise der Spediteure pr\u00fcfen, um eine Haftungs\u00fcbernahme zu vermeiden.",
-                        "Automatisierte Pr\u00fcfprozesse m\u00fcssen Bundes-Sicherheitsbewertungen in Echtzeit integrieren, um operative Risiken zu minimieren. Unternehmen verabschieden sich von veralteten EDI-Verbindungen und f\u00fchren Compliance-APIs in Echtzeit ein. Dieser systemische Wandel erzwingt eine vollst\u00e4ndige \u00dcberholung aller Onboarding- und Verifizierungsprozesse f\u00fcr Frachtf\u00fchrer."
+                        "Die US-Zollbeh\u00f6rde setzt strenge elektronische Typ-86-Anmeldeprotokolle f\u00fcr alle De-minimis-Sendungen aktiv durch. Diese Durchsetzungsma\u00dfnahme zielt auf volumenstarke E-Commerce-Luftfrachtkan\u00e4le ab, um systematische Zollumgehungen zu verhindern. Nicht konforme Zollagenten drohen sofortige Betriebseinstellungen und erhebliche Abfertigungsengp\u00e4sse.",
+                        "Logistikdienstleister m\u00fcssen nun vor dem Abflug pr\u00e4zise Daten der Einzelhandelsk\u00e4ufer und der Artikel \u00fcbermitteln. Dieses obligatorische Vorab-Meldeprotokoll verlagert die Haftung direkt auf die urspr\u00fcnglichen globalen Konsolidierer und Spediteure. Zu niedrig deklarierte Zollwerte f\u00fchren zu sofortigen Beschlagnahmungen und sekund\u00e4ren Audits an den US-H\u00e4fen.",
+                        "Globale Compliance-Teams restrukturieren z\u00fcgig ihre hochvolumigen Direktvertriebsnetzwerke f\u00fcr Endverbraucher. Die Einrichtung sekund\u00e4rer Hubs in Mexiko und Kanada mindert die direkte Abh\u00e4ngigkeit von direkten Luftfrachtverbindungen aus China. Spediteure investieren stark in automatisierte Softwarel\u00f6sungen, um die Bearbeitungszeiten zu sichern."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "USTR: ZWANGSARBEITS-Z\u00d6LLE",
+                    "nextUpTease": "FMC: REFORM DER DEMURRAGE-ABRECHNUNG",
                     "tags": [
-                        "Source: https://www.freightwaves.com",
+                        "Source: https://www.cbp.gov",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "USTR: ZWANGSARBEITS-Z\u00d6LLE",
+                    "heading": "FMC: REFORM DER DEMURRAGE-ABRECHNUNG",
                     "points": [
-                        "Das USTR f\u00fchrt Section-301-Z\u00f6lle auf sechzig Handelspartner ein, um Zwangsarbeit im internationalen Handel systematisch zu bek\u00e4mpfen. Diese Einfuhrz\u00f6lle treten in Kraft, sobald die Notstandsz\u00f6lle nach Section 122 offiziell auslaufen. Das neue Regelwerk schafft hohe regulatorische H\u00fcrden f\u00fcr die Einhaltung globaler Lieferkettenstandards.",
-                        "Importeure m\u00fcssen mit Z\u00f6llen von zehn bis zw\u00f6lf Komma f\u00fcnf Prozent auf betroffene Warengruppen rechnen. Diese gezielten finanziellen Ma\u00dfnahmen f\u00fchren bereits zu vorgezogenen Importwellen an den wichtigsten nordamerikanischen H\u00e4fen. Zollmakler passen ihre Dokumentationsprozesse an, um kostspielige Verz\u00f6gerungen an den Hafenterminals zu verhindern.",
-                        "Globale Marken m\u00fcssen Zuliefernetzwerke \u00fcber mehrere Ebenen hinweg abbilden, um Herkunftszertifikate zu sichern. Das Compliance-Management wandelt sich von reaktiven Pr\u00fcfungen hin zu automatisierten Systemen der Lieferketten-R\u00fcckverfolgbarkeit. Einf\u00fchrer m\u00fcssen ihre Beschaffungsstrategien vorausschauend anpassen, um eskalierende handelspolitische Risiken effektiv abzufedern."
+                        "Die Federal Maritime Commission setzt strenge regulatorische Obergrenzen f\u00fcr unangemessene Demurrage- und Detention-Geb\u00fchren durch. Seefrachtf\u00fchrer m\u00fcssen nun detaillierte und genaue Rechnungen direkt an die tats\u00e4chlichen Vertragspartner ausstellen. Jede Nichteinhaltung f\u00fchrt zu automatischen Streitbeilegungsverfahren und empfindlichen finanziellen Strafen.",
+                        "Unter diesen Regeln sehen sich Containerterminalbetreiber mit erh\u00f6hten Transparenzanforderungen seitens der Reedereiallianzen konfrontiert. Terminalbetreiber d\u00fcrfen Rechnungsgeb\u00fchren an Dritt-Transporteure nicht ohne vorherige ausdr\u00fcckliche Vereinbarungen ausstellen. Diese Verschiebung verringert unerwartete inl\u00e4ndische Drayage-Betriebskosten und Verz\u00f6gerungen f\u00fcr Importeure erheblich.",
+                        "Logistikleiter im maritimen Sektor passen ihre Importabfertigungspl\u00e4ne an diese neuen Verbraucherschutzregeln an. Die Implementierung automatisierter Frachtpr\u00fcfungstools hilft Unternehmen, unzul\u00e4ssige Containergeb\u00fchren schnell zu erkennen. Diese proaktive Aufsicht schafft einen fairen Betriebsrahmen an den wichtigsten nordamerikanischen Seeh\u00e4fen."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "SEA-INTELLIGENCE: LINIENPLAN-ROTATIONEN",
+                    "nextUpTease": "AMAZON: GEB\u00dcHREN F\u00dcR EINGEHENDE PLATZIERUNG",
                     "tags": [
-                        "Source: https://www.logisticsmgmt.com",
+                        "Source: https://www.fmc.gov",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 3,
-                    "heading": "SEA-INTELLIGENCE: LINIENPLAN-ROTATIONEN",
+                    "heading": "AMAZON: GEB\u00dcHREN F\u00dcR EINGEHENDE PLATZIERUNG",
                     "points": [
-                        "Seecontainer-Reedereien priorisieren systematisch wichtige Transpazifik- und Asien-Europa-Routen gegen\u00fcber regionalen Feeder-Netzwerken. Diese strukturelle Priorisierung zielt darauf ab, die Renditen auf volumenstarken Strecken angesichts weltweiter Schiffsknappheit zu maximieren. Folglich kommt es an sekund\u00e4ren Regionalh\u00e4fen zu massiven Abfahrtsausf\u00e4llen und Containerengp\u00e4ssen.",
-                        "Die Fahrplantreue bleibt hochgradig fragmentiert, da Reedereien traditionelle regionale Transshipment-Hubs weltweit umgehen. Frachtspeditionen berichten von lokalen Laderaumengp\u00e4ssen und steigenden Spotraten f\u00fcr sekund\u00e4re Seetransporte. Terminalbetreiber m\u00fcssen ihre Werftstrategien anpassen, um die unregelm\u00e4\u00dfigen Schiffsank\u00fcnfte abzufangen.",
-                        "Verfrachter nutzen verst\u00e4rkt Multi-Carrier-Strategien, um sich feste Containerallokationen auf den Schiffen zu sichern. Logistikmanager setzen automatisierte pr\u00e4diktive Tracking-Systeme ein, um verl\u00e4ngerte Standzeiten zu bew\u00e4ltigen. Diese taktische Neuausrichtung unterstreicht die wachsende Bedeutung flexibler Buchungsstrukturen im modernen Seetransport."
+                        "Amazon hat mit der Restrukturierung seiner Geb\u00fchren f\u00fcr eingehende Platzierungen in regionalen Logistiknetzwerken begonnen. Diese Strategie zielt darauf ab, die Bestandsverteilung \u00fcber dezentrale Logistikknoten zu optimieren und Lieferungen zu beschleunigen. Verk\u00e4ufer sehen sich erheblichen Preisschwankungen gegen\u00fcber, je nach gew\u00e4hlter Platzierungsoption und Sendungsvolumen.",
+                        "Drittanbieter passen sich an, indem sie regionale Konsolidierungshubs nutzen, um direkte Bestandsverteilungskosten zu minimieren. Das aktualisierte Geb\u00fchrenmodell belohnt konsolidierte Gro\u00dflieferungen direkt an die prim\u00e4ren westlichen und \u00f6stlichen Verteilzentren. Diese Richtlinie ver\u00e4ndert die finanzielle Tragf\u00e4higkeit von Kleinsendungen auf inl\u00e4ndischen Paketrouten grundlegend.",
+                        "E-Commerce-Planer setzen automatisierte Bestandsverwaltungssoftware ein, um dynamische Platzierungsentscheidungen zu optimieren. Die Integration von Echtzeit-Lagerkapazit\u00e4tsdaten hilft Marken, Transportzeiten gegen lokale Platzierungsgeb\u00fchren abzuw\u00e4gen. Diese Anpassung markiert einen tiefgreifenden Wandel in den Betriebsmodellen und Margen der Multichannel-H\u00e4ndler."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "PROJECT44: KI-SOFTWARE-ENTKOPPLUNG",
+                    "nextUpTease": "LUFTFRACHT: KAPAZIT\u00c4TSENGP\u00c4SSE",
                     "tags": [
-                        "Source: https://theloadstar.com",
+                        "Source: https://www.retaildive.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 4,
-                    "heading": "PROJECT44: KI-SOFTWARE-ENTKOPPLUNG",
+                    "heading": "LUFTFRACHT: KAPAZIT\u00c4TSENGP\u00c4SSE",
                     "points": [
-                        "Der Echtzeit-Sichtbarkeitsdienstleister Project44 f\u00fchrt fortschrittliche Initiativen im Bereich der k\u00fcnstlichen Intelligenz ein. Diese Software-Updates zielen darauf ab, die etablierte Marktf\u00fchrerschaft von CargoWise im globalen Speditionswesen herauszufordern. Die technologische Umstellung nutzt generative Intelligenz zur Automatisierung komplexer internationaler Dokumente.",
-                        "Speditionen migrieren ihre Altsysteme in raschem Tempo auf moderne, cloudbasierte Transparenzplattformen. Diese branchenweite Transformation reduziert manuellen Tracking-Aufwand und steigert die Transparenz operativer Daten erheblich. Die Softwarebeschaffung verlagert sich von monolithischen Mehrjahresvertr\u00e4gen hin zu agilen, modularen L\u00f6sungen.",
-                        "Die digitale Steuerung von Lieferketten erfordert heute hochfrequente API-Integrationen f\u00fcr Frachtdaten in Echtzeit. Spediteure bevorzugen Softwarel\u00f6sungen, die ein automatisiertes Ausnahmemanagement anstelle einer einfachen Statusverfolgung bieten. Die Wettbewerbslandschaft f\u00fcr Logistiksoftware entwickelt sich zu einem reinen Technologiewettlauf der k\u00fcnstlichen Intelligenz."
+                        "Die weltweiten Luftfrachtkapazit\u00e4ten verknappen sich aufgrund der anhaltend hohen E-Commerce-Nachfrage aus asiatischen Produktionszentren. Gro\u00dfe Luftfrachtgesellschaften melden historisch hohe Auslastungsgrade auf den prim\u00e4ren transpazifischen und asiatisch-europ\u00e4ischen Routen. Dieser Kapazit\u00e4tsengpass zwingt Speditionen, langfristige Block-Space-Agreements fr\u00fcher als geplant zu sichern.",
+                        "Verlader sind mit steigenden Spotraten konfrontiert, da der verf\u00fcgbare Laderaum in Passagierflugzeugen an globalen Hubs stark begrenzt bleibt. Die Nachfrage in der Hauptsaison \u00fcbersteigt weiterhin die regul\u00e4ren Kapazit\u00e4tszuw\u00e4chse der kommerziellen Fluggesellschaften auf internationalen Routen. Frachtkonsolidierer charten zunehmend eigene Frachtflugzeuge, um zuverl\u00e4ssige Laufzeiten f\u00fcr zeitsensible G\u00fcter zu garantieren.",
+                        "Schwankungen der Kerosinpreise erschweren die Vertragsverhandlungen zwischen gro\u00dfen Fluggesellschaften und globalen Logistikdienstleistern zus\u00e4tzlich. Logistikverantwortliche weichen auf alternative Frachtflugh\u00e4fen aus, um \u00fcberlastete internationale Drehkreuze zu umgehen. Diese dezentrale Routenplanung minimiert Verz\u00f6gerungen bei der Bodenabfertigung und optimiert das gesamte globale Netzwerk."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "USPS: MARKTPLATZ-GEB\u00dcHRENZUSCHL\u00c4GE",
+                    "nextUpTease": "SEA-AIR: ANSTIEG DER UMLADUNGEN",
                     "tags": [
-                        "Source: https://theloadstar.com",
+                        "Source: https://aircargonext.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 5,
-                    "heading": "USPS: MARKTPLATZ-GEB\u00dcHRENZUSCHL\u00c4GE",
+                    "heading": "SEA-AIR: ANSTIEG DER UMLADUNGEN",
                     "points": [
-                        "Der United States Postal Service f\u00fchrt erhebliche Tariferh\u00f6hungen f\u00fcr den inl\u00e4ndischen E-Commerce-Versand ein. Diese kurzfristige Preisanpassung erh\u00f6ht die Tarife f\u00fcr den Ground Advantage-Service f\u00fcr leichte H\u00e4ndlersendungen deutlich. Die Tarif\u00e4nderung betrifft direkt die Marktplatzlogistik auf Plattformen wie eBay, Etsy und Amazon.",
-                        "F\u00fcr leichte Pakete, die an l\u00e4ndliche Zustellungsorte adressiert sind, fallen k\u00fcnftig zus\u00e4tzliche Servicegeb\u00fchren an. Online-H\u00e4ndler stehen vor steigenden Versandkosten, die die Gewinnmargen kleinerer Unternehmen sp\u00fcrbar belasten. Logistikplattformen aktualisieren ihre integrierten Versandkostenrechner automatisch auf die neuen Tarife.",
-                        "E-Commerce-Unternehmen diversifizieren ihre Last-Mile-Netzwerke, um die steigenden Transportkosten effektiv zu optimieren. Multi-Carrier-Versandsoftware wird unverzichtbar, um Sendungen auf Basis von Echtzeit-Tarifvergleichen flexibel zu steuern. Versender m\u00fcssen ihre Zustellungsstrategien anpassen, um die steigenden postalischen Betriebskosten abzufedern."
+                        "Die Sea-Air-Umschlaghubs in Singapur und Dubai verzeichnen aufgrund von St\u00f6rungen im Seeverkehr beispiellose Volumenzuw\u00e4chse. Importeure umgehen langwierige Seetransporte um das Kap der Guten Hoffnung durch die Nutzung hybrider Sea-Air-Transporte. Diese operative Verschiebung halbiert die Gesamttransportzeiten im Vergleich zu traditionellen direkten Seefrachtoptionen.",
+                        "Logistikkoordinatoren m\u00fcssen nahtlose Transferfenster zwischen Containerterminals und regionalen Luftfrachtflugh\u00e4fen sicherstellen. Automatisierte Zollabwicklungssysteme an globalen Transithubs sind entscheidend, um Engp\u00e4sse beim intermodalen Warenumschlag zu verhindern. Hafenbetreiber widmen spezifische Transitkorridore ein, um physische Frachtbewegungen vom Dock zum Rollfeld zu beschleunigen.",
+                        "Das schnelle Wachstum intermodaler Transportmodelle erfordert eine pr\u00e4zise Synchronisation dynamischer Multi-Carrier-Tracking-Plattformen. Unternehmen investieren in einheitliche digitale Trackingtools, um eine klare Transparenz \u00fcber See- und Luftsegmente hinweg zu wahren. Diese adaptive Strategie verleiht globalen Lieferketten entscheidende Flexibilit\u00e4t in Zeiten anhaltender maritimer Volatilit\u00e4t."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "HMM: FLOTTENEXPANSIONS-STRATEGIE",
-                    "tags": [
-                        "Source: https://www.ecommercebytes.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 6,
-                    "heading": "HMM: FLOTTENEXPANSIONS-STRATEGIE",
-                    "points": [
-                        "Die s\u00fcdkoreanische Linienreederei HMM startet eine umfassende f\u00fcnfj\u00e4hrige Initiative zum Ausbau ihrer Schiffsflotte. Das strategische Schiffbauprogramm konzentriert sich auf die Beschaffung mittlerer Containerschiffe und kleinerer Zubringerschiffe. Dieser Kapazit\u00e4tsausbau soll das optimierte Hub-and-Spoke-Netzwerk von HMM gezielt st\u00e4rken.",
-                        "Die Reederei investiert erhebliches Kapital in moderne Containerschiffe mit zukunftsweisendem, umweltfreundlichem Design. Diese Kapazit\u00e4tsoffensive wird die Verf\u00fcgbarkeit von Stellpl\u00e4tzen auf den wichtigen Intra-Asien-Routen direkt verbessern. Globale Allianzen analysieren diese Flottenzug\u00e4nge genau, um zuk\u00fcnftige Marktanteile im Containersegment zu bewerten.",
-                        "Flottenmodernisierungen sind zunehmend an die strengen Dekarbonisierungsvorgaben der Internationalen Seeschifffahrts-Organisation gekoppelt. Verlader bevorzugen zunehmend Seereedereien, die nachweisbar geringere CO2-Emissionen pro Containermeile vorweisen k\u00f6nnen. Diese Kapitalallokation spiegelt das langfristige Bekenntnis zu einer resilienten Seetransportinfrastruktur wider."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "FMC: DEMURRAGE-COMPLIANCE",
+                    "nextUpTease": "EU-ZOLL: ICS2-IMPLEMENTIERUNG",
                     "tags": [
                         "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
@@ -233,17 +217,33 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 7,
-                    "heading": "FMC: DEMURRAGE-COMPLIANCE",
+                    "id": 6,
+                    "heading": "EU-ZOLL: ICS2-IMPLEMENTIERUNG",
                     "points": [
-                        "Das US-Berufungsgericht hat die historischen Richtlinien der Federal Maritime Commission zur Detention best\u00e4tigt. Das wegweisende Urteil bekr\u00e4ftigt, dass die Demurrage-Abrechnungspraktiken der Reedereien den Frachtfluss f\u00f6rdern m\u00fcssen. Diese Rechtsprechung verbietet es Reedereien, in Phasen extremer Hafen\u00fcberlastung unfaire Lagergeb\u00fchren zu berechnen.",
-                        "Seereedereien m\u00fcssen ihre Abrechnungssysteme anpassen, um die strengen beh\u00f6rdlichen Vorgaben vollst\u00e4ndig einzuhalten. Importeure k\u00f6nnen voraussichtlich R\u00fcckerstattungen f\u00fcr unrechtm\u00e4\u00dfig erhobene Versp\u00e4tungsgeb\u00fchren in Millionenh\u00f6he geltend machen. Frachtmakler nutzen die aktualisierten FMC-Richtlinien aktiv zur Abwehr unberechtigter Containerrechnungen.",
-                        "Die beh\u00f6rdlichen Durchsetzungsma\u00dfnahmen st\u00e4rken die aktive Aufsichtsrolle der Federal Maritime Commission im Markt. Rechtsabteilungen in der Lieferkette passen Vertragsvorlagen an, um diese verbindlichen Compliance-Standards zu verankern. Importeure m\u00fcssen automatisierte Rechnungspr\u00fcfungen etablieren, um die Rechtm\u00e4\u00dfigkeit von Container-Lagergeb\u00fchren zu sichern."
+                        "Die Europ\u00e4ische Union hat mit der obligatorischen Einf\u00fchrung ihrer fortschrittlichen Import Control System 2 Plattform begonnen. See- und Binnenschifffahrtsunternehmen m\u00fcssen nun umfassende summarische Eingangsanmeldungen vor der Ankunft an den EU-Au\u00dfengrenzen einreichen. Diese regulatorische Ausweitung zielt darauf ab, die allgemeine Grenzsicherheit durch detaillierte Risikoanalysen vor dem Laden zu erh\u00f6hen.",
+                        "Anmelder sind verpflichtet, f\u00fcr jede Sendung genaue Steueridentifikationsnummern von K\u00e4ufer und Verk\u00e4ufer anzugeben. Die Nichtvorlage korrekter Compliance-Dokumente f\u00fchrt zu sofortigen Abweisungen und erheblichen Verz\u00f6gerungen bei der Zollabfertigung. Logistikdienstleister m\u00fcssen ihr Betriebspersonal weltweit in den technischen Anmeldestandards des neuen Systems schulen.",
+                        "Internationale Handelsnetzwerke passen sich an, indem sie ihre ERP-Software direkt in die europ\u00e4ischen Zollportale integrieren. Dieser digitale \u00dcbergang gew\u00e4hrleistet eine schnelle Daten\u00fcbertragung und minimiert gleichzeitig menschliche Erfassungsfehler bei kritischen Zollerkl\u00e4rungen. Die Einhaltung dieser aktualisierten Regeln ist unerl\u00e4sslich, um den ununterbrochenen Zugang zu den kontinentalen M\u00e4rkten zu sichern."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "HAFENINFRASTRUKTUR: DIGITALISIERUNG",
+                    "tags": [
+                        "Source: https://www.supplychaindive.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 7,
+                    "heading": "HAFENINFRASTRUKTUR: DIGITALISIERUNG",
+                    "points": [
+                        "Weltweite Hafenbetreiber forcieren Investitionen in digitale Infrastruktur und Terminalautomatisierung zur Beschleunigung des Warenumschlags. Die Einf\u00fchrung fahrerloser Transportsysteme und ferngesteuerter Portalkr\u00e4ne steigert die Effizienz des Containerumschlags und verk\u00fcrzt Schiffsnebenzeiten. Diese Modernisierungsinitiativen sollen betriebliche St\u00f6rungen durch Personalengp\u00e4sse an wichtigen Toren abfedern.",
+                        "Hafenbeh\u00f6rden stehen vor komplexen Integrationsherausforderungen bei der Einf\u00fchrung von Echtzeit-Terminal-Betriebssystemen in bestehenden Netzwerken. Digital-Twin-Technologie wird zunehmend eingesetzt, um Verkehrsstr\u00f6me zu simulieren und Containerstapelkonfigurationen in Echtzeit zu optimieren. Diese fortschrittlichen Softwareintegrationen erm\u00f6glichen es Terminals, h\u00f6here Volumenspitzen ohne physische Fl\u00e4chenerweiterung abzuwickeln.",
+                        "Maritime Logistikkoordinatoren m\u00fcssen Schiffspl\u00e4ne mit hochgradig planbaren, automatisierten landseitigen Gate-Betriebszeiten abstimmen. Eine verbesserte Synchronisation zwischen Seeterminals und Schienennetzen im Hinterland reduziert die Verkehrsbelastung auf den umliegenden Stra\u00dfen. Diese systematische Digitalisierung bildet das zuk\u00fcnftige Fundament f\u00fcr hochgradig widerstandsf\u00e4hige und skalierbare Seeverkehrsabl\u00e4ufe."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.fmc.gov",
+                        "Source: https://www.joc.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
@@ -253,101 +253,85 @@ const dailyData = {
         "fr": {
             "main": {
                 "kicker": "",
-                "titleWhite": "CONFORMIT\u00c9 DU FRET",
-                "titleBlue": "GLOBAL",
-                "footerSummary": "Les responsabilit\u00e9s des courtiers d\u00e9passent 600M$ et les tarifs sur le travail forc\u00e9 provoquent des retards douaniers critiques."
+                "titleWhite": "STRAT\u00c9GIE LOGISTIQUE",
+                "titleBlue": "GLOBALE",
+                "footerSummary": "Le durcissement r\u00e9glementaire et la restructuration des tarifs modifient les routes douani\u00e8res. Anticipez ces changements structurels."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "C.H. ROBINSON: RISQUE DE S\u00c9LECTION",
+                    "heading": "CBP: CONFORMIT\u00c9 DE MINIMIS",
                     "points": [
-                        "Le tribunal f\u00e9d\u00e9ral a rendu un jugement de six cent quatre millions de dollars contre C.H. Robinson. Cette d\u00e9cision historique d\u00e9coule d'all\u00e9gations de s\u00e9lection n\u00e9gligente du transporteur apr\u00e8s un accident de la route. Ce r\u00e9sultat judiciaire menace gravement le mod\u00e8le d'affaires traditionnel sans actifs des courtiers de fret.",
-                        "Dans l'environnement juridique post-Montgomery, les courtiers font face \u00e0 une exposition financi\u00e8re illimit\u00e9e en cas d'accident. Les assureurs restructurent imm\u00e9diatement les r\u00e8gles de couverture de responsabilit\u00e9 pour les prestataires de transport. Les chargeurs doivent d\u00e9sormais v\u00e9rifier les dossiers de s\u00e9curit\u00e9 des transporteurs pour \u00e9viter toute responsabilit\u00e9 civile.",
-                        "Les flux de v\u00e9rification automatis\u00e9s doivent int\u00e9grer les notations de s\u00e9curit\u00e9 f\u00e9d\u00e9rales en temps r\u00e9el pour att\u00e9nuer les risques. Les entreprises abandonnent les anciennes connexions d'\u00e9change de donn\u00e9es informatis\u00e9es pour d\u00e9ployer des API de conformit\u00e9. Ce changement syst\u00e9mique impose une r\u00e9vision compl\u00e8te des protocoles d'int\u00e9gration et de v\u00e9rification des transporteurs."
+                        "Le service des douanes am\u00e9ricaines applique activement des protocoles \u00e9lectroniques stricts de Type 86 pour toutes les exp\u00e9ditions de minimis. Cette mesure cible les flux a\u00e9riens d'e-commerce \u00e0 haut volume afin d'\u00e9liminer les risques de fraude douani\u00e8re syst\u00e9mique. Les commissionnaires en douane non conformes s'exposent \u00e0 des suspensions imm\u00e9diates et \u00e0 des goulots d'\u00e9tranglement.",
+                        "Les prestataires logistiques doivent d\u00e9sormais transmettre des donn\u00e9es pr\u00e9cises sur l'acheteur et l'article avant le d\u00e9part du vol. Ce protocole de pr\u00e9-d\u00e9claration obligatoire transf\u00e8re la responsabilit\u00e9 directement sur les consolidateurs mondiaux et les transitaires d'origine. Les valeurs sous-estim\u00e9es entra\u00eenent des saisies imm\u00e9diates et des audits approfondis aux ports am\u00e9ricains.",
+                        "Les \u00e9quipes de conformit\u00e9 r\u00e9organisent rapidement leurs r\u00e9seaux de distribution directe aux consommateurs \u00e0 travers le monde. L'\u00e9tablissement de hubs secondaires au Mexique et au Canada limite la d\u00e9pendance directe vis-\u00e0-vis des lignes a\u00e9riennes directes depuis la Chine. Les transitaires investissent massivement dans des logiciels de d\u00e9claration automatis\u00e9s pour pr\u00e9server les d\u00e9lais."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "USTR: TARIFS SUR LE TRAVAIL FORC\u00c9",
+                    "nextUpTease": "FMC: R\u00c9FORME DE LA FACTURATION D&D",
                     "tags": [
-                        "Source: https://www.freightwaves.com",
+                        "Source: https://www.cbp.gov",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "USTR: TARIFS SUR LE TRAVAIL FORC\u00c9",
+                    "heading": "FMC: R\u00c9FORME DE LA FACTURATION D&D",
                     "points": [
-                        "L'USTR met en \u0153uvre des tarifs Section 301 sur soixante partenaires commerciaux contre le travail forc\u00e9. Ces taxes \u00e0 l'importation entrent en vigueur au moment o\u00f9 les droits d'urgence de la Section 122 expirent. Le nouveau cadre r\u00e9glementaire \u00e9tablit des seuils douaniers stricts pour la conformit\u00e9 de la cha\u00eene d'approvisionnement.",
-                        "Les importateurs feront face \u00e0 des tarifs de dix \u00e0 douze virgule cinq pour cent sur divers produits. Ces mesures financi\u00e8res cibl\u00e9es entra\u00eenent des op\u00e9rations de chargement anticip\u00e9 vers les principaux ports d'Am\u00e9rique du Nord. Les courtiers en douane ajustent la documentation pour \u00e9viter des retards co\u00fbteux dans les terminaux maritimes.",
-                        "Les marques mondiales doivent cartographier leurs fournisseurs multi-niveaux pour garantir des certificats d'origine valides. La conformit\u00e9 passe d'audits r\u00e9actifs \u00e0 des plateformes automatis\u00e9es de suivi de la cha\u00eene de contr\u00f4le. Les importateurs doivent restructurer leurs strat\u00e9gies d'approvisionnement pour att\u00e9nuer les risques croissants de politique commerciale."
+                        "La Federal Maritime Commission impose des limites strictes aux pratiques abusives de facturation des frais de surestaries et de d\u00e9tention. Les transporteurs maritimes doivent d\u00e9sormais \u00e9mettre des factures hautement d\u00e9taill\u00e9es et pr\u00e9cises directement aux parties contractantes r\u00e9elles. Tout manquement entra\u00eene des proc\u00e9dures automatiques de r\u00e8glement des diff\u00e9rends et de lourdes sanctions financi\u00e8res.",
+                        "Sous ces r\u00e8gles, les exploitants de terminaux font face \u00e0 des exigences accrues de transparence de la part des alliances maritimes. Les terminaux ne peuvent facturer des frais \u00e0 des transporteurs routiers tiers sans accords pr\u00e9alables explicites. Ce changement att\u00e9nue consid\u00e9rablement les co\u00fbts d'exploitation impr\u00e9vus du drayage terrestre pour les importateurs mondiaux.",
+                        "Les directeurs de la logistique maritime r\u00e9organisent leurs calendriers de d\u00e9douanement pour s'aligner sur ces nouvelles protections. L'int\u00e9gration d'outils d'audit automatis\u00e9s aide les entreprises \u00e0 d\u00e9tecter rapidement les frais de conteneurs non conformes. Cette surveillance proactive \u00e9tablit un cadre op\u00e9rationnel \u00e9quitable dans les principaux terminaux portuaires nord-am\u00e9ricains."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "SEA-INTELLIGENCE: ROTATION DES HORAIRES",
+                    "nextUpTease": "AMAZON: FRAIS DE PLACEMENT ENTRANT",
                     "tags": [
-                        "Source: https://www.logisticsmgmt.com",
+                        "Source: https://www.fmc.gov",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 3,
-                    "heading": "SEA-INTELLIGENCE: ROTATION DES HORAIRES",
+                    "heading": "AMAZON: FRAIS DE PLACEMENT ENTRANT",
                     "points": [
-                        "Les transporteurs maritimes de conteneurs priorisent syst\u00e9matiquement les liaisons transpacifiques et Asie-Europe sur les r\u00e9seaux r\u00e9gionaux. Cette priorisation vise \u00e0 maximiser le rendement sur les lignes \u00e0 fort volume en p\u00e9riode de p\u00e9nurie de navires. En cons\u00e9quence, les ports secondaires r\u00e9gionaux subissent d'importantes annulations de d\u00e9parts et des d\u00e9ficits d'\u00e9quipements.",
-                        "La fiabilit\u00e9 des horaires reste tr\u00e8s fragment\u00e9e car les transporteurs contournent les hubs de transbordement r\u00e9gionaux traditionnels. Les commissionnaires de transport signalent des manques d'espace localis\u00e9s et une hausse des taux spot. Les op\u00e9rateurs de terminaux maritimes doivent ajuster leur gestion de parc pour s'adapter \u00e0 l'instabilit\u00e9 des arriv\u00e9es.",
-                        "Les chargeurs d\u00e9ploient activement des strat\u00e9gies multi-transporteurs pour s\u00e9curiser les allocations d'espace pour leurs conteneurs. Les gestionnaires logistiques utilisent des syst\u00e8mes de suivi pr\u00e9dictif automatis\u00e9s pour g\u00e9rer l'allongement des temps de s\u00e9jour. Cette r\u00e9organisation tactique met en \u00e9vidence la n\u00e9cessit\u00e9 d'adopter des structures de r\u00e9servation flexibles."
+                        "Amazon a entam\u00e9 la restructuration de ses frais de placement entrant dans ses centres de distribution r\u00e9gionaux. Cette strat\u00e9gie vise \u00e0 optimiser la r\u00e9partition des stocks entre des n\u0153uds d\u00e9centralis\u00e9s pour acc\u00e9l\u00e9rer les livraisons locales. Les vendeurs font face \u00e0 d'importantes variations de co\u00fbts selon l'option de placement choisie et le volume d'exp\u00e9dition.",
+                        "Les marchands tiers s'adaptent en utilisant des hubs de consolidation r\u00e9gionaux pour minimiser les frais de distribution directe. Le nouveau bar\u00e8me encourage les exp\u00e9ditions group\u00e9es vers les principaux centres de distribution de l'Est et de l'Ouest. Cette politique modifie la viabilit\u00e9 financi\u00e8re des exp\u00e9ditions de petits lots sur les routes nationales de colis.",
+                        "Les planificateurs e-commerce d\u00e9ploient des logiciels de gestion des stocks automatis\u00e9s pour optimiser les d\u00e9cisions de placement dynamique. L'int\u00e9gration de donn\u00e9es de disponibilit\u00e9 en temps r\u00e9el aide les marques \u00e0 \u00e9quilibrer les temps de transit et les frais locaux. Cet ajustement repr\u00e9sente une transformation critique des mod\u00e8les d'exploitation et des marges des vendeurs multicanaux."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "PROJECT44: D\u00c9COUPLAGE DES LOGICIELS IA",
+                    "nextUpTease": "FRET A\u00c9RIEN: CONTRAINTES DE CAPACIT\u00c9",
                     "tags": [
-                        "Source: https://theloadstar.com",
+                        "Source: https://www.retaildive.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 4,
-                    "heading": "PROJECT44: D\u00c9COUPLAGE DES LOGICIELS IA",
+                    "heading": "FRET A\u00c9RIEN: CONTRAINTES DE CAPACIT\u00c9",
                     "points": [
-                        "Project44, fournisseur de visibilit\u00e9 en temps r\u00e9el, lance des initiatives avanc\u00e9es d'intelligence artificielle. Ces mises \u00e0 jour logicielles visent \u00e0 concurrencer directement la domination historique de CargoWise dans le secteur du fret. Cette transition technologique s'appuie sur l'intelligence g\u00e9n\u00e9rative pour automatiser la documentation et le suivi international.",
-                        "Les commissionnaires de transport migrent rapidement leurs anciens syst\u00e8mes vers des plateformes modernes de visibilit\u00e9 cloud. Cette transformation sectorielle r\u00e9duit la gestion manuelle du suivi et accro\u00eet consid\u00e9rablement la transparence des donn\u00e9es. Les cycles d'achat de logiciels passent de contrats pluriannuels monolithiques \u00e0 des solutions modulaires agiles.",
-                        "Le pilotage de la supply chain num\u00e9rique exige d\u00e9sormais des int\u00e9grations d'API haute fr\u00e9quence pour des donn\u00e9es en temps r\u00e9el. Les transitaires privil\u00e9gient les logiciels qui proposent une gestion automatis\u00e9e des anomalies plut\u00f4t qu'un suivi d'\u00e9tapes de base. Le secteur des logiciels logistiques se transforme en une course technologique centr\u00e9e sur l'intelligence artificielle."
+                        "Les contraintes de capacit\u00e9 du fret a\u00e9rien mondial s'intensifient sous l'effet de la demande e-commerce continue depuis l'Asie. Les principaux transporteurs a\u00e9riens signalent des taux de remplissage historiquement \u00e9lev\u00e9s sur les routes transp\u00e9cifiques et asie-europe. Cette p\u00e9nurie oblige les transitaires \u00e0 s\u00e9curiser des accords d'espace de bloc \u00e0 long terme plus t\u00f4t que pr\u00e9vu.",
+                        "Les chargeurs font face \u00e0 des tarifs spot \u00e9lev\u00e9s car l'espace disponible en soute reste extr\u00eamement limit\u00e9 sur les hubs mondiaux. La demande de pointe continue de d\u00e9passer l'augmentation de capacit\u00e9 des avions de ligne commerciaux r\u00e9guliers. Les consolidateurs de fret affr\u00e8tent de plus en plus d'avions-cargos d\u00e9di\u00e9s pour garantir des d\u00e9lais fiables aux marchandises urgentes.",
+                        "Les fluctuations du prix du carburant d'aviation compliquent davantage les n\u00e9gociations contractuelles entre les compagnies a\u00e9riennes et les logisticiens. Les dirigeants de la cha\u00eene d'approvisionnement utilisent des a\u00e9roports secondaires pour contourner la congestion des grands hubs internationaux. Cette planification d\u00e9centralis\u00e9e att\u00e9nue les retards de manutention au sol et optimise la vitesse du r\u00e9seau mondial."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "USPS: SURCHARGES DES TARIFS LOGISTIQUES",
+                    "nextUpTease": "SEA-AIR: FLUX DE TRANSBORDEMENT",
                     "tags": [
-                        "Source: https://theloadstar.com",
+                        "Source: https://aircargonext.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 5,
-                    "heading": "USPS: SURCHARGES DES TARIFS LOGISTIQUES",
+                    "heading": "SEA-AIR: FLUX DE TRANSBORDEMENT",
                     "points": [
-                        "Le service postal am\u00e9ricain applique d'importantes hausses de tarifs pour les exp\u00e9ditions nationales de commerce \u00e9lectronique. Cet ajustement imm\u00e9diat augmente consid\u00e9rablement les tarifs de l'offre Ground Advantage pour les colis l\u00e9gers des vendeurs. Ce changement tarifaire impacte directement la logistique des places de march\u00e9 comme eBay, Etsy et Amazon.",
-                        "Les colis l\u00e9gers destin\u00e9s \u00e0 des zones de livraison rurales feront l'objet de frais de service suppl\u00e9mentaires. Les vendeurs en ligne font face \u00e0 une augmentation des co\u00fbts de transport qui p\u00e8se sur leurs marges. Les plateformes logistiques mettent automatiquement \u00e0 jour leurs calculateurs de tarifs d'exp\u00e9dition int\u00e9gr\u00e9s selon ces nouveaux bar\u00e8mes.",
-                        "Les entreprises de e-commerce diversifient leurs r\u00e9seaux du dernier kilom\u00e8tre pour optimiser l'impact de ces co\u00fbts de transport. Les logiciels d'exp\u00e9dition multi-transporteurs deviennent indispensables pour orienter les colis selon des comparaisons tarifaires en temps r\u00e9el. Les exp\u00e9diteurs doivent ajuster leurs strat\u00e9gies de livraison pour att\u00e9nuer l'impact des co\u00fbts postaux."
+                        "Les hubs de transbordement sea-air \u00e0 Singapour et Duba\u00ef connaissent des hausses de volume sans pr\u00e9c\u00e9dent dues aux perturbations maritimes. Les importateurs contournent les longs transits maritimes autour du cap de Bonne-Esp\u00e9rance en utilisant le transport combin\u00e9 mer-air. Ce virage op\u00e9rationnel r\u00e9duit de moiti\u00e9 les temps de transit globaux par rapport aux options maritimes directes.",
+                        "Les coordinateurs logistiques doivent garantir des fen\u00eatres de transfert fluides entre les terminaux \u00e0 conteneurs et les hubs a\u00e9roportuaires. Des syst\u00e8mes de d\u00e9douanement automatis\u00e9s aux hubs de transit sont essentiels pour \u00e9viter les goulets d'\u00e9tranglement intermodaux. Les op\u00e9rateurs portuaires d\u00e9dient des corridors sp\u00e9cifiques pour acc\u00e9l\u00e9rer le mouvement physique du quai vers la piste.",
+                        "La croissance rapide des mod\u00e8les intermodaux exige une synchronisation pr\u00e9cise des plateformes de suivi dynamique multi-transporteurs. Les entreprises investissent dans des outils de suivi num\u00e9rique unifi\u00e9s pour maintenir une visibilit\u00e9 totale sur les segments maritime et a\u00e9rien. Cette strat\u00e9gie adaptative offre une flexibilit\u00e9 vitale aux cha\u00eenes d'approvisionnement en p\u00e9riode de forte volatilit\u00e9."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "HMM: STRAT\u00c9GIE D'EXPANSION DE LA FLOTTE",
-                    "tags": [
-                        "Source: https://www.ecommercebytes.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 6,
-                    "heading": "HMM: STRAT\u00c9GIE D'EXPANSION DE LA FLOTTE",
-                    "points": [
-                        "L'armateur sud-cor\u00e9en HMM lance une vaste initiative d'expansion de sa flotte de navires sur cinq ans. Ce programme de construction navale strat\u00e9gique se concentre sur l'acquisition de porte-conteneurs de taille moyenne et de feeders. Cette augmentation de capacit\u00e9 vise \u00e0 soutenir le r\u00e9seau optimis\u00e9 en \u00e9toile de HMM.",
-                        "Le transporteur investit d'importants capitaux pour acqu\u00e9rir de nouveaux navires dot\u00e9s de technologies environnementales avanc\u00e9es. Cet apport de capacit\u00e9 am\u00e9liorera directement la disponibilit\u00e9 des espaces sur les liaisons critiques en intra-Asie. Les alliances mondiales \u00e9tudient de pr\u00e8s ces arriv\u00e9es pour \u00e9valuer les futures parts de march\u00e9 du secteur.",
-                        "Les programmes de modernisation de flotte sont de plus en plus li\u00e9s aux exigences de d\u00e9carbonation de l'Organisation Maritime Internationale. Les chargeurs privil\u00e9gient les transporteurs maritimes d\u00e9montrant de faibles niveaux d'\u00e9missions de carbone par conteneur-mille. Cet investissement de capital t\u00e9moigne d'un engagement \u00e0 long terme envers des infrastructures de transport r\u00e9silientes."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "FMC: CONFORMIT\u00c9 DE LA FACTURATION",
+                    "nextUpTease": "DOUANES UE: MISE EN OEUVRE ICS2",
                     "tags": [
                         "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
@@ -355,17 +339,33 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 7,
-                    "heading": "FMC: CONFORMIT\u00c9 DE LA FACTURATION",
+                    "id": 6,
+                    "heading": "DOUANES UE: MISE EN OEUVRE ICS2",
                     "points": [
-                        "La Cour d'appel des \u00c9tats-Unis a valid\u00e9 les r\u00e8gles historiques de la Federal Maritime Commission sur la Detention. Cette d\u00e9cision judiciaire confirme que les pratiques de facturation des surestaries doivent imp\u00e9rativement favoriser la fluidit\u00e9 du fret. Cette jurisprudence interdit aux transporteurs d'appliquer des frais de stockage en p\u00e9riode d'encombrement extr\u00eame.",
-                        "Les compagnies maritimes doivent modifier leurs syst\u00e8mes de facturation pour se conformer strictement aux directives f\u00e9d\u00e9rales. Les importateurs devraient obtenir le remboursement de millions de dollars de p\u00e9nalit\u00e9s injustement factur\u00e9es pour retards. Les commissionnaires de transport s'appuient sur ces r\u00e8gles pour contester les factures de stockage abusives.",
-                        "Ces mesures d'application r\u00e9glementaire renforcent le r\u00f4le actif de surveillance du march\u00e9 de la Federal Maritime Commission. Les d\u00e9partements juridiques adaptent les mod\u00e8les de contrats pour y int\u00e9grer ces normes de conformit\u00e9 obligatoires. Les importateurs doivent mettre en place des audits automatis\u00e9s pour valider la l\u00e9gitimit\u00e9 des frais de stockage."
+                        "L'Union europ\u00e9enne a entam\u00e9 la mise en \u0153uvre obligatoire de sa plateforme avanc\u00e9e Import Control System 2. Les transporteurs maritimes et fluviaux doivent d\u00e9sormais soumettre des d\u00e9clarations sommaires d'entr\u00e9e compl\u00e8tes avant d'arriver aux fronti\u00e8res de l'UE. Cette expansion r\u00e9glementaire vise \u00e0 renforcer la s\u00e9curit\u00e9 des fronti\u00e8res communes gr\u00e2ce \u00e0 des analyses de risques d\u00e9taill\u00e9es avant chargement.",
+                        "Les d\u00e9clarants sont tenus de fournir des codes d'identification fiscale d'acheteur et de vendeur pr\u00e9cis pour chaque exp\u00e9dition. Tout manquement \u00e0 soumettre des documents conformes entra\u00eene des rejets imm\u00e9diats et d'importants retards de d\u00e9douanement. Les prestataires logistiques doivent former leur personnel op\u00e9rationnel aux normes techniques de d\u00e9claration du nouveau syst\u00e8me.",
+                        "Les r\u00e9seaux commerciaux internationaux s'adaptent en int\u00e9grant leurs logiciels ERP directement aux portails douaniers europ\u00e9ens. Cette transition num\u00e9rique garantit une transmission rapide des donn\u00e9es tout en minimisant les erreurs de saisie humaine. Le respect de ces r\u00e8gles mises \u00e0 jour est essentiel pour maintenir un acc\u00e8s ininterrompu aux march\u00e9s europ\u00e9ens."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "INFRASTRUCTURE PORTUAIRE: NUM\u00c9RISATION",
+                    "tags": [
+                        "Source: https://www.supplychaindive.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 7,
+                    "heading": "INFRASTRUCTURE PORTUAIRE: NUM\u00c9RISATION",
+                    "points": [
+                        "Les op\u00e9rateurs portuaires mondiaux acc\u00e9l\u00e8rent les investissements dans les infrastructures num\u00e9riques et l'automatisation pour am\u00e9liorer la vitesse de passage. L'introduction de v\u00e9hicules guid\u00e9s automatis\u00e9s et de portiques t\u00e9l\u00e9command\u00e9s accro\u00eet l'efficacit\u00e9 de la manutention et r\u00e9duit le temps d'escale des navires. Ces initiatives visent \u00e0 att\u00e9nuer les perturbations op\u00e9rationnelles li\u00e9es aux p\u00e9nuries de main-d'\u0153uvre aux portes d'entr\u00e9e.",
+                        "Les autorit\u00e9s portuaires font face \u00e0 des d\u00e9fis d'int\u00e9gration complexes lors du d\u00e9ploiement de syst\u00e8mes d'exploitation en temps r\u00e9el. La technologie des jumeaux num\u00e9riques est de plus en plus utilis\u00e9e pour simuler les flux de trafic et optimiser l'empilement. Ces int\u00e9grations logicielles avanc\u00e9es permettent aux terminaux de g\u00e9rer des pics de volume plus \u00e9lev\u00e9s sans extension fonci\u00e8re.",
+                        "Les coordinateurs de la logistique maritime doivent aligner les horaires des navires sur des heures d'ouverture de barri\u00e8res terrestres automatis\u00e9es. Une meilleure synchronisation entre les terminaux maritimes et les r\u00e9seaux ferroviaires r\u00e9duit la congestion sur les corridors de drayage routier. Cette num\u00e9risation syst\u00e9matique repr\u00e9sente le futur des op\u00e9rations maritimes hautement r\u00e9silientes et \u00e9volutives."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.fmc.gov",
+                        "Source: https://www.joc.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
@@ -375,101 +375,85 @@ const dailyData = {
         "es": {
             "main": {
                 "kicker": "",
-                "titleWhite": "CUMPLIMIENTO DE CARGA",
+                "titleWhite": "ESTRATEGIA LOG\u00cdSTICA",
                 "titleBlue": "GLOBAL",
-                "footerSummary": "Responsabilidades de intermediarios superan 600M$ y aranceles por trabajo forzoso generan retrasos aduaneros en puertos cr\u00edticos."
+                "footerSummary": "Los controles regulatorios y la reestructuraci\u00f3n de tarifas modifican las rutas comerciales. Anticipe cambios en las operaciones."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "C.H. ROBINSON: RIESGO DE SELECCI\u00d3N",
+                    "heading": "CBP: CUMPLIMIENTO DE MINIMIS",
                     "points": [
-                        "El tribunal federal emiti\u00f3 un juicio de seiscientos cuatro millones de d\u00f3lares contra el gigante log\u00edstico C.H. Robinson. El fallo hist\u00f3rico se deriv\u00f3 de acusaciones de selecci\u00f3n negligente de transportistas tras un accidente de carretera. Este resultado judicial amenaza gravemente el modelo de negocio tradicional de activos ligeros de los corredores.",
-                        "Bajo el entorno legal posterior a Montgomery, los corredores enfrentan una exposici\u00f3n financiera ilimitada en accidentes graves. Las aseguradoras est\u00e1n reestructurando inmediatamente las reglas de cobertura de responsabilidad para proveedores sin activos propios. Los cargadores ahora deben verificar los registros de seguridad de transportistas para evitar la responsabilidad vicaria.",
-                        "Los flujos de verificaci\u00f3n automatizados deben integrar calificaciones federales de seguridad en tiempo real para mitigar riesgos. Las empresas est\u00e1n abandonando las conexiones EDI heredadas para implementar APIs de cumplimiento en tiempo real. Este cambio sist\u00e9mico obliga a una revisi\u00f3n completa de los protocolos de registro y verificaci\u00f3n de transportistas."
+                        "La Oficina de Aduanas y Protecci\u00f3n Fronteriza de EE. UU. aplica estrictos protocolos de entrada electr\u00f3nica Tipo 86 para env\u00edos de minimis. Esta medida se dirige a los canales de carga a\u00e9rea de comercio electr\u00f3nico a gran escala para eliminar riesgos de evasi\u00f3n fiscal. Los agentes de aduanas que no cumplan se enfrentan a suspensiones operativas inmediatas y demoras.",
+                        "Los proveedores de log\u00edstica ahora deben transmitir datos precisos del comprador y del art\u00edculo antes de la salida del vuelo. Este protocolo de declaraci\u00f3n previa obligatorio transfiere la responsabilidad directamente a los consolidadores globales y transitarios de origen. Los valores declarados por debajo de lo real se enfrentan a incautaciones e inspecciones exhaustivas.",
+                        "Los equipos de cumplimiento de la cadena de suministro reestructuran r\u00e1pidamente sus redes de entrega directa al consumidor. El establecimiento de centros secundarios en M\u00e9xico y Canad\u00e1 mitiga la dependencia directa de los env\u00edos a\u00e9reos desde China. Los transitarios invierten fuertemente en software de aduanas automatizado para preservar los tiempos de procesamiento."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "USTR: ARANCELES POR TRABAJO FORZOSO",
+                    "nextUpTease": "FMC: REFORMA DE FACTURACI\u00d3N DE DEMORAS",
                     "tags": [
-                        "Source: https://www.freightwaves.com",
+                        "Source: https://www.cbp.gov",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "USTR: ARANCELES POR TRABAJO FORZOSO",
+                    "heading": "FMC: REFORMA DE FACTURACI\u00d3N DE DEMORAS",
                     "points": [
-                        "La Oficina del USTR est\u00e1 implementando aranceles de la Secci\u00f3n 301 a sesenta socios comerciales. Estos grav\u00e1menes a la importaci\u00f3n entran en vigor cuando expiran oficialmente los derechos de la Secci\u00f3n 122. El nuevo marco regulatorio establece umbrales aduaneros estrictos para el cumplimiento de la cadena de suministro.",
-                        "Los importadores enfrentar\u00e1n aranceles de entre diez y doce coma cinco por ciento en diversos sectores. Estas medidas financieras espec\u00edficas est\u00e1n impulsando maniobras de carga anticipada en los principales puertos norteamericanos. Los agentes de aduanas ajustan la documentaci\u00f3n para evitar retrasos costosos en las terminales mar\u00edtimas.",
-                        "Las marcas globales deben mapear redes de proveedores multinivel para asegurar certificados de origen v\u00e1lidos. Las operaciones de cumplimiento est\u00e1n cambiando de auditor\u00edas reactivas a plataformas automatizadas de trazabilidad. Los importadores deben reestructurar proactivamente sus estrategias de abastecimiento para mitigar los riesgos de pol\u00edtica comercial."
+                        "La Comisi\u00f3n Mar\u00edtima Federal aplica l\u00edmites estrictos a las pr\u00e1cticas abusivas de facturaci\u00f3n por demoras y detenciones de contenedores. Las navieras deben emitir facturas altamente detalladas y precisas directamente a las partes contratantes reales. Cualquier incumplimiento dar\u00e1 lugar a procesos autom\u00e1ticos de resoluci\u00f3n de disputas y a severas sanciones financieras.",
+                        "Bajo estas normas, las terminales de contenedores se enfrentan a una mayor exigencia de transparencia por parte de las alianzas mar\u00edtimas. Las terminales no pueden facturar cargos a terceros transportistas de carretera sin acuerdos previos expl\u00edcitos por escrito. Este cambio mitiga significativamente los costos de transporte terrestre imprevistos para los importadores globales.",
+                        "Los directores de log\u00edstica mar\u00edtima adaptan sus cronogramas de despacho de importaci\u00f3n para alinearse con estas nuevas medidas de protecci\u00f3n. La implementaci\u00f3n de herramientas automatizadas de auditor\u00eda de fletes ayuda a detectar r\u00e1pidamente cargos no conformes. Esta supervisi\u00f3n proactiva establece un marco operativo equitativo en las principales terminales portuarias norteamericanas."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "SEA-INTELLIGENCE: ROTACI\u00d3N DE HORARIOS",
+                    "nextUpTease": "AMAZON: TARIFAS DE COLOCACI\u00d3N ENTRANTE",
                     "tags": [
-                        "Source: https://www.logisticsmgmt.com",
+                        "Source: https://www.fmc.gov",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 3,
-                    "heading": "SEA-INTELLIGENCE: ROTACI\u00d3N DE HORARIOS",
+                    "heading": "AMAZON: TARIFAS DE COLOCACI\u00d3N ENTRANTE",
                     "points": [
-                        "Las l\u00edneas de contenedores est\u00e1n priorizando sistem\u00e1ticamente las rutas transpac\u00edficas y de Asia a Europa sobre las redes regionales. Esta priorizaci\u00f3n busca maximizar el rendimiento en rutas de gran volumen en medio de la escasez de buques. En consecuencia, los puertos secundarios regionales experimentan cancelaciones de escalas frecuentes y escasez de contenedores.",
-                        "La confiabilidad de los itinerarios sigue fragmentada debido a que las l\u00edneas evitan los tradicionales centros de transbordo regionales. Los transitarios informan escasez de espacio localizada y tarifas spot al alza para env\u00edos secundarios de contenedores. Los operadores de terminales portuarias adaptan sus estrategias para gestionar las llegadas irregulares de buques.",
-                        "Los cargadores est\u00e1n utilizando estrategias de m\u00faltiples transportistas para asegurar espacios de contenedores en los barcos. Los administradores log\u00edsticos implementan sistemas de seguimiento predictivo para controlar el aumento de tiempos de estad\u00eda de carga. Esta reorganizaci\u00f3n t\u00e1ctica destaca la necesidad de utilizar estructuras de reserva flexibles en el transporte."
+                        "Amazon ha iniciado la reestructuraci\u00f3n de sus tarifas de colocaci\u00f3n de inventario entrante en centros de distribuci\u00f3n regionales. Esta estrategia busca optimizar la distribuci\u00f3n de mercanc\u00edas en nodos descentralizados para acelerar las entregas locales. Los vendedores se enfrentan a variaciones de costos significativas seg\u00fan la opci\u00f3n de colocaci\u00f3n elegida y el volumen de env\u00edo.",
+                        "Los comerciantes terceros se adaptan utilizando centros de consolidaci\u00f3n regionales para minimizar los costos de distribuci\u00f3n directa de inventario. El nuevo esquema tarifario incentiva env\u00edos consolidados a granel dirigidos a los principales centros de distribuci\u00f3n de la costa este y oeste. Esta pol\u00edtica altera la viabilidad financiera de los env\u00edos peque\u00f1os en rutas de paqueter\u00eda nacionales.",
+                        "Los planificadores de e-commerce despliegan software automatizado de gesti\u00f3n de inventarios para optimizar las decisiones de colocaci\u00f3n din\u00e1mica. La integraci\u00f3n de datos de disponibilidad de almacenes en tiempo real ayuda a equilibrar los tiempos de tr\u00e1nsito y las tarifas locales. Este ajuste representa una transformaci\u00f3n cr\u00edtica en los modelos operativos y m\u00e1rgenes de los vendedores multicanal."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "PROJECT44: DESACOPLAMIENTO DE SOFTWARE IA",
+                    "nextUpTease": "CARGA A\u00c9REA: RESTRICCIONES DE CAPACIDAD",
                     "tags": [
-                        "Source: https://theloadstar.com",
+                        "Source: https://www.retaildive.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 4,
-                    "heading": "PROJECT44: DESACOPLAMIENTO DE SOFTWARE IA",
+                    "heading": "CARGA A\u00c9REA: RESTRICCIONES DE CAPACIDAD",
                     "points": [
-                        "El proveedor de visibilidad en tiempo real Project44 lanza iniciativas avanzadas en inteligencia artificial. Estas actualizaciones de software buscan competir con el liderazgo tradicional de CargoWise en el sector log\u00edstico de carga. La transici\u00f3n tecnol\u00f3gica aprovecha la inteligencia generativa para automatizar la documentaci\u00f3n compleja y el seguimiento internacional.",
-                        "Los transitarios est\u00e1n migrando r\u00e1pidamente sus sistemas heredados hacia plataformas modernas de visibilidad basadas en la nube. Esta transformaci\u00f3n del sector reduce la gesti\u00f3n manual y aumenta la transparencia de los datos operativos significativamente. La adquisici\u00f3n de software cambia de contratos plurianuales monol\u00edticos a soluciones modulares m\u00e1s \u00e1giles.",
-                        "El control de la cadena de suministro digital requiere integraciones de API de alta frecuencia para datos en tiempo real. Las empresas transitorias priorizan el software que ofrece gesti\u00f3n autom\u00e1tica de excepciones en lugar del seguimiento b\u00e1sico de hitos. El sector de software log\u00edstico se convierte en una carrera centrada en la inteligencia artificial."
+                        "Las restricciones de capacidad del transporte a\u00e9reo mundial se intensifican por la alta demanda de comercio electr\u00f3nico desde Asia. Las principales aerol\u00edneas de carga reportan factores de ocupaci\u00f3n hist\u00f3ricamente elevados en las rutas transpajonales y de Asia a Europa. Esta escasez obliga a los transitarios a asegurar acuerdos de espacio de bloque a largo plazo de forma anticipada.",
+                        "Los cargadores se enfrentan a tarifas spot elevadas ya que el espacio en bodega disponible sigue muy limitado en los hubs globales. La demanda de temporada alta contin\u00faa superando la adici\u00f3n de capacidad de las aerol\u00edneas de pasajeros comerciales en rutas internacionales clave. Los consolidadores de carga ch\u00e1rter registran cada vez m\u00e1s aviones cargueros dedicados para garantizar tr\u00e1nsitos estables.",
+                        "Las fluctuaciones en el combustible de aviaci\u00f3n complican a\u00fan m\u00e1s las negociaciones de contratos entre aerol\u00edneas y proveedores de log\u00edstica. Los ejecutivos de cadena de suministro utilizan aeropuertos secundarios para evitar la congesti\u00f3n de las terminales internacionales principales. Esta planificaci\u00f3n descentralizada de rutas mitiga demoras en la asistencia en tierra y optimiza la velocidad de la red."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "USPS: RECARGOS EN TARIFAS COMERCIALES",
+                    "nextUpTease": "SEA-AIR: AUMENTO DE TRANSBORDOS",
                     "tags": [
-                        "Source: https://theloadstar.com",
+                        "Source: https://aircargonext.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 5,
-                    "heading": "USPS: RECARGOS EN TARIFAS COMERCIALES",
+                    "heading": "SEA-AIR: AUMENTO DE TRANSBORDOS",
                     "points": [
-                        "El Servicio Postal de Estados Unidos aplica incrementos significativos de tarifas para env\u00edos nacionales de comercio electr\u00f3nico. Esta modificaci\u00f3n de tarifas eleva las tarifas de Ground Advantage para paquetes ligeros enviados por comerciantes. El cambio tarifario afecta la log\u00edstica de plataformas de venta en l\u00ednea como eBay, Etsy y Amazon.",
-                        "Los paquetes ligeros dirigidos a destinos de entrega rurales incurrir\u00e1n en cargos adicionales por servicio postal. Los comerciantes en l\u00ednea enfrentan costos de env\u00edo crecientes que afectan los m\u00e1rgenes de ganancia de peque\u00f1os negocios. Las plataformas log\u00edsticas actualizan autom\u00e1ticamente sus calculadoras de env\u00edo integradas seg\u00fan las nuevas tarifas del servicio.",
-                        "Las empresas de e-commerce diversifican sus redes de \u00faltima milla para optimizar el impacto de estos costos de env\u00edo. Los programas de env\u00edo multi-transportador son esenciales para comparar tarifas y enrutar paquetes en tiempo real. Los cargadores deben adaptar sus estrategias para mitigar los costos de distribuci\u00f3n por correo postal."
+                        "Los centros de transbordo mar\u00edtimo-a\u00e9reo de Singapur y Dub\u00e1i experimentan aumentos de volumen r\u00e9cord debido a las interrupciones mar\u00edtimas. Los importadores evitan los prolongados tr\u00e1nsitos mar\u00edtimos rodeando el cabo de Buena Esperanza mediante el transporte h\u00edbrido mar-aire. Este cambio operativo reduce los tiempos de tr\u00e1nsito a la mitad en comparaci\u00f3n con las opciones mar\u00edtimas directas.",
+                        "Los coordinadores log\u00edsticos deben asegurar ventanas de transferencia \u00e1giles entre terminales de contenedores y aeropuertos de carga regionales. Los sistemas aduaneros automatizados en los centros de tr\u00e1nsito son cr\u00edticos para evitar cuellos de botella en la carga intermodal. Los operadores portuarios dedican corredores espec\u00edficos para acelerar el traslado f\u00edsico de la carga del muelle a la pista.",
+                        "El r\u00e1pido crecimiento de los modelos intermodales requiere la sincronizaci\u00f3n precisa de plataformas de seguimiento din\u00e1mico de m\u00faltiples transportistas. Las empresas invierten en herramientas de seguimiento digital unificadas para mantener una visibilidad total de los segmentos mar\u00edtimo y a\u00e9reo. Esta estrategia adaptativa proporciona una flexibilidad vital durante periodos de prolongada volatilidad oce\u00e1nica."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "HMM: ESTRATEGIA DE EXPANSI\u00d3N DE FLOTA",
-                    "tags": [
-                        "Source: https://www.ecommercebytes.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 6,
-                    "heading": "HMM: ESTRATEGIA DE EXPANSI\u00d3N DE FLOTA",
-                    "points": [
-                        "La naviera surcoreana HMM inicia una amplia iniciativa de expansi\u00f3n de su flota de buques a cinco a\u00f1os. El programa estrat\u00e9gico de construcci\u00f3n se centra en adquirir portacontenedores de tama\u00f1o mediano y buques de enlace secundario. Este aumento de capacidad busca fortalecer la red optimizada de distribuci\u00f3n centralizada de HMM.",
-                        "La empresa invierte capital para incorporar modernos buques de contenedores con dise\u00f1os avanzados para el cuidado medioambiental. Esta inyecci\u00f3n de capacidad optimizar\u00e1 la disponibilidad de espacios en las rutas comerciales clave de intra-Asia. Las alianzas globales analizan la incorporaci\u00f3n de estos barcos para evaluar las futuras cuotas de mercado.",
-                        "Los programas de modernizaci\u00f3n de flota se vinculan de forma estrecha con las normas de descarbonizaci\u00f3n de la Organizaci\u00f3n Mar\u00edtima Internacional. Los cargadores priorizan las navieras que demuestran menores emisiones de carbono por milla de contenedor transportado. Esta inversi\u00f3n refleja un compromiso con el desarrollo de infraestructuras de transporte resilientes."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "FMC: CUMPLIMIENTO DE FACTURACI\u00d3N",
+                    "nextUpTease": "ADUANA UE: IMPLEMENTACI\u00d3N DE ICS2",
                     "tags": [
                         "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
@@ -477,17 +461,33 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 7,
-                    "heading": "FMC: CUMPLIMIENTO DE FACTURACI\u00d3N",
+                    "id": 6,
+                    "heading": "ADUANA UE: IMPLEMENTACI\u00d3N DE ICS2",
                     "points": [
-                        "La Corte de Apelaciones de Estados Unidos valid\u00f3 las reglas hist\u00f3ricas de la Federal Maritime Commission sobre Detention. El fallo judicial confirma que las pr\u00e1cticas de facturaci\u00f3n de las demoras de contenedores deben promover la fluidez comercial. Esta resoluci\u00f3n legal proh\u00edbe que las navieras cobren tarifas de almacenamiento en per\u00edodos de alta congesti\u00f3n.",
-                        "Las navieras deben adecuar sus sistemas de facturaci\u00f3n para cumplir estrictamente con las directrices federales vigentes. Se proyecta que los importadores recuperen millones de d\u00f3lares por sanciones por retraso aplicadas de manera inapropiada. Los corredores de carga utilizan las directrices actualizadas para defenderse ante facturas de almacenamiento injustificadas.",
-                        "Estas acciones de cumplimiento de la ley fortalecen la funci\u00f3n activa de supervisi\u00f3n que desempe\u00f1a la Federal Maritime Commission. Los equipos legales adecuan plantillas de contratos de transporte para incorporar estas normas de cumplimiento obligatorio. Los importadores deben establecer auditor\u00edas autom\u00e1ticas de facturas para asegurar la legitimidad de los cobros."
+                        "La Uni\u00f3n Europea ha iniciado la implementaci\u00f3n obligatoria de su plataforma avanzada de Sistema de Control de Importaciones 2. Los transportistas mar\u00edtimos y fluviales deben presentar declaraciones sumarias de entrada completas antes de llegar a las fronteras de la UE. Esta expansi\u00f3n regulatoria busca mejorar la seguridad fronteriza com\u00fan mediante an\u00e1lisis de riesgos previos a la carga.",
+                        "Los declarantes de carga est\u00e1n obligados a proporcionar c\u00f3digos de identificaci\u00f3n fiscal de comprador y vendedor precisos para cada env\u00edo. No presentar documentos de cumplimiento correctos genera rechazos inmediatos de mercanc\u00eda y retrasos significativos en el despacho aduanero. Los proveedores de log\u00edstica deben capacitar al personal operativo en las normas t\u00e9cnicas de declaraci\u00f3n del nuevo sistema.",
+                        "Las redes comerciales internacionales se adaptan integrando su software de planificaci\u00f3n de recursos empresariales a los portales aduaneros europeos. Esta transici\u00f3n digital garantiza una r\u00e1pida transmisi\u00f3n de datos y minimiza errores de ingreso manual en declaraciones cr\u00edticas de comercio. El cumplimiento de estas normas actualizadas es esencial para mantener el acceso a los mercados continentales."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "INFRAESTRUCTURA PORTUARIA: DIGITALIZACI\u00d3N",
+                    "tags": [
+                        "Source: https://www.supplychaindive.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 7,
+                    "heading": "INFRAESTRUCTURA PORTUARIA: DIGITALIZACI\u00d3N",
+                    "points": [
+                        "Los operadores portuarios aceleran inversiones en infraestructura digital y automatizaci\u00f3n de terminales para mejorar la velocidad de carga. La implementaci\u00f3n de veh\u00edculos guiados automatizados y gr\u00faas p\u00f3rtico controladas de forma remota incrementa la eficiencia de manipulaci\u00f3n y reduce escalas. Estas iniciativas de modernizaci\u00f3n buscan mitigar las interrupciones operativas causadas por la escasez de mano de obra.",
+                        "Las autoridades portuarias se enfrentan a desaf\u00edos complejos de integraci\u00f3n al desplegar sistemas operativos de terminales en tiempo real. La tecnolog\u00eda de gemelos digitales se utiliza para simular flujos de tr\u00e1fico y optimizar el apilamiento de contenedores en tiempo real. Estas integraciones de software avanzadas permiten procesar picos de volumen mayores sin requerir expansi\u00f3n de terreno f\u00edsico.",
+                        "Los coordinadores de log\u00edstica mar\u00edtima deben alinear los horarios de los buques con horas de acceso terrestre automatizadas y predecibles. Una mejor sincronizaci\u00f3n entre las terminales marinas y las redes de ferrocarril reduce la congesti\u00f3n en las carreteras de acarreo locales. Esta digitalizaci\u00f3n sistem\u00e1tica representa el marco futuro de operaciones mar\u00edtimas altamente resilientes y escalables."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.fmc.gov",
+                        "Source: https://www.joc.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
