@@ -1,43 +1,43 @@
 if (typeof window !== 'undefined') { window.linkedinData = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "CRITICAL GLOBAL LOGISTICS DISRUPTION",
+        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE SHIFT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "C.H. Robinson faces a historic six hundred four million dollar verdict that dramatically shifts legal liabilities for freight brokers."
+                "narration_line": "The USTR is enforcing new tariffs on 60 nations, forcing companies to immediately recalculate their landed cost models for international freight."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The USTR is implementing restrictive Section 301 tariffs on sixty countries to replace expiring import rules."
+                "narration_line": "A massive 604 million dollar negligent carrier verdict has rewritten the playbook for broker risk management and carrier selection compliance."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Fast-fashion retailers are pivoting logistics operations after the elimination of the lucrative US de minimis import threshold."
+                "narration_line": "Truckload capacity is tightening rapidly, with shippers forced to accept premium rates to secure limited space during this peak season."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New USPS shipping hikes and hefty rural surcharges are squeezing profit margins for online marketplace retailers."
+                "narration_line": "USPS rate hikes for marketplaces are now live, creating significant margin pressure for e-commerce sellers relying on low-cost shipping options."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Generative artificial intelligence agents are actively challenging legacy transportation management systems in the global forwarding software market."
+                "narration_line": "Geopolitical friction in the Strait of Hormuz is causing major disruptions, pushing global refiners to seek alternative non-Middle Eastern energy sources."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Union Pacific and Norfolk Southern have revised their federal merger filings to include stricter shipper protections."
+                "narration_line": "Major rail carriers have submitted supplemental merger applications, promising better service protections to satisfy strict federal transportation oversight requirements."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Ocean carriers are introducing emergency surcharges as draft restrictions and geopolitical threats squeeze critical transit corridors."
+                "narration_line": "Warehouse automation is rapidly scaling as AI-powered orchestration tools replace traditional labor-intensive processes to maintain critical operational continuity."
             },
             {
                 "slide_index": 8,
@@ -50,43 +50,43 @@ if (typeof window !== 'undefined') { window.linkedinData = {
 if (typeof module !== 'undefined' && module.exports) { module.exports = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "CRITICAL GLOBAL LOGISTICS DISRUPTION",
+        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE SHIFT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "C.H. Robinson faces a historic six hundred four million dollar verdict that dramatically shifts legal liabilities for freight brokers."
+                "narration_line": "The USTR is enforcing new tariffs on 60 nations, forcing companies to immediately recalculate their landed cost models for international freight."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The USTR is implementing restrictive Section 301 tariffs on sixty countries to replace expiring import rules."
+                "narration_line": "A massive 604 million dollar negligent carrier verdict has rewritten the playbook for broker risk management and carrier selection compliance."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Fast-fashion retailers are pivoting logistics operations after the elimination of the lucrative US de minimis import threshold."
+                "narration_line": "Truckload capacity is tightening rapidly, with shippers forced to accept premium rates to secure limited space during this peak season."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New USPS shipping hikes and hefty rural surcharges are squeezing profit margins for online marketplace retailers."
+                "narration_line": "USPS rate hikes for marketplaces are now live, creating significant margin pressure for e-commerce sellers relying on low-cost shipping options."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Generative artificial intelligence agents are actively challenging legacy transportation management systems in the global forwarding software market."
+                "narration_line": "Geopolitical friction in the Strait of Hormuz is causing major disruptions, pushing global refiners to seek alternative non-Middle Eastern energy sources."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Union Pacific and Norfolk Southern have revised their federal merger filings to include stricter shipper protections."
+                "narration_line": "Major rail carriers have submitted supplemental merger applications, promising better service protections to satisfy strict federal transportation oversight requirements."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Ocean carriers are introducing emergency surcharges as draft restrictions and geopolitical threats squeeze critical transit corridors."
+                "narration_line": "Warehouse automation is rapidly scaling as AI-powered orchestration tools replace traditional labor-intensive processes to maintain critical operational continuity."
             },
             {
                 "slide_index": 8,
