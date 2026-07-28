@@ -9,7 +9,7 @@ on:
       - 'download/**'  # Block the bot from looping on its own image updates
       - 'bg_tracker.txt' # Block the bot from looping on background tracker state updates
       - 'follow_tracker.txt' # Block the bot from looping on follow-up tracker state updates
-      - 'LinkedIn_Template_EN.js' # Block the bot from looping on LinkedIn module file updates
+      - 'Social_Media/LinkedIn/LinkedIn_Template_EN.js' # Block the bot from looping on LinkedIn module file updates
   workflow_dispatch:
   schedule:
     - cron: '16 * * * *'  # Single Primary Precise Hourly Trigger (Exactly once per hour)
@@ -131,8 +131,8 @@ jobs:
           print(f"Dynamic Follow-up Rotation: Found {max_followups} total follow slides. Rotated tracker: {current_follow_val} -> {next_follow_val}")
           EOF
 
-          # 4. Stage template.js, post.txt, LinkedIn_Template_EN.js, and the dynamically updated tracking state files
-          git add template.js post.txt LinkedIn_Template_EN.js bg_tracker.txt follow_tracker.txt
+          # 4. Stage template.js, post.txt, Social_Media/LinkedIn/LinkedIn_Template_EN.js, and the dynamically updated tracking state files
+          git add template.js post.txt Social_Media/LinkedIn/LinkedIn_Template_EN.js bg_tracker.txt follow_tracker.txt
           
           # 5. Verify structural differences cleanly without stashing or merging files
           if ! git diff --cached --quiet; then
@@ -146,7 +146,7 @@ jobs:
             # 8. Set tracking variable for email and screenshot phase
             echo "PUSH_SUCCESS=true" >> $GITHUB_ENV
           else
-            echo "No changes detected in template.js, post.txt, LinkedIn_Template_EN.js, or tracker files. Skipping push payload sequence to prevent loops."
+            echo "No changes detected in template.js, post.txt, Social_Media/LinkedIn/LinkedIn_Template_EN.js, or tracker files. Skipping push payload sequence to prevent loops."
             echo "PUSH_SUCCESS=false" >> $GITHUB_ENV
           fi
 
@@ -213,17 +213,21 @@ jobs:
           fi
 
       - name: Dispatch Reconfirmation Email Notification
-        if: env.PUSH_SUCCESS == 'true'
+        if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
         env:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
         run: |
+          # Buffer Gate: Wait 10 seconds to ensure all prior updates and image commits are fully settled
+          sleep 10
           python - << 'EOF'
           import os
           import re
           import smtplib
           from email.mime.multipart import MIMEMultipart
           from email.mime.text import MIMEText
+          from email.mime.base import MIMEBase
+          from email import encoders
 
           try:
               # Read the freshly pushed template.js file
@@ -255,7 +259,7 @@ jobs:
               password = os.environ.get('EMAIL_PASS')
 
               # Build the Email Container
-              msg = MIMEMultipart('alternative')
+              msg = MIMEMultipart()
               msg['Subject'] = subject_line
               msg['From'] = f"SiyalAir Core <{sender}>"
               msg['To'] = recipient
@@ -294,6 +298,19 @@ jobs:
               """
               
               msg.attach(MIMEText(html_body, 'html'))
+
+              # Attach updated LinkedIn_Template_EN.js from Social_Media/LinkedIn/
+              linkedin_file = os.path.join('Social_Media', 'LinkedIn', 'LinkedIn_Template_EN.js')
+              if os.path.exists(linkedin_file):
+                  with open(linkedin_file, 'rb') as lf:
+                      part = MIMEBase('application', 'javascript')
+                      part.set_payload(lf.read())
+                      encoders.encode_base64(part)
+                      part.add_header('Content-Disposition', f'attachment; filename="LinkedIn_Template_EN.js"')
+                      msg.attach(part)
+                  print(f"Success: Attached {linkedin_file} to email dispatch.")
+              else:
+                  print(f"Warning: Could not locate attachment at {linkedin_file}")
 
               # Connect to Gmail SMTP Gateway Securely
               server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
