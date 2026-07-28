@@ -9,53 +9,37 @@ const dailyData = {
         "en": {
             "main": {
                 "kicker": "",
-                "titleWhite": "GLOBAL SUPPLY CHAIN",
-                "titleBlue": "DISRUPTION",
-                "footerSummary": "A rapid escalation in customs enforcement, nuclear court liabilities, and critical infrastructure shifts introduces unprecedented operational friction across global networks."
+                "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
+                "titleBlue": "SHIFTS",
+                "footerSummary": "Broker liabilities surge past $600M and forced labor tariffs trigger severe customs delays across critical global entry gateways."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "DOJ: TRADE FRAUD PENALTIES",
+                    "heading": "C.H. ROBINSON: CARRIER VETTING RISK",
                     "points": [
-                        "The Justice Department\u2019s Trade Fraud Task Force has officially surpassed one billion dollars in total recoveries. This milestone highlights intensified federal scrutiny targeting international import compliance and strategic duty evasion tactics. Government agencies are aggressively pursuing companies that falsify country of origin documentation to bypass tariffs.",
-                        "Corporate importers face severe financial penalties and criminal prosecutions for failing to maintain transparent shipping logs. Over sixty global trading partners are now under active review for potential trade violations and fraud. Compliance audits are expanding rapidly, forcing logistics directors to thoroughly verify their third-party broker operations.",
-                        "Importers must quickly establish advanced tracing systems to mitigate these expanding regulatory and financial risks. Organizations should proactively audit their historic customs filings to identify and resolve potential classification discrepancies. Maintaining absolute data integrity across the global supply chain remains the primary defense against investigations."
+                        "The federal court issued a massive six-hundred-four million dollar judgment against logistics giant C.H. Robinson. The landmark ruling stemmed from negligent carrier selection allegations following a severe highway accident. This judicial outcome severely threatens the traditional asset-light business model of major freight brokers.",
+                        "Under the post-Montgomery legal environment, brokers face unlimited financial exposure during catastrophic accidents. Insurance underwriters are immediately restructuring liability coverage rules for non-asset transport providers. Shippers must now verify carrier safety records to avoid vicarious liability exposure.",
+                        "Automated vetting workflows must dynamically integrate real-time federal safety ratings to mitigate operational risks. Companies are abandoning legacy electronic data interchange connections to deploy real-time compliance APIs. This systemic shift forces a complete overhaul of carrier onboarding and verification protocols."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "E-COMMERCE: DE MINIMIS CRISIS",
+                    "nextUpTease": "USTR: FORCED LABOR TARIFFS",
                     "tags": [
-                        "Source: https://www.inboundlogistics.com",
+                        "Source: https://www.freightwaves.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "E-COMMERCE: DE MINIMIS CRISIS",
+                    "heading": "USTR: FORCED LABOR TARIFFS",
                     "points": [
-                        "Major e-commerce platforms are experiencing severe financial losses following the structural termination of de minimis exemptions. Low-value package imports from overseas distribution networks no longer bypass standard customs duty assessment rules. This regulatory shift forces global digital marketplaces to completely re-evaluate their cross-border shipping models.",
-                        "Importers are facing significantly higher operational overhead alongside administrative delays at major gateway fulfillment hubs. Average delivery times have escalated by several days as customs authorities physically inspect massive cargo volumes. Retail profit margins are shrinking rapidly, pushing operators to establish regional distribution networks within consumer markets.",
-                        "E-commerce retailers must swiftly adapt their logistics strategy to handle these persistent trade compliance challenges. Diversifying manufacturing locations outside traditional low-cost hubs represents a critical step for modern digital brands. Developing resilient fulfillment architectures will determine long-term survival in an increasingly restricted global trade environment."
+                        "The Office of the United States Trade Representative is implementing Section 301 tariffs on sixty trading partners. These import levies target systemic forced labor practices as Section 122 emergency duties officially expire. The newly enacted regulatory framework establishes high-barrier customs thresholds for global supply chain compliance.",
+                        "Importers will face ten to twelve point five percent tariffs on multi-sector trade items. These targeted financial measures are driving sudden cargo frontloading maneuvers across major North American gateways. Customs brokers are adjusting documentation to prevent severe cargo delays at marine terminal yards.",
+                        "Global brands must urgently map multi-tier supplier networks to secure valid country-of-origin certification. Regulatory compliance operations are shifting from reactive audits to automated chain-of-custody tracking platforms. Importers must proactively restructure their sourcing strategies to mitigate escalating trade policy risks."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "LITIGATION: NUCLEAR BROKER VERDICTS",
-                    "tags": [
-                        "Source: https://www.supplychainbrain.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 3,
-                    "heading": "LITIGATION: NUCLEAR BROKER VERDICTS",
-                    "points": [
-                        "The logistics industry is reeling from a massive six hundred and four million dollar court ruling. A prominent third-party logistics broker was held strictly liable for negligent motor carrier selection practices. This landmark legal decision sets a highly dangerous precedent for brokerages operating across North American networks.",
-                        "Freight brokers must immediately implement exhaustive background vetting systems to protect themselves from severe liability. Simple compliance checks are no longer sufficient to defend against catastrophic injury claims in federal courts. Industry experts anticipate a dramatic surge in insurance premiums and stricter underwriting guidelines for transport intermediaries.",
-                        "Shipping companies must re-evaluate their carrier selection standards and establish rigorous safety monitoring processes. Utilizing automated tracking software and historical safety records represents the best approach to mitigate operational risks. Companies that fail to reform their vetting workflows face immediate exposure to devastating financial damage awards."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "TARIFFS: FORCED LABOR ACTS",
+                    "nextUpTease": "SEA-INTELLIGENCE: LINER SCHEDULE ROTATIONS",
                     "tags": [
                         "Source: https://www.logisticsmgmt.com",
                         "Published: Last 48 Hours",
@@ -63,65 +47,81 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 4,
-                    "heading": "TARIFFS: FORCED LABOR ACTS",
+                    "id": 3,
+                    "heading": "SEA-INTELLIGENCE: LINER SCHEDULE ROTATIONS",
                     "points": [
-                        "The United States Trade Representative is aggressively enforcing newly implemented Section 301 tariffs on global imports. These strict measures target forced labor violations across sixty designated trading nations as temporary exemptions expire. Supply chain executives must immediately prepare for higher duties on critical industrial and consumer goods categories.",
-                        "Importers are experiencing unprecedented compliance hurdles when proving that their international materials are ethically sourced. Customs authorities are demanding granular tracing data for every step of the manufacturing and production process. Importers who cannot provide adequate documentation face immediate cargo seizures and long-term supply chain disruptions.",
-                        "Organizations must invest in sophisticated digital tracing tools to ensure total compliance with changing federal regulations. Establishing direct communication with tier-two and tier-three suppliers is vital to secure authentic supply chain documentation. Strategic diversification of sourcing networks remains the most effective method to navigate these severe tariff penalties."
+                        "Ocean container carriers are systematically prioritizing major transpacific and Asia-to-Europe lanes over regional feeder networks. This structural prioritization attempts to maximize yield on high-volume lanes amid global vessel shortages. Consequently, regional secondary ports are experiencing severe blank sailings and equipment deficits.",
+                        "Schedule reliability remains highly fragmented as carriers bypass traditional regional transshipment hubs globally. Freight forwarders are reporting localized space crunches and escalating spot rates for non-core ocean shipments. Marine terminal operators must adjust yard management strategies to accommodate volatile carrier arrival windows.",
+                        "Shippers are actively deploying multi-carrier strategies to secure ocean container allocations. Logistics managers are utilizing automated predictive tracking systems to manage extended dwell times. This tactical realignment highlights the growing necessity of flexible booking structures in modern shipping."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "GEOPOLITICS: HORMUZ ROUTE CRISIS",
+                    "nextUpTease": "PROJECT44: AI SOFTWARE DECOUPLING",
                     "tags": [
-                        "Source: https://www.supplychaindive.com",
+                        "Source: https://theloadstar.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "heading": "PROJECT44: AI SOFTWARE DECOUPLING",
+                    "points": [
+                        "Real-time supply chain visibility provider Project44 is launching advanced artificial intelligence initiatives. These software updates aim to directly challenge CargoWise's long-standing dominance in global freight forwarding workflows. The technological shift leverages generative intelligence to automate complex international documentation and tracking.",
+                        "Freight forwarders are rapidly migrating legacy system architectures to modern cloud-native visibility platforms. This industry-wide shift reduces manual tracking overhead and increases operational data transparency significantly. Software procurement cycles are transitioning from monolithic multi-year contracts to agile modular solutions.",
+                        "Digital supply chain orchestrations now require high-frequency API integrations for real-time transport intelligence. Freight forwarders are prioritizing software that offers automated exceptions management over basic milestone tracking. The competitive landscape for logistics software is evolving into a pure artificial intelligence capability race."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "USPS: MARKETPLACE RATE SURCHARGES",
+                    "tags": [
+                        "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 5,
-                    "heading": "GEOPOLITICS: HORMUZ ROUTE CRISIS",
+                    "heading": "USPS: MARKETPLACE RATE SURCHARGES",
                     "points": [
-                        "Escalating regional conflicts are severely disrupting maritime transit through the strategically critical Strait of Hormuz. Global shipping lines are recording massive drops in overall schedule reliability as vessels divert around Africa. Importers must brace for extended transit times and fluctuating spot freight rates on major trade lanes.",
-                        "Refiners in Asian nations are rapidly shifting their purchasing strategies to avoid these dangerous chokepoints. Businesses are actively sourcing crude oil and raw materials from safer regions like the Atlantic Basin. This dramatic trade realignment is intensifying the global competition for non-Middle Eastern energy and industrial resources.",
-                        "Logistics planners should immediately develop robust contingency routing models to mitigate prolonged maritime transit delays. Collaborative agreements with regional air cargo carriers can help transport high-value shipments during severe ocean disruptions. Shippers must maintain high inventory safety buffers to protect domestic assembly lines from unexpected transport failures."
+                        "The United States Postal Service is implementing substantial package rate increases for domestic e-commerce sellers. This immediate tariff adjustment significantly elevates Ground Advantage rates for lightweight merchant shipments. The policy shift directly affects online marketplace logistics across eBay, Etsy, and Amazon networks.",
+                        "Lightweight packages heading to rural delivery destinations will incur additional surcharges. Online merchants are facing increased shipping costs that compress small-business profit margins. Logistics software platforms are automatically updating shipping label calculators to reflect the new rates.",
+                        "E-commerce businesses are actively diversifying their final-mile carrier portfolios to optimize shipping costs. Multi-carrier shipping software is becoming essential to route packages based on real-time rate comparisons. Shippers must refine their delivery strategies to survive escalating postal transport operational costs."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "INFRASTRUCTURE: RAILROAD MERGER DEALS",
+                    "nextUpTease": "HMM: FLEET EXPANSION STRATEGY",
                     "tags": [
-                        "Source: https://www.joc.com",
+                        "Source: https://www.ecommercebytes.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 6,
-                    "heading": "INFRASTRUCTURE: RAILROAD MERGER DEALS",
+                    "heading": "HMM: FLEET EXPANSION STRATEGY",
                     "points": [
-                        "Top North American railroads have submitted extensive supplemental data to expedite their proposed corporate merger. This critical filing contains unprecedented customer protections designed to appease federal regulators and secure final approval. The strategic consolidation aims to streamline freight movements across highly congested continental shipping corridors.",
-                        "Competitors have officially withdrawn their formal objections following bilateral service agreements and network access deals. Intermodal operators expect enhanced transit efficiencies and improved terminal coordination once the integration is completed. Shippers should monitor these structural updates closely to optimize their long-haul rail and container strategies.",
-                        "Organizations must continuously evaluate their inland freight distribution networks to capture new intermodal rail efficiencies. Combining trucking routes with optimized rail services will significantly reduce carbon emissions and overall transport costs. Building flexible logistics partnerships is critical to navigating this newly consolidated North American railroad system."
+                        "South Korean ocean carrier HMM is launching a massive five-year vessel fleet expansion initiative. The strategic shipbuilding program focuses on securing additional medium-sized container vessels and feeder ships. This capacity expansion aims to support HMM's optimized hub-and-spoke liner shipping network.",
+                        "The carrier is investing capital to acquire new container vessels with advanced environmental designs. This capacity injection will directly bolster cargo slot availability across critical intra-Asia trade lanes. Global alliances are closely monitoring these asset deployments to evaluate potential container market shares.",
+                        "Fleet modernization programs are increasingly tied to strict international maritime decarbonization rules. Shippers are prioritizing ocean carriers that offer verifiable lower carbon emission metrics per container mile. This capital deployment reflects a long-term commitment to resilient ocean transport infrastructure."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "BORDERLANDS: GORDIE HOWE BRIDGE",
+                    "nextUpTease": "FMC: DETENTION BILLING COMPLIANCE",
                     "tags": [
-                        "Source: https://www.supplychainbrain.com",
+                        "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 7,
-                    "heading": "BORDERLANDS: GORDIE HOWE BRIDGE",
+                    "heading": "FMC: DETENTION BILLING COMPLIANCE",
                     "points": [
-                        "The highly anticipated Gordie Howe International Bridge has officially opened for commercial truck cargo traffic. This advanced crossing provides a critical secondary highway route between the United States and Canadian industrial hubs. The modern structure will immediately alleviate persistent congestion issues at the Detroit and Windsor border crossings.",
-                        "Automotive supply chains will benefit immensely from shortened border wait times and enhanced freight flow predictability. Cross-border logistics providers can now optimize their trucking fleets and reduce expensive idle fuel burning. This vital land bridge secures trade resilience against unexpected disruptions at older transit infrastructure points.",
-                        "Fleet managers must quickly incorporate this newly opened route into their daily dispatch planning workflows. Partnering with experienced customhouse brokers will ensure seamless compliance with the updated border clearance procedures. Leveraging this massive infrastructure project is essential for maintaining highly efficient bilateral manufacturing supply lines."
+                        "The United States Court of Appeals upheld the Federal Maritime Commission's historic detention rules. The landmark judicial decision confirms that carrier demurrage billing practices must promote absolute freight fluidity. This legal precedent prevents ocean carriers from charging fees during periods of extreme port congestion.",
+                        "Ocean carriers must systematically audit their billing practices to comply with strict federal guidelines. Importers are expected to recover millions of dollars in wrongfully assessed late fee penalties. Freight brokers are utilizing the updated FMC guidelines to contest unfair carrier storage invoices.",
+                        "The regulatory enforcement actions reinforce the Federal Maritime Commission's active market oversight role. Supply chain legal teams are redesigning contract templates to incorporate these federal compliance standards. Importers must establish automated audit workflows to verify the legitimacy of container storage fees."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.ttnews.com",
+                        "Source: https://www.fmc.gov",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
@@ -131,53 +131,37 @@ const dailyData = {
         "de": {
             "main": {
                 "kicker": "",
-                "titleWhite": "GLOBALE LIEFERKETTEN",
-                "titleBlue": "UNTERBRECHUNG",
-                "footerSummary": "Eine rasche Versch\u00e4rfung der Zollkontrollen, nukleare Haftungsurteile und kritische Infrastrukturverschiebungen f\u00fchren zu beispiellosen operativen Reibungen in globalen Netzwerken."
+                "titleWhite": "GLOBALE FRACHT-COMPLIANCE",
+                "titleBlue": "\u00c4NDERUNGEN",
+                "footerSummary": "Maklerhaftungen \u00fcbersteigen 600 Mio. USD und Zwangsarbeitsz\u00f6lle f\u00fchren zu schwerwiegenden Verz\u00f6gerungen an globalen Eingangsh\u00e4fen."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "DOJ: STEUERBETRUGSBESTRAFUNGEN",
+                    "heading": "C.H. ROBINSON: NETZWERK-HAFTUNGSRISIKO",
                     "points": [
-                        "Die Task Force f\u00fcr Handelsbetrug des Justizministeriums hat offiziell die Marke von einer Milliarde Dollar an R\u00fcckzahlungen \u00fcberschritten. Dieser Meilenstein verdeutlicht die versch\u00e4rfte Bundesaufsicht, die auf die Einhaltung internationaler Importbestimmungen und strategische Zollumgehungen abzielt. Regierungsbeh\u00f6rden gehen aggressiv gegen Unternehmen vor, die Ursprungsdokumente f\u00e4lschen, um Z\u00f6lle zu umgehen.",
-                        "Importeure riskieren schwere finanzielle Strafen und strafrechtliche Verfolgung, wenn sie keine transparenten Versandprotokolle f\u00fchren. \u00dcber sechzig globale Handelspartner stehen derzeit unter aktiver Pr\u00fcfung wegen potenzieller Handelsverst\u00f6\u00dfe und Betrugs. Compliance-Audits weiten sich rasch aus und zwingen Logistikleiter, ihre externen Maklerdienste gr\u00fcndlich zu \u00fcberpr\u00fcfen.",
-                        "Importeure m\u00fcssen schnell fortschrittliche R\u00fcckverfolgungssysteme einrichten, um diese wachsenden regulatorischen und finanziellen Risiken zu mindern. Organisationen sollten ihre historischen Zollanmeldungen proaktiv pr\u00fcfen, um potenzielle Klassifizierungsabweichungen zu erkennen und zu beheben. Die Aufrechterhaltung absoluter Datenintegrit\u00e4t in der Lieferkette bleibt der beste Schutz gegen Untersuchungen."
+                        "Das Bundesgericht verh\u00e4ngte ein massives Urteil \u00fcber sechshundertvier Millionen Dollar gegen den Logistikriesen C.H. Robinson. Das wegweisende Urteil resultierte aus Vorw\u00fcrfen der fahrl\u00e4ssigen Frachtf\u00fchrerauswahl nach einem schweren Autobahnunfall. Dieses gerichtliche Ergebnis bedroht das traditionelle anlagenleichte Gesch\u00e4ftsmodell gro\u00dfer Frachtmakler erheblich.",
+                        "Unter den rechtlichen Rahmenbedingungen nach Montgomery drohen Maklern unbegrenzte finanzielle Risiken bei schweren Unf\u00e4llen. Versicherer strukturieren die Haftungsregeln f\u00fcr Transportanbieter ohne eigene Flotte ab sofort v\u00f6llig neu. Verfrachter m\u00fcssen nun Sicherheitsnachweise der Spediteure pr\u00fcfen, um eine Haftungs\u00fcbernahme zu vermeiden.",
+                        "Automatisierte Pr\u00fcfprozesse m\u00fcssen Bundes-Sicherheitsbewertungen in Echtzeit integrieren, um operative Risiken zu minimieren. Unternehmen verabschieden sich von veralteten EDI-Verbindungen und f\u00fchren Compliance-APIs in Echtzeit ein. Dieser systemische Wandel erzwingt eine vollst\u00e4ndige \u00dcberholung aller Onboarding- und Verifizierungsprozesse f\u00fcr Frachtf\u00fchrer."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "E-COMMERCE: DE MINIMIS KRISE",
+                    "nextUpTease": "USTR: ZWANGSARBEITS-Z\u00d6LLE",
                     "tags": [
-                        "Source: https://www.inboundlogistics.com",
+                        "Source: https://www.freightwaves.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "E-COMMERCE: DE MINIMIS KRISE",
+                    "heading": "USTR: ZWANGSARBEITS-Z\u00d6LLE",
                     "points": [
-                        "Gro\u00dfe E-Commerce-Plattformen verzeichnen nach dem strukturellen Wegfall der De Minimis Freigrenzen erhebliche finanzielle Einbu\u00dfen. Importe von Paketen mit geringem Wert aus \u00dcbersee-Vertriebsnetzen umgehen nicht mehr die standardm\u00e4\u00dfigen Zollabgaben. Dieser regulatorische Wandel zwingt digitale Marktpl\u00e4tze, ihre grenz\u00fcberschreitenden Versandmodelle vollst\u00e4ndig zu \u00fcberdenken.",
-                        "Importeure sind mit deutlich h\u00f6heren Betriebskosten und administrativen Verz\u00f6gerungen an wichtigen Fulfillment-Hubs konfrontiert. Die durchschnittlichen Lieferzeiten haben sich verl\u00e4ngert, da die Zollbeh\u00f6rden physisch riesige Frachtmengen inspizieren. Die Einzelhandelsmargen schrumpfen rapide, was Betreiber dazu dr\u00e4ngt, regionale Vertriebsnetze in Verbraucherm\u00e4rkten aufzubauen.",
-                        "E-Commerce-H\u00e4ndler m\u00fcssen ihre Logistikstrategie z\u00fcgig anpassen, um diese anhaltenden Herausforderungen bei der Handels-Compliance zu bew\u00e4ltigen. Die Diversifizierung der Produktionsstandorte au\u00dferhalb traditioneller Billiglohnl\u00e4nder ist ein entscheidender Schritt f\u00fcr digitale Marken. Der Aufbau resilienter Fulfillment-Architekturen entscheidet \u00fcber das langfristige \u00dcberleben im eingeschr\u00e4nkten Handelsumfeld."
+                        "Das USTR f\u00fchrt Section-301-Z\u00f6lle auf sechzig Handelspartner ein, um Zwangsarbeit im internationalen Handel systematisch zu bek\u00e4mpfen. Diese Einfuhrz\u00f6lle treten in Kraft, sobald die Notstandsz\u00f6lle nach Section 122 offiziell auslaufen. Das neue Regelwerk schafft hohe regulatorische H\u00fcrden f\u00fcr die Einhaltung globaler Lieferkettenstandards.",
+                        "Importeure m\u00fcssen mit Z\u00f6llen von zehn bis zw\u00f6lf Komma f\u00fcnf Prozent auf betroffene Warengruppen rechnen. Diese gezielten finanziellen Ma\u00dfnahmen f\u00fchren bereits zu vorgezogenen Importwellen an den wichtigsten nordamerikanischen H\u00e4fen. Zollmakler passen ihre Dokumentationsprozesse an, um kostspielige Verz\u00f6gerungen an den Hafenterminals zu verhindern.",
+                        "Globale Marken m\u00fcssen Zuliefernetzwerke \u00fcber mehrere Ebenen hinweg abbilden, um Herkunftszertifikate zu sichern. Das Compliance-Management wandelt sich von reaktiven Pr\u00fcfungen hin zu automatisierten Systemen der Lieferketten-R\u00fcckverfolgbarkeit. Einf\u00fchrer m\u00fcssen ihre Beschaffungsstrategien vorausschauend anpassen, um eskalierende handelspolitische Risiken effektiv abzufedern."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "RECHTSSTREIT: NUKLEARE MAKLERURTEILE",
-                    "tags": [
-                        "Source: https://www.supplychainbrain.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 3,
-                    "heading": "RECHTSSTREIT: NUKLEARE MAKLERURTEILE",
-                    "points": [
-                        "Die Logistikbranche ist von einem massiven Gerichtsurteil \u00fcber sechshundertvier Millionen Dollar sichtlich ersch\u00fcttert. Ein f\u00fchrender Logistikmakler wurde f\u00fcr fahrl\u00e4ssige Auswahlverfahren bei Stra\u00dfentransportunternehmen haftbar gemacht. Diese wegweisende Entscheidung schafft einen gef\u00e4hrlichen Pr\u00e4zedenzfall f\u00fcr Makler, die in nordamerikanischen Netzwerken t\u00e4tig sind.",
-                        "Frachtmakler m\u00fcssen unverz\u00fcglich umfassende Hintergrundpr\u00fcfungssysteme einf\u00fchren, um sich vor schwerer Haftung zu sch\u00fctzen. Einfache Compliance-Pr\u00fcfungen reichen nicht mehr aus, um sich gegen katastrophale Schadensersatzforderungen abzusichern. Branchenexperten erwarten einen dramatischen Anstieg der Versicherungspr\u00e4mien und strengere Richtlinien f\u00fcr Transportvermittler.",
-                        "Versandunternehmen m\u00fcssen ihre Standards zur Transporteur-Auswahl neu bewerten und strenge Sicherheits\u00fcberwachungsprozesse etablieren. Die Nutzung automatisierter Tracking-Software und historischer Sicherheitsdaten stellt den besten Ansatz zur Risikominderung dar. Unternehmen, die ihre Pr\u00fcfungsverfahren nicht reformieren, drohen verheerende finanzielle Schadensersatzzahlungen."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "ZOLLTARIFE: ZWANGSARBEITSGESETZE",
+                    "nextUpTease": "SEA-INTELLIGENCE: LINIENPLAN-ROTATIONEN",
                     "tags": [
                         "Source: https://www.logisticsmgmt.com",
                         "Published: Last 48 Hours",
@@ -185,65 +169,81 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 4,
-                    "heading": "ZOLLTARIFE: ZWANGSARBEITSGESETZE",
+                    "id": 3,
+                    "heading": "SEA-INTELLIGENCE: LINIENPLAN-ROTATIONEN",
                     "points": [
-                        "Der US-Handelsbeauftragte setzt die neu eingef\u00fchrten Section 301 Z\u00f6lle auf globale Importe aggressiv durch. Diese strengen Ma\u00dfnahmen zielen auf Zwangsarbeitsverst\u00f6\u00dfe in sechzig ausgew\u00e4hlten Handelsnationen nach Ablauf der Ausnahmen ab. Lieferkettenverantwortliche m\u00fcssen sich unverz\u00fcglich auf h\u00f6here Z\u00f6lle f\u00fcr wichtige Industrie- und Konsumg\u00fcter einstellen.",
-                        "Importeure stehen vor beispiellosen Compliance-H\u00fcrden beim Nachweis, dass ihre internationalen Materialien ethisch einwandfrei bezogen wurden. Die Zollbeh\u00f6rden fordern detaillierte R\u00fcckverfolgungsdaten f\u00fcr jeden Schritt des Herstellungs- und Produktionsprozesses. Importeure, die keine ausreichenden Unterlagen vorlegen k\u00f6nnen, riskieren sofortige Frachtbeschlagnahmen und Lieferkettenunterbrechungen.",
-                        "Unternehmen m\u00fcssen in hochentwickelte digitale R\u00fcckverfolgungswerkzeuge investieren, um die Einhaltung ge\u00e4nderter Bundesvorschriften sicherzustellen. Der direkte Austausch mit Tier-Zwei- und Tier-Drei-Lieferanten ist entscheidend zur Sicherung authentischer Dokumente. Eine strategische Diversifizierung der Lieferantennetzwerke bleibt die effektivste Methode zur Umgehung von Zollstrafen."
+                        "Seecontainer-Reedereien priorisieren systematisch wichtige Transpazifik- und Asien-Europa-Routen gegen\u00fcber regionalen Feeder-Netzwerken. Diese strukturelle Priorisierung zielt darauf ab, die Renditen auf volumenstarken Strecken angesichts weltweiter Schiffsknappheit zu maximieren. Folglich kommt es an sekund\u00e4ren Regionalh\u00e4fen zu massiven Abfahrtsausf\u00e4llen und Containerengp\u00e4ssen.",
+                        "Die Fahrplantreue bleibt hochgradig fragmentiert, da Reedereien traditionelle regionale Transshipment-Hubs weltweit umgehen. Frachtspeditionen berichten von lokalen Laderaumengp\u00e4ssen und steigenden Spotraten f\u00fcr sekund\u00e4re Seetransporte. Terminalbetreiber m\u00fcssen ihre Werftstrategien anpassen, um die unregelm\u00e4\u00dfigen Schiffsank\u00fcnfte abzufangen.",
+                        "Verfrachter nutzen verst\u00e4rkt Multi-Carrier-Strategien, um sich feste Containerallokationen auf den Schiffen zu sichern. Logistikmanager setzen automatisierte pr\u00e4diktive Tracking-Systeme ein, um verl\u00e4ngerte Standzeiten zu bew\u00e4ltigen. Diese taktische Neuausrichtung unterstreicht die wachsende Bedeutung flexibler Buchungsstrukturen im modernen Seetransport."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "GEOPOLITIK: STRASSE VON HORMUS KRISE",
+                    "nextUpTease": "PROJECT44: KI-SOFTWARE-ENTKOPPLUNG",
                     "tags": [
-                        "Source: https://www.supplychaindive.com",
+                        "Source: https://theloadstar.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "heading": "PROJECT44: KI-SOFTWARE-ENTKOPPLUNG",
+                    "points": [
+                        "Der Echtzeit-Sichtbarkeitsdienstleister Project44 f\u00fchrt fortschrittliche Initiativen im Bereich der k\u00fcnstlichen Intelligenz ein. Diese Software-Updates zielen darauf ab, die etablierte Marktf\u00fchrerschaft von CargoWise im globalen Speditionswesen herauszufordern. Die technologische Umstellung nutzt generative Intelligenz zur Automatisierung komplexer internationaler Dokumente.",
+                        "Speditionen migrieren ihre Altsysteme in raschem Tempo auf moderne, cloudbasierte Transparenzplattformen. Diese branchenweite Transformation reduziert manuellen Tracking-Aufwand und steigert die Transparenz operativer Daten erheblich. Die Softwarebeschaffung verlagert sich von monolithischen Mehrjahresvertr\u00e4gen hin zu agilen, modularen L\u00f6sungen.",
+                        "Die digitale Steuerung von Lieferketten erfordert heute hochfrequente API-Integrationen f\u00fcr Frachtdaten in Echtzeit. Spediteure bevorzugen Softwarel\u00f6sungen, die ein automatisiertes Ausnahmemanagement anstelle einer einfachen Statusverfolgung bieten. Die Wettbewerbslandschaft f\u00fcr Logistiksoftware entwickelt sich zu einem reinen Technologiewettlauf der k\u00fcnstlichen Intelligenz."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "USPS: MARKTPLATZ-GEB\u00dcHRENZUSCHL\u00c4GE",
+                    "tags": [
+                        "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 5,
-                    "heading": "GEOPOLITIK: STRASSE VON HORMUS KRISE",
+                    "heading": "USPS: MARKTPLATZ-GEB\u00dcHRENZUSCHL\u00c4GE",
                     "points": [
-                        "Eskalierende regionale Konflikte st\u00f6ren den Schiffsverkehr durch die strategisch wichtige Stra\u00dfe von Hormus erheblich. Globale Reedereien verzeichnen massive Einbr\u00fcche der Fahrplantreue, da Schiffe um Afrika herum umgeleitet werden. Importeure m\u00fcssen sich auf l\u00e4ngere Transitzeiten und schwankende Spotraten auf den Hauptrouten einstellen.",
-                        "Raffinerien in asiatischen L\u00e4ndern ver\u00e4ndern ihre Einkaufsstrategien rasch, um diese gef\u00e4hrlichen Nadel\u00f6hre zu meiden. Unternehmen beziehen Roh\u00f6l und Rohstoffe zunehmend aus sichereren Regionen wie dem Atlantikbecken. Diese dramatische Handelsverschiebung versch\u00e4rft den globalen Wettbewerb um Energie- und Industrieressourcen au\u00dferhalb des Nahen Ostens.",
-                        "Logistikplaner sollten sofort robuste Alternativrouten entwickeln, um die Auswirkungen verl\u00e4ngerter Seetransitzeiten zu minimieren. Kooperationen mit regionalen Luftfrachtgesellschaften k\u00f6nnen helfen, hochwertige Fracht bei schweren Seest\u00f6rungen schnell zu transportieren. Verlader m\u00fcssen h\u00f6here Sicherheitsbest\u00e4nde pflegen, um heimische Montagelinien vor Transportausf\u00e4llen zu sch\u00fctzen."
+                        "Der United States Postal Service f\u00fchrt erhebliche Tariferh\u00f6hungen f\u00fcr den inl\u00e4ndischen E-Commerce-Versand ein. Diese kurzfristige Preisanpassung erh\u00f6ht die Tarife f\u00fcr den Ground Advantage-Service f\u00fcr leichte H\u00e4ndlersendungen deutlich. Die Tarif\u00e4nderung betrifft direkt die Marktplatzlogistik auf Plattformen wie eBay, Etsy und Amazon.",
+                        "F\u00fcr leichte Pakete, die an l\u00e4ndliche Zustellungsorte adressiert sind, fallen k\u00fcnftig zus\u00e4tzliche Servicegeb\u00fchren an. Online-H\u00e4ndler stehen vor steigenden Versandkosten, die die Gewinnmargen kleinerer Unternehmen sp\u00fcrbar belasten. Logistikplattformen aktualisieren ihre integrierten Versandkostenrechner automatisch auf die neuen Tarife.",
+                        "E-Commerce-Unternehmen diversifizieren ihre Last-Mile-Netzwerke, um die steigenden Transportkosten effektiv zu optimieren. Multi-Carrier-Versandsoftware wird unverzichtbar, um Sendungen auf Basis von Echtzeit-Tarifvergleichen flexibel zu steuern. Versender m\u00fcssen ihre Zustellungsstrategien anpassen, um die steigenden postalischen Betriebskosten abzufedern."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "INFRASTRUKTUR: BAHNMERGER DEALS",
+                    "nextUpTease": "HMM: FLOTTENEXPANSIONS-STRATEGIE",
                     "tags": [
-                        "Source: https://www.joc.com",
+                        "Source: https://www.ecommercebytes.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 6,
-                    "heading": "INFRASTRUKTUR: BAHNMERGER DEALS",
+                    "heading": "HMM: FLOTTENEXPANSIONS-STRATEGIE",
                     "points": [
-                        "F\u00fchrende nordamerikanische Eisenbahngesellschaften haben zus\u00e4tzliche Daten eingereicht, um ihre geplante Fusion zu beschleunigen. Diese Einreichung enth\u00e4lt beispiellose Kundenschutzma\u00dfnahmen, um die Bundesaufsichtsbeh\u00f6rden zu beruhigen und die Genehmigung zu sichern. Die strategische Konsolidierung soll den G\u00fcterverkehr auf stark ausgelasteten kontinentalen Transportkorridoren rationalisieren.",
-                        "Konkurrenten haben ihre formalen Einw\u00e4nde nach bilateralen Servicevereinbarungen und Netzzugangsabkommen offiziell zur\u00fcckgezogen. Intermodale Betreiber erwarten eine verbesserte Transiteffizienz und optimierte Terminalkoordination nach Abschluss der Systemintegration. Verlader sollten diese strukturellen Updates genau verfolgen, um ihre Schienen- und Containerstrategien anzupassen.",
-                        "Unternehmen m\u00fcssen ihre inl\u00e4ndischen Vertriebsnetze kontinuierlich bewerten, um neue intermodale Schieneneffizienzen zu nutzen. Die Kombination von Lkw-Routen mit optimierten Bahndiensten wird Emissionen und Transportkosten erheblich senken. Der Aufbau flexibler Logistikpartnerschaften ist entscheidend, um dieses konsolidierte nordamerikanische Eisenbahnsystem zu nutzen."
+                        "Die s\u00fcdkoreanische Linienreederei HMM startet eine umfassende f\u00fcnfj\u00e4hrige Initiative zum Ausbau ihrer Schiffsflotte. Das strategische Schiffbauprogramm konzentriert sich auf die Beschaffung mittlerer Containerschiffe und kleinerer Zubringerschiffe. Dieser Kapazit\u00e4tsausbau soll das optimierte Hub-and-Spoke-Netzwerk von HMM gezielt st\u00e4rken.",
+                        "Die Reederei investiert erhebliches Kapital in moderne Containerschiffe mit zukunftsweisendem, umweltfreundlichem Design. Diese Kapazit\u00e4tsoffensive wird die Verf\u00fcgbarkeit von Stellpl\u00e4tzen auf den wichtigen Intra-Asien-Routen direkt verbessern. Globale Allianzen analysieren diese Flottenzug\u00e4nge genau, um zuk\u00fcnftige Marktanteile im Containersegment zu bewerten.",
+                        "Flottenmodernisierungen sind zunehmend an die strengen Dekarbonisierungsvorgaben der Internationalen Seeschifffahrts-Organisation gekoppelt. Verlader bevorzugen zunehmend Seereedereien, die nachweisbar geringere CO2-Emissionen pro Containermeile vorweisen k\u00f6nnen. Diese Kapitalallokation spiegelt das langfristige Bekenntnis zu einer resilienten Seetransportinfrastruktur wider."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "GRENZGEBIET: GORDIE HOWE BRIDGE",
+                    "nextUpTease": "FMC: DEMURRAGE-COMPLIANCE",
                     "tags": [
-                        "Source: https://www.supplychainbrain.com",
+                        "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 7,
-                    "heading": "GRENZGEBIET: GORDIE HOWE BRIDGE",
+                    "heading": "FMC: DEMURRAGE-COMPLIANCE",
                     "points": [
-                        "Die lang erwartete Gordie Howe International Bridge wurde offiziell f\u00fcr den gewerblichen Lkw-G\u00fcterverkehr freigegeben. Diese moderne Verbindung bietet eine wichtige Ausweichroute zwischen den USA und den kanadischen Industriezentren. Die neue Struktur wird die anhaltenden Staus an den Grenz\u00fcberg\u00e4ngen Detroit und Windsor sofort lindern.",
-                        "Die Lieferketten der Automobilindustrie werden massiv von k\u00fcrzeren Wartezeiten und verbesserter Vorhersehbarkeit profitieren. Grenz\u00fcberschreitende Logistikdienstleister k\u00f6nnen nun ihre Flotten optimieren und teure Leerlaufzeiten der Motoren reduzieren. Diese wichtige Landbr\u00fccke sichert die Handelsresilienz gegen unerwartete Ausf\u00e4lle an \u00e4lteren Infrastrukturpunkten.",
-                        "Flottenmanager m\u00fcssen diese neu er\u00f6ffnete Route schnell in ihre t\u00e4gliche Dispositions- und Routenplanung integrieren. Die Zusammenarbeit mit erfahrenen Zollmaklern stellt eine reibungslose Einhaltung der aktualisierten Zollverfahren sicher. Die Nutzung dieses massiven Infrastrukturprojekts ist entscheidend f\u00fcr effiziente bilaterale Produktionslieferketten."
+                        "Das US-Berufungsgericht hat die historischen Richtlinien der Federal Maritime Commission zur Detention best\u00e4tigt. Das wegweisende Urteil bekr\u00e4ftigt, dass die Demurrage-Abrechnungspraktiken der Reedereien den Frachtfluss f\u00f6rdern m\u00fcssen. Diese Rechtsprechung verbietet es Reedereien, in Phasen extremer Hafen\u00fcberlastung unfaire Lagergeb\u00fchren zu berechnen.",
+                        "Seereedereien m\u00fcssen ihre Abrechnungssysteme anpassen, um die strengen beh\u00f6rdlichen Vorgaben vollst\u00e4ndig einzuhalten. Importeure k\u00f6nnen voraussichtlich R\u00fcckerstattungen f\u00fcr unrechtm\u00e4\u00dfig erhobene Versp\u00e4tungsgeb\u00fchren in Millionenh\u00f6he geltend machen. Frachtmakler nutzen die aktualisierten FMC-Richtlinien aktiv zur Abwehr unberechtigter Containerrechnungen.",
+                        "Die beh\u00f6rdlichen Durchsetzungsma\u00dfnahmen st\u00e4rken die aktive Aufsichtsrolle der Federal Maritime Commission im Markt. Rechtsabteilungen in der Lieferkette passen Vertragsvorlagen an, um diese verbindlichen Compliance-Standards zu verankern. Importeure m\u00fcssen automatisierte Rechnungspr\u00fcfungen etablieren, um die Rechtm\u00e4\u00dfigkeit von Container-Lagergeb\u00fchren zu sichern."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.ttnews.com",
+                        "Source: https://www.fmc.gov",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
@@ -253,53 +253,37 @@ const dailyData = {
         "fr": {
             "main": {
                 "kicker": "",
-                "titleWhite": "PERTURBATION DES CHA\u00ceNES",
-                "titleBlue": "MONDIALES",
-                "footerSummary": "L'escalade rapide des contr\u00f4les douaniers, des jugements en responsabilit\u00e9 et des changements d'infrastructure introduit des frictions op\u00e9rationnelles sans pr\u00e9c\u00e9dent."
+                "titleWhite": "CONFORMIT\u00c9 DU FRET",
+                "titleBlue": "GLOBAL",
+                "footerSummary": "Les responsabilit\u00e9s des courtiers d\u00e9passent 600M$ et les tarifs sur le travail forc\u00e9 provoquent des retards douaniers critiques."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "DOJ: SANCTIONS FRAUDE COMMERCIALE",
+                    "heading": "C.H. ROBINSON: RISQUE DE S\u00c9LECTION",
                     "points": [
-                        "La division de lutte contre la fraude commerciale du minist\u00e8re de la Justice a officiellement d\u00e9pass\u00e9 un milliard de dollars de recouvrements. Cette \u00e9tape importante met en lumi\u00e8re le renforcement des contr\u00f4les f\u00e9d\u00e9raux ciblant la conformit\u00e9 des importations et l'\u00e9vasion des droits de douane. Les agences gouvernementales poursuivent activement les entreprises qui falsifient l'origine des produits pour contourner les taxes.",
-                        "Les importateurs s'exposent \u00e0 de lourdes sanctions financi\u00e8res et \u00e0 des poursuites p\u00e9nales en cas de falsification des registres de transport. Plus de soixante partenaires commerciaux mondiaux font actuellement l'objet d'enqu\u00eates pour violations potentielles et pratiques frauduleuses. Les audits de conformit\u00e9 se multiplient rapidement, obligeant les directeurs logistiques \u00e0 v\u00e9rifier rigoureusement leurs courtiers tiers.",
-                        "Les importateurs doivent d\u00e9ployer rapidement des syst\u00e8mes de tra\u00e7abilit\u00e9 avanc\u00e9s afin d'att\u00e9nuer ces risques r\u00e9glementaires et financiers croissants. Les organisations devraient auditer proactivement leurs d\u00e9clarations douani\u00e8res historiques pour identifier et corriger les anomalies de classification. Maintenir une int\u00e9grit\u00e9 absolue des donn\u00e9es de la cha\u00eene d'approvisionnement reste la meilleure d\u00e9fense contre les enqu\u00eates."
+                        "Le tribunal f\u00e9d\u00e9ral a rendu un jugement de six cent quatre millions de dollars contre C.H. Robinson. Cette d\u00e9cision historique d\u00e9coule d'all\u00e9gations de s\u00e9lection n\u00e9gligente du transporteur apr\u00e8s un accident de la route. Ce r\u00e9sultat judiciaire menace gravement le mod\u00e8le d'affaires traditionnel sans actifs des courtiers de fret.",
+                        "Dans l'environnement juridique post-Montgomery, les courtiers font face \u00e0 une exposition financi\u00e8re illimit\u00e9e en cas d'accident. Les assureurs restructurent imm\u00e9diatement les r\u00e8gles de couverture de responsabilit\u00e9 pour les prestataires de transport. Les chargeurs doivent d\u00e9sormais v\u00e9rifier les dossiers de s\u00e9curit\u00e9 des transporteurs pour \u00e9viter toute responsabilit\u00e9 civile.",
+                        "Les flux de v\u00e9rification automatis\u00e9s doivent int\u00e9grer les notations de s\u00e9curit\u00e9 f\u00e9d\u00e9rales en temps r\u00e9el pour att\u00e9nuer les risques. Les entreprises abandonnent les anciennes connexions d'\u00e9change de donn\u00e9es informatis\u00e9es pour d\u00e9ployer des API de conformit\u00e9. Ce changement syst\u00e9mique impose une r\u00e9vision compl\u00e8te des protocoles d'int\u00e9gration et de v\u00e9rification des transporteurs."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "E-COMMERCE: CRISE DE MINIMIS",
+                    "nextUpTease": "USTR: TARIFS SUR LE TRAVAIL FORC\u00c9",
                     "tags": [
-                        "Source: https://www.inboundlogistics.com",
+                        "Source: https://www.freightwaves.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "E-COMMERCE: CRISE DE MINIMIS",
+                    "heading": "USTR: TARIFS SUR LE TRAVAIL FORC\u00c9",
                     "points": [
-                        "Les grandes plateformes de commerce \u00e9lectronique subissent d'importantes pertes financi\u00e8res suite \u00e0 la suppression structurelle des exemptions de De Minimis. Les importations de colis de faible valeur ne contournent plus les r\u00e8gles standards d'\u00e9valuation des droits de douane. Ce changement r\u00e9glementaire contraint les places de march\u00e9 mondiales \u00e0 r\u00e9\u00e9valuer totalement leurs mod\u00e8les d'exp\u00e9dition transfrontali\u00e8re.",
-                        "Les importateurs font face \u00e0 des co\u00fbts op\u00e9rationnels accrus et \u00e0 des retards administratifs dans les centres de distribution cl\u00e9s. Les d\u00e9lais de livraison moyens ont augment\u00e9 en raison de l'inspection physique syst\u00e9matique des cargaisons par les douanes. Les marges de d\u00e9tail se contractent, poussant les op\u00e9rateurs \u00e0 \u00e9tablir des r\u00e9seaux de distribution r\u00e9gionaux proches des consommateurs.",
-                        "Les d\u00e9taillants en ligne doivent adapter d'urgence leur strat\u00e9gie logistique pour surmonter ces d\u00e9fis persistants de conformit\u00e9 commerciale. Diversifier les sites de production en dehors des zones traditionnelles \u00e0 bas co\u00fbts est crucial pour les marques num\u00e9riques. D\u00e9velopper des architectures de distribution r\u00e9silientes d\u00e9terminera la survie \u00e0 long terme dans un environnement commercial restreint."
+                        "L'USTR met en \u0153uvre des tarifs Section 301 sur soixante partenaires commerciaux contre le travail forc\u00e9. Ces taxes \u00e0 l'importation entrent en vigueur au moment o\u00f9 les droits d'urgence de la Section 122 expirent. Le nouveau cadre r\u00e9glementaire \u00e9tablit des seuils douaniers stricts pour la conformit\u00e9 de la cha\u00eene d'approvisionnement.",
+                        "Les importateurs feront face \u00e0 des tarifs de dix \u00e0 douze virgule cinq pour cent sur divers produits. Ces mesures financi\u00e8res cibl\u00e9es entra\u00eenent des op\u00e9rations de chargement anticip\u00e9 vers les principaux ports d'Am\u00e9rique du Nord. Les courtiers en douane ajustent la documentation pour \u00e9viter des retards co\u00fbteux dans les terminaux maritimes.",
+                        "Les marques mondiales doivent cartographier leurs fournisseurs multi-niveaux pour garantir des certificats d'origine valides. La conformit\u00e9 passe d'audits r\u00e9actifs \u00e0 des plateformes automatis\u00e9es de suivi de la cha\u00eene de contr\u00f4le. Les importateurs doivent restructurer leurs strat\u00e9gies d'approvisionnement pour att\u00e9nuer les risques croissants de politique commerciale."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "LITIGE: VERDICTS NUCL\u00c9AIRES COURTIERS",
-                    "tags": [
-                        "Source: https://www.supplychainbrain.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 3,
-                    "heading": "LITIGE: VERDICTS NUCL\u00c9AIRES COURTIERS",
-                    "points": [
-                        "Le secteur de la logistique est \u00e9branl\u00e9 par un jugement historique de six cent quatre millions de dollars. Un courtier logistique de premier plan a \u00e9t\u00e9 reconnu responsable de n\u00e9gligence dans la s\u00e9lection d'un transporteur routier. Cette d\u00e9cision de justice cr\u00e9e un pr\u00e9c\u00e9dent extr\u00eamement dangereux pour les interm\u00e9diaires op\u00e9rant sur les r\u00e9seaux nord-am\u00e9ricains.",
-                        "Les courtiers de fret doivent imm\u00e9diatement mettre en \u0153uvre des syst\u00e8mes de v\u00e9rification rigoureux pour se pr\u00e9munir d'une responsabilit\u00e9 lourde. De simples contr\u00f4les de conformit\u00e9 ne suffisent plus \u00e0 contrer les r\u00e9clamations pour dommages corporels devant les tribunaux. Les experts pr\u00e9voient une hausse dramatique des primes d'assurance et un durcissement des conditions de souscription pour les interm\u00e9diaires.",
-                        "Les chargeurs doivent r\u00e9\u00e9valuer leurs normes de s\u00e9lection des transporteurs et instaurer des processus de surveillance de la s\u00e9curit\u00e9. L'utilisation de logiciels de suivi automatis\u00e9s et l'examen des ant\u00e9c\u00e9dents de s\u00e9curit\u00e9 constituent la meilleure approche d'att\u00e9nuation. Les entreprises qui n\u00e9gligent de r\u00e9former leurs processus s'exposent \u00e0 des sanctions financi\u00e8res et judiciaires d\u00e9vastatrices."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "TARIFS: LOIS SUR LE TRAVAIL FORC\u00c9",
+                    "nextUpTease": "SEA-INTELLIGENCE: ROTATION DES HORAIRES",
                     "tags": [
                         "Source: https://www.logisticsmgmt.com",
                         "Published: Last 48 Hours",
@@ -307,65 +291,81 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 4,
-                    "heading": "TARIFS: LOIS SUR LE TRAVAIL FORC\u00c9",
+                    "id": 3,
+                    "heading": "SEA-INTELLIGENCE: ROTATION DES HORAIRES",
                     "points": [
-                        "Le Bureau du repr\u00e9sentant am\u00e9ricain au commerce applique rigoureusement les nouveaux tarifs de la Section 301 sur les importations. Ces mesures strictes ciblent le travail forc\u00e9 dans soixante pays partenaires apr\u00e8s l'expiration des exemptions temporaires r\u00e9glementaires. Les directeurs de cha\u00eene d'approvisionnement doivent se pr\u00e9parer \u00e0 des droits de douane plus \u00e9lev\u00e9s sur les biens.",
-                        "Les importateurs rencontrent des obstacles de conformit\u00e9 sans pr\u00e9c\u00e9dent pour prouver l'origine \u00e9thique de leurs mati\u00e8res premi\u00e8res import\u00e9es. Les douanes exigent des donn\u00e9es de tra\u00e7abilit\u00e9 extr\u00eamement d\u00e9taill\u00e9es pour chaque \u00e9tape de la fabrication et de production. Les entreprises incapables de fournir ces documents risquent des saisies imm\u00e9diates de cargaisons et des ruptures d'approvisionnement.",
-                        "Les organisations doivent investir dans des outils de tra\u00e7abilit\u00e9 num\u00e9rique sophistiqu\u00e9s pour garantir leur conformit\u00e9 aux r\u00e9glementations f\u00e9d\u00e9rales. \u00c9tablir des communications directes avec les fournisseurs de rang deux et trois est essentiel pour authentifier les documents. La diversification strat\u00e9gique des r\u00e9seaux d'approvisionnement reste la m\u00e9thode la plus efficace pour contourner ces sanctions douani\u00e8res."
+                        "Les transporteurs maritimes de conteneurs priorisent syst\u00e9matiquement les liaisons transpacifiques et Asie-Europe sur les r\u00e9seaux r\u00e9gionaux. Cette priorisation vise \u00e0 maximiser le rendement sur les lignes \u00e0 fort volume en p\u00e9riode de p\u00e9nurie de navires. En cons\u00e9quence, les ports secondaires r\u00e9gionaux subissent d'importantes annulations de d\u00e9parts et des d\u00e9ficits d'\u00e9quipements.",
+                        "La fiabilit\u00e9 des horaires reste tr\u00e8s fragment\u00e9e car les transporteurs contournent les hubs de transbordement r\u00e9gionaux traditionnels. Les commissionnaires de transport signalent des manques d'espace localis\u00e9s et une hausse des taux spot. Les op\u00e9rateurs de terminaux maritimes doivent ajuster leur gestion de parc pour s'adapter \u00e0 l'instabilit\u00e9 des arriv\u00e9es.",
+                        "Les chargeurs d\u00e9ploient activement des strat\u00e9gies multi-transporteurs pour s\u00e9curiser les allocations d'espace pour leurs conteneurs. Les gestionnaires logistiques utilisent des syst\u00e8mes de suivi pr\u00e9dictif automatis\u00e9s pour g\u00e9rer l'allongement des temps de s\u00e9jour. Cette r\u00e9organisation tactique met en \u00e9vidence la n\u00e9cessit\u00e9 d'adopter des structures de r\u00e9servation flexibles."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "GEOPOLITIQUE: CRISE DE L'SUEZ ET HORMUZ",
+                    "nextUpTease": "PROJECT44: D\u00c9COUPLAGE DES LOGICIELS IA",
                     "tags": [
-                        "Source: https://www.supplychaindive.com",
+                        "Source: https://theloadstar.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "heading": "PROJECT44: D\u00c9COUPLAGE DES LOGICIELS IA",
+                    "points": [
+                        "Project44, fournisseur de visibilit\u00e9 en temps r\u00e9el, lance des initiatives avanc\u00e9es d'intelligence artificielle. Ces mises \u00e0 jour logicielles visent \u00e0 concurrencer directement la domination historique de CargoWise dans le secteur du fret. Cette transition technologique s'appuie sur l'intelligence g\u00e9n\u00e9rative pour automatiser la documentation et le suivi international.",
+                        "Les commissionnaires de transport migrent rapidement leurs anciens syst\u00e8mes vers des plateformes modernes de visibilit\u00e9 cloud. Cette transformation sectorielle r\u00e9duit la gestion manuelle du suivi et accro\u00eet consid\u00e9rablement la transparence des donn\u00e9es. Les cycles d'achat de logiciels passent de contrats pluriannuels monolithiques \u00e0 des solutions modulaires agiles.",
+                        "Le pilotage de la supply chain num\u00e9rique exige d\u00e9sormais des int\u00e9grations d'API haute fr\u00e9quence pour des donn\u00e9es en temps r\u00e9el. Les transitaires privil\u00e9gient les logiciels qui proposent une gestion automatis\u00e9e des anomalies plut\u00f4t qu'un suivi d'\u00e9tapes de base. Le secteur des logiciels logistiques se transforme en une course technologique centr\u00e9e sur l'intelligence artificielle."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "USPS: SURCHARGES DES TARIFS LOGISTIQUES",
+                    "tags": [
+                        "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 5,
-                    "heading": "GEOPOLITIQUE: CRISE DE L'SUEZ ET HORMUZ",
+                    "heading": "USPS: SURCHARGES DES TARIFS LOGISTIQUES",
                     "points": [
-                        "L'escalade des conflits r\u00e9gionaux perturbe gravement le transit maritime dans le d\u00e9troit hautement strat\u00e9gique de Hormuz. Les transporteurs maritimes mondiaux enregistrent des baisses historiques de fiabilit\u00e9, les navires devant contourner l'Afrique par le Cap. Les importateurs doivent anticiper des temps de transit accrus et des taux de fret spot tr\u00e8s volatils.",
-                        "Les raffineries asiatiques modifient rapidement leurs strat\u00e9gies d'approvisionnement pour \u00e9viter ces zones de transit maritime dangereuses. Les entreprises se tournent activement vers le p\u00e9trole brut et les mati\u00e8res premi\u00e8res provenant de r\u00e9gions stables comme l'Atlantique. Cette r\u00e9orientation des flux commerciaux intensifie la concurrence mondiale pour les ressources \u00e9nerg\u00e9tiques non originaires du Moyen-Orient.",
-                        "Les planificateurs logistiques doivent imm\u00e9diatement concevoir des mod\u00e8les d'itin\u00e9raires alternatifs robustes pour pallier les retards de transport maritime. Des partenariats avec des transporteurs a\u00e9riens r\u00e9gionaux peuvent s\u00e9curiser le transport de marchandises de valeur lors de crises. Les chargeurs doivent maintenir des stocks de s\u00e9curit\u00e9 \u00e9lev\u00e9s pour prot\u00e9ger les cha\u00eenes de production nationales d'interruptions."
+                        "Le service postal am\u00e9ricain applique d'importantes hausses de tarifs pour les exp\u00e9ditions nationales de commerce \u00e9lectronique. Cet ajustement imm\u00e9diat augmente consid\u00e9rablement les tarifs de l'offre Ground Advantage pour les colis l\u00e9gers des vendeurs. Ce changement tarifaire impacte directement la logistique des places de march\u00e9 comme eBay, Etsy et Amazon.",
+                        "Les colis l\u00e9gers destin\u00e9s \u00e0 des zones de livraison rurales feront l'objet de frais de service suppl\u00e9mentaires. Les vendeurs en ligne font face \u00e0 une augmentation des co\u00fbts de transport qui p\u00e8se sur leurs marges. Les plateformes logistiques mettent automatiquement \u00e0 jour leurs calculateurs de tarifs d'exp\u00e9dition int\u00e9gr\u00e9s selon ces nouveaux bar\u00e8mes.",
+                        "Les entreprises de e-commerce diversifient leurs r\u00e9seaux du dernier kilom\u00e8tre pour optimiser l'impact de ces co\u00fbts de transport. Les logiciels d'exp\u00e9dition multi-transporteurs deviennent indispensables pour orienter les colis selon des comparaisons tarifaires en temps r\u00e9el. Les exp\u00e9diteurs doivent ajuster leurs strat\u00e9gies de livraison pour att\u00e9nuer l'impact des co\u00fbts postaux."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "INFRASTRUCTURE: FUSION FERROVIAIRE",
+                    "nextUpTease": "HMM: STRAT\u00c9GIE D'EXPANSION DE LA FLOTTE",
                     "tags": [
-                        "Source: https://www.joc.com",
+                        "Source: https://www.ecommercebytes.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 6,
-                    "heading": "INFRASTRUCTURE: FUSION FERROVIAIRE",
+                    "heading": "HMM: STRAT\u00c9GIE D'EXPANSION DE LA FLOTTE",
                     "points": [
-                        "Les principales compagnies ferroviaires nord-am\u00e9ricaines ont soumis des donn\u00e9es compl\u00e9mentaires pour acc\u00e9l\u00e9rer leur projet de fusion d'entreprise. Ce dossier contient des mesures de protection des clients in\u00e9dites visant \u00e0 rassurer les autorit\u00e9s de r\u00e9gulation f\u00e9d\u00e9rales. Cette consolidation strat\u00e9gique ambitionne de rationaliser le transport de marchandises sur les corridors ferroviaires continentaux tr\u00e8s congestionn\u00e9s.",
-                        "Les concurrents ont retir\u00e9 leurs objections officielles suite \u00e0 la signature d'accords d'acc\u00e8s bilat\u00e9raux au r\u00e9seau ferr\u00e9. Les op\u00e9rateurs intermodaux pr\u00e9voient une efficacit\u00e9 de transit accrue et une meilleure coordination des terminaux apr\u00e8s la fusion. Les chargeurs doivent suivre ces changements structurels pour optimiser leurs strat\u00e9gies de transport ferroviaire de longue distance.",
-                        "Les entreprises doivent \u00e9valuer en continu leurs r\u00e9seaux de distribution continentaux afin de capter les nouvelles opportunit\u00e9s intermodales. Combiner le transport routier et ferroviaire permettra de r\u00e9duire significativement les \u00e9missions de carbone et les co\u00fbts. B\u00e2tir des partenariats logistiques flexibles est indispensable pour naviguer efficacement dans ce r\u00e9seau ferroviaire nord-am\u00e9ricain consolid\u00e9."
+                        "L'armateur sud-cor\u00e9en HMM lance une vaste initiative d'expansion de sa flotte de navires sur cinq ans. Ce programme de construction navale strat\u00e9gique se concentre sur l'acquisition de porte-conteneurs de taille moyenne et de feeders. Cette augmentation de capacit\u00e9 vise \u00e0 soutenir le r\u00e9seau optimis\u00e9 en \u00e9toile de HMM.",
+                        "Le transporteur investit d'importants capitaux pour acqu\u00e9rir de nouveaux navires dot\u00e9s de technologies environnementales avanc\u00e9es. Cet apport de capacit\u00e9 am\u00e9liorera directement la disponibilit\u00e9 des espaces sur les liaisons critiques en intra-Asie. Les alliances mondiales \u00e9tudient de pr\u00e8s ces arriv\u00e9es pour \u00e9valuer les futures parts de march\u00e9 du secteur.",
+                        "Les programmes de modernisation de flotte sont de plus en plus li\u00e9s aux exigences de d\u00e9carbonation de l'Organisation Maritime Internationale. Les chargeurs privil\u00e9gient les transporteurs maritimes d\u00e9montrant de faibles niveaux d'\u00e9missions de carbone par conteneur-mille. Cet investissement de capital t\u00e9moigne d'un engagement \u00e0 long terme envers des infrastructures de transport r\u00e9silientes."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "ZONE FRONTALI\u00c8RE: PONT GORDIE HOWE",
+                    "nextUpTease": "FMC: CONFORMIT\u00c9 DE LA FACTURATION",
                     "tags": [
-                        "Source: https://www.supplychainbrain.com",
+                        "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 7,
-                    "heading": "ZONE FRONTALI\u00c8RE: PONT GORDIE HOWE",
+                    "heading": "FMC: CONFORMIT\u00c9 DE LA FACTURATION",
                     "points": [
-                        "Le pont international Gordie Howe a officiellement ouvert ses voies au trafic de fret routier commercial bilat\u00e9ral. Cette infrastructure avanc\u00e9e offre un itin\u00e9raire secondaire crucial reliant les centres industriels des \u00c9tats-Unis et du Canada. Cet ouvrage moderne permettra de d\u00e9sengorger imm\u00e9diatement les points de passage frontaliers satur\u00e9s de D\u00e9troit et Windsor.",
-                        "Les cha\u00eenes d'approvisionnement de l'industrie automobile b\u00e9n\u00e9ficieront d'une r\u00e9duction des temps d'attente et d'une meilleure pr\u00e9visibilit\u00e9. Les transporteurs transfrontaliers peuvent d\u00e9sormais optimiser la gestion de leurs flottes et limiter les d\u00e9penses de carburant inutiles. Ce pont routier s\u00e9curise les \u00e9changes commerciaux face aux pannes impr\u00e9vues sur les infrastructures de transit vieillissantes.",
-                        "Les gestionnaires de flotte doivent int\u00e9grer rapidement cette nouvelle liaison routi\u00e8re dans leurs plans de r\u00e9partition et d'itin\u00e9raires. Collaborer avec des courtiers en douane exp\u00e9riment\u00e9s garantira le respect rigoureux des nouvelles proc\u00e9dures de d\u00e9douanement frontalier. Exploiter ce grand projet d'infrastructure est essentiel pour maintenir l'efficacit\u00e9 des cha\u00eenes de production manufacturi\u00e8res bilat\u00e9rales."
+                        "La Cour d'appel des \u00c9tats-Unis a valid\u00e9 les r\u00e8gles historiques de la Federal Maritime Commission sur la Detention. Cette d\u00e9cision judiciaire confirme que les pratiques de facturation des surestaries doivent imp\u00e9rativement favoriser la fluidit\u00e9 du fret. Cette jurisprudence interdit aux transporteurs d'appliquer des frais de stockage en p\u00e9riode d'encombrement extr\u00eame.",
+                        "Les compagnies maritimes doivent modifier leurs syst\u00e8mes de facturation pour se conformer strictement aux directives f\u00e9d\u00e9rales. Les importateurs devraient obtenir le remboursement de millions de dollars de p\u00e9nalit\u00e9s injustement factur\u00e9es pour retards. Les commissionnaires de transport s'appuient sur ces r\u00e8gles pour contester les factures de stockage abusives.",
+                        "Ces mesures d'application r\u00e9glementaire renforcent le r\u00f4le actif de surveillance du march\u00e9 de la Federal Maritime Commission. Les d\u00e9partements juridiques adaptent les mod\u00e8les de contrats pour y int\u00e9grer ces normes de conformit\u00e9 obligatoires. Les importateurs doivent mettre en place des audits automatis\u00e9s pour valider la l\u00e9gitimit\u00e9 des frais de stockage."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.ttnews.com",
+                        "Source: https://www.fmc.gov",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
@@ -375,53 +375,37 @@ const dailyData = {
         "es": {
             "main": {
                 "kicker": "",
-                "titleWhite": "DISRUPCI\u00d3N DE CADENA",
+                "titleWhite": "CUMPLIMIENTO DE CARGA",
                 "titleBlue": "GLOBAL",
-                "footerSummary": "La r\u00e1pida escalada en la aplicaci\u00f3n aduanera, fallos de responsabilidad civil y cambios de infraestructura introducen fricciones operativas sin precedentes."
+                "footerSummary": "Responsabilidades de intermediarios superan 600M$ y aranceles por trabajo forzoso generan retrasos aduaneros en puertos cr\u00edticos."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "DOJ: SANCIONES POR FRAUDE COMERCIAL",
+                    "heading": "C.H. ROBINSON: RIESGO DE SELECCI\u00d3N",
                     "points": [
-                        "El Grupo de Trabajo contra el Fraude Comercial del Departamento de Justicia super\u00f3 mil millones de d\u00f3lares en recuperaciones. Este hito resalta la intensificaci\u00f3n del escrutinio federal sobre el cumplimiento de importaciones y la evasi\u00f3n estrat\u00e9gica de aranceles. Las agencias gubernamentales persiguen activamente a las corporaciones que falsifican los certificados de origen para evadir impuestos.",
-                        "Los importadores enfrentan graves sanciones financieras y enjuiciamientos penales por no mantener registros de transporte transparentes y auditables. M\u00e1s de sesenta socios comerciales globales se encuentran bajo investigaci\u00f3n activa por posibles infracciones y pr\u00e1cticas comerciales fraudulentas. Las auditor\u00edas de cumplimiento se expanden r\u00e1pidamente, obligando a los directores log\u00edsticos a verificar minuciosamente a sus intermediarios.",
-                        "Los importadores deben implementar r\u00e1pidamente sistemas avanzados de trazabilidad para mitigar estos crecientes riesgos regulatorios y financieros corporativos. Las empresas deben auditar proactivamente sus declaraciones aduaneras hist\u00f3ricas para identificar y corregir posibles discrepancias de clasificaci\u00f3n. Mantener la integridad absoluta de los datos de la cadena de suministro constituye la defensa principal contra investigaciones."
+                        "El tribunal federal emiti\u00f3 un juicio de seiscientos cuatro millones de d\u00f3lares contra el gigante log\u00edstico C.H. Robinson. El fallo hist\u00f3rico se deriv\u00f3 de acusaciones de selecci\u00f3n negligente de transportistas tras un accidente de carretera. Este resultado judicial amenaza gravemente el modelo de negocio tradicional de activos ligeros de los corredores.",
+                        "Bajo el entorno legal posterior a Montgomery, los corredores enfrentan una exposici\u00f3n financiera ilimitada en accidentes graves. Las aseguradoras est\u00e1n reestructurando inmediatamente las reglas de cobertura de responsabilidad para proveedores sin activos propios. Los cargadores ahora deben verificar los registros de seguridad de transportistas para evitar la responsabilidad vicaria.",
+                        "Los flujos de verificaci\u00f3n automatizados deben integrar calificaciones federales de seguridad en tiempo real para mitigar riesgos. Las empresas est\u00e1n abandonando las conexiones EDI heredadas para implementar APIs de cumplimiento en tiempo real. Este cambio sist\u00e9mico obliga a una revisi\u00f3n completa de los protocolos de registro y verificaci\u00f3n de transportistas."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "E-COMMERCE: CRISIS DE DE MINIMIS",
+                    "nextUpTease": "USTR: ARANCELES POR TRABAJO FORZOSO",
                     "tags": [
-                        "Source: https://www.inboundlogistics.com",
+                        "Source: https://www.freightwaves.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "E-COMMERCE: CRISIS DE DE MINIMIS",
+                    "heading": "USTR: ARANCELES POR TRABAJO FORZOSO",
                     "points": [
-                        "Las principales plataformas de comercio electr\u00f3nico registran p\u00e9rdidas financieras severas debido a la eliminaci\u00f3n estructural del De Minimis. Las importaciones de paquetes de bajo valor ya no eluden los aranceles de importaci\u00f3n est\u00e1ndar en las aduanas. Este cambio normativo obliga a los mercados digitales globales a reestructurar por completo sus estrategias de distribuci\u00f3n transfronteriza.",
-                        "Los importadores enfrentan un incremento en los costos operativos y retrasos administrativos en los principales centros de distribuci\u00f3n. Los tiempos de entrega promedio se han incrementado debido a la inspecci\u00f3n f\u00edsica obligatoria implementada por las aduanas. Los m\u00e1rgenes de ganancia minorista se reducen, impulsando la creaci\u00f3n de redes de distribuci\u00f3n regionales cercanas al consumidor.",
-                        "Los minoristas electr\u00f3nicos deben adaptar r\u00e1pidamente sus estrategias log\u00edsticas para mitigar estos persistentes desaf\u00edos de cumplimiento de comercio. Diversificar los centros de producci\u00f3n fuera de las regiones tradicionales de bajo costo es vital para las marcas. Dise\u00f1ar arquitecturas de distribuci\u00f3n resilientes determinar\u00e1 la viabilidad a largo plazo en un entorno comercial global restrictivo."
+                        "La Oficina del USTR est\u00e1 implementando aranceles de la Secci\u00f3n 301 a sesenta socios comerciales. Estos grav\u00e1menes a la importaci\u00f3n entran en vigor cuando expiran oficialmente los derechos de la Secci\u00f3n 122. El nuevo marco regulatorio establece umbrales aduaneros estrictos para el cumplimiento de la cadena de suministro.",
+                        "Los importadores enfrentar\u00e1n aranceles de entre diez y doce coma cinco por ciento en diversos sectores. Estas medidas financieras espec\u00edficas est\u00e1n impulsando maniobras de carga anticipada en los principales puertos norteamericanos. Los agentes de aduanas ajustan la documentaci\u00f3n para evitar retrasos costosos en las terminales mar\u00edtimas.",
+                        "Las marcas globales deben mapear redes de proveedores multinivel para asegurar certificados de origen v\u00e1lidos. Las operaciones de cumplimiento est\u00e1n cambiando de auditor\u00edas reactivas a plataformas automatizadas de trazabilidad. Los importadores deben reestructurar proactivamente sus estrategias de abastecimiento para mitigar los riesgos de pol\u00edtica comercial."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "LITIGIO: FALLOS NUCLEARES A CORREDORES",
-                    "tags": [
-                        "Source: https://www.supplychainbrain.com",
-                        "Published: Last 48 Hours",
-                        "Status: Audited & True"
-                    ]
-                },
-                {
-                    "id": 3,
-                    "heading": "LITIGIO: FALLOS NUCLEARES A CORREDORES",
-                    "points": [
-                        "El sector log\u00edstico est\u00e1 conmocionado por un hist\u00f3rico fallo judicial de seiscientos cuatro millones de d\u00f3lares contra intermediarios. Un corredor de carga de primer nivel fue declarado responsable de negligencia al seleccionar un transportista terrestre deficiente. Esta decisi\u00f3n judicial establece un precedente extremadamente peligroso para todos los intermediarios que operan en Norteam\u00e9rica.",
-                        "Los corredores de carga deben implementar de inmediato sistemas rigurosos de verificaci\u00f3n de antecedentes para evitar responsabilidades financieras. Las evaluaciones b\u00e1sicas de cumplimiento ya no bastan para defenderse de demandas por accidentes graves en tribunales federales. Expertos de la industria prev\u00e9n un aumento dr\u00e1stico en las primas de seguros de carga para intermediarios.",
-                        "Las empresas de transporte deben reevaluar sus criterios de selecci\u00f3n de transportistas y establecer monitores estrictos de seguridad. El uso de software de seguimiento automatizado y el an\u00e1lisis del historial de accidentes representan las mejores pr\u00e1cticas. Las empresas que no modernicen sus flujos de validaci\u00f3n se exponen a indemnizaciones financieras y da\u00f1os judiciales devastadores."
-                    ],
-                    "imageUrl": "",
-                    "nextUpTease": "ARANCELES: LEYES DE TRABAJO FORZOSO",
+                    "nextUpTease": "SEA-INTELLIGENCE: ROTACI\u00d3N DE HORARIOS",
                     "tags": [
                         "Source: https://www.logisticsmgmt.com",
                         "Published: Last 48 Hours",
@@ -429,65 +413,81 @@ const dailyData = {
                     ]
                 },
                 {
-                    "id": 4,
-                    "heading": "ARANCELES: LEYES DE TRABAJO FORZOSO",
+                    "id": 3,
+                    "heading": "SEA-INTELLIGENCE: ROTACI\u00d3N DE HORARIOS",
                     "points": [
-                        "El Representante Comercial de Estados Unidos aplica de manera estricta los nuevos aranceles de la Secci\u00f3n 301. Estas rigurosas medidas de importaci\u00f3n abordan violaciones de trabajo forzoso en sesenta naciones asociadas tras expirar exenciones. Los ejecutivos de cadena de suministro deben prepararse para aranceles m\u00e1s elevados en componentes industriales y de consumo.",
-                        "Los importadores enfrentan obst\u00e1culos de cumplimiento sin precedentes para validar el origen \u00e9tico de sus insumos y materias primas. Las aduanas exigen datos granulares de trazabilidad en cada una de las fases de producci\u00f3n y ensamblaje. Los importadores incapaces de proporcionar documentaci\u00f3n adecuada arriesgan la incautaci\u00f3n inmediata de su carga y retrasos severos.",
-                        "Las organizaciones deben invertir en herramientas sofisticadas de trazabilidad digital para asegurar el cumplimiento de las normativas federales. El contacto directo con proveedores de nivel dos y tres es vital para asegurar documentaci\u00f3n de origen verificable. La diversificaci\u00f3n estrat\u00e9gica de los proveedores sigue siendo la ruta m\u00e1s eficaz para eludir estas sanciones arancelarias."
+                        "Las l\u00edneas de contenedores est\u00e1n priorizando sistem\u00e1ticamente las rutas transpac\u00edficas y de Asia a Europa sobre las redes regionales. Esta priorizaci\u00f3n busca maximizar el rendimiento en rutas de gran volumen en medio de la escasez de buques. En consecuencia, los puertos secundarios regionales experimentan cancelaciones de escalas frecuentes y escasez de contenedores.",
+                        "La confiabilidad de los itinerarios sigue fragmentada debido a que las l\u00edneas evitan los tradicionales centros de transbordo regionales. Los transitarios informan escasez de espacio localizada y tarifas spot al alza para env\u00edos secundarios de contenedores. Los operadores de terminales portuarias adaptan sus estrategias para gestionar las llegadas irregulares de buques.",
+                        "Los cargadores est\u00e1n utilizando estrategias de m\u00faltiples transportistas para asegurar espacios de contenedores en los barcos. Los administradores log\u00edsticos implementan sistemas de seguimiento predictivo para controlar el aumento de tiempos de estad\u00eda de carga. Esta reorganizaci\u00f3n t\u00e1ctica destaca la necesidad de utilizar estructuras de reserva flexibles en el transporte."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "GEOPOL\u00cdTICA: CRISIS DE RUTA DE HORMUZ",
+                    "nextUpTease": "PROJECT44: DESACOPLAMIENTO DE SOFTWARE IA",
                     "tags": [
-                        "Source: https://www.supplychaindive.com",
+                        "Source: https://theloadstar.com",
+                        "Published: Last 48 Hours",
+                        "Status: Audited & True"
+                    ]
+                },
+                {
+                    "id": 4,
+                    "heading": "PROJECT44: DESACOPLAMIENTO DE SOFTWARE IA",
+                    "points": [
+                        "El proveedor de visibilidad en tiempo real Project44 lanza iniciativas avanzadas en inteligencia artificial. Estas actualizaciones de software buscan competir con el liderazgo tradicional de CargoWise en el sector log\u00edstico de carga. La transici\u00f3n tecnol\u00f3gica aprovecha la inteligencia generativa para automatizar la documentaci\u00f3n compleja y el seguimiento internacional.",
+                        "Los transitarios est\u00e1n migrando r\u00e1pidamente sus sistemas heredados hacia plataformas modernas de visibilidad basadas en la nube. Esta transformaci\u00f3n del sector reduce la gesti\u00f3n manual y aumenta la transparencia de los datos operativos significativamente. La adquisici\u00f3n de software cambia de contratos plurianuales monol\u00edticos a soluciones modulares m\u00e1s \u00e1giles.",
+                        "El control de la cadena de suministro digital requiere integraciones de API de alta frecuencia para datos en tiempo real. Las empresas transitorias priorizan el software que ofrece gesti\u00f3n autom\u00e1tica de excepciones en lugar del seguimiento b\u00e1sico de hitos. El sector de software log\u00edstico se convierte en una carrera centrada en la inteligencia artificial."
+                    ],
+                    "imageUrl": "",
+                    "nextUpTease": "USPS: RECARGOS EN TARIFAS COMERCIALES",
+                    "tags": [
+                        "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 5,
-                    "heading": "GEOPOL\u00cdTICA: CRISIS DE RUTA DE HORMUZ",
+                    "heading": "USPS: RECARGOS EN TARIFAS COMERCIALES",
                     "points": [
-                        "La escalada de conflictos regionales perturbe gravemente el tr\u00e1nsito mar\u00edtimo por el estrat\u00e9gico Estrecho de Ormuz a nivel global. Las l\u00edneas navieras registran disminuciones dr\u00e1sticas en la confiabilidad de sus itinerarios al desviar barcos por el Cabo. Los importadores deben prepararse para tiempos de tr\u00e1nsito prolongados y tarifas spot altamente vol\u00e1tiles en rutas clave.",
-                        "Las refiner\u00edas de los pa\u00edses asi\u00e1ticos reestructuran sus estrategias de adquisici\u00f3n de petr\u00f3leo para evitar estos peligrosos pasos mar\u00edtimos. Las corporaciones compran activamente crudo y materias primas en zonas de menor riesgo, como la Cuenca del Atl\u00e1ntico. Este redireccionamiento de flujos comerciales incrementa la competencia internacional por recursos energ\u00e9ticos ajenos al Medio Oriente.",
-                        "Los planificadores log\u00edsticos deben dise\u00f1ar inmediatamente rutas alternativas y planes de contingencia eficaces ante retrasos en los fletes. Alianzas con transportistas a\u00e9reos regionales pueden facilitar el traslado seguro de mercanc\u00edas de alto valor ante incidentes mar\u00edtimos. Los importadores deben acumular inventarios de seguridad robustos para proteger sus l\u00edneas de producci\u00f3n de interrupciones inesperadas."
+                        "El Servicio Postal de Estados Unidos aplica incrementos significativos de tarifas para env\u00edos nacionales de comercio electr\u00f3nico. Esta modificaci\u00f3n de tarifas eleva las tarifas de Ground Advantage para paquetes ligeros enviados por comerciantes. El cambio tarifario afecta la log\u00edstica de plataformas de venta en l\u00ednea como eBay, Etsy y Amazon.",
+                        "Los paquetes ligeros dirigidos a destinos de entrega rurales incurrir\u00e1n en cargos adicionales por servicio postal. Los comerciantes en l\u00ednea enfrentan costos de env\u00edo crecientes que afectan los m\u00e1rgenes de ganancia de peque\u00f1os negocios. Las plataformas log\u00edsticas actualizan autom\u00e1ticamente sus calculadoras de env\u00edo integradas seg\u00fan las nuevas tarifas del servicio.",
+                        "Las empresas de e-commerce diversifican sus redes de \u00faltima milla para optimizar el impacto de estos costos de env\u00edo. Los programas de env\u00edo multi-transportador son esenciales para comparar tarifas y enrutar paquetes en tiempo real. Los cargadores deben adaptar sus estrategias para mitigar los costos de distribuci\u00f3n por correo postal."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "INFRAESTRUCTURA: FUSI\u00d3N DE FERROCARRILES",
+                    "nextUpTease": "HMM: ESTRATEGIA DE EXPANSI\u00d3N DE FLOTA",
                     "tags": [
-                        "Source: https://www.joc.com",
+                        "Source: https://www.ecommercebytes.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 6,
-                    "heading": "INFRAESTRUCTURA: FUSI\u00d3N DE FERROCARRILES",
+                    "heading": "HMM: ESTRATEGIA DE EXPANSI\u00d3N DE FLOTA",
                     "points": [
-                        "Las principales empresas ferroviarias norteamericanas presentaron datos adicionales detallados para acelerar la aprobaci\u00f3n de su fusi\u00f3n corporativa. El expediente incluye protecciones operativas sin precedentes para clientes con el fin de satisfacer las demandas de los reguladores. Esta consolidaci\u00f3n estrat\u00e9gica busca agilizar el movimiento de carga a trav\u00e9s de los corredores ferroviarios m\u00e1s congestionados.",
-                        "Los competidores retiraron formalmente sus objeciones tras concretarse acuerdos bilaterales de derecho de paso e interconexi\u00f3n de v\u00edas. Los operadores de transporte intermodal proyectan mejoras de eficiencia en el tr\u00e1nsito y una excelente coordinaci\u00f3n de terminales. Los transportistas deben seguir de cerca estas actualizaciones para optimizar sus estrategias ferroviarias continentales de largo recorrido.",
-                        "Las empresas deben evaluar constantemente sus redes de distribuci\u00f3n para aprovechar las nuevas econom\u00edas de escala del sector intermodal. Coordinar flotas de camiones con servicios ferroviarios optimizados reducir\u00e1 sustancialmente los costos log\u00edsticos y las emisiones contaminantes. Construir alianzas estrat\u00e9gicas flexibles es indispensable para operar con \u00e9xito bajo el sistema ferroviario norteamericano unificado."
+                        "La naviera surcoreana HMM inicia una amplia iniciativa de expansi\u00f3n de su flota de buques a cinco a\u00f1os. El programa estrat\u00e9gico de construcci\u00f3n se centra en adquirir portacontenedores de tama\u00f1o mediano y buques de enlace secundario. Este aumento de capacidad busca fortalecer la red optimizada de distribuci\u00f3n centralizada de HMM.",
+                        "La empresa invierte capital para incorporar modernos buques de contenedores con dise\u00f1os avanzados para el cuidado medioambiental. Esta inyecci\u00f3n de capacidad optimizar\u00e1 la disponibilidad de espacios en las rutas comerciales clave de intra-Asia. Las alianzas globales analizan la incorporaci\u00f3n de estos barcos para evaluar las futuras cuotas de mercado.",
+                        "Los programas de modernizaci\u00f3n de flota se vinculan de forma estrecha con las normas de descarbonizaci\u00f3n de la Organizaci\u00f3n Mar\u00edtima Internacional. Los cargadores priorizan las navieras que demuestran menores emisiones de carbono por milla de contenedor transportado. Esta inversi\u00f3n refleja un compromiso con el desarrollo de infraestructuras de transporte resilientes."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "ZONA FRONTERIZA: PUENTE GORDIE HOWE",
+                    "nextUpTease": "FMC: CUMPLIMIENTO DE FACTURACI\u00d3N",
                     "tags": [
-                        "Source: https://www.supplychainbrain.com",
+                        "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 7,
-                    "heading": "ZONA FRONTERIZA: PUENTE GORDIE HOWE",
+                    "heading": "FMC: CUMPLIMIENTO DE FACTURACI\u00d3N",
                     "points": [
-                        "El esperado Puente Internacional Gordie Howe abri\u00f3 oficialmente sus carriles para el transporte de carga por carretera comercial. Este moderno cruce fronterizo proporciona una v\u00eda secundaria clave entre los polos industriales de Estados Unidos y Canad\u00e1. La infraestructura de \u00faltima generaci\u00f3n reducir\u00e1 inmediatamente la congesti\u00f3n de camiones en los pasos de Detroit y Windsor.",
-                        "Las cadenas de suministro del sector automotriz se beneficiar\u00e1n de menores tiempos de espera y una alta predictibilidad operativa. Las empresas transportistas transfronterizas podr\u00e1n optimizar la rotaci\u00f3n de sus camiones y recortar costos de combustible por ralent\u00ed. Este puente terrestre protege los flujos comerciales de interrupciones inesperadas en cruces de infraestructura m\u00e1s antiguos.",
-                        "Los administradores de flotas deben incluir con rapidez este nuevo cruce vial en sus planes diarios de ruteo. Trabajar en estrecha colaboraci\u00f3n con agentes de aduanas certificados garantizar\u00e1 procesos r\u00e1pidos de internaci\u00f3n bajo los nuevos protocolos. Aprovechar este monumental proyecto de infraestructura es fundamental para el sostenimiento de cadenas de producci\u00f3n manufacturera estables."
+                        "La Corte de Apelaciones de Estados Unidos valid\u00f3 las reglas hist\u00f3ricas de la Federal Maritime Commission sobre Detention. El fallo judicial confirma que las pr\u00e1cticas de facturaci\u00f3n de las demoras de contenedores deben promover la fluidez comercial. Esta resoluci\u00f3n legal proh\u00edbe que las navieras cobren tarifas de almacenamiento en per\u00edodos de alta congesti\u00f3n.",
+                        "Las navieras deben adecuar sus sistemas de facturaci\u00f3n para cumplir estrictamente con las directrices federales vigentes. Se proyecta que los importadores recuperen millones de d\u00f3lares por sanciones por retraso aplicadas de manera inapropiada. Los corredores de carga utilizan las directrices actualizadas para defenderse ante facturas de almacenamiento injustificadas.",
+                        "Estas acciones de cumplimiento de la ley fortalecen la funci\u00f3n activa de supervisi\u00f3n que desempe\u00f1a la Federal Maritime Commission. Los equipos legales adecuan plantillas de contratos de transporte para incorporar estas normas de cumplimiento obligatorio. Los importadores deben establecer auditor\u00edas autom\u00e1ticas de facturas para asegurar la legitimidad de los cobros."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.ttnews.com",
+                        "Source: https://www.fmc.gov",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
