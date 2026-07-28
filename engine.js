@@ -1,151 +1,377 @@
-import os
-import time
-import random
-import re
-import requests
-import json
-from google import genai
-from google.genai import types
-import datetime
+/**
+ * SIYALAIR-INTEL-STUDIO CORE ENGINE (PROD_v2.0_2026)
+ * Engineered for high-density global logistics asset synthesis.
+ */
 
-# 1. AUTH & CONFIG
-# Fetches API key from GitHub Secrets
-api_key = os.environ.get("GEMINI_API_KEY")
-client = genai.Client(api_key=api_key)
+window.onload = async () => {
+    // FORCE CACHE-BUST: Load the template.js dynamically
+    const script = document.createElement('script');
+    script.src = 'template.js?t=' + Date.now();
+    
+    script.onload = async () => {
+        console.log("Siyal Air Template loaded successfully.");
+        
+        // DYNAMIC HYDRATION: Load updated LinkedIn Intelligence Module with strict cache-busting
+        const linkedinScript = document.createElement('script');
+        linkedinScript.src = 'Social_Media/LinkedIn/LinkedIn_Template_EN.js?t=' + Date.now();
+        linkedinScript.onload = () => {
+            console.log("LinkedIn Intelligence Module (Social_Media/LinkedIn/LinkedIn_Template_EN.js) loaded successfully.");
+        };
+        linkedinScript.onerror = () => {
+            console.warn("Notice: Social_Media/LinkedIn/LinkedIn_Template_EN.js not found at nested path, utilizing embedded fallback module.");
+        };
+        document.head.appendChild(linkedinScript);
 
-# Models in priority order
-MODEL_PRIORITY = ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-2.5-flash"]
+        // Force fix the background image compatibility
+        await fixBackgroundCORS();
 
-# 2. STEALTH ENGINE
-def get_stealth_headers():
-    """Rotates User-Agent to mimic different browsers/devices."""
-    user_agents = [
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, with Gecko) Chrome/126.0.0.0 Safari/537.36"
-    ]
-    return {
-        "User-Agent": random.choice(user_agents),
-        "Referer": "https://www.google.com/",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Connection": "keep-alive"
+        if (typeof dailyData !== 'undefined') {
+            initTabs();
+            const mainBtn = document.querySelector('.tab-btn');
+            if (mainBtn) switchSlide('main', mainBtn);
+        }
+        
+        const dlBtn = document.getElementById('download-active');
+        if (dlBtn) {
+            dlBtn.onclick = (e) => {
+                e.preventDefault();
+                downloadAllSlides();
+            };
+        }
+    };
+    
+    script.onerror = () => {
+        console.error("Critical System Fault: Failed to load template.js. Check network path.");
+    };
+    
+    document.head.appendChild(script);
+};
+
+/**
+ * FIX: Converts the background-image to Base64 
+ * Prevents the HTML2Canvas Tainted Canvas exploit block.
+ */
+async function fixBackgroundCORS() {
+    const canvas = document.getElementById('post-canvas');
+    if (!canvas) return;
+
+    let bgIndex = 1;
+
+    try {
+        const trackerRes = await fetch('bg_tracker.txt?t=' + Date.now());
+        if (trackerRes.ok) {
+            const text = await trackerRes.text();
+            const parsedNum = parseInt(text.trim());
+            if (!isNaN(parsedNum) && parsedNum > 0) {
+                bgIndex = parsedNum;
+            }
+        }
+    } catch (e) {
+        console.log("Tracker read defaulted, using background1.png");
     }
 
-def fetch_and_clean():
-    """Extracts URLs from prompt.txt and scrapes with human-like timing."""
-    with open("prompt.txt", "r", encoding="utf-8") as f:
-        prompt_content = f.read()
+    const bgUrl = `assets/background${bgIndex}.png`;
     
-    urls = list(set(re.findall(r'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+', prompt_content)))
-    scraped_text = ""
+    try {
+        const response = await fetch(bgUrl);
+        if (!response.ok) throw new Error("Background asset not found");
+        const blob = await response.blob();
+        const reader = new FileReader();
+        reader.onloadend = () => {
+            canvas.style.backgroundImage = `url(${reader.result})`;
+            console.log(`Loaded background${bgIndex}.png successfully and optimized for render capture.`);
+        };
+        reader.readAsDataURL(blob);
+    } catch (e) {
+        console.warn(`Failed to load background${bgIndex}.png, falling back to default asset.`);
+        fallbackDefaultBackground(canvas);
+    }
+}
+
+async function fallbackDefaultBackground(canvas) {
+    try {
+        const response = await fetch('assets/background.png');
+        const blob = await response.blob();
+        const reader = new FileReader();
+        reader.onloadend = () => {
+            canvas.style.backgroundImage = `url(${reader.result})`;
+        };
+        reader.readAsDataURL(blob);
+    } catch (err) {
+        console.error("Default background fallback failed.");
+    }
+}
+
+function initTabs() {
+    const tabContainer = document.getElementById('slide-tabs');
+    if (!tabContainer) return;
+    tabContainer.innerHTML = ''; 
     
-    for url in urls:
-        try:
-            # Human jitter: wait between 5 and 15 seconds to look like a slow reader
-            time.sleep(random.uniform(5.0, 15.0))
-            response = requests.get(url, headers=get_stealth_headers(), timeout=20)
-            
-            if response.status_code == 200:
-                from bs4 import BeautifulSoup
-                soup = BeautifulSoup(response.content, 'html.parser')
-                # Remove non-content junk
-                for element in soup(["script", "style", "nav", "footer", "iframe"]):
-                    element.extract()
-                # EXPANDED DATA BUFFER: Increased character chunk threshold from 1,000 to 5,000
-                text = soup.get_text(separator=' ', strip=True)[:5000]
-                scraped_text += f"\n---SOURCE: {url}---\n{text}\n"
-        except Exception:
-            continue # Fail silently to keep the pipeline moving
-    return prompt_content, scraped_text
-
-# 3. PIPELINE EXECUTION
-def main():
-    prompt_base, data = fetch_and_clean()
-    final_input = f"{prompt_base}\n\n[LATEST LIVE DATA]:\n{data}"
+    const mainBtn = document.createElement('button');
+    mainBtn.className = 'tab-btn active';
+    mainBtn.innerText = 'MAIN';
+    mainBtn.onclick = (e) => { e.preventDefault(); switchSlide('main', mainBtn); };
+    tabContainer.appendChild(mainBtn);
     
-    for model in MODEL_PRIORITY:
-        try:
-            response = client.models.generate_content(
-                model=model,
-                contents=final_input,
-                config=types.GenerateContentConfig(response_mime_type="application/json")
-            )
-            
-            # --- UPDATED: Sanitization and strict }; closure ---
-            # Remove any markdown artifacts
-            raw_text = response.text.replace("```json", "").replace("```", "").strip()
-            
-            # Ensure the output is clean for valid JSON parsing
-            if raw_text.endswith(';'):
-                raw_text = raw_text[:-1]
-            if not raw_text.startswith('{'): raw_text = '{' + raw_text
-            if not raw_text.endswith('}'): raw_text = raw_text + '}'
-            
-            # --- VALIDATION: Ensure generated text is valid JSON ---
-            parsed_payload = json.loads(raw_text)
-            
-            # Extract content paths from the structured JSON schema safely
-            slides_object = parsed_payload.get("slides_data", parsed_payload)
-            shorts_module_object = parsed_payload.get("linkedin_shorts_module", {})
-            post_content = parsed_payload.get("social_post", "")
-            
-            # --- ROBUST ENFORCEMENT: Enforce strict 4-bullet point limit per slide ---
-            if isinstance(slides_object, dict) and "slides" in slides_object:
-                for slide in slides_object["slides"]:
-                    if "points" in slide and isinstance(slide["points"], list):
-                        # Flatten any multi-sentence strings or accidental sub-lists that broke formatting
-                        cleaned_points = []
-                        for pt in slide["points"]:
-                            # Clean internal rogue line breaks or accidental markdown bullet tokens
-                            clean_pt = str(pt).replace('\n', ' ').replace('•', '').replace('➔', '').strip()
-                            if clean_pt:
-                                cleaned_points.append(clean_pt)
-                        
-                        # Hard lock: Slice or pad precisely to 4 bullet items to prevent overflowing and UI breakage
-                        if len(cleaned_points) > 4:
-                            # If model generated extra, merge trailing sentences or truncate to exact top 4 major points
-                            slide["points"] = cleaned_points[:4]
-                        elif len(cleaned_points) < 4:
-                            while len(cleaned_points) < 4:
-                                cleaned_points.append("Continuous trade shifts require monitoring immediate carrier capacity adjustments.")
-                            slide["points"] = cleaned_points
+    dailyData.slides.forEach((slide, index) => {
+        const btn = document.createElement('button');
+        btn.className = 'tab-btn';
+        btn.innerText = `SLIDE-${index + 1}`;
+        btn.onclick = (e) => { e.preventDefault(); switchSlide(index + 1, btn); };
+        tabContainer.appendChild(btn);
+    });
 
-            # Convert extracted slides data back to a clean string format
-            slides_json_str = json.dumps(slides_object, indent=4)
-            
-            # Save exactly as required for template.js
-            with open("template.js", "w", encoding="utf-8") as f:
-                f.write(f"const dailyData = {slides_json_str};")
-                
-            # --- PATH & EXPORT REALIGNMENT ---
-            # Save LinkedIn Shorts Module export file (`Social_Media/LinkedIn/LinkedIn_Template_EN.js`)
-            linkedin_dir = os.path.join("Social_Media", "LinkedIn")
-            os.makedirs(linkedin_dir, exist_ok=True)
-            linkedin_file_path = os.path.join(linkedin_dir, "LinkedIn_Template_EN.js")
-            
-            shorts_json_str = json.dumps(shorts_module_object, indent=4)
-            
-            # Universal isomorphic export format (Supports both Browser DOM window injection & Node.js CommonJS require)
-            isomorphic_js = (
-                f"if (typeof window !== 'undefined') {{ window.linkedinData = {shorts_json_str}; }}\n"
-                f"if (typeof module !== 'undefined' && module.exports) {{ module.exports = {shorts_json_str}; }}"
-            )
-            
-            with open(linkedin_file_path, "w", encoding="utf-8") as f:
-                f.write(isomorphic_js)
-                
-            # Save the clean free-form social media post to your root location
-            with open("post.txt", "w", encoding="utf-8") as f:
-                # Safely convert raw literal \n string characters into actual structural line breaks
-                clean_post = post_content.replace('\\n', '\n')
-                f.write(clean_post)
-                
-            return # Success
-        except Exception:
-            time.sleep(10) # Back-off if model rate-limits or JSON is invalid
-            continue
+    const followBtn = document.createElement('button');
+    followBtn.className = 'tab-btn';
+    followBtn.innerText = 'FOLLOW';
+    followBtn.onclick = (e) => { e.preventDefault(); switchSlide('follow', followBtn); };
+    tabContainer.appendChild(followBtn);
+}
 
-if __name__ == "__main__":
-    main()
+function fitText(element, maxHeight, maxWidth) {
+    let fontSize = parseInt(window.getComputedStyle(element).fontSize);
+    while ((element.scrollHeight > maxHeight || element.scrollWidth > maxWidth) && fontSize > 18) {
+        fontSize--;
+        element.style.fontSize = fontSize + "px";
+    }
+}
 
-# SYSTEM RESET LOGIC: Kickstart cron automation cache sync
+async function switchSlide(id, element) {
+    document.querySelectorAll('.tab-btn').forEach(btn => btn.classList.remove('active'));
+    if (element) element.classList.add('active');
+    
+    const canvas = document.getElementById('post-canvas');
+    if (!canvas) return;
+
+    const formatTitleBlue = (text) => {
+        if (text.includes(':')) {
+            const parts = text.split(':');
+            const bluePart = parts[0] + ':';
+            const whitePart = parts.slice(1).join(':');
+            return `<span class="blue-text">${bluePart}</span>${whitePart}`;
+        }
+        const words = text.trim().split(' ');
+        if (words.length <= 1) return `<span class="last-word-blue">${text}</span>`;
+        const last = words.pop();
+        return `${words.join(' ')} <span class="last-word-blue">${last}</span>`;
+    };
+
+    let html = "";
+    if (id === 'main') {
+        const fullTitleStr = `${dailyData.main.titleWhite} ${dailyData.main.titleBlue}`.trim();
+        const wordsArray = fullTitleStr.split(/\s+/);
+        
+        const stackedTitleHTML = wordsArray.map((word, idx) => {
+            if (idx === wordsArray.length - 1) {
+                return `<div class="last-word-blue">${word}</div>`;
+            }
+            return `<div>${word}</div>`;
+        }).join('');
+
+        const footerText = dailyData.main.footerSummary || "";
+        const nextTease = dailyData.slides[0]?.heading || "";
+        
+        canvas.className = 'main-hook-style'; 
+        html = `<div class="content-body">
+                <span class="kicker"></span>
+                <header>
+                    <h1 class="auto-fit">${stackedTitleHTML}</h1>
+                </header>
+                <div class="footer-paragraph-placeholder">${footerText}</div>
+                </div>
+                <div class="next-up-tease">NEXT UP: ${nextTease}</div>
+                <div class="swipe-prompt">SWIPE NEXT →</div>`;
+    } else if (id === 'follow') {
+        canvas.className = 'main-hook-style cta-slide';
+        
+        // Dynamically fetch active follow-up slide index from follow_tracker.txt
+        let followIndex = 1;
+        try {
+            const trackerRes = await fetch('follow_tracker.txt?t=' + Date.now());
+            if (trackerRes.ok) {
+                const text = await trackerRes.text();
+                const parsedNum = parseInt(text.trim());
+                if (!isNaN(parsedNum) && parsedNum > 0) {
+                    followIndex = parsedNum;
+                }
+            }
+        } catch (e) {
+            console.log("Follow tracker read defaulted, using slide9-1.png");
+        }
+
+        const followAssetUrl = `followup/slide9-${followIndex}.png`;
+
+        html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
+    } else {
+        const index = id - 1;
+        const slide = dailyData.slides[index];
+        canvas.className = 'sub-slide-style';
+        if (slide) {
+            let bulletList = "";
+            if (Array.isArray(slide.points)) {
+                bulletList = slide.points.map(pt => `<li>${pt.trim().replace(/\.$/, '')}</li>`).join('');
+            } else if (slide.content) {
+                const sentences = slide.content.split('. ').filter(s => s.trim().length > 0);
+                bulletList = sentences.map(s => `<li>${s.trim().replace(/\.$/, '')}</li>`).join('');
+            }
+            
+            const formattedHeading = formatTitleBlue(slide.heading);
+            const nextTease = (index < dailyData.slides.length - 1) ? dailyData.slides[index + 1].heading : "";
+            
+            html = `<div class="content-body">
+                    <header><h1 class="auto-fit">${formattedHeading}</h1><div class="header-divider"></div></header>
+                    <div class="detail-text"><ul class="smart-bullets">${bulletList}</ul></div>
+                    </div>
+                    ${nextTease ? `<div class="next-up-tease">NEXT UP: ${nextTease}</div>` : ""}
+                    <div class="swipe-prompt">SWIPE NEXT →</div>`;
+        }
+    }
+    canvas.innerHTML = html;
+    setTimeout(() => {
+        const titles = canvas.querySelectorAll('.auto-fit');
+        titles.forEach(t => fitText(t, 500, 850));
+    }, 50);
+}
+
+async function downloadCurrentSlide() {
+    const canvas = document.getElementById('post-canvas');
+    const dlBtn = document.getElementById('download-active');
+    const activeTab = document.querySelector('.tab-btn.active');
+    
+    if (!canvas || !dlBtn) return;
+
+    dlBtn.innerText = "CAPTURING...";
+    dlBtn.disabled = true;
+
+    try {
+        const rendered = await html2canvas(canvas, { 
+            scale: 2, 
+            useCORS: true,
+            allowTaint: true, 
+            backgroundColor: "#050505",
+            logging: false
+        });
+        
+        const imageData = rendered.toDataURL("image/png");
+        const link = document.createElement('a');
+        const slideName = activeTab ? activeTab.innerText.replace(/\s+/g, '_') : "SLIDE";
+        
+        link.href = imageData;
+        link.download = `SIYAL_AIR_${slideName}.png`;
+        
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+
+    } catch (err) {
+        console.error("Capture Error:", err);
+        alert("Render extraction halted. Verify local script server permissions.");
+    } finally {
+        dlBtn.innerText = "DOWNLOAD SLIDE";
+        dlBtn.disabled = false;
+    }
+}
+
+async function downloadAllSlides() {
+    const canvas = document.getElementById('post-canvas');
+    const dlBtn = document.getElementById('download-active');
+    if (!canvas || !dlBtn) return;
+
+    const originalActiveTab = document.querySelector('.tab-btn.active');
+    let originalId = 'main';
+    
+    if (originalActiveTab) {
+        if (originalActiveTab.innerText === 'MAIN') originalId = 'main';
+        else if (originalActiveTab.innerText === 'FOLLOW') originalId = 'follow';
+        else originalId = parseInt(originalActiveTab.innerText.replace('SLIDE-', ''));
+    }
+
+    dlBtn.innerText = "CAPTURING ALL...";
+    dlBtn.disabled = true;
+
+    const queue = ['main'];
+    dailyData.slides.forEach((_, i) => queue.push(i + 1));
+    queue.push('follow');
+
+    queue.reverse();
+
+    try {
+        for (const slideId of queue) {
+            await switchSlide(slideId, null);
+            await new Promise(resolve => setTimeout(resolve, 80));
+
+            const rendered = await html2canvas(canvas, { 
+                scale: 2, 
+                useCORS: true,
+                allowTaint: true,
+                backgroundColor: "#050505",
+                logging: false
+            });
+            
+            const imageData = rendered.toDataURL("image/png");
+            const link = document.createElement('a');
+            const fileSuffix = typeof slideId === 'string' ? slideId.toUpperCase() : `SLIDE_${slideId}`;
+            
+            link.href = imageData;
+            link.download = `SIYAL_AIR_${fileSuffix}.png`;
+            
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        }
+    } catch (err) {
+        console.error("Bulk Processing Error:", err);
+        alert("Bulk download failed. Verify pipeline file system links.");
+    } finally {
+        await switchSlide(originalId, originalActiveTab);
+        dlBtn.innerText = "DOWNLOAD ALL SLIDES";
+        dlBtn.disabled = false;
+    }
+}
+
+/**
+ * ---------------------------------------------------------------------------
+ * EMBEDDED BACKEND MODULE: LinkedIn Shorts & Post Data Pipeline Integration
+ * ---------------------------------------------------------------------------
+ */
+const linkedinShortsModule = (typeof window !== 'undefined' && window.linkedinData)
+    ? window.linkedinData
+    : {
+        metadata: {
+            targetPlatform: "LinkedIn",
+            language: "EN",
+            version: "2.0",
+            author: "SIYAL AIR LLC",
+            timestamp: "2026-07-27"
+        },
+        slides: [
+            {
+                slideNumber: 1,
+                heading: "GLOBAL FREIGHT SHIFT:",
+                narration: "The international logistics landscape is experiencing rapid structural adjustments driven by real-time trade updates and port data.",
+                visualText: "CRITICAL SUPPLY CHAIN SHIFTS"
+            },
+            {
+                slideNumber: 2,
+                heading: "CAPACITY & ROUTING:",
+                narration: "Operators are leveraging automated intelligence to optimize multi-modal routing and secure resilient margins ahead of market volatility.",
+                visualText: "DATA-DRIVEN LANE OPTIMIZATION"
+            },
+            {
+                slideNumber: 3,
+                heading: "OPERATIONAL RESILIENCE:",
+                narration: "Real-time visibility mitigates unforeseen bottlenecks across major trade lanes, reducing administrative overhead significantly.",
+                visualText: "MITIGATING NETWORK BOTTLENECK"
+            }
+        ],
+        socialPost: {
+            headline: "GLOBAL LOGISTICS INTELLIGENCE BRIEFING",
+            body: "The international freight landscape is experiencing rapid structural adjustments driven by real-time trade data, port congestion updates, and shifting carrier alliances.\n\nForward-thinking logistics operators are leveraging automated intelligence to optimize routing, reduce transit delays, and secure capacity ahead of market volatility.",
+            hashtags: ["#SupplyChain", "#FreightForwarding", "#LogisticsInnovation", "#GlobalTrade", "#SiyalAir"]
+        }
+    };
+
+// Export for Node.js backend pipeline integration if required in hybrid setups
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = linkedinShortsModule;
+}
