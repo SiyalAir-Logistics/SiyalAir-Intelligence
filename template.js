@@ -1,73 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
-        "titleBlue": "SHIFT",
-        "footerSummary": "Massive legal verdicts, targeted trade tariffs, and critical chokepoint disruptions expose global supply chains to unprecedented regulatory and operational liabilities."
+        "titleWhite": "LOGISTICS REGULATORY FRICTION",
+        "titleBlue": "SPIKES",
+        "footerSummary": "Escalating legal verdicts and trade tariffs signal a shift toward stricter supply chain accountability, forcing immediate risk mitigation across brokerage and import operations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "C.H. ROBINSON: MASSIVE NEGLIGENCE VERDICT",
+            "heading": "CH ROBINSON: LEGAL VERDICT SHOCK",
             "points": [
-                "A Texas court delivered a historic six hundred four million dollar verdict against C.H. Robinson for negligent carrier selection.",
-                "The ruling dismantles federal preemption protections and holds brokers directly liable for safety vetting of third-party motor carriers.",
-                "Asset-light logistics providers must immediately integrate advanced digital verification protocols to mitigate massive risk exposures.",
-                "Shippers face immediate freight rate hikes as broker liability insurance premiums skyrocket following this landmark judicial decision."
+                "C.H. Robinson faces a massive $604 million nuclear verdict following a negligent carrier selection legal ruling.",
+                "This decision fundamentally alters broker liability frameworks established by recent precedents like the Montgomery case.",
+                "Brokers are now forced to re-engineer carrier vetting processes to defend against future catastrophic litigation risks.",
+                "Market stakeholders anticipate an immediate tightening of third-party logistics (3PL) operational compliance and insurance requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: NEW FORCED LABOR TARIFFS",
+            "nextUpTease": "TRADE TARIFF ENFORCEMENT",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "USTR: NEW FORCED LABOR TARIFFS",
+            "heading": "USTR: FORCED LABOR TRADE TARIFFS",
             "points": [
-                "The Office of the United States Trade Representative enforced new tariffs targeting forced labor across sixty global nations.",
-                "Importers face immediate ten to twelve percent duty increases as previous Section 122 tariff exemptions officially expired.",
-                "Supply chain compliance teams must systematically trace raw materials down to the origin level to prevent border seizures.",
-                "This aggressive regulatory shift forces rapid decoupling from high-risk sourcing regions to maintain active North American trade."
+                "The U.S. Trade Representative is implementing punitive tariffs on 60 trading partners to address forced labor violations.",
+                "These levies replace expiring Section 122 duties, significantly shifting the cost structure for global import supply chains.",
+                "Manufacturers and importers must urgently audit their supplier networks to ensure compliance with new transparency standards.",
+                "Failure to pivot sourcing strategies will lead to increased landed costs and disrupted inventory flow cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: GROUND ADVANTAGE RATE HIKES",
+            "nextUpTease": "RAILROAD MERGER UPDATES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "USPS: GROUND ADVANTAGE RATE HIKES",
+            "heading": "RAIL: SUPPLEMENTAL MERGER FILINGS",
             "points": [
-                "United States Postal Service implemented sudden rate increases for Ground Advantage services targeting high-volume e-commerce sellers.",
-                "Lightweight packages shipped to remote rural locations will now incur additional domestic surcharges of up to three dollars.",
-                "Multi-channel marketplace merchants on eBay and Etsy face compressed profit margins due to rising delivery fulfillment costs.",
-                "E-commerce platforms are scrambling to optimize local delivery options to counter escalating national postal delivery fees."
+                "Union Pacific and Norfolk Southern have filed supplemental merger information to appease Surface Transportation Board requirements.",
+                "The carriers are proposing additional customer protections to ensure the deal serves public interest and enhances competition.",
+                "Regulatory scrutiny remains high as agencies demand concrete evidence of improved freight fluidity post-consolidation.",
+                "Shippers are closely monitoring these filings to assess potential impacts on intermodal service stability and pricing."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHEIN: DE MINIMIS REMOVAL LOSS",
+            "nextUpTease": "HORMUZ CHOKEPOINT RISK",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SHEIN: DE MINIMIS REMOVAL LOSS",
+            "heading": "GEOPOLITICS: STRAIT OF HORMUZ RISK",
             "points": [
-                "Fast-fashion giant Shein swung to a financial loss following the abrupt termination of the de minimis tax exemption.",
-                "Cross-border e-commerce models face severe disruptions as low-value packages undergo full formal customs clearance and taxation.",
-                "Direct-to-consumer logistics pipelines must establish regional fulfillment centers within domestic borders to remain financially viable.",
-                "Global customs agencies are increasing inspection scrutiny to enforce strict compliance on high-volume inbound air parcels."
+                "Escalating tensions near the Strait of Hormuz are forcing refiners to seek alternative oil supply routes.",
+                "Global gatekeepers are pivoting toward Atlantic Basin and Russian supplies to bypass volatile Middle Eastern chokepoints.",
+                "Continued maritime uncertainty is driving instability in fuel pricing and regional schedule reliability for container carriers.",
+                "Logistics networks are re-routing to minimize exposure to sudden transit closures and increased geopolitical friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ ROUTE TRANSIT CRASH",
+            "nextUpTease": "USPS RATE ADJUSTMENTS",
             "tags": [
                 "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
@@ -76,51 +76,51 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "MARITIME: HORMUZ ROUTE TRANSIT CRASH",
+            "heading": "USPS: MARKETPLACE RATE HIKES",
             "points": [
-                "Escalating military tensions in the Strait of Hormuz have severely damaged international container liner schedule reliability.",
-                "Ocean carriers are aggressively routing vessels away from Middle Eastern chokepoints, resulting in extended transit times.",
-                "Major state-run refiners are replacing regional barrels with Atlantic basin and Russian supply to avoid maritime risks.",
-                "Importers face immediate emergency surcharges as vessel space constraints tighten on critical East Coast ocean shipping lanes."
+                "The United States Postal Service has implemented increased Ground Advantage rates specifically targeting high-volume marketplace sellers.",
+                "Sellers are experiencing margin compression due to rising costs for lightweight parcel transit to rural destinations.",
+                "Marketplace platforms are signaling further integration of logistics automation to help vendors mitigate shipping surcharges.",
+                "Compliance with updated password and security protocols is now mandatory for accessing essential USPS vendor features."
             ],
             "imageUrl": "",
-            "nextUpTease": "MACK & VOLVO: DEF SOFTWARE OVERHAUL",
+            "nextUpTease": "FEDEX NETWORK OVERHAUL",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MACK & VOLVO: DEF SOFTWARE OVERHAUL",
+            "heading": "FEDEX: NETWORK 2.0 TRANSFORMATION",
             "points": [
-                "Volvo Group units Mack and Volvo Trucks launched coordinated diesel exhaust fluid software updates across production lines.",
-                "The firmware updates prevent premature engine power derates caused by faulty emission control sensor readings.",
-                "Over-the-road trucking fleets must schedule immediate shop visits to upload critical powertrain calibrations and maintain uptime.",
-                "Equipment manufacturers are accelerating digital diagnostic integrations to minimize unscheduled maintenance disruptions on commercial highways."
+                "FedEx is executing a systematic consolidation of ship centers as part of its Network 2.0 operational streamlining.",
+                "Holiday peak season surcharges have been adjusted upward across the domestic network to reflect tighter capacity constraints.",
+                "The overhaul is causing localized service disruptions while aiming for long-term efficiency and reduced facility overhead costs.",
+                "Data-driven routing adjustments are intended to optimize delivery speeds despite ongoing closures and labor force restructuring."
             ],
             "imageUrl": "",
-            "nextUpTease": "TSMC: HUNDRED BILLION DOLLAR EXPANSION",
+            "nextUpTease": "TRUCKING CAPACITY DYNAMICS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TSMC: HUNDRED BILLION DOLLAR EXPANSION",
+            "heading": "TRUCKING: CAPACITY TIGHTENING CYCLE",
             "points": [
-                "Taiwan Semiconductor Manufacturing Company announced an additional one hundred billion dollar investment in United States facilities.",
-                "The funding establishes four additional advanced chip fabrication plants to bolster domestic high-tech supply chain resilience.",
-                "Logistics networks must expand highly specialized chemical and precision equipment handling capabilities to support cleanroom operations.",
-                "This massive infrastructure expansion accelerates the regionalization of critical electronics manufacturing across the North American continent."
+                "Market indicators suggest a rapid tightening of truckload capacity as freight volumes show resilient demand patterns.",
+                "Inspection blitzes across multiple states are sidelineing equipment and personnel, further restricting available road supply.",
+                "Carriers are raising contract and spot rates in response to operational costs and sustained peak season pressures.",
+                "Shippers face a volatile environment characterized by limited truck availability and rising total landed shipping costs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
