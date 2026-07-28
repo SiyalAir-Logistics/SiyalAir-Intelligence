@@ -4,15 +4,15 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'template.js'         # Block the bot from triggering itself
-      - 'post.txt'            # Block the bot from triggering itself on text updates
-      - 'download/**'         # Block the bot from looping on its own image updates
-      - 'bg_tracker.txt'      # Block the bot from looping on background tracker state updates
-      - 'follow_tracker.txt'  # Block the bot from looping on follow-up tracker state updates
-      - 'Social_Media/**'     # Block the bot from looping on any Social Media module file updates
+      - 'template.js'  # Block the bot from triggering itself
+      - 'post.txt'     # Block the bot from triggering itself on text updates
+      - 'download/**'  # Block the bot from looping on its own image updates
+      - 'bg_tracker.txt' # Block the bot from looping on background tracker state updates
+      - 'follow_tracker.txt' # Block the bot from looping on follow-up tracker state updates
+      - 'Social_Media/**' # Block the bot from looping on any Social Media module file updates
   workflow_dispatch:
   schedule:
-    - cron: '16 * * * *'      # Single Primary Precise Hourly Trigger (Exactly once per hour)
+    - cron: '16 * * * *'  # Single Primary Precise Hourly Trigger (Exactly once per hour)
 
 jobs:
   run-engine:
@@ -23,7 +23,7 @@ jobs:
       - name: Checkout Code
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0      # Crucial: Gets full history tree
+          fetch-depth: 0  # Crucial: Gets full history tree
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
 
@@ -178,7 +178,7 @@ jobs:
               try:
                   # Force clean network pull by appending an active cache-busting timestamp token
                   response = requests.get(f"{target_url}?nocache={int(time.time())}", timeout=10)
-                  if response.status_code == 200 and ("dailyData" in response.text or "slides_data" in response.text or "translations" in response.text):
+                  if response.status_code == 200 and "dailyData" in response.text:
                       print(f"Verified: Live GitHub Pages environment has completely synchronized on attempt {attempt + 1}.")
                       success = True
                       break
