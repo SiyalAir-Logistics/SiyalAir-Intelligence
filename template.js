@@ -1,56 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
-        "titleBlue": "PIVOT",
-        "footerSummary": "Escalating trade barriers and judicial rulings on detention fees are creating significant volatility in ocean carrier reliability and domestic freight contract enforcement."
+        "titleWhite": "GLOBAL LOGISTICS RISK",
+        "titleBlue": "SURGE",
+        "footerSummary": "Unprecedented court-ordered liabilities, ending of the US de minimis rule, and expanding international tariffs create severe operational margin friction for global supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC ENFORCEMENT ON DETENTION",
+            "heading": "C.H. ROBINSON: NUCLEAR BROKER LIABILITY",
             "points": [
-                "US Court of Appeals upholds key regulatory mandate requiring detention fees to directly support freight fluidity.",
-                "This legal victory forces ocean carriers to overhaul billing transparency and align pricing with actual cargo accessibility.",
-                "Importers and exporters gain stronger leverage against punitive charges when port congestion prevents equipment return.",
-                "Expect intensified FMC oversight as carriers are forced to justify fees against federal regulatory performance benchmarks."
+                "US courts hit C.H. Robinson with a massive six hundred four million dollar negligent carrier selection verdict.",
+                "This landmark judicial decision sets unprecedented liability standards for freight brokers during third-party motor carrier selection.",
+                "Shippers must instantly recalibrate automated carrier vetting workflows to eliminate systemic operational and financial exposure risks.",
+                "Corporate supply chains face rapid tightening of logistics brokerage contract terms to offset rising regulatory penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN RELIABILITY FRAGMENTATION",
+            "nextUpTease": "USTR: SECTION 301 TRADE TARIFFS",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CARRIER SCHEDULE RELIABILITY SHIFT",
+            "heading": "USTR: SECTION 301 TRADE TARIFFS",
             "points": [
-                "Geopolitical tensions are forcing container lines to prioritize core tradelanes over regional network connectivity.",
-                "Global schedule reliability shows modest improvement but remains fragmented due to constant routing disruptions.",
-                "Carriers are sacrificing service frequency on secondary routes to maintain stability on critical Asia-West trade.",
-                "Supply chain managers must diversify transit options to account for declining regional service consistency."
+                "The Office of the United States Trade Representative implements aggressive Section 301 tariffs on sixty global trading partners.",
+                "These mandatory trade levies replace expiring international duties to actively target foreign forced labor violations.",
+                "Importers must urgently evaluate manufacturing footprints to avoid steep operational cost increases and custom clearance delays.",
+                "Shippers will shift production capacity toward low-tariff countries to preserve margins amid rising regulatory trade barriers."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUMP TARIFF LITIGATION",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "SECTION 301 TARIFF LAWSUITS",
-            "points": [
-                "Private businesses launch legal challenges seeking immediate removal and retroactive refunds for Section 301 trade levies.",
-                "Plaintiffs argue current tariff enforcement acts as a workaround for expired regulations impacting forced labor compliance.",
-                "Trade compliance teams must prepare for potential duty adjustments if courts block the current enforcement framework.",
-                "Uncertainty regarding tariff status creates significant landed cost volatility for major US-based import entities."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON VERDICT IMPACT",
+            "nextUpTease": "US CUSTOMS: END OF DE MINIMIS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -58,33 +41,50 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "BROKERAGE LIABILITY NUCLEAR VERDICTS",
+            "id": 3,
+            "heading": "US CUSTOMS: END OF DE MINIMIS",
             "points": [
-                "C.H. Robinson faces a massive $604 million verdict following a negligent carrier selection case in Texas.",
-                "The ruling sets a precedent for increased broker liability regarding thorough vetting of third-party motor carriers.",
-                "Logistics providers are rapidly auditing carrier qualification programs to mitigate rising legal risks in freight brokerage.",
-                "Expect industry-wide shifts toward stricter, AI-driven compliance checks to prevent catastrophic negligent selection litigation."
+                "The United States formally terminates the eight hundred dollar de minimis exemption for incoming international packages.",
+                "Major cross-border retail giants report severe immediate financial losses as import customs compliance fees skyrocket.",
+                "E-commerce logistics operators must transition quickly to traditional entry filing mechanisms for all incoming foreign inventory.",
+                "Brands must redesign pricing structures to accommodate additional import taxes without alienating price-sensitive online retail consumers."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL SURCHARGE UPDATES",
+            "nextUpTease": "USPS: MARKETPLACE SHIPPING RATE SURGE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychainbrain.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "USPS: MARKETPLACE SHIPPING RATE SURGE",
+            "points": [
+                "The United States Postal Service increases Ground Advantage package shipping rates for high-volume online marketplace sellers.",
+                "Lightweight package delivery to remote rural locations will cost an additional two to three dollars.",
+                "E-commerce merchants must recalculate national fulfillment budgets to offset the immediate margin compression on cheap goods.",
+                "Sellers will utilize regional micro-fulfillment centers to bypass costly long-distance postal transport zones and rural surcharges."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "OCEAN SHIPPING: TRANS-PACIFIC RATE RALLY",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PANAMA CANAL CAPACITY CONSTRAINTS",
+            "heading": "OCEAN SHIPPING: TRANS-PACIFIC RATE RALLY",
             "points": [
-                "Major carriers implement fresh surcharges due to ongoing operational constraints and low water levels at canal.",
-                "Shippers face increased costs as water shortages reduce throughput capacity for heavy container vessel transit.",
-                "Operational reliance on Panama Canal remains a critical vulnerability in current US East Coast supply chains.",
-                "Logistics managers are rerouting critical cargo to avoid congestion and mitigate unpredictable transit time delays."
+                "Escallating global geopolitical conflicts push Asia to United States ocean freight spot rates up by colossal percentages.",
+                "Carrier capacity reallocation to core tradelanes starves regional trade routes and triggers persistent cargo booking backlogs.",
+                "Supply chain planners must secure multi-carrier space commitments to safeguard international inventory velocity during peak season.",
+                "Importers will experience extended lead times and volatile surcharges as global container ship routing becomes unstable."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS RATE ADJUSTMENT IMPACT",
+            "nextUpTease": "HMM: FLEET EXPANSION ACCELERATION",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -93,34 +93,34 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "USPS GROUND ADVANTAGE SHIFTS",
+            "heading": "HMM: FLEET EXPANSION ACCELERATION",
             "points": [
-                "US Postal Service initiates targeted rate increases for lightweight package shipments impacting marketplace sellers immediately.",
-                "Rural delivery surcharges continue to climb, forcing sellers to reconsider fulfillment strategies for remote consumer bases.",
-                "E-commerce platforms are adjusting shipping labels to reflect the updated Ground Advantage cost structures effectively.",
-                "Smaller retailers face margin compression as postage costs continue to outpace modest retail price increases."
+                "Global ocean liner HMM accelerates its vessel acquisition program to dramatically expand overall container shipping capacity.",
+                "The five-year strategic growth blueprint focuses heavily on building robust medium-sized ships and dedicated regional feeder networks.",
+                "This targeted fleet architecture supports an optimized hub-and-spoke operational model to bypass severely congested global transshipment hubs.",
+                "Cargo owners gain enhanced routing flexibility and direct port access across crucial emerging Asian trade corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "FORCED LABOR TARIFF ESCALATION",
+            "nextUpTease": "UP & NS: CLASS I RAILROAD MERGER REVISIONS",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FORCED LABOR TARIFF IMPLEMENTATION",
+            "heading": "UP & NS: CLASS I RAILROAD MERGER REVISIONS",
             "points": [
-                "USTR moves forward with implementing forced labor-based tariffs on imports from 60 global trading partners.",
-                "This decisive regulatory action replaces expiring Section 122 levies with stringent new trade enforcement measures.",
-                "Compliance departments are scrambling to document supply chain transparency to avoid significant import penalty exposures.",
-                "Aggressive trade policy shifts signal a permanent move toward high-friction, politically-driven supply chain management regimes."
+                "Union Pacific and Norfolk Southern submit comprehensive supplemental filings to secure federal approval for their integration.",
+                "The updated documentation introduces voluntary shipper protections that exceed original regulatory requirements from the transport board.",
+                "Rail operators aim to preserve competitive intermodal options while scaling critical domestic network freight capacity.",
+                "Logistics managers will benefit from heightened service guarantees and stabilized rail freight rates across primary transcontinental corridors."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
