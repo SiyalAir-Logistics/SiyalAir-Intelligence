@@ -11,6 +11,17 @@ window.onload = async () => {
     script.onload = async () => {
         console.log("Siyal Air Template loaded successfully.");
         
+        // DYNAMIC HYDRATION: Load updated LinkedIn Intelligence Module with strict cache-busting
+        const linkedinScript = document.createElement('script');
+        linkedinScript.src = 'Social_Media/LinkedIn/LinkedIn_Template_EN.js?t=' + Date.now();
+        linkedinScript.onload = () => {
+            console.log("LinkedIn Intelligence Module (Social_Media/LinkedIn/LinkedIn_Template_EN.js) loaded successfully.");
+        };
+        linkedinScript.onerror = () => {
+            console.warn("Notice: Social_Media/LinkedIn/LinkedIn_Template_EN.js not found at nested path, utilizing embedded fallback module.");
+        };
+        document.head.appendChild(linkedinScript);
+
         // Force fix the background image compatibility
         await fixBackgroundCORS();
 
@@ -323,40 +334,42 @@ async function downloadAllSlides() {
  * EMBEDDED BACKEND MODULE: LinkedIn Shorts & Post Data Pipeline Integration
  * ---------------------------------------------------------------------------
  */
-const linkedinShortsModule = {
-    metadata: {
-        targetPlatform: "LinkedIn",
-        language: "EN",
-        version: "2.0",
-        author: "SIYAL AIR LLC",
-        timestamp: "2026-07-27"
-    },
-    slides: [
-        {
-            slideNumber: 1,
-            heading: "GLOBAL FREIGHT SHIFT:",
-            narration: "The international logistics landscape is experiencing rapid structural adjustments driven by real-time trade updates and port data.",
-            visualText: "CRITICAL SUPPLY CHAIN SHIFTS"
+const linkedinShortsModule = (typeof window !== 'undefined' && window.linkedinData)
+    ? window.linkedinData
+    : {
+        metadata: {
+            targetPlatform: "LinkedIn",
+            language: "EN",
+            version: "2.0",
+            author: "SIYAL AIR LLC",
+            timestamp: "2026-07-27"
         },
-        {
-            slideNumber: 2,
-            heading: "CAPACITY & ROUTING:",
-            narration: "Operators are leveraging automated intelligence to optimize multi-modal routing and secure resilient margins ahead of market volatility.",
-            visualText: "DATA-DRIVEN LANE OPTIMIZATION"
-        },
-        {
-            slideNumber: 3,
-            heading: "OPERATIONAL RESILIENCE:",
-            narration: "Real-time visibility mitigates unforeseen bottlenecks across major trade lanes, reducing administrative overhead significantly.",
-            visualText: "MITIGATING NETWORK BOTTLENECK"
+        slides: [
+            {
+                slideNumber: 1,
+                heading: "GLOBAL FREIGHT SHIFT:",
+                narration: "The international logistics landscape is experiencing rapid structural adjustments driven by real-time trade updates and port data.",
+                visualText: "CRITICAL SUPPLY CHAIN SHIFTS"
+            },
+            {
+                slideNumber: 2,
+                heading: "CAPACITY & ROUTING:",
+                narration: "Operators are leveraging automated intelligence to optimize multi-modal routing and secure resilient margins ahead of market volatility.",
+                visualText: "DATA-DRIVEN LANE OPTIMIZATION"
+            },
+            {
+                slideNumber: 3,
+                heading: "OPERATIONAL RESILIENCE:",
+                narration: "Real-time visibility mitigates unforeseen bottlenecks across major trade lanes, reducing administrative overhead significantly.",
+                visualText: "MITIGATING NETWORK BOTTLENECK"
+            }
+        ],
+        socialPost: {
+            headline: "GLOBAL LOGISTICS INTELLIGENCE BRIEFING",
+            body: "The international freight landscape is experiencing rapid structural adjustments driven by real-time trade data, port congestion updates, and shifting carrier alliances.\n\nForward-thinking logistics operators are leveraging automated intelligence to optimize routing, reduce transit delays, and secure capacity ahead of market volatility.",
+            hashtags: ["#SupplyChain", "#FreightForwarding", "#LogisticsInnovation", "#GlobalTrade", "#SiyalAir"]
         }
-    ],
-    socialPost: {
-        headline: "GLOBAL LOGISTICS INTELLIGENCE BRIEFING",
-        body: "The international freight landscape is experiencing rapid structural adjustments driven by real-time trade data, port congestion updates, and shifting carrier alliances.\n\nForward-thinking logistics operators are leveraging automated intelligence to optimize routing, reduce transit delays, and secure capacity ahead of market volatility.",
-        hashtags: ["#SupplyChain", "#FreightForwarding", "#LogisticsInnovation", "#GlobalTrade", "#SiyalAir"]
-    }
-};
+    };
 
 // Export for Node.js backend pipeline integration if required in hybrid setups
 if (typeof module !== 'undefined' && module.exports) {
