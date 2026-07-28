@@ -226,8 +226,6 @@ jobs:
           import smtplib
           from email.mime.multipart import MIMEMultipart
           from email.mime.text import MIMEText
-          from email.mime.base import MIMEBase
-          from email import encoders
 
           try:
               # Read the freshly pushed template.js file
@@ -299,36 +297,41 @@ jobs:
               
               msg.attach(MIMEText(html_body, 'html'))
 
-              # Dynamically scan Social_Media/ and root for all updated .js template files recursively
-              js_attachments = []
-              
+              # Build target attachments array: (source_filepath, email_attachment_filename)
+              attachments_list = []
+
+              # 1. Collect all template JS files from Social_Media/ recursively & rename to .txt
               if os.path.exists('Social_Media'):
                   for root_dir, _, filenames in os.walk('Social_Media'):
                       for fn in filenames:
                           if fn.endswith('.js'):
-                              js_attachments.append(os.path.join(root_dir, fn))
-              
-              # Include template.js from root directory
+                              file_path = os.path.join(root_dir, fn)
+                              txt_name = fn[:-3] + '.txt'
+                              attachments_list.append((file_path, txt_name))
+
+              # 2. Add root template.js formatted as template.txt
               if os.path.exists('template.js'):
-                  js_attachments.append('template.js')
+                  attachments_list.append(('template.js', 'template.txt'))
+
+              # 3. Add post.txt directly formatted ready for copy-paste
+              if os.path.exists('post.txt'):
+                  attachments_list.append(('post.txt', 'post.txt'))
 
               attached_count = 0
-              for js_file_path in js_attachments:
+              for file_path, attach_name in attachments_list:
                   try:
-                      with open(js_file_path, 'rb') as jf:
-                          part = MIMEBase('application', 'javascript')
-                          part.set_payload(jf.read())
-                          encoders.encode_base64(part)
-                          filename = os.path.basename(js_file_path)
-                          part.add_header('Content-Disposition', f'attachment; filename="{filename}"')
+                      with open(file_path, 'r', encoding='utf-8') as f_in:
+                          file_body = f_in.read()
+                          part = MIMEText(file_body, 'plain', 'utf-8')
+                          part.add_header('Content-Disposition', f'attachment; filename="{attach_name}"')
                           msg.attach(part)
                           attached_count += 1
-                          print(f"Success: Attached {js_file_path} as {filename} to email dispatch.")
+                          print(f"Success: Attached {file_path} as clean text file '{attach_name}'.")
                   except Exception as att_err:
-                      print(f"Warning: Failed to attach {js_file_path}: {str(att_err)}")
+                      print(f"Warning: Failed to attach {file_path}: {str(att_err)}")
 
               if attached_count == 0:
-                  print("Warning: No .js template files were located for attachment.")
+                  print("Warning: No template or post files were located for attachment.")
 
               # Connect to Gmail SMTP Gateway Securely
               server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
