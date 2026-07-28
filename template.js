@@ -9,69 +9,69 @@ const dailyData = {
         "en": {
             "main": {
                 "kicker": "",
-                "titleWhite": "GLOBAL SUPPLY CHAIN",
-                "titleBlue": "RECONSTRUCTION",
-                "footerSummary": "Forensic analysis of regulatory shifts, blank sailings, and compliance mandates signaling immediate cost spikes across global multi-channel freight networks in 2026."
+                "titleWhite": "GLOBAL LOGISTICS",
+                "titleBlue": "STRATEGY",
+                "footerSummary": "Sweeping regulatory crackdowns, port emissions constraints, and severe air freight bottlenecks redefine international cargo flows and trade compliance models."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "CBP: SECTION 321 STRATEGIC UPGRADE",
+                    "heading": "CBP: DE MINIMIS STRUCTURAL CRACKDOWN",
                     "points": [
-                        "US Customs and Border Protection implements electronic entry filings for Section 321 de minimis parcels. This immediate mandate aims to mitigate illicit trade loops and enforce strict import compliance. Importers must adapt to digitized cross-border clearance protocols.",
-                        "High clearance delays have escalated at Los Angeles and Chicago O'Hare international hubs by 40 percent. Daily processing capacity has dropped, causing a massive backlog of high-volume e-commerce air cargo. Financial penalties for missing manifest details are already starting to pile up.",
-                        "Shippers must restructure their transpacific logistics pipelines to prevent systematic supply chain blocks. Utilizing automated customs brokerage portals is critical to maintain real-time compliance validation. Diversifying import gateways away from congested coastal hubs remains highly recommended."
+                        "US Customs and Border Protection is implementing strict automated filing frameworks requiring absolute HS code visibility for all Section 321 de minimis e-commerce shipments. Under this new operational mandate, importers must provide verified product classifications prior to loading cargo onto international aircraft. Failure to submit accurate commercial invoices will result in immediate seizure and carrier penalty escalation.",
+                        "The logistics friction will severely disrupt low-value shipping networks reliant on rapid customs clearance mechanisms. Daily automated processing channels are experiencing unprecedented clearance backlogs of up to seventy-two hours at key hubs like LAX and ORD. Operational cargo audits have surged by three hundred percent to combat systematic duty evasion strategies.",
+                        "Global e-commerce operators must restructure their logistics pipelines to ensure real-time regulatory compliance integration. Direct-to-consumer models are transiting toward bonded warehouse distribution networks to bypass direct entry friction points. Implementing secure digital supply chain manifests has become an absolute necessity to prevent structural network delays."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "FMC: DETENTION BILLING VERIFICATION",
+                    "nextUpTease": "MARKETPLACES: NEW INBOUND COMPLIANCE PENALTIES",
                     "tags": [
                         "Source: https://www.cbp.gov",
-                        "Published: Last 48 Hours",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "FMC: DETENTION BILLING VERIFICATION",
+                    "heading": "MARKETPLACES: NEW INBOUND COMPLIANCE PENALTIES",
                     "points": [
-                        "The Federal Maritime Commission enforces its final rule on maritime demurrage and detention billing disputes. Ocean common carriers must provide accurate, verifiable documentation within thirty days of invoicing. This regulatory intervention aims to eliminate unfair billing practices across major ports.",
-                        "Disputes over erroneous detention charges have decreased billing accuracy errors by fifteen percent globally. Ocean carriers face severe civil penalties if invoices do not comply with the new federal mandates. Shippers are recovering millions of dollars in previously unresolvable demurrage assessments.",
-                        "Freight forwarders must integrate automated invoice audit systems to flag non-compliant container charges instantly. Compliance teams must actively cross-reference container return logs with carrier-provided digital timestamps. Proactive legal dispute filing is recommended to protect corporate shipping margins."
+                        "Major global marketplaces are enforcing strict new inbound shipment placement fees to optimize decentralized logistics distribution networks. Sellers face heavy financial penalties if cargo consignments deviate from assigned localized fulfillment center patterns. This structural change targets the reduction of long-haul ground transportation and regional transit overhead costs.",
+                        "Under the updated framework, multi-channel merchants must re-evaluate their regional freight routing and inventory positioning mechanics. Automated shipping software must align directly with the platforms' updated algorithmic requirements to avoid critical docking penalties. Inbound transit rates are projected to increase by fifteen percent for non-compliant shipping plans.",
+                        "Logistics integrators are rapidly developing specialized cross-docking services to support multi-point inventory distribution requirements. Consolidating smaller cargo batches prior to final inland delivery has emerged as the premier operational mitigation strategy. Strategic adjustments here are critical for preserving margin viability across high-volume trade channels."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "AMAZON: INBOUND FEE RESTRUCTURE",
+                    "nextUpTease": "FMC: OCEAN ALLIANCE AUDITS EXPAND",
                     "tags": [
-                        "Source: https://www.fmc.gov",
+                        "Source: https://www.joc.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 3,
-                    "heading": "AMAZON: INBOUND FEE RESTRUCTURE",
+                    "heading": "FMC: OCEAN ALLIANCE AUDITS EXPAND",
                     "points": [
-                        "Amazon restructures its regional inbound placement fee matrix to discourage split-shipment logistics strategies. This policy forces third-party sellers to consolidate inventory into single centralized fulfillment centers. The e-commerce giant aims to optimize its domestic ground transit network.",
-                        "Mid-sized e-commerce sellers report a twenty-two percent increase in inbound logistics costs per unit. Low-margin product categories are suffering severe profitability declines under the newly revised fulfillment framework. Freight consolidation services are experiencing unprecedented demand surges from cross-border merchants.",
-                        "Supply chain managers must pivot to specialized third-party consolidation hubs near domestic destination ports. Pre-sorting inventory prior to Amazon delivery eliminates localized split-shipment penalty fees entirely. Restructuring packaging dimensions will mitigate excessive outbound volumetric weight surcharges."
+                        "The Federal Maritime Commission has launched expansive regulatory investigations into ocean carrier alliances regarding billing transparency. Enhanced audits target controversial demurrage and detention charges levied during periods of persistent port disruption and blank sailings. Ocean carriers must now defend their pricing models against strict regulatory compliance baselines.",
+                        "The enforcement initiative aims to eliminate punitive fee structures that disrupt domestic supply chain liquidity. Freight forwarders and intermodal operators are receiving retroactive billing protection under newly established maritime commission guidance. Shippers can now file simplified dispute claims to recover unjustified terminal storage expenses.",
+                        "Maritime transport alliances are adjusting scheduling algorithms to mitigate the risk of regulatory enforcement actions. The industry expects a shift toward more stable weekly service capacities to prevent artificial container terminal congestion. Operational compliance teams are prioritising dispute mitigation frameworks to avoid significant statutory penalties."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "GLOBAL: BLANK SAILINGS ACCELERATION",
+                    "nextUpTease": "PORT OF ROTTERDAM: EU EMISSION CAP",
                     "tags": [
-                        "Source: https://www.supplychaindive.com",
-                        "Published: Last 48 Hours",
+                        "Source: https://www.fmc.gov",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 4,
-                    "heading": "GLOBAL: BLANK SAILINGS ACCELERATION",
+                    "heading": "PORT OF ROTTERDAM: EU EMISSION CAP",
                     "points": [
-                        "Ocean container carriers announce a twenty-five percent surge in scheduled blank sailings on Asia-Europe routes. This capacity management strategy counters the prolonged rerouting of vessels around the Cape of Good Hope. Marine operators are struggling to stabilize fluctuating spot freight rates.",
-                        "Ocean transit times between East Asia and Northern Europe have extended by twelve cargo-carrying days. Fleet operational costs have risen dramatically due to elevated bunker fuel consumption on longer ocean routes. Shippers face critical container equipment shortages at main exporting terminals.",
-                        "Global logistics coordinators must secure ocean space allocations at least six weeks prior to departure. Implementing dual-routing strategies using sea-air combined transport will help bypass critical maritime choke points. Contract negotiations should focus on securing equipment availability guarantees over low-rate promises."
+                        "The Port of Rotterdam is enforcing strict new carbon emission ceilings on inbound container vessels under EU ETS Phase 2. Shipping lines operating within the maritime zone must track and report real-time emissions data for every port call. Non-compliant vessels face severe administrative fines and potential exclusion from European commercial ports.",
+                        "The new environmental regulations are driving ocean carriers to utilize lower-speed sailing profiles to conserve energy. This operational shift, while reducing greenhouse gases, is adding approximately forty-eight hours to standard North Atlantic transit times. Cargo operators are forced to adjust baseline inventory calculations to accommodate longer ocean freight lead times.",
+                        "Maritime logistics companies are investing heavily in alternative propulsion and shore-power connection infrastructure at deepwater berths. Port operations must adapt to support rapid cold-ironing capabilities to meet zero-emission targets by the decade's end. Shippers should anticipate carbon surcharge adjustments on all European import and export contracts."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "IATA: BATTERY CARGO COMPLIANCE",
+                    "nextUpTease": "AIR CARGO: CHARTER CAPACITY SURGE",
                     "tags": [
                         "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
@@ -80,48 +80,48 @@ const dailyData = {
                 },
                 {
                     "id": 5,
-                    "heading": "IATA: BATTERY CARGO COMPLIANCE",
+                    "heading": "AIR CARGO: CHARTER CAPACITY SURGE",
                     "points": [
-                        "The International Air Transport Association enforces revised Dangerous Goods Regulations regarding lithium-ion battery shipments. Air carriers must implement strict thermal runaway containment protocols within all narrowbody aircraft cargo holds. This regulatory update restricts loose battery cargo profiles globally.",
-                        "Transpacific air cargo capacity for consumer electronic items has declined by eighteen percent this quarter. Freight rates for compliance-certified battery transport have surged as specialized air assets face supply deficits. Cargo clearance delays are escalating due to mandatory battery packaging verification checks.",
-                        "Electronic manufacturers must redesign their global outbound shipping configurations to comply with the latest regulations. Utilizing certified fire-resistant container solutions is mandatory to preserve access to premium air passenger networks. Coordinating closely with dangerous goods specialists ensures uninterrupted international distribution."
+                        "Air cargo spot rates along critical Asia-Pacific corridors have surged due to massive block space agreements secured by e-commerce giants. Traditional manufacturing shippers are struggling to secure seasonal freighter capacity for time-sensitive high-value electronic components. This structural capacity shift has forced standard air freight rates to rise by twenty-five percent.",
+                        "Logistics integrators are redeploying dry-lease freighter fleets to secondary Asian hubs to bypass major gateway congestion. Freight forwarders are advising clients to utilize sea-air hybrid solutions through Middle Eastern hubs to balance transit times. The ongoing space squeeze is expected to persist throughout the upcoming shipping season.",
+                        "Aviation networks are expanding dedicated freighter routes to support the surging demand for cross-border direct delivery services. Air cargo operators must optimize ground handling turnarounds to maximize daily flight block hour utilization across all networks. Importers must commit to long-term cargo allocation contracts to ensure stable pricing structures."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "PANAMA CANAL: DRAFT RESTRICTIONS",
+                    "nextUpTease": "LKSG: GERMAN LOGISTICS AUDITING MANDATE",
                     "tags": [
                         "Source: https://aircargonext.com",
-                        "Published: Last 48 Hours",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 6,
-                    "heading": "PANAMA CANAL: DRAFT RESTRICTIONS",
+                    "heading": "LKSG: GERMAN LOGISTICS AUDITING MANDATE",
                     "points": [
-                        "The Panama Canal Authority increases daily vessel transits while strictly maintaining maximum draft limitations. Ocean carriers must reduce cargo volumes on Neopanamax vessels to ensure safe passage. This operational compromise forces adjustments in global maritime route distributions.",
-                        "Major ocean carriers are reducing vessel capacity utilization by fifteen percent per transit to meet draft rules. Slot reservation fees have spiked, adding substantial operational premiums to US East Coast shipping schedules. Alternate rail landbridge routes are seeing a corresponding influx of container traffic.",
-                        "Port logistics managers must redirect heavy agricultural and industrial commodities to alternate intermodal corridors. Utilizing US West Coast ports combined with domestic rail offers a reliable alternative to canal transits. Importers should re-calculate transit budgets to absorb dynamic canal congestion surcharges."
+                        "The German Supply Chain Due Diligence Act is expanding its regulatory scope to include mid-market logistics services providers. Transportation companies operating within the European market must establish comprehensive environmental and human rights risk management auditing protocols. Compliance audits must now cover secondary subcontractors, including third-party line-haul and drayage carriers.",
+                        "Logistics companies failing to document compliance face substantial administrative penalties and exclusion from lucrative public contracts. This legislative shift increases administrative overhead for forwarders managing complex multi-modal supply chain operations across Europe. Digital tracing technology is being deployed to automate supplier compliance validation throughout the network.",
+                        "Global brands are restructuring their logistics procurement criteria to prioritize transportation partners with audited sustainable supply chains. Transparent operations and auditable labor standards are becoming critical elements of contract negotiations across all transportation modes. Companies must align their operational standards with the updated European framework to maintain market access."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "EU: CBAM CARBON REPORTING",
+                    "nextUpTease": "CROSS-BORDER: LAREDO TRUCKING BOTTLENECKS",
                     "tags": [
-                        "Source: https://www.joc.com",
-                        "Published: Last 48 Hours",
+                        "Source: https://www.freightwaves.com",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 7,
-                    "heading": "EU: CBAM CARBON REPORTING",
+                    "heading": "CROSS-BORDER: LAREDO TRUCKING BOTTLENECKS",
                     "points": [
-                        "The European Union enters the definitive enforcement phase of the Carbon Border Adjustment Mechanism. Importers of steel, aluminum, and fertilizers must submit fully verified carbon emissions data logs quarterly. This carbon border tax aims to align import footprints with domestic climate mandates.",
-                        "Industrial manufacturers face import tariff penalties of up to thirty percent on non-compliant metal shipments. Logistics compliance costs have risen as third-party carbon verification audits become standard operational requirements. Global suppliers are prioritizing low-carbon manufacturing lines to preserve tariff-free European access.",
-                        "Supply chain compliance officers must implement standardized carbon tracking systems across all offshore production facilities. Upgrading supplier vendor agreements to mandate precise emissions reporting is an immediate corporate necessity. Diversifying raw material procurement to certified green production zones avoids punitive import taxes."
+                        "US-Mexico cross-border commercial truck traffic is experiencing massive bottlenecks at the Port of Laredo due to enhanced security sweeps. Unilateral cargo inspections implemented by border enforcement agencies are causing transport delays extending past twelve hours. These interruptions are heavily impacting just-in-time automotive and aerospace manufacturing supply chains on both sides.",
+                        "Intermodal operators are rushing to shift cargo allocations to cross-border rail links to bypass congested highway corridors. Trailer-on-flatcar service demand has spiked, driving up regional container leasing rates throughout the northeastern Mexican industrial hubs. Logistics managers must recalculate delivery schedules to account for persistent, unpredictable border transit times.",
+                        "The congestion highlight the critical need for diversified nearshoring logistics routes and robust contingency infrastructure. Industrial warehouse development near the border is accelerating to accommodate emergency buffer stocks of critical manufacturing parts. Shippers must establish flexible cross-border partnerships to maintain supply chain resilience under increased enforcement pressures."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.reuters.com",
+                        "Source: https://www.ttnews.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
@@ -131,69 +131,69 @@ const dailyData = {
         "de": {
             "main": {
                 "kicker": "",
-                "titleWhite": "GLOBALE LIEFERKETTEN",
-                "titleBlue": "RESTRUKTURIERUNG",
-                "footerSummary": "Forensische Analyse von regulatorischen \u00c4nderungen, Leerfahrten und Compliance-Mandaten, die sofortige Kostensteigerungen im globalen Frachtnetz im Jahr 2026 ank\u00fcndigen."
+                "titleWhite": "GLOBALE LOGISTIK",
+                "titleBlue": "STRATEGIE",
+                "footerSummary": "Regulatorische Durchgriffe, Hafenemissionsgrenzen und Engp\u00e4sse in der Luftfracht definieren globale Warenstr\u00f6me und Compliance-Modelle neu."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "CBP: STRATEGISCHES UPDATE ZU SEKTION 321",
+                    "heading": "CBP: STRUKTURELLES DE-MINIMIS-VORGEHEN",
                     "points": [
-                        "Die US-Zoll- und Grenzschutzbeh\u00f6rde f\u00fchrt elektronische Anmeldungen f\u00fcr Section 321 De-Minimis-Pakete ein. Dieses unmittelbare Mandat zielt darauf ab, illegalen Handel zu bek\u00e4mpfen und Import-Compliance durchzusetzen. Importeure m\u00fcssen sich schnell an digitale Grenzabfertigungsprotokolle anpassen.",
-                        "An den internationalen Drehkreuzen in Los Angeles und Chicago O'Hare haben sich die Abfertigungsverz\u00f6gerungen um 40 Prozent erh\u00f6ht. Die t\u00e4gliche Verarbeitungskapazit\u00e4t ist gesunken, was zu einem enormen R\u00fcckstau bei E-Commerce-Luftfracht f\u00fchrt. Erste Bu\u00dfgelder wegen unvollst\u00e4ndiger Manifestdaten werden bereits verh\u00e4ngt.",
-                        "Verlader m\u00fcssen ihre transpazifischen Logistikketten umstrukturieren, um systematische Blockaden in der Lieferkette zu vermeiden. Die Nutzung automatisierter Zollportale ist entscheidend, um die Einhaltung der Vorschriften in Echtzeit sicherzustellen. Die Diversifizierung der Importwege weg von \u00fcberlasteten K\u00fcstenh\u00e4fen wird dringend empfohlen."
+                        "US Customs and Border Protection f\u00fchrt strenge automatisierte Einreichungs-Frameworks ein, die eine absolute HS-Code-Transparenz f\u00fcr alle De-Minimis-E-Commerce-Sendungen nach Section 321 erfordern. Im Rahmen dieses neuen Betriebsmandats m\u00fcssen Importeure verifizierte Produktklassifizierungen vorlegen, bevor die Fracht auf internationale Flugzeuge geladen wird. Eine fehlerhafte \u00dcbermittlung korrekter Handelsrechnungen f\u00fchrt zur sofortigen Beschlagnahmung und Eskalation von Frachtf\u00fchrerstrafen.",
+                        "Diese logistischen Reibungspunkte werden Low-Value-Versandnetzwerke, die auf schnelle Zollabwicklungsmechanismen angewiesen sind, erheblich st\u00f6ren. Die t\u00e4glichen automatisierten Abwicklungskan\u00e4le verzeichnen an wichtigen Hubs wie LAX und ORD beispiellose Abwicklungsverz\u00f6gerungen von bis zu zweiundsiebzig Stunden. Die betrieblichen Frachtpr\u00fcfungen sind um dreihundert Prozent gestiegen, um systematische Zollhinterziehungsstrategien zu bek\u00e4mpfen.",
+                        "Globale E-Commerce-Akteure m\u00fcssen ihre Logistik-Pipelines umstrukturieren, um eine Echtzeit-Integration der regulatorischen Compliance zu gew\u00e4hrleisten. Direct-to-Consumer-Modelle verlagern sich hin zu Zollager-Vertriebsnetzen, um direkte Reibungspunkte bei der Einfuhr zu umgehen. Die Implementierung sicherer digitaler Lieferketten-Manifeste ist zu einer absoluten Notwendigkeit geworden, um strukturelle Netzwerkverz\u00f6gerungen zu verhindern."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "FMC: DETENTION-ABRECHNUNGSPR\u00dcFUNG",
+                    "nextUpTease": "MARKTPL\u00c4TZE: NEUE INBOUND-COMPLIANCE-STRAFEN",
                     "tags": [
                         "Source: https://www.cbp.gov",
-                        "Published: Last 48 Hours",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "FMC: DETENTION-ABRECHNUNGSPR\u00dcFUNG",
+                    "heading": "MARKTPL\u00c4TZE: NEUE INBOUND-COMPLIANCE-STRAFEN",
                     "points": [
-                        "Die Federal Maritime Commission setzt ihre endg\u00fcltige Regelung zu Liegegeld- und Detention-Geb\u00fchrenstreitigkeiten durch. Seefrachtf\u00fchrer m\u00fcssen innerhalb von drei\u00dfig Tagen nach Rechnungsstellung genaue, \u00fcberpr\u00fcfbare Dokumente vorlegen. Diese regulatorische Intervention soll unfaire Abrechnungspraktiken an gro\u00dfen H\u00e4fen verhindern.",
-                        "Streitigkeiten \u00fcber fehlerhafte Detention-Geb\u00fchren haben Abrechnungsfehler weltweit um f\u00fcnfzehn Prozent reduziert. Seefrachtf\u00fchrer m\u00fcssen mit empfindlichen Strafen rechnen, wenn Rechnungen nicht den neuen Vorgaben entsprechen. Verlader erhalten Millionen Dollar an zuvor nicht erstattungsf\u00e4higen Liegegeldern zur\u00fcck.",
-                        "Speditionen m\u00fcssen automatisierte Rechnungspr\u00fcfungssysteme integrieren, um fehlerhafte Containergeb\u00fchren sofort zu erkennen. Compliance-Teams sollten die Containerr\u00fcckgabeprotokolle aktiv mit den digitalen Zeitstempeln der Frachtf\u00fchrer abgleichen. Proaktive rechtliche Schritte werden empfohlen, um die Frachtmargen der Unternehmen zu sichern."
+                        "Wichtige globale Marktpl\u00e4tze setzen strenge neue Geb\u00fchren f\u00fcr die Platzierung eingehender Sendungen durch, um dezentralisierte Logistiknetzwerke zu optimieren. Verk\u00e4ufern drohen hohe finanzielle Strafen, wenn Frachtsendungen von den zugewiesenen lokalen Fulfillment-Center-Mustern abweichen. Diese strukturelle \u00c4nderung zielt darauf ab, die Kosten f\u00fcr den Fernverkehr auf der Stra\u00dfe und die regionalen Transit-Overheads zu senken.",
+                        "Im Rahmen des aktualisierten Frameworks m\u00fcssen Multi-Channel-H\u00e4ndler ihre regionalen Frachtrouten- und Bestandspositionierungsmechanismen neu bewerten. Automatisierte Versandsoftware muss direkt auf die aktualisierten algorithmischen Anforderungen der Plattformen abgestimmt werden, um kritische Docking-Strafen zu vermeiden. Die Transitraten f\u00fcr den Wareneingang werden bei nicht konformen Versandpl\u00e4nen voraussichtlich um f\u00fcnfzehn Prozent steigen.",
+                        "Logistikintegratoren entwickeln schnell spezialisierte Cross-Docking-Dienste, um die Anforderungen an die Verteilung von Best\u00e4nden an mehreren Standorten zu unterst\u00fctzen. Die Konsolidierung kleinerer Frachtchargen vor der endg\u00fcltigen Zustellung im Inland hat sich als f\u00fchrende operative Minderungsstrategie herausgebildet. Strategische Anpassungen an dieser Stelle sind entscheidend, um die Rentabilit\u00e4t der Margen in stark frequentierten Handelskan\u00e4len zu sichern."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "AMAZON: STRUKTUR DER INBOUND-GEB\u00dcHREN",
+                    "nextUpTease": "FMC: ALLIANZEN-AUDITS ERWEITERT",
                     "tags": [
-                        "Source: https://www.fmc.gov",
+                        "Source: https://www.joc.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 3,
-                    "heading": "AMAZON: STRUKTUR DER INBOUND-GEB\u00dcHREN",
+                    "heading": "FMC: ALLIANZEN-AUDITS ERWEITERT",
                     "points": [
-                        "Amazon restrukturiert seine regionalen Inbound-Platzierungsgeb\u00fchren, um Teilsendungen in der Logistik zu verhindern. Diese Richtlinie zwingt Drittanbieter, ihre Best\u00e4nde in zentralen Erf\u00fcllungszentren zu konsolidieren. Der E-Commerce-Riese m\u00f6chte damit sein inl\u00e4ndisches Transportnetzwerk optimieren.",
-                        "Mittelgro\u00dfe E-Commerce-Verk\u00e4ufer berichten von einem Anstieg der Inbound-Logistikkosten um zweiundzwanzig Prozent pro Einheit. Margenschwache Produktkategorien erleiden unter dem neu gestalteten Erf\u00fcllungsrahmen erhebliche Gewinneinbu\u00dfen. Frachtkonsolidierungsdienste verzeichnen einen beispiellosen Nachfrageanstieg durch grenz\u00fcberschreitende H\u00e4ndler.",
-                        "Lieferkettenmanager m\u00fcssen auf spezialisierte Konsolidierungszentren in der N\u00e4he inl\u00e4ndischer Zielh\u00e4fen ausweichen. Die Vorsortierung des Inventars vor der Amazon-Anlieferung eliminiert lokale Teilsendungsgeb\u00fchren vollst\u00e4ndig. Eine Anpassung der Verpackungsabmessungen wird \u00fcberm\u00e4\u00dfige Volumengewichtsaufschl\u00e4ge im Ausgangsversand reduzieren."
+                        "Die Federal Maritime Commission hat weitreichende regulatorische Untersuchungen gegen Seefrachtallianzen bez\u00fcglich der Rechnungsstellungstransparenz eingeleitet. Die verst\u00e4rkten Audits richten sich gegen umstrittene Demurrage- und Detention-Geb\u00fchren, die in Zeiten anhaltender Hafenst\u00f6rungen und Blank Sailings erhoben werden. Reeder m\u00fcssen nun ihre Preismodelle gegen\u00fcber strengen regulatorischen Compliance-Richtlinien verteidigen.",
+                        "Die Durchsetzungsinitiative zielt darauf ab, Strafgeb\u00fchrenstrukturen zu beseitigen, die die Liquidit\u00e4t der inl\u00e4ndischen Lieferkette st\u00f6ren. Spediteure und intermodale Betreiber erhalten r\u00fcckwirkenden Rechnungsschutz unter neu festgelegten Richtlinien der Seeschifffahrtskommission. Verlader k\u00f6nnen nun vereinfachte Streitbeanspruchungen einreichen, um unberechtigte Terminallagergeb\u00fchren zur\u00fcckzufordern.",
+                        "Seetransportallianzen passen ihre Planungsalgorithmen an, um das Risiko regulatorischer Durchsetzungsma\u00dfnahmen zu mindern. Die Branche erwartet eine Verschiebung hin zu stabileren w\u00f6chentlichen Servicekapazit\u00e4ten, um k\u00fcnstliche Staus an Containerterminals zu verhindern. Operative Compliance-Teams priorisieren Mechanismen zur Streitbeilegung, um erhebliche gesetzliche Strafen zu vermeiden."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "GLOBAL: ANSTIEG DER BLANK SAILINGS",
+                    "nextUpTease": "HAFEN ROTTERDAM: EU-EMISSIONSGRENZE",
                     "tags": [
-                        "Source: https://www.supplychaindive.com",
-                        "Published: Last 48 Hours",
+                        "Source: https://www.fmc.gov",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 4,
-                    "heading": "GLOBAL: ANSTIEG DER BLANK SAILINGS",
+                    "heading": "HAFEN ROTTERDAM: EU-EMISSIONSGRENZE",
                     "points": [
-                        "Die Seecontainer-Reedereien k\u00fcndigen einen Anstieg der Blank Sailings auf den Routen Asien-Europa um 25 Prozent an. Diese Kapazit\u00e4tsmanagement-Strategie reagiert auf die dauerhafte Umleitung von Schiffen um das Kap der Guten Hoffnung. Die Betreiber versuchen, die schwankenden Spotfrachtraten zu stabilisieren.",
-                        "Die Seefrachtlaufzeiten zwischen Ostasien und Nordeuropa haben sich um zw\u00f6lf Tage verl\u00e4ngert. Die Flottenbetriebskosten sind aufgrund des erh\u00f6hten Treibstoffverbrauchs auf den l\u00e4ngeren Seewegen drastisch gestiegen. Verlader sind an den Hauptexporth\u00e4fen mit akutem Containermangel konfrontiert.",
-                        "Globale Logistikkoordinatoren m\u00fcssen Seefrachtkapazit\u00e4ten mindestens sechs Wochen vor der geplanten Abfahrt sichern. Die Implementierung von dualen Routing-Strategien \u00fcber kombinierte See-Luft-Transporte hilft, maritime Engp\u00e4sse zu umgehen. Vertragsverhandlungen sollten sich auf die Sicherung von Ausr\u00fcstungsgarantien statt auf Niedrigpreisversprechen konzentrieren."
+                        "Der Hafen von Rotterdam setzt im Rahmen von Phase 2 des EU-ETS strenge neue CO2-Emissionsgrenzen f\u00fcr einlaufende Containerschiffe durch. Reedereien, die innerhalb der maritimen Zone operieren, m\u00fcssen f\u00fcr jeden Hafenanlauf Echtzeit-Emissionsdaten erfassen und melden. Nicht konforme Schiffe m\u00fcssen mit empfindlichen Bu\u00dfgeldern und dem Ausschluss aus europ\u00e4ischen Handelsh\u00e4fen rechnen.",
+                        "Die neuen Umweltvorschriften veranlassen Reedereien dazu, langsamere Fahrprofile zu w\u00e4hlen, um Energie zu sparen. Diese operative Umstellung f\u00fchrt zwar zu einer Verringerung der Treibhausgase, verl\u00e4ngert jedoch die Standardtransitzeiten im Nordatlantik um etwa achtundvierzig Stunden. Frachtf\u00fchrer sind gezwungen, ihre Bestandsberechnungen anzupassen, um l\u00e4ngere Transportzeiten in der Seefracht zu ber\u00fccksichtigen.",
+                        "Maritime Logistikunternehmen investieren massiv in alternative Antriebe und Landstrom-Infrastruktur an Tiefwasser-Liegepl\u00e4tzen. Der Hafenbetrieb muss angepasst werden, um schnelle Landstromanschl\u00fcsse zu unterst\u00fctzen und die Null-Emissions-Ziele bis zum Ende des Jahrzehnts zu erreichen. Verlader sollten mit Anpassungen der CO2-Zuschl\u00e4ge bei allen europ\u00e4ischen Import- und Exportvertr\u00e4gen rechnen."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "IATA: EINHALTUNG DER BATTERIEFRANCHT",
+                    "nextUpTease": "LUFTFRACHT: CHARTERKAPAZIT\u00c4TS-ENGPASS",
                     "tags": [
                         "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
@@ -202,48 +202,48 @@ const dailyData = {
                 },
                 {
                     "id": 5,
-                    "heading": "IATA: EINHALTUNG DER BATTERIEFRANCHT",
+                    "heading": "LUFTFRACHT: CHARTERKAPAZIT\u00c4TS-ENGPASS",
                     "points": [
-                        "Die International Air Transport Association setzt \u00fcberarbeitete Gefahrgutvorschriften f\u00fcr Lithium-Ionen-Batteriesendungen durch. Luftfahrtunternehmen m\u00fcssen strenge Sicherheitsvorkehrungen in den Frachtr\u00e4umen von Schmalrumpfflugzeugen implementieren. Dieses regulatorische Update schr\u00e4nkt den ungesicherten Batterietransport weltweit ein.",
-                        "Die transpazifische Luftfrachtkapazit\u00e4t f\u00fcr Unterhaltungselektronik ist in diesem Quartal um achtzehn Prozent zur\u00fcckgegangen. Die Frachtraten f\u00fcr zertifizierte Batterietransporte sind gestiegen, da spezialisierte Transportkapazit\u00e4ten fehlen. Abfertigungsverz\u00f6gerungen nehmen aufgrund obligatorischer Verpackungspr\u00fcfungen zu.",
-                        "Elektronikhersteller m\u00fcssen ihre globalen Versandkonfigurationen neu gestalten, um die neuesten Richtlinien zu erf\u00fcllen. Die Verwendung zertifizierter, feuerbest\u00e4ndiger Container ist zwingend erforderlich, um Zugang zu Premium-Passagiernetzwerken zu behalten. Eine enge Abstimmung mit Gefahrgutspezialisten sichert eine reibungslose internationale Distribution."
+                        "Die Luftfracht-Spotraten auf kritischen asiatisch-pazifischen Korridoren sind aufgrund massiver Block-Space-Agreements von E-Commerce-Riesen stark angestiegen. Traditionelle Verlader aus der Industrie haben Schwierigkeiten, saisonale Frachterkapazit\u00e4ten f\u00fcr zeitkritische, hochwertige elektronische Bauteile zu sichern. Dieser strukturelle Kapazit\u00e4tsengpass hat dazu gef\u00fchrt, dass die Standard-Luftfrachtraten um f\u00fcnfundzwanzig Prozent gestiegen sind.",
+                        "Logistikintegratoren verlagern Dry-Lease-Frachterflotten auf sekund\u00e4re asiatische Hubs, um Staus an den Hauptdrehkreuzen zu umgehen. Spediteure raten ihren Kunden, See-Luft-Hybridl\u00f6sungen \u00fcber nah\u00f6stliche Drehkreuze zu nutzen, um die Transitzeiten auszugleichen. Es wird erwartet, dass der anhaltende Kapazit\u00e4tsengpass w\u00e4hrend der gesamten kommenden Versandsaison bestehen bleibt.",
+                        "Luftfahrtnetzwerke erweitern ihre dedizierten Frachterrouten, um die steigende Nachfrage nach direkten grenz\u00fcberschreitenden Zustelldiensten zu bedienen. Luftfrachtbetreiber m\u00fcssen die Abfertigung am Boden optimieren, um die t\u00e4gliche Blockstundennutzung der Fl\u00fcge in allen Netzwerken zu maximieren. Importeure m\u00fcssen langfristige Frachtallokationsvertr\u00e4ge abschlie\u00dfen, um stabile Preisstrukturen zu gew\u00e4hrleisten."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "PANAMAKANAL: TIEFGANGSBESCHR\u00c4NKUNGEN",
+                    "nextUpTease": "LKSG: DEUTSCHES LIEFERKETTEN-AUDITIERUNGSMANDAT",
                     "tags": [
                         "Source: https://aircargonext.com",
-                        "Published: Last 48 Hours",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 6,
-                    "heading": "PANAMAKANAL: TIEFGANGSBESCHR\u00c4NKUNGEN",
+                    "heading": "LKSG: DEUTSCHES LIEFERKETTEN-AUDITIERUNGSMANDAT",
                     "points": [
-                        "Die Panamakanal-Beh\u00f6rde erh\u00f6ht die t\u00e4glichen Schiffspassagen unter Beibehaltung strenger Tiefgangsbeschr\u00e4nkungen. Seefrachtf\u00fchrer m\u00fcssen das Ladungsvolumen auf Neopanamax-Schiffen reduzieren, um eine sichere Durchfahrt zu gew\u00e4hrleisten. Dieser operative Kompromiss zwingt zu Anpassungen in den globalen Seerouten.",
-                        "Gro\u00dfe Reedereien reduzieren die Auslastung der Schiffskapazit\u00e4ten pro Durchfahrt um f\u00fcnfzehn Prozent, um die Tiefgangsregeln einzuhalten. Die Geb\u00fchren f\u00fcr Slot-Reservierungen sind sprunghaft angestiegen, was zus\u00e4tzliche Betriebskosten an der US-Ostk\u00fcste verursacht. Alternative Schienenverbindungen verzeichnen einen entsprechenden Zuwachs an Containerverkehr.",
-                        "Hafenlogistikmanager m\u00fcssen schwere Agrar- und Industrieg\u00fcter auf alternative intermodale Korridore umleiten. Die Nutzung von H\u00e4fen an der US-Westk\u00fcste in Kombination mit inl\u00e4ndischer Schiene bietet eine zuverl\u00e4ssige Alternative. Importeure sollten ihre Transitbudgets neu berechnen, um dynamische \u00dcberlastungszuschl\u00e4ge aufzufangen."
+                        "Das deutsche Lieferkettensorgfaltspflichtengesetz weitet seinen regulatorischen Anwendungsbereich auf mittelst\u00e4ndische Logistikdienstleister aus. Transportunternehmen, die auf dem europ\u00e4ischen Markt t\u00e4tig sind, m\u00fcssen umfassende Risikoanalyse- und Auditierungsprotokolle f\u00fcr Umwelt- und Menschenrechte einf\u00fchren. Compliance-Audits m\u00fcssen nun auch sekund\u00e4re Subunternehmer umfassen, einschlie\u00dflich externer Fernverkehrs- und Container-Transporteure.",
+                        "Logistikunternehmen, die die Einhaltung der Vorschriften nicht dokumentieren, drohen erhebliche Bu\u00dfgelder und der Ausschluss von \u00f6ffentlichen Auftr\u00e4gen. Dieser gesetzliche Wandel erh\u00f6ht den administrativen Aufwand f\u00fcr Speditionen, die komplexe multimodale Lieferketten in Europa verwalten. Digitale Tracing-Technologien werden eingesetzt, um die Validierung der Lieferanten-Compliance im gesamten Netzwerk zu automatisieren.",
+                        "Globale Marken restrukturieren ihre Beschaffungskriterien in der Logistik, um Transportpartner mit auditierten, nachhaltigen Lieferketten zu bevorzugen. Transparente Abl\u00e4ufe und \u00fcberpr\u00fcfbare Arbeitsstandards werden zu kritischen Elementen bei Vertragsverhandlungen \u00fcber alle Transportverkehrstr\u00e4ger hinweg. Unternehmen m\u00fcssen ihre Betriebsstandards an den aktualisierten europ\u00e4ischen Rahmen anpassen, um den Marktzugang zu sichern."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "EU: CBAM-KOHLENSTOFFBERICHTERSTATTUNG",
+                    "nextUpTease": "GRENZVERKEHR: ENGP\u00c4SSE IM LAREDO-LKW-TRANSPORT",
                     "tags": [
-                        "Source: https://www.joc.com",
-                        "Published: Last 48 Hours",
+                        "Source: https://www.freightwaves.com",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 7,
-                    "heading": "EU: CBAM-KOHLENSTOFFBERICHTERSTATTUNG",
+                    "heading": "GRENZVERKEHR: ENGP\u00c4SSE IM LAREDO-LKW-TRANSPORT",
                     "points": [
-                        "Die Europ\u00e4ische Union tritt in die endg\u00fcltige Durchsetzungsphase des Grenzausgleichssystems f\u00fcr Kohlendioxid ein. Importeure von Stahl, Aluminium und D\u00fcngemitteln m\u00fcssen viertelj\u00e4hrlich verifizierte CO2-Emissionsdaten einreichen. Diese CO2-Grenzabgabe soll die Importe an die inl\u00e4ndischen Klimavorgaben anpassen.",
-                        "Industriehersteller m\u00fcssen mit Strafz\u00f6llen von bis zu drei\u00dfig Prozent auf nicht konforme Metalllieferungen rechnen. Die Logistik-Compliance-Kosten sind gestiegen, da Emissionspr\u00fcfungen durch Dritte zum Standard geh\u00f6ren. Globale Lieferanten priorisieren kohlenstoffarme Produktionslinien, um zollfreien Zugang nach Europa zu behalten.",
-                        "Compliance-Beauftragte m\u00fcssen standardisierte Systeme zur CO2-Verfolgung in allen ausl\u00e4ndischen Produktionsst\u00e4tten einf\u00fchren. Die Aktualisierung von Lieferantenvereinbarungen zur Verpflichtung pr\u00e4ziser Emissionsberichte ist dringend erforderlich. Die Diversifizierung der Rohstoffbeschaffung hin zu zertifizierten gr\u00fcnen Zonen vermeidet Strafsteuern."
+                        "Der gewerbliche Lkw-Verkehr an der Grenze zwischen den USA und Mexiko verzeichnet am Hafen von Laredo aufgrund verst\u00e4rkter Sicherheitskontrollen massive Engp\u00e4sse. Einseitige Frachtpr\u00fcfungen durch die Grenzschutzbeh\u00f6rden f\u00fchren zu Transportverz\u00f6gerungen von mehr als zw\u00f6lf Stunden. Diese Unterbrechungen treffen die Just-in-Time-Lieferketten der Automobil- und Luftfahrtindustrie auf beiden Seiten hart.",
+                        "Intermodal-Betreiber versuchen unter Hochdruck, Frachtkontingente auf grenz\u00fcberschreitende Schienenverbindungen zu verlagern, um die \u00fcberlasteten Autobahnkorridore zu umgehen. Die Nachfrage nach Trailer-on-Flatcar-Diensten ist sprunghaft angestiegen, was die regionalen Container-Leasingraten in den nordostmexikanischen Industriezentren in die H\u00f6he treibt. Logistikmanager m\u00fcssen Lieferpl\u00e4ne neu berechnen, um den unvorhersehbaren Grenztransitzeiten Rechnung zu tragen.",
+                        "Die Verkehrs\u00fcberlastung verdeutlicht die dringende Notwendigkeit diversifizierter Nearshoring-Logistikrouten und robuster Ausweichinfrastrukturen. Die Errichtung von Industrielagern nahe der Grenze beschleunigt sich, um Notfallpufferbest\u00e4nde f\u00fcr kritische Produktionsteile aufzunehmen. Verlader m\u00fcssen flexible grenz\u00fcberschreitende Partnerschaften aufbauen, um die Widerstandsf\u00e4higkeit der Lieferkette unter erh\u00f6htem Kontrolldruck zu wahren."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.reuters.com",
+                        "Source: https://www.ttnews.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
@@ -253,69 +253,69 @@ const dailyData = {
         "fr": {
             "main": {
                 "kicker": "",
-                "titleWhite": "CHA\u00ceNE D'APPROVISIONNEMENT",
-                "titleBlue": "RECONSTRUCTION",
-                "footerSummary": "Analyse forensique des changements r\u00e9glementaires, annulations de d\u00e9parts et mandats de conformit\u00e9 signalant des hausses de co\u00fbts imm\u00e9diates en 2026."
+                "titleWhite": "STRAT\u00c9GIE LOGISTIQUE",
+                "titleBlue": "GLOBALE",
+                "footerSummary": "R\u00e9pression r\u00e9glementaire accrue, plafonnement des \u00e9missions portuaires et saturation du fret a\u00e9rien red\u00e9finissent les flux de fret internationaux."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "CBP: MISE \u00c0 NIVEAU DE LA SECTION 321",
+                    "heading": "CBP: R\u00c9PRESSION STRUCTURELLE DE MINIMIS",
                     "points": [
-                        "Les douanes am\u00e9ricaines imposent des d\u00e9clarations \u00e9lectroniques pour les colis de la section 321 De Minimis. Ce mandat imm\u00e9diat vise \u00e0 limiter le commerce illicite et \u00e0 appliquer une conformit\u00e9 stricte aux importations. Les importateurs doivent s'adapter aux protocoles de d\u00e9douanement num\u00e9ris\u00e9s.",
-                        "Des retards de d\u00e9douanement importants ont augment\u00e9 de 40 pour cent dans les hubs de Los Angeles et de Chicago O'Hare. La capacit\u00e9 de traitement quotidienne a diminu\u00e9, provoquant un arri\u00e9r\u00e9 massif de fret a\u00e9rien e-commerce. Des sanctions financi\u00e8res pour donn\u00e9es manquantes commencent \u00e0 \u00eatre appliqu\u00e9es.",
-                        "Les chargeurs doivent restructurer leurs cha\u00eenes logistiques transpacifiques pour \u00e9viter les blocages syst\u00e9matiques. L'utilisation de portails de courtage douanier automatis\u00e9s est essentielle pour maintenir la conformit\u00e9 en temps r\u00e9el. Il reste fortement recommand\u00e9 de diversifier les points d'entr\u00e9e."
+                        "Le service des douanes et de la protection des fronti\u00e8res des \u00c9tats-Unis met en place des cadres de d\u00e9claration automatis\u00e9s stricts exigeant une visibilit\u00e9 absolue du code SH pour toutes les exp\u00e9ditions e-commerce de minimis de la section 321. En vertu de ce nouveau mandat op\u00e9rationnel, les importateurs doivent fournir des classifications de produits v\u00e9rifi\u00e9es avant le chargement des marchandises \u00e0 bord des a\u00e9ronefs internationaux. Tout manquement entra\u00eenera une saisie imm\u00e9diate et des p\u00e9nalit\u00e9s accrues pour le transporteur.",
+                        "Ces frictions logistiques perturberont gravement les r\u00e9seaux d'exp\u00e9dition \u00e0 faible valeur qui d\u00e9pendent de m\u00e9canismes de d\u00e9douanement rapides. Les canaux de traitement automatis\u00e9 quotidiens connaissent des retards de d\u00e9douanement sans pr\u00e9c\u00e9dent allant jusqu'\u00e0 soixante-douze heures dans les hubs cl\u00e9s comme LAX et ORD. Les audits op\u00e9rationnels des cargaisons ont augment\u00e9 de trois cents pour cent pour lutter contre les strat\u00e9gies d'\u00e9vasion douani\u00e8re.",
+                        "Les op\u00e9rateurs de commerce \u00e9lectronique mondiaux doivent restructurer leurs cha\u00eenes logistiques pour garantir l'int\u00e9gration de la conformit\u00e9 r\u00e9glementaire en temps r\u00e9el. Les mod\u00e8les de vente directe aux consommateurs s'orientent vers des r\u00e9seaux de distribution d'entrep\u00f4ts sous douane afin d'\u00e9viter les points de friction directe. L'int\u00e9gration de manifestes num\u00e9riques s\u00e9curis\u00e9s est devenue une n\u00e9cessit\u00e9 absolue pour pr\u00e9venir les retards structurels du r\u00e9seau."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "FMC: CONTR\u00d4LE DES FACTURES DE DETENTION",
+                    "nextUpTease": "PLACES DE MARCH\u00c9: NOUVELLES P\u00c9NALIT\u00c9S INBOUND",
                     "tags": [
                         "Source: https://www.cbp.gov",
-                        "Published: Last 48 Hours",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "FMC: CONTR\u00d4LE DES FACTURES DE DETENTION",
+                    "heading": "PLACES DE MARCH\u00c9: NOUVELLES P\u00c9NALIT\u00c9S INBOUND",
                     "points": [
-                        "La Federal Maritime Commission applique sa r\u00e8gle finale sur les litiges de facturation des surestaries et contentions. Les transporteurs maritimes doivent fournir des documents pr\u00e9cis et v\u00e9rifiables dans les trente jours suivant la facturation. Cette intervention vise \u00e0 \u00e9liminer les pratiques abusives dans les grands ports.",
-                        "Les litiges relatifs aux frais de d\u00e9tention erron\u00e9s ont r\u00e9duit les erreurs de facturation de quinze pour cent mondialement. Les transporteurs maritimes s'exposent \u00e0 de lourdes sanctions si les factures ne respectent pas les mandats f\u00e9d\u00e9raux. Les chargeurs r\u00e9cup\u00e8rent des millions de dollars de surestaries injustifi\u00e9es.",
-                        "Les commissionnaires de transport doivent int\u00e9grer des syst\u00e8mes d'audit automatis\u00e9s pour signaler instantan\u00e9ment les frais non conformes. Les \u00e9quipes de conformit\u00e9 doivent croiser les registres de retour avec les horodatages num\u00e9riques des transporteurs. Des actions juridiques proactives sont conseill\u00e9es pour prot\u00e9ger les marges."
+                        "Les principales places de march\u00e9 mondiales appliquent de nouveaux frais stricts de placement des exp\u00e9ditions inbound afin d'optimiser les r\u00e9seaux de distribution logistique d\u00e9centralis\u00e9s. Les vendeurs s'exposent \u00e0 de lourdes p\u00e9nalit\u00e9s financi\u00e8res si leurs exp\u00e9ditions s'\u00e9cartent des sch\u00e9mas de centres de distribution locaux assign\u00e9s. Ce changement structurel vise \u00e0 r\u00e9duire les co\u00fbts de transport routier longue distance et les frais g\u00e9n\u00e9raux de transit r\u00e9gional.",
+                        "Dans le cadre de ce nouveau mod\u00e8le, les marchands multicanaux doivent r\u00e9\u00e9valuer leurs m\u00e9canismes d'acheminement r\u00e9gional du fret et de positionnement des stocks. Les logiciels d'exp\u00e9dition automatis\u00e9s doivent s'aligner directement sur les exigences algorithmiques des plateformes afin d'\u00e9viter des p\u00e9nalit\u00e9s de r\u00e9ception critiques. Les tarifs de transport entrant devraient augmenter de quinze pour cent pour les plans d'exp\u00e9dition non conformes.",
+                        "Les int\u00e9grateurs logistiques d\u00e9veloppent rapidement des services sp\u00e9cialis\u00e9s de cross-docking pour soutenir les exigences de distribution des stocks multi-points. La consolidation de lots de marchandises plus petits avant la livraison finale \u00e0 l'int\u00e9rieur des terres s'impose comme la principale strat\u00e9gie d'att\u00e9nuation. Des ajustements strat\u00e9giques \u00e0 ce niveau sont essentiels pour pr\u00e9server la viabilit\u00e9 des marges sur les canaux commerciaux \u00e0 fort volume."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "AMAZON: RESTRUCTURATION DES FRAIS D'ENTR\u00c9E",
+                    "nextUpTease": "FMC: AUDITS DES ALLIANCES MARITIMES",
                     "tags": [
-                        "Source: https://www.fmc.gov",
+                        "Source: https://www.joc.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 3,
-                    "heading": "AMAZON: RESTRUCTURATION DES FRAIS D'ENTR\u00c9E",
+                    "heading": "FMC: AUDITS DES ALLIANCES MARITIMES",
                     "points": [
-                        "Amazon restructure ses frais de placement r\u00e9gionaux pour d\u00e9courager les envois fractionn\u00e9s. Cette politique oblige les vendeurs tiers \u00e0 regrouper leurs stocks dans des centres de distribution centralis\u00e9s. Le g\u00e9ant du commerce \u00e9lectronique vise \u00e0 optimiser son r\u00e9seau de transport terrestre national.",
-                        "Les vendeurs de taille moyenne signalent une augmentation de vingt-deux pour cent de leurs co\u00fbts logistiques d'entr\u00e9e par unit\u00e9. Les cat\u00e9gories de produits \u00e0 faible marge subissent de graves baisses de rentabilit\u00e9 sous ce nouveau cadre. Les services de consolidation de fret connaissent une hausse sans pr\u00e9c\u00e9dent de la demande.",
-                        "Les gestionnaires de cha\u00eene logistique doivent se tourner vers des centres de consolidation tiers proches des ports de destination. Le pr\u00e9-tri des stocks avant la livraison Amazon \u00e9limine compl\u00e8tement les frais de p\u00e9nalit\u00e9 pour envois fractionn\u00e9s. Ajuster les dimensions d'emballage r\u00e9duira les surcharges volum\u00e9triques."
+                        "La Federal Maritime Commission a lanc\u00e9 de vastes enqu\u00eates r\u00e9glementaires sur les alliances de transporteurs maritimes concernant la transparence de la facturation. Ces audits renforc\u00e9s visent les frais controvers\u00e9s de surestaries et de d\u00e9tention per\u00e7us lors des p\u00e9riodes de perturbations portuaires et d'annulations de d\u00e9parts. Les transporteurs maritimes doivent d\u00e9sormais d\u00e9fendre leurs mod\u00e8les de tarification face \u00e0 des normes de conformit\u00e9 strictes.",
+                        "Cette initiative vise \u00e0 \u00e9liminer les structures de frais punitifs qui perturbent la liquidit\u00e9 de la cha\u00eene d'approvisionnement nationale. Les commissionnaires de transport et les op\u00e9rateurs intermodaux b\u00e9n\u00e9ficient d'une protection r\u00e9troactive de facturation selon les nouvelles directives de la commission maritime. Les chargeurs peuvent d\u00e9sormais d\u00e9poser des r\u00e9clamations simplifi\u00e9es pour r\u00e9cup\u00e9rer les frais d'entreposage injustifi\u00e9s.",
+                        "Les alliances de transport maritime ajustent leurs algorithmes de planification afin de r\u00e9duire le risque de sanctions r\u00e9glementaires. Le secteur s'attend \u00e0 une transition vers des capacit\u00e9s de service hebdomadaires plus stables pour \u00e9viter la congestion artificielle des terminaux. Les \u00e9quipes de conformit\u00e9 op\u00e9rationnelle accordent la priorit\u00e9 aux cadres d'att\u00e9nuation des litiges pour \u00e9viter des p\u00e9nalit\u00e9s financi\u00e8res importantes."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "GLOBAL: ACC\u00c9L\u00c9RATION DES BLANK SAILINGS",
+                    "nextUpTease": "PORT DE ROTTERDAM: PLAFOND D'\u00c9MISSIONS UE",
                     "tags": [
-                        "Source: https://www.supplychaindive.com",
-                        "Published: Last 48 Hours",
+                        "Source: https://www.fmc.gov",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 4,
-                    "heading": "GLOBAL: ACC\u00c9L\u00c9RATION DES BLANK SAILINGS",
+                    "heading": "PORT DE ROTTERDAM: PLAFOND D'\u00c9MISSIONS UE",
                     "points": [
-                        "Les transporteurs maritimes annoncent une hausse de 25 pour cent des Blank Sailings sur les routes Asie-Europe. Cette strat\u00e9gie de gestion des capacit\u00e9s r\u00e9pond au d\u00e9tournement prolong\u00e9 des navires par le cap de Bonne-Esp\u00e9rance. Les op\u00e9rateurs maritimes s'efforcent de stabiliser les taux de fret spot fluctuants.",
-                        "Les temps de transit maritime entre l'Asie de l'Est et l'Europe du Nord ont augment\u00e9 de douze jours. Les co\u00fbts d'exploitation de la flotte ont grimp\u00e9 en raison d'une consommation de carburant accrue sur des itin\u00e9raires plus longs. Les chargeurs font face \u00e0 de graves p\u00e9nuries de conteneurs dans les principaux ports d'exportation.",
-                        "Les coordinateurs logistiques doivent r\u00e9server leurs espaces maritimes au moins six semaines avant le d\u00e9part. L'adoption de strat\u00e9gies de routage mixtes mer-air permet de contourner les goulots d'\u00e9tranglement maritimes. Les n\u00e9gociations doivent porter sur la garantie de disponibilit\u00e9 des \u00e9quipements plut\u00f4t que sur des prix bas."
+                        "Le port de Rotterdam impose de nouveaux plafonds d'\u00e9mission de carbone stricts aux porte-conteneurs entrants dans le cadre de la phase 2 de l'EU ETS. Les compagnies maritimes op\u00e9rant dans la zone maritime doivent suivre et signaler en temps r\u00e9el les donn\u00e9es d'\u00e9missions pour chaque escale. Les navires non conformes s'exposent \u00e0 de lourdes amendes administratives et \u00e0 une exclusion potentielle des ports commerciaux europ\u00e9ens.",
+                        "Ces nouvelles r\u00e9glementations environnementales incitent les transporteurs maritimes \u00e0 adopter des profils de navigation \u00e0 vitesse r\u00e9duite pour \u00e9conomiser l'\u00e9nergie. Ce changement op\u00e9rationnel, tout en r\u00e9duisant les gaz \u00e0 effet de serre, prolonge d'environ quarante-huit heures les temps de transit standard de l'Atlantique Nord. Les op\u00e9rateurs de fret sont contraints d'ajuster leurs calculs de stocks pour int\u00e9grer des d\u00e9lais de livraison plus longs.",
+                        "Les entreprises de logistique maritime investissent massivement dans des modes de propulsion alternatifs et dans des infrastructures de connexion \u00e9lectrique \u00e0 quai. Les op\u00e9rations portuaires doivent s'adapter pour prendre en charge l'alimentation \u00e9lectrique \u00e0 quai afin d'atteindre les objectifs de z\u00e9ro \u00e9mission d'ici la fin de la d\u00e9cennie. Les chargeurs doivent s'attendre \u00e0 des ajustements de surcharges carbone sur tous les contrats d'importation et d'exportation europ\u00e9ens."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "IATA: CONFORMIT\u00c9 DU FRET DE BATTERIES",
+                    "nextUpTease": "FRET A\u00c9RIEN: CAPACIT\u00c9 DE CHARTER SATUR\u00c9E",
                     "tags": [
                         "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
@@ -324,48 +324,48 @@ const dailyData = {
                 },
                 {
                     "id": 5,
-                    "heading": "IATA: CONFORMIT\u00c9 DU FRET DE BATTERIES",
+                    "heading": "FRET A\u00c9RIEN: CAPACIT\u00c9 DE CHARTER SATUR\u00c9E",
                     "points": [
-                        "L'Association internationale du transport a\u00e9rien applique des r\u00e8gles r\u00e9vis\u00e9es sur le transport de batteries lithium-ion. Les transporteurs a\u00e9riens doivent mettre en \u0153uvre des protocoles stricts de confinement thermique dans les cales des avions monocouloirs. Cette mise \u00e0 jour restreint le fret de batteries non s\u00e9curis\u00e9es \u00e0 l'\u00e9chelle mondiale.",
-                        "La capacit\u00e9 de fret a\u00e9rien transpacifique pour l'\u00e9lectronique grand public a diminu\u00e9 de dix-huit pour cent ce trimestre. Les tarifs pour le transport certifi\u00e9 de batteries ont augment\u00e9 en raison du manque d'appareils sp\u00e9cialis\u00e9s. Les d\u00e9lais de d\u00e9douanement s'allongent en raison des v\u00e9rifications obligatoires des emballages.",
-                        "Les fabricants d'\u00e9lectronique doivent repenser leurs configurations d'exp\u00e9dition pour se conformer aux nouvelles directives. L'utilisation de conteneurs r\u00e9sistants au feu certifi\u00e9s est obligatoire pour acc\u00e9der aux r\u00e9seaux de vols passagers. Collaborer \u00e9troitement avec des experts en mati\u00e8res dangereuses garantit une distribution continue."
+                        "Les tarifs spot du fret a\u00e9rien sur les corridors Asie-Pacifique ont grimp\u00e9 en raison des accords de r\u00e9servation d'espace massifs conclus par les g\u00e9ants du e-commerce. Les chargeurs industriels traditionnels peinent \u00e0 obtenir des capacit\u00e9s de transport saisonni\u00e8res pour les composants \u00e9lectroniques de grande valeur et sensibles au facteur temps. Cette r\u00e9duction structurelle de l'espace a entra\u00een\u00e9 une hausse de vingt-cinq pour cent des tarifs de fret a\u00e9rien standard.",
+                        "Les int\u00e9grateurs logistiques red\u00e9ploient des flottes de cargos lou\u00e9s vers des hubs asiatiques secondaires pour contourner la congestion des grands a\u00e9roports. Les transitaires conseillent \u00e0 leurs clients d'utiliser des solutions hybrides mer-air via des hubs du Moyen-Orient afin d'\u00e9quilibrer les temps de transit. Cette p\u00e9nurie d'espace devrait persister tout au long de la prochaine saison d'exp\u00e9dition.",
+                        "Les r\u00e9seaux a\u00e9riens d\u00e9veloppent leurs liaisons de fret d\u00e9di\u00e9es pour r\u00e9pondre \u00e0 la demande croissante de services de livraison directe transfrontali\u00e8re. Les op\u00e9rateurs de fret a\u00e9rien doivent optimiser la manutention au sol pour maximiser l'utilisation des heures de vol quotidiennes sur tous les r\u00e9seaux. Les importateurs doivent s'engager sur des contrats d'allocation de fret \u00e0 long terme pour garantir la stabilit\u00e9 de leurs tarifs."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "CANAL DE PANAMA: RESTRICTIONS DE TIRANT D'EAU",
+                    "nextUpTease": "LKSG: MANDAT D'AUDIT LOGISTIQUE ALLEMAND",
                     "tags": [
                         "Source: https://aircargonext.com",
-                        "Published: Last 48 Hours",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 6,
-                    "heading": "CANAL DE PANAMA: RESTRICTIONS DE TIRANT D'EAU",
+                    "heading": "LKSG: MANDAT D'AUDIT LOGISTIQUE ALLEMAND",
                     "points": [
-                        "L'Autorit\u00e9 du canal de Panama augmente les transits quotidiens tout en maintenant des limites strictes de tirant d'eau. Les transporteurs maritimes doivent r\u00e9duire les volumes sur les navires Neopanamax pour garantir un passage s\u00fbr. Ce compromis op\u00e9rationnel impose des ajustements sur les routes maritimes mondiales.",
-                        "Les grands transporteurs r\u00e9duisent l'utilisation de la capacit\u00e9 des navires de quinze pour cent pour respecter les r\u00e8gles. Les frais de r\u00e9servation de cr\u00e9neaux ont grimp\u00e9, ajoutant des co\u00fbts importants pour les livraisons sur la c\u00f4te Est. Les itin\u00e9raires ferroviaires terrestres alternatifs connaissent un afflux important de trafic.",
-                        "Les gestionnaires logistiques portuaires doivent rediriger les marchandises lourdes vers des corridors intermodaux alternatifs. L'utilisation des ports de la c\u00f4te Ouest am\u00e9ricaine combin\u00e9e au rail offre une alternative fiable. Les importateurs doivent r\u00e9\u00e9valuer leurs budgets pour absorber ces surcharges."
+                        "La loi allemande sur le devoir de vigilance dans les cha\u00eenes d'approvisionnement \u00e9tend son champ d'application aux prestataires logistiques de taille moyenne. Les entreprises de transport op\u00e9rant sur le march\u00e9 europ\u00e9en doivent mettre en place des protocoles complets d'audit des risques environnementaux et des droits de l'homme. Les audits de conformit\u00e9 doivent d\u00e9sormais couvrir les sous-traitants secondaires, y compris les transporteurs tiers de traction et de livraison locale.",
+                        "Les entreprises de logistique qui ne documentent pas leur conformit\u00e9 s'exposent \u00e0 des sanctions administratives substantielles et \u00e0 l'exclusion des march\u00e9s publics. Cette \u00e9volution l\u00e9gislative accro\u00eet la charge administrative des commissionnaires g\u00e9rant des cha\u00eenes d'approvisionnement multimodales complexes en Europe. Des technologies de tra\u00e7abilit\u00e9 num\u00e9rique sont d\u00e9ploy\u00e9es pour automatiser la validation de la conformit\u00e9 des fournisseurs \u00e0 l'\u00e9chelle du r\u00e9seau.",
+                        "Les marques mondiales restructurent leurs crit\u00e8res d'achat logistique afin de privil\u00e9gier les partenaires de transport disposant de cha\u00eenes d'approvisionnement durables et audit\u00e9es. Des op\u00e9rations transparentes et des normes de travail v\u00e9rifiables deviennent des \u00e9l\u00e9ments cl\u00e9s des n\u00e9gociations contractuelles pour tous les modes de transport. Les entreprises doivent aligner leurs normes op\u00e9rationnelles sur le cadre europ\u00e9en mis \u00e0 jour pour pr\u00e9server leur acc\u00e8s au march\u00e9."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "UE: D\u00c9CLARATION CARBONE MACF",
+                    "nextUpTease": "TRANSFRONTALIER: GULOTS D'\u00c9TRANGLEMENT \u00c0 LAREDO",
                     "tags": [
-                        "Source: https://www.joc.com",
-                        "Published: Last 48 Hours",
+                        "Source: https://www.freightwaves.com",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 7,
-                    "heading": "UE: D\u00c9CLARATION CARBONE MACF",
+                    "heading": "TRANSFRONTALIER: GULOTS D'\u00c9TRANGLEMENT \u00c0 LAREDO",
                     "points": [
-                        "L'Union europ\u00e9enne entre dans la phase d'application d\u00e9finitive du M\u00e9canisme d'ajustement carbone aux fronti\u00e8res. Les importateurs d'acier, d'aluminium et d'engrais doivent soumettre trimestriellement des rapports d'\u00e9missions v\u00e9rifi\u00e9s. Cette taxe carbone vise \u00e0 aligner l'empreinte des importations sur les mandats climatiques europ\u00e9ens.",
-                        "Les fabricants industriels risquent des p\u00e9nalit\u00e9s douani\u00e8res allant jusqu'\u00e0 trente pour cent sur les m\u00e9taux non conformes. Les co\u00fbts de conformit\u00e9 augmentent car les audits de v\u00e9rification carbone deviennent obligatoires. Les fournisseurs mondiaux privil\u00e9gient les cha\u00eenes de production d\u00e9carbon\u00e9es pour conserver l'acc\u00e8s \u00e0 l'UE.",
-                        "Les responsables de conformit\u00e9 doivent d\u00e9ployer des syst\u00e8mes standardis\u00e9s de suivi du carbone dans leurs usines partenaires. La mise \u00e0 jour des contrats fournisseurs pour exiger des rapports pr\u00e9cis d'\u00e9missions est une n\u00e9cessit\u00e9 imm\u00e9diate. Diversifier l'approvisionnement vers des zones certifi\u00e9es vertes \u00e9vite des taxes punitives."
+                        "Le trafic routier commercial transfrontalier entre les \u00c9tats-Unis et le Mexique conna\u00eet des goulets d'\u00e9tranglement massifs au port de Laredo en raison de contr\u00f4les de s\u00e9curit\u00e9 renforc\u00e9s. Les inspections unilat\u00e9rales des cargaisons mises en \u0153uvre par les agences frontali\u00e8res entra\u00eenent des retards de transport de plus de douze heures. Ces perturbations affectent lourdement les cha\u00eenes d'approvisionnement en juste-\u00e0-temps des secteurs de l'automobile et de l'a\u00e9rospatiale des deux c\u00f4t\u00e9s.",
+                        "Les op\u00e9rateurs intermodaux s'efforcent de r\u00e9orienter les volumes de fret vers des liaisons ferroviaires transfrontali\u00e8res pour contourner les axes routiers satur\u00e9s. La demande de services de transport combin\u00e9 rail-route a bondi, faisant grimper les tarifs r\u00e9gionaux de location de conteneurs dans les centres industriels du nord-est du Mexique. Les directeurs logistiques doivent recalculer les calendriers de livraison pour tenir compte de ces temps de transit impr\u00e9visibles.",
+                        "Cette congestion souligne le besoin critique de diversifier les routes logistiques de nearshoring et de disposer d'infrastructures de secours robustes. Le d\u00e9veloppement d'entrep\u00f4ts industriels pr\u00e8s de la fronti\u00e8re s'acc\u00e9l\u00e8re pour accueillir des stocks de s\u00e9curit\u00e9 d'urgence pour les pi\u00e8ces de fabrication critiques. Les chargeurs doivent \u00e9tablir des partenariats transfrontaliers flexibles pour maintenir la r\u00e9silience de leur cha\u00eene face aux pressions de contr\u00f4le accrues."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.reuters.com",
+                        "Source: https://www.ttnews.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
@@ -375,69 +375,69 @@ const dailyData = {
         "es": {
             "main": {
                 "kicker": "",
-                "titleWhite": "CADENA DE SUMINISTRO",
-                "titleBlue": "RECONSTRUCCI\u00d3N",
-                "footerSummary": "An\u00e1lisis forense de cambios regulatorios, cancelaciones de salidas y mandatos de cumplimiento que elevan los costos log\u00edsticos globales en 2026."
+                "titleWhite": "ESTRATEGIA LOG\u00cdSTICA",
+                "titleBlue": "GLOBAL",
+                "footerSummary": "Estrictas regulaciones aduaneras, l\u00edmites de emisi\u00f3n portuaria y la escasez de espacio a\u00e9reo redefinen los flujos comerciales y la gesti\u00f3n del transporte."
             },
             "slides": [
                 {
                     "id": 1,
-                    "heading": "CBP: ACTUALIZACI\u00d3N SECCI\u00d3N 321",
+                    "heading": "CBP: REPRESI\u00d3N ESTRUCTURAL DE MINIMIS",
                     "points": [
-                        "La aduana de EE. UU. implementa declaraciones electr\u00f3nicas obligatorias para env\u00edos De Minimis bajo la Secci\u00f3n 321. Esta medida busca combatir el comercio il\u00edcito y aplicar un cumplimiento estricto a las importaciones. Los importadores deben adoptar con rapidez los protocolos digitalizados de aduanas.",
-                        "Los retrasos en el despacho aduanero aumentaron un 40 por ciento en los centros de Los \u00c1ngeles y Chicago O'Hare. La capacidad diaria de procesamiento se redujo, generando retrasos masivos en la carga a\u00e9rea de comercio electr\u00f3nico. Se han comenzado a aplicar multas por datos de manifiestos faltantes.",
-                        "Los expedidores deben reestructurar sus cadenas log\u00edsticas transp\u00e1cificas para evitar bloqueos sistem\u00e1ticos. El uso de portales de corretaje de aduanas automatizados es vital para validar la conformidad en tiempo real. Se aconseja diversificar los puertos de entrada para evitar la congesti\u00f3n costera."
+                        "La Oficina de Aduanas y Protecci\u00f3n Fronteriza de EE. UU. est\u00e1 implementando marcos de declaraci\u00f3n automatizados que exigen la visibilidad absoluta del c\u00f3digo HS para los env\u00edos de comercio electr\u00f3nico de minimis bajo la Secci\u00f3n 321. Bajo este nuevo mandato operativo, los importadores deben proporcionar clasificaciones arancelarias verificadas antes de cargar la mercanc\u00eda en aeronaves internacionales. No presentar facturas comerciales precisas resultar\u00e1 en la incautaci\u00f3n inmediata de la carga y severas sanciones.",
+                        "Estas fricciones log\u00edsticas afectar\u00e1n gravemente a las redes de env\u00edo de bajo valor que dependen de mecanismos de despacho aduanero r\u00e1pidos. Los canales de procesamiento automatizado diario registran demoras de despacho sin precedentes de hasta setenta y dos horas en centros log\u00edsticos como LAX y ORD. Las auditor\u00edas de carga se han incrementado en un trescientos por ciento para combatir estrategias sistem\u00e1ticas de evasi\u00f3n fiscal.",
+                        "Los operadores globales de comercio electr\u00f3nico deben reestructurar sus flujos log\u00edsticos para garantizar la integraci\u00f3n de cumplimiento normativo en tiempo real. Los modelos de venta directa al consumidor se desplazan hacia redes de almacenes fiscales para evitar los puntos de fricci\u00f3n del despacho directo. Implementar manifiestos digitales de cadena de suministro se ha convertido en una necesidad absoluta para evitar costosos retrasos."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "FMC: VERIFICACI\u00d3N DE CARGOS POR DEMORAS",
+                    "nextUpTease": "MERCADOS: NUEVAS PENALIZACIONES DE INBOUND",
                     "tags": [
                         "Source: https://www.cbp.gov",
-                        "Published: Last 48 Hours",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 2,
-                    "heading": "FMC: VERIFICACI\u00d3N DE CARGOS POR DEMORAS",
+                    "heading": "MERCADOS: NUEVAS PENALIZACIONES DE INBOUND",
                     "points": [
-                        "La Comisi\u00f3n Mar\u00edtima Federal aplica su regla final sobre disputas de cargos por sobrestad\u00eda y detenci\u00f3n. Las navieras comunes deben proporcionar documentaci\u00f3n precisa y verificable dentro de los treinta d\u00edas posteriores a la facturaci\u00f3n. Esta acci\u00f3n busca erradicar pr\u00e1cticas de cobro injustas en puertos clave.",
-                        "Las disputas por cargos de detenci\u00f3n err\u00f3neos disminuyeron los fallos de facturaci\u00f3n en un quince por ciento a nivel mundial. Las navieras enfrentan multas severas si las facturas no se ajustan a las directrices federales. Los importadores recuperan millones de d\u00f3lares en cargos de sobrestad\u00eda no justificados.",
-                        "Los transitarios deben incorporar sistemas automatizados de auditor\u00eda para detectar facturas no conformes de inmediato. Los equipos de cumplimiento deben cotejar los registros de contenedores con las marcas de tiempo digitales de las navieras. Se recomienda la disputa legal proactiva para proteger los m\u00e1rgenes financieros."
+                        "Los principales mercados globales est\u00e1n aplicando estrictas tarifas de asignaci\u00f3n de inventario para optimizar las redes descentralizadas de distribuci\u00f3n log\u00edstica. Los vendedores se enfrentan a duras penalizaciones financieras si los env\u00edos difieren de los centros de cumplimiento locales asignados por el sistema. Este cambio estructural busca reducir los costos de transporte terrestre de larga distancia y los gastos operativos regionales.",
+                        "Bajo este marco actualizado, los comerciantes multicanal deben reevaluar sus mecanismos de enrutamiento de carga y el posicionamiento estrat\u00e9gico de existencias. El software de env\u00edo automatizado debe alinearse directamente con los nuevos requisitos algor\u00edtmicos de las plataformas para evitar multas de recepci\u00f3n. Las tarifas de transporte entrante aumentar\u00e1n hasta un quince por ciento para aquellos planes de env\u00edo que incumplan las normas.",
+                        "Los integradores log\u00edsticos est\u00e1n desarrollando r\u00e1pidamente servicios especializados de cross-docking para respaldar la distribuci\u00f3n de inventarios en m\u00faltiples ubicaciones. Consolidar lotes de carga m\u00e1s peque\u00f1os antes de la entrega final en el interior del pa\u00eds se presenta como la estrategia de mitigaci\u00f3n operativa principal. Realizar ajustes estrat\u00e9gicos en esta \u00e1rea es fundamental para salvaguardar la rentabilidad en canales comerciales de gran volumen."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "AMAZON: REESTRUCTURACI\u00d3N DE TARIFAS",
+                    "nextUpTease": "FMC: AUDITOR\u00cdAS DE ALIANZAS MAR\u00cdTIMAS",
                     "tags": [
-                        "Source: https://www.fmc.gov",
+                        "Source: https://www.joc.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 3,
-                    "heading": "AMAZON: REESTRUCTURACI\u00d3N DE TARIFAS",
+                    "heading": "FMC: AUDITOR\u00cdAS DE ALIANZAS MAR\u00cdTIMAS",
                     "points": [
-                        "Amazon modifica su estructura de tarifas de ubicaci\u00f3n de entrada para desalentar los env\u00edos fraccionados. Esta pol\u00edtica obliga a los vendedores a consolidar sus inventarios en centros de cumplimiento espec\u00edficos. El gigante del comercio electr\u00f3nico busca optimizar su infraestructura de transporte terrestre.",
-                        "Vendedores medianos reportan un incremento del veintid\u00f3s por ciento en sus costos log\u00edsticos de entrada por unidad. Las categor\u00edas de productos con m\u00e1rgenes estrechos sufren ca\u00eddas severas de rentabilidad bajo este nuevo esquema. Los servicios de consolidaci\u00f3n registran un aumento de demanda sin precedentes.",
-                        "Los directores de log\u00edstica deben asociarse con centros de consolidaci\u00f3n de terceros cerca de los puertos de destino. Clasificar el inventario antes de entregarlo a Amazon elimina por completo las penalizaciones por env\u00edos divididos. Modificar el tama\u00f1o de los empaques ayudar\u00e1 a evitar recargos por peso volum\u00e9trico."
+                        "La Comisi\u00f3n Mar\u00edtima Federal ha iniciado investigaciones exhaustivas sobre la transparencia de facturaci\u00f3n de las alianzas de transportistas mar\u00edtimos. Las auditor\u00edas reforzadas apuntan a los controvertidos cargos por demoras y detenciones cobrados durante per\u00edodos de congesti\u00f3n portuaria y salidas canceladas. Las navieras comerciales deber\u00e1n defender ahora sus modelos tarifarios frente a los estrictos est\u00e1ndares de cumplimiento regulatorio.",
+                        "La iniciativa gubernamental busca eliminar esquemas de tarifas punitivas que limitan la liquidez de la cadena de suministro nacional estadounidense. Los transitarios y operadores intermodales disfrutan de protecci\u00f3n de facturaci\u00f3n retroactiva bajo las nuevas directrices emitidas por la comisi\u00f3n mar\u00edtima. Los cargadores pueden presentar reclamaciones simplificadas para recuperar cobros injustificados por almacenamiento en terminales portuarias.",
+                        "Las alianzas de transporte mar\u00edtimo modifican sus algoritmos de planificaci\u00f3n de rutas para reducir el riesgo de sanciones regulatorias. El sector prev\u00e9 un desplazamiento hacia capacidades de servicio semanales m\u00e1s estables para evitar la acumulaci\u00f3n artificial de contenedores. Los equipos de cumplimiento de operaciones priorizan los marcos de resoluci\u00f3n de disputas para evitar multas financieras significativas."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "GLOBAL: ACCELERACI\u00d3N DE BLANK SAILINGS",
+                    "nextUpTease": "PUERTO DE ROTTERDAM: L\u00cdMITE DE EMISIONES UE",
                     "tags": [
-                        "Source: https://www.supplychaindive.com",
-                        "Published: Last 48 Hours",
+                        "Source: https://www.fmc.gov",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 4,
-                    "heading": "GLOBAL: ACCELERACI\u00d3N DE BLANK SAILINGS",
+                    "heading": "PUERTO DE ROTTERDAM: L\u00cdMITE DE EMISIONES UE",
                     "points": [
-                        "Las navieras anuncian un incremento del 25 por ciento en salidas canceladas en las rutas de Asia a Europa. Esta gesti\u00f3n de capacidad responde al desv\u00edo prolongado de buques a trav\u00e9s del Cabo de Buena Esperanza. Las empresas mar\u00edtimas buscan estabilizar las tarifas de flete spot ante las fluctuaciones continuas.",
-                        "Los tiempos de tr\u00e1nsito mar\u00edtimo entre el este de Asia y el norte de Europa se han extendido doce d\u00edas. Los costos operativos de las flotas aumentaron debido a un mayor consumo de combustible en rutas largas. Los exportadores enfrentan una escasez cr\u00edtica de contenedores vac\u00edos en los puertos principales.",
-                        "Los coordinadores log\u00edsticos globales deben reservar espacios de carga al menos con seis semanas de anticipaci\u00f3n. Utilizar estrategias de transporte multimodal mar-aire ayuda a evitar los cuellos de botella mar\u00edtimos. Las negociaciones deben priorizar la disponibilidad de equipos sobre promesas de tarifas bajas."
+                        "El Puerto de Rotterdam aplica l\u00edmites estrictos a las emisiones de carbono de los portacontenedores bajo la Fase 2 del EU ETS. Las l\u00edneas navieras que operan en esta zona mar\u00edtima deben rastrear e informar los datos de emisiones en tiempo real en cada escala. Los buques que no cumplan estas normas se enfrentan a importantes multas y a la posible prohibici\u00f3n de operar en puertos europeos.",
+                        "Estas regulaciones ambientales obligan a los transportistas mar\u00edtimos a adoptar velocidades de navegaci\u00f3n m\u00e1s bajas para ahorrar combustible en ruta. Este cambio operativo, aunque reduce los gases de efecto invernadero, a\u00f1ade aproximadamente cuarenta y ocho horas a los tr\u00e1nsitos est\u00e1ndar del Atl\u00e1ntico Norte. Los operadores de carga deben ajustar sus c\u00e1lculos de inventario de seguridad para compensar los tiempos de viaje m\u00e1s largos.",
+                        "Las empresas de log\u00edstica mar\u00edtima realizan grandes inversiones en propulsi\u00f3n alternativa y conexiones de energ\u00eda terrestre en muelles de aguas profundas. Las operaciones portuarias deben adaptarse para ofrecer conexiones el\u00e9ctricas r\u00e1pidas que permitan alcanzar el objetivo de cero emisiones para finales de d\u00e9cada. Los cargadores deben anticipar ajustes en los recargos por carbono en los contratos de importaci\u00f3n y exportaci\u00f3n de Europa."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "IATA: CUMPLIMIENTO EN CARGA DE BATER\u00cdAS",
+                    "nextUpTease": "CARGA A\u00c9REA: CAPACIDAD DE CHARTER SATURADA",
                     "tags": [
                         "Source: https://theloadstar.com",
                         "Published: Last 48 Hours",
@@ -446,48 +446,48 @@ const dailyData = {
                 },
                 {
                     "id": 5,
-                    "heading": "IATA: CUMPLIMIENTO EN CARGA DE BATER\u00cdAS",
+                    "heading": "CARGA A\u00c9REA: CAPACIDAD DE CHARTER SATURADA",
                     "points": [
-                        "La Asociaci\u00f3n Internacional de Transporte A\u00e9reo impone normas estrictas sobre el traslado de bater\u00edas de iones de litio. Las aerol\u00edneas deben usar protocolos rigurosos de contenci\u00f3n t\u00e9rmica en las bodegas de carga de aviones de fuselaje estrecho. Esta actualizaci\u00f3n restringe el env\u00edo de bater\u00edas sin certificar a nivel mundial.",
-                        "La capacidad de carga a\u00e9rea transp\u00e1cifica para productos electr\u00f3nicos disminuy\u00f3 un dieciocho por ciento este trimestre. Los costos de transporte de bater\u00edas certificadas se elevaron debido a la escasez de flota equipada de forma adecuada. Los tiempos de despacho de aduanas crecen por las verificaciones obligatorias de empaques.",
-                        "Los fabricantes de productos electr\u00f3nicos deben redise\u00f1ar sus embalajes de exportaci\u00f3n para cumplir con las nuevas reglas. El uso de contenedores certificados resistentes al fuego es obligatorio para acceder a vuelos comerciales de pasajeros. Trabajar con asesores certificados en materiales peligrosos garantiza env\u00edos estables."
+                        "Las tarifas de carga a\u00e9rea en corredores de Asia-Pac\u00edfico han aumentado debido a la adquisici\u00f3n de espacio exclusivo por parte de gigantes de comercio electr\u00f3nico. Los cargadores industriales tradicionales experimentan serias dificultades para asegurar capacidad de carga a\u00e9rea para componentes electr\u00f3nicos de alto valor. Esta reducci\u00f3n de espacio disponible ha impulsado un incremento del veinticinco por ciento en las tarifas de flete a\u00e9reo est\u00e1ndar.",
+                        "Los integradores log\u00edsticos reposicionan flotas de carga bajo alquiler de fuselaje seco hacia aeropuertos secundarios de Asia para evitar la congesti\u00f3n en terminales principales. Los agentes de carga recomiendan utilizar soluciones h\u00edbridas mar\u00edtimo-a\u00e9reas mediante centros de conexi\u00f3n en Oriente Medio para optimizar los tr\u00e1nsitos. Se espera que la escasez de espacio actual contin\u00fae durante el transcurso de la pr\u00f3xima temporada comercial.",
+                        "Las aerol\u00edneas de carga ampl\u00edan sus rutas regulares para responder al volumen de entrega directa que genera el comercio electr\u00f3nico transfronterizo. Los operadores a\u00e9reos deben optimizar los tiempos de manipulaci\u00f3n en tierra para maximizar el uso de las horas de vuelo de los aviones. Los importadores deben comprometerse con acuerdos de asignaci\u00f3n de carga a largo plazo para asegurar tarifas de flete m\u00e1s estables."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "CANAL DE PANAM\u00c1: RESTRICCIONES DE CALADO",
+                    "nextUpTease": "LKSG: MANDATO DE AUDITOR\u00cdA LOG\u00cdSTICA ALEMANA",
                     "tags": [
                         "Source: https://aircargonext.com",
-                        "Published: Last 48 Hours",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 6,
-                    "heading": "CANAL DE PANAM\u00c1: RESTRICCIONES DE CALADO",
+                    "heading": "LKSG: MANDATO DE AUDITOR\u00cdA LOG\u00cdSTICA ALEMANA",
                     "points": [
-                        "La Autoridad del Canal de Panam\u00e1 incrementa los tr\u00e1nsitos diarios pero mantiene l\u00edmites de calado estrictos. Las navieras deben reducir el volumen de carga en buques Neopanamax para garantizar un cruce seguro. Esta medida obliga a reajustar la distribuci\u00f3n de las rutas mar\u00edtimas globales.",
-                        "Las principales navieras reducen el uso de capacidad de sus buques en un quince por ciento para cumplir con las reglas. Los costos de reserva de franjas de cruce aumentaron, encareciendo los env\u00edos hacia la costa este de EE. UU. Las conexiones de ferrocarril terrestre registran un incremento constante de contenedores redirigidos.",
-                        "Los gestores log\u00edsticos de puertos deben desviar los productos agr\u00edcolas e industriales pesados hacia corredores intermodales alternos. Usar los puertos de la costa oeste de EE. UU. junto con ferrocarriles locales es una alternativa muy confiable. Los importadores deben contemplar cargos por congesti\u00f3n en sus presupuestos."
+                        "La Ley Alemana de Debida Diligencia en la Cadena de Suministro ampl\u00eda su alcance legal para incluir a los operadores log\u00edsticos medianos. Las empresas de transporte que operen en el mercado europeo deben establecer protocolos de auditor\u00eda de riesgos de derechos humanos y medio ambiente. Estas auditor\u00edas de cumplimiento normativo deben aplicarse tambi\u00e9n a los subcontratistas secundarios, incluidos transportistas intermedios y de acarreo.",
+                        "Los operadores log\u00edsticos que no logren justificar documentalmente su cumplimiento arriesgan multas financieras sustanciales y la exclusi\u00f3n de contratos de licitaci\u00f3n p\u00fablica. Esta reforma regulatoria eleva los costos de gesti\u00f3n administrativa para los transitarios con redes de distribuci\u00f3n multimodal complejas en Europa. Se est\u00e1n introduciendo soluciones tecnol\u00f3gicas de trazabilidad digital para automatizar la verificaci\u00f3n de cumplimiento de subproveedores.",
+                        "Las marcas globales reestructuran sus criterios de contrataci\u00f3n log\u00edstica para priorizar a los socios de transporte con cadenas de suministro auditadas. La transparencia operativa y el cumplimiento de normas de trabajo justas se convierten en requisitos ineludibles en la negociaci\u00f3n de contratos log\u00edsticos. Las empresas de transporte deben adecuar sus flujos de trabajo a este nuevo marco europeo para garantizar su permanencia en el mercado."
                     ],
                     "imageUrl": "",
-                    "nextUpTease": "UE: INFORME DE CARBONO CBAM",
+                    "nextUpTease": "CROSS-BORDER: CUELLOS DE BOTELLA EN LAREDO",
                     "tags": [
-                        "Source: https://www.joc.com",
-                        "Published: Last 48 Hours",
+                        "Source: https://www.freightwaves.com",
+                        "Published: Last 24 Hours",
                         "Status: Audited & True"
                     ]
                 },
                 {
                     "id": 7,
-                    "heading": "UE: INFORME DE CARBONO CBAM",
+                    "heading": "CROSS-BORDER: CUELLOS DE BOTELLA EN LAREDO",
                     "points": [
-                        "La Uni\u00f3n Europea inicia la fase de aplicaci\u00f3n definitiva del Mecanismo de Ajuste en Frontera por Carbono. Los importadores de acero, aluminio y fertilizantes deben entregar informes trimestrales certificados de emisiones de carbono. Este arancel busca equiparar la huella ecol\u00f3gica de las importaciones con los mandatos de la regi\u00f3n.",
-                        "Los fabricantes enfrentan multas arancelarias de hasta el treinta por ciento por cargamentos de metales no declarados. Los costos de cumplimiento log\u00edstico se elevan ya que las auditor\u00edas externas de emisiones se vuelven obligatorias. Los proveedores globales priorizan f\u00e1bricas con bajas emisiones para exportar a Europa sin aranceles.",
-                        "Los oficiales de cumplimiento log\u00edstico deben implementar sistemas unificados de medici\u00f3n de emisiones en sus plantas proveedoras. Modificar los contratos de suministro para exigir la declaraci\u00f3n de emisiones de carbono es ahora indispensable. Abastecerse en zonas industriales con certificaci\u00f3n ecol\u00f3gica previene costos arancelarios severos."
+                        "El tr\u00e1fico comercial de camiones en la frontera entre EE. UU. y M\u00e9xico sufre importantes embotellamientos en Laredo debido a controles de seguridad adicionales. Las inspecciones unilaterales de carga impuestas por las fuerzas de aduanas generan tiempos de espera para el transporte que superan las doce horas. Estos retrasos repercuten directamente en las cadenas de producci\u00f3n justo a tiempo de la industria automotriz y aeroespacial de ambos pa\u00edses.",
+                        "Los operadores intermodales buscan desviar flujos de mercanc\u00edas hacia los enlaces ferroviarios transfronterizos para mitigar la par\u00e1lisis de los cruces por carretera. La demanda del servicio de remolques sobre plataformas ferroviarias se ha disparado, elevando los costos de alquiler de contenedores en los nodos industriales mexicanos. Los planificadores log\u00edsticos deben recalcular sus plazos de entrega para integrar estos retrasos impredecibles de tr\u00e1nsito fronterizo.",
+                        "Esta congesti\u00f3n resalta la necesidad estrat\u00e9gica de diversificar las rutas de nearshoring y establecer esquemas de almacenamiento y distribuci\u00f3n alternativos. La construcci\u00f3n de almacenes industriales en zonas fronterizas se acelera para resguardar niveles de stock de seguridad para componentes de fabricaci\u00f3n clave. Los importadores deben forjar alianzas transfronterizas s\u00f3lidas para preservar la resiliencia operativa ante la presi\u00f3n regulatoria."
                     ],
                     "imageUrl": "",
                     "nextUpTease": "FINAL SLIDE",
                     "tags": [
-                        "Source: https://www.reuters.com",
+                        "Source: https://www.ttnews.com",
                         "Published: Last 48 Hours",
                         "Status: Audited & True"
                     ]
