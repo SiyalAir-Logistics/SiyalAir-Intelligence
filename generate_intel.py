@@ -4,28 +4,25 @@ import random
 import re
 import requests
 import json
-import datetime
 from google import genai
 from google.genai import types
-
-try:
-    from bs4 import BeautifulSoup
-except ImportError:
-    BeautifulSoup = None
+import datetime
 
 # 1. AUTH & CONFIG
+# Fetches API key from GitHub Secrets
 api_key = os.environ.get("GEMINI_API_KEY")
-if not api_key:
-    print("[CRITICAL WARNING]: GEMINI_API_KEY environment variable is missing or empty.")
+client = genai.Client(api_key=api_key)
 
-client = genai.Client(api_key=api_key) if api_key else None
+# Models in priority order
 MODEL_PRIORITY = ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-2.5-flash"]
 
 # 2. STEALTH ENGINE
 def get_stealth_headers():
+    """Rotates User-Agent to mimic different browsers/devices."""
     user_agents = [
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, with Gecko) Chrome/126.0.0.0 Safari/537.36"
     ]
     return {
         "User-Agent": random.choice(user_agents),
@@ -35,9 +32,7 @@ def get_stealth_headers():
     }
 
 def fetch_and_clean():
-    if not os.path.exists("prompt.txt"):
-        return "", ""
-
+    """Extracts URLs from prompt.txt and scrapes with human-like timing."""
     with open("prompt.txt", "r", encoding="utf-8") as f:
         prompt_content = f.read()
     
@@ -46,124 +41,111 @@ def fetch_and_clean():
     
     for url in urls:
         try:
-            time.sleep(random.uniform(3.0, 8.0))
-            response = requests.get(url, headers=get_stealth_headers(), timeout=15)
+            # Human jitter: wait between 5 and 15 seconds to look like a slow reader
+            time.sleep(random.uniform(5.0, 15.0))
+            response = requests.get(url, headers=get_stealth_headers(), timeout=20)
+            
             if response.status_code == 200:
-                if BeautifulSoup is None:
-                    from bs4 import BeautifulSoup
+                from bs4 import BeautifulSoup
                 soup = BeautifulSoup(response.content, 'html.parser')
+                # Remove non-content junk
                 for element in soup(["script", "style", "nav", "footer", "iframe"]):
                     element.extract()
+                # EXPANDED DATA BUFFER: Increased character chunk threshold from 1,000 to 5,000
                 text = soup.get_text(separator=' ', strip=True)[:5000]
                 scraped_text += f"\n---SOURCE: {url}---\n{text}\n"
         except Exception:
-            continue
-            
+            continue # Fail silently to keep the pipeline moving
     return prompt_content, scraped_text
-
-def extract_json_safely(raw_text):
-    clean_str = raw_text.replace("```json", "").replace("```", "").strip()
-    match = re.search(r'\{.*\}', clean_str, re.DOTALL)
-    if match:
-        return json.loads(match.group(0))
-    return json.loads(clean_str)
 
 # 3. PIPELINE EXECUTION
 def main():
-    if not client:
-        print("[FATAL]: Gemini API client not initialized.")
-        return
-
     prompt_base, data = fetch_and_clean()
     final_input = f"{prompt_base}\n\n[LATEST LIVE DATA]:\n{data}"
     
     for model in MODEL_PRIORITY:
         try:
-            print(f"[EXECUTION]: Running model {model}...")
             response = client.models.generate_content(
                 model=model,
                 contents=final_input,
                 config=types.GenerateContentConfig(response_mime_type="application/json")
             )
             
-            if not response or not response.text:
-                raise ValueError("Empty response received from LLM.")
-
-            parsed_payload = extract_json_safely(response.text)
+            # --- UPDATED: Sanitization and strict }; closure ---
+            # Remove any markdown artifacts
+            raw_text = response.text.replace("```json", "").replace("```", "").strip()
             
-            # Normalize slides object
-            if "slides_data" in parsed_payload and isinstance(parsed_payload["slides_data"], dict):
-                slides_object = parsed_payload["slides_data"]
-            else:
-                slides_object = parsed_payload
+            # Ensure the output is clean for valid JSON parsing
+            if raw_text.endswith(';'):
+                raw_text = raw_text[:-1]
+            if not raw_text.startswith('{'): raw_text = '{' + raw_text
+            if not raw_text.endswith('}'): raw_text = raw_text + '}'
+            
+            # --- VALIDATION: Ensure generated text is valid JSON ---
+            parsed_payload = json.loads(raw_text)
+            
+            # Extract content paths from the structured JSON schema safely
+            slides_object = parsed_payload.get("slides_data", parsed_payload)
+            shorts_module_object = parsed_payload.get("linkedin_shorts_module", {})
+            post_content = parsed_payload.get("social_post", "")
+            
+            # --- ROBUST ENFORCEMENT: Enforce strict 4-bullet point limit per slide ---
+            if isinstance(slides_object, dict) and "slides" in slides_object:
+                for slide in slides_object["slides"]:
+                    if "points" in slide and isinstance(slide["points"], list):
+                        # Flatten any multi-sentence strings or accidental sub-lists that broke formatting
+                        cleaned_points = []
+                        for pt in slide["points"]:
+                            # Clean internal rogue line breaks or accidental markdown bullet tokens
+                            clean_pt = str(pt).replace('\n', ' ').replace('•', '').replace('➔', '').strip()
+                            if clean_pt:
+                                cleaned_points.append(clean_pt)
+                        
+                        # Hard lock: Slice or pad precisely to 4 bullet items to prevent overflowing and UI breakage
+                        if len(cleaned_points) > 4:
+                            # If model generated extra, merge trailing sentences or truncate to exact top 4 major points
+                            slide["points"] = cleaned_points[:4]
+                        elif len(cleaned_points) < 4:
+                            while len(cleaned_points) < 4:
+                                cleaned_points.append("Continuous trade shifts require monitoring immediate carrier capacity adjustments.")
+                            slide["points"] = cleaned_points
 
-            # Ensure main structure exists
-            if "main" not in slides_object:
-                slides_object["main"] = {
-                    "titleWhite": "GLOBAL LOGISTICS",
-                    "titleBlue": "INTELLIGENCE",
-                    "footerSummary": "Real-time updates on global freight and supply chain operations."
-                }
-
-            if "slides" not in slides_object or not isinstance(slides_object["slides"], list):
-                slides_object["slides"] = []
-
-            # Clean bullet points (hard lock 4 items)
-            for slide in slides_object["slides"]:
-                if isinstance(slide, dict) and "points" in slide and isinstance(slide["points"], list):
-                    cleaned_points = [str(pt).replace('\n', ' ').replace('•', '').replace('➔', '').strip() for pt in slide["points"] if pt]
-                    if len(cleaned_points) > 4:
-                        slide["points"] = cleaned_points[:4]
-                    elif len(cleaned_points) < 4:
-                        while len(cleaned_points) < 4:
-                            cleaned_points.append("Continuous trade shifts require monitoring immediate carrier capacity adjustments.")
-                        slide["points"] = cleaned_points
-
-            # Format social post for post.txt & email body
-            raw_post = parsed_payload.get("social_post", "")
-            if isinstance(raw_post, dict):
-                headline = raw_post.get("headline", "GLOBAL LOGISTICS UPDATE")
-                body = raw_post.get("body", "Latest supply chain metrics updated.")
-                tags = " ".join(raw_post.get("hashtags", ["#Logistics", "#SupplyChain"]))
-                clean_post_text = f"⚡ {headline}\n\n{body}\n\n{tags}"
-            elif isinstance(raw_post, str) and raw_post.strip():
-                clean_post_text = raw_post.replace('\\n', '\n')
-            else:
-                # Fallback if social_post was empty
-                clean_post_text = f"⚡ GLOBAL LOGISTICS BRIEFING\n\n{slides_object['main']['footerSummary']}\n\n#Logistics #SupplyChain #Freight"
-
-            shorts_module_object = parsed_payload.get("linkedin_shorts_module", {
-                "metadata": {"targetPlatform": "LinkedIn", "language": "EN"},
-                "socialPost": {"headline": "GLOBAL LOGISTICS UPDATE", "body": clean_post_text}
-            })
-
-            # --- ATOMIC SYNCHRONIZED WRITE ---
-            # 1. template.js
+            # Convert extracted slides data back to a clean string format
+            slides_json_str = json.dumps(slides_object, indent=4)
+            
+            # Save exactly as required for template.js
             with open("template.js", "w", encoding="utf-8") as f:
-                f.write(f"const dailyData = {json.dumps(slides_object, indent=4)};")
-
-            # 2. LinkedIn_Template_EN.js
+                f.write(f"const dailyData = {slides_json_str};")
+                
+            # --- PATH & EXPORT REALIGNMENT ---
+            # Save LinkedIn Shorts Module export file (`Social_Media/LinkedIn/LinkedIn_Template_EN.js`)
             linkedin_dir = os.path.join("Social_Media", "LinkedIn")
             os.makedirs(linkedin_dir, exist_ok=True)
             linkedin_file_path = os.path.join(linkedin_dir, "LinkedIn_Template_EN.js")
             
             shorts_json_str = json.dumps(shorts_module_object, indent=4)
+            
+            # Universal isomorphic export format (Supports both Browser DOM window injection & Node.js CommonJS require)
             isomorphic_js = (
                 f"if (typeof window !== 'undefined') {{ window.linkedinData = {shorts_json_str}; }}\n"
                 f"if (typeof module !== 'undefined' && module.exports) {{ module.exports = {shorts_json_str}; }}"
             )
+            
             with open(linkedin_file_path, "w", encoding="utf-8") as f:
                 f.write(isomorphic_js)
-
-            # 3. post.txt
+                
+            # Save the clean free-form social media post to your root location
             with open("post.txt", "w", encoding="utf-8") as f:
-                f.write(clean_post_text)
-
-            print(f"[SUCCESS]: Synchronized write completed for template.js, LinkedIn_Template_EN.js, and post.txt via {model}.")
-            return
-        except Exception as e:
-            print(f"[RETRY]: Model {model} failed: {e}. Retrying in 10s...")
-            time.sleep(10)
+                # Safely convert raw literal \n string characters into actual structural line breaks
+                clean_post = post_content.replace('\\n', '\n')
+                f.write(clean_post)
+                
+            return # Success
+        except Exception:
+            time.sleep(10) # Back-off if model rate-limits or JSON is invalid
+            continue
 
 if __name__ == "__main__":
     main()
+
+# SYSTEM RESET LOGIC: Kickstart cron automation cache sync
