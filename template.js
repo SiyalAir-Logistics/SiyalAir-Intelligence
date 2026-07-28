@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS COMPLIANCE",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Aggressive federal enforcement, tariff restructuring, and multi-million dollar liability verdicts are fundamentally resetting cross-border logistics risks globally."
+        "titleWhite": "GLOBAL TRADE SUPPLY",
+        "titleBlue": "BARRIERS",
+        "footerSummary": "New forced-labor tariffs on sixty nations alongside historic broker liability verdicts trigger immediate cross-border compliance audits and severe ocean shipping cost spikes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS IMPLEMENTED",
+            "heading": "FMC: DETENTION BILLING REFORM",
             "points": [
-                "USTR enacts Section 301 tariffs on sixty nations to enforce forced-labor rules as Section 122 expires.",
-                "Importers face ten to twelve percent duties on designated shipments, disrupting traditional global sourcing strategies.",
-                "Affected enterprises filed lawsuits seeking refunds, claiming compliance mechanisms are being misused for trade protection.",
-                "Supply chain directors must deploy automated provenance tracking systems to prove ethical manufacturing origins at ports."
+                "Federal appeals court upholds FMC decision requiring ocean detention fees to directly promote container cargo fluidity.",
+                "The regulatory ruling strictly prohibits ocean carriers from charging fees during non-operational terminal weekend hours.",
+                "Importers gain significant leverage to dispute unfair billing practices across major United States maritime ports.",
+                "Shippers must optimize supply chain visibility systems to audit and contest improper container detention invoices."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
+            "nextUpTease": "USTR: FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "A Texas court issued a six hundred million dollar negligent carrier selection verdict against C.H. Robinson.",
-                "This landmark ruling raises safety vetting standards for all third-party logistics providers under the Montgomery precedent.",
-                "Brokerages are rapidly integrating automated safety compliance APIs into transport systems to mitigate catastrophic liability risks.",
-                "Rising litigation exposures will trigger severe insurance rate hikes, forcing freight intermediaries to prioritize strict risk management."
+                "United States Trade Representative implements new forced labor tariffs targeting sixty active global trading nations.",
+                "Importers face immediate duties of up to twelve percent as previous trade concessions expire.",
+                "Supply chain networks must immediately trace origin raw materials to prevent border cargo seizure actions.",
+                "The aggressive regulatory shift forces manufacturing relocation strategies away from high risk international zones."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: COURT UPHOLDS BILLING RULES",
+            "nextUpTease": "C.H. ROBINSON: BROKER LIABILITY",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FMC: COURT UPHOLDS BILLING RULES",
+            "heading": "C.H. ROBINSON: BROKER LIABILITY",
             "points": [
-                "The D.C. Circuit Court upheld Federal Maritime Commission billing rules, mandating container fees promote freight fluidity.",
-                "Ocean carriers are legally prohibited from assessing detention charges when terminal congestion prevents cargo retrieval.",
-                "Logistics directors are leveraging this appellate victory to retrospectively audit and challenge non-compliant demurrage invoices.",
-                "Liners must implement real-time tracking systems to verify precise container availability data before issuing storage bills."
+                "A massive six hundred million dollar jury verdict establishes extreme liability risk for freight brokerages.",
+                "The legal decision penalizes negligent third party carrier selection after a severe highway safety accident.",
+                "Logistics intermediaries must overhaul carrier vetting protocols and implement advanced safety verification technology systems.",
+                "The ruling increases liability insurance premiums and restricts carrier networks across domestic trucking routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHEIN: DE MINIMIS END LOSSES",
+            "nextUpTease": "TSMC: SEMICONDUCTOR DOMESTIC SOURCING",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SHEIN: DE MINIMIS END LOSSES",
+            "heading": "TSMC: SEMICONDUCTOR DOMESTIC SOURCING",
             "points": [
-                "E-commerce giant Shein recorded substantial net losses following the elimination of the de minimis exemption framework.",
-                "The end of the eight hundred dollar threshold subjects direct-to-consumer shipments to intensive customs duties.",
-                "Platforms are shifting capital to establish forward-deployed regional warehouses within North America to stabilize delivery networks.",
-                "This network restructuring will drive significant industrial real estate demand and increase long-term logistics operating costs."
+                "Taiwan Semiconductor Manufacturing Company pledges one hundred billion dollars to construct four additional US fabs.",
+                "The massive capital project expands the manufacturer domestic production footprint to twelve operational silicon facilities.",
+                "This industrial move significantly reduces high tech component reliance on complex Asian marine shipping channels.",
+                "Logistics providers must adapt heavy transport infrastructure to support advanced microchip manufacturing assembly pipelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: SHIPPERS PENALIZED FOR VIOLATIONS",
+            "nextUpTease": "SHEIN: DE MINIMIS COOLDOWN",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FMC: SHIPPERS PENALIZED FOR VIOLATIONS",
+            "heading": "SHEIN: DE MINIMIS COOLDOWN",
             "points": [
-                "The Federal Maritime Commission collected one point nine million dollars in civil penalties from a shipping line.",
-                "This aggressive enforcement action penalizes systematic failures to execute transparent service contracts and fair terminal operations.",
-                "Liners are investing heavily in compliance teams to avoid costly regulatory assessments during current shipping audits.",
-                "Enhanced regulatory oversight levels negotiations, enabling cargo owners to challenge discriminatory practices by ocean carriers."
+                "E-commerce giant Shein registers significant financial losses following the regulatory end of de minimis exemptions.",
+                "Direct consumer shipments face strict customs inspections and newly imposed duties on low value parcels.",
+                "Cross-border retail logistics models must shift toward domestic inventory warehousing to mitigate trade compliance friction.",
+                "The structural change increases fulfillment costs and delays air freight delivery timelines to Western consumers."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE",
+            "nextUpTease": "MSC & CMA CGM: CANAL SURCHARGES",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE",
+            "heading": "MSC & CMA CGM: CANAL SURCHARGES",
             "points": [
-                "The Department of Justice Trade Fraud Task Force surpassed one billion dollars in total recoveries this year.",
-                "The specialized division utilizes advanced data analytics to detect customs evasion and systematic duty underpayments at borders.",
-                "Customs brokers must implement rigorous document audits to prevent secondary liability from client-provided fraudulent import paperwork.",
-                "Strict border enforcement establishes compliance as a critical corporate risk metric for international logistics executives."
+                "Global ocean carriers introduce heavy transit surcharges due to low draft levels at the Panama Canal.",
+                "Reduced vessel capacity limits cargo allocation space for transpacific shipments bound for the East Coast.",
+                "Shippers face surging spot rates and variable ocean transit schedules across vital water trade gateways.",
+                "Intermodal transport demand increases on West Coast routes to bypass rising tropical canal draft restrictions."
             ],
             "imageUrl": "",
-            "nextUpTease": "CLASS I RAIL: MERGER MODIFICATIONS",
+            "nextUpTease": "UP & NS: REGULATORY MERGER REVISION",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CLASS I RAIL: MERGER MODIFICATIONS",
+            "heading": "UP & NS: REGULATORY MERGER REVISION",
             "points": [
-                "Union Pacific and Norfolk Southern filed supplemental merger details to satisfy Surface Transportation Board competition requirements.",
-                "The updated consolidation plan offers enhanced cargo shipper protections that exceed initial regulatory integration guidelines.",
-                "Canadian National will not oppose the merger, clearing a critical regulatory hurdle for transcontinental rail alignment.",
-                "Intermodal logistics planners must prepare for consolidated routing schedules and altered terminal access points across lanes."
+                "Union Pacific and Norfolk Southern submit revised merger documentation providing enhanced customer protection frameworks.",
+                "The class one railroads aim to satisfy strict competition rules set by federal transportation regulators.",
+                "This strategic realignment attempts to secure a robust and integrated domestic rail shipping network model.",
+                "Shippers anticipate consolidated rail service lanes, though freight cost impacts remain highly debated among analysts."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
