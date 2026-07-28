@@ -1,43 +1,43 @@
 if (typeof window !== 'undefined') { window.linkedinData = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "SUPPLY CHAIN SECURITY FRICTION",
+        "hookTitle": "GLOBAL FREIGHT COMPLIANCE SHIFT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "United States Trade Representative institutes strict forced labor tariffs on sixty nations following the sudden expiration of Section 122 duties."
+                "narration_line": "A historic six hundred four million dollar verdict against C.H. Robinson shatters broker preemption safety shields."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A historic six hundred four million dollar verdict exposes freight brokers to extreme liabilities for negligent third-party motor carrier selection."
+                "narration_line": "The USTR rolls out aggressive forced labor tariffs on sixty nations as key exemptions expire."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Union Pacific and Norfolk Southern file crucial customer safety protections to advance their transcontinental railroad network consolidation."
+                "narration_line": "USPS implements sudden lightweight package delivery rate hikes directly targeting online marketplace sellers."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Mounting Strait of Hormuz geopolitical friction severely compromises global maritime liner schedule reliability and forces emergency blank sailings."
+                "narration_line": "Shein experiences direct financial losses as global de minimis customs tax exemptions come to an end."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "USPS enforces sharp Ground Advantage rate hikes, increasing lightweight rural parcel shipping costs for online marketplace sellers."
+                "narration_line": "Escalating conflict in the Strait of Hormuz triggers immediate carrier rerouting and schedule reliability collapses."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Justice Department's Trade Fraud Task Force recovers one billion dollars in penalties targeting aggressive cross-border customs evasion schemes."
+                "narration_line": "Volvo and Mack Trucks deploy coordinated diesel exhaust fluid software overhauls to prevent fleet engine derates."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Severe global shipping capacity limits drive Asia to United States ocean freight spot rates up two hundred thirty-four percent since February."
+                "narration_line": "TSMC commits a massive one hundred billion dollars to construct four additional advanced chip plants."
             },
             {
                 "slide_index": 8,
@@ -50,43 +50,43 @@ if (typeof window !== 'undefined') { window.linkedinData = {
 if (typeof module !== 'undefined' && module.exports) { module.exports = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "SUPPLY CHAIN SECURITY FRICTION",
+        "hookTitle": "GLOBAL FREIGHT COMPLIANCE SHIFT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "United States Trade Representative institutes strict forced labor tariffs on sixty nations following the sudden expiration of Section 122 duties."
+                "narration_line": "A historic six hundred four million dollar verdict against C.H. Robinson shatters broker preemption safety shields."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A historic six hundred four million dollar verdict exposes freight brokers to extreme liabilities for negligent third-party motor carrier selection."
+                "narration_line": "The USTR rolls out aggressive forced labor tariffs on sixty nations as key exemptions expire."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Union Pacific and Norfolk Southern file crucial customer safety protections to advance their transcontinental railroad network consolidation."
+                "narration_line": "USPS implements sudden lightweight package delivery rate hikes directly targeting online marketplace sellers."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Mounting Strait of Hormuz geopolitical friction severely compromises global maritime liner schedule reliability and forces emergency blank sailings."
+                "narration_line": "Shein experiences direct financial losses as global de minimis customs tax exemptions come to an end."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "USPS enforces sharp Ground Advantage rate hikes, increasing lightweight rural parcel shipping costs for online marketplace sellers."
+                "narration_line": "Escalating conflict in the Strait of Hormuz triggers immediate carrier rerouting and schedule reliability collapses."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Justice Department's Trade Fraud Task Force recovers one billion dollars in penalties targeting aggressive cross-border customs evasion schemes."
+                "narration_line": "Volvo and Mack Trucks deploy coordinated diesel exhaust fluid software overhauls to prevent fleet engine derates."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Severe global shipping capacity limits drive Asia to United States ocean freight spot rates up two hundred thirty-four percent since February."
+                "narration_line": "TSMC commits a massive one hundred billion dollars to construct four additional advanced chip plants."
             },
             {
                 "slide_index": 8,

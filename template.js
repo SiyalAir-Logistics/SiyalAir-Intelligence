@@ -1,90 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUPPLY CHAIN SECURITY",
-        "titleBlue": "FRICTION",
-        "footerSummary": "New forced labor tariffs and massive judicial broker liability penalties trigger immediate operational risks across cross-border freight networks."
+        "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
+        "titleBlue": "SHIFT",
+        "footerSummary": "Massive legal verdicts, targeted trade tariffs, and critical chokepoint disruptions expose global supply chains to unprecedented regulatory and operational liabilities."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 FORCED LABOR TARIFFS",
+            "heading": "C.H. ROBINSON: MASSIVE NEGLIGENCE VERDICT",
             "points": [
-                "United States Trade Representative implements Section 301 forced labor tariffs on sixty nations following Section 122 expiration.",
-                "Importers face sudden ten to twelve point five percent tariff rate hikes across critical manufacturing sectors.",
-                "Supply chains must instantly restructure sourcing pipelines away from targeted non-compliant international production hubs.",
-                "Shippers must rapidly deploy automated compliance audits to mitigate immediate financial exposure and border delays."
+                "A Texas court delivered a historic six hundred four million dollar verdict against C.H. Robinson for negligent carrier selection.",
+                "The ruling dismantles federal preemption protections and holds brokers directly liable for safety vetting of third-party motor carriers.",
+                "Asset-light logistics providers must immediately integrate advanced digital verification protocols to mitigate massive risk exposures.",
+                "Shippers face immediate freight rate hikes as broker liability insurance premiums skyrocket following this landmark judicial decision."
             ],
             "imageUrl": "",
-            "nextUpTease": "CH ROBINSON: NEGLIGENT CARRIER LIABILITY",
+            "nextUpTease": "USTR: NEW FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CH ROBINSON: NEGLIGENT CARRIER LIABILITY",
+            "heading": "USTR: NEW FORCED LABOR TARIFFS",
             "points": [
-                "C.H. Robinson faces a historic six hundred and four million dollar jury verdict for negligent carrier selection.",
-                "The massive judicial ruling exposes freight brokerages to catastrophic financial liabilities during carrier vetting processes.",
-                "Supply chain networks are abandoning legacy databases for real-time artificial intelligence driven carrier verification systems.",
-                "Freight brokers will immediately tighten carrier screening protocols to prevent multi-million dollar corporate negligence lawsuits."
+                "The Office of the United States Trade Representative enforced new tariffs targeting forced labor across sixty global nations.",
+                "Importers face immediate ten to twelve percent duty increases as previous Section 122 tariff exemptions officially expired.",
+                "Supply chain compliance teams must systematically trace raw materials down to the origin level to prevent border seizures.",
+                "This aggressive regulatory shift forces rapid decoupling from high-risk sourcing regions to maintain active North American trade."
             ],
             "imageUrl": "",
-            "nextUpTease": "US REGULATORS: UP-NS RAILROAD MERGER",
+            "nextUpTease": "USPS: GROUND ADVANTAGE RATE HIKES",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "US REGULATORS: UP-NS RAILROAD MERGER",
-            "points": [
-                "Union Pacific and Norfolk Southern submit supplemental merger documentation detailing customer protection mandates to federal regulators.",
-                "The proposed consolidated rail network aims to streamline intermodal logistics across major domestic freight corridors.",
-                "Shipper coalitions express deep concern over potential routing monopolies and localized freight terminal congestion risks.",
-                "Logistics managers should diversify terrestrial shipping lanes to hedge against impending transcontinental rail consolidation friction."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME: STRAIT OF HORMUZ DISRUPTION",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MARITIME: STRAIT OF HORMUZ DISRUPTION",
-            "points": [
-                "Strait of Hormuz geopolitical tensions severely compromise global liner schedule reliability and spark routing alterations.",
-                "Port schedule reliability plummets as global container lines prioritize high-margin core east-west transit routes.",
-                "Shippers navigate unpredictable vessel omissions and immediate blank sailings across secondary regional shipping lanes.",
-                "Ocean freight procurement teams must negotiate long-term capacity allocations to secure essential maritime container space."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "USPS: GROUND ADVANTAGE RATE HIKES",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
             "heading": "USPS: GROUND ADVANTAGE RATE HIKES",
             "points": [
-                "United States Postal Service increases Ground Advantage shipping rates impacting light parcel home delivery operations.",
-                "E-commerce marketplace sellers face two to three dollar cost increases on lightweight rural shipping.",
-                "Multi-channel merchants must re-optimize their postal network routing algorithms to preserve e-commerce profit margins.",
-                "Online retail operations should integrate alternative regional parcel carriers to offset rising federal postage expenses."
+                "United States Postal Service implemented sudden rate increases for Ground Advantage services targeting high-volume e-commerce sellers.",
+                "Lightweight packages shipped to remote rural locations will now incur additional domestic surcharges of up to three dollars.",
+                "Multi-channel marketplace merchants on eBay and Etsy face compressed profit margins due to rising delivery fulfillment costs.",
+                "E-commerce platforms are scrambling to optimize local delivery options to counter escalating national postal delivery fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT SURGE",
+            "nextUpTease": "SHEIN: DE MINIMIS REMOVAL LOSS",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -92,35 +58,69 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "DOJ: TRADE FRAUD ENFORCEMENT SURGE",
+            "id": 4,
+            "heading": "SHEIN: DE MINIMIS REMOVAL LOSS",
             "points": [
-                "Department of Justice Trade Fraud Task Force recovers one billion dollars targeting systematic import non-compliance.",
-                "Aggressive federal investigations recover record-breaking penalties from international manufacturers bypassing critical customs duties.",
-                "Customs compliance auditing shifts toward deep predictive analytics and comprehensive digital transaction tracing models.",
-                "Import logistics specialists must implement rigorous origin auditing protocols to withstand intensifying federal trade scrutiny."
+                "Fast-fashion giant Shein swung to a financial loss following the abrupt termination of the de minimis tax exemption.",
+                "Cross-border e-commerce models face severe disruptions as low-value packages undergo full formal customs clearance and taxation.",
+                "Direct-to-consumer logistics pipelines must establish regional fulfillment centers within domestic borders to remain financially viable.",
+                "Global customs agencies are increasing inspection scrutiny to enforce strict compliance on high-volume inbound air parcels."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: ASIA-US RATE SPIKE",
+            "nextUpTease": "MARITIME: HORMUZ ROUTE TRANSIT CRASH",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.supplychainbrain.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MARITIME: HORMUZ ROUTE TRANSIT CRASH",
+            "points": [
+                "Escalating military tensions in the Strait of Hormuz have severely damaged international container liner schedule reliability.",
+                "Ocean carriers are aggressively routing vessels away from Middle Eastern chokepoints, resulting in extended transit times.",
+                "Major state-run refiners are replacing regional barrels with Atlantic basin and Russian supply to avoid maritime risks.",
+                "Importers face immediate emergency surcharges as vessel space constraints tighten on critical East Coast ocean shipping lanes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MACK & VOLVO: DEF SOFTWARE OVERHAUL",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MACK & VOLVO: DEF SOFTWARE OVERHAUL",
+            "points": [
+                "Volvo Group units Mack and Volvo Trucks launched coordinated diesel exhaust fluid software updates across production lines.",
+                "The firmware updates prevent premature engine power derates caused by faulty emission control sensor readings.",
+                "Over-the-road trucking fleets must schedule immediate shop visits to upload critical powertrain calibrations and maintain uptime.",
+                "Equipment manufacturers are accelerating digital diagnostic integrations to minimize unscheduled maintenance disruptions on commercial highways."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TSMC: HUNDRED BILLION DOLLAR EXPANSION",
+            "tags": [
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OCEAN FREIGHT: ASIA-US RATE SPIKE",
+            "heading": "TSMC: HUNDRED BILLION DOLLAR EXPANSION",
             "points": [
-                "Global shipping disruptions propel Asia-US ocean freight spot rates up two hundred thirty-four percent.",
-                "High-volume importers absorb extreme spot market pricing spikes as capacity shortages grip major marine gateways.",
-                "Maritime shippers increasingly utilize forward air cargo charters to bypass severely congested oceanic container corridors.",
-                "Logistics executives must execute early peak season volume bookings to guarantee space and control costs."
+                "Taiwan Semiconductor Manufacturing Company announced an additional one hundred billion dollar investment in United States facilities.",
+                "The funding establishes four additional advanced chip fabrication plants to bolster domestic high-tech supply chain resilience.",
+                "Logistics networks must expand highly specialized chemical and precision equipment handling capabilities to support cleanroom operations.",
+                "This massive infrastructure expansion accelerates the regionalization of critical electronics manufacturing across the North American continent."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
