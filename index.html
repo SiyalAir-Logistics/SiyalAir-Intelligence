@@ -5,6 +5,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SIYALAIR LOGISTICS | POST GENERATOR</title>
     <link rel="stylesheet" href="style.css">
+    <style>
+        /* Embedded styling for language selector dropdown to match top bar UI */
+        .language-selector {
+            background: #0d1117 !important;
+            color: #00d2ff !important;
+            border: 1px solid rgba(0, 210, 255, 0.4) !important;
+            padding: 8px 14px !important;
+            border-radius: 4px !important;
+            font-size: 14px !important;
+            font-weight: 700 !important;
+            cursor: pointer !important;
+            margin-right: 12px !important;
+            outline: none !important;
+            transition: all 0.2s ease !important;
+            font-family: inherit !important;
+        }
+        .language-selector:hover {
+            border-color: #00d2ff !important;
+            box-shadow: 0 0 10px rgba(0, 210, 255, 0.3) !important;
+        }
+        .language-selector option {
+            background: #0d1117 !important;
+            color: #ffffff !important;
+        }
+    </style>
 </head>
 <body>
 
@@ -12,6 +37,12 @@
         <div class="tabs" id="slide-tabs">
             </div>
         <div class="actions">
+            <select id="language-select" class="action-btn language-selector" onchange="if(typeof window.switchLanguage === 'function') { window.switchLanguage(this.value); }">
+                <option value="en" selected>🌐 EN (English)</option>
+                <option value="de">🌐 DE (Deutsch)</option>
+                <option value="fr">🌐 FR (Français)</option>
+                <option value="es">🌐 ES (Español)</option>
+            </select>
             <button type="button" id="download-active" class="action-btn download">DOWNLOAD SLIDE</button>
         </div>
     </nav>
