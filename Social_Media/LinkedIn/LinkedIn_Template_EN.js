@@ -1,43 +1,43 @@
 if (typeof window !== 'undefined') { window.linkedinData = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL LOGISTICS RISK SHIFTS",
+        "hookTitle": "GLOBAL TRADE FRICTION ACCELERATES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States implements strict forced labor-based tariffs on sixty nations following the expiration of legacy trade provisions."
+                "narration_line": "A historic six hundred four million dollar nuclear verdict penalizes negligent carrier selection, reshaping global third-party logistics legal liability structures."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A massive six hundred million dollar negligence verdict against C.H. Robinson completely redefines broker liability and carrier vetting standards."
+                "narration_line": "USPS raised Ground Advantage rates, imposing sudden margin pressures on high-volume marketplace sellers and lightweight cross-border e-commerce operations."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "J.B. Hunt officially deploys Overroute, a groundbreaking agentic AI platform designed to automate freight routing and optimization."
+                "narration_line": "The federal appeals court upheld the FMC decision, forcing container carriers to align ocean detention fees with maritime cargo fluidity standards."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Union Pacific and Norfolk Southern revise their merger application with key customer protections to secure regulatory clearance."
+                "narration_line": "eBay secured UK regulatory clearance for its one point two billion dollar Depop acquisition, consolidating dominance over circular fashion supply chains."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Ocean carriers levy emergency fuel surcharges as escalating Middle East tensions drive up global marine bunker fuel prices."
+                "narration_line": "Georgia plans forty-one miles of truck-only lanes on I-75, initiating structural freight corridor segregation to bypass urban highway congestion."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FedEx unveils aggressive peak season surcharges, threatening to squeeze margins for online retailers during the winter holidays."
+                "narration_line": "The USTR launched forced labor tariffs against sixty trading nations, disrupting low-cost sourcing channels with strict customs import compliance regulations."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "EBay settles a historic civil cyberstalking lawsuit for over fifty-five million dollars, highlighting critical corporate compliance risks."
+                "narration_line": "J.B. Hunt deployed agentic AI routing through its Overroute platform, scaling autonomous decision-making to optimize regional freight fleet operations."
             },
             {
                 "slide_index": 8,
@@ -50,43 +50,43 @@ if (typeof window !== 'undefined') { window.linkedinData = {
 if (typeof module !== 'undefined' && module.exports) { module.exports = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL LOGISTICS RISK SHIFTS",
+        "hookTitle": "GLOBAL TRADE FRICTION ACCELERATES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States implements strict forced labor-based tariffs on sixty nations following the expiration of legacy trade provisions."
+                "narration_line": "A historic six hundred four million dollar nuclear verdict penalizes negligent carrier selection, reshaping global third-party logistics legal liability structures."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A massive six hundred million dollar negligence verdict against C.H. Robinson completely redefines broker liability and carrier vetting standards."
+                "narration_line": "USPS raised Ground Advantage rates, imposing sudden margin pressures on high-volume marketplace sellers and lightweight cross-border e-commerce operations."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "J.B. Hunt officially deploys Overroute, a groundbreaking agentic AI platform designed to automate freight routing and optimization."
+                "narration_line": "The federal appeals court upheld the FMC decision, forcing container carriers to align ocean detention fees with maritime cargo fluidity standards."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Union Pacific and Norfolk Southern revise their merger application with key customer protections to secure regulatory clearance."
+                "narration_line": "eBay secured UK regulatory clearance for its one point two billion dollar Depop acquisition, consolidating dominance over circular fashion supply chains."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Ocean carriers levy emergency fuel surcharges as escalating Middle East tensions drive up global marine bunker fuel prices."
+                "narration_line": "Georgia plans forty-one miles of truck-only lanes on I-75, initiating structural freight corridor segregation to bypass urban highway congestion."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FedEx unveils aggressive peak season surcharges, threatening to squeeze margins for online retailers during the winter holidays."
+                "narration_line": "The USTR launched forced labor tariffs against sixty trading nations, disrupting low-cost sourcing channels with strict customs import compliance regulations."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "EBay settles a historic civil cyberstalking lawsuit for over fifty-five million dollars, highlighting critical corporate compliance risks."
+                "narration_line": "J.B. Hunt deployed agentic AI routing through its Overroute platform, scaling autonomous decision-making to optimize regional freight fleet operations."
             },
             {
                 "slide_index": 8,
