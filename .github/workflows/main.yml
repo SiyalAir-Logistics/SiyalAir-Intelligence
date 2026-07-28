@@ -9,7 +9,7 @@ on:
       - 'download/**'  # Block the bot from looping on its own image updates
       - 'bg_tracker.txt' # Block the bot from looping on background tracker state updates
       - 'follow_tracker.txt' # Block the bot from looping on follow-up tracker state updates
-      - 'Social_Media/LinkedIn/LinkedIn_Template_EN.js' # Block the bot from looping on LinkedIn module file updates
+      - 'Social_Media/**' # Block the bot from looping on any Social Media module file updates
   workflow_dispatch:
   schedule:
     - cron: '16 * * * *'  # Single Primary Precise Hourly Trigger (Exactly once per hour)
@@ -131,8 +131,8 @@ jobs:
           print(f"Dynamic Follow-up Rotation: Found {max_followups} total follow slides. Rotated tracker: {current_follow_val} -> {next_follow_val}")
           EOF
 
-          # 4. Stage template.js, post.txt, Social_Media/LinkedIn/LinkedIn_Template_EN.js, and the dynamically updated tracking state files
-          git add template.js post.txt Social_Media/LinkedIn/LinkedIn_Template_EN.js bg_tracker.txt follow_tracker.txt
+          # 4. Stage template.js, post.txt, all Social_Media directory files, and the dynamically updated tracking state files
+          git add template.js post.txt Social_Media/ bg_tracker.txt follow_tracker.txt
           
           # 5. Verify structural differences cleanly without stashing or merging files
           if ! git diff --cached --quiet; then
@@ -146,7 +146,7 @@ jobs:
             # 8. Set tracking variable for email and screenshot phase
             echo "PUSH_SUCCESS=true" >> $GITHUB_ENV
           else
-            echo "No changes detected in template.js, post.txt, Social_Media/LinkedIn/LinkedIn_Template_EN.js, or tracker files. Skipping push payload sequence to prevent loops."
+            echo "No changes detected in template.js, post.txt, Social_Media/, or tracker files. Skipping push payload sequence to prevent loops."
             echo "PUSH_SUCCESS=false" >> $GITHUB_ENV
           fi
 
@@ -299,18 +299,36 @@ jobs:
               
               msg.attach(MIMEText(html_body, 'html'))
 
-              # Attach updated LinkedIn_Template_EN.js from Social_Media/LinkedIn/
-              linkedin_file = os.path.join('Social_Media', 'LinkedIn', 'LinkedIn_Template_EN.js')
-              if os.path.exists(linkedin_file):
-                  with open(linkedin_file, 'rb') as lf:
-                      part = MIMEBase('application', 'javascript')
-                      part.set_payload(lf.read())
-                      encoders.encode_base64(part)
-                      part.add_header('Content-Disposition', f'attachment; filename="LinkedIn_Template_EN.js"')
-                      msg.attach(part)
-                  print(f"Success: Attached {linkedin_file} to email dispatch.")
-              else:
-                  print(f"Warning: Could not locate attachment at {linkedin_file}")
+              # Dynamically scan Social_Media/ and root for all updated .js template files recursively
+              js_attachments = []
+              
+              if os.path.exists('Social_Media'):
+                  for root_dir, _, filenames in os.walk('Social_Media'):
+                      for fn in filenames:
+                          if fn.endswith('.js'):
+                              js_attachments.append(os.path.join(root_dir, fn))
+              
+              # Include template.js from root directory
+              if os.path.exists('template.js'):
+                  js_attachments.append('template.js')
+
+              attached_count = 0
+              for js_file_path in js_attachments:
+                  try:
+                      with open(js_file_path, 'rb') as jf:
+                          part = MIMEBase('application', 'javascript')
+                          part.set_payload(jf.read())
+                          encoders.encode_base64(part)
+                          filename = os.path.basename(js_file_path)
+                          part.add_header('Content-Disposition', f'attachment; filename="{filename}"')
+                          msg.attach(part)
+                          attached_count += 1
+                          print(f"Success: Attached {js_file_path} as {filename} to email dispatch.")
+                  except Exception as att_err:
+                      print(f"Warning: Failed to attach {js_file_path}: {str(att_err)}")
+
+              if attached_count == 0:
+                  print("Warning: No .js template files were located for attachment.")
 
               # Connect to Gmail SMTP Gateway Securely
               server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
