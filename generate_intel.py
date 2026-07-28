@@ -117,10 +117,22 @@ def main():
             with open("template.js", "w", encoding="utf-8") as f:
                 f.write(f"const dailyData = {slides_json_str};")
                 
-            # Save LinkedIn Shorts Module export file (`LinkedIn_Template_EN.js`)
+            # --- PATH & EXPORT REALIGNMENT ---
+            # Save LinkedIn Shorts Module export file (`Social_Media/LinkedIn/LinkedIn_Template_EN.js`)
+            linkedin_dir = os.path.join("Social_Media", "LinkedIn")
+            os.makedirs(linkedin_dir, exist_ok=True)
+            linkedin_file_path = os.path.join(linkedin_dir, "LinkedIn_Template_EN.js")
+            
             shorts_json_str = json.dumps(shorts_module_object, indent=4)
-            with open("LinkedIn_Template_EN.js", "w", encoding="utf-8") as f:
-                f.write(f"module.exports = {shorts_json_str};")
+            
+            # Universal isomorphic export format (Supports both Browser DOM window injection & Node.js CommonJS require)
+            isomorphic_js = (
+                f"if (typeof window !== 'undefined') {{ window.linkedinData = {shorts_json_str}; }}\n"
+                f"if (typeof module !== 'undefined' && module.exports) {{ module.exports = {shorts_json_str}; }}"
+            )
+            
+            with open(linkedin_file_path, "w", encoding="utf-8") as f:
+                f.write(isomorphic_js)
                 
             # Save the clean free-form social media post to your root location
             with open("post.txt", "w", encoding="utf-8") as f:
