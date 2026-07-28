@@ -1,73 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "LOGISTICS INFRASTRUCTURE TARIFF",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Escalating trade friction and historic legal precedents are creating volatility in freight markets, demanding immediate audit of carrier selection and compliance workflows."
+        "titleWhite": "CRITICAL FREIGHT",
+        "titleBlue": "RESTRUCTURE",
+        "footerSummary": "Severe broker liability rulings, sweeping multi-nation tariffs, and climbing canal surcharges expose global supply chains to immediate regulatory friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR ENFORCEMENT: TRADE TARIFFS",
+            "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
             "points": [
-                "USTR is implementing Section 301 tariffs on 60 trading partners to replace expiring Section 122 duties.",
-                "Importers must prepare for immediate cost basis recalculations as new forced labor enforcement mechanisms take effect.",
-                "Legal challenges are already mounting against these levies as businesses argue they function as unauthorized tax hikes.",
-                "Supply chain managers should conduct forensic audits of their specific country-of-origin exposure to mitigate financial impact."
+                "Federal courts ruled C.H. Robinson negligent in carrier selection, dismantling historical asset-light broker liability protections.",
+                "The jury awarded an unprecedented six hundred four million dollar nuclear verdict following a fatal highway crash.",
+                "Brokerage firms must immediately implement rigorous, real-time digital carrier vetting processes to mitigate existential legal exposure.",
+                "Shippers will prioritize heavily audited logistics partners, triggering consolidation across the fragmented third-party brokerage market."
             ],
             "imageUrl": "",
-            "nextUpTease": "BROKER LIABILITY PRECEDENTS",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "BROKER LIABILITY: NUCLEAR VERDICTS",
-            "points": [
-                "C.H. Robinson faces a massive $604 million advisory verdict, highlighting severe risks in carrier selection practices.",
-                "The Supreme Court Montgomery ruling has fundamentally lowered the threshold for proving broker negligence in highway incidents.",
-                "Brokerages are now forced to adopt rigorous vetting standards to avoid liability for independent carrier safety failures.",
-                "Legal departments must review third-party service agreements to insulate the enterprise from massive litigation exposure."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FREIGHT MARKET TIGHTENING",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "TRUCKING MARKET: CAPACITY CONTRACTION",
-            "points": [
-                "Knight-Swift reports rapid tightening of the truckload market, signaling a long-awaited shift in carrier pricing power.",
-                "Increased infrastructure investment and federal freight plan funding are stabilizing logistics hubs across the United States.",
-                "Spot rates are projected to rise through 2027, driven by consistent import volumes and capacity discipline among carriers.",
-                "Shippers should secure long-term contracts now to hedge against anticipated volatility in regional transport corridors."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME SCHEDULE RELIABILITY",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MARITIME CARRIER: DYNAMIC RESTRUCTURING",
-            "points": [
-                "HMM is upsizing its fleet orders, transitioning to a hub-and-spoke model to navigate fragmented global trade lanes.",
-                "Ocean carriers are prioritizing schedule reliability on core routes, often at the expense of regional service coverage.",
-                "Geopolitical instability in the Strait of Hormuz continues to disrupt traditional shipping lanes and inflate transit costs.",
-                "Logistics providers are aggressively re-routing cargo to secure safer, albeit longer, transit channels for critical goods."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AUTOMATION IN WAREHOUSING",
+            "nextUpTease": "USTR: FORCED LABOR TARIFF ACTIVATION",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
@@ -75,33 +24,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "WAREHOUSE TECH: AI ORCHESTRATION",
+            "id": 2,
+            "heading": "USTR: FORCED LABOR TARIFF ACTIVATION",
             "points": [
-                "Drones are replacing manual inventory counting in large distribution centers, significantly improving cycle count accuracy and speed.",
-                "Leading warehouses are moving toward flexible, software-driven environments that integrate robotics with real-time AI inventory management.",
-                "Employee turnover remains a critical threat, pushing firms to deploy AI-based labor management to stabilize warehouse operations.",
-                "Data-driven investment in automated picking systems is now essential for maintaining service levels amidst unpredictable labor markets."
+                "The United States Trade Representative implemented strict forced labor-based tariffs across sixty active global trading partners.",
+                "Imports face immediate ten to twelve percent duties as legacy Section one hundred twenty-two levies officially expire.",
+                "Importers must immediately execute deep supply chain mapping to guarantee full trace compliance and verify raw origin.",
+                "Global brands will accelerate nearshoring initiatives to mitigate rising transaction costs and continuous customs enforcement delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "POSTAL RATE VOLATILITY",
+            "nextUpTease": "USPS: GROUND ADVANTAGE RATE SURGE",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "USPS OPERATIONS: RATE ADJUSTMENTS",
+            "id": 3,
+            "heading": "USPS: GROUND ADVANTAGE RATE SURGE",
             "points": [
-                "USPS has implemented new rate hikes for marketplace sellers, specifically targeting lightweight packages in rural locations.",
-                "Noncompliance fees are catching shippers off guard, necessitating an immediate review of hazardous material shipping protocols.",
-                "Marketplaces are under federal scrutiny regarding potential manipulation of logistics and vendor account security standards.",
-                "Operational transparency is critical; businesses must audit their shipping labels and password policies to remain fully compliant."
+                "The United States Postal Service announced sudden rate hikes on Ground Advantage shipping for high-volume marketplace transactions.",
+                "Sellers experience a two to three dollar surcharge per lightweight package shipped to rural delivery zones.",
+                "Multi-channel merchants are forced to restructure regional fulfillment strategies or pass direct transit costs to consumers.",
+                "Small businesses will shift low-margin parcel volumes toward alternative regional carriers to bypass postal network increases."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL SUPPLY CHAIN RISKS",
+            "nextUpTease": "MARITIME: HORMUZ ROUTING RATE SPIKE",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -109,18 +58,69 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "RETAIL LOGISTICS: INVENTORY STRATEGY",
+            "id": 4,
+            "heading": "MARITIME: HORMUZ ROUTING RATE SPIKE",
             "points": [
-                "Major retailers are reducing days of inventory to improve cash flow and tighten supply chain resilience metrics.",
-                "Corporate distribution networks are undergoing massive rationalization, with facility closures impacting regional warehouse staff and efficiency.",
-                "E-commerce volume remains steady, though hardware demand for data center infrastructure is currently masking broader consumer malaise.",
-                "Supply chain resilience strategies must now account for high oil prices and potential cross-border tariff repercussions."
+                "Geopolitical instability in the Strait of Hormuz forced ocean carriers to suspend primary Middle East transits.",
+                "Asia to United States ocean freight spot rates surged two hundred thirty-four percent since February.",
+                "Global shippers are leveraging the Gulf landbridge and intermodal bypass routes to secure critical cargo flows.",
+                "Prolonged maritime detours will trigger severe regional space crunches and elevated marine fuel surcharges through peak season."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "DOJ: CUSTOMS COMPLIANCE ENFORCEMENT",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "DOJ: CUSTOMS COMPLIANCE ENFORCEMENT",
+            "points": [
+                "The Department of Justice Trade Fraud Task Force initiated aggressive sweeps targeting systemic cross-border customs violations.",
+                "Enforcement actions generated one billion dollars in penalties, forfeitures, and recoveries within ten operational months.",
+                "Compliance officers must proactively audit entry filings to detect undervalued shipments and false country of origin.",
+                "Strict regulatory surveillance will force undercompliant import channels to restructure their logistics documentation systems immediately."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PROJECT44: AGENTIC AI SYSTEM DISRUPTION",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "PROJECT44: AGENTIC AI SYSTEM DISRUPTION",
+            "points": [
+                "Project44 launched advanced agentic artificial intelligence solutions to optimize real-time visibility across global freight networks.",
+                "The transition threatens legacy software architectures by automating manual forwarding tasks with ninety percent fewer resources.",
+                "Traditional transportation management systems face severe market pressure as dynamic AI orchestration displaces rigid electronic integrations.",
+                "Logistics providers failing to adopt cognitive automation will lose critical operational velocity and customer integration capabilities."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PANAMA CANAL: DRAFT SURCHARGE INITIATIVE",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "PANAMA CANAL: DRAFT SURCHARGE INITIATIVE",
+            "points": [
+                "Extreme low water levels forced major ocean carriers to introduce emergency draft-limit surcharges for canal transits.",
+                "Shippers face additional operational fees ranging from three hundred to six hundred dollars per transiting container.",
+                "Marine planners must dynamically adjust vessel payloads or reroute intermodal shipments through West Coast port gateways.",
+                "Continuous environmental disruptions will permanently elevate baseline transit expenses and reshape global maritime trade lanes."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]

@@ -1,43 +1,43 @@
 if (typeof window !== 'undefined') { window.linkedinData = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "LOGISTICS INFRASTRUCTURE TARIFF SHIFTS",
+        "hookTitle": "CRITICAL FREIGHT RESTRUCTURE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR is imposing new tariffs on 60 trading partners, demanding immediate supply chain audit for all importers."
+                "narration_line": "C.H. Robinson's massive six hundred million dollar verdict dismantles traditional liability shields for asset-light logistics brokers."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Broker liability is peaking following a record $604 million legal verdict, forcing a total overhaul of carrier vetting."
+                "narration_line": "The USTR implemented new forced labor tariffs on sixty nations, creating immediate compliance and duty challenges for importers."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Truckload market capacity is tightening rapidly, as carriers gain leverage and spot rates begin a multi-year climb."
+                "narration_line": "New USPS Ground Advantage rate hikes increase delivery costs for marketplace sellers shipping lightweight parcels to rural locations."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Maritime carriers are restructuring hub-and-spoke models to bypass geopolitical instability across major global chokepoints."
+                "narration_line": "Strait of Hormuz disruptions have triggered a dramatic two hundred thirty-four percent surge in Asia-US ocean freight spot rates."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Warehouse automation is shifting to AI-driven robotics, essential for mitigating severe labor turnover risks in 2026."
+                "narration_line": "The DOJ Trade Fraud Task Force recovered one billion dollars, signaling a major regulatory crackdown on global customs evasion."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "USPS rate hikes on lightweight parcel logistics now require immediate re-evaluation of your small-package shipping strategy."
+                "narration_line": "Agentic AI technologies are rapidly replacing rigid legacy freight software, driving a paradigm shift in logistics network orchestration."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Retail inventory strategies are pivoting toward lean resilience, as companies aggressively optimize their warehouse distribution footprints."
+                "narration_line": "Ocean carriers introduced fresh Panama Canal surcharges due to persistent low water levels, elevating global container shipping costs."
             },
             {
                 "slide_index": 8,
@@ -50,43 +50,43 @@ if (typeof window !== 'undefined') { window.linkedinData = {
 if (typeof module !== 'undefined' && module.exports) { module.exports = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "LOGISTICS INFRASTRUCTURE TARIFF SHIFTS",
+        "hookTitle": "CRITICAL FREIGHT RESTRUCTURE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR is imposing new tariffs on 60 trading partners, demanding immediate supply chain audit for all importers."
+                "narration_line": "C.H. Robinson's massive six hundred million dollar verdict dismantles traditional liability shields for asset-light logistics brokers."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Broker liability is peaking following a record $604 million legal verdict, forcing a total overhaul of carrier vetting."
+                "narration_line": "The USTR implemented new forced labor tariffs on sixty nations, creating immediate compliance and duty challenges for importers."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Truckload market capacity is tightening rapidly, as carriers gain leverage and spot rates begin a multi-year climb."
+                "narration_line": "New USPS Ground Advantage rate hikes increase delivery costs for marketplace sellers shipping lightweight parcels to rural locations."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Maritime carriers are restructuring hub-and-spoke models to bypass geopolitical instability across major global chokepoints."
+                "narration_line": "Strait of Hormuz disruptions have triggered a dramatic two hundred thirty-four percent surge in Asia-US ocean freight spot rates."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Warehouse automation is shifting to AI-driven robotics, essential for mitigating severe labor turnover risks in 2026."
+                "narration_line": "The DOJ Trade Fraud Task Force recovered one billion dollars, signaling a major regulatory crackdown on global customs evasion."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "USPS rate hikes on lightweight parcel logistics now require immediate re-evaluation of your small-package shipping strategy."
+                "narration_line": "Agentic AI technologies are rapidly replacing rigid legacy freight software, driving a paradigm shift in logistics network orchestration."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Retail inventory strategies are pivoting toward lean resilience, as companies aggressively optimize their warehouse distribution footprints."
+                "narration_line": "Ocean carriers introduced fresh Panama Canal surcharges due to persistent low water levels, elevating global container shipping costs."
             },
             {
                 "slide_index": 8,
