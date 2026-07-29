@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DECOUPLING FREIGHT",
-        "titleBlue": "ARCHITECTURE",
-        "footerSummary": "Radical tariff updates, multi-million dollar brokerage liability verdicts, and dedicated commercial corridors are forcing a total rewrite of asset-light supply chain mechanics."
+        "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
+        "titleBlue": "RISK",
+        "footerSummary": "Nuclear broker liabilities, forced labor tariffs, and geopolitical channel shifts demand immediate freight network updates and strict customs compliance re-evaluation."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "C.H. ROBINSON: LEGAL LIABILITY SHIFT",
             "points": [
-                "USTR implements forced-labor-based tariffs on sixty global trading partners as Section 122 levies expire.",
-                "Importers face immediate double-digit duties up to twelve percent on multiple critical raw material categories.",
-                "Trade compliance architectures must establish absolute chain-of-custody transparency to avoid sudden border seizures.",
-                "Importers will shift sourcing nodes toward vetted domestic or allied nearshoring options to bypass compliance risks."
+                "A Texas jury hit CH Robinson with a six hundred four million dollar negligent carrier selection verdict.",
+                "The ruling dramatically elevates liability risks for third-party logistics companies and freight brokers vetting motor carrier networks.",
+                "Shippers must transition from manual carrier onboarding to automated real-time compliance checks to mitigate nuclear legal liabilities.",
+                "Freight brokerages must overhaul their standard operating procedures to comply with heightened post-Montgomery carrier vetting requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON: BROKER LIABILITY",
+            "nextUpTease": "USTR: MANDATORY FORCED LABOR TARIFFS",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "C.H. ROBINSON: BROKER LIABILITY",
+            "heading": "USTR: MANDATORY FORCED LABOR TARIFFS",
             "points": [
-                "A Texas jury hit global broker C.H. Robinson with a massive six-hundred million dollar negligent selection verdict.",
-                "The ruling instantly triggers a sharp decline in asset-light brokerage stocks and raises carrier insurance rates.",
-                "Standard carrier vetting protocols are now legally obsolete, forcing brokers to mandate rigorous safety audits.",
-                "Freight networks will heavily restrict carrier onboarding to mitigate catastrophic operational and corporate liability exposures."
+                "The United States Trade Representative is implementing forced labor-based tariffs on sixty trading partners starting immediately.",
+                "Imports from these designated nations face punitive tariffs of up to twelve point five percent on specific shipments.",
+                "Supply chain managers must audit global supplier origins to avoid immediate customs delays and severe financial penalties.",
+                "Multinationals are accelerating nearshoring and supplier diversification strategies to shield operations from escalating geopolitical tariff enforcement."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEORGIA DOT: TRUCK ONLY CORRIDORS",
+            "nextUpTease": "USPS: GROUND ADVANTAGE RATE HIKES",
             "tags": [
-                "Source: freightwaves.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GEORGIA DOT: TRUCK ONLY CORRIDORS",
+            "heading": "USPS: GROUND ADVANTAGE RATE HIKES",
             "points": [
-                "Georgia finalizes construction timelines for forty-one miles of toll-free commercial truck lanes along Interstate seventy-five.",
-                "Heavy freight flows will bypass passenger vehicle lanes completely, eliminating urban congestion and bottleneck friction.",
-                "Infrastructure designs now prioritize dedicated lanes to optimize regional supply chain velocities and transit reliability.",
-                "Shippers targeting southeastern distribution centers will experience significantly improved predictability and reduced fuel consumption metrics."
+                "The United States Postal Service raised Ground Advantage rates for lightweight marketplace packages on ecommerce platforms.",
+                "Rural delivery surcharges are increasing shipping costs by two to three dollars for targeted online retail transactions.",
+                "New noncompliance fees for hazardous materials like essential oils will catch unprepared ecommerce merchants by complete surprise.",
+                "Shippers must integrate dynamic rate calculators to preserve margin performance against these rising postal service transportation fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "J.B. HUNT: AGENTIC AI DEPLOYMENT",
+            "nextUpTease": "FMC: FEES FLUIDITY RULING UPHELD",
             "tags": [
-                "Source: freightwaves.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "J.B. HUNT: AGENTIC AI DEPLOYMENT",
+            "heading": "FMC: FEES FLUIDITY RULING UPHELD",
             "points": [
-                "J.B. Hunt deploys agentic artificial intelligence platform Overroute to automate real-time freight routing and brokerage.",
-                "The system continuously matches load demand with empty capacity across hundreds of localized regional lanes.",
-                "AI-driven freight orchestration marks a shift from manual booking toward autonomous, self-correcting logistics operations.",
-                "Transport operators leveraging these agentic systems will dramatically reduce empty miles and optimize asset utilization."
+                "The United States Court of Appeals upheld the Federal Maritime Commission rule on detention and demurrage fees.",
+                "Billing practices must strictly promote ocean freight fluidity and protect global importers from unfair terminal storage charges.",
+                "Ocean carriers face immediate compliance audits and potential civil penalties for charging non-compliant container detention fees.",
+                "Shippers gain legal leverage to challenge unreasonable carrier billings under the formalized ocean shipping reform framework guidelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "DHL EXPRESS: SURCHARGE REDUCTION",
+            "nextUpTease": "OCEAN CARRIERS: FUEL SURCHARGE SPIKES",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DHL EXPRESS: SURCHARGE REDUCTION",
+            "heading": "OCEAN CARRIERS: FUEL SURCHARGE SPIKES",
             "points": [
-                "DHL Express lowers its import and export fuel surcharge calculation metrics by two percentage points.",
-                "This counter-market reduction challenges the aggressive pricing strategies and rising peak fees of rival parcel carriers.",
-                "Global parcel networks are adjusting yield strategies as air freight demand shifts amid changing economic climates.",
-                "Shippers can leverage this specific rate reduction to optimize international e-commerce margins during upcoming peak seasons."
+                "Escalating conflict near the Strait of Hormuz has severely disrupted global shipping lanes and virgin plastic supplies.",
+                "Ocean carriers are demanding emergency fuel surcharges to offset rising bunker costs from long vessel re-routing maneuvers.",
+                "Volatile supply chains force manufacturers to navigate erratic inventory flows and escalating raw polymer raw material prices.",
+                "Logistics directors must implement resilient multi-modal transport strategies to bypass high-risk geographic chokepoints and secure inventories."
             ],
             "imageUrl": "",
-            "nextUpTease": "UPS: AMAZON DECOUPLING MARGINS",
+            "nextUpTease": "J.B. HUNT: AGENTIC AI DISPATCH",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "UPS: AMAZON DECOUPLING MARGINS",
+            "heading": "J.B. HUNT: AGENTIC AI DISPATCH",
             "points": [
-                "UPS increases its annual revenue guidance to over ninety-one billion dollars after dropping low-margin Amazon parcels.",
-                "Profit margins rose significantly as business-to-business delivery networks absorbed higher-yielding commercial volume segments.",
-                "Shift away from low-margin retail contracts proves high-yield business prioritization outperforms high-volume consumer delivery strategies.",
-                "Retail competitors must prepare for premium shipping carrier rates as logistics providers focus strictly on profitability."
+                "J.B. Hunt has deployed Overroute an agentic artificial intelligence technology developed within its specialized startup incubator.",
+                "The AI system optimizes freight dispatch and carrier selection workflows to maximize overall fleet utilization and margin.",
+                "Traditional transportation management software is shifting toward autonomous orchestration to replace slow manual logistics planning tasks.",
+                "Logistics providers implementing agentic AI will capture superior operating ratios by eliminating human delays in freight booking."
             ],
             "imageUrl": "",
-            "nextUpTease": "GTT: LNG SHIPBUILDING EXPANISON",
+            "nextUpTease": "TSMC: SEMICONDUCTOR FREIGHT LOCALIZE",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GTT: LNG SHIPBUILDING EXPANISON",
+            "heading": "TSMC: SEMICONDUCTOR FREIGHT LOCALIZE",
             "points": [
-                "Global liquefied natural gas carrier orders surge as United States export terminal projects rapidly expand production capacity.",
-                "Shipbuilders in South Korea and China receive unprecedented backlogs of heavy industrial energy transport vessel contracts.",
-                "Rising energy infrastructure demands force maritime logistics to prioritize heavy-asset investment in next-generation cryogenic tankers.",
-                "Global energy shippers must secure long-term slot allocations early to avoid catastrophic maritime carrier capacity shortages."
+                "Taiwan Semiconductor Manufacturing Company is investing an additional one hundred billion dollars to build four US factories.",
+                "The massive expansion will construct advanced semiconductor fabrication facilities to secure critical high-tech hardware supply chains domestic.",
+                "Hardware logistics planning must adapt to localized microchip manufacturing networks and shifting international air freight traffic flows.",
+                "Tech companies will mitigate geopolitical sourcing risks by leveraging highly resilient regionalized manufacturing hubs in North America."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: supplychainbrain.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
