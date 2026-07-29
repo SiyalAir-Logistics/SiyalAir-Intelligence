@@ -1,43 +1,43 @@
 if (typeof window !== 'undefined') { window.linkedinData = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL TRADE FRICTION SURGE",
+        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE RECALIBRATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR is enforcing new tariffs on 60 nations, forcing importers to recalculate landed costs amidst evolving forced labor compliance mandates."
+                "narration_line": "The DOJ Trade Fraud Task Force has officially surpassed one billion dollars in recovered assets and penalties this year."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "BNSF is challenging Union Pacific\u2019s latest merger plans, raising significant alarms regarding future rail competition and intermodal pricing structures for shippers."
+                "narration_line": "The USTR is rolling out broad Section 301 tariffs against sixty trading partners, impacting global trade flow costs."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A record 604 million dollar verdict against C.H. Robinson is forcing freight brokers to overhaul their carrier vetting and liability risk management processes."
+                "narration_line": "A six hundred million dollar legal verdict is forcing logistics brokers to tighten their third-party carrier vetting protocols."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Trans-Pacific trade is currently dominated by data center hardware imports, effectively masking the softening demand in the broader consumer goods sector."
+                "narration_line": "Georgia is advancing critical freight infrastructure by building massive, truck-only lane networks to reduce interstate congestion."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Rising geopolitical tensions in the Strait of Hormuz are triggering new sanctions and creating severe uncertainty for global energy and maritime logistics."
+                "narration_line": "Volatility in the Strait of Hormuz is causing significant spikes in global oil prices and maritime transit insurance."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "USPS rate hikes for marketplace sellers are increasing last-mile shipping friction, particularly for deliveries destined for rural locations across the US network."
+                "narration_line": "New EU import fees are disrupting low-value e-commerce volumes and forcing a re-evaluation of international shipping strategies."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Global supply chains are shifting toward mandatory, granular vendor auditing as forced labor regulations replace outdated trade frameworks and duty structures."
+                "narration_line": "AI-driven orchestration is now essential for supply chain resilience, scaling warehouse throughput while mitigating labor-related operational risks."
             },
             {
                 "slide_index": 8,
@@ -50,43 +50,43 @@ if (typeof window !== 'undefined') { window.linkedinData = {
 if (typeof module !== 'undefined' && module.exports) { module.exports = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL TRADE FRICTION SURGE",
+        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE RECALIBRATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR is enforcing new tariffs on 60 nations, forcing importers to recalculate landed costs amidst evolving forced labor compliance mandates."
+                "narration_line": "The DOJ Trade Fraud Task Force has officially surpassed one billion dollars in recovered assets and penalties this year."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "BNSF is challenging Union Pacific\u2019s latest merger plans, raising significant alarms regarding future rail competition and intermodal pricing structures for shippers."
+                "narration_line": "The USTR is rolling out broad Section 301 tariffs against sixty trading partners, impacting global trade flow costs."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A record 604 million dollar verdict against C.H. Robinson is forcing freight brokers to overhaul their carrier vetting and liability risk management processes."
+                "narration_line": "A six hundred million dollar legal verdict is forcing logistics brokers to tighten their third-party carrier vetting protocols."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Trans-Pacific trade is currently dominated by data center hardware imports, effectively masking the softening demand in the broader consumer goods sector."
+                "narration_line": "Georgia is advancing critical freight infrastructure by building massive, truck-only lane networks to reduce interstate congestion."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Rising geopolitical tensions in the Strait of Hormuz are triggering new sanctions and creating severe uncertainty for global energy and maritime logistics."
+                "narration_line": "Volatility in the Strait of Hormuz is causing significant spikes in global oil prices and maritime transit insurance."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "USPS rate hikes for marketplace sellers are increasing last-mile shipping friction, particularly for deliveries destined for rural locations across the US network."
+                "narration_line": "New EU import fees are disrupting low-value e-commerce volumes and forcing a re-evaluation of international shipping strategies."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Global supply chains are shifting toward mandatory, granular vendor auditing as forced labor regulations replace outdated trade frameworks and duty structures."
+                "narration_line": "AI-driven orchestration is now essential for supply chain resilience, scaling warehouse throughput while mitigating labor-related operational risks."
             },
             {
                 "slide_index": 8,

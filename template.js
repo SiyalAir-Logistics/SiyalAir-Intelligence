@@ -1,22 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "SURGE",
-        "footerSummary": "New USTR forced labor tariffs on 60 nations and escalating geopolitical tensions in the Middle East create severe immediate volatility for global import transit."
+        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
+        "titleBlue": "RECALIBRATION",
+        "footerSummary": "Escalating trade enforcement and critical resource constraints are forcing rapid, systemic shifts in international logistics and carrier risk management strategies."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "DOJ ENFORCEMENT: TRADE FRAUD CRACKDOWN",
             "points": [
-                "The USTR is implementing mandatory 10 to 12.5 percent tariffs across 60 trading partners to address forced labor concerns as Section 122 duties expire.",
-                "This widespread trade policy shift forces immediate recalculation of landed costs for high-volume importers currently leveraging established global supply chain agreements.",
-                "Compliance teams must reconcile these new punitive measures with existing international trade frameworks to mitigate sudden financial exposure during clearing operations.",
-                "Stakeholders should anticipate potential clearance delays as customs processing adjusts to the broadened enforcement criteria across diverse international port terminals."
+                "Justice Department's Trade Fraud Task Force has surpassed $1 billion in total recoveries and penalties.",
+                "Federal oversight now targets systemic customs evasion, impacting manufacturers and importers across the logistics sector.",
+                "Increased litigation risk necessitates rigorous document trails and audit-ready compliance frameworks for international trade participants.",
+                "Stakeholders must prepare for granular inspections as federal agencies accelerate enforcement actions to safeguard domestic markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILROAD MERGER FILING",
+            "nextUpTease": "TARIFF ARCHITECTURE",
+            "tags": [
+                "Source: https://www.cbp.gov",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "TARIFF ARCHITECTURE: SECTION 301 EXPANSION",
+            "points": [
+                "USTR is implementing broad Section 301 tariffs across 60 trading partners as legacy Section 122 duties expire.",
+                "Shift triggers significant cost volatility for trans-Pacific and global procurement cycles, forcing immediate supply chain renegotiations.",
+                "Companies face dual pressure from forced labor-based tariffs and evolving geopolitical trade stances in regional networks.",
+                "Operational agility is critical as shippers manage shifting landed costs and potential duty-related financial exposure."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CARRIER LIABILITY",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -24,16 +41,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "RAILROAD: MERGER COMPETITION RISKS",
+            "id": 3,
+            "heading": "CARRIER LIABILITY: LEGAL RISK SURGE",
             "points": [
-                "BNSF leadership is formally challenging Union Pacific\u2019s latest $85 billion rail merger filings citing long-term risks to transcontinental pricing and carrier competitiveness.",
-                "Regulatory bodies are currently reviewing the supplemental data submissions to determine if the consolidation will significantly dampen domestic intermodal capacity and rate stability.",
-                "Market participants are bracing for potential service disruptions as major Class I carriers navigate intense scrutiny regarding their market dominance and operational pricing.",
-                "The ongoing legal and regulatory standoff threatens to stall infrastructure optimization plans while creating uncertainty for shippers reliant on transcontinental rail networks."
+                "A $604 million nuclear verdict against C.H. Robinson has intensified industry scrutiny on negligent carrier selection protocols.",
+                "Brokers and 3PLs must re-evaluate vetting automation and vicarious liability standards following the precedent-setting Montgomery case ruling.",
+                "The legal landscape now demands higher-fidelity vetting systems to mitigate exposure from third-party motor carrier performance failures.",
+                "Insurance premiums and operational scrutiny will likely rise as legal standards for freight intermediaries become increasingly stringent."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER LEGAL LIABILITY",
+            "nextUpTease": "STRATEGIC INFRASTRUCTURE",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -41,50 +58,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "CARRIER: LIABILITY & RISK",
-            "points": [
-                "A massive $604 million verdict against C.H. Robinson concerning vicarious liability for carrier negligence has created a precedent-setting crisis for freight brokers nationwide.",
-                "Industry analysts expect a sharp shift in carrier vetting procedures as 3PLs move to aggressively mitigate financial exposure following the stunning Texas court ruling.",
-                "Brokerage firms are rapidly updating their operational frameworks to minimize the risk of being held accountable for the actions of independent sub-contracted motor carriers.",
-                "Expect significant premium increases for liability insurance as the logistics sector absorbs the impact of this heightened judicial standard for freight intermediary accountability."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PACIFIC DATA INFRASTRUCTURE",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "PACIFIC: DATA CENTER SURGE",
+            "heading": "STRATEGIC INFRASTRUCTURE: RAIL DYNAMICS",
             "points": [
-                "Trans-Pacific freight volumes are currently being sustained by an intense influx of hardware and infrastructure components destined for domestic data center expansion projects.",
-                "This specialized cargo demand is effectively masking broader underlying weaknesses in the consumer merchandise sector which remains suppressed due to current economic headwinds.",
-                "Logistics providers are realigning vessel space and equipment allocation to prioritize this high-margin infrastructure cargo while consumption patterns remain erratic and unpredictable.",
-                "The trend highlights a transition in shipping priorities where industrial tech builds are overriding traditional retail volume as the primary driver of trans-Pacific trade."
+                "Georgia is executing a critical multi-mile truck-only lane project on I-75 to de-conflict commercial traffic flow.",
+                "Class I rail mergers remain under intense regulatory review as BNSF and others challenge anti-competitive capacity consolidation proposals.",
+                "Persistent dwell time monitoring remains essential for shippers as trans-continental rail networks navigate evolving volume surges.",
+                "Infrastructure investment patterns indicate a shift toward high-capacity, dedicated freight corridors to resolve regional bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "MIDDLE EAST SHIP RISK",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "GEOPOLITICAL: HORMUZ THREATS",
-            "points": [
-                "Escalating tensions in the Strait of Hormuz have triggered immediate sanctions against extortion networks and threatened critical maritime transit corridors for global energy shipments.",
-                "Supply chain managers are diversifying route strategies to bypass regional instability as fuel price volatility impacts operational margins for long-haul air and ocean carriers.",
-                "Insurance providers are re-evaluating risk premiums for vessels navigating these high-threat zones as military activities increase the likelihood of unexpected trade route blockages.",
-                "Immediate impacts are being felt in energy-dependent logistics sectors where consistent availability of refined petroleum products is critical for global network operations."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "USPS RATE ADJUSTMENTS",
+            "nextUpTease": "ENERGY SECURITY",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -92,16 +75,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "USPS: MARKETPLACE RATE HIKE",
+            "id": 5,
+            "heading": "ENERGY SECURITY: STRAIT VOLATILITY",
             "points": [
-                "USPS has implemented significant rate hikes for lightweight parcels sold on major e-commerce marketplaces creating fresh cost friction for high-volume digital merchant segments.",
-                "Increased charges for rural shipping destinations are further squeezing profit margins for sellers who rely on cost-effective postal services for last-mile distribution networks.",
-                "Marketplace platforms are forcing sellers to update their automated shipping configurations to avoid noncompliance fees and delayed transit times for end-to-end customer deliveries.",
-                "Operational reliance on postal infrastructure is being scrutinized as sellers seek diversified logistics partners to mitigate the impact of sudden, tiered price increases."
+                "Global Brent crude prices are exhibiting extreme volatility following renewed tensions in the Strait of Hormuz supply corridor.",
+                "Maritime operators face mounting insurance and transit risks as geopolitical instability threatens critical fuel and cargo lifelines.",
+                "Fuel surcharge indexing is becoming increasingly unpredictable, requiring real-time adjustment models for transport cost forecasting.",
+                "Strategic inventory stockpiling is recommended to insulate operations from potential localized disruption in maritime transit zones."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL TRADE COMPLIANCE",
+            "nextUpTease": "E-COMMERCE COMPLIANCE",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "E-COMMERCE COMPLIANCE: MARKETPLACE SHIFTS",
+            "points": [
+                "New EU import fees on low-value goods are disrupting e-commerce volumes and reducing air freighter capacity utilization.",
+                "Marketplace sellers face heightened compliance requirements as platforms automate handling-time and documentation protocols for cross-border transit.",
+                "Amazon and eBay are tightening third-party seller oversight to mitigate risks linked to regulatory non-compliance and fraud.",
+                "Consolidation of e-commerce fulfillment is accelerating as firms seek to optimize logistics costs amid shifting duty landscapes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AI LOGISTICS",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "COMPLIANCE: FORCED LABOR AUDIT",
+            "heading": "AI LOGISTICS: PROCUREMENT ORCHESTRATION",
             "points": [
-                "Companies are under intense pressure to standardize global supply chain auditing as new anti-forced labor regulations replace older trade duty frameworks worldwide.",
-                "Manufacturers are pivoting toward aggressive supplier diversification strategies to maintain compliance rigor while avoiding the sprawl of fragmented vendor networks and regulatory blind spots.",
-                "Financial risk is expanding for entities failing to provide comprehensive, granular documentation of their tier-n upstream production processes in highly regulated international trade zones.",
-                "Proactive investment in compliance technology is becoming a mandatory operational baseline to transform emerging regulatory threats into sustainable long-term competitive advantages."
+                "AI-driven procurement and demand planning tools are shifting from optional assets to core business continuity requirements.",
+                "Warehouse robotics and automated load optimization are proving essential in countering persistent labor shortages and turnover rates.",
+                "Constraint-based planning is now the standard for biopharma and cold chain operations to ensure inventory integrity.",
+                "Intelligent orchestration is the next growth phase, moving beyond siloed tech toward fully integrated, predictive network visibility."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
