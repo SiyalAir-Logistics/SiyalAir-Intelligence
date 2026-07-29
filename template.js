@@ -1,39 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
-        "titleBlue": "RISK",
-        "footerSummary": "Nuclear broker liabilities, forced labor tariffs, and geopolitical channel shifts demand immediate freight network updates and strict customs compliance re-evaluation."
+        "titleWhite": "GLOBAL TRADE FRICTION",
+        "titleBlue": "SURGE",
+        "footerSummary": "New USTR forced labor tariffs on 60 nations and escalating geopolitical tensions in the Middle East create severe immediate volatility for global import transit."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "C.H. ROBINSON: LEGAL LIABILITY SHIFT",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "A Texas jury hit CH Robinson with a six hundred four million dollar negligent carrier selection verdict.",
-                "The ruling dramatically elevates liability risks for third-party logistics companies and freight brokers vetting motor carrier networks.",
-                "Shippers must transition from manual carrier onboarding to automated real-time compliance checks to mitigate nuclear legal liabilities.",
-                "Freight brokerages must overhaul their standard operating procedures to comply with heightened post-Montgomery carrier vetting requirements."
+                "The USTR is implementing mandatory 10 to 12.5 percent tariffs across 60 trading partners to address forced labor concerns as Section 122 duties expire.",
+                "This widespread trade policy shift forces immediate recalculation of landed costs for high-volume importers currently leveraging established global supply chain agreements.",
+                "Compliance teams must reconcile these new punitive measures with existing international trade frameworks to mitigate sudden financial exposure during clearing operations.",
+                "Stakeholders should anticipate potential clearance delays as customs processing adjusts to the broadened enforcement criteria across diverse international port terminals."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: MANDATORY FORCED LABOR TARIFFS",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "USTR: MANDATORY FORCED LABOR TARIFFS",
-            "points": [
-                "The United States Trade Representative is implementing forced labor-based tariffs on sixty trading partners starting immediately.",
-                "Imports from these designated nations face punitive tariffs of up to twelve point five percent on specific shipments.",
-                "Supply chain managers must audit global supplier origins to avoid immediate customs delays and severe financial penalties.",
-                "Multinationals are accelerating nearshoring and supplier diversification strategies to shield operations from escalating geopolitical tariff enforcement."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "USPS: GROUND ADVANTAGE RATE HIKES",
+            "nextUpTease": "RAILROAD MERGER FILING",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -41,67 +24,67 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "USPS: GROUND ADVANTAGE RATE HIKES",
+            "id": 2,
+            "heading": "RAILROAD: MERGER COMPETITION RISKS",
             "points": [
-                "The United States Postal Service raised Ground Advantage rates for lightweight marketplace packages on ecommerce platforms.",
-                "Rural delivery surcharges are increasing shipping costs by two to three dollars for targeted online retail transactions.",
-                "New noncompliance fees for hazardous materials like essential oils will catch unprepared ecommerce merchants by complete surprise.",
-                "Shippers must integrate dynamic rate calculators to preserve margin performance against these rising postal service transportation fees."
+                "BNSF leadership is formally challenging Union Pacific\u2019s latest $85 billion rail merger filings citing long-term risks to transcontinental pricing and carrier competitiveness.",
+                "Regulatory bodies are currently reviewing the supplemental data submissions to determine if the consolidation will significantly dampen domestic intermodal capacity and rate stability.",
+                "Market participants are bracing for potential service disruptions as major Class I carriers navigate intense scrutiny regarding their market dominance and operational pricing.",
+                "The ongoing legal and regulatory standoff threatens to stall infrastructure optimization plans while creating uncertainty for shippers reliant on transcontinental rail networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: FEES FLUIDITY RULING UPHELD",
+            "nextUpTease": "CARRIER LEGAL LIABILITY",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.freightwaves.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "CARRIER: LIABILITY & RISK",
+            "points": [
+                "A massive $604 million verdict against C.H. Robinson concerning vicarious liability for carrier negligence has created a precedent-setting crisis for freight brokers nationwide.",
+                "Industry analysts expect a sharp shift in carrier vetting procedures as 3PLs move to aggressively mitigate financial exposure following the stunning Texas court ruling.",
+                "Brokerage firms are rapidly updating their operational frameworks to minimize the risk of being held accountable for the actions of independent sub-contracted motor carriers.",
+                "Expect significant premium increases for liability insurance as the logistics sector absorbs the impact of this heightened judicial standard for freight intermediary accountability."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PACIFIC DATA INFRASTRUCTURE",
+            "tags": [
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FMC: FEES FLUIDITY RULING UPHELD",
+            "heading": "PACIFIC: DATA CENTER SURGE",
             "points": [
-                "The United States Court of Appeals upheld the Federal Maritime Commission rule on detention and demurrage fees.",
-                "Billing practices must strictly promote ocean freight fluidity and protect global importers from unfair terminal storage charges.",
-                "Ocean carriers face immediate compliance audits and potential civil penalties for charging non-compliant container detention fees.",
-                "Shippers gain legal leverage to challenge unreasonable carrier billings under the formalized ocean shipping reform framework guidelines."
+                "Trans-Pacific freight volumes are currently being sustained by an intense influx of hardware and infrastructure components destined for domestic data center expansion projects.",
+                "This specialized cargo demand is effectively masking broader underlying weaknesses in the consumer merchandise sector which remains suppressed due to current economic headwinds.",
+                "Logistics providers are realigning vessel space and equipment allocation to prioritize this high-margin infrastructure cargo while consumption patterns remain erratic and unpredictable.",
+                "The trend highlights a transition in shipping priorities where industrial tech builds are overriding traditional retail volume as the primary driver of trans-Pacific trade."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN CARRIERS: FUEL SURCHARGE SPIKES",
+            "nextUpTease": "MIDDLE EAST SHIP RISK",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OCEAN CARRIERS: FUEL SURCHARGE SPIKES",
+            "heading": "GEOPOLITICAL: HORMUZ THREATS",
             "points": [
-                "Escalating conflict near the Strait of Hormuz has severely disrupted global shipping lanes and virgin plastic supplies.",
-                "Ocean carriers are demanding emergency fuel surcharges to offset rising bunker costs from long vessel re-routing maneuvers.",
-                "Volatile supply chains force manufacturers to navigate erratic inventory flows and escalating raw polymer raw material prices.",
-                "Logistics directors must implement resilient multi-modal transport strategies to bypass high-risk geographic chokepoints and secure inventories."
+                "Escalating tensions in the Strait of Hormuz have triggered immediate sanctions against extortion networks and threatened critical maritime transit corridors for global energy shipments.",
+                "Supply chain managers are diversifying route strategies to bypass regional instability as fuel price volatility impacts operational margins for long-haul air and ocean carriers.",
+                "Insurance providers are re-evaluating risk premiums for vessels navigating these high-threat zones as military activities increase the likelihood of unexpected trade route blockages.",
+                "Immediate impacts are being felt in energy-dependent logistics sectors where consistent availability of refined petroleum products is critical for global network operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "J.B. HUNT: AGENTIC AI DISPATCH",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "J.B. HUNT: AGENTIC AI DISPATCH",
-            "points": [
-                "J.B. Hunt has deployed Overroute an agentic artificial intelligence technology developed within its specialized startup incubator.",
-                "The AI system optimizes freight dispatch and carrier selection workflows to maximize overall fleet utilization and margin.",
-                "Traditional transportation management software is shifting toward autonomous orchestration to replace slow manual logistics planning tasks.",
-                "Logistics providers implementing agentic AI will capture superior operating ratios by eliminating human delays in freight booking."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TSMC: SEMICONDUCTOR FREIGHT LOCALIZE",
+            "nextUpTease": "USPS RATE ADJUSTMENTS",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -109,13 +92,30 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "TSMC: SEMICONDUCTOR FREIGHT LOCALIZE",
+            "id": 6,
+            "heading": "USPS: MARKETPLACE RATE HIKE",
             "points": [
-                "Taiwan Semiconductor Manufacturing Company is investing an additional one hundred billion dollars to build four US factories.",
-                "The massive expansion will construct advanced semiconductor fabrication facilities to secure critical high-tech hardware supply chains domestic.",
-                "Hardware logistics planning must adapt to localized microchip manufacturing networks and shifting international air freight traffic flows.",
-                "Tech companies will mitigate geopolitical sourcing risks by leveraging highly resilient regionalized manufacturing hubs in North America."
+                "USPS has implemented significant rate hikes for lightweight parcels sold on major e-commerce marketplaces creating fresh cost friction for high-volume digital merchant segments.",
+                "Increased charges for rural shipping destinations are further squeezing profit margins for sellers who rely on cost-effective postal services for last-mile distribution networks.",
+                "Marketplace platforms are forcing sellers to update their automated shipping configurations to avoid noncompliance fees and delayed transit times for end-to-end customer deliveries.",
+                "Operational reliance on postal infrastructure is being scrutinized as sellers seek diversified logistics partners to mitigate the impact of sudden, tiered price increases."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "GLOBAL TRADE COMPLIANCE",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "COMPLIANCE: FORCED LABOR AUDIT",
+            "points": [
+                "Companies are under intense pressure to standardize global supply chain auditing as new anti-forced labor regulations replace older trade duty frameworks worldwide.",
+                "Manufacturers are pivoting toward aggressive supplier diversification strategies to maintain compliance rigor while avoiding the sprawl of fragmented vendor networks and regulatory blind spots.",
+                "Financial risk is expanding for entities failing to provide comprehensive, granular documentation of their tier-n upstream production processes in highly regulated international trade zones.",
+                "Proactive investment in compliance technology is becoming a mandatory operational baseline to transform emerging regulatory threats into sustainable long-term competitive advantages."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
