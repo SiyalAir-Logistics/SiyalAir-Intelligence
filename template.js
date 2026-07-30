@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRADE TARIFFS RESHAPE",
-        "titleBlue": "LOGISTICS",
-        "footerSummary": "New USTR Section 301 tariffs on 60 nations and escalating Strait of Hormuz tensions are driving urgent, multi-channel rerouting and capacity cost surges."
+        "titleWhite": "TRADE TARIFFS EXPAND",
+        "titleBlue": "ENFORCEMENT",
+        "footerSummary": "USTR implements new forced-labor based tariffs on 60 nations effective immediately, signaling a sharp escalation in global trade compliance and supply chain friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR ENFORCEMENT: NEW TARIFFS",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "The USTR is implementing mandatory tariffs on 60 trading partners as Section 122 expires.",
-                "Importers face 10% to 12.5% duties effective immediately across a vast array of goods.",
-                "Compliance teams must reconcile these duties with existing forced-labor regulations to avoid fines.",
-                "Analysts anticipate a significant shift in sourcing strategies to mitigate cost-heavy supply chain impacts."
+                "The U.S. Trade Representative has finalized new tariffs on 60 trading partners targeting forced-labor compliance.",
+                "These measures replace expiring Section 122 duties with new 10% to 12.5% levies affecting broad global imports.",
+                "Importers must urgently audit origin documentation to mitigate risk of detention and increased landed cost volatility.",
+                "The policy shift signals a permanent move toward aggressive labor-based trade enforcement through 2026."
             ],
             "imageUrl": "",
-            "nextUpTease": "STORM DISRUPTION RISKS",
+            "nextUpTease": "MARITIME CHOKEPOINT WARFARE",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -25,15 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MARITIME RISK: HORMUZ TENSIONS",
+            "heading": "MARITIME: HORMUZ RISK ESCALATION",
             "points": [
-                "Ongoing military strikes near the Strait of Hormuz are disrupting critical global shipping chokepoints.",
-                "Carriers are rerouting vessels, significantly increasing transit times and overall operational reliability metrics.",
-                "Schedule reliability for top-tier container lines continues to decline amidst regional maritime warfare risks.",
-                "Insurance premiums for Middle Eastern lanes are surging as providers calculate high-risk geopolitical exposure."
+                "Vital shipping lanes in the Strait of Hormuz face severe disruption amid escalating maritime warfare and regional instability.",
+                "Schedule reliability for container carriers is plummeting as vessel operators navigate new frontlines and forced route changes.",
+                "The instability threatens global energy and dry bulk transit, forcing carriers to implement additional emergency surcharges.",
+                "Freight volatility is expected to persist as insurers adjust risk premiums for vessels crossing the chokepoint."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER LIABILITY VERDICTS",
+            "nextUpTease": "LTL CARRIER MARKET DYNAMICS",
             "tags": [
                 "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
@@ -42,49 +42,15 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "LEGAL RISK: BROKERAGE LIABILITY",
+            "heading": "LTL: CARRIER DEMAND GAPS",
             "points": [
-                "C.H. Robinson faces a massive $604 million verdict following a high-stakes negligent carrier selection case.",
-                "This landmark decision signals a shift in liability for 3PLs managing post-Montgomery regulatory standards.",
-                "Brokers are aggressively overhauling vetting protocols to protect against vicarious liability in freight disputes.",
-                "Industry experts warn that smaller brokerages may struggle to afford necessary insurance and compliance upgrades."
+                "Less-than-truckload carriers are reporting stagnant volume growth as demand fails to meet earlier aggressive annual forecasts.",
+                "Market reliance on dedicated trucking is increasing as shippers seek capacity stability amidst broader network instability.",
+                "Financial reports from major carriers show increased operational costs, pressuring margins in a competitive pricing environment.",
+                "Rate structures are expected to tighten as carriers prioritize yield over volume to maintain network profitability."
             ],
             "imageUrl": "",
-            "nextUpTease": "US CUSTOMS COMPLIANCE",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "COMPLIANCE: CHAMELEON CARRIERS",
-            "points": [
-                "New Senate legislation aims to eradicate chameleon carriers reopening under new names to escape penalties.",
-                "The FMCSA is directed to build advanced automated detection tools to flag suspicious carrier applications.",
-                "Stricter vetting processes are expected to remove thousands of non-compliant operators from the US network.",
-                "Logistics providers should expect increased audit frequency at weigh stations and border checkpoints nationwide."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT SURCHARGES",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AIR CARGO: FUEL VOLATILITY",
-            "points": [
-                "Global air cargo carriers are implementing bi-weekly fuel surcharge reviews to manage jet fuel price spikes.",
-                "Capacity tightening on key trade lanes is forcing forwarders into dynamic pricing models for yield.",
-                "High demand for memory chips in the AI sector is crowding out traditional air freight space.",
-                "Shippers face unpredictable landed costs as airlines pass through costs related to energy market volatility."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "E-COMMERCE FEE SHIFTS",
+            "nextUpTease": "JUDICIAL FREIGHT LIABILITY SHIFT",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
@@ -92,35 +58,69 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "E-COMMERCE: USPS RATE HIKES",
+            "id": 4,
+            "heading": "LEGAL: BROKER LIABILITY PRECEDENT",
             "points": [
-                "USPS has updated Ground Advantage rates for marketplace sellers, impacting small package shipping margins significantly.",
-                "Additional non-compliance fees for hazardous materials are catching many e-commerce merchants by surprise this week.",
-                "Marketplaces like Amazon are intensifying pressure on third-party sellers to optimize delivery and handling times.",
-                "Automated handling time features are becoming mandatory to avoid platform-level penalties for seller-fulfilled orders."
+                "A massive $604 million verdict against C.H. Robinson highlights rising legal risk for brokers regarding carrier selection.",
+                "Recent judicial interpretations of vicarious liability are forcing 3PLs to overhaul internal carrier vetting and compliance frameworks.",
+                "The ruling sets a high-stakes precedent for negligent hiring claims following the influential Montgomery court decision.",
+                "Brokers now face increased pressure to demonstrate rigorous safety audits for all contracted motor carrier partners."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRIAL REAL ESTATE",
+            "nextUpTease": "FMC DETENTION ENFORCEMENT",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.freightwaves.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "FMC: DETENTION FEE REGULATION",
+            "points": [
+                "The U.S. Court of Appeals has upheld the FMC mandate requiring detention fees to promote freight fluidity.",
+                "Regulatory oversight continues to tighten, targeting anticompetitive billing practices that penalize shippers for port congestion.",
+                "Ongoing investigations focus on ensuring transparency and fairness in demurrage charges across major U.S. port terminals.",
+                "Compliance with new billing standards is now a mandatory requirement for all VOCCs and MTOs nationwide."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "E-COMMERCE TARIFF IMPACTS",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "RETAIL: E-COMMERCE TARIFF PRESSURES",
+            "points": [
+                "Major e-commerce players like Shein are reporting significant operational friction due to ongoing FTC investigations and new tariffs.",
+                "Platforms are raising consumer prices to offset the impact of increased import duties and stricter compliance requirements.",
+                "Retailers are diversifying sourcing strategies to navigate the shifting regulatory landscape and avoid concentration risks.",
+                "Digital marketplace sellers face narrowing margins as logistics and duty costs climb ahead of the peak season."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RAIL FREIGHT RESTRUCTURING",
+            "tags": [
+                "Source: https://www.retaildive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REAL ESTATE: STABILIZED VACANCY",
+            "heading": "RAIL: MERGER AND CAPACITY SHIFTS",
             "points": [
-                "Industrial real estate vacancy rates hit 7.3% as demand aligns with new supply completions globally.",
-                "Companies are moving away from self-operated facilities in favor of outsourced, tech-enabled 3PL distribution networks.",
-                "Investment remains concentrated in modernized automated hubs that support high-velocity omnichannel and e-commerce growth.",
-                "Strategic industrial zoning is shifting as firms prioritize proximity to ports and major logistics corridors."
+                "Recent consolidation deals between major Class I railroads are reshaping competitive dynamics in the intermodal sector.",
+                "New federal funding initiatives are supporting the expansion of rail freight hubs to mitigate port-related supply chain bottlenecks.",
+                "Rail operators are optimizing network speed and dwell times to capture demand from long-haul over-the-road trucking shifts.",
+                "Shippers gain increased intermodal options as infrastructure investments improve service reliability across key domestic freight lanes."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
