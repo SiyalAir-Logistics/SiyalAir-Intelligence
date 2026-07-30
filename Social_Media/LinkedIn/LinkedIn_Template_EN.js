@@ -1,43 +1,43 @@
 if (typeof window !== 'undefined') { window.linkedinData = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL TRADE TARIFFS ESCALATE",
+        "hookTitle": "GLOBAL TRADE REGULATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR has implemented forced-labor tariffs on 60 nations, marking a major escalation in global trade compliance requirements."
+                "narration_line": "The United States Trade Representative enacted strict Section 301 tariffs on sixty trading partners to enforce global forced labor compliance."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Maritime volatility intensifies as the Strait of Hormuz becomes a frontline, driving up surcharges and threatening schedule reliability."
+                "narration_line": "C.H. Robinson faces a major six hundred four million dollar verdict that dramatically raises liability risks for third-party logistics brokers."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "LTL carriers face a demand shortfall, forcing a strategic shift toward yield-focused operations to protect network profitability."
+                "narration_line": "A federal court upheld crucial rules ensuring ocean carrier detention fees are strictly used to promote freight fluidity at ports."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A historic 604 million dollar verdict against C.H. Robinson has fundamentally increased the legal risk profile for freight brokers."
+                "narration_line": "Air cargo airlines are introducing frequent surcharge updates to pass soaring global jet fuel expenses directly onto commercial shippers."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Federal Maritime Commission is aggressively enforcing detention fee rules to ensure freight fluidity and prevent unfair charges."
+                "narration_line": "The postal service raised Ground Advantage rates for e-commerce deliveries, imposing heavy surcharges on lightweight packages sent to rural addresses."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Global e-commerce giants are hiking prices as new import tariffs and regulatory hurdles compress profit margins for mass retailers."
+                "narration_line": "Hostile drone attacks and new maritime security sanctions are escalating transport disruption and rising insurance costs across critical trade routes."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Class one railroad mergers are reshaping the domestic intermodal market, offering shippers new options to bypass trucking constraints."
+                "narration_line": "Proposed federal legislation introduces advanced automation tools to block fraudulent chameleon trucking carriers from operating under multiple identities."
             },
             {
                 "slide_index": 8,
@@ -50,43 +50,43 @@ if (typeof window !== 'undefined') { window.linkedinData = {
 if (typeof module !== 'undefined' && module.exports) { module.exports = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL TRADE TARIFFS ESCALATE",
+        "hookTitle": "GLOBAL TRADE REGULATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR has implemented forced-labor tariffs on 60 nations, marking a major escalation in global trade compliance requirements."
+                "narration_line": "The United States Trade Representative enacted strict Section 301 tariffs on sixty trading partners to enforce global forced labor compliance."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Maritime volatility intensifies as the Strait of Hormuz becomes a frontline, driving up surcharges and threatening schedule reliability."
+                "narration_line": "C.H. Robinson faces a major six hundred four million dollar verdict that dramatically raises liability risks for third-party logistics brokers."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "LTL carriers face a demand shortfall, forcing a strategic shift toward yield-focused operations to protect network profitability."
+                "narration_line": "A federal court upheld crucial rules ensuring ocean carrier detention fees are strictly used to promote freight fluidity at ports."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A historic 604 million dollar verdict against C.H. Robinson has fundamentally increased the legal risk profile for freight brokers."
+                "narration_line": "Air cargo airlines are introducing frequent surcharge updates to pass soaring global jet fuel expenses directly onto commercial shippers."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Federal Maritime Commission is aggressively enforcing detention fee rules to ensure freight fluidity and prevent unfair charges."
+                "narration_line": "The postal service raised Ground Advantage rates for e-commerce deliveries, imposing heavy surcharges on lightweight packages sent to rural addresses."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Global e-commerce giants are hiking prices as new import tariffs and regulatory hurdles compress profit margins for mass retailers."
+                "narration_line": "Hostile drone attacks and new maritime security sanctions are escalating transport disruption and rising insurance costs across critical trade routes."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Class one railroad mergers are reshaping the domestic intermodal market, offering shippers new options to bypass trucking constraints."
+                "narration_line": "Proposed federal legislation introduces advanced automation tools to block fraudulent chameleon trucking carriers from operating under multiple identities."
             },
             {
                 "slide_index": 8,

@@ -1,73 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRADE TARIFFS EXPAND",
-        "titleBlue": "ENFORCEMENT",
-        "footerSummary": "USTR implements new forced-labor based tariffs on 60 nations effective immediately, signaling a sharp escalation in global trade compliance and supply chain friction."
+        "titleWhite": "GLOBAL TRADE",
+        "titleBlue": "REGULATION",
+        "footerSummary": "New forced labor tariffs, massive 3PL liabilities, and targeted maritime regulations signal escalating compliance friction across global supply chains in 2026."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "USTR: COMPLIANCE ENFORCEMENT",
             "points": [
-                "The U.S. Trade Representative has finalized new tariffs on 60 trading partners targeting forced-labor compliance.",
-                "These measures replace expiring Section 122 duties with new 10% to 12.5% levies affecting broad global imports.",
-                "Importers must urgently audit origin documentation to mitigate risk of detention and increased landed cost volatility.",
-                "The policy shift signals a permanent move toward aggressive labor-based trade enforcement through 2026."
+                "The United States Trade Representative launched new Section 301 tariffs targeting sixty global trading partners.",
+                "Imports from affected countries face ten to twelve percent duties as old Section 122 tariffs expire.",
+                "Logistics networks must implement rapid origin audits to verify forced labor compliance across complex supply nodes.",
+                "Importers face severe financial penalties and cargo seizures if compliance documentation fails strict customs examinations."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME CHOKEPOINT WARFARE",
+            "nextUpTease": "ROBINSON: NUCLEAR LIABILITY",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HORMUZ RISK ESCALATION",
+            "heading": "ROBINSON: NUCLEAR LIABILITY",
             "points": [
-                "Vital shipping lanes in the Strait of Hormuz face severe disruption amid escalating maritime warfare and regional instability.",
-                "Schedule reliability for container carriers is plummeting as vessel operators navigate new frontlines and forced route changes.",
-                "The instability threatens global energy and dry bulk transit, forcing carriers to implement additional emergency surcharges.",
-                "Freight volatility is expected to persist as insurers adjust risk premiums for vessels crossing the chokepoint."
+                "C.H. Robinson faces a massive six hundred four million dollar nuclear verdict for negligent carrier selection.",
+                "This legal ruling escalates risk exposure for freight brokers using third-party motor carriers across the country.",
+                "Supply chain operators must implement rigorous safety screening protocols to mitigate vicarious liability and regulatory penalties.",
+                "Freight brokerages are adjusting carrier onboarding requirements to satisfy heightened standards set by recent court decisions."
             ],
             "imageUrl": "",
-            "nextUpTease": "LTL CARRIER MARKET DYNAMICS",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "LTL: CARRIER DEMAND GAPS",
-            "points": [
-                "Less-than-truckload carriers are reporting stagnant volume growth as demand fails to meet earlier aggressive annual forecasts.",
-                "Market reliance on dedicated trucking is increasing as shippers seek capacity stability amidst broader network instability.",
-                "Financial reports from major carriers show increased operational costs, pressuring margins in a competitive pricing environment.",
-                "Rate structures are expected to tighten as carriers prioritize yield over volume to maintain network profitability."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "JUDICIAL FREIGHT LIABILITY SHIFT",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "LEGAL: BROKER LIABILITY PRECEDENT",
-            "points": [
-                "A massive $604 million verdict against C.H. Robinson highlights rising legal risk for brokers regarding carrier selection.",
-                "Recent judicial interpretations of vicarious liability are forcing 3PLs to overhaul internal carrier vetting and compliance frameworks.",
-                "The ruling sets a high-stakes precedent for negligent hiring claims following the influential Montgomery court decision.",
-                "Brokers now face increased pressure to demonstrate rigorous safety audits for all contracted motor carrier partners."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FMC DETENTION ENFORCEMENT",
+            "nextUpTease": "FMC: DETENTION RULES",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -75,16 +41,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "FMC: DETENTION FEE REGULATION",
+            "id": 3,
+            "heading": "FMC: DETENTION RULES",
             "points": [
-                "The U.S. Court of Appeals has upheld the FMC mandate requiring detention fees to promote freight fluidity.",
-                "Regulatory oversight continues to tighten, targeting anticompetitive billing practices that penalize shippers for port congestion.",
-                "Ongoing investigations focus on ensuring transparency and fairness in demurrage charges across major U.S. port terminals.",
-                "Compliance with new billing standards is now a mandatory requirement for all VOCCs and MTOs nationwide."
+                "The D.C. Circuit Court upheld Federal Maritime Commission rules stating detention fees must promote cargo movement.",
+                "Ocean carriers and terminal operators face strict limitations on billing practices for delayed import container pick-ups.",
+                "Importers will gain transactional leverage as regulatory oversight targets unfair demurrage practices at commercial marine terminals.",
+                "Shipping lines must align dispute resolution procedures with federal guidelines to avoid severe regulatory enforcement actions."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE TARIFF IMPACTS",
+            "nextUpTease": "AIRLINES: FUEL SURCHARGES",
             "tags": [
                 "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
@@ -92,30 +58,64 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "RETAIL: E-COMMERCE TARIFF PRESSURES",
+            "id": 4,
+            "heading": "AIRLINES: FUEL SURCHARGES",
             "points": [
-                "Major e-commerce players like Shein are reporting significant operational friction due to ongoing FTC investigations and new tariffs.",
-                "Platforms are raising consumer prices to offset the impact of increased import duties and stricter compliance requirements.",
-                "Retailers are diversifying sourcing strategies to navigate the shifting regulatory landscape and avoid concentration risks.",
-                "Digital marketplace sellers face narrowing margins as logistics and duty costs climb ahead of the peak season."
+                "Global air cargo carriers are implementing bi-weekly reviews to adjust freight surcharges amid soaring fuel costs.",
+                "Rising jet fuel prices force freighter operators to pass volatile operating expenses directly to international shippers.",
+                "Rapid fuel price adjustments threaten budget predictability for high-value tech and electronic supply chain logistics programs.",
+                "Forwarders are negotiating fixed-rate contracts to hedge against sudden price spikes across major transpacific trade corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL FREIGHT RESTRUCTURING",
+            "nextUpTease": "USPS: RATE INCREASES",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.joc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "USPS: RATE INCREASES",
+            "points": [
+                "The United States Postal Service announced rate hikes for Ground Advantage packages utilized by online marketplaces.",
+                "Shipping lightweight items to rural locations will incur two to three dollar surcharges starting this week.",
+                "E-commerce merchants must reconfigure their shipping calculators to avoid margin erosion on multi-channel selling platforms.",
+                "Micro-shippers are exploring regional parcel carriers to bypass rising USPS operational costs for residential deliveries."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "HORMUZ: MARITIME SECURITY",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "HORMUZ: MARITIME SECURITY",
+            "points": [
+                "Geopolitical escalations in the Middle East disrupted Mediterranean maritime ports following targeted hostile drone attacks.",
+                "The United States government sanctioned an extortion network targeting container shipping vessels near the Strait of Hormuz.",
+                "Rising security premiums and transit delays force ocean carriers to reroute vessels away from dangerous shipping lanes.",
+                "Shippers face increased ocean freight rates and unstable schedules as global trade bottlenecks widen across key routes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "SENATE: CARRIER FRAUD",
+            "tags": [
+                "Source: https://www.cnbc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAIL: MERGER AND CAPACITY SHIFTS",
+            "heading": "SENATE: CARRIER FRAUD",
             "points": [
-                "Recent consolidation deals between major Class I railroads are reshaping competitive dynamics in the intermodal sector.",
-                "New federal funding initiatives are supporting the expansion of rail freight hubs to mitigate port-related supply chain bottlenecks.",
-                "Rail operators are optimizing network speed and dwell times to capture demand from long-haul over-the-road trucking shifts.",
-                "Shippers gain increased intermodal options as infrastructure investments improve service reliability across key domestic freight lanes."
+                "United States senators introduced the SAFE Act to eradicate fraudulent practices among opportunistic commercial motor carriers.",
+                "The legislation mandates advanced automation tools to detect chameleon carriers reopening under alternative transport identifying numbers.",
+                "Shipping brokers will gain improved visibility into carrier safety histories through modernized federal motor safety databases.",
+                "Eliminating illegal double-brokering schemes will stabilize domestic freight capacity and protect shippers from systemic cargo fraud."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
