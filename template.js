@@ -1,39 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE",
-        "titleBlue": "REGULATION",
-        "footerSummary": "New forced labor tariffs, massive 3PL liabilities, and targeted maritime regulations signal escalating compliance friction across global supply chains in 2026."
+        "titleWhite": "GLOBAL FREIGHT ARCHITECTURE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "New USTR forced labor tariffs and massive regulatory enforcement actions expose international importers to immediate capital and operational compliance risks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: COMPLIANCE ENFORCEMENT",
+            "heading": "USTR: GLOBAL FORCED LABOR TARIFFS",
             "points": [
-                "The United States Trade Representative launched new Section 301 tariffs targeting sixty global trading partners.",
-                "Imports from affected countries face ten to twelve percent duties as old Section 122 tariffs expire.",
-                "Logistics networks must implement rapid origin audits to verify forced labor compliance across complex supply nodes.",
-                "Importers face severe financial penalties and cargo seizures if compliance documentation fails strict customs examinations."
+                "USTR implements Section 301 tariffs targeting sixty global trading partners following the expiration of Section 122 duties.",
+                "Importers must immediately modify validation protocols to clear customs without incurring severe financial compliance penalties.",
+                "Regulatory enforcement shifts focus directly toward deep forensic audits of multi-tier international manufacturing supply chains.",
+                "Supply chain compliance engineers must deploy automated trace systems to verify non-forced labor material origins."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBINSON: NUCLEAR LIABILITY",
+            "nextUpTease": "DOJ: BILLION-DOLLAR TRADE FRAUD ENFORCEMENT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ROBINSON: NUCLEAR LIABILITY",
+            "heading": "DOJ: BILLION-DOLLAR TRADE FRAUD ENFORCEMENT",
             "points": [
-                "C.H. Robinson faces a massive six hundred four million dollar nuclear verdict for negligent carrier selection.",
-                "This legal ruling escalates risk exposure for freight brokers using third-party motor carriers across the country.",
-                "Supply chain operators must implement rigorous safety screening protocols to mitigate vicarious liability and regulatory penalties.",
-                "Freight brokerages are adjusting carrier onboarding requirements to satisfy heightened standards set by recent court decisions."
+                "The Department of Justice Trade Fraud Task Force officially surpasses one billion dollars in recoveries and penalties.",
+                "Strict customs audits are targeting double-invoicing schemes and misclassified country-of-origin documentation across major entry ports.",
+                "Logisticians face elevated scrutiny under newly expanded federal algorithms screening for systematic import duty evasion patterns.",
+                "Customs brokers must implement advanced digital verification pipelines to audit manifest accuracy prior to federal filing."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: DETENTION RULES",
+            "nextUpTease": "C.H. ROBINSON: NUCLEAR VERDICT REVERBERATIONS",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "C.H. ROBINSON: NUCLEAR VERDICT REVERBERATIONS",
+            "points": [
+                "A historic six hundred four million dollar verdict exposes freight brokers to unprecedented negligent carrier selection liabilities.",
+                "Vetting protocols must evolve beyond basic safety ratings to incorporate deep corporate and operational compliance histories.",
+                "Third-party logistics providers are restructuring carrier onboarding platforms to mitigate systemic legal and financial exposure risks.",
+                "Freight intermediaries must adopt automated continuous monitoring software to dynamically track carrier safety score changes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RHINE RIVER: SEVERE WATER-LEVEL DEPLETION",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -41,50 +58,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "FMC: DETENTION RULES",
-            "points": [
-                "The D.C. Circuit Court upheld Federal Maritime Commission rules stating detention fees must promote cargo movement.",
-                "Ocean carriers and terminal operators face strict limitations on billing practices for delayed import container pick-ups.",
-                "Importers will gain transactional leverage as regulatory oversight targets unfair demurrage practices at commercial marine terminals.",
-                "Shipping lines must align dispute resolution procedures with federal guidelines to avoid severe regulatory enforcement actions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIRLINES: FUEL SURCHARGES",
-            "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "AIRLINES: FUEL SURCHARGES",
+            "heading": "RHINE RIVER: SEVERE WATER-LEVEL DEPLETION",
             "points": [
-                "Global air cargo carriers are implementing bi-weekly reviews to adjust freight surcharges amid soaring fuel costs.",
-                "Rising jet fuel prices force freighter operators to pass volatile operating expenses directly to international shippers.",
-                "Rapid fuel price adjustments threaten budget predictability for high-value tech and electronic supply chain logistics programs.",
-                "Forwarders are negotiating fixed-rate contracts to hedge against sudden price spikes across major transpacific trade corridors."
+                "Perilously low water levels on the Rhine River halt critical European barge transport operations almost completely.",
+                "Low water surcharges are rising rapidly as carriers shift inland container volumes from barges to regional roads.",
+                "Importers must reroute northern European freight flows through rail alternatives to maintain stable delivery schedules.",
+                "Port congestion at Rotterdam and Antwerp is expected to intensify due to sudden inland logistics capacity bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: RATE INCREASES",
+            "nextUpTease": "USPS: MARKETPLACE GROUND ADVANTAGE SURCHARGE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "USPS: RATE INCREASES",
+            "heading": "USPS: MARKETPLACE GROUND ADVANTAGE SURCHARGE",
             "points": [
-                "The United States Postal Service announced rate hikes for Ground Advantage packages utilized by online marketplaces.",
-                "Shipping lightweight items to rural locations will incur two to three dollar surcharges starting this week.",
-                "E-commerce merchants must reconfigure their shipping calculators to avoid margin erosion on multi-channel selling platforms.",
-                "Micro-shippers are exploring regional parcel carriers to bypass rising USPS operational costs for residential deliveries."
+                "USPS implements sudden Ground Advantage rate hikes directly impacting multi-channel marketplace sellers utilizing automated shipping labels.",
+                "E-commerce platforms warn merchants of increased fulfillment costs for lightweight parcel deliveries to rural shipping destinations.",
+                "Online retailers must optimize automated box sizing to mitigate newly implemented noncompliance and dimensional weight fees.",
+                "Fulfillment operations are transitioning parcel volumes to regional private couriers to maintain competitive baseline delivery margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "HORMUZ: MARITIME SECURITY",
+            "nextUpTease": "DHL EXPRESS: FUEL SURCHARGE CALCULATION DROP",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -93,34 +93,34 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "HORMUZ: MARITIME SECURITY",
+            "heading": "DHL EXPRESS: FUEL SURCHARGE CALCULATION DROP",
             "points": [
-                "Geopolitical escalations in the Middle East disrupted Mediterranean maritime ports following targeted hostile drone attacks.",
-                "The United States government sanctioned an extortion network targeting container shipping vessels near the Strait of Hormuz.",
-                "Rising security premiums and transit delays force ocean carriers to reroute vessels away from dangerous shipping lanes.",
-                "Shippers face increased ocean freight rates and unstable schedules as global trade bottlenecks widen across key routes."
+                "DHL Express reduces import and export fuel surcharge calculations by two percentage points to capture market share.",
+                "This strategic pricing reduction runs completely counter to rate increases enacted by major global parcel competitors.",
+                "Shippers should recalculate dual-routing strategies to leverage these lower international express lane transportation access costs.",
+                "Dynamic pricing adjustments will pressure other regional air cargo providers to offer competitive freight lane concessions."
             ],
             "imageUrl": "",
-            "nextUpTease": "SENATE: CARRIER FRAUD",
+            "nextUpTease": "UPS: AUTOMATED VOLUME SCALING EXPANSION",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SENATE: CARRIER FRAUD",
+            "heading": "UPS: AUTOMATED VOLUME SCALING EXPANSION",
             "points": [
-                "United States senators introduced the SAFE Act to eradicate fraudulent practices among opportunistic commercial motor carriers.",
-                "The legislation mandates advanced automation tools to detect chameleon carriers reopening under alternative transport identifying numbers.",
-                "Shipping brokers will gain improved visibility into carrier safety histories through modernized federal motor safety databases.",
-                "Eliminating illegal double-brokering schemes will stabilize domestic freight capacity and protect shippers from systemic cargo fraud."
+                "UPS processes over two-thirds of domestic parcel volume through highly automated logistics facilities to cut handling expenses.",
+                "Smart sorting systems enable rapid capacity adjustments during seasonal demand spikes without requiring additional manual warehouse shifts.",
+                "Automated hubs are improving fulfillment accuracy while significantly reducing overall turnaround times on major distribution lanes.",
+                "Technical managers must integrate proprietary warehouse execution systems with standardized carrier APIs for seamless volume dispatching."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]

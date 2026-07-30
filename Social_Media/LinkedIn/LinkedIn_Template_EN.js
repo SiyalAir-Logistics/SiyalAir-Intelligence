@@ -1,43 +1,43 @@
 if (typeof window !== 'undefined') { window.linkedinData = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL TRADE REGULATION",
+        "hookTitle": "GLOBAL FREIGHT ARCHITECTURE SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative enacted strict Section 301 tariffs on sixty trading partners to enforce global forced labor compliance."
+                "narration_line": "USTR launches Section 301 forced labor tariffs on sixty nations, creating immediate supply chain compliance disruptions for global importers."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "C.H. Robinson faces a major six hundred four million dollar verdict that dramatically raises liability risks for third-party logistics brokers."
+                "narration_line": "The DOJ Trade Fraud Task Force hits one billion dollars in recoveries, escalating port audits and country-of-origin scrutiny."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A federal court upheld crucial rules ensuring ocean carrier detention fees are strictly used to promote freight fluidity at ports."
+                "narration_line": "A historic six hundred million dollar nuclear verdict increases legal and liability exposure for freight broker carrier selection practices."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Air cargo airlines are introducing frequent surcharge updates to pass soaring global jet fuel expenses directly onto commercial shippers."
+                "narration_line": "Low water levels on the Rhine River restrict European barge operations, forcing cargo onto constrained regional road networks."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The postal service raised Ground Advantage rates for e-commerce deliveries, imposing heavy surcharges on lightweight packages sent to rural addresses."
+                "narration_line": "USPS increases Ground Advantage parcel rates, directly raising lightweight shipping costs for major online marketplace merchants."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Hostile drone attacks and new maritime security sanctions are escalating transport disruption and rising insurance costs across critical trade routes."
+                "narration_line": "DHL Express decreases fuel surcharge calculations by two percentage points, deviating from competitor pricing trends to capture global market share."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Proposed federal legislation introduces advanced automation tools to block fraudulent chameleon trucking carriers from operating under multiple identities."
+                "narration_line": "UPS automates over two-thirds of domestic shipping volume, drastically lowering transit processing costs and seasonal fulfillment bottlenecks."
             },
             {
                 "slide_index": 8,
@@ -50,43 +50,43 @@ if (typeof window !== 'undefined') { window.linkedinData = {
 if (typeof module !== 'undefined' && module.exports) { module.exports = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL TRADE REGULATION",
+        "hookTitle": "GLOBAL FREIGHT ARCHITECTURE SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative enacted strict Section 301 tariffs on sixty trading partners to enforce global forced labor compliance."
+                "narration_line": "USTR launches Section 301 forced labor tariffs on sixty nations, creating immediate supply chain compliance disruptions for global importers."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "C.H. Robinson faces a major six hundred four million dollar verdict that dramatically raises liability risks for third-party logistics brokers."
+                "narration_line": "The DOJ Trade Fraud Task Force hits one billion dollars in recoveries, escalating port audits and country-of-origin scrutiny."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A federal court upheld crucial rules ensuring ocean carrier detention fees are strictly used to promote freight fluidity at ports."
+                "narration_line": "A historic six hundred million dollar nuclear verdict increases legal and liability exposure for freight broker carrier selection practices."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Air cargo airlines are introducing frequent surcharge updates to pass soaring global jet fuel expenses directly onto commercial shippers."
+                "narration_line": "Low water levels on the Rhine River restrict European barge operations, forcing cargo onto constrained regional road networks."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The postal service raised Ground Advantage rates for e-commerce deliveries, imposing heavy surcharges on lightweight packages sent to rural addresses."
+                "narration_line": "USPS increases Ground Advantage parcel rates, directly raising lightweight shipping costs for major online marketplace merchants."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Hostile drone attacks and new maritime security sanctions are escalating transport disruption and rising insurance costs across critical trade routes."
+                "narration_line": "DHL Express decreases fuel surcharge calculations by two percentage points, deviating from competitor pricing trends to capture global market share."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Proposed federal legislation introduces advanced automation tools to block fraudulent chameleon trucking carriers from operating under multiple identities."
+                "narration_line": "UPS automates over two-thirds of domestic shipping volume, drastically lowering transit processing costs and seasonal fulfillment bottlenecks."
             },
             {
                 "slide_index": 8,
