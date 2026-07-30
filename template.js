@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT ARCHITECTURE",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "New USTR forced labor tariffs and massive regulatory enforcement actions expose international importers to immediate capital and operational compliance risks."
+        "titleWhite": "LOGISTICS COMPLIANCE",
+        "titleBlue": "RISKS",
+        "footerSummary": "Forensic analysis of major trade policy moves, nuclear legal verdicts, last-mile surcharge hikes, and maritime vulnerabilities reshaping global distribution networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: GLOBAL FORCED LABOR TARIFFS",
+            "heading": "USTR: TARIFF IMPLEMENTATION FORCE",
             "points": [
-                "USTR implements Section 301 tariffs targeting sixty global trading partners following the expiration of Section 122 duties.",
-                "Importers must immediately modify validation protocols to clear customs without incurring severe financial compliance penalties.",
-                "Regulatory enforcement shifts focus directly toward deep forensic audits of multi-tier international manufacturing supply chains.",
-                "Supply chain compliance engineers must deploy automated trace systems to verify non-forced labor material origins."
+                "The United States Trade Representative implements aggressive Section 301 tariffs targeting sixty global trading partners immediately.",
+                "Importers face substantial tariff increases on goods sourced from countries linked directly to forced labor practices.",
+                "The regulatory shift replaces expired Section 122 protections to enforce strict compliance across global supply networks.",
+                "Logistics managers must rapidly audit international suppliers to mitigate multi-million dollar customs duties and disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: BILLION-DOLLAR TRADE FRAUD ENFORCEMENT",
+            "nextUpTease": "CH ROBINSON: NUCLEAR VERDICT SHOCK",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -25,32 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "DOJ: BILLION-DOLLAR TRADE FRAUD ENFORCEMENT",
+            "heading": "CH ROBINSON: NUCLEAR VERDICT SHOCK",
             "points": [
-                "The Department of Justice Trade Fraud Task Force officially surpasses one billion dollars in recoveries and penalties.",
-                "Strict customs audits are targeting double-invoicing schemes and misclassified country-of-origin documentation across major entry ports.",
-                "Logisticians face elevated scrutiny under newly expanded federal algorithms screening for systematic import duty evasion patterns.",
-                "Customs brokers must implement advanced digital verification pipelines to audit manifest accuracy prior to federal filing."
+                "A Dallas jury delivers an unprecedented six hundred four million dollar verdict against C.H. Robinson.",
+                "The landmark ruling sets a dangerous precedent regarding vicarious liability for freight brokers selecting negligent carriers.",
+                "Brokerage firms face immediate rating downgrades and surging insurance premiums following this massive legal liability case.",
+                "Freight intermediaries must implement advanced carrier vetting systems to defend against severe third-party legal claims."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON: NUCLEAR VERDICT REVERBERATIONS",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "C.H. ROBINSON: NUCLEAR VERDICT REVERBERATIONS",
-            "points": [
-                "A historic six hundred four million dollar verdict exposes freight brokers to unprecedented negligent carrier selection liabilities.",
-                "Vetting protocols must evolve beyond basic safety ratings to incorporate deep corporate and operational compliance histories.",
-                "Third-party logistics providers are restructuring carrier onboarding platforms to mitigate systemic legal and financial exposure risks.",
-                "Freight intermediaries must adopt automated continuous monitoring software to dynamically track carrier safety score changes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RHINE RIVER: SEVERE WATER-LEVEL DEPLETION",
+            "nextUpTease": "PORT INFRASTRUCTURE: DRONE ATTACK FIRE",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -58,33 +41,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "RHINE RIVER: SEVERE WATER-LEVEL DEPLETION",
+            "id": 3,
+            "heading": "PORT INFRASTRUCTURE: DRONE ATTACK FIRE",
             "points": [
-                "Perilously low water levels on the Rhine River halt critical European barge transport operations almost completely.",
-                "Low water surcharges are rising rapidly as carriers shift inland container volumes from barges to regional roads.",
-                "Importers must reroute northern European freight flows through rail alternatives to maintain stable delivery schedules.",
-                "Port congestion at Rotterdam and Antwerp is expected to intensify due to sudden inland logistics capacity bottlenecks."
+                "A hostile drone attack sparks a major fire at an Egyptian Mediterranean port, hitting critical assets.",
+                "The strike damaged a US floating regasification vessel and ignited an adjacent Greek-owned liquid natural gas tanker.",
+                "Geopolitical conflict in the Mediterranean region exposes vulnerable global maritime energy supply routes to severe hazards.",
+                "Energy logistics operators must reinforce maritime security and prepare alternative routing for liquid gas cargo transport."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: MARKETPLACE GROUND ADVANTAGE SURCHARGE",
+            "nextUpTease": "USPS: MARKETPLACE SHIPPING SURCHARGES",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 5,
-            "heading": "USPS: MARKETPLACE GROUND ADVANTAGE SURCHARGE",
+            "id": 4,
+            "heading": "USPS: MARKETPLACE SHIPPING SURCHARGES",
             "points": [
-                "USPS implements sudden Ground Advantage rate hikes directly impacting multi-channel marketplace sellers utilizing automated shipping labels.",
-                "E-commerce platforms warn merchants of increased fulfillment costs for lightweight parcel deliveries to rural shipping destinations.",
-                "Online retailers must optimize automated box sizing to mitigate newly implemented noncompliance and dimensional weight fees.",
-                "Fulfillment operations are transitioning parcel volumes to regional private couriers to maintain competitive baseline delivery margins."
+                "United States Postal Service raises package ground rates, directly impacting marketplace sellers across major digital platforms.",
+                "Lightweight parcel shipments to rural destinations now incur an additional two to three dollar delivery surcharge.",
+                "The targeted pricing adjustments pressure e-commerce merchants to optimize their regional micro-fulfillment and distribution network.",
+                "Digital marketplaces warn sellers to adjust shipping pricing models to preserve margin integrity against rising costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "DHL EXPRESS: FUEL SURCHARGE CALCULATION DROP",
+            "nextUpTease": "OCEAN FREIGHT: HORMUZ SECURITY SQUEEZE",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -92,16 +75,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "DHL EXPRESS: FUEL SURCHARGE CALCULATION DROP",
+            "id": 5,
+            "heading": "OCEAN FREIGHT: HORMUZ SECURITY SQUEEZE",
             "points": [
-                "DHL Express reduces import and export fuel surcharge calculations by two percentage points to capture market share.",
-                "This strategic pricing reduction runs completely counter to rate increases enacted by major global parcel competitors.",
-                "Shippers should recalculate dual-routing strategies to leverage these lower international express lane transportation access costs.",
-                "Dynamic pricing adjustments will pressure other regional air cargo providers to offer competitive freight lane concessions."
+                "United States sanctions a hostile extortion network actively targeting commercial ocean shipping in the Hormuz Strait.",
+                "Ocean carriers experience high schedule volatility and rising war risk insurance surcharges across Middle Eastern lanes.",
+                "The geopolitical tension threatens critical global trade flows, forcing shippers to evaluate long-term cape route detours.",
+                "Maritime logistics planners must monitor regional naval deployments to adjust transit times and cargo safety metrics."
             ],
             "imageUrl": "",
-            "nextUpTease": "UPS: AUTOMATED VOLUME SCALING EXPANSION",
+            "nextUpTease": "CUSTOMS COMPLIANCE: SECTION 301 LITIGATION",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "CUSTOMS COMPLIANCE: SECTION 301 LITIGATION",
+            "points": [
+                "Importers file a major lawsuit seeking refunds on Section 301 tariffs imposed for forced labor regulations.",
+                "The plaintiffs argue the trade levies bypass traditional congressional authority and unfairly penalize compliant manufacturing operations.",
+                "A successful legal outcome could spark billions of dollars in customs refunds for global sourcing networks.",
+                "Supply chain executives must carefully document all tariff payments to capitalize on potential future refund rulings."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CLASS I RAILWAYS: MERGER CONCESSIONS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
@@ -110,12 +110,12 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "UPS: AUTOMATED VOLUME SCALING EXPANSION",
+            "heading": "CLASS I RAILWAYS: MERGER CONCESSIONS",
             "points": [
-                "UPS processes over two-thirds of domestic parcel volume through highly automated logistics facilities to cut handling expenses.",
-                "Smart sorting systems enable rapid capacity adjustments during seasonal demand spikes without requiring additional manual warehouse shifts.",
-                "Automated hubs are improving fulfillment accuracy while significantly reducing overall turnaround times on major distribution lanes.",
-                "Technical managers must integrate proprietary warehouse execution systems with standardized carrier APIs for seamless volume dispatching."
+                "Canadian National agrees not to contest the proposed Norfolk Southern and Union Pacific railroad merger transaction.",
+                "The regulatory settlement guarantees Canadian National crucial physical access to strategic competitive shipper industrial production sites.",
+                "The domestic rail consolidation reshapes intermodal freight transport across North America, altering routing options for shippers.",
+                "Intermodal logistics managers should renegotiate volume contracts early to leverage new competitive service routing and rates."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
