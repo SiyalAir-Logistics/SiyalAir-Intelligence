@@ -1,39 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
-        "titleBlue": "RECALIBRATION",
-        "footerSummary": "Escalating trade enforcement and critical resource constraints are forcing rapid, systemic shifts in international logistics and carrier risk management strategies."
+        "titleWhite": "TRADE TARIFFS RESHAPE",
+        "titleBlue": "LOGISTICS",
+        "footerSummary": "New USTR Section 301 tariffs on 60 nations and escalating Strait of Hormuz tensions are driving urgent, multi-channel rerouting and capacity cost surges."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DOJ ENFORCEMENT: TRADE FRAUD CRACKDOWN",
+            "heading": "USTR ENFORCEMENT: NEW TARIFFS",
             "points": [
-                "Justice Department's Trade Fraud Task Force has surpassed $1 billion in total recoveries and penalties.",
-                "Federal oversight now targets systemic customs evasion, impacting manufacturers and importers across the logistics sector.",
-                "Increased litigation risk necessitates rigorous document trails and audit-ready compliance frameworks for international trade participants.",
-                "Stakeholders must prepare for granular inspections as federal agencies accelerate enforcement actions to safeguard domestic markets."
+                "The USTR is implementing mandatory tariffs on 60 trading partners as Section 122 expires.",
+                "Importers face 10% to 12.5% duties effective immediately across a vast array of goods.",
+                "Compliance teams must reconcile these duties with existing forced-labor regulations to avoid fines.",
+                "Analysts anticipate a significant shift in sourcing strategies to mitigate cost-heavy supply chain impacts."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFF ARCHITECTURE",
-            "tags": [
-                "Source: https://www.cbp.gov",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "TARIFF ARCHITECTURE: SECTION 301 EXPANSION",
-            "points": [
-                "USTR is implementing broad Section 301 tariffs across 60 trading partners as legacy Section 122 duties expire.",
-                "Shift triggers significant cost volatility for trans-Pacific and global procurement cycles, forcing immediate supply chain renegotiations.",
-                "Companies face dual pressure from forced labor-based tariffs and evolving geopolitical trade stances in regional networks.",
-                "Operational agility is critical as shippers manage shifting landed costs and potential duty-related financial exposure."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CARRIER LIABILITY",
+            "nextUpTease": "STORM DISRUPTION RISKS",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
@@ -41,16 +24,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "CARRIER LIABILITY: LEGAL RISK SURGE",
+            "id": 2,
+            "heading": "MARITIME RISK: HORMUZ TENSIONS",
             "points": [
-                "A $604 million nuclear verdict against C.H. Robinson has intensified industry scrutiny on negligent carrier selection protocols.",
-                "Brokers and 3PLs must re-evaluate vetting automation and vicarious liability standards following the precedent-setting Montgomery case ruling.",
-                "The legal landscape now demands higher-fidelity vetting systems to mitigate exposure from third-party motor carrier performance failures.",
-                "Insurance premiums and operational scrutiny will likely rise as legal standards for freight intermediaries become increasingly stringent."
+                "Ongoing military strikes near the Strait of Hormuz are disrupting critical global shipping chokepoints.",
+                "Carriers are rerouting vessels, significantly increasing transit times and overall operational reliability metrics.",
+                "Schedule reliability for top-tier container lines continues to decline amidst regional maritime warfare risks.",
+                "Insurance premiums for Middle Eastern lanes are surging as providers calculate high-risk geopolitical exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "STRATEGIC INFRASTRUCTURE",
+            "nextUpTease": "CARRIER LIABILITY VERDICTS",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "LEGAL RISK: BROKERAGE LIABILITY",
+            "points": [
+                "C.H. Robinson faces a massive $604 million verdict following a high-stakes negligent carrier selection case.",
+                "This landmark decision signals a shift in liability for 3PLs managing post-Montgomery regulatory standards.",
+                "Brokers are aggressively overhauling vetting protocols to protect against vicarious liability in freight disputes.",
+                "Industry experts warn that smaller brokerages may struggle to afford necessary insurance and compliance upgrades."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "US CUSTOMS COMPLIANCE",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -59,15 +59,15 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "STRATEGIC INFRASTRUCTURE: RAIL DYNAMICS",
+            "heading": "COMPLIANCE: CHAMELEON CARRIERS",
             "points": [
-                "Georgia is executing a critical multi-mile truck-only lane project on I-75 to de-conflict commercial traffic flow.",
-                "Class I rail mergers remain under intense regulatory review as BNSF and others challenge anti-competitive capacity consolidation proposals.",
-                "Persistent dwell time monitoring remains essential for shippers as trans-continental rail networks navigate evolving volume surges.",
-                "Infrastructure investment patterns indicate a shift toward high-capacity, dedicated freight corridors to resolve regional bottlenecks."
+                "New Senate legislation aims to eradicate chameleon carriers reopening under new names to escape penalties.",
+                "The FMCSA is directed to build advanced automated detection tools to flag suspicious carrier applications.",
+                "Stricter vetting processes are expected to remove thousands of non-compliant operators from the US network.",
+                "Logistics providers should expect increased audit frequency at weigh stations and border checkpoints nationwide."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY SECURITY",
+            "nextUpTease": "AIR FREIGHT SURCHARGES",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
@@ -76,32 +76,32 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "ENERGY SECURITY: STRAIT VOLATILITY",
+            "heading": "AIR CARGO: FUEL VOLATILITY",
             "points": [
-                "Global Brent crude prices are exhibiting extreme volatility following renewed tensions in the Strait of Hormuz supply corridor.",
-                "Maritime operators face mounting insurance and transit risks as geopolitical instability threatens critical fuel and cargo lifelines.",
-                "Fuel surcharge indexing is becoming increasingly unpredictable, requiring real-time adjustment models for transport cost forecasting.",
-                "Strategic inventory stockpiling is recommended to insulate operations from potential localized disruption in maritime transit zones."
+                "Global air cargo carriers are implementing bi-weekly fuel surcharge reviews to manage jet fuel price spikes.",
+                "Capacity tightening on key trade lanes is forcing forwarders into dynamic pricing models for yield.",
+                "High demand for memory chips in the AI sector is crowding out traditional air freight space.",
+                "Shippers face unpredictable landed costs as airlines pass through costs related to energy market volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE COMPLIANCE",
+            "nextUpTease": "E-COMMERCE FEE SHIFTS",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "E-COMMERCE COMPLIANCE: MARKETPLACE SHIFTS",
+            "heading": "E-COMMERCE: USPS RATE HIKES",
             "points": [
-                "New EU import fees on low-value goods are disrupting e-commerce volumes and reducing air freighter capacity utilization.",
-                "Marketplace sellers face heightened compliance requirements as platforms automate handling-time and documentation protocols for cross-border transit.",
-                "Amazon and eBay are tightening third-party seller oversight to mitigate risks linked to regulatory non-compliance and fraud.",
-                "Consolidation of e-commerce fulfillment is accelerating as firms seek to optimize logistics costs amid shifting duty landscapes."
+                "USPS has updated Ground Advantage rates for marketplace sellers, impacting small package shipping margins significantly.",
+                "Additional non-compliance fees for hazardous materials are catching many e-commerce merchants by surprise this week.",
+                "Marketplaces like Amazon are intensifying pressure on third-party sellers to optimize delivery and handling times.",
+                "Automated handling time features are becoming mandatory to avoid platform-level penalties for seller-fulfilled orders."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI LOGISTICS",
+            "nextUpTease": "INDUSTRIAL REAL ESTATE",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "AI LOGISTICS: PROCUREMENT ORCHESTRATION",
+            "heading": "REAL ESTATE: STABILIZED VACANCY",
             "points": [
-                "AI-driven procurement and demand planning tools are shifting from optional assets to core business continuity requirements.",
-                "Warehouse robotics and automated load optimization are proving essential in countering persistent labor shortages and turnover rates.",
-                "Constraint-based planning is now the standard for biopharma and cold chain operations to ensure inventory integrity.",
-                "Intelligent orchestration is the next growth phase, moving beyond siloed tech toward fully integrated, predictive network visibility."
+                "Industrial real estate vacancy rates hit 7.3% as demand aligns with new supply completions globally.",
+                "Companies are moving away from self-operated facilities in favor of outsourced, tech-enabled 3PL distribution networks.",
+                "Investment remains concentrated in modernized automated hubs that support high-velocity omnichannel and e-commerce growth.",
+                "Strategic industrial zoning is shifting as firms prioritize proximity to ports and major logistics corridors."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]

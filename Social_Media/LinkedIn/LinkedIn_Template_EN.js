@@ -1,43 +1,43 @@
 if (typeof window !== 'undefined') { window.linkedinData = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE RECALIBRATION",
+        "hookTitle": "TRADE TARIFFS RESHAPE LOGISTICS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The DOJ Trade Fraud Task Force has officially surpassed one billion dollars in recovered assets and penalties this year."
+                "narration_line": "USTR is imposing new tariffs on 60 nations, forcing an immediate, cost-intensive pivot in global sourcing and compliance strategies."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The USTR is rolling out broad Section 301 tariffs against sixty trading partners, impacting global trade flow costs."
+                "narration_line": "Escalating tensions at the Strait of Hormuz are triggering major vessel rerouting and increased insurance premiums for Middle East trade."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A six hundred million dollar legal verdict is forcing logistics brokers to tighten their third-party carrier vetting protocols."
+                "narration_line": "A massive 604 million dollar brokerage verdict is forcing a total industry overhaul of carrier vetting and vicarious liability protocols."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Georgia is advancing critical freight infrastructure by building massive, truck-only lane networks to reduce interstate congestion."
+                "narration_line": "New US legislation targets chameleon carriers, deploying automated detection tools to purge non-compliant operators from national freight networks."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Volatility in the Strait of Hormuz is causing significant spikes in global oil prices and maritime transit insurance."
+                "narration_line": "Air cargo carriers are accelerating fuel surcharge reviews as market volatility and AI chip demand squeeze available capacity and margins."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New EU import fees are disrupting low-value e-commerce volumes and forcing a re-evaluation of international shipping strategies."
+                "narration_line": "USPS rate adjustments and new hazmat fees are creating sudden, margin-eroding obstacles for high-volume marketplace e-commerce sellers this month."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "AI-driven orchestration is now essential for supply chain resilience, scaling warehouse throughput while mitigating labor-related operational risks."
+                "narration_line": "Industrial real estate vacancies are stabilizing at 7.3 percent, signaling a shift toward outsourced, automated distribution as primary operations."
             },
             {
                 "slide_index": 8,
@@ -50,43 +50,43 @@ if (typeof window !== 'undefined') { window.linkedinData = {
 if (typeof module !== 'undefined' && module.exports) { module.exports = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE RECALIBRATION",
+        "hookTitle": "TRADE TARIFFS RESHAPE LOGISTICS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The DOJ Trade Fraud Task Force has officially surpassed one billion dollars in recovered assets and penalties this year."
+                "narration_line": "USTR is imposing new tariffs on 60 nations, forcing an immediate, cost-intensive pivot in global sourcing and compliance strategies."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The USTR is rolling out broad Section 301 tariffs against sixty trading partners, impacting global trade flow costs."
+                "narration_line": "Escalating tensions at the Strait of Hormuz are triggering major vessel rerouting and increased insurance premiums for Middle East trade."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A six hundred million dollar legal verdict is forcing logistics brokers to tighten their third-party carrier vetting protocols."
+                "narration_line": "A massive 604 million dollar brokerage verdict is forcing a total industry overhaul of carrier vetting and vicarious liability protocols."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Georgia is advancing critical freight infrastructure by building massive, truck-only lane networks to reduce interstate congestion."
+                "narration_line": "New US legislation targets chameleon carriers, deploying automated detection tools to purge non-compliant operators from national freight networks."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Volatility in the Strait of Hormuz is causing significant spikes in global oil prices and maritime transit insurance."
+                "narration_line": "Air cargo carriers are accelerating fuel surcharge reviews as market volatility and AI chip demand squeeze available capacity and margins."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New EU import fees are disrupting low-value e-commerce volumes and forcing a re-evaluation of international shipping strategies."
+                "narration_line": "USPS rate adjustments and new hazmat fees are creating sudden, margin-eroding obstacles for high-volume marketplace e-commerce sellers this month."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "AI-driven orchestration is now essential for supply chain resilience, scaling warehouse throughput while mitigating labor-related operational risks."
+                "narration_line": "Industrial real estate vacancies are stabilizing at 7.3 percent, signaling a shift toward outsourced, automated distribution as primary operations."
             },
             {
                 "slide_index": 8,
