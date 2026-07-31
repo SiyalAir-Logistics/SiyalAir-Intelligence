@@ -22,7 +22,7 @@ on:
       - 'Social_Media/**'      # Prevent re-entrant triggers from template code updates
   workflow_dispatch:
   schedule:
-    - cron: '16 * * * *'       # Primary precise hourly trigger (runs at :16 past every hour)
+    - cron: '16 * * * *'       # Primary precise hourly trigger (runs at :16 past every hour each hour)
 
 jobs:
   run-engine:
