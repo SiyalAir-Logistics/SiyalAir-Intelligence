@@ -1,22 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "LOGISTICS INFRASTRUCTURE SHIFTING",
-        "titleBlue": "AUTONOMY",
-        "footerSummary": "Escalating geopolitical instability and regulatory crackdowns on trade fraud are forcing a structural pivot toward AI-integrated logistics and redundant global supply chain networks."
+        "titleWhite": "GLOBAL TRADE FRICTION",
+        "titleBlue": "SPIKE",
+        "footerSummary": "Regulatory enforcement reaches billion-dollar milestones as trade-war tariffs and carrier liability rulings trigger immediate, high-stakes shifts in cross-border operational compliance frameworks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FREIGHT BROKERAGE: NUCLEAR LIABILITY",
+            "heading": "USTR ENFORCEMENT: SECTION 301 EXPANSION",
             "points": [
-                "The $604 million advisory verdict against C.H. Robinson has triggered a fundamental reassessment of carrier vetting and vicarious liability within the brokerage sector.",
-                "Legal departments across major 3PLs are scrambling to formalize stricter compliance audits to mitigate risks associated with negligent hiring in a litigious judicial environment.",
-                "Brokerage networks are experiencing increased consolidation as independent agents seek the relative safety and technological support of larger, capitalized carrier platforms.",
-                "Shipper demand for data-backed carrier vetting protocols is reaching record highs as they attempt to insulate their supply chains from secondary liability exposure."
+                "The Office of the United States Trade Representative is implementing forced labor-based tariffs across sixty trading nations.",
+                "This action follows the expiration of Section 122 tariffs, creating immediate cost-structure shifts for international importers.",
+                "Manufacturers must re-evaluate supply chain sourcing strategies to mitigate the impact of these broad-based duty hikes.",
+                "Legal challenges regarding the removal and refund of these levies are already surfacing in federal court dockets."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI-DRIVEN PRODUCTIVITY",
+            "nextUpTease": "BROKER LIABILITY RISKS",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "LEGAL PRECEDENT: BROKER LIABILITY SHIFT",
+            "points": [
+                "A Dallas County jury issued a six hundred four million dollar advisory verdict against C.H. Robinson.",
+                "The case centers on negligent carrier selection, signaling a potential paradigm shift in freight broker liability exposure.",
+                "Legal experts anticipate extensive appeals, yet the ruling forces immediate internal audits of vetting and compliance protocols.",
+                "Brokerage firms now face heightened requirements for verifying carrier safety records to avoid vicarious liability exposure."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CARRIER CAPACITY TRENDS",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "CAPACITY CRUNCH: PEAK SEASON DYNAMICS",
+            "points": [
+                "Transpacific spot rates are testing resilience as carriers push for rate hikes ahead of peak season.",
+                "Capacity remains tight despite slight downward trends in specific trade lanes, maintaining pressure on global shippers.",
+                "Major carriers are aggressively scaling infrastructure and shuttle strategies to capture AI-driven productivity gains amid instability.",
+                "Early peak season indicators suggest a new baseline for Q4 volume, challenging existing inventory planning models."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FORCED LABOR COMPLIANCE",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -24,50 +58,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "LOGISTICS TECH: AI SCALING",
-            "points": [
-                "Global freight forwarders including DSV and Kuehne+Nagel are aggressively scaling investments to capture AI-driven productivity gains estimated in the hundreds of millions annually.",
-                "Agentic AI models are shifting from experimental pilots to core operational layers tasked with automating sales, demand planning, and complex yard management workflows.",
-                "The rapid integration of AI agents is accelerating the displacement of manual data entry tasks, directly challenging traditional freight forwarding labor structures.",
-                "Forwarders unable to deploy unified transport intelligence face immediate margin compression as automated competitors achieve superior throughput and predictive accuracy."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LABOR PIPELINE SECURITY",
-            "tags": [
-                "Source: https://www.theloadstar.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "WORKFORCE: FREEDOM HAULERS INITIATIVE",
-            "points": [
-                "The administration launched the Freedom Haulers initiative to establish an automated pipeline for transitioning military veterans directly into commercial driving careers.",
-                "This program aims to resolve long-standing capacity attrition by streamlining the path to CDL attainment for high-discipline personnel across the national supply chain.",
-                "Federal enforcement remains focused on weeding out non-domiciled and fraudulent identity actors, further tightening the available pool of qualified drivers.",
-                "The program integration signifies a coordinated push to stabilize domestic trucking labor markets amid ongoing pressure from infrastructure and freight demand."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRADE ENFORCEMENT SURGE",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "REGULATORY: TRADE FRAUD ENFORCEMENT",
+            "heading": "TRADE FRAUD: BILLION-DOLLAR ENFORCEMENT",
             "points": [
-                "The DOJ Trade Fraud Task Force has officially surpassed $1 billion in total recoveries, signaling a permanent escalation in supply chain compliance enforcement.",
-                "Manufacturers and importers are facing heightened scrutiny regarding forced labor compliance as Section 301 tariffs are expanded across 60 global trading partners.",
-                "Increased recordkeeping requirements are now mandatory for firms seeking to navigate the complex overlap of customs enforcement and evolving trade policy mandates.",
-                "Strict auditing of supply chain inputs is no longer optional as federal authorities leverage data intelligence to target systemic import irregularities."
+                "The Department of Justice Trade Fraud Task Force has officially surpassed one billion dollars in total recoveries.",
+                "Enforcement actions target importers and logistics partners failing to adhere to strict international trade and tariff regulations.",
+                "The rapid accumulation of penalties reflects a modernized, data-driven approach to inter-departmental cooperation across federal agencies.",
+                "Stakeholders must prioritize rigorous recordkeeping and reporting to avoid becoming targets of this escalating government scrutiny."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT VOLATILITY",
+            "nextUpTease": "TRUCKING LABOR PIPELINES",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -76,51 +76,51 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "OCEAN SHIPPING: DETENTION REFORM",
+            "heading": "WORKFORCE STRATEGY: FREEDOM HAULERS",
             "points": [
-                "A recent U.S. Court of Appeals ruling has solidified the mandate that ocean carrier detention fees must directly promote systemic freight fluidity.",
-                "Carriers are under intense pressure to overhaul billing practices or face significant civil penalties following the precedent set by recent multi-million dollar enforcement actions.",
-                "The FMC is tightening monitoring of service contracts and market conditions to prevent anticompetitive behavior that exacerbates port congestion and container dwell times.",
-                "Importers gain increased leverage to challenge predatory charges as the regulatory environment shifts decisively toward protecting public access to freight infrastructure."
+                "The federal government unveiled the Freedom Haulers initiative to streamline the transition of military veterans into trucking.",
+                "This program aims to alleviate persistent driver shortages by fast-tracking the issuance of commercial driver licenses.",
+                "Major trucking enterprises are backing the pipeline, viewing it as a critical solution to long-term capacity attrition.",
+                "Continued enforcement against non-domiciled drivers accompanies this recruitment push to ensure rigorous safety and regulatory standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO DYNAMICS",
+            "nextUpTease": "GEOPOLITICAL SUPPLY DISRUPTION",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.ttnews.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR CARGO: SURCHARGE ESCALATION",
+            "heading": "GEOPOLITICAL RISK: HORMUZ CHOKEPOINTS",
             "points": [
-                "Air cargo carriers are implementing bi-weekly reviews of fuel surcharges as jet fuel price volatility necessitates rapid, frequent adjustments to pricing models.",
-                "Middle Eastern conflicts continue to disrupt hub operations and route reliability, forcing global air networks to seek alternative transit hubs for time-sensitive cargo.",
-                "Heightened demand from AI-related logistics traffic is cushioning the impact of fluctuating bunker costs, preventing deeper rate declines across key transpacific corridors.",
-                "Shippers face continued uncertainty as capacity-to-demand ratios remain tight, preventing long-term pricing stabilization across international air trade lanes."
+                "The closure of the Strait of Hormuz continues to drive significant volatility in global ocean and air cargo.",
+                "Carriers are implementing emergency surcharges to offset rising bunker costs and shifting schedule reliability to longer routes.",
+                "Conflict in the Middle East and Red Sea regions forces rapid, often costly, re-routing of essential global trade.",
+                "Energy and commodity shippers face prolonged lead-time extensions as regional instability undermines traditional maritime transit corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE MARKETPLACE EVOLUTION",
+            "nextUpTease": "AUTOMATION IN LOGISTICS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ECOMMERCE: MARKETPLACE COMPLIANCE",
+            "heading": "AUTOMATION: WAREHOUSE PERFORMANCE MODELLING",
             "points": [
-                "Marketplaces are under immense pressure as the U.S. Senate investigates potential systemic China-based manipulation of fulfillment accounts through bribery and identity fraud.",
-                "USPS rate adjustments for lightweight packages are forcing marketplace sellers to restructure shipping workflows to protect margin health on small-parcel volume.",
-                "The regulatory shift away from de minimis exclusions is forcing apparel and goods platforms to consolidate sourcing and re-evaluate omnichannel fulfillment strategies.",
-                "Platform providers are responding by tightening API and handling-time rules, effectively creating a more rigorous, automated compliance environment for third-party sellers."
+                "Supply chain operations are shifting toward high-performance models prioritizing workforce resilience and AI-driven automation readiness.",
+                "Advanced warehouse management systems now utilize digital modeling to quickly assess the impact of network disruptions.",
+                "Real-time visibility tools and robotic integration are essential for maintaining operational flexibility in volatile, high-demand retail environments.",
+                "Companies failing to modernize planning tools face significant throughput leaks and lost competitive margins in 2026."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
