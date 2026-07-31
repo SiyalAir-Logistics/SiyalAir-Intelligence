@@ -6,19 +6,34 @@ import requests
 import json
 from google import genai
 from google.genai import types
-import datetime
+from bs4 import BeautifulSoup
 
-# 1. AUTH & CONFIG
-# Fetches API key from GitHub Secrets
+# ==============================================================================
+# [ MODULE 1: CONFIGURATION & AUTHENTICATION ]
+# Purpose: Initializes environment variables, API keys, and model fallbacks.
+# Data Flow: Reads from OS ENV -> Configures Gemini Client -> Sets global priorities.
+# ==============================================================================
 api_key = os.environ.get("GEMINI_API_KEY")
+if not api_key:
+    print("[ERROR] GEMINI_API_KEY environment variable not found.")
+    exit(1)
+
 client = genai.Client(api_key=api_key)
 
-# Models in priority order
+# Models in priority order for fallback resilience
 MODEL_PRIORITY = ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-2.5-flash"]
 
-# 2. STEALTH ENGINE
+def log(level, message):
+    """Enforces standardized logging taxonomy for GitHub Actions runners."""
+    print(f"[{level}] {message}")
+
+# ==============================================================================
+# [ MODULE 2: STEALTH DATA EXTRACTION ENGINE ]
+# Purpose: Parses prompt, extracts URLs, and scrapes content using human-like delays.
+# Data Flow: prompt.txt -> regex URL extraction -> HTTP GET -> BeautifulSoup parsing -> Text buffer.
+# ==============================================================================
 def get_stealth_headers():
-    """Rotates User-Agent to mimic different browsers/devices."""
+    """Rotates User-Agent to mimic different browsers/devices and avoid blocking."""
     user_agents = [
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
@@ -33,37 +48,79 @@ def get_stealth_headers():
 
 def fetch_and_clean():
     """Extracts URLs from prompt.txt and scrapes with human-like timing."""
-    with open("prompt.txt", "r", encoding="utf-8") as f:
-        prompt_content = f.read()
-    
+    log("INFO", "Reading prompt.txt and extracting target URLs.")
+    try:
+        with open("prompt.txt", "r", encoding="utf-8") as f:
+            prompt_content = f.read()
+    except FileNotFoundError:
+        log("ERROR", "prompt.txt not found in root directory.")
+        return "", ""
+
     urls = list(set(re.findall(r'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+', prompt_content)))
     scraped_text = ""
     
+    log("INFO", f"Found {len(urls)} unique URLs to process.")
     for url in urls:
         try:
-            # Human jitter: wait between 5 and 15 seconds to look like a slow reader
-            time.sleep(random.uniform(5.0, 15.0))
+            sleep_time = random.uniform(5.0, 15.0)
+            log("INFO", f"Sleeping for {sleep_time:.2f}s before fetching: {url}")
+            time.sleep(sleep_time)
+            
             response = requests.get(url, headers=get_stealth_headers(), timeout=20)
             
             if response.status_code == 200:
-                from bs4 import BeautifulSoup
                 soup = BeautifulSoup(response.content, 'html.parser')
-                # Remove non-content junk
+                
                 for element in soup(["script", "style", "nav", "footer", "iframe"]):
                     element.extract()
-                # EXPANDED DATA BUFFER: Increased character chunk threshold from 1,000 to 5,000
+                
                 text = soup.get_text(separator=' ', strip=True)[:5000]
                 scraped_text += f"\n---SOURCE: {url}---\n{text}\n"
-        except Exception:
-            continue # Fail silently to keep the pipeline moving
+                log("SUCCESS", f"Successfully extracted data from: {url}")
+            else:
+                log("WARNING", f"Failed to fetch {url} - Status Code: {response.status_code}")
+        except Exception as e:
+            log("WARNING", f"Exception occurred while fetching {url}: {str(e)}")
+            continue
+            
     return prompt_content, scraped_text
 
-# 3. PIPELINE EXECUTION
+# ==============================================================================
+# [ MODULE 3: LLM PIPELINE & STRUCTURAL ENFORCEMENT ]
+# Purpose: Combines prompt with live data, calls API, sanitizes output, and writes files.
+# Data Flow: LLM Output -> JSON Validation -> Bullet Padding/Truncation -> File System Writes.
+# ==============================================================================
+def enforce_slide_structure(slides_object):
+    """Enforces a strict 4-bullet point limit per slide to prevent UI overflow."""
+    if isinstance(slides_object, dict) and "slides" in slides_object:
+        for slide in slides_object["slides"]:
+            if "points" in slide and isinstance(slide["points"], list):
+                cleaned_points = []
+                for pt in slide["points"]:
+                    clean_pt = str(pt).replace('\n', ' ').replace('•', '').replace('➔', '').strip()
+                    if clean_pt:
+                        cleaned_points.append(clean_pt)
+                
+                if len(cleaned_points) > 4:
+                    slide["points"] = cleaned_points[:4]
+                elif len(cleaned_points) < 4:
+                    while len(cleaned_points) < 4:
+                        cleaned_points.append("Continuous trade shifts require monitoring immediate carrier capacity adjustments.")
+                    slide["points"] = cleaned_points
+    return slides_object
+
 def main():
+    log("INFO", "Starting execution pipeline.")
     prompt_base, data = fetch_and_clean()
+    
+    if not prompt_base:
+        log("ERROR", "No prompt base found. Pipeline aborted.")
+        return
+
     final_input = f"{prompt_base}\n\n[LATEST LIVE DATA]:\n{data}"
     
     for model in MODEL_PRIORITY:
+        log("INFO", f"Attempting generation with model: {model}")
         try:
             response = client.models.generate_content(
                 model=model,
@@ -71,81 +128,60 @@ def main():
                 config=types.GenerateContentConfig(response_mime_type="application/json")
             )
             
-            # --- UPDATED: Sanitization and strict }; closure ---
-            # Remove any markdown artifacts
+            # --- SANITIZATION ---
             raw_text = response.text.replace("```json", "").replace("```", "").strip()
-            
-            # Ensure the output is clean for valid JSON parsing
             if raw_text.endswith(';'):
                 raw_text = raw_text[:-1]
             if not raw_text.startswith('{'): raw_text = '{' + raw_text
             if not raw_text.endswith('}'): raw_text = raw_text + '}'
             
-            # --- VALIDATION: Ensure generated text is valid JSON ---
+            # --- VALIDATION ---
             parsed_payload = json.loads(raw_text)
+            log("SUCCESS", "LLM payload successfully parsed as valid JSON.")
             
-            # Extract content paths from the structured JSON schema safely
+            # Extract paths safely (Deprecated LinkedIn extraction removed)
             slides_object = parsed_payload.get("slides_data", parsed_payload)
-            shorts_module_object = parsed_payload.get("linkedin_shorts_module", {})
             post_content = parsed_payload.get("social_post", "")
             
-            # --- ROBUST ENFORCEMENT: Enforce strict 4-bullet point limit per slide ---
-            if isinstance(slides_object, dict) and "slides" in slides_object:
-                for slide in slides_object["slides"]:
-                    if "points" in slide and isinstance(slide["points"], list):
-                        # Flatten any multi-sentence strings or accidental sub-lists that broke formatting
-                        cleaned_points = []
-                        for pt in slide["points"]:
-                            # Clean internal rogue line breaks or accidental markdown bullet tokens
-                            clean_pt = str(pt).replace('\n', ' ').replace('•', '').replace('➔', '').strip()
-                            if clean_pt:
-                                cleaned_points.append(clean_pt)
-                        
-                        # Hard lock: Slice or pad precisely to 4 bullet items to prevent overflowing and UI breakage
-                        if len(cleaned_points) > 4:
-                            # If model generated extra, merge trailing sentences or truncate to exact top 4 major points
-                            slide["points"] = cleaned_points[:4]
-                        elif len(cleaned_points) < 4:
-                            while len(cleaned_points) < 4:
-                                cleaned_points.append("Continuous trade shifts require monitoring immediate carrier capacity adjustments.")
-                            slide["points"] = cleaned_points
-
-            # Convert extracted slides data back to a clean string format
+            # --- ENFORCEMENT ---
+            slides_object = enforce_slide_structure(slides_object)
             slides_json_str = json.dumps(slides_object, indent=4)
             
-            # Save exactly as required for template.js
+            # --- EXPORT TO FILES ---
+            # 1. Base slide template (template.js in Root)
             with open("template.js", "w", encoding="utf-8") as f:
                 f.write(f"const dailyData = {slides_json_str};")
+            log("SUCCESS", "Generated and exported: template.js")
                 
-            # --- PATH & EXPORT REALIGNMENT ---
-            # Save LinkedIn Shorts Module export file (`Social_Media/LinkedIn/LinkedIn_Template_EN.js`)
-            linkedin_dir = os.path.join("Social_Media", "LinkedIn")
-            os.makedirs(linkedin_dir, exist_ok=True)
-            linkedin_file_path = os.path.join(linkedin_dir, "LinkedIn_Template_EN.js")
+            # 2. Mirror to Social_Media/Video_Template_EN.js
+            social_media_dir = "Social_Media"
+            os.makedirs(social_media_dir, exist_ok=True)
+            video_template_path = os.path.join(social_media_dir, "Video_Template_EN.js")
             
-            shorts_json_str = json.dumps(shorts_module_object, indent=4)
-            
-            # Universal isomorphic export format (Supports both Browser DOM window injection & Node.js CommonJS require)
             isomorphic_js = (
-                f"if (typeof window !== 'undefined') {{ window.linkedinData = {shorts_json_str}; }}\n"
-                f"if (typeof module !== 'undefined' && module.exports) {{ module.exports = {shorts_json_str}; }}"
+                f"if (typeof window !== 'undefined') {{ window.dailyData = {slides_json_str}; }}\n"
+                f"if (typeof module !== 'undefined' && module.exports) {{ module.exports = {slides_json_str}; }}"
             )
-            
-            with open(linkedin_file_path, "w", encoding="utf-8") as f:
+            with open(video_template_path, "w", encoding="utf-8") as f:
                 f.write(isomorphic_js)
+            log("SUCCESS", f"Generated and exported mirror: {video_template_path}")
                 
-            # Save the clean free-form social media post to your root location
+            # 3. Social Media Post (post.txt in Root)
             with open("post.txt", "w", encoding="utf-8") as f:
-                # Safely convert raw literal \n string characters into actual structural line breaks
                 clean_post = post_content.replace('\\n', '\n')
                 f.write(clean_post)
+            log("SUCCESS", "Generated and exported: post.txt")
                 
-            return # Success
-        except Exception:
-            time.sleep(10) # Back-off if model rate-limits or JSON is invalid
+            log("SUCCESS", "generate_intel.py pipeline completed successfully.")
+            return # Exit successfully without trying fallback models
+            
+        except Exception as e:
+            log("WARNING", f"Model {model} generation failed or JSON invalid: {str(e)}")
+            log("INFO", "Backing off for 10 seconds before next fallback attempt...")
+            time.sleep(10)
             continue
+            
+    log("ERROR", "All models failed. Pipeline execution aborted.")
 
 if __name__ == "__main__":
     main()
-
-# SYSTEM RESET LOGIC: Kickstart cron automation cache sync
