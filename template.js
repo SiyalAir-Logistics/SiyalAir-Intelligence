@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT SHIFT",
-        "titleBlue": "VOLATILITY",
-        "footerSummary": "Red Sea shipping disruption and Section 301 tariff expansion demand urgent logistics decoupling and real-time compliance recalibration for U.S. shippers."
+        "titleWhite": "GLOBAL TRADE FRICTION",
+        "titleBlue": "SURGE",
+        "footerSummary": "Geopolitical volatility and tariff enforcement are reshaping transit routes and carrier strategy, forcing a rapid recalibration of global supply chain operational risk."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "RED SEA: SHIPPING CHOKEPOINTS",
+            "heading": "RED SEA DISRUPTION IMPACT",
             "points": [
-                "Houthi-linked threats in the Bab el-Mandeb strait have effectively forced major shipping lines to abandon Red Sea transits.",
-                "Vessel schedules have plummeted in reliability as carriers divert around Africa, increasing transit times and fuel consumption.",
-                "The ongoing closure creates structural inflation for long-haul freight costs and forces immediate supply chain redesigns.",
-                "Stakeholders must factor in permanent risk premiums as geopolitical conflict becomes a standard operational variable."
+                "Middle Eastern instability persists, compelling vessel operators to abandon the Bab el-Mandeb strait in favor of longer, costly African maritime detours.",
+                "Shipping reliability metrics have deteriorated significantly, as diversions lengthen lead times and exhaust carrier schedule buffers across major trade lanes.",
+                "The shift in route architecture necessitates immediate reassessment of fuel surcharge models and long-term freight procurement forecasting.",
+                "Continued conflict threatens to solidify current bottlenecks, forcing stakeholders to integrate risk-adjusted capacity planning into standard logistics workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFF ENFORCEMENT",
+            "nextUpTease": "U.S. TARIFF ENFORCEMENT",
             "tags": [
                 "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
@@ -25,15 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "TRADE: SECTION 301 TARIFFS",
+            "heading": "USTR TARIFF ENFORCEMENT",
             "points": [
-                "The USTR is implementing new, aggressive forced-labor-based tariffs targeting 60 global trading partners.",
-                "This initiative represents a significant escalation in U.S. trade enforcement and compliance pressure on importers.",
-                "Companies face immediate operational friction as procurement teams scramble to verify supply chain origin data.",
-                "Expect intensified audit activity and potential supply shocks for businesses reliant on multi-national manufacturing."
+                "The Office of the United States Trade Representative has officially activated Section 301 tariffs on 60 trading partners targeting forced labor compliance.",
+                "Importers must rapidly audit supply provenance to mitigate exposure to retroactive duties and potential hold patterns at U.S. ports of entry.",
+                "This regulatory maneuver signals an aggressive shift toward strict trade decoupling and higher landed-cost transparency requirements for importers.",
+                "Failure to demonstrate comprehensive supply chain visibility will likely result in increased cargo inspections and administrative detention at the border."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT TECHNOLOGY",
+            "nextUpTease": "CARRIER LIABILITY RISKS",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -42,15 +42,15 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "TECHNOLOGY: BROKERAGE LIABILITY",
+            "heading": "CARRIER LIABILITY SHIFT",
             "points": [
-                "The $604 million nuclear verdict against C.H. Robinson has fundamentally altered the landscape for freight brokerage risk.",
-                "Liability standards regarding negligent carrier selection are being reinterpreted by courts, placing brokers under extreme scrutiny.",
-                "Shippers must now prioritize rigorous vetting processes to protect against vicarious liability in their transport networks.",
-                "Brokerages are accelerating the integration of AI-driven compliance tools to mitigate potential catastrophic legal exposure."
+                "A landmark $604 million advisory verdict against C.H. Robinson regarding negligent carrier selection has set a new, dangerous precedent for logistics intermediaries.",
+                "Brokers and 3PLs are scrambling to overhaul vetting protocols to avoid the growing threat of vicarious liability in catastrophic freight litigation.",
+                "Shippers are now compelled to demand higher tiers of safety verification and performance reporting from all third-party transportation partners.",
+                "The legal landscape creates an imperative for robust digital compliance tools that can automate and document rigorous carrier selection decisions."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARKET DYNAMICS",
+            "nextUpTease": "MILITARY-TRUCKING PIPELINE",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
@@ -59,15 +59,15 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "MACRO: LABOR AND HIRING",
+            "heading": "FREEDOM HAULERS INITIATIVE",
             "points": [
-                "President Trump has launched the 'Freedom Haulers' initiative to expedite military veteran transitions into commercial driving careers.",
-                "This federal pipeline aims to alleviate persistent driver capacity constraints while bolstering workforce resilience.",
-                "Strategic integration of this program could offer fleets a sustainable solution to long-term driver shortages.",
-                "Stakeholders should monitor hiring trends as military-to-civilian recruitment channels become a primary logistics policy focus."
+                "The Trump administration has launched the Freedom Haulers pipeline, aiming to streamline veteran transition into professional commercial trucking careers.",
+                "Supported by five industry leaders, the program seeks to alleviate structural driver capacity constraints through expedited CDL licensing pathways.",
+                "Implementation of this pipeline aims to stabilize the long-haul workforce while addressing persistent safety and retention challenges in the sector.",
+                "Stakeholders should monitor program participation rates as a potential leading indicator for driver availability and regional wage volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE GROWTH",
+            "nextUpTease": "FMC DETENTION ENFORCEMENT",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -76,46 +76,46 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "RETAIL: E-COMMERCE EARNINGS",
+            "heading": "FMC DETENTION REGULATION",
             "points": [
-                "Amazon reported a 16% growth in North American sales during Q2, driven by aggressive expansion in logistics automation.",
-                "Record AI build-out spending demonstrates a shift toward high-velocity fulfillment to maintain dominance in urban markets.",
-                "The company continues to optimize reverse logistics to offset rising parcel surcharge costs and competitive threats.",
-                "E-commerce leaders are prioritizing robot-integrated fulfillment as the definitive path to sustainable margin expansion."
+                "The U.S. Court of Appeals has upheld the Federal Maritime Commission's decision mandating that detention fees must strictly promote freight fluidity.",
+                "Ocean carriers are now under increased pressure to justify charges, ensuring that billing practices do not function as de facto revenue streams.",
+                "The ruling empowers the FMC to pursue aggressive oversight of terminal operations and invoice transparency for all U.S. importers and exporters.",
+                "Compliance with these refined billing protocols is non-negotiable, with severe civil penalties established for non-compliant shipping entities."
             ],
             "imageUrl": "",
-            "nextUpTease": "COLD CHAIN LOGISTICS",
+            "nextUpTease": "AMAZON LOGISTICS SURGE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "COLD CHAIN: PROCESS ALIGNMENT",
+            "heading": "AMAZON OPERATIONAL SCALE",
             "points": [
-                "Temperature-sensitive freight management is shifting toward granular, quality-driven documentation and real-time monitoring.",
-                "Process alignment has become the core requirement for cold chain integrity, moving beyond simple refrigeration units.",
-                "Companies are investing in advanced analytics to measure the true business impact of freight damage and waste.",
-                "Strategic operational flexibility is required to navigate tightening food and pharmaceutical supply chain regulations."
+                "Amazon reported a 16% growth in North American sales as the retailer continues to aggressively deploy robotics within its fulfillment infrastructure.",
+                "The platform is leaning into B2B sales expansion, pressuring third-party marketplace sellers to match rapid delivery standards and heightened efficiency targets.",
+                "Strategic AI integration is optimizing inventory positioning, enabling the retailer to preemptively manage potential weather and seasonal demand disruptions.",
+                "Market participants must anticipate compressed margins as fulfillment expectations shift to ultra-fast delivery benchmarks across the broader retail landscape."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE INVESTMENT",
+            "nextUpTease": "TECH INFRASTRUCTURE BOOM",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: DATA CENTERS",
+            "heading": "TECH INFRASTRUCTURE BOOM",
             "points": [
-                "Exponential growth in data center construction is creating massive, specialized demand for freight and logistics services.",
-                "Trucking executives report that industrial construction remains a key driver for steady, high-value freight volume.",
-                "Supply chain planners must adapt to these unique, high-priority project cargo requirements to capture emerging revenues.",
-                "The data center boom is forcing a rethink of logistics procurement and obsolescence-driven financial strategies."
+                "Industrial real estate and freight demand are experiencing a surge driven by massive capital investment in national data center construction.",
+                "While residential demand remains tepid, construction materials and specialized hardware logistics are providing a vital lifeline for transport service providers.",
+                "The data center buildup acts as a strategic buffer for logistics firms looking to offset broader manufacturing volume declines in other sectors.",
+                "Companies should align their logistics networks to capture this high-growth niche before new capacity stabilizes market pricing models."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
