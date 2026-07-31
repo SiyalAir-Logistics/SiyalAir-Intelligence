@@ -1,39 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE LOGISTICS",
-        "titleBlue": "VOLATILITY",
-        "footerSummary": "Escalating geopolitical instability in the Strait of Hormuz and regulatory tariff pressure are creating structural supply chain friction for global shippers."
+        "titleWhite": "GLOBAL SUPPLY CHAIN",
+        "titleBlue": "REFLUX",
+        "footerSummary": "Escalating trade tariffs and geopolitical closures in the Strait of Hormuz are triggering immediate, high-friction volatility across trans-Pacific and global freight networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "STRAIT OF HORMUZ: SHIPPING DISRUPTION",
+            "heading": "STRICT TARIFF EXPANSION: GLOBAL IMPACT",
             "points": [
-                "Middle East tensions have forced major carriers to bypass the Strait of Hormuz, significantly increasing transit times and vessel schedule reliability risks.",
-                "Data confirms that shipowners are actively avoiding the narrow chokepoint as sanctions and safety concerns escalate across the region.",
-                "The resulting diversion to alternative routes is placing immense pressure on current global capacity, causing a sharp rise in operational freight costs.",
-                "Stakes for global energy and cargo flow remain critical as the instability continues to disrupt traditional maritime transit corridors."
+                "The U.S. Trade Representative has finalized forced labor-based tariffs impacting 60 trading nations as Section 122 protections expire.",
+                "This aggressive trade stance forces importers to navigate complex compliance shifts that threaten existing supply chain cost structures.",
+                "Operations must now reconcile with these immediate duty hikes, which are expected to dampen import margins across the electronics and industrial sectors.",
+                "Stakeholders should anticipate a cascade of redirected sourcing strategies as companies seek to avoid high-penalty tariff exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFF REGULATION SHIFTS",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "USTR: FORCED LABOR TARIFF IMPLEMENTATION",
-            "points": [
-                "The Office of the United States Trade Representative is moving forward with section 301 tariffs on 60 trading partners to enforce labor compliance.",
-                "This aggressive regulatory action marks a pivotal shift in trade policy, prioritizing ethical sourcing frameworks over existing commercial agreements.",
-                "Importers and manufacturers must now navigate rapid policy implementation, which is set to impact supply chain costs and long-term procurement planning.",
-                "The enforcement move highlights the growing influence of national trade policy on global production and logistics networks."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AI-DRIVEN PRODUCTIVITY GAINS",
+            "nextUpTease": "HORMAZ CLOSURE LOGISTICS",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -41,50 +24,67 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "DSV AND K+N: AI PRODUCTIVITY INVESTMENTS",
+            "id": 2,
+            "heading": "HORMAZ CLOSURE: FLOW DISRUPTION",
             "points": [
-                "Leading logistics providers DSV and Kuehne+Nagel are scaling up massive investments in AI-driven technologies to maximize operational efficiency.",
-                "Industry analysts note that these tech deployments aim to counter inflationary pressures and manage complex, high-velocity freight networks more effectively.",
-                "By automating manual planning and routing, these firms are setting new standards for productivity in an increasingly constrained global logistics market.",
-                "Stakeholders should monitor these digital transformations as they dictate the competitive future of global freight forwarding."
+                "The persistent closure of the Strait of Hormuz continues to cripple maritime schedule reliability for all but the largest tier-one ocean carriers.",
+                "Data from Sea-Intelligence indicates typical vessel delays have escalated sharply throughout Q2 due to mandatory service re-routing.",
+                "The logistical friction is creating substantial throughput backlogs at major gateway ports as vessel arrival windows become increasingly volatile.",
+                "Shippers face an inevitable tightening of capacity, forcing a strategic shift toward long-term risk management in international trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER SURCHARGE VOLATILITY",
+            "nextUpTease": "FREIGHT BROKER LIABILITY",
             "tags": [
                 "Source: https://www.joc.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "BROKER LIABILITY: NEGLIGENT SELECTION",
+            "points": [
+                "The $604 million advisory verdict against C.H. Robinson for negligent carrier selection marks a pivotal shift in freight brokerage legal exposure.",
+                "Industry experts warn that the Montgomery vs. Caribe ruling effectively mandates stricter vetting processes for all third-party logistics providers.",
+                "Brokers and carriers are now under intense pressure to automate vetting compliance to mitigate catastrophic vicarious liability risks.",
+                "Shippers will likely see increased vetting scrutiny, leading to longer procurement lead times and potentially higher service costs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FREEDOM HAULERS INITIATIVE",
+            "tags": [
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: FUEL SURCHARGE FLUCTUATIONS",
+            "heading": "FREEDOM HAULERS: WORKFORCE PIPELINE",
             "points": [
-                "Air freight carriers are now adjusting fuel surcharges on a bi-weekly basis due to unprecedented volatility in the jet fuel market.",
-                "Rising operating costs are forcing airlines to pass expenses directly to customers, challenging the reliability of existing long-haul freighter agreements.",
-                "This pricing instability is compelling shippers to revisit their short-term air cargo strategies to mitigate unpredictable cost spikes.",
-                "Market experts anticipate further pricing uncertainty as global energy markets continue to react to geopolitical shifts."
+                "President Trump has launched the Freedom Haulers initiative, an interagency campaign designed to automate the transition of veterans into trucking.",
+                "This program targets the chronic commercial driver shortage by streamlining CDL licensing and connecting military talent with five primary trucking titans.",
+                "The structural focus aims to lower recruitment friction and stabilize operational capacity across domestic logistics networks.",
+                "Market participants can expect a surge in entry-level driver supply, potentially stabilizing long-term freight hauling cost dynamics."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION IN WAREHOUSING",
+            "nextUpTease": "ROBOTIC WAREHOUSE AUTOMATION",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "UPS: AUTOMATION SCALING OPERATIONS",
+            "heading": "AMAZON: ROBOTIC FULFILLMENT SCALE",
             "points": [
-                "UPS reports that over two-thirds of its domestic volume is now processed through automated facility locations nationwide.",
-                "This aggressive automation strategy serves to streamline operations, reduce human error, and bolster throughput in high-demand urban markets.",
-                "The integration of robotic sortation and automated tracking technology is central to maintaining competitiveness against rival service providers.",
-                "Industry participants see this transition as a core component of the modern logistics infrastructure aimed at stabilizing costs."
+                "Amazon confirmed that over two-thirds of its U.S. volume is now processed through highly automated warehouse facilities.",
+                "The aggressive rollout of robotics and AI-driven fulfillment logic is significantly accelerating delivery speeds in urban market hubs.",
+                "Operational efficiency gains are directly offsetting rising inflationary pressures on labor and long-haul transportation costs.",
+                "Competitors will likely be forced to accelerate automation investment to remain relevant against this high-volume fulfillment benchmark."
             ],
             "imageUrl": "",
-            "nextUpTease": "US IMPORT VOLUME TRENDS",
+            "nextUpTease": "CARRIER SURCHARGE SHIFTS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -93,34 +93,34 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "US LOGISTICS: IMPORT VOLUME SURGE",
+            "heading": "AIR CARGO: SURCHARGE VOLATILITY",
             "points": [
-                "Summer import volumes are reaching their highest levels since 2022, signaling a robust yet challenging period for domestic freight networks.",
-                "Higher import traffic is driving spot truckload rates upward, with the gap between regional and national averages expected to widen through August.",
-                "Freight infrastructure is being tested by this influx, necessitating enhanced real-time visibility and fleet resource management.",
-                "The current import activity underscores the resilience of US consumer demand despite underlying macro-economic inflationary pressures."
+                "Air cargo carriers have begun reviewing fuel surcharges on a bi-weekly cadence to combat extreme jet fuel price volatility.",
+                "Recent Middle Eastern conflict has exacerbated supply constraints, forcing operators to pass energy cost spikes directly to the shipper.",
+                "Market reliance on air freight remains elevated as maritime transit routes face sustained disruption from regional instability.",
+                "Supply chain managers must adjust budgeting models to account for dynamic freight pricing that changes twice per month."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREEDOM HAULERS INITIATIVE",
+            "nextUpTease": "FEDERAL FREIGHT FUNDING",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FREEDOM HAULERS: VETERAN TRUCKING PIPELINE",
+            "heading": "INFRASTRUCTURE: FEDERAL FUNDING PUSH",
             "points": [
-                "The federal government has unveiled the Freedom Haulers initiative to streamline the transition of military veterans into commercial trucking careers.",
-                "Supported by five major trucking fleets, the program aims to address ongoing driver shortages through formal institutional recruitment and training support.",
-                "This policy intervention connects workforce development directly to supply chain resilience and national infrastructure maintenance requirements.",
-                "Logistics providers should anticipate a shift in talent acquisition strategies as this federal program gains traction in the coming months."
+                "New federal freight plans and the BUILD America 250 Act signal a massive capital injection into domestic supply chain infrastructure.",
+                "The program focuses on critical bottlenecks, aiming to increase intermodal connectivity and throughput capacity across the U.S. logistics network.",
+                "Strategic funding will support the digitalization of ports and improved regional distribution node integration.",
+                "Stakeholders should monitor these project pipelines as they will dictate the future efficiency of local distribution networks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
