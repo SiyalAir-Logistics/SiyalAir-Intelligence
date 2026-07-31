@@ -1,94 +1,139 @@
+/**
+ * ==============================================================================
+ * MODULE NAME: capture_slides.js
+ * DIRECTORY:   download/
+ * PURPOSE:     Puppeteer automation script to render visual matrix and capture slides.
+ * DATA FLOW:   Live GitHub Pages URL -> CDP Download Interception -> Local Asset Renaming.
+ * ==============================================================================
+ */
+
 const puppeteer = require('puppeteer');
 const fs = require('fs');
 const path = require('path');
 
+// Helper function to enforce unified log taxonomy across runner outputs
+const log = (level, message) => {
+    console.log(`[${level.toUpperCase()}] ${message}`);
+};
+
 (async () => {
-    // Target the specific "download" directory you just created
     const downloadPath = path.resolve(__dirname);
-    
-    console.log("Cleaning out any old slide images from previous runs...");
-    const existingFiles = fs.readdirSync(downloadPath);
-    existingFiles.forEach(file => {
-        if (file.endsWith('.png') || file.endsWith('.jpg') || file.endsWith('.webp') || file.endsWith('.crdownload')) {
-            fs.unlinkSync(path.join(downloadPath, file));
-        }
-    });
+    let browser = null;
 
-    console.log("Launching headless browser viewport...");
-    const browser = await puppeteer.launch({
-        headless: "new",
-        args: ['--no-sandbox', '--disable-setuid-sandbox']
-    });
-    
-    const page = await browser.newPage();
+    try {
+        log('INFO', 'Starting capture_slides pipeline.');
 
-    // Intercept the browser's native download behavior and force it into your 'download' folder
-    const client = await page.target().createCDPSession();
-    await client.send('Page.setDownloadBehavior', {
-        behavior: 'allow',
-        downloadPath: downloadPath
-    });
+        // ==============================================================================
+        // [ MODULE 1: PRE-RUN CLEANUP ]
+        // Purpose: Purges leftover image assets and partial downloads from prior runs.
+        // ==============================================================================
+        log('INFO', 'Purging legacy image artifacts from target directory...');
+        const existingFiles = fs.readdirSync(downloadPath);
+        let purgedCount = 0;
 
-    // Appended dynamic cache-busting query string to completely bypass GitHub Pages CDN edge cache and force live payload ingestion
-    const liveTargetUrl = `https://siyalair-logistics.github.io/SiyalAir-Intelligence/?cache_bust=${Date.now()}`;
-
-    console.log("Connecting to live visual matrix page...");
-    // LOCKED IN: Target the authentic SiyalAir website deployment URL with zero-cache injection
-    await page.goto(liveTargetUrl, {
-        waitUntil: 'networkidle0', // Upgraded to networkidle0 to guarantee full evaluation of newly deployed static payloads
-        timeout: 60000
-    });
-
-    // IMPLEMENTED USER SUGGESTION: Enforce a dedicated 120-second (2 minute) stability delay post-load. 
-    // This allows client-side scripts, canvas generators, and dynamic render loops enough real-world time to flush legacy DOM elements and re-synthesize fresh asset buffers before automated triggering.
-    console.log("Page fully loaded. Initiating mandatory 2-minute stabilization window to ensure fresh asset compilation...");
-    for (let i = 120; i > 0; i -= 15) {
-        console.log(`Stabilization countdown: ${i} seconds remaining...`);
-        await new Promise(r => setTimeout(r, 15000));
-    }
-
-    console.log("Triggering your engine's bulk download sequence...");
-    // Programmatically click your existing functional header button (#download-active)
-    await page.click('#download-active');
-
-    console.log("Awaiting engine synthesis pipeline to process all slides...");
-    
-    // Wait until files have finished downloading completely (dynamically checks based on available elements)
-    let totalFiles = 0;
-    for (let attempt = 0; attempt < 45; attempt++) {
-        await new Promise(r => setTimeout(r, 1000));
-        const files = fs.readdirSync(downloadPath).filter(f => f.endsWith('.png') || f.endsWith('.webp') || f.endsWith('.jpg'));
-        totalFiles = files.length;
-        if (totalFiles >= 9) break; 
-    }
-
-    console.log(`Discovered ${totalFiles} raw assets. Streamlining structural order labels...`);
-
-    // Organize and sequentially rename the captured files cleanly (slide_01 to slide_09)
-    const files = fs.readdirSync(downloadPath).filter(f => f.endsWith('.png') || f.endsWith('.webp') || f.endsWith('.jpg'));
-    files.forEach((file) => {
-        const fullPath = path.join(downloadPath, file);
-        let newName = "";
-
-        if (file.includes('MAIN')) {
-            newName = "slide_01.webp";
-        } else if (file.includes('FOLLOW')) {
-            newName = "slide_09.webp";
-        } else {
-            const match = file.match(/SLIDE_(\d+)/);
-            if (match) {
-                // Adds 1 so SLIDE_1 becomes slide_02.webp (leaving slide_01 for MAIN)
-                const slideNum = parseInt(match[1]) + 1; 
-                newName = `slide_${String(slideNum).padStart(2, '0')}.webp`;
+        existingFiles.forEach(file => {
+            if (file.endsWith('.png') || file.endsWith('.jpg') || file.endsWith('.webp') || file.endsWith('.crdownload')) {
+                fs.unlinkSync(path.join(downloadPath, file));
+                purgedCount++;
             }
+        });
+        log('SUCCESS', `Cleanup complete. Removed ${purgedCount} legacy artifacts.`);
+
+        // ==============================================================================
+        // [ MODULE 2: BROWSER INITIALIZATION & CDP SETUP ]
+        // Purpose: Launches headless Chrome and intercepts Chrome DevTools Protocol downloads.
+        // ==============================================================================
+        log('INFO', 'Launching headless Puppeteer browser viewport...');
+        browser = await puppeteer.launch({
+            headless: "new",
+            args: ['--no-sandbox', '--disable-setuid-sandbox']
+        });
+
+        const page = await browser.newPage();
+
+        // Intercept native browser download behavior to direct assets to downloadPath
+        const client = await page.target().createCDPSession();
+        await client.send('Page.setDownloadBehavior', {
+            behavior: 'allow',
+            downloadPath: downloadPath
+        });
+
+        // Dynamic cache-buster parameter to force live payload evaluation
+        const liveTargetUrl = `https://siyalair-logistics.github.io/SiyalAir-Intelligence/?cache_bust=${Date.now()}`;
+        
+        log('INFO', `Connecting to visual matrix target: ${liveTargetUrl}`);
+        await page.goto(liveTargetUrl, {
+            waitUntil: 'networkidle0',
+            timeout: 60000
+        });
+        log('SUCCESS', 'Page connection established.');
+
+        // ==============================================================================
+        // [ MODULE 3: DOM STABILIZATION & CAPTURE TRIGGER ]
+        // Purpose: Delays execution to allow canvas/DOM compilation before triggering capture.
+        // ==============================================================================
+        log('INFO', 'Initiating 120-second stabilization window for fresh asset compilation...');
+        for (let remaining = 120; remaining > 0; remaining -= 15) {
+            log('INFO', `Stabilization in progress: ${remaining}s remaining...`);
+            await new Promise(r => setTimeout(r, 15000));
         }
 
-        if (newName) {
-            fs.renameSync(fullPath, path.join(downloadPath, newName));
-            console.log(`Renamed: ${file} -> ${newName}`);
-        }
-    });
+        log('INFO', 'Triggering bulk download sequence via DOM target (#download-active)...');
+        await page.click('#download-active');
 
-    console.log("Asset synchronization sequence completed successfully.");
-    await browser.close();
+        log('INFO', 'Awaiting file synthesis and download completion...');
+        let totalFiles = 0;
+        for (let attempt = 0; attempt < 45; attempt++) {
+            await new Promise(r => setTimeout(r, 1000));
+            const currentFiles = fs.readdirSync(downloadPath).filter(f => 
+                f.endsWith('.png') || f.endsWith('.webp') || f.endsWith('.jpg')
+            );
+            totalFiles = currentFiles.length;
+            if (totalFiles >= 9) break;
+        }
+
+        log('SUCCESS', `Synthesis pipeline complete. ${totalFiles} raw slide assets captured.`);
+
+        // ==============================================================================
+        // [ MODULE 4: ASSET RESTRUCTURING & SEQUENTIAL RENAMING ]
+        // Purpose: Standardizes captured filenames to slide_01.webp through slide_09.webp.
+        // ==============================================================================
+        log('INFO', 'Re-indexing captured assets into standard sequential schema...');
+        const capturedFiles = fs.readdirSync(downloadPath).filter(f => 
+            f.endsWith('.png') || f.endsWith('.webp') || f.endsWith('.jpg')
+        );
+
+        capturedFiles.forEach((file) => {
+            const fullPath = path.join(downloadPath, file);
+            let newName = "";
+
+            if (file.includes('MAIN')) {
+                newName = "slide_01.webp";
+            } else if (file.includes('FOLLOW')) {
+                newName = "slide_09.webp";
+            } else {
+                const match = file.match(/SLIDE_(\d+)/);
+                if (match) {
+                    const slideNum = parseInt(match[1], 10) + 1;
+                    newName = `slide_${String(slideNum).padStart(2, '0')}.webp`;
+                }
+            }
+
+            if (newName) {
+                fs.renameSync(fullPath, path.join(downloadPath, newName));
+                log('SUCCESS', `Re-indexed asset: ${file} -> ${newName}`);
+            }
+        });
+
+        log('SUCCESS', 'Asset capture and re-indexing pipeline executed successfully.');
+
+    } catch (error) {
+        log('ERROR', `Pipeline execution failed in capture_slides.js: ${error.message}`);
+        process.exitCode = 1;
+    } finally {
+        if (browser !== null) {
+            log('INFO', 'Terminating headless browser instance...');
+            await browser.close();
+        }
+    }
 })();
