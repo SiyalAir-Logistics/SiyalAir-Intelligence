@@ -2,126 +2,126 @@ const dailyData = {
     "main": {
         "kicker": "",
         "titleWhite": "GLOBAL TRADE FRICTION",
-        "titleBlue": "SPIKE",
-        "footerSummary": "Regulatory enforcement reaches billion-dollar milestones as trade-war tariffs and carrier liability rulings trigger immediate, high-stakes shifts in cross-border operational compliance frameworks."
+        "titleBlue": "SURGE",
+        "footerSummary": "New USTR tariffs and Hormuz transit closures create severe 72-hour operational risk for US-bound cargo flows. Immediate contingency planning is advised."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR ENFORCEMENT: SECTION 301 EXPANSION",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "The Office of the United States Trade Representative is implementing forced labor-based tariffs across sixty trading nations.",
-                "This action follows the expiration of Section 122 tariffs, creating immediate cost-structure shifts for international importers.",
-                "Manufacturers must re-evaluate supply chain sourcing strategies to mitigate the impact of these broad-based duty hikes.",
-                "Legal challenges regarding the removal and refund of these levies are already surfacing in federal court dockets."
+                "The U.S. Trade Representative has finalized Section 301 tariffs against 60 trading partners to combat forced labor violations. This move expands the reach of previous enforcement mechanisms significantly.",
+                "Importers must immediately audit supply chains to ensure compliance or face potential cargo detention at US ports. Financial risk includes severe penalties and permanent loss of duty-free status.",
+                "These aggressive trade actions align with the administration\u2019s focus on supply chain transparency and ethical sourcing. Companies must document origins down to the raw material level.",
+                "Supply chain leaders should prepare for increased border inspections and documentation requests. Long-term sourcing strategies require immediate review to mitigate disruption risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "BROKER LIABILITY RISKS",
+            "nextUpTease": "HORMUZ TRANSIT DISRUPTIONS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 48 Hours",
+                "Source: logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LEGAL PRECEDENT: BROKER LIABILITY SHIFT",
+            "heading": "HORMUZ: SHIPPING CHOKEPOINT CLOSURE",
             "points": [
-                "A Dallas County jury issued a six hundred four million dollar advisory verdict against C.H. Robinson.",
-                "The case centers on negligent carrier selection, signaling a potential paradigm shift in freight broker liability exposure.",
-                "Legal experts anticipate extensive appeals, yet the ruling forces immediate internal audits of vetting and compliance protocols.",
-                "Brokerage firms now face heightened requirements for verifying carrier safety records to avoid vicarious liability exposure."
+                "Continued volatility in the Strait of Hormuz has forced major carriers to avoid the narrow chokepoint, disrupting global energy and containerized shipping lanes.",
+                "The resulting capacity squeeze is driving up bunker fuel surcharges and lengthening transit times for Asia-Europe and US-bound maritime cargo.",
+                "Market analysts expect schedule reliability to remain in decline as rerouting becomes the new, costly standard for major international ocean carriers.",
+                "Stakeholders must factor in increased vessel transit costs and potential fuel-driven rate hikes for the remainder of Q3 2026."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER CAPACITY TRENDS",
+            "nextUpTease": "C.H. ROBINSON VERDICT",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 48 Hours",
+                "Source: theloadstar.com",
+                "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CAPACITY CRUNCH: PEAK SEASON DYNAMICS",
+            "heading": "LEGAL: BROKER LIABILITY SHIFT",
             "points": [
-                "Transpacific spot rates are testing resilience as carriers push for rate hikes ahead of peak season.",
-                "Capacity remains tight despite slight downward trends in specific trade lanes, maintaining pressure on global shippers.",
-                "Major carriers are aggressively scaling infrastructure and shuttle strategies to capture AI-driven productivity gains amid instability.",
-                "Early peak season indicators suggest a new baseline for Q4 volume, challenging existing inventory planning models."
+                "A massive $604 million verdict against C.H. Robinson has set a dangerous legal precedent regarding vicarious liability in carrier selection cases.",
+                "Industry experts warn that freight brokers now face heightened pressure to perform granular due diligence on every subcontracted motor carrier.",
+                "The ruling undermines long-standing reliance on simple safety ratings and mandates a comprehensive shift toward auditing specific carrier hiring practices.",
+                "Brokers and 3PLs must re-evaluate their insurance coverage and risk management frameworks to avoid devastating negligence-based legal exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "FORCED LABOR COMPLIANCE",
+            "nextUpTease": "MILITARY-TO-TRUCKING PIPELINE",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 48 Hours",
+                "Source: freightwaves.com",
+                "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRADE FRAUD: BILLION-DOLLAR ENFORCEMENT",
+            "heading": "LABOR: FREEDOM HAULERS INITIATIVE",
             "points": [
-                "The Department of Justice Trade Fraud Task Force has officially surpassed one billion dollars in total recoveries.",
-                "Enforcement actions target importers and logistics partners failing to adhere to strict international trade and tariff regulations.",
-                "The rapid accumulation of penalties reflects a modernized, data-driven approach to inter-departmental cooperation across federal agencies.",
-                "Stakeholders must prioritize rigorous recordkeeping and reporting to avoid becoming targets of this escalating government scrutiny."
+                "The Trump administration\u2019s 'Freedom Haulers' program aims to streamline the transition of military veterans into commercial trucking careers through expedited licensing.",
+                "Backed by major trucking fleets, this initiative is designed to alleviate chronic driver shortages while providing high-quality jobs for service members.",
+                "Operational implementation involves pairing recruitment pushes with continued enforcement against non-domiciled drivers to ensure industry standards remain high.",
+                "Fleets should anticipate an influx of trained operators, potentially stabilizing long-term hiring costs and improving labor supply reliability."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING LABOR PIPELINES",
+            "nextUpTease": "AI-POWERED SUPPLY CHAIN MANAGEMENT",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 48 Hours",
+                "Source: inboundlogistics.com",
+                "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "WORKFORCE STRATEGY: FREEDOM HAULERS",
+            "heading": "AI: WAREHOUSE AUTOMATION SCALING",
             "points": [
-                "The federal government unveiled the Freedom Haulers initiative to streamline the transition of military veterans into trucking.",
-                "This program aims to alleviate persistent driver shortages by fast-tracking the issuance of commercial driver licenses.",
-                "Major trucking enterprises are backing the pipeline, viewing it as a critical solution to long-term capacity attrition.",
-                "Continued enforcement against non-domiciled drivers accompanies this recruitment push to ensure rigorous safety and regulatory standards."
+                "Leading logistics providers are transitioning from pilot projects to full-scale AI and robotics deployment to enhance warehouse throughput and inventory accuracy.",
+                "Recent data shows significant productivity jumps for operations utilizing autonomous yard management and AI-driven demand planning software.",
+                "Automated facilities are now successfully handling higher volumes with fewer labor resources, effectively buffering against persistent personnel constraints.",
+                "Investment in AI-driven orchestration will likely define the top tier of warehouse performance for the remainder of the decade."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEOPOLITICAL SUPPLY DISRUPTION",
+            "nextUpTease": "USPS RATE ADJUSTMENTS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 48 Hours",
+                "Source: supplychainbrain.com",
+                "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GEOPOLITICAL RISK: HORMUZ CHOKEPOINTS",
+            "heading": "USPS: GROUND ADVANTAGE SHIFTS",
             "points": [
-                "The closure of the Strait of Hormuz continues to drive significant volatility in global ocean and air cargo.",
-                "Carriers are implementing emergency surcharges to offset rising bunker costs and shifting schedule reliability to longer routes.",
-                "Conflict in the Middle East and Red Sea regions forces rapid, often costly, re-routing of essential global trade.",
-                "Energy and commodity shippers face prolonged lead-time extensions as regional instability undermines traditional maritime transit corridors."
+                "USPS has implemented significant rate increases for its Ground Advantage service, specifically targeting lightweight packages bound for rural zip codes.",
+                "Marketplace sellers on platforms like eBay face direct margin compression, forcing a re-evaluation of shipping cost pass-through strategies for online customers.",
+                "Operational compliance now demands stricter adherence to account password security and updated hazardous material fee structures.",
+                "Small to medium e-commerce enterprises must optimize their carrier mix to avoid the sudden spikes in last-mile parcel costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION IN LOGISTICS",
+            "nextUpTease": "INTERMODAL MARKET GROWTH",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: Last 48 Hours",
+                "Source: ecommercebytes.com",
+                "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AUTOMATION: WAREHOUSE PERFORMANCE MODELLING",
+            "heading": "INTERMODAL: VOLUME REBOUND",
             "points": [
-                "Supply chain operations are shifting toward high-performance models prioritizing workforce resilience and AI-driven automation readiness.",
-                "Advanced warehouse management systems now utilize digital modeling to quickly assess the impact of network disruptions.",
-                "Real-time visibility tools and robotic integration are essential for maintaining operational flexibility in volatile, high-demand retail environments.",
-                "Companies failing to modernize planning tools face significant throughput leaks and lost competitive margins in 2026."
+                "Intermodal volumes have surged with an 11.6% annual gain in June, signaling a robust recovery in domestic freight movement across the rail network.",
+                "Improved rail service reliability is drawing cargo away from congested truck lanes, offering a more stable alternative for long-haul shipping requirements.",
+                "Class I railroads are actively optimizing dwell times and car speeds to maintain the momentum of this intermodal volume growth.",
+                "Supply chain managers should capitalize on current rail capacity availability before seasonal peak demand further tightens the freight environment."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 48 Hours",
+                "Source: logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         }
