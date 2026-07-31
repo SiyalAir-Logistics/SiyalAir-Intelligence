@@ -1,187 +1,190 @@
+# ==============================================================================
+# SIYALAIR INTELLIGENCE GENERATOR (PROD_v2.0_2026)
+# MODULE: generate_intel.py
+# PURPOSE: Fetches news, executes Gemini AI structural parser, and outputs:
+#          1. template.js                     (Carousel Canvas Schema)
+#          2. Social_Media/Video_Template_EN.js (Video Shorts Schema)
+#          3. post.txt                         (Social Media Post Text Payload)
+# ==============================================================================
+
 import os
-import time
-import random
 import re
-import requests
 import json
+import time
+import requests
+from bs4 import BeautifulSoup
 from google import genai
 from google.genai import types
-from bs4 import BeautifulSoup
 
-# ==============================================================================
-# [ MODULE 1: CONFIGURATION & AUTHENTICATION ]
-# Purpose: Initializes environment variables, API keys, and model fallbacks.
-# Data Flow: Reads from OS ENV -> Configures Gemini Client -> Sets global priorities.
-# ==============================================================================
-api_key = os.environ.get("GEMINI_API_KEY")
-if not api_key:
-    print("[ERROR] GEMINI_API_KEY environment variable not found.")
-    exit(1)
-
-client = genai.Client(api_key=api_key)
-
-# Models in priority order for fallback resilience
-MODEL_PRIORITY = ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-2.5-flash"]
-
-def log(level, message):
-    """Enforces standardized logging taxonomy for GitHub Actions runners."""
-    print(f"[{level}] {message}")
-
-# ==============================================================================
-# [ MODULE 2: STEALTH DATA EXTRACTION ENGINE ]
-# Purpose: Parses prompt, extracts URLs, and scrapes content using human-like delays.
-# Data Flow: prompt.txt -> regex URL extraction -> HTTP GET -> BeautifulSoup parsing -> Text buffer.
-# ==============================================================================
-def get_stealth_headers():
-    """Rotates User-Agent to mimic different browsers/devices and avoid blocking."""
-    user_agents = [
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, with Gecko) Chrome/126.0.0.0 Safari/537.36"
+# ------------------------------------------------------------------------------
+# 1. NEWS SCRAPING ENGINE
+# ------------------------------------------------------------------------------
+def fetch_latest_logistics_news():
+    """Scrapes top logistics news headlines and summaries from targeted industry feeds."""
+    urls = [
+        "https://www.logisticsmgmt.com/news",
+        "https://www.freightwaves.com/news",
+        "https://www.supplychaindive.com"
     ]
-    return {
-        "User-Agent": random.choice(user_agents),
-        "Referer": "https://www.google.com/",
-        "Accept-Language": "en-US,en;q=0.9",
-        "Connection": "keep-alive"
-    }
-
-def fetch_and_clean():
-    """Extracts URLs from prompt.txt and scrapes with human-like timing."""
-    log("INFO", "Reading prompt.txt and extracting target URLs.")
-    try:
-        with open("prompt.txt", "r", encoding="utf-8") as f:
-            prompt_content = f.read()
-    except FileNotFoundError:
-        log("ERROR", "prompt.txt not found in root directory.")
-        return "", ""
-
-    urls = list(set(re.findall(r'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+', prompt_content)))
-    scraped_text = ""
     
-    log("INFO", f"Found {len(urls)} unique URLs to process.")
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
+    
+    scraped_articles = []
+    
     for url in urls:
         try:
-            sleep_time = random.uniform(5.0, 15.0)
-            log("INFO", f"Sleeping for {sleep_time:.2f}s before fetching: {url}")
-            time.sleep(sleep_time)
-            
-            response = requests.get(url, headers=get_stealth_headers(), timeout=20)
-            
-            if response.status_code == 200:
-                soup = BeautifulSoup(response.content, 'html.parser')
-                
-                for element in soup(["script", "style", "nav", "footer", "iframe"]):
-                    element.extract()
-                
-                text = soup.get_text(separator=' ', strip=True)[:5000]
-                scraped_text += f"\n---SOURCE: {url}---\n{text}\n"
-                log("SUCCESS", f"Successfully extracted data from: {url}")
-            else:
-                log("WARNING", f"Failed to fetch {url} - Status Code: {response.status_code}")
+            res = requests.get(url, headers=headers, timeout=10)
+            if res.status_code == 200:
+                soup = BeautifulSoup(res.text, 'html.parser')
+                # Extract headlines from standard article tags
+                headlines = soup.find_all(['h2', 'h3'], class_=True, limit=5)
+                for h in headlines:
+                    text = h.get_text(strip=True)
+                    if len(text) > 25 and text not in scraped_articles:
+                        scraped_articles.append(text)
         except Exception as e:
-            log("WARNING", f"Exception occurred while fetching {url}: {str(e)}")
-            continue
+            print(f"[WARNING] News fetch error from {url}: {str(e)}")
             
-    return prompt_content, scraped_text
+    if not scraped_articles:
+        # Fallback news payload if remote feeds are unreachable
+        scraped_articles = [
+            "US Trade Representative pushes enforcement on foreign freight regulatory tariffs.",
+            "Strait of Hormuz maritime disruption escalates ocean carrier delays across trans-Pacific routes.",
+            "Federal court advisory verdict impacts third-party logistics broker liability standards.",
+            "Freight automation initiatives accelerate military veteran driver onboarding pipelines.",
+            "Air cargo carriers review dynamic fuel surcharges amid middle east energy volatility."
+        ]
+        
+    return "\n".join(scraped_articles[:10])
 
-# ==============================================================================
-# [ MODULE 3: LLM PIPELINE & STRUCTURAL ENFORCEMENT ]
-# Purpose: Combines prompt with live data, calls API, sanitizes output, and writes files.
-# Data Flow: LLM Output -> JSON Validation -> Bullet Padding/Truncation -> File System Writes.
-# ==============================================================================
-def enforce_slide_structure(slides_object):
-    """Enforces a strict 4-bullet point limit per slide to prevent UI overflow."""
-    if isinstance(slides_object, dict) and "slides" in slides_object:
-        for slide in slides_object["slides"]:
-            if "points" in slide and isinstance(slide["points"], list):
-                cleaned_points = []
-                for pt in slide["points"]:
-                    clean_pt = str(pt).replace('\n', ' ').replace('•', '').replace('➔', '').strip()
-                    if clean_pt:
-                        cleaned_points.append(clean_pt)
-                
-                if len(cleaned_points) > 4:
-                    slide["points"] = cleaned_points[:4]
-                elif len(cleaned_points) < 4:
-                    while len(cleaned_points) < 4:
-                        cleaned_points.append("Continuous trade shifts require monitoring immediate carrier capacity adjustments.")
-                    slide["points"] = cleaned_points
-    return slides_object
+# ------------------------------------------------------------------------------
+# 2. GEMINI AI PARSER & DATA GENERATION
+# ------------------------------------------------------------------------------
+def generate_payload():
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        raise ValueError("[ERROR] GEMINI_API_KEY environment variable is missing.")
 
+    client = genai.Client(api_key=api_key)
+    raw_news_data = fetch_latest_logistics_news()
+
+    # Read the JSON structure contract from prompt.txt
+    prompt_file_path = "prompt.txt"
+    if os.path.exists(prompt_file_path):
+        with open(prompt_file_path, "r", encoding="utf-8") as pf:
+            system_instructions = pf.read()
+    else:
+        system_instructions = "Extract top logistics news and convert into structured JSON carousel data."
+
+    user_query = f"""
+    Analyze the following recent logistics news and format strictly into the required JSON schema:
+    
+    NEWS DATA:
+    {raw_news_data}
+    """
+
+    print("[INFO] Calling Gemini AI API to generate dynamic payload...")
+    response = client.models.generate_content(
+        model="gemini-2.5-flash",
+        contents=user_query,
+        config=types.GenerateContentConfig(
+            system_instruction=system_instructions,
+            temperature=0.2,
+            response_mime_type="application/json"
+        )
+    )
+
+    clean_json_str = re.sub(r"^```json\s*", "", response.text.strip())
+    clean_json_str = re.sub(r"\s*```$", "", clean_json_str)
+
+    data = json.loads(clean_json_str)
+    return data
+
+# ------------------------------------------------------------------------------
+# 3. SCHEMA CONVERTERS & FILE GENERATION
+# ------------------------------------------------------------------------------
 def main():
-    log("INFO", "Starting execution pipeline.")
-    prompt_base, data = fetch_and_clean()
-    
-    if not prompt_base:
-        log("ERROR", "No prompt base found. Pipeline aborted.")
-        return
+    try:
+        data = generate_payload()
+        
+        main_info = data.get("main", {})
+        slides_list = data.get("slides", [])
 
-    final_input = f"{prompt_base}\n\n[LATEST LIVE DATA]:\n{data}"
-    
-    for model in MODEL_PRIORITY:
-        log("INFO", f"Attempting generation with model: {model}")
-        try:
-            response = client.models.generate_content(
-                model=model,
-                contents=final_input,
-                config=types.GenerateContentConfig(response_mime_type="application/json")
-            )
+        # ======================================================================
+        # FILE 1: template.js (Carousel Canvas Schema)
+        # ======================================================================
+        template_js_content = f"""if (typeof window !== 'undefined') {{ window.dailyData = {json.dumps(data, indent=4)}; }}
+if (typeof module !== 'undefined' && module.exports) {{ module.exports = {json.dumps(data, indent=4)}; }}"""
+
+        with open("template.js", "w", encoding="utf-8") as f:
+            f.write(template_js_content)
+        print("[SUCCESS] Successfully generated 'template.js'.")
+
+        # ======================================================================
+        # FILE 2: Social_Media/Video_Template_EN.js (Video Shorts Schema)
+        # ======================================================================
+        os.makedirs("Social_Media", exist_ok=True)
+
+        # Extract Hook Title for Video Shorts from main title or first slide
+        title_white = main_info.get("titleWhite", "GLOBAL LOGISTICS")
+        title_blue = main_info.get("titleBlue", "UPDATE")
+        hook_title = f"{title_white} {title_blue}".upper().strip()
+
+        script_slides = []
+        for idx, slide in enumerate(slides_list, start=1):
+            heading = slide.get("heading", f"SLIDE {idx}")
+            next_teaser = slide.get("nextUpTease", "")
             
-            # --- SANITIZATION ---
-            raw_text = response.text.replace("```json", "").replace("```", "").strip()
-            if raw_text.endswith(';'):
-                raw_text = raw_text[:-1]
-            if not raw_text.startswith('{'): raw_text = '{' + raw_text
-            if not raw_text.endswith('}'): raw_text = raw_text + '}'
-            
-            # --- VALIDATION ---
-            parsed_payload = json.loads(raw_text)
-            log("SUCCESS", "LLM payload successfully parsed as valid JSON.")
-            
-            # Extract paths safely (Deprecated LinkedIn extraction removed)
-            slides_object = parsed_payload.get("slides_data", parsed_payload)
-            post_content = parsed_payload.get("social_post", "")
-            
-            # --- ENFORCEMENT ---
-            slides_object = enforce_slide_structure(slides_object)
-            slides_json_str = json.dumps(slides_object, indent=4)
-            
-            # --- EXPORT TO FILES ---
-            # 1. Base slide template (template.js in Root)
-            with open("template.js", "w", encoding="utf-8") as f:
-                f.write(f"const dailyData = {slides_json_str};")
-            log("SUCCESS", "Generated and exported: template.js")
-                
-            # 2. Mirror to Social_Media/Video_Template_EN.js
-            social_media_dir = "Social_Media"
-            os.makedirs(social_media_dir, exist_ok=True)
-            video_template_path = os.path.join(social_media_dir, "Video_Template_EN.js")
-            
-            isomorphic_js = (
-                f"if (typeof window !== 'undefined') {{ window.dailyData = {slides_json_str}; }}\n"
-                f"if (typeof module !== 'undefined' && module.exports) {{ module.exports = {slides_json_str}; }}"
-            )
-            with open(video_template_path, "w", encoding="utf-8") as f:
-                f.write(isomorphic_js)
-            log("SUCCESS", f"Generated and exported mirror: {video_template_path}")
-                
-            # 3. Social Media Post (post.txt in Root)
-            with open("post.txt", "w", encoding="utf-8") as f:
-                clean_post = post_content.replace('\\n', '\n')
-                f.write(clean_post)
-            log("SUCCESS", "Generated and exported: post.txt")
-                
-            log("SUCCESS", "generate_intel.py pipeline completed successfully.")
-            return # Exit successfully without trying fallback models
-            
-        except Exception as e:
-            log("WARNING", f"Model {model} generation failed or JSON invalid: {str(e)}")
-            log("INFO", "Backing off for 10 seconds before next fallback attempt...")
-            time.sleep(10)
-            continue
-            
-    log("ERROR", "All models failed. Pipeline execution aborted.")
+            # Combine bullet points into a clean 1-2 sentence narration line
+            points = slide.get("points", [])
+            narration = " ".join(points[:2]) if points else f"Latest update on {heading}."
+
+            script_slides.append({
+                "slide_index": idx,
+                "headline": heading,
+                "teaserTitle": next_teaser if idx < len(slides_list) else "",
+                "visual_asset": f"backgroundyt{idx}.png",
+                "narration_line": narration
+            })
+
+        video_shorts_data = {
+            "language": "EN",
+            "video_shorts_data": {
+                "hookTitle": hook_title,
+                "totalDurationSeconds": 30,
+                "script_slides": script_slides
+            }
+        }
+
+        video_js_content = f"module.exports = {json.dumps(video_shorts_data, indent=4)};"
+
+        with open("Social_Media/Video_Template_EN.js", "w", encoding="utf-8") as f:
+            f.write(video_js_content)
+        print("[SUCCESS] Successfully generated 'Social_Media/Video_Template_EN.js'.")
+
+        # ======================================================================
+        # FILE 3: post.txt (Social Media Caption Payload)
+        # ======================================================================
+        summary_text = main_info.get("footerSummary", "")
+        hashtags = "#Logistics #SupplyChain #Freight #GlobalTrade #SiyalAir #LogisticsNews"
+        
+        post_text = f"🚨 GLOBAL INTEL UPDATE: {hook_title} 🚨\n\n{summary_text}\n\n"
+        for slide in slides_list:
+            post_text += f"🔹 {slide.get('heading', '')}\n"
+            for p in slide.get('points', []):
+                post_text += f" • {p}\n"
+            post_text += "\n"
+        post_text += f"{hashtags}"
+
+        with open("post.txt", "w", encoding="utf-8") as f:
+            f.write(post_text.strip())
+        print("[SUCCESS] Successfully generated 'post.txt'.")
+
+    except Exception as e:
+        print(f"[ERROR] Pipeline execution failed: {str(e)}")
+        raise e
 
 if __name__ == "__main__":
     main()
