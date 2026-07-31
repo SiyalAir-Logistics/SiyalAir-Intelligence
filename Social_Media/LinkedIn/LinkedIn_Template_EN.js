@@ -1,43 +1,43 @@
 if (typeof window !== 'undefined') { window.linkedinData = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL REGULATORY SHOCKS",
+        "hookTitle": "LOGISTICS INFRASTRUCTURE SHIFTING AUTONOMY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A six hundred four million dollar verdict against C.H. Robinson raises legal standards for freight broker carrier selection."
+                "narration_line": "The $604 million nuclear verdict against C.H. Robinson forces a major reset in broker carrier vetting and vicarious liability protocols."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "USPS raises Ground Advantage rates by up to three dollars for rural shipping, squeezing e-commerce merchant margins."
+                "narration_line": "Logistics giants are aggressively scaling agentic AI investments to capture massive productivity gains and automate complex global freight forwarding operations."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Justice Department Trade Fraud Task Force recovers one billion dollars, targeting cross-border compliance and tariff evasion."
+                "narration_line": "The new Freedom Haulers initiative creates an automated pipeline for veterans to enter trucking, aiming to fix critical national capacity shortages."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Federal court upholds the Federal Maritime Commission ruling that ocean container detention fees must promote port cargo fluidity."
+                "narration_line": "Federal trade enforcement hits record highs with $1 billion in fraud recoveries as Section 301 tariffs expand across 60 global nations."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Drone strikes in crucial Mediterranean shipping corridors escalate geopolitical risk premiums and trigger scheduling delays."
+                "narration_line": "The U.S. Court of Appeals mandates that ocean carrier detention fees must now demonstrably support and improve freight fluidity across all terminals."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FTC probes Shein over regulatory compliance, forcing direct-to-consumer e-commerce giants to raise prices and alter supply chains."
+                "narration_line": "Air cargo carriers move to bi-weekly fuel surcharge adjustments as jet fuel price volatility and Middle Eastern instability disrupt long-haul route reliability."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Wabash experiences historic shifts in trailer demand, signalling major restructuring within domestic asset-based motor carrier networks."
+                "narration_line": "Marketplace sellers face increased scrutiny as Senate probes into Chinese account manipulation and new USPS rate structures redefine ecommerce supply chain viability."
             },
             {
                 "slide_index": 8,
@@ -50,43 +50,43 @@ if (typeof window !== 'undefined') { window.linkedinData = {
 if (typeof module !== 'undefined' && module.exports) { module.exports = {
     "language": "English",
     "linkedin_shorts_data": {
-        "hookTitle": "GLOBAL REGULATORY SHOCKS",
+        "hookTitle": "LOGISTICS INFRASTRUCTURE SHIFTING AUTONOMY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A six hundred four million dollar verdict against C.H. Robinson raises legal standards for freight broker carrier selection."
+                "narration_line": "The $604 million nuclear verdict against C.H. Robinson forces a major reset in broker carrier vetting and vicarious liability protocols."
             },
             {
                 "slide_index": 2,
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "USPS raises Ground Advantage rates by up to three dollars for rural shipping, squeezing e-commerce merchant margins."
+                "narration_line": "Logistics giants are aggressively scaling agentic AI investments to capture massive productivity gains and automate complex global freight forwarding operations."
             },
             {
                 "slide_index": 3,
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Justice Department Trade Fraud Task Force recovers one billion dollars, targeting cross-border compliance and tariff evasion."
+                "narration_line": "The new Freedom Haulers initiative creates an automated pipeline for veterans to enter trucking, aiming to fix critical national capacity shortages."
             },
             {
                 "slide_index": 4,
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Federal court upholds the Federal Maritime Commission ruling that ocean container detention fees must promote port cargo fluidity."
+                "narration_line": "Federal trade enforcement hits record highs with $1 billion in fraud recoveries as Section 301 tariffs expand across 60 global nations."
             },
             {
                 "slide_index": 5,
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Drone strikes in crucial Mediterranean shipping corridors escalate geopolitical risk premiums and trigger scheduling delays."
+                "narration_line": "The U.S. Court of Appeals mandates that ocean carrier detention fees must now demonstrably support and improve freight fluidity across all terminals."
             },
             {
                 "slide_index": 6,
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FTC probes Shein over regulatory compliance, forcing direct-to-consumer e-commerce giants to raise prices and alter supply chains."
+                "narration_line": "Air cargo carriers move to bi-weekly fuel surcharge adjustments as jet fuel price volatility and Middle Eastern instability disrupt long-haul route reliability."
             },
             {
                 "slide_index": 7,
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Wabash experiences historic shifts in trailer demand, signalling major restructuring within domestic asset-based motor carrier networks."
+                "narration_line": "Marketplace sellers face increased scrutiny as Senate probes into Chinese account manipulation and new USPS rate structures redefine ecommerce supply chain viability."
             },
             {
                 "slide_index": 8,

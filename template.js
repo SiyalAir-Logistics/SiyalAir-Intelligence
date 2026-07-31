@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL REGULATORY",
-        "titleBlue": "SHOCKS",
-        "footerSummary": "Multi-million dollar legal verdicts and heightened customs enforcement escalate operational risk across global transshipment lanes."
+        "titleWhite": "LOGISTICS INFRASTRUCTURE SHIFTING",
+        "titleBlue": "AUTONOMY",
+        "footerSummary": "Escalating geopolitical instability and regulatory crackdowns on trade fraud are forcing a structural pivot toward AI-integrated logistics and redundant global supply chain networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "C.H. ROBINSON: COURT VERDICT",
+            "heading": "FREIGHT BROKERAGE: NUCLEAR LIABILITY",
             "points": [
-                "Texas jury issues a six hundred four million dollar verdict against C.H. Robinson for negligent carrier selection.",
-                "This massive ruling raises the legal standards for freight broker carrier vetting across domestic truckload networks.",
-                "Shippers face severe secondary liability risks as third party logistics firms reassess their subcontracting carrier networks.",
-                "Brokerages must rapidly deploy advanced digital safety compliance systems to prevent catastrophic legal and financial exposure."
+                "The $604 million advisory verdict against C.H. Robinson has triggered a fundamental reassessment of carrier vetting and vicarious liability within the brokerage sector.",
+                "Legal departments across major 3PLs are scrambling to formalize stricter compliance audits to mitigate risks associated with negligent hiring in a litigious judicial environment.",
+                "Brokerage networks are experiencing increased consolidation as independent agents seek the relative safety and technological support of larger, capitalized carrier platforms.",
+                "Shipper demand for data-backed carrier vetting protocols is reaching record highs as they attempt to insulate their supply chains from secondary liability exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: MARKETPLACE RATE SURCHARGES",
+            "nextUpTease": "AI-DRIVEN PRODUCTIVITY",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 48 Hours",
@@ -25,32 +25,49 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "USPS: MARKETPLACE RATE SURCHARGES",
+            "heading": "LOGISTICS TECH: AI SCALING",
             "points": [
-                "United States Postal Service increases Ground Advantage package rates targeting rural shipping locations across America.",
-                "E-commerce merchants face an additional two to three dollar surcharge for lightweight parcel distribution networks.",
-                "Sellers on platforms like eBay and Etsy must absorb higher freight costs or adjust regional pricing.",
-                "This rate hike pressures multi-channel retailers to seek regional parcel carriers to optimize final mile logistics."
+                "Global freight forwarders including DSV and Kuehne+Nagel are aggressively scaling investments to capture AI-driven productivity gains estimated in the hundreds of millions annually.",
+                "Agentic AI models are shifting from experimental pilots to core operational layers tasked with automating sales, demand planning, and complex yard management workflows.",
+                "The rapid integration of AI agents is accelerating the displacement of manual data entry tasks, directly challenging traditional freight forwarding labor structures.",
+                "Forwarders unable to deploy unified transport intelligence face immediate margin compression as automated competitors achieve superior throughput and predictive accuracy."
             ],
             "imageUrl": "",
-            "nextUpTease": "US JUSTICE DEPARTMENT: TRADE FRAUD CRACKDOWN",
+            "nextUpTease": "LABOR PIPELINE SECURITY",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.theloadstar.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "US JUSTICE DEPARTMENT: TRADE FRAUD CRACKDOWN",
+            "heading": "WORKFORCE: FREEDOM HAULERS INITIATIVE",
             "points": [
-                "The Trade Fraud Task Force recovers over one billion dollars in penalties for customs violations.",
-                "Federal enforcement agencies aggressively target forced labor infractions and illicit de minimis tariff evasion strategies.",
-                "Importers face unprecedented compliance audits as regulatory agencies leverage advanced data intelligence to detect cargo violations.",
-                "Supply chain managers must execute comprehensive supplier tracking protocols to avoid severe shipment delays and seizures."
+                "The administration launched the Freedom Haulers initiative to establish an automated pipeline for transitioning military veterans directly into commercial driving careers.",
+                "This program aims to resolve long-standing capacity attrition by streamlining the path to CDL attainment for high-discipline personnel across the national supply chain.",
+                "Federal enforcement remains focused on weeding out non-domiciled and fraudulent identity actors, further tightening the available pool of qualified drivers.",
+                "The program integration signifies a coordinated push to stabilize domestic trucking labor markets amid ongoing pressure from infrastructure and freight demand."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDERAL MARITIME COMMISSION: DETENTION FEES UPHOLD",
+            "nextUpTease": "TRADE ENFORCEMENT SURGE",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "REGULATORY: TRADE FRAUD ENFORCEMENT",
+            "points": [
+                "The DOJ Trade Fraud Task Force has officially surpassed $1 billion in total recoveries, signaling a permanent escalation in supply chain compliance enforcement.",
+                "Manufacturers and importers are facing heightened scrutiny regarding forced labor compliance as Section 301 tariffs are expanded across 60 global trading partners.",
+                "Increased recordkeeping requirements are now mandatory for firms seeking to navigate the complex overlap of customs enforcement and evolving trade policy mandates.",
+                "Strict auditing of supply chain inputs is no longer optional as federal authorities leverage data intelligence to target systemic import irregularities."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "OCEAN FREIGHT VOLATILITY",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 48 Hours",
@@ -58,16 +75,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "FEDERAL MARITIME COMMISSION: DETENTION FEES UPHOLD",
+            "id": 5,
+            "heading": "OCEAN SHIPPING: DETENTION REFORM",
             "points": [
-                "US Court of Appeals upholds federal ocean regulators ruling that detention charges must promote freight fluidity.",
-                "This landmark legal decision limits the ability of ocean carriers to assess unfair storage penalties.",
-                "Global container lines face intense operational scrutiny over billing practices during terminal congestion and port disruptions.",
-                "Importers gain significant financial leverage to dispute predatory demurrage assessments across major United States maritime gateways."
+                "A recent U.S. Court of Appeals ruling has solidified the mandate that ocean carrier detention fees must directly promote systemic freight fluidity.",
+                "Carriers are under intense pressure to overhaul billing practices or face significant civil penalties following the precedent set by recent multi-million dollar enforcement actions.",
+                "The FMC is tightening monitoring of service contracts and market conditions to prevent anticompetitive behavior that exacerbates port congestion and container dwell times.",
+                "Importers gain increased leverage to challenge predatory charges as the regulatory environment shifts decisively toward protecting public access to freight infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL MARITIME RISK: SECURITY THREATS",
+            "nextUpTease": "AIR CARGO DYNAMICS",
             "tags": [
                 "Source: https://www.fmc.gov",
                 "Published: Last 48 Hours",
@@ -75,52 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "GLOBAL MARITIME RISK: SECURITY THREATS",
-            "points": [
-                "A drone strike on a United States vessel in Egypt triggers severe security alerts.",
-                "Escalating geopolitical hostilities in the Mediterranean and Hormuz Strait push marine war risk premiums significantly higher.",
-                "Schedule reliability plummets as ocean container carriers alter vessel routing to avoid high risk transit corridors.",
-                "International shippers must build resilient multi modal transport redundancies to secure capacity during sudden maritime disruptions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "SHEIN: COMPLIANCE PROBE",
-            "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: Last 48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "SHEIN: COMPLIANCE PROBE",
+            "heading": "AIR CARGO: SURCHARGE ESCALATION",
             "points": [
-                "Federal Trade Commission launches a formal investigation into Shein regarding cross border logistics and tariff compliance.",
-                "The fast fashion platform raises consumer prices to mitigate rising import duties and regulatory enforcement costs.",
-                "Ending the de minimis loophole forces high volume marketplaces to restructure their direct to consumer networks.",
-                "E-commerce logistics operators are shifting inventories to regional warehouses to bypass volatile direct air freight lanes."
+                "Air cargo carriers are implementing bi-weekly reviews of fuel surcharges as jet fuel price volatility necessitates rapid, frequent adjustments to pricing models.",
+                "Middle Eastern conflicts continue to disrupt hub operations and route reliability, forcing global air networks to seek alternative transit hubs for time-sensitive cargo.",
+                "Heightened demand from AI-related logistics traffic is cushioning the impact of fluctuating bunker costs, preventing deeper rate declines across key transpacific corridors.",
+                "Shippers face continued uncertainty as capacity-to-demand ratios remain tight, preventing long-term pricing stabilization across international air trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "WABASH: TRAILER CAPACITY SHIFTS",
+            "nextUpTease": "ECOMMERCE MARKETPLACE EVOLUTION",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.joc.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "WABASH: TRAILER CAPACITY SHIFTS",
+            "heading": "ECOMMERCE: MARKETPLACE COMPLIANCE",
             "points": [
-                "Wabash reports historic shift in second quarter trailer demand despite registering unexpected overall financial losses.",
-                "The domestic trucking sector struggles to stabilize equipment capacity amid protracted freight market recovery cycles.",
-                "Carrier consolidation and terminal closures restructure asset availability across regional and national motor carrier freight networks.",
-                "Logistics planners must secure long term equipment agreements to insulate freight operations from capacity volatility."
+                "Marketplaces are under immense pressure as the U.S. Senate investigates potential systemic China-based manipulation of fulfillment accounts through bribery and identity fraud.",
+                "USPS rate adjustments for lightweight packages are forcing marketplace sellers to restructure shipping workflows to protect margin health on small-parcel volume.",
+                "The regulatory shift away from de minimis exclusions is forcing apparel and goods platforms to consolidate sourcing and re-evaluate omnichannel fulfillment strategies.",
+                "Platform providers are responding by tightening API and handling-time rules, effectively creating a more rigorous, automated compliance environment for third-party sellers."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 48 Hours",
                 "Status: Audited & True"
             ]
