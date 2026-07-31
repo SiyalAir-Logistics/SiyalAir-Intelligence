@@ -1,6 +1,6 @@
 # ==============================================================================
 # [ MODULE 1: CONFIGURATION & AUTHENTICATION ]
-# Purpose: Initializes environment variables, API keys, and model fallbacks.
+# Purpose: Initializes environment variables, API keys, and model fallback.
 # Data Flow: Reads from OS ENV -> Configures Gemini Client -> Sets global priorities.
 # ==============================================================================
 import os
