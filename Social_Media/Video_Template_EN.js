@@ -1,22 +1,39 @@
 if (typeof window !== 'undefined') { window.dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL SUPPLY CHAIN",
-        "titleBlue": "REFLUX",
-        "footerSummary": "Escalating trade tariffs and geopolitical closures in the Strait of Hormuz are triggering immediate, high-friction volatility across trans-Pacific and global freight networks."
+        "titleWhite": "GLOBAL FREIGHT SHIFT",
+        "titleBlue": "VOLATILITY",
+        "footerSummary": "Red Sea shipping disruption and Section 301 tariff expansion demand urgent logistics decoupling and real-time compliance recalibration for U.S. shippers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "STRICT TARIFF EXPANSION: GLOBAL IMPACT",
+            "heading": "RED SEA: SHIPPING CHOKEPOINTS",
             "points": [
-                "The U.S. Trade Representative has finalized forced labor-based tariffs impacting 60 trading nations as Section 122 protections expire.",
-                "This aggressive trade stance forces importers to navigate complex compliance shifts that threaten existing supply chain cost structures.",
-                "Operations must now reconcile with these immediate duty hikes, which are expected to dampen import margins across the electronics and industrial sectors.",
-                "Stakeholders should anticipate a cascade of redirected sourcing strategies as companies seek to avoid high-penalty tariff exposure."
+                "Houthi-linked threats in the Bab el-Mandeb strait have effectively forced major shipping lines to abandon Red Sea transits.",
+                "Vessel schedules have plummeted in reliability as carriers divert around Africa, increasing transit times and fuel consumption.",
+                "The ongoing closure creates structural inflation for long-haul freight costs and forces immediate supply chain redesigns.",
+                "Stakeholders must factor in permanent risk premiums as geopolitical conflict becomes a standard operational variable."
             ],
             "imageUrl": "",
-            "nextUpTease": "HORMAZ CLOSURE LOGISTICS",
+            "nextUpTease": "TARIFF ENFORCEMENT",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "TRADE: SECTION 301 TARIFFS",
+            "points": [
+                "The USTR is implementing new, aggressive forced-labor-based tariffs targeting 60 global trading partners.",
+                "This initiative represents a significant escalation in U.S. trade enforcement and compliance pressure on importers.",
+                "Companies face immediate operational friction as procurement teams scramble to verify supply chain origin data.",
+                "Expect intensified audit activity and potential supply shocks for businesses reliant on multi-national manufacturing."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FREIGHT TECHNOLOGY",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -24,33 +41,16 @@ if (typeof window !== 'undefined') { window.dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "HORMAZ CLOSURE: FLOW DISRUPTION",
-            "points": [
-                "The persistent closure of the Strait of Hormuz continues to cripple maritime schedule reliability for all but the largest tier-one ocean carriers.",
-                "Data from Sea-Intelligence indicates typical vessel delays have escalated sharply throughout Q2 due to mandatory service re-routing.",
-                "The logistical friction is creating substantial throughput backlogs at major gateway ports as vessel arrival windows become increasingly volatile.",
-                "Shippers face an inevitable tightening of capacity, forcing a strategic shift toward long-term risk management in international trade lanes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FREIGHT BROKER LIABILITY",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "BROKER LIABILITY: NEGLIGENT SELECTION",
+            "heading": "TECHNOLOGY: BROKERAGE LIABILITY",
             "points": [
-                "The $604 million advisory verdict against C.H. Robinson for negligent carrier selection marks a pivotal shift in freight brokerage legal exposure.",
-                "Industry experts warn that the Montgomery vs. Caribe ruling effectively mandates stricter vetting processes for all third-party logistics providers.",
-                "Brokers and carriers are now under intense pressure to automate vetting compliance to mitigate catastrophic vicarious liability risks.",
-                "Shippers will likely see increased vetting scrutiny, leading to longer procurement lead times and potentially higher service costs."
+                "The $604 million nuclear verdict against C.H. Robinson has fundamentally altered the landscape for freight brokerage risk.",
+                "Liability standards regarding negligent carrier selection are being reinterpreted by courts, placing brokers under extreme scrutiny.",
+                "Shippers must now prioritize rigorous vetting processes to protect against vicarious liability in their transport networks.",
+                "Brokerages are accelerating the integration of AI-driven compliance tools to mitigate potential catastrophic legal exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREEDOM HAULERS INITIATIVE",
+            "nextUpTease": "MARKET DYNAMICS",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
@@ -59,15 +59,15 @@ if (typeof window !== 'undefined') { window.dailyData = {
         },
         {
             "id": 4,
-            "heading": "FREEDOM HAULERS: WORKFORCE PIPELINE",
+            "heading": "MACRO: LABOR AND HIRING",
             "points": [
-                "President Trump has launched the Freedom Haulers initiative, an interagency campaign designed to automate the transition of veterans into trucking.",
-                "This program targets the chronic commercial driver shortage by streamlining CDL licensing and connecting military talent with five primary trucking titans.",
-                "The structural focus aims to lower recruitment friction and stabilize operational capacity across domestic logistics networks.",
-                "Market participants can expect a surge in entry-level driver supply, potentially stabilizing long-term freight hauling cost dynamics."
+                "President Trump has launched the 'Freedom Haulers' initiative to expedite military veteran transitions into commercial driving careers.",
+                "This federal pipeline aims to alleviate persistent driver capacity constraints while bolstering workforce resilience.",
+                "Strategic integration of this program could offer fleets a sustainable solution to long-term driver shortages.",
+                "Stakeholders should monitor hiring trends as military-to-civilian recruitment channels become a primary logistics policy focus."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBOTIC WAREHOUSE AUTOMATION",
+            "nextUpTease": "E-COMMERCE GROWTH",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -76,51 +76,51 @@ if (typeof window !== 'undefined') { window.dailyData = {
         },
         {
             "id": 5,
-            "heading": "AMAZON: ROBOTIC FULFILLMENT SCALE",
+            "heading": "RETAIL: E-COMMERCE EARNINGS",
             "points": [
-                "Amazon confirmed that over two-thirds of its U.S. volume is now processed through highly automated warehouse facilities.",
-                "The aggressive rollout of robotics and AI-driven fulfillment logic is significantly accelerating delivery speeds in urban market hubs.",
-                "Operational efficiency gains are directly offsetting rising inflationary pressures on labor and long-haul transportation costs.",
-                "Competitors will likely be forced to accelerate automation investment to remain relevant against this high-volume fulfillment benchmark."
+                "Amazon reported a 16% growth in North American sales during Q2, driven by aggressive expansion in logistics automation.",
+                "Record AI build-out spending demonstrates a shift toward high-velocity fulfillment to maintain dominance in urban markets.",
+                "The company continues to optimize reverse logistics to offset rising parcel surcharge costs and competitive threats.",
+                "E-commerce leaders are prioritizing robot-integrated fulfillment as the definitive path to sustainable margin expansion."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER SURCHARGE SHIFTS",
+            "nextUpTease": "COLD CHAIN LOGISTICS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR CARGO: SURCHARGE VOLATILITY",
+            "heading": "COLD CHAIN: PROCESS ALIGNMENT",
             "points": [
-                "Air cargo carriers have begun reviewing fuel surcharges on a bi-weekly cadence to combat extreme jet fuel price volatility.",
-                "Recent Middle Eastern conflict has exacerbated supply constraints, forcing operators to pass energy cost spikes directly to the shipper.",
-                "Market reliance on air freight remains elevated as maritime transit routes face sustained disruption from regional instability.",
-                "Supply chain managers must adjust budgeting models to account for dynamic freight pricing that changes twice per month."
+                "Temperature-sensitive freight management is shifting toward granular, quality-driven documentation and real-time monitoring.",
+                "Process alignment has become the core requirement for cold chain integrity, moving beyond simple refrigeration units.",
+                "Companies are investing in advanced analytics to measure the true business impact of freight damage and waste.",
+                "Strategic operational flexibility is required to navigate tightening food and pharmaceutical supply chain regulations."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDERAL FREIGHT FUNDING",
+            "nextUpTease": "INFRASTRUCTURE INVESTMENT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: FEDERAL FUNDING PUSH",
+            "heading": "INFRASTRUCTURE: DATA CENTERS",
             "points": [
-                "New federal freight plans and the BUILD America 250 Act signal a massive capital injection into domestic supply chain infrastructure.",
-                "The program focuses on critical bottlenecks, aiming to increase intermodal connectivity and throughput capacity across the U.S. logistics network.",
-                "Strategic funding will support the digitalization of ports and improved regional distribution node integration.",
-                "Stakeholders should monitor these project pipelines as they will dictate the future efficiency of local distribution networks."
+                "Exponential growth in data center construction is creating massive, specialized demand for freight and logistics services.",
+                "Trucking executives report that industrial construction remains a key driver for steady, high-value freight volume.",
+                "Supply chain planners must adapt to these unique, high-priority project cargo requirements to capture emerging revenues.",
+                "The data center boom is forcing a rethink of logistics procurement and obsolescence-driven financial strategies."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
@@ -130,22 +130,39 @@ if (typeof window !== 'undefined') { window.dailyData = {
 if (typeof module !== 'undefined' && module.exports) { module.exports = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL SUPPLY CHAIN",
-        "titleBlue": "REFLUX",
-        "footerSummary": "Escalating trade tariffs and geopolitical closures in the Strait of Hormuz are triggering immediate, high-friction volatility across trans-Pacific and global freight networks."
+        "titleWhite": "GLOBAL FREIGHT SHIFT",
+        "titleBlue": "VOLATILITY",
+        "footerSummary": "Red Sea shipping disruption and Section 301 tariff expansion demand urgent logistics decoupling and real-time compliance recalibration for U.S. shippers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "STRICT TARIFF EXPANSION: GLOBAL IMPACT",
+            "heading": "RED SEA: SHIPPING CHOKEPOINTS",
             "points": [
-                "The U.S. Trade Representative has finalized forced labor-based tariffs impacting 60 trading nations as Section 122 protections expire.",
-                "This aggressive trade stance forces importers to navigate complex compliance shifts that threaten existing supply chain cost structures.",
-                "Operations must now reconcile with these immediate duty hikes, which are expected to dampen import margins across the electronics and industrial sectors.",
-                "Stakeholders should anticipate a cascade of redirected sourcing strategies as companies seek to avoid high-penalty tariff exposure."
+                "Houthi-linked threats in the Bab el-Mandeb strait have effectively forced major shipping lines to abandon Red Sea transits.",
+                "Vessel schedules have plummeted in reliability as carriers divert around Africa, increasing transit times and fuel consumption.",
+                "The ongoing closure creates structural inflation for long-haul freight costs and forces immediate supply chain redesigns.",
+                "Stakeholders must factor in permanent risk premiums as geopolitical conflict becomes a standard operational variable."
             ],
             "imageUrl": "",
-            "nextUpTease": "HORMAZ CLOSURE LOGISTICS",
+            "nextUpTease": "TARIFF ENFORCEMENT",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "TRADE: SECTION 301 TARIFFS",
+            "points": [
+                "The USTR is implementing new, aggressive forced-labor-based tariffs targeting 60 global trading partners.",
+                "This initiative represents a significant escalation in U.S. trade enforcement and compliance pressure on importers.",
+                "Companies face immediate operational friction as procurement teams scramble to verify supply chain origin data.",
+                "Expect intensified audit activity and potential supply shocks for businesses reliant on multi-national manufacturing."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FREIGHT TECHNOLOGY",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -153,33 +170,16 @@ if (typeof module !== 'undefined' && module.exports) { module.exports = {
             ]
         },
         {
-            "id": 2,
-            "heading": "HORMAZ CLOSURE: FLOW DISRUPTION",
-            "points": [
-                "The persistent closure of the Strait of Hormuz continues to cripple maritime schedule reliability for all but the largest tier-one ocean carriers.",
-                "Data from Sea-Intelligence indicates typical vessel delays have escalated sharply throughout Q2 due to mandatory service re-routing.",
-                "The logistical friction is creating substantial throughput backlogs at major gateway ports as vessel arrival windows become increasingly volatile.",
-                "Shippers face an inevitable tightening of capacity, forcing a strategic shift toward long-term risk management in international trade lanes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FREIGHT BROKER LIABILITY",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "BROKER LIABILITY: NEGLIGENT SELECTION",
+            "heading": "TECHNOLOGY: BROKERAGE LIABILITY",
             "points": [
-                "The $604 million advisory verdict against C.H. Robinson for negligent carrier selection marks a pivotal shift in freight brokerage legal exposure.",
-                "Industry experts warn that the Montgomery vs. Caribe ruling effectively mandates stricter vetting processes for all third-party logistics providers.",
-                "Brokers and carriers are now under intense pressure to automate vetting compliance to mitigate catastrophic vicarious liability risks.",
-                "Shippers will likely see increased vetting scrutiny, leading to longer procurement lead times and potentially higher service costs."
+                "The $604 million nuclear verdict against C.H. Robinson has fundamentally altered the landscape for freight brokerage risk.",
+                "Liability standards regarding negligent carrier selection are being reinterpreted by courts, placing brokers under extreme scrutiny.",
+                "Shippers must now prioritize rigorous vetting processes to protect against vicarious liability in their transport networks.",
+                "Brokerages are accelerating the integration of AI-driven compliance tools to mitigate potential catastrophic legal exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREEDOM HAULERS INITIATIVE",
+            "nextUpTease": "MARKET DYNAMICS",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
@@ -188,15 +188,15 @@ if (typeof module !== 'undefined' && module.exports) { module.exports = {
         },
         {
             "id": 4,
-            "heading": "FREEDOM HAULERS: WORKFORCE PIPELINE",
+            "heading": "MACRO: LABOR AND HIRING",
             "points": [
-                "President Trump has launched the Freedom Haulers initiative, an interagency campaign designed to automate the transition of veterans into trucking.",
-                "This program targets the chronic commercial driver shortage by streamlining CDL licensing and connecting military talent with five primary trucking titans.",
-                "The structural focus aims to lower recruitment friction and stabilize operational capacity across domestic logistics networks.",
-                "Market participants can expect a surge in entry-level driver supply, potentially stabilizing long-term freight hauling cost dynamics."
+                "President Trump has launched the 'Freedom Haulers' initiative to expedite military veteran transitions into commercial driving careers.",
+                "This federal pipeline aims to alleviate persistent driver capacity constraints while bolstering workforce resilience.",
+                "Strategic integration of this program could offer fleets a sustainable solution to long-term driver shortages.",
+                "Stakeholders should monitor hiring trends as military-to-civilian recruitment channels become a primary logistics policy focus."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBOTIC WAREHOUSE AUTOMATION",
+            "nextUpTease": "E-COMMERCE GROWTH",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -205,51 +205,51 @@ if (typeof module !== 'undefined' && module.exports) { module.exports = {
         },
         {
             "id": 5,
-            "heading": "AMAZON: ROBOTIC FULFILLMENT SCALE",
+            "heading": "RETAIL: E-COMMERCE EARNINGS",
             "points": [
-                "Amazon confirmed that over two-thirds of its U.S. volume is now processed through highly automated warehouse facilities.",
-                "The aggressive rollout of robotics and AI-driven fulfillment logic is significantly accelerating delivery speeds in urban market hubs.",
-                "Operational efficiency gains are directly offsetting rising inflationary pressures on labor and long-haul transportation costs.",
-                "Competitors will likely be forced to accelerate automation investment to remain relevant against this high-volume fulfillment benchmark."
+                "Amazon reported a 16% growth in North American sales during Q2, driven by aggressive expansion in logistics automation.",
+                "Record AI build-out spending demonstrates a shift toward high-velocity fulfillment to maintain dominance in urban markets.",
+                "The company continues to optimize reverse logistics to offset rising parcel surcharge costs and competitive threats.",
+                "E-commerce leaders are prioritizing robot-integrated fulfillment as the definitive path to sustainable margin expansion."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER SURCHARGE SHIFTS",
+            "nextUpTease": "COLD CHAIN LOGISTICS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR CARGO: SURCHARGE VOLATILITY",
+            "heading": "COLD CHAIN: PROCESS ALIGNMENT",
             "points": [
-                "Air cargo carriers have begun reviewing fuel surcharges on a bi-weekly cadence to combat extreme jet fuel price volatility.",
-                "Recent Middle Eastern conflict has exacerbated supply constraints, forcing operators to pass energy cost spikes directly to the shipper.",
-                "Market reliance on air freight remains elevated as maritime transit routes face sustained disruption from regional instability.",
-                "Supply chain managers must adjust budgeting models to account for dynamic freight pricing that changes twice per month."
+                "Temperature-sensitive freight management is shifting toward granular, quality-driven documentation and real-time monitoring.",
+                "Process alignment has become the core requirement for cold chain integrity, moving beyond simple refrigeration units.",
+                "Companies are investing in advanced analytics to measure the true business impact of freight damage and waste.",
+                "Strategic operational flexibility is required to navigate tightening food and pharmaceutical supply chain regulations."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDERAL FREIGHT FUNDING",
+            "nextUpTease": "INFRASTRUCTURE INVESTMENT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: FEDERAL FUNDING PUSH",
+            "heading": "INFRASTRUCTURE: DATA CENTERS",
             "points": [
-                "New federal freight plans and the BUILD America 250 Act signal a massive capital injection into domestic supply chain infrastructure.",
-                "The program focuses on critical bottlenecks, aiming to increase intermodal connectivity and throughput capacity across the U.S. logistics network.",
-                "Strategic funding will support the digitalization of ports and improved regional distribution node integration.",
-                "Stakeholders should monitor these project pipelines as they will dictate the future efficiency of local distribution networks."
+                "Exponential growth in data center construction is creating massive, specialized demand for freight and logistics services.",
+                "Trucking executives report that industrial construction remains a key driver for steady, high-value freight volume.",
+                "Supply chain planners must adapt to these unique, high-priority project cargo requirements to capture emerging revenues.",
+                "The data center boom is forcing a rethink of logistics procurement and obsolescence-driven financial strategies."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
