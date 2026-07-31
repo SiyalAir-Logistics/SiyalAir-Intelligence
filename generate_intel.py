@@ -1,3 +1,8 @@
+# ==============================================================================
+# [ MODULE 1: CONFIGURATION & AUTHENTICATION ]
+# Purpose: Initializes environment variables, API keys, and model fallbacks.
+# Data Flow: Reads from OS ENV -> Configures Gemini Client -> Sets global priorities.
+# ==============================================================================
 import os
 import time
 import random
@@ -8,11 +13,6 @@ from google import genai
 from google.genai import types
 from bs4 import BeautifulSoup
 
-# ==============================================================================
-# [ MODULE 1: CONFIGURATION & AUTHENTICATION ]
-# Purpose: Initializes environment variables, API keys, and model fallbacks.
-# Data Flow: Reads from OS ENV -> Configures Gemini Client -> Sets global priorities.
-# ==============================================================================
 api_key = os.environ.get("GEMINI_API_KEY")
 if not api_key:
     print("[ERROR] GEMINI_API_KEY environment variable not found.")
@@ -21,7 +21,7 @@ if not api_key:
 client = genai.Client(api_key=api_key)
 
 # Models in priority order for fallback resilience
-MODEL_PRIORITY = ["gemini-3.5-flash", "gemini-3.1-flash-lite", "gemini-2.5-flash"]
+MODEL_PRIORITY = ["gemini-2.0-flash", "gemini-1.5-flash"]
 
 def log(level, message):
     """Enforces standardized logging taxonomy for GitHub Actions runners."""
@@ -37,7 +37,7 @@ def get_stealth_headers():
     user_agents = [
         "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",
         "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",
-        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, with Gecko) Chrome/126.0.0.0 Safari/537.36"
+        "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
     ]
     return {
         "User-Agent": random.choice(user_agents),
@@ -139,7 +139,7 @@ def main():
             parsed_payload = json.loads(raw_text)
             log("SUCCESS", "LLM payload successfully parsed as valid JSON.")
             
-            # Extract paths safely (Deprecated LinkedIn extraction removed)
+            # Extract paths safely
             slides_object = parsed_payload.get("slides_data", parsed_payload)
             post_content = parsed_payload.get("social_post", "")
             
@@ -153,18 +153,47 @@ def main():
                 f.write(f"const dailyData = {slides_json_str};")
             log("SUCCESS", "Generated and exported: template.js")
                 
-            # 2. Mirror to Social_Media/Video_Template_EN.js
+            # 2. Correct Video Shorts Schema Mirror to Social_Media/Video_Template_EN.js
             social_media_dir = "Social_Media"
             os.makedirs(social_media_dir, exist_ok=True)
             video_template_path = os.path.join(social_media_dir, "Video_Template_EN.js")
             
-            isomorphic_js = (
-                f"if (typeof window !== 'undefined') {{ window.dailyData = {slides_json_str}; }}\n"
-                f"if (typeof module !== 'undefined' && module.exports) {{ module.exports = {slides_json_str}; }}"
-            )
+            # Extract main title elements or fallback to defaults for video shorts
+            main_info = slides_object.get("main", {}) if isinstance(slides_object, dict) else {}
+            title_white = main_info.get("titleWhite", "GLOBAL LOGISTICS")
+            title_blue = main_info.get("titleBlue", "UPDATE")
+            hook_title = f"{title_white} {title_blue}".upper().strip()
+
+            slides_list = slides_object.get("slides", []) if isinstance(slides_object, dict) else []
+            script_slides = []
+            for idx, slide in enumerate(slides_list, start=1):
+                heading = slide.get("heading", f"SLIDE {idx}")
+                next_teaser = slide.get("nextUpTease", "")
+                points = slide.get("points", [])
+                narration = " ".join(points[:2]) if points else f"Latest update on {heading}."
+
+                script_slides.append({
+                    "slide_index": idx,
+                    "headline": heading,
+                    "teaserTitle": next_teaser if idx < len(slides_list) else "",
+                    "visual_asset": f"backgroundyt{idx}.png",
+                    "narration_line": narration
+                })
+
+            video_shorts_data = {
+                "language": "EN",
+                "video_shorts_data": {
+                    "hookTitle": hook_title,
+                    "totalDurationSeconds": 30,
+                    "script_slides": script_slides
+                }
+            }
+
+            video_js_content = f"module.exports = {json.dumps(video_shorts_data, indent=4)};"
+
             with open(video_template_path, "w", encoding="utf-8") as f:
-                f.write(isomorphic_js)
-            log("SUCCESS", f"Generated and exported mirror: {video_template_path}")
+                f.write(video_js_content)
+            log("SUCCESS", f"Generated and exported correct Video Shorts Schema mirror: {video_template_path}")
                 
             # 3. Social Media Post (post.txt in Root)
             with open("post.txt", "w", encoding="utf-8") as f:
