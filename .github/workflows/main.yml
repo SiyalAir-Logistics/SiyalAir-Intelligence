@@ -1,18 +1,28 @@
+# ==============================================================================
+# SIYALAIR-INTEL-STUDIO ORCHESTRATION PIPELINE (PROD_v2.0_2026)
+# DIRECTORY:   .github/workflows/
+# MODULE:      main.yml
+# PURPOSE:     Orchestrates end-to-end automated news generation, asset dynamic rotation,
+#              canvas slide screenshot capturing, repository synchronization, and 
+#              SMTP dispatch notifications on an hourly cron schedule.
+# ==============================================================================
+
 name: Hourly Intel Automation
+
 on:
   push:
     branches:
       - main
     paths-ignore:
-      - 'template.js'  # Block the bot from triggering itself
-      - 'post.txt'     # Block the bot from triggering itself on text updates
-      - 'download/**'  # Block the bot from looping on its own image updates
-      - 'bg_tracker.txt' # Block the bot from looping on background tracker state updates
-      - 'follow_tracker.txt' # Block the bot from looping on follow-up tracker state updates
-      - 'Social_Media/**' # Block the bot from looping on any Social Media module file updates
+      - 'template.js'           # Prevent re-entrant triggers from template data updates
+      - 'post.txt'              # Prevent re-entrant triggers from text payload updates
+      - 'download/**'          # Prevent re-entrant triggers from screenshot asset commits
+      - 'bg_tracker.txt'       # Prevent re-entrant triggers from background state updates
+      - 'follow_tracker.txt'   # Prevent re-entrant triggers from follow-up slide state updates
+      - 'Social_Media/**'      # Prevent re-entrant triggers from template code updates
   workflow_dispatch:
   schedule:
-    - cron: '16 * * * *'  # Single Primary Precise Hourly Trigger (Exactly once per hour)
+    - cron: '16 * * * *'       # Primary precise hourly trigger (runs at :16 past every hour)
 
 jobs:
   run-engine:
@@ -20,47 +30,55 @@ jobs:
     permissions:
       contents: write
     steps:
-      - name: Checkout Code
+      # ==============================================================================
+      # [ STEP 1: WORKSPACE CHECKOUT & SYSTEM SETUP ]
+      # ==============================================================================
+      - name: Checkout Code Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # Crucial: Gets full history tree
+          fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
 
-      - name: Set up Python
+      - name: Setup Python Runtime Environment
         uses: actions/setup-python@v4
         with:
           python-version: '3.10'
 
-      - name: Install dependencies
-        run: pip install requests beautifulsoup4 google-genai
+      - name: Install Python Core Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4 google-genai
 
-      - name: Run Intel Engine
+      # ==============================================================================
+      # [ STEP 2: INTEL ENGINE GENERATION ]
+      # ==============================================================================
+      - name: Run Intelligence Generation Engine
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python generate_intel.py
 
-      - name: Commit and Push Changes
+      # ==============================================================================
+      # [ STEP 3: ASSET TRACKER ROTATION & CORE DATA COMMIT ]
+      # ==============================================================================
+      - name: Process Dynamic Tracker Rotation and Commit Data
         run: |
           git config --global user.name "SiyalAir-Bot"
           git config --global user.email "bot@siyalair.com"
           
-          # 1. Fetch latest upstream state
+          # Fetch remote tracking branch and reset working tree state
           git fetch origin main
-          
-          # 2. Force Git to clear any local tracking discrepancies by resetting tracking pointer
           git reset --mixed origin/main
           
-          # 3. Dynamically rotate and increment background tracker state automatically
+          # Dynamically rotate background tracker index
           python - << 'EOF'
           import os
           import glob
 
           tracker_file = "bg_tracker.txt"
-          
-          # Scan assets folder dynamically to find total available backgrounds
           bg_files = glob.glob("assets/background*.png")
           valid_indices = []
+
           for f in bg_files:
               filename = os.path.basename(f)
               num_part = filename.replace("background", "").replace(".png", "")
@@ -69,7 +87,6 @@ jobs:
 
           max_backgrounds = max(valid_indices) if valid_indices else 1
 
-          # Read current tracker value
           try:
               if os.path.exists(tracker_file):
                   with open(tracker_file, "r", encoding="utf-8") as f:
@@ -79,28 +96,23 @@ jobs:
           except Exception:
               current_val = 1
 
-          # Determine next rotation step
-          if current_val >= max_backgrounds:
-              next_val = 1
-          else:
-              next_val = current_val + 1
+          next_val = 1 if current_val >= max_backgrounds else current_val + 1
 
-          # Write updated index back
           with open(tracker_file, "w", encoding="utf-8") as f:
               f.write(str(next_val))
-          print(f"Dynamic Background Rotation: Found {max_backgrounds} total backgrounds. Rotated tracker: {current_val} -> {next_val}")
+
+          print(f"[SUCCESS] Dynamic Background Rotation: Total={max_backgrounds}. State shifted: {current_val} -> {next_val}")
           EOF
 
-          # 3.1. Dynamically rotate and increment follow-up slide tracker state automatically
+          # Dynamically rotate follow-up CTA slide tracker index
           python - << 'EOF'
           import os
           import glob
 
           follow_tracker_file = "follow_tracker.txt"
-          
-          # Scan followup folder dynamically to find total available follow-up slides
           follow_files = glob.glob("followup/slide9-*.png")
           valid_follow_indices = []
+
           for f in follow_files:
               filename = os.path.basename(f)
               num_part = filename.replace("slide9-", "").replace(".png", "")
@@ -109,7 +121,6 @@ jobs:
 
           max_followups = max(valid_follow_indices) if valid_follow_indices else 1
 
-          # Read current tracker value
           try:
               if os.path.exists(follow_tracker_file):
                   with open(follow_tracker_file, "r", encoding="utf-8") as f:
@@ -119,106 +130,104 @@ jobs:
           except Exception:
               current_follow_val = 1
 
-          # Determine next rotation step
-          if current_follow_val >= max_followups:
-              next_follow_val = 1
-          else:
-              next_follow_val = current_follow_val + 1
+          next_follow_val = 1 if current_follow_val >= max_followups else current_follow_val + 1
 
-          # Write updated index back
           with open(follow_tracker_file, "w", encoding="utf-8") as f:
               f.write(str(next_follow_val))
-          print(f"Dynamic Follow-up Rotation: Found {max_followups} total follow slides. Rotated tracker: {current_follow_val} -> {next_follow_val}")
+
+          print(f"[SUCCESS] Dynamic Follow-up Rotation: Total={max_followups}. State shifted: {current_follow_val} -> {next_follow_val}")
           EOF
 
-          # 4. Stage template.js, post.txt, all Social_Media directory files, and the dynamically updated tracking state files
+          # Stage generated artifacts and tracker state files
           git add template.js post.txt Social_Media/ bg_tracker.txt follow_tracker.txt
           
-          # 5. Verify structural differences cleanly without stashing or merging files
           if ! git diff --cached --quiet; then
-            
-            # 6. Commit using the protected perimeter safety tag [skip ci]
             git commit -m "Automated Hourly Update & Dynamic Rotation: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
-            
-            # 7. Force clean push directly into the remote target branch
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
-            
-            # 8. Set tracking variable for email and screenshot phase
             echo "PUSH_SUCCESS=true" >> $GITHUB_ENV
+            echo "[SUCCESS] Core payload updated and pushed to remote branch."
           else
-            echo "No changes detected in template.js, post.txt, Social_Media/, or tracker files. Skipping push payload sequence to prevent loops."
+            echo "[INFO] No data variance detected in payload files. Skipping commit sequence."
             echo "PUSH_SUCCESS=false" >> $GITHUB_ENV
           fi
 
-      - name: Set up Node.js Environment
+      # ==============================================================================
+      # [ STEP 4: NODE.JS & CHROMIUM ENVIRONMENT INITIALIZATION ]
+      # ==============================================================================
+      - name: Setup Node.js Runtime Engine
         if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
         uses: actions/setup-node@v4
         with:
           node-version: '20'
 
-      - name: Install Puppeteer Chromium Engines
+      - name: Install Puppeteer Browser Rendering Engine
         if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
         run: npm install puppeteer
 
+      # ==============================================================================
+      # [ STEP 5: VISUAL SLIDE RENDER & CAPTURE PIPELINE ]
+      # ==============================================================================
       - name: Render and Synchronize Visual Slide Packages
         if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
         run: |
-          # 1. Active Deployment Synchronizer: Programmatically poll the server endpoint until the fresh commit is live
-          echo "Initiating live web server cache validation..."
+          echo "[INFO] Initiating live web server cache validation for GitHub Pages..."
           python - << 'EOF'
           import requests
           import time
-          import json
-          
+
           target_url = "https://siyalair-logistics.github.io/SiyalAir-Intelligence/template.js"
           success = False
-          
-          # Loop for up to 5 minutes (30 checks spaced 10 seconds apart)
+
+          # Poll endpoint for up to 5 minutes (30 checks spaced 10s apart)
           for attempt in range(30):
               try:
-                  # Force clean network pull by appending an active cache-busting timestamp token
                   response = requests.get(f"{target_url}?nocache={int(time.time())}", timeout=10)
                   if response.status_code == 200 and "dailyData" in response.text:
-                      print(f"Verified: Live GitHub Pages environment has completely synchronized on attempt {attempt + 1}.")
+                      print(f"[SUCCESS] Live CDN synchronized successfully on attempt {attempt + 1}.")
                       success = True
                       break
               except Exception as e:
-                  print(f"Polling update server... Latency detected: {str(e)}")
+                  print(f"[WARNING] Network polling attempt {attempt + 1} deferred: {str(e)}")
               time.sleep(10)
-          
+
           if not success:
-              print("Warning: Network sync timed out. Moving directly to backup buffer gate.")
+              print("[WARNING] Network sync verification timed out. Proceeding using workspace local buffer.")
           EOF
           
-          # 2. Hard structural safety buffer to allow complete CDN cache propogation across geographic edge networks
+          # CDN propagation settling buffer gate
           sleep 15
           
-          # 3. Fire the headless chrome browser capture tool inside the folder
+          # Execute headless browser screenshot capture pipeline
           node download/capture_slides.js
 
-      - name: Commit and Push Image Asset Directories
+      # ==============================================================================
+      # [ STEP 6: CAPTURED ASSETS COMMIT & STORAGE SYNCHRONIZATION ]
+      # ==============================================================================
+      - name: Commit Captured Graphic Asset Packages
         if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           git fetch origin main
           git reset --mixed origin/main
           
-          # Stage the newly populated folder paths explicitly
           git add download/
           
           if ! git diff --cached --quiet download/; then
-            git commit -m "Automated Graphic Asset Synch: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
+            git commit -m "Automated Graphic Asset Sync: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
+            echo "[SUCCESS] Captured slide image assets committed and synchronized."
           else
-            echo "No graphical image binary variance detected. Skipping asset storage update."
+            echo "[INFO] No visual image asset updates detected. Skipping asset commit."
           fi
 
+      # ==============================================================================
+      # [ STEP 7: DISPATCH EMAIL NOTIFICATION PIPELINE ]
+      # ==============================================================================
       - name: Dispatch Reconfirmation Email Notification
         if: env.PUSH_SUCCESS == 'true' || github.event_name == 'workflow_dispatch'
         env:
           EMAIL_USER: ${{ secrets.EMAIL_USER }}
           EMAIL_PASS: ${{ secrets.EMAIL_PASS }}
         run: |
-          # Buffer Gate: Wait 10 seconds to ensure all prior updates and image commits are fully settled
           sleep 10
           python - << 'EOF'
           import os
@@ -228,46 +237,37 @@ jobs:
           from email.mime.text import MIMEText
 
           try:
-              # Read the freshly pushed template.js file
               with open('template.js', 'r', encoding='utf-8') as f:
                   content = f.read()
 
-              # Read the freshly pushed post.txt file to embed in email body
               try:
                   with open('post.txt', 'r', encoding='utf-8') as pf:
                       post_content = pf.read().strip()
               except Exception:
-                  post_content = "Error: post.txt content could not be pulled from workspace environment memory."
+                  post_content = "Error: post.txt content unavailable in workspace."
 
-              # Safely extract titleWhite and titleBlue strings via Regex targeting JSON keys
               tw_match = re.search(r'"titleWhite"\s*:\s*"([^"]+)"', content)
               tb_match = re.search(r'"titleBlue"\s*:\s*"([^"]+)"', content)
 
               title_white = tw_match.group(1).strip() if tw_match else "SIYAL"
               title_blue = tb_match.group(1).strip() if tb_match else "AIR"
               
-              # Construct the raw dynamic text base string
-              raw_subject = f"{title_white} {title_blue}"
-              
-              # Convert entire string to Proper Title Case as requested
-              subject_line = raw_subject.title()
+              subject_line = f"{title_white} {title_blue}".title()
               
               recipient = "wonderway.fun@gmail.com"
               sender = os.environ.get('EMAIL_USER')
               password = os.environ.get('EMAIL_PASS')
 
-              # Build the Email Container
               msg = MIMEMultipart()
               msg['Subject'] = subject_line
               msg['From'] = f"SiyalAir Core <{sender}>"
               msg['To'] = recipient
 
-              # Minimalist, premium dark HTML notification body layout
               html_body = f"""
               <html>
                 <body style="background-color: #0d1117; color: #c9d1d9; font-family: monospace; padding: 30px;">
                   <div style="max-width: 600px; margin: 0 auto; border: 1px solid #30363d; padding: 20px; border-radius: 6px; background-color: #161b22;">
-                    <h2 style="color: #00a8a8; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0;">⚡_ SIYALAIR SYSTEM DISPATCH</h2>
+                    <h2 style="color: #00a8a8; border-bottom: 1px solid #30363d; padding-bottom: 10px; margin-top: 0;">⚡ SIYALAIR SYSTEM DISPATCH</h2>
                     <p style="font-size: 14px; color: #8b949e;">Automated reconfirmation deployment pipeline executed successfully.</p>
                     <table style="width: 100%; font-size: 13px; border-collapse: collapse; margin: 20px 0;">
                       <tr>
@@ -297,10 +297,8 @@ jobs:
               
               msg.attach(MIMEText(html_body, 'html'))
 
-              # Build target attachments array: (source_filepath, email_attachment_filename)
               attachments_list = []
 
-              # 1. Collect all template JS files from Social_Media/ recursively & rename to .txt
               if os.path.exists('Social_Media'):
                   for root_dir, _, filenames in os.walk('Social_Media'):
                       for fn in filenames:
@@ -309,11 +307,9 @@ jobs:
                               txt_name = fn[:-3] + '.txt'
                               attachments_list.append((file_path, txt_name))
 
-              # 2. Add root template.js formatted as template.txt
               if os.path.exists('template.js'):
                   attachments_list.append(('template.js', 'template.txt'))
 
-              # 3. Add post.txt directly formatted ready for copy-paste
               if os.path.exists('post.txt'):
                   attachments_list.append(('post.txt', 'post.txt'))
 
@@ -326,20 +322,16 @@ jobs:
                           part.add_header('Content-Disposition', f'attachment; filename="{attach_name}"')
                           msg.attach(part)
                           attached_count += 1
-                          print(f"Success: Attached {file_path} as clean text file '{attach_name}'.")
+                          print(f"[SUCCESS] Attached {file_path} as '{attach_name}'.")
                   except Exception as att_err:
-                      print(f"Warning: Failed to attach {file_path}: {str(att_err)}")
+                      print(f"[WARNING] Failed to attach {file_path}: {str(att_err)}")
 
-              if attached_count == 0:
-                  print("Warning: No template or post files were located for attachment.")
-
-              # Connect to Gmail SMTP Gateway Securely
               server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
               server.login(sender, password)
               server.sendmail(sender, [recipient], msg.as_string())
               server.quit()
-              print(f"Success: Notification email sent to {recipient} with subject: {subject_line}")
+              print(f"[SUCCESS] Reconfirmation dispatch email sent to {recipient}.")
 
           except Exception as e:
-              print(f"Error executing email step: {str(e)}")
+              print(f"[ERROR] Dispatch email execution fault: {str(e)}")
           EOF
