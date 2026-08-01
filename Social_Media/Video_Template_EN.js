@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL SUPPLY CHAIN STRATEGIES",
+        "hookTitle": "GLOBAL FREIGHT COMPLIANCE SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MIDDLE EAST: HORMUZ FUEL SURCHARGE IMPACT",
-                "teaserTitle": "DOJ: TRADE FRAUD TASK FORCE",
+                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "BROKER LIABILITY: $604M VERDICT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Escalating Strait of Hormuz conflicts degrade ship schedules, triggering bi-weekly carrier fuel surcharges across major global ocean freight routes."
+                "narration_line": "The USTR has deployed Section 301 tariffs on sixty nations to enforce strict forced labor compliance across global supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "DOJ: TRADE FRAUD RECOVERIES TOP 1 BILLION",
-                "teaserTitle": "DOT: FREEDOM HAULERS TRUCKING INITIATIVE",
+                "headline": "BROKER LIABILITY: $604M VERDICT",
+                "teaserTitle": "FEDEX: TRAILER LOADING ROBOTICS EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Federal trade fraud recoveries hit one billion dollars as aggressive enforcement targets systemic importer tariff evasion and customs misclassification."
+                "narration_line": "A landmark six hundred million dollar verdict against C.H. Robinson resets legal liability standards for third-party freight brokers."
             },
             {
                 "slide_index": 3,
-                "headline": "DOT: FREEDOM HAULERS TRUCKING INITIATIVE",
-                "teaserTitle": "FRA: MEXICAN RAIL CREW REGULATIONS",
+                "headline": "FEDEX: TRAILER LOADING ROBOTICS EXPANSION",
+                "teaserTitle": "RAIL MERGER: CN OPPOSITION WITHDRAWAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Transportation officials launch military veteran driver recruitment while tightening CDL safety enforcement against non-domiciled commercial truck drivers."
+                "narration_line": "FedEx expands autonomous trailer loading technology to optimize parcel throughput and reduce dock handling bottlenecks."
             },
             {
                 "slide_index": 4,
-                "headline": "FRA: MEXICAN RAIL CREW REGULATIONS",
-                "teaserTitle": "USPS: RURAL GROUND ADVANTAGE RATE HIKE",
+                "headline": "RAIL MERGER: CN OPPOSITION WITHDRAWAL",
+                "teaserTitle": "FMC: DETENTION FEE FLUIDITY MANDATE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Federal railroad regulators propose stricter English language proficiency rules for Mexican locomotive crews crossing into United States rail corridors."
+                "narration_line": "Canadian National withdraws merger opposition after securing strategic rail access rights in a major Class I network alignment."
             },
             {
                 "slide_index": 5,
-                "headline": "USPS: RURAL GROUND ADVANTAGE RATE HIKE",
-                "teaserTitle": "EUROPE: HEAVY ELECTRIC TRUCK ADOPTION",
+                "headline": "FMC: DETENTION FEE FLUIDITY MANDATE",
+                "teaserTitle": "CONGRESS: CHAMELEON CARRIER CRACKDOWN",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Postal rates rise on Ground Advantage parcel deliveries, increasing final-mile costs for e-commerce sellers shipping lightweight goods to rural areas."
+                "narration_line": "Federal courts upheld FMC rulings prohibiting detention fees whenever port congestion blocks actual container pickup."
             },
             {
                 "slide_index": 6,
-                "headline": "EUROPE: HEAVY ELECTRIC TRUCK ADOPTION",
-                "teaserTitle": "GE AEROSPACE: LEAD TIME REDUCTION",
+                "headline": "CONGRESS: CHAMELEON CARRIER CRACKDOWN",
+                "teaserTitle": "AMAZON: FULFILLMENT ROBOTICS SCALING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Over ninety percent of European fleet operators report high satisfaction with heavy electric freight trucks operating on commercial transport routes."
+                "narration_line": "Senate legislation targets chameleon trucking carriers attempting to reopen under new identities to evade safety fines."
             },
             {
                 "slide_index": 7,
-                "headline": "GE AEROSPACE: LEAD TIME REDUCTION",
+                "headline": "AMAZON: FULFILLMENT ROBOTICS SCALING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Manufacturing process consolidation enables GE Aerospace to cut defense supply chain lead times by sixty percent across key facilities."
+                "narration_line": "Amazon accelerates fulfillment delivery speeds through massive robotics expansion across regional logistics hubs."
             },
             {
                 "slide_index": 8,

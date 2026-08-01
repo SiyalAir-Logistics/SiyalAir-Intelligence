@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL SUPPLY CHAIN",
-        "titleBlue": "STRATEGIES",
-        "footerSummary": "Geopolitical tensions, regulatory tightening, and fuel volatility force aggressive operational resets across global maritime, rail, and postal network nodes."
+        "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Regulatory shifts, massive broker liability verdicts, and automated carrier overhauls are re-engineering global logistics risk profiles and freight movement fluidity across networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MIDDLE EAST: HORMUZ FUEL SURCHARGE IMPACT",
+            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
             "points": [
-                "Escalating conflict around the Strait of Hormuz has disrupted critical vessel traffic, severely impacting container ship schedule reliability.",
-                "Ocean and air cargo carriers are initiating bi-weekly fuel surcharge reviews to rapidly pass rising operational costs directly to commercial shippers.",
-                "Global logistics managers must prepare for volatile transit times and rising transport costs along primary trade corridors passing near Middle Eastern waters.",
-                "Shippers are advised to reassess routing strategies and dynamically adjust inventory buffers to mitigate severe Middle Eastern bottleneck disruptions."
+                "The U.S. Trade Representative has initiated Section 301 tariffs targeting 60 trading partners to address forced labor compliance following Section 122 expirations.",
+                "Shippers face immediate duty rate recalibrations across cross-border lanes, directly escalating landed cost formulas for international supply networks.",
+                "Regulatory agencies are enforcing stringent supply chain tracing, compelling importers to verify tier-one and tier-two vendor compliance.",
+                "Enterprise risk models must pivot toward rapid sourcing diversification to avoid steep penalty exposure and custom hold delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE",
+            "nextUpTease": "BROKER LIABILITY: $604M VERDICT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DOJ: TRADE FRAUD RECOVERIES TOP 1 BILLION",
+            "heading": "BROKER LIABILITY: $604M VERDICT",
             "points": [
-                "The Department of Justice Trade Fraud Task Force announced over one billion dollars in recoveries, penalties, and forfeitures since inception.",
-                "Enforcement actions target systemic tariff evasion, misclassification of commercial imports, and fraudulent valuation practices across global supply chains.",
-                "Importers and logistics partners face heightened scrutiny as federal authorities leverage advanced data intelligence to detect customs compliance breaches.",
-                "Supply chain executives must audit customs filings and operational documentation to avoid severe civil penalties and costly import disruptions."
+                "A landmark $604 million advisory verdict against C.H. Robinson has intensified legal scrutiny surrounding freight broker carrier selection and vetting protocols.",
+                "The legal outcome establishes unprecedented vicarious liability precedents, threatening existing third-party logistics operational frameworks.",
+                "Freight brokerages are aggressively restructuring digital carrier onboarding to incorporate real-time safety verification algorithms.",
+                "Shippers and 3PLs must prepare for elevated insurance premiums and heightened due-diligence standards across highway freight networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOT: FREEDOM HAULERS TRUCKING INITIATIVE",
+            "nextUpTease": "FEDEX: TRAILER LOADING ROBOTICS EXPANSION",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DOT: FREEDOM HAULERS TRUCKING INITIATIVE",
+            "heading": "FEDEX: TRAILER LOADING ROBOTICS EXPANSION",
             "points": [
-                "The US Department of Transportation launched the Freedom Haulers initiative to transition military veterans into commercial driver license roles.",
-                "The interagency recruitment push coincides with strict regulatory enforcement against non-domiciled commercial truck drivers operating across domestic freight networks.",
-                "This policy aims to address long-standing driver shortages while standardizing safety compliance across interstate freight transportation channels.",
-                "Motor carriers leveraging veteran recruitment pipelines can build resilient driver pools while navigating stricter federal CDL compliance enforcement."
+                "FedEx is expanding its pilot program for autonomous trailer loading systems to streamline hub operations and mitigate terminal congestion.",
+                "Automated trailer handling dramatically reduces dwell times while optimizing package placement density within long-haul highway trailers.",
+                "The deployment marks a major step in the Network 2.0 consolidation plan, driving structural unit-cost reductions across parcel hubs.",
+                "Terminal operators will accelerate capital allocation toward autonomous facility infrastructure to preserve throughput margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "FRA: MEXICAN RAIL CREW REGULATIONS",
+            "nextUpTease": "RAIL MERGER: CN OPPOSITION WITHDRAWAL",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FRA: MEXICAN RAIL CREW REGULATIONS",
+            "heading": "RAIL MERGER: CN OPPOSITION WITHDRAWAL",
             "points": [
-                "The Federal Railroad Administration proposes stricter English language proficiency standards for Mexican locomotive crews operating within the United States.",
-                "The regulatory push aims to standardize cross-border communication protocols and enhance operational safety along high-volume international rail freight corridors.",
-                "Rail carriers and cross-border shippers must evaluate potential crew transfer delays at major southern border interchange gateways.",
-                "Supply chain operators relying on cross-border rail logistics should monitor compliance timelines to prevent unexpected transit disruptions."
+                "Canadian National agreed not to contest the proposed Union Pacific and Norfolk Southern merger after securing critical shipper site access rights.",
+                "The settlement agreement ensures CN maintains strategic intermodal connectivity across key Midwestern and North American rail corridors.",
+                "Regulatory approval by the Surface Transportation Board remains the final hurdle for the combined Class I mega-network architecture.",
+                "Rail shippers anticipate shifting route options and potential tariff modifications as consolidated rail operators harmonize network schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: RURAL GROUND ADVANTAGE RATE HIKE",
+            "nextUpTease": "FMC: DETENTION FEE FLUIDITY MANDATE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "USPS: RURAL GROUND ADVANTAGE RATE HIKE",
+            "heading": "FMC: DETENTION FEE FLUIDITY MANDATE",
             "points": [
-                "The United States Postal Service implemented rate increases on Ground Advantage services, specifically impacting lightweight parcel shipments to rural regions.",
-                "E-commerce sellers and digital marketplace platforms face higher final-mile fulfillment surcharges on lightweight domestic goods bound for non-urban destinations.",
-                "The price adjustment reflects rising operational costs associated with maintaining extensive low-density delivery networks across remote postal zones.",
-                "Retailers must adjust outbound parcel routing strategies or adjust consumer shipping rates to offset expanding final-mile postal costs."
+                "The U.S. Court of Appeals upheld the Federal Maritime Commission ruling requiring container detention and demurrage fees to directly promote freight fluidity.",
+                "Ocean carriers and marine terminal operators can no longer assess punitive demurrage charges when port congestion prevents container retrieval.",
+                "The legal precedent reinforces Ocean Shipping Reform Act enforcement mechanisms, safeguarding beneficial cargo owners against arbitrary billing.",
+                "Importers and drayage fleets gain strengthened leverage to dispute improper billing through formal FMC charge complaint frameworks."
             ],
             "imageUrl": "",
-            "nextUpTease": "EUROPE: HEAVY ELECTRIC TRUCK ADOPTION",
+            "nextUpTease": "CONGRESS: CHAMELEON CARRIER CRACKDOWN",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EUROPE: HEAVY ELECTRIC TRUCK ADOPTION",
+            "heading": "CONGRESS: CHAMELEON CARRIER CRACKDOWN",
             "points": [
-                "A comprehensive study by \u00d6ko-Institut revealed that 93 percent of European fleet operators report high satisfaction with heavy electric freight trucks.",
-                "Early adopters operating heavy electric vehicles for over a year confirmed operational reliability and lower total cost of ownership across regional routes.",
-                "The findings provide empirical backing for fleet electrification initiatives as charging infrastructure expands across core European freight transport corridors.",
-                "Logistics service providers can confidently accelerate fleet decarbonization plans to meet expanding corporate sustainability targets."
+                "New bipartisan Senate legislation aims to eliminate chameleon carriers that re-register under fresh identities to bypass safety enforcement and penalties.",
+                "The bill mandates enhanced digital tracking of USDOT registration histories and cross-checks motor carrier ownership records in real time.",
+                "Freight fraud and safety evasion strategies are facing unprecedented federal enforcement pressure across interstate commercial trucking.",
+                "Logistics brokers will gain streamlined compliance data tools to filter fraudulent or high-risk trucking entities from spot market boards."
             ],
             "imageUrl": "",
-            "nextUpTease": "GE AEROSPACE: LEAD TIME REDUCTION",
+            "nextUpTease": "AMAZON: FULFILLMENT ROBOTICS SCALING",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GE AEROSPACE: LEAD TIME REDUCTION",
+            "heading": "AMAZON: FULFILLMENT ROBOTICS SCALING",
             "points": [
-                "GE Aerospace successfully reduced manufacturing lead times by 60 percent through process consolidation and component transport distance reduction.",
-                "The operational overhaul accelerated production throughput for defense and commercial aviation supply chains facing surging global equipment demands.",
-                "Optimized facility layouts and streamlined assembly workflows served as the primary operational catalysts for this dramatic efficiency enhancement.",
-                "Industrial manufacturers across complex sectors are adopting similar lean footprint strategies to insulate manufacturing networks against external shocks."
+                "Amazon reported record fulfillment speed improvements driven by widespread robotics integration across its regional distribution network.",
+                "Automated item sorting and robotic arm deployment lowered per-unit handling costs while expanding same-day delivery coverage.",
+                "The e-commerce giant's operational performance sets a high technological benchmark for competing omnichannel retail fulfillment networks.",
+                "Third-party sellers leveraging fulfillment services benefit from shortened transit windows and improved inventory placement accuracy."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
