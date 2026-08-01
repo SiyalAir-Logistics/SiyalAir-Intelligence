@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT REGULATORY",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Forensic audit highlights massive legal verdicts, expanding tariffs, Hormuz chokepoints, and parcel rate hikes disrupting global supply chain stability."
+        "titleWhite": "GLOBAL FREIGHT RATE",
+        "titleBlue": "VOLATILITY",
+        "footerSummary": "Logistics networks confront severe structural friction as new trade tariffs, carrier liabilities, and geopolitical chokepoint closures reshape cross-border supply chain economics."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
+            "heading": "USTR FORCED LABOR TARIFFS",
             "points": [
-                "A court rendered a $604 million advisory verdict against C.H. Robinson over carrier vetting practices in the Montgomery vicarious liability case.",
-                "The unprecedented judgment sets a critical precedent that dramatically increases legal exposure and carrier compliance standards across freight brokerages.",
-                "Third-party logistics providers nationwide are restructuring operational carrier selection protocols to mitigate escalating tort litigation risks.",
-                "Freight brokers face immediate pressure to enforce stricter safety audits before dispatching third-party motor carriers."
+                "The Office of the United States Trade Representative moves forward with new Section 301 tariffs targeting sixty trading nations.",
+                "Importers face immediate cost increases as compliance mandates and strict enforcement measures cascade across global supply chains.",
+                "Supply chain planners must restructure sourcing models to navigate mounting trade penalties and enhanced verification frameworks.",
+                "Stakeholders should anticipate prolonged documentation friction and higher landed costs across affected import corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: SECTION 301 FORCED LABOR TARIFFS",
+            "nextUpTease": "ROADSIDE LIABILITY VERDICTS",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -25,102 +25,102 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "USTR: SECTION 301 FORCED LABOR TARIFFS",
+            "heading": "ROADSIDE LIABILITY VERDICTS",
             "points": [
-                "The Office of the U.S. Trade Representative is advancing Section 301 tariffs across 60 trading partners following Section 122 expiration.",
-                "The regulatory framework targets forced labor violations, imposing immediate duty increases on cross-border manufacturing networks.",
-                "Importers are scrambling to audit multi-tier supply chains to prevent costly customs seizures and unexpected duty adjustments.",
-                "Trade compliance teams must rapidly adjust landed-cost models as federal trade enforcement reaches peak intensity."
+                "A massive legal verdict hits C.H. Robinson with a six hundred four million dollar advisory ruling in negligent carrier selection.",
+                "Brokerage networks face heightened exposure under vicarious liability principles following recent landmark judicial determinations.",
+                "Logistics operators are scrambling to tighten carrier vetting standards and documentation protocols to mitigate future exposure.",
+                "Industry analysts predict a permanent shift in how third-party logistics providers audit and onboard motor carriers."
             ],
             "imageUrl": "",
-            "nextUpTease": "STRAIT OF HORMUZ: SHIPPING FUEL CRISIS",
+            "nextUpTease": "MARITIME ROUTE DIVERSIONS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "STRAIT OF HORMUZ: SHIPPING FUEL CRISIS",
+            "heading": "MARITIME ROUTE DIVERSIONS",
             "points": [
-                "Ongoing closure of the Strait of Hormuz chokepoint has disrupted Middle Eastern crude exports and ocean liner schedules.",
-                "Air cargo and ocean carriers are deploying emergency fuel surcharges to offset surging bunker and jet fuel prices.",
-                "Vessel rerouting around Africa has significantly expanded transit times and eroded container fleet reliability metrics.",
-                "Global supply chains face renewed inflationary pressure as energy and transport costs surge simultaneously."
+                "Persistent security threats in the Red Sea force vessel operators to abandon the Bab el-Mandeb chokepoint entirely.",
+                "Carriers reroute container ships around the African Cape, adding transit days and constraining global slot availability.",
+                "Operating margins face severe pressure as increased bunker fuel consumption offsets spot rate adjustments.",
+                "Global shippers must factor extended transit lead times into inventory replenishment strategies for upcoming quarters."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: MARKETPLACE PARCEL RATE HIKE",
+            "nextUpTease": "AUTOMATED FULFILLMENT SURGE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "USPS: MARKETPLACE PARCEL RATE HIKE",
+            "heading": "AUTOMATED FULFILLMENT SURGE",
             "points": [
-                "The U.S. Postal Service has enacted sudden Ground Advantage package rate hikes impacting e-commerce marketplace merchants.",
-                "Strict new noncompliance penalties for improperly declared hazardous materials have also gone into full effect.",
-                "Online sellers operating on major platforms face elevated fulfillment expenditures on lightweight rural deliveries.",
-                "E-commerce logistics managers must re-evaluate carrier allocation strategies to protect slim operating margins."
+                "United Parcel Service reports that over two-thirds of total U.S. volume is now processed through automated facility hubs.",
+                "Warehouse robotics deployments accelerate across major retail networks to counter persistent labor shortages and rising throughput costs.",
+                "Infrastructure investments shift toward software-driven orchestration tools to optimize pick-and-pack fulfillment workflows.",
+                "Supply chain executives expect automated sorting capabilities to set the baseline benchmark for carrier performance."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: ROBOTIC TRAILER LOADING PILOT",
+            "nextUpTease": "CUSTOMS ENFORCEMENT SURGE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FEDEX: ROBOTIC TRAILER LOADING PILOT",
+            "heading": "CUSTOMS ENFORCEMENT SURGE",
             "points": [
-                "FedEx is expanding pilot deployments of autonomous trailer-loading robotics across high-volume distribution hubs.",
-                "The system leverages advanced artificial intelligence to automate heavy parcel stacking and speed up dock turnaround times.",
-                "Operational data indicates substantial reductions in hub dwell times and physical labor bottlenecks.",
-                "The technological rollout signals a broader industry shift toward fully automated dock door execution."
+                "The Department of Justice Trade Fraud Task Force crosses one billion dollars in recoveries, penalties, and forfeitures.",
+                "Importers experience aggressive compliance audits as federal agencies utilize advanced data analytics to flag import discrepancies.",
+                "Cross-border operators must maintain pristine recordkeeping practices to survive intense regulatory scrutiny.",
+                "Non-compliant customs brokerage strategies will face rapid penalties as inter-agency enforcement cooperation deepens."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: VOLUME SURGE RAIL DEALS",
+            "nextUpTease": "AIR CARGO CAPACITY PINCH",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "INTERMODAL: VOLUME SURGE RAIL DEALS",
+            "heading": "AIR CARGO CAPACITY PINCH",
             "points": [
-                "IANA reports an 11.6% year-over-year surge in June intermodal container and trailer volumes across North America.",
-                "Canadian National withdrew opposition to the UP-NS merger after securing expanded shipper site access rights.",
-                "Class I rail carriers are aligning network capacity to capture growing import volumes moving inland from West Coast ports.",
-                "Shifting freight dynamics favor intermodal conversions as long-haul trucking rates begin moving upward."
+                "Global air cargo demand remains robust, driven by surging e-commerce volumes and supply chain modal shifts.",
+                "Airlines implement bi-weekly fuel surcharge adjustments to absorb escalating jet fuel prices caused by regional conflicts.",
+                "Forwarders adopt digital sales platforms and AI-driven quoting tools to secure capacity in a volatile rate environment.",
+                "Shippers utilizing airfreight should secure long-term block-space agreements to protect against sudden spot spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "US COMMERCE: TECH SUPPLY FUNDING",
+            "nextUpTease": "INDUSTRIAL REAL ESTATE BALANCE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "US COMMERCE: TECH SUPPLY FUNDING",
+            "heading": "INDUSTRIAL REAL ESTATE BALANCE",
             "points": [
-                "The U.S. Department of Commerce allocated $874 million to bolster domestic semiconductor and technology supply chain resiliency.",
-                "In exchange for capital injections, the federal government receives minority non-controlling equity stakes in seven manufacturing firms.",
-                "This strategic initiative accelerates nearshoring efforts and safeguards critical components against global geopolitical shocks.",
-                "Domestic manufacturing infrastructure gains long-term capacity support to insulate high-tech trade flow."
+                "Colliers reports national industrial vacancy rates settling at seven point three percent as new supply growth moderates.",
+                "Real estate developers align warehouse construction starts closely with localized demand from logistics providers and data centers.",
+                "Market stabilization allows occupiers to negotiate more flexible lease terms across major North American distribution hubs.",
+                "Strategic facility network redesigns will define supply chain cost-reduction initiatives for the remainder of the year."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
