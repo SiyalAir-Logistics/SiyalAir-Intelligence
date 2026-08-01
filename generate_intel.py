@@ -1,7 +1,7 @@
 # ==============================================================================
 # [ MODULE 1: CONFIGURATION & AUTHENTICATION ]
-# Purpose: Initializes environment variables, API keys, and model fallbacks.
-# Data Flow: Reads from OS ENV -> Configures Gemini Client -> Sets global priorities.
+# Purpose: Initializes environment variables, API keys, and dynamic model discovery.
+# Data Flow: Reads from OS ENV -> Queries live model list -> Sets fallback chain.
 # ==============================================================================
 import os
 import time
@@ -20,8 +20,21 @@ if not api_key:
 
 client = genai.Client(api_key=api_key)
 
-# Models in priority order for fallback resilience
-MODEL_PRIORITY = ["gemini-2.0-flash", "gemini-1.5-flash"]
+def get_dynamic_model_priority():
+    """Dynamically fetches available flash/pro models from the API, 
+    ensuring a universal fallback chain that never gets stuck on old versions."""
+    dynamic_models = []
+    try:
+        for m in client.models.list():
+            name = m.name.replace("models/", "")
+            if "flash" in name and name not in dynamic_models:
+                dynamic_models.append(name)
+    except Exception as e:
+        print(f"[WARNING] Could not fetch dynamic model list: {str(e)}")
+
+    fallback_chain = ["gemini-2.0-flash", "gemini-1.5-flash"]
+    combined = list(dict.fromkeys(dynamic_models + fallback_chain))
+    return combined
 
 def log(level, message):
     """Enforces standardized logging taxonomy for GitHub Actions runners."""
@@ -139,8 +152,10 @@ def main():
         return
 
     final_input = f"{prompt_base}\n\n[LATEST LIVE DATA]:\n{data}"
-    
-    for model in MODEL_PRIORITY:
+    model_priority = get_dynamic_model_priority()
+    log("INFO", f"Active model priority chain: {model_priority}")
+
+    for model in model_priority:
         log("INFO", f"Attempting generation with model: {model}")
         try:
             response = client.models.generate_content(
@@ -158,7 +173,7 @@ def main():
             
             # --- VALIDATION ---
             parsed_payload = json.loads(raw_text)
-            log("SUCCESS", "LLM payload successfully parsed as valid JSON.")
+            log("SUCCESS", f"LLM payload successfully parsed as valid JSON using model: {model}")
             
             # --- ROBUST NODE EXTRACTION & FALLBACKS ---
             slides_data_node = parsed_payload.get("slides_data")
@@ -227,6 +242,7 @@ def main():
             continue
             
     log("ERROR", "All models failed. Pipeline execution aborted.")
+    exit(1)
 
 if __name__ == "__main__":
     main()
