@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE STRATEGY REALIGNMENT",
+        "hookTitle": "GLOBAL LOGISTICS RISK SURGES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FRA: MEXICAN RAIL CREW MANDATE",
-                "teaserTitle": "DOT: FREEDOM HAULERS VETERAN PIPELINE",
+                "headline": "BROKERAGE: BROKER LIABILITY VERDICT",
+                "teaserTitle": "USTR: FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The FRA moves to mandate stricter English proficiency standards for Mexican cross-border rail crews, heightening safety oversight."
+                "narration_line": "A landmark six-hundred-four million dollar court verdict against C.H. Robinson dramatically increases liability exposure for freight broker carrier selection."
             },
             {
                 "slide_index": 2,
-                "headline": "DOT: FREEDOM HAULERS VETERAN PIPELINE",
-                "teaserTitle": "US TREASURY: HORMUZ SHIPPING SANCTIONS",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "FMC: DETENTION RULE UPHELD",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Department of Transportation launches Freedom Haulers to recruit military veterans into commercial trucking while tightening driver enforcement."
+                "narration_line": "The USTR is deploying Section 301 tariffs on sixty nations to target forced labor violations following Section 122 expiration."
             },
             {
                 "slide_index": 3,
-                "headline": "US TREASURY: HORMUZ SHIPPING SANCTIONS",
-                "teaserTitle": "USPS: MARKETPLACE PACKAGE RATE HIKE",
+                "headline": "FMC: DETENTION RULE UPHELD",
+                "teaserTitle": "AIR FREIGHT: SURCHARGE MECHANISM SHIFT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Targeted U.S. sanctions address extortion networks in the Strait of Hormuz as maritime routes face rising conflict risks."
+                "narration_line": "Federal courts upheld FMC rules mandating that ocean container detention fees must strictly promote port freight fluidity."
             },
             {
                 "slide_index": 4,
-                "headline": "USPS: MARKETPLACE PACKAGE RATE HIKE",
-                "teaserTitle": "COMMERCE DEPT: $874M TECH SUPPLY FUNDS",
+                "headline": "AIR FREIGHT: SURCHARGE MECHANISM SHIFT",
+                "teaserTitle": "DOJ: TRADE FRAUD ENFORCEMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "USPS increases Ground Advantage package rates for marketplace sellers while adding strict hazmat packaging non-compliance fees."
+                "narration_line": "Air cargo carriers are moving to bi-weekly fuel surcharge revisions as volatile jet fuel prices pressure global freighter margins."
             },
             {
                 "slide_index": 5,
-                "headline": "COMMERCE DEPT: $874M TECH SUPPLY FUNDS",
-                "teaserTitle": "COLLIERS: INDUSTRIAL REAL ESTATE UPDATE",
+                "headline": "DOJ: TRADE FRAUD ENFORCEMENT",
+                "teaserTitle": "MAERSK: SHUTTLE NETWORK EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Commerce Department releases $874 million in equity funding to fortify critical domestic technology supply chain manufacturing."
+                "narration_line": "The Justice Department's Trade Fraud Task Force hit one billion dollars in penalties targeting duty evasion and customs misclassification."
             },
             {
                 "slide_index": 6,
-                "headline": "COLLIERS: INDUSTRIAL REAL ESTATE UPDATE",
-                "teaserTitle": "REVOY: ELECTRIC TRUCK CONVERSION ENGINE",
+                "headline": "MAERSK: SHUTTLE NETWORK EXPANSION",
+                "teaserTitle": "FEDEX: ROBOTIC TRAILER LOADING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Colliers reports industrial warehouse vacancy dropping to 7.3 percent as demand outpaces incoming logistics construction supply."
+                "narration_line": "Maersk expanded its ocean shuttle strategy to Latin America's west coast to boost schedule reliability amid global port congestion."
             },
             {
                 "slide_index": 7,
-                "headline": "REVOY: ELECTRIC TRUCK CONVERSION ENGINE",
+                "headline": "FEDEX: ROBOTIC TRAILER LOADING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Revoy introduces an add-on device to convert standard diesel trucks into hybrid electric fleets, slashing emissions instantly."
+                "narration_line": "FedEx expanded pilot deployments of autonomous robotic trailer loading systems to reduce hub dwell times and optimize dock capacity."
             },
             {
                 "slide_index": 8,
