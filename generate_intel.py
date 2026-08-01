@@ -1,6 +1,6 @@
 # ==============================================================================
 # [ MODULE 1: CONFIGURATION & AUTHENTICATION ]
-# Purpose: Initializes environment variables, API keys, and model fallback.
+# Purpose: Initializes environment variables, API keys, and model fallbacks.
 # Data Flow: Reads from OS ENV -> Configures Gemini Client -> Sets global priorities.
 # ==============================================================================
 import os
@@ -139,13 +139,14 @@ def main():
             parsed_payload = json.loads(raw_text)
             log("SUCCESS", "LLM payload successfully parsed as valid JSON.")
             
-            # Extract paths safely
-            slides_object = parsed_payload.get("slides_data", parsed_payload)
+            # --- EXACT EXTRACTION MAPPING FROM PROMPT STRUCTURE ---
+            slides_data_node = parsed_payload.get("slides_data", parsed_payload)
+            video_module_node = parsed_payload.get("video_shorts_module", {})
             post_content = parsed_payload.get("social_post", "")
             
             # --- ENFORCEMENT ---
-            slides_object = enforce_slide_structure(slides_object)
-            slides_json_str = json.dumps(slides_object, indent=4)
+            slides_data_node = enforce_slide_structure(slides_data_node)
+            slides_json_str = json.dumps(slides_data_node, indent=4)
             
             # --- EXPORT TO FILES ---
             # 1. Base slide template (template.js in Root)
@@ -153,47 +154,16 @@ def main():
                 f.write(f"const dailyData = {slides_json_str};")
             log("SUCCESS", "Generated and exported: template.js")
                 
-            # 2. Correct Video Shorts Schema Mirror to Social_Media/Video_Template_EN.js
+            # 2. Exact Direct Mirror of video_shorts_module to Social_Media/Video_Template_EN.js
             social_media_dir = "Social_Media"
             os.makedirs(social_media_dir, exist_ok=True)
             video_template_path = os.path.join(social_media_dir, "Video_Template_EN.js")
             
-            # Extract main title elements or fallback to defaults for video shorts
-            main_info = slides_object.get("main", {}) if isinstance(slides_object, dict) else {}
-            title_white = main_info.get("titleWhite", "GLOBAL LOGISTICS")
-            title_blue = main_info.get("titleBlue", "UPDATE")
-            hook_title = f"{title_white} {title_blue}".upper().strip()
-
-            slides_list = slides_object.get("slides", []) if isinstance(slides_object, dict) else []
-            script_slides = []
-            for idx, slide in enumerate(slides_list, start=1):
-                heading = slide.get("heading", f"SLIDE {idx}")
-                next_teaser = slide.get("nextUpTease", "")
-                points = slide.get("points", [])
-                narration = " ".join(points[:2]) if points else f"Latest update on {heading}."
-
-                script_slides.append({
-                    "slide_index": idx,
-                    "headline": heading,
-                    "teaserTitle": next_teaser if idx < len(slides_list) else "",
-                    "visual_asset": f"backgroundyt{idx}.png",
-                    "narration_line": narration
-                })
-
-            video_shorts_data = {
-                "language": "EN",
-                "video_shorts_data": {
-                    "hookTitle": hook_title,
-                    "totalDurationSeconds": 30,
-                    "script_slides": script_slides
-                }
-            }
-
-            video_js_content = f"module.exports = {json.dumps(video_shorts_data, indent=4)};"
+            video_js_content = f"module.exports = {json.dumps(video_module_node, indent=4)};"
 
             with open(video_template_path, "w", encoding="utf-8") as f:
                 f.write(video_js_content)
-            log("SUCCESS", f"Generated and exported correct Video Shorts Schema mirror: {video_template_path}")
+            log("SUCCESS", f"Generated and exported exact video_shorts_module mirror: {video_template_path}")
                 
             # 3. Social Media Post (post.txt in Root)
             with open("post.txt", "w", encoding="utf-8") as f:
