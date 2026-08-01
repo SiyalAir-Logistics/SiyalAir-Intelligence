@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT RATE VOLATILITY",
+        "hookTitle": "GLOBAL TRADE COMPLIANCE SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AIR CARGO SURCHARGE OVERHAUL",
-                "teaserTitle": "CONTAINER SCHEDULE RELIABILITY",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "COURTS: BROKER LIABILITY VERDICT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Airlines are accelerating bi-weekly fuel surcharge reviews to offset soaring jet fuel costs."
+                "narration_line": "USTR moves ahead with Section 301 tariffs on 60 nations to enforce forced labor compliance."
             },
             {
                 "slide_index": 2,
-                "headline": "HORMUZ CLOSURE SCHEDULE IMPACT",
-                "teaserTitle": "RAILWAY LABOR STANDARDS",
+                "headline": "COURTS: BROKER LIABILITY VERDICT",
+                "teaserTitle": "USPS: RURAL DELIVERY SURCHARGES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Persistent Strait of Hormuz disruptions continue to degrade global container schedule reliability."
+                "narration_line": "A stunning six-hundred-four-million-dollar court verdict establishes strict liability for freight brokers during carrier selection."
             },
             {
                 "slide_index": 3,
-                "headline": "FEDERAL RAIL ENGLISH PROFICIENCY",
-                "teaserTitle": "INTERAGENCY FRAUD RECOVERIES",
+                "headline": "USPS: RURAL DELIVERY SURCHARGES",
+                "teaserTitle": "FMC: FREIGHT FLUIDITY MANDATE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The FRA is pushing for tougher English communication standards for cross-border rail crews."
+                "narration_line": "USPS introduces new rural parcel surcharges of up to three dollars per package."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE FRAUD TASK FORCE MILESTONE",
-                "teaserTitle": "INDUSTRIAL REAL ESTATE BALANCE",
+                "headline": "FMC: FREIGHT FLUIDITY MANDATE",
+                "teaserTitle": "AMAZON: CONSUMER TARIFF REFUNDS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The DOJ Trade Fraud Task Force has crossed one billion dollars in total customs recoveries."
+                "narration_line": "Federal appeals court upholds FMC rules requiring detention fees to directly promote freight fluidity."
             },
             {
                 "slide_index": 5,
-                "headline": "INDUSTRIAL REAL ESTATE EQUILIBRIUM",
-                "teaserTitle": "AEROSPACE LEAD TIME REDUCTION",
+                "headline": "AMAZON: CONSUMER TARIFF REFUNDS",
+                "teaserTitle": "NEW JERSEY: DYNAMIC PRICING BAN",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Industrial real estate vacancy rates stabilize as new supply growth aligns with market demand."
+                "narration_line": "Amazon initiates partial consumer distribution following a six-hundred-million-dollar customs tariff refund."
             },
             {
                 "slide_index": 6,
-                "headline": "AEROSPACE MANUFACTURING EFFICIENCY",
-                "teaserTitle": "AI DEMAND PLANNING DEPLOYMENT",
+                "headline": "NEW JERSEY: DYNAMIC PRICING BAN",
+                "teaserTitle": "USDOT: MILITARY DRIVER PIPELINE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "GE Aerospace successfully slashed manufacturing lead times by sixty percent through consolidation."
+                "narration_line": "New Jersey bans dynamic pricing and pauses electronic shelf label rollouts across retail stores."
             },
             {
                 "slide_index": 7,
-                "headline": "ARTIFICIAL INTELLIGENCE IN PLANNING",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "USDOT: MILITARY DRIVER PIPELINE",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Nissin Foods implements advanced artificial intelligence planning tools to sharpen supply forecasts."
+                "narration_line": "Federal agencies launch the Freedom Haulers initiative to fast-track military veterans into commercial trucking."
             },
             {
                 "slide_index": 8,
