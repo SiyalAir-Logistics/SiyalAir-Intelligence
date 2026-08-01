@@ -59,7 +59,8 @@ window.onload = async () => {
 // ==============================================================================
 // [ MODULE 2: CORS & BACKGROUND IMAGE BASE64 CONVERTER ]
 // Purpose: Converts background image assets into Base64 DataURLs to prevent
-//          html2canvas tainted canvas export errors.
+//          html2canvas tainted canvas export errors. Includes live tracker fetch
+//          with robust file path resolution fallback for automated workflows.
 // ==============================================================================
 async function fixBackgroundCORS() {
     const canvas = document.getElementById('post-canvas');
@@ -67,8 +68,9 @@ async function fixBackgroundCORS() {
 
     let bgIndex = 1;
 
+    // Fetch live tracker to determine which background image rotation should load
     try {
-        const trackerRes = await fetch('bg_tracker.txt?t=' + Date.now());
+        const trackerRes = await fetch('../bg_tracker.txt?t=' + Date.now());
         if (trackerRes.ok) {
             const text = await trackerRes.text();
             const parsedNum = parseInt(text.trim(), 10);
@@ -77,40 +79,80 @@ async function fixBackgroundCORS() {
             }
         }
     } catch (e) {
-        log('WARNING', 'Background tracker read failed; defaulting to background1.png');
+        // Fallback check for local root path if relative parent fails
+        try {
+            const rootTrackerRes = await fetch('bg_tracker.txt?t=' + Date.now());
+            if (rootTrackerRes.ok) {
+                const text = await rootTrackerRes.text();
+                const parsedNum = parseInt(text.trim(), 10);
+                if (!isNaN(parsedNum) && parsedNum > 0) {
+                    bgIndex = parsedNum;
+                }
+            }
+        } catch (innerErr) {
+            log('WARNING', 'Background tracker read failed across paths; defaulting to background1.png');
+        }
     }
 
-    const bgUrl = `assets/background${bgIndex}.png`;
+    // Attempt path resolutions to securely load background regardless of execution context depth
+    const possibleUrls = [
+        `../yt_backgrounds/backgroundyt${bgIndex}.png`,
+        `yt_backgrounds/backgroundyt${bgIndex}.png`,
+        `assets/background${bgIndex}.png`,
+        `../assets/background${bgIndex}.png`
+    ];
 
-    try {
-        const response = await fetch(bgUrl);
-        if (!response.ok) throw new Error(`Background asset missing at ${bgUrl}`);
-        const blob = await response.blob();
-        const reader = new FileReader();
-        reader.onloadend = () => {
-            canvas.style.backgroundImage = `url(${reader.result})`;
-            log('SUCCESS', `Background asset (background${bgIndex}.png) loaded and optimized for render capture.`);
-        };
-        reader.readAsDataURL(blob);
-    } catch (e) {
-        log('WARNING', `Failed to load background${bgIndex}.png. Invoking default asset fallback...`);
+    let loadedSuccessfully = false;
+
+    for (const bgUrl of possibleUrls) {
+        try {
+            const response = await fetch(bgUrl + '?t=' + Date.now());
+            if (response.ok) {
+                const blob = await response.blob();
+                const reader = new FileReader();
+                await new Promise((resolve, reject) => {
+                    reader.onloadend = () => {
+                        canvas.style.backgroundImage = `url(${reader.result})`;
+                        log('SUCCESS', `Background asset (${bgUrl}) loaded and optimized for render capture.`);
+                        loadedSuccessfully = true;
+                        resolve();
+                    };
+                    reader.onerror = reject;
+                    reader.readAsDataURL(blob);
+                });
+                if (loadedSuccessfully) break;
+            }
+        } catch (err) {
+            // Try next path in array
+        }
+    }
+
+    if (!loadedSuccessfully) {
+        log('WARNING', `Failed to load indexed background assets. Invoking default asset fallback...`);
         await fallbackDefaultBackground(canvas);
     }
 }
 
 async function fallbackDefaultBackground(canvas) {
-    try {
-        const response = await fetch('assets/background.png');
-        const blob = await response.blob();
-        const reader = new FileReader();
-        reader.onloadend = () => {
-            canvas.style.backgroundImage = `url(${reader.result})`;
-            log('SUCCESS', 'Default fallback background asset loaded.');
-        };
-        reader.readAsDataURL(blob);
-    } catch (err) {
-        log('ERROR', 'Default background asset fallback failed completely.');
+    const fallbackUrls = ['../assets/background.png', 'assets/background.png'];
+    for (const fbUrl of fallbackUrls) {
+        try {
+            const response = await fetch(fbUrl + '?t=' + Date.now());
+            if (response.ok) {
+                const blob = await response.blob();
+                const reader = new FileReader();
+                reader.onloadend = () => {
+                    canvas.style.backgroundImage = `url(${reader.result})`;
+                    log('SUCCESS', `Default fallback background asset loaded from ${fbUrl}.`);
+                };
+                reader.readAsDataURL(blob);
+                return;
+            }
+        } catch (err) {
+            // Continue fallback loop
+        }
     }
+    log('ERROR', 'Default background asset fallback failed completely.');
 }
 
 // ==============================================================================
@@ -218,7 +260,7 @@ async function switchSlide(id, element) {
 
         let followIndex = 1;
         try {
-            const trackerRes = await fetch('follow_tracker.txt?t=' + Date.now());
+            const trackerRes = await fetch('../follow_tracker.txt?t=' + Date.now());
             if (trackerRes.ok) {
                 const text = await trackerRes.text();
                 const parsedNum = parseInt(text.trim(), 10);
@@ -227,11 +269,37 @@ async function switchSlide(id, element) {
                 }
             }
         } catch (e) {
-            log('WARNING', 'Follow tracker read failed; defaulting to slide9-1.png');
+            try {
+                const rootTrackerRes = await fetch('follow_tracker.txt?t=' + Date.now());
+                if (rootTrackerRes.ok) {
+                    const text = await rootTrackerRes.text();
+                    const parsedNum = parseInt(text.trim(), 10);
+                    if (!isNaN(parsedNum) && parsedNum > 0) {
+                        followIndex = parsedNum;
+                    }
+                }
+            } catch (innerErr) {
+                log('WARNING', 'Follow tracker read failed; defaulting to slide9-1.png');
+            }
         }
 
-        const followAssetUrl = `followup/slide9-${followIndex}.png`;
-        html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
+        const followAssetUrls = [
+            `../followup/slide9-${followIndex}.png`,
+            `followup/slide9-${followIndex}.png`
+        ];
+
+        let resolvedFollowUrl = followAssetUrls[1];
+        for (const fUrl of followAssetUrls) {
+            try {
+                const res = await fetch(fUrl + '?t=' + Date.now());
+                if (res.ok) {
+                    resolvedFollowUrl = fUrl;
+                    break;
+                }
+            } catch (err) {}
+        }
+
+        html = `<div class="content-body" style="background-image: url('${resolvedFollowUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
     } else {
         const index = id - 1;
         const slide = dailyData.slides?.[index];
