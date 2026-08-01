@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT SHIFT",
-        "titleBlue": "RISKS",
-        "footerSummary": "Negligent hiring liabilities, expanded Section 301 tariffs, and volatile air cargo fuel surcharges trigger immediate operational compliance friction across global trade networks."
+        "titleWhite": "GLOBAL FREIGHT REGULATORY",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Forensic audit highlights massive legal verdicts, expanding tariffs, Hormuz chokepoints, and parcel rate hikes disrupting global supply chain stability."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CH ROBINSON: CARRIER SELECTION VERDICT",
+            "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
             "points": [
-                "A landmark $604 million negligent hiring verdict against C.H. Robinson creates unprecedented legal liability for freight brokers and 3PLs.",
-                "The court ruling establishes that freight intermediaries can be held vicariously liable for carrier safety performance during motor transport execution.",
-                "Freight brokerages are now forced to radically overhaul internal carrier vetting protocols to mitigate catastrophic legal exposure.",
-                "Shippers and brokers must immediately re-audit third-party motor carrier selection criteria to guarantee operational compliance."
+                "A court rendered a $604 million advisory verdict against C.H. Robinson over carrier vetting practices in the Montgomery vicarious liability case.",
+                "The unprecedented judgment sets a critical precedent that dramatically increases legal exposure and carrier compliance standards across freight brokerages.",
+                "Third-party logistics providers nationwide are restructuring operational carrier selection protocols to mitigate escalating tort litigation risks.",
+                "Freight brokers face immediate pressure to enforce stricter safety audits before dispatching third-party motor carriers."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: SECTION 301 TARIFF EXPANSION",
+            "nextUpTease": "USTR: SECTION 301 FORCED LABOR TARIFFS",
             "tags": [
-                "Source: www.freightwaves.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
+            "heading": "USTR: SECTION 301 FORCED LABOR TARIFFS",
             "points": [
-                "The Office of the United States Trade Representative moves forward with new forced labor tariffs targeting 60 global trading partners.",
-                "This regulatory shift transitions trade enforcement into high-gear following the expiration of temporary Section 122 tariff relief mechanisms.",
-                "Importers face increased duty burdens and strict origin-auditing demands across heavily impacted cross-border supply chains.",
-                "Global supply chain managers must immediately execute customs compliance audits to prevent unexpected import penalty assessments."
+                "The Office of the U.S. Trade Representative is advancing Section 301 tariffs across 60 trading partners following Section 122 expiration.",
+                "The regulatory framework targets forced labor violations, imposing immediate duty increases on cross-border manufacturing networks.",
+                "Importers are scrambling to audit multi-tier supply chains to prevent costly customs seizures and unexpected duty adjustments.",
+                "Trade compliance teams must rapidly adjust landed-cost models as federal trade enforcement reaches peak intensity."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON: ROBOTIC FULFILLMENT AUTOMATION",
+            "nextUpTease": "STRAIT OF HORMUZ: SHIPPING FUEL CRISIS",
             "tags": [
-                "Source: www.logisticsmgmt.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AMAZON: ROBOTIC FULFILLMENT AUTOMATION",
+            "heading": "STRAIT OF HORMUZ: SHIPPING FUEL CRISIS",
             "points": [
-                "Amazon scales up its next-generation robotics deployment across fulfillment hubs to accelerate ultra-fast customer delivery cycles.",
-                "Automated sorting architectures and robotic processing units have significantly boosted second-quarter node efficiency and throughput speeds.",
-                "The technology shift redefines baseline operational speeds for enterprise-scale e-commerce logistics and warehousing infrastructure.",
-                "Competing logistics providers must accelerate warehouse automation investments to maintain competitive service-level benchmarks."
+                "Ongoing closure of the Strait of Hormuz chokepoint has disrupted Middle Eastern crude exports and ocean liner schedules.",
+                "Air cargo and ocean carriers are deploying emergency fuel surcharges to offset surging bunker and jet fuel prices.",
+                "Vessel rerouting around Africa has significantly expanded transit times and eroded container fleet reliability metrics.",
+                "Global supply chains face renewed inflationary pressure as energy and transport costs surge simultaneously."
             ],
             "imageUrl": "",
-            "nextUpTease": "FRA: MEXICAN RAIL CREW COMPLIANCE",
+            "nextUpTease": "USPS: MARKETPLACE PARCEL RATE HIKE",
             "tags": [
-                "Source: www.freightwaves.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FRA: MEXICAN RAIL CREW COMPLIANCE",
+            "heading": "USPS: MARKETPLACE PARCEL RATE HIKE",
             "points": [
-                "The Federal Railroad Administration proposes stricter English language proficiency standards for Mexican cross-border rail operating crews.",
-                "The regulatory change targets safety operational standards for international rail transport entering United States border gateways.",
-                "Rail operators anticipate potential crew scheduling bottlenecks at border interchanges while compliance verification mechanisms adjust.",
-                "Cross-border shippers should monitor intermodal border rail transit times for potential operational delays during implementation."
+                "The U.S. Postal Service has enacted sudden Ground Advantage package rate hikes impacting e-commerce marketplace merchants.",
+                "Strict new noncompliance penalties for improperly declared hazardous materials have also gone into full effect.",
+                "Online sellers operating on major platforms face elevated fulfillment expenditures on lightweight rural deliveries.",
+                "E-commerce logistics managers must re-evaluate carrier allocation strategies to protect slim operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: AUTONOMOUS TRAILER LOADING",
+            "nextUpTease": "FEDEX: ROBOTIC TRAILER LOADING PILOT",
             "tags": [
-                "Source: www.ttnews.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FEDEX: AUTONOMOUS TRAILER LOADING",
+            "heading": "FEDEX: ROBOTIC TRAILER LOADING PILOT",
             "points": [
-                "FedEx advances pilot testing of robotic autonomous trailer loading systems to streamline dockside loading processes.",
-                "The autonomous loading system targets heavy manual labor constraints and optimizes volumetric trailer space utilization.",
-                "Integration of robotic dock technology signals a major transition toward fully automated freight terminal operations.",
-                "Terminal operators are moving toward integrated autonomous equipment to enhance dock throughput and reduce freight dwell."
+                "FedEx is expanding pilot deployments of autonomous trailer-loading robotics across high-volume distribution hubs.",
+                "The system leverages advanced artificial intelligence to automate heavy parcel stacking and speed up dock turnaround times.",
+                "Operational data indicates substantial reductions in hub dwell times and physical labor bottlenecks.",
+                "The technological rollout signals a broader industry shift toward fully automated dock door execution."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
+            "nextUpTease": "INTERMODAL: VOLUME SURGE RAIL DEALS",
             "tags": [
-                "Source: www.dcvelocity.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
+            "heading": "INTERMODAL: VOLUME SURGE RAIL DEALS",
             "points": [
-                "Air freight carriers initiate bi-weekly jet fuel surcharge evaluations due to persistent Middle East regional geopolitical volatility.",
-                "Freighter operators are rapidly passing rising fuel cost spikes directly to international shippers to protect operational margins.",
-                "Dynamic surcharge adjustments create budget forecasting uncertainty for high-value time-sensitive global air freight moves.",
-                "Air cargo shippers must build real-time rate volatility mechanisms into their global air transport procurement budgets."
+                "IANA reports an 11.6% year-over-year surge in June intermodal container and trailer volumes across North America.",
+                "Canadian National withdrew opposition to the UP-NS merger after securing expanded shipper site access rights.",
+                "Class I rail carriers are aligning network capacity to capture growing import volumes moving inland from West Coast ports.",
+                "Shifting freight dynamics favor intermodal conversions as long-haul trucking rates begin moving upward."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: MARKETPLACE RATE INCREASES",
+            "nextUpTease": "US COMMERCE: TECH SUPPLY FUNDING",
             "tags": [
-                "Source: www.joc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "USPS: MARKETPLACE RATE INCREASES",
+            "heading": "US COMMERCE: TECH SUPPLY FUNDING",
             "points": [
-                "The United States Postal Service enforces immediate package rate hikes for Ground Advantage marketplace parcel shipments.",
-                "The price adjustments increase shipping costs specifically for high-volume marketplace sellers and lightweight parcel e-commerce operations.",
-                "Marketplaces like eBay have issued warnings to sellers to adjust shipping fee calculators to avoid unexpected postal margin loss.",
-                "E-commerce retailers must instantly recalculate multi-carrier parcel routing rules to optimize overall fulfillment cost structures."
+                "The U.S. Department of Commerce allocated $874 million to bolster domestic semiconductor and technology supply chain resiliency.",
+                "In exchange for capital injections, the federal government receives minority non-controlling equity stakes in seven manufacturing firms.",
+                "This strategic initiative accelerates nearshoring efforts and safeguards critical components against global geopolitical shocks.",
+                "Domestic manufacturing infrastructure gains long-term capacity support to insulate high-tech trade flow."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: www.ecommercebytes.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

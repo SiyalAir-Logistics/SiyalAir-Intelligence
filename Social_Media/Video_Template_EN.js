@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT SHIFT RISKS",
+        "hookTitle": "GLOBAL FREIGHT REGULATORY SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CH ROBINSON: CARRIER SELECTION VERDICT",
-                "teaserTitle": "USTR: SECTION 301 TARIFF EXPANSION",
+                "headline": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
+                "teaserTitle": "USTR: SECTION 301 FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A six hundred million dollar verdict against C.H. Robinson establishes precedent broker liability for negligent carrier selection."
+                "narration_line": "C.H. Robinson faces a massive six hundred million dollar verdict that redefines broker liability and carrier vetting standards."
             },
             {
                 "slide_index": 2,
-                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "AMAZON: ROBOTIC FULFILLMENT AUTOMATION",
+                "headline": "USTR: SECTION 301 FORCED LABOR TARIFFS",
+                "teaserTitle": "STRAIT OF HORMUZ: SHIPPING FUEL CRISIS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The USTR enforces Section 301 forced labor tariffs on sixty nations following the expiration of temporary Section 122 exemptions."
+                "narration_line": "USTR enacts Section 301 tariffs on sixty nations to curb forced labor, forcing immediate supply chain audits."
             },
             {
                 "slide_index": 3,
-                "headline": "AMAZON: ROBOTIC FULFILLMENT AUTOMATION",
-                "teaserTitle": "FRA: MEXICAN RAIL CREW COMPLIANCE",
+                "headline": "STRAIT OF HORMUZ: SHIPPING FUEL CRISIS",
+                "teaserTitle": "USPS: MARKETPLACE PARCEL RATE HIKE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Amazon expands fulfillment center robotics deployments to achieve faster throughput and ultra-fast customer delivery capabilities."
+                "narration_line": "The Strait of Hormuz closure drives crude price volatility and forces carriers to slap on steep fuel surcharges."
             },
             {
                 "slide_index": 4,
-                "headline": "FRA: MEXICAN RAIL CREW COMPLIANCE",
-                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING",
+                "headline": "USPS: MARKETPLACE PARCEL RATE HIKE",
+                "teaserTitle": "FEDEX: ROBOTIC TRAILER LOADING PILOT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Federal regulators propose strict English language standards for Mexican rail crews crossing international trade gateways into America."
+                "narration_line": "USPS hikes package rates on marketplace sellers while cracking down on non-compliant hazmat shipments."
             },
             {
                 "slide_index": 5,
-                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING",
-                "teaserTitle": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
+                "headline": "FEDEX: ROBOTIC TRAILER LOADING PILOT",
+                "teaserTitle": "INTERMODAL: VOLUME SURGE RAIL DEALS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "FedEx expands pilot deployments of autonomous trailer loading systems to automate freight dock logistics and maximize volume."
+                "narration_line": "FedEx expands robotic trailer loading systems to eliminate dock bottlenecks and accelerate package throughput."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
-                "teaserTitle": "USPS: MARKETPLACE RATE INCREASES",
+                "headline": "INTERMODAL: VOLUME SURGE RAIL DEALS",
+                "teaserTitle": "US COMMERCE: TECH SUPPLY FUNDING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Airlines initiate bi-weekly jet fuel surcharge reviews to adjust air freight pricing against Middle Eastern regional market shocks."
+                "narration_line": "Intermodal volumes jump eleven percent as Canadian National clears the path for major Class One rail alignment."
             },
             {
                 "slide_index": 7,
-                "headline": "USPS: MARKETPLACE RATE INCREASES",
+                "headline": "US COMMERCE: TECH SUPPLY FUNDING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "USPS implements immediate rate hikes on Ground Advantage parcel services impacting e-commerce marketplace seller fulfillment margins."
+                "narration_line": "The U.S. Commerce Department invests eight hundred seventy-four million dollars to secure domestic tech supply chains."
             },
             {
                 "slide_index": 8,
