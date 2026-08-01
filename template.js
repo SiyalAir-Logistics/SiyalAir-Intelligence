@@ -1,90 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT RATE",
-        "titleBlue": "VOLATILITY",
-        "footerSummary": "Logistics networks confront severe structural friction as new trade tariffs, carrier liabilities, and geopolitical chokepoint closures reshape cross-border supply chain economics."
+        "titleWhite": "GLOBAL SUPPLY CHAIN",
+        "titleBlue": "STRATEGIES",
+        "footerSummary": "Geopolitical tensions, regulatory tightening, and fuel volatility force aggressive operational resets across global maritime, rail, and postal network nodes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR FORCED LABOR TARIFFS",
+            "heading": "MIDDLE EAST: HORMUZ FUEL SURCHARGE IMPACT",
             "points": [
-                "The Office of the United States Trade Representative moves forward with new Section 301 tariffs targeting sixty trading nations.",
-                "Importers face immediate cost increases as compliance mandates and strict enforcement measures cascade across global supply chains.",
-                "Supply chain planners must restructure sourcing models to navigate mounting trade penalties and enhanced verification frameworks.",
-                "Stakeholders should anticipate prolonged documentation friction and higher landed costs across affected import corridors."
+                "Escalating conflict around the Strait of Hormuz has disrupted critical vessel traffic, severely impacting container ship schedule reliability.",
+                "Ocean and air cargo carriers are initiating bi-weekly fuel surcharge reviews to rapidly pass rising operational costs directly to commercial shippers.",
+                "Global logistics managers must prepare for volatile transit times and rising transport costs along primary trade corridors passing near Middle Eastern waters.",
+                "Shippers are advised to reassess routing strategies and dynamically adjust inventory buffers to mitigate severe Middle Eastern bottleneck disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROADSIDE LIABILITY VERDICTS",
+            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ROADSIDE LIABILITY VERDICTS",
+            "heading": "DOJ: TRADE FRAUD RECOVERIES TOP 1 BILLION",
             "points": [
-                "A massive legal verdict hits C.H. Robinson with a six hundred four million dollar advisory ruling in negligent carrier selection.",
-                "Brokerage networks face heightened exposure under vicarious liability principles following recent landmark judicial determinations.",
-                "Logistics operators are scrambling to tighten carrier vetting standards and documentation protocols to mitigate future exposure.",
-                "Industry analysts predict a permanent shift in how third-party logistics providers audit and onboard motor carriers."
+                "The Department of Justice Trade Fraud Task Force announced over one billion dollars in recoveries, penalties, and forfeitures since inception.",
+                "Enforcement actions target systemic tariff evasion, misclassification of commercial imports, and fraudulent valuation practices across global supply chains.",
+                "Importers and logistics partners face heightened scrutiny as federal authorities leverage advanced data intelligence to detect customs compliance breaches.",
+                "Supply chain executives must audit customs filings and operational documentation to avoid severe civil penalties and costly import disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME ROUTE DIVERSIONS",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MARITIME ROUTE DIVERSIONS",
-            "points": [
-                "Persistent security threats in the Red Sea force vessel operators to abandon the Bab el-Mandeb chokepoint entirely.",
-                "Carriers reroute container ships around the African Cape, adding transit days and constraining global slot availability.",
-                "Operating margins face severe pressure as increased bunker fuel consumption offsets spot rate adjustments.",
-                "Global shippers must factor extended transit lead times into inventory replenishment strategies for upcoming quarters."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AUTOMATED FULFILLMENT SURGE",
-            "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AUTOMATED FULFILLMENT SURGE",
-            "points": [
-                "United Parcel Service reports that over two-thirds of total U.S. volume is now processed through automated facility hubs.",
-                "Warehouse robotics deployments accelerate across major retail networks to counter persistent labor shortages and rising throughput costs.",
-                "Infrastructure investments shift toward software-driven orchestration tools to optimize pick-and-pack fulfillment workflows.",
-                "Supply chain executives expect automated sorting capabilities to set the baseline benchmark for carrier performance."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CUSTOMS ENFORCEMENT SURGE",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "CUSTOMS ENFORCEMENT SURGE",
-            "points": [
-                "The Department of Justice Trade Fraud Task Force crosses one billion dollars in recoveries, penalties, and forfeitures.",
-                "Importers experience aggressive compliance audits as federal agencies utilize advanced data analytics to flag import discrepancies.",
-                "Cross-border operators must maintain pristine recordkeeping practices to survive intense regulatory scrutiny.",
-                "Non-compliant customs brokerage strategies will face rapid penalties as inter-agency enforcement cooperation deepens."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR CARGO CAPACITY PINCH",
+            "nextUpTease": "DOT: FREEDOM HAULERS TRUCKING INITIATIVE",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
@@ -92,35 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AIR CARGO CAPACITY PINCH",
+            "id": 3,
+            "heading": "DOT: FREEDOM HAULERS TRUCKING INITIATIVE",
             "points": [
-                "Global air cargo demand remains robust, driven by surging e-commerce volumes and supply chain modal shifts.",
-                "Airlines implement bi-weekly fuel surcharge adjustments to absorb escalating jet fuel prices caused by regional conflicts.",
-                "Forwarders adopt digital sales platforms and AI-driven quoting tools to secure capacity in a volatile rate environment.",
-                "Shippers utilizing airfreight should secure long-term block-space agreements to protect against sudden spot spikes."
+                "The US Department of Transportation launched the Freedom Haulers initiative to transition military veterans into commercial driver license roles.",
+                "The interagency recruitment push coincides with strict regulatory enforcement against non-domiciled commercial truck drivers operating across domestic freight networks.",
+                "This policy aims to address long-standing driver shortages while standardizing safety compliance across interstate freight transportation channels.",
+                "Motor carriers leveraging veteran recruitment pipelines can build resilient driver pools while navigating stricter federal CDL compliance enforcement."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRIAL REAL ESTATE BALANCE",
+            "nextUpTease": "FRA: MEXICAN RAIL CREW REGULATIONS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "FRA: MEXICAN RAIL CREW REGULATIONS",
+            "points": [
+                "The Federal Railroad Administration proposes stricter English language proficiency standards for Mexican locomotive crews operating within the United States.",
+                "The regulatory push aims to standardize cross-border communication protocols and enhance operational safety along high-volume international rail freight corridors.",
+                "Rail carriers and cross-border shippers must evaluate potential crew transfer delays at major southern border interchange gateways.",
+                "Supply chain operators relying on cross-border rail logistics should monitor compliance timelines to prevent unexpected transit disruptions."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS: RURAL GROUND ADVANTAGE RATE HIKE",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "USPS: RURAL GROUND ADVANTAGE RATE HIKE",
+            "points": [
+                "The United States Postal Service implemented rate increases on Ground Advantage services, specifically impacting lightweight parcel shipments to rural regions.",
+                "E-commerce sellers and digital marketplace platforms face higher final-mile fulfillment surcharges on lightweight domestic goods bound for non-urban destinations.",
+                "The price adjustment reflects rising operational costs associated with maintaining extensive low-density delivery networks across remote postal zones.",
+                "Retailers must adjust outbound parcel routing strategies or adjust consumer shipping rates to offset expanding final-mile postal costs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "EUROPE: HEAVY ELECTRIC TRUCK ADOPTION",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "EUROPE: HEAVY ELECTRIC TRUCK ADOPTION",
+            "points": [
+                "A comprehensive study by \u00d6ko-Institut revealed that 93 percent of European fleet operators report high satisfaction with heavy electric freight trucks.",
+                "Early adopters operating heavy electric vehicles for over a year confirmed operational reliability and lower total cost of ownership across regional routes.",
+                "The findings provide empirical backing for fleet electrification initiatives as charging infrastructure expands across core European freight transport corridors.",
+                "Logistics service providers can confidently accelerate fleet decarbonization plans to meet expanding corporate sustainability targets."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "GE AEROSPACE: LEAD TIME REDUCTION",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INDUSTRIAL REAL ESTATE BALANCE",
+            "heading": "GE AEROSPACE: LEAD TIME REDUCTION",
             "points": [
-                "Colliers reports national industrial vacancy rates settling at seven point three percent as new supply growth moderates.",
-                "Real estate developers align warehouse construction starts closely with localized demand from logistics providers and data centers.",
-                "Market stabilization allows occupiers to negotiate more flexible lease terms across major North American distribution hubs.",
-                "Strategic facility network redesigns will define supply chain cost-reduction initiatives for the remainder of the year."
+                "GE Aerospace successfully reduced manufacturing lead times by 60 percent through process consolidation and component transport distance reduction.",
+                "The operational overhaul accelerated production throughput for defense and commercial aviation supply chains facing surging global equipment demands.",
+                "Optimized facility layouts and streamlined assembly workflows served as the primary operational catalysts for this dramatic efficiency enhancement.",
+                "Industrial manufacturers across complex sectors are adopting similar lean footprint strategies to insulate manufacturing networks against external shocks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

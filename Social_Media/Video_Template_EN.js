@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT RATE VOLATILITY",
+        "hookTitle": "GLOBAL SUPPLY CHAIN STRATEGIES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR FORCED LABOR TARIFFS",
-                "teaserTitle": "ROADSIDE LIABILITY VERDICTS",
+                "headline": "MIDDLE EAST: HORMUZ FUEL SURCHARGE IMPACT",
+                "teaserTitle": "DOJ: TRADE FRAUD TASK FORCE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR advances Section 301 tariffs on sixty nations, escalating compliance friction for global importers."
+                "narration_line": "Escalating Strait of Hormuz conflicts degrade ship schedules, triggering bi-weekly carrier fuel surcharges across major global ocean freight routes."
             },
             {
                 "slide_index": 2,
-                "headline": "ROADSIDE LIABILITY VERDICTS",
-                "teaserTitle": "MARITIME ROUTE DIVERSIONS",
+                "headline": "DOJ: TRADE FRAUD RECOVERIES TOP 1 BILLION",
+                "teaserTitle": "DOT: FREEDOM HAULERS TRUCKING INITIATIVE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A massive six hundred four million dollar verdict against C.H. Robinson reshapes broker liability standards."
+                "narration_line": "Federal trade fraud recoveries hit one billion dollars as aggressive enforcement targets systemic importer tariff evasion and customs misclassification."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME ROUTE DIVERSIONS",
-                "teaserTitle": "AUTOMATED FULFILLMENT SURGE",
+                "headline": "DOT: FREEDOM HAULERS TRUCKING INITIATIVE",
+                "teaserTitle": "FRA: MEXICAN RAIL CREW REGULATIONS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Security threats in the Red Sea force carriers to bypass chokepoints and lengthen transit routes."
+                "narration_line": "Transportation officials launch military veteran driver recruitment while tightening CDL safety enforcement against non-domiciled commercial truck drivers."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTOMATED FULFILLMENT SURGE",
-                "teaserTitle": "CUSTOMS ENFORCEMENT SURGE",
+                "headline": "FRA: MEXICAN RAIL CREW REGULATIONS",
+                "teaserTitle": "USPS: RURAL GROUND ADVANTAGE RATE HIKE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "UPS processes over two-thirds of U.S. volume through automated facilities to lower operational costs."
+                "narration_line": "Federal railroad regulators propose stricter English language proficiency rules for Mexican locomotive crews crossing into United States rail corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "CUSTOMS ENFORCEMENT SURGE",
-                "teaserTitle": "AIR CARGO CAPACITY PINCH",
+                "headline": "USPS: RURAL GROUND ADVANTAGE RATE HIKE",
+                "teaserTitle": "EUROPE: HEAVY ELECTRIC TRUCK ADOPTION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Federal trade fraud recoveries cross one billion dollars as customs enforcement intensifies nationwide audits."
+                "narration_line": "Postal rates rise on Ground Advantage parcel deliveries, increasing final-mile costs for e-commerce sellers shipping lightweight goods to rural areas."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO CAPACITY PINCH",
-                "teaserTitle": "INDUSTRIAL REAL ESTATE BALANCE",
+                "headline": "EUROPE: HEAVY ELECTRIC TRUCK ADOPTION",
+                "teaserTitle": "GE AEROSPACE: LEAD TIME REDUCTION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Airlines accelerate bi-weekly fuel surcharge adjustments as jet fuel costs impact global air cargo."
+                "narration_line": "Over ninety percent of European fleet operators report high satisfaction with heavy electric freight trucks operating on commercial transport routes."
             },
             {
                 "slide_index": 7,
-                "headline": "INDUSTRIAL REAL ESTATE BALANCE",
+                "headline": "GE AEROSPACE: LEAD TIME REDUCTION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Industrial real estate vacancies stabilize at seven point three percent as new supply growth cools down."
+                "narration_line": "Manufacturing process consolidation enables GE Aerospace to cut defense supply chain lead times by sixty percent across key facilities."
             },
             {
                 "slide_index": 8,
