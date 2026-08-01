@@ -103,22 +103,44 @@ def fetch_and_clean():
 # Purpose: Maintains tracking state files and ensures sequential, logical execution updates.
 # ==============================================================================
 def update_tracker_files():
-    """Updates bg_tracker.txt and follow_tracker.txt atomically to ensure sequential tracking."""
+    """Updates bg_tracker.txt and follow_tracker.txt atomically to ensure sequential tracking.
+    Enforces a hard write check and flush to prevent caching or sync skips in downstream HTML outputs."""
     timestamp = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
     
     try:
         with open("bg_tracker.txt", "w", encoding="utf-8") as f:
-            f.write(f"Automated Hourly Update & Dynamic Rotation: {timestamp}")
-        log("SUCCESS", "Updated bg_tracker.txt successfully.")
+            f.write(timestamp)
+            f.flush()
+            os.fsync(f.fileno())
+        log("SUCCESS", f"Updated bg_tracker.txt successfully with timestamp: {timestamp}")
     except Exception as e:
-        log("WARNING", f"Failed to update bg_tracker.txt: {str(e)}")
+        log("ERROR", f"Failed to update bg_tracker.txt: {str(e)}")
+        raise e
 
     try:
         with open("follow_tracker.txt", "w", encoding="utf-8") as f:
-            f.write(f"Automated Hourly Update & Dynamic Rotation: {timestamp}")
-        log("SUCCESS", "Updated follow_tracker.txt successfully.")
+            f.write(timestamp)
+            f.flush()
+            os.fsync(f.fileno())
+        log("SUCCESS", f"Updated follow_tracker.txt successfully with timestamp: {timestamp}")
     except Exception as e:
-        log("WARNING", f"Failed to update follow_tracker.txt: {str(e)}")
+        log("ERROR", f"Failed to update follow_tracker.txt: {str(e)}")
+        raise e
+
+def extract_previous_topics():
+    """Reads existing template.js solely to extract previous slide headings for deduplication blacklist.
+    Does NOT use template.js for formatting rules (format comes strictly from prompt.txt)."""
+    excluded_topics = []
+    try:
+        if os.path.exists("template.js"):
+            with open("template.js", "r", encoding="utf-8") as f:
+                content = f.read()
+                matches = re.findall(r'["\']heading["\']\s*:\s*["\']([^"\']+)["\']', content)
+                excluded_topics = list(set(matches))
+                log("INFO", f"Loaded {len(excluded_topics)} previous headlines for deduplication blacklist.")
+    except Exception as e:
+        log("WARNING", f"Could not read template.js for deduplication: {str(e)}")
+    return excluded_topics
 
 # ==============================================================================
 # [ MODULE 4: LLM PIPELINE & SEQUENTIAL ATOMIC SYNCHRONIZATION ]
@@ -149,9 +171,15 @@ def main():
     
     if not prompt_base:
         log("ERROR", "No prompt base found. Pipeline aborted.")
-        return
+        exit(1)
 
-    final_input = f"{prompt_base}\n\n[LATEST LIVE DATA]:\n{data}"
+    # Extract past topics from template.js to enforce strict non-duplication blacklist
+    past_topics = extract_previous_topics()
+    blacklist_context = ""
+    if past_topics:
+        blacklist_context = "\n\n[EXCLUSION BLACKLIST - DO NOT REPEAT THESE RECENT TOPICS/HEADLINES]:\n" + "\n".join([f"- {t}" for t in past_topics])
+
+    final_input = f"{prompt_base}{blacklist_context}\n\n[LATEST LIVE DATA]:\n{data}"
     model_priority = get_dynamic_model_priority()
     log("INFO", f"Active model priority chain: {model_priority}")
 
@@ -199,18 +227,22 @@ def main():
             # SEQUENTIAL ATOMIC WRITE SEQUENCE (ORDERED TO PREVENT STALE/SKIPPED FILES)
             # ==============================================================================
             
-            # 1. Update Tracker Logs First (State Synchronization)
+            # 1. Update Tracker Logs First (State Synchronization with flush/fsync enforcement)
             update_tracker_files()
             
             # 2. Base Slide Template (template.js in Root)
             with open("template.js", "w", encoding="utf-8") as f:
                 f.write(f"const dailyData = {slides_json_str};")
+                f.flush()
+                os.fsync(f.fileno())
             log("SUCCESS", "Generated and exported: template.js")
                 
             # 3. Social Media Post Content (post.txt in Root)
             with open("post.txt", "w", encoding="utf-8") as f:
                 clean_post = str(post_content).replace('\\n', '\n')
                 f.write(clean_post)
+                f.flush()
+                os.fsync(f.fileno())
             log("SUCCESS", "Generated and exported: post.txt")
                 
             # 4. Cinematic Video Template (Social_Media/Video_Template_EN.js)
@@ -224,12 +256,15 @@ def main():
                     "video_shorts_data": video_module_node
                 }
             else:
+                video_payload_to_video = video_module_node # safe fallback reference
                 video_payload_to_write = video_module_node
 
             video_js_content = f"module.exports = {json.dumps(video_payload_to_write, indent=4)};"
 
             with open(video_template_path, "w", encoding="utf-8") as f:
                 f.write(video_js_content)
+                f.flush()
+                os.fsync(f.fileno())
             log("SUCCESS", f"Generated and exported video template: {video_template_path}")
                 
             log("SUCCESS", "generate_intel.py pipeline completed successfully with full sequence synchronization.")
