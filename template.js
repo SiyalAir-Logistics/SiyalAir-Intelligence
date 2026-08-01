@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE COMPLIANCE",
-        "titleBlue": "DISRUPTIONS",
-        "footerSummary": "Rapid shifts in trade fraud enforcement, broker liability judgments, and maritime tariff surcharges escalate immediate compliance risks across global freight networks."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "DECOUPLING",
+        "footerSummary": "Surging regulatory friction and geopolitical rerouting force unprecedented restructuring across international maritime corridors, postal compliance frameworks, and high-tech manufacturing supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DOJ: TRADE FRAUD RECOVERIES TOP $1B",
+            "heading": "COMMERCE DEPT: TECH SUPPLY INJECTION",
             "points": [
-                "The Justice Department's Trade Fraud Task Force has officially surpassed $1 billion in recoveries and penalties within its first operational year.",
-                "Enforcement actions targeted fraudulent commercial misclassification, undervaluation of imported goods, and systemic duty evasion across global supply networks.",
-                "Interagency data intelligence mechanisms allowed federal prosecutors to track non-compliant customs documentation and cross-border transactions seamlessly.",
-                "Importers and logistics intermediaries face heightened compliance exposure and must immediately audit historical entry summary declarations."
+                "The US Department of Commerce allocated 874 million dollars in direct funding to seven technology supply chain entities in exchange for minority equity stakes.",
+                "The targeted capital injection aims to mitigate structural component shortfalls across domestic semiconductor and critical hardware manufacturing operations.",
+                "By securing equity positions, federal administrators establish a direct regulatory anchor within private sector technology manufacturing workflows.",
+                "High-tech manufacturing stakeholders must prepare for heightened audit scrutiny regarding domestic component sourcing and production benchmarks."
             ],
             "imageUrl": "",
-            "nextUpTease": "BROKERAGE: $604M NEGLIGENT HIRING VERDICT",
+            "nextUpTease": "SAUDI CARRIERS: RED SEA BYPASS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "BROKERAGE: $604M NEGLIGENT HIRING VERDICT",
+            "heading": "SAUDI CARRIERS: RED SEA BYPASS",
             "points": [
-                "C.H. Robinson vows to appeal a monumental $604 million advisory verdict centered on negligent carrier selection and broker vicarious liability.",
-                "The legal judgment fundamentally shifts operational legal risks for third-party logistics providers during third-party motor carrier onboarding.",
-                "Brokers across the industry are now restructuring vetting protocols to mandate real-time carrier safety monitoring and insurance verification software.",
-                "Shippers and intermediaries must re-evaluate risk allocation clauses in freight transportation agreements to prevent potential secondary liability."
+                "Saudi Arabian ocean shipping lines have initiated broad vessel diversions around the Cape of Good Hope to avoid the Bab el-Mandeb strait.",
+                "The long-haul rerouting around the African continent adds 10 to 14 days in transit time for energy and containerized cargo flows.",
+                "Heightened security threats in the Red Sea chokepoint continue to force ocean transport providers into strategic asset reallocation.",
+                "Shippers utilizing Middle Eastern trade lanes must anticipate elevated fuel surcharges and extended lead times for intercontinental freight."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: SECTION 301 FORCED LABOR TARIFFS",
+            "nextUpTease": "USPS: HAZMAT COMPLIANCE MANDATE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "USTR: SECTION 301 FORCED LABOR TARIFFS",
+            "heading": "USPS: HAZMAT COMPLIANCE MANDATE",
             "points": [
-                "The Office of the U.S. Trade Representative is enacting comprehensive Section 301 tariffs targeting sixty global trading partners simultaneously.",
-                "The new measures follow the expiration of Section 122 duties and aggressively target forced labor supply chain vulnerabilities across manufacturing hubs.",
-                "Importers will experience elevated duty rates across multiple harmonized tariff schedule lines and strict documentation audit requests.",
-                "Enterprise procurement teams are forced to recalculate landed costs and accelerate nearshoring supply network adjustments."
+                "The United States Postal Service implemented new noncompliance penalties and credential security standards targeting hazardous consumer merchandise.",
+                "Marketplace merchants shipping restricted goods like essential oils or lithium products face automated penalty surcharges on non-compliant parcels.",
+                "The regulatory enforcement update focuses on standardizing hazardous item screening protocols across high-volume e-commerce seller portals.",
+                "E-commerce logistics operators must update automated packaging identification and hazmat labeling workflows immediately to prevent delivery delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: COURT UPHOLDS DETENTION RULE",
+            "nextUpTease": "NEW JERSEY: DYNAMIC PRICING BAN",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FMC: COURT UPHOLDS DETENTION RULE",
+            "heading": "NEW JERSEY: DYNAMIC PRICING BAN",
             "points": [
-                "The U.S. Court of Appeals for the D.C. Circuit upheld the Federal Maritime Commission's rule governing ocean freight detention and demurrage fees.",
-                "The judicial ruling affirms that carrier billing practices must directly promote freight fluidity rather than serve as punitive revenue streams.",
-                "Ocean common carriers and marine terminal operators are legally bound to revise billing structures to avoid regulatory enforcement penalties.",
-                "Cargo owners obtain strengthened legal leverage to challenge unreasonable container storage and equipment retention invoices."
+                "New Jersey state regulators passed legislation placing an immediate ban on dynamic pricing models across physical retail establishments.",
+                "The law enforces a mandatory one-year freeze on new deployments of electronic shelf labels while state agencies evaluate market impacts.",
+                "State lawmakers aim to prevent algorithmic price adjustments at the physical point-of-sale driven by real-time inventory and demand fluctuations.",
+                "Omnichannel retailers must pause planned electronic shelf label technology rollouts and align regional pricing systems with state compliance mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: JET FUEL SURCHARGE SPIKES",
+            "nextUpTease": "GE AEROSPACE: LEAD TIME CUT",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR FREIGHT: JET FUEL SURCHARGE SPIKES",
+            "heading": "GE AEROSPACE: LEAD TIME CUT",
             "points": [
-                "International air cargo carriers have initiated bi-weekly reviews to rapidly implement escalating jet fuel surcharges across long-haul routes.",
-                "Heightened geopolitical friction in the Middle East has disrupted energy transit routes, directly driving up aviation fuel procurement expenses.",
-                "Freighter operators are passing volatile operating expenses directly to shippers, impacting peak-season air freight pricing predictability.",
-                "Supply chain managers must recalculate urgent air export budgets and integrate dynamic rate adjustments into quarterly shipping models."
+                "GE Aerospace successfully consolidated engine assembly operations to achieve a 60 percent reduction in F110 manufacturing lead times.",
+                "Optimized floor routes and process elimination enabled accelerated engine delivery schedules during second-quarter production cycles.",
+                "The operational restructuring addresses chronic aerospace supply chain bottlenecks by eliminating unnecessary component transit within manufacturing facilities.",
+                "Commercial and defense aviation suppliers will face tighter delivery windows as prime contractors standardize condensed assembly lead times."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: AUTONOMOUS TRAILER LOADING",
+            "nextUpTease": "FRA: CROSS-BORDER CREW RULES",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FEDEX: AUTONOMOUS TRAILER LOADING",
+            "heading": "FRA: CROSS-BORDER CREW RULES",
             "points": [
-                "FedEx is expanding operational testing of autonomous robotics designed to automate high-density trailer loading across key logistics hubs.",
-                "The automated deployment aims to dramatically decrease dock load times, minimize cargo damage, and optimize hub throughput capabilities.",
-                "Integrated machine vision systems allow continuous sorting and packing without manual intervention under Network 2.0 modernization efforts.",
-                "Logistics networks are accelerating capital expenditure toward automated dock infrastructure to counter persistent warehouse labor constraints."
+                "The Federal Railroad Administration proposed strict English language proficiency standards for Mexican rail crews operating trains within US territory.",
+                "The regulatory measure mandates certified linguistic competency for crew members navigating cross-border rail corridors and intermodal interchange hubs.",
+                "Safety regulators contend that clear communication during border interchange operations is vital for mitigating rail yards operational hazards.",
+                "Cross-border rail operators must institute certified language training and auditing frameworks for operational personnel to prevent border interchange delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON: $600M TARIFF REFUND DISBURSEMENT",
+            "nextUpTease": "OUTOKUMPU: SCRAP CONTAINERIZATION",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMAZON: $600M TARIFF REFUND DISBURSEMENT",
+            "heading": "OUTOKUMPU: SCRAP CONTAINERIZATION",
             "points": [
-                "Amazon has begun disbursing consumer and seller refunds totaling six hundred million dollars tied to historical trade tariff adjustments.",
-                "The multi-million dollar reimbursement initiative follows extensive regulatory reviews of cross-border customs duties collected on marketplace goods.",
-                "Third-party sellers will see capital returned directly to operational accounts, easing cross-border margin pressures.",
-                "E-commerce platforms are forced to refine automated customs calculation engines to ensure total accuracy on duty collection."
+                "Global steel manufacturer Outokumpu deployed collapsible ISO-standard containers to streamline scrap metal logistics across industrial transport networks.",
+                "The space-saving collapsible container design significantly lowers return-leg transport costs by maximizing empty container repositioning density.",
+                "Integrating reusable modular containerization solves longstanding operational inefficiencies associated with heavy bulk commodity freight movement.",
+                "Industrial bulk shippers are expected to accelerate adoption of collapsible freight units to curb reverse logistics overhead and equipment repositioning fees."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

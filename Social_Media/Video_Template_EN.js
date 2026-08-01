@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE COMPLIANCE DISRUPTIONS",
+        "hookTitle": "GLOBAL FREIGHT NETWORK DECOUPLING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DOJ: TRADE FRAUD RECOVERIES TOP $1B",
-                "teaserTitle": "BROKERAGE: $604M NEGLIGENT HIRING VERDICT",
+                "headline": "COMMERCE DEPT: TECH SUPPLY INJECTION",
+                "teaserTitle": "SAUDI CARRIERS: RED SEA BYPASS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Justice Department's Trade Fraud Task Force hit one billion dollars in recoveries, escalating customs enforcement risk for cross-border supply chains."
+                "narration_line": "The US Commerce Department injected 874 million dollars into critical technology suppliers, acquiring minority equity stakes to safeguard domestic manufacturing."
             },
             {
                 "slide_index": 2,
-                "headline": "BROKERAGE: $604M NEGLIGENT HIRING VERDICT",
-                "teaserTitle": "USTR: SECTION 301 FORCED LABOR TARIFFS",
+                "headline": "SAUDI CARRIERS: RED SEA BYPASS",
+                "teaserTitle": "USPS: HAZMAT COMPLIANCE MANDATE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A landmark six hundred million dollar verdict against C.H. Robinson is forcing freight brokers to overhaul carrier safety vetting protocols immediately."
+                "narration_line": "Saudi shipping lines diverted major container vessels around Africa, expanding transit times by 14 days to bypass dangerous Red Sea chokepoints."
             },
             {
                 "slide_index": 3,
-                "headline": "USTR: SECTION 301 FORCED LABOR TARIFFS",
-                "teaserTitle": "FMC: COURT UPHOLDS DETENTION RULE",
+                "headline": "USPS: HAZMAT COMPLIANCE MANDATE",
+                "teaserTitle": "NEW JERSEY: DYNAMIC PRICING BAN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The U.S. Trade Representative is deploying Section 301 tariffs on sixty nations to eliminate forced labor from international trade corridors."
+                "narration_line": "The Postal Service enacted strict noncompliance fees and security updates targeting hazardous consumer goods shipped via e-commerce seller portals."
             },
             {
                 "slide_index": 4,
-                "headline": "FMC: COURT UPHOLDS DETENTION RULE",
-                "teaserTitle": "AIR FREIGHT: JET FUEL SURCHARGE SPIKES",
+                "headline": "NEW JERSEY: DYNAMIC PRICING BAN",
+                "teaserTitle": "GE AEROSPACE: LEAD TIME CUT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Federal appellate courts upheld FMC rules mandating that ocean carrier detention fees must actively incentivize port freight fluidity."
+                "narration_line": "New Jersey banned dynamic retail pricing and froze electronic shelf label deployments for one year to study physical store pricing algorithms."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR FREIGHT: JET FUEL SURCHARGE SPIKES",
-                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING",
+                "headline": "GE AEROSPACE: LEAD TIME CUT",
+                "teaserTitle": "FRA: CROSS-BORDER CREW RULES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Volatile energy markets have triggered bi-weekly air freight fuel surcharges, driving up international air cargo export rates globally."
+                "narration_line": "GE Aerospace condensed engine assembly routes, slashing F110 manufacturing lead times by 60 percent to accelerate quarter-two deliveries."
             },
             {
                 "slide_index": 6,
-                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING",
-                "teaserTitle": "AMAZON: $600M TARIFF REFUND DISBURSEMENT",
+                "headline": "FRA: CROSS-BORDER CREW RULES",
+                "teaserTitle": "OUTOKUMPU: SCRAP CONTAINERIZATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FedEx is accelerating robotic trailer loading deployments to boost hub processing speeds and solve dock labor bottlenecks."
+                "narration_line": "Federal regulators proposed mandatory English language standards for Mexican train crews entering the US to improve cross-border rail safety."
             },
             {
                 "slide_index": 7,
-                "headline": "AMAZON: $600M TARIFF REFUND DISBURSEMENT",
+                "headline": "OUTOKUMPU: SCRAP CONTAINERIZATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon is disbursing six hundred million dollars in customs refunds following regulatory recalculations of cross-border marketplace tariffs."
+                "narration_line": "Steel manufacturer Outokumpu introduced collapsible ISO containers for scrap transport, drastically cutting return-leg logistics overhead and empty transit costs."
             },
             {
                 "slide_index": 8,
