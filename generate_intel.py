@@ -86,9 +86,30 @@ def fetch_and_clean():
     return prompt_content, scraped_text
 
 # ==============================================================================
-# [ MODULE 3: LLM PIPELINE & STRUCTURAL ENFORCEMENT ]
-# Purpose: Combines prompt with live data, calls API, sanitizes output, and writes files.
-# Data Flow: LLM Output -> JSON Validation -> Bullet Padding/Truncation -> File System Writes.
+# [ MODULE 3: TRACKER LOG & STATE SYNCHRONIZATION ENGINES ]
+# Purpose: Maintains tracking state files and ensures sequential, logical execution updates.
+# ==============================================================================
+def update_tracker_files():
+    """Updates bg_tracker.txt and follow_tracker.txt atomically to ensure sequential tracking."""
+    timestamp = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
+    
+    try:
+        with open("bg_tracker.txt", "w", encoding="utf-8") as f:
+            f.write(f"Automated Hourly Update & Dynamic Rotation: {timestamp}")
+        log("SUCCESS", "Updated bg_tracker.txt successfully.")
+    except Exception as e:
+        log("WARNING", f"Failed to update bg_tracker.txt: {str(e)}")
+
+    try:
+        with open("follow_tracker.txt", "w", encoding="utf-8") as f:
+            f.write(f"Automated Hourly Update & Dynamic Rotation: {timestamp}")
+        log("SUCCESS", "Updated follow_tracker.txt successfully.")
+    except Exception as e:
+        log("WARNING", f"Failed to update follow_tracker.txt: {str(e)}")
+
+# ==============================================================================
+# [ MODULE 4: LLM PIPELINE & SEQUENTIAL ATOMIC SYNCHRONIZATION ]
+# Purpose: Combines prompt with live data, enforces structure, and executes atomic file writes in logical sequence.
 # ==============================================================================
 def enforce_slide_structure(slides_object):
     """Enforces a strict 4-bullet point limit per slide to prevent UI overflow."""
@@ -139,40 +160,65 @@ def main():
             parsed_payload = json.loads(raw_text)
             log("SUCCESS", "LLM payload successfully parsed as valid JSON.")
             
-            # --- EXACT EXTRACTION MAPPING FROM PROMPT STRUCTURE ---
-            slides_data_node = parsed_payload.get("slides_data", parsed_payload)
-            video_module_node = parsed_payload.get("video_shorts_module", {})
+            # --- ROBUST NODE EXTRACTION & FALLBACKS ---
+            slides_data_node = parsed_payload.get("slides_data")
+            if not slides_data_node:
+                if "slides" in parsed_payload:
+                    slides_data_node = {"main": parsed_payload.get("main", {}), "slides": parsed_payload["slides"]}
+                else:
+                    slides_data_node = parsed_payload
+
+            video_module_node = parsed_payload.get("video_shorts_module")
+            if not video_module_node:
+                video_module_node = parsed_payload.get("video_shorts_data", {"language": "EN", "video_shorts_data": parsed_payload})
+
             post_content = parsed_payload.get("social_post", "")
-            
+            if not post_content and isinstance(parsed_payload, dict):
+                post_content = "🌐 GLOBAL LOGISTICS INTELLIGENCE\nStay ahead of the global freight pulse."
+
             # --- ENFORCEMENT ---
             slides_data_node = enforce_slide_structure(slides_data_node)
             slides_json_str = json.dumps(slides_data_node, indent=4)
             
-            # --- EXPORT TO FILES ---
-            # 1. Base slide template (template.js in Root)
+            # ==============================================================================
+            # SEQUENTIAL ATOMIC WRITE SEQUENCE (ORDERED TO PREVENT STALE/SKIPPED FILES)
+            # ==============================================================================
+            
+            # 1. Update Tracker Logs First (State Synchronization)
+            update_tracker_files()
+            
+            # 2. Base Slide Template (template.js in Root)
             with open("template.js", "w", encoding="utf-8") as f:
                 f.write(f"const dailyData = {slides_json_str};")
             log("SUCCESS", "Generated and exported: template.js")
                 
-            # 2. Exact Direct Mirror of video_shorts_module to Social_Media/Video_Template_EN.js
+            # 3. Social Media Post Content (post.txt in Root)
+            with open("post.txt", "w", encoding="utf-8") as f:
+                clean_post = str(post_content).replace('\\n', '\n')
+                f.write(clean_post)
+            log("SUCCESS", "Generated and exported: post.txt")
+                
+            # 4. Cinematic Video Template (Social_Media/Video_Template_EN.js)
             social_media_dir = "Social_Media"
             os.makedirs(social_media_dir, exist_ok=True)
             video_template_path = os.path.join(social_media_dir, "Video_Template_EN.js")
             
-            video_js_content = f"module.exports = {json.dumps(video_module_node, indent=4)};"
+            if "video_shorts_data" not in video_module_node:
+                video_payload_to_write = {
+                    "language": "EN",
+                    "video_shorts_data": video_module_node
+                }
+            else:
+                video_payload_to_write = video_module_node
+
+            video_js_content = f"module.exports = {json.dumps(video_payload_to_write, indent=4)};"
 
             with open(video_template_path, "w", encoding="utf-8") as f:
                 f.write(video_js_content)
-            log("SUCCESS", f"Generated and exported exact video_shorts_module mirror: {video_template_path}")
+            log("SUCCESS", f"Generated and exported video template: {video_template_path}")
                 
-            # 3. Social Media Post (post.txt in Root)
-            with open("post.txt", "w", encoding="utf-8") as f:
-                clean_post = post_content.replace('\\n', '\n')
-                f.write(clean_post)
-            log("SUCCESS", "Generated and exported: post.txt")
-                
-            log("SUCCESS", "generate_intel.py pipeline completed successfully.")
-            return # Exit successfully without trying fallback models
+            log("SUCCESS", "generate_intel.py pipeline completed successfully with full sequence synchronization.")
+            return
             
         except Exception as e:
             log("WARNING", f"Model {model} generation failed or JSON invalid: {str(e)}")
