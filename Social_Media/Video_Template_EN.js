@@ -1,65 +1,62 @@
 module.exports = {
-    // Top-level language switch for pipeline handling (EN, DE, FR, etc.)
     "language": "EN",
-    
     "video_shorts_data": {
-        // Thumbnail & Hook Title: Dynamically tied to Slide 1's primary headline
-        "hookTitle": "60 NATION TARIFF SURGE",
+        "hookTitle": "GLOBAL FREIGHT SHIFT RISKS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFF OVERHAUL",
-                "teaserTitle": "Strait of Hormuz Crisis",
+                "headline": "CH ROBINSON: CARRIER SELECTION VERDICT",
+                "teaserTitle": "USTR: SECTION 301 TARIFF EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR is imposing new tariffs on 60 nations, forcing an immediate, cost-intensive pivot in global sourcing and compliance strategies."
+                "narration_line": "A six hundred million dollar verdict against C.H. Robinson establishes precedent broker liability for negligent carrier selection."
             },
             {
                 "slide_index": 2,
-                "headline": "HORMUZ CRISIS",
-                "teaserTitle": "$604M Broker Verdict",
+                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "AMAZON: ROBOTIC FULFILLMENT AUTOMATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Escalating tensions at the Strait of Hormuz are triggering major vessel rerouting and increased insurance premiums for Middle East trade."
+                "narration_line": "The USTR enforces Section 301 forced labor tariffs on sixty nations following the expiration of temporary Section 122 exemptions."
             },
             {
                 "slide_index": 3,
-                "headline": "BROKER LIABILITY",
-                "teaserTitle": "Chameleon Carrier Purge",
+                "headline": "AMAZON: ROBOTIC FULFILLMENT AUTOMATION",
+                "teaserTitle": "FRA: MEXICAN RAIL CREW COMPLIANCE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A massive 604 million dollar brokerage verdict is forcing a total industry overhaul of carrier vetting and vicarious liability protocols."
+                "narration_line": "Amazon expands fulfillment center robotics deployments to achieve faster throughput and ultra-fast customer delivery capabilities."
             },
             {
                 "slide_index": 4,
-                "headline": "CARRIER PURGE",
-                "teaserTitle": "Air Surcharge Reviews",
+                "headline": "FRA: MEXICAN RAIL CREW COMPLIANCE",
+                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New US legislation targets chameleon carriers, deploying automated detection tools to purge non-compliant operators from national freight networks."
+                "narration_line": "Federal regulators propose strict English language standards for Mexican rail crews crossing international trade gateways into America."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO VOLATILITY",
-                "teaserTitle": "USPS Rate Adjustments",
+                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING",
+                "teaserTitle": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Air cargo carriers are accelerating fuel surcharge reviews as market volatility and AI chip demand squeeze available capacity and margins."
+                "narration_line": "FedEx expands pilot deployments of autonomous trailer loading systems to automate freight dock logistics and maximize volume."
             },
             {
                 "slide_index": 6,
-                "headline": "E-COMMERCE RATE SPIKE",
-                "teaserTitle": "Warehouse Market Shift",
+                "headline": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
+                "teaserTitle": "USPS: MARKETPLACE RATE INCREASES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "USPS rate adjustments and new hazmat fees are creating sudden, margin-eroding obstacles for high-volume marketplace e-commerce sellers this month."
+                "narration_line": "Airlines initiate bi-weekly jet fuel surcharge reviews to adjust air freight pricing against Middle Eastern regional market shocks."
             },
             {
                 "slide_index": 7,
-                "headline": "WAREHOUSE SHIFT",
-                "teaserTitle": "Live Intelligence Signal",
+                "headline": "USPS: MARKETPLACE RATE INCREASES",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Industrial real estate vacancies are stabilizing at 7.3 percent, signaling a shift toward outsourced, automated distribution as primary operations."
+                "narration_line": "USPS implements immediate rate hikes on Ground Advantage parcel services impacting e-commerce marketplace seller fulfillment margins."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
-                "teaserTitle": "", // Penultimate slide: Teaser explicitly disabled
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
                 "narration_line": "Get the complete hourly intelligence breakdown and live data logs at Global Logistics."
             }
