@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK DECOUPLING",
+        "hookTitle": "GLOBAL FREIGHT RATE VOLATILITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "COMMERCE DEPT: TECH SUPPLY INJECTION",
-                "teaserTitle": "SAUDI CARRIERS: RED SEA BYPASS",
+                "headline": "AIR CARGO SURCHARGE OVERHAUL",
+                "teaserTitle": "CONTAINER SCHEDULE RELIABILITY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The US Commerce Department injected 874 million dollars into critical technology suppliers, acquiring minority equity stakes to safeguard domestic manufacturing."
+                "narration_line": "Airlines are accelerating bi-weekly fuel surcharge reviews to offset soaring jet fuel costs."
             },
             {
                 "slide_index": 2,
-                "headline": "SAUDI CARRIERS: RED SEA BYPASS",
-                "teaserTitle": "USPS: HAZMAT COMPLIANCE MANDATE",
+                "headline": "HORMUZ CLOSURE SCHEDULE IMPACT",
+                "teaserTitle": "RAILWAY LABOR STANDARDS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Saudi shipping lines diverted major container vessels around Africa, expanding transit times by 14 days to bypass dangerous Red Sea chokepoints."
+                "narration_line": "Persistent Strait of Hormuz disruptions continue to degrade global container schedule reliability."
             },
             {
                 "slide_index": 3,
-                "headline": "USPS: HAZMAT COMPLIANCE MANDATE",
-                "teaserTitle": "NEW JERSEY: DYNAMIC PRICING BAN",
+                "headline": "FEDERAL RAIL ENGLISH PROFICIENCY",
+                "teaserTitle": "INTERAGENCY FRAUD RECOVERIES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Postal Service enacted strict noncompliance fees and security updates targeting hazardous consumer goods shipped via e-commerce seller portals."
+                "narration_line": "The FRA is pushing for tougher English communication standards for cross-border rail crews."
             },
             {
                 "slide_index": 4,
-                "headline": "NEW JERSEY: DYNAMIC PRICING BAN",
-                "teaserTitle": "GE AEROSPACE: LEAD TIME CUT",
+                "headline": "TRADE FRAUD TASK FORCE MILESTONE",
+                "teaserTitle": "INDUSTRIAL REAL ESTATE BALANCE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New Jersey banned dynamic retail pricing and froze electronic shelf label deployments for one year to study physical store pricing algorithms."
+                "narration_line": "The DOJ Trade Fraud Task Force has crossed one billion dollars in total customs recoveries."
             },
             {
                 "slide_index": 5,
-                "headline": "GE AEROSPACE: LEAD TIME CUT",
-                "teaserTitle": "FRA: CROSS-BORDER CREW RULES",
+                "headline": "INDUSTRIAL REAL ESTATE EQUILIBRIUM",
+                "teaserTitle": "AEROSPACE LEAD TIME REDUCTION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "GE Aerospace condensed engine assembly routes, slashing F110 manufacturing lead times by 60 percent to accelerate quarter-two deliveries."
+                "narration_line": "Industrial real estate vacancy rates stabilize as new supply growth aligns with market demand."
             },
             {
                 "slide_index": 6,
-                "headline": "FRA: CROSS-BORDER CREW RULES",
-                "teaserTitle": "OUTOKUMPU: SCRAP CONTAINERIZATION",
+                "headline": "AEROSPACE MANUFACTURING EFFICIENCY",
+                "teaserTitle": "AI DEMAND PLANNING DEPLOYMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Federal regulators proposed mandatory English language standards for Mexican train crews entering the US to improve cross-border rail safety."
+                "narration_line": "GE Aerospace successfully slashed manufacturing lead times by sixty percent through consolidation."
             },
             {
                 "slide_index": 7,
-                "headline": "OUTOKUMPU: SCRAP CONTAINERIZATION",
+                "headline": "ARTIFICIAL INTELLIGENCE IN PLANNING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Steel manufacturer Outokumpu introduced collapsible ISO containers for scrap transport, drastically cutting return-leg logistics overhead and empty transit costs."
+                "narration_line": "Nissin Foods implements advanced artificial intelligence planning tools to sharpen supply forecasts."
             },
             {
                 "slide_index": 8,
