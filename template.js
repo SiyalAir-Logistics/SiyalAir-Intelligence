@@ -1,39 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Regulatory shifts, massive broker liability verdicts, and automated carrier overhauls are re-engineering global logistics risk profiles and freight movement fluidity across networks."
+        "titleWhite": "GLOBAL TRADE STRATEGY",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "Critical regulatory pivots in rail cross-border labor, Middle East maritime defense sanctions, and USPS rate hikes force immediate operational recalibration across global supply networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
+            "heading": "FRA: MEXICAN RAIL CREW MANDATE",
             "points": [
-                "The U.S. Trade Representative has initiated Section 301 tariffs targeting 60 trading partners to address forced labor compliance following Section 122 expirations.",
-                "Shippers face immediate duty rate recalibrations across cross-border lanes, directly escalating landed cost formulas for international supply networks.",
-                "Regulatory agencies are enforcing stringent supply chain tracing, compelling importers to verify tier-one and tier-two vendor compliance.",
-                "Enterprise risk models must pivot toward rapid sourcing diversification to avoid steep penalty exposure and custom hold delays."
+                "The Federal Railroad Administration moves to enforce stricter English language proficiency standards for Mexican cross-border train crews.",
+                "Rail operators face potential transit delays and increased compliance auditing at major Southern border entry interchanges.",
+                "The initiative aims to standardize critical rail communication safety protocols across multi-national corridor freight operations.",
+                "Intermodal rail carriers must quickly audit crew certifications to prevent cross-border supply chain choke points."
             ],
             "imageUrl": "",
-            "nextUpTease": "BROKER LIABILITY: $604M VERDICT",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "BROKER LIABILITY: $604M VERDICT",
-            "points": [
-                "A landmark $604 million advisory verdict against C.H. Robinson has intensified legal scrutiny surrounding freight broker carrier selection and vetting protocols.",
-                "The legal outcome establishes unprecedented vicarious liability precedents, threatening existing third-party logistics operational frameworks.",
-                "Freight brokerages are aggressively restructuring digital carrier onboarding to incorporate real-time safety verification algorithms.",
-                "Shippers and 3PLs must prepare for elevated insurance premiums and heightened due-diligence standards across highway freight networks."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FEDEX: TRAILER LOADING ROBOTICS EXPANSION",
+            "nextUpTease": "DOT: FREEDOM HAULERS VETERAN PIPELINE",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -41,86 +24,103 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "FEDEX: TRAILER LOADING ROBOTICS EXPANSION",
+            "id": 2,
+            "heading": "DOT: FREEDOM HAULERS VETERAN PIPELINE",
             "points": [
-                "FedEx is expanding its pilot program for autonomous trailer loading systems to streamline hub operations and mitigate terminal congestion.",
-                "Automated trailer handling dramatically reduces dwell times while optimizing package placement density within long-haul highway trailers.",
-                "The deployment marks a major step in the Network 2.0 consolidation plan, driving structural unit-cost reductions across parcel hubs.",
-                "Terminal operators will accelerate capital allocation toward autonomous facility infrastructure to preserve throughput margins."
+                "The Department of Transportation launches Freedom Haulers to streamline commercial driver licensing pathways for military veterans.",
+                "The interagency campaign addresses persistent driver shortages while maintaining strict safety enforcement on non-domiciled operators.",
+                "Federal agencies are pairing recruitment incentives with targeted weigh-station inspections to stabilize national trucking capacity.",
+                "Motor carriers gain direct access to qualified driver talent to mitigate long-term labor constraints."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL MERGER: CN OPPOSITION WITHDRAWAL",
+            "nextUpTease": "US TREASURY: HORMUZ SHIPPING SANCTIONS",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.inboundlogistics.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "US TREASURY: HORMUZ SHIPPING SANCTIONS",
+            "points": [
+                "The U.S. government enacts targeted sanctions against illegal extortion networks operating near the strategic Strait of Hormuz.",
+                "Maritime freight flows through Middle Eastern chokepoints face heightened risk premiums and escalating bunker fuel surcharges.",
+                "Ocean carriers continue rerouting vessels around the Cape of Good Hope to avoid active conflict zones and drone strikes.",
+                "Global supply chain managers must recalculate transit times and inventory buffers for Asia-Europe maritime routes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS: MARKETPLACE PACKAGE RATE HIKE",
+            "tags": [
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RAIL MERGER: CN OPPOSITION WITHDRAWAL",
+            "heading": "USPS: MARKETPLACE PACKAGE RATE HIKE",
             "points": [
-                "Canadian National agreed not to contest the proposed Union Pacific and Norfolk Southern merger after securing critical shipper site access rights.",
-                "The settlement agreement ensures CN maintains strategic intermodal connectivity across key Midwestern and North American rail corridors.",
-                "Regulatory approval by the Surface Transportation Board remains the final hurdle for the combined Class I mega-network architecture.",
-                "Rail shippers anticipate shifting route options and potential tariff modifications as consolidated rail operators harmonize network schedules."
+                "The United States Postal Service enacts immediate rate increases for Ground Advantage services impacting major e-commerce platforms.",
+                "Third-party sellers face elevated shipping surcharges alongside new non-compliance penalties for hazardous material packaging.",
+                "Postal authorities are expanding rural parcel price adjustments to cover rising last-mile delivery cost structures.",
+                "Omnichannel retailers must adjust rate-shopping algorithms to offset expanding parcel fulfillment expenditure."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: DETENTION FEE FLUIDITY MANDATE",
+            "nextUpTease": "COMMERCE DEPT: $874M TECH SUPPLY FUNDS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FMC: DETENTION FEE FLUIDITY MANDATE",
+            "heading": "COMMERCE DEPT: $874M TECH SUPPLY FUNDS",
             "points": [
-                "The U.S. Court of Appeals upheld the Federal Maritime Commission ruling requiring container detention and demurrage fees to directly promote freight fluidity.",
-                "Ocean carriers and marine terminal operators can no longer assess punitive demurrage charges when port congestion prevents container retrieval.",
-                "The legal precedent reinforces Ocean Shipping Reform Act enforcement mechanisms, safeguarding beneficial cargo owners against arbitrary billing.",
-                "Importers and drayage fleets gain strengthened leverage to dispute improper billing through formal FMC charge complaint frameworks."
+                "The Department of Commerce releases $874 million in funding to strengthen critical domestic technology supply chain infrastructure.",
+                "The federal government receives minority equity stakes in recipient firms to enforce strategic production continuity.",
+                "Industrial automation and semiconductor supply chains gain targeted capital to reduce reliance on vulnerable foreign suppliers.",
+                "High-tech manufacturers gain domestic sourcing security against persistent geopolitical trade disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONGRESS: CHAMELEON CARRIER CRACKDOWN",
+            "nextUpTease": "COLLIERS: INDUSTRIAL REAL ESTATE UPDATE",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CONGRESS: CHAMELEON CARRIER CRACKDOWN",
+            "heading": "COLLIERS: INDUSTRIAL REAL ESTATE UPDATE",
             "points": [
-                "New bipartisan Senate legislation aims to eliminate chameleon carriers that re-register under fresh identities to bypass safety enforcement and penalties.",
-                "The bill mandates enhanced digital tracking of USDOT registration histories and cross-checks motor carrier ownership records in real time.",
-                "Freight fraud and safety evasion strategies are facing unprecedented federal enforcement pressure across interstate commercial trucking.",
-                "Logistics brokers will gain streamlined compliance data tools to filter fraudulent or high-risk trucking entities from spot market boards."
+                "Colliers reports industrial warehouse vacancy dropped to 7.3 percent as demand for logistics space outpaces new delivery construction.",
+                "Stabilized real estate fundamentals indicate inventory accumulation and data center expansions are driving commercial absorption.",
+                "Reduced speculative construction pipelines are creating tight leasing market conditions in key strategic distribution hubs.",
+                "Logistics operators face renewing warehouse leases at elevated rental baselines across major logistics corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON: FULFILLMENT ROBOTICS SCALING",
+            "nextUpTease": "REVOY: ELECTRIC TRUCK CONVERSION ENGINE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AMAZON: FULFILLMENT ROBOTICS SCALING",
+            "heading": "REVOY: ELECTRIC TRUCK CONVERSION ENGINE",
             "points": [
-                "Amazon reported record fulfillment speed improvements driven by widespread robotics integration across its regional distribution network.",
-                "Automated item sorting and robotic arm deployment lowered per-unit handling costs while expanding same-day delivery coverage.",
-                "The e-commerce giant's operational performance sets a high technological benchmark for competing omnichannel retail fulfillment networks.",
-                "Third-party sellers leveraging fulfillment services benefit from shortened transit windows and improved inventory placement accuracy."
+                "Revoy unveils a commercial hardware device capable of converting existing diesel heavy trucks into hybrid electric vehicles.",
+                "Motor fleets can instantly reduce fuel consumption and carbon emissions without purchasing expensive new zero-emission trucks.",
+                "The technology provides immediate operational cost savings for long-haul carrier fleets navigating strict regional emissions mandates.",
+                "Freight carriers gain a flexible bridge solution to achieve sustainability targets amid slow EV charging network rollouts."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
