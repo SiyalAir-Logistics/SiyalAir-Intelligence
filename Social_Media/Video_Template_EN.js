@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL LOGISTICS RISK SURGES",
+        "hookTitle": "GLOBAL FREIGHT NETWORK RESTRUCTURING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "BROKERAGE: BROKER LIABILITY VERDICT",
-                "teaserTitle": "USTR: FORCED LABOR TARIFFS",
+                "headline": "RAILWAY: MEXICAN CREW LANGUAGE STANDARDS",
+                "teaserTitle": "LIVESTOCK: USDA MEXICAN CATTLE UNBAN",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A landmark six-hundred-four million dollar court verdict against C.H. Robinson dramatically increases liability exposure for freight broker carrier selection."
+                "narration_line": "Federal regulators propose tougher English standards for Mexican rail crews to ensure cross-border transit safety."
             },
             {
                 "slide_index": 2,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "FMC: DETENTION RULE UPHELD",
+                "headline": "LIVESTOCK: USDA MEXICAN CATTLE UNBAN",
+                "teaserTitle": "POSTAL: USPS GROUND ADVANTAGE HIKE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The USTR is deploying Section 301 tariffs on sixty nations to target forced labor violations following Section 122 expiration."
+                "narration_line": "USDA lifts restrictions on Mexican cattle imports, expanding cross-border livestock trade and easing food supply chains."
             },
             {
                 "slide_index": 3,
-                "headline": "FMC: DETENTION RULE UPHELD",
-                "teaserTitle": "AIR FREIGHT: SURCHARGE MECHANISM SHIFT",
+                "headline": "POSTAL: USPS GROUND ADVANTAGE HIKE",
+                "teaserTitle": "DRONES: DOORDASH FLIGHT APPROVAL EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal courts upheld FMC rules mandating that ocean container detention fees must strictly promote port freight fluidity."
+                "narration_line": "USPS raises Ground Advantage rates and adds hazmat noncompliance fees, squeezing margins for marketplace sellers."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR FREIGHT: SURCHARGE MECHANISM SHIFT",
-                "teaserTitle": "DOJ: TRADE FRAUD ENFORCEMENT",
+                "headline": "DRONES: DOORDASH FLIGHT APPROVAL EXPANSION",
+                "teaserTitle": "REGULATION: SENATE CHAMELEON CARRIER LEGISLATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Air cargo carriers are moving to bi-weekly fuel surcharge revisions as volatile jet fuel prices pressure global freighter margins."
+                "narration_line": "Federal regulators approve expanded drone delivery flights, accelerating autonomous last-mile logistics networks."
             },
             {
                 "slide_index": 5,
-                "headline": "DOJ: TRADE FRAUD ENFORCEMENT",
-                "teaserTitle": "MAERSK: SHUTTLE NETWORK EXPANSION",
+                "headline": "REGULATION: SENATE CHAMELEON CARRIER LEGISLATION",
+                "teaserTitle": "RETAIL: NEW JERSEY DYNAMIC PRICING BAN",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Justice Department's Trade Fraud Task Force hit one billion dollars in penalties targeting duty evasion and customs misclassification."
+                "narration_line": "New Senate bill targets chameleon carriers that reopen under new names to escape safety penalties and enforcement."
             },
             {
                 "slide_index": 6,
-                "headline": "MAERSK: SHUTTLE NETWORK EXPANSION",
-                "teaserTitle": "FEDEX: ROBOTIC TRAILER LOADING",
+                "headline": "RETAIL: NEW JERSEY DYNAMIC PRICING BAN",
+                "teaserTitle": "INTERMODAL: STG LOGISTICS REORGANIZATION EXIT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Maersk expanded its ocean shuttle strategy to Latin America's west coast to boost schedule reliability amid global port congestion."
+                "narration_line": "New Jersey bans dynamic pricing in retail and pauses electronic shelf tags, forcing pricing strategy recalibration."
             },
             {
                 "slide_index": 7,
-                "headline": "FEDEX: ROBOTIC TRAILER LOADING",
+                "headline": "INTERMODAL: STG LOGISTICS REORGANIZATION EXIT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "FedEx expanded pilot deployments of autonomous robotic trailer loading systems to reduce hub dwell times and optimize dock capacity."
+                "narration_line": "STG Logistics exits Chapter 11 restructuring, restoring capacity stability across domestic intermodal transload networks."
             },
             {
                 "slide_index": 8,
