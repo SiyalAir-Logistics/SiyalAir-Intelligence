@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK AUTONOMY",
+        "hookTitle": "GLOBAL TRADE COMPLIANCE SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GE AEROSPACE: PROCESS CONSOLIDATION",
-                "teaserTitle": "MAERSK: SHUTTLE NETWORK EXTENSION",
+                "headline": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
+                "teaserTitle": "DOJ TASK FORCE: $1B TRADE FRAUD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "GE Aerospace slashed lead times by 60 percent by consolidating manufacturing processes and internal plant transport routes."
+                "narration_line": "C.H. Robinson faces a massive six hundred four million dollar verdict appeal, reshaping broker liability and carrier vetting standards."
             },
             {
                 "slide_index": 2,
-                "headline": "MAERSK: SHUTTLE NETWORK EXTENSION",
-                "teaserTitle": "UPS: AUTOMATION HUB EXPANSION",
+                "headline": "DOJ TASK FORCE: $1B TRADE FRAUD",
+                "teaserTitle": "FRA RAILWAY: MEXICAN CREW STANDARDS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Maersk extended its Gemini ocean shuttle strategy to Latin America to protect schedule reliability against port congestion."
+                "narration_line": "The Justice Department's Trade Fraud Task Force surpasses one billion dollars in recoveries, escalating customs enforcement against import non-compliance."
             },
             {
                 "slide_index": 3,
-                "headline": "UPS: AUTOMATION HUB EXPANSION",
-                "teaserTitle": "DOORDASH: DRONE FLEET APPROVAL",
+                "headline": "FRA RAILWAY: MEXICAN CREW STANDARDS",
+                "teaserTitle": "FEDEX ROBOTICS: TRAILER LOADING SYSTEM",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "UPS now routes over two-thirds of its domestic U.S. package volume through fully automated sorting hubs."
+                "narration_line": "Federal rail regulators propose stricter language standards for Mexican train crews to enhance safety across cross-border freight corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "DOORDASH: DRONE FLEET APPROVAL",
-                "teaserTitle": "COSCO: FREETRADE HUB EXPANSION",
+                "headline": "FEDEX ROBOTICS: TRAILER LOADING SYSTEM",
+                "teaserTitle": "FMC RULE: DETENTION FEE FLUIDITY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Regulators officially approved DoorDash autonomous drone delivery operations, unlocking aerial last-mile fulfillment corridors across key markets."
+                "narration_line": "FedEx expands autonomous robotic trailer loading systems, accelerating parcel sortation speeds across core distribution hubs."
             },
             {
                 "slide_index": 5,
-                "headline": "COSCO: FREETRADE HUB EXPANSION",
-                "teaserTitle": "COLLIERS: INDUSTRIAL REAL ESTATE",
+                "headline": "FMC RULE: DETENTION FEE FLUIDITY",
+                "teaserTitle": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Cosco Shipping established a new subsidiary to scale transshipment operations at China's Hainan free-trade port."
+                "narration_line": "Federal court upholds FMC rules stipulating ocean detention fees must promote freight fluidity rather than generate ocean carrier revenue."
             },
             {
                 "slide_index": 6,
-                "headline": "COLLIERS: INDUSTRIAL REAL ESTATE",
-                "teaserTitle": "AIR INDIA: DIGITAL CHANNEL TRANSITION",
+                "headline": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
+                "teaserTitle": "USPS LOGISTICS: MARKETPLACE RATE INCREASES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Industrial real estate vacancy stabilized at 7.3 percent as warehousing demand outstripped new logistics facility construction."
+                "narration_line": "Air freight carriers transition to biweekly fuel surcharges as Middle East disruptions drive jet fuel price volatility across key corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR INDIA: DIGITAL CHANNEL TRANSITION",
+                "headline": "USPS LOGISTICS: MARKETPLACE RATE INCREASES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Air India Cargo partnered with cargo.one to digitize air freight booking channels and distribute real-time spot rates."
+                "narration_line": "USPS implements new Ground Advantage rate increases and hazmat non-compliance fees impacting marketplace e-commerce sellers."
             },
             {
                 "slide_index": 8,

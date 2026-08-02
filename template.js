@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "AUTONOMY",
-        "footerSummary": "Decoupling supply chain bottlenecks through automated sorting hubs, regional vessel shuttles, and drone air corridors."
+        "titleWhite": "GLOBAL TRADE COMPLIANCE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Dynamic compliance mandates, legal liability precedents, and fuel surcharge recalibrations introduce sharp operational friction across international freight corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GE AEROSPACE: PROCESS CONSOLIDATION",
+            "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
             "points": [
-                "GE Aerospace consolidated internal manufacturing processes and cut intra-facility transport distances during the second quarter.",
-                "The operational overhaul drove a 60% reduction in production lead times for military F110 aircraft engine deliveries.",
-                "Engineering re-architecting of plant flow eliminates staging bottlenecks across complex aerospace tier-one supply chains.",
-                "Aerospace OEMs are demonstrating that internal layout optimization yields immediate throughput gains without expanding physical footprint."
+                "C.H. Robinson moves to appeal a landmark 604 million dollar negligent-hiring verdict arising from motor carrier selection practices.",
+                "The legal ruling amplifies vicarious liability risks for freight brokers and non-vessel operating common carriers across domestic supply chains.",
+                "Freight intermediaries are now restructuring carrier vetting algorithms to enforce stringent safety audit protocols before dispatching loads.",
+                "Stakeholders anticipate immediate upward pressure on freight brokerage insurance premiums and heightened carrier compliance standards nationwide."
             ],
             "imageUrl": "",
-            "nextUpTease": "MAERSK: SHUTTLE NETWORK EXTENSION",
+            "nextUpTease": "DOJ TASK FORCE: $1B TRADE FRAUD",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MAERSK: SHUTTLE NETWORK EXTENSION",
+            "heading": "DOJ TASK FORCE: $1B TRADE FRAUD",
             "points": [
-                "Maersk is expanding its ocean Gemini shuttle network strategy directly to the west coast of Latin America.",
-                "High-frequency regional feeder shuttles buffer mainliner vessel schedules against port congestion and canal delay propagation.",
-                "The architectural shift prioritizes schedule reliability over direct call density across volatile transoceanic trade lanes.",
-                "Shippers along South American corridors gain predictable buffer schedules at the expense of secondary feeder transshipments."
+                "The Department of Justice Trade Fraud Task Force crossed 1 billion dollars in forfeitures and civil recoveries targeted at import non-compliance.",
+                "Enforcement focus centers on anti-dumping evasion, customs valuation misreporting, and illicit duty avoidance mechanisms across cross-border supply chains.",
+                "Importers and third-party logistics operators are implementing automated audit trail logging to mitigate unexpected trade enforcement liabilities.",
+                "Customs brokers must audit high-risk tariff classifications to prevent systemic supply chain holds and substantial regulatory penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "UPS: AUTOMATION HUB EXPANSION",
+            "nextUpTease": "FRA RAILWAY: MEXICAN CREW STANDARDS",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "UPS: AUTOMATION HUB EXPANSION",
+            "heading": "FRA RAILWAY: MEXICAN CREW STANDARDS",
             "points": [
-                "UPS confirmed that over two-thirds of its total United States parcel volume is now processed via fully automated facilities.",
-                "Automated sorting infrastructure drastically reduces cost-per-package while expanding off-peak sorting capacities across primary hubs.",
-                "The network modernization strategy shifts labor capital from manual sortation toward high-density last-mile routing execution.",
-                "Legacy logistics networks unable to automate sortation face widening operational margin pressure against modern automated hubs."
+                "The Federal Railroad Administration proposes stricter English proficiency requirements for Mexican rail crews operating cross-border trains into North America.",
+                "Operational mandates aim to standardize safety communications across international interchanges to streamline transborder freight movements.",
+                "Class I railroads are deploying bilingual safety monitoring systems and enhanced crew qualification protocols along key border corridors.",
+                "Shippers should expect temporary border interchange delays as rail operators align crew certifications with updated federal standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOORDASH: DRONE FLEET APPROVAL",
+            "nextUpTease": "FEDEX ROBOTICS: TRAILER LOADING SYSTEM",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DOORDASH: DRONE FLEET APPROVAL",
+            "heading": "FEDEX ROBOTICS: TRAILER LOADING SYSTEM",
             "points": [
-                "Federal regulators granted formal approval for DoorDash to scale autonomous aerial drone delivery operations in designated U.S. markets.",
-                "The regulatory green light permits beyond-visual-line-of-sight drone flights for rapid last-mile commercial fulfillment.",
-                "Autonomous aerial routing bypasses ground traffic congestion while slashing micro-fulfillment fulfillment cycles.",
-                "Commercial last-mile logistics is accelerating toward aerial automated bypass options for lightweight suburban e-commerce."
+                "FedEx advances the deployment of autonomous robotic loading systems designed to automate heavy trailer loading and package stacking operations.",
+                "The technological rollout increases hub throughput density while reducing dock side dwell times across core parcel distribution centers.",
+                "Automated trailer loading integrates computer vision and real-time motion planning to optimize cubic space utilization automatically.",
+                "Logistics networks will experience accelerated hub sortation speeds, driving improved on-time delivery metrics for regional logistics shippers."
             ],
             "imageUrl": "",
-            "nextUpTease": "COSCO: FREETRADE HUB EXPANSION",
+            "nextUpTease": "FMC RULE: DETENTION FEE FLUIDITY",
             "tags": [
-                "Source: dcvelocity.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COSCO: FREETRADE HUB EXPANSION",
+            "heading": "FMC RULE: DETENTION FEE FLUIDITY",
             "points": [
-                "Cosco Shipping launched a dedicated subsidiary to expand maritime and multimodal operations at the Hainan free-trade port.",
-                "The strategic expansion positions Hainan as a primary transshipment node for Southeast Asian intra-Asia trade flows.",
-                "Customs duty exemptions and free-port logistics rules lower transshipment friction for regional container lines.",
-                "Global ocean carriers are consolidating regional feeder loops around duty-free economic zones to optimize container turnarounds."
+                "The US Court of Appeals upheld the Federal Maritime Commission ruling requiring ocean container detention fees to directly promote freight fluidity.",
+                "The ruling mandates that ocean carriers cannot assess detention or demurrage charges when terminal bottlenecks prevent container pickup.",
+                "Ocean common carriers are updating billing systems to audit terminal gate accessibility prior to invoicing port congestion surcharges.",
+                "Importers and freight forwarders gain increased financial protection against unjust penalty charges during peak port congestion cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "COLLIERS: INDUSTRIAL REAL ESTATE",
+            "nextUpTease": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "COLLIERS: INDUSTRIAL REAL ESTATE",
+            "heading": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
             "points": [
-                "Colliers reported North American industrial real estate vacancy stabilized at 7.3% as demand surpassed new construction deliveries.",
-                "Second-quarter vacancy dropped seven basis points sequentially, indicating a structural bottoming out of logistics warehouse space oversupply.",
-                "A sharp slowdown in speculative construction starts has allowed tenant absorption to catch up with available square footage.",
-                "Industrial occupiers face stabilizing rental rates as prime logistics footprint availability tightens in major port corridors."
+                "International air cargo carriers shift to biweekly fuel surcharge adjustments in response to rapid jet fuel price volatility and Middle East chokepoints.",
+                "Geopolitical friction around the Strait of Hormuz has disrupted trade lanes, forcing freighter operators to pass fluctuating jet fuel costs directly to shippers.",
+                "Air freight forwarders are implementing dynamic rate-shopping engines to adjust spot market bids against fluctuating airline energy surcharges.",
+                "Shippers relying on air transport face elevated baseline freight costs and shorter quotation validity windows for global express shipments."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR INDIA: DIGITAL CHANNEL TRANSITION",
+            "nextUpTease": "USPS LOGISTICS: MARKETPLACE RATE INCREASES",
             "tags": [
-                "Source: logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR INDIA: DIGITAL CHANNEL TRANSITION",
+            "heading": "USPS LOGISTICS: MARKETPLACE RATE INCREASES",
             "points": [
-                "Air India Cargo integrated with digital platform cargo.one to transition global air freight capacity onto automated booking channels.",
-                "Real-time spot rate distribution and instant digital booking replace legacy manual quote workflows across international routes.",
-                "Digital distribution protocols expand carrier reach to mid-tier freight forwarders while streamlining yield management.",
-                "Air cargo carriers are rapidly sunsetting manual booking channels to capture spot demand through real-time API integrations."
+                "The United States Postal Service implemented new Ground Advantage rate increases impacting marketplace sellers on major e-commerce platforms.",
+                "Rate adjustments target lightweight package deliveries alongside new non-compliance fees for improperly documented hazardous materials shipments.",
+                "E-commerce platforms are re-engineering integrated shipping software to calculate accurate parcel surcharges dynamically at order checkout.",
+                "Online merchants must recalibrate fulfillment pricing models to absorb elevated postal delivery costs across lightweight domestic shipments."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
