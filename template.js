@@ -1,107 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE COMPLIANCE",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Dynamic compliance mandates, legal liability precedents, and fuel surcharge recalibrations introduce sharp operational friction across international freight corridors."
+        "titleWhite": "GLOBAL TRADE TARIFFS",
+        "titleBlue": "SURGE",
+        "footerSummary": "USTR advances forced labor tariffs while maritime fuel surcharges spike, amplifying operational friction across global supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
+            "heading": "USTR SECTION 301 TARIFF EXPANSION",
             "points": [
-                "C.H. Robinson moves to appeal a landmark 604 million dollar negligent-hiring verdict arising from motor carrier selection practices.",
-                "The legal ruling amplifies vicarious liability risks for freight brokers and non-vessel operating common carriers across domestic supply chains.",
-                "Freight intermediaries are now restructuring carrier vetting algorithms to enforce stringent safety audit protocols before dispatching loads.",
-                "Stakeholders anticipate immediate upward pressure on freight brokerage insurance premiums and heightened carrier compliance standards nationwide."
+                "The Office of the United States Trade Representative is moving forward with Section 301 tariffs across sixty trading partners.",
+                "This regulatory maneuver follows the formal expiration of Section 122 tariffs, signaling an aggressive enforcement phase.",
+                "Importers must rapidly audit supply chain compliance protocols to mitigate unexpected import cost escalations.",
+                "Supply chain operators face heightened administrative hurdles as trade enforcement tightens across international corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ TASK FORCE: $1B TRADE FRAUD",
+            "nextUpTease": "AIR CARGO FUEL SURCHARGE HIKES",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DOJ TASK FORCE: $1B TRADE FRAUD",
+            "heading": "AIR CARGO FUEL SURCHARGE REVIEWS",
             "points": [
-                "The Department of Justice Trade Fraud Task Force crossed 1 billion dollars in forfeitures and civil recoveries targeted at import non-compliance.",
-                "Enforcement focus centers on anti-dumping evasion, customs valuation misreporting, and illicit duty avoidance mechanisms across cross-border supply chains.",
-                "Importers and third-party logistics operators are implementing automated audit trail logging to mitigate unexpected trade enforcement liabilities.",
-                "Customs brokers must audit high-risk tariff classifications to prevent systemic supply chain holds and substantial regulatory penalties."
+                "Major international air cargo carriers have shifted to biweekly fuel surcharge reviews amid market volatility.",
+                "Escalating jet fuel prices are forcing long-haul freighter operators to aggressively pass costs onto shippers.",
+                "Supply chain managers must factor unpredictable rate adjustments into near-term air freight budget allocations.",
+                "Airlines are prioritizing dynamic pricing mechanisms to safeguard operating margins against volatile fuel markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "FRA RAILWAY: MEXICAN CREW STANDARDS",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "FRA RAILWAY: MEXICAN CREW STANDARDS",
-            "points": [
-                "The Federal Railroad Administration proposes stricter English proficiency requirements for Mexican rail crews operating cross-border trains into North America.",
-                "Operational mandates aim to standardize safety communications across international interchanges to streamline transborder freight movements.",
-                "Class I railroads are deploying bilingual safety monitoring systems and enhanced crew qualification protocols along key border corridors.",
-                "Shippers should expect temporary border interchange delays as rail operators align crew certifications with updated federal standards."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FEDEX ROBOTICS: TRAILER LOADING SYSTEM",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "FEDEX ROBOTICS: TRAILER LOADING SYSTEM",
-            "points": [
-                "FedEx advances the deployment of autonomous robotic loading systems designed to automate heavy trailer loading and package stacking operations.",
-                "The technological rollout increases hub throughput density while reducing dock side dwell times across core parcel distribution centers.",
-                "Automated trailer loading integrates computer vision and real-time motion planning to optimize cubic space utilization automatically.",
-                "Logistics networks will experience accelerated hub sortation speeds, driving improved on-time delivery metrics for regional logistics shippers."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FMC RULE: DETENTION FEE FLUIDITY",
-            "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "FMC RULE: DETENTION FEE FLUIDITY",
-            "points": [
-                "The US Court of Appeals upheld the Federal Maritime Commission ruling requiring ocean container detention fees to directly promote freight fluidity.",
-                "The ruling mandates that ocean carriers cannot assess detention or demurrage charges when terminal bottlenecks prevent container pickup.",
-                "Ocean common carriers are updating billing systems to audit terminal gate accessibility prior to invoicing port congestion surcharges.",
-                "Importers and freight forwarders gain increased financial protection against unjust penalty charges during peak port congestion cycles."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
-            "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
-            "points": [
-                "International air cargo carriers shift to biweekly fuel surcharge adjustments in response to rapid jet fuel price volatility and Middle East chokepoints.",
-                "Geopolitical friction around the Strait of Hormuz has disrupted trade lanes, forcing freighter operators to pass fluctuating jet fuel costs directly to shippers.",
-                "Air freight forwarders are implementing dynamic rate-shopping engines to adjust spot market bids against fluctuating airline energy surcharges.",
-                "Shippers relying on air transport face elevated baseline freight costs and shorter quotation validity windows for global express shipments."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "USPS LOGISTICS: MARKETPLACE RATE INCREASES",
+            "nextUpTease": "INTERMODAL VOLUME REBOUND",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -109,18 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "USPS LOGISTICS: MARKETPLACE RATE INCREASES",
+            "id": 3,
+            "heading": "INTERMODAL VOLUME ANNUAL GAINS",
             "points": [
-                "The United States Postal Service implemented new Ground Advantage rate increases impacting marketplace sellers on major e-commerce platforms.",
-                "Rate adjustments target lightweight package deliveries alongside new non-compliance fees for improperly documented hazardous materials shipments.",
-                "E-commerce platforms are re-engineering integrated shipping software to calculate accurate parcel surcharges dynamically at order checkout.",
-                "Online merchants must recalibrate fulfillment pricing models to absorb elevated postal delivery costs across lightweight domestic shipments."
+                "Total intermodal volumes posted a robust double-digit annual gain, significantly outpacing previous monthly performance.",
+                "Data from the Intermodal Association of North America highlights stronger domestic container and trailer activity.",
+                "Rail networks are absorbing increased freight flows as shippers optimize inland multimodal transportation routes.",
+                "Improved container velocity across Class I networks is supporting steadier intermodal execution nationwide."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FREEDOM HAULERS VETERAN INITIATIVE",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "FREEDOM HAULERS VETERAN PIPELINE",
+            "points": [
+                "The Department of Transportation has launched Freedom Haulers to accelerate military personnel into commercial trucking.",
+                "The interagency recruitment push shortens the licensing runway from military service to a commercial driver license.",
+                "Fleets are expected to leverage this talent pipeline to alleviate persistent driver shortage constraints.",
+                "Coordinated federal oversight continues alongside the recruitment drive to ensure strict safety compliance."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AUTONOMOUS TRAILER LOADING PILOT",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AUTONOMOUS TRAILER LOADING EXPANSION",
+            "points": [
+                "FedEx is expanding its pilot deployment of advanced autonomous trailer loading systems across facilities.",
+                "Robotic automation in outbound docks addresses severe labor constraints and improves freight handling speed.",
+                "Supply chain facilities are increasingly adopting intelligent handling tools to optimize throughput capacity.",
+                "Early adopters are reporting reduced dock cycle times and improved worker safety metrics through automation."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS MARKETPLACE RATE INCREASES",
+            "tags": [
+                "Source: https://www.dcvelocity.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "USPS MARKETPLACE RATE ADJUSTMENTS",
+            "points": [
+                "The United States Postal Service has implemented revised package shipping rates impacting online marketplace sellers.",
+                "E-commerce merchants utilizing platforms like eBay face higher Ground Advantage pricing for domestic parcels.",
+                "Sellers are recalculating fulfillment strategies to absorb or pass along incremental carrier fee increases.",
+                "Last-mile delivery cost structures remain under pressure as postal service rate revisions take effect."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AI DEMAND PLANNING DEPLOYMENT",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "AI DEMAND PLANNING IMPLEMENTATION",
+            "points": [
+                "Leading CPG brands are successfully deploying AI-powered demand planning tools to sharpen inventory forecasting.",
+                "Advanced algorithmic modeling is helping manufacturers record increased fill rates and reduced holding costs.",
+                "Supply chain planners are leveraging real-time visibility data to navigate unpredictable consumer demand curves.",
+                "Automated orchestration platforms are rapidly replacing legacy forecasting models across industrial networks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

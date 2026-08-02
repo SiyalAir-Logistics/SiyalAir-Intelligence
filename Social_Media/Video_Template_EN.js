@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE COMPLIANCE SHIFTS",
+        "hookTitle": "GLOBAL TRADE TARIFFS SURGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
-                "teaserTitle": "DOJ TASK FORCE: $1B TRADE FRAUD",
+                "headline": "USTR SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "AIR CARGO FUEL SURCHARGE HIKES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "C.H. Robinson faces a massive six hundred four million dollar verdict appeal, reshaping broker liability and carrier vetting standards."
+                "narration_line": "USTR advances forced labor tariffs across sixty trading partners following the formal expiration of Section 122 duties."
             },
             {
                 "slide_index": 2,
-                "headline": "DOJ TASK FORCE: $1B TRADE FRAUD",
-                "teaserTitle": "FRA RAILWAY: MEXICAN CREW STANDARDS",
+                "headline": "AIR CARGO FUEL SURCHARGE REVIEWS",
+                "teaserTitle": "INTERMODAL VOLUME REBOUND",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Justice Department's Trade Fraud Task Force surpasses one billion dollars in recoveries, escalating customs enforcement against import non-compliance."
+                "narration_line": "Major international carriers shift to biweekly fuel surcharge reviews as rising jet fuel prices squeeze operating margins."
             },
             {
                 "slide_index": 3,
-                "headline": "FRA RAILWAY: MEXICAN CREW STANDARDS",
-                "teaserTitle": "FEDEX ROBOTICS: TRAILER LOADING SYSTEM",
+                "headline": "INTERMODAL VOLUME ANNUAL GAINS",
+                "teaserTitle": "FREEDOM HAULERS VETERAN INITIATIVE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal rail regulators propose stricter language standards for Mexican train crews to enhance safety across cross-border freight corridors."
+                "narration_line": "Total intermodal volumes post robust double-digit annual gains, reflecting stronger container activity across rail networks."
             },
             {
                 "slide_index": 4,
-                "headline": "FEDEX ROBOTICS: TRAILER LOADING SYSTEM",
-                "teaserTitle": "FMC RULE: DETENTION FEE FLUIDITY",
+                "headline": "FREEDOM HAULERS VETERAN PIPELINE",
+                "teaserTitle": "AUTONOMOUS TRAILER LOADING PILOT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "FedEx expands autonomous robotic trailer loading systems, accelerating parcel sortation speeds across core distribution hubs."
+                "narration_line": "The DOT launches Freedom Haulers to accelerate military veterans into commercial trucking and ease driver shortages."
             },
             {
                 "slide_index": 5,
-                "headline": "FMC RULE: DETENTION FEE FLUIDITY",
-                "teaserTitle": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
+                "headline": "AUTONOMOUS TRAILER LOADING EXPANSION",
+                "teaserTitle": "USPS MARKETPLACE RATE INCREASES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Federal court upholds FMC rules stipulating ocean detention fees must promote freight fluidity rather than generate ocean carrier revenue."
+                "narration_line": "FedEx expands its pilot deployment of autonomous trailer loading systems to optimize facility dock throughput."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
-                "teaserTitle": "USPS LOGISTICS: MARKETPLACE RATE INCREASES",
+                "headline": "USPS MARKETPLACE RATE ADJUSTMENTS",
+                "teaserTitle": "AI DEMAND PLANNING DEPLOYMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Air freight carriers transition to biweekly fuel surcharges as Middle East disruptions drive jet fuel price volatility across key corridors."
+                "narration_line": "USPS implements revised package shipping rates, impacting online marketplace sellers and last-mile fulfillment."
             },
             {
                 "slide_index": 7,
-                "headline": "USPS LOGISTICS: MARKETPLACE RATE INCREASES",
+                "headline": "AI DEMAND PLANNING IMPLEMENTATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "USPS implements new Ground Advantage rate increases and hazmat non-compliance fees impacting marketplace e-commerce sellers."
+                "narration_line": "Leading manufacturers deploy AI demand planning tools to improve forecasting accuracy and boost fulfillment fill rates."
             },
             {
                 "slide_index": 8,
