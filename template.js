@@ -1,22 +1,107 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE COMPLIANCE",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Rapid regulatory pivots, brokerage liability shocks, and postal surcharges redefine cross-border logistics costs and operational risk frameworks globally."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "AUTONOMY",
+        "footerSummary": "Decoupling supply chain bottlenecks through automated sorting hubs, regional vessel shuttles, and drone air corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "GE AEROSPACE: PROCESS CONSOLIDATION",
             "points": [
-                "The Office of the United States Trade Representative is implementing Section 301 tariffs targeting 60 trading partners to enforce strict forced labor standards.",
-                "This action replaces expiring Section 122 tariffs, affecting multi-billion-dollar global trade flows and increasing compliance verification costs across ocean and air imports.",
-                "Importers must now provide detailed origin documentation down to tier-three suppliers to prevent port seizures and administrative delays at US entry points.",
-                "Supply chain managers are expected to accelerate nearshoring transitions and diversify upstream vendor networks to mitigate non-compliance penalties."
+                "GE Aerospace consolidated internal manufacturing processes and cut intra-facility transport distances during the second quarter.",
+                "The operational overhaul drove a 60% reduction in production lead times for military F110 aircraft engine deliveries.",
+                "Engineering re-architecting of plant flow eliminates staging bottlenecks across complex aerospace tier-one supply chains.",
+                "Aerospace OEMs are demonstrating that internal layout optimization yields immediate throughput gains without expanding physical footprint."
             ],
             "imageUrl": "",
-            "nextUpTease": "COURTS: BROKER LIABILITY VERDICT",
+            "nextUpTease": "MAERSK: SHUTTLE NETWORK EXTENSION",
+            "tags": [
+                "Source: supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "MAERSK: SHUTTLE NETWORK EXTENSION",
+            "points": [
+                "Maersk is expanding its ocean Gemini shuttle network strategy directly to the west coast of Latin America.",
+                "High-frequency regional feeder shuttles buffer mainliner vessel schedules against port congestion and canal delay propagation.",
+                "The architectural shift prioritizes schedule reliability over direct call density across volatile transoceanic trade lanes.",
+                "Shippers along South American corridors gain predictable buffer schedules at the expense of secondary feeder transshipments."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "UPS: AUTOMATION HUB EXPANSION",
+            "tags": [
+                "Source: theloadstar.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "UPS: AUTOMATION HUB EXPANSION",
+            "points": [
+                "UPS confirmed that over two-thirds of its total United States parcel volume is now processed via fully automated facilities.",
+                "Automated sorting infrastructure drastically reduces cost-per-package while expanding off-peak sorting capacities across primary hubs.",
+                "The network modernization strategy shifts labor capital from manual sortation toward high-density last-mile routing execution.",
+                "Legacy logistics networks unable to automate sortation face widening operational margin pressure against modern automated hubs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "DOORDASH: DRONE FLEET APPROVAL",
+            "tags": [
+                "Source: supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "DOORDASH: DRONE FLEET APPROVAL",
+            "points": [
+                "Federal regulators granted formal approval for DoorDash to scale autonomous aerial drone delivery operations in designated U.S. markets.",
+                "The regulatory green light permits beyond-visual-line-of-sight drone flights for rapid last-mile commercial fulfillment.",
+                "Autonomous aerial routing bypasses ground traffic congestion while slashing micro-fulfillment fulfillment cycles.",
+                "Commercial last-mile logistics is accelerating toward aerial automated bypass options for lightweight suburban e-commerce."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "COSCO: FREETRADE HUB EXPANSION",
+            "tags": [
+                "Source: dcvelocity.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "COSCO: FREETRADE HUB EXPANSION",
+            "points": [
+                "Cosco Shipping launched a dedicated subsidiary to expand maritime and multimodal operations at the Hainan free-trade port.",
+                "The strategic expansion positions Hainan as a primary transshipment node for Southeast Asian intra-Asia trade flows.",
+                "Customs duty exemptions and free-port logistics rules lower transshipment friction for regional container lines.",
+                "Global ocean carriers are consolidating regional feeder loops around duty-free economic zones to optimize container turnarounds."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "COLLIERS: INDUSTRIAL REAL ESTATE",
+            "tags": [
+                "Source: theloadstar.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "COLLIERS: INDUSTRIAL REAL ESTATE",
+            "points": [
+                "Colliers reported North American industrial real estate vacancy stabilized at 7.3% as demand surpassed new construction deliveries.",
+                "Second-quarter vacancy dropped seven basis points sequentially, indicating a structural bottoming out of logistics warehouse space oversupply.",
+                "A sharp slowdown in speculative construction starts has allowed tenant absorption to catch up with available square footage.",
+                "Industrial occupiers face stabilizing rental rates as prime logistics footprint availability tightens in major port corridors."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR INDIA: DIGITAL CHANNEL TRANSITION",
             "tags": [
                 "Source: logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -24,103 +109,18 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "COURTS: BROKER LIABILITY VERDICT",
-            "points": [
-                "A landmark legal ruling delivered a $604 million adverse negligent hiring verdict against C.H. Robinson regarding third-party motor carrier selection.",
-                "The outcome establishes heightened vicarious liability standards for freight brokers, triggering immediate industry-wide re-evaluations of carrier vetting protocols.",
-                "Brokers are restructuring safety audit workflows and reducing reliance on high-risk unrated motor carriers to safeguard against catastrophic legal exposure.",
-                "Shippers should anticipate tighter carrier capacity availability and increased freight brokerage service fees as vetting processes become significantly more stringent."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "USPS: RURAL DELIVERY SURCHARGES",
-            "tags": [
-                "Source: ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "USPS: RURAL DELIVERY SURCHARGES",
-            "points": [
-                "The United States Postal Service has enacted structural rate increases including new $2 to $3 delivery surcharges on lightweight packages routed to rural zip codes.",
-                "The surcharge directly impacts e-commerce merchants relying on Ground Advantage services, squeezing gross margins for direct-to-consumer fulfillment networks.",
-                "Postal authorities cite escalating middle-mile transportation costs and low last-mile density as key catalysts for enforcing location-specific parcel pricing.",
-                "E-commerce retailers are projected to shift volume toward regional parcel carriers or adjust checkout delivery fees to offset rising postal expenditures."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FMC: FREIGHT FLUIDITY MANDATE",
-            "tags": [
-                "Source: ecommercebytes.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "FMC: FREIGHT FLUIDITY MANDATE",
-            "points": [
-                "The US Court of Appeals upheld the Federal Maritime Commission ruling stipulating ocean carrier detention fees must serve to promote freight fluidity.",
-                "This judicial confirmation prevents vessel operators from assessing demurrage and detention charges during periods when terminal gates are closed or inaccessible.",
-                "The decision establishes clear statutory boundaries protecting drayage truckers and importers from arbitrary port congestion penalties across major US gateways.",
-                "Ocean carriers will be forced to overhaul billing practices and improve container availability tracking to justify demurrage fee assessments."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AMAZON: CONSUMER TARIFF REFUNDS",
-            "tags": [
-                "Source: fmc.gov",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AMAZON: CONSUMER TARIFF REFUNDS",
-            "points": [
-                "Amazon is executing a customer reimbursement initiative to distribute a portion of a $600 million customs tariff refund received from federal trade authorities.",
-                "The disbursement follows legal adjustments regarding import duties on cross-border merchant inventory, representing a major financial redistribution.",
-                "This move highlights complex duty drawdowns and import tariff recalculations affecting high-volume e-commerce platforms operating multi-channel fulfillment operations.",
-                "Cross-border sellers can expect refined duty estimation tools and updated fee structures as marketplaces realign import compliance accounting."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "NEW JERSEY: DYNAMIC PRICING BAN",
-            "tags": [
-                "Source: ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "NEW JERSEY: DYNAMIC PRICING BAN",
-            "points": [
-                "New Jersey state legislature passed landmark legislation prohibiting algorithmic dynamic pricing and freezing electronic shelf label adoption for retail stores.",
-                "The law introduces a one-year moratorium on automated shelf price updates while state regulators examine retail consumer impacts and price transparency.",
-                "Omnichannel retailers operating in the region must halt automated price optimization engines, forcing manual updates across physical storefront locations.",
-                "Retail logisticians face operational complexity as state-level digital pricing regulations diverge from centralized e-commerce pricing systems."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "USDOT: MILITARY DRIVER PIPELINE",
-            "tags": [
-                "Source: retaildive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "USDOT: MILITARY DRIVER PIPELINE",
+            "heading": "AIR INDIA: DIGITAL CHANNEL TRANSITION",
             "points": [
-                "The US Department of Transportation launched the Freedom Haulers initiative to fast-track commercial driver's license certification for military veterans.",
-                "The interagency program streamlines military vehicle training conversions to civilian CDLs, aiming to alleviate persistent long-haul driver recruitment deficits.",
-                "Federal agencies are pairing recruitment incentives with targeted enforcement against non-domiciled and unvetted drivers across interstate freight corridors.",
-                "Motor carriers participating in the program expect reduced onboarding timelines and improved fleet safety metrics through disciplined driver recruitment."
+                "Air India Cargo integrated with digital platform cargo.one to transition global air freight capacity onto automated booking channels.",
+                "Real-time spot rate distribution and instant digital booking replace legacy manual quote workflows across international routes.",
+                "Digital distribution protocols expand carrier reach to mid-tier freight forwarders while streamlining yield management.",
+                "Air cargo carriers are rapidly sunsetting manual booking channels to capture spot demand through real-time API integrations."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: inboundlogistics.com",
+                "Source: theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE COMPLIANCE SHIFTS",
+        "hookTitle": "GLOBAL FREIGHT NETWORK AUTONOMY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "COURTS: BROKER LIABILITY VERDICT",
+                "headline": "GE AEROSPACE: PROCESS CONSOLIDATION",
+                "teaserTitle": "MAERSK: SHUTTLE NETWORK EXTENSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR moves ahead with Section 301 tariffs on 60 nations to enforce forced labor compliance."
+                "narration_line": "GE Aerospace slashed lead times by 60 percent by consolidating manufacturing processes and internal plant transport routes."
             },
             {
                 "slide_index": 2,
-                "headline": "COURTS: BROKER LIABILITY VERDICT",
-                "teaserTitle": "USPS: RURAL DELIVERY SURCHARGES",
+                "headline": "MAERSK: SHUTTLE NETWORK EXTENSION",
+                "teaserTitle": "UPS: AUTOMATION HUB EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A stunning six-hundred-four-million-dollar court verdict establishes strict liability for freight brokers during carrier selection."
+                "narration_line": "Maersk extended its Gemini ocean shuttle strategy to Latin America to protect schedule reliability against port congestion."
             },
             {
                 "slide_index": 3,
-                "headline": "USPS: RURAL DELIVERY SURCHARGES",
-                "teaserTitle": "FMC: FREIGHT FLUIDITY MANDATE",
+                "headline": "UPS: AUTOMATION HUB EXPANSION",
+                "teaserTitle": "DOORDASH: DRONE FLEET APPROVAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "USPS introduces new rural parcel surcharges of up to three dollars per package."
+                "narration_line": "UPS now routes over two-thirds of its domestic U.S. package volume through fully automated sorting hubs."
             },
             {
                 "slide_index": 4,
-                "headline": "FMC: FREIGHT FLUIDITY MANDATE",
-                "teaserTitle": "AMAZON: CONSUMER TARIFF REFUNDS",
+                "headline": "DOORDASH: DRONE FLEET APPROVAL",
+                "teaserTitle": "COSCO: FREETRADE HUB EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Federal appeals court upholds FMC rules requiring detention fees to directly promote freight fluidity."
+                "narration_line": "Regulators officially approved DoorDash autonomous drone delivery operations, unlocking aerial last-mile fulfillment corridors across key markets."
             },
             {
                 "slide_index": 5,
-                "headline": "AMAZON: CONSUMER TARIFF REFUNDS",
-                "teaserTitle": "NEW JERSEY: DYNAMIC PRICING BAN",
+                "headline": "COSCO: FREETRADE HUB EXPANSION",
+                "teaserTitle": "COLLIERS: INDUSTRIAL REAL ESTATE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon initiates partial consumer distribution following a six-hundred-million-dollar customs tariff refund."
+                "narration_line": "Cosco Shipping established a new subsidiary to scale transshipment operations at China's Hainan free-trade port."
             },
             {
                 "slide_index": 6,
-                "headline": "NEW JERSEY: DYNAMIC PRICING BAN",
-                "teaserTitle": "USDOT: MILITARY DRIVER PIPELINE",
+                "headline": "COLLIERS: INDUSTRIAL REAL ESTATE",
+                "teaserTitle": "AIR INDIA: DIGITAL CHANNEL TRANSITION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New Jersey bans dynamic pricing and pauses electronic shelf label rollouts across retail stores."
+                "narration_line": "Industrial real estate vacancy stabilized at 7.3 percent as warehousing demand outstripped new logistics facility construction."
             },
             {
                 "slide_index": 7,
-                "headline": "USDOT: MILITARY DRIVER PIPELINE",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "AIR INDIA: DIGITAL CHANNEL TRANSITION",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Federal agencies launch the Freedom Haulers initiative to fast-track military veterans into commercial trucking."
+                "narration_line": "Air India Cargo partnered with cargo.one to digitize air freight booking channels and distribute real-time spot rates."
             },
             {
                 "slide_index": 8,
