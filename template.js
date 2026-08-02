@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
-        "titleBlue": "REALIGNMENT",
-        "footerSummary": "Critical manufacturing realignments, rail access settlements, and regulatory shifts are reshaping global supply chain speed and cross-border transport density."
+        "titleWhite": "GLOBAL FREIGHT DISRUPTION",
+        "titleBlue": "RISKS",
+        "footerSummary": "Escalating regulatory enforcement, broker liability rulings, and automated logistics pivots force shippers to restructure compliance and carrier selection protocols immediately."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GE AEROSPACE: LEAD TIME REDUCTION",
+            "heading": "DOJ: TRADE FRAUD ENFORCEMENT",
             "points": [
-                "GE Aerospace consolidated manufacturing processes to slash production lead times by 60% across core jet engine operational lines.",
-                "Process realignment enabled a direct jump in Q2 F110 military engine deliveries while eliminating non-essential transit distance.",
-                "Facility footprint rationalization establishes a baseline for high-precision aerospace component throughput and raw material coordination.",
-                "Defense supply chain stakeholders gain predictable delivery cycles and improved component availability across downstream maintenance networks."
+                "The Department of Justice Trade Fraud Task Force officially surpassed $1 billion in financial recoveries, penalties, and forfeitures since inception.",
+                "Federal investigators intensified audits targeting illegal customs evasion, misclassification, and anti-dumping circumvention across major trade lanes.",
+                "Cross-agency enforcement mechanisms between CBP and DOJ now utilize real-time analytical data models to flag high-risk international shipments.",
+                "Importers face heightened legal exposure requiring immediate forensic audits of historical tariff declarations and supplier sourcing compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADIAN NATIONAL: MERGER ACCESS DEAL",
+            "nextUpTease": "USTR: SECTION 301 TARIFF EXPANSION",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CANADIAN NATIONAL: MERGER ACCESS DEAL",
+            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
             "points": [
-                "Canadian National agreed not to contest the proposed Union Pacific and Norfolk Southern railway consolidation deal.",
-                "The agreement secures CN direct operational access to critical shipper locations that faced reduced Class I rail service options.",
-                "Strategic access guarantees preserve regional freight rail competition while streamlining cross-network interchange operations for bulk industrial goods.",
-                "Shippers along affected rail corridors retain multi-carrier routing flexibility, mitigating potential long-term rate leverage risks."
+                "The USTR moved forward with forced-labor-based tariffs targeting 60 trading partners as temporary Section 122 duties expired.",
+                "New regulatory rules impose structural trade restrictions and elevated duty rates on non-compliant foreign supply chain nodes.",
+                "Trade policy shifts demand rigorous supply chain mapping to verify zero involvement of forced labor throughout sub-tier supplier networks.",
+                "Global trade desks must prepare for immediate cost recalibrations and potential origin shifts across affected manufacturing regions."
             ],
             "imageUrl": "",
-            "nextUpTease": "OUTOKUMPU: COLLAPSIBLE STEEL CONTAINERS",
+            "nextUpTease": "FMC: CONTAINER DETENTION FEE RULING",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OUTOKUMPU: COLLAPSIBLE STEEL CONTAINERS",
+            "heading": "FMC: CONTAINER DETENTION FEE RULING",
             "points": [
-                "Major steel producer Outokumpu deployed foldable, collapsible intermodal shipping containers for transporting heavy industrial scrap steel.",
-                "The modular container architecture optimizes empty backhaul logistics, significantly reducing deadhead freight expenses across maritime and rail corridors.",
-                "Implementing space-saving container units improves port terminal handling density and reduces overall equipment repositions.",
-                "Bulk scrap haulers and steel recyclers achieve higher equipment utilization rates and reduced volumetric transport expenditures."
+                "The U.S. Court of Appeals upheld the Federal Maritime Commission ruling governing international container detention and demurrage billing.",
+                "The court confirmed ocean carrier penalty fees are legally unlawful unless they serve to actively incentivize container fluidity at terminals.",
+                "Vessel-operating common carriers face strict limits on penalizing beneficial cargo owners during port closures and unpreventable dwell delays.",
+                "Shippers gain substantial legal leverage to dispute improper ocean freight charges and recover non-compliant carrier detention assessments."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARAWAY HOME: PARCEL RATE OPTIMIZATION",
+            "nextUpTease": "FEDEX: AUTONOMOUS TRAILER LOADING ROBOTS",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CARAWAY HOME: PARCEL RATE OPTIMIZATION",
+            "heading": "FEDEX: AUTONOMOUS TRAILER LOADING ROBOTS",
             "points": [
-                "Direct-to-consumer brand Caraway Home integrated dynamic live rate-shopping tools alongside specialized reverse logistics workflows via ITS Logistics.",
-                "Modernized fulfillment integration reduced parcel freight spending while expediting multi-channel customer return processing cycles.",
-                "Automated carrier selection engines calculate real-time transit pricing across regional middle-mile hubs to maximize margin retention.",
-                "Omnichannel retailers gain precise operational control over return inventory velocity, minimizing margin erosion during peak processing."
+                "FedEx expanded pilot deployments of heavy-duty robotic automation engineered to autonomously load freight trailers at primary hubs.",
+                "Integrated vision sensors and machine learning models dynamically pack high-density parcel configurations, accelerating dock turnaround times.",
+                "The automated system directly targets chronic warehouse labor bottlenecks while reducing parcel damage rates during dock operations.",
+                "Hub network automation signals a broader industry transition toward fully autonomous cross-docking operations in express parcel networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "FRA: MEXICAN RAIL CREW MANDATES",
+            "nextUpTease": "USPS: GROUND ADVANTAGE RATE INCREASES",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FRA: MEXICAN RAIL CREW MANDATES",
+            "heading": "USPS: GROUND ADVANTAGE RATE INCREASES",
             "points": [
-                "The Federal Railroad Administration proposed enhanced English language proficiency standards for Mexican cross-border train crews operating in the US.",
-                "The regulatory mandate aims to improve operational safety protocols during international cross-border interchange operations at major rail gateways.",
-                "Railway operators must implement standardized language testing and crew compliance tracking systems across cross-border freight corridors.",
-                "Cross-border rail shippers face potential crew staffing bottlenecks during early transition phases along key US-Mexico trade routes."
+                "The United States Postal Service instituted unexpected price increases on Ground Advantage lightweight packages across marketplace channels.",
+                "Specific parcel tiers face rate hikes of $2 to $3 when shipping lightweight inventory to non-contiguous or rural destination zones.",
+                "E-commerce merchants leveraging multi-channel marketplaces must recalculate shipping margins and regional carrier allocation strategies.",
+                "Shift highlights expanding carrier cost surcharges for last-mile delivery into low-density geographic regions."
             ],
             "imageUrl": "",
-            "nextUpTease": "MAERSK: LATIN AMERICA SHUTTLE EXPANSION",
+            "nextUpTease": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MAERSK: LATIN AMERICA SHUTTLE EXPANSION",
+            "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
             "points": [
-                "Ocean carrier Maersk extended its Gemini shuttle network architecture to service port hubs across the west coast of Latin America.",
-                "Dedicated feeder shuttles isolate main-line ocean vessels, driving higher schedule reliability and predictable port turnaround performance.",
-                "Regional feeder integration reduces congestion delays at transshipment terminals while providing consistent short-sea feeder coverage.",
-                "Latin American importers and exporters secure more reliable transit windows despite broader global ocean schedule disruptions."
+                "Freight broker C.H. Robinson vowed to appeal a landmark $604 million negligent-hiring verdict stemming from a fatal truck crash.",
+                "The ruling imposes severe vicarious liability expectations on freight intermediaries during third-party motor carrier selection and vetting.",
+                "Legal experts anticipate brokers will enforce stringent safety score thresholds and automated compliance checks before assigning freight.",
+                "Shippers and freight brokers face structural changes in carrier management workflows to mitigate catastrophic legal exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOORDASH: DRONE DELIVERY REGULATORY APPROVAL",
+            "nextUpTease": "WALMART: PREDICTIVE WEATHER AI REROUTING",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DOORDASH: DRONE DELIVERY REGULATORY APPROVAL",
+            "heading": "WALMART: PREDICTIVE WEATHER AI REROUTING",
             "points": [
-                "Federal aviation authorities granted regulatory approval for DoorDash to expand autonomous commercial drone delivery operations.",
-                "Aerial last-mile dispatch bypasses surface street congestion, significantly reducing delivery times for lightweight, high-priority retail orders.",
-                "Automated flight dispatch systems integrate directly with local fulfillment centers to optimize short-range order fulfillment efficiency.",
-                "Last-mile logistics operators gain a scalable operational blueprint for high-density aerial parcel delivery across suburban markets."
+                "Walmart implemented advanced artificial intelligence platforms designed to predict severe weather anomalies and prevent supply disruptions.",
+                "Algorithmic forecasting models dynamically trigger inventory pre-positioning and freight rerouting hours before severe climate impacts strike.",
+                "Real-time supply chain orchestration reduces regional store stockouts and optimizes distribution center throughput during crises.",
+                "Enterprise retail supply chains are rapidly shifting from reactive emergency management to AI-driven predictive logistics execution."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: dcvelocity.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

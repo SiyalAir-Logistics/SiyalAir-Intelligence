@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE REALIGNMENT",
+        "hookTitle": "GLOBAL FREIGHT DISRUPTION RISKS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GE AEROSPACE: LEAD TIME REDUCTION",
-                "teaserTitle": "CANADIAN NATIONAL: MERGER ACCESS DEAL",
+                "headline": "DOJ: TRADE FRAUD ENFORCEMENT",
+                "teaserTitle": "USTR: SECTION 301 TARIFF EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "GE Aerospace cuts lead times 60 percent by consolidating jet engine manufacturing workflows and optimizing deliveries."
+                "narration_line": "The Department of Justice Trade Fraud Task Force surpassed one billion dollars in recoveries, escalating custom compliance audits for global importers."
             },
             {
                 "slide_index": 2,
-                "headline": "CANADIAN NATIONAL: MERGER ACCESS DEAL",
-                "teaserTitle": "OUTOKUMPU: COLLAPSIBLE STEEL CONTAINERS",
+                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "FMC: CONTAINER DETENTION FEE RULING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Canadian National drops merger opposition after securing shipper site access under a strategic railway agreement."
+                "narration_line": "USTR moved forward with forced labor tariffs across sixty trading partners, replacing expired emergency trade provisions with permanent duties."
             },
             {
                 "slide_index": 3,
-                "headline": "OUTOKUMPU: COLLAPSIBLE STEEL CONTAINERS",
-                "teaserTitle": "CARAWAY HOME: PARCEL RATE OPTIMIZATION",
+                "headline": "FMC: CONTAINER DETENTION FEE RULING",
+                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING ROBOTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Outokumpu deploys collapsible intermodal containers to eliminate deadhead backhauls in scrap steel transportation."
+                "narration_line": "The Federal Circuit Court upheld FMC rulings mandating that ocean carrier detention charges must directly promote port container fluidity."
             },
             {
                 "slide_index": 4,
-                "headline": "CARAWAY HOME: PARCEL RATE OPTIMIZATION",
-                "teaserTitle": "FRA: MEXICAN RAIL CREW MANDATES",
+                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING ROBOTS",
+                "teaserTitle": "USPS: GROUND ADVANTAGE RATE INCREASES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Caraway Home slashes fulfillment spending through automated rate shopping and custom reverse logistics integration."
+                "narration_line": "FedEx expanded pilot deployments of autonomous trailer loading robots to streamline dock operations and reduce manual handling bottlenecks."
             },
             {
                 "slide_index": 5,
-                "headline": "FRA: MEXICAN RAIL CREW MANDATES",
-                "teaserTitle": "MAERSK: LATIN AMERICA SHUTTLE EXPANSION",
+                "headline": "USPS: GROUND ADVANTAGE RATE INCREASES",
+                "teaserTitle": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Federal regulators propose stricter English language rules for Mexican rail crews crossing into the United States."
+                "narration_line": "The United States Postal Service implemented immediate rate increases on Ground Advantage packages, raising logistics overhead for marketplace shippers."
             },
             {
                 "slide_index": 6,
-                "headline": "MAERSK: LATIN AMERICA SHUTTLE EXPANSION",
-                "teaserTitle": "DOORDASH: DRONE DELIVERY REGULATORY APPROVAL",
+                "headline": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
+                "teaserTitle": "WALMART: PREDICTIVE WEATHER AI REROUTING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Maersk expands its Gemini feeder shuttle strategy to ocean ports along Latin America's western coastline."
+                "narration_line": "A six hundred million dollar jury verdict against C.H. Robinson establishes strict vicarious liability standards for third-party carrier vetting."
             },
             {
                 "slide_index": 7,
-                "headline": "DOORDASH: DRONE DELIVERY REGULATORY APPROVAL",
+                "headline": "WALMART: PREDICTIVE WEATHER AI REROUTING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Federal regulators grant approval for expanded commercial drone delivery operations across suburban last-mile markets."
+                "narration_line": "Walmart deployed generative artificial intelligence models to predict extreme weather disruptions and dynamically reroute supply chain inventory."
             },
             {
                 "slide_index": 8,
