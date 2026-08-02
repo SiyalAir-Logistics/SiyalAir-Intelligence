@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFFS",
-        "titleBlue": "SURGE",
-        "footerSummary": "USTR advances forced labor tariffs while maritime fuel surcharges spike, amplifying operational friction across global supply chains."
+        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "Critical manufacturing realignments, rail access settlements, and regulatory shifts are reshaping global supply chain speed and cross-border transport density."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR SECTION 301 TARIFF EXPANSION",
+            "heading": "GE AEROSPACE: LEAD TIME REDUCTION",
             "points": [
-                "The Office of the United States Trade Representative is moving forward with Section 301 tariffs across sixty trading partners.",
-                "This regulatory maneuver follows the formal expiration of Section 122 tariffs, signaling an aggressive enforcement phase.",
-                "Importers must rapidly audit supply chain compliance protocols to mitigate unexpected import cost escalations.",
-                "Supply chain operators face heightened administrative hurdles as trade enforcement tightens across international corridors."
+                "GE Aerospace consolidated manufacturing processes to slash production lead times by 60% across core jet engine operational lines.",
+                "Process realignment enabled a direct jump in Q2 F110 military engine deliveries while eliminating non-essential transit distance.",
+                "Facility footprint rationalization establishes a baseline for high-precision aerospace component throughput and raw material coordination.",
+                "Defense supply chain stakeholders gain predictable delivery cycles and improved component availability across downstream maintenance networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO FUEL SURCHARGE HIKES",
+            "nextUpTease": "CANADIAN NATIONAL: MERGER ACCESS DEAL",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR CARGO FUEL SURCHARGE REVIEWS",
+            "heading": "CANADIAN NATIONAL: MERGER ACCESS DEAL",
             "points": [
-                "Major international air cargo carriers have shifted to biweekly fuel surcharge reviews amid market volatility.",
-                "Escalating jet fuel prices are forcing long-haul freighter operators to aggressively pass costs onto shippers.",
-                "Supply chain managers must factor unpredictable rate adjustments into near-term air freight budget allocations.",
-                "Airlines are prioritizing dynamic pricing mechanisms to safeguard operating margins against volatile fuel markets."
+                "Canadian National agreed not to contest the proposed Union Pacific and Norfolk Southern railway consolidation deal.",
+                "The agreement secures CN direct operational access to critical shipper locations that faced reduced Class I rail service options.",
+                "Strategic access guarantees preserve regional freight rail competition while streamlining cross-network interchange operations for bulk industrial goods.",
+                "Shippers along affected rail corridors retain multi-carrier routing flexibility, mitigating potential long-term rate leverage risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL VOLUME REBOUND",
+            "nextUpTease": "OUTOKUMPU: COLLAPSIBLE STEEL CONTAINERS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INTERMODAL VOLUME ANNUAL GAINS",
+            "heading": "OUTOKUMPU: COLLAPSIBLE STEEL CONTAINERS",
             "points": [
-                "Total intermodal volumes posted a robust double-digit annual gain, significantly outpacing previous monthly performance.",
-                "Data from the Intermodal Association of North America highlights stronger domestic container and trailer activity.",
-                "Rail networks are absorbing increased freight flows as shippers optimize inland multimodal transportation routes.",
-                "Improved container velocity across Class I networks is supporting steadier intermodal execution nationwide."
+                "Major steel producer Outokumpu deployed foldable, collapsible intermodal shipping containers for transporting heavy industrial scrap steel.",
+                "The modular container architecture optimizes empty backhaul logistics, significantly reducing deadhead freight expenses across maritime and rail corridors.",
+                "Implementing space-saving container units improves port terminal handling density and reduces overall equipment repositions.",
+                "Bulk scrap haulers and steel recyclers achieve higher equipment utilization rates and reduced volumetric transport expenditures."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREEDOM HAULERS VETERAN INITIATIVE",
+            "nextUpTease": "CARAWAY HOME: PARCEL RATE OPTIMIZATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FREEDOM HAULERS VETERAN PIPELINE",
+            "heading": "CARAWAY HOME: PARCEL RATE OPTIMIZATION",
             "points": [
-                "The Department of Transportation has launched Freedom Haulers to accelerate military personnel into commercial trucking.",
-                "The interagency recruitment push shortens the licensing runway from military service to a commercial driver license.",
-                "Fleets are expected to leverage this talent pipeline to alleviate persistent driver shortage constraints.",
-                "Coordinated federal oversight continues alongside the recruitment drive to ensure strict safety compliance."
+                "Direct-to-consumer brand Caraway Home integrated dynamic live rate-shopping tools alongside specialized reverse logistics workflows via ITS Logistics.",
+                "Modernized fulfillment integration reduced parcel freight spending while expediting multi-channel customer return processing cycles.",
+                "Automated carrier selection engines calculate real-time transit pricing across regional middle-mile hubs to maximize margin retention.",
+                "Omnichannel retailers gain precise operational control over return inventory velocity, minimizing margin erosion during peak processing."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTONOMOUS TRAILER LOADING PILOT",
+            "nextUpTease": "FRA: MEXICAN RAIL CREW MANDATES",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AUTONOMOUS TRAILER LOADING EXPANSION",
+            "heading": "FRA: MEXICAN RAIL CREW MANDATES",
             "points": [
-                "FedEx is expanding its pilot deployment of advanced autonomous trailer loading systems across facilities.",
-                "Robotic automation in outbound docks addresses severe labor constraints and improves freight handling speed.",
-                "Supply chain facilities are increasingly adopting intelligent handling tools to optimize throughput capacity.",
-                "Early adopters are reporting reduced dock cycle times and improved worker safety metrics through automation."
+                "The Federal Railroad Administration proposed enhanced English language proficiency standards for Mexican cross-border train crews operating in the US.",
+                "The regulatory mandate aims to improve operational safety protocols during international cross-border interchange operations at major rail gateways.",
+                "Railway operators must implement standardized language testing and crew compliance tracking systems across cross-border freight corridors.",
+                "Cross-border rail shippers face potential crew staffing bottlenecks during early transition phases along key US-Mexico trade routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS MARKETPLACE RATE INCREASES",
+            "nextUpTease": "MAERSK: LATIN AMERICA SHUTTLE EXPANSION",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "USPS MARKETPLACE RATE ADJUSTMENTS",
+            "heading": "MAERSK: LATIN AMERICA SHUTTLE EXPANSION",
             "points": [
-                "The United States Postal Service has implemented revised package shipping rates impacting online marketplace sellers.",
-                "E-commerce merchants utilizing platforms like eBay face higher Ground Advantage pricing for domestic parcels.",
-                "Sellers are recalculating fulfillment strategies to absorb or pass along incremental carrier fee increases.",
-                "Last-mile delivery cost structures remain under pressure as postal service rate revisions take effect."
+                "Ocean carrier Maersk extended its Gemini shuttle network architecture to service port hubs across the west coast of Latin America.",
+                "Dedicated feeder shuttles isolate main-line ocean vessels, driving higher schedule reliability and predictable port turnaround performance.",
+                "Regional feeder integration reduces congestion delays at transshipment terminals while providing consistent short-sea feeder coverage.",
+                "Latin American importers and exporters secure more reliable transit windows despite broader global ocean schedule disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI DEMAND PLANNING DEPLOYMENT",
+            "nextUpTease": "DOORDASH: DRONE DELIVERY REGULATORY APPROVAL",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AI DEMAND PLANNING IMPLEMENTATION",
+            "heading": "DOORDASH: DRONE DELIVERY REGULATORY APPROVAL",
             "points": [
-                "Leading CPG brands are successfully deploying AI-powered demand planning tools to sharpen inventory forecasting.",
-                "Advanced algorithmic modeling is helping manufacturers record increased fill rates and reduced holding costs.",
-                "Supply chain planners are leveraging real-time visibility data to navigate unpredictable consumer demand curves.",
-                "Automated orchestration platforms are rapidly replacing legacy forecasting models across industrial networks."
+                "Federal aviation authorities granted regulatory approval for DoorDash to expand autonomous commercial drone delivery operations.",
+                "Aerial last-mile dispatch bypasses surface street congestion, significantly reducing delivery times for lightweight, high-priority retail orders.",
+                "Automated flight dispatch systems integrate directly with local fulfillment centers to optimize short-range order fulfillment efficiency.",
+                "Last-mile logistics operators gain a scalable operational blueprint for high-density aerial parcel delivery across suburban markets."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

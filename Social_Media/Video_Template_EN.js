@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE TARIFFS SURGE",
+        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "AIR CARGO FUEL SURCHARGE HIKES",
+                "headline": "GE AEROSPACE: LEAD TIME REDUCTION",
+                "teaserTitle": "CANADIAN NATIONAL: MERGER ACCESS DEAL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR advances forced labor tariffs across sixty trading partners following the formal expiration of Section 122 duties."
+                "narration_line": "GE Aerospace cuts lead times 60 percent by consolidating jet engine manufacturing workflows and optimizing deliveries."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO FUEL SURCHARGE REVIEWS",
-                "teaserTitle": "INTERMODAL VOLUME REBOUND",
+                "headline": "CANADIAN NATIONAL: MERGER ACCESS DEAL",
+                "teaserTitle": "OUTOKUMPU: COLLAPSIBLE STEEL CONTAINERS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Major international carriers shift to biweekly fuel surcharge reviews as rising jet fuel prices squeeze operating margins."
+                "narration_line": "Canadian National drops merger opposition after securing shipper site access under a strategic railway agreement."
             },
             {
                 "slide_index": 3,
-                "headline": "INTERMODAL VOLUME ANNUAL GAINS",
-                "teaserTitle": "FREEDOM HAULERS VETERAN INITIATIVE",
+                "headline": "OUTOKUMPU: COLLAPSIBLE STEEL CONTAINERS",
+                "teaserTitle": "CARAWAY HOME: PARCEL RATE OPTIMIZATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Total intermodal volumes post robust double-digit annual gains, reflecting stronger container activity across rail networks."
+                "narration_line": "Outokumpu deploys collapsible intermodal containers to eliminate deadhead backhauls in scrap steel transportation."
             },
             {
                 "slide_index": 4,
-                "headline": "FREEDOM HAULERS VETERAN PIPELINE",
-                "teaserTitle": "AUTONOMOUS TRAILER LOADING PILOT",
+                "headline": "CARAWAY HOME: PARCEL RATE OPTIMIZATION",
+                "teaserTitle": "FRA: MEXICAN RAIL CREW MANDATES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The DOT launches Freedom Haulers to accelerate military veterans into commercial trucking and ease driver shortages."
+                "narration_line": "Caraway Home slashes fulfillment spending through automated rate shopping and custom reverse logistics integration."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTONOMOUS TRAILER LOADING EXPANSION",
-                "teaserTitle": "USPS MARKETPLACE RATE INCREASES",
+                "headline": "FRA: MEXICAN RAIL CREW MANDATES",
+                "teaserTitle": "MAERSK: LATIN AMERICA SHUTTLE EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "FedEx expands its pilot deployment of autonomous trailer loading systems to optimize facility dock throughput."
+                "narration_line": "Federal regulators propose stricter English language rules for Mexican rail crews crossing into the United States."
             },
             {
                 "slide_index": 6,
-                "headline": "USPS MARKETPLACE RATE ADJUSTMENTS",
-                "teaserTitle": "AI DEMAND PLANNING DEPLOYMENT",
+                "headline": "MAERSK: LATIN AMERICA SHUTTLE EXPANSION",
+                "teaserTitle": "DOORDASH: DRONE DELIVERY REGULATORY APPROVAL",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "USPS implements revised package shipping rates, impacting online marketplace sellers and last-mile fulfillment."
+                "narration_line": "Maersk expands its Gemini feeder shuttle strategy to ocean ports along Latin America's western coastline."
             },
             {
                 "slide_index": 7,
-                "headline": "AI DEMAND PLANNING IMPLEMENTATION",
+                "headline": "DOORDASH: DRONE DELIVERY REGULATORY APPROVAL",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Leading manufacturers deploy AI demand planning tools to improve forecasting accuracy and boost fulfillment fill rates."
+                "narration_line": "Federal regulators grant approval for expanded commercial drone delivery operations across suburban last-mile markets."
             },
             {
                 "slide_index": 8,
