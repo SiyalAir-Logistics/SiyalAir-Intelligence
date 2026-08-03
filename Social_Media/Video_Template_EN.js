@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE REALIGNMENT",
+        "hookTitle": "GLOBAL FREIGHT ARCHITECTURE REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 FORCED-LABOR TARIFFS",
-                "teaserTitle": "AIRLINES: JET FUEL SURCHARGE ELEVATION",
+                "headline": "BROKERAGE: VERDICT SHIFTS LIABILITY",
+                "teaserTitle": "CROSS-BORDER: RAIL CREW MANDATES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR rolls out Section 301 forced-labor tariffs across sixty nations as Section 122 duties expire."
+                "narration_line": "A historic six hundred million dollar verdict against C H Robinson elevates broker vicarious liability risks across domestic freight networks."
             },
             {
                 "slide_index": 2,
-                "headline": "AIRLINES: JET FUEL SURCHARGE ELEVATION",
-                "teaserTitle": "OCEAN: STRAIT OF HORMUZ SCHEDULE DISRUPTIONS",
+                "headline": "CROSS-BORDER: RAIL CREW MANDATES",
+                "teaserTitle": "COMPLIANCE: TRADE FRAUD RECOVERIES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Air cargo carriers shift to bi-weekly jet fuel surcharge reviews amid volatile global energy markets."
+                "narration_line": "Federal regulators propose mandatory English proficiency standards for Mexican rail crews to ensure border interchange safety and communication."
             },
             {
                 "slide_index": 3,
-                "headline": "OCEAN: STRAIT OF HORMUZ SCHEDULE DISRUPTIONS",
-                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING DEPLOYMENT",
+                "headline": "COMPLIANCE: TRADE FRAUD RECOVERIES",
+                "teaserTitle": "AEROSPACE: GE LEAD TIME REDUCTION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Persistent Strait of Hormuz transits degrade ocean schedule reliability and force extended vessel rerouting."
+                "narration_line": "The Justice Department's Trade Fraud Task Force surpasses one billion dollars in recoveries targeting customs evasion and illicit imports."
             },
             {
                 "slide_index": 4,
-                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING DEPLOYMENT",
-                "teaserTitle": "RAIL: CANADIAN NATIONAL UP-NS MERGER ACCORD",
+                "headline": "AEROSPACE: GE LEAD TIME REDUCTION",
+                "teaserTitle": "LAST-MILE: DOORDASH DRONE APPROVAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "FedEx expands robotic autonomous trailer loading pilots to boost hub sorting speed and reduce turnaround times."
+                "narration_line": "GE Aerospace slashes manufacturing lead times by sixty percent through aggressive workflow consolidation and facility footprint optimization."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: CANADIAN NATIONAL UP-NS MERGER ACCORD",
-                "teaserTitle": "NEW JERSEY: DYNAMIC PRICING BAN LEGISLATION",
+                "headline": "LAST-MILE: DOORDASH DRONE APPROVAL",
+                "teaserTitle": "OCEAN: MAERSK GEMINI LATAM SHUTTLE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Canadian National drops opposition to the UP-NS mega-rail merger following strategic trackage access agreements."
+                "narration_line": "Federal aviation authorities grant formal approval for DoorDash drone deliveries enabling beyond visual line of sight suburban commercial operations."
             },
             {
                 "slide_index": 6,
-                "headline": "NEW JERSEY: DYNAMIC PRICING BAN LEGISLATION",
-                "teaserTitle": "FMC: COURT UPHOLDS FREIGHT FLUIDITY RULE",
+                "headline": "OCEAN: MAERSK GEMINI LATAM SHUTTLE",
+                "teaserTitle": "EQUIPMENT: FOLDABLE SCRAP CONTAINERS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New Jersey bans retail dynamic pricing and pauses electronic shelf label rollouts for one year."
+                "narration_line": "Maersk expands its Gemini shuttle network model to West Coast Latin America to improve ocean schedule reliability above ninety percent."
             },
             {
                 "slide_index": 7,
-                "headline": "FMC: COURT UPHOLDS FREIGHT FLUIDITY RULE",
+                "headline": "EQUIPMENT: FOLDABLE SCRAP CONTAINERS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Appeals Court upholds FMC ruling mandating that ocean detention fees must strictly promote freight fluidity."
+                "narration_line": "Outokumpu and Alabama Port deploy collapsible scrap containers to cut empty repositioning costs and maximize port terminal yard capacity."
             },
             {
                 "slide_index": 8,
