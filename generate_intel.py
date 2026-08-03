@@ -261,7 +261,6 @@ def main():
                     "video_shorts_data": video_module_node
                 }
             else:
-                video_payload_to_video = video_module_node # safe fallback reference
                 video_payload_to_write = video_module_node
 
             video_js_content = f"module.exports = {json.dumps(video_payload_to_write, indent=4)};"
