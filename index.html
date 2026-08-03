@@ -17,8 +17,7 @@
     </nav>
 
     <div id="render-container">
-        <!-- [CRITICAL ENHANCEMENT]: Embedded dynamic background tracking data attribute sync -->
-        <div id="post-canvas" class="instagram-portrait" data-bg-tracker="1">
+        <div id="post-canvas" class="instagram-portrait">
             
             <main class="content-body">
                 <header>
@@ -42,31 +41,12 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html2canvas/1.4.1/html2canvas.min.js"></script>
     
-    <!-- [CRITICAL ENHANCEMENT]: Robust cache-busting loader that synchronously injects dynamic trackers and assets -->
     <script>
       (function() {
         const cacheBuster = new Date().getTime();
-        
-        // 1. Fetch and apply bg_tracker.txt dynamically to the render canvas element data state
-        fetch(`bg_tracker.txt?v=${cacheBuster}`)
-          .then(res => res.text())
-          .then(text => {
-              const bgVal = text.trim();
-              if (bgVal && !isNaN(bgVal)) {
-                  const canvasEl = document.getElementById('post-canvas');
-                  if (canvasEl) {
-                      canvasEl.setAttribute('data-bg-tracker', bgVal);
-                      // Apply dynamic inline styling fallback mapping or trigger state attribute refresh
-                      canvasEl.style.setProperty('--bg-index', bgVal);
-                  }
-              }
-          })
-          .catch(err => console.warn("Background tracker fetch skipped:", err));
-
-        // 2. Load template.js with strict synchronization
         const script = document.createElement('script');
         script.src = `template.js?v=${cacheBuster}`;
-        script.async = false; 
+        script.async = false; // Guarantees execution completes sequentially before engine.js processes it
         document.body.appendChild(script);
       })();
     </script>
