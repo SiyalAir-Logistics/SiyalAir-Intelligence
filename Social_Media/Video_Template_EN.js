@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT COMPLIANCE SHIFTS",
+        "hookTitle": "AFRICAN TRADE INFRASTRUCTURE SURGES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "BROKERAGE LEGAL: VICARIOUS LIABILITY VERDICT",
-                "teaserTitle": "FRA RAIL: CROSS-BORDER CREW MANDATE",
+                "headline": "AFRICAN PORT CORRIDOR OVERWHELMED",
+                "teaserTitle": "AI FREIGHT REVENUE SURGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A six hundred million dollar broker liability verdict is forcing third-party logistics providers to overhaul carrier safety screening protocols."
+                "narration_line": "Developing African port infrastructure faces severe congestion as enormous container volumes flood from Asian manufacturing centers."
             },
             {
                 "slide_index": 2,
-                "headline": "FRA RAIL: CROSS-BORDER CREW MANDATE",
-                "teaserTitle": "USTR TRADE: FORCED LABOR TARIFFS",
+                "headline": "AI AIR CARGO TRAFFIC RESILIENCE",
+                "teaserTitle": "VESSEL OWNER CHARTER SHIFT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The FRA is imposing strict English proficiency rules on Mexican rail crews to secure safety at expanding cross-border gateways."
+                "narration_line": "Air cargo traffic defies broader market volatility driven by unyielding global demand for artificial intelligence hardware."
             },
             {
                 "slide_index": 3,
-                "headline": "USTR TRADE: FORCED LABOR TARIFFS",
-                "teaserTitle": "DOT PIPELINE: VETERAN CDL INITIATIVE",
+                "headline": "OCEAN CARRIER CHARTER REDUCTION",
+                "teaserTitle": "TRADE FRAUD RECOVERY MILESTONE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "USTR is launching Section 301 forced labor tariffs on sixty nations, mandating dynamic supply chain traceability for all importers."
+                "narration_line": "Major container shipping lines are rapidly accelerating their transition away from chartered tonnage toward owned vessel fleets."
             },
             {
                 "slide_index": 4,
-                "headline": "DOT PIPELINE: VETERAN CDL INITIATIVE",
-                "teaserTitle": "DAIMLER TRUCK: PORTLAND PLANT SHUTDOWN",
+                "headline": "DOJ TRADE FRAUD RECOVERIES",
+                "teaserTitle": "INDUSTRIAL REAL ESTATE BALANCE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The DOT's Freedom Haulers program accelerates military veteran driver licensing while cracking down on non-domiciled driver compliance."
+                "narration_line": "The Department of Justice Trade Fraud Task Force has officially crossed one billion dollars in total financial penalties."
             },
             {
                 "slide_index": 5,
-                "headline": "DAIMLER TRUCK: PORTLAND PLANT SHUTDOWN",
-                "teaserTitle": "CMA CGM: RAIL FREIGHT WITHDRAWAL",
+                "headline": "INDUSTRIAL REAL ESTATE STABILIZATION",
+                "teaserTitle": "AUTONOMOUS TRUCK FLEET EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Daimler Truck North America will close its Portland manufacturing facility by October to consolidate commercial vehicle assembly operations."
+                "narration_line": "Industrial real estate markets regain healthy equilibrium as warehouse demand successfully outpaces new supply completions."
             },
             {
                 "slide_index": 6,
-                "headline": "CMA CGM: RAIL FREIGHT WITHDRAWAL",
-                "teaserTitle": "E-COMMERCE TRADE: TARIFF REFUND SYSTEM",
+                "headline": "AUTONOMOUS TRUCKING FLEET SCALING",
+                "teaserTitle": "ELECTRIC TRUCK FLEET ADOPTION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "CMA CGM has withdrawn its bid for Rail Logistics Europe, altering multimodal ocean-rail integration plans across European transport networks."
+                "narration_line": "Autonomous vehicle operators scale commercial driverless truck fleets to optimize linehaul freight network efficiency."
             },
             {
                 "slide_index": 7,
-                "headline": "E-COMMERCE TRADE: TARIFF REFUND SYSTEM",
+                "headline": "HEAVY ELECTRIC TRUCK SATISFACTION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon is executing a six hundred million dollar tariff refund initiative as e-commerce platforms adapt to dynamic customs trade duties."
+                "narration_line": "Early commercial adopters report exceptional operational satisfaction running heavy electric freight trucks in active service."
             },
             {
                 "slide_index": 8,
