@@ -1,7 +1,7 @@
 # ==============================================================================
 # SIYALAIR-INTEL-STUDIO ORCHESTRATION PIPELINE (PROD_v2.0_2026)
 # DIRECTORY:    .github/workflows/
-# MODULE:       main.yml
+# MODULE:        main.yml
 # PURPOSE:      Orchestrates end-to-end automated news generation, asset dynamic rotation,
 #               canvas slide screenshot capturing, repository synchronization, and 
 #               SMTP dispatch notifications on an hourly cron schedule.
@@ -14,12 +14,12 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'template.js'            # Prevent re-entrant triggers from template data updates
-      - 'post.txt'               # Prevent re-entrant triggers from text payload updates
-      - 'download/**'            # Prevent re-entrant triggers from screenshot asset commits
-      - 'bg_tracker.txt'         # Prevent re-entrant triggers from background state updates
-      - 'follow_tracker.txt'     # Prevent re-entrant triggers from follow-up slide state updates
-      - 'Social_Media/**'        # Prevent re-entrant triggers from template code updates
+      - 'template.js'             # Prevent re-entrant triggers from template data updates
+      - 'post.txt'                # Prevent re-entrant triggers from text payload updates
+      - 'download/**'             # Prevent re-entrant triggers from screenshot asset commits
+      - 'bg_tracker.txt'          # Prevent re-entrant triggers from background state updates
+      - 'follow_tracker.txt'      # Prevent re-entrant triggers from follow-up slide state updates
+      - 'Social_Media/**'         # Prevent re-entrant triggers from template code updates
   workflow_dispatch:
   schedule:
     - cron: '16 * * * *'        # Primary precise hourly trigger (runs at :16 past every hour each hour)
@@ -70,7 +70,7 @@ jobs:
           git fetch origin main
           git reset --mixed origin/main
           
-          # Dynamically rotate background tracker index
+          # Dynamically rotate background tracker index with file sync safety
           python - << 'EOF'
           import os
           import glob
@@ -103,15 +103,13 @@ jobs:
 
           with open(tracker_file, "w", encoding="utf-8") as f:
               f.write(str(next_val))
-          
-          # Force flush and sync to prevent IO caching race conditions
-          f.flush()
-          os.fsync(f.fileno())
+              f.flush()
+              os.fsync(f.fileno())
 
           print(f"Dynamic Background Rotation: Found {max_backgrounds} total backgrounds. Rotated tracker: {current_val} -> {next_val}")
           EOF
 
-          # Dynamically rotate follow-up CTA slide tracker index
+          # Dynamically rotate follow-up CTA slide tracker index with file sync safety
           python - << 'EOF'
           import os
           import glob
@@ -144,16 +142,14 @@ jobs:
 
           with open(follow_tracker_file, "w", encoding="utf-8") as f:
               f.write(str(next_follow_val))
-          
-          f.flush()
-          os.fsync(f.fileno())
+              f.flush()
+              os.fsync(f.fileno())
 
           print(f"Dynamic Follow-up Rotation: Found {max_followups} total follow slides. Rotated tracker: {current_follow_val} -> {next_follow_val}")
           EOF
 
-          # Stage generated artifacts and force-include critical tracker state files
-          git add template.js post.txt Social_Media/
-          git add -f bg_tracker.txt follow_tracker.txt
+          # Stage generated artifacts and tracker state files securely using explicit force addition
+          git add -f template.js post.txt Social_Media/ bg_tracker.txt follow_tracker.txt
           
           if ! git diff --cached --quiet; then
             git commit -m "Automated Hourly Update & Dynamic Rotation: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
@@ -222,7 +218,7 @@ jobs:
           git fetch origin main
           git reset --mixed origin/main
           
-          git add download/
+          git add -f download/
           
           if ! git diff --cached --quiet download/; then
             git commit -m "Automated Graphic Asset Sync: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
