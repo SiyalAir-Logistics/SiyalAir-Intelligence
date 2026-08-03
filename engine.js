@@ -1,12 +1,12 @@
 /**
  * ==============================================================================
  * SIYALAIR-INTEL-STUDIO CORE ENGINE (PROD_v2.0_2026)
- * DIRECTORY:    Social_Media/
- * MODULE:       Video_Template_EN.js
- * PURPOSE:      Unified client-side DOM rendering engine for social media video slides.
- *               Handles dynamic script loading, CORS background image encoding,
- *               DOM slide layout synthesis, auto-fit typography, and slide capture.
- * DATA FLOW:    template.js -> Video_Template_EN.js -> DOM Hydration -> Puppeteer Capture
+ * DIRECTORY:   Social_Media/
+ * MODULE:      Video_Template_EN.js
+ * PURPOSE:     Unified client-side DOM rendering engine for social media video slides.
+ *              Handles dynamic script loading, CORS background image encoding,
+ *              DOM slide layout synthesis, auto-fit typography, and slide capture.
+ * DATA FLOW:   template.js -> Video_Template_EN.js -> DOM Hydration -> Puppeteer Capture
  * ==============================================================================
  */
 
@@ -22,12 +22,12 @@ const log = (level, message) => {
 window.onload = async () => {
     log('INFO', 'Initializing Unified Video Template Engine lifecycle...');
 
-    // Load primary daily template payload with cache-busting (Checking root directory first, then local fallback)
+    // Load primary daily template payload with cache-busting
     const script = document.createElement('script');
-    script.src = '../template.js?t=' + Date.now();
+    script.src = 'template.js?t=' + Date.now();
 
     script.onload = async () => {
-        log('SUCCESS', 'Primary data payload (template.js) loaded successfully from root.');
+        log('SUCCESS', 'Primary data payload (template.js) loaded successfully.');
 
         // Convert background image to Base64 to bypass CORS html2canvas restrictions
         await fixBackgroundCORS();
@@ -50,32 +50,7 @@ window.onload = async () => {
     };
 
     script.onerror = () => {
-        // Fallback script load for local root context execution if Social_Media nested path fails
-        const fallbackScript = document.createElement('script');
-        fallbackScript.src = 'template.js?t=' + Date.now();
-        
-        fallbackScript.onload = async () => {
-            log('SUCCESS', 'Primary data payload (template.js) loaded successfully from local directory.');
-            await fixBackgroundCORS();
-            if (typeof dailyData !== 'undefined') {
-                initTabs();
-                const mainBtn = document.querySelector('.tab-btn');
-                if (mainBtn) switchSlide('main', mainBtn);
-            }
-            const dlBtn = document.getElementById('download-active');
-            if (dlBtn) {
-                dlBtn.onclick = (e) => {
-                    e.preventDefault();
-                    downloadAllSlides();
-                };
-            }
-        };
-
-        fallbackScript.onerror = () => {
-            log('ERROR', 'Critical System Fault: Failed to load template.js payload across all paths.');
-        };
-
-        document.head.appendChild(fallbackScript);
+        log('ERROR', 'Critical System Fault: Failed to load template.js payload. Check network path.');
     };
 
     document.head.appendChild(script);
@@ -84,8 +59,7 @@ window.onload = async () => {
 // ==============================================================================
 // [ MODULE 2: CORS & BACKGROUND IMAGE BASE64 CONVERTER ]
 // Purpose: Converts background image assets into Base64 DataURLs to prevent
-//          html2canvas tainted canvas export errors. Includes live tracker fetch
-//          with robust file path resolution fallback for automated workflows.
+//          html2canvas tainted canvas export errors.
 // ==============================================================================
 async function fixBackgroundCORS() {
     const canvas = document.getElementById('post-canvas');
@@ -93,94 +67,50 @@ async function fixBackgroundCORS() {
 
     let bgIndex = 1;
 
-    // Fetch live tracker to determine which background image rotation should load (Root first, then parent)
     try {
-        const rootTrackerRes = await fetch('../bg_tracker.txt?t=' + Date.now());
-        if (rootTrackerRes.ok) {
-            const text = await rootTrackerRes.text();
+        const trackerRes = await fetch('bg_tracker.txt?t=' + Date.now());
+        if (trackerRes.ok) {
+            const text = await trackerRes.text();
             const parsedNum = parseInt(text.trim(), 10);
             if (!isNaN(parsedNum) && parsedNum > 0) {
                 bgIndex = parsedNum;
             }
         }
     } catch (e) {
-        try {
-            const trackerRes = await fetch('bg_tracker.txt?t=' + Date.now());
-            if (trackerRes.ok) {
-                const text = await trackerRes.text();
-                const parsedNum = parseInt(text.trim(), 10);
-                if (!isNaN(parsedNum) && parsedNum > 0) {
-                    bgIndex = parsedNum;
-                }
-            }
-        } catch (innerErr) {
-            log('WARNING', 'Background tracker read failed across paths; defaulting to background1.png');
-        }
+        log('WARNING', 'Background tracker read failed; defaulting to background1.png');
     }
 
-    // Attempt path resolutions to securely load background regardless of execution context depth (Root assets/ first)
-    const possibleUrls = [
-        `../assets/background${bgIndex}.png`,
-        `assets/background${bgIndex}.png`,
-        `../yt_backgrounds/backgroundyt${bgIndex}.png`,
-        `yt_backgrounds/backgroundyt${bgIndex}.png`
-    ];
+    const bgUrl = `assets/background${bgIndex}.png`;
 
-    let loadedSuccessfully = false;
-
-    for (const bgUrl of possibleUrls) {
-        try {
-            const response = await fetch(bgUrl + '?t=' + Date.now());
-            if (response.ok) {
-                const blob = await response.blob();
-                const reader = new FileReader();
-                await new Promise((resolve, reject) => {
-                    reader.onloadend = () => {
-                        canvas.style.backgroundImage = `url(${reader.result})`;
-                        canvas.style.backgroundSize = 'cover';
-                        canvas.style.backgroundPosition = 'center';
-                        log('SUCCESS', `Background asset (${bgUrl}) loaded and optimized for render capture.`);
-                        loadedSuccessfully = true;
-                        resolve();
-                    };
-                    reader.onerror = reject;
-                    reader.readAsDataURL(blob);
-                });
-                if (loadedSuccessfully) break;
-            }
-        } catch (err) {
-            // Try next path in array
-        }
-    }
-
-    if (!loadedSuccessfully) {
-        log('WARNING', `Failed to load indexed background assets. Invoking default asset fallback...`);
+    try {
+        const response = await fetch(bgUrl);
+        if (!response.ok) throw new Error(`Background asset missing at ${bgUrl}`);
+        const blob = await response.blob();
+        const reader = new FileReader();
+        reader.onloadend = () => {
+            canvas.style.backgroundImage = `url(${reader.result})`;
+            log('SUCCESS', `Background asset (background${bgIndex}.png) loaded and optimized for render capture.`);
+        };
+        reader.readAsDataURL(blob);
+    } catch (e) {
+        log('WARNING', `Failed to load background${bgIndex}.png. Invoking default asset fallback...`);
         await fallbackDefaultBackground(canvas);
     }
 }
 
 async function fallbackDefaultBackground(canvas) {
-    const fallbackUrls = ['../assets/background.png', 'assets/background.png'];
-    for (const fbUrl of fallbackUrls) {
-        try {
-            const response = await fetch(fbUrl + '?t=' + Date.now());
-            if (response.ok) {
-                const blob = await response.blob();
-                const reader = new FileReader();
-                reader.onloadend = () => {
-                    canvas.style.backgroundImage = `url(${reader.result})`;
-                    canvas.style.backgroundSize = 'cover';
-                    canvas.style.backgroundPosition = 'center';
-                    log('SUCCESS', `Default fallback background asset loaded from ${fbUrl}.`);
-                };
-                reader.readAsDataURL(blob);
-                return;
-            }
-        } catch (err) {
-            // Continue fallback loop
-        }
+    try {
+        const response = await fetch('assets/background.png');
+        const blob = await response.blob();
+        const reader = new FileReader();
+        reader.onloadend = () => {
+            canvas.style.backgroundImage = `url(${reader.result})`;
+            log('SUCCESS', 'Default fallback background asset loaded.');
+        };
+        reader.readAsDataURL(blob);
+    } catch (err) {
+        log('ERROR', 'Default background asset fallback failed completely.');
     }
-    log('ERROR', 'Default background asset fallback failed completely.');
 }
 
 // ==============================================================================
@@ -288,46 +218,20 @@ async function switchSlide(id, element) {
 
         let followIndex = 1;
         try {
-            const rootTrackerRes = await fetch('../follow_tracker.txt?t=' + Date.now());
-            if (rootTrackerRes.ok) {
-                const text = await rootTrackerRes.text();
+            const trackerRes = await fetch('follow_tracker.txt?t=' + Date.now());
+            if (trackerRes.ok) {
+                const text = await trackerRes.text();
                 const parsedNum = parseInt(text.trim(), 10);
                 if (!isNaN(parsedNum) && parsedNum > 0) {
                     followIndex = parsedNum;
                 }
             }
         } catch (e) {
-            try {
-                const trackerRes = await fetch('follow_tracker.txt?t=' + Date.now());
-                if (trackerRes.ok) {
-                    const text = await trackerRes.text();
-                    const parsedNum = parseInt(text.trim(), 10);
-                    if (!isNaN(parsedNum) && parsedNum > 0) {
-                        followIndex = parsedNum;
-                    }
-                }
-            } catch (innerErr) {
-                log('WARNING', 'Follow tracker read failed; defaulting to slide9-1.png');
-            }
+            log('WARNING', 'Follow tracker read failed; defaulting to slide9-1.png');
         }
 
-        const followAssetUrls = [
-            `../followup/slide9-${followIndex}.png`,
-            `followup/slide9-${followIndex}.png`
-        ];
-
-        let resolvedFollowUrl = followAssetUrls[0];
-        for (const fUrl of followAssetUrls) {
-            try {
-                const res = await fetch(fUrl + '?t=' + Date.now());
-                if (res.ok) {
-                    resolvedFollowUrl = fUrl;
-                    break;
-                }
-            } catch (err) {}
-        }
-
-        html = `<div class="content-body" style="background-image: url('${resolvedFollowUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
+        const followAssetUrl = `followup/slide9-${followIndex}.png`;
+        html = `<div class="content-body" style="background-image: url('${followAssetUrl}'); background-size: cover; background-position: center; width: 100%; height: 100%;"></div>`;
     } else {
         const index = id - 1;
         const slide = dailyData.slides?.[index];
@@ -421,7 +325,7 @@ async function downloadAllSlides() {
 
     if (originalActiveTab) {
         if (originalActiveTab.innerText === 'MAIN') originalId = 'main';
-        else if (originalActiveTab.innerText === 'FOLLOW') originalId = 'FOLLOW';
+        else if (originalActiveTab.innerText === 'FOLLOW') originalId = 'follow';
         else originalId = parseInt(originalActiveTab.innerText.replace('SLIDE-', ''), 10);
     }
 
@@ -468,51 +372,4 @@ async function downloadAllSlides() {
         dlBtn.innerText = "DOWNLOAD ALL SLIDES";
         dlBtn.disabled = false;
     }
-}
-
-/**
- * ---------------------------------------------------------------------------
- * EMBEDDED BACKEND MODULE: LinkedIn Shorts & Post Data Pipeline Integration
- * ---------------------------------------------------------------------------
- */
-const linkedinShortsModule = (typeof window !== 'undefined' && window.linkedinData)
-    ? window.linkedinData
-    : {
-        metadata: {
-            targetPlatform: "LinkedIn",
-            language: "EN",
-            version: "2.0",
-            author: "SIYAL AIR LLC",
-            timestamp: "2026-07-27"
-        },
-        slides: [
-            {
-                slideNumber: 1,
-                heading: "GLOBAL FREIGHT SHIFT:",
-                narration: "The international logistics landscape is experiencing rapid structural adjustments driven by real-time trade updates and port data.",
-                visualText: "CRITICAL SUPPLY CHAIN SHIFTS"
-            },
-            {
-                slideNumber: 2,
-                heading: "CAPACITY & ROUTING:",
-                narration: "Operators are leveraging automated intelligence to optimize multi-modal routing and secure resilient margins ahead of market volatility.",
-                visualText: "DATA-DRIVEN LANE OPTIMIZATION"
-            },
-            {
-                slideNumber: 3,
-                heading: "OPERATIONAL RESILIENCE:",
-                narration: "Real-time visibility mitigates unforeseen bottlenecks across major trade lanes, reducing administrative overhead significantly.",
-                visualText: "MITIGATING NETWORK BOTTLENECK"
-            }
-        ],
-        socialPost: {
-            headline: "GLOBAL LOGISTICS INTELLIGENCE BRIEFING",
-            body: "The international freight landscape is experiencing rapid structural adjustments driven by real-time trade data, port congestion updates, and shifting carrier alliances.\n\nForward-thinking logistics operators are leveraging automated intelligence to optimize routing, reduce transit delays, and secure capacity ahead of market volatility.",
-            hashtags: ["#SupplyChain", "#FreightForwarding", "#LogisticsInnovation", "#GlobalTrade", "#SiyalAir"]
-        }
-    };
-
-// Export for Node.js backend pipeline integration if required in hybrid setups
-if (typeof module !== 'undefined' && module.exports) {
-    module.exports = linkedinShortsModule;
 }
