@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "VOLATILITY",
-        "footerSummary": "Sudden policy shifts, rail consolidations, and jet fuel rate adjustments drive strategic realignments across air, ocean, and inland supply chain networks."
+        "titleWhite": "GLOBAL FREIGHT DISRUPTION",
+        "titleBlue": "RISKS",
+        "footerSummary": "Shift in broker liabilities, cross-border rail language enforcement, and escalating tariff framework revisions trigger widespread operational realignment across international supply networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FEDEX: AUTONOMOUS TRAILER LOADING DEPLOYMENT",
+            "heading": "C.H. ROBINSON: $604M BROKER LIABILITY VERDICT",
             "points": [
-                "FedEx has expanded its pilot program integrating autonomous robotic systems designed to automate trailer loading operations across major sorting hubs.",
-                "Initial operational testing indicates a significant reduction in dock throughput bottlenecks and labor-intensive manual loading cycles.",
-                "The architectural shift underscores a broader industry pivot toward software-driven physical automation inside high-volume distribution infrastructure.",
-                "Shippers should anticipate optimized handling speeds and altered freight intake schedules as automated hub integrations scale network-wide."
+                "A landmark legal ruling delivered a $604 million advisory verdict against C.H. Robinson for negligent carrier selection.",
+                "The historic court decision dramatically increases financial liability exposure and vetting standards across third-party logistics providers.",
+                "Freight brokerages are now forced to overhaul carrier qualification protocols to prevent vicarious liability claims.",
+                "Industry analysts project widespread carrier capacity contractions as automated dispatch platforms re-screen long-haul fleets."
             ],
             "imageUrl": "",
-            "nextUpTease": "CMA CGM: SNCF RAIL FREIGHT ACQUISITION WITHDRAWAL",
+            "nextUpTease": "USTR: SECTION 301 FORCED LABOR TARIFFS",
             "tags": [
-                "Source: freightwaves.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CMA CGM: SNCF RAIL FREIGHT ACQUISITION WITHDRAWAL",
+            "heading": "USTR: SECTION 301 FORCED LABOR TARIFFS",
             "points": [
-                "CMA CGM formally withdrew its bid to acquire a forty-nine percent stake in SNCF's rail freight subsidiary, Rail Logistics Europe.",
-                "The abrupt termination halts planned multi-modal expansion strategies aimed at integrating European rail networks into ocean carrier operations.",
-                "Regulatory hurdles and valuation disputes appear to have stalled European rail freight consolidation attempts among major ocean lines.",
-                "Intermodal cargo shippers must now adjust long-term European hinterland routing strategies as carrier multi-modal options remain fragmented."
+                "The Office of the United States Trade Representative is implementing Section 301 tariffs targeting 60 international trading partners.",
+                "The regulatory measure enforces stringent forced labor compliance criteria following the expiration of temporary Section 122 tariffs.",
+                "Importers face heightened customs scrutiny and mandatory supply chain origin mapping for cross-border shipments.",
+                "Shippers must immediately audit overseas manufacturing nodes to prevent severe port clearance delays and product seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: BIWEEKLY SURCHARGE MECHANISM ADOPTION",
+            "nextUpTease": "FRA: TOUGHER RAIL CREW LANGUAGE STANDARDS",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: BIWEEKLY SURCHARGE MECHANISM ADOPTION",
+            "heading": "FRA: TOUGHER RAIL CREW LANGUAGE STANDARDS",
             "points": [
-                "International air freight carriers are transitioning to bi-weekly jet fuel surcharge evaluations to counter extreme spot price volatility.",
-                "Frequent pricing recalibrations prevent carrier margin compression while passing rapid energy price swings directly to global shippers.",
-                "The mechanism reflects structural instability in aviation fuel supply chains and shifting global trade lane risks.",
-                "High-tech and automotive supply chains relying on air transport must prepare for rapid baseline freight expenditure shifts."
+                "The Federal Railroad Administration proposed strict English proficiency mandates for foreign crews operating across domestic tracks.",
+                "The regulation directly targets cross-border rail operations originating from Mexico to heighten operational safety standards.",
+                "Class I railroads must adjust crew interchange schedules and invest in comprehensive language certification programs.",
+                "Cross-border rail transit times are anticipated to experience localized bottlenecks during initial crew verification phase-ins."
             ],
             "imageUrl": "",
-            "nextUpTease": "MSC LOGISTICS: INLAND WATERWAY ROUTING OVERHAUL",
+            "nextUpTease": "USPS: RURAL GROUND ADVANTAGE RATE SURCHARGES",
             "tags": [
-                "Source: joc.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MSC LOGISTICS: INLAND WATERWAY ROUTING OVERHAUL",
+            "heading": "USPS: RURAL GROUND ADVANTAGE RATE SURCHARGES",
             "points": [
-                "MSC has implemented alternative inland logistics corridors in North Europe to bypass severe barge congestion caused by low water levels.",
-                "The operational contingency redirects containerized freight toward rail and feeder vessel networks across key Rhine and inland terminals.",
-                "Climate-driven waterway disruptions are forcing ocean carriers to build flexible multi-modal backup systems along European supply corridors.",
-                "Importers and exporters operating in Central Europe face extended transit times and potential secondary demurrage charges."
+                "The United States Postal Service implemented higher Ground Advantage package rates targeting e-commerce marketplace sellers.",
+                "Lightweight parcel deliveries routed to non-urban ZIP codes now incur an additional surcharge of $2 to $3 per package.",
+                "E-commerce retailers are restructuring last-mile distribution networks to absorb or pass along expanding delivery fees.",
+                "Small businesses will likely shift parcel volumes toward regional fulfillment nodes to mitigate escalating postal costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADIAN NATIONAL: UP-NS MERGER SETTLEMENT AGREEMENT",
+            "nextUpTease": "NEW JERSEY: ELECTRONIC SHELF LABEL BAN",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CANADIAN NATIONAL: UP-NS MERGER SETTLEMENT AGREEMENT",
+            "heading": "NEW JERSEY: ELECTRONIC SHELF LABEL BAN",
             "points": [
-                "Canadian National reached an agreement not to oppose the proposed UP-NS Class I rail merger following strategic trackage access concessions.",
-                "The settlement provides CN direct access to critical industrial shipper locations facing diminished competitive rail options.",
-                "Regulatory scrutiny from the Surface Transportation Board continues to dictate Class I consolidation terms and inter-railway access rights.",
-                "North American rail shippers may experience shifting freight routing options and modified line-haul rate structures across Midwest corridors."
+                "New Jersey enacted legislation banning dynamic price adjustments and freezing new electronic shelf label installations.",
+                "The state imposed a one-year moratorium to investigate consumer algorithmic pricing mechanisms in retail storefronts.",
+                "Omnichannel retailers must pause automated store pricing synchronizations and maintain traditional physical tagging.",
+                "Supply chain technology vendors face regional regulatory hurdles that slow automated retail inventory management deployments."
             ],
             "imageUrl": "",
-            "nextUpTease": "US GOV: FOREIGN ROBOTICS SALES RESTRICTIONS",
+            "nextUpTease": "WALMART: REAL-TIME AI WEATHER REROUTING",
             "tags": [
-                "Source: supplychaindive.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "US GOV: FOREIGN ROBOTICS SALES RESTRICTIONS",
+            "heading": "WALMART: REAL-TIME AI WEATHER REROUTING",
             "points": [
-                "Proposed federal policies targeting restrictions on foreign-manufactured industrial robotics pose operational risks to US warehouse automation projects.",
-                "Logistics operators face potential compliance delays and supply chain bottlenecks for ongoing distribution center technology upgrades.",
-                "National security concerns over hardware origins are reshaping the supply chain for warehouse robotics and operational technology.",
-                "Enterprise logistics developers must audit technology vendor origins to mitigate regulatory non-compliance and execution halts."
+                "Walmart integrated predictive artificial intelligence models to proactively re-route freight before severe weather events occur.",
+                "The automated system dynamically rebalances distribution center stock levels to maintain store inventory continuity during disruptions.",
+                "Real-time weather analytics substantially lower emergency expedited freight charges and mitigate store out-of-stock risks.",
+                "Enterprise logistics operators are accelerating investment in predictive weather orchestration across distribution networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "XPO LOGISTICS: AI FREIGHT ORCHESTRATION DEPLOYMENT",
+            "nextUpTease": "GE AEROSPACE: 60 PERCENT LEAD TIME REDUCTION",
             "tags": [
-                "Source: dcvelocity.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "XPO LOGISTICS: AI FREIGHT ORCHESTRATION DEPLOYMENT",
+            "heading": "GE AEROSPACE: 60 PERCENT LEAD TIME REDUCTION",
             "points": [
-                "XPO Logistics reported accelerated operational performance driven by scaled deployment of proprietary artificial intelligence tools across its network.",
-                "The deployment focuses on route optimization, line-haul load matching, and predictive labor allocation to maximize asset utilization.",
-                "Practical enterprise AI integration is proving crucial for margin expansion in high-friction transportation management environments.",
-                "Freight brokers and LTL operators lacking deep software integration risk operational margin erosion against tech-enabled carriers."
+                "GE Aerospace achieved a 60% reduction in manufacturing lead times across its primary aircraft engine assembly plants.",
+                "Process consolidation and streamlined internal logistics yielded a major surge in second-quarter F110 engine deliveries.",
+                "The manufacturing optimization minimizes operational bottlenecks and drastically cuts internal floor transit distances.",
+                "Aerospace suppliers must adapt to accelerated component delivery schedules to keep pace with assembly plant throughput."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK VOLATILITY",
+        "hookTitle": "GLOBAL FREIGHT DISRUPTION RISKS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING DEPLOYMENT",
-                "teaserTitle": "CMA CGM: SNCF RAIL FREIGHT ACQUISITION WITHDRAWAL",
+                "headline": "C.H. ROBINSON: $604M BROKER LIABILITY VERDICT",
+                "teaserTitle": "USTR: SECTION 301 FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "FedEx expands autonomous trailer loading pilots to streamline dock operations and reduce throughput bottlenecks."
+                "narration_line": "A historic six-hundred-four-million-dollar verdict against C.H. Robinson establishes unprecedented carrier vetting liability standards for freight brokerages nationwide."
             },
             {
                 "slide_index": 2,
-                "headline": "CMA CGM: SNCF RAIL FREIGHT ACQUISITION WITHDRAWAL",
-                "teaserTitle": "AIR CARGO: BIWEEKLY SURCHARGE MECHANISM ADOPTION",
+                "headline": "USTR: SECTION 301 FORCED LABOR TARIFFS",
+                "teaserTitle": "FRA: TOUGHER RAIL CREW LANGUAGE STANDARDS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CMA CGM cancels its bid for SNCF's rail freight unit, impacting European intermodal integration plans."
+                "narration_line": "The USTR is enforcing Section 301 tariffs on sixty trading partners to strictly eliminate forced labor from global supply chains."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: BIWEEKLY SURCHARGE MECHANISM ADOPTION",
-                "teaserTitle": "MSC LOGISTICS: INLAND WATERWAY ROUTING OVERHAUL",
+                "headline": "FRA: TOUGHER RAIL CREW LANGUAGE STANDARDS",
+                "teaserTitle": "USPS: RURAL GROUND ADVANTAGE RATE SURCHARGES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Air carriers adopt bi-weekly fuel surcharges to hedge against jet fuel price volatility and margin risk."
+                "narration_line": "Federal regulators propose strict English proficiency rules for Mexican rail crews crossing the United States border to enhance freight safety."
             },
             {
                 "slide_index": 4,
-                "headline": "MSC LOGISTICS: INLAND WATERWAY ROUTING OVERHAUL",
-                "teaserTitle": "CANADIAN NATIONAL: UP-NS MERGER SETTLEMENT AGREEMENT",
+                "headline": "USPS: RURAL GROUND ADVANTAGE RATE SURCHARGES",
+                "teaserTitle": "NEW JERSEY: ELECTRONIC SHELF LABEL BAN",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "MSC deploys alternative inland rail routes to bypass severe European barge delays caused by waterway disruptions."
+                "narration_line": "USPS raises Ground Advantage parcel rates, imposing new three-dollar surcharges on e-commerce deliveries heading to rural postal destinations."
             },
             {
                 "slide_index": 5,
-                "headline": "CANADIAN NATIONAL: UP-NS MERGER SETTLEMENT AGREEMENT",
-                "teaserTitle": "US GOV: FOREIGN ROBOTICS SALES RESTRICTIONS",
+                "headline": "NEW JERSEY: ELECTRONIC SHELF LABEL BAN",
+                "teaserTitle": "WALMART: REAL-TIME AI WEATHER REROUTING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Canadian National settles opposition to the UP-NS merger after securing strategic trackage access rights."
+                "narration_line": "New Jersey bans dynamic pricing and halts electronic shelf label deployments while state officials analyze retail price automation algorithms."
             },
             {
                 "slide_index": 6,
-                "headline": "US GOV: FOREIGN ROBOTICS SALES RESTRICTIONS",
-                "teaserTitle": "XPO LOGISTICS: AI FREIGHT ORCHESTRATION DEPLOYMENT",
+                "headline": "WALMART: REAL-TIME AI WEATHER REROUTING",
+                "teaserTitle": "GE AEROSPACE: 60 PERCENT LEAD TIME REDUCTION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Federal restrictions on foreign logistics robotics threaten to delay automated warehouse deployments across North America."
+                "narration_line": "Walmart deploys advanced AI systems to automatically reroute freight vectors and rebalance regional distribution centers ahead of severe weather."
             },
             {
                 "slide_index": 7,
-                "headline": "XPO LOGISTICS: AI FREIGHT ORCHESTRATION DEPLOYMENT",
+                "headline": "GE AEROSPACE: 60 PERCENT LEAD TIME REDUCTION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "XPO Logistics accelerates operational gains through proprietary artificial intelligence tools for route and load optimization."
+                "narration_line": "GE Aerospace slashes engine production lead times by sixty percent through process consolidation and optimized internal assembly logistics."
             },
             {
                 "slide_index": 8,
