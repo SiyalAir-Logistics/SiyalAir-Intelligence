@@ -1,26 +1,26 @@
-🌐 GLOBAL SUPPLY CHAIN SHIFTS
+🌐 GLOBAL TRADE CAPACITY DECOUPLING
 Global supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:
 
-01 / USTR: SECTION 301 TARIFF EXPANSION
-USTR moves forward with forced labor Section 301 tariffs on 60 nations following Section 122 expiration.
+01 / CMA CGM: FRET SNCF DIVESTMENT
+CMA CGM officially cancelled its bid for France's rail freight operator, pivoting away from state-backed intermodal rail infrastructure.
 
-02 / C.H. ROBINSON: BROKER LIABILITY VERDICT
-C.H. Robinson appeals a $604M negligent carrier selection verdict that threatens third-party brokerage legal exposure.
+02 / FEDEX: AUTONOMOUS TRAILER LOADING
+FedEx expands its autonomous dock loading deployment in Maryland to increase sorting hub throughput.
 
-03 / FRA: MEXICAN RAIL CREW STANDARDS
-Federal Railroad Administration seeks tougher English standards for Mexican rail crews operating cross-border trains into the United States.
+03 / UPS: AUTOMATED NETWORK EXPANSION
+UPS now processes over two-thirds of its US package volume through fully automated hubs under its Network 2.0 initiative.
 
-04 / AUTOMOTIVE: CAR-CARRIER CHARTER SPIKE
-Chinese EV boom pushes car-carrier ocean charter rates toward $100,000 per day amid tight global vessel capacity.
+04 / LUFTHANSA: FREIGHTER FLEET LIQUIDATION
+Lufthansa Cargo seeks buyers for its fleet of four grounded Airbus A321 converted freighters.
 
-05 / AMAZON: TARIFF REFUND DISTRIBUTION
-Amazon begins distributing consumer portions of a $600M tariff refund pool following federal import duty recalculations.
+05 / OUTOKUMPU: COLLAPSIBLE CONTAINER DEPLOYMENT
+Outokumpu adopts collapsible container technology at Alabama ports to optimize empty return drayage costs.
 
-06 / NEW JERSEY: DYNAMIC PRICING RESTRICTION
-New Jersey bans retail dynamic pricing models and pauses electronic shelf label rollouts across physical store networks.
+06 / AIR CARGO: BI-WEEKLY FUEL ADJUSTMENTS
+Global air carriers institute bi-weekly fuel surcharge revisions to manage jet fuel price volatility.
 
-07 / USPS: HAZMAT & RURAL SURCHARGES
-USPS introduces new rural lightweight package surcharges and enforces strict hazardous material noncompliance penalty fees.
+07 / DOORDASH: REGULATORY DRONE APPROVAL
+Federal aviation regulators approve expanded commercial drone operations for DoorDash last-mile deliveries.
 
 ✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
 Stay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.
@@ -31,4 +31,4 @@ For Rate Audit and queries, contact us at +1 862 425 6741.
 [ LIKE • SHARE • FOLLOW ]
 For hourly decoded freight and global logistics signals across the globe.
 
-#SupplyChain #GlobalTrade #LogisticsIntelligence #FreightForwarding #CustomsCompliance #MaritimeLogistics #TruckingNews #EcommerceLogistics
+#SupplyChain #Logistics #AirCargo #Freight #Automation #GlobalTrade #Drones #FedEx

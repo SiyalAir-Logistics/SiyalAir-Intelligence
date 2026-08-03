@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL SUPPLY CHAIN SHIFTS",
+        "hookTitle": "GLOBAL TRADE CAPACITY DECOUPLING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
+                "headline": "CMA CGM: FRET SNCF DIVESTMENT",
+                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR institutes forced labor Section 301 tariffs on 60 nations, raising landed costs across global trade routes."
+                "narration_line": "CMA CGM cancels its rail bid, signaling a shift away from public rail investments in Western Europe."
             },
             {
                 "slide_index": 2,
-                "headline": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
-                "teaserTitle": "FRA: MEXICAN RAIL CREW STANDARDS",
+                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING",
+                "teaserTitle": "UPS: AUTOMATED NETWORK EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "C.H. Robinson appeals a six-hundred million dollar verdict, threatening standard freight broker liability protections across trucking lanes."
+                "narration_line": "FedEx expands automated dock loaders in Maryland, accelerating AI-powered hub throughput."
             },
             {
                 "slide_index": 3,
-                "headline": "FRA: MEXICAN RAIL CREW STANDARDS",
-                "teaserTitle": "AUTOMOTIVE: CAR-CARRIER CHARTER SPIKE",
+                "headline": "UPS: AUTOMATED NETWORK EXPANSION",
+                "teaserTitle": "LUFTHANSA: FREIGHTER FLEET LIQUIDATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal regulators demand tougher English standards for Mexican rail crews, risking operational bottlenecks at cross-border rail hubs."
+                "narration_line": "UPS now routes over two-thirds of US volume through automated hubs to slash operational costs."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTOMOTIVE: CAR-CARRIER CHARTER SPIKE",
-                "teaserTitle": "AMAZON: TARIFF REFUND DISTRIBUTION",
+                "headline": "LUFTHANSA: FREIGHTER FLEET LIQUIDATION",
+                "teaserTitle": "OUTOKUMPU: COLLAPSIBLE CONTAINER DEPLOYMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Chinese EV export spikes push car-carrier charter rates to one hundred thousand dollars daily, squeezing ocean auto capacity."
+                "narration_line": "Lufthansa Cargo offloads four grounded A321 freighters following service partner liquidation."
             },
             {
                 "slide_index": 5,
-                "headline": "AMAZON: TARIFF REFUND DISTRIBUTION",
-                "teaserTitle": "NEW JERSEY: DYNAMIC PRICING RESTRICTION",
+                "headline": "OUTOKUMPU: COLLAPSIBLE CONTAINER DEPLOYMENT",
+                "teaserTitle": "AIR CARGO: BI-WEEKLY FUEL ADJUSTMENTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon disburses part of a six-hundred million dollar tariff refund pool to consumers following post-litigation import duty adjustments."
+                "narration_line": "Outokumpu adopts collapsible containers at Alabama ports to cut scrap metal repositioning costs."
             },
             {
                 "slide_index": 6,
-                "headline": "NEW JERSEY: DYNAMIC PRICING RESTRICTION",
-                "teaserTitle": "USPS: HAZMAT & RURAL SURCHARGES",
+                "headline": "AIR CARGO: BI-WEEKLY FUEL ADJUSTMENTS",
+                "teaserTitle": "DOORDASH: REGULATORY DRONE APPROVAL",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New Jersey bans dynamic retail pricing and halts electronic shelf labels, disrupting real-time omnichannel pricing strategies."
+                "narration_line": "Air cargo carriers launch bi-weekly fuel surcharges to navigate extreme global energy market volatility."
             },
             {
                 "slide_index": 7,
-                "headline": "USPS: HAZMAT & RURAL SURCHARGES",
+                "headline": "DOORDASH: REGULATORY DRONE APPROVAL",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "USPS levies rural delivery surcharges and strict hazmat penalties, escalating last-mile shipping expenses for e-commerce sellers."
+                "narration_line": "Federal regulators approve DoorDash drone delivery expansion, unlocking scaled autonomous last-mile routes."
             },
             {
                 "slide_index": 8,
