@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE TARIFFS SURGE",
+        "hookTitle": "GLOBAL TRADE INFRASTRUCTURE SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "FMC DETENTION FEES RULING",
+                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "CMA CGM: FRET SNCF BID WITHDRAWAL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR advances sweeping Section 301 tariffs on 60 trading partners, forcing immediate compliance shifts."
+                "narration_line": "USTR implements Section 301 tariffs on 60 nations, forcing global supply chains to recalibrate customs compliance and landed costs immediately."
             },
             {
                 "slide_index": 2,
-                "headline": "FMC UPHOLDS FREIGHT FLUIDITY RULES",
-                "teaserTitle": "FREEDOM HAULERS INITIATIVE",
+                "headline": "CMA CGM: FRET SNCF BID WITHDRAWAL",
+                "teaserTitle": "DOJ: TRADE FRAUD TASK FORCE SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Appellate courts uphold FMC detention fee regulations to protect shippers and promote terminal container fluidity."
+                "narration_line": "CMA CGM withdraws its bid for France's Rail Logistics Europe, altering European intermodal hinterland integration strategies."
             },
             {
                 "slide_index": 3,
-                "headline": "FREEDOM HAULERS VETERAN PIPELINE",
-                "teaserTitle": "MANUFACTURING PMI EXPANSION",
+                "headline": "DOJ: TRADE FRAUD TASK FORCE SURGE",
+                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The new Freedom Haulers program accelerates military veteran transitions into commercial trucking careers."
+                "narration_line": "DOJ's Trade Fraud Task Force surpasses one billion dollars in recoveries through aggressive data-driven compliance audits."
             },
             {
                 "slide_index": 4,
-                "headline": "MANUFACTURING PMI MULTI-YEAR PEAK",
-                "teaserTitle": "CARRIER CHARTER TONNAGE SHIFT",
+                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING EXPANSION",
+                "teaserTitle": "EU/USPS: CROSS-BORDER E-COMMERCE REGULATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "U.S. manufacturing PMI hits a four-year high of 55.6, driving robust freight demand for LTL carriers."
+                "narration_line": "FedEx expands autonomous trailer loading technology with Dexterity to optimize warehouse dock throughput and bypass labor constraints."
             },
             {
                 "slide_index": 5,
-                "headline": "OCEAN CARRIERS PREFER OWNED TONNAGE",
-                "teaserTitle": "RHINE WATER LEVEL DISRUPTIONS",
+                "headline": "EU/USPS: CROSS-BORDER E-COMMERCE REGULATION",
+                "teaserTitle": "MARITIME: CARRIER TONNAGE CAPACITY SHIFT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Top container lines accelerate their shift toward owned vessel tonnage to mitigate charter market volatility."
+                "narration_line": "New EU import levies and USPS postal hikes curb cross-border e-commerce freighter flights and parcel traffic."
             },
             {
                 "slide_index": 6,
-                "headline": "RHINE WATERWAYS THREATEN INLAND CARGO",
-                "teaserTitle": "AMAZON RETAIL REVENUE GROWTH",
+                "headline": "MARITIME: CARRIER TONNAGE CAPACITY SHIFT",
+                "teaserTitle": "ISM: MANUFACTURING GROWTH DRIVES FREIGHT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Plunging Rhine water levels trigger barge draft restrictions and modal capacity constraints across Europe."
+                "narration_line": "Ocean carriers pivot from charters to owned tonnage while air cargo operators institute bi-weekly fuel surcharge updates."
             },
             {
                 "slide_index": 7,
-                "headline": "AMAZON NORTH AMERICAN SALES SURGE",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "ISM: MANUFACTURING GROWTH DRIVES FREIGHT",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon reports 16 percent North American sales growth, anchoring strong domestic parcel volume."
+                "narration_line": "US manufacturing growth reaches 55.6 percent, accelerating less-than-truckload volume growth and tightening domestic freight capacity."
             },
             {
                 "slide_index": 8,
