@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE COMPLIANCE",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Rapid legal enforcement and regulatory shifts across customs, brokerage liability, and postal surcharges pose imminent operational cost risks for global supply chain networks."
+        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "Forensic intelligence audit detailing Section 301 trade shifts, jet fuel surcharges, Strait of Hormuz delays, autonomous loading deployments, and FMC fee rulings."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE RECOVERIES",
+            "heading": "USTR: SECTION 301 FORCED-LABOR TARIFFS",
             "points": [
-                "The Justice Department's Trade Fraud Task Force surpassed $1 billion in financial recoveries, penalties, and forfeitures within one year of operation.",
-                "Federal enforcement targets deliberate duty evasion, misclassification of imported goods, and fraudulent origin labeling across international supply chains.",
-                "Cross-departmental data analytics are accelerating investigations into mid-market importers and freight forwarding partners nationwide.",
-                "Importers must instantly audit supply chain customs declarations to mitigate substantial regulatory fines and criminal prosecution risks."
+                "The Office of the United States Trade Representative is implementing Section 301 forced-labor tariffs across sixty partner nations as Section 122 duties expire.",
+                "Importers face heightened regulatory compliance standards and potential tariff adjustments across primary cross-border trade corridors.",
+                "The administrative shift establishes targeted trade enforcement to curb unethical labor practices without disrupting key domestic supply chains.",
+                "Enterprise procurement teams must re-audit supplier origin documentation to mitigate sudden custom holds and duty penalty risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "COURTS: C.H. ROBINSON BROKER LIABILITY",
+            "nextUpTease": "AIRLINES: JET FUEL SURCHARGE ELEVATION",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "COURTS: C.H. ROBINSON BROKER LIABILITY",
+            "heading": "AIRLINES: JET FUEL SURCHARGE ELEVATION",
             "points": [
-                "Freight broker giant C.H. Robinson faces an unprecedented $604 million negligent hiring verdict regarding contract carrier selection protocols.",
-                "The legal ruling severely expands broker vicarious liability, penalizing intermediaries for motor carrier safety infractions and inadequate vetting procedures.",
-                "Logistics intermediaries across North America are overhauling carrier onboarding software to integrate real-time safety rating verification.",
-                "Shippers and brokers will likely experience contracted capacity contraction as stringent carrier qualification standards filter out high-risk fleets."
+                "Global air cargo carriers are initiating bi-weekly fuel surcharge reviews to offset soaring jet fuel prices driven by geopolitical instability.",
+                "Freighter operators expect immediate operational cost pass-throughs, inflating spot and contract air freight transport rates globally.",
+                "Volatile energy markets continue to squeeze carrier margins, forcing airlines to adjust dynamic pricing models on long-haul routes.",
+                "Shippers utilizing air logistics must prepare for elevated landed costs and integrate flexible surcharge indexing into budget forecasts."
             ],
             "imageUrl": "",
-            "nextUpTease": "FRA: MEXICAN RAIL CREW COMPLIANCE",
+            "nextUpTease": "OCEAN: STRAIT OF HORMUZ SCHEDULE DISRUPTIONS",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FRA: MEXICAN RAIL CREW COMPLIANCE",
+            "heading": "OCEAN: STRAIT OF HORMUZ SCHEDULE DISRUPTIONS",
             "points": [
-                "The Federal Railroad Administration proposes strict English language proficiency standards for Mexican locomotive crews operating within the United States.",
-                "Regulatory mandates aim to eliminate cross-border rail communication breakdowns at critical interchange gateways along the southern border.",
-                "Rail operators across Mexico and North America must implement mandatory language testing and operational crew re-certifications.",
-                "Cross-border rail dwell times could temporarily escalate as rail carriers adjust shift schedules to comply with updated communication mandates."
+                "Ongoing maritime transit restrictions through the Strait of Hormuz have significantly degraded container ship schedule reliability across global ocean networks.",
+                "Major ocean lines are altering vessel routing around key Middle Eastern chokepoints, extending transit times and increasing container dwell times.",
+                "Rerouted ocean freight capacity is causing localized equipment imbalances and surging operational surcharges across Asia-Europe trade lanes.",
+                "Logistics planners must extend lead-time buffers and secure safety stock to mitigate persistent maritime supply chain bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: RURAL PARCEL SURCHARGE ELEVATION",
+            "nextUpTease": "FEDEX: AUTONOMOUS TRAILER LOADING DEPLOYMENT",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "USPS: RURAL PARCEL SURCHARGE ELEVATION",
+            "heading": "FEDEX: AUTONOMOUS TRAILER LOADING DEPLOYMENT",
             "points": [
-                "The United States Postal Service implemented non-flat rate price hikes targeting lightweight Ground Advantage packages destined for rural postal zip codes.",
-                "Regional delivery surcharges introduce an additional two to three dollar per-package fee, significantly raising final-mile fulfillment costs.",
-                "E-commerce marketplaces and direct-to-consumer merchants are adjusting shipping calculators to absorb or pass on increased delivery expenses.",
-                "Shippers are urged to diversify multi-carrier final-mile strategies to bypass elevated remote postal destination fees."
+                "FedEx has expanded its operational testing of robotic autonomous trailer loading systems to streamline hub sorting and dispatch throughput.",
+                "The automated loading tech cuts dock turnaround times while minimizing manual freight handling errors and physical labor constraints.",
+                "Integrating robotics into parcel distribution nodes signals a structural shift toward fully automated middle-mile logistics infrastructure.",
+                "Warehouse operations across competing parcel networks will face market pressure to accelerate robotics integration to match throughput speed."
             ],
             "imageUrl": "",
-            "nextUpTease": "UAE: CRUDE OIL PRICING OVERHAUL",
+            "nextUpTease": "RAIL: CANADIAN NATIONAL UP-NS MERGER ACCORD",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "UAE: CRUDE OIL PRICING OVERHAUL",
+            "heading": "RAIL: CANADIAN NATIONAL UP-NS MERGER ACCORD",
             "points": [
-                "The United Arab Emirates initiated a comprehensive overhaul of crude oil pricing benchmarks amid ongoing Strait of Hormuz maritime security tensions.",
-                "Volatile Middle Eastern freight lanes and supply disruptions forced regional energy authorities to restructure spot market pricing mechanics.",
-                "Ocean carriers and air freight operators face unpredictable bunker fuel surcharges as crude benchmarks adjust to maritime security risks.",
-                "Global supply chains must prepare for sustained fuel surcharge volatility across long-haul Asia-Europe and Transpacific shipping corridors."
+                "Canadian National has formally agreed not to contest the proposed Union Pacific and Norfolk Southern merger following targeted trackage concessions.",
+                "The agreement grants Canadian National strategic access to key industrial shipper sites, maintaining Class I railroad market competition.",
+                "Regulatory clearance pathways for mega-rail consolidation are clearing, potentially reshaping cross-border North American rail freight routing.",
+                "Rail shippers must evaluate shifting carrier competition dynamics and negotiate multi-year access agreements to safeguard intermodal rates."
             ],
             "imageUrl": "",
-            "nextUpTease": "EBAY: DEPOP ACQUISITION CLOSING",
+            "nextUpTease": "NEW JERSEY: DYNAMIC PRICING BAN LEGISLATION",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EBAY: DEPOP ACQUISITION CLOSING",
+            "heading": "NEW JERSEY: DYNAMIC PRICING BAN LEGISLATION",
             "points": [
-                "eBay finalized its $1.4 billion acquisition of fashion C2C marketplace Depop from Etsy following comprehensive regulatory approvals.",
-                "The strategic consolidation aims to integrate cross-border re-commerce logistics, payment systems, and seller infrastructure under eBay.",
-                "Apparel sellers gain expanded international buyer exposure, supported by standardized global shipping and inventory verification pipelines.",
-                "Marketplace logistics competition is intensifying as e-commerce platforms streamline circular commerce and cross-border trade fulfillment."
+                "New Jersey state legislature has enacted a ban on retail dynamic pricing while pausing electronic shelf label deployments for one year.",
+                "Retailers face strict compliance oversight prohibiting real-time algorithmic price fluctuations at physical points of sale.",
+                "The regulatory intervention aims to protect consumers from surge pricing algorithms during peak supply demand periods.",
+                "Omnichannel sellers must adjust localized pricing architecture and delay automated digital shelf deployments within affected jurisdictions."
             ],
             "imageUrl": "",
-            "nextUpTease": "US SENATE: CHAMELEON CARRIER LEGISLATION",
+            "nextUpTease": "FMC: COURT UPHOLDS FREIGHT FLUIDITY RULE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "US SENATE: CHAMELEON CARRIER LEGISLATION",
+            "heading": "FMC: COURT UPHOLDS FREIGHT FLUIDITY RULE",
             "points": [
-                "New U.S. Senate legislation targets 'chameleon carriers' that shut down operations and re-register under new entities to evade safety penalties.",
-                "The bill mandates advanced data-sharing between federal regulators, state transportation agencies, and law enforcement database networks.",
-                "Automated safety auditing systems will instantly flag shared addresses, vehicle identification numbers, and fleet ownership structures.",
-                "Freight brokers and shippers will benefit from cleaner carrier databases, drastically reducing exposure to fraudulent motor carriers."
+                "The U.S. Court of Appeals affirmed the Federal Maritime Commission decision mandating that ocean detention and demurrage fees must promote freight fluidity.",
+                "Ocean carriers and terminal operators are legally barred from levying detention penalties when port congestion prevents container pickups.",
+                "The judicial affirmation reinforces regulatory protections for shippers and motor carriers against unfair ocean line fee assessments.",
+                "BCOs and freight forwarders gain stronger legal leverage to dispute improper detention invoices and recover unwarranted port fees."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

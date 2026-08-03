@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE COMPLIANCE SHIFTS",
+        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DOJ: TRADE FRAUD TASK FORCE RECOVERIES",
-                "teaserTitle": "COURTS: C.H. ROBINSON BROKER LIABILITY",
+                "headline": "USTR: SECTION 301 FORCED-LABOR TARIFFS",
+                "teaserTitle": "AIRLINES: JET FUEL SURCHARGE ELEVATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "DOJ's Trade Fraud Task Force hits one billion dollars in recoveries targeting deliberate customs duty evasion and illegal origin labeling."
+                "narration_line": "USTR rolls out Section 301 forced-labor tariffs across sixty nations as Section 122 duties expire."
             },
             {
                 "slide_index": 2,
-                "headline": "COURTS: C.H. ROBINSON BROKER LIABILITY",
-                "teaserTitle": "FRA: MEXICAN RAIL CREW COMPLIANCE",
+                "headline": "AIRLINES: JET FUEL SURCHARGE ELEVATION",
+                "teaserTitle": "OCEAN: STRAIT OF HORMUZ SCHEDULE DISRUPTIONS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A six hundred million dollar negligent hiring verdict against C.H. Robinson forces freight brokers to overhaul carrier safety qualification protocols."
+                "narration_line": "Air cargo carriers shift to bi-weekly jet fuel surcharge reviews amid volatile global energy markets."
             },
             {
                 "slide_index": 3,
-                "headline": "FRA: MEXICAN RAIL CREW COMPLIANCE",
-                "teaserTitle": "USPS: RURAL PARCEL SURCHARGE ELEVATION",
+                "headline": "OCEAN: STRAIT OF HORMUZ SCHEDULE DISRUPTIONS",
+                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING DEPLOYMENT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal regulators propose mandatory English proficiency standards for Mexican rail crews operating cross-border trains into the United States."
+                "narration_line": "Persistent Strait of Hormuz transits degrade ocean schedule reliability and force extended vessel rerouting."
             },
             {
                 "slide_index": 4,
-                "headline": "USPS: RURAL PARCEL SURCHARGE ELEVATION",
-                "teaserTitle": "UAE: CRUDE OIL PRICING OVERHAUL",
+                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING DEPLOYMENT",
+                "teaserTitle": "RAIL: CANADIAN NATIONAL UP-NS MERGER ACCORD",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "USPS increases lightweight parcel rates for rural delivery addresses, pushing up last-mile fulfillment costs for e-commerce sellers."
+                "narration_line": "FedEx expands robotic autonomous trailer loading pilots to boost hub sorting speed and reduce turnaround times."
             },
             {
                 "slide_index": 5,
-                "headline": "UAE: CRUDE OIL PRICING OVERHAUL",
-                "teaserTitle": "EBAY: DEPOP ACQUISITION CLOSING",
+                "headline": "RAIL: CANADIAN NATIONAL UP-NS MERGER ACCORD",
+                "teaserTitle": "NEW JERSEY: DYNAMIC PRICING BAN LEGISLATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The UAE restructures crude oil pricing benchmarks as ongoing Strait of Hormuz tensions create maritime fuel surcharge volatility."
+                "narration_line": "Canadian National drops opposition to the UP-NS mega-rail merger following strategic trackage access agreements."
             },
             {
                 "slide_index": 6,
-                "headline": "EBAY: DEPOP ACQUISITION CLOSING",
-                "teaserTitle": "US SENATE: CHAMELEON CARRIER LEGISLATION",
+                "headline": "NEW JERSEY: DYNAMIC PRICING BAN LEGISLATION",
+                "teaserTitle": "FMC: COURT UPHOLDS FREIGHT FLUIDITY RULE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "eBay closes its one point four billion dollar acquisition of Depop to consolidate cross-border resale commerce logistics and seller tools."
+                "narration_line": "New Jersey bans retail dynamic pricing and pauses electronic shelf label rollouts for one year."
             },
             {
                 "slide_index": 7,
-                "headline": "US SENATE: CHAMELEON CARRIER LEGISLATION",
+                "headline": "FMC: COURT UPHOLDS FREIGHT FLUIDITY RULE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "New Senate legislation targets chameleon carriers, deploying automated data audits to prevent unsafe fleets from re-registering under new names."
+                "narration_line": "Appeals Court upholds FMC ruling mandating that ocean detention fees must strictly promote freight fluidity."
             },
             {
                 "slide_index": 8,
