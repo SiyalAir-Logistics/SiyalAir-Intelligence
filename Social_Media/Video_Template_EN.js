@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK REALIGNMENT",
+        "hookTitle": "GLOBAL FREIGHT NETWORK VOLATILITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "FMC: DETENTION FEE COMPLIANCE MANDATE",
+                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING DEPLOYMENT",
+                "teaserTitle": "CMA CGM: SNCF RAIL FREIGHT ACQUISITION WITHDRAWAL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR advances Section 301 tariffs on sixty nations to enforce trade compliance as expiring duties compel immediate importer landed cost reviews."
+                "narration_line": "FedEx expands autonomous trailer loading pilots to streamline dock operations and reduce throughput bottlenecks."
             },
             {
                 "slide_index": 2,
-                "headline": "FMC: DETENTION FEE COMPLIANCE MANDATE",
-                "teaserTitle": "KODIAK ROBOTICS: AUTONOMOUS FLEET EXPANSION",
+                "headline": "CMA CGM: SNCF RAIL FREIGHT ACQUISITION WITHDRAWAL",
+                "teaserTitle": "AIR CARGO: BIWEEKLY SURCHARGE MECHANISM ADOPTION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Federal courts uphold FMC rules requiring ocean carrier detention fees to strictly promote freight fluidity across terminal operations."
+                "narration_line": "CMA CGM cancels its bid for SNCF's rail freight unit, impacting European intermodal integration plans."
             },
             {
                 "slide_index": 3,
-                "headline": "KODIAK ROBOTICS: AUTONOMOUS FLEET EXPANSION",
-                "teaserTitle": "US DOT: VETERAN TRUCKING RECRUITMENT PIPELINE",
+                "headline": "AIR CARGO: BIWEEKLY SURCHARGE MECHANISM ADOPTION",
+                "teaserTitle": "MSC LOGISTICS: INLAND WATERWAY ROUTING OVERHAUL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Kodiak Robotics expands its driverless truck fleet to one hundred rigs, accelerating autonomous middle-mile commercial freight throughput nationwide."
+                "narration_line": "Air carriers adopt bi-weekly fuel surcharges to hedge against jet fuel price volatility and margin risk."
             },
             {
                 "slide_index": 4,
-                "headline": "US DOT: VETERAN TRUCKING RECRUITMENT PIPELINE",
-                "teaserTitle": "NISSIN FOODS: AI PLANNING INTEGRATION",
+                "headline": "MSC LOGISTICS: INLAND WATERWAY ROUTING OVERHAUL",
+                "teaserTitle": "CANADIAN NATIONAL: UP-NS MERGER SETTLEMENT AGREEMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "US DOT launches Freedom Haulers to transition military veterans into commercial driver careers, reinforcing long-haul trucking capacity."
+                "narration_line": "MSC deploys alternative inland rail routes to bypass severe European barge delays caused by waterway disruptions."
             },
             {
                 "slide_index": 5,
-                "headline": "NISSIN FOODS: AI PLANNING INTEGRATION",
-                "teaserTitle": "EBAY: DEPOP ACQUISITION INTEGRATION",
+                "headline": "CANADIAN NATIONAL: UP-NS MERGER SETTLEMENT AGREEMENT",
+                "teaserTitle": "US GOV: FOREIGN ROBOTICS SALES RESTRICTIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Nissin Foods implements AI demand software to optimize inventory forecasting accuracy and streamline consumer packaged goods distribution."
+                "narration_line": "Canadian National settles opposition to the UP-NS merger after securing strategic trackage access rights."
             },
             {
                 "slide_index": 6,
-                "headline": "EBAY: DEPOP ACQUISITION INTEGRATION",
-                "teaserTitle": "UAE: CRUDE OIL PRICING OVERHAUL",
+                "headline": "US GOV: FOREIGN ROBOTICS SALES RESTRICTIONS",
+                "teaserTitle": "XPO LOGISTICS: AI FREIGHT ORCHESTRATION DEPLOYMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "eBay finalizes its $1.4 billion Depop acquisition to scale apparel e-commerce operations and streamline multi-channel cross-border order fulfillment."
+                "narration_line": "Federal restrictions on foreign logistics robotics threaten to delay automated warehouse deployments across North America."
             },
             {
                 "slide_index": 7,
-                "headline": "UAE: CRUDE OIL PRICING OVERHAUL",
+                "headline": "XPO LOGISTICS: AI FREIGHT ORCHESTRATION DEPLOYMENT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "UAE overhauls crude oil pricing mechanisms to stabilize energy maritime transportation costs amidst persistent Strait of Hormuz chokepoint tensions."
+                "narration_line": "XPO Logistics accelerates operational gains through proprietary artificial intelligence tools for route and load optimization."
             },
             {
                 "slide_index": 8,
