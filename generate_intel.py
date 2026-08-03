@@ -178,7 +178,6 @@ def main():
         log("ERROR", "No prompt base found. Pipeline aborted.")
         exit(1)
 
-    # Extract past topics from template.js to enforce strict non-duplication blacklist
     past_topics = extract_previous_topics()
     blacklist_context = ""
     if past_topics:
@@ -197,18 +196,15 @@ def main():
                 config=types.GenerateContentConfig(response_mime_type="application/json")
             )
             
-            # --- SANITIZATION ---
             raw_text = response.text.replace("```json", "").replace("```", "").strip()
             if raw_text.endswith(';'):
                 raw_text = raw_text[:-1]
             if not raw_text.startswith('{'): raw_text = '{' + raw_text
             if not raw_text.endswith('}'): raw_text = raw_text + '}'
             
-            # --- VALIDATION ---
             parsed_payload = json.loads(raw_text)
             log("SUCCESS", f"LLM payload successfully parsed as valid JSON using model: {model}")
             
-            # --- ROBUST NODE EXTRACTION & FALLBACKS ---
             slides_data_node = parsed_payload.get("slides_data")
             if not slides_data_node:
                 if "slides" in parsed_payload:
@@ -224,7 +220,6 @@ def main():
             if not post_content and isinstance(parsed_payload, dict):
                 post_content = "🌐 GLOBAL LOGISTICS INTELLIGENCE\nStay ahead of the global freight pulse."
 
-            # --- ENFORCEMENT ---
             slides_data_node = enforce_slide_structure(slides_data_node)
             slides_json_str = json.dumps(slides_data_node, indent=4)
             
