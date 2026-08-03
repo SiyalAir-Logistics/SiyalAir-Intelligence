@@ -100,57 +100,25 @@ def fetch_and_clean():
 
 # ==============================================================================
 # [ MODULE 3: TRACKER LOG & STATE SYNCHRONIZATION ENGINES ]
-# Purpose: Maintains sequential integer rotation trackers with max capping and cycle loops.
+# Purpose: Maintains tracking state files and ensures sequential, logical execution updates.
 # ==============================================================================
-def update_sequential_tracker(tracker_filename, max_limit=10):
-    """Reads integer from tracker file, increments sequentially, wraps using modulo, 
-    and writes back with atomic flush/fsync enforcement."""
-    current_val = 1
-    if os.path.exists(tracker_filename):
-        try:
-            with open(tracker_filename, "r", encoding="utf-8") as f:
-                content = f.read().strip()
-                if content.isdigit():
-                    val = int(content)
-                    current_val = (val % max_limit) + 1
-        except Exception as e:
-            log("WARNING", f"Could not read {tracker_filename}, defaulting sequence to 1: {str(e)}")
-
-    try:
-        with open(tracker_filename, "w", encoding="utf-8") as f:
-            f.write(str(current_val))
-            f.flush()
-            os.fsync(f.fileno())
-        
-        # [CRITICAL ENHANCEMENT]: Force update git index timestamp/state to guarantee CI commits changes 
-        # even if git optimization tries to treat identical byte changes or rapid timestamp updates as skip-worthy.
-        os.system(f"git add -f {tracker_filename}")
-        
-        log("SUCCESS", f"Updated {tracker_filename} successfully to sequence value: {current_val}")
-    except Exception as e:
-        log("ERROR", f"Failed to update {tracker_filename}: {str(e)}")
-        raise e
-    return current_val
-
 def update_tracker_files():
-    """Updates bg_tracker.txt and follow_tracker.txt atomically with sequential numbers (1 to 10 loop cycle)."""
-    update_sequential_tracker("bg_tracker.txt", max_limit=10)
-    update_sequential_tracker("follow_tracker.txt", max_limit=10)
-
-def extract_previous_topics():
-    """Reads existing template.js solely to extract previous slide headings for deduplication blacklist.
-    Does NOT use template.js for formatting rules (format comes strictly from prompt.txt)."""
-    excluded_topics = []
+    """Updates bg_tracker.txt and follow_tracker.txt atomically to ensure sequential tracking."""
+    timestamp = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
+    
     try:
-        if os.path.exists("template.js"):
-            with open("template.js", "r", encoding="utf-8") as f:
-                content = f.read()
-                matches = re.findall(r'["\']heading["\']\s*:\s*["\']([^"\']+)["\']', content)
-                excluded_topics = list(set(matches))
-                log("INFO", f"Loaded {len(excluded_topics)} previous headlines for deduplication blacklist.")
+        with open("bg_tracker.txt", "w", encoding="utf-8") as f:
+            f.write(f"Automated Hourly Update & Dynamic Rotation: {timestamp}")
+        log("SUCCESS", "Updated bg_tracker.txt successfully.")
     except Exception as e:
-        log("WARNING", f"Could not read template.js for deduplication: {str(e)}")
-    return excluded_topics
+        log("WARNING", f"Failed to update bg_tracker.txt: {str(e)}")
+
+    try:
+        with open("follow_tracker.txt", "w", encoding="utf-8") as f:
+            f.write(f"Automated Hourly Update & Dynamic Rotation: {timestamp}")
+        log("SUCCESS", "Updated follow_tracker.txt successfully.")
+    except Exception as e:
+        log("WARNING", f"Failed to update follow_tracker.txt: {str(e)}")
 
 # ==============================================================================
 # [ MODULE 4: LLM PIPELINE & SEQUENTIAL ATOMIC SYNCHRONIZATION ]
@@ -181,14 +149,9 @@ def main():
     
     if not prompt_base:
         log("ERROR", "No prompt base found. Pipeline aborted.")
-        exit(1)
+        return
 
-    past_topics = extract_previous_topics()
-    blacklist_context = ""
-    if past_topics:
-        blacklist_context = "\n\n[EXCLUSION BLACKLIST - DO NOT REPEAT THESE RECENT TOPICS/HEADLINES]:\n" + "\n".join([f"- {t}" for t in past_topics])
-
-    final_input = f"{prompt_base}{blacklist_context}\n\n[LATEST LIVE DATA]:\n{data}"
+    final_input = f"{prompt_base}\n\n[LATEST LIVE DATA]:\n{data}"
     model_priority = get_dynamic_model_priority()
     log("INFO", f"Active model priority chain: {model_priority}")
 
@@ -201,15 +164,18 @@ def main():
                 config=types.GenerateContentConfig(response_mime_type="application/json")
             )
             
+            # --- SANITIZATION ---
             raw_text = response.text.replace("```json", "").replace("```", "").strip()
             if raw_text.endswith(';'):
                 raw_text = raw_text[:-1]
             if not raw_text.startswith('{'): raw_text = '{' + raw_text
             if not raw_text.endswith('}'): raw_text = raw_text + '}'
             
+            # --- VALIDATION ---
             parsed_payload = json.loads(raw_text)
             log("SUCCESS", f"LLM payload successfully parsed as valid JSON using model: {model}")
             
+            # --- ROBUST NODE EXTRACTION & FALLBACKS ---
             slides_data_node = parsed_payload.get("slides_data")
             if not slides_data_node:
                 if "slides" in parsed_payload:
@@ -225,6 +191,7 @@ def main():
             if not post_content and isinstance(parsed_payload, dict):
                 post_content = "🌐 GLOBAL LOGISTICS INTELLIGENCE\nStay ahead of the global freight pulse."
 
+            # --- ENFORCEMENT ---
             slides_data_node = enforce_slide_structure(slides_data_node)
             slides_json_str = json.dumps(slides_data_node, indent=4)
             
@@ -232,25 +199,18 @@ def main():
             # SEQUENTIAL ATOMIC WRITE SEQUENCE (ORDERED TO PREVENT STALE/SKIPPED FILES)
             # ==============================================================================
             
-            # 1. Update Tracker Logs First (State Synchronization with flush/fsync enforcement)
+            # 1. Update Tracker Logs First (State Synchronization)
             update_tracker_files()
             
             # 2. Base Slide Template (template.js in Root)
             with open("template.js", "w", encoding="utf-8") as f:
                 f.write(f"const dailyData = {slides_json_str};")
-                f.flush()
-                os.fsync(f.fileno())
-            # Force stage template to avoid git skip optimization
-            os.system("git add -f template.js")
             log("SUCCESS", "Generated and exported: template.js")
                 
             # 3. Social Media Post Content (post.txt in Root)
             with open("post.txt", "w", encoding="utf-8") as f:
                 clean_post = str(post_content).replace('\\n', '\n')
                 f.write(clean_post)
-                f.flush()
-                os.fsync(f.fileno())
-            os.system("git add -f post.txt")
             log("SUCCESS", "Generated and exported: post.txt")
                 
             # 4. Cinematic Video Template (Social_Media/Video_Template_EN.js)
@@ -270,9 +230,6 @@ def main():
 
             with open(video_template_path, "w", encoding="utf-8") as f:
                 f.write(video_js_content)
-                f.flush()
-                os.fsync(f.fileno())
-            os.system(f"git add -f {video_template_path}")
             log("SUCCESS", f"Generated and exported video template: {video_template_path}")
                 
             log("SUCCESS", "generate_intel.py pipeline completed successfully with full sequence synchronization.")
