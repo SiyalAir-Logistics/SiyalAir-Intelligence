@@ -121,6 +121,11 @@ def update_sequential_tracker(tracker_filename, max_limit=10):
             f.write(str(current_val))
             f.flush()
             os.fsync(f.fileno())
+        
+        # [CRITICAL ENHANCEMENT]: Force update git index timestamp/state to guarantee CI commits changes 
+        # even if git optimization tries to treat identical byte changes or rapid timestamp updates as skip-worthy.
+        os.system(f"git add -f {tracker_filename}")
+        
         log("SUCCESS", f"Updated {tracker_filename} successfully to sequence value: {current_val}")
     except Exception as e:
         log("ERROR", f"Failed to update {tracker_filename}: {str(e)}")
@@ -235,6 +240,8 @@ def main():
                 f.write(f"const dailyData = {slides_json_str};")
                 f.flush()
                 os.fsync(f.fileno())
+            # Force stage template to avoid git skip optimization
+            os.system("git add -f template.js")
             log("SUCCESS", "Generated and exported: template.js")
                 
             # 3. Social Media Post Content (post.txt in Root)
@@ -243,6 +250,7 @@ def main():
                 f.write(clean_post)
                 f.flush()
                 os.fsync(f.fileno())
+            os.system("git add -f post.txt")
             log("SUCCESS", "Generated and exported: post.txt")
                 
             # 4. Cinematic Video Template (Social_Media/Video_Template_EN.js)
@@ -264,6 +272,7 @@ def main():
                 f.write(video_js_content)
                 f.flush()
                 os.fsync(f.fileno())
+            os.system(f"git add -f {video_template_path}")
             log("SUCCESS", f"Generated and exported video template: {video_template_path}")
                 
             log("SUCCESS", "generate_intel.py pipeline completed successfully with full sequence synchronization.")
