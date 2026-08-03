@@ -100,32 +100,37 @@ def fetch_and_clean():
 
 # ==============================================================================
 # [ MODULE 3: TRACKER LOG & STATE SYNCHRONIZATION ENGINES ]
-# Purpose: Maintains tracking state files and ensures sequential, logical execution updates.
+# Purpose: Maintains sequential integer rotation trackers with max capping and cycle loops.
 # ==============================================================================
-def update_tracker_files():
-    """Updates bg_tracker.txt and follow_tracker.txt atomically to ensure sequential tracking.
-    Enforces a hard write check and flush to prevent caching or sync skips in downstream HTML outputs."""
-    timestamp = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
-    
-    try:
-        with open("bg_tracker.txt", "w", encoding="utf-8") as f:
-            f.write(timestamp)
-            f.flush()
-            os.fsync(f.fileno())
-        log("SUCCESS", f"Updated bg_tracker.txt successfully with timestamp: {timestamp}")
-    except Exception as e:
-        log("ERROR", f"Failed to update bg_tracker.txt: {str(e)}")
-        raise e
+def update_sequential_tracker(tracker_filename, max_limit=10):
+    """Reads integer from tracker file, increments sequentially, wraps using modulo, 
+    and writes back with atomic flush/fsync enforcement."""
+    current_val = 1
+    if os.path.exists(tracker_filename):
+        try:
+            with open(tracker_filename, "r", encoding="utf-8") as f:
+                content = f.read().strip()
+                if content.isdigit():
+                    val = int(content)
+                    current_val = (val % max_limit) + 1
+        except Exception as e:
+            log("WARNING", f"Could not read {tracker_filename}, defaulting sequence to 1: {str(e)}")
 
     try:
-        with open("follow_tracker.txt", "w", encoding="utf-8") as f:
-            f.write(timestamp)
+        with open(tracker_filename, "w", encoding="utf-8") as f:
+            f.write(str(current_val))
             f.flush()
             os.fsync(f.fileno())
-        log("SUCCESS", f"Updated follow_tracker.txt successfully with timestamp: {timestamp}")
+        log("SUCCESS", f"Updated {tracker_filename} successfully to sequence value: {current_val}")
     except Exception as e:
-        log("ERROR", f"Failed to update follow_tracker.txt: {str(e)}")
+        log("ERROR", f"Failed to update {tracker_filename}: {str(e)}")
         raise e
+    return current_val
+
+def update_tracker_files():
+    """Updates bg_tracker.txt and follow_tracker.txt atomically with sequential numbers (1 to 10 loop cycle)."""
+    update_sequential_tracker("bg_tracker.txt", max_limit=10)
+    update_sequential_tracker("follow_tracker.txt", max_limit=10)
 
 def extract_previous_topics():
     """Reads existing template.js solely to extract previous slide headings for deduplication blacklist.
