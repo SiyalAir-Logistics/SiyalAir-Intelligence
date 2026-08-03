@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT PIPELINE VOLATILITY",
+        "hookTitle": "GLOBAL FREIGHT RATES SPIKE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR FORCED LABOR TARIFFS",
-                "teaserTitle": "FMC CONTAINER FLUIDITY",
+                "headline": "TRANSPACIFIC SPOT RATES",
+                "teaserTitle": "AIR CARGO SURCHARGES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR is advancing restrictive tariffs on sixty nations under aggressive forced labor compliance mandates."
+                "narration_line": "Carriers target August rate hikes as peak season demand strains transpacific capacity."
             },
             {
                 "slide_index": 2,
-                "headline": "FMC CONTAINER FLUIDITY",
-                "teaserTitle": "BORDER TRAILER CONTRABAND",
+                "headline": "AIR CARGO FUEL SURCHARGES",
+                "teaserTitle": "BROKER LIQUIDITY PRESSURES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The U.S. Court of Appeals upheld a crucial FMC ruling protecting cargo fluidity from punitive detention fees."
+                "narration_line": "Airlines accelerate bi-weekly fuel surcharge adjustments amid soaring jet fuel costs."
             },
             {
                 "slide_index": 3,
-                "headline": "BORDER TRAILER CONTRABAND",
-                "teaserTitle": "RED SEA SHIPPING AVOIDANCE",
+                "headline": "BROKER NEGLIGENT LIABILITY",
+                "teaserTitle": "MILITARY HIRING PIPELINES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Border patrol agents seized millions in illicit narcotics hidden beneath commercial vehicle trailer floorboards."
+                "narration_line": "Major freight brokers fight massive legal verdicts reshaping carrier vetting liability."
             },
             {
                 "slide_index": 4,
-                "headline": "RED SEA ROUTE DIVERSION",
-                "teaserTitle": "RETAIL AI WEATHER REROUTING",
+                "headline": "MILITARY TRUCKING PIPELINE",
+                "teaserTitle": "RAILROAD PERFORMANCE METRICS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Ongoing Middle East security risks force container vessels to bypass the Suez Canal for longer routes."
+                "narration_line": "New federal veteran programs fast-track commercial driver licensing for fleet expansion."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL AI WEATHER REROUTING",
-                "teaserTitle": "INTERMODAL VOLUME REBOUND",
+                "headline": "CLASS I RAILROAD VELOCITY",
+                "teaserTitle": "AUTOMATED YARD OPERATIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Major retailers are deploying predictive AI algorithms to automate supply chain weather rerouting strategies."
+                "narration_line": "Network operators balance fluctuating speed and dwell metrics across North American rails."
             },
             {
                 "slide_index": 6,
-                "headline": "INTERMODAL VOLUME REBOUND",
-                "teaserTitle": "DOJ TRADE FRAUD RECOVERIES",
+                "headline": "AUTOMATED YARD SYSTEMS",
+                "teaserTitle": "CUSTOMS COMPLIANCE AUDITS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Intermodal rail volumes posted strong annual gains as shippers transition freight away from highways."
+                "narration_line": "Distribution hubs deploy artificial intelligence to eliminate inbound dock throughput bottlenecks."
             },
             {
                 "slide_index": 7,
-                "headline": "DOJ TRADE FRAUD RECOVERIES",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "TRADE FRAUD ENFORCEMENT",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The DOJ Trade Fraud Task Force has officially surpassed one billion dollars in regulatory recoveries."
+                "narration_line": "Federal trade task forces intensify enforcement and cross-border customs compliance audits."
             },
             {
                 "slide_index": 8,

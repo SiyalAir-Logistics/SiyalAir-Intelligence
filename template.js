@@ -1,73 +1,90 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT PIPELINE",
-        "titleBlue": "VOLATILITY",
-        "footerSummary": "Global trade routes face unprecedented disruption as regulatory crackdowns, geopolitical chokepoints, and tariff expansions test supply chain resilience."
+        "titleWhite": "GLOBAL FREIGHT RATES",
+        "titleBlue": "SPIKE",
+        "footerSummary": "Carriers eye aggressive August rate hikes amid capacity tightening and rising maritime risk across key trade lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR FORCED LABOR TARIFFS",
+            "heading": "TRANSPACIFIC SPOT RATES",
             "points": [
-                "The Office of the United States Trade Representative is advancing restrictive tariffs targeting 60 foreign trading partners.",
-                "Importers face heightened scrutiny under aggressive compliance mandates designed to eradicate supply chain forced labor violations.",
-                "Strategic compliance restructuring requires deep tier-one and tier-two vendor transparency to mitigate border clearance delays.",
-                "Industry stakeholders must rapidly audit sourcing corridors to avoid unexpected penalty assessments and cargo impoundments."
+                "Carriers across transpacific and Asia-Europe corridors are actively pushing for single-digit spot rate increases heading into August.",
+                "Despite lingering overall rate softening, optimistic operators are capitalizing on early peak season demand surges to establish higher floors.",
+                "Strategic capacity management remains the primary mechanism for carriers seeking to offset persistent volume imbalances in key trade lanes.",
+                "Logistics directors must recalibrate quarterly budget forecasts to account for sudden mid-season carrier pricing maneuvers."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC DETENTION FEE RULING",
+            "nextUpTease": "AIR CARGO SURCHARGES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FMC CONTAINER FLUIDITY",
+            "heading": "AIR CARGO FUEL SURCHARGES",
             "points": [
-                "The U.S. Court of Appeals upheld a critical Federal Maritime Commission ruling protecting cargo fluidity mandates.",
-                "Carriers and terminal operators are legally barred from levying punitive detention fees during active port congestion events.",
-                "This regulatory enforcement provides vital financial relief for beneficial cargo owners managing complex terminal bottlenecks.",
-                "Supply chain managers should leverage this judicial precedent to contest legacy demurrage charges across major ports."
+                "Long-haul freighter operators have initiated bi-weekly reviews of fuel surcharges following sustained escalations in global jet fuel prices.",
+                "The volatile pricing environment forces carriers to swiftly pass input cost spikes directly downstream to enterprise shippers.",
+                "Air freight rate indexes reflect upward pressure even as broader geopolitical friction introduces severe operational unpredictability.",
+                "Supply chain planners must integrate dynamic fuel adjustment factors into all forward-looking air allocation contracts."
             ],
             "imageUrl": "",
-            "nextUpTease": "BORDER TRAILER CONTRABAND",
+            "nextUpTease": "BROKER LIQUIDITY PRESSURES",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "BORDER TRAILER CONTRABAND",
+            "heading": "BROKER NEGLIGENT LIABILITY",
             "points": [
-                "Customs and Border Protection officers seized millions in illicit narcotics hidden beneath commercial vehicle trailer floorboards.",
-                "Advanced X-ray imaging technology and canine units successfully identified sophisticated structural anomalies at the border.",
-                "Cross-border motor carriers face severe federal penalties, potential vehicle forfeitures, and protracted logistics audits.",
-                "Logistics providers must implement rigorous equipment inspection protocols before dispatching international freight loads."
+                "Major third-party logistics providers are aggressively appealing massive legal liability verdicts that threaten traditional broker business models.",
+                "Recent judicial interpretations significantly heighten vetting requirements and vicarious liability exposure for freight intermediaries.",
+                "Industry stakeholders are overhauling carrier onboarding and safety compliance protocols to mitigate catastrophic legal vulnerabilities.",
+                "Shippers should anticipate tighter capacity screening and potential rate adjustments as brokers absorb rising insurance and compliance overhead."
             ],
             "imageUrl": "",
-            "nextUpTease": "RED SEA SHIPPING AVOIDANCE",
+            "nextUpTease": "MILITARY HIRING PIPELINES",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RED SEA ROUTE DIVERSION",
+            "heading": "MILITARY TRUCKING PIPELINE",
             "points": [
-                "Persistent militant threats in the Bab el-Mandeb strait continue to force international shipowners around Africa.",
-                "Avoiding the Suez Canal chokepoint significantly extends transit times and depletes global ocean carrier schedule reliability.",
-                "Supply chain planners must factor in prolonged maritime journey durations when managing seasonal inventory replenishments.",
-                "Extended routing economics will sustain elevated ocean freight baseline rates throughout the upcoming peak shipping cycle."
+                "Federal initiatives have officially launched structured transition pathways to channel exiting military personnel directly into commercial driving roles.",
+                "The interagency campaign aims to compress the administrative runway required for veterans to secure commercial driver licensing credentials.",
+                "Fleet operators are closely aligning recruitment frameworks with national defense programs to alleviate persistent driver shortages.",
+                "Expanded talent access will help stabilize domestic over-the-road capacity despite ongoing regulatory and compliance hurdles."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL AI WEATHER REROUTING",
+            "nextUpTease": "RAILROAD PERFORMANCE METRICS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "CLASS I RAILROAD VELOCITY",
+            "points": [
+                "Recent operational dashboards highlight fluctuating speed and dwell metrics across major North American Class I rail networks.",
+                "Intermodal volume gains require network operators to balance localized yard congestion with sustained mainline velocity.",
+                "Shippers utilizing rail integration must monitor corridor-specific transit times to prevent downstream inventory bottlenecks.",
+                "Enhanced operational visibility tools are proving essential for maintaining schedule integrity across complex multi-modal routes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AUTOMATED YARD OPERATIONS",
             "tags": [
                 "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
@@ -75,33 +92,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "RETAIL AI WEATHER REROUTING",
-            "points": [
-                "Major retail enterprises are deploying predictive artificial intelligence to automate supply chain severe weather mitigation.",
-                "Algorithms dynamically reroute inventory shipments and reposition regional distribution assets ahead of meteorological disruptions.",
-                "Proactive technological intervention minimizes retail stockouts and protects last-mile delivery network operational efficiency.",
-                "Supply chain organizations are increasingly prioritizing autonomous risk-management software to safeguard fragile inventory flow."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INTERMODAL VOLUME REBOUND",
-            "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "INTERMODAL VOLUME REBOUND",
+            "heading": "AUTOMATED YARD SYSTEMS",
             "points": [
-                "Total intermodal container volumes registered robust double-digit annual gains during the late-summer shipping window.",
-                "Shippers are aggressively shifting cargo from congested over-the-road trucking lanes onto efficient rail networks.",
-                "Rail operators are expanding service routes to capture surging inland freight demand from coastal container ports.",
-                "Intermodal capacity expansion provides a reliable buffer against localized spot truckload rate volatility."
+                "Major distribution networks are aggressively deploying artificial intelligence and robotics to overhaul complex yard management workflows.",
+                "Advanced automation platforms drastically reduce trailer turnaround times and eliminate critical throughput chokepoints at inbound docks.",
+                "Facility managers are leveraging real-time data orchestration to optimize asset utilization and minimize labor resource constraints.",
+                "Wide-scale adoption of smart yard technologies will redefine warehouse efficiency benchmarks across high-volume distribution centers."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ TRADE FRAUD RECOVERIES",
+            "nextUpTease": "CUSTOMS COMPLIANCE AUDITS",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "DOJ TRADE FRAUD RECOVERIES",
+            "heading": "TRADE FRAUD ENFORCEMENT",
             "points": [
-                "The Department of Justice Trade Fraud Task Force has officially surpassed $1 billion in financial penalties and recoveries.",
-                "Federal investigators are heavily targeting customs under-valuation, duty evasion, and fraudulent country-of-origin declarations.",
-                "Importers must maintain flawless digital paper trails and verified customs brokerage records to withstand scrutiny.",
-                "Corporate legal teams are urging immediate compliance audits across all inbound international trade documentation."
+                "Federal trade fraud task forces have crossed major financial recovery milestones through aggressive cross-border enforcement actions.",
+                "Importers and logistics partners face heightened scrutiny regarding customs valuation, origin documentation, and compliance rigor.",
+                "Regulatory bodies are utilizing advanced data analytics to target illicit trade practices and enforce strict supply chain transparency.",
+                "Corporate compliance teams must institute rigorous audit trails to withstand ongoing regulatory enforcement and prevent severe penalties."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
