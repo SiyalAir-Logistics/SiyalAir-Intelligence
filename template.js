@@ -1,39 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT STRATEGIC",
+        "titleWhite": "GLOBAL FREIGHT ARCHITECTURE",
         "titleBlue": "SHIFTS",
-        "footerSummary": "Legal liabilities, regulatory tariff enforcement, and inland climate disruptions escalate operational friction across global freight networks."
+        "footerSummary": "Rapid shifts in ocean carrier detention rules, tariff enforcement, broker liability, and inland waterway droughts threaten global cargo execution."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "C.H. ROBINSON: $604M VERDICT IMPACT",
+            "heading": "FMC: DETENTION FEE RULE UPHELD",
             "points": [
-                "C.H. Robinson was hit with a $604 million adverse trial verdict centered on negligent carrier selection standards.",
-                "The severe financial ruling intensifies vicarious liability risks for freight brokerages and 3PL intermediaries nationwide.",
-                "Legal precedents established by this case force brokers to overhaul carrier vetting protocols and safety monitoring systems.",
-                "Shippers and freight intermediaries will likely face elevated insurance premiums and stricter contracting requirements across modes."
+                "The US Court of Appeals upheld the FMC decision mandating that detention and demurrage fees must actively incentivize freight fluidity.",
+                "Ocean carriers and terminal operators face strict financial scrutiny over non-fluid container billing practices across all US ports.",
+                "This judicial confirmation solidifies OSRA 2022 regulatory enforcement, curbing deceptive ocean freight billing structures.",
+                "Importers and NVOCCs gain major leverage to dispute non-operational demurrage fees during severe port congestion events."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: DETENTION FEE FLUIDITY RULE",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "FMC: DETENTION FEE FLUIDITY RULE",
-            "points": [
-                "The US Court of Appeals for the D.C. Circuit upheld the Federal Maritime Commission decision on detention billing.",
-                "Ocean carriers cannot assess detention and demurrage penalties unless charges directly encourage freight fluid movement.",
-                "The legal affirmation protects importers and drayage operators from unfair fee structures during port congestion events.",
-                "Global ocean lines must align invoicing practices with OSRA 2022 mandates to maintain regulatory compliance."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "STG LOGISTICS: DRAYAGE SETTLEMENT",
+            "nextUpTease": "USPS: MARKETPLACE RATE ADJUSTMENTS",
             "tags": [
                 "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
@@ -41,33 +24,50 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "STG LOGISTICS: DRAYAGE SETTLEMENT",
+            "id": 2,
+            "heading": "USPS: MARKETPLACE RATE ADJUSTMENTS",
             "points": [
-                "STG Logistics resolved a major New Jersey drayage driver misclassification legal action through a cash settlement.",
-                "The resolution follows STG's exit from Chapter 11 bankruptcy as intermodal container markets begin to re-accelerate.",
-                "State enforcement against independent contractor misclassification continues to pressure port drayage operating models.",
-                "Intermodal logistics providers must re-evaluate driver compensation strategies to insulate supply chain operations from liability."
+                "The US Postal Service implemented Ground Advantage rate increases alongside new hazmat noncompliance penalties for ecommerce platforms.",
+                "Lightweight shipping costs to rural zones increase by two to three dollars, altering marketplace seller logistics margins.",
+                "Strict hazardous material identification enforces tighter automated screening across all regional sorting networks.",
+                "High-volume marketplace sellers must reconfigure automated rate-shopping rules to bypass unexpected carrier noncompliance surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: SECTION 301 TARIFF EXPANSION",
+            "nextUpTease": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
+            "points": [
+                "A jury rendered a $604 million negligent carrier selection verdict against C.H. Robinson, driving systemic legal precedent.",
+                "Freight brokerages now face compounding vicarious liability risks and potential surges in carrier vetting insurance premiums.",
+                "The decision forces freight intermediaries to implement rigorous algorithmic safety vetting before dispatching motor carriers.",
+                "Freight brokers will likely restrict spot capacity access to mitigate catastrophic liability exposure across highway networks."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USTR: FORCED LABOR TARIFF EXPANSION",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
+            "heading": "USTR: FORCED LABOR TARIFF EXPANSION",
             "points": [
-                "The Office of the United States Trade Representative announced forced labor tariffs targeting sixty trading partner nations.",
-                "Action was taken under Section 301 of the Trade Act of 1974 following the expiration of temporary Section 122 duties.",
-                "Expanded import compliance scrutiny requires detailed supply chain mapping and forced labor risk mitigation protocols.",
-                "Importers must prepare for elevated duty structures and increased customs audit activity at major US entry ports."
+                "The USTR initiated Section 301 tariffs targeting 60 trading partners as temporary Section 122 emergency measures expire.",
+                "Global supply chains face immediate compliance shifts and heightened import duties across affected manufacturing origins.",
+                "Customs regulatory enforcement now focuses heavily on supply chain origin tracing and labor compliance documentation.",
+                "Importers must urgently audit tier-two and tier-three suppliers to prevent catastrophic port-of-entry cargo seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "RHINE NAVIGATION: LOW WATER BOTTLENECKS",
+            "nextUpTease": "FEDEX: AUTONOMOUS HUB DEPLOYMENT",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -76,34 +76,34 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "RHINE NAVIGATION: LOW WATER BOTTLENECKS",
+            "heading": "FEDEX: AUTONOMOUS HUB DEPLOYMENT",
             "points": [
-                "Crucial inland waterway transit along the Rhine River faces severe disruption due to near-record low water levels.",
-                "Barge operators in Northern Europe are drastically limiting draft loads to avoid grounding along major shallow choke points.",
-                "Ocean carriers like MSC are establishing alternative rail and road freight routing to circumvent inland barge bottlenecks.",
-                "European industrial supply chains face increased freight rates and transit delays for raw materials and containerized cargo."
+                "FedEx expanded its partnership with Dexterity to deploy AI-driven autonomous trailer loading systems at its Maryland hub.",
+                "Robotic loading systems optimize parcel fill rates while significantly reducing manual handling bottlenecks at central distribution hubs.",
+                "This operational scaling shifts parcel processing toward fully automated, high-density sortation architectures.",
+                "Enterprise carriers will accelerate robotic integration across hub networks to combat ongoing skilled labor shortages."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: AUTONOMOUS TRAILER LOADING",
+            "nextUpTease": "RHINE WATERWAY: BARGE DISRUPTIONS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FEDEX: AUTONOMOUS TRAILER LOADING",
+            "heading": "RHINE WATERWAY: BARGE DISRUPTIONS",
             "points": [
-                "FedEx expanded its pilot deployment of Dexterity autonomous trailer loading systems at its Hagerstown Maryland hub.",
-                "The advanced robotics rollout aims to optimize dock throughput and streamline parcel handling across regional operations.",
-                "Robotic load systems address persistent warehouse labor constraints while accelerating trailer turnaround velocity.",
-                "Widespread automation adoption in parcel hubs marks a operational shift toward software-driven logistics networks."
+                "Blistering heatwaves dropped European Rhine River water levels near record lows, threatening critical inland barge transit routes.",
+                "Barge operators are enforcing severe shallow-water surcharges and drastically restricting vessel load capacities along key chokepoints.",
+                "Chemical and industrial shippers are actively rerouting container volumes toward congested regional rail and truck networks.",
+                "Central European inland freight rates will spike as modal capacity bottlenecks escalate throughout late summer."
             ],
             "imageUrl": "",
             "nextUpTease": "DOT: FREEDOM HAULERS INITIATIVE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
@@ -112,10 +112,10 @@ const dailyData = {
             "id": 7,
             "heading": "DOT: FREEDOM HAULERS INITIATIVE",
             "points": [
-                "The US Department of Transportation launched the Freedom Haulers initiative to recruit military veterans into trucking.",
-                "The interagency program streamlines military CDL skill conversions while enforcing regulatory rules against non-domiciled drivers.",
-                "Federal support addresses long-term driver shortages by creating structured career pathways into interstate commerce.",
-                "Fleets partnering with federal recruitment pipelines gain access to skilled labor while optimizing compliance standards."
+                "The US Department of Transportation launched 'Freedom Haulers' to accelerate commercial driver licensing for military veterans.",
+                "The initiative streamlines veteran recruitment to help relieve long-haul driver capacity deficits across domestic lanes.",
+                "Federal interagency alignment pairs driver recruitment pushes with strict enforcement against non-domiciled driver violations.",
+                "For-hire motor carriers will gain access to a highly trained labor pool to stabilize long-term fleet utilization."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",

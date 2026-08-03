@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT STRATEGIC SHIFTS",
+        "hookTitle": "GLOBAL FREIGHT ARCHITECTURE SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "C.H. ROBINSON: $604M VERDICT IMPACT",
-                "teaserTitle": "FMC: DETENTION FEE FLUIDITY RULE",
+                "headline": "FMC: DETENTION FEE RULE UPHELD",
+                "teaserTitle": "USPS: MARKETPLACE RATE ADJUSTMENTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "C.H. Robinson faces a six-hundred-four million dollar negligent hiring verdict, triggering broker liability reform across US logistics networks."
+                "narration_line": "US federal courts upheld FMC rules requiring detention fees to directly promote port freight fluidity."
             },
             {
                 "slide_index": 2,
-                "headline": "FMC: DETENTION FEE FLUIDITY RULE",
-                "teaserTitle": "STG LOGISTICS: DRAYAGE SETTLEMENT",
+                "headline": "USPS: MARKETPLACE RATE ADJUSTMENTS",
+                "teaserTitle": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "US federal courts upheld FMC rulings requiring detention and demurrage fees to directly incentivize ocean freight fluidity."
+                "narration_line": "USPS introduced Ground Advantage rate hikes and hazmat noncompliance penalties for marketplace sellers."
             },
             {
                 "slide_index": 3,
-                "headline": "STG LOGISTICS: DRAYAGE SETTLEMENT",
-                "teaserTitle": "USTR: SECTION 301 TARIFF EXPANSION",
+                "headline": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
+                "teaserTitle": "USTR: FORCED LABOR TARIFF EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "STG Logistics settled driver misclassification claims in New Jersey, setting a regulatory precedent for drayage carrier labor structures."
+                "narration_line": "A six hundred million dollar verdict against C.H. Robinson drastically elevates freight broker negligent hiring risks."
             },
             {
                 "slide_index": 4,
-                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "RHINE NAVIGATION: LOW WATER BOTTLENECKS",
+                "headline": "USTR: FORCED LABOR TARIFF EXPANSION",
+                "teaserTitle": "FEDEX: AUTONOMOUS HUB DEPLOYMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The USTR expanded forced-labor Section 301 tariffs across sixty trading nations following the expiration of temporary Section 122 duties."
+                "narration_line": "USTR moves ahead with Section 301 tariffs on sixty trading partners as emergency provisions lapse."
             },
             {
                 "slide_index": 5,
-                "headline": "RHINE NAVIGATION: LOW WATER BOTTLENECKS",
-                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING",
+                "headline": "FEDEX: AUTONOMOUS HUB DEPLOYMENT",
+                "teaserTitle": "RHINE WATERWAY: BARGE DISRUPTIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Critical low water levels on the Rhine River threaten European inland barge capacity, prompting carriers to deploy alternative rail routing."
+                "narration_line": "FedEx expands AI autonomous trailer loading in Maryland to automate high-density hub parcel operations."
             },
             {
                 "slide_index": 6,
-                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING",
+                "headline": "RHINE WATERWAY: BARGE DISRUPTIONS",
                 "teaserTitle": "DOT: FREEDOM HAULERS INITIATIVE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FedEx expanded its autonomous robotic trailer loading deployment with Dexterity to optimize throughput at its Maryland hub."
+                "narration_line": "Critical Rhine water levels near record lows force European inland barge load restrictions and modal shifts."
             },
             {
                 "slide_index": 7,
                 "headline": "DOT: FREEDOM HAULERS INITIATIVE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The US Department of Transportation launched the Freedom Haulers initiative to streamline commercial driver licensing for transitioning military veterans."
+                "narration_line": "The US DOT launched Freedom Haulers to transition military veterans into commercial truck driving careers."
             },
             {
                 "slide_index": 8,
