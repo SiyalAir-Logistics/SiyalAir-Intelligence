@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT RATE VOLATILITY",
+        "hookTitle": "GLOBAL FREIGHT SHOCK SURGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AIR CARGO SURCHARGE SURGE",
-                "teaserTitle": "CONTAINER SCHEDULE RELIABILITY",
+                "headline": "THE LOADSTAR: AIR CARGO DEFIES GRAVITY",
+                "teaserTitle": "CMA CGM WITHDRAWS BID",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Airlines implement strict two-week reviews for jet fuel surcharges as market volatility accelerates."
+                "narration_line": "Air cargo traffic defies macroeconomic sell-offs as high-value artificial intelligence shipments drive robust demand across transpacific lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "CONTAINER SCHEDULE DISRUPTIONS",
-                "teaserTitle": "OWNED TONNAGE FLEET SHIFT",
+                "headline": "THE LOADSTAR: CMA CGM PULLS BACK FROM RAIL",
+                "teaserTitle": "SUPPLY CHAIN DIVE TARIFFS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Strait of Hormuz closures force sweeping service changes that degrade container schedule reliability."
+                "narration_line": "Cma cgm withdraws from rail acquisitions, shifting carrier investment focus entirely toward owned maritime tonnage."
             },
             {
                 "slide_index": 3,
-                "headline": "OWNED TONNAGE FLEET SHIFT",
-                "teaserTitle": "CAR-CARRIER RATE SURGE",
+                "headline": "SUPPLY CHAIN DIVE: AMAZON REFUND PROTOCOLS",
+                "teaserTitle": "TRANSPORT TOPICS DTNA PLANT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Major container lines accelerate a decisive structural shift away from chartered vessel tonnage."
+                "narration_line": "Amazon issues targeted tariff refunds while e-commerce merchants navigate complex federal trade compliance shifts."
             },
             {
                 "slide_index": 4,
-                "headline": "CAR-CARRIER RATE SURGE",
-                "teaserTitle": "RAIL FREIGHT BID WITHDRAWAL",
+                "headline": "TRANSPORT TOPICS: DTNA SWAN ISLAND CLOSURE",
+                "teaserTitle": "FREIGHTWAVES C.H. ROBINSON APPEAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Electric vehicle export demand pushes modern car-carrier charter rates toward record peaks."
+                "narration_line": "Daimler trucks schedules plant closures, forcing regional adjustments in heavy commercial vehicle manufacturing capacity."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL FREIGHT BID WITHDRAWAL",
-                "teaserTitle": "AUTOMATED TRAILER LOADING",
+                "headline": "FREIGHTWAVES: BROKERAGE LIABILITY VERDICT",
+                "teaserTitle": "CNBC AIRFARE AND FUEL PRESSURES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "CMA CGM confirms its strategic withdrawal from the bidding process for French rail freight."
+                "narration_line": "C.H. Robinson vows to appeal a massive six hundred million dollar negligent hiring verdict shaking third-party logistics."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOMATED TRAILER LOADING",
-                "teaserTitle": "RAILWAY OPERATIONAL METRICS",
+                "headline": "CNBC: FUEL COSTS AND MACRO PRESSURES",
+                "teaserTitle": "INBOUND LOGISTICS TASK FORCE SURGE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FedEx expands its advanced autonomous trailer loading pilot program to major regional facilities."
+                "narration_line": "Fluctuating fuel prices and manufacturing inflation compel carriers to update operational surcharges bi-weekly."
             },
             {
                 "slide_index": 7,
-                "headline": "RAILWAY OPERATIONAL METRICS",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "INBOUND LOGISTICS: TRADE FRAUD CRACKDOWN",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Class I railroad dashboards track critical network velocity and terminal dwell time metrics."
+                "narration_line": "Federal trade fraud task forces surpass one billion in recoveries, demanding rigorous customs compliance."
             },
             {
                 "slide_index": 8,

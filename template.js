@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT RATE",
-        "titleBlue": "VOLATILITY",
-        "footerSummary": "Airlines and ocean carriers aggressively hike surcharges as Middle East disruptions and surging fuel costs squeeze margins."
+        "titleWhite": "GLOBAL FREIGHT SHOCK",
+        "titleBlue": "SURGE",
+        "footerSummary": "Logistics networks brace for acute capacity tightening as fuel volatility, carrier restructuring, and regulatory shifts compound cross-border friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AIR CARGO SURCHARGE SURGE",
+            "heading": "THE LOADSTAR: AIR CARGO DEFIES GRAVITY",
             "points": [
-                "International carriers implement strict two-week reviews for jet fuel surcharges as market volatility accelerates.",
-                "Operating margins face severe headwinds from rising energy inputs that directly inflate long-haul freighter economics.",
-                "Carriers aggressively pass spot price spikes onto shippers to protect against widening cost imbalances.",
-                "Supply chain planners must immediately audit air freight line items to mitigate sudden budget variances."
+                "Air cargo traffic demonstrates extraordinary resilience against broader macroeconomic sell-offs affecting technology and chip sectors globally.",
+                "High-value artificial intelligence related equipment shipments continue driving robust demand across key transpacific trade lanes.",
+                "Forwarders report sustained utilization rates despite market turbulence, maintaining elevated pricing baselines for urgent capacity.",
+                "Industry analysts predict strong fourth-quarter mini-peak conditions as expedited requirements outpace seasonal volume declines."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINER SCHEDULE RELIABILITY",
+            "nextUpTease": "CMA CGM WITHDRAWS BID",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CONTAINER SCHEDULE DISRUPTIONS",
+            "heading": "THE LOADSTAR: CMA CGM PULLS BACK FROM RAIL",
             "points": [
-                "Strait of Hormuz closure forces sweeping service changes that degrade global container schedule reliability.",
-                "Average vessel delay metrics tick upward across major East Coast and European maritime trade lanes.",
-                "Primary carriers manage route alterations better than smaller operators, widening service tier gaps.",
-                "Importers must buffer lead times by up to ten days to account for prolonged maritime transit disruptions."
+                "CMA CGM officially confirms its strategic withdrawal from the competitive bidding process for a stake in Rail Logistics Europe.",
+                "The decision alters European intermodal investment dynamics, impacting France's primary freight network development plans.",
+                "Major ocean carriers increasingly favor direct investments in owned vessel tonnage over complex multi-modal rail acquisitions.",
+                "Stakeholders anticipate shifted capital allocation strategies toward core maritime assets amidst ongoing regulatory pressures."
             ],
             "imageUrl": "",
-            "nextUpTease": "OWNED TONNAGE FLEET SHIFT",
+            "nextUpTease": "SUPPLY CHAIN DIVE TARIFFS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OWNED TONNAGE FLEET SHIFT",
+            "heading": "SUPPLY CHAIN DIVE: AMAZON REFUND PROTOCOLS",
             "points": [
-                "The world's largest container shipping lines accelerate a decisive structural shift away from chartered tonnage.",
-                "Major ocean operators prioritize fully owned vessels to maintain tight operational control over capacity.",
-                "Charter market exposures are aggressively trimmed as carrier networks fortify against macroeconomic volatility.",
-                "Non-vessel-operating common carriers should anticipate tighter slot allocations on core arterial loops."
+                "Amazon announces plans to issue targeted tariff refunds to select consumer segments under limited operational circumstances.",
+                "The policy adjustment addresses ongoing complexities surrounding federal trade actions and second-term tariff implementations.",
+                "E-commerce merchants navigate shifting compliance requirements as marketplace operators recalibrate pricing and fee structures.",
+                "Financial analysts project increased scrutiny on retail import margins as additional trade restrictions take effect."
             ],
             "imageUrl": "",
-            "nextUpTease": "CAR-CARRIER RATE SURGE",
+            "nextUpTease": "TRANSPORT TOPICS DTNA PLANT",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CAR-CARRIER RATE SURGE",
+            "heading": "TRANSPORT TOPICS: DTNA SWAN ISLAND CLOSURE",
             "points": [
-                "Surging global demand for Chinese electric vehicles drives modern car-carrier charter rates toward record peaks.",
-                "Daily fixture rates approach the critical psychological threshold of one hundred thousand dollars per vessel.",
-                "Specialized maritime asset scarcity intensifies competition among major automotive manufacturing exporters.",
-                "Finished vehicle logistics programs must secure long-term capacity commitments well ahead of peak seasons."
+                "Daimler Trucks North America announces the definitive shuttering of its historic Portland manufacturing facility by October.",
+                "The plant closure marks a significant structural realignment of heavy-duty commercial vehicle production capacity in the West.",
+                "Supply chain planners must account for localized manufacturing shifts and extended lead times for new equipment deliveries.",
+                "Industry labor representatives evaluate regional economic impacts as production consolidates across alternative operational hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL FREIGHT BID WITHDRAWAL",
+            "nextUpTease": "FREIGHTWAVES C.H. ROBINSON APPEAL",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL FREIGHT BID WITHDRAWAL",
+            "heading": "FREIGHTWAVES: BROKERAGE LIABILITY VERDICT",
             "points": [
-                "CMA CGM officially confirms its strategic withdrawal from the competitive bidding process for Fret SNCF.",
-                "The corporate retreat alters the competitive landscape for France's largest rail logistics and freight network.",
-                "Private-public rail restructuring initiatives face renewed capital deployment hurdles across European corridors.",
-                "Intermodal logistics operators must reassess continental rail partnership models following the sudden exit."
+                "C.H. Robinson formally vows to appeal a massive landmark $604 million negligent hiring and vicarious liability verdict.",
+                "The legal challenge sends shockwaves through the third-party logistics sector, forcing immediate reviews of carrier vetting protocols.",
+                "Brokerage stocks experience heightened volatility as risk management standards come under intense judicial examination.",
+                "Industry experts recommend tightening compliance frameworks to mitigate exposure to escalating catastrophic litigation claims."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATED TRAILER LOADING",
+            "nextUpTease": "CNBC AIRFARE AND FUEL PRESSURES",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AUTOMATED TRAILER LOADING",
+            "heading": "CNBC: FUEL COSTS AND MACRO PRESSURES",
             "points": [
-                "FedEx expands its advanced autonomous trailer loading pilot program to high-volume regional hub facilities.",
-                "Robotic loading systems reduce manual labor dependencies while significantly accelerating dock throughput speeds.",
-                "Facility automation capital expenditures yield measurable improvements in outbound trailer space utilization.",
-                "Warehouse operations managers should evaluate scalable robotics integrations to combat chronic labor constraints."
+                "Global freight markets react swiftly as fluctuating crude oil prices and geopolitical tensions impact carrier operational expenses.",
+                "Manufacturing surveys indicate rising inflationary pressures originating from raw material costs and transportation bottlenecks.",
+                "Airlines and ocean carriers aggressively review fuel surcharges on a bi-weekly basis to protect operating margins.",
+                "Supply chain leaders implement dynamic pricing models to absorb sudden energy market fluctuations without stalling throughput."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAY OPERATIONAL METRICS",
+            "nextUpTease": "INBOUND LOGISTICS TASK FORCE SURGE",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAILWAY OPERATIONAL METRICS",
+            "heading": "INBOUND LOGISTICS: TRADE FRAUD CRACKDOWN",
             "points": [
-                "Class I railroad dashboards track critical velocity, dwell times, and active car counts across networks.",
-                "Operational efficiency metrics indicate stable baseline performance despite localized intermodal volume gains.",
-                "Network fluidity remains a primary focus for freight stakeholders managing cross-country inventory flows.",
-                "Supply chain executives must monitor weekly rail performance indicators to preempt terminal bottlenecks."
+                "The Department of Justice Trade Fraud Task Force crosses the $1 billion milestone in civil recoveries and penalties.",
+                "Federal enforcement agencies intensify data-driven audits targeting customs compliance, misclassification, and evasion.",
+                "Importers face unprecedented regulatory scrutiny requiring rigorous documentation and advanced recordkeeping systems.",
+                "Corporate legal teams accelerate internal audits to ensure total alignment with modernized cross-border trade restrictions."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
