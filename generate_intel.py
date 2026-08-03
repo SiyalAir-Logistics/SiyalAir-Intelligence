@@ -103,22 +103,12 @@ def fetch_and_clean():
 # Purpose: Maintains tracking state files and ensures sequential, logical execution updates.
 # ==============================================================================
 def update_tracker_files():
-    """Updates bg_tracker.txt and follow_tracker.txt atomically to ensure sequential tracking."""
-    timestamp = time.strftime("%Y-%m-%d %H:%M:%S UTC", time.gmtime())
-    
-    try:
-        with open("bg_tracker.txt", "w", encoding="utf-8") as f:
-            f.write(f"Automated Hourly Update & Dynamic Rotation: {timestamp}")
-        log("SUCCESS", "Updated bg_tracker.txt successfully.")
-    except Exception as e:
-        log("WARNING", f"Failed to update bg_tracker.txt: {str(e)}")
-
-    try:
-        with open("follow_tracker.txt", "w", encoding="utf-8") as f:
-            f.write(f"Automated Hourly Update & Dynamic Rotation: {timestamp}")
-        log("SUCCESS", "Updated follow_tracker.txt successfully.")
-    except Exception as e:
-        log("WARNING", f"Failed to update follow_tracker.txt: {str(e)}")
+    """
+    MODIFIED: Removed string-timestamp overwriting logic to preserve integer counters 
+    expected by frontend engine.js (preventing NaN parsing failures).
+    """
+    log("INFO", "Tracker file updates bypassed in Python; controlled via workflow increment logic.")
+    pass
 
 # ==============================================================================
 # [ MODULE 4: LLM PIPELINE & SEQUENTIAL ATOMIC SYNCHRONIZATION ]
