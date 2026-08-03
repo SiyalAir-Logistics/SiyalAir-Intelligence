@@ -22,12 +22,12 @@ const log = (level, message) => {
 window.onload = async () => {
     log('INFO', 'Initializing Unified Video Template Engine lifecycle...');
 
-    // Load primary daily template payload with cache-busting
+    // Load primary daily template payload with cache-busting (Checking root directory first, then local fallback)
     const script = document.createElement('script');
-    script.src = 'template.js?t=' + Date.now();
+    script.src = '../template.js?t=' + Date.now();
 
     script.onload = async () => {
-        log('SUCCESS', 'Primary data payload (template.js) loaded successfully.');
+        log('SUCCESS', 'Primary data payload (template.js) loaded successfully from root.');
 
         // Convert background image to Base64 to bypass CORS html2canvas restrictions
         await fixBackgroundCORS();
@@ -50,7 +50,32 @@ window.onload = async () => {
     };
 
     script.onerror = () => {
-        log('ERROR', 'Critical System Fault: Failed to load template.js payload. Check network path.');
+        // Fallback script load for local root context execution if Social_Media nested path fails
+        const fallbackScript = document.createElement('script');
+        fallbackScript.src = 'template.js?t=' + Date.now();
+        
+        fallbackScript.onload = async () => {
+            log('SUCCESS', 'Primary data payload (template.js) loaded successfully from local directory.');
+            await fixBackgroundCORS();
+            if (typeof dailyData !== 'undefined') {
+                initTabs();
+                const mainBtn = document.querySelector('.tab-btn');
+                if (mainBtn) switchSlide('main', mainBtn);
+            }
+            const dlBtn = document.getElementById('download-active');
+            if (dlBtn) {
+                dlBtn.onclick = (e) => {
+                    e.preventDefault();
+                    downloadAllSlides();
+                };
+            }
+        };
+
+        fallbackScript.onerror = () => {
+            log('ERROR', 'Critical System Fault: Failed to load template.js payload across all paths.');
+        };
+
+        document.head.appendChild(fallbackScript);
     };
 
     document.head.appendChild(script);
@@ -59,8 +84,8 @@ window.onload = async () => {
 // ==============================================================================
 // [ MODULE 2: CORS & BACKGROUND IMAGE BASE64 CONVERTER ]
 // Purpose: Converts background image assets into Base64 DataURLs to prevent
-//            html2canvas tainted canvas export errors. Includes live tracker fetch
-//            with robust file path resolution fallback for automated workflows.
+//          html2canvas tainted canvas export errors. Includes live tracker fetch
+//          with robust file path resolution fallback for automated workflows.
 // ==============================================================================
 async function fixBackgroundCORS() {
     const canvas = document.getElementById('post-canvas');
@@ -68,22 +93,21 @@ async function fixBackgroundCORS() {
 
     let bgIndex = 1;
 
-    // Fetch live tracker to determine which background image rotation should load
+    // Fetch live tracker to determine which background image rotation should load (Root first, then parent)
     try {
-        const trackerRes = await fetch('../bg_tracker.txt?t=' + Date.now());
-        if (trackerRes.ok) {
-            const text = await trackerRes.text();
+        const rootTrackerRes = await fetch('../bg_tracker.txt?t=' + Date.now());
+        if (rootTrackerRes.ok) {
+            const text = await rootTrackerRes.text();
             const parsedNum = parseInt(text.trim(), 10);
             if (!isNaN(parsedNum) && parsedNum > 0) {
                 bgIndex = parsedNum;
             }
         }
     } catch (e) {
-        // Fallback check for local root path if relative parent fails
         try {
-            const rootTrackerRes = await fetch('bg_tracker.txt?t=' + Date.now());
-            if (rootTrackerRes.ok) {
-                const text = await rootTrackerRes.text();
+            const trackerRes = await fetch('bg_tracker.txt?t=' + Date.now());
+            if (trackerRes.ok) {
+                const text = await trackerRes.text();
                 const parsedNum = parseInt(text.trim(), 10);
                 if (!isNaN(parsedNum) && parsedNum > 0) {
                     bgIndex = parsedNum;
@@ -94,12 +118,12 @@ async function fixBackgroundCORS() {
         }
     }
 
-    // Attempt path resolutions to securely load background regardless of execution context depth
+    // Attempt path resolutions to securely load background regardless of execution context depth (Root assets/ first)
     const possibleUrls = [
-        `../yt_backgrounds/backgroundyt${bgIndex}.png`,
-        `yt_backgrounds/backgroundyt${bgIndex}.png`,
+        `../assets/background${bgIndex}.png`,
         `assets/background${bgIndex}.png`,
-        `../assets/background${bgIndex}.png`
+        `../yt_backgrounds/backgroundyt${bgIndex}.png`,
+        `yt_backgrounds/backgroundyt${bgIndex}.png`
     ];
 
     let loadedSuccessfully = false;
@@ -162,7 +186,7 @@ async function fallbackDefaultBackground(canvas) {
 // ==============================================================================
 // [ MODULE 3: DYNAMIC UI NAVIGATION & DOM TAB CONTROLLER ]
 // Purpose: Generates interactive tab controls corresponding to main, sub-slides,
-//            and CTA callout slides based on dailyData payload.
+//          and CTA callout slides based on dailyData payload.
 // ==============================================================================
 function initTabs() {
     const tabContainer = document.getElementById('slide-tabs');
@@ -199,7 +223,7 @@ function initTabs() {
 // ==============================================================================
 // [ MODULE 4: SLIDE RENDERING, TYPOGRAPHY AUTO-FIT & FORMATTING ]
 // Purpose: Dynamically populates DOM slide layouts, formats headings with blue accents,
-//            and auto-scales text font-size to avoid visual overflowing.
+//          and auto-scales text font-size to avoid visual overflowing.
 // ==============================================================================
 function fitText(element, maxHeight, maxWidth) {
     if (!element) return;
@@ -264,9 +288,9 @@ async function switchSlide(id, element) {
 
         let followIndex = 1;
         try {
-            const trackerRes = await fetch('../follow_tracker.txt?t=' + Date.now());
-            if (trackerRes.ok) {
-                const text = await trackerRes.text();
+            const rootTrackerRes = await fetch('../follow_tracker.txt?t=' + Date.now());
+            if (rootTrackerRes.ok) {
+                const text = await rootTrackerRes.text();
                 const parsedNum = parseInt(text.trim(), 10);
                 if (!isNaN(parsedNum) && parsedNum > 0) {
                     followIndex = parsedNum;
@@ -274,9 +298,9 @@ async function switchSlide(id, element) {
             }
         } catch (e) {
             try {
-                const rootTrackerRes = await fetch('follow_tracker.txt?t=' + Date.now());
-                if (rootTrackerRes.ok) {
-                    const text = await rootTrackerRes.text();
+                const trackerRes = await fetch('follow_tracker.txt?t=' + Date.now());
+                if (trackerRes.ok) {
+                    const text = await trackerRes.text();
                     const parsedNum = parseInt(text.trim(), 10);
                     if (!isNaN(parsedNum) && parsedNum > 0) {
                         followIndex = parsedNum;
@@ -292,7 +316,7 @@ async function switchSlide(id, element) {
             `followup/slide9-${followIndex}.png`
         ];
 
-        let resolvedFollowUrl = followAssetUrls[1];
+        let resolvedFollowUrl = followAssetUrls[0];
         for (const fUrl of followAssetUrls) {
             try {
                 const res = await fetch(fUrl + '?t=' + Date.now());
@@ -397,7 +421,7 @@ async function downloadAllSlides() {
 
     if (originalActiveTab) {
         if (originalActiveTab.innerText === 'MAIN') originalId = 'main';
-        else if (originalActiveTab.innerText === 'FOLLOW') originalId = 'follow';
+        else if (originalActiveTab.innerText === 'FOLLOW') originalId = 'FOLLOW';
         else originalId = parseInt(originalActiveTab.innerText.replace('SLIDE-', ''), 10);
     }
 
