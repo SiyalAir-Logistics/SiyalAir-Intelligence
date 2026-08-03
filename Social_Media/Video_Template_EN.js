@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK SHIFTS",
+        "hookTitle": "GLOBAL SUPPLY CHAIN SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LEGAL: BROKER LIABILITY SHIFT",
-                "teaserTitle": "AIR CARGO: SURCHARGE FREQUENCY ACCELERATION",
+                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A landmark legal ruling exposes freight brokers to massive liability, forcing immediate overhauls in carrier safety vetting standards."
+                "narration_line": "The US Trade Representative rolls out Section 301 forced labor tariffs on 60 nations, triggering immediate compliance audits across global networks."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO: SURCHARGE FREQUENCY ACCELERATION",
-                "teaserTitle": "RAILWAYS: CROSS-BORDER CREW MANDATES",
+                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING",
+                "teaserTitle": "MIDDLE EAST: MARITIME CAPE REROUTING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Air freight carriers are accelerating jet fuel surcharge adjustments to bi-weekly cycles to protect operating margins against extreme volatility."
+                "narration_line": "FedEx expands AI autonomous trailer loading robots to streamline warehouse throughput and eliminate critical freight handling bottlenecks."
             },
             {
                 "slide_index": 3,
-                "headline": "RAILWAYS: CROSS-BORDER CREW MANDATES",
-                "teaserTitle": "RETAIL FREIGHT: CONSOLIDATION MODEL SCALE",
+                "headline": "MIDDLE EAST: MARITIME CAPE REROUTING",
+                "teaserTitle": "CSX RAIL: INLAND CORRIDOR EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal regulators are instituting stricter English proficiency mandates for Mexican rail crews operating across international border gateways."
+                "narration_line": "Heightened security risks around the Strait of Hormuz force global ocean carriers to reroute around Africa, extending transit times by two weeks."
             },
             {
                 "slide_index": 4,
-                "headline": "RETAIL FREIGHT: CONSOLIDATION MODEL SCALE",
-                "teaserTitle": "FLEET ELECTRIFICATION: COMMERCIALLY VIABLE SCALING",
+                "headline": "CSX RAIL: INLAND CORRIDOR EXPANSION",
+                "teaserTitle": "USPS: RURAL E-COMMERCE SURCHARGES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Retail supply chains are aggressively scaling inbound freight consolidation strategies to eliminate hidden margin erosion in distribution networks."
+                "narration_line": "CSX launches direct rail service between Indianapolis and Virginia ports, expanding inland intermodal capacity amid rising shipping demand."
             },
             {
                 "slide_index": 5,
-                "headline": "FLEET ELECTRIFICATION: COMMERCIALLY VIABLE SCALING",
-                "teaserTitle": "OCEAN FREIGHT: RELIABILITY INDEX DEGRADE",
+                "headline": "USPS: RURAL E-COMMERCE SURCHARGES",
+                "teaserTitle": "WALMART: AI WEATHER PREDICTIVE ROUTING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Heavy commercial electric truck deployments report high operator satisfaction as fleet electrification shifts from pilot trials to full adoption."
+                "narration_line": "USPS increases lightweight Ground Advantage package rates and adds rural delivery surcharges, raising costs for online marketplace sellers."
             },
             {
                 "slide_index": 6,
-                "headline": "OCEAN FREIGHT: RELIABILITY INDEX DEGRADE",
-                "teaserTitle": "AUTONOMOUS LOGISTICS: DRONE OPERATIONS EXPANSION",
+                "headline": "WALMART: AI WEATHER PREDICTIVE ROUTING",
+                "teaserTitle": "ALABAMA PORT: COLLAPSIBLE CONTAINERS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Ocean container schedule reliability deteriorates globally as vessel delays and rerouting strain terminal operations and intermodal flow."
+                "narration_line": "Walmart leverages real-time artificial intelligence to predict severe weather disruptions and pre-position retail inventory before operational impacts occur."
             },
             {
                 "slide_index": 7,
-                "headline": "AUTONOMOUS LOGISTICS: DRONE OPERATIONS EXPANSION",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "ALABAMA PORT: COLLAPSIBLE CONTAINERS",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Expanded federal regulatory approvals for commercial drone operations are accelerating autonomous deployment in last-mile freight networks."
+                "narration_line": "Alabama Port Authority partners with industrial steelmakers to deploy collapsible containers, drastically lowering empty equipment repositioning overhead."
             },
             {
                 "slide_index": 8,

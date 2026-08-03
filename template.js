@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleWhite": "GLOBAL SUPPLY CHAIN",
         "titleBlue": "SHIFTS",
-        "footerSummary": "Forensic analysis reveals expanding broker liability, dynamic fuel surcharges, and cross-border rail mandates driving heightened risk across global trade lanes."
+        "footerSummary": "New tariff enforcement, Middle East transit bypasses, and parcel surcharges are forcing immediate operational realignments across global freight networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "LEGAL: BROKER LIABILITY SHIFT",
+            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
             "points": [
-                "A landmark $604 million negligent-hiring verdict against C.H. Robinson is redefining freight broker legal responsibilities across domestic transport.",
-                "Third-party logistics providers face immediate exposure to catastrophic injury claims, forcing fundamental adjustments to carrier selection protocols.",
-                "Supply chain legal teams are overhauling automated dispatch filters to strictly verify carrier safety ratings prior to tendering loads.",
-                "Freight brokers failing to execute rigorous carrier vetting risk unprecedented financial damages and operational disruption across North America."
+                "The Office of the United States Trade Representative moves forward with Section 301 forced labor tariffs targeting 60 trading nations.",
+                "Enforcement follows the expiration of Section 122 duties, directly impacting global sourcing networks and forcing immediate supply chain audit adjustments.",
+                "Importers face rising landed costs and elevated customs scrutiny across cross-border manufacturing and apparel channels.",
+                "Stakeholders must re-evaluate primary sourcing hubs and establish stringent compliance verification mechanisms to mitigate exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: SURCHARGE FREQUENCY ACCELERATION",
+            "nextUpTease": "FEDEX: AUTONOMOUS TRAILER LOADING",
             "tags": [
-                "Source: joc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR CARGO: SURCHARGE FREQUENCY ACCELERATION",
+            "heading": "FEDEX: AUTONOMOUS TRAILER LOADING",
             "points": [
-                "International air freight carriers are shifting to bi-weekly jet fuel surcharge adjustments to manage severe price volatility.",
-                "Long-haul freighter operators are passing immediate energy price spikes directly to cargo owners without traditional buffer periods.",
-                "Forwarders must rebuild dynamic pricing algorithms to account for rapid cost fluctuations on transpacific and transatlantic lanes.",
-                "Shippers face unpredictable landed freight costs as airlines prioritize margin defense over stable long-term rate contracts."
+                "FedEx advances testing and expansion of AI-driven autonomous trailer loading robotics to accelerate hub dock throughput.",
+                "Automated loading systems mitigate manual labor bottlenecks while increasing trailer cubic space utilization across high-volume express sorting facilities.",
+                "The technology signals a broader industry transition toward fully automated freight handling and facility workflow modernization.",
+                "Logistics operators adopting autonomous dock automation will secure significant velocity advantages and reduced handling overhead."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAYS: CROSS-BORDER CREW MANDATES",
+            "nextUpTease": "MIDDLE EAST: MARITIME CAPE REROUTING",
             "tags": [
-                "Source: joc.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "RAILWAYS: CROSS-BORDER CREW MANDATES",
+            "heading": "MIDDLE EAST: MARITIME CAPE REROUTING",
             "points": [
-                "Federal regulators are moving to enforce stricter English language proficiency standards for Mexican rail crews operating inside the United States.",
-                "Cross-border interchange operations at major Southern border gateways risk immediate velocity drops during standard crew transitions.",
-                "Class I railroads must revise crew management systems and compliance auditing to prevent regulatory delays at international border points.",
-                "Supply chain networks dependent on North American rail integration face potential transit time extensions and border congestion."
+                "Persistent security risks around the Strait of Hormuz and Bab el-Mandeb force major ocean carriers to divert vessels around Africa.",
+                "The extended transit routes add 10 to 14 days to global voyages, driving bunker fuel consumption and elevating spot container rates.",
+                "Strategic ocean freight capacity remains tightly constrained as ocean carriers alter schedules to maintain network integrity.",
+                "Shippers must adjust lead times and budget for heightened emergency risk surcharges on Asia-Europe and US-bound trades."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL FREIGHT: CONSOLIDATION MODEL SCALE",
+            "nextUpTease": "CSX RAIL: INLAND CORRIDOR EXPANSION",
             "tags": [
-                "Source: ttnews.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RETAIL FREIGHT: CONSOLIDATION MODEL SCALE",
+            "heading": "CSX RAIL: INLAND CORRIDOR EXPANSION",
             "points": [
-                "Major retail shippers are transitioning freight strategy from back-office administration to executive-level freight consolidation programs.",
-                "Systematic consolidation of less-than-truckload shipments into full truckloads is actively mitigating margin erosion across retail distribution.",
-                "Advanced inbound consolidation hubs are reducing distribution center congestion while optimizing overall inventory fill rates.",
-                "Logistics executives integrating retail consolidation are capturing structural cost advantages over competitors relying on point-to-point LTL."
+                "CSX introduces direct intermodal rail service connecting Indianapolis to the Port of Virginia to boost East Coast import flow.",
+                "The new route bypasses highway congestion, supporting an 11.6% annual surge in total intermodal volume recorded across North American rail networks.",
+                "Rail carriers are actively expanding port-to-inland corridors to offer faster freight liquidity and sustainable intermodal capacity.",
+                "Midwest importers gain enhanced port access and reduced drayage expenses through dedicated direct intermodal rail links."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET ELECTRIFICATION: COMMERCIALLY VIABLE SCALING",
+            "nextUpTease": "USPS: RURAL E-COMMERCE SURCHARGES",
             "tags": [
-                "Source: inboundlogistics.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FLEET ELECTRIFICATION: COMMERCIALLY VIABLE SCALING",
+            "heading": "USPS: RURAL E-COMMERCE SURCHARGES",
             "points": [
-                "European operational surveys indicate 93 percent satisfaction among commercial logistics operators deploying heavy battery-electric trucks.",
-                "Early fleet adopters report significant operational reliability gains and lower total cost of ownership across localized freight corridors.",
-                "Heavy transport electrification is moving beyond regulatory trial programs into permanent commercial freight dispatch operations.",
-                "Logistics operators delaying fleet decarbonization risk exclusion from major enterprise shippers mandating sustainable transport metrics."
+                "USPS implements new rate increases and $2 to $3 per-package surcharges for lightweight Ground Advantage shipments to rural locations.",
+                "E-commerce sellers on major online marketplaces face immediate cost pressures for fulfillment targeting non-metropolitan delivery zones.",
+                "Postal structural price adjustments reflect escalating last-mile delivery costs and shifting delivery network realities.",
+                "Merchants must reconfigure fulfillment routing and parcel carrier mix to minimize margin erosion on low-margin items."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: RELIABILITY INDEX DEGRADE",
+            "nextUpTease": "WALMART: AI WEATHER PREDICTIVE ROUTING",
             "tags": [
-                "Source: inboundlogistics.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OCEAN FREIGHT: RELIABILITY INDEX DEGRADE",
+            "heading": "WALMART: AI WEATHER PREDICTIVE ROUTING",
             "points": [
-                "Global container shipping schedule reliability experienced a sharp quarterly decline driven by persistent ocean chokepoint bypasses.",
-                "Container lines are recording increased vessel arrival delays as extended transit routes strain vessel rotation schedules.",
-                "Port operators face unpredictable vessel arrival surges, triggering severe yard congestion and extended intermodal container dwell times.",
-                "BCOs must expand safety stock buffers and buffer lead times to offset persistent ocean liner schedule instability."
+                "Walmart deploys advanced artificial intelligence systems to analyze severe weather patterns and dynamically reroute supply chain inventory.",
+                "Predictive positioning allows distribution nodes to shift critical inventory before weather events interrupt regional transportation networks.",
+                "Real-time AI integration transforms static supply chains into agile, event-responsive fulfillment architectures.",
+                "Enterprise retailers adopting predictive analytics will significantly minimize stockouts and maintain supply chain resilience during disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTONOMOUS LOGISTICS: DRONE OPERATIONS EXPANSION",
+            "nextUpTease": "ALABAMA PORT: COLLAPSIBLE CONTAINERS",
             "tags": [
-                "Source: joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AUTONOMOUS LOGISTICS: DRONE OPERATIONS EXPANSION",
+            "heading": "ALABAMA PORT: COLLAPSIBLE CONTAINERS",
             "points": [
-                "Federal aviation authorities have granted regulatory approvals expanding commercial drone delivery operations across residential logistics corridors.",
-                "Logistics providers and fulfillment centers are deploying automated aerial systems to streamline last-mile delivery and warehouse inventory audits.",
-                "Integration of autonomous aerial hardware is drastically reducing manual labor requirements in high-volume distribution facility operations.",
-                "Enterprise supply chains adopting aerial autonomy gain crucial throughput velocity advantages in competitive last-mile logistics."
+                "Outokumpu and Alabama Port Authority partner to introduce foldable containers for specialized scrap steel and industrial transport.",
+                "Collapsible designs reduce empty container return trips, cutting equipment repositioning costs and optimizing terminal storage space.",
+                "Equipment innovation in specialized freight logistics addresses longstanding operational inefficiencies in heavy industrial movement.",
+                "Industrial shippers adopting space-saving container tech will lower operational freight costs and boost equipment utilization rates."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: dcvelocity.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
