@@ -1,73 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT RATE",
-        "titleBlue": "SURGE",
-        "footerSummary": "Regulatory tariff actions, aggressive jet fuel surcharge adjustments, and shifting intermodal metrics heighten structural supply chain vulnerabilities."
+        "titleWhite": "GLOBAL SUPPLY CHAIN",
+        "titleBlue": "DISRUPTIONS",
+        "footerSummary": "Major carrier investments, legal liabilities in freight brokerage, and strategic rerouting across volatile maritime corridors signal accelerating operational realignments globally."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
+            "heading": "PORT EXPANSION: SEATTLE TERMINAL CAPACITY",
             "points": [
-                "The Office of the United States Trade Representative officially moves forward with implemented tariffs across sixty trading partner nations.",
-                "Importers face heightened compliance obligations and duty re-classifications spanning critical manufacturing and raw material supply corridors.",
-                "Global supply chain architects must re-evaluate sourcing structures to mitigate compounding tariff exposure and unexpected border friction.",
-                "Expect immediate shifts in ocean freight origin routing and cross-border customs entry filings over the upcoming operational quarter."
+                "Ocean carrier HMM commits $135 million to modernize Washington United Terminals at the Port of Seattle-Tacoma.",
+                "The capital infusion is engineered to expand terminal container handling throughput capacity by 50 percent upon completion.",
+                "This strategic modernization addresses historical market share losses to competing Pacific Northwest and West Coast ocean gateways.",
+                "Importers can expect improved vessel berth productivity and reduced terminal dwell times across Transpacific trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: JET FUEL SURCHARGES",
+            "nextUpTease": "RAIL LOGISTICS: CMA CGM CANCELS RLE BID",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR CARGO: JET FUEL SURCHARGES",
+            "heading": "RAIL LOGISTICS: CMA CGM CANCELS RLE BID",
             "points": [
-                "Global air cargo carriers initiate bi-weekly jet fuel surcharge adjustments to absorb volatile energy market cost fluctuations.",
-                "Freighter operators pass cost increases directly to forwarders despite strong high-tech and artificial intelligence hardware shipments.",
-                "Shippers utilizing air freight must build dynamic rate models to accommodate unpredictable fuel surcharge index adjustments.",
-                "Air freight contract renegotiations will increasingly emphasize flexible index-linked rate structures to manage ongoing price risk."
+                "French container shipping giant CMA CGM officially withdraws its bid to acquire a 49 percent stake in Fret SNCF.",
+                "The cancellation halts plans to integrate Rail Logistics Europe assets into Ceva Logistics inland multimodal transport network.",
+                "State rail restructurings and European regulatory scrutiny created insurmountable operational friction for private equity involvement.",
+                "Shippers using European rail freight must prepare for continued state-managed rail services without private capital expansion."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL FREIGHT: INTERMODAL VOLUME GAINS",
+            "nextUpTease": "BROKER LIABILITY: C.H. ROBINSON VERDICT CHALLENGE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INTERMODAL: RECORD VOLUME GAINS",
+            "heading": "BROKER LIABILITY: C.H. ROBINSON VERDICT CHALLENGE",
             "points": [
-                "Railroads hauled a record number of domestic containers during the second quarter as shippers banked significant cost savings.",
-                "Intermodal savings indices highlight robust modal switching away from volatile truckload spot pricing across major domestic lanes.",
-                "Rail operators continue optimizing network velocity to handle sustained container volume surges heading into peak shipping season.",
-                "Supply chain managers should lock in intermodal capacity agreements early to insulate operations against rising truckload rates."
+                "Freight brokerage giant C.H. Robinson vows to appeal a massive $604 million negligent-hiring jury verdict in Texas.",
+                "The unprecedented legal ruling assigns direct vicarious liability to third-party logistics intermediaries for motor carrier crashes.",
+                "Brokerages across North America are overhauling carrier vetting protocols and safety compliance audit algorithms immediately.",
+                "Shippers should anticipate tightening truckload capacity and rising intermediary service fees to cover escalating legal risk exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: ISM PMI EXPANSION",
+            "nextUpTease": "TERMINAL AUTOMATION: FEDEX AUTONOMOUS TRAILER LOADING",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MANUFACTURING: ISM PMI EXPANSION",
+            "heading": "TERMINAL AUTOMATION: FEDEX AUTONOMOUS TRAILER LOADING",
             "points": [
-                "US manufacturing growth accelerated as the Institute for Supply Management purchasing managers index reached its highest level in years.",
-                "Accelerating factory output increases raw material demand, driving up industrial freight volumes across domestic truckload networks.",
-                "Supply chain managers face rising input costs and extended lead times as production expansion tests warehouse throughput capacity.",
-                "Domestic freight carriers anticipate sustained rate firming through the second half as industrial manufacturing output stays elevated."
+                "FedEx expands its autonomous trailer loading pilot program with Dexterity technology at its major Maryland sorting hub.",
+                "Robotic loading systems dynamically optimize trailer cube utilization while reducing manual dock labor requirements.",
+                "Integrated artificial intelligence vision systems continuously recalculate parcel placement to prevent transit damage.",
+                "High-volume parcel senders will benefit from accelerated hub throughput velocity and improved dock door processing efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: FREEDOM HAULERS INITIATIVE",
+            "nextUpTease": "FLEET MANUFACTURING: DAIMLER SHUTS PORTLAND PLANT",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -76,51 +76,51 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "WORKFORCE: FREEDOM HAULERS PROGRAM",
+            "heading": "FLEET MANUFACTURING: DAIMLER SHUTS PORTLAND PLANT",
             "points": [
-                "The federal administration launched the Freedom Haulers interagency campaign to accelerate military veteran transitions into commercial driving.",
-                "Backed by major logistics providers, the initiative shortens the timeline from military service to commercial driver license acquisition.",
-                "Stricter regulatory enforcement against non-domiciled drivers accompanies the recruitment push to maintain safety compliance standards.",
-                "Fleet operators should leverage this structured hiring pipeline to mitigate persistent driver shortages across domestic transport networks."
+                "Daimler Truck North America announces the permanent shutdown of its Portland manufacturing facility by the end of October.",
+                "The closure marks the second operational shutdown of the historic Swan Island assembly plant following market realignment.",
+                "Commercial vehicle manufacturers are consolidating production footprints to balance softening Class 8 truck demand cycles.",
+                "Fleet procurement directors should prepare for adjusted order delivery schedules as production shifts to alternate facilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSE: AUTOMATED ROBOTICS DEPLOYMENT",
+            "nextUpTease": "E-COMMERCE M&A: EBAY FINALIZE DEPOP ACQUISITION",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "WAREHOUSE: AUTOMATED ROBOTICS DEPLOYMENT",
+            "heading": "E-COMMERCE M&A: EBAY FINALIZE DEPOP ACQUISITION",
             "points": [
-                "Leading distribution hubs expand autonomous robotics deployments to handle complex picking and inventory counting workflows.",
-                "Automated inventory drones and material handling systems successfully reduce labor constraints and improve distribution efficiency.",
-                "Logistics operators adopting flexible automation report significant throughput gains alongside reduced processing error metrics.",
-                "Scale deployment of artificial intelligence-powered warehouse technology marks a fundamental shift toward fully automated facilities."
+                "EBay closes its $1.4 billion acquisition of fashion C2C platform Depop from Etsy following UK regulatory clearance.",
+                "Depop will operate as a standalone subsidiary while leveraging eBay cross-border logistics and payments infrastructure.",
+                "The consolidation strengthens second-hand apparel supply chains across key North American and European e-commerce corridors.",
+                "Sellers and buyers will gain access to streamlined international shipping options and expanded buyer protection protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: CROSS-BORDER LEVIES",
+            "nextUpTease": "MARITIME ROUTING: HORMUZ STRETCH RELIABILITY DROPS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "E-COMMERCE: CROSS-BORDER LEVIES",
+            "heading": "MARITIME ROUTING: HORMUZ STRETCH RELIABILITY DROPS",
             "points": [
-                "New import levies and federal regulatory scrutiny hit cross-border e-commerce platforms, curbing direct-to-consumer air freight volumes.",
-                "Online retail giants report margin pressure while adjusting end-consumer prices and restructuring origin fulfillment networks.",
-                "Reduced small-parcel air charter demand allows traditional general cargo shippers to secure previously constrained freighter capacity.",
-                "Cross-border supply chains must adopt localized warehousing strategies to offset rising tariff burdens and inspection delays."
+                "Global container ship schedule reliability dropped sharply in Q2 following maritime disruptions around the Strait of Hormuz.",
+                "Commercial vessel diversions around Africa and alternative transit routes have inflated voyage durations by 10 to 14 days.",
+                "Shipping lines are reallocating fleet capacity to maintain service loops, straining global container availability.",
+                "Supply chain planners must adjust lead time buffer calculations to account for ongoing geopolitical maritime rerouting."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

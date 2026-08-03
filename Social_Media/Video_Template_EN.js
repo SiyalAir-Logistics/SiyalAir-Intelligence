@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT RATE SURGE",
+        "hookTitle": "GLOBAL SUPPLY CHAIN DISRUPTIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "AIR FREIGHT: JET FUEL SURCHARGES",
+                "headline": "PORT EXPANSION: SEATTLE TERMINAL CAPACITY",
+                "teaserTitle": "RAIL LOGISTICS: CMA CGM CANCELS RLE BID",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR implements sweeping Section 301 tariffs across sixty trading partner nations, increasing import compliance friction."
+                "narration_line": "HMM invests $135 million into Seattle-Tacoma terminal infrastructure to expand container handling capacity by 50 percent."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO: JET FUEL SURCHARGES",
-                "teaserTitle": "INTERMODAL: RECORD VOLUME GAINS",
+                "headline": "RAIL LOGISTICS: CMA CGM CANCELS RLE BID",
+                "teaserTitle": "BROKER LIABILITY: C.H. ROBINSON VERDICT CHALLENGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Global air cargo carriers initiate bi-weekly jet fuel surcharge adjustments to absorb volatile energy market fluctuations."
+                "narration_line": "CMA CGM cancels its bid for Fret SNCF, halting European rail logistics integration plans."
             },
             {
                 "slide_index": 3,
-                "headline": "INTERMODAL: RECORD VOLUME GAINS",
-                "teaserTitle": "MANUFACTURING: ISM PMI EXPANSION",
+                "headline": "BROKER LIABILITY: C.H. ROBINSON VERDICT CHALLENGE",
+                "teaserTitle": "TERMINAL AUTOMATION: FEDEX AUTONOMOUS TRAILER LOADING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Intermodal rail volumes hit record highs in the second quarter as shippers capitalize on substantial cost savings."
+                "narration_line": "C.H. Robinson appeals a historic $604 million lawsuit verdict, triggering industry-wide broker liability reviews."
             },
             {
                 "slide_index": 4,
-                "headline": "MANUFACTURING: ISM PMI EXPANSION",
-                "teaserTitle": "WORKFORCE: FREEDOM HAULERS PROGRAM",
+                "headline": "TERMINAL AUTOMATION: FEDEX AUTONOMOUS TRAILER LOADING",
+                "teaserTitle": "FLEET MANUFACTURING: DAIMLER SHUTS PORTLAND PLANT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "US manufacturing growth reaches multi-year highs, driving increased industrial freight volumes across domestic networks."
+                "narration_line": "FedEx expands autonomous trailer loading technology at its Maryland hub to optimize dock throughput."
             },
             {
                 "slide_index": 5,
-                "headline": "WORKFORCE: FREEDOM HAULERS PROGRAM",
-                "teaserTitle": "WAREHOUSE: AUTOMATED ROBOTICS DEPLOYMENT",
+                "headline": "FLEET MANUFACTURING: DAIMLER SHUTS PORTLAND PLANT",
+                "teaserTitle": "E-COMMERCE M&A: EBAY FINALIZE DEPOP ACQUISITION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The new Freedom Haulers initiative opens a streamlined pipeline to transition military veterans into commercial driving careers."
+                "narration_line": "Daimler Truck North America will permanently close its Portland manufacturing facility by late October."
             },
             {
                 "slide_index": 6,
-                "headline": "WAREHOUSE: AUTOMATED ROBOTICS DEPLOYMENT",
-                "teaserTitle": "E-COMMERCE: CROSS-BORDER LEVIES",
+                "headline": "E-COMMERCE M&A: EBAY FINALIZE DEPOP ACQUISITION",
+                "teaserTitle": "MARITIME ROUTING: HORMUZ STRETCH RELIABILITY DROPS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Distribution hubs accelerate warehouse automation deployments to overcome persistent labor shortages and boost throughput."
+                "narration_line": "eBay completes its $1.4 billion acquisition of Depop to scale global cross-border fashion logistics."
             },
             {
                 "slide_index": 7,
-                "headline": "E-COMMERCE: CROSS-BORDER LEVIES",
+                "headline": "MARITIME ROUTING: HORMUZ STRETCH RELIABILITY DROPS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "New cross-border import levies compress digital retail margins and force structural fulfillment network adaptations."
+                "narration_line": "Middle East maritime diversions depress global vessel schedule reliability as ocean carriers adjust transit routes."
             },
             {
                 "slide_index": 8,
