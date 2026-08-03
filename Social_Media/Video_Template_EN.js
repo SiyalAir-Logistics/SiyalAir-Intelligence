@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL LOGISTICS DISRUPTION SHIFTS",
+        "hookTitle": "GLOBAL FREIGHT RATE SURGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "RAIL: CMA CGM BID WITHDRAWAL",
+                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "AIR FREIGHT: JET FUEL SURCHARGES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR implements Section 301 tariffs on 60 nations, forcing cross-border importers to adjust compliance and origin routing."
+                "narration_line": "The USTR implements sweeping Section 301 tariffs across sixty trading partner nations, increasing import compliance friction."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL: CMA CGM BID WITHDRAWAL",
-                "teaserTitle": "BROKERAGE: VICARIOUS LIABILITY RISKS",
+                "headline": "AIR CARGO: JET FUEL SURCHARGES",
+                "teaserTitle": "INTERMODAL: RECORD VOLUME GAINS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CMA CGM drops its Fret SNCF rail bid, interrupting integrated rail freight expansion plans across European transport corridors."
+                "narration_line": "Global air cargo carriers initiate bi-weekly jet fuel surcharge adjustments to absorb volatile energy market fluctuations."
             },
             {
                 "slide_index": 3,
-                "headline": "BROKERAGE: VICARIOUS LIABILITY RISKS",
-                "teaserTitle": "E-COMMERCE: IMPORT TARIFF IMPACTS",
+                "headline": "INTERMODAL: RECORD VOLUME GAINS",
+                "teaserTitle": "MANUFACTURING: ISM PMI EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A six hundred million dollar verdict against C.H. Robinson tightens third-party brokerage liability and motor carrier vetting protocols."
+                "narration_line": "Intermodal rail volumes hit record highs in the second quarter as shippers capitalize on substantial cost savings."
             },
             {
                 "slide_index": 4,
-                "headline": "E-COMMERCE: IMPORT TARIFF IMPACTS",
-                "teaserTitle": "MANUFACTURING: ISM PMI SURGE",
+                "headline": "MANUFACTURING: ISM PMI EXPANSION",
+                "teaserTitle": "WORKFORCE: FREEDOM HAULERS PROGRAM",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New e-commerce tariffs reduce direct air export demand, opening freighter capacity for general cargo shippers worldwide."
+                "narration_line": "US manufacturing growth reaches multi-year highs, driving increased industrial freight volumes across domestic networks."
             },
             {
                 "slide_index": 5,
-                "headline": "MANUFACTURING: ISM PMI SURGE",
-                "teaserTitle": "AIR FREIGHT: JET FUEL SURCHARGES",
+                "headline": "WORKFORCE: FREEDOM HAULERS PROGRAM",
+                "teaserTitle": "WAREHOUSE: AUTOMATED ROBOTICS DEPLOYMENT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "July manufacturing PMI hit fifty-five point six, driving increased freight volume across domestic LTL and truckload networks."
+                "narration_line": "The new Freedom Haulers initiative opens a streamlined pipeline to transition military veterans into commercial driving careers."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR FREIGHT: JET FUEL SURCHARGES",
-                "teaserTitle": "AUTONOMOUS: TRAILER LOADING TECH",
+                "headline": "WAREHOUSE: AUTOMATED ROBOTICS DEPLOYMENT",
+                "teaserTitle": "E-COMMERCE: CROSS-BORDER LEVIES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Airlines implement bi-weekly fuel surcharge reviews as volatile jet fuel prices strain transpacific air cargo margins."
+                "narration_line": "Distribution hubs accelerate warehouse automation deployments to overcome persistent labor shortages and boost throughput."
             },
             {
                 "slide_index": 7,
-                "headline": "AUTONOMOUS: TRAILER LOADING TECH",
+                "headline": "E-COMMERCE: CROSS-BORDER LEVIES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "FedEx expands AI-powered autonomous trailer loading tech to resolve warehouse labor bottlenecks and speed up dock operations."
+                "narration_line": "New cross-border import levies compress digital retail margins and force structural fulfillment network adaptations."
             },
             {
                 "slide_index": 8,
