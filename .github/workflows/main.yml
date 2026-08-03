@@ -103,6 +103,10 @@ jobs:
 
           with open(tracker_file, "w", encoding="utf-8") as f:
               f.write(str(next_val))
+          
+          # Force flush and sync to prevent IO caching race conditions
+          f.flush()
+          os.fsync(f.fileno())
 
           print(f"Dynamic Background Rotation: Found {max_backgrounds} total backgrounds. Rotated tracker: {current_val} -> {next_val}")
           EOF
@@ -140,12 +144,16 @@ jobs:
 
           with open(follow_tracker_file, "w", encoding="utf-8") as f:
               f.write(str(next_follow_val))
+          
+          f.flush()
+          os.fsync(f.fileno())
 
           print(f"Dynamic Follow-up Rotation: Found {max_followups} total follow slides. Rotated tracker: {current_follow_val} -> {next_follow_val}")
           EOF
 
-          # Stage generated artifacts and tracker state files
-          git add template.js post.txt Social_Media/ bg_tracker.txt follow_tracker.txt
+          # Stage generated artifacts and force-include critical tracker state files
+          git add template.js post.txt Social_Media/
+          git add -f bg_tracker.txt follow_tracker.txt
           
           if ! git diff --cached --quiet; then
             git commit -m "Automated Hourly Update & Dynamic Rotation: $(date +'%Y-%m-%d %H:%M UTC') [skip ci]"
