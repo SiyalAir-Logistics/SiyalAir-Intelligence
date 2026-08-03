@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE CAPACITY DECOUPLING",
+        "hookTitle": "MARITIME OCEAN TRADE REFORMS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CMA CGM: FRET SNCF DIVESTMENT",
-                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING",
+                "headline": "FMC DETENTION FEE RULES UPHELD",
+                "teaserTitle": "CARRIER TONNAGE SHIFT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "CMA CGM cancels its rail bid, signaling a shift away from public rail investments in Western Europe."
+                "narration_line": "The Federal Maritime Commission successfully defended detention fee rules to promote freight fluidity across U.S. ports."
             },
             {
                 "slide_index": 2,
-                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING",
-                "teaserTitle": "UPS: AUTOMATED NETWORK EXPANSION",
+                "headline": "CARRIER TONNAGE SHIFT STRATEGY",
+                "teaserTitle": "AFRICA TRADE SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "FedEx expands automated dock loaders in Maryland, accelerating AI-powered hub throughput."
+                "narration_line": "Major container lines are rapidly replacing chartered vessel capacity with newly acquired owned fleet tonnage."
             },
             {
                 "slide_index": 3,
-                "headline": "UPS: AUTOMATED NETWORK EXPANSION",
-                "teaserTitle": "LUFTHANSA: FREIGHTER FLEET LIQUIDATION",
+                "headline": "AFRICA TRADE INFRASTRUCTURE BOTTLENECK",
+                "teaserTitle": "AIR CARGO SURCHARGES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "UPS now routes over two-thirds of US volume through automated hubs to slash operational costs."
+                "narration_line": "Surging import demand across African maritime trade lanes is overwhelming local port and inland logistics infrastructure."
             },
             {
                 "slide_index": 4,
-                "headline": "LUFTHANSA: FREIGHTER FLEET LIQUIDATION",
-                "teaserTitle": "OUTOKUMPU: COLLAPSIBLE CONTAINER DEPLOYMENT",
+                "headline": "AIR CARGO FUEL SURCHARGE ADJUSTMENTS",
+                "teaserTitle": "RETAIL INVENTORY RESTRUCTURING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Lufthansa Cargo offloads four grounded A321 freighters following service partner liquidation."
+                "narration_line": "International air cargo carriers have instituted bi-weekly fuel surcharge reviews to counter rising aviation fuel costs."
             },
             {
                 "slide_index": 5,
-                "headline": "OUTOKUMPU: COLLAPSIBLE CONTAINER DEPLOYMENT",
-                "teaserTitle": "AIR CARGO: BI-WEEKLY FUEL ADJUSTMENTS",
+                "headline": "RETAIL INVENTORY LEAN STRATEGY",
+                "teaserTitle": "AUTONOMOUS YARD AUTOMATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Outokumpu adopts collapsible containers at Alabama ports to cut scrap metal repositioning costs."
+                "narration_line": "Retailers have optimized baseline inventories downward to protect working capital ahead of upcoming seasonal surges."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: BI-WEEKLY FUEL ADJUSTMENTS",
-                "teaserTitle": "DOORDASH: REGULATORY DRONE APPROVAL",
+                "headline": "AUTONOMOUS YARD AUTOMATION DEPLOYMENT",
+                "teaserTitle": "CUSTOMS COMPLIANCE ENFORCEMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Air cargo carriers launch bi-weekly fuel surcharges to navigate extreme global energy market volatility."
+                "narration_line": "Logistics operators are scaling autonomous trailer loading technology to mitigate yard congestion and labor deficits."
             },
             {
                 "slide_index": 7,
-                "headline": "DOORDASH: REGULATORY DRONE APPROVAL",
+                "headline": "CUSTOMS COMPLIANCE FRAUD RECOVERIES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Federal regulators approve DoorDash drone delivery expansion, unlocking scaled autonomous last-mile routes."
+                "narration_line": "Federal trade fraud task forces have accelerated data-driven enforcement actions against non-compliant international importers."
             },
             {
                 "slide_index": 8,
