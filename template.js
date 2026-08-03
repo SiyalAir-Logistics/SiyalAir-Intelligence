@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT RATES",
+        "titleWhite": "GLOBAL FREIGHT RATE",
         "titleBlue": "SPIKE",
-        "footerSummary": "Carriers eye aggressive August rate hikes amid capacity tightening and rising maritime risk across key trade lanes."
+        "footerSummary": "Carriers eye aggressive August spikes amidst persistent spot rate declines and capacity crunches."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRANSPACIFIC SPOT RATES",
+            "heading": "TRANSPACIFIC SPOT RATES AND AUGUST CAPACITY PRESSURES",
             "points": [
-                "Carriers across transpacific and Asia-Europe corridors are actively pushing for single-digit spot rate increases heading into August.",
-                "Despite lingering overall rate softening, optimistic operators are capitalizing on early peak season demand surges to establish higher floors.",
-                "Strategic capacity management remains the primary mechanism for carriers seeking to offset persistent volume imbalances in key trade lanes.",
-                "Logistics directors must recalibrate quarterly budget forecasts to account for sudden mid-season carrier pricing maneuvers."
+                "Container spot freight rates across transpacific and Asia-Europe corridors experienced single-digit declines during the latest reporting period.",
+                "Optimistic ocean carriers are actively strategizing for an aggressive August rate spike to counter softening market fundamentals.",
+                "Shippers face continued uncertainty as carriers attempt to enforce mid-season general rate increases despite fluctuating demand.",
+                "Market observers recommend maintaining flexible service contracts to navigate sudden capacity adjustments from major alliances."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO SURCHARGES",
+            "nextUpTease": "AIR CARGO DEMAND SURGE",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -25,15 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "AIR CARGO FUEL SURCHARGES",
+            "heading": "AIR CARGO DEMAND SURGE DRIVEN BY DIGITAL TRAFFIC",
             "points": [
-                "Long-haul freighter operators have initiated bi-weekly reviews of fuel surcharges following sustained escalations in global jet fuel prices.",
-                "The volatile pricing environment forces carriers to swiftly pass input cost spikes directly downstream to enterprise shippers.",
-                "Air freight rate indexes reflect upward pressure even as broader geopolitical friction introduces severe operational unpredictability.",
-                "Supply chain planners must integrate dynamic fuel adjustment factors into all forward-looking air allocation contracts."
+                "Global air cargo demand strengthened significantly last month, driven heavily by expanding artificial intelligence hardware traffic.",
+                "Despite geopolitical tensions, major carriers continue to implement dynamic fuel surcharges to offset volatile jet fuel pricing.",
+                "Middle Eastern hub operations are gradually recovering, easing historical bottleneck constraints across primary transit lanes.",
+                "Forwarders must adapt to shorter review windows for airline surcharges as carriers pass on immediate operational costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "BROKER LIQUIDITY PRESSURES",
+            "nextUpTease": "CUSTOMS COMPLIANCE AND TARIFFS",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -42,85 +42,85 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "BROKER NEGLIGENT LIABILITY",
+            "heading": "USTR SECTION TARIFFS AND TRADE COMPLIANCE SHIFTS",
             "points": [
-                "Major third-party logistics providers are aggressively appealing massive legal liability verdicts that threaten traditional broker business models.",
-                "Recent judicial interpretations significantly heighten vetting requirements and vicarious liability exposure for freight intermediaries.",
-                "Industry stakeholders are overhauling carrier onboarding and safety compliance protocols to mitigate catastrophic legal vulnerabilities.",
-                "Shippers should anticipate tighter capacity screening and potential rate adjustments as brokers absorb rising insurance and compliance overhead."
+                "The Office of the United States Trade Representative is moving forward with newly structured tariffs targeting dozens of trading partners.",
+                "Importers face increased compliance friction as authorities strictly enforce documentation standards across cross-border supply chains.",
+                "Legal challenges have emerged regarding the application of specific trade levies utilized under updated regulatory frameworks.",
+                "Supply chain managers must audit bill-of-lading data rigorously to prevent costly customs detentions and regulatory audits."
             ],
             "imageUrl": "",
-            "nextUpTease": "MILITARY HIRING PIPELINES",
+            "nextUpTease": "MARITIME DETENTION AND DEMURRAGE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MILITARY TRUCKING PIPELINE",
+            "heading": "FEDERAL MARITIME COMMISSION FREIGHT FLUIDITY ENFORCEMENT",
             "points": [
-                "Federal initiatives have officially launched structured transition pathways to channel exiting military personnel directly into commercial driving roles.",
-                "The interagency campaign aims to compress the administrative runway required for veterans to secure commercial driver licensing credentials.",
-                "Fleet operators are closely aligning recruitment frameworks with national defense programs to alleviate persistent driver shortages.",
-                "Expanded talent access will help stabilize domestic over-the-road capacity despite ongoing regulatory and compliance hurdles."
+                "Appellate court rulings continue to uphold Federal Maritime Commission standards ensuring detention fees directly promote cargo fluidity.",
+                "Ocean transportation intermediaries face heightened regulatory scrutiny regarding billing practices and terminal storage charges.",
+                "Ports are working around the clock to clear lingering intermodal backlogs and optimize container turnaround times.",
+                "Shippers can leverage updated FMC dispute mechanisms to contest unfair demurrage assessments at major marine facilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILROAD PERFORMANCE METRICS",
+            "nextUpTease": "RETAIL SUPPLY CHAIN RESILIENCE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CLASS I RAILROAD VELOCITY",
+            "heading": "RETAIL INVENTORY STRATEGIES FOR PEAK SEASON",
             "points": [
-                "Recent operational dashboards highlight fluctuating speed and dwell metrics across major North American Class I rail networks.",
-                "Intermodal volume gains require network operators to balance localized yard congestion with sustained mainline velocity.",
-                "Shippers utilizing rail integration must monitor corridor-specific transit times to prevent downstream inventory bottlenecks.",
-                "Enhanced operational visibility tools are proving essential for maintaining schedule integrity across complex multi-modal routes."
+                "Major retailers are actively restructuring their inbound inventory positioning to mitigate severe weather disruptions.",
+                "E-commerce giants are expanding distribution footprints in key domestic regions to accelerate last-mile delivery speeds.",
+                "Supply chain teams are prioritizing high-margin essentials over discretionary apparel in anticipation of consumer budget shifts.",
+                "Advanced predictive analytics are increasingly deployed to dynamically reroute freight before environmental bottlenecks occur."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATED YARD OPERATIONS",
+            "nextUpTease": "AUTONOMOUS LOGISTICS AND ROBOTICS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AUTOMATED YARD SYSTEMS",
+            "heading": "AUTONOMOUS WAREHOUSE ROBOTICS AND TRAILER LOADING",
             "points": [
-                "Major distribution networks are aggressively deploying artificial intelligence and robotics to overhaul complex yard management workflows.",
-                "Advanced automation platforms drastically reduce trailer turnaround times and eliminate critical throughput chokepoints at inbound docks.",
-                "Facility managers are leveraging real-time data orchestration to optimize asset utilization and minimize labor resource constraints.",
-                "Wide-scale adoption of smart yard technologies will redefine warehouse efficiency benchmarks across high-volume distribution centers."
+                "Logistics providers are expanding pilot deployments of autonomous trailer-loading systems to resolve dock labor constraints.",
+                "Warehouse automation investments are shifting from isolated point solutions to fully integrated software-driven ecosystems.",
+                "Regulatory bodies are reviewing proposals impacting foreign-manufactured automation hardware across critical distribution hubs.",
+                "Facility managers report measurable throughput gains following the integration of drone-assisted inventory cycle counting."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS COMPLIANCE AUDITS",
+            "nextUpTease": "MILITARY VETERAN HIRING PIPELINES",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRADE FRAUD ENFORCEMENT",
+            "heading": "WORKFORCE DEVELOPMENT AND TRUCKING RECRUITMENT INITIATIVES",
             "points": [
-                "Federal trade fraud task forces have crossed major financial recovery milestones through aggressive cross-border enforcement actions.",
-                "Importers and logistics partners face heightened scrutiny regarding customs valuation, origin documentation, and compliance rigor.",
-                "Regulatory bodies are utilizing advanced data analytics to target illicit trade practices and enforce strict supply chain transparency.",
-                "Corporate compliance teams must institute rigorous audit trails to withstand ongoing regulatory enforcement and prevent severe penalties."
+                "Federal interagency programs are actively streamlining commercial driver licensing pathways for transitioning military veterans.",
+                "Enforcement agencies continue aggressive nationwide crackdowns targeting non-domiciled drivers and safety compliance violations.",
+                "Freight brokerages face ongoing legal evaluations regarding carrier vetting procedures and vicarious liability standards.",
+                "Carriers are enhancing driver communication platforms and artificial intelligence tools to improve retention and asset utilization."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

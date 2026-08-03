@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT RATES SPIKE",
+        "hookTitle": "GLOBAL FREIGHT RATE SPIKE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRANSPACIFIC SPOT RATES",
-                "teaserTitle": "AIR CARGO SURCHARGES",
+                "headline": "TRANSPACIFIC SPOT RATES AND AUGUST CAPACITY PRESSURES",
+                "teaserTitle": "AIR CARGO DEMAND SURGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Carriers target August rate hikes as peak season demand strains transpacific capacity."
+                "narration_line": "Carriers eye aggressive August spikes amidst persistent spot rate declines across major transpacific ocean corridors."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO FUEL SURCHARGES",
-                "teaserTitle": "BROKER LIQUIDITY PRESSURES",
+                "headline": "AIR CARGO DEMAND SURGE DRIVEN BY DIGITAL TRAFFIC",
+                "teaserTitle": "USTR SECTION TARIFFS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Airlines accelerate bi-weekly fuel surcharge adjustments amid soaring jet fuel costs."
+                "narration_line": "Global air cargo demand strengthens as artificial intelligence hardware shipments offset ongoing geopolitical supply chain friction."
             },
             {
                 "slide_index": 3,
-                "headline": "BROKER NEGLIGENT LIABILITY",
-                "teaserTitle": "MILITARY HIRING PIPELINES",
+                "headline": "USTR SECTION TARIFFS AND TRADE COMPLIANCE SHIFTS",
+                "teaserTitle": "FMC FREIGHT FLUIDITY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Major freight brokers fight massive legal verdicts reshaping carrier vetting liability."
+                "narration_line": "Importers face increased compliance friction as authorities enforce newly structured trade levies and rigorous documentation standards."
             },
             {
                 "slide_index": 4,
-                "headline": "MILITARY TRUCKING PIPELINE",
-                "teaserTitle": "RAILROAD PERFORMANCE METRICS",
+                "headline": "FEDERAL MARITIME COMMISSION FREIGHT FLUIDITY ENFORCEMENT",
+                "teaserTitle": "RETAIL INVENTORY STRATEGIES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New federal veteran programs fast-track commercial driver licensing for fleet expansion."
+                "narration_line": "Appellate courts uphold Federal Maritime Commission rules ensuring detention fees actively promote container freight fluidity."
             },
             {
                 "slide_index": 5,
-                "headline": "CLASS I RAILROAD VELOCITY",
-                "teaserTitle": "AUTOMATED YARD OPERATIONS",
+                "headline": "RETAIL INVENTORY STRATEGIES FOR PEAK SEASON",
+                "teaserTitle": "AUTONOMOUS ROBOTICS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Network operators balance fluctuating speed and dwell metrics across North American rails."
+                "narration_line": "Major retailers deploy predictive analytics to dynamically position inventory and mitigate severe weather supply chain disruptions."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOMATED YARD SYSTEMS",
-                "teaserTitle": "CUSTOMS COMPLIANCE AUDITS",
+                "headline": "AUTONOMOUS WAREHOUSE ROBOTICS AND TRAILER LOADING",
+                "teaserTitle": "WORKFORCE INITIATIVES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Distribution hubs deploy artificial intelligence to eliminate inbound dock throughput bottlenecks."
+                "narration_line": "Logistics providers scale autonomous trailer loading systems and drone inventory counting to resolve warehouse labor constraints."
             },
             {
                 "slide_index": 7,
-                "headline": "TRADE FRAUD ENFORCEMENT",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "WORKFORCE DEVELOPMENT AND TRUCKING RECRUITMENT INITIATIVES",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Federal trade task forces intensify enforcement and cross-border customs compliance audits."
+                "narration_line": "Federal programs streamline veteran licensing while safety crackdowns target non-domiciled commercial vehicle operators nationwide."
             },
             {
                 "slide_index": 8,
