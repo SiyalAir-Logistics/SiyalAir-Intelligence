@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
-        "titleBlue": "PIVOTS",
-        "footerSummary": "Logistics intelligence tracks major structural shifts as carriers, customs task forces, and ecommerce giants navigate escalating regulatory and operational pressures."
+        "titleWhite": "GLOBAL FREIGHT STRATEGIC",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Legal liabilities, regulatory tariff enforcement, and inland climate disruptions escalate operational friction across global freight networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "DOJ TRADE FRAUD TASK FORCE CROSSES $1 BILLION MILESTONE",
+            "heading": "C.H. ROBINSON: $604M VERDICT IMPACT",
             "points": [
-                "The Department of Justice Trade Fraud Task Force has officially surpassed $1 billion in total recoveries, penalties, forfeitures, and charged losses in under a year.",
-                "This aggressive interagency enforcement escalation signals heightened compliance risks and severe operational friction for importers and their third-party logistics partners.",
-                "Corporate legal teams are overhauling trade documentation protocols to mitigate the expanding scope of data-driven customs audits and severe financial penalties.",
-                "Stakeholders must immediately institute comprehensive recordkeeping practices to survive the ongoing wave of rigorous federal customs scrutiny."
+                "C.H. Robinson was hit with a $604 million adverse trial verdict centered on negligent carrier selection standards.",
+                "The severe financial ruling intensifies vicarious liability risks for freight brokerages and 3PL intermediaries nationwide.",
+                "Legal precedents established by this case force brokers to overhaul carrier vetting protocols and safety monitoring systems.",
+                "Shippers and freight intermediaries will likely face elevated insurance premiums and stricter contracting requirements across modes."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON VOWS APPEAL",
+            "nextUpTease": "FMC: DETENTION FEE FLUIDITY RULE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "C.H. ROBINSON VOWS APPEAL AFTER RECORD LEGAL VERDICT",
+            "heading": "FMC: DETENTION FEE FLUIDITY RULE",
             "points": [
-                "C.H. Robinson Worldwide has announced its firm intent to appeal a stunning $604 million advisory verdict resulting from a high-stakes negligent carrier selection case.",
-                "The landmark legal decision has triggered immediate shockwaves throughout the brokerage community, forcing carriers and 3PLs to completely re-evaluate vicarious liability exposures.",
-                "Industry executives are aggressively reviewing risk mitigation strategies, contract phrasing, and vetting protocols to shield operations from catastrophic legal liabilities.",
-                "Freight brokers nationwide are expected to overhaul compliance frameworks to prevent similar vulnerabilities in future shipper agreements."
+                "The US Court of Appeals for the D.C. Circuit upheld the Federal Maritime Commission decision on detention billing.",
+                "Ocean carriers cannot assess detention and demurrage penalties unless charges directly encourage freight fluid movement.",
+                "The legal affirmation protects importers and drayage operators from unfair fee structures during port congestion events.",
+                "Global ocean lines must align invoicing practices with OSRA 2022 mandates to maintain regulatory compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT RAIL CORRIDOR SHIFTS",
+            "nextUpTease": "STG LOGISTICS: DRAYAGE SETTLEMENT",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CMA CGM WITHDRAWS BID AS EUROPEAN RAIL RESTRUCTURES",
+            "heading": "STG LOGISTICS: DRAYAGE SETTLEMENT",
             "points": [
-                "CMA CGM has officially confirmed its withdrawal from the competitive race to acquire a crucial 49-percent stake in French rail freight titan Rail Logistics Europe.",
-                "The abrupt withdrawal underscores shifting strategic priorities among mega-carriers as they favor owned vessel and asset-heavy tonnage over complex rail partnerships.",
-                "European intermodal networks face continued transformation as major ocean liners recalibrate their inland logistics footprint to optimize capital allocation.",
-                "Market observers predict further consolidation and structural adjustments across continental freight corridors through the upcoming peak shipping season."
+                "STG Logistics resolved a major New Jersey drayage driver misclassification legal action through a cash settlement.",
+                "The resolution follows STG's exit from Chapter 11 bankruptcy as intermodal container markets begin to re-accelerate.",
+                "State enforcement against independent contractor misclassification continues to pressure port drayage operating models.",
+                "Intermodal logistics providers must re-evaluate driver compensation strategies to insulate supply chain operations from liability."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS RATE ADJUSTMENTS IMPACT",
+            "nextUpTease": "USTR: SECTION 301 TARIFF EXPANSION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "USPS RATE INCREASES RESHAPE MARKETPLACE SHIPPING ECONOMICS",
+            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
             "points": [
-                "Recent implementation of modified USPS Ground Advantage rates is imposing increased financial pressures on marketplace sellers across major e-commerce platforms.",
-                "Online merchants are absorbing incremental fulfillment expenses, prompting a widespread reassessment of lightweight parcel shipping strategies and carrier diversification.",
-                "The ongoing adjustments highlight the fragile operational economics of last-mile delivery channels for small-to-medium-sized enterprise vendors.",
-                "Retail logistics planners will need to incorporate dynamic rate-shopping tools to protect profit margins against recurring postal fee hikes."
+                "The Office of the United States Trade Representative announced forced labor tariffs targeting sixty trading partner nations.",
+                "Action was taken under Section 301 of the Trade Act of 1974 following the expiration of temporary Section 122 duties.",
+                "Expanded import compliance scrutiny requires detailed supply chain mapping and forced labor risk mitigation protocols.",
+                "Importers must prepare for elevated duty structures and increased customs audit activity at major US entry ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREEDOM HAULERS INITIATIVE LAUNCH",
+            "nextUpTease": "RHINE NAVIGATION: LOW WATER BOTTLENECKS",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ADMINISTRATION LAUNCHES FREEDOM HAULERS HIRING PIPELINE",
+            "heading": "RHINE NAVIGATION: LOW WATER BOTTLENECKS",
             "points": [
-                "The federal government has unveiled the Freedom Haulers initiative, designed to establish an express lane that accelerates military veterans into commercial driver licenses.",
-                "Backed by prominent trucking leadership, the interagency program aims to alleviate persistent driver shortages while bolstering domestic freight capacity.",
-                "By streamlining the transition from military service to commercial transit, the initiative provides a structured influx of qualified talent into logistics networks.",
-                "Fleet operators are anticipating improved workforce stability as the recruitment pipeline scales up operations nationwide."
+                "Crucial inland waterway transit along the Rhine River faces severe disruption due to near-record low water levels.",
+                "Barge operators in Northern Europe are drastically limiting draft loads to avoid grounding along major shallow choke points.",
+                "Ocean carriers like MSC are establishing alternative rail and road freight routing to circumvent inland barge bottlenecks.",
+                "European industrial supply chains face increased freight rates and transit delays for raw materials and containerized cargo."
             ],
             "imageUrl": "",
-            "nextUpTease": "XBOX HARDWARE COST ESCALATION",
+            "nextUpTease": "FEDEX: AUTONOMOUS TRAILER LOADING",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MEMORY HARDWARE PRICE SPIKES THREATEN SUPPLY CHAINS",
+            "heading": "FEDEX: AUTONOMOUS TRAILER LOADING",
             "points": [
-                "Technology manufacturers report that console storage and memory hardware component expenses have surged by more than two-and-a-half times since late last year.",
-                "Escalating component costs are forcing consumer electronics brands to reassess retail pricing structures and manufacturing margin thresholds.",
-                "Supply chain planners are diversifying electronic component sourcing to buffer production lines against volatile semiconductor market swings.",
-                "Analysts warn that sustained hardware inflation could dampen consumer demand across major global technology hardware sectors."
+                "FedEx expanded its pilot deployment of Dexterity autonomous trailer loading systems at its Hagerstown Maryland hub.",
+                "The advanced robotics rollout aims to optimize dock throughput and streamline parcel handling across regional operations.",
+                "Robotic load systems address persistent warehouse labor constraints while accelerating trailer turnaround velocity.",
+                "Widespread automation adoption in parcel hubs marks a operational shift toward software-driven logistics networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL AIR CARGO RESILIENCE",
+            "nextUpTease": "DOT: FREEDOM HAULERS INITIATIVE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO TRAFFIC DEFIES GRAVITY DESPITE MARKET VOLATILITY",
+            "heading": "DOT: FREEDOM HAULERS INITIATIVE",
             "points": [
-                "Global air cargo traffic continues to defy broader economic headwinds, heavily driven by surging transpacific volumes and artificial intelligence-related equipment demand.",
-                "Airlines and forwarders are implementing frequent fuel surcharge reviews to manage jet fuel price volatility and maintain operational profitability.",
-                "The persistent strength in air freight underscores the critical need for speed and agility in moving high-value tech components across borders.",
-                "Industry leaders expect high-demand air corridors to maintain elevated rate baselines through the approaching fourth-quarter peak season."
+                "The US Department of Transportation launched the Freedom Haulers initiative to recruit military veterans into trucking.",
+                "The interagency program streamlines military CDL skill conversions while enforcing regulatory rules against non-domiciled drivers.",
+                "Federal support addresses long-term driver shortages by creating structured career pathways into interstate commerce.",
+                "Fleets partnering with federal recruitment pipelines gain access to skilled labor while optimizing compliance standards."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

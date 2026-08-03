@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE PIVOTS",
+        "hookTitle": "GLOBAL FREIGHT STRATEGIC SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "DOJ TRADE FRAUD TASK FORCE CROSSES $1 BILLION MILESTONE",
-                "teaserTitle": "C.H. ROBINSON VOWS APPEAL",
+                "headline": "C.H. ROBINSON: $604M VERDICT IMPACT",
+                "teaserTitle": "FMC: DETENTION FEE FLUIDITY RULE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The DOJ Trade Fraud Task Force crosses one billion dollars in recoveries, intensifying customs compliance scrutiny."
+                "narration_line": "C.H. Robinson faces a six-hundred-four million dollar negligent hiring verdict, triggering broker liability reform across US logistics networks."
             },
             {
                 "slide_index": 2,
-                "headline": "C.H. ROBINSON VOWS APPEAL AFTER RECORD LEGAL VERDICT",
-                "teaserTitle": "CMA CGM WITHDRAWS BID",
+                "headline": "FMC: DETENTION FEE FLUIDITY RULE",
+                "teaserTitle": "STG LOGISTICS: DRAYAGE SETTLEMENT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "C.H. Robinson vows to appeal a massive six-hundred-four-million-dollar negligent-hiring verdict, shaking broker liability norms."
+                "narration_line": "US federal courts upheld FMC rulings requiring detention and demurrage fees to directly incentivize ocean freight fluidity."
             },
             {
                 "slide_index": 3,
-                "headline": "CMA CGM WITHDRAWS BID AS EUROPEAN RAIL RESTRUCTURES",
-                "teaserTitle": "USPS RATE ADJUSTMENTS",
+                "headline": "STG LOGISTICS: DRAYAGE SETTLEMENT",
+                "teaserTitle": "USTR: SECTION 301 TARIFF EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "CMA CGM pulls out of the Rail Logistics Europe stake acquisition as mega-carriers prioritize owned assets."
+                "narration_line": "STG Logistics settled driver misclassification claims in New Jersey, setting a regulatory precedent for drayage carrier labor structures."
             },
             {
                 "slide_index": 4,
-                "headline": "USPS RATE INCREASES RESHAPE MARKETPLACE SHIPPING ECONOMICS",
-                "teaserTitle": "FREEDOM HAULERS INITIATIVE",
+                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "RHINE NAVIGATION: LOW WATER BOTTLENECKS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New USPS Ground Advantage rate hikes increase delivery cost pressures for online e-commerce sellers."
+                "narration_line": "The USTR expanded forced-labor Section 301 tariffs across sixty trading nations following the expiration of temporary Section 122 duties."
             },
             {
                 "slide_index": 5,
-                "headline": "ADMINISTRATION LAUNCHES FREEDOM HAULERS HIRING PIPELINE",
-                "teaserTitle": "MEMORY HARDWARE PRICE SPIKES",
+                "headline": "RHINE NAVIGATION: LOW WATER BOTTLENECKS",
+                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The federal Freedom Haulers initiative opens a streamlined pipeline to transition military veterans into trucking."
+                "narration_line": "Critical low water levels on the Rhine River threaten European inland barge capacity, prompting carriers to deploy alternative rail routing."
             },
             {
                 "slide_index": 6,
-                "headline": "MEMORY HARDWARE PRICE SPIKES THREATEN SUPPLY CHAINS",
-                "teaserTitle": "AIR CARGO TRAFFIC RESILIENCE",
+                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING",
+                "teaserTitle": "DOT: FREEDOM HAULERS INITIATIVE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Escalating memory component costs surge past two-and-a-half times baseline rates, impacting electronics pricing."
+                "narration_line": "FedEx expanded its autonomous robotic trailer loading deployment with Dexterity to optimize throughput at its Maryland hub."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO TRAFFIC DEFIES GRAVITY DESPITE MARKET VOLATILITY",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "DOT: FREEDOM HAULERS INITIATIVE",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Air cargo volumes remain robust, fueled by strong transpacific demand and AI equipment transport needs."
+                "narration_line": "The US Department of Transportation launched the Freedom Haulers initiative to streamline commercial driver licensing for transitioning military veterans."
             },
             {
                 "slide_index": 8,
