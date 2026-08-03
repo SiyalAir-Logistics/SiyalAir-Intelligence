@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT SHOCK SURGE",
+        "hookTitle": "GLOBAL LOGISTICS COMPLIANCE REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "THE LOADSTAR: AIR CARGO DEFIES GRAVITY",
-                "teaserTitle": "CMA CGM WITHDRAWS BID",
+                "headline": "C.H. ROBINSON: BROKERAGE LIABILITY VERDICT",
+                "teaserTitle": "USTR: SECTION 301 TARIFF EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Air cargo traffic defies macroeconomic sell-offs as high-value artificial intelligence shipments drive robust demand across transpacific lanes."
+                "narration_line": "A $604 million verdict against C.H. Robinson establishes massive freight broker legal liability, restructuring carrier selection safety protocols nationwide."
             },
             {
                 "slide_index": 2,
-                "headline": "THE LOADSTAR: CMA CGM PULLS BACK FROM RAIL",
-                "teaserTitle": "SUPPLY CHAIN DIVE TARIFFS",
+                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING DEPLOYMENT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Cma cgm withdraws from rail acquisitions, shifting carrier investment focus entirely toward owned maritime tonnage."
+                "narration_line": "The USTR expanded Section 301 forced labor tariffs to 60 nations, forcing importers to tighten supply chain origin auditing immediately."
             },
             {
                 "slide_index": 3,
-                "headline": "SUPPLY CHAIN DIVE: AMAZON REFUND PROTOCOLS",
-                "teaserTitle": "TRANSPORT TOPICS DTNA PLANT",
+                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING DEPLOYMENT",
+                "teaserTitle": "DOT: FREEDOM HAULERS MILITARY PIPELINE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Amazon issues targeted tariff refunds while e-commerce merchants navigate complex federal trade compliance shifts."
+                "narration_line": "FedEx expanded AI-powered autonomous trailer loading robotics at its Maryland hub to optimize dock throughput and stabilize operating costs."
             },
             {
                 "slide_index": 4,
-                "headline": "TRANSPORT TOPICS: DTNA SWAN ISLAND CLOSURE",
-                "teaserTitle": "FREIGHTWAVES C.H. ROBINSON APPEAL",
+                "headline": "DOT: FREEDOM HAULERS MILITARY PIPELINE",
+                "teaserTitle": "NEW JERSEY: ELECTRONIC SHELF LABEL BAN",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Daimler trucks schedules plant closures, forcing regional adjustments in heavy commercial vehicle manufacturing capacity."
+                "narration_line": "The DOT launched Freedom Haulers to transition military veterans into commercial driving careers, addressing long-term interstate freight labor gaps."
             },
             {
                 "slide_index": 5,
-                "headline": "FREIGHTWAVES: BROKERAGE LIABILITY VERDICT",
-                "teaserTitle": "CNBC AIRFARE AND FUEL PRESSURES",
+                "headline": "NEW JERSEY: ELECTRONIC SHELF LABEL BAN",
+                "teaserTitle": "CMA CGM: FRET SNCF BID WITHDRAWAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "C.H. Robinson vows to appeal a massive six hundred million dollar negligent hiring verdict shaking third-party logistics."
+                "narration_line": "New Jersey banned dynamic pricing and frozen electronic shelf label adoption, disrupting automated omnichannel retail pricing strategies state-wide."
             },
             {
                 "slide_index": 6,
-                "headline": "CNBC: FUEL COSTS AND MACRO PRESSURES",
-                "teaserTitle": "INBOUND LOGISTICS TASK FORCE SURGE",
+                "headline": "CMA CGM: FRET SNCF BID WITHDRAWAL",
+                "teaserTitle": "USPS: HAZMAT NONCOMPLIANCE PENALTY MANDATE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Fluctuating fuel prices and manufacturing inflation compel carriers to update operational surcharges bi-weekly."
+                "narration_line": "CMA CGM withdrew its bid for France's Fret SNCF, shifting carrier strategies away from state rail intermodal privatization projects."
             },
             {
                 "slide_index": 7,
-                "headline": "INBOUND LOGISTICS: TRADE FRAUD CRACKDOWN",
+                "headline": "USPS: HAZMAT NONCOMPLIANCE PENALTY MANDATE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Federal trade fraud task forces surpass one billion in recoveries, demanding rigorous customs compliance."
+                "narration_line": "USPS introduced Ground Advantage rate hikes and strict new hazmat noncompliance penalties, forcing e-commerce sellers to automate compliance checks."
             },
             {
                 "slide_index": 8,
