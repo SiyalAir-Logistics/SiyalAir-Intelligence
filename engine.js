@@ -175,9 +175,9 @@ async function switchSlide(id, element) {
         if (!text) return "";
         if (text.includes(':')) {
             const parts = text.split(':');
-            const bluePart = parts[0] + ':';
-            const whitePart = parts.slice(1).join(':');
-            return `<span class="blue-text">${bluePart}</span>${whitePart}`;
+            const bluePart = parts[0].trim() + ':';
+            const whitePart = parts.slice(1).join(':').trim();
+            return `<span class="blue-text">${bluePart}</span> ${whitePart}`;
         }
         const words = text.trim().split(' ');
         if (words.length <= 1) return `<span class="last-word-blue">${text}</span>`;
