@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE INFRASTRUCTURE SHIFTS",
+        "hookTitle": "GLOBAL LOGISTICS DISRUPTION SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "CMA CGM: FRET SNCF BID WITHDRAWAL",
+                "headline": "USTR: SECTION 301 TARIFFS",
+                "teaserTitle": "RAIL: CMA CGM BID WITHDRAWAL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR implements Section 301 tariffs on 60 nations, forcing global supply chains to recalibrate customs compliance and landed costs immediately."
+                "narration_line": "USTR implements Section 301 tariffs on 60 nations, forcing cross-border importers to adjust compliance and origin routing."
             },
             {
                 "slide_index": 2,
-                "headline": "CMA CGM: FRET SNCF BID WITHDRAWAL",
-                "teaserTitle": "DOJ: TRADE FRAUD TASK FORCE SURGE",
+                "headline": "RAIL: CMA CGM BID WITHDRAWAL",
+                "teaserTitle": "BROKERAGE: VICARIOUS LIABILITY RISKS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CMA CGM withdraws its bid for France's Rail Logistics Europe, altering European intermodal hinterland integration strategies."
+                "narration_line": "CMA CGM drops its Fret SNCF rail bid, interrupting integrated rail freight expansion plans across European transport corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "DOJ: TRADE FRAUD TASK FORCE SURGE",
-                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING EXPANSION",
+                "headline": "BROKERAGE: VICARIOUS LIABILITY RISKS",
+                "teaserTitle": "E-COMMERCE: IMPORT TARIFF IMPACTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "DOJ's Trade Fraud Task Force surpasses one billion dollars in recoveries through aggressive data-driven compliance audits."
+                "narration_line": "A six hundred million dollar verdict against C.H. Robinson tightens third-party brokerage liability and motor carrier vetting protocols."
             },
             {
                 "slide_index": 4,
-                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING EXPANSION",
-                "teaserTitle": "EU/USPS: CROSS-BORDER E-COMMERCE REGULATION",
+                "headline": "E-COMMERCE: IMPORT TARIFF IMPACTS",
+                "teaserTitle": "MANUFACTURING: ISM PMI SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "FedEx expands autonomous trailer loading technology with Dexterity to optimize warehouse dock throughput and bypass labor constraints."
+                "narration_line": "New e-commerce tariffs reduce direct air export demand, opening freighter capacity for general cargo shippers worldwide."
             },
             {
                 "slide_index": 5,
-                "headline": "EU/USPS: CROSS-BORDER E-COMMERCE REGULATION",
-                "teaserTitle": "MARITIME: CARRIER TONNAGE CAPACITY SHIFT",
+                "headline": "MANUFACTURING: ISM PMI SURGE",
+                "teaserTitle": "AIR FREIGHT: JET FUEL SURCHARGES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "New EU import levies and USPS postal hikes curb cross-border e-commerce freighter flights and parcel traffic."
+                "narration_line": "July manufacturing PMI hit fifty-five point six, driving increased freight volume across domestic LTL and truckload networks."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: CARRIER TONNAGE CAPACITY SHIFT",
-                "teaserTitle": "ISM: MANUFACTURING GROWTH DRIVES FREIGHT",
+                "headline": "AIR FREIGHT: JET FUEL SURCHARGES",
+                "teaserTitle": "AUTONOMOUS: TRAILER LOADING TECH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Ocean carriers pivot from charters to owned tonnage while air cargo operators institute bi-weekly fuel surcharge updates."
+                "narration_line": "Airlines implement bi-weekly fuel surcharge reviews as volatile jet fuel prices strain transpacific air cargo margins."
             },
             {
                 "slide_index": 7,
-                "headline": "ISM: MANUFACTURING GROWTH DRIVES FREIGHT",
+                "headline": "AUTONOMOUS: TRAILER LOADING TECH",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "US manufacturing growth reaches 55.6 percent, accelerating less-than-truckload volume growth and tightening domestic freight capacity."
+                "narration_line": "FedEx expands AI-powered autonomous trailer loading tech to resolve warehouse labor bottlenecks and speed up dock operations."
             },
             {
                 "slide_index": 8,
