@@ -1,73 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL SUPPLY CHAIN",
-        "titleBlue": "DISRUPTIONS",
-        "footerSummary": "Major carrier investments, legal liabilities in freight brokerage, and strategic rerouting across volatile maritime corridors signal accelerating operational realignments globally."
+        "titleWhite": "GLOBAL LOGISTICS TRADE",
+        "titleBlue": "REFORMS",
+        "footerSummary": "Escalating tariff enforcement, court-validated FMC container rules, and surging fuel surcharges demand immediate operational agility across international freight networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORT EXPANSION: SEATTLE TERMINAL CAPACITY",
+            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
             "points": [
-                "Ocean carrier HMM commits $135 million to modernize Washington United Terminals at the Port of Seattle-Tacoma.",
-                "The capital infusion is engineered to expand terminal container handling throughput capacity by 50 percent upon completion.",
-                "This strategic modernization addresses historical market share losses to competing Pacific Northwest and West Coast ocean gateways.",
-                "Importers can expect improved vessel berth productivity and reduced terminal dwell times across Transpacific trade lanes."
+                "The USTR is implementing new Section 301 tariffs targeting sixty trading partners focused strictly on forced labor compliance as Section 122 tariffs expire.",
+                "The policy shift directly impacts high-volume import sectors by elevating compliance auditing duties and customs clearance friction across key trade lanes.",
+                "Trade compliance teams must rapidly re-evaluate supply chain origin documentation to mitigate potential seizure or punitive tariffs at entry ports.",
+                "Importers should anticipate increased customs holds and higher landed costs on goods originated from targeted manufacturing jurisdictions."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL LOGISTICS: CMA CGM CANCELS RLE BID",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "RAIL LOGISTICS: CMA CGM CANCELS RLE BID",
-            "points": [
-                "French container shipping giant CMA CGM officially withdraws its bid to acquire a 49 percent stake in Fret SNCF.",
-                "The cancellation halts plans to integrate Rail Logistics Europe assets into Ceva Logistics inland multimodal transport network.",
-                "State rail restructurings and European regulatory scrutiny created insurmountable operational friction for private equity involvement.",
-                "Shippers using European rail freight must prepare for continued state-managed rail services without private capital expansion."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "BROKER LIABILITY: C.H. ROBINSON VERDICT CHALLENGE",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "BROKER LIABILITY: C.H. ROBINSON VERDICT CHALLENGE",
-            "points": [
-                "Freight brokerage giant C.H. Robinson vows to appeal a massive $604 million negligent-hiring jury verdict in Texas.",
-                "The unprecedented legal ruling assigns direct vicarious liability to third-party logistics intermediaries for motor carrier crashes.",
-                "Brokerages across North America are overhauling carrier vetting protocols and safety compliance audit algorithms immediately.",
-                "Shippers should anticipate tightening truckload capacity and rising intermediary service fees to cover escalating legal risk exposure."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TERMINAL AUTOMATION: FEDEX AUTONOMOUS TRAILER LOADING",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "TERMINAL AUTOMATION: FEDEX AUTONOMOUS TRAILER LOADING",
-            "points": [
-                "FedEx expands its autonomous trailer loading pilot program with Dexterity technology at its major Maryland sorting hub.",
-                "Robotic loading systems dynamically optimize trailer cube utilization while reducing manual dock labor requirements.",
-                "Integrated artificial intelligence vision systems continuously recalculate parcel placement to prevent transit damage.",
-                "High-volume parcel senders will benefit from accelerated hub throughput velocity and improved dock door processing efficiency."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FLEET MANUFACTURING: DAIMLER SHUTS PORTLAND PLANT",
+            "nextUpTease": "FMC: APPEALS COURT DETENTION MANDATE",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -75,16 +24,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "FLEET MANUFACTURING: DAIMLER SHUTS PORTLAND PLANT",
+            "id": 2,
+            "heading": "FMC: APPEALS COURT DETENTION MANDATE",
             "points": [
-                "Daimler Truck North America announces the permanent shutdown of its Portland manufacturing facility by the end of October.",
-                "The closure marks the second operational shutdown of the historic Swan Island assembly plant following market realignment.",
-                "Commercial vehicle manufacturers are consolidating production footprints to balance softening Class 8 truck demand cycles.",
-                "Fleet procurement directors should prepare for adjusted order delivery schedules as production shifts to alternate facilities."
+                "The U.S. Court of Appeals for the D.C. Circuit upheld the Federal Maritime Commission ruling that ocean container detention fees must promote freight fluidity.",
+                "Ocean carriers can no longer assess container detention charges during periods when port terminals are inaccessible or closed to truckers.",
+                "This landmark judicial ruling reinforces OSRA 2022 mandates designed to eliminate predatory ocean carrier billing practices during supply chain bottlenecks.",
+                "Shippers and drayage operators gain substantial legal leverage to dispute unjustified demurrage and detention invoices across all U.S. marine gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE M&A: EBAY FINALIZE DEPOP ACQUISITION",
+            "nextUpTease": "FRA: MEXICAN RAIL CREW STANDARDS",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "FRA: MEXICAN RAIL CREW STANDARDS",
+            "points": [
+                "The Federal Railroad Administration proposes stricter English language proficiency standards for Mexican rail crews operating trains into the United States.",
+                "Enhanced safety communication mandates aim to standardize cross-border rail operational protocols and reduce border interchange delays.",
+                "Increased regulatory oversight along southern rail gateways reflects growing freight volumes moving under expanded nearshoring initiatives.",
+                "Cross-border rail shippers should expect temporary operational adjustments as rail operators align crew certifications with new federal requirements."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "STATE REGULATION: NJ DYNAMIC PRICING BAN",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -92,35 +58,69 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "E-COMMERCE M&A: EBAY FINALIZE DEPOP ACQUISITION",
+            "id": 4,
+            "heading": "STATE REGULATION: NJ DYNAMIC PRICING BAN",
             "points": [
-                "EBay closes its $1.4 billion acquisition of fashion C2C platform Depop from Etsy following UK regulatory clearance.",
-                "Depop will operate as a standalone subsidiary while leveraging eBay cross-border logistics and payments infrastructure.",
-                "The consolidation strengthens second-hand apparel supply chains across key North American and European e-commerce corridors.",
-                "Sellers and buyers will gain access to streamlined international shipping options and expanded buyer protection protocols."
+                "New Jersey enacts legislation banning dynamic pricing practices and imposing a one-year moratorium on electronic shelf label implementations by retailers.",
+                "The statute halts real-time automated price adjustments across brick-and-mortar retail supply chain networks throughout the state.",
+                "State regulators aim to evaluate algorithmic pricing transparency and protect consumers from sudden intra-day retail price spikes.",
+                "Omnichannel retailers must adjust localized pricing architecture and re-evaluate automated inventory management technologies in regional distribution networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME ROUTING: HORMUZ STRETCH RELIABILITY DROPS",
+            "nextUpTease": "RAIL INFRASTRUCTURE: INFRARED INVESTMENT",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.retaildive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "RAIL INFRASTRUCTURE: INFRARED INVESTMENT",
+            "points": [
+                "InfraRed Capital Partners acquired a majority stake in Rail Modal Group to accelerate expansion across North American intermodal logistics terminals.",
+                "The capital infusion will expand inland rail hub connections and increase container handling capacity for intermodal freight networks.",
+                "Private equity investments in rail infrastructure reflect long-term capital shifts toward low-carbon, high-efficiency inland cargo transport solutions.",
+                "Intermodal shippers will benefit from expanded inland terminal options and improved rail-to-truck transfer efficiency across key freight corridors."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
+            "points": [
+                "Major international air cargo carriers are transitioning to bi-weekly jet fuel surcharge adjustments to combat ongoing global energy market volatility.",
+                "Long-haul freighter operators are rapidly passing escalating fuel costs directly to freight forwarders and global shippers.",
+                "Volatile jet fuel prices are forcing air freight operators to shorten rate validity windows to protect operational operating margins.",
+                "Air freight shippers must incorporate dynamic rate buffers into budget forecasts to manage unpredictable air transport expenditure swings."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRUCKING LABOR: FREEDOM HAULERS",
+            "tags": [
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME ROUTING: HORMUZ STRETCH RELIABILITY DROPS",
+            "heading": "TRUCKING LABOR: FREEDOM HAULERS",
             "points": [
-                "Global container ship schedule reliability dropped sharply in Q2 following maritime disruptions around the Strait of Hormuz.",
-                "Commercial vessel diversions around Africa and alternative transit routes have inflated voyage durations by 10 to 14 days.",
-                "Shipping lines are reallocating fleet capacity to maintain service loops, straining global container availability.",
-                "Supply chain planners must adjust lead time buffer calculations to account for ongoing geopolitical maritime rerouting."
+                "The Department of Transportation launched the Freedom Haulers initiative to streamline commercial driver's license pathways for military veterans.",
+                "The joint agency program accelerates veteran driver transition while pairing recruitment pushes with strict enforcement against non-domiciled CDL holders.",
+                "Federal efforts target core domestic trucking capacity shortfalls by integrating highly disciplined, skilled labor into interstate freight corridors.",
+                "Fleet operators will gain access to a qualified labor pool, supporting long-term driver retention and operational fleet stability across North America."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
