@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT RATE",
-        "titleBlue": "SPIKE",
-        "footerSummary": "Carriers eye aggressive August spikes amidst persistent spot rate declines and capacity crunches."
+        "titleWhite": "GLOBAL TRADE COMPLIANCE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Rapid legal enforcement and regulatory shifts across customs, brokerage liability, and postal surcharges pose imminent operational cost risks for global supply chain networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRANSPACIFIC SPOT RATES AND AUGUST CAPACITY PRESSURES",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE RECOVERIES",
             "points": [
-                "Container spot freight rates across transpacific and Asia-Europe corridors experienced single-digit declines during the latest reporting period.",
-                "Optimistic ocean carriers are actively strategizing for an aggressive August rate spike to counter softening market fundamentals.",
-                "Shippers face continued uncertainty as carriers attempt to enforce mid-season general rate increases despite fluctuating demand.",
-                "Market observers recommend maintaining flexible service contracts to navigate sudden capacity adjustments from major alliances."
+                "The Justice Department's Trade Fraud Task Force surpassed $1 billion in financial recoveries, penalties, and forfeitures within one year of operation.",
+                "Federal enforcement targets deliberate duty evasion, misclassification of imported goods, and fraudulent origin labeling across international supply chains.",
+                "Cross-departmental data analytics are accelerating investigations into mid-market importers and freight forwarding partners nationwide.",
+                "Importers must instantly audit supply chain customs declarations to mitigate substantial regulatory fines and criminal prosecution risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO DEMAND SURGE",
+            "nextUpTease": "COURTS: C.H. ROBINSON BROKER LIABILITY",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR CARGO DEMAND SURGE DRIVEN BY DIGITAL TRAFFIC",
+            "heading": "COURTS: C.H. ROBINSON BROKER LIABILITY",
             "points": [
-                "Global air cargo demand strengthened significantly last month, driven heavily by expanding artificial intelligence hardware traffic.",
-                "Despite geopolitical tensions, major carriers continue to implement dynamic fuel surcharges to offset volatile jet fuel pricing.",
-                "Middle Eastern hub operations are gradually recovering, easing historical bottleneck constraints across primary transit lanes.",
-                "Forwarders must adapt to shorter review windows for airline surcharges as carriers pass on immediate operational costs."
+                "Freight broker giant C.H. Robinson faces an unprecedented $604 million negligent hiring verdict regarding contract carrier selection protocols.",
+                "The legal ruling severely expands broker vicarious liability, penalizing intermediaries for motor carrier safety infractions and inadequate vetting procedures.",
+                "Logistics intermediaries across North America are overhauling carrier onboarding software to integrate real-time safety rating verification.",
+                "Shippers and brokers will likely experience contracted capacity contraction as stringent carrier qualification standards filter out high-risk fleets."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS COMPLIANCE AND TARIFFS",
+            "nextUpTease": "FRA: MEXICAN RAIL CREW COMPLIANCE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "USTR SECTION TARIFFS AND TRADE COMPLIANCE SHIFTS",
+            "heading": "FRA: MEXICAN RAIL CREW COMPLIANCE",
             "points": [
-                "The Office of the United States Trade Representative is moving forward with newly structured tariffs targeting dozens of trading partners.",
-                "Importers face increased compliance friction as authorities strictly enforce documentation standards across cross-border supply chains.",
-                "Legal challenges have emerged regarding the application of specific trade levies utilized under updated regulatory frameworks.",
-                "Supply chain managers must audit bill-of-lading data rigorously to prevent costly customs detentions and regulatory audits."
+                "The Federal Railroad Administration proposes strict English language proficiency standards for Mexican locomotive crews operating within the United States.",
+                "Regulatory mandates aim to eliminate cross-border rail communication breakdowns at critical interchange gateways along the southern border.",
+                "Rail operators across Mexico and North America must implement mandatory language testing and operational crew re-certifications.",
+                "Cross-border rail dwell times could temporarily escalate as rail carriers adjust shift schedules to comply with updated communication mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME DETENTION AND DEMURRAGE",
+            "nextUpTease": "USPS: RURAL PARCEL SURCHARGE ELEVATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FEDERAL MARITIME COMMISSION FREIGHT FLUIDITY ENFORCEMENT",
+            "heading": "USPS: RURAL PARCEL SURCHARGE ELEVATION",
             "points": [
-                "Appellate court rulings continue to uphold Federal Maritime Commission standards ensuring detention fees directly promote cargo fluidity.",
-                "Ocean transportation intermediaries face heightened regulatory scrutiny regarding billing practices and terminal storage charges.",
-                "Ports are working around the clock to clear lingering intermodal backlogs and optimize container turnaround times.",
-                "Shippers can leverage updated FMC dispute mechanisms to contest unfair demurrage assessments at major marine facilities."
+                "The United States Postal Service implemented non-flat rate price hikes targeting lightweight Ground Advantage packages destined for rural postal zip codes.",
+                "Regional delivery surcharges introduce an additional two to three dollar per-package fee, significantly raising final-mile fulfillment costs.",
+                "E-commerce marketplaces and direct-to-consumer merchants are adjusting shipping calculators to absorb or pass on increased delivery expenses.",
+                "Shippers are urged to diversify multi-carrier final-mile strategies to bypass elevated remote postal destination fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL SUPPLY CHAIN RESILIENCE",
+            "nextUpTease": "UAE: CRUDE OIL PRICING OVERHAUL",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RETAIL INVENTORY STRATEGIES FOR PEAK SEASON",
+            "heading": "UAE: CRUDE OIL PRICING OVERHAUL",
             "points": [
-                "Major retailers are actively restructuring their inbound inventory positioning to mitigate severe weather disruptions.",
-                "E-commerce giants are expanding distribution footprints in key domestic regions to accelerate last-mile delivery speeds.",
-                "Supply chain teams are prioritizing high-margin essentials over discretionary apparel in anticipation of consumer budget shifts.",
-                "Advanced predictive analytics are increasingly deployed to dynamically reroute freight before environmental bottlenecks occur."
+                "The United Arab Emirates initiated a comprehensive overhaul of crude oil pricing benchmarks amid ongoing Strait of Hormuz maritime security tensions.",
+                "Volatile Middle Eastern freight lanes and supply disruptions forced regional energy authorities to restructure spot market pricing mechanics.",
+                "Ocean carriers and air freight operators face unpredictable bunker fuel surcharges as crude benchmarks adjust to maritime security risks.",
+                "Global supply chains must prepare for sustained fuel surcharge volatility across long-haul Asia-Europe and Transpacific shipping corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTONOMOUS LOGISTICS AND ROBOTICS",
+            "nextUpTease": "EBAY: DEPOP ACQUISITION CLOSING",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AUTONOMOUS WAREHOUSE ROBOTICS AND TRAILER LOADING",
+            "heading": "EBAY: DEPOP ACQUISITION CLOSING",
             "points": [
-                "Logistics providers are expanding pilot deployments of autonomous trailer-loading systems to resolve dock labor constraints.",
-                "Warehouse automation investments are shifting from isolated point solutions to fully integrated software-driven ecosystems.",
-                "Regulatory bodies are reviewing proposals impacting foreign-manufactured automation hardware across critical distribution hubs.",
-                "Facility managers report measurable throughput gains following the integration of drone-assisted inventory cycle counting."
+                "eBay finalized its $1.4 billion acquisition of fashion C2C marketplace Depop from Etsy following comprehensive regulatory approvals.",
+                "The strategic consolidation aims to integrate cross-border re-commerce logistics, payment systems, and seller infrastructure under eBay.",
+                "Apparel sellers gain expanded international buyer exposure, supported by standardized global shipping and inventory verification pipelines.",
+                "Marketplace logistics competition is intensifying as e-commerce platforms streamline circular commerce and cross-border trade fulfillment."
             ],
             "imageUrl": "",
-            "nextUpTease": "MILITARY VETERAN HIRING PIPELINES",
+            "nextUpTease": "US SENATE: CHAMELEON CARRIER LEGISLATION",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "WORKFORCE DEVELOPMENT AND TRUCKING RECRUITMENT INITIATIVES",
+            "heading": "US SENATE: CHAMELEON CARRIER LEGISLATION",
             "points": [
-                "Federal interagency programs are actively streamlining commercial driver licensing pathways for transitioning military veterans.",
-                "Enforcement agencies continue aggressive nationwide crackdowns targeting non-domiciled drivers and safety compliance violations.",
-                "Freight brokerages face ongoing legal evaluations regarding carrier vetting procedures and vicarious liability standards.",
-                "Carriers are enhancing driver communication platforms and artificial intelligence tools to improve retention and asset utilization."
+                "New U.S. Senate legislation targets 'chameleon carriers' that shut down operations and re-register under new entities to evade safety penalties.",
+                "The bill mandates advanced data-sharing between federal regulators, state transportation agencies, and law enforcement database networks.",
+                "Automated safety auditing systems will instantly flag shared addresses, vehicle identification numbers, and fleet ownership structures.",
+                "Freight brokers and shippers will benefit from cleaner carrier databases, drastically reducing exposure to fraudulent motor carriers."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

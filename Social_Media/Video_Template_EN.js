@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT RATE SPIKE",
+        "hookTitle": "GLOBAL TRADE COMPLIANCE SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRANSPACIFIC SPOT RATES AND AUGUST CAPACITY PRESSURES",
-                "teaserTitle": "AIR CARGO DEMAND SURGE",
+                "headline": "DOJ: TRADE FRAUD TASK FORCE RECOVERIES",
+                "teaserTitle": "COURTS: C.H. ROBINSON BROKER LIABILITY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Carriers eye aggressive August spikes amidst persistent spot rate declines across major transpacific ocean corridors."
+                "narration_line": "DOJ's Trade Fraud Task Force hits one billion dollars in recoveries targeting deliberate customs duty evasion and illegal origin labeling."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO DEMAND SURGE DRIVEN BY DIGITAL TRAFFIC",
-                "teaserTitle": "USTR SECTION TARIFFS",
+                "headline": "COURTS: C.H. ROBINSON BROKER LIABILITY",
+                "teaserTitle": "FRA: MEXICAN RAIL CREW COMPLIANCE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Global air cargo demand strengthens as artificial intelligence hardware shipments offset ongoing geopolitical supply chain friction."
+                "narration_line": "A six hundred million dollar negligent hiring verdict against C.H. Robinson forces freight brokers to overhaul carrier safety qualification protocols."
             },
             {
                 "slide_index": 3,
-                "headline": "USTR SECTION TARIFFS AND TRADE COMPLIANCE SHIFTS",
-                "teaserTitle": "FMC FREIGHT FLUIDITY",
+                "headline": "FRA: MEXICAN RAIL CREW COMPLIANCE",
+                "teaserTitle": "USPS: RURAL PARCEL SURCHARGE ELEVATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Importers face increased compliance friction as authorities enforce newly structured trade levies and rigorous documentation standards."
+                "narration_line": "Federal regulators propose mandatory English proficiency standards for Mexican rail crews operating cross-border trains into the United States."
             },
             {
                 "slide_index": 4,
-                "headline": "FEDERAL MARITIME COMMISSION FREIGHT FLUIDITY ENFORCEMENT",
-                "teaserTitle": "RETAIL INVENTORY STRATEGIES",
+                "headline": "USPS: RURAL PARCEL SURCHARGE ELEVATION",
+                "teaserTitle": "UAE: CRUDE OIL PRICING OVERHAUL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Appellate courts uphold Federal Maritime Commission rules ensuring detention fees actively promote container freight fluidity."
+                "narration_line": "USPS increases lightweight parcel rates for rural delivery addresses, pushing up last-mile fulfillment costs for e-commerce sellers."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL INVENTORY STRATEGIES FOR PEAK SEASON",
-                "teaserTitle": "AUTONOMOUS ROBOTICS",
+                "headline": "UAE: CRUDE OIL PRICING OVERHAUL",
+                "teaserTitle": "EBAY: DEPOP ACQUISITION CLOSING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Major retailers deploy predictive analytics to dynamically position inventory and mitigate severe weather supply chain disruptions."
+                "narration_line": "The UAE restructures crude oil pricing benchmarks as ongoing Strait of Hormuz tensions create maritime fuel surcharge volatility."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTONOMOUS WAREHOUSE ROBOTICS AND TRAILER LOADING",
-                "teaserTitle": "WORKFORCE INITIATIVES",
+                "headline": "EBAY: DEPOP ACQUISITION CLOSING",
+                "teaserTitle": "US SENATE: CHAMELEON CARRIER LEGISLATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Logistics providers scale autonomous trailer loading systems and drone inventory counting to resolve warehouse labor constraints."
+                "narration_line": "eBay closes its one point four billion dollar acquisition of Depop to consolidate cross-border resale commerce logistics and seller tools."
             },
             {
                 "slide_index": 7,
-                "headline": "WORKFORCE DEVELOPMENT AND TRUCKING RECRUITMENT INITIATIVES",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "US SENATE: CHAMELEON CARRIER LEGISLATION",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Federal programs streamline veteran licensing while safety crackdowns target non-domiciled commercial vehicle operators nationwide."
+                "narration_line": "New Senate legislation targets chameleon carriers, deploying automated data audits to prevent unsafe fleets from re-registering under new names."
             },
             {
                 "slide_index": 8,
