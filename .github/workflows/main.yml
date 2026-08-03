@@ -14,15 +14,15 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'template.js'           # Prevent re-entrant triggers from template data updates
-      - 'post.txt'              # Prevent re-entrant triggers from text payload updates
-      - 'download/**'          # Prevent re-entrant triggers from screenshot asset commits
-      - 'bg_tracker.txt'       # Prevent re-entrant triggers from background state updates
-      - 'follow_tracker.txt'   # Prevent re-entrant triggers from follow-up slide state updates
-      - 'Social_Media/**'      # Prevent re-entrant triggers from template code updates
+      - 'template.js'            # Prevent re-entrant triggers from template data updates
+      - 'post.txt'               # Prevent re-entrant triggers from text payload updates
+      - 'download/**'            # Prevent re-entrant triggers from screenshot asset commits
+      - 'bg_tracker.txt'         # Prevent re-entrant triggers from background state updates
+      - 'follow_tracker.txt'     # Prevent re-entrant triggers from follow-up slide state updates
+      - 'Social_Media/**'        # Prevent re-entrant triggers from template code updates
   workflow_dispatch:
   schedule:
-    - cron: '16 * * * *'       # Primary precise hourly trigger (runs at :16 past every hour each hour)
+    - cron: '16 * * * *'        # Primary precise hourly trigger (runs at :16 past every hour each hour)
 
 jobs:
   run-engine:
@@ -36,7 +36,7 @@ jobs:
       - name: Checkout Code Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1            # Optimized: Performs shallow clone of the latest commit to prevent fetch socket hangups
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
 
@@ -96,7 +96,7 @@ jobs:
           except Exception:
               current_val = 1
 
-          next_val = 1 if current_val >= max_backgrounds else current_val + 1
+          next_val = ((current_val - 1) % max_backgrounds) + 1
 
           with open(tracker_file, "w", encoding="utf-8") as f:
               f.write(str(next_val))
@@ -130,7 +130,7 @@ jobs:
           except Exception:
               current_follow_val = 1
 
-          next_follow_val = 1 if current_follow_val >= max_followups else current_follow_val + 1
+          next_follow_val = ((current_follow_val - 1) % max_followups) + 1
 
           with open(follow_tracker_file, "w", encoding="utf-8") as f:
               f.write(str(next_follow_val))
@@ -285,7 +285,7 @@ jobs:
                     </table>
                     
                     <h3 style="color: #00a8a8; font-size: 14px; margin-top: 25px; margin-bottom: 10px; border-bottom: 1px solid #30363d; padding-bottom: 5px;">📱 SOCIAL MEDIA POST CONTENT (POST.TXT)</h3>
-                    <pre style="background-color: #0d1117; border: 1px solid #30363d; padding: 15px; border-radius: 4px; color: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.6; white-space: pre-wrap; word-wrap: break-word; margin: 10px 0;">{post_content}</pre>
+                    <pre style="background-color: #0d1117; border: 1px solid #30363d; padding-bottom: 15px; border-radius: 4px; color: #e6edf3; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 13px; line-height: 1.6; white-space: pre-wrap; word-wrap: break-word; margin: 10px 0;">{post_content}</pre>
                     
                     <p style="font-size: 11px; color: #8b949e; border-top: 1px solid #30363d; padding-top: 15px; margin-bottom: 0;">
                       This is an automated operational metric confirmation statement. Do not reply.
@@ -323,8 +323,8 @@ jobs:
                           msg.attach(part)
                           attached_count += 1
                           print(f"[SUCCESS] Attached {file_path} as '{attach_name}'.")
-                  except Exception as att_err:
-                      print(f"[WARNING] Failed to attach {file_path}: {str(att_err)}")
+                      except Exception as att_err:
+                          print(f"[WARNING] Failed to attach {file_path}: {str(att_err)}")
 
               server = smtplib.SMTP_SSL('smtp.gmail.com', 465)
               server.login(sender, password)
