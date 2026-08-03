@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT DISRUPTION",
-        "titleBlue": "RISKS",
-        "footerSummary": "Shift in broker liabilities, cross-border rail language enforcement, and escalating tariff framework revisions trigger widespread operational realignment across international supply networks."
+        "titleWhite": "GLOBAL LOGISTICS NETWORK",
+        "titleBlue": "AUTONOMY",
+        "footerSummary": "Customs fraud crackdowns, carrier surcharge spikes, and ocean detention mandates force immediate recalibration of cross-border supply chain operations globally."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "C.H. ROBINSON: $604M BROKER LIABILITY VERDICT",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE RECOVERIES",
             "points": [
-                "A landmark legal ruling delivered a $604 million advisory verdict against C.H. Robinson for negligent carrier selection.",
-                "The historic court decision dramatically increases financial liability exposure and vetting standards across third-party logistics providers.",
-                "Freight brokerages are now forced to overhaul carrier qualification protocols to prevent vicarious liability claims.",
-                "Industry analysts project widespread carrier capacity contractions as automated dispatch platforms re-screen long-haul fleets."
+                "The Justice Department Trade Fraud Task Force has officially surpassed one billion dollars in total financial recoveries and asset forfeitures. The interagency initiative targets severe customs misclassification, anti-dumping evasion, and fraudulent transshipment schemes across major import gateways.",
+                "Enforcement actions have intensified over the past eleven months, triggering immediate risk exposures and strict compliance audits for international importers. Federal authorities are aggressively targeting supply chain intermediaries that facilitate illegal trade practices.",
+                "Logistics managers must implement end-to-end auditability and rigorous cross-border documentation to avoid severe civil and criminal financial penalties. Importers face heightened scrutiny on origin verification and tariff classification metrics.",
+                "Continuous trade shifts require monitoring immediate carrier capacity adjustments."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: SECTION 301 FORCED LABOR TARIFFS",
+            "nextUpTease": "EUROPE: HEAVY FLEET ELECTRIFICATION SHIFT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "USTR: SECTION 301 FORCED LABOR TARIFFS",
+            "heading": "EUROPE: HEAVY FLEET ELECTRIFICATION SHIFT",
             "points": [
-                "The Office of the United States Trade Representative is implementing Section 301 tariffs targeting 60 international trading partners.",
-                "The regulatory measure enforces stringent forced labor compliance criteria following the expiration of temporary Section 122 tariffs.",
-                "Importers face heightened customs scrutiny and mandatory supply chain origin mapping for cross-border shipments.",
-                "Shippers must immediately audit overseas manufacturing nodes to prevent severe port clearance delays and product seizures."
+                "A comprehensive survey by Germany \u00d6ko-Institut reveals that ninety-three percent of heavy electric truck operators report high commercial satisfaction. Commercial fleets operating zero-emission heavy transport across European freight corridors demonstrate strong operational viability.",
+                "Early adopters report significant reductions in total cost of ownership alongside reliable range performance during intensive daily logistics operations. High satisfaction metrics are accelerating corporate fleet transition timelines across regional distribution networks.",
+                "Freight forwarders are updating decarbonization benchmarks as regulatory mandates push logistics networks away from traditional diesel powertrains. Network infrastructure planning is shifting rapidly toward high-capacity megawatt charging corridors.",
+                "Continuous trade shifts require monitoring immediate carrier capacity adjustments."
             ],
             "imageUrl": "",
-            "nextUpTease": "FRA: TOUGHER RAIL CREW LANGUAGE STANDARDS",
+            "nextUpTease": "AIR CARGO: BI-WEEKLY FUEL SURCHARGES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FRA: TOUGHER RAIL CREW LANGUAGE STANDARDS",
+            "heading": "AIR CARGO: BI-WEEKLY FUEL SURCHARGES",
             "points": [
-                "The Federal Railroad Administration proposed strict English proficiency mandates for foreign crews operating across domestic tracks.",
-                "The regulation directly targets cross-border rail operations originating from Mexico to heighten operational safety standards.",
-                "Class I railroads must adjust crew interchange schedules and invest in comprehensive language certification programs.",
-                "Cross-border rail transit times are anticipated to experience localized bottlenecks during initial crew verification phase-ins."
+                "International air cargo carriers are transitioning to bi-weekly fuel surcharge evaluations to manage severe jet fuel price volatility. Geopolitical tension around key maritime chokepoints is forcing air freighters to continuously realign flight route pricing structures.",
+                "Shippers face immediate cost fluctuations on long-haul transpacific and Europe-Asia trade lanes as carriers rapidly pass along operating expenses. Variable surcharge cycles complicate quarterly freight budget forecasting for global enterprise supply chains.",
+                "Air freight procurement strategies are shifting toward dynamic spot contract indexation to mitigate unpredictable rate adjustments. Logistics planners must adjust landed cost models to absorb frequent surcharge fluctuations.",
+                "Continuous trade shifts require monitoring immediate carrier capacity adjustments."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: RURAL GROUND ADVANTAGE RATE SURCHARGES",
+            "nextUpTease": "FMC: OCEAN DETENTION FEE MANDATE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "USPS: RURAL GROUND ADVANTAGE RATE SURCHARGES",
+            "heading": "FMC: OCEAN DETENTION FEE MANDATE",
             "points": [
-                "The United States Postal Service implemented higher Ground Advantage package rates targeting e-commerce marketplace sellers.",
-                "Lightweight parcel deliveries routed to non-urban ZIP codes now incur an additional surcharge of $2 to $3 per package.",
-                "E-commerce retailers are restructuring last-mile distribution networks to absorb or pass along expanding delivery fees.",
-                "Small businesses will likely shift parcel volumes toward regional fulfillment nodes to mitigate escalating postal costs."
+                "The US Court of Appeals has upheld the Federal Maritime Commission ruling that ocean carrier detention charges must directly serve freight fluidity. The binding legal decision strictly limits carrier ability to assess fees when cargo container pickup is impossible.",
+                "Ocean container lines must eliminate punitive billing practices that fail to incentivize timely equipment return during port congestion. Importers gain substantial legal recourse to challenge unjustified demurrage and detention invoices issued by ocean lines.",
+                "The decision establishes crucial regulatory precedent for international maritime supply chain operations across all major American sea ports. Maritime shippers can systematically audit historical billing data to reclaim non-compliant detention charges.",
+                "Continuous trade shifts require monitoring immediate carrier capacity adjustments."
             ],
             "imageUrl": "",
-            "nextUpTease": "NEW JERSEY: ELECTRONIC SHELF LABEL BAN",
+            "nextUpTease": "E-COMMERCE: DEPOP ACQUISITION FINALISED",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NEW JERSEY: ELECTRONIC SHELF LABEL BAN",
+            "heading": "E-COMMERCE: DEPOP ACQUISITION FINALISED",
             "points": [
-                "New Jersey enacted legislation banning dynamic price adjustments and freezing new electronic shelf label installations.",
-                "The state imposed a one-year moratorium to investigate consumer algorithmic pricing mechanisms in retail storefronts.",
-                "Omnichannel retailers must pause automated store pricing synchronizations and maintain traditional physical tagging.",
-                "Supply chain technology vendors face regional regulatory hurdles that slow automated retail inventory management deployments."
+                "eBay has officially completed its one point four billion dollar acquisition of apparel marketplace Depop following regulatory clearance. The strategic takeover consolidates cross-border consumer-to-consumer fashion shipping networks under a single operational infrastructure.",
+                "Logistics synergies will streamline international parcel routing, cross-border customs processing, and reverse logistics integration for fashion merchants. Combined fulfillment capabilities will lower unit processing costs while expanding global marketplace coverage.",
+                "The transaction signals broader consolidation among major e-commerce platforms seeking operational scale in specialized retail supply chains. Merchant fulfillment workflows are expected to unify under automated global label generation systems.",
+                "Continuous trade shifts require monitoring immediate carrier capacity adjustments."
             ],
             "imageUrl": "",
-            "nextUpTease": "WALMART: REAL-TIME AI WEATHER REROUTING",
+            "nextUpTease": "SNCF: FRENCH RAIL DECOUPLING",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "WALMART: REAL-TIME AI WEATHER REROUTING",
+            "heading": "SNCF: FRENCH RAIL DECOUPLING",
             "points": [
-                "Walmart integrated predictive artificial intelligence models to proactively re-route freight before severe weather events occur.",
-                "The automated system dynamically rebalances distribution center stock levels to maintain store inventory continuity during disruptions.",
-                "Real-time weather analytics substantially lower emergency expedited freight charges and mitigate store out-of-stock risks.",
-                "Enterprise logistics operators are accelerating investment in predictive weather orchestration across distribution networks."
+                "Global shipping giant CMA CGM has formally withdrawn its bid to acquire a forty-nine percent stake in French rail operator SNCF. The sudden exit derails planned integration between ocean carrier networks and European national hinterland rail freight assets.",
+                "Rail logistics operations face renewed structural uncertainty as state rail divisions seek alternative private capital partners for fleet modernization. Intermodal freight throughput across key European freight corridors faces potential operational delays.",
+                "Ocean lines are redirecting logistics investment toward private barge operators and dedicated trucking networks across Western Europe. Hinterland transportation planning requires immediate route diversification to bypass regional rail bottlenecks.",
+                "Continuous trade shifts require monitoring immediate carrier capacity adjustments."
             ],
             "imageUrl": "",
-            "nextUpTease": "GE AEROSPACE: 60 PERCENT LEAD TIME REDUCTION",
+            "nextUpTease": "FEDEX: AUTONOMOUS DOCK AUTOMATION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GE AEROSPACE: 60 PERCENT LEAD TIME REDUCTION",
+            "heading": "FEDEX: AUTONOMOUS DOCK AUTOMATION",
             "points": [
-                "GE Aerospace achieved a 60% reduction in manufacturing lead times across its primary aircraft engine assembly plants.",
-                "Process consolidation and streamlined internal logistics yielded a major surge in second-quarter F110 engine deliveries.",
-                "The manufacturing optimization minimizes operational bottlenecks and drastically cuts internal floor transit distances.",
-                "Aerospace suppliers must adapt to accelerated component delivery schedules to keep pace with assembly plant throughput."
+                "FedEx has expanded deployment of its autonomous trailer loading robotic systems across primary distribution hubs nationwide. The robotic automation technology accelerates trailer loading throughput while minimizing physical dock hand labor requirements.",
+                "Sortation center processing efficiency has increased significantly as automated loading systems optimize internal trailer spatial utilization. High-density robotic loading reduces trailer turnaround times across major parcel freight transfer points.",
+                "The system marks a major step toward fully automated warehouse loading docks within high-volume parcel logistics infrastructure. Competitors are under mounting pressure to deploy similar robotic trailer loading solutions to maintain dock speed.",
+                "Continuous trade shifts require monitoring immediate carrier capacity adjustments."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
