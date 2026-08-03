@@ -6,52 +6,52 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR SECTION TARIFFS IMPLEMENTATION",
-                "teaserTitle": "DOJ TRADE FRAUD ENFORCEMENT",
+                "headline": "USTR SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "FMC DETENTION FEES RULING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR is moving forward with new tariffs across 60 trading partners, forcing supply chains to re-evaluate sourcing."
+                "narration_line": "The USTR advances sweeping Section 301 tariffs on 60 trading partners, forcing immediate compliance shifts."
             },
             {
                 "slide_index": 2,
-                "headline": "DOJ TRADE FRAUD ENFORCEMENT",
-                "teaserTitle": "DOMESTIC INTERMODAL VOLUME HIGHS",
+                "headline": "FMC UPHOLDS FREIGHT FLUIDITY RULES",
+                "teaserTitle": "FREEDOM HAULERS INITIATIVE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The DOJ Trade Fraud Task Force crosses one billion dollars in recoveries, intensifying audits for importers."
+                "narration_line": "Appellate courts uphold FMC detention fee regulations to protect shippers and promote terminal container fluidity."
             },
             {
                 "slide_index": 3,
-                "headline": "DOMESTIC INTERMODAL VOLUME HIGHS",
-                "teaserTitle": "AIR CARGO SURCHARGE ESCALATION",
+                "headline": "FREEDOM HAULERS VETERAN PIPELINE",
+                "teaserTitle": "MANUFACTURING PMI EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Domestic intermodal volumes hit record highs in Q2 as shippers capitalize on substantial cost savings over truckloads."
+                "narration_line": "The new Freedom Haulers program accelerates military veteran transitions into commercial trucking careers."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO SURCHARGE ESCALATION",
-                "teaserTitle": "NEGLIGENT HIRING LEGAL LIABILITY",
+                "headline": "MANUFACTURING PMI MULTI-YEAR PEAK",
+                "teaserTitle": "CARRIER CHARTER TONNAGE SHIFT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Airlines implement bi-weekly fuel surcharge reviews to manage ongoing market volatility and rising jet fuel costs."
+                "narration_line": "U.S. manufacturing PMI hits a four-year high of 55.6, driving robust freight demand for LTL carriers."
             },
             {
                 "slide_index": 5,
-                "headline": "NEGLIGENT HIRING LEGAL LIABILITY",
-                "teaserTitle": "COMMERCIAL EV ADOPTION MILESTONE",
+                "headline": "OCEAN CARRIERS PREFER OWNED TONNAGE",
+                "teaserTitle": "RHINE WATER LEVEL DISRUPTIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A massive six-hundred-million-dollar brokerage verdict forces logistics firms to overhaul carrier vetting protocols."
+                "narration_line": "Top container lines accelerate their shift toward owned vessel tonnage to mitigate charter market volatility."
             },
             {
                 "slide_index": 6,
-                "headline": "COMMERCIAL EV ADOPTION MILESTONE",
-                "teaserTitle": "AUTOMATED WAREHOUSE DEPLOYMENT",
+                "headline": "RHINE WATERWAYS THREATEN INLAND CARGO",
+                "teaserTitle": "AMAZON RETAIL REVENUE GROWTH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Early fleet adopters report high satisfaction with heavy electric trucks, validating sustainable freight operations."
+                "narration_line": "Plunging Rhine water levels trigger barge draft restrictions and modal capacity constraints across Europe."
             },
             {
                 "slide_index": 7,
-                "headline": "AUTOMATED WAREHOUSE DEPLOYMENT",
+                "headline": "AMAZON NORTH AMERICAN SALES SURGE",
                 "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Major carriers process over two-thirds of domestic volumes through automated facilities to cut handling costs."
+                "narration_line": "Amazon reports 16 percent North American sales growth, anchoring strong domestic parcel volume."
             },
             {
                 "slide_index": 8,

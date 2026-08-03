@@ -3,20 +3,20 @@ const dailyData = {
         "kicker": "",
         "titleWhite": "GLOBAL TRADE TARIFFS",
         "titleBlue": "SURGE",
-        "footerSummary": "Punitive trade policies and tightening border security measures escalate operating friction across international supply chain networks."
+        "footerSummary": "USTR advances sweeping Section 301 tariffs on 60 trading partners as manufacturing indices spike across global logistics networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR SECTION TARIFFS IMPLEMENTATION",
+            "heading": "USTR SECTION 301 TARIFF EXPANSION",
             "points": [
-                "The Office of the United States Trade Representative officially moves forward with new punitive tariffs across 60 global trading partners.",
-                "Importers face immediate margin compression as regulatory compliance costs and administrative burdens escalate rapidly nationwide.",
-                "Supply chain planners must re-evaluate global sourcing maps to mitigate heavy exposure to newly enacted trade penalties.",
-                "Strategic inventory buffers will become critical as secondary nations respond with retaliatory trade barriers."
+                "The Office of the United States Trade Representative moves ahead with strict tariffs across sixty trading partners.",
+                "Supply chain operators face immediate compliance adjustments as legacy trade agreements expire under Section 301.",
+                "Global importers must re-evaluate landed costs and sourcing strategies to mitigate sudden regulatory friction.",
+                "Logistics directors anticipate increased customs scrutiny and documentary compliance overhead for inbound shipments."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ TASK FORCE RECOVERIES",
+            "nextUpTease": "FMC DETENTION FEES RULING",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -25,66 +25,49 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "DOJ TRADE FRAUD ENFORCEMENT",
+            "heading": "FMC UPHOLDS FREIGHT FLUIDITY RULES",
             "points": [
-                "The Department of Justice Trade Fraud Task Force crosses the landmark threshold of one billion dollars in total recoveries and penalties.",
-                "Increased cross-departmental data sharing allows federal regulators to aggressively target misclassified customs declarations.",
-                "Importers must institute rigorous internal audits to ensure flawless adherence to evolving federal trade enforcement standards.",
-                "Non-compliant logistics operations face severe financial liabilities as enforcement mechanisms become increasingly automated."
+                "The U.S. Court of Appeals upholds the Federal Maritime Commission decision ensuring detention fees promote freight fluidity.",
+                "Ocean transportation intermediaries gain stronger legal backing against unfair demurrage and detention billing practices.",
+                "Carriers must align fee structures with actual port performance metrics to avoid regulatory penalties.",
+                "Shippers expect improved terminal velocity and reduced financial exposure during peak container clearing cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL SAVINGS INDEX PEAK",
+            "nextUpTease": "FREEDOM HAULERS INITIATIVE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DOMESTIC INTERMODAL VOLUME HIGHS",
+            "heading": "FREEDOM HAULERS VETERAN PIPELINE",
             "points": [
-                "Railroads haul record volumes of domestic shipping containers as shippers capture historic cost savings against spot truckload rates.",
-                "Intermodal network flexibility provides vital relief for logistics managers navigating persistent truckload capacity constraints.",
-                "Carriers report strong utilization metrics across key domestic corridors amid shifting consumer fulfillment demands.",
-                "Continued modal optimization will sustain cost efficiencies for enterprise shippers throughout the upcoming peak shipping season."
+                "The federal administration launches the Freedom Haulers initiative to transition military veterans directly into commercial driving.",
+                "Backed by major trucking enterprises, the program bypasses traditional bottlenecks to accelerate commercial driver licensing.",
+                "Carrier networks deploy structured onboarding pipelines to integrate veteran talent and alleviate persistent driver shortages.",
+                "Industry stakeholders anticipate long-term stability in regional asset utilization and driver retention metrics."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO FUEL SURCHARGE HIKES",
+            "nextUpTease": "MANUFACTURING PMI EXPANSION",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO SURCHARGE ESCALATION",
+            "heading": "MANUFACTURING PMI MULTI-YEAR PEAK",
             "points": [
-                "Long-haul freighter operators implement bi-weekly fuel surcharge reviews to offset persistent jet fuel market volatility.",
-                "High-value air freight sectors experience rising operational expenditures as geopolitical tensions drive up energy costs.",
-                "Forwarders must communicate rapid price adjustments to enterprise clients dependent on expedited cross-border transit times.",
-                "Capacity tightening on major trade lanes will test the resilience of global air cargo supply chains."
+                "U.S. manufacturing growth accelerates significantly, posting a benchmark index reading of 55.6 percent in July.",
+                "Less-than-truckload carriers report heightened booking volumes as industrial output reaches four-year highs.",
+                "Factory floor expansion drives increased demand for raw material inbound flows and finished goods distribution.",
+                "Supply chain planners must recalibrate capacity allocations to match surging domestic manufacturing activity."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT BROKERAGE NEGLIGENCE VERDICT",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "NEGLIGENT HIRING LEGAL LIABILITY",
-            "points": [
-                "A massive six-hundred-million-dollar court verdict against a major freight broker sends shockwaves through the third-party logistics sector.",
-                "Carriers and brokers face heightened vicarious liability risks regarding carrier vetting and safety compliance protocols.",
-                "Industry leaders are overhauling contractor qualification procedures to protect operations from catastrophic legal exposures.",
-                "Stricter regulatory oversight will permanently alter how logistics service providers evaluate transportation partners."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FLEET ELECTRIFICATION SATISFACTION",
+            "nextUpTease": "CARRIER CHARTER TONNAGE SHIFT",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
@@ -92,35 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "COMMERCIAL EV ADOPTION MILESTONE",
+            "id": 5,
+            "heading": "OCEAN CARRIERS PREFER OWNED TONNAGE",
             "points": [
-                "Early fleet adopters in Europe report high satisfaction levels after operating heavy electric trucks in live commercial service.",
-                "Data gathered from multi-vehicle deployments validates the long-term operational viability of sustainable freight transport.",
-                "Manufacturers are scaling production capacity to meet growing enterprise demand for zero-emission logistics assets.",
-                "Fleets transitioning to electric infrastructure will benefit from lower operating costs despite initial capital investment hurdles."
+                "Major container shipping lines accelerate their strategic pivot away from short-term chartered vessel capacity.",
+                "Global carriers prioritize owned asset control to manage schedule volatility and operational bottlenecks better.",
+                "Charter market dynamics adjust as liner operators secure long-term tonnage positions across key trade lanes.",
+                "Forwarders must navigate tighter slot availability and fluctuating carrier service loops through the second half."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATED WAREHOUSE LABOR REDUCTION",
+            "nextUpTease": "RHINE WATER LEVEL DISRUPTIONS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://theloadstar.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "RHINE WATERWAYS THREATEN INLAND CARGO",
+            "points": [
+                "Water levels along the Rhine near record lows, imposing severe draft restrictions on European inland barge networks.",
+                "Major shipping lines deploy contingency protocols and alternative intermodal routes to bypass restricted river corridors.",
+                "Logistics providers warn of rising transit costs and capacity constraints for containerized moves into central Europe.",
+                "Supply chain managers should pre-position inventory buffers ahead of expected inland modal bottlenecks."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AMAZON RETAIL REVENUE GROWTH",
+            "tags": [
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AUTOMATED WAREHOUSE DEPLOYMENT",
+            "heading": "AMAZON NORTH AMERICAN SALES SURGE",
             "points": [
-                "Major parcel carriers expand automated facility networks to manage over two-thirds of total domestic package volumes efficiently.",
-                "Advanced robotics and sorting automation significantly reduce handling costs and accelerate end-to-end fulfillment speeds.",
-                "Warehouse operators leverage machine learning to optimize inventory placement and mitigate labor constraint pressures.",
-                "Scalable automation will remain the primary competitive differentiator for high-volume distribution networks moving forward."
+                "Amazon reports robust North American sales growth of 16 percent, reaching a total quarterly revenue of $200.6 billion.",
+                "E-commerce fulfillment networks scale up automated sortation facilities across regional distribution nodes.",
+                "Marketplace sellers experience tighter holiday deal submission deadlines and evolving inventory fee structures.",
+                "High-volume digital retail performance continues to anchor macro freight demand across domestic parcel networks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
