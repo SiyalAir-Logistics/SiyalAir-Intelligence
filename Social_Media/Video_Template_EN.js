@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE REALIGNMENT",
+        "hookTitle": "GLOBAL FREIGHT NETWORK SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AIR CARGO: JET FUEL SURCHARGES",
-                "teaserTitle": "US DOT: MILITARY TRUCKING PIPELINE",
+                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING",
+                "teaserTitle": "DOJ: TRADE FRAUD TASK FORCE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Air carriers shift to bi-weekly jet fuel surcharge updates to counter rapid energy market shifts across global trade lanes."
+                "narration_line": "FedEx expands its autonomous trailer loading systems to its Maryland hub to streamline high-volume parcel processing."
             },
             {
                 "slide_index": 2,
-                "headline": "US DOT: MILITARY TRUCKING PIPELINE",
-                "teaserTitle": "EBAY: DEPOP LOGISTICS INTEGRATION",
+                "headline": "DOJ: TRADE FRAUD TASK FORCE",
+                "teaserTitle": "MSC: INLAND WATERWAY REROUTING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The US Department of Transportation launches Freedom Haulers to streamline veteran recruitment and expand commercial driver capacity."
+                "narration_line": "The Justice Department Trade Fraud Task Force tops $1 billion in customs recoveries and duty enforcement penalties."
             },
             {
                 "slide_index": 3,
-                "headline": "EBAY: DEPOP LOGISTICS INTEGRATION",
-                "teaserTitle": "OCEAN FREIGHT: EV CAR-CARRIER SURGE",
+                "headline": "MSC: INLAND WATERWAY REROUTING",
+                "teaserTitle": "DOORDASH: DRONE DELIVERY APPROVAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "eBay completes its $1.4 billion Depop acquisition, expanding global e-commerce seller networks and cross-border fashion logistics."
+                "narration_line": "MSC introduces alternative rail and truck routes to bypass severe low-water barge disruptions across European waterways."
             },
             {
                 "slide_index": 4,
-                "headline": "OCEAN FREIGHT: EV CAR-CARRIER SURGE",
-                "teaserTitle": "MSC LOGISTICS: EUROPEAN BARGE BYPASS",
+                "headline": "DOORDASH: DRONE DELIVERY APPROVAL",
+                "teaserTitle": "CSX: VIRGINIA PORT INTERMODAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Car-carrier charter rates approach $100,000 daily as surging Chinese electric vehicle exports severely strain specialized vessel availability."
+                "narration_line": "Federal regulators approve DoorDash drone operations, accelerating commercial last-mile autonomous deliveries across suburban markets."
             },
             {
                 "slide_index": 5,
-                "headline": "MSC LOGISTICS: EUROPEAN BARGE BYPASS",
-                "teaserTitle": "BEST BUY: RENEWABLE LOGISTICS HUBS",
+                "headline": "CSX: VIRGINIA PORT INTERMODAL",
+                "teaserTitle": "EBAY: DEPOP MARKETPLACE INTEGRATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "MSC deploys alternative inland rail networks to bypass drought-related river barge delays across Northern European trade corridors."
+                "narration_line": "CSX connects Indianapolis to the Port of Virginia with direct intermodal rail service to expand Midwest freight access."
             },
             {
                 "slide_index": 6,
-                "headline": "BEST BUY: RENEWABLE LOGISTICS HUBS",
-                "teaserTitle": "USDA CLEARANCE: MEXICAN CATTLE IMPORTS",
+                "headline": "EBAY: DEPOP MARKETPLACE INTEGRATION",
+                "teaserTitle": "NISSIN FOODS: AI PLANNING ADOPTION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Best Buy installs dedicated solar arrays at California logistics facilities to shield automated fulfillment centers from power grid disruptions."
+                "narration_line": "eBay completes its $1.4 billion Depop acquisition to integrate logistics infrastructure across C2C resale fashion channels."
             },
             {
                 "slide_index": 7,
-                "headline": "USDA CLEARANCE: MEXICAN CATTLE IMPORTS",
+                "headline": "NISSIN FOODS: AI PLANNING ADOPTION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The USDA lifts Mexican cattle import restrictions, restoring cross-border livestock supply chains and stabilizing regional agricultural freight flows."
+                "narration_line": "Nissin Foods deploys artificial intelligence demand planning tools to optimize fill rates and lower inventory overhead."
             },
             {
                 "slide_index": 8,
