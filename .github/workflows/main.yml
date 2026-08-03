@@ -1,10 +1,10 @@
 # ==============================================================================
 # SIYALAIR-INTEL-STUDIO ORCHESTRATION PIPELINE (PROD_v2.0_2026)
-# DIRECTORY:   .github/workflows/
-# MODULE:      main.yml
-# PURPOSE:     Orchestrates end-to-end automated news generation, asset dynamic rotation,
-#              canvas slide screenshot capturing, repository synchronization, and 
-#              SMTP dispatch notifications on an hourly cron schedule.
+# DIRECTORY:    .github/workflows/
+# MODULE:       main.yml
+# PURPOSE:      Orchestrates end-to-end automated news generation, asset dynamic rotation,
+#               canvas slide screenshot capturing, repository synchronization, and 
+#               SMTP dispatch notifications on an hourly cron schedule.
 # ==============================================================================
 
 name: Hourly Intel Automation
@@ -16,13 +16,13 @@ on:
     paths-ignore:
       - 'template.js'           # Prevent re-entrant triggers from template data updates
       - 'post.txt'              # Prevent re-entrant triggers from text payload updates
-      - 'download/**'          # Prevent re-entrant triggers from screenshot asset commits
-      - 'bg_tracker.txt'       # Prevent re-entrant triggers from background state updates
-      - 'follow_tracker.txt'   # Prevent re-entrant triggers from follow-up slide state updates
-      - 'Social_Media/**'      # Prevent re-entrant triggers from template code updates
+      - 'download/**'           # Prevent re-entrant triggers from screenshot asset commits
+      - 'bg_tracker.txt'        # Prevent re-entrant triggers from background state updates
+      - 'follow_tracker.txt'    # Prevent re-entrant triggers from follow-up slide state updates
+      - 'Social_Media/**'       # Prevent re-entrant triggers from template code updates
   workflow_dispatch:
   schedule:
-    - cron: '16 * * * *'       # Primary precise hourly trigger (runs at :16 past every hour each hour)
+    - cron: '16 * * * *'        # Primary precise hourly trigger (runs at :16 past every hour each hour)
 
 jobs:
   run-engine:
@@ -36,7 +36,7 @@ jobs:
       - name: Checkout Code Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          fetch-depth: 1
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
 
