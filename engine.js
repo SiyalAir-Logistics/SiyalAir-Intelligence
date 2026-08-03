@@ -59,8 +59,8 @@ window.onload = async () => {
 // ==============================================================================
 // [ MODULE 2: CORS & BACKGROUND IMAGE BASE64 CONVERTER ]
 // Purpose: Converts background image assets into Base64 DataURLs to prevent
-//             html2canvas tainted canvas export errors. Includes live tracker fetch
-//             with robust file path resolution fallback for automated workflows.
+//            html2canvas tainted canvas export errors. Includes live tracker fetch
+//            with robust file path resolution fallback for automated workflows.
 // ==============================================================================
 async function fixBackgroundCORS() {
     const canvas = document.getElementById('post-canvas');
@@ -75,7 +75,7 @@ async function fixBackgroundCORS() {
             const text = await trackerRes.text();
             const parsedNum = parseInt(text.trim(), 10);
             if (!isNaN(parsedNum) && parsedNum > 0) {
-                bgIndex = ((parsedNum - 1) % 10) + 1;
+                bgIndex = parsedNum;
             }
         }
     } catch (e) {
@@ -86,7 +86,7 @@ async function fixBackgroundCORS() {
                 const text = await rootTrackerRes.text();
                 const parsedNum = parseInt(text.trim(), 10);
                 if (!isNaN(parsedNum) && parsedNum > 0) {
-                    bgIndex = ((parsedNum - 1) % 10) + 1;
+                    bgIndex = parsedNum;
                 }
             }
         } catch (innerErr) {
@@ -113,6 +113,8 @@ async function fixBackgroundCORS() {
                 await new Promise((resolve, reject) => {
                     reader.onloadend = () => {
                         canvas.style.backgroundImage = `url(${reader.result})`;
+                        canvas.style.backgroundSize = 'cover';
+                        canvas.style.backgroundPosition = 'center';
                         log('SUCCESS', `Background asset (${bgUrl}) loaded and optimized for render capture.`);
                         loadedSuccessfully = true;
                         resolve();
@@ -143,6 +145,8 @@ async function fallbackDefaultBackground(canvas) {
                 const reader = new FileReader();
                 reader.onloadend = () => {
                     canvas.style.backgroundImage = `url(${reader.result})`;
+                    canvas.style.backgroundSize = 'cover';
+                    canvas.style.backgroundPosition = 'center';
                     log('SUCCESS', `Default fallback background asset loaded from ${fbUrl}.`);
                 };
                 reader.readAsDataURL(blob);
@@ -158,7 +162,7 @@ async function fallbackDefaultBackground(canvas) {
 // ==============================================================================
 // [ MODULE 3: DYNAMIC UI NAVIGATION & DOM TAB CONTROLLER ]
 // Purpose: Generates interactive tab controls corresponding to main, sub-slides,
-//             and CTA callout slides based on dailyData payload.
+//            and CTA callout slides based on dailyData payload.
 // ==============================================================================
 function initTabs() {
     const tabContainer = document.getElementById('slide-tabs');
@@ -195,7 +199,7 @@ function initTabs() {
 // ==============================================================================
 // [ MODULE 4: SLIDE RENDERING, TYPOGRAPHY AUTO-FIT & FORMATTING ]
 // Purpose: Dynamically populates DOM slide layouts, formats headings with blue accents,
-//             and auto-scales text font-size to avoid visual overflowing.
+//            and auto-scales text font-size to avoid visual overflowing.
 // ==============================================================================
 function fitText(element, maxHeight, maxWidth) {
     if (!element) return;
@@ -265,7 +269,7 @@ async function switchSlide(id, element) {
                 const text = await trackerRes.text();
                 const parsedNum = parseInt(text.trim(), 10);
                 if (!isNaN(parsedNum) && parsedNum > 0) {
-                    followIndex = ((parsedNum - 1) % 10) + 1;
+                    followIndex = parsedNum;
                 }
             }
         } catch (e) {
@@ -275,7 +279,7 @@ async function switchSlide(id, element) {
                     const text = await rootTrackerRes.text();
                     const parsedNum = parseInt(text.trim(), 10);
                     if (!isNaN(parsedNum) && parsedNum > 0) {
-                        followIndex = ((parsedNum - 1) % 10) + 1;
+                        followIndex = parsedNum;
                     }
                 }
             } catch (innerErr) {
