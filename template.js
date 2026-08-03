@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Rapid shifts in autonomous logistics, regulatory compliance, and intermodal connectivity are reconfiguring global trade infrastructure and operational risks."
+        "titleWhite": "DECODING GLOBAL TRADE",
+        "titleBlue": "SIGNALS",
+        "footerSummary": "Regulatory shifts, autonomous deployments, and dynamic freight surcharges are rapidly restructuring global trade routes and landside operations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FEDEX: AUTONOMOUS TRAILER LOADING",
+            "heading": "CMA CGM: FRET SNCF BID WITHDRAWAL",
             "points": [
-                "FedEx has expanded its deployment of autonomous trailer loading systems to its primary Maryland hub following initial pilot testing.",
-                "The automated robotic loading solution optimizes floor space utilization and decreases manual dock labor requirements for heavy parcel handling.",
-                "This strategic automation roll-out aims to streamline hub throughput as peak logistics volumes accelerate across eastern distribution corridors.",
-                "Industry operators should expect expanded robotic trailer automation across tier-one parcel hubs as technology readiness reaches operational maturity."
+                "CMA CGM officially withdrew its acquisition bid for a 49 percent stake in France's largest rail freight operator Rail Logistics Europe.",
+                "The strategic pivot reflects shifting capital allocation strategies away from public rail ventures toward core maritime and logistics assets.",
+                "Ocean carriers are re-evaluating long-term intermodal rail integrations amid ongoing regulatory and structural complexities in European landside transport.",
+                "Freight forwarders must adjust inland distribution strategies across European rail corridors as major ocean lines restructure investments."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE",
+            "nextUpTease": "JUSTICE DEPARTMENT: $1B TRADE FRAUD RECOVERIES",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE",
+            "heading": "JUSTICE DEPARTMENT: $1B TRADE FRAUD RECOVERIES",
             "points": [
-                "The Justice Department's Trade Fraud Task Force has officially surpassed $1 billion in financial recoveries and duty enforcement penalties.",
-                "Investigations focused on deliberate customs misclassification, illegal transshipment schemes, and evaded antidumping duties across import supply networks.",
-                "Federal interagency coordination continues to strengthen cross-border audit rigor to secure national trade revenue and compliance integrity.",
-                "Importers and customs brokers must immediately audit tariff classification records to prevent severe regulatory penalties and seizure liabilities."
+                "The Department of Justice Trade Fraud Task Force surpassed $1 billion in total recoveries, penalties, and forfeitures within one year of operation.",
+                "Federal prosecutors targeted cross-border trade non-compliance, tariff evasion tactics, and fraudulent commercial invoicing strategies.",
+                "The milestone highlights aggressive multi-agency enforcement scrutinizing importer recordkeeping, country-of-origin declarations, and duty payments.",
+                "Importers and customs brokers face heightened audit risks and must strengthen internal trade compliance auditing to prevent costly regulatory penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "MSC: INLAND WATERWAY REROUTING",
+            "nextUpTease": "FEDEX: AUTONOMOUS TRAILER LOADING EXPANSION",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
@@ -42,85 +42,85 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MSC: INLAND WATERWAY REROUTING",
+            "heading": "FEDEX: AUTONOMOUS TRAILER LOADING EXPANSION",
             "points": [
-                "Mediterranean Shipping Company has launched alternative intermodal rail and road services to bypass drought-impacted European barge corridors.",
-                "Persistent low water levels along key North European rivers have severely constrained traditional barge capacity and delayed hinterland container movements.",
-                "This operational pivot ensures continuous freight flow between major maritime gateways and inland European industrial centers.",
-                "Shippers utilizing European inland waterways should incorporate multimodal contingency routing to mitigate recurring seasonal climate disruptions."
+                "FedEx and Dexterity expanded the deployment of autonomous AI-powered trailer loading systems to their major hub in Hagerstown, Maryland.",
+                "The robotic system automates complex parcel staging and trailer loading operations to increase throughput velocity while minimizing manual labor constraints.",
+                "Moving beyond initial pilot testing signals growing operational maturity for full-scale AI robotics in high-volume parcel sorting facilities.",
+                "Warehouse and hub operators must accelerate facility infrastructure upgrades to support scalable autonomous loading integration across networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOORDASH: DRONE DELIVERY APPROVAL",
+            "nextUpTease": "NISSIN FOODS: AI DEMAND PLANNING TRANSFORMATION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DOORDASH: DRONE DELIVERY APPROVAL",
+            "heading": "NISSIN FOODS: AI DEMAND PLANNING TRANSFORMATION",
             "points": [
-                "Federal aviation regulators have granted formal commercial authorization for DoorDash to expand its autonomous drone delivery infrastructure.",
-                "The regulatory clearance enables beyond-visual-line-of-sight commercial flights for last-mile residential fulfillment across suburban markets.",
-                "Autonomous air delivery significantly reduces suburban fulfillment transit times while minimizing localized road congestion and carbon emissions.",
-                "Logistics providers must prepare for accelerated commercial drone deployment as regulatory frameworks mature across suburban delivery corridors."
+                "Instant noodle manufacturer Nissin Foods deployed an advanced AI-powered demand and supply planning tool to optimize enterprise inventory workflows.",
+                "The initiative aims to dramatically elevate order fill rates while reducing supply chain forecasting errors across retail distribution channels.",
+                "Enterprise consumer packaged goods brands are turning to predictive AI modeling to counter persistent demand volatility and input cost inflation.",
+                "Supply chain planners should transition from legacy forecasting models toward automated AI platforms to drive order accuracy."
             ],
             "imageUrl": "",
-            "nextUpTease": "CSX: VIRGINIA PORT INTERMODAL",
+            "nextUpTease": "DOT: FREEDOM HAULERS MILITARY PIPELINE",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CSX: VIRGINIA PORT INTERMODAL",
+            "heading": "DOT: FREEDOM HAULERS MILITARY PIPELINE",
             "points": [
-                "CSX Transportation has introduced a new direct intermodal rail service connecting Indianapolis directly to the Port of Virginia.",
-                "The dedicated rail service bypasses highway congestion, expanding rail throughput capacity for Midwest importers and agricultural exporters.",
-                "This infrastructure enhancement integrates Midwestern manufacturing markets with deepwater ocean vessel terminals along the US East Coast.",
-                "Supply chain managers should leverage expanded rail intermodal options to optimize inland transportation costs and secure reliable vessel schedules."
+                "The US Department of Transportation launched the Freedom Haulers initiative to transition military veterans directly into commercial driver CDL positions.",
+                "The interagency campaign shortens licensing timelines for veterans while increasing federal enforcement actions against non-domiciled commercial drivers.",
+                "Fleet operators gain a structured talent recruitment pipeline designed to mitigate driver shortages while maintaining strict safety and regulatory standards.",
+                "Freight carriers should align hiring frameworks with federal veteran transition programs to secure qualified commercial driving talent."
             ],
             "imageUrl": "",
-            "nextUpTease": "EBAY: DEPOP MARKETPLACE INTEGRATION",
+            "nextUpTease": "CANADIAN NATIONAL: UP-NS MERGER AGREEMENT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EBAY: DEPOP MARKETPLACE INTEGRATION",
+            "heading": "CANADIAN NATIONAL: UP-NS MERGER AGREEMENT",
             "points": [
-                "eBay has completed its $1.4 billion acquisition of C2C apparel marketplace Depop following final international regulatory approvals.",
-                "The operational consolidation aims to leverage shared logistics infrastructure and streamline cross-border seller shipping protocols across key markets.",
-                "This strategic expansion reinforces eBay's dominance in circular fashion supply chains and specialized global consumer resale categories.",
-                "Marketplace sellers can expect enhanced cross-border logistics tools and integrated shipping programs designed for second-hand commercial transactions."
+                "Canadian National agreed not to contest the proposed Union Pacific and Norfolk Southern railroad merger following a strategic access deal.",
+                "The agreement grants CN direct access to critical shipper locations that faced reduced Class I rail competition pending STB regulatory approval.",
+                "North American rail consolidation continues to reshape Class I freight routes, access points, and competitive intermodal corridors.",
+                "Rail shippers must re-evaluate network routing and carrier agreements to leverage newly established trackage access and service options."
             ],
             "imageUrl": "",
-            "nextUpTease": "NISSIN FOODS: AI PLANNING ADOPTION",
+            "nextUpTease": "AIR CARGO: BIWEEKLY JET FUEL SURCHARGES",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NISSIN FOODS: AI PLANNING ADOPTION",
+            "heading": "AIR CARGO: BIWEEKLY JET FUEL SURCHARGES",
             "points": [
-                "Consumer packaged goods leader Nissin Foods has integrated AI-driven demand and supply planning software across its production network.",
-                "The algorithmic planning architecture sharpens demand forecasting accuracy and improves operational fill rates while curbing warehouse inventory overhead.",
-                "This deployment reflects a broader industry transition toward decision-centric artificial intelligence within complex manufacturing supply chains.",
-                "Enterprise CPG brands must modernize traditional forecasting models with dynamic machine learning systems to sustain operational competitiveness."
+                "Major international air cargo carriers instituted biweekly jet fuel surcharge reviews to adjust for ongoing price volatility in global fuel markets.",
+                "Long-haul freighter operators are rapidly passing rising fuel expenses to freight forwarders and shippers as operating margins compress.",
+                "Volatile energy prices and regional geopolitical disruptions continue to pressure air freight pricing models across transpacific and transatlantic routes.",
+                "Air freight buyers must factor dynamic fuel index adjustments into spot and contract budget forecasts to prevent unexpected landed-cost increases."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
