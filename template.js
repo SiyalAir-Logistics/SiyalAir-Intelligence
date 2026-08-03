@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE COMPLIANCE",
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
         "titleBlue": "SHIFTS",
-        "footerSummary": "Customs enforcement, postal surcharge spikes, and forced labor tariffs create severe transactional friction across international freight channels."
+        "footerSummary": "Forensic analysis reveals expanding broker liability, dynamic fuel surcharges, and cross-border rail mandates driving heightened risk across global trade lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFF ENFORCEMENT",
+            "heading": "LEGAL: BROKER LIABILITY SHIFT",
             "points": [
-                "The Office of the United States Trade Representative moves forward with Section 301 tariffs on 60 trading partners targeting forced labor compliance.",
-                "The enforcement transition follows the expiration of Section 122 tariffs, instantly altering landed cost structures across import lanes.",
-                "Importers face heightened scrutiny on origin documentation to avoid duty penalties and cargo detentions at ocean entry gateways.",
-                "Supply chain directors must immediately re-audit cross-border vendor networks to mitigate regulatory risk and unexpected customs tariffs."
+                "A landmark $604 million negligent-hiring verdict against C.H. Robinson is redefining freight broker legal responsibilities across domestic transport.",
+                "Third-party logistics providers face immediate exposure to catastrophic injury claims, forcing fundamental adjustments to carrier selection protocols.",
+                "Supply chain legal teams are overhauling automated dispatch filters to strictly verify carrier safety ratings prior to tendering loads.",
+                "Freight brokers failing to execute rigorous carrier vetting risk unprecedented financial damages and operational disruption across North America."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE",
+            "nextUpTease": "AIR CARGO: SURCHARGE FREQUENCY ACCELERATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DOJ: TRADE FRAUD TASK FORCE",
+            "heading": "AIR CARGO: SURCHARGE FREQUENCY ACCELERATION",
             "points": [
-                "The Department of Justice Trade Fraud Task Force surpassed one billion dollars in trade penalties and civil forfeitures since inception.",
-                "Enforcement sweeps focused aggressively on duty evasion, misclassification of goods, and fraudulent origin declarations across maritime hubs.",
-                "Interagency data-sharing protocols have drastically reduced investigation timelines for severe regulatory customs infractions.",
-                "Shippers and customs brokers must maintain forensic compliance audit trails to prevent criminal liabilities and operational freezes."
+                "International air freight carriers are shifting to bi-weekly jet fuel surcharge adjustments to manage severe price volatility.",
+                "Long-haul freighter operators are passing immediate energy price spikes directly to cargo owners without traditional buffer periods.",
+                "Forwarders must rebuild dynamic pricing algorithms to account for rapid cost fluctuations on transpacific and transatlantic lanes.",
+                "Shippers face unpredictable landed freight costs as airlines prioritize margin defense over stable long-term rate contracts."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: RURAL MARKETPLACE SURCHARGES",
+            "nextUpTease": "RAILWAYS: CROSS-BORDER CREW MANDATES",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "USPS: RURAL MARKETPLACE SURCHARGES",
+            "heading": "RAILWAYS: CROSS-BORDER CREW MANDATES",
             "points": [
-                "The United States Postal Service introduced new parcel delivery surcharges impacting lightweight packages sent to rural delivery zones.",
-                "E-commerce sellers experience shipping price increases ranging from two to three dollars per item across primary seller platforms.",
-                "The targeted rate adjustment directly increases last-mile distribution expenses for marketplace merchants operating on tight margins.",
-                "Retailers must recalibrate shipping rate tables and carrier routing rules to offset escalating last-mile regional fulfillment costs."
+                "Federal regulators are moving to enforce stricter English language proficiency standards for Mexican rail crews operating inside the United States.",
+                "Cross-border interchange operations at major Southern border gateways risk immediate velocity drops during standard crew transitions.",
+                "Class I railroads must revise crew management systems and compliance auditing to prevent regulatory delays at international border points.",
+                "Supply chain networks dependent on North American rail integration face potential transit time extensions and border congestion."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: ALGORITHMIC ORIGIN FILTERS",
+            "nextUpTease": "RETAIL FREIGHT: CONSOLIDATION MODEL SCALE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "E-COMMERCE: ALGORITHMIC ORIGIN FILTERS",
+            "heading": "RETAIL FREIGHT: CONSOLIDATION MODEL SCALE",
             "points": [
-                "Recent research indicates major e-commerce platforms utilize AI search algorithms that suppress domestic origin product tags.",
-                "Merchant listings designated as domestic manufacturing face reduced visibility within buyer search queries and automated shopping assistants.",
-                "The systemic visibility shift alters merchant traffic patterns and skews consumer purchasing behavior toward international sellers.",
-                "Brands must optimize backend metadata structures and diversify multi-channel marketplace distribution strategies to retain product discovery."
+                "Major retail shippers are transitioning freight strategy from back-office administration to executive-level freight consolidation programs.",
+                "Systematic consolidation of less-than-truckload shipments into full truckloads is actively mitigating margin erosion across retail distribution.",
+                "Advanced inbound consolidation hubs are reducing distribution center congestion while optimizing overall inventory fill rates.",
+                "Logistics executives integrating retail consolidation are capturing structural cost advantages over competitors relying on point-to-point LTL."
             ],
             "imageUrl": "",
-            "nextUpTease": "WHITE HOUSE: AUTOMATION IMPORT RESTRICTIONS",
+            "nextUpTease": "FLEET ELECTRIFICATION: COMMERCIALLY VIABLE SCALING",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "WHITE HOUSE: AUTOMATION IMPORT RESTRICTIONS",
+            "heading": "FLEET ELECTRIFICATION: COMMERCIALLY VIABLE SCALING",
             "points": [
-                "Federal policy proposals targeting foreign robotic hardware import restrictions threaten to delay warehouse automation deployments.",
-                "Logistics hubs relying on foreign robotic material handling systems face potential supply chain integration halts and hardware procurement delays.",
-                "The regulatory stance aims to protect national security interests while forcing a rapid pivot toward domestic automation suppliers.",
-                "Facility managers must re-evaluate robotics vendor technology pipelines to ensure compliance with emerging national security restrictions."
+                "European operational surveys indicate 93 percent satisfaction among commercial logistics operators deploying heavy battery-electric trucks.",
+                "Early fleet adopters report significant operational reliability gains and lower total cost of ownership across localized freight corridors.",
+                "Heavy transport electrification is moving beyond regulatory trial programs into permanent commercial freight dispatch operations.",
+                "Logistics operators delaying fleet decarbonization risk exclusion from major enterprise shippers mandating sustainable transport metrics."
             ],
             "imageUrl": "",
-            "nextUpTease": "IANA: INTERMODAL VOLUME EXPANSION",
+            "nextUpTease": "OCEAN FREIGHT: RELIABILITY INDEX DEGRADE",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "IANA: INTERMODAL VOLUME EXPANSION",
+            "heading": "OCEAN FREIGHT: RELIABILITY INDEX DEGRADE",
             "points": [
-                "The Intermodal Association of North America reported an eleven point six percent year-over-year expansion in total intermodal volume.",
-                "June unit movements reached over one point six million units, significantly outpacing previous monthly growth benchmarks.",
-                "Inland rail ramps and seaport transfer facilities experience elevated container throughput and tight drayage equipment availability.",
-                "Freight planners should secure inland rail capacity early to prevent port congestion delays during peak ocean shipping months."
+                "Global container shipping schedule reliability experienced a sharp quarterly decline driven by persistent ocean chokepoint bypasses.",
+                "Container lines are recording increased vessel arrival delays as extended transit routes strain vessel rotation schedules.",
+                "Port operators face unpredictable vessel arrival surges, triggering severe yard congestion and extended intermodal container dwell times.",
+                "BCOs must expand safety stock buffers and buffer lead times to offset persistent ocean liner schedule instability."
             ],
             "imageUrl": "",
-            "nextUpTease": "RED SEA: MARITIME CHOKEPOINT REROUTING",
+            "nextUpTease": "AUTONOMOUS LOGISTICS: DRONE OPERATIONS EXPANSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RED SEA: MARITIME CHOKEPOINT REROUTING",
+            "heading": "AUTONOMOUS LOGISTICS: DRONE OPERATIONS EXPANSION",
             "points": [
-                "Commercial vessel operators are actively avoiding the Bab el-Mandeb strait due to ongoing maritime safety threats.",
-                "Extended ocean transit routes around Africa increase vessel fuel consumption and disrupt global liner schedule reliability.",
-                "Carrier capacity constraints escalate ocean freight rates while delaying container turnaround cycles at major destination ports.",
-                "Global supply chain managers must recalculate inventory buffer stocks and transit lead times to maintain operational continuity."
+                "Federal aviation authorities have granted regulatory approvals expanding commercial drone delivery operations across residential logistics corridors.",
+                "Logistics providers and fulfillment centers are deploying automated aerial systems to streamline last-mile delivery and warehouse inventory audits.",
+                "Integration of autonomous aerial hardware is drastically reducing manual labor requirements in high-volume distribution facility operations.",
+                "Enterprise supply chains adopting aerial autonomy gain crucial throughput velocity advantages in competitive last-mile logistics."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

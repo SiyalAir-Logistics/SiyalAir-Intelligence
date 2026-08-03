@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE COMPLIANCE SHIFTS",
+        "hookTitle": "GLOBAL FREIGHT NETWORK SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFF ENFORCEMENT",
-                "teaserTitle": "DOJ: TRADE FRAUD TASK FORCE",
+                "headline": "LEGAL: BROKER LIABILITY SHIFT",
+                "teaserTitle": "AIR CARGO: SURCHARGE FREQUENCY ACCELERATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR advances Section 301 forced labor tariffs on sixty trading partners, fundamentally altering importer duty obligations."
+                "narration_line": "A landmark legal ruling exposes freight brokers to massive liability, forcing immediate overhauls in carrier safety vetting standards."
             },
             {
                 "slide_index": 2,
-                "headline": "DOJ: TRADE FRAUD TASK FORCE",
-                "teaserTitle": "USPS: RURAL MARKETPLACE SURCHARGES",
+                "headline": "AIR CARGO: SURCHARGE FREQUENCY ACCELERATION",
+                "teaserTitle": "RAILWAYS: CROSS-BORDER CREW MANDATES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "DOJ Trade Fraud Task Force surpasses one billion in recoveries through aggressive customs enforcement and auditing."
+                "narration_line": "Air freight carriers are accelerating jet fuel surcharge adjustments to bi-weekly cycles to protect operating margins against extreme volatility."
             },
             {
                 "slide_index": 3,
-                "headline": "USPS: RURAL MARKETPLACE SURCHARGES",
-                "teaserTitle": "E-COMMERCE: ALGORITHMIC ORIGIN FILTERS",
+                "headline": "RAILWAYS: CROSS-BORDER CREW MANDATES",
+                "teaserTitle": "RETAIL FREIGHT: CONSOLIDATION MODEL SCALE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "USPS rolls out new rural shipping surcharges, adding cost pressures to lightweight marketplace fulfillment channels."
+                "narration_line": "Federal regulators are instituting stricter English proficiency mandates for Mexican rail crews operating across international border gateways."
             },
             {
                 "slide_index": 4,
-                "headline": "E-COMMERCE: ALGORITHMIC ORIGIN FILTERS",
-                "teaserTitle": "WHITE HOUSE: AUTOMATION IMPORT RESTRICTIONS",
+                "headline": "RETAIL FREIGHT: CONSOLIDATION MODEL SCALE",
+                "teaserTitle": "FLEET ELECTRIFICATION: COMMERCIALLY VIABLE SCALING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Studies reveal marketplace search algorithms inadvertently suppress domestic product tags, impacting seller visibility."
+                "narration_line": "Retail supply chains are aggressively scaling inbound freight consolidation strategies to eliminate hidden margin erosion in distribution networks."
             },
             {
                 "slide_index": 5,
-                "headline": "WHITE HOUSE: AUTOMATION IMPORT RESTRICTIONS",
-                "teaserTitle": "IANA: INTERMODAL VOLUME EXPANSION",
+                "headline": "FLEET ELECTRIFICATION: COMMERCIALLY VIABLE SCALING",
+                "teaserTitle": "OCEAN FREIGHT: RELIABILITY INDEX DEGRADE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Federal policy restrictions on foreign robotic systems pose procurement challenges for automated distribution centers."
+                "narration_line": "Heavy commercial electric truck deployments report high operator satisfaction as fleet electrification shifts from pilot trials to full adoption."
             },
             {
                 "slide_index": 6,
-                "headline": "IANA: INTERMODAL VOLUME EXPANSION",
-                "teaserTitle": "RED SEA: MARITIME CHOKEPOINT REROUTING",
+                "headline": "OCEAN FREIGHT: RELIABILITY INDEX DEGRADE",
+                "teaserTitle": "AUTONOMOUS LOGISTICS: DRONE OPERATIONS EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "North American intermodal volumes jump over eleven percent as shippers shift freight to inland rail corridors."
+                "narration_line": "Ocean container schedule reliability deteriorates globally as vessel delays and rerouting strain terminal operations and intermodal flow."
             },
             {
                 "slide_index": 7,
-                "headline": "RED SEA: MARITIME CHOKEPOINT REROUTING",
+                "headline": "AUTONOMOUS LOGISTICS: DRONE OPERATIONS EXPANSION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Maritime vessel diversions around Africa persist, tightening ocean container capacity and extending global transit times."
+                "narration_line": "Expanded federal regulatory approvals for commercial drone operations are accelerating autonomous deployment in last-mile freight networks."
             },
             {
                 "slide_index": 8,
