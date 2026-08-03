@@ -52,5 +52,39 @@
     </script>
 
     <script src="engine.js"></script>
+    
+    <!-- ============================================================================== -->
+    <!-- DYNAMIC ASSET TRACKER INTEGRATION MODULE (BACKGROUND & FOLLOW-UP SYNC)       -->
+    <!-- ============================================================================== -->
+    <script>
+      (async function() {
+        try {
+          const timestamp = Date.now();
+          
+          // Fetch dynamic background index from server tracker
+          const bgRes = await fetch(`bg_tracker.txt?v=${timestamp}`);
+          if (bgRes.ok) {
+            const bgIndex = (await bgRes.text()).trim() || "1";
+            const canvasEl = document.getElementById('post-canvas');
+            if (canvasEl) {
+              canvasEl.style.backgroundImage = `url('assets/background${bgIndex}.png')`;
+              canvasEl.style.backgroundSize = 'cover';
+              canvasEl.style.backgroundPosition = 'center';
+              console.log(`[SUCCESS] Dynamic Background Loaded: assets/background${bgIndex}.png`);
+            }
+          }
+
+          // Fetch dynamic follow-up slide index from server tracker
+          const followRes = await fetch(`follow_tracker.txt?v=${timestamp}`);
+          if (followRes.ok) {
+            const followIndex = (await followRes.text()).trim() || "1";
+            window.DYNAMIC_FOLLOW_INDEX = followIndex;
+            console.log(`[SUCCESS] Dynamic Follow-up State Registered: slide9-${followIndex}.png`);
+          }
+        } catch (err) {
+          console.warn("[WARNING] Dynamic asset tracker fetch deferred, falling back to default states:", err);
+        }
+      })();
+    </script>
 </body>
 </html>
