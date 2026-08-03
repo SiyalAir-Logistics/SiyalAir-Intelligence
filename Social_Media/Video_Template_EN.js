@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRANSPACIFIC FREIGHT RATES REBOUND",
+        "hookTitle": "GLOBAL TRADE COMPLIANCE SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRANSPACIFIC SPOT RATE SURGE",
-                "teaserTitle": "AIR CARGO SURCHARGE HIKES",
+                "headline": "USTR: SECTION 301 TARIFF ENFORCEMENT",
+                "teaserTitle": "DOJ: TRADE FRAUD TASK FORCE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Carriers launch transpacific spot rate pushes to test peak season resilience."
+                "narration_line": "USTR advances Section 301 forced labor tariffs on sixty trading partners, fundamentally altering importer duty obligations."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO SURCHARGE ESCALATION",
-                "teaserTitle": "MAERSK LATAM SHUTTLE EXPANSION",
+                "headline": "DOJ: TRADE FRAUD TASK FORCE",
+                "teaserTitle": "USPS: RURAL MARKETPLACE SURCHARGES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Airlines accelerate bi-weekly fuel surcharge updates amid jet fuel volatility."
+                "narration_line": "DOJ Trade Fraud Task Force surpasses one billion in recoveries through aggressive customs enforcement and auditing."
             },
             {
                 "slide_index": 3,
-                "headline": "MAERSK LATAM SHUTTLE EXPANSION",
-                "teaserTitle": "FEDEX ROBOTIC TRAILER LOADING",
+                "headline": "USPS: RURAL MARKETPLACE SURCHARGES",
+                "teaserTitle": "E-COMMERCE: ALGORITHMIC ORIGIN FILTERS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Maersk brings Gemini shuttle networks to west coast Latin America trades."
+                "narration_line": "USPS rolls out new rural shipping surcharges, adding cost pressures to lightweight marketplace fulfillment channels."
             },
             {
                 "slide_index": 4,
-                "headline": "FEDEX AUTONOMOUS TRAILER LOADING",
-                "teaserTitle": "FREIGHT BROKERAGE LIABILITY SHIFT",
+                "headline": "E-COMMERCE: ALGORITHMIC ORIGIN FILTERS",
+                "teaserTitle": "WHITE HOUSE: AUTOMATION IMPORT RESTRICTIONS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "FedEx expands robotic trailer loading pilots to solve severe dock labor constraints."
+                "narration_line": "Studies reveal marketplace search algorithms inadvertently suppress domestic product tags, impacting seller visibility."
             },
             {
                 "slide_index": 5,
-                "headline": "FREIGHT BROKERAGE LIABILITY SHIFT",
-                "teaserTitle": "RAIL CREW ENGLISH STANDARDS",
+                "headline": "WHITE HOUSE: AUTOMATION IMPORT RESTRICTIONS",
+                "teaserTitle": "IANA: INTERMODAL VOLUME EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Massive negligent-hiring verdicts force freight brokers to overhaul carrier vetting."
+                "narration_line": "Federal policy restrictions on foreign robotic systems pose procurement challenges for automated distribution centers."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL CREW COMPLIANCE MANDATES",
-                "teaserTitle": "VETERANS TRANSPORTATION PIPELINE",
+                "headline": "IANA: INTERMODAL VOLUME EXPANSION",
+                "teaserTitle": "RED SEA: MARITIME CHOKEPOINT REROUTING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Federal regulators enforce stricter language standards for cross-border rail crews."
+                "narration_line": "North American intermodal volumes jump over eleven percent as shippers shift freight to inland rail corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "VETERANS TRANSPORTATION PIPELINE",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "RED SEA: MARITIME CHOKEPOINT REROUTING",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "New federal initiatives streamline military transitions into commercial trucking."
+                "narration_line": "Maritime vessel diversions around Africa persist, tightening ocean container capacity and extending global transit times."
             },
             {
                 "slide_index": 8,

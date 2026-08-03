@@ -1,73 +1,90 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRANSPACIFIC FREIGHT RATES",
-        "titleBlue": "REBOUND",
-        "footerSummary": "Carriers implement aggressive transpacific spot rate pushes while fuel surcharges tighten."
+        "titleWhite": "GLOBAL TRADE COMPLIANCE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Customs enforcement, postal surcharge spikes, and forced labor tariffs create severe transactional friction across international freight channels."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRANSPACIFIC SPOT RATE SURGE",
+            "heading": "USTR: SECTION 301 TARIFF ENFORCEMENT",
             "points": [
-                "Carriers on transpacific and Asia-Europe tradelanes initiated fresh spot rate pushes to test early peak season resilience.",
-                "Despite overall declining freight rates, liners are enforcing rate hikes to capture margin ahead of anticipated seasonal demand spikes.",
-                "This dynamic creates operational pricing friction for cargo owners navigating volatile ocean contract terms.",
-                "Shippers must adjust budgeting models to account for unexpected mid-season carrier rate interventions."
+                "The Office of the United States Trade Representative moves forward with Section 301 tariffs on 60 trading partners targeting forced labor compliance.",
+                "The enforcement transition follows the expiration of Section 122 tariffs, instantly altering landed cost structures across import lanes.",
+                "Importers face heightened scrutiny on origin documentation to avoid duty penalties and cargo detentions at ocean entry gateways.",
+                "Supply chain directors must immediately re-audit cross-border vendor networks to mitigate regulatory risk and unexpected customs tariffs."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO SURCHARGE HIKES",
+            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR CARGO SURCHARGE ESCALATION",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE",
             "points": [
-                "Global air cargo carriers escalated fuel surcharges in response to surging jet fuel prices across key aviation hubs.",
-                "Airlines have shortened surcharge review cycles to bi-weekly intervals to rapidly pass volatile fuel costs to freight forwarders.",
-                "Strong air cargo demand driven by tech and e-commerce traffic prevents volume contraction despite rising ancillary costs.",
-                "Forwarders must integrate dynamic fuel adjustment tracking into customer quoting workflows immediately."
+                "The Department of Justice Trade Fraud Task Force surpassed one billion dollars in trade penalties and civil forfeitures since inception.",
+                "Enforcement sweeps focused aggressively on duty evasion, misclassification of goods, and fraudulent origin declarations across maritime hubs.",
+                "Interagency data-sharing protocols have drastically reduced investigation timelines for severe regulatory customs infractions.",
+                "Shippers and customs brokers must maintain forensic compliance audit trails to prevent criminal liabilities and operational freezes."
             ],
             "imageUrl": "",
-            "nextUpTease": "MAERSK LATAM SHUTTLE EXPANSION",
+            "nextUpTease": "USPS: RURAL MARKETPLACE SURCHARGES",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MAERSK LATAM SHUTTLE EXPANSION",
+            "heading": "USPS: RURAL MARKETPLACE SURCHARGES",
             "points": [
-                "Maersk expanded its Gemini cooperation shuttle concept to the west coast of Latin America to improve schedule integrity.",
-                "The deployment brings hub-and-spoke vessel sharing models to regional trades traditionally plagued by port congestion.",
-                "Regional supply chain networks gain enhanced transit predictability through standardized feeder loops and optimized port rotations.",
-                "Importers operating across western South America should recalibrate inventory buffer targets around tighter service windows."
+                "The United States Postal Service introduced new parcel delivery surcharges impacting lightweight packages sent to rural delivery zones.",
+                "E-commerce sellers experience shipping price increases ranging from two to three dollars per item across primary seller platforms.",
+                "The targeted rate adjustment directly increases last-mile distribution expenses for marketplace merchants operating on tight margins.",
+                "Retailers must recalibrate shipping rate tables and carrier routing rules to offset escalating last-mile regional fulfillment costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX ROBOTIC TRAILER LOADING",
+            "nextUpTease": "E-COMMERCE: ALGORITHMIC ORIGIN FILTERS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FEDEX AUTONOMOUS TRAILER LOADING",
+            "heading": "E-COMMERCE: ALGORITHMIC ORIGIN FILTERS",
             "points": [
-                "FedEx announced the expansion of pilot projects deploying autonomous robotic systems designed for trailer loading operations.",
-                "The automated handling technology targets severe labor constraints and throughput bottlenecks inside major distribution hubs.",
-                "Integration of floor-level robotics streamlines outbound processing times and reduces manual cargo damage risks.",
-                "Warehouse operators must accelerate automation readiness roadmaps to compete with Tier-1 logistics network benchmarks."
+                "Recent research indicates major e-commerce platforms utilize AI search algorithms that suppress domestic origin product tags.",
+                "Merchant listings designated as domestic manufacturing face reduced visibility within buyer search queries and automated shopping assistants.",
+                "The systemic visibility shift alters merchant traffic patterns and skews consumer purchasing behavior toward international sellers.",
+                "Brands must optimize backend metadata structures and diversify multi-channel marketplace distribution strategies to retain product discovery."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT BROKERAGE LIABILITY SHIFT",
+            "nextUpTease": "WHITE HOUSE: AUTOMATION IMPORT RESTRICTIONS",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "WHITE HOUSE: AUTOMATION IMPORT RESTRICTIONS",
+            "points": [
+                "Federal policy proposals targeting foreign robotic hardware import restrictions threaten to delay warehouse automation deployments.",
+                "Logistics hubs relying on foreign robotic material handling systems face potential supply chain integration halts and hardware procurement delays.",
+                "The regulatory stance aims to protect national security interests while forcing a rapid pivot toward domestic automation suppliers.",
+                "Facility managers must re-evaluate robotics vendor technology pipelines to ensure compliance with emerging national security restrictions."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "IANA: INTERMODAL VOLUME EXPANSION",
             "tags": [
                 "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
@@ -75,52 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "FREIGHT BROKERAGE LIABILITY SHIFT",
-            "points": [
-                "The landmark $604 million negligent-hiring verdict against C.H. Robinson intensifies legal exposure across freight brokerages.",
-                "Industry legal panels warn that traditional carrier vetting practices no longer offer sufficient insulation against vicarious liability claims.",
-                "Transportation intermediaries are overhauling compliance screening protocols to mitigate catastrophic judgment risks.",
-                "Shippers will demand deeper transparency and tighter audit trails from third-party logistics partners moving forward."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RAIL CREW ENGLISH STANDARDS",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "RAIL CREW COMPLIANCE MANDATES",
+            "heading": "IANA: INTERMODAL VOLUME EXPANSION",
             "points": [
-                "The Federal Railroad Administration initiated stricter English language proficiency standards for cross-border Mexican rail crews.",
-                "The regulatory enforcement action targets operational safety communications along key international rail freight corridors.",
-                "Cross-border interchange schedules face temporary velocity friction as personnel compliance verifications ramp up.",
-                "Rail operators must audit crew qualifications proactively to prevent border-crossing bottlenecks and detention penalties."
+                "The Intermodal Association of North America reported an eleven point six percent year-over-year expansion in total intermodal volume.",
+                "June unit movements reached over one point six million units, significantly outpacing previous monthly growth benchmarks.",
+                "Inland rail ramps and seaport transfer facilities experience elevated container throughput and tight drayage equipment availability.",
+                "Freight planners should secure inland rail capacity early to prevent port congestion delays during peak ocean shipping months."
             ],
             "imageUrl": "",
-            "nextUpTease": "VETERANS TRANSPORTATION PIPELINE",
+            "nextUpTease": "RED SEA: MARITIME CHOKEPOINT REROUTING",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "VETERANS TRANSPORTATION PIPELINE",
+            "heading": "RED SEA: MARITIME CHOKEPOINT REROUTING",
             "points": [
-                "The White House and DOT officially launched the Freedom Haulers initiative to accelerate military-to-trucking licensing pathways.",
-                "The interagency program shortens commercial driver's license acquisition timelines for separating service members.",
-                "Expanding qualified driver supply helps alleviate persistent structural capacity deficits across domestic trucking networks.",
-                "Fleets participating in veteran recruitment pipelines will secure distinct talent acquisition advantages in tight labor markets."
+                "Commercial vessel operators are actively avoiding the Bab el-Mandeb strait due to ongoing maritime safety threats.",
+                "Extended ocean transit routes around Africa increase vessel fuel consumption and disrupt global liner schedule reliability.",
+                "Carrier capacity constraints escalate ocean freight rates while delaying container turnaround cycles at major destination ports.",
+                "Global supply chain managers must recalculate inventory buffer stocks and transit lead times to maintain operational continuity."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
