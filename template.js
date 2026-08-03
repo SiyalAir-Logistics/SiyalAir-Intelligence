@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "DISRUPTIONS",
-        "footerSummary": "Critical regulatory rulings and structural capacity shifts are reordering global ocean freight, trade compliance, and interstate motor carrier operations this hour."
+        "titleWhite": "GLOBAL FREIGHT RATE",
+        "titleBlue": "VOLATILITY",
+        "footerSummary": "Airlines and ocean carriers aggressively hike surcharges as Middle East disruptions and surging fuel costs squeeze margins."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC: OCEAN CARRIER BILLING RULE UPHELD",
+            "heading": "AIR CARGO SURCHARGE SURGE",
             "points": [
-                "The U.S. Court of Appeals for the D.C. Circuit officially upheld the Federal Maritime Commission's milestone ruling on detention and demurrage billing practices. The decision mandates that ocean carriers and marine terminal operators can only assess fees when they directly serve freight fluidity.",
-                "This judicial confirmation restricts container lines from levying fees during port closures or uncontrollable gate congestion events. Industry analysts expect immediate operational adjustments across ocean carrier billing frameworks and ocean freight forwarder dispute protocols.",
-                "By establishing a legal threshold for fee enforcement, federal regulators are eliminating billions in non-operational penalty surcharges previously absorbed by importers. Ocean carriers must now prove active cargo availability before issuing detention assessments.",
-                "Global supply chain planners should audit active demurrage invoices to ensure total compliance with federal fluidity metrics. Legal teams are advising importers to contest non-compliant carrier assessments immediately."
+                "International carriers implement strict two-week reviews for jet fuel surcharges as market volatility accelerates.",
+                "Operating margins face severe headwinds from rising energy inputs that directly inflate long-haul freighter economics.",
+                "Carriers aggressively pass spot price spikes onto shippers to protect against widening cost imbalances.",
+                "Supply chain planners must immediately audit air freight line items to mitigate sudden budget variances."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN CARRIERS: OWNED TONNAGE PUSH",
+            "nextUpTease": "CONTAINER SCHEDULE RELIABILITY",
             "tags": [
-                "Source: www.fmc.gov",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OCEAN CARRIERS: OWNED TONNAGE PUSH",
+            "heading": "CONTAINER SCHEDULE DISRUPTIONS",
             "points": [
-                "Major ocean container lines are aggressively pivoting away from vessel chartering markets in favor of expanding fully owned fleet capacity. Rapidly shifting geopolitical conditions and volatile spot rates are accelerating carrier preferences for operational autonomy.",
-                "Charter rates approaching top-tier market limits have rendered short-term vessel leasing economically unviable for dominant container shipping lines. Global operators are reallocating capital reserves directly into long-term vessel construction and acquisition.",
-                "This architectural shift alters global liner capacity deployment and reduces flexibility in secondary trade lanes. Independent vessel owners face diminished long-term charter demand as primary ocean lines centralize fleet ownership.",
-                "Shippers should anticipate structural ocean freight rate floors as carriers exercise tighter control over vessel capacity deployment. Contract negotiations will increasingly hinge on carrier-owned vessel availability."
+                "Strait of Hormuz closure forces sweeping service changes that degrade global container schedule reliability.",
+                "Average vessel delay metrics tick upward across major East Coast and European maritime trade lanes.",
+                "Primary carriers manage route alterations better than smaller operators, widening service tier gaps.",
+                "Importers must buffer lead times by up to ten days to account for prolonged maritime transit disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOJ: TRADE FRAUD ENFORCEMENT BOOST",
+            "nextUpTease": "OWNED TONNAGE FLEET SHIFT",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DOJ: TRADE FRAUD ENFORCEMENT BOOST",
+            "heading": "OWNED TONNAGE FLEET SHIFT",
             "points": [
-                "The Department of Justice Trade Fraud Task Force has officially surpassed $1 billion in total monetary recoveries, penalties, and forfeitures. The multi-agency task force has intensified scrutiny on cross-border supply chains and trade compliance violations.",
-                "Federal investigations have concentrated heavily on customs undervaluation schemes, anti-dumping duty evasion, and systematic country-of-origin misclassification. Compliance audits are leveraging advanced data analytics to flag suspicious import documentation patterns.",
-                "Importers and logistics intermediaries face unprecedented regulatory liability as federal prosecutors scale cross-border enforcement operations. Corporate governance requirements for international sourcing networks are expanding rapidly.",
-                "Supply chain executives must audit customs filings and verify foreign vendor compliance to mitigate potential federal asset seizures. Immediate supply chain mapping is recommended to ensure origin verification."
+                "The world's largest container shipping lines accelerate a decisive structural shift away from chartered tonnage.",
+                "Major ocean operators prioritize fully owned vessels to maintain tight operational control over capacity.",
+                "Charter market exposures are aggressively trimmed as carrier networks fortify against macroeconomic volatility.",
+                "Non-vessel-operating common carriers should anticipate tighter slot allocations on core arterial loops."
             ],
             "imageUrl": "",
-            "nextUpTease": "US SENATE: CHAMELEON CARRIER CRACKDOWN",
+            "nextUpTease": "CAR-CARRIER RATE SURGE",
             "tags": [
-                "Source: www.inboundlogistics.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "US SENATE: CHAMELEON CARRIER CRACKDOWN",
+            "heading": "CAR-CARRIER RATE SURGE",
             "points": [
-                "New legislation introduced in the U.S. Senate directly targets non-compliant trucking companies operating as fraudulent chameleon carriers. The bill establishes severe penalties for motor carriers that shut down and re-establish operations under new identities to evade federal safety mandates.",
-                "Federal enforcement agencies will receive expanded authority to track corporate ownership structures and seize assets from illegal operators. Industry freight brokers and shippers will also face stricter vetting expectations regarding carrier selection.",
-                "The legislative crackdown aims to remove thousands of illicit freight operators from domestic highway networks, improving overall motor carrier safety standards. Legal liability for freight intermediaries using non-vetted carriers is set to increase substantially.",
-                "Logistics managers must implement automated compliance monitoring tools to verify DOT operating credentials in real time. Shippers should evaluate internal freight brokerage vetting protocols to ensure full regulatory alignment."
+                "Surging global demand for Chinese electric vehicles drives modern car-carrier charter rates toward record peaks.",
+                "Daily fixture rates approach the critical psychological threshold of one hundred thousand dollars per vessel.",
+                "Specialized maritime asset scarcity intensifies competition among major automotive manufacturing exporters.",
+                "Finished vehicle logistics programs must secure long-term capacity commitments well ahead of peak seasons."
             ],
             "imageUrl": "",
-            "nextUpTease": "CMA CGM: RAIL FREIGHT BID WITHDRAWAL",
+            "nextUpTease": "RAIL FREIGHT BID WITHDRAWAL",
             "tags": [
-                "Source: www.freightwaves.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CMA CGM: RAIL FREIGHT BID WITHDRAWAL",
+            "heading": "RAIL FREIGHT BID WITHDRAWAL",
             "points": [
-                "Global ocean logistics giant CMA CGM has officially terminated its bid to acquire a forty-nine percent stake in Rail Logistics Europe. The sudden withdrawal from the French rail freight enterprise reshapes European intermodal transport expansion strategies.",
-                "The decision reflects broader market recalibrations across European freight networks amid shifting regulatory capital requirements and macroeconomic headwinds. The company is reallocating capital assets toward direct ocean and port infrastructure developments.",
-                "European intermodal rail integration efforts face immediate restructuring as major ocean carriers rethink inland logistics acquisitions. Regional rail freight operators must seek alternative capital partners to finance electrification and network modernization.",
-                "Cargo owners utilizing European rail corridors should expect delayed infrastructure upgrades and potential short-term intermodal bottlenecks. Supply chain managers are advised to maintain flexible regional trucking backups."
+                "CMA CGM officially confirms its strategic withdrawal from the competitive bidding process for Fret SNCF.",
+                "The corporate retreat alters the competitive landscape for France's largest rail logistics and freight network.",
+                "Private-public rail restructuring initiatives face renewed capital deployment hurdles across European corridors.",
+                "Intermodal logistics operators must reassess continental rail partnership models following the sudden exit."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: SECTION 301 TRADE EXPANSION",
+            "nextUpTease": "AUTOMATED TRAILER LOADING",
             "tags": [
-                "Source: theloadstar.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "USTR: SECTION 301 TRADE EXPANSION",
+            "heading": "AUTOMATED TRAILER LOADING",
             "points": [
-                "The Office of the United States Trade Representative is advancing Section 301 trade actions targeting sixty foreign trade partners. The strategic regulatory transition comes directly as temporary Section 122 emergency trade measures reach expiration.",
-                "The new trade enforcement framework prioritizes forced labor compliance, structural tariff adjustments, and cross-border trade accountability. Importers across multiple manufacturing sectors will experience updated landed cost calculations and strict documentation requirements.",
-                "Global trade lane flows are adjusting as manufacturers accelerate nearshoring initiatives to bypass escalating trade penalties. Customs brokers are preparing for heightened documentation scrutiny across incoming international shipments.",
-                "Importers must rapidly review tariff schedules and recalculate landed costs across all active global sourcing channels. Sourcing teams are advised to evaluate secondary manufacturing locations outside affected trade jurisdictions."
+                "FedEx expands its advanced autonomous trailer loading pilot program to high-volume regional hub facilities.",
+                "Robotic loading systems reduce manual labor dependencies while significantly accelerating dock throughput speeds.",
+                "Facility automation capital expenditures yield measurable improvements in outbound trailer space utilization.",
+                "Warehouse operations managers should evaluate scalable robotics integrations to combat chronic labor constraints."
             ],
             "imageUrl": "",
-            "nextUpTease": "US SENATE: E-COMMERCE ACCOUNT PROBE",
+            "nextUpTease": "RAILWAY OPERATIONAL METRICS",
             "tags": [
-                "Source: www.logisticsmgmt.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "US SENATE: E-COMMERCE ACCOUNT PROBE",
+            "heading": "RAILWAY OPERATIONAL METRICS",
             "points": [
-                "U.S. Senate investigators have launched a targeted probe into foreign e-commerce account manipulation and marketplace bribery operations. The inquiry focuses on illicit third-party services offering to unsuspension seller accounts via insider marketplace connections.",
-                "Federal lawmakers are demanding total transparency from major digital sales platforms regarding internal security measures and seller account verification. The investigation aims to eliminate fraudulent merchant activities that disadvantage compliant domestic businesses.",
-                "Marketplace platforms are expected to deploy stricter merchant authentication controls and AI-driven fraud detection systems. Compliance standards for global e-commerce sellers will become significantly more rigorous.",
-                "E-commerce brands must ensure all marketplace operational practices strictly comply with federal merchant guidelines. Enterprise sellers should strengthen account oversight to prevent unauthorized third-party access."
+                "Class I railroad dashboards track critical velocity, dwell times, and active car counts across networks.",
+                "Operational efficiency metrics indicate stable baseline performance despite localized intermodal volume gains.",
+                "Network fluidity remains a primary focus for freight stakeholders managing cross-country inventory flows.",
+                "Supply chain executives must monitor weekly rail performance indicators to preempt terminal bottlenecks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: www.ecommercebytes.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
