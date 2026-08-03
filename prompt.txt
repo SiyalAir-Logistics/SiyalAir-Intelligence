@@ -49,14 +49,14 @@ SECTION C: HOURLY CROSS-EXAMINATION & RANKING ALGORITHM
 --------------------------------------------------------------------------------
 Process data through this 3-stage filtration engine:
 - Step 1: Source Check: Drop any entries lacking an original primary root domain.
-- Step 2: Anti-Duplication: Cross-examine against the last 24-48 hours. Drop re-hashes.
+- Step 2: Anti-Duplication & Historical Blacklist Filtering: Cross-examine candidate stories against the ingested historical dataset from `template.js` provided in the runtime prompt context. Drop any re-hashes, identical coverage, or structural matches from past updates to guarantee absolute 100% fresh hourly intelligence.
 - Step 3: Signal Matrix & Dynamic Title Synthesis: Rank items (0-10) on their operational friction impact. Prioritize heavy-hitting structural developments regarding US Customs compliance shifts, marketplace rules, carrier space crunches, and macro supply chain infrastructure threats. Shortlist the 7 highest-scoring items.
 - Dynamic Title Choice: Synthesize the core theme of the 7 items. In the 'main' JSON object, 'titleWhite' contains all words except the last, and 'titleBlue' contains ONLY the very last word. This combined title must be a maximum of 4 words strictly (3 white and 1 blue). This title must be updated every hour.
 
 --------------------------------------------------------------------------------
 SECTION D: FORMATTING & HARSH CHARACTER BOUNDARIES
 --------------------------------------------------------------------------------
-- Slide Headings: UPPERCASE. Max 45 chars. Format: "ORGANIZATION: CORE UPGRADE".
+- Slide Headings: UPPERCASE. Max 45 chars. STRICT FORMAT: Must follow "CATEGORY: CORE UPGRADE" structure containing a clear colon separator (e.g., "USTR: SECTION 301 TARIFFS") so that the UI rendering client accurately parses and applies color accents.
 - Slide Content Format: Every slide must contain exactly three distinct, narrative paragraphs separated by double line breaks (\n\n). Each paragraph must contain exactly 3 to 4 dense, highly information-packed sentences (totaling 9-12 sentences per slide content block). 
 - Length Control: Each paragraph summary point must be maximum of 3 lines per individual string point constraint.
 - Editorial Rule: ABSOLUTELY ZERO SALES PITCHES OR SELF-PROMOTION inside the 7 data slides. Siyal Air acts strictly as the objective publishing intelligence agency.
@@ -70,7 +70,7 @@ Extract 7 distinct technical developments from the scraped data sources. Parse y
 - titleWhite: Dynamic theme string (all phrase words except the last, maximum 3 words)
 - titleBlue: Dynamic theme string (only the very last word, exactly 1 word)
 - footerSummary: A dynamic, hourly-refreshed 2-line forensic teaser unique to this specific update's core catalyst (max 25 words).
-- slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings, 4 technical narrative array entries, empty image reference layouts, a nextUpTease string, and audit validation metadata arrays.
+- slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings matching the `CATEGORY: TITLE` format rule, 4 technical narrative array entries, empty image reference layouts, a nextUpTease string, and audit validation metadata arrays.
 
 --------------------------------------------------------------------------------
 SECTION F: VIDEO TEMPLATE MODULE EXPORT SPECIFICATIONS (`Video_Template_EN.js`)
@@ -142,7 +142,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
     "slides": [
       {
         "id": 1,
-        "heading": "[UPPERCASE SECTION HEADLINE]",
+        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE]",
         "points": [
           "[Technical breakthrough summary sentence block, max 3 lines]",
           "[Quantitative operational impact sentence block, max 3 lines]",
@@ -155,7 +155,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       },
       {
         "id": 2,
-        "heading": "[UPPERCASE SECTION HEADLINE]",
+        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE]",
         "points": [
           "[Technical breakthrough summary sentence block, max 3 lines]",
           "[Quantitative operational impact sentence block, max 3 lines]",
@@ -168,7 +168,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       },
       {
         "id": 3,
-        "heading": "[UPPERCASE SECTION HEADLINE]",
+        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE]",
         "points": [
           "[Technical breakthrough summary sentence block, max 3 lines]",
           "[Quantitative operational impact sentence block, max 3 lines]",
@@ -181,7 +181,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       },
       {
         "id": 4,
-        "heading": "[UPPERCASE SECTION HEADLINE]",
+        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE]",
         "points": [
           "[Technical breakthrough summary sentence block, max 3 lines]",
           "[Quantitative operational impact sentence block, max 3 lines]",
@@ -194,7 +194,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       },
       {
         "id": 5,
-        "heading": "[UPPERCASE SECTION HEADLINE]",
+        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE]",
         "points": [
           "[Technical breakthrough summary sentence block, max 3 lines]",
           "[Quantitative operational impact sentence block, max 3 lines]",
@@ -207,7 +207,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       },
       {
         "id": 6,
-        "heading": "[UPPERCASE SECTION HEADLINE]",
+        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE]",
         "points": [
           "[Technical breakthrough summary sentence block, max 3 lines]",
           "[Quantitative operational impact sentence block, max 3 lines]",
@@ -220,7 +220,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       },
       {
         "id": 7,
-        "heading": "[UPPERCASE SECTION HEADLINE]",
+        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE]",
         "points": [
           "[Technical breakthrough summary sentence block, max 3 lines]",
           "[Quantitative operational impact sentence block, max 3 lines]",
@@ -298,5 +298,5 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       ]
     }
   },
-  "social_post": "🌐 [TITLE WHITE] [TITLE BLUE]\nGlobal supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:\n\n01 / [TITLE 1]\n[One-sentence premium summary of signal 01].\n\n02 / [TITLE 2]\n[One-sentence premium summary of signal 02].\n\n03 / [TITLE 3]\n[One-sentence premium summary of signal 03].\n\n04 / [TITLE 4]\n[One-sentence premium summary of signal 04].\n\n05 / [TITLE 5]\n[One-sentence premium summary of signal 05].\n\n06 / [TITLE 6]\n[One-sentence premium summary of signal 06].\n\n07 / [TITLE 7]\n[One-sentence premium summary of signal 07].\n\n✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦\nStay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.\n\nVisit our profile or official website at www.siyalairllc.com to explore complete logistics services.\nFor Rate Audit and queries, contact us at +1 862 425 6741.\nN\n[ LIKE • SHARE • FOLLOW ]\nFor hourly decoded freight and global logistics signals across the globe.\n\n#[DYNAMIC_HASHTAG_1] #[DYNAMIC_HASHTAG_2] #[DYNAMIC_HASHTAG_3] #[DYNAMIC_HASHTAG_4] #[DYNAMIC_HASHTAG_5] #[DYNAMIC_HASHTAG_6] #[DYNAMIC_HASHTAG_7] #[DYNAMIC_HASHTAG_8]"
+  "social_post": "🌐 [TITLE WHITE] [TITLE BLUE]\nGlobal supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:\n\n01 / [TITLE 1]\n[One-sentence premium summary of signal 01].\n\n02 / [TITLE 2]\n[One-sentence premium summary of signal 02].\n\n03 / [TITLE 3]\n[One-sentence premium summary of signal 03].\n\n04 / [TITLE 4]\n[One-sentence premium summary of signal 04].\n\n05 / [TITLE 5]\n[One-sentence premium summary of signal 05].\n\n06 / [TITLE 6]\n[One-sentence premium summary of signal 06].\n\n07 / [TITLE 7]\n[One-sentence premium summary of signal 07].\n\n✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦\nStay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.\n\nVisit our profile or official website at www.siyalairllc.com to explore complete logistics services.\nFor Rate Audit and queries, contact us at +1 862 425 6741.\n\n[ LIKE • SHARE • FOLLOW ]\nFor hourly decoded freight and global logistics signals across the globe.\n\n#[DYNAMIC_HASHTAG_1] #[DYNAMIC_HASHTAG_2] #[DYNAMIC_HASHTAG_3] #[DYNAMIC_HASHTAG_4] #[DYNAMIC_HASHTAG_5] #[DYNAMIC_HASHTAG_6] #[DYNAMIC_HASHTAG_7] #[DYNAMIC_HASHTAG_8]"
 }
