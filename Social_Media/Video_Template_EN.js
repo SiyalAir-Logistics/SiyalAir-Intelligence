@@ -6,52 +6,52 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFF ENFORCEMENT",
-                "teaserTitle": "DTNA: PORTLAND PLANT CLOSURE",
+                "headline": "FMC: OCEAN CARRIER BILLING RULE UPHELD",
+                "teaserTitle": "OCEAN CARRIERS: OWNED TONNAGE PUSH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR advances Section 301 tariffs on 60 trading partners, driving strict origin compliance across international supply networks."
+                "narration_line": "The D.C. Circuit upheld FMC detention rules, forcing ocean carriers to assess billing fees only during active freight movement."
             },
             {
                 "slide_index": 2,
-                "headline": "DTNA: PORTLAND MANUFACTURING PLANT CLOSURE",
-                "teaserTitle": "FRA: MEXICAN RAIL CREW STANDARDS",
+                "headline": "OCEAN CARRIERS: OWNED TONNAGE PUSH",
+                "teaserTitle": "DOJ: TRADE FRAUD ENFORCEMENT BOOST",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Daimler Truck North America will shutter its Portland facility, shifting commercial vehicle production strategy and fleet lead times."
+                "narration_line": "Global container lines are abandoning charter markets to build owned fleets, permanently altering ocean freight capacity strategies."
             },
             {
                 "slide_index": 3,
-                "headline": "FRA: MEXICAN RAIL CREW STANDARDS",
-                "teaserTitle": "AIR CARGO: FUEL SURCHARGE ADJUSTMENTS",
+                "headline": "DOJ: TRADE FRAUD ENFORCEMENT BOOST",
+                "teaserTitle": "US SENATE: CHAMELEON CARRIER CRACKDOWN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Regulators propose stricter English standards for Mexican rail crews, impacting cross-border rail interchange speeds and compliance procedures."
+                "narration_line": "The DOJ Trade Fraud Task Force hit one billion dollars in recoveries, targeting customs evasion and origin misclassifications."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: FUEL SURCHARGE ADJUSTMENTS",
-                "teaserTitle": "C.H. ROBINSON: VERDICT APPEAL STRATEGY",
+                "headline": "US SENATE: CHAMELEON CARRIER CRACKDOWN",
+                "teaserTitle": "CMA CGM: RAIL FREIGHT BID WITHDRAWAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Air freight carriers enact bi-weekly fuel surcharge reviews as volatile jet fuel prices increase long-haul air shipping costs."
+                "narration_line": "New Senate legislation targets illegal chameleon carriers, penalizing illicit operators that re-establish under fake corporate identities."
             },
             {
                 "slide_index": 5,
-                "headline": "C.H. ROBINSON: VERDICT APPEAL STRATEGY",
-                "teaserTitle": "FEDEX: AUTOMATED TRAILER LOADING PILOT",
+                "headline": "CMA CGM: RAIL FREIGHT BID WITHDRAWAL",
+                "teaserTitle": "USTR: SECTION 301 TRADE EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "C.H. Robinson appeals a historic six hundred four million dollar verdict, altering carrier selection and legal liability rules."
+                "narration_line": "CMA CGM withdrew its bid for Rail Logistics Europe, reshaping European intermodal infrastructure and ocean line capital deployment."
             },
             {
                 "slide_index": 6,
-                "headline": "FEDEX: AUTOMATED TRAILER LOADING PILOT",
-                "teaserTitle": "USPS: RURAL MARKETPLACE SURCHARGES",
+                "headline": "USTR: SECTION 301 TRADE EXPANSION",
+                "teaserTitle": "US SENATE: E-COMMERCE ACCOUNT PROBE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FedEx expands robotic trailer loading in Maryland, accelerating dock automation and network throughput across parcel logistics channels."
+                "narration_line": "USTR advances Section 301 tariffs on sixty trade partners, shifting global landed costs as temporary Section 122 rules expire."
             },
             {
                 "slide_index": 7,
-                "headline": "USPS: RURAL MARKETPLACE SURCHARGES",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "US SENATE: E-COMMERCE ACCOUNT PROBE",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "USPS raises parcel rates and adds rural delivery surcharges, increasing last-mile fulfillment expenses for e-commerce sellers."
+                "narration_line": "Senate probes e-commerce account bribery schemes, demanding stricter seller compliance and enhanced platform security controls."
             },
             {
                 "slide_index": 8,
