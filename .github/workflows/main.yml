@@ -1,10 +1,10 @@
 # ==============================================================================
 # SIYALAIR-INTEL-STUDIO ORCHESTRATION PIPELINE (PROD_v2.0_2026)
-# DIRECTORY:   .github/workflows/
-# MODULE:      main.yml
-# PURPOSE:     Orchestrates end-to-end automated news generation, asset dynamic rotation,
-#              canvas slide screenshot capturing, repository synchronization, and 
-#              SMTP dispatch notifications on an hourly cron schedule.
+# DIRECTORY:    .github/workflows/
+# MODULE:       main.yml
+# PURPOSE:      Orchestrates end-to-end automated news generation, asset dynamic rotation,
+#               canvas slide screenshot capturing, repository synchronization, and 
+#               SMTP dispatch notifications on an hourly cron schedule.
 # ==============================================================================
 
 name: Hourly Intel Automation
@@ -36,7 +36,7 @@ jobs:
       - name: Checkout Code Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1            # Optimized: Performs shallow clone of the latest commit to prevent fetch socket hangups
+          fetch-depth: 0             # Preserved from backup: Full history depth for exact tree tracking
           token: ${{ secrets.GITHUB_TOKEN }}
           persist-credentials: true
 
@@ -96,12 +96,15 @@ jobs:
           except Exception:
               current_val = 1
 
-          next_val = ((current_val - 1) % max_backgrounds) + 1
+          if current_val >= max_backgrounds:
+              next_val = 1
+          else:
+              next_val = current_val + 1
 
           with open(tracker_file, "w", encoding="utf-8") as f:
               f.write(str(next_val))
 
-          print(f"[SUCCESS] Dynamic Background Rotation: Total={max_backgrounds}. State shifted: {current_val} -> {next_val}")
+          print(f"Dynamic Background Rotation: Found {max_backgrounds} total backgrounds. Rotated tracker: {current_val} -> {next_val}")
           EOF
 
           # Dynamically rotate follow-up CTA slide tracker index
@@ -130,12 +133,15 @@ jobs:
           except Exception:
               current_follow_val = 1
 
-          next_follow_val = ((current_follow_val - 1) % max_followups) + 1
+          if current_follow_val >= max_followups:
+              next_follow_val = 1
+          else:
+              next_follow_val = current_follow_val + 1
 
           with open(follow_tracker_file, "w", encoding="utf-8") as f:
               f.write(str(next_follow_val))
 
-          print(f"[SUCCESS] Dynamic Follow-up Rotation: Total={max_followups}. State shifted: {current_follow_val} -> {next_follow_val}")
+          print(f"Dynamic Follow-up Rotation: Found {max_followups} total follow slides. Rotated tracker: {current_follow_val} -> {next_follow_val}")
           EOF
 
           # Stage generated artifacts and tracker state files
@@ -178,7 +184,6 @@ jobs:
           target_url = "https://siyalair-logistics.github.io/SiyalAir-Intelligence/template.js"
           success = False
 
-          # Poll endpoint for up to 5 minutes (30 checks spaced 10s apart)
           for attempt in range(30):
               try:
                   response = requests.get(f"{target_url}?nocache={int(time.time())}", timeout=10)
