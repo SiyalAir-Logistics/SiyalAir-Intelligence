@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE PIVOT",
+        "hookTitle": "GLOBAL FREIGHT NETWORK REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS COMPLIANCE: SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "BROKER LIABILITY SHIFT",
+                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "FMC: DETENTION FEE COMPLIANCE MANDATE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR advanced aggressive new tariffs on sixty trading partners, raising compliance pressure across supply chains."
+                "narration_line": "USTR advances Section 301 tariffs on sixty nations to enforce trade compliance as expiring duties compel immediate importer landed cost reviews."
             },
             {
                 "slide_index": 2,
-                "headline": "BROKERAGE RISK: LANDMARK LIABILITY VERDICTS",
-                "teaserTitle": "MARITIME CAPACITY RESTRICTIONS",
+                "headline": "FMC: DETENTION FEE COMPLIANCE MANDATE",
+                "teaserTitle": "KODIAK ROBOTICS: AUTONOMOUS FLEET EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A massive legal judgment over negligent carrier selection is forcing freight brokers to overhaul vetting protocols."
+                "narration_line": "Federal courts uphold FMC rules requiring ocean carrier detention fees to strictly promote freight fluidity across terminal operations."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME OPERATIONS: OWNED TONNAGE PRIORITY",
-                "teaserTitle": "CROSS-BORDER LABOR MANDATES",
+                "headline": "KODIAK ROBOTICS: AUTONOMOUS FLEET EXPANSION",
+                "teaserTitle": "US DOT: VETERAN TRUCKING RECRUITMENT PIPELINE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Global container lines are moving away from chartered vessels to prioritize owned tonnage amid route instability."
+                "narration_line": "Kodiak Robotics expands its driverless truck fleet to one hundred rigs, accelerating autonomous middle-mile commercial freight throughput nationwide."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATORY POLICY: CROSS-BORDER CREW STANDARDS",
-                "teaserTitle": "AIR CARGO SURCHARGE ACCELERATION",
+                "headline": "US DOT: VETERAN TRUCKING RECRUITMENT PIPELINE",
+                "teaserTitle": "NISSIN FOODS: AI PLANNING INTEGRATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New federal language and credential mandates for cross-border rail and truck crews threaten transit velocity."
+                "narration_line": "US DOT launches Freedom Haulers to transition military veterans into commercial driver careers, reinforcing long-haul trucking capacity."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO DYNAMICS: ACCELERATED FUEL SURCHARGES",
-                "teaserTitle": "WAREHOUSE AUTOMATION DEPLOYMENT",
+                "headline": "NISSIN FOODS: AI PLANNING INTEGRATION",
+                "teaserTitle": "EBAY: DEPOP ACQUISITION INTEGRATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Air cargo carriers have transitioned to bi-weekly fuel surcharge reviews as energy market volatility escalates."
+                "narration_line": "Nissin Foods implements AI demand software to optimize inventory forecasting accuracy and streamline consumer packaged goods distribution."
             },
             {
                 "slide_index": 6,
-                "headline": "FACILITY INNOVATION: AUTONOMOUS YARD AUTOMATION",
-                "teaserTitle": "ECOMMERCE FULFILLMENT SCALING",
+                "headline": "EBAY: DEPOP ACQUISITION INTEGRATION",
+                "teaserTitle": "UAE: CRUDE OIL PRICING OVERHAUL",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Logistics providers are expanding autonomous yard automation pilots to optimize dock operations and cut dwell times."
+                "narration_line": "eBay finalizes its $1.4 billion Depop acquisition to scale apparel e-commerce operations and streamline multi-channel cross-border order fulfillment."
             },
             {
                 "slide_index": 7,
-                "headline": "ECOMMERCE FULFILLMENT: STRATEGIC MARKETPLACE CONSOLIDATION",
+                "headline": "UAE: CRUDE OIL PRICING OVERHAUL",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Major online marketplaces are executing high-value acquisitions to capture specialized consumer retail sectors."
+                "narration_line": "UAE overhauls crude oil pricing mechanisms to stabilize energy maritime transportation costs amidst persistent Strait of Hormuz chokepoint tensions."
             },
             {
                 "slide_index": 8,

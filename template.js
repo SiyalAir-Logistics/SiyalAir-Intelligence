@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
-        "titleBlue": "PIVOT",
-        "footerSummary": "Logistics networks face unprecedented volatility as regulatory enforcement surges, brokerage liability peaks, and cross-border corridors reshape maritime and trucking pathways."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "Rapid shifts in federal trade tariffs, maritime detention enforcement, autonomous fleet growth, and crude pricing mechanisms alter international supply chain risk profiles."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS COMPLIANCE: SECTION 301 TARIFF EXPANSION",
+            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
             "points": [
-                "The Office of the United States Trade Representative formally advanced new tariffs targeting sixty trading partners.",
-                "This enforcement sweep heavily penalizes supply chains tied to questionable forced labor origins and compliance failures.",
-                "Importers must rapidly audit tier-one through tier-three vendor networks to avoid devastating border holds and fines.",
-                "Supply chain directors anticipate cascading administrative delays as customs officials heighten document scrutiny."
+                "USTR advances Section 301 tariff implementations on sixty trading partner nations as Section 122 duties reach expiration deadlines.",
+                "Importers face escalated duty structures across critical manufacturing materials and finished goods categories across global trade routes.",
+                "Strategic trade advisors recommend immediate tariff classification reviews to mitigate landed cost increases across multi-country networks.",
+                "Supply chain planners must adapt procurement frameworks to minimize exposure to shifting regulatory trade penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "BROKER LIABILITY SHIFT",
+            "nextUpTease": "FMC: DETENTION FEE COMPLIANCE MANDATE",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -25,15 +25,32 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "BROKERAGE RISK: LANDMARK LIABILITY VERDICTS",
+            "heading": "FMC: DETENTION FEE COMPLIANCE MANDATE",
             "points": [
-                "A massive legal ruling against a major logistics broker sent severe shockwaves across the entire third-party sector.",
-                "The staggering judgment underscores heightened judicial scrutiny regarding negligent carrier selection and vetting protocols.",
-                "Brokers are aggressively overhauling compliance infrastructure to mitigate expanding vicarious liability exposures.",
-                "Shippers should expect tighter contractual indemnification clauses and stricter vetting requirements across spot networks."
+                "Federal Maritime Commission decisions enforcing freight fluidity standards for carrier detention billing practices stand upheld by federal courts.",
+                "Ocean carriers and terminal operators face heightened financial scrutiny and penalties regarding invalid container delay charges.",
+                "Beneficial cargo owners gain enhanced regulatory leverage to dispute non-compliant maritime demurrage assessments.",
+                "Terminal billing automation systems require immediate audits to maintain regulatory compliance with federal ocean shipping standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME CAPACITY RESTRICTIONS",
+            "nextUpTease": "KODIAK ROBOTICS: AUTONOMOUS FLEET EXPANSION",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "KODIAK ROBOTICS: AUTONOMOUS FLEET EXPANSION",
+            "points": [
+                "Kodiak Robotics expands its operational driverless commercial truck fleet size to one hundred autonomous rigs nationwide.",
+                "Long-haul middle-mile freight corridors gain significant operational density as autonomous freight runs scale up commercial throughput.",
+                "Fleet operators accelerate autonomous integration strategies to address persistent long-distance driver capacity constraints.",
+                "Autonomous freight corridors are projected to reshape long-distance freight economics and carrier lane routing strategies."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "US DOT: VETERAN TRUCKING RECRUITMENT PIPELINE",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
@@ -41,86 +58,69 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MARITIME OPERATIONS: OWNED TONNAGE PRIORITY",
-            "points": [
-                "Global container lines are systematically accelerating their migration away from volatile chartered vessel pools.",
-                "Uncertain geopolitical chokepoints and schedule unreliability are forcing carriers to favor heavily controlled tonnage.",
-                "This strategic shift tightens available charter capacity while driving up daily lease rates for modern vessels.",
-                "Ocean shippers must lock in long-term service contracts early to safeguard against imminent slot constraints."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CROSS-BORDER LABOR MANDATES",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "REGULATORY POLICY: CROSS-BORDER CREW STANDARDS",
+            "heading": "US DOT: VETERAN TRUCKING RECRUITMENT PIPELINE",
             "points": [
-                "Federal transportation agencies are advancing stringent language proficiency and credential mandates for cross-border crews.",
-                "These regulatory adjustments aim to elevate corridor safety but threaten to constrain available international driver pools.",
-                "Intermodal logistics operators are reviewing staffing pipelines to prevent localized border transit bottlenecks.",
-                "Logistics planners should prepare for temporary velocity dips along major northern and southern trade corridors."
+                "US DOT introduces Freedom Haulers initiative to transition military veterans directly into commercial driver licensing programs.",
+                "Interagency recruitment framework streamlines licensing runways to supply qualified commercial drivers to struggling motor carriers.",
+                "Logistics providers align corporate hiring pipelines with federal workforce initiatives to bolster long-term fleet capacity.",
+                "Industry capacity constraints show targeted structural relief as federal veteran workforce integrations scale across states."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO SURCHARGE ACCELERATION",
+            "nextUpTease": "NISSIN FOODS: AI PLANNING INTEGRATION",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR CARGO DYNAMICS: ACCELERATED FUEL SURCHARGES",
+            "heading": "NISSIN FOODS: AI PLANNING INTEGRATION",
             "points": [
-                "Major international air cargo carriers have initiated bi-weekly reviews of volatile jet fuel pricing structures.",
-                "Escalating regional conflicts and shifting energy benchmarks are immediately pushing surcharge rates upward.",
-                "High-value shippers face rising line-haul costs as carriers aggressively pass on downstream fuel volatility.",
-                "Forwarders recommend consolidating shipments and booking block-space agreements to buffer against price spikes."
+                "Food manufacturer Nissin Foods deploys artificial intelligence demand tools to sharpen inventory forecasting accuracy and fill rates.",
+                "Automated predictive analytics reduce safety stock buffer requirements while insulating distribution networks against unexpected demand surges.",
+                "Enterprise CPG supply chains prioritize machine-learning integration to streamline warehouse throughput and reduce waste.",
+                "Advanced planning software adoption continues establishing new benchmark performance standards across consumer goods logistics."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSE AUTOMATION DEPLOYMENT",
+            "nextUpTease": "EBAY: DEPOP ACQUISITION INTEGRATION",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FACILITY INNOVATION: AUTONOMOUS YARD AUTOMATION",
+            "heading": "EBAY: DEPOP ACQUISITION INTEGRATION",
             "points": [
-                "Major logistics enterprises are aggressively scaling pilot programs featuring autonomous trailer-loading robotics.",
-                "Deploying advanced hardware directly addresses chronic labor shortages while maximizing distribution center throughput.",
-                "Facility engineers report significant reductions in dwell times and improved safety metrics across active docks.",
-                "Widespread adoption of yard automation will redefine warehouse labor models over the next twenty-four months."
+                "Marketplace platform eBay completes $1.4 billion acquisition of C2C apparel marketplace Depop to capture fashion category growth.",
+                "Platform consolidation enhances cross-border e-commerce logistics integration and reverse logistics handling efficiency.",
+                "E-commerce sellers gain expanded access to international buyer bases and streamlined multi-channel shipping workflows.",
+                "Digital marketplaces continue integrating specialized platforms to optimize parcel volume density and fulfillment infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE FULFILLMENT SCALING",
+            "nextUpTease": "UAE: CRUDE OIL PRICING OVERHAUL",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ECOMMERCE FULFILLMENT: STRATEGIC MARKETPLACE CONSOLIDATION",
+            "heading": "UAE: CRUDE OIL PRICING OVERHAUL",
             "points": [
-                "Leading online marketplaces are actively pursuing multi-billion dollar acquisitions to capture niche retail segments.",
-                "Strategic platform consolidation allows retail giants to expand fashion and specialty inventory distribution networks.",
-                "Sellers face evolving compliance protocols and fee structures as dominant platforms integrate new acquisitions.",
-                "Brand logistics teams must diversify digital channels to maintain margin resilience amidst changing marketplace terms."
+                "UAE energy authorities overhaul crude oil pricing structures following severe volatile trading swings tied to Hormuz chokepoint risks.",
+                "Maritime freight routes and fuel bunkering operations adjust pricing models to navigate heightened regional transportation risks.",
+                "Carrier operating margins face renewed uncertainty as international bunker fuel prices adjust to regional pricing adjustments.",
+                "Energy supply chain managers must update hedging strategies to protect against volatile maritime transportation cost spikes."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
