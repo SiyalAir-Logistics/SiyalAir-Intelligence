@@ -60,7 +60,7 @@ def get_stealth_headers():
     }
 
 def fetch_and_clean():
-    """Extracts URLs from prompt.txt and scrapes with human-like timing."""
+    """Extracts URLs from prompt.txt and scrapes with human-like timing, appending existing template.js content as a historical blacklist context."""
     log("INFO", "Reading prompt.txt and extracting target URLs.")
     try:
         with open("prompt.txt", "r", encoding="utf-8") as f:
@@ -68,6 +68,15 @@ def fetch_and_clean():
     except FileNotFoundError:
         log("ERROR", "prompt.txt not found in root directory.")
         return "", ""
+
+    # Ingest existing template.js as historical context / blacklist feed
+    historical_context = ""
+    try:
+        with open("template.js", "r", encoding="utf-8") as tf:
+            historical_context = "\n\n[PREVIOUSLY PUBLISHED HISTORICAL DATASET BLACKLIST (DO NOT REPEAT THESE TOPICS)]: \n" + tf.read()
+        log("SUCCESS", "Successfully loaded template.js history for anti-duplication blacklist filtering.")
+    except FileNotFoundError:
+        log("WARNING", "template.js not found; proceeding without historical blacklist context.")
 
     urls = list(set(re.findall(r'https?://(?:[-\w.]|(?:%[\da-fA-F]{2}))+', prompt_content)))
     scraped_text = ""
@@ -96,7 +105,7 @@ def fetch_and_clean():
             log("WARNING", f"Exception occurred while fetching {url}: {str(e)}")
             continue
             
-    return prompt_content, scraped_text
+    return prompt_content + historical_context, scraped_text
 
 # ==============================================================================
 # [ MODULE 3: TRACKER LOG & STATE SYNCHRONIZATION ENGINES ]
