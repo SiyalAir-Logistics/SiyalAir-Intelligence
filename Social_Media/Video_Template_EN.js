@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK VOLATILITY",
+        "hookTitle": "GLOBAL TRADE TARIFFS SURGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USPS IMPLEMENTS NEW RATE HIKES",
-                "teaserTitle": "C.H. ROBINSON LEGAL CHALLENGE",
+                "headline": "USTR SECTION TARIFFS IMPLEMENTATION",
+                "teaserTitle": "DOJ TRADE FRAUD ENFORCEMENT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USPS introduces steep structural rate hikes and new hazmat noncompliance fees that squeeze merchant margins."
+                "narration_line": "The USTR is moving forward with new tariffs across 60 trading partners, forcing supply chains to re-evaluate sourcing."
             },
             {
                 "slide_index": 2,
-                "headline": "C.H. ROBINSON VOWS APPEAL",
-                "teaserTitle": "MANUFACTURING GROWTH EXPANSION",
+                "headline": "DOJ TRADE FRAUD ENFORCEMENT",
+                "teaserTitle": "DOMESTIC INTERMODAL VOLUME HIGHS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "C.H. Robinson vows to challenge a massive negligent-hiring verdict, shaking up freight brokerage liability rules."
+                "narration_line": "The DOJ Trade Fraud Task Force crosses one billion dollars in recoveries, intensifying audits for importers."
             },
             {
                 "slide_index": 3,
-                "headline": "US MANUFACTURING EXPANDS",
-                "teaserTitle": "AUTOMATED PARCEL HANDLING SURGE",
+                "headline": "DOMESTIC INTERMODAL VOLUME HIGHS",
+                "teaserTitle": "AIR CARGO SURCHARGE ESCALATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "U.S. manufacturing activity expands for the seventh consecutive month as industrial production gathers solid momentum."
+                "narration_line": "Domestic intermodal volumes hit record highs in Q2 as shippers capitalize on substantial cost savings over truckloads."
             },
             {
                 "slide_index": 4,
-                "headline": "UPS INCREASES AUTOMATION",
-                "teaserTitle": "MARITIME DETENTION RULE UPHOLDING",
+                "headline": "AIR CARGO SURCHARGE ESCALATION",
+                "teaserTitle": "NEGLIGENT HIRING LEGAL LIABILITY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "UPS ramps up automation across its domestic network, handling over two-thirds of U.S. volume through automated hubs."
+                "narration_line": "Airlines implement bi-weekly fuel surcharge reviews to manage ongoing market volatility and rising jet fuel costs."
             },
             {
                 "slide_index": 5,
-                "headline": "FMC DETENTION RULES UPHELD",
-                "teaserTitle": "AI DEMAND PLANNING DEPLOYMENT",
+                "headline": "NEGLIGENT HIRING LEGAL LIABILITY",
+                "teaserTitle": "COMMERCIAL EV ADOPTION MILESTONE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Federal appeals courts uphold FMC mandates ensuring port detention fees prioritize freight fluidity over revenue generation."
+                "narration_line": "A massive six-hundred-million-dollar brokerage verdict forces logistics firms to overhaul carrier vetting protocols."
             },
             {
                 "slide_index": 6,
-                "headline": "AI DEMAND PLANNING DEPLOYED",
-                "teaserTitle": "REGIONAL CAPACITY & LABOR SHIFTS",
+                "headline": "COMMERCIAL EV ADOPTION MILESTONE",
+                "teaserTitle": "AUTOMATED WAREHOUSE DEPLOYMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Global brands deploy AI-powered demand planning tools to sharpen forecasting accuracy and boost fulfillment fill rates."
+                "narration_line": "Early fleet adopters report high satisfaction with heavy electric trucks, validating sustainable freight operations."
             },
             {
                 "slide_index": 7,
-                "headline": "REGIONAL CAPACITY SHIFTS",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "AUTOMATED WAREHOUSE DEPLOYMENT",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Logistics providers restructure regional networks and terminal footprints to counter ongoing driver capacity constraints."
+                "narration_line": "Major carriers process over two-thirds of domestic volumes through automated facilities to cut handling costs."
             },
             {
                 "slide_index": 8,
