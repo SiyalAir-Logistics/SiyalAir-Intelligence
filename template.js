@@ -1,73 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE SHOCKS",
-        "titleBlue": "INTENSIFY",
-        "footerSummary": "Logistics networks face mounting pressures as trade enforcement, legal disputes, and regulatory bottlenecks disrupt global supply chains."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "VOLATILITY",
+        "footerSummary": "Supply chains face acute pressure from rising USPS noncompliance fees, court rulings on broker liabilities, and regional capacity crunches."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC UPHOLDS DETENTION FEE FLUIDITY RULING",
+            "heading": "USPS IMPLEMENTS NEW RATE HIKES AND NONCOMPLIANCE FEES",
             "points": [
-                "The U.S. Court of Appeals for the D.C. Circuit issued a decisive ruling upholding the Federal Maritime Commission's framework ensuring detention fees actively promote freight fluidity.",
-                "This legal validation strengthens regulatory oversight on ocean transportation intermediaries and vessel-operating common carriers across domestic ports.",
-                "Shippers navigating congestion can leverage this precedent to contest punitive dwell charges that fail to incentivize actual cargo movement.",
-                "Enforcement bodies are expected to aggressively penalize ocean carriers attempting to circumvent demurrage and detention billing guidelines."
+                "United States Postal Service introduces steep structural rate increases across Ground Advantage and lightweight shipping tiers.",
+                "Marketplace merchants face immediate margin compression as unannounced hazmat noncompliance fees catch regional operators by surprise.",
+                "Carriers adjust pricing models to offset ongoing inflationary pressures across domestic last-mile delivery networks.",
+                "Shippers must audit packaging compliance swiftly to avoid unexpected administrative penalties during peak fulfillment cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE FRAUD TASK FORCE MILESTONE",
+            "nextUpTease": "C.H. ROBINSON LEGAL CHALLENGE",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DOJ TRADE FRAUD TASK FORCE HITS RECOVERY MILESTONE",
+            "heading": "C.H. ROBINSON VOWS APPEAL OF LANDMARK VERDICT",
             "points": [
-                "The Department of Justice Trade Fraud Task Force has officially surpassed $1 billion in total recoveries, penalties, forfeitures, and charged losses.",
-                "Established less than a year ago, the interagency task force has dramatically accelerated scrutiny on importers, manufacturers, and logistics partners.",
-                "Companies relying on complex international trade structures must audit compliance records to mitigate severe exposure under intensified federal investigations.",
-                "Legal experts warn that enforcement will widen to encompass downstream supply chain participants failing to verify transactional provenance."
+                "Major third-party logistics provider formally announces its intention to challenge a massive multi-million dollar negligent-hiring jury verdict.",
+                "The legal decision sends shockwaves across the freight brokerage sector, raising concerns over vicarious liability rules.",
+                "Industry stakeholders reevaluate carrier vetting protocols and contract compliance frameworks to mitigate emerging legal exposures.",
+                "Brokers across the nation will likely tighten risk management practices to shield operations from similar judicial precedents."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER FLEET CAPACITY SHIFTS",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MAJOR CARRIERS FAVOR OWNED TONNAGE OVER CHARTERS",
-            "points": [
-                "Faced with persistent market volatility, the world\u2019s largest container shipping lines are accelerating their strategic exit from chartered vessel agreements.",
-                "Operators like Maersk and CMA CGM are prioritizing long-term asset control by acquiring and deploying owned tonnage to manage capacity constraints.",
-                "This structural pivot aims to insulate mega-carriers against fluctuating charter rates and secure schedule reliability amid chokepoint disruptions.",
-                "Independent forwarders utilizing charter capacity may encounter diminished slot availability and rising slot costs throughout peak shipping quarters."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MANUFACTURING ACTIVITY SURGES",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "U.S. MANUFACTURING EXPANDS AT FASTEST PACE",
-            "points": [
-                "U.S. manufacturing activity expanded at its strongest pace since 2022, with the ISM benchmark PMI registering robust growth at 55.6 for July.",
-                "Accelerating production output is driving heavy industrial demand, placing renewed pressure on domestic freight networks and intermodal transport corridors.",
-                "Supply chain planners must reconcile increased factory throughput with lingering material shortages and lengthening supplier lead times.",
-                "Higher manufacturing velocity will continue to attract structural freight volume, preventing significant spot rate contractions near major hubs."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "BROKERAGE LEGAL BATTLES ESCALATE",
+            "nextUpTease": "MANUFACTURING GROWTH EXPANSION",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -75,52 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "C.H. ROBINSON VOWS APPEAL ON NUCLEAR VERDICT",
+            "id": 3,
+            "heading": "US MANUFACTURING SECTOR EXPANDS FOR SEVENTH MONTH",
             "points": [
-                "C.H. Robinson Worldwide formally announced its intent to appeal a massive $604 million negligent-hiring verdict arising from a catastrophic highway collision.",
-                "The ongoing legal dispute has sent shockwaves across the 3PL brokerage sector, amplifying concerns regarding vicarious liability and carrier vetting standards.",
-                "Freight brokers are hastily overhauling compliance protocols to minimize exposure to soaring court judgments and aggressive plaintiff litigation.",
-                "Insurance premiums and underwriting requirements for third-party logistics providers are projected to spike as carriers reassess operational risk parameters."
+                "Institute for Supply Management reports continued industrial expansion with the manufacturing PMI reaching multi-year highs.",
+                "Production momentum accelerates despite lingering labor constraints and volatile energy input costs affecting factory floors.",
+                "Supply chain managers report steady inventory build-ups as firms position themselves for anticipated consumer demand surges.",
+                "Industrial output growth reinforces the resilience of domestic supply chains amid persistent macroeconomic uncertainties."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR ADVANCES TARIFF IMPLEMENTATION",
+            "nextUpTease": "AUTOMATED PARCEL HANDLING SURGE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "UPS INCREASES AUTOMATION ACROSS DOMESTIC NETWORK",
+            "points": [
+                "Leading parcel carrier announces that over two-thirds of total U.S. package volume is now handled by automated facilities.",
+                "Technology integration significantly reduces unit handling expenses and improves network capacity flexibility during demand spikes.",
+                "Capital investments in sortation robotics enable carriers to streamline labor overheads and optimize regional routing paths.",
+                "Automated hubs will continue to displace legacy manual sortation models as carriers scale efficiency nationwide."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME DETENTION RULE UPHOLDING",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "FEDERAL APPEALS COURT UPHOLDS FMC DETENTION RULES",
+            "points": [
+                "U.S. Court of Appeals for the D.C. Circuit validates Federal Maritime Commission mandates governing detention and demurrage fees.",
+                "Judicial ruling reinforces that port storage and penalty fees must directly incentivize freight fluidity rather than revenue generation.",
+                "Ocean carriers and marine terminal operators face strict regulatory scrutiny over billing transparency and dispute resolutions.",
+                "Importers gain stronger legal backing to contest unfair demurrage charges assessed during port congestion bottlenecks."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AI DEMAND PLANNING DEPLOYMENT",
+            "tags": [
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "USTR MOVES FORWARD WITH SECTION 301 TARIFFS",
+            "heading": "AI-POWERED DEMAND PLANNING TRANSFORMS PROCUREMENT",
             "points": [
-                "The Office of the United States Trade Representative is proceeding with scheduled tariff implementations on dozens of international trading partners.",
-                "The sweeping trade actions target goods across multiple sectors, compelling importers to restructure sourcing channels and absorb cost adjustments.",
-                "Supply chain leaders are increasingly utilizing tariff-mitigation engineering and nearshoring strategies to buffer against continuous trade policy shifts.",
-                "Customs compliance departments face heightened administrative burdens as agencies enforce stricter origin verification and documentation mandates."
+                "Major consumer goods brands deploy advanced machine learning algorithms to optimize supply forecasting and inventory replenishment.",
+                "Artificial intelligence solutions deliver measurable improvements in order fill rates and reduce excess buffer stock overhead.",
+                "Automated planning tools rapidly adapt to sudden market shocks, weather disruptions, and fluctuating carrier capacity.",
+                "Enterprises adopting cognitive supply chains gain decisive forecasting advantages over competitors reliant on legacy models."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL INFRASTRUCTURE & INTERMODAL HIGHS",
+            "nextUpTease": "REGIONAL CAPACITY & LABOR SHIFTS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DOMESTIC INTERMODAL VOLUMES SET NEW RECORDS",
+            "heading": "REGIONAL CARRIER CAPACITY SHIFTS AMID LABOR CONSTRAINTS",
             "points": [
-                "North American railroads hauled a record volume of domestic containers in the second quarter, providing shippers substantial savings against truckload rates.",
-                "Shippers capitalized on rail intermodal efficiencies to optimize transportation budgets amid rising fuel surcharges and carrier capacity constraints.",
-                "Infrastructure investments and modal diversification are proving vital as surface freight markets experience localized bottlenecks and service shifts.",
-                "Sustained reliance on rail intermodal is expected to absorb excess inland freight volume as the peak shipping season gathers momentum."
+                "Logistics providers restructure regional networks, closing underperforming terminals to optimize asset utilization.",
+                "Workforce shortages and stricter regulatory enforcement continue to constrain available driver capacity across transport modes.",
+                "Shippers pivot toward multi-modal capacity strategies to insulate supply chains against localized transport bottlenecks.",
+                "Strategic flexibility remains the primary operational defense for enterprises navigating ongoing logistics market volatility."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

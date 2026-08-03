@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE SHOCKS INTENSIFY",
+        "hookTitle": "GLOBAL FREIGHT NETWORK VOLATILITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FMC UPHOLDS DETENTION FEE FLUIDITY RULING",
-                "teaserTitle": "TRADE FRAUD TASK FORCE MILESTONE",
+                "headline": "USPS IMPLEMENTS NEW RATE HIKES",
+                "teaserTitle": "C.H. ROBINSON LEGAL CHALLENGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The D.C. Circuit upheld the FMC framework ensuring detention fees actively promote port freight fluidity."
+                "narration_line": "USPS introduces steep structural rate hikes and new hazmat noncompliance fees that squeeze merchant margins."
             },
             {
                 "slide_index": 2,
-                "headline": "DOJ TRADE FRAUD TASK FORCE HITS RECOVERY MILESTONE",
-                "teaserTitle": "CARRIER FLEET CAPACITY SHIFTS",
+                "headline": "C.H. ROBINSON VOWS APPEAL",
+                "teaserTitle": "MANUFACTURING GROWTH EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The DOJ Trade Fraud Task Force has crossed one billion dollars in total recoveries and penalties."
+                "narration_line": "C.H. Robinson vows to challenge a massive negligent-hiring verdict, shaking up freight brokerage liability rules."
             },
             {
                 "slide_index": 3,
-                "headline": "MAJOR CARRIERS FAVOR OWNED TONNAGE OVER CHARTERS",
-                "teaserTitle": "MANUFACTURING ACTIVITY SURGES",
+                "headline": "US MANUFACTURING EXPANDS",
+                "teaserTitle": "AUTOMATED PARCEL HANDLING SURGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "World container lines are accelerating their strategic exit from chartered vessel agreements for owned tonnage."
+                "narration_line": "U.S. manufacturing activity expands for the seventh consecutive month as industrial production gathers solid momentum."
             },
             {
                 "slide_index": 4,
-                "headline": "U.S. MANUFACTURING EXPANDS AT FASTEST PACE",
-                "teaserTitle": "BROKERAGE LEGAL BATTLES ESCALATE",
+                "headline": "UPS INCREASES AUTOMATION",
+                "teaserTitle": "MARITIME DETENTION RULE UPHOLDING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "U.S. manufacturing activity expanded at its strongest pace since 2022 with the ISM index hitting 55.6."
+                "narration_line": "UPS ramps up automation across its domestic network, handling over two-thirds of U.S. volume through automated hubs."
             },
             {
                 "slide_index": 5,
-                "headline": "C.H. ROBINSON VOWS APPEAL ON NUCLEAR VERDICT",
-                "teaserTitle": "USTR ADVANCES TARIFF IMPLEMENTATION",
+                "headline": "FMC DETENTION RULES UPHELD",
+                "teaserTitle": "AI DEMAND PLANNING DEPLOYMENT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "C.H. Robinson vowed to appeal a massive 604 million dollar negligent-hiring verdict impacting brokers."
+                "narration_line": "Federal appeals courts uphold FMC mandates ensuring port detention fees prioritize freight fluidity over revenue generation."
             },
             {
                 "slide_index": 6,
-                "headline": "USTR MOVES FORWARD WITH SECTION 301 TARIFFS",
-                "teaserTitle": "RAIL INFRASTRUCTURE & INTERMODAL HIGHS",
+                "headline": "AI DEMAND PLANNING DEPLOYED",
+                "teaserTitle": "REGIONAL CAPACITY & LABOR SHIFTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The USTR is pressing ahead with new Section 301 trade tariffs across dozens of global partners."
+                "narration_line": "Global brands deploy AI-powered demand planning tools to sharpen forecasting accuracy and boost fulfillment fill rates."
             },
             {
                 "slide_index": 7,
-                "headline": "DOMESTIC INTERMODAL VOLUMES SET NEW RECORDS",
+                "headline": "REGIONAL CAPACITY SHIFTS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "North American railroads hauled record domestic container volumes as shippers banked major intermodal savings."
+                "narration_line": "Logistics providers restructure regional networks and terminal footprints to counter ongoing driver capacity constraints."
             },
             {
                 "slide_index": 8,
