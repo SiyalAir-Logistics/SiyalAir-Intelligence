@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL LOGISTICS COMPLIANCE REALIGNMENT",
+        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE PIVOTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "C.H. ROBINSON: BROKERAGE LIABILITY VERDICT",
-                "teaserTitle": "USTR: SECTION 301 TARIFF EXPANSION",
+                "headline": "DOJ TRADE FRAUD TASK FORCE CROSSES $1 BILLION MILESTONE",
+                "teaserTitle": "C.H. ROBINSON VOWS APPEAL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A $604 million verdict against C.H. Robinson establishes massive freight broker legal liability, restructuring carrier selection safety protocols nationwide."
+                "narration_line": "The DOJ Trade Fraud Task Force crosses one billion dollars in recoveries, intensifying customs compliance scrutiny."
             },
             {
                 "slide_index": 2,
-                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING DEPLOYMENT",
+                "headline": "C.H. ROBINSON VOWS APPEAL AFTER RECORD LEGAL VERDICT",
+                "teaserTitle": "CMA CGM WITHDRAWS BID",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The USTR expanded Section 301 forced labor tariffs to 60 nations, forcing importers to tighten supply chain origin auditing immediately."
+                "narration_line": "C.H. Robinson vows to appeal a massive six-hundred-four-million-dollar negligent-hiring verdict, shaking broker liability norms."
             },
             {
                 "slide_index": 3,
-                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING DEPLOYMENT",
-                "teaserTitle": "DOT: FREEDOM HAULERS MILITARY PIPELINE",
+                "headline": "CMA CGM WITHDRAWS BID AS EUROPEAN RAIL RESTRUCTURES",
+                "teaserTitle": "USPS RATE ADJUSTMENTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "FedEx expanded AI-powered autonomous trailer loading robotics at its Maryland hub to optimize dock throughput and stabilize operating costs."
+                "narration_line": "CMA CGM pulls out of the Rail Logistics Europe stake acquisition as mega-carriers prioritize owned assets."
             },
             {
                 "slide_index": 4,
-                "headline": "DOT: FREEDOM HAULERS MILITARY PIPELINE",
-                "teaserTitle": "NEW JERSEY: ELECTRONIC SHELF LABEL BAN",
+                "headline": "USPS RATE INCREASES RESHAPE MARKETPLACE SHIPPING ECONOMICS",
+                "teaserTitle": "FREEDOM HAULERS INITIATIVE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The DOT launched Freedom Haulers to transition military veterans into commercial driving careers, addressing long-term interstate freight labor gaps."
+                "narration_line": "New USPS Ground Advantage rate hikes increase delivery cost pressures for online e-commerce sellers."
             },
             {
                 "slide_index": 5,
-                "headline": "NEW JERSEY: ELECTRONIC SHELF LABEL BAN",
-                "teaserTitle": "CMA CGM: FRET SNCF BID WITHDRAWAL",
+                "headline": "ADMINISTRATION LAUNCHES FREEDOM HAULERS HIRING PIPELINE",
+                "teaserTitle": "MEMORY HARDWARE PRICE SPIKES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "New Jersey banned dynamic pricing and frozen electronic shelf label adoption, disrupting automated omnichannel retail pricing strategies state-wide."
+                "narration_line": "The federal Freedom Haulers initiative opens a streamlined pipeline to transition military veterans into trucking."
             },
             {
                 "slide_index": 6,
-                "headline": "CMA CGM: FRET SNCF BID WITHDRAWAL",
-                "teaserTitle": "USPS: HAZMAT NONCOMPLIANCE PENALTY MANDATE",
+                "headline": "MEMORY HARDWARE PRICE SPIKES THREATEN SUPPLY CHAINS",
+                "teaserTitle": "AIR CARGO TRAFFIC RESILIENCE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "CMA CGM withdrew its bid for France's Fret SNCF, shifting carrier strategies away from state rail intermodal privatization projects."
+                "narration_line": "Escalating memory component costs surge past two-and-a-half times baseline rates, impacting electronics pricing."
             },
             {
                 "slide_index": 7,
-                "headline": "USPS: HAZMAT NONCOMPLIANCE PENALTY MANDATE",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "AIR CARGO TRAFFIC DEFIES GRAVITY DESPITE MARKET VOLATILITY",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "USPS introduced Ground Advantage rate hikes and strict new hazmat noncompliance penalties, forcing e-commerce sellers to automate compliance checks."
+                "narration_line": "Air cargo volumes remain robust, fueled by strong transpacific demand and AI equipment transport needs."
             },
             {
                 "slide_index": 8,
