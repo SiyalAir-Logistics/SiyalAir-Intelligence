@@ -1,56 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT ARCHITECTURE",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Rapid shifts in ocean carrier detention rules, tariff enforcement, broker liability, and inland waterway droughts threaten global cargo execution."
+        "titleWhite": "GLOBAL TRADE SIGNAL",
+        "titleBlue": "DISRUPTIONS",
+        "footerSummary": "Escalating trade enforcement, carrier liability shifts, and rising surcharge structures demand immediate cross-border compliance audits to mitigate operational friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC: DETENTION FEE RULE UPHELD",
+            "heading": "USTR: EXPANDED SECTION 301 TARIFFS",
             "points": [
-                "The US Court of Appeals upheld the FMC decision mandating that detention and demurrage fees must actively incentivize freight fluidity.",
-                "Ocean carriers and terminal operators face strict financial scrutiny over non-fluid container billing practices across all US ports.",
-                "This judicial confirmation solidifies OSRA 2022 regulatory enforcement, curbing deceptive ocean freight billing structures.",
-                "Importers and NVOCCs gain major leverage to dispute non-operational demurrage fees during severe port congestion events."
+                "The Office of the United States Trade Representative moves forward with Section 301 tariffs targeting 60 trading partners to counteract forced labor practices.",
+                "Importers face increased duty costs and heightened import documentation demands as former Section 122 tariffs expire across major trade lanes.",
+                "Federal customs authorities are intensifying supply chain traceability requirements to enforce forced labor prohibitions at all major entry ports.",
+                "Supply chain executives must re-audit country-of-origin documentation to avoid costly cargo holds and unexpected tariff liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS: MARKETPLACE RATE ADJUSTMENTS",
+            "nextUpTease": "C.H. ROBINSON $604M VERDICT APPEAL",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "USPS: MARKETPLACE RATE ADJUSTMENTS",
+            "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
             "points": [
-                "The US Postal Service implemented Ground Advantage rate increases alongside new hazmat noncompliance penalties for ecommerce platforms.",
-                "Lightweight shipping costs to rural zones increase by two to three dollars, altering marketplace seller logistics margins.",
-                "Strict hazardous material identification enforces tighter automated screening across all regional sorting networks.",
-                "High-volume marketplace sellers must reconfigure automated rate-shopping rules to bypass unexpected carrier noncompliance surcharges."
+                "Freight giant C.H. Robinson vows to appeal a massive $604 million negligent-hiring verdict that threatens established broker liability standards.",
+                "The legal ruling exposes logistics intermediaries to vicarious liability risks when selecting third-party motor carriers across North America.",
+                "Freight brokerages are accelerating the adoption of rigorous carrier vetting technology to mitigate systemic legal and operational risks.",
+                "Shippers and 3PLs must update carrier selection workflows to maintain legal protection and prevent potential vicarious liability exposures."
             ],
             "imageUrl": "",
-            "nextUpTease": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
+            "nextUpTease": "ISM: US MANUFACTURING EXPANSION ACCELERATES",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
+            "heading": "ISM: US MANUFACTURING EXPANSION ACCELERATES",
             "points": [
-                "A jury rendered a $604 million negligent carrier selection verdict against C.H. Robinson, driving systemic legal precedent.",
-                "Freight brokerages now face compounding vicarious liability risks and potential surges in carrier vetting insurance premiums.",
-                "The decision forces freight intermediaries to implement rigorous algorithmic safety vetting before dispatching motor carriers.",
-                "Freight brokers will likely restrict spot capacity access to mitigate catastrophic liability exposure across highway networks."
+                "U.S. manufacturing activity accelerated in July with the Institute for Supply Management PMI reaching 55.6, signaling robust industrial expansion.",
+                "Increased industrial output is driving elevated demand for raw materials and domestic freight transport across truckload and intermodal networks.",
+                "Manufacturing momentum reflects stronger domestic consumption despite persistent cost pressures and inflationary risks in energy sector inputs.",
+                "Freight carriers should prepare for sustained volume growth across industrial corridors as production demand outpaces initial H2 projections."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: FORCED LABOR TARIFF EXPANSION",
+            "nextUpTease": "USPS: RURAL PACKAGE SHIPPING SURCHARGES",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -59,68 +59,68 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "USTR: FORCED LABOR TARIFF EXPANSION",
+            "heading": "USPS: RURAL PACKAGE SHIPPING SURCHARGES",
             "points": [
-                "The USTR initiated Section 301 tariffs targeting 60 trading partners as temporary Section 122 emergency measures expire.",
-                "Global supply chains face immediate compliance shifts and heightened import duties across affected manufacturing origins.",
-                "Customs regulatory enforcement now focuses heavily on supply chain origin tracing and labor compliance documentation.",
-                "Importers must urgently audit tier-two and tier-three suppliers to prevent catastrophic port-of-entry cargo seizures."
+                "The United States Postal Service has implemented fee hikes of $2 to $3 on lightweight package shipments delivered to rural ZIP codes.",
+                "E-commerce marketplace sellers face squeezed margins as postal rate adjustments impact Ground Advantage parcel delivery pricing models.",
+                "The postal carrier is simultaneously enforcing stricter hazmat noncompliance penalties for non-declared household goods items.",
+                "E-commerce logistics operators must recalibrate regional fulfillment strategies to offset growing last-mile delivery surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: AUTONOMOUS HUB DEPLOYMENT",
+            "nextUpTease": "CMA CGM: FRET SNCF BID WITHDRAWAL",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FEDEX: AUTONOMOUS HUB DEPLOYMENT",
+            "heading": "CMA CGM: FRET SNCF BID WITHDRAWAL",
             "points": [
-                "FedEx expanded its partnership with Dexterity to deploy AI-driven autonomous trailer loading systems at its Maryland hub.",
-                "Robotic loading systems optimize parcel fill rates while significantly reducing manual handling bottlenecks at central distribution hubs.",
-                "This operational scaling shifts parcel processing toward fully automated, high-density sortation architectures.",
-                "Enterprise carriers will accelerate robotic integration across hub networks to combat ongoing skilled labor shortages."
+                "French ocean carrier CMA CGM officially withdrew its bid for a 49 percent stake in France rail freight operator Rail Logistics Europe.",
+                "The strategic withdrawal halts immediate ocean-rail integration plans for French hinterland logistics, forcing alternative intermodal routing.",
+                "Ocean lines continue re-evaluating capital deployment between owned vessel fleets and inland rail asset investments in Europe.",
+                "European shippers must monitor hinterland rail capacity as public freight entities restructure without primary carrier equity backing."
             ],
             "imageUrl": "",
-            "nextUpTease": "RHINE WATERWAY: BARGE DISRUPTIONS",
+            "nextUpTease": "DOJ: TRADE FRAUD TASK FORCE RECOVERIES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RHINE WATERWAY: BARGE DISRUPTIONS",
+            "heading": "DOJ: TRADE FRAUD TASK FORCE RECOVERIES",
             "points": [
-                "Blistering heatwaves dropped European Rhine River water levels near record lows, threatening critical inland barge transit routes.",
-                "Barge operators are enforcing severe shallow-water surcharges and drastically restricting vessel load capacities along key chokepoints.",
-                "Chemical and industrial shippers are actively rerouting container volumes toward congested regional rail and truck networks.",
-                "Central European inland freight rates will spike as modal capacity bottlenecks escalate throughout late summer."
+                "The U.S. Department of Justice Trade Fraud Task Force crossed $1 billion in total recoveries, penalties, and forfeitures.",
+                "Federal enforcement focuses heavily on duty evasion, illegal transshipment, and misclassification of imported commercial goods.",
+                "Interagency data-sharing between customs officials and federal prosecutors has significantly accelerated trade compliance prosecution speeds.",
+                "Global supply chain operators should immediately review import entry records to ensure full compliance with customs trade regulations."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOT: FREEDOM HAULERS INITIATIVE",
+            "nextUpTease": "AIR CARGO: JET FUEL SURCHARGE ADJUSTMENTS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DOT: FREEDOM HAULERS INITIATIVE",
+            "heading": "AIR CARGO: JET FUEL SURCHARGE ADJUSTMENTS",
             "points": [
-                "The US Department of Transportation launched 'Freedom Haulers' to accelerate commercial driver licensing for military veterans.",
-                "The initiative streamlines veteran recruitment to help relieve long-haul driver capacity deficits across domestic lanes.",
-                "Federal interagency alignment pairs driver recruitment pushes with strict enforcement against non-domiciled driver violations.",
-                "For-hire motor carriers will gain access to a highly trained labor pool to stabilize long-term fleet utilization."
+                "Air freight carriers are transitioning to bi-weekly reviews of fuel surcharges as jet fuel volatility impacts long-haul freighter costs.",
+                "Soaring jet fuel prices driven by geopolitical conflict are being passed directly to air forwarders and global shippers.",
+                "Strong air cargo demand fueled by technology hardware and e-commerce volume continues to sustain high carrier capacity utilization.",
+                "Shippers must prepare for shifting air transport landed costs by incorporating flexible dynamic fuel index agreements into contracts."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
