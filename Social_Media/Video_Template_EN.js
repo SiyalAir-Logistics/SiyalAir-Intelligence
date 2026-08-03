@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL SUPPLY CHAIN SHIFTS",
+        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE PIVOT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "FEDEX: AUTONOMOUS TRAILER LOADING",
+                "headline": "CUSTOMS COMPLIANCE: SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "BROKER LIABILITY SHIFT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The US Trade Representative rolls out Section 301 forced labor tariffs on 60 nations, triggering immediate compliance audits across global networks."
+                "narration_line": "The USTR advanced aggressive new tariffs on sixty trading partners, raising compliance pressure across supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "FEDEX: AUTONOMOUS TRAILER LOADING",
-                "teaserTitle": "MIDDLE EAST: MARITIME CAPE REROUTING",
+                "headline": "BROKERAGE RISK: LANDMARK LIABILITY VERDICTS",
+                "teaserTitle": "MARITIME CAPACITY RESTRICTIONS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "FedEx expands AI autonomous trailer loading robots to streamline warehouse throughput and eliminate critical freight handling bottlenecks."
+                "narration_line": "A massive legal judgment over negligent carrier selection is forcing freight brokers to overhaul vetting protocols."
             },
             {
                 "slide_index": 3,
-                "headline": "MIDDLE EAST: MARITIME CAPE REROUTING",
-                "teaserTitle": "CSX RAIL: INLAND CORRIDOR EXPANSION",
+                "headline": "MARITIME OPERATIONS: OWNED TONNAGE PRIORITY",
+                "teaserTitle": "CROSS-BORDER LABOR MANDATES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Heightened security risks around the Strait of Hormuz force global ocean carriers to reroute around Africa, extending transit times by two weeks."
+                "narration_line": "Global container lines are moving away from chartered vessels to prioritize owned tonnage amid route instability."
             },
             {
                 "slide_index": 4,
-                "headline": "CSX RAIL: INLAND CORRIDOR EXPANSION",
-                "teaserTitle": "USPS: RURAL E-COMMERCE SURCHARGES",
+                "headline": "REGULATORY POLICY: CROSS-BORDER CREW STANDARDS",
+                "teaserTitle": "AIR CARGO SURCHARGE ACCELERATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "CSX launches direct rail service between Indianapolis and Virginia ports, expanding inland intermodal capacity amid rising shipping demand."
+                "narration_line": "New federal language and credential mandates for cross-border rail and truck crews threaten transit velocity."
             },
             {
                 "slide_index": 5,
-                "headline": "USPS: RURAL E-COMMERCE SURCHARGES",
-                "teaserTitle": "WALMART: AI WEATHER PREDICTIVE ROUTING",
+                "headline": "AIR CARGO DYNAMICS: ACCELERATED FUEL SURCHARGES",
+                "teaserTitle": "WAREHOUSE AUTOMATION DEPLOYMENT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "USPS increases lightweight Ground Advantage package rates and adds rural delivery surcharges, raising costs for online marketplace sellers."
+                "narration_line": "Air cargo carriers have transitioned to bi-weekly fuel surcharge reviews as energy market volatility escalates."
             },
             {
                 "slide_index": 6,
-                "headline": "WALMART: AI WEATHER PREDICTIVE ROUTING",
-                "teaserTitle": "ALABAMA PORT: COLLAPSIBLE CONTAINERS",
+                "headline": "FACILITY INNOVATION: AUTONOMOUS YARD AUTOMATION",
+                "teaserTitle": "ECOMMERCE FULFILLMENT SCALING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Walmart leverages real-time artificial intelligence to predict severe weather disruptions and pre-position retail inventory before operational impacts occur."
+                "narration_line": "Logistics providers are expanding autonomous yard automation pilots to optimize dock operations and cut dwell times."
             },
             {
                 "slide_index": 7,
-                "headline": "ALABAMA PORT: COLLAPSIBLE CONTAINERS",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "ECOMMERCE FULFILLMENT: STRATEGIC MARKETPLACE CONSOLIDATION",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Alabama Port Authority partners with industrial steelmakers to deploy collapsible containers, drastically lowering empty equipment repositioning overhead."
+                "narration_line": "Major online marketplaces are executing high-value acquisitions to capture specialized consumer retail sectors."
             },
             {
                 "slide_index": 8,
