@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DECODING GLOBAL TRADE",
-        "titleBlue": "SIGNALS",
-        "footerSummary": "Regulatory shifts, autonomous deployments, and dynamic freight surcharges are rapidly restructuring global trade routes and landside operations."
+        "titleWhite": "GLOBAL SUPPLY CHAIN",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "New US regulatory mandates, broker liability rulings, and maritime capacity shifts threaten cross-border trade margins and operational fluidity nationwide."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CMA CGM: FRET SNCF BID WITHDRAWAL",
+            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
             "points": [
-                "CMA CGM officially withdrew its acquisition bid for a 49 percent stake in France's largest rail freight operator Rail Logistics Europe.",
-                "The strategic pivot reflects shifting capital allocation strategies away from public rail ventures toward core maritime and logistics assets.",
-                "Ocean carriers are re-evaluating long-term intermodal rail integrations amid ongoing regulatory and structural complexities in European landside transport.",
-                "Freight forwarders must adjust inland distribution strategies across European rail corridors as major ocean lines restructure investments."
+                "The USTR has initiated Section 301 tariffs on 60 trading partners targeting forced labor compliance following the expiration of Section 122 provisions.",
+                "Shippers face immediate landed cost adjustments and heightened customs scrutiny on cross-border inbound freight from impacted global trade regions.",
+                "The systemic transition forces supply chain compliance teams to audit tier-one and tier-two supplier sourcing records to prevent border holds.",
+                "Importers must dynamically adjust landed cost algorithms to mitigate sudden duty adjustments across critical international manufacturing corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "JUSTICE DEPARTMENT: $1B TRADE FRAUD RECOVERIES",
+            "nextUpTease": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "JUSTICE DEPARTMENT: $1B TRADE FRAUD RECOVERIES",
+            "heading": "C.H. ROBINSON: BROKER LIABILITY VERDICT",
             "points": [
-                "The Department of Justice Trade Fraud Task Force surpassed $1 billion in total recoveries, penalties, and forfeitures within one year of operation.",
-                "Federal prosecutors targeted cross-border trade non-compliance, tariff evasion tactics, and fraudulent commercial invoicing strategies.",
-                "The milestone highlights aggressive multi-agency enforcement scrutinizing importer recordkeeping, country-of-origin declarations, and duty payments.",
-                "Importers and customs brokers face heightened audit risks and must strengthen internal trade compliance auditing to prevent costly regulatory penalties."
+                "Freight giant C.H. Robinson has filed an appeal against a landmark six-hundred-four million dollar negligent carrier selection judgment in court.",
+                "The court ruling threatens standard third-party freight brokerage indemnity structures and significantly increases operational legal exposure.",
+                "Freight intermediaries are overhauling carrier vetting protocols and tightening safety qualification standards across all contract truckload lanes.",
+                "Shippers and brokers should anticipate increased insurance premiums and stricter carrier onboarding documentation requirements industrywide."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX: AUTONOMOUS TRAILER LOADING EXPANSION",
+            "nextUpTease": "FRA: MEXICAN RAIL CREW STANDARDS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FEDEX: AUTONOMOUS TRAILER LOADING EXPANSION",
+            "heading": "FRA: MEXICAN RAIL CREW STANDARDS",
             "points": [
-                "FedEx and Dexterity expanded the deployment of autonomous AI-powered trailer loading systems to their major hub in Hagerstown, Maryland.",
-                "The robotic system automates complex parcel staging and trailer loading operations to increase throughput velocity while minimizing manual labor constraints.",
-                "Moving beyond initial pilot testing signals growing operational maturity for full-scale AI robotics in high-volume parcel sorting facilities.",
-                "Warehouse and hub operators must accelerate facility infrastructure upgrades to support scalable autonomous loading integration across networks."
+                "The Federal Railroad Administration proposes heightened English fluency requirements for Mexican rail crews operating cross-border trains into the United States.",
+                "The rule change aims to improve cross-border railway safety but risks creating immediate operational bottlenecks at key southern border gateways.",
+                "Cross-border rail operators must restructure crew-swapping protocols and expedite language proficiency training to avoid operational stoppages.",
+                "Intermodal shippers moving freight across the US-Mexico border should prepare for localized transit delays during the regulatory transition phase."
             ],
             "imageUrl": "",
-            "nextUpTease": "NISSIN FOODS: AI DEMAND PLANNING TRANSFORMATION",
+            "nextUpTease": "AUTOMOTIVE: CAR-CARRIER CHARTER SPIKE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NISSIN FOODS: AI DEMAND PLANNING TRANSFORMATION",
+            "heading": "AUTOMOTIVE: CAR-CARRIER CHARTER SPIKE",
             "points": [
-                "Instant noodle manufacturer Nissin Foods deployed an advanced AI-powered demand and supply planning tool to optimize enterprise inventory workflows.",
-                "The initiative aims to dramatically elevate order fill rates while reducing supply chain forecasting errors across retail distribution channels.",
-                "Enterprise consumer packaged goods brands are turning to predictive AI modeling to counter persistent demand volatility and input cost inflation.",
-                "Supply chain planners should transition from legacy forecasting models toward automated AI platforms to drive order accuracy."
+                "Booming Chinese electric vehicle exports have driven daily charter rates for specialized roll-on roll-off car-carriers toward one hundred thousand dollars.",
+                "Surging demand for automotive tonnage has severely constricted global vessel capacity, forcing auto manufacturers to compete for limited ocean space.",
+                "Car carriers are locking in extended charter contracts, altering traditional ocean trade routes to accommodate outbound Asia-Pacific vehicle surges.",
+                "Logistics planners must anticipate continued rate elevation and potential port congestion at dedicated automotive handling terminals worldwide."
             ],
             "imageUrl": "",
-            "nextUpTease": "DOT: FREEDOM HAULERS MILITARY PIPELINE",
+            "nextUpTease": "AMAZON: TARIFF REFUND DISTRIBUTION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DOT: FREEDOM HAULERS MILITARY PIPELINE",
+            "heading": "AMAZON: TARIFF REFUND DISTRIBUTION",
             "points": [
-                "The US Department of Transportation launched the Freedom Haulers initiative to transition military veterans directly into commercial driver CDL positions.",
-                "The interagency campaign shortens licensing timelines for veterans while increasing federal enforcement actions against non-domiciled commercial drivers.",
-                "Fleet operators gain a structured talent recruitment pipeline designed to mitigate driver shortages while maintaining strict safety and regulatory standards.",
-                "Freight carriers should align hiring frameworks with federal veteran transition programs to secure qualified commercial driving talent."
+                "Amazon has begun distributing portions of a six-hundred million dollar tariff refund pool back to impacted consumer accounts nationwide.",
+                "The massive disbursement reflects complex post-adjudication duty recalculations following federal import tariff litigation adjustments.",
+                "E-commerce platforms are upgrading automated customs financial reconciliation tools to process multi-million dollar import duty adjustments efficiently.",
+                "Online sellers and marketplace operators should audit historical tariff classification files to identify potential duty recovery opportunities."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANADIAN NATIONAL: UP-NS MERGER AGREEMENT",
+            "nextUpTease": "NEW JERSEY: DYNAMIC PRICING RESTRICTION",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CANADIAN NATIONAL: UP-NS MERGER AGREEMENT",
+            "heading": "NEW JERSEY: DYNAMIC PRICING RESTRICTION",
             "points": [
-                "Canadian National agreed not to contest the proposed Union Pacific and Norfolk Southern railroad merger following a strategic access deal.",
-                "The agreement grants CN direct access to critical shipper locations that faced reduced Class I rail competition pending STB regulatory approval.",
-                "North American rail consolidation continues to reshape Class I freight routes, access points, and competitive intermodal corridors.",
-                "Rail shippers must re-evaluate network routing and carrier agreements to leverage newly established trackage access and service options."
+                "New Jersey state legislation has officially banned retail dynamic pricing models and instituted a pause on electronic shelf label implementations.",
+                "The regulatory intervention halts automated real-time price adjustments across brick-and-mortar retail supply chain networks statewide.",
+                "Retailers operating in the region must re-evaluate omni-channel pricing synchronization software and delay hardware modernizations.",
+                "Enterprise retail supply chains face increased operational complexity when aligning localized store pricing with broader digital storefronts."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: BIWEEKLY JET FUEL SURCHARGES",
+            "nextUpTease": "USPS: HAZMAT & RURAL SURCHARGES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: BIWEEKLY JET FUEL SURCHARGES",
+            "heading": "USPS: HAZMAT & RURAL SURCHARGES",
             "points": [
-                "Major international air cargo carriers instituted biweekly jet fuel surcharge reviews to adjust for ongoing price volatility in global fuel markets.",
-                "Long-haul freighter operators are rapidly passing rising fuel expenses to freight forwarders and shippers as operating margins compress.",
-                "Volatile energy prices and regional geopolitical disruptions continue to pressure air freight pricing models across transpacific and transatlantic routes.",
-                "Air freight buyers must factor dynamic fuel index adjustments into spot and contract budget forecasts to prevent unexpected landed-cost increases."
+                "The Postal Service has implemented targeted surcharges on rural lightweight package deliveries alongside strict hazardous material noncompliance penalties.",
+                "Marketplace sellers sending lightweight e-commerce goods to remote zip codes face two to three dollar per-package cost escalations.",
+                "Shippers of common hazmat products like essential oils and cosmetics must rapidly upgrade packing labels to bypass costly penalty fees.",
+                "E-commerce logistics managers must re-optimize regional fulfillment node routing to cushion last-mile rural parcel delivery margins."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
