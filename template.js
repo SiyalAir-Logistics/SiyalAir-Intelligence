@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MARITIME OCEAN TRADE",
-        "titleBlue": "REFORMS",
-        "footerSummary": "Federal Maritime Commission court ruling fortifies freight fluidity while carriers pivot toward owned tonnage amid volatile ocean routes."
+        "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Escalating legal liability, cross-border regulatory mandates, and expiring tariff frameworks force immediate risk re-evaluation across global transportation and freight brokerage networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC DETENTION FEE RULES UPHELD",
+            "heading": "BROKERAGE LEGAL: VICARIOUS LIABILITY VERDICT",
             "points": [
-                "The U.S. Court of Appeals for the D.C. Circuit upheld a critical Federal Maritime Commission decision confirming detention fees must actively promote freight fluidity.",
-                "This regulatory enforcement safeguards ocean transport systems against unfair demurrage practices and maintains supply chain velocity for importers.",
-                "Shippers gain enhanced legal recourse under the Shipping Act to challenge ambiguous penalties and arbitrary terminal dwell-time charges.",
-                "Compliance officers must review historical billing records to ensure alignment with newly reinforced federal transparency standards."
+                "A landmark $604 million negligent hiring verdict against C.H. Robinson has fundamentally altered legal liability exposure across freight brokerage operations.",
+                "The judicial ruling penalizes legacy carrier selection protocols that failed to screen third-party safety scores before dispatching high-risk motor carriers.",
+                "Freight intermediaries must now overhaul carrier vetting architectures to incorporate real-time safety audit automation and dynamic risk scoring systems.",
+                "Insurance premiums for third-party logistics providers are projected to spike as underwriters require mandatory carrier safety compliance validation protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER TONNAGE SHIFT",
+            "nextUpTease": "FRA RAIL: CROSS-BORDER CREW MANDATE",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CARRIER TONNAGE SHIFT STRATEGY",
+            "heading": "FRA RAIL: CROSS-BORDER CREW MANDATE",
             "points": [
-                "Global container lines are accelerating their strategic exit from chartered vessel markets in favor of acquiring fully owned tonnage portfolios.",
-                "Major carriers like Maersk and MSC are increasing asset control to insulate operations against charter rate volatility and capacity shocks.",
-                "This shift alters long-term capacity deployment across transpacific and Asia-Europe trade lanes as lines prioritize self-owned fleet flexibility.",
-                "Logistics providers should anticipate tighter slot allocations on non-owned charter vessels as major carriers consolidate asset ownership."
+                "The Federal Railroad Administration is proposing mandatory English language proficiency enforcement for Mexican train crews operating on U.S. rail tracks.",
+                "The regulatory shift targets safety communication gaps at international border interchanges where cross-border intermodal rail traffic has surged exponentially.",
+                "Class I railroads operating international gateways must restructure crew-swap operational workflows to maintain safety compliance without worsening border dwell times.",
+                "Rail carriers face potential operational delays at southern border crossings if cross-border crew certification pipelines are not rapidly expanded."
             ],
             "imageUrl": "",
-            "nextUpTease": "AFRICA TRADE SURGE",
+            "nextUpTease": "USTR TRADE: FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AFRICA TRADE INFRASTRUCTURE BOTTLENECK",
+            "heading": "USTR TRADE: FORCED LABOR TARIFFS",
             "points": [
-                "Carriers and forwarders are aggressively expanding into African maritime trade lanes as regional import demand scales rapidly.",
-                "Enormous import volumes flooding ports from Asia are overwhelming local terminal handling capabilities and secondary inland logistics networks.",
-                "Port congestion and equipment shortages are creating severe dwell-time increases across primary East and West African import gateways.",
-                "Supply chain planners must factor extended transit buffers and multi-modal bottlenecks into their regional expansion models."
+                "The United States Trade Representative has initiated targeted Section 301 tariffs against sixty trading nations as temporary Section 122 tariffs expire.",
+                "The new tariff structure focuses strictly on forced labor enforcement and supply chain transparency standards across global manufacturing supply networks.",
+                "Importers must deploy granular tier-N supplier traceability tools to audit origin documentation and bypass severe customs clearance holds at U.S. ports.",
+                "Global shippers without automated compliance audit trails risk immediate cargo seizures and retroactive customs duty adjustments across critical supply corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO SURCHARGES",
+            "nextUpTease": "DOT PIPELINE: VETERAN CDL INITIATIVE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO FUEL SURCHARGE ADJUSTMENTS",
+            "heading": "DOT PIPELINE: VETERAN CDL INITIATIVE",
             "points": [
-                "International air cargo carriers have initiated bi-weekly reviews of fuel surcharges to immediately absorb escalating jet fuel price volatility.",
-                "Long-haul freighter operators are passing surging fuel expenses downstream to protect operating margins amidst geopolitical disruptions.",
-                "Shippers utilizing expedited air freight services face immediate cost increases that require dynamic budget adjustments.",
-                "Procurement teams must negotiate flexible contract structures tied directly to underlying aviation fuel benchmark indices."
+                "The Department of Transportation launched the Freedom Haulers initiative to accelerate commercial driver license credentialing for military veterans.",
+                "The multi-agency campaign establishes expedited military skill transfers to reduce driver shortage friction while strictly enforcing non-domiciled driver restrictions.",
+                "Enterprise fleets are aligning recruitment infrastructure with federal pipelines to onboard pre-qualified driver capacity across interstate freight corridors.",
+                "Carrier capacity stability is expected to improve in long-haul motor transport sectors as qualified driver recruitment pathways become streamlined."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL INVENTORY RESTRUCTURING",
+            "nextUpTease": "DAIMLER TRUCK: PORTLAND PLANT SHUTDOWN",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RETAIL INVENTORY LEAN STRATEGY",
+            "heading": "DAIMLER TRUCK: PORTLAND PLANT SHUTDOWN",
             "points": [
-                "Major retail brands have successfully trimmed baseline inventories to optimize working capital ahead of upcoming peak shipping seasons.",
-                "Data-driven inventory management helps mitigate carrying costs while parcel shipping rates continue to experience upward inflationary pressure.",
-                "Retailers are leveraging localized fulfillment networks and automated warehousing to maintain high order fill rates with leaner stock levels.",
-                "Supply chain managers must align inbound replenishment schedules closely with real-time point-of-sale demand velocity."
+                "Daimler Truck North America announced the planned closure of its Portland, Oregon manufacturing facility scheduled for completion by late October.",
+                "The manufacturing consolidation recalibrates commercial vehicle production footprints toward optimized regional assembly hubs to curb operational overhead.",
+                "Heavy-duty truck original equipment manufacturers are restructuring production lines to match changing carrier demand cycles and shifting zero-emission mandates.",
+                "Fleet equipment procurement cycles may experience localized lead-time adjustments during the transition of heavy assembly lines to secondary facilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTONOMOUS YARD AUTOMATION",
+            "nextUpTease": "CMA CGM: RAIL FREIGHT WITHDRAWAL",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AUTONOMOUS YARD AUTOMATION DEPLOYMENT",
+            "heading": "CMA CGM: RAIL FREIGHT WITHDRAWAL",
             "points": [
-                "Logistics providers are expanding pilot deployments of autonomous trailer loading and yard management systems across major distribution hubs.",
-                "Robotics integration successfully reduces facility dwell times and minimizes manual handling hazards within high-volume freight yards.",
-                "Warehouse operators are scaling automation technologies to offset persistent labor constraints and improve dock throughput efficiency.",
-                "Facility engineers should evaluate hardware compatibility standards prior to implementing autonomous material handling systems."
+                "Maritime ocean carrier CMA CGM officially withdrew its acquisition bid for a major equity stake in France's Rail Logistics Europe.",
+                "The strategic exit terminates planned multimodal rail integration investments, realigning capital allocation strictly toward core ocean and air cargo assets.",
+                "European rail freight consolidation faces renewed friction as ocean carriers re-evaluate direct capital investments in regional inland rail infrastructure.",
+                "Shippers relying on integrated ocean-rail corridors in Western Europe must adjust hinterland transport strategies to utilize independent rail operators."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS COMPLIANCE ENFORCEMENT",
+            "nextUpTease": "E-COMMERCE TRADE: TARIFF REFUND SYSTEM",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CUSTOMS COMPLIANCE FRAUD RECOVERIES",
+            "heading": "E-COMMERCE TRADE: TARIFF REFUND SYSTEM",
             "points": [
-                "Federal interagency trade fraud task forces have crossed major recovery milestones through aggressive enforcement against non-compliant importers.",
-                "Enhanced data-driven vetting by customs authorities targets misclassified entries, undervalued shipments, and forced labor violations.",
-                "Importers face stringent documentation audits requiring transparent supply chain lineage and verified country-of-origin reporting.",
-                "Global trade operators must audit internal brokerage records to ensure total compliance with updated customs enforcement protocols."
+                "Amazon initiated an operational structure to issue up to six hundred million dollars in limited tariff refunds to affected cross-border merchants.",
+                "The compliance adjustment stems from ongoing shifts in cross-border duty assessments and regulatory trade policy adjustments impacting international sellers.",
+                "E-commerce logistics platforms are re-architecting cross-border customs tax engines to dynamically calculate duty drawbacks and import tariff reconciliations.",
+                "High-volume cross-border merchants will gain restored capital liquidity while platform operators mandate stricter automated import duty documentation."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
