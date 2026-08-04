@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT CAPACITY REALIGNMENT",
+        "hookTitle": "GLOBAL FREIGHT NETWORK REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "CAPACITY: SCHNEIDER FLEET REDUCTIONS",
+                "headline": "MARITIME: HORMUZ ROUTE NEGOTIATIONS",
+                "teaserTitle": "REGULATION: FMC DETENTION FEE RULING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR is deploying Section 301 forced-labor tariffs across sixty nations, elevating compliance requirements for global importers."
+                "narration_line": "Iran and Oman advance negotiations for safe transit corridors through the Strait of Hormuz, stabilizing regional maritime energy flows."
             },
             {
                 "slide_index": 2,
-                "headline": "CAPACITY: SCHNEIDER FLEET REDUCTIONS",
-                "teaserTitle": "INFRASTRUCTURE: TRUCK PARKING EXPANSION",
+                "headline": "REGULATION: FMC DETENTION FEE RULING",
+                "teaserTitle": "INLAND WATERWAYS: EUROPEAN RHINE BOTTLENECKS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Schneider is executing ongoing driver capacity reductions to stabilize motor carrier rates and balance domestic freight supply through 2026."
+                "narration_line": "The US Court of Appeals upholds FMC rules requiring detention fees to strictly promote freight fluidity across ocean gateways."
             },
             {
                 "slide_index": 3,
-                "headline": "INFRASTRUCTURE: TRUCK PARKING EXPANSION",
-                "teaserTitle": "MANUFACTURING: DAIMLER PORTLAND SHUTDOWN",
+                "headline": "INLAND WATERWAYS: EUROPEAN RHINE BOTTLENECKS",
+                "teaserTitle": "AIR FREIGHT: AI HARDWARE VOLUME SURGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Private digital marketplaces are expanding reserved truck parking networks to mitigate driver downtime and ensure hours-of-service compliance."
+                "narration_line": "Record low water levels along European rivers force barge capacity reductions, disrupting inland cargo movement across key industrial corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "MANUFACTURING: DAIMLER PORTLAND SHUTDOWN",
-                "teaserTitle": "COMPLIANCE: TARIFF REFUND MONETIZATION",
+                "headline": "AIR FREIGHT: AI HARDWARE VOLUME SURGE",
+                "teaserTitle": "LEGAL RISK: BROKER VICARIOUS LIABILITY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Daimler Truck North America will close its Portland manufacturing facility in October, consolidating regional commercial vehicle production infrastructure."
+                "narration_line": "Lufthansa Cargo revenues jump twenty-seven percent behind strong demand for artificial intelligence hardware and semiconductor shipments from Asia."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: TARIFF REFUND MONETIZATION",
-                "teaserTitle": "TERMINALS: HMM CAPACITY EXPANSION",
+                "headline": "LEGAL RISK: BROKER VICARIOUS LIABILITY",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Retailers are monetizing rights to federal tariff refunds on secondary markets to unlock immediate liquidity from invalidated duties."
+                "narration_line": "A historic six hundred four million dollar verdict against CH Robinson heightens vicarious liability and carrier selection standards for brokers."
             },
             {
                 "slide_index": 6,
-                "headline": "TERMINALS: HMM CAPACITY EXPANSION",
-                "teaserTitle": "AUTOMATION: FEDEX TRAILER LOADING",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "teaserTitle": "INTERMODAL: RAIL MODAL INFRASTRUCTURE EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Hyundai Merchant Marine is investing $135 million to expand Washington United Terminals capacity by fifty percent for transpacific cargo."
+                "narration_line": "North American industrial warehouse vacancy rates stabilize at seven point three percent as market demand catches up with new logistics supply."
             },
             {
                 "slide_index": 7,
-                "headline": "AUTOMATION: FEDEX TRAILER LOADING",
+                "headline": "INTERMODAL: RAIL MODAL INFRASTRUCTURE EXPANSION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "FedEx is scaling autonomous robotic trailer loading at its Maryland hub to accelerate parcel sorting and optimize hub operations."
+                "narration_line": "InfraRed Capital Partners buys a majority stake in Rail Modal Group to expand inland rail ramps and accelerate intermodal infrastructure deployment."
             },
             {
                 "slide_index": 8,

@@ -1,107 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT CAPACITY",
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
         "titleBlue": "REALIGNMENT",
-        "footerSummary": "USTR Section 301 tariff shifts, fleet capacity reductions, and terminal infrastructure upgrades are reshaping international trade execution."
+        "footerSummary": "Strait of Hormuz negotiations, FMC regulatory rulings, and European inland waterway constraints trigger immediate multi-modal supply chain adjustments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFFS",
+            "heading": "MARITIME: HORMUZ ROUTE NEGOTIATIONS",
             "points": [
-                "The Office of the United States Trade Representative is implementing forced labor-based Section 301 tariffs targeting sixty international trading partners.",
-                "Regulatory adjustments follow the expiration of Section 122 measures, establishing stricter cross-border trade controls across active global import channels.",
-                "Importers face increased compliance scrutiny and potential duty escalation on manufactured goods sourced from flagged foreign jurisdictions.",
-                "Logistics directors must audit supply chain origin documentation immediately to mitigate exposure to heightened tariff enforcement mechanisms."
+                "Iran and Oman are establishing formal bilateral negotiations to negotiate temporary safe commercial shipping corridors through the Strait of Hormuz.",
+                "The operational framework targets reducing geopolitical transit risks for energy carriers and commercial container fleets without requiring direct U.S. intervention.",
+                "Ocean carriers operating key East-West trade lanes continue adjusting routing parameters while monitoring regional security protocols along the Persian Gulf.",
+                "Supply chain executives must evaluate potential marine insurance premium shifts as clear navigational guarantees emerge from regional negotiations."
             ],
             "imageUrl": "",
-            "nextUpTease": "CAPACITY: SCHNEIDER FLEET REDUCTIONS",
+            "nextUpTease": "REGULATION: FMC DETENTION FEE RULING",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CAPACITY: SCHNEIDER FLEET REDUCTIONS",
+            "heading": "REGULATION: FMC DETENTION FEE RULING",
             "points": [
-                "Schneider executives confirm ongoing driver capacity reductions designed to sustain operational momentum throughout the second half of 2026.",
-                "Commercial carrier fleet rightsizing reflects broader domestic efforts to align motor carrier supply with shifting freight volume baselines.",
-                "Managed equipment curtailments are expected to gradually push spot rates upward while stabilizing long-term contractual truckload pricing.",
-                "Enterprise shippers should review multi-year transportation contracts to secure guaranteed capacity ahead of tightening market conditions."
+                "The U.S. Court of Appeals for the D.C. Circuit officially upheld the Federal Maritime Commission ruling regarding ocean carrier detention billing practices.",
+                "The judicial mandate dictates that detention and demurrage charges must strictly serve to incentivize freight fluidity rather than function as revenue streams.",
+                "Ocean common carriers and marine terminal operators face strict enforcement rules prohibiting non-compliant fee assessments during operational port bottlenecks.",
+                "Importers and NVOCCs should review active invoice dispute workflows to reclaim improperly assessed demurrage fees under validated FMC standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: TRUCK PARKING EXPANSION",
+            "nextUpTease": "INLAND WATERWAYS: EUROPEAN RHINE BOTTLENECKS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INFRASTRUCTURE: TRUCK PARKING EXPANSION",
+            "heading": "INLAND WATERWAYS: EUROPEAN RHINE BOTTLENECKS",
             "points": [
-                "Private sector technology providers and marketplace platforms are expanding designated truck parking networks to address national driver rest shortages.",
-                "Integrated reservation platforms allow commercial fleets to pre-book verified staging areas, directly lowering non-productive transit downtime.",
-                "Public funding paired with private capital deployment is converting underutilized industrial real estate into secure commercial vehicle parking hubs.",
-                "Fleet managers can leverage real-time parking booking systems to improve driver retention and ensure strict hours-of-service compliance."
+                "Water levels along key segments of the Rhine and Danube rivers have dropped near historic lows following sustained high temperatures across Western Europe.",
+                "Barge operators are enforcing severe weight restrictions on cargo loads, reducing active vessel intake capacity by up to forty percent along critical hubs.",
+                "Inland freight movement connecting Northern European sea ports to central industrial manufacturing hubs faces rising transit delays and surcharge pressures.",
+                "Logistics managers routing containerized goods into Central Europe must diversify transport modes toward rail intermodal channels to maintain schedule integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: DAIMLER PORTLAND SHUTDOWN",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MANUFACTURING: DAIMLER PORTLAND SHUTDOWN",
-            "points": [
-                "Daimler Truck North America announced the planned closure of its Swan Island manufacturing facility in Portland scheduled for late October.",
-                "The plant shutdown marks a structural consolidation of regional commercial vehicle assembly operations across North American production networks.",
-                "Production shifts aim to optimize manufacturing overhead and reallocate capital toward next-generation fleet technology platforms.",
-                "Supply chain managers sourcing heavy commercial equipment should anticipate regional lead time adjustments during operational migration."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: TARIFF REFUND MONETIZATION",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "COMPLIANCE: TARIFF REFUND MONETIZATION",
-            "points": [
-                "A secondary market has emerged for retail importers seeking immediate liquidity by monetizing rights to pending federal tariff refunds.",
-                "Major e-commerce and retail entities are selling claims to recoup capital previously bound in invalidated customs duty payments.",
-                "Financial intermediaries are purchasing refund receivables at a discount, providing quick working capital to constrained supply chain operators.",
-                "Corporate treasury teams can utilize structured duty recovery monetization strategies to bolster short-term liquidity profiles."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TERMINALS: HMM CAPACITY EXPANSION",
-            "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "TERMINALS: HMM CAPACITY EXPANSION",
-            "points": [
-                "Hyundai Merchant Marine is investing $135 million into Washington United Terminals to increase container handling capacity by fifty percent.",
-                "The capital deployment targets infrastructure modernization, gate flow enhancement, and expanded intermodal rail connectivity in Pacific Northwest ports.",
-                "Upgraded terminal capabilities aim to accommodate larger container vessels while minimizing vessel dwell times across West Coast trade lanes.",
-                "BCOs and ocean forwarders gain enhanced throughput reliability for transpacific import cargoes moving through North American gateways."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AUTOMATION: FEDEX TRAILER LOADING",
+            "nextUpTease": "AIR FREIGHT: AI HARDWARE VOLUME SURGE",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -109,13 +58,64 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "AUTOMATION: FEDEX TRAILER LOADING",
+            "id": 4,
+            "heading": "AIR FREIGHT: AI HARDWARE VOLUME SURGE",
             "points": [
-                "FedEx and technology partner Dexterity are expanding autonomous robotics deployment for trailer loading operations at their primary Maryland sorting hub.",
-                "Advanced AI vision systems and robotic loaders automate parcel packing structures, accelerating dock throughput and minimizing package handling overhead.",
-                "The operational expansion represents a major milestone in high-throughput hub automation across express parcel delivery networks.",
-                "Parcel shippers can expect improved sorting reliability and faster hub turnaround times as automated loading scales nationally."
+                "Lufthansa Cargo achieved a twenty-seven percent quarterly revenue expansion driven by soaring global demand for artificial intelligence hardware transport.",
+                "High-value semiconductor shipments and electronics components originating across Asia-Pacific manufacturing hubs continue consuming premium transpacific and transatlantic air capacity.",
+                "Air freight operators are strategically reallocating freighter aircraft allocations toward technology corridors to capture elevated yield opportunities.",
+                "Enterprise electronics shippers must secure locked block space agreements early to safeguard export schedules ahead of peak autumn product rollouts."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LEGAL RISK: BROKER VICARIOUS LIABILITY",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "LEGAL RISK: BROKER VICARIOUS LIABILITY",
+            "points": [
+                "A landmark legal judgment resulting in a six hundred four million dollar verdict against C.H. Robinson has intensified vicarious liability risks for freight brokers.",
+                "The court decision establishes stricter standards of care for third-party logistics providers when onboarding, vetting, and dispatching motor carriers.",
+                "Brokerages across North America are adjusting carrier compliance verification protocols to mitigate massive legal exposure stemming from highway accidents.",
+                "Freight intermediaries must audit carrier safety monitoring systems immediately to ensure rigorous compliance checking before assigning load tenders."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "points": [
+                "Latest commercial real estate market reports from Colliers reveal North American industrial warehouse vacancy rates stabilizing at seven point three percent.",
+                "Net industrial space absorption is outpacing new construction deliveries as developers curtail speculative logistics park completions across major warehousing hubs.",
+                "Stabilizing vacancy rates reflect steady warehouse demand driven by omnichannel fulfillment expansion and regional inventory positioning efforts.",
+                "Fulfillment operators seeking prime logistics real estate should execute facility lease renewals promptly before tightening space drives rental rates higher."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "INTERMODAL: RAIL MODAL INFRASTRUCTURE EXPANSION",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "INTERMODAL: RAIL MODAL INFRASTRUCTURE EXPANSION",
+            "points": [
+                "InfraRed Capital Partners acquired a controlling majority stake in Rail Modal Group to accelerate intermodal infrastructure development across inland logistics hubs.",
+                "The capital investment will expand specialized rail ramp facilities, intermodal transfer capabilities, and direct container connectivity across midwestern manufacturing centers.",
+                "Enhanced intermodal hub capacity supports long-term supply chain decarbonization while offering cost-effective alternatives to long-haul over-the-road trucking.",
+                "Shifting ocean freight volumes into expanded inland rail networks will enable shippers to optimize inland transit reliability and lower overall logistics costs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
