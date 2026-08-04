@@ -30,10 +30,24 @@ jobs:
         run: |
           npm install ffmpeg-static ffprobe-static
 
-      - name: Install FFmpeg via Package Manager with Font Support
+      - name: Force Static FFmpeg Binary Override
         run: |
-          sudo apt-get update
-          sudo apt-get install -y ffmpeg libfontconfig1 libfreetype6
+          # Remove any apt or pre-existing node bin wrappers to prevent path conflicts
+          sudo apt-get remove -y ffmpeg libavcodec-extra || true
+          rm -rf node_modules/ffmpeg-static/ffmpeg node_modules/ffmpeg-static/bin
+
+          # Download John Van Sickle's fully-featured static build directly into /usr/local/bin
+          curl -L -O https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
+          tar -xf ffmpeg-release-amd64-static.tar.xz
+          sudo mv ffmpeg-*-amd64-static/ffmpeg /usr/local/bin/
+          sudo mv ffmpeg-*-amd64-static/ffprobe /usr/local/bin/
+          sudo chmod +x /usr/local/bin/ffmpeg /usr/local/bin/ffprobe
+
+          # Ensure system fonts are available for drawtext filters
+          sudo apt-get update && sudo apt-get install -y fontconfig libfontconfig1 fonts-dejavu-core
+
+          # Verify that drawtext is natively present in the active binary path
+          ffmpeg -filters | grep drawtext
 
       - name: List Directory Contents for Debugging
         working-directory: ./Social_Media
