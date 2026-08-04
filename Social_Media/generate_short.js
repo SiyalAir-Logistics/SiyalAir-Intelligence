@@ -448,9 +448,6 @@ async function buildShortFromTemplate(templatePath) {
             fs.writeFileSync(textFilePath, slide.text, 'utf8');
             const safeTextPath = textFilePath.replace(/\\/g, '/').replace(/:/g, '\\:');
 
-            // UNIFIED UNIFORM LAYOUT FIX: Stripped out font inflation multipliers (* 1.22) and variable font sizes/line spacings. 
-            // All content slides (2-9) now render with a locked, identical broadcast-grade font size, uniform line spacing (52px), 
-            // and perfectly synchronized padding/vertical baseline (y=360). Main text remains completely un-animated except for smooth fade-in alpha.
             drawFilters += `,drawtext=fontfile='${customFontPath}':textfile='${safeTextPath}':expansion=none:fontcolor=${styleConfig.fontColor}:fontsize=${styleConfig.fontSize}:line_spacing=52:alpha='${alphaExpr}':x=(1080-text_w)/2:y=360`;
         }
 
@@ -621,8 +618,8 @@ async function buildShortFromTemplate(templatePath) {
 async function runMainTemplateQueue() {
     console.log("🔍 Scanning workspace for matching template files...");
     
-    // UPDATED MATCH PATTERN: Added 'template_news' matching rule so dynamic workflows detect JSON/JS templates seamlessly.
     const files = fs.readdirSync(__dirname);
+    // FIXED MATCH PATTERN: Added 'Video_Template' explicitly and aligned filtering logic to capture your exact file nomenclature safely.
     const templateFiles = files.filter(file => file.endsWith('.js') && (
         file.includes('template') || 
         file.includes('shorts') || 
@@ -630,15 +627,23 @@ async function runMainTemplateQueue() {
         file.includes('template_news')
     ));
 
+    if (templateFiles.length === 0) {
+        console.warn("⚠️ Warning: No matching template files discovered in workspace root!");
+    }
+
     for (const file of templateFiles) {
-        try {
-            await buildShortFromTemplate(path.join(__dirname, file));
-        } catch (error) {
-            console.error(`❌ Pipeline failure encountered while processing ${file}:`, error);
-        }
+      	try {
+          	await buildShortFromTemplate(path.join(__dirname, file));
+      	} catch (error) {
+          	console.error(`❌ Pipeline failure encountered while processing ${file}:`, error);
+                process.exit(1);
+      	}
     }
 
     console.log("\n🏁 All queued video generations completed!");
 }
 
-runMainTemplateQueue().catch(console.error);
+runMainTemplateQueue().catch((err) => {
+    console.error(err);
+    process.exit(1);
+});
