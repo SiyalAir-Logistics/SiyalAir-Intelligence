@@ -317,13 +317,8 @@ async function buildShortFromTemplate(templatePath) {
         const slideText = slide.alpha_narration || slide.narration_line || slide.title || "";
         const rawHeadline = (slide.headline || slide.title || "").toUpperCase();
         
-        // Absolute slide number calculation: Slide 1 is intro, so news slides start at Slide 2
         const absoluteSlideNum = i + 2; 
-
-        // Rule check: Slides 2 through 8 show bottom banner. Slide 9 (followup/2nd last) does NOT show banner.
         const showBanner = (absoluteSlideNum >= 2 && absoluteSlideNum <= 8);
-
-        // Rule check: Slide 8 must have NO next slide teaser text.
         const isSlide8 = (absoluteSlideNum === 8);
         let slideTeaser = isSlide8 ? "" : (slide.teaserTitle || "");
         const hasTeaserText = showBanner && !isSlide8 && Boolean(slideTeaser);
@@ -345,7 +340,6 @@ async function buildShortFromTemplate(templatePath) {
         const imgPath = path.join(__dirname, 'yt_backgrounds', `backgroundyt${bgNum}.png`);
         
         if (fs.existsSync(imgPath)) {
-            // UNIFIED UNIFORM LAYOUT FIX: Standardize maxChars strictly to 22 across all content slides to lock line width, padding, and vertical footprint.
             let maxChars = 22;
             const rawFormattedText = formatMultilineText(slide.narration_line || slide.title || "", maxChars);
             allSlides.push({
@@ -398,7 +392,6 @@ async function buildShortFromTemplate(templatePath) {
 
     // ==========================================
     // SECTION 7: FFMPEG GRAPH COMPILATION & FILTER CHAINS
-    // Configures canvas overlays, text drawfilters, lower-third banners, pagination, and transitions.
     // ==========================================
     console.log(`🎬 Assembling ${allSlides.length} video segments with strict absolute slide rules...`);
 
@@ -439,24 +432,15 @@ async function buildShortFromTemplate(templatePath) {
         let baseVideoFilter = `[${i * 2}:v]scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2,setsar=1`;
         let drawFilters = baseVideoFilter;
 
-        // ------------------------------------------
-        // SUB-SECTION 7A: MAIN BODY TEXT SLIDES
-        // ------------------------------------------
         if (!slide.isClosing && !slide.isIntro && slide.text) {
             const alphaExpr = `if(lt(t,0.25),t/0.25,1)`;
             const textFilePath = path.join(__dirname, `temp_text_${templateFileName}_${i}.txt`);
             fs.writeFileSync(textFilePath, slide.text, 'utf8');
             const safeTextPath = textFilePath.replace(/\\/g, '/').replace(/:/g, '\\:');
 
-            // UNIFIED UNIFORM LAYOUT FIX: Stripped out font inflation multipliers (* 1.22) and variable font sizes/line spacings. 
-            // All content slides (2-9) now render with a locked, identical broadcast-grade font size, uniform line spacing (52px), 
-            // and perfectly synchronized padding/vertical baseline (y=360). Main text remains completely un-animated except for smooth fade-in alpha.
             drawFilters += `,drawtext=fontfile='${customFontPath}':textfile='${safeTextPath}':expansion=none:fontcolor=${styleConfig.fontColor}:fontsize=${styleConfig.fontSize}:line_spacing=52:alpha='${alphaExpr}':x=(1080-text_w)/2:y=360`;
         }
 
-        // ------------------------------------------
-        // SUB-SECTION 7B: PAGINATION DOT INDICATORS
-        // ------------------------------------------
         for (let d = 0; d < totalSlidesCount; d++) {
             const dotX = paginationStartX + (d * dotSpacing);
             const isCurrent = (d === i);
@@ -466,9 +450,6 @@ async function buildShortFromTemplate(templatePath) {
             drawFilters += `,drawbox=x=${dotX - dotRadius}:y=${paginationY - dotRadius}:w=${dotRadius * 2}:h=${dotRadius * 2}:color=${dotColor}:t=fill`;
         }
 
-        // ------------------------------------------
-        // SUB-SECTION 7C: LOWER-THIRD BANNER (Strictly applied ONLY to Slides 2 through 8)
-        // ------------------------------------------
         if (slide.showBanner) {
             if (hasCustomBanner) {
                 drawFilters += `[v_stage_${i}];[v_stage_${i}][${bannerInputIndex}:v]overlay=0:1815`;
@@ -511,7 +492,6 @@ async function buildShortFromTemplate(templatePath) {
                 const safeBannerTeaserPath = bannerTeaserPath.replace(/\\/g, '/').replace(/:/g, '\\:');
 
                 let teaserFontSize = titleFontSize;
-                
                 const slideTargetDuration = slide.duration;
                 const teaserSlideOutStart = Math.max(3.5, slideTargetDuration - 0.4);
                 const bannerTeaserXExpr = `if(lt(t,3.2),1200,if(lt(t,3.5),1050+(1-(t-3.2)/0.3)*300,if(lt(t,${teaserSlideOutStart}),1050,if(lt(t,${slideTargetDuration}),1050+((t-${teaserSlideOutStart})/0.4)*300,1200))))`;
@@ -524,9 +504,6 @@ async function buildShortFromTemplate(templatePath) {
         filterComplex += `${drawFilters}[vbase${i}];\n`;
     });
 
-    // ------------------------------------------
-    // SUB-SECTION 7D: TRANSITION COMPOSITING & AUDIO DSP
-    // ------------------------------------------
     let currentVideoLabel = "vbase0";
     let accumulatedTime = 0;
 
@@ -550,7 +527,6 @@ async function buildShortFromTemplate(templatePath) {
     });
     
     filterComplex += `${concatAudioString}concat=n=${allSlides.length}:v=0:a=1[voice_raw];\n`;
-
     filterComplex += `[voice_raw]highpass=f=80,equalizer=f=220:width_type=h:width=120:g=-3.5,equalizer=f=3400:width_type=h:width=1200:g=3.0,equalizer=f=7500:width_type=h:width=1500:g=-4.0,deesser=i=0.5:m=0.5,aecho=0.8:0.88:12:0.04,compand=attacks=0.01:decays=0.15:points=-80/-80|-40/-16|-15/-5|0/0,loudnorm=I=-16:TP=-1.2:LRA=9[voice_master];\n`;
 
     if (hasBgMusic) {
@@ -577,7 +553,6 @@ async function buildShortFromTemplate(templatePath) {
 
     // ==========================================
     // SECTION 8: CHILD PROCESS EXECUTION & CLEANUP
-    // Spawns FFmpeg, streams output, and purges temporary files.
     // ==========================================
     return new Promise((resolve, reject) => {
         const ffmpegProcess = spawn(ffmpegInstaller, ffmpegArgs);
@@ -616,7 +591,6 @@ async function buildShortFromTemplate(templatePath) {
 
 // ==========================================
 // SECTION 9: AUTOMATED PIPELINE BATCH EXECUTION
-// Discovers template JS files in root and triggers batch compilation.
 // ==========================================
 async function runMainTemplateQueue() {
     console.log("🔍 Scanning workspace for matching template files...");
