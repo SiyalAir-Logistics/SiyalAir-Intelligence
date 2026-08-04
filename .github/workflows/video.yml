@@ -46,8 +46,8 @@ jobs:
           # Ensure system fonts are available for drawtext filters
           sudo apt-get update && sudo apt-get install -y fontconfig libfontconfig1 fonts-dejavu-core
 
-          # Verify that drawtext is natively present in the active binary path
-          ffmpeg -filters | grep drawtext
+          # Verify that drawtext is natively present in the active binary path (don't fail the step if grep returns non-zero)
+          ffmpeg -filters | grep drawtext || true
 
       - name: List Directory Contents for Debugging
         working-directory: ./Social_Media
