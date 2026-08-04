@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT LIABILITY SHIFTS",
+        "hookTitle": "GLOBAL LOGISTICS STRATEGIC REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FREIGHT BROKERAGE: $604M NEGLIGENT HIRING",
-                "teaserTitle": "RAIL LOGISTICS: CMA CGM WITHDRAWS SNCF",
+                "headline": "USTR TARIFFS: FORCED LABOR COMPLIANCE",
+                "teaserTitle": "PORT TERMINALS: HMM $135M SEATTLE UPGRADE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A landmark 604 million dollar negligent hiring verdict against C.H. Robinson forces brokers to overhaul motor carrier safety vetting."
+                "narration_line": "The USTR is enforcing new Section 301 tariffs on sixty trading partners focused on forced labor compliance across global import channels."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL LOGISTICS: CMA CGM WITHDRAWS SNCF",
-                "teaserTitle": "MANUFACTURING: US PMI SURGES TO 55.6%",
+                "headline": "PORT TERMINALS: HMM $135M SEATTLE UPGRADE",
+                "teaserTitle": "FLEET LOGISTICS: HEAVY ELECTRIC TRUCK TRIALS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CMA CGM has withdrawn its bid for France's Fret SNCF, reordering European ocean-rail intermodal expansion plans."
+                "narration_line": "Ocean carrier HMM is investing one hundred thirty-five million dollars to expand Washington United Terminals container capacity by fifty percent."
             },
             {
                 "slide_index": 3,
-                "headline": "MANUFACTURING: US PMI SURGES TO 55.6%",
-                "teaserTitle": "MARITIME SECURITY: HORMUZ ROUTE NEGOTIATIONS",
+                "headline": "FLEET LOGISTICS: HEAVY ELECTRIC TRUCK TRIALS",
+                "teaserTitle": "WAREHOUSE ROBOTICS: DRONE INVENTORY AUTOMATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "United States manufacturing output surged to 55.6 in July, driving strong demand recovery across LTL freight networks."
+                "narration_line": "European fleet operators report ninety-three percent satisfaction running heavy electric trucks, proving performance parity with traditional commercial fleets."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME SECURITY: HORMUZ ROUTE NEGOTIATIONS",
-                "teaserTitle": "POSTAL LOGISTICS: USPS RURAL RATE INCREASES",
+                "headline": "WAREHOUSE ROBOTICS: DRONE INVENTORY AUTOMATION",
+                "teaserTitle": "AUTOMOTIVE LOGISTICS: CHINESE EV CHARTER SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Iran and Oman negotiate a temporary Strait of Hormuz passage to safeguard vital energy and container transit corridors."
+                "narration_line": "Major distribution centers are deploying autonomous drones for cycle counts to automate inventory management and overcome warehouse labor shortages."
             },
             {
                 "slide_index": 5,
-                "headline": "POSTAL LOGISTICS: USPS RURAL RATE INCREASES",
-                "teaserTitle": "E-COMMERCE TARIFFS: AMAZON $600M REFUND",
+                "headline": "AUTOMOTIVE LOGISTICS: CHINESE EV CHARTER SURGE",
+                "teaserTitle": "INDUSTRIAL REAL ESTATE: VACANCY RATES STABILIZE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "USPS raised Ground Advantage rates for rural deliveries, increasing last-mile shipping expenses for e-commerce merchants."
+                "narration_line": "Surging Chinese electric vehicle exports drive specialized ocean car-carrier charter rates toward record daily highs of one hundred thousand dollars."
             },
             {
                 "slide_index": 6,
-                "headline": "E-COMMERCE TARIFFS: AMAZON $600M REFUND",
-                "teaserTitle": "TRADE LITIGATION: 25 STATES SUE TARIFFS",
+                "headline": "INDUSTRIAL REAL ESTATE: VACANCY RATES STABILIZE",
+                "teaserTitle": "PARCEL REGULATION: USPS HAZMAT NONCOMPLIANCE FEES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon initiates partial consumer tariff refunds from a 600 million dollar pool amid dynamic customs duty shifts."
+                "narration_line": "U.S. industrial real estate vacancy rates stabilized at seven point three percent as leasing absorption outpaced new warehouse facility completions."
             },
             {
                 "slide_index": 7,
-                "headline": "TRADE LITIGATION: 25 STATES SUE TARIFFS",
+                "headline": "PARCEL REGULATION: USPS HAZMAT NONCOMPLIANCE FEES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Twenty-five states file a legal challenge against federal tariff actions, sparking renewed regulatory uncertainty for global importers."
+                "narration_line": "USPS implemented stringent noncompliance fees for undeclared hazardous materials, forcing e-commerce sellers to overhaul parcel labeling compliance systems."
             },
             {
                 "slide_index": 8,

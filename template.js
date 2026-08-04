@@ -1,56 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT LIABILITY",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "High-stakes liability verdicts, shifting ocean carrier investments, and escalating trade lawsuits mandate rigorous risk assessment across global supply chain networks."
+        "titleWhite": "GLOBAL LOGISTICS STRATEGIC",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "Customs regulatory updates, terminal infrastructure expansions, and accelerated fleet automation require immediate operational recalibration across global supply networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FREIGHT BROKERAGE: $604M NEGLIGENT HIRING",
+            "heading": "USTR TARIFFS: FORCED LABOR COMPLIANCE",
             "points": [
-                "A landmark $604 million nuclear verdict against C.H. Robinson establishes unprecedented vicarious liability for freight brokers hiring motor carriers.",
-                "The judicial outcome forces logistics intermediaries to radically overhaul carrier vetting frameworks and safety compliance audits across all domestic lanes.",
-                "Legal exposure is accelerating structural shifts toward direct carrier relationships and stricter automated safety scoring algorithms in freight selection.",
-                "Freight brokers must immediately tighten compliance controls or risk catastrophic financial exposure from third-party motor carrier accidents."
+                "The Office of the United States Trade Representative is initiating new Section 301 tariffs targeting sixty trading nations focused on forced labor compliance.",
+                "The trade enforcement actions replace expired Section 122 tariffs to maintain stringent regulatory oversight across international import channels.",
+                "Importers face heightened supply chain audit requirements and potential customs holds on non-compliant foreign supply lines.",
+                "Global sourcing managers must establish verified traceability documentation to prevent severe port entry delays and regulatory penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL LOGISTICS: CMA CGM WITHDRAWS SNCF",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "RAIL LOGISTICS: CMA CGM WITHDRAWS SNCF",
-            "points": [
-                "CMA CGM officially withdrew its acquisition bid for a forty-nine percent stake in Rail Logistics Europe from French rail provider Fret SNCF.",
-                "The decision halts projected ocean-rail intermodal integration plans across key Western European inland freight corridors.",
-                "Carrier strategies are pivoting away from heavy rail equity acquisitions toward flexible chartering and regional inland drayage partnerships.",
-                "European shippers should prepare for continued fragmentation in cross-border rail freight capacity and independent operator rate adjustments."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: US PMI SURGES TO 55.6%",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MANUFACTURING: US PMI SURGES TO 55.6%",
-            "points": [
-                "United States manufacturing output expanded to fifty-five point six in July, registering its strongest performance growth in four years.",
-                "Accelerating factory production generates strong demand recovery across less-than-truckload networks and industrial supply chains.",
-                "Sustained industrial growth is tightening regional carrier capacity while prompting transport operators to adjust pricing structures upward.",
-                "Industrial shippers must lock in contract freight rates early to safeguard operating budgets against impending peak season capacity crunches."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME SECURITY: HORMUZ ROUTE NEGOTIATIONS",
+            "nextUpTease": "PORT TERMINALS: HMM $135M SEATTLE UPGRADE",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -58,69 +24,103 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "MARITIME SECURITY: HORMUZ ROUTE NEGOTIATIONS",
+            "id": 2,
+            "heading": "PORT TERMINALS: HMM $135M SEATTLE UPGRADE",
             "points": [
-                "Iran and Oman are conducting bilateral negotiations to establish a temporary transit route through the Strait of Hormuz during regional conflicts.",
-                "The proposed diplomatic framework aims to secure critical energy and container vessel passages through high-risk Middle Eastern maritime choke points.",
-                "Commercial shipping lines remain vulnerable to sudden insurance premium spikes and geopolitical disruptions affecting global crude trade.",
-                "Ocean freight operators must maintain dynamic routing contingencies and adjust war risk surcharges as geopolitical discussions unfold."
+                "Ocean carrier HMM is investing one hundred thirty-five million dollars into Washington United Terminals to increase container handling capacity by fifty percent.",
+                "The modernization project aims to boost Pacific Northwest port competitiveness following recent volume shifts along West Coast trade gateways.",
+                "Expanded terminal infrastructure will accommodate larger container vessels while accelerating intermodal rail transfers for inland distribution.",
+                "Pacific shippers can expect improved terminal velocity and reduced vessel turnaround times across key Transpacific trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "POSTAL LOGISTICS: USPS RURAL RATE INCREASES",
+            "nextUpTease": "FLEET LOGISTICS: HEAVY ELECTRIC TRUCK TRIALS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.joc.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "FLEET LOGISTICS: HEAVY ELECTRIC TRUCK TRIALS",
+            "points": [
+                "A comprehensive study of European fleet operators revealed a ninety-three percent satisfaction rating among companies running heavy electric trucks.",
+                "Operational data confirms zero-emission commercial vehicles are achieving performance parity with diesel fleets on regional distribution routes.",
+                "Accelerated adoption is driving freight carriers to expand charging infrastructure and re-evaluate fleet decarbonization timelines.",
+                "Logistics providers operating in regulated corridors must accelerate EV integration to meet upcoming corporate sustainability mandates."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "WAREHOUSE ROBOTICS: DRONE INVENTORY AUTOMATION",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "WAREHOUSE ROBOTICS: DRONE INVENTORY AUTOMATION",
+            "points": [
+                "Retail distribution centers are replacing manual inventory counting with autonomous drone technology across massive four hundred thousand square foot facilities.",
+                "Automated aerial systems conduct continuous cycle counts while drastically reducing labor costs and materials handling equipment reliance.",
+                "Real-time inventory visibility minimizes stockouts, optimizes warehouse slotting, and speeds up order fulfillment workflows.",
+                "Distribution center operators should prioritize spatial automation tools to overcome persistent warehouse labor shortages."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AUTOMOTIVE LOGISTICS: CHINESE EV CHARTER SURGE",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "POSTAL LOGISTICS: USPS RURAL RATE INCREASES",
+            "heading": "AUTOMOTIVE LOGISTICS: CHINESE EV CHARTER SURGE",
             "points": [
-                "The United States Postal Service implemented higher Ground Advantage package rates targeting lightweight deliveries sent to rural destinations.",
-                "Surcharges adding two to three dollars per shipment directly impact online marketplace sellers relying on cost-effective last-mile logistics.",
-                "Rate escalations reflect growing last-mile delivery costs across low-density geographical zones in domestic parcel networks.",
-                "E-commerce merchants must re-evaluate parcel carrier allocation and recalculate shipping margin thresholds for non-urban fulfillment."
+                "Booming Chinese electric vehicle exports are driving specialized car-carrier charter rates toward record levels of one hundred thousand dollars daily.",
+                "Surging global demand for vehicle transportation is squeezing specialized ocean roll-on roll-off fleet capacity worldwide.",
+                "Car carriers are prioritizing long-term vessel charters while vehicle manufacturers scramble to secure dedicated ocean shipping space.",
+                "Automotive logistics planners must lock in maritime transport capacity early to mitigate escalating freight transport surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE TARIFFS: AMAZON $600M REFUND",
+            "nextUpTease": "INDUSTRIAL REAL ESTATE: VACANCY RATES STABILIZE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "E-COMMERCE TARIFFS: AMAZON $600M REFUND",
+            "heading": "INDUSTRIAL REAL ESTATE: VACANCY RATES STABILIZE",
             "points": [
-                "Amazon began issuing targeted refunds from a six hundred million dollar pool to consumers affected by cross-border tariff adjustments.",
-                "The refund process highlights complex customs duty collection shifts across large-scale cross-border e-commerce import operations.",
-                "Marketplace platforms are forced to adapt automated customs compliance software to calculate fluctuating global tariff assessments accurately.",
-                "Cross-border sellers must align pricing models with dynamic duty structures to prevent unexpected administrative chargebacks."
+                "Industrial warehousing vacancy rates stabilized at seven point three percent in the second quarter as leasing demand outpaced new facility construction.",
+                "A reduction in speculative development is balancing industrial real estate supply across major regional logistics hubs.",
+                "Sustained tenant demand for modern distribution space is firming up base rental rates despite broader macroeconomic headwinds.",
+                "Supply chain directors should re-examine long-term warehousing leases before available high-spec facility inventory contracts further."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE LITIGATION: 25 STATES SUE TARIFFS",
+            "nextUpTease": "PARCEL REGULATION: USPS HAZMAT NONCOMPLIANCE FEES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRADE LITIGATION: 25 STATES SUE TARIFFS",
+            "heading": "PARCEL REGULATION: USPS HAZMAT NONCOMPLIANCE FEES",
             "points": [
-                "A coalition of twenty-five U.S. states filed a lawsuit challenging federal emergency executive order authority used to levy international tariffs.",
-                "The legal challenge creates renewed regulatory uncertainty surrounding cross-border import duties and international trade policy enforcement.",
-                "Importers face volatile trade compliance standards as legal challenges proceed through federal court systems.",
-                "Supply chain executives should maintain agile sourcing models to navigate potential judicial stays or sudden tariff restructuring."
+                "The United States Postal Service introduced strict noncompliance penalties targeting sellers shipping undeclared hazardous materials through parcel networks.",
+                "Common e-commerce items such as essential oils and cosmetics now require rigorous compliance labeling and specialized postal handling.",
+                "Failure to meet updated postal hazmat declarations will trigger immediate shipping surcharges and potential parcel rejection.",
+                "E-commerce merchants must immediately update automated parcel manifest systems to prevent unexpected regulatory penalties and delivery delays."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
