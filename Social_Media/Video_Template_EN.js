@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK DISRUPTIONS",
+        "hookTitle": "GLOBAL FREIGHT CAPACITY REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AIR FREIGHT: LUFTHANSA REVENUE SURGE",
-                "teaserTitle": "INLAND WATERWAYS: RHINE WATER LEVEL DROPS",
+                "headline": "USTR: SECTION 301 TARIFFS",
+                "teaserTitle": "CAPACITY: SCHNEIDER FLEET REDUCTIONS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Lufthansa Cargo Q2 profit surged fifty-eight percent as high-tech AI demand overwhelms Asia air capacity."
+                "narration_line": "USTR is deploying Section 301 forced-labor tariffs across sixty nations, elevating compliance requirements for global importers."
             },
             {
                 "slide_index": 2,
-                "headline": "INLAND WATERWAYS: RHINE WATER LEVEL DROPS",
-                "teaserTitle": "MARITIME LAW: FMC DETENTION RULE UPHELD",
+                "headline": "CAPACITY: SCHNEIDER FLEET REDUCTIONS",
+                "teaserTitle": "INFRASTRUCTURE: TRUCK PARKING EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Rhine River water levels fell to historic lows, triggering barge load restrictions across major European supply corridors."
+                "narration_line": "Schneider is executing ongoing driver capacity reductions to stabilize motor carrier rates and balance domestic freight supply through 2026."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME LAW: FMC DETENTION RULE UPHELD",
-                "teaserTitle": "OCEAN FREIGHT: TRANSPACIFIC RATE INCREASES",
+                "headline": "INFRASTRUCTURE: TRUCK PARKING EXPANSION",
+                "teaserTitle": "MANUFACTURING: DAIMLER PORTLAND SHUTDOWN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal courts upheld FMC rules mandating detention fees promote cargo movement rather than carrier revenue."
+                "narration_line": "Private digital marketplaces are expanding reserved truck parking networks to mitigate driver downtime and ensure hours-of-service compliance."
             },
             {
                 "slide_index": 4,
-                "headline": "OCEAN FREIGHT: TRANSPACIFIC RATE INCREASES",
-                "teaserTitle": "POSTAL LOGISTICS: USPS GROUND RATE HIKE",
+                "headline": "MANUFACTURING: DAIMLER PORTLAND SHUTDOWN",
+                "teaserTitle": "COMPLIANCE: TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Transpacific container lines successfully pushed rate hikes as front-loading shippers strain peak season vessel space."
+                "narration_line": "Daimler Truck North America will close its Portland manufacturing facility in October, consolidating regional commercial vehicle production infrastructure."
             },
             {
                 "slide_index": 5,
-                "headline": "POSTAL LOGISTICS: USPS GROUND RATE HIKE",
-                "teaserTitle": "E-COMMERCE: EBAY DEPOP CONSOLIDATION",
+                "headline": "COMPLIANCE: TARIFF REFUND MONETIZATION",
+                "teaserTitle": "TERMINALS: HMM CAPACITY EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "USPS raised Ground Advantage rates while introducing strict noncompliance fees for hazardous material parcel shipments."
+                "narration_line": "Retailers are monetizing rights to federal tariff refunds on secondary markets to unlock immediate liquidity from invalidated duties."
             },
             {
                 "slide_index": 6,
-                "headline": "E-COMMERCE: EBAY DEPOP CONSOLIDATION",
-                "teaserTitle": "MOTOR CARRIERS: NON-DOMICILED CDL REFORMS",
+                "headline": "TERMINALS: HMM CAPACITY EXPANSION",
+                "teaserTitle": "AUTOMATION: FEDEX TRAILER LOADING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "eBay completed its Depop acquisition to streamline reverse logistics and secondary apparel marketplace fulfillment networks."
+                "narration_line": "Hyundai Merchant Marine is investing $135 million to expand Washington United Terminals capacity by fifty percent for transpacific cargo."
             },
             {
                 "slide_index": 7,
-                "headline": "MOTOR CARRIERS: NON-DOMICILED CDL REFORMS",
+                "headline": "AUTOMATION: FEDEX TRAILER LOADING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Federal enforcement sweeps targeted non-domiciled commercial driver licenses, tightening domestic trucking capacity nationwide."
+                "narration_line": "FedEx is scaling autonomous robotic trailer loading at its Maryland hub to accelerate parcel sorting and optimize hub operations."
             },
             {
                 "slide_index": 8,
