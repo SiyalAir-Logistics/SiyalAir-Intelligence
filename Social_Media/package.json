@@ -1,0 +1,12 @@
+{
+  "name": "siyalair-social-media-pipeline",
+  "version": "1.0.0",
+  "description": "Automated video production and intelligence pipeline",
+  "main": "generate_short.js",
+  "scripts": {
+    "start": "node generate_short.js"
+  },
+  "dependencies": {
+    "ffmpeg-static": "^5.2.0"
+  }
+}
