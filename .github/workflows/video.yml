@@ -21,41 +21,55 @@ jobs:
         with:
           python-version: '3.11'
 
-      - name: Install Edge-TTS and Dependencies
+      - name: Install Python Voice Dependencies (Edge-TTS)
         run: |
           python -m pip install --upgrade pip
           pip install edge-tts
 
-      - name: Install Root Node Dependencies
+      - name: Conditionally Install Node Dependencies
         run: |
-          npm install
+          if [ -f "package.json" ]; then
+            echo "Found root package.json, installing root dependencies..."
+            npm install
+          else
+            echo "No root package.json found. Skipping root npm install."
+          fi
 
-      - name: Install Social Media Node Dependencies
-        working-directory: ./Social_Media
-        run: |
-          npm install
+          if [ -f "Social_Media/package.json" ]; then
+            echo "Found Social_Media/package.json, installing module dependencies..."
+            cd Social_Media
+            npm install
+          else
+            echo "Error: Social_Media/package.json is missing!"
+            exit 1
+          fi
 
-      - name: Force Global FFmpeg Binary Symlink Override
+      - name: Force Global FFmpeg Binary Symlink Override & Font Provisioning
         run: |
-          # 1. Install John Van Sickle's fully-featured static build globally
+          # 1. Clean out existing distribution conflicts
           sudo apt-get remove -y ffmpeg libavcodec-extra || true
+
+          # 2. Pull John Van Sickle's fully-featured static build globally
           curl -L -O https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
           tar -xf ffmpeg-release-amd64-static.tar.xz
           sudo mv ffmpeg-*-amd64-static/ffmpeg /usr/local/bin/
           sudo mv ffmpeg-*-amd64-static/ffprobe /usr/local/bin/
           sudo chmod +x /usr/local/bin/ffmpeg /usr/local/bin/ffprobe
 
-          # 2. Provision system font packages
+          # 3. Provision system font packages & fontconfig registries
           sudo apt-get update && sudo apt-get install -y fontconfig libfontconfig1 fonts-dejavu-core
 
-          # 3. INTERCEPT AND OVERRIDE NODE_MODULES FFMPEG-STATIC BINARIES
+          # 4. Intercept Node wrapper paths safely (ensure directories exist first)
           mkdir -p node_modules/ffmpeg-static Social_Media/node_modules/ffmpeg-static
           rm -f node_modules/ffmpeg-static/ffmpeg Social_Media/node_modules/ffmpeg-static/ffmpeg
           ln -s /usr/local/bin/ffmpeg node_modules/ffmpeg-static/ffmpeg || true
           ln -s /usr/local/bin/ffmpeg Social_Media/node_modules/ffmpeg-static/ffmpeg || true
 
-          # 4. Diagnostic check
+          # 5. Full diagnostic validation matrix check
+          echo "=== FFMPEG BINARY VERSION & CONFIGURATION ==="
           ffmpeg -version
+          echo "=== VERIFYING DRAWTEXT CAPABILITY ==="
+          ffmpeg -filters | grep drawtext || true
 
       - name: List Directory Contents for Debugging
         working-directory: ./Social_Media
