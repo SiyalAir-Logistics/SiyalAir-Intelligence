@@ -41,15 +41,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install edge-tts
 
-      - name: Install Node Dependencies from Social_Media
+      - name: Install Dependencies inside Social_Media
         run: |
-          echo "=== INSTALLING DEPENDENCIES FROM SOCIAL_MEDIA DIRECTORY ==="
+          echo "=== INSTALLING DEPENDENCIES IN SOCIAL_MEDIA ==="
           if [ -f "Social_Media/package.json" ]; then
             cd Social_Media
             npm install
             cd ..
           else
-            echo "CRITICAL ERROR: Social_Media/package.json is missing from the repository."
+            echo "CRITICAL ERROR: Social_Media/package.json is missing!"
             exit 1
           fi
 
@@ -63,9 +63,8 @@ jobs:
             chmod +x "$dir/ffmpeg" || true
           done
 
-          # Fallback explicit target mappings
-          mkdir -p node_modules/ffmpeg-static Social_Media/node_modules/ffmpeg-static
-          ln -sf /usr/local/bin/ffmpeg node_modules/ffmpeg-static/ffmpeg
+          # Explicit mapping inside Social_Media/node_modules/ffmpeg-static
+          mkdir -p Social_Media/node_modules/ffmpeg-static
           ln -sf /usr/local/bin/ffmpeg Social_Media/node_modules/ffmpeg-static/ffmpeg
 
           echo "=== VALIDATING RENDERER CAPABILITIES ==="
@@ -76,17 +75,12 @@ jobs:
         env:
           CI: true
         run: |
-          # Locate script dynamically regardless of exact workspace nesting
-          SCRIPT_PATH=$(find . -name "generate_short.js" -not -path "*/node_modules/*" | head -n 1)
-
-          if [ -n "$SCRIPT_PATH" ]; then
-            SCRIPT_DIR=$(dirname "$SCRIPT_PATH")
-            SCRIPT_NAME=$(basename "$SCRIPT_PATH")
-            echo "Executing $SCRIPT_NAME inside directory: $SCRIPT_DIR"
-            cd "$SCRIPT_DIR"
-            node "$SCRIPT_NAME"
+          echo "=== EXECUTING SCRIPT FROM SOCIAL_MEDIA DIRECTORY ==="
+          if [ -f "Social_Media/generate_short.js" ]; then
+            cd Social_Media
+            node generate_short.js
           else
-            echo "CRITICAL ERROR: generate_short.js is missing from the workspace repository."
+            echo "CRITICAL ERROR: Social_Media/generate_short.js could not be found."
             exit 1
           fi
 
