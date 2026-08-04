@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS STRATEGIC",
-        "titleBlue": "REALIGNMENT",
-        "footerSummary": "Customs regulatory updates, terminal infrastructure expansions, and accelerated fleet automation require immediate operational recalibration across global supply networks."
+        "titleWhite": "GLOBAL TRADE TARIFFS",
+        "titleBlue": "SURGE",
+        "footerSummary": "Escalating trade policy friction and legal challenges across state lines threaten international supply chain stability and import pricing."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR TARIFFS: FORCED LABOR COMPLIANCE",
+            "heading": "USTR TARRIFS: SECTION 301 EXPANSION",
             "points": [
-                "The Office of the United States Trade Representative is initiating new Section 301 tariffs targeting sixty trading nations focused on forced labor compliance.",
-                "The trade enforcement actions replace expired Section 122 tariffs to maintain stringent regulatory oversight across international import channels.",
-                "Importers face heightened supply chain audit requirements and potential customs holds on non-compliant foreign supply lines.",
-                "Global sourcing managers must establish verified traceability documentation to prevent severe port entry delays and regulatory penalties."
+                "The Office of the United States Trade Representative is aggressively rolling out new Section 301 tariffs targeting sixty distinct trading nations.",
+                "These enforcement actions replace expired Section 122 tariffs to maintain stringent regulatory oversight across international import channels.",
+                "Importers face heightened supply chain audit requirements and potential customs compliance holds on non-compliant foreign supply lines.",
+                "Global sourcing managers must establish verified traceability documentation to prevent severe port entry delays and penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT TERMINALS: HMM $135M SEATTLE UPGRADE",
+            "nextUpTease": "LEGAL ACTION: STATES SUE TRUMP ADMINISTRATION",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -25,7 +25,24 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "PORT TERMINALS: HMM $135M SEATTLE UPGRADE",
+            "heading": "LEGAL ACTION: STATES SUE TRUMP ADMINISTRATION",
+            "points": [
+                "A coalition of twenty-five states filed a major federal lawsuit against the Trump administration regarding sweeping new global trade tariffs.",
+                "The legal challenge argues that the newly enacted levies bypass constitutional legislative authority and disrupt regional economic stability.",
+                "Corporate legal teams are closely monitoring the court proceedings to assess potential injunctions against ongoing tariff collections.",
+                "Supply chain planners must prepare for sudden duty adjustments and fluctuating landed costs as the litigation proceeds."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PORT INFRASTRUCTURE: HMM EXPANDS SEATTLE CAPACITY",
+            "tags": [
+                "Source: https://www.cnbc.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "PORT INFRASTRUCTURE: HMM EXPANDS SEATTLE CAPACITY",
             "points": [
                 "Ocean carrier HMM is investing one hundred thirty-five million dollars into Washington United Terminals to increase container handling capacity by fifty percent.",
                 "The modernization project aims to boost Pacific Northwest port competitiveness following recent volume shifts along West Coast trade gateways.",
@@ -33,7 +50,7 @@ const dailyData = {
                 "Pacific shippers can expect improved terminal velocity and reduced vessel turnaround times across key Transpacific trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET LOGISTICS: HEAVY ELECTRIC TRUCK TRIALS",
+            "nextUpTease": "OCEAN SHIPPING: FMC UPHOLDS DETENTION RULING",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -41,16 +58,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "FLEET LOGISTICS: HEAVY ELECTRIC TRUCK TRIALS",
+            "id": 4,
+            "heading": "OCEAN SHIPPING: FMC UPHOLDS DETENTION RULING",
             "points": [
-                "A comprehensive study of European fleet operators revealed a ninety-three percent satisfaction rating among companies running heavy electric trucks.",
+                "The U.S. Court of Appeals for the D.C. Circuit issued a definitive decision upholding the Federal Maritime Commission's detention fee regulations.",
+                "The ruling reinforces that detention and demurrage charges must actively promote freight fluidity rather than serve as revenue generators.",
+                "Ocean carriers and marine terminal operators face stricter federal oversight regarding penalty billing practices and fee transparency.",
+                "Importers should leverage these regulatory protections to dispute unjustified demurrage assessments and streamline terminal pickups."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FLEET LOGISTICS: ELECTRIC TRUCK FLEET SATISFACTION",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "FLEET LOGISTICS: ELECTRIC TRUCK FLEET SATISFACTION",
+            "points": [
+                "A comprehensive survey of European fleet operators revealed a ninety-three percent satisfaction rating among companies running heavy electric trucks.",
                 "Operational data confirms zero-emission commercial vehicles are achieving performance parity with diesel fleets on regional distribution routes.",
                 "Accelerated adoption is driving freight carriers to expand charging infrastructure and re-evaluate fleet decarbonization timelines.",
                 "Logistics providers operating in regulated corridors must accelerate EV integration to meet upcoming corporate sustainability mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSE ROBOTICS: DRONE INVENTORY AUTOMATION",
+            "nextUpTease": "AUTOMOTIVE CARRIERS: CHINESE EV CHARTER SURGE",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
@@ -58,25 +92,8 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "WAREHOUSE ROBOTICS: DRONE INVENTORY AUTOMATION",
-            "points": [
-                "Retail distribution centers are replacing manual inventory counting with autonomous drone technology across massive four hundred thousand square foot facilities.",
-                "Automated aerial systems conduct continuous cycle counts while drastically reducing labor costs and materials handling equipment reliance.",
-                "Real-time inventory visibility minimizes stockouts, optimizes warehouse slotting, and speeds up order fulfillment workflows.",
-                "Distribution center operators should prioritize spatial automation tools to overcome persistent warehouse labor shortages."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE LOGISTICS: CHINESE EV CHARTER SURGE",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AUTOMOTIVE LOGISTICS: CHINESE EV CHARTER SURGE",
+            "id": 6,
+            "heading": "AUTOMOTIVE CARRIERS: CHINESE EV CHARTER SURGE",
             "points": [
                 "Booming Chinese electric vehicle exports are driving specialized car-carrier charter rates toward record levels of one hundred thousand dollars daily.",
                 "Surging global demand for vehicle transportation is squeezing specialized ocean roll-on roll-off fleet capacity worldwide.",
@@ -84,7 +101,7 @@ const dailyData = {
                 "Automotive logistics planners must lock in maritime transport capacity early to mitigate escalating freight transport surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRIAL REAL ESTATE: VACANCY RATES STABILIZE",
+            "nextUpTease": "PARCEL COMPLIANCE: USPS HAZMAT PENALTIES",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -92,25 +109,8 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "INDUSTRIAL REAL ESTATE: VACANCY RATES STABILIZE",
-            "points": [
-                "Industrial warehousing vacancy rates stabilized at seven point three percent in the second quarter as leasing demand outpaced new facility construction.",
-                "A reduction in speculative development is balancing industrial real estate supply across major regional logistics hubs.",
-                "Sustained tenant demand for modern distribution space is firming up base rental rates despite broader macroeconomic headwinds.",
-                "Supply chain directors should re-examine long-term warehousing leases before available high-spec facility inventory contracts further."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PARCEL REGULATION: USPS HAZMAT NONCOMPLIANCE FEES",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "PARCEL REGULATION: USPS HAZMAT NONCOMPLIANCE FEES",
+            "heading": "PARCEL COMPLIANCE: USPS HAZMAT PENALTIES",
             "points": [
                 "The United States Postal Service introduced strict noncompliance penalties targeting sellers shipping undeclared hazardous materials through parcel networks.",
                 "Common e-commerce items such as essential oils and cosmetics now require rigorous compliance labeling and specialized postal handling.",
