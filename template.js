@@ -1,107 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFFS",
-        "titleBlue": "SURGE",
-        "footerSummary": "Escalating trade policy friction and legal challenges across state lines threaten international supply chain stability and import pricing."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "RECONFIGURATION",
+        "footerSummary": "Escalating legal liabilities, Middle East transit re-routing, and automated freight scaling demand immediate operational restructuring across global transport networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR TARRIFS: SECTION 301 EXPANSION",
+            "heading": "RAIL FREIGHT: CMA CGM CANCELS BID",
             "points": [
-                "The Office of the United States Trade Representative is aggressively rolling out new Section 301 tariffs targeting sixty distinct trading nations.",
-                "These enforcement actions replace expired Section 122 tariffs to maintain stringent regulatory oversight across international import channels.",
-                "Importers face heightened supply chain audit requirements and potential customs compliance holds on non-compliant foreign supply lines.",
-                "Global sourcing managers must establish verified traceability documentation to prevent severe port entry delays and penalties."
+                "Ocean carrier CMA CGM officially confirmed the withdrawal of its bid to acquire a forty-nine percent stake in French rail freight operator Rail Logistics Europe.",
+                "The decision marks a strategic pivot away from state-backed rail freight acquisition while redirecting capital toward direct terminal and vessel assets.",
+                "Rail carrier restructuring will alter intermodal integration strategies across European inland transport corridors for major ocean shipping lines.",
+                "Shippers relying on European rail freight must monitor shifting carrier partnerships to ensure consistent inland container throughput across key gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL ACTION: STATES SUE TRUMP ADMINISTRATION",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "LEGAL ACTION: STATES SUE TRUMP ADMINISTRATION",
-            "points": [
-                "A coalition of twenty-five states filed a major federal lawsuit against the Trump administration regarding sweeping new global trade tariffs.",
-                "The legal challenge argues that the newly enacted levies bypass constitutional legislative authority and disrupt regional economic stability.",
-                "Corporate legal teams are closely monitoring the court proceedings to assess potential injunctions against ongoing tariff collections.",
-                "Supply chain planners must prepare for sudden duty adjustments and fluctuating landed costs as the litigation proceeds."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: HMM EXPANDS SEATTLE CAPACITY",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "PORT INFRASTRUCTURE: HMM EXPANDS SEATTLE CAPACITY",
-            "points": [
-                "Ocean carrier HMM is investing one hundred thirty-five million dollars into Washington United Terminals to increase container handling capacity by fifty percent.",
-                "The modernization project aims to boost Pacific Northwest port competitiveness following recent volume shifts along West Coast trade gateways.",
-                "Expanded terminal infrastructure will accommodate larger container vessels while accelerating intermodal rail transfers for inland distribution.",
-                "Pacific shippers can expect improved terminal velocity and reduced vessel turnaround times across key Transpacific trade lanes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "OCEAN SHIPPING: FMC UPHOLDS DETENTION RULING",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "OCEAN SHIPPING: FMC UPHOLDS DETENTION RULING",
-            "points": [
-                "The U.S. Court of Appeals for the D.C. Circuit issued a definitive decision upholding the Federal Maritime Commission's detention fee regulations.",
-                "The ruling reinforces that detention and demurrage charges must actively promote freight fluidity rather than serve as revenue generators.",
-                "Ocean carriers and marine terminal operators face stricter federal oversight regarding penalty billing practices and fee transparency.",
-                "Importers should leverage these regulatory protections to dispute unjustified demurrage assessments and streamline terminal pickups."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FLEET LOGISTICS: ELECTRIC TRUCK FLEET SATISFACTION",
-            "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "FLEET LOGISTICS: ELECTRIC TRUCK FLEET SATISFACTION",
-            "points": [
-                "A comprehensive survey of European fleet operators revealed a ninety-three percent satisfaction rating among companies running heavy electric trucks.",
-                "Operational data confirms zero-emission commercial vehicles are achieving performance parity with diesel fleets on regional distribution routes.",
-                "Accelerated adoption is driving freight carriers to expand charging infrastructure and re-evaluate fleet decarbonization timelines.",
-                "Logistics providers operating in regulated corridors must accelerate EV integration to meet upcoming corporate sustainability mandates."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE CARRIERS: CHINESE EV CHARTER SURGE",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "AUTOMOTIVE CARRIERS: CHINESE EV CHARTER SURGE",
-            "points": [
-                "Booming Chinese electric vehicle exports are driving specialized car-carrier charter rates toward record levels of one hundred thousand dollars daily.",
-                "Surging global demand for vehicle transportation is squeezing specialized ocean roll-on roll-off fleet capacity worldwide.",
-                "Car carriers are prioritizing long-term vessel charters while vehicle manufacturers scramble to secure dedicated ocean shipping space.",
-                "Automotive logistics planners must lock in maritime transport capacity early to mitigate escalating freight transport surcharges."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PARCEL COMPLIANCE: USPS HAZMAT PENALTIES",
+            "nextUpTease": "MARITIME ROUTING: IRAN OMAN HORMUZ DEAL",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -109,18 +24,103 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "PARCEL COMPLIANCE: USPS HAZMAT PENALTIES",
+            "id": 2,
+            "heading": "MARITIME ROUTING: IRAN OMAN HORMUZ DEAL",
             "points": [
-                "The United States Postal Service introduced strict noncompliance penalties targeting sellers shipping undeclared hazardous materials through parcel networks.",
-                "Common e-commerce items such as essential oils and cosmetics now require rigorous compliance labeling and specialized postal handling.",
-                "Failure to meet updated postal hazmat declarations will trigger immediate shipping surcharges and potential parcel rejection.",
-                "E-commerce merchants must immediately update automated parcel manifest systems to prevent unexpected regulatory penalties and delivery delays."
+                "Iran and Oman have initiated advanced bilateral negotiations to establish a temporary safe maritime transit route through the troubled Strait of Hormuz.",
+                "The proposed corridor aims to restore commercial vessel passage without direct United States military intervention amid heightened regional conflict.",
+                "Restoring ocean transit stability through Hormuz would alleviate severe schedule disruptions and volatile war risk surcharges for global energy and container fleets.",
+                "Maritime logistics managers should prepare contingent routing plans while evaluating carrier schedule reliability across Middle Eastern trade lanes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FLEET AUTOMATION: FEDEX EXPANDS ROBOTICS",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "FLEET AUTOMATION: FEDEX EXPANDS ROBOTICS",
+            "points": [
+                "FedEx is expanding its pilot program for autonomous trailer loading systems powered by AI robotics firm Dexterity across major regional distribution hubs.",
+                "The robotic automation system uses advanced spatial vision to autonomously stack complex parcels inside linehaul trailers at industrial speeds.",
+                "Scaling automated loading technology reduces door-to-door transit times while minimizing parcel damage and manual dock labor constraints.",
+                "Parcel shippers can expect improved outbound dock velocity and enhanced package tracking precision across automated carrier hubs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "BROKER LIABILITY: CH ROBINSON VERDICT",
+            "tags": [
+                "Source: https://www.dcvelocity.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "BROKER LIABILITY: CH ROBINSON VERDICT",
+            "points": [
+                "A Texas court delivered a landmark six hundred four million dollar negligent-hiring verdict against C.H. Robinson, triggering immediate appeal proceedings.",
+                "The massive legal judgment establishes severe broker vicarious liability standards for motor carrier safety vetting across third-party logistics networks.",
+                "Freight brokerages are forced to re-evaluate carrier onboarding protocols, compliance vetting software, and liability insurance thresholds immediately.",
+                "Shippers and 3PLs must implement stricter carrier selection criteria to mitigate catastrophic legal exposure across contracted truckload fleets."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FLEET MANUFACTURING: DAIMLER SHUTS PLANT",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "FLEET MANUFACTURING: DAIMLER SHUTS PLANT",
+            "points": [
+                "Daimler Truck North America announced the permanent closure of its Portland vehicle manufacturing plant scheduled for the end of October 2026.",
+                "The production shutdown reflects broader commercial vehicle manufacturing realignments to optimize heavy-duty truck assembly across remaining footprint locations.",
+                "Consolidating assembly footprint allows the OEM to streamline capital expenditure while adjusting to shifting North American fleet demand dynamics.",
+                "Fleet buyers and motor carriers should anticipate revised delivery lead times and regional equipment allocation adjustments during the facility transition."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MACRO LOGISTICS: US PMI HITS 55.6",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MACRO LOGISTICS: US PMI HITS 55.6",
+            "points": [
+                "United States manufacturing activity accelerated to its highest level in four years, recording a July ISM Purchasing Managers' Index of 55.6.",
+                "Strong manufacturing output is fueling optimism among less-than-truckload carriers as industrial freight volumes surge across inland transit networks.",
+                "Expanded factory orders are expanding freight density across key manufacturing corridors, putting upward pressure on spot LTL shipping rates.",
+                "Logistics planners should secure LTL transport capacity early to mitigate rising freight rates driven by sustained industrial expansion."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LAST MILE: WALMART DRONE DELIVERY",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "LAST MILE: WALMART DRONE DELIVERY",
+            "points": [
+                "Walmart and drone operator Wing launched automated commercial drone delivery services across major suburban residential markets in Florida.",
+                "The aerial fulfillment initiative enables under-thirty-minute delivery for small-parcel order profiles directly from supercenter parking facilities.",
+                "Integrating autonomous aerial delivery streamlines last-mile fulfillment economics while reducing reliance on traditional surface courier networks.",
+                "Omnichannel retailers must assess micro-fulfillment drone infrastructure to stay competitive in rapid last-mile delivery coverage."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

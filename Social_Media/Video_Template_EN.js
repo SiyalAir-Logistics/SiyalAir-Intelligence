@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE TARIFFS SURGE",
+        "hookTitle": "GLOBAL FREIGHT NETWORK RECONFIGURATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR TARRIFS: SECTION 301 EXPANSION",
-                "teaserTitle": "LEGAL ACTION: STATES SUE TRUMP ADMINISTRATION",
+                "headline": "RAIL FREIGHT: CMA CGM CANCELS BID",
+                "teaserTitle": "MARITIME ROUTING: IRAN OMAN HORMUZ DEAL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR is deploying new Section 301 tariffs across sixty nations as expired levies are replaced."
+                "narration_line": "CMA CGM withdraws its bid for Rail Logistics Europe, reshaping European intermodal freight strategy."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL ACTION: STATES SUE TRUMP ADMINISTRATION",
-                "teaserTitle": "PORT INFRASTRUCTURE: HMM EXPANDS SEATTLE CAPACITY",
+                "headline": "MARITIME ROUTING: IRAN OMAN HORMUZ DEAL",
+                "teaserTitle": "FLEET AUTOMATION: FEDEX EXPANDS ROBOTICS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A coalition of twenty-five states has launched a major federal lawsuit against the latest federal trade tariffs."
+                "narration_line": "Iran and Oman negotiate a temporary Hormuz shipping route to restore commercial vessel passage."
             },
             {
                 "slide_index": 3,
-                "headline": "PORT INFRASTRUCTURE: HMM EXPANDS SEATTLE CAPACITY",
-                "teaserTitle": "OCEAN SHIPPING: FMC UPHOLDS DETENTION RULING",
+                "headline": "FLEET AUTOMATION: FEDEX EXPANDS ROBOTICS",
+                "teaserTitle": "BROKER LIABILITY: CH ROBINSON VERDICT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Ocean carrier HMM is investing one hundred thirty-five million dollars to boost Pacific Northwest terminal capacity."
+                "narration_line": "FedEx expands AI autonomous trailer loading with Dexterity across major distribution hubs."
             },
             {
                 "slide_index": 4,
-                "headline": "OCEAN SHIPPING: FMC UPHOLDS DETENTION RULING",
-                "teaserTitle": "FLEET LOGISTICS: ELECTRIC TRUCK FLEET SATISFACTION",
+                "headline": "BROKER LIABILITY: CH ROBINSON VERDICT",
+                "teaserTitle": "FLEET MANUFACTURING: DAIMLER SHUTS PLANT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The D.C. Circuit court upheld FMC rules ensuring detention fees promote cargo fluidity rather than revenue."
+                "narration_line": "A landmark $604 million negligent-hiring verdict against C.H. Robinson heightens freight broker liability."
             },
             {
                 "slide_index": 5,
-                "headline": "FLEET LOGISTICS: ELECTRIC TRUCK FLEET SATISFACTION",
-                "teaserTitle": "AUTOMOTIVE CARRIERS: CHINESE EV CHARTER SURGE",
+                "headline": "FLEET MANUFACTURING: DAIMLER SHUTS PLANT",
+                "teaserTitle": "MACRO LOGISTICS: US PMI HITS 55.6",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "European fleet operators report ninety-three percent satisfaction running heavy electric trucks on regional lanes."
+                "narration_line": "Daimler Truck North America will shutter its Portland manufacturing facility by late October."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOMOTIVE CARRIERS: CHINESE EV CHARTER SURGE",
-                "teaserTitle": "PARCEL COMPLIANCE: USPS HAZMAT PENALTIES",
+                "headline": "MACRO LOGISTICS: US PMI HITS 55.6",
+                "teaserTitle": "LAST MILE: WALMART DRONE DELIVERY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Surging Chinese electric vehicle exports are driving specialized car carrier charter rates toward record highs."
+                "narration_line": "US manufacturing activity surged to a four-year high of 55.6, driving LTL freight demand."
             },
             {
                 "slide_index": 7,
-                "headline": "PARCEL COMPLIANCE: USPS HAZMAT PENALTIES",
+                "headline": "LAST MILE: WALMART DRONE DELIVERY",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The USPS has enacted strict noncompliance fees targeting e-commerce sellers shipping undeclared hazardous materials."
+                "narration_line": "Walmart and Wing launch commercial drone delivery services across key Florida residential markets."
             },
             {
                 "slide_index": 8,
