@@ -23,21 +23,11 @@ jobs:
 
       - name: Initialize Environment & Install System Dependencies
         run: |
-          # 1. Purge restricted runner FFmpeg and install John Van Sickle's fully-featured static binary globally
-          sudo apt-get remove -y ffmpeg libavcodec-extra || true
-          if [ ! -f /usr/local/bin/ffmpeg ]; then
-            curl -L -O https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
-            tar -xf ffmpeg-release-amd64-static.tar.xz
-            sudo mv ffmpeg-*-amd64-static/ffmpeg /usr/local/bin/
-            sudo mv ffmpeg-*-amd64-static/ffprobe /usr/local/bin/
-            sudo chmod +x /usr/local/bin/ffmpeg /usr/local/bin/ffprobe
-            rm -rf ffmpeg-release-amd64-static.tar.xz ffmpeg-*-amd64-static
-          fi
+          # 1. Update package lists and install a fully-featured FFmpeg directly via apt (or robust static fallback)
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg fontconfig libfontconfig1 fonts-dejavu-core xz-utils
 
-          # 2. Provision layout rendering typefaces & fontconfig
-          sudo apt-get update && sudo apt-get install -y fontconfig libfontconfig1 fonts-dejavu-core
-
-          # 3. Install Python voice synthesis package
+          # 2. Install Python voice synthesis package
           python -m pip install --upgrade pip
           pip install edge-tts
 
@@ -55,17 +45,11 @@ jobs:
 
       - name: Enforce Universal Binary Symlink Mapping
         run: |
-          # Force every local instance of ffmpeg-static wrapper to link directly to the global master binary
-          for dir in $(find . -name "ffmpeg-static" -type d -not -path "*/.*"); do
-            mkdir -p "$dir"
-            rm -f "$dir/ffmpeg"
-            ln -s /usr/local/bin/ffmpeg "$dir/ffmpeg"
-            chmod +x "$dir/ffmpeg" || true
-          done
-
-          # Explicit mapping inside Social_Media/node_modules/ffmpeg-static
+          # Ensure local runner ffmpeg maps correctly
+          which ffmpeg
           mkdir -p Social_Media/node_modules/ffmpeg-static
-          ln -sf /usr/local/bin/ffmpeg Social_Media/node_modules/ffmpeg-static/ffmpeg
+          ln -sf $(which ffmpeg) Social_Media/node_modules/ffmpeg-static/ffmpeg
+          chmod +x Social_Media/node_modules/ffmpeg-static/ffmpeg || true
 
           echo "=== VALIDATING RENDERER CAPABILITIES ==="
           ffmpeg -version
