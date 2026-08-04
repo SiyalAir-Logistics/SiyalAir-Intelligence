@@ -1,90 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS TRADE",
-        "titleBlue": "REFORMS",
-        "footerSummary": "Escalating tariff enforcement, court-validated FMC container rules, and surging fuel surcharges demand immediate operational agility across international freight networks."
+        "titleWhite": "GLOBAL FREIGHT LIABILITY",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "High-stakes liability verdicts, shifting ocean carrier investments, and escalating trade lawsuits mandate rigorous risk assessment across global supply chain networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
+            "heading": "FREIGHT BROKERAGE: $604M NEGLIGENT HIRING",
             "points": [
-                "The USTR is implementing new Section 301 tariffs targeting sixty trading partners focused strictly on forced labor compliance as Section 122 tariffs expire.",
-                "The policy shift directly impacts high-volume import sectors by elevating compliance auditing duties and customs clearance friction across key trade lanes.",
-                "Trade compliance teams must rapidly re-evaluate supply chain origin documentation to mitigate potential seizure or punitive tariffs at entry ports.",
-                "Importers should anticipate increased customs holds and higher landed costs on goods originated from targeted manufacturing jurisdictions."
+                "A landmark $604 million nuclear verdict against C.H. Robinson establishes unprecedented vicarious liability for freight brokers hiring motor carriers.",
+                "The judicial outcome forces logistics intermediaries to radically overhaul carrier vetting frameworks and safety compliance audits across all domestic lanes.",
+                "Legal exposure is accelerating structural shifts toward direct carrier relationships and stricter automated safety scoring algorithms in freight selection.",
+                "Freight brokers must immediately tighten compliance controls or risk catastrophic financial exposure from third-party motor carrier accidents."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: APPEALS COURT DETENTION MANDATE",
+            "nextUpTease": "RAIL LOGISTICS: CMA CGM WITHDRAWS SNCF",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FMC: APPEALS COURT DETENTION MANDATE",
+            "heading": "RAIL LOGISTICS: CMA CGM WITHDRAWS SNCF",
             "points": [
-                "The U.S. Court of Appeals for the D.C. Circuit upheld the Federal Maritime Commission ruling that ocean container detention fees must promote freight fluidity.",
-                "Ocean carriers can no longer assess container detention charges during periods when port terminals are inaccessible or closed to truckers.",
-                "This landmark judicial ruling reinforces OSRA 2022 mandates designed to eliminate predatory ocean carrier billing practices during supply chain bottlenecks.",
-                "Shippers and drayage operators gain substantial legal leverage to dispute unjustified demurrage and detention invoices across all U.S. marine gateways."
+                "CMA CGM officially withdrew its acquisition bid for a forty-nine percent stake in Rail Logistics Europe from French rail provider Fret SNCF.",
+                "The decision halts projected ocean-rail intermodal integration plans across key Western European inland freight corridors.",
+                "Carrier strategies are pivoting away from heavy rail equity acquisitions toward flexible chartering and regional inland drayage partnerships.",
+                "European shippers should prepare for continued fragmentation in cross-border rail freight capacity and independent operator rate adjustments."
             ],
             "imageUrl": "",
-            "nextUpTease": "FRA: MEXICAN RAIL CREW STANDARDS",
+            "nextUpTease": "MANUFACTURING: US PMI SURGES TO 55.6%",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FRA: MEXICAN RAIL CREW STANDARDS",
+            "heading": "MANUFACTURING: US PMI SURGES TO 55.6%",
             "points": [
-                "The Federal Railroad Administration proposes stricter English language proficiency standards for Mexican rail crews operating trains into the United States.",
-                "Enhanced safety communication mandates aim to standardize cross-border rail operational protocols and reduce border interchange delays.",
-                "Increased regulatory oversight along southern rail gateways reflects growing freight volumes moving under expanded nearshoring initiatives.",
-                "Cross-border rail shippers should expect temporary operational adjustments as rail operators align crew certifications with new federal requirements."
+                "United States manufacturing output expanded to fifty-five point six in July, registering its strongest performance growth in four years.",
+                "Accelerating factory production generates strong demand recovery across less-than-truckload networks and industrial supply chains.",
+                "Sustained industrial growth is tightening regional carrier capacity while prompting transport operators to adjust pricing structures upward.",
+                "Industrial shippers must lock in contract freight rates early to safeguard operating budgets against impending peak season capacity crunches."
             ],
             "imageUrl": "",
-            "nextUpTease": "STATE REGULATION: NJ DYNAMIC PRICING BAN",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "STATE REGULATION: NJ DYNAMIC PRICING BAN",
-            "points": [
-                "New Jersey enacts legislation banning dynamic pricing practices and imposing a one-year moratorium on electronic shelf label implementations by retailers.",
-                "The statute halts real-time automated price adjustments across brick-and-mortar retail supply chain networks throughout the state.",
-                "State regulators aim to evaluate algorithmic pricing transparency and protect consumers from sudden intra-day retail price spikes.",
-                "Omnichannel retailers must adjust localized pricing architecture and re-evaluate automated inventory management technologies in regional distribution networks."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RAIL INFRASTRUCTURE: INFRARED INVESTMENT",
-            "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "RAIL INFRASTRUCTURE: INFRARED INVESTMENT",
-            "points": [
-                "InfraRed Capital Partners acquired a majority stake in Rail Modal Group to accelerate expansion across North American intermodal logistics terminals.",
-                "The capital infusion will expand inland rail hub connections and increase container handling capacity for intermodal freight networks.",
-                "Private equity investments in rail infrastructure reflect long-term capital shifts toward low-carbon, high-efficiency inland cargo transport solutions.",
-                "Intermodal shippers will benefit from expanded inland terminal options and improved rail-to-truck transfer efficiency across key freight corridors."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
+            "nextUpTease": "MARITIME SECURITY: HORMUZ ROUTE NEGOTIATIONS",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -92,35 +58,69 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
+            "id": 4,
+            "heading": "MARITIME SECURITY: HORMUZ ROUTE NEGOTIATIONS",
             "points": [
-                "Major international air cargo carriers are transitioning to bi-weekly jet fuel surcharge adjustments to combat ongoing global energy market volatility.",
-                "Long-haul freighter operators are rapidly passing escalating fuel costs directly to freight forwarders and global shippers.",
-                "Volatile jet fuel prices are forcing air freight operators to shorten rate validity windows to protect operational operating margins.",
-                "Air freight shippers must incorporate dynamic rate buffers into budget forecasts to manage unpredictable air transport expenditure swings."
+                "Iran and Oman are conducting bilateral negotiations to establish a temporary transit route through the Strait of Hormuz during regional conflicts.",
+                "The proposed diplomatic framework aims to secure critical energy and container vessel passages through high-risk Middle Eastern maritime choke points.",
+                "Commercial shipping lines remain vulnerable to sudden insurance premium spikes and geopolitical disruptions affecting global crude trade.",
+                "Ocean freight operators must maintain dynamic routing contingencies and adjust war risk surcharges as geopolitical discussions unfold."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING LABOR: FREEDOM HAULERS",
+            "nextUpTease": "POSTAL LOGISTICS: USPS RURAL RATE INCREASES",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychainbrain.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "POSTAL LOGISTICS: USPS RURAL RATE INCREASES",
+            "points": [
+                "The United States Postal Service implemented higher Ground Advantage package rates targeting lightweight deliveries sent to rural destinations.",
+                "Surcharges adding two to three dollars per shipment directly impact online marketplace sellers relying on cost-effective last-mile logistics.",
+                "Rate escalations reflect growing last-mile delivery costs across low-density geographical zones in domestic parcel networks.",
+                "E-commerce merchants must re-evaluate parcel carrier allocation and recalculate shipping margin thresholds for non-urban fulfillment."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "E-COMMERCE TARIFFS: AMAZON $600M REFUND",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "E-COMMERCE TARIFFS: AMAZON $600M REFUND",
+            "points": [
+                "Amazon began issuing targeted refunds from a six hundred million dollar pool to consumers affected by cross-border tariff adjustments.",
+                "The refund process highlights complex customs duty collection shifts across large-scale cross-border e-commerce import operations.",
+                "Marketplace platforms are forced to adapt automated customs compliance software to calculate fluctuating global tariff assessments accurately.",
+                "Cross-border sellers must align pricing models with dynamic duty structures to prevent unexpected administrative chargebacks."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRADE LITIGATION: 25 STATES SUE TARIFFS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRUCKING LABOR: FREEDOM HAULERS",
+            "heading": "TRADE LITIGATION: 25 STATES SUE TARIFFS",
             "points": [
-                "The Department of Transportation launched the Freedom Haulers initiative to streamline commercial driver's license pathways for military veterans.",
-                "The joint agency program accelerates veteran driver transition while pairing recruitment pushes with strict enforcement against non-domiciled CDL holders.",
-                "Federal efforts target core domestic trucking capacity shortfalls by integrating highly disciplined, skilled labor into interstate freight corridors.",
-                "Fleet operators will gain access to a qualified labor pool, supporting long-term driver retention and operational fleet stability across North America."
+                "A coalition of twenty-five U.S. states filed a lawsuit challenging federal emergency executive order authority used to levy international tariffs.",
+                "The legal challenge creates renewed regulatory uncertainty surrounding cross-border import duties and international trade policy enforcement.",
+                "Importers face volatile trade compliance standards as legal challenges proceed through federal court systems.",
+                "Supply chain executives should maintain agile sourcing models to navigate potential judicial stays or sudden tariff restructuring."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

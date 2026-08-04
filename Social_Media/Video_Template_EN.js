@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL LOGISTICS TRADE REFORMS",
+        "hookTitle": "GLOBAL FREIGHT LIABILITY SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "FMC: APPEALS COURT DETENTION MANDATE",
+                "headline": "FREIGHT BROKERAGE: $604M NEGLIGENT HIRING",
+                "teaserTitle": "RAIL LOGISTICS: CMA CGM WITHDRAWS SNCF",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR rolls out Section 301 forced labor tariffs on 60 trading partners, raising import compliance requirements."
+                "narration_line": "A landmark 604 million dollar negligent hiring verdict against C.H. Robinson forces brokers to overhaul motor carrier safety vetting."
             },
             {
                 "slide_index": 2,
-                "headline": "FMC: APPEALS COURT DETENTION MANDATE",
-                "teaserTitle": "FRA: MEXICAN RAIL CREW STANDARDS",
+                "headline": "RAIL LOGISTICS: CMA CGM WITHDRAWS SNCF",
+                "teaserTitle": "MANUFACTURING: US PMI SURGES TO 55.6%",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Appeals court confirms FMC decision that ocean carrier detention fees must promote freight fluidity and accessible terminal operations."
+                "narration_line": "CMA CGM has withdrawn its bid for France's Fret SNCF, reordering European ocean-rail intermodal expansion plans."
             },
             {
                 "slide_index": 3,
-                "headline": "FRA: MEXICAN RAIL CREW STANDARDS",
-                "teaserTitle": "STATE REGULATION: NJ DYNAMIC PRICING BAN",
+                "headline": "MANUFACTURING: US PMI SURGES TO 55.6%",
+                "teaserTitle": "MARITIME SECURITY: HORMUZ ROUTE NEGOTIATIONS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal Railroad Administration proposes stricter English language requirements for Mexican rail crews entering United States border gateways."
+                "narration_line": "United States manufacturing output surged to 55.6 in July, driving strong demand recovery across LTL freight networks."
             },
             {
                 "slide_index": 4,
-                "headline": "STATE REGULATION: NJ DYNAMIC PRICING BAN",
-                "teaserTitle": "RAIL INFRASTRUCTURE: INFRARED INVESTMENT",
+                "headline": "MARITIME SECURITY: HORMUZ ROUTE NEGOTIATIONS",
+                "teaserTitle": "POSTAL LOGISTICS: USPS RURAL RATE INCREASES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New Jersey bans retail dynamic pricing and pauses electronic shelf labels, disrupting real-time pricing logistics strategies."
+                "narration_line": "Iran and Oman negotiate a temporary Strait of Hormuz passage to safeguard vital energy and container transit corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL INFRASTRUCTURE: INFRARED INVESTMENT",
-                "teaserTitle": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
+                "headline": "POSTAL LOGISTICS: USPS RURAL RATE INCREASES",
+                "teaserTitle": "E-COMMERCE TARIFFS: AMAZON $600M REFUND",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "InfraRed Capital acquires majority stake in Rail Modal Group, expanding North American intermodal rail hub infrastructure."
+                "narration_line": "USPS raised Ground Advantage rates for rural deliveries, increasing last-mile shipping expenses for e-commerce merchants."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: BIWEEKLY FUEL SURCHARGES",
-                "teaserTitle": "TRUCKING LABOR: FREEDOM HAULERS",
+                "headline": "E-COMMERCE TARIFFS: AMAZON $600M REFUND",
+                "teaserTitle": "TRADE LITIGATION: 25 STATES SUE TARIFFS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Air cargo carriers shift to bi-weekly fuel surcharges to swiftly offset volatile global jet fuel pricing."
+                "narration_line": "Amazon initiates partial consumer tariff refunds from a 600 million dollar pool amid dynamic customs duty shifts."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING LABOR: FREEDOM HAULERS",
+                "headline": "TRADE LITIGATION: 25 STATES SUE TARIFFS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "DOT launches Freedom Haulers to fast-track military veterans into commercial trucking careers and boost fleet driver supply."
+                "narration_line": "Twenty-five states file a legal challenge against federal tariff actions, sparking renewed regulatory uncertainty for global importers."
             },
             {
                 "slide_index": 8,
