@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK DISRUPTIONS",
+        "hookTitle": "GLOBAL LOGISTICS TRADE SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME LOGISTICS: HORMUZ RELIABILITY IMPACTS",
-                "teaserTitle": "OCEAN FREIGHT: TRANSPACIFIC RATE SURGES",
+                "headline": "TARIFF POLICY: SECTION 301 LAWSUITS",
+                "teaserTitle": "WAREHOUSE AUTOMATION: AUTONOMOUS TRAILER LOADING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Strait of Hormuz transit delays and vessel rerouting continue to degrade ocean carrier schedule reliability across key trade lanes."
+                "narration_line": "Twenty-five US states have sued the federal government over Section 301 tariffs, creating new legal uncertainty for global importers."
             },
             {
                 "slide_index": 2,
-                "headline": "OCEAN FREIGHT: TRANSPACIFIC RATE SURGES",
-                "teaserTitle": "MANUFACTURING: ISM PMI EXPANSION",
+                "headline": "WAREHOUSE AUTOMATION: AUTONOMOUS TRAILER LOADING",
+                "teaserTitle": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Transpacific spot container rates rebound as ocean lines successfully implement rate hikes amid rising peak season demand."
+                "narration_line": "FedEx is expanding AI autonomous trailer loading pilots to optimize parcel density and accelerate hub throughput."
             },
             {
                 "slide_index": 3,
-                "headline": "MANUFACTURING: ISM PMI EXPANSION",
-                "teaserTitle": "SURFACE TRANSPORT: TRUCKLOAD CAPACITY CRUNCH",
+                "headline": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
+                "teaserTitle": "AEROSPACE LOGISTICS: LEAD TIME REDUCTIONS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "U.S. manufacturing PMI surges to fifty-five point six percent, driving elevated demand for industrial freight capacity."
+                "narration_line": "Retailers are selling pending tariff refund claims to secondary markets to secure immediate working capital."
             },
             {
                 "slide_index": 4,
-                "headline": "SURFACE TRANSPORT: TRUCKLOAD CAPACITY CRUNCH",
-                "teaserTitle": "POSTAL LOGISTICS: GROUND ADVANTAGE SURCHARGES",
+                "headline": "AEROSPACE LOGISTICS: LEAD TIME REDUCTIONS",
+                "teaserTitle": "PORT INFRASTRUCTURE: TERMINAL CAPACITY EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Domestic truckload capacity tightens significantly, driving spot rates higher as import volumes surge inland from ocean ports."
+                "narration_line": "GE Aerospace slashed engine lead times sixty percent by consolidating internal supply chain processes."
             },
             {
                 "slide_index": 5,
-                "headline": "POSTAL LOGISTICS: GROUND ADVANTAGE SURCHARGES",
-                "teaserTitle": "CUSTOMS COMPLIANCE: MANIFEST ENFORCEMENT MANDATES",
+                "headline": "PORT INFRASTRUCTURE: TERMINAL CAPACITY EXPANSION",
+                "teaserTitle": "EQUIPMENT MANUFACTURING: PORTLAND PLANT CLOSURE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "USPS Ground Advantage rate hikes add new surcharges on lightweight e-commerce shipments destined for rural delivery zones."
+                "narration_line": "HMM is investing one hundred thirty-five million dollars into Washington United Terminals to expand West Coast handling capacity."
             },
             {
                 "slide_index": 6,
-                "headline": "CUSTOMS COMPLIANCE: MANIFEST ENFORCEMENT MANDATES",
-                "teaserTitle": "AIR CARGO: JET FUEL SURCHARGES",
+                "headline": "EQUIPMENT MANUFACTURING: PORTLAND PLANT CLOSURE",
+                "teaserTitle": "LABOR RECRUITMENT: VETERAN CDL INITIATIVES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Customs agencies globally enforce stricter cargo manifest filing mandates to penalize misdeclaration and secure trade compliance."
+                "narration_line": "Daimler Truck North America will shutter its Portland plant by October to consolidate heavy-duty manufacturing."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: JET FUEL SURCHARGES",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "LABOR RECRUITMENT: VETERAN CDL INITIATIVES",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Air freight carriers initiate bi-weekly fuel surcharge updates to counter volatile jet fuel price increases on main haul lanes."
+                "narration_line": "The DOT launched Freedom Haulers to fast-track commercial driver licensing for military veterans."
             },
             {
                 "slide_index": 8,
