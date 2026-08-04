@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
-        "titleBlue": "REALIGNMENT",
-        "footerSummary": "Expiring trade policies, revised postal surcharges, and cross-border regulatory mandates impose immediate operational friction across international logistics networks."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "DISRUPTIONS",
+        "footerSummary": "Surging jet fuel surcharges, tightening truckload capacity, and Middle East maritime negotiations introduce compounding operational risks across global trade lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFFS",
+            "heading": "MARITIME LOGISTICS: HORMUZ RELIABILITY IMPACTS",
             "points": [
-                "The Office of the United States Trade Representative is initiating Section 301 tariffs targeting sixty trading partners following the expiration of Section 122 provisions.",
-                "The regulatory transition imposes forced labor-based duties across key international trade lanes to enforce strict cross-border supply chain transparency.",
-                "Importers face increased landed costs and heightened administrative compliance scrutiny on multi-origin manufacturing inputs.",
-                "Supply chain managers must audit global vendor networks immediately to mitigate compounding tariff liabilities."
+                "Ongoing maritime tensions in the Strait of Hormuz continue to degrade ocean carrier schedule reliability across major global trade lanes.",
+                "Data indicates vessel arrival delays ticked up sharply throughout the second quarter due to emergency rerouting and service adjustments.",
+                "Top global carriers are attempting to reconfigure loop schedules while high-level diplomatic talks aim to restore freedom of vessel movement.",
+                "Shippers must prepare for persistent transit time variance and potential spot surcharge adjustments on Asia-Europe and transpacific trades."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: EU ECOMMERCE LEVY",
+            "nextUpTease": "OCEAN FREIGHT: TRANSPACIFIC RATE SURGES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR FREIGHT: EU ECOMMERCE LEVY",
+            "heading": "OCEAN FREIGHT: TRANSPACIFIC RATE SURGES",
             "points": [
-                "The European Union has enforced new tariff levies on cross-border e-commerce imports, triggering a noticeable contraction in air freighter flight volumes.",
-                "Reduced cargo demand along high-volume Asia-Europe trade lanes is forcing freighter operators to consolidate flight schedules and adjust capacity.",
-                "E-commerce platforms operating direct-to-consumer fulfillment models face escalating transit costs and altered flight schedules.",
-                "Air freight forwarders should re-evaluate regional hub allocations to maintain optimal air cargo throughput."
+                "Transpacific spot container rates have rebounded significantly following successful general rate increase implementations by major ocean lines.",
+                "The Shanghai Containerized Freight Index reflected noticeable gains across both US West Coast and US East Coast destination routes.",
+                "Surging demand combined with early peak season cargo volumes has enabled carriers to enforce higher baseline freight charges.",
+                "Logistics planners are advised to secure capacity commitments early to mitigate exposure to volatile spot market rate spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: SEATTLE TERMINAL UPGRADE",
+            "nextUpTease": "MANUFACTURING: ISM PMI EXPANSION",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -42,49 +42,15 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "PORT INFRASTRUCTURE: SEATTLE TERMINAL UPGRADE",
+            "heading": "MANUFACTURING: ISM PMI EXPANSION",
             "points": [
-                "Ocean carrier HMM is allocating one hundred thirty-five million dollars to modernize Washington United Terminals at the Port of Seattle-Tacoma.",
-                "The terminal expansion project aims to boost container handling throughput capacity by fifty percent over current baseline limits.",
-                "Infrastructure enhancements will optimize intermodal rail connections and improve vessel discharge velocity across West Coast trade lanes.",
-                "Pacific Northwest shippers can anticipate reduced port dwell times and enhanced terminal fluidness upon completion."
+                "United States manufacturing activity accelerated rapidly in July as the Institute for Supply Management PMI reached fifty-five point six percent.",
+                "The benchmark reading represents a two point three percent sequential increase from June and marks the highest expansion rate in four years.",
+                "Expanded industrial output is driving elevated demand for raw material inflows and outbound intermodal freight movement.",
+                "Transportation networks must adapt capacity allocations to handle accelerating factory order volumes heading into the third quarter."
             ],
             "imageUrl": "",
-            "nextUpTease": "POSTAL LOGISTICS: HAZMAT NONCOMPLIANCE SURCHARGES",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "POSTAL LOGISTICS: HAZMAT NONCOMPLIANCE SURCHARGES",
-            "points": [
-                "The United States Postal Service has enacted mandatory hazmat noncompliance fees alongside increased Ground Advantage rates for commercial sellers.",
-                "Strict regulatory penalties target misdeclared household parcels containing regulated liquids, batteries, and essential chemical compounds.",
-                "E-commerce merchants face direct margin pressure and potential shipment holds for non-compliant package labeling.",
-                "Fulfillment operations must re-examine hazardous material cataloging systems to avoid penalty assessments."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "WAREHOUSE AUTOMATION: TRAILER LOADING ROBOTICS",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "WAREHOUSE AUTOMATION: TRAILER LOADING ROBOTICS",
-            "points": [
-                "FedEx is expanding its operational deployment of Dexterity autonomous trailer loading systems across major regional distribution hubs.",
-                "The robotic automation integration increases dock handling velocity while mitigating ongoing warehousing labor availability shortages.",
-                "Advanced computer vision and AI agents enable continuous parcel stacking inside outbound commercial trailers.",
-                "Logistics operators should benchmark robotic dock solutions to elevate overall facility throughput efficiency."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "EQUIPMENT MANUFACTURING: PORTLAND PLANT CLOSURE",
+            "nextUpTease": "SURFACE TRANSPORT: TRUCKLOAD CAPACITY CRUNCH",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -92,35 +58,69 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "EQUIPMENT MANUFACTURING: PORTLAND PLANT CLOSURE",
+            "id": 4,
+            "heading": "SURFACE TRANSPORT: TRUCKLOAD CAPACITY CRUNCH",
             "points": [
-                "Daimler Truck North America has announced plans to permanently cease production at its Portland manufacturing facility by late October.",
-                "The manufacturing consolidation reflects strategic adjustments in commercial vehicle assembly footprint and shifting regional demand.",
-                "Fleet operators face potential realignments in equipment delivery lead times and specialized vehicle component availability.",
-                "Transportation executives must monitor heavy-duty truck production schedules to secure necessary fleet replacement cycles."
+                "United States transportation market capacity contracted rapidly during July, maintaining elevated spot rate pressure across primary domestic freight corridors.",
+                "Higher import inflows at major ocean gateways are pushing port-adjacent spot truckload rates above national baseline averages.",
+                "Carrier exits and tighter equipment availability are compounding supply constraints as shippers compete for available long-haul trailer capacity.",
+                "Supply chain executives should anticipate sustained freight rate firming as August import surges move inland toward distribution centers."
             ],
             "imageUrl": "",
-            "nextUpTease": "CROSS-BORDER RAIL: CREW LANGUAGE STANDARDS",
+            "nextUpTease": "POSTAL LOGISTICS: GROUND ADVANTAGE SURCHARGES",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.freightwaves.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "POSTAL LOGISTICS: GROUND ADVANTAGE SURCHARGES",
+            "points": [
+                "The United States Postal Service has implemented targeted rate hikes across Ground Advantage commercial fulfillment services.",
+                "Regional pricing adjustments add two to three dollars in additional shipping costs for lightweight parcels routed to rural delivery locations.",
+                "E-commerce marketplace merchants operating tight fulfillment margins face increased outbound parcel spend across low-density residential zones.",
+                "Retail logistics teams must audit destination zip-code matrices to optimize carrier routing and limit rural delivery surcharges."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CUSTOMS COMPLIANCE: MANIFEST ENFORCEMENT MANDATES",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "CUSTOMS COMPLIANCE: MANIFEST ENFORCEMENT MANDATES",
+            "points": [
+                "International customs authorities are establishing stricter cargo manifest filing rules to combat systematic misdeclaration of imported commercial goods.",
+                "Enhanced regulatory compliance protocols require detailed commodity descriptions and origin verification prior to vessel loading.",
+                "Non-compliant shipments face immediate clearance holds, administrative fines, and heightened physical cargo inspection rates at gateway ports.",
+                "Global freight forwarders must enforce strict master bill validation procedures to maintain seamless cross-border customs clearance fluidity."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO: JET FUEL SURCHARGES",
+            "tags": [
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CROSS-BORDER RAIL: CREW LANGUAGE STANDARDS",
+            "heading": "AIR CARGO: JET FUEL SURCHARGES",
             "points": [
-                "The Federal Railroad Administration is seeking heightened English language proficiency mandates for Mexican rail crews operating in the U.S.",
-                "The regulatory initiative aims to standardize operational communication safety during cross-border freight train handoffs.",
-                "Rail carriers operating US-Mexico corridors may experience operational adjustments as crew qualification requirements undergo enforcement.",
-                "Cross-border shippers should track rail border interchange fluidity to prevent unexpected transit delays."
+                "International air freight carriers have transitioned to bi-weekly review cycles for variable fuel surcharges following sharp spikes in jet fuel.",
+                "Volatile energy markets are forcing long-haul freighter operators to pass fuel cost increases directly onto commercial shippers.",
+                "The sudden surcharge escalation comes as high-tech and semiconductor air cargo demand continues to strain available belly-hold capacity.",
+                "Air cargo buyers should integrate dynamic indexing into spot charter contracts to buffer against rapid fuel price fluctuations."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.cargonews.net",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT COMPLIANCE REALIGNMENT",
+        "hookTitle": "GLOBAL FREIGHT NETWORK DISRUPTIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "AIR FREIGHT: EU ECOMMERCE LEVY",
+                "headline": "MARITIME LOGISTICS: HORMUZ RELIABILITY IMPACTS",
+                "teaserTitle": "OCEAN FREIGHT: TRANSPACIFIC RATE SURGES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR initiates Section 301 tariffs on sixty trading partners following Section 122 expiration, elevating global compliance standards."
+                "narration_line": "Strait of Hormuz transit delays and vessel rerouting continue to degrade ocean carrier schedule reliability across key trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR FREIGHT: EU ECOMMERCE LEVY",
-                "teaserTitle": "PORT INFRASTRUCTURE: SEATTLE TERMINAL UPGRADE",
+                "headline": "OCEAN FREIGHT: TRANSPACIFIC RATE SURGES",
+                "teaserTitle": "MANUFACTURING: ISM PMI EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "New European Union import levies on e-commerce drive down air freighter flight volumes across primary Asia-Europe lanes."
+                "narration_line": "Transpacific spot container rates rebound as ocean lines successfully implement rate hikes amid rising peak season demand."
             },
             {
                 "slide_index": 3,
-                "headline": "PORT INFRASTRUCTURE: SEATTLE TERMINAL UPGRADE",
-                "teaserTitle": "POSTAL LOGISTICS: HAZMAT NONCOMPLIANCE SURCHARGES",
+                "headline": "MANUFACTURING: ISM PMI EXPANSION",
+                "teaserTitle": "SURFACE TRANSPORT: TRUCKLOAD CAPACITY CRUNCH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "HMM commits one hundred thirty-five million dollars to modernize Seattle's Washington United Terminals, boosting capacity by fifty percent."
+                "narration_line": "U.S. manufacturing PMI surges to fifty-five point six percent, driving elevated demand for industrial freight capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "POSTAL LOGISTICS: HAZMAT NONCOMPLIANCE SURCHARGES",
-                "teaserTitle": "WAREHOUSE AUTOMATION: TRAILER LOADING ROBOTICS",
+                "headline": "SURFACE TRANSPORT: TRUCKLOAD CAPACITY CRUNCH",
+                "teaserTitle": "POSTAL LOGISTICS: GROUND ADVANTAGE SURCHARGES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "USPS enforces hazmat noncompliance penalties and Ground Advantage rate increases, targeting misdeclared e-commerce parcels."
+                "narration_line": "Domestic truckload capacity tightens significantly, driving spot rates higher as import volumes surge inland from ocean ports."
             },
             {
                 "slide_index": 5,
-                "headline": "WAREHOUSE AUTOMATION: TRAILER LOADING ROBOTICS",
-                "teaserTitle": "EQUIPMENT MANUFACTURING: PORTLAND PLANT CLOSURE",
+                "headline": "POSTAL LOGISTICS: GROUND ADVANTAGE SURCHARGES",
+                "teaserTitle": "CUSTOMS COMPLIANCE: MANIFEST ENFORCEMENT MANDATES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "FedEx expands Dexterity autonomous trailer loading systems across hub facilities to resolve warehouse labor constraints."
+                "narration_line": "USPS Ground Advantage rate hikes add new surcharges on lightweight e-commerce shipments destined for rural delivery zones."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT MANUFACTURING: PORTLAND PLANT CLOSURE",
-                "teaserTitle": "CROSS-BORDER RAIL: CREW LANGUAGE STANDARDS",
+                "headline": "CUSTOMS COMPLIANCE: MANIFEST ENFORCEMENT MANDATES",
+                "teaserTitle": "AIR CARGO: JET FUEL SURCHARGES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Daimler Truck North America schedules the complete closure of its Portland manufacturing plant by late October."
+                "narration_line": "Customs agencies globally enforce stricter cargo manifest filing mandates to penalize misdeclaration and secure trade compliance."
             },
             {
                 "slide_index": 7,
-                "headline": "CROSS-BORDER RAIL: CREW LANGUAGE STANDARDS",
+                "headline": "AIR CARGO: JET FUEL SURCHARGES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Federal Railroad Administration proposes strict English proficiency standards for Mexican rail crews operating within the United States."
+                "narration_line": "Air freight carriers initiate bi-weekly fuel surcharge updates to counter volatile jet fuel price increases on main haul lanes."
             },
             {
                 "slide_index": 8,
