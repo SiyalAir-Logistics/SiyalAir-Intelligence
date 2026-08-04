@@ -27,27 +27,33 @@ jobs:
           pip install edge-tts
 
       - name: Install Node Dependencies
+        working-directory: ./Social_Media
         run: |
-          npm install ffmpeg-static ffprobe-static
+          npm install
 
-      - name: Force Static FFmpeg Binary Override
+      - name: Force Global FFmpeg Binary Symlink Override
         run: |
-          # Remove any apt or pre-existing node bin wrappers to prevent path conflicts
+          # 1. Install John Van Sickle's fully-featured static build globally
           sudo apt-get remove -y ffmpeg libavcodec-extra || true
-          rm -rf node_modules/ffmpeg-static/ffmpeg node_modules/ffmpeg-static/bin
-
-          # Download John Van Sickle's fully-featured static build directly into /usr/local/bin
           curl -L -O https://johnvansickle.com/ffmpeg/releases/ffmpeg-release-amd64-static.tar.xz
           tar -xf ffmpeg-release-amd64-static.tar.xz
           sudo mv ffmpeg-*-amd64-static/ffmpeg /usr/local/bin/
           sudo mv ffmpeg-*-amd64-static/ffprobe /usr/local/bin/
           sudo chmod +x /usr/local/bin/ffmpeg /usr/local/bin/ffprobe
 
-          # Ensure system fonts are available for drawtext filters
+          # 2. Provision system font packages
           sudo apt-get update && sudo apt-get install -y fontconfig libfontconfig1 fonts-dejavu-core
 
-          # Verify that drawtext is natively present in the active binary path (don't fail the step if grep returns non-zero)
-          ffmpeg -filters | grep drawtext || true
+          # 3. INTERCEPT AND OVERRIDE NODE_MODULES FFMPEG-STATIC BINARIES
+          # Instead of deleting them (which causes npm packages to recreate or fail resolution),
+          # we replace them with symlinks pointing directly to our global, fully-featured system binary.
+          mkdir -p node_modules/ffmpeg-static Social_Media/node_modules/ffmpeg-static
+          rm -f node_modules/ffmpeg-static/ffmpeg Social_Media/node_modules/ffmpeg-static/ffmpeg
+          ln -s /usr/local/bin/ffmpeg node_modules/ffmpeg-static/ffmpeg || true
+          ln -s /usr/local/bin/ffmpeg Social_Media/node_modules/ffmpeg-static/ffmpeg || true
+
+          # 4. Diagnostic check
+          ffmpeg -version
 
       - name: List Directory Contents for Debugging
         working-directory: ./Social_Media
@@ -57,6 +63,8 @@ jobs:
 
       - name: Run Video Generation Script
         working-directory: ./Social_Media
+        env:
+          CI: true
         run: |
           node generate_short.js
 
