@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE SUPPLY",
-        "titleBlue": "IMPACTS",
-        "footerSummary": "Section 301 expansions, jet fuel surcharges, cross-border rail standards, and carrier regulatory bills force immediate operational adjustments globally."
+        "titleWhite": "GLOBAL MARITIME FREIGHT",
+        "titleBlue": "RESILIENCE",
+        "footerSummary": "Federal courts uphold detention billing rules while carriers expand infrastructure investments to mitigate persistent global supply chain friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 EXPANSION",
+            "heading": "MARITIME: DETENTION FEE UPHOLDING",
             "points": [
-                "The Office of the United States Trade Representative announced forced-labor tariffs targeting sixty trading nations under Section 301.",
-                "The regulatory move replaces expiring Section 122 tariffs, shifting compliance frameworks toward strict labor auditing and import sourcing verification.",
-                "Importers must recalibrate origin documentation and duty drawback calculations to prevent sudden customs clearance holds at major ports of entry.",
-                "Enterprise trade compliance teams should audit tier-one and tier-two supplier networks to mitigate unexpected regulatory exposure."
+                "The U.S. Court of Appeals for the D.C. Circuit issued a decisive ruling upholding the Federal Maritime Commission mandate that detention and demurrage fees must actively promote freight fluidity.",
+                "The legal validation reinforces regulatory oversight on ocean carriers and marine terminal operators to prevent punitive billing practices during supply chain bottlenecks.",
+                "Importers and logistics providers can leverage the court-backed framework to contest unjustified container storage charges and streamline port gate operations.",
+                "Maritime stakeholders must audit historical detention invoices to identify potential recovery opportunities under the enforced federal compliance standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: FUEL SURCHARGE SPIKES",
+            "nextUpTease": "PORT INFRASTRUCTURE: CAPACITY EXPANSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR CARGO: FUEL SURCHARGE SPIKES",
+            "heading": "PORT INFRASTRUCTURE: CAPACITY EXPANSION",
             "points": [
-                "Major international air carriers are escalating jet fuel surcharges following persistent volatility across global energy markets.",
-                "Airlines have instituted bi-weekly surcharge adjustments to pass volatile jet fuel price spikes directly to freight forwarders and shippers.",
-                "The rapid rate adjustments complicate spot-market budgeting and force long-haul cargo operators to recalibrate peak season pricing models.",
-                "Global shippers must establish flexible air freight budget buffers and monitor jet fuel index shifts to maintain operational margin."
+                "Ocean carrier HMM is injecting one hundred thirty-five million dollars into Washington United Terminals to expand container handling capacity by fifty percent.",
+                "The capital project aims to elevate the competitive standing of Pacific Northwest gateways through advanced automation and optimized berth productivity.",
+                "Upgraded terminal operating systems will significantly reduce drayage truck turn times and alleviate congestion across regional distribution corridors.",
+                "Regional shippers should anticipate smoother cargo velocity and enhanced container availability as terminal modernization milestones are achieved."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: TERMINAL MODERNIZATION",
+            "nextUpTease": "AIR CARGO: FUEL SURCHARGE SHIFTS",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -42,15 +42,15 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "PORT INFRASTRUCTURE: TERMINAL MODERNIZATION",
+            "heading": "AIR CARGO: FUEL SURCHARGE SHIFTS",
             "points": [
-                "Ocean carrier HMM is allocating one hundred thirty-five million dollars to modernize Washington United Terminals in Seattle-Tacoma.",
-                "The infrastructure investment aims to expand container handling capacity by fifty percent and optimize berth productivity along the West Coast.",
-                "Upgraded crane automation and terminal gate operating systems will reduce drayage truck dwell times across the Pacific Northwest gateway.",
-                "Pacific Northwest importers will benefit from increased terminal throughput and reduced container congestion during peak volume surges."
+                "International air carriers are transitioning to bi-weekly jet fuel surcharge reviews to absorb persistent volatility across global energy markets.",
+                "The accelerated rate adjustment cycles force freight forwarders to recalculate spot-market quotes and adapt operating budgets rapidly.",
+                "Airlines are passing fuel cost spikes directly to customers as geopolitical conflicts continue to disrupt traditional crude supply routes.",
+                "Global supply chain managers must incorporate flexible air freight buffers to insulate operating margins from unpredictable fuel index swings."
             ],
             "imageUrl": "",
-            "nextUpTease": "CROSS-BORDER RAIL: CREW PROFICIENCY STANDARDS",
+            "nextUpTease": "TRUCKING: VETERAN RECRUITMENT CAMPAIGN",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -59,32 +59,15 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "CROSS-BORDER RAIL: CREW PROFICIENCY STANDARDS",
+            "heading": "TRUCKING: VETERAN RECRUITMENT CAMPAIGN",
             "points": [
-                "The Federal Railroad Administration proposed enhanced English language proficiency standards for Mexican rail crews operating inside United States borders.",
-                "The regulatory rule targets cross-border rail operations to improve communication clarity and operational safety across international interchange points.",
-                "Class I railroads must review crew certification protocols and implement standardized safety communication testing at border crossings.",
-                "Intermodal rail shippers should anticipate potential border interchange delays while rail operators align workforce compliance frameworks."
+                "The federal administration launched the Freedom Haulers initiative to streamline the transition of military veterans into commercial motor vehicle careers.",
+                "The interagency recruitment campaign pairs licensing expedites with rigorous enforcement sweeps against non-domiciled and unauthorized operators.",
+                "Long-haul motor carriers gain a structured, reliable talent pipeline to combat persistent driver turnover and fleet capacity constraints.",
+                "Fleet operators can leverage the veteran conversion program to stabilize driver headcount while strengthening overall highway safety compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING WORKFORCE: VETERAN CDL PIPELINE",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "TRUCKING WORKFORCE: VETERAN CDL PIPELINE",
-            "points": [
-                "The Department of Transportation launched the Freedom Haulers initiative to transition military veterans into commercial motor vehicle careers.",
-                "The interagency campaign streamlines commercial driver's license requirements while enforcing strict oversight against unauthorized driver operations.",
-                "The initiative provides long-haul motor carriers with a structured military recruiting pipeline to address persistent driver turnover.",
-                "Fleet managers can leverage veteran CDL conversion programs to stabilize driver capacity and improve fleet safety scores."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MOTOR CARRIER: CHAMELEON REGULATORY BILL",
+            "nextUpTease": "RAIL LOGISTICS: CROSS-BORDER STANDARDS",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
@@ -92,35 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MOTOR CARRIER: CHAMELEON REGULATORY BILL",
+            "id": 5,
+            "heading": "RAIL LOGISTICS: CROSS-BORDER STANDARDS",
             "points": [
-                "New federal legislation targeting rogue chameleon carriers has been introduced in the United States Senate to eliminate unsafe trucking operators.",
-                "The bill empowers transportation authorities to ban carriers that continuously shut down and re-register under new identities to evade enforcement.",
-                "Regulatory agencies will gain expanded digital tracking tools to detect shared operational assets and corporate ownership overlaps.",
-                "Freight brokers and shippers must upgrade carrier vetting protocols to ensure compliance with stricter federal carrier identity verification rules."
+                "The Federal Railroad Administration proposed stricter English language proficiency standards for Mexican rail crews operating within United States borders.",
+                "The regulatory proposal focuses on improving communication clarity and operational safety across critical international rail interchange points.",
+                "Class I railroads must update crew certification protocols and implement standardized safety communication testing at all border crossings.",
+                "Intermodal rail shippers should monitor potential border transit delays while rail operators align workforces with new federal mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE LOGISTICS: USPS RATE INCREASES",
+            "nextUpTease": "E-COMMERCE PARCEL: POSTAL RATE PRESSURES",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "E-COMMERCE PARCEL: POSTAL RATE PRESSURES",
+            "points": [
+                "The United States Postal Service implemented rate increases for Ground Advantage services utilized heavily by online marketplace sellers.",
+                "The postage adjustments directly elevate fulfillment expenses for high-volume merchants managing lightweight parcel shipments nationwide.",
+                "Digital retail platforms are updating integrated rate-shopping tools to help sellers navigate the rising cost of domestic last-mile delivery.",
+                "Direct-to-consumer brands should diversify multi-carrier parcel strategies to mitigate margin erosion caused by continuous postal adjustments."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "GLOBAL TRADE: TARIFF POLICY LITIGATION",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "E-COMMERCE LOGISTICS: USPS RATE INCREASES",
+            "heading": "GLOBAL TRADE: TARIFF POLICY LITIGATION",
             "points": [
-                "The United States Postal Service implemented package rate increases for Ground Advantage services utilized by online marketplace sellers.",
-                "The rate adjustments target lightweight parcel traffic, increasing fulfillment expenses for high-volume e-commerce merchants across national networks.",
-                "Digital marketplaces are updating rate-shopping tools and merchant shipping calculators to absorb the operational postage cost changes.",
-                "Direct-to-consumer brands should re-evaluate multi-carrier parcel strategies to minimize the margin impact of postal rate adjustments."
+                "A coalition of twenty-five states filed a formal lawsuit challenging the implementation of recent federal trade tariffs.",
+                "The legal challenge targets newly established duty frameworks as importers attempt to stabilize sourcing costs amidst regulatory uncertainty.",
+                "Supply chain executives must closely monitor judicial proceedings to anticipate potential customs duty refunds or sudden structural changes.",
+                "Enterprise compliance teams should maintain dynamic sourcing models capable of adapting to ongoing shifts in international trade law."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

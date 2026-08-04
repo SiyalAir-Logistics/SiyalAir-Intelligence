@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE SUPPLY IMPACTS",
+        "hookTitle": "GLOBAL MARITIME FREIGHT RESILIENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 EXPANSION",
-                "teaserTitle": "AIR CARGO: FUEL SURCHARGE SPIKES",
+                "headline": "MARITIME: DETENTION FEE UPHOLDING",
+                "teaserTitle": "PORT INFRASTRUCTURE: CAPACITY EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR implemented new Section 301 tariffs targeting sixty trading nations under strict forced labor compliance rules."
+                "narration_line": "Federal courts uphold maritime commission rules ensuring detention fees promote freight fluidity."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO: FUEL SURCHARGE SPIKES",
-                "teaserTitle": "PORT INFRASTRUCTURE: TERMINAL MODERNIZATION",
+                "headline": "PORT INFRASTRUCTURE: CAPACITY EXPANSION",
+                "teaserTitle": "AIR CARGO: FUEL SURCHARGE SHIFTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Air cargo carriers are adjusting jet fuel surcharges bi-weekly to pass energy market volatility directly to shippers."
+                "narration_line": "Carrier investments in terminal modernization expand container handling capacity across Pacific gateways."
             },
             {
                 "slide_index": 3,
-                "headline": "PORT INFRASTRUCTURE: TERMINAL MODERNIZATION",
-                "teaserTitle": "CROSS-BORDER RAIL: CREW PROFICIENCY STANDARDS",
+                "headline": "AIR CARGO: FUEL SURCHARGE SHIFTS",
+                "teaserTitle": "TRUCKING: VETERAN RECRUITMENT CAMPAIGN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "HMM is investing 135 million dollars to expand Seattle terminal capacity by fifty percent and reduce drayage bottlenecks."
+                "narration_line": "International air carriers shift to bi-weekly jet fuel surcharge reviews amid energy volatility."
             },
             {
                 "slide_index": 4,
-                "headline": "CROSS-BORDER RAIL: CREW PROFICIENCY STANDARDS",
-                "teaserTitle": "TRUCKING WORKFORCE: VETERAN CDL PIPELINE",
+                "headline": "TRUCKING: VETERAN RECRUITMENT CAMPAIGN",
+                "teaserTitle": "RAIL LOGISTICS: CROSS-BORDER STANDARDS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Federal regulators proposed stricter English language standards for Mexican rail crews operating inside United States border corridors."
+                "narration_line": "New federal initiatives streamline veteran transitions into commercial trucking careers to ease driver shortages."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING WORKFORCE: VETERAN CDL PIPELINE",
-                "teaserTitle": "MOTOR CARRIER: CHAMELEON REGULATORY BILL",
+                "headline": "RAIL LOGISTICS: CROSS-BORDER STANDARDS",
+                "teaserTitle": "E-COMMERCE PARCEL: POSTAL RATE PRESSURES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The DOT launched Freedom Haulers to streamline commercial driver licensing for military veterans entering the freight industry."
+                "narration_line": "Rail regulators propose enhanced communication standards for cross-border freight crews."
             },
             {
                 "slide_index": 6,
-                "headline": "MOTOR CARRIER: CHAMELEON REGULATORY BILL",
-                "teaserTitle": "E-COMMERCE LOGISTICS: USPS RATE INCREASES",
+                "headline": "E-COMMERCE PARCEL: POSTAL RATE PRESSURES",
+                "teaserTitle": "GLOBAL TRADE: TARIFF POLICY LITIGATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New Senate legislation targets chameleon carriers that shut down and re-register under new names to escape federal sanctions."
+                "narration_line": "Postal rate increases for lightweight parcel services challenge e-commerce fulfillment margins."
             },
             {
                 "slide_index": 7,
-                "headline": "E-COMMERCE LOGISTICS: USPS RATE INCREASES",
+                "headline": "GLOBAL TRADE: TARIFF POLICY LITIGATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Postal Service raised Ground Advantage rates for e-commerce sellers, increasing lightweight parcel fulfillment costs nationwide."
+                "narration_line": "State coalitions challenge new trade tariffs in court as importers seek duty stability."
             },
             {
                 "slide_index": 8,
