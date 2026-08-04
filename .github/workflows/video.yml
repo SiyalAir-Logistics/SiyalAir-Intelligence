@@ -23,9 +23,9 @@ jobs:
 
       - name: Initialize Environment & Install System Dependencies
         run: |
-          # 1. Update package lists and install a fully-featured FFmpeg directly via apt (or robust static fallback)
+          # 1. Install reliable FFmpeg, FFprobe, and font dependencies natively via apt
           sudo apt-get update
-          sudo apt-get install -y ffmpeg fontconfig libfontconfig1 fonts-dejavu-core xz-utils
+          sudo apt-get install -y ffmpeg fontconfig libfontconfig1 fonts-dejavu-core
 
           # 2. Install Python voice synthesis package
           python -m pip install --upgrade pip
@@ -45,14 +45,19 @@ jobs:
 
       - name: Enforce Universal Binary Symlink Mapping
         run: |
-          # Ensure local runner ffmpeg maps correctly
-          which ffmpeg
+          # Map local wrappers to robust system binaries to prevent missing module runtime errors
           mkdir -p Social_Media/node_modules/ffmpeg-static
+          mkdir -p Social_Media/node_modules/ffprobe-static
+          
           ln -sf $(which ffmpeg) Social_Media/node_modules/ffmpeg-static/ffmpeg
+          ln -sf $(which ffprobe) Social_Media/node_modules/ffprobe-static/ffprobe
+          
           chmod +x Social_Media/node_modules/ffmpeg-static/ffmpeg || true
+          chmod +x Social_Media/node_modules/ffprobe-static/ffprobe || true
 
           echo "=== VALIDATING RENDERER CAPABILITIES ==="
           ffmpeg -version
+          ffprobe -version
           ffmpeg -filters | grep drawtext || true
 
       - name: Execute Automated Video Production Script
