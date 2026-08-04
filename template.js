@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "REALIGNMENT",
-        "footerSummary": "Strait of Hormuz negotiations, FMC regulatory rulings, and European inland waterway constraints trigger immediate multi-modal supply chain adjustments."
+        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleBlue": "RESTRUCTURING",
+        "footerSummary": "Expanding Section 301 forced-labor enforcement, automated trailer loading rollouts, and secondary tariff refund monetization accelerate global supply chain operational restructuring."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: HORMUZ ROUTE NEGOTIATIONS",
+            "heading": "TRADE COMPLIANCE: SECTION 301 MANDATE",
             "points": [
-                "Iran and Oman are establishing formal bilateral negotiations to negotiate temporary safe commercial shipping corridors through the Strait of Hormuz.",
-                "The operational framework targets reducing geopolitical transit risks for energy carriers and commercial container fleets without requiring direct U.S. intervention.",
-                "Ocean carriers operating key East-West trade lanes continue adjusting routing parameters while monitoring regional security protocols along the Persian Gulf.",
-                "Supply chain executives must evaluate potential marine insurance premium shifts as clear navigational guarantees emerge from regional negotiations."
+                "The Office of the United States Trade Representative is initiating Section 301 tariff mandates targeting sixty partner nations as Section 122 measures expire.",
+                "Enforcement protocols specifically prioritize auditing supply chain vulnerability to forced labor while imposing stringent cross-border tariff assessments.",
+                "Importers operating across affected international trade corridors must adjust compliance documentation to prevent costly port delays and product seizures.",
+                "Enterprise procurement teams should audit tier-two supplier networks immediately to ensure complete alignment with revised U.S. trade policy."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: FMC DETENTION FEE RULING",
+            "nextUpTease": "AUTOMATION: ROBOTIC TRAILER LOADING",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATION: FMC DETENTION FEE RULING",
+            "heading": "AUTOMATION: ROBOTIC TRAILER LOADING",
             "points": [
-                "The U.S. Court of Appeals for the D.C. Circuit officially upheld the Federal Maritime Commission ruling regarding ocean carrier detention billing practices.",
-                "The judicial mandate dictates that detention and demurrage charges must strictly serve to incentivize freight fluidity rather than function as revenue streams.",
-                "Ocean common carriers and marine terminal operators face strict enforcement rules prohibiting non-compliant fee assessments during operational port bottlenecks.",
-                "Importers and NVOCCs should review active invoice dispute workflows to reclaim improperly assessed demurrage fees under validated FMC standards."
+                "FedEx and robotics developer Dexterity are expanding AI-driven autonomous trailer loading systems across key hub locations in Maryland.",
+                "The automated freight loading architecture handles complex package sorting to optimize cubic space utilization and decrease dock processing times.",
+                "Integrating intelligent robotic loading into parcel hubs directly addresses regional dock labor constraints while enhancing throughput velocity.",
+                "Logistics operators are expected to accelerate capital expenditure toward autonomous hub technology to maintain competitive fulfillment costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: EUROPEAN RHINE BOTTLENECKS",
+            "nextUpTease": "WAREHOUSING: AUTONOMOUS DRONE COUNTS",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INLAND WATERWAYS: EUROPEAN RHINE BOTTLENECKS",
+            "heading": "WAREHOUSING: AUTONOMOUS DRONE COUNTS",
             "points": [
-                "Water levels along key segments of the Rhine and Danube rivers have dropped near historic lows following sustained high temperatures across Western Europe.",
-                "Barge operators are enforcing severe weight restrictions on cargo loads, reducing active vessel intake capacity by up to forty percent along critical hubs.",
-                "Inland freight movement connecting Northern European sea ports to central industrial manufacturing hubs faces rising transit delays and surcharge pressures.",
-                "Logistics managers routing containerized goods into Central Europe must diversify transport modes toward rail intermodal channels to maintain schedule integrity."
+                "Retail distributor GNC has deployed autonomous inventory drones across its major four-hundred-fifty-thousand-square-foot distribution center footprint.",
+                "The aerial cycle-counting system automates high-bay inventory verification, eliminating manual material handling operations and safety hazards.",
+                "Real-time automated scanning significantly increases inventory accuracy metrics while reducing physical labor overhead across large-scale facilities.",
+                "Distribution center managers should evaluate autonomous indoor aerial monitoring to streamline stock auditing without halting operational workflow."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: AI HARDWARE VOLUME SURGE",
+            "nextUpTease": "FULFILLMENT: AUTOMATED REVERSE LOGISTICS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR FREIGHT: AI HARDWARE VOLUME SURGE",
+            "heading": "FULFILLMENT: AUTOMATED REVERSE LOGISTICS",
             "points": [
-                "Lufthansa Cargo achieved a twenty-seven percent quarterly revenue expansion driven by soaring global demand for artificial intelligence hardware transport.",
-                "High-value semiconductor shipments and electronics components originating across Asia-Pacific manufacturing hubs continue consuming premium transpacific and transatlantic air capacity.",
-                "Air freight operators are strategically reallocating freighter aircraft allocations toward technology corridors to capture elevated yield opportunities.",
-                "Enterprise electronics shippers must secure locked block space agreements early to safeguard export schedules ahead of peak autumn product rollouts."
+                "ITS Logistics and Caraway Home launched a custom reverse logistics platform incorporating automated live rate-shopping tools for omnichannel returns.",
+                "The operational framework optimizes customer returns management while capturing parcel rate savings across nationwide delivery networks.",
+                "Automated return workflows enable e-commerce merchants to mitigate inventory depreciation by accelerating secondary market disposition.",
+                "Retail supply chain leaders must adopt dynamic reverse routing algorithms to minimize margin erosion caused by rising return shipping costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL RISK: BROKER VICARIOUS LIABILITY",
+            "nextUpTease": "PORT INFRASTRUCTURE: CONTAINER TERMINAL UPGRADE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LEGAL RISK: BROKER VICARIOUS LIABILITY",
+            "heading": "PORT INFRASTRUCTURE: CONTAINER TERMINAL UPGRADE",
             "points": [
-                "A landmark legal judgment resulting in a six hundred four million dollar verdict against C.H. Robinson has intensified vicarious liability risks for freight brokers.",
-                "The court decision establishes stricter standards of care for third-party logistics providers when onboarding, vetting, and dispatching motor carriers.",
-                "Brokerages across North America are adjusting carrier compliance verification protocols to mitigate massive legal exposure stemming from highway accidents.",
-                "Freight intermediaries must audit carrier safety monitoring systems immediately to ensure rigorous compliance checking before assigning load tenders."
+                "Ocean carrier CMA CGM established a dedicated joint venture focused on comprehensive container port modernization and terminal infrastructure upgrades.",
+                "The strategic capital initiative targets expanding berth handling capacities and deploying advanced automated container handling equipment globally.",
+                "Upgraded port infrastructure mitigates severe vessel dwell times and enhances intermodal freight connectivity across primary marine gateways.",
+                "Maritime shippers will benefit from improved schedule reliability as modernized container terminals absorb surging seasonal import volumes."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "nextUpTease": "FREIGHT LABOR: VETERAN DRIVER INTEGRATION",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "heading": "FREIGHT LABOR: VETERAN DRIVER INTEGRATION",
             "points": [
-                "Latest commercial real estate market reports from Colliers reveal North American industrial warehouse vacancy rates stabilizing at seven point three percent.",
-                "Net industrial space absorption is outpacing new construction deliveries as developers curtail speculative logistics park completions across major warehousing hubs.",
-                "Stabilizing vacancy rates reflect steady warehouse demand driven by omnichannel fulfillment expansion and regional inventory positioning efforts.",
-                "Fulfillment operators seeking prime logistics real estate should execute facility lease renewals promptly before tightening space drives rental rates higher."
+                "The U.S. Department of Transportation launched the Freedom Haulers initiative to streamline commercial driver licensing pathways for military veterans.",
+                "The recruitment program combines expedited CDL certification pathways with strict regulatory enforcement against non-domiciled commercial truck drivers.",
+                "Expanding domestic driver pools provides structural relief to long-haul carrier capacity constraints while enforcing highway safety standards.",
+                "Fleet operations managers should leverage veteran transition programs to secure qualified driving talent ahead of anticipated peak season volume."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: RAIL MODAL INFRASTRUCTURE EXPANSION",
+            "nextUpTease": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INTERMODAL: RAIL MODAL INFRASTRUCTURE EXPANSION",
+            "heading": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
             "points": [
-                "InfraRed Capital Partners acquired a controlling majority stake in Rail Modal Group to accelerate intermodal infrastructure development across inland logistics hubs.",
-                "The capital investment will expand specialized rail ramp facilities, intermodal transfer capabilities, and direct container connectivity across midwestern manufacturing centers.",
-                "Enhanced intermodal hub capacity supports long-term supply chain decarbonization while offering cost-effective alternatives to long-haul over-the-road trucking.",
-                "Shifting ocean freight volumes into expanded inland rail networks will enable shippers to optimize inland transit reliability and lower overall logistics costs."
+                "Major apparel and consumer retailers are selling off rights to pending U.S. trade tariff refunds to capitalize immediate working capital.",
+                "A specialized secondary financial market has emerged, permitting corporate importers to liquidate long-term government refund claims at a discount.",
+                "Monetizing tariff receivables provides crucial liquidity for inventory procurement amid ongoing global trade volatility and tariff shifts.",
+                "Corporate financial officers should explore non-recourse tariff claim monetization options to convert delayed regulatory assets into active cash flow."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK REALIGNMENT",
+        "hookTitle": "GLOBAL TRADE TARIFF RESTRUCTURING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: HORMUZ ROUTE NEGOTIATIONS",
-                "teaserTitle": "REGULATION: FMC DETENTION FEE RULING",
+                "headline": "TRADE COMPLIANCE: SECTION 301 MANDATE",
+                "teaserTitle": "AUTOMATION: ROBOTIC TRAILER LOADING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Iran and Oman advance negotiations for safe transit corridors through the Strait of Hormuz, stabilizing regional maritime energy flows."
+                "narration_line": "USTR implements Section 301 forced-labor tariffs on sixty nations to enforce strict cross-border compliance."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: FMC DETENTION FEE RULING",
-                "teaserTitle": "INLAND WATERWAYS: EUROPEAN RHINE BOTTLENECKS",
+                "headline": "AUTOMATION: ROBOTIC TRAILER LOADING",
+                "teaserTitle": "WAREHOUSING: AUTONOMOUS DRONE COUNTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The US Court of Appeals upholds FMC rules requiring detention fees to strictly promote freight fluidity across ocean gateways."
+                "narration_line": "FedEx and Dexterity expand autonomous trailer loading robotics to accelerate hub parcel throughput."
             },
             {
                 "slide_index": 3,
-                "headline": "INLAND WATERWAYS: EUROPEAN RHINE BOTTLENECKS",
-                "teaserTitle": "AIR FREIGHT: AI HARDWARE VOLUME SURGE",
+                "headline": "WAREHOUSING: AUTONOMOUS DRONE COUNTS",
+                "teaserTitle": "FULFILLMENT: AUTOMATED REVERSE LOGISTICS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Record low water levels along European rivers force barge capacity reductions, disrupting inland cargo movement across key industrial corridors."
+                "narration_line": "GNC deploys indoor inventory drones across massive facilities to automate high-bay cycle counting."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR FREIGHT: AI HARDWARE VOLUME SURGE",
-                "teaserTitle": "LEGAL RISK: BROKER VICARIOUS LIABILITY",
+                "headline": "FULFILLMENT: AUTOMATED REVERSE LOGISTICS",
+                "teaserTitle": "PORT INFRASTRUCTURE: CONTAINER TERMINAL UPGRADE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Lufthansa Cargo revenues jump twenty-seven percent behind strong demand for artificial intelligence hardware and semiconductor shipments from Asia."
+                "narration_line": "ITS Logistics launches dynamic reverse logistics software to lower e-commerce return shipping costs."
             },
             {
                 "slide_index": 5,
-                "headline": "LEGAL RISK: BROKER VICARIOUS LIABILITY",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "headline": "PORT INFRASTRUCTURE: CONTAINER TERMINAL UPGRADE",
+                "teaserTitle": "FREIGHT LABOR: VETERAN DRIVER INTEGRATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A historic six hundred four million dollar verdict against CH Robinson heightens vicarious liability and carrier selection standards for brokers."
+                "narration_line": "CMA CGM forms a joint venture targeting global container port modernization and infrastructure expansion."
             },
             {
                 "slide_index": 6,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
-                "teaserTitle": "INTERMODAL: RAIL MODAL INFRASTRUCTURE EXPANSION",
+                "headline": "FREIGHT LABOR: VETERAN DRIVER INTEGRATION",
+                "teaserTitle": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "North American industrial warehouse vacancy rates stabilize at seven point three percent as market demand catches up with new logistics supply."
+                "narration_line": "The Department of Transportation launches Freedom Haulers to transition military veterans into commercial trucking."
             },
             {
                 "slide_index": 7,
-                "headline": "INTERMODAL: RAIL MODAL INFRASTRUCTURE EXPANSION",
+                "headline": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "InfraRed Capital Partners buys a majority stake in Rail Modal Group to expand inland rail ramps and accelerate intermodal infrastructure deployment."
+                "narration_line": "Retailers monetized pending tariff refund claims via secondary markets to secure immediate working capital."
             },
             {
                 "slide_index": 8,
