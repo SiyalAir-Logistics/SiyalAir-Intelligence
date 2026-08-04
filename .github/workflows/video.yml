@@ -30,10 +30,21 @@ jobs:
         run: |
           npm install ffmpeg-static ffprobe-static
 
+      - name: List Directory Contents for Debugging
+        working-directory: ./Social_Media
+        run: |
+          pwd
+          ls -la
+
       - name: Run Video Generation Script
         working-directory: ./Social_Media
         run: |
           node generate_short.js
+
+      - name: List Output Files for Verification
+        working-directory: ./Social_Media
+        run: |
+          ls -la *.mp4
 
       - name: Upload Video Artifact
         uses: actions/upload-artifact@v4
