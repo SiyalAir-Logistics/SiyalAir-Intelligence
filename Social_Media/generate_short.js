@@ -620,8 +620,15 @@ async function buildShortFromTemplate(templatePath) {
 // ==========================================
 async function runMainTemplateQueue() {
     console.log("🔍 Scanning workspace for matching template files...");
+    
+    // UPDATED MATCH PATTERN: Added 'template_news' matching rule so dynamic workflows detect JSON/JS templates seamlessly.
     const files = fs.readdirSync(__dirname);
-    const templateFiles = files.filter(file => file.endsWith('.js') && (file.includes('template') || file.includes('shorts') || file.includes('Video_Template')));
+    const templateFiles = files.filter(file => file.endsWith('.js') && (
+        file.includes('template') || 
+        file.includes('shorts') || 
+        file.includes('Video_Template') ||
+        file.includes('template_news')
+    ));
 
     for (const file of templateFiles) {
         try {
