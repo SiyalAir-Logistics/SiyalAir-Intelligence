@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL LOGISTICS TRADE SHIFTS",
+        "hookTitle": "GLOBAL FREIGHT NETWORK DISRUPTIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFF POLICY: SECTION 301 LAWSUITS",
-                "teaserTitle": "WAREHOUSE AUTOMATION: AUTONOMOUS TRAILER LOADING",
+                "headline": "AIR FREIGHT: LUFTHANSA REVENUE SURGE",
+                "teaserTitle": "INLAND WATERWAYS: RHINE WATER LEVEL DROPS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Twenty-five US states have sued the federal government over Section 301 tariffs, creating new legal uncertainty for global importers."
+                "narration_line": "Lufthansa Cargo Q2 profit surged fifty-eight percent as high-tech AI demand overwhelms Asia air capacity."
             },
             {
                 "slide_index": 2,
-                "headline": "WAREHOUSE AUTOMATION: AUTONOMOUS TRAILER LOADING",
-                "teaserTitle": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
+                "headline": "INLAND WATERWAYS: RHINE WATER LEVEL DROPS",
+                "teaserTitle": "MARITIME LAW: FMC DETENTION RULE UPHELD",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "FedEx is expanding AI autonomous trailer loading pilots to optimize parcel density and accelerate hub throughput."
+                "narration_line": "Rhine River water levels fell to historic lows, triggering barge load restrictions across major European supply corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
-                "teaserTitle": "AEROSPACE LOGISTICS: LEAD TIME REDUCTIONS",
+                "headline": "MARITIME LAW: FMC DETENTION RULE UPHELD",
+                "teaserTitle": "OCEAN FREIGHT: TRANSPACIFIC RATE INCREASES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Retailers are selling pending tariff refund claims to secondary markets to secure immediate working capital."
+                "narration_line": "Federal courts upheld FMC rules mandating detention fees promote cargo movement rather than carrier revenue."
             },
             {
                 "slide_index": 4,
-                "headline": "AEROSPACE LOGISTICS: LEAD TIME REDUCTIONS",
-                "teaserTitle": "PORT INFRASTRUCTURE: TERMINAL CAPACITY EXPANSION",
+                "headline": "OCEAN FREIGHT: TRANSPACIFIC RATE INCREASES",
+                "teaserTitle": "POSTAL LOGISTICS: USPS GROUND RATE HIKE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "GE Aerospace slashed engine lead times sixty percent by consolidating internal supply chain processes."
+                "narration_line": "Transpacific container lines successfully pushed rate hikes as front-loading shippers strain peak season vessel space."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT INFRASTRUCTURE: TERMINAL CAPACITY EXPANSION",
-                "teaserTitle": "EQUIPMENT MANUFACTURING: PORTLAND PLANT CLOSURE",
+                "headline": "POSTAL LOGISTICS: USPS GROUND RATE HIKE",
+                "teaserTitle": "E-COMMERCE: EBAY DEPOP CONSOLIDATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "HMM is investing one hundred thirty-five million dollars into Washington United Terminals to expand West Coast handling capacity."
+                "narration_line": "USPS raised Ground Advantage rates while introducing strict noncompliance fees for hazardous material parcel shipments."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT MANUFACTURING: PORTLAND PLANT CLOSURE",
-                "teaserTitle": "LABOR RECRUITMENT: VETERAN CDL INITIATIVES",
+                "headline": "E-COMMERCE: EBAY DEPOP CONSOLIDATION",
+                "teaserTitle": "MOTOR CARRIERS: NON-DOMICILED CDL REFORMS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Daimler Truck North America will shutter its Portland plant by October to consolidate heavy-duty manufacturing."
+                "narration_line": "eBay completed its Depop acquisition to streamline reverse logistics and secondary apparel marketplace fulfillment networks."
             },
             {
                 "slide_index": 7,
-                "headline": "LABOR RECRUITMENT: VETERAN CDL INITIATIVES",
-                "teaserTitle": "",
+                "headline": "MOTOR CARRIERS: NON-DOMICILED CDL REFORMS",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The DOT launched Freedom Haulers to fast-track commercial driver licensing for military veterans."
+                "narration_line": "Federal enforcement sweeps targeted non-domiciled commercial driver licenses, tightening domestic trucking capacity nationwide."
             },
             {
                 "slide_index": 8,

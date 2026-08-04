@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS TRADE",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "State legal challenges, autonomous dock integrations, and strategic port investments are reshaping global trade compliance and domestic carrier capacity."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "DISRUPTIONS",
+        "footerSummary": "Rhine river low-water bottlenecks, FMC detention fee legal wins, and federal CDL enforcement sweeps are reshaping global freight execution."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFF POLICY: SECTION 301 LAWSUITS",
+            "heading": "AIR FREIGHT: LUFTHANSA REVENUE SURGE",
             "points": [
-                "Twenty-five US states have filed a lawsuit against new forced-labor Section 301 tariffs targeting sixty trading partners.",
-                "The litigation claims administrative levies circumvent a Supreme Court ruling that invalidated prior emergency economic trade measures.",
-                "Importers face renewed cost complexity and administrative friction as legal challenges contest enforcement mechanisms across primary trade corridors.",
-                "Logistics directors must maintain dual-track compliance strategies to manage potential tariff refund claims and ongoing duty collection exposure."
+                "Lufthansa Cargo reported a fifty-eight percent surge in second-quarter operating profit driven by booming semiconductor and artificial intelligence hardware exports.",
+                "Logistics revenue increased twenty-seven percent year-over-year as Asia-Pacific export demand continues to outpace available belly capacity.",
+                "High-tech manufacturing supply chains are leaning heavily on premium air transport to bypass ocean corridor disruptions.",
+                "Global freight forwarders should anticipate sustained high air spot rates across Asia-to-Europe trade lanes through peak season."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSE AUTOMATION: AUTONOMOUS TRAILER LOADING",
+            "nextUpTease": "INLAND WATERWAYS: RHINE WATER LEVEL DROPS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "WAREHOUSE AUTOMATION: AUTONOMOUS TRAILER LOADING",
+            "heading": "INLAND WATERWAYS: RHINE WATER LEVEL DROPS",
             "points": [
-                "FedEx is expanding its pilot program with robotics developer Dexterity to deploy AI-powered autonomous trailer loading systems at major hubs.",
-                "The robotic platform automates dock operations by dynamically handling variable parcel sizes to optimize interior trailer wall density.",
-                "Modernizing dock logistics aims to cut parcel handling costs while increasing throughput speed across high-density package sorting facilities.",
-                "Warehouse operators are projected to accelerate autonomous dock deployments to offset chronic labor shortages in hub fulfillment centers."
+                "Water levels along the Rhine and Danube rivers in Western Germany sank to historic lows following extreme European heatwaves.",
+                "Barge operators are applying low-water surcharges and restricting cargo intake to prevent vessel groundings on critical industrial waterways.",
+                "Shallow river conditions threaten central European supply chains that rely heavily on barge transit for raw materials and chemicals.",
+                "Logistics directors must immediately re-route urgent industrial shipments toward European rail and road networks to protect throughput."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
+            "nextUpTease": "MARITIME LAW: FMC DETENTION RULE UPHELD",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
+            "heading": "MARITIME LAW: FMC DETENTION RULE UPHELD",
             "points": [
-                "A secondary capital market has emerged enabling enterprise retailers to sell rights to pending federal tariff refund claims.",
-                "Brands including American Eagle Outfitters are monetizing trade refund claims to secure immediate working capital ahead of peak seasonal inventory builds.",
-                "Financial intermediaries are purchasing trade litigation claims at a discount to provide liquidity while legal disputes navigate federal courts.",
-                "Supply chain executives should evaluate claim monetization strategies to unlock trapped working capital bound up in regulatory trade disputes."
+                "The US Court of Appeals upheld the Federal Maritime Commission ruling requiring detention and demurrage fees to directly promote freight fluidity.",
+                "The landmark judicial decision validates regulatory limits on ocean carriers penalizing importers during terminal congestion beyond shipper control.",
+                "Federal oversight is shifting container line billing structures toward transparent, incentive-based operational compliance standards.",
+                "Importers and NVOCCs gain powerful legal standing to challenge unwarranted port demurrage charges across all US marine terminals."
             ],
             "imageUrl": "",
-            "nextUpTease": "AEROSPACE LOGISTICS: LEAD TIME REDUCTIONS",
+            "nextUpTease": "OCEAN FREIGHT: TRANSPACIFIC RATE INCREASES",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AEROSPACE LOGISTICS: LEAD TIME REDUCTIONS",
+            "heading": "OCEAN FREIGHT: TRANSPACIFIC RATE INCREASES",
             "points": [
-                "GE Aerospace achieved a sixty percent reduction in engine manufacturing lead times through aggressive supply chain consolidation and workflow streamlining.",
-                "The operational overhaul eliminated transport distance during production, significantly increasing quarterly jet engine deliveries across commercial aviation sectors.",
-                "Consolidating component logistics and reducing internal material transit footprint is stabilizing production schedules amid global supplier volatility.",
-                "Industrial manufacturers are expected to replicate internal logistics consolidation models to buffer against tier-two supply chain bottlenecks."
+                "Major ocean carriers successfully instituted general rate increases across primary transpacific container trade corridors.",
+                "Spot rates rebounded sharply as front-loading tactics by North American importers quickly absorbed available vessel capacity.",
+                "Container lines are actively managing vessel deployments and blank sailings to establish higher spot rate floors ahead of autumn peak.",
+                "Enterprise shippers must secure fixed contract allocations early to protect profit margins against escalating spot surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: TERMINAL CAPACITY EXPANSION",
+            "nextUpTease": "POSTAL LOGISTICS: USPS GROUND RATE HIKE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PORT INFRASTRUCTURE: TERMINAL CAPACITY EXPANSION",
+            "heading": "POSTAL LOGISTICS: USPS GROUND RATE HIKE",
             "points": [
-                "Ocean carrier HMM is investing one hundred thirty-five million dollars into Washington United Terminals to expand Pacific Northwest port capacity.",
-                "The infrastructure commitment will boost container handling throughput by fifty percent to support growing transpacific import volumes.",
-                "Upgrading terminal equipment and expanding yard capacity directly mitigates vessel dwell times across key West Coast trade gateways.",
-                "Importers utilizing Pacific Northwest corridors will gain improved schedule reliability as expanded terminal operations come online."
+                "The United States Postal Service instituted updated Ground Advantage parcel rates and launched strict noncompliance fees for hazardous goods.",
+                "E-commerce merchants face elevated fulfillment overhead on lightweight domestic shipments across major online marketplaces.",
+                "Enforcement mechanisms for hazmat labeling now impose direct financial penalties on non-compliant merchant parcels at hub sorting centers.",
+                "Online sellers must update multi-carrier delivery routing rules to prevent margin compression on low-value consumer shipments."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT MANUFACTURING: PORTLAND PLANT CLOSURE",
+            "nextUpTease": "E-COMMERCE: EBAY DEPOP CONSOLIDATION",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EQUIPMENT MANUFACTURING: PORTLAND PLANT CLOSURE",
+            "heading": "E-COMMERCE: EBAY DEPOP CONSOLIDATION",
             "points": [
-                "Daimler Truck North America announced plans to close its Portland manufacturing facility by the end of October.",
-                "The plant shuttering reflects ongoing structural adjustments in heavy-duty commercial vehicle production as manufacturers align output with market demand.",
-                "Consolidating production footprints alters regional equipment supply dynamics for commercial fleets seeking new Class 8 power units.",
-                "Fleet procurement managers must adjust equipment replacement timelines as commercial vehicle manufacturing shifts toward centralized assembly centers."
+                "eBay finalized its 1.4 billion dollar acquisition of Depop to consolidate secondary fashion commerce and cross-border trade pipelines.",
+                "The transaction combines parcel fulfillment infrastructure while expanding integrated reverse logistics programs across North American and European markets.",
+                "Platform integration aims to unlock operational efficiencies across regional authentication facilities and high-volume parcel carrier contracts.",
+                "Third-party sellers will gain access to streamlined international label generation and unified cross-border returns processing."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR RECRUITMENT: VETERAN CDL INITIATIVES",
+            "nextUpTease": "MOTOR CARRIERS: NON-DOMICILED CDL REFORMS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LABOR RECRUITMENT: VETERAN CDL INITIATIVES",
+            "heading": "MOTOR CARRIERS: NON-DOMICILED CDL REFORMS",
             "points": [
-                "The US Department of Transportation launched the Freedom Haulers program to streamline commercial driver licensing for military veterans.",
-                "The interagency initiative shortens recruitment pipelines while federal regulators step up enforcement against non-domiciled commercial drivers.",
-                "Accelerating veteran integration into domestic freight networks addresses long-term driver shortages while enforcing strict licensing compliance.",
-                "Motor carriers adopting veteran recruitment pipelines will strengthen workforce stability and lower training onboarding overhead."
+                "Federal transportation agencies initiated targeted roadside enforcement sweeps affecting over 194,000 non-domiciled commercial driver licenses.",
+                "Multi-state safety blitzes resulted in immediate out-of-service orders for unauthorized commercial drivers and non-compliant equipment.",
+                "Intensified regulatory oversight is removing non-compliant operators and tightening active motor carrier driver supply across domestic lanes.",
+                "Freight brokers must strengthen onboarding verification protocols to mitigate liability risks associated with uncertified motor carrier fleets."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
