@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT PIPELINE ADAPTATION",
+        "hookTitle": "GLOBAL FREIGHT COMPLIANCE REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME ROUTING: HORMUZ TRANSIT AGREEMENT",
-                "teaserTitle": "AUTOMOTIVE LOGISTICS: DOMESTIC MEMORY BUFFERS",
+                "headline": "USTR: SECTION 301 TARIFFS",
+                "teaserTitle": "AIR FREIGHT: EU ECOMMERCE LEVY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Iran and Oman negotiate a temporary Strait of Hormuz transit route, offering ocean freight operators potential relief from escalating Middle East disruptions."
+                "narration_line": "USTR initiates Section 301 tariffs on sixty trading partners following Section 122 expiration, elevating global compliance standards."
             },
             {
                 "slide_index": 2,
-                "headline": "AUTOMOTIVE LOGISTICS: DOMESTIC MEMORY BUFFERS",
-                "teaserTitle": "RETAIL LOGISTICS: ELECTRONIC PRICE MORATORIUM",
+                "headline": "AIR FREIGHT: EU ECOMMERCE LEVY",
+                "teaserTitle": "PORT INFRASTRUCTURE: SEATTLE TERMINAL UPGRADE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "General Motors accelerates domestic production investments and direct semiconductor inventory sourcing to insulate vehicle manufacturing supply chains from overseas disruption."
+                "narration_line": "New European Union import levies on e-commerce drive down air freighter flight volumes across primary Asia-Europe lanes."
             },
             {
                 "slide_index": 3,
-                "headline": "RETAIL LOGISTICS: ELECTRONIC PRICE MORATORIUM",
-                "teaserTitle": "CUSTOMS COMPLIANCE: KENYA MANIFEST ENFORCEMENT",
+                "headline": "PORT INFRASTRUCTURE: SEATTLE TERMINAL UPGRADE",
+                "teaserTitle": "POSTAL LOGISTICS: HAZMAT NONCOMPLIANCE SURCHARGES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "New Jersey enacts a landmark ban on dynamic pricing and electronic shelf labels, forcing retail logistics operators to restructure store technology compliance."
+                "narration_line": "HMM commits one hundred thirty-five million dollars to modernize Seattle's Washington United Terminals, boosting capacity by fifty percent."
             },
             {
                 "slide_index": 4,
-                "headline": "CUSTOMS COMPLIANCE: KENYA MANIFEST ENFORCEMENT",
-                "teaserTitle": "FREIGHT BROKERAGE: NUCLEAR VERDICT CHALLENGE",
+                "headline": "POSTAL LOGISTICS: HAZMAT NONCOMPLIANCE SURCHARGES",
+                "teaserTitle": "WAREHOUSE AUTOMATION: TRAILER LOADING ROBOTICS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Kenya Customs enforces stricter cargo manifest rules, requiring ocean lines and air forwarders to submit precise documentation to eliminate misdeclarations."
+                "narration_line": "USPS enforces hazmat noncompliance penalties and Ground Advantage rate increases, targeting misdeclared e-commerce parcels."
             },
             {
                 "slide_index": 5,
-                "headline": "FREIGHT BROKERAGE: NUCLEAR VERDICT CHALLENGE",
-                "teaserTitle": "FINANCIAL SERVICES: PAYPAL SELLER OVERHAUL",
+                "headline": "WAREHOUSE AUTOMATION: TRAILER LOADING ROBOTICS",
+                "teaserTitle": "EQUIPMENT MANUFACTURING: PORTLAND PLANT CLOSURE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "C.H. Robinson appeals a six hundred four million dollar negligent-hiring verdict, challenging broker liability standards across North American freight markets."
+                "narration_line": "FedEx expands Dexterity autonomous trailer loading systems across hub facilities to resolve warehouse labor constraints."
             },
             {
                 "slide_index": 6,
-                "headline": "FINANCIAL SERVICES: PAYPAL SELLER OVERHAUL",
-                "teaserTitle": "FREIGHT INFRASTRUCTURE: GEORGIA DEDICATED LANES",
+                "headline": "EQUIPMENT MANUFACTURING: PORTLAND PLANT CLOSURE",
+                "teaserTitle": "CROSS-BORDER RAIL: CREW LANGUAGE STANDARDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "PayPal sunsets seller profiles and updates commercial terms, forcing e-commerce merchants to align checkout systems with restructured dispute resolution protocols."
+                "narration_line": "Daimler Truck North America schedules the complete closure of its Portland manufacturing plant by late October."
             },
             {
                 "slide_index": 7,
-                "headline": "FREIGHT INFRASTRUCTURE: GEORGIA DEDICATED LANES",
+                "headline": "CROSS-BORDER RAIL: CREW LANGUAGE STANDARDS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Georgia constructs forty-one miles of toll-free truck-only lanes on I-75, significantly enhancing freight velocity and corridor throughput across southeastern trade routes."
+                "narration_line": "The Federal Railroad Administration proposes strict English proficiency standards for Mexican rail crews operating within the United States."
             },
             {
                 "slide_index": 8,
