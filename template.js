@@ -1,73 +1,107 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Court mandates, geopolitical maritime detours, state tariff challenges, and massive legal liability exposure force urgent operational and risk realignments globally."
+        "titleWhite": "GLOBAL TRADE SUPPLY",
+        "titleBlue": "IMPACTS",
+        "footerSummary": "Section 301 expansions, jet fuel surcharges, cross-border rail standards, and carrier regulatory bills force immediate operational adjustments globally."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC REGULATION: DETENTION FEE RULING",
+            "heading": "USTR: SECTION 301 EXPANSION",
             "points": [
-                "The US Court of Appeals upheld the Federal Maritime Commission decision enforcing strict rules on container demurrage and detention charges.",
-                "Ocean carriers can no longer assess penalties unless fees directly incentivize the rapid movement and fluidity of freight through port terminals.",
-                "The judicial ruling strengthens legal remedies for importers and logistics intermediaries challenging unjustified ocean carrier detention invoices.",
-                "Cargo owners should audit historical carrier demurrage billing and align dispute procedures with updated federal compliance standards."
+                "The Office of the United States Trade Representative announced forced-labor tariffs targeting sixty trading nations under Section 301.",
+                "The regulatory move replaces expiring Section 122 tariffs, shifting compliance frameworks toward strict labor auditing and import sourcing verification.",
+                "Importers must recalibrate origin documentation and duty drawback calculations to prevent sudden customs clearance holds at major ports of entry.",
+                "Enterprise trade compliance teams should audit tier-one and tier-two supplier networks to mitigate unexpected regulatory exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME ROUTING: HORMUZ BYPASS DEAL",
+            "nextUpTease": "AIR CARGO: FUEL SURCHARGE SPIKES",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME ROUTING: HORMUZ BYPASS DEAL",
+            "heading": "AIR CARGO: FUEL SURCHARGE SPIKES",
             "points": [
-                "Iran and Oman initiated direct diplomatic negotiations to establish temporary transit arrangements around the conflict-disrupted Strait of Hormuz.",
-                "Severe maritime security threats in the corridor have disrupted ocean schedule reliability and triggered escalating war-risk shipping surcharges.",
-                "The proposed temporary routing framework seeks to maintain vital energy and container vessel flow without direct United States diplomatic intervention.",
-                "Global supply chain managers must recalculate transit lead times and maintain contingency routing for Middle East ocean freight lanes."
+                "Major international air carriers are escalating jet fuel surcharges following persistent volatility across global energy markets.",
+                "Airlines have instituted bi-weekly surcharge adjustments to pass volatile jet fuel price spikes directly to freight forwarders and shippers.",
+                "The rapid rate adjustments complicate spot-market budgeting and force long-haul cargo operators to recalibrate peak season pricing models.",
+                "Global shippers must establish flexible air freight budget buffers and monitor jet fuel index shifts to maintain operational margin."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE LITIGATION: 25-STATE TARIFF LAWSUIT",
+            "nextUpTease": "PORT INFRASTRUCTURE: TERMINAL MODERNIZATION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE LITIGATION: 25-STATE TARIFF LAWSUIT",
+            "heading": "PORT INFRASTRUCTURE: TERMINAL MODERNIZATION",
             "points": [
-                "A coalition of twenty-five states filed a federal lawsuit challenging the administration's newly implemented global import tariff structure.",
-                "The legal filing alleges administrative overreach following previous judicial rulings that invalidated emergency economic trade measures.",
-                "Ongoing legal battles introduce regulatory uncertainty for importers recalibrating sourcing strategies and duty drawback calculations.",
-                "Enterprise trade compliance teams should track tariff litigation developments while maintaining flexible tariff mitigation frameworks in R&D."
+                "Ocean carrier HMM is allocating one hundred thirty-five million dollars to modernize Washington United Terminals in Seattle-Tacoma.",
+                "The infrastructure investment aims to expand container handling capacity by fifty percent and optimize berth productivity along the West Coast.",
+                "Upgraded crane automation and terminal gate operating systems will reduce drayage truck dwell times across the Pacific Northwest gateway.",
+                "Pacific Northwest importers will benefit from increased terminal throughput and reduced container congestion during peak volume surges."
             ],
             "imageUrl": "",
-            "nextUpTease": "BROKERAGE RISK: $604M NEGLIGENT VERDICT",
+            "nextUpTease": "CROSS-BORDER RAIL: CREW PROFICIENCY STANDARDS",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "BROKERAGE RISK: $604M NEGLIGENT VERDICT",
+            "heading": "CROSS-BORDER RAIL: CREW PROFICIENCY STANDARDS",
             "points": [
-                "C.H. Robinson announced an appeal against a landmark six hundred four million dollar negligent-hiring verdict involving motor carrier selection.",
-                "The ruling imposes severe vicarious liability risks on third-party logistics providers and freight brokers handling domestic truckload shipments.",
-                "Intermediaries are overhauling motor carrier vetting protocols and tightening compliance benchmarks to mitigate exposure to nuclear court verdicts.",
-                "Shippers and brokers must elevate carrier safety audits and refine contractual indemnification terms across all transportation agreements."
+                "The Federal Railroad Administration proposed enhanced English language proficiency standards for Mexican rail crews operating inside United States borders.",
+                "The regulatory rule targets cross-border rail operations to improve communication clarity and operational safety across international interchange points.",
+                "Class I railroads must review crew certification protocols and implement standardized safety communication testing at border crossings.",
+                "Intermodal rail shippers should anticipate potential border interchange delays while rail operators align workforce compliance frameworks."
             ],
             "imageUrl": "",
-            "nextUpTease": "DUTY RECOVERY: AMAZON TARIFF REFUNDS",
+            "nextUpTease": "TRUCKING WORKFORCE: VETERAN CDL PIPELINE",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "TRUCKING WORKFORCE: VETERAN CDL PIPELINE",
+            "points": [
+                "The Department of Transportation launched the Freedom Haulers initiative to transition military veterans into commercial motor vehicle careers.",
+                "The interagency campaign streamlines commercial driver's license requirements while enforcing strict oversight against unauthorized driver operations.",
+                "The initiative provides long-haul motor carriers with a structured military recruiting pipeline to address persistent driver turnover.",
+                "Fleet managers can leverage veteran CDL conversion programs to stabilize driver capacity and improve fleet safety scores."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MOTOR CARRIER: CHAMELEON REGULATORY BILL",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MOTOR CARRIER: CHAMELEON REGULATORY BILL",
+            "points": [
+                "New federal legislation targeting rogue chameleon carriers has been introduced in the United States Senate to eliminate unsafe trucking operators.",
+                "The bill empowers transportation authorities to ban carriers that continuously shut down and re-register under new identities to evade enforcement.",
+                "Regulatory agencies will gain expanded digital tracking tools to detect shared operational assets and corporate ownership overlaps.",
+                "Freight brokers and shippers must upgrade carrier vetting protocols to ensure compliance with stricter federal carrier identity verification rules."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "E-COMMERCE LOGISTICS: USPS RATE INCREASES",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
@@ -75,52 +109,18 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "DUTY RECOVERY: AMAZON TARIFF REFUNDS",
-            "points": [
-                "Amazon began issuing partial tariff refunds totaling six hundred million dollars to consumers under specific import adjustment scenarios.",
-                "The payout program follows administrative revisions to cross-border duty assessments and e-commerce marketplace import compliance rules.",
-                "Direct-to-consumer platforms face growing accounting complexity as international duty regulations and de minimis thresholds face continuous reform.",
-                "E-commerce brands must automate cross-border duty calculation software to prevent unexpected tariff liability during peak shopping seasons."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "HUB AUTOMATION: AUTONOMOUS TRAILER LOADING",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "HUB AUTOMATION: AUTONOMOUS TRAILER LOADING",
-            "points": [
-                "FedEx expanded its pilot program for autonomous trailer loading systems across major regional parcel distribution and sorting facilities.",
-                "The robotic technology automates package placement inside outbound trailers, reducing manual labor constraints and improving trailer volume density.",
-                "Automated loading solutions mark a critical step toward fully autonomous dock operations in high-throughput distribution networks.",
-                "Logistics facility operators should evaluate autonomous materials handling integrations to optimize dock labor costs and transit turn times."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RAIL FREIGHT: CMA CGM BID WITHDRAWAL",
-            "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "RAIL FREIGHT: CMA CGM BID WITHDRAWAL",
+            "heading": "E-COMMERCE LOGISTICS: USPS RATE INCREASES",
             "points": [
-                "CMA CGM officially withdrew its bid to acquire a forty-nine percent stake in France's largest rail freight operator, Fret SNCF.",
-                "The strategic retreat alters European intermodal freight consolidation plans as ocean carriers re-evaluate hinterland rail asset ownership.",
-                "Rail freight operations across Western Europe face ongoing restructuring as private capital shifts toward diversified logistics investments.",
-                "European shippers should monitor intermodal rail capacity availability and diversify inland container transport options across key corridors."
+                "The United States Postal Service implemented package rate increases for Ground Advantage services utilized by online marketplace sellers.",
+                "The rate adjustments target lightweight parcel traffic, increasing fulfillment expenses for high-volume e-commerce merchants across national networks.",
+                "Digital marketplaces are updating rate-shopping tools and merchant shipping calculators to absorb the operational postage cost changes.",
+                "Direct-to-consumer brands should re-evaluate multi-carrier parcel strategies to minimize the margin impact of postal rate adjustments."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

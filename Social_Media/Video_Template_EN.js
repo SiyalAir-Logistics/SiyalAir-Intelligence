@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK SHIFTS",
+        "hookTitle": "GLOBAL TRADE SUPPLY IMPACTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FMC REGULATION: DETENTION FEE RULING",
-                "teaserTitle": "MARITIME ROUTING: HORMUZ BYPASS DEAL",
+                "headline": "USTR: SECTION 301 EXPANSION",
+                "teaserTitle": "AIR CARGO: FUEL SURCHARGE SPIKES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Federal courts upheld FMC rules restricting carrier detention fees strictly to cases promoting freight fluidity across ports."
+                "narration_line": "The USTR implemented new Section 301 tariffs targeting sixty trading nations under strict forced labor compliance rules."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME ROUTING: HORMUZ BYPASS DEAL",
-                "teaserTitle": "TRADE LITIGATION: 25-STATE TARIFF LAWSUIT",
+                "headline": "AIR CARGO: FUEL SURCHARGE SPIKES",
+                "teaserTitle": "PORT INFRASTRUCTURE: TERMINAL MODERNIZATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Iran and Oman are negotiating temporary transit routes around the Strait of Hormuz to sustain Middle East ocean freight fluidity."
+                "narration_line": "Air cargo carriers are adjusting jet fuel surcharges bi-weekly to pass energy market volatility directly to shippers."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE LITIGATION: 25-STATE TARIFF LAWSUIT",
-                "teaserTitle": "BROKERAGE RISK: $604M NEGLIGENT VERDICT",
+                "headline": "PORT INFRASTRUCTURE: TERMINAL MODERNIZATION",
+                "teaserTitle": "CROSS-BORDER RAIL: CREW PROFICIENCY STANDARDS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Twenty-five states filed a lawsuit challenging federal import tariffs, creating renewed trade policy uncertainty for importers."
+                "narration_line": "HMM is investing 135 million dollars to expand Seattle terminal capacity by fifty percent and reduce drayage bottlenecks."
             },
             {
                 "slide_index": 4,
-                "headline": "BROKERAGE RISK: $604M NEGLIGENT VERDICT",
-                "teaserTitle": "DUTY RECOVERY: AMAZON TARIFF REFUNDS",
+                "headline": "CROSS-BORDER RAIL: CREW PROFICIENCY STANDARDS",
+                "teaserTitle": "TRUCKING WORKFORCE: VETERAN CDL PIPELINE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "C.H. Robinson is appealing a six hundred million dollar negligent hiring verdict that reshapes freight broker liability."
+                "narration_line": "Federal regulators proposed stricter English language standards for Mexican rail crews operating inside United States border corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "DUTY RECOVERY: AMAZON TARIFF REFUNDS",
-                "teaserTitle": "HUB AUTOMATION: AUTONOMOUS TRAILER LOADING",
+                "headline": "TRUCKING WORKFORCE: VETERAN CDL PIPELINE",
+                "teaserTitle": "MOTOR CARRIER: CHAMELEON REGULATORY BILL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon initiated six hundred million dollars in consumer tariff refunds following adjusted cross-border import compliance rules."
+                "narration_line": "The DOT launched Freedom Haulers to streamline commercial driver licensing for military veterans entering the freight industry."
             },
             {
                 "slide_index": 6,
-                "headline": "HUB AUTOMATION: AUTONOMOUS TRAILER LOADING",
-                "teaserTitle": "RAIL FREIGHT: CMA CGM BID WITHDRAWAL",
+                "headline": "MOTOR CARRIER: CHAMELEON REGULATORY BILL",
+                "teaserTitle": "E-COMMERCE LOGISTICS: USPS RATE INCREASES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FedEx expands autonomous trailer loading technology across hub facilities to maximize parcel volume density and operational efficiency."
+                "narration_line": "New Senate legislation targets chameleon carriers that shut down and re-register under new names to escape federal sanctions."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL FREIGHT: CMA CGM BID WITHDRAWAL",
+                "headline": "E-COMMERCE LOGISTICS: USPS RATE INCREASES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "CMA CGM withdrew its bid for France rail freight operator Fret SNCF, reshaping European intermodal transport strategies."
+                "narration_line": "The Postal Service raised Ground Advantage rates for e-commerce sellers, increasing lightweight parcel fulfillment costs nationwide."
             },
             {
                 "slide_index": 8,
