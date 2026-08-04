@@ -15,21 +15,11 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
-          cache-dependency-path: '**/package-lock.json'
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-
-      - name: Cache Python Dependencies
-        uses: actions/cache@v4
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-edge-tts-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
 
       - name: Install Python Voice Dependencies (Edge-TTS)
         run: |
@@ -39,33 +29,18 @@ jobs:
       - name: Locate and Install Node Dependencies
         run: |
           echo "=== SCANNING REPOSITORY FOR PACKAGE.JSON FILES ==="
-          find . -name "package.json" -not -path "*/node_modules/*"
-
-          # If package.json is nested inside Social_Media or root, handle it dynamically
-          if [ -f "package.json" ]; then
-            echo "Installing root node modules..."
-            npm install
-          fi
-
+          
           if [ -f "Social_Media/package.json" ]; then
-            echo "Installing Social_Media node modules..."
+            echo "Found Social_Media/package.json, installing dependencies..."
             cd Social_Media
             npm install
             cd ..
-          elif [ -f "package.json" ] && [ ! -d "Social_Media" ]; then
-            echo "Working directly from root workspace."
+          elif [ -f "package.json" ]; then
+            echo "Found root package.json, installing root dependencies..."
+            npm install
           else
-            # Fallback search if path is different
-            TARGET_DIR=$(find . -name "package.json" -not -path "*/node_modules/*" -exec dirname {} \; | head -n 1)
-            if [ -n "$TARGET_DIR" ] && [ "$TARGET_DIR" != "." ]; then
-              echo "Found package.json in dynamic path: $TARGET_DIR"
-              cd "$TARGET_DIR"
-              npm install
-              cd -
-            else
-              echo "CRITICAL ERROR: Could not find any valid package.json file in the repository tree!"
-              exit 1
-            fi
+            echo "CRITICAL ERROR: Could not find any valid package.json file!"
+            exit 1
           fi
 
       - name: Force Global FFmpeg Binary Symlink Override & Font Provisioning
@@ -86,32 +61,33 @@ jobs:
           # 3. Provision system fonts
           sudo apt-get update && sudo apt-get install -y fontconfig libfontconfig1 fonts-dejavu-core
 
-          # 4. Enforce local node module wrapper overrides
-          TARGET_DIR=$(find . -name "generate_short.js" -not -path "*/node_modules/*" -exec dirname {} \; | head -n 1)
-          if [ -n "$TARGET_DIR" ]; then
-            mkdir -p "$TARGET_DIR/node_modules/ffmpeg-static"
-            rm -f "$TARGET_DIR/node_modules/ffmpeg-static/ffmpeg"
-            ln -s /usr/local/bin/ffmpeg "$TARGET_DIR/node_modules/ffmpeg-static/ffmpeg" || true
+          # 4. Enforce local node module wrapper overrides safely
+          if [ -d "Social_Media" ]; then
+            mkdir -p Social_Media/node_modules/ffmpeg-static
+            rm -f Social_Media/node_modules/ffmpeg-static/ffmpeg
+            ln -s /usr/local/bin/ffmpeg Social_Media/node_modules/ffmpeg-static/ffmpeg || true
           fi
           
           mkdir -p node_modules/ffmpeg-static
           rm -f node_modules/ffmpeg-static/ffmpeg
           ln -s /usr/local/bin/ffmpeg node_modules/ffmpeg-static/ffmpeg || true
 
-          # 5. Validation
+          # 5. Validation check
           ffmpeg -version
 
       - name: Execute Video Generation Pipeline
         env:
           CI: true
         run: |
-          TARGET_DIR=$(find . -name "generate_short.js" -not -path "*/node_modules/*" -exec dirname {} \; | head -n 1)
-          if [ -n "$TARGET_DIR" ]; then
-            echo "Executing script from directory: $TARGET_DIR"
-            cd "$TARGET_DIR"
+          if [ -d "Social_Media" ] && [ -f "Social_Media/generate_short.js" ]; then
+            echo "Executing script from Social_Media directory..."
+            cd Social_Media
+            node generate_short.js
+          elif [ -f "generate_short.js" ]; then
+            echo "Executing script from root directory..."
             node generate_short.js
           else
-            echo "Error: generate_short.js not found anywhere in repository tree."
+            echo "Error: generate_short.js not found."
             exit 1
           fi
 
