@@ -1,22 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "RECONFIGURATION",
-        "footerSummary": "Escalating legal liabilities, Middle East transit re-routing, and automated freight scaling demand immediate operational restructuring across global transport networks."
+        "titleWhite": "GLOBAL SUPPLY CHAIN",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "Revised tariff enforcement, surging air fuel surcharges, and cross-border rail compliance mandates demand immediate operational risk mitigation across trade corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "RAIL FREIGHT: CMA CGM CANCELS BID",
+            "heading": "USTR: SECTION 301 TARIFFS",
             "points": [
-                "Ocean carrier CMA CGM officially confirmed the withdrawal of its bid to acquire a forty-nine percent stake in French rail freight operator Rail Logistics Europe.",
-                "The decision marks a strategic pivot away from state-backed rail freight acquisition while redirecting capital toward direct terminal and vessel assets.",
-                "Rail carrier restructuring will alter intermodal integration strategies across European inland transport corridors for major ocean shipping lines.",
-                "Shippers relying on European rail freight must monitor shifting carrier partnerships to ensure consistent inland container throughput across key gateways."
+                "The Office of the United States Trade Representative confirmed the implementation of revised Section 301 tariffs across sixty trading nations following the expiration of Section 122 duties.",
+                "The trade policy adjustments explicitly target supply chains flagged for forced labor non-compliance, imposing immediate tariff penalties at US ports of entry.",
+                "Importers must execute comprehensive supply chain mapping and origin tracing protocols to verify trade compliance and avoid customs enforcement holds.",
+                "Logistics managers should audit overseas vendor compliance documentation to prevent supply chain bottlenecks and severe duty penalties at domestic entry points."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME ROUTING: IRAN OMAN HORMUZ DEAL",
+            "nextUpTease": "USPS: MARKETPLACE RATE HIKE",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "USPS: MARKETPLACE RATE HIKE",
+            "points": [
+                "The United States Postal Service implemented immediate rate increases for Ground Advantage services impacting major e-commerce platforms and marketplace merchants.",
+                "Surcharges on lightweight package shipments to rural destinations rose by up to three dollars per unit, tightening operating margins for high-volume online retailers.",
+                "The pricing overhaul forces e-commerce fulfillment teams to re-evaluate parcel routing algorithms and carrier service selection across regional fulfillment networks.",
+                "Merchants must adjust customer checkout shipping rates or absorb higher last-mile delivery expenditures across domestic distribution channels."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME FLEET: OWNED TONNAGE",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "MARITIME FLEET: OWNED TONNAGE",
+            "points": [
+                "Global container lines have accelerated a strategic shift away from chartered vessel tonnage in favor of expanding directly owned vessel fleets.",
+                "High charter hire rates and persistent spot rate volatility are driving ocean carriers to secure long-term capacity control through capital asset ownership.",
+                "Ocean fleet consolidation will restrict independent charter tonnage availability while concentrating vessel capacity among top-tier container shipping alliances.",
+                "Shippers should evaluate long-term service contract commitments as ocean carriers prioritize owned fleet deployment on core transoceanic trade lanes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RAIL COMPLIANCE: CREW STANDARDS",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -24,67 +58,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "MARITIME ROUTING: IRAN OMAN HORMUZ DEAL",
-            "points": [
-                "Iran and Oman have initiated advanced bilateral negotiations to establish a temporary safe maritime transit route through the troubled Strait of Hormuz.",
-                "The proposed corridor aims to restore commercial vessel passage without direct United States military intervention amid heightened regional conflict.",
-                "Restoring ocean transit stability through Hormuz would alleviate severe schedule disruptions and volatile war risk surcharges for global energy and container fleets.",
-                "Maritime logistics managers should prepare contingent routing plans while evaluating carrier schedule reliability across Middle Eastern trade lanes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FLEET AUTOMATION: FEDEX EXPANDS ROBOTICS",
-            "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "FLEET AUTOMATION: FEDEX EXPANDS ROBOTICS",
-            "points": [
-                "FedEx is expanding its pilot program for autonomous trailer loading systems powered by AI robotics firm Dexterity across major regional distribution hubs.",
-                "The robotic automation system uses advanced spatial vision to autonomously stack complex parcels inside linehaul trailers at industrial speeds.",
-                "Scaling automated loading technology reduces door-to-door transit times while minimizing parcel damage and manual dock labor constraints.",
-                "Parcel shippers can expect improved outbound dock velocity and enhanced package tracking precision across automated carrier hubs."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "BROKER LIABILITY: CH ROBINSON VERDICT",
-            "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "BROKER LIABILITY: CH ROBINSON VERDICT",
+            "heading": "RAIL COMPLIANCE: CREW STANDARDS",
             "points": [
-                "A Texas court delivered a landmark six hundred four million dollar negligent-hiring verdict against C.H. Robinson, triggering immediate appeal proceedings.",
-                "The massive legal judgment establishes severe broker vicarious liability standards for motor carrier safety vetting across third-party logistics networks.",
-                "Freight brokerages are forced to re-evaluate carrier onboarding protocols, compliance vetting software, and liability insurance thresholds immediately.",
-                "Shippers and 3PLs must implement stricter carrier selection criteria to mitigate catastrophic legal exposure across contracted truckload fleets."
+                "The Federal Railroad Administration introduced stricter English language proficiency rules for cross-border train operating crews originating from Mexico.",
+                "Regulatory enforcement aims to improve operational safety and communication efficiency across international rail interchange points along the southern border.",
+                "Stricter crew qualification standards may create temporary border interchange delays for cross-border intermodal rail freight movements.",
+                "Rail shippers utilizing cross-border Mexico-US corridors should account for potential transit times variances during crew compliance verification sweeps."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET MANUFACTURING: DAIMLER SHUTS PLANT",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "FLEET MANUFACTURING: DAIMLER SHUTS PLANT",
-            "points": [
-                "Daimler Truck North America announced the permanent closure of its Portland vehicle manufacturing plant scheduled for the end of October 2026.",
-                "The production shutdown reflects broader commercial vehicle manufacturing realignments to optimize heavy-duty truck assembly across remaining footprint locations.",
-                "Consolidating assembly footprint allows the OEM to streamline capital expenditure while adjusting to shifting North American fleet demand dynamics.",
-                "Fleet buyers and motor carriers should anticipate revised delivery lead times and regional equipment allocation adjustments during the facility transition."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MACRO LOGISTICS: US PMI HITS 55.6",
+            "nextUpTease": "AIR FREIGHT: FUEL SURCHARGES",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -92,16 +75,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MACRO LOGISTICS: US PMI HITS 55.6",
+            "id": 5,
+            "heading": "AIR FREIGHT: FUEL SURCHARGES",
             "points": [
-                "United States manufacturing activity accelerated to its highest level in four years, recording a July ISM Purchasing Managers' Index of 55.6.",
-                "Strong manufacturing output is fueling optimism among less-than-truckload carriers as industrial freight volumes surge across inland transit networks.",
-                "Expanded factory orders are expanding freight density across key manufacturing corridors, putting upward pressure on spot LTL shipping rates.",
-                "Logistics planners should secure LTL transport capacity early to mitigate rising freight rates driven by sustained industrial expansion."
+                "International air cargo carriers have initiated bi-weekly fuel surcharge adjustments in direct response to escalating global jet fuel spot prices.",
+                "Long-haul freighter operators are passing rising operational energy expenditures directly to cargo forwarders and enterprise air freight shippers.",
+                "Fuel surcharge volatility is pushing air cargo spot freight rates higher across critical transpacific and transatlantic air trade corridors.",
+                "Enterprise supply chain planners must recalibrate budget forecasts and evaluate modal shift options for time-sensitive international air cargo."
             ],
             "imageUrl": "",
-            "nextUpTease": "LAST MILE: WALMART DRONE DELIVERY",
+            "nextUpTease": "REAL ESTATE: WAREHOUSE ABSORPTION",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "REAL ESTATE: WAREHOUSE ABSORPTION",
+            "points": [
+                "The national industrial real estate market reached balance as warehouse space demand surpassed new commercial facility construction deliveries.",
+                "National industrial vacancy rates stabilized at seven point three percent following consecutive quarters of aggressive warehouse inventory absorption.",
+                "Modern distribution center availability remains tight in primary port-adjacent and major inland logistics hub markets nationwide.",
+                "Supply chain executives expanding fulfillment footprints face competitive leasing conditions and firming rental rates in tier-one distribution markets."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RETAIL LOGISTICS: PRICING BAN",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "LAST MILE: WALMART DRONE DELIVERY",
+            "heading": "RETAIL LOGISTICS: PRICING BAN",
             "points": [
-                "Walmart and drone operator Wing launched automated commercial drone delivery services across major suburban residential markets in Florida.",
-                "The aerial fulfillment initiative enables under-thirty-minute delivery for small-parcel order profiles directly from supercenter parking facilities.",
-                "Integrating autonomous aerial delivery streamlines last-mile fulfillment economics while reducing reliance on traditional surface courier networks.",
-                "Omnichannel retailers must assess micro-fulfillment drone infrastructure to stay competitive in rapid last-mile delivery coverage."
+                "New Jersey enacted legislation placing a temporary ban on retail dynamic pricing and pausing new electronic shelf label installations.",
+                "The state mandate restricts real-time automated price adjustments across brick-and-mortar retail supply chain networks during the study period.",
+                "Omnichannel retailers operating distribution networks in the state must recalibrate localized inventory pricing algorithms and store POS systems.",
+                "Retail supply chain operations must maintain traditional pricing compliance workflows while state regulators evaluate automated shelf technology impacts."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
