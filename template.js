@@ -1,90 +1,90 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL MARITIME FREIGHT",
-        "titleBlue": "RESILIENCE",
-        "footerSummary": "Federal courts uphold detention billing rules while carriers expand infrastructure investments to mitigate persistent global supply chain friction."
+        "titleWhite": "GLOBAL FREIGHT PIPELINE",
+        "titleBlue": "ADAPTATION",
+        "footerSummary": "Strategic transit negotiations and state legal interventions redefine operational compliance and corridor throughput across global supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: DETENTION FEE UPHOLDING",
+            "heading": "MARITIME ROUTING: HORMUZ TRANSIT AGREEMENT",
             "points": [
-                "The U.S. Court of Appeals for the D.C. Circuit issued a decisive ruling upholding the Federal Maritime Commission mandate that detention and demurrage fees must actively promote freight fluidity.",
-                "The legal validation reinforces regulatory oversight on ocean carriers and marine terminal operators to prevent punitive billing practices during supply chain bottlenecks.",
-                "Importers and logistics providers can leverage the court-backed framework to contest unjustified container storage charges and streamline port gate operations.",
-                "Maritime stakeholders must audit historical detention invoices to identify potential recovery opportunities under the enforced federal compliance standards."
+                "Iran and Oman are in bilateral negotiations to establish a temporary safe transit corridor through the strategic Strait of Hormuz.",
+                "The diplomatic effort seeks to de-escalate ocean freight disruptions and secure commercial vessel passage without direct U.S. intervention.",
+                "Global container carriers are monitoring maritime security protocols while evaluating potential rerouting costs around alternative regional lanes.",
+                "Importers should update vulnerability assessments for Middle East transit corridors to prepare for dynamic ocean freight surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: CAPACITY EXPANSION",
+            "nextUpTease": "AUTOMOTIVE LOGISTICS: DOMESTIC MEMORY BUFFERS",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORT INFRASTRUCTURE: CAPACITY EXPANSION",
+            "heading": "AUTOMOTIVE LOGISTICS: DOMESTIC MEMORY BUFFERS",
             "points": [
-                "Ocean carrier HMM is injecting one hundred thirty-five million dollars into Washington United Terminals to expand container handling capacity by fifty percent.",
-                "The capital project aims to elevate the competitive standing of Pacific Northwest gateways through advanced automation and optimized berth productivity.",
-                "Upgraded terminal operating systems will significantly reduce drayage truck turn times and alleviate congestion across regional distribution corridors.",
-                "Regional shippers should anticipate smoother cargo velocity and enhanced container availability as terminal modernization milestones are achieved."
+                "General Motors is accelerating domestic assembly investments and securing direct semiconductor memory inventory to insulate production.",
+                "The strategic operational shift mitigates overseas component bottlenecks and protects vehicle delivery schedules from global shipping delays.",
+                "Tier-1 automotive suppliers must align procurement workflows with localized buffer inventory mandates to maintain assembly continuity.",
+                "Logistics executives should anticipate broader reshoring trends across critical high-tech manufacturing supply chains nationwide."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: FUEL SURCHARGE SHIFTS",
+            "nextUpTease": "RETAIL LOGISTICS: ELECTRONIC PRICE MORATORIUM",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: FUEL SURCHARGE SHIFTS",
+            "heading": "RETAIL LOGISTICS: ELECTRONIC PRICE MORATORIUM",
             "points": [
-                "International air carriers are transitioning to bi-weekly jet fuel surcharge reviews to absorb persistent volatility across global energy markets.",
-                "The accelerated rate adjustment cycles force freight forwarders to recalculate spot-market quotes and adapt operating budgets rapidly.",
-                "Airlines are passing fuel cost spikes directly to customers as geopolitical conflicts continue to disrupt traditional crude supply routes.",
-                "Global supply chain managers must incorporate flexible air freight buffers to insulate operating margins from unpredictable fuel index swings."
+                "New Jersey state legislation has officially banned dynamic pricing algorithms and placed a one-year pause on electronic shelf labels.",
+                "The regulatory boundary restricts automated real-time price adjustments across physical retail storefronts and distribution fulfillment channels.",
+                "Retail technology vendors must recalibrate store level inventory software to support static price display compliance frameworks.",
+                "Omnichannel brands should audit localized pricing compliance mechanisms to avoid statutory penalties across regulated jurisdictions."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: VETERAN RECRUITMENT CAMPAIGN",
+            "nextUpTease": "CUSTOMS COMPLIANCE: KENYA MANIFEST ENFORCEMENT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRUCKING: VETERAN RECRUITMENT CAMPAIGN",
+            "heading": "CUSTOMS COMPLIANCE: KENYA MANIFEST ENFORCEMENT",
             "points": [
-                "The federal administration launched the Freedom Haulers initiative to streamline the transition of military veterans into commercial motor vehicle careers.",
-                "The interagency recruitment campaign pairs licensing expedites with rigorous enforcement sweeps against non-domiciled and unauthorized operators.",
-                "Long-haul motor carriers gain a structured, reliable talent pipeline to combat persistent driver turnover and fleet capacity constraints.",
-                "Fleet operators can leverage the veteran conversion program to stabilize driver headcount while strengthening overall highway safety compliance."
+                "Kenya Customs authorities introduced rigorous cargo manifest reporting mandates to systematically eliminate item misdeclaration and duty evasion.",
+                "The enforcement standard requires ocean lines and air forwarders to transmit detailed line-item manifest data prior to vessel discharge.",
+                "Global logistics intermediaries face heightened cargo hold risks and administrative fines for non-compliant shipping documentation.",
+                "Export compliance teams must standardize digital filing protocols to maintain seamless import clearance across East African trade hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL LOGISTICS: CROSS-BORDER STANDARDS",
+            "nextUpTease": "FREIGHT BROKERAGE: NUCLEAR VERDICT CHALLENGE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL LOGISTICS: CROSS-BORDER STANDARDS",
+            "heading": "FREIGHT BROKERAGE: NUCLEAR VERDICT CHALLENGE",
             "points": [
-                "The Federal Railroad Administration proposed stricter English language proficiency standards for Mexican rail crews operating within United States borders.",
-                "The regulatory proposal focuses on improving communication clarity and operational safety across critical international rail interchange points.",
-                "Class I railroads must update crew certification protocols and implement standardized safety communication testing at all border crossings.",
-                "Intermodal rail shippers should monitor potential border transit delays while rail operators align workforces with new federal mandates."
+                "C.H. Robinson filed a formal appeal against a landmark six hundred four million dollar negligent-hiring motor carrier verdict.",
+                "The legal battle challenges broker vicarious liability standards and carrier selection protocols across the domestic freight brokerage market.",
+                "Third-party logistics providers are restructuring carrier vetting procedures and safety compliance audits to limit legal exposure.",
+                "Shippers and brokers must enforce rigorous qualification metrics to protect supply chain networks from compounding liability judgments."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE PARCEL: POSTAL RATE PRESSURES",
+            "nextUpTease": "FINANCIAL SERVICES: PAYPAL SELLER OVERHAUL",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -93,15 +93,15 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "E-COMMERCE PARCEL: POSTAL RATE PRESSURES",
+            "heading": "FINANCIAL SERVICES: PAYPAL SELLER OVERHAUL",
             "points": [
-                "The United States Postal Service implemented rate increases for Ground Advantage services utilized heavily by online marketplace sellers.",
-                "The postage adjustments directly elevate fulfillment expenses for high-volume merchants managing lightweight parcel shipments nationwide.",
-                "Digital retail platforms are updating integrated rate-shopping tools to help sellers navigate the rising cost of domestic last-mile delivery.",
-                "Direct-to-consumer brands should diversify multi-carrier parcel strategies to mitigate margin erosion caused by continuous postal adjustments."
+                "PayPal is sunsetting merchant seller profiles while updating master user agreements and dispute resolution terms for commercial users.",
+                "The platform overhaul standardizes transaction handling and updates binding arbitration mechanisms across global e-commerce payment channels.",
+                "Online merchants must adjust checkout integration workflows and financial reconciliation procedures to align with updated merchant policies.",
+                "E-commerce logistics operators should review dispute resolution workflows to prevent capital friction and settlement delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL TRADE: TARIFF POLICY LITIGATION",
+            "nextUpTease": "FREIGHT INFRASTRUCTURE: GEORGIA DEDICATED LANES",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "GLOBAL TRADE: TARIFF POLICY LITIGATION",
+            "heading": "FREIGHT INFRASTRUCTURE: GEORGIA DEDICATED LANES",
             "points": [
-                "A coalition of twenty-five states filed a formal lawsuit challenging the implementation of recent federal trade tariffs.",
-                "The legal challenge targets newly established duty frameworks as importers attempt to stabilize sourcing costs amidst regulatory uncertainty.",
-                "Supply chain executives must closely monitor judicial proceedings to anticipate potential customs duty refunds or sudden structural changes.",
-                "Enterprise compliance teams should maintain dynamic sourcing models capable of adapting to ongoing shifts in international trade law."
+                "Georgia Department of Transportation is constructing forty-one miles of toll-free, truck-only freight lanes along the critical Interstate 75 corridor.",
+                "The targeted infrastructure development aims to isolate heavy commercial freight traffic, boost corridor velocity, and reduce highway congestion.",
+                "Motor carriers operating southeastern distribution routes will gain improved turn times and enhanced transit reliability along key logistics lanes.",
+                "Regional distribution planners should optimize drayage and long-haul dispatch routing to leverage dedicated freight infrastructure assets."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

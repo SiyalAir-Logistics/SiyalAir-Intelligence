@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL MARITIME FREIGHT RESILIENCE",
+        "hookTitle": "GLOBAL FREIGHT PIPELINE ADAPTATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: DETENTION FEE UPHOLDING",
-                "teaserTitle": "PORT INFRASTRUCTURE: CAPACITY EXPANSION",
+                "headline": "MARITIME ROUTING: HORMUZ TRANSIT AGREEMENT",
+                "teaserTitle": "AUTOMOTIVE LOGISTICS: DOMESTIC MEMORY BUFFERS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Federal courts uphold maritime commission rules ensuring detention fees promote freight fluidity."
+                "narration_line": "Iran and Oman negotiate a temporary Strait of Hormuz transit route, offering ocean freight operators potential relief from escalating Middle East disruptions."
             },
             {
                 "slide_index": 2,
-                "headline": "PORT INFRASTRUCTURE: CAPACITY EXPANSION",
-                "teaserTitle": "AIR CARGO: FUEL SURCHARGE SHIFTS",
+                "headline": "AUTOMOTIVE LOGISTICS: DOMESTIC MEMORY BUFFERS",
+                "teaserTitle": "RETAIL LOGISTICS: ELECTRONIC PRICE MORATORIUM",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Carrier investments in terminal modernization expand container handling capacity across Pacific gateways."
+                "narration_line": "General Motors accelerates domestic production investments and direct semiconductor inventory sourcing to insulate vehicle manufacturing supply chains from overseas disruption."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: FUEL SURCHARGE SHIFTS",
-                "teaserTitle": "TRUCKING: VETERAN RECRUITMENT CAMPAIGN",
+                "headline": "RETAIL LOGISTICS: ELECTRONIC PRICE MORATORIUM",
+                "teaserTitle": "CUSTOMS COMPLIANCE: KENYA MANIFEST ENFORCEMENT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "International air carriers shift to bi-weekly jet fuel surcharge reviews amid energy volatility."
+                "narration_line": "New Jersey enacts a landmark ban on dynamic pricing and electronic shelf labels, forcing retail logistics operators to restructure store technology compliance."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: VETERAN RECRUITMENT CAMPAIGN",
-                "teaserTitle": "RAIL LOGISTICS: CROSS-BORDER STANDARDS",
+                "headline": "CUSTOMS COMPLIANCE: KENYA MANIFEST ENFORCEMENT",
+                "teaserTitle": "FREIGHT BROKERAGE: NUCLEAR VERDICT CHALLENGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New federal initiatives streamline veteran transitions into commercial trucking careers to ease driver shortages."
+                "narration_line": "Kenya Customs enforces stricter cargo manifest rules, requiring ocean lines and air forwarders to submit precise documentation to eliminate misdeclarations."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL LOGISTICS: CROSS-BORDER STANDARDS",
-                "teaserTitle": "E-COMMERCE PARCEL: POSTAL RATE PRESSURES",
+                "headline": "FREIGHT BROKERAGE: NUCLEAR VERDICT CHALLENGE",
+                "teaserTitle": "FINANCIAL SERVICES: PAYPAL SELLER OVERHAUL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Rail regulators propose enhanced communication standards for cross-border freight crews."
+                "narration_line": "C.H. Robinson appeals a six hundred four million dollar negligent-hiring verdict, challenging broker liability standards across North American freight markets."
             },
             {
                 "slide_index": 6,
-                "headline": "E-COMMERCE PARCEL: POSTAL RATE PRESSURES",
-                "teaserTitle": "GLOBAL TRADE: TARIFF POLICY LITIGATION",
+                "headline": "FINANCIAL SERVICES: PAYPAL SELLER OVERHAUL",
+                "teaserTitle": "FREIGHT INFRASTRUCTURE: GEORGIA DEDICATED LANES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Postal rate increases for lightweight parcel services challenge e-commerce fulfillment margins."
+                "narration_line": "PayPal sunsets seller profiles and updates commercial terms, forcing e-commerce merchants to align checkout systems with restructured dispute resolution protocols."
             },
             {
                 "slide_index": 7,
-                "headline": "GLOBAL TRADE: TARIFF POLICY LITIGATION",
+                "headline": "FREIGHT INFRASTRUCTURE: GEORGIA DEDICATED LANES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "State coalitions challenge new trade tariffs in court as importers seek duty stability."
+                "narration_line": "Georgia constructs forty-one miles of toll-free truck-only lanes on I-75, significantly enhancing freight velocity and corridor throughput across southeastern trade routes."
             },
             {
                 "slide_index": 8,
