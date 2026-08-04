@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Court liability rulings, terminal infrastructure capital infusions, and autonomous loading deployments force supply chain leaders to overhaul cross-border freight risk protocols."
+        "titleWhite": "GLOBAL TRADE COMPLIANCE",
+        "titleBlue": "PIVOTS",
+        "footerSummary": "Dynamic tariff shifts, regulatory enforcement on cross-border carriers, and volatile surcharge cycles demand immediate compliance and logistics routing re-evaluations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORT INFRASTRUCTURE: HMM TERMINAL EXPANSION",
+            "heading": "TRADE TARIFFS: SECTION 301 EXPANSION",
             "points": [
-                "HMM is investing 135 million dollars into Washington United Terminals to increase container handling capacity by fifty percent in Seattle-Tacoma.",
-                "The infrastructure modernization aims to restore competitive throughput across Pacific Northwest ocean gateways following recent market share erosion.",
-                "Terminal upgrades will optimize rail-intermodal transfers and reduce vessel dwell times for transpacific container trade flows.",
-                "Enterprise shippers can anticipate enhanced ocean capacity reliability and accelerated terminal clearance across West Coast trade lanes."
+                "The Office of the United States Trade Representative is implementing forced labor-based tariffs on sixty trading partners under Section 301 as Section 122 provisions expire.",
+                "The regulatory action shifts duty enforcement from broad emergency measures toward specific supply chain audit compliance and origin tracing.",
+                "Cross-border importers must enhance supplier visibility frameworks to verify labor standards across secondary and tertiary component manufacturing sites.",
+                "Logistics managers should expect heightened customs hold frequencies and increased administrative scrutiny at major United States ports of entry."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT BROKERAGE: CH ROBINSON APPEAL",
+            "nextUpTease": "RAIL REGULATION: MEXICAN CREW MANDATES",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FREIGHT BROKERAGE: CH ROBINSON APPEAL",
+            "heading": "RAIL REGULATION: MEXICAN CREW MANDATES",
             "points": [
-                "C.H. Robinson is challenging a landmark 604 million dollar negligent-hiring verdict that alters legal vicarious liability standards for 3PLs.",
-                "The court precedent forces freight brokers to enforce heightened motor carrier safety audits prior to dispatching third-party fleets.",
-                "Brokerage firms are restructuring risk management frameworks and digital carrier onboarding protocols across domestic freight networks.",
-                "Logistics executives must prepare for potential capacity consolidation as stricter carrier vetting policies prune unrated trucking vendors."
+                "The Federal Railroad Administration proposed strict English language proficiency standards for Mexican rail crews operating cross-border trains into the United States.",
+                "The safety rule aims to standardize communication protocols across international rail interchanges to prevent operational delays and safety hazards.",
+                "Class I railroads and cross-border rail operators face potential labor bottlenecks during the transition and crew certification phase.",
+                "Supply chain planners utilizing cross-border rail freight must monitor border interchange dwell times and prepare contingent intermodal drayage capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "EUROPEAN RAIL: CMA CGM BID WITHDRAWAL",
+            "nextUpTease": "AIR FREIGHT: BIWEEKLY FUEL SURCHARGES",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -42,85 +42,85 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "EUROPEAN RAIL: CMA CGM BID WITHDRAWAL",
+            "heading": "AIR FREIGHT: BIWEEKLY FUEL SURCHARGES",
             "points": [
-                "CMA CGM formally withdrew its bid for a forty-nine percent stake in France's primary rail operator Rail Logistics Europe.",
-                "The strategic retreat pivots capital allocation away from state-backed rail freight towards targeted hinterland terminal assets.",
-                "European rail freight restructuring faces renewed regulatory uncertainty following the collapse of private carrier equity participation.",
-                "Supply chain planners utilizing continental rail corridors must re-evaluate multi-modal routing strategies amid shifting carrier investments."
+                "International air cargo carriers are transitioning to bi-weekly review cycles for jet fuel surcharges due to heightened jet fuel price volatility.",
+                "The accelerated pricing adjustments allow freighter operators to pass on rapid fuel price spikes directly to global forwarders and shippers.",
+                "Dynamic fuel indexing creates cost unpredictability for high-volume air freight movements along transpacific and transatlantic trade corridors.",
+                "Enterprise logistics teams must update spot rate procurement algorithms and audit air cargo invoices continuously against fluctuating index benchmarks."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSE ROBOTICS: FEDEX AUTONOMOUS LOADING",
+            "nextUpTease": "POSTAL LOGISTICS: USPS HAZMAT FEES",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "WAREHOUSE ROBOTICS: FEDEX AUTONOMOUS LOADING",
+            "heading": "POSTAL LOGISTICS: USPS HAZMAT FEES",
             "points": [
-                "FedEx and Dexterity are expanding autonomous trailer loading robotics to accelerate parcel processing at primary distribution hubs.",
-                "The artificial intelligence automation initiative targets labor-intensive dock operations to improve peak season handling capacity.",
-                "Robotic loading systems integrate computer vision to optimize trailer cube space utilization and reduce transit damage rates.",
-                "Warehouse operations leaders are accelerating capital deployment toward flexible dock automation to mitigate persistent logistics labor shortages."
+                "The United States Postal Service implemented new noncompliance penalties and rural package surcharges impacting e-commerce marketplace sellers.",
+                "The regulatory fee structure targets improperly declared hazardous materials while adding delivery surcharges for lightweight rural parcel fulfillment.",
+                "Online merchants face expanding fulfillment margin compression as carrier noncompliance audits become automated across sorting facilities.",
+                "E-commerce fulfillment directors should update parcel classification databases and recalibrate shipping rate tables for direct-to-consumer deliveries."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME CORRIDORS: HORMUZ TRANSIT DEAL",
+            "nextUpTease": "FLEET COMPLIANCE: CHAMELEON CARRIER BILL",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME CORRIDORS: HORMUZ TRANSIT DEAL",
+            "heading": "FLEET COMPLIANCE: CHAMELEON CARRIER BILL",
             "points": [
-                "Iran and Oman are holding bilateral negotiations to establish a temporary shipping corridor through the Strait of Hormuz.",
-                "The diplomatic initiative seeks to preserve maritime transit security and prevent catastrophic global energy supply chain disruptions.",
-                "Ocean carriers continue adjusting vessel schedule reliability protocols while monitoring Middle East maritime geopolitical risks.",
-                "Global cargo forwarders should maintain contingent freight routing plans and audit war risk insurance surcharges across affected maritime lanes."
+                "New United States Senate legislation targets chameleon motor carriers that shut down operations and reopen under new identities to evade safety fines.",
+                "The bill grants federal enforcement agencies expanded authority to track carrier corporate lineage using digital DOT registration data.",
+                "Heightened carrier vetting requirements will accelerate the removal of non-compliant trucking companies from domestic freight networks.",
+                "Freight brokers and shippers must upgrade motor carrier risk assessments to detect fraudulent entity shifts before dispatching loads."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN SHIPPING: FMC DETENTION RULE",
+            "nextUpTease": "RETAIL PRICING: ESL DYNAMIC BANS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OCEAN SHIPPING: FMC DETENTION RULE",
+            "heading": "RETAIL PRICING: ESL DYNAMIC BANS",
             "points": [
-                "The U.S. Court of Appeals upheld the Federal Maritime Commission rule requiring ocean detention fees to directly promote freight fluidity.",
-                "The legal affirmation restricts ocean carriers from assessing demurrage penalties when terminal congestion prevents container retrieval.",
-                "Importers and NVOCCs gain legal leverage to challenge unreasonable billing practices across all United States port gateways.",
-                "Shippers should audit historical ocean carrier fee assessments to file charge complaints and recover non-compliant detention costs."
+                "New Jersey state legislation enacted a ban on dynamic retail pricing and placed a moratorium on electronic shelf label implementations.",
+                "The law halts automated real-time price adjustments in physical stores while state regulators study algorithmic pricing transparency.",
+                "Retailers must pause digital store infrastructure upgrades and recalibrate omnichannel pricing alignment across regional store footprints.",
+                "Supply chain technology leaders should prepare for potential multi-state regulatory fragmentation regarding automated retail pricing systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "PREDICTIVE LOGISTICS: WALMART WEATHER AI",
+            "nextUpTease": "INLAND WATERWAYS: RHINE BARGE CONSTRAINTS",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PREDICTIVE LOGISTICS: WALMART WEATHER AI",
+            "heading": "INLAND WATERWAYS: RHINE BARGE CONSTRAINTS",
             "points": [
-                "Walmart expanded its proprietary artificial intelligence platform to dynamically reroute inventory ahead of severe weather events.",
-                "Predictive machine learning models determine early inventory positioning across regional fulfillment centers to prevent retail stockouts.",
-                "Automated supply chain controls minimize operational downtime and protect inventory integrity during localized climate disruptions.",
-                "Omnichannel retailers must integrate predictive weather analytics into inventory orchestration systems to ensure resilient store replenishment."
+                "Near-record low water levels on the Rhine River are severely restricting inland barge loading capacities across Western European freight corridors.",
+                "Ocean carriers and forwarders are rerouting containerized cargo to rail and feeder networks to maintain European hinterland transport fluidity.",
+                "Reduced barge draft limits have increased inland freight surcharges and created localized container congestion at key North European ports.",
+                "European logistics planners should secure alternative rail capacity and diversify hinterland transport routing to avoid severe transit delays."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

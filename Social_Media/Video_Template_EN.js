@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK SHIFTS",
+        "hookTitle": "GLOBAL TRADE COMPLIANCE PIVOTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORT INFRASTRUCTURE: HMM TERMINAL EXPANSION",
-                "teaserTitle": "FREIGHT BROKERAGE: CH ROBINSON APPEAL",
+                "headline": "TRADE TARIFFS: SECTION 301 EXPANSION",
+                "teaserTitle": "RAIL REGULATION: MEXICAN CREW MANDATES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "HMM invests 135 million dollars to expand Washington United Terminals capacity by fifty percent."
+                "narration_line": "USTR expands Section 301 tariffs across sixty nations, shifting trade enforcement toward origin compliance and labor audits."
             },
             {
                 "slide_index": 2,
-                "headline": "FREIGHT BROKERAGE: CH ROBINSON APPEAL",
-                "teaserTitle": "EUROPEAN RAIL: CMA CGM BID WITHDRAWAL",
+                "headline": "RAIL REGULATION: MEXICAN CREW MANDATES",
+                "teaserTitle": "AIR FREIGHT: BIWEEKLY FUEL SURCHARGES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "C.H. Robinson appeals a 604 million dollar verdict, reshaping freight broker carrier vetting liability."
+                "narration_line": "Federal regulators propose strict English proficiency rules for Mexican rail crews to prevent cross-border operational friction."
             },
             {
                 "slide_index": 3,
-                "headline": "EUROPEAN RAIL: CMA CGM BID WITHDRAWAL",
-                "teaserTitle": "WAREHOUSE ROBOTICS: FEDEX AUTONOMOUS LOADING",
+                "headline": "AIR FREIGHT: BIWEEKLY FUEL SURCHARGES",
+                "teaserTitle": "POSTAL LOGISTICS: USPS HAZMAT FEES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "CMA CGM withdraws its rail freight bid, shifting European hinterland logistics investment strategies."
+                "narration_line": "Air carriers shift to bi-weekly fuel surcharge updates to manage extreme jet fuel volatility across primary trade lanes."
             },
             {
                 "slide_index": 4,
-                "headline": "WAREHOUSE ROBOTICS: FEDEX AUTONOMOUS LOADING",
-                "teaserTitle": "MARITIME CORRIDORS: HORMUZ TRANSIT DEAL",
+                "headline": "POSTAL LOGISTICS: USPS HAZMAT FEES",
+                "teaserTitle": "FLEET COMPLIANCE: CHAMELEON CARRIER BILL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "FedEx expands autonomous trailer loading robotics to streamline peak warehouse parcel dock operations."
+                "narration_line": "USPS introduces strict hazmat noncompliance penalties and rural package surcharges impacting e-commerce fulfillment costs."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME CORRIDORS: HORMUZ TRANSIT DEAL",
-                "teaserTitle": "OCEAN SHIPPING: FMC DETENTION RULE",
+                "headline": "FLEET COMPLIANCE: CHAMELEON CARRIER BILL",
+                "teaserTitle": "RETAIL PRICING: ESL DYNAMIC BANS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Iran and Oman negotiate a temporary Strait of Hormuz transit corridor to stabilize maritime trade."
+                "narration_line": "New Senate legislation empowers regulators to target chameleon carriers reopening under new DOT numbers to avoid penalties."
             },
             {
                 "slide_index": 6,
-                "headline": "OCEAN SHIPPING: FMC DETENTION RULE",
-                "teaserTitle": "PREDICTIVE LOGISTICS: WALMART WEATHER AI",
+                "headline": "RETAIL PRICING: ESL DYNAMIC BANS",
+                "teaserTitle": "INLAND WATERWAYS: RHINE BARGE CONSTRAINTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Appeals court upholds FMC rulings mandating ocean detention fees strictly incentivize container fluidity."
+                "narration_line": "New Jersey bans dynamic retail pricing and electronic shelf labels, complicating digital store infrastructure strategies."
             },
             {
                 "slide_index": 7,
-                "headline": "PREDICTIVE LOGISTICS: WALMART WEATHER AI",
+                "headline": "INLAND WATERWAYS: RHINE BARGE CONSTRAINTS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Walmart deploys supply chain artificial intelligence to reroute and position inventory ahead of severe weather."
+                "narration_line": "Low Rhine water levels force European inland freight off barges and onto rail networks to sustain hinterland transport."
             },
             {
                 "slide_index": 8,
