@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK TRANSITION",
+        "hookTitle": "SUPPLY CHAIN DISRUPTIVE SIGNALS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FMC REGULATION: DETENTION FEE RULING",
-                "teaserTitle": "PARCEL CARRIERS: USPS SURCHARGE ADJUSTMENTS",
+                "headline": "TRADE POLICY: SECTION 301 TARIFFS",
+                "teaserTitle": "OCEAN FREIGHT: SEALEAD SHIPPING LIQUIDATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The US Court of Appeals upheld FMC rules preventing ocean carriers from levying detention fees during port closures."
+                "narration_line": "The U S T R is implementing Section 301 tariffs across sixty nations targeting forced labor risks as Section 122 expires."
             },
             {
                 "slide_index": 2,
-                "headline": "PARCEL CARRIERS: USPS SURCHARGE ADJUSTMENTS",
-                "teaserTitle": "LAST-MILE LOGISTICS: DRONE NETWORK SCALE",
+                "headline": "OCEAN FREIGHT: SEALEAD SHIPPING LIQUIDATION",
+                "teaserTitle": "WAREHOUSE TECH: AUTONOMOUS TRAILER LOADING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "New USPS hazmat penalties and rural package surcharges increase lightweight fulfillment costs for online marketplaces."
+                "narration_line": "SeaLead Shipping ceased all maritime operations following U S O F A C sanctions over alleged regional trade ties."
             },
             {
                 "slide_index": 3,
-                "headline": "LAST-MILE LOGISTICS: DRONE NETWORK SCALE",
-                "teaserTitle": "MARITIME SECURITY: HORMUZ ROUTE BOTTLENECK",
+                "headline": "WAREHOUSE TECH: AUTONOMOUS TRAILER LOADING",
+                "teaserTitle": "RETAIL LOGISTICS: TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Walmart and Wing expanded commercial drone delivery across Florida retail hubs to accelerate suburban order fulfillment."
+                "narration_line": "FedEx expanded A I robotic trailer loading systems in Maryland to accelerate dock throughput velocity and parcel packing."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME SECURITY: HORMUZ ROUTE BOTTLENECK",
-                "teaserTitle": "PORT INFRASTRUCTURE: PACIFIC TERMINAL HUB",
+                "headline": "RETAIL LOGISTICS: TARIFF REFUND MONETIZATION",
+                "teaserTitle": "INVENTORY CONTROL: WAREHOUSE DRONE AUDITS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Middle East diplomatic talks seek temporary transit routes through the Strait of Hormuz amid mounting maritime security risks."
+                "narration_line": "Major retailers are selling rights to import tariff refunds on secondary markets to secure immediate operational liquidity."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT INFRASTRUCTURE: PACIFIC TERMINAL HUB",
-                "teaserTitle": "INTERMODAL RAIL: PRIVATE EQUITY CAPITAL",
+                "headline": "INVENTORY CONTROL: WAREHOUSE DRONE AUDITS",
+                "teaserTitle": "LAST MILE: AMAZON MONOPSONY LITIGATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "HMM invested 135 million dollars in Washington United Terminals to boost Pacific Northwest container throughput capacity by 50 per cent."
+                "narration_line": "G N C deployed autonomous drones across its distribution facility to automate inventory cycle counts and increase stock accuracy."
             },
             {
                 "slide_index": 6,
-                "headline": "INTERMODAL RAIL: PRIVATE EQUITY CAPITAL",
-                "teaserTitle": "CARRIER COMPLIANCE: DRIVER LICENSE AUDITS",
+                "headline": "LAST MILE: AMAZON MONOPSONY LITIGATION",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "InfraRed Capital acquired a majority stake in Rail Modal Group to accelerate inland intermodal hub expansions across North America."
+                "narration_line": "New Jersey filed an antitrust lawsuit targeting Amazon over last mile delivery network practices and contractor control."
             },
             {
                 "slide_index": 7,
-                "headline": "CARRIER COMPLIANCE: DRIVER LICENSE AUDITS",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Federal safety audits targeting 194 thousand non-domiciled CDLs tighten driver compliance across domestic trucking markets."
+                "narration_line": "Industrial real estate vacancy stabilized at seven point three per cent as quarterly warehouse demand outpaced new supply."
             },
             {
                 "slide_index": 8,
