@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF",
-        "titleBlue": "REFORMS",
-        "footerSummary": "USTR Section 301 tariff enforcement, ocean carrier capacity crunches, and warehouse automation deployments drive operational adjustments across international logistics networks."
+        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Federal court demurrage rulings, European barge halts, and sanctions-driven carrier liquidations demand immediate operational realignment across global logistics networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFFS",
+            "heading": "FMC: DEMURRAGE RULE UPHELD",
             "points": [
-                "The Office of the United States Trade Representative moves forward with mandatory Section 301 tariffs targeting 60 global trading nations.",
-                "The regulatory enforcement targets forced-labor compliance risks as previous Section 122 tariff measures officially expire across trade lanes.",
-                "Importers face expanded compliance frameworks requiring rigorous supply chain provenance audits and foreign vendor verification protocols.",
-                "Enterprise shippers must re-evaluate sourcing structures immediately to mitigate increased import duty exposure and regulatory penalties."
+                "The U.S. Court of Appeals upheld the Federal Maritime Commission ruling requiring ocean container detention and demurrage fees to directly promote freight fluidity.",
+                "Ocean carriers and terminal operators can no longer assess punitive storage penalties when port congestion or gateway closures prevent shippers from retrieving equipment.",
+                "The legal precedent forces global liner operators to overhaul billing practices and align container penalty structures with actual operational throughput accessibility.",
+                "Enterprise shippers gain substantial legal protection against unwarranted ocean freight surcharges, lowering systemic demurrage dispute exposure across major marine gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: HMM WASHINGTON EXPANSION",
+            "nextUpTease": "PORT DISRUPTIONS: JEDDAH CONGESTION SURCHARGES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OCEAN FREIGHT: HMM WASHINGTON EXPANSION",
+            "heading": "PORT DISRUPTIONS: JEDDAH CONGESTION SURCHARGES",
             "points": [
-                "South Korean ocean carrier HMM is investing $135M into Washington United Terminals to boost container handling capacity by 50%.",
-                "The terminal infrastructure upgrade targets chronic regional bottlenecks and accommodates larger ultra-large container vessels calling the Pacific Northwest.",
-                "Port operators are deploying advanced terminal operating systems to accelerate container turnaround times during peak shipping windows.",
-                "Supply chain planners should anticipate improved gateway throughput velocity and optimized container dwell metrics across West Coast ports."
+                "Severe operational congestion at Saudi Arabia's Jeddah port forced major ocean carriers to implement emergency surcharges and place strict limits on new bookings.",
+                "Surging import cargo volumes overwhelmed container terminal handling capacity, creating severe vessel dwell times and inland equipment repositioning bottlenecks across the Red Sea.",
+                "Liner operators are actively diverting secondary feeder services to alternative Middle East hubs to bypass prolonged anchorage delays at primary gateways.",
+                "Logistics planners targeting regional trade lanes must adjust lead times upward and prepare for elevated container surcharges throughout the third quarter."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSE TECH: AUTONOMOUS TRAILER LOADING",
+            "nextUpTease": "INLAND WATERWAYS: RHINE WATERWAY CRISIS",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -42,66 +42,32 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "WAREHOUSE TECH: AUTONOMOUS TRAILER LOADING",
+            "heading": "INLAND WATERWAYS: RHINE WATERWAY CRISIS",
             "points": [
-                "FedEx and Dexterity are actively expanding the deployment of autonomous robotic trailer loading systems across their primary Maryland distribution hubs.",
-                "The physical artificial intelligence integration optimizes parcel stacking density while dramatically reducing manual sorting labor constraints.",
-                "Automated dock operations accelerate outbound dispatch velocity and lower cargo damage incidence rates during high-volume sort cycles.",
-                "Facility managers are scaling warehouse robotics to standardize fulfillment workflows and maximize vehicle space utilization nationwide."
+                "Water levels along Europe's critical Rhine and Danube rivers dropped near record lows following an intense summer heatwave, threatening severe inland barge halts.",
+                "Barge operators are enforcing strict cargo intake limits to prevent groundings, forcing European industrial shippers to move containerized freight onto overburdened rail lines.",
+                "The reduction in navigable draft depth creates compounding transit delays for raw materials, chemical components, and finished goods moving through Central Europe.",
+                "Supply chain directors operating in Western Europe must secure emergency overland transport capacity to mitigate imminent inland waterway logistics blockages."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL LOGISTICS: TARIFF REFUND MONETIZATION",
+            "nextUpTease": "SANCTIONS ENFORCEMENT: SEALEAD SHIPPING LIQUIDATION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RETAIL LOGISTICS: TARIFF REFUND MONETIZATION",
+            "heading": "SANCTIONS ENFORCEMENT: SEALEAD SHIPPING LIQUIDATION",
             "points": [
-                "Major retail brands including American Eagle Outfitters are utilizing secondary financial markets to monetize potential tariff refund claims.",
-                "Enterprise finance teams are selling legal rights to $600M in recovered customs duties to generate immediate working capital ahead of peak season.",
-                "The liquidity strategy offsets delayed administrative payouts from customs agencies while mitigating prolonged trade litigation exposure.",
-                "Supply chain financial officers are increasingly treating customs duty recovery claims as viable balance sheet assets for enterprise operations."
+                "Singapore-based container line SeaLead Shipping officially ceased operations and entered liquidation after strict U.S. sanctions targeted its alleged Iranian trade connections.",
+                "Financial institutions and marine service providers immediately severed operational support, stranding containerized cargo and forcing rapid vessel fleet reallocations worldwide.",
+                "The enforcement action highlights heightened regulatory oversight surrounding secondary trade networks and shadow fleet chartering practices across volatile maritime corridors.",
+                "Importers utilizing niche ocean carriers must audit counterparty compliance frameworks to prevent abrupt supply chain stoppages triggered by international sanction designations."
             ],
             "imageUrl": "",
-            "nextUpTease": "INVENTORY CONTROL: WAREHOUSE DRONE AUDITS",
-            "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "INVENTORY CONTROL: WAREHOUSE DRONE AUDITS",
-            "points": [
-                "Health product brand GNC successfully integrated autonomous aerial drones across its sprawling 450K sq ft distribution center network.",
-                "Unmanned aerial vehicles perform continuous automated cycle counts, replacing labor-intensive manual inventory scans across high-bay racking systems.",
-                "Autonomous scanning significantly elevates stock accuracy rates while minimizing worker safety risks and operational downtime during shifts.",
-                "Logistics directors are adopting aerial robotics to achieve real-time inventory visibility across large-scale warehousing facilities."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LAST MILE: AMAZON MONOPSONY LITIGATION",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "LAST MILE: AMAZON MONOPSONY LITIGATION",
-            "points": [
-                "State legal authorities in New Jersey filed a high-profile antitrust complaint targeting Amazon and its domestic last-mile delivery network.",
-                "The legal challenge alleges monopsonistic control over contract delivery partners, restricting independent carrier operating margins and route flexibility.",
-                "Judicial review could force structural operational modifications upon captive delivery contractor frameworks and regional dispatch rules.",
-                "Final-mile logistics providers must monitor legal precedent shifts that could reshape third-party delivery contractor ecosystems nationwide."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "nextUpTease": "AIR CARGO: LUFTHANSA DEMAND SURGE",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -109,18 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "id": 5,
+            "heading": "AIR CARGO: LUFTHANSA DEMAND SURGE",
             "points": [
-                "Global real estate firm Colliers reported that U.S. industrial warehouse vacancy rates stabilized at 7.3% during the second quarter.",
-                "Net demand for prime logistics real estate successfully outpaced new warehouse supply deliveries across primary regional distribution markets.",
-                "The absorption stabilization signals a healthy operational equilibrium following several years of highly volatile construction inventory cycles.",
-                "Enterprise tenants should anticipate stabilizing warehousing lease rates as modern logistics space supply aligns closely with market demand."
+                "Lufthansa Cargo recorded a 27% increase in second-quarter revenue driven by surging demand for AI hardware transport and sustained Asian export volumes.",
+                "High-tech equipment manufacturers are increasingly leveraging premium air freight capacity to accelerate global data center infrastructure deployments across North America and Europe.",
+                "The belly-hold and freighter space squeeze across Transpacific and Europe-Asia trade lanes has driven spot air cargo rates significantly above historical baseline averages.",
+                "Freight forwarders should anticipate tight air cargo capacity through peak season as technology supply chains monopolize specialized heavy-lift air transport capacity."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PHARMA LOGISTICS: J&J NETWORK RESTRUCTURING",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "PHARMA LOGISTICS: J&J NETWORK RESTRUCTURING",
+            "points": [
+                "Healthcare conglomerate Johnson & Johnson initiated a comprehensive $750M supply chain restructuring plan targeting its global innovative medicine manufacturing network.",
+                "The strategic footprint shift involves exiting legacy production facilities, consolidating distribution hubs, and optimizing cold-chain fulfillment operations across key markets.",
+                "The multi-phase overhaul aims to streamline raw material procurement timelines and enhance cold-chain resilience against global supply network disruptions.",
+                "Pharmaceutical supply chain managers must evaluate vendor dependency risks as major drug makers streamline operations to reduce long-term operational overhead."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PORT CAPITAL: CMA CGM JOINT VENTURE",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "PORT CAPITAL: CMA CGM JOINT VENTURE",
+            "points": [
+                "Global ocean carrier CMA CGM launched a container port modernization joint venture designed to upgrade digital terminal infrastructure across strategic international gateways.",
+                "The capital initiative focuses on deploying automated container handling equipment, advanced terminal management systems, and optimized vessel berth scheduling tools.",
+                "The modernization effort addresses structural port bottlenecks, improving container turnaround velocity and expanding handling capacity for ultra-large container vessels.",
+                "Maritime logistics stakeholders will benefit from enhanced gateway fluidness and reduced port dwell times as digitized infrastructure upgrades operational capacity."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE TARIFF REFORMS",
+        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "OCEAN FREIGHT: HMM WASHINGTON EXPANSION",
+                "headline": "FMC: DEMURRAGE RULE UPHELD",
+                "teaserTitle": "PORT DISRUPTIONS: JEDDAH CONGESTION SURCHARGES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR implements Section 301 tariffs on 60 nations, demanding immediate supplier audits."
+                "narration_line": "The federal appeals court upheld FMC rules requiring ocean demurrage fees to directly promote container fluidity."
             },
             {
                 "slide_index": 2,
-                "headline": "OCEAN FREIGHT: HMM WASHINGTON EXPANSION",
-                "teaserTitle": "WAREHOUSE TECH: AUTONOMOUS TRAILER LOADING",
+                "headline": "PORT DISRUPTIONS: JEDDAH CONGESTION SURCHARGES",
+                "teaserTitle": "INLAND WATERWAYS: RHINE WATERWAY CRISIS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "HMM invests $135M to expand Washington terminal capacity by 50%."
+                "narration_line": "Severe congestion at Jeddah port prompted major carriers to implement emergency surcharges and restrict booking intake."
             },
             {
                 "slide_index": 3,
-                "headline": "WAREHOUSE TECH: AUTONOMOUS TRAILER LOADING",
-                "teaserTitle": "RETAIL LOGISTICS: TARIFF REFUND MONETIZATION",
+                "headline": "INLAND WATERWAYS: RHINE WATERWAY CRISIS",
+                "teaserTitle": "SANCTIONS ENFORCEMENT: SEALEAD SHIPPING LIQUIDATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "FedEx scales robotic trailer loading to optimize dock throughput velocity."
+                "narration_line": "Europe's Rhine and Danube rivers hit record low water levels, forcing barge capacity cuts and modal shifts to rail."
             },
             {
                 "slide_index": 4,
-                "headline": "RETAIL LOGISTICS: TARIFF REFUND MONETIZATION",
-                "teaserTitle": "INVENTORY CONTROL: WAREHOUSE DRONE AUDITS",
+                "headline": "SANCTIONS ENFORCEMENT: SEALEAD SHIPPING LIQUIDATION",
+                "teaserTitle": "AIR CARGO: LUFTHANSA DEMAND SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Retailers monetize $600M in tariff refunds to secure working capital."
+                "narration_line": "SeaLead Shipping entered liquidation following strict U.S. sanctions targeting alleged Iranian maritime trade connections."
             },
             {
                 "slide_index": 5,
-                "headline": "INVENTORY CONTROL: WAREHOUSE DRONE AUDITS",
-                "teaserTitle": "LAST MILE: AMAZON MONOPSONY LITIGATION",
+                "headline": "AIR CARGO: LUFTHANSA DEMAND SURGE",
+                "teaserTitle": "PHARMA LOGISTICS: J&J NETWORK RESTRUCTURING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "GNC deploys warehouse drones across 450K sq ft to automate inventory counts."
+                "narration_line": "Lufthansa Cargo revenue jumped 27% in Q2, propelled by high-tech AI hardware shipments across major trade corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "LAST MILE: AMAZON MONOPSONY LITIGATION",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "headline": "PHARMA LOGISTICS: J&J NETWORK RESTRUCTURING",
+                "teaserTitle": "PORT CAPITAL: CMA CGM JOINT VENTURE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New Jersey files antitrust litigation against Amazon's last-mile delivery network."
+                "narration_line": "Johnson & Johnson launched a $750M supply chain restructuring to streamline global medicine manufacturing and distribution networks."
             },
             {
                 "slide_index": 7,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "headline": "PORT CAPITAL: CMA CGM JOINT VENTURE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "U.S. industrial warehouse vacancy rates stabilize at 7.3% nationwide."
+                "narration_line": "CMA CGM launched a container port joint venture to modernize infrastructure and accelerate vessel turnaround times globally."
             },
             {
                 "slide_index": 8,
