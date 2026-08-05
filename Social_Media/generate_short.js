@@ -139,8 +139,140 @@ function calculateDynamicIntroFontSize(introTitleObj) {
 
 // ==========================================
 // SECTION 5: PHONETIC ENGINE & AUDIO SYNTHESIS
-// Normalizes text strings and triggers Python Edge-TTS for audio synthesis.
+// Normalizes text strings, handles abbreviations/numbers smartly, and triggers Python Edge-TTS.
 // ==========================================
+
+function numberToWords(n) {
+    const ones = ["", "one", "two", "three", "four", "five", "six", "seven", "eight", "nine", "ten", "eleven", "twelve", "thirteen", "fourteen", "fifteen", "sixteen", "seventeen", "eighteen", "nineteen"];
+    const tens = ["", "", "twenty", "thirty", "forty", "fifty", "sixty", "seventy", "eighty", "ninety"];
+    
+    if (n === 0) return "zero";
+    if (n < 20) return ones[n];
+    if (n < 100) return tens[Math.floor(n / 10)] + (n % 10 !== 0 ? " " + ones[n % 10] : "");
+    if (n < 1000) return ones[Math.floor(n / 100)] + " hundred" + (n % 100 !== 0 ? " and " + numberToWords(n % 100) : "");
+    if (n < 1000000) return numberToWords(Math.floor(n / 1000)) + " thousand" + (n % 1000 !== 0 ? " " + numberToWords(n % 1000) : "");
+    return n.toString();
+}
+
+/**
+ * Advanced phonetic translation for decimals (e.g., 45.5 -> forty five point five)
+ */
+function parseDecimalsPhonetically(text) {
+    return text.replace(/\b(\d+)\.(\d+)\b/g, (match, integerPart, decimalPart) => {
+        const intWord = numberToWords(parseInt(integerPart, 10));
+        const decWords = decimalPart.split('').map(digit => numberToWords(parseInt(digit, 10))).join(' ');
+        return `${intWord} point ${decWords}`;
+    });
+}
+
+/**
+ * Advanced phonetic currency parser ($45.5M / €2.1B -> forty five point five million U.S. Dollars)
+ */
+function parseCurrenciesPhonetically(text) {
+    return text
+        .replace(/\$([0-9.,]+)([M|B|K]?)\b/gi, (match, num, suffix) => {
+            let cleanNum = num.replace(/,/g, " ");
+            const spokenNum = parseDecimalsPhonetically(cleanNum);
+            let multiplier = '';
+            if (suffix.toUpperCase() === 'M') multiplier = ' million';
+            else if (suffix.toUpperCase() === 'B') multiplier = ' billion';
+            else if (suffix.toUpperCase() === 'K') multiplier = ' thousand';
+            return `${spokenNum}${multiplier} U.S. Dollars`;
+        })
+        .replace(/€([0-9.,]+)([M|B|K]?)\b/gi, (match, num, suffix) => {
+            let cleanNum = num.replace(/,/g, " ");
+            const spokenNum = parseDecimalsPhonetically(cleanNum);
+            let multiplier = '';
+            if (suffix.toUpperCase() === 'M') multiplier = ' million';
+            else if (suffix.toUpperCase() === 'B') multiplier = ' billion';
+            else if (suffix.toUpperCase() === 'K') multiplier = ' thousand';
+            return `${spokenNum}${multiplier} Euros`;
+        })
+        .replace(/£([0-9.,]+)([M|B|K]?)\b/gi, (match, num, suffix) => {
+            let cleanNum = num.replace(/,/g, " ");
+            const spokenNum = parseDecimalsPhonetically(cleanNum);
+            let multiplier = '';
+            if (suffix.toUpperCase() === 'M') multiplier = ' million';
+            else if (suffix.toUpperCase() === 'B') multiplier = ' billion';
+            else if (suffix.toUpperCase() === 'K') multiplier = ' thousand';
+            return `${spokenNum}${multiplier} British Pounds`;
+        });
+}
+
+/**
+ * Legal clause & section reader (Section 512 -> Section five twelve / five hundred twelve)
+ */
+function parseLegalSectionsPhonetically(text) {
+    return text.replace(/\b(Section|Article|Clause|Rule)\s+(\d{1,4})\b/gi, (match, label, numStr) => {
+        const num = parseInt(numStr, 10);
+        let spokenNum = '';
+        if (num >= 100 && num <= 999 && num % 100 !== 0) {
+            const hundreds = Math.floor(num / 100);
+            const remainder = num % 100;
+            spokenNum = `${numberToWords(hundreds)} hundred ${numberToWords(remainder)}`;
+        } else {
+            spokenNum = numberToWords(num);
+        }
+        return `${label} ${spokenNum}`;
+    });
+}
+
+/**
+ * DYNAMIC ABBREVIATION CLEANER: 
+ * Automatically catches and strips periods from ANY dotted acronym (e.g., U.S., U.N., E.U., U.K., F.B.I., U.A.E.) 
+ * so Edge-TTS does not stutter or break words apart due to hardcoded limitations.
+ */
+function cleanAbbreviationsForSpeech(text) {
+    return text.replace(/\b(?:[A-Z]\.){2,}[A-Z]?\b/g, (match) => {
+        return match.replace(/\./g, '');
+    });
+}
+
+function smartNumberParser(text) {
+    return text.replace(/\b\d{1,6}\b/g, (match) => {
+        const num = parseInt(match, 10);
+        if (!isNaN(num) && num < 1000000) {
+            return numberToWords(num);
+        }
+        return match;
+    });
+}
+
+/**
+ * DYNAMIC FRACTION ENGINE:
+ * Dynamically converts ANY standard ratio/fraction pattern (e.g., 3/8, 7/10, 4/5) into spoken words 
+ * instead of being restricted to a manual hardcoded list.
+ */
+function parseFractionsPhonetically(text) {
+    return text.replace(/\b(\d+)\/(\d+)\b/g, (match, numerator, denominator) => {
+        const numVal = parseInt(numerator, 10);
+        const denVal = parseInt(denominator, 10);
+        const numWord = numberToWords(numVal);
+        let denWord = '';
+        
+        if (denVal === 2) denWord = numVal === 1 ? 'half' : 'halves';
+        else if (denVal === 3) denWord = numVal === 1 ? 'third' : 'thirds';
+        else if (denVal === 4) denWord = numVal === 1 ? 'quarter' : 'quarters';
+        else if (denVal === 5) denWord = numVal === 1 ? 'fifth' : 'fifths';
+        else if (denVal === 8) denWord = numVal === 1 ? 'eighth' : 'eighths';
+        else if (denVal === 10) denWord = numVal === 1 ? 'tenth' : 'tenths';
+        else if (denVal === 100) denWord = numVal === 1 ? 'hundredth' : 'hundredths';
+        else denWord = numberToWords(denVal) + (numVal === 1 ? 'th' : 'ths');
+
+        return `${numWord} ${denWord}`;
+    });
+}
+
+/**
+ * DYNAMIC TTS ACRONYM SPELLER:
+ * Dynamically intercepts standard capitalized corporate acronyms (2 to 5 letters) 
+ * and injects spacing (e.g. "H M M") for the audio voice engine only.
+ */
+function spellAcronymsForTTS(text) {
+    return text.replace(/\b([A-Z]{2,5})\b/g, (match) => {
+        return match.split('').join(' ');
+    });
+}
 
 function prepareHumanizedText(rawText) {
     if (!rawText) return "";
@@ -148,33 +280,34 @@ function prepareHumanizedText(rawText) {
     let clean = rawText.replace(/<[^>]*>/g, '').trim();
 
     clean = clean
-        .replace(/\be-commerce\b/gi, 'ecommerce')
-        .replace(/\be-commerce's\b/gi, "ecommerce's")
-        .replace(/\bco-op\b/gi, 'coop')
+        .replace(/\be-commerce\b/gi, 'e-commerce')
+        .replace(/\be-commerce's\b/gi, "e-commerce's")
+        .replace(/\bco-op\b/gi, 'co-op')
         .replace(/\bon-line\b/gi, 'online');
 
     clean = clean.replace(/([a-zA-Z0-9]+)-([a-zA-Z0-9]+)/g, '$1 $2');
+
+    clean = cleanAbbreviationsForSpeech(clean);
+    clean = parseFractionsPhonetically(clean);
+    clean = parseCurrenciesPhonetically(clean);
+    clean = parseLegalSectionsPhonetically(clean);
+    clean = parseDecimalsPhonetically(clean);
 
     clean = clean
         .replace(/%/g, ' per cent')
         .replace(/&/g, ' and ')
         .replace(/\+/g, ' plus ')
-        .replace(/\bUSD\b/gi, 'U.S. Dollars')
-        .replace(/\bEUR\b/gi, 'Euros')
-        .replace(/\bGBP\b/gi, 'British Pounds')
-        .replace(/\bvs\.?\b/gi, 'versus')
-        .replace(/\bTEU\b/gi, 'T-E-U')
-        .replace(/\bTEUs\b/gi, 'T-E-Us')
-        .replace(/\bAI\b/g, 'A.I.')
-        .replace(/\bUS\b/g, 'US')
-        .replace(/\bU\.S\./g, 'US')
-        .replace(/\bUK\b/g, 'U.K.')
-        .replace(/\bUAE\b/g, 'U.A.E.');
+        .replace(/\bvs\.?\b/gi, 'versus');
+
+    clean = smartNumberParser(clean);
+    
+    // Dynamic acronym letter spacing for voice engine rendering
+    clean = spellAcronymsForTTS(clean);
 
     clean = clean
-        .replace(/\s+(–|—|-)\s+/g, ' ')
-        .replace(/:\s*/g, ', ')
-        .replace(/;\s*/g, ' ');
+        .replace(/\s*(–|—|-)\s+/g, ',... ')
+        .replace(/:\s*/g, ',... ')
+        .replace(/;\s*/g, '. ');
 
     clean = clean
         .replace(/,\s*,+/g, ',')
@@ -281,7 +414,6 @@ async function buildShortFromTemplate(templatePath) {
         console.log("🎨 Custom lower-third asset detected: assets/bottom_banner.png");
     }
 
-    // SLIDE 1 (Index 0): Main Intro Slide -> No Bottom Banner
     if (hasIntroBg) {
         console.log("🎙️ Preparing silent 1.0s intro hook screen (Slide 1)...");
         const introAudioPath = path.join(__dirname, `temp_slide_audio_intro_${templateFileName}.mp3`);
@@ -317,13 +449,10 @@ async function buildShortFromTemplate(templatePath) {
         const slideText = slide.alpha_narration || slide.narration_line || slide.title || "";
         const rawHeadline = (slide.headline || slide.title || "").toUpperCase();
         
-        // Absolute slide number calculation: Slide 1 is intro, so news slides start at Slide 2
         const absoluteSlideNum = i + 2; 
 
-        // Rule check: Slides 2 through 8 show bottom banner. Slide 9 (followup/2nd last) does NOT show banner.
         const showBanner = (absoluteSlideNum >= 2 && absoluteSlideNum <= 8);
 
-        // Rule check: Slide 8 must have NO next slide teaser text.
         const isSlide8 = (absoluteSlideNum === 8);
         let slideTeaser = isSlide8 ? "" : (slide.teaserTitle || "");
         const hasTeaserText = showBanner && !isSlide8 && Boolean(slideTeaser);
@@ -345,7 +474,6 @@ async function buildShortFromTemplate(templatePath) {
         const imgPath = path.join(__dirname, 'yt_backgrounds', `backgroundyt${bgNum}.png`);
         
         if (fs.existsSync(imgPath)) {
-            // UNIFIED UNIFORM LAYOUT FIX: Standardize maxChars strictly to 22 across all content slides to lock line width, padding, and vertical footprint.
             let maxChars = 22;
             const rawFormattedText = formatMultilineText(slide.narration_line || slide.title || "", maxChars);
             allSlides.push({
@@ -366,7 +494,6 @@ async function buildShortFromTemplate(templatePath) {
         }
     }
 
-    // SLIDE 10 (Last / Closing Slide): No Bottom Banner
     if (hasClosingBg) {
         console.log("🎙️ Synthesizing closing call-to-action (Slide 10)...");
         const closingAudioPath = path.join(__dirname, `temp_slide_audio_closing_${templateFileName}.mp3`);
@@ -439,39 +566,30 @@ async function buildShortFromTemplate(templatePath) {
         let baseVideoFilter = `[${i * 2}:v]scale=1080:1920:force_original_aspect_ratio=decrease,pad=1080:1920:(ow-iw)/2:(oh-ih)/2,setsar=1`;
         let drawFilters = baseVideoFilter;
 
-        // ------------------------------------------
-        // SUB-SECTION 7A: MAIN BODY TEXT SLIDES
-        // ------------------------------------------
         if (!slide.isClosing && !slide.isIntro && slide.text) {
             const alphaExpr = `if(lt(t,0.25),t/0.25,1)`;
             const textFilePath = path.join(__dirname, `temp_text_${templateFileName}_${i}.txt`);
             fs.writeFileSync(textFilePath, slide.text, 'utf8');
             const safeTextPath = textFilePath.replace(/\\/g, '/').replace(/:/g, '\\:');
 
-            drawFilters += `,drawtext=fontfile='${customFontPath}':textfile='${safeTextPath}':expansion=none:fontcolor=${styleConfig.fontColor}:fontsize=${styleConfig.fontSize}:line_spacing=52:alpha='${alphaExpr}':x=(1080-text_w)/2:y=360`;
+            drawFilters += `,drawtext=fontfile='${customFontPath}':textfile='${safeTextPath}':expansion=none:fontcolor=${styleConfig.fontColor}:fontsize=${styleConfig.fontSize}:line_spacing=40:alpha='${alphaExpr}':x=(1080-text_w)/2:y=360`;
         }
 
-        // ------------------------------------------
-        // SUB-SECTION 7B: PAGINATION DOT INDICATORS
-        // ------------------------------------------
         for (let d = 0; d < totalSlidesCount; d++) {
             const dotX = paginationStartX + (d * dotSpacing);
             const isCurrent = (d === i);
-            const dotColor = isCurrent ? '#D32F2F@1.0' : '#888888@0.4'; 
+            const dotColor = isCurrent ? '#ff0000@1.0' : '#888888@0.4'; 
             const dotRadius = isCurrent ? 8 : 6;
 
             drawFilters += `,drawbox=x=${dotX - dotRadius}:y=${paginationY - dotRadius}:w=${dotRadius * 2}:h=${dotRadius * 2}:color=${dotColor}:t=fill`;
         }
 
-        // ------------------------------------------
-        // SUB-SECTION 7C: LOWER-THIRD BANNER (Strictly applied ONLY to Slides 2 through 8)
-        // ------------------------------------------
         if (slide.showBanner) {
             if (hasCustomBanner) {
                 drawFilters += `[v_stage_${i}];[v_stage_${i}][${bannerInputIndex}:v]overlay=0:1815`;
             } else {
-                drawFilters += `,drawbox=x=0:y=1812:w=1080:h=3:color=#D32F2F@1.0:t=fill`;    
-                drawFilters += `,drawbox=x=0:y=1815:w=220:h=105:color=#D32F2F@1.0:t=fill`;   
+                drawFilters += `,drawbox=x=0:y=1812:w=1080:h=3:color=#ff0000@1.0:t=fill`;    
+                drawFilters += `,drawbox=x=0:y=1815:w=220:h=105:color=#ff0000@1.0:t=fill`;   
                 drawFilters += `,drawbox=x=220:y=1815:w=860:h=105:color=#000000@0.90:t=fill`;   
             }
 
@@ -492,10 +610,10 @@ async function buildShortFromTemplate(templatePath) {
             const safeBannerTitlePath = bannerTitlePath.replace(/\\/g, '/').replace(/:/g, '\\:');
 
             const rawTitleLen = titleString.length;
-            let titleFontSize = 38; 
-            if (rawTitleLen > 38) titleFontSize = 26;
-            else if (rawTitleLen > 30) titleFontSize = 30;
-            else if (rawTitleLen > 24) titleFontSize = 34;
+            let titleFontSize = 48; 
+            if (rawTitleLen > 38) titleFontSize = 34;
+            else if (rawTitleLen > 30) titleFontSize = 38;
+            else if (rawTitleLen > 24) titleFontSize = 42;
 
             const bannerTitleXExpr = `if(lt(t,0.1),250,if(lt(t,0.3),250-(1-(t-0.1)/0.2)*150,if(lt(t,3.0),250,if(lt(t,3.2),250-((t-3.0)/0.2)*150,-500))))`;
             const bannerTitleAlpha = `if(lt(t,0.1),0,if(lt(t,0.3),(t-0.1)/0.2,if(lt(t,3.0),1,if(lt(t,3.2),1-(t-3.0)/0.2,0))))`;
@@ -507,7 +625,11 @@ async function buildShortFromTemplate(templatePath) {
                 fs.writeFileSync(bannerTeaserPath, bannerTeaserStr, 'utf8');
                 const safeBannerTeaserPath = bannerTeaserPath.replace(/\\/g, '/').replace(/:/g, '\\:');
 
-                let teaserFontSize = titleFontSize;
+                const rawTeaserLen = bannerTeaserStr.length;
+                let teaserFontSize = 42;
+                if (rawTeaserLen > 45) teaserFontSize = 28;
+                else if (rawTeaserLen > 35) teaserFontSize = 32;
+                else if (rawTeaserLen > 28) teaserFontSize = 36;
                 
                 const slideTargetDuration = slide.duration;
                 const teaserSlideOutStart = Math.max(3.5, slideTargetDuration - 0.4);
@@ -521,9 +643,6 @@ async function buildShortFromTemplate(templatePath) {
         filterComplex += `${drawFilters}[vbase${i}];\n`;
     });
 
-    // ------------------------------------------
-    // SUB-SECTION 7D: TRANSITION COMPOSITING & AUDIO DSP
-    // ------------------------------------------
     let currentVideoLabel = "vbase0";
     let accumulatedTime = 0;
 
@@ -548,15 +667,15 @@ async function buildShortFromTemplate(templatePath) {
     
     filterComplex += `${concatAudioString}concat=n=${allSlides.length}:v=0:a=1[voice_raw];\n`;
 
-    filterComplex += `[voice_raw]highpass=f=80,equalizer=f=220:width_type=h:width=120:g=-3.5,equalizer=f=3400:width_type=h:width=1200:g=3.0,equalizer=f=7500:width_type=h:width=1500:g=-4.0,deesser=i=0.5:m=0.5,aecho=0.8:0.88:12:0.04,compand=attacks=0.01:decays=0.15:points=-80/-80|-40/-16|-15/-5|0/0,loudnorm=I=-16:TP=-1.2:LRA=9[voice_master];\n`;
+    filterComplex += `[voice_raw]highpass=f=80,equalizer=f=220:width_type=h:width=120:g=-3.0,equalizer=f=3400:width_type=h:width=1200:g=4.0,equalizer=f=7500:width_type=h:width=1500:g=-3.0,deesser=i=0.5:m=0.5,compand=attacks=0.005:decays=0.1:points=-80/-80|-35/-12|-12/-3|0/0,loudnorm=I=-14:TP=-1.0:LRA=7[voice_master];\n`;
 
     if (hasBgMusic) {
         const bgMusicIndex = hasCustomBanner ? (allSlides.length * 2) + 1 : (allSlides.length * 2);
         const totalDuration = allSlides.reduce((acc, s) => acc + s.duration, 0);
         
-        filterComplex += `[${bgMusicIndex}:a]volume=0.38,atrim=duration=${totalDuration.toFixed(3)}[bg_trimmed];\n`;
+        filterComplex += `[${bgMusicIndex}:a]volume=0.25,atrim=duration=${totalDuration.toFixed(3)}[bg_trimmed];\n`;
         filterComplex += `[voice_master]asplit=2[v_for_mix][v_for_sc];\n`;
-        filterComplex += `[bg_trimmed][v_for_sc]sidechaincompress=threshold=0.08:ratio=3.2:attack=15:release=250[bg_ducked];\n`;
+        filterComplex += `[bg_trimmed][v_for_sc]sidechaincompress=threshold=0.04:ratio=4:1:attack=10:release=200[bg_ducked];\n`;
         filterComplex += `[v_for_mix][bg_ducked]amix=inputs=2:duration=first:dropout_transition=1.0[outa]`;
     } else {
         filterComplex += `[voice_master]copy[outa]`;
@@ -588,7 +707,7 @@ async function buildShortFromTemplate(templatePath) {
             allSlides.forEach((_, i) => {
                 const textPath = path.join(__dirname, `temp_text_${templateFileName}_${i}.txt`);
                 if (fs.existsSync(textPath)) fs.unlinkSync(textPath);
-                const headlinePath = path.join(__dirname, `temp_headline_${templateFileName}_${i}.txt`);
+                const headlinePath = path.join(__dirname, `temp_text_${templateFileName}_${i}.txt`);
                 if (fs.existsSync(headlinePath)) fs.unlinkSync(headlinePath);
                 const teaserPath = path.join(__dirname, `temp_teaser_${templateFileName}_${i}.txt`);
                 if (fs.existsSync(teaserPath)) fs.unlinkSync(teaserPath);
@@ -597,12 +716,12 @@ async function buildShortFromTemplate(templatePath) {
                 const bannerTeaserPath = path.join(__dirname, `temp_bteaser_${templateFileName}_${i}.txt`);
                 if (fs.existsSync(bannerTeaserPath)) fs.unlinkSync(bannerTeaserPath);
             });
-            slideAudioFiles.forEach(audioPath => {
+            slideAudioFiles.execSync = slideAudioFiles.forEach(audioPath => {
                 if (fs.existsSync(audioPath)) fs.unlinkSync(audioPath);
             });
 
             if (code === 0) {
-                console.log(`\n🎉 Success! High-energy news short rendered at: ${outputVideoPath}`);
+                console.log(`\n🎉 Success! High-energy news short rendered at: ${outputVideoName}`);
                 resolve();
             } else {
                 reject(new Error(`FFmpeg process exited with code ${code}`));
@@ -617,33 +736,18 @@ async function buildShortFromTemplate(templatePath) {
 // ==========================================
 async function runMainTemplateQueue() {
     console.log("🔍 Scanning workspace for matching template files...");
-    
     const files = fs.readdirSync(__dirname);
-    // FIXED MATCH PATTERN: Added 'Video_Template' explicitly and aligned filtering logic to capture your exact file nomenclature safely.
-    const templateFiles = files.filter(file => file.endsWith('.js') && (
-        file.includes('template') || 
-        file.includes('shorts') || 
-        file.includes('Video_Template') ||
-        file.includes('template_news')
-    ));
-
-    if (templateFiles.length === 0) {
-        console.warn("⚠️ Warning: No matching template files discovered in workspace root!");
-    }
+    const templateFiles = files.filter(file => file.endsWith('.js') && (file.includes('template') || file.includes('shorts') || file.includes('Video_Template')));
 
     for (const file of templateFiles) {
-      	try {
-          	await buildShortFromTemplate(path.join(__dirname, file));
-      	} catch (error) {
-          	console.error(`❌ Pipeline failure encountered while processing ${file}:`, error);
-                process.exit(1);
-      	}
+        try {
+            await buildShortFromTemplate(path.join(__dirname, file));
+        } catch (error) {
+            console.error(`❌ Pipeline failure encountered while processing ${file}:`, error);
+        }
     }
 
     console.log("\n🏁 All queued video generations completed!");
 }
 
-runMainTemplateQueue().catch((err) => {
-    console.error(err);
-    process.exit(1);
-});
+runMainTemplateQueue().catch(console.error);
