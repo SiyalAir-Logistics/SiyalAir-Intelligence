@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE POLICY REALIGNMENT",
+        "hookTitle": "GLOBAL FREIGHT RATE SURGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: SECTION 301 LITIGATION",
-                "teaserTitle": "PARCEL LOGISTICS: UPS AUTOMATION SHIFT",
+                "headline": "TRANSPACIFIC FREIGHT: RATE REBOUND",
+                "teaserTitle": "PORT INFRASTRUCTURE: MIDDLE EAST SURCHARGES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Twenty-five states are suing the federal government over Section 301 tariffs, creating fresh trade policy uncertainty for enterprise importers."
+                "narration_line": "Carriers implement general rate increases across transpacific corridors to capture rising peak volume."
             },
             {
                 "slide_index": 2,
-                "headline": "PARCEL LOGISTICS: UPS AUTOMATION SHIFT",
-                "teaserTitle": "3PL CONTRACTS: GXO RECORD REVENUE",
+                "headline": "PORT INFRASTRUCTURE: MIDDLE EAST SURCHARGES",
+                "teaserTitle": "PARCEL LOGISTICS: USPS RATE REVISIONS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "UPS now processes over two-thirds of domestic parcel volume through automated facilities, driving structural handling cost reductions."
+                "narration_line": "Severe regional port congestion sparks mandatory carrier surcharges and booking restrictions."
             },
             {
                 "slide_index": 3,
-                "headline": "3PL CONTRACTS: GXO RECORD REVENUE",
-                "teaserTitle": "MANUFACTURING: US INDUSTRIAL EXPANSION",
+                "headline": "PARCEL LOGISTICS: USPS RATE REVISIONS",
+                "teaserTitle": "WAREHOUSE AUTOMATION: ROBOTIC SCALING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "GXO Logistics posted its highest quarterly sales in three years as brands increasingly outsource high-tech omnichannel fulfillment operations."
+                "narration_line": "Postal service rate hikes compress e-commerce margins and mandate multi-carrier optimization."
             },
             {
                 "slide_index": 4,
-                "headline": "MANUFACTURING: US INDUSTRIAL EXPANSION",
-                "teaserTitle": "TRANSPACIFIC FREIGHT: SPOT RATE SURGE",
+                "headline": "WAREHOUSE AUTOMATION: ROBOTIC SCALING",
+                "teaserTitle": "CUSTOMS COMPLIANCE: TARIFF MONETIZATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "United States manufacturing expanded for a seventh consecutive month, maintaining reliable baseline demand across domestic intermodal freight routes."
+                "narration_line": "Autonomous trailer loading systems scale rapidly to mitigate severe warehouse labor shortages."
             },
             {
                 "slide_index": 5,
-                "headline": "TRANSPACIFIC FREIGHT: SPOT RATE SURGE",
-                "teaserTitle": "WAREHOUSE ROBOTICS: FEDEX AUTONOMOUS LOADING",
+                "headline": "CUSTOMS COMPLIANCE: TARIFF MONETIZATION",
+                "teaserTitle": "TRUCKING CAPACITY: REGULATORY TIGHTENING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Transpacific ocean spot rates surged as carriers successfully implemented rate hikes amid strong early peak season shipping demand."
+                "narration_line": "Retailers monetize pending tariff refund claims on secondary markets to secure immediate liquidity."
             },
             {
                 "slide_index": 6,
-                "headline": "WAREHOUSE ROBOTICS: FEDEX AUTONOMOUS LOADING",
-                "teaserTitle": "CUSTOMS TARIFFS: REFUND RIGHTS TRADING",
+                "headline": "TRUCKING CAPACITY: REGULATORY TIGHTENING",
+                "teaserTitle": "GLOBAL TRADE: STRATEGIC RESHORING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FedEx is expanding its autonomous trailer loading pilot, deploying robotic AI systems to streamline hub throughput and reduce dwell times."
+                "narration_line": "Federal enforcement sweeps and licensing reforms tighten domestic trucking capacity significantly."
             },
             {
                 "slide_index": 7,
-                "headline": "CUSTOMS TARIFFS: REFUND RIGHTS TRADING",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "GLOBAL TRADE: STRATEGIC RESHORING",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Major retailers are monetizing tariff refund claims on secondary markets to unlock liquidity amid ongoing cross-border trade friction."
+                "narration_line": "Enterprises consolidate supplier networks and increase domestic manufacturing to ensure supply chain resilience."
             },
             {
                 "slide_index": 8,

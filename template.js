@@ -1,73 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE POLICY",
-        "titleBlue": "REALIGNMENT",
-        "footerSummary": "Litigation over forced-labor tariffs, expanding parcel automation, and rising transpacific spot rates redefine global trade logistics execution."
+        "titleWhite": "GLOBAL FREIGHT RATE",
+        "titleBlue": "SURGE",
+        "footerSummary": "Escalating spot rates, port congestion surcharges, and tightening transpacific capacity require immediate modal rebalancing and carrier allocation adjustments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: SECTION 301 LITIGATION",
+            "heading": "TRANSPACIFIC FREIGHT: RATE REBOUND",
             "points": [
-                "A coalition of twenty-five state attorneys general filed a lawsuit challenging Section 301 forced-labor tariff expansions.",
-                "The legal action targets administrative authority and seeks immediate injunctive relief against newly imposed cross-border import levies.",
-                "State challenges create substantial regulatory volatility for enterprise importers attempting to calculate long-term landed cost models.",
-                "Cross-border compliance officers must track court filings continuously to anticipate potential duty suspensions or emergency escrow requirements."
+                "Carriers successfully executed general rate increases across major transpacific ocean corridors to capture rising early peak season volume.",
+                "Spot shipping rates remain elevated, placing severe cost pressures on enterprise importers and beneficial cargo owners.",
+                "Sustained East Asian export demand and tactical capacity controls by ocean liners continue to support upward pricing momentum.",
+                "Supply chain planners must secure contractual space allocations early to mitigate extreme market volatility and premium spot exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL LOGISTICS: UPS AUTOMATION SHIFT",
+            "nextUpTease": "PORT INFRASTRUCTURE: MIDDLE EAST SURCHARGES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PARCEL LOGISTICS: UPS AUTOMATION SHIFT",
+            "heading": "PORT INFRASTRUCTURE: MIDDLE EAST SURCHARGES",
             "points": [
-                "UPS confirmed that over two-thirds of its total domestic package volume is now processed through fully automated logistics facilities.",
-                "Targeted capital allocation toward automated sortation infrastructure has significantly reduced per-package operational handling expenditures.",
-                "Systematic network modernization enables rapid dynamic rerouting capabilities while buffering carrier margins against rising wage pressures.",
-                "Enterprise shippers should leverage carrier automated hub expansions to negotiate improved transit time SLA commitments during peak cycles."
+                "Severe vessel congestion at key Middle East maritime hubs has triggered mandatory carrier surcharges and strict booking curbs.",
+                "Hefty regional volume bottlenecks are drastically reducing terminal throughput efficiency and extending vessel turnaround durations.",
+                "Logistics operators must navigate sudden terminal access restrictions while rerouting shipments through alternative regional gateways.",
+                "Carriers are enforcing strict schedule buffers, forcing forwarders to adapt transit time commitments dynamically."
             ],
             "imageUrl": "",
-            "nextUpTease": "3PL CONTRACTS: GXO RECORD REVENUE",
+            "nextUpTease": "PARCEL LOGISTICS: USPS RATE REVISIONS",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "3PL CONTRACTS: GXO RECORD REVENUE",
+            "heading": "PARCEL LOGISTICS: USPS RATE REVISIONS",
             "points": [
-                "Pure-play contract logistics giant GXO reported its highest quarterly sales figures in three years, driven by omnichannel outsourcing.",
-                "Increased enterprise demand for automated warehouse execution and return logistics management accelerated core contract expansion.",
-                "High contract renewal rates illustrate a broader shift among global retailers toward long-term third-party fulfillment partnerships.",
-                "Supply chain executives are increasingly turning to dedicated 3PL providers to offload capital-intensive technology investments."
+                "The United States Postal Service implemented structural rate increases affecting lightweight commercial parcel services nationwide.",
+                "Marketplace sellers and e-commerce fulfillment operations face compressed operating margins due to rising last-mile delivery fees.",
+                "Carriers are introducing specialized noncompliance penalties for unannounced hazardous materials hidden within standard parcel streams.",
+                "E-commerce supply chain managers should deploy multi-carrier rate-shopping software to optimize last-mile routing economics."
             ],
             "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: US INDUSTRIAL EXPANSION",
+            "nextUpTease": "WAREHOUSE AUTOMATION: ROBOTIC SCALING",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MANUFACTURING: US INDUSTRIAL EXPANSION",
+            "heading": "WAREHOUSE AUTOMATION: ROBOTIC SCALING",
             "points": [
-                "The Institute for Supply Management purchasing index indicated United States manufacturing activity expanded for the seventh consecutive month.",
-                "Steady industrial output gains reflect sustained domestic demand, despite input prices remaining elevated due to lingering material costs.",
-                "Consistent manufacturing expansion is providing reliable baseline freight volume for domestic LTL and intermodal transportation networks.",
-                "Logistics planners must secure committed domestic carrier capacity early as factory orders continue their steady upward trend."
+                "Logistics providers are aggressively expanding autonomous trailer loading and robotic sortation systems across major distribution hubs.",
+                "Advanced computer vision applications enable automated facilities to handle non-standard freight with minimal human oversight.",
+                "Capital investment in physical artificial intelligence significantly reduces yard dwell times and mitigates ongoing warehouse labor shortages.",
+                "Supply chain executives must accelerate automation readiness frameworks to maintain competitive fulfillment throughput speeds."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRANSPACIFIC FREIGHT: SPOT RATE SURGE",
+            "nextUpTease": "CUSTOMS COMPLIANCE: TARIFF MONETIZATION",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -76,51 +76,51 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "TRANSPACIFIC FREIGHT: SPOT RATE SURGE",
+            "heading": "CUSTOMS COMPLIANCE: TARIFF MONETIZATION",
             "points": [
-                "Container shipping lines successfully executed general rate increases across major transpacific ocean corridors, driving spot rates upward.",
-                "Sustained import demand from East Asian manufacturing hubs combined with tactical carrier capacity management supported the price increases.",
-                "The rate rebound indicates robust early peak season volume as importers build inventory ahead of potential trade policy adjustments.",
-                "BCOs reliant on spot freight markets should anticipate elevated ocean rates and potential space allocations on prime loops."
+                "Major retailers are actively utilizing secondary financial markets to monetize pending customs tariff refund claims for liquidity.",
+                "Intermediaries purchase disputed import duty claims at a discount, transferring long regulatory recovery risks off corporate balance sheets.",
+                "Intense corporate cash flow pressures are driving finance departments to explore aggressive trade duty asset liquidation strategies.",
+                "Compliance officers should audit historic duty payment portfolios to evaluate whether early claim sales outweigh clawback timelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSE ROBOTICS: FEDEX AUTONOMOUS LOADING",
+            "nextUpTease": "TRUCKING CAPACITY: REGULATORY TIGHTENING",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "WAREHOUSE ROBOTICS: FEDEX AUTONOMOUS LOADING",
+            "heading": "TRUCKING CAPACITY: REGULATORY TIGHTENING",
             "points": [
-                "FedEx announced the operational expansion of its pilot program deploying autonomous trailer loading systems in key hub facilities.",
-                "The robotic technology uses advanced computer vision to load non-standard freight into linehaul trailers with minimal human oversight.",
-                "Automating heavy trailer loading improves facility throughput speed while significantly mitigating workplace injury risks in hub operations.",
-                "Express carriers deploying physical AI platforms will accelerate yard dwell reduction and improve overall transit reliability."
+                "Interagency federal enforcement sweeps and licensing reforms have removed thousands of non-compliant commercial drivers from service.",
+                "Tightening driver capacity continues to elevate spot truckload shipping rates across western and domestic freight corridors.",
+                "Fleets are adopting advanced retention tools and private parking marketplaces to counter persistent commercial driver shortages.",
+                "Shippers should establish resilient, mode-diverse carrier networks to insulate operations from sudden domestic capacity contractions."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS TARIFFS: REFUND RIGHTS TRADING",
+            "nextUpTease": "GLOBAL TRADE: STRATEGIC RESHORING",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CUSTOMS TARIFFS: REFUND RIGHTS TRADING",
+            "heading": "GLOBAL TRADE: STRATEGIC RESHORING",
             "points": [
-                "Retailers are utilizing secondary financial markets to sell off rights to pending customs tariff refund claims for immediate liquidity.",
-                "Financial intermediaries purchase invalid trade duty claims at a discount, transferring regulatory recovery risk off retail balance sheets.",
-                "The emergence of duty monetization secondary markets demonstrates intense corporate cash flow pressures across consumer retail sectors.",
-                "Finance directors should evaluate duty refund portfolios to determine if early asset liquidation outweighs lengthy customs clawback timelines."
+                "Multinational enterprises are systematically consolidating supplier networks and increasing domestic production investments to mitigate volatility.",
+                "Ongoing trade policy shifts and regulatory investigations are forcing supply chain teams to prioritize compliance rigor over cost.",
+                "Nearshoring initiatives in North America are accelerating as manufacturers seek to shorten fragile overseas component pipelines.",
+                "Logistics strategists must integrate real-time visibility tools to manage decentralized multi-tier inventory architectures successfully."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
