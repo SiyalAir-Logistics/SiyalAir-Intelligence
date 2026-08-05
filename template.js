@@ -1,107 +1,90 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS NETWORK",
-        "titleBlue": "TRANSFORMATION",
-        "footerSummary": "Postal surcharges, maritime sanctions, tariff monetization, and parcel automation signal major operational realignments across global trade corridors."
+        "titleWhite": "GLOBAL TRADE STRATEGIC",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "Section 301 tariff expansions, Hormuz transit negotiations, Rhine barge disruptions, and Jones Act policy shifts drive dynamic global freight realignments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "POSTAL LOGISTICS: HAZMAT SURCHARGES IMPLEMENTED",
+            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
             "points": [
-                "USPS enacted mandatory Ground Advantage price hikes alongside new noncompliance penalty fees for misdeclared hazmat goods.",
-                "Operational surcharges of $2 to $3 now apply to rural lightweight parcel deliveries across major marketplace channels.",
-                "Shippers face heightened audit risk on retail liquid items including essential oils and nail polish formulations.",
-                "E-commerce merchants must update automated shipping software to prevent surprise noncompliance assessments."
+                "The USTR officially initiated Section 301 tariff implementations targeting 60 trading partners following Section 122 expirations.",
+                "New enforcement rules mandate stricter origin verification and forced-labor compliance protocols for imported commercial freight.",
+                "Shippers face expanded duty exposure across key manufacturing categories, requiring re-evaluated sourcing strategies.",
+                "Importers must audit cross-border supply chains to mitigate noncompliance penalties and operational tariff delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL LOGISTICS: UPS AUTOMATION EXPANSION",
+            "nextUpTease": "MARITIME: HORMUZ SHIFT & TOLL RISKS",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PARCEL LOGISTICS: UPS AUTOMATION EXPANSION",
+            "heading": "MARITIME: HORMUZ SHIFT & TOLL RISKS",
             "points": [
-                "UPS confirmed that over 67% of its total US package volume now routes through fully automated sorting hubs.",
-                "The carrier upgraded Smart Pickup protocols to offer small business shippers enhanced visibility and flexible scheduling.",
-                "Automated facility expansion aims to offset rising labor costs while improving package processing turnaround speeds.",
-                "Retailers leveraging automated hubs benefit from reduced misrouting rates and improved delivery predictability."
+                "Iran and Oman advanced talks to establish a temporary shipping corridor while clearing naval mines in the Strait of Hormuz.",
+                "Global shipowners warn proposed transit tolls by regional authorities will trigger mandatory surcharges across ocean trades.",
+                "Carriers are preparing contingent routing schedules to maintain vessel safety and mitigate potential choke-point delays.",
+                "Maritime logistics planners should factor emergency risk surcharges into global ocean freight rate forecasts."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE COMPLIANCE: TARIFF REFUND MONETIZATION",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY DROPS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE COMPLIANCE: TARIFF REFUND MONETIZATION",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY DROPS",
             "points": [
-                "A specialized secondary financial market has emerged for enterprise retailers selling off rights to legal tariff refunds.",
-                "Companies like American Eagle Outfitters utilize refund monetization agreements to secure immediate operational cash flow.",
-                "Concurrently Amazon confirmed issuing controlled tariff refunds from $600M in successfully recouped customs duties.",
-                "Importers are advised to conduct forensic duty audits to capture recoverable capital from invalidated trade tariffs."
+                "Colliers reported U.S. industrial real estate vacancy fell 7 bps to 7.3% in Q2 as net tenant demand outpaced new facility supply.",
+                "The stabilization reflects absorbed warehouse capacity following a multi-year construction boom in major logistics markets.",
+                "Third-party logistics providers are securing prime fulfillment centers to support expanding e-commerce inventory density.",
+                "Enterprise occupiers must plan lease renewals early to hedge against accelerating industrial rent growth."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME LOGISTICS: SEALEAD SANCTIONS LIQUIDATION",
+            "nextUpTease": "INLAND WATERWAYS: RHINE DROUGHT CRUNCH",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME LOGISTICS: SEALEAD SANCTIONS LIQUIDATION",
+            "heading": "INLAND WATERWAYS: RHINE DROUGHT CRUNCH",
             "points": [
-                "Singapore-based ocean carrier SeaLead Shipping formally ceased operations and entered liquidation following US OFAC sanctions.",
-                "US Department of the Treasury sanctions blocked critical international banking channels and container vessel leasing agreements.",
-                "The liquidation forces cargo owners to immediately re-route affected containerized freight across secondary liner networks.",
-                "Supply chain leaders must enforce continuous counterparty sanction screening to prevent sudden carrier operational halts."
+                "Record low water levels on the Rhine and Danube rivers threaten to halt heavy cargo barge traffic across Central Europe.",
+                "Barge operators are enforcing strict load restrictions, forcing bulk shippers to divert containerized freight to rail and truck.",
+                "Reduced waterway draft depths escalate inland transportation costs while straining European intermodal capacity.",
+                "Supply chain managers should execute modal shifts early to avoid bottleneck delays at major river ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: TRANSPACIFIC RATE SURGE",
+            "nextUpTease": "LAST MILE: WALMART DRONE FLIGHT EXPANSION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OCEAN FREIGHT: TRANSPACIFIC RATE SURGE",
+            "heading": "LAST MILE: WALMART DRONE FLIGHT EXPANSION",
             "points": [
-                "Transpacific container spot rates rebounded sharply as major ocean lines successfully implemented mid-quarter price increases.",
-                "Strong import volume out of Asia paired with equipment shortages continues to strain transpacific vessel capacity.",
-                "Carriers are enforcing strict booking curbs and peak season surcharges across primary West Coast trade lanes.",
-                "BCOs should lock in flexible service contract commitments to protect against escalating spot market rate volatility."
+                "Walmart and Wing launched commercial drone delivery across 5 Orlando facilities to scale autonomous last-mile operations.",
+                "The service enables rapid aerial delivery of lightweight retail orders within a localized multi-mile radius of retail hubs.",
+                "Autonomous flight networks reduce urban delivery vehicle reliance while lowering package turnaround times.",
+                "Retail logistics operators are increasingly deploying drone networks to capture competitive last-mile speed advantages."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE LOGISTICS: AMAZON B2B EXPANSION",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "ECOMMERCE LOGISTICS: AMAZON B2B EXPANSION",
-            "points": [
-                "Amazon reported 16% North American sales growth to $200.6B while deploying dedicated Amazon Business fleet vehicles.",
-                "The customized logistics fleet facilitates palletized receiving and consolidated drop-offs at commercial loading docks.",
-                "New distribution facilities in Texas and New York expand regional inventory density for industrial business buyers.",
-                "Enterprise buyers benefit from streamlined receiving workflows and reduced dock congestion at major fulfillment centers."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RETAIL LOGISTICS: GAMESTOP DEBT RESTRUCTURING",
+            "nextUpTease": "FLEET EQUIPMENT: CUMMINS GUIDANCE HIKE",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -109,18 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "RETAIL LOGISTICS: GAMESTOP DEBT RESTRUCTURING",
+            "id": 6,
+            "heading": "FLEET EQUIPMENT: CUMMINS GUIDANCE HIKE",
             "points": [
-                "GameStop completed a $1.4B private debt exchange with institutional lenders to restructure its balance sheet.",
-                "The agreement swaps debt maturing in four to six years for Class A common shares to preserve operational cash flow.",
-                "Restructuring capital allocation shields the retailer from elevated freight handling and inventory holding costs.",
-                "Retail supply chain executives are increasingly leveraging capital market tools to safeguard working capital efficiency."
+                "Cummins raised full-year heavy-duty truck engine guidance as carriers accelerate fleet replacement order volumes.",
+                "Rebounding freight transport activity is driving commercial motor carriers to modernize aging long-haul tractor fleets.",
+                "Increased engine manufacturing production signals broader operational confidence across North American freight markets.",
+                "Fleet managers must align equipment procurement schedules with extended OEM component lead times."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME POLICY: JONES ACT SUSPENSIONS",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "MARITIME POLICY: JONES ACT SUSPENSIONS",
+            "points": [
+                "US Energy Secretary Chris Wright signaled likely extensions of temporary Jones Act suspensions for domestic energy shipments.",
+                "Regulatory waivers allow non-flagged coastal tankers to ease regional fuel transport bottlenecks and stabilize energy logistics.",
+                "The policy flexibility safeguards domestic energy supply chains against localized transportation capacity shortfalls.",
+                "Energy freight coordinators should monitor regulatory updates to optimize coastwise vessel chartering strategies."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

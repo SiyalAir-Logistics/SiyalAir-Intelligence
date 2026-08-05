@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL LOGISTICS NETWORK TRANSFORMATION",
+        "hookTitle": "GLOBAL TRADE STRATEGIC REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "POSTAL LOGISTICS: HAZMAT SURCHARGES IMPLEMENTED",
-                "teaserTitle": "PARCEL LOGISTICS: UPS AUTOMATION EXPANSION",
+                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "MARITIME: HORMUZ SHIFT & TOLL RISKS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USPS implemented new hazmat fees and $2 to $3 rural parcel surcharges. Sellers must audit catalog classifications immediately."
+                "narration_line": "USTR expands Section 301 tariffs across 60 trade partners. Importers must audit supply chains for forced-labor compliance."
             },
             {
                 "slide_index": 2,
-                "headline": "PARCEL LOGISTICS: UPS AUTOMATION EXPANSION",
-                "teaserTitle": "TRADE COMPLIANCE: TARIFF REFUND MONETIZATION",
+                "headline": "MARITIME: HORMUZ SHIFT & TOLL RISKS",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY DROPS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "UPS now processes over 67% of US volume through automated hubs. Upgraded Smart Pickup tools further streamline small business shipping."
+                "narration_line": "Iran and Oman negotiate Hormuz clearance protocols. Shipowners warn potential transit tolls will inflate global ocean freight rates."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE COMPLIANCE: TARIFF REFUND MONETIZATION",
-                "teaserTitle": "MARITIME LOGISTICS: SEALEAD SANCTIONS LIQUIDATION",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY DROPS",
+                "teaserTitle": "INLAND WATERWAYS: RHINE DROUGHT CRUNCH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Retailers are monetizing potential tariff refunds via secondary financial markets. Meanwhile Amazon issued refunds from $600M in recouped duties."
+                "narration_line": "US industrial vacancy drops 7 bps to 7.3%. Tenant demand outpaces new warehouse construction across key logistics hubs."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME LOGISTICS: SEALEAD SANCTIONS LIQUIDATION",
-                "teaserTitle": "OCEAN FREIGHT: TRANSPACIFIC RATE SURGE",
+                "headline": "INLAND WATERWAYS: RHINE DROUGHT CRUNCH",
+                "teaserTitle": "LAST MILE: WALMART DRONE FLIGHT EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "SeaLead Shipping ceased operations following US OFAC sanctions. Shippers must re-route containerized freight across secondary ocean carrier networks."
+                "narration_line": "Rhine river levels sink to historic lows. Barge capacity curbs force modal shifts to rail and trucking networks."
             },
             {
                 "slide_index": 5,
-                "headline": "OCEAN FREIGHT: TRANSPACIFIC RATE SURGE",
-                "teaserTitle": "ECOMMERCE LOGISTICS: AMAZON B2B EXPANSION",
+                "headline": "LAST MILE: WALMART DRONE FLIGHT EXPANSION",
+                "teaserTitle": "FLEET EQUIPMENT: CUMMINS GUIDANCE HIKE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Transpacific spot rates spiked as carriers pushed mid-quarter rate hikes. Strong Asian export volumes continue straining vessel capacity."
+                "narration_line": "Walmart launches Wing drone delivery across 5 Florida hubs. Autonomous aerial logistics accelerates last-mile package turnaround."
             },
             {
                 "slide_index": 6,
-                "headline": "ECOMMERCE LOGISTICS: AMAZON B2B EXPANSION",
-                "teaserTitle": "RETAIL LOGISTICS: GAMESTOP DEBT RESTRUCTURING",
+                "headline": "FLEET EQUIPMENT: CUMMINS GUIDANCE HIKE",
+                "teaserTitle": "MARITIME POLICY: JONES ACT SUSPENSIONS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon expanded Amazon Business with custom trucks for palletized dock deliveries. North American sales hit $200.6B in Q2 2026."
+                "narration_line": "Cummins raises heavy-duty engine guidance on fleet demand. Rebounding freight volume drives long-haul tractor replacements."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL LOGISTICS: GAMESTOP DEBT RESTRUCTURING",
+                "headline": "MARITIME POLICY: JONES ACT SUSPENSIONS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "GameStop completed a $1.4B private debt swap to preserve capital. The agreement exchanges maturing debt for Class A equity."
+                "narration_line": "US officials signal Jones Act extensions for domestic energy. Regulatory waivers prevent fuel transport choke points."
             },
             {
                 "slide_index": 8,
