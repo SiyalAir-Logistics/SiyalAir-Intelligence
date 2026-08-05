@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Federal court demurrage rulings, European barge halts, and sanctions-driven carrier liquidations demand immediate operational realignment across global logistics networks."
+        "titleWhite": "GLOBAL FREIGHT LOGISTICS",
+        "titleBlue": "REBOUND",
+        "footerSummary": "Federal court demurrage validations, strategic port capacity investments, and shifting cross-border trade mandates require immediate operational recalibration across global supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC: DEMURRAGE RULE UPHELD",
+            "heading": "FMC: DETENTION PENALTY MANDATES",
             "points": [
-                "The U.S. Court of Appeals upheld the Federal Maritime Commission ruling requiring ocean container detention and demurrage fees to directly promote freight fluidity.",
-                "Ocean carriers and terminal operators can no longer assess punitive storage penalties when port congestion or gateway closures prevent shippers from retrieving equipment.",
+                "The U.S. Court of Appeals upheld a critical Federal Maritime Commission ruling requiring ocean container demurrage fees to directly promote freight fluidity.",
+                "Ocean carriers are legally barred from assessing punitive storage penalties when port congestion or gateway terminal closures prevent prompt cargo retrieval.",
                 "The legal precedent forces global liner operators to overhaul billing practices and align container penalty structures with actual operational throughput accessibility.",
-                "Enterprise shippers gain substantial legal protection against unwarranted ocean freight surcharges, lowering systemic demurrage dispute exposure across major marine gateways."
+                "Enterprise shippers gain substantial legal protection against unwarranted ocean freight surcharges, lowering systemic dispute exposure across major marine gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT DISRUPTIONS: JEDDAH CONGESTION SURCHARGES",
+            "nextUpTease": "PORT CAPACITY: HMM WASHINGTON TERMINAL INVESTMENT",
             "tags": [
                 "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
@@ -25,15 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "PORT DISRUPTIONS: JEDDAH CONGESTION SURCHARGES",
+            "heading": "PORT CAPACITY: HMM WASHINGTON TERMINAL INVESTMENT",
             "points": [
-                "Severe operational congestion at Saudi Arabia's Jeddah port forced major ocean carriers to implement emergency surcharges and place strict limits on new bookings.",
-                "Surging import cargo volumes overwhelmed container terminal handling capacity, creating severe vessel dwell times and inland equipment repositioning bottlenecks across the Red Sea.",
-                "Liner operators are actively diverting secondary feeder services to alternative Middle East hubs to bypass prolonged anchorage delays at primary gateways.",
-                "Logistics planners targeting regional trade lanes must adjust lead times upward and prepare for elevated container surcharges throughout the third quarter."
+                "HMM announced a major $135M infrastructure investment in Washington United Terminals to expand container handling capacity by 50%.",
+                "The strategic capital infusion focuses on deploying advanced automation and high-speed cranes to accelerate vessel turnaround times at the Pacific Northwest gateway.",
+                "The terminal enhancement directly addresses rising container import volumes and strengthens regional intermodal connectivity for transpacific cargo shippers.",
+                "Supply chain planners utilizing West Coast ports will benefit from improved box velocity and reduced dwell times through the peak shipping season."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: RHINE WATERWAY CRISIS",
+            "nextUpTease": "AIR CARGO: LUFTHANSA Q2 REVENUE SURGE",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -42,49 +42,15 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "INLAND WATERWAYS: RHINE WATERWAY CRISIS",
+            "heading": "AIR CARGO: LUFTHANSA Q2 REVENUE SURGE",
             "points": [
-                "Water levels along Europe's critical Rhine and Danube rivers dropped near record lows following an intense summer heatwave, threatening severe inland barge halts.",
-                "Barge operators are enforcing strict cargo intake limits to prevent groundings, forcing European industrial shippers to move containerized freight onto overburdened rail lines.",
-                "The reduction in navigable draft depth creates compounding transit delays for raw materials, chemical components, and finished goods moving through Central Europe.",
-                "Supply chain directors operating in Western Europe must secure emergency overland transport capacity to mitigate imminent inland waterway logistics blockages."
+                "Lufthansa Cargo posted a 27% increase in second-quarter operating revenue driven by surging global demand for AI hardware transport and Asian exports.",
+                "High-tech equipment manufacturers are aggressively securing premium air freight capacity to accelerate worldwide data center infrastructure deployments.",
+                "The sustained capacity squeeze across Transpacific and Europe-Asia trade lanes has pushed spot air cargo rates significantly above historical baseline averages.",
+                "Freight forwarders must anticipate tight air cargo availability through peak season as technology supply chains monopolize specialized heavy-lift aircraft."
             ],
             "imageUrl": "",
-            "nextUpTease": "SANCTIONS ENFORCEMENT: SEALEAD SHIPPING LIQUIDATION",
-            "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "SANCTIONS ENFORCEMENT: SEALEAD SHIPPING LIQUIDATION",
-            "points": [
-                "Singapore-based container line SeaLead Shipping officially ceased operations and entered liquidation after strict U.S. sanctions targeted its alleged Iranian trade connections.",
-                "Financial institutions and marine service providers immediately severed operational support, stranding containerized cargo and forcing rapid vessel fleet reallocations worldwide.",
-                "The enforcement action highlights heightened regulatory oversight surrounding secondary trade networks and shadow fleet chartering practices across volatile maritime corridors.",
-                "Importers utilizing niche ocean carriers must audit counterparty compliance frameworks to prevent abrupt supply chain stoppages triggered by international sanction designations."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR CARGO: LUFTHANSA DEMAND SURGE",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AIR CARGO: LUFTHANSA DEMAND SURGE",
-            "points": [
-                "Lufthansa Cargo recorded a 27% increase in second-quarter revenue driven by surging demand for AI hardware transport and sustained Asian export volumes.",
-                "High-tech equipment manufacturers are increasingly leveraging premium air freight capacity to accelerate global data center infrastructure deployments across North America and Europe.",
-                "The belly-hold and freighter space squeeze across Transpacific and Europe-Asia trade lanes has driven spot air cargo rates significantly above historical baseline averages.",
-                "Freight forwarders should anticipate tight air cargo capacity through peak season as technology supply chains monopolize specialized heavy-lift air transport capacity."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PHARMA LOGISTICS: J&J NETWORK RESTRUCTURING",
+            "nextUpTease": "MACRO ECONOMY: U.S. TRADE DEFICIT NARROWS",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
@@ -92,16 +58,50 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "PHARMA LOGISTICS: J&J NETWORK RESTRUCTURING",
+            "id": 4,
+            "heading": "MACRO ECONOMY: U.S. TRADE DEFICIT NARROWS",
             "points": [
-                "Healthcare conglomerate Johnson & Johnson initiated a comprehensive $750M supply chain restructuring plan targeting its global innovative medicine manufacturing network.",
-                "The strategic footprint shift involves exiting legacy production facilities, consolidating distribution hubs, and optimizing cold-chain fulfillment operations across key markets.",
-                "The multi-phase overhaul aims to streamline raw material procurement timelines and enhance cold-chain resilience against global supply network disruptions.",
-                "Pharmaceutical supply chain managers must evaluate vendor dependency risks as major drug makers streamline operations to reduce long-term operational overhead."
+                "The U.S. international trade deficit narrowed significantly to $73.3B as domestic import volumes experienced a measured seasonal pullback.",
+                "The contraction reflects shifting inventory replenishment cycles and cautious inventory staging among major retail and industrial importers nationwide.",
+                "Economists note that moderating import growth helps stabilize domestic port processing capabilities after months of intense cargo surges.",
+                "Logistics directors should monitor shifting inventory ratios to optimize warehousing labor and reduce holding costs in upcoming quarters."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT CAPITAL: CMA CGM JOINT VENTURE",
+            "nextUpTease": "CUSTOMS COMPLIANCE: SECTION 301 TARIFF ENFORCEMENT",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "CUSTOMS COMPLIANCE: SECTION 301 TARIFF ENFORCEMENT",
+            "points": [
+                "Trade consultancies advise U.S. importers to prepare for a permanent operational era of Section 301 tariffs and rigorous customs enforcement.",
+                "Regulatory bodies are tightening documentation audits, leaving fewer opportunities for importers to successfully mitigate or reduce historical penalty liabilities.",
+                "Supply chain engineering teams must integrate automated compliance checks directly into enterprise resource planning software to prevent costly border delays.",
+                "Proactive duty management and precise product classification are now essential competencies for mitigating rising cross-border fiscal exposure."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME LOGISTICS: SEALEAD SHIPPING LIQUIDATION",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MARITIME LOGISTICS: SEALEAD SHIPPING LIQUIDATION",
+            "points": [
+                "Singapore-based container liner SeaLead Shipping officially ceased operations and entered liquidation following strict U.S. sanctions impact.",
+                "Global financial institutions and marine service providers immediately severed operational support, stranding active containerized cargo shipments worldwide.",
+                "The enforcement action highlights heightened regulatory scrutiny surrounding secondary trade networks and shadow fleet chartering across volatile trade corridors.",
+                "Importers utilizing niche ocean carriers must audit counterparty compliance frameworks to prevent abrupt supply chain stoppages triggered by sanctions."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ECOMMERCE FULFILLMENT: AMAZON TARIFF REFUND INITIATIVE",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "PORT CAPITAL: CMA CGM JOINT VENTURE",
+            "heading": "ECOMMERCE FULFILLMENT: AMAZON TARIFF REFUND INITIATIVE",
             "points": [
-                "Global ocean carrier CMA CGM launched a container port modernization joint venture designed to upgrade digital terminal infrastructure across strategic international gateways.",
-                "The capital initiative focuses on deploying automated container handling equipment, advanced terminal management systems, and optimized vessel berth scheduling tools.",
-                "The modernization effort addresses structural port bottlenecks, improving container turnaround velocity and expanding handling capacity for ultra-large container vessels.",
-                "Maritime logistics stakeholders will benefit from enhanced gateway fluidness and reduced port dwell times as digitized infrastructure upgrades operational capacity."
+                "Amazon announced plans to distribute a portion of $600M in recovered tariff refunds to consumers and sellers under specific circumstances.",
+                "The e-commerce giant aims to lower retail prices and drive higher sales velocity across its sprawling North American fulfillment network.",
+                "The financial adjustment provides temporary margin relief for participating marketplace merchants navigating elevated operational and storage overhead.",
+                "Online retailers should review marketplace disbursement updates to maximize cash flow recovery from historical tariff overpayments."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

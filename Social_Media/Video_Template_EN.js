@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE SHIFTS",
+        "hookTitle": "GLOBAL FREIGHT LOGISTICS REBOUND",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FMC: DEMURRAGE RULE UPHELD",
-                "teaserTitle": "PORT DISRUPTIONS: JEDDAH CONGESTION SURCHARGES",
+                "headline": "FMC: DETENTION PENALTY MANDATES",
+                "teaserTitle": "PORT CAPACITY: HMM WASHINGTON TERMINAL INVESTMENT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The federal appeals court upheld FMC rules requiring ocean demurrage fees to directly promote container fluidity."
+                "narration_line": "Appellate courts uphold FMC rules requiring ocean demurrage fees to directly promote port freight fluidity."
             },
             {
                 "slide_index": 2,
-                "headline": "PORT DISRUPTIONS: JEDDAH CONGESTION SURCHARGES",
-                "teaserTitle": "INLAND WATERWAYS: RHINE WATERWAY CRISIS",
+                "headline": "PORT CAPACITY: HMM WASHINGTON TERMINAL INVESTMENT",
+                "teaserTitle": "AIR CARGO: LUFTHANSA Q2 REVENUE SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Severe congestion at Jeddah port prompted major carriers to implement emergency surcharges and restrict booking intake."
+                "narration_line": "HMM invests $135M in Washington United Terminals to expand container handling capacity by 50%."
             },
             {
                 "slide_index": 3,
-                "headline": "INLAND WATERWAYS: RHINE WATERWAY CRISIS",
-                "teaserTitle": "SANCTIONS ENFORCEMENT: SEALEAD SHIPPING LIQUIDATION",
+                "headline": "AIR CARGO: LUFTHANSA Q2 REVENUE SURGE",
+                "teaserTitle": "MACRO ECONOMY: U.S. TRADE DEFICIT NARROWS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Europe's Rhine and Danube rivers hit record low water levels, forcing barge capacity cuts and modal shifts to rail."
+                "narration_line": "Lufthansa Cargo records a 27% revenue surge driven by AI hardware transport and Asian export demand."
             },
             {
                 "slide_index": 4,
-                "headline": "SANCTIONS ENFORCEMENT: SEALEAD SHIPPING LIQUIDATION",
-                "teaserTitle": "AIR CARGO: LUFTHANSA DEMAND SURGE",
+                "headline": "MACRO ECONOMY: U.S. TRADE DEFICIT NARROWS",
+                "teaserTitle": "CUSTOMS COMPLIANCE: SECTION 301 TARIFF ENFORCEMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "SeaLead Shipping entered liquidation following strict U.S. sanctions targeting alleged Iranian maritime trade connections."
+                "narration_line": "The U.S. trade deficit narrows to $73.3B amid a measured seasonal pullback in import volumes."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: LUFTHANSA DEMAND SURGE",
-                "teaserTitle": "PHARMA LOGISTICS: J&J NETWORK RESTRUCTURING",
+                "headline": "CUSTOMS COMPLIANCE: SECTION 301 TARIFF ENFORCEMENT",
+                "teaserTitle": "MARITIME LOGISTICS: SEALEAD SHIPPING LIQUIDATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Lufthansa Cargo revenue jumped 27% in Q2, propelled by high-tech AI hardware shipments across major trade corridors."
+                "narration_line": "Importers face permanent Section 301 tariffs as customs enforcement and documentation audits tighten globally."
             },
             {
                 "slide_index": 6,
-                "headline": "PHARMA LOGISTICS: J&J NETWORK RESTRUCTURING",
-                "teaserTitle": "PORT CAPITAL: CMA CGM JOINT VENTURE",
+                "headline": "MARITIME LOGISTICS: SEALEAD SHIPPING LIQUIDATION",
+                "teaserTitle": "ECOMMERCE FULFILLMENT: AMAZON TARIFF REFUND INITIATIVE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Johnson & Johnson launched a $750M supply chain restructuring to streamline global medicine manufacturing and distribution networks."
+                "narration_line": "SeaLead Shipping enters liquidation following strict U.S. sanctions impacting global operations."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT CAPITAL: CMA CGM JOINT VENTURE",
+                "headline": "ECOMMERCE FULFILLMENT: AMAZON TARIFF REFUND INITIATIVE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "CMA CGM launched a container port joint venture to modernize infrastructure and accelerate vessel turnaround times globally."
+                "narration_line": "Amazon issues $600M in tariff refunds to lower consumer prices and support marketplace merchants."
             },
             {
                 "slide_index": 8,
