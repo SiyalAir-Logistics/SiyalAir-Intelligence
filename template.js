@@ -1,56 +1,90 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT CAPACITY",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Surging semiconductor air cargo, Strait of Hormuz passage negotiations, and Rhine River barge restrictions force immediate global freight rerouting."
+        "titleWhite": "GLOBAL TRADE POLICY",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "Litigation over forced-labor tariffs, expanding parcel automation, and rising transpacific spot rates redefine global trade logistics execution."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME SECURITY: HORMUZ ROUTE DEAL",
+            "heading": "TRADE POLICY: SECTION 301 LITIGATION",
             "points": [
-                "Iran and Oman are finalizing a strategic agreement to establish a temporary safe navigation corridor through the Strait of Hormuz.",
-                "The diplomatic initiative includes provisions for international mine-clearing operations to restore commercial maritime confidence across the Gulf.",
-                "Securing ocean transit through this critical bottleneck provides necessary risk mitigation for global tanker and container fleets.",
-                "Maritime shippers should monitor transit protocols closely as carrier risk surcharges adjust to regional stability updates."
+                "A coalition of twenty-five state attorneys general filed a lawsuit challenging Section 301 forced-labor tariff expansions.",
+                "The legal action targets administrative authority and seeks immediate injunctive relief against newly imposed cross-border import levies.",
+                "State challenges create substantial regulatory volatility for enterprise importers attempting to calculate long-term landed cost models.",
+                "Cross-border compliance officers must track court filings continuously to anticipate potential duty suspensions or emergency escrow requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: AI HARDWARE DEMAND",
+            "nextUpTease": "PARCEL LOGISTICS: UPS AUTOMATION SHIFT",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR CARGO: AI HARDWARE DEMAND",
+            "heading": "PARCEL LOGISTICS: UPS AUTOMATION SHIFT",
             "points": [
-                "Lufthansa Cargo registered a twenty-seven percent quarterly revenue increase driven by massive export volumes of semiconductor hardware.",
-                "Surging demand for artificial intelligence infrastructure across Asia-Pacific corridors continues to consume high-priority air freight capacity.",
-                "The rapid expansion of tech-driven air tonnage offsets broader macroeconomic weakness in traditional consumer goods forwarding.",
-                "Enterprise shippers must secure long-term block space agreements to insulate high-tech supply chains against peak season rate surges."
+                "UPS confirmed that over two-thirds of its total domestic package volume is now processed through fully automated logistics facilities.",
+                "Targeted capital allocation toward automated sortation infrastructure has significantly reduced per-package operational handling expenditures.",
+                "Systematic network modernization enables rapid dynamic rerouting capabilities while buffering carrier margins against rising wage pressures.",
+                "Enterprise shippers should leverage carrier automated hub expansions to negotiate improved transit time SLA commitments during peak cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS COMPLIANCE: MANIFEST RULES",
+            "nextUpTease": "3PL CONTRACTS: GXO RECORD REVENUE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CUSTOMS COMPLIANCE: MANIFEST RULES",
+            "heading": "3PL CONTRACTS: GXO RECORD REVENUE",
             "points": [
-                "Kenyan maritime authorities unveiled enhanced cargo manifest compliance regulations designed to stop systematic import misdeclaration.",
-                "The updated framework enforces strict pre-arrival documentation requirements and heightened verification standards across all primary ports.",
-                "Stringent regulatory oversight aims to eliminate customs revenue leakage while standardizing cross-border freight processing.",
-                "Global forwarders must update electronic data interchange feeds to ensure manifest data accuracy and prevent container holds."
+                "Pure-play contract logistics giant GXO reported its highest quarterly sales figures in three years, driven by omnichannel outsourcing.",
+                "Increased enterprise demand for automated warehouse execution and return logistics management accelerated core contract expansion.",
+                "High contract renewal rates illustrate a broader shift among global retailers toward long-term third-party fulfillment partnerships.",
+                "Supply chain executives are increasingly turning to dedicated 3PL providers to offload capital-intensive technology investments."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: RHINE HEATWAVE CRISIS",
+            "nextUpTease": "MANUFACTURING: US INDUSTRIAL EXPANSION",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MANUFACTURING: US INDUSTRIAL EXPANSION",
+            "points": [
+                "The Institute for Supply Management purchasing index indicated United States manufacturing activity expanded for the seventh consecutive month.",
+                "Steady industrial output gains reflect sustained domestic demand, despite input prices remaining elevated due to lingering material costs.",
+                "Consistent manufacturing expansion is providing reliable baseline freight volume for domestic LTL and intermodal transportation networks.",
+                "Logistics planners must secure committed domestic carrier capacity early as factory orders continue their steady upward trend."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRANSPACIFIC FREIGHT: SPOT RATE SURGE",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "TRANSPACIFIC FREIGHT: SPOT RATE SURGE",
+            "points": [
+                "Container shipping lines successfully executed general rate increases across major transpacific ocean corridors, driving spot rates upward.",
+                "Sustained import demand from East Asian manufacturing hubs combined with tactical carrier capacity management supported the price increases.",
+                "The rate rebound indicates robust early peak season volume as importers build inventory ahead of potential trade policy adjustments.",
+                "BCOs reliant on spot freight markets should anticipate elevated ocean rates and potential space allocations on prime loops."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "WAREHOUSE ROBOTICS: FEDEX AUTONOMOUS LOADING",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -58,69 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "INLAND WATERWAYS: RHINE HEATWAVE CRISIS",
-            "points": [
-                "Record low water levels on the Rhine River threaten to halt commercial barge movement across critical Central European industrial corridors.",
-                "Severe summer heatwaves have restricted vessel draft depths, forcing operators to drastically reduce container payload capacities per trip.",
-                "Inland logistics bottlenecks are compounding rail and truck congestion as manufacturing plants scramble for alternative feeder capacity.",
-                "European supply chain planners must shift critical raw material flows to land transportation to avoid operational shutdowns."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: WASHINGTON TERMINAL",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "PORT INFRASTRUCTURE: WASHINGTON TERMINAL",
-            "points": [
-                "Ocean carrier HMM announced a one-hundred-thirty-five-million-dollar investment into Washington United Terminals at Tacoma.",
-                "The capital infusion focuses on expanding berth throughput capacity by fifty percent through automated container handling upgrades.",
-                "Upgrading Pacific Northwest port infrastructure establishes long-term terminal resiliency against shifting transpacific trade volumes.",
-                "Importers routing cargo through West Coast gateways will benefit from reduced vessel dwell times and enhanced intermodal connectivity."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PARCEL RATES: USPS SURCHARGE EXPANSION",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "PARCEL RATES: USPS SURCHARGE EXPANSION",
+            "heading": "WAREHOUSE ROBOTICS: FEDEX AUTONOMOUS LOADING",
             "points": [
-                "The United States Postal Service implemented immediate package rate adjustments and added delivery surcharges for rural destinations.",
-                "Lightweight Ground Advantage parcels face incremental cost increases ranging from two to three dollars per shipment for remote ZIP codes.",
-                "Postal restructuring initiatives aim to align last-mile operational expenses with real delivery density constraints nationwide.",
-                "E-commerce merchants should audit fulfillment network origins to optimize regional zone skipping and control parcel spend."
+                "FedEx announced the operational expansion of its pilot program deploying autonomous trailer loading systems in key hub facilities.",
+                "The robotic technology uses advanced computer vision to load non-standard freight into linehaul trailers with minimal human oversight.",
+                "Automating heavy trailer loading improves facility throughput speed while significantly mitigating workplace injury risks in hub operations.",
+                "Express carriers deploying physical AI platforms will accelerate yard dwell reduction and improve overall transit reliability."
             ],
             "imageUrl": "",
-            "nextUpTease": "MIDDLE EAST PORTS: JEDDAH CONGESTION",
+            "nextUpTease": "CUSTOMS TARIFFS: REFUND RIGHTS TRADING",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MIDDLE EAST PORTS: JEDDAH CONGESTION",
+            "heading": "CUSTOMS TARIFFS: REFUND RIGHTS TRADING",
             "points": [
-                "Severe vessel congestion at the Port of Jeddah forced major ocean carriers to introduce emergency surcharges and booking restrictions.",
-                "Surging transshipment volumes paired with regional route adjustments have overwhelmed container terminal yards and berth availability.",
-                "Container dwell times have escalated significantly, forcing ocean carriers to bypass planned calls to restore schedule reliability.",
-                "Logistics managers routing cargo through Red Sea hubs must re-route critical shipments or factor in extended transit buffers."
+                "Retailers are utilizing secondary financial markets to sell off rights to pending customs tariff refund claims for immediate liquidity.",
+                "Financial intermediaries purchase invalid trade duty claims at a discount, transferring regulatory recovery risk off retail balance sheets.",
+                "The emergence of duty monetization secondary markets demonstrates intense corporate cash flow pressures across consumer retail sectors.",
+                "Finance directors should evaluate duty refund portfolios to determine if early asset liquidation outweighs lengthy customs clawback timelines."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

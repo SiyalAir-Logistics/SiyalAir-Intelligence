@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT CAPACITY SHIFTS",
+        "hookTitle": "GLOBAL TRADE POLICY REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME SECURITY: HORMUZ ROUTE DEAL",
-                "teaserTitle": "AIR CARGO: AI HARDWARE DEMAND",
+                "headline": "TRADE POLICY: SECTION 301 LITIGATION",
+                "teaserTitle": "PARCEL LOGISTICS: UPS AUTOMATION SHIFT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Iran and Oman near a deal for safe Hormuz transit and mine clearing, easing maritime trade risks."
+                "narration_line": "Twenty-five states are suing the federal government over Section 301 tariffs, creating fresh trade policy uncertainty for enterprise importers."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO: AI HARDWARE DEMAND",
-                "teaserTitle": "CUSTOMS COMPLIANCE: MANIFEST RULES",
+                "headline": "PARCEL LOGISTICS: UPS AUTOMATION SHIFT",
+                "teaserTitle": "3PL CONTRACTS: GXO RECORD REVENUE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Lufthansa Cargo revenue surged twenty-seven percent as artificial intelligence hardware exports consume Asia air freight capacity."
+                "narration_line": "UPS now processes over two-thirds of domestic parcel volume through automated facilities, driving structural handling cost reductions."
             },
             {
                 "slide_index": 3,
-                "headline": "CUSTOMS COMPLIANCE: MANIFEST RULES",
-                "teaserTitle": "INLAND WATERWAYS: RHINE HEATWAVE CRISIS",
+                "headline": "3PL CONTRACTS: GXO RECORD REVENUE",
+                "teaserTitle": "MANUFACTURING: US INDUSTRIAL EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Kenya mandates stricter cargo manifest verification protocols to eliminate import misdeclarations across primary trade gateways."
+                "narration_line": "GXO Logistics posted its highest quarterly sales in three years as brands increasingly outsource high-tech omnichannel fulfillment operations."
             },
             {
                 "slide_index": 4,
-                "headline": "INLAND WATERWAYS: RHINE HEATWAVE CRISIS",
-                "teaserTitle": "PORT INFRASTRUCTURE: WASHINGTON TERMINAL",
+                "headline": "MANUFACTURING: US INDUSTRIAL EXPANSION",
+                "teaserTitle": "TRANSPACIFIC FREIGHT: SPOT RATE SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Record low Rhine River levels threaten Central European barge freight, forcing modal shifts toward truck and rail."
+                "narration_line": "United States manufacturing expanded for a seventh consecutive month, maintaining reliable baseline demand across domestic intermodal freight routes."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT INFRASTRUCTURE: WASHINGTON TERMINAL",
-                "teaserTitle": "PARCEL RATES: USPS SURCHARGE EXPANSION",
+                "headline": "TRANSPACIFIC FREIGHT: SPOT RATE SURGE",
+                "teaserTitle": "WAREHOUSE ROBOTICS: FEDEX AUTONOMOUS LOADING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "HMM commits one-hundred-thirty-five million dollars to expand Washington United Terminals capacity by fifty percent."
+                "narration_line": "Transpacific ocean spot rates surged as carriers successfully implemented rate hikes amid strong early peak season shipping demand."
             },
             {
                 "slide_index": 6,
-                "headline": "PARCEL RATES: USPS SURCHARGE EXPANSION",
-                "teaserTitle": "MIDDLE EAST PORTS: JEDDAH CONGESTION",
+                "headline": "WAREHOUSE ROBOTICS: FEDEX AUTONOMOUS LOADING",
+                "teaserTitle": "CUSTOMS TARIFFS: REFUND RIGHTS TRADING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "USPS rolls out package rate hikes and rural delivery surcharges, raising last-mile expenses for marketplace sellers."
+                "narration_line": "FedEx is expanding its autonomous trailer loading pilot, deploying robotic AI systems to streamline hub throughput and reduce dwell times."
             },
             {
                 "slide_index": 7,
-                "headline": "MIDDLE EAST PORTS: JEDDAH CONGESTION",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "CUSTOMS TARIFFS: REFUND RIGHTS TRADING",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Heavy Port of Jeddah congestion triggers ocean carrier surcharges and booking curbs across Red Sea trade lanes."
+                "narration_line": "Major retailers are monetizing tariff refund claims on secondary markets to unlock liquidity amid ongoing cross-border trade friction."
             },
             {
                 "slide_index": 8,
