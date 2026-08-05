@@ -1,73 +1,107 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE SYSTEM",
-        "titleBlue": "REALIGNMENT",
-        "footerSummary": "USTR Section 301 expansion, $604M broker liability ruling, Chinese router exploits, and Hormuz maritime accords drive global supply chain shifts."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "RESTRUCTURING",
+        "footerSummary": "USPS noncompliance fees, Port of Virginia CSX expansion, secondary tariff monetization, and SeaLead OFAC liquidation drive global operational shifts."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE TARIFFS: USTR SECTION 301",
+            "heading": "POSTAL COMPLIANCE: HAZMAT RATE RESTRUCTURING",
             "points": [
-                "The Office of the United States Trade Representative launched Section 301 forced-labor tariffs targeting 60 trading partners as Section 122 duties expired.",
-                "In response, 25 state attorneys general filed federal lawsuits claiming the administrative enforcement framework bypasses statutory trade authority.",
-                "Global importers face heightened compliance audits and shifting tariff refund monetization structures across cross-border supply chains.",
-                "Procurement teams must restructure import documentation to verify supplier labor compliance and hedge against retroactive duty risks."
+                "USPS implemented noncompliance fees and revised Ground Advantage tariffs for e-commerce package shipments.",
+                "The regulatory rate shift forces online marketplaces to update automated hazardous material identification and labeling workflows.",
+                "Logistics managers must reconfigure shipping software rules to prevent unexpected postal surcharges on lightweight domestic freight.",
+                "E-commerce retailers face immediate margin pressures unless fulfillment systems accurately flag restricted chemical compounds at checkout."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: HARDWARE ROUTER EXPLOITS",
+            "nextUpTease": "RAIL INFRASTRUCTURE: DIRECT MIDWEST EXPRESS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CYBERSECURITY: HARDWARE ROUTER EXPLOITS",
+            "heading": "RAIL INFRASTRUCTURE: DIRECT MIDWEST EXPRESS",
             "points": [
-                "Security researchers at VulnCheck uncovered an active backdoor vulnerability within 100K Chinese-manufactured enterprise internet routers deployed globally.",
-                "The exploit grants unauthenticated remote access to critical network infrastructure, exposing supply chain telemetry and warehouse management software.",
-                "Supply chain IT teams are executing emergency firmware patching and network segment isolation across international logistics facilities.",
-                "Enterprise logistics operators must audit operational technology hardware to prevent unauthorized data exfiltration and system disruptions."
+                "The Port of Virginia launched direct CSX intermodal rail service connecting East Coast container terminals to Indianapolis.",
+                "The infrastructure bypasses congested Chicago rail hubs and eliminates long-haul drayage trucking legs across the Midwest corridor.",
+                "Midwest supply chain operators gain reduced container transit times and lower carbon emissions across primary import channels.",
+                "Import planners should evaluate intermodal routing strategies to capitalize on direct rail connectivity into Indiana distribution hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE SANCTIONS: ROBOTICS EXPORT RESTRICTIONS",
+            "nextUpTease": "DUTY LIQUIDITY: TARIFF REFUND MONETIZATION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE SANCTIONS: ROBOTICS EXPORT RESTRICTIONS",
+            "heading": "DUTY LIQUIDITY: TARIFF REFUND MONETIZATION",
             "points": [
-                "China imposed retaliatory sanctions on 6 US robotics manufacturers and instituted strict export review controls on commercial unmanned aerial vehicles.",
-                "The regulatory ban cuts off critical component sourcing for automated warehouse systems and defense-adjacent logistics technology providers.",
-                "Automated facility operators are accelerating supplier diversification to secure domestic control hardware and sensor supply chains.",
-                "Robotics procurement leads must evaluate secondary component vendors to mitigate extended lead times on industrial automation hardware."
+                "Retailers are monetizing pending customs tariff refund claims by selling trade rights to private secondary liquidity markets.",
+                "The financial mechanism provides immediate working capital to commercial importers burdened by delayed administrative duty payouts.",
+                "Trade compliance leaders are auditing historical customs entries to package legal refund claims for institutional investor sale.",
+                "Finance executives can leverage secondary debt transfers to hedge operational cash flow against prolonged regulatory review periods."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME LOGISTICS: HORMUZ TRANSIT ACCORD",
+            "nextUpTease": "FREIGHT LOGISTICS: DEDICATED PALLET NETWORK",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME LOGISTICS: HORMUZ TRANSIT ACCORD",
+            "heading": "FREIGHT LOGISTICS: DEDICATED PALLET NETWORK",
             "points": [
-                "Iran and Oman reached a preliminary agreement on Hormuz Strait maritime shipping protocols to maintain commercial vessel transit stability.",
-                "The accord counters proposed transit tolling mechanisms that threatened to trigger secondary war-risk insurance surcharges across ocean freight.",
-                "Global liner operators are stabilizing Middle East container routes while maintaining strategic security protocols through critical maritime chokepoints.",
-                "Ocean freight buyers should monitor carrier bunker and war-risk adjustments as Persian Gulf shipping conditions stabilize."
+                "Amazon Business deployed branded delivery vehicles optimized for consolidated drop-offs and palletized freight loading dock transfers.",
+                "The specialized fleet expansion addresses commercial B2B procurement requirements while streamlining last-mile fulfillment density.",
+                "Commercial receiving facilities can schedule consolidated dock deliveries, reducing congestion across industrial park unloading bays.",
+                "B2B procurement teams must adapt receiving dock scheduling software to accommodate structured multi-pallet delivery windows."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET COMPLIANCE: BROKER LIABILITY VERDICT",
+            "nextUpTease": "SANCTIONS COMPLIANCE: CARRIER FLEET LIQUIDATION",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "SANCTIONS COMPLIANCE: CARRIER FLEET LIQUIDATION",
+            "points": [
+                "Singapore-based SeaLead Shipping ceased trade operations and entered liquidation following US OFAC sanctions enforcement.",
+                "The maritime asset liquidation follows regulatory scrutiny over alleged financial links to sanctioned Middle Eastern transport networks.",
+                "Global container shippers must immediately reassign ocean cargo bookings to fully compliant alternative liner operators.",
+                "Freight forwarders face operational disruption while securing emergency container transfers across international trade lanes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME POLICY: JONES ACT EXTENSION",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MARITIME POLICY: JONES ACT EXTENSION",
+            "points": [
+                "The US Department of Energy signaled an extension of temporary Jones Act maritime waivers for domestic energy transport.",
+                "The regulatory relief allows foreign-flagged tankers to move domestic fuel supplies between coastal ports to stabilize regional energy prices.",
+                "Coastal energy supply chains gain increased vessel capacity and reduced maritime transport costs along East Coast waterways.",
+                "Energy traders should adjust coastal distribution models to maximize cargo throughput during the temporary waiver period."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FLEET EQUIPMENT: HEAVY DUTY REPLACEMENT",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -75,52 +109,18 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "FLEET COMPLIANCE: BROKER LIABILITY VERDICT",
-            "points": [
-                "A Texas court upheld a $604M negligent hiring verdict against C.H. Robinson, establishing strict broker liability for third-party carrier safety vetting.",
-                "Freight brokerages are overhauling onboarding protocols to enforce automated carrier safety score validation and continuous monitoring.",
-                "Legal risk exposure is driving shippers and brokers toward direct-asset carrier selection to limit vicarious liability claims.",
-                "Transportation risk managers must update carrier selection criteria to ensure full compliance with evolving state safety standards."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "WAREHOUSE AUTOMATION: AERIAL DRONE AUDITS",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "WAREHOUSE AUTOMATION: AERIAL DRONE AUDITS",
-            "points": [
-                "Health retailer GNC deployed autonomous indoor drones across its 450K sq ft distribution centers to automate inventory cycle counting.",
-                "The automated system eliminates manual material handling equipment usage while improving real-time inventory tracking accuracy.",
-                "Distribution networks are increasingly integrating physical AI and aerial robotics to resolve persistent warehouse labor shortages.",
-                "Fulfillment center managers can reduce dock-to-stock cycle times by replacing manual rack scanning with continuous aerial drone sweeps."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LABOR PIPELINE: VETERAN CDL FAST-TRACK",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "LABOR PIPELINE: VETERAN CDL FAST-TRACK",
+            "heading": "FLEET EQUIPMENT: HEAVY DUTY REPLACEMENT",
             "points": [
-                "The US Department of Transportation launched the Freedom Haulers campaign to expedite Commercial Driver's License transitions for military veterans.",
-                "The interagency initiative streamlines military driving credential conversion while maintaining federal safety and drug testing compliance enforcement.",
-                "Motor carriers gain a qualified talent pipeline to alleviate long-haul driver capacity constraints and manage fleet operational costs.",
-                "Fleet managers should align recruiting infrastructure with federal veteran programs to capture skilled driving talent efficiently."
+                "Engine manufacturer Cummins raised North American heavy-duty truck market guidance due to accelerating fleet replacement demand.",
+                "Commercial motor carriers are replacing aging fleet assets as truckload freight rates and operational utilization stabilize.",
+                "Fleet operations teams face extending lead times for new commercial powertrain equipment across original equipment manufacturers.",
+                "Transportation executives must align fleet procurement schedules with production allocation cycles to maintain service reliability."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

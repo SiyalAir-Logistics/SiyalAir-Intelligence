@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE SYSTEM REALIGNMENT",
+        "hookTitle": "GLOBAL FREIGHT NETWORK RESTRUCTURING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE TARIFFS: USTR SECTION 301",
-                "teaserTitle": "CYBERSECURITY: HARDWARE ROUTER EXPLOITS",
+                "headline": "POSTAL COMPLIANCE: HAZMAT RATE RESTRUCTURING",
+                "teaserTitle": "RAIL INFRASTRUCTURE: DIRECT MIDWEST EXPRESS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR enforced Section 301 tariffs on 60 trading partners. Importers face heightened compliance audits and shifting refund monetization models."
+                "narration_line": "USPS issued noncompliance fees for hazmat freight. Shippers must update chemical labeling to avoid $3 surcharges."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: HARDWARE ROUTER EXPLOITS",
-                "teaserTitle": "TRADE SANCTIONS: ROBOTICS EXPORT RESTRICTIONS",
+                "headline": "RAIL INFRASTRUCTURE: DIRECT MIDWEST EXPRESS",
+                "teaserTitle": "DUTY LIQUIDITY: TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Security teams detected backdoors in 100K Chinese routers worldwide. Freight networks must execute emergency firmware patching to secure supply chain telemetry."
+                "narration_line": "Port of Virginia launched direct CSX rail to Indianapolis. The route bypasses Chicago chokepoints for faster transit."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE SANCTIONS: ROBOTICS EXPORT RESTRICTIONS",
-                "teaserTitle": "MARITIME LOGISTICS: HORMUZ TRANSIT ACCORD",
+                "headline": "DUTY LIQUIDITY: TARIFF REFUND MONETIZATION",
+                "teaserTitle": "FREIGHT LOGISTICS: DEDICATED PALLET NETWORK",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "China sanctioned 6 US robotics firms and restricted drone exports. Automated facility operators are accelerating component reshoring to shield operations."
+                "narration_line": "Retailers are selling rights to pending tariff refunds. Importers gain immediate capital via secondary liquidity markets."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME LOGISTICS: HORMUZ TRANSIT ACCORD",
-                "teaserTitle": "FLEET COMPLIANCE: BROKER LIABILITY VERDICT",
+                "headline": "FREIGHT LOGISTICS: DEDICATED PALLET NETWORK",
+                "teaserTitle": "SANCTIONS COMPLIANCE: CARRIER FLEET LIQUIDATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Iran and Oman reached a Hormuz shipping agreement to maintain transit stability. Ocean carriers are mitigating secondary war-risk surcharges across key lanes."
+                "narration_line": "Amazon Business rolled out dedicated palletized delivery trucks. The service streamlines dock operations for commercial buyers."
             },
             {
                 "slide_index": 5,
-                "headline": "FLEET COMPLIANCE: BROKER LIABILITY VERDICT",
-                "teaserTitle": "WAREHOUSE AUTOMATION: AERIAL DRONE AUDITS",
+                "headline": "SANCTIONS COMPLIANCE: CARRIER FLEET LIQUIDATION",
+                "teaserTitle": "MARITIME POLICY: JONES ACT EXTENSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A Texas court issued a $604M verdict against C.H. Robinson. Freight brokers are overhauling carrier vetting to eliminate vicarious liability risks."
+                "narration_line": "SeaLead Shipping entered liquidation after US OFAC sanctions. Shippers must reassign ocean freight bookings immediately."
             },
             {
                 "slide_index": 6,
-                "headline": "WAREHOUSE AUTOMATION: AERIAL DRONE AUDITS",
-                "teaserTitle": "LABOR PIPELINE: VETERAN CDL FAST-TRACK",
+                "headline": "MARITIME POLICY: JONES ACT EXTENSION",
+                "teaserTitle": "FLEET EQUIPMENT: HEAVY DUTY REPLACEMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "GNC deployed autonomous drones across 450K sq ft distribution centers. Aerial inventory scanning cuts manual labor and boosts cycle-counting precision."
+                "narration_line": "US officials signal Jones Act maritime waiver extensions. Foreign tankers will continue stabilizing coastal fuel transport."
             },
             {
                 "slide_index": 7,
-                "headline": "LABOR PIPELINE: VETERAN CDL FAST-TRACK",
+                "headline": "FLEET EQUIPMENT: HEAVY DUTY REPLACEMENT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "DOT launched the Freedom Haulers initiative for military veterans. The campaign accelerates commercial driver licensing to resolve long-haul trucking shortages."
+                "narration_line": "Cummins raised heavy-duty truck guidance on fleet replacement. Motor carriers are upgrading assets as spot rates stabilize."
             },
             {
                 "slide_index": 8,
