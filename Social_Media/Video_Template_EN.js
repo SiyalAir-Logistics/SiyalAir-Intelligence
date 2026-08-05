@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE TARIFF RESTRUCTURING",
+        "hookTitle": "GLOBAL FREIGHT CAPACITY SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE COMPLIANCE: SECTION 301 MANDATE",
-                "teaserTitle": "AUTOMATION: ROBOTIC TRAILER LOADING",
+                "headline": "MARITIME SECURITY: HORMUZ ROUTE DEAL",
+                "teaserTitle": "AIR CARGO: AI HARDWARE DEMAND",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR implements Section 301 forced-labor tariffs on sixty nations to enforce strict cross-border compliance."
+                "narration_line": "Iran and Oman near a deal for safe Hormuz transit and mine clearing, easing maritime trade risks."
             },
             {
                 "slide_index": 2,
-                "headline": "AUTOMATION: ROBOTIC TRAILER LOADING",
-                "teaserTitle": "WAREHOUSING: AUTONOMOUS DRONE COUNTS",
+                "headline": "AIR CARGO: AI HARDWARE DEMAND",
+                "teaserTitle": "CUSTOMS COMPLIANCE: MANIFEST RULES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "FedEx and Dexterity expand autonomous trailer loading robotics to accelerate hub parcel throughput."
+                "narration_line": "Lufthansa Cargo revenue surged twenty-seven percent as artificial intelligence hardware exports consume Asia air freight capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "WAREHOUSING: AUTONOMOUS DRONE COUNTS",
-                "teaserTitle": "FULFILLMENT: AUTOMATED REVERSE LOGISTICS",
+                "headline": "CUSTOMS COMPLIANCE: MANIFEST RULES",
+                "teaserTitle": "INLAND WATERWAYS: RHINE HEATWAVE CRISIS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "GNC deploys indoor inventory drones across massive facilities to automate high-bay cycle counting."
+                "narration_line": "Kenya mandates stricter cargo manifest verification protocols to eliminate import misdeclarations across primary trade gateways."
             },
             {
                 "slide_index": 4,
-                "headline": "FULFILLMENT: AUTOMATED REVERSE LOGISTICS",
-                "teaserTitle": "PORT INFRASTRUCTURE: CONTAINER TERMINAL UPGRADE",
+                "headline": "INLAND WATERWAYS: RHINE HEATWAVE CRISIS",
+                "teaserTitle": "PORT INFRASTRUCTURE: WASHINGTON TERMINAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "ITS Logistics launches dynamic reverse logistics software to lower e-commerce return shipping costs."
+                "narration_line": "Record low Rhine River levels threaten Central European barge freight, forcing modal shifts toward truck and rail."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT INFRASTRUCTURE: CONTAINER TERMINAL UPGRADE",
-                "teaserTitle": "FREIGHT LABOR: VETERAN DRIVER INTEGRATION",
+                "headline": "PORT INFRASTRUCTURE: WASHINGTON TERMINAL",
+                "teaserTitle": "PARCEL RATES: USPS SURCHARGE EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "CMA CGM forms a joint venture targeting global container port modernization and infrastructure expansion."
+                "narration_line": "HMM commits one-hundred-thirty-five million dollars to expand Washington United Terminals capacity by fifty percent."
             },
             {
                 "slide_index": 6,
-                "headline": "FREIGHT LABOR: VETERAN DRIVER INTEGRATION",
-                "teaserTitle": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
+                "headline": "PARCEL RATES: USPS SURCHARGE EXPANSION",
+                "teaserTitle": "MIDDLE EAST PORTS: JEDDAH CONGESTION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Department of Transportation launches Freedom Haulers to transition military veterans into commercial trucking."
+                "narration_line": "USPS rolls out package rate hikes and rural delivery surcharges, raising last-mile expenses for marketplace sellers."
             },
             {
                 "slide_index": 7,
-                "headline": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
+                "headline": "MIDDLE EAST PORTS: JEDDAH CONGESTION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Retailers monetized pending tariff refund claims via secondary markets to secure immediate working capital."
+                "narration_line": "Heavy Port of Jeddah congestion triggers ocean carrier surcharges and booking curbs across Red Sea trade lanes."
             },
             {
                 "slide_index": 8,
