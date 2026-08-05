@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK REALIGNMENT",
+        "hookTitle": "GLOBAL LOGISTICS NETWORK TRANSFORMATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: EXPANDED SECTION 301 TARIFFS",
-                "teaserTitle": "AI LOGISTICS: UNICORN AGENT DEPLOYMENT",
+                "headline": "POSTAL LOGISTICS: HAZMAT SURCHARGES IMPLEMENTED",
+                "teaserTitle": "PARCEL LOGISTICS: UPS AUTOMATION EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR enforced Section 301 tariffs on 60 nations, demanding strict origin audits to prevent customs detentions."
+                "narration_line": "USPS implemented new hazmat fees and $2 to $3 rural parcel surcharges. Sellers must audit catalog classifications immediately."
             },
             {
                 "slide_index": 2,
-                "headline": "AI LOGISTICS: UNICORN AGENT DEPLOYMENT",
-                "teaserTitle": "MARITIME TRADE: HORMUZ ROUTE NEGOTIATIONS",
+                "headline": "PARCEL LOGISTICS: UPS AUTOMATION EXPANSION",
+                "teaserTitle": "TRADE COMPLIANCE: TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "FreightTech unicorn HappyRobot secured a $1.2B valuation to deploy AI agents automating brokerage communication."
+                "narration_line": "UPS now processes over 67% of US volume through automated hubs. Upgraded Smart Pickup tools further streamline small business shipping."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME TRADE: HORMUZ ROUTE NEGOTIATIONS",
-                "teaserTitle": "REAL ESTATE: WAREHOUSE VACANCY STABILIZATION",
+                "headline": "TRADE COMPLIANCE: TARIFF REFUND MONETIZATION",
+                "teaserTitle": "MARITIME LOGISTICS: SEALEAD SANCTIONS LIQUIDATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Iran and Oman near a deal for a temporary Strait of Hormuz route, aiming to lower maritime transit risk."
+                "narration_line": "Retailers are monetizing potential tariff refunds via secondary financial markets. Meanwhile Amazon issued refunds from $600M in recouped duties."
             },
             {
                 "slide_index": 4,
-                "headline": "REAL ESTATE: WAREHOUSE VACANCY STABILIZATION",
-                "teaserTitle": "TRUCKING EQUIPMENT: CUMMINS DEMAND SURGE",
+                "headline": "MARITIME LOGISTICS: SEALEAD SANCTIONS LIQUIDATION",
+                "teaserTitle": "OCEAN FREIGHT: TRANSPACIFIC RATE SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Industrial warehouse vacancy dropped to 7.3% in Q2 as demand outpaced new logistics construction."
+                "narration_line": "SeaLead Shipping ceased operations following US OFAC sanctions. Shippers must re-route containerized freight across secondary ocean carrier networks."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING EQUIPMENT: CUMMINS DEMAND SURGE",
-                "teaserTitle": "AUTONOMOUS FLEETS: FEDEX TRAILER LOADING",
+                "headline": "OCEAN FREIGHT: TRANSPACIFIC RATE SURGE",
+                "teaserTitle": "ECOMMERCE LOGISTICS: AMAZON B2B EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Cummins raised HD truck guidance as freight recovery drives fleets to replace aging commercial equipment."
+                "narration_line": "Transpacific spot rates spiked as carriers pushed mid-quarter rate hikes. Strong Asian export volumes continue straining vessel capacity."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTONOMOUS FLEETS: FEDEX TRAILER LOADING",
-                "teaserTitle": "ECOMMERCE FULFILLMENT: EBAY DEPOP INTEGRATION",
+                "headline": "ECOMMERCE LOGISTICS: AMAZON B2B EXPANSION",
+                "teaserTitle": "RETAIL LOGISTICS: GAMESTOP DEBT RESTRUCTURING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FedEx expanded autonomous trailer loading robotics to accelerate dock velocity and lower handling costs."
+                "narration_line": "Amazon expanded Amazon Business with custom trucks for palletized dock deliveries. North American sales hit $200.6B in Q2 2026."
             },
             {
                 "slide_index": 7,
-                "headline": "ECOMMERCE FULFILLMENT: EBAY DEPOP INTEGRATION",
+                "headline": "RETAIL LOGISTICS: GAMESTOP DEBT RESTRUCTURING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "eBay completed its $1.4B acquisition of Depop to scale cross-border C2C e-commerce fulfillment."
+                "narration_line": "GameStop completed a $1.4B private debt swap to preserve capital. The agreement exchanges maturing debt for Class A equity."
             },
             {
                 "slide_index": 8,
