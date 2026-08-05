@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT LOGISTICS REBOUND",
+        "hookTitle": "GLOBAL FREIGHT NETWORK REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FMC: DETENTION PENALTY MANDATES",
-                "teaserTitle": "PORT CAPACITY: HMM WASHINGTON TERMINAL INVESTMENT",
+                "headline": "USTR: EXPANDED SECTION 301 TARIFFS",
+                "teaserTitle": "AI LOGISTICS: UNICORN AGENT DEPLOYMENT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Appellate courts uphold FMC rules requiring ocean demurrage fees to directly promote port freight fluidity."
+                "narration_line": "USTR enforced Section 301 tariffs on 60 nations, demanding strict origin audits to prevent customs detentions."
             },
             {
                 "slide_index": 2,
-                "headline": "PORT CAPACITY: HMM WASHINGTON TERMINAL INVESTMENT",
-                "teaserTitle": "AIR CARGO: LUFTHANSA Q2 REVENUE SURGE",
+                "headline": "AI LOGISTICS: UNICORN AGENT DEPLOYMENT",
+                "teaserTitle": "MARITIME TRADE: HORMUZ ROUTE NEGOTIATIONS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "HMM invests $135M in Washington United Terminals to expand container handling capacity by 50%."
+                "narration_line": "FreightTech unicorn HappyRobot secured a $1.2B valuation to deploy AI agents automating brokerage communication."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: LUFTHANSA Q2 REVENUE SURGE",
-                "teaserTitle": "MACRO ECONOMY: U.S. TRADE DEFICIT NARROWS",
+                "headline": "MARITIME TRADE: HORMUZ ROUTE NEGOTIATIONS",
+                "teaserTitle": "REAL ESTATE: WAREHOUSE VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Lufthansa Cargo records a 27% revenue surge driven by AI hardware transport and Asian export demand."
+                "narration_line": "Iran and Oman near a deal for a temporary Strait of Hormuz route, aiming to lower maritime transit risk."
             },
             {
                 "slide_index": 4,
-                "headline": "MACRO ECONOMY: U.S. TRADE DEFICIT NARROWS",
-                "teaserTitle": "CUSTOMS COMPLIANCE: SECTION 301 TARIFF ENFORCEMENT",
+                "headline": "REAL ESTATE: WAREHOUSE VACANCY STABILIZATION",
+                "teaserTitle": "TRUCKING EQUIPMENT: CUMMINS DEMAND SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The U.S. trade deficit narrows to $73.3B amid a measured seasonal pullback in import volumes."
+                "narration_line": "Industrial warehouse vacancy dropped to 7.3% in Q2 as demand outpaced new logistics construction."
             },
             {
                 "slide_index": 5,
-                "headline": "CUSTOMS COMPLIANCE: SECTION 301 TARIFF ENFORCEMENT",
-                "teaserTitle": "MARITIME LOGISTICS: SEALEAD SHIPPING LIQUIDATION",
+                "headline": "TRUCKING EQUIPMENT: CUMMINS DEMAND SURGE",
+                "teaserTitle": "AUTONOMOUS FLEETS: FEDEX TRAILER LOADING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Importers face permanent Section 301 tariffs as customs enforcement and documentation audits tighten globally."
+                "narration_line": "Cummins raised HD truck guidance as freight recovery drives fleets to replace aging commercial equipment."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME LOGISTICS: SEALEAD SHIPPING LIQUIDATION",
-                "teaserTitle": "ECOMMERCE FULFILLMENT: AMAZON TARIFF REFUND INITIATIVE",
+                "headline": "AUTONOMOUS FLEETS: FEDEX TRAILER LOADING",
+                "teaserTitle": "ECOMMERCE FULFILLMENT: EBAY DEPOP INTEGRATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "SeaLead Shipping enters liquidation following strict U.S. sanctions impacting global operations."
+                "narration_line": "FedEx expanded autonomous trailer loading robotics to accelerate dock velocity and lower handling costs."
             },
             {
                 "slide_index": 7,
-                "headline": "ECOMMERCE FULFILLMENT: AMAZON TARIFF REFUND INITIATIVE",
+                "headline": "ECOMMERCE FULFILLMENT: EBAY DEPOP INTEGRATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon issues $600M in tariff refunds to lower consumer prices and support marketplace merchants."
+                "narration_line": "eBay completed its $1.4B acquisition of Depop to scale cross-border C2C e-commerce fulfillment."
             },
             {
                 "slide_index": 8,
