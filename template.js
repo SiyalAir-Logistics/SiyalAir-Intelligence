@@ -1,90 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "RESTRUCTURING",
-        "footerSummary": "USPS noncompliance fees, Port of Virginia CSX expansion, secondary tariff monetization, and SeaLead OFAC liquidation drive global operational shifts."
+        "titleWhite": "GLOBAL TRADE SIGNAL",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "Section 301 tariffs, 3PL vicarious liability verdicts, semiconductor air cargo spikes, and Hormuz transit talks signal structural supply chain realignments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "POSTAL COMPLIANCE: HAZMAT RATE RESTRUCTURING",
+            "heading": "USTR: SECTION 301 TARIFFS",
             "points": [
-                "USPS implemented noncompliance fees and revised Ground Advantage tariffs for e-commerce package shipments.",
-                "The regulatory rate shift forces online marketplaces to update automated hazardous material identification and labeling workflows.",
-                "Logistics managers must reconfigure shipping software rules to prevent unexpected postal surcharges on lightweight domestic freight.",
-                "E-commerce retailers face immediate margin pressures unless fulfillment systems accurately flag restricted chemical compounds at checkout."
+                "The Office of the US Trade Representative is implementing forced labor-based Section 301 tariffs on 60 trading partners as Section 122 duties expire.",
+                "A coalition of 25 US states filed a federal lawsuit challenging the administrative trade action as an unauthorized regulatory workaround.",
+                "Commercial importers must audit international supply chains to document supplier compliance and prevent administrative cargo detentions.",
+                "Logistics planners should expect heightened customs clearance scrutiny and potential duty adjustments across transpacific import lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL INFRASTRUCTURE: DIRECT MIDWEST EXPRESS",
+            "nextUpTease": "BROKERAGE: NUCLEAR VERDICT LIABILITY",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL INFRASTRUCTURE: DIRECT MIDWEST EXPRESS",
+            "heading": "BROKERAGE: NUCLEAR VERDICT LIABILITY",
             "points": [
-                "The Port of Virginia launched direct CSX intermodal rail service connecting East Coast container terminals to Indianapolis.",
-                "The infrastructure bypasses congested Chicago rail hubs and eliminates long-haul drayage trucking legs across the Midwest corridor.",
-                "Midwest supply chain operators gain reduced container transit times and lower carbon emissions across primary import channels.",
-                "Import planners should evaluate intermodal routing strategies to capitalize on direct rail connectivity into Indiana distribution hubs."
+                "A Texas court upheld a $604M vicarious liability judgment against C.H. Robinson in the landmark Montgomery v. Caribe freight brokerage case.",
+                "The legal precedent expands legal exposure for freight brokers regarding motor carrier selection and contract safety vetting protocols.",
+                "Freight intermediaries are overhauling carrier compliance workflows to enforce automated safety rating verification prior to dispatch.",
+                "Supply chain executives must re-evaluate broker liability insurance limits to hedge against systemic legal risks in highway transportation."
             ],
             "imageUrl": "",
-            "nextUpTease": "DUTY LIQUIDITY: TARIFF REFUND MONETIZATION",
+            "nextUpTease": "AIR CARGO: SEMICONDUCTOR FREIGHT SURGE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DUTY LIQUIDITY: TARIFF REFUND MONETIZATION",
+            "heading": "AIR CARGO: SEMICONDUCTOR FREIGHT SURGE",
             "points": [
-                "Retailers are monetizing pending customs tariff refund claims by selling trade rights to private secondary liquidity markets.",
-                "The financial mechanism provides immediate working capital to commercial importers burdened by delayed administrative duty payouts.",
-                "Trade compliance leaders are auditing historical customs entries to package legal refund claims for institutional investor sale.",
-                "Finance executives can leverage secondary debt transfers to hedge operational cash flow against prolonged regulatory review periods."
+                "Air freight carriers reported a 27% cargo revenue surge driven by accelerating global demand for artificial intelligence hardware and microchips.",
+                "Transpacific air cargo capacity is tightening rapidly as semiconductor manufacturers secure dedicated charter freighter operations out of Asia.",
+                "High-tech supply chains are shifting high-value electronic components from ocean container shipping to expedited air freight networks.",
+                "Shippers should lock in multi-quarter air freight block space agreements to mitigate spot rate spikes ahead of the Q4 peak season."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT LOGISTICS: DEDICATED PALLET NETWORK",
-            "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "FREIGHT LOGISTICS: DEDICATED PALLET NETWORK",
-            "points": [
-                "Amazon Business deployed branded delivery vehicles optimized for consolidated drop-offs and palletized freight loading dock transfers.",
-                "The specialized fleet expansion addresses commercial B2B procurement requirements while streamlining last-mile fulfillment density.",
-                "Commercial receiving facilities can schedule consolidated dock deliveries, reducing congestion across industrial park unloading bays.",
-                "B2B procurement teams must adapt receiving dock scheduling software to accommodate structured multi-pallet delivery windows."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "SANCTIONS COMPLIANCE: CARRIER FLEET LIQUIDATION",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "SANCTIONS COMPLIANCE: CARRIER FLEET LIQUIDATION",
-            "points": [
-                "Singapore-based SeaLead Shipping ceased trade operations and entered liquidation following US OFAC sanctions enforcement.",
-                "The maritime asset liquidation follows regulatory scrutiny over alleged financial links to sanctioned Middle Eastern transport networks.",
-                "Global container shippers must immediately reassign ocean cargo bookings to fully compliant alternative liner operators.",
-                "Freight forwarders face operational disruption while securing emergency container transfers across international trade lanes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME POLICY: JONES ACT EXTENSION",
+            "nextUpTease": "MARITIME: HORMUZ TRANSIT PROTOCOLS",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -92,16 +58,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MARITIME POLICY: JONES ACT EXTENSION",
+            "id": 4,
+            "heading": "MARITIME: HORMUZ TRANSIT PROTOCOLS",
             "points": [
-                "The US Department of Energy signaled an extension of temporary Jones Act maritime waivers for domestic energy transport.",
-                "The regulatory relief allows foreign-flagged tankers to move domestic fuel supplies between coastal ports to stabilize regional energy prices.",
-                "Coastal energy supply chains gain increased vessel capacity and reduced maritime transport costs along East Coast waterways.",
-                "Energy traders should adjust coastal distribution models to maximize cargo throughput during the temporary waiver period."
+                "Iran and Oman entered final negotiations regarding a regulated transit channel and mine-clearing protocols through the Strait of Hormuz.",
+                "Ocean carrier associations called on international maritime bodies to prevent unilateral transit tolls along primary energy trade corridors.",
+                "Global shipping lines are adjusting maritime war risk insurance surcharges as diplomatic talks progress toward corridor stabilization.",
+                "Fleet operations managers must track Hormuz security updates to optimize vessel routing schedules across Middle Eastern trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET EQUIPMENT: HEAVY DUTY REPLACEMENT",
+            "nextUpTease": "ENERGY: RECORD DIESEL EXPORT SURGE",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "ENERGY: RECORD DIESEL EXPORT SURGE",
+            "points": [
+                "US distillate exports reached a record 1.9M barrels per day as international markets scramble for refined energy products.",
+                "The sustained export volume is draining domestic US diesel inventories and driving up fuel surcharge costs for motor carriers.",
+                "Truckload carriers face increased operating expense volatility, forcing rapid adjustments to base freight rate pricing models.",
+                "Fleet managers should implement fuel hedging strategies to manage margin compression as diesel fuel prices continue to climb."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "REAL ESTATE: WAREHOUSE VACANCY DROP",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -109,18 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "FLEET EQUIPMENT: HEAVY DUTY REPLACEMENT",
+            "id": 6,
+            "heading": "REAL ESTATE: WAREHOUSE VACANCY DROP",
             "points": [
-                "Engine manufacturer Cummins raised North American heavy-duty truck market guidance due to accelerating fleet replacement demand.",
-                "Commercial motor carriers are replacing aging fleet assets as truckload freight rates and operational utilization stabilize.",
-                "Fleet operations teams face extending lead times for new commercial powertrain equipment across original equipment manufacturers.",
-                "Transportation executives must align fleet procurement schedules with production allocation cycles to maintain service reliability."
+                "Industrial real estate vacancy rates stabilized at 7.3% in Q2 as industrial tenant demand outpaced new warehouse completions.",
+                "Developers have scaled back speculative construction starts, tightening available modern distribution center space across major logistics hubs.",
+                "E-commerce fulfillment operators are competing for prime last-mile warehousing assets to maintain rapid delivery capability.",
+                "Corporate real estate managers should secure long-term industrial lease renewals early to prevent substantial rental rate increases."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CARGO SECURITY: FRAUD PREVENTION PROTOCOLS",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "CARGO SECURITY: FRAUD PREVENTION PROTOCOLS",
+            "points": [
+                "Annual cargo theft losses surpassed $725M as organized crime rings increasingly deploy digital identity theft and fraudulent pickup tactics.",
+                "Retailers and freight forwarders are implementing AI-driven identity verification tools at distribution facility loading docks.",
+                "Logistics security protocols are shifting toward automated driver authentication and real-time electronic seal tracking systems.",
+                "Risk managers must mandate strict digital verification standards for non-asset transport providers to combat rising cargo theft."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

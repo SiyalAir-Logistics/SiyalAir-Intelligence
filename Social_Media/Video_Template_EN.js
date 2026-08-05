@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK RESTRUCTURING",
+        "hookTitle": "GLOBAL TRADE SIGNAL REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "POSTAL COMPLIANCE: HAZMAT RATE RESTRUCTURING",
-                "teaserTitle": "RAIL INFRASTRUCTURE: DIRECT MIDWEST EXPRESS",
+                "headline": "USTR: SECTION 301 TARIFFS",
+                "teaserTitle": "BROKERAGE: NUCLEAR VERDICT LIABILITY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USPS issued noncompliance fees for hazmat freight. Shippers must update chemical labeling to avoid $3 surcharges."
+                "narration_line": "USTR is imposing Section 301 tariffs on 60 nations as Section 122 expires, prompting a 25-state federal lawsuit."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL INFRASTRUCTURE: DIRECT MIDWEST EXPRESS",
-                "teaserTitle": "DUTY LIQUIDITY: TARIFF REFUND MONETIZATION",
+                "headline": "BROKERAGE: NUCLEAR VERDICT LIABILITY",
+                "teaserTitle": "AIR CARGO: SEMICONDUCTOR FREIGHT SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Port of Virginia launched direct CSX rail to Indianapolis. The route bypasses Chicago chokepoints for faster transit."
+                "narration_line": "A Texas court upheld a $604M vicarious liability ruling against C.H. Robinson, reshaping 3PL carrier vetting standards."
             },
             {
                 "slide_index": 3,
-                "headline": "DUTY LIQUIDITY: TARIFF REFUND MONETIZATION",
-                "teaserTitle": "FREIGHT LOGISTICS: DEDICATED PALLET NETWORK",
+                "headline": "AIR CARGO: SEMICONDUCTOR FREIGHT SURGE",
+                "teaserTitle": "MARITIME: HORMUZ TRANSIT PROTOCOLS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Retailers are selling rights to pending tariff refunds. Importers gain immediate capital via secondary liquidity markets."
+                "narration_line": "AI hardware demand drove a 27% air cargo revenue surge, tightening charter capacity out of Asian manufacturing hubs."
             },
             {
                 "slide_index": 4,
-                "headline": "FREIGHT LOGISTICS: DEDICATED PALLET NETWORK",
-                "teaserTitle": "SANCTIONS COMPLIANCE: CARRIER FLEET LIQUIDATION",
+                "headline": "MARITIME: HORMUZ TRANSIT PROTOCOLS",
+                "teaserTitle": "ENERGY: RECORD DIESEL EXPORT SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Amazon Business rolled out dedicated palletized delivery trucks. The service streamlines dock operations for commercial buyers."
+                "narration_line": "Iran and Oman near a deal on Strait of Hormuz transit protocols while carriers oppose proposed transit fees."
             },
             {
                 "slide_index": 5,
-                "headline": "SANCTIONS COMPLIANCE: CARRIER FLEET LIQUIDATION",
-                "teaserTitle": "MARITIME POLICY: JONES ACT EXTENSION",
+                "headline": "ENERGY: RECORD DIESEL EXPORT SURGE",
+                "teaserTitle": "REAL ESTATE: WAREHOUSE VACANCY DROP",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "SeaLead Shipping entered liquidation after US OFAC sanctions. Shippers must reassign ocean freight bookings immediately."
+                "narration_line": "US diesel exports hit a record 1.9M barrels per day, draining domestic inventories and pushing fuel costs higher."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME POLICY: JONES ACT EXTENSION",
-                "teaserTitle": "FLEET EQUIPMENT: HEAVY DUTY REPLACEMENT",
+                "headline": "REAL ESTATE: WAREHOUSE VACANCY DROP",
+                "teaserTitle": "CARGO SECURITY: FRAUD PREVENTION PROTOCOLS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "US officials signal Jones Act maritime waiver extensions. Foreign tankers will continue stabilizing coastal fuel transport."
+                "narration_line": "US warehouse vacancy fell to 7.3% in Q2 as industrial logistics demand outpaced new warehouse construction starts."
             },
             {
                 "slide_index": 7,
-                "headline": "FLEET EQUIPMENT: HEAVY DUTY REPLACEMENT",
+                "headline": "CARGO SECURITY: FRAUD PREVENTION PROTOCOLS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Cummins raised heavy-duty truck guidance on fleet replacement. Motor carriers are upgrading assets as spot rates stabilize."
+                "narration_line": "Cargo theft losses reached $725M, driving logistics operators to mandate AI digital identity checks at receiving docks."
             },
             {
                 "slide_index": 8,
