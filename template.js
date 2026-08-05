@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "TRANSITION",
-        "footerSummary": "CSX intermodal expansion, SeaLead sanctions liquidation, eBay Depop integration, and GE supply chain shifts drive critical freight realignments."
+        "titleWhite": "GLOBAL TRADE SYSTEM",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "USTR Section 301 expansion, $604M broker liability ruling, Chinese router exploits, and Hormuz maritime accords drive global supply chain shifts."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "RAIL INTERMODAL: VIRGINIA CSX ROUTE",
+            "heading": "TRADE TARIFFS: USTR SECTION 301",
             "points": [
-                "The Port of Virginia launched direct CSX intermodal rail service connecting East Coast container terminals to Indianapolis.",
-                "The direct rail line bypasses historic Chicago intermodal bottlenecks, reducing transit times for Midwestern import freight.",
-                "Shippers gain enhanced reliability and lower drayage expenses across core North American inland distribution corridors.",
-                "Supply chain planners are re-routing cargo schedules to leverage expanded East Coast rail intermodal throughput."
+                "The Office of the United States Trade Representative launched Section 301 forced-labor tariffs targeting 60 trading partners as Section 122 duties expired.",
+                "In response, 25 state attorneys general filed federal lawsuits claiming the administrative enforcement framework bypasses statutory trade authority.",
+                "Global importers face heightened compliance audits and shifting tariff refund monetization structures across cross-border supply chains.",
+                "Procurement teams must restructure import documentation to verify supplier labor compliance and hedge against retroactive duty risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: EBAY DEPOP FULFILLMENT",
+            "nextUpTease": "CYBERSECURITY: HARDWARE ROUTER EXPLOITS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "E-COMMERCE: EBAY DEPOP FULFILLMENT",
+            "heading": "CYBERSECURITY: HARDWARE ROUTER EXPLOITS",
             "points": [
-                "eBay finalized its $1.4B acquisition of fashion marketplace Depop to scale cross-border C2C secondary inventory integration.",
-                "The unified infrastructure aims to optimize reverse logistics and international parcel fulfillment networks across key markets.",
-                "Marketplace sellers gain direct access to streamlined cross-border delivery options and centralized listing tools.",
-                "E-commerce logistics operators must adjust fast-fashion inventory routing to capture secondary market fulfillment volume."
+                "Security researchers at VulnCheck uncovered an active backdoor vulnerability within 100K Chinese-manufactured enterprise internet routers deployed globally.",
+                "The exploit grants unauthenticated remote access to critical network infrastructure, exposing supply chain telemetry and warehouse management software.",
+                "Supply chain IT teams are executing emergency firmware patching and network segment isolation across international logistics facilities.",
+                "Enterprise logistics operators must audit operational technology hardware to prevent unauthorized data exfiltration and system disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN SHIPPING: SEALEAD SANCTIONS LIQUIDATION",
+            "nextUpTease": "TRADE SANCTIONS: ROBOTICS EXPORT RESTRICTIONS",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OCEAN SHIPPING: SEALEAD SANCTIONS LIQUIDATION",
+            "heading": "TRADE SANCTIONS: ROBOTICS EXPORT RESTRICTIONS",
             "points": [
-                "Singapore-based SeaLead Shipping initiated formal liquidation following strict US OFAC sanctions targeting Middle Eastern trade ties.",
-                "The carrier's sudden operational halt forces regional cargo owners to rebook container slots across alternative ocean lines.",
-                "Global trade regulatory compliance is driving immediate carrier counterparty risk audits throughout maritime supply chains.",
-                "Ocean freight procurement teams must verify carrier sanction profiles to avoid abrupt container stranding."
+                "China imposed retaliatory sanctions on 6 US robotics manufacturers and instituted strict export review controls on commercial unmanned aerial vehicles.",
+                "The regulatory ban cuts off critical component sourcing for automated warehouse systems and defense-adjacent logistics technology providers.",
+                "Automated facility operators are accelerating supplier diversification to secure domestic control hardware and sensor supply chains.",
+                "Robotics procurement leads must evaluate secondary component vendors to mitigate extended lead times on industrial automation hardware."
             ],
             "imageUrl": "",
-            "nextUpTease": "FULFILLMENT: AEO CAROLINA HUB",
+            "nextUpTease": "MARITIME LOGISTICS: HORMUZ TRANSIT ACCORD",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FULFILLMENT: AEO CAROLINA HUB",
+            "heading": "MARITIME LOGISTICS: HORMUZ TRANSIT ACCORD",
             "points": [
-                "American Eagle Outfitters authorized construction of a $41M distribution center in North Carolina to strengthen regional fulfillment.",
-                "The state-of-the-art facility expands Southeastern omni-channel delivery capacity while reducing regional transit lead times.",
-                "Retail logistics networks are shifting toward localized hub distribution to offset rising long-haul parcel shipping costs.",
-                "Regional freight carriers stand to gain increased short-haul volume as regional distribution footprints expand."
+                "Iran and Oman reached a preliminary agreement on Hormuz Strait maritime shipping protocols to maintain commercial vessel transit stability.",
+                "The accord counters proposed transit tolling mechanisms that threatened to trigger secondary war-risk insurance surcharges across ocean freight.",
+                "Global liner operators are stabilizing Middle East container routes while maintaining strategic security protocols through critical maritime chokepoints.",
+                "Ocean freight buyers should monitor carrier bunker and war-risk adjustments as Persian Gulf shipping conditions stabilize."
             ],
             "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: GE LEAD TIME CUTS",
+            "nextUpTease": "FLEET COMPLIANCE: BROKER LIABILITY VERDICT",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MANUFACTURING: GE LEAD TIME CUTS",
+            "heading": "FLEET COMPLIANCE: BROKER LIABILITY VERDICT",
             "points": [
-                "GE Aerospace slashed engine component lead times by 60% after executing broad supply chain facility restructuring.",
-                "The manufacturer streamlined production workflows and eliminated excess transit distance across domestic supplier networks.",
-                "Industrial aerospace supply chains are prioritizing physical proximity and workflow integration to counter disruption risks.",
-                "Manufacturing supply chain directors should benchmark lead time reduction strategies against consolidated footprint models."
+                "A Texas court upheld a $604M negligent hiring verdict against C.H. Robinson, establishing strict broker liability for third-party carrier safety vetting.",
+                "Freight brokerages are overhauling onboarding protocols to enforce automated carrier safety score validation and continuous monitoring.",
+                "Legal risk exposure is driving shippers and brokers toward direct-asset carrier selection to limit vicarious liability claims.",
+                "Transportation risk managers must update carrier selection criteria to ensure full compliance with evolving state safety standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO CAPACITY: BANGLADESH CONTAINER CRUNCH",
+            "nextUpTease": "WAREHOUSE AUTOMATION: AERIAL DRONE AUDITS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CARGO CAPACITY: BANGLADESH CONTAINER CRUNCH",
+            "heading": "WAREHOUSE AUTOMATION: AERIAL DRONE AUDITS",
             "points": [
-                "Ocean container lines are prioritizing high-yield Transpacific China cargo, restricting equipment availability in South Asia.",
-                "Bangladesh garment exporters face severe box shortages and port delays as ocean lines reallocate vessel capacity.",
-                "Global apparel retailers are encountering inventory delays due to regional vessel repositioning decisions by major ocean carriers.",
-                "Importers relying on South Asian production hubs must build extended buffer stock timelines into Q3 inventory plans."
+                "Health retailer GNC deployed autonomous indoor drones across its 450K sq ft distribution centers to automate inventory cycle counting.",
+                "The automated system eliminates manual material handling equipment usage while improving real-time inventory tracking accuracy.",
+                "Distribution networks are increasingly integrating physical AI and aerial robotics to resolve persistent warehouse labor shortages.",
+                "Fulfillment center managers can reduce dock-to-stock cycle times by replacing manual rack scanning with continuous aerial drone sweeps."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL LOGISTICS: UPS AUTOMATION ACCELERATION",
+            "nextUpTease": "LABOR PIPELINE: VETERAN CDL FAST-TRACK",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PARCEL LOGISTICS: UPS AUTOMATION ACCELERATION",
+            "heading": "LABOR PIPELINE: VETERAN CDL FAST-TRACK",
             "points": [
-                "UPS reported over 67% of its domestic parcel volume is now processed through fully automated sorting hubs.",
-                "The network overhaul drives structural unit cost reductions while accelerating sortation throughput across key transit hubs.",
-                "Automation investments enable major parcel carriers to manage wage inflation and maintain profit margins during demand fluctuations.",
-                "Enterprise shippers must align package labeling standards to prevent automated sortation rejection penalties."
+                "The US Department of Transportation launched the Freedom Haulers campaign to expedite Commercial Driver's License transitions for military veterans.",
+                "The interagency initiative streamlines military driving credential conversion while maintaining federal safety and drug testing compliance enforcement.",
+                "Motor carriers gain a qualified talent pipeline to alleviate long-haul driver capacity constraints and manage fleet operational costs.",
+                "Fleet managers should align recruiting infrastructure with federal veteran programs to capture skilled driving talent efficiently."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

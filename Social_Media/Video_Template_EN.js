@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK TRANSITION",
+        "hookTitle": "GLOBAL TRADE SYSTEM REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "RAIL INTERMODAL: VIRGINIA CSX ROUTE",
-                "teaserTitle": "E-COMMERCE: EBAY DEPOP FULFILLMENT",
+                "headline": "TRADE TARIFFS: USTR SECTION 301",
+                "teaserTitle": "CYBERSECURITY: HARDWARE ROUTER EXPLOITS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Port of Virginia linked direct CSX rail to Indianapolis. Shippers bypass Chicago bottlenecks to cut Midwest transit times."
+                "narration_line": "USTR enforced Section 301 tariffs on 60 trading partners. Importers face heightened compliance audits and shifting refund monetization models."
             },
             {
                 "slide_index": 2,
-                "headline": "E-COMMERCE: EBAY DEPOP FULFILLMENT",
-                "teaserTitle": "OCEAN SHIPPING: SEALEAD SANCTIONS LIQUIDATION",
+                "headline": "CYBERSECURITY: HARDWARE ROUTER EXPLOITS",
+                "teaserTitle": "TRADE SANCTIONS: ROBOTICS EXPORT RESTRICTIONS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "eBay closed its $1.4B Depop deal. Integration optimizes cross-border reverse logistics and fashion fulfillment networks."
+                "narration_line": "Security teams detected backdoors in 100K Chinese routers worldwide. Freight networks must execute emergency firmware patching to secure supply chain telemetry."
             },
             {
                 "slide_index": 3,
-                "headline": "OCEAN SHIPPING: SEALEAD SANCTIONS LIQUIDATION",
-                "teaserTitle": "FULFILLMENT: AEO CAROLINA HUB",
+                "headline": "TRADE SANCTIONS: ROBOTICS EXPORT RESTRICTIONS",
+                "teaserTitle": "MARITIME LOGISTICS: HORMUZ TRANSIT ACCORD",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "SeaLead Shipping entered liquidation following US sanctions. Cargo owners face urgent container rebooking across alternate ocean carriers."
+                "narration_line": "China sanctioned 6 US robotics firms and restricted drone exports. Automated facility operators are accelerating component reshoring to shield operations."
             },
             {
                 "slide_index": 4,
-                "headline": "FULFILLMENT: AEO CAROLINA HUB",
-                "teaserTitle": "MANUFACTURING: GE LEAD TIME CUTS",
+                "headline": "MARITIME LOGISTICS: HORMUZ TRANSIT ACCORD",
+                "teaserTitle": "FLEET COMPLIANCE: BROKER LIABILITY VERDICT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "American Eagle launched a $41M NC fulfillment center. Regional hub expansion accelerates Southeastern last-mile parcel transit."
+                "narration_line": "Iran and Oman reached a Hormuz shipping agreement to maintain transit stability. Ocean carriers are mitigating secondary war-risk surcharges across key lanes."
             },
             {
                 "slide_index": 5,
-                "headline": "MANUFACTURING: GE LEAD TIME CUTS",
-                "teaserTitle": "CARGO CAPACITY: BANGLADESH CONTAINER CRUNCH",
+                "headline": "FLEET COMPLIANCE: BROKER LIABILITY VERDICT",
+                "teaserTitle": "WAREHOUSE AUTOMATION: AERIAL DRONE AUDITS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "GE Aerospace trimmed manufacturing lead times by 60%. Supply chain consolidation eliminates excess transit across component networks."
+                "narration_line": "A Texas court issued a $604M verdict against C.H. Robinson. Freight brokers are overhauling carrier vetting to eliminate vicarious liability risks."
             },
             {
                 "slide_index": 6,
-                "headline": "CARGO CAPACITY: BANGLADESH CONTAINER CRUNCH",
-                "teaserTitle": "PARCEL LOGISTICS: UPS AUTOMATION ACCELERATION",
+                "headline": "WAREHOUSE AUTOMATION: AERIAL DRONE AUDITS",
+                "teaserTitle": "LABOR PIPELINE: VETERAN CDL FAST-TRACK",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Liners prioritize China trade over South Asia cargo. Bangladesh apparel exporters face container shortages and shipping delays."
+                "narration_line": "GNC deployed autonomous drones across 450K sq ft distribution centers. Aerial inventory scanning cuts manual labor and boosts cycle-counting precision."
             },
             {
                 "slide_index": 7,
-                "headline": "PARCEL LOGISTICS: UPS AUTOMATION ACCELERATION",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "LABOR PIPELINE: VETERAN CDL FAST-TRACK",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "UPS processes 67% of domestic volume through automated hubs. Tech modernization curbs unit cost pressures across parcel networks."
+                "narration_line": "DOT launched the Freedom Haulers initiative for military veterans. The campaign accelerates commercial driver licensing to resolve long-haul trucking shortages."
             },
             {
                 "slide_index": 8,
