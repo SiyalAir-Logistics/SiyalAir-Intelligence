@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUPPLY CHAIN DISRUPTIVE",
-        "titleBlue": "SIGNALS",
-        "footerSummary": "USTR Section 301 tariff enforcement, ocean carrier liquidations, and automated trailer loading drive operational shifts across global logistics networks."
+        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleBlue": "REFORMS",
+        "footerSummary": "USTR Section 301 tariff enforcement, ocean carrier capacity crunches, and warehouse automation deployments drive operational adjustments across international logistics networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: SECTION 301 TARIFFS",
+            "heading": "USTR: SECTION 301 TARIFFS",
             "points": [
-                "The Office of the United States Trade Representative moves forward with Section 301 tariffs targeting sixty trading nations.",
-                "The regulatory mechanism addresses forced-labor compliance risks as previous Section 122 tariff measures officially expire across global trade routes.",
-                "Importers face expanded tariff enforcement frameworks requiring rigorous supply chain provenance audits and foreign partner verification.",
-                "Enterprise shippers must re-evaluate sourcing structures to mitigate increased import duty exposure and regulatory penalties."
+                "The Office of the United States Trade Representative moves forward with mandatory Section 301 tariffs targeting 60 global trading nations.",
+                "The regulatory enforcement targets forced-labor compliance risks as previous Section 122 tariff measures officially expire across trade lanes.",
+                "Importers face expanded compliance frameworks requiring rigorous supply chain provenance audits and foreign vendor verification protocols.",
+                "Enterprise shippers must re-evaluate sourcing structures immediately to mitigate increased import duty exposure and regulatory penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: SEALEAD SHIPPING LIQUIDATION",
+            "nextUpTease": "OCEAN FREIGHT: HMM WASHINGTON EXPANSION",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -25,17 +25,17 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "OCEAN FREIGHT: SEALEAD SHIPPING LIQUIDATION",
+            "heading": "OCEAN FREIGHT: HMM WASHINGTON EXPANSION",
             "points": [
-                "Singapore-based ocean carrier SeaLead Shipping officially ceased trading operations following targeted sanction enforcement by United States authorities.",
-                "Operational disruption stems from Office of Foreign Assets Control actions regarding alleged commercial transport links with Iranian entities.",
-                "The abrupt carrier shutdown forces ocean freight shippers to immediately reallocate containerized cargo across active vessel sharing agreements.",
-                "Global logistics networks face localized container slot shortages as regional feeder networks absorb displaced trade lane volumes."
+                "South Korean ocean carrier HMM is investing $135M into Washington United Terminals to boost container handling capacity by 50%.",
+                "The terminal infrastructure upgrade targets chronic regional bottlenecks and accommodates larger ultra-large container vessels calling the Pacific Northwest.",
+                "Port operators are deploying advanced terminal operating systems to accelerate container turnaround times during peak shipping windows.",
+                "Supply chain planners should anticipate improved gateway throughput velocity and optimized container dwell metrics across West Coast ports."
             ],
             "imageUrl": "",
             "nextUpTease": "WAREHOUSE TECH: AUTONOMOUS TRAILER LOADING",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
@@ -44,15 +44,15 @@ const dailyData = {
             "id": 3,
             "heading": "WAREHOUSE TECH: AUTONOMOUS TRAILER LOADING",
             "points": [
-                "Express logistics carrier FedEx expanded deployment of automated robotic trailer loading systems across its primary Maryland distribution facility.",
-                "The technological deployment leverages AI robotics developed by Dexterity to optimize parcel density and reduce manual sortation labor.",
-                "Robotic loading integration accelerates dock throughput velocity while reducing cargo damage rates during peak sorting cycles.",
-                "Facility operators are scaling physical artificial intelligence assets to standardize hub automation and maximize vehicle space utilization."
+                "FedEx and Dexterity are actively expanding the deployment of autonomous robotic trailer loading systems across their primary Maryland distribution hubs.",
+                "The physical artificial intelligence integration optimizes parcel stacking density while dramatically reducing manual sorting labor constraints.",
+                "Automated dock operations accelerate outbound dispatch velocity and lower cargo damage incidence rates during high-volume sort cycles.",
+                "Facility managers are scaling warehouse robotics to standardize fulfillment workflows and maximize vehicle space utilization nationwide."
             ],
             "imageUrl": "",
             "nextUpTease": "RETAIL LOGISTICS: TARIFF REFUND MONETIZATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
@@ -61,10 +61,10 @@ const dailyData = {
             "id": 4,
             "heading": "RETAIL LOGISTICS: TARIFF REFUND MONETIZATION",
             "points": [
-                "Major retail enterprises are utilizing secondary financial markets to monetize potential duty refund claims from invalidated federal import tariffs.",
-                "Enterprise brands like American Eagle sell legal rights to tariff refunds to obtain immediate working capital ahead of peak seasonal cycles.",
-                "The liquidity strategy offsets delayed administrative payouts from customs agencies while mitigating trade litigation risks.",
-                "Supply chain financial officers are increasingly leveraging duty recovery claims as liquidity assets for enterprise operations."
+                "Major retail brands including American Eagle Outfitters are utilizing secondary financial markets to monetize potential tariff refund claims.",
+                "Enterprise finance teams are selling legal rights to $600M in recovered customs duties to generate immediate working capital ahead of peak season.",
+                "The liquidity strategy offsets delayed administrative payouts from customs agencies while mitigating prolonged trade litigation exposure.",
+                "Supply chain financial officers are increasingly treating customs duty recovery claims as viable balance sheet assets for enterprise operations."
             ],
             "imageUrl": "",
             "nextUpTease": "INVENTORY CONTROL: WAREHOUSE DRONE AUDITS",
@@ -78,10 +78,10 @@ const dailyData = {
             "id": 5,
             "heading": "INVENTORY CONTROL: WAREHOUSE DRONE AUDITS",
             "points": [
-                "Health brand GNC fully integrated autonomous aerial drones across its primary four hundred fifty thousand square foot distribution facility.",
-                "Unmanned aerial vehicles perform automated cycle counts, replacing manual labor intensive inventory scans across high-bay racking systems.",
-                "Autonomous inventory scanning significantly elevates stock accuracy rates while reducing facility labor safety risks and operational downtime.",
-                "Logistics managers are adopting aerial robotics to achieve continuous real-time inventory visibility across large-scale logistics hubs."
+                "Health product brand GNC successfully integrated autonomous aerial drones across its sprawling 450K sq ft distribution center network.",
+                "Unmanned aerial vehicles perform continuous automated cycle counts, replacing labor-intensive manual inventory scans across high-bay racking systems.",
+                "Autonomous scanning significantly elevates stock accuracy rates while minimizing worker safety risks and operational downtime during shifts.",
+                "Logistics directors are adopting aerial robotics to achieve real-time inventory visibility across large-scale warehousing facilities."
             ],
             "imageUrl": "",
             "nextUpTease": "LAST MILE: AMAZON MONOPSONY LITIGATION",
@@ -95,10 +95,10 @@ const dailyData = {
             "id": 6,
             "heading": "LAST MILE: AMAZON MONOPSONY LITIGATION",
             "points": [
-                "State legal authorities in New Jersey filed a high-profile antitrust complaint against Amazon regarding its domestic last-mile delivery network.",
-                "The legal action alleges monopsonistic control over contract delivery partners, impacting independent logistics carrier operating margins.",
+                "State legal authorities in New Jersey filed a high-profile antitrust complaint targeting Amazon and its domestic last-mile delivery network.",
+                "The legal challenge alleges monopsonistic control over contract delivery partners, restricting independent carrier operating margins and route flexibility.",
                 "Judicial review could force structural operational modifications upon captive delivery contractor frameworks and regional dispatch rules.",
-                "Final mile logistics providers must monitor legal precedent shifts that could reshape third-party contractor delivery models nationwide."
+                "Final-mile logistics providers must monitor legal precedent shifts that could reshape third-party delivery contractor ecosystems nationwide."
             ],
             "imageUrl": "",
             "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
@@ -112,10 +112,10 @@ const dailyData = {
             "id": 7,
             "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "points": [
-                "Global real estate platform Colliers confirmed industrial warehouse vacancy rates stabilized at seven point three per cent nationwide.",
-                "Net demand for industrial logistics space outpaced new warehouse supply delivery during the second quarter market cycle.",
-                "The absorption stabilization signals an operational equilibrium across major distribution markets following years of volatile construction inventory.",
-                "Enterprise tenants should anticipate stabilizing prime warehousing rental rates as modern logistics space supply aligns with market demand."
+                "Global real estate firm Colliers reported that U.S. industrial warehouse vacancy rates stabilized at 7.3% during the second quarter.",
+                "Net demand for prime logistics real estate successfully outpaced new warehouse supply deliveries across primary regional distribution markets.",
+                "The absorption stabilization signals a healthy operational equilibrium following several years of highly volatile construction inventory cycles.",
+                "Enterprise tenants should anticipate stabilizing warehousing lease rates as modern logistics space supply aligns closely with market demand."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",

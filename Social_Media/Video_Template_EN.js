@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "SUPPLY CHAIN DISRUPTIVE SIGNALS",
+        "hookTitle": "GLOBAL TRADE TARIFF REFORMS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: SECTION 301 TARIFFS",
-                "teaserTitle": "OCEAN FREIGHT: SEALEAD SHIPPING LIQUIDATION",
+                "headline": "USTR: SECTION 301 TARIFFS",
+                "teaserTitle": "OCEAN FREIGHT: HMM WASHINGTON EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The U S T R is implementing Section 301 tariffs across sixty nations targeting forced labor risks as Section 122 expires."
+                "narration_line": "The USTR implements Section 301 tariffs on 60 nations, demanding immediate supplier audits."
             },
             {
                 "slide_index": 2,
-                "headline": "OCEAN FREIGHT: SEALEAD SHIPPING LIQUIDATION",
+                "headline": "OCEAN FREIGHT: HMM WASHINGTON EXPANSION",
                 "teaserTitle": "WAREHOUSE TECH: AUTONOMOUS TRAILER LOADING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "SeaLead Shipping ceased all maritime operations following U S O F A C sanctions over alleged regional trade ties."
+                "narration_line": "HMM invests $135M to expand Washington terminal capacity by 50%."
             },
             {
                 "slide_index": 3,
                 "headline": "WAREHOUSE TECH: AUTONOMOUS TRAILER LOADING",
                 "teaserTitle": "RETAIL LOGISTICS: TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "FedEx expanded A I robotic trailer loading systems in Maryland to accelerate dock throughput velocity and parcel packing."
+                "narration_line": "FedEx scales robotic trailer loading to optimize dock throughput velocity."
             },
             {
                 "slide_index": 4,
                 "headline": "RETAIL LOGISTICS: TARIFF REFUND MONETIZATION",
                 "teaserTitle": "INVENTORY CONTROL: WAREHOUSE DRONE AUDITS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Major retailers are selling rights to import tariff refunds on secondary markets to secure immediate operational liquidity."
+                "narration_line": "Retailers monetize $600M in tariff refunds to secure working capital."
             },
             {
                 "slide_index": 5,
                 "headline": "INVENTORY CONTROL: WAREHOUSE DRONE AUDITS",
                 "teaserTitle": "LAST MILE: AMAZON MONOPSONY LITIGATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "G N C deployed autonomous drones across its distribution facility to automate inventory cycle counts and increase stock accuracy."
+                "narration_line": "GNC deploys warehouse drones across 450K sq ft to automate inventory counts."
             },
             {
                 "slide_index": 6,
                 "headline": "LAST MILE: AMAZON MONOPSONY LITIGATION",
                 "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "New Jersey filed an antitrust lawsuit targeting Amazon over last mile delivery network practices and contractor control."
+                "narration_line": "New Jersey files antitrust litigation against Amazon's last-mile delivery network."
             },
             {
                 "slide_index": 7,
                 "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Industrial real estate vacancy stabilized at seven point three per cent as quarterly warehouse demand outpaced new supply."
+                "narration_line": "U.S. industrial warehouse vacancy rates stabilize at 7.3% nationwide."
             },
             {
                 "slide_index": 8,
