@@ -1,56 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT RATE",
-        "titleBlue": "SURGE",
-        "footerSummary": "Escalating spot rates, port congestion surcharges, and tightening transpacific capacity require immediate modal rebalancing and carrier allocation adjustments."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "TRANSITION",
+        "footerSummary": "FMC regulatory enforcement, Middle East transit bottlenecks, and CDL compliance shifts drive immediate strategic realignment across global freight supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRANSPACIFIC FREIGHT: RATE REBOUND",
+            "heading": "FMC REGULATION: DETENTION FEE RULING",
             "points": [
-                "Carriers successfully executed general rate increases across major transpacific ocean corridors to capture rising early peak season volume.",
-                "Spot shipping rates remain elevated, placing severe cost pressures on enterprise importers and beneficial cargo owners.",
-                "Sustained East Asian export demand and tactical capacity controls by ocean liners continue to support upward pricing momentum.",
-                "Supply chain planners must secure contractual space allocations early to mitigate extreme market volatility and premium spot exposure."
+                "The U.S. Court of Appeals upheld the Federal Maritime Commission's rule requiring ocean carrier detention fees to strictly promote freight fluidity.",
+                "Ocean carriers can no longer assess container detention charges during operational port closures or uncontrollable gate delays.",
+                "The judicial affirmation solidifies OSRA 2022 mandate boundaries and provides shippers enforceable protection against unjustified demurrage billing.",
+                "Importers and NVOCCs should review active carrier invoice audit procedures to file immediate charge complaints on non-compliant fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: MIDDLE EAST SURCHARGES",
+            "nextUpTease": "PARCEL CARRIERS: USPS SURCHARGE ADJUSTMENTS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORT INFRASTRUCTURE: MIDDLE EAST SURCHARGES",
+            "heading": "PARCEL CARRIERS: USPS SURCHARGE ADJUSTMENTS",
             "points": [
-                "Severe vessel congestion at key Middle East maritime hubs has triggered mandatory carrier surcharges and strict booking curbs.",
-                "Hefty regional volume bottlenecks are drastically reducing terminal throughput efficiency and extending vessel turnaround durations.",
-                "Logistics operators must navigate sudden terminal access restrictions while rerouting shipments through alternative regional gateways.",
-                "Carriers are enforcing strict schedule buffers, forcing forwarders to adapt transit time commitments dynamically."
+                "The United States Postal Service implemented mandatory noncompliance fees on undeclared hazmat parcel shipments alongside rural delivery surcharges.",
+                "Lightweight ecommerce shipments routed to remote ZIP codes face price increases between two to three dollars per individual package.",
+                "Stricter hazmat auditing targets common merchant items including essential oils and lithium batteries to reduce sorting network risk.",
+                "Ecommerce sellers must update automated carrier rate-shopping logic immediately to prevent unexpected margin erosion on rural order fulfillment."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL LOGISTICS: USPS RATE REVISIONS",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "PARCEL LOGISTICS: USPS RATE REVISIONS",
-            "points": [
-                "The United States Postal Service implemented structural rate increases affecting lightweight commercial parcel services nationwide.",
-                "Marketplace sellers and e-commerce fulfillment operations face compressed operating margins due to rising last-mile delivery fees.",
-                "Carriers are introducing specialized noncompliance penalties for unannounced hazardous materials hidden within standard parcel streams.",
-                "E-commerce supply chain managers should deploy multi-carrier rate-shopping software to optimize last-mile routing economics."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "WAREHOUSE AUTOMATION: ROBOTIC SCALING",
+            "nextUpTease": "LAST-MILE LOGISTICS: DRONE NETWORK SCALE",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
@@ -58,16 +41,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "WAREHOUSE AUTOMATION: ROBOTIC SCALING",
+            "id": 3,
+            "heading": "LAST-MILE LOGISTICS: DRONE NETWORK SCALE",
             "points": [
-                "Logistics providers are aggressively expanding autonomous trailer loading and robotic sortation systems across major distribution hubs.",
-                "Advanced computer vision applications enable automated facilities to handle non-standard freight with minimal human oversight.",
-                "Capital investment in physical artificial intelligence significantly reduces yard dwell times and mitigates ongoing warehouse labor shortages.",
-                "Supply chain executives must accelerate automation readiness frameworks to maintain competitive fulfillment throughput speeds."
+                "Walmart partnered with Wing to launch commercial drone delivery services across multiple retail distribution hubs in Florida.",
+                "The automated aerial fulfillment expansion targets fast order processing for lightweight merchandise within a five-mile radius of participating stores.",
+                "Integrating aerial delivery units directly into retail parking lots bypasses traditional surface street congestion during peak hours.",
+                "Omnichannel operators must monitor autonomous flight regulations to evaluate micro-fulfillment capabilities in high-density suburban markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS COMPLIANCE: TARIFF MONETIZATION",
+            "nextUpTease": "MARITIME SECURITY: HORMUZ ROUTE BOTTLENECK",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -75,52 +58,69 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "CUSTOMS COMPLIANCE: TARIFF MONETIZATION",
+            "id": 4,
+            "heading": "MARITIME SECURITY: HORMUZ ROUTE BOTTLENECK",
             "points": [
-                "Major retailers are actively utilizing secondary financial markets to monetize pending customs tariff refund claims for liquidity.",
-                "Intermediaries purchase disputed import duty claims at a discount, transferring long regulatory recovery risks off corporate balance sheets.",
-                "Intense corporate cash flow pressures are driving finance departments to explore aggressive trade duty asset liquidation strategies.",
-                "Compliance officers should audit historic duty payment portfolios to evaluate whether early claim sales outweigh clawback timelines."
+                "Diplomatic discussions between Oman and regional authorities aim to establish temporary safe maritime corridors through the Strait of Hormuz.",
+                "Escalating military friction and naval mine threats have elevated insurance war-risk premiums and disrupted commercial crude transit.",
+                "Rerouting ocean tonnage around alternate maritime passages adds significant transit days and inflates operational fuel expenditure.",
+                "Global supply chain managers must recalculate lead times and buffer safety stock across energy-dependent production schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING CAPACITY: REGULATORY TIGHTENING",
+            "nextUpTease": "PORT INFRASTRUCTURE: PACIFIC TERMINAL HUB",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.supplychainbrain.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "PORT INFRASTRUCTURE: PACIFIC TERMINAL HUB",
+            "points": [
+                "HMM committed one hundred thirty-five million dollars to upgrade Washington United Terminals to increase container throughput capacity by fifty percent.",
+                "Capital expenditures will modernize berth infrastructure and expand intermodal rail linkages to streamline transpacific cargo handling.",
+                "Enhanced terminal automation mitigates West Coast vessel dwell times as transpacific import volumes maintain elevated baseline levels.",
+                "BCOs utilizing Pacific Northwest gateways should expect improved container velocity and expanded rail transfer capabilities upon project completion."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "INTERMODAL RAIL: PRIVATE EQUITY CAPITAL",
+            "tags": [
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRUCKING CAPACITY: REGULATORY TIGHTENING",
+            "heading": "INTERMODAL RAIL: PRIVATE EQUITY CAPITAL",
             "points": [
-                "Interagency federal enforcement sweeps and licensing reforms have removed thousands of non-compliant commercial drivers from service.",
-                "Tightening driver capacity continues to elevate spot truckload shipping rates across western and domestic freight corridors.",
-                "Fleets are adopting advanced retention tools and private parking marketplaces to counter persistent commercial driver shortages.",
-                "Shippers should establish resilient, mode-diverse carrier networks to insulate operations from sudden domestic capacity contractions."
+                "InfraRed Capital Partners acquired a majority stake in Rail Modal Group to accelerate intermodal ramp network expansion across North America.",
+                "Direct private investment aims to scale inland container transfers and bridge capacity gaps between major seaports and rail hubs.",
+                "Strengthening inland rail infrastructure offers shippers cost-effective alternatives to long-haul over-the-road trucking corridors.",
+                "Logistics planners should leverage expanded inland rail terminals to optimize intermodal routing and lower overall carbon intensity."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL TRADE: STRATEGIC RESHORING",
+            "nextUpTease": "CARRIER COMPLIANCE: DRIVER LICENSE AUDITS",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GLOBAL TRADE: STRATEGIC RESHORING",
+            "heading": "CARRIER COMPLIANCE: DRIVER LICENSE AUDITS",
             "points": [
-                "Multinational enterprises are systematically consolidating supplier networks and increasing domestic production investments to mitigate volatility.",
-                "Ongoing trade policy shifts and regulatory investigations are forcing supply chain teams to prioritize compliance rigor over cost.",
-                "Nearshoring initiatives in North America are accelerating as manufacturers seek to shorten fragile overseas component pipelines.",
-                "Logistics strategists must integrate real-time visibility tools to manage decentralized multi-tier inventory architectures successfully."
+                "Federal regulatory enforcement moves impact up to one hundred ninety-four thousand non-domiciled commercial driver licenses across the United States.",
+                "Heightened compliance checks and state-level training audits aim to eliminate fraudulent CDL issuances and enforce safety standards.",
+                "Tightened driver credentialing protocols may restrict short-term carrier capacity in specific regional over-the-road freight markets.",
+                "Fleet managers and freight brokers must verify driver documentation rigor to avoid vicarious liability and operational disruptions."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

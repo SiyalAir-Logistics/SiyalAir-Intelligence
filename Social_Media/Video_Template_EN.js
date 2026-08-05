@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT RATE SURGE",
+        "hookTitle": "GLOBAL FREIGHT NETWORK TRANSITION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRANSPACIFIC FREIGHT: RATE REBOUND",
-                "teaserTitle": "PORT INFRASTRUCTURE: MIDDLE EAST SURCHARGES",
+                "headline": "FMC REGULATION: DETENTION FEE RULING",
+                "teaserTitle": "PARCEL CARRIERS: USPS SURCHARGE ADJUSTMENTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Carriers implement general rate increases across transpacific corridors to capture rising peak volume."
+                "narration_line": "The US Court of Appeals upheld FMC rules preventing ocean carriers from levying detention fees during port closures."
             },
             {
                 "slide_index": 2,
-                "headline": "PORT INFRASTRUCTURE: MIDDLE EAST SURCHARGES",
-                "teaserTitle": "PARCEL LOGISTICS: USPS RATE REVISIONS",
+                "headline": "PARCEL CARRIERS: USPS SURCHARGE ADJUSTMENTS",
+                "teaserTitle": "LAST-MILE LOGISTICS: DRONE NETWORK SCALE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Severe regional port congestion sparks mandatory carrier surcharges and booking restrictions."
+                "narration_line": "New USPS hazmat penalties and rural package surcharges increase lightweight fulfillment costs for online marketplaces."
             },
             {
                 "slide_index": 3,
-                "headline": "PARCEL LOGISTICS: USPS RATE REVISIONS",
-                "teaserTitle": "WAREHOUSE AUTOMATION: ROBOTIC SCALING",
+                "headline": "LAST-MILE LOGISTICS: DRONE NETWORK SCALE",
+                "teaserTitle": "MARITIME SECURITY: HORMUZ ROUTE BOTTLENECK",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Postal service rate hikes compress e-commerce margins and mandate multi-carrier optimization."
+                "narration_line": "Walmart and Wing expanded commercial drone delivery across Florida retail hubs to accelerate suburban order fulfillment."
             },
             {
                 "slide_index": 4,
-                "headline": "WAREHOUSE AUTOMATION: ROBOTIC SCALING",
-                "teaserTitle": "CUSTOMS COMPLIANCE: TARIFF MONETIZATION",
+                "headline": "MARITIME SECURITY: HORMUZ ROUTE BOTTLENECK",
+                "teaserTitle": "PORT INFRASTRUCTURE: PACIFIC TERMINAL HUB",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Autonomous trailer loading systems scale rapidly to mitigate severe warehouse labor shortages."
+                "narration_line": "Middle East diplomatic talks seek temporary transit routes through the Strait of Hormuz amid mounting maritime security risks."
             },
             {
                 "slide_index": 5,
-                "headline": "CUSTOMS COMPLIANCE: TARIFF MONETIZATION",
-                "teaserTitle": "TRUCKING CAPACITY: REGULATORY TIGHTENING",
+                "headline": "PORT INFRASTRUCTURE: PACIFIC TERMINAL HUB",
+                "teaserTitle": "INTERMODAL RAIL: PRIVATE EQUITY CAPITAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Retailers monetize pending tariff refund claims on secondary markets to secure immediate liquidity."
+                "narration_line": "HMM invested 135 million dollars in Washington United Terminals to boost Pacific Northwest container throughput capacity by 50 per cent."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING CAPACITY: REGULATORY TIGHTENING",
-                "teaserTitle": "GLOBAL TRADE: STRATEGIC RESHORING",
+                "headline": "INTERMODAL RAIL: PRIVATE EQUITY CAPITAL",
+                "teaserTitle": "CARRIER COMPLIANCE: DRIVER LICENSE AUDITS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Federal enforcement sweeps and licensing reforms tighten domestic trucking capacity significantly."
+                "narration_line": "InfraRed Capital acquired a majority stake in Rail Modal Group to accelerate inland intermodal hub expansions across North America."
             },
             {
                 "slide_index": 7,
-                "headline": "GLOBAL TRADE: STRATEGIC RESHORING",
+                "headline": "CARRIER COMPLIANCE: DRIVER LICENSE AUDITS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Enterprises consolidate supplier networks and increase domestic manufacturing to ensure supply chain resilience."
+                "narration_line": "Federal safety audits targeting 194 thousand non-domiciled CDLs tighten driver compliance across domestic trucking markets."
             },
             {
                 "slide_index": 8,
