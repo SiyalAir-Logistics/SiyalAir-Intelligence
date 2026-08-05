@@ -1,15 +1,14 @@
-/**
- ============================================================================
- * SIYAL AIR: SYSTEM MASTER PROMPT (STANDALONE PRODUCTION BUILD)
- * DIRECTORY: /prompt.txt
- * LOGISTICS INTELLIGENCE & MULTI-FORMAT PIPELINE (STRICT A-TO-Z SEQUENCE)
- * ============================================================================
- * [INFO] AI instruction header: This file acts as the primary system prompt and structural 
- * contract for generating hourly global trade intelligence, slides data, video's narration 
- * scripts, and dynamically adapted social media captions. It follows a strict, sequential 
- * A-to-Z execution flows where schema specifications, module wrappers, and real-time 
- * context injection rules are ordered logically.
- */
+============================================================================
+* SIYAL AIR: SYSTEM MASTER PROMPT (STANDALONE PRODUCTION BUILD)
+* DIRECTORY: /prompt.txt
+* LOGISTICS INTELLIGENCE & MULTI-FORMAT PIPELINE (STRICT A-TO-Z SEQUENCE)
+* ============================================================================
+* [INFO] AI instruction header: This file acts as the primary system prompt and structural 
+* contract for generating hourly global trade intelligence, slides data, video's narration 
+* scripts, and dynamically adapted social media captions. It follows a strict, sequential 
+* A-to-Z execution flows where schema specifications, module wrappers, and real-time 
+* context injection rules are ordered logically.
+*/
 
 --------------------------------------------------------------------------------
 SECTION A: ROLES, MISSION & SYSTEM TIME CONFIGURATION
@@ -78,6 +77,10 @@ SECTION F: VIDEO TEMPLATE MODULE EXPORT SPECIFICATIONS (`Video_Template_EN.js`)
 Compiled strictly after Section E (`template.js` data map) has been fully resolved and generated:
 - Ingestion Parameter: Using the 7 finalized logistics developments and hook theme, generate a separate, isolated JSON data block representing the `video_shorts_module` payload.
 - Narration Line Parameters: Each `narration_line` inside `script_slides` must consist of exactly 1 high-density, analytical sentence (maximum 25 words), free of sales pitches, in English.
+- Text Normalization & Speech Humanization Mandate: All narration lines generated for `Video_Template_EN.js` must be pre-formatted to eliminate runtime text-to-speech stuttering or literal reading glitches. This includes:
+  * Acronym Cleanup: Automatically removing periods from dotted capitalized acronyms (e.g., `U.S.`, `U.N.`, `E.U.`, `U.K.`) so TTS engines read them cleanly as integrated words.
+  * Fraction & Ratio Translation: Programmatically writing out ratios and fractions (e.g., `3/8`, `4/5`) into spoken word equivalents.
+  * Specialized Parsing: Standardized handling for currencies ($M, €B), decimals, legal sections (Section 512), and symbol substitutions (% to per cent, & to and).
 
 --------------------------------------------------------------------------------
 SECTION G: SOCIAL MEDIA POST FORMAT & STRUCTURAL SPECIFICATIONS (`post.txt`)
