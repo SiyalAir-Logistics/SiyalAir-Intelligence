@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE STRATEGIC REALIGNMENT",
+        "hookTitle": "GLOBAL FREIGHT NETWORK TRANSITION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "MARITIME: HORMUZ SHIFT & TOLL RISKS",
+                "headline": "RAIL INTERMODAL: VIRGINIA CSX ROUTE",
+                "teaserTitle": "E-COMMERCE: EBAY DEPOP FULFILLMENT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR expands Section 301 tariffs across 60 trade partners. Importers must audit supply chains for forced-labor compliance."
+                "narration_line": "Port of Virginia linked direct CSX rail to Indianapolis. Shippers bypass Chicago bottlenecks to cut Midwest transit times."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ SHIFT & TOLL RISKS",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY DROPS",
+                "headline": "E-COMMERCE: EBAY DEPOP FULFILLMENT",
+                "teaserTitle": "OCEAN SHIPPING: SEALEAD SANCTIONS LIQUIDATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Iran and Oman negotiate Hormuz clearance protocols. Shipowners warn potential transit tolls will inflate global ocean freight rates."
+                "narration_line": "eBay closed its $1.4B Depop deal. Integration optimizes cross-border reverse logistics and fashion fulfillment networks."
             },
             {
                 "slide_index": 3,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY DROPS",
-                "teaserTitle": "INLAND WATERWAYS: RHINE DROUGHT CRUNCH",
+                "headline": "OCEAN SHIPPING: SEALEAD SANCTIONS LIQUIDATION",
+                "teaserTitle": "FULFILLMENT: AEO CAROLINA HUB",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "US industrial vacancy drops 7 bps to 7.3%. Tenant demand outpaces new warehouse construction across key logistics hubs."
+                "narration_line": "SeaLead Shipping entered liquidation following US sanctions. Cargo owners face urgent container rebooking across alternate ocean carriers."
             },
             {
                 "slide_index": 4,
-                "headline": "INLAND WATERWAYS: RHINE DROUGHT CRUNCH",
-                "teaserTitle": "LAST MILE: WALMART DRONE FLIGHT EXPANSION",
+                "headline": "FULFILLMENT: AEO CAROLINA HUB",
+                "teaserTitle": "MANUFACTURING: GE LEAD TIME CUTS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Rhine river levels sink to historic lows. Barge capacity curbs force modal shifts to rail and trucking networks."
+                "narration_line": "American Eagle launched a $41M NC fulfillment center. Regional hub expansion accelerates Southeastern last-mile parcel transit."
             },
             {
                 "slide_index": 5,
-                "headline": "LAST MILE: WALMART DRONE FLIGHT EXPANSION",
-                "teaserTitle": "FLEET EQUIPMENT: CUMMINS GUIDANCE HIKE",
+                "headline": "MANUFACTURING: GE LEAD TIME CUTS",
+                "teaserTitle": "CARGO CAPACITY: BANGLADESH CONTAINER CRUNCH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Walmart launches Wing drone delivery across 5 Florida hubs. Autonomous aerial logistics accelerates last-mile package turnaround."
+                "narration_line": "GE Aerospace trimmed manufacturing lead times by 60%. Supply chain consolidation eliminates excess transit across component networks."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEET EQUIPMENT: CUMMINS GUIDANCE HIKE",
-                "teaserTitle": "MARITIME POLICY: JONES ACT SUSPENSIONS",
+                "headline": "CARGO CAPACITY: BANGLADESH CONTAINER CRUNCH",
+                "teaserTitle": "PARCEL LOGISTICS: UPS AUTOMATION ACCELERATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Cummins raises heavy-duty engine guidance on fleet demand. Rebounding freight volume drives long-haul tractor replacements."
+                "narration_line": "Liners prioritize China trade over South Asia cargo. Bangladesh apparel exporters face container shortages and shipping delays."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME POLICY: JONES ACT SUSPENSIONS",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "PARCEL LOGISTICS: UPS AUTOMATION ACCELERATION",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "US officials signal Jones Act extensions for domestic energy. Regulatory waivers prevent fuel transport choke points."
+                "narration_line": "UPS processes 67% of domestic volume through automated hubs. Tech modernization curbs unit cost pressures across parcel networks."
             },
             {
                 "slide_index": 8,

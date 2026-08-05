@@ -1,90 +1,90 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE STRATEGIC",
-        "titleBlue": "REALIGNMENT",
-        "footerSummary": "Section 301 tariff expansions, Hormuz transit negotiations, Rhine barge disruptions, and Jones Act policy shifts drive dynamic global freight realignments."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "TRANSITION",
+        "footerSummary": "CSX intermodal expansion, SeaLead sanctions liquidation, eBay Depop integration, and GE supply chain shifts drive critical freight realignments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFF EXPANSION",
+            "heading": "RAIL INTERMODAL: VIRGINIA CSX ROUTE",
             "points": [
-                "The USTR officially initiated Section 301 tariff implementations targeting 60 trading partners following Section 122 expirations.",
-                "New enforcement rules mandate stricter origin verification and forced-labor compliance protocols for imported commercial freight.",
-                "Shippers face expanded duty exposure across key manufacturing categories, requiring re-evaluated sourcing strategies.",
-                "Importers must audit cross-border supply chains to mitigate noncompliance penalties and operational tariff delays."
+                "The Port of Virginia launched direct CSX intermodal rail service connecting East Coast container terminals to Indianapolis.",
+                "The direct rail line bypasses historic Chicago intermodal bottlenecks, reducing transit times for Midwestern import freight.",
+                "Shippers gain enhanced reliability and lower drayage expenses across core North American inland distribution corridors.",
+                "Supply chain planners are re-routing cargo schedules to leverage expanded East Coast rail intermodal throughput."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ SHIFT & TOLL RISKS",
+            "nextUpTease": "E-COMMERCE: EBAY DEPOP FULFILLMENT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HORMUZ SHIFT & TOLL RISKS",
+            "heading": "E-COMMERCE: EBAY DEPOP FULFILLMENT",
             "points": [
-                "Iran and Oman advanced talks to establish a temporary shipping corridor while clearing naval mines in the Strait of Hormuz.",
-                "Global shipowners warn proposed transit tolls by regional authorities will trigger mandatory surcharges across ocean trades.",
-                "Carriers are preparing contingent routing schedules to maintain vessel safety and mitigate potential choke-point delays.",
-                "Maritime logistics planners should factor emergency risk surcharges into global ocean freight rate forecasts."
+                "eBay finalized its $1.4B acquisition of fashion marketplace Depop to scale cross-border C2C secondary inventory integration.",
+                "The unified infrastructure aims to optimize reverse logistics and international parcel fulfillment networks across key markets.",
+                "Marketplace sellers gain direct access to streamlined cross-border delivery options and centralized listing tools.",
+                "E-commerce logistics operators must adjust fast-fashion inventory routing to capture secondary market fulfillment volume."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY DROPS",
+            "nextUpTease": "OCEAN SHIPPING: SEALEAD SANCTIONS LIQUIDATION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY DROPS",
+            "heading": "OCEAN SHIPPING: SEALEAD SANCTIONS LIQUIDATION",
             "points": [
-                "Colliers reported U.S. industrial real estate vacancy fell 7 bps to 7.3% in Q2 as net tenant demand outpaced new facility supply.",
-                "The stabilization reflects absorbed warehouse capacity following a multi-year construction boom in major logistics markets.",
-                "Third-party logistics providers are securing prime fulfillment centers to support expanding e-commerce inventory density.",
-                "Enterprise occupiers must plan lease renewals early to hedge against accelerating industrial rent growth."
+                "Singapore-based SeaLead Shipping initiated formal liquidation following strict US OFAC sanctions targeting Middle Eastern trade ties.",
+                "The carrier's sudden operational halt forces regional cargo owners to rebook container slots across alternative ocean lines.",
+                "Global trade regulatory compliance is driving immediate carrier counterparty risk audits throughout maritime supply chains.",
+                "Ocean freight procurement teams must verify carrier sanction profiles to avoid abrupt container stranding."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: RHINE DROUGHT CRUNCH",
+            "nextUpTease": "FULFILLMENT: AEO CAROLINA HUB",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INLAND WATERWAYS: RHINE DROUGHT CRUNCH",
+            "heading": "FULFILLMENT: AEO CAROLINA HUB",
             "points": [
-                "Record low water levels on the Rhine and Danube rivers threaten to halt heavy cargo barge traffic across Central Europe.",
-                "Barge operators are enforcing strict load restrictions, forcing bulk shippers to divert containerized freight to rail and truck.",
-                "Reduced waterway draft depths escalate inland transportation costs while straining European intermodal capacity.",
-                "Supply chain managers should execute modal shifts early to avoid bottleneck delays at major river ports."
+                "American Eagle Outfitters authorized construction of a $41M distribution center in North Carolina to strengthen regional fulfillment.",
+                "The state-of-the-art facility expands Southeastern omni-channel delivery capacity while reducing regional transit lead times.",
+                "Retail logistics networks are shifting toward localized hub distribution to offset rising long-haul parcel shipping costs.",
+                "Regional freight carriers stand to gain increased short-haul volume as regional distribution footprints expand."
             ],
             "imageUrl": "",
-            "nextUpTease": "LAST MILE: WALMART DRONE FLIGHT EXPANSION",
+            "nextUpTease": "MANUFACTURING: GE LEAD TIME CUTS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LAST MILE: WALMART DRONE FLIGHT EXPANSION",
+            "heading": "MANUFACTURING: GE LEAD TIME CUTS",
             "points": [
-                "Walmart and Wing launched commercial drone delivery across 5 Orlando facilities to scale autonomous last-mile operations.",
-                "The service enables rapid aerial delivery of lightweight retail orders within a localized multi-mile radius of retail hubs.",
-                "Autonomous flight networks reduce urban delivery vehicle reliance while lowering package turnaround times.",
-                "Retail logistics operators are increasingly deploying drone networks to capture competitive last-mile speed advantages."
+                "GE Aerospace slashed engine component lead times by 60% after executing broad supply chain facility restructuring.",
+                "The manufacturer streamlined production workflows and eliminated excess transit distance across domestic supplier networks.",
+                "Industrial aerospace supply chains are prioritizing physical proximity and workflow integration to counter disruption risks.",
+                "Manufacturing supply chain directors should benchmark lead time reduction strategies against consolidated footprint models."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET EQUIPMENT: CUMMINS GUIDANCE HIKE",
+            "nextUpTease": "CARGO CAPACITY: BANGLADESH CONTAINER CRUNCH",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -93,34 +93,34 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "FLEET EQUIPMENT: CUMMINS GUIDANCE HIKE",
+            "heading": "CARGO CAPACITY: BANGLADESH CONTAINER CRUNCH",
             "points": [
-                "Cummins raised full-year heavy-duty truck engine guidance as carriers accelerate fleet replacement order volumes.",
-                "Rebounding freight transport activity is driving commercial motor carriers to modernize aging long-haul tractor fleets.",
-                "Increased engine manufacturing production signals broader operational confidence across North American freight markets.",
-                "Fleet managers must align equipment procurement schedules with extended OEM component lead times."
+                "Ocean container lines are prioritizing high-yield Transpacific China cargo, restricting equipment availability in South Asia.",
+                "Bangladesh garment exporters face severe box shortages and port delays as ocean lines reallocate vessel capacity.",
+                "Global apparel retailers are encountering inventory delays due to regional vessel repositioning decisions by major ocean carriers.",
+                "Importers relying on South Asian production hubs must build extended buffer stock timelines into Q3 inventory plans."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME POLICY: JONES ACT SUSPENSIONS",
+            "nextUpTease": "PARCEL LOGISTICS: UPS AUTOMATION ACCELERATION",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME POLICY: JONES ACT SUSPENSIONS",
+            "heading": "PARCEL LOGISTICS: UPS AUTOMATION ACCELERATION",
             "points": [
-                "US Energy Secretary Chris Wright signaled likely extensions of temporary Jones Act suspensions for domestic energy shipments.",
-                "Regulatory waivers allow non-flagged coastal tankers to ease regional fuel transport bottlenecks and stabilize energy logistics.",
-                "The policy flexibility safeguards domestic energy supply chains against localized transportation capacity shortfalls.",
-                "Energy freight coordinators should monitor regulatory updates to optimize coastwise vessel chartering strategies."
+                "UPS reported over 67% of its domestic parcel volume is now processed through fully automated sorting hubs.",
+                "The network overhaul drives structural unit cost reductions while accelerating sortation throughput across key transit hubs.",
+                "Automation investments enable major parcel carriers to manage wage inflation and maintain profit margins during demand fluctuations.",
+                "Enterprise shippers must align package labeling standards to prevent automated sortation rejection penalties."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
