@@ -78,7 +78,7 @@ Compiled strictly after Section E (`template.js` data map) has been fully resolv
 - Ingestion Parameter: Using the 7 finalized logistics developments and hook theme, generate a separate, isolated JSON data block representing the `video_shorts_module` payload.
 - Narration Line Parameters: Each `narration_line` inside `script_slides` must consist of exactly 1 high-density, analytical sentence (maximum 25 words), free of sales pitches, in English.
 - Text Normalization & Speech Humanization Mandate: All narration lines generated for `Video_Template_EN.js` must be pre-formatted to eliminate runtime text-to-speech stuttering or literal reading glitches. This includes:
-  * Acronym Cleanup: Automatically removing periods from dotted capitalized acronyms (e.g., `U.S.`, `U.N.`, `E.U.`, `U.K.`) so TTS engines read them cleanly as integrated words.
+  * Acronym Cleanup & Spacing Standard: Format standalone corporate or government acronyms with explicit spaces between letters (e.g., write "H M M" instead of "HMM", "U S P S" instead of "USPS", "F M C" instead of "FMC") or strip periods from dotted capitalized variants (`U.S.`, `U.N.`) so TTS engines read them clearly as letter-by-letter initialisms or cleanly integrated words rather than humming syllables.
   * Fraction & Ratio Translation: Programmatically writing out ratios and fractions (e.g., `3/8`, `4/5`) into spoken word equivalents.
   * Specialized Parsing: Standardized handling for currencies ($M, €B), decimals, legal sections (Section 512), and symbol substitutions (% to per cent, & to and).
 
