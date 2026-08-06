@@ -1,26 +1,27 @@
-🌐 GLOBAL FREIGHT SECTOR SURGES
+🌐 CRITICAL FREIGHT SHIFTS
+
 Global supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:
 
-01 / CUSTOMS POLICY: SECTION 301 TARIFF EXPANSION
-The USTR officially moved forward with implementation of tariffs across 60 trading partners under Section 301.
+01 / EQUIPMENT: VAN TRAILER DUTIES
+U.S. imposes antidumping duties on Canadian and Mexican van trailers to protect domestic manufacturing.
 
-02 / ENERGY TRANSIT: DIESEL EXPORT SURGE
-U.S. distillate fuel exports climbed to a record 1.9M barrels per day amid intense global demand.
+02 / LEGAL RISK: BROKER LIABILITY VERDICT
+A $604M Texas legal verdict against C.H. Robinson resets liability standards for freight brokers.
 
-03 / PORT INFRASTRUCTURE: CMA CGM VENTURE
-CMA CGM launched an international container port modernization joint venture to elevate terminal efficiency.
+03 / MARITIME: FMC DETENTION FEE RULING
+Federal court upholds FMC mandate prohibiting ocean carriers from levying detention fees during port outages.
 
-04 / REAL ESTATE: INDUSTRIAL VACANCY STABILIZES
-Colliers reported second-quarter industrial vacancy rates falling 7 basis points sequentially to 7.3%.
+04 / INTERMODAL: VIRGINIA CSX INDY RAIL
+Port of Virginia opens direct CSX rail service to Indianapolis to bypass Midwest rail congestion.
 
-05 / ECOMMERCE LOGISTICS: AMAZON EXPANSION
-Amazon advanced supply chain operations by prepping new distribution facilities in Texas and New York.
+05 / ARCTIC TRADE: PANSTAR NORTHERN ROUTE
+Panstar Line buys an HMM container vessel to initiate commercial transits on the Northern Sea Route.
 
-06 / MARITIME SECURITY: HORMUZ SHIPPING ACCORD
-Iran announced a strategic agreement with Oman regarding shipping protocols through the Strait of Hormuz.
+06 / WORKFORCE: VETERAN FREEDOM HAULERS
+Federal agencies launch Freedom Haulers to accelerate commercial driver licensing for military veterans.
 
-07 / AIR CARGO: LUFTHANSA Q2 REVENUE
-Lufthansa Cargo posted a 27% jump in revenue driven by robust AI hardware demand across Asia.
+07 / AUTOMATION: GNC DC DRONE COUNTS
+Health retailer GNC automates cycle counting across 450K sq ft using warehouse inventory drones.
 
 ✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
 Stay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.
@@ -31,4 +32,4 @@ For Rate Audit and queries, contact us at +1 862 425 6741.
 [ LIKE • SHARE • FOLLOW ]
 For hourly decoded freight and global logistics signals across the globe.
 
-#SupplyChain #GlobalTrade #FreightNews #LogisticsManagement #AirCargo #MaritimeShipping #CustomsCompliance #TradePolicy
+#FreightLogistics #SupplyChain #MaritimeTrade #TruckingIndustry #IntermodalRail #CargoNews #CustomsCompliance #LogisticsTech

@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT SECTOR",
-        "titleBlue": "SURGES",
-        "footerSummary": "Section 301 tariff enforcement, rising diesel exports, port expansions, and cross-border tech investments redefine international supply chains."
+        "titleWhite": "CRITICAL FREIGHT",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Nuclear legal verdicts, Arctic ocean routes, new equipment import duties, and automated distribution tech redefine global freight logistics."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS POLICY: SECTION 301 TARIFF EXPANSION",
+            "heading": "EQUIPMENT: VAN TRAILER DUTIES",
             "points": [
-                "The USTR officially moved forward with implementation of tariffs across 60 trading partners under Section 301.",
-                "Importers face heightened scrutiny and stricter customs enforcement as regulatory frameworks expand rapidly.",
-                "Supply chain operators must navigate complex compliance hurdles to avoid severe cargo delays at ports.",
-                "Cross-border businesses are auditing classification databases to mitigate ongoing regulatory exposure."
+                "The U.S. government imposed antidumping duties on Canadian and Mexican dry and refrigerated van trailer imports.",
+                "The trade measure targets non-domestic manufacturers to protect domestic equipment production lines and carrier pricing.",
+                "Fleet operators purchasing cross-border trailing equipment face immediate cost increases on new fleet additions.",
+                "Motor carriers are re-evaluating capital expenditure timelines for trailer fleet replacement cycles through 2026."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY TRANSIT: DIESEL EXPORT SURGE",
+            "nextUpTease": "LEGAL RISK: BROKER LIABILITY VERDICT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ENERGY TRANSIT: DIESEL EXPORT SURGE",
+            "heading": "LEGAL RISK: BROKER LIABILITY VERDICT",
             "points": [
-                "U.S. distillate fuel exports climbed to a record 1.9M barrels per day amid intense global demand.",
-                "The international scramble for refined products is progressively draining domestic reserve fuel inventories.",
-                "Fleet operators face sustained upward pressure on operating overhead and localized fuel surcharges.",
-                "Motor carriers must optimize route planning to insulate operating margins from volatile energy costs."
+                "A Texas court handed down a $604M nuclear verdict against C.H. Robinson over carrier selection liability.",
+                "The legal ruling shifts industry standards for freight broker vicarious liability and negligent hiring defense.",
+                "Freight intermediaries are overhauling carrier vetting protocols to verify safety ratings prior to dispatch.",
+                "Brokers anticipate surging liability insurance premiums and tighter compliance mandates across national networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: CMA CGM VENTURE",
+            "nextUpTease": "MARITIME: FMC DETENTION FEE RULING",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORT INFRASTRUCTURE: CMA CGM VENTURE",
+            "heading": "MARITIME: FMC DETENTION FEE RULING",
             "points": [
-                "CMA CGM launched an international container port modernization joint venture to elevate terminal efficiency.",
-                "The initiative targets critical bottlenecks across major maritime gateways and transshipment hubs.",
-                "Advanced yard equipment and digital operating systems will accelerate vessel turnaround schedules.",
-                "Ocean carriers can anticipate improved schedule reliability and reduced berth congestion at key ports."
+                "The U.S. Court of Appeals upheld an FMC ruling requiring ocean carrier detention fees to promote freight fluidity.",
+                "Carriers can no longer assess detention and demurrage penalties during periods when port terminals are inaccessible.",
+                "The judicial confirmation protects shippers and drayage truckers from unwarranted container equipment penalties.",
+                "Ocean liners must update automated billing systems to comply with OSRA 2022 detention guidelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+            "nextUpTease": "INTERMODAL: VIRGINIA CSX INDY RAIL",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+            "heading": "INTERMODAL: VIRGINIA CSX INDY RAIL",
             "points": [
-                "Colliers reported second-quarter industrial vacancy rates falling 7 basis points sequentially to 7.3%.",
-                "Market demand continues to outpace new supply, signaling a balanced commercial real estate sector.",
-                "Logistics tenants are recalibrating facility networks to optimize regional distribution footprints.",
-                "Warehouse developers are prioritizing automated facility layouts to meet high enterprise standards."
+                "The Port of Virginia launched direct CSX intermodal rail service connecting ocean terminals to Indianapolis.",
+                "The new rail connection allows Midwest-bound containerized cargo to bypass congested Chicago rail bottlenecks entirely.",
+                "Importers gain a faster, lower-carbon transport corridor for transpacific and transatlantic import shipments.",
+                "Regional logistics hubs in Indiana expect increased distribution center development near new rail ramp facilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE LOGISTICS: AMAZON EXPANSION",
+            "nextUpTease": "ARCTIC TRADE: PANSTAR NORTHERN ROUTE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ECOMMERCE LOGISTICS: AMAZON EXPANSION",
+            "heading": "ARCTIC TRADE: PANSTAR NORTHERN ROUTE",
             "points": [
-                "Amazon advanced supply chain operations by prepping new distribution facilities in Texas and New York.",
-                "North American sales grew 16% in Q2, underscoring robust consumer demand and fulfillment volume.",
-                "The e-commerce giant is expanding specialized delivery truck fleets to streamline dock operations.",
-                "Regional supply chain networks are scaling capacity to handle upcoming seasonal shopping surges."
+                "South Korea's Panstar Line acquired a containership from HMM to launch operations on the Northern Sea Route.",
+                "The Arctic transit corridor significantly reduces transit days between East Asia and Northern European discharge ports.",
+                "Shipowners are testing high-latitude transits as ongoing Red Sea disruptions force lengthy Cape of Good Hope detours.",
+                "Maritime insurers are evaluating ice-class operational risks and regulatory requirements for Arctic container shipping."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME SECURITY: HORMUZ SHIPPING ACCORD",
+            "nextUpTease": "WORKFORCE: VETERAN FREEDOM HAULERS",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME SECURITY: HORMUZ SHIPPING ACCORD",
+            "heading": "WORKFORCE: VETERAN FREEDOM HAULERS",
             "points": [
-                "Iran announced a strategic agreement with Oman regarding shipping protocols through the Strait of Hormuz.",
-                "Oil prices dipped as market participants reacted to potential progress toward reopening regional waterways.",
-                "Global shipowners remain cautious, warning that new transit tolls could trigger widespread rate hikes.",
-                "Maritime carriers are monitoring geopolitical developments to secure uninterrupted vessel transits."
+                "The U.S. DOT introduced Freedom Haulers to expedite commercial driver licensing for transitioning military veterans.",
+                "The initiative streamlines CDL testing requirements while federal agencies step up enforcement on non-domiciled drivers.",
+                "Motor carriers gain access to a pre-screened pipeline of skilled labor to address long-haul driver shortages.",
+                "Safety regulators aim to raise driver training standards across interstate freight transport corridors nationwide."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: LUFTHANSA Q2 REVENUE",
+            "nextUpTease": "AUTOMATION: GNC DC DRONE COUNTS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: LUFTHANSA Q2 REVENUE",
+            "heading": "AUTOMATION: GNC DC DRONE COUNTS",
             "points": [
-                "Lufthansa Cargo posted a 27% jump in revenue driven by robust AI hardware demand across Asia.",
-                "Geopolitical volatility continues to shape air freight volumes on major transpacific trade lanes.",
-                "Airlines are capitalizing on expedited shipping needs to maximize yields amidst tight capacity.",
-                "Forwarders are adjusting cargo strategies to capture high-value technology transport opportunities."
+                "Retailer GNC deployed autonomous inventory drones across its 450K sq ft distribution center facility.",
+                "Automated aerial cycle counts replace manual labor teams and heavy material handling equipment on warehouse floors.",
+                "Facility managers report higher stock accuracy, reduced inventory auditing costs, and optimized dock throughput.",
+                "Warehouse operators are accelerating physical AI investments to handle labor constraints in high-density facilities."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

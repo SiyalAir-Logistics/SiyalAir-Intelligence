@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT SECTOR SURGES",
+        "hookTitle": "CRITICAL FREIGHT SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS POLICY: SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "ENERGY TRANSIT: DIESEL EXPORT SURGE",
+                "headline": "EQUIPMENT: VAN TRAILER DUTIES",
+                "teaserTitle": "LEGAL RISK: BROKER LIABILITY VERDICT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR expands Section 301 tariffs across 60 trading partners, forcing strict compliance."
+                "narration_line": "U.S. slaps new antidumping duties on Canadian and Mexican van trailer imports to protect domestic equipment makers."
             },
             {
                 "slide_index": 2,
-                "headline": "ENERGY TRANSIT: DIESEL EXPORT SURGE",
-                "teaserTitle": "PORT INFRASTRUCTURE: CMA CGM VENTURE",
+                "headline": "LEGAL RISK: BROKER LIABILITY VERDICT",
+                "teaserTitle": "MARITIME: FMC DETENTION FEE RULING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "U.S. distillate fuel exports hit 1.9M barrels per day, squeezing domestic reserves."
+                "narration_line": "A $604M Texas court verdict against C.H. Robinson fundamentally changes freight broker liability and carrier vetting."
             },
             {
                 "slide_index": 3,
-                "headline": "PORT INFRASTRUCTURE: CMA CGM VENTURE",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+                "headline": "MARITIME: FMC DETENTION FEE RULING",
+                "teaserTitle": "INTERMODAL: VIRGINIA CSX INDY RAIL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "CMA CGM launches a global container port modernization joint venture."
+                "narration_line": "U.S. Appeals Court upholds FMC rules requiring ocean carrier detention fees to incentivize actual freight fluidity."
             },
             {
                 "slide_index": 4,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
-                "teaserTitle": "ECOMMERCE LOGISTICS: AMAZON EXPANSION",
+                "headline": "INTERMODAL: VIRGINIA CSX INDY RAIL",
+                "teaserTitle": "ARCTIC TRADE: PANSTAR NORTHERN ROUTE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Industrial vacancy drops to 7.3% as demand outpaces new supply."
+                "narration_line": "Port of Virginia adds direct CSX rail service to Indianapolis, routing Midwest containers away from Chicago bottlenecks."
             },
             {
                 "slide_index": 5,
-                "headline": "ECOMMERCE LOGISTICS: AMAZON EXPANSION",
-                "teaserTitle": "MARITIME SECURITY: HORMUZ SHIPPING ACCORD",
+                "headline": "ARCTIC TRADE: PANSTAR NORTHERN ROUTE",
+                "teaserTitle": "WORKFORCE: VETERAN FREEDOM HAULERS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon scales North American fulfillment infrastructure following 16% sales growth."
+                "narration_line": "Panstar purchases an HMM container ship to launch maiden transits along the Arctic Northern Sea Route."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME SECURITY: HORMUZ SHIPPING ACCORD",
-                "teaserTitle": "AIR CARGO: LUFTHANSA Q2 REVENUE",
+                "headline": "WORKFORCE: VETERAN FREEDOM HAULERS",
+                "teaserTitle": "AUTOMATION: GNC DC DRONE COUNTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Iran and Oman reach a shipping accord as oil prices react to Hormuz talks."
+                "narration_line": "DOT launches Freedom Haulers to fast-track CDL certification for military veterans entering commercial trucking."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: LUFTHANSA Q2 REVENUE",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "AUTOMATION: GNC DC DRONE COUNTS",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Lufthansa Cargo revenue jumps 27% on surging Asian AI hardware demand."
+                "narration_line": "GNC deploys autonomous inventory drones across 450K sq ft of warehouse space to streamline cycle counts."
             },
             {
                 "slide_index": 8,
