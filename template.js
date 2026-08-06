@@ -1,90 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CRITICAL FREIGHT",
+        "titleWhite": "GLOBAL SUPPLY CHAIN",
         "titleBlue": "SHIFTS",
-        "footerSummary": "Nuclear legal verdicts, Arctic ocean routes, new equipment import duties, and automated distribution tech redefine global freight logistics."
+        "footerSummary": "Customs fraud settlements, explosive air cargo risks, USTR tariff expansions, and European port restructuring drive immediate operational realignments globally."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "EQUIPMENT: VAN TRAILER DUTIES",
+            "heading": "USTR: SECTION 301 TARIFFS",
             "points": [
-                "The U.S. government imposed antidumping duties on Canadian and Mexican dry and refrigerated van trailer imports.",
-                "The trade measure targets non-domestic manufacturers to protect domestic equipment production lines and carrier pricing.",
-                "Fleet operators purchasing cross-border trailing equipment face immediate cost increases on new fleet additions.",
-                "Motor carriers are re-evaluating capital expenditure timelines for trailer fleet replacement cycles through 2026."
+                "The USTR is advancing forced-labor tariffs across 60 trading partners as Section 122 measures expire.",
+                "Importers face mandatory compliance verification to avoid supply chain disruptions across active trade lanes.",
+                "Trade compliance teams must re-audit foreign supplier nodes to guarantee full supply chain traceability.",
+                "Enterprise freight budgets require immediate re-forecasting to absorb expanded tariff costs in 2026."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL RISK: BROKER LIABILITY VERDICT",
+            "nextUpTease": "PORT OPERATORS: DP WORLD RESTRUCTURING",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LEGAL RISK: BROKER LIABILITY VERDICT",
+            "heading": "PORT OPERATORS: DP WORLD RESTRUCTURING",
             "points": [
-                "A Texas court handed down a $604M nuclear verdict against C.H. Robinson over carrier selection liability.",
-                "The legal ruling shifts industry standards for freight broker vicarious liability and negligent hiring defense.",
-                "Freight intermediaries are overhauling carrier vetting protocols to verify safety ratings prior to dispatch.",
-                "Brokers anticipate surging liability insurance premiums and tighter compliance mandates across national networks."
+                "DP World initiated a European management overhaul resulting in 300 strategic operational job cuts.",
+                "The organizational restructuring focuses on commercial realignments at major hubs like London Gateway.",
+                "Marine terminal operations aim to streamline administrative overhead while maintaining container throughput.",
+                "Shifting commercial leadership teams may alter regional terminal service agreements and pricing structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: FMC DETENTION FEE RULING",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MARITIME: FMC DETENTION FEE RULING",
-            "points": [
-                "The U.S. Court of Appeals upheld an FMC ruling requiring ocean carrier detention fees to promote freight fluidity.",
-                "Carriers can no longer assess detention and demurrage penalties during periods when port terminals are inaccessible.",
-                "The judicial confirmation protects shippers and drayage truckers from unwarranted container equipment penalties.",
-                "Ocean liners must update automated billing systems to comply with OSRA 2022 detention guidelines."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INTERMODAL: VIRGINIA CSX INDY RAIL",
-            "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "INTERMODAL: VIRGINIA CSX INDY RAIL",
-            "points": [
-                "The Port of Virginia launched direct CSX intermodal rail service connecting ocean terminals to Indianapolis.",
-                "The new rail connection allows Midwest-bound containerized cargo to bypass congested Chicago rail bottlenecks entirely.",
-                "Importers gain a faster, lower-carbon transport corridor for transpacific and transatlantic import shipments.",
-                "Regional logistics hubs in Indiana expect increased distribution center development near new rail ramp facilities."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "ARCTIC TRADE: PANSTAR NORTHERN ROUTE",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "ARCTIC TRADE: PANSTAR NORTHERN ROUTE",
-            "points": [
-                "South Korea's Panstar Line acquired a containership from HMM to launch operations on the Northern Sea Route.",
-                "The Arctic transit corridor significantly reduces transit days between East Asia and Northern European discharge ports.",
-                "Shipowners are testing high-latitude transits as ongoing Red Sea disruptions force lengthy Cape of Good Hope detours.",
-                "Maritime insurers are evaluating ice-class operational risks and regulatory requirements for Arctic container shipping."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "WORKFORCE: VETERAN FREEDOM HAULERS",
+            "nextUpTease": "CUSTOMS ENFORCEMENT: TAIWAN FRAUD SETTLEMENT",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -92,35 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "WORKFORCE: VETERAN FREEDOM HAULERS",
+            "id": 3,
+            "heading": "CUSTOMS ENFORCEMENT: TAIWAN FRAUD SETTLEMENT",
             "points": [
-                "The U.S. DOT introduced Freedom Haulers to expedite commercial driver licensing for transitioning military veterans.",
-                "The initiative streamlines CDL testing requirements while federal agencies step up enforcement on non-domiciled drivers.",
-                "Motor carriers gain access to a pre-screened pipeline of skilled labor to address long-haul driver shortages.",
-                "Safety regulators aim to raise driver training standards across interstate freight transport corridors nationwide."
+                "A Taiwan manufacturer settled federal customs charges for $5.2M over falsified import entry declarations.",
+                "Federal investigators targeted misclassified country-of-origin documentation designed to evade trade tariffs.",
+                "CBP has escalated automated audit algorithms targeting transshipment fraud across high-risk corridors.",
+                "Cross-border shippers face heightened scrutiny and cargo holds for unverified import documentation."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION: GNC DC DRONE COUNTS",
+            "nextUpTease": "AIR CARGO: LEIPZIG SECURITY THREAT",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.freightwaves.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AIR CARGO: LEIPZIG SECURITY THREAT",
+            "points": [
+                "German authorities launched a counterterrorism probe after discovering an explosive drone at Leipzig Airport.",
+                "Leipzig/Halle acts as a primary European air freight hub for major international express carriers.",
+                "Aviation security agencies are enforcing emergency perimeter scanning and screening protocols.",
+                "Air forwarders anticipate potential cargo handling delays across central European express gateways."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PARCEL RATES: USPS MARKETPLACE INCREASES",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "PARCEL RATES: USPS MARKETPLACE INCREASES",
+            "points": [
+                "USPS implemented Ground Advantage rate hikes alongside strict noncompliance penalties for hazmat shipping.",
+                "E-commerce merchants shipping lightweight commercial parcels face higher baseline transportation costs.",
+                "Marketplace sellers must re-verify hazardous material classifications to prevent surprise fee surcharges.",
+                "Third-party fulfillment centers are upgrading label verification tools to maintain shipping margin stability."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "points": [
+                "U.S. industrial real estate vacancy stabilized at 7.3% as leasing demand outpaced new warehouse completions.",
+                "The supply-demand rebalancing signals an end to the rapid logistics space expansion seen in prior quarters.",
+                "Tenant leverage is normalizing across primary distribution hubs as sub-lease inventory contracts.",
+                "Logistics operators planning facility expansions face firming rental rates in core metropolitan markets."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ECOMMERCE: EBAY DEPOP ACQUISITION",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AUTOMATION: GNC DC DRONE COUNTS",
+            "heading": "ECOMMERCE: EBAY DEPOP ACQUISITION",
             "points": [
-                "Retailer GNC deployed autonomous inventory drones across its 450K sq ft distribution center facility.",
-                "Automated aerial cycle counts replace manual labor teams and heavy material handling equipment on warehouse floors.",
-                "Facility managers report higher stock accuracy, reduced inventory auditing costs, and optimized dock throughput.",
-                "Warehouse operators are accelerating physical AI investments to handle labor constraints in high-density facilities."
+                "eBay finalized its $1.4B acquisition of fashion marketplace Depop from Etsy following UK regulatory approval.",
+                "The platform consolidation expands cross-border apparel logistics and peer-to-peer fulfillment networks.",
+                "eBay plans operational synergies across international parcel shipping, inventory tracking, and payment processing.",
+                "Apparel logistics networks must adapt to growing circular economy parcel flows between North America and Europe."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

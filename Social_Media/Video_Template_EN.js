@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CRITICAL FREIGHT SHIFTS",
+        "hookTitle": "GLOBAL SUPPLY CHAIN SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "EQUIPMENT: VAN TRAILER DUTIES",
-                "teaserTitle": "LEGAL RISK: BROKER LIABILITY VERDICT",
+                "headline": "USTR: SECTION 301 TARIFFS",
+                "teaserTitle": "PORT OPERATORS: DP WORLD RESTRUCTURING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "U.S. slaps new antidumping duties on Canadian and Mexican van trailer imports to protect domestic equipment makers."
+                "narration_line": "USTR is enforcing Section 301 tariffs on 60 trading partners. Importers must audit origin nodes to prevent severe delivery holds."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL RISK: BROKER LIABILITY VERDICT",
-                "teaserTitle": "MARITIME: FMC DETENTION FEE RULING",
+                "headline": "PORT OPERATORS: DP WORLD RESTRUCTURING",
+                "teaserTitle": "CUSTOMS ENFORCEMENT: TAIWAN FRAUD SETTLEMENT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A $604M Texas court verdict against C.H. Robinson fundamentally changes freight broker liability and carrier vetting."
+                "narration_line": "DP World announced 300 operational layoffs across Europe. Terminal realignments aim to streamline regional freight throughput."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: FMC DETENTION FEE RULING",
-                "teaserTitle": "INTERMODAL: VIRGINIA CSX INDY RAIL",
+                "headline": "CUSTOMS ENFORCEMENT: TAIWAN FRAUD SETTLEMENT",
+                "teaserTitle": "AIR CARGO: LEIPZIG SECURITY THREAT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "U.S. Appeals Court upholds FMC rules requiring ocean carrier detention fees to incentivize actual freight fluidity."
+                "narration_line": "A Taiwan manufacturer paid $5.2M to settle customs entry fraud. Automated CBP audits are raising cross-border cargo risks."
             },
             {
                 "slide_index": 4,
-                "headline": "INTERMODAL: VIRGINIA CSX INDY RAIL",
-                "teaserTitle": "ARCTIC TRADE: PANSTAR NORTHERN ROUTE",
+                "headline": "AIR CARGO: LEIPZIG SECURITY THREAT",
+                "teaserTitle": "PARCEL RATES: USPS MARKETPLACE INCREASES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Port of Virginia adds direct CSX rail service to Indianapolis, routing Midwest containers away from Chicago bottlenecks."
+                "narration_line": "German counterterrorism units opened a probe after an explosive drone was found at Leipzig Airport. Express air freight networks face increased screening delays."
             },
             {
                 "slide_index": 5,
-                "headline": "ARCTIC TRADE: PANSTAR NORTHERN ROUTE",
-                "teaserTitle": "WORKFORCE: VETERAN FREEDOM HAULERS",
+                "headline": "PARCEL RATES: USPS MARKETPLACE INCREASES",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Panstar purchases an HMM container ship to launch maiden transits along the Arctic Northern Sea Route."
+                "narration_line": "USPS raised Ground Advantage rates and added strict hazmat penalties. E-commerce platforms must adapt to rising parcel delivery costs."
             },
             {
                 "slide_index": 6,
-                "headline": "WORKFORCE: VETERAN FREEDOM HAULERS",
-                "teaserTitle": "AUTOMATION: GNC DC DRONE COUNTS",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "teaserTitle": "ECOMMERCE: EBAY DEPOP ACQUISITION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "DOT launches Freedom Haulers to fast-track CDL certification for military veterans entering commercial trucking."
+                "narration_line": "U.S. industrial warehouse vacancy stabilized at 7.3% as demand outpaced supply. Facility lease rates are firming across key logistics hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "AUTOMATION: GNC DC DRONE COUNTS",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "ECOMMERCE: EBAY DEPOP ACQUISITION",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "GNC deploys autonomous inventory drones across 450K sq ft of warehouse space to streamline cycle counts."
+                "narration_line": "eBay closed its $1.4B acquisition of apparel marketplace Depop. Circular economy logistics networks expect accelerated cross-border parcel volumes."
             },
             {
                 "slide_index": 8,
