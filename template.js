@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "LOGISTICS FREIGHT SYSTEM",
-        "titleBlue": "OPTIMIZATION",
-        "footerSummary": "Direct rail expansions, regulatory detention fee wins, B2B loading dock innovations, and aerospace lead-time cuts transform global freight efficiency."
+        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleBlue": "REVISIONS",
+        "footerSummary": "Section 301 permanence, $100B tariff refunds, court-backed detention fee rulings, and port infrastructure modernization reshape international freight."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORT RAIL: CSX VIRGINIA DIRECT ROUTE",
+            "heading": "CUSTOMS POLICY: SECTION 301 PERMANENCE",
             "points": [
-                "Port of Virginia partnered with CSX to launch direct intermodal rail service straight into Indianapolis.",
-                "The new line bypasses traditional Chicago rail bottlenecks, cutting transit time by up to 36 hours.",
-                "Midwestern shippers gain streamlined ocean-to-rail connectivity for heavy containerized imports.",
-                "Logistics operators can reroute inland cargo to mitigate mid-continent junction delays."
+                "Trade consultancies advise that Section 301 tariffs are now a permanent baseline for US import policy.",
+                "Importers face stricter customs enforcement and diminishing opportunities to reduce statutory penalty assessments.",
+                "Supply chain planners must integrate sustained tariff costs directly into long-term financial modeling.",
+                "Cross-border compliance teams should audit classification databases to avoid escalating regulatory exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN REGULATION: FMC DETENTION FEE RULING",
+            "nextUpTease": "OCEAN REGULATION: DETENTION FEE RULING",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OCEAN REGULATION: FMC DETENTION FEE RULING",
+            "heading": "OCEAN REGULATION: DETENTION FEE RULING",
             "points": [
-                "US Court of Appeals upheld the FMC ruling mandating ocean carrier detention fees must promote freight fluidity.",
-                "Carriers cannot levy penalties when terminal gates are closed or containers remain inaccessible to drayage operators.",
-                "The federal court decision provides legal protection for importers disputing unfair port demurrage charges.",
-                "Shippers should audit historical billing logs to file formal charge complaints with the FMC."
+                "The US Court of Appeals upheld the FMC decision mandating that detention fees must promote freight fluidity.",
+                "Ocean carriers are legally barred from penalizing shippers when terminal gates remain closed or blocked.",
+                "Importers gain robust legal footing to challenge and dispute unfair demurrage billing practices.",
+                "Logistics operators should review historical container invoices to recoup improper terminal charges."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE M&A: EBAY COMPLETES DEPOP DEAL",
+            "nextUpTease": "GLOBAL ECONOMICS: TARIFF REFUND SURGE",
             "tags": [
                 "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
@@ -42,85 +42,85 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "E-COMMERCE M&A: EBAY COMPLETES DEPOP DEAL",
+            "heading": "GLOBAL ECONOMICS: TARIFF REFUND SURGE",
             "points": [
-                "eBay finalized its $1.4B acquisition of fashion marketplace Depop after securing clearance from UK regulators.",
-                "The corporate integration aims to capture synergistic apparel trade across cross-border consumer-to-consumer networks.",
-                "Supply chain infrastructure is being optimized to consolidate international parcel shipping and seller fulfillment.",
-                "Online sellers should leverage expanded multi-platform logistics tools to streamline global inventory distribution."
+                "Cumulative refunds from challenged trade levies have surged past $100B across major commercial sectors.",
+                "This capital recovery represents 60% of the $165B initially collected under prior executive tariff actions.",
+                "Retailers and manufacturers are actively monetizing secondary refund rights to accelerate cash flow acquisition.",
+                "Financial controllers should evaluate specialized recovery markets to unlock trapped duty capital."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET RECRUITMENT: FREEDOM HAULERS PROGRAM",
+            "nextUpTease": "PORT INFRASTRUCTURE: CMA CGM JOINT VENTURE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FLEET RECRUITMENT: FREEDOM HAULERS PROGRAM",
+            "heading": "PORT INFRASTRUCTURE: CMA CGM JOINT VENTURE",
             "points": [
-                "DOT launched the Freedom Haulers interagency campaign to fast-track military veterans into CDL commercial trucking roles.",
-                "The initiative pairs streamlined recruitment with active enforcement against non-domiciled and unauthorized drivers.",
-                "Motor carriers gain a structured talent pipeline to alleviate persistent long-haul driver shortages.",
-                "Fleet managers must align onboarding workflows to leverage federal veteran licensing transition programs."
+                "CMA CGM launched an international container port modernization joint venture to upgrade terminal efficiency.",
+                "The initiative targets critical bottlenecks across major global maritime gateways and transshipment hubs.",
+                "Advanced yard equipment and digital operating systems will significantly accelerate vessel turnaround times.",
+                "Ocean carriers can anticipate improved schedule reliability and reduced berth congestion at key ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "LAST-MILE LOGISTICS: DEDICATED DOCK DELIVERY",
+            "nextUpTease": "FREIGHT TRANSIT: DIESEL EXPORT SPIKE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LAST-MILE LOGISTICS: DEDICATED DOCK DELIVERY",
+            "heading": "FREIGHT TRANSIT: DIESEL EXPORT SPIKE",
             "points": [
-                "Amazon Business introduced dedicated branded freight trucks designed for consolidated palletized commercial loading dock deliveries.",
-                "The B2B fulfillment model eliminates single-box drop-offs, reducing receiving dock congestion for enterprise facilities.",
-                "Commercial buyers benefit from synchronized delivery windows and streamlined unloading operational efficiency.",
-                "Supply chain managers should configure facility docks to accommodate heavy palletized drop-off schedules."
+                "US distillate fuel exports surged to a record 1.9M barrels per day amid intense global energy demand.",
+                "The international scramble for refined diesel is progressively draining domestic reserve fuel supplies.",
+                "Fleet operators face persistent upward pressure on operating overhead and localized fuel surcharges.",
+                "Motor carriers must optimize route planning and fuel purchasing strategies to insulate profit margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "AEROSPACE LOGISTICS: LEAD TIME REDUCTION",
+            "nextUpTease": "INFRASTRUCTURE LOGISTICS: PROLOGIS AI CONSULTING",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AEROSPACE LOGISTICS: LEAD TIME REDUCTION",
+            "heading": "INFRASTRUCTURE LOGISTICS: PROLOGIS AI CONSULTING",
             "points": [
-                "GE Aerospace slashed jet engine manufacturing lead times by 60% following systemic facility workflow consolidation.",
-                "Optimized plant layouts reduced component transport distances across high-precision aerospace assembly lines.",
-                "Accelerated engine deliveries bolster commercial airline capacity and defense supply chain readiness.",
-                "Industrial manufacturers should deploy spatial layout optimization to trim production cycle times."
+                "Prologis announced a comprehensive partnership to offer advanced AI and automation consulting for distribution centers.",
+                "Industrial real estate tenants can leverage specialized digital tools to optimize warehouse layout efficiency.",
+                "Automated material handling solutions help mitigate ongoing labor constraints within fulfillment centers.",
+                "Facility managers should integrate smart automation frameworks to enhance throughput velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRONE DELIVERY: FLORIDIAN URBAN EXPANSION",
+            "nextUpTease": "LABOR STANDARDS: FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DRONE DELIVERY: FLORIDIAN URBAN EXPANSION",
+            "heading": "LABOR STANDARDS: FORCED LABOR TARIFFS",
             "points": [
-                "Walmart and Wing expanded commercial drone delivery across 5 retail fulfillment hubs in the Orlando area.",
-                "The automated aerial network delivers emergency items and lightweight goods directly to residential doorsteps within 30 minutes.",
-                "Last-mile fulfillment costs drop significantly as autonomous drones replace traditional van transport routes.",
-                "Urban logistics planners must integrate low-altitude airspace management into regional distribution strategies."
+                "The USTR moved forward with targeted tariffs focused on forced labor compliance across 60 trading partners.",
+                "Global supply chains face intense scrutiny regarding tier-1 through tier-3 supplier transparency.",
+                "Compliance officers must deploy robust digital traceability platforms to verify raw material origin.",
+                "Importers failing to meet traceability mandates risk severe cargo seizures at ports of entry."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
