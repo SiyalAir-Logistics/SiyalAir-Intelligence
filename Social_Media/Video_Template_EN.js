@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE SIGNAL REALIGNMENT",
+        "hookTitle": "LOGISTICS FREIGHT SYSTEM OPTIMIZATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "BROKERAGE: NUCLEAR VERDICT LIABILITY",
+                "headline": "PORT RAIL: CSX VIRGINIA DIRECT ROUTE",
+                "teaserTitle": "OCEAN REGULATION: FMC DETENTION FEE RULING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR is imposing Section 301 tariffs on 60 nations as Section 122 expires, prompting a 25-state federal lawsuit."
+                "narration_line": "Port of Virginia launched direct CSX rail service to Indianapolis. The route bypasses Chicago bottlenecks, saving 36 hours."
             },
             {
                 "slide_index": 2,
-                "headline": "BROKERAGE: NUCLEAR VERDICT LIABILITY",
-                "teaserTitle": "AIR CARGO: SEMICONDUCTOR FREIGHT SURGE",
+                "headline": "OCEAN REGULATION: FMC DETENTION FEE RULING",
+                "teaserTitle": "E-COMMERCE M&A: EBAY COMPLETES DEPOP DEAL",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A Texas court upheld a $604M vicarious liability ruling against C.H. Robinson, reshaping 3PL carrier vetting standards."
+                "narration_line": "Federal court upheld FMC rules on carrier detention fees. Ocean lines cannot charge shippers during gate closures."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: SEMICONDUCTOR FREIGHT SURGE",
-                "teaserTitle": "MARITIME: HORMUZ TRANSIT PROTOCOLS",
+                "headline": "E-COMMERCE M&A: EBAY COMPLETES DEPOP DEAL",
+                "teaserTitle": "FLEET RECRUITMENT: FREEDOM HAULERS PROGRAM",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "AI hardware demand drove a 27% air cargo revenue surge, tightening charter capacity out of Asian manufacturing hubs."
+                "narration_line": "eBay finalized its $1.4B acquisition of fashion platform Depop. Global shipping networks will integrate cross-border parcel delivery."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: HORMUZ TRANSIT PROTOCOLS",
-                "teaserTitle": "ENERGY: RECORD DIESEL EXPORT SURGE",
+                "headline": "FLEET RECRUITMENT: FREEDOM HAULERS PROGRAM",
+                "teaserTitle": "LAST-MILE LOGISTICS: DEDICATED DOCK DELIVERY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Iran and Oman near a deal on Strait of Hormuz transit protocols while carriers oppose proposed transit fees."
+                "narration_line": "DOT launched Freedom Haulers to recruit military veterans into trucking. The initiative addresses driver shortages across key corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "ENERGY: RECORD DIESEL EXPORT SURGE",
-                "teaserTitle": "REAL ESTATE: WAREHOUSE VACANCY DROP",
+                "headline": "LAST-MILE LOGISTICS: DEDICATED DOCK DELIVERY",
+                "teaserTitle": "AEROSPACE LOGISTICS: LEAD TIME REDUCTION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "US diesel exports hit a record 1.9M barrels per day, draining domestic inventories and pushing fuel costs higher."
+                "narration_line": "Amazon Business deployed branded trucks for palletized loading dock deliveries. The service reduces receiving dock congestion for enterprise clients."
             },
             {
                 "slide_index": 6,
-                "headline": "REAL ESTATE: WAREHOUSE VACANCY DROP",
-                "teaserTitle": "CARGO SECURITY: FRAUD PREVENTION PROTOCOLS",
+                "headline": "AEROSPACE LOGISTICS: LEAD TIME REDUCTION",
+                "teaserTitle": "DRONE DELIVERY: FLORIDIAN URBAN EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "US warehouse vacancy fell to 7.3% in Q2 as industrial logistics demand outpaced new warehouse construction starts."
+                "narration_line": "GE Aerospace reduced jet engine manufacturing lead times by 60%. Workflow consolidation optimized high-precision assembly lines."
             },
             {
                 "slide_index": 7,
-                "headline": "CARGO SECURITY: FRAUD PREVENTION PROTOCOLS",
+                "headline": "DRONE DELIVERY: FLORIDIAN URBAN EXPANSION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Cargo theft losses reached $725M, driving logistics operators to mandate AI digital identity checks at receiving docks."
+                "narration_line": "Walmart and Wing expanded drone deliveries across 5 Orlando facilities. Aerial routes deliver lightweight parcels in under 30 minutes."
             },
             {
                 "slide_index": 8,

@@ -1,121 +1,121 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE SIGNAL",
-        "titleBlue": "REALIGNMENT",
-        "footerSummary": "Section 301 tariffs, 3PL vicarious liability verdicts, semiconductor air cargo spikes, and Hormuz transit talks signal structural supply chain realignments."
+        "titleWhite": "LOGISTICS FREIGHT SYSTEM",
+        "titleBlue": "OPTIMIZATION",
+        "footerSummary": "Direct rail expansions, regulatory detention fee wins, B2B loading dock innovations, and aerospace lead-time cuts transform global freight efficiency."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFFS",
+            "heading": "PORT RAIL: CSX VIRGINIA DIRECT ROUTE",
             "points": [
-                "The Office of the US Trade Representative is implementing forced labor-based Section 301 tariffs on 60 trading partners as Section 122 duties expire.",
-                "A coalition of 25 US states filed a federal lawsuit challenging the administrative trade action as an unauthorized regulatory workaround.",
-                "Commercial importers must audit international supply chains to document supplier compliance and prevent administrative cargo detentions.",
-                "Logistics planners should expect heightened customs clearance scrutiny and potential duty adjustments across transpacific import lanes."
+                "Port of Virginia partnered with CSX to launch direct intermodal rail service straight into Indianapolis.",
+                "The new line bypasses traditional Chicago rail bottlenecks, cutting transit time by up to 36 hours.",
+                "Midwestern shippers gain streamlined ocean-to-rail connectivity for heavy containerized imports.",
+                "Logistics operators can reroute inland cargo to mitigate mid-continent junction delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "BROKERAGE: NUCLEAR VERDICT LIABILITY",
+            "nextUpTease": "OCEAN REGULATION: FMC DETENTION FEE RULING",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "BROKERAGE: NUCLEAR VERDICT LIABILITY",
+            "heading": "OCEAN REGULATION: FMC DETENTION FEE RULING",
             "points": [
-                "A Texas court upheld a $604M vicarious liability judgment against C.H. Robinson in the landmark Montgomery v. Caribe freight brokerage case.",
-                "The legal precedent expands legal exposure for freight brokers regarding motor carrier selection and contract safety vetting protocols.",
-                "Freight intermediaries are overhauling carrier compliance workflows to enforce automated safety rating verification prior to dispatch.",
-                "Supply chain executives must re-evaluate broker liability insurance limits to hedge against systemic legal risks in highway transportation."
+                "US Court of Appeals upheld the FMC ruling mandating ocean carrier detention fees must promote freight fluidity.",
+                "Carriers cannot levy penalties when terminal gates are closed or containers remain inaccessible to drayage operators.",
+                "The federal court decision provides legal protection for importers disputing unfair port demurrage charges.",
+                "Shippers should audit historical billing logs to file formal charge complaints with the FMC."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: SEMICONDUCTOR FREIGHT SURGE",
+            "nextUpTease": "E-COMMERCE M&A: EBAY COMPLETES DEPOP DEAL",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: SEMICONDUCTOR FREIGHT SURGE",
+            "heading": "E-COMMERCE M&A: EBAY COMPLETES DEPOP DEAL",
             "points": [
-                "Air freight carriers reported a 27% cargo revenue surge driven by accelerating global demand for artificial intelligence hardware and microchips.",
-                "Transpacific air cargo capacity is tightening rapidly as semiconductor manufacturers secure dedicated charter freighter operations out of Asia.",
-                "High-tech supply chains are shifting high-value electronic components from ocean container shipping to expedited air freight networks.",
-                "Shippers should lock in multi-quarter air freight block space agreements to mitigate spot rate spikes ahead of the Q4 peak season."
+                "eBay finalized its $1.4B acquisition of fashion marketplace Depop after securing clearance from UK regulators.",
+                "The corporate integration aims to capture synergistic apparel trade across cross-border consumer-to-consumer networks.",
+                "Supply chain infrastructure is being optimized to consolidate international parcel shipping and seller fulfillment.",
+                "Online sellers should leverage expanded multi-platform logistics tools to streamline global inventory distribution."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ TRANSIT PROTOCOLS",
+            "nextUpTease": "FLEET RECRUITMENT: FREEDOM HAULERS PROGRAM",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: HORMUZ TRANSIT PROTOCOLS",
+            "heading": "FLEET RECRUITMENT: FREEDOM HAULERS PROGRAM",
             "points": [
-                "Iran and Oman entered final negotiations regarding a regulated transit channel and mine-clearing protocols through the Strait of Hormuz.",
-                "Ocean carrier associations called on international maritime bodies to prevent unilateral transit tolls along primary energy trade corridors.",
-                "Global shipping lines are adjusting maritime war risk insurance surcharges as diplomatic talks progress toward corridor stabilization.",
-                "Fleet operations managers must track Hormuz security updates to optimize vessel routing schedules across Middle Eastern trade lanes."
+                "DOT launched the Freedom Haulers interagency campaign to fast-track military veterans into CDL commercial trucking roles.",
+                "The initiative pairs streamlined recruitment with active enforcement against non-domiciled and unauthorized drivers.",
+                "Motor carriers gain a structured talent pipeline to alleviate persistent long-haul driver shortages.",
+                "Fleet managers must align onboarding workflows to leverage federal veteran licensing transition programs."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: RECORD DIESEL EXPORT SURGE",
+            "nextUpTease": "LAST-MILE LOGISTICS: DEDICATED DOCK DELIVERY",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ENERGY: RECORD DIESEL EXPORT SURGE",
+            "heading": "LAST-MILE LOGISTICS: DEDICATED DOCK DELIVERY",
             "points": [
-                "US distillate exports reached a record 1.9M barrels per day as international markets scramble for refined energy products.",
-                "The sustained export volume is draining domestic US diesel inventories and driving up fuel surcharge costs for motor carriers.",
-                "Truckload carriers face increased operating expense volatility, forcing rapid adjustments to base freight rate pricing models.",
-                "Fleet managers should implement fuel hedging strategies to manage margin compression as diesel fuel prices continue to climb."
+                "Amazon Business introduced dedicated branded freight trucks designed for consolidated palletized commercial loading dock deliveries.",
+                "The B2B fulfillment model eliminates single-box drop-offs, reducing receiving dock congestion for enterprise facilities.",
+                "Commercial buyers benefit from synchronized delivery windows and streamlined unloading operational efficiency.",
+                "Supply chain managers should configure facility docks to accommodate heavy palletized drop-off schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: WAREHOUSE VACANCY DROP",
+            "nextUpTease": "AEROSPACE LOGISTICS: LEAD TIME REDUCTION",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REAL ESTATE: WAREHOUSE VACANCY DROP",
+            "heading": "AEROSPACE LOGISTICS: LEAD TIME REDUCTION",
             "points": [
-                "Industrial real estate vacancy rates stabilized at 7.3% in Q2 as industrial tenant demand outpaced new warehouse completions.",
-                "Developers have scaled back speculative construction starts, tightening available modern distribution center space across major logistics hubs.",
-                "E-commerce fulfillment operators are competing for prime last-mile warehousing assets to maintain rapid delivery capability.",
-                "Corporate real estate managers should secure long-term industrial lease renewals early to prevent substantial rental rate increases."
+                "GE Aerospace slashed jet engine manufacturing lead times by 60% following systemic facility workflow consolidation.",
+                "Optimized plant layouts reduced component transport distances across high-precision aerospace assembly lines.",
+                "Accelerated engine deliveries bolster commercial airline capacity and defense supply chain readiness.",
+                "Industrial manufacturers should deploy spatial layout optimization to trim production cycle times."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO SECURITY: FRAUD PREVENTION PROTOCOLS",
+            "nextUpTease": "DRONE DELIVERY: FLORIDIAN URBAN EXPANSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CARGO SECURITY: FRAUD PREVENTION PROTOCOLS",
+            "heading": "DRONE DELIVERY: FLORIDIAN URBAN EXPANSION",
             "points": [
-                "Annual cargo theft losses surpassed $725M as organized crime rings increasingly deploy digital identity theft and fraudulent pickup tactics.",
-                "Retailers and freight forwarders are implementing AI-driven identity verification tools at distribution facility loading docks.",
-                "Logistics security protocols are shifting toward automated driver authentication and real-time electronic seal tracking systems.",
-                "Risk managers must mandate strict digital verification standards for non-asset transport providers to combat rising cargo theft."
+                "Walmart and Wing expanded commercial drone delivery across 5 retail fulfillment hubs in the Orlando area.",
+                "The automated aerial network delivers emergency items and lightweight goods directly to residential doorsteps within 30 minutes.",
+                "Last-mile fulfillment costs drop significantly as autonomous drones replace traditional van transport routes.",
+                "Urban logistics planners must integrate low-altitude airspace management into regional distribution strategies."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
