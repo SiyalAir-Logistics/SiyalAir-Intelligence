@@ -1,90 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF",
-        "titleBlue": "REVISIONS",
-        "footerSummary": "Section 301 permanence, $100B tariff refunds, court-backed detention fee rulings, and port infrastructure modernization reshape international freight."
+        "titleWhite": "GLOBAL FREIGHT SECTOR",
+        "titleBlue": "SURGES",
+        "footerSummary": "Section 301 tariff enforcement, rising diesel exports, port expansions, and cross-border tech investments redefine international supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS POLICY: SECTION 301 PERMANENCE",
+            "heading": "CUSTOMS POLICY: SECTION 301 TARIFF EXPANSION",
             "points": [
-                "Trade consultancies advise that Section 301 tariffs are now a permanent baseline for US import policy.",
-                "Importers face stricter customs enforcement and diminishing opportunities to reduce statutory penalty assessments.",
-                "Supply chain planners must integrate sustained tariff costs directly into long-term financial modeling.",
-                "Cross-border compliance teams should audit classification databases to avoid escalating regulatory exposure."
+                "The USTR officially moved forward with implementation of tariffs across 60 trading partners under Section 301.",
+                "Importers face heightened scrutiny and stricter customs enforcement as regulatory frameworks expand rapidly.",
+                "Supply chain operators must navigate complex compliance hurdles to avoid severe cargo delays at ports.",
+                "Cross-border businesses are auditing classification databases to mitigate ongoing regulatory exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN REGULATION: DETENTION FEE RULING",
+            "nextUpTease": "ENERGY TRANSIT: DIESEL EXPORT SURGE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OCEAN REGULATION: DETENTION FEE RULING",
+            "heading": "ENERGY TRANSIT: DIESEL EXPORT SURGE",
             "points": [
-                "The US Court of Appeals upheld the FMC decision mandating that detention fees must promote freight fluidity.",
-                "Ocean carriers are legally barred from penalizing shippers when terminal gates remain closed or blocked.",
-                "Importers gain robust legal footing to challenge and dispute unfair demurrage billing practices.",
-                "Logistics operators should review historical container invoices to recoup improper terminal charges."
+                "U.S. distillate fuel exports climbed to a record 1.9M barrels per day amid intense global demand.",
+                "The international scramble for refined products is progressively draining domestic reserve fuel inventories.",
+                "Fleet operators face sustained upward pressure on operating overhead and localized fuel surcharges.",
+                "Motor carriers must optimize route planning to insulate operating margins from volatile energy costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL ECONOMICS: TARIFF REFUND SURGE",
-            "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "GLOBAL ECONOMICS: TARIFF REFUND SURGE",
-            "points": [
-                "Cumulative refunds from challenged trade levies have surged past $100B across major commercial sectors.",
-                "This capital recovery represents 60% of the $165B initially collected under prior executive tariff actions.",
-                "Retailers and manufacturers are actively monetizing secondary refund rights to accelerate cash flow acquisition.",
-                "Financial controllers should evaluate specialized recovery markets to unlock trapped duty capital."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: CMA CGM JOINT VENTURE",
-            "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "PORT INFRASTRUCTURE: CMA CGM JOINT VENTURE",
-            "points": [
-                "CMA CGM launched an international container port modernization joint venture to upgrade terminal efficiency.",
-                "The initiative targets critical bottlenecks across major global maritime gateways and transshipment hubs.",
-                "Advanced yard equipment and digital operating systems will significantly accelerate vessel turnaround times.",
-                "Ocean carriers can anticipate improved schedule reliability and reduced berth congestion at key ports."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FREIGHT TRANSIT: DIESEL EXPORT SPIKE",
-            "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "FREIGHT TRANSIT: DIESEL EXPORT SPIKE",
-            "points": [
-                "US distillate fuel exports surged to a record 1.9M barrels per day amid intense global energy demand.",
-                "The international scramble for refined diesel is progressively draining domestic reserve fuel supplies.",
-                "Fleet operators face persistent upward pressure on operating overhead and localized fuel surcharges.",
-                "Motor carriers must optimize route planning and fuel purchasing strategies to insulate profit margins."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE LOGISTICS: PROLOGIS AI CONSULTING",
+            "nextUpTease": "PORT INFRASTRUCTURE: CMA CGM VENTURE",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -92,16 +41,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "INFRASTRUCTURE LOGISTICS: PROLOGIS AI CONSULTING",
+            "id": 3,
+            "heading": "PORT INFRASTRUCTURE: CMA CGM VENTURE",
             "points": [
-                "Prologis announced a comprehensive partnership to offer advanced AI and automation consulting for distribution centers.",
-                "Industrial real estate tenants can leverage specialized digital tools to optimize warehouse layout efficiency.",
-                "Automated material handling solutions help mitigate ongoing labor constraints within fulfillment centers.",
-                "Facility managers should integrate smart automation frameworks to enhance throughput velocity."
+                "CMA CGM launched an international container port modernization joint venture to elevate terminal efficiency.",
+                "The initiative targets critical bottlenecks across major maritime gateways and transshipment hubs.",
+                "Advanced yard equipment and digital operating systems will accelerate vessel turnaround schedules.",
+                "Ocean carriers can anticipate improved schedule reliability and reduced berth congestion at key ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR STANDARDS: FORCED LABOR TARIFFS",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
             "tags": [
                 "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
@@ -109,18 +58,69 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "LABOR STANDARDS: FORCED LABOR TARIFFS",
+            "id": 4,
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
             "points": [
-                "The USTR moved forward with targeted tariffs focused on forced labor compliance across 60 trading partners.",
-                "Global supply chains face intense scrutiny regarding tier-1 through tier-3 supplier transparency.",
-                "Compliance officers must deploy robust digital traceability platforms to verify raw material origin.",
-                "Importers failing to meet traceability mandates risk severe cargo seizures at ports of entry."
+                "Colliers reported second-quarter industrial vacancy rates falling 7 basis points sequentially to 7.3%.",
+                "Market demand continues to outpace new supply, signaling a balanced commercial real estate sector.",
+                "Logistics tenants are recalibrating facility networks to optimize regional distribution footprints.",
+                "Warehouse developers are prioritizing automated facility layouts to meet high enterprise standards."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ECOMMERCE LOGISTICS: AMAZON EXPANSION",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "ECOMMERCE LOGISTICS: AMAZON EXPANSION",
+            "points": [
+                "Amazon advanced supply chain operations by prepping new distribution facilities in Texas and New York.",
+                "North American sales grew 16% in Q2, underscoring robust consumer demand and fulfillment volume.",
+                "The e-commerce giant is expanding specialized delivery truck fleets to streamline dock operations.",
+                "Regional supply chain networks are scaling capacity to handle upcoming seasonal shopping surges."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME SECURITY: HORMUZ SHIPPING ACCORD",
+            "tags": [
+                "Source: https://www.retaildive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MARITIME SECURITY: HORMUZ SHIPPING ACCORD",
+            "points": [
+                "Iran announced a strategic agreement with Oman regarding shipping protocols through the Strait of Hormuz.",
+                "Oil prices dipped as market participants reacted to potential progress toward reopening regional waterways.",
+                "Global shipowners remain cautious, warning that new transit tolls could trigger widespread rate hikes.",
+                "Maritime carriers are monitoring geopolitical developments to secure uninterrupted vessel transits."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO: LUFTHANSA Q2 REVENUE",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "AIR CARGO: LUFTHANSA Q2 REVENUE",
+            "points": [
+                "Lufthansa Cargo posted a 27% jump in revenue driven by robust AI hardware demand across Asia.",
+                "Geopolitical volatility continues to shape air freight volumes on major transpacific trade lanes.",
+                "Airlines are capitalizing on expedited shipping needs to maximize yields amidst tight capacity.",
+                "Forwarders are adjusting cargo strategies to capture high-value technology transport opportunities."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

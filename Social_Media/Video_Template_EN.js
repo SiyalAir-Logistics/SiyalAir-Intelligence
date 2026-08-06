@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE TARIFF REVISIONS",
+        "hookTitle": "GLOBAL FREIGHT SECTOR SURGES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS POLICY: SECTION 301 PERMANENCE",
-                "teaserTitle": "OCEAN REGULATION: DETENTION FEE RULING",
+                "headline": "CUSTOMS POLICY: SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "ENERGY TRANSIT: DIESEL EXPORT SURGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Section 301 tariffs are now a permanent baseline for US import policy."
+                "narration_line": "USTR expands Section 301 tariffs across 60 trading partners, forcing strict compliance."
             },
             {
                 "slide_index": 2,
-                "headline": "OCEAN REGULATION: DETENTION FEE RULING",
-                "teaserTitle": "GLOBAL ECONOMICS: TARIFF REFUND SURGE",
+                "headline": "ENERGY TRANSIT: DIESEL EXPORT SURGE",
+                "teaserTitle": "PORT INFRASTRUCTURE: CMA CGM VENTURE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Appellate courts upheld FMC rules protecting carriers from unfair fees."
+                "narration_line": "U.S. distillate fuel exports hit 1.9M barrels per day, squeezing domestic reserves."
             },
             {
                 "slide_index": 3,
-                "headline": "GLOBAL ECONOMICS: TARIFF REFUND SURGE",
-                "teaserTitle": "PORT INFRASTRUCTURE: CMA CGM JOINT VENTURE",
+                "headline": "PORT INFRASTRUCTURE: CMA CGM VENTURE",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Cumulative trade tariff refunds have officially surpassed $100B."
+                "narration_line": "CMA CGM launches a global container port modernization joint venture."
             },
             {
                 "slide_index": 4,
-                "headline": "PORT INFRASTRUCTURE: CMA CGM JOINT VENTURE",
-                "teaserTitle": "FREIGHT TRANSIT: DIESEL EXPORT SPIKE",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+                "teaserTitle": "ECOMMERCE LOGISTICS: AMAZON EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "CMA CGM launched a global port modernization joint venture."
+                "narration_line": "Industrial vacancy drops to 7.3% as demand outpaces new supply."
             },
             {
                 "slide_index": 5,
-                "headline": "FREIGHT TRANSIT: DIESEL EXPORT SPIKE",
-                "teaserTitle": "INFRASTRUCTURE LOGISTICS: PROLOGIS AI CONSULTING",
+                "headline": "ECOMMERCE LOGISTICS: AMAZON EXPANSION",
+                "teaserTitle": "MARITIME SECURITY: HORMUZ SHIPPING ACCORD",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "US diesel exports hit 1.9M barrels daily amid tight supplies."
+                "narration_line": "Amazon scales North American fulfillment infrastructure following 16% sales growth."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE LOGISTICS: PROLOGIS AI CONSULTING",
-                "teaserTitle": "LABOR STANDARDS: FORCED LABOR TARIFFS",
+                "headline": "MARITIME SECURITY: HORMUZ SHIPPING ACCORD",
+                "teaserTitle": "AIR CARGO: LUFTHANSA Q2 REVENUE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Prologis introduced AI and automation consulting for DCs."
+                "narration_line": "Iran and Oman reach a shipping accord as oil prices react to Hormuz talks."
             },
             {
                 "slide_index": 7,
-                "headline": "LABOR STANDARDS: FORCED LABOR TARIFFS",
+                "headline": "AIR CARGO: LUFTHANSA Q2 REVENUE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "USTR implements strict forced labor tariffs across 60 partners."
+                "narration_line": "Lufthansa Cargo revenue jumps 27% on surging Asian AI hardware demand."
             },
             {
                 "slide_index": 8,
