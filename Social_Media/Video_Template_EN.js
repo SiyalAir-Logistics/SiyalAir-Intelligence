@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT SUPPLY SHIFTS",
+        "hookTitle": "GLOBAL LOGISTICS STRATEGY REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "INFRASTRUCTURE: MEXICO INTEROCEANIC CORRIDOR",
+                "headline": "PORT OPERATIONS: DP WORLD RESTRUCTURING",
+                "teaserTitle": "TRADE COMPLIANCE: TRAILER ANTIDUMPING DUTIES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR enacts Section 301 tariffs on 60 nations, tightening cross-border compliance and forcing immediate supply chain recalibrations."
+                "narration_line": "DP World axes 300 European roles to restructure terminal operations. Shippers must prepare for potential delays at London Gateway."
             },
             {
                 "slide_index": 2,
-                "headline": "INFRASTRUCTURE: MEXICO INTEROCEANIC CORRIDOR",
-                "teaserTitle": "CYBERSECURITY: CEVA WAREHOUSE BREACH",
+                "headline": "TRADE COMPLIANCE: TRAILER ANTIDUMPING DUTIES",
+                "teaserTitle": "REGULATION: FMC DETENTION RULING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Mexico invests $2.2B in the Interoceanic Corridor, expanding Pacific to Atlantic trade infrastructure for nearshoring regional cargo."
+                "narration_line": "US slaps antidumping duties on Canadian and Mexican trailer imports. Motor carriers face higher fleet equipment costs in 2026."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: CEVA WAREHOUSE BREACH",
-                "teaserTitle": "MARITIME: PANAMA CANAL RESTRICTIONS",
+                "headline": "REGULATION: FMC DETENTION RULING",
+                "teaserTitle": "LAST MILE: AMAZON B2B FLEET",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A cyberattack hits 8 Ceva Logistics European warehouses, disrupting e-commerce order fulfillment networks across key regional fulfillment centers."
+                "narration_line": "US appeals court upholds FMC rules on ocean detention fees. Carriers can no longer bill unfair demurrage during port congestion."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: PANAMA CANAL RESTRICTIONS",
-                "teaserTitle": "INLAND WATERWAYS: RHINE LOW WATER LEVELS",
+                "headline": "LAST MILE: AMAZON B2B FLEET",
+                "teaserTitle": "EQUIPMENT: DTNA MANUFACTURING EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Panama Canal draft limits restrict US East Coast vessel capacities, squeezing container space ahead of peak shipping season."
+                "narration_line": "Amazon Business launches dedicated trucks for dock pallet deliveries. The shift increases pressure on traditional LTL freight networks."
             },
             {
                 "slide_index": 5,
-                "headline": "INLAND WATERWAYS: RHINE LOW WATER LEVELS",
-                "teaserTitle": "POSTAL RATES: USPS MARKETPLACE INCREASES",
+                "headline": "EQUIPMENT: DTNA MANUFACTURING EXPANSION",
+                "teaserTitle": "E-COMMERCE: ETSY DEPOP RESTRUCTURING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Record low Rhine water levels restrict barge loads, pushing European industrial cargo onto congested rail and trucking networks."
+                "narration_line": "DTNA plans a massive US truck manufacturing facility opening in 2029. Fleet operators gain long-term commercial vehicle supply security."
             },
             {
                 "slide_index": 6,
-                "headline": "POSTAL RATES: USPS MARKETPLACE INCREASES",
-                "teaserTitle": "CARRIER OPERATIONS: SEALEAD LIQUIDATION SHUTDOWN",
+                "headline": "E-COMMERCE: ETSY DEPOP RESTRUCTURING",
+                "teaserTitle": "PORT DRAYAGE: IMPORT SURGE TIGHTENING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "USPS raises Ground Advantage rates by $2 to $3 for rural deliveries, increasing parcel expenses for e-commerce sellers."
+                "narration_line": "Etsy cuts 200 jobs after completing a $1.4B sale of Depop to eBay. Sellers must adjust to new cross-border marketplace structures."
             },
             {
                 "slide_index": 7,
-                "headline": "CARRIER OPERATIONS: SEALEAD LIQUIDATION SHUTDOWN",
-                "teaserTitle": "",
+                "headline": "PORT DRAYAGE: IMPORT SURGE TIGHTENING",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "SeaLead Shipping liquidates under US sanctions, driving competitors to seize vessel assets and re-route impacted ocean freight."
+                "narration_line": "US port drayage capacity tightens as summer import volumes hit 2022 highs. Importers face rising chassis turn times at major harbors."
             },
             {
                 "slide_index": 8,

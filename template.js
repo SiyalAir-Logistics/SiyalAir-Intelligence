@@ -1,90 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT SUPPLY",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Surging USTR Section 301 tariff enforcement, European logistics cyber disruptions, and critical waterway draft restrictions trigger severe operational bottlenecks across global freight networks."
+        "titleWhite": "GLOBAL LOGISTICS STRATEGY",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "Federal court rulings, new trade duties, and carrier restructurings force immediate recalibration across global supply chain networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFFS",
+            "heading": "PORT OPERATIONS: DP WORLD RESTRUCTURING",
             "points": [
-                "The Office of the United States Trade Representative is implementing new tariffs on 60 trading nations under Section 301 following the expiration of Section 122 duties.",
-                "This sweeping regulatory shift targets forced-labor compliance risks and reshapes trade economics across major global manufacturing hubs.",
-                "Importers and global supply chain managers face immediate cost recalibrations and heightened customs enforcement audits at major ports of entry.",
-                "Trade compliance teams must urgently review sourcing origins to mitigate tariff liabilities and prevent cargo holds during customs clearance."
+                "DP World initiates a major European operational restructuring including 300 job cuts across key marine gateways like London Gateway and Southampton.",
+                "The administrative reorganization responds to shifting transatlantic volume patterns and rising terminal operating overhead in Northern Europe.",
+                "Supply chain managers should prepare for potential administrative delays during the transitional staffing period at major UK ports.",
+                "Maritime logistics operators must audit booking workflows to maintain fluid container throughput across European trade hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: MEXICO INTEROCEANIC CORRIDOR",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "INFRASTRUCTURE: MEXICO INTEROCEANIC CORRIDOR",
-            "points": [
-                "Mexico has announced a $2.2B infrastructure commitment focused on accelerating the Interoceanic Corridor of the Isthmus of Tehuantepec.",
-                "The strategic project aims to establish a high-capacity land bridge alternative to traditional ocean transit routes between the Pacific and Atlantic.",
-                "Logistics operators are strategically positioning nearshoring assets along the corridor to streamline cross-border trade flows into North America.",
-                "Supply chain planners should evaluate Tehuantepec routing options to diversify transit paths and reduce reliance on congested maritime canals."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: CEVA WAREHOUSE BREACH",
-            "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "CYBERSECURITY: CEVA WAREHOUSE BREACH",
-            "points": [
-                "A severe cybersecurity breach targeted Ceva Logistics, disrupting operations across 8 major European fulfillment facilities.",
-                "The incident compromised warehouse management software, halting automated order processing and delaying e-commerce deliveries for major brand clients.",
-                "IT response teams are deploying emergency patches and manual workarounds to contain systems exposure and restore operational network continuity.",
-                "Enterprise logistics directors must strengthen supply chain cyber resilience protocols and mandate third-party software vulnerability audits."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME: PANAMA CANAL RESTRICTIONS",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MARITIME: PANAMA CANAL RESTRICTIONS",
-            "points": [
-                "Late-summer draft restrictions on the Panama Canal are limiting maximum vessel loading capacities for ships bound for US East and Gulf Coast ports.",
-                "Container lines are forced to reduce cargo tonnage per vessel, driving up slot costs and threatening peak shipping season throughput.",
-                "Maritime carriers are implementing weight surcharges and adjusting deployment schedules to offset capacity constraints across transpacific routes.",
-                "Importers must adjust lead-time estimates and optimize vessel allocation strategies to avoid unexpected peak-season shipping bottlenecks."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: RHINE LOW WATER LEVELS",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "INLAND WATERWAYS: RHINE LOW WATER LEVELS",
-            "points": [
-                "Record-low water levels on the Rhine River are severely restricting inland barge capacity and delaying critical raw material shipments across Europe.",
-                "Barge operators are enforcing strict load reductions to prevent grounding, driving inland freight rates significantly higher across key industrial hubs.",
-                "European manufacturers are forced to shift cargo to rail and road networks, triggering localized transport congestion and equipment shortages.",
-                "Logistics planners operating in Europe should secure alternative intermodal freight capacity to mitigate rising inland transportation overhead."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "POSTAL RATES: USPS MARKETPLACE INCREASES",
+            "nextUpTease": "TRADE COMPLIANCE: TRAILER ANTIDUMPING DUTIES",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -92,16 +24,84 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "POSTAL RATES: USPS MARKETPLACE INCREASES",
+            "id": 2,
+            "heading": "TRADE COMPLIANCE: TRAILER ANTIDUMPING DUTIES",
             "points": [
-                "The United States Postal Service has implemented targeted rate hikes on Ground Advantage services, directly affecting e-commerce marketplace sellers.",
-                "Shipping costs for lightweight rural deliveries are rising by $2 to $3 per package, compressing margins for online retail businesses.",
-                "E-commerce platforms are urging sellers to recalibrate fulfillment pricing models and explore regional parcel carrier networks.",
-                "Retail logistics managers must re-evaluate final-mile carrier contracts to absorb rising postal surcharges and maintain competitive shipping rates."
+                "US authorities slap new antidumping duties on dry and refrigerated van trailer imports originating from Canada and Mexico.",
+                "The regulatory enforcement action increases landed equipment costs for cross-border motor carriers expanding fleet capacity in North America.",
+                "Fleet directors are re-evaluating capital expenditure allocation for 2026-2027 equipment procurement to mitigate tariff penalties.",
+                "Shippers face potential secondary freight rate pressure as trucking carriers absorb higher equipment acquisition expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER OPERATIONS: SEALEAD LIQUIDATION SHUTDOWN",
+            "nextUpTease": "REGULATION: FMC DETENTION RULING",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "REGULATION: FMC DETENTION RULING",
+            "points": [
+                "US Court of Appeals upholds the FMC decision mandating that ocean carrier detention and demurrage fees must promote freight fluidity.",
+                "The ruling solidifies legal precedents protecting shippers and drayage operators from improper demurrage billing during terminal congestion.",
+                "Ocean common carriers must now adjust internal billing algorithms and dispute resolution protocols to ensure compliance with OSRA guidelines.",
+                "BCOs and freight forwarders gain stronger legal leverage to dispute unfair port penalty charges across US maritime hubs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LAST MILE: AMAZON B2B FLEET",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "LAST MILE: AMAZON B2B FLEET",
+            "points": [
+                "Amazon Business rolls out dedicated branded delivery trucks engineered specifically for consolidated drop-offs and palletized dock deliveries.",
+                "The operational expansion targets middle-mile and business procurement channels to directly challenge traditional LTL parcel carriers.",
+                "Enterprise buyers receive streamlined dock operations, reduced receiving friction, and scheduled bulk replenishment windows.",
+                "Competitor parcel and LTL networks must enhance commercial freight visibility and dock scheduling to preserve commercial market share."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "EQUIPMENT: DTNA MANUFACTURING EXPANSION",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "EQUIPMENT: DTNA MANUFACTURING EXPANSION",
+            "points": [
+                "Daimler Truck North America announces plans to open its largest US commercial truck manufacturing plant by 2029.",
+                "The long-term industrial investment addresses structural heavy-duty fleet demand and evolving zero-emission vehicle manufacturing requirements.",
+                "Commercial fleet operators gain expanded domestic vehicle production allocation to support long-haul transport capacity expansion.",
+                "Supply chain strategists project improved heavy vehicle availability and reduced equipment lead times across North American highway corridors."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "E-COMMERCE: ETSY DEPOP RESTRUCTURING",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "E-COMMERCE: ETSY DEPOP RESTRUCTURING",
+            "points": [
+                "Etsy slashes 200 jobs following a $1.4B cash sale of fashion marketplace Depop to competitor eBay.",
+                "The corporate restructuring consolidates core marketplace operations while eBay integrates Depop to capture cross-border fashion traffic.",
+                "Online sellers navigate shifting platform synergies, fulfillment workflows, and fee structures across both e-commerce ecosystems.",
+                "Multi-channel retail managers must recalibrate marketplace integration strategies to maintain omnichannel order fulfillment efficiency."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PORT DRAYAGE: IMPORT SURGE TIGHTENING",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "CARRIER OPERATIONS: SEALEAD LIQUIDATION SHUTDOWN",
+            "heading": "PORT DRAYAGE: IMPORT SURGE TIGHTENING",
             "points": [
-                "Container carrier SeaLead Shipping has ceased operations and entered liquidation following recent US sanctions enforcement action.",
-                "Competitor ocean lines are rapidly acquiring SeaLead's vessel charters and container assets to absorb displaced cargo capacity across trade lanes.",
-                "Cargo owners with active bookings face immediate container re-routing requirements and potential transshipment delay risks.",
-                "Freight forwarders must quickly reassign affected ocean shipments to alternative ocean carriers to prevent costly port drayage disruptions."
+                "Port drayage capacity tightens significantly across major US gateways as summer import volumes reach peak levels not seen since 2022.",
+                "Surging ocean container arrivals create localized harbor congestion and increase chassis turn times at key West Coast and Gulf terminals.",
+                "Intermodal logistics managers are deploying buffer stock and pre-pull strategies to prevent costly container dwell time surcharges.",
+                "Importers must optimize harbor trucking allocations and adjust inland rail transit schedules to bypass port bottlenecking."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
