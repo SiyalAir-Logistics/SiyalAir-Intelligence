@@ -1,56 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF",
-        "titleBlue": "SURGE",
-        "footerSummary": "New U.S. steel and aluminum duties, Panama Canal draft restrictions, and cross-border trucking tariffs escalate cost pressures across international supply chains."
+        "titleWhite": "GLOBAL FREIGHT RATE",
+        "titleBlue": "SPIKE",
+        "footerSummary": "Escalating Middle East transshipment bottlenecks, stringent cross-border trailer duties, and surging air cargo demand drive immediate margin pressures across global supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "COMMERCE: METAL TARIFF PROPOSALS",
+            "heading": "RED SEA: NICHE SERVICE EXPANSION",
             "points": [
-                "The U.S. Department of Commerce has officially proposed sweeping new tariffs covering an expanded range of imported steel, aluminum, and copper products.",
-                "This regulatory expansion targets industrial raw materials to protect domestic manufacturing capacity against fluctuating global supply surpluses.",
-                "Procurement teams across automotive and electronics sectors face immediate margin adjustments and required supplier diversification reviews.",
-                "Importers must rapidly calculate the landed cost impacts of these prospective duties before final implementation schedules take effect."
+                "Rising transshipment volumes across Middle Eastern gateways are prompting secondary container lines to deploy specialized Red Sea shuttle loops.",
+                "This regional adaptation bypasses primary maritime chokepoints while maintaining critical connectivity for westbound Asian cargo.",
+                "Ocean carriers leveraging these alternative pathways are successfully mitigating traditional trunk-line congestion and schedule delays.",
+                "Logistics planners should integrate these niche maritime routes to protect tight transit windows during peak shipping intervals."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: DRAFT LIMITS",
+            "nextUpTease": "EQUIPMENT: VAN TRAILER DUTIES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PANAMA CANAL: DRAFT LIMITS",
+            "heading": "EQUIPMENT: VAN TRAILER DUTIES",
             "points": [
-                "Upcoming late-summer draft restrictions on the Panama Canal will prevent mega-containerships from fully loading ahead of the peak shipping season.",
-                "Ocean carriers operating on transpacific and U.S. East Coast lanes must manage reduced container payloads or reroute via alternative corridors.",
-                "The draft reductions threaten to compound transit delays and absorb available ocean capacity just as retail replenishment volumes accelerate.",
-                "Supply chain planners should secure early allocations and evaluate intermodal rail alternatives to bypass potential maritime bottlenecks."
+                "U.S. trade regulators have formally implemented new antidumping duties on dry and refrigerated van trailer imports originating from Canada and Mexico.",
+                "The enforcement directly increases equipment acquisition expenses for motor carriers managing cross-border fleet replenishment programs.",
+                "Fleet operators must rapidly recalibrate capital expenditure allocations to absorb higher trailer chassis procurement costs.",
+                "Equipment leasing strategies will require immediate adjustment to maintain adequate over-the-road transport capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: TRAILER DUMP DUTIES",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "EQUIPMENT: TRAILER DUMP DUTIES",
-            "points": [
-                "U.S. trade authorities have imposed new antidumping duties on dry and refrigerated van trailer imports arriving from Canada and Mexico.",
-                "The regulatory enforcement aims to level the playing field for domestic equipment manufacturers facing lower-priced cross-border competition.",
-                "Motor carriers and private fleet operators purchasing cross-border trailing stock should expect higher acquisition costs and tighter supply.",
-                "Fleet executives must adjust capital expenditure forecasts and explore localized procurement channels to mitigate equipment inflation."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LEGAL: FORCED-LABOR TARIFF LAWSUIT",
+            "nextUpTease": "AIR CARGO: DATA CENTER SURGE",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -58,13 +41,30 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "LEGAL: FORCED-LABOR TARIFF LAWSUIT",
+            "id": 3,
+            "heading": "AIR CARGO: DATA CENTER SURGE",
             "points": [
-                "A coalition of 25 state attorneys general has filed a joint lawsuit challenging the administration's Section 301 forced-labor-based import tariffs.",
-                "The legal challenge contends that the executive trade measures circumvent prior judicial rulings regarding federal tariff authority limitations.",
-                "Importers caught in the legal crossfire face ongoing uncertainty regarding duty refunds, collection mechanisms, and compliance obligations.",
-                "Corporate legal teams must monitor court proceedings closely to adjust customs valuation and duty recovery strategies dynamically."
+                "Unprecedented global demand for advanced AI data center hardware is sustaining high-yield air cargo volumes across major trade corridors.",
+                "Expedited air transport networks face severe capacity constraints as specialized tech infrastructure shipments absorb available charter space.",
+                "Supply chain executives managing high-tech components must secure advance block-space agreements to avoid costly spot-rate spikes.",
+                "Aviation logistics providers are prioritizing long-term digital infrastructure contracts over traditional retail freight allocations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LEGAL: FORCED-LABOR LAWSUIT",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "LEGAL: FORCED-LABOR LAWSUIT",
+            "points": [
+                "A multi-state coalition of twenty-five attorneys general has initiated formal legal action challenging federal Section 301 forced-labor import tariffs.",
+                "The litigation asserts that executive trade enforcement measures exceed statutory authority established under previous judicial precedents.",
+                "Importers navigating complex customs audits face ongoing uncertainty regarding duty assessments and potential retroactive refunds.",
+                "Corporate legal advisors must closely track proceedings to dynamically modify customs valuation and compliance protocols."
             ],
             "imageUrl": "",
             "nextUpTease": "RETAIL: TARIFF REFUND MARKETS",
@@ -78,13 +78,13 @@ const dailyData = {
             "id": 5,
             "heading": "RETAIL: TARIFF REFUND MARKETS",
             "points": [
-                "Major retail brands are actively monetizing potential government tariff refunds by selling their claims on a newly emerged secondary financial market.",
-                "Cash-strapped importers are trading future administrative payout rights to secure immediate liquidity amid persistent cost pressures.",
-                "Financial intermediaries are structuring complex debt and equity swaps to help retailers capture present value from retroactively disputed duties.",
-                "Supply chain finance executives should evaluate secondary market transactions to optimize working capital during volatile trade cycles."
+                "Major retail enterprises are increasingly monetizing pending government tariff refunds by trading prospective claim rights on secondary financial markets.",
+                "Cash-constrained importers are leveraging administrative payout receivables to secure immediate working capital liquidity amid rising operational overhead.",
+                "Financial institutions are structuring innovative debt products to help retail brands extract present value from disputed customs duties.",
+                "Supply chain finance teams should evaluate secondary market transactions to optimize balance sheet flexibility during volatile trade cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: HORMUZ DRAFT ACCORD",
+            "nextUpTease": "MARITIME: HORMUZ DIPLOMATIC PUSH",
             "tags": [
                 "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
@@ -93,15 +93,15 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "ENERGY: HORMUZ DRAFT ACCORD",
+            "heading": "MARITIME: HORMUZ DIPLOMATIC PUSH",
             "points": [
-                "Diplomatic negotiations between Iran and regional intermediaries are advancing toward a provisional agreement regarding commercial transit in the Strait of Hormuz.",
-                "The potential accord seeks to stabilize global crude oil flows and avert prolonged maritime route closures in the vital shipping chokepoint.",
-                "Energy markets reacted with cautious optimism as shipping lines weighed the security implications for Middle Eastern tanker operations.",
-                "Logistics operators must maintain robust risk mitigation frameworks until permanent navigational safety guarantees are fully established."
+                "Advanced diplomatic talks between regional intermediaries and Iranian officials indicate progress toward a provisional commercial shipping accord.",
+                "The potential agreement aims to stabilize crude oil transit flows and prevent prolonged navigational shutdowns in the strategic strait.",
+                "Global energy markets have registered cautious optimism as maritime operators reassess risk profiles for Middle Eastern tanker fleets.",
+                "Supply chain risk managers must maintain comprehensive contingency routing until permanent security guarantees are officially enacted."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: RAIL NETWORK EXPANSION",
+            "nextUpTease": "INFRASTRUCTURE: RAIL INTERMODAL EXPANSION",
             "tags": [
                 "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
@@ -110,12 +110,12 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: RAIL NETWORK EXPANSION",
+            "heading": "INFRASTRUCTURE: RAIL INTERMODAL EXPANSION",
             "points": [
-                "The Port of Virginia has officially integrated a new direct CSX rail service linking maritime terminals directly to Indianapolis distribution hubs.",
-                "The infrastructure enhancement is designed to accelerate intermodal container velocity and relieve drayage congestion across eastern freight corridors.",
-                "Shippers gain enhanced access to midwestern consumer markets with shortened transit times and improved schedule reliability.",
-                "Supply chain managers should incorporate the new intermodal connection into inbound distribution planning to optimize landed logistics costs."
+                "The Port of Virginia has successfully integrated a direct CSX intermodal rail connection linking maritime terminals directly to Indianapolis hubs.",
+                "The infrastructure enhancement is engineered to accelerate container velocity and alleviate port drayage congestion across eastern corridors.",
+                "Shippers gain enhanced access to midwestern consumer markets supported by shortened transit times and superior schedule reliability.",
+                "Logistics managers should incorporate this new rail link into inbound distribution network designs to minimize total landed costs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",

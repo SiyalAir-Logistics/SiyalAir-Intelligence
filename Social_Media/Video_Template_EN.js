@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE TARIFF SURGE",
+        "hookTitle": "GLOBAL FREIGHT RATE SPIKE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "COMMERCE: METAL TARIFF PROPOSALS",
-                "teaserTitle": "PANAMA CANAL: DRAFT LIMITS",
+                "headline": "RED SEA: NICHE SERVICE EXPANSION",
+                "teaserTitle": "EQUIPMENT: VAN TRAILER DUTIES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Commerce proposes expansive metal tariffs, driving immediate cost adjustments across manufacturing supply chains."
+                "narration_line": "Rising transshipment volumes in the Middle East drive secondary container lines to expand niche Red Sea shipping routes."
             },
             {
                 "slide_index": 2,
-                "headline": "PANAMA CANAL: DRAFT LIMITS",
-                "teaserTitle": "EQUIPMENT: TRAILER DUMP DUTIES",
+                "headline": "EQUIPMENT: VAN TRAILER DUTIES",
+                "teaserTitle": "AIR CARGO: DATA CENTER SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Panama Canal draft limits threaten heavy containership payloads just as peak shipping season begins."
+                "narration_line": "U.S. trade authorities implement new antidumping duties on commercial van trailer imports from Canada and Mexico."
             },
             {
                 "slide_index": 3,
-                "headline": "EQUIPMENT: TRAILER DUMP DUTIES",
-                "teaserTitle": "LEGAL: FORCED-LABOR TARIFF LAWSUIT",
+                "headline": "AIR CARGO: DATA CENTER SURGE",
+                "teaserTitle": "LEGAL: FORCED-LABOR LAWSUIT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "New antidumping duties on North American van trailers increase equipment acquisition costs for fleets."
+                "narration_line": "Surging global demand for AI data center infrastructure keeps high-yield air cargo markets operating at peak capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "LEGAL: FORCED-LABOR TARIFF LAWSUIT",
+                "headline": "LEGAL: FORCED-LABOR LAWSUIT",
                 "teaserTitle": "RETAIL: TARIFF REFUND MARKETS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Twenty-five states sue over forced-labor tariffs, injecting fresh uncertainty into customs compliance."
+                "narration_line": "A 25-state coalition files a formal lawsuit challenging federal Section 301 forced-labor import tariff regulations."
             },
             {
                 "slide_index": 5,
                 "headline": "RETAIL: TARIFF REFUND MARKETS",
-                "teaserTitle": "ENERGY: HORMUZ DRAFT ACCORD",
+                "teaserTitle": "MARITIME: HORMUZ DIPLOMATIC PUSH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Cash-strapped retailers monetize government tariff refund claims on active secondary financial markets."
+                "narration_line": "Major retail brands monetize pending government tariff refunds by trading claim rights on secondary financial markets."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: HORMUZ DRAFT ACCORD",
-                "teaserTitle": "INFRASTRUCTURE: RAIL NETWORK EXPANSION",
+                "headline": "MARITIME: HORMUZ DIPLOMATIC PUSH",
+                "teaserTitle": "INFRASTRUCTURE: RAIL INTERMODAL EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Strait of Hormuz transit negotiations advance, offering potential stability for global energy shipping."
+                "narration_line": "Diplomatic negotiations advance toward a provisional transit accord to stabilize commercial shipping in the Strait of Hormuz."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: RAIL NETWORK EXPANSION",
+                "headline": "INFRASTRUCTURE: RAIL INTERMODAL EXPANSION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Port of Virginia launches direct CSX rail service to Indianapolis to accelerate intermodal velocity."
+                "narration_line": "The Port of Virginia launches a direct CSX intermodal rail service to accelerate container velocity to Indianapolis."
             },
             {
                 "slide_index": 8,
