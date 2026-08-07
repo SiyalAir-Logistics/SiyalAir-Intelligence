@@ -395,7 +395,7 @@ async function buildShortFromTemplate(templatePath) {
 
     const closingSlideData = {
         imagePath: path.join(__dirname, 'yt_backgrounds', 'closingbackgroundyt.png'),
-        narration: "Subscribe and follow for hourly decoded global trade signals. Link in bio.",
+        narration: "Struggling with shipping delays and soaring costs? Upgrade your supply chain with Siyaal air logistics. Tap the link in bio for instant premium rates.",
         formattedText: ""
     };
 
@@ -504,7 +504,8 @@ async function buildShortFromTemplate(templatePath) {
         const exactDuration = parseFloat(execSync(probeCmd).toString().trim());
 
         slideAudioFiles.push(closingAudioPath);
-        const closingDuration = Math.max(exactDuration + 1.2, 3.8);
+        // FIX: Increased padding and minimum floor to ensure trailing closing words ("instant premium rates") are never clipped or compressed out.
+        const closingDuration = Math.max(exactDuration + 2.5, 12.5);
         slideDurations.push(closingDuration);
 
         allSlides.push({
@@ -661,7 +662,9 @@ async function buildShortFromTemplate(templatePath) {
     let concatAudioString = '';
     allSlides.forEach((slide, i) => {
         const audioInputIndex = (i * 2) + 1;
-        filterComplex += `[${audioInputIndex}:a]aresample=44100,apad=pad_dur=1.5,atrim=0:${slide.duration.toFixed(3)}[a_${i}];\n`;
+        // FIX: Applied a dedicated longer padding (3.0s) for the closing slide to protect the trailing decay against compressor/limiter gating.
+        const padDur = slide.isClosing ? 3.0 : 1.5;
+        filterComplex += `[${audioInputIndex}:a]aresample=44100,apad=pad_dur=${padDur},atrim=0:${slide.duration.toFixed(3)}[a_${i}];\n`;
         concatAudioString += `[a_${i}]`;
     });
     
@@ -673,7 +676,7 @@ async function buildShortFromTemplate(templatePath) {
         const bgMusicIndex = hasCustomBanner ? (allSlides.length * 2) + 1 : (allSlides.length * 2);
         const totalDuration = allSlides.reduce((acc, s) => acc + s.duration, 0);
         
-        filterComplex += `[${bgMusicIndex}:a]volume=0.25,atrim=duration=${totalDuration.toFixed(3)}[bg_trimmed];\n`;
+        filterComplex += `[${bgMusicIndex}:a]volume=0.0,atrim=duration=${totalDuration.toFixed(3)}[bg_trimmed];\n`;
         filterComplex += `[voice_master]asplit=2[v_for_mix][v_for_sc];\n`;
         filterComplex += `[bg_trimmed][v_for_sc]sidechaincompress=threshold=0.04:ratio=4:1:attack=10:release=200[bg_ducked];\n`;
         filterComplex += `[v_for_mix][bg_ducked]amix=inputs=2:duration=first:dropout_transition=1.0[outa]`;
