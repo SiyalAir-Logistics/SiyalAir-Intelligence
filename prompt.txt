@@ -298,7 +298,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
           "headline": "LIVE INTELLIGENCE",
           "teaserTitle": "",
           "visual_asset": "backgroundyt8.png",
-          "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at MOMENTUM POINT."
+          "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
         }
       ]
     }
