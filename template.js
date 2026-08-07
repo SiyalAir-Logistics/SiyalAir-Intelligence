@@ -1,73 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS STRATEGY",
-        "titleBlue": "REALIGNMENT",
-        "footerSummary": "Federal court rulings, new trade duties, and carrier restructurings force immediate recalibration across global supply chain networks."
+        "titleWhite": "GLOBAL SUPPLY CHAIN",
+        "titleBlue": "DISRUPTIONS",
+        "footerSummary": "New USTR Section 301 tariffs, IEEPA refund liquidations, and Rhine river low-water barriers drive major operational shifts across global logistics networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORT OPERATIONS: DP WORLD RESTRUCTURING",
+            "heading": "TRADE POLICY: USTR SECTION 301",
             "points": [
-                "DP World initiates a major European operational restructuring including 300 job cuts across key marine gateways like London Gateway and Southampton.",
-                "The administrative reorganization responds to shifting transatlantic volume patterns and rising terminal operating overhead in Northern Europe.",
-                "Supply chain managers should prepare for potential administrative delays during the transitional staffing period at major UK ports.",
-                "Maritime logistics operators must audit booking workflows to maintain fluid container throughput across European trade hubs."
+                "The USTR is moving forward with Section 301 tariffs targeting 60 trading partners as Section 122 duties expire.",
+                "Enforcement shifts target forced labor compliance across dynamic cross-border trade lanes impacting key sourcing regions.",
+                "Importers face revised duty schedules and heightened documentation requirements across international supply networks.",
+                "Supply chain managers must adjust compliance protocols to prevent customs delays and unexpected tariff liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE COMPLIANCE: TRAILER ANTIDUMPING DUTIES",
+            "nextUpTease": "CUSTOMS: IEEPA TARIFF REFUNDS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE COMPLIANCE: TRAILER ANTIDUMPING DUTIES",
+            "heading": "CUSTOMS: IEEPA TARIFF REFUNDS",
             "points": [
-                "US authorities slap new antidumping duties on dry and refrigerated van trailer imports originating from Canada and Mexico.",
-                "The regulatory enforcement action increases landed equipment costs for cross-border motor carriers expanding fleet capacity in North America.",
-                "Fleet directors are re-evaluating capital expenditure allocation for 2026-2027 equipment procurement to mitigate tariff penalties.",
-                "Shippers face potential secondary freight rate pressure as trucking carriers absorb higher equipment acquisition expenses."
+                "CBP reaches $100B in IEEPA tariff refunds while legal appeals stall final liquidated entry processing.",
+                "A secondary financial market has emerged with retailers monetizing tariff refund rights to secure rapid liquidity.",
+                "Major enterprise brands are leveraging secondary payout structures to offset ongoing global trade volatility.",
+                "Financial officers should evaluate capital monetization tactics while awaiting official customs payout liquidations."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: FMC DETENTION RULING",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "REGULATION: FMC DETENTION RULING",
-            "points": [
-                "US Court of Appeals upholds the FMC decision mandating that ocean carrier detention and demurrage fees must promote freight fluidity.",
-                "The ruling solidifies legal precedents protecting shippers and drayage operators from improper demurrage billing during terminal congestion.",
-                "Ocean common carriers must now adjust internal billing algorithms and dispute resolution protocols to ensure compliance with OSRA guidelines.",
-                "BCOs and freight forwarders gain stronger legal leverage to dispute unfair port penalty charges across US maritime hubs."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LAST MILE: AMAZON B2B FLEET",
-            "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "LAST MILE: AMAZON B2B FLEET",
-            "points": [
-                "Amazon Business rolls out dedicated branded delivery trucks engineered specifically for consolidated drop-offs and palletized dock deliveries.",
-                "The operational expansion targets middle-mile and business procurement channels to directly challenge traditional LTL parcel carriers.",
-                "Enterprise buyers receive streamlined dock operations, reduced receiving friction, and scheduled bulk replenishment windows.",
-                "Competitor parcel and LTL networks must enhance commercial freight visibility and dock scheduling to preserve commercial market share."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: DTNA MANUFACTURING EXPANSION",
+            "nextUpTease": "MARITIME: STRAIT OF HORMUZ ACCORD",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -75,52 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "EQUIPMENT: DTNA MANUFACTURING EXPANSION",
+            "id": 3,
+            "heading": "MARITIME: STRAIT OF HORMUZ ACCORD",
             "points": [
-                "Daimler Truck North America announces plans to open its largest US commercial truck manufacturing plant by 2029.",
-                "The long-term industrial investment addresses structural heavy-duty fleet demand and evolving zero-emission vehicle manufacturing requirements.",
-                "Commercial fleet operators gain expanded domestic vehicle production allocation to support long-haul transport capacity expansion.",
-                "Supply chain strategists project improved heavy vehicle availability and reduced equipment lead times across North American highway corridors."
+                "Iran and Oman reach tentative maritime agreements to regulate commercial transit safety through the Strait of Hormuz.",
+                "The diplomatic framework aims to stabilize global crude shipments following persistent geopolitical transit threats.",
+                "Ocean carriers monitor regional risk premiums while evaluating vessel routing adjustments along key energy corridors.",
+                "Logistics planners must maintain contingency routing strategies to absorb potential maritime freight surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: ETSY DEPOP RESTRUCTURING",
+            "nextUpTease": "AIR LOGISTICS: WALMART DRONE FLIGHTS",
             "tags": [
                 "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "AIR LOGISTICS: WALMART DRONE FLIGHTS",
+            "points": [
+                "Walmart and Wing launch expanded commercial drone delivery coverage across 5 store locations in Orlando Florida.",
+                "The autonomous aerial platform targets rapid 30-minute last-mile delivery windows for suburban retail consumers.",
+                "Expanded autonomous flight networks streamline micro-fulfillment operations while reducing local road transport reliance.",
+                "Retail logistics directors continue expanding aerial fulfillment technology to gain last-mile competitive advantages."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "INLAND WATERWAYS: RHINE RIVER LEVELS",
+            "tags": [
+                "Source: https://www.retaildive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "INLAND WATERWAYS: RHINE RIVER LEVELS",
+            "points": [
+                "Record low water levels on the Rhine River restrict barge capacity into Germany's primary industrial heartland.",
+                "Shallow draft limitations force barge operators to cut cargo loads to 25% of standard container payload capacity.",
+                "Industrial manufacturers shift freight to overburdened rail and road transport options to avoid plant shutdowns.",
+                "European forwarders must secure alternative hinterland routing to prevent severe manufacturing supply bottlenecks."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "INFRASTRUCTURE: MEXICO INTEROCEANIC CORRIDOR",
+            "tags": [
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "E-COMMERCE: ETSY DEPOP RESTRUCTURING",
+            "heading": "INFRASTRUCTURE: MEXICO INTEROCEANIC CORRIDOR",
             "points": [
-                "Etsy slashes 200 jobs following a $1.4B cash sale of fashion marketplace Depop to competitor eBay.",
-                "The corporate restructuring consolidates core marketplace operations while eBay integrates Depop to capture cross-border fashion traffic.",
-                "Online sellers navigate shifting platform synergies, fulfillment workflows, and fee structures across both e-commerce ecosystems.",
-                "Multi-channel retail managers must recalibrate marketplace integration strategies to maintain omnichannel order fulfillment efficiency."
+                "Mexico announces a $2.2B infrastructure expansion across Oaxaca to build out the Interoceanic Corridor project.",
+                "The rail and port megaproject connects the Pacific and Atlantic oceans as a key alternative to the Panama Canal.",
+                "Nearshoring manufacturers gain enhanced intermodal capacity to transport cross-border goods into North America.",
+                "Trade strategists expect the corridor to reduce transit times and lower nearshoring freight distribution costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT DRAYAGE: IMPORT SURGE TIGHTENING",
+            "nextUpTease": "MATERIAL HANDLING: TOYOTA PLANT EXPANSION",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORT DRAYAGE: IMPORT SURGE TIGHTENING",
+            "heading": "MATERIAL HANDLING: TOYOTA PLANT EXPANSION",
             "points": [
-                "Port drayage capacity tightens significantly across major US gateways as summer import volumes reach peak levels not seen since 2022.",
-                "Surging ocean container arrivals create localized harbor congestion and increase chassis turn times at key West Coast and Gulf terminals.",
-                "Intermodal logistics managers are deploying buffer stock and pre-pull strategies to prevent costly container dwell time surcharges.",
-                "Importers must optimize harbor trucking allocations and adjust inland rail transit schedules to bypass port bottlenecking."
+                "Toyota Material Handling opens a new $100M manufacturing facility in Indiana to expand industrial forklift output.",
+                "The production hub addresses growing warehouse automation demands and heavy material handling equipment shortages.",
+                "Supply chain operators gain faster access to high-capacity electric forklifts and automated guided vehicle systems.",
+                "Distribution center executives can accelerate facility modernization plans with expanded domestic equipment allocation."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
