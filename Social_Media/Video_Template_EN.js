@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK TURBULENCE",
+        "hookTitle": "GLOBAL FREIGHT ARCHITECTURE SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: USTR SECTION 301 TARIFFS",
-                "teaserTitle": "TRUCKING: DATA CENTER FREIGHT DEMAND",
+                "headline": "TARIFFS: POLYSILICON IMPORT DUTIES",
+                "teaserTitle": "SECURITY: CARGO LOSSES HIT $304M",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR implements Section 301 tariffs on 60 nations for forced labor. Importers face higher duty fees."
+                "narration_line": "A 15% tariff on polysilicon takes effect Dec 4. Tech supply chains face immediate component cost surges."
             },
             {
                 "slide_index": 2,
-                "headline": "TRUCKING: DATA CENTER FREIGHT DEMAND",
-                "teaserTitle": "COMPLIANCE: BROKER LIABILITY PRECEDENT",
+                "headline": "SECURITY: CARGO LOSSES HIT $304M",
+                "teaserTitle": "RAIL: VIRGINIA DIRECT CSX SERVICE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Data center growth needs 100K truckloads per gigawatt. Trucking capacity is tightening fast across US hubs."
+                "narration_line": "Q2 cargo theft losses surged to $304.6M across North America. Criminal networks targeted high-value tech shipments."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: BROKER LIABILITY PRECEDENT",
-                "teaserTitle": "EQUIPMENT: EPA 2027 ENGINE MANDATE",
+                "headline": "RAIL: VIRGINIA DIRECT CSX SERVICE",
+                "teaserTitle": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A $604M court verdict forces strict 3PL carrier vetting rules. Freight brokers face rising liability risks."
+                "narration_line": "Port of Virginia launched direct CSX rail service to Indianapolis. Transit times drop by up to 48 hours."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: EPA 2027 ENGINE MANDATE",
-                "teaserTitle": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+                "headline": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+                "teaserTitle": "FINANCE: SECONDARY TARIFF MONETIZATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "DTNA commits solely to EPA 2027 compliant truck engines. Fleet buying costs are set to climb."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation following US sanctions. Rival carriers rapidly acquired its vessel assets."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
-                "teaserTitle": "LOGISTICS: GXO B2B MODEL PIVOT",
+                "headline": "FINANCE: SECONDARY TARIFF MONETIZATION",
+                "teaserTitle": "E-COMMERCE: EBAY CLOSES DEPOP DEAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Shipping groups fight proposed Hormuz Strait transit fees. Ocean carriers warn of surging fuel surcharges."
+                "narration_line": "Retailers are selling tariff refund rights to secondary investors for immediate cash. Monetized trade claims bolster working capital."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS: GXO B2B MODEL PIVOT",
-                "teaserTitle": "FULFILLMENT: AMAZON B2B TRUCK FLEET",
+                "headline": "E-COMMERCE: EBAY CLOSES DEPOP DEAL",
+                "teaserTitle": "INFRASTRUCTURE: MEXICO $2.2B LOGISTICS PLAN",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "GXO shifts strategy toward high-margin B2B industrial logistics. Contract logistics space is reorganizing globally."
+                "narration_line": "eBay completed its $1.4B acquisition of Depop from Etsy. Etsy cut 220 jobs to streamline operations."
             },
             {
                 "slide_index": 7,
-                "headline": "FULFILLMENT: AMAZON B2B TRUCK FLEET",
+                "headline": "INFRASTRUCTURE: MEXICO $2.2B LOGISTICS PLAN",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon Business rolls out dedicated trucks for palletized loading dock drops. Commercial fulfillment competition heats up."
+                "narration_line": "Mexico launched a $2.2B infrastructure plan for border crossings. Upgraded highway corridors will cut truck dwell times."
             },
             {
                 "slide_index": 8,

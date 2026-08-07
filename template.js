@@ -1,56 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "TURBULENCE",
-        "footerSummary": "New Section 301 tariffs, Hormuz transit fees, and massive data center freight demands threaten global supply chain stability and carrier capacity."
+        "titleWhite": "GLOBAL FREIGHT ARCHITECTURE",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "New 15% polysilicon tariffs, $304.6M cargo theft losses, and SeaLead liquidation drive critical realignments across cross-border freight infrastructure."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: USTR SECTION 301 TARIFFS",
+            "heading": "TARIFFS: POLYSILICON IMPORT DUTIES",
             "points": [
-                "The USTR is enforcing Section 301 tariffs targeting 60 trading partners to address forced labor violations as Section 122 duties expire.",
-                "Importers face immediate cost increases and heightened customs documentation requirements across major international trade lanes.",
-                "Customs brokers are recalibrating automated entry software to ensure strict compliance with newly enacted trade sanctions.",
-                "Global supply chains are adjusting procurement routes to bypass penalized manufacturing hubs and mitigate tariff exposure."
+                "A new 15% tariff and strict import price floor on polysilicon imports will take effect Dec 4 under executive order targeting semiconductor supply chains.",
+                "Solar panel and microchip manufacturers face immediate component cost surges and mandatory sourcing realignments across Pacific trade lanes.",
+                "Customs compliance teams are establishing origin verification protocols to track raw polysilicon processing through third-party intermediaries.",
+                "High-tech supply chains face heightened cost volatility as hardware developers adjust inventory procurement strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: DATA CENTER FREIGHT DEMAND",
+            "nextUpTease": "SECURITY: CARGO LOSSES HIT $304M",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRUCKING: DATA CENTER FREIGHT DEMAND",
+            "heading": "SECURITY: CARGO LOSSES HIT $304M",
             "points": [
-                "US data center infrastructure expansion requires 100K truckloads per gigawatt of installed computing capacity.",
-                "The surging demand for heavy specialized transport is drawing significant flatbed and specialized trailer capacity away from standard freight routes.",
-                "Logistics planners warn that regional motor carrier fleets could face acute equipment shortages as tech infrastructure investments surge.",
-                "Shippers are urged to secure multi-year freight contracts to hedge against tightening over-the-road trucking capacity."
+                "CargoNet reports Q2 freight theft losses surged to $304.6M despite total theft event reports declining 14% across North America.",
+                "Organized criminal networks targeted high-value technological equipment and metal shipments using sophisticated fraudulent identity schemes.",
+                "Third-party logistics providers are integrating multi-factor carrier verification and automated load tracking tools to combat rising theft.",
+                "Shippers and motor carriers face escalating insurance surcharges and stringent chain-of-custody documentation demands."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: BROKER LIABILITY PRECEDENT",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "COMPLIANCE: BROKER LIABILITY PRECEDENT",
-            "points": [
-                "Courts are enforcing severe negligent hiring rulings against freight brokers following a landmark $604M legal verdict.",
-                "Third-party logistics providers must institute rigorous carrier vetting processes to verify safety records and insurance credentials.",
-                "Brokerages are adopting AI-driven risk management tools to continuously audit motor carrier authority and safety scores.",
-                "Legal experts predict rising freight insurance premiums and stricter carrier selection standards across the logistics industry."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: EPA 2027 ENGINE MANDATE",
+            "nextUpTease": "RAIL: VIRGINIA DIRECT CSX SERVICE",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
@@ -58,69 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "EQUIPMENT: EPA 2027 ENGINE MANDATE",
+            "id": 3,
+            "heading": "RAIL: VIRGINIA DIRECT CSX SERVICE",
             "points": [
-                "Daimler Truck North America confirmed it will solely build EPA 2027 compliant engines ahead of upcoming NOx emissions standards.",
-                "The commercial vehicle manufacturer is expanding domestic manufacturing footprint to support low-emission heavy truck production.",
-                "Fleet operators face higher equipment acquisition costs and pre-buy fleet management decisions ahead of the 2027 regulatory deadline.",
-                "Carrier capital expenditure strategies are shifting toward clean diesel and alternative powertrain commercial vehicle fleets."
+                "The Port of Virginia launched direct CSX intermodal rail service connecting ocean terminals directly to the Indianapolis distribution hub.",
+                "The direct rail line bypasses traditional Chicago rail interchange bottlenecks, cutting inland container transit delays by up to 48 hours.",
+                "Midwest importers gain enhanced supply chain reliability and reduced drayage expenses for ocean container movements.",
+                "Regional logistics planners expect shifting intermodal routing preferences across East Coast maritime gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+            "nextUpTease": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+            "points": [
+                "Singapore-based carrier SeaLead Shipping entered voluntary liquidation following recent US sanctions, halting key Asia-Middle East container routes.",
+                "Rival ocean liners and vessel chartering firms rapidly acquired SeaLead container assets and vessel charters to absorb displaced capacity.",
+                "Shippers operating on regional feeder routes face localized container equipment re-allocations and revised booking schedules.",
+                "Global maritime operators are tightening counterparty risk reviews to ensure fleet compliance with international sanctions."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FINANCE: SECONDARY TARIFF MONETIZATION",
+            "tags": [
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+            "heading": "FINANCE: SECONDARY TARIFF MONETIZATION",
             "points": [
-                "Global shipping organizations are urging the UN and IMO to block proposed transit fees for Strait of Hormuz maritime passages.",
-                "Regional diplomatic talks threaten to impose financial tolls on commercial tankers and ocean container vessels operating in the gulf.",
-                "Ocean freight carriers warn that transit fees would escalate maritime war risk surcharges and global energy transport costs.",
-                "Maritime operators are evaluating alternative maritime corridors and legal challenges under international sea navigation law."
+                "Retailers including American Eagle and Children's Place are selling rights to potential tariff refunds to secondary market investors for immediate liquidity.",
+                "Financial intermediaries purchase federal trade refund claims at a discount, transferring long-term legal recovery risks away from importers.",
+                "Enterprise supply chain finance teams leverage monetized trade claims to bolster working capital amid macro supply chain headwinds.",
+                "Capital markets are developing structured financial instruments tied to ongoing international trade litigation outcomes."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: GXO B2B MODEL PIVOT",
+            "nextUpTease": "E-COMMERCE: EBAY CLOSES DEPOP DEAL",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LOGISTICS: GXO B2B MODEL PIVOT",
+            "heading": "E-COMMERCE: EBAY CLOSES DEPOP DEAL",
             "points": [
-                "GXO Logistics is restructuring its operational model to focus on high-margin B2B and industrial supply chain contracts.",
-                "The 3PL provider is shifting resources away from volatile retail e-commerce sectors toward long-term industrial logistics.",
-                "Operational restructuring aims to optimize warehouse utilization rates and improve long-term operating profit margins.",
-                "Enterprise industrial clients gain expanded contract logistics capacity and integrated distribution infrastructure across global markets."
+                "eBay completed its $1.4B acquisition of fashion marketplace Depop from Etsy to consolidate international consumer-to-consumer commerce.",
+                "Etsy announced a 12% workforce reduction of 220 positions to streamline operational overhead following the cash transaction.",
+                "Cross-border marketplace platforms are standardizing automated logistics and fulfillment workflows across newly integrated buyer networks.",
+                "Parcel carriers anticipate shifting volume distribution as consolidated marketplace platforms streamline regional shipping options."
             ],
             "imageUrl": "",
-            "nextUpTease": "FULFILLMENT: AMAZON B2B TRUCK FLEET",
+            "nextUpTease": "INFRASTRUCTURE: MEXICO $2.2B LOGISTICS PLAN",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FULFILLMENT: AMAZON B2B TRUCK FLEET",
+            "heading": "INFRASTRUCTURE: MEXICO $2.2B LOGISTICS PLAN",
             "points": [
-                "Amazon Business is deploying a dedicated fleet of branded delivery trucks designed for palletized commercial loading dock drops.",
-                "The expanded B2B fulfillment model streamlines consolidated order deliveries for commercial enterprise accounts.",
-                "Traditional LTL motor carriers face increased competition from Amazon's direct commercial delivery infrastructure.",
-                "Business buyers receive predictable drop-off schedules and enhanced shipment visibility for bulk commercial inventory orders."
+                "Mexico announced a $2.2B infrastructure package dedicated to upgrading Southern Oaxaca transport links and high-volume commercial border crossings.",
+                "The capital deployment expands highway capacity and border inspection facilities to support surging nearshoring cross-border freight traffic.",
+                "Cross-border motor carriers anticipate reduced border dwell times and improved equipment turnaround cycles along major US-Mexico trade corridors.",
+                "Industrial developers are accelerating warehouse construction projects adjacent to modernized commercial crossing points."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
