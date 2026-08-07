@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK REALIGNMENT",
+        "hookTitle": "GLOBAL LOGISTICS DISRUPTION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: SEALEAD SANCTIONS LIQUIDATION",
-                "teaserTitle": "FLEET MANUFACTURING: DAIMLER US TRUCK PLANT",
+                "headline": "TRADE POLICY: SECTION 301 TARIFFS",
+                "teaserTitle": "INLAND WATERWAYS: RHINE BARGE CRISIS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "SeaLead Shipping enters liquidation following US sanctions. Ocean rivals move fast to charter remaining fleet assets."
+                "narration_line": "USTR enforces Section 301 tariffs on 60 nations, imposing a 15% levy on hardware. Importers must adjust landed costs quickly."
             },
             {
                 "slide_index": 2,
-                "headline": "FLEET MANUFACTURING: DAIMLER US TRUCK PLANT",
-                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS ATTACK",
+                "headline": "INLAND WATERWAYS: RHINE BARGE CRISIS",
+                "teaserTitle": "MARITIME: PANAMA CANAL DRAFT LIMITS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Daimler Truck will construct its largest US assembly plant by 2029. The expansion enhances long-term heavy vehicle fleet capacity."
+                "narration_line": "Rhine River levels fall near record lows, cutting barge loads by 40%. Shippers shift container freight onto crowded rail lines."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: CEVA LOGISTICS ATTACK",
-                "teaserTitle": "EQUIPMENT: NORTH AMERICAN TRAILER DUTIES",
+                "headline": "MARITIME: PANAMA CANAL DRAFT LIMITS",
+                "teaserTitle": "RAIL NETWORK: PORT OF VIRGINIA CSX",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A cyberattack on Ceva Logistics halts European warehouse operations. Retail shippers face immediate inventory fulfillment delays."
+                "narration_line": "Panama Canal draft restrictions reduce container capacity by 15% per vessel. Ocean carriers divert cargo to West Coast ports."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: NORTH AMERICAN TRAILER DUTIES",
-                "teaserTitle": "PORT OPERATIONS: LONG BEACH INTERMODAL BACKLOG",
+                "headline": "RAIL NETWORK: PORT OF VIRGINIA CSX",
+                "teaserTitle": "FULFILLMENT: AMAZON DEDICATED TRUCKS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "US issues antidumping duties on Canadian and Mexican van trailers. Motor carriers face rising equipment procurement costs."
+                "narration_line": "Port of Virginia adds direct CSX rail to Indianapolis, bypassing Chicago. Transit times drop by 24h for Midwest shippers."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT OPERATIONS: LONG BEACH INTERMODAL BACKLOG",
-                "teaserTitle": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+                "headline": "FULFILLMENT: AMAZON DEDICATED TRUCKS",
+                "teaserTitle": "AIR CARGO: TRANSPACIFIC CAPACITY CRUNCH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Long Beach Container Terminal expands to 24/7 operations. The shift aims to resolve intermodal backlogs caused by crane failures."
+                "narration_line": "Amazon Business rolls out dedicated trucks for B2B dock drop-offs. Consolidated pallet deliveries cut last-mile logistics costs."
             },
             {
                 "slide_index": 6,
-                "headline": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
-                "teaserTitle": "3PL NETWORK: GXO B2B OPERATIONAL SHIFT",
+                "headline": "AIR CARGO: TRANSPACIFIC CAPACITY CRUNCH",
+                "teaserTitle": "WAREHOUSE TECH: GNC DRONE COUNTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Etsy cuts 220 roles following a $1.4B asset sale to eBay. The platform restructures logistics overhead to protect operating margins."
+                "narration_line": "Transpacific air freight rates jump 12% on heavy AI hardware demand. Forwarders secure charter space to beat peak capacity."
             },
             {
                 "slide_index": 7,
-                "headline": "3PL NETWORK: GXO B2B OPERATIONAL SHIFT",
+                "headline": "WAREHOUSE TECH: GNC DRONE COUNTS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "GXO shifts focus to high-margin B2B enterprise contracts. The 3PL unifies global operations to mitigate e-commerce volatility."
+                "narration_line": "GNC adopts autonomous drones across 450K sq ft DCs for cycle counts. Manual audit labor drops 75% with 99% accuracy."
             },
             {
                 "slide_index": 8,

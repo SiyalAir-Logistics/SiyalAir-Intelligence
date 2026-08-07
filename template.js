@@ -1,90 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "REALIGNMENT",
-        "footerSummary": "Sanction enforcement, trade duties, and automated terminal recovery trigger strategic operational pivots across global maritime and intermodal networks."
+        "titleWhite": "GLOBAL LOGISTICS",
+        "titleBlue": "DISRUPTION",
+        "footerSummary": "Customs compliance shifts, inland waterway restrictions, and dedicated intermodal rail corridors drive strategic structural pivots across global freight networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: SEALEAD SANCTIONS LIQUIDATION",
+            "heading": "TRADE POLICY: SECTION 301 TARIFFS",
             "points": [
-                "Singapore-based container line SeaLead Shipping moves toward liquidation following recent targeted US trade sanctions.",
-                "Rival ocean carriers and vessel charterers quickly acquire SeaLead's fleet assets and equipment across Asia-Europe lanes.",
-                "The carrier's exit forces freight forwarders to immediately rebook containerized cargo onto alternative vessel services.",
-                "Supply chain planners must verify carrier regulatory compliance to prevent sudden vessel seizures and cargo disruptions."
+                "The USTR enforces new Section 301 tariffs targeting 60 trading partners to restrict forced labor imports.",
+                "Importers face an added 15% tariff levy on solar and polysilicon hardware entering domestic supply chains.",
+                "Supply chain auditors are deploying automated tracking tools to verify cross-border origin compliance.",
+                "Enterprise shippers must re-evaluate landed costs to absorb expanding regulatory import duties."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET MANUFACTURING: DAIMLER US TRUCK PLANT",
+            "nextUpTease": "INLAND WATERWAYS: RHINE BARGE CRISIS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FLEET MANUFACTURING: DAIMLER US TRUCK PLANT",
+            "heading": "INLAND WATERWAYS: RHINE BARGE CRISIS",
             "points": [
-                "Daimler Truck North America announces plans to construct its largest US commercial truck assembly facility by 2029.",
-                "The manufacturing expansion addresses long-term commercial vehicle fleet demand and upcoming heavy-duty equipment mandates.",
-                "Increased domestic production capacity strengthens supply chain resilience for North American motor carrier operations.",
-                "Fleet managers can anticipate expanded access to next-generation Class 8 commercial vehicles and electric powertrains."
+                "Record low water levels along the Rhine River severely constrain inland barge capacity across Germany.",
+                "Vessel operators reduce load factors by 40% to prevent grounding along critical shallow river passages.",
+                "Manufacturing plants upriver face raw material delivery delays and potential production curtailments.",
+                "Logistics managers are shifting urgent container volumes onto already congested European rail networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS ATTACK",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "CYBERSECURITY: CEVA LOGISTICS ATTACK",
-            "points": [
-                "Ceva Logistics experiences a major cyberattack impacting automated warehouse operations and fulfillment centers across Europe.",
-                "The disruption creates immediate inventory processing delays for major retail brands relying on third-party logistics infrastructure.",
-                "Engineering teams implement emergency manual overrides while isolating affected warehouse management IT systems.",
-                "Enterprise shippers must reinforce cyber resilience protocols to mitigate third-party supply chain operational exposure."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: NORTH AMERICAN TRAILER DUTIES",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "EQUIPMENT: NORTH AMERICAN TRAILER DUTIES",
-            "points": [
-                "US Department of Commerce imposes new antidumping duties on commercial van trailers imported from Canada and Mexico.",
-                "Trade enforcement measures aim to protect domestic equipment manufacturers from foreign price suppression.",
-                "Motor carriers face increased capital procurement costs for new dry van and refrigerated trailer equipment fleets.",
-                "Logistics executives must adjust equipment replacement budgets to absorb higher cross-border trailer acquisition expenses."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PORT OPERATIONS: LONG BEACH INTERMODAL BACKLOG",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "PORT OPERATIONS: LONG BEACH INTERMODAL BACKLOG",
-            "points": [
-                "Long Beach Container Terminal initiates 24/7 gate operations to clear a persistent backlog of intermodal containers.",
-                "Technical malfunctions with ship-to-shore cranes created severe container yard congestion and delayed rail transfers.",
-                "Terminal operators deploy additional labor shifts to accelerate container dwell time reductions across key rail corridors.",
-                "Intermodal shippers can expect improving container velocity as terminal fluid conditions stabilize through August."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+            "nextUpTease": "MARITIME: PANAMA CANAL DRAFT LIMITS",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -92,35 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+            "id": 3,
+            "heading": "MARITIME: PANAMA CANAL DRAFT LIMITS",
             "points": [
-                "Etsy reduces workforce by 12% cutting 220 positions following the $1.4B divestment of marketplace subsidiary Depop.",
-                "The organizational restructuring streamlines operational overhead while refocusing resources on core marketplace logistics.",
-                "E-commerce platforms continue adjusting operational expenditures to maintain profit margins amid shifting consumer demand.",
-                "Sellers and logistics partners should monitor platform fulfillment updates as internal operational shifts take effect."
+                "Panama Canal authority maintains strict draft restrictions on Neopanamax vessels due to water deficits.",
+                "Ocean carriers reduce container intake by up to 15% on East Coast and Gulf Coast service loops.",
+                "Transit slot allocation surcharges increase overall vessel slot costs for transpacific shippers.",
+                "Cargo owners are rerouting time-sensitive containerized shipments toward US West Coast ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "3PL NETWORK: GXO B2B OPERATIONAL SHIFT",
+            "nextUpTease": "RAIL NETWORK: PORT OF VIRGINIA CSX",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.joc.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "RAIL NETWORK: PORT OF VIRGINIA CSX",
+            "points": [
+                "Port of Virginia launches direct CSX intermodal rail service connecting marine terminals to Indianapolis.",
+                "The dedicated rail link bypasses traditional Chicago interchange gateways to reduce dwell times by 24h.",
+                "Regional importers gain direct access to Midwest fulfillment centers without additional drayage legs.",
+                "Supply chain planners can optimize East Coast port routing to lower inland freight expenditures."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FULFILLMENT: AMAZON DEDICATED TRUCKS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "FULFILLMENT: AMAZON DEDICATED TRUCKS",
+            "points": [
+                "Amazon Business deploys dedicated branded delivery trucks tailored for consolidated loading dock drop-offs.",
+                "The fleet expansion targets high-volume B2B enterprise accounts with palletized freight handling needs.",
+                "Consolidated delivery schedules cut last-mile operational costs and drop-off dwell times at customer sites.",
+                "Commercial buyers can streamline inbound receiving workflows through unified multi-order shipments."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO: TRANSPACIFIC CAPACITY CRUNCH",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AIR CARGO: TRANSPACIFIC CAPACITY CRUNCH",
+            "points": [
+                "Surging AI hardware demand and Middle East airspace shifts tighten available Transpacific air cargo space.",
+                "Air freight spot rates rise 12% as high-tech manufacturers secure priority uplift for semiconductors.",
+                "Forwarders are chartering freighter capacity to guarantee transit schedules ahead of peak season.",
+                "E-commerce shippers must prepare for elevated air freight surcharges across key Asian origin hubs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "WAREHOUSE TECH: GNC DRONE COUNTS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "3PL NETWORK: GXO B2B OPERATIONAL SHIFT",
+            "heading": "WAREHOUSE TECH: GNC DRONE COUNTS",
             "points": [
-                "GXO Logistics transitions toward a unified global operating model targeting high-margin B2B enterprise contracts.",
-                "The strategic pivot reduces exposure to volatile retail e-commerce volumes while optimizing global warehouse footprint.",
-                "Contract logistics providers focus on long-term industrial partnerships to generate consistent cash flow and profitability.",
-                "Supply chain leaders can leverage dedicated 3PL industrial networks to optimize B2B distribution channels."
+                "GNC deploys autonomous warehouse drones across 450K sq ft distribution facilities for cycle counting.",
+                "Aerial inventory scanning reduces manual labor hours by 75% while improving stock accuracy to 99%.",
+                "Robotic inventory tracking operates continuously without interrupting active warehouse picking shifts.",
+                "Distribution center leaders can scale automated counting models to optimize overall warehouse throughput."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
