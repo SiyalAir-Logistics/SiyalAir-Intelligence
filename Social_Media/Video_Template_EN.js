@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL SUPPLY CHAIN SHIFTS",
+        "hookTitle": "MARITIME TARIFF AND HORMUZ",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "PORT OPERATORS: DP WORLD RESTRUCTURING",
+                "headline": "FMC: DETENTION PENALTY ENFORCEMENT",
+                "teaserTitle": "PANAMA CANAL: DRAFT LIMIT CONSTRAINTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR is enforcing Section 301 tariffs on 60 trading partners. Importers must audit origin nodes to prevent severe delivery holds."
+                "narration_line": "The FMC enforces strict detention rules to ensure marine freight fluidity across ports."
             },
             {
                 "slide_index": 2,
-                "headline": "PORT OPERATORS: DP WORLD RESTRUCTURING",
-                "teaserTitle": "CUSTOMS ENFORCEMENT: TAIWAN FRAUD SETTLEMENT",
+                "headline": "PANAMA CANAL: DRAFT LIMIT CONSTRAINTS",
+                "teaserTitle": "MARITIME RISK: HORMUZ TRANSIT CONFLICTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "DP World announced 300 operational layoffs across Europe. Terminal realignments aim to streamline regional freight throughput."
+                "narration_line": "Panama Canal draft restrictions constrain large vessel loading capacities for peak season."
             },
             {
                 "slide_index": 3,
-                "headline": "CUSTOMS ENFORCEMENT: TAIWAN FRAUD SETTLEMENT",
-                "teaserTitle": "AIR CARGO: LEIPZIG SECURITY THREAT",
+                "headline": "MARITIME RISK: HORMUZ TRANSIT CONFLICTS",
+                "teaserTitle": "EQUIPMENT TARIFFS: TRAILER ANTIDUMPING DUTIES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A Taiwan manufacturer paid $5.2M to settle customs entry fraud. Automated CBP audits are raising cross-border cargo risks."
+                "narration_line": "Strait of Hormuz transit disputes push global crude prices and bunker rates higher."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: LEIPZIG SECURITY THREAT",
-                "teaserTitle": "PARCEL RATES: USPS MARKETPLACE INCREASES",
+                "headline": "EQUIPMENT TARIFFS: TRAILER ANTIDUMPING DUTIES",
+                "teaserTitle": "MANUFACTURING: INDUSTRIAL EXPANSION SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "German counterterrorism units opened a probe after an explosive drone was found at Leipzig Airport. Express air freight networks face increased screening delays."
+                "narration_line": "New antidumping duties on cross-border trailer imports raise equipment procurement costs."
             },
             {
                 "slide_index": 5,
-                "headline": "PARCEL RATES: USPS MARKETPLACE INCREASES",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "headline": "MANUFACTURING: INDUSTRIAL EXPANSION SURGE",
+                "teaserTitle": "WAREHOUSING: REAL ESTATE VACANCY BALANCE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "USPS raised Ground Advantage rates and added strict hazmat penalties. E-commerce platforms must adapt to rising parcel delivery costs."
+                "narration_line": "U.S. manufacturing activity expands for the seventh consecutive month with stable prices."
             },
             {
                 "slide_index": 6,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
-                "teaserTitle": "ECOMMERCE: EBAY DEPOP ACQUISITION",
+                "headline": "WAREHOUSING: REAL ESTATE VACANCY BALANCE",
+                "teaserTitle": "AIR CARGO: AI DATA CENTER DEMAND",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "U.S. industrial warehouse vacancy stabilized at 7.3% as demand outpaced supply. Facility lease rates are firming across key logistics hubs."
+                "narration_line": "Industrial real estate vacancy holds at 7.3% as warehouse leasing demand stabilizes."
             },
             {
                 "slide_index": 7,
-                "headline": "ECOMMERCE: EBAY DEPOP ACQUISITION",
+                "headline": "AIR CARGO: AI DATA CENTER DEMAND",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "eBay closed its $1.4B acquisition of apparel marketplace Depop. Circular economy logistics networks expect accelerated cross-border parcel volumes."
+                "narration_line": "AI data center infrastructure build-outs drive robust growth in trans-Pacific air cargo."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the complete hourly intelligence breakdown and live data logs at Global Logistics."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at MOMENTUM POINT."
             }
         ]
     }
