@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL SUPPLY CHAIN DISRUPTIONS",
+        "hookTitle": "GLOBAL FREIGHT NETWORK REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: USTR SECTION 301",
-                "teaserTitle": "CUSTOMS: IEEPA TARIFF REFUNDS",
+                "headline": "MARITIME: SEALEAD SANCTIONS LIQUIDATION",
+                "teaserTitle": "FLEET MANUFACTURING: DAIMLER US TRUCK PLANT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR implements Section 301 tariffs on 60 trading partners as Section 122 duties expire. Shippers face strict forced labor enforcement across global trade lanes."
+                "narration_line": "SeaLead Shipping enters liquidation following US sanctions. Ocean rivals move fast to charter remaining fleet assets."
             },
             {
                 "slide_index": 2,
-                "headline": "CUSTOMS: IEEPA TARIFF REFUNDS",
-                "teaserTitle": "MARITIME: STRAIT OF HORMUZ ACCORD",
+                "headline": "FLEET MANUFACTURING: DAIMLER US TRUCK PLANT",
+                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS ATTACK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CBP surpasses $100B in IEEPA tariff refunds amid ongoing court appeals. Retailers are selling refund rights on secondary markets to gain fast capital."
+                "narration_line": "Daimler Truck will construct its largest US assembly plant by 2029. The expansion enhances long-term heavy vehicle fleet capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: STRAIT OF HORMUZ ACCORD",
-                "teaserTitle": "AIR LOGISTICS: WALMART DRONE FLIGHTS",
+                "headline": "CYBERSECURITY: CEVA LOGISTICS ATTACK",
+                "teaserTitle": "EQUIPMENT: NORTH AMERICAN TRAILER DUTIES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Iran and Oman reach a tentative transit agreement for the Strait of Hormuz. Ocean carriers monitor energy corridors as risk premiums fluctuate globally."
+                "narration_line": "A cyberattack on Ceva Logistics halts European warehouse operations. Retail shippers face immediate inventory fulfillment delays."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR LOGISTICS: WALMART DRONE FLIGHTS",
-                "teaserTitle": "INLAND WATERWAYS: RHINE RIVER LEVELS",
+                "headline": "EQUIPMENT: NORTH AMERICAN TRAILER DUTIES",
+                "teaserTitle": "PORT OPERATIONS: LONG BEACH INTERMODAL BACKLOG",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Walmart and Wing expand drone deliveries across 5 Orlando locations. The service targets 30-minute aerial fulfillment to optimize last-mile logistics."
+                "narration_line": "US issues antidumping duties on Canadian and Mexican van trailers. Motor carriers face rising equipment procurement costs."
             },
             {
                 "slide_index": 5,
-                "headline": "INLAND WATERWAYS: RHINE RIVER LEVELS",
-                "teaserTitle": "INFRASTRUCTURE: MEXICO INTEROCEANIC CORRIDOR",
+                "headline": "PORT OPERATIONS: LONG BEACH INTERMODAL BACKLOG",
+                "teaserTitle": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Rhine River draft limits drop barge loads to 25% of capacity. European manufacturers shift cargo to rail and road networks to avoid shutdowns."
+                "narration_line": "Long Beach Container Terminal expands to 24/7 operations. The shift aims to resolve intermodal backlogs caused by crane failures."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: MEXICO INTEROCEANIC CORRIDOR",
-                "teaserTitle": "MATERIAL HANDLING: TOYOTA PLANT EXPANSION",
+                "headline": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+                "teaserTitle": "3PL NETWORK: GXO B2B OPERATIONAL SHIFT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Mexico invests $2.2B in Oaxaca to advance the Interoceanic Corridor project. The trade route offers a major alternative to Panama Canal transit."
+                "narration_line": "Etsy cuts 220 roles following a $1.4B asset sale to eBay. The platform restructures logistics overhead to protect operating margins."
             },
             {
                 "slide_index": 7,
-                "headline": "MATERIAL HANDLING: TOYOTA PLANT EXPANSION",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "3PL NETWORK: GXO B2B OPERATIONAL SHIFT",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Toyota opens a $100M forklift manufacturing plant in Indiana to meet warehouse demand. Domestic supply of automated industrial equipment will increase significantly."
+                "narration_line": "GXO shifts focus to high-margin B2B enterprise contracts. The 3PL unifies global operations to mitigate e-commerce volatility."
             },
             {
                 "slide_index": 8,
