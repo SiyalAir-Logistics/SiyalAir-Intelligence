@@ -1,56 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MARITIME TARIFF AND",
-        "titleBlue": "HORMUZ",
-        "footerSummary": "Strait of Hormuz transit volatility, federal maritime penalty enforcement, Panama Canal draft restrictions, and cross-border equipment duties intensify multimodal operational pressure."
+        "titleWhite": "TRANSPACIFIC TRADE AND",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "Permanent Section 301 tariffs, DP World workforce restructuring, European warehouse cyberattacks, and transpacific cargo frontloading escalate supply chain friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC: DETENTION PENALTY ENFORCEMENT",
+            "heading": "USTR: SECTION 301 TARIFFS",
             "points": [
-                "The U.S. Court of Appeals upheld the Federal Maritime Commission mandate requiring carrier detention fees to directly promote freight fluidity.",
-                "Ocean carriers face increased regulatory oversight regarding container demurrage and per diem invoicing practices across domestic ports.",
-                "Marine terminal operators are re-engineering billing compliance workflows to align with strict federal transparency standards.",
-                "Shippers gain stronger legal backing to contest unwarranted terminal penalties and secure operational cost reductions."
+                "Importers must prepare for a prolonged regulatory era as Section 301 tariffs become permanent fixtures of U.S. trade policy.",
+                "Stricter customs enforcement and heightened compliance audits are reshaping operational risk profiles for cross-border supply chains.",
+                "Global sourcing strategies face continuous structural adjustments as federal trade restrictions impact international manufacturing networks.",
+                "Procurement teams must integrate long-term tariff forecasting directly into enterprise inventory financial planning models."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: DRAFT LIMIT CONSTRAINTS",
+            "nextUpTease": "DP WORLD: EUROPEAN RESTRUCTURING",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PANAMA CANAL: DRAFT LIMIT CONSTRAINTS",
+            "heading": "DP WORLD: EUROPEAN RESTRUCTURING",
             "points": [
-                "Late-summer draft restrictions on the Panama Canal are restricting maximum loading capacities for ultra-large container vessels.",
-                "East Coast and Gulf Coast inbound services face capacity friction as peak shipping season cargo volumes accelerate.",
-                "Ocean carriers are adjusting string allocations and evaluating lightering options to offset restricted draft depths.",
-                "Supply chain planners must factor in reduced vessel payloads and potential routing adjustments for trans-Pacific shipments."
+                "DP World is undertaking a major European operational restructuring, eliminating 300 jobs and updating senior commercial management.",
+                "The corporate reorganization reflects broader cost optimization initiatives across key marine terminal and logistics hubs.",
+                "Regional port fluidity could experience temporary administrative bottlenecks as consolidated management structures take effect.",
+                "Terminal operators across Europe are under intense pressure to streamline overhead and maximize asset utilization efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME RISK: HORMUZ TRANSIT CONFLICTS",
+            "nextUpTease": "CEVA LOGISTICS: EUROPEAN CYBERATTACK",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME RISK: HORMUZ TRANSIT CONFLICTS",
+            "heading": "CEVA LOGISTICS: EUROPEAN CYBERATTACK",
             "points": [
-                "Crude oil prices and global bunker rates climbed 3.9% amid ongoing strategic disputes across the Strait of Hormuz.",
-                "International shipping associations are pressing regulatory bodies to oppose proposed transit fees and secure passage lanes.",
-                "Energy logistics networks face elevated operational risk profiles requiring rapid contingency planning for marine transport.",
-                "Carriers operating through Middle Eastern trade corridors are implementing dynamic fuel surcharges to mitigate volatility."
+                "A sophisticated cyberattack on Ceva Logistics has disrupted operations across eight major European e-commerce fulfillment warehouses.",
+                "IT security teams are racing to patch system vulnerabilities and fully restore automated order processing capabilities for retailers.",
+                "Digital supply chain disruptions highlight the critical vulnerability of centralized warehouse management networks to cyber threats.",
+                "Logistics providers are urgently upgrading their endpoint security and contingency routing protocols to protect client inventories."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT TARIFFS: TRAILER ANTIDUMPING DUTIES",
+            "nextUpTease": "TRANSPACIFIC: CHINA EXPORT FRONTLOADING",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "TRANSPACIFIC: CHINA EXPORT FRONTLOADING",
+            "points": [
+                "China's export volumes jumped 23% in July, fueled by aggressive frontloading of transpacific goods ahead of pending tariff hikes.",
+                "Ocean carriers report surging container spot rates and tight vessel utilization across major Asia-North America trade lanes.",
+                "U.S. importers are accelerating cargo dispatches to bypass predicted cost increases and mitigate upcoming inventory deficits.",
+                "Port terminals on the West Coast face sudden volume surges that threaten to induce localized yard congestion."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO: AI DATA CENTER DEMAND",
             "tags": [
                 "Source: https://www.cnbc.com",
                 "Published: Last 24-48 Hours",
@@ -58,16 +75,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "EQUIPMENT TARIFFS: TRAILER ANTIDUMPING DUTIES",
+            "id": 5,
+            "heading": "AIR CARGO: AI DATA CENTER DEMAND",
             "points": [
-                "U.S. trade authorities have officially applied new antidumping duties on dry and refrigerated van trailer imports from Mexico and Canada.",
-                "Equipment procurement costs for motor carriers are rising as North American manufacturing supply chains adjust to tariffs.",
-                "Fleet operators must re-evaluate equipment replacement cycles and supplier contracts to protect operating margins.",
-                "Cross-border trailer leasing companies are restructuring pricing models to absorb incoming regulatory tax burdens."
+                "Rapid infrastructure expansions for AI data centers are generating unprecedented air freight demand on transpacific routes.",
+                "Freight forwarders are capitalizing on high-yield technology charters while warning that current market momentum resembles a bubble.",
+                "Airlines report robust international cargo yields driven by specialized hardware shipments and accelerated delivery timelines.",
+                "Supply chain planners must secure air cargo space well in advance to support critical technology deployment schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: INDUSTRIAL EXPANSION SURGE",
+            "nextUpTease": "GXO LOGISTICS: GLOBAL OPERATING MODEL",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "GXO LOGISTICS: GLOBAL OPERATING MODEL",
+            "points": [
+                "GXO Logistics is shifting to a unified global operating model to drive cross-border growth and streamline contract logistics.",
+                "The structural pivot aims to optimize warehousing assets and accelerate business-to-business operational efficiencies worldwide.",
+                "Contract logistics providers are increasingly modernizing their corporate frameworks to better support complex supply chains.",
+                "Enterprise clients can expect enhanced standardization and scalable automation integrations across multi-region facilities."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RETAIL DIVE: TARIFF REFUND MONETIZATION",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -75,52 +109,18 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "MANUFACTURING: INDUSTRIAL EXPANSION SURGE",
-            "points": [
-                "U.S. manufacturing activity expanded for the 7th consecutive month according to Institute for Supply Management data.",
-                "Input prices are gradually stabilizing, providing much-needed relief for industrial procurement and sourcing teams.",
-                "Factory output growth is driving steady freight generation across domestic over-the-road and intermodal networks.",
-                "Supply chain managers are leveraging consistent factory metrics to optimize raw material inventory holding levels."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "WAREHOUSING: REAL ESTATE VACANCY BALANCE",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "WAREHOUSING: REAL ESTATE VACANCY BALANCE",
-            "points": [
-                "National industrial real estate vacancy rates held steady at 7.3% as leasing demand closely matched new completions.",
-                "Colliers reports that the warehousing sector has achieved sustainable equilibrium following years of volatile expansion.",
-                "Distribution center operators are increasingly turning to automation consulting to maximize existing footprint efficiency.",
-                "Logistics providers planning new facility deployments face predictable rental pricing across primary metropolitan hubs."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR CARGO: AI DATA CENTER DEMAND",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "AIR CARGO: AI DATA CENTER DEMAND",
+            "heading": "RETAIL DIVE: TARIFF REFUND MONETIZATION",
             "points": [
-                "Rapid infrastructure investments in AI data centers continue to generate heavy air cargo demand on trans-Pacific lanes.",
-                "Freight forwarders are expanding specialized value-added logistics services to support high-tech equipment movements.",
-                "Airlines report robust yield performance driven by express technology shipments and specialized charter requests.",
-                "Global supply chains must navigate constrained air freight capacity as tech sector shipments prioritize speed."
+                "A secondary financial market has emerged for major retailers to monetize potential government tariff refunds for immediate cash.",
+                "Companies like American Eagle Outfitters are selling rights to retroactive duty payouts to secure short-term liquidity.",
+                "Financial officers are leveraging creative asset-backed transactions to offset macroeconomic pressures and supply chain costs.",
+                "Industry analysts anticipate broader adoption of tariff monetization strategies as trade litigation drag times persist."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

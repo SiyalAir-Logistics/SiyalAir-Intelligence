@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "MARITIME TARIFF AND HORMUZ",
+        "hookTitle": "TRANSPACIFIC TRADE AND TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FMC: DETENTION PENALTY ENFORCEMENT",
-                "teaserTitle": "PANAMA CANAL: DRAFT LIMIT CONSTRAINTS",
+                "headline": "USTR: SECTION 301 TARIFFS",
+                "teaserTitle": "DP WORLD: EUROPEAN RESTRUCTURING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The FMC enforces strict detention rules to ensure marine freight fluidity across ports."
+                "narration_line": "Section 301 tariffs become permanent trade policy, forcing U.S. importers to overhaul compliance."
             },
             {
                 "slide_index": 2,
-                "headline": "PANAMA CANAL: DRAFT LIMIT CONSTRAINTS",
-                "teaserTitle": "MARITIME RISK: HORMUZ TRANSIT CONFLICTS",
+                "headline": "DP WORLD: EUROPEAN RESTRUCTURING",
+                "teaserTitle": "CEVA LOGISTICS: EUROPEAN CYBERATTACK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Panama Canal draft restrictions constrain large vessel loading capacities for peak season."
+                "narration_line": "DP World cuts 300 jobs in a major European operational restructuring of commercial management."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME RISK: HORMUZ TRANSIT CONFLICTS",
-                "teaserTitle": "EQUIPMENT TARIFFS: TRAILER ANTIDUMPING DUTIES",
+                "headline": "CEVA LOGISTICS: EUROPEAN CYBERATTACK",
+                "teaserTitle": "TRANSPACIFIC: CHINA EXPORT FRONTLOADING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Strait of Hormuz transit disputes push global crude prices and bunker rates higher."
+                "narration_line": "A severe cyberattack disrupts 8 Ceva Logistics European e-commerce fulfillment warehouses."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT TARIFFS: TRAILER ANTIDUMPING DUTIES",
-                "teaserTitle": "MANUFACTURING: INDUSTRIAL EXPANSION SURGE",
+                "headline": "TRANSPACIFIC: CHINA EXPORT FRONTLOADING",
+                "teaserTitle": "AIR CARGO: AI DATA CENTER DEMAND",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New antidumping duties on cross-border trailer imports raise equipment procurement costs."
+                "narration_line": "China exports surge 23% in July as shippers frontload cargo ahead of tariff hikes."
             },
             {
                 "slide_index": 5,
-                "headline": "MANUFACTURING: INDUSTRIAL EXPANSION SURGE",
-                "teaserTitle": "WAREHOUSING: REAL ESTATE VACANCY BALANCE",
+                "headline": "AIR CARGO: AI DATA CENTER DEMAND",
+                "teaserTitle": "GXO LOGISTICS: GLOBAL OPERATING MODEL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "U.S. manufacturing activity expands for the seventh consecutive month with stable prices."
+                "narration_line": "AI data center expansions drive heavy transpacific air cargo demand and tight capacity."
             },
             {
                 "slide_index": 6,
-                "headline": "WAREHOUSING: REAL ESTATE VACANCY BALANCE",
-                "teaserTitle": "AIR CARGO: AI DATA CENTER DEMAND",
+                "headline": "GXO LOGISTICS: GLOBAL OPERATING MODEL",
+                "teaserTitle": "RETAIL DIVE: TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Industrial real estate vacancy holds at 7.3% as warehouse leasing demand stabilizes."
+                "narration_line": "GXO Logistics transitions to a unified global operating model to accelerate B2B growth."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: AI DATA CENTER DEMAND",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "RETAIL DIVE: TARIFF REFUND MONETIZATION",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "AI data center infrastructure build-outs drive robust growth in trans-Pacific air cargo."
+                "narration_line": "Retailers monetize potential government tariff refunds on a secondary market for quick cash."
             },
             {
                 "slide_index": 8,
