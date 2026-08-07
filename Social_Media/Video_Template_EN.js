@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT RATE SPIKE",
+        "hookTitle": "GLOBAL FREIGHT SUPPLY SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "RED SEA: NICHE SERVICE EXPANSION",
-                "teaserTitle": "EQUIPMENT: VAN TRAILER DUTIES",
+                "headline": "USTR: SECTION 301 TARIFFS",
+                "teaserTitle": "INFRASTRUCTURE: MEXICO INTEROCEANIC CORRIDOR",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Rising transshipment volumes in the Middle East drive secondary container lines to expand niche Red Sea shipping routes."
+                "narration_line": "USTR enacts Section 301 tariffs on 60 nations, tightening cross-border compliance and forcing immediate supply chain recalibrations."
             },
             {
                 "slide_index": 2,
-                "headline": "EQUIPMENT: VAN TRAILER DUTIES",
-                "teaserTitle": "AIR CARGO: DATA CENTER SURGE",
+                "headline": "INFRASTRUCTURE: MEXICO INTEROCEANIC CORRIDOR",
+                "teaserTitle": "CYBERSECURITY: CEVA WAREHOUSE BREACH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "U.S. trade authorities implement new antidumping duties on commercial van trailer imports from Canada and Mexico."
+                "narration_line": "Mexico invests $2.2B in the Interoceanic Corridor, expanding Pacific to Atlantic trade infrastructure for nearshoring regional cargo."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: DATA CENTER SURGE",
-                "teaserTitle": "LEGAL: FORCED-LABOR LAWSUIT",
+                "headline": "CYBERSECURITY: CEVA WAREHOUSE BREACH",
+                "teaserTitle": "MARITIME: PANAMA CANAL RESTRICTIONS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Surging global demand for AI data center infrastructure keeps high-yield air cargo markets operating at peak capacity."
+                "narration_line": "A cyberattack hits 8 Ceva Logistics European warehouses, disrupting e-commerce order fulfillment networks across key regional fulfillment centers."
             },
             {
                 "slide_index": 4,
-                "headline": "LEGAL: FORCED-LABOR LAWSUIT",
-                "teaserTitle": "RETAIL: TARIFF REFUND MARKETS",
+                "headline": "MARITIME: PANAMA CANAL RESTRICTIONS",
+                "teaserTitle": "INLAND WATERWAYS: RHINE LOW WATER LEVELS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A 25-state coalition files a formal lawsuit challenging federal Section 301 forced-labor import tariff regulations."
+                "narration_line": "Panama Canal draft limits restrict US East Coast vessel capacities, squeezing container space ahead of peak shipping season."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL: TARIFF REFUND MARKETS",
-                "teaserTitle": "MARITIME: HORMUZ DIPLOMATIC PUSH",
+                "headline": "INLAND WATERWAYS: RHINE LOW WATER LEVELS",
+                "teaserTitle": "POSTAL RATES: USPS MARKETPLACE INCREASES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Major retail brands monetize pending government tariff refunds by trading claim rights on secondary financial markets."
+                "narration_line": "Record low Rhine water levels restrict barge loads, pushing European industrial cargo onto congested rail and trucking networks."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: HORMUZ DIPLOMATIC PUSH",
-                "teaserTitle": "INFRASTRUCTURE: RAIL INTERMODAL EXPANSION",
+                "headline": "POSTAL RATES: USPS MARKETPLACE INCREASES",
+                "teaserTitle": "CARRIER OPERATIONS: SEALEAD LIQUIDATION SHUTDOWN",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Diplomatic negotiations advance toward a provisional transit accord to stabilize commercial shipping in the Strait of Hormuz."
+                "narration_line": "USPS raises Ground Advantage rates by $2 to $3 for rural deliveries, increasing parcel expenses for e-commerce sellers."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: RAIL INTERMODAL EXPANSION",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "CARRIER OPERATIONS: SEALEAD LIQUIDATION SHUTDOWN",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Port of Virginia launches a direct CSX intermodal rail service to accelerate container velocity to Indianapolis."
+                "narration_line": "SeaLead Shipping liquidates under US sanctions, driving competitors to seize vessel assets and re-route impacted ocean freight."
             },
             {
                 "slide_index": 8,
