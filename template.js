@@ -2,125 +2,125 @@ const dailyData = {
     "main": {
         "kicker": "",
         "titleWhite": "GLOBAL TRADE TARIFF",
-        "titleBlue": "REVISIONS",
-        "footerSummary": "Section 301 tariff reinstatements, maritime detention fee rulings, and European logistics cyberattacks create operational friction across international supply chains."
+        "titleBlue": "SURGE",
+        "footerSummary": "New U.S. steel and aluminum duties, Panama Canal draft restrictions, and cross-border trucking tariffs escalate cost pressures across international supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFFS",
+            "heading": "COMMERCE: METAL TARIFF PROPOSALS",
             "points": [
-                "The Office of the United States Trade Representative is moving forward with forced-labor-based tariffs on 60 trading partners as legacy provisions expire.",
-                "This regulatory implementation impacts global procurement models, requiring importers to audit tier-one suppliers for compliance visibility.",
-                "Supply chain organizations must re-evaluate sourcing strategies to mitigate rising landed costs associated with expanded punitive duties.",
-                "Industry stakeholders should prepare for heightened documentation requirements across all affected international trade lanes."
+                "The U.S. Department of Commerce has officially proposed sweeping new tariffs covering an expanded range of imported steel, aluminum, and copper products.",
+                "This regulatory expansion targets industrial raw materials to protect domestic manufacturing capacity against fluctuating global supply surpluses.",
+                "Procurement teams across automotive and electronics sectors face immediate margin adjustments and required supplier diversification reviews.",
+                "Importers must rapidly calculate the landed cost impacts of these prospective duties before final implementation schedules take effect."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: DETENTION FEE RULINGS",
+            "nextUpTease": "PANAMA CANAL: DRAFT LIMITS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FMC: DETENTION FEE RULINGS",
+            "heading": "PANAMA CANAL: DRAFT LIMITS",
             "points": [
-                "The U.S. Court of Appeals for the D.C. Circuit has upheld the Federal Maritime Commission decision that detention fees must actively promote freight fluidity.",
-                "Ocean carriers and marine terminal operators face strict judicial scrutiny over demurrage and per diem billing practices.",
-                "Enforcement mechanisms are tightening around container turnaround times to alleviate persistent port congestion challenges.",
-                "Shippers gain stronger legal backing to contest unjustified terminal access fees and disputed penalty invoices."
+                "Upcoming late-summer draft restrictions on the Panama Canal will prevent mega-containerships from fully loading ahead of the peak shipping season.",
+                "Ocean carriers operating on transpacific and U.S. East Coast lanes must manage reduced container payloads or reroute via alternative corridors.",
+                "The draft reductions threaten to compound transit delays and absorb available ocean capacity just as retail replenishment volumes accelerate.",
+                "Supply chain planners should secure early allocations and evaluate intermodal rail alternatives to bypass potential maritime bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS BREACH",
+            "nextUpTease": "EQUIPMENT: TRAILER DUMP DUTIES",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CYBERSECURITY: CEVA LOGISTICS BREACH",
+            "heading": "EQUIPMENT: TRAILER DUMP DUTIES",
             "points": [
-                "A sophisticated cyberattack on Ceva Logistics warehouses in Europe has disrupted e-commerce order fulfillment operations across eight major facilities.",
-                "IT security teams are scrambling to patch vulnerabilities and restore core warehouse management system functionalities.",
-                "The incident highlights growing digital vulnerabilities within third-party logistics network infrastructures and automated distribution centers.",
-                "Retail partners must activate contingency distribution protocols to bypass affected regional fulfillment nodes."
+                "U.S. trade authorities have imposed new antidumping duties on dry and refrigerated van trailer imports arriving from Canada and Mexico.",
+                "The regulatory enforcement aims to level the playing field for domestic equipment manufacturers facing lower-priced cross-border competition.",
+                "Motor carriers and private fleet operators purchasing cross-border trailing stock should expect higher acquisition costs and tighter supply.",
+                "Fleet executives must adjust capital expenditure forecasts and explore localized procurement channels to mitigate equipment inflation."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: AI DATA CENTER SURGE",
+            "nextUpTease": "LEGAL: FORCED-LABOR TARIFF LAWSUIT",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: AI DATA CENTER SURGE",
+            "heading": "LEGAL: FORCED-LABOR TARIFF LAWSUIT",
             "points": [
-                "Rapid global infrastructure build-outs for artificial intelligence data centers are driving sustained high demand across transpacific air cargo routes.",
-                "Specialized electronic components and server hardware shipments are absorbing available belly space and pushing spot rates upward.",
-                "Air freight forwarders are securing long-term capacity agreements to protect margins against tightening seasonal supply constraints.",
-                "Shippers relying on expedited air services must forecast volume needs early to avoid last-minute space denials."
+                "A coalition of 25 state attorneys general has filed a joint lawsuit challenging the administration's Section 301 forced-labor-based import tariffs.",
+                "The legal challenge contends that the executive trade measures circumvent prior judicial rulings regarding federal tariff authority limitations.",
+                "Importers caught in the legal crossfire face ongoing uncertainty regarding duty refunds, collection mechanisms, and compliance obligations.",
+                "Corporate legal teams must monitor court proceedings closely to adjust customs valuation and duty recovery strategies dynamically."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME SECURITY: LEIPZIG DRONE THREAT",
+            "nextUpTease": "RETAIL: TARIFF REFUND MARKETS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME SECURITY: LEIPZIG DRONE THREAT",
+            "heading": "RETAIL: TARIFF REFUND MARKETS",
             "points": [
-                "German counterterrorism authorities have launched a formal investigation after discovering a drone carrying explosives at Leipzig/Halle Airport.",
-                "The security breach exposes critical vulnerabilities in European multimodal air cargo and ground handling logistics hubs.",
-                "Logistics security operators are heightening perimeter surveillance and screening protocols for high-value cargo facilities.",
-                "Supply chain security managers must review threat intelligence feeds to safeguard personnel and freight assets."
+                "Major retail brands are actively monetizing potential government tariff refunds by selling their claims on a newly emerged secondary financial market.",
+                "Cash-strapped importers are trading future administrative payout rights to secure immediate liquidity amid persistent cost pressures.",
+                "Financial intermediaries are structuring complex debt and equity swaps to help retailers capture present value from retroactively disputed duties.",
+                "Supply chain finance executives should evaluate secondary market transactions to optimize working capital during volatile trade cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR FORCE: FREEDOM HAULERS PROGRAM",
+            "nextUpTease": "ENERGY: HORMUZ DRAFT ACCORD",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LABOR FORCE: FREEDOM HAULERS PROGRAM",
+            "heading": "ENERGY: HORMUZ DRAFT ACCORD",
             "points": [
-                "The Trump administration has launched the Freedom Haulers interagency campaign to accelerate the transition of military veterans into commercial truck drivers.",
-                "The DOT initiative shortens licensing timelines while simultaneously maintaining strict enforcement against non-domiciled drivers.",
-                "Motor carriers gain a structured recruitment channel to mitigate long-standing commercial driver shortages in over-the-road sectors.",
-                "Fleet operators participating in the program can scale driving capacity while improving regulatory compliance standards."
+                "Diplomatic negotiations between Iran and regional intermediaries are advancing toward a provisional agreement regarding commercial transit in the Strait of Hormuz.",
+                "The potential accord seeks to stabilize global crude oil flows and avert prolonged maritime route closures in the vital shipping chokepoint.",
+                "Energy markets reacted with cautious optimism as shipping lines weighed the security implications for Middle Eastern tanker operations.",
+                "Logistics operators must maintain robust risk mitigation frameworks until permanent navigational safety guarantees are fully established."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL FULFILLMENT: WAREHOUSE ROBOTICS",
+            "nextUpTease": "INFRASTRUCTURE: RAIL NETWORK EXPANSION",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RETAIL FULFILLMENT: WAREHOUSE ROBOTICS",
+            "heading": "INFRASTRUCTURE: RAIL NETWORK EXPANSION",
             "points": [
-                "Distribution center operators are rapidly deploying autonomous picking robots to manage complex labor shortages and rising throughput demands.",
-                "Advanced physical AI and machine vision integrations are streamlining high-density storage picking and inventory accuracy.",
-                "Warehouse productivity metrics show significant efficiency gains as autonomous systems assume repetitive physical workflows.",
-                "Supply chain executives are prioritizing robotics investments to future-proof distribution networks against labor volatility."
+                "The Port of Virginia has officially integrated a new direct CSX rail service linking maritime terminals directly to Indianapolis distribution hubs.",
+                "The infrastructure enhancement is designed to accelerate intermodal container velocity and relieve drayage congestion across eastern freight corridors.",
+                "Shippers gain enhanced access to midwestern consumer markets with shortened transit times and improved schedule reliability.",
+                "Supply chain managers should incorporate the new intermodal connection into inbound distribution planning to optimize landed logistics costs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
