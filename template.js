@@ -1,107 +1,90 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Tariff expansions, rail rerouting, and inland waterway disruptions force high-priority operational realignments across global trade corridors."
+        "titleWhite": "GLOBAL FREIGHT CAPACITY",
+        "titleBlue": "DISRUPTIONS",
+        "footerSummary": "Customs tariff shifts, equipment emission mandates, and infrastructure capacity drains create acute operational friction across global trade networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS: POLYSILICON TARIFF IMPOSITIONS",
+            "heading": "CUSTOMS: USTR SECTION 301 EXPANSION",
             "points": [
-                "The US government imposes a 15% tariff and price floor on imported polysilicon under Section 301 regulations effective Dec 4.",
-                "Cross-border tech supply chains face escalating procurement expenditures across solar and semiconductor manufacturing sectors.",
-                "Importers are shifting sourcing strategies toward domestic producers to mitigate mandatory tariff burdens.",
-                "Enterprise buyers must adjust long-term component procurement contracts before the regulatory enforcement deadline."
+                "The USTR initiates mandatory tariffs on 60 trading nations under Section 301 following the expiration of Section 122 regulations.",
+                "Importers face immediate cost increases across international sourcing channels as compliance mandates enforce strict foreign trade boundaries.",
+                "Supply chain executives are forced to restructure overseas vendor contracts and audit origin documentation to limit punitive duty liabilities.",
+                "Cross-border freight strategies must adapt quickly to prevent prolonged customs holds at primary US ports of entry."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: VIRGINIA DIRECT INDIANAPOLIS SERVICE",
+            "nextUpTease": "EQUIPMENT: DTNA EPA 2027 ENGINES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL: VIRGINIA DIRECT INDIANAPOLIS SERVICE",
+            "heading": "EQUIPMENT: DTNA EPA 2027 ENGINES",
             "points": [
-                "Port of Virginia introduces direct CSX intermodal rail service connecting ocean terminals directly to Indianapolis hubs.",
-                "Containerized freight bypasses traditional Chicago rail bottlenecks, cutting regional transit dwell times by up to 24 hours.",
-                "Midwest logistics operators gain streamlined access to Atlantic trade lanes with integrated intermodal connections.",
-                "Shippers are expected to reallocate inland import volumes from Gulf corridors to Virginia rail hubs."
+                "Daimler Truck North America commits exclusively to EPA 2027-compliant engines ahead of strict federal nitrogen oxide rules.",
+                "Commercial fleet operators face elevated capital expenditure costs for heavy-duty power units under updated manufacturing standards.",
+                "Freight carriers are accelerating pre-buy procurement programs to secure existing tractor inventory before the regulatory transition.",
+                "Long-haul logistics networks will absorb higher baseline equipment maintenance overhead throughout the compliance rollout."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: STARBUCKS REPLENISHMENT REALIGNMENT",
+            "nextUpTease": "PORTS: DP WORLD EUROPEAN RESTRUCTURING",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "RETAIL: STARBUCKS REPLENISHMENT REALIGNMENT",
+            "heading": "PORTS: DP WORLD EUROPEAN RESTRUCTURING",
             "points": [
-                "Starbucks pivots supply chain strategy to achieve 24-hour store inventory replenishment across domestic retail locations.",
-                "The shift follows the deactivation of a legacy AI automated inventory management tool after nine months of testing.",
-                "Logistics teams re-architect distribution center workflows to prioritize manual operational speed and inventory visibility.",
-                "Retail supply chain managers are reassessing automated planning platforms in favor of direct store delivery execution."
+                "DP World eliminates 300 corporate and operational positions across its European port networks to streamline terminal management.",
+                "Terminal efficiency drives stem from falling ocean freight margins and shifting Transpacific trade lane allocations.",
+                "Regional container dispatch hubs undergo structural realignment to optimize berth throughput and cut fixed operating overhead.",
+                "Shippers using European gateways must prepare for potential short-term administrative delays during management consolidation."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: FEDEX NETWORK OVERHAUL",
+            "nextUpTease": "REGULATION: FMC DETENTION RULE UPHELD",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LOGISTICS: FEDEX NETWORK OVERHAUL",
+            "heading": "REGULATION: FMC DETENTION RULE UPHELD",
             "points": [
-                "FedEx accelerates its Network 2.0 initiative by closing select ship centers and consolidating ground and express operations.",
-                "Facility rationalization reduces duplicate transit routes and lowers baseline operating costs across domestic shipping lanes.",
-                "Regional parcel dispatch nodes undergo structural alignment to improve sorting density and fleet utilization rates.",
-                "Enterprise shippers must review pickup schedules as local facility closures alter daily collection windows."
+                "The US Court of Appeals upholds the FMC ruling requiring container detention fees to serve exclusively as incentives for freight fluidity.",
+                "Ocean carriers and marine terminal operators can no longer levy penal detention charges when terminal access is obstructed.",
+                "Importers gain substantial legal backing to challenge unfair container billing and recover non-compliant fee assessments.",
+                "Global shipping lines are forced to re-engineer billing compliance systems to align with verified equipment availability."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE: AMAZON B2B DEDICATED FLEET",
+            "nextUpTease": "TRUCKING: DATA CENTER CAPACITY DRAIN",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ECOMMERCE: AMAZON B2B DEDICATED FLEET",
+            "heading": "TRUCKING: DATA CENTER CAPACITY DRAIN",
             "points": [
-                "Amazon Business deploys dedicated branded delivery trucks designed specifically for consolidated drop-offs and dock fulfillment.",
-                "The specialized fleet supports palletized freight deliveries directly to corporate loading docks and industrial sites.",
-                "Third-party sellers gain expanded access to enterprise business buyers through integrated B2B fulfillment channels.",
-                "Commercial freight forwarders face intensified competition from Amazon in last-mile B2B distribution."
+                "Rapid US data center construction demands up to 100K truckloads for every single gigawatt of operational capacity added.",
+                "Specialized flatbed and heavy-haul truck capacity is rapidly diverting from industrial manufacturing to tech infrastructure sites.",
+                "Freight spot rates across specialized haul categories face upward pressure as regional carrier fleets shift contract allocations.",
+                "Logistics planners must secure committed flatbed equipment early to avoid severe construction transport bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: LONG BEACH INTERMODAL BACKLOG",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "PORTS: LONG BEACH INTERMODAL BACKLOG",
-            "points": [
-                "Long Beach Container Terminal initiates 24/7 crane operations to clear a major intermodal container backlog.",
-                "Technical disruptions in ship-to-shore crane automation systems created severe rail yard congestion throughout July.",
-                "Terminal operators deploy emergency labor shifts to restore container velocity and reduce average dwell times.",
-                "Transpacific ocean carriers face potential schedule reliability drops until port fluidities fully stabilize."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INLAND: RHINE WATERWAY DROUGHT DISRUPTIONS",
+            "nextUpTease": "LOGISTICS: GXO B2B STRATEGIC PIVOT",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -109,18 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "INLAND: RHINE WATERWAY DROUGHT DISRUPTIONS",
+            "id": 6,
+            "heading": "LOGISTICS: GXO B2B STRATEGIC PIVOT",
             "points": [
-                "Near-record low water levels on the Rhine River restrict barge cargo capacities across European industrial corridors.",
-                "Barge operators impose steep low-water surcharges and limit vessel loading drafts to prevent groundings.",
-                "Chemical and manufacturing plants in Germany face raw material shortages due to constrained inland waterway throughput.",
-                "Logistics planners are shifting freight allocations from river barges to high-cost rail and road transport alternatives."
+                "GXO Logistics transitions to a global operating model, shifting strategic focus from retail e-commerce toward high-margin B2B contracts.",
+                "The structural overhaul targets operational cost reduction while scaling industrial distribution and enterprise contract logistics.",
+                "Third-party fulfillment centers are undergoing facility rationalization to prioritize predictable industrial supply chain flows.",
+                "Enterprise shippers face new contract pricing structures as 3PL providers demand longer-term margin guarantees."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "WAREHOUSING: GNC DRONE INVENTORY AUTOMATION",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "WAREHOUSING: GNC DRONE INVENTORY AUTOMATION",
+            "points": [
+                "GNC deploys autonomous drone fleets across 450K square feet of warehouse space to automate cycle counts and inventory audits.",
+                "Aerial automation eliminates manual equipment navigation, significantly reducing labor constraints and increasing count frequency.",
+                "Distribution center workflows gain high-precision inventory visibility without interrupting active picking and packing shifts.",
+                "Retail supply chain operations are establishing new benchmarks for automated inventory control in large-scale facilities."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

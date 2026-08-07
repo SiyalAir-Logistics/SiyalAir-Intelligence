@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK SHIFTS",
+        "hookTitle": "GLOBAL FREIGHT CAPACITY DISRUPTIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: POLYSILICON TARIFF IMPOSITIONS",
-                "teaserTitle": "RAIL: VIRGINIA DIRECT INDIANAPOLIS SERVICE",
+                "headline": "CUSTOMS: USTR SECTION 301 EXPANSION",
+                "teaserTitle": "EQUIPMENT: DTNA EPA 2027 ENGINES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The US imposes a 15% tariff on imported polysilicon under Section 301 starting Dec 4. Importers face surging raw material costs."
+                "narration_line": "USTR enforces Section 301 tariffs across 60 trading nations. Importers face immediate cost increases and origin audit requirements."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL: VIRGINIA DIRECT INDIANAPOLIS SERVICE",
-                "teaserTitle": "RETAIL: STARBUCKS REPLENISHMENT REALIGNMENT",
+                "headline": "EQUIPMENT: DTNA EPA 2027 ENGINES",
+                "teaserTitle": "PORTS: DP WORLD EUROPEAN RESTRUCTURING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Port of Virginia adds direct CSX rail service to Indianapolis. Containers bypass Chicago rail hubs, cutting transit times significantly."
+                "narration_line": "DTNA commits solely to EPA 2027 engines. Fleet operators face higher tractor capital expenditures ahead of new rules."
             },
             {
                 "slide_index": 3,
-                "headline": "RETAIL: STARBUCKS REPLENISHMENT REALIGNMENT",
-                "teaserTitle": "LOGISTICS: FEDEX NETWORK OVERHAUL",
+                "headline": "PORTS: DP WORLD EUROPEAN RESTRUCTURING",
+                "teaserTitle": "REGULATION: FMC DETENTION RULE UPHELD",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Starbucks targets 24-hour store replenishment after deactivating its AI inventory tool. Focus shifts to direct store distribution."
+                "narration_line": "DP World cuts 300 European roles to reduce operating costs. Terminal management shifts as transpacific volume patterns alter routes."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: FEDEX NETWORK OVERHAUL",
-                "teaserTitle": "ECOMMERCE: AMAZON B2B DEDICATED FLEET",
+                "headline": "REGULATION: FMC DETENTION RULE UPHELD",
+                "teaserTitle": "TRUCKING: DATA CENTER CAPACITY DRAIN",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "FedEx closes local ship centers under Network 2.0 consolidation. The logistics provider streamlines express and ground facility operations."
+                "narration_line": "Appeals court upholds FMC detention rules. Carriers cannot penalize shippers when terminal access remains blocked."
             },
             {
                 "slide_index": 5,
-                "headline": "ECOMMERCE: AMAZON B2B DEDICATED FLEET",
-                "teaserTitle": "PORTS: LONG BEACH INTERMODAL BACKLOG",
+                "headline": "TRUCKING: DATA CENTER CAPACITY DRAIN",
+                "teaserTitle": "LOGISTICS: GXO B2B STRATEGIC PIVOT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon Business launches dedicated delivery trucks for dock fulfillment. The fleet handles consolidated palletized shipments for B2B accounts."
+                "narration_line": "Data center growth consumes 100K truckloads per gigawatt. Specialized flatbed capacity tightens across US freight networks."
             },
             {
                 "slide_index": 6,
-                "headline": "PORTS: LONG BEACH INTERMODAL BACKLOG",
-                "teaserTitle": "INLAND: RHINE WATERWAY DROUGHT DISRUPTIONS",
+                "headline": "LOGISTICS: GXO B2B STRATEGIC PIVOT",
+                "teaserTitle": "WAREHOUSING: GNC DRONE INVENTORY AUTOMATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Long Beach Container Terminal works 24/7 to clear intermodal container backlogs. Technical crane failures caused weeks of rail yard delays."
+                "narration_line": "GXO pivots operational strategy toward high-margin B2B contracts. Industrial warehousing takes priority over retail e-commerce."
             },
             {
                 "slide_index": 7,
-                "headline": "INLAND: RHINE WATERWAY DROUGHT DISRUPTIONS",
+                "headline": "WAREHOUSING: GNC DRONE INVENTORY AUTOMATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Low Rhine River water levels severely limit European barge capacities. Manufacturers pivot freight allocations to rail and trucking networks."
+                "narration_line": "GNC deploys autonomous drones across 450K square feet. Automated inventory counts reduce labor dependency in distribution hubs."
             },
             {
                 "slide_index": 8,
