@@ -1,90 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUPPLY CHAIN INFRASTRUCTURE",
-        "titleBlue": "PIVOTS",
-        "footerSummary": "Monetized tariff refunds, cross-border infrastructure investments, and cyber disruptions drive critical strategic realignments across global trade lanes."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Tariff expansions, rail rerouting, and inland waterway disruptions force high-priority operational realignments across global trade corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MANUFACTURING: DAIMLER TRUCK EXPANSION",
+            "heading": "CUSTOMS: POLYSILICON TARIFF IMPOSITIONS",
             "points": [
-                "Daimler Truck North America commits to constructing its largest domestic commercial vehicle assembly plant.",
-                "The facility expands North American Class 8 truck production capacity to meet growing long-haul fleet demand.",
-                "Engineers integrate advanced automation systems to streamline chassis assembly and reduce vehicle lead times.",
-                "Fleet operators gain expanded domestic supply resiliency ahead of upcoming EPA emissions regulatory shifts."
+                "The US government imposes a 15% tariff and price floor on imported polysilicon under Section 301 regulations effective Dec 4.",
+                "Cross-border tech supply chains face escalating procurement expenditures across solar and semiconductor manufacturing sectors.",
+                "Importers are shifting sourcing strategies toward domestic producers to mitigate mandatory tariff burdens.",
+                "Enterprise buyers must adjust long-term component procurement contracts before the regulatory enforcement deadline."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS ATTACK",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "CYBERSECURITY: CEVA LOGISTICS ATTACK",
-            "points": [
-                "A major cyberattack hits CEVA Logistics European warehouse operations disrupting automated order dispatch systems.",
-                "Multiple multinational retail supply chains report immediate distribution bottlenecks across regional fulfillment hubs.",
-                "IT security teams deploy isolation protocols to contain breach vectors and restore inventory database integrity.",
-                "Logistics managers must implement secondary manual contingency workflows to mitigate downstream delivery delays."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: TRAILER ANTIDUMPING DUTIES",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "TRADE POLICY: TRAILER ANTIDUMPING DUTIES",
-            "points": [
-                "US regulatory authorities impose new antidumping duties on commercial van trailers originating from Canada and Mexico.",
-                "The tariff adjustments elevate capital expenditure thresholds for cross-border freight equipment purchases.",
-                "Intermodal operators face increased equipment sourcing costs across North American freight corridors.",
-                "Carrier purchasing agents are adjusting fleet renewal schedules to manage escalating procurement expenditures."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: MEXICO ISTHMUS CORRIDOR",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "INFRASTRUCTURE: MEXICO ISTHMUS CORRIDOR",
-            "points": [
-                "Mexico allocates $2.2B toward critical infrastructure enhancements along the Interoceanic Corridor of the Isthmus of Tehuantepec.",
-                "The investment modernizes rail links and port facilities to create a dedicated land bridge alternative to the Panama Canal.",
-                "High-capacity freight rail lines will connect Gulf and Pacific marine terminals with streamlined customs handling.",
-                "Global shippers gain an alternative transshipment route designed to reduce transpacific transit times."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
-            "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
-            "points": [
-                "Major retail brands sell rights to potential federal tariff refunds to secure immediate liquidity.",
-                "Secondary financial markets emerge as institutional investors trade locked import duty recovery claims.",
-                "Enterprise shippers convert long-term regulatory legal receivables into immediate operational working capital.",
-                "Financial directors leverage duty monetizations to offset rising supply chain baseline expenditures."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD CONTAINER LIQUIDATION",
+            "nextUpTease": "RAIL: VIRGINIA DIRECT INDIANAPOLIS SERVICE",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -92,30 +24,98 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MARITIME: SEALEAD CONTAINER LIQUIDATION",
+            "id": 2,
+            "heading": "RAIL: VIRGINIA DIRECT INDIANAPOLIS SERVICE",
             "points": [
-                "Ocean carrier SeaLead Shipping enters formal liquidation following recent international trade sanction actions.",
-                "Rival container lines rapidly acquire charter vessels and container box assets to absorb displaced capacity.",
-                "Freight forwarders shift affected cargo allocations to established alliances to ensure ocean transit continuity.",
-                "Maritime analysts anticipate temporary spot rate volatility across secondary feeder service lanes."
+                "Port of Virginia introduces direct CSX intermodal rail service connecting ocean terminals directly to Indianapolis hubs.",
+                "Containerized freight bypasses traditional Chicago rail bottlenecks, cutting regional transit dwell times by up to 24 hours.",
+                "Midwest logistics operators gain streamlined access to Atlantic trade lanes with integrated intermodal connections.",
+                "Shippers are expected to reallocate inland import volumes from Gulf corridors to Virginia rail hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: LEIPZIG FREIGHT SECURITY",
+            "nextUpTease": "RETAIL: STARBUCKS REPLENISHMENT REALIGNMENT",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "RETAIL: STARBUCKS REPLENISHMENT REALIGNMENT",
+            "points": [
+                "Starbucks pivots supply chain strategy to achieve 24-hour store inventory replenishment across domestic retail locations.",
+                "The shift follows the deactivation of a legacy AI automated inventory management tool after nine months of testing.",
+                "Logistics teams re-architect distribution center workflows to prioritize manual operational speed and inventory visibility.",
+                "Retail supply chain managers are reassessing automated planning platforms in favor of direct store delivery execution."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LOGISTICS: FEDEX NETWORK OVERHAUL",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "LOGISTICS: FEDEX NETWORK OVERHAUL",
+            "points": [
+                "FedEx accelerates its Network 2.0 initiative by closing select ship centers and consolidating ground and express operations.",
+                "Facility rationalization reduces duplicate transit routes and lowers baseline operating costs across domestic shipping lanes.",
+                "Regional parcel dispatch nodes undergo structural alignment to improve sorting density and fleet utilization rates.",
+                "Enterprise shippers must review pickup schedules as local facility closures alter daily collection windows."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ECOMMERCE: AMAZON B2B DEDICATED FLEET",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "ECOMMERCE: AMAZON B2B DEDICATED FLEET",
+            "points": [
+                "Amazon Business deploys dedicated branded delivery trucks designed specifically for consolidated drop-offs and dock fulfillment.",
+                "The specialized fleet supports palletized freight deliveries directly to corporate loading docks and industrial sites.",
+                "Third-party sellers gain expanded access to enterprise business buyers through integrated B2B fulfillment channels.",
+                "Commercial freight forwarders face intensified competition from Amazon in last-mile B2B distribution."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PORTS: LONG BEACH INTERMODAL BACKLOG",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "PORTS: LONG BEACH INTERMODAL BACKLOG",
+            "points": [
+                "Long Beach Container Terminal initiates 24/7 crane operations to clear a major intermodal container backlog.",
+                "Technical disruptions in ship-to-shore crane automation systems created severe rail yard congestion throughout July.",
+                "Terminal operators deploy emergency labor shifts to restore container velocity and reduce average dwell times.",
+                "Transpacific ocean carriers face potential schedule reliability drops until port fluidities fully stabilize."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "INLAND: RHINE WATERWAY DROUGHT DISRUPTIONS",
+            "tags": [
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: LEIPZIG FREIGHT SECURITY",
+            "heading": "INLAND: RHINE WATERWAY DROUGHT DISRUPTIONS",
             "points": [
-                "German authorities initiate counterterrorism investigations after discovering an explosive-laden drone at Leipzig Airport.",
-                "Aviation security protocols escalate across central European air freight hubs to protect air cargo infrastructure.",
-                "Freighter operators face mandatory secondary screening procedures for incoming bellyhold and main deck shipments.",
-                "Air logistics providers are building extra buffer time into time-definite express freight flight schedules."
+                "Near-record low water levels on the Rhine River restrict barge cargo capacities across European industrial corridors.",
+                "Barge operators impose steep low-water surcharges and limit vessel loading drafts to prevent groundings.",
+                "Chemical and manufacturing plants in Germany face raw material shortages due to constrained inland waterway throughput.",
+                "Logistics planners are shifting freight allocations from river barges to high-cost rail and road transport alternatives."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
