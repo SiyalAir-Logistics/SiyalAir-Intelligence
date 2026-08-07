@@ -1,90 +1,90 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS",
-        "titleBlue": "DISRUPTION",
-        "footerSummary": "Customs compliance shifts, inland waterway restrictions, and dedicated intermodal rail corridors drive strategic structural pivots across global freight networks."
+        "titleWhite": "SUPPLY CHAIN INFRASTRUCTURE",
+        "titleBlue": "PIVOTS",
+        "footerSummary": "Monetized tariff refunds, cross-border infrastructure investments, and cyber disruptions drive critical strategic realignments across global trade lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: SECTION 301 TARIFFS",
+            "heading": "MANUFACTURING: DAIMLER TRUCK EXPANSION",
             "points": [
-                "The USTR enforces new Section 301 tariffs targeting 60 trading partners to restrict forced labor imports.",
-                "Importers face an added 15% tariff levy on solar and polysilicon hardware entering domestic supply chains.",
-                "Supply chain auditors are deploying automated tracking tools to verify cross-border origin compliance.",
-                "Enterprise shippers must re-evaluate landed costs to absorb expanding regulatory import duties."
+                "Daimler Truck North America commits to constructing its largest domestic commercial vehicle assembly plant.",
+                "The facility expands North American Class 8 truck production capacity to meet growing long-haul fleet demand.",
+                "Engineers integrate advanced automation systems to streamline chassis assembly and reduce vehicle lead times.",
+                "Fleet operators gain expanded domestic supply resiliency ahead of upcoming EPA emissions regulatory shifts."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: RHINE BARGE CRISIS",
+            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS ATTACK",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INLAND WATERWAYS: RHINE BARGE CRISIS",
+            "heading": "CYBERSECURITY: CEVA LOGISTICS ATTACK",
             "points": [
-                "Record low water levels along the Rhine River severely constrain inland barge capacity across Germany.",
-                "Vessel operators reduce load factors by 40% to prevent grounding along critical shallow river passages.",
-                "Manufacturing plants upriver face raw material delivery delays and potential production curtailments.",
-                "Logistics managers are shifting urgent container volumes onto already congested European rail networks."
+                "A major cyberattack hits CEVA Logistics European warehouse operations disrupting automated order dispatch systems.",
+                "Multiple multinational retail supply chains report immediate distribution bottlenecks across regional fulfillment hubs.",
+                "IT security teams deploy isolation protocols to contain breach vectors and restore inventory database integrity.",
+                "Logistics managers must implement secondary manual contingency workflows to mitigate downstream delivery delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: PANAMA CANAL DRAFT LIMITS",
+            "nextUpTease": "TRADE POLICY: TRAILER ANTIDUMPING DUTIES",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: PANAMA CANAL DRAFT LIMITS",
+            "heading": "TRADE POLICY: TRAILER ANTIDUMPING DUTIES",
             "points": [
-                "Panama Canal authority maintains strict draft restrictions on Neopanamax vessels due to water deficits.",
-                "Ocean carriers reduce container intake by up to 15% on East Coast and Gulf Coast service loops.",
-                "Transit slot allocation surcharges increase overall vessel slot costs for transpacific shippers.",
-                "Cargo owners are rerouting time-sensitive containerized shipments toward US West Coast ports."
+                "US regulatory authorities impose new antidumping duties on commercial van trailers originating from Canada and Mexico.",
+                "The tariff adjustments elevate capital expenditure thresholds for cross-border freight equipment purchases.",
+                "Intermodal operators face increased equipment sourcing costs across North American freight corridors.",
+                "Carrier purchasing agents are adjusting fleet renewal schedules to manage escalating procurement expenditures."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL NETWORK: PORT OF VIRGINIA CSX",
+            "nextUpTease": "INFRASTRUCTURE: MEXICO ISTHMUS CORRIDOR",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RAIL NETWORK: PORT OF VIRGINIA CSX",
+            "heading": "INFRASTRUCTURE: MEXICO ISTHMUS CORRIDOR",
             "points": [
-                "Port of Virginia launches direct CSX intermodal rail service connecting marine terminals to Indianapolis.",
-                "The dedicated rail link bypasses traditional Chicago interchange gateways to reduce dwell times by 24h.",
-                "Regional importers gain direct access to Midwest fulfillment centers without additional drayage legs.",
-                "Supply chain planners can optimize East Coast port routing to lower inland freight expenditures."
+                "Mexico allocates $2.2B toward critical infrastructure enhancements along the Interoceanic Corridor of the Isthmus of Tehuantepec.",
+                "The investment modernizes rail links and port facilities to create a dedicated land bridge alternative to the Panama Canal.",
+                "High-capacity freight rail lines will connect Gulf and Pacific marine terminals with streamlined customs handling.",
+                "Global shippers gain an alternative transshipment route designed to reduce transpacific transit times."
             ],
             "imageUrl": "",
-            "nextUpTease": "FULFILLMENT: AMAZON DEDICATED TRUCKS",
+            "nextUpTease": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FULFILLMENT: AMAZON DEDICATED TRUCKS",
+            "heading": "TRADE FINANCE: TARIFF REFUND MONETIZATION",
             "points": [
-                "Amazon Business deploys dedicated branded delivery trucks tailored for consolidated loading dock drop-offs.",
-                "The fleet expansion targets high-volume B2B enterprise accounts with palletized freight handling needs.",
-                "Consolidated delivery schedules cut last-mile operational costs and drop-off dwell times at customer sites.",
-                "Commercial buyers can streamline inbound receiving workflows through unified multi-order shipments."
+                "Major retail brands sell rights to potential federal tariff refunds to secure immediate liquidity.",
+                "Secondary financial markets emerge as institutional investors trade locked import duty recovery claims.",
+                "Enterprise shippers convert long-term regulatory legal receivables into immediate operational working capital.",
+                "Financial directors leverage duty monetizations to offset rising supply chain baseline expenditures."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: TRANSPACIFIC CAPACITY CRUNCH",
+            "nextUpTease": "MARITIME: SEALEAD CONTAINER LIQUIDATION",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -93,34 +93,34 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "AIR CARGO: TRANSPACIFIC CAPACITY CRUNCH",
+            "heading": "MARITIME: SEALEAD CONTAINER LIQUIDATION",
             "points": [
-                "Surging AI hardware demand and Middle East airspace shifts tighten available Transpacific air cargo space.",
-                "Air freight spot rates rise 12% as high-tech manufacturers secure priority uplift for semiconductors.",
-                "Forwarders are chartering freighter capacity to guarantee transit schedules ahead of peak season.",
-                "E-commerce shippers must prepare for elevated air freight surcharges across key Asian origin hubs."
+                "Ocean carrier SeaLead Shipping enters formal liquidation following recent international trade sanction actions.",
+                "Rival container lines rapidly acquire charter vessels and container box assets to absorb displaced capacity.",
+                "Freight forwarders shift affected cargo allocations to established alliances to ensure ocean transit continuity.",
+                "Maritime analysts anticipate temporary spot rate volatility across secondary feeder service lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSE TECH: GNC DRONE COUNTS",
+            "nextUpTease": "AIR CARGO: LEIPZIG FREIGHT SECURITY",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "WAREHOUSE TECH: GNC DRONE COUNTS",
+            "heading": "AIR CARGO: LEIPZIG FREIGHT SECURITY",
             "points": [
-                "GNC deploys autonomous warehouse drones across 450K sq ft distribution facilities for cycle counting.",
-                "Aerial inventory scanning reduces manual labor hours by 75% while improving stock accuracy to 99%.",
-                "Robotic inventory tracking operates continuously without interrupting active warehouse picking shifts.",
-                "Distribution center leaders can scale automated counting models to optimize overall warehouse throughput."
+                "German authorities initiate counterterrorism investigations after discovering an explosive-laden drone at Leipzig Airport.",
+                "Aviation security protocols escalate across central European air freight hubs to protect air cargo infrastructure.",
+                "Freighter operators face mandatory secondary screening procedures for incoming bellyhold and main deck shipments.",
+                "Air logistics providers are building extra buffer time into time-definite express freight flight schedules."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
