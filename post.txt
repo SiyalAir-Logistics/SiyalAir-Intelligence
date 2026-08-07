@@ -1,27 +1,27 @@
-🌐 GLOBAL FREIGHT CAPACITY DISRUPTIONS
+🌐 GLOBAL SUPPLY CHAIN SHIFTS
 
 Global supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:
 
-01 / CUSTOMS: USTR SECTION 301 EXPANSION
-The USTR initiates mandatory tariffs on 60 trading nations under Section 301 following Section 122 expiration.
+01 / SECURITY: CARGO NET THEFT SURGE
+CargoNet reports $304.6M in Q2 theft losses driven by targeted tech and metal heists.
 
-02 / EQUIPMENT: DTNA EPA 2027 ENGINES
-Daimler Truck North America commits exclusively to EPA 2027-compliant engines ahead of strict emissions rules.
+02 / TRADE: POLYSILICON TARIFF IMPOSITION
+The US announces a 15% tariff and price floor on foreign polysilicon effective December 4.
 
-03 / PORTS: DP WORLD EUROPEAN RESTRUCTURING
-DP World eliminates 300 positions across its European port networks to cut fixed operating overhead.
+03 / RAIL: PORT VIRGINIA CSX EXPANSION
+Port of Virginia launches direct CSX intermodal service to Indianapolis to bypass Chicago bottlenecks.
 
-04 / REGULATION: FMC DETENTION RULE UPHELD
-The US Court of Appeals upholds the FMC ruling prohibiting detention charges when terminal access is obstructed.
+04 / MARITIME: SEALEAD SHIPPING LIQUIDATION
+Singapore-based SeaLead Shipping enters voluntary liquidation following recent US sanctions.
 
-05 / TRUCKING: DATA CENTER CAPACITY DRAIN
-US data center construction demands up to 100K truckloads per gigawatt, consuming specialized flatbed capacity.
+05 / ECOMMERCE: ETSY WORKFORCE REDUCTION
+Etsy lays off 220 employees after completing its $1.4B Depop transaction with eBay.
 
-06 / LOGISTICS: GXO B2B STRATEGIC PIVOT
-GXO Logistics shifts strategic operational focus from retail e-commerce toward high-margin B2B enterprise contracts.
+06 / AVIATION: LEIPZIG AIRPORT DRONE BREACH
+German authorities investigate an explosive drone discovery at Leipzig/Halle air cargo hub.
 
-07 / WAREHOUSING: GNC DRONE INVENTORY AUTOMATION
-GNC deploys autonomous drone fleets across 450K square feet of distribution space to automate cycle counts.
+07 / REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION
+US industrial warehouse vacancy falls 7 bps to 7.3% as demand outpaces new facility supply.
 
 ✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
 Stay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.
@@ -32,4 +32,4 @@ For Rate Audit and queries, contact us at +1 862 425 6741.
 [ LIKE • SHARE • FOLLOW ]
 For hourly decoded freight and global logistics signals across the globe.
 
-#SupplyChain #Logistics #FreightForwarding #GlobalTrade #CustomsCompliance #Trucking #OceanFreight #SiyalAir
+#SupplyChain #Logistics #Freight #TradeCompliance #CargoSecurity #Maritime #AirCargo #Ecommerce

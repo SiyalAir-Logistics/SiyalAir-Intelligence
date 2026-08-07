@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT CAPACITY DISRUPTIONS",
+        "hookTitle": "GLOBAL SUPPLY CHAIN SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: USTR SECTION 301 EXPANSION",
-                "teaserTitle": "EQUIPMENT: DTNA EPA 2027 ENGINES",
+                "headline": "SECURITY: CARGO NET THEFT SURGE",
+                "teaserTitle": "TRADE: POLYSILICON TARIFF IMPOSITION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR enforces Section 301 tariffs across 60 trading nations. Importers face immediate cost increases and origin audit requirements."
+                "narration_line": "CargoNet reported $304.6M in Q2 theft losses driven by high-value tech heists. Shippers must enforce stricter identity verification."
             },
             {
                 "slide_index": 2,
-                "headline": "EQUIPMENT: DTNA EPA 2027 ENGINES",
-                "teaserTitle": "PORTS: DP WORLD EUROPEAN RESTRUCTURING",
+                "headline": "TRADE: POLYSILICON TARIFF IMPOSITION",
+                "teaserTitle": "RAIL: PORT VIRGINIA CSX EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "DTNA commits solely to EPA 2027 engines. Fleet operators face higher tractor capital expenditures ahead of new rules."
+                "narration_line": "A 15% tariff on foreign polysilicon starts Dec 4. Clean energy supply chains face rising procurement costs."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: DP WORLD EUROPEAN RESTRUCTURING",
-                "teaserTitle": "REGULATION: FMC DETENTION RULE UPHELD",
+                "headline": "RAIL: PORT VIRGINIA CSX EXPANSION",
+                "teaserTitle": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "DP World cuts 300 European roles to reduce operating costs. Terminal management shifts as transpacific volume patterns alter routes."
+                "narration_line": "Port of Virginia launched direct CSX rail to Indianapolis. The service bypasses Chicago congestion to cut intermodal transit times."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: FMC DETENTION RULE UPHELD",
-                "teaserTitle": "TRUCKING: DATA CENTER CAPACITY DRAIN",
+                "headline": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+                "teaserTitle": "ECOMMERCE: ETSY WORKFORCE REDUCTION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Appeals court upholds FMC detention rules. Carriers cannot penalize shippers when terminal access remains blocked."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation following US sanctions. Rival carriers are rapidly snapping up vessel capacity."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING: DATA CENTER CAPACITY DRAIN",
-                "teaserTitle": "LOGISTICS: GXO B2B STRATEGIC PIVOT",
+                "headline": "ECOMMERCE: ETSY WORKFORCE REDUCTION",
+                "teaserTitle": "AVIATION: LEIPZIG AIRPORT DRONE BREACH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Data center growth consumes 100K truckloads per gigawatt. Specialized flatbed capacity tightens across US freight networks."
+                "narration_line": "Etsy cut 220 jobs following its $1.4B Depop deal with eBay. E-commerce platforms continue restructuring corporate overhead."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS: GXO B2B STRATEGIC PIVOT",
-                "teaserTitle": "WAREHOUSING: GNC DRONE INVENTORY AUTOMATION",
+                "headline": "AVIATION: LEIPZIG AIRPORT DRONE BREACH",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "GXO pivots operational strategy toward high-margin B2B contracts. Industrial warehousing takes priority over retail e-commerce."
+                "narration_line": "German authorities found an explosive drone at Leipzig air cargo hub. European airports are tightening security protocols."
             },
             {
                 "slide_index": 7,
-                "headline": "WAREHOUSING: GNC DRONE INVENTORY AUTOMATION",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "GNC deploys autonomous drones across 450K square feet. Automated inventory counts reduce labor dependency in distribution hubs."
+                "narration_line": "US industrial warehouse vacancy fell to 7.3% in Q2. Strong tenant demand is absorbing modern fulfillment space."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
             }
         ]
     }

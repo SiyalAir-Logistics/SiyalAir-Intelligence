@@ -1,90 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT CAPACITY",
-        "titleBlue": "DISRUPTIONS",
-        "footerSummary": "Customs tariff shifts, equipment emission mandates, and infrastructure capacity drains create acute operational friction across global trade networks."
+        "titleWhite": "GLOBAL SUPPLY CHAIN",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Surging cargo theft, new polysilicon tariffs, and carrier liquidations highlight acute operational security and trade compliance shifts across global networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS: USTR SECTION 301 EXPANSION",
+            "heading": "SECURITY: CARGO NET THEFT SURGE",
             "points": [
-                "The USTR initiates mandatory tariffs on 60 trading nations under Section 301 following the expiration of Section 122 regulations.",
-                "Importers face immediate cost increases across international sourcing channels as compliance mandates enforce strict foreign trade boundaries.",
-                "Supply chain executives are forced to restructure overseas vendor contracts and audit origin documentation to limit punitive duty liabilities.",
-                "Cross-border freight strategies must adapt quickly to prevent prolonged customs holds at primary US ports of entry."
+                "CargoNet reports total theft losses surging to $304.6M in Q2 despite a 14% drop in overall incident reports.",
+                "Targeted heists involving high-value metals and technology shipments drove severe financial spikes across logistics networks.",
+                "Fraudulent schemes and targeted freight interceptions continue to exploit vulnerabilities in brokerage and transit tracking systems.",
+                "Cargo insurers and freight forwarders are enforcing stricter identity verification protocols to prevent high-value cargo losses."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: DTNA EPA 2027 ENGINES",
+            "nextUpTease": "TRADE: POLYSILICON TARIFF IMPOSITION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "EQUIPMENT: DTNA EPA 2027 ENGINES",
+            "heading": "TRADE: POLYSILICON TARIFF IMPOSITION",
             "points": [
-                "Daimler Truck North America commits exclusively to EPA 2027-compliant engines ahead of strict federal nitrogen oxide rules.",
-                "Commercial fleet operators face elevated capital expenditure costs for heavy-duty power units under updated manufacturing standards.",
-                "Freight carriers are accelerating pre-buy procurement programs to secure existing tractor inventory before the regulatory transition.",
-                "Long-haul logistics networks will absorb higher baseline equipment maintenance overhead throughout the compliance rollout."
+                "Executive action establishes a 15% tariff alongside import price floors for foreign polysilicon effective December 4.",
+                "The regulatory mandate targets solar power and semiconductor supply chains to reshore domestic clean energy production.",
+                "Solar panel manufacturers and tech hardware producers face higher raw material procurement costs across primary import routes.",
+                "Procurement teams are rushing to adjust vendor contracts and hedge input costs ahead of the winter tariff deadline."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: DP WORLD EUROPEAN RESTRUCTURING",
+            "nextUpTease": "RAIL: PORT VIRGINIA CSX EXPANSION",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORTS: DP WORLD EUROPEAN RESTRUCTURING",
+            "heading": "RAIL: PORT VIRGINIA CSX EXPANSION",
             "points": [
-                "DP World eliminates 300 corporate and operational positions across its European port networks to streamline terminal management.",
-                "Terminal efficiency drives stem from falling ocean freight margins and shifting Transpacific trade lane allocations.",
-                "Regional container dispatch hubs undergo structural realignment to optimize berth throughput and cut fixed operating overhead.",
-                "Shippers using European gateways must prepare for potential short-term administrative delays during management consolidation."
+                "Port of Virginia launches direct CSX intermodal rail service linking deepwater marine terminals to Indianapolis.",
+                "The direct rail link bypasses traditional Chicago rail interchange bottlenecks, cutting transit times and drayage fees.",
+                "Midwest importers gain streamlined intermodal capacity and reduced container dwell time for ocean freight imports.",
+                "Ocean carriers and regional shippers are rerouting cargo flows to capitalize on direct inland rail connectivity."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: FMC DETENTION RULE UPHELD",
+            "nextUpTease": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REGULATION: FMC DETENTION RULE UPHELD",
+            "heading": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
             "points": [
-                "The US Court of Appeals upholds the FMC ruling requiring container detention fees to serve exclusively as incentives for freight fluidity.",
-                "Ocean carriers and marine terminal operators can no longer levy penal detention charges when terminal access is obstructed.",
-                "Importers gain substantial legal backing to challenge unfair container billing and recover non-compliant fee assessments.",
-                "Global shipping lines are forced to re-engineer billing compliance systems to align with verified equipment availability."
+                "Singapore-registered SeaLead Shipping initiates voluntary liquidation following recent US economic sanctions.",
+                "Competitor ocean carriers are swiftly acquiring the carrier's container fleet and vessel charter contracts.",
+                "Asia-Middle East and Mediterranean trade lanes experience immediate container slot reallocation and booking shifts.",
+                "Cargo owners with active SeaLead bookings are scrambling to secure replacement capacity to mitigate transit delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: DATA CENTER CAPACITY DRAIN",
-            "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "TRUCKING: DATA CENTER CAPACITY DRAIN",
-            "points": [
-                "Rapid US data center construction demands up to 100K truckloads for every single gigawatt of operational capacity added.",
-                "Specialized flatbed and heavy-haul truck capacity is rapidly diverting from industrial manufacturing to tech infrastructure sites.",
-                "Freight spot rates across specialized haul categories face upward pressure as regional carrier fleets shift contract allocations.",
-                "Logistics planners must secure committed flatbed equipment early to avoid severe construction transport bottlenecks."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LOGISTICS: GXO B2B STRATEGIC PIVOT",
+            "nextUpTease": "ECOMMERCE: ETSY WORKFORCE REDUCTION",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -92,30 +75,47 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "LOGISTICS: GXO B2B STRATEGIC PIVOT",
+            "id": 5,
+            "heading": "ECOMMERCE: ETSY WORKFORCE REDUCTION",
             "points": [
-                "GXO Logistics transitions to a global operating model, shifting strategic focus from retail e-commerce toward high-margin B2B contracts.",
-                "The structural overhaul targets operational cost reduction while scaling industrial distribution and enterprise contract logistics.",
-                "Third-party fulfillment centers are undergoing facility rationalization to prioritize predictable industrial supply chain flows.",
-                "Enterprise shippers face new contract pricing structures as 3PL providers demand longer-term margin guarantees."
+                "Etsy reduces its corporate headcount by 12%, laying off 220 employees following its $1.4B Depop divestment to eBay.",
+                "Management clarifies the workforce reduction is aimed at operational efficiency rather than AI-driven labor replacement.",
+                "Marketplace platforms are streamlining corporate overhead to preserve cash margins amid shifting consumer online spend.",
+                "E-commerce logistics operators expect recalibrated fulfillment strategies as platforms optimize cost structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSING: GNC DRONE INVENTORY AUTOMATION",
+            "nextUpTease": "AVIATION: LEIPZIG AIRPORT DRONE BREACH",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AVIATION: LEIPZIG AIRPORT DRONE BREACH",
+            "points": [
+                "German counterterrorism authorities launch a probe after an explosive-laden drone was discovered at Leipzig/Halle Airport.",
+                "The airport serves as a central European air cargo hub, raising immediate physical security concerns for freight operations.",
+                "Security agencies are escalating perimeter monitoring and drone detection systems across major European air freight hubs.",
+                "Air cargo forwarders face potential screening protocol tightens and temporary operational security slowdowns."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "tags": [
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "WAREHOUSING: GNC DRONE INVENTORY AUTOMATION",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "points": [
-                "GNC deploys autonomous drone fleets across 450K square feet of warehouse space to automate cycle counts and inventory audits.",
-                "Aerial automation eliminates manual equipment navigation, significantly reducing labor constraints and increasing count frequency.",
-                "Distribution center workflows gain high-precision inventory visibility without interrupting active picking and packing shifts.",
-                "Retail supply chain operations are establishing new benchmarks for automated inventory control in large-scale facilities."
+                "US industrial real estate vacancy drops 7 bps to 7.3% in Q2 as net tenant demand outpaces new building completions.",
+                "Supply chain operators are absorbing modern warehouse footprint space while new facility construction starts slow.",
+                "Logistics facility rents show signs of floor stabilization following two years of speculative building inventory expansion.",
+                "Warehouse tenants must plan facility expansion strategies early as high-quality fulfillment space availability tightens."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
