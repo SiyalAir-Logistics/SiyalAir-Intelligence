@@ -1,27 +1,27 @@
-🌐 GLOBAL SUPPLY CHAIN SHIFTS
+🌐 GLOBAL FREIGHT NETWORK TURBULENCE
 
 Global supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:
 
-01 / SECURITY: CARGO NET THEFT SURGE
-CargoNet reports $304.6M in Q2 theft losses driven by targeted tech and metal heists.
+01 / TRADE: USTR SECTION 301 TARIFFS
+USTR enacts Section 301 tariffs across 60 trading partners over forced labor issues, triggering immediate customs documentation updates and duty cost increases.
 
-02 / TRADE: POLYSILICON TARIFF IMPOSITION
-The US announces a 15% tariff and price floor on foreign polysilicon effective December 4.
+02 / TRUCKING: DATA CENTER FREIGHT DEMAND
+Rapid AI data center expansion requires 100K truckloads per gigawatt, pulling heavy flatbed transport capacity away from standard commercial freight lanes.
 
-03 / RAIL: PORT VIRGINIA CSX EXPANSION
-Port of Virginia launches direct CSX intermodal service to Indianapolis to bypass Chicago bottlenecks.
+03 / COMPLIANCE: BROKER LIABILITY PRECEDENT
+Courts enforce severe negligent hiring liability against freight brokers following a $604M verdict, pushing 3PLs toward strict AI-driven carrier vetting.
 
-04 / MARITIME: SEALEAD SHIPPING LIQUIDATION
-Singapore-based SeaLead Shipping enters voluntary liquidation following recent US sanctions.
+04 / EQUIPMENT: EPA 2027 ENGINE MANDATE
+DTNA commits exclusively to EPA 2027 low-emission commercial engines, reshaping fleet purchasing schedules and capital expenditure plans.
 
-05 / ECOMMERCE: ETSY WORKFORCE REDUCTION
-Etsy lays off 220 employees after completing its $1.4B Depop transaction with eBay.
+05 / MARITIME: HORMUZ STRAIT TRANSIT FEES
+Global ocean carriers call on the UN and IMO to oppose proposed Hormuz Strait transit tolls to prevent escalating maritime surcharges.
 
-06 / AVIATION: LEIPZIG AIRPORT DRONE BREACH
-German authorities investigate an explosive drone discovery at Leipzig/Halle air cargo hub.
+06 / LOGISTICS: GXO B2B MODEL PIVOT
+GXO Logistics shifts focus to high-margin B2B industrial supply contracts, optimizing warehouse footprint efficiency away from retail e-commerce.
 
-07 / REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION
-US industrial warehouse vacancy falls 7 bps to 7.3% as demand outpaces new facility supply.
+07 / FULFILLMENT: AMAZON B2B TRUCK FLEET
+Amazon Business launches dedicated branded delivery trucks for palletized loading dock drop-offs, intensifying competition in enterprise fulfillment.
 
 ✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
 Stay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.
@@ -32,4 +32,4 @@ For Rate Audit and queries, contact us at +1 862 425 6741.
 [ LIKE • SHARE • FOLLOW ]
 For hourly decoded freight and global logistics signals across the globe.
 
-#SupplyChain #Logistics #Freight #TradeCompliance #CargoSecurity #Maritime #AirCargo #Ecommerce
+#GlobalTrade #Logistics #SupplyChain #Freight #CustomsCompliance #Trucking #OceanFreight #FreightForwarding

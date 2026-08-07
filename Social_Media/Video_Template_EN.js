@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL SUPPLY CHAIN SHIFTS",
+        "hookTitle": "GLOBAL FREIGHT NETWORK TURBULENCE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SECURITY: CARGO NET THEFT SURGE",
-                "teaserTitle": "TRADE: POLYSILICON TARIFF IMPOSITION",
+                "headline": "TRADE: USTR SECTION 301 TARIFFS",
+                "teaserTitle": "TRUCKING: DATA CENTER FREIGHT DEMAND",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "CargoNet reported $304.6M in Q2 theft losses driven by high-value tech heists. Shippers must enforce stricter identity verification."
+                "narration_line": "USTR implements Section 301 tariffs on 60 nations for forced labor. Importers face higher duty fees."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE: POLYSILICON TARIFF IMPOSITION",
-                "teaserTitle": "RAIL: PORT VIRGINIA CSX EXPANSION",
+                "headline": "TRUCKING: DATA CENTER FREIGHT DEMAND",
+                "teaserTitle": "COMPLIANCE: BROKER LIABILITY PRECEDENT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A 15% tariff on foreign polysilicon starts Dec 4. Clean energy supply chains face rising procurement costs."
+                "narration_line": "Data center growth needs 100K truckloads per gigawatt. Trucking capacity is tightening fast across US hubs."
             },
             {
                 "slide_index": 3,
-                "headline": "RAIL: PORT VIRGINIA CSX EXPANSION",
-                "teaserTitle": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+                "headline": "COMPLIANCE: BROKER LIABILITY PRECEDENT",
+                "teaserTitle": "EQUIPMENT: EPA 2027 ENGINE MANDATE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Port of Virginia launched direct CSX rail to Indianapolis. The service bypasses Chicago congestion to cut intermodal transit times."
+                "narration_line": "A $604M court verdict forces strict 3PL carrier vetting rules. Freight brokers face rising liability risks."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
-                "teaserTitle": "ECOMMERCE: ETSY WORKFORCE REDUCTION",
+                "headline": "EQUIPMENT: EPA 2027 ENGINE MANDATE",
+                "teaserTitle": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation following US sanctions. Rival carriers are rapidly snapping up vessel capacity."
+                "narration_line": "DTNA commits solely to EPA 2027 compliant truck engines. Fleet buying costs are set to climb."
             },
             {
                 "slide_index": 5,
-                "headline": "ECOMMERCE: ETSY WORKFORCE REDUCTION",
-                "teaserTitle": "AVIATION: LEIPZIG AIRPORT DRONE BREACH",
+                "headline": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+                "teaserTitle": "LOGISTICS: GXO B2B MODEL PIVOT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Etsy cut 220 jobs following its $1.4B Depop deal with eBay. E-commerce platforms continue restructuring corporate overhead."
+                "narration_line": "Shipping groups fight proposed Hormuz Strait transit fees. Ocean carriers warn of surging fuel surcharges."
             },
             {
                 "slide_index": 6,
-                "headline": "AVIATION: LEIPZIG AIRPORT DRONE BREACH",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "headline": "LOGISTICS: GXO B2B MODEL PIVOT",
+                "teaserTitle": "FULFILLMENT: AMAZON B2B TRUCK FLEET",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "German authorities found an explosive drone at Leipzig air cargo hub. European airports are tightening security protocols."
+                "narration_line": "GXO shifts strategy toward high-margin B2B industrial logistics. Contract logistics space is reorganizing globally."
             },
             {
                 "slide_index": 7,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "headline": "FULFILLMENT: AMAZON B2B TRUCK FLEET",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "US industrial warehouse vacancy fell to 7.3% in Q2. Strong tenant demand is absorbing modern fulfillment space."
+                "narration_line": "Amazon Business rolls out dedicated trucks for palletized loading dock drops. Commercial fulfillment competition heats up."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
             }
         ]
     }

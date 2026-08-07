@@ -1,73 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL SUPPLY CHAIN",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Surging cargo theft, new polysilicon tariffs, and carrier liquidations highlight acute operational security and trade compliance shifts across global networks."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "TURBULENCE",
+        "footerSummary": "New Section 301 tariffs, Hormuz transit fees, and massive data center freight demands threaten global supply chain stability and carrier capacity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SECURITY: CARGO NET THEFT SURGE",
+            "heading": "TRADE: USTR SECTION 301 TARIFFS",
             "points": [
-                "CargoNet reports total theft losses surging to $304.6M in Q2 despite a 14% drop in overall incident reports.",
-                "Targeted heists involving high-value metals and technology shipments drove severe financial spikes across logistics networks.",
-                "Fraudulent schemes and targeted freight interceptions continue to exploit vulnerabilities in brokerage and transit tracking systems.",
-                "Cargo insurers and freight forwarders are enforcing stricter identity verification protocols to prevent high-value cargo losses."
+                "The USTR is enforcing Section 301 tariffs targeting 60 trading partners to address forced labor violations as Section 122 duties expire.",
+                "Importers face immediate cost increases and heightened customs documentation requirements across major international trade lanes.",
+                "Customs brokers are recalibrating automated entry software to ensure strict compliance with newly enacted trade sanctions.",
+                "Global supply chains are adjusting procurement routes to bypass penalized manufacturing hubs and mitigate tariff exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE: POLYSILICON TARIFF IMPOSITION",
+            "nextUpTease": "TRUCKING: DATA CENTER FREIGHT DEMAND",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE: POLYSILICON TARIFF IMPOSITION",
+            "heading": "TRUCKING: DATA CENTER FREIGHT DEMAND",
             "points": [
-                "Executive action establishes a 15% tariff alongside import price floors for foreign polysilicon effective December 4.",
-                "The regulatory mandate targets solar power and semiconductor supply chains to reshore domestic clean energy production.",
-                "Solar panel manufacturers and tech hardware producers face higher raw material procurement costs across primary import routes.",
-                "Procurement teams are rushing to adjust vendor contracts and hedge input costs ahead of the winter tariff deadline."
+                "US data center infrastructure expansion requires 100K truckloads per gigawatt of installed computing capacity.",
+                "The surging demand for heavy specialized transport is drawing significant flatbed and specialized trailer capacity away from standard freight routes.",
+                "Logistics planners warn that regional motor carrier fleets could face acute equipment shortages as tech infrastructure investments surge.",
+                "Shippers are urged to secure multi-year freight contracts to hedge against tightening over-the-road trucking capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: PORT VIRGINIA CSX EXPANSION",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "RAIL: PORT VIRGINIA CSX EXPANSION",
-            "points": [
-                "Port of Virginia launches direct CSX intermodal rail service linking deepwater marine terminals to Indianapolis.",
-                "The direct rail link bypasses traditional Chicago rail interchange bottlenecks, cutting transit times and drayage fees.",
-                "Midwest importers gain streamlined intermodal capacity and reduced container dwell time for ocean freight imports.",
-                "Ocean carriers and regional shippers are rerouting cargo flows to capitalize on direct inland rail connectivity."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
-            "points": [
-                "Singapore-registered SeaLead Shipping initiates voluntary liquidation following recent US economic sanctions.",
-                "Competitor ocean carriers are swiftly acquiring the carrier's container fleet and vessel charter contracts.",
-                "Asia-Middle East and Mediterranean trade lanes experience immediate container slot reallocation and booking shifts.",
-                "Cargo owners with active SeaLead bookings are scrambling to secure replacement capacity to mitigate transit delays."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "ECOMMERCE: ETSY WORKFORCE REDUCTION",
+            "nextUpTease": "COMPLIANCE: BROKER LIABILITY PRECEDENT",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -75,52 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "ECOMMERCE: ETSY WORKFORCE REDUCTION",
+            "id": 3,
+            "heading": "COMPLIANCE: BROKER LIABILITY PRECEDENT",
             "points": [
-                "Etsy reduces its corporate headcount by 12%, laying off 220 employees following its $1.4B Depop divestment to eBay.",
-                "Management clarifies the workforce reduction is aimed at operational efficiency rather than AI-driven labor replacement.",
-                "Marketplace platforms are streamlining corporate overhead to preserve cash margins amid shifting consumer online spend.",
-                "E-commerce logistics operators expect recalibrated fulfillment strategies as platforms optimize cost structures."
+                "Courts are enforcing severe negligent hiring rulings against freight brokers following a landmark $604M legal verdict.",
+                "Third-party logistics providers must institute rigorous carrier vetting processes to verify safety records and insurance credentials.",
+                "Brokerages are adopting AI-driven risk management tools to continuously audit motor carrier authority and safety scores.",
+                "Legal experts predict rising freight insurance premiums and stricter carrier selection standards across the logistics industry."
             ],
             "imageUrl": "",
-            "nextUpTease": "AVIATION: LEIPZIG AIRPORT DRONE BREACH",
+            "nextUpTease": "EQUIPMENT: EPA 2027 ENGINE MANDATE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.freightwaves.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "EQUIPMENT: EPA 2027 ENGINE MANDATE",
+            "points": [
+                "Daimler Truck North America confirmed it will solely build EPA 2027 compliant engines ahead of upcoming NOx emissions standards.",
+                "The commercial vehicle manufacturer is expanding domestic manufacturing footprint to support low-emission heavy truck production.",
+                "Fleet operators face higher equipment acquisition costs and pre-buy fleet management decisions ahead of the 2027 regulatory deadline.",
+                "Carrier capital expenditure strategies are shifting toward clean diesel and alternative powertrain commercial vehicle fleets."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+            "points": [
+                "Global shipping organizations are urging the UN and IMO to block proposed transit fees for Strait of Hormuz maritime passages.",
+                "Regional diplomatic talks threaten to impose financial tolls on commercial tankers and ocean container vessels operating in the gulf.",
+                "Ocean freight carriers warn that transit fees would escalate maritime war risk surcharges and global energy transport costs.",
+                "Maritime operators are evaluating alternative maritime corridors and legal challenges under international sea navigation law."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LOGISTICS: GXO B2B MODEL PIVOT",
+            "tags": [
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AVIATION: LEIPZIG AIRPORT DRONE BREACH",
+            "heading": "LOGISTICS: GXO B2B MODEL PIVOT",
             "points": [
-                "German counterterrorism authorities launch a probe after an explosive-laden drone was discovered at Leipzig/Halle Airport.",
-                "The airport serves as a central European air cargo hub, raising immediate physical security concerns for freight operations.",
-                "Security agencies are escalating perimeter monitoring and drone detection systems across major European air freight hubs.",
-                "Air cargo forwarders face potential screening protocol tightens and temporary operational security slowdowns."
+                "GXO Logistics is restructuring its operational model to focus on high-margin B2B and industrial supply chain contracts.",
+                "The 3PL provider is shifting resources away from volatile retail e-commerce sectors toward long-term industrial logistics.",
+                "Operational restructuring aims to optimize warehouse utilization rates and improve long-term operating profit margins.",
+                "Enterprise industrial clients gain expanded contract logistics capacity and integrated distribution infrastructure across global markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "nextUpTease": "FULFILLMENT: AMAZON B2B TRUCK FLEET",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "heading": "FULFILLMENT: AMAZON B2B TRUCK FLEET",
             "points": [
-                "US industrial real estate vacancy drops 7 bps to 7.3% in Q2 as net tenant demand outpaces new building completions.",
-                "Supply chain operators are absorbing modern warehouse footprint space while new facility construction starts slow.",
-                "Logistics facility rents show signs of floor stabilization following two years of speculative building inventory expansion.",
-                "Warehouse tenants must plan facility expansion strategies early as high-quality fulfillment space availability tightens."
+                "Amazon Business is deploying a dedicated fleet of branded delivery trucks designed for palletized commercial loading dock drops.",
+                "The expanded B2B fulfillment model streamlines consolidated order deliveries for commercial enterprise accounts.",
+                "Traditional LTL motor carriers face increased competition from Amazon's direct commercial delivery infrastructure.",
+                "Business buyers receive predictable drop-off schedules and enhanced shipment visibility for bulk commercial inventory orders."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
