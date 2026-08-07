@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRANSPACIFIC TRADE AND TARIFFS",
+        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "DP WORLD: EUROPEAN RESTRUCTURING",
+                "headline": "PANAMA CANAL: DRAFT RESTRICTIONS",
+                "teaserTitle": "STRAIT OF HORMUZ: TRANSIT PROTOCOLS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Section 301 tariffs become permanent trade policy, forcing U.S. importers to overhaul compliance."
+                "narration_line": "Panama Canal draft limits force ocean carriers to reduce vessel loads. Shippers face tighter slot capacity on US East Coast routes."
             },
             {
                 "slide_index": 2,
-                "headline": "DP WORLD: EUROPEAN RESTRUCTURING",
-                "teaserTitle": "CEVA LOGISTICS: EUROPEAN CYBERATTACK",
+                "headline": "STRAIT OF HORMUZ: TRANSIT PROTOCOLS",
+                "teaserTitle": "FLEET MANUFACTURING: DTNA EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "DP World cuts 300 jobs in a major European operational restructuring of commercial management."
+                "narration_line": "Iran and Oman advance talks on Strait of Hormuz transit protocols. Global energy supply chains prepare for elevated maritime risk."
             },
             {
                 "slide_index": 3,
-                "headline": "CEVA LOGISTICS: EUROPEAN CYBERATTACK",
-                "teaserTitle": "TRANSPACIFIC: CHINA EXPORT FRONTLOADING",
+                "headline": "FLEET MANUFACTURING: DTNA EXPANSION",
+                "teaserTitle": "TRADE COMPLIANCE: VAN TRAILER DUTIES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A severe cyberattack disrupts 8 Ceva Logistics European e-commerce fulfillment warehouses."
+                "narration_line": "Daimler Truck announces a major US manufacturing plant opening in 2029. Fleet operators gain long-term capacity for Class 8 vehicles."
             },
             {
                 "slide_index": 4,
-                "headline": "TRANSPACIFIC: CHINA EXPORT FRONTLOADING",
-                "teaserTitle": "AIR CARGO: AI DATA CENTER DEMAND",
+                "headline": "TRADE COMPLIANCE: VAN TRAILER DUTIES",
+                "teaserTitle": "WAREHOUSE AUTOMATION: GNC DRONE COUNTS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "China exports surge 23% in July as shippers frontload cargo ahead of tariff hikes."
+                "narration_line": "US authorities impose antidumping duties on Mexican and Canadian van trailers. Logistics providers face higher capital costs for fleet expansion."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: AI DATA CENTER DEMAND",
-                "teaserTitle": "GXO LOGISTICS: GLOBAL OPERATING MODEL",
+                "headline": "WAREHOUSE AUTOMATION: GNC DRONE COUNTS",
+                "teaserTitle": "INTERMODAL FREIGHT: PORT OF VIRGINIA",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "AI data center expansions drive heavy transpacific air cargo demand and tight capacity."
+                "narration_line": "GNC deploys automated inventory drones across its 450K square foot warehouse. Autonomous robotics drastically reduce cycle count labor."
             },
             {
                 "slide_index": 6,
-                "headline": "GXO LOGISTICS: GLOBAL OPERATING MODEL",
-                "teaserTitle": "RETAIL DIVE: TARIFF REFUND MONETIZATION",
+                "headline": "INTERMODAL FREIGHT: PORT OF VIRGINIA",
+                "teaserTitle": "INFRASTRUCTURE: TEHUANTEPEC CORRIDOR",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "GXO Logistics transitions to a unified global operating model to accelerate B2B growth."
+                "narration_line": "Port of Virginia launches direct CSX intermodal rail service to Indianapolis. Shippers secure faster inland container transit to the Midwest."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL DIVE: TARIFF REFUND MONETIZATION",
-                "teaserTitle": "",
+                "headline": "INFRASTRUCTURE: TEHUANTEPEC CORRIDOR",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Retailers monetize potential government tariff refunds on a secondary market for quick cash."
+                "narration_line": "Mexico commits $2.2B to expand the Interoceanic Corridor in Oaxaca. The project establishes a strategic land-bridge alternative to Panama."
             },
             {
                 "slide_index": 8,

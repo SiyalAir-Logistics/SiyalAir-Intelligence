@@ -1,107 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRANSPACIFIC TRADE AND",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "Permanent Section 301 tariffs, DP World workforce restructuring, European warehouse cyberattacks, and transpacific cargo frontloading escalate supply chain friction."
+        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "Panama draft limits, Hormuz transit friction, Mexican corridor investments, and trailer tariffs trigger widespread operational rerouting across international supply networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFFS",
+            "heading": "PANAMA CANAL: DRAFT RESTRICTIONS",
             "points": [
-                "Importers must prepare for a prolonged regulatory era as Section 301 tariffs become permanent fixtures of U.S. trade policy.",
-                "Stricter customs enforcement and heightened compliance audits are reshaping operational risk profiles for cross-border supply chains.",
-                "Global sourcing strategies face continuous structural adjustments as federal trade restrictions impact international manufacturing networks.",
-                "Procurement teams must integrate long-term tariff forecasting directly into enterprise inventory financial planning models."
+                "Panama Canal authorities have instituted late-summer vessel draft limitations due to persistent regional hydrological constraints.",
+                "Maximum allowable drafts constrain vessel loads, reducing effective slot capacity for container ships bound for U.S. East and Gulf Coast ports.",
+                "Ocean carriers are re-evaluating cargo allocation and adjusting stowage factors to mitigate weight-driven capacity reductions during peak shipping season.",
+                "Importers should anticipate potential rate adjustments and localized transit delays as carriers re-route heavy cargo to alternative lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "DP WORLD: EUROPEAN RESTRUCTURING",
+            "nextUpTease": "STRAIT OF HORMUZ: TRANSIT PROTOCOLS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DP WORLD: EUROPEAN RESTRUCTURING",
+            "heading": "STRAIT OF HORMUZ: TRANSIT PROTOCOLS",
             "points": [
-                "DP World is undertaking a major European operational restructuring, eliminating 300 jobs and updating senior commercial management.",
-                "The corporate reorganization reflects broader cost optimization initiatives across key marine terminal and logistics hubs.",
-                "Regional port fluidity could experience temporary administrative bottlenecks as consolidated management structures take effect.",
-                "Terminal operators across Europe are under intense pressure to streamline overhead and maximize asset utilization efficiency."
+                "Iran and Oman advance negotiations on a structured transit protocol governing commercial vessel movements through the Strait of Hormuz.",
+                "Uncertainty around maritime security and potential transit fee structures threatens energy supply chains and global tanker throughput.",
+                "Energy logistics operators are establishing emergency contingency routes and revising risk premiums for Middle Eastern maritime trade lanes.",
+                "Shippers must prepare for heightened crude price volatility and temporary freight surcharge adjustments across global ocean routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "CEVA LOGISTICS: EUROPEAN CYBERATTACK",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "CEVA LOGISTICS: EUROPEAN CYBERATTACK",
-            "points": [
-                "A sophisticated cyberattack on Ceva Logistics has disrupted operations across eight major European e-commerce fulfillment warehouses.",
-                "IT security teams are racing to patch system vulnerabilities and fully restore automated order processing capabilities for retailers.",
-                "Digital supply chain disruptions highlight the critical vulnerability of centralized warehouse management networks to cyber threats.",
-                "Logistics providers are urgently upgrading their endpoint security and contingency routing protocols to protect client inventories."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRANSPACIFIC: CHINA EXPORT FRONTLOADING",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "TRANSPACIFIC: CHINA EXPORT FRONTLOADING",
-            "points": [
-                "China's export volumes jumped 23% in July, fueled by aggressive frontloading of transpacific goods ahead of pending tariff hikes.",
-                "Ocean carriers report surging container spot rates and tight vessel utilization across major Asia-North America trade lanes.",
-                "U.S. importers are accelerating cargo dispatches to bypass predicted cost increases and mitigate upcoming inventory deficits.",
-                "Port terminals on the West Coast face sudden volume surges that threaten to induce localized yard congestion."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR CARGO: AI DATA CENTER DEMAND",
-            "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AIR CARGO: AI DATA CENTER DEMAND",
-            "points": [
-                "Rapid infrastructure expansions for AI data centers are generating unprecedented air freight demand on transpacific routes.",
-                "Freight forwarders are capitalizing on high-yield technology charters while warning that current market momentum resembles a bubble.",
-                "Airlines report robust international cargo yields driven by specialized hardware shipments and accelerated delivery timelines.",
-                "Supply chain planners must secure air cargo space well in advance to support critical technology deployment schedules."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "GXO LOGISTICS: GLOBAL OPERATING MODEL",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "GXO LOGISTICS: GLOBAL OPERATING MODEL",
-            "points": [
-                "GXO Logistics is shifting to a unified global operating model to drive cross-border growth and streamline contract logistics.",
-                "The structural pivot aims to optimize warehousing assets and accelerate business-to-business operational efficiencies worldwide.",
-                "Contract logistics providers are increasingly modernizing their corporate frameworks to better support complex supply chains.",
-                "Enterprise clients can expect enhanced standardization and scalable automation integrations across multi-region facilities."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RETAIL DIVE: TARIFF REFUND MONETIZATION",
+            "nextUpTease": "FLEET MANUFACTURING: DTNA EXPANSION",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -109,18 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "RETAIL DIVE: TARIFF REFUND MONETIZATION",
+            "id": 3,
+            "heading": "FLEET MANUFACTURING: DTNA EXPANSION",
             "points": [
-                "A secondary financial market has emerged for major retailers to monetize potential government tariff refunds for immediate cash.",
-                "Companies like American Eagle Outfitters are selling rights to retroactive duty payouts to secure short-term liquidity.",
-                "Financial officers are leveraging creative asset-backed transactions to offset macroeconomic pressures and supply chain costs.",
-                "Industry analysts anticipate broader adoption of tariff monetization strategies as trade litigation drag times persist."
+                "Daimler Truck North America commits to constructing its largest U.S. commercial truck manufacturing facility, set to open in 2029.",
+                "The multi-million-dollar facility expansion aims to scale domestic production capacity for Class 8 heavy-duty commercial freight vehicles.",
+                "Long-term fleet replacement strategy shifts toward domestic manufacturing resiliency to offset global supply chain disruptions and component bottlenecks.",
+                "Motor carriers will gain enhanced access to standardized fleet assets, supporting fleet modernization and EPA regulatory compliance."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRADE COMPLIANCE: VAN TRAILER DUTIES",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "TRADE COMPLIANCE: VAN TRAILER DUTIES",
+            "points": [
+                "The U.S. Department of Commerce has issued antidumping duties on dry and refrigerated van trailers imported from Canada and Mexico.",
+                "The regulatory action imposes immediate tariff liabilities on equipment importers, elevating capital expenditures for trailer fleet procurement.",
+                "Equipment manufacturers in North America face restructuring in cross-border supply chains for specialized logistics hardware.",
+                "Transport companies should expect increased equipment acquisition costs, accelerating maintenance cycles on existing trailer fleets."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "WAREHOUSE AUTOMATION: GNC DRONE COUNTS",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "WAREHOUSE AUTOMATION: GNC DRONE COUNTS",
+            "points": [
+                "Health retailer GNC deploys fully autonomous inventory drones across its 450K square foot primary distribution hub.",
+                "Automated aerial cycle counts significantly reduce manual labor hours and equipment utilization needed for high-bay warehouse verification.",
+                "Warehouse operators are shifting toward physical AI and autonomous robotics to mitigate chronic warehouse labor shortages.",
+                "Enterprise fulfillment operations adopting autonomous drone auditing will achieve near real-time inventory accuracy and higher throughput."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "INTERMODAL FREIGHT: PORT OF VIRGINIA",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "INTERMODAL FREIGHT: PORT OF VIRGINIA",
+            "points": [
+                "The Port of Virginia has launched direct CSX rail intermodal service connecting port terminals to key Midwest hubs in Indianapolis.",
+                "The direct rail corridor accelerates container velocity, offering a fast inland bypass for East Coast ocean freight.",
+                "Midwest shippers gain expanded options for hinterland connectivity, reducing reliance on long-haul drayage trucking networks.",
+                "Supply chain planners can optimize inland freight costs by leveraging integrated rail services for transpacific and transatlantic imports."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "INFRASTRUCTURE: TEHUANTEPEC CORRIDOR",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "INFRASTRUCTURE: TEHUANTEPEC CORRIDOR",
+            "points": [
+                "Mexico announces a $2.2B infrastructure allocation in Oaxaca to expand the Interoceanic Corridor of the Isthmus of Tehuantepec.",
+                "The capital investment funds rail upgrades, port modernization, and industrial parks along the strategic land-bridge trade route.",
+                "The corridor provides a dedicated interoceanic alternative to the Panama Canal for cross-border global trade flows.",
+                "Logistics developers and nearshoring manufacturers will gain accelerated access to Gulf and Pacific maritime entry points."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
