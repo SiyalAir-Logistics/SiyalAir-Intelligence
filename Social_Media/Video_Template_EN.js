@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT ARCHITECTURE SHIFTS",
+        "hookTitle": "GLOBAL TRADE TARIFFS SURGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: POLYSILICON IMPORT DUTIES",
+                "headline": "TARIFFS: POLYSILICON IMPORT LEVIES",
                 "teaserTitle": "SECURITY: CARGO LOSSES HIT $304M",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A 15% tariff on polysilicon takes effect Dec 4. Tech supply chains face immediate component cost surges."
+                "narration_line": "New 15% polysilicon tariffs take effect Dec 4, driving mandatory semiconductor supply chain sourcing realignments."
             },
             {
                 "slide_index": 2,
                 "headline": "SECURITY: CARGO LOSSES HIT $304M",
-                "teaserTitle": "RAIL: VIRGINIA DIRECT CSX SERVICE",
+                "teaserTitle": "MARITIME: SEALEAD LIQUIDATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Q2 cargo theft losses surged to $304.6M across North America. Criminal networks targeted high-value tech shipments."
+                "narration_line": "CargoNet reports Q2 freight theft losses surged to $304M due to sophisticated identity fraud schemes."
             },
             {
                 "slide_index": 3,
-                "headline": "RAIL: VIRGINIA DIRECT CSX SERVICE",
-                "teaserTitle": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+                "headline": "MARITIME: SEALEAD LIQUIDATION",
+                "teaserTitle": "PORTS: DP WORLD EUROPE OVERHAUL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Port of Virginia launched direct CSX rail service to Indianapolis. Transit times drop by up to 48 hours."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation after sanctions, forcing rivals to snap up stranded vessel assets."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
-                "teaserTitle": "FINANCE: SECONDARY TARIFF MONETIZATION",
+                "headline": "PORTS: DP WORLD EUROPE OVERHAUL",
+                "teaserTitle": "RAIL: VIRGINIA CSX EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation following US sanctions. Rival carriers rapidly acquired its vessel assets."
+                "narration_line": "DP World is axing 300 roles to revamp European terminal operations and streamline logistics gateways."
             },
             {
                 "slide_index": 5,
-                "headline": "FINANCE: SECONDARY TARIFF MONETIZATION",
-                "teaserTitle": "E-COMMERCE: EBAY CLOSES DEPOP DEAL",
+                "headline": "RAIL: VIRGINIA CSX EXPANSION",
+                "teaserTitle": "INFRASTRUCTURE: MEXICO OAXACA PLAN",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Retailers are selling tariff refund rights to secondary investors for immediate cash. Monetized trade claims bolster working capital."
+                "narration_line": "The Port of Virginia added direct CSX rail service to Indianapolis, cutting 48 hours of transit delays."
             },
             {
                 "slide_index": 6,
-                "headline": "E-COMMERCE: EBAY CLOSES DEPOP DEAL",
-                "teaserTitle": "INFRASTRUCTURE: MEXICO $2.2B LOGISTICS PLAN",
+                "headline": "INFRASTRUCTURE: MEXICO OAXACA PLAN",
+                "teaserTitle": "E-COMMERCE: ETSY DEPOP DIVESTMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "eBay completed its $1.4B acquisition of Depop from Etsy. Etsy cut 220 jobs to streamline operations."
+                "narration_line": "Mexico announced a $2.2B infrastructure package to upgrade Oaxaca transport links and border crossings."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: MEXICO $2.2B LOGISTICS PLAN",
+                "headline": "E-COMMERCE: ETSY DEPOP DIVESTMENT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mexico launched a $2.2B infrastructure plan for border crossings. Upgraded highway corridors will cut truck dwell times."
+                "narration_line": "Etsy slashed 220 jobs following a $1.4B cash infusion from eBay for the Depop marketplace acquisition."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
             }
         ]
     }
