@@ -1,27 +1,27 @@
-🌐 GLOBAL FREIGHT NETWORK SHIFTS
+🌐 GLOBAL FREIGHT BOTTLENECK PRESSURES
 
 Global supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:
 
-01 / CYBERSECURITY: CARGO THEFT FRAUD
-Federal prosecutors indicted 8 individuals operating a complex cyber-theft network targeting US freight brokers.
+01 / MARITIME: DETENTION FEE RULING
+US Court of Appeals upholds FMC mandate that container detention fees must actively promote freight fluidity.
 
-02 / POSTAL: PARCEL SURCHARGE LEVY
-The US Postal Service introduced new parcel surcharges, pushing quarterly postal revenue to $20B despite net losses.
+02 / RAIL: VIRGINIA INLAND SHIFT
+Port of Virginia and CSX launch direct intermodal rail to Indianapolis, cutting Midwest transit times by 48 hours.
 
-03 / MARITIME: TERMINAL EXPANSION
-A major Asian ocean carrier committed $135M to expand container terminal infrastructure across primary US port gateways.
+03 / CARRIER: SEALEAD LINE LIQUIDATION
+SeaLead Shipping enters voluntary liquidation following US sanctions, shuttering core Asia-Mediterranean trade routes.
 
-04 / EQUIPMENT: DTNA EMISSIONS MANDATE
-Daimler Truck North America confirmed absolute compliance with upcoming EPA 2027 zero-emission and heavy-duty engine standards.
+04 / TRUCKING: DATA CENTER DEMAND
+Surging AI data center construction requires 100K truckloads per gigawatt, consuming specialized truckload capacity.
 
-05 / ECOMMERCE: TITLE LENGTH RESTRICTION
-Amazon instituted a strict 75-character ceiling on product titles across seller catalog listings and internal inventory.
+05 / TRADE: POLYSILICON IMPORT DUTIES
+US administration imposes a 15% tariff and price floor on imported polysilicon for solar and microchips effective Dec 4.
 
-06 / USTR: SECTION 301 TARIFFS
-The USTR expanded Section 301 tariffs targeting 60 trading nations as temporary Section 122 duty exemptions expired.
+06 / GEO-LOGISTICS: HORMUZ TRANSIT TOLLS
+Proposed Strait of Hormuz transit fees spark UN and IMO intervention requests from international shipping bodies.
 
-07 / INLAND: RHINE WATERWAY DISRUPTION
-Record-low water levels along the Rhine River severely restricted barge draft depth and cargo intake capacity.
+07 / CANAL: PANAMA DRAFT RESTRICTIONS
+Panama Canal draft restrictions limit cargo intake for container vessels bound for US East and Gulf Coast ports.
 
 ✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
 Stay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.
@@ -32,4 +32,4 @@ For Rate Audit and queries, contact us at +1 862 425 6741.
 [ LIKE • SHARE • FOLLOW ]
 For hourly decoded freight and global logistics signals across the globe.
 
-#CargoTheft #LogisticsNews #SupplyChain #USPS #Tariffs #Shipping #FreightForwarding #GlobalTrade
+#GlobalTrade #LogisticsIntelligence #SupplyChain #OceanFreight #Intermodal #CustomsCompliance #FreightWaves #SiyalAir

@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Section 301 tariff expansion, widespread parcel surcharges, and rising cargo cyber-theft force immediate structural supply chain realignments."
+        "titleWhite": "GLOBAL FREIGHT BOTTLENECK",
+        "titleBlue": "PRESSURES",
+        "footerSummary": "Upheld FMC fee rulings, new polysilicon tariffs, and data center capacity draws force immediate operational supply chain recalibrations globally."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CYBERSECURITY: CARGO THEFT FRAUD",
+            "heading": "MARITIME: DETENTION FEE RULING",
             "points": [
-                "Federal prosecutors indicted 8 individuals operating a complex cyber-theft network targeting US freight brokers.",
-                "The criminal syndicate stole $4.49M in commercial retail goods using hacked corporate credentials and fraudulent carrier dispatches.",
-                "Logistics intermediaries face mounting cyber liabilities as fraudulent identity impersonation incidents surge across domestic spot markets.",
-                "Brokerages must rapidly implement multi-factor authentication and real-time credential verification protocols to secure freight assets."
+                "The US Court of Appeals upheld a landmark Federal Maritime Commission decision mandating ocean carrier detention fees promote actual freight fluidity.",
+                "Billing practices that penalize shippers during unpreventable port congestion or gate closures were ruled invalid under federal shipping law.",
+                "Ocean common carriers must immediately revise billing structures and dispute management mechanisms to comply with federal fluidity standards.",
+                "Importers gain substantial legal leverage to challenge unreasonable demurrage and detention charges across domestic container terminals."
             ],
             "imageUrl": "",
-            "nextUpTease": "POSTAL: PARCEL SURCHARGE LEVY",
+            "nextUpTease": "RAIL: VIRGINIA INLAND SHIFT",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "POSTAL: PARCEL SURCHARGE LEVY",
+            "heading": "RAIL: VIRGINIA INLAND SHIFT",
             "points": [
-                "The US Postal Service introduced new parcel surcharges, pushing quarterly postal revenue to $20B despite net losses.",
-                "The rate adjustments increase shipping expenses by $2 to $3 per lightweight parcel targeting high-cost delivery routes.",
-                "E-commerce merchants and marketplace sellers are absorbing escalating last-mile transport fees across core fulfillment channels.",
-                "Shippers must audit postal rate cards and adjust parcel routing models to minimize last-mile surcharge exposure."
+                "The Port of Virginia partnered with CSX Transportation to launch direct intermodal rail service linking coastal terminals directly to Indianapolis.",
+                "The direct rail corridor bypasses traditional Chicago hub congestion, reducing transit times for Midwestern import cargo by up to 48 hours.",
+                "Direct rail routing reduces regional drayage dependency while optimizing container turnaround times across Eastern Seaboard port gates.",
+                "Midwest logistics planners can leverage direct rail capacity to cut drayage overhead and insulate supply chains from highway delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: TERMINAL EXPANSION",
+            "nextUpTease": "CARRIER: SEALEAD LINE LIQUIDATION",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: TERMINAL EXPANSION",
+            "heading": "CARRIER: SEALEAD LINE LIQUIDATION",
             "points": [
-                "A major Asian ocean carrier committed $135M to expand container terminal infrastructure across primary US port gateways.",
-                "The capital deployment aims to increase berth throughput and container handling capacity ahead of peak import volumes.",
-                "Ocean carriers continue investing directly in terminal operations to secure dedicated berth priority and bypass port congestion.",
-                "Logistics planners should align carrier contracts with terminal-owning operators to ensure consistent gate velocity."
+                "Singapore-based ocean carrier SeaLead Shipping entered voluntary liquidation following the financial impact of recently imposed US trade sanctions.",
+                "The carrier immediately ceased core container services connecting Asia to Middle East, Mediterranean, and Baltic maritime trade corridors.",
+                "Rival ocean lines are rapidly absorbing SeaLead's vessel charters and container assets to capture displaced regional cargo volumes.",
+                "Shippers operating on Asia-Mediterranean lanes must urgently rebook container capacity with surviving alliance carriers to prevent severe delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: DTNA EMISSIONS MANDATE",
+            "nextUpTease": "TRUCKING: DATA CENTER DEMAND",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "EQUIPMENT: DTNA EMISSIONS MANDATE",
+            "heading": "TRUCKING: DATA CENTER DEMAND",
             "points": [
-                "Daimler Truck North America confirmed absolute compliance with upcoming EPA 2027 zero-emission and heavy-duty engine standards.",
-                "The OEM announced plans to construct a major U.S. commercial vehicle manufacturing facility slated for operational launch by 2029.",
-                "Fleet operators face rising equipment acquisition costs and pre-buy pressures ahead of strict federal emissions enforcement.",
-                "Carriers must restructure fleet replacement cycles to manage capital expenditure shifts driven by environmental mandates."
+                "Surging AI data center construction across the US is draining domestic truckload capacity, requiring 100K truckloads per gigawatt built.",
+                "Heavy specialized flatbed and open-deck freight equipment are being redirected away from standard industrial manufacturing corridors.",
+                "The massive equipment draw creates localized spot market capacity deficits, driving up freight rates across key regional construction hubs.",
+                "Industrial shippers must secure long-term dedicated trucking contracts to shield operations from escalating AI infrastructure competition."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE: TITLE LENGTH RESTRICTION",
+            "nextUpTease": "TRADE: POLYSILICON IMPORT DUTIES",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ECOMMERCE: TITLE LENGTH RESTRICTION",
+            "heading": "TRADE: POLYSILICON IMPORT DUTIES",
             "points": [
-                "Amazon instituted a strict 75-character ceiling on product titles across seller catalog listings and internal inventory.",
-                "The policy enforcement impacts search engine indexing and product display formatting across third-party storefronts.",
-                "Marketplace brands must systematically rewrite product listings to comply with automated title truncation algorithms.",
-                "E-commerce operators should perform catalog audits immediately to prevent search suppressed inventory listings."
+                "The US administration issued a proclamation imposing a 15% tariff alongside a strict import price floor on polysilicon imports.",
+                "The regulatory trade action specifically targets critical raw material inputs for semiconductor fabrication and solar panel manufacturing.",
+                "Importers of solar components and microchips face immediate landed cost increases and heightened customs valuation auditing starting Dec 4.",
+                "Technology supply chain executives must re-map raw material procurement pipelines to verify origin compliance and minimize tariff liability."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: SECTION 301 TARIFFS",
+            "nextUpTease": "GEO-LOGISTICS: HORMUZ TRANSIT TOLLS",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "USTR: SECTION 301 TARIFFS",
+            "heading": "GEO-LOGISTICS: HORMUZ TRANSIT TOLLS",
             "points": [
-                "The USTR expanded Section 301 tariffs targeting 60 trading nations as temporary Section 122 duty exemptions expired.",
-                "The regulatory move enforces strict forced-labor compliance checks and increases import duty burdens on global manufactures.",
-                "Importers face heightened customs scrutiny, mandatory supply chain tracing, and escalating landed cost profiles.",
-                "Trade compliance managers must re-audit foreign vendor sourcing trees to mitigate unexpected tariff liabilities."
+                "Bilateral discussions between Iran and Oman regarding proposed transit tolls in the Strait of Hormuz triggered global maritime opposition.",
+                "International shipping bodies called upon the UN and IMO to intervene, citing free navigation rights under international maritime law.",
+                "The potential imposition of transit fees threatens to increase bunker surcharges and operational costs for tanker and container vessels.",
+                "Global logistics managers must monitor Persian Gulf routing economics as geopolitical friction threatens key energy and container chokepoints."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND: RHINE WATERWAY DISRUPTION",
+            "nextUpTease": "CANAL: PANAMA DRAFT RESTRICTIONS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INLAND: RHINE WATERWAY DISRUPTION",
+            "heading": "CANAL: PANAMA DRAFT RESTRICTIONS",
             "points": [
-                "Record-low water levels along the Rhine River severely restricted barge draft depth and cargo intake capacity.",
-                "The environmental disruption pushed inland freight rates higher while forcing raw materials onto constrained rail networks.",
-                "European manufacturing hubs face severe supply chain bottlenecks as inland modal shift capacity remains constrained.",
-                "Supply chain managers must diversify inland transport routing and secure contingent trucking assets to maintain flow."
+                "Enforced Panama Canal draft limitations are reducing maximum container intake capacity for vessels bound for US East and Gulf Coast ports.",
+                "Ocean carriers are implementing weight restrictions and light-loading protocols to navigate restricted transit depths safely.",
+                "The draft restrictions risk shifting cargo volume back toward US West Coast ports or requiring additional vessel deployments to maintain throughput.",
+                "Supply chain leaders must recalculate landed costs and container weight allocations for East Coast-bound ocean shipments."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

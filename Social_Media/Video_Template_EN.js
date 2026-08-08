@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK SHIFTS",
+        "hookTitle": "GLOBAL FREIGHT BOTTLENECK PRESSURES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CYBERSECURITY: CARGO THEFT FRAUD",
-                "teaserTitle": "POSTAL: PARCEL SURCHARGE LEVY",
+                "headline": "MARITIME: DETENTION FEE RULING",
+                "teaserTitle": "RAIL: VIRGINIA INLAND SHIFT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Federal prosecutors indicted 8 individuals in a $4.49M cyber-theft ring targeting US freight brokers with hacked credentials."
+                "narration_line": "Appeals Court upheld FMC detention rules to promote freight fluidity. Ocean carriers must end invalid fee practices immediately."
             },
             {
                 "slide_index": 2,
-                "headline": "POSTAL: PARCEL SURCHARGE LEVY",
-                "teaserTitle": "MARITIME: TERMINAL EXPANSION",
+                "headline": "RAIL: VIRGINIA INLAND SHIFT",
+                "teaserTitle": "CARRIER: SEALEAD LINE LIQUIDATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "USPS introduced new parcel surcharges to push quarterly revenue to $20B, raising package delivery fees by up to $3."
+                "narration_line": "CSX and Port of Virginia opened direct rail to Indianapolis. The route cuts transit times by 48 hours bypassing Chicago hubs."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: TERMINAL EXPANSION",
-                "teaserTitle": "EQUIPMENT: DTNA EMISSIONS MANDATE",
+                "headline": "CARRIER: SEALEAD LINE LIQUIDATION",
+                "teaserTitle": "TRUCKING: DATA CENTER DEMAND",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "An Asian ocean carrier committed $135M to expand US terminal operations, securing dedicated berth capacity for peak volumes."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation following US sanctions. Rival carriers are absorbing assets across 3 trade lanes."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: DTNA EMISSIONS MANDATE",
-                "teaserTitle": "ECOMMERCE: TITLE LENGTH RESTRICTION",
+                "headline": "TRUCKING: DATA CENTER DEMAND",
+                "teaserTitle": "TRADE: POLYSILICON IMPORT DUTIES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Daimler Truck committed to EPA 2027 engine rules and announced a new US manufacturing plant launching by 2029."
+                "narration_line": "US data center growth demands 100K truckloads per gigawatt built. Flatbed capacity shifts are tightening spot market rates."
             },
             {
                 "slide_index": 5,
-                "headline": "ECOMMERCE: TITLE LENGTH RESTRICTION",
-                "teaserTitle": "USTR: SECTION 301 TARIFFS",
+                "headline": "TRADE: POLYSILICON IMPORT DUTIES",
+                "teaserTitle": "GEO-LOGISTICS: HORMUZ TRANSIT TOLLS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon enforced a strict 75-character limit on product titles across all marketplace listings to streamline indexing."
+                "narration_line": "The US announced a 15% tariff and price floor on polysilicon imports. Tech supply chains face higher costs starting Dec 4."
             },
             {
                 "slide_index": 6,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "INLAND: RHINE WATERWAY DISRUPTION",
+                "headline": "GEO-LOGISTICS: HORMUZ TRANSIT TOLLS",
+                "teaserTitle": "CANAL: PANAMA DRAFT RESTRICTIONS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The USTR expanded Section 301 tariffs across 60 trading nations, triggering stricter forced-labor compliance checks."
+                "narration_line": "Iran and Oman transit fee talks in Hormuz sparked UN and IMO calls. Global shipping groups demand open passage without extra tolls."
             },
             {
                 "slide_index": 7,
-                "headline": "INLAND: RHINE WATERWAY DISRUPTION",
+                "headline": "CANAL: PANAMA DRAFT RESTRICTIONS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Record-low Rhine River levels restricted European barge capacity, driving inland freight rates up and congesting rail routes."
+                "narration_line": "Panama Canal draft limits force cargo intake cuts on East Coast routes. Shippers must recalibrate container weights and vessel schedules."
             },
             {
                 "slide_index": 8,
