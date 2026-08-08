@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF",
-        "titleBlue": "ESCALATION",
-        "footerSummary": "New administration tariffs, regional naval tensions, and court challenges trigger sweeping cost adjustments across transpacific logistics channels."
+        "titleWhite": "GLOBAL LOGISTICS REALIGNMENT",
+        "titleBlue": "SIGNALS",
+        "footerSummary": "Polysilicon tariffs, Black Sea maritime delays, and massive legal liability verdicts force urgent operational realignments across global trade and freight networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFFS: POLYSILICON LEVIES DEPLOYED",
+            "heading": "TARIFFS: POLYSILICON IMPORT DUTIES",
             "points": [
-                "The executive branch issued a binding proclamation establishing a 15% tariff on polysilicon imports.",
-                "An enforced import price floor accompanies the levy to protect domestic semiconductor and solar supply chains.",
-                "Implementation begins Dec. 4, forcing renewable energy manufacturers to reassess long-term procurement models.",
-                "Supply chain planners must model increased component costs across high-tech manufacturing import lines."
+                "The US administration announced a 15% tariff and strict import price floor on polysilicon imports required for solar panels and semiconductor chips.",
+                "Set to take effect Dec 4, the trade measure aims to protect domestic energy manufacturing and curb foreign market reliance.",
+                "Supply chain procurement teams must adjust sourcing budgets as raw component costs rise across technology supply chains.",
+                "Importers should conduct immediate tariff audits to evaluate exposure and mitigate potential margin compression."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: FORCED LABOR LAWSUIT",
+            "nextUpTease": "INTERMODAL: VIRGINIA INDIANAPOLIS RAIL",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -25,15 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "COMPLIANCE: FORCED LABOR LAWSUIT",
+            "heading": "INTERMODAL: VIRGINIA INDIANAPOLIS RAIL",
             "points": [
-                "A coalition of 25 state attorneys general filed a joint federal lawsuit against Section 301 forced-labor tariffs.",
-                "The legal action challenges the executive duties as an unlawful workaround following prior Supreme Court rulings.",
-                "Importers face ongoing regulatory uncertainty regarding origin verification and federal compliance enforcement.",
-                "Corporate legal teams must monitor multi-state litigation outcomes to adjust customs exposure strategies."
+                "The Port of Virginia launched direct CSX intermodal rail service linking deepwater marine terminals directly to Indianapolis.",
+                "The rail link eliminates the requirement to route Midwest-bound containerized cargo through congested Chicago rail interchanges.",
+                "This operational bypass reduces transit times by up to 48 hours while lowering regional drayage costs for shippers.",
+                "Logistics planners should revise Midwest routing options to leverage direct East Coast rail corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ TRANSIT STRIFE",
+            "nextUpTease": "MARITIME: BLACK SEA SHIPPING DELAYS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -42,85 +42,85 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MARITIME: HORMUZ TRANSIT STRIFE",
+            "heading": "MARITIME: BLACK SEA SHIPPING DELAYS",
             "points": [
-                "Regional geopolitical tensions escalated further as Middle Eastern authorities reported targeted missile strikes on commercial shipping.",
-                "International maritime groups continue pressing global bodies to guarantee unhindered passage through the Strait of Hormuz.",
-                "Persistent security threats drive marine insurance premiums higher and necessitate continuous route optimization.",
-                "Ocean carriers should maintain contingency protocols to divert vessels away from high-risk geopolitical chokepoints."
+                "Turkish maritime authorities restricted merchant vessel transits across Black Sea access routes following elevated security risks.",
+                "The sudden transit delays threaten critical agricultural and energy commodity flows across regional marine corridors.",
+                "Heightened geopolitical friction in the region continues to destabilize commercial vessel scheduling and insurance premiums.",
+                "Ocean shippers must prepare for extended berth wait times and potential emergency war risk surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "PROCUREMENT: REFUND MARKET SURGE",
+            "nextUpTease": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PROCUREMENT: REFUND MARKET SURGE",
+            "heading": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
             "points": [
-                "Major retailers are actively monetizing potential federal tariff refunds through newly established secondary financial markets.",
-                "Firms such as American Eagle Outfitters are selling rights to expected duties to secure immediate working capital.",
-                "This trend highlights acute corporate cash-flow pressures resulting from prolonged high-tariff trade environments.",
-                "Supply chain financial officers should evaluate asset monetization pathways to buffer against liquidity constraints."
+                "Etsy announced a 12% workforce reduction affecting 220 staff members to streamline digital platform operations.",
+                "The restructuring follows the completion of its $1.4B divestment of apparel marketplace Depop to competitor eBay.",
+                "E-commerce platforms are realigning operational overhead to navigate shifting consumer spending and lower volume growth.",
+                "Marketplace sellers should monitor platform feature rollouts as engineering resources refocus on core search tools."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: RAIL NETWORK UPGRADES",
+            "nextUpTease": "BROKERAGE: VICARIOUS LIABILITY VERDICT",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INFRASTRUCTURE: RAIL NETWORK UPGRADES",
+            "heading": "BROKERAGE: VICARIOUS LIABILITY VERDICT",
             "points": [
-                "The Port of Virginia launched direct rail container services to Indianapolis via CSX, bypassing Chicago bottlenecks.",
-                "The direct intermodal routing eliminates intermediate highway drayage steps and accelerates regional cargo delivery.",
-                "Logistics providers gain enhanced efficiency by avoiding congested midwestern freight transfer hubs entirely.",
-                "Intermodal shippers should integrate direct rail corridors into their Midwest distribution network designs."
+                "A landmark legal ruling imposed a $604M vicarious liability verdict against freight broker C.H. Robinson.",
+                "The judicial outcome intensifies regulatory pressure regarding carrier selection standards and negligent hiring claims.",
+                "Freight brokerages across North America are overhauling carrier compliance workflows and vetting software protocols.",
+                "3PL executives must tighten contract carrier verification procedures to minimize catastrophic legal risk exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: SALMONELLA SUPPLY SHOCK",
+            "nextUpTease": "EQUIPMENT: DAIMLER TRUCK EXPANSION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: SALMONELLA SUPPLY SHOCK",
+            "heading": "EQUIPMENT: DAIMLER TRUCK EXPANSION",
             "points": [
-                "Advanced traceability systems prompted major food brands to pull contaminated jalape\u00f1os due to recent Salmonella risks.",
-                "Affected inventory was rapidly isolated and replaced with secure stock sourced from pre-vetted alternate vendors.",
-                "End-to-end supply chain visibility tools proved essential for mitigating widespread consumer health liabilities.",
-                "Food and beverage distributors must enforce rigorous digital traceability across all tier-one agricultural suppliers."
+                "Daimler Truck North America confirmed plans to construct its largest US commercial vehicle assembly facility by 2029.",
+                "The OEM also committed exclusively to EPA 2027 compliant heavy-duty engine architectures for its upcoming fleet lines.",
+                "This major capital investment highlights long-term carrier transition toward low-emission industrial freight vehicles.",
+                "Fleet managers must align long-term procurement schedules with upcoming regulatory engine standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "FACILITIES: RETAIL DISTRIBUTION EXPANSION",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL SPACE REBOUND",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FACILITIES: RETAIL DISTRIBUTION EXPANSION",
+            "heading": "REAL ESTATE: INDUSTRIAL SPACE REBOUND",
             "points": [
-                "American Eagle Outfitters committed $41M to construct a massive advanced distribution facility in North Carolina.",
-                "Scheduled to open in early 2027, the regional hub will create over 200 high-demand supply chain jobs.",
-                "The investment reflects a broader industry push to regionalize fulfillment centers closer to southeastern consumer bases.",
-                "Retail logistics planners must align real estate expansion timelines with long-term regional demand forecasts."
+                "Colliers research revealed US industrial real estate vacancy dropped seven basis points to 7.3% in the second quarter.",
+                "Net absorption outpaced new warehouse completions, signaling a demand recovery across major logistics hubs.",
+                "Supply and demand dynamics are stabilizing following a multi-year surge in speculative warehouse construction.",
+                "Warehouse tenants should lock in long-term lease renewals before tightening market conditions drive rate hikes."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

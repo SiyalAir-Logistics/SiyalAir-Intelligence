@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE TARIFF ESCALATION",
+        "hookTitle": "GLOBAL LOGISTICS REALIGNMENT SIGNALS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: POLYSILICON LEVIES DEPLOYED",
-                "teaserTitle": "COMPLIANCE: FORCED LABOR LAWSUIT",
+                "headline": "TARIFFS: POLYSILICON IMPORT DUTIES",
+                "teaserTitle": "INTERMODAL: VIRGINIA INDIANAPOLIS RAIL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "New 15% tariffs on polysilicon imports take effect Dec. 4 to secure domestic semiconductor and solar supply chains."
+                "narration_line": "US trade officials imposed 15% tariffs on imported polysilicon starting Dec 4. Tech supply chains face immediate cost adjustments for raw solar and chip inputs."
             },
             {
                 "slide_index": 2,
-                "headline": "COMPLIANCE: FORCED LABOR LAWSUIT",
-                "teaserTitle": "MARITIME: HORMUZ TRANSIT STRIFE",
+                "headline": "INTERMODAL: VIRGINIA INDIANAPOLIS RAIL",
+                "teaserTitle": "MARITIME: BLACK SEA SHIPPING DELAYS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "25 state attorneys general filed a federal lawsuit challenging Section 301 forced-labor import tariffs."
+                "narration_line": "Port of Virginia introduced CSX rail service directly to Indianapolis. The direct corridor bypasses Chicago hubs, cutting transit times by 48 hours."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: HORMUZ TRANSIT STRIFE",
-                "teaserTitle": "PROCUREMENT: REFUND MARKET SURGE",
+                "headline": "MARITIME: BLACK SEA SHIPPING DELAYS",
+                "teaserTitle": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Targeted missile strikes on commercial ships in the Middle East drive ongoing maritime security risks."
+                "narration_line": "Turkey restricted Black Sea merchant ship access following recent maritime security incidents. Regional commodity traffic faces severe vessel delays and rising surcharges."
             },
             {
                 "slide_index": 4,
-                "headline": "PROCUREMENT: REFUND MARKET SURGE",
-                "teaserTitle": "INFRASTRUCTURE: RAIL NETWORK UPGRADES",
+                "headline": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+                "teaserTitle": "BROKERAGE: VICARIOUS LIABILITY VERDICT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Retailers are selling potential federal tariff refund rights on secondary markets to secure immediate working capital."
+                "narration_line": "Etsy cut 12% of its workforce following a $1.4B sale of Depop to eBay. E-commerce platforms continue restructuring operational overhead amid volume shifts."
             },
             {
                 "slide_index": 5,
-                "headline": "INFRASTRUCTURE: RAIL NETWORK UPGRADES",
-                "teaserTitle": "SECURITY: SALMONELLA SUPPLY SHOCK",
+                "headline": "BROKERAGE: VICARIOUS LIABILITY VERDICT",
+                "teaserTitle": "EQUIPMENT: DAIMLER TRUCK EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Port of Virginia launched direct CSX rail services to Indianapolis, bypassing Chicago intermodal bottlenecks."
+                "narration_line": "A massive $604M liability verdict against C.H. Robinson sent shockwaves through freight brokerage markets. 3PL providers are overhauling carrier vetting workflows immediately."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: SALMONELLA SUPPLY SHOCK",
-                "teaserTitle": "FACILITIES: RETAIL DISTRIBUTION EXPANSION",
+                "headline": "EQUIPMENT: DAIMLER TRUCK EXPANSION",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL SPACE REBOUND",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Traceability systems enabled major food brands to swiftly isolate and replace contaminated produce inventory."
+                "narration_line": "Daimler Truck announced plans for its largest US plant by 2029. Fleet production will shift exclusively toward EPA 2027 compliant engine designs."
             },
             {
                 "slide_index": 7,
-                "headline": "FACILITIES: RETAIL DISTRIBUTION EXPANSION",
+                "headline": "REAL ESTATE: INDUSTRIAL SPACE REBOUND",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "American Eagle invested $41M in a North Carolina distribution hub to optimize regional fulfillment."
+                "narration_line": "US industrial real estate vacancy declined to 7.3% as leasing demand outstripped new construction. Logistics space is rapidly stabilizing across major trade hubs."
             },
             {
                 "slide_index": 8,
