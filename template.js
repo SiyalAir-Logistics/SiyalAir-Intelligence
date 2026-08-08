@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR IMPOSES FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR enforces 60-nation tariffs under Section 301 while US ports manage typhoon disruptions and new supply chain compliance rules."
+        "titleWhite": "SEALEAD SHIPPING",
+        "titleBlue": "LIQUIDATION",
+        "footerSummary": "SeaLead liquidates post-US sanctions while MSC vessel sinks off Zhoushan, forcing carriers to re-route transpacific and Middle Eastern freight."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "CARRIERS: SEALEAD SHIPPING LIQUIDATION",
             "points": [
-                "The Office of the United States Trade Representative has officially initiated punitive import tariffs across 60 global trading partner nations.",
-                "The regulatory implementation utilizes Section 301 authority of the Trade Act of 1974 to penalize supply chains linked to forced labor practices.",
-                "Importers and compliance officers face immediate administrative burdens as they audit multi-tier bills of material for prohibited country inputs.",
-                "Global trade economists predict prolonged legal challenges from affected nations before the World Trade Organization and domestic courts."
+                "Singapore-based container line SeaLead Shipping has entered voluntary liquidation following recent US economic sanctions.",
+                "The abrupt wind-down halts vessel operations across major trade lanes connecting Asia, the Middle East, the Mediterranean, and the Baltic.",
+                "Rival ocean carriers are rapidly acquiring available vessel capacity and container equipment to absorb displaced regional freight volume.",
+                "Logistics planners must immediately rebook affected ocean cargo to prevent severe terminal dwell times and supply chain delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: TYPHOON PORT SUSPENSIONS",
+            "nextUpTease": "MARITIME: MSC CONTAINER SHIP SINKING",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-08T08:00:00Z",
+                "Source: https://theloadstar.com/troubled-sealeads-ships-and-boxes-quickly-snapped-up-by-rivals/",
+                "Published: 2026-08-07T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: TYPHOON PORT SUSPENSIONS",
+            "heading": "MARITIME: MSC CONTAINER SHIP SINKING",
             "points": [
-                "Chinese maritime authorities ordered a complete suspension of terminal and bunkering operations across key gateways as Super Typhoon Dolphin approaches.",
-                "Satellite tracking data confirms that more than 160 commercial cargo vessels have been directed to vacate berths and seek open-water anchorage.",
-                "Global ocean carriers anticipate severe vessel schedule disruptions and significant container gate backlogs across major eastern coastal ports.",
-                "Supply chain planners are immediately rerouting vessel strings and adjusting inventory staging buffers to mitigate cascading delivery delays."
+                "The 8,401 TEU container vessel MSC Silvana VIII has submerged further off Zhoushan after initial salvage efforts failed.",
+                "Local maritime authorities confirmed much of the 332-meter containership is now underwater, obstructing key coastal passage corridors.",
+                "Regional port officials are establishing maritime exclusion zones while salvage teams deploy specialized heavy-lift equipment to stabilize the vessel.",
+                "Ocean freight carriers are adjusting vessel routing protocols near Zhoushan to avoid escalating navigational hazards and port congestion."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: HACKED CARGO INDICTMENTS",
+            "nextUpTease": "E-COMMERCE: AMAZON PRODUCT TITLE LIMITS",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-07T16:32:00Z",
+                "Source: https://splash247.com/msc-boxship-sinks-deeper-off-zhoushan-after-failed-refloating/",
+                "Published: 2026-08-08T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SECURITY: HACKED CARGO INDICTMENTS",
+            "heading": "E-COMMERCE: AMAZON PRODUCT TITLE LIMITS",
             "points": [
-                "Federal grand juries indicted eight individuals involved in an international cybercrime syndicate that stole $4.49M in retail goods.",
-                "The criminal enterprise systematically compromised legitimate freight carrier databases to intercept high-value commercial truckloads in transit.",
-                "Motor carriers and freight brokers are rapidly deploying mandatory multi-factor authentication protocols to secure digital dispatch networks.",
-                "Cybersecurity analysts urge logistics providers to conduct immediate vulnerability assessments across all third-party API and partner integrations."
+                "Amazon has officially enforced a strict 75-character limit on product listing titles across both third-party sellers and its proprietary brands.",
+                "The policy update aims to standardize mobile search results and optimize catalog indexing efficiency across its global e-commerce platform.",
+                "Merchants failing to compress listing titles face immediate algorithmic suppression and potential catalog suppression during peak shopping windows.",
+                "E-commerce brands are overhauling product metadata architectures to preserve search relevance while adhering to character restrictions."
             ],
             "imageUrl": "",
-            "nextUpTease": "PROCUREMENT: POLYSILICON TARIFF PROCLAMATION",
+            "nextUpTease": "ENERGY: ADNOC BILLION FLEET EXPANSION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-07T12:00:00Z",
+                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-also-applies-to-its-own-listings/",
+                "Published: 2026-08-07T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PROCUREMENT: POLYSILICON TARIFF PROCLAMATION",
+            "heading": "ENERGY: ADNOC BILLION FLEET EXPANSION",
             "points": [
-                "A formal presidential proclamation established a 15% import tariff and strict price floors on foreign polysilicon shipments effective December 4.",
-                "The federal trade directive aims to protect domestic semiconductor manufacturing and solar energy component supply chains from foreign dumping.",
-                "Technology importers and renewable energy developers face immediate cost increases and must restructure long-term procurement agreements.",
-                "Compliance teams are verifying raw material origin certifications to evaluate potential Section 301 liability and tariff exemptions."
+                "Abu Dhabi-listed ADNOC Logistics & Services executed a $1.3B fleet acquisition, purchasing 11 commercial vessels to secure energy transport capacity.",
+                "The strategic purchase includes 6 Very Large Crude Carriers and 5 Very Large Gas Carriers designed to expand international shipping reach.",
+                "Energy market analysts indicate the vessel acquisition hedges against geopolitical trade disruptions and rising charter rates in global waters.",
+                "Supply chain managers anticipate heightened energy transportation stability across Middle Eastern and Asian energy corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: TRANSPACIFIC AI VOLATILITY",
+            "nextUpTease": "INSURTECH: SOMPO GPS JAMMING COVERAGE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-07T10:15:00Z",
+                "Source: https://splash247.com/adnoc-ls-makes-1-3bn-vlcc-and-vlgc-swoop/",
+                "Published: 2026-08-07T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR CARGO: TRANSPACIFIC AI VOLATILITY",
+            "heading": "INSURTECH: SOMPO GPS JAMMING COVERAGE",
             "points": [
-                "Ongoing geopolitical conflicts continue to drive severe rate volatility and capacity constraints across major international air cargo corridors.",
-                "Surging shipments of artificial intelligence hardware are aggressively competing with traditional e-commerce cargo for transpacific lift capacity.",
-                "Freight forwarders are securing dedicated charter arrangements to guarantee transit timelines for high-yield technology equipment.",
-                "Air cargo yield management desks report sustained pricing premiums for westbound and eastbound transpacific connections through the second half."
+                "Japanese insurer Sompo Japan launched the shipping industry's first dedicated insurance policy protecting against economic losses from GPS jamming.",
+                "The insurance product addresses growing operational threats in congested waterways where electronic navigation interference disrupts vessel itineraries.",
+                "Maritime operators can now offset financial losses resulting from delayed port calls and rerouted commercial voyages caused by signal degradation.",
+                "Risk officers urge commercial fleets operating in volatile marine corridors to evaluate electronic warfare insurance protections."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: VACANCY RATE STABILIZATION",
+            "nextUpTease": "RAIL: VIRGINIA INDIANAPOLIS DIRECT SERVICE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-08T09:00:00Z",
+                "Source: https://splash247.com/sompo-moves-to-close-gps-jamming-insurance-gap/",
+                "Published: 2026-08-07T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REAL ESTATE: VACANCY RATE STABILIZATION",
+            "heading": "RAIL: VIRGINIA INDIANAPOLIS DIRECT SERVICE",
             "points": [
-                "Colliers reported that the national industrial real estate vacancy rate fell by 7 basis points sequentially to settle at 7.3% in Q2.",
-                "The modest adjustment indicates a stabilizing market balance as modern warehouse demand successfully outpaces new construction completions.",
-                "Logistics developers are maintaining disciplined capital deployment strategies while focusing on high-density distribution hubs near key ports.",
-                "Corporate real estate directors are locking in long-term lease agreements to hedge against projected construction cost inflation."
+                "The Port of Virginia expanded its intermodal network by establishing direct CSX rail service into the Indianapolis inland logistics hub.",
+                "The direct rail connection bypasses traditional Chicago rail interchange bottlenecks, significantly reducing transit times for Midwestern cargo.",
+                "Shippers gain streamlined access to East Coast maritime gateways while reducing regional drayage costs and highway congestion.",
+                "Supply chain directors are adjusting Midwest distribution routes to capitalize on direct rail fluidity and lower freight rates."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIERS: FORWARD AIR MARKET OUTLOOK",
+            "nextUpTease": "INFRASTRUCTURE: DAIMLER TRUCK PLANT COMMITMENT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-08T07:30:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-service-indianapolis/",
+                "Published: 2026-08-06T14:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CARRIERS: FORWARD AIR MARKET OUTLOOK",
+            "heading": "INFRASTRUCTURE: DAIMLER TRUCK PLANT COMMITMENT",
             "points": [
-                "Forward Air CEO Shawn Stewart reported positive market fundamental improvements driven by tighter over-the-road trucking capacity.",
-                "Stricter regulatory enforcement and ongoing small carrier exits have accelerated the rebalancing of domestic freight market pricing.",
-                "LTL operators are focusing on yield discipline and operational network optimization to maximize profitability amid fluctuating volumes.",
-                "Shipper logistics managers are reviewing carrier contract structures to secure reliable capacity ahead of the upcoming peak shipping season."
+                "Daimler Truck North America confirmed exclusive production plans for EPA 2027 compliant heavy-duty engines alongside a new manufacturing facility.",
+                "The industrial expansion establishes DTNA's largest U.S. manufacturing footprint to satisfy stricter federal fleet emission regulations.",
+                "Motor carriers are adjusting capital expenditure timelines to prepare for upcoming low-emission powertrain adoption and equipment costs.",
+                "Fleet managers are evaluating total cost of ownership models as regulatory deadlines accelerate commercial truck technology upgrades."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-07T14:45:00Z",
+                "Source: https://www.ttnews.com/articles/dtna-epa-2027-engines",
+                "Published: 2026-08-07T15:00:00Z",
                 "Status: Audited & True"
             ]
         }

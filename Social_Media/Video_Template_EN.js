@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR IMPOSES FORCED LABOR TARIFFS",
+        "hookTitle": "SEALEAD SHIPPING LIQUIDATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: TYPHOON PORT SUSPENSIONS",
+                "headline": "CARRIERS: SEALEAD SHIPPING LIQUIDATION",
+                "teaserTitle": "MARITIME: MSC CONTAINER SHIP SINKING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR initiated new Section 301 import tariffs across 60 trading partner nations. Compliance officers must audit multi-tier supply chains for forced labor compliance."
+                "narration_line": "Singapore carrier SeaLead Shipping entered voluntary liquidation following recent US sanctions. Ocean liner competitors are rapidly acquiring its vessel capacity to prevent global trade disruption."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: TYPHOON PORT SUSPENSIONS",
-                "teaserTitle": "SECURITY: HACKED CARGO INDICTMENTS",
+                "headline": "MARITIME: MSC CONTAINER SHIP SINKING",
+                "teaserTitle": "E-COMMERCE: AMAZON PRODUCT TITLE LIMITS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Chinese authorities suspended port operations as Super Typhoon Dolphin approached the coast. Over 160 commercial vessels were ordered to seek open-water anchorage."
+                "narration_line": "The 8,401 TEU containership MSC Silvana VIII submerged deeper off Zhoushan after refloating efforts failed. Maritime authorities established exclusion zones to manage navigational risks."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: HACKED CARGO INDICTMENTS",
-                "teaserTitle": "PROCUREMENT: POLYSILICON TARIFF PROCLAMATION",
+                "headline": "E-COMMERCE: AMAZON PRODUCT TITLE LIMITS",
+                "teaserTitle": "ENERGY: ADNOC BILLION FLEET EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal grand juries indicted 8 suspects in a cyber scheme stealing $4.49M in goods. Motor carriers are deploying multi-factor authentication to secure dispatch systems."
+                "narration_line": "Amazon officially capped product listing titles at 75 characters across third-party and owned storefronts. Merchants face catalog suppression if product titles exceed new character limits."
             },
             {
                 "slide_index": 4,
-                "headline": "PROCUREMENT: POLYSILICON TARIFF PROCLAMATION",
-                "teaserTitle": "AIR CARGO: TRANSPACIFIC AI VOLATILITY",
+                "headline": "ENERGY: ADNOC BILLION FLEET EXPANSION",
+                "teaserTitle": "INSURTECH: SOMPO GPS JAMMING COVERAGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A presidential proclamation set a 15% tariff on foreign polysilicon imports starting Dec 4. Tech importers face immediate cost increases and restructured supply agreements."
+                "narration_line": "ADNOC L&S executed a $1.3B acquisition of 11 commercial ships including 6 VLCC tankers. The investment expands long-term energy transport capacity across global trade corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: TRANSPACIFIC AI VOLATILITY",
-                "teaserTitle": "REAL ESTATE: VACANCY RATE STABILIZATION",
+                "headline": "INSURTECH: SOMPO GPS JAMMING COVERAGE",
+                "teaserTitle": "RAIL: VIRGINIA INDIANAPOLIS DIRECT SERVICE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Geopolitical conflicts continue driving rate volatility across international air corridors. AI hardware shipments are aggressively competing with e-commerce cargo for lift."
+                "narration_line": "Sompo Japan launched maritime insurance coverage targeting economic losses from electronic GPS jamming. Vessel operators can now insure against commercial delays caused by signal interference."
             },
             {
                 "slide_index": 6,
-                "headline": "REAL ESTATE: VACANCY RATE STABILIZATION",
-                "teaserTitle": "CARRIERS: FORWARD AIR MARKET OUTLOOK",
+                "headline": "RAIL: VIRGINIA INDIANAPOLIS DIRECT SERVICE",
+                "teaserTitle": "INFRASTRUCTURE: DAIMLER TRUCK PLANT COMMITMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Colliers reported national industrial warehouse vacancy fell 7 basis points to settle at 7.3%. Demand is successfully outpacing new construction completions across hubs."
+                "narration_line": "The Port of Virginia launched direct CSX rail service into Indianapolis to bypass Chicago interchange delays. The intermodal link accelerates Midwestern freight delivery and lowers drayage expense."
             },
             {
                 "slide_index": 7,
-                "headline": "CARRIERS: FORWARD AIR MARKET OUTLOOK",
+                "headline": "INFRASTRUCTURE: DAIMLER TRUCK PLANT COMMITMENT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Forward Air noted improving market fundamentals driven by tightening over-the-road capacity. Regulatory enforcement and carrier exits are accelerating pricing rebalancing."
+                "narration_line": "DTNA committed to EPA 2027 engine standards while planning its largest US commercial vehicle plant. Trucking fleets are re-evaluating capital budgets to prepare for strict emission rules."
             },
             {
                 "slide_index": 8,
