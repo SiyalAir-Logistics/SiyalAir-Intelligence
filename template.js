@@ -1,90 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS INFRASTRUCTURE",
+        "titleWhite": "GLOBAL TRADE COMPLIANCE",
         "titleBlue": "SHIFTS",
-        "footerSummary": "Polysilicon tariffs, FMC detention rulings, and carrier liquidations trigger major operational shifts across air, ocean, and landside global supply chains."
+        "footerSummary": "New Section 301 tariffs, Amazon title caps, cyber cargo theft rings, and Hormuz transit fee risks trigger rapid global supply chain realignments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFFS: POLYSILICON IMPORT LEVY",
+            "heading": "USTR: SECTION 301 TARIFFS",
             "points": [
-                "The US administration announced a 15% tariff on imported polysilicon used in semiconductors and solar panels effective Dec 4.",
-                "The mandate establishes a strict import price floor designed to incentivize domestic manufacturing and protect domestic semiconductor supply chains.",
-                "Solar manufacturers and tech hardware assemblers face increased landed costs for raw materials sourced through international trade lanes.",
-                "Importers must adjust procurement strategies and verify compliance across critical component supply lines prior to the Q4 deadline."
+                "The Office of the US Trade Representative initiated new forced labor tariffs covering 60 trading nations under Section 301.",
+                "The regulatory measure fills the compliance gap created as temporary Section 122 tariffs expire across international trade lanes.",
+                "Global supply chains face heightened customs audits and origin verification requirements on goods sourced from targeted markets.",
+                "Importers must strengthen tier-one supply chain traceability to prevent costly port detentions and unexpected duty penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: VIRGINIA CSX MIDWEST CORRIDOR",
+            "nextUpTease": "AMAZON: PRODUCT TITLE RESTRICTION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL: VIRGINIA CSX MIDWEST CORRIDOR",
+            "heading": "AMAZON: PRODUCT TITLE RESTRICTION",
             "points": [
-                "The Port of Virginia launched direct CSX intermodal rail service connecting deepwater ocean terminals directly to Indianapolis industrial hubs.",
-                "Direct intermodal routing eliminates legacy rail transfers through Chicago, cutting inland transit time and reducing landside drayage costs.",
-                "Midwest importers gain a streamlined alternative to traditional East Coast port gateways for containerized retail and manufacturing cargo.",
-                "Logistics planners should re-evaluate interior routing models to leverage reduced dwell times at mid-Atlantic port facilities."
+                "Amazon enforced a mandatory 75-character ceiling on product listing titles across both third-party and internal brand inventories.",
+                "The platform restriction forces full compliance across millions of active ASINs to standardize catalog indexing and search display.",
+                "E-commerce logistics networks and automated catalog tools must instantly truncate product descriptors to avoid suppression.",
+                "Brand merchants need to optimize front-loaded keywords immediately to preserve organic search conversion and sales velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "FULFILLMENT: CAROLINAS REGIONAL HUB",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "FULFILLMENT: CAROLINAS REGIONAL HUB",
-            "points": [
-                "American Eagle Outfitters announced construction of a $41M automated distribution facility in North Carolina scheduled for 2027 deployment.",
-                "The facility will generate 200 operational jobs while modernizing regional direct-to-consumer inventory fulfillment across the Southeastern US.",
-                "Retail supply chain networks are expanding regional distribution footprints to shorten transit times and manage high holiday parcel volumes.",
-                "Brand operators should align fulfillment infrastructure investments with key population growth corridors to lower last-mile freight expenses."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: DAIMLER HEAVY PLANT",
-            "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MANUFACTURING: DAIMLER HEAVY PLANT",
-            "points": [
-                "Daimler Truck North America confirmed plans to build its largest US commercial vehicle manufacturing plant launching full production by 2029.",
-                "The facility will exclusively assemble heavy-duty powertrains compliant with strict EPA 2027 nitrogen oxide emission standards.",
-                "Commercial fleet manufacturers are committing substantial capital to meet impending federal decarbonization mandates across North America.",
-                "Fleet managers must forecast fleet replacement schedules and capital expenditure budgets around next-generation engine compliance timelines."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LOGISTICS: USPS GROUND RATE HIKE",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "LOGISTICS: USPS GROUND RATE HIKE",
-            "points": [
-                "The United States Postal Service implemented higher Ground Advantage parcel shipping rates impacting major e-commerce marketplace sellers.",
-                "The rate revision introduces additional shipping surcharges for lightweight packages dispatched to non-urban and rural delivery locations.",
-                "Postal carriers are adjusting pricing structures to cover rising operational overhead and rebalance last-mile delivery network margins.",
-                "Online retailers must update shipping rate tables and explore regional carrier options to mitigate margin compression on low-cost goods."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD ASSET LIQUIDATION",
+            "nextUpTease": "SECURITY: RETAIL CARGO THEFT RING",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
@@ -92,35 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "MARITIME: SEALEAD ASSET LIQUIDATION",
+            "id": 3,
+            "heading": "SECURITY: RETAIL CARGO THEFT RING",
             "points": [
-                "Singapore-based ocean liner SeaLead Shipping entered voluntary liquidation, ceasing container service across Asia, Mediterranean, and Baltic routes.",
-                "Competing ocean carriers rapidly absorbed SeaLead vessel charters and container equipment assets to maintain trade route stability.",
-                "Niche container lines continue to face severe operational pressures from volatile spot freight rates and shifting global trade volumes.",
-                "Cargo shippers must monitor carrier financial health closely to prevent operational container strandings and supply chain delays."
+                "A federal grand jury indicted eight individuals for executing a $4.49M retail cargo theft ring using intercepted freight data.",
+                "Cyber criminals hacked legitimate carrier logistics portals to orchestrate unauthorized high-value shipment pickups.",
+                "The case highlights critical digital vulnerabilities in carrier dispatch software and freight tracking databases nationwide.",
+                "Logistics operators must enforce multi-factor authentication across all freight dispatch platforms to safeguard physical cargo."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: COURT UPHOLDS FMC FEES",
+            "nextUpTease": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
             "tags": [
-                "Source: https://www.theloadstar.com",
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+            "points": [
+                "Iran and Oman advanced bilateral discussions regarding potential transit fee frameworks for commercial shipping in the Strait of Hormuz.",
+                "Global maritime bodies urged the UN and IMO to intervene against any proposed tolls on international waterway routes.",
+                "Unilateral transit tariffs would severely increase landed shipping expenses across major Middle Eastern trade corridors.",
+                "Ocean carriers and freight forwarders are evaluating alternative routing models to insulate cargo flows from unexpected waterway surcharges."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "WAREHOUSING: DC INVENTORY DRONE FLIGHTS",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "WAREHOUSING: DC INVENTORY DRONE FLIGHTS",
+            "points": [
+                "GNC deployed fully autonomous inventory counting drones across its 450K sq ft distribution center network.",
+                "Automated aerial scans replace manual cycle counting workflows, vastly speeding up real-time inventory reconciliation.",
+                "Distribution hubs are adopting physical AI and autonomous robotics to counter persistent warehouse labor shortages.",
+                "Supply chain managers should integrate aerial data scanning to boost order fulfillment accuracy and lower operational overhead."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ACQUISITIONS: EBAY DEPOP FASHION DEAL",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ACQUISITIONS: EBAY DEPOP FASHION DEAL",
+            "points": [
+                "eBay officially completed its $1.4B acquisition of fashion marketplace Depop from Etsy following UK regulatory clearance.",
+                "The transaction consolidates second-hand apparel logistics assets under eBay to expand its cross-border commerce scale.",
+                "Etsy secured substantial cash capital from the divestment while laying off 200 staff to refine core operational focus.",
+                "Marketplace sellers must prepare for unified C2C shipping infrastructure and updated operational policies across the platform."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME: COURT UPHOLDS FMC FEES",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
             "points": [
-                "The US Court of Appeals upheld the Federal Maritime Commission ruling requiring ocean carrier detention fees to directly promote freight fluidity.",
-                "The legal affirmation enforces strict billing standards and prohibits carriers from charging fees when port terminal access is blocked.",
-                "Regulatory enforcement under the Ocean Shipping Reform Act strengthens legal protections for shippers against unfair ocean line charges.",
-                "BCOs and freight forwarders should review historical billing records to dispute non-compliant ocean demurrage and detention invoices."
+                "Colliers reported US industrial real estate vacancy stabilized at 7.3% as leasing demand outpaced new warehouse completions.",
+                "The 7-basis-point sequential vacancy drop indicates supply chain space supply is rebalancing across primary logistics markets.",
+                "Distribution operators are absorbing legacy spec space while construction starts hit multi-year lows across North America.",
+                "Shippers seeking strategically located regional fulfillment nodes should lock in long-term lease terms before rates climb."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

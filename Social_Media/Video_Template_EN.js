@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL LOGISTICS INFRASTRUCTURE SHIFTS",
+        "hookTitle": "GLOBAL TRADE COMPLIANCE SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: POLYSILICON IMPORT LEVY",
-                "teaserTitle": "RAIL: VIRGINIA CSX MIDWEST CORRIDOR",
+                "headline": "USTR: SECTION 301 TARIFFS",
+                "teaserTitle": "AMAZON: PRODUCT TITLE RESTRICTION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The US imposed a 15% tariff on polysilicon imports starting Dec 4. Importers face mandatory price floors for chip raw materials."
+                "narration_line": "USTR enforced Section 301 tariffs on 60 nations as Section 122 expires. Importers face strict origin audits across global trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL: VIRGINIA CSX MIDWEST CORRIDOR",
-                "teaserTitle": "FULFILLMENT: CAROLINAS REGIONAL HUB",
+                "headline": "AMAZON: PRODUCT TITLE RESTRICTION",
+                "teaserTitle": "SECURITY: RETAIL CARGO THEFT RING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Port of Virginia launched direct CSX intermodal rail to Indianapolis. The route bypasses Chicago to cut inland transit times."
+                "narration_line": "Amazon limited product titles to 75 characters max across all inventory. Automated tools must truncate listings to avoid immediate catalog suppression."
             },
             {
                 "slide_index": 3,
-                "headline": "FULFILLMENT: CAROLINAS REGIONAL HUB",
-                "teaserTitle": "MANUFACTURING: DAIMLER HEAVY PLANT",
+                "headline": "SECURITY: RETAIL CARGO THEFT RING",
+                "teaserTitle": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "American Eagle announced a $41M fulfillment center in North Carolina. The site will create 200 jobs by 2027."
+                "narration_line": "A grand jury indicted 8 suspects in a $4.49M retail cargo theft ring. Cyber criminals hacked carrier dispatch software to divert freight."
             },
             {
                 "slide_index": 4,
-                "headline": "MANUFACTURING: DAIMLER HEAVY PLANT",
-                "teaserTitle": "LOGISTICS: USPS GROUND RATE HIKE",
+                "headline": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+                "teaserTitle": "WAREHOUSING: DC INVENTORY DRONE FLIGHTS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Daimler Truck will build its largest US plant launching in 2029. Production focuses on EPA 2027 compliant heavy engines."
+                "narration_line": "Iran and Oman proposed transit fees for the Strait of Hormuz. Global maritime groups urged UN intervention against waterway tolls."
             },
             {
                 "slide_index": 5,
-                "headline": "LOGISTICS: USPS GROUND RATE HIKE",
-                "teaserTitle": "MARITIME: SEALEAD ASSET LIQUIDATION",
+                "headline": "WAREHOUSING: DC INVENTORY DRONE FLIGHTS",
+                "teaserTitle": "ACQUISITIONS: EBAY DEPOP FASHION DEAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "USPS raised Ground Advantage package rates for marketplace sellers. Surcharges target lightweight parcels sent to rural delivery zones."
+                "narration_line": "GNC deployed inventory counting drones across a 450K sq ft facility. Autonomous aerial scanners eliminate manual cycle counts to boost accuracy."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: SEALEAD ASSET LIQUIDATION",
-                "teaserTitle": "MARITIME: COURT UPHOLDS FMC FEES",
+                "headline": "ACQUISITIONS: EBAY DEPOP FASHION DEAL",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation and halted ocean services. Competing carriers quickly acquired vessel charters and box assets."
+                "narration_line": "eBay completed its $1.4B purchase of fashion marketplace Depop from Etsy. The deal unifies cross-border C2C logistics infrastructure across global channels."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: COURT UPHOLDS FMC FEES",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Federal appeals court upheld FMC rules on ocean container detention fees. Carriers cannot charge fees during port congestion blockages."
+                "narration_line": "US industrial vacancy stabilized at 7.3% as leasing demand topped new supply. Shippers must secure fulfillment space before warehouse availability tightens."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
             }
         ]
     }
