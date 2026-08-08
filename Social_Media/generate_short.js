@@ -29,12 +29,12 @@ const SELECTED_VOICE_PROFILE = 'FEMALE_BREAKING';
 const VOICE_PROFILES = {
     FEMALE_BREAKING: {
         voiceName: "en-US-AvaNeural",
-        introRate: "+12%",    // Snappier, high-urgency hook speed
-        introPitch: "+3Hz", 
-        bodyRate: "+10%",    // Snappier news delivery cadence
-        bodyPitch: "+1Hz",
-        outroRate: "+4%",    // Proportional closing acceleration
-        outroPitch: "+0Hz"
+        introRate: "+22%",    // Amplified ultra-high-urgency breaking news hook speed
+        introPitch: "+6Hz",   // Higher commanding pitch for instant attention
+        bodyRate: "+18%",     // Fast-paced, urgent, adrenaline-driven news delivery
+        bodyPitch: "+3Hz",    // Elevated pitch for sharp, alert energy
+        outroRate: "+12%",    // Accelerated dynamic punch for the closing call to action
+        outroPitch: "+1Hz"
     },
     MALE_AUTHORITY: {
         voiceName: "en-US-AndrewNeural",
