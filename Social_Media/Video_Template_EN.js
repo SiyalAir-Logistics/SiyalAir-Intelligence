@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK DISRUPTIONS",
+        "hookTitle": "GLOBAL SUPPLY CHAIN SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "CRIME: CARGO THEFT RING",
+                "headline": "TRADE: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "RAIL: VIRGINIA CSX EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR enacted Section 301 tariffs on 60 nations following the expiration of Section 122 duties. Importers face immediate compliance adjustments across global manufacturing supply lines."
+                "narration_line": "US administration levies a 15% tariff on imported polysilicon starting Dec 4. Solar and semiconductor manufacturers face immediate component cost increases."
             },
             {
                 "slide_index": 2,
-                "headline": "CRIME: CARGO THEFT RING",
-                "teaserTitle": "LINERS: SEALEAD LIQUIDATION",
+                "headline": "RAIL: VIRGINIA CSX EXPANSION",
+                "teaserTitle": "FMC: CONTAINER DETENTION FEES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Federal prosecutors indicted 8 individuals in a $4.49M cargo theft ring utilizing hacked freight data. Logistics brokers are enforcing multi-factor security protocols to protect digital dispatch systems."
+                "narration_line": "Port of Virginia opens direct CSX rail service to Indianapolis. The intermodal route bypasses Chicago bottlenecks to accelerate Midwest freight transit."
             },
             {
                 "slide_index": 3,
-                "headline": "LINERS: SEALEAD LIQUIDATION",
-                "teaserTitle": "INFRASTRUCTURE: AEO DISTRIBUTION CENTER",
+                "headline": "FMC: CONTAINER DETENTION FEES",
+                "teaserTitle": "EQUIPMENT: EPA 2027 ENGINES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Singapore-based SeaLead Shipping entered voluntary liquidation following recent US sanctions. Competing ocean liners are rapidly acquiring remaining vessel assets to mitigate regional trade disruptions."
+                "narration_line": "US Court upholds FMC ruling requiring ocean detention fees to promote freight fluidity. Ocean carriers must now verify container availability before issuing penalties."
             },
             {
                 "slide_index": 4,
-                "headline": "INFRASTRUCTURE: AEO DISTRIBUTION CENTER",
-                "teaserTitle": "POSTAL: USPS RATE INCREASES",
+                "headline": "EQUIPMENT: EPA 2027 ENGINES",
+                "teaserTitle": "TERMINALS: DP WORLD RESTRUCTURING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "American Eagle Outfitters invested $41M to construct a North Carolina distribution center. The facility will create 200 jobs and accelerate Southeastern direct-to-consumer order fulfillment."
+                "narration_line": "Daimler Truck commits exclusively to EPA 2027 engine standards for heavy commercial vehicles. Fleet operators prepare for higher acquisition costs across new truck assets."
             },
             {
                 "slide_index": 5,
-                "headline": "POSTAL: USPS RATE INCREASES",
-                "teaserTitle": "INLAND: RHINE LOW WATER",
+                "headline": "TERMINALS: DP WORLD RESTRUCTURING",
+                "teaserTitle": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "USPS raised Ground Advantage package rates, adding $3 surcharges for lightweight rural deliveries. E-commerce merchants are updating fulfillment pricing models to protect operating margins."
+                "narration_line": "DP World cuts 300 operational roles across its European terminal network. The terminal operator redirects corporate capital into automated port infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "INLAND: RHINE LOW WATER",
-                "teaserTitle": "AUTOMATION: DC DRONE COUNTS",
+                "headline": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
+                "teaserTitle": "LAST-MILE: WALMART DRONE FLIGHTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Low water levels on the Rhine River restricted barge capacities into Germany's manufacturing centers. Industrial shippers are shifting container volumes to rail, driving up inland transport rates."
+                "narration_line": "Amazon limits product listing titles to 75 characters across all marketplace accounts. Third-party merchants must update catalog metadata to prevent search suppression."
             },
             {
                 "slide_index": 7,
-                "headline": "AUTOMATION: DC DRONE COUNTS",
+                "headline": "LAST-MILE: WALMART DRONE FLIGHTS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "GNC implemented autonomous inventory drones across its 450K sq ft fulfillment center. The automated system eliminates manual cycle counts and optimizes real-time warehouse inventory accuracy."
+                "narration_line": "Walmart launches Wing drone delivery services across 5 Orlando retail hubs. Autonomous aerial flights deliver lightweight orders within 30-minute delivery windows."
             },
             {
                 "slide_index": 8,

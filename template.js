@@ -1,39 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "DISRUPTIONS",
-        "footerSummary": "Section 301 tariffs hit 60 nations, cargo theft rings target brokers, and low Rhine water restricts European inland shipping corridors."
+        "titleWhite": "GLOBAL SUPPLY CHAIN",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Polysilicon tariffs trigger solar supply shocks, FMC enforces strict detention fee rules, and Virginia expands CSX Midwest rail corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFFS",
+            "heading": "TRADE: POLYSILICON IMPORT TARIFFS",
             "points": [
-                "The Office of the United States Trade Representative moves forward with Section 301 forced-labor tariffs targeting 60 trading partners.",
-                "This regulatory expansion coincides with the expiration of emergency Section 122 duties to reinforce domestic manufacturing protections.",
-                "Global shippers must adjust entry documentation and compliance workflows to mitigate immediate cost increases across international supply lines.",
-                "Enterprise importers face mandatory duty recalculations that threaten profit margins across labor-intensive consumer goods categories."
+                "The U.S. administration issued an executive proclamation establishing a 15% tariff and price floor on all imported polysilicon materials.",
+                "Effective December 4, the mandatory import levy targets critical inputs required for domestic semiconductor fabrication and solar energy hardware production.",
+                "Solar manufacturers and microchip fabricators face immediate bill-of-materials cost increases as global supply chains adjust to federal price controls.",
+                "Enterprise procurement teams are accelerating import shipments ahead of the Q4 deadline to mitigate regulatory price floor exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "CRIME: CARGO THEFT RING",
+            "nextUpTease": "RAIL: VIRGINIA CSX EXPANSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CRIME: CARGO THEFT RING",
+            "heading": "RAIL: VIRGINIA CSX EXPANSION",
             "points": [
-                "Federal authorities indictment exposes an 8-person cyber fraud ring that stole $4.49M in retail goods using hacked corporate data.",
-                "Organized criminal networks exploited freight brokerage systems to execute unauthorized cargo diversions and illicit load pickups.",
-                "Supply chain security officers are mandating multi-factor authentication protocols to protect sensitive digital dispatch documentation.",
-                "Freight brokers and carriers must harden IT infrastructure to prevent severe operational disruption and financial liability claims."
+                "The Port of Virginia partnered with CSX Transportation to launch direct intermodal rail service linking coastal terminals to Indianapolis.",
+                "The dedicated intermodal corridor eliminates traditional rail transfers through congested Chicago terminals to accelerate Midwest container transit times.",
+                "Regional distribution networks gain direct access to ocean container imports while reducing reliance on long-haul drayage trucking fleets.",
+                "Midwest importers are shifting container routing profiles to capitalize on streamlined rail clearances and lower inland transportation overhead."
             ],
             "imageUrl": "",
-            "nextUpTease": "LINERS: SEALEAD LIQUIDATION",
+            "nextUpTease": "FMC: CONTAINER DETENTION FEES",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "FMC: CONTAINER DETENTION FEES",
+            "points": [
+                "The U.S. Court of Appeals upheld a Federal Maritime Commission decision requiring container detention fees to directly promote freight fluidity.",
+                "The judicial affirmation cements regulatory standards that invalidate demurrage penalties imposed during uncontrollable port terminal closures.",
+                "Ocean carriers and terminal operators must reform invoice assessment algorithms to verify container accessibility before issuing detention charges.",
+                "Importers and freight forwarders secure stronger legal precedent to challenge improper billing practices across major domestic port gateways."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "EQUIPMENT: EPA 2027 ENGINES",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "EQUIPMENT: EPA 2027 ENGINES",
+            "points": [
+                "Daimler Truck North America confirmed its commitment to produce exclusively EPA 2027-compliant heavy-duty engines ahead of upcoming federal emissions regulations.",
+                "The commercial vehicle manufacturer is re-engineering powertrain architectures to satisfy stringent nitrogen oxide reduction standards launching in 2027.",
+                "Fleet operations face higher initial equipment acquisition costs alongside specialized maintenance requirements across new heavy truck assets.",
+                "Motor carriers are re-evaluating long-term fleet replacement cycles to balance capital expenditure requirements against strict emissions compliance."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TERMINALS: DP WORLD RESTRUCTURING",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -41,67 +75,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "LINERS: SEALEAD LIQUIDATION",
-            "points": [
-                "Singapore-registered container carrier SeaLead Shipping initiates voluntary liquidation following recent severe US regulatory sanctions.",
-                "The vessel operator has abruptly halted main liner services connecting major manufacturing hubs across Asia, the Middle East, and Baltic ports.",
-                "Competitors are rapidly absorbing remaining vessel capacity and container assets to maintain active regional trade lane operations.",
-                "Ocean freight buyers must quickly reallocate committed container bookings to alternate carriers to prevent costly port delays."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: AEO DISTRIBUTION CENTER",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "INFRASTRUCTURE: AEO DISTRIBUTION CENTER",
-            "points": [
-                "American Eagle Outfitters commits $41M to establish a new regional fulfillment center in North Carolina.",
-                "The strategic logistics hub will create over 200 operational jobs and streamline direct-to-consumer inventory distribution across the Southeast.",
-                "Modern facility designs integrate advanced fulfillment software to reduce handling times and optimize last-mile parcel transit.",
-                "Retail supply chain executives continue investing in localized distribution networks to cushion against rising long-haul transportation costs."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "POSTAL: USPS RATE INCREASES",
-            "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "POSTAL: USPS RATE INCREASES",
+            "heading": "TERMINALS: DP WORLD RESTRUCTURING",
             "points": [
-                "The United States Postal Service institutes immediate rate hikes on Ground Advantage parcel services for marketplace merchants.",
-                "New shipping surcharges add up to $3 per package for lightweight deliveries targeting remote and rural domestic zip codes.",
-                "E-commerce merchants on platforms like eBay and Amazon are re-evaluating parcel carrier strategies to shield operating margins.",
-                "Digital retailers must reconfigure checkout pricing algorithms to absorb or pass along expanding fulfillment surcharges."
+                "Terminal giant DP World initiated a major organizational restructuring resulting in the elimination of 300 operational roles across Europe.",
+                "The workforce reduction targets administrative and management layers to streamline decision-making across port and logistics networks.",
+                "Port operators are reallocating capital toward automated terminal infrastructure to control operating overhead amid volatile freight volumes.",
+                "Supply chain directors operating in European hubs face temporary administrative adjustments as terminal management teams consolidate functions."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND: RHINE LOW WATER",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "INLAND: RHINE LOW WATER",
-            "points": [
-                "Record-low water levels on the Rhine River restrict barge draft capacities into Germany's primary industrial heartland.",
-                "Shallow vessel clearances are forcing industrial shippers to split container loads and pivot freight toward congested rail networks.",
-                "Europe's inland transport corridors face compounding rate surges and extended transit lead times across chemical and raw material sectors.",
-                "European logistics directors must secure secondary truck capacity to maintain continuous raw material deliveries to production plants."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AUTOMATION: DC DRONE COUNTS",
+            "nextUpTease": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -109,18 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "AUTOMATION: DC DRONE COUNTS",
+            "id": 6,
+            "heading": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
             "points": [
-                "Health retailer GNC deploys autonomous inventory drones across its 450,000 square foot distribution center footprint.",
-                "Automated aerial scan systems replace manual cycle counts to eliminate equipment bottlenecks and improve inventory tracking precision.",
-                "Warehouse operations record significant labor hour reductions while maintaining real-time stock visibility across high-density storage racks.",
-                "Distribution center operators are prioritizing specialized aerial robotics to overcome persistent warehouse labor shortages."
+                "Amazon implemented a strict policy capping product listing titles at 75 characters across all marketplace seller and first-party catalog entries.",
+                "The algorithmic title character ceiling aims to standardize mobile display layouts and eliminate keyword stuffing across search results.",
+                "Third-party merchants must audit product catalog metadata immediately to avoid search suppressions and automatic title truncations.",
+                "E-commerce brands are restructuring product listings to maintain keyword search visibility under tighter character limitations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LAST-MILE: WALMART DRONE FLIGHTS",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "LAST-MILE: WALMART DRONE FLIGHTS",
+            "points": [
+                "Walmart expanded its autonomous last-mile delivery network by deploying Wing drone delivery services across five Orlando retail locations.",
+                "The aerial fulfillment expansion enables 30-minute delivery windows for lightweight parcel orders within a designated suburban radius.",
+                "Retail supply chains are integrating automated aerial transit to bypass ground traffic congestion and reduce last-mile courier expenses.",
+                "Suburban parcel logistics operators face heightened competition as major retailers scale automated aerial fulfillment infrastructure."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
