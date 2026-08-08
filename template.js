@@ -1,22 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT CAPACITY",
-        "titleBlue": "CRUNCH",
-        "footerSummary": "Escalating maritime sanctions, strict carrier liquidations, and surging infrastructure project demands compress global transport capacity and elevate operational costs."
+        "titleWhite": "GLOBAL TARIFF REGULATION",
+        "titleBlue": "RESTRUCTURING",
+        "footerSummary": "New trade tariffs, carrier liquidations, and infrastructure expansions reshape international logistics corridors and compliance mandates."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: SEALEAD LIQUIDATION",
+            "heading": "USTR: TARIFF IMPLEMENTATION",
             "points": [
-                "Singapore-registered container liner SeaLead Shipping has entered voluntary liquidation following crippling international trade sanctions.",
-                "The sudden market exit instantly removes critical route capacity across active Asia-Middle East and Mediterranean service loops.",
-                "Competing ocean carriers have moved swiftly to absorb remaining vessel assets and stranded customer box inventories.",
-                "Importers utilizing affected trade lanes must secure alternative slot allocations immediately to prevent multi-week supply chain halts."
+                "The Office of the United States Trade Representative is moving forward with sweeping tariffs on 60 trading nations under Section 301.",
+                "This regulatory expansion introduces fresh compliance hurdles for international supply chains navigating complex cross-border trade restrictions.",
+                "Importers must rapidly adapt documentation protocols to absorb the impact of these permanent federal trade policy adjustments.",
+                "Proactive duty management strategies will be essential to mitigate sudden margin compression across multi-national vendor networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: CAPACITY CONSTRAINTS",
+            "nextUpTease": "MARITIME: CARRIER LIQUIDATION",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "MARITIME: CARRIER LIQUIDATION",
+            "points": [
+                "Singapore-registered liner SeaLead Shipping has entered voluntary liquidation following recent international trade and maritime sanctions.",
+                "The unexpected market exit abruptly halts major container services connecting Asian manufacturing hubs with the Middle East and Mediterranean.",
+                "Competing carriers are rapidly absorbing stranded cargo and vessel allocations to stabilize disrupted ocean freight shipping lanes.",
+                "Beneficial cargo owners must diversify vessel contracting portfolios immediately to prevent severe supply chain bottlenecks."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RAILROAD: ROUTE EXPANSION",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -24,67 +41,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "TRUCKING: CAPACITY CONSTRAINTS",
-            "points": [
-                "Massive artificial intelligence data center developments across the United States demand nearly 100K truckloads per gigawatt.",
-                "Specialized flatbed transport providers are aggressively shifting equipment away from standard retail freight to capture high-yield tech contracts.",
-                "The concentrated equipment drain creates severe regional over-the-road deficits for traditional industrial shippers nationwide.",
-                "Logistics managers must lock in dedicated multi-lane capacity agreements early to avoid severe rate spikes and hauling delays."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PORTS: EARLY PEAK SURGE",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 3,
-            "heading": "PORTS: EARLY PEAK SURGE",
+            "heading": "RAILROAD: ROUTE EXPANSION",
             "points": [
-                "National Retail Federation data reveals that summer monthly import volumes have reached their highest levels since 2022.",
-                "An aggressive early peak shipping season has compressed traditional inventory replenishment windows and strained terminal operations.",
-                "Major import hubs are experiencing elevated container dwell times as terminal operators manage intense cargo surges.",
-                "Supply chain planners should adjust distribution and warehousing schedules now to circumvent impending regional port congestion."
+                "The Port of Virginia has officially integrated direct CSX rail service into the critical Indianapolis industrial market hub.",
+                "Containers can now move via rail directly into regional distribution centers without requiring intermediate truck transfers through Chicago.",
+                "This intermodal infrastructure enhancement significantly reduces transit dwell times and alleviates regional highway freight congestion.",
+                "Supply chain planners should redesign inland routing topologies to capitalize on this direct corridor connection."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL: VICARIOUS LIABILITY",
-            "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "LEGAL: VICARIOUS LIABILITY",
-            "points": [
-                "Recent landmark court rulings, including the high-profile Montgomery verdict, have introduced massive legal risks for freight brokers.",
-                "Brokers and third-party logistics providers now face severe vicarious liability exposure resulting from carrier safety violations.",
-                "Industry leaders are aggressively overhauling vetting protocols to eliminate negligent hiring claims across brokerage networks.",
-                "Transportation legal teams must implement rigorous carrier compliance screening to shield corporate balance sheets from nuclear verdicts."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RAILWAY: INDIANA EXPANSION",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "RAILWAY: INDIANA EXPANSION",
-            "points": [
-                "The Port of Virginia has successfully established direct CSX intermodal rail services linking shipments straight into Indianapolis.",
-                "Containers bypass notoriously congested Chicago interchange yards, significantly streamlining Midwest freight distribution corridors.",
-                "The direct rail link eliminates costly secondary drayage trucking steps and reduces overall cargo transit times.",
-                "Midwest importers should transition cargo flows to the new rail corridor to optimize transit efficiency and lower overhead."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: TRUCK MANUFACTURING",
+            "nextUpTease": "MANUFACTURING: PLANT INVESTMENT",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -92,16 +58,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "EQUIPMENT: TRUCK MANUFACTURING",
+            "id": 4,
+            "heading": "MANUFACTURING: PLANT INVESTMENT",
             "points": [
-                "Daimler Trucks North America has committed to building its largest US manufacturing plant, slated to open by 2029.",
-                "The massive industrial expansion aims to modernize commercial vehicle production and prepare fleets for strict EPA 2027 mandates.",
-                "Fleet operators face rising equipment replacement costs as manufacturers retool assembly lines for advanced low-emission engines.",
-                "Carriers must plan long-term capital expenditure cycles carefully to absorb incoming commercial vehicle pricing adjustments."
+                "Daimler Trucks North America has committed to establishing its largest U.S. manufacturing facility to meet heavy-duty vehicle demand.",
+                "The multi-million dollar infrastructure investment aligns directly with upcoming stringent EPA 2027 emissions and NOx standards.",
+                "Expanded domestic truck production capabilities will help stabilize commercial equipment availability for regional distribution fleets.",
+                "Fleet operators should coordinate vehicle replacement schedules closely with OEM production milestones to secure equipment."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: MARKET VOLATILITY",
+            "nextUpTease": "ECOMMERCE: POLICY ENFORCEMENT",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -109,18 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "AIR CARGO: MARKET VOLATILITY",
+            "id": 5,
+            "heading": "ECOMMERCE: POLICY ENFORCEMENT",
             "points": [
-                "Persistent geopolitical conflicts in the Middle East continue to inject severe rate volatility into global air cargo markets.",
-                "Simultaneously, high-value artificial intelligence hardware shipments are driving extraordinary volume growth on Transpacific air routes.",
-                "Airlines are prioritizing high-yield tech cargo to offset declining spot rates across traditional consumer goods sectors.",
-                "Freight forwarders must secure fixed block-space agreements proactively to navigate tightening international air capacity."
+                "Amazon has officially enforced strict product title length limitations of 75 characters or less across all marketplace inventory catalogs.",
+                "The updated listing parameters are designed to improve search relevance and mobile user experience for digital retail consumers.",
+                "Third-party merchants must restructure product data feeds rapidly to maintain optimal search visibility and prevent catalog suppression.",
+                "E-commerce logistics managers should audit digital storefront assets immediately to ensure full platform compliance."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "REAL ESTATE: VACANCY EQUILIBRIUM",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "REAL ESTATE: VACANCY EQUILIBRIUM",
+            "points": [
+                "Colliers reported that the national industrial real estate vacancy rate shifted slightly to 7.3% amid moderating new construction deliveries.",
+                "The quarterly adjustment indicates a healthier balance between warehouse supply and sustained commercial tenant demand nationwide.",
+                "Logistics real estate markets are demonstrating increased equilibrium after years of rapid speculative development absorption.",
+                "Distribution center planners should reevaluate facility leasing strategies to capitalize on stabilizing regional rental rates."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LABOR: STRATEGIC COMPENSATION",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "LABOR: STRATEGIC COMPENSATION",
+            "points": [
+                "Logistics Management\u2019s latest survey highlights supply chain salaries rebounding as professionals assume broader strategic enterprise responsibilities.",
+                "Modern operational leadership increasingly demands deep technical proficiency across risk management, automation, and data analytics.",
+                "Organizations are investing heavily in qualified supply chain talent to navigate ongoing global trade and compliance complexities.",
+                "Human resources directors must benchmark competitive compensation packages to attract specialized logistics talent effectively."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
