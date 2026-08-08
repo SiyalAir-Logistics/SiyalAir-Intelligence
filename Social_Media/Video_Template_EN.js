@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TARIFF REGULATORY SHIFT",
+        "hookTitle": "GLOBAL TRADE TARIFF RESTRUCTURING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "PROCUREMENT: POLYSILICON LEVIES",
+                "headline": "USTR: SECTION 301 EXPANSION",
+                "teaserTitle": "POLYSILICON: TARIFF AND PRICE FLOOR",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR enacts Section 301 tariffs across 60 nations, enforcing stringent supply chain compliance."
+                "narration_line": "The USTR is advancing Section 301 tariffs across 60 trade partners, forcing immediate supply chain audits."
             },
             {
                 "slide_index": 2,
-                "headline": "PROCUREMENT: POLYSILICON LEVIES",
-                "teaserTitle": "E-COMMERCE: TITLE POLICY UPDATE",
+                "headline": "POLYSILICON: TARIFF AND PRICE FLOOR",
+                "teaserTitle": "DATA CENTER: CAPACITY PRESSURES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "White House imposes a 15% tariff on polysilicon imports, impacting tech manufacturing."
+                "narration_line": "A new 15% import tariff on polysilicon takes effect Dec 4, impacting chip and solar manufacturing."
             },
             {
                 "slide_index": 3,
-                "headline": "E-COMMERCE: TITLE POLICY UPDATE",
-                "teaserTitle": "LOGISTICS: REAL ESTATE VACANCY",
+                "headline": "DATA CENTER: CAPACITY PRESSURES",
+                "teaserTitle": "PORTS: EARLY PEAK SURGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Amazon extends its 75-character product title limits to all retail listings."
+                "narration_line": "AI data center expansions demand 100K truckloads per gigawatt, pulling flatbed capacity from traditional freight."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: REAL ESTATE VACANCY",
-                "teaserTitle": "RAIL INFRASTRUCTURE: CSX EXPANSION",
+                "headline": "PORTS: EARLY PEAK SURGE",
+                "teaserTitle": "RAILWAY: CSX SERVICE EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Industrial real estate vacancy rates stabilize at 7.3% as demand meets new supply."
+                "narration_line": "Summer container imports hit highest levels since 2022, compressing inventory replenishment schedules early."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL INFRASTRUCTURE: CSX EXPANSION",
-                "teaserTitle": "RETAIL: TARIFF REFUND MARKET",
+                "headline": "RAILWAY: CSX SERVICE EXPANSION",
+                "teaserTitle": "PROCUREMENT: INVENTORY REPLENISHMENT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Port of Virginia launches direct CSX rail service to bypass Chicago bottlenecks."
+                "narration_line": "The Port of Virginia launched direct CSX rail services to Indiana, bypassing congested Chicago bottlenecks."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: TARIFF REFUND MARKET",
-                "teaserTitle": "MARITIME: HORMUZ TOLL RISKS",
+                "headline": "PROCUREMENT: INVENTORY REPLENISHMENT",
+                "teaserTitle": "AIR CARGO: MARKET VOLATILITY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Retailers monetize potential tariff refunds on secondary markets for immediate cash."
+                "narration_line": "Starbucks targets 24-hour inventory replenishment across retail outlets to optimize distribution efficiency."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: HORMUZ TOLL RISKS",
+                "headline": "AIR CARGO: MARKET VOLATILITY",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Global shipping bodies urge the IMO to oppose proposed Strait of Hormuz tolls."
+                "narration_line": "Middle East conflicts drive air freight volatility while Transpacific routes surge on AI cargo demand."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
             }
         ]
     }
