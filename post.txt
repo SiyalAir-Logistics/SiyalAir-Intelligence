@@ -1,27 +1,27 @@
-🌐 GLOBAL FREIGHT CAPACITY REALIGNMENT
+🌐 GLOBAL FREIGHT NETWORK EXPANSION
 
 Global supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:
 
 01 / TRADE: POLYSILICON IMPORT TARIFFS
-US imposes 15% tariffs and import price floors on polysilicon effective Dec 4, accelerating reshoring pressures.
+US imposes 15% tariffs and price floors on imported polysilicon starting Dec 4.
 
-02 / MARITIME: SEALEAD VOLUNTARY LIQUIDATION
-SeaLead Shipping liquidates operations, triggering rapid asset acquisitions by rivals and freight rerouting across Asia and Europe.
+02 / RAIL: VIRGINIA CSX INDIANAPOLIS LINK
+Port of Virginia adds direct CSX rail to Indianapolis, bypassing Chicago congestion.
 
-03 / RAIL: VIRGINIA CSX INDIANAPOLIS LINK
-Port of Virginia adds direct CSX rail service to Indianapolis, bypassing congested Chicago interchanges for Midwest cargo.
+03 / MANUFACTURING: DAIMLER US TRUCK PLANT
+Daimler Truck North America plans its largest US manufacturing plant by 2029.
 
-04 / EQUIPMENT: DTNA ZERO-EMISSION TRUCK PLANT
-Daimler Truck North America commits to EPA 2027 engine standards and announces a massive new US truck assembly facility.
+04 / E-COMMERCE: WALMART WING DRONE EXPANSION
+Walmart and Wing launch drone parcel delivery across 5 sites in Orlando, Florida.
 
-05 / FINANCE: RETAIL TARIFF REFUND MONETIZATION
-Retailers monetize potential federal tariff refunds through secondary market sales to unlock instant working capital.
+05 / POSTAL: USPS GROUND ADVANTAGE INCREASES
+USPS hikes Ground Advantage rates and imposes $2-$3 surcharges on rural orders.
 
-06 / INFRASTRUCTURE: DATA CENTER FREIGHT CRUNCH
-Data center expansion requires 100K truckloads per gigawatt, straining domestic trucking and boosting air freight yields.
+06 / WAREHOUSING: AMERICAN EAGLE NC HUB
+American Eagle Outfitters invests $41M in a North Carolina distribution facility.
 
-07 / INVENTORY: STARBUCKS REPLENISHMENT OVERHAUL
-Starbucks sets a 24-hour inventory replenishment target across stores after scrapping an unsuccessful 9-month AI logistics trial.
+07 / EQUIPMENT: TOYOTA $100M FORKLIFT PLANT
+Toyota Material Handling opens a $100M lift truck production facility in Indiana.
 
 ✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
 Stay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.
@@ -32,4 +32,4 @@ For Rate Audit and queries, contact us at +1 862 425 6741.
 [ LIKE • SHARE • FOLLOW ]
 For hourly decoded freight and global logistics signals across the globe.
 
-#GlobalTrade #SupplyChain #Logistics #Freight #CustomsCompliance #MaritimeLogistics #Trucking #Intermodal
+#GlobalTrade #FreightLogistics #SupplyChain #ImportTariffs #IntermodalRail #USPS #WarehouseAutomation #RetailLogistics

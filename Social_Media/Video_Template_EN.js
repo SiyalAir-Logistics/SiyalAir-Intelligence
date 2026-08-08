@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT CAPACITY REALIGNMENT",
+        "hookTitle": "GLOBAL FREIGHT NETWORK EXPANSION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "headline": "TRADE: POLYSILICON IMPORT TARIFFS",
-                "teaserTitle": "MARITIME: SEALEAD VOLUNTARY LIQUIDATION",
+                "teaserTitle": "RAIL: VIRGINIA CSX INDIANAPOLIS LINK",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "US imposes 15% tariffs on imported polysilicon starting Dec 4, reshaping solar and semiconductor procurement pipelines."
+                "narration_line": "US imposes 15% tariffs and price floors on imported polysilicon starting Dec 4, forcing strategic sourcing shifts."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SEALEAD VOLUNTARY LIQUIDATION",
-                "teaserTitle": "RAIL: VIRGINIA CSX INDIANAPOLIS LINK",
+                "headline": "RAIL: VIRGINIA CSX INDIANAPOLIS LINK",
+                "teaserTitle": "MANUFACTURING: DAIMLER US TRUCK PLANT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Ocean line SeaLead Shipping enters voluntary liquidation, forcing shippers to quickly reroute containerized freight across global routes."
+                "narration_line": "Port of Virginia introduces direct CSX intermodal rail service to Indianapolis, bypassing congested Chicago interchanges."
             },
             {
                 "slide_index": 3,
-                "headline": "RAIL: VIRGINIA CSX INDIANAPOLIS LINK",
-                "teaserTitle": "EQUIPMENT: DTNA ZERO-EMISSION TRUCK PLANT",
+                "headline": "MANUFACTURING: DAIMLER US TRUCK PLANT",
+                "teaserTitle": "E-COMMERCE: WALMART WING DRONE EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Port of Virginia and CSX open direct intermodal rail to Indianapolis, bypassing Chicago bottlenecks to accelerate Midwest freight."
+                "narration_line": "Daimler Truck plans its largest US manufacturing plant by 2029 to boost heavy-duty commercial tractor capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: DTNA ZERO-EMISSION TRUCK PLANT",
-                "teaserTitle": "FINANCE: RETAIL TARIFF REFUND MONETIZATION",
+                "headline": "E-COMMERCE: WALMART WING DRONE EXPANSION",
+                "teaserTitle": "POSTAL: USPS GROUND ADVANTAGE INCREASES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "DTNA commits to EPA 2027 engine rules and plans its largest US truck manufacturing facility to meet future fleet demands."
+                "narration_line": "Walmart and Wing launch commercial drone deliveries in Orlando, delivering orders under 3 lbs in under 30 minutes."
             },
             {
                 "slide_index": 5,
-                "headline": "FINANCE: RETAIL TARIFF REFUND MONETIZATION",
-                "teaserTitle": "INFRASTRUCTURE: DATA CENTER FREIGHT CRUNCH",
+                "headline": "POSTAL: USPS GROUND ADVANTAGE INCREASES",
+                "teaserTitle": "WAREHOUSING: AMERICAN EAGLE NC HUB",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Retailers sell rights to potential federal tariff refunds on secondary markets to gain immediate liquidity amid high trade costs."
+                "narration_line": "USPS increases Ground Advantage rates and adds a $2-$3 surcharge on lightweight package deliveries to rural ZIP codes."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: DATA CENTER FREIGHT CRUNCH",
-                "teaserTitle": "INVENTORY: STARBUCKS REPLENISHMENT OVERHAUL",
+                "headline": "WAREHOUSING: AMERICAN EAGLE NC HUB",
+                "teaserTitle": "EQUIPMENT: TOYOTA $100M FORKLIFT PLANT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Rapid AI data center expansion demands 100K truckloads per gigawatt, tightening US truck capacity and raising freight yields."
+                "narration_line": "American Eagle Outfitters invests $41M in a North Carolina distribution hub to optimize Southeastern retail fulfillment."
             },
             {
                 "slide_index": 7,
-                "headline": "INVENTORY: STARBUCKS REPLENISHMENT OVERHAUL",
+                "headline": "EQUIPMENT: TOYOTA $100M FORKLIFT PLANT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Starbucks targets 24-hour store inventory replenishment, pivoting back to core logistics after ending a 9-month AI tool trial."
+                "narration_line": "Toyota opens a $100M forklift manufacturing facility in Indiana to relieve long lead times for warehouse equipment."
             },
             {
                 "slide_index": 8,
