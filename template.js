@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFFS",
-        "titleBlue": "RESTRUCTURE",
-        "footerSummary": "New punitive trade levies, carrier capacity shifts, and shifting regulatory frameworks reshape global supply chains."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "DISRUPTIONS",
+        "footerSummary": "Section 301 tariffs hit 60 nations, cargo theft rings target brokers, and low Rhine water restricts European inland shipping corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: TARIFF IMPLEMENTATION",
+            "heading": "USTR: SECTION 301 TARIFFS",
             "points": [
-                "The Office of the United States Trade Representative moves forward with a 15% levy on polysilicon imports.",
-                "This targeted measure directly impacts high-tech manufacturing, semiconductor production, and international solar energy supply chains.",
-                "Importers must rapidly update compliance frameworks to navigate expanding federal trade barriers and new pricing floors.",
-                "Strategic supply chain adjustments are now required to mitigate sustained margin compression across electronics sectors."
+                "The Office of the United States Trade Representative moves forward with Section 301 forced-labor tariffs targeting 60 trading partners.",
+                "This regulatory expansion coincides with the expiration of emergency Section 122 duties to reinforce domestic manufacturing protections.",
+                "Global shippers must adjust entry documentation and compliance workflows to mitigate immediate cost increases across international supply lines.",
+                "Enterprise importers face mandatory duty recalculations that threaten profit margins across labor-intensive consumer goods categories."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ NEGOTIATIONS",
+            "nextUpTease": "CRIME: CARGO THEFT RING",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HORMUZ NEGOTIATIONS",
+            "heading": "CRIME: CARGO THEFT RING",
             "points": [
-                "Regional diplomatic talks advance regarding future transit conditions and security protocols within the Strait of Hormuz.",
-                "Ongoing maritime tensions continue to drive volatile bunker fuel costs and force carriers to evaluate alternate routing options.",
-                "Vessel operators must maintain operational flexibility to protect critical energy supply corridors from sudden disruptions.",
-                "Proactive risk management will remain essential for ocean liners navigating Middle Eastern maritime choke points."
+                "Federal authorities indictment exposes an 8-person cyber fraud ring that stole $4.49M in retail goods using hacked corporate data.",
+                "Organized criminal networks exploited freight brokerage systems to execute unauthorized cargo diversions and illicit load pickups.",
+                "Supply chain security officers are mandating multi-factor authentication protocols to protect sensitive digital dispatch documentation.",
+                "Freight brokers and carriers must harden IT infrastructure to prevent severe operational disruption and financial liability claims."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: TRANSPACIFIC DEMAND",
+            "nextUpTease": "LINERS: SEALEAD LIQUIDATION",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -42,49 +42,49 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: TRANSPACIFIC DEMAND",
+            "heading": "LINERS: SEALEAD LIQUIDATION",
             "points": [
-                "Expanding artificial intelligence cargo volumes and early inventory frontloading continue to stimulate Transpacific trade lanes.",
-                "Airlines experience robust demand for high-yield technology shipments despite ongoing regional geopolitical uncertainties.",
-                "Forwarders are securing dedicated allocation agreements to ensure reliable space availability amidst tightening capacity.",
-                "Supply chain planners must monitor air freight pricing dynamics closely to optimize high-value inventory transit schedules."
+                "Singapore-registered container carrier SeaLead Shipping initiates voluntary liquidation following recent severe US regulatory sanctions.",
+                "The vessel operator has abruptly halted main liner services connecting major manufacturing hubs across Asia, the Middle East, and Baltic ports.",
+                "Competitors are rapidly absorbing remaining vessel capacity and container assets to maintain active regional trade lane operations.",
+                "Ocean freight buyers must quickly reallocate committed container bookings to alternate carriers to prevent costly port delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: MANUFACTURING EXPANSION",
+            "nextUpTease": "INFRASTRUCTURE: AEO DISTRIBUTION CENTER",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRUCKING: MANUFACTURING EXPANSION",
+            "heading": "INFRASTRUCTURE: AEO DISTRIBUTION CENTER",
             "points": [
-                "Daimler Trucks North America commits to constructing its largest domestic manufacturing facility by the year 2029.",
-                "The heavy-duty equipment investment aligns with upcoming federal emissions compliance mandates and regional freight demand.",
-                "Expanded domestic truck production capabilities will help stabilize commercial fleet replacement cycles nationwide.",
-                "Logistics operators should coordinate equipment acquisition strategies early with OEM production expansion timelines."
+                "American Eagle Outfitters commits $41M to establish a new regional fulfillment center in North Carolina.",
+                "The strategic logistics hub will create over 200 operational jobs and streamline direct-to-consumer inventory distribution across the Southeast.",
+                "Modern facility designs integrate advanced fulfillment software to reduce handling times and optimize last-mile parcel transit.",
+                "Retail supply chain executives continue investing in localized distribution networks to cushion against rising long-haul transportation costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE: CATALOG TITLE RULES",
+            "nextUpTease": "POSTAL: USPS RATE INCREASES",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ECOMMERCE: CATALOG TITLE RULES",
+            "heading": "POSTAL: USPS RATE INCREASES",
             "points": [
-                "Amazon enforces a strict product title character limit of 75 characters across all marketplace inventory catalogs.",
-                "The platform adjustment aims to streamline mobile search performance and enhance digital consumer browsing clarity.",
-                "Third-party vendors must restructure product data feeds immediately to prevent search ranking penalties or suppression.",
-                "Digital retail managers need to audit storefront databases continuously to maintain full compliance standards."
+                "The United States Postal Service institutes immediate rate hikes on Ground Advantage parcel services for marketplace merchants.",
+                "New shipping surcharges add up to $3 per package for lightweight deliveries targeting remote and rural domestic zip codes.",
+                "E-commerce merchants on platforms like eBay and Amazon are re-evaluating parcel carrier strategies to shield operating margins.",
+                "Digital retailers must reconfigure checkout pricing algorithms to absorb or pass along expanding fulfillment surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: VACANCY STABILIZATION",
+            "nextUpTease": "INLAND: RHINE LOW WATER",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
@@ -93,29 +93,29 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "REAL ESTATE: VACANCY STABILIZATION",
+            "heading": "INLAND: RHINE LOW WATER",
             "points": [
-                "Colliers reports national industrial real estate vacancy rates settling near 7.3% amid moderating new warehouse deliveries.",
-                "The quarterly data indicates a healthier supply-demand equilibrium across major regional distribution hubs.",
-                "Developers are adjusting speculative construction pipelines to match sustained commercial tenant absorption trends.",
-                "Supply chain directors should reevaluate facility leasing strategies to capitalize on stabilizing regional rental markets."
+                "Record-low water levels on the Rhine River restrict barge draft capacities into Germany's primary industrial heartland.",
+                "Shallow vessel clearances are forcing industrial shippers to split container loads and pivot freight toward congested rail networks.",
+                "Europe's inland transport corridors face compounding rate surges and extended transit lead times across chemical and raw material sectors.",
+                "European logistics directors must secure secondary truck capacity to maintain continuous raw material deliveries to production plants."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: STRATEGIC COMPENSATION",
+            "nextUpTease": "AUTOMATION: DC DRONE COUNTS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LABOR: STRATEGIC COMPENSATION",
+            "heading": "AUTOMATION: DC DRONE COUNTS",
             "points": [
-                "Latest industry data highlights supply chain executive compensation rebounding as professionals assume broader enterprise responsibilities.",
-                "Modern operational leadership increasingly requires advanced expertise in automation, risk mitigation, and analytics.",
-                "Organizations continue to invest heavily in specialized talent to navigate complex global trade environments.",
-                "Human resources teams must benchmark competitive compensation packages to attract high-caliber supply chain personnel."
+                "Health retailer GNC deploys autonomous inventory drones across its 450,000 square foot distribution center footprint.",
+                "Automated aerial scan systems replace manual cycle counts to eliminate equipment bottlenecks and improve inventory tracking precision.",
+                "Warehouse operations record significant labor hour reductions while maintaining real-time stock visibility across high-density storage racks.",
+                "Distribution center operators are prioritizing specialized aerial robotics to overcome persistent warehouse labor shortages."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
