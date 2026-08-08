@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL LOGISTICS REAL-TIME RECALIBRATION",
+        "hookTitle": "GLOBAL TARIFF REGULATORY SHIFT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: USTR SECTION 301 TARIFFS",
-                "teaserTitle": "RAILWAY: PORT VIRGINIA CSX ROUTE",
+                "headline": "USTR: SECTION 301 TARIFFS",
+                "teaserTitle": "PROCUREMENT: POLYSILICON LEVIES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR enforces Section 301 tariffs across 60 nations as 25 states file legal challenges. Importers face immediate supply chain re-classification risks."
+                "narration_line": "USTR enacts Section 301 tariffs across 60 nations, enforcing stringent supply chain compliance."
             },
             {
                 "slide_index": 2,
-                "headline": "RAILWAY: PORT VIRGINIA CSX ROUTE",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY FLATTENS",
+                "headline": "PROCUREMENT: POLYSILICON LEVIES",
+                "teaserTitle": "E-COMMERCE: TITLE POLICY UPDATE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Port of Virginia launches direct CSX rail service into Indianapolis, completely bypassing Chicago freight congestion. Inbound transit times drop significantly."
+                "narration_line": "White House imposes a 15% tariff on polysilicon imports, impacting tech manufacturing."
             },
             {
                 "slide_index": 3,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY FLATTENS",
-                "teaserTitle": "AUTOMATION: WAREHOUSE DRONE DEPLOYMENT",
+                "headline": "E-COMMERCE: TITLE POLICY UPDATE",
+                "teaserTitle": "LOGISTICS: REAL ESTATE VACANCY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Industrial real estate vacancy drops to 7.3% as warehousing demand outpaces fresh construction. Lease rate concessions are rapidly ending nationwide."
+                "narration_line": "Amazon extends its 75-character product title limits to all retail listings."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTOMATION: WAREHOUSE DRONE DEPLOYMENT",
-                "teaserTitle": "MARITIME: HORMUZ TRANSIT CANAL TOLLS",
+                "headline": "LOGISTICS: REAL ESTATE VACANCY",
+                "teaserTitle": "RAIL INFRASTRUCTURE: CSX EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "GNC deploys autonomous inventory drones across 450K sq ft distribution centers to streamline cycle counts. Manual warehouse labor requirements drop dramatically."
+                "narration_line": "Industrial real estate vacancy rates stabilize at 7.3% as demand meets new supply."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: HORMUZ TRANSIT CANAL TOLLS",
-                "teaserTitle": "MANUFACTURING: TOYOTA FORKLIFT PLANT",
+                "headline": "RAIL INFRASTRUCTURE: CSX EXPANSION",
+                "teaserTitle": "RETAIL: TARIFF REFUND MARKET",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Shipping bodies urge UN intervention against proposed Strait of Hormuz transit fees. Unilateral ocean tolls threaten to spark global freight inflation."
+                "narration_line": "Port of Virginia launches direct CSX rail service to bypass Chicago bottlenecks."
             },
             {
                 "slide_index": 6,
-                "headline": "MANUFACTURING: TOYOTA FORKLIFT PLANT",
-                "teaserTitle": "FLEET: AMAZON DEDICATED TRUCK DOCKS",
+                "headline": "RETAIL: TARIFF REFUND MARKET",
+                "teaserTitle": "MARITIME: HORMUZ TOLL RISKS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Toyota opens a $100M forklift manufacturing facility in Indiana to expand material handling output. Domestic equipment lead times will decrease significantly."
+                "narration_line": "Retailers monetize potential tariff refunds on secondary markets for immediate cash."
             },
             {
                 "slide_index": 7,
-                "headline": "FLEET: AMAZON DEDICATED TRUCK DOCKS",
+                "headline": "MARITIME: HORMUZ TOLL RISKS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon Business rolls out dedicated commercial trucks for consolidated palletized loading dock deliveries. B2B freight handling capabilities expand rapidly."
+                "narration_line": "Global shipping bodies urge the IMO to oppose proposed Strait of Hormuz tolls."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
             }
         ]
     }

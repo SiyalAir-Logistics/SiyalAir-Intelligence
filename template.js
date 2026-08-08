@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS REAL-TIME",
-        "titleBlue": "RECALIBRATION",
-        "footerSummary": "Section 301 tariff shifts, Middle East transit tolls, and industrial dock expansions force immediate enterprise operational re-architecture."
+        "titleWhite": "GLOBAL TARIFF REGULATORY",
+        "titleBlue": "SHIFT",
+        "footerSummary": "USTR trade actions, supply chain restructuring, and regional infrastructure adjustments drive urgent compliance updates across global trade lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: USTR SECTION 301 TARIFFS",
+            "heading": "USTR: SECTION 301 TARIFFS",
             "points": [
-                "The USTR is implementing Section 301 tariffs on 60 trading partners following the expiration of Section 122 duties.",
-                "A coalition of 25 US states filed lawsuits challenging the forced-labor tariff enforcement mechanisms in federal court.",
-                "Importers face shifting duty structures requiring rapid re-classification of global cross-border supply chains.",
-                "Enterprise compliance teams must audit vendor origins immediately to mitigate retroactive financial exposure."
+                "The Office of the United States Trade Representative officially moved forward with implementation of sweeping tariffs on 60 trading partners.",
+                "The executive trade actions target forced labor supply chains and reinforce stringent import compliance protocols across key manufacturing corridors.",
+                "Importers must rapidly adapt documentation frameworks to prevent costly port delays and potential customs enforcement penalties.",
+                "Supply chain executives need to review sourcing origins immediately to mitigate unexpected landed cost spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAY: PORT VIRGINIA CSX ROUTE",
+            "nextUpTease": "PROCUREMENT: POLYSILICON LEVIES",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -25,15 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "RAILWAY: PORT VIRGINIA CSX ROUTE",
+            "heading": "PROCUREMENT: POLYSILICON LEVIES",
             "points": [
-                "The Port of Virginia launched direct CSX intermodal rail service connecting East Coast terminals directly to Indianapolis.",
-                "The rail bypass removes midwestern freight bottlenecks by bypassing traditional Chicago rail interchange yards.",
-                "Shippers gain accelerated transit times and reduced drayage expenses for regional inland distribution networks.",
-                "Logistics directors can reroute Ohio Valley container volumes to lower total landed transport costs."
+                "The White House issued a binding proclamation establishing a 15% tariff and strict import price floor on polysilicon imports.",
+                "The regulatory measure specifically impacts semiconductor and solar energy component supply chains starting December 4.",
+                "Manufacturers dependent on Asian tech inputs face compressed margins and urgent supply base diversification mandates.",
+                "Procurement teams must audit Tier 1 and Tier 2 suppliers to ensure full compliance with the new pricing structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY FLATTENS",
+            "nextUpTease": "E-COMMERCE: TITLE POLICY UPDATE",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -42,32 +42,32 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY FLATTENS",
+            "heading": "E-COMMERCE: TITLE POLICY UPDATE",
             "points": [
-                "Colliers Q2 industrial real estate metrics showed national warehouse vacancy rates stabilizing at 7.3%.",
-                "Quarterly tenant space absorption outpaced new construction deliveries for the first time in six quarters.",
-                "Tightening warehouse availability threatens to end recent rent concessions across core distribution hubs.",
-                "Supply chain planners must lock in long-term lease terms before industrial real estate capacity tightens further."
+                "Amazon expanded its strict 75-character product title limitation policy to encompass all first-party retail listings.",
+                "The platform-wide metadata shift is designed to optimize mobile viewing interfaces and align cataloging standards with AI search indexers.",
+                "Sellers failing to update digital asset management feeds risk automated listing suppression and severe traffic drops.",
+                "E-commerce logistics operators must audit product databases to protect conversion rates and inventory velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION: WAREHOUSE DRONE DEPLOYMENT",
+            "nextUpTease": "LOGISTICS: REAL ESTATE VACANCY",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AUTOMATION: WAREHOUSE DRONE DEPLOYMENT",
+            "heading": "LOGISTICS: REAL ESTATE VACANCY",
             "points": [
-                "Retail giant GNC deployed autonomous inventory drones across its 450K sq ft primary distribution facilities.",
-                "The automated aerial system replaces manual scissor-lift cycle counts, dramatically cutting warehouse labor hours.",
-                "Real-time stock visibility reduces fulfillment errors and improves inventory accuracy across omnichannel fulfillment hubs.",
-                "Distribution operations should evaluate aerial robotics to solve persistent warehouse labor shortages."
+                "Colliers reported that industrial real estate vacancy rates fell seven basis points sequentially to 7.3% in the second quarter.",
+                "The stabilization indicates that new logistics supply absorption is successfully catching up with historical demand peaks.",
+                "Developers are adjusting square footage pipelines to match a more balanced, regionalized warehousing market.",
+                "Corporate real estate directors should lock in long-term leases before local market inventories tighten further."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ TRANSIT CANAL TOLLS",
+            "nextUpTease": "RAIL INFRASTRUCTURE: CSX EXPANSION",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -76,51 +76,51 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "MARITIME: HORMUZ TRANSIT CANAL TOLLS",
+            "heading": "RAIL INFRASTRUCTURE: CSX EXPANSION",
             "points": [
-                "Global shipping associations urged the UN and IMO to block proposed transit tolls on Strait of Hormuz ocean lanes.",
-                "Emerging bilateral negotiations between regional powers threaten to add arbitrary fees on commercial maritime traffic.",
-                "Ocean carriers warn that transit surcharges will escalate global energy transport costs and freight inflation.",
-                "Container lines must prepare alternative routing strategies should Middle East transit fee mandates take effect."
+                "The Port of Virginia integrated direct CSX rail service into Indianapolis to streamline regional container freight flows.",
+                "Containers now bypass traditional midwestern congestion chokepoints like Chicago, significantly accelerating transit times.",
+                "Intermodal logistics networks are increasingly prioritizing direct-to-destination rail corridors to cut dwell times.",
+                "Shippers utilizing mid-atlantic ports should transition freight allocations to capitalize on the new rail routing options."
             ],
             "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: TOYOTA FORKLIFT PLANT",
+            "nextUpTease": "RETAIL: TARIFF REFUND MARKET",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MANUFACTURING: TOYOTA FORKLIFT PLANT",
+            "heading": "RETAIL: TARIFF REFUND MARKET",
             "points": [
-                "Toyota Material Handling opened a $100M forklift manufacturing facility expansion located in Indiana.",
-                "The industrial capital investment boosts domestic assembly capacity for electric and internal combustion lift equipment.",
-                "Expanded production lines aim to reduce lead times for enterprise materials handling hardware delivery.",
-                "Fleet managers can anticipate shorter lead times for heavy warehouse equipment orders through 2027."
+                "A secondary financial market emerged allowing major retailers to monetize potential government tariff refunds instantly.",
+                "Companies like American Eagle Outfitters are selling rights to pending claims to secure immediate working capital.",
+                "Financial strategists are leveraging trade litigation outcomes to inject liquidity back into core supply chain operations.",
+                "CFOs should evaluate asset monetization pathways to optimize balance sheets amid ongoing macroeconomic uncertainty."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET: AMAZON DEDICATED TRUCK DOCKS",
+            "nextUpTease": "MARITIME: HORMUZ TOLL RISKS",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FLEET: AMAZON DEDICATED TRUCK DOCKS",
+            "heading": "MARITIME: HORMUZ TOLL RISKS",
             "points": [
-                "Amazon Business introduced dedicated branded delivery vehicles specifically engineered for B2B loading dock deliveries.",
-                "The vehicle fleet supports consolidated drop-offs and heavy palletized freight fulfillment for enterprise accounts.",
-                "Customized commercial logistics trucks bridge the gap between parcel delivery networks and traditional LTL transport.",
-                "Corporate procurement leads should utilize consolidated dock schedules to reduce receiving bay congestion."
+                "Global shipping organizations urged the UN and IMO to oppose emerging transit fee negotiations in the Strait of Hormuz.",
+                "Proposed bilateral discussions involving regional authorities threaten to introduce costly new levies on commercial vessel traffic.",
+                "Unilateral waterway toll structures could severely disrupt crude oil flows and international maritime freight economics.",
+                "Carrier dispatchers must model alternative routing scenarios to protect schedules from unexpected geopolitical blockades."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
