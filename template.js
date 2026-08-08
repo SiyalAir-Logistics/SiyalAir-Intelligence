@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "TURMOIL",
-        "footerSummary": "Federal court demurrage rulings, Rhine waterway drops, and proposed Hormuz tolls drive immediate operational shifts across global trade corridors."
+        "titleWhite": "GLOBAL LOGISTICS NETWORK",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Carrier liquidations, direct intermodal rail expansions, and new tech import tariffs drive immediate operational recalibrations across critical trade corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FMC: DETENTION FEE RULING",
+            "heading": "MARITIME: SEALEAD SANCTIONS LIQUIDATION",
             "points": [
-                "The US Court of Appeals upheld an FMC decision ruling ocean carriers must ensure detention and demurrage fees strictly promote freight fluidity.",
-                "Container lines face heightened financial scrutiny after FMC collected a $1.9M civil penalty payment from a major non-compliant ocean carrier.",
-                "The legal precedent solidifies regulatory oversight on billing practices, preventing VOCCs from assessing fees during uncontrollable port congestion.",
-                "Importers and shippers gain leveraged legal grounds to challenge improper demurrage invoices across all major US maritime container gateways."
+                "Singapore-based ocean carrier SeaLead Shipping entered voluntary liquidation following trade sanctions linked to Iranian trade activity.",
+                "Rival container lines quickly acquired the carrier's fleet and container inventory to cover stranded volume across key routes.",
+                "The abrupt shutdown halted SeaLead's core liner services connecting Asia, the Middle East, the Mediterranean, and the Baltic Sea.",
+                "Cargo owners must immediately rebook delayed containerized freight with alternative vessel operators to minimize port dwell times."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND: RHINE LOW WATERWAY",
+            "nextUpTease": "INTERMODAL: VIRGINIA DIRECT CSX RAIL",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INLAND: RHINE LOW WATERWAY",
+            "heading": "INTERMODAL: VIRGINIA DIRECT CSX RAIL",
             "points": [
-                "Record-low water levels along the Rhine River are severely restricting inland barge draft limits and container payload capacities across Europe.",
-                "Barge operators have imposed low-water surcharges while shifting bulk industrial raw materials onto already congested European rail networks.",
-                "German industrial manufacturing corridors face mounting supply chain delays as landside transport alternatives reach operational capacity.",
-                "Logistics managers are forced to reroute inland freight via specialized intermodal paths to prevent severe manufacturing plant downtime."
+                "The Port of Virginia partnered with CSX rail to launch direct intermodal service connecting Norfolk marine terminals with Indianapolis.",
+                "Direct rail routing eliminates traditional freight drayage bottlenecks and bypasses severe Chicago rail yard transfer delays.",
+                "Midwest importers gain streamlined container transit times while reducing long-haul overland trucking dependency across eastern corridors.",
+                "Logistics managers can optimize supply chain lead times by routing midwestern inbound cargo directly through mid-Atlantic gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: DATA CENTER DEMAND",
+            "nextUpTease": "COMPLIANCE: 15% POLYSILICON IMPORT TARIFF",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRUCKING: DATA CENTER DEMAND",
+            "heading": "COMPLIANCE: 15% POLYSILICON IMPORT TARIFF",
             "points": [
-                "Surging US data center construction requires approximately 100,000 truckloads per gigawatt, consuming critical heavy-haul truck capacity.",
-                "Logistics providers report specialized flatbed and heavy-equipment transport capacity is rapidly shrinking across North American freight corridors.",
-                "The massive industrial infrastructure push competes directly with traditional industrial manufacturing cargo for specialized motor carrier fleets.",
-                "Shippers must secure multi-year dedicated fleet contracts to protect critical supply chain lanes from escalating spot transport rates."
+                "The US executive branch declared a 15% tariff alongside mandatory import price floors on foreign polysilicon materials.",
+                "The trade restriction specifically targets critical silicon inputs utilized in advanced semiconductor fabrication and solar energy technology.",
+                "Technology manufacturers face higher raw material procurement costs starting Dec 4 unless domestic production ramps rapidly.",
+                "Procurement executives are restructuring global semiconductor component sourcing to mitigate compounding regulatory tariff surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL: USPS SURCHARGE INCREASE",
+            "nextUpTease": "SECURITY: BROKER DATA CARGO THEFT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PARCEL: USPS SURCHARGE INCREASE",
+            "heading": "SECURITY: BROKER DATA CARGO THEFT",
             "points": [
-                "The US Postal Service posted Q3 package revenue growth driven by new parcel surcharges despite recording an overall $2.5B quarterly loss.",
-                "Ground Advantage price increases are adding $2 to $3 in additional shipping expenses for lightweight marketplace parcels sent to rural regions.",
-                "E-commerce merchants and marketplace platforms are restructuring outbound fulfillment networks to absorb higher final-mile delivery tariffs.",
-                "Retailers will increasingly leverage regional parcel carriers and local delivery hubs to bypass rising national postal carrier surcharges."
+                "A federal grand jury indicted 8 individuals for executing a $4.49M retail freight theft scheme targeting motor carriers.",
+                "The organized crime syndicate compromised freight broker databases to fraudulently intercept high-value commercial shipments in transit.",
+                "Cyber vulnerabilities in logistics software platforms continue to enable sophisticated cargo theft and unauthorized load re-routing.",
+                "Freight brokerages must implement strict multi-factor verification tools to protect client load tenders from fraudulent carrier identity theft."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: LEIPZIG DRONE THREAT",
+            "nextUpTease": "CUSTOMS: STATES SUE SECTION 301",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SECURITY: LEIPZIG DRONE THREAT",
+            "heading": "CUSTOMS: STATES SUE SECTION 301",
             "points": [
-                "German counterterrorism authorities launched an emergency investigation after discovering an explosives-laden drone at Leipzig/Halle Airport.",
-                "Security protocols were immediately heightened across major European air cargo hubs, causing temporary operational delays for express freight flights.",
-                "The targeted incident highlights emerging airborne security risks facing critical air logistics infrastructure and major parcel sorting hubs.",
-                "Air freight forwarders and airport authorities are implementing advanced perimeter defense technology and strict cargo screening measures."
+                "A coalition of 25 US states filed a federal lawsuit challenging the legality of expanded Section 301 import tariffs.",
+                "The lawsuit argues executive agencies bypassed constitutional authority by imposing broad duties following prior Supreme Court administrative rulings.",
+                "Legal uncertainty threatens current customs duty collection frameworks and creates volatile compliance environments for high-volume importers.",
+                "Corporate legal teams are preparing contingency duty drawback claims to recover capital should federal courts strike down the tariffs."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ TRANSIT TOLLS",
+            "nextUpTease": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: HORMUZ TRANSIT TOLLS",
+            "heading": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
             "points": [
-                "Global shipping bodies urged the UN and IMO to oppose proposed transit tolls as Iran and Oman negotiate new Strait of Hormuz passage rules.",
-                "Unilateral maritime transit fees threaten to inflate vessel operating costs and drive up bunker fuel surcharges across key Middle East trade lanes.",
-                "International ocean carriers face severe geopolitical uncertainty, forcing fleet managers to re-evaluate vessel routing and security protocols.",
-                "Container shipping lines will likely impose precautionary geopolitical risk surcharges on all cargo transiting strategic maritime chokepoints."
+                "Major retail corporations are monetizing prospective US Customs tariff refunds by selling claim rights to secondary financial markets.",
+                "Financial intermediaries buy future regulatory refund claims at a discount to provide immediate liquidity to cash-constrained retail brands.",
+                "The emerging secondary trade market highlights growing corporate demand for working capital amid extended federal customs dispute resolutions.",
+                "Importers can leverage financial restructuring mechanisms to convert uncertain duty litigation into immediate operational cash flow."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE: USTR SECTION 301",
+            "nextUpTease": "PORT: $135M US TERMINAL EXPANSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRADE: USTR SECTION 301",
+            "heading": "PORT: $135M US TERMINAL EXPANSION",
             "points": [
-                "The USTR announced forced-labor tariffs against 60 trading partners under Section 301 following the expiration of Section 122 trade duties.",
-                "Importers face expanded customs enforcement and strict forced-labor audit demands across global apparel, technology, and hardware supply chains.",
-                "Trade compliance teams are rapidly recalibrating supply chain origin tracing tools to maintain uninterrupted US port entry clearances.",
-                "Multinational corporations are accelerating supply chain diversification strategies to mitigate exposure to expanding federal tariff frameworks."
+                "A premier Asian ocean container line committed $135M to upgrade and expand its primary US West Coast marine terminal.",
+                "The infrastructure investment aims to increase container handling throughput and reduce vessel berth congestion during peak shipping seasons.",
+                "Upgraded dockside crane automation and expanded container yard space will support larger ultra-large container vessels calling North America.",
+                "Ocean shippers will experience improved terminal fluidity and faster drayage turn times across transpacific maritime trade routes."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

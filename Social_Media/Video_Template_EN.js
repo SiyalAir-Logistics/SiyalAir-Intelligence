@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK TURMOIL",
+        "hookTitle": "GLOBAL LOGISTICS NETWORK SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FMC: DETENTION FEE RULING",
-                "teaserTitle": "INLAND: RHINE LOW WATERWAY",
+                "headline": "MARITIME: SEALEAD SANCTIONS LIQUIDATION",
+                "teaserTitle": "INTERMODAL: VIRGINIA DIRECT CSX RAIL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "US courts upheld FMC detention rules promoting freight fluidity. Carriers face $1.9M penalties for improper billing."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation following sanctions. Competitors rapidly absorbed its fleet and assets to maintain trade continuity."
             },
             {
                 "slide_index": 2,
-                "headline": "INLAND: RHINE LOW WATERWAY",
-                "teaserTitle": "TRUCKING: DATA CENTER DEMAND",
+                "headline": "INTERMODAL: VIRGINIA DIRECT CSX RAIL",
+                "teaserTitle": "COMPLIANCE: 15% POLYSILICON IMPORT TARIFF",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Rhine River low water levels restricted European barge capacity. Industrial freight is shifting to strained rail networks."
+                "narration_line": "The Port of Virginia launched direct CSX rail service to Indianapolis. This move bypasses Chicago bottlenecks and cuts Midwest transit times."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: DATA CENTER DEMAND",
-                "teaserTitle": "PARCEL: USPS SURCHARGE INCREASE",
+                "headline": "COMPLIANCE: 15% POLYSILICON IMPORT TARIFF",
+                "teaserTitle": "SECURITY: BROKER DATA CARGO THEFT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "US data center construction demands 100K truckloads per gigawatt. Specialized heavy flatbed transport capacity is shrinking rapidly."
+                "narration_line": "The executive branch imposed a 15% tariff on foreign polysilicon imports. Tech suppliers face higher costs for semiconductor and solar manufacturing."
             },
             {
                 "slide_index": 4,
-                "headline": "PARCEL: USPS SURCHARGE INCREASE",
-                "teaserTitle": "SECURITY: LEIPZIG DRONE THREAT",
+                "headline": "SECURITY: BROKER DATA CARGO THEFT",
+                "teaserTitle": "CUSTOMS: STATES SUE SECTION 301",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "USPS parcel revenues rose via surcharges despite a $2.5B loss. Lightweight rural package fees increased by $3."
+                "narration_line": "A grand jury indicted 8 individuals in a $4.49M cyber cargo theft scheme. Criminals exploited compromised broker databases to steal retail shipments."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: LEIPZIG DRONE THREAT",
-                "teaserTitle": "MARITIME: HORMUZ TRANSIT TOLLS",
+                "headline": "CUSTOMS: STATES SUE SECTION 301",
+                "teaserTitle": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "An explosive drone at Leipzig Airport triggered German terror probes. European air freight hubs heightened perimeter security protocols."
+                "narration_line": "A coalition of 25 states sued to block Section 301 tariff enforcement. Legal challenges question executive authority over broad import duties."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: HORMUZ TRANSIT TOLLS",
-                "teaserTitle": "TRADE: USTR SECTION 301",
+                "headline": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
+                "teaserTitle": "PORT: $135M US TERMINAL EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Shipping groups urged the UN to reject proposed Hormuz transit fees. Unilateral tolls threaten ocean carrier operating costs."
+                "narration_line": "Retailers are selling rights to federal tariff refunds on secondary markets. The financial strategy generates immediate liquidity amid regulatory delays."
             },
             {
                 "slide_index": 7,
-                "headline": "TRADE: USTR SECTION 301",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "PORT: $135M US TERMINAL EXPANSION",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "USTR deployed Section 301 tariffs on 60 trading partners. Importers face strict forced labor customs audits."
+                "narration_line": "An Asian carrier invested $135M to expand its US container terminal hub. Upgraded infrastructure will enhance berth throughput and drayage fluidity."
             },
             {
                 "slide_index": 8,
