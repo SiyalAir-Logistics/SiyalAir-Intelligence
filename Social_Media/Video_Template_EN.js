@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT NETWORK DISRUPTIONS",
+        "hookTitle": "GLOBAL LOGISTICS REAL-TIME RECALIBRATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "E-COMMERCE: AMAZON TITLE CHARACTER LIMIT",
-                "teaserTitle": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+                "headline": "TRADE: USTR SECTION 301 TARIFFS",
+                "teaserTitle": "RAILWAY: PORT VIRGINIA CSX ROUTE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Amazon enforced a 75-character product title limit. Sellers must format catalog titles to avoid search suppression."
+                "narration_line": "USTR enforces Section 301 tariffs across 60 nations as 25 states file legal challenges. Importers face immediate supply chain re-classification risks."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
-                "teaserTitle": "PARCEL: USPS GROUND ADVANTAGE RATE HIKE",
+                "headline": "RAILWAY: PORT VIRGINIA CSX ROUTE",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY FLATTENS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Iran and Oman proposed Strait of Hormuz transit fees. Global shipping groups urge UN intervention against unilateral tolls."
+                "narration_line": "Port of Virginia launches direct CSX rail service into Indianapolis, completely bypassing Chicago freight congestion. Inbound transit times drop significantly."
             },
             {
                 "slide_index": 3,
-                "headline": "PARCEL: USPS GROUND ADVANTAGE RATE HIKE",
-                "teaserTitle": "TRADE COMPLIANCE: USTR SECTION 301 TARIFFS",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY FLATTENS",
+                "teaserTitle": "AUTOMATION: WAREHOUSE DRONE DEPLOYMENT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "USPS raised Ground Advantage rates with $2-$3 rural surcharges. Sellers face higher last-mile package delivery costs."
+                "narration_line": "Industrial real estate vacancy drops to 7.3% as warehousing demand outpaces fresh construction. Lease rate concessions are rapidly ending nationwide."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE COMPLIANCE: USTR SECTION 301 TARIFFS",
-                "teaserTitle": "TRUCKING: DATA CENTER CAPACITY CRUNCH",
+                "headline": "AUTOMATION: WAREHOUSE DRONE DEPLOYMENT",
+                "teaserTitle": "MARITIME: HORMUZ TRANSIT CANAL TOLLS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "USTR implemented Section 301 tariffs on 60 trading nations. Importers must verify supply chain origin compliance."
+                "narration_line": "GNC deploys autonomous inventory drones across 450K sq ft distribution centers to streamline cycle counts. Manual warehouse labor requirements drop dramatically."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING: DATA CENTER CAPACITY CRUNCH",
-                "teaserTitle": "CARRIER OPERATIONS: SEALEAD LIQUIDATION",
+                "headline": "MARITIME: HORMUZ TRANSIT CANAL TOLLS",
+                "teaserTitle": "MANUFACTURING: TOYOTA FORKLIFT PLANT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "US data center builds demand 100K truckloads per gigawatt. Heavy construction freight is consuming regional truck capacity."
+                "narration_line": "Shipping bodies urge UN intervention against proposed Strait of Hormuz transit fees. Unilateral ocean tolls threaten to spark global freight inflation."
             },
             {
                 "slide_index": 6,
-                "headline": "CARRIER OPERATIONS: SEALEAD LIQUIDATION",
-                "teaserTitle": "LOGISTICS SECURITY: HACKED CARGO THEFT",
+                "headline": "MANUFACTURING: TOYOTA FORKLIFT PLANT",
+                "teaserTitle": "FLEET: AMAZON DEDICATED TRUCK DOCKS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "SeaLead Shipping entered liquidation following US sanctions. Rival carriers are snapping up vessel charters and container assets."
+                "narration_line": "Toyota opens a $100M forklift manufacturing facility in Indiana to expand material handling output. Domestic equipment lead times will decrease significantly."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS SECURITY: HACKED CARGO THEFT",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "FLEET: AMAZON DEDICATED TRUCK DOCKS",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A grand jury indicted 8 individuals in a $4.49M cargo theft ring. Criminals utilized hacked logistics data to steal retail shipments."
+                "narration_line": "Amazon Business rolls out dedicated commercial trucks for consolidated palletized loading dock deliveries. B2B freight handling capabilities expand rapidly."
             },
             {
                 "slide_index": 8,

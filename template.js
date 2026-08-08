@@ -1,73 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "DISRUPTIONS",
-        "footerSummary": "Enforced title caps, Horn of Hormuz fees, and tariff expansions force immediate re-routing and operational compliance checks across global supply chains."
+        "titleWhite": "GLOBAL LOGISTICS REAL-TIME",
+        "titleBlue": "RECALIBRATION",
+        "footerSummary": "Section 301 tariff shifts, Middle East transit tolls, and industrial dock expansions force immediate enterprise operational re-architecture."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "E-COMMERCE: AMAZON TITLE CHARACTER LIMIT",
+            "heading": "TRADE: USTR SECTION 301 TARIFFS",
             "points": [
-                "Amazon has strictly capped product title length at 75 characters max across seller listings to optimize search engine performance and mobile interface readability.",
-                "The mandatory character restriction forces catalog teams to revise metadata formatting and remove keyword-stuffing strategies across millions of active marketplace SKUs.",
-                "Sellers failing to comply risk listing suppression and lower organic search rankings as algorithm crawlers systematically re-index truncated catalog feeds.",
-                "E-commerce logistics operators must rapidly adjust inventory optimization software to prevent revenue drop-offs across affected catalog categories."
+                "The USTR is implementing Section 301 tariffs on 60 trading partners following the expiration of Section 122 duties.",
+                "A coalition of 25 US states filed lawsuits challenging the forced-labor tariff enforcement mechanisms in federal court.",
+                "Importers face shifting duty structures requiring rapid re-classification of global cross-border supply chains.",
+                "Enterprise compliance teams must audit vendor origins immediately to mitigate retroactive financial exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+            "nextUpTease": "RAILWAY: PORT VIRGINIA CSX ROUTE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+            "heading": "RAILWAY: PORT VIRGINIA CSX ROUTE",
             "points": [
-                "Diplomatic discussions between Iran and Oman regarding new transit fee frameworks across the Strait of Hormuz have triggered alarm among global ocean shipping coalitions.",
-                "International shipping associations are calling on the UN and IMO to oppose any unilateral transit tolls or fee structures imposed on commercial maritime vessels.",
-                "Enforcing transit tolls in key maritime bottlenecks risks escalating operational carrier expenses and compounding war risk insurance surcharges across global oil and container trade.",
-                "Ocean carriers and freight forwarders are evaluating route diversions and cost-pass-through mechanisms to cushion potential geopolitical transit surcharges."
+                "The Port of Virginia launched direct CSX intermodal rail service connecting East Coast terminals directly to Indianapolis.",
+                "The rail bypass removes midwestern freight bottlenecks by bypassing traditional Chicago rail interchange yards.",
+                "Shippers gain accelerated transit times and reduced drayage expenses for regional inland distribution networks.",
+                "Logistics directors can reroute Ohio Valley container volumes to lower total landed transport costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL: USPS GROUND ADVANTAGE RATE HIKE",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY FLATTENS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PARCEL: USPS GROUND ADVANTAGE RATE HIKE",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY FLATTENS",
             "points": [
-                "USPS has implemented rate increases for Ground Advantage services alongside additional $2-$3 surcharges targeting lightweight package deliveries destined for rural locations.",
-                "The rate adjustments raise baseline logistics expenses for marketplace sellers on eBay and Amazon delivering high-volume consumer goods to remote zip codes.",
-                "Shifting postal pricing models reflect broader carrier cost recoveries amid elevated fuel expenses and last-mile operational distribution overhead.",
-                "E-commerce fulfillment managers must re-evaluate multi-carrier regional parcel routing options to limit margin degradation on small package shipments."
+                "Colliers Q2 industrial real estate metrics showed national warehouse vacancy rates stabilizing at 7.3%.",
+                "Quarterly tenant space absorption outpaced new construction deliveries for the first time in six quarters.",
+                "Tightening warehouse availability threatens to end recent rent concessions across core distribution hubs.",
+                "Supply chain planners must lock in long-term lease terms before industrial real estate capacity tightens further."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE COMPLIANCE: USTR SECTION 301 TARIFFS",
+            "nextUpTease": "AUTOMATION: WAREHOUSE DRONE DEPLOYMENT",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRADE COMPLIANCE: USTR SECTION 301 TARIFFS",
+            "heading": "AUTOMATION: WAREHOUSE DRONE DEPLOYMENT",
             "points": [
-                "The USTR confirmed the implementation of forced-labor Section 301 tariffs across 60 trading nations following the expiration of temporary Section 122 duties.",
-                "The expanded trade measure targets critical supply chain sectors to mandate verifiable origin compliance and eliminate forced labor from international import channels.",
-                "Importers face heightened customs documentation requirements and administrative audit risks across multi-tiered foreign supplier manufacturing networks.",
-                "Compliance officers must execute end-to-end supply chain mapping software updates to ensure uninterrupted customs clearance at US ports of entry."
+                "Retail giant GNC deployed autonomous inventory drones across its 450K sq ft primary distribution facilities.",
+                "The automated aerial system replaces manual scissor-lift cycle counts, dramatically cutting warehouse labor hours.",
+                "Real-time stock visibility reduces fulfillment errors and improves inventory accuracy across omnichannel fulfillment hubs.",
+                "Distribution operations should evaluate aerial robotics to solve persistent warehouse labor shortages."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: DATA CENTER CAPACITY CRUNCH",
+            "nextUpTease": "MARITIME: HORMUZ TRANSIT CANAL TOLLS",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -76,15 +76,15 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "TRUCKING: DATA CENTER CAPACITY CRUNCH",
+            "heading": "MARITIME: HORMUZ TRANSIT CANAL TOLLS",
             "points": [
-                "Rapid expansion of domestic data centers is creating severe freight competition, requiring up to 100K truckloads per gigawatt of new construction capacity.",
-                "The massive construction demand absorbs specialized flatbed and heavy-haul truck capacity, competing directly with industrial equipment and standard over-the-road freight movements.",
-                "High-yield technology transport commitments are squeezing regional driver availability and accelerating haulage rate increases across key domestic freight corridors.",
-                "Logistics planners should secure long-term dedicated trucking capacity agreements to shield standard supply chain movements from ongoing infrastructure construction shocks."
+                "Global shipping associations urged the UN and IMO to block proposed transit tolls on Strait of Hormuz ocean lanes.",
+                "Emerging bilateral negotiations between regional powers threaten to add arbitrary fees on commercial maritime traffic.",
+                "Ocean carriers warn that transit surcharges will escalate global energy transport costs and freight inflation.",
+                "Container lines must prepare alternative routing strategies should Middle East transit fee mandates take effect."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER OPERATIONS: SEALEAD LIQUIDATION",
+            "nextUpTease": "MANUFACTURING: TOYOTA FORKLIFT PLANT",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -93,34 +93,34 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "CARRIER OPERATIONS: SEALEAD LIQUIDATION",
+            "heading": "MANUFACTURING: TOYOTA FORKLIFT PLANT",
             "points": [
-                "Singapore-based container line SeaLead Shipping has entered voluntary liquidation following the imposition of stringent US sanctions targeting its ocean fleet operations.",
-                "Competitors and regional ocean lines are rapidly absorbing SeaLead's vessel charters and container assets to prevent operational disruptions across Asia-Middle East trade lanes.",
-                "The abrupt market exit underscores the severe commercial vulnerability of carrier networks facing international sanction enforcement and regulatory blacklisting.",
-                "BCOs and freight forwarders must immediately audit ocean booking portfolios to identify affected containerized cargo and secure alternative carrier allocations."
+                "Toyota Material Handling opened a $100M forklift manufacturing facility expansion located in Indiana.",
+                "The industrial capital investment boosts domestic assembly capacity for electric and internal combustion lift equipment.",
+                "Expanded production lines aim to reduce lead times for enterprise materials handling hardware delivery.",
+                "Fleet managers can anticipate shorter lead times for heavy warehouse equipment orders through 2027."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS SECURITY: HACKED CARGO THEFT",
+            "nextUpTease": "FLEET: AMAZON DEDICATED TRUCK DOCKS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LOGISTICS SECURITY: HACKED CARGO THEFT",
+            "heading": "FLEET: AMAZON DEDICATED TRUCK DOCKS",
             "points": [
-                "A federal grand jury indicted 8 individuals for executing a $4.49M retail cargo theft ring that utilized hacked carrier data to intercept high-value freight.",
-                "The criminal enterprise exploited compromised logistics software credentials to orchestrate fraudulent shipment pickups across major retail distribution networks.",
-                "The incident highlights escalating cyber vulnerabilities within digital freight brokerage networks and carrier tracking portals across North America.",
-                "Freight brokers and 3PLs must enforce strict multi-factor authentication protocols and carrier verification systems to neutralize digital cargo interception tactics."
+                "Amazon Business introduced dedicated branded delivery vehicles specifically engineered for B2B loading dock deliveries.",
+                "The vehicle fleet supports consolidated drop-offs and heavy palletized freight fulfillment for enterprise accounts.",
+                "Customized commercial logistics trucks bridge the gap between parcel delivery networks and traditional LTL transport.",
+                "Corporate procurement leads should utilize consolidated dock schedules to reduce receiving bay congestion."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
