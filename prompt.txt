@@ -49,13 +49,13 @@ SECTION C: HOURLY CROSS-EXAMINATION & RANKING ALGORITHM
 Process data through this 3-stage filtration engine:
 - Step 1: Temporal & Source Verification: Drop any entry that lacks an explicit, verifiable publication timestamp within the past 24-to-48 hour rolling window, or any entry pulling from a static root landing page instead of a fresh news item from the authorized sources. If a source yields zero items within the window, skip it entirely without reaching into historical archives.
 - Step 2: Anti-Duplication & Historical Blacklist Filtering: Cross-examine candidate stories against the ingested historical dataset from `template.js` provided in the runtime prompt context. Drop any re-hashes, identical coverage, or structural matches from past updates to guarantee absolute 100% fresh hourly intelligence.
-- Step 3: Signal Matrix & Lead-Story Title Derivation: Rank items (0-10) on their operational friction impact. The #1 highest-scoring breaking item selected for Slide 1 dictates the primary broadcast headline.
-- Strict Pure Title Synchronization Rule: To eradicate title fatigue and ensure 100% hourly uniqueness across all social headers, email subjects, and video hooks, the main title (`titleWhite` + `titleBlue`) must be derived **strictly and purely from Slide 1's heading text** (excluding any category prefixes if present, or using the raw headline words directly). Split the title phrase so that all words except the absolute last go into `titleWhite`, and the absolute last word goes into `titleBlue` (forcing it to be blue). This guarantees zero prefix noise, a pure title format, and complete uniqueness every single hour.
+- Step 3: Signal Matrix & Clean Core Cover Title Derivation: Rank items (0-10) on their operational friction impact. The #1 highest-scoring breaking item selected for Slide 1 dictates the primary broadcast theme.
+- Strict Clean Core Title Rule: To prevent cover image font size blowouts and eradicate title fatigue, the main cover title (`titleWhite` + `titleBlue`) must be derived **strictly and purely from Slide 1's heading, with any category prefix and colon (e.g., "USTR:") completely stripped out**. Take only the core upgrade phrase following the colon. Split this core phrase so that all words except the absolute last go into `titleWhite`, and the absolute last word goes into `titleBlue` (forcing it to be blue). This guarantees zero prefix clutter, perfect cover typography sizing, and complete uniqueness every single hour.
 
 --------------------------------------------------------------------------------
 SECTION D: FORMATTING & HARSH CHARACTER BOUNDARIES
 --------------------------------------------------------------------------------
-- Slide Headings: UPPERCASE. Max 45 chars. STRICT FORMAT: Must follow "CATEGORY: CORE UPGRADE" structure containing a clear colon separator (e.g., "USTR: SECTION 301 TARIFFS") so that the UI rendering client accurately parses and applies color accents.
+- Slide Headings: UPPERCASE. Max 45 chars. STRICT FORMAT: Must follow "CATEGORY: CORE UPGRADE" structure containing a clear colon separator (e.g., "USTR: FORCED LABOR TARIFFS") so that the UI rendering client accurately parses and applies color accents.
 - Slide Content Format: Every slide must contain exactly three distinct, narrative paragraphs separated by double line breaks (\n\n). Each paragraph must contain exactly 3 to 4 dense, highly information-packed sentences (totaling 9-12 sentences per slide content block). 
 - Length Control: Each paragraph summary point must be maximum of 3 lines per individual string point constraint.
 - Editorial Rule: ABSOLUTELY ZERO SALES PITCHES OR SELF-PROMOTION inside the 7 data slides. Siyal Air acts strictly as the objective publishing intelligence agency.
@@ -66,8 +66,8 @@ SECTION E: DATA INTERCHANGE SCHEMA SPECIFICATIONS (`template.js` DATA MAP)
 --------------------------------------------------------------------------------
 Extract 7 distinct technical developments from the scraped data sources. Parse your findings into a clean object matching the JSON structural footprint:
 - kicker: Static string value "" (Empty string to maintain empty block padding)
-- titleWhite: Pure main title words except the last word (derived directly from Slide 1 headline)
-- titleBlue: Pure main title last word strictly (derived directly from Slide 1 headline)
+- titleWhite: Pure core title words except the last word (derived strictly from Slide 1 heading after stripping any category prefix and colon)
+- titleBlue: Pure core title last word strictly (derived strictly from Slide 1 heading after stripping any category prefix and colon)
 - footerSummary: A dynamic, hourly-refreshed 2-line forensic teaser unique to this specific update's core catalyst (max 25 words).
 - slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings matching the `CATEGORY: TITLE` format rule, 4 technical narrative array entries, empty image reference layouts, a nextUpTease string, and audit validation metadata arrays including the **exact, deep-linked source article URL** (e.g., `https://www.domain.com/exact-article-slug`).
 
@@ -144,8 +144,8 @@ Output pure JSON with zero markdown code ticks outside the structural map:
   "slides_data": {
     "main": {
       "kicker": "",
-      "titleWhite": "[PURE SLIDE 1 HEADLINE WORDS EXCEPT LAST]",
-      "titleBlue": "[PURE SLIDE 1 HEADLINE LAST WORD]",
+      "titleWhite": "[PURE SLIDE 1 CORE WORDS EXCEPT LAST, NO PREFIX]",
+      "titleBlue": "[PURE SLIDE 1 CORE LAST WORD]",
       "footerSummary": "[DYNAMIC HOURLY-REFRESHED FORENSIC TEASER HIGHLIGHTING IMMEDIATE RISK]"
     },
     "slides": [
