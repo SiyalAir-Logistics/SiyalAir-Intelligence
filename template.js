@@ -1,73 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL SUPPLY CHAIN",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Polysilicon tariffs trigger solar supply shocks, FMC enforces strict detention fee rules, and Virginia expands CSX Midwest rail corridors."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "VOLATILITY",
+        "footerSummary": "Rhine water levels drop, US trade policy shifts toward permanent Section 301 tariffs, and data center growth strains trucking capacity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: POLYSILICON IMPORT TARIFFS",
+            "heading": "TRADE: SECTION 301 TARIFF POLICIES",
             "points": [
-                "The U.S. administration issued an executive proclamation establishing a 15% tariff and price floor on all imported polysilicon materials.",
-                "Effective December 4, the mandatory import levy targets critical inputs required for domestic semiconductor fabrication and solar energy hardware production.",
-                "Solar manufacturers and microchip fabricators face immediate bill-of-materials cost increases as global supply chains adjust to federal price controls.",
-                "Enterprise procurement teams are accelerating import shipments ahead of the Q4 deadline to mitigate regulatory price floor exposure."
+                "The Office of the United States Trade Representative formally announced the implementation of permanent tariffs targeting 60 key trading partners.",
+                "The sweeping trade enforcement action embeds Section 301 duties as a permanent baseline fixture of domestic commercial import policy.",
+                "Importers and multinational procurement teams must structurally adjust supply chain cost models to account for enduring regulatory duties.",
+                "Customs compliance analysts anticipate increased friction and documentation audits across global manufacturing import channels."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: VIRGINIA CSX EXPANSION",
+            "nextUpTease": "MARITIME: RHINE WATER LEVEL DISRUPTIONS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL: VIRGINIA CSX EXPANSION",
+            "heading": "MARITIME: RHINE WATER LEVEL DISRUPTIONS",
             "points": [
-                "The Port of Virginia partnered with CSX Transportation to launch direct intermodal rail service linking coastal terminals to Indianapolis.",
-                "The dedicated intermodal corridor eliminates traditional rail transfers through congested Chicago terminals to accelerate Midwest container transit times.",
-                "Regional distribution networks gain direct access to ocean container imports while reducing reliance on long-haul drayage trucking fleets.",
-                "Midwest importers are shifting container routing profiles to capitalize on streamlined rail clearances and lower inland transportation overhead."
+                "Record-low water levels along the Rhine River have severely restricted barge capacity and increased transport rates for European industrial hubs.",
+                "Logistics providers are forced to split bulk cargo loads across limited road and rail alternatives to bypass impassable shallow river stretches.",
+                "Manufacturing supply chains across the German industrial heartland face mounting operational delays and higher raw material shipping overhead.",
+                "Freight forwarders are deploying emergency contingency routing protocols to maintain component flows amid ongoing inland waterway constraints."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC: CONTAINER DETENTION FEES",
+            "nextUpTease": "SURFACE: DATA CENTER TRUCKING DEMAND",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FMC: CONTAINER DETENTION FEES",
+            "heading": "SURFACE: DATA CENTER TRUCKING DEMAND",
             "points": [
-                "The U.S. Court of Appeals upheld a Federal Maritime Commission decision requiring container detention fees to directly promote freight fluidity.",
-                "The judicial affirmation cements regulatory standards that invalidate demurrage penalties imposed during uncontrollable port terminal closures.",
-                "Ocean carriers and terminal operators must reform invoice assessment algorithms to verify container accessibility before issuing detention charges.",
-                "Importers and freight forwarders secure stronger legal precedent to challenge improper billing practices across major domestic port gateways."
+                "Rapid nationwide expansion of artificial intelligence data centers is generating unprecedented friction within the domestic truckload capacity pool.",
+                "Industry experts estimate that every single gigawatt of new data center construction requires approximately 100,000 dedicated heavy truckloads.",
+                "Regional motor carriers are struggling to allocate sufficient flatbed and dry van equipment against booming construction logistics requirements.",
+                "Shippers operating outside the tech sector face tightening equipment availability and upward rate pressures across key regional freight corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: EPA 2027 ENGINES",
+            "nextUpTease": "OEM: DAIMLER EPA 2027 ENGINES",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "EQUIPMENT: EPA 2027 ENGINES",
+            "heading": "OEM: DAIMLER EPA 2027 ENGINES",
             "points": [
-                "Daimler Truck North America confirmed its commitment to produce exclusively EPA 2027-compliant heavy-duty engines ahead of upcoming federal emissions regulations.",
-                "The commercial vehicle manufacturer is re-engineering powertrain architectures to satisfy stringent nitrogen oxide reduction standards launching in 2027.",
-                "Fleet operations face higher initial equipment acquisition costs alongside specialized maintenance requirements across new heavy truck assets.",
-                "Motor carriers are re-evaluating long-term fleet replacement cycles to balance capital expenditure requirements against strict emissions compliance."
+                "Daimler Truck North America officially committed to producing exclusively EPA 2027-compliant heavy-duty powertrains as upcoming emissions rules launch.",
+                "The manufacturer is re-engineering commercial truck architectures to meet stringent federal nitrogen oxide reduction standards taking effect in 2027.",
+                "Commercial fleets face significant capital expenditure increases and complex maintenance demands when acquiring new heavy-duty equipment.",
+                "Motor carriers are recalibrating long-term asset replacement schedules to balance regulatory compliance costs against operational revenue."
             ],
             "imageUrl": "",
-            "nextUpTease": "TERMINALS: DP WORLD RESTRUCTURING",
+            "nextUpTease": "EQUIPMENT: TOYOTA INDIANA FORKLIFT PLANT",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -76,46 +76,46 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "TERMINALS: DP WORLD RESTRUCTURING",
+            "heading": "EQUIPMENT: TOYOTA INDIANA FORKLIFT PLANT",
             "points": [
-                "Terminal giant DP World initiated a major organizational restructuring resulting in the elimination of 300 operational roles across Europe.",
-                "The workforce reduction targets administrative and management layers to streamline decision-making across port and logistics networks.",
-                "Port operators are reallocating capital toward automated terminal infrastructure to control operating overhead amid volatile freight volumes.",
-                "Supply chain directors operating in European hubs face temporary administrative adjustments as terminal management teams consolidate functions."
+                "Toyota Material Handling inaugurated a major $100M manufacturing facility expansion in Indiana to scale domestic forklift production.",
+                "The advanced industrial investment aims to alleviate material handling equipment bottlenecks across North American distribution centers.",
+                "Warehouse operators gain expanded access to electric and automated material handling assets to support high-throughput fulfillment hubs.",
+                "Supply chain directors are integrating new equipment fleets to enhance facility throughput and mitigate ongoing warehouse labor constraints."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
+            "nextUpTease": "GOVERNMENT: SENATE RUSSIA SANCTIONS BILL",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
+            "heading": "GOVERNMENT: SENATE RUSSIA SANCTIONS BILL",
             "points": [
-                "Amazon implemented a strict policy capping product listing titles at 75 characters across all marketplace seller and first-party catalog entries.",
-                "The algorithmic title character ceiling aims to standardize mobile display layouts and eliminate keyword stuffing across search results.",
-                "Third-party merchants must audit product catalog metadata immediately to avoid search suppressions and automatic title truncations.",
-                "E-commerce brands are restructuring product listings to maintain keyword search visibility under tighter character limitations."
+                "The United States Senate decisively passed a rigorous Russia sanctions bill, advancing the legislative package directly to the House.",
+                "The sweeping economic restrictions introduce new compliance mandates for international maritime trade and cross-border logistics intermediaries.",
+                "Compliance officers across global freight forwarding firms are auditing transaction logs to ensure strict adherence to updated export controls.",
+                "International carriers are adjusting operational route planning to mitigate potential regulatory exposure under the expanding sanctions framework."
             ],
             "imageUrl": "",
-            "nextUpTease": "LAST-MILE: WALMART DRONE FLIGHTS",
+            "nextUpTease": "RETAIL: WAYFAIR HIGHER-INCOME DEMAND",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LAST-MILE: WALMART DRONE FLIGHTS",
+            "heading": "RETAIL: WAYFAIR HIGHER-INCOME DEMAND",
             "points": [
-                "Walmart expanded its autonomous last-mile delivery network by deploying Wing drone delivery services across five Orlando retail locations.",
-                "The aerial fulfillment expansion enables 30-minute delivery windows for lightweight parcel orders within a designated suburban radius.",
-                "Retail supply chains are integrating automated aerial transit to bypass ground traffic congestion and reduce last-mile courier expenses.",
-                "Suburban parcel logistics operators face heightened competition as major retailers scale automated aerial fulfillment infrastructure."
+                "Wayfair reported significant revenue gains driven by resilient high-income consumer demand within its upscale Perigold furniture banner.",
+                "The luxury home goods sector continues to outperform broader retail segments despite ongoing macroeconomic housing market uncertainty.",
+                "E-commerce fulfillment networks are optimizing high-value parcel delivery protocols to protect operating margins and customer satisfaction.",
+                "Supply chain managers are realigning inventory distribution strategies to support strong regional demand for premium home furnishings."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",

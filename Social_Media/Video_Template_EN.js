@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL SUPPLY CHAIN SHIFTS",
+        "hookTitle": "GLOBAL FREIGHT NETWORK VOLATILITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: POLYSILICON IMPORT TARIFFS",
-                "teaserTitle": "RAIL: VIRGINIA CSX EXPANSION",
+                "headline": "TRADE: SECTION 301 TARIFF POLICIES",
+                "teaserTitle": "MARITIME: RHINE WATER LEVEL DISRUPTIONS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "US administration levies a 15% tariff on imported polysilicon starting Dec 4. Solar and semiconductor manufacturers face immediate component cost increases."
+                "narration_line": "USTR implemented permanent Section 301 tariffs on 60 trading partners, embedding enduring import duties into US trade policy."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL: VIRGINIA CSX EXPANSION",
-                "teaserTitle": "FMC: CONTAINER DETENTION FEES",
+                "headline": "MARITIME: RHINE WATER LEVEL DISRUPTIONS",
+                "teaserTitle": "SURFACE: DATA CENTER TRUCKING DEMAND",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Port of Virginia opens direct CSX rail service to Indianapolis. The intermodal route bypasses Chicago bottlenecks to accelerate Midwest freight transit."
+                "narration_line": "Record-low Rhine water levels restricted barge capacity, driving up industrial raw material transport rates across European hubs."
             },
             {
                 "slide_index": 3,
-                "headline": "FMC: CONTAINER DETENTION FEES",
-                "teaserTitle": "EQUIPMENT: EPA 2027 ENGINES",
+                "headline": "SURFACE: DATA CENTER TRUCKING DEMAND",
+                "teaserTitle": "OEM: DAIMLER EPA 2027 ENGINES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "US Court upholds FMC ruling requiring ocean detention fees to promote freight fluidity. Ocean carriers must now verify container availability before issuing penalties."
+                "narration_line": "AI data center expansions require 100K truckloads per gigawatt, severely tightening domestic trucking equipment availability."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: EPA 2027 ENGINES",
-                "teaserTitle": "TERMINALS: DP WORLD RESTRUCTURING",
+                "headline": "OEM: DAIMLER EPA 2027 ENGINES",
+                "teaserTitle": "EQUIPMENT: TOYOTA INDIANA FORKLIFT PLANT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Daimler Truck commits exclusively to EPA 2027 engine standards for heavy commercial vehicles. Fleet operators prepare for higher acquisition costs across new truck assets."
+                "narration_line": "DTNA committed to producing exclusively EPA 2027-compliant heavy engines as stringent NOx reduction standards launch."
             },
             {
                 "slide_index": 5,
-                "headline": "TERMINALS: DP WORLD RESTRUCTURING",
-                "teaserTitle": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
+                "headline": "EQUIPMENT: TOYOTA INDIANA FORKLIFT PLANT",
+                "teaserTitle": "GOVERNMENT: SENATE RUSSIA SANCTIONS BILL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "DP World cuts 300 operational roles across its European terminal network. The terminal operator redirects corporate capital into automated port infrastructure."
+                "narration_line": "Toyota opened a $100M forklift manufacturing plant in Indiana to scale domestic material handling equipment production."
             },
             {
                 "slide_index": 6,
-                "headline": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
-                "teaserTitle": "LAST-MILE: WALMART DRONE FLIGHTS",
+                "headline": "GOVERNMENT: SENATE RUSSIA SANCTIONS BILL",
+                "teaserTitle": "RETAIL: WAYFAIR HIGHER-INCOME DEMAND",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon limits product listing titles to 75 characters across all marketplace accounts. Third-party merchants must update catalog metadata to prevent search suppression."
+                "narration_line": "The US Senate passed a strict Russia sanctions bill, sending the legislative package to the House for final review."
             },
             {
                 "slide_index": 7,
-                "headline": "LAST-MILE: WALMART DRONE FLIGHTS",
+                "headline": "RETAIL: WAYFAIR HIGHER-INCOME DEMAND",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Walmart launches Wing drone delivery services across 5 Orlando retail hubs. Autonomous aerial flights deliver lightweight orders within 30-minute delivery windows."
+                "narration_line": "Wayfair posted strong revenue growth as upscale high-income shoppers boosted sales across its Perigold luxury furniture banner."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
             }
         ]
     }
