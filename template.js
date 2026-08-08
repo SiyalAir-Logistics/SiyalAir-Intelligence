@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PROPOSED STRAIT TRANSIT",
-        "titleBlue": "FEES",
-        "footerSummary": "Global ocean carriers appeal to UN and IMO as proposed Strait of Hormuz transit fees threaten long-term vessel routing economics."
+        "titleWhite": "SECTION 301 FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR enforces Section 301 tariffs on 60 nations following Section 122 expiration, shifting compliance burdens onto global trade routes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "HORMUZ: PROPOSED STRAIT TRANSIT FEES",
+            "heading": "TRADE: SECTION 301 FORCED LABOR TARIFFS",
             "points": [
-                "Global shipping associations urged the United Nations and International Maritime Organization to intervene against proposed Strait of Hormuz transit fee frameworks.",
-                "Regional authorities in Iran and Oman initiated bilateral talks regarding structured traffic management mechanisms and potential toll collection models along the strategic maritime passage.",
-                "Ocean carriers warn that unilateral transit tolls will inflate international container freight rates and add severe administrative friction to critical energy and commercial shipping lanes.",
-                "Logistics analysts project immediate vessel rerouting strategies and heightened war risk surcharge adjustments across trade corridors serving Persian Gulf container terminals."
+                "The Office of the United States Trade Representative launched Section 301 tariff enforcement targeting 60 trading partners to address forced labor concerns.",
+                "The regulatory action immediately replaces expiring Section 122 duties, establishing mandatory supply chain origin audits across cross-border manufacturing networks.",
+                "Importers face heightened customs verification requirements and potential shipment detentions at major United States entry ports.",
+                "Trade compliance specialists advise enterprise shippers to accelerate supplier origin mapping to mitigate tariff penalties and transit delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD SHIPPING VOLUNTARY LIQUIDATION",
+            "nextUpTease": "TERMINALS: US CONTAINER TERMINAL EXPANSION",
             "tags": [
-                "Source: https://theloadstar.com/global-shipping-groups-urge-un-imo-to-oppose-proposed-strait-of-hormuz-transit-fees",
-                "Published: 2026-08-08T02:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
+                "Published: 2026-08-08T01:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: SEALEAD SHIPPING VOLUNTARY LIQUIDATION",
+            "heading": "TERMINALS: US CONTAINER TERMINAL EXPANSION",
             "points": [
-                "Singapore-headquartered container carrier SeaLead Shipping formally entered voluntary liquidation following the expansion of targeted trade sanctions by United States authorities.",
-                "Ocean carrier operations across high-volume trade lanes connecting Asia, the Mediterranean, and the Baltic Sea have completely ceased as fleet assets are reallocated.",
-                "Rival regional liner operators quickly moved to charter displaced tonnage and acquire active container equipment assets to preserve regional slot capacity.",
-                "Maritime legal experts expect complex asset liquidations and cross-border bankruptcy proceedings as creditors seek recovery against stranded maritime equipment."
+                "An Asian ocean container line committed $135M to expand marine terminal capacity and infrastructure across strategic United States port gateways.",
+                "The multi-million dollar capital project increases container yard storage capacity and adds high-efficiency ship-to-shore gantry cranes.",
+                "Port operators expect reduced vessel turn times and improved intermodal rail connectivity for high-volume Transpacific trade lanes.",
+                "Logistics planners project enhanced schedule reliability for import supply chains as terminal throughput bottlenecks are systematically removed."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: VIRGINIA CSX INDIANAPOLIS SERVICE",
+            "nextUpTease": "SECURITY: HACKED DATA CARGO THEFT RING",
             "tags": [
-                "Source: https://splash247.com/us-sanctions-push-sealead-shipping-into-liquidation/",
-                "Published: 2026-08-07T18:30:00Z",
+                "Source: https://www.freightwaves.com/news/asia-ocean-line-135m-expansion-us-box-terminal",
+                "Published: 2026-08-08T00:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "RAIL: VIRGINIA CSX INDIANAPOLIS SERVICE",
+            "heading": "SECURITY: HACKED DATA CARGO THEFT RING",
             "points": [
-                "The Port of Virginia partnered with CSX Transportation to launch direct intermodal rail service linking coastal container terminals directly to Indianapolis inland hubs.",
-                "The rail infrastructure bypass eliminates traditional Midwest routing bottlenecks through Chicago rail yards while cutting transit times by up to 48 hours for regional shippers.",
-                "Regional drayage networks in Indiana gain direct access to deep-water ocean vessel schedules without relying on long-haul over-the-road trucking corridors.",
-                "Supply chain directors anticipate reduced drayage expenditures and lower carbon emissions across East Coast import supply chains serving Midwest distribution centers."
+                "A federal grand jury indicted 8 individuals involved in an organized cargo theft ring that stole $4.49M in retail freight.",
+                "The criminal network exploited compromised corporate credentials and hacked logistics software to orchestrate fraudulent freight pickups.",
+                "Law enforcement agencies recovered stolen commercial shipments spanning major retail distribution networks across multiple states.",
+                "Freight brokers and motor carriers are updating digital authentication protocols and driver verification standards to prevent cyber-enabled cargo loss."
             ],
             "imageUrl": "",
-            "nextUpTease": "INSURANCE: SOMPO GPS JAMMING COVERAGE",
+            "nextUpTease": "EQUIPMENT: DAIMLER EPA 2027 ENGINE MANDATE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-adds-csx-rail-service-to-indianapolis/756150/",
-                "Published: 2026-08-08T01:15:00Z",
+                "Source: https://www.ttnews.com/articles/cargo-theft-indictment-hacked-data",
+                "Published: 2026-08-07T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INSURANCE: SOMPO GPS JAMMING COVERAGE",
+            "heading": "EQUIPMENT: DAIMLER EPA 2027 ENGINE MANDATE",
             "points": [
-                "Marine insurer Sompo Japan launched specialized insurance coverage designed to indemnify vessel operators against financial losses caused by electronic GPS signal jamming.",
-                "The risk transfer mechanism addresses escalating electronic warfare incidents in volatile maritime corridors that disrupt navigation systems and force costly operational vessel delays.",
-                "Maritime underwriters developed specialized risk assessment models calculating vessel dwell times and alternative navigation costs incurred during satellite signal blackouts.",
-                "Shipowners operating across high-risk trade lanes are integrating localized electronic defense protocols to qualify for reduced insurance premiums and coverage extensions."
+                "Daimler Truck North America announced it will strictly build EPA 2027-compliant commercial engines as stringent emissions standards take effect.",
+                "The commercial vehicle manufacturer confirmed plans for a new United States assembly facility to scale production of low-emission powertrains.",
+                "Fleet operators face higher capital acquisition costs for heavy-duty trucks alongside improved fuel efficiency and lower emissions profiles.",
+                "Carrier executives are evaluating fleet replacement timelines to align procurement cycles with updated regulatory enforcement schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+            "nextUpTease": "TARIFFS: POLYSILICON IMPORT PRICE FLOOR",
             "tags": [
-                "Source: https://splash247.com/sompo-moves-to-close-gps-jamming-insurance-gap/",
-                "Published: 2026-08-07T14:20:00Z",
+                "Source: https://www.ttnews.com/articles/dtna-epa-2027-engines",
+                "Published: 2026-08-07T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+            "heading": "TARIFFS: POLYSILICON IMPORT PRICE FLOOR",
             "points": [
-                "The North American industrial real estate sector stabilized during the second quarter as net tenant absorption outpaced new warehouse construction deliveries.",
-                "Commercial real estate data from Colliers revealed that national industrial vacancy rates decreased by 7 basis points sequentially to settle at 7.3%.",
-                "Logistics developers reduced speculative construction starts, allowing existing fulfillment centers and distribution hubs to absorb excess market capacity.",
-                "Supply chain executives project modest rental rate growth across primary logistics hubs as modern Class-A industrial properties reach elevated occupancy levels."
+                "United States executive orders imposed a 15% import tariff and mandatory price floor on foreign polysilicon shipments effective Dec. 4, 2026.",
+                "The trade enforcement measure targets critical raw material supply chains supporting solar manufacturing and advanced semiconductor production.",
+                "Domestic clean energy developers and chipmakers anticipate immediate procurement price adjustments across global component sourcing channels.",
+                "Supply chain strategists expect accelerated nearshoring investments to build domestic polysilicon refining capacity in North America."
             ],
             "imageUrl": "",
-            "nextUpTease": "TERMINALS: DP WORLD EUROPEAN RESTRUCTURING",
+            "nextUpTease": "LABOR: FREEDOM HAULERS MILITARY CDL PUSH",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance_as_demand_outpaces_new_supply",
-                "Published: 2026-08-08T03:00:00Z",
+                "Source: https://www.supplychaindive.com/news/polysilicon-tariff-solar-chips-trump/756200/",
+                "Published: 2026-08-07T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TERMINALS: DP WORLD EUROPEAN RESTRUCTURING",
+            "heading": "LABOR: FREEDOM HAULERS MILITARY CDL PUSH",
             "points": [
-                "Global terminal operator DP World initiated a major organizational restructuring of its European logistics division, eliminating approximately 300 corporate and operational roles.",
-                "The workforce adjustment follows executive leadership changes and aims to streamline regional port operations across major European hubs, including London Gateway and Southampton.",
-                "Supply chain leadership seeks to integrate regional port handling, inland rail freight, and warehousing assets into a unified operational management framework.",
-                "Market observers expect enhanced cost efficiency and accelerated technology deployment across DP World European port concessions following internal corporate realignments."
+                "The Department of Transportation launched the Freedom Haulers initiative to transition military veterans directly into commercial driver roles.",
+                "The federal program streamlines Commercial Driver License certification while maintaining strict enforcement against non-domiciled motor carriers.",
+                "Fleet managers gain streamlined access to qualified professional drivers to mitigate ongoing long-haul driver shortages across interstate freight corridors.",
+                "Industry associations project improved driver retention rates and heightened safety compliance across participating commercial trucking fleets."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON TITLE LIMIT ENFORCEMENT",
+            "nextUpTease": "MARITIME: TYPHOON PORT SUSPENSION IN CHINA",
             "tags": [
-                "Source: https://theloadstar.com/300-roles-axed-as-dp-world-looks-to-revamp-european-operations/",
-                "Published: 2026-08-06T19:45:00Z",
+                "Source: https://www.inboundlogistics.com/articles/trump-administration-launches-freedom-haulers-cdl/",
+                "Published: 2026-08-08T02:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "E-COMMERCE: AMAZON TITLE LIMIT ENFORCEMENT",
+            "heading": "MARITIME: TYPHOON PORT SUSPENSION IN CHINA",
             "points": [
-                "E-commerce giant Amazon officially enforced a strict 75-character limit policy on product titles across seller listings and internal brand catalogs.",
-                "The policy update aims to optimize mobile browsing experiences, accelerate algorithmic search indexing, and eliminate keyword stuffing across consumer-facing marketplaces.",
-                "Third-party merchants and brand owners are rapidly auditing catalog metadata to prevent automated listing suppression and loss of search ranking visibility.",
-                "E-commerce technology providers are deploying automated title optimization tools to ensure full compliance across multi-category product listings prior to peak shopping periods."
+                "Chinese maritime authorities ordered port suspensions and bunkering halts as Super Typhoon Dolphin approached major East Coast container gateways.",
+                "Vessels anchored at key maritime hubs were instructed to head to open sea to prevent terminal collisions and structural facility damage.",
+                "Ocean carriers warn of multi-day vessel schedule delays and compounding container congestion across primary Transpacific shipping routes.",
+                "Supply chain managers are adjusting arrival estimates and buffer stock levels at destination ports to counter impending vessel backlogs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-also-applies-to-its-own-listings/",
-                "Published: 2026-08-07T12:00:00Z",
+                "Source: https://maritime-executive.com/article/china-ports-suspending-operations-super-typhoon",
+                "Published: 2026-08-07T16:32:00Z",
                 "Status: Audited & True"
             ]
         }
