@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "VOLATILITY",
-        "footerSummary": "Rhine water levels drop, US trade policy shifts toward permanent Section 301 tariffs, and data center growth strains trucking capacity."
+        "titleWhite": "GLOBAL FREIGHT RISK",
+        "titleBlue": "MITIGATION",
+        "footerSummary": "Sanctions force SeaLead liquidation while insurers issue GPS jamming policies and major Asian ports suspend operations ahead of Typhoon Dolphin."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: SECTION 301 TARIFF POLICIES",
+            "heading": "CARRIERS: SEALEAD SANCTIONS LIQUIDATION",
             "points": [
-                "The Office of the United States Trade Representative formally announced the implementation of permanent tariffs targeting 60 key trading partners.",
-                "The sweeping trade enforcement action embeds Section 301 duties as a permanent baseline fixture of domestic commercial import policy.",
-                "Importers and multinational procurement teams must structurally adjust supply chain cost models to account for enduring regulatory duties.",
-                "Customs compliance analysts anticipate increased friction and documentation audits across global manufacturing import channels."
+                "Singapore-based container carrier SeaLead Shipping entered voluntary liquidation following sweeping US economic sanctions targeting its commercial operations.",
+                "Ocean liner competitors quickly acquired SeaLead vessel charters and container assets to absorb disrupted transpacific and Middle Eastern trade lane volumes.",
+                "Freight forwarders are transferring active bills of lading to alternative ocean carriers to prevent cargo abandonment and port clearance seizures.",
+                "Legal and risk managers expect heightened regulatory scrutiny on foreign non-vessel operating common carriers with complex ownership ties."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: RHINE WATER LEVEL DISRUPTIONS",
+            "nextUpTease": "INSURANCE: GPS JAMMING COVERAGE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://splash247.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: RHINE WATER LEVEL DISRUPTIONS",
+            "heading": "INSURANCE: GPS JAMMING COVERAGE",
             "points": [
-                "Record-low water levels along the Rhine River have severely restricted barge capacity and increased transport rates for European industrial hubs.",
-                "Logistics providers are forced to split bulk cargo loads across limited road and rail alternatives to bypass impassable shallow river stretches.",
-                "Manufacturing supply chains across the German industrial heartland face mounting operational delays and higher raw material shipping overhead.",
-                "Freight forwarders are deploying emergency contingency routing protocols to maintain component flows amid ongoing inland waterway constraints."
+                "Japanese insurer Sompo Japan launched the maritime industry's first dedicated insurance coverage targeting economic losses from electronic GPS jamming.",
+                "The policy addresses rising signal interference risks across high-conflict maritime corridors, compensating vessel operators for rerouting expenses and operational delays.",
+                "Shipowners navigating volatile waterways face increasing navigation downtime as electronic warfare disrupts standard satellite positioning equipment.",
+                "Risk underwriting specialists predict maritime insurers will mandate cyber-resilient navigation backup systems as a prerequisite for coverage."
             ],
             "imageUrl": "",
-            "nextUpTease": "SURFACE: DATA CENTER TRUCKING DEMAND",
+            "nextUpTease": "MARITIME: SUPER TYPHOON DISRUPTIONS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://splash247.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SURFACE: DATA CENTER TRUCKING DEMAND",
+            "heading": "MARITIME: SUPER TYPHOON DISRUPTIONS",
             "points": [
-                "Rapid nationwide expansion of artificial intelligence data centers is generating unprecedented friction within the domestic truckload capacity pool.",
-                "Industry experts estimate that every single gigawatt of new data center construction requires approximately 100,000 dedicated heavy truckloads.",
-                "Regional motor carriers are struggling to allocate sufficient flatbed and dry van equipment against booming construction logistics requirements.",
-                "Shippers operating outside the tech sector face tightening equipment availability and upward rate pressures across key regional freight corridors."
+                "Chinese port authorities suspended marine terminal and bunkering operations across major commercial gateways as Super Typhoon Dolphin approaches the eastern coastline.",
+                "Maritime domain tracking indicates over 160 commercial cargo vessels were ordered to evacuate berths and seek open-water anchorage.",
+                "Global ocean carriers anticipate severe vessel berth backlogs and container gate congestion across Ningbo and Shanghai port complexes.",
+                "Supply chain planners are adjusting Asia-Europe and transpacific schedule reliability metrics to absorb multi-day port stay delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "OEM: DAIMLER EPA 2027 ENGINES",
+            "nextUpTease": "SECURITY: DATA-HACK CARGO THEFT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://maritime-executive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OEM: DAIMLER EPA 2027 ENGINES",
+            "heading": "SECURITY: DATA-HACK CARGO THEFT",
             "points": [
-                "Daimler Truck North America officially committed to producing exclusively EPA 2027-compliant heavy-duty powertrains as upcoming emissions rules launch.",
-                "The manufacturer is re-engineering commercial truck architectures to meet stringent federal nitrogen oxide reduction standards taking effect in 2027.",
-                "Commercial fleets face significant capital expenditure increases and complex maintenance demands when acquiring new heavy-duty equipment.",
-                "Motor carriers are recalibrating long-term asset replacement schedules to balance regulatory compliance costs against operational revenue."
+                "Federal prosecutors indicted eight individuals operating a sophisticated cargo theft ring that stole $4.49M in retail goods via hacked logistics data.",
+                "The criminal network compromised legitimate freight carrier databases to systematically intercept high-value commercial shipments across multi-state transit routes.",
+                "Motor carriers and freight brokers are implementing mandatory multi-factor authentication protocols to secure digital dispatch networks against unauthorized access.",
+                "Freight risk analysts urge logistics intermediaries to perform immediate cybersecurity audits on third-party broker platforms and API integrations."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: TOYOTA INDIANA FORKLIFT PLANT",
+            "nextUpTease": "TRADE: POLYSILICON IMPORT TARIFFS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EQUIPMENT: TOYOTA INDIANA FORKLIFT PLANT",
+            "heading": "TRADE: POLYSILICON IMPORT TARIFFS",
             "points": [
-                "Toyota Material Handling inaugurated a major $100M manufacturing facility expansion in Indiana to scale domestic forklift production.",
-                "The advanced industrial investment aims to alleviate material handling equipment bottlenecks across North American distribution centers.",
-                "Warehouse operators gain expanded access to electric and automated material handling assets to support high-throughput fulfillment hubs.",
-                "Supply chain directors are integrating new equipment fleets to enhance facility throughput and mitigate ongoing warehouse labor constraints."
+                "A federal executive order established a 15% import tariff alongside strict floor pricing on foreign polysilicon shipments effective December 4.",
+                "The trade directive targets critical solar energy and semiconductor supply chains to incentivize domestic high-purity silicon manufacturing capacity.",
+                "Technology equipment importers and solar panel manufacturers face immediate material cost increases and restructured procurement budgets.",
+                "Trade compliance teams are auditing origin documentation to assess Section 301 exposure and potential manufacturing origin reclassifications."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOVERNMENT: SENATE RUSSIA SANCTIONS BILL",
+            "nextUpTease": "GEOPOLITICS: HORMUZ TRANSIT RESTRICTIONS",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GOVERNMENT: SENATE RUSSIA SANCTIONS BILL",
+            "heading": "GEOPOLITICS: HORMUZ TRANSIT RESTRICTIONS",
             "points": [
-                "The United States Senate decisively passed a rigorous Russia sanctions bill, advancing the legislative package directly to the House.",
-                "The sweeping economic restrictions introduce new compliance mandates for international maritime trade and cross-border logistics intermediaries.",
-                "Compliance officers across global freight forwarding firms are auditing transaction logs to ensure strict adherence to updated export controls.",
-                "International carriers are adjusting operational route planning to mitigate potential regulatory exposure under the expanding sanctions framework."
+                "Iranian lawmakers drafted legislation to prohibit US and Israeli-flagged commercial vessels from transiting the strategic Strait of Hormuz.",
+                "The diplomatic maneuver coincides with bilateral transit negotiations with Oman aimed at establishing new maritime traffic management frameworks and tolls.",
+                "Tanker operators and container lines are evaluating extended rerouting pathways around Africa to mitigate maritime conflict exposure and insurance surcharges.",
+                "Global energy traders and bulk shippers anticipate sustained spot rate volatility across Persian Gulf trade lanes amid ongoing geopolitical friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: WAYFAIR HIGHER-INCOME DEMAND",
+            "nextUpTease": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://splash247.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RETAIL: WAYFAIR HIGHER-INCOME DEMAND",
+            "heading": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
             "points": [
-                "Wayfair reported significant revenue gains driven by resilient high-income consumer demand within its upscale Perigold furniture banner.",
-                "The luxury home goods sector continues to outperform broader retail segments despite ongoing macroeconomic housing market uncertainty.",
-                "E-commerce fulfillment networks are optimizing high-value parcel delivery protocols to protect operating margins and customer satisfaction.",
-                "Supply chain managers are realigning inventory distribution strategies to support strong regional demand for premium home furnishings."
+                "South Korea launched a strategic industrial alliance with Elegant Exit Company and RM Company to establish Asia's largest green ship recycling infrastructure.",
+                "The initiative constructs eco-friendly vessel dismantling yards engineered to comply with strict international Hong Kong Convention environmental standards.",
+                "Global ocean shipowners gain high-capacity, compliant vessel decommissioning options as aging container fleets face tightening emissions regulations.",
+                "Maritime asset managers project accelerated vessel scrapping schedules as green recycling facilities scale operations across Asian industrial hubs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://splash247.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
