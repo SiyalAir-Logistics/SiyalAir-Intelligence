@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DATA CENTER FREIGHT DEMAND",
+        "hookTitle": "USTR ENFORCES FORCED LABOR TARIFFS ACROSS 60 NATIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRUCKING: DATA CENTER FREIGHT DEMAND",
-                "teaserTitle": "MARITIME: SEALEAD LIQUIDATION AND SANCTIONS",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "SECURITY: DATA HACK THEFT RING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Each gigawatt of US data center expansion demands 100K truckload movements. Logistics providers face severe localized equipment shortages across development corridors."
+                "narration_line": "The USTR implemented Section 301 forced-labor tariffs against 60 trade partners as Section 122 duties expire. Customs officials will enforce strict compliance audits on incoming shipments."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SEALEAD LIQUIDATION AND SANCTIONS",
-                "teaserTitle": "INSURANCE: SOMPO GPS JAMMING COVERAGE",
+                "headline": "SECURITY: DATA HACK THEFT RING",
+                "teaserTitle": "EQUIPMENT: EPA 2027 ENGINE STANDARDS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Singapore carrier SeaLead Shipping entered liquidation following sweeping US sanctions. Competing lines rapidly absorbed its idle vessel fleet and box inventory."
+                "narration_line": "A federal grand jury indicted 8 individuals in a cyber fraud scheme that stole $4.49M in retail goods. Criminals breached carrier databases to intercept high-value commercial shipments."
             },
             {
                 "slide_index": 3,
-                "headline": "INSURANCE: SOMPO GPS JAMMING COVERAGE",
-                "teaserTitle": "PORTS: TYPHOON DOLPHIN BUNKERING HALT",
+                "headline": "EQUIPMENT: EPA 2027 ENGINE STANDARDS",
+                "teaserTitle": "E-COMMERCE: AMAZON TITLE RESTRICTIONS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Sompo Japan launched marine insurance covering economic losses from GPS jamming. Underwriters target rising navigation security risks in volatile trade zones."
+                "narration_line": "Daimler Truck North America committed exclusively to EPA 2027 engines to meet new federal emissions standards. The mandate reduces nitrogen oxide emissions by over 80% for Class 8 trucks."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: TYPHOON DOLPHIN BUNKERING HALT",
-                "teaserTitle": "RETAIL: TARIFF REFUND SECONDARY MARKET",
+                "headline": "E-COMMERCE: AMAZON TITLE RESTRICTIONS",
+                "teaserTitle": "AIRFREIGHT: LEIPZIG DRONE SECURITY BREACH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Super Typhoon Dolphin forced Chinese ports to suspend bunkering and clear vessels. Over 160 commercial ships faced delays and compounding terminal backlogs."
+                "narration_line": "Amazon enforced a 75-character limit on all product listing titles across its digital retail platform. Non-compliant items face immediate suppression from automated search engine results."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL: TARIFF REFUND SECONDARY MARKET",
-                "teaserTitle": "REGULATION: HORMUZ TRANSIT FEE PROTESTS",
+                "headline": "AIRFREIGHT: LEIPZIG DRONE SECURITY BREACH",
+                "teaserTitle": "TRADE: POLYSILICON TARIFF PRICE FLOOR",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "US retailers are monetizing tariff refunds through an active secondary market. Importers sell rebate rights to secure immediate working capital liquidity."
+                "narration_line": "German authorities opened a counterterrorism investigation after an explosive drone was discovered at Leipzig Airport. Cargo security protocols were immediately heightened across major European freight hubs."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: HORMUZ TRANSIT FEE PROTESTS",
-                "teaserTitle": "TECHNOLOGY: AMAZON ALEXA SHOPPING SURGE",
+                "headline": "TRADE: POLYSILICON TARIFF PRICE FLOOR",
+                "teaserTitle": "RAILWAY: CSX VIRGINIA DIRECT SERVICE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Global shipping groups petitioned the UN to block proposed Strait tolls. Industry leaders warn that additional fees would inflate voyage operating costs."
+                "narration_line": "The US administration imposed a 15% tariff and price floor on polysilicon imports starting Dec 4, 2026. Solar and semiconductor manufacturers must restructure raw material supply chains to manage costs."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: AMAZON ALEXA SHOPPING SURGE",
+                "headline": "RAILWAY: CSX VIRGINIA DIRECT SERVICE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon active Alexa shopping users doubled in the second quarter. Voice-activated purchase interactions surged 500% year-over-year across fulfillment networks."
+                "narration_line": "The Port of Virginia partnered with CSX to launch direct intermodal rail service to Indianapolis. The direct link bypasses Chicago rail yards to accelerate Midwest freight movement."
             },
             {
                 "slide_index": 8,
