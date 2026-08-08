@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT RISK",
-        "titleBlue": "MITIGATION",
-        "footerSummary": "Sanctions force SeaLead liquidation while insurers issue GPS jamming policies and major Asian ports suspend operations ahead of Typhoon Dolphin."
+        "titleWhite": "USTR IMPOSES FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR enforces 60-nation tariffs under Section 301 while US ports manage typhoon disruptions and new supply chain compliance rules."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CARRIERS: SEALEAD SANCTIONS LIQUIDATION",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "Singapore-based container carrier SeaLead Shipping entered voluntary liquidation following sweeping US economic sanctions targeting its commercial operations.",
-                "Ocean liner competitors quickly acquired SeaLead vessel charters and container assets to absorb disrupted transpacific and Middle Eastern trade lane volumes.",
-                "Freight forwarders are transferring active bills of lading to alternative ocean carriers to prevent cargo abandonment and port clearance seizures.",
-                "Legal and risk managers expect heightened regulatory scrutiny on foreign non-vessel operating common carriers with complex ownership ties."
+                "The Office of the United States Trade Representative has officially initiated punitive import tariffs across 60 global trading partner nations.",
+                "The regulatory implementation utilizes Section 301 authority of the Trade Act of 1974 to penalize supply chains linked to forced labor practices.",
+                "Importers and compliance officers face immediate administrative burdens as they audit multi-tier bills of material for prohibited country inputs.",
+                "Global trade economists predict prolonged legal challenges from affected nations before the World Trade Organization and domestic courts."
             ],
             "imageUrl": "",
-            "nextUpTease": "INSURANCE: GPS JAMMING COVERAGE",
+            "nextUpTease": "MARITIME: TYPHOON PORT SUSPENSIONS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: Last 24-48 Hours",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-08T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INSURANCE: GPS JAMMING COVERAGE",
+            "heading": "MARITIME: TYPHOON PORT SUSPENSIONS",
             "points": [
-                "Japanese insurer Sompo Japan launched the maritime industry's first dedicated insurance coverage targeting economic losses from electronic GPS jamming.",
-                "The policy addresses rising signal interference risks across high-conflict maritime corridors, compensating vessel operators for rerouting expenses and operational delays.",
-                "Shipowners navigating volatile waterways face increasing navigation downtime as electronic warfare disrupts standard satellite positioning equipment.",
-                "Risk underwriting specialists predict maritime insurers will mandate cyber-resilient navigation backup systems as a prerequisite for coverage."
+                "Chinese maritime authorities ordered a complete suspension of terminal and bunkering operations across key gateways as Super Typhoon Dolphin approaches.",
+                "Satellite tracking data confirms that more than 160 commercial cargo vessels have been directed to vacate berths and seek open-water anchorage.",
+                "Global ocean carriers anticipate severe vessel schedule disruptions and significant container gate backlogs across major eastern coastal ports.",
+                "Supply chain planners are immediately rerouting vessel strings and adjusting inventory staging buffers to mitigate cascading delivery delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SUPER TYPHOON DISRUPTIONS",
+            "nextUpTease": "SECURITY: HACKED CARGO INDICTMENTS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: Last 24-48 Hours",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-07T16:32:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: SUPER TYPHOON DISRUPTIONS",
+            "heading": "SECURITY: HACKED CARGO INDICTMENTS",
             "points": [
-                "Chinese port authorities suspended marine terminal and bunkering operations across major commercial gateways as Super Typhoon Dolphin approaches the eastern coastline.",
-                "Maritime domain tracking indicates over 160 commercial cargo vessels were ordered to evacuate berths and seek open-water anchorage.",
-                "Global ocean carriers anticipate severe vessel berth backlogs and container gate congestion across Ningbo and Shanghai port complexes.",
-                "Supply chain planners are adjusting Asia-Europe and transpacific schedule reliability metrics to absorb multi-day port stay delays."
+                "Federal grand juries indicted eight individuals involved in an international cybercrime syndicate that stole $4.49M in retail goods.",
+                "The criminal enterprise systematically compromised legitimate freight carrier databases to intercept high-value commercial truckloads in transit.",
+                "Motor carriers and freight brokers are rapidly deploying mandatory multi-factor authentication protocols to secure digital dispatch networks.",
+                "Cybersecurity analysts urge logistics providers to conduct immediate vulnerability assessments across all third-party API and partner integrations."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: DATA-HACK CARGO THEFT",
+            "nextUpTease": "PROCUREMENT: POLYSILICON TARIFF PROCLAMATION",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: Last 24-48 Hours",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-07T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SECURITY: DATA-HACK CARGO THEFT",
+            "heading": "PROCUREMENT: POLYSILICON TARIFF PROCLAMATION",
             "points": [
-                "Federal prosecutors indicted eight individuals operating a sophisticated cargo theft ring that stole $4.49M in retail goods via hacked logistics data.",
-                "The criminal network compromised legitimate freight carrier databases to systematically intercept high-value commercial shipments across multi-state transit routes.",
-                "Motor carriers and freight brokers are implementing mandatory multi-factor authentication protocols to secure digital dispatch networks against unauthorized access.",
-                "Freight risk analysts urge logistics intermediaries to perform immediate cybersecurity audits on third-party broker platforms and API integrations."
+                "A formal presidential proclamation established a 15% import tariff and strict price floors on foreign polysilicon shipments effective December 4.",
+                "The federal trade directive aims to protect domestic semiconductor manufacturing and solar energy component supply chains from foreign dumping.",
+                "Technology importers and renewable energy developers face immediate cost increases and must restructure long-term procurement agreements.",
+                "Compliance teams are verifying raw material origin certifications to evaluate potential Section 301 liability and tariff exemptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE: POLYSILICON IMPORT TARIFFS",
+            "nextUpTease": "AIR CARGO: TRANSPACIFIC AI VOLATILITY",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-07T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRADE: POLYSILICON IMPORT TARIFFS",
+            "heading": "AIR CARGO: TRANSPACIFIC AI VOLATILITY",
             "points": [
-                "A federal executive order established a 15% import tariff alongside strict floor pricing on foreign polysilicon shipments effective December 4.",
-                "The trade directive targets critical solar energy and semiconductor supply chains to incentivize domestic high-purity silicon manufacturing capacity.",
-                "Technology equipment importers and solar panel manufacturers face immediate material cost increases and restructured procurement budgets.",
-                "Trade compliance teams are auditing origin documentation to assess Section 301 exposure and potential manufacturing origin reclassifications."
+                "Ongoing geopolitical conflicts continue to drive severe rate volatility and capacity constraints across major international air cargo corridors.",
+                "Surging shipments of artificial intelligence hardware are aggressively competing with traditional e-commerce cargo for transpacific lift capacity.",
+                "Freight forwarders are securing dedicated charter arrangements to guarantee transit timelines for high-yield technology equipment.",
+                "Air cargo yield management desks report sustained pricing premiums for westbound and eastbound transpacific connections through the second half."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEOPOLITICS: HORMUZ TRANSIT RESTRICTIONS",
+            "nextUpTease": "REAL ESTATE: VACANCY RATE STABILIZATION",
             "tags": [
                 "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
+                "Published: 2026-08-08T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GEOPOLITICS: HORMUZ TRANSIT RESTRICTIONS",
+            "heading": "REAL ESTATE: VACANCY RATE STABILIZATION",
             "points": [
-                "Iranian lawmakers drafted legislation to prohibit US and Israeli-flagged commercial vessels from transiting the strategic Strait of Hormuz.",
-                "The diplomatic maneuver coincides with bilateral transit negotiations with Oman aimed at establishing new maritime traffic management frameworks and tolls.",
-                "Tanker operators and container lines are evaluating extended rerouting pathways around Africa to mitigate maritime conflict exposure and insurance surcharges.",
-                "Global energy traders and bulk shippers anticipate sustained spot rate volatility across Persian Gulf trade lanes amid ongoing geopolitical friction."
+                "Colliers reported that the national industrial real estate vacancy rate fell by 7 basis points sequentially to settle at 7.3% in Q2.",
+                "The modest adjustment indicates a stabilizing market balance as modern warehouse demand successfully outpaces new construction completions.",
+                "Logistics developers are maintaining disciplined capital deployment strategies while focusing on high-density distribution hubs near key ports.",
+                "Corporate real estate directors are locking in long-term lease agreements to hedge against projected construction cost inflation."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
+            "nextUpTease": "CARRIERS: FORWARD AIR MARKET OUTLOOK",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: Last 24-48 Hours",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-08T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
+            "heading": "CARRIERS: FORWARD AIR MARKET OUTLOOK",
             "points": [
-                "South Korea launched a strategic industrial alliance with Elegant Exit Company and RM Company to establish Asia's largest green ship recycling infrastructure.",
-                "The initiative constructs eco-friendly vessel dismantling yards engineered to comply with strict international Hong Kong Convention environmental standards.",
-                "Global ocean shipowners gain high-capacity, compliant vessel decommissioning options as aging container fleets face tightening emissions regulations.",
-                "Maritime asset managers project accelerated vessel scrapping schedules as green recycling facilities scale operations across Asian industrial hubs."
+                "Forward Air CEO Shawn Stewart reported positive market fundamental improvements driven by tighter over-the-road trucking capacity.",
+                "Stricter regulatory enforcement and ongoing small carrier exits have accelerated the rebalancing of domestic freight market pricing.",
+                "LTL operators are focusing on yield discipline and operational network optimization to maximize profitability amid fluctuating volumes.",
+                "Shipper logistics managers are reviewing carrier contract structures to secure reliable capacity ahead of the upcoming peak shipping season."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: Last 24-48 Hours",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-07T14:45:00Z",
                 "Status: Audited & True"
             ]
         }
