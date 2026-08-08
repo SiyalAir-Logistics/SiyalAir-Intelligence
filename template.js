@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CRITICAL LOGISTICS NETWORK",
-        "titleBlue": "PIVOTS",
-        "footerSummary": "Polysilicon import tariffs, ocean liner liquidations, Hormuz transit fees, and data center capacity demands force swift operational realignments globally."
+        "titleWhite": "GLOBAL TRADE ARCHITECTURE",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "Polysilicon tariffs, Hormuz toll proposals, and data center haulage demands force structural realignment across ocean, rail, and motor carrier networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: POLYSILICON TARIFF IMPOSITION",
+            "heading": "TRADE: POLYSILICON IMPORT TARIFFS",
             "points": [
-                "The US administration announced a 15% tariff and strict import price floor on foreign polysilicon shipments effective Dec 4.",
-                "The trade policy targets critical inputs for microchips and solar power, driving up domestic tech hardware manufacturing costs.",
-                "Importers face increased landed tariff obligations and mandatory price verification protocols at cross-border entry points.",
-                "Supply chain managers must recalculate procurement budgets and evaluate domestic sourcing options for critical semiconductor inputs."
+                "The US federal government issued an executive order imposing a 15% tariff along with import price floors on foreign polysilicon imports.",
+                "Targeting critical inputs for semiconductors and solar equipment, the levy aims to curtail foreign market dominance and force domestic supply sourcing.",
+                "Importers face immediate landed cost increases effective Dec 4, requiring swift tariff classification updates and vendor cost recalculations.",
+                "Supply chain executives must audit solar and chip component supply tiers to mitigate financial exposure to rising cross-border duties."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD LINE LIQUIDATION",
+            "nextUpTease": "LOGISTICS: VIRGINIA DIRECT CSX RAIL",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -25,49 +25,66 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MARITIME: SEALEAD LINE LIQUIDATION",
+            "heading": "LOGISTICS: VIRGINIA DIRECT CSX RAIL",
             "points": [
-                "Singapore-based ocean carrier SeaLead Shipping entered voluntary liquidation following the impact of recent US trade sanctions.",
-                "Rival container lines are rapidly acquiring SeaLead vessels and box assets, reallocating vessel capacity across high-demand trade corridors.",
-                "The sudden carrier shutdown disrupts scheduled container services across critical Asia, Middle East, and Mediterranean routes.",
-                "Freight forwarders must quickly rebook affected container volumes to prevent extended port dwell times and cargo delays."
+                "The Port of Virginia partnered with CSX to launch direct intermodal rail service linking marine terminals to Indianapolis logistics hubs.",
+                "The infrastructure expansion eliminates mandatory container re-routing through Chicago, bypassing traditional Midwest rail congestion chokepoints.",
+                "Shifting inland cargo directly via rail cuts transit timelines and reduces reliance on long-haul drayage trucking corridors.",
+                "Logistics managers gain faster container velocity and improved supply chain predictability across East Coast trade corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: DATA CENTER CAPACITY STRAIN",
+            "nextUpTease": "MARITIME: SEALEAD CARRIER LIQUIDATION",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRUCKING: DATA CENTER CAPACITY STRAIN",
+            "heading": "MARITIME: SEALEAD CARRIER LIQUIDATION",
             "points": [
-                "Rapid AI data center expansion in the US requires an estimated 100K truckloads of freight for every gigawatt of power capacity.",
-                "Heavy construction materials and high-tech power equipment draw heavily from an already tightening national truckload capacity pool.",
-                "Over-the-road freight markets face localized capacity crunches and elevated flatbed rates near major data center buildouts.",
-                "Logistics planners must secure dedicated carrier commitments early to insulate standard retail supply chains from industrial freight spikes."
+                "Singapore-registered container line SeaLead Shipping entered voluntary liquidation, halting ocean services across Asia, Europe, and Middle East trades.",
+                "The sudden operational exit follows heavy regulatory scrutiny and recent US trade sanction designations targeting affiliated maritime entities.",
+                "Rival ocean carriers are rapidly absorbing SeaLead container assets and vessel charter contracts to capture displaced cargo volumes.",
+                "Cargo owners must quickly reassign affected bookings to mitigate port container delays and avoid sudden vessel arrest disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "CHOKEPOINT: STRAIT OF HORMUZ TOLLS",
+            "nextUpTease": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CHOKEPOINT: STRAIT OF HORMUZ TOLLS",
+            "heading": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
             "points": [
-                "Bilateral discussions between Iran and Oman over proposed transit tolls in the Strait of Hormuz sparked intense industry pushback.",
-                "Global ocean shipping bodies appealed directly to the UN and IMO to prevent unauthorized maritime transit fees.",
-                "Imposing tolls along the strategic oil and container transit corridor threatens to escalate operational costs for tanker and liner operators.",
-                "Maritime shippers must monitor regulatory developments and prepare contingency routes to manage potential transit fee surcharges."
+                "Daimler Truck North America announced plans to construct its largest US commercial vehicle manufacturing facility, scheduled for 2029 operational launch.",
+                "The OEM also committed exclusively to compliant EPA 2027 engine standards ahead of strict federal emissions enforcement mandates.",
+                "Massive capital deployment in heavy equipment production addresses long-term fleet modernization demands across North American motor carriers.",
+                "Fleet directors gain expanded domestic tractor availability while aligning procurement timelines with changing environmental compliance rules."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: DIRECT INDIANAPOLIS RAIL LINK",
+            "nextUpTease": "CAPACITY: DATA CENTER HAULAGE DEMAND",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "CAPACITY: DATA CENTER HAULAGE DEMAND",
+            "points": [
+                "Surging AI data center construction requires approximately 100K truckloads per gigawatt of power infrastructure deployment across North America.",
+                "Heavy specialized flatbed and specialized freight demand is consuming specialized logistics capacity across regional carrier networks.",
+                "The massive influx of heavy industrial freight is tightening overall US truckload availability for traditional commercial sectors.",
+                "Transportation buyers must secure dedicated carrier capacity early to prevent spot market price spikes and shipping delays."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -75,52 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "INTERMODAL: DIRECT INDIANAPOLIS RAIL LINK",
-            "points": [
-                "The Port of Virginia and CSX launched direct intermodal rail service linking East Coast container terminals to Indianapolis.",
-                "The dedicated rail corridor bypasses congested Chicago rail hubs, eliminating unnecessary drayage transfers and transit bottlenecks.",
-                "Midwest importers gain faster container turnaround times, reduced inland shipping costs, and improved supply chain reliability.",
-                "Shifting long-haul freight from highway trucks to intermodal rail significantly lowers carbon emissions and transport overhead."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: EPA 2027 NOX MANDATES",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "EQUIPMENT: EPA 2027 NOX MANDATES",
+            "heading": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
             "points": [
-                "Daimler Truck North America committed exclusively to producing EPA 2027-compliant engines ahead of strict federal NOx emission rules.",
-                "The commercial vehicle manufacturer is streamlining engine production to prepare for major regulatory standards taking effect in 2027.",
-                "Fleet operators face higher initial equipment acquisition costs for compliant heavy-duty trucks and diesel power platforms.",
-                "Motor carriers must update fleet replacement schedules and align capital expenditure budgets with upcoming environmental mandates."
+                "Etsy announced a 12% workforce reduction affecting 200 employees shortly after receiving $1.4B in cash from selling Depop to eBay.",
+                "The marketplace platform is re-allocating capital toward AI infrastructure and core search optimization to defend GMV market share.",
+                "Cost restructuring highlights broader financial pressures facing specialized C2C e-commerce platforms amid slowing consumer spend.",
+                "Sellers must adapt to rapid marketplace platform changes as operators streamline overhead and shift focus toward automated search tools."
             ],
             "imageUrl": "",
-            "nextUpTease": "CAPITAL: TARIFF REFUND MONETIZATION",
+            "nextUpTease": "MARITIME: HORMUZ STRAIT TRANSIT TOLLS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CAPITAL: TARIFF REFUND MONETIZATION",
+            "heading": "MARITIME: HORMUZ STRAIT TRANSIT TOLLS",
             "points": [
-                "Major retail brands are selling off rights to potential federal tariff refund claims on a growing secondary asset market.",
-                "Monetizing pending trade refunds provides immediate cash liquidity to offset ongoing supply chain cost headwinds.",
-                "Financial intermediaries purchase claims at a discount, assuming legal and administrative risks associated with customs refund processing.",
-                "Retail supply chain managers are using financial tools to convert regulatory delays into active working capital."
+                "Global shipping organizations urged the UN and IMO to block proposed transit fees across the strategic Strait of Hormuz waterway.",
+                "Reports indicate bilateral talks between regional nations could establish unilateral shipping tolls on commercial ocean traffic.",
+                "Imposing unexpected maritime transit fees raises global shipping expenses and risks severe operational friction along crucial energy corridors.",
+                "Ocean carriers and freight forwarders are closely monitoring regional maritime negotiations to assess emergency surcharge contingencies."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
