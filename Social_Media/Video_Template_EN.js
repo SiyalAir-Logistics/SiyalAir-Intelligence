@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT SHIFT VOLATILITY",
+        "hookTitle": "CRITICAL LOGISTICS NETWORK PIVOTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: POLYSILICON TARIFF LEVY",
-                "teaserTitle": "EQUIPMENT: TRUCK PLANT EXPANSION",
+                "headline": "TRADE: POLYSILICON TARIFF IMPOSITION",
+                "teaserTitle": "MARITIME: SEALEAD LINE LIQUIDATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "US levies 15% tariff on polysilicon imports starting Dec 4, forcing tech supply chains to overhaul sourcing networks."
+                "narration_line": "US imposes 15% tariffs and price floors on imported polysilicon starting Dec 4. Supply chains face rising chip costs."
             },
             {
                 "slide_index": 2,
-                "headline": "EQUIPMENT: TRUCK PLANT EXPANSION",
-                "teaserTitle": "MARITIME: HORMUZ TRANSIT TOLLS",
+                "headline": "MARITIME: SEALEAD LINE LIQUIDATION",
+                "teaserTitle": "TRUCKING: DATA CENTER CAPACITY STRAIN",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Daimler Truck plans its largest US plant by 2029, building EPA 2027 compliant engines for next-generation fleets."
+                "narration_line": "SeaLead Shipping enters voluntary liquidation following US sanctions. Competitors move swiftly to acquire remaining vessel assets."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: HORMUZ TRANSIT TOLLS",
-                "teaserTitle": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+                "headline": "TRUCKING: DATA CENTER CAPACITY STRAIN",
+                "teaserTitle": "CHOKEPOINT: STRAIT OF HORMUZ TOLLS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Shipping groups urge UN action as proposed Strait of Hormuz transit fees threaten ocean carrier spot rates."
+                "narration_line": "US data center expansion demands 100K truckloads per gigawatt. High demand strains national flatbed truck capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
-                "teaserTitle": "RAIL: DIRECT CONTAINER CORRIDOR",
+                "headline": "CHOKEPOINT: STRAIT OF HORMUZ TOLLS",
+                "teaserTitle": "INTERMODAL: DIRECT INDIANAPOLIS RAIL LINK",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Etsy cuts 12% of workforce post $1.4B Depop deal, reallocating capital toward core platform infrastructure."
+                "narration_line": "Iran and Oman propose transit tolls for the Strait of Hormuz. Maritime groups petition UN to block extra fees."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: DIRECT CONTAINER CORRIDOR",
-                "teaserTitle": "AUTOMATION: WAREHOUSE DRONE COUNTING",
+                "headline": "INTERMODAL: DIRECT INDIANAPOLIS RAIL LINK",
+                "teaserTitle": "EQUIPMENT: EPA 2027 NOX MANDATES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Port of Virginia launches direct CSX rail to Indianapolis, bypassing Chicago intermodal bottlenecks for faster transit."
+                "narration_line": "Port of Virginia and CSX launch direct rail service to Indianapolis. The new link bypasses Chicago congestion entirely."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOMATION: WAREHOUSE DRONE COUNTING",
-                "teaserTitle": "FINANCE: TARIFF REFUND MONETIZATION",
+                "headline": "EQUIPMENT: EPA 2027 NOX MANDATES",
+                "teaserTitle": "CAPITAL: TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "GNC deploys autonomous drones across 450K sq ft fulfillment centers to streamline cycle counts and offset labor gaps."
+                "narration_line": "DTNA commits solely to EPA 2027 engines ahead of federal NOx rules. Fleets prepare for rising equipment costs."
             },
             {
                 "slide_index": 7,
-                "headline": "FINANCE: TARIFF REFUND MONETIZATION",
+                "headline": "CAPITAL: TARIFF REFUND MONETIZATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Retailers sell tariff refund rights on secondary markets to extract instant balance sheet liquidity amid trade shifts."
+                "narration_line": "Retailers sell rights to pending tariff refunds on secondary markets. The strategy unlocks working capital during economic strain."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
             }
         ]
     }
