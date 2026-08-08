@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
-        "titleBlue": "OVERHAUL",
-        "footerSummary": "Court rulings on FMC fees, USTR 301 forced-labor tariffs, USPS rate hikes, and cyber theft rings force structural compliance shifts."
+        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
+        "titleBlue": "REBOUND",
+        "footerSummary": "Expanding industrial data center demands, proactive regulatory enforcement, and strategic regional import peaks drive volatile adjustments across cross-border supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "REGULATION: FMC DEMURRAGE RULING",
+            "heading": "CAPACITY: DATA CENTER TRUCK DEMAND",
             "points": [
-                "The US Court of Appeals upheld the Federal Maritime Commission decision requiring container detention fees to directly promote freight fluidity.",
-                "Ocean carriers and terminal operators face heightened financial scrutiny and potential $1.9M penalties for improper demurrage billings.",
-                "The legal precedent cements OSRA 2022 enforcement mechanisms while curbing arbitrary carrier penalty structures across US container ports.",
-                "Importers and OTIs must audit historical billing data to submit formal charge complaints and reclaim invalid detention assessments."
+                "Massive commercial data center infrastructure projects across the United States are requiring up to 100,000 truckloads per gigawatt of expansion.",
+                "Specialized over-the-road freight capacity is shifting rapidly toward tech construction sites, tightening regional fleet supply chains significantly.",
+                "Logistics analysts warn that accelerating artificial intelligence facility buildouts will exacerbate spot market rate volatility across domestic lanes.",
+                "Supply chain directors must secure dedicated long-term carrier contracts to isolate standard freight operations from heavy industrial capacity drains."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS: SECTION 301 EXPANSION",
+            "nextUpTease": "TARIFFS: FORCED LABOR COMPLIANCE",
             "tags": [
-                "Source: https://www.fmc.gov",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CUSTOMS: SECTION 301 EXPANSION",
+            "heading": "REGULATION: FORCED LABOR TARIFFS",
             "points": [
-                "The USTR officially enacted forced-labor Section 301 tariffs covering 60 trading partner nations following the expiration of Section 122 duties.",
-                "Importers face comprehensive supply chain origin mapping requirements and increased border holds by Customs and Border Protection agents.",
-                "The tariff architecture targets non-compliant international trade flows to enforce ethical labor standards across global production hubs.",
-                "Supply chain executives must audit tier-1 through tier-4 supplier networks to prevent severe cargo seizures at entry points."
+                "The Office of the United States Trade Representative is moving forward with specialized tariffs targeting 60 trading partners under Section 301.",
+                "The enforcement mechanism addresses severe forced labor supply chain violations as older statutory provisions officially expire.",
+                "Importers face heightened customs scrutiny, documentation audits, and potential cargo clearance delays on multi-origin inbound shipments.",
+                "Global supply chain managers must verify tier-one and tier-two vendor compliance to prevent severe border seizures and financial penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: DATA HACK THEFT",
+            "nextUpTease": "SHIPPING: SUMMER IMPORT SURGE",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -42,49 +42,49 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "CYBERSECURITY: DATA HACK THEFT",
+            "heading": "MARITIME: SUMMER IMPORT PEAK",
             "points": [
-                "A federal grand jury indicted 8 individuals for executing a $4.49M retail cargo theft ring using hacked freight tracking data.",
-                "Cybercriminals exploited compromised logistics databases to intercept high-value freight shipments across major interstate transportation corridors.",
-                "The criminal breach underscores expanding vulnerabilities within digital dispatch portals and freight brokerage communications systems.",
-                "Logistics providers must mandate multi-factor authentication and strict identity verification to secure digital dispatch infrastructure."
+                "National Retail Federation data indicates summer monthly containerized imports will hit their highest structural level since the 2022 shipping peak.",
+                "Early peak shipping season volumes are projected to moderate heading into September as retailers frontload holiday inventory requirements.",
+                "Major marine terminals are working around the clock to process high container volumes and mitigate potential intermodal yard congestion.",
+                "Ocean carriers and port operators must optimize landside evacuation channels to prevent terminal dwell time spikes during peak surges."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON TITLE RESTRICTION",
+            "nextUpTease": "AUTOMATION: ROBOTIC SHIPBUILDING",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "E-COMMERCE: AMAZON TITLE RESTRICTION",
+            "heading": "MANUFACTURING: ROBOTIC WELDING",
             "points": [
-                "Amazon officially implemented a strict 75-character ceiling on product titles across both third-party seller and direct retail listings.",
-                "Listings exceeding character limits risk search suppression or automated truncation across desktop and mobile storefront interfaces.",
-                "The policy standardization aims to streamline AI recommendation engines and improve mobile search user experience globally.",
-                "Sellers must immediately update catalog metadata to prevent sudden drops in organic search placement and conversion performance."
+                "GrayMatter and Path robotics platforms are introducing advanced automated welding technology directly into heavy ship manufacturing facilities.",
+                "The integration of physical artificial intelligence addresses persistent skilled labor shortages within domestic maritime construction yards.",
+                "Automated manufacturing systems enhance structural weld precision while accelerating overall vessel production throughput and output quality.",
+                "Shipbuilders must modernize facility operations and adopt automated workflows to remain competitive in heavy industrial manufacturing markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT TERMINAL: US BOX EXPANSION",
+            "nextUpTease": "EQUIPMENT: EPA 2027 TRUCK PLANT",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PORT TERMINAL: US BOX EXPANSION",
+            "heading": "EQUIPMENT: DTNA MANUFACTURING EXPANSION",
             "points": [
-                "A major ocean carrier finalized a $135M expansion project across its US container terminal to increase total throughput capacity.",
-                "The facility investment upgrades container yard infrastructure to process growing Transpacific import volumes without creating gate bottlenecks.",
-                "Expanded terminal footprints enable faster vessel turnarounds and improved intermodal rail connectivity for regional shippers.",
-                "BCOs and freight forwarders can leverage enhanced gateway throughput to reduce ocean dwell times and drayage congestion."
+                "Daimler Truck North America announced plans to open its largest domestic commercial vehicle manufacturing facility in the United States by 2029.",
+                "The multi-million dollar plant will scale production of heavy-duty trucks aligned exclusively with upcoming stringent EPA 2027 NOx standards.",
+                "Commercial motor carriers face accelerated fleet re-equipment cycles and higher capital acquisition costs as strict emissions mandates arrive.",
+                "Fleet operators must align strategic procurement budgets with long-term original equipment manufacturer production schedules to secure allocation."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL FREIGHT: USPS RATE INCREASES",
+            "nextUpTease": "SECURITY: CARGO THEFT RING",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
@@ -93,34 +93,34 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "PARCEL FREIGHT: USPS RATE INCREASES",
+            "heading": "SECURITY: HACKED DATA THEFT RING",
             "points": [
-                "The US Postal Service instituted rate hikes on Ground Advantage parcel services targeting marketplace merchants and high-volume shippers.",
-                "The pricing adjustments include additional regional surcharges of $2 to $3 for lightweight packages routed to rural destination ZIP codes.",
-                "Rising postal surcharges increase final-mile fulfillment expenses for e-commerce brands attempting to maintain flat-rate shipping options.",
-                "E-commerce logistics operators must recalibrate regional carrier mixes and negotiate volume tier discounts to mitigate margin erosion."
+                "A federal grand jury indicted eight individuals connected to a sophisticated cargo theft ring that stole $4.49M in retail goods.",
+                "The criminal enterprise utilized compromised corporate credentials from legitimate supply chain entities to execute fraudulent freight deliveries.",
+                "Supply chain security teams face escalating threats from digital identity theft and sophisticated cyber-enabled logistics fraud schemes.",
+                "Logistics providers must enforce strict multi-factor authentication and carrier identity verification protocols to safeguard freight transactions."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY DROPS",
+            "nextUpTease": "COMPLIANCE: MARKETPLACE TITLE POLICY",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY DROPS",
+            "heading": "E-COMMERCE: PRODUCT TITLE POLICY",
             "points": [
-                "US industrial real estate vacancy dropped 7 bps sequentially to 7.3% in Q2 2026 as leasing demand surpassed construction completions.",
-                "Tightening warehouse availability across primary distribution markets ends a multi-quarter supply expansion cycle driven by legacy construction pipelines.",
-                "Commercial real estate stabilization signals renewed demand for regional distribution space near strategic inland transport nodes.",
-                "Warehouse operators should lock in long-term lease renewals before tightening supply accelerates regional industrial rent escalation."
+                "Major e-commerce marketplace platforms are enforcing strict structural limits on product listing titles to streamline search algorithms.",
+                "Third-party merchants and enterprise sellers must re-optimize digital catalogs to comply with stringent character limits and data standards.",
+                "Platform policy adjustments impact search visibility and inventory categorization workflows across high-volume online retail channels.",
+                "Digital retail merchants must audit existing product listing databases to prevent automatic suppression and maintain sales momentum."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
