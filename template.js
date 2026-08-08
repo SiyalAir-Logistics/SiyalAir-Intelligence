@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE ARCHITECTURE",
+        "titleWhite": "GLOBAL TRADE CORRIDOR",
         "titleBlue": "REALIGNMENT",
-        "footerSummary": "Polysilicon tariffs, Hormuz toll proposals, and data center haulage demands force structural realignment across ocean, rail, and motor carrier networks."
+        "footerSummary": "Proposed Strait of Hormuz tolls, new 15% polysilicon tariffs, SeaLead liquidation, and data center fleet drains force urgent global freight re-routing."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: POLYSILICON IMPORT TARIFFS",
+            "heading": "MARITIME: HORMUZ TOLL PROPOSAL",
             "points": [
-                "The US federal government issued an executive order imposing a 15% tariff along with import price floors on foreign polysilicon imports.",
-                "Targeting critical inputs for semiconductors and solar equipment, the levy aims to curtail foreign market dominance and force domestic supply sourcing.",
-                "Importers face immediate landed cost increases effective Dec 4, requiring swift tariff classification updates and vendor cost recalculations.",
-                "Supply chain executives must audit solar and chip component supply tiers to mitigate financial exposure to rising cross-border duties."
+                "Global shipping organizations urged the UN and IMO to intervene following reports that Iran and Oman are negotiating transit tolls for the Strait of Hormuz.",
+                "The imposition of sovereign vessel tolls along the critical oil and container freight bottleneck threatens to escalate ocean transportation overhead globally.",
+                "Marine insurers and container lines are evaluating emergency routing options and potential war risk surcharge adjustments across Middle Eastern lanes.",
+                "Ocean carriers must review global service networks and prepare contingency routes to manage compounding maritime transit expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: VIRGINIA DIRECT CSX RAIL",
+            "nextUpTease": "SEMICONDUCTORS: POLYSILICON TARIFF",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LOGISTICS: VIRGINIA DIRECT CSX RAIL",
+            "heading": "SEMICONDUCTORS: POLYSILICON TARIFF",
             "points": [
-                "The Port of Virginia partnered with CSX to launch direct intermodal rail service linking marine terminals to Indianapolis logistics hubs.",
-                "The infrastructure expansion eliminates mandatory container re-routing through Chicago, bypassing traditional Midwest rail congestion chokepoints.",
-                "Shifting inland cargo directly via rail cuts transit timelines and reduces reliance on long-haul drayage trucking corridors.",
-                "Logistics managers gain faster container velocity and improved supply chain predictability across East Coast trade corridors."
+                "The US administration announced a 15% tariff on imported polysilicon alongside a mandatory import price floor effective December 4.",
+                "The regulatory expansion targets solar power equipment and semiconductor manufacturing supply chains reliant on foreign raw material inputs.",
+                "Importers face heightened landed costs and stricter customs valuation audits on high-purity silicon shipments entering domestic tech pipelines.",
+                "Tech manufacturers must recalculate component sourcing budgets and explore domestic reshoring alternatives to shield operational margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+            "nextUpTease": "LINER SHIPPING: SEALEAD LIQUIDATION",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -42,15 +42,15 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+            "heading": "LINER SHIPPING: SEALEAD LIQUIDATION",
             "points": [
-                "Singapore-registered container line SeaLead Shipping entered voluntary liquidation, halting ocean services across Asia, Europe, and Middle East trades.",
-                "The sudden operational exit follows heavy regulatory scrutiny and recent US trade sanction designations targeting affiliated maritime entities.",
-                "Rival ocean carriers are rapidly absorbing SeaLead container assets and vessel charter contracts to capture displaced cargo volumes.",
-                "Cargo owners must quickly reassign affected bookings to mitigate port container delays and avoid sudden vessel arrest disruptions."
+                "Singapore-registered container carrier SeaLead Shipping entered voluntary liquidation weeks after facing targeted US sanctions over alleged Iranian trade ties.",
+                "Competing ocean carriers quickly absorbed SeaLead's vessel tonnage and container assets across key Asia-Middle East and Mediterranean trade routes.",
+                "The abrupt liquidation highlights severe operational and financial risks for carriers navigating complex international trade sanction enforcement.",
+                "Shippers using regional feeder lines must execute rigorous secondary carrier audits to protect cargo from sudden operational disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
+            "nextUpTease": "CAPACITY: DATA CENTER TRUCK DRAIN",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -59,68 +59,68 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
+            "heading": "CAPACITY: DATA CENTER TRUCK DRAIN",
             "points": [
-                "Daimler Truck North America announced plans to construct its largest US commercial vehicle manufacturing facility, scheduled for 2029 operational launch.",
-                "The OEM also committed exclusively to compliant EPA 2027 engine standards ahead of strict federal emissions enforcement mandates.",
-                "Massive capital deployment in heavy equipment production addresses long-term fleet modernization demands across North American motor carriers.",
-                "Fleet directors gain expanded domestic tractor availability while aligning procurement timelines with changing environmental compliance rules."
+                "Massive US data center infrastructure projects are consuming significant over-the-road freight capacity, requiring 100,000 truckloads per gigawatt of expansion.",
+                "Specialized flatbed and heavy-haul truck capacity is shifting heavily toward data center construction sites, tightening regional fleet supply.",
+                "Logistics analysts warn that competing industrial projects and AI infrastructure buildouts will exacerbate spot market rate volatility across domestic lanes.",
+                "Supply chain managers must secure dedicated long-term carrier contracts to isolate standard freight operations from industrial capacity drains."
             ],
             "imageUrl": "",
-            "nextUpTease": "CAPACITY: DATA CENTER HAULAGE DEMAND",
+            "nextUpTease": "RAIL: DIRECT VIRGINIA CSX SERVICE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CAPACITY: DATA CENTER HAULAGE DEMAND",
+            "heading": "RAIL: DIRECT VIRGINIA CSX SERVICE",
             "points": [
-                "Surging AI data center construction requires approximately 100K truckloads per gigawatt of power infrastructure deployment across North America.",
-                "Heavy specialized flatbed and specialized freight demand is consuming specialized logistics capacity across regional carrier networks.",
-                "The massive influx of heavy industrial freight is tightening overall US truckload availability for traditional commercial sectors.",
-                "Transportation buyers must secure dedicated carrier capacity early to prevent spot market price spikes and shipping delays."
+                "The Port of Virginia launched a direct CSX intermodal rail service connecting marine terminals to Indianapolis, completely bypassing traditional Chicago hubs.",
+                "Direct rail routing reduces transit delays, eliminates unnecessary drayage transfers, and lowers total landed transport costs for Midwestern importers.",
+                "Strategic intermodal bypass corridors enhance Midwest import fluidity while relieving chronic rail congestion at major regional interchange yards.",
+                "Logistics directors should integrate direct coastal-to-inland rail options to improve transit reliability and optimize regional inventory placement."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+            "nextUpTease": "AIR CARGO: LEIPZIG DRONE THREAT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+            "heading": "AIR CARGO: LEIPZIG DRONE THREAT",
             "points": [
-                "Etsy announced a 12% workforce reduction affecting 200 employees shortly after receiving $1.4B in cash from selling Depop to eBay.",
-                "The marketplace platform is re-allocating capital toward AI infrastructure and core search optimization to defend GMV market share.",
-                "Cost restructuring highlights broader financial pressures facing specialized C2C e-commerce platforms amid slowing consumer spend.",
-                "Sellers must adapt to rapid marketplace platform changes as operators streamline overhead and shift focus toward automated search tools."
+                "German authorities launched a counterterrorism investigation after discovering an explosive-laden drone at the major Leipzig/Halle air cargo hub.",
+                "Security agencies issued heightened alert levels across European air freight terminals, enforcing rigorous screening protocols for incoming freight.",
+                "Increased security screening and physical perimeter monitoring across European air hubs threaten to introduce tactical freight handling delays.",
+                "Air cargo forwarders and shippers must factor potential security-related dwell times into high-value time-critical global shipment schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ STRAIT TRANSIT TOLLS",
+            "nextUpTease": "EQUIPMENT: DAIMLER EPA 2027 SHIFT",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME: HORMUZ STRAIT TRANSIT TOLLS",
+            "heading": "EQUIPMENT: DAIMLER EPA 2027 SHIFT",
             "points": [
-                "Global shipping organizations urged the UN and IMO to block proposed transit fees across the strategic Strait of Hormuz waterway.",
-                "Reports indicate bilateral talks between regional nations could establish unilateral shipping tolls on commercial ocean traffic.",
-                "Imposing unexpected maritime transit fees raises global shipping expenses and risks severe operational friction along crucial energy corridors.",
-                "Ocean carriers and freight forwarders are closely monitoring regional maritime negotiations to assess emergency surcharge contingencies."
+                "Daimler Truck North America committed exclusively to EPA 2027 compliant engine platforms ahead of upcoming stringent federal NOx emissions regulations.",
+                "The OEM strategy aligns commercial fleet manufacturing pipelines with strict environmental standards, driving fleet re-equipment planning.",
+                "Carrier fleets face accelerated vehicle acquisition cycles and higher upfront equipment costs as zero-emission and low-NOx mandates take effect.",
+                "Motor carriers must recalibrate capital expenditure budgets and maintenance workflows to transition smoothly toward EPA 2027 standards."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
