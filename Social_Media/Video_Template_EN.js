@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CRITICAL FREIGHT POLICY SHIFTS",
+        "hookTitle": "GLOBAL SUPPLY CHAIN PARADIGMS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: SECTION 301 EXPANSION",
-                "teaserTitle": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
+                "headline": "TARIFFS: POLYSILICON IMPORT LEVY",
+                "teaserTitle": "RAIL: CSX VIRGINIA SERVICE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR activated Section 301 tariffs on 60 trading partners. Importers must audit supply origins to avoid border holds."
+                "narration_line": "US enacts 15% tariffs on imported polysilicon Dec 4. Solar and tech supply chains face severe cost shifts."
             },
             {
                 "slide_index": 2,
-                "headline": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
-                "teaserTitle": "PARCEL: USPS SURCHARGE ELEVATION",
+                "headline": "RAIL: CSX VIRGINIA SERVICE",
+                "teaserTitle": "FINANCE: TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Amazon capped product listing titles at 75 characters. Non-compliant listings face search suppression across marketplace channels."
+                "narration_line": "Port of Virginia adds direct CSX rail to Indianapolis. Intermodal freight bypasses traditional Chicago bottlenecks completely."
             },
             {
                 "slide_index": 3,
-                "headline": "PARCEL: USPS SURCHARGE ELEVATION",
-                "teaserTitle": "SECURITY: HACKED DATA THEFT",
+                "headline": "FINANCE: TARIFF REFUND MONETIZATION",
+                "teaserTitle": "CAPACITY: DATA CENTER TRUCKING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "USPS raised package rates to push revenue toward $20B. Shippers must recalibrate parcel fulfillment budgets immediately."
+                "narration_line": "Retailers monetize tariff refund rights on secondary markets for immediate liquidity. Financial buyers acquire trade claims at discount."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: HACKED DATA THEFT",
-                "teaserTitle": "MARITIME: TERMINAL INFRASTRUCTURE EXPANSION",
+                "headline": "CAPACITY: DATA CENTER TRUCKING",
+                "teaserTitle": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "8 individuals were indicted in a $4.49M cargo theft ring using hacked data. Logistics firms must secure dispatch systems."
+                "narration_line": "Data center growth consumes 100K truckloads per gigawatt. Specialized transport demands tighten overall US truck capacity."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: TERMINAL INFRASTRUCTURE EXPANSION",
-                "teaserTitle": "RAIL: STB MERGER OPPOSITION",
+                "headline": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+                "teaserTitle": "FULFILLMENT: AMAZON CONSOLIDATED TRUCKING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "An Asian ocean line committed $135M to expand US terminal operations. The deal guarantees berth priority for transpacific vessels."
+                "narration_line": "SeaLead Shipping enters voluntary liquidation following US sanctions. Competitors rapidly absorb remaining vessel assets and container stock."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL: STB MERGER OPPOSITION",
-                "teaserTitle": "WAREHOUSE: AUTONOMOUS DRONE AUDITS",
+                "headline": "FULFILLMENT: AMAZON CONSOLIDATED TRUCKING",
+                "teaserTitle": "INVENTORY: STARBUCKS REPLENISHMENT TARGET",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Shipper groups petitioned the STB to block major rail merger proposals. Consolidation threatens rail competition and freight costs."
+                "narration_line": "Amazon Business deploys custom trucks for palletized dock deliveries. Consolidated fulfillment streamlines commercial B2B freight distribution."
             },
             {
                 "slide_index": 7,
-                "headline": "WAREHOUSE: AUTONOMOUS DRONE AUDITS",
+                "headline": "INVENTORY: STARBUCKS REPLENISHMENT TARGET",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "GNC deployed inventory drones across 450K sq ft warehouses. Automated scanning optimizes cycle counts and cuts labor costs."
+                "narration_line": "Starbucks targets 24-hour store replenishment after scrapping an AI tool. Operational focus shifts to core distribution speed."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
             }
         ]
     }
