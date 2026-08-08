@@ -1,73 +1,90 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT DISRUPTION",
-        "titleBlue": "RECALIBRATION",
-        "footerSummary": "New postal surcharges, cyber cargo theft indictments, expanding Section 301 tariffs, and $604M legal verdicts enforce immediate supply chain operational re-alignment globally."
+        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "New polysilicon tariffs, carrier liquidations, data center capacity drains, and security breaches trigger strategic operational re-engineering across global logistics networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "POSTAL: PARCEL SURCHARGE IMPOSITION",
+            "heading": "TARIFF: POLYSILICON IMPORT LEVY",
             "points": [
-                "The US Postal Service introduced a dedicated parcel surcharge structure alongside Ground Advantage rate increases for e-commerce shipments.",
-                "Higher shipping costs directly impact lightweight parcel fulfillment overhead, driving up landed delivery costs across rural shipping zones.",
-                "Marketplace sellers and mid-tier retailers must re-evaluate multi-carrier parcel distribution networks to mitigate rising postal expense exposure.",
-                "Postal revenue rose despite Q3 losses, signaling permanent structural price increases across domestic last-mile shipping networks."
+                "The US government issued a official proclamation establishing a 15% tariff alongside a mandatory import price floor on foreign polysilicon.",
+                "The regulatory levy directly impacts solar energy equipment supply chains and advanced semiconductor manufacturing input costs across global trade channels.",
+                "Importers face mandatory duty compliance adjustments and increased landed costs on critical tech inputs effective Dec 4.",
+                "Enterprise procurement teams must audit tier-two component origin structures to evaluate domestic reshoring alternatives and control tariff exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CYBER CARGO THEFT",
+            "nextUpTease": "CAPACITY: DATA CENTER INFRASTRUCTURE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SECURITY: CYBER CARGO THEFT",
+            "heading": "CAPACITY: DATA CENTER INFRASTRUCTURE",
             "points": [
-                "A federal grand jury indicted 8 members of a sophisticated cybercrime ring for stealing $4.49M in high-value retail freight.",
-                "Perpetrators hacked legitimate logistics data networks to forge dispatch credentials and hijack valuable commercial shipments.",
-                "The breach underscores systemic vulnerability within carrier dispatch software, freight load boards, and third-party credential verification platforms.",
-                "Shippers and freight brokers must enforce zero-trust identity verification protocols and multi-factor access controls across corporate logistics IT systems."
+                "Accelerating US data center construction requires approximately 100K specialized truckloads for every single gigawatt of power expansion.",
+                "Heavy industrial material movement is absorbing regional flatbed and specialized heavy-haul truck capacity across key domestic freight corridors.",
+                "Shrinking commercial driver pools face unprecedented competition from high-yield tech infrastructure development freight across primary shipping regions.",
+                "Logistics planners must secure long-term dedicated fleet capacity commitments to protect standard freight routing options from construction spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE: SECTION 301 EXPANSION",
+            "nextUpTease": "RAIL: INTERMODAL CORRIDOR EXPANSION",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE: SECTION 301 EXPANSION",
+            "heading": "RAIL: INTERMODAL CORRIDOR EXPANSION",
             "points": [
-                "The USTR finalized the implementation of expanded Section 301 tariffs covering 60 foreign trading partners as temporary Section 122 duties lapse.",
-                "The regulatory expansion targets foreign manufacturing hubs with heightened import tariffs focused heavily on critical industrial goods and inputs.",
-                "Importers face immediate duty cost escalations and stricter customs valuation checks across primary cross-border trade entries.",
-                "Enterprise supply chain leaders must audit international origin classification and trade preference program compliance to control total landed costs."
+                "The Port of Virginia partnered with CSX to launch direct intermodal rail container service connecting Norfolk directly to Indianapolis.",
+                "Direct rail routing eliminates traditional Chicago hub transfers and bypasses regional highway truck congestion corridors for Midwest import flows.",
+                "Midwest importers gain faster container fluidity, reduced transit dwell times, and lower carbon-intensity transportation across regional supply chains.",
+                "Supply chain directors can optimize inland distribution routing while reducing reliance on long-haul drayage trucking networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: TERMINAL INFRASTRUCTURE INVESTMENT",
+            "nextUpTease": "MARITIME: SEALEAD FLEET LIQUIDATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: TERMINAL INFRASTRUCTURE INVESTMENT",
+            "heading": "MARITIME: SEALEAD FLEET LIQUIDATION",
             "points": [
-                "A prominent Asian ocean carrier committed $135M to expand container terminal facilities at a strategic US marine portal.",
-                "The terminal upgrade increases box throughput capacity, berth productivity, and dedicated intermodal rail connection efficiency.",
-                "Expanded terminal footprint mitigates localized port congestion while optimizing container turnaround times for transpacific import vessels.",
-                "Logistics managers gain expanded terminal gate access and improved container fluidity across major ocean shipping corridors."
+                "Singapore-headquartered ocean carrier SeaLead Shipping entered voluntary liquidation following recent US economic sanctions enforcement actions.",
+                "Rival container lines swiftly absorbed charter vessels and container assets to maintain trade lane continuity across major ocean corridors.",
+                "Disrupted Middle East, Mediterranean, and Baltic ocean routes require immediate cargo re-routing and slot booking updates for affected shippers.",
+                "BCOs and freight forwarders must verify carrier solvency risk profiles to avoid operational delays and cargo arrest exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: TITLE CAP STANDARDIZATION",
+            "nextUpTease": "EQUIPMENT: DAIMLER MEGA PLANT",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "EQUIPMENT: DAIMLER MEGA PLANT",
+            "points": [
+                "Daimler Truck North America confirmed plans to construct its largest US commercial vehicle manufacturing facility by 2029.",
+                "The facility expansion positions DTNA to meet upcoming EPA 2027 low-emission engine regulations and growing commercial fleet demand.",
+                "Capital investment signals long-term confidence in North American freight demand and commercial fleet replacement cycles despite market volatility.",
+                "Fleet operators gain improved access to next-generation heavy-duty tractors designed for enhanced fuel efficiency and emissions compliance."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LOGISTICS: DP WORLD RESTRUCTURING",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
@@ -75,33 +92,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "E-COMMERCE: TITLE CAP STANDARDIZATION",
-            "points": [
-                "Amazon formally imposed a strict 75-character length restriction on product catalog titles across marketplace seller and first-party listings.",
-                "The catalog policy change forces algorithmic re-indexing of product listings to eliminate keyword stuffing and optimize catalog search clarity.",
-                "Non-compliant product listings face suppression across organic search results, impacting merchant traffic and conversion velocity.",
-                "E-commerce operations must overhaul inventory SKU metadata management processes to maintain catalog visibility and compliance."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INLAND: RHINE BARGE CONSTRAINTS",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "INLAND: RHINE BARGE CONSTRAINTS",
+            "heading": "LOGISTICS: DP WORLD RESTRUCTURING",
             "points": [
-                "Record low water levels along the Rhine River restricted vessel draft limits, severely capping barge container cargo capacity across Central Europe.",
-                "Industrial shippers face reduced payload allowances, mandatory low-water surcharges, and extended inland transit timelines.",
-                "Cargo throughput bottlenecks force modal shifts toward European rail freight networks and heavy road transport alternatives.",
-                "Supply chain planners must adjust safety stock inventory targets and re-route European raw material flows around river corridor delays."
+                "Global port operator DP World initiated a major European operational revamp involving the reduction of 300 corporate and operational roles.",
+                "Management restructuring targets operational cost optimization across key gateway terminals, including London Gateway and Southampton marine portals.",
+                "Streamlined regional governance aims to improve terminal throughput efficiency and digital logistics service integration across European hubs.",
+                "Shippers using European port portals should anticipate updated terminal management workflows and streamlined digital service touchpoints."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: BROKER LIABILITY SHIFT",
+            "nextUpTease": "AIRFREIGHT: LEIPZIG CARGO SECURITY",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "REGULATION: BROKER LIABILITY SHIFT",
+            "heading": "AIRFREIGHT: LEIPZIG CARGO SECURITY",
             "points": [
-                "A massive $604M nuclear verdict against C.H. Robinson creates unprecedented negligent hiring liability exposure for freight brokers.",
-                "Appellate court decisions signal increasing judicial willingness to hold freight intermediaries accountable for motor carrier safety vetting.",
-                "Freight brokerages face heightened legal scrutiny, skyrocketing liability insurance premiums, and strict carrier selection compliance mandates.",
-                "Shippers and brokers must immediately tighten carrier onboarding standards, safety monitoring workflows, and risk mitigation contracts."
+                "German counterterrorism authorities launched an investigation after an explosive-laden drone was detected at Leipzig/Halle Airport hub.",
+                "The security incident triggered immediate protocol escalations across major European air cargo handling gateways and sorting facilities.",
+                "Enhanced physical screening and perimeter surveillance measures may introduce temporary airfreight handling friction and export delays.",
+                "Global air cargo shippers must prepare for stricter chain-of-custody audits and potential transit delays at major European air hubs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
