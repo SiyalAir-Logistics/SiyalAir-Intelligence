@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE SHIFT",
+        "hookTitle": "GLOBAL FREIGHT NETWORK DISRUPTIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SECURITY: DATA THEFT RING",
-                "teaserTitle": "E-COMMERCE: TITLE LENGTH LIMITS",
+                "headline": "E-COMMERCE: AMAZON TITLE CHARACTER LIMIT",
+                "teaserTitle": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Federal prosecutors indicted 8 individuals for stealing $4.49M in cargo through hacked broker portals. Shippers must enforce multi-factor authentication across all freight software."
+                "narration_line": "Amazon enforced a 75-character product title limit. Sellers must format catalog titles to avoid search suppression."
             },
             {
                 "slide_index": 2,
-                "headline": "E-COMMERCE: TITLE LENGTH LIMITS",
-                "teaserTitle": "REGULATION: FMC DETENTION RULE",
+                "headline": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+                "teaserTitle": "PARCEL: USPS GROUND ADVANTAGE RATE HIKE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Amazon enforced a 75 character title limit across all marketplace listings. Retailers must audit product metadata to prevent automated search suppression."
+                "narration_line": "Iran and Oman proposed Strait of Hormuz transit fees. Global shipping groups urge UN intervention against unilateral tolls."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: FMC DETENTION RULE",
-                "teaserTitle": "FLEET: DTNA PLANT EXPANSION",
+                "headline": "PARCEL: USPS GROUND ADVANTAGE RATE HIKE",
+                "teaserTitle": "TRADE COMPLIANCE: USTR SECTION 301 TARIFFS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Appeals Court ruled ocean carrier detention fees must directly incentivize cargo fluidity. Importers gain stronger leverage to dispute unfair demurrage billing."
+                "narration_line": "USPS raised Ground Advantage rates with $2-$3 rural surcharges. Sellers face higher last-mile package delivery costs."
             },
             {
                 "slide_index": 4,
-                "headline": "FLEET: DTNA PLANT EXPANSION",
-                "teaserTitle": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+                "headline": "TRADE COMPLIANCE: USTR SECTION 301 TARIFFS",
+                "teaserTitle": "TRUCKING: DATA CENTER CAPACITY CRUNCH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Daimler Truck announced plans for its largest US plant while committing to EPA 2027 engines. Fleet operators must align procurement schedules with new emissions targets."
+                "narration_line": "USTR implemented Section 301 tariffs on 60 trading nations. Importers must verify supply chain origin compliance."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
-                "teaserTitle": "TRUCKING: VETERAN CDL INITIATIVE",
+                "headline": "TRUCKING: DATA CENTER CAPACITY CRUNCH",
+                "teaserTitle": "CARRIER OPERATIONS: SEALEAD LIQUIDATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation following sanctions, causing competitors to absorb its fleet. Shippers must rebook Asia to Middle East container freight immediately."
+                "narration_line": "US data center builds demand 100K truckloads per gigawatt. Heavy construction freight is consuming regional truck capacity."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING: VETERAN CDL INITIATIVE",
-                "teaserTitle": "INTERMODAL: DATA CENTER FREIGHT",
+                "headline": "CARRIER OPERATIONS: SEALEAD LIQUIDATION",
+                "teaserTitle": "LOGISTICS SECURITY: HACKED CARGO THEFT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The DOT launched Freedom Haulers to accelerate veteran CDL licensing while cracking down on unauthorized drivers. Fleets can access pre-screened labor pipelines to fill cab seats."
+                "narration_line": "SeaLead Shipping entered liquidation following US sanctions. Rival carriers are snapping up vessel charters and container assets."
             },
             {
                 "slide_index": 7,
-                "headline": "INTERMODAL: DATA CENTER FREIGHT",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "LOGISTICS SECURITY: HACKED CARGO THEFT",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Data center expansion requires 100K truckloads per gigawatt, consuming heavy-haul capacity nationwide. Shippers face tighter flatbed availability as tech construction accelerates."
+                "narration_line": "A grand jury indicted 8 individuals in a $4.49M cargo theft ring. Criminals utilized hacked logistics data to steal retail shipments."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
             }
         ]
     }
