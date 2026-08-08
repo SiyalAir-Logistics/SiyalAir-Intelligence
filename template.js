@@ -1,22 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE ARCHITECTURE",
-        "titleBlue": "DISRUPTIONS",
-        "footerSummary": "Sanctions trigger ocean line liquidation, cargo theft networks exploit corporate data, and new regulatory mandates enforce structural shifts across global trade networks."
+        "titleWhite": "GLOBAL FREIGHT RISK",
+        "titleBlue": "DISRUPTION",
+        "footerSummary": "Proposed Hormuz transit tolls, Section 301 forced labor tariffs, and carrier insolvencies drive sharp operational frictions across ocean, air, and highway supply networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+            "heading": "MARITIME: HORMUZ TOLL PROPOSALS",
             "points": [
-                "Singapore-registered container line SeaLead Shipping has entered voluntary liquidation following recent US sanctions and alleged Iranian geopolitical ties.",
-                "Competing ocean carriers quickly absorbed vessel assets and container fleets to prevent immediate capacity collapse across Asia-Middle East trade lanes.",
-                "The abrupt liquidation forces freight forwarders to reroute active box bookings and negotiate urgent spot contracts with alternative carriers.",
-                "Supply chain executives must audit ocean carrier ownership structures to mitigate sudden secondary sanctions and service disruptions."
+                "Global shipping bodies urged the UN and IMO to reject proposed transit fees through the Strait of Hormuz.",
+                "Diplomatic talks between regional powers threaten to impose unprecedented mandatory tolls on commercial vessel transits.",
+                "Imposing unauthorized fees on international straits increases ocean freight transit costs and creates regulatory compliance friction.",
+                "Maritime carriers and logistics planners must prepare for potential routing shifts and elevated surcharge structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: $4.49M HACKED DATA CARGO THEFT",
+            "nextUpTease": "CARRIERS: SEALEAD FLEET LIQUIDATION",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "CARRIERS: SEALEAD FLEET LIQUIDATION",
+            "points": [
+                "Singapore-based container carrier SeaLead Shipping entered voluntary liquidation following recent US economic sanctions.",
+                "Rival liner operators swiftly acquired the carrier's active vessel charters and empty container inventory across key trade routes.",
+                "The sudden cessation of operations disrupts trade lanes connecting Asia, the Middle East, and Baltic regional ports.",
+                "BCOs and freight forwarders should audit container bookings to re-allocate stranded cargo to alternate ocean carriers."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USTR: SECTION 301 EXPANSION",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -24,16 +41,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "SECURITY: $4.49M HACKED DATA CARGO THEFT",
+            "id": 3,
+            "heading": "USTR: SECTION 301 EXPANSION",
             "points": [
-                "A federal grand jury indicted 8 individuals operating an organized theft ring that stole $4.49M in retail freight through compromised company credentials.",
-                "Infiltrated logistics dispatch systems allowed the criminal network to fraudulently reroute and intercept high-value commercial shipments across state lines.",
-                "The indictment highlights expanding cyber-vulnerabilities within third-party carrier broker databases and electronic dispatch platforms.",
-                "Logistics security managers must enforce multi-factor authentication and identity verification for all dispatched freight loads."
+                "The USTR initiated new forced-labor-based tariffs under Section 301 targeting imports from 60 trading partner nations.",
+                "The regulatory escalation coincided with the expiration of emergency Section 122 duties and prompted multi-state legal challenges.",
+                "Global importers face heightened customs scrutiny, mandatory origin verification, and expanded tariff exposures.",
+                "Compliance officers must re-examine supply chain vendor networks to ensure full compliance with forced-labor audits."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: LEIPZIG AIRPORT DRONE INCIDENT",
+            "nextUpTease": "SECURITY: CYBER CARGO THEFT",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "SECURITY: CYBER CARGO THEFT",
+            "points": [
+                "Federal prosecutors indicted eight individuals in a $4.29M freight theft ring exploiting compromised logistics data systems.",
+                "The cybercrime syndicate utilized stolen carrier credentials to execute unauthorized freight pickups and redirect high-value goods.",
+                "Network vulnerabilities in digital freight brokerage portals represent an expanding systemic operational threat for shippers.",
+                "Freight brokers and logistics teams must implement multi-factor authentication and strict identity verification protocols immediately."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRUCKING: DATA CENTER DEMAND",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -41,67 +75,33 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "INFRASTRUCTURE: LEIPZIG AIRPORT DRONE INCIDENT",
-            "points": [
-                "German counterterrorism authorities launched a formal investigation after an explosive-laden drone was discovered near Leipzig/Halle Airport air freight operations.",
-                "The major European cargo hub sustained heightened security protocols, prompting temporary airside perimeter freezes and delayed freight processing.",
-                "Aviation security officials are mandating anti-drone defense systems around key European express freight facilities to mitigate physical disruption risks.",
-                "Air cargo operators must build operational redundancy for critical European hubs to withstand unexpected physical security shutdowns."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "REGULATION: 25 STATES SUE SECTION 301",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "REGULATION: 25 STATES SUE SECTION 301",
-            "points": [
-                "A coalition of 25 US state attorneys general filed a lawsuit challenging federal Section 301 tariffs enforced under forced-labor trade provisions.",
-                "Plaintiffs argue the administrative tariff action bypasses recent judicial constraints placed on executive trade authority and import duty enforcement.",
-                "The legal challenge introduces immediate compliance uncertainty for importers adjusting supply chains to recent tariff expansions.",
-                "Enterprise trade compliance teams must maintain flexible duty drawback strategies while federal court litigation proceeds."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DEVELOPMENT: MEXICO $2.2B OAXACA INFRASTRUCTURE",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "DEVELOPMENT: MEXICO $2.2B OAXACA INFRASTRUCTURE",
+            "heading": "TRUCKING: DATA CENTER DEMAND",
             "points": [
-                "The Mexican government allocated $2.2B toward multimodal infrastructure projects in Oaxaca to accelerate the Interoceanic Trade Corridor.",
-                "The strategic investment targets rail bypass links, industrial parks, and port expansions connecting Pacific and Atlantic shipping lanes.",
-                "Enhanced cross-isthmus capacity offers global shippers a land-bridge alternative to potential Panama Canal transit constraints.",
-                "Nearshoring manufacturers should evaluate Southern Mexico logistics corridors to streamline North American cross-border distribution."
+                "Industrial analysis indicates each gigawatt of US data center construction requires over 100K specialized truckload shipments.",
+                "Surging AI infrastructure demand is absorbing flatbed and heavy-haul highway capacity across key regional freight corridors.",
+                "Industrial real estate and data center builds are competing directly with standard manufacturing logistics for available drivers.",
+                "Fleet managers and logistics planners must secure long-term capacity contracts to buffer against tightening flatbed availability."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON 75-CHAR TITLE LIMITS",
+            "nextUpTease": "E-COMMERCE: AMAZON TITLE LIMITS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "E-COMMERCE: AMAZON 75-CHAR TITLE LIMITS",
+            "heading": "E-COMMERCE: AMAZON TITLE LIMITS",
             "points": [
-                "Amazon instituted a strict policy restricting product catalog titles to a maximum of 75 characters across merchant and first-party listings.",
-                "Non-compliant product titles face automated suppression from marketplace search indices and internal catalog visibility algorithms.",
-                "The mandate aims to standardize catalog metadata, improve mobile user experiences, and eliminate keyword stuffing across digital channels.",
-                "E-commerce inventory teams must audit and reformat SKU catalog listings immediately to prevent listing deactivation."
+                "Amazon officially enforced a strict 75-character length restriction across all product titles for third-party sellers and first-party items.",
+                "Listings exceeding the mandated character ceiling face automated search suppression and reduced organic algorithm placement.",
+                "The platform-wide character reduction aims to streamline algorithmic indexing and optimize mobile search interface performance.",
+                "E-commerce merchants must truncate product titles immediately to prevent severe catalog suppression and revenue loss."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEOPOLITICS: HORMUZ TRANSIT TOLL PROPOSAL",
+            "nextUpTease": "PORTS: US TERMINAL EXPANSION",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "GEOPOLITICS: HORMUZ TRANSIT TOLL PROPOSAL",
+            "heading": "PORTS: US TERMINAL EXPANSION",
             "points": [
-                "International shipping bodies urged UN and IMO intervention over proposals by regional authorities to levy transit tolls on Strait of Hormuz vessels.",
-                "Unilateral maritime tolls threaten to add substantial daily operating costs to energy tankers and container vessels traversing the Persian Gulf.",
-                "The diplomatic friction heightens war-risk premiums and operational uncertainty across global maritime energy and container trades.",
-                "Ocean carriers must prepare contingency routing plans and adjust bunker fuel surcharges as Middle East maritime risk scales."
+                "A major Asian container line committed $135M to expand marine container terminal infrastructure at key US port gateways.",
+                "The capital investment focuses on increasing container berth capacity, upgrading crane systems, and accelerating box throughput.",
+                "Deep-water gateway expansion mitigates severe vessel dwell times and buffers against long-term import volume spikes.",
+                "Ocean freight planners should align port routing strategies with expanding marine terminal handling capabilities."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
