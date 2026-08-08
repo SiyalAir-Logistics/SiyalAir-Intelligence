@@ -1,121 +1,121 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT RISK",
-        "titleBlue": "DISRUPTION",
-        "footerSummary": "Proposed Hormuz transit tolls, Section 301 forced labor tariffs, and carrier insolvencies drive sharp operational frictions across ocean, air, and highway supply networks."
+        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleBlue": "ESCALATION",
+        "footerSummary": "New administration tariffs, regional naval tensions, and court challenges trigger sweeping cost adjustments across transpacific logistics channels."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: HORMUZ TOLL PROPOSALS",
+            "heading": "TARIFFS: POLYSILICON LEVIES DEPLOYED",
             "points": [
-                "Global shipping bodies urged the UN and IMO to reject proposed transit fees through the Strait of Hormuz.",
-                "Diplomatic talks between regional powers threaten to impose unprecedented mandatory tolls on commercial vessel transits.",
-                "Imposing unauthorized fees on international straits increases ocean freight transit costs and creates regulatory compliance friction.",
-                "Maritime carriers and logistics planners must prepare for potential routing shifts and elevated surcharge structures."
+                "The executive branch issued a binding proclamation establishing a 15% tariff on polysilicon imports.",
+                "An enforced import price floor accompanies the levy to protect domestic semiconductor and solar supply chains.",
+                "Implementation begins Dec. 4, forcing renewable energy manufacturers to reassess long-term procurement models.",
+                "Supply chain planners must model increased component costs across high-tech manufacturing import lines."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIERS: SEALEAD FLEET LIQUIDATION",
+            "nextUpTease": "COMPLIANCE: FORCED LABOR LAWSUIT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CARRIERS: SEALEAD FLEET LIQUIDATION",
+            "heading": "COMPLIANCE: FORCED LABOR LAWSUIT",
             "points": [
-                "Singapore-based container carrier SeaLead Shipping entered voluntary liquidation following recent US economic sanctions.",
-                "Rival liner operators swiftly acquired the carrier's active vessel charters and empty container inventory across key trade routes.",
-                "The sudden cessation of operations disrupts trade lanes connecting Asia, the Middle East, and Baltic regional ports.",
-                "BCOs and freight forwarders should audit container bookings to re-allocate stranded cargo to alternate ocean carriers."
+                "A coalition of 25 state attorneys general filed a joint federal lawsuit against Section 301 forced-labor tariffs.",
+                "The legal action challenges the executive duties as an unlawful workaround following prior Supreme Court rulings.",
+                "Importers face ongoing regulatory uncertainty regarding origin verification and federal compliance enforcement.",
+                "Corporate legal teams must monitor multi-state litigation outcomes to adjust customs exposure strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR: SECTION 301 EXPANSION",
+            "nextUpTease": "MARITIME: HORMUZ TRANSIT STRIFE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "USTR: SECTION 301 EXPANSION",
+            "heading": "MARITIME: HORMUZ TRANSIT STRIFE",
             "points": [
-                "The USTR initiated new forced-labor-based tariffs under Section 301 targeting imports from 60 trading partner nations.",
-                "The regulatory escalation coincided with the expiration of emergency Section 122 duties and prompted multi-state legal challenges.",
-                "Global importers face heightened customs scrutiny, mandatory origin verification, and expanded tariff exposures.",
-                "Compliance officers must re-examine supply chain vendor networks to ensure full compliance with forced-labor audits."
+                "Regional geopolitical tensions escalated further as Middle Eastern authorities reported targeted missile strikes on commercial shipping.",
+                "International maritime groups continue pressing global bodies to guarantee unhindered passage through the Strait of Hormuz.",
+                "Persistent security threats drive marine insurance premiums higher and necessitate continuous route optimization.",
+                "Ocean carriers should maintain contingency protocols to divert vessels away from high-risk geopolitical chokepoints."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CYBER CARGO THEFT",
+            "nextUpTease": "PROCUREMENT: REFUND MARKET SURGE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.cnbc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SECURITY: CYBER CARGO THEFT",
+            "heading": "PROCUREMENT: REFUND MARKET SURGE",
             "points": [
-                "Federal prosecutors indicted eight individuals in a $4.29M freight theft ring exploiting compromised logistics data systems.",
-                "The cybercrime syndicate utilized stolen carrier credentials to execute unauthorized freight pickups and redirect high-value goods.",
-                "Network vulnerabilities in digital freight brokerage portals represent an expanding systemic operational threat for shippers.",
-                "Freight brokers and logistics teams must implement multi-factor authentication and strict identity verification protocols immediately."
+                "Major retailers are actively monetizing potential federal tariff refunds through newly established secondary financial markets.",
+                "Firms such as American Eagle Outfitters are selling rights to expected duties to secure immediate working capital.",
+                "This trend highlights acute corporate cash-flow pressures resulting from prolonged high-tariff trade environments.",
+                "Supply chain financial officers should evaluate asset monetization pathways to buffer against liquidity constraints."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: DATA CENTER DEMAND",
+            "nextUpTease": "INFRASTRUCTURE: RAIL NETWORK UPGRADES",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRUCKING: DATA CENTER DEMAND",
+            "heading": "INFRASTRUCTURE: RAIL NETWORK UPGRADES",
             "points": [
-                "Industrial analysis indicates each gigawatt of US data center construction requires over 100K specialized truckload shipments.",
-                "Surging AI infrastructure demand is absorbing flatbed and heavy-haul highway capacity across key regional freight corridors.",
-                "Industrial real estate and data center builds are competing directly with standard manufacturing logistics for available drivers.",
-                "Fleet managers and logistics planners must secure long-term capacity contracts to buffer against tightening flatbed availability."
+                "The Port of Virginia launched direct rail container services to Indianapolis via CSX, bypassing Chicago bottlenecks.",
+                "The direct intermodal routing eliminates intermediate highway drayage steps and accelerates regional cargo delivery.",
+                "Logistics providers gain enhanced efficiency by avoiding congested midwestern freight transfer hubs entirely.",
+                "Intermodal shippers should integrate direct rail corridors into their Midwest distribution network designs."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON TITLE LIMITS",
+            "nextUpTease": "SECURITY: SALMONELLA SUPPLY SHOCK",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "E-COMMERCE: AMAZON TITLE LIMITS",
+            "heading": "SECURITY: SALMONELLA SUPPLY SHOCK",
             "points": [
-                "Amazon officially enforced a strict 75-character length restriction across all product titles for third-party sellers and first-party items.",
-                "Listings exceeding the mandated character ceiling face automated search suppression and reduced organic algorithm placement.",
-                "The platform-wide character reduction aims to streamline algorithmic indexing and optimize mobile search interface performance.",
-                "E-commerce merchants must truncate product titles immediately to prevent severe catalog suppression and revenue loss."
+                "Advanced traceability systems prompted major food brands to pull contaminated jalape\u00f1os due to recent Salmonella risks.",
+                "Affected inventory was rapidly isolated and replaced with secure stock sourced from pre-vetted alternate vendors.",
+                "End-to-end supply chain visibility tools proved essential for mitigating widespread consumer health liabilities.",
+                "Food and beverage distributors must enforce rigorous digital traceability across all tier-one agricultural suppliers."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: US TERMINAL EXPANSION",
+            "nextUpTease": "FACILITIES: RETAIL DISTRIBUTION EXPANSION",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORTS: US TERMINAL EXPANSION",
+            "heading": "FACILITIES: RETAIL DISTRIBUTION EXPANSION",
             "points": [
-                "A major Asian container line committed $135M to expand marine container terminal infrastructure at key US port gateways.",
-                "The capital investment focuses on increasing container berth capacity, upgrading crane systems, and accelerating box throughput.",
-                "Deep-water gateway expansion mitigates severe vessel dwell times and buffers against long-term import volume spikes.",
-                "Ocean freight planners should align port routing strategies with expanding marine terminal handling capabilities."
+                "American Eagle Outfitters committed $41M to construct a massive advanced distribution facility in North Carolina.",
+                "Scheduled to open in early 2027, the regional hub will create over 200 high-demand supply chain jobs.",
+                "The investment reflects a broader industry push to regionalize fulfillment centers closer to southeastern consumer bases.",
+                "Retail logistics planners must align real estate expansion timelines with long-term regional demand forecasts."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",

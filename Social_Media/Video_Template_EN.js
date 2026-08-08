@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT RISK DISRUPTION",
+        "hookTitle": "GLOBAL TRADE TARIFF ESCALATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: HORMUZ TOLL PROPOSALS",
-                "teaserTitle": "CARRIERS: SEALEAD FLEET LIQUIDATION",
+                "headline": "TARIFFS: POLYSILICON LEVIES DEPLOYED",
+                "teaserTitle": "COMPLIANCE: FORCED LABOR LAWSUIT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Shipping groups urged the UN and IMO to block proposed Strait of Hormuz tolls threatening ocean freight costs."
+                "narration_line": "New 15% tariffs on polysilicon imports take effect Dec. 4 to secure domestic semiconductor and solar supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "CARRIERS: SEALEAD FLEET LIQUIDATION",
-                "teaserTitle": "USTR: SECTION 301 EXPANSION",
+                "headline": "COMPLIANCE: FORCED LABOR LAWSUIT",
+                "teaserTitle": "MARITIME: HORMUZ TRANSIT STRIFE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation following US sanctions, leaving rivals to acquire vessel charters and container assets."
+                "narration_line": "25 state attorneys general filed a federal lawsuit challenging Section 301 forced-labor import tariffs."
             },
             {
                 "slide_index": 3,
-                "headline": "USTR: SECTION 301 EXPANSION",
-                "teaserTitle": "SECURITY: CYBER CARGO THEFT",
+                "headline": "MARITIME: HORMUZ TRANSIT STRIFE",
+                "teaserTitle": "PROCUREMENT: REFUND MARKET SURGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The USTR launched Section 301 forced-labor tariffs targeting 60 nations as Section 122 duties expired."
+                "narration_line": "Targeted missile strikes on commercial ships in the Middle East drive ongoing maritime security risks."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: CYBER CARGO THEFT",
-                "teaserTitle": "TRUCKING: DATA CENTER DEMAND",
+                "headline": "PROCUREMENT: REFUND MARKET SURGE",
+                "teaserTitle": "INFRASTRUCTURE: RAIL NETWORK UPGRADES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A grand jury indicted 8 individuals in a $4.29M cyber cargo theft ring using hacked brokerage data."
+                "narration_line": "Retailers are selling potential federal tariff refund rights on secondary markets to secure immediate working capital."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING: DATA CENTER DEMAND",
-                "teaserTitle": "E-COMMERCE: AMAZON TITLE LIMITS",
+                "headline": "INFRASTRUCTURE: RAIL NETWORK UPGRADES",
+                "teaserTitle": "SECURITY: SALMONELLA SUPPLY SHOCK",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "US data center builds require 100K truckloads per gigawatt, consuming heavy-haul highway capacity across regional corridors."
+                "narration_line": "The Port of Virginia launched direct CSX rail services to Indianapolis, bypassing Chicago intermodal bottlenecks."
             },
             {
                 "slide_index": 6,
-                "headline": "E-COMMERCE: AMAZON TITLE LIMITS",
-                "teaserTitle": "PORTS: US TERMINAL EXPANSION",
+                "headline": "SECURITY: SALMONELLA SUPPLY SHOCK",
+                "teaserTitle": "FACILITIES: RETAIL DISTRIBUTION EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon enforced a 75-character product title limit across listings to optimize search indexing and mobile interfaces."
+                "narration_line": "Traceability systems enabled major food brands to swiftly isolate and replace contaminated produce inventory."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: US TERMINAL EXPANSION",
+                "headline": "FACILITIES: RETAIL DISTRIBUTION EXPANSION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "An Asian liner carrier committed $135M to expand US marine box terminal capacity and speed container throughput."
+                "narration_line": "American Eagle invested $41M in a North Carolina distribution hub to optimize regional fulfillment."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
             }
         ]
     }
