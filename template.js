@@ -1,39 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "BOTTLENECKS",
-        "footerSummary": "New trade tariffs, surge in data center freight, and inland water constraints drive immediate operational adjustments across global logistics networks."
+        "titleWhite": "GLOBAL LOGISTICS NETWORK",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "Secondary tariff refund monetization, Hormuz toll proposals, and carrier liquidations force immediate tactical realignments across air, rail, and ocean freight networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 EXPANSION",
+            "heading": "CUSTOMS: TARIFF REFUND MONETIZATION",
             "points": [
-                "The Office of the United States Trade Representative launched Section 301 tariffs across 60 trading partners following Section 122 expiration.",
-                "Broad forced-labor provisions enforce immediate import compliance checks on high-volume manufactured goods and raw component flows.",
-                "Regulatory agencies aim to eliminate supply chain labor circumvention across transpacific and transatlantic trade channels.",
-                "Enterprise importers must update customs filing protocols immediately to prevent severe port clearance delays and product seizures."
+                "Enterprise retailers are monetizing pending federal tariff refund rights through secondary financial markets to secure immediate liquidity.",
+                "Secondary buyers purchase claims following CBP processing over $100B in IEEPA import duty repayments back to global importers.",
+                "Capital market liquidity mechanisms allow supply chain operators to bypass traditional administrative court settlement timelines.",
+                "Shippers should review open customs protest filings to evaluate immediate balance sheet monetization opportunities."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: DATA CENTER DEMAND",
+            "nextUpTease": "RAIL: DIRECT INDIANAPOLIS CORRIDOR",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INFRASTRUCTURE: DATA CENTER DEMAND",
+            "heading": "RAIL: DIRECT INDIANAPOLIS CORRIDOR",
             "points": [
-                "US data center expansion projects now consume massive surface transport capacity, requiring 100K truckloads per gigawatt built.",
-                "Specialized flatbed and heavy-haul motor carrier fleets are reallocating equipment from standard commercial freight lanes.",
-                "The influx of AI infrastructure projects is driving down available regional truckload capacity for industrial shippers.",
-                "Freight procurement teams must secure long-term dedicated trucking contracts to insulate against rising spot market freight rates."
+                "The Port of Virginia partnered with CSX Transportation to launch direct intermodal rail service into the Indianapolis inland market.",
+                "The direct rail corridor removes container drayage legs previously required when routing midwestern freight through congested Chicago ramps.",
+                "Surface transport efficiency gains lower inland transit times by 24 to 48 hours for midwest distribution centers.",
+                "Supply chain directors can re-route Ohio Valley container volumes to lower overland freight costs and reduce carbon footprints."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON TITLE POLICY",
+            "nextUpTease": "MARITIME: SEALEAD LINE LIQUIDATION",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "MARITIME: SEALEAD LINE LIQUIDATION",
+            "points": [
+                "Singapore container line SeaLead Shipping initiated voluntary liquidation procedures following recent US Treasury trade sanctions.",
+                "Rival ocean carriers quickly absorbed vessel charter contracts and container equipment assets across transpacific and Middle East lanes.",
+                "The sudden market exit triggers immediate booking reassignments for forwarders operating on affected trade corridors.",
+                "Cargo owners must re-audit ocean carrier compliance profiles to prevent sudden operational disruptions and cargo holds."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "GEOPOLITICS: STRAIT HORMUZ TOLLS",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "GEOPOLITICS: STRAIT HORMUZ TOLLS",
+            "points": [
+                "Proposed transit tolls on vessel movement through the Strait of Hormuz sparked swift pushback from global maritime organizations.",
+                "Industry bodies urged the UN and IMO to intervene against proposed regional shipping fees that threaten global trade neutrality.",
+                "Unilateral transit fees could add millions in vessel operating expenses across high-volume crude and container shipping routes.",
+                "Logistics planners must prepare for potential routing surcharges and bunker adjustments across Middle Eastern maritime lanes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "EQUIPMENT: DAIMLER US EXPANSION",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -41,86 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "E-COMMERCE: AMAZON TITLE POLICY",
-            "points": [
-                "Amazon enacted a strict 75-character title limit across third-party marketplace sellers and first-party brand listings.",
-                "The algorithmic policy change standardizes catalog metadata to optimize natural language processing for AI search tools.",
-                "Non-compliant product titles face immediate suppression from buyer search results and automated catalog indexing engines.",
-                "Brands must rapidly audit product listings to ensure key search attributes fit within the condensed character threshold."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TERMINALS: DP WORLD RESTRUCTURING",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "TERMINALS: DP WORLD RESTRUCTURING",
-            "points": [
-                "DP World initiated a major operational restructuring across European container terminals, eliminating 300 corporate and field positions.",
-                "Staff reductions focus on streamlining dockside operations and administrative overhead across major port hubs like London Gateway.",
-                "Terminal management seeks to offset rising regional labor costs and fluctuating transpacific container throughput volumes.",
-                "Shippers should monitor terminal dwell times and drayage fluidity as local management teams execute organizational transitions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INLAND: RHINE LOW WATER RESTRICTIONS",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "INLAND: RHINE LOW WATER RESTRICTIONS",
+            "heading": "EQUIPMENT: DAIMLER US EXPANSION",
             "points": [
-                "Record-low water levels on the Rhine river forced vessel operators to impose strict barge draft limits across German waterways.",
-                "Decreased barge load capacities created immediate freight bottlenecks for raw materials bound for central European manufacturing plants.",
-                "Inland shippers are shifting containerized cargo to regional rail and truck networks, triggering overland freight rate surcharges.",
-                "Logistics planners must build operational buffer times into European supply chain corridors to offset inland transport delays."
+                "Daimler Truck North America announced plans to construct its largest US commercial vehicle manufacturing plant by 2029.",
+                "The production expansion prepares fleet operators for strict EPA 2027 heavy-duty vehicle emissions and NOx standards.",
+                "Manufacturing capacity investments address long-term fleet modernizations across long-haul motor carrier networks.",
+                "Fleet managers should map out multi-year equipment replacement schedules ahead of regulatory engine transitions."
             ],
             "imageUrl": "",
-            "nextUpTease": "POSTAL: USPS PARCEL SURCHARGES",
+            "nextUpTease": "FLEET: AMAZON B2B CONSOLIDATION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "POSTAL: USPS PARCEL SURCHARGES",
+            "heading": "FLEET: AMAZON B2B CONSOLIDATION",
             "points": [
-                "The US Postal Service achieved $20B in revenue supported by new parcel surcharges and increased Ground Advantage pricing.",
-                "Targeted rate increases add $2 to $3 in delivery fees for lightweight e-commerce packages destined for rural postal zip codes.",
-                "Higher package shipping costs force marketplace sellers to reassess fulfillment margins and regional carrier diversification.",
-                "Retail merchants should renegotiate last-mile parcel carrier contracts to cushion bottom-line margins against rising postal fees."
+                "Amazon Business expanded dedicated branded delivery fleets engineered specifically for consolidated drop-offs at commercial loading docks.",
+                "Custom palletized delivery vehicles streamline last-mile B2B fulfillment while cutting destination dock congestion.",
+                "The logistics model integrates commercial procurement orders into unified freight runs to maximize vehicle cubic capacity.",
+                "Enterprise B2B buyers can leverage consolidated receiving schedules to optimize warehouse labor and receiving workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABLE",
+            "nextUpTease": "AIRFREIGHT: AI HARDWARE VOLUME",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABLE",
+            "heading": "AIRFREIGHT: AI HARDWARE VOLUME",
             "points": [
-                "US industrial real estate vacancy rates stabilized at 7.3% as net market absorption outpaced new warehouse completions.",
-                "Modern logistics facilities saw strong tenant demand driven by regional distribution shifts and automated fulfillment upgrades.",
-                "A slowdown in new warehouse construction starts is tightening prime industrial space availability in key port markets.",
-                "Enterprise supply chain directors must accelerate warehouse lease renewals before prime distribution space becomes scarce."
+                "High-yield AI hardware and data center equipment shipments are absorbing premium transpacific air cargo capacity.",
+                "Heavy tech freight competition against traditional e-commerce volumes is driving elevated spot rates on outbound Asia routes.",
+                "Forwarders are prioritizing high-density technology cargo to maximize carrier yields ahead of the traditional peak shipping season.",
+                "Air freight shippers must secure guaranteed space commitments early to insulate against Q4 rate surges."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
