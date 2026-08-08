@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "SECTION 301 FORCED LABOR TARIFFS",
+        "hookTitle": "DATA CENTER FREIGHT DEMAND",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: SECTION 301 FORCED LABOR TARIFFS",
-                "teaserTitle": "TERMINALS: US CONTAINER TERMINAL EXPANSION",
+                "headline": "TRUCKING: DATA CENTER FREIGHT DEMAND",
+                "teaserTitle": "MARITIME: SEALEAD LIQUIDATION AND SANCTIONS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR initiated Section 301 tariffs on 60 trading partners to target forced labor practices. The regulation replaces expiring Section 122 duties and mandates supply chain audits."
+                "narration_line": "Each gigawatt of US data center expansion demands 100K truckload movements. Logistics providers face severe localized equipment shortages across development corridors."
             },
             {
                 "slide_index": 2,
-                "headline": "TERMINALS: US CONTAINER TERMINAL EXPANSION",
-                "teaserTitle": "SECURITY: HACKED DATA CARGO THEFT RING",
+                "headline": "MARITIME: SEALEAD LIQUIDATION AND SANCTIONS",
+                "teaserTitle": "INSURANCE: SOMPO GPS JAMMING COVERAGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An Asian ocean carrier committed $135M to expand marine terminal capacity across key US ports. The project adds high-efficiency gantry cranes and expands container storage capacity."
+                "narration_line": "Singapore carrier SeaLead Shipping entered liquidation following sweeping US sanctions. Competing lines rapidly absorbed its idle vessel fleet and box inventory."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: HACKED DATA CARGO THEFT RING",
-                "teaserTitle": "EQUIPMENT: DAIMLER EPA 2027 ENGINE MANDATE",
+                "headline": "INSURANCE: SOMPO GPS JAMMING COVERAGE",
+                "teaserTitle": "PORTS: TYPHOON DOLPHIN BUNKERING HALT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal prosecutors indicted 8 individuals for stealing $4.49M in retail goods through hacked corporate data. Law enforcement successfully recovered commercial freight across multiple states."
+                "narration_line": "Sompo Japan launched marine insurance covering economic losses from GPS jamming. Underwriters target rising navigation security risks in volatile trade zones."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: DAIMLER EPA 2027 ENGINE MANDATE",
-                "teaserTitle": "TARIFFS: POLYSILICON IMPORT PRICE FLOOR",
+                "headline": "PORTS: TYPHOON DOLPHIN BUNKERING HALT",
+                "teaserTitle": "RETAIL: TARIFF REFUND SECONDARY MARKET",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Daimler Truck North America committed exclusively to EPA 2027 engines for future production lines. The truck manufacturer will open a new US manufacturing plant to scale output."
+                "narration_line": "Super Typhoon Dolphin forced Chinese ports to suspend bunkering and clear vessels. Over 160 commercial ships faced delays and compounding terminal backlogs."
             },
             {
                 "slide_index": 5,
-                "headline": "TARIFFS: POLYSILICON IMPORT PRICE FLOOR",
-                "teaserTitle": "LABOR: FREEDOM HAULERS MILITARY CDL PUSH",
+                "headline": "RETAIL: TARIFF REFUND SECONDARY MARKET",
+                "teaserTitle": "REGULATION: HORMUZ TRANSIT FEE PROTESTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The US administration enacted a 15% tariff and import price floor on foreign polysilicon shipments. The policy targets raw materials critical to solar and semiconductor manufacturing."
+                "narration_line": "US retailers are monetizing tariff refunds through an active secondary market. Importers sell rebate rights to secure immediate working capital liquidity."
             },
             {
                 "slide_index": 6,
-                "headline": "LABOR: FREEDOM HAULERS MILITARY CDL PUSH",
-                "teaserTitle": "MARITIME: TYPHOON PORT SUSPENSION IN CHINA",
+                "headline": "REGULATION: HORMUZ TRANSIT FEE PROTESTS",
+                "teaserTitle": "TECHNOLOGY: AMAZON ALEXA SHOPPING SURGE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Department of Transportation launched the Freedom Haulers initiative to help military veterans earn commercial driver licenses. The program accelerates licensing while tightening enforcement on non-domiciled drivers."
+                "narration_line": "Global shipping groups petitioned the UN to block proposed Strait tolls. Industry leaders warn that additional fees would inflate voyage operating costs."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: TYPHOON PORT SUSPENSION IN CHINA",
+                "headline": "TECHNOLOGY: AMAZON ALEXA SHOPPING SURGE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Chinese maritime officials suspended operations at major container ports as Super Typhoon Dolphin approached the coast. Ocean carriers anticipate multi-day delays and growing vessel backlogs across Transpacific lanes."
+                "narration_line": "Amazon active Alexa shopping users doubled in the second quarter. Voice-activated purchase interactions surged 500% year-over-year across fulfillment networks."
             },
             {
                 "slide_index": 8,
