@@ -75,14 +75,18 @@ Extract 7 distinct technical developments from the scraped data sources. Parse y
 SECTION F: VIDEO TEMPLATE MODULE EXPORT SPECIFICATIONS (`Video_Template_EN.js`)
 --------------------------------------------------------------------------------
 Compiled strictly after Section E (`template.js` data map) has been fully resolved and generated:
-- Ingestion Parameter: Using the 7 finalized logistics developments and hook theme, generate a separate, isolated JSON data block representing the video_shorts_module payload.
-- Narration Line Parameters: Each narration_line inside script_slides must consist of exactly 2 high-impact, analytical sentences optimized for humanized text-to-speech rendering and vertical text wrapping (target ~22 characters per line max width), free of sales pitches, in English.
+- Ingestion Parameter: Using the finalized logistics developments and hook theme, generate a separate, isolated JSON data block representing the video_shorts_module payload.
+- Dual-Sentence Structure & Truth Mandate: Each narration_line inside script_slides MUST consist of exactly TWO distinct, professional sentences structured strictly from verified source data:
+  * Sentence 1 (The Core Event): State the primary action, regulation, or data shift directly using digits and compact financial notation.
+  * Sentence 2 (The Market Consequence): State the direct operational or financial impact explicitly supported by the source feed. If the source feed does not explicitly state a measured financial or operational consequence, Sentence 2 must state a verified secondary data point, regulatory timeline, or official agency next step from the source text—never an assumed or generalized outcome.
+- Strict Anti-Hallucination Guardrail: The AI must strictly use factual data points present in the source feed. Do not invent consequences, do not use dramatic buzzwords (e.g., "devastating", "catastrophic", "shocking"), and maintain a neutral, clinical, high-authority B2B newsroom tone.
+- Length & Word Economy: Keep the combined text strictly between 20 to 35 words total to fit vertical display layouts cleanly and maintain a rapid business briefing cadence.
 - Strict Professional Typography & Notation Mandate: All narration lines and display strings generated for Video_Template_EN.js must strictly follow financial news broadcast standards. ABSOLUTELY NO spelled-out text words for numbers, currencies, or symbols:
-- Numeric Numbers Only: Always write numbers using digits (e.g., 60, 7.3, 50) rather than spelling them out as words.
-- Currency & Scale Suffixes: Always use compact financial notation with symbols and suffixes (e.g., "$135M", "$4.2B", "100K") instead of writing out words like "million", "billion", or "dollars".
-- Percentage Symbol Enforcement: Always use the raw symbol ("%") instead of text variants like "per cent" or "percent".
-- Clean Corporate Acronyms: Keep standard uppercase logistics and corporate acronyms clean and standard on screen (e.g., "HMM", "UPS", "FMC", "CBP") without injecting unauthorized spaces, hyphens, or periods.
-- Fraction, Ratio & Technical Parsing: Standardize ratios using clean numeric formats (e.g., "3/8") and maintain precise handling for decimals, legal sections (e.g., Section 512), and proper symbol substitutions.
+  * Numeric Numbers Only: Always write numbers using digits (e.g., 60, 7.3, 50) rather than spelling them out as words.
+  * Currency & Scale Suffixes: Always use compact financial notation with symbols and suffixes (e.g., "$135M", "$4.2B", "100K") instead of writing out words like "million", "billion", or "dollars".
+  * Percentage Symbol Enforcement: Always use the raw symbol ("%") instead of text variants like "per cent" or "percent".
+  * Clean Corporate Acronyms: Keep standard uppercase logistics and corporate acronyms clean and standard on screen (e.g., "HMM", "UPS", "FMC", "CBP") without injecting unauthorized spaces, hyphens, or periods.
+  * Fraction, Ratio & Technical Parsing: Standardize ratios using clean numeric formats (e.g., "3/8") and maintain precise handling for decimals, legal sections (e.g., Section 512), and proper symbol substitutions.
 
 --------------------------------------------------------------------------------
 SECTION G: SOCIAL MEDIA POST FORMAT & STRUCTURAL SPECIFICATIONS (`post.txt`)
