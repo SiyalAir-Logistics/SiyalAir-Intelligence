@@ -1,90 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS NETWORK",
-        "titleBlue": "REALIGNMENT",
-        "footerSummary": "Secondary tariff refund monetization, Hormuz toll proposals, and carrier liquidations force immediate tactical realignments across air, rail, and ocean freight networks."
+        "titleWhite": "CRITICAL FREIGHT POLICY",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "New USTR tariffs, USPS parcel hikes, and STB rail disputes force immediate compliance adjustments across global supply chain networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS: TARIFF REFUND MONETIZATION",
+            "heading": "TRADE: SECTION 301 EXPANSION",
             "points": [
-                "Enterprise retailers are monetizing pending federal tariff refund rights through secondary financial markets to secure immediate liquidity.",
-                "Secondary buyers purchase claims following CBP processing over $100B in IEEPA import duty repayments back to global importers.",
-                "Capital market liquidity mechanisms allow supply chain operators to bypass traditional administrative court settlement timelines.",
-                "Shippers should review open customs protest filings to evaluate immediate balance sheet monetization opportunities."
+                "The USTR officially enacted Section 301 forced-labor tariffs targeting 60 international trading partners as legacy Section 122 duties expired.",
+                "The regulatory framework imposes heightened import compliance checks to curb forced-labor violations in global manufacture lines.",
+                "Importers face increased duty liabilities and rigorous supply chain documentation requirements across major trade corridors.",
+                "Logistics teams must conduct immediate origin audits to avoid customs detainment and costly border delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: DIRECT INDIANAPOLIS CORRIDOR",
+            "nextUpTease": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL: DIRECT INDIANAPOLIS CORRIDOR",
+            "heading": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
             "points": [
-                "The Port of Virginia partnered with CSX Transportation to launch direct intermodal rail service into the Indianapolis inland market.",
-                "The direct rail corridor removes container drayage legs previously required when routing midwestern freight through congested Chicago ramps.",
-                "Surface transport efficiency gains lower inland transit times by 24 to 48 hours for midwest distribution centers.",
-                "Supply chain directors can re-route Ohio Valley container volumes to lower overland freight costs and reduce carbon footprints."
+                "Amazon introduced strict catalog enforcement capping product titles at 75 characters across marketplace and owned product listings.",
+                "The title policy aims to streamline mobile buyer search results and eliminate algorithmic keyword stuffing.",
+                "Sellers failing to adjust product titles face immediate suppression from organic search indexes and marketplace listings.",
+                "Brands must revise SKU metadata immediately to maintain search visibility and prevent revenue loss."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD LINE LIQUIDATION",
+            "nextUpTease": "PARCEL: USPS SURCHARGE ELEVATION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: SEALEAD LINE LIQUIDATION",
+            "heading": "PARCEL: USPS SURCHARGE ELEVATION",
             "points": [
-                "Singapore container line SeaLead Shipping initiated voluntary liquidation procedures following recent US Treasury trade sanctions.",
-                "Rival ocean carriers quickly absorbed vessel charter contracts and container equipment assets across transpacific and Middle East lanes.",
-                "The sudden market exit triggers immediate booking reassignments for forwarders operating on affected trade corridors.",
-                "Cargo owners must re-audit ocean carrier compliance profiles to prevent sudden operational disruptions and cargo holds."
+                "The US Postal Service elevated Ground Advantage package shipping rates while introducing new parcel handling surcharges.",
+                "The rate restructuring drove third-quarter postal revenues up toward $20B despite ongoing volume adjustments.",
+                "E-commerce sellers face higher last-mile delivery fees, impacting small package fulfillment margins.",
+                "Shippers should re-evaluate regional carrier mixes to offset escalating parcel shipping expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEOPOLITICS: STRAIT HORMUZ TOLLS",
+            "nextUpTease": "SECURITY: HACKED DATA THEFT",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GEOPOLITICS: STRAIT HORMUZ TOLLS",
+            "heading": "SECURITY: HACKED DATA THEFT",
             "points": [
-                "Proposed transit tolls on vessel movement through the Strait of Hormuz sparked swift pushback from global maritime organizations.",
-                "Industry bodies urged the UN and IMO to intervene against proposed regional shipping fees that threaten global trade neutrality.",
-                "Unilateral transit fees could add millions in vessel operating expenses across high-volume crude and container shipping routes.",
-                "Logistics planners must prepare for potential routing surcharges and bunker adjustments across Middle Eastern maritime lanes."
+                "Federal prosecutors indicted 8 individuals operating a complex $4.49M retail cargo theft network.",
+                "The criminal syndicate accessed sensitive freight manifests by hacking secure logistics databases and dispatch software.",
+                "Advanced cyber threats represent an escalating operational vulnerability for high-value freight transportation networks.",
+                "Carrier fleets must implement multi-factor cyber authentication to protect digital shipment data from breach."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: DAIMLER US EXPANSION",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "EQUIPMENT: DAIMLER US EXPANSION",
-            "points": [
-                "Daimler Truck North America announced plans to construct its largest US commercial vehicle manufacturing plant by 2029.",
-                "The production expansion prepares fleet operators for strict EPA 2027 heavy-duty vehicle emissions and NOx standards.",
-                "Manufacturing capacity investments address long-term fleet modernizations across long-haul motor carrier networks.",
-                "Fleet managers should map out multi-year equipment replacement schedules ahead of regulatory engine transitions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FLEET: AMAZON B2B CONSOLIDATION",
+            "nextUpTease": "MARITIME: TERMINAL INFRASTRUCTURE EXPANSION",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -92,35 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "FLEET: AMAZON B2B CONSOLIDATION",
+            "id": 5,
+            "heading": "MARITIME: TERMINAL INFRASTRUCTURE EXPANSION",
             "points": [
-                "Amazon Business expanded dedicated branded delivery fleets engineered specifically for consolidated drop-offs at commercial loading docks.",
-                "Custom palletized delivery vehicles streamline last-mile B2B fulfillment while cutting destination dock congestion.",
-                "The logistics model integrates commercial procurement orders into unified freight runs to maximize vehicle cubic capacity.",
-                "Enterprise B2B buyers can leverage consolidated receiving schedules to optimize warehouse labor and receiving workflows."
+                "A major Asian container carrier committed $135M to expand terminal facilities at key US ocean ports.",
+                "The terminal investment expands container handling capacity and secures guaranteed berth windows for high-volume transpacific loops.",
+                "Strategic infrastructure investments aim to bypass port congestion as peak shipping season volumes rise.",
+                "Supply chain planners can leverage upgraded terminal access to improve vessel schedule reliability."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIRFREIGHT: AI HARDWARE VOLUME",
+            "nextUpTease": "RAIL: STB MERGER OPPOSITION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.freightwaves.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "RAIL: STB MERGER OPPOSITION",
+            "points": [
+                "Prominent industrial shipper associations filed formal petitions with the STB to block proposed Eastern rail consolidation bids.",
+                "Shippers argue that mega-merger proposals between Union Pacific and Norfolk Southern reduce competition and raise freight rates.",
+                "Surface transportation consolidation risks limiting routing options and bottlenecking bulk commodity rail corridors.",
+                "Cargo owners should monitor regulatory filings to anticipate potential freight rate and service disruptions."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "WAREHOUSE: AUTONOMOUS DRONE AUDITS",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIRFREIGHT: AI HARDWARE VOLUME",
+            "heading": "WAREHOUSE: AUTONOMOUS DRONE AUDITS",
             "points": [
-                "High-yield AI hardware and data center equipment shipments are absorbing premium transpacific air cargo capacity.",
-                "Heavy tech freight competition against traditional e-commerce volumes is driving elevated spot rates on outbound Asia routes.",
-                "Forwarders are prioritizing high-density technology cargo to maximize carrier yields ahead of the traditional peak shipping season.",
-                "Air freight shippers must secure guaranteed space commitments early to insulate against Q4 rate surges."
+                "Health brand GNC deployed autonomous inventory scanning drones across its 450K sq ft distribution facilities.",
+                "Automated aerial cycle counts replace manual labor teams and heavy material handling equipment across high-density racks.",
+                "The technology cuts inventory audit times significantly while improving real-time warehouse data accuracy.",
+                "Distribution center operators can implement drone scanning to optimize warehouse labor allocation and inventory control."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

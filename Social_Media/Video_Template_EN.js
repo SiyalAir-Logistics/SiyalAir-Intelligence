@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL LOGISTICS NETWORK REALIGNMENT",
+        "hookTitle": "CRITICAL FREIGHT POLICY SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: TARIFF REFUND MONETIZATION",
-                "teaserTitle": "RAIL: DIRECT INDIANAPOLIS CORRIDOR",
+                "headline": "TRADE: SECTION 301 EXPANSION",
+                "teaserTitle": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Retailers are selling tariff refund rights to private buyers after CBP processed over $100B in IEEPA import duty repayments."
+                "narration_line": "USTR activated Section 301 tariffs on 60 trading partners. Importers must audit supply origins to avoid border holds."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL: DIRECT INDIANAPOLIS CORRIDOR",
-                "teaserTitle": "MARITIME: SEALEAD LINE LIQUIDATION",
+                "headline": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
+                "teaserTitle": "PARCEL: USPS SURCHARGE ELEVATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Port of Virginia and CSX launched direct rail service to Indianapolis, bypassing Chicago ramps to cut midwest transit by 24 hours."
+                "narration_line": "Amazon capped product listing titles at 75 characters. Non-compliant listings face search suppression across marketplace channels."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: SEALEAD LINE LIQUIDATION",
-                "teaserTitle": "GEOPOLITICS: STRAIT HORMUZ TOLLS",
+                "headline": "PARCEL: USPS SURCHARGE ELEVATION",
+                "teaserTitle": "SECURITY: HACKED DATA THEFT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation following sanctions, prompting rival ocean lines to rapidly absorb vessel assets and box fleets."
+                "narration_line": "USPS raised package rates to push revenue toward $20B. Shippers must recalibrate parcel fulfillment budgets immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "GEOPOLITICS: STRAIT HORMUZ TOLLS",
-                "teaserTitle": "EQUIPMENT: DAIMLER US EXPANSION",
+                "headline": "SECURITY: HACKED DATA THEFT",
+                "teaserTitle": "MARITIME: TERMINAL INFRASTRUCTURE EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global shipping groups urged the UN and IMO to block proposed Strait of Hormuz transit fees that threaten ocean freight neutrality."
+                "narration_line": "8 individuals were indicted in a $4.49M cargo theft ring using hacked data. Logistics firms must secure dispatch systems."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: DAIMLER US EXPANSION",
-                "teaserTitle": "FLEET: AMAZON B2B CONSOLIDATION",
+                "headline": "MARITIME: TERMINAL INFRASTRUCTURE EXPANSION",
+                "teaserTitle": "RAIL: STB MERGER OPPOSITION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Daimler Truck announced its largest US assembly plant by 2029 to meet strict EPA 2027 emissions rules for commercial fleets."
+                "narration_line": "An Asian ocean line committed $135M to expand US terminal operations. The deal guarantees berth priority for transpacific vessels."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEET: AMAZON B2B CONSOLIDATION",
-                "teaserTitle": "AIRFREIGHT: AI HARDWARE VOLUME",
+                "headline": "RAIL: STB MERGER OPPOSITION",
+                "teaserTitle": "WAREHOUSE: AUTONOMOUS DRONE AUDITS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon Business rolled out dedicated trucks for consolidated palletized B2B deliveries to eliminate commercial loading dock congestion."
+                "narration_line": "Shipper groups petitioned the STB to block major rail merger proposals. Consolidation threatens rail competition and freight costs."
             },
             {
                 "slide_index": 7,
-                "headline": "AIRFREIGHT: AI HARDWARE VOLUME",
+                "headline": "WAREHOUSE: AUTONOMOUS DRONE AUDITS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "AI hardware demand is driving high-yield transpacific air cargo volumes, tightening available space for standard e-commerce shipments."
+                "narration_line": "GNC deployed inventory drones across 450K sq ft warehouses. Automated scanning optimizes cycle counts and cuts labor costs."
             },
             {
                 "slide_index": 8,
