@@ -1,22 +1,22 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE ARCHITECTURE",
-        "titleBlue": "RESTRUCTURING",
-        "footerSummary": "Polysilicon tariffs, carrier sanctions, intermodal bypass routes, and tariff refund monetizations enforce immediate operational re-alignment across international supply chains."
+        "titleWhite": "GLOBAL FREIGHT SHIFT",
+        "titleBlue": "VOLATILITY",
+        "footerSummary": "New polysilicon tariffs, Hormuz transit tolls, drone automation, and tariff refund monetization alter international freight dynamics and liquidity strategies."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: POLYSILICON TARIFF IMPOSITION",
+            "heading": "TRADE: POLYSILICON TARIFF LEVY",
             "points": [
-                "The US administration officially issued a presidential proclamation establishing a 15% import tariff alongside a mandatory price floor on foreign polysilicon.",
-                "The trade restriction specifically targets critical solar panel components and semiconductor supply chains entering domestic manufacturing channels.",
-                "Importers face immediate cost escalations starting Dec 4, forcing solar developers and chip makers to re-evaluate international procurement routes.",
-                "Supply chain executives must audit vendor origin compliance to mitigate tariff exposure and navigate shifting trade policy enforcement."
+                "The US Federal Administration issued an executive proclamation imposing a 15% tariff along with strict import price floors on foreign polysilicon.",
+                "The tariff targets critical raw inputs utilized across solar energy panel manufacturing and advanced semiconductor microchip processing supply chains.",
+                "Importers face mandatory compliance recalibrations before the December 4 implementation date to adjust sourcing networks and avoid tariff penalties.",
+                "Strategic supply chain leaders must accelerate domestic sourcing audits and calculate tariff liability shifts across technology manufacturing pipelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+            "nextUpTease": "EQUIPMENT: TRUCK PLANT EXPANSION",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -25,49 +25,15 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+            "heading": "EQUIPMENT: TRUCK PLANT EXPANSION",
             "points": [
-                "Singapore-based container line SeaLead Shipping initiated voluntary liquidation procedures following recent US government trade sanctions.",
-                "Competitor ocean carriers and vessel charterers swiftly absorbed the line's container fleet and vessel assets across Asia-Middle East trade corridors.",
-                "Cargo owners face immediate logistical redirections and potential port delays as operational services cease across global maritime routes.",
-                "Logistics managers must secure alternative container capacity to maintain schedule reliability across affected ocean freight lanes."
+                "Daimler Truck North America announced plans to construct its largest US commercial vehicle manufacturing facility set to open by 2029.",
+                "The OEM committed exclusively to EPA 2027 compliant engine builds to satisfy stringent national nitrogen oxide emission reduction standards.",
+                "The expansion boosts long-term heavy-duty vehicle production capacity while accelerating fleet transition toward low-emission powertrain technology.",
+                "Motor carriers gain expanded access to next-generation Class 8 equipment designed to fulfill upcoming federal environmental mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
-            "points": [
-                "The Port of Virginia partnered with CSX to launch direct intermodal rail service connecting East Coast marine terminals to Indianapolis.",
-                "The dedicated rail route bypasses traditional Chicago rail gateways, significantly reducing transit times and equipment dwell for Midwest importers.",
-                "Expanded intermodal connectivity offers shippers a reliable inland corridor to navigate East Coast ocean vessel arrivals.",
-                "Supply chain planners gain enhanced regional distribution efficiency while lowering overall drayage and rail transit costs."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: EPA 2027 ENGINE COMPLIANCE",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "EQUIPMENT: EPA 2027 ENGINE COMPLIANCE",
-            "points": [
-                "Daimler Truck North America committed exclusively to manufacturing EPA 2027 compliant heavy-duty engines ahead of strict emissions rules.",
-                "The commercial vehicle manufacturer will phase out non-compliant propulsion platforms across its domestic production network by 2027.",
-                "Motor carriers face higher commercial vehicle purchase costs as truck equipment technology shifts to meet federal nitrogen oxide mandates.",
-                "Fleet operators must align fleet replacement strategies to manage capital expenditures and maintain regulatory compliance."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRADE FINANCE: TARIFF REFUND CAPITAL",
+            "nextUpTease": "MARITIME: HORMUZ TRANSIT TOLLS",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -75,33 +41,50 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "TRADE FINANCE: TARIFF REFUND CAPITAL",
+            "id": 3,
+            "heading": "MARITIME: HORMUZ TRANSIT TOLLS",
             "points": [
-                "Major retail brands are monetizing potential trade tariff refunds by selling refund claim rights on secondary financial markets.",
-                "Enterprise shippers utilize specialized capital arrangements to secure immediate cash flow rather than awaiting lengthy federal customs payouts.",
-                "The financial mechanism allows import-heavy companies to offset inventory holding costs and address near-term liquidity demands.",
-                "Corporate finance teams can monetize pending customs clawbacks to stabilize working capital during volatile trade policy shifts."
+                "Global shipping organizations appealed to the UN and IMO to reject proposed vessel transit fee structures inside the Strait of Hormuz.",
+                "Bilateral negotiations between regional authorities threaten to introduce mandatory per-transit tolls on commercial ocean vessels traversing the waterway.",
+                "Arbitrary transit fees risk escalating ocean freight spot rates and imposing additional financial surcharges across oil and container trades.",
+                "Maritime operators must evaluate alternative routing schedules and prepare emergency cost-recovery mechanisms for Middle Eastern ocean lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "B2B LOGISTICS: PALLETIZED DOCK DELIVERY",
+            "nextUpTease": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "B2B LOGISTICS: PALLETIZED DOCK DELIVERY",
+            "id": 4,
+            "heading": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
             "points": [
-                "Amazon Business introduced a specialized commercial fulfillment model utilizing dedicated, branded trucks tailored for corporate loading docks.",
-                "The transportation network focuses on consolidated drop-offs and bulk palletized handling for enterprise facility procurement.",
-                "Standardized commercial unloading procedures reduce dock congestion and streamline last-mile delivery workflows for corporate receivers.",
-                "Facility managers achieve predictable procurement schedules while minimizing administrative overhead across business delivery operations."
+                "Etsy announced a 12% workforce reduction affecting 220 employees immediately following a $1.4B cash infusion from selling marketplace Depop.",
+                "Management cited operational optimization requirements across its core e-commerce architecture rather than macro cost-cutting or pure AI replacement.",
+                "The restructuring highlights shifting capital allocation strategies among major e-commerce platforms seeking sustainable operational profit margins.",
+                "Marketplace sellers should expect platform feature adjustments as engineering resources consolidate around primary fulfillment and search infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: CROSS-BORDER EXPANSION",
+            "nextUpTease": "RAIL: DIRECT CONTAINER CORRIDOR",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "RAIL: DIRECT CONTAINER CORRIDOR",
+            "points": [
+                "The Port of Virginia established a direct CSX intermodal rail service link connecting marine terminals straight to Indianapolis freight hubs.",
+                "The new rail corridor bypasses traditional Chicago rail interchange bottlenecks, significantly reducing transit times for Midwestern import cargo.",
+                "Direct intermodal routing reduces drayage truck requirements while improving container fluidity across Mid-Atlantic export and import lanes.",
+                "Midwestern logistics planners can leverage accelerated inland rail transit to streamline inventory velocity and bypass regional rail congestion."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AUTOMATION: WAREHOUSE DRONE COUNTING",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -109,18 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "INFRASTRUCTURE: CROSS-BORDER EXPANSION",
+            "id": 6,
+            "heading": "AUTOMATION: WAREHOUSE DRONE COUNTING",
             "points": [
-                "Mexico announced a $2.2B infrastructure allocation to upgrade freight corridors and streamline cross-border commercial processing.",
-                "Key transportation projects target high-density commercial truck portals to alleviate cross-border border crossing delays.",
-                "Expanded highway and customs infrastructure strengthens nearshoring capacity for North American manufacturing networks.",
-                "Logistics operators expect faster border processing times and improved transit reliability for cross-border freight moves."
+                "Health retailer GNC deployed autonomous inventory scanning drones across its 450,000 square foot distribution center network.",
+                "Autonomous aerial cycle counts replace labor-intensive manual equipment checks, driving down operational overhead and inventory scan error rates.",
+                "The technology deployment establishes a scalable operational benchmark for automated high-bay warehouse inventory management systems.",
+                "Distribution center executives must evaluate autonomous robotics to mitigate persistent warehouse labor shortages and improve inventory accuracy."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FINANCE: TARIFF REFUND MONETIZATION",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "FINANCE: TARIFF REFUND MONETIZATION",
+            "points": [
+                "Major retail brands are selling off rights to prospective customs tariff refund claims to secondary market financial buyers for rapid liquidity.",
+                "Brokering legal refund claims allows cash-constrained retailers to monetise delayed government reimbursements without waiting on extended court timelines.",
+                "The emerging secondary trade reflects aggressive capital preservation tactics amid persistent trade policy uncertainty and tariff shifts.",
+                "Corporate finance teams should audit pending customs duty clawbacks to identify potential balance sheet liquidity options via claim monetization."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

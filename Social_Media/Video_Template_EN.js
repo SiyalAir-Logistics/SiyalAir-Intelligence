@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE ARCHITECTURE RESTRUCTURING",
+        "hookTitle": "GLOBAL FREIGHT SHIFT VOLATILITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: POLYSILICON TARIFF IMPOSITION",
-                "teaserTitle": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+                "headline": "TRADE: POLYSILICON TARIFF LEVY",
+                "teaserTitle": "EQUIPMENT: TRUCK PLANT EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The US imposed a 15% tariff and price floor on imported polysilicon to protect domestic chip and solar supply chains."
+                "narration_line": "US levies 15% tariff on polysilicon imports starting Dec 4, forcing tech supply chains to overhaul sourcing networks."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SEALEAD CARRIER LIQUIDATION",
-                "teaserTitle": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
+                "headline": "EQUIPMENT: TRUCK PLANT EXPANSION",
+                "teaserTitle": "MARITIME: HORMUZ TRANSIT TOLLS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Container carrier SeaLead entered voluntary liquidation after US sanctions forced rival ocean lines to seize its vessels and boxes."
+                "narration_line": "Daimler Truck plans its largest US plant by 2029, building EPA 2027 compliant engines for next-generation fleets."
             },
             {
                 "slide_index": 3,
-                "headline": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
-                "teaserTitle": "EQUIPMENT: EPA 2027 ENGINE COMPLIANCE",
+                "headline": "MARITIME: HORMUZ TRANSIT TOLLS",
+                "teaserTitle": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Port of Virginia and CSX launched direct intermodal rail service to Indianapolis, bypassing Chicago congestion to speed Midwest freight."
+                "narration_line": "Shipping groups urge UN action as proposed Strait of Hormuz transit fees threaten ocean carrier spot rates."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: EPA 2027 ENGINE COMPLIANCE",
-                "teaserTitle": "TRADE FINANCE: TARIFF REFUND CAPITAL",
+                "headline": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+                "teaserTitle": "RAIL: DIRECT CONTAINER CORRIDOR",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Daimler Truck committed exclusively to EPA 2027 compliant engines ahead of upcoming federal emissions regulations launching in 2027."
+                "narration_line": "Etsy cuts 12% of workforce post $1.4B Depop deal, reallocating capital toward core platform infrastructure."
             },
             {
                 "slide_index": 5,
-                "headline": "TRADE FINANCE: TARIFF REFUND CAPITAL",
-                "teaserTitle": "B2B LOGISTICS: PALLETIZED DOCK DELIVERY",
+                "headline": "RAIL: DIRECT CONTAINER CORRIDOR",
+                "teaserTitle": "AUTOMATION: WAREHOUSE DRONE COUNTING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Major retailers are selling rights to pending tariff refunds on secondary financial markets to unlock immediate corporate liquidity."
+                "narration_line": "Port of Virginia launches direct CSX rail to Indianapolis, bypassing Chicago intermodal bottlenecks for faster transit."
             },
             {
                 "slide_index": 6,
-                "headline": "B2B LOGISTICS: PALLETIZED DOCK DELIVERY",
-                "teaserTitle": "INFRASTRUCTURE: CROSS-BORDER EXPANSION",
+                "headline": "AUTOMATION: WAREHOUSE DRONE COUNTING",
+                "teaserTitle": "FINANCE: TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon Business deployed dedicated heavy trucks for consolidated dock drop-offs and palletized deliveries to corporate loading bays."
+                "narration_line": "GNC deploys autonomous drones across 450K sq ft fulfillment centers to streamline cycle counts and offset labor gaps."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: CROSS-BORDER EXPANSION",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "FINANCE: TARIFF REFUND MONETIZATION",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mexico pledged $2.2B to upgrade cross-border freight infrastructure and expand truck crossing capacity along critical industrial trade corridors."
+                "narration_line": "Retailers sell tariff refund rights on secondary markets to extract instant balance sheet liquidity amid trade shifts."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
             }
         ]
     }
