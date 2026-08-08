@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+        "hookTitle": "PROPOSED STRAIT TRANSIT FEES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: ZHOUJANG MSC SHIP SINKING",
+                "headline": "HORMUZ: PROPOSED STRAIT TRANSIT FEES",
+                "teaserTitle": "MARITIME: SEALEAD SHIPPING VOLUNTARY LIQUIDATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR implemented Section 301 tariffs targeting 60 nations as Section 122 duties expired. Global supply chain operators are immediately reviewing sourcing compliance frameworks."
+                "narration_line": "Global shipping groups urged the UN to reject proposed Strait of Hormuz transit fees. Iran and Oman are discussing tolls that could increase freight costs for ocean carriers."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: ZHOUJANG MSC SHIP SINKING",
-                "teaserTitle": "EQUIPMENT: DTNA PLANT COMMITMENT",
+                "headline": "MARITIME: SEALEAD SHIPPING VOLUNTARY LIQUIDATION",
+                "teaserTitle": "RAIL: VIRGINIA CSX INDIANAPOLIS SERVICE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The 8,401 TEU vessel MSC Silvana VIII sank deeper off Zhoushan after salvage efforts failed. Port authorities established strict maritime perimeters to manage regional congestion."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation after facing strict US sanctions. Rival carriers are rapidly acquiring its container ships and assets across Asia and the Mediterranean."
             },
             {
                 "slide_index": 3,
-                "headline": "EQUIPMENT: DTNA PLANT COMMITMENT",
-                "teaserTitle": "LOGISTICS: DATA CENTER TRUCK DEMAND",
+                "headline": "RAIL: VIRGINIA CSX INDIANAPOLIS SERVICE",
+                "teaserTitle": "INSURANCE: SOMPO GPS JAMMING COVERAGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Daimler Truck North America confirmed a new U.S. manufacturing plant opening in 2029. The facility will support EPA 2027 heavy-duty engine production requirements."
+                "narration_line": "The Port of Virginia launched direct CSX intermodal rail service to Indianapolis. The new rail link bypasses Chicago, reducing transit times for Midwest shippers by up to 48 hours."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: DATA CENTER TRUCK DEMAND",
-                "teaserTitle": "RETAIL: ETSY DEPOP SALE LAYOFFS",
+                "headline": "INSURANCE: SOMPO GPS JAMMING COVERAGE",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Each gigawatt of data center expansion requires 100,000 truckloads of freight capacity. Analysts question whether existing over-the-road assets can sustain the construction boom."
+                "narration_line": "Sompo Japan launched specialized marine insurance to cover economic losses from electronic GPS jamming. The coverage protects shipowners against navigation delays in high-risk global trade corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL: ETSY DEPOP SALE LAYOFFS",
-                "teaserTitle": "SAFETY: CARGO THEFT RING INDICTED",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+                "teaserTitle": "TERMINALS: DP WORLD EUROPEAN RESTRUCTURING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Etsy slashed 220 jobs following a $1.4B cash infusion from selling Depop to eBay. Leadership noted that the workforce reduction stems directly from asset realignment."
+                "narration_line": "Industrial warehouse vacancy fell 7 basis points to 7.3% in Q2 2026. Colliers reports that tenant demand is outpacing new warehouse construction starts across primary markets."
             },
             {
                 "slide_index": 6,
-                "headline": "SAFETY: CARGO THEFT RING INDICTED",
-                "teaserTitle": "AIR: TRUMP POLYSILICON TARIFFS",
+                "headline": "TERMINALS: DP WORLD EUROPEAN RESTRUCTURING",
+                "teaserTitle": "E-COMMERCE: AMAZON TITLE LIMIT ENFORCEMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A federal grand jury indicted 8 individuals in a $4.49M cargo theft ring. The network utilized data hacked from legitimate supply chain companies to divert shipments."
+                "narration_line": "DP World is eliminating 300 roles across its European port and logistics operations. The restructuring targets administrative efficiency across major UK terminals, including London Gateway and Southampton."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR: TRUMP POLYSILICON TARIFFS",
+                "headline": "E-COMMERCE: AMAZON TITLE LIMIT ENFORCEMENT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "President Trump imposed a 15% tariff on imported polysilicon starting December 4. Tech manufacturers are scrambling to adjust procurement channels ahead of the deadline."
+                "narration_line": "Amazon implemented a strict 75-character limit on product titles across its marketplace. Merchants are auditing catalog metadata to prevent listing suppression ahead of Q3 peak sales."
             },
             {
                 "slide_index": 8,
