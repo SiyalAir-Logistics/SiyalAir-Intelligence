@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL SUPPLY CHAIN",
-        "titleBlue": "PARADIGMS",
-        "footerSummary": "Fresh 15% polysilicon tariffs, direct rail rerouting, and data center capacity strains alter global logistics operational risk models."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Section 301 tariff expansion, widespread parcel surcharges, and rising cargo cyber-theft force immediate structural supply chain realignments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFFS: POLYSILICON IMPORT LEVY",
+            "heading": "CYBERSECURITY: CARGO THEFT FRAUD",
             "points": [
-                "The US administration issued a proclamation imposing a 15% tariff and price floor on polysilicon imports effective Dec 4.",
-                "The mandate impacts solar energy component manufacturers and semiconductor supply chains relying on raw material imports.",
-                "Importers face severe margin pressure and mandatory structural adjustments to domestic sourcing matrices before Q4.",
-                "Supply chain executives must quickly audit silicon origin paths to navigate pending customs enforcement deadlines."
+                "Federal prosecutors indicted 8 individuals operating a complex cyber-theft network targeting US freight brokers.",
+                "The criminal syndicate stole $4.49M in commercial retail goods using hacked corporate credentials and fraudulent carrier dispatches.",
+                "Logistics intermediaries face mounting cyber liabilities as fraudulent identity impersonation incidents surge across domestic spot markets.",
+                "Brokerages must rapidly implement multi-factor authentication and real-time credential verification protocols to secure freight assets."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: CSX VIRGINIA SERVICE",
+            "nextUpTease": "POSTAL: PARCEL SURCHARGE LEVY",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL: CSX VIRGINIA SERVICE",
+            "heading": "POSTAL: PARCEL SURCHARGE LEVY",
             "points": [
-                "The Port of Virginia launched direct CSX intermodal rail service connecting ocean terminals straight to Indianapolis.",
-                "Containers bypass traditional Chicago rail bottlenecks, shaving critical transit hours off Midwest freight corridors.",
-                "The infrastructure shift offers regional importers streamlined velocity and reduced drayage expenses across core lanes.",
-                "Logistics planners should realign import routing to leverage direct intermodal connections and mitigate congestion."
+                "The US Postal Service introduced new parcel surcharges, pushing quarterly postal revenue to $20B despite net losses.",
+                "The rate adjustments increase shipping expenses by $2 to $3 per lightweight parcel targeting high-cost delivery routes.",
+                "E-commerce merchants and marketplace sellers are absorbing escalating last-mile transport fees across core fulfillment channels.",
+                "Shippers must audit postal rate cards and adjust parcel routing models to minimize last-mile surcharge exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: TARIFF REFUND MONETIZATION",
+            "nextUpTease": "MARITIME: TERMINAL EXPANSION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FINANCE: TARIFF REFUND MONETIZATION",
+            "heading": "MARITIME: TERMINAL EXPANSION",
             "points": [
-                "Retailers including American Eagle Outfitters are selling rights to pending US customs tariff refunds on secondary markets.",
-                "The monetization strategy allows cash-strapped importers to unlock immediate working capital rather than waiting on federal payouts.",
-                "Financial intermediaries purchase refund claims at discounted rates, introducing a novel trade liquidity instrument.",
-                "Shippers can evaluate refund asset monetization to strengthen near-term balance sheets during high-tariff cycles."
+                "A major Asian ocean carrier committed $135M to expand container terminal infrastructure across primary US port gateways.",
+                "The capital deployment aims to increase berth throughput and container handling capacity ahead of peak import volumes.",
+                "Ocean carriers continue investing directly in terminal operations to secure dedicated berth priority and bypass port congestion.",
+                "Logistics planners should align carrier contracts with terminal-owning operators to ensure consistent gate velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "CAPACITY: DATA CENTER TRUCKING",
+            "nextUpTease": "EQUIPMENT: DTNA EMISSIONS MANDATE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CAPACITY: DATA CENTER TRUCKING",
+            "heading": "EQUIPMENT: DTNA EMISSIONS MANDATE",
             "points": [
-                "Industrial analysts report each gigawatt of US data center construction requires approximately 100K specialized truckloads.",
-                "The massive equipment transport demand threatens to pull heavy-haul capacity away from standard commercial freight networks.",
-                "Trucking fleets are reallocating equipment to high-yield infrastructure projects, tightening overall spot market supply.",
-                "Shippers must secure long-term dedicated contract carriage to protect primary transport lanes from capacity drains."
+                "Daimler Truck North America confirmed absolute compliance with upcoming EPA 2027 zero-emission and heavy-duty engine standards.",
+                "The OEM announced plans to construct a major U.S. commercial vehicle manufacturing facility slated for operational launch by 2029.",
+                "Fleet operators face rising equipment acquisition costs and pre-buy pressures ahead of strict federal emissions enforcement.",
+                "Carriers must restructure fleet replacement cycles to manage capital expenditure shifts driven by environmental mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+            "nextUpTease": "ECOMMERCE: TITLE LENGTH RESTRICTION",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+            "heading": "ECOMMERCE: TITLE LENGTH RESTRICTION",
             "points": [
-                "Container operator SeaLead Shipping initiated voluntary liquidation following recent US geopolitical trade sanctions.",
-                "Rival ocean carriers quickly acquired vessel charters and container assets to absorb disrupted Middle East and Asia lanes.",
-                "The sudden market exit highlights heightened operational risks for secondary ocean carriers in volatile trade corridors.",
-                "Cargo owners must diversify carrier portfolios to insulate global supply chains against carrier insolvency risks."
+                "Amazon instituted a strict 75-character ceiling on product titles across seller catalog listings and internal inventory.",
+                "The policy enforcement impacts search engine indexing and product display formatting across third-party storefronts.",
+                "Marketplace brands must systematically rewrite product listings to comply with automated title truncation algorithms.",
+                "E-commerce operators should perform catalog audits immediately to prevent search suppressed inventory listings."
             ],
             "imageUrl": "",
-            "nextUpTease": "FULFILLMENT: AMAZON CONSOLIDATED TRUCKING",
+            "nextUpTease": "USTR: SECTION 301 TARIFFS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FULFILLMENT: AMAZON CONSOLIDATED TRUCKING",
+            "heading": "USTR: SECTION 301 TARIFFS",
             "points": [
-                "Amazon Business rolled out specialized branded delivery trucks designed for palletized loading dock drop-offs.",
-                "The commercial fulfillment fleet streamlines B2B distribution by consolidating multiple small parcel deliveries into single dock stops.",
-                "The network model reduces loading bay congestion and lowers last-mile delivery costs for commercial buyers.",
-                "B2B sellers can leverage consolidated dock logistics to improve delivery reliability and buyer satisfaction."
+                "The USTR expanded Section 301 tariffs targeting 60 trading nations as temporary Section 122 duty exemptions expired.",
+                "The regulatory move enforces strict forced-labor compliance checks and increases import duty burdens on global manufactures.",
+                "Importers face heightened customs scrutiny, mandatory supply chain tracing, and escalating landed cost profiles.",
+                "Trade compliance managers must re-audit foreign vendor sourcing trees to mitigate unexpected tariff liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "INVENTORY: STARBUCKS REPLENISHMENT TARGET",
+            "nextUpTease": "INLAND: RHINE WATERWAY DISRUPTION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INVENTORY: STARBUCKS REPLENISHMENT TARGET",
+            "heading": "INLAND: RHINE WATERWAY DISRUPTION",
             "points": [
-                "Starbucks established a target 24-hour inventory replenishment cycle across its store distribution network.",
-                "The operational shift follows the termination of a 9-month AI inventory management tool experiment.",
-                "The coffee chain is restructuring back-end logistics execution to prioritize operational speed over complex predictive algorithms.",
-                "Retail supply chain leaders must align automation tools with core store delivery speed to maintain stock availability."
+                "Record-low water levels along the Rhine River severely restricted barge draft depth and cargo intake capacity.",
+                "The environmental disruption pushed inland freight rates higher while forcing raw materials onto constrained rail networks.",
+                "European manufacturing hubs face severe supply chain bottlenecks as inland modal shift capacity remains constrained.",
+                "Supply chain managers must diversify inland transport routing and secure contingent trucking assets to maintain flow."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

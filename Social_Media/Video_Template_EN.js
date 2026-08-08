@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL SUPPLY CHAIN PARADIGMS",
+        "hookTitle": "GLOBAL FREIGHT NETWORK SHIFTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: POLYSILICON IMPORT LEVY",
-                "teaserTitle": "RAIL: CSX VIRGINIA SERVICE",
+                "headline": "CYBERSECURITY: CARGO THEFT FRAUD",
+                "teaserTitle": "POSTAL: PARCEL SURCHARGE LEVY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "US enacts 15% tariffs on imported polysilicon Dec 4. Solar and tech supply chains face severe cost shifts."
+                "narration_line": "Federal prosecutors indicted 8 individuals in a $4.49M cyber-theft ring targeting US freight brokers with hacked credentials."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL: CSX VIRGINIA SERVICE",
-                "teaserTitle": "FINANCE: TARIFF REFUND MONETIZATION",
+                "headline": "POSTAL: PARCEL SURCHARGE LEVY",
+                "teaserTitle": "MARITIME: TERMINAL EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Port of Virginia adds direct CSX rail to Indianapolis. Intermodal freight bypasses traditional Chicago bottlenecks completely."
+                "narration_line": "USPS introduced new parcel surcharges to push quarterly revenue to $20B, raising package delivery fees by up to $3."
             },
             {
                 "slide_index": 3,
-                "headline": "FINANCE: TARIFF REFUND MONETIZATION",
-                "teaserTitle": "CAPACITY: DATA CENTER TRUCKING",
+                "headline": "MARITIME: TERMINAL EXPANSION",
+                "teaserTitle": "EQUIPMENT: DTNA EMISSIONS MANDATE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Retailers monetize tariff refund rights on secondary markets for immediate liquidity. Financial buyers acquire trade claims at discount."
+                "narration_line": "An Asian ocean carrier committed $135M to expand US terminal operations, securing dedicated berth capacity for peak volumes."
             },
             {
                 "slide_index": 4,
-                "headline": "CAPACITY: DATA CENTER TRUCKING",
-                "teaserTitle": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+                "headline": "EQUIPMENT: DTNA EMISSIONS MANDATE",
+                "teaserTitle": "ECOMMERCE: TITLE LENGTH RESTRICTION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Data center growth consumes 100K truckloads per gigawatt. Specialized transport demands tighten overall US truck capacity."
+                "narration_line": "Daimler Truck committed to EPA 2027 engine rules and announced a new US manufacturing plant launching by 2029."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
-                "teaserTitle": "FULFILLMENT: AMAZON CONSOLIDATED TRUCKING",
+                "headline": "ECOMMERCE: TITLE LENGTH RESTRICTION",
+                "teaserTitle": "USTR: SECTION 301 TARIFFS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "SeaLead Shipping enters voluntary liquidation following US sanctions. Competitors rapidly absorb remaining vessel assets and container stock."
+                "narration_line": "Amazon enforced a strict 75-character limit on product titles across all marketplace listings to streamline indexing."
             },
             {
                 "slide_index": 6,
-                "headline": "FULFILLMENT: AMAZON CONSOLIDATED TRUCKING",
-                "teaserTitle": "INVENTORY: STARBUCKS REPLENISHMENT TARGET",
+                "headline": "USTR: SECTION 301 TARIFFS",
+                "teaserTitle": "INLAND: RHINE WATERWAY DISRUPTION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon Business deploys custom trucks for palletized dock deliveries. Consolidated fulfillment streamlines commercial B2B freight distribution."
+                "narration_line": "The USTR expanded Section 301 tariffs across 60 trading nations, triggering stricter forced-labor compliance checks."
             },
             {
                 "slide_index": 7,
-                "headline": "INVENTORY: STARBUCKS REPLENISHMENT TARGET",
+                "headline": "INLAND: RHINE WATERWAY DISRUPTION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Starbucks targets 24-hour store replenishment after scrapping an AI tool. Operational focus shifts to core distribution speed."
+                "narration_line": "Record-low Rhine River levels restricted European barge capacity, driving inland freight rates up and congesting rail routes."
             },
             {
                 "slide_index": 8,
