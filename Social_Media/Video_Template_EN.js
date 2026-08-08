@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL FREIGHT INFRASTRUCTURE REALIGNMENT",
+        "hookTitle": "GLOBAL TRADE ARCHITECTURE RESTRUCTURING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFF: POLYSILICON IMPORT LEVY",
-                "teaserTitle": "CAPACITY: DATA CENTER INFRASTRUCTURE",
+                "headline": "TRADE: POLYSILICON TARIFF IMPOSITION",
+                "teaserTitle": "MARITIME: SEALEAD CARRIER LIQUIDATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "US imposes 15% tariff on polysilicon imports with mandatory price floors. Importers face shifting duty costs on critical tech inputs."
+                "narration_line": "The US imposed a 15% tariff and price floor on imported polysilicon to protect domestic chip and solar supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "CAPACITY: DATA CENTER INFRASTRUCTURE",
-                "teaserTitle": "RAIL: INTERMODAL CORRIDOR EXPANSION",
+                "headline": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+                "teaserTitle": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Data center construction consumes 100K truckloads per gigawatt. Heavy tech infrastructure demands tighten regional flatbed capacity."
+                "narration_line": "Container carrier SeaLead entered voluntary liquidation after US sanctions forced rival ocean lines to seize its vessels and boxes."
             },
             {
                 "slide_index": 3,
-                "headline": "RAIL: INTERMODAL CORRIDOR EXPANSION",
-                "teaserTitle": "MARITIME: SEALEAD FLEET LIQUIDATION",
+                "headline": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
+                "teaserTitle": "EQUIPMENT: EPA 2027 ENGINE COMPLIANCE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Port of Virginia launches direct CSX rail service to Indianapolis. Direct corridor bypasses Chicago choke points to speed Midwest cargo."
+                "narration_line": "Port of Virginia and CSX launched direct intermodal rail service to Indianapolis, bypassing Chicago congestion to speed Midwest freight."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: SEALEAD FLEET LIQUIDATION",
-                "teaserTitle": "EQUIPMENT: DAIMLER MEGA PLANT",
+                "headline": "EQUIPMENT: EPA 2027 ENGINE COMPLIANCE",
+                "teaserTitle": "TRADE FINANCE: TARIFF REFUND CAPITAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Carrier SeaLead enters voluntary liquidation after US sanctions. Rivals snap up charter vessels to maintain key trade lane continuity."
+                "narration_line": "Daimler Truck committed exclusively to EPA 2027 compliant engines ahead of upcoming federal emissions regulations launching in 2027."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: DAIMLER MEGA PLANT",
-                "teaserTitle": "LOGISTICS: DP WORLD RESTRUCTURING",
+                "headline": "TRADE FINANCE: TARIFF REFUND CAPITAL",
+                "teaserTitle": "B2B LOGISTICS: PALLETIZED DOCK DELIVERY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Daimler Truck commits to largest US assembly plant by 2029. Massive investment aligns fleet production with EPA 2027 standards."
+                "narration_line": "Major retailers are selling rights to pending tariff refunds on secondary financial markets to unlock immediate corporate liquidity."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS: DP WORLD RESTRUCTURING",
-                "teaserTitle": "AIRFREIGHT: LEIPZIG CARGO SECURITY",
+                "headline": "B2B LOGISTICS: PALLETIZED DOCK DELIVERY",
+                "teaserTitle": "INFRASTRUCTURE: CROSS-BORDER EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "DP World eliminates 300 European roles in major operational revamp. Strategic overhaul optimizes terminal management across gateway ports."
+                "narration_line": "Amazon Business deployed dedicated heavy trucks for consolidated dock drop-offs and palletized deliveries to corporate loading bays."
             },
             {
                 "slide_index": 7,
-                "headline": "AIRFREIGHT: LEIPZIG CARGO SECURITY",
+                "headline": "INFRASTRUCTURE: CROSS-BORDER EXPANSION",
                 "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Explosive drone probe at Leipzig Airport triggers European cargo security alerts. Airfreight hubs enforce stricter custody screening protocols."
+                "narration_line": "Mexico pledged $2.2B to upgrade cross-border freight infrastructure and expand truck crossing capacity along critical industrial trade corridors."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
             }
         ]
     }
