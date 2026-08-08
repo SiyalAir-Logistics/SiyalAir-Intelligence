@@ -1,56 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TARIFF REGULATION",
-        "titleBlue": "RESTRUCTURING",
-        "footerSummary": "New trade tariffs, carrier liquidations, and infrastructure expansions reshape international logistics corridors and compliance mandates."
+        "titleWhite": "GLOBAL TRADE TARIFFS",
+        "titleBlue": "RESTRUCTURE",
+        "footerSummary": "New punitive trade levies, carrier capacity shifts, and shifting regulatory frameworks reshape global supply chains."
     },
     "slides": [
         {
             "id": 1,
             "heading": "USTR: TARIFF IMPLEMENTATION",
             "points": [
-                "The Office of the United States Trade Representative is moving forward with sweeping tariffs on 60 trading nations under Section 301.",
-                "This regulatory expansion introduces fresh compliance hurdles for international supply chains navigating complex cross-border trade restrictions.",
-                "Importers must rapidly adapt documentation protocols to absorb the impact of these permanent federal trade policy adjustments.",
-                "Proactive duty management strategies will be essential to mitigate sudden margin compression across multi-national vendor networks."
+                "The Office of the United States Trade Representative moves forward with a 15% levy on polysilicon imports.",
+                "This targeted measure directly impacts high-tech manufacturing, semiconductor production, and international solar energy supply chains.",
+                "Importers must rapidly update compliance frameworks to navigate expanding federal trade barriers and new pricing floors.",
+                "Strategic supply chain adjustments are now required to mitigate sustained margin compression across electronics sectors."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: CARRIER LIQUIDATION",
+            "nextUpTease": "MARITIME: HORMUZ NEGOTIATIONS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: CARRIER LIQUIDATION",
+            "heading": "MARITIME: HORMUZ NEGOTIATIONS",
             "points": [
-                "Singapore-registered liner SeaLead Shipping has entered voluntary liquidation following recent international trade and maritime sanctions.",
-                "The unexpected market exit abruptly halts major container services connecting Asian manufacturing hubs with the Middle East and Mediterranean.",
-                "Competing carriers are rapidly absorbing stranded cargo and vessel allocations to stabilize disrupted ocean freight shipping lanes.",
-                "Beneficial cargo owners must diversify vessel contracting portfolios immediately to prevent severe supply chain bottlenecks."
+                "Regional diplomatic talks advance regarding future transit conditions and security protocols within the Strait of Hormuz.",
+                "Ongoing maritime tensions continue to drive volatile bunker fuel costs and force carriers to evaluate alternate routing options.",
+                "Vessel operators must maintain operational flexibility to protect critical energy supply corridors from sudden disruptions.",
+                "Proactive risk management will remain essential for ocean liners navigating Middle Eastern maritime choke points."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILROAD: ROUTE EXPANSION",
+            "nextUpTease": "AIR CARGO: TRANSPACIFIC DEMAND",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "RAILROAD: ROUTE EXPANSION",
+            "heading": "AIR CARGO: TRANSPACIFIC DEMAND",
             "points": [
-                "The Port of Virginia has officially integrated direct CSX rail service into the critical Indianapolis industrial market hub.",
-                "Containers can now move via rail directly into regional distribution centers without requiring intermediate truck transfers through Chicago.",
-                "This intermodal infrastructure enhancement significantly reduces transit dwell times and alleviates regional highway freight congestion.",
-                "Supply chain planners should redesign inland routing topologies to capitalize on this direct corridor connection."
+                "Expanding artificial intelligence cargo volumes and early inventory frontloading continue to stimulate Transpacific trade lanes.",
+                "Airlines experience robust demand for high-yield technology shipments despite ongoing regional geopolitical uncertainties.",
+                "Forwarders are securing dedicated allocation agreements to ensure reliable space availability amidst tightening capacity.",
+                "Supply chain planners must monitor air freight pricing dynamics closely to optimize high-value inventory transit schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: PLANT INVESTMENT",
+            "nextUpTease": "TRUCKING: MANUFACTURING EXPANSION",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
@@ -59,32 +59,32 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "MANUFACTURING: PLANT INVESTMENT",
+            "heading": "TRUCKING: MANUFACTURING EXPANSION",
             "points": [
-                "Daimler Trucks North America has committed to establishing its largest U.S. manufacturing facility to meet heavy-duty vehicle demand.",
-                "The multi-million dollar infrastructure investment aligns directly with upcoming stringent EPA 2027 emissions and NOx standards.",
-                "Expanded domestic truck production capabilities will help stabilize commercial equipment availability for regional distribution fleets.",
-                "Fleet operators should coordinate vehicle replacement schedules closely with OEM production milestones to secure equipment."
+                "Daimler Trucks North America commits to constructing its largest domestic manufacturing facility by the year 2029.",
+                "The heavy-duty equipment investment aligns with upcoming federal emissions compliance mandates and regional freight demand.",
+                "Expanded domestic truck production capabilities will help stabilize commercial fleet replacement cycles nationwide.",
+                "Logistics operators should coordinate equipment acquisition strategies early with OEM production expansion timelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE: POLICY ENFORCEMENT",
+            "nextUpTease": "ECOMMERCE: CATALOG TITLE RULES",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ECOMMERCE: POLICY ENFORCEMENT",
+            "heading": "ECOMMERCE: CATALOG TITLE RULES",
             "points": [
-                "Amazon has officially enforced strict product title length limitations of 75 characters or less across all marketplace inventory catalogs.",
-                "The updated listing parameters are designed to improve search relevance and mobile user experience for digital retail consumers.",
-                "Third-party merchants must restructure product data feeds rapidly to maintain optimal search visibility and prevent catalog suppression.",
-                "E-commerce logistics managers should audit digital storefront assets immediately to ensure full platform compliance."
+                "Amazon enforces a strict product title character limit of 75 characters across all marketplace inventory catalogs.",
+                "The platform adjustment aims to streamline mobile search performance and enhance digital consumer browsing clarity.",
+                "Third-party vendors must restructure product data feeds immediately to prevent search ranking penalties or suppression.",
+                "Digital retail managers need to audit storefront databases continuously to maintain full compliance standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: VACANCY EQUILIBRIUM",
+            "nextUpTease": "REAL ESTATE: VACANCY STABILIZATION",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
@@ -93,12 +93,12 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "REAL ESTATE: VACANCY EQUILIBRIUM",
+            "heading": "REAL ESTATE: VACANCY STABILIZATION",
             "points": [
-                "Colliers reported that the national industrial real estate vacancy rate shifted slightly to 7.3% amid moderating new construction deliveries.",
-                "The quarterly adjustment indicates a healthier balance between warehouse supply and sustained commercial tenant demand nationwide.",
-                "Logistics real estate markets are demonstrating increased equilibrium after years of rapid speculative development absorption.",
-                "Distribution center planners should reevaluate facility leasing strategies to capitalize on stabilizing regional rental rates."
+                "Colliers reports national industrial real estate vacancy rates settling near 7.3% amid moderating new warehouse deliveries.",
+                "The quarterly data indicates a healthier supply-demand equilibrium across major regional distribution hubs.",
+                "Developers are adjusting speculative construction pipelines to match sustained commercial tenant absorption trends.",
+                "Supply chain directors should reevaluate facility leasing strategies to capitalize on stabilizing regional rental markets."
             ],
             "imageUrl": "",
             "nextUpTease": "LABOR: STRATEGIC COMPENSATION",
@@ -112,10 +112,10 @@ const dailyData = {
             "id": 7,
             "heading": "LABOR: STRATEGIC COMPENSATION",
             "points": [
-                "Logistics Management\u2019s latest survey highlights supply chain salaries rebounding as professionals assume broader strategic enterprise responsibilities.",
-                "Modern operational leadership increasingly demands deep technical proficiency across risk management, automation, and data analytics.",
-                "Organizations are investing heavily in qualified supply chain talent to navigate ongoing global trade and compliance complexities.",
-                "Human resources directors must benchmark competitive compensation packages to attract specialized logistics talent effectively."
+                "Latest industry data highlights supply chain executive compensation rebounding as professionals assume broader enterprise responsibilities.",
+                "Modern operational leadership increasingly requires advanced expertise in automation, risk mitigation, and analytics.",
+                "Organizations continue to invest heavily in specialized talent to navigate complex global trade environments.",
+                "Human resources teams must benchmark competitive compensation packages to attract high-caliber supply chain personnel."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",

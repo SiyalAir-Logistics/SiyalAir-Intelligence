@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TARIFF REGULATION RESTRUCTURING",
+        "hookTitle": "GLOBAL TRADE TARIFFS RESTRUCTURE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
                 "headline": "USTR: TARIFF IMPLEMENTATION",
-                "teaserTitle": "MARITIME: CARRIER LIQUIDATION",
+                "teaserTitle": "MARITIME: HORMUZ NEGOTIATIONS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR implements sweeping Section 301 tariffs across 60 trading nations. Importers face complex new regulatory compliance hurdles."
+                "narration_line": "USTR implements new 15% tariffs on polysilicon imports, impacting semiconductor supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: CARRIER LIQUIDATION",
-                "teaserTitle": "RAILROAD: ROUTE EXPANSION",
+                "headline": "MARITIME: HORMUZ NEGOTIATIONS",
+                "teaserTitle": "AIR CARGO: TRANSPACIFIC DEMAND",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "SeaLead Shipping enters voluntary liquidation after sanctions. Competitors scramble to absorb stranded container cargo."
+                "narration_line": "Strait of Hormuz diplomatic talks continue as bunker fuel volatility impacts shipping lanes."
             },
             {
                 "slide_index": 3,
-                "headline": "RAILROAD: ROUTE EXPANSION",
-                "teaserTitle": "MANUFACTURING: PLANT INVESTMENT",
+                "headline": "AIR CARGO: TRANSPACIFIC DEMAND",
+                "teaserTitle": "TRUCKING: MANUFACTURING EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Port of Virginia adds direct CSX rail service to Indianapolis. New intermodal routing slashes transit dwell times."
+                "narration_line": "Transpacific air cargo demand surges on AI technology shipments and frontloading trends."
             },
             {
                 "slide_index": 4,
-                "headline": "MANUFACTURING: PLANT INVESTMENT",
-                "teaserTitle": "ECOMMERCE: POLICY ENFORCEMENT",
+                "headline": "TRUCKING: MANUFACTURING EXPANSION",
+                "teaserTitle": "ECOMMERCE: CATALOG TITLE RULES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "DTNA commits to massive U.S. plant investment for 2027 EPA compliance. Domestic truck production capacity expands."
+                "narration_line": "Daimler announces plans for its largest U.S. truck manufacturing plant by 2029."
             },
             {
                 "slide_index": 5,
-                "headline": "ECOMMERCE: POLICY ENFORCEMENT",
-                "teaserTitle": "REAL ESTATE: VACANCY EQUILIBRIUM",
+                "headline": "ECOMMERCE: CATALOG TITLE RULES",
+                "teaserTitle": "REAL ESTATE: VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon enforces strict product title limits across marketplace catalogs. Sellers must update data feeds to maintain visibility."
+                "narration_line": "Amazon enforces a strict 75-character limit on all marketplace product titles."
             },
             {
                 "slide_index": 6,
-                "headline": "REAL ESTATE: VACANCY EQUILIBRIUM",
+                "headline": "REAL ESTATE: VACANCY STABILIZATION",
                 "teaserTitle": "LABOR: STRATEGIC COMPENSATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Industrial real estate vacancy stabilizes at 7.3%. Construction moderation restores balance to warehouse markets."
+                "narration_line": "Industrial real estate vacancy rates stabilize at 7.3% amid slower construction."
             },
             {
                 "slide_index": 7,
                 "headline": "LABOR: STRATEGIC COMPENSATION",
-                "teaserTitle": "FINAL SLIDE",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Supply chain salaries rebound as roles demand advanced automation skills. Organizations invest heavily in top operational talent."
+                "narration_line": "Supply chain executive compensation rebounds as strategic enterprise roles expand."
             },
             {
                 "slide_index": 8,
