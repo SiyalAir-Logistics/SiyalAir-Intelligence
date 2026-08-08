@@ -1,73 +1,90 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT INFRASTRUCTURE",
-        "titleBlue": "REBOUND",
-        "footerSummary": "Expanding industrial data center demands, proactive regulatory enforcement, and strategic regional import peaks drive volatile adjustments across cross-border supply chains."
+        "titleWhite": "CRITICAL GLOBAL LOGISTICS",
+        "titleBlue": "SHIFTS",
+        "footerSummary": "Fresh trade tariffs, strategic intermodal rail expansion, carrier liquidations, and rural postal surcharges redefine operational risks across global supply networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CAPACITY: DATA CENTER TRUCK DEMAND",
+            "heading": "TARIFFS: POLYSILICON IMPORT DUTIES",
             "points": [
-                "Massive commercial data center infrastructure projects across the United States are requiring up to 100,000 truckloads per gigawatt of expansion.",
-                "Specialized over-the-road freight capacity is shifting rapidly toward tech construction sites, tightening regional fleet supply chains significantly.",
-                "Logistics analysts warn that accelerating artificial intelligence facility buildouts will exacerbate spot market rate volatility across domestic lanes.",
-                "Supply chain directors must secure dedicated long-term carrier contracts to isolate standard freight operations from heavy industrial capacity drains."
+                "Executive orders have instituted a 15% tariff and strict import price floors on polysilicon materials entering domestic markets.",
+                "High-tech manufacturing sectors face immediate cost surges across solar equipment and semiconductor assembly supply chains.",
+                "Regulatory agencies aim to force domestic production reshoring while restricting reliance on heavily subsidized overseas raw material processing.",
+                "Enterprise procurement teams must restructure tier-three supplier networks before the enforcement deadline takes effect on Dec 4."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFFS: FORCED LABOR COMPLIANCE",
+            "nextUpTease": "INTERMODAL: DIRECT INDIANAPOLIS RAIL",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATION: FORCED LABOR TARIFFS",
+            "heading": "INTERMODAL: DIRECT INDIANAPOLIS RAIL",
             "points": [
-                "The Office of the United States Trade Representative is moving forward with specialized tariffs targeting 60 trading partners under Section 301.",
-                "The enforcement mechanism addresses severe forced labor supply chain violations as older statutory provisions officially expire.",
-                "Importers face heightened customs scrutiny, documentation audits, and potential cargo clearance delays on multi-origin inbound shipments.",
-                "Global supply chain managers must verify tier-one and tier-two vendor compliance to prevent severe border seizures and financial penalties."
+                "Port of Virginia and CSX launched a direct rail service linking East Coast maritime terminals straight into Indianapolis inland hubs.",
+                "Transit times for midwestern containerized freight decrease by 48 hours while bypassing chronic rail interchange chokepoints in Chicago.",
+                "Regional logistics infrastructure shifts toward specialized corridor routing to streamline automotive and retail inventory distribution workflows.",
+                "Supply chain directors can re-route import lanes to reduce landside drayage costs and eliminate traditional rail transfer bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHIPPING: SUMMER IMPORT SURGE",
+            "nextUpTease": "MARITIME: SEALEAD CONTAINER LIQUIDATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: SUMMER IMPORT PEAK",
+            "heading": "MARITIME: SEALEAD CONTAINER LIQUIDATION",
             "points": [
-                "National Retail Federation data indicates summer monthly containerized imports will hit their highest structural level since the 2022 shipping peak.",
-                "Early peak shipping season volumes are projected to moderate heading into September as retailers frontload holiday inventory requirements.",
-                "Major marine terminals are working around the clock to process high container volumes and mitigate potential intermodal yard congestion.",
-                "Ocean carriers and port operators must optimize landside evacuation channels to prevent terminal dwell time spikes during peak surges."
+                "Singapore-based ocean carrier SeaLead Shipping entered voluntary liquidation following severe operational disruptions from recent U.S. sanctions.",
+                "Competing ocean liners quickly acquired SeaLead vessel charters and container assets to absorb displaced Asia to Mediterranean trade volumes.",
+                "Maritime regulatory actions demonstrate the escalating operational risks associated with indirect geopolitical sanctions and trade compliance enforcement.",
+                "Cargo shippers must audit ocean carrier corporate ownership structures to prevent sudden vessel arrests and container abandonment risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION: ROBOTIC SHIPBUILDING",
+            "nextUpTease": "DELIVERY: CONSOLIDATED DOCK TRUCKING",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MANUFACTURING: ROBOTIC WELDING",
+            "heading": "DELIVERY: CONSOLIDATED DOCK TRUCKING",
             "points": [
-                "GrayMatter and Path robotics platforms are introducing advanced automated welding technology directly into heavy ship manufacturing facilities.",
-                "The integration of physical artificial intelligence addresses persistent skilled labor shortages within domestic maritime construction yards.",
-                "Automated manufacturing systems enhance structural weld precision while accelerating overall vessel production throughput and output quality.",
-                "Shipbuilders must modernize facility operations and adopt automated workflows to remain competitive in heavy industrial manufacturing markets."
+                "Amazon Business deployed a dedicated fleet of branded commercial trucks designed specifically for consolidated palletized delivery at loading docks.",
+                "B2B enterprise procurement operations cut receiving handling costs by 30% by consolidating fragmented package deliveries into unified daily shipments.",
+                "Commercial freight networks are shifting toward integrated dock delivery models that bridge last-mile parcel distribution with middle-mile logistics.",
+                "Enterprise facility managers should adapt loading dock scheduling software to leverage structured high-density freight consolidation services."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: EPA 2027 TRUCK PLANT",
+            "nextUpTease": "MANUFACTURING: TOYOTA INDUSTRIAL PLANT",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MANUFACTURING: TOYOTA INDUSTRIAL PLANT",
+            "points": [
+                "Toyota Material Handling opened a $100M forklift manufacturing facility in Indiana to scale production of heavy electric industrial equipment.",
+                "Domestic warehouse equipment lead times are projected to contract by 25% as localized manufacturing capacity ramps up operations.",
+                "Industrial equipment manufacturers are heavily investing in North American production footprint expansion to counter rising global supply chain volatility.",
+                "Warehouse automation teams can secure accelerated equipment delivery schedules for fleet electrification and material handling upgrades."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "SECURITY: AIRPORT DRONE THREAT",
             "tags": [
                 "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
@@ -75,47 +92,30 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "EQUIPMENT: DTNA MANUFACTURING EXPANSION",
-            "points": [
-                "Daimler Truck North America announced plans to open its largest domestic commercial vehicle manufacturing facility in the United States by 2029.",
-                "The multi-million dollar plant will scale production of heavy-duty trucks aligned exclusively with upcoming stringent EPA 2027 NOx standards.",
-                "Commercial motor carriers face accelerated fleet re-equipment cycles and higher capital acquisition costs as strict emissions mandates arrive.",
-                "Fleet operators must align strategic procurement budgets with long-term original equipment manufacturer production schedules to secure allocation."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "SECURITY: CARGO THEFT RING",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "SECURITY: HACKED DATA THEFT RING",
+            "heading": "SECURITY: AIRPORT DRONE THREAT",
             "points": [
-                "A federal grand jury indicted eight individuals connected to a sophisticated cargo theft ring that stole $4.49M in retail goods.",
-                "The criminal enterprise utilized compromised corporate credentials from legitimate supply chain entities to execute fraudulent freight deliveries.",
-                "Supply chain security teams face escalating threats from digital identity theft and sophisticated cyber-enabled logistics fraud schemes.",
-                "Logistics providers must enforce strict multi-factor authentication and carrier identity verification protocols to safeguard freight transactions."
+                "Counterterrorism authorities launched a federal investigation after discovering an explosive-laden drone near Leipzig Airport air cargo hub.",
+                "European aviation security agencies implemented immediate heightened inspection protocols for all air freight processing facilities across central hubs.",
+                "Critical transportation infrastructure faces growing asymmetric security threats that trigger sudden operational delays and increased screening overhead.",
+                "Air cargo forwarders must prepare for extended air freight clearance windows and potential security surcharges across European gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: MARKETPLACE TITLE POLICY",
+            "nextUpTease": "E-COMMERCE: RURAL PARCEL SURCHARGES",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "E-COMMERCE: PRODUCT TITLE POLICY",
+            "heading": "E-COMMERCE: RURAL PARCEL SURCHARGES",
             "points": [
-                "Major e-commerce marketplace platforms are enforcing strict structural limits on product listing titles to streamline search algorithms.",
-                "Third-party merchants and enterprise sellers must re-optimize digital catalogs to comply with stringent character limits and data standards.",
-                "Platform policy adjustments impact search visibility and inventory categorization workflows across high-volume online retail channels.",
-                "Digital retail merchants must audit existing product listing databases to prevent automatic suppression and maintain sales momentum."
+                "The United States Postal Service introduced $2 to $3 rate increases on lightweight package deliveries destined for rural postal zip codes.",
+                "E-commerce merchants operating on major marketplace platforms face margin compression of up to 12% on low-cost goods shipped to non-urban buyers.",
+                "Postal carriers are adjusting rate cards to reflect true last-mile delivery cost structures across geographically dispersed delivery zones.",
+                "Online merchants must re-evaluate shipping price tables and adopt multi-carrier dynamic routing algorithms to mitigate localized postal surcharges."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
