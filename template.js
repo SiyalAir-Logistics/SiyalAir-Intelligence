@@ -1,56 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL FREIGHT NETWORK",
-        "titleBlue": "EXPANSION",
-        "footerSummary": "New tariffs on polysilicon, direct intermodal rail bypasses, postal rate hikes, and manufacturing investments drive real-time global supply chain reconfigurations."
+        "titleWhite": "GLOBAL TRADE ARCHITECTURE",
+        "titleBlue": "DISRUPTIONS",
+        "footerSummary": "Sanctions trigger ocean line liquidation, cargo theft networks exploit corporate data, and new regulatory mandates enforce structural shifts across global trade networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: POLYSILICON IMPORT TARIFFS",
+            "heading": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
             "points": [
-                "US executive actions established a 15% tariff alongside import price floors on global polysilicon shipments starting Dec 4.",
-                "The regulatory mandate targets solar panel supply chains and semiconductor manufacturing inputs to accelerate domestic sourcing.",
-                "Global electronics and clean energy importers face instant cost increases and mandatory compliance adjustments across foreign supply hubs.",
-                "Supply chain managers must restructure procurement networks immediately to absorb rising raw material landed costs."
+                "Singapore-registered container line SeaLead Shipping has entered voluntary liquidation following recent US sanctions and alleged Iranian geopolitical ties.",
+                "Competing ocean carriers quickly absorbed vessel assets and container fleets to prevent immediate capacity collapse across Asia-Middle East trade lanes.",
+                "The abrupt liquidation forces freight forwarders to reroute active box bookings and negotiate urgent spot contracts with alternative carriers.",
+                "Supply chain executives must audit ocean carrier ownership structures to mitigate sudden secondary sanctions and service disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: VIRGINIA CSX INDIANAPOLIS LINK",
+            "nextUpTease": "SECURITY: $4.49M HACKED DATA CARGO THEFT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL: VIRGINIA CSX INDIANAPOLIS LINK",
+            "heading": "SECURITY: $4.49M HACKED DATA CARGO THEFT",
             "points": [
-                "Port of Virginia launched direct CSX intermodal rail service connecting ocean terminals straight to Indianapolis freight hubs.",
-                "The new rail corridor allows containerized cargo to bypass congested Chicago rail interchange yards entirely.",
-                "Mid-Atlantic shippers gain 24-to-48 hour lead time reductions on Midwest-bound import container flows.",
-                "Logistics planners should redirect Midwest ocean cargo through Virginia to lower dwell times and drayage fees."
+                "A federal grand jury indicted 8 individuals operating an organized theft ring that stole $4.49M in retail freight through compromised company credentials.",
+                "Infiltrated logistics dispatch systems allowed the criminal network to fraudulently reroute and intercept high-value commercial shipments across state lines.",
+                "The indictment highlights expanding cyber-vulnerabilities within third-party carrier broker databases and electronic dispatch platforms.",
+                "Logistics security managers must enforce multi-factor authentication and identity verification for all dispatched freight loads."
             ],
             "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: DAIMLER US TRUCK PLANT",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MANUFACTURING: DAIMLER US TRUCK PLANT",
-            "points": [
-                "Daimler Truck North America announced plans to construct its largest US commercial vehicle manufacturing plant by 2029.",
-                "The multi-million-dollar facility expands North American production capacity for heavy-duty freight tractors and zero-emission chassis.",
-                "Increased domestic assembly buffers fleet operators against global chassis import bottlenecks and supply chain delays.",
-                "Fleet managers should align long-term tractor replacement cycles with expanding domestic manufacturing timelines."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: WALMART WING DRONE EXPANSION",
+            "nextUpTease": "INFRASTRUCTURE: LEIPZIG AIRPORT DRONE INCIDENT",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -58,33 +41,67 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "E-COMMERCE: WALMART WING DRONE EXPANSION",
+            "id": 3,
+            "heading": "INFRASTRUCTURE: LEIPZIG AIRPORT DRONE INCIDENT",
             "points": [
-                "Walmart teamed with Wing to launch commercial drone delivery across 5 distribution nodes in the Orlando metropolitan region.",
-                "Autonomous aerial routes deliver last-mile parcel orders in under 30 minutes, handling light goods under 3 lbs.",
-                "Micro-fulfillment networks are scaling physical automation to dramatically compress urban delivery windows and costs.",
-                "Retail logistics operators must integrate aerial fulfillment nodes to maintain parity in high-density suburban markets."
+                "German counterterrorism authorities launched a formal investigation after an explosive-laden drone was discovered near Leipzig/Halle Airport air freight operations.",
+                "The major European cargo hub sustained heightened security protocols, prompting temporary airside perimeter freezes and delayed freight processing.",
+                "Aviation security officials are mandating anti-drone defense systems around key European express freight facilities to mitigate physical disruption risks.",
+                "Air cargo operators must build operational redundancy for critical European hubs to withstand unexpected physical security shutdowns."
             ],
             "imageUrl": "",
-            "nextUpTease": "POSTAL: USPS GROUND ADVANTAGE INCREASES",
+            "nextUpTease": "REGULATION: 25 STATES SUE SECTION 301",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://theloadstar.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "REGULATION: 25 STATES SUE SECTION 301",
+            "points": [
+                "A coalition of 25 US state attorneys general filed a lawsuit challenging federal Section 301 tariffs enforced under forced-labor trade provisions.",
+                "Plaintiffs argue the administrative tariff action bypasses recent judicial constraints placed on executive trade authority and import duty enforcement.",
+                "The legal challenge introduces immediate compliance uncertainty for importers adjusting supply chains to recent tariff expansions.",
+                "Enterprise trade compliance teams must maintain flexible duty drawback strategies while federal court litigation proceeds."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "DEVELOPMENT: MEXICO $2.2B OAXACA INFRASTRUCTURE",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "POSTAL: USPS GROUND ADVANTAGE INCREASES",
+            "heading": "DEVELOPMENT: MEXICO $2.2B OAXACA INFRASTRUCTURE",
             "points": [
-                "USPS implemented immediate rate increases across Ground Advantage services alongside a $2-$3 surcharge on lightweight rural deliveries.",
-                "Marketplace sellers across major e-commerce platforms face margin compression on low-cost goods delivered to non-metro ZIP codes.",
-                "The postal fee adjustment shifts regional parcel distribution economics toward private last-mile consolidation networks.",
-                "E-commerce merchants need to dynamically update checkout shipping rules to pass through targeted rural delivery surcharges."
+                "The Mexican government allocated $2.2B toward multimodal infrastructure projects in Oaxaca to accelerate the Interoceanic Trade Corridor.",
+                "The strategic investment targets rail bypass links, industrial parks, and port expansions connecting Pacific and Atlantic shipping lanes.",
+                "Enhanced cross-isthmus capacity offers global shippers a land-bridge alternative to potential Panama Canal transit constraints.",
+                "Nearshoring manufacturers should evaluate Southern Mexico logistics corridors to streamline North American cross-border distribution."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSING: AMERICAN EAGLE NC HUB",
+            "nextUpTease": "E-COMMERCE: AMAZON 75-CHAR TITLE LIMITS",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "E-COMMERCE: AMAZON 75-CHAR TITLE LIMITS",
+            "points": [
+                "Amazon instituted a strict policy restricting product catalog titles to a maximum of 75 characters across merchant and first-party listings.",
+                "Non-compliant product titles face automated suppression from marketplace search indices and internal catalog visibility algorithms.",
+                "The mandate aims to standardize catalog metadata, improve mobile user experiences, and eliminate keyword stuffing across digital channels.",
+                "E-commerce inventory teams must audit and reformat SKU catalog listings immediately to prevent listing deactivation."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "GEOPOLITICS: HORMUZ TRANSIT TOLL PROPOSAL",
             "tags": [
                 "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
@@ -92,35 +109,18 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "WAREHOUSING: AMERICAN EAGLE NC HUB",
-            "points": [
-                "American Eagle Outfitters broke ground on a $41M automated distribution facility in North Carolina scheduled for 2027 operations.",
-                "The strategically located regional hub will generate over 200 operational logistics jobs and optimize Southeastern delivery routes.",
-                "Apparel retailers continue investing heavily in centralized, regionalized fulfillment assets to shorten replenishment lead times.",
-                "Enterprise supply chains must establish modern regional distribution hubs to sustain 2-day delivery SLAs across growth regions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: TOYOTA $100M FORKLIFT PLANT",
-            "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "EQUIPMENT: TOYOTA $100M FORKLIFT PLANT",
+            "heading": "GEOPOLITICS: HORMUZ TRANSIT TOLL PROPOSAL",
             "points": [
-                "Toyota Material Handling opened a $100M forklift manufacturing facility in Indiana to scale production of material handling equipment.",
-                "The expanded plant addresses severe lead-time backlogs for warehouse lift trucks, electric stackers, and automated tuggers.",
-                "High industrial equipment supply eases fulfillment center buildout delays across North American logistics corridors.",
-                "Distribution center operators should capitalize on reduced equipment lead times to modernize aging material handling fleets."
+                "International shipping bodies urged UN and IMO intervention over proposals by regional authorities to levy transit tolls on Strait of Hormuz vessels.",
+                "Unilateral maritime tolls threaten to add substantial daily operating costs to energy tankers and container vessels traversing the Persian Gulf.",
+                "The diplomatic friction heightens war-risk premiums and operational uncertainty across global maritime energy and container trades.",
+                "Ocean carriers must prepare contingency routing plans and adjust bunker fuel surcharges as Middle East maritime risk scales."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
