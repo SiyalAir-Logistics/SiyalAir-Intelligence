@@ -1,22 +1,73 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL LOGISTICS NETWORK",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "Carrier liquidations, direct intermodal rail expansions, and new tech import tariffs drive immediate operational recalibrations across critical trade corridors."
+        "titleWhite": "GLOBAL FREIGHT NETWORK",
+        "titleBlue": "BOTTLENECKS",
+        "footerSummary": "New trade tariffs, surge in data center freight, and inland water constraints drive immediate operational adjustments across global logistics networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: SEALEAD SANCTIONS LIQUIDATION",
+            "heading": "USTR: SECTION 301 EXPANSION",
             "points": [
-                "Singapore-based ocean carrier SeaLead Shipping entered voluntary liquidation following trade sanctions linked to Iranian trade activity.",
-                "Rival container lines quickly acquired the carrier's fleet and container inventory to cover stranded volume across key routes.",
-                "The abrupt shutdown halted SeaLead's core liner services connecting Asia, the Middle East, the Mediterranean, and the Baltic Sea.",
-                "Cargo owners must immediately rebook delayed containerized freight with alternative vessel operators to minimize port dwell times."
+                "The Office of the United States Trade Representative launched Section 301 tariffs across 60 trading partners following Section 122 expiration.",
+                "Broad forced-labor provisions enforce immediate import compliance checks on high-volume manufactured goods and raw component flows.",
+                "Regulatory agencies aim to eliminate supply chain labor circumvention across transpacific and transatlantic trade channels.",
+                "Enterprise importers must update customs filing protocols immediately to prevent severe port clearance delays and product seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: VIRGINIA DIRECT CSX RAIL",
+            "nextUpTease": "INFRASTRUCTURE: DATA CENTER DEMAND",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "INFRASTRUCTURE: DATA CENTER DEMAND",
+            "points": [
+                "US data center expansion projects now consume massive surface transport capacity, requiring 100K truckloads per gigawatt built.",
+                "Specialized flatbed and heavy-haul motor carrier fleets are reallocating equipment from standard commercial freight lanes.",
+                "The influx of AI infrastructure projects is driving down available regional truckload capacity for industrial shippers.",
+                "Freight procurement teams must secure long-term dedicated trucking contracts to insulate against rising spot market freight rates."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "E-COMMERCE: AMAZON TITLE POLICY",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "E-COMMERCE: AMAZON TITLE POLICY",
+            "points": [
+                "Amazon enacted a strict 75-character title limit across third-party marketplace sellers and first-party brand listings.",
+                "The algorithmic policy change standardizes catalog metadata to optimize natural language processing for AI search tools.",
+                "Non-compliant product titles face immediate suppression from buyer search results and automated catalog indexing engines.",
+                "Brands must rapidly audit product listings to ensure key search attributes fit within the condensed character threshold."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TERMINALS: DP WORLD RESTRUCTURING",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "TERMINALS: DP WORLD RESTRUCTURING",
+            "points": [
+                "DP World initiated a major operational restructuring across European container terminals, eliminating 300 corporate and field positions.",
+                "Staff reductions focus on streamlining dockside operations and administrative overhead across major port hubs like London Gateway.",
+                "Terminal management seeks to offset rising regional labor costs and fluctuating transpacific container throughput volumes.",
+                "Shippers should monitor terminal dwell times and drayage fluidity as local management teams execute organizational transitions."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "INLAND: RHINE LOW WATER RESTRICTIONS",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
@@ -24,103 +75,52 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "INTERMODAL: VIRGINIA DIRECT CSX RAIL",
-            "points": [
-                "The Port of Virginia partnered with CSX rail to launch direct intermodal service connecting Norfolk marine terminals with Indianapolis.",
-                "Direct rail routing eliminates traditional freight drayage bottlenecks and bypasses severe Chicago rail yard transfer delays.",
-                "Midwest importers gain streamlined container transit times while reducing long-haul overland trucking dependency across eastern corridors.",
-                "Logistics managers can optimize supply chain lead times by routing midwestern inbound cargo directly through mid-Atlantic gateways."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: 15% POLYSILICON IMPORT TARIFF",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "COMPLIANCE: 15% POLYSILICON IMPORT TARIFF",
-            "points": [
-                "The US executive branch declared a 15% tariff alongside mandatory import price floors on foreign polysilicon materials.",
-                "The trade restriction specifically targets critical silicon inputs utilized in advanced semiconductor fabrication and solar energy technology.",
-                "Technology manufacturers face higher raw material procurement costs starting Dec 4 unless domestic production ramps rapidly.",
-                "Procurement executives are restructuring global semiconductor component sourcing to mitigate compounding regulatory tariff surcharges."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "SECURITY: BROKER DATA CARGO THEFT",
-            "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "SECURITY: BROKER DATA CARGO THEFT",
-            "points": [
-                "A federal grand jury indicted 8 individuals for executing a $4.49M retail freight theft scheme targeting motor carriers.",
-                "The organized crime syndicate compromised freight broker databases to fraudulently intercept high-value commercial shipments in transit.",
-                "Cyber vulnerabilities in logistics software platforms continue to enable sophisticated cargo theft and unauthorized load re-routing.",
-                "Freight brokerages must implement strict multi-factor verification tools to protect client load tenders from fraudulent carrier identity theft."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CUSTOMS: STATES SUE SECTION 301",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 5,
-            "heading": "CUSTOMS: STATES SUE SECTION 301",
+            "heading": "INLAND: RHINE LOW WATER RESTRICTIONS",
             "points": [
-                "A coalition of 25 US states filed a federal lawsuit challenging the legality of expanded Section 301 import tariffs.",
-                "The lawsuit argues executive agencies bypassed constitutional authority by imposing broad duties following prior Supreme Court administrative rulings.",
-                "Legal uncertainty threatens current customs duty collection frameworks and creates volatile compliance environments for high-volume importers.",
-                "Corporate legal teams are preparing contingency duty drawback claims to recover capital should federal courts strike down the tariffs."
+                "Record-low water levels on the Rhine river forced vessel operators to impose strict barge draft limits across German waterways.",
+                "Decreased barge load capacities created immediate freight bottlenecks for raw materials bound for central European manufacturing plants.",
+                "Inland shippers are shifting containerized cargo to regional rail and truck networks, triggering overland freight rate surcharges.",
+                "Logistics planners must build operational buffer times into European supply chain corridors to offset inland transport delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
+            "nextUpTease": "POSTAL: USPS PARCEL SURCHARGES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
+            "heading": "POSTAL: USPS PARCEL SURCHARGES",
             "points": [
-                "Major retail corporations are monetizing prospective US Customs tariff refunds by selling claim rights to secondary financial markets.",
-                "Financial intermediaries buy future regulatory refund claims at a discount to provide immediate liquidity to cash-constrained retail brands.",
-                "The emerging secondary trade market highlights growing corporate demand for working capital amid extended federal customs dispute resolutions.",
-                "Importers can leverage financial restructuring mechanisms to convert uncertain duty litigation into immediate operational cash flow."
+                "The US Postal Service achieved $20B in revenue supported by new parcel surcharges and increased Ground Advantage pricing.",
+                "Targeted rate increases add $2 to $3 in delivery fees for lightweight e-commerce packages destined for rural postal zip codes.",
+                "Higher package shipping costs force marketplace sellers to reassess fulfillment margins and regional carrier diversification.",
+                "Retail merchants should renegotiate last-mile parcel carrier contracts to cushion bottom-line margins against rising postal fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT: $135M US TERMINAL EXPANSION",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABLE",
             "tags": [
-                "Source: https://www.retaildive.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORT: $135M US TERMINAL EXPANSION",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABLE",
             "points": [
-                "A premier Asian ocean container line committed $135M to upgrade and expand its primary US West Coast marine terminal.",
-                "The infrastructure investment aims to increase container handling throughput and reduce vessel berth congestion during peak shipping seasons.",
-                "Upgraded dockside crane automation and expanded container yard space will support larger ultra-large container vessels calling North America.",
-                "Ocean shippers will experience improved terminal fluidity and faster drayage turn times across transpacific maritime trade routes."
+                "US industrial real estate vacancy rates stabilized at 7.3% as net market absorption outpaced new warehouse completions.",
+                "Modern logistics facilities saw strong tenant demand driven by regional distribution shifts and automated fulfillment upgrades.",
+                "A slowdown in new warehouse construction starts is tightening prime industrial space availability in key port markets.",
+                "Enterprise supply chain directors must accelerate warehouse lease renewals before prime distribution space becomes scarce."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

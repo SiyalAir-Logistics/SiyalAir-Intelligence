@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL LOGISTICS NETWORK SHIFTS",
+        "hookTitle": "GLOBAL FREIGHT NETWORK BOTTLENECKS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: SEALEAD SANCTIONS LIQUIDATION",
-                "teaserTitle": "INTERMODAL: VIRGINIA DIRECT CSX RAIL",
+                "headline": "USTR: SECTION 301 EXPANSION",
+                "teaserTitle": "INFRASTRUCTURE: DATA CENTER DEMAND",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation following sanctions. Competitors rapidly absorbed its fleet and assets to maintain trade continuity."
+                "narration_line": "USTR enforced Section 301 tariffs across 60 trade partners. Importers must audit supply chains to prevent port seizures."
             },
             {
                 "slide_index": 2,
-                "headline": "INTERMODAL: VIRGINIA DIRECT CSX RAIL",
-                "teaserTitle": "COMPLIANCE: 15% POLYSILICON IMPORT TARIFF",
+                "headline": "INFRASTRUCTURE: DATA CENTER DEMAND",
+                "teaserTitle": "E-COMMERCE: AMAZON TITLE POLICY",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Port of Virginia launched direct CSX rail service to Indianapolis. This move bypasses Chicago bottlenecks and cuts Midwest transit times."
+                "narration_line": "Data center expansions require 100K truckloads per gigawatt. Dedicated flatbed capacity is tightening across US freight corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: 15% POLYSILICON IMPORT TARIFF",
-                "teaserTitle": "SECURITY: BROKER DATA CARGO THEFT",
+                "headline": "E-COMMERCE: AMAZON TITLE POLICY",
+                "teaserTitle": "TERMINALS: DP WORLD RESTRUCTURING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The executive branch imposed a 15% tariff on foreign polysilicon imports. Tech suppliers face higher costs for semiconductor and solar manufacturing."
+                "narration_line": "Amazon enforced a 75-character product title restriction. Non-compliant listings face immediate suppression in buyer search results."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: BROKER DATA CARGO THEFT",
-                "teaserTitle": "CUSTOMS: STATES SUE SECTION 301",
+                "headline": "TERMINALS: DP WORLD RESTRUCTURING",
+                "teaserTitle": "INLAND: RHINE LOW WATER RESTRICTIONS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A grand jury indicted 8 individuals in a $4.49M cyber cargo theft scheme. Criminals exploited compromised broker databases to steal retail shipments."
+                "narration_line": "DP World cut 300 European roles to restructure terminal management. Operational changes aim to optimize container throughput efficiency."
             },
             {
                 "slide_index": 5,
-                "headline": "CUSTOMS: STATES SUE SECTION 301",
-                "teaserTitle": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
+                "headline": "INLAND: RHINE LOW WATER RESTRICTIONS",
+                "teaserTitle": "POSTAL: USPS PARCEL SURCHARGES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A coalition of 25 states sued to block Section 301 tariff enforcement. Legal challenges question executive authority over broad import duties."
+                "narration_line": "Low water levels on the Rhine river restricted inland barge capacity. Shippers are shifting freight to overland trucking networks."
             },
             {
                 "slide_index": 6,
-                "headline": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
-                "teaserTitle": "PORT: $135M US TERMINAL EXPANSION",
+                "headline": "POSTAL: USPS PARCEL SURCHARGES",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABLE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Retailers are selling rights to federal tariff refunds on secondary markets. The financial strategy generates immediate liquidity amid regulatory delays."
+                "narration_line": "USPS reached $20B in revenue using new parcel surcharges. Last-mile lightweight shipping costs rose $2 to $3 in rural zip codes."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT: $135M US TERMINAL EXPANSION",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABLE",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "An Asian carrier invested $135M to expand its US container terminal hub. Upgraded infrastructure will enhance berth throughput and drayage fluidity."
+                "narration_line": "US industrial warehouse vacancy stabilized at 7.3% this quarter. Strong tenant absorption is tightening available logistics real estate."
             },
             {
                 "slide_index": 8,
