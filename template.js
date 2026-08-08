@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE CORRIDOR",
-        "titleBlue": "REALIGNMENT",
-        "footerSummary": "Proposed Strait of Hormuz tolls, new 15% polysilicon tariffs, SeaLead liquidation, and data center fleet drains force urgent global freight re-routing."
+        "titleWhite": "GLOBAL FREIGHT COMPLIANCE",
+        "titleBlue": "OVERHAUL",
+        "footerSummary": "Court rulings on FMC fees, USTR 301 forced-labor tariffs, USPS rate hikes, and cyber theft rings force structural compliance shifts."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: HORMUZ TOLL PROPOSAL",
+            "heading": "REGULATION: FMC DEMURRAGE RULING",
             "points": [
-                "Global shipping organizations urged the UN and IMO to intervene following reports that Iran and Oman are negotiating transit tolls for the Strait of Hormuz.",
-                "The imposition of sovereign vessel tolls along the critical oil and container freight bottleneck threatens to escalate ocean transportation overhead globally.",
-                "Marine insurers and container lines are evaluating emergency routing options and potential war risk surcharge adjustments across Middle Eastern lanes.",
-                "Ocean carriers must review global service networks and prepare contingency routes to manage compounding maritime transit expenses."
+                "The US Court of Appeals upheld the Federal Maritime Commission decision requiring container detention fees to directly promote freight fluidity.",
+                "Ocean carriers and terminal operators face heightened financial scrutiny and potential $1.9M penalties for improper demurrage billings.",
+                "The legal precedent cements OSRA 2022 enforcement mechanisms while curbing arbitrary carrier penalty structures across US container ports.",
+                "Importers and OTIs must audit historical billing data to submit formal charge complaints and reclaim invalid detention assessments."
             ],
             "imageUrl": "",
-            "nextUpTease": "SEMICONDUCTORS: POLYSILICON TARIFF",
+            "nextUpTease": "CUSTOMS: SECTION 301 EXPANSION",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.fmc.gov",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SEMICONDUCTORS: POLYSILICON TARIFF",
+            "heading": "CUSTOMS: SECTION 301 EXPANSION",
             "points": [
-                "The US administration announced a 15% tariff on imported polysilicon alongside a mandatory import price floor effective December 4.",
-                "The regulatory expansion targets solar power equipment and semiconductor manufacturing supply chains reliant on foreign raw material inputs.",
-                "Importers face heightened landed costs and stricter customs valuation audits on high-purity silicon shipments entering domestic tech pipelines.",
-                "Tech manufacturers must recalculate component sourcing budgets and explore domestic reshoring alternatives to shield operational margins."
+                "The USTR officially enacted forced-labor Section 301 tariffs covering 60 trading partner nations following the expiration of Section 122 duties.",
+                "Importers face comprehensive supply chain origin mapping requirements and increased border holds by Customs and Border Protection agents.",
+                "The tariff architecture targets non-compliant international trade flows to enforce ethical labor standards across global production hubs.",
+                "Supply chain executives must audit tier-1 through tier-4 supplier networks to prevent severe cargo seizures at entry points."
             ],
             "imageUrl": "",
-            "nextUpTease": "LINER SHIPPING: SEALEAD LIQUIDATION",
+            "nextUpTease": "CYBERSECURITY: DATA HACK THEFT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LINER SHIPPING: SEALEAD LIQUIDATION",
+            "heading": "CYBERSECURITY: DATA HACK THEFT",
             "points": [
-                "Singapore-registered container carrier SeaLead Shipping entered voluntary liquidation weeks after facing targeted US sanctions over alleged Iranian trade ties.",
-                "Competing ocean carriers quickly absorbed SeaLead's vessel tonnage and container assets across key Asia-Middle East and Mediterranean trade routes.",
-                "The abrupt liquidation highlights severe operational and financial risks for carriers navigating complex international trade sanction enforcement.",
-                "Shippers using regional feeder lines must execute rigorous secondary carrier audits to protect cargo from sudden operational disruptions."
+                "A federal grand jury indicted 8 individuals for executing a $4.49M retail cargo theft ring using hacked freight tracking data.",
+                "Cybercriminals exploited compromised logistics databases to intercept high-value freight shipments across major interstate transportation corridors.",
+                "The criminal breach underscores expanding vulnerabilities within digital dispatch portals and freight brokerage communications systems.",
+                "Logistics providers must mandate multi-factor authentication and strict identity verification to secure digital dispatch infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "CAPACITY: DATA CENTER TRUCK DRAIN",
+            "nextUpTease": "E-COMMERCE: AMAZON TITLE RESTRICTION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CAPACITY: DATA CENTER TRUCK DRAIN",
+            "heading": "E-COMMERCE: AMAZON TITLE RESTRICTION",
             "points": [
-                "Massive US data center infrastructure projects are consuming significant over-the-road freight capacity, requiring 100,000 truckloads per gigawatt of expansion.",
-                "Specialized flatbed and heavy-haul truck capacity is shifting heavily toward data center construction sites, tightening regional fleet supply.",
-                "Logistics analysts warn that competing industrial projects and AI infrastructure buildouts will exacerbate spot market rate volatility across domestic lanes.",
-                "Supply chain managers must secure dedicated long-term carrier contracts to isolate standard freight operations from industrial capacity drains."
+                "Amazon officially implemented a strict 75-character ceiling on product titles across both third-party seller and direct retail listings.",
+                "Listings exceeding character limits risk search suppression or automated truncation across desktop and mobile storefront interfaces.",
+                "The policy standardization aims to streamline AI recommendation engines and improve mobile search user experience globally.",
+                "Sellers must immediately update catalog metadata to prevent sudden drops in organic search placement and conversion performance."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: DIRECT VIRGINIA CSX SERVICE",
+            "nextUpTease": "PORT TERMINAL: US BOX EXPANSION",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL: DIRECT VIRGINIA CSX SERVICE",
+            "heading": "PORT TERMINAL: US BOX EXPANSION",
             "points": [
-                "The Port of Virginia launched a direct CSX intermodal rail service connecting marine terminals to Indianapolis, completely bypassing traditional Chicago hubs.",
-                "Direct rail routing reduces transit delays, eliminates unnecessary drayage transfers, and lowers total landed transport costs for Midwestern importers.",
-                "Strategic intermodal bypass corridors enhance Midwest import fluidity while relieving chronic rail congestion at major regional interchange yards.",
-                "Logistics directors should integrate direct coastal-to-inland rail options to improve transit reliability and optimize regional inventory placement."
+                "A major ocean carrier finalized a $135M expansion project across its US container terminal to increase total throughput capacity.",
+                "The facility investment upgrades container yard infrastructure to process growing Transpacific import volumes without creating gate bottlenecks.",
+                "Expanded terminal footprints enable faster vessel turnarounds and improved intermodal rail connectivity for regional shippers.",
+                "BCOs and freight forwarders can leverage enhanced gateway throughput to reduce ocean dwell times and drayage congestion."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: LEIPZIG DRONE THREAT",
+            "nextUpTease": "PARCEL FREIGHT: USPS RATE INCREASES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR CARGO: LEIPZIG DRONE THREAT",
+            "heading": "PARCEL FREIGHT: USPS RATE INCREASES",
             "points": [
-                "German authorities launched a counterterrorism investigation after discovering an explosive-laden drone at the major Leipzig/Halle air cargo hub.",
-                "Security agencies issued heightened alert levels across European air freight terminals, enforcing rigorous screening protocols for incoming freight.",
-                "Increased security screening and physical perimeter monitoring across European air hubs threaten to introduce tactical freight handling delays.",
-                "Air cargo forwarders and shippers must factor potential security-related dwell times into high-value time-critical global shipment schedules."
+                "The US Postal Service instituted rate hikes on Ground Advantage parcel services targeting marketplace merchants and high-volume shippers.",
+                "The pricing adjustments include additional regional surcharges of $2 to $3 for lightweight packages routed to rural destination ZIP codes.",
+                "Rising postal surcharges increase final-mile fulfillment expenses for e-commerce brands attempting to maintain flat-rate shipping options.",
+                "E-commerce logistics operators must recalibrate regional carrier mixes and negotiate volume tier discounts to mitigate margin erosion."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: DAIMLER EPA 2027 SHIFT",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY DROPS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EQUIPMENT: DAIMLER EPA 2027 SHIFT",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY DROPS",
             "points": [
-                "Daimler Truck North America committed exclusively to EPA 2027 compliant engine platforms ahead of upcoming stringent federal NOx emissions regulations.",
-                "The OEM strategy aligns commercial fleet manufacturing pipelines with strict environmental standards, driving fleet re-equipment planning.",
-                "Carrier fleets face accelerated vehicle acquisition cycles and higher upfront equipment costs as zero-emission and low-NOx mandates take effect.",
-                "Motor carriers must recalibrate capital expenditure budgets and maintenance workflows to transition smoothly toward EPA 2027 standards."
+                "US industrial real estate vacancy dropped 7 bps sequentially to 7.3% in Q2 2026 as leasing demand surpassed construction completions.",
+                "Tightening warehouse availability across primary distribution markets ends a multi-quarter supply expansion cycle driven by legacy construction pipelines.",
+                "Commercial real estate stabilization signals renewed demand for regional distribution space near strategic inland transport nodes.",
+                "Warehouse operators should lock in long-term lease renewals before tightening supply accelerates regional industrial rent escalation."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]

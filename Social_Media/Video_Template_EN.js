@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE CORRIDOR REALIGNMENT",
+        "hookTitle": "GLOBAL FREIGHT COMPLIANCE OVERHAUL",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: HORMUZ TOLL PROPOSAL",
-                "teaserTitle": "SEMICONDUCTORS: POLYSILICON TARIFF",
+                "headline": "REGULATION: FMC DEMURRAGE RULING",
+                "teaserTitle": "CUSTOMS: SECTION 301 EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Global shipping groups urged UN and IMO action against proposed Hormuz transit tolls. Marine lines face rising operational costs across Middle East routes."
+                "narration_line": "Federal courts upheld FMC rules requiring demurrage fees to promote fluidity. Carriers face audits and $1.9M penalties for illegal billing."
             },
             {
                 "slide_index": 2,
-                "headline": "SEMICONDUCTORS: POLYSILICON TARIFF",
-                "teaserTitle": "LINER SHIPPING: SEALEAD LIQUIDATION",
+                "headline": "CUSTOMS: SECTION 301 EXPANSION",
+                "teaserTitle": "CYBERSECURITY: DATA HACK THEFT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "US officials announced a 15% tariff on imported polysilicon starting Dec 4. Tech supply chains face escalating component costs and valuation audits."
+                "narration_line": "USTR implemented Section 301 forced-labor tariffs across 60 nations. Importers face strict origin mapping and CBP enforcement at borders."
             },
             {
                 "slide_index": 3,
-                "headline": "LINER SHIPPING: SEALEAD LIQUIDATION",
-                "teaserTitle": "CAPACITY: DATA CENTER TRUCK DRAIN",
+                "headline": "CYBERSECURITY: DATA HACK THEFT",
+                "teaserTitle": "E-COMMERCE: AMAZON TITLE RESTRICTION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation following US sanctions on Iranian trade links. Competing ocean carriers rapidly absorbed stranded fleet assets."
+                "narration_line": "A grand jury indicted 8 operatives in a $4.49M cargo theft scheme using hacked data. Cyber threats target dispatch portals."
             },
             {
                 "slide_index": 4,
-                "headline": "CAPACITY: DATA CENTER TRUCK DRAIN",
-                "teaserTitle": "RAIL: DIRECT VIRGINIA CSX SERVICE",
+                "headline": "E-COMMERCE: AMAZON TITLE RESTRICTION",
+                "teaserTitle": "PORT TERMINAL: US BOX EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "US data center construction demands 100K truckloads per gigawatt of expansion. Specialized flatbed capacity is tightening significantly across domestic corridors."
+                "narration_line": "Amazon enforced a 75-character title limit across all listings. Non-compliant SKUs face search suppression across desktop and mobile."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: DIRECT VIRGINIA CSX SERVICE",
-                "teaserTitle": "AIR CARGO: LEIPZIG DRONE THREAT",
+                "headline": "PORT TERMINAL: US BOX EXPANSION",
+                "teaserTitle": "PARCEL FREIGHT: USPS RATE INCREASES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Port of Virginia launched direct CSX rail service to Indianapolis, bypassing Chicago hubs. Direct inland routing reduces transit friction for Midwest importers."
+                "narration_line": "An ocean carrier completed a $135M expansion of its US box terminal. Upgraded infrastructure expands throughput for Transpacific trade."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: LEIPZIG DRONE THREAT",
-                "teaserTitle": "EQUIPMENT: DAIMLER EPA 2027 SHIFT",
+                "headline": "PARCEL FREIGHT: USPS RATE INCREASES",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY DROPS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "An explosive-laden drone found at Leipzig Airport triggered a European counterterror probe. Air cargo hubs face strict security checks and freight dwell delays."
+                "narration_line": "USPS raised Ground Advantage package rates with $2-$3 rural surcharges. E-commerce merchants face escalating final-mile costs."
             },
             {
                 "slide_index": 7,
-                "headline": "EQUIPMENT: DAIMLER EPA 2027 SHIFT",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY DROPS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "DTNA committed exclusively to EPA 2027 compliant engines ahead of strict NOx rules. Motor fleets face accelerated capital planning for compliant equipment."
+                "narration_line": "US industrial warehouse vacancy fell 7 bps to 7.3% in Q2 2026. Leasing demand now outpaces new warehouse construction supply."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point,  Like Share and Follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at momentum point, Like Share and Follow for more."
             }
         ]
     }
