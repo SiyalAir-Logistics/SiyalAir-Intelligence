@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR enforces targeted Section 301 forced-labor duties across 60 trade partners as Section 122 expires."
+        "titleWhite": "SEALEAD LIQUIDATION",
+        "titleBlue": "SANCTIONS",
+        "footerSummary": "US sanctions trigger the immediate liquidation of SeaLead Shipping, forcing global carriers to reassign Asian trade lane assets."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "MARITIME: SEALEAD LIQUIDATION SANCTIONS",
             "points": [
-                "The Office of the United States Trade Representative is implementing forced-labor duties under Section 301 against 60 trading partner nations.",
-                "This regulatory transition coincides directly with the scheduled expiration of existing Section 122 temporary import tariffs.",
-                "Federal customs authorities will increase dockside trade compliance audits to prevent illicit foreign goods from entering domestic supply chains.",
-                "Importers face heightened documentation requirements to demonstrate clear operational proof of supply chain transparency."
+                "Singapore-headquartered container carrier SeaLead Shipping has entered voluntary liquidation following sweeping trade sanctions issued by US authorities.",
+                "The enforcement actions effectively halted the carrier's primary container line operations across Asia, the Middle East, the Mediterranean, and Baltic corridors.",
+                "Competing ocean carriers and tonnage providers are rapidly acquiring operational container vessels and box fleets previously managed by the line.",
+                "Global freight forwarders are rerouting active container bookings to alternative ocean carriers to prevent widespread cargo delays at major hub ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: DATA HACK THEFT RING",
+            "nextUpTease": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
-                "Published: 2026-08-08T06:00:00Z",
+                "Source: https://splash247.com/us-sanctions-push-sealead-shipping-into-liquidation/",
+                "Published: 2026-08-07T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SECURITY: DATA HACK THEFT RING",
+            "heading": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
             "points": [
-                "A federal grand jury indicted 8 individuals involved in a sophisticated cyber fraud scheme that stole $4.49M in commercial retail freight.",
-                "The organized criminal syndicate breached corporate IT databases of legitimate motor carriers to fraudulently re-route valuable freight loads.",
-                "Law enforcement agencies tracked stolen goods through illegal distribution channels spanning multiple domestic retail facilities.",
-                "Freight brokers are rapidly upgrading operational cybersecurity protocols and digital verification workflows to protect high-value cargo assets."
+                "Daimler Truck North America announced plans to construct its largest US commercial truck manufacturing facility to expand heavy-duty vehicle production.",
+                "The new manufacturing plant is scheduled to begin commercial operations in 2029 to supply next-generation Class 8 fleet chassis to domestic carriers.",
+                "The strategic capital expenditure highlights long-term industrial investment in domestic freight capacity despite near-term market rate volatility.",
+                "Motor carriers anticipate enhanced access to updated commercial vehicle fleets as truck OEMs scale domestic assembly capabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: EPA 2027 ENGINE STANDARDS",
+            "nextUpTease": "INFRASTRUCTURE: MEXICO OAXACA INVESTMENT HUB",
             "tags": [
-                "Source: https://www.ttnews.com/articles/grand-jury-indicts-8-cargo-theft",
-                "Published: 2026-08-07T14:00:00Z",
+                "Source: https://www.ttnews.com/articles/dtna-us-truck-plant-2029",
+                "Published: 2026-08-07T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EQUIPMENT: EPA 2027 ENGINE STANDARDS",
+            "heading": "INFRASTRUCTURE: MEXICO OAXACA INVESTMENT HUB",
             "points": [
-                "Daimler Truck North America confirmed it will produce exclusively EPA 2027-compliant heavy-duty diesel engines starting at launch.",
-                "The regulatory shift mandates strict nitrogen oxide emission reductions of over 80% for new commercial Class 8 vehicles.",
-                "Fleet operators are evaluating acquisition strategies to balance higher engine hardware costs against long-term fleet operational compliance.",
-                "Commercial vehicle manufacturers are streamlining assembly line configurations to meet strict federal emissions compliance timelines."
+                "The Mexican government committed $2.2B in federal funds toward major infrastructure projects across the state of Oaxaca to boost logistics capacity.",
+                "The capital infusion focuses on expanding highway networks, rail freight links, and industrial parks supporting nearshoring manufacturing flows.",
+                "Cross-border logistics operators expect the infrastructure enhancements to improve LTL and truckload transit times between southern Mexico and US ports.",
+                "Supply chain executives are evaluating regional manufacturing sites to capitalize on modernized freight corridors and improved regional connectivity."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON TITLE RESTRICTIONS",
+            "nextUpTease": "INSURTECH: SOMPO GPS JAMMING COVERAGE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/dtna-commits-epa-2027-engines",
-                "Published: 2026-08-07T15:30:00Z",
+                "Source: https://www.supplychainbrain.com/articles/40000-mexico-to-invest-22b-in-oaxaca-infrastructure",
+                "Published: 2026-08-07T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "E-COMMERCE: AMAZON TITLE RESTRICTIONS",
+            "heading": "INSURTECH: SOMPO GPS JAMMING COVERAGE",
             "points": [
-                "Amazon began enforcing a strict 75-character ceiling on product listings across third-party sellers and internal retail inventory.",
-                "The catalog policy update automatically suppresses non-compliant product listings from customer search query results.",
-                "E-commerce brands are overhauling listing metadata and product descriptions to maintain search visibility across competitive consumer categories.",
-                "Fulfillment networks expect optimized catalog data to improve warehouse picking accuracy and inventory processing speed."
+                "Japanese insurer Sompo Japan launched the shipping industry's first dedicated insurance coverage targeting economic losses from electronic signal manipulation.",
+                "The financial product provides commercial shipowners indemnification against financial operational losses caused by severe GPS jamming and spoofing.",
+                "Heightened geopolitical conflict across key maritime choke points has significantly increased navigation risks for international commercial fleets.",
+                "Underwriters anticipate strong market adoption as vessel operators seek comprehensive risk management solutions against electronic warfare threats."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIRFREIGHT: LEIPZIG DRONE SECURITY BREACH",
+            "nextUpTease": "SALVAGE: MSC ZHOUSHAN GROUNDING COLLAPSE",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/07/amazon-product-title-policy-2026/",
-                "Published: 2026-08-07T18:00:00Z",
+                "Source: https://splash247.com/sompo-moves-to-close-gps-jamming-insurance-gap/",
+                "Published: 2026-08-07T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIRFREIGHT: LEIPZIG DRONE SECURITY BREACH",
+            "heading": "SALVAGE: MSC ZHOUSHAN GROUNDING COLLAPSE",
             "points": [
-                "German counterterrorism authorities launched an investigation after discovering an explosive-laden drone near Leipzig/Halle Airport.",
-                "The incident targeted a critical European air cargo hub handling major express freight integrators and international air freighter flights.",
-                "Aviation safety officials issued heightened threat advisories and increased perimeter security screening across regional cargo facilities.",
-                "Air freight forwarders are bracing for potential operational handling delays as airport authorities implement stricter security protocols."
+                "The 8,401 TEU containership MSC Silvana VIII settled deeper into maritime waters off Zhoushan following unsuccessful refloating attempts by salvage crews.",
+                "The 20-year-old container vessel remains partially submerged in critical coastal shipping lanes, complicating salvage operations and navigational safety.",
+                "Regional maritime safety authorities established restricted navigation zones around the casualty site to prevent additional maritime collisions.",
+                "Ocean carriers are adjusting local feeder vessel routings around Zhoushan to minimize operational delays across major Chinese port calls."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE: POLYSILICON TARIFF PRICE FLOOR",
+            "nextUpTease": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
             "tags": [
-                "Source: https://theloadstar.com/drone-carrying-explosives-found-at-leipzig-airport/",
-                "Published: 2026-08-07T11:20:00Z",
+                "Source: https://splash247.com/msc-boxship-sinks-deeper-off-zhoushan-after-failed-refloating/",
+                "Published: 2026-08-08T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRADE: POLYSILICON TARIFF PRICE FLOOR",
+            "heading": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
             "points": [
-                "The US administration issued a presidential proclamation establishing a 15% tariff on foreign polysilicon imports.",
-                "The executive order introduces an import price floor effective Dec 4, 2026, targeting solar power and semiconductor supply chains.",
-                "Domestic tech and clean energy manufacturers face immediate cost adjustments for imported raw material inputs.",
-                "Supply chain procurement executives are assessing domestic sourcing alternatives to hedge against rising import tax liabilities."
+                "South Korea announced a strategic partnership with Elegant Exit Company and local recyclers to establish a large-scale green ship recycling facility.",
+                "The initiative aims to build one of Asia's largest environmentally compliant vessel dismantling hubs to process decommissioned commercial ships.",
+                "The development aligns with tightening global maritime environmental regulations governing sustainable vessel disposal and steel recycling standards.",
+                "Maritime shipowners gain access to verified, environmentally sustainable shipbreaking capacity as older commercial tonnage undergoes fleet retirement."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAY: CSX VIRGINIA DIRECT SERVICE",
+            "nextUpTease": "INSURANCE: HORMUZ WAR RISK PAYOUT",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-polysilicon-tariffs-solar-chips/",
-                "Published: 2026-08-07T16:00:00Z",
+                "Source: https://splash247.com/south-korea-makes-play-for-large-scale-ship-recycling/",
+                "Published: 2026-08-07T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAILWAY: CSX VIRGINIA DIRECT SERVICE",
+            "heading": "INSURANCE: HORMUZ WAR RISK PAYOUT",
             "points": [
-                "The Port of Virginia launched direct CSX intermodal rail service connecting ocean shipping terminals directly to Indianapolis.",
-                "The direct rail connection eliminates the requirement for container shipments to route through congested Chicago rail yards.",
-                "Midwest importers gain shortened transit times and reduced drayage trucking expenses across regional supply chain corridors.",
-                "Railroad operators expect the inland route expansion to capture growing containerized freight volume from East Coast ports."
+                "Thai ship operator Precious Shipping received an $11M war risk insurance payout following the complete loss of its bulker Mayuree Naree.",
+                "The vessel was declared a constructive total loss after sustaining severe structural damage from two projectile strikes in the Strait of Hormuz.",
+                "The financial settlement demonstrates the immediate operational exposure commercial fleets face while navigating volatile conflict zones in the Middle East.",
+                "Marine underwriters are adjusting war risk premium surcharges and coverage terms for bulk cargo vessels operating near high-risk maritime straits."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-indianapolis/",
-                "Published: 2026-08-07T13:40:00Z",
+                "Source: https://maritime-executive.com/article/war-risk-insurance-pays-11m-for-loss-of-mayuree-naree",
+                "Published: 2026-08-07T12:40:00Z",
                 "Status: Audited & True"
             ]
         }

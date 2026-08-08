@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR ENFORCES FORCED LABOR TARIFFS ACROSS 60 NATIONS",
+        "hookTitle": "SEALEAD LIQUIDATION SANCTIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "SECURITY: DATA HACK THEFT RING",
+                "headline": "MARITIME: SEALEAD LIQUIDATION SANCTIONS",
+                "teaserTitle": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR implemented Section 301 forced-labor tariffs against 60 trade partners as Section 122 duties expire. Customs officials will enforce strict compliance audits on incoming shipments."
+                "narration_line": "US sanctions forced SeaLead Shipping into immediate voluntary liquidation, abruptly halting main container line services. Freight forwarders are transferring active bookings to alternative ocean carriers to prevent supply chain bottlenecks."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: DATA HACK THEFT RING",
-                "teaserTitle": "EQUIPMENT: EPA 2027 ENGINE STANDARDS",
+                "headline": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
+                "teaserTitle": "INFRASTRUCTURE: MEXICO OAXACA INVESTMENT HUB",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A federal grand jury indicted 8 individuals in a cyber fraud scheme that stole $4.49M in retail goods. Criminals breached carrier databases to intercept high-value commercial shipments."
+                "narration_line": "Daimler Truck North America confirmed plans to construct its largest US assembly plant by 2029. Commercial fleet operators expect the facility to expand domestic production for Class 8 heavy-duty vehicles."
             },
             {
                 "slide_index": 3,
-                "headline": "EQUIPMENT: EPA 2027 ENGINE STANDARDS",
-                "teaserTitle": "E-COMMERCE: AMAZON TITLE RESTRICTIONS",
+                "headline": "INFRASTRUCTURE: MEXICO OAXACA INVESTMENT HUB",
+                "teaserTitle": "INSURTECH: SOMPO GPS JAMMING COVERAGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Daimler Truck North America committed exclusively to EPA 2027 engines to meet new federal emissions standards. The mandate reduces nitrogen oxide emissions by over 80% for Class 8 trucks."
+                "narration_line": "Mexico committed $2.2B in public investment to upgrade freight infrastructure across the state of Oaxaca. Cross-border motor carriers expect improved highway corridors to streamline LTL transit times into domestic US markets."
             },
             {
                 "slide_index": 4,
-                "headline": "E-COMMERCE: AMAZON TITLE RESTRICTIONS",
-                "teaserTitle": "AIRFREIGHT: LEIPZIG DRONE SECURITY BREACH",
+                "headline": "INSURTECH: SOMPO GPS JAMMING COVERAGE",
+                "teaserTitle": "SALVAGE: MSC ZHOUSHAN GROUNDING COLLAPSE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Amazon enforced a 75-character limit on all product listing titles across its digital retail platform. Non-compliant items face immediate suppression from automated search engine results."
+                "narration_line": "Sompo Japan launched the maritime sector's first specialized insurance policy covering financial losses from GPS jamming attacks. Commercial shipowners are adopting the coverage to hedge operational risks in active conflict zones."
             },
             {
                 "slide_index": 5,
-                "headline": "AIRFREIGHT: LEIPZIG DRONE SECURITY BREACH",
-                "teaserTitle": "TRADE: POLYSILICON TARIFF PRICE FLOOR",
+                "headline": "SALVAGE: MSC ZHOUSHAN GROUNDING COLLAPSE",
+                "teaserTitle": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "German authorities opened a counterterrorism investigation after an explosive drone was discovered at Leipzig Airport. Cargo security protocols were immediately heightened across major European freight hubs."
+                "narration_line": "The 8,401 TEU containership MSC Silvana VIII sank deeper off Zhoushan following unsuccessful refloating attempts. Maritime safety authorities established emergency exclusion zones around the casualty to protect regional vessel traffic."
             },
             {
                 "slide_index": 6,
-                "headline": "TRADE: POLYSILICON TARIFF PRICE FLOOR",
-                "teaserTitle": "RAILWAY: CSX VIRGINIA DIRECT SERVICE",
+                "headline": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
+                "teaserTitle": "INSURANCE: HORMUZ WAR RISK PAYOUT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The US administration imposed a 15% tariff and price floor on polysilicon imports starting Dec 4, 2026. Solar and semiconductor manufacturers must restructure raw material supply chains to manage costs."
+                "narration_line": "South Korea partnered with Elegant Exit Company to establish a large-scale green ship recycling hub. Ocean carriers gain access to environmentally compliant vessel dismantling capacity to meet strict global environmental standards."
             },
             {
                 "slide_index": 7,
-                "headline": "RAILWAY: CSX VIRGINIA DIRECT SERVICE",
+                "headline": "INSURANCE: HORMUZ WAR RISK PAYOUT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Port of Virginia partnered with CSX to launch direct intermodal rail service to Indianapolis. The direct link bypasses Chicago rail yards to accelerate Midwest freight movement."
+                "narration_line": "Precious Shipping received an $11M war risk insurance settlement after its bulker Mayuree Naree was destroyed in Hormuz. Underwriters are adjusting war risk surcharges for commercial vessels operating in Middle East waterways."
             },
             {
                 "slide_index": 8,
