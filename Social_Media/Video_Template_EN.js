@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL TRADE COMPLIANCE SHIFTS",
+        "hookTitle": "GLOBAL FREIGHT CAPACITY REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "AMAZON: PRODUCT TITLE RESTRICTION",
+                "headline": "TRADE: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "MARITIME: SEALEAD VOLUNTARY LIQUIDATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR enforced Section 301 tariffs on 60 nations as Section 122 expires. Importers face strict origin audits across global trade lanes."
+                "narration_line": "US imposes 15% tariffs on imported polysilicon starting Dec 4, reshaping solar and semiconductor procurement pipelines."
             },
             {
                 "slide_index": 2,
-                "headline": "AMAZON: PRODUCT TITLE RESTRICTION",
-                "teaserTitle": "SECURITY: RETAIL CARGO THEFT RING",
+                "headline": "MARITIME: SEALEAD VOLUNTARY LIQUIDATION",
+                "teaserTitle": "RAIL: VIRGINIA CSX INDIANAPOLIS LINK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Amazon limited product titles to 75 characters max across all inventory. Automated tools must truncate listings to avoid immediate catalog suppression."
+                "narration_line": "Ocean line SeaLead Shipping enters voluntary liquidation, forcing shippers to quickly reroute containerized freight across global routes."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: RETAIL CARGO THEFT RING",
-                "teaserTitle": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+                "headline": "RAIL: VIRGINIA CSX INDIANAPOLIS LINK",
+                "teaserTitle": "EQUIPMENT: DTNA ZERO-EMISSION TRUCK PLANT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A grand jury indicted 8 suspects in a $4.49M retail cargo theft ring. Cyber criminals hacked carrier dispatch software to divert freight."
+                "narration_line": "Port of Virginia and CSX open direct intermodal rail to Indianapolis, bypassing Chicago bottlenecks to accelerate Midwest freight."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
-                "teaserTitle": "WAREHOUSING: DC INVENTORY DRONE FLIGHTS",
+                "headline": "EQUIPMENT: DTNA ZERO-EMISSION TRUCK PLANT",
+                "teaserTitle": "FINANCE: RETAIL TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Iran and Oman proposed transit fees for the Strait of Hormuz. Global maritime groups urged UN intervention against waterway tolls."
+                "narration_line": "DTNA commits to EPA 2027 engine rules and plans its largest US truck manufacturing facility to meet future fleet demands."
             },
             {
                 "slide_index": 5,
-                "headline": "WAREHOUSING: DC INVENTORY DRONE FLIGHTS",
-                "teaserTitle": "ACQUISITIONS: EBAY DEPOP FASHION DEAL",
+                "headline": "FINANCE: RETAIL TARIFF REFUND MONETIZATION",
+                "teaserTitle": "INFRASTRUCTURE: DATA CENTER FREIGHT CRUNCH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "GNC deployed inventory counting drones across a 450K sq ft facility. Autonomous aerial scanners eliminate manual cycle counts to boost accuracy."
+                "narration_line": "Retailers sell rights to potential federal tariff refunds on secondary markets to gain immediate liquidity amid high trade costs."
             },
             {
                 "slide_index": 6,
-                "headline": "ACQUISITIONS: EBAY DEPOP FASHION DEAL",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+                "headline": "INFRASTRUCTURE: DATA CENTER FREIGHT CRUNCH",
+                "teaserTitle": "INVENTORY: STARBUCKS REPLENISHMENT OVERHAUL",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "eBay completed its $1.4B purchase of fashion marketplace Depop from Etsy. The deal unifies cross-border C2C logistics infrastructure across global channels."
+                "narration_line": "Rapid AI data center expansion demands 100K truckloads per gigawatt, tightening US truck capacity and raising freight yields."
             },
             {
                 "slide_index": 7,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+                "headline": "INVENTORY: STARBUCKS REPLENISHMENT OVERHAUL",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "US industrial vacancy stabilized at 7.3% as leasing demand topped new supply. Shippers must secure fulfillment space before warehouse availability tightens."
+                "narration_line": "Starbucks targets 24-hour store inventory replenishment, pivoting back to core logistics after ending a 9-month AI tool trial."
             },
             {
                 "slide_index": 8,

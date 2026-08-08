@@ -1,73 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE COMPLIANCE",
-        "titleBlue": "SHIFTS",
-        "footerSummary": "New Section 301 tariffs, Amazon title caps, cyber cargo theft rings, and Hormuz transit fee risks trigger rapid global supply chain realignments."
+        "titleWhite": "GLOBAL FREIGHT CAPACITY",
+        "titleBlue": "REALIGNMENT",
+        "footerSummary": "New polysilicon tariffs, SeaLead liner liquidation, data center capacity squeezes, and tariff refund sales trigger major global trade shifts."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFFS",
+            "heading": "TRADE: POLYSILICON IMPORT TARIFFS",
             "points": [
-                "The Office of the US Trade Representative initiated new forced labor tariffs covering 60 trading nations under Section 301.",
-                "The regulatory measure fills the compliance gap created as temporary Section 122 tariffs expire across international trade lanes.",
-                "Global supply chains face heightened customs audits and origin verification requirements on goods sourced from targeted markets.",
-                "Importers must strengthen tier-one supply chain traceability to prevent costly port detentions and unexpected duty penalties."
+                "The US federal government issued a proclamation levying a 15% tariff and establishing import price floors on global polysilicon supplies.",
+                "The regulatory measure targets solar power components and semiconductor inputs, forcing importers to re-evaluate domestic production feasibility before Dec 4.",
+                "Supply chain networks face immediate procurement cost escalation across clean energy and technology manufacturing sectors.",
+                "Importers must restructure international procurement pipelines to avoid heavy margin erosion and compliance penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON: PRODUCT TITLE RESTRICTION",
+            "nextUpTease": "MARITIME: SEALEAD VOLUNTARY LIQUIDATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AMAZON: PRODUCT TITLE RESTRICTION",
+            "heading": "MARITIME: SEALEAD VOLUNTARY LIQUIDATION",
             "points": [
-                "Amazon enforced a mandatory 75-character ceiling on product listing titles across both third-party and internal brand inventories.",
-                "The platform restriction forces full compliance across millions of active ASINs to standardize catalog indexing and search display.",
-                "E-commerce logistics networks and automated catalog tools must instantly truncate product descriptors to avoid suppression.",
-                "Brand merchants need to optimize front-loaded keywords immediately to preserve organic search conversion and sales velocity."
+                "Ocean carrier SeaLead Shipping entered voluntary liquidation, ending all container services between Asia, the Middle East, and Europe.",
+                "Competing ocean liners are rapidly acquiring available tonnage and container box assets released by SeaLead's sudden exit.",
+                "Shippers on affected trade corridors face immediate freight rerouting requirements to secure alternative vessel capacity.",
+                "Logistics planners must closely monitor ocean carrier solvency to prevent supply chain disruptions during peak shipping periods."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: RETAIL CARGO THEFT RING",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "SECURITY: RETAIL CARGO THEFT RING",
-            "points": [
-                "A federal grand jury indicted eight individuals for executing a $4.49M retail cargo theft ring using intercepted freight data.",
-                "Cyber criminals hacked legitimate carrier logistics portals to orchestrate unauthorized high-value shipment pickups.",
-                "The case highlights critical digital vulnerabilities in carrier dispatch software and freight tracking databases nationwide.",
-                "Logistics operators must enforce multi-factor authentication across all freight dispatch platforms to safeguard physical cargo."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
-            "points": [
-                "Iran and Oman advanced bilateral discussions regarding potential transit fee frameworks for commercial shipping in the Strait of Hormuz.",
-                "Global maritime bodies urged the UN and IMO to intervene against any proposed tolls on international waterway routes.",
-                "Unilateral transit tariffs would severely increase landed shipping expenses across major Middle Eastern trade corridors.",
-                "Ocean carriers and freight forwarders are evaluating alternative routing models to insulate cargo flows from unexpected waterway surcharges."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "WAREHOUSING: DC INVENTORY DRONE FLIGHTS",
+            "nextUpTease": "RAIL: VIRGINIA CSX INDIANAPOLIS LINK",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -75,52 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "WAREHOUSING: DC INVENTORY DRONE FLIGHTS",
+            "id": 3,
+            "heading": "RAIL: VIRGINIA CSX INDIANAPOLIS LINK",
             "points": [
-                "GNC deployed fully autonomous inventory counting drones across its 450K sq ft distribution center network.",
-                "Automated aerial scans replace manual cycle counting workflows, vastly speeding up real-time inventory reconciliation.",
-                "Distribution hubs are adopting physical AI and autonomous robotics to counter persistent warehouse labor shortages.",
-                "Supply chain managers should integrate aerial data scanning to boost order fulfillment accuracy and lower operational overhead."
+                "The Port of Virginia partnered with CSX to establish direct intermodal rail service linking east coast terminals to Indianapolis.",
+                "The direct rail connection bypasses heavily congested Chicago interchange yards, cutting transit times and drayage fees for Midwest importers.",
+                "Midwestern distribution networks gain expanded ocean freight routing options through efficient mid-Atlantic port access.",
+                "Logistics managers should leverage regional rail bypass options to optimize inland transportation lead times."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACQUISITIONS: EBAY DEPOP FASHION DEAL",
+            "nextUpTease": "EQUIPMENT: DTNA ZERO-EMISSION TRUCK PLANT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "EQUIPMENT: DTNA ZERO-EMISSION TRUCK PLANT",
+            "points": [
+                "Daimler Truck North America confirmed exclusive compliance with upcoming EPA 2027 emissions standards for its engine line.",
+                "DTNA announced plans to construct its largest US commercial truck manufacturing plant to support next-generation fleet production by 2029.",
+                "Fleet operators face capital allocation decisions as truck manufacturers transition to strict low-emission powertrain options.",
+                "Carriers must align fleet replacement schedules with evolving federal emissions regulations and production timelines."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FINANCE: RETAIL TARIFF REFUND MONETIZATION",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "FINANCE: RETAIL TARIFF REFUND MONETIZATION",
+            "points": [
+                "Major retail brands are monetizing potential federal tariff refunds by selling claims on secondary financial markets.",
+                "The secondary market enables cash-strapped retailers to access immediate working capital rather than waiting years for federal customs payouts.",
+                "Supply chain finance teams are adopting novel liquidity strategies to offset macroeconomic pressures and elevated trade costs.",
+                "Shippers should evaluate secondary liquidity mechanisms to unlock balance sheet capital tied up in regulatory duty disputes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "INFRASTRUCTURE: DATA CENTER FREIGHT CRUNCH",
+            "tags": [
+                "Source: https://www.retaildive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ACQUISITIONS: EBAY DEPOP FASHION DEAL",
+            "heading": "INFRASTRUCTURE: DATA CENTER FREIGHT CRUNCH",
             "points": [
-                "eBay officially completed its $1.4B acquisition of fashion marketplace Depop from Etsy following UK regulatory clearance.",
-                "The transaction consolidates second-hand apparel logistics assets under eBay to expand its cross-border commerce scale.",
-                "Etsy secured substantial cash capital from the divestment while laying off 200 staff to refine core operational focus.",
-                "Marketplace sellers must prepare for unified C2C shipping infrastructure and updated operational policies across the platform."
+                "Expanding AI data center construction requires approximately 100K truckloads per gigawatt, consuming heavy regional freight capacity.",
+                "Specialized transportation equipment and flatbed capacity are being diverted from standard industrial freight to tech infrastructure sites.",
+                "Air freight forwarders and land transport providers are experiencing yield surges driven by high-priority tech equipment movements.",
+                "Industrial shippers must secure long-term dedicated trucking capacity to protect against capacity squeezes from tech construction."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+            "nextUpTease": "INVENTORY: STARBUCKS REPLENISHMENT OVERHAUL",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+            "heading": "INVENTORY: STARBUCKS REPLENISHMENT OVERHAUL",
             "points": [
-                "Colliers reported US industrial real estate vacancy stabilized at 7.3% as leasing demand outpaced new warehouse completions.",
-                "The 7-basis-point sequential vacancy drop indicates supply chain space supply is rebalancing across primary logistics markets.",
-                "Distribution operators are absorbing legacy spec space while construction starts hit multi-year lows across North America.",
-                "Shippers seeking strategically located regional fulfillment nodes should lock in long-term lease terms before rates climb."
+                "Starbucks initiated a strategic operational shift targeting a 24-hour inventory replenishment model across its retail store network.",
+                "The operational transition follows the discontinuation of an AI-powered inventory tool that failed to meet performance expectations after 9 months.",
+                "Distribution networks are refining core logistics processes to improve store inventory availability and eliminate stockouts.",
+                "Retail supply chain leaders are re-emphasizing practical logistics execution over unproven artificial intelligence software tools."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
