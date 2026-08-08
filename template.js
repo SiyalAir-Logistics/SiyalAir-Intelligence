@@ -1,22 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DATA CENTER FREIGHT",
-        "titleBlue": "SURGE",
-        "footerSummary": "Surging infrastructure demand and terminal bottlenecks create severe capacity constraints across intermodal and highway transport networks."
+        "titleWhite": "GLOBAL FREIGHT CAPACITY",
+        "titleBlue": "CRUNCH",
+        "footerSummary": "Escalating maritime sanctions, strict carrier liquidations, and surging infrastructure project demands compress global transport capacity and elevate operational costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "INFRASTRUCTURE: DATA CENTER TRUCKLOADS",
+            "heading": "MARITIME: SEALEAD LIQUIDATION",
             "points": [
-                "Massive artificial intelligence data center expansion initiatives require an estimated 100K truckloads for every single gigawatt of power growth.",
-                "Specialized over-the-road carriers are actively reallocating flatbed assets toward high-yield tech construction projects across the country.",
-                "This industrial freight surge competes directly with traditional manufacturing for scarce commercial transport equipment and specialized drivers.",
-                "Supply chain directors must secure multi-lane dedicated capacity agreements early to insulate operations against anticipated regional rate spikes."
+                "Singapore-registered container liner SeaLead Shipping has entered voluntary liquidation following crippling international trade sanctions.",
+                "The sudden market exit instantly removes critical route capacity across active Asia-Middle East and Mediterranean service loops.",
+                "Competing ocean carriers have moved swiftly to absorb remaining vessel assets and stranded customer box inventories.",
+                "Importers utilizing affected trade lanes must secure alternative slot allocations immediately to prevent multi-week supply chain halts."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: SUMMER IMPORT PEAK",
+            "nextUpTease": "TRUCKING: CAPACITY CONSTRAINTS",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "TRUCKING: CAPACITY CONSTRAINTS",
+            "points": [
+                "Massive artificial intelligence data center developments across the United States demand nearly 100K truckloads per gigawatt.",
+                "Specialized flatbed transport providers are aggressively shifting equipment away from standard retail freight to capture high-yield tech contracts.",
+                "The concentrated equipment drain creates severe regional over-the-road deficits for traditional industrial shippers nationwide.",
+                "Logistics managers must lock in dedicated multi-lane capacity agreements early to avoid severe rate spikes and hauling delays."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PORTS: EARLY PEAK SURGE",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: Last 24-48 Hours",
@@ -24,16 +41,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "PORTS: SUMMER IMPORT PEAK",
+            "id": 3,
+            "heading": "PORTS: EARLY PEAK SURGE",
             "points": [
-                "National Retail Federation data highlights that summer monthly container imports are hitting their highest structural volume levels since 2022.",
-                "An accelerated peak shipping season has pulled traditional cargo surges forward, compressing standard inventory replenishment timelines.",
-                "Major import gateways are experiencing heightened container dwell times as terminal operators manage intense year-end cargo influxes.",
-                "Supply chain planners should adjust distribution schedules now to avoid regional port congestion bottlenecks heading into autumn."
+                "National Retail Federation data reveals that summer monthly import volumes have reached their highest levels since 2022.",
+                "An aggressive early peak shipping season has compressed traditional inventory replenishment windows and strained terminal operations.",
+                "Major import hubs are experiencing elevated container dwell times as terminal operators manage intense cargo surges.",
+                "Supply chain planners should adjust distribution and warehousing schedules now to circumvent impending regional port congestion."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD LIQUIDATION",
+            "nextUpTease": "LEGAL: VICARIOUS LIABILITY",
             "tags": [
                 "Source: https://www.dcvelocity.com",
                 "Published: Last 24-48 Hours",
@@ -41,67 +58,50 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MARITIME: SEALEAD LIQUIDATION",
-            "points": [
-                "Singapore-registered ocean carrier SeaLead Shipping has entered voluntary liquidation, ceasing all container line services immediately.",
-                "The sudden market exit disrupts established shipping routes connecting Asia with the Middle East, the Mediterranean, and the Baltic.",
-                "Competing ocean carriers and container lessors are swiftly absorbing the stranded vessels and empty boxes left behind by the collapse.",
-                "Importers relying on affected maritime corridors must rebook cargo allocations urgently to prevent prolonged port storage and transit delays."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RIVER: RHINE WATER LEVELS",
-            "tags": [
-                "Source: https://www.theloadstar.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 4,
-            "heading": "RIVER: RHINE WATER LEVELS",
+            "heading": "LEGAL: VICARIOUS LIABILITY",
             "points": [
-                "Record-low water levels on the Rhine River are heavily restricting cargo access and barge payload capacity across industrial Germany.",
-                "Barging constraints are forcing logistics operators to shift volume onto already strained road and rail freight alternatives.",
-                "The modal shift is driving up inland transport rates and increasing raw material supply pressures for European manufacturers.",
-                "Logistics managers must establish multi-modal contingency plans to maintain continuous freight flow through European industrial zones."
+                "Recent landmark court rulings, including the high-profile Montgomery verdict, have introduced massive legal risks for freight brokers.",
+                "Brokers and third-party logistics providers now face severe vicarious liability exposure resulting from carrier safety violations.",
+                "Industry leaders are aggressively overhauling vetting protocols to eliminate negligent hiring claims across brokerage networks.",
+                "Transportation legal teams must implement rigorous carrier compliance screening to shield corporate balance sheets from nuclear verdicts."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEOPOLITICAL: HORMUZ TRANSIT TOLLS",
+            "nextUpTease": "RAILWAY: INDIANA EXPANSION",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.freightwaves.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GEOPOLITICAL: HORMUZ TRANSIT TOLLS",
+            "heading": "RAILWAY: INDIANA EXPANSION",
             "points": [
-                "International shipping associations are urging the UN and IMO to intervene against proposed vessel transit tolls in the Strait of Hormuz.",
-                "Emerging talks between regional actors regarding new maritime arrangements threaten to impose costly fees on vital energy corridors.",
-                "Persistent geopolitical tensions in the Middle East continue to inject severe volatility into global maritime and air freight markets.",
-                "Energy and freight planners must account for rising voyage overheads and potential security surcharges when budgeting ocean routes."
+                "The Port of Virginia has successfully established direct CSX intermodal rail services linking shipments straight into Indianapolis.",
+                "Containers bypass notoriously congested Chicago interchange yards, significantly streamlining Midwest freight distribution corridors.",
+                "The direct rail link eliminates costly secondary drayage trucking steps and reduces overall cargo transit times.",
+                "Midwest importers should transition cargo flows to the new rail corridor to optimize transit efficiency and lower overhead."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: CARGO THEFT INDICTMENTS",
+            "nextUpTease": "EQUIPMENT: TRUCK MANUFACTURING",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATORY: CARGO THEFT INDICTMENTS",
+            "heading": "EQUIPMENT: TRUCK MANUFACTURING",
             "points": [
-                "A federal grand jury has indicted 8 individuals in connection with a sophisticated $4.49M retail cargo theft ring utilizing hacked data.",
-                "The criminal syndicate operated across multiple states, exploiting compromised corporate credentials to hijack high-value commercial shipments.",
-                "Supply chain security teams face escalating threats from digital breaches that bypass physical perimeter defenses in transit networks.",
-                "Shippers and brokers must enforce rigorous digital verification protocols to protect carrier onboarding and prevent cyber-enabled theft."
+                "Daimler Trucks North America has committed to building its largest US manufacturing plant, slated to open by 2029.",
+                "The massive industrial expansion aims to modernize commercial vehicle production and prepare fleets for strict EPA 2027 mandates.",
+                "Fleet operators face rising equipment replacement costs as manufacturers retool assembly lines for advanced low-emission engines.",
+                "Carriers must plan long-term capital expenditure cycles carefully to absorb incoming commercial vehicle pricing adjustments."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION: ROBOTIC SHIPBUILDING",
+            "nextUpTease": "AIR CARGO: MARKET VOLATILITY",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: Last 24-48 Hours",
@@ -110,17 +110,17 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "AUTOMATION: ROBOTIC SHIPBUILDING",
+            "heading": "AIR CARGO: MARKET VOLATILITY",
             "points": [
-                "GrayMatter and Path Robotics have announced a strategic partnership to introduce advanced robotic welding to heavy ship manufacturing.",
-                "The integration of automated industrial welding addresses persistent skilled labor shortages within domestic maritime construction yards.",
-                "Technology deployments aim to accelerate vessel production cycles and enhance structural precision for commercial shipbuilding fleets.",
-                "Maritime operators should monitor manufacturing automation rollouts to gauge future delivery timelines for heavy commercial tonnage."
+                "Persistent geopolitical conflicts in the Middle East continue to inject severe rate volatility into global air cargo markets.",
+                "Simultaneously, high-value artificial intelligence hardware shipments are driving extraordinary volume growth on Transpacific air routes.",
+                "Airlines are prioritizing high-yield tech cargo to offset declining spot rates across traditional consumer goods sectors.",
+                "Freight forwarders must secure fixed block-space agreements proactively to navigate tightening international air capacity."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
