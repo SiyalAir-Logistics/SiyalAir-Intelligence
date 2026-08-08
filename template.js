@@ -1,22 +1,90 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GLOBAL TRADE TARIFF",
+        "titleWhite": "GLOBAL FREIGHT RATE",
         "titleBlue": "RESTRUCTURING",
-        "footerSummary": "New punitive Section 301 tariffs, trade policy shifts, and capacity constraints accelerate multi-region supply chain realignment and structural adaptations."
+        "footerSummary": "Strait of Hormuz transit negotiations, new manufacturing plant commitments, and strict regulatory enforcement reshape international supply chain corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 EXPANSION",
+            "heading": "HORMUZ: TRANSIT NEGOTIATIONS",
             "points": [
-                "The Office of the United States Trade Representative is moving forward with sweeping tariffs on 60 trading partners under Section 301.",
-                "This aggressive trade policy action aims to penalize foreign nations over persistent forced labor practices and unfair trade imbalances.",
-                "Importers must rapidly reassess global sourcing footprints to mitigate escalating duty exposures across multiple key supply corridors.",
-                "Supply chain leaders should audit vendor compliance tiers immediately to avoid severe customs clearance delays and unexpected costs."
+                "Global shipping organizations are urging international bodies to oppose proposed transit fees within the critical Strait of Hormuz gateway.",
+                "Recent diplomatic discussions between regional entities have raised severe concerns regarding maritime toll structures and energy supply stability.",
+                "Uncertainty surrounding trade route access continues to drive market volatility across international petroleum and maritime shipping channels.",
+                "Logistics operators must formulate contingency routing strategies immediately to insulate supply chains against potential transit disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "POLYSILICON: TARIFF AND PRICE FLOOR",
+            "nextUpTease": "MANUFACTURING: PLANT EXPANSION",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "MANUFACTURING: PLANT EXPANSION",
+            "points": [
+                "Daimler Trucks North America has committed to establishing its largest U.S. manufacturing facility to meet future heavy-duty vehicle demand.",
+                "The multi-million dollar infrastructure investment aligns with upcoming emissions standards and evolving commercial equipment requirements.",
+                "Expanded domestic production capabilities will help stabilize commercial truck availability for regional distribution networks.",
+                "Fleet operators should coordinate vehicle replacement schedules closely with OEM production milestones to secure critical asset allocations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "REGULATION: SAFETY BLITZES",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "REGULATION: SAFETY BLITZES",
+            "points": [
+                "Recent commercial vehicle enforcement sweeps across multiple states have sidelined numerous non-compliant drivers and unsafe transport units.",
+                "Regulatory authorities are intensifying roadside inspections to enforce strict federal safety compliance and driver qualification mandates.",
+                "Increased regulatory oversight directly impacts over-the-road capacity by removing substandard equipment from active commercial service.",
+                "Shippers must vet motor carrier safety scores proactively to prevent unexpected transit delays caused by roadside enforcement actions."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME: DETENTION FEES",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MARITIME: DETENTION FEES",
+            "points": [
+                "The U.S. Court of Appeals has upheld a vital Federal Maritime Commission decision regarding container detention fee enforcement standards.",
+                "The legal ruling reinforces that demurrage and detention charges must actively promote cargo fluidity across marine terminal networks.",
+                "Ocean carriers and terminal operators face heightened scrutiny regarding billing practices and dispute resolution procedures.",
+                "Importers should leverage updated FMC guidelines to audit terminal invoices and recover unwarranted container storage penalty fees."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "REAL ESTATE: VACANCY STABILIZATION",
+            "tags": [
+                "Source: https://www.fmc.gov",
+                "Published: Last 24-48 Hours",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "REAL ESTATE: VACANCY STABILIZATION",
+            "points": [
+                "Colliers reported that the national industrial real estate vacancy rate shifted slightly to 7.3% amid moderating new construction deliveries.",
+                "The slight quarterly adjustment indicates a healthier balance between warehouse supply and sustained commercial tenant demand.",
+                "Logistics real estate markets are demonstrating increased equilibrium after years of rapid speculative development and extreme absorption.",
+                "Distribution center planners should reevaluate facility leasing strategies to capitalize on stabilizing regional industrial rental rates."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LABOR: COMPENSATION TRENDS",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
@@ -24,103 +92,35 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
-            "heading": "POLYSILICON: TARIFF AND PRICE FLOOR",
-            "points": [
-                "President Trump imposed a strict 15% tariff alongside a mandatory import price floor on all inbound polysilicon material shipments.",
-                "The federal levy targets vital raw components utilized heavily in semiconductor chip manufacturing and utility-scale solar power generation.",
-                "Scheduled to take effect on Dec 4, the proclamation will reshape procurement economics for technology hardware builders.",
-                "Clean energy manufacturers must diversify component suppliers rapidly to prevent severe margin erosion from incoming import restrictions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DATA CENTER: CAPACITY PRESSURES",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "DATA CENTER: CAPACITY PRESSURES",
-            "points": [
-                "Surging artificial intelligence infrastructure development requires nearly 100K truckloads for every single gigawatt of power expansion.",
-                "Specialized over-the-road transport providers are aggressively diverting flatbed assets toward high-yield tech construction projects nationwide.",
-                "The massive industrial freight demand competes directly with traditional manufacturing for scarce commercial transport equipment.",
-                "Logistics directors must secure multi-lane dedicated capacity agreements early to insulate operations against anticipated rate spikes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PORTS: EARLY PEAK SURGE",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "PORTS: EARLY PEAK SURGE",
-            "points": [
-                "National Retail Federation data indicates that summer monthly imports will hit their highest structural volume levels since 2022.",
-                "An accelerated peak shipping season has pulled traditional cargo surges forward, compressing standard inventory replenishment timelines.",
-                "Major import hubs are experiencing heightened container dwell times as terminal operators manage intense year-end cargo influxes.",
-                "Supply chain planners should adjust distribution schedules now to avoid regional port congestion bottlenecks heading into September."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RAILWAY: CSX SERVICE EXPANSION",
-            "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "RAILWAY: CSX SERVICE EXPANSION",
-            "points": [
-                "The Port of Virginia officially integrated direct CSX rail freight services connecting seamlessly into the Indiana regional market.",
-                "Containers can now move by rail directly to destination hubs without routing through congested Chicago interchange yards.",
-                "The intermodal enhancement significantly reduces transit days and eliminates costly secondary drayage trucking expenses.",
-                "Midwest importers should pivot to the newly established rail corridors to optimize transit times and lower freight overhead."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PROCUREMENT: INVENTORY REPLENISHMENT",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: Last 24-48 Hours",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "PROCUREMENT: INVENTORY REPLENISHMENT",
+            "heading": "LABOR: COMPENSATION TRENDS",
             "points": [
-                "Starbucks announced an aggressive corporate target to enforce 24-hour inventory replenishment across its retail store network.",
-                "The operational shift follows the enterprise decision to sunset its previous artificial intelligence inventory platform after testing.",
-                "Streamlined inventory controls aim to eliminate stockouts while maintaining lean distribution center holding requirements.",
-                "Retail logistics managers must synchronize regional warehouse fulfillment speeds with demanding daily store replenishment metrics."
+                "Logistics Management\u2019s latest survey highlights supply chain salaries rebounding as professionals assume broader strategic enterprise responsibilities.",
+                "Modern operational leadership increasingly demands deep technical proficiency across risk management, automation, and data analytics.",
+                "Organizations are investing heavily in qualified supply chain talent to navigate ongoing global trade and compliance complexities.",
+                "Human resources directors must benchmark competitive compensation packages to attract specialized logistics talent in a tightening market."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: MARKET VOLATILITY",
+            "nextUpTease": "ECOMMERCE: TITLE POLICIES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: MARKET VOLATILITY",
+            "heading": "ECOMMERCE: TITLE POLICIES",
             "points": [
-                "Ongoing geopolitical tensions in the Middle East continue to drive severe market volatility across global air freight sectors.",
-                "Concurrently, high-value artificial intelligence hardware shipments are fueling extraordinary volume growth on Transpacific air routes.",
-                "Airlines and forwarders are capitalizing on premium tech yields to offset declining spot rates on standard consumer goods.",
-                "Cargo charter planners must secure block-space agreements proactively to navigate tightening air capacity constraints through H2."
+                "Amazon has officially enforced strict product title length limitations across all marketplace and internal seller inventory catalogs.",
+                "The updated listing parameters are designed to improve search relevance and mobile user experience for digital retail consumers.",
+                "Third-party merchants must restructure product data feeds rapidly to maintain optimal search visibility and prevent catalog suppression.",
+                "E-commerce logistics managers should audit digital storefront assets immediately to ensure full compliance with updated platform rules."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: Last 24-48 Hours",
                 "Status: Audited & True"
             ]
