@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CRITICAL GLOBAL LOGISTICS SHIFTS",
+        "hookTitle": "GLOBAL TRADE DISRUPTION RISKS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: POLYSILICON IMPORT DUTIES",
-                "teaserTitle": "INTERMODAL: DIRECT INDIANAPOLIS RAIL",
+                "headline": "CUSTOMS: SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "MARITIME: STRAIT OF HORMUZ TOLLS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The U.S. imposed a 15% tariff on polysilicon imports starting Dec 4. High-tech supply chains face immediate sourcing disruptions."
+                "narration_line": "USTR rolled out Section 301 tariffs on 60 nations to target forced labor. Importers must audit supply origins to avoid steep customs penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "INTERMODAL: DIRECT INDIANAPOLIS RAIL",
-                "teaserTitle": "MARITIME: SEALEAD CONTAINER LIQUIDATION",
+                "headline": "MARITIME: STRAIT OF HORMUZ TOLLS",
+                "teaserTitle": "TRUCKING: DATA CENTER FREIGHT DEMAND",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Port of Virginia and CSX launched direct rail into Indianapolis. Freight bypasses Chicago, shaving 48 hours off transit times."
+                "narration_line": "Global ocean shipping groups urged the UN to block proposed Strait of Hormuz tolls. Impending transit fees threaten to inflate ocean freight rates."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: SEALEAD CONTAINER LIQUIDATION",
-                "teaserTitle": "DELIVERY: CONSOLIDATED DOCK TRUCKING",
+                "headline": "TRUCKING: DATA CENTER FREIGHT DEMAND",
+                "teaserTitle": "INLAND: RHINE WATER LEVEL RESTRICTIONS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation following U.S. sanctions. Competitors rapidly absorbed charter vessels and container assets."
+                "narration_line": "US AI data centers require 100K truckloads per gigawatt during construction. Heavy industrial transport demands are squeezing domestic flatbed truck capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "DELIVERY: CONSOLIDATED DOCK TRUCKING",
-                "teaserTitle": "MANUFACTURING: TOYOTA INDUSTRIAL PLANT",
+                "headline": "INLAND: RHINE WATER LEVEL RESTRICTIONS",
+                "teaserTitle": "E-COMMERCE: AMAZON TITLE LIMIT POLICY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Amazon Business deployed branded trucks for consolidated loading dock deliveries. Enterprise facilities reduce receiving costs by 30%."
+                "narration_line": "Record low water levels on the Rhine capped inland barge capacity by 50%. Shippers face elevated landside transport surcharges across European gateways."
             },
             {
                 "slide_index": 5,
-                "headline": "MANUFACTURING: TOYOTA INDUSTRIAL PLANT",
-                "teaserTitle": "SECURITY: AIRPORT DRONE THREAT",
+                "headline": "E-COMMERCE: AMAZON TITLE LIMIT POLICY",
+                "teaserTitle": "SECURITY: MILLION CARGO THEFT RING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Toyota opened a $100M forklift manufacturing facility in Indiana. Localized production will cut forklift lead times by 25%."
+                "narration_line": "Amazon enforced a 75 character title limit for online retail product listings. Non-compliant titles face immediate search suppression across marketplace channels."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: AIRPORT DRONE THREAT",
-                "teaserTitle": "E-COMMERCE: RURAL PARCEL SURCHARGES",
+                "headline": "SECURITY: MILLION CARGO THEFT RING",
+                "teaserTitle": "FINANCE: TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "An explosive drone at Leipzig Airport triggered federal counterterrorism sweeps. Expect security delays across European air cargo hubs."
+                "narration_line": "A federal grand jury indicted 8 individuals for stealing $4.49M in retail goods. Cyber breaches targeting freight broker databases triggered the investigation."
             },
             {
                 "slide_index": 7,
-                "headline": "E-COMMERCE: RURAL PARCEL SURCHARGES",
+                "headline": "FINANCE: TARIFF REFUND MONETIZATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "USPS raised lightweight parcel rates by $2 to $3 for rural zones. E-commerce sellers face severe margin pressure on remote shipments."
+                "narration_line": "Retailers are selling potential tariff refund rights to secondary market investors. Shippers seek cash liquidity as customs authorities process $100B in claims."
             },
             {
                 "slide_index": 8,
