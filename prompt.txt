@@ -49,8 +49,8 @@ SECTION C: HOURLY CROSS-EXAMINATION & RANKING ALGORITHM
 Process data through this 3-stage filtration engine:
 - Step 1: Temporal & Source Verification: Drop any entry that lacks an explicit, verifiable publication timestamp within the past 24-to-48 hour rolling window, or any entry pulling from a static root landing page instead of a fresh news item from the authorized sources. If a source yields zero items within the window, skip it entirely without reaching into historical archives.
 - Step 2: Anti-Duplication & Historical Blacklist Filtering: Cross-examine candidate stories against the ingested historical dataset from `template.js` provided in the runtime prompt context. Drop any re-hashes, identical coverage, or structural matches from past updates to guarantee absolute 100% fresh hourly intelligence.
-- Step 3: Signal Matrix & Dynamic Title Synthesis: Rank items (0-10) on their operational friction impact. Prioritize heavy-hitting structural developments regarding US Customs compliance shifts, marketplace rules, carrier space crunches, and macro supply chain infrastructure threats. Shortlist the 7 highest-scoring items.
-- Dynamic Title Choice: Synthesize the core theme of the 7 items. In the 'main' JSON object, 'titleWhite' contains all words except the last, and 'titleBlue' contains ONLY the very last word. This combined title must be a maximum of 4 words strictly (3 white and 1 blue). This title must be updated every hour.
+- Step 3: Signal Matrix & Lead-Story Title Derivation: Rank items (0-10) on their operational friction impact. The #1 highest-scoring breaking item selected for Slide 1 dictates the primary broadcast headline.
+- Strict Pure Title Synchronization Rule: To eradicate title fatigue and ensure 100% hourly uniqueness across all social headers, email subjects, and video hooks, the main title (`titleWhite` + `titleBlue`) must be derived **strictly and purely from Slide 1's heading text** (excluding any category prefixes if present, or using the raw headline words directly). Split the title phrase so that all words except the absolute last go into `titleWhite`, and the absolute last word goes into `titleBlue` (forcing it to be blue). This guarantees zero prefix noise, a pure title format, and complete uniqueness every single hour.
 
 --------------------------------------------------------------------------------
 SECTION D: FORMATTING & HARSH CHARACTER BOUNDARIES
@@ -66,10 +66,10 @@ SECTION E: DATA INTERCHANGE SCHEMA SPECIFICATIONS (`template.js` DATA MAP)
 --------------------------------------------------------------------------------
 Extract 7 distinct technical developments from the scraped data sources. Parse your findings into a clean object matching the JSON structural footprint:
 - kicker: Static string value "" (Empty string to maintain empty block padding)
-- titleWhite: Dynamic theme string (all phrase words except the last, maximum 3 words)
-- titleBlue: Dynamic theme string (only the very last word, exactly 1 word)
+- titleWhite: Pure main title words except the last word (derived directly from Slide 1 headline)
+- titleBlue: Pure main title last word strictly (derived directly from Slide 1 headline)
 - footerSummary: A dynamic, hourly-refreshed 2-line forensic teaser unique to this specific update's core catalyst (max 25 words).
-- slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings matching the `CATEGORY: TITLE` format rule, 4 technical narrative array entries, empty image reference layouts, a nextUpTease string, and audit validation metadata arrays.
+- slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings matching the `CATEGORY: TITLE` format rule, 4 technical narrative array entries, empty image reference layouts, a nextUpTease string, and audit validation metadata arrays including the **exact, deep-linked source article URL** (e.g., `https://www.domain.com/exact-article-slug`).
 
 --------------------------------------------------------------------------------
 SECTION F: VIDEO TEMPLATE MODULE EXPORT SPECIFICATIONS (`Video_Template_EN.js`)
@@ -144,8 +144,8 @@ Output pure JSON with zero markdown code ticks outside the structural map:
   "slides_data": {
     "main": {
       "kicker": "",
-      "titleWhite": "[DYNAMIC MAIN TITLE WORDS EXCEPT LAST, MAX 3]",
-      "titleBlue": "[DYNAMIC MAIN TITLE LAST WORD, EXACTLY 1]",
+      "titleWhite": "[PURE SLIDE 1 HEADLINE WORDS EXCEPT LAST]",
+      "titleBlue": "[PURE SLIDE 1 HEADLINE LAST WORD]",
       "footerSummary": "[DYNAMIC HOURLY-REFRESHED FORENSIC TEASER HIGHLIGHTING IMMEDIATE RISK]"
     },
     "slides": [
@@ -160,7 +160,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
         ],
         "imageUrl": "",
         "nextUpTease": "[TITLE OF NEXT SLIDE]",
-        "tags": ["Source: [Domain Root URL]", "Published: Last 24-48 Hours", "Status: Audited & True"]
+        "tags": ["Source: https://www.logisticsmgmt.com/exact-article-path-slug-2026", "Published: 2026-08-09T01:00:00Z", "Status: Audited & True"]
       },
       {
         "id": 2,
@@ -173,7 +173,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
         ],
         "imageUrl": "",
         "nextUpTease": "[TITLE OF NEXT SLIDE]",
-        "tags": ["Source: [Domain Root URL]", "Published: Last 24-48 Hours", "Status: Audited & True"]
+        "tags": ["Source: https://www.freightwaves.com/news/exact-article-path-slug-2026", "Published: 2026-08-09T00:45:00Z", "Status: Audited & True"]
       },
       {
         "id": 3,
@@ -186,7 +186,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
         ],
         "imageUrl": "",
         "nextUpTease": "[TITLE OF NEXT SLIDE]",
-        "tags": ["Source: [Domain Root URL]", "Published: Last 24-48 Hours", "Status: Audited & True"]
+        "tags": ["Source: https://theloadstar.com/exact-article-path-slug-2026", "Published: 2026-08-08T23:30:00Z", "Status: Audited & True"]
       },
       {
         "id": 4,
@@ -199,7 +199,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
         ],
         "imageUrl": "",
         "nextUpTease": "[TITLE OF NEXT SLIDE]",
-        "tags": ["Source: [Domain Root URL]", "Published: Last 24-48 Hours", "Status: Audited & True"]
+        "tags": ["Source: https://splash247.com/exact-article-path-slug-2026", "Published: 2026-08-09T00:15:00Z", "Status: Audited & True"]
       },
       {
         "id": 5,
@@ -212,7 +212,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
         ],
         "imageUrl": "",
         "nextUpTease": "[TITLE OF NEXT SLIDE]",
-        "tags": ["Source: [Domain Root URL]", "Published: Last 24-48 Hours", "Status: Audited & True"]
+        "tags": ["Source: https://maritime-executive.com/exact-article-path-slug-2026", "Published: 2026-08-08T22:00:00Z", "Status: Audited & True"]
       },
       {
         "id": 6,
@@ -225,7 +225,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
         ],
         "imageUrl": "",
         "nextUpTease": "[TITLE OF NEXT SLIDE]",
-        "tags": ["Source: [Domain Root URL]", "Published: Last 24-48 Hours", "Status: Audited & True"]
+        "tags": ["Source: https://www.cargonews.net/exact-article-path-slug-2026", "Published: 2026-08-08T21:40:00Z", "Status: Audited & True"]
       },
       {
         "id": 7,
@@ -238,14 +238,14 @@ Output pure JSON with zero markdown code ticks outside the structural map:
         ],
         "imageUrl": "",
         "nextUpTease": "FINAL SLIDE",
-        "tags": ["Source: [Domain Root URL]", "Published: Last 24-48 Hours", "Status: Audited & True"]
+        "tags": ["Source: https://www.supplychaindive.com/news/exact-article-path-slug-2026", "Published: 2026-08-08T20:10:00Z", "Status: Audited & True"]
       }
     ]
   },
   "video_shorts_module": {
     "language": "EN",
     "video_shorts_data": {
-      "hookTitle": "[UPPERCASE DYNAMIC HOURLY HOOK TITLE SYNTHESIZED FROM MAIN TITLE]",
+      "hookTitle": "[UPPERCASE DYNAMIC HOURLY HOOK TITLE SYNTHESIZED FROM SLIDE 1]",
       "totalDurationSeconds": 30,
       "script_slides": [
         {
