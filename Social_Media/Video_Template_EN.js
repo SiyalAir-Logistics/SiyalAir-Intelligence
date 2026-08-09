@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRUMP ENACTS 15% POLYSILICON TARIFF",
+        "hookTitle": "USTR ENFORCES SECTION 301 FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "POLYSILICON: TRUMP ENACTS 15% TARIFF",
-                "teaserTitle": "CYBERSECURITY: $4.49M CARGO THEFT INDICTMENT",
+                "headline": "USTR: SECTION 301 FORCED LABOR TARIFFS",
+                "teaserTitle": "MANUFACTURING: DTNA BUILDS LARGEST TRUCK PLANT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The US government implemented a 15% tariff on all imported polysilicon used in solar power and semiconductor manufacturing. The new tariff framework establishes an import price floor effective Dec 4 to protect domestic production capacity."
+                "narration_line": "The US implemented Section 301 tariffs on 60 trading nations following the expiration of Section 122 duties. Importers must provide strict forced labor origin documentation to avoid customs clearance holds."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: $4.49M CARGO THEFT INDICTMENT",
-                "teaserTitle": "E-COMMERCE: AMAZON RESTRICTS TITLE LENGTH",
+                "headline": "MANUFACTURING: DTNA BUILDS LARGEST TRUCK PLANT",
+                "teaserTitle": "MARITIME: IRAN OMAN PROPOSE HORMUZ TOLLS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A US federal grand jury indicted 8 individuals in a $4.49M retail cargo theft ring using hacked company data. Prosecutors confirmed the criminal network compromised legitimate logistics platforms to divert freight across domestic trade corridors."
+                "narration_line": "Daimler Truck will construct its largest US manufacturing plant to expand commercial fleet vehicle production by 2029. The facility will integrate advanced automation to boost heavy-duty truck capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "E-COMMERCE: AMAZON RESTRICTS TITLE LENGTH",
-                "teaserTitle": "INTERMODAL: VIRGINIA LAUNCHES CSX DIRECT RAIL",
+                "headline": "MARITIME: IRAN OMAN PROPOSE HORMUZ TOLLS",
+                "teaserTitle": "PARCEL: USPS SURCHARGE BOOSTS REVENUE TO $20B",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Amazon officially enforced a strict 75-character limit on product listing titles across third-party sellers and its proprietary brands. The automated title restriction aims to eliminate search clutter and standardize product catalog display metrics."
+                "narration_line": "Iran and Oman advanced talks to impose transit tolls on commercial ships navigating the Strait of Hormuz. Ocean carriers face rising war risk insurance fees and potential transit restrictions."
             },
             {
                 "slide_index": 4,
-                "headline": "INTERMODAL: VIRGINIA LAUNCHES CSX DIRECT RAIL",
-                "teaserTitle": "MARITIME RISK: SOMPO LAUNCHES GPS COVERAGE",
+                "headline": "PARCEL: USPS SURCHARGE BOOSTS REVENUE TO $20B",
+                "teaserTitle": "INVENTORY: STARBUCKS TARGETS 24 HOUR REPLENISHMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Port of Virginia launched a new CSX direct rail service connecting its coastal container terminals to Indianapolis. The intermodal bypass eliminates Chicago rail routing to accelerate Midwest container velocity by up to 24 hours."
+                "narration_line": "The US Postal Service reached $20B in quarterly revenue driven by new parcel surcharge structures. Shippers must adjust parcel margin calculations as rates rise across domestic delivery networks."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME RISK: SOMPO LAUNCHES GPS COVERAGE",
-                "teaserTitle": "FULFILLMENT: AEO BUILDS $41M NC FACILITY",
+                "headline": "INVENTORY: STARBUCKS TARGETS 24 HOUR REPLENISHMENT",
+                "teaserTitle": "SALVAGE: MSC CONTAINER SHIP GROUNDED OFF ZHOUSHAN",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Japanese insurer Sompo launched specialized maritime insurance covering commercial economic losses caused by GPS jamming and spoofing attacks. The policy addresses rising geopolitical navigation threats for cargo vessels operating across high-risk international shipping lanes."
+                "narration_line": "Starbucks targeted a 24-hour inventory replenishment schedule after scrapping its AI forecasting tool. Responsive regional distribution centers will now drive high-frequency store deliveries."
             },
             {
                 "slide_index": 6,
-                "headline": "FULFILLMENT: AEO BUILDS $41M NC FACILITY",
-                "teaserTitle": "INLAND FREIGHT: RHINE WATER LEVELS DROP",
+                "headline": "SALVAGE: MSC CONTAINER SHIP GROUNDED OFF ZHOUSHAN",
+                "teaserTitle": "BLACK SEA: TURKEY DELAYS SHIP TRANSIT ACCESS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "American Eagle Outfitters authorized a $41M investment to construct an automated regional distribution center in North Carolina. The facility will generate over 200 operational jobs and expand Southeastern fulfillment capacity starting in early 2027."
+                "narration_line": "The 8,401 TEU containership MSC Silvana VIII sank deeper off Zhoushan after refloating efforts failed. Cargo owners face major delays as salvage teams prepare heavy crane barges."
             },
             {
                 "slide_index": 7,
-                "headline": "INLAND FREIGHT: RHINE WATER LEVELS DROP",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "BLACK SEA: TURKEY DELAYS SHIP TRANSIT ACCESS",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Record-low water levels along the Rhine River restricted barge draft capacities across primary European industrial transport corridors. Terminal operators face higher inland freight rates and extended transit times for raw material shipments."
+                "narration_line": "Turkey restricted Black Sea ship access following an escalation in attacks on commercial vessels. Commodity exporters face mounting vessel backlogs and surging ocean war risk premiums."
             },
             {
                 "slide_index": 8,
