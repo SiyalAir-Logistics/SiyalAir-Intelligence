@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "NORTHERN SEA ROUTE",
-        "titleBlue": "DEMO",
-        "footerSummary": "South Korea tests 12-day faster Arctic shipping transit while U.S. prosecutors indict $4.49M cyber freight theft ring."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "DUTIES",
+        "footerSummary": "USTR enforces Section 301 tariffs across 60 trading nations as SeaLead liquidates following federal sanctions."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "ARCTIC: NORTHERN SEA ROUTE DEMO",
+            "heading": "TARIFFS: FORCED LABOR DUTIES",
             "points": [
-                "South Korea has officially designated its first containership to conduct a trial transit along Russia's Northern Sea Route to Europe. Rosatom confirmed issuing 2026 Arctic navigation permits as commercial cargo movements prepare for regular seasonal deployments.",
-                "The Arctic corridor reduces transit times between East Asia and Northern Europe by up to 12 days compared to standard Suez Canal maritime routes. Commercial operators are testing vessel hull performance and icebreaker escort protocols in northern polar waters.",
-                "Maritime strategists emphasize that seasonal Arctic access provides key strategic redundancy against ongoing geopolitical chokepoint disruptions in Western Asia. Operational viability remains constrained by polar weather windows and specialized ice-class vessel requirements.",
-                "Cargo owners and global shippers evaluating northern transit options should audit environmental compliance standards and ice-risk insurance premiums. Navigational trial results scheduled for next month will establish operational benchmarks for Arctic container shipping."
+                "The Office of the United States Trade Representative has officially initiated Section 301 trade actions targeting forced labor practices across 60 global trading partners. The regulatory transition comes as temporary Section 122 import tariffs expire across active commercial lanes.",
+                "Importers and global sourcing networks face immediate baseline duty rate increases and heightened customs verification procedures at U.S. ports of entry. Customs audits will target non-compliant trade origin declarations and supply chain transparency documentation.",
+                "Trade compliance analysts highlight that multi-nation regulatory actions mark a decisive shift toward systemic, supply-chain-wide human rights enforcement. The framework penalizes manufacturing hubs reliant on unverified labor inputs across primary overseas jurisdictions.",
+                "Enterprise logistics leaders should immediately perform comprehensive tier-1 through tier-4 supplier audits to prevent trade holds at customs gateways. Legal counsel must verify origin compliance to mitigate severe tariff exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
+            "nextUpTease": "SANCTIONS: SEALEAD SHIPPING LIQUIDATION",
             "tags": [
-                "Source: https://maritime-executive.com/article/south-korea-names-first-boxship-for-arctic-route",
-                "Published: 2026-08-07T15:34:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs_2026",
+                "Published: 2026-08-09T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
+            "heading": "SANCTIONS: SEALEAD SHIPPING LIQUIDATION",
             "points": [
-                "Daimler Truck North America announced plans to construct its largest U.S. truck manufacturing plant, targeted for full operational status by 2029. Executive leadership confirmed the facility will focus on assembling next-generation commercial vehicle platforms.",
-                "The capital expansion addresses projected long-term fleet replacement demands and stringent EPA 2027 heavy-duty emissions regulatory standards. Production lines will support advanced powertrain integration and expanded chassis production capacity.",
-                "Industry analysts note that heavy-truck manufacturing expansion in North America strengthens domestic supply chain resilience for freight carriers. Localized assembly reduces lead times for commercial fleet acquisition and specialized equipment orders.",
-                "Motor carriers and fleet managers planning multi-year equipment cycles should monitor factory construction milestones and order book openings. Fleet modernization timelines must align with upcoming federal environmental compliance deadlines."
+                "Singapore-registered container carrier SeaLead Shipping has formally entered voluntary liquidation following recent U.S. Treasury sanctions. The immediate operational shutdown effectively terminates major liner services connecting Asia, the Middle East, and Mediterranean trade routes.",
+                "Competing ocean carriers and container leasing companies are rapidly absorbing SeaLead's displaced vessel fleet and container assets across regional hubs. Cargo owners are scrambling to rebook stranded import-export containers to avert extended port demurrage penalties.",
+                "Maritime intelligence authorities note that strict economic sanctions enforcement is actively accelerating structural consolidation among secondary ocean carriers. Non-compliant tonnage is being forcibly removed from high-density international maritime lanes.",
+                "BCOs and freight forwarders with active bookings on SeaLead vessels must coordinate immediate cargo recovery with terminal operators. Securing secondary carrier allocations is required to prevent severe supply chain bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: PORT VIRGINIA INDIANAPOLIS SERVICE",
+            "nextUpTease": "MARITIME: MSC CONTAINER SHIP SINKING",
             "tags": [
-                "Source: https://www.ttnews.com/articles/dtna-us-truck-plant-2029",
-                "Published: 2026-08-07T16:00:00Z",
+                "Source: https://www.joc.com/article/carrier-sealead-ends-operations-us-sanctions-2026",
+                "Published: 2026-08-09T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "RAIL: PORT VIRGINIA INDIANAPOLIS SERVICE",
+            "heading": "MARITIME: MSC CONTAINER SHIP SINKING",
             "points": [
-                "The Port of Virginia has launched a direct CSX intermodal rail service linking deepwater marine terminals directly to the Indianapolis inland market. The rail connection bypasses traditional Chicago rail interchange bottlenecks for Midwest-bound containerized cargo.",
-                "Ocean shippers gain expedited transit times and reduced landside drayage costs by routing import containers straight to Ohio Valley distribution hubs. The service reduces dwell times at East Coast marine terminals while increasing intermodal rail volume capacity.",
-                "Transportation planners view direct port-to-inland rail corridors as essential infrastructure for optimizing East Coast supply chain flows. Shifting freight from long-haul trucks to direct rail lines significantly lowers scope-3 transport emissions.",
-                "Supply chain managers sourcing goods through East Coast gateways should evaluate Virginia-to-Indianapolis rail routings to streamline Midwest distribution. Logistics teams can leverage the route to mitigate regional trucking congestion and reduce freight costs."
+                "The 8,401 TEU container vessel MSC Silvana VIII has submerged deeper off Zhoushan, China, following multiple failed refloating attempts by salvage tugs. Maritime authorities confirmed major structural compromises along the hull after the 20-year-old ship initially grounded in coastal waters.",
+                "Port operations and regional feeder traffic around Zhoushan are facing localized navigational safety diversions while salvage teams deploy containment barriers. Marine insurance underwriters are assessing total hull loss metrics and potential container recovery operations.",
+                "Navigational safety experts emphasize that aging containership groundings highlight operational risks during peak seasonal weather events in East Asia. Salvage logistics remain complicated by shallow waters and coastal marine currents.",
+                "Shippers with containerized freight onboard the MSC Silvana VIII must submit immediate marine cargo insurance claims and trace bill-of-lading entries. Freight routing around Ningbo-Zhoushan hubs requires monitoring for localized terminal delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON TITLE POLICY RESTRICTION",
+            "nextUpTease": "TRADE: POLYSILICON IMPORT TARIFF LEVY",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-indianapolis/825850/",
-                "Published: 2026-08-04T12:00:00Z",
+                "Source: https://splash247.com/msc-boxship-sinks-deeper-off-zhoushan-2026",
+                "Published: 2026-08-08T22:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "E-COMMERCE: AMAZON TITLE POLICY RESTRICTION",
+            "heading": "TRADE: POLYSILICON IMPORT TARIFF LEVY",
             "points": [
-                "Amazon has enforced a mandatory policy restricting product titles to 75 characters or less across all marketplace inventory, including its first-party retail listings. The standardized title rule aims to optimize mobile browsing readability and search indexing across digital storefronts.",
-                "E-commerce sellers and brand manufacturers must immediately audit product catalog metadata to eliminate truncated titles and policy non-compliance flags. Non-compliant listings face automatic suppression from search rankings and catalog display pages.",
-                "E-commerce analysts indicate that character limits force brand owners to focus on high-intent keywords and concise product attributes. Search engine optimization algorithms are adjusting to prioritize standardized, high-clarity title architecture.",
-                "Marketplace operators and digital retail managers should update automated product listing feeds to comply with length constraints. Immediate optimization prevents listing downtime and loss of organic conversion traffic across global channels."
+                "The U.S. administration issued an executive proclamation establishing a 15% tariff on imported polysilicon utilized in semiconductors and solar panels. The order introduces an mandatory import price floor effective Dec 4, 2026, aimed at encouraging domestic production.",
+                "Technology manufacturers and solar energy developers face elevated raw material procurement costs and re-evaluated capital expenditure budgets. The regulatory mandate forces energy technology supply chains to secure non-tariffed domestic or friendly-nation sourcing.",
+                "Economic policy strategists indicate that raw material trade barriers aim to insulate critical clean energy and semiconductor manufacturing ecosystems. High import tariffs are intended to offset foreign production subsidies in international markets.",
+                "Procurement executives in tech and energy sectors must re-evaluate multi-year vendor contracts prior to the Dec 4 implementation deadline. Financial forecasting models should account for elevated raw material pricing dynamics."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: RETAIL TARIFF REFUND MONETIZATION",
+            "nextUpTease": "ACQUISITIONS: MAERSK DIVESTS TRAINING ARM",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/07/amazon-new-product-title-policy-applies-to-own-listings/",
-                "Published: 2026-08-07T10:00:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-imposes-15-percent-tariff-polysilicon-2026",
+                "Published: 2026-08-09T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FINANCE: RETAIL TARIFF REFUND MONETIZATION",
+            "heading": "ACQUISITIONS: MAERSK DIVESTS TRAINING ARM",
             "points": [
-                "A secondary financial market has emerged allowing major retail brands to sell off rights to prospective federal tariff refund claims for immediate cash liquidity. Importers are monetizing court-ordered IEEPA tariff adjustments to generate working capital ahead of official government payouts.",
-                "Financial intermediaries buy the legal claims at a discount, assuming administrative processing risks and multi-month Customs payout timelines. Retailers utilize the upfront cash inflows to optimize balance sheets and fund peak season inventory purchasing.",
-                "Trade attorneys note that secondary claim monetization reflects growing enterprise demand for immediate liquidity amidst shifting macroeconomic environments. Regulatory and legal uncertainty surrounding historical tariff levies continues to drive trade claim trading.",
-                "Enterprise finance executives and trade compliance officers should assess the capital benefits of liquidating pending tariff refund assets versus holding claims. Legal audits must confirm duty recovery rights before transferring claim titles to third-party funds."
+                "A.P. Moller - Maersk has finalized an agreement to sell Maersk Training and subsidiary Maersk H2S Safety Services to U.S. private equity firm OpenGate Capital. Financial terms were undisclosed as the transaction awaits customary closing approvals from regulatory authorities.",
+                "The strategic divestment streamlines Maersk's asset portfolio, allowing the integrated logistics conglomerate to concentrate capital on core ocean freight and landside supply chain assets. Operations across global safety training centers will continue uninterrupted under new ownership.",
+                "Corporate M&A analysts observe that major ocean carriers are actively offloading non-core ancillary service units to maintain lean operational structures. Capital allocation is being redirected toward digital supply chain infrastructure and end-to-end freight networks.",
+                "Logistics directors evaluating carrier partnerships can expect Maersk to double down on integrated transportation and warehouse technology investments. Corporate restructurings across top-tier carriers continue to emphasize core supply chain capabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "tags": [
-                "Source: https://www.retaildive.com/news/retailers-sell-off-rights-tariff-refunds/825820/",
-                "Published: 2026-08-07T14:00:00Z",
+                "Source: https://splash247.com/maersk-sells-training-arm-opengate-2026",
+                "Published: 2026-08-10T02:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "points": [
-                "South Korean maritime firms, including Elegant Exit Company, RM Company, and ISSAC Green Tech, have formed a partnership to establish one of Asia's largest green ship recycling hubs. The joint venture focuses on compliant vessel dismantling and high-grade steel recovery.",
-                "Infrastructure development plan aims to capture growing demand for eco-friendly ship demolition in compliance with the Hong Kong International Convention. The facility will utilize advanced environmental containment technologies to minimize hazardous waste disposal.",
-                "Industry experts emphasize that sustainable ship recycling capacity in East Asia provides ocean carriers with verified end-of-life vessel disposal channels. Decarbonization pressures are accelerating the decommissioning of aging, inefficient commercial tonnage.",
-                "Vessel owners and ship asset managers preparing fleet renewal programs should monitor Asian green yard capacity for future fleet retirements. ESG compliance audits will increasingly mandate certified green yard recycling protocols."
+                "A quarterly report from Colliers confirms the U.S. industrial real estate market is rebalancing as industrial tenant demand officially outpaces new warehouse construction completions. Average vacancy rates dipped 7 basis points sequentially to 7.3% in Q2 2026.",
+                "Logistics providers and retail distributors are absorbing available distribution center space across major inland logistics hubs and port gateways. Standard industrial lease rates are stabilizing following multi-year fluctuations driven by construction surges.",
+                "Commercial real estate strategists emphasize that reduced speculative building starts have brought warehouse inventory back into equilibrium with long-term demand. Facility developers are focusing on build-to-suit logistics parks tailored for automated fulfillment.",
+                "Enterprise supply chain planners should lock in strategic warehouse leases ahead of projected industrial space tightening in 2027. Operations teams must optimize existing square footage using advanced vertical storage and automated systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CYBER CARGO THEFT INDICTMENT",
+            "nextUpTease": "GEOPOLITICS: UN HORMUZ TOLL PROTEST",
             "tags": [
-                "Source: https://splash247.com/south-korea-makes-play-for-large-scale-ship-recycling/",
-                "Published: 2026-08-07T08:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_colliers_2026",
+                "Published: 2026-08-09T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SECURITY: CYBER CARGO THEFT INDICTMENT",
+            "heading": "GEOPOLITICS: UN HORMUZ TOLL PROTEST",
             "points": [
-                "Federal prosecutors indicted 8 individuals involved in a highly sophisticated cyber cargo theft network that stole $4.49M in high-value retail freight. The criminal syndicate utilized hacked corporate credentials and fraudulent dispatch data to hijack commercial shipments across the U.S.",
-                "Law enforcement investigations revealed the group intercepted legitimate carrier tender requests to re-route high-value freight to illicit warehouses. The case highlights expanding cyber risks targeting digital freight brokerages and transportation management software.",
-                "Supply chain security experts stress that cyber-enabled cargo theft is replacing traditional physical yard break-ins across domestic freight corridors. Multi-factor authentication and carrier identity verification protocols are becoming mandatory for logistics networks.",
-                "Freight brokers and shippers must enforce strict cybersecurity audits and carrier credential verification prior to tendering loads. Risk managers should implement real-time tracking devices to prevent fraudulent load pickup and cargo diversion."
+                "International shipping organizations have formally petitioned the UN and IMO to oppose proposed transit tolls through the Strait of Hormuz. The joint coalition warns that unilateral transit fees set by regional nations violate international maritime law.",
+                "Maritime carriers caution that forced transit tolls will trigger additional war-risk insurance surcharges and inflate global energy and containerized freight rates. Tanker and containership operators are reviewing emergency routing options to protect commercial transit access.",
+                "Geopolitical analysts highlight that commercial transit friction in crucial trade corridors poses severe risks to global supply chain stability. Diplomatic intervention remains crucial to preserving freedom of navigation in international waters.",
+                "Global trade managers and energy importers must incorporate contingency freight surcharges into operational budgeting models. Supply chain planning should account for persistent geopolitical friction in Middle Eastern maritime gateways."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/grand-jury-indicts-8-cargo-theft",
-                "Published: 2026-08-07T18:00:00Z",
+                "Source: https://www.joc.com/article/global-shipping-calls-un-imo-hormuz-tolls-2026",
+                "Published: 2026-08-09T07:45:00Z",
                 "Status: Audited & True"
             ]
         }
