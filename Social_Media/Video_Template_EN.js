@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR ENFORCES TARIFFS ON 60 TRADING PARTNERS",
+        "hookTitle": "SUMMER PEAK SHIPPING SURGES EARLIER",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: HORMUZ TOLL DIPLOMACY",
+                "headline": "PORTS: SUMMER PEAK SURGE",
+                "teaserTitle": "MANUFACTURING: US EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR advanced Section 301 tariffs across 60 nations to target forced labor supply chains. Importers face immediate administrative burdens and strict compliance documentation at all US ports."
+                "narration_line": "U.S. containerized imports are projected to hit their highest absolute level since 2022 during the summer peak. Terminal operators are deploying additional equipment to manage the dense volume spikes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ TOLL DIPLOMACY",
-                "teaserTitle": "CONTAINERS: SEALEAD LIQUIDATION",
+                "headline": "MANUFACTURING: US EXPANSION",
+                "teaserTitle": "TRUCKING: CAPACITY TIGHTENING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Global shipping groups petitioned the UN and IMO to guarantee zero transit tolls in Hormuz. Underwriters adjusted war-risk premiums upward to reflect ongoing security volatility."
+                "narration_line": "United States manufacturing activity expanded for the 7th consecutive month with steady domestic demand. Supply chain managers are optimizing inventory buffers to support sustained production schedules."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINERS: SEALEAD LIQUIDATION",
-                "teaserTitle": "ARCTIC: NORTHERN SEA ROUTE",
+                "headline": "TRUCKING: CAPACITY TIGHTENING",
+                "teaserTitle": "EQUIPMENT: DTNA PLANT INVESTMENT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation following sweeping US sanctions. Rival carriers quickly acquired the available vessels and active container equipment."
+                "narration_line": "Market fundamentals are improving as over-the-road freight capacity tightens across the network. Regulatory enforcement initiatives are accelerating the correction in available truckload capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "ARCTIC: NORTHERN SEA ROUTE",
-                "teaserTitle": "TECHNOLOGY: POLYSILICON TARIFFS",
+                "headline": "EQUIPMENT: DTNA PLANT INVESTMENT",
+                "teaserTitle": "MARITIME: HORMUZ DIPLOMACY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "South Korea named its first Arctic containership for a northern route demonstration voyage. Rosatom confirmed transit permits for 2026 to support regular commercial cargo services."
+                "narration_line": "Daimler Trucks North America announced plans to construct a massive new U.S. manufacturing plant slated to open in 2029. The facility will significantly expand heavy-duty truck manufacturing capacity."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: POLYSILICON TARIFFS",
-                "teaserTitle": "INFRASTRUCTURE: RAIL EXPANSION",
+                "headline": "MARITIME: HORMUZ DIPLOMACY",
+                "teaserTitle": "RETAIL: E-COMMERCE ACQUISITION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A 15% tariff and price floor on polysilicon imports will take effect on December 4. Semiconductor manufacturers face substantial cost adjustments for critical raw materials."
+                "narration_line": "Iranian officials reached a preliminary framework agreement with Oman regarding navigation in the Strait of Hormuz. Marine insurance underwriters are maintaining elevated war-risk premiums for vessels."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: RAIL EXPANSION",
-                "teaserTitle": "RETAIL: ETSY WORKFORCE REDUCTION",
+                "headline": "RETAIL: E-COMMERCE ACQUISITION",
+                "teaserTitle": "LOGISTICS: WAREHOUSE AUTOMATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Port of Virginia added direct CSX rail service into the Indianapolis market. Containers now move directly inland, bypassing traditional Chicago congestion bottlenecks."
+                "narration_line": "eBay officially finalized its $1.4B cash acquisition of fashion marketplace Depop. Leadership confirmed plans to operate the acquired brand as a complementary asset."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL: ETSY WORKFORCE REDUCTION",
+                "headline": "LOGISTICS: WAREHOUSE AUTOMATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Etsy slashed its workforce by 12% following a $1.4B cash infusion from Depop. Marketplace operators are streamlining overhead to preserve operating margins."
+                "narration_line": "Logistics providers are accelerating the deployment of advanced warehouse robotics and AI systems. Fulfillment centers are integrating autonomous mobile robots to optimize internal workflows."
             },
             {
                 "slide_index": 8,
