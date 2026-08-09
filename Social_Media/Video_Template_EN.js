@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR DUTIES IMPLEMENTED",
+        "hookTitle": "HACKED CARGO THEFT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: FORCED LABOR DUTIES",
-                "teaserTitle": "SANCTIONS: SEALEAD SHIPPING LIQUIDATION",
+                "headline": "SECURITY: HACKED CARGO THEFT",
+                "teaserTitle": "WEATHER: TYPHOON PORT SUSPENSIONS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR has initiated Section 301 tariffs on 60 trading partners to target forced labor practices as Section 122 duties expire. Shippers face immediate duty adjustments and expanded supply chain compliance audits."
+                "narration_line": "A federal grand jury indicted 8 individuals in a $4.49M cargo theft ring that breached corporate data systems. Freight operators must implement multi-factor authentication to secure high-value retail dispatch networks."
             },
             {
                 "slide_index": 2,
-                "headline": "SANCTIONS: SEALEAD SHIPPING LIQUIDATION",
-                "teaserTitle": "MARITIME: MSC CONTAINER SHIP SINKING",
+                "headline": "WEATHER: TYPHOON PORT SUSPENSIONS",
+                "teaserTitle": "E-COMMERCE: AMAZON TITLE LIMITS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Container operator SeaLead Shipping has entered voluntary liquidation weeks after facing US sanctions, terminating key Asia-Middle East services. Rival carriers are rapidly acquiring the line's remaining fleet assets and container equipment."
+                "narration_line": "Chinese port terminals suspended operations and redirected over 160 vessels as Super Typhoon Dolphin approaches coastal hubs. Cargo owners should prepare for multi-day vessel backlogs across major transpacific container routes."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: MSC CONTAINER SHIP SINKING",
-                "teaserTitle": "TRADE: POLYSILICON IMPORT TARIFF LEVY",
+                "headline": "E-COMMERCE: AMAZON TITLE LIMITS",
+                "teaserTitle": "EQUIPMENT: DAIMLER TRUCK EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The 8,401 TEU MSC Silvana VIII has submerged deeper off Zhoushan following failed salvage refloating attempts. Terminal operators in East China are managing localized vessel traffic diversions to prevent marine channel blockages."
+                "narration_line": "Amazon capped product title lengths at 75 characters for all 3rd-party sellers and internal retail listings. Merchants face automated catalog suppressions if product metadata exceeds the new structural limit."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE: POLYSILICON IMPORT TARIFF LEVY",
-                "teaserTitle": "ACQUISITIONS: MAERSK DIVESTS TRAINING ARM",
+                "headline": "EQUIPMENT: DAIMLER TRUCK EXPANSION",
+                "teaserTitle": "INTERMODAL: VIRGINIA RAIL SERVICE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A new 15% federal tariff on imported polysilicon will take effect on Dec 4 along with strict import price floors. Renewable energy supply chains must reconfigure sourcing timelines to avoid elevated import duty costs."
+                "narration_line": "Daimler Truck announced plans for its largest U.S. manufacturing plant while committing to EPA 2027 engine standards. Fleet managers must account for updated emissions rules when planning multi-year equipment acquisitions."
             },
             {
                 "slide_index": 5,
-                "headline": "ACQUISITIONS: MAERSK DIVESTS TRAINING ARM",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "headline": "INTERMODAL: VIRGINIA RAIL SERVICE",
+                "teaserTitle": "FINANCE: TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Maersk has agreed to sell its corporate training unit and safety subsidiary to private equity firm OpenGate Capital. The divestment allows the ocean carrier to focus capital allocation on core enterprise logistics integration."
+                "narration_line": "The Port of Virginia launched direct CSX intermodal rail service to Indianapolis, bypassing traditional Chicago rail junctions. Midwest importers can utilize the direct corridor to reduce container dwell times and transit friction."
             },
             {
                 "slide_index": 6,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
-                "teaserTitle": "GEOPOLITICS: UN HORMUZ TOLL PROTEST",
+                "headline": "FINANCE: TARIFF REFUND MONETIZATION",
+                "teaserTitle": "REGULATION: PENTAGON WIND REVIEWS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "US industrial real estate vacancy rates dropped 7 basis points to 7.3% in Q2 2026 as tenant demand outpaced new warehouse completions. Logistics providers face tighter distribution space options across primary inland logistics hubs."
+                "narration_line": "Major U.S. retailers are selling legal rights for potential tariff refunds on secondary markets to secure immediate liquid capital. Financial leaders are adopting duty monetization models to unlock cash tied up in customs claims."
             },
             {
                 "slide_index": 7,
-                "headline": "GEOPOLITICS: UN HORMUZ TOLL PROTEST",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "REGULATION: PENTAGON WIND REVIEWS",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Global maritime organizations urged the UN and IMO to block proposed commercial transit tolls in the Strait of Hormuz. Shippers warn that unauthorized transit fees will artificially inflate ocean freight charges by millions."
+                "narration_line": "A U.S. federal court ordered the Pentagon to resume administrative reviews for offshore wind energy infrastructure applications. Marine logistics contractors must prepare specialized vessel fleets to support renewed offshore construction timelines."
             },
             {
                 "slide_index": 8,
