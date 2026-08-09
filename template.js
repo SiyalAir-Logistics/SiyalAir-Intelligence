@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR forced labor tariffs on 60 nations and typhoon port closures in China trigger immediate supply chain bottlenecks and compliance audits."
+        "titleWhite": "SOLAR TARIFF",
+        "titleBlue": "IMPOSITION",
+        "footerSummary": "New 15% tariffs on imported polysilicon and Rhine transit chokepoints strain global chip supply lines and European barge freight reliability."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "POLYSILICON: SOLAR TARIFF IMPOSITION",
             "points": [
-                "The Office of the United States Trade Representative announced the immediate rollout of forced labor-based tariffs targeting 60 trading partners. This regulatory measure takes effect following the expiration of temporary Section 122 emergency duties across key maritime import sectors. Federal compliance officers are establishing strict supply chain tracing requirements for all inbound foreign goods.",
-                "Importers face mandatory origin documentation audits at all major US container ports to prove compliance with forced labor prevention standards. The sudden policy shift is expected to increase administrative processing delays for ocean freight shipments from affected regions by up to 15 days. Importers failing compliance audits risk immediate cargo seizures and civil monetary penalties.",
-                "Trade policy analysts emphasize that Section 301 frameworks are being weaponized to enforce permanent, continuous supply chain restructuring. International manufacturers must restructure multi-tier procurement contracts to guarantee full auditability down to raw material extraction. Multi-national corporations are deploying specialized third-party compliance software to avoid costly customs holds.",
-                "Supply chain directors are advising freight forwarders to re-verify customs documentation prior to vessel departure at origin ports. Logistics managers anticipate heightened regulatory scrutiny across textile, electronics, and agricultural commodity supply corridors. Organizations are shifting sourcing budgets toward pre-vetted trade partners to minimize operational exposure."
+                "The executive branch issued an official presidential proclamation establishing a 15% tariff on imported polysilicon goods key to solar panels and semiconductor manufacturing. The federal directive introduces a mandatory minimum import price floor slated to take effect on Dec 4, 2026. Custom officials are establishing specialized enforcement channels to track incoming raw silicon shipments.",
+                "The sudden duty imposition forces electronics and renewable energy manufacturers to re-evaluate upstream material sourcing budgets. Importers face immediate price adjustments and potential customs clearance holds if documentation fails to prove compliance with price floor thresholds. Supply chain leaders anticipate near-term cost inflation for domestic technology assembly projects.",
+                "Trade policy analysts emphasize that raw material tariffs are designed to force domestic supply chain reshoring and reduce reliance on overseas processing hubs. European and Asian suppliers must adjust export pricing models to align with US federal entry standards. Tech sector procurement officers are expediting contracts with non-impacted regional suppliers.",
+                "Logistics providers are advising high-tech clients to audit cross-border supply chains prior to the December effective date. Cargo forwarders anticipate shifting air and ocean freight routing patterns for critical semiconductor inputs. Companies are accelerating inventory pre-loading strategies to mitigate duty impacts."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO THEFT: HACKED DATA RING",
+            "nextUpTease": "MARITIME: GPS JAMMING INSURANCE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
-                "Published: 2026-08-08T18:00:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-15-percent-polysilicon-tariff-solar-chips-2026/",
+                "Published: 2026-08-08T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CARGO THEFT: HACKED DATA RING",
+            "heading": "MARITIME: GPS JAMMING INSURANCE",
             "points": [
-                "A federal grand jury indicted 8 individuals for executing an advanced cyber-enabled freight theft operation across domestic US supply chains. The criminal network compromised proprietary corporate databases to siphon sensitive shipping manifests, routing details, and bill-of-lading records. Hackers utilized stolen corporate credentials to intercept high-value commercial shipments across multiple state jurisdictions.",
-                "The stolen retail merchandise is valued at over $4.49M, triggering urgent cyber-security audits across freight brokerages and motor carriers. Fraudulent carrier profiles were created using intercepted credentials to systematically dispatch unauthorized trucks to loading docks. Affected logistics providers are implementing multi-factor authentication and strict identity verification protocols for all carrier assignments.",
-                "Transportation security authorities warn that digital cargo theft techniques have evolved beyond simple physical yard breaches into sophisticated cyber breaches. Freight exchanges and digital brokerages are strengthening API security endpoints to prevent unauthorized access to sensitive freight data. Supply chain risk managers are re-evaluating third-party vendor access controls across digital freight matching platforms.",
-                "Shippers and freight brokers face mounting liability exposure and rising insurance premiums as cyber-enabled freight theft incidents escalate nationwide. Fleet operators are urged to perform real-time verification of driver identity and dispatch credentials before releasing high-value trailer loads. Industry associations are advocating for mandatory cyber hygiene standards across the commercial freight brokerage ecosystem."
+                "Japanese underwriting firm Sompo Japan launched the shipping industry's first commercial insurance coverage specifically targeting financial losses caused by GPS signal jamming. The policy addresses rising electronic warfare risks that disrupt vessel navigation and operational tracking across volatile ocean transit corridors. Ocean carriers can now hedge against supply chain delays caused by satellite signal loss.",
+                "Maritime operators face escalating transit delays and vessel rerouting expenses as digital interference spikes near key international maritime chokepoints. Insurance coverage extends to lost charter hire fees, demurrage costs, and additional fuel expenditures incurred during system disruptions. Shipowners are adopting specialized risk management tools to secure operational coverage.",
+                "Navigational safety experts note that electronic interference represents a growing threat to automated ocean freight logistics and port call schedules. Marine underwriters are incorporating cyber and navigation risk assessments into standard hull and machinery policy negotiations. Global fleets are integrating multi-constellation satellite receivers to maintain positional redundancy.",
+                "Logistics directors recommend that cargo owners review freight liability terms regarding electronic navigation disruptions along high-risk ocean routes. Supply chain risk officers are requiring ocean carriers to demonstrate certified GPS anti-spoofing protocols. Freight forwarders anticipate higher marine insurance premiums across affected international shipping lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT OPERATIONS: CHINA SUPER TYPHOON",
+            "nextUpTease": "TRUCKING: DATA CENTER CAPACITY DRAIN",
             "tags": [
-                "Source: https://www.ttnews.com/articles/cargo-theft-hacked-data-indictment",
-                "Published: 2026-08-07T19:30:00Z",
+                "Source: https://splash247.com/sompo-moves-to-close-gps-jamming-insurance-gap-2026/",
+                "Published: 2026-08-07T11:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORT OPERATIONS: CHINA SUPER TYPHOON",
+            "heading": "TRUCKING: DATA CENTER CAPACITY DRAIN",
             "points": [
-                "Chinese maritime authorities ordered the immediate suspension of port operations across major East Coast shipping hubs as Super Typhoon Dolphin approaches. Terminal operators suspended vessel bunkering, container loading, and gate operations to safeguard port infrastructure and dockside personnel. Commercial vessels anchored in coastal waters were instructed to move offshore to seek safe anchorage.",
-                "The port closures at key manufacturing hubs are expected to cause severe vessel backlogs and disrupt transpacific ocean shipping schedules. Bunkering operations at regional maritime hubs were halted, stranding dozens of container vessels awaiting refueling services. Liner operators predict schedule delays of 4 to 7 days as vessels navigate around the path of the storm.",
-                "Meteorologists predict severe coastal conditions and storm surges to persist along major Chinese maritime trade lanes through early next week. Port authorities are preparing contingency plans to clear container vessel congestion once berth operations resume post-storm. Supply chain planners are adjusting estimated arrival dates for Asia-US ocean freight shipments.",
-                "Ocean carriers are evaluating alternative port call sequences and blanking select sailings to restore transpacific schedule reliability. Importers are warned to expect delayed container availability and potential demurrage surcharges at destination discharge ports. Logistics managers are monitoring real-time vessel tracking feeds to recalculate landside distribution schedules."
+                "Industrial logistics data shows each gigawatt of US data center construction requires over 100K specialized truckloads of structural equipment and electrical machinery. The rapid expansion of artificial intelligence infrastructure is absorbing massive volumes of specialized domestic flatbed and heavy-haul motor carrier capacity. General industrial shippers face tightening trailer availability near major technology hubs.",
+                "Transportation planners report severe truck capacity constraints across Midwestern and Southeastern freight corridors dedicated to data facility development. Freight rates for specialized flatbed equipment have increased as contractors secure long-term dedicated fleet capacity. Standard manufacturing shipments are experiencing elevated transit times due to driver allocation shifts.",
+                "Supply chain analysts warn that the massive infrastructure buildout will continue to strain domestic surface transportation capacity through late 2026. Heavy equipment manufacturers are partnering directly with logistics brokers to guarantee priority dispatch services. Freight brokerages are expanding specialized heavy-haul divisions to service tech infrastructure demands.",
+                "Fleet managers are reallocating equipment assets toward high-yield industrial construction corridors to capture expanding tech infrastructure margins. Shippers outside the technology sector must lock in long-term carrier agreements to protect core distribution lanes. Transportation executives predict continued freight rate hardening across specialized flatbed markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL FREIGHT: VIRGINIA INDIANAPOLIS SERVICE",
+            "nextUpTease": "FLEET TECH: DAIMLER US FACTORY EXPANSION",
             "tags": [
-                "Source: https://www.maritime-executive.com/article/china-ports-suspending-operations-super-typhoon",
-                "Published: 2026-08-07T16:32:00Z",
+                "Source: https://www.joc.com/trucking/data-centers-pulling-on-already-shrinking-pool-us-truck-capacity-2026",
+                "Published: 2026-08-08T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RAIL FREIGHT: VIRGINIA INDIANAPOLIS SERVICE",
+            "heading": "FLEET TECH: DAIMLER US FACTORY EXPANSION",
             "points": [
-                "The Port of Virginia partnered with CSX Transportation to launch direct intermodal rail service linking deepwater marine terminals to Indianapolis. The new rail corridor allows ocean containerized cargo to move directly into the Midwest industrial region via dedicated rail line. This service bypasses traditional intermodal bottleneck points in Chicago, significantly improving regional freight velocity.",
-                "By shifting container movements from highway trucking to direct rail intermodal, logistics providers reduce transit times by 24 to 48 hours. Midwest importers and exporters gain direct access to Virginia's 55-foot deep channels and automated terminal infrastructure. The direct service reduces highway diesel fuel consumption and lowers carbon emissions for regional shippers.",
-                "Class I railroad infrastructure investments are accelerating as ocean ports seek to extend their hinterland reach deeper into interior domestic markets. CSX and Port of Virginia officials anticipate strong demand from automotive, retail, and industrial manufacturing sectors across Indiana. The intermodal service provides a scalable overland alternative during peak ocean import surges.",
-                "Supply chain strategists highlight direct rail links as critical buffer capacity against Midwest highway congestion and driver shortages. Shippers utilizing the new corridor can optimize drayage operations and streamline inland customs clearance procedures. Regional distribution centers in central Indiana stand to capture increased throughput velocity."
+                "Daimler Truck North America officially announced plans to construct its largest US commercial vehicle manufacturing facility, scheduled to begin operations in 2029. The state-of-the-art industrial plant will focus on producing next-generation commercial trucks to supply expanding North American freight networks. Executive leadership confirmed the facility will significantly increase domestic chassis manufacturing capacity.",
+                "The heavy-duty truck manufacturer aims to streamline assembly workflows and reduce order-to-delivery lead times for commercial fleet buyers. Industry analysts project the manufacturing hub will boost domestic commercial truck supply and support fleet modernization efforts. Infrastructure investments include automated vehicle assembly lines and integrated battery-electric staging zones.",
+                "The strategic capital investment underscores long-term confidence in North American freight demand and commercial motor carrier fleet expansion. OEM executives are positioning production lines to accommodate evolving low-emission engine technologies and zero-emission powertrains. Regional supply chains surrounding the new plant site are expecting increased industrial land demand.",
+                "Fleet directors anticipate improved vehicle availability and broader equipment options as new manufacturing capacity comes online. Motor carriers are aligning long-term fleet replacement cycles with anticipated commercial truck production timelines. Logistics providers view the expansion as a critical pillar for future overland transport capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: LEIPZIG DRONE THREAT",
+            "nextUpTease": "INLAND FREIGHT: RHINE WATER RESTRICTIONS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-adds-csx-rail-service-indianapolis",
-                "Published: 2026-08-08T11:00:00Z",
+                "Source: https://www.ttnews.com/articles/dtna-largest-us-truck-plant-2026",
+                "Published: 2026-08-07T14:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR CARGO: LEIPZIG DRONE THREAT",
+            "heading": "INLAND FREIGHT: RHINE WATER RESTRICTIONS",
             "points": [
-                "German federal counterterrorism authorities initiated a high-level investigation after discovering an explosive-laden drone inside Leipzig/Halle Airport. The facility serves as a primary European air express hub and global air freight sorting facility for major express integrators. Security forces secured the perimeter and conducted extensive tactical sweeps across air cargo handling zones.",
-                "Air freight handling and express cargo operations experienced temporary security holds while law enforcement inspected surrounding airport zones. Federal aviation safety agencies ordered heightened physical security protocols and perimeter monitoring across all major German air hubs. Authorities are investigating potential state-sponsored sabotage or organized criminal involvement.",
-                "The incident underscores escalating physical security risks targeting European air logistics hubs and critical transport infrastructure networks. Express operators are enhancing cargo screening protocols and deploying advanced anti-drone mitigation systems around sorting centers. Security risk assessments are being updated across European aviation freight facilities.",
-                "Aviation logistics managers are bracing for potential operational delays as airport security inspections tighten across Central European hubs. Supply chain risk analysts advise express shippers to factor extra security transit buffers into time-definite international shipments. Air carriers are working with federal police to safeguard vital freight infrastructure."
+                "Record-low water levels along the Rhine River forced European inland waterway operators to reduce barge cargo intakes to 30% of standard operating capacity. Strategic transit points near Kaub are experiencing severe depth restrictions, preventing fully loaded commercial vessels from navigating key industrial corridors. Raw material flows into German manufacturing centers are facing critical bottlenecks.",
+                "Shippers operating in European chemical, steel, and energy sectors are encountering elevated low-water surcharge fees and delayed cargo arrivals. Inland logistics providers are attempting to shift containerized cargo onto regional rail and motor carrier networks. European overland transport networks are struggling to absorb diverted barge freight volumes.",
+                "Inland navigation authorities warn that persistent dry conditions could disrupt Central European industrial supply chains through late summer. Chemical producers are reducing plant operating rates due to raw material delivery constraints and delayed bulk vessel dispatches. Logistics operators are deploying shallow-draft specialized barges to maintain minimal freight fluidity.",
+                "Supply chain managers are advising European industrial clients to establish emergency overland transport buffers to prevent assembly line stoppages. Freight forwarders expect continued upward pressure on European truckload and rail spot rates during low-water periods. European manufacturing firms are re-evaluating multi-modal supply chain resiliency plans."
             ],
             "imageUrl": "",
-            "nextUpTease": "BORDER LOGISTICS: MEXICO CROSSING EXPANSION",
+            "nextUpTease": "EMISSIONS: EPA 2027 ENGINE MANDATE",
             "tags": [
-                "Source: https://theloadstar.com/drone-carrying-explosives-found-at-leipzig-airport",
-                "Published: 2026-08-06T17:00:00Z",
+                "Source: https://theloadstar.com/rhine-river-water-levels-restrict-inland-freight-2026/",
+                "Published: 2026-08-07T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "BORDER LOGISTICS: MEXICO CROSSING EXPANSION",
+            "heading": "EMISSIONS: EPA 2027 ENGINE MANDATE",
             "points": [
-                "Mexican federal transport authorities announced a major infrastructure expansion plan for the country's busiest commercial cross-border truck crossing. The strategic project aims to double commercial inspection lane capacity and integrate modern automated customs clearance technologies. Construction teams are scheduled to break ground to modernize border port infrastructure and approach corridors.",
-                "The expansion is designed to eliminate multi-hour border wait times for commercial freight carriers moving goods into the United States. Cross-border trade flows between Mexico and the US have surged, overwhelming existing inspection booths and regional road networks. Expanded processing capacity will streamline nearshoring trade corridors for automotive and electronics manufacturers.",
-                "Nearshoring industrial shifts have positioned Mexico as the primary trading partner of the United States, driving record freight volumes across land ports. Government officials from both nations are aligning customs inspection procedures to enable synchronized bi-national freight processing. Modernized border infrastructure will significantly lower overland transit costs for cross-border supply chains.",
-                "Logistics managers and motor carriers anticipate improved fleet utilization and reduced transit volatility along major US-Mexico freight corridors. Shippers investing in Mexican manufacturing capacity will benefit from predictable cross-border delivery schedules and expanded freight capacity. The expansion project marks a critical milestone in North American freight infrastructure integration."
+                "Daimler Truck North America formally committed to exclusively producing EPA 2027-compliant heavy-duty engines as federal nitrogen oxide rules take effect. The commercial vehicle manufacturer is discontinuing legacy engine architectures to focus entirely on advanced low-emission powertrains. The transition marks a major technology shift across North American commercial fleet manufacturing.",
+                "Fleet operators purchasing 2027 model-year commercial vehicles will experience updated powertrain technology designed to meet strict environmental standards. Engine manufacturers are incorporating advanced exhaust aftertreatment systems and improved fuel delivery electronics. Industry experts predict higher initial acquisition costs for next-generation heavy-duty truck platforms.",
+                "Environmental regulatory frameworks are driving rapid technological innovation across commercial vehicle original equipment manufacturing. Commercial motor carriers are adjusting maintenance schedules and technician training programs to support updated engine diagnostics. OEM engine suppliers are streamlining component manufacturing to support full-scale powertrain conversion.",
+                "Logistics fleet managers are evaluating equipment pre-buy strategies ahead of full regulatory enforcement to optimize capital expenditures. Transportation risk managers are reviewing fleet residual values as older engine platforms face restricted entry into zero-emission zones. Carrier executive teams are aligning multi-year equipment budgets with updated engine cost models."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON TITLE RESTRICTIONS",
+            "nextUpTease": "NEARSHORING: MEXICO OAXACA INVESTMENT",
             "tags": [
-                "Source: https://www.freightwaves.com/news/mexico-plans-major-expansion-busiest-cross-border-truck-crossing",
-                "Published: 2026-08-07T15:00:00Z",
+                "Source: https://www.ttnews.com/articles/dtna-epa-2027-engines-nox-2026",
+                "Published: 2026-08-07T13:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "E-COMMERCE: AMAZON TITLE RESTRICTIONS",
+            "heading": "NEARSHORING: MEXICO OAXACA INVESTMENT",
             "points": [
-                "Amazon formally implemented a strict product title character limit, capping item titles at maximum 75 characters across its global marketplace. The mandate applies universally to third-party merchant listings as well as Amazon's first-party retail product catalog. Non-compliant product titles face automated search suppression and algorithmic ranking penalties until corrected.",
-                "The policy enforcement aims to streamline mobile shopping interfaces and eliminate keyword-stuffing practices in product catalog metadata. Sellers must audit and rewrite tens of thousands of active SKUs to conform to the truncated title length standard. E-commerce brand managers report immediate disruptions to organic search traffic for un-updated product listings.",
-                "Retail technology analysts view the move as part of a broader algorithmic shift toward AI-driven search indexing and conversational commerce interfaces. Shorter titles force brand owners to optimize primary product keywords and clean structured product catalog attributes. Digital supply chain teams are automating catalog updates using bulk catalog management tools.",
-                "Online merchants and multi-channel brands must adapt catalog management strategies to maintain product visibility across major e-commerce platforms. Supply chain partners handling e-commerce fulfillment must align product identification data with updated marketplace listing standards. E-commerce operations teams are prioritizing high-volume SKUs to prevent revenue loss during the transition."
+                "The Mexican federal government announced a $2.2B infrastructure investment plan targeting transport and logistics corridors across the state of Oaxaca. Strategic capital allocations will fund modern highway construction, intermodal rail links, and regional industrial park infrastructure. The development aims to position Southern Mexico as a key logistics bridge between Pacific and Atlantic trade lanes.",
+                "The infrastructure expansion is expected to accelerate cross-border freight velocity and expand nearshoring manufacturing capacity for North American supply chains. Industrial developers are acquiring strategic land parcels along upgraded transportation corridors to build fulfillment centers. Modernized logistics links will reduce overland transit times for export manufacturing units.",
+                "International trade experts view the Southern Mexico investment as a vital initiative to diversify manufacturing hubs away from congested northern border crossings. Corporate supply chain planners are evaluating expansion opportunities across Southern Mexican industrial parks. Enhanced freight infrastructure provides an alternative trade corridor for global manufacturing firms.",
+                "Cross-border motor carriers and logistics providers anticipate expanded freight volumes along US-Mexico land trade corridors. Shippers investing in Mexican manufacturing operations gain improved intermodal connectivity to major Gulf of Mexico ports. The capital project strengthens regional supply chain resilience across North American trade networks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-75-characters",
-                "Published: 2026-08-07T20:00:00Z",
+                "Source: https://www.supplychainbrain.com/articles/oaxaca-mexico-2-2b-logistics-investment-2026",
+                "Published: 2026-08-07T16:00:00Z",
                 "Status: Audited & True"
             ]
         }
