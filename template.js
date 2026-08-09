@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
+        "titleWhite": "POLYSILICON IMPORT",
         "titleBlue": "TARIFFS",
-        "footerSummary": "USTR tariffs on 60 nations, Chinese port suspensions, and $4.49M cyber cargo theft force critical global logistics supply chain recalibrations."
+        "footerSummary": "15% polysilicon tariffs, SeaLead liquidation, Hormuz transit tolls, and GPS jamming insurance force immediate global supply chain adjustments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "TRADE: POLYSILICON IMPORT TARIFFS",
             "points": [
-                "The Office of the United States Trade Representative launched Section 301 tariffs targeting 60 partner nations following Section 122 expirations.",
-                "The enforcement shift targets systemic labor violations across global trade lanes, imposing strict import compliance standards at US arrival ports.",
-                "Importers face mandatory supply chain audits and delayed customs clearances without verified origin verification documentation.",
-                "Logistics operators must update classification engines to prevent sudden cargo holds and heavy duty penalties on non-compliant shipments."
+                "President Donald Trump issued an executive proclamation levying a 15% tariff on global polysilicon imports earmarked for semiconductor chips and solar power manufacturing.",
+                "The regulatory action mandates an import price floor slated to take full effect on December 4, 2026 across domestic entry ports.",
+                "Importers and clean energy hardware suppliers must restructure global procurement channels to absorb elevated raw material costs across North American assembly networks.",
+                "Legal analysts anticipate secondary trade adjustments as tech manufacturers accelerate domestic supply chain reshoring and alternative sourcing pipelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: VIRGINIA INDIANAPOLIS SERVICE",
+            "nextUpTease": "OCEAN: SEALEAD LINE LIQUIDATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs_on_60_nations",
-                "Published: 2026-08-08T09:00:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-15-percent-tariff-polysilicon-imports-chips-solar/723499/",
+                "Published: 2026-08-07T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL: VIRGINIA INDIANAPOLIS SERVICE",
+            "heading": "OCEAN: SEALEAD LINE LIQUIDATION",
             "points": [
-                "The Port of Virginia partnered with CSX Railroad to open direct intermodal rail service linking coastal terminals to Indianapolis.",
-                "The new route bypasses historical Chicago rail chokepoints, trimming up to 48 hours off inland container transit times.",
-                "Midwest shippers gain streamlined access to mid-Atlantic ocean services, bypassing traditional truck drayage bottlenecks.",
-                "Rail freight forwarders can now offer lower-cost intermodal routing for high-volume Midwestern retail and industrial cargo."
+                "Singapore-headquartered container carrier SeaLead Shipping officially initiated voluntary liquidation proceedings following severe US secondary sanctions imposed on its corporate entities.",
+                "Competing ocean liners and regional ocean operators rapidly acquired SeaLead\u2019s active vessel charters and empty container inventory across key trade hubs.",
+                "The unexpected collapse effectively terminates primary container shipping services bridging East Asian export gateways with Middle Eastern, Mediterranean, and Baltic ports.",
+                "Freight forwarders are actively re-routing impacted ocean cargo to alternative ocean carriers to prevent severe port detention penalties and supply chain delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CARGO THEFT RING",
+            "nextUpTease": "MARITIME: HORMUZ STRAIT TOLLS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-indianapolis/723490/",
-                "Published: 2026-08-07T16:00:00Z",
+                "Source: https://splash247.com/us-sanctions-push-sealead-shipping-into-liquidation/",
+                "Published: 2026-08-07T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SECURITY: CARGO THEFT RING",
+            "heading": "MARITIME: HORMUZ STRAIT TOLLS",
             "points": [
-                "A federal grand jury indicted 8 individuals for executing a $4.49M cargo theft ring leveraging compromised cyber credentials.",
-                "The illicit operation hacked carrier databases to intercept high-value retail freight shipments across Eastern logistics hubs.",
-                "Law enforcement emphasized growing cyber vulnerabilities within freight brokerage networks and digital dispatch systems.",
-                "Shippers are urged to enforce multi-factor authentication across all freight portal integrations to prevent unauthorized load re-routing."
+                "Global shipping associations called on the United Nations and International Maritime Organization to intervene against proposed Strait of Hormuz transit fees.",
+                "Iranian lawmakers drafted legislation to impose financial tolls and ban US and Israeli-linked commercial vessels from navigating through the critical maritime transit corridor.",
+                "Tanker operators and container lines warn that unilateral waterway transit fees will escalate global energy transport costs and disrupt international trade routes.",
+                "International maritime regulatory bodies are evaluating emergency protocols to safeguard open navigation access across high-risk Middle Eastern shipping lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: TYPHOON PORT SUSPENSIONS",
+            "nextUpTease": "INSURANCE: GPS JAMMING COVERAGE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/grand-jury-indicts-8-cargo-theft-hacked-data",
-                "Published: 2026-08-07T15:30:00Z",
+                "Source: https://www.joc.com/article/global-shipping-calls-on-un-imo-to-ensure-no-hormuz-tolls_20260807.html",
+                "Published: 2026-08-07T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: TYPHOON PORT SUSPENSIONS",
+            "heading": "INSURANCE: GPS JAMMING COVERAGE",
             "points": [
-                "Chinese maritime authorities ordered complete operational suspensions across major coastal ports as Super Typhoon Dolphin approaches.",
-                "Over 160 commercial vessels were instructed to clear bunkering anchorages and seek open water safety away from coastal zones.",
-                "Vessel departure holds are expected to generate acute container vessel backlogs across primary East Asian export gateways.",
-                "Transpacific container carriers are adjusting schedule arrival windows, warning BCOs of impending downstream terminal congestion."
+                "Japanese marine insurer Sompo Japan launched the commercial maritime industry\u2019s first insurance policy specifically covering economic losses caused by GPS jamming.",
+                "The specialized financial product mitigates commercial risks associated with growing electronic navigation disruption and vessel positioning interference in conflict zones.",
+                "Vessel operators face severe operational delays and costly detour expenses as electronic warfare increasingly targets commercial shipping navigation systems across active maritime chokepoints.",
+                "Maritime risk managers expect widespread adoption of targeted cyber and navigation insurance products across global commercial fleets operating in high-risk waters."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: FREEDOM HAULERS PROGRAM",
+            "nextUpTease": "EQUIPMENT: DAIMLER TRUCK PLANT",
             "tags": [
-                "Source: https://maritime-executive.com/article/china-ports-suspending-operations-super-typhoon",
-                "Published: 2026-08-07T16:32:00Z",
+                "Source: https://splash247.com/sompo-moves-to-close-gps-jamming-insurance-gap/",
+                "Published: 2026-08-07T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRUCKING: FREEDOM HAULERS PROGRAM",
+            "heading": "EQUIPMENT: DAIMLER TRUCK PLANT",
             "points": [
-                "The US Department of Transportation launched the Freedom Haulers initiative to expedite commercial driver licenses for military veterans.",
-                "The interagency policy shortens CDL licensing timelines while intensifying federal enforcement against non-domiciled motor carriers.",
-                "Fleets gain an accelerated pipeline of qualified domestic driver capacity to offset long-term driver shortages across long-haul lanes.",
-                "Logistics managers anticipate improved driver retention metrics and elevated safety standards across interstate trucking operations."
+                "Daimler Truck North America announced plans to construct its largest US commercial vehicle manufacturing facility, targeted for operational startup in 2029.",
+                "The manufacturing expansion focuses on producing next-generation commercial trucks designed to satisfy upcoming Environmental Protection Agency 2027 emissions mandates.",
+                "Fleet operators and freight carriers gain access to expanded domestic truck manufacturing capacity as heavy-duty vehicle regulations reshape fleet replacement schedules.",
+                "The capital investment underscores long-term industrial demand for advanced, low-emission commercial transportation equipment across North American freight networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: AEO DISTRIBUTION CENTER",
+            "nextUpTease": "ECOMMERCE: AMAZON TITLE LIMITS",
             "tags": [
-                "Source: https://www.inboundlogistics.com/articles/trump-administration-launches-freedom-haulers",
-                "Published: 2026-08-08T08:00:00Z",
+                "Source: https://www.ttnews.com/articles/dtna-new-us-truck-plant-2029",
+                "Published: 2026-08-07T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "INFRASTRUCTURE: AEO DISTRIBUTION CENTER",
+            "heading": "ECOMMERCE: AMAZON TITLE LIMITS",
             "points": [
-                "American Eagle Outfitters announced a $41M investment to construct a state-of-the-art fulfillment center in North Carolina.",
-                "Scheduled for 2027 operational startup, the facility will create 200 jobs and optimize regional Southeastern store fulfillment.",
-                "The strategic node strengthens direct-to-consumer delivery speeds while lowering regional parcel linehaul expenses.",
-                "Retail supply chains continue expanding domestic distribution footprints to safeguard against localized hub disruptions."
+                "Amazon implemented a strict global catalog policy restricting product titles to a maximum length of 75 characters across merchant and first-party listings.",
+                "The catalog modification aims to standardize product display formatting across mobile interfaces and optimize search indexing efficiency for online buyers.",
+                "E-commerce sellers and brand manufacturers must immediately audit and reformat product titles to avoid suppressed search visibility and automated listing suspensions.",
+                "Digital retail strategists anticipate improved consumer conversion metrics while forcing brands to optimize high-density keyword phrasing within tight character limits."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL: USPS SURCHARGE REVENUE",
+            "nextUpTease": "BORDER: MEXICO CROSSING EXPANSION",
             "tags": [
-                "Source: https://www.retaildive.com/news/american-eagle-outfitters-north-carolina-distribution-center/723480/",
-                "Published: 2026-08-07T13:00:00Z",
+                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-also-applies-to-its-own-listings/",
+                "Published: 2026-08-07T19:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PARCEL: USPS SURCHARGE REVENUE",
+            "heading": "BORDER: MEXICO CROSSING EXPANSION",
             "points": [
-                "The US Postal Service generated $20B in quarterly revenue buoyed by newly implemented commercial parcel surcharges.",
-                "Increased Ground Advantage yield expanded operating margins despite ongoing shifts in domestic e-commerce package volumes.",
-                "Postal leadership credits targeted rate adjustments and network modernization for stabilizing organizational balance sheets.",
-                "Enterprise shippers must continuously re-evaluate carrier rate cards as postal surcharges alter final-mile cost structures."
+                "Mexican infrastructure authorities announced a major expansion initiative targeting the country's busiest commercial cross-border truck crossing point.",
+                "The multi-million-dollar infrastructure upgrade expands processing lanes and customs inspection capacity to alleviate severe cross-border drayage bottlenecks.",
+                "Cross-border motor carriers and nearshoring manufacturers stand to gain reduced border dwell times and streamlined customs processing efficiency.",
+                "Logistics coordinators expect the capacity expansion to support rising industrial trade volumes between Mexican manufacturing hubs and North American commercial markets."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com/news/postalmag-new-parcel-surcharge-helps-postal-service-reach-20b-in-revenue",
-                "Published: 2026-08-08T10:00:00Z",
+                "Source: https://www.freightwaves.com/news/borderlands-mexico-plans-major-expansion-of-busiest-cross-border-truck-crossing",
+                "Published: 2026-08-08T02:00:00Z",
                 "Status: Audited & True"
             ]
         }
