@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR MOVES AHEAD WITH FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "Global trade friction surges as the USTR enforces Section 301 tariffs across 60 trading partners while container shipping lines battle severe regional route disruptions."
+        "titleWhite": "FREIGHT MARKET TIGHTENS AS CAPACITY",
+        "titleBlue": "SHRINKS",
+        "footerSummary": "Global freight markets face rising tightness as regulatory enforcement accelerates capacity exits and logistics providers reposition for autumn volumes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "FORWARD AIR: MARKET TIGHTENING",
             "points": [
-                "The Office of the United States Trade Representative officially moved forward with the implementation of strict trade tariffs covering 60 distinct global trading nations. The regulatory enforcement action takes effect immediately following the formal expiration of legacy Section 122 provisions across international import lanes. Importers must review cross-border compliance programs to align with expanded federal forced labor trade restrictions.",
-                "Customs compliance divisions across major multinational enterprises face heightened verification burdens and potential duty adjustments for inbound cargo shipments. Supply chain procurement teams are auditing tier-1 vendor networks to identify exposure to the newly activated 60-nation tariff schedule. Legal advisors note that non-compliance risks immediate shipment holds at US ports of entry.",
-                "Trade policy experts emphasize that the USTR action signals an aggressive pivot toward utilizing targeted tariff instruments to enforce supply chain transparency. The regulatory measure aims to systematically eliminate coerced labor practices from tier-3 raw material extraction points up to finished goods assembly. Corporate logistics planners are restructuring international supplier contracts to mitigate long-term duty exposure.",
-                "Enterprise supply chain directors must establish real-time traceability frameworks to verify the provenance of all imported components before dispatch. Forward-looking corporations are diversifying manufacturing footprints away from high-risk jurisdictions to ensure uninterrupted border clearance. Executive leadership teams are revising annual cost projections to absorb rising compliance and tariff overhead."
+                "Forward Air CEO Shawn Stewart reported that market fundamentals are actively improving as freight capacity continues to tighten across domestic corridors. The capacity contraction is being driven directly by aggressive regulatory enforcement and accelerated commercial carrier exits.",
+                "Logistics providers are observing a notable shift in pricing power as over-the-road equipment availability diminishes in key regional markets. Shippers are experiencing increased competition for spot-market trucks as smaller operators surrender authority due to rising operational overhead.",
+                "Industry analysts note that ongoing compliance crackdowns and safety sweeps have effectively sidelined thousands of non-compliant drivers and commercial vehicles. This systematic reduction in available carrier capacity is reshaping contract negotiations ahead of the peak shipping season.",
+                "Enterprise supply chain directors should lock in dedicated contract rates immediately to insulate transportation budgets against forecasted spot rate volatility. Forward-looking logistics planners are diversifying carrier networks to secure reliable equipment allocation."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: PORT OPERATIONS SUSPENDED",
+            "nextUpTease": "PORTS: NRF PEAK SHIPPING SEASON",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr-moves-ahead-with-forced-labor-tariffs",
-                "Published: 2026-08-08T09:00:00Z",
+                "Source: https://www.ttnews.com/articles/forward-air-ceo-optimistic-freight-market-tightening",
+                "Published: 2026-08-07T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: PORT OPERATIONS SUSPENDED",
+            "heading": "PORTS: NRF PEAK SHIPPING SEASON",
             "points": [
-                "Chinese maritime authorities ordered sweeping operational halts across major container terminals as Super Typhoon Dolphin tracks rapidly toward regional coastal hubs. Terminal operators suspended vessel berthing, container handling, and maritime fueling services to protect port infrastructure from severe weather impacts. Commercial shipping lines received urgent advisories instructing vessels to depart berths and head to open sea.",
-                "Ocean carriers and beneficial cargo owners face mounting container backlogs and schedule reliability degradation across vital transpacific and intra-Asia trade loops. The temporary port closures threaten to exacerbate equipment imbalances and compound vessel arrival bunching over the next 14 days. Terminal operators are assembling emergency recovery task forces to process stranded cargo volumes post-storm.",
-                "Maritime meteorologists highlight that the intense tropical system forces immediate risk mitigation protocols across the busiest container gateways in eastern Asia. Shipping lines operating transpacific loops are actively executing contingency routing adjustments to bypass dangerous coastal waters. Port congestion metrics are projected to surge significantly as vessels resume operations.",
-                "Logistics planners must incorporate extended buffer dwell times into ocean transit schedules originating from affected Chinese manufacturing centers. Supply chain directors are advised to maintain constant communication with vessel operators regarding revised arrival windows and alternative port rotations. Distribution hubs should prepare downstream networks for delayed inbound container deliveries."
+                "The National Retail Federation reported that summer monthly container imports are projected to hit their highest level since 2022 before subsiding in September. Early peak shipping season volumes have surged into major US gateway ports as retailers frontload holiday inventory inventories.",
+                "Marine terminal operators and intermodal rail yards are processing heightened cargo volumes while managing complex container dwell times. Port authorities have implemented around-the-clock clearance operations to prevent severe landside congestion across key coastal hubs.",
+                "Supply chain planners note that early import surges reflect persistent retailer anxiety surrounding potential trade policy shifts and maritime transit disruptions. Importers are aggressively pulling forward holiday merchandise to mitigate downstream supply chain bottlenecks.",
+                "Distribution center managers must scale labor and storage capacities to absorb incoming inventory spikes before the anticipated September volume decline. Logistics teams are coordinating closely with ocean carriers to streamline container pickups."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER: RIVALS ACQUIRE SEALEAD ASSETS",
+            "nextUpTease": "MARITIME: HORMUZ DIPLOMACY & TOLLS",
             "tags": [
-                "Source: https://maritime-executive.com/article/china-s-ports-suspending-operations-as-super-typhoon-approaches",
-                "Published: 2026-08-07T16:32:00Z",
+                "Source: https://www.dcvelocity.com/articles/66835-summer-monthly-imports-to-hit-highest-level-since-2022",
+                "Published: 2026-08-07T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CARRIER: RIVALS ACQUIRE SEALEAD ASSETS",
+            "heading": "MARITIME: HORMUZ DIPLOMACY & TOLLS",
             "points": [
-                "Rival ocean carriers and leasing companies moved swiftly to acquire container vessels and equipment inventories from the liquidated Singapore-registered operator SeaLead Shipping. The defunct liner company collapsed following the rapid imposition of restrictive US trade sanctions that severed its operational financing. Competitors integrated the abandoned box assets to stabilize capacity on critical Middle East and Mediterranean trade lanes.",
-                "Global freight forwarders and shippers holding active bookings on SeaLead strings faced abrupt service terminations and equipment recovery hurdles. Ocean capacity across key regional corridors tightened instantly as competitors absorbed available slot allocations at premium market rates. Beneficial cargo owners were forced to renegotiate spot contracts on alternative carrier networks on short notice.",
-                "Shipping industry analysts observe that regulatory sanctions can trigger rapid insolvency and operational dissolution among niche ocean carriers operating in volatile trade zones. The sudden corporate collapse underscores the acute financial fragility of secondary-tier container lines. Major carriers are actively positioning assets to capture displaced customer volumes across competitive international corridors.",
-                "Supply chain managers utilizing niche ocean shipping providers must enforce rigorous financial health and sanctions compliance audits across all contracted vendors. Freight procurement teams should diversify carrier portfolios to eliminate single-source vulnerabilities on regional maritime routes. Logistics planners are monitoring geopolitical risk indicators to safeguard international freight flows."
+                "Global shipping organizations have formally called on the United Nations and International Maritime Organization to ensure zero transit tolls are imposed in the Strait of Hormuz. International maritime bodies are intervening as regional talks between Iran and Oman progress regarding future vessel traffic arrangements.",
+                "Commercial shipowners operating crude tankers and container vessels face immense financial risk if proposed waterway transit fees and security tolls are officially enacted. Insurance underwriters have adjusted war-risk premiums upward to account for ongoing geopolitical volatility in the region.",
+                "Trade policy experts emphasize that establishing unilateral tolls in international shipping chokepoints violates foundational principles of freedom of navigation. Maritime stakeholders are lobbying diplomatic coalitions to guarantee unhindered commercial passage through the vital trade lane.",
+                "Energy and container shipping lines are actively modeling alternative routing scenarios to bypass potential security bottlenecks in the Middle East. Fleet managers are maintaining direct communication with naval escorts to safeguard active voyages."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: DATA CENTER TRUCK DEMAND",
+            "nextUpTease": "REGULATION: VETERANS FREEDOM HAULERS",
             "tags": [
-                "Source: https://theloadstar.com/troubled-sealeads-ships-and-boxes-quickly-snapped-up-by-rivals/",
-                "Published: 2026-08-07T12:00:00Z",
+                "Source: https://www.joc.com/article/global-shipping-calls-on-un-imo-to-ensure-no-hormuz-tolls_20260807.html",
+                "Published: 2026-08-07T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INFRASTRUCTURE: DATA CENTER TRUCK DEMAND",
+            "heading": "REGULATION: VETERANS FREEDOM HAULERS",
             "points": [
-                "Industry analysts disclosed that each gigawatt of US data center construction expansion requires approximately 100,000 truckload shipments of specialized equipment and materials. The massive digital infrastructure buildout is placing unprecedented strain on an already constrained domestic over-the-road trucking capacity pool. Fleet executives report surging commercial demand for dedicated heavy-haul and specialized project logistics transport.",
-                "Construction logistics managers and flatbed carriers face severe equipment shortages as tech infrastructure projects scale simultaneously across multiple regional markets. Freight brokerage firms are bidding up spot rates aggressively to secure available drivers for high-priority equipment deliveries. Project completion timelines are increasingly vulnerable to surface transportation bottlenecks and driver scarcity.",
-                "Infrastructure real estate experts emphasize that the digital technology boom is directly competing with traditional retail and industrial supply chains for trucking assets. Transport service providers are reallocating equipment portfolios toward lucrative tech-sector construction projects to maximize yields. Regional highway networks near major data center developments are experiencing localized freight congestion.",
-                "Project logistics planners must secure multi-month dedicated carrier capacity agreements well in advance of major construction milestones to mitigate spot market volatility. Supply chain executives should evaluate intermodal and rail alternatives to reduce reliance on tight truckload capacity markets. Enterprise logistics strategies must account for rising transportation overhead tied to infrastructure expansion."
+                "The Trump administration officially launched the Freedom Haulers interagency campaign designed to steer military veterans directly into commercial driver licensing programs. The federal initiative shortens the operational runway from military service to a commercial truck driving license.",
+                "The Department of Transportation paired the veteran recruitment push with continued rigorous enforcement against non-domiciled commercial vehicle drivers. Federal safety inspectors sidelined hundreds of unverified operators during nationwide compliance sweeps across state highways.",
+                "Trucking industry executives welcomed the federal recruitment pipeline as a vital structural measure to mitigate persistent driver shortages across fleets. Fleet operators are partnering with transition programs to integrate trained veterans into regional and long-haul divisions.",
+                "Motor carriers participating in the Freedom Haulers initiative must establish dedicated mentorship programs to support newly licensed drivers. Transportation safety directors are updating onboarding protocols to maintain high compliance standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: HACKED DATA CARGO THEFT RING",
+            "nextUpTease": "TECHNOLOGY: POLYSILICON TARIFFS",
             "tags": [
-                "Source: https://www.joc.com/article/data-centers-pulling-already-shrinking-pool-us-truck-capacity_20260807.html",
-                "Published: 2026-08-07T10:15:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-07T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SECURITY: HACKED DATA CARGO THEFT RING",
+            "heading": "TECHNOLOGY: POLYSILICON TARIFFS",
             "points": [
-                "A federal grand jury returned criminal indictments against eight individuals allegedly operating an international cargo theft ring responsible for stealing $4.49M in retail goods. The criminal syndicate utilized compromised digital credentials hacked from legitimate transportation and logistics companies to intercept high-value commercial shipments. Law enforcement agencies confirmed the network was orchestrated by an alleged foreign mastermind.",
-                "Retailers and third-party logistics providers suffered direct financial losses and inventory write-offs resulting from sophisticated digital freight fraud schemes. Security officers at major distribution facilities are tightening digital access controls and verifying carrier credentials before releasing freight. Cyber insurance underwriters are reviewing policy requirements for logistics technology integrations.",
-                "Supply chain cybersecurity specialists warn that data breaches targeting transportation management systems represent an escalating operational vulnerability for commercial enterprises. Criminal networks are increasingly employing advanced digital espionage tactics to execute large-scale physical cargo thefts. Industry associations are urging firms to adopt multi-factor authentication protocols across all booking platforms.",
-                "Logistics security directors must conduct comprehensive vulnerability assessments of internal freight booking and dispatch software applications. Supply chain IT teams should implement strict verification procedures for carrier identity confirmation prior to load tender acceptance. Risk management committees are allocating additional capital to enhance cybersecurity resilience."
+                "President Donald Trump issued a formal proclamation imposing a 15% tariff on polysilicon imports utilized for advanced computer chips and solar power generation. The new trade levy, accompanied by a strict import price floor, is scheduled to go into effect on December 4.",
+                "Semiconductor manufacturers and renewable energy firms face significant procurement cost adjustments for critical raw materials essential to advanced technology production. Supply chain procurement teams are auditing tier-1 supplier networks to evaluate exposure to the incoming polysilicon duties.",
+                "Trade analysts note that the federal measure is designed to accelerate domestic manufacturing reshoring and reduce reliance on foreign semiconductor supply chains. Long-term sourcing strategies must be restructured to accommodate the 15% tariff overhead.",
+                "Enterprise technology firms should establish alternative domestic supply partnerships well ahead of the December implementation date. Corporate leadership teams are revising capital expenditure models to absorb rising material costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: STATES SUE OVER TARIFFS",
+            "nextUpTease": "SECURITY: GPS JAMMING INSURANCE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/grand-jury-indicts-8-cargo-theft-scheme-tied-hacked-data",
-                "Published: 2026-08-07T09:30:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-imposes-15-percent-tariff-polysilicon-chips-solar/825482/",
+                "Published: 2026-08-07T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATION: STATES SUE OVER TARIFFS",
+            "heading": "SECURITY: GPS JAMMING INSURANCE",
             "points": [
-                "A coalition of 25 state attorneys general filed a formal lawsuit challenging the federal implementation of Section 301 forced-labor import tariffs. The legal complaint argues that the sweeping duties constitute an unlawful executive workaround following a Supreme Court decision revoking emergency trade powers. State officials claim the tariffs impose unconstitutional financial burdens on regional commercial economies.",
-                "Importers and customs brokers operating across multiple states face mounting legal uncertainty regarding long-term tariff liability and duty refund eligibility. Corporate trade compliance departments are coordinating with legal counsel to evaluate potential tariff adjustments or litigation participation. Federal trade agencies continue to enforce compliance verification protocols pending judicial review.",
-                "Legal analysts note that the multi-state lawsuit sets the stage for a prolonged constitutional battle over executive branch trade authorities and tariff enforcement. The litigation adds significant complexity to corporate supply chain planning amidst an already volatile regulatory landscape. Importers are hedging financial exposure by monitoring court injunction requests closely.",
-                "Supply chain legal advisors recommend that enterprise importers maintain detailed records of all Section 301 duty payments for potential future recovery. Corporate compliance teams must stay informed on judicial developments to adjust customs filing strategies dynamically. Logistics directors should factor potential tariff invalidation scenarios into long-term financial forecasts."
+                "Japanese insurer Sompo Japan launched the commercial shipping industry\u2019s first specialized insurance coverage targeting economic losses stemming from GPS jamming incidents. The innovative policy addresses growing maritime security risks caused by electronic interference in volatile shipping lanes.",
+                "Ocean carriers and vessel operators navigating high-risk waters face frequent satellite navigation disruptions that threaten voyage safety and schedule integrity. The specialized insurance product provides financial protection against commercial delays and navigational deviations.",
+                "Maritime risk management experts highlight that electronic warfare and signal spoofing represent escalating operational threats to global maritime commerce. Marine insurers are expanding coverage parameters to mitigate emerging technological vulnerabilities.",
+                "Fleet operators should evaluate their existing marine insurance portfolios to determine eligibility for GPS jamming loss protection. Risk officers are incorporating electronic countermeasure protocols into standard vessel operating procedures."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: VIRGINIA ADDS CSX RAIL",
+            "nextUpTease": "RETAIL: ETSY WORKFORCE REDUCTION",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/states-sue-trump-section-301-forced-labor-tariffs/825450/",
-                "Published: 2026-08-07T08:00:00Z",
+                "Source: https://splash247.com/sompo-moves-close-gps-jamming-insurance-gap/",
+                "Published: 2026-08-07T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: VIRGINIA ADDS CSX RAIL",
+            "heading": "RETAIL: ETSY WORKFORCE REDUCTION",
             "points": [
-                "The Port of Virginia announced the establishment of a direct CSX rail service connecting marine terminals directly to the Indianapolis logistics hub. The new intermodal connection allows import containers to move seamlessly via rail into the Midwest without requiring circuitous routing through Chicago. Port authorities confirmed the service reduces intermodal transit times significantly.",
-                "Beneficial cargo owners and intermodal shippers routing freight through East Coast gateways gain improved transit reliability and reduced drayage costs. The direct rail link bypasses traditional midwestern congestion bottlenecks, optimizing supply chain velocity for regional distribution centers. Rail operators are increasing train frequency to accommodate projected volume growth.",
-                "Transportation logistics experts highlight that port-rail infrastructure integration is critical for maintaining fluidity across major US import gateways. Expanding direct rail connectivity helps mitigate regional truck capacity shortages by shifting long-haul container volumes to rail. Shippers are increasingly favoring port partners that offer streamlined intermodal access.",
-                "Supply chain managers should review current routing guides to determine if Midwest-bound import shipments can leverage the new CSX rail connection. Logistics directors are coordinating with rail providers to secure priority slot allocations on the Virginia-to-Indianapolis corridor. Enterprise distribution models are adapting to faster inland intermodal transit times."
+                "Etsy announced a 12% workforce reduction, eliminating approximately 200 employee positions just six days after receiving $1.4B in cash from the sale of Depop. Executive leadership confirmed the structural downsizing aims to realign operational expenses with current e-commerce growth trajectories.",
+                "Online marketplace sellers and platform users experienced temporary administrative adjustments as corporate restructuring initiatives took effect across operational departments. The strategic divestment of Depop and subsequent staff cuts underscore broader margin pressures within digital retail.",
+                "Retail e-commerce analysts observe that digital platforms are aggressively streamlining corporate overhead to maintain profitability amidst fluctuating consumer demand. Marketplace operators are prioritizing core technology investments over expansive corporate headcount.",
+                "Online merchants utilizing multi-channel e-commerce platforms should monitor corporate service level agreements and platform fee structures closely. Logistics and inventory planners are maintaining operational agility to navigate shifting marketplace dynamics."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-virginia-csx-rail-service-indianapolis/825310/",
-                "Published: 2026-08-06T11:00:00Z",
+                "Source: https://www.retaildive.com/news/etsy-slashes-workforce-layoffs-depop-sale/825500/",
+                "Published: 2026-08-07T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+        "hookTitle": "FREIGHT MARKET TIGHTENS AS CAPACITY SHRINKS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: PORT OPERATIONS SUSPENDED",
+                "headline": "FORWARD AIR: MARKET TIGHTENING",
+                "teaserTitle": "PORTS: NRF PEAK SHIPPING SEASON",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR implemented tariffs on 60 trading nations under Section 301 as legacy provisions expired. Importers face immediate compliance burdens and potential duty adjustments across supply chains."
+                "narration_line": "Forward Air reports improving market fundamentals as freight capacity tightens across domestic corridors. Regulatory enforcement and carrier exits drive the capacity contraction."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PORT OPERATIONS SUSPENDED",
-                "teaserTitle": "CARRIER: RIVALS ACQUIRE SEALEAD ASSETS",
+                "headline": "PORTS: NRF PEAK SHIPPING SEASON",
+                "teaserTitle": "MARITIME: HORMUZ DIPLOMACY & TOLLS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Chinese ports suspended operations as Super Typhoon Dolphin approached regional coastlines. Ocean carriers face container backlogs and schedule reliability degradation across transpacific routes."
+                "narration_line": "Summer monthly container imports hit their highest level since 2022. Retailers frontload holiday inventory before volumes subside in September."
             },
             {
                 "slide_index": 3,
-                "headline": "CARRIER: RIVALS ACQUIRE SEALEAD ASSETS",
-                "teaserTitle": "INFRASTRUCTURE: DATA CENTER TRUCK DEMAND",
+                "headline": "MARITIME: HORMUZ DIPLOMACY & TOLLS",
+                "teaserTitle": "REGULATION: VETERANS FREEDOM HAULERS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Rival carriers acquired box assets from liquidated SeaLead Shipping following US sanctions. Global forwarders absorbed slot reallocations as regional capacity tightened across trade lanes."
+                "narration_line": "Global shipping groups urge the UN and IMO to ensure zero transit tolls in Hormuz. Commercial shipowners face financial risk from proposed waterway fees."
             },
             {
                 "slide_index": 4,
-                "headline": "INFRASTRUCTURE: DATA CENTER TRUCK DEMAND",
-                "teaserTitle": "SECURITY: HACKED DATA CARGO THEFT RING",
+                "headline": "REGULATION: VETERANS FREEDOM HAULERS",
+                "teaserTitle": "TECHNOLOGY: POLYSILICON TARIFFS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Each GW of US data center expansion demands 100K truckload shipments of specialized equipment. The digital buildout strains over-the-road capacity and drives up spot freight rates."
+                "narration_line": "The Trump administration launched Freedom Haulers to steer military veterans into CDLs. Federal inspectors sideline non-domiciled drivers during highway sweeps."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: HACKED DATA CARGO THEFT RING",
-                "teaserTitle": "REGULATION: STATES SUE OVER TARIFFS",
+                "headline": "TECHNOLOGY: POLYSILICON TARIFFS",
+                "teaserTitle": "SECURITY: GPS JAMMING INSURANCE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A federal grand jury indicted eight individuals in an international cargo theft ring stealing $4.49M in goods. Syndicates utilized hacked credentials from logistics providers to intercept shipments."
+                "narration_line": "A 15% tariff on polysilicon imports takes effect on December 4. Semiconductor and solar manufacturers face higher procurement costs."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: STATES SUE OVER TARIFFS",
-                "teaserTitle": "INFRASTRUCTURE: VIRGINIA ADDS CSX RAIL",
+                "headline": "SECURITY: GPS JAMMING INSURANCE",
+                "teaserTitle": "RETAIL: ETSY WORKFORCE REDUCTION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Twenty-five state attorneys general filed a lawsuit challenging Section 301 forced-labor import tariffs. The legal complaint argues the duties constitute an unlawful executive trade workaround."
+                "narration_line": "Sompo Japan launched insurance coverage targeting economic losses from GPS jamming. Marine operators mitigate electronic interference risks."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: VIRGINIA ADDS CSX RAIL",
+                "headline": "RETAIL: ETSY WORKFORCE REDUCTION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Port of Virginia established a direct CSX rail service connecting terminals to Indianapolis. The new intermodal connection reduces transit times by bypassing traditional Chicago congestion."
+                "narration_line": "Etsy eliminated 200 jobs following a $1.4B cash infusion from Depop's sale. Digital platforms streamline corporate overhead to protect margins."
             },
             {
                 "slide_index": 8,
