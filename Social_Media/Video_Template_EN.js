@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR ENFORCES SECTION 301 FORCED LABOR TARIFFS",
+        "hookTitle": "TRUMP IMPOSES 15% POLYSILICON TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 FORCED LABOR TARIFFS",
-                "teaserTitle": "MANUFACTURING: DTNA BUILDS LARGEST TRUCK PLANT",
+                "headline": "PROCUREMENT: TRUMP IMPOSES 15% POLYSILICON TARIFFS",
+                "teaserTitle": "MARITIME: CHINA PORTS SUSPEND OPERATIONS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The US implemented Section 301 tariffs on 60 trading nations following the expiration of Section 122 duties. Importers must provide strict forced labor origin documentation to avoid customs clearance holds."
+                "narration_line": "President Donald Trump issued an executive proclamation establishing a 15% import tariff on polysilicon materials effective Dec. 4. Semiconductor manufacturers and solar energy developers face immediate cost adjustments and procurement realignment."
             },
             {
                 "slide_index": 2,
-                "headline": "MANUFACTURING: DTNA BUILDS LARGEST TRUCK PLANT",
-                "teaserTitle": "MARITIME: IRAN OMAN PROPOSE HORMUZ TOLLS",
+                "headline": "MARITIME: CHINA PORTS SUSPEND OPERATIONS",
+                "teaserTitle": "CARRIER: SEALEAD ENDS OPERATIONS WEEKS AFTER SANCTIONS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Daimler Truck will construct its largest US manufacturing plant to expand commercial fleet vehicle production by 2029. The facility will integrate advanced automation to boost heavy-duty truck capacity."
+                "narration_line": "Chinese maritime authorities ordered sweeping operational suspensions across major container ports as Super Typhoon Dolphin approaches. Beneficial cargo owners and ocean carriers face mounting container backlogs and schedule disruptions."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: IRAN OMAN PROPOSE HORMUZ TOLLS",
-                "teaserTitle": "PARCEL: USPS SURCHARGE BOOSTS REVENUE TO $20B",
+                "headline": "CARRIER: SEALEAD ENDS OPERATIONS WEEKS AFTER SANCTIONS",
+                "teaserTitle": "LOGISTICS: DATA CENTER DEMAND DRIVES TRUCK STRAIN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Iran and Oman advanced talks to impose transit tolls on commercial ships navigating the Strait of Hormuz. Ocean carriers face rising war risk insurance fees and potential transit restrictions."
+                "narration_line": "Singapore-registered container carrier SeaLead Shipping formally initiated voluntary liquidation proceedings following US sanctions. Global freight forwarders faced abrupt service cancellations and equipment recovery challenges."
             },
             {
                 "slide_index": 4,
-                "headline": "PARCEL: USPS SURCHARGE BOOSTS REVENUE TO $20B",
-                "teaserTitle": "INVENTORY: STARBUCKS TARGETS 24 HOUR REPLENISHMENT",
+                "headline": "LOGISTICS: DATA CENTER DEMAND DRIVES TRUCK STRAIN",
+                "teaserTitle": "SECURITY: GRAND JURY INDICTS 8 IN HACKED CARGO THEFT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The US Postal Service reached $20B in quarterly revenue driven by new parcel surcharge structures. Shippers must adjust parcel margin calculations as rates rise across domestic delivery networks."
+                "narration_line": "Each gigawatt of US data center construction expansion demands 100,000 truckload shipments of specialized equipment. Fleet executives report heightened demand for dedicated heavy-haul and specialized project logistics transport."
             },
             {
                 "slide_index": 5,
-                "headline": "INVENTORY: STARBUCKS TARGETS 24 HOUR REPLENISHMENT",
-                "teaserTitle": "SALVAGE: MSC CONTAINER SHIP GROUNDED OFF ZHOUSHAN",
+                "headline": "SECURITY: GRAND JURY INDICTS 8 IN HACKED CARGO THEFT",
+                "teaserTitle": "REGULATION: 25 STATES SUE TRUMP OVER FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Starbucks targeted a 24-hour inventory replenishment schedule after scrapping its AI forecasting tool. Responsive regional distribution centers will now drive high-frequency store deliveries."
+                "narration_line": "A federal grand jury indicted eight individuals allegedly operating a theft ring responsible for stealing $4.49M in retail goods. Retailers and third-party logistics providers suffered direct financial losses and inventory write-offs."
             },
             {
                 "slide_index": 6,
-                "headline": "SALVAGE: MSC CONTAINER SHIP GROUNDED OFF ZHOUSHAN",
-                "teaserTitle": "BLACK SEA: TURKEY DELAYS SHIP TRANSIT ACCESS",
+                "headline": "REGULATION: 25 STATES SUE TRUMP OVER FORCED LABOR TARIFFS",
+                "teaserTitle": "INFRASTRUCTURE: PORT OF VIRGINIA ADDS CSX RAIL SERVICE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The 8,401 TEU containership MSC Silvana VIII sank deeper off Zhoushan after refloating efforts failed. Cargo owners face major delays as salvage teams prepare heavy crane barges."
+                "narration_line": "A coalition of 25 state attorneys general filed a lawsuit challenging the administration's forced-labor import tariffs. Importers and customs brokers face mounting legal uncertainty regarding long-term tariff liability."
             },
             {
                 "slide_index": 7,
-                "headline": "BLACK SEA: TURKEY DELAYS SHIP TRANSIT ACCESS",
-                "teaserTitle": "",
+                "headline": "INFRASTRUCTURE: PORT OF VIRGINIA ADDS CSX RAIL SERVICE",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Turkey restricted Black Sea ship access following an escalation in attacks on commercial vessels. Commodity exporters face mounting vessel backlogs and surging ocean war risk premiums."
+                "narration_line": "The Port of Virginia established a direct CSX rail service connecting marine terminals to the Indianapolis hub. The new intermodal connection allows import containers to move seamlessly via rail into the Midwest."
             },
             {
                 "slide_index": 8,
