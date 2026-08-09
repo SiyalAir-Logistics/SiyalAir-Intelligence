@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR TARIFFS",
-        "titleBlue": "IMPLEMENTED",
-        "footerSummary": "USTR enforces Section 301 tariffs across 60 trading partners as Section 122 duties expire, driving massive supply chain re-routing risks."
+        "titleWhite": "NORTHERN SEA ROUTE",
+        "titleBlue": "DEMO",
+        "footerSummary": "South Korea tests 12-day faster Arctic shipping transit while U.S. prosecutors indict $4.49M cyber freight theft ring."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS IMPLEMENTED",
+            "heading": "ARCTIC: NORTHERN SEA ROUTE DEMO",
             "points": [
-                "The Office of the United States Trade Representative has officially initiated Section 301 tariffs targeting 60 partner nations. The regulatory shift replaces expiring Section 122 duties with mandatory forced-labor compliance checks across major global trading channels.",
-                "Cross-border logistics operators face intensified customs auditing and potential cargo holds at key ports of entry. Compliance teams are urged to re-verify Tier-1 through Tier-3 vendor supply chains to mitigate tariff penalties.",
-                "International trade experts highlight that the shift marks a permanent institutionalization of forced-labor enforcement frameworks. Strategic sourcing routes in Southeast Asia and Latin America are undergoing immediate compliance restructuring.",
-                "Importers should prepare for higher duty outlays and audit delays as U.S. Customs and Border Protection expands trade monitoring. Procurement leadership must update supply chain risk models to maintain operational fluidity."
+                "South Korea has officially designated its first containership to conduct a trial transit along Russia's Northern Sea Route to Europe. Rosatom confirmed issuing 2026 Arctic navigation permits as commercial cargo movements prepare for regular seasonal deployments.",
+                "The Arctic corridor reduces transit times between East Asia and Northern Europe by up to 12 days compared to standard Suez Canal maritime routes. Commercial operators are testing vessel hull performance and icebreaker escort protocols in northern polar waters.",
+                "Maritime strategists emphasize that seasonal Arctic access provides key strategic redundancy against ongoing geopolitical chokepoint disruptions in Western Asia. Operational viability remains constrained by polar weather windows and specialized ice-class vessel requirements.",
+                "Cargo owners and global shippers evaluating northern transit options should audit environmental compliance standards and ice-risk insurance premiums. Navigational trial results scheduled for next month will establish operational benchmarks for Arctic container shipping."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: USA TERMINAL EXPANSION",
+            "nextUpTease": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs",
-                "Published: 2026-08-08T22:00:00Z",
+                "Source: https://maritime-executive.com/article/south-korea-names-first-boxship-for-arctic-route",
+                "Published: 2026-08-07T15:34:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORTS: USA TERMINAL EXPANSION",
+            "heading": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
             "points": [
-                "An Asian ocean carrier has committed $135M to expand its dedicated marine terminal infrastructure in the United States. The capital investment aims to enhance throughput capabilities and reduce container dwell times at major gateways.",
-                "Terminal engineering plans include upgrading berth capacity, deploying automated container handling equipment, and expanding intermodal rail connections. The project responds to rising long-term transpacific cargo volumes.",
-                "Port authority analysts note that private carrier investment in landside infrastructure provides crucial buffer capacity against peak season surges. Gate operations are projected to see significant productivity gains upon completion.",
-                "BCOs and freight forwarders transiting West Coast gateways will benefit from streamlined container discharge and lower drayage congestion. Supply chain planners should evaluate terminal-specific carrier routings to optimize ocean transit."
+                "Daimler Truck North America announced plans to construct its largest U.S. truck manufacturing plant, targeted for full operational status by 2029. Executive leadership confirmed the facility will focus on assembling next-generation commercial vehicle platforms.",
+                "The capital expansion addresses projected long-term fleet replacement demands and stringent EPA 2027 heavy-duty emissions regulatory standards. Production lines will support advanced powertrain integration and expanded chassis production capacity.",
+                "Industry analysts note that heavy-truck manufacturing expansion in North America strengthens domestic supply chain resilience for freight carriers. Localized assembly reduces lead times for commercial fleet acquisition and specialized equipment orders.",
+                "Motor carriers and fleet managers planning multi-year equipment cycles should monitor factory construction milestones and order book openings. Fleet modernization timelines must align with upcoming federal environmental compliance deadlines."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+            "nextUpTease": "RAIL: PORT VIRGINIA INDIANAPOLIS SERVICE",
             "tags": [
-                "Source: https://www.freightwaves.com/news/asia-ocean-line-135m-expansion-us-terminal",
-                "Published: 2026-08-08T18:30:00Z",
+                "Source: https://www.ttnews.com/articles/dtna-us-truck-plant-2029",
+                "Published: 2026-08-07T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+            "heading": "RAIL: PORT VIRGINIA INDIANAPOLIS SERVICE",
             "points": [
-                "Colliers reported that U.S. industrial real estate vacancy fell seven basis points sequentially to 7.3% as demand surpassed new warehouse deliveries. The market stabilization signals an absorption rebound across primary logistics hubs.",
-                "Industrial developers have curtailed speculative construction starts, allowing existing warehousing inventories to be steadily absorbed by 3PLs and manufacturing firms. Asking lease rates are stabilizing following multi-quarter adjustments.",
-                "Commercial real estate analysts indicate that demand for modern distribution facilities is driven by supply chain regionalization and nearshoring strategies. High-spec fulfillment space remains tightly held in major port-adjacent submarkets.",
-                "Logistics executives seeking secondary or regional warehouse footprints should lock in lease terms before tightening supply drives rate increases. Multi-year facility planning must factor in limited speculative deliverability through 2027."
+                "The Port of Virginia has launched a direct CSX intermodal rail service linking deepwater marine terminals directly to the Indianapolis inland market. The rail connection bypasses traditional Chicago rail interchange bottlenecks for Midwest-bound containerized cargo.",
+                "Ocean shippers gain expedited transit times and reduced landside drayage costs by routing import containers straight to Ohio Valley distribution hubs. The service reduces dwell times at East Coast marine terminals while increasing intermodal rail volume capacity.",
+                "Transportation planners view direct port-to-inland rail corridors as essential infrastructure for optimizing East Coast supply chain flows. Shifting freight from long-haul trucks to direct rail lines significantly lowers scope-3 transport emissions.",
+                "Supply chain managers sourcing goods through East Coast gateways should evaluate Virginia-to-Indianapolis rail routings to streamline Midwest distribution. Logistics teams can leverage the route to mitigate regional trucking congestion and reduce freight costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+            "nextUpTease": "E-COMMERCE: AMAZON TITLE POLICY RESTRICTION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance",
-                "Published: 2026-08-08T14:15:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-indianapolis/825850/",
+                "Published: 2026-08-04T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+            "heading": "E-COMMERCE: AMAZON TITLE POLICY RESTRICTION",
             "points": [
-                "Singapore-based ocean carrier SeaLead Shipping has entered voluntary liquidation following severe operational impacts from recently imposed U.S. sanctions. Rival container lines are rapidly acquiring the carrier's chartered vessels and container fleets.",
-                "The abrupt liquidation has forced shippers to scramble for replacement vessel allocations across Asia-Middle East and Mediterranean trade corridors. Freight forwarders are actively working to release cargo held at intermediary transshipment hubs.",
-                "Maritime legal experts emphasize that stringent sanction enforcement is accelerating consolidation and carrier exits in secondary ocean trades. Industry players are tightening counterparty risk assessments across non-alliance carriers.",
-                "Cargo owners with active bookings on liquidated tonnage must verify bill of lading liability and container asset status immediately. Supply chain risk managers should re-evaluate ocean carrier solvency and compliance track records."
+                "Amazon has enforced a mandatory policy restricting product titles to 75 characters or less across all marketplace inventory, including its first-party retail listings. The standardized title rule aims to optimize mobile browsing readability and search indexing across digital storefronts.",
+                "E-commerce sellers and brand manufacturers must immediately audit product catalog metadata to eliminate truncated titles and policy non-compliance flags. Non-compliant listings face automatic suppression from search rankings and catalog display pages.",
+                "E-commerce analysts indicate that character limits force brand owners to focus on high-intent keywords and concise product attributes. Search engine optimization algorithms are adjusting to prioritize standardized, high-clarity title architecture.",
+                "Marketplace operators and digital retail managers should update automated product listing feeds to comply with length constraints. Immediate optimization prevents listing downtime and loss of organic conversion traffic across global channels."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE: POLYSILICON TARIFF IMPOSITION",
+            "nextUpTease": "FINANCE: RETAIL TARIFF REFUND MONETIZATION",
             "tags": [
-                "Source: https://www.joc.com/article/carrier-sealead-ends-operations-us-sanctions",
-                "Published: 2026-08-08T11:00:00Z",
+                "Source: https://www.ecommercebytes.com/2026/08/07/amazon-new-product-title-policy-applies-to-own-listings/",
+                "Published: 2026-08-07T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRADE: POLYSILICON TARIFF IMPOSITION",
+            "heading": "FINANCE: RETAIL TARIFF REFUND MONETIZATION",
             "points": [
-                "The U.S. administration issued an executive order imposing a 15% tariff and establishing an import price floor on polysilicon materials starting Dec 4. The trade action directly targets imported raw materials critical for solar energy and semiconductor manufacturing.",
-                "High-tech supply chain managers face immediate cost increases and sourcing adjustments for raw silicon inputs. Domestic fabricators are evaluating raw material inventories and contract terms ahead of the December implementation deadline.",
-                "Trade analysts stress that raw material tariffs aim to incentivize domestic supply chain reshoring and shield North American processors from foreign price undercutting. High-tech logistics networks must adapt to changing supply routes.",
-                "Manufacturers relying on imported polysilicon must audit vendor landed costs and explore domestic supply partnerships. Compliance managers should ensure accurate tariff classification ahead of the regulatory shift."
+                "A secondary financial market has emerged allowing major retail brands to sell off rights to prospective federal tariff refund claims for immediate cash liquidity. Importers are monetizing court-ordered IEEPA tariff adjustments to generate working capital ahead of official government payouts.",
+                "Financial intermediaries buy the legal claims at a discount, assuming administrative processing risks and multi-month Customs payout timelines. Retailers utilize the upfront cash inflows to optimize balance sheets and fund peak season inventory purchasing.",
+                "Trade attorneys note that secondary claim monetization reflects growing enterprise demand for immediate liquidity amidst shifting macroeconomic environments. Regulatory and legal uncertainty surrounding historical tariff levies continues to drive trade claim trading.",
+                "Enterprise finance executives and trade compliance officers should assess the capital benefits of liquidating pending tariff refund assets versus holding claims. Legal audits must confirm duty recovery rights before transferring claim titles to third-party funds."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ TOLL OPPOSITION",
+            "nextUpTease": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-tariffs-polysilicon-imports-chips-solar/825800/",
-                "Published: 2026-08-07T21:00:00Z",
+                "Source: https://www.retaildive.com/news/retailers-sell-off-rights-tariff-refunds/825820/",
+                "Published: 2026-08-07T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: HORMUZ TOLL OPPOSITION",
+            "heading": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
             "points": [
-                "Global shipping associations have submitted formal petitions to the UN and IMO opposing proposed transit tolls along the Strait of Hormuz. The opposition follows bilateral discussions between regional authorities regarding new maritime navigation management frameworks.",
-                "Ocean carriers argue that unilateral transit fees on international waterways violate freedom of navigation agreements and inflate global freight costs. War-risk premiums and operational surcharges already elevate transit expenses through the corridor.",
-                "Maritime strategists warn that establishing transit tolls in key chokepoints creates dangerous regulatory precedents for international commerce. Energy and container shipping lines are closely monitoring diplomatic interventions.",
-                "Shipowners and charterers operating in the Persian Gulf should prepare for regulatory shifts and potential route adjustments. Logistics planners must track IMO proceedings to assess financial impacts on Middle Eastern trade routes."
+                "South Korean maritime firms, including Elegant Exit Company, RM Company, and ISSAC Green Tech, have formed a partnership to establish one of Asia's largest green ship recycling hubs. The joint venture focuses on compliant vessel dismantling and high-grade steel recovery.",
+                "Infrastructure development plan aims to capture growing demand for eco-friendly ship demolition in compliance with the Hong Kong International Convention. The facility will utilize advanced environmental containment technologies to minimize hazardous waste disposal.",
+                "Industry experts emphasize that sustainable ship recycling capacity in East Asia provides ocean carriers with verified end-of-life vessel disposal channels. Decarbonization pressures are accelerating the decommissioning of aging, inefficient commercial tonnage.",
+                "Vessel owners and ship asset managers preparing fleet renewal programs should monitor Asian green yard capacity for future fleet retirements. ESG compliance audits will increasingly mandate certified green yard recycling protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: DATA CENTER DEMAND",
+            "nextUpTease": "SECURITY: CYBER CARGO THEFT INDICTMENT",
             "tags": [
-                "Source: https://www.joc.com/article/global-shipping-calls-on-un-imo-no-hormuz-tolls",
-                "Published: 2026-08-08T09:30:00Z",
+                "Source: https://splash247.com/south-korea-makes-play-for-large-scale-ship-recycling/",
+                "Published: 2026-08-07T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRUCKING: DATA CENTER DEMAND",
+            "heading": "SECURITY: CYBER CARGO THEFT INDICTMENT",
             "points": [
-                "Surging construction of artificial intelligence data centers is absorbing significant U.S. specialized flatbed and heavy-haul truck capacity. Transportation analysts report that each gigawatt of data center capacity expansion requires over 100,000 truckload movements.",
-                "The massive equipment movement is straining specialized motor carrier fleets, driving up spot freight rates for heavy machinery and electrical infrastructure. General shippers are encountering competition for specialized flatbed equipment.",
-                "Logistics researchers point out that the convergence of tech infrastructure investment and heavy freight transport is reshaping domestic capacity allocation. Industrial project logistics is emerging as a primary growth driver for specialized carriers.",
-                "Shippers transporting industrial machinery and construction goods must secure specialized fleet commitments well in advance. Budget managers should expect continued rate firmness in heavy-haul and flatbed sectors through Q4."
+                "Federal prosecutors indicted 8 individuals involved in a highly sophisticated cyber cargo theft network that stole $4.49M in high-value retail freight. The criminal syndicate utilized hacked corporate credentials and fraudulent dispatch data to hijack commercial shipments across the U.S.",
+                "Law enforcement investigations revealed the group intercepted legitimate carrier tender requests to re-route high-value freight to illicit warehouses. The case highlights expanding cyber risks targeting digital freight brokerages and transportation management software.",
+                "Supply chain security experts stress that cyber-enabled cargo theft is replacing traditional physical yard break-ins across domestic freight corridors. Multi-factor authentication and carrier identity verification protocols are becoming mandatory for logistics networks.",
+                "Freight brokers and shippers must enforce strict cybersecurity audits and carrier credential verification prior to tendering loads. Risk managers should implement real-time tracking devices to prevent fraudulent load pickup and cargo diversion."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com/article/data-centers-pulling-shrinking-us-truck-capacity",
-                "Published: 2026-08-08T16:00:00Z",
+                "Source: https://www.ttnews.com/articles/grand-jury-indicts-8-cargo-theft",
+                "Published: 2026-08-07T18:00:00Z",
                 "Status: Audited & True"
             ]
         }
