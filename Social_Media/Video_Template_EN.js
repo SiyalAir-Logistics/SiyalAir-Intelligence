@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "POLYSILICON IMPORT TARIFFS IMPACT GLOBAL LOGISTICS",
+        "hookTitle": "FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: POLYSILICON IMPORT TARIFFS",
-                "teaserTitle": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "RAIL: VIRGINIA INDIANAPOLIS SERVICE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The US government imposed a 15% tariff and price floor on imported polysilicon effective Dec. 4, 2026. Microchip and solar manufacturers face higher raw material procurement costs across import vectors."
+                "narration_line": "USTR enforced Section 301 tariffs on 60 trading partners to eliminate forced labor. Importers face immediate compliance audits and clearance holds across all entry ports."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
-                "teaserTitle": "INSURANCE: GPS JAMMING COVERAGE",
+                "headline": "RAIL: VIRGINIA INDIANAPOLIS SERVICE",
+                "teaserTitle": "SECURITY: CARGO THEFT RING",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Singapore-based SeaLead Shipping entered liquidation following targeted US trade sanctions. Competitors are rapidly acquiring its container fleet while shippers re-route cargo across Asia and Mediterranean lanes."
+                "narration_line": "Port of Virginia launched direct CSX rail service to Indianapolis bypassing Chicago. The hub link cuts transit times by 48 hours for Midwest shippers."
             },
             {
                 "slide_index": 3,
-                "headline": "INSURANCE: GPS JAMMING COVERAGE",
-                "teaserTitle": "SECURITY: LEIPZIG AIRPORT DRONE",
+                "headline": "SECURITY: CARGO THEFT RING",
+                "teaserTitle": "MARITIME: TYPHOON PORT SUSPENSIONS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Sompo Japan introduced maritime shipping's first specialized insurance policy targeting GPS jamming and electronic spoofing losses. Commercial vessel operators gain financial protection against mounting geopolitical navigation risks."
+                "narration_line": "Federal prosecutors indicted 8 individuals in a $4.49M cyber cargo theft ring. The hackers compromised brokerage networks to hijack high-value retail shipments."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: LEIPZIG AIRPORT DRONE",
-                "teaserTitle": "ECOMMERCE: ETSY WORKFORCE REDUCTION",
+                "headline": "MARITIME: TYPHOON PORT SUSPENSIONS",
+                "teaserTitle": "TRUCKING: FREEDOM HAULERS PROGRAM",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "German authorities launched a counterterrorism investigation after finding an explosive drone at Leipzig Halle Airport. Air freight integrators face heightened facility security protocols and potential cargo screening delays."
+                "narration_line": "Chinese authorities suspended operations at major ports as Super Typhoon Dolphin approaches. Over 160 commercial vessels cleared anchorages, triggering regional container backlogs."
             },
             {
                 "slide_index": 5,
-                "headline": "ECOMMERCE: ETSY WORKFORCE REDUCTION",
-                "teaserTitle": "RETAIL: AMAZON TITLE LIMITS",
+                "headline": "TRUCKING: FREEDOM HAULERS PROGRAM",
+                "teaserTitle": "INFRASTRUCTURE: AEO DISTRIBUTION CENTER",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Etsy eliminated 220 jobs in a 12% workforce reduction following its $1.4B Depop divestment to eBay. The company is reallocating capital to optimize core marketplace operations and seller infrastructure."
+                "narration_line": "The DOT launched Freedom Haulers to fast-track CDL credentials for military veterans. Fleet operators gain fresh domestic driver capacity while enforcement targets non-domiciled carriers."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: AMAZON TITLE LIMITS",
-                "teaserTitle": "MANUFACTURING: DTNA TRUCK PLANT",
+                "headline": "INFRASTRUCTURE: AEO DISTRIBUTION CENTER",
+                "teaserTitle": "PARCEL: USPS SURCHARGE REVENUE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon restricted product listing titles to 75 characters maximum for all third-party and native vendor catalogs. Online retailers must reformat listings immediately to preserve algorithmic search rankings and warehouse sync."
+                "narration_line": "American Eagle Outfitters invested $41M to build a North Carolina distribution hub. The 2027 facility will create 200 jobs and accelerate Southeastern fulfillment."
             },
             {
                 "slide_index": 7,
-                "headline": "MANUFACTURING: DTNA TRUCK PLANT",
+                "headline": "PARCEL: USPS SURCHARGE REVENUE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Daimler Truck North America announced plans to construct its largest US assembly plant by 2029. Fleet operators gain long-term equipment supply stability as domestic heavy-duty truck manufacturing expands."
+                "narration_line": "USPS reached $20B in quarterly revenue driven by new commercial parcel surcharges. Rate adjustments expanded operational margins across Ground Advantage shipping lanes."
             },
             {
                 "slide_index": 8,
