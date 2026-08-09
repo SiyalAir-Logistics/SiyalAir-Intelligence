@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "HACKED CARGO THEFT",
+        "hookTitle": "USTR ENFORCES SECTION 301 TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SECURITY: HACKED CARGO THEFT",
-                "teaserTitle": "WEATHER: TYPHOON PORT SUSPENSIONS",
+                "headline": "USTR: SECTION 301 TARIFFS",
+                "teaserTitle": "TARIFFS: POLYSILICON IMPORT LEVY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A federal grand jury indicted 8 individuals in a $4.49M cargo theft ring that breached corporate data systems. Freight operators must implement multi-factor authentication to secure high-value retail dispatch networks."
+                "narration_line": "USTR is enforcing Section 301 tariffs across 60 trading partners as Section 122 duties expire. Shippers face immediate duty adjustments across global import corridors requiring updated trade compliance frameworks."
             },
             {
                 "slide_index": 2,
-                "headline": "WEATHER: TYPHOON PORT SUSPENSIONS",
-                "teaserTitle": "E-COMMERCE: AMAZON TITLE LIMITS",
+                "headline": "TARIFFS: POLYSILICON IMPORT LEVY",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Chinese port terminals suspended operations and redirected over 160 vessels as Super Typhoon Dolphin approaches coastal hubs. Cargo owners should prepare for multi-day vessel backlogs across major transpacific container routes."
+                "narration_line": "The US government imposed a 15% tariff and import price floor on polysilicon effective Dec 4, 2026. The mandate targets solar components and semiconductor supply chains to accelerate domestic re-shoring."
             },
             {
                 "slide_index": 3,
-                "headline": "E-COMMERCE: AMAZON TITLE LIMITS",
-                "teaserTitle": "EQUIPMENT: DAIMLER TRUCK EXPANSION",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "teaserTitle": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Amazon capped product title lengths at 75 characters for all 3rd-party sellers and internal retail listings. Merchants face automated catalog suppressions if product metadata exceeds the new structural limit."
+                "narration_line": "US industrial real estate vacancy fell 7 bps sequentially to 7.3% in Q2 2026 as tenant absorption outpaced new warehouse supply. Logistics operators are securing prime distribution space ahead of seasonal demand surges."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: DAIMLER TRUCK EXPANSION",
-                "teaserTitle": "INTERMODAL: VIRGINIA RAIL SERVICE",
+                "headline": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+                "teaserTitle": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Daimler Truck announced plans for its largest U.S. manufacturing plant while committing to EPA 2027 engine standards. Fleet managers must account for updated emissions rules when planning multi-year equipment acquisitions."
+                "narration_line": "Container line SeaLead Shipping entered voluntary liquidation following recent US economic sanctions. Competitors are rapidly absorbing vessel assets and container stock to prevent regional trade network disruptions."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL: VIRGINIA RAIL SERVICE",
-                "teaserTitle": "FINANCE: TARIFF REFUND MONETIZATION",
+                "headline": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+                "teaserTitle": "LAST MILE: FLORIDIAN DRONE EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Port of Virginia launched direct CSX intermodal rail service to Indianapolis, bypassing traditional Chicago rail junctions. Midwest importers can utilize the direct corridor to reduce container dwell times and transit friction."
+                "narration_line": "Global shipping organizations urged the UN and IMO to reject proposed transit tolls in the Strait of Hormuz. Unilateral maritime fees threaten to escalate operational costs across middle eastern ocean lanes."
             },
             {
                 "slide_index": 6,
-                "headline": "FINANCE: TARIFF REFUND MONETIZATION",
-                "teaserTitle": "REGULATION: PENTAGON WIND REVIEWS",
+                "headline": "LAST MILE: FLORIDIAN DRONE EXPANSION",
+                "teaserTitle": "CAPACITY: FREIGHT MARKET TIGHTENING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Major U.S. retailers are selling legal rights for potential tariff refunds on secondary markets to secure immediate liquid capital. Financial leaders are adopting duty monetization models to unlock cash tied up in customs claims."
+                "narration_line": "Walmart expanded its autonomous delivery footprint through a partnership with Wing covering 5 Orlando-area stores. The aerial logistics platform enables rapid doorstep fulfillment while reducing localized road fleet emissions."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: PENTAGON WIND REVIEWS",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "CAPACITY: FREIGHT MARKET TIGHTENING",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A U.S. federal court ordered the Pentagon to resume administrative reviews for offshore wind energy infrastructure applications. Marine logistics contractors must prepare specialized vessel fleets to support renewed offshore construction timelines."
+                "narration_line": "Forward Air leadership reported accelerating freight market tightening driven by carrier exits and regulatory enforcement. Over-the-road trucking spot rates show sustained pricing gains across primary North American shipping lanes."
             },
             {
                 "slide_index": 8,

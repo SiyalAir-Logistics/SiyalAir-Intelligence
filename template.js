@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "HACKED CARGO",
-        "titleBlue": "THEFT",
-        "footerSummary": "Grand jury indicts $4.49M cyber theft ring as Chinese ports suspend operations ahead of Super Typhoon Dolphin."
+        "titleWhite": "SECTION 301",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR enforces Section 301 tariffs on 60 trading partners as global supply chains face immediate compliance shifts."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SECURITY: HACKED CARGO THEFT",
+            "heading": "USTR: SECTION 301 TARIFFS",
             "points": [
-                "A federal grand jury has indicted eight individuals for executing a $4.49M cargo theft ring targeting high-value retail goods across North American freight lanes.",
-                "Investigators revealed the syndicate breached internal corporate databases to extract legitimate carrier identities, dispatch orders, and load confirmation documents.",
-                "The breach underscores escalating cyber vulnerabilities within digital freight brokerage networks and automated supply chain dispatch platforms.",
-                "Logistics providers must enforce multi-factor authentication and verify driver credentials before releasing high-value trailer loads at distribution hubs."
+                "The Office of the United States Trade Representative is moving forward with Section 301 tariffs targeting 60 trading partners following the expiration of Section 122 duties.",
+                "The regulatory shift enforces new forced labor-based duty structures across targeted trade corridors, directly impacting high-volume import channels into North America.",
+                "International trade networks must rapidly recalibrate customs documentation frameworks and landed cost calculations to maintain regulatory clearance velocity.",
+                "Importers and supply chain directors must audit cross-border vendor networks to identify exposure to rising duty burdens and potential border clearance holds."
             ],
             "imageUrl": "",
-            "nextUpTease": "WEATHER: TYPHOON PORT SUSPENSIONS",
+            "nextUpTease": "TARIFFS: POLYSILICON IMPORT LEVY",
             "tags": [
-                "Source: https://www.ttnews.com/articles/grand-jury-indicts-8-cargo-theft-scheme-2026",
-                "Published: 2026-08-07T16:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_2026",
+                "Published: 2026-08-08T22:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "WEATHER: TYPHOON PORT SUSPENSIONS",
+            "heading": "TARIFFS: POLYSILICON IMPORT LEVY",
             "points": [
-                "Port authorities across eastern China have initiated emergency operational shutdowns as Super Typhoon Dolphin approaches key maritime trade hubs.",
-                "Marine terminals in Ningbo and Zhoushan suspended vessel bunkering operations while ordering over 160 commercial containerships to seek open water shelter.",
-                "The preventative closures threaten to trigger multi-day vessel backlogs and disrupt transpacific container schedules during seasonal volume surges.",
-                "Ocean shippers and freight forwarders should prepare for delayed vessel departures and localized equipment imbalances along major Asian export corridors."
+                "The U.S. administration announced a 15% tariff and strict import price floor on foreign polysilicon shipments, effective Dec 4, 2026.",
+                "The regulatory order targets critical raw materials supporting domestic solar power equipment manufacturing and advanced semiconductor supply chains.",
+                "Trade barriers reflect broader federal initiatives to force re-shoring of foundational technology inputs and reduce reliance on East Asian industrial processing.",
+                "Clean energy procurement managers must re-evaluate multi-year material sourcing contracts and prepare for near-term price adjustments across solar infrastructure projects."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON TITLE LIMITS",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "tags": [
-                "Source: https://maritime-executive.com/article/china-s-ports-suspending-operations-as-super-typhoon-approaches-2026",
-                "Published: 2026-08-07T16:32:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-15-percent-polysilicon-tariff-2026",
+                "Published: 2026-08-08T19:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "E-COMMERCE: AMAZON TITLE LIMITS",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "points": [
-                "Amazon has enforced a strict 75-character ceiling on product titles across both third-party seller listings and its own first-party inventory catalog.",
-                "The policy directive aims to improve mobile search indexing efficiency while curbing algorithmic keyword stuffing in product data feeds.",
-                "E-commerce merchants face automated listing suppressions if legacy product catalog titles exceed the new character boundaries.",
-                "Retail brands must immediately audit global catalog metadata and optimize product titles to prevent disruption to automated digital storefronts."
+                "U.S. industrial real estate vacancy dropped 7 bps sequentially to 7.3% in Q2 2026 as tenant absorption outpaced new warehouse construction deliveries.",
+                "Market analytics from Colliers indicate industrial facility availability is stabilizing following prolonged periods of post-pandemic warehouse oversupply.",
+                "Slowing construction starts and steady enterprise leasing activity are creating tighter inventory conditions across primary inland logistics hubs.",
+                "Warehouse operations executives should secure long-term industrial leases early to hedge against anticipated industrial rent increases entering 2027."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: DAIMLER TRUCK EXPANSION",
+            "nextUpTease": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-applies-to-own-listings/",
-                "Published: 2026-08-07T12:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance_2026",
+                "Published: 2026-08-08T20:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "EQUIPMENT: DAIMLER TRUCK EXPANSION",
+            "heading": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
             "points": [
-                "Daimler Truck North America announced plans to construct its largest U.S. vehicle manufacturing plant while committing to EPA 2027 NOx engine standards.",
-                "The commercial vehicle manufacturer will focus production on heavy-duty diesel and zero-emission Class 8 truck platforms starting in 2029.",
-                "Strategic expansion reflects long-term fleet demand projections despite ongoing regulatory shifts and fluctuating equipment purchasing costs.",
-                "Commercial fleet operators must factor changing engine emissions profiles and production timelines into multi-year equipment procurement strategies."
+                "Singapore-based ocean carrier SeaLead Shipping has entered voluntary liquidation shortly after facing targeted U.S. financial sanctions.",
+                "Competing ocean container lines are rapidly absorbing active vessel charters and empty equipment assets across Asia-Middle East trade lanes.",
+                "The abrupt carrier exit highlights heightened geopolitical compliance risks facing niche container operators navigating strict global sanction regimes.",
+                "Global freight forwarders must immediately re-route affected containerized cargo to prevent severe delays across Middle East and Mediterranean transport loops."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: VIRGINIA RAIL SERVICE",
+            "nextUpTease": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
             "tags": [
-                "Source: https://www.freightwaves.com/news/daimler-to-build-largest-us-truck-manufacturing-plant-2026",
-                "Published: 2026-08-07T14:00:00Z",
+                "Source: https://www.joc.com/article/carrier-sealead-ends-operations-weeks-after-us-sanctions-hit-2026",
+                "Published: 2026-08-08T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INTERMODAL: VIRGINIA RAIL SERVICE",
+            "heading": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
             "points": [
-                "The Port of Virginia has expanded its intermodal logistics footprint by introducing direct CSX rail container service connecting directly to Indianapolis.",
-                "The dedicated rail corridor allows ocean containers to bypass congested Chicago rail junctions, cutting transit times for Midwest importers.",
-                "Infrastructure investments strengthen East Coast port competitiveness as shippers seek reliable inland intermodal connections for import volumes.",
-                "Supply chain managers targeting Midwest distribution nodes can leverage the new direct rail route to optimize container dwell times and freight costs."
+                "Global shipping organizations filed formal appeals with the UN and IMO opposing proposed transit tolls along the Strait of Hormuz.",
+                "Discussions between regional coastal authorities regarding unilateral vessel transit fees threaten to impose new operational surcharges on ocean carriers.",
+                "The strategic maritime chokepoint handles significant global crude and containerized volumes, amplifying systemic supply chain vulnerability.",
+                "Ocean freight planners should prepare for potential war-risk insurance surcharges and fuel cost adjustments across Middle East maritime corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: TARIFF REFUND MONETIZATION",
+            "nextUpTease": "LAST MILE: FLORIDIAN DRONE EXPANSION",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-service-indianapolis-2026",
-                "Published: 2026-08-07T15:00:00Z",
+                "Source: https://theloadstar.com/article/global-shipping-groups-urge-un-imo-to-oppose-proposed-strait-of-hormuz-transit-fees-2026",
+                "Published: 2026-08-08T17:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FINANCE: TARIFF REFUND MONETIZATION",
+            "heading": "LAST MILE: FLORIDIAN DRONE EXPANSION",
             "points": [
-                "Major U.S. retailers have initiated secondary market sales of legal rights to potential import tariff refunds to accelerate immediate corporate liquidity.",
-                "Brands like American Eagle Outfitters are monetizing pending customs refund claims directly to specialized financial institutions at discount rates.",
-                "The emergence of a secondary tariff refund market reflects enterprise capital strategies aimed at mitigating cash flow bottlenecks during trade disputes.",
-                "Corporate financial officers should evaluate duty drawback monetization frameworks to unlock working capital trapped in prolonged federal customs disputes."
+                "Walmart and drone operator Wing launched automated commercial drone delivery services across 5 store locations in the Orlando, Florida market.",
+                "The aerial fulfillment network expands access to ultra-rapid, small-parcel delivery for residential suburban consumer zones.",
+                "Retail logistics providers continue leveraging autonomous aerial assets to bypass road congestion and reduce localized delivery costs.",
+                "Last-mile logistics operators must monitor local drone delivery regulatory approvals to benchmark automated fulfillment performance against ground networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: PENTAGON WIND REVIEWS",
+            "nextUpTease": "CAPACITY: FREIGHT MARKET TIGHTENING",
             "tags": [
-                "Source: https://www.retaildive.com/news/retailers-sell-off-rights-tariff-refunds-secondary-market-2026",
-                "Published: 2026-08-07T13:30:00Z",
+                "Source: https://www.retaildive.com/news/walmart-wing-launch-drone-delivery-florida-2026",
+                "Published: 2026-08-08T15:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATION: PENTAGON WIND REVIEWS",
+            "heading": "CAPACITY: FREIGHT MARKET TIGHTENING",
             "points": [
-                "A federal court issued a preliminary injunction ordering the U.S. Department of Defense to resume administrative reviews for offshore wind energy projects.",
-                "The judicial ruling halts administrative delays across coastal energy infrastructure developments, forcing federal agencies to process pending applications.",
-                "Maritime construction fleets and specialized offshore vessel operators expect revived project timelines along Eastern Seaboard maritime zones.",
-                "Offshore logistics contractors must prepare operational assets to support renewed marine energy construction activity following the legal mandate."
+                "Forward Air leadership reported tightening truckload market fundamentals driven by regulatory enforcement and ongoing commercial carrier exits.",
+                "Over-the-road freight rates and spot market pricing demonstrate sustained momentum across primary North American freight corridors.",
+                "Capacity rationalization is re-balancing supply and demand dynamics across North American motor carrier networks following long-term market softness.",
+                "Logistics managers must secure dedicated contract trucking capacity to protect against rising spot freight rates as market tightening continues."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://maritime-executive.com/article/judge-orders-us-defense-department-to-resume-review-of-wind-energy-projects-2026",
-                "Published: 2026-08-07T18:41:00Z",
+                "Source: https://www.ttnews.com/articles/forward-air-ceo-freight-market-tightening-2026",
+                "Published: 2026-08-08T14:10:00Z",
                 "Status: Audited & True"
             ]
         }
