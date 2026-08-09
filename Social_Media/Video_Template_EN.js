@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR ENFORCES SECTION 301 TARIFFS",
+        "hookTitle": "$135M US BOX EXPANSION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "TARIFFS: POLYSILICON IMPORT LEVY",
+                "headline": "TERMINALS: $135M US BOX EXPANSION",
+                "teaserTitle": "SECURITY: $4.5M HACKED CARGO THEFT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR is enforcing Section 301 tariffs across 60 trading partners as Section 122 duties expire. Shippers face immediate duty adjustments across global import corridors requiring updated trade compliance frameworks."
+                "narration_line": "An ocean container carrier committed $135M to expand its U.S. West Coast marine terminal footprint. The capital investment expands automated gantry crane capacity to handle ultra-large container vessels."
             },
             {
                 "slide_index": 2,
-                "headline": "TARIFFS: POLYSILICON IMPORT LEVY",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "headline": "SECURITY: $4.5M HACKED CARGO THEFT",
+                "teaserTitle": "FLEET: DTNA EPA 2027 ENGINES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The US government imposed a 15% tariff and import price floor on polysilicon effective Dec 4, 2026. The mandate targets solar components and semiconductor supply chains to accelerate domestic re-shoring."
+                "narration_line": "A federal grand jury indicted 8 individuals in an international cyber-ring that stole $4.5M in freight. The cyber-attack breached motor carrier databases to execute fraudulent driver dispatches."
             },
             {
                 "slide_index": 3,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
-                "teaserTitle": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+                "headline": "FLEET: DTNA EPA 2027 ENGINES",
+                "teaserTitle": "MARITIME: SINO-RUSSIAN NAVAL FLOTILLA",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "US industrial real estate vacancy fell 7 bps sequentially to 7.3% in Q2 2026 as tenant absorption outpaced new warehouse supply. Logistics operators are securing prime distribution space ahead of seasonal demand surges."
+                "narration_line": "Daimler Truck North America confirmed it will exclusively offer fully compliant EPA 2027 heavy-duty commercial engines. The commercial move forces motor carriers to adjust equipment pre-buy strategies ahead of strict emissions rules."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
-                "teaserTitle": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+                "headline": "MARITIME: SINO-RUSSIAN NAVAL FLOTILLA",
+                "teaserTitle": "SUSTAINABILITY: WIND-ASSISTED CARGO PROPULSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Container line SeaLead Shipping entered voluntary liquidation following recent US economic sanctions. Competitors are rapidly absorbing vessel assets and container stock to prevent regional trade network disruptions."
+                "narration_line": "A joint naval flotilla completed a 16-day circumnavigation of Japan and surrounding island trade channels. Escalating naval maneuvers near critical maritime routes require ocean planners to monitor regional transit advisories."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
-                "teaserTitle": "LAST MILE: FLORIDIAN DRONE EXPANSION",
+                "headline": "SUSTAINABILITY: WIND-ASSISTED CARGO PROPULSION",
+                "teaserTitle": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Global shipping organizations urged the UN and IMO to reject proposed transit tolls in the Strait of Hormuz. Unilateral maritime fees threaten to escalate operational costs across middle eastern ocean lanes."
+                "narration_line": "Bound4blue completed installing its eSail suction system on a multipurpose cargo ship to reduce fuel burn. The mechanical retrofit helps non-standardized vessel fleets meet strict IMO carbon intensity compliance rules."
             },
             {
                 "slide_index": 6,
-                "headline": "LAST MILE: FLORIDIAN DRONE EXPANSION",
-                "teaserTitle": "CAPACITY: FREIGHT MARKET TIGHTENING",
+                "headline": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+                "teaserTitle": "INTERMODAL: VIRGINIA INDIANAPOLIS CSX RAIL",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Walmart expanded its autonomous delivery footprint through a partnership with Wing covering 5 Orlando-area stores. The aerial logistics platform enables rapid doorstep fulfillment while reducing localized road fleet emissions."
+                "narration_line": "Etsy eliminated 220 positions in a 12% workforce cut following its $1.4B Depop divestment. The corporate restructuring optimizes operational cost structures amid shifting online discretionary retail demand."
             },
             {
                 "slide_index": 7,
-                "headline": "CAPACITY: FREIGHT MARKET TIGHTENING",
+                "headline": "INTERMODAL: VIRGINIA INDIANAPOLIS CSX RAIL",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Forward Air leadership reported accelerating freight market tightening driven by carrier exits and regulatory enforcement. Over-the-road trucking spot rates show sustained pricing gains across primary North American shipping lanes."
+                "narration_line": "The Port of Virginia launched direct CSX intermodal rail service connecting East Coast terminals to Indianapolis. The direct rail link bypasses Chicago intermodal bottlenecks to cut Midwest transit times by 48 hours."
             },
             {
                 "slide_index": 8,

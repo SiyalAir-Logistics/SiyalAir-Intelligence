@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SECTION 301",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR enforces Section 301 tariffs on 60 trading partners as global supply chains face immediate compliance shifts."
+        "titleWhite": "$135M US BOX",
+        "titleBlue": "EXPANSION",
+        "footerSummary": "Asian ocean carriers invest $135M in West Coast terminal automation while federal grand juries target $4.5M cyber cargo theft rings."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFFS",
+            "heading": "TERMINALS: $135M US BOX EXPANSION",
             "points": [
-                "The Office of the United States Trade Representative is moving forward with Section 301 tariffs targeting 60 trading partners following the expiration of Section 122 duties.",
-                "The regulatory shift enforces new forced labor-based duty structures across targeted trade corridors, directly impacting high-volume import channels into North America.",
-                "International trade networks must rapidly recalibrate customs documentation frameworks and landed cost calculations to maintain regulatory clearance velocity.",
-                "Importers and supply chain directors must audit cross-border vendor networks to identify exposure to rising duty burdens and potential border clearance holds."
+                "An Asian ocean container carrier committed $135M to expand its marine terminal infrastructure footprint across primary U.S. West Coast gateways.",
+                "The capital infusion targets dockside automated gantry cranes and container yard capacity expansions to handle ultra-large container vessel port calls.",
+                "The strategic terminal investment comes as transpacific containerized import volumes demonstrate sustained momentum entering late Q3 2026.",
+                "Terminal operators and logistics managers must align intermodal drayage schedules to leverage expanded container throughput capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFFS: POLYSILICON IMPORT LEVY",
+            "nextUpTease": "SECURITY: $4.5M HACKED CARGO THEFT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_2026",
-                "Published: 2026-08-08T22:00:00Z",
+                "Source: https://www.freightwaves.com/news/asia-ocean-line-in-135m-expansion-of-us-box-terminal",
+                "Published: 2026-08-09T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TARIFFS: POLYSILICON IMPORT LEVY",
+            "heading": "SECURITY: $4.5M HACKED CARGO THEFT",
             "points": [
-                "The U.S. administration announced a 15% tariff and strict import price floor on foreign polysilicon shipments, effective Dec 4, 2026.",
-                "The regulatory order targets critical raw materials supporting domestic solar power equipment manufacturing and advanced semiconductor supply chains.",
-                "Trade barriers reflect broader federal initiatives to force re-shoring of foundational technology inputs and reduce reliance on East Asian industrial processing.",
-                "Clean energy procurement managers must re-evaluate multi-year material sourcing contracts and prepare for near-term price adjustments across solar infrastructure projects."
+                "A federal grand jury indicted 8 individuals operating an international cyber-syndicate that fraudulently misappropriated $4.5M in high-value retail freight.",
+                "The illicit operation breached legitimate motor carrier IT databases to intercept driver dispatch assignments and execute fraudulent cargo pickups.",
+                "The criminal case underscores growing cyber vulnerabilities within digital freight brokerages and automated carrier onboarding platforms across North America.",
+                "Logistics security officers must enforce multi-factor authentication protocols and verify driver credentialing to prevent identity spoofing."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "nextUpTease": "FLEET: DTNA EPA 2027 ENGINES",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-15-percent-polysilicon-tariff-2026",
-                "Published: 2026-08-08T19:30:00Z",
+                "Source: https://www.ttnews.com/articles/grand-jury-indicts-8-cargo-theft-scheme-tied-hacked-data",
+                "Published: 2026-08-07T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "heading": "FLEET: DTNA EPA 2027 ENGINES",
             "points": [
-                "U.S. industrial real estate vacancy dropped 7 bps sequentially to 7.3% in Q2 2026 as tenant absorption outpaced new warehouse construction deliveries.",
-                "Market analytics from Colliers indicate industrial facility availability is stabilizing following prolonged periods of post-pandemic warehouse oversupply.",
-                "Slowing construction starts and steady enterprise leasing activity are creating tighter inventory conditions across primary inland logistics hubs.",
-                "Warehouse operations executives should secure long-term industrial leases early to hedge against anticipated industrial rent increases entering 2027."
+                "Daimler Truck North America confirmed it will exclusively offer fully compliant EPA 2027 heavy-duty commercial engines once federal NOx limits activate.",
+                "The commercial vehicle manufacturer eliminated interim transition powertrains to streamline manufacturing tooling and fleet maintenance frameworks.",
+                "The regulatory transition forces motor carriers to evaluate equipment pre-buy strategies ahead of strict federal emissions mandates.",
+                "Fleet operations managers must update capital expenditure budgets to account for anticipated acquisition price increases on 2027 tractor models."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+            "nextUpTease": "MARITIME: SINO-RUSSIAN NAVAL FLOTILLA",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance_2026",
-                "Published: 2026-08-08T20:15:00Z",
+                "Source: https://www.ttnews.com/articles/dtna-commits-just-epa-2027-engines-when-nox-rules-launch",
+                "Published: 2026-08-07T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+            "heading": "MARITIME: SINO-RUSSIAN NAVAL FLOTILLA",
             "points": [
-                "Singapore-based ocean carrier SeaLead Shipping has entered voluntary liquidation shortly after facing targeted U.S. financial sanctions.",
-                "Competing ocean container lines are rapidly absorbing active vessel charters and empty equipment assets across Asia-Middle East trade lanes.",
-                "The abrupt carrier exit highlights heightened geopolitical compliance risks facing niche container operators navigating strict global sanction regimes.",
-                "Global freight forwarders must immediately re-route affected containerized cargo to prevent severe delays across Middle East and Mediterranean transport loops."
+                "A joint naval flotilla comprising Chinese PLA Navy and Russian Pacific Fleet warships completed a 16-day circumnavigation of Japan and outer island chains.",
+                "The joint naval presence patrol traversed key international maritime choke points, including the Miyako Strait and Okinotori maritime zones.",
+                "The high-visibility naval exercise highlights escalating geopolitical activity surrounding critical commercial sea lines of communication in East Asia.",
+                "Ocean cargo planners must monitor regional naval deployments for potential maritime traffic advisories and insurance risk rating adjustments."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+            "nextUpTease": "SUSTAINABILITY: WIND-ASSISTED CARGO PROPULSION",
             "tags": [
-                "Source: https://www.joc.com/article/carrier-sealead-ends-operations-weeks-after-us-sanctions-hit-2026",
-                "Published: 2026-08-08T18:00:00Z",
+                "Source: https://maritime-executive.com/article/sino-russian-flotilla-circumnavigates-japan-and-outer-islands",
+                "Published: 2026-08-09T13:01:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: HORMUZ STRAIT TRANSIT FEES",
+            "heading": "SUSTAINABILITY: WIND-ASSISTED CARGO PROPULSION",
             "points": [
-                "Global shipping organizations filed formal appeals with the UN and IMO opposing proposed transit tolls along the Strait of Hormuz.",
-                "Discussions between regional coastal authorities regarding unilateral vessel transit fees threaten to impose new operational surcharges on ocean carriers.",
-                "The strategic maritime chokepoint handles significant global crude and containerized volumes, amplifying systemic supply chain vulnerability.",
-                "Ocean freight planners should prepare for potential war-risk insurance surcharges and fuel cost adjustments across Middle East maritime corridors."
+                "Spanish tech provider bound4blue completed the installation of its eSail suction sail system on the multipurpose cargo vessel Na Hiro E Pae.",
+                "The commercial installation marks the first wind-assisted suction sail deployment on a multipurpose vessel engineered to cut fuel burn.",
+                "The technological retrofit demonstrates practical decarbonization pathways for non-standardized vessel fleets facing IMO carbon intensity mandates.",
+                "Shipowners must evaluate mechanical wind-propulsion retrofits to maintain environmental compliance and mitigate rising marine fuel surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "LAST MILE: FLORIDIAN DRONE EXPANSION",
+            "nextUpTease": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
             "tags": [
-                "Source: https://theloadstar.com/article/global-shipping-groups-urge-un-imo-to-oppose-proposed-strait-of-hormuz-transit-fees-2026",
-                "Published: 2026-08-08T17:45:00Z",
+                "Source: https://maritime-executive.com/article/first-multipurpose-cargo-vessel-installs-wind-assisted-propulsion",
+                "Published: 2026-08-07T19:13:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LAST MILE: FLORIDIAN DRONE EXPANSION",
+            "heading": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
             "points": [
-                "Walmart and drone operator Wing launched automated commercial drone delivery services across 5 store locations in the Orlando, Florida market.",
-                "The aerial fulfillment network expands access to ultra-rapid, small-parcel delivery for residential suburban consumer zones.",
-                "Retail logistics providers continue leveraging autonomous aerial assets to bypass road congestion and reduce localized delivery costs.",
-                "Last-mile logistics operators must monitor local drone delivery regulatory approvals to benchmark automated fulfillment performance against ground networks."
+                "Etsy announced a 12% workforce reduction eliminating 220 corporate positions following its $1.4B sale of C2C fashion platform Depop to eBay.",
+                "The headcount reduction aims to streamline core platform operations and optimize cost structures amid shifting online discretionary spending.",
+                "The corporate restructuring signals broader rationalization trends across e-commerce marketplaces adjusting to post-pandemic order volumes.",
+                "E-commerce strategy leaders should anticipate tighter platform operational budgets and accelerated algorithmic tool integration across retail channels."
             ],
             "imageUrl": "",
-            "nextUpTease": "CAPACITY: FREIGHT MARKET TIGHTENING",
+            "nextUpTease": "INTERMODAL: VIRGINIA INDIANAPOLIS CSX RAIL",
             "tags": [
-                "Source: https://www.retaildive.com/news/walmart-wing-launch-drone-delivery-florida-2026",
-                "Published: 2026-08-08T15:30:00Z",
+                "Source: https://www.retaildive.com/news/etsy-slashes-workforce-laying-off-220/",
+                "Published: 2026-08-09T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CAPACITY: FREIGHT MARKET TIGHTENING",
+            "heading": "INTERMODAL: VIRGINIA INDIANAPOLIS CSX RAIL",
             "points": [
-                "Forward Air leadership reported tightening truckload market fundamentals driven by regulatory enforcement and ongoing commercial carrier exits.",
-                "Over-the-road freight rates and spot market pricing demonstrate sustained momentum across primary North American freight corridors.",
-                "Capacity rationalization is re-balancing supply and demand dynamics across North American motor carrier networks following long-term market softness.",
-                "Logistics managers must secure dedicated contract trucking capacity to protect against rising spot freight rates as market tightening continues."
+                "The Port of Virginia partnered with CSX Railroad to launch direct intermodal rail service linking East Coast marine terminals to Indianapolis.",
+                "The new intermodal rail route enables containerized freight to bypass Chicago rail bottlenecks, cutting transit times by up to 48 hours.",
+                "Direct Midwest rail connectivity strengthens East Coast port competitiveness for high-density containerized import distributions.",
+                "Midwest supply chain managers can convert long-haul truckload freight to direct rail intermodal service to lower inland transport expenditures."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/forward-air-ceo-freight-market-tightening-2026",
-                "Published: 2026-08-08T14:10:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-service-indianapolis/",
+                "Published: 2026-08-04T12:00:00Z",
                 "Status: Audited & True"
             ]
         }
