@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "SANCTIONS: SEALEAD SHIPPING LIQUIDATION",
+        "hookTitle": "USTR ENFORCES FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SANCTIONS: SEALEAD SHIPPING LIQUIDATION",
-                "teaserTitle": "TRUCKING CAPACITY: DATA CENTER DEMAND",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "CARGO THEFT: HACKED DATA RING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation following targeted US sanctions against its operational network. Rival container lines are rapidly absorbing vessel charters and equipment to stabilize transpacific freight flows."
+                "narration_line": "USTR launched forced labor tariffs against 60 trading partners under Section 301. Importers face origin audits and potential delays of up to 15 days at US ports."
             },
             {
                 "slide_index": 2,
-                "headline": "TRUCKING CAPACITY: DATA CENTER DEMAND",
-                "teaserTitle": "MARITIME SECURITY: HORMUZ TRANSIT RESTRICTIONS",
+                "headline": "CARGO THEFT: HACKED DATA RING",
+                "teaserTitle": "PORT OPERATIONS: CHINA SUPER TYPHOON",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "US data center expansion requires 100K truckloads per 1GW of facility buildout across major corridors. Specialized flatbed and dry van equipment capacity is tightening rapidly for standard industrial shippers."
+                "narration_line": "A federal grand jury indicted 8 individuals for stealing $4.49M in goods using hacked corporate data. Logistics providers are strengthening API endpoints and verification rules."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME SECURITY: HORMUZ TRANSIT RESTRICTIONS",
-                "teaserTitle": "AIR FREIGHT: AI EQUIPMENT CAPACITY",
+                "headline": "PORT OPERATIONS: CHINA SUPER TYPHOON",
+                "teaserTitle": "RAIL FREIGHT: VIRGINIA INDIANAPOLIS SERVICE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Iranian authorities drafted legislation to ban US and Israeli vessels from transiting the Strait of Hormuz. Ocean carriers are re-evaluating war risk surcharges and routing options around Southern Africa."
+                "narration_line": "Chinese ports suspended operations as Super Typhoon Dolphin approaches the East Coast. Ocean carriers expect vessel delays of 4 to 7 days across transpacific lanes."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR FREIGHT: AI EQUIPMENT CAPACITY",
-                "teaserTitle": "INLAND FREIGHT: RHINE WATER LEVELS",
+                "headline": "RAIL FREIGHT: VIRGINIA INDIANAPOLIS SERVICE",
+                "teaserTitle": "AIR CARGO: LEIPZIG DRONE THREAT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Booming global AI hardware demand is competing with e-commerce for Asia air freight capacity. High-tech yields continue rising as forwarders secure dedicated charter capacity ahead of Q4."
+                "narration_line": "Port of Virginia launched direct CSX intermodal rail service connecting deepwater terminals to Indianapolis. The direct rail link bypasses Chicago bottlenecks and cuts transit time by 24 hours."
             },
             {
                 "slide_index": 5,
-                "headline": "INLAND FREIGHT: RHINE WATER LEVELS",
-                "teaserTitle": "TRADE POLICY: POLYSILICON TARIFF LEVIES",
+                "headline": "AIR CARGO: LEIPZIG DRONE THREAT",
+                "teaserTitle": "BORDER LOGISTICS: MEXICO CROSSING EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Record low water levels on the Rhine River restricted barge draft limits across German industrial routes. Freight operators are applying light-loading fees and shifting heavy volume to rail and truck networks."
+                "narration_line": "German authorities discovered an explosive-laden drone inside Leipzig Airport during routine security checks. Express cargo hubs face tightened physical inspection rules and short operational holds."
             },
             {
                 "slide_index": 6,
-                "headline": "TRADE POLICY: POLYSILICON TARIFF LEVIES",
-                "teaserTitle": "MARITIME INSURANCE: GPS JAMMING COVERAGE",
+                "headline": "BORDER LOGISTICS: MEXICO CROSSING EXPANSION",
+                "teaserTitle": "E-COMMERCE: AMAZON TITLE RESTRICTIONS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Federal trade officials announced a 15% import tariff on foreign polysilicon starting Dec 4. The policy establishes a price floor to protect domestic solar and semiconductor manufacturing supply chains."
+                "narration_line": "Mexico announced a major expansion of its busiest commercial cross-border truck crossing. Modernized customs lanes will double processing capacity for cross-border freight flows."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME INSURANCE: GPS JAMMING COVERAGE",
+                "headline": "E-COMMERCE: AMAZON TITLE RESTRICTIONS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Sompo Japan launched the maritime industry's first insurance policy covering financial losses from GPS jamming. Commercial shipowners gain direct indemnity against vessel off-hire delays caused by navigation spoofing."
+                "narration_line": "Amazon enforced a 75-character limit on all marketplace product titles. Non-compliant listings face immediate search suppression and algorithmic ranking penalties across all categories."
             },
             {
                 "slide_index": 8,
