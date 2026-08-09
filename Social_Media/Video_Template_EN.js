@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR FORCED LABOR TARIFFS IMPLEMENTED",
+        "hookTitle": "STRAIT OF HORMUZ: IRAN TRANSIT BAN",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "OCEAN: MSC SILVANA SUBMERGED",
+                "headline": "STRAIT OF HORMUZ: IRAN TRANSIT BAN",
+                "teaserTitle": "CARRIER OPERATIONS: SEALEAD VOLUNTARY LIQUIDATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR moved forward with Section 301 tariffs targeting 60 trading partners as Section 122 duties expired. The regulatory action impacts global trade networks as importers recalibrate cross-border sourcing frameworks."
+                "narration_line": "Iran drafted legislation to ban US and Israeli vessels from transiting the Strait of Hormuz handling 20% of global oil. Ocean carriers face elevated war-risk premiums and immediate rerouting."
             },
             {
                 "slide_index": 2,
-                "headline": "OCEAN: MSC SILVANA SUBMERGED",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "headline": "CARRIER OPERATIONS: SEALEAD VOLUNTARY LIQUIDATION",
+                "teaserTitle": "MARITIME INSURANCE: GPS JAMMING COVERAGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An 8,401 TEU container ship MSC Silvana VIII sank deeper off Zhoushan following unsuccessful refloating attempts. Salvage crews continue emergency operations while local maritime authorities maintain navigation warnings across the port."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation following US trade sanctions affecting 1 ocean carrier. Competitors are acquiring its boxship fleet while forwarders manage immediate cargo re-handling disruptions."
             },
             {
                 "slide_index": 3,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
-                "teaserTitle": "INFRASTRUCTURE: OAXACA INVESTMENT PROGRAM",
+                "headline": "MARITIME INSURANCE: GPS JAMMING COVERAGE",
+                "teaserTitle": "TANKER FLEET: ADNOC $1.3B ACQUISITION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "US industrial real estate vacancy rates stabilized at 7.3% in Q2 2026 as tenant demand outpaced new construction. Logistics operators face tightening warehouse capacity across key distribution hubs through year-end."
+                "narration_line": "Sompo Japan launched the shipping industry's 1st insurance policy covering GPS jamming losses. Vessel operators secure crucial financial protection against cyber-navigation failures and transit detours."
             },
             {
                 "slide_index": 4,
-                "headline": "INFRASTRUCTURE: OAXACA INVESTMENT PROGRAM",
-                "teaserTitle": "FLEET: PACCAR ELECTRICAL RECALL",
+                "headline": "TANKER FLEET: ADNOC $1.3B ACQUISITION",
+                "teaserTitle": "CARGO SECURITY: HACKED DATA THEFT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Mexican authorities committed $2.2B toward major infrastructure development projects across the state of Oaxaca. The investment aims to streamline southern trade corridors and strengthen regional manufacturing logistics networks."
+                "narration_line": "ADNOC Logistics invested $1.3B to acquire 11 new crude and gas carriers. Energy charterers secure expanded long-haul transport capacity linking Arabian Gulf ports with Asian markets."
             },
             {
                 "slide_index": 5,
-                "headline": "FLEET: PACCAR ELECTRICAL RECALL",
-                "teaserTitle": "TERMINALS: PORT OF VIRGINIA CSX RAIL",
+                "headline": "CARGO SECURITY: HACKED DATA THEFT",
+                "teaserTitle": "ECOMMERCE FULFILLMENT: ETSY WORKFORCE REDUCTION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "PACCAR issued a safety recall for 5,919 commercial trucks due to electrical system defects. Motor carriers must schedule immediate fleet repairs to maintain operational compliance and mitigate road safety risks."
+                "narration_line": "A federal grand jury indicted 8 individuals in a $4.49M cargo theft ring using hacked logistics data. Motor carriers must tighten cyber protocols and driver verification safeguards."
             },
             {
                 "slide_index": 6,
-                "headline": "TERMINALS: PORT OF VIRGINIA CSX RAIL",
-                "teaserTitle": "AIR CARGO: LEIPZIG DRONE INCIDENT",
+                "headline": "ECOMMERCE FULFILLMENT: ETSY WORKFORCE REDUCTION",
+                "teaserTitle": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Port of Virginia launched direct CSX intermodal rail service connecting ocean terminals directly to Indianapolis. The new rail link bypasses Chicago routing bottlenecks to accelerate Midwest container throughput."
+                "narration_line": "Etsy eliminated 220 jobs representing 12% of its workforce after selling Depop for $1.4B. Management is redirecting capital toward platform technology and core fulfillment operations."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: LEIPZIG DRONE INCIDENT",
+                "headline": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "German counterterrorism authorities launched an investigation after a drone carrying explosives was discovered at Leipzig Airport. Aviation security protocols were heightened across major European air cargo facilities following the incident."
+                "narration_line": "The US announced a 15% tariff on foreign polysilicon imports starting Dec 4. Solar and tech manufacturers face higher material costs and accelerated domestic sourcing requirements."
             },
             {
                 "slide_index": 8,
