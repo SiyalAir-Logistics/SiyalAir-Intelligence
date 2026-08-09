@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SEALEAD LIQUIDATION",
-        "titleBlue": "SANCTIONS",
-        "footerSummary": "US sanctions trigger the immediate liquidation of SeaLead Shipping, forcing global carriers to reassign Asian trade lane assets."
+        "titleWhite": "SECTION 301 TARIFF",
+        "titleBlue": "EXPANSION",
+        "footerSummary": "USTR enforces Section 301 tariffs on 60 trading nations, triggering immediate duty exposure and compliance friction across cross-border supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: SEALEAD LIQUIDATION SANCTIONS",
+            "heading": "TRADE: SECTION 301 TARIFF EXPANSION",
             "points": [
-                "Singapore-headquartered container carrier SeaLead Shipping has entered voluntary liquidation following sweeping trade sanctions issued by US authorities.",
-                "The enforcement actions effectively halted the carrier's primary container line operations across Asia, the Middle East, the Mediterranean, and Baltic corridors.",
-                "Competing ocean carriers and tonnage providers are rapidly acquiring operational container vessels and box fleets previously managed by the line.",
-                "Global freight forwarders are rerouting active container bookings to alternative ocean carriers to prevent widespread cargo delays at major hub ports."
+                "The Office of the United States Trade Representative enforced Section 301 tariffs against 60 trading nations following the expiration of Section 122 measures.",
+                "The regulatory framework targets forced labor violations and shifts cost structures across international supply chain import vectors.",
+                "Importers face immediate compliance audits and tariff reclassifications across multi-country sourcing networks.",
+                "Logistics operators are adjusting customs brokerage workflows to prevent severe port clearance delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
+            "nextUpTease": "INFRASTRUCTURE: TERMINAL CAPACITY EXPANSION",
             "tags": [
-                "Source: https://splash247.com/us-sanctions-push-sealead-shipping-into-liquidation/",
-                "Published: 2026-08-07T10:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs_2026",
+                "Published: 2026-08-08T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
+            "heading": "INFRASTRUCTURE: TERMINAL CAPACITY EXPANSION",
             "points": [
-                "Daimler Truck North America announced plans to construct its largest US commercial truck manufacturing facility to expand heavy-duty vehicle production.",
-                "The new manufacturing plant is scheduled to begin commercial operations in 2029 to supply next-generation Class 8 fleet chassis to domestic carriers.",
-                "The strategic capital expenditure highlights long-term industrial investment in domestic freight capacity despite near-term market rate volatility.",
-                "Motor carriers anticipate enhanced access to updated commercial vehicle fleets as truck OEMs scale domestic assembly capabilities."
+                "An Asian ocean shipping line committed $135M toward a major capacity expansion of its US container terminal footprint.",
+                "The capital investment upgrades berth throughput and intermodal yard automation to handle larger transpacific vessel calls.",
+                "Port congestion risks are mitigated as long-term carrier terminal investments secure dedicated quay velocity.",
+                "Supply chain planners gain enhanced cargo predictability for transpacific import container streams."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: MEXICO OAXACA INVESTMENT HUB",
+            "nextUpTease": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/dtna-us-truck-plant-2029",
-                "Published: 2026-08-07T14:30:00Z",
+                "Source: https://www.freightwaves.com/news/asia-ocean-line-in-135m-expansion-of-us-box-terminal",
+                "Published: 2026-08-08T01:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INFRASTRUCTURE: MEXICO OAXACA INVESTMENT HUB",
+            "heading": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
             "points": [
-                "The Mexican government committed $2.2B in federal funds toward major infrastructure projects across the state of Oaxaca to boost logistics capacity.",
-                "The capital infusion focuses on expanding highway networks, rail freight links, and industrial parks supporting nearshoring manufacturing flows.",
-                "Cross-border logistics operators expect the infrastructure enhancements to improve LTL and truckload transit times between southern Mexico and US ports.",
-                "Supply chain executives are evaluating regional manufacturing sites to capitalize on modernized freight corridors and improved regional connectivity."
+                "Major retail brands are monetizing potential tariff refund claims by selling rights directly on emerging secondary financial markets.",
+                "The liquidity strategy allows importers to secure immediate working capital while long-term legal tariff appeals remain pending.",
+                "Financial institutions are pricing tariff risk claims to provide immediate liquidity to capital-constrained retail supply chains.",
+                "Corporate finance teams are turning trade compliance claims into immediate balance sheet assets."
             ],
             "imageUrl": "",
-            "nextUpTease": "INSURTECH: SOMPO GPS JAMMING COVERAGE",
+            "nextUpTease": "REGULATION: HORMUZ TRANSIT TOLL PROPOSAL",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/40000-mexico-to-invest-22b-in-oaxaca-infrastructure",
-                "Published: 2026-08-07T12:00:00Z",
+                "Source: https://www.supplychaindive.com/news/retailers-sell-rights-potential-tariff-refunds/2026",
+                "Published: 2026-08-07T18:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INSURTECH: SOMPO GPS JAMMING COVERAGE",
+            "heading": "REGULATION: HORMUZ TRANSIT TOLL PROPOSAL",
             "points": [
-                "Japanese insurer Sompo Japan launched the shipping industry's first dedicated insurance coverage targeting economic losses from electronic signal manipulation.",
-                "The financial product provides commercial shipowners indemnification against financial operational losses caused by severe GPS jamming and spoofing.",
-                "Heightened geopolitical conflict across key maritime choke points has significantly increased navigation risks for international commercial fleets.",
-                "Underwriters anticipate strong market adoption as vessel operators seek comprehensive risk management solutions against electronic warfare threats."
+                "International maritime associations petitioned the UN and IMO to halt proposed transit tolls in the Strait of Hormuz.",
+                "Negotiations between Iran and Oman regarding waterway traffic management threaten to impose additional operational surcharges.",
+                "Ocean freight carriers warn that unilateral transit fees will elevate global energy and container transport costs.",
+                "Logistics executives are evaluating alternative maritime corridors and contingency routing protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "SALVAGE: MSC ZHOUSHAN GROUNDING COLLAPSE",
+            "nextUpTease": "SECURITY: CYBER CARGO THEFT INDICTMENT",
             "tags": [
-                "Source: https://splash247.com/sompo-moves-to-close-gps-jamming-insurance-gap/",
-                "Published: 2026-08-07T09:15:00Z",
+                "Source: https://www.joc.com/article/global-shipping-calls-un-imo-no-hormuz-tolls-2026",
+                "Published: 2026-08-07T16:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SALVAGE: MSC ZHOUSHAN GROUNDING COLLAPSE",
+            "heading": "SECURITY: CYBER CARGO THEFT INDICTMENT",
             "points": [
-                "The 8,401 TEU containership MSC Silvana VIII settled deeper into maritime waters off Zhoushan following unsuccessful refloating attempts by salvage crews.",
-                "The 20-year-old container vessel remains partially submerged in critical coastal shipping lanes, complicating salvage operations and navigational safety.",
-                "Regional maritime safety authorities established restricted navigation zones around the casualty site to prevent additional maritime collisions.",
-                "Ocean carriers are adjusting local feeder vessel routings around Zhoushan to minimize operational delays across major Chinese port calls."
+                "A federal grand jury indicted 8 individuals for executing a $4.49M cargo theft ring leveraging compromised carrier software.",
+                "The criminal syndicate utilized stolen logistics portal credentials to re-route high-value retail shipments across interstate highways.",
+                "Freight brokers and 3PLs are facing heightened cybersecurity mandates to protect sensitive digital dispatch systems.",
+                "Supply chain security teams are accelerating multi-factor authentication across all digital freight matching platforms."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "tags": [
-                "Source: https://splash247.com/msc-boxship-sinks-deeper-off-zhoushan-after-failed-refloating/",
-                "Published: 2026-08-08T08:00:00Z",
+                "Source: https://www.ttnews.com/articles/grand-jury-indicts-8-cargo-theft-hacked-data",
+                "Published: 2026-08-07T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "points": [
-                "South Korea announced a strategic partnership with Elegant Exit Company and local recyclers to establish a large-scale green ship recycling facility.",
-                "The initiative aims to build one of Asia's largest environmentally compliant vessel dismantling hubs to process decommissioned commercial ships.",
-                "The development aligns with tightening global maritime environmental regulations governing sustainable vessel disposal and steel recycling standards.",
-                "Maritime shipowners gain access to verified, environmentally sustainable shipbreaking capacity as older commercial tonnage undergoes fleet retirement."
+                "US industrial real estate vacancy fell 7 bps sequentially to 7.3% in Q2 2026 as leasing demand outpaced new warehouse supply.",
+                "Stabilizing vacancy rates mark an end to recent warehouse overcapacity across primary distribution markets.",
+                "Logistics providers are securing distribution center footprint ahead of projected rate increases in late 2026.",
+                "E-commerce and B2B fulfillment operations face tighter industrial space availability near major intermodal hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "INSURANCE: HORMUZ WAR RISK PAYOUT",
+            "nextUpTease": "INTERMODAL: VIRGINIA INDIANAPOLIS RAIL LINK",
             "tags": [
-                "Source: https://splash247.com/south-korea-makes-play-for-large-scale-ship-recycling/",
-                "Published: 2026-08-07T11:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_vacancy_stabilizes_q2_2026",
+                "Published: 2026-08-08T02:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INSURANCE: HORMUZ WAR RISK PAYOUT",
+            "heading": "INTERMODAL: VIRGINIA INDIANAPOLIS RAIL LINK",
             "points": [
-                "Thai ship operator Precious Shipping received an $11M war risk insurance payout following the complete loss of its bulker Mayuree Naree.",
-                "The vessel was declared a constructive total loss after sustaining severe structural damage from two projectile strikes in the Strait of Hormuz.",
-                "The financial settlement demonstrates the immediate operational exposure commercial fleets face while navigating volatile conflict zones in the Middle East.",
-                "Marine underwriters are adjusting war risk premium surcharges and coverage terms for bulk cargo vessels operating near high-risk maritime straits."
+                "The Port of Virginia and CSX launched a direct intermodal rail service connecting ocean terminals directly to Indianapolis.",
+                "The rail link allows Midwest import containers to bypass congested Chicago rail interchange yards entirely.",
+                "Transit times for inland container freight drop by up to 48 hours for regional distribution centers.",
+                "Shippers are re-balancing East Coast port allocations to capitalize on direct inland rail connectivity."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://maritime-executive.com/article/war-risk-insurance-pays-11m-for-loss-of-mayuree-naree",
-                "Published: 2026-08-07T12:40:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-adds-csx-rail-service-indianapolis/2026",
+                "Published: 2026-08-07T11:30:00Z",
                 "Status: Audited & True"
             ]
         }

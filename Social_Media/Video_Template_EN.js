@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "SEALEAD LIQUIDATION SANCTIONS",
+        "hookTitle": "SECTION 301 TARIFF EXPANSION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: SEALEAD LIQUIDATION SANCTIONS",
-                "teaserTitle": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
+                "headline": "TRADE: SECTION 301 TARIFF EXPANSION",
+                "teaserTitle": "INFRASTRUCTURE: TERMINAL CAPACITY EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "US sanctions forced SeaLead Shipping into immediate voluntary liquidation, abruptly halting main container line services. Freight forwarders are transferring active bookings to alternative ocean carriers to prevent supply chain bottlenecks."
+                "narration_line": "USTR enforced Section 301 tariffs on 60 trading nations following the expiration of Section 122 duties. The regulation creates immediate compliance audits and tariff reclassifications for global importers."
             },
             {
                 "slide_index": 2,
-                "headline": "EQUIPMENT: DAIMLER US PLANT EXPANSION",
-                "teaserTitle": "INFRASTRUCTURE: MEXICO OAXACA INVESTMENT HUB",
+                "headline": "INFRASTRUCTURE: TERMINAL CAPACITY EXPANSION",
+                "teaserTitle": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Daimler Truck North America confirmed plans to construct its largest US assembly plant by 2029. Commercial fleet operators expect the facility to expand domestic production for Class 8 heavy-duty vehicles."
+                "narration_line": "An Asian ocean line launched a $135M expansion of its US box terminal footprint. The investment increases berth throughput and automates intermodal yard operations for transpacific freight."
             },
             {
                 "slide_index": 3,
-                "headline": "INFRASTRUCTURE: MEXICO OAXACA INVESTMENT HUB",
-                "teaserTitle": "INSURTECH: SOMPO GPS JAMMING COVERAGE",
+                "headline": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
+                "teaserTitle": "REGULATION: HORMUZ TRANSIT TOLL PROPOSAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Mexico committed $2.2B in public investment to upgrade freight infrastructure across the state of Oaxaca. Cross-border motor carriers expect improved highway corridors to streamline LTL transit times into domestic US markets."
+                "narration_line": "US retailers are selling rights to potential tariff refund claims on secondary markets to generate immediate liquidity. Financial institutions are purchasing these legal claims to provide capital to shippers."
             },
             {
                 "slide_index": 4,
-                "headline": "INSURTECH: SOMPO GPS JAMMING COVERAGE",
-                "teaserTitle": "SALVAGE: MSC ZHOUSHAN GROUNDING COLLAPSE",
+                "headline": "REGULATION: HORMUZ TRANSIT TOLL PROPOSAL",
+                "teaserTitle": "SECURITY: CYBER CARGO THEFT INDICTMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Sompo Japan launched the maritime sector's first specialized insurance policy covering financial losses from GPS jamming attacks. Commercial shipowners are adopting the coverage to hedge operational risks in active conflict zones."
+                "narration_line": "Global shipping groups urged the UN and IMO to oppose proposed Strait of Hormuz transit fees. Bilateral talks between Iran and Oman threaten new surcharges on commercial maritime traffic."
             },
             {
                 "slide_index": 5,
-                "headline": "SALVAGE: MSC ZHOUSHAN GROUNDING COLLAPSE",
-                "teaserTitle": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
+                "headline": "SECURITY: CYBER CARGO THEFT INDICTMENT",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The 8,401 TEU containership MSC Silvana VIII sank deeper off Zhoushan following unsuccessful refloating attempts. Maritime safety authorities established emergency exclusion zones around the casualty to protect regional vessel traffic."
+                "narration_line": "Federal prosecutors indicted 8 individuals in a $4.49M cargo theft ring utilizing hacked logistics data. Fraudulent operators used stolen credentials to divert high-value retail freight across interstate corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "SUSTAINABILITY: SOUTH KOREA SHIP RECYCLING",
-                "teaserTitle": "INSURANCE: HORMUZ WAR RISK PAYOUT",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "teaserTitle": "INTERMODAL: VIRGINIA INDIANAPOLIS RAIL LINK",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "South Korea partnered with Elegant Exit Company to establish a large-scale green ship recycling hub. Ocean carriers gain access to environmentally compliant vessel dismantling capacity to meet strict global environmental standards."
+                "narration_line": "US industrial real estate vacancy dropped 7 bps to 7.3% in Q2 2026 as net demand outpaced supply. Leasing markets are stabilizing near primary intermodal logistics hubs nationwide."
             },
             {
                 "slide_index": 7,
-                "headline": "INSURANCE: HORMUZ WAR RISK PAYOUT",
+                "headline": "INTERMODAL: VIRGINIA INDIANAPOLIS RAIL LINK",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Precious Shipping received an $11M war risk insurance settlement after its bulker Mayuree Naree was destroyed in Hormuz. Underwriters are adjusting war risk surcharges for commercial vessels operating in Middle East waterways."
+                "narration_line": "Port of Virginia launched a direct CSX rail service connecting container terminals to Indianapolis. The intermodal link bypasses Chicago rail yards to cut Midwest transit times by 48 hours."
             },
             {
                 "slide_index": 8,
