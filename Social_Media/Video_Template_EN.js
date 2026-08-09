@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "SUMMER PEAK SHIPPING SURGES EARLIER",
+        "hookTitle": "FORCED LABOR TARIFFS IMPLEMENTED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORTS: SUMMER PEAK SURGE",
-                "teaserTitle": "MANUFACTURING: US EXPANSION",
+                "headline": "USTR: FORCED LABOR TARIFFS IMPLEMENTED",
+                "teaserTitle": "PORTS: USA TERMINAL EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "U.S. containerized imports are projected to hit their highest absolute level since 2022 during the summer peak. Terminal operators are deploying additional equipment to manage the dense volume spikes."
+                "narration_line": "The USTR implemented Section 301 tariffs across 60 trading partners to enforce forced-labor compliance. CBP will conduct expanded customs audits, raising immediate compliance risks for cross-border supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "MANUFACTURING: US EXPANSION",
-                "teaserTitle": "TRUCKING: CAPACITY TIGHTENING",
+                "headline": "PORTS: USA TERMINAL EXPANSION",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "United States manufacturing activity expanded for the 7th consecutive month with steady domestic demand. Supply chain managers are optimizing inventory buffers to support sustained production schedules."
+                "narration_line": "An Asian ocean carrier committed $135M toward expanding a major US marine terminal facility. The infrastructure development will boost container throughput and lower drayage congestion at West Coast ports."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: CAPACITY TIGHTENING",
-                "teaserTitle": "EQUIPMENT: DTNA PLANT INVESTMENT",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+                "teaserTitle": "MARITIME: SEALEAD CARRIER LIQUIDATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Market fundamentals are improving as over-the-road freight capacity tightens across the network. Regulatory enforcement initiatives are accelerating the correction in available truckload capacity."
+                "narration_line": "US industrial real estate vacancy dropped 7 basis points to 7.3% in Q2 2026. Slower warehouse construction start rates are allowing existing 3PL fulfillment space to stabilize quickly."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: DTNA PLANT INVESTMENT",
-                "teaserTitle": "MARITIME: HORMUZ DIPLOMACY",
+                "headline": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+                "teaserTitle": "TRADE: POLYSILICON TARIFF IMPOSITION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Daimler Trucks North America announced plans to construct a massive new U.S. manufacturing plant slated to open in 2029. The facility will significantly expand heavy-duty truck manufacturing capacity."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation following recent US economic sanctions. Competitor container lines are rapidly acquiring the carrier's chartered fleet assets to maintain regional cargo flows."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: HORMUZ DIPLOMACY",
-                "teaserTitle": "RETAIL: E-COMMERCE ACQUISITION",
+                "headline": "TRADE: POLYSILICON TARIFF IMPOSITION",
+                "teaserTitle": "MARITIME: HORMUZ TOLL OPPOSITION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Iranian officials reached a preliminary framework agreement with Oman regarding navigation in the Strait of Hormuz. Marine insurance underwriters are maintaining elevated war-risk premiums for vessels."
+                "narration_line": "The US government ordered a 15% tariff on imported polysilicon effective Dec 4. High-tech manufacturers must now adjust raw material procurement strategies ahead of the new price floor."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: E-COMMERCE ACQUISITION",
-                "teaserTitle": "LOGISTICS: WAREHOUSE AUTOMATION",
+                "headline": "MARITIME: HORMUZ TOLL OPPOSITION",
+                "teaserTitle": "TRUCKING: DATA CENTER DEMAND",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "eBay officially finalized its $1.4B cash acquisition of fashion marketplace Depop. Leadership confirmed plans to operate the acquired brand as a complementary asset."
+                "narration_line": "Global maritime groups petitioned the UN and IMO to prevent transit tolls in the Strait of Hormuz. Unilateral fees threaten to further increase ocean freight surcharges across Middle Eastern shipping lanes."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: WAREHOUSE AUTOMATION",
+                "headline": "TRUCKING: DATA CENTER DEMAND",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Logistics providers are accelerating the deployment of advanced warehouse robotics and AI systems. Fulfillment centers are integrating autonomous mobile robots to optimize internal workflows."
+                "narration_line": "AI data center construction now requires 100K specialized truckloads for every 1 gigawatt of power expansion. Freight buyers face constrained heavy-haul truck capacity and higher spot rates for industrial machinery."
             },
             {
                 "slide_index": 8,

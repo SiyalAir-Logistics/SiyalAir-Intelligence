@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SUMMER PEAK SHIPPING SURGES",
-        "titleBlue": "EARLIER",
-        "footerSummary": "Global trade accelerates as the National Retail Federation reports summer imports reaching their highest volume levels since 2022."
+        "titleWhite": "FORCED LABOR TARIFFS",
+        "titleBlue": "IMPLEMENTED",
+        "footerSummary": "USTR enforces Section 301 tariffs across 60 trading partners as Section 122 duties expire, driving massive supply chain re-routing risks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORTS: SUMMER PEAK SURGE",
+            "heading": "USTR: FORCED LABOR TARIFFS IMPLEMENTED",
             "points": [
-                "The National Retail Federation announced that monthly U.S. containerized imports are projected to hit their highest absolute level since 2022 during the upcoming summer peak window. Cargo volumes are accelerating rapidly as major logistics operators adapt to shifting supply chain patterns.",
-                "Port terminals across major coastal gateways are experiencing elevated throughput demands as importers rush inventory ashore ahead of scheduled autumn adjustments. Container processing facilities are deploying additional terminal equipment to manage the dense volume spikes.",
-                "Maritime analysts emphasize that this compressed peak season reflects proactive inventory management strategies deployed by enterprise retail procurement teams worldwide. Supply chain leaders are leveraging early shipments to mitigate potential geopolitical bottlenecks.",
-                "Terminal operators and intermodal rail partners must maintain continuous landside evacuation capabilities to prevent yard congestion during peak handling intervals. Importers are advised to secure drayage capacity early to avoid terminal dwell penalties."
+                "The Office of the United States Trade Representative has officially initiated Section 301 tariffs targeting 60 partner nations. The regulatory shift replaces expiring Section 122 duties with mandatory forced-labor compliance checks across major global trading channels.",
+                "Cross-border logistics operators face intensified customs auditing and potential cargo holds at key ports of entry. Compliance teams are urged to re-verify Tier-1 through Tier-3 vendor supply chains to mitigate tariff penalties.",
+                "International trade experts highlight that the shift marks a permanent institutionalization of forced-labor enforcement frameworks. Strategic sourcing routes in Southeast Asia and Latin America are undergoing immediate compliance restructuring.",
+                "Importers should prepare for higher duty outlays and audit delays as U.S. Customs and Border Protection expands trade monitoring. Procurement leadership must update supply chain risk models to maintain operational fluidity."
             ],
             "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: US EXPANSION",
+            "nextUpTease": "PORTS: USA TERMINAL EXPANSION",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/summer-monthly-imports-to-hit-highest-level-since-2022",
-                "Published: 2026-08-07T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs",
+                "Published: 2026-08-08T22:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MANUFACTURING: US EXPANSION",
+            "heading": "PORTS: USA TERMINAL EXPANSION",
             "points": [
-                "The Institute for Supply Management reported that United States manufacturing activity expanded for the seventh consecutive month, driven by resilient domestic industrial demand. Factory output metrics continue to demonstrate steady growth despite broader macroeconomic headwinds.",
-                "Industrial procurement executives note that while raw material prices remain elevated, cost trajectories are stabilizing in a more favorable direction for manufacturers. Supply chain managers are optimizing inventory buffers to support sustained production schedules.",
-                "Economic strategists highlight that consecutive months of expansion signal a durable strengthening of domestic industrial supply chains and regional fabrication capacity. Production facilities are actively investing in automation to enhance operational efficiency.",
-                "Supply chain planners should monitor regional component availability and supplier lead times closely to protect manufacturing output against sudden disruptions. Strategic supplier partnerships will remain vital for maintaining production momentum through Q3."
+                "An Asian ocean carrier has committed $135M to expand its dedicated marine terminal infrastructure in the United States. The capital investment aims to enhance throughput capabilities and reduce container dwell times at major gateways.",
+                "Terminal engineering plans include upgrading berth capacity, deploying automated container handling equipment, and expanding intermodal rail connections. The project responds to rising long-term transpacific cargo volumes.",
+                "Port authority analysts note that private carrier investment in landside infrastructure provides crucial buffer capacity against peak season surges. Gate operations are projected to see significant productivity gains upon completion.",
+                "BCOs and freight forwarders transiting West Coast gateways will benefit from streamlined container discharge and lower drayage congestion. Supply chain planners should evaluate terminal-specific carrier routings to optimize ocean transit."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: CAPACITY TIGHTENING",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/us-manufacturing-expands-seventh-month-ism/825600/",
-                "Published: 2026-08-08T00:00:00Z",
+                "Source: https://www.freightwaves.com/news/asia-ocean-line-135m-expansion-us-terminal",
+                "Published: 2026-08-08T18:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRUCKING: CAPACITY TIGHTENING",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
             "points": [
-                "Forward Air Chief Executive Officer Shawn Stewart stated that market fundamentals are visibly improving as over-the-road freight capacity tightens across the network. Regulatory enforcement initiatives and carrier exits are accelerating the correction in available truckload capacity.",
-                "Motor carriers are reporting healthier rate realizations and improved asset utilization as weaker operators phase out of the competitive transport market. Fleet managers are focusing on disciplined yield management to maximize operational margins.",
-                "Transportation economists observe that ongoing regulatory compliance sweeps are successfully removing substandard commercial vehicles and drivers from active highway circulation. Trucking fleets are strategically positioning assets to capture higher-yielding freight opportunities.",
-                "Shippers must prepare for a more constrained capacity environment and adjust logistics budgets to accommodate firmer contract and spot market rates. Early carrier engagement is recommended to secure guaranteed dedicated fleet capacity."
+                "Colliers reported that U.S. industrial real estate vacancy fell seven basis points sequentially to 7.3% as demand surpassed new warehouse deliveries. The market stabilization signals an absorption rebound across primary logistics hubs.",
+                "Industrial developers have curtailed speculative construction starts, allowing existing warehousing inventories to be steadily absorbed by 3PLs and manufacturing firms. Asking lease rates are stabilizing following multi-quarter adjustments.",
+                "Commercial real estate analysts indicate that demand for modern distribution facilities is driven by supply chain regionalization and nearshoring strategies. High-spec fulfillment space remains tightly held in major port-adjacent submarkets.",
+                "Logistics executives seeking secondary or regional warehouse footprints should lock in lease terms before tightening supply drives rate increases. Multi-year facility planning must factor in limited speculative deliverability through 2027."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: DTNA PLANT INVESTMENT",
+            "nextUpTease": "MARITIME: SEALEAD CARRIER LIQUIDATION",
             "tags": [
-                "Source: https://www.ttnews.com/articles/forward-air-ceo-optimistic-freight-market",
-                "Published: 2026-08-07T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance",
+                "Published: 2026-08-08T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "EQUIPMENT: DTNA PLANT INVESTMENT",
+            "heading": "MARITIME: SEALEAD CARRIER LIQUIDATION",
             "points": [
-                "Daimler Trucks North America announced plans to construct a massive new U.S. manufacturing plant slated to open in 2029, representing its largest production facility nationwide. CEO John O\u2019Leary confirmed the strategic capital investment during an industry briefing.",
-                "The upcoming production facility will significantly expand heavy-duty truck manufacturing capacity to meet anticipated long-term demand for advanced commercial vehicles. Equipment engineers are designing the plant to integrate next-generation automation and zero-emission assembly processes.",
-                "Commercial vehicle analysts note that the multi-year investment underscores manufacturer confidence in the enduring strength of the North American trucking sector. Fleet operators can anticipate a robust pipeline of modern, high-efficiency trucks in the coming decade.",
-                "Transportation companies should evaluate long-term fleet renewal strategies in alignment with incoming manufacturing capabilities and upcoming emissions regulations. Capital expenditure planning must account for evolving heavy equipment standards."
+                "Singapore-based ocean carrier SeaLead Shipping has entered voluntary liquidation following severe operational impacts from recently imposed U.S. sanctions. Rival container lines are rapidly acquiring the carrier's chartered vessels and container fleets.",
+                "The abrupt liquidation has forced shippers to scramble for replacement vessel allocations across Asia-Middle East and Mediterranean trade corridors. Freight forwarders are actively working to release cargo held at intermediary transshipment hubs.",
+                "Maritime legal experts emphasize that stringent sanction enforcement is accelerating consolidation and carrier exits in secondary ocean trades. Industry players are tightening counterparty risk assessments across non-alliance carriers.",
+                "Cargo owners with active bookings on liquidated tonnage must verify bill of lading liability and container asset status immediately. Supply chain risk managers should re-evaluate ocean carrier solvency and compliance track records."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ DIPLOMACY",
+            "nextUpTease": "TRADE: POLYSILICON TARIFF IMPOSITION",
             "tags": [
-                "Source: https://www.ttnews.com/articles/dtna-to-open-new-us-truck-manufacturing-plant",
-                "Published: 2026-08-07T00:00:00Z",
+                "Source: https://www.joc.com/article/carrier-sealead-ends-operations-us-sanctions",
+                "Published: 2026-08-08T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: HORMUZ DIPLOMACY",
+            "heading": "TRADE: POLYSILICON TARIFF IMPOSITION",
             "points": [
-                "Iranian officials announced that a preliminary framework agreement has been reached with Oman regarding future management and navigation arrangements in the Strait of Hormuz. International shipping associations continue to urge global oversight bodies to guarantee zero transit tolls.",
-                "Crude oil tanker operators and container shipping lines face continued financial uncertainty as geopolitical negotiations and regional security conditions evolve. Marine insurance underwriters are maintaining elevated war-risk premiums for vessels transiting the vital Middle Eastern waterway.",
-                "Maritime legal experts emphasize that maintaining unfettered commercial navigation through international chokepoints is essential for global energy stability and supply chain continuity. Fleet operators are maintaining close coordination with naval security forces.",
-                "Energy logistics planners must incorporate dynamic contingency routing models to mitigate potential freight delays and security risks in the Persian Gulf. Voyage optimization teams are actively monitoring real-time transit advisories."
+                "The U.S. administration issued an executive order imposing a 15% tariff and establishing an import price floor on polysilicon materials starting Dec 4. The trade action directly targets imported raw materials critical for solar energy and semiconductor manufacturing.",
+                "High-tech supply chain managers face immediate cost increases and sourcing adjustments for raw silicon inputs. Domestic fabricators are evaluating raw material inventories and contract terms ahead of the December implementation deadline.",
+                "Trade analysts stress that raw material tariffs aim to incentivize domestic supply chain reshoring and shield North American processors from foreign price undercutting. High-tech logistics networks must adapt to changing supply routes.",
+                "Manufacturers relying on imported polysilicon must audit vendor landed costs and explore domestic supply partnerships. Compliance managers should ensure accurate tariff classification ahead of the regulatory shift."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: E-COMMERCE ACQUISITION",
+            "nextUpTease": "MARITIME: HORMUZ TOLL OPPOSITION",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/iran-says-it-reached-agreement-with-oman-on-hormuz-shipping",
-                "Published: 2026-08-07T00:00:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-tariffs-polysilicon-imports-chips-solar/825800/",
+                "Published: 2026-08-07T21:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RETAIL: E-COMMERCE ACQUISITION",
+            "heading": "MARITIME: HORMUZ TOLL OPPOSITION",
             "points": [
-                "eBay officially finalized its $1.4B cash acquisition of fashion marketplace Depop, integrating the platform into its broader digital commerce portfolio. Executive leadership confirmed plans to operate the acquired brand as a complementary asset to drive category growth.",
-                "Online marketplace sellers and digital merchants experienced minimal disruption as back-end technological integration commenced across international operating regions. The strategic transaction highlights ongoing consolidation within specialized consumer e-commerce sectors.",
-                "Retail analysts point out that digital platforms are aggressively pursuing targeted acquisitions to expand market share and enhance cross-border merchandising capabilities. E-commerce logistics networks are adapting to support integrated multi-brand fulfillment models.",
-                "Online merchants utilizing digital marketplaces should review updated platform fee structures and fulfillment service agreements to maintain operating margins. Multi-channel sellers must maintain inventory agility across diverse sales channels."
+                "Global shipping associations have submitted formal petitions to the UN and IMO opposing proposed transit tolls along the Strait of Hormuz. The opposition follows bilateral discussions between regional authorities regarding new maritime navigation management frameworks.",
+                "Ocean carriers argue that unilateral transit fees on international waterways violate freedom of navigation agreements and inflate global freight costs. War-risk premiums and operational surcharges already elevate transit expenses through the corridor.",
+                "Maritime strategists warn that establishing transit tolls in key chokepoints creates dangerous regulatory precedents for international commerce. Energy and container shipping lines are closely monitoring diplomatic interventions.",
+                "Shipowners and charterers operating in the Persian Gulf should prepare for regulatory shifts and potential route adjustments. Logistics planners must track IMO proceedings to assess financial impacts on Middle Eastern trade routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: WAREHOUSE AUTOMATION",
+            "nextUpTease": "TRUCKING: DATA CENTER DEMAND",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/02/ebay-to-operate-depop-as-it-seeks-synergies/",
-                "Published: 2026-08-02T00:00:00Z",
+                "Source: https://www.joc.com/article/global-shipping-calls-on-un-imo-no-hormuz-tolls",
+                "Published: 2026-08-08T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LOGISTICS: WAREHOUSE AUTOMATION",
+            "heading": "TRUCKING: DATA CENTER DEMAND",
             "points": [
-                "Major logistics providers are accelerating the deployment of advanced warehouse robotics and AI-driven inventory management systems to counteract ongoing labor shortages. Fulfillment centers are integrating autonomous mobile robots to optimize internal picking and packing workflows.",
-                "Warehouse operations managers report significant productivity gains and reduced cycle times following the integration of scalable automated material handling equipment. Capital investments in DC technology continue to yield strong operational efficiencies.",
-                "Supply chain technology experts note that modern distribution facilities must adopt flexible automation architectures to handle complex e-commerce order profiles seamlessly. Facility automation is rapidly transitioning from a competitive advantage to an essential operational baseline.",
-                "Logistics executives should audit current warehouse execution systems and identify automation bottlenecks to prepare facilities for upcoming peak demand surges. Strategic technology upgrades will be paramount for scaling fulfillment operations successfully."
+                "Surging construction of artificial intelligence data centers is absorbing significant U.S. specialized flatbed and heavy-haul truck capacity. Transportation analysts report that each gigawatt of data center capacity expansion requires over 100,000 truckload movements.",
+                "The massive equipment movement is straining specialized motor carrier fleets, driving up spot freight rates for heavy machinery and electrical infrastructure. General shippers are encountering competition for specialized flatbed equipment.",
+                "Logistics researchers point out that the convergence of tech infrastructure investment and heavy freight transport is reshaping domestic capacity allocation. Industrial project logistics is emerging as a primary growth driver for specialized carriers.",
+                "Shippers transporting industrial machinery and construction goods must secure specialized fleet commitments well in advance. Budget managers should expect continued rate firmness in heavy-haul and flatbed sectors through Q4."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/warehouse-automation-robotics-fulfillment-trends-2026/825400/",
-                "Published: 2026-08-06T00:00:00Z",
+                "Source: https://www.joc.com/article/data-centers-pulling-shrinking-us-truck-capacity",
+                "Published: 2026-08-08T16:00:00Z",
                 "Status: Audited & True"
             ]
         }
