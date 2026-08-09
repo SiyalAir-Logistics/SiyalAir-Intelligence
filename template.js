@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "Global supply chains face acute disruption as USTR enacts broad tariffs across 60 trading partners while container lines expand US terminals."
+        "titleWhite": "TRUMP ENACTS 15%",
+        "titleBlue": "TARIFF",
+        "footerSummary": "Global trade faces new friction as US levies 15% polysilicon tariffs while cyber cargo theft and Rhine low-water bottlenecks disrupt freight."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "POLYSILICON: TRUMP ENACTS 15% TARIFF",
             "points": [
-                "The Office of the United States Trade Representative officially moved forward with sweeping import tariffs targeting 60 trading nations under Section 301. The regulatory action establishes permanent trade penalties tied directly to forced labor compliance frameworks. Global manufacturing supply chains must immediately review export documentation to prevent port delays.",
-                "Importers across major trade lanes face immediate duty adjustments and heightened customs scrutiny upon entry into domestic ports. The enforcement mechanism requires verifiable supply chain traceability from raw material sourcing down to final assembly. Supply chain directors are scrambling to audit cross-border vendor networks ahead of enforcement audits.",
-                "Trade policy experts note that these Section 301 measures signal a permanent shift toward restrictive, values-driven trade policies in Washington. Exporters operating in affected jurisdictions must restructure sourcing channels to maintain competitive pricing in US markets. Procurement teams are actively re-allocating orders to compliant tier-one suppliers.",
-                "Logistics providers anticipate increased customs clearance friction and extended dwell times at major ocean and air gateways. Forwarders are advising clients to implement robust digital supply chain mapping tools to verify labor provenance. Companies failing to meet compliance standards risk severe cargo seizures at the border."
+                "The United States federal government officially enacted a 15% tariff on imported polysilicon targeting solar energy equipment and semiconductor supply chains. The executive proclamation establishes an explicit import price floor taking effect Dec 4 to bolster domestic production capacity. Manufacturing executives across green energy sectors are re-evaluating long-term raw material procurement plans.",
+                "Importers of high-grade silicon wafers face immediate price adjustments and restructured customs clearance protocols at major ports of entry. Sourcing managers must account for mandatory price floors when structuring future international purchase contracts. Supply chain strategists anticipate increased compliance verification steps for cross-border component deliveries.",
+                "Trade policy analysts emphasize that targeting primary raw materials accelerates the reshoring of critical technology supply chains. US solar module manufacturers must balance short-term tariff overhead against long-term domestic sourcing incentives. Procurement teams are auditing secondary Asian markets to mitigate immediate price increases.",
+                "Logistics providers operating in high-tech freight corridors expect temporary shifting in import volumes ahead of the Dec 4 effective deadline. Forwarders are encouraging shippers to expedite inbound raw material orders to secure pre-tariff landed costs. Enterprise supply chain leads must reconfigure cost modeling across renewable infrastructure projects."
             ],
             "imageUrl": "",
-            "nextUpTease": "EXPANSION: US BOX TERMINAL",
+            "nextUpTease": "CYBERSECURITY: $4.49M CARGO THEFT INDICTMENT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/ustr-forced-labor-tariffs-60-nations-2026",
-                "Published: 2026-08-08T08:00:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-imposes-15-percent-tariff-polysilicon-imports-2026",
+                "Published: 2026-08-08T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "EXPANSION: US BOX TERMINAL",
+            "heading": "CYBERSECURITY: $4.49M CARGO THEFT INDICTMENT",
             "points": [
-                "A major Asian ocean carrier announced a $135M strategic capital investment dedicated to expanding its United States container terminal footprint. The infrastructure project aims to increase container throughput capacity and streamline intermodal handoff efficiency at key port gateways. Terminal operators are integrating automated gantry cranes to accelerate vessel turnaround times.",
-                "The multi-million dollar terminal enhancement provides ocean shippers with improved cargo velocity and reduced dwell times at congested coastal hubs. Regional supply chains stand to benefit from enhanced rail and drayage connectivity linking docks directly to inland distribution networks. Port authorities project a notable lift in annual container handling capacity upon completion.",
-                "Ocean freight analysts interpret the multi-million dollar terminal commitment as a long-term bet on robust transpacific import demand. Carriers are prioritizing proprietary terminal infrastructure to shield operations from broader supply chain bottlenecks and labor disputes. The investment reinforces strategic control over critical import-export chokepoints.",
-                "Logistics managers and beneficial cargo owners should factor expanded terminal capacity into upcoming service contract negotiations. Importers operating through the upgraded gateway can anticipate more reliable intermodal scheduling and fluid container pickup windows. Supply chain planners view the project as a vital boost for coastal logistics infrastructure."
+                "A federal grand jury indicted eight individuals involved in an organized cyber cargo theft ring that illegally diverted $4.49M in retail merchandise. The criminal network accessed compromised company credentials to execute fraudulent freight pickups across domestic interstate corridors. Law enforcement agencies recovered stolen commercial inventories following multi-state investigative operations.",
+                "The fraudulent scheme exploited vulnerabilities in digital freight brokerage databases and corporate logistics dispatch portals. Shippers and third-party logistics providers suffered severe inventory losses alongside operational disruptions during high-volume retail dispatch windows. Motor carriers are implementing multi-factor verification tools to secure carrier identity credentials.",
+                "Cybersecurity experts warn that digital identity spoofing represents a expanding structural risk to automated freight matching ecosystems. Fraudulent carrier onboarding protocols allow criminal groups to intercept high-value shipments without physical breach indicators. Freight brokers are updating security frameworks to vet third-party drivers before releasing loads.",
+                "Fleet safety managers must enforce strict digital validation checkpoints for all third-party drayage and over-the-road transport partners. Shippers are urged to cross-verify driver identity against real-time regulatory databases prior to warehouse loading. Logistics technology teams are accelerating zero-trust access controls across transport management systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "INSURANCE: HORMUZ WAR RISK",
+            "nextUpTease": "E-COMMERCE: AMAZON RESTRICTS TITLE LENGTH",
             "tags": [
-                "Source: https://www.freightwaves.com/news/asia-ocean-line-135m-expansion-us-box-terminal-2026",
-                "Published: 2026-08-08T07:30:00Z",
+                "Source: https://www.ttnews.com/articles/grand-jury-indicts-8-cargo-theft-scheme-tied-hacked-data-2026",
+                "Published: 2026-08-07T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INSURANCE: HORMUZ WAR RISK",
+            "heading": "E-COMMERCE: AMAZON RESTRICTS TITLE LENGTH",
             "points": [
-                "Thai shipping firm Precious Shipping secured a vital $11M war risk insurance payout covering the total constructive loss of its bulk carrier. The vessel was struck by projectiles and subsequently grounded during perilous transits through the volatile Strait of Hormuz. Marine underwriters are closely scrutinizing claims processing for assets operating within active Middle Eastern conflict zones.",
-                "The multi-million dollar insurance recovery underscores the severe financial risks shipping lines absorb when navigating high-threat maritime corridors. Underwriters are adjusting hull and machinery premiums upward to account for escalating geopolitical hostilities and military strikes. Shipowners are demanding enhanced security guarantees before committing tonnage to regional trade lanes.",
-                "Maritime risk experts emphasize that ongoing security threats in the Middle East continue to reshape global shipping economics and vessel routing strategies. Commercial fleets are increasingly relying on specialized war risk coverage and armed security details for Gulf transits. Insurance providers are imposing stringent compliance protocols on insured vessels.",
-                "Logistics operators managing Middle Eastern trade routes must factor soaring insurance surcharges and war risk premiums into freight rate calculations. Cargo owners are urged to review force majeure clauses and marine cargo policy limits for shipments traversing conflict areas. Forwarders anticipate continued rate volatility across regional maritime shipping lanes."
+                "Amazon deployed a mandatory 75-character limit on product listing titles applying equally to third-party merchant listings and internal retail brands. The automated catalog policy strips excessive keyword clutter to streamline search index efficiency and customer interface rendering. Online sellers must revise product titles across active inventory catalogs to maintain search placement.",
+                "E-commerce brands face catalog suppression and search index demotions if product listing titles breach the newly enforced character parameters. Third-party logistics providers handling marketplace inventory must realign automated listing feeds with revised Amazon title requirements. Merchandising teams are condensing product naming conventions across thousands of SKU records.",
+                "Digital retail analysts note that standardizing listing titles improves mobile browsing performance and optimizes conversational AI search responses. Marketplace algorithms are prioritizing concise product metadata over legacy keyword-stuffing marketing practices. Brands adapting swiftly to character boundaries report steady customer conversion rates.",
+                "Online sellers should audit automated product upload software to prevent systematic listing rejections across seller dashboard portals. Operations teams must ensure SKU descriptions comply with updated marketplace style guidelines ahead of peak Q4 traffic. Logistics software partners are updating catalog synchronization tools to support automated character capping."
             ],
             "imageUrl": "",
-            "nextUpTease": "TYPHOON: CHINA PORT SUSPENSION",
+            "nextUpTease": "INTERMODAL: VIRGINIA LAUNCHES CSX DIRECT RAIL",
             "tags": [
-                "Source: https://maritime-executive.com/news/war-risk-insurance-pays-11m-for-loss-of-mayuree-naree-2026",
-                "Published: 2026-08-07T12:40:00Z",
+                "Source: https://www.ecommercebytes.com/blog/amazons-new-product-title-policy-applies-to-own-listings-2026",
+                "Published: 2026-08-07T19:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TYPHOON: CHINA PORT SUSPENSION",
+            "heading": "INTERMODAL: VIRGINIA LAUNCHES CSX DIRECT RAIL",
             "points": [
-                "Chinese maritime authorities ordered the immediate suspension of port operations and vessel fueling activities as a super typhoon approaches. Major eastern manufacturing hubs and shipping terminals are clearing berths and instructing vessels to head out to open sea. The extreme weather event threatens to disrupt factory export schedules across key coastal provinces.",
-                "The port closures halt the dispatch of thousands of outbound containers, creating massive cargo backlogs across major Chinese export gateways. Supply chain schedules will experience rolling delays as vessels queue offshore awaiting clearance to re-enter port terminals. Exporters face acute bottlenecks just as peak season shipping volumes accelerate.",
-                "Meteorological forecasters warn that the approaching storm's intensity could severely damage port infrastructure and delay maritime logistics recovery efforts. Regional manufacturing plants are adjusting assembly outputs to prevent localized warehouse congestion during the port shutdown. Global carriers are implementing contingency routing plans for affected tonnage.",
-                "Supply chain executives sourcing from Asia must prepare for extended lead times and potential space constraints on outbound transpacific voyages. Freight forwarders are advising clients to secure buffer inventory to absorb multi-week shipping delays. Importers should monitor real-time port reopening notices to recalibrate distribution center inbound schedules."
+                "The Port of Virginia expanded its intermodal transport network by adding a direct CSX rail connection linking coastal container terminals to Indianapolis. The new rail line allows Midwest-bound ocean freight to bypass congested Chicago interchange yards, significantly accelerating transit schedules. Terminal operators expect the rail service to increase overall intermodal throughput capacity.",
+                "Midwest importers gain a reliable intermodal gateway that reduces dwell times and eliminates costly long-distance drayage moves from distant hubs. Direct rail routing lowers landed freight costs while reducing carbon emissions for regional distribution networks in Indiana. Port authorities project higher container volumes along the mid-Atlantic rail corridor.",
+                "Rail logistics specialists view the dedicated service as a strategic countermeasure against recurring Midwest rail junction bottlenecks. Ocean carriers are updating intermodal bills of lading to incorporate the new Indianapolis direct rail routing option. Beneficial cargo owners are adjusting inbound routing guidebooks to leverage direct rail connectivity.",
+                "Supply chain planners managing Midwest distribution hubs should review ocean-rail booking options to reduce inland transit variance. Intermodal coordinators anticipate improved chassis availability as rail cars bypass congested traditional interchange terminals. Shippers can expect consistent container delivery schedules throughout upcoming peak shipping cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: VACANCY STABILIZATION",
+            "nextUpTease": "MARITIME RISK: SOMPO LAUNCHES GPS COVERAGE",
             "tags": [
-                "Source: https://maritime-executive.com/news/china-ports-suspending-operations-as-super-typhoon-approaches-2026",
-                "Published: 2026-08-07T16:32:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-adds-csx-rail-service-to-indianapolis-2026",
+                "Published: 2026-08-08T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REAL ESTATE: VACANCY STABILIZATION",
+            "heading": "MARITIME RISK: SOMPO LAUNCHES GPS COVERAGE",
             "points": [
-                "Commercial real estate firm Colliers reported that the national industrial vacancy rate dropped seven basis points sequentially to settle at 7.3%. The second-quarter figures reflect a stabilizing market where tenant demand is finally outpacing new warehouse construction completions. Industrial developers are experiencing healthier absorption rates across primary logistics markets.",
-                "The stabilization of industrial vacancy provides developers and institutional landlords with predictable rental revenue streams after quarters of oversupply. Third-party logistics providers and retailers are actively locking down functional distribution space near major urban consumption centers. Net absorption metrics indicate a balanced equilibrium between available footprint and occupier demand.",
-                "Real estate economists note that moderating new construction starts have successfully prevented runaway inventory surpluses in key industrial submarkets. Regional warehouse operators are focusing on facility modernization and automation upgrades rather than speculative ground-up development. Corporate tenants are prioritizing strategic location efficiency over square footage expansion.",
-                "Supply chain directors seeking new distribution facilities can expect firmer lease terms and stabilized rental pricing across major industrial hubs. Real estate advisors recommend that expanding enterprises secure long-term leases now before localized supply constraints tighten availability. Logistics procurement teams are evaluating multi-market real estate portfolios for optimal cost efficiency."
+                "Japanese insurer Sompo Japan launched maritime insurance coverage specifically designed to indemnify vessel operators against economic losses caused by GPS jamming. The insurance product addresses financial damages stemming from signal spoofing, vessel off-course delays, and electronic navigation disruptions in high-risk waters. Shipowners navigating volatile maritime corridors can now transfer electronic warfare operational risks.",
+                "Maritime carriers operating in geopolitical hotspots face increasing electronic interference that compromises GPS navigation systems and schedule integrity. Uninsured vessel delays and emergency rerouting costs have historically imposed severe financial burdens on commercial shipping lines. Sompo\u2019s specialized policy provides financial protection against mounting technology-based navigation threats.",
+                "Marine risk underwriters emphasize that satellite signal manipulation represents an escalating hazard for automated vessel transit systems. Shipping lines are upgrading shipboard electronic systems while securing specialized insurance endorsements to protect fleet assets. Industry observers expect competing maritime insurers to roll out similar electronic warfare risk policies.",
+                "Logistics managers and ocean freight forwarders should verify that ocean carriers maintain adequate coverage for signal disruption delays. Cargo owners transporting high-value freight through active conflict zones are advised to assess marine cargo policy exclusions. Fleet operators are integrating backup inertial navigation tools alongside updated insurance coverage."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: NRF PEAK SHIPPING FORECAST",
+            "nextUpTease": "FULFILLMENT: AEO BUILDS $41M NC FACILITY",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/industrial-real-estate-vacancy-rate-colliers-q2-2026",
-                "Published: 2026-08-08T09:00:00Z",
+                "Source: https://splash247.com/sompo-moves-to-close-gps-jamming-insurance-gap-2026",
+                "Published: 2026-08-07T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PORTS: NRF PEAK SHIPPING FORECAST",
+            "heading": "FULFILLMENT: AEO BUILDS $41M NC FACILITY",
             "points": [
-                "The National Retail Federation released its latest monthly import report indicating that summer maritime import volumes will hit their highest level since 2022. Retailers are aggressively frontloading inventory into US ports ahead of an anticipated early peak shipping season cooldown in September. Container terminals across the West and East Coasts are experiencing elevated throughput activity.",
-                "The surge in early container imports is straining drayage trucking networks and accelerating yard dwell times at major ocean gateways. Port operators are deploying around-the-clock shift schedules to clear intermodal boxes and prevent severe terminal congestion. Importers are absorbing higher spot freight rates to secure vessel slots for peak holiday merchandise.",
-                "Retail supply chain analysts point out that inventory pre-loading reflects corporate anxiety over potential tariff adjustments and regulatory trade interventions. Merchandising executives are bypassing traditional shipping timelines to guarantee product availability for the upcoming holiday shopping season. Warehousing networks are operating at near-capacity to absorb incoming ocean freight.",
-                "Logistics managers must coordinate closely with drayage carriers and rail partners to ensure rapid container extraction from congested port facilities. Shippers should anticipate tighter equipment availability and potential chassis shortages throughout the late summer shipping rush. Forward-thinking retailers are already planning post-peak inventory staging strategies."
+                "Apparel retailer American Eagle Outfitters approved a $41M capital investment to construct a regional distribution center in North Carolina. The facility will serve as a primary fulfillment node for the Southeastern United States, creating more than 200 supply chain jobs. Operations are scheduled to commence in early 2027 to expand regional e-commerce delivery throughput.",
+                "The multi-million dollar distribution center will integrate automated order picking systems to reduce order-to-delivery lead times for retail stores. Local supply chain infrastructure benefits from expanded freight volume and increased regional drayage demand across nearby interstate highways. Merchandising teams anticipate improved inventory placement across regional retail stores.",
+                "Commercial real estate analysts note that apparel retailers are prioritizing localized distribution hubs to optimize regional fulfillment economics. Strategic warehouse placement in North Carolina provides fast highway connectivity to growing population centers across the Eastern Seaboard. Enterprise supply chain networks are balancing large mega-hubs with specialized regional nodes.",
+                "Logistics executives planning regional fulfillment strategies should monitor warehouse construction timelines across mid-Atlantic logistics parks. Transportation carriers serving the Carolinas freight corridor can anticipate increased contract opportunities for outbound retail store replenishment. Retailers are continuing to invest in automated infrastructure to protect operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: VETERAN RECRUITMENT PUSH",
+            "nextUpTease": "INLAND FREIGHT: RHINE WATER LEVELS DROP",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/summer-monthly-imports-to-hit-highest-level-since-2022-nrf-2026",
-                "Published: 2026-08-07T10:00:00Z",
+                "Source: https://www.retaildive.com/news/american-eagle-outfitters-to-open-41m-north-carolina-distribution-center-2026",
+                "Published: 2026-08-08T15:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "COMPLIANCE: VETERAN RECRUITMENT PUSH",
+            "heading": "INLAND FREIGHT: RHINE WATER LEVELS DROP",
             "points": [
-                "The federal administration launched the Freedom Haulers interagency campaign designed to fast-track military veterans into commercial driver's licenses. The DOT program pairs expedited driver licensing pathways with strict enforcement actions targeting non-domiciled motor carriers. The initiative aims to inject qualified domestic talent into the struggling commercial trucking workforce.",
-                "The recruitment push helps commercial motor carriers mitigate chronic driver shortages while strengthening overall highway safety compliance standards. Fleet operators participating in the program gain access to disciplined, safety-trained professional drivers ready for long-haul operations. Regulatory agencies are actively monitoring carrier compliance across state inspection checkpoints.",
-                "Transportation labor experts view military transition programs as a critical long-term solution for maintaining domestic freight capacity and supply chain resilience. Motor carrier executives are expanding internal driver training partnerships with military bases to secure steady talent pipelines. Industry stakeholders welcome federal support for domestic workforce development.",
-                "Fleet safety directors are encouraged to integrate Freedom Haulers graduates into existing driver retention and compensation frameworks. Logistics providers anticipate improved over-the-road service reliability as new compliant drivers enter commercial service. Motor carriers should review federal qualification guidelines to maximize hiring participation."
+                "Record-low water levels along the Rhine River forced European barge operators to restrict cargo intake to prevent vessel grounding along critical shallow bottlenecks. Ocean carriers and inland forwarders are shifting containerized freight to rail and road transport alternatives across German industrial corridors. Transit times for raw materials moving to inland manufacturing hubs face compounding delays.",
+                "Industrial shippers face surging inland freight surcharges as barge operators reduce load capacities by up to 50% per transit voyage. Limited rail and truck capacity across Northern Europe is pushing spot freight rates higher while extending port terminal dwell times. Manufacturing plants along the Rhine are adjusting production schedules to prevent inventory stockouts.",
+                "European logistics specialists highlight that climate-driven river navigation constraints are forcing structural shifts toward multimodal freight architecture. Industrial enterprises are securing long-term rail capacity to safeguard raw material flows during recurring seasonal dry periods. Regional transport authorities are exploring long-term riverbed dredging infrastructure projects.",
+                "Supply chain managers sourcing materials through European inland waterways should prepare for elevated freight surcharges and extended lead times. Freight forwarders recommend booking intermodal rail allocations early to bypass constrained inland barge corridors. Enterprises are updating contingency routing models for European manufacturing networks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.inboundlogistics.com/trump-administration-freedom-haulers-veterans-cdls-2026",
-                "Published: 2026-08-08T11:00:00Z",
+                "Source: https://theloadstar.com/news-europes-inland-transport-higher-rates-longer-journeys-2026",
+                "Published: 2026-08-07T13:45:00Z",
                 "Status: Audited & True"
             ]
         }

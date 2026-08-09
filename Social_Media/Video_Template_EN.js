@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL LOGISTICS INTELLIGENCE BRIEFING",
+        "hookTitle": "TRUMP ENACTS 15% POLYSILICON TARIFF",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "EXPANSION: US BOX TERMINAL",
+                "headline": "POLYSILICON: TRUMP ENACTS 15% TARIFF",
+                "teaserTitle": "CYBERSECURITY: $4.49M CARGO THEFT INDICTMENT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR enacted strict Section 301 tariffs across 60 trading partners. Importers face mandatory compliance audits and severe border clearance delays."
+                "narration_line": "The US government implemented a 15% tariff on all imported polysilicon used in solar power and semiconductor manufacturing. The new tariff framework establishes an import price floor effective Dec 4 to protect domestic production capacity."
             },
             {
                 "slide_index": 2,
-                "headline": "EXPANSION: US BOX TERMINAL",
-                "teaserTitle": "INSURANCE: HORMUZ WAR RISK",
+                "headline": "CYBERSECURITY: $4.49M CARGO THEFT INDICTMENT",
+                "teaserTitle": "E-COMMERCE: AMAZON RESTRICTS TITLE LENGTH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An Asian carrier committed $135M to expand a US container terminal. The project boosts intermodal handling capacity and reduces coastal port dwell times."
+                "narration_line": "A US federal grand jury indicted 8 individuals in a $4.49M retail cargo theft ring using hacked company data. Prosecutors confirmed the criminal network compromised legitimate logistics platforms to divert freight across domestic trade corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "INSURANCE: HORMUZ WAR RISK",
-                "teaserTitle": "TYPHOON: CHINA PORT SUSPENSION",
+                "headline": "E-COMMERCE: AMAZON RESTRICTS TITLE LENGTH",
+                "teaserTitle": "INTERMODAL: VIRGINIA LAUNCHES CSX DIRECT RAIL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Precious Shipping collected an $11M war risk insurance payout for a damaged bulker. Underwriters are aggressively raising rates across Middle Eastern shipping lanes."
+                "narration_line": "Amazon officially enforced a strict 75-character limit on product listing titles across third-party sellers and its proprietary brands. The automated title restriction aims to eliminate search clutter and standardize product catalog display metrics."
             },
             {
                 "slide_index": 4,
-                "headline": "TYPHOON: CHINA PORT SUSPENSION",
-                "teaserTitle": "REAL ESTATE: VACANCY STABILIZATION",
+                "headline": "INTERMODAL: VIRGINIA LAUNCHES CSX DIRECT RAIL",
+                "teaserTitle": "MARITIME RISK: SOMPO LAUNCHES GPS COVERAGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A super typhoon forced Chinese authorities to suspend major port operations. The closures halt outbound container dispatches and threaten regional export schedules."
+                "narration_line": "The Port of Virginia launched a new CSX direct rail service connecting its coastal container terminals to Indianapolis. The intermodal bypass eliminates Chicago rail routing to accelerate Midwest container velocity by up to 24 hours."
             },
             {
                 "slide_index": 5,
-                "headline": "REAL ESTATE: VACANCY STABILIZATION",
-                "teaserTitle": "PORTS: NRF PEAK SHIPPING FORECAST",
+                "headline": "MARITIME RISK: SOMPO LAUNCHES GPS COVERAGE",
+                "teaserTitle": "FULFILLMENT: AEO BUILDS $41M NC FACILITY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Colliers reported national industrial vacancy fell 7 basis points to 7.3%. Tenant absorption has finally outpaced new warehouse construction across primary markets."
+                "narration_line": "Japanese insurer Sompo launched specialized maritime insurance covering commercial economic losses caused by GPS jamming and spoofing attacks. The policy addresses rising geopolitical navigation threats for cargo vessels operating across high-risk international shipping lanes."
             },
             {
                 "slide_index": 6,
-                "headline": "PORTS: NRF PEAK SHIPPING FORECAST",
-                "teaserTitle": "COMPLIANCE: VETERAN RECRUITMENT PUSH",
+                "headline": "FULFILLMENT: AEO BUILDS $41M NC FACILITY",
+                "teaserTitle": "INLAND FREIGHT: RHINE WATER LEVELS DROP",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The NRF projects summer maritime imports will reach their highest level since 2022. Retailers are aggressively frontloading inventory ahead of an early September cooldown."
+                "narration_line": "American Eagle Outfitters authorized a $41M investment to construct an automated regional distribution center in North Carolina. The facility will generate over 200 operational jobs and expand Southeastern fulfillment capacity starting in early 2027."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: VETERAN RECRUITMENT PUSH",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "INLAND FREIGHT: RHINE WATER LEVELS DROP",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The DOT launched Freedom Haulers to fast-track military veterans into CDLs. The initiative pairs driver recruitment with strict enforcement against non-compliant carriers."
+                "narration_line": "Record-low water levels along the Rhine River restricted barge draft capacities across primary European industrial transport corridors. Terminal operators face higher inland freight rates and extended transit times for raw material shipments."
             },
             {
                 "slide_index": 8,
