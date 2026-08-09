@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FREIGHT MARKET TIGHTENS AS CAPACITY SHRINKS",
+        "hookTitle": "USTR ENFORCES TARIFFS ON 60 TRADING PARTNERS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FORWARD AIR: MARKET TIGHTENING",
-                "teaserTitle": "PORTS: NRF PEAK SHIPPING SEASON",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME: HORMUZ TOLL DIPLOMACY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Forward Air reports improving market fundamentals as freight capacity tightens across domestic corridors. Regulatory enforcement and carrier exits drive the capacity contraction."
+                "narration_line": "The USTR advanced Section 301 tariffs across 60 nations to target forced labor supply chains. Importers face immediate administrative burdens and strict compliance documentation at all US ports."
             },
             {
                 "slide_index": 2,
-                "headline": "PORTS: NRF PEAK SHIPPING SEASON",
-                "teaserTitle": "MARITIME: HORMUZ DIPLOMACY & TOLLS",
+                "headline": "MARITIME: HORMUZ TOLL DIPLOMACY",
+                "teaserTitle": "CONTAINERS: SEALEAD LIQUIDATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Summer monthly container imports hit their highest level since 2022. Retailers frontload holiday inventory before volumes subside in September."
+                "narration_line": "Global shipping groups petitioned the UN and IMO to guarantee zero transit tolls in Hormuz. Underwriters adjusted war-risk premiums upward to reflect ongoing security volatility."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: HORMUZ DIPLOMACY & TOLLS",
-                "teaserTitle": "REGULATION: VETERANS FREEDOM HAULERS",
+                "headline": "CONTAINERS: SEALEAD LIQUIDATION",
+                "teaserTitle": "ARCTIC: NORTHERN SEA ROUTE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Global shipping groups urge the UN and IMO to ensure zero transit tolls in Hormuz. Commercial shipowners face financial risk from proposed waterway fees."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation following sweeping US sanctions. Rival carriers quickly acquired the available vessels and active container equipment."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: VETERANS FREEDOM HAULERS",
+                "headline": "ARCTIC: NORTHERN SEA ROUTE",
                 "teaserTitle": "TECHNOLOGY: POLYSILICON TARIFFS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Trump administration launched Freedom Haulers to steer military veterans into CDLs. Federal inspectors sideline non-domiciled drivers during highway sweeps."
+                "narration_line": "South Korea named its first Arctic containership for a northern route demonstration voyage. Rosatom confirmed transit permits for 2026 to support regular commercial cargo services."
             },
             {
                 "slide_index": 5,
                 "headline": "TECHNOLOGY: POLYSILICON TARIFFS",
-                "teaserTitle": "SECURITY: GPS JAMMING INSURANCE",
+                "teaserTitle": "INFRASTRUCTURE: RAIL EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A 15% tariff on polysilicon imports takes effect on December 4. Semiconductor and solar manufacturers face higher procurement costs."
+                "narration_line": "A 15% tariff and price floor on polysilicon imports will take effect on December 4. Semiconductor manufacturers face substantial cost adjustments for critical raw materials."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: GPS JAMMING INSURANCE",
+                "headline": "INFRASTRUCTURE: RAIL EXPANSION",
                 "teaserTitle": "RETAIL: ETSY WORKFORCE REDUCTION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Sompo Japan launched insurance coverage targeting economic losses from GPS jamming. Marine operators mitigate electronic interference risks."
+                "narration_line": "The Port of Virginia added direct CSX rail service into the Indianapolis market. Containers now move directly inland, bypassing traditional Chicago congestion bottlenecks."
             },
             {
                 "slide_index": 7,
                 "headline": "RETAIL: ETSY WORKFORCE REDUCTION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Etsy eliminated 200 jobs following a $1.4B cash infusion from Depop's sale. Digital platforms streamline corporate overhead to protect margins."
+                "narration_line": "Etsy slashed its workforce by 12% following a $1.4B cash infusion from Depop. Marketplace operators are streamlining overhead to preserve operating margins."
             },
             {
                 "slide_index": 8,
