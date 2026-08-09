@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "POLYSILICON IMPORT TARIFFS",
+        "hookTitle": "USTR FORCED LABOR TARIFFS IMPLEMENTED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: POLYSILICON IMPORT TARIFFS",
-                "teaserTitle": "OCEAN: SEALEAD LINE LIQUIDATION",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "OCEAN: MSC SILVANA SUBMERGED",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The US levied a 15% import tariff on global polysilicon starting Dec 4, 2026. Hardware importers must restructure sourcing channels to absorb elevated raw material costs across North American networks."
+                "narration_line": "USTR moved forward with Section 301 tariffs targeting 60 trading partners as Section 122 duties expired. The regulatory action impacts global trade networks as importers recalibrate cross-border sourcing frameworks."
             },
             {
                 "slide_index": 2,
-                "headline": "OCEAN: SEALEAD LINE LIQUIDATION",
-                "teaserTitle": "MARITIME: HORMUZ STRAIT TOLLS",
+                "headline": "OCEAN: MSC SILVANA SUBMERGED",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation following US secondary sanctions against its fleet operations. Freight forwarders are re-routing ocean cargo to alternative container carriers to prevent severe port delays."
+                "narration_line": "An 8,401 TEU container ship MSC Silvana VIII sank deeper off Zhoushan following unsuccessful refloating attempts. Salvage crews continue emergency operations while local maritime authorities maintain navigation warnings across the port."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: HORMUZ STRAIT TOLLS",
-                "teaserTitle": "INSURANCE: GPS JAMMING COVERAGE",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "teaserTitle": "INFRASTRUCTURE: OAXACA INVESTMENT PROGRAM",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Iran proposed transit tolls on commercial vessels navigating through the Strait of Hormuz. Global shipping groups warned the move will elevate transit costs and disrupt energy trade lanes."
+                "narration_line": "US industrial real estate vacancy rates stabilized at 7.3% in Q2 2026 as tenant demand outpaced new construction. Logistics operators face tightening warehouse capacity across key distribution hubs through year-end."
             },
             {
                 "slide_index": 4,
-                "headline": "INSURANCE: GPS JAMMING COVERAGE",
-                "teaserTitle": "EQUIPMENT: DAIMLER TRUCK PLANT",
+                "headline": "INFRASTRUCTURE: OAXACA INVESTMENT PROGRAM",
+                "teaserTitle": "FLEET: PACCAR ELECTRICAL RECALL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Sompo Japan launched insurance coverage targeting economic losses caused by maritime GPS jamming. Vessel operators face severe operational delays as electronic warfare disrupts navigation in active chokepoints."
+                "narration_line": "Mexican authorities committed $2.2B toward major infrastructure development projects across the state of Oaxaca. The investment aims to streamline southern trade corridors and strengthen regional manufacturing logistics networks."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: DAIMLER TRUCK PLANT",
-                "teaserTitle": "ECOMMERCE: AMAZON TITLE LIMITS",
+                "headline": "FLEET: PACCAR ELECTRICAL RECALL",
+                "teaserTitle": "TERMINALS: PORT OF VIRGINIA CSX RAIL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Daimler Truck announced plans to build its largest US commercial manufacturing plant by 2029. The facility expands domestic truck capacity to meet strict EPA 2027 emissions standards."
+                "narration_line": "PACCAR issued a safety recall for 5,919 commercial trucks due to electrical system defects. Motor carriers must schedule immediate fleet repairs to maintain operational compliance and mitigate road safety risks."
             },
             {
                 "slide_index": 6,
-                "headline": "ECOMMERCE: AMAZON TITLE LIMITS",
-                "teaserTitle": "BORDER: MEXICO CROSSING EXPANSION",
+                "headline": "TERMINALS: PORT OF VIRGINIA CSX RAIL",
+                "teaserTitle": "AIR CARGO: LEIPZIG DRONE INCIDENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon enforced a 75 character limit on product titles across all marketplace listings. Sellers must immediately reformat product titles to avoid suppressed search visibility and automated listing suspensions."
+                "narration_line": "The Port of Virginia launched direct CSX intermodal rail service connecting ocean terminals directly to Indianapolis. The new rail link bypasses Chicago routing bottlenecks to accelerate Midwest container throughput."
             },
             {
                 "slide_index": 7,
-                "headline": "BORDER: MEXICO CROSSING EXPANSION",
+                "headline": "AIR CARGO: LEIPZIG DRONE INCIDENT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mexico launched a multi-million dollar expansion targeting its busiest commercial cross-border truck crossing. Motor carriers expect reduced border dwell times and streamlined customs processing efficiency."
+                "narration_line": "German counterterrorism authorities launched an investigation after a drone carrying explosives was discovered at Leipzig Airport. Aviation security protocols were heightened across major European air cargo facilities following the incident."
             },
             {
                 "slide_index": 8,

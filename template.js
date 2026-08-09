@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "POLYSILICON IMPORT",
+        "titleWhite": "FORCED LABOR",
         "titleBlue": "TARIFFS",
-        "footerSummary": "15% polysilicon tariffs, SeaLead liquidation, Hormuz transit tolls, and GPS jamming insurance force immediate global supply chain adjustments."
+        "footerSummary": "USTR Section 301 tariffs on 60 nations, vessel groundings, and infrastructure investments force immediate global supply chain re-alignments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: POLYSILICON IMPORT TARIFFS",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "President Donald Trump issued an executive proclamation levying a 15% tariff on global polysilicon imports earmarked for semiconductor chips and solar power manufacturing.",
-                "The regulatory action mandates an import price floor slated to take full effect on December 4, 2026 across domestic entry ports.",
-                "Importers and clean energy hardware suppliers must restructure global procurement channels to absorb elevated raw material costs across North American assembly networks.",
-                "Legal analysts anticipate secondary trade adjustments as tech manufacturers accelerate domestic supply chain reshoring and alternative sourcing pipelines."
+                "The Office of the United States Trade Representative officially initiated action to institute forced labor-based tariffs on 60 trading partners as temporary Section 122 tariffs expire.",
+                "The regulatory framework leverages Section 301 authority to target non-compliant international supply chains and restrict market entry for high-risk goods.",
+                "Global importers and logistics planners face elevated trade compliance burdens requiring deep transactional audits across Tier-1 and Tier-2 supplier networks.",
+                "Trade policy analysts expect immediate shifts in cross-border procurement as companies divert sourcing away from targeted manufacturing regions."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN: SEALEAD LINE LIQUIDATION",
+            "nextUpTease": "OCEAN: MSC SILVANA SUBMERGED",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-15-percent-tariff-polysilicon-imports-chips-solar/723499/",
-                "Published: 2026-08-07T18:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
+                "Published: 2026-08-08T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OCEAN: SEALEAD LINE LIQUIDATION",
+            "heading": "OCEAN: MSC SILVANA SUBMERGED",
             "points": [
-                "Singapore-headquartered container carrier SeaLead Shipping officially initiated voluntary liquidation proceedings following severe US secondary sanctions imposed on its corporate entities.",
-                "Competing ocean liners and regional ocean operators rapidly acquired SeaLead\u2019s active vessel charters and empty container inventory across key trade hubs.",
-                "The unexpected collapse effectively terminates primary container shipping services bridging East Asian export gateways with Middle Eastern, Mediterranean, and Baltic ports.",
-                "Freight forwarders are actively re-routing impacted ocean cargo to alternative ocean carriers to prevent severe port detention penalties and supply chain delays."
+                "The 8,401 TEU container ship MSC Silvana VIII sank deeper into waters off Zhoushan following unsuccessful commercial refloating operations.",
+                "Maritime salvage teams continue emergency containment efforts as much of the 20-year-old vessel hull remains under water.",
+                "Port congestion and localized navigation detours remain in effect near critical East Asian maritime transit lanes.",
+                "Ocean freight carriers are adjusting regional feeder schedules to prevent secondary shipping delays near major Chinese export terminals."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ STRAIT TOLLS",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "tags": [
-                "Source: https://splash247.com/us-sanctions-push-sealead-shipping-into-liquidation/",
-                "Published: 2026-08-07T14:00:00Z",
+                "Source: https://splash247.com/msc-boxship-sinks-deeper-off-zhoushan-after-failed-refloating/",
+                "Published: 2026-08-08T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: HORMUZ STRAIT TOLLS",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "points": [
-                "Global shipping associations called on the United Nations and International Maritime Organization to intervene against proposed Strait of Hormuz transit fees.",
-                "Iranian lawmakers drafted legislation to impose financial tolls and ban US and Israeli-linked commercial vessels from navigating through the critical maritime transit corridor.",
-                "Tanker operators and container lines warn that unilateral waterway transit fees will escalate global energy transport costs and disrupt international trade routes.",
-                "International maritime regulatory bodies are evaluating emergency protocols to safeguard open navigation access across high-risk Middle Eastern shipping lanes."
+                "United States industrial real estate vacancy rates dropped seven basis points sequentially to 7.3% as tenant leasing activity outpaced new facility construction.",
+                "Market data indicates industrial warehouse inventory is stabilizing after extended periods of overcapacity and softening commercial rent growth.",
+                "Logistics operators and 3PL providers face tightening availability for modern distribution hubs across major North American inland markets.",
+                "Real estate analysts project sustained demand for logistics facilities as nearshoring initiatives drive increased industrial space absorption."
             ],
             "imageUrl": "",
-            "nextUpTease": "INSURANCE: GPS JAMMING COVERAGE",
+            "nextUpTease": "INFRASTRUCTURE: OAXACA INVESTMENT PROGRAM",
             "tags": [
-                "Source: https://www.joc.com/article/global-shipping-calls-on-un-imo-to-ensure-no-hormuz-tolls_20260807.html",
-                "Published: 2026-08-07T12:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance",
+                "Published: 2026-08-08T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INSURANCE: GPS JAMMING COVERAGE",
+            "heading": "INFRASTRUCTURE: OAXACA INVESTMENT PROGRAM",
             "points": [
-                "Japanese marine insurer Sompo Japan launched the commercial maritime industry\u2019s first insurance policy specifically covering economic losses caused by GPS jamming.",
-                "The specialized financial product mitigates commercial risks associated with growing electronic navigation disruption and vessel positioning interference in conflict zones.",
-                "Vessel operators face severe operational delays and costly detour expenses as electronic warfare increasingly targets commercial shipping navigation systems across active maritime chokepoints.",
-                "Maritime risk managers expect widespread adoption of targeted cyber and navigation insurance products across global commercial fleets operating in high-risk waters."
+                "Mexican federal authorities committed $2.2B toward major logistics and transportation infrastructure development projects across the state of Oaxaca.",
+                "The strategic capital allocation expands highway networks, rail connectivity, and interoceanic trade corridor capacity linking Pacific and Atlantic markets.",
+                "Cross-border freight carriers and manufacturers stand to benefit from streamlined cargo transit times across southern Mexico shipping routes.",
+                "Infrastructure planners anticipate the investment will accelerate industrial development and attract expanded nearshoring manufacturing operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: DAIMLER TRUCK PLANT",
+            "nextUpTease": "FLEET: PACCAR ELECTRICAL RECALL",
             "tags": [
-                "Source: https://splash247.com/sompo-moves-to-close-gps-jamming-insurance-gap/",
-                "Published: 2026-08-07T11:00:00Z",
+                "Source: https://www.supplychainbrain.com/articles/mexico-to-invest-22b-in-oaxaca-infrastructure",
+                "Published: 2026-08-08T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EQUIPMENT: DAIMLER TRUCK PLANT",
+            "heading": "FLEET: PACCAR ELECTRICAL RECALL",
             "points": [
-                "Daimler Truck North America announced plans to construct its largest US commercial vehicle manufacturing facility, targeted for operational startup in 2029.",
-                "The manufacturing expansion focuses on producing next-generation commercial trucks designed to satisfy upcoming Environmental Protection Agency 2027 emissions mandates.",
-                "Fleet operators and freight carriers gain access to expanded domestic truck manufacturing capacity as heavy-duty vehicle regulations reshape fleet replacement schedules.",
-                "The capital investment underscores long-term industrial demand for advanced, low-emission commercial transportation equipment across North American freight networks."
+                "Commercial vehicle manufacturer PACCAR issued a voluntary safety recall affecting 5,919 heavy-duty trucks due to electrical system wiring defects.",
+                "The technical malfunction poses potential short-circuit hazards and operational power losses during highway commercial fleet operations.",
+                "Fleet maintenance managers must coordinate dealer service inspections to replace affected electrical components without disrupting freight schedules.",
+                "Industry safety regulators continue strict monitoring of heavy-duty truck equipment compliance across North American motor carrier fleets."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE: AMAZON TITLE LIMITS",
+            "nextUpTease": "TERMINALS: PORT OF VIRGINIA CSX RAIL",
             "tags": [
-                "Source: https://www.ttnews.com/articles/dtna-new-us-truck-plant-2029",
-                "Published: 2026-08-07T17:00:00Z",
+                "Source: https://www.freightwaves.com/news/paccar-recalls-5919-trucks-over-electrical-defect",
+                "Published: 2026-08-08T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ECOMMERCE: AMAZON TITLE LIMITS",
+            "heading": "TERMINALS: PORT OF VIRGINIA CSX RAIL",
             "points": [
-                "Amazon implemented a strict global catalog policy restricting product titles to a maximum length of 75 characters across merchant and first-party listings.",
-                "The catalog modification aims to standardize product display formatting across mobile interfaces and optimize search indexing efficiency for online buyers.",
-                "E-commerce sellers and brand manufacturers must immediately audit and reformat product titles to avoid suppressed search visibility and automated listing suspensions.",
-                "Digital retail strategists anticipate improved consumer conversion metrics while forcing brands to optimize high-density keyword phrasing within tight character limits."
+                "The Port of Virginia inaugurated direct CSX intermodal rail service connecting marine container terminals directly to the Indianapolis import market.",
+                "The direct rail connection bypasses traditional Chicago rail interchange bottlenecks to shave transit days off Midwest container movements.",
+                "Midwest importers and retail supply chain managers gain streamlined inland access for ocean container shipments entering East Coast gateways.",
+                "Transportation planners expect the rail expansion to increase intermodal container volumes moving through East Coast port infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "BORDER: MEXICO CROSSING EXPANSION",
+            "nextUpTease": "AIR CARGO: LEIPZIG DRONE INCIDENT",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-also-applies-to-its-own-listings/",
-                "Published: 2026-08-07T19:00:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-adds-csx-rail-service-to-indianapolis/",
+                "Published: 2026-08-08T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "BORDER: MEXICO CROSSING EXPANSION",
+            "heading": "AIR CARGO: LEIPZIG DRONE INCIDENT",
             "points": [
-                "Mexican infrastructure authorities announced a major expansion initiative targeting the country's busiest commercial cross-border truck crossing point.",
-                "The multi-million-dollar infrastructure upgrade expands processing lanes and customs inspection capacity to alleviate severe cross-border drayage bottlenecks.",
-                "Cross-border motor carriers and nearshoring manufacturers stand to gain reduced border dwell times and streamlined customs processing efficiency.",
-                "Logistics coordinators expect the capacity expansion to support rising industrial trade volumes between Mexican manufacturing hubs and North American commercial markets."
+                "German federal authorities launched a counterterrorism investigation after discovering an explosive-laden drone at Leipzig/Halle Airport.",
+                "The security incident triggered immediate air cargo facility sweeps and heightened perimeter protection across major European air logistics hubs.",
+                "Air freight forwarders and cargo airlines face potential security screening delays as aviation authorities review airport threat mitigation protocols.",
+                "Aviation security experts anticipate stricter regulatory oversight and anti-drone defense deployments around critical global air cargo gateways."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com/news/borderlands-mexico-plans-major-expansion-of-busiest-cross-border-truck-crossing",
-                "Published: 2026-08-08T02:00:00Z",
+                "Source: https://theloadstar.com/drone-carrying-explosives-found-at-leipzig-airport/",
+                "Published: 2026-08-08T07:30:00Z",
                 "Status: Audited & True"
             ]
         }
