@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "SECTION 301 TARIFF EXPANSION",
+        "hookTitle": "POLYSILICON IMPORT TARIFFS IMPACT GLOBAL LOGISTICS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: SECTION 301 TARIFF EXPANSION",
-                "teaserTitle": "INFRASTRUCTURE: TERMINAL CAPACITY EXPANSION",
+                "headline": "TRADE: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR enforced Section 301 tariffs on 60 trading nations following the expiration of Section 122 duties. The regulation creates immediate compliance audits and tariff reclassifications for global importers."
+                "narration_line": "The US government imposed a 15% tariff and price floor on imported polysilicon effective Dec. 4, 2026. Microchip and solar manufacturers face higher raw material procurement costs across import vectors."
             },
             {
                 "slide_index": 2,
-                "headline": "INFRASTRUCTURE: TERMINAL CAPACITY EXPANSION",
-                "teaserTitle": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
+                "headline": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
+                "teaserTitle": "INSURANCE: GPS JAMMING COVERAGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An Asian ocean line launched a $135M expansion of its US box terminal footprint. The investment increases berth throughput and automates intermodal yard operations for transpacific freight."
+                "narration_line": "Singapore-based SeaLead Shipping entered liquidation following targeted US trade sanctions. Competitors are rapidly acquiring its container fleet while shippers re-route cargo across Asia and Mediterranean lanes."
             },
             {
                 "slide_index": 3,
-                "headline": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
-                "teaserTitle": "REGULATION: HORMUZ TRANSIT TOLL PROPOSAL",
+                "headline": "INSURANCE: GPS JAMMING COVERAGE",
+                "teaserTitle": "SECURITY: LEIPZIG AIRPORT DRONE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "US retailers are selling rights to potential tariff refund claims on secondary markets to generate immediate liquidity. Financial institutions are purchasing these legal claims to provide capital to shippers."
+                "narration_line": "Sompo Japan introduced maritime shipping's first specialized insurance policy targeting GPS jamming and electronic spoofing losses. Commercial vessel operators gain financial protection against mounting geopolitical navigation risks."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: HORMUZ TRANSIT TOLL PROPOSAL",
-                "teaserTitle": "SECURITY: CYBER CARGO THEFT INDICTMENT",
+                "headline": "SECURITY: LEIPZIG AIRPORT DRONE",
+                "teaserTitle": "ECOMMERCE: ETSY WORKFORCE REDUCTION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global shipping groups urged the UN and IMO to oppose proposed Strait of Hormuz transit fees. Bilateral talks between Iran and Oman threaten new surcharges on commercial maritime traffic."
+                "narration_line": "German authorities launched a counterterrorism investigation after finding an explosive drone at Leipzig Halle Airport. Air freight integrators face heightened facility security protocols and potential cargo screening delays."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: CYBER CARGO THEFT INDICTMENT",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "headline": "ECOMMERCE: ETSY WORKFORCE REDUCTION",
+                "teaserTitle": "RETAIL: AMAZON TITLE LIMITS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Federal prosecutors indicted 8 individuals in a $4.49M cargo theft ring utilizing hacked logistics data. Fraudulent operators used stolen credentials to divert high-value retail freight across interstate corridors."
+                "narration_line": "Etsy eliminated 220 jobs in a 12% workforce reduction following its $1.4B Depop divestment to eBay. The company is reallocating capital to optimize core marketplace operations and seller infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
-                "teaserTitle": "INTERMODAL: VIRGINIA INDIANAPOLIS RAIL LINK",
+                "headline": "RETAIL: AMAZON TITLE LIMITS",
+                "teaserTitle": "MANUFACTURING: DTNA TRUCK PLANT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "US industrial real estate vacancy dropped 7 bps to 7.3% in Q2 2026 as net demand outpaced supply. Leasing markets are stabilizing near primary intermodal logistics hubs nationwide."
+                "narration_line": "Amazon restricted product listing titles to 75 characters maximum for all third-party and native vendor catalogs. Online retailers must reformat listings immediately to preserve algorithmic search rankings and warehouse sync."
             },
             {
                 "slide_index": 7,
-                "headline": "INTERMODAL: VIRGINIA INDIANAPOLIS RAIL LINK",
+                "headline": "MANUFACTURING: DTNA TRUCK PLANT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Port of Virginia launched a direct CSX rail service connecting container terminals to Indianapolis. The intermodal link bypasses Chicago rail yards to cut Midwest transit times by 48 hours."
+                "narration_line": "Daimler Truck North America announced plans to construct its largest US assembly plant by 2029. Fleet operators gain long-term equipment supply stability as domestic heavy-duty truck manufacturing expands."
             },
             {
                 "slide_index": 8,

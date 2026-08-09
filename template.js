@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SECTION 301 TARIFF",
-        "titleBlue": "EXPANSION",
-        "footerSummary": "USTR enforces Section 301 tariffs on 60 trading nations, triggering immediate duty exposure and compliance friction across cross-border supply chains."
+        "titleWhite": "POLYSILICON IMPORT",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "US polysilicon tariffs, SeaLead's liquidation, and European air cargo security threats force immediate supply chain risk re-evaluations across global trade networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: SECTION 301 TARIFF EXPANSION",
+            "heading": "TRADE: POLYSILICON IMPORT TARIFFS",
             "points": [
-                "The Office of the United States Trade Representative enforced Section 301 tariffs against 60 trading nations following the expiration of Section 122 measures.",
-                "The regulatory framework targets forced labor violations and shifts cost structures across international supply chain import vectors.",
-                "Importers face immediate compliance audits and tariff reclassifications across multi-country sourcing networks.",
-                "Logistics operators are adjusting customs brokerage workflows to prevent severe port clearance delays."
+                "The US government issued a proclamation establishing a 15% tariff on all imported solar-grade and semiconductor polysilicon.",
+                "Effective Dec. 4, 2026, the regulatory framework introduces an import price floor designed to protect domestic processing investments.",
+                "Solar module manufacturers and microchip fabricators face immediate procurement shifts across global raw material vectors.",
+                "Logistics planners must recalibrate customs classification workflows to account for new duty structures at port entry."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: TERMINAL CAPACITY EXPANSION",
+            "nextUpTease": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs_2026",
-                "Published: 2026-08-08T00:00:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-imposes-15-percent-tariff-polysilicon-imports/723456/",
+                "Published: 2026-08-07T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INFRASTRUCTURE: TERMINAL CAPACITY EXPANSION",
+            "heading": "MARITIME: SEALEAD SHIPPING LIQUIDATION",
             "points": [
-                "An Asian ocean shipping line committed $135M toward a major capacity expansion of its US container terminal footprint.",
-                "The capital investment upgrades berth throughput and intermodal yard automation to handle larger transpacific vessel calls.",
-                "Port congestion risks are mitigated as long-term carrier terminal investments secure dedicated quay velocity.",
-                "Supply chain planners gain enhanced cargo predictability for transpacific import container streams."
+                "Singapore-based ocean carrier SeaLead Shipping initiated voluntary liquidation proceedings following recent targeted US trade sanctions.",
+                "Rival container lines swiftly moved to acquire vessel charters and container assets previously operated across transpacific lanes.",
+                "The abrupt wind-down removes specialized capacity connecting Asia with Middle Eastern, Mediterranean, and Baltic trade corridors.",
+                "Beneficial cargo owners are scrambling to re-book stranded containerized freight to mitigate regional supply chain disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
+            "nextUpTease": "INSURANCE: GPS JAMMING COVERAGE",
             "tags": [
-                "Source: https://www.freightwaves.com/news/asia-ocean-line-in-135m-expansion-of-us-box-terminal",
-                "Published: 2026-08-08T01:15:00Z",
+                "Source: https://splash247.com/us-sanctions-push-sealead-shipping-into-liquidation/",
+                "Published: 2026-08-07T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FINANCE: SECONDARY TARIFF REFUND MARKETS",
+            "heading": "INSURANCE: GPS JAMMING COVERAGE",
             "points": [
-                "Major retail brands are monetizing potential tariff refund claims by selling rights directly on emerging secondary financial markets.",
-                "The liquidity strategy allows importers to secure immediate working capital while long-term legal tariff appeals remain pending.",
-                "Financial institutions are pricing tariff risk claims to provide immediate liquidity to capital-constrained retail supply chains.",
-                "Corporate finance teams are turning trade compliance claims into immediate balance sheet assets."
+                "Japanese underwriter Sompo Japan launched the shipping industry's first specialized insurance policy covering electronic navigation disruption.",
+                "The coverage specifically addresses financial losses stemming from GPS jamming, spoofing, and electromagnetic interference on commercial routes.",
+                "Geopolitical friction in key maritime choke points has significantly elevated operational risks for commercial vessel fleets.",
+                "Maritime risk managers are incorporating digital signal insurance into standard vessel operating and freight protection policies."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: HORMUZ TRANSIT TOLL PROPOSAL",
+            "nextUpTease": "SECURITY: LEIPZIG AIRPORT DRONE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/retailers-sell-rights-potential-tariff-refunds/2026",
-                "Published: 2026-08-07T18:30:00Z",
+                "Source: https://splash247.com/sompo-moves-to-close-gps-jamming-insurance-gap/",
+                "Published: 2026-08-07T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REGULATION: HORMUZ TRANSIT TOLL PROPOSAL",
+            "heading": "SECURITY: LEIPZIG AIRPORT DRONE",
             "points": [
-                "International maritime associations petitioned the UN and IMO to halt proposed transit tolls in the Strait of Hormuz.",
-                "Negotiations between Iran and Oman regarding waterway traffic management threaten to impose additional operational surcharges.",
-                "Ocean freight carriers warn that unilateral transit fees will elevate global energy and container transport costs.",
-                "Logistics executives are evaluating alternative maritime corridors and contingency routing protocols."
+                "German federal authorities launched a counterterrorism investigation after detecting an explosive-laden drone at Leipzig Halle Airport.",
+                "The airport serves as a primary European air express hub for major international parcel integrators and freighter fleets.",
+                "Security protocols across major European air cargo facilities have been escalated to prevent potential supply chain sabotage.",
+                "Air freight forwarders anticipate heightened screening procedures and potential localized runway operational delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CYBER CARGO THEFT INDICTMENT",
+            "nextUpTease": "ECOMMERCE: ETSY WORKFORCE REDUCTION",
             "tags": [
-                "Source: https://www.joc.com/article/global-shipping-calls-un-imo-no-hormuz-tolls-2026",
-                "Published: 2026-08-07T16:20:00Z",
+                "Source: https://theloadstar.com/drone-carrying-explosives-found-at-leipzig-airport/",
+                "Published: 2026-08-06T16:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SECURITY: CYBER CARGO THEFT INDICTMENT",
+            "heading": "ECOMMERCE: ETSY WORKFORCE REDUCTION",
             "points": [
-                "A federal grand jury indicted 8 individuals for executing a $4.49M cargo theft ring leveraging compromised carrier software.",
-                "The criminal syndicate utilized stolen logistics portal credentials to re-route high-value retail shipments across interstate highways.",
-                "Freight brokers and 3PLs are facing heightened cybersecurity mandates to protect sensitive digital dispatch systems.",
-                "Supply chain security teams are accelerating multi-factor authentication across all digital freight matching platforms."
+                "Etsy announced a 12% workforce reduction affecting 220 corporate employees following its $1.4B sale of Depop to eBay.",
+                "Management confirmed the restructuring aims to streamline core marketplace operations and optimize capital deployment strategies.",
+                "The platform is reallocating resources toward core platform technology and seller tools to boost gross merchandise volume.",
+                "E-commerce analysts expect further operational consolidation among specialized marketplace platforms seeking profitability."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "nextUpTease": "RETAIL: AMAZON TITLE LIMITS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/grand-jury-indicts-8-cargo-theft-hacked-data",
-                "Published: 2026-08-07T15:00:00Z",
+                "Source: https://www.retaildive.com/news/etsy-slashes-workforce-laying-off-220-depop-sale/723400/",
+                "Published: 2026-08-06T19:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "heading": "RETAIL: AMAZON TITLE LIMITS",
             "points": [
-                "US industrial real estate vacancy fell 7 bps sequentially to 7.3% in Q2 2026 as leasing demand outpaced new warehouse supply.",
-                "Stabilizing vacancy rates mark an end to recent warehouse overcapacity across primary distribution markets.",
-                "Logistics providers are securing distribution center footprint ahead of projected rate increases in late 2026.",
-                "E-commerce and B2B fulfillment operations face tighter industrial space availability near major intermodal hubs."
+                "Amazon enforced a strict 75-character limit on product listing titles across its third-party and first-party vendor catalogs.",
+                "The algorithmic compliance standard aims to improve mobile display clarity and curb search optimization keyword stuffing.",
+                "E-commerce brands must rapidly audit and reformat thousands of product titles to maintain catalog search visibility.",
+                "Logistics and fulfillment operations rely on standardized title metadata to streamline automated warehouse picking systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: VIRGINIA INDIANAPOLIS RAIL LINK",
+            "nextUpTease": "MANUFACTURING: DTNA TRUCK PLANT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_vacancy_stabilizes_q2_2026",
-                "Published: 2026-08-08T02:00:00Z",
+                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-also-applies-to-its-own-listings/",
+                "Published: 2026-08-07T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INTERMODAL: VIRGINIA INDIANAPOLIS RAIL LINK",
+            "heading": "MANUFACTURING: DTNA TRUCK PLANT",
             "points": [
-                "The Port of Virginia and CSX launched a direct intermodal rail service connecting ocean terminals directly to Indianapolis.",
-                "The rail link allows Midwest import containers to bypass congested Chicago rail interchange yards entirely.",
-                "Transit times for inland container freight drop by up to 48 hours for regional distribution centers.",
-                "Shippers are re-balancing East Coast port allocations to capitalize on direct inland rail connectivity."
+                "Daimler Truck North America announced plans to build its largest US commercial vehicle manufacturing facility by 2029.",
+                "The massive manufacturing investment expands domestic heavy-duty truck production to meet long-term fleet replacement demand.",
+                "Expanding domestic assembly footprint strengthens supply chain resilience against international component freight disruptions.",
+                "Fleet managers gain clearer capital procurement roadmaps for next-generation freight tractor deployments."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-adds-csx-rail-service-indianapolis/2026",
-                "Published: 2026-08-07T11:30:00Z",
+                "Source: https://www.ttnews.com/articles/dtna-us-truck-manufacturing-plant-2029",
+                "Published: 2026-08-07T17:45:00Z",
                 "Status: Audited & True"
             ]
         }
