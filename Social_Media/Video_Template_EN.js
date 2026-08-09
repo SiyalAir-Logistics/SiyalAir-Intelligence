@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "SOLAR TARIFF IMPOSITION",
+        "hookTitle": "GLOBAL LOGISTICS INTELLIGENCE BRIEFING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "POLYSILICON: SOLAR TARIFF IMPOSITION",
-                "teaserTitle": "MARITIME: GPS JAMMING INSURANCE",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "EXPANSION: US BOX TERMINAL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The US administration enacted a 15% tariff on imported polysilicon for solar and semiconductor manufacturing. The import policy establishes a mandatory price floor effective Dec 4 to protect domestic production capacity."
+                "narration_line": "The USTR enacted strict Section 301 tariffs across 60 trading partners. Importers face mandatory compliance audits and severe border clearance delays."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: GPS JAMMING INSURANCE",
-                "teaserTitle": "TRUCKING: DATA CENTER CAPACITY DRAIN",
+                "headline": "EXPANSION: US BOX TERMINAL",
+                "teaserTitle": "INSURANCE: HORMUZ WAR RISK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Sompo Japan launched marine insurance covering financial losses from satellite GPS signal jamming and spoofing. Global ocean carriers face heightened navigation risks as electronic warfare incidents increase across critical maritime chokepoints."
+                "narration_line": "An Asian carrier committed $135M to expand a US container terminal. The project boosts intermodal handling capacity and reduces coastal port dwell times."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: DATA CENTER CAPACITY DRAIN",
-                "teaserTitle": "FLEET TECH: DAIMLER US FACTORY EXPANSION",
+                "headline": "INSURANCE: HORMUZ WAR RISK",
+                "teaserTitle": "TYPHOON: CHINA PORT SUSPENSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "US data center expansion requires 100K truckloads per gigawatt, severely constricting available domestic flatbed capacity. Industrial contractors are securing long-term freight commitments to prevent construction supply chain halts."
+                "narration_line": "Precious Shipping collected an $11M war risk insurance payout for a damaged bulker. Underwriters are aggressively raising rates across Middle Eastern shipping lanes."
             },
             {
                 "slide_index": 4,
-                "headline": "FLEET TECH: DAIMLER US FACTORY EXPANSION",
-                "teaserTitle": "INLAND FREIGHT: RHINE WATER RESTRICTIONS",
+                "headline": "TYPHOON: CHINA PORT SUSPENSION",
+                "teaserTitle": "REAL ESTATE: VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Daimler Truck North America confirmed plans to build its largest US commercial manufacturing plant by 2029. The facility expanding heavy-duty vehicle assembly will support rising demand for next-generation freight fleets."
+                "narration_line": "A super typhoon forced Chinese authorities to suspend major port operations. The closures halt outbound container dispatches and threaten regional export schedules."
             },
             {
                 "slide_index": 5,
-                "headline": "INLAND FREIGHT: RHINE WATER RESTRICTIONS",
-                "teaserTitle": "EMISSIONS: EPA 2027 ENGINE MANDATE",
+                "headline": "REAL ESTATE: VACANCY STABILIZATION",
+                "teaserTitle": "PORTS: NRF PEAK SHIPPING FORECAST",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Critically low water levels on the Rhine River restricted barge loads to 30% capacity across German industrial corridors. Logistics operators face rising inland surcharge fees as cargo shifts to constrained rail networks."
+                "narration_line": "Colliers reported national industrial vacancy fell 7 basis points to 7.3%. Tenant absorption has finally outpaced new warehouse construction across primary markets."
             },
             {
                 "slide_index": 6,
-                "headline": "EMISSIONS: EPA 2027 ENGINE MANDATE",
-                "teaserTitle": "NEARSHORING: MEXICO OAXACA INVESTMENT",
+                "headline": "PORTS: NRF PEAK SHIPPING FORECAST",
+                "teaserTitle": "COMPLIANCE: VETERAN RECRUITMENT PUSH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Daimler Truck committed to exclusively producing EPA 2027 compliant engines ahead of strict federal emissions mandates. Fleet operators face updated procurement schedules to integrate heavy-duty low-emission powertrains."
+                "narration_line": "The NRF projects summer maritime imports will reach their highest level since 2022. Retailers are aggressively frontloading inventory ahead of an early September cooldown."
             },
             {
                 "slide_index": 7,
-                "headline": "NEARSHORING: MEXICO OAXACA INVESTMENT",
+                "headline": "COMPLIANCE: VETERAN RECRUITMENT PUSH",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mexico announced a $2.2B infrastructure allocation to upgrade logistics and transport corridors in Oaxaca state. The funding accelerates nearshoring throughput capacity for cross-border freight moving into North American markets."
+                "narration_line": "The DOT launched Freedom Haulers to fast-track military veterans into CDLs. The initiative pairs driver recruitment with strict enforcement against non-compliant carriers."
             },
             {
                 "slide_index": 8,

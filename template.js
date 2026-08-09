@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SOLAR TARIFF",
-        "titleBlue": "IMPOSITION",
-        "footerSummary": "New 15% tariffs on imported polysilicon and Rhine transit chokepoints strain global chip supply lines and European barge freight reliability."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "Global supply chains face acute disruption as USTR enacts broad tariffs across 60 trading partners while container lines expand US terminals."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "POLYSILICON: SOLAR TARIFF IMPOSITION",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "The executive branch issued an official presidential proclamation establishing a 15% tariff on imported polysilicon goods key to solar panels and semiconductor manufacturing. The federal directive introduces a mandatory minimum import price floor slated to take effect on Dec 4, 2026. Custom officials are establishing specialized enforcement channels to track incoming raw silicon shipments.",
-                "The sudden duty imposition forces electronics and renewable energy manufacturers to re-evaluate upstream material sourcing budgets. Importers face immediate price adjustments and potential customs clearance holds if documentation fails to prove compliance with price floor thresholds. Supply chain leaders anticipate near-term cost inflation for domestic technology assembly projects.",
-                "Trade policy analysts emphasize that raw material tariffs are designed to force domestic supply chain reshoring and reduce reliance on overseas processing hubs. European and Asian suppliers must adjust export pricing models to align with US federal entry standards. Tech sector procurement officers are expediting contracts with non-impacted regional suppliers.",
-                "Logistics providers are advising high-tech clients to audit cross-border supply chains prior to the December effective date. Cargo forwarders anticipate shifting air and ocean freight routing patterns for critical semiconductor inputs. Companies are accelerating inventory pre-loading strategies to mitigate duty impacts."
+                "The Office of the United States Trade Representative officially moved forward with sweeping import tariffs targeting 60 trading nations under Section 301. The regulatory action establishes permanent trade penalties tied directly to forced labor compliance frameworks. Global manufacturing supply chains must immediately review export documentation to prevent port delays.",
+                "Importers across major trade lanes face immediate duty adjustments and heightened customs scrutiny upon entry into domestic ports. The enforcement mechanism requires verifiable supply chain traceability from raw material sourcing down to final assembly. Supply chain directors are scrambling to audit cross-border vendor networks ahead of enforcement audits.",
+                "Trade policy experts note that these Section 301 measures signal a permanent shift toward restrictive, values-driven trade policies in Washington. Exporters operating in affected jurisdictions must restructure sourcing channels to maintain competitive pricing in US markets. Procurement teams are actively re-allocating orders to compliant tier-one suppliers.",
+                "Logistics providers anticipate increased customs clearance friction and extended dwell times at major ocean and air gateways. Forwarders are advising clients to implement robust digital supply chain mapping tools to verify labor provenance. Companies failing to meet compliance standards risk severe cargo seizures at the border."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: GPS JAMMING INSURANCE",
+            "nextUpTease": "EXPANSION: US BOX TERMINAL",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-15-percent-polysilicon-tariff-solar-chips-2026/",
-                "Published: 2026-08-08T14:30:00Z",
+                "Source: https://www.logisticsmgmt.com/ustr-forced-labor-tariffs-60-nations-2026",
+                "Published: 2026-08-08T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: GPS JAMMING INSURANCE",
+            "heading": "EXPANSION: US BOX TERMINAL",
             "points": [
-                "Japanese underwriting firm Sompo Japan launched the shipping industry's first commercial insurance coverage specifically targeting financial losses caused by GPS signal jamming. The policy addresses rising electronic warfare risks that disrupt vessel navigation and operational tracking across volatile ocean transit corridors. Ocean carriers can now hedge against supply chain delays caused by satellite signal loss.",
-                "Maritime operators face escalating transit delays and vessel rerouting expenses as digital interference spikes near key international maritime chokepoints. Insurance coverage extends to lost charter hire fees, demurrage costs, and additional fuel expenditures incurred during system disruptions. Shipowners are adopting specialized risk management tools to secure operational coverage.",
-                "Navigational safety experts note that electronic interference represents a growing threat to automated ocean freight logistics and port call schedules. Marine underwriters are incorporating cyber and navigation risk assessments into standard hull and machinery policy negotiations. Global fleets are integrating multi-constellation satellite receivers to maintain positional redundancy.",
-                "Logistics directors recommend that cargo owners review freight liability terms regarding electronic navigation disruptions along high-risk ocean routes. Supply chain risk officers are requiring ocean carriers to demonstrate certified GPS anti-spoofing protocols. Freight forwarders anticipate higher marine insurance premiums across affected international shipping lanes."
+                "A major Asian ocean carrier announced a $135M strategic capital investment dedicated to expanding its United States container terminal footprint. The infrastructure project aims to increase container throughput capacity and streamline intermodal handoff efficiency at key port gateways. Terminal operators are integrating automated gantry cranes to accelerate vessel turnaround times.",
+                "The multi-million dollar terminal enhancement provides ocean shippers with improved cargo velocity and reduced dwell times at congested coastal hubs. Regional supply chains stand to benefit from enhanced rail and drayage connectivity linking docks directly to inland distribution networks. Port authorities project a notable lift in annual container handling capacity upon completion.",
+                "Ocean freight analysts interpret the multi-million dollar terminal commitment as a long-term bet on robust transpacific import demand. Carriers are prioritizing proprietary terminal infrastructure to shield operations from broader supply chain bottlenecks and labor disputes. The investment reinforces strategic control over critical import-export chokepoints.",
+                "Logistics managers and beneficial cargo owners should factor expanded terminal capacity into upcoming service contract negotiations. Importers operating through the upgraded gateway can anticipate more reliable intermodal scheduling and fluid container pickup windows. Supply chain planners view the project as a vital boost for coastal logistics infrastructure."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: DATA CENTER CAPACITY DRAIN",
+            "nextUpTease": "INSURANCE: HORMUZ WAR RISK",
             "tags": [
-                "Source: https://splash247.com/sompo-moves-to-close-gps-jamming-insurance-gap-2026/",
-                "Published: 2026-08-07T11:20:00Z",
+                "Source: https://www.freightwaves.com/news/asia-ocean-line-135m-expansion-us-box-terminal-2026",
+                "Published: 2026-08-08T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRUCKING: DATA CENTER CAPACITY DRAIN",
+            "heading": "INSURANCE: HORMUZ WAR RISK",
             "points": [
-                "Industrial logistics data shows each gigawatt of US data center construction requires over 100K specialized truckloads of structural equipment and electrical machinery. The rapid expansion of artificial intelligence infrastructure is absorbing massive volumes of specialized domestic flatbed and heavy-haul motor carrier capacity. General industrial shippers face tightening trailer availability near major technology hubs.",
-                "Transportation planners report severe truck capacity constraints across Midwestern and Southeastern freight corridors dedicated to data facility development. Freight rates for specialized flatbed equipment have increased as contractors secure long-term dedicated fleet capacity. Standard manufacturing shipments are experiencing elevated transit times due to driver allocation shifts.",
-                "Supply chain analysts warn that the massive infrastructure buildout will continue to strain domestic surface transportation capacity through late 2026. Heavy equipment manufacturers are partnering directly with logistics brokers to guarantee priority dispatch services. Freight brokerages are expanding specialized heavy-haul divisions to service tech infrastructure demands.",
-                "Fleet managers are reallocating equipment assets toward high-yield industrial construction corridors to capture expanding tech infrastructure margins. Shippers outside the technology sector must lock in long-term carrier agreements to protect core distribution lanes. Transportation executives predict continued freight rate hardening across specialized flatbed markets."
+                "Thai shipping firm Precious Shipping secured a vital $11M war risk insurance payout covering the total constructive loss of its bulk carrier. The vessel was struck by projectiles and subsequently grounded during perilous transits through the volatile Strait of Hormuz. Marine underwriters are closely scrutinizing claims processing for assets operating within active Middle Eastern conflict zones.",
+                "The multi-million dollar insurance recovery underscores the severe financial risks shipping lines absorb when navigating high-threat maritime corridors. Underwriters are adjusting hull and machinery premiums upward to account for escalating geopolitical hostilities and military strikes. Shipowners are demanding enhanced security guarantees before committing tonnage to regional trade lanes.",
+                "Maritime risk experts emphasize that ongoing security threats in the Middle East continue to reshape global shipping economics and vessel routing strategies. Commercial fleets are increasingly relying on specialized war risk coverage and armed security details for Gulf transits. Insurance providers are imposing stringent compliance protocols on insured vessels.",
+                "Logistics operators managing Middle Eastern trade routes must factor soaring insurance surcharges and war risk premiums into freight rate calculations. Cargo owners are urged to review force majeure clauses and marine cargo policy limits for shipments traversing conflict areas. Forwarders anticipate continued rate volatility across regional maritime shipping lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET TECH: DAIMLER US FACTORY EXPANSION",
+            "nextUpTease": "TYPHOON: CHINA PORT SUSPENSION",
             "tags": [
-                "Source: https://www.joc.com/trucking/data-centers-pulling-on-already-shrinking-pool-us-truck-capacity-2026",
-                "Published: 2026-08-08T09:15:00Z",
+                "Source: https://maritime-executive.com/news/war-risk-insurance-pays-11m-for-loss-of-mayuree-naree-2026",
+                "Published: 2026-08-07T12:40:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FLEET TECH: DAIMLER US FACTORY EXPANSION",
+            "heading": "TYPHOON: CHINA PORT SUSPENSION",
             "points": [
-                "Daimler Truck North America officially announced plans to construct its largest US commercial vehicle manufacturing facility, scheduled to begin operations in 2029. The state-of-the-art industrial plant will focus on producing next-generation commercial trucks to supply expanding North American freight networks. Executive leadership confirmed the facility will significantly increase domestic chassis manufacturing capacity.",
-                "The heavy-duty truck manufacturer aims to streamline assembly workflows and reduce order-to-delivery lead times for commercial fleet buyers. Industry analysts project the manufacturing hub will boost domestic commercial truck supply and support fleet modernization efforts. Infrastructure investments include automated vehicle assembly lines and integrated battery-electric staging zones.",
-                "The strategic capital investment underscores long-term confidence in North American freight demand and commercial motor carrier fleet expansion. OEM executives are positioning production lines to accommodate evolving low-emission engine technologies and zero-emission powertrains. Regional supply chains surrounding the new plant site are expecting increased industrial land demand.",
-                "Fleet directors anticipate improved vehicle availability and broader equipment options as new manufacturing capacity comes online. Motor carriers are aligning long-term fleet replacement cycles with anticipated commercial truck production timelines. Logistics providers view the expansion as a critical pillar for future overland transport capacity."
+                "Chinese maritime authorities ordered the immediate suspension of port operations and vessel fueling activities as a super typhoon approaches. Major eastern manufacturing hubs and shipping terminals are clearing berths and instructing vessels to head out to open sea. The extreme weather event threatens to disrupt factory export schedules across key coastal provinces.",
+                "The port closures halt the dispatch of thousands of outbound containers, creating massive cargo backlogs across major Chinese export gateways. Supply chain schedules will experience rolling delays as vessels queue offshore awaiting clearance to re-enter port terminals. Exporters face acute bottlenecks just as peak season shipping volumes accelerate.",
+                "Meteorological forecasters warn that the approaching storm's intensity could severely damage port infrastructure and delay maritime logistics recovery efforts. Regional manufacturing plants are adjusting assembly outputs to prevent localized warehouse congestion during the port shutdown. Global carriers are implementing contingency routing plans for affected tonnage.",
+                "Supply chain executives sourcing from Asia must prepare for extended lead times and potential space constraints on outbound transpacific voyages. Freight forwarders are advising clients to secure buffer inventory to absorb multi-week shipping delays. Importers should monitor real-time port reopening notices to recalibrate distribution center inbound schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND FREIGHT: RHINE WATER RESTRICTIONS",
+            "nextUpTease": "REAL ESTATE: VACANCY STABILIZATION",
             "tags": [
-                "Source: https://www.ttnews.com/articles/dtna-largest-us-truck-plant-2026",
-                "Published: 2026-08-07T14:45:00Z",
+                "Source: https://maritime-executive.com/news/china-ports-suspending-operations-as-super-typhoon-approaches-2026",
+                "Published: 2026-08-07T16:32:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INLAND FREIGHT: RHINE WATER RESTRICTIONS",
+            "heading": "REAL ESTATE: VACANCY STABILIZATION",
             "points": [
-                "Record-low water levels along the Rhine River forced European inland waterway operators to reduce barge cargo intakes to 30% of standard operating capacity. Strategic transit points near Kaub are experiencing severe depth restrictions, preventing fully loaded commercial vessels from navigating key industrial corridors. Raw material flows into German manufacturing centers are facing critical bottlenecks.",
-                "Shippers operating in European chemical, steel, and energy sectors are encountering elevated low-water surcharge fees and delayed cargo arrivals. Inland logistics providers are attempting to shift containerized cargo onto regional rail and motor carrier networks. European overland transport networks are struggling to absorb diverted barge freight volumes.",
-                "Inland navigation authorities warn that persistent dry conditions could disrupt Central European industrial supply chains through late summer. Chemical producers are reducing plant operating rates due to raw material delivery constraints and delayed bulk vessel dispatches. Logistics operators are deploying shallow-draft specialized barges to maintain minimal freight fluidity.",
-                "Supply chain managers are advising European industrial clients to establish emergency overland transport buffers to prevent assembly line stoppages. Freight forwarders expect continued upward pressure on European truckload and rail spot rates during low-water periods. European manufacturing firms are re-evaluating multi-modal supply chain resiliency plans."
+                "Commercial real estate firm Colliers reported that the national industrial vacancy rate dropped seven basis points sequentially to settle at 7.3%. The second-quarter figures reflect a stabilizing market where tenant demand is finally outpacing new warehouse construction completions. Industrial developers are experiencing healthier absorption rates across primary logistics markets.",
+                "The stabilization of industrial vacancy provides developers and institutional landlords with predictable rental revenue streams after quarters of oversupply. Third-party logistics providers and retailers are actively locking down functional distribution space near major urban consumption centers. Net absorption metrics indicate a balanced equilibrium between available footprint and occupier demand.",
+                "Real estate economists note that moderating new construction starts have successfully prevented runaway inventory surpluses in key industrial submarkets. Regional warehouse operators are focusing on facility modernization and automation upgrades rather than speculative ground-up development. Corporate tenants are prioritizing strategic location efficiency over square footage expansion.",
+                "Supply chain directors seeking new distribution facilities can expect firmer lease terms and stabilized rental pricing across major industrial hubs. Real estate advisors recommend that expanding enterprises secure long-term leases now before localized supply constraints tighten availability. Logistics procurement teams are evaluating multi-market real estate portfolios for optimal cost efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "EMISSIONS: EPA 2027 ENGINE MANDATE",
+            "nextUpTease": "PORTS: NRF PEAK SHIPPING FORECAST",
             "tags": [
-                "Source: https://theloadstar.com/rhine-river-water-levels-restrict-inland-freight-2026/",
-                "Published: 2026-08-07T10:00:00Z",
+                "Source: https://www.logisticsmgmt.com/industrial-real-estate-vacancy-rate-colliers-q2-2026",
+                "Published: 2026-08-08T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EMISSIONS: EPA 2027 ENGINE MANDATE",
+            "heading": "PORTS: NRF PEAK SHIPPING FORECAST",
             "points": [
-                "Daimler Truck North America formally committed to exclusively producing EPA 2027-compliant heavy-duty engines as federal nitrogen oxide rules take effect. The commercial vehicle manufacturer is discontinuing legacy engine architectures to focus entirely on advanced low-emission powertrains. The transition marks a major technology shift across North American commercial fleet manufacturing.",
-                "Fleet operators purchasing 2027 model-year commercial vehicles will experience updated powertrain technology designed to meet strict environmental standards. Engine manufacturers are incorporating advanced exhaust aftertreatment systems and improved fuel delivery electronics. Industry experts predict higher initial acquisition costs for next-generation heavy-duty truck platforms.",
-                "Environmental regulatory frameworks are driving rapid technological innovation across commercial vehicle original equipment manufacturing. Commercial motor carriers are adjusting maintenance schedules and technician training programs to support updated engine diagnostics. OEM engine suppliers are streamlining component manufacturing to support full-scale powertrain conversion.",
-                "Logistics fleet managers are evaluating equipment pre-buy strategies ahead of full regulatory enforcement to optimize capital expenditures. Transportation risk managers are reviewing fleet residual values as older engine platforms face restricted entry into zero-emission zones. Carrier executive teams are aligning multi-year equipment budgets with updated engine cost models."
+                "The National Retail Federation released its latest monthly import report indicating that summer maritime import volumes will hit their highest level since 2022. Retailers are aggressively frontloading inventory into US ports ahead of an anticipated early peak shipping season cooldown in September. Container terminals across the West and East Coasts are experiencing elevated throughput activity.",
+                "The surge in early container imports is straining drayage trucking networks and accelerating yard dwell times at major ocean gateways. Port operators are deploying around-the-clock shift schedules to clear intermodal boxes and prevent severe terminal congestion. Importers are absorbing higher spot freight rates to secure vessel slots for peak holiday merchandise.",
+                "Retail supply chain analysts point out that inventory pre-loading reflects corporate anxiety over potential tariff adjustments and regulatory trade interventions. Merchandising executives are bypassing traditional shipping timelines to guarantee product availability for the upcoming holiday shopping season. Warehousing networks are operating at near-capacity to absorb incoming ocean freight.",
+                "Logistics managers must coordinate closely with drayage carriers and rail partners to ensure rapid container extraction from congested port facilities. Shippers should anticipate tighter equipment availability and potential chassis shortages throughout the late summer shipping rush. Forward-thinking retailers are already planning post-peak inventory staging strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "NEARSHORING: MEXICO OAXACA INVESTMENT",
+            "nextUpTease": "COMPLIANCE: VETERAN RECRUITMENT PUSH",
             "tags": [
-                "Source: https://www.ttnews.com/articles/dtna-epa-2027-engines-nox-2026",
-                "Published: 2026-08-07T13:10:00Z",
+                "Source: https://www.dcvelocity.com/articles/summer-monthly-imports-to-hit-highest-level-since-2022-nrf-2026",
+                "Published: 2026-08-07T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NEARSHORING: MEXICO OAXACA INVESTMENT",
+            "heading": "COMPLIANCE: VETERAN RECRUITMENT PUSH",
             "points": [
-                "The Mexican federal government announced a $2.2B infrastructure investment plan targeting transport and logistics corridors across the state of Oaxaca. Strategic capital allocations will fund modern highway construction, intermodal rail links, and regional industrial park infrastructure. The development aims to position Southern Mexico as a key logistics bridge between Pacific and Atlantic trade lanes.",
-                "The infrastructure expansion is expected to accelerate cross-border freight velocity and expand nearshoring manufacturing capacity for North American supply chains. Industrial developers are acquiring strategic land parcels along upgraded transportation corridors to build fulfillment centers. Modernized logistics links will reduce overland transit times for export manufacturing units.",
-                "International trade experts view the Southern Mexico investment as a vital initiative to diversify manufacturing hubs away from congested northern border crossings. Corporate supply chain planners are evaluating expansion opportunities across Southern Mexican industrial parks. Enhanced freight infrastructure provides an alternative trade corridor for global manufacturing firms.",
-                "Cross-border motor carriers and logistics providers anticipate expanded freight volumes along US-Mexico land trade corridors. Shippers investing in Mexican manufacturing operations gain improved intermodal connectivity to major Gulf of Mexico ports. The capital project strengthens regional supply chain resilience across North American trade networks."
+                "The federal administration launched the Freedom Haulers interagency campaign designed to fast-track military veterans into commercial driver's licenses. The DOT program pairs expedited driver licensing pathways with strict enforcement actions targeting non-domiciled motor carriers. The initiative aims to inject qualified domestic talent into the struggling commercial trucking workforce.",
+                "The recruitment push helps commercial motor carriers mitigate chronic driver shortages while strengthening overall highway safety compliance standards. Fleet operators participating in the program gain access to disciplined, safety-trained professional drivers ready for long-haul operations. Regulatory agencies are actively monitoring carrier compliance across state inspection checkpoints.",
+                "Transportation labor experts view military transition programs as a critical long-term solution for maintaining domestic freight capacity and supply chain resilience. Motor carrier executives are expanding internal driver training partnerships with military bases to secure steady talent pipelines. Industry stakeholders welcome federal support for domestic workforce development.",
+                "Fleet safety directors are encouraged to integrate Freedom Haulers graduates into existing driver retention and compensation frameworks. Logistics providers anticipate improved over-the-road service reliability as new compliant drivers enter commercial service. Motor carriers should review federal qualification guidelines to maximize hiring participation."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/oaxaca-mexico-2-2b-logistics-investment-2026",
-                "Published: 2026-08-07T16:00:00Z",
+                "Source: https://www.inboundlogistics.com/trump-administration-freedom-haulers-veterans-cdls-2026",
+                "Published: 2026-08-08T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
