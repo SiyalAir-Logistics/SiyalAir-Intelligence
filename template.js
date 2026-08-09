@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR enforces Section 301 tariffs on 60 trading partners following Section 122 expiration, creating immediate cost and compliance friction across global import supply chains."
+        "titleWhite": "SEALEAD SHIPPING",
+        "titleBlue": "LIQUIDATION",
+        "footerSummary": "US sanctions force SeaLead Shipping into voluntary liquidation, sparking immediate vessel asset reallocation and tariff compliance audits across transpacific trade corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "SANCTIONS: SEALEAD SHIPPING LIQUIDATION",
             "points": [
-                "The Office of the United States Trade Representative formally initiated new Section 301 tariff enforcement targeting imports from 60 trading partners. This regulatory escalation immediately follows the scheduled expiration of emergency Section 122 import measures.",
-                "Customs brokers and international importers face renewed compliance screening under forced labor prevention mandates across major transpacific maritime routes. Enforcement updates require verified supply chain origin data prior to port clearance.",
-                "Global supply chain planners are forced to audit secondary tier suppliers to mitigate unexpected duty spikes and administrative customs holds. Importers are actively re-evaluating sourcing footprints across Southeast Asian manufacturing hubs.",
-                "Trade analysts anticipate increased administrative disputes and potential legal challenges from commercial shipper groups facing unexpected tariff liabilities. Compliance costs across high-risk commodity classes are projected to rise significantly over Q3 2026."
+                "Singapore-based ocean carrier SeaLead Shipping officially entered voluntary liquidation following sweeping US sanctions imposed against its ownership network.",
+                "Rival container lines rapidly moved to acquire SeaLead's vessel charters and container fleet to absorb displaced transpacific and intra-Asia freight volumes.",
+                "Shippers with active bookings on SeaLead vessels face immediate re-routing protocols and cargo release delays across international port terminals.",
+                "Maritime regulatory enforcement agencies are intensifying compliance audits on regional feeder operators to identify secondary sanctions exposures."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET MANUFACTURING: DTNA EXPANSION PLANT",
+            "nextUpTease": "TRUCKING CAPACITY: DATA CENTER DEMAND",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
-                "Published: 2026-08-08T18:00:00Z",
+                "Source: https://splash247.com/us-sanctions-push-sealead-shipping-into-liquidation/",
+                "Published: 2026-08-07T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FLEET MANUFACTURING: DTNA EXPANSION PLANT",
+            "heading": "TRUCKING CAPACITY: DATA CENTER DEMAND",
             "points": [
-                "Daimler Truck North America confirmed plans to construct its largest US commercial vehicle manufacturing facility, scheduled for full operational startup in 2029. The OEM also committed exclusively to EPA 2027 compliant heavy-duty engine architectures.",
-                "The multi-million dollar capital investment expands domestic production capacity for heavy Class 8 commercial vehicles across North American freight corridors. The facility incorporates advanced automation and zero-emission vehicle assembly infrastructure.",
-                "Fleet operators gain long-term capacity assurance for next-generation commercial trucks ahead of stringent federal emissions enforcement timelines. Industrial equipment suppliers are re-aligning regional component logistics to feed the planned production hub.",
-                "Motor carriers evaluating capital expenditure plans must align fleet replacement schedules with updated EPA engine standards and extended manufacturing lead times. The strategic plant expansion underpins long-term domestic freight infrastructure resilience."
+                "Rapid construction of domestic US artificial intelligence data centers is absorbing significant heavy specialized flatbed and dry van trucking capacity.",
+                "Industry logistics estimates indicate each 1 gigawatt of data center facility buildout requires over 100,000 dedicated commercial truckload movements.",
+                "Industrial freight buyers encounter growing competition for heavy-haul equipment as tech infrastructure investments outpace baseline fleet growth.",
+                "Fleet operators are reallocating regional tractor units toward high-yield infrastructure corridors, tightening spot capacity for standard industrial freight."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
+            "nextUpTease": "MARITIME SECURITY: HORMUZ TRANSIT RESTRICTIONS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/dtna-us-truck-plant-2029",
-                "Published: 2026-08-07T18:00:00Z",
+                "Source: https://www.joc.com/article/data-centers-pulling-on-already-shrinking-pool-of-us-truck-capacity",
+                "Published: 2026-08-08T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
+            "heading": "MARITIME SECURITY: HORMUZ TRANSIT RESTRICTIONS",
             "points": [
-                "The Port of Virginia partnered with CSX Transportation to launch a direct intermodal rail service connecting East Coast marine terminals to Indianapolis rail ramps. The service bypasses traditional Midwest rail interchanges located in congested Chicago hubs.",
-                "Containerized import cargo moving to Midwestern distribution centers benefits from reduced transit times and eliminated drayage leg transfers. Ocean carriers can optimize equipment turnaround cycles by utilizing direct rail corridor routing.",
-                "Midwest shippers gain enhanced supply chain velocity and lower regional overland transport costs for containerized retail and manufacturing goods. Intermodal rail volume across Atlantic gateway ports is projected to expand steadily over coming quarters.",
-                "Logistics planners expect this direct rail link to reduce regional highway truck congestion and lower total carbon intensity per container mile. Additional East Coast port authorities are evaluating similar direct inland rail service partnerships."
+                "Iranian legislative authorities drafted regulatory measures to formally ban US and Israeli-linked commercial vessels from transiting the Strait of Hormuz.",
+                "Diplomatic discussions between Iran and Oman aim to establish new bilateral maritime traffic management protocols and potential transit toll structures.",
+                "Ocean carriers operating Middle East routes are reassessing war risk insurance premiums and evaluating alternative routing options around Southern Africa.",
+                "Global energy and container trades face heightened transit uncertainty across critical chokepoints, driving up landed freight surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT OPERATIONS: CHINESE TYPHOON SUSPENSIONS",
+            "nextUpTease": "AIR FREIGHT: AI EQUIPMENT CAPACITY",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-indianapolis/723450/",
-                "Published: 2026-08-08T12:00:00Z",
+                "Source: https://splash247.com/iran-weighs-ban-on-us-and-israeli-ships-in-hormuz/",
+                "Published: 2026-08-07T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PORT OPERATIONS: CHINESE TYPHOON SUSPENSIONS",
+            "heading": "AIR FREIGHT: AI EQUIPMENT CAPACITY",
             "points": [
-                "Chinese port authorities issued emergency advisories and suspended terminal operations at major maritime gateways as Super Typhoon Dolphin approached the coast. Marine bunkering services and vessel refueling operations were completely halted across major container hubs.",
-                "Dozens of commercial container ships were ordered to clear anchorage areas and head to open sea to prevent harbor collisions during peak storm conditions. Port terminal closures are expected to generate acute berth congestion and extended vessel vessel wait times.",
-                "Ocean carriers operating transpacific schedules encounter immediate vessel delays, requiring operational blank sailings and schedule recovery adjustments. Transpacific shippers face downstream port arrival delays across West Coast import gateways.",
-                "Supply chain risk managers are recalculating lead times for critical retail and industrial inventory transiting East Asian ocean corridors. Normal port productivity and vessel berthing operations will resume gradually following official safety inspections."
+                "Surging global demand for artificial intelligence hardware is competing directly with cross-border e-commerce for Asia-origin air freight tonnage.",
+                "High-tech cargo yields continue to outperform general freight rates, prompting air forwarders to secure long-term block space agreements out of major Asian hubs.",
+                "Semiconductor and server manufacturers are locking in dedicated charter capacity to ensure uninterrupted supply lines ahead of Q4 consumer launches.",
+                "Logistics providers are expanding value-added tech logistics services to capture high-margin semiconductor and server infrastructure movements."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE LISTINGS: AMAZON TITLE RESTRICTIONS",
+            "nextUpTease": "INLAND FREIGHT: RHINE WATER LEVELS",
             "tags": [
-                "Source: https://maritime-executive.com/article/china-ports-suspending-operations-as-super-typhoon-approaches",
-                "Published: 2026-08-07T16:32:00Z",
+                "Source: https://www.joc.com/article/data-center-demand-offers-forwarders-value-added-services-beyond-air-freight",
+                "Published: 2026-08-08T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ECOMMERCE LISTINGS: AMAZON TITLE RESTRICTIONS",
+            "heading": "INLAND FREIGHT: RHINE WATER LEVELS",
             "points": [
-                "Amazon implemented a strict global product title length restriction capping all catalog titles at a maximum of 75 characters. The mandatory catalog policy applies equally to third-party merchant listings and Amazon first-party retail items.",
-                "E-commerce merchants and brand managers are racing to reformat tens of thousands of SKU titles to prevent listing suppression across digital storefronts. Optimized character limits aim to improve search indexing performance and mobile user experience.",
-                "Logistics and fulfillment operations face temporary catalog catalog synchronization challenges as automated inventory systems process title updates. Multi-channel marketplace sellers are adjusting automated feed management software to maintain channel compliance.",
-                "E-commerce analysts anticipate cleaner search metadata will reduce customer order returns driven by misleading product title descriptions. Retail brands must adjust search engine optimization strategies to maintain visibility within compact title character limits."
+                "Severe low water conditions along the Rhine River have restricted barge draft limits, constraining cargo transport into Germany's industrial core.",
+                "Inland waterway operators are enforcing light-loading surcharges and transferring heavy bulk volume onto regional rail and trucking networks.",
+                "Chemical and raw material manufacturers face supply delays and increased overland freight rates to maintain plant operational continuity.",
+                "European supply chain planners are establishing contingency feeder routes to mitigate multi-modal congestion across Western European corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE FINANCE: MONETIZING TARIFF REFUNDS",
+            "nextUpTease": "TRADE POLICY: POLYSILICON TARIFF LEVIES",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-applies-to-own-listings/",
-                "Published: 2026-08-07T19:00:00Z",
+                "Source: https://theloadstar.com/europes-inland-transport-higher-rates-longer-journeys-and-pressure-on-raw-materials/",
+                "Published: 2026-08-07T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRADE FINANCE: MONETIZING TARIFF REFUNDS",
+            "heading": "TRADE POLICY: POLYSILICON TARIFF LEVIES",
             "points": [
-                "Major retail brands including American Eagle Outfitters are monetizing potential federal tariff refund claims by selling rights to specialized secondary market buyers. Shippers are accepting immediate discounted cash payouts rather than awaiting lengthy administrative court payouts.",
-                "The emerging secondary trade finance market provides immediate working capital liquidity to retail enterprises facing constrained cash flows. Wall Street investment entities are purchasing aggregated tariff refund claims as high-yield litigation assets.",
-                "Corporate finance teams utilize cash proceeds to stabilize supply chain balance sheets and fund operational inventory expansion without incurring high-interest debt. Legal specialists manage the complex regulatory filings required to secure final government customs paybacks.",
-                "Financial experts project secondary trade refund monetizations will expand across consumer goods sectors as trade litigation against federal import duties continues. Commercial shippers gain predictable liquidity while transferring long-term legal recovery risks."
+                "Federal trade authorities issued a presidential proclamation establishing a 15% import tariff on foreign polysilicon effective December 4.",
+                "The executive order sets a mandatory minimum import price floor to protect domestic solar wafer and semiconductor supply chain manufacturing.",
+                "Solar developers and microchip producers are auditing international procurement contracts to evaluate financial impacts prior to enforcement.",
+                "Importers are accelerating Q3 cargo shipments to clear customs ahead of the formal tariff implementation and compliance deadline."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: WAREHOUSE VACANCY STABILIZATION",
+            "nextUpTease": "MARITIME INSURANCE: GPS JAMMING COVERAGE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/retailers-sell-rights-tariff-refunds-secondary-market/723455/",
-                "Published: 2026-08-07T15:00:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-imposes-15-percent-tariff-polysilicon-solar-chips/",
+                "Published: 2026-08-07T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REAL ESTATE: WAREHOUSE VACANCY STABILIZATION",
+            "heading": "MARITIME INSURANCE: GPS JAMMING COVERAGE",
             "points": [
-                "Colliers released its Q2 industrial real estate market report indicating US warehouse vacancy rates fell 7 basis points sequentially to 7.3%. Industrial leasing demand outpaced new warehouse delivery completions for the first time in 8 quarters.",
-                "Logistics providers and 3PL operators are resuming regional fulfillment network expansion as industrial inventory oversupply clears out. Warehouse rental rate growth has stabilized across core port-adjacent and inland logistics hubs.",
-                "Enterprise supply chain managers face tightening availability for high-spec Class A distribution space above 500K square feet. Commercial developers are carefully pacing new speculative construction projects to align with sustained absorption trends.",
-                "Real estate analysts predict industrial facility rents will re-accelerate toward year-end 2026 as e-commerce and domestic manufacturing growth continues. Strategic occupiers are securing long-term lease renewals to cap operational real estate expenditure."
+                "Japanese insurer Sompo Japan launched the maritime industry's first specialized insurance product covering economic losses from GPS jamming.",
+                "Electronic navigation interference incidents near active conflict zones have increased operational risks and vessel downtime for commercial fleets.",
+                "Shipowners and marine operators gain financial indemnity against off-hire losses and delayed port arrivals caused by signal spoofing.",
+                "Marine underwriters are expected to integrate cyber and navigation risk assessments into standard vessel hull and machinery policies."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance_2026",
-                "Published: 2026-08-08T09:00:00Z",
+                "Source: https://splash247.com/sompo-moves-to-close-gps-jamming-insurance-gap/",
+                "Published: 2026-08-07T09:00:00Z",
                 "Status: Audited & True"
             ]
         }
