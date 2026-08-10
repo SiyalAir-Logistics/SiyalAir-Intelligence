@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFF EXPANSION",
+        "hookTitle": "HORMUZ NAVAL BLOCKADE ESCALATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: FORCED LABOR TARIFF EXPANSION",
-                "teaserTitle": "MARITIME: SEALEAD SHIPPING VOLUNTARY LIQUIDATION",
+                "headline": "MARITIME: HORMUZ NAVAL BLOCKADE",
+                "teaserTitle": "EQUIPMENT: AI ENGINE CAPACITY COMPETITION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR implemented Section 301 forced labor tariffs on 60 trading partners as Section 122 tariffs expire. The regulatory mandate forces importers to conduct immediate origin audits across multi-tier supplier networks."
+                "narration_line": "The US Navy turned away 55 commercial vessels in the Strait of Hormuz amid escalating regional tensions. Ocean carriers are re-routing energy cargoes, adding 14 days to standard transit schedules."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SEALEAD SHIPPING VOLUNTARY LIQUIDATION",
-                "teaserTitle": "VESSELS: BOUND4BLUE WIND PROPULSION INSTALLATION",
+                "headline": "EQUIPMENT: AI ENGINE CAPACITY COMPETITION",
+                "teaserTitle": "ENERGY: BLACK SEA TANKER TRANSIT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation following US sanctions, immediately shutting down container operations across Asia and the Mediterranean. Competing ocean carriers are rapidly absorbing displaced vessel tonnage to minimize trade disruptions."
+                "narration_line": "HD Hyundai landed its largest power-engine deal, pitting shipyards against tech giants for heavy equipment. Shipowners face delivery delays beyond 2027 as AI data center demand consumes marine manufacturing capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "VESSELS: BOUND4BLUE WIND PROPULSION INSTALLATION",
-                "teaserTitle": "EQUIPMENT: TOYOTA INDIANA FORKLIFT PLANT",
+                "headline": "ENERGY: BLACK SEA TANKER TRANSIT",
+                "teaserTitle": "INLAND: RHINE LOW WATER DIVERSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Bound4blue completed installation of its eSail suction sail system on a newbuild multipurpose cargo ship. The wind-assisted propulsion technology reduces vessel fuel consumption and overall carbon emissions."
+                "narration_line": "Ukraine established safe transit corridors for Kazakh crude tankers across the Black Sea following US diplomatic intervention. Energy shippers reduced war-risk insurance premiums by 15% across regional maritime export lanes."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: TOYOTA INDIANA FORKLIFT PLANT",
-                "teaserTitle": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+                "headline": "INLAND: RHINE LOW WATER DIVERSION",
+                "teaserTitle": "SECURITY: DATA HACK CARGO THEFT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Toyota opened a new $100M forklift assembly plant in Indiana to increase material handling production. The facility expansion boosts domestic lift truck supply to meet growing distribution center demand."
+                "narration_line": "Critical Rhine water levels forced European barge operators to cap vessel payloads at 30% capacity. Shippers are shifting 100K tons of inland freight to high-cost road and rail transport networks."
             },
             {
                 "slide_index": 5,
-                "headline": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
-                "teaserTitle": "PARCEL: USPS GROUND ADVANTAGE RATE INCREASE",
+                "headline": "SECURITY: DATA HACK CARGO THEFT",
+                "teaserTitle": "TARIFFS: POLYSILICON IMPORT DUTIES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Etsy cut 12% of its workforce impacting 220 staff following a $1.4B cash infusion from selling Depop. Executive leadership aims to streamline operational costs and redirect capital toward core marketplace technologies."
+                "narration_line": "A federal grand jury indicted 8 individuals for hijacking corporate data to steal $4.49M in retail freight. Logistics providers are mandating multi-factor security protocols across all freight-matching software platforms."
             },
             {
                 "slide_index": 6,
-                "headline": "PARCEL: USPS GROUND ADVANTAGE RATE INCREASE",
-                "teaserTitle": "INFRASTRUCTURE: DATA CENTER TRUCK CAPACITY STRAIN",
+                "headline": "TARIFFS: POLYSILICON IMPORT DUTIES",
+                "teaserTitle": "TRUCKING: EPA 2027 ENGINE COMPLIANCE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "USPS raised package rates for Ground Advantage shipping across domestic marketplace seller accounts. Online merchants must recalibrate last-mile logistics budgets to maintain margin profitability."
+                "narration_line": "The US administration announced a 15% tariff and price floor on imported polysilicon effective Dec 4, 2026. Solar and semiconductor manufacturers must restructure raw material procurement streams to avoid import surcharges."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: DATA CENTER TRUCK CAPACITY STRAIN",
+                "headline": "TRUCKING: EPA 2027 ENGINE COMPLIANCE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "US data center expansion requires 100K truckloads per gigawatt, consuming critical specialized fleet capacity. Shippers face tighter flatbed availability and potential rate pressure across primary logistics corridors."
+                "narration_line": "Daimler Truck North America confirmed full compliance with upcoming EPA 2027 zero-emission engine mandates. Fleet operators face a 10% equipment cost increase ahead of strict domestic NOx emissions enforcement."
             },
             {
                 "slide_index": 8,

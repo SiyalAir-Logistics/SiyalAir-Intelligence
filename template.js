@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR TARIFF",
-        "titleBlue": "EXPANSION",
-        "footerSummary": "USTR implements Section 301 tariffs on 60 nations as Section 122 expires, targeting supply chain forced labor vulnerabilities."
+        "titleWhite": "HORMUZ NAVAL",
+        "titleBlue": "BLOCKADE",
+        "footerSummary": "Naval blockade actions in the Strait of Hormuz turn back 55 vessels, triggering immediate rerouting across global energy and ocean container networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: FORCED LABOR TARIFF EXPANSION",
+            "heading": "MARITIME: HORMUZ NAVAL BLOCKADE",
             "points": [
-                "USTR has initiated Section 301 forced labor tariffs targeting 60 trading partners as temporary Section 122 tariffs expire.",
-                "The regulatory shift imposes new import duties and heightened compliance audits across global manufacturing supply chains.",
-                "Importers face strict operational requirements to trace tier-1 and tier-2 raw material origin frameworks.",
-                "Supply chain managers must audit supplier labor documentation to avoid port entry rejections and customs holds."
+                "The US Navy has turned away 55 commercial vessels near Kharg Island during enforcement of maritime blockade operations.",
+                "Naval tracking consultants report zero active tankers berthed at Iran primary crude export terminals following recent naval interdictions.",
+                "Commercial carriers are re-evaluating transit safety across the Persian Gulf as regional military standoff conditions intensify.",
+                "Energy logistics teams must calculate extended transit days and rising war-risk insurance premiums for all Gulf transits."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD SHIPPING VOLUNTARY LIQUIDATION",
+            "nextUpTease": "EQUIPMENT: AI ENGINE CAPACITY COMPETITION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs_on_60_trading_partners",
-                "Published: 2026-08-09T18:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/10/us-reaffirms-grip-on-hormuz-blockade-turning-away-55-ships",
+                "Published: 2026-08-10T04:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: SEALEAD SHIPPING VOLUNTARY LIQUIDATION",
+            "heading": "EQUIPMENT: AI ENGINE CAPACITY COMPETITION",
             "points": [
-                "Singapore-registered container carrier SeaLead Shipping has entered voluntary liquidation following recent US sanctions.",
-                "The shutdown immediately halts all primary liner services operating across Asia, Middle East, Mediterranean, and Baltic routes.",
-                "Ocean carriers and vessel charterers are rapidly reallocating displaced container tonnage and equipment across active lanes.",
-                "BCOs with active SeaLead bookings must secure immediate alternative carrier capacity to prevent severe transit disruptions."
+                "HD Hyundai Heavy Industries secured its largest power-generation engine contract to support artificial intelligence data center expansion.",
+                "The surge in tech-driven power generation orders directly competes with commercial shipyard allocation for marine engine manufacturing.",
+                "Commercial vessel construction schedules face potential bottlenecks as engine builders prioritize high-margin power plant equipment.",
+                "Shipowners planning newbuild container and bulk fleets must secure engine production slots early to avoid long delivery delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "VESSELS: BOUND4BLUE WIND PROPULSION INSTALLATION",
+            "nextUpTease": "ENERGY: BLACK SEA TANKER TRANSIT",
             "tags": [
-                "Source: https://theloadstar.com/troubled-sealeads-ships-and-boxes-quickly-snapped-up-by-rivals",
-                "Published: 2026-08-09T14:20:00Z",
+                "Source: https://splash247.com/ai-boom-puts-shipowners-in-race-with-tech-giants-for-engines",
+                "Published: 2026-08-10T05:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "VESSELS: BOUND4BLUE WIND PROPULSION INSTALLATION",
+            "heading": "ENERGY: BLACK SEA TANKER TRANSIT",
             "points": [
-                "Bound4blue completed installation of its suction sail wind-assisted propulsion system on a newbuild multipurpose cargo ship.",
-                "The mechanical eSail technology directly reduces fuel consumption and carbon emissions on commercial maritime voyages.",
-                "The installation marks the first operational deployment of suction sail wind systems within the multipurpose cargo vessel segment.",
-                "Fleet operators are monitoring performance metrics as maritime decarbonization mandates drive wind-assisted technology adoption."
+                "Ukraine has agreed to grant safe passage to non-Russian crude oil tankers exporting Kazakh oil across Black Sea shipping routes.",
+                "The diplomatic compromise follows US intervention aimed at stabilizing global crude oil flows and minimizing war-risk market premiums.",
+                "Assurances reduce immediate maritime security threats facing neutral product tankers calling at regional Black Sea export hubs.",
+                "Energy traders can maintain scheduled crude export volumes while monitoring verification mechanisms along active transit lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: TOYOTA INDIANA FORKLIFT PLANT",
+            "nextUpTease": "INLAND: RHINE LOW WATER DIVERSION",
             "tags": [
-                "Source: https://maritime-executive.com/article/first-multipurpose-cargo-vessel-installs-wind-assisted-propulsion",
-                "Published: 2026-08-08T19:13:00Z",
+                "Source: https://splash247.com/ukraine-agrees-safe-passage-for-kazakh-crude-tankers",
+                "Published: 2026-08-10T03:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "EQUIPMENT: TOYOTA INDIANA FORKLIFT PLANT",
+            "heading": "INLAND: RHINE LOW WATER DIVERSION",
             "points": [
-                "Toyota has opened a new $100M forklift manufacturing facility in Indiana to expand material handling equipment production.",
-                "The capital expansion increases domestic assembly capacity for electric and internal combustion industrial lift trucks.",
-                "Enhanced manufacturing footprint directly addresses growing DC demand for warehouse material handling infrastructure.",
-                "Logistics facility operators can expect improved equipment lead times and expanded fleet procurement availability."
+                "Prolonged heatwaves across Europe have driven Rhine River water levels to critically low thresholds, restricting commercial barge draft depth.",
+                "Barge operators are implementing severe cargo load restrictions, forcing European industrial shippers to shift freight to road and rail.",
+                "Inland infrastructure bottlenecking is escalating spot freight rates across central European logistics corridors as capacity tightens.",
+                "Supply chain managers moving raw materials through Germany must secure secondary motor carrier capacity to mitigate barge delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+            "nextUpTease": "SECURITY: DATA HACK CARGO THEFT",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/58392-toyota-opens-100-million-forklift-plant-in-indiana",
-                "Published: 2026-08-08T16:00:00Z",
+                "Source: https://theloadstar.com/congestion-fear-as-unnavigable-rhine-means-cargo-shift-to-road-and-rail",
+                "Published: 2026-08-10T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+            "heading": "SECURITY: DATA HACK CARGO THEFT",
             "points": [
-                "Etsy announced a 12% workforce reduction impacting 220 employees following a $1.4B cash infusion from selling Depop.",
-                "The strategic restructuring aims to streamline operational costs while reallocating corporate capital toward core marketplace tech.",
-                "Executive leadership confirmed the headcount reductions are designed to boost corporate margins and long-term platform scale.",
-                "Marketplace sellers should anticipate continued adjustments to seller support channels and platform fee structures."
+                "A federal grand jury indicted 8 members of an organized theft syndicate for stealing $4.49M in high-value retail shipments.",
+                "The criminal network compromised legitimate logistics software credentials to intercept dispatch data and fraudulent load assignments.",
+                "Cyber-enabled strategic theft continues to threaten freight broker networks, driving demand for multi-factor verification tools.",
+                "Freight brokers and dispatchers must strengthen digital identity audits before releasing high-value bills of lading to third parties."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL: USPS GROUND ADVANTAGE RATE INCREASE",
+            "nextUpTease": "TARIFFS: POLYSILICON IMPORT DUTIES",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/06/etsy-announces-layoffs-after-1-4-billion-infusion-in-cash/",
-                "Published: 2026-08-08T12:00:00Z",
+                "Source: https://www.ttnews.com/articles/grand-jury-indicts-8-cargo-theft-scheme-hacked-data",
+                "Published: 2026-08-09T18:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PARCEL: USPS GROUND ADVANTAGE RATE INCREASE",
+            "heading": "TARIFFS: POLYSILICON IMPORT DUTIES",
             "points": [
-                "The US Postal Service has implemented targeted rate increases across Ground Advantage shipping services for e-commerce sellers.",
-                "The price adjustment impacts marketplace merchants utilizing small and medium parcel distribution networks across domestic zones.",
-                "Higher postal surcharges continue a broader trend of carrier rate increases hitting last-mile e-commerce fulfillment.",
-                "Online retailers must recalculate parcel shipping margins or adjust customer order checkout delivery fees."
+                "The US administration issued a proclamation imposing a 15% import tariff and mandatory price floor on foreign polysilicon shipments.",
+                "The regulatory trade measure, taking effect Dec 4, targets critical raw materials used in solar panels and semiconductor fabrication.",
+                "Domestic solar and tech manufacturers face immediate supply chain cost restructuring to mitigate upcoming duty surcharges.",
+                "Importers must review raw material origin documentation to verify compliance ahead of the official December implementation deadline."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: DATA CENTER TRUCK CAPACITY STRAIN",
+            "nextUpTease": "TRUCKING: EPA 2027 ENGINE COMPLIANCE",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/07/25/usps-raises-package-rates-for-marketplaces-sellers/",
-                "Published: 2026-08-08T10:30:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-imposes-15-percent-tariff-polysilicon-imports",
+                "Published: 2026-08-08T20:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: DATA CENTER TRUCK CAPACITY STRAIN",
+            "heading": "TRUCKING: EPA 2027 ENGINE COMPLIANCE",
             "points": [
-                "Rapid US data center expansion is pulling heavy truckload capacity away from conventional commercial freight corridors.",
-                "Industry analysis shows each gigawatt of data center construction requires approximately 100K truckloads of specialized freight.",
-                "The surging industrial demand threatens to tighten flatbed and specialized heavy-haul truck capacity in key regional markets.",
-                "Industrial shippers should lock in specialized carrier contracts to hedge against localized truckload capacity shortages."
+                "Daimler Truck North America confirmed it will exclusively produce EPA 2027 compliant heavy-duty engines upon regulatory launch.",
+                "The commercial vehicle manufacturer is aligning its product strategy with stricter national nitrogen oxide emission standards.",
+                "Fleet procurement costs are projected to adjust as heavy truck builders integrate advanced clean combustion engine technology.",
+                "Motor carriers should evaluate capital fleet replacement schedules to balance equipment costs against strict federal compliance rules."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com/article/data-centers-pulling-on-already-shrinking-pool-of-us-truck-capacity",
-                "Published: 2026-08-09T11:15:00Z",
+                "Source: https://www.ttnews.com/articles/dtna-commits-epa-2027-engines-nox-rules",
+                "Published: 2026-08-08T15:10:00Z",
                 "Status: Audited & True"
             ]
         }
