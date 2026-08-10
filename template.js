@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "POLYSILICON IMPORT",
+        "titleWhite": "FORCED LABOR",
         "titleBlue": "TARIFFS",
-        "footerSummary": "New 15% U.S. polysilicon tariffs hit solar and chip supply networks as importers audit origin compliance and recalculate import duty costs."
+        "footerSummary": "USTR implements Section 301 tariffs on 60 trading nations as Section 122 expires, compelling importers to audit origin supply chains and recalculate duty costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: POLYSILICON IMPORT TARIFFS",
+            "heading": "TRADE: FORCED LABOR TARIFFS",
             "points": [
-                "The U.S. administration imposed a new 15% tariff on imported polysilicon, targeting key inputs for solar energy manufacturing and advanced semiconductor production.",
-                "The trade enforcement measure is designed to incentivize domestic manufacturing capacity while penalizing foreign subsidized supply chains.",
-                "Solar project developers and chip manufacturers face elevated bill-of-materials costs and immediate procurement recalibrations across Transpacific supply lines.",
-                "Importers are restructuring supply agreements to verify non-impacted origin pathways and mitigate customs duty liabilities."
+                "The Office of the United States Trade Representative announced new forced labor tariffs under Section 301 covering 60 trading partners as temporary Section 122 duties expire.",
+                "The trade enforcement policy mandates strict origin auditing and compliance documentation for importers across major manufacturing trade corridors.",
+                "Global supply chain managers face immediate administrative recalibrations and elevated customs duty assessments on cross-border shipments.",
+                "Enterprise importers are restructuring supplier audit protocols to prevent border detentions and mitigate financial penalties from federal customs enforcement."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+            "nextUpTease": "RAIL: VIRGINIA INDIANAPOLIS SERVICE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-imposes-15-percent-tariff-on-polysilicon-imports/723457/",
-                "Published: 2026-08-09T16:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
+                "Published: 2026-08-10T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+            "heading": "RAIL: VIRGINIA INDIANAPOLIS SERVICE",
             "points": [
-                "Singapore-registered container line SeaLead Shipping initiated voluntary liquidation following severe impact from recently implemented U.S. sanctions.",
-                "Rival ocean carriers and tonnage providers swiftly acquired SeaLead's charter vessels and container fleets to maintain regional trade flows.",
-                "The sudden exit collapses primary liner services between Asia, the Middle East, the Mediterranean, and the Baltic trade corridors.",
-                "Freight forwarders are re-routing affected containerized cargo to minimize port demurrage exposure and supply network disruption."
+                "The Port of Virginia launched direct CSX intermodal rail service linking ocean container terminals directly to the Indianapolis industrial market.",
+                "The direct rail connection bypasses traditional Chicago interchange hubs, reducing regional transit times for Midwest importers and exporters by 24 hours.",
+                "Ocean carriers and inland logistics providers are adjusting intermodal routing guides to leverage the streamlined mid-Atlantic rail gateway.",
+                "Shippers gain improved supply chain velocity and lower drayage costs across regional distribution networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND: RHINE WATERWAY DROUGHT",
+            "nextUpTease": "TANKERS: MINSHENG FLEET EXPANSION",
             "tags": [
-                "Source: https://www.joc.com/article/carrier-sealead-ends-operations-weeks-after-us-sanctions-hit_20260810.html",
-                "Published: 2026-08-10T08:00:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-adds-csx-rail-service-to-indianapolis/723460/",
+                "Published: 2026-08-10T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INLAND: RHINE WATERWAY DROUGHT",
+            "heading": "TANKERS: MINSHENG FLEET EXPANSION",
             "points": [
-                "Water levels along Northern Europe's Rhine River dropped to critical thresholds, rendering key barge navigation corridors virtually impassable.",
-                "Barge operators have instituted severe draft restrictions and low-water surcharges as vessel intake capacity dropped by over 50%.",
-                "Logistics planners are shifting heavy industrial and containerized freight from inland waterways onto already congested European road and rail networks.",
-                "Shippers across Germany and the Netherlands face elevated intermodal freight rates and extended transit delays through Q3 2026."
+                "Minsheng Financial Leasing expanded its Shell-backed MR tanker program at Guangzhou Shipyard International to 11 total vessel orders.",
+                "The agreement adds 5 newbuilding product tankers to replace older tonnage and meet stringent international environmental compliance standards.",
+                "Maritime energy logistics networks secure long-term charter capacity to support global refined petroleum transport.",
+                "Charterers benefit from modern fuel-efficient vessel designs that reduce operating costs amid volatile global bunker fuel pricing."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN: HORMUZ STRAIT TOLL PROPOSALS",
+            "nextUpTease": "ENERGY: STRATEGIC PETROLEUM DRAIN",
             "tags": [
-                "Source: https://theloadstar.com/congestion-fear-as-unnavigable-rhine-means-cargo-shift-to-road-and-rail/",
-                "Published: 2026-08-10T07:30:00Z",
+                "Source: https://splash247.com/minsheng-expands-shell-backed-mr-tanker-programme-to-11-newbuilds/",
+                "Published: 2026-08-10T08:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OCEAN: HORMUZ STRAIT TOLL PROPOSALS",
+            "heading": "ENERGY: STRATEGIC PETROLEUM DRAIN",
             "points": [
-                "International shipping associations petitioned the UN and IMO to block proposed transit tolls along the strategic Strait of Hormuz waterway.",
-                "Bilateral discussions between regional authorities threaten to introduce mandatory transit fees on commercial oil tankers and container vessels.",
-                "Maritime legal experts warn that unilateral tolling mechanisms violate established international maritime navigation rights under UNCLOS standards.",
-                "Ocean carriers face potential operating cost increases and heightened geopolitical risk premiums across key Middle Eastern trade lanes."
+                "U.S. Strategic Petroleum Reserve inventory dropped below 300M barrels, marking the lowest crude oil volume recorded since 1983.",
+                "Persistent inventory drawdowns leave government energy buffers constrained as geopolitical tensions across maritime transit zones elevate supply risks.",
+                "Energy logistics planners and tanker charterers face volatile crude oil pricing and shifting trade flows between global supply origins.",
+                "Industrial refiners are securing secondary transport contracts to guard against potential inventory shortages during Q4 peak heating demand."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: CAPE TOWN TERMINAL BID",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "tags": [
-                "Source: https://www.joc.com/article/global-shipping-calls-on-un-imo-to-ensure-no-hormuz-tolls_20260810.html",
-                "Published: 2026-08-10T06:15:00Z",
+                "Source: https://www.cnbc.com/2026/08/10/us-strategic-petroleum-reserve-falls-below-300m-barrels.html",
+                "Published: 2026-08-10T07:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PORTS: CAPE TOWN TERMINAL BID",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "points": [
-                "Saudi Arabia's Red Sea Gateway Terminal is preparing a formal concession bid for the Duncan Dock Multi-Purpose Terminal at Cape Town.",
-                "The strategic port bid aligns with international expansion plans to secure major container and breakbulk terminal assets across African trade routes.",
-                "Transnet National Ports Authority issued the request for proposals as existing operating concessions approach expiration in 2027.",
-                "Private terminal investment is projected to increase container handling productivity and alleviate severe berth congestion along Southern African maritime corridors."
+                "U.S. industrial real estate vacancy fell 7 bps sequentially to 7.3% in Q2 2026 as tenant absorption outstripped new construction delivery.",
+                "Colliers reports that the industrial property market has achieved structural supply-demand balance after consecutive quarters of high construction additions.",
+                "Logistics providers and retail operators are stabilizing warehouse leasing budgets across primary port and inland hub markets.",
+                "Occupiers are prioritizing modern automated fulfillment space as prime industrial leasing availability begins to tighten again."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION: FEDEX TRAILER ROBOTICS",
+            "nextUpTease": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
             "tags": [
-                "Source: https://maritime-executive.com/article/saudi-arabia-s-rsgt-considers-bid-for-port-of-cape-town",
-                "Published: 2026-08-09T19:33:00Z",
+                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance_colliers",
+                "Published: 2026-08-10T06:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AUTOMATION: FEDEX TRAILER ROBOTICS",
+            "heading": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
             "points": [
-                "FedEx deployed autonomous robotic loading systems across high-volume distribution hubs to automate trailer packing operations.",
-                "The automated robotic arms utilize advanced spatial vision systems to optimize cubic parcel density and increase load velocity.",
-                "Logistics providers are expanding robotic automation across sorting hubs to counter structural labor constraints and reduce parcel handling damage.",
-                "E-commerce shippers gain improved dock-to-dock transit times and consistent throughput capacity during peak processing cycles."
+                "Amazon instituted a strict 75-character length limit for product listing titles across third-party seller accounts and its own internal product catalog.",
+                "The marketplace policy update enforces character restrictions to improve mobile search display clarity and optimize catalog indexing speed.",
+                "E-commerce brands and logistics fulfillment partners are rapidly updating listing metadata to avoid algorithmic suppression of active product pages.",
+                "Sellers are shifting key brand attributes and technical product specifications into detailed bullet points to maintain search visibility."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: TARIFF REFUND MONETIZATION",
+            "nextUpTease": "EQUIPMENT: DAIMLER EPA2027 ENGINES",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/fedex-amazon-robotic-arms-fulfillment-trailer-loading/723458/",
-                "Published: 2026-08-09T15:10:00Z",
+                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy/",
+                "Published: 2026-08-09T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FINANCE: TARIFF REFUND MONETIZATION",
+            "heading": "EQUIPMENT: DAIMLER EPA2027 ENGINES",
             "points": [
-                "Major retail brands have initiated sales of rights to future federal customs tariff refunds to private financial liquidity providers.",
-                "A secondary financial market has rapidly emerged, allowing enterprise importers to monetize pending duty drawback claims for immediate cash flow.",
-                "Financial intermediaries purchase claims at a discount while assuming legal and administrative execution risks with customs authorities.",
-                "Importers are utilizing immediate capital payouts to optimize working capital liquidity amid persistent trade policy uncertainties."
+                "Daimler Truck North America confirmed it will exclusively offer EPA 2027-compliant heavy engines when stricter federal NOx emissions rules launch.",
+                "The commercial vehicle manufacturer is aligning its production line purely with next-generation propulsion systems to comply with federal standards.",
+                "Fleet operators face higher equipment acquisition costs and technical operational transitions across interstate motor carrier fleets.",
+                "Freight carriers are adjusting fleet replacement cycles and maintenance schedules ahead of the mandatory 2027 regulatory shift."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/retailers-sell-rights-tariff-refunds-american-eagle/723459/",
-                "Published: 2026-08-09T12:00:00Z",
+                "Source: https://www.ttnews.com/articles/dtna-epa-2027-engines",
+                "Published: 2026-08-08T14:10:00Z",
                 "Status: Audited & True"
             ]
         }
