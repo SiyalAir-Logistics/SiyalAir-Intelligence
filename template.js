@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GEMINI COOPERATION RESTORES",
-        "titleBlue": "ROUTE",
-        "footerSummary": "Gemini Cooperation restores trans-Suez vessel transits as carrier capacity realigns across volatile maritime trade lanes."
+        "titleWhite": "BLACK SEA TANKER ATTACKS",
+        "titleBlue": "CEASE",
+        "footerSummary": "Ukraine agrees to halt Black Sea tanker strikes near Novorossiysk, mitigating immediate energy freight disruptions across Caspian oil export corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SUEZ CANAL: GEMINI COOPERATION RESTORES ROUTE",
+            "heading": "UKRAINE PIPELINE: BLACK SEA TANKER ATTACKS CEASE",
             "points": [
-                "Ocean carriers Maersk and Hapag-Lloyd confirmed the restoration of an additional Gemini Cooperation service through the Suez Canal following updated security assessments.",
-                "The deployment marks the first major liner service returning to the trans-Suez corridor since regional maritime disruptions escalated in July 2026.",
-                "Container operators are auditing vessel schedules and bunkering logistics to optimize transit times between Asia and European discharge ports.",
-                "Industry analysts anticipate potential adjustments in spot rate premiums and bunker surcharges as vessel loops transition away from extended Cape routes."
+                "Ukraine agreed under U.S. diplomatic pressure to halt military drone and missile strikes against foreign-flagged crude oil tankers in the Black Sea.",
+                "The diplomatic agreement targets maritime access to the Caspian Pipeline Consortium terminal located near Novorossiysk, Russia, protecting international energy flows.",
+                "U.S. officials intervened after recent Black Sea strikes targeted foreign crude carriers, including at least 1 tanker operating under charter to Chevron.",
+                "Energy traders and marine insurers anticipate a stabilization of maritime risk surcharges across Black Sea crude export routes following the ceasefire."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER SANCTIONS: SEALEAD IN LIQUIDATION",
+            "nextUpTease": "MARITIME ENFORCEMENT: MSC FINED FOR RUNAWAY SHIP",
             "tags": [
-                "Source: https://maritime-executive.com/article/maersk-and-hapag-lloyd-restore-another-gemini-route-to-suez",
-                "Published: 2026-08-10T14:06:00Z",
+                "Source: https://maritime-executive.com/article/ukraine-agrees-under-u-s-pressure-to-stop-attacks-on-caspian-pipeline",
+                "Published: 2026-08-10T14:53:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CARRIER SANCTIONS: SEALEAD IN LIQUIDATION",
+            "heading": "MARITIME ENFORCEMENT: MSC FINED FOR RUNAWAY SHIP",
             "points": [
-                "Singapore-based liner SeaLead Shipping initiated voluntary liquidation proceedings following severe commercial pressures triggered by U.S. sanctions.",
-                "Competing ocean carriers have rapidly absorbed SeaLead vessel charters and container assets across key Asia-Middle East and Mediterranean trade corridors.",
-                "Non-vessel operating common carriers are re-routing affected containerized cargo to prevent port impoundment and documentation delays.",
-                "Maritime legal experts project accelerated fleet consolidation among regional carriers operating under heightened international regulatory scrutiny."
+                "MSC Shipmanagement and the chief engineer of the MSC Michigan VII pleaded guilty in federal court regarding a 2024 high-speed runaway ship incident in Charleston harbor.",
+                "Federal investigators cited severe mechanical maintenance failures and charged the operator with failing to report hazardous vessel operational conditions to the USCG.",
+                "Judicial authorities ordered significant civil fines against the carrier entity, reinforcing federal compliance requirements for commercial ocean liners in U.S. ports.",
+                "Ocean carriers are performing fleetwide propulsion safety audits to prevent mechanical control failures and regulatory enforcement penalties in domestic waterways."
             ],
             "imageUrl": "",
-            "nextUpTease": "CDL REGULATION: FMCSA ENFORCES ENGLISH RULES",
+            "nextUpTease": "DRIVER RECRUITMENT: DOT LAUNCHES FREEDOM HAULERS",
             "tags": [
-                "Source: https://www.joc.com/article/carrier-sealead-ends-operations-weeks-after-us-sanctions-hit_20260810.html",
-                "Published: 2026-08-10T15:30:00Z",
+                "Source: https://maritime-executive.com/article/msc-chief-engineer-fined-runaway-boxship",
+                "Published: 2026-08-10T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CDL REGULATION: FMCSA ENFORCES ENGLISH RULES",
+            "heading": "DRIVER RECRUITMENT: DOT LAUNCHES FREEDOM HAULERS",
             "points": [
-                "The Federal Motor Carrier Safety Administration published a proposed rule tightening English language proficiency enforcement for commercial driver license holders.",
-                "Federal safety inspectors will enforce immediate out-of-service orders for non-compliant drivers during roadside safety audits across all U.S. freight corridors.",
-                "Motor carrier compliance officers are auditing driver qualification files and updating operational testing protocols to maintain fleet active status.",
-                "Freight brokerages anticipate localized driver capacity constraints across cross-border drayage networks and intermodal transfer points."
+                "The Trump administration launched Freedom Haulers, a joint interagency initiative designed to expedite commercial driver license acquisition for military veterans.",
+                "The Department of Transportation partnered the recruitment campaign with intensified enforcement against non-domiciled commercial truck drivers across federal freight corridors.",
+                "Federal agencies aim to shorten transition pathways from military service to domestic logistics careers while maintaining strict driver qualification standards.",
+                "Motor carrier safety executives expect the streamlined credentialing process to alleviate long-term driver shortages across long-haul truckload networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL INTERMODAL: VIRGINIA ADDS CSX ROUTE",
+            "nextUpTease": "MARITIME POLICY: TRUMP EXTENDS JONES ACT WAIVER",
             "tags": [
-                "Source: https://www.ttnews.com/articles/fmcsa-english-proficiency-rule",
-                "Published: 2026-08-10T11:00:00Z",
+                "Source: https://www.inboundlogistics.com/articles/freedom-haulers-veterans-cdl",
+                "Published: 2026-08-10T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RAIL INTERMODAL: VIRGINIA ADDS CSX ROUTE",
+            "heading": "MARITIME POLICY: TRUMP EXTENDS JONES ACT WAIVER",
             "points": [
-                "The Port of Virginia launched a direct CSX intermodal rail service linking deepwater marine terminals directly to the Indianapolis inland logistics hub.",
-                "The new rail corridor bypasses traditional Chicago rail interchange bottlenecks, reducing transit times for import containers bound for Midwest distribution centers.",
-                "Inland logistics planners are shifting regional container volumes to rail to mitigate rising highway trucking rates and drayage congestion.",
-                "Supply chain executives project improved inventory velocity and lower carbon intensity metrics for regional consumer goods supply networks."
+                "The White House officially extended a limited Jones Act shipping waiver for an additional 90 days to maintain domestic energy transport fluidity.",
+                "The regulatory waiver allows non-coastwise compliant tankers to transport domestic crude oil and petroleum products between U.S. coastal ports during market strain.",
+                "Federal policymakers enacted the temporary extension to insulate domestic fuel supply chains from escalating maritime trade tensions and regional energy supply shocks.",
+                "Domestic shipping interests and energy logistics managers are monitoring coastwise fleet utilization and charter rates following the executive action."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL RATES: USPS LEVIES FUEL SURCHARGE",
+            "nextUpTease": "TRADE TARIFFS: US PROPOSES DERIVATIVE METALS DUTIES",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-service-indianapolis/723200/",
-                "Published: 2026-08-10T13:20:00Z",
+                "Source: https://maritime-executive.com/article/trump-extends-jones-act-waiver",
+                "Published: 2026-08-10T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PARCEL RATES: USPS LEVIES FUEL SURCHARGE",
+            "heading": "TRADE TARIFFS: US PROPOSES DERIVATIVE METALS DUTIES",
             "points": [
-                "The United States Postal Service implemented its first-ever package fuel surcharge alongside a 4-cent stamp increase to offset rising transportation costs.",
-                "Postal operational filings indicate Q3 revenue reached $20B despite ongoing structural cash constraints across the national delivery network.",
-                "E-commerce merchants and high-volume shippers are auditing parcel expense structures to absorb higher last-mile delivery expenditures.",
-                "Logistics analysts forecast rate parity shifts between postal services and private parcel carriers during the upcoming peak shipping season."
+                "The U.S. Department of Commerce proposed new protective tariffs covering downstream derivative products made from imported steel, aluminum, and copper.",
+                "The targeted product classifications encompass industrial goods ranging from brass wind instruments and commercial safes to specialized tanker trailers and semi-trailers.",
+                "Federal trade regulators aim to close import classification loopholes that allow foreign manufacturers to bypass raw metal tariff structures on finished subassemblies.",
+                "Equipment manufacturers and logistics fleet operators are evaluating supply chain cost impacts on imported trailer chassis and specialized transport hardware."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY FREIGHT: SUPERTANKER RATES NEARS 500K",
+            "nextUpTease": "LEGAL LITIGATION: STATES SUE OVER FORCED LABOR DUTIES",
             "tags": [
-                "Source: https://www.freightwaves.com/news/postal-service-new-parcel-surcharge-20b-revenue",
-                "Published: 2026-08-10T12:15:00Z",
+                "Source: https://www.supplychaindive.com/news/commerce-proposes-derivative-metals-tariffs/723220/",
+                "Published: 2026-08-10T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ENERGY FREIGHT: SUPERTANKER RATES NEARS 500K",
+            "heading": "LEGAL LITIGATION: STATES SUE OVER FORCED LABOR DUTIES",
             "points": [
-                "Charter rates for Very Large Crude Carriers on benchmark Middle East export routes surged toward $500K per day amid regional geopolitical instability.",
-                "Heightened maritime risk premiums and naval transit uncertainties in the Strait of Hormuz have significantly elevated tanker operating costs.",
-                "Energy logistics operators are securing long-term charter agreements and adjusting route itineraries to safeguard global crude oil supply lines.",
-                "Commodity traders project sustained volatility in landed energy prices, directly impacting global bunker fuel surcharges across commercial shipping."
+                "A coalition of 25 state attorneys general filed a federal lawsuit against the Trump administration challenging Section 301 tariffs on forced-labor imports.",
+                "The legal filing argues the executive trade measures represent an illegal workaround to prior Supreme Court rulings restricting broad Presidential tariff enforcement power.",
+                "State legal officers assert the administrative duties impose unconstitutional economic burdens on local supply chain operators and consumer retail networks.",
+                "Importers of record and trade compliance attorneys are watching federal court motions for potential temporary injunctions on duty collection processes."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSING: AHOLD CANCELS AUTOMATED HUBS",
+            "nextUpTease": "WAREHOUSE AUTOMATION: FEDEX AMAZON EXPAND ROBOTS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/supertanker-rate-surge-hormuz",
-                "Published: 2026-08-10T10:45:00Z",
+                "Source: https://www.supplychaindive.com/news/states-sue-trump-forced-labor-tariffs/723225/",
+                "Published: 2026-08-10T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "WAREHOUSING: AHOLD CANCELS AUTOMATED HUBS",
+            "heading": "WAREHOUSE AUTOMATION: FEDEX AMAZON EXPAND ROBOTS",
             "points": [
-                "Retail grocery group Ahold Delhaize cancelled plans to construct 2 automated frozen warehouses, shifting inbound logistics back to in-house management.",
-                "The corporate pivot reflects strategic efforts to control operational expenditures and optimize existing fulfillment center footprint efficiency.",
-                "3PL providers and warehouse automation vendors are reassessing capital expenditure schedules for complex automated cold-storage facilities.",
-                "Industry experts anticipate grocery supply chains will focus on modular technology integration rather than capital-intensive greenfield automation."
+                "FedEx and Amazon accelerated the operational deployment of robotic arms to automate package handling across key fulfillment hubs and sorting facilities.",
+                "FedEx deployed automated trailer loading systems at its Maryland hub, while Amazon targets doubling its operational robotic arm fleet before year-end.",
+                "Integrators are targeting high-density sorting and heavy package loading workflows to reduce facility labor dependencies and increase hourly throughput.",
+                "Logistics automation vendors project rapid adoption of autonomous material handling hardware as parcel carriers seek structural operational cost reductions."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/ahold-delhaize-automated-frozen-warehouses/723210/",
-                "Published: 2026-08-10T09:30:00Z",
+                "Source: https://www.supplychaindive.com/news/fedex-amazon-robotic-arms/723230/",
+                "Published: 2026-08-10T09:00:00Z",
                 "Status: Audited & True"
             ]
         }

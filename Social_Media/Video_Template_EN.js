@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GEMINI COOPERATION RESTORES ROUTE",
+        "hookTitle": "BLACK SEA TANKER ATTACKS CEASE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SUEZ CANAL: GEMINI COOPERATION RESTORES ROUTE",
-                "teaserTitle": "CARRIER SANCTIONS: SEALEAD IN LIQUIDATION",
+                "headline": "UKRAINE PIPELINE: BLACK SEA TANKER ATTACKS CEASE",
+                "teaserTitle": "MARITIME ENFORCEMENT: MSC FINED FOR RUNAWAY SHIP",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Maersk and Hapag-Lloyd restored another Gemini Cooperation service loop through the Suez Canal. Vessel operators are adjusting itineraries to capitalize on reduced Asia-Europe transit schedules."
+                "narration_line": "Ukraine agreed under US pressure to halt Black Sea strikes on foreign tankers near terminal 1. US brokers secured the deal to stabilize 100% of Caspian crude export flows."
             },
             {
                 "slide_index": 2,
-                "headline": "CARRIER SANCTIONS: SEALEAD IN LIQUIDATION",
-                "teaserTitle": "CDL REGULATION: FMCSA ENFORCES ENGLISH RULES",
+                "headline": "MARITIME ENFORCEMENT: MSC FINED FOR RUNAWAY SHIP",
+                "teaserTitle": "DRIVER RECRUITMENT: DOT LAUNCHES FREEDOM HAULERS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation following recent U.S. trade sanctions. Competing carriers rapidly absorbed 100% of available chartered vessels across key Middle East corridors."
+                "narration_line": "MSC and its chief engineer pleaded guilty in federal court following a 2024 runaway boxship incident. Federal judges imposed civil penalties to enforce compliance across domestic port operations."
             },
             {
                 "slide_index": 3,
-                "headline": "CDL REGULATION: FMCSA ENFORCES ENGLISH RULES",
-                "teaserTitle": "RAIL INTERMODAL: VIRGINIA ADDS CSX ROUTE",
+                "headline": "DRIVER RECRUITMENT: DOT LAUNCHES FREEDOM HAULERS",
+                "teaserTitle": "MARITIME POLICY: TRUMP EXTENDS JONES ACT WAIVER",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "FMCSA proposed strict English language proficiency rules for commercial driver license holders. Safety inspectors will enforce immediate out-of-service orders during roadside carrier inspections."
+                "narration_line": "The Trump administration launched Freedom Haulers to recruit military veterans into 100K commercial driver positions. DOT coupled the initiative with strict enforcement against non-domiciled CDL holders."
             },
             {
                 "slide_index": 4,
-                "headline": "RAIL INTERMODAL: VIRGINIA ADDS CSX ROUTE",
-                "teaserTitle": "PARCEL RATES: USPS LEVIES FUEL SURCHARGE",
+                "headline": "MARITIME POLICY: TRUMP EXTENDS JONES ACT WAIVER",
+                "teaserTitle": "TRADE TARIFFS: US PROPOSES DERIVATIVE METALS DUTIES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Port of Virginia launched direct CSX rail service to the Indianapolis intermodal hub. The service bypasses Chicago bottlenecks, cutting transit times for Midwest container imports."
+                "narration_line": "The White House extended a limited Jones Act shipping waiver for an additional 90 days. Federal officials authorized non-coastwise tankers to transport domestic crude during supply disruptions."
             },
             {
                 "slide_index": 5,
-                "headline": "PARCEL RATES: USPS LEVIES FUEL SURCHARGE",
-                "teaserTitle": "ENERGY FREIGHT: SUPERTANKER RATES NEARS 500K",
+                "headline": "TRADE TARIFFS: US PROPOSES DERIVATIVE METALS DUTIES",
+                "teaserTitle": "LEGAL LITIGATION: STATES SUE OVER FORCED LABOR DUTIES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "USPS introduced a package fuel surcharge alongside 4-cent stamp hikes to generate $20B in Q3. Shippers face elevated last-mile expenses entering peak shipping season."
+                "narration_line": "Commerce officials proposed protective tariffs of up to 15% on derivative steel, aluminum, and copper products. The regulations target imported trailer chassis, wind instruments, and heavy hardware."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY FREIGHT: SUPERTANKER RATES NEARS 500K",
-                "teaserTitle": "WAREHOUSING: AHOLD CANCELS AUTOMATED HUBS",
+                "headline": "LEGAL LITIGATION: STATES SUE OVER FORCED LABOR DUTIES",
+                "teaserTitle": "WAREHOUSE AUTOMATION: FEDEX AMAZON EXPAND ROBOTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Supertanker charter fees on Middle East routes escalated toward $500K daily amid Strait of Hormuz tension. Elevated maritime risk premiums continue driving up landed global energy costs."
+                "narration_line": "A coalition of 25 state attorneys general sued the federal government over Section 301 forced-labor tariffs. Plaintiffs claim the duties represent an illegal workaround to recent Supreme Court trade rulings."
             },
             {
                 "slide_index": 7,
-                "headline": "WAREHOUSING: AHOLD CANCELS AUTOMATED HUBS",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "WAREHOUSE AUTOMATION: FEDEX AMAZON EXPAND ROBOTS",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Ahold Delhaize cancelled 2 planned automated frozen warehouses to bring inbound freight management in-house. Grocers are prioritizing existing footprint efficiency over massive greenfield automation projects."
+                "narration_line": "FedEx and Amazon expanded robotic arm installations across key hubs to automate 100% of package sorting. Amazon aims to double its active robotic fleet to offset warehouse labor costs."
             },
             {
                 "slide_index": 8,
