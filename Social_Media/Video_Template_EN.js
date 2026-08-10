@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS",
+        "hookTitle": "HORMUZ STRAIT TRANSIT TOLLS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: FORCED LABOR TARIFFS",
-                "teaserTitle": "RAIL: VIRGINIA INDIANAPOLIS SERVICE",
+                "headline": "MARITIME: HORMUZ STRAIT TRANSIT TOLLS",
+                "teaserTitle": "RAIL: CHICAGO CLEARING YARD CONGESTION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR initiated Section 301 tariffs on 60 nations following the expiration of Section 122 duties. Importers face immediate compliance auditing requirements and adjusted customs fee schedules across primary trade corridors."
+                "narration_line": "Iran and Oman negotiate new transit tolls for the Strait of Hormuz as supertanker rates approach $500K per day. Ocean carriers and energy shippers are appealing to UN maritime agencies to preserve open international navigation rights."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL: VIRGINIA INDIANAPOLIS SERVICE",
-                "teaserTitle": "TANKERS: MINSHENG FLEET EXPANSION",
+                "headline": "RAIL: CHICAGO CLEARING YARD CONGESTION",
+                "teaserTitle": "CUSTOMS: EU DUTY-FREE TAX REFORM",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Port of Virginia launched direct CSX intermodal rail service connecting ocean terminals to Indianapolis. The new corridor bypasses Chicago rail hubs, reducing regional transit times for Midwest importers by 24 hours."
+                "narration_line": "CSX operational changes at Chicago Clearing Yard have created severe intermodal congestion across major Midwest rail corridors. Western railroads and drayage fleets are restructuring interchange routes to prevent cascading terminal delays for shippers."
             },
             {
                 "slide_index": 3,
-                "headline": "TANKERS: MINSHENG FLEET EXPANSION",
-                "teaserTitle": "ENERGY: STRATEGIC PETROLEUM DRAIN",
+                "headline": "CUSTOMS: EU DUTY-FREE TAX REFORM",
+                "teaserTitle": "ENERGY: CASPIAN PIPELINE BLACK SEA PROTECTION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Minsheng Financial Leasing expanded its Shell-backed tanker program to 11 MR vessels at Guangzhou Shipyard International. The deal adds 5 newbuilds to replace aging tonnage across global refined petroleum shipping routes."
+                "narration_line": "Global air freight rates fell 12% following the implementation of new EU duty-free tax rules on low-value e-commerce packages. Cross-border online retailers are consolidating regional fulfillment hubs to offset reduced customs clearance exemptions."
             },
             {
                 "slide_index": 4,
-                "headline": "ENERGY: STRATEGIC PETROLEUM DRAIN",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "headline": "ENERGY: CASPIAN PIPELINE BLACK SEA PROTECTION",
+                "teaserTitle": "REGULATION: EU EMISSIONS DAIMLER PENALTY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "U.S. Strategic Petroleum Reserve inventory fell below 300M barrels, hitting the lowest volume level recorded since 1983. Government drawdowns constrain national energy reserves while ocean tanker freight rates surge 15% across Middle East lanes."
+                "narration_line": "Ukraine agreed to halt Black Sea drone strikes against crude tankers servicing the $1.2B Caspian Pipeline terminal under US diplomatic pressure. Energy charterers are renegotiating marine insurance surcharges across Black Sea transit zones following the maritime ceasefire agreement."
             },
             {
                 "slide_index": 5,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
-                "teaserTitle": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
+                "headline": "REGULATION: EU EMISSIONS DAIMLER PENALTY",
+                "teaserTitle": "LEGAL: FMC DETENTION FEE FLUIDITY RULING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "U.S. industrial real estate vacancy dropped 7 bps to 7.3% in Q2 2026 as tenant absorption surpassed new warehouse supply. Logistics operators report stabilized lease pricing across major distribution hubs following 4 consecutive quarters of expansion."
+                "narration_line": "The European Union faces a potential $1B regulatory fine against Daimler Truck for failing heavy-duty commercial fleet emissions mandates. OEM truck manufacturers are accelerating fleet powertrain updates to avoid severe regulatory penalties before Q4 deadline enforcing compliance."
             },
             {
                 "slide_index": 6,
-                "headline": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
-                "teaserTitle": "EQUIPMENT: DAIMLER EPA2027 ENGINES",
+                "headline": "LEGAL: FMC DETENTION FEE FLUIDITY RULING",
+                "teaserTitle": "PARCEL: USPS MARKETPLACE RATE INCREASES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon enforced a 75-character length restriction on product listing titles for third-party sellers and internal brands. The mandatory policy update forces e-commerce merchants to restructure listing metadata to maintain search indexation algorithms."
+                "narration_line": "The US Court of Appeals upheld the FMC ruling requiring ocean container detention fees to directly promote freight fluidity. Ocean carriers must revise billing practices and refund non-compliant fees to ocean freight forwarders and shippers nationwide."
             },
             {
                 "slide_index": 7,
-                "headline": "EQUIPMENT: DAIMLER EPA2027 ENGINES",
+                "headline": "PARCEL: USPS MARKETPLACE RATE INCREASES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Daimler Truck North America confirmed it will exclusively sell EPA 2027-compliant heavy engines when lower NOx rules take effect. Fleets face higher vehicle acquisition costs and mandatory emissions technology upgrades across interstate trucking operations."
+                "narration_line": "USPS introduced immediate Ground Advantage shipping rate increases for marketplace sellers to cover expanding postal operating losses. E-commerce merchants are re-evaluating parcel carrier contracts to mitigate rising fulfillment expenses across high-volume shipping routes."
             },
             {
                 "slide_index": 8,
