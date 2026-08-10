@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "BLACK SEA TANKER ATTACKS CEASE",
+        "hookTitle": "RHINE WATERWAYS: DROUGHT FORCES MODAL SHIFT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "UKRAINE PIPELINE: BLACK SEA TANKER ATTACKS CEASE",
-                "teaserTitle": "MARITIME ENFORCEMENT: MSC FINED FOR RUNAWAY SHIP",
+                "headline": "RHINE WATERWAYS: DROUGHT FORCES MODAL SHIFT",
+                "teaserTitle": "ARCTIC LOGISTICS: SEA LEGEND OPENS NSR ROUTE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Ukraine agreed under US pressure to halt Black Sea strikes on foreign tankers near terminal 1. US brokers secured the deal to stabilize 100% of Caspian crude export flows."
+                "narration_line": "Water levels on the Rhine River dropped severely in August 2026, threatening to split the key European waterway in 2. Freight operators are diverting cargo to road and rail transport to avoid major bottleneck delays."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME ENFORCEMENT: MSC FINED FOR RUNAWAY SHIP",
-                "teaserTitle": "DRIVER RECRUITMENT: DOT LAUNCHES FREEDOM HAULERS",
+                "headline": "ARCTIC LOGISTICS: SEA LEGEND OPENS NSR ROUTE",
+                "teaserTitle": "CARRIER EXIT: SEALEAD CEASES ALL OPERATIONS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "MSC and its chief engineer pleaded guilty in federal court following a 2024 runaway boxship incident. Federal judges imposed civil penalties to enforce compliance across domestic port operations."
+                "narration_line": "Chinese carrier Sea Legend is launching the 1st regular container service along Russia's Northern Sea Route. The Arctic passage cuts transit times between Asia and Europe compared to standard Suez canal sailings."
             },
             {
                 "slide_index": 3,
-                "headline": "DRIVER RECRUITMENT: DOT LAUNCHES FREEDOM HAULERS",
-                "teaserTitle": "MARITIME POLICY: TRUMP EXTENDS JONES ACT WAIVER",
+                "headline": "CARRIER EXIT: SEALEAD CEASES ALL OPERATIONS",
+                "teaserTitle": "TRUCKING SAFETY: FMCSA TIGHTENS ENGLISH RULES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Trump administration launched Freedom Haulers to recruit military veterans into 100K commercial driver positions. DOT coupled the initiative with strict enforcement against non-domiciled CDL holders."
+                "narration_line": "Singapore-based SeaLead Shipping entered voluntary liquidation following recent U.S. sanctions against its fleet operations. Rival ocean carriers are rapidly acquiring the company's remaining containerships and box inventory across Asia and Europe."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME POLICY: TRUMP EXTENDS JONES ACT WAIVER",
-                "teaserTitle": "TRADE TARIFFS: US PROPOSES DERIVATIVE METALS DUTIES",
+                "headline": "TRUCKING SAFETY: FMCSA TIGHTENS ENGLISH RULES",
+                "teaserTitle": "EMISSION POLICIES: EU THREATENS DAIMLER FINES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The White House extended a limited Jones Act shipping waiver for an additional 90 days. Federal officials authorized non-coastwise tankers to transport domestic crude during supply disruptions."
+                "narration_line": "The FMCSA issued a proposed rule to strictly enforce English language proficiency standards for commercial truck drivers. Federal inspectors have already sidelined over 1,100 non-compliant drivers across domestic freight corridors this month."
             },
             {
                 "slide_index": 5,
-                "headline": "TRADE TARIFFS: US PROPOSES DERIVATIVE METALS DUTIES",
-                "teaserTitle": "LEGAL LITIGATION: STATES SUE OVER FORCED LABOR DUTIES",
+                "headline": "EMISSION POLICIES: EU THREATENS DAIMLER FINES",
+                "teaserTitle": "ENERGY FREIGHT: SUPERTANKER CHARTERS HIT HIGH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Commerce officials proposed protective tariffs of up to 15% on derivative steel, aluminum, and copper products. The regulations target imported trailer chassis, wind instruments, and heavy hardware."
+                "narration_line": "The EU notified Daimler Truck of potential fines reaching 1B euros over heavy-duty vehicle emissions compliance rules. Company executives rejected the penalties while accelerating zero-emission truck deployment across European transport networks."
             },
             {
                 "slide_index": 6,
-                "headline": "LEGAL LITIGATION: STATES SUE OVER FORCED LABOR DUTIES",
-                "teaserTitle": "WAREHOUSE AUTOMATION: FEDEX AMAZON EXPAND ROBOTS",
+                "headline": "ENERGY FREIGHT: SUPERTANKER CHARTERS HIT HIGH",
+                "teaserTitle": "E-COMMERCE LABORS: ETSY SLASHES WORKFORCE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A coalition of 25 state attorneys general sued the federal government over Section 301 forced-labor tariffs. Plaintiffs claim the duties represent an illegal workaround to recent Supreme Court trade rulings."
+                "narration_line": "Daily supertanker charter rates on benchmark Middle East shipping routes jumped near $500,000 per day. Escalating regional instability and Strait of Hormuz transit uncertainties continue pushing crude freight surcharges to historic levels."
             },
             {
                 "slide_index": 7,
-                "headline": "WAREHOUSE AUTOMATION: FEDEX AMAZON EXPAND ROBOTS",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "E-COMMERCE LABORS: ETSY SLASHES WORKFORCE",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "FedEx and Amazon expanded robotic arm installations across key hubs to automate 100% of package sorting. Amazon aims to double its active robotic fleet to offset warehouse labor costs."
+                "narration_line": "Etsy announced it will lay off 220 employees, representing 12% of its total operational workforce. The workforce reduction follows Etsy's $1.4B cash sale of fashion marketplace Depop to competitor eBay."
             },
             {
                 "slide_index": 8,
