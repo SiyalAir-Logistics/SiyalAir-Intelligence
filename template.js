@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DATA CENTER DEMAND",
-        "titleBlue": "CAP",
-        "footerSummary": "U.S. data center development absorbs 100,000 truckloads per gigawatt, severely constricting national long-haul flatbed freight capacity."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR implements Section 301 tariffs across 60 trading nations as Section 122 duties expire, forcing immediate compliance audits."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRUCKLOADS: DATA CENTER DEMAND CAP",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "U.S. data center development is absorbing massive domestic freight capacity, requiring up to 100,000 truckloads per gigawatt of new facility construction.",
-                "The surge in heavy infrastructure logistics coincides with a contracting pool of national long-haul motor carriers and drivers.",
-                "Project forwarders and flatbed fleets are shifting specialized equipment away from standard industrial freight toward high-yield technology corridor builds.",
-                "Shippers face tightening flatbed and specialized trailer capacity alongside escalating spot rates across major technology development hubs."
+                "The Office of the United States Trade Representative moved forward with Section 301 tariffs targeting forced labor practices across 60 trading partners.",
+                "The regulatory transition comes as temporary Section 122 emergency duties expire across primary import categories.",
+                "Legal challenges have intensified as 25 U.S. states filed suit questioning the administrative authorization of the new tariff framework.",
+                "Importers must conduct immediate supply chain audits to establish origin verification and prevent customs clearance delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINERS: SEALEAD CARRIER LIQUIDATION",
+            "nextUpTease": "MARITIME: SUPERTANKER FREIGHT SURGE",
             "tags": [
-                "Source: https://www.joc.com/article/data-centers-pulling-on-already-shrinking-pool-of-us-truck-capacity",
-                "Published: 2026-08-10T08:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
+                "Published: 2026-08-10T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CONTAINERS: SEALEAD CARRIER LIQUIDATION",
+            "heading": "MARITIME: SUPERTANKER FREIGHT SURGE",
             "points": [
-                "Singapore-registered ocean carrier SeaLead Shipping entered voluntary liquidation after recent U.S. sanctions disrupted its core operating capital.",
-                "The sudden shutdown has terminated major container liner services operating between Asia, the Middle East, the Mediterranean, and Baltic ports.",
-                "Rival ocean carriers and tonnage providers are rapidly absorbing SeaLead's vessel fleet and container assets to maintain regional loop continuity.",
-                "Freight forwarders must immediately re-book impacted cargo and secure alternative slot allocations across active Middle East and Mediterranean trade routes."
+                "Charter rates for Very Large Crude Carriers on benchmark Middle East routes approached $500,000 per day amid escalating geopolitical conflict.",
+                "A series of drone and missile strikes targeting Middle Eastern energy infrastructure has drastically elevated ocean transit risk profiles.",
+                "Marine underwriters have instituted steep war risk premiums while vessel operators evaluate long-distance rerouting strategies.",
+                "Global energy supply networks face immediate freight cost inflation and restricted tanker availability across core trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ TOLL PROPOSALS",
+            "nextUpTease": "ENERGY: US SPR RESERVES DROP",
             "tags": [
-                "Source: https://theloadstar.com/sealeads-sanctions-death-spiral-a-compliance-case-study-for-every-forwarder",
-                "Published: 2026-08-10T07:30:00Z",
+                "Source: https://www.ttnews.com/articles/supertanker-fee-benchmark-route-nears-500000-day",
+                "Published: 2026-08-10T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: HORMUZ TOLL PROPOSALS",
+            "heading": "ENERGY: US SPR RESERVES DROP",
             "points": [
-                "International shipping bodies called on the UN and IMO to intervene as Iran and Oman discuss transit tolls for the Strait of Hormuz.",
-                "Crude oil prices spiked above $85 per barrel as maritime underwriters and tanker operators evaluate potential transit surcharge structures.",
-                "Naval escorts and commercial rerouting strategies continue along Persian Gulf corridors while bilateral transit negotiations proceed.",
-                "Energy supply chains and ocean freight networks face sustained operational friction and elevated insurance premiums across Middle Eastern shipping lanes."
+                "U.S. Strategic Petroleum Reserve crude inventories declined below 300 million barrels, marking the lowest stockpiles since 1983.",
+                "The reserve drawdown reflects sustained government releases to offset global energy supply disruptions and stabilize domestic fuel costs.",
+                "Energy analysts warn that diminished strategic reserves reduce the buffer against potential Middle Eastern crude delivery cuts.",
+                "Commercial fuel buyers and fleet operators face heightened market volatility and rising diesel prices through Q3 2026."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSING: FLEET ROBOTIC AUTOMATION",
+            "nextUpTease": "TRUCKING: FMCSA ENGLISH RULES",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/10/us-oil-price-hits-80-as-doubt-grows-washington-and-tehran-will-reach-strait-of-hormuz-deal.html",
-                "Published: 2026-08-10T06:15:00Z",
+                "Source: https://www.cnbc.com/2026/08/10/oil-in-us-strategic-petroleum-reserve-falls-below-300-million-barrels.html",
+                "Published: 2026-08-10T07:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "WAREHOUSING: FLEET ROBOTIC AUTOMATION",
+            "heading": "TRUCKING: FMCSA ENGLISH RULES",
             "points": [
-                "Major logistics providers FedEx and Amazon are accelerating warehouse robotics deployments to automate trailer loading and package sorting.",
-                "FedEx introduced specialized automated trailer loading systems at its Maryland hub, while Amazon plans to double its robotic arm count in 2026.",
-                "Intralogistics automation is targeting labor bottlenecks and high-volume parcel processing demands across key fulfillment networks.",
-                "Retailers and parcel shippers stand to gain improved outbound dock velocity and reduced sorting error rates during peak handling cycles."
+                "The Federal Motor Carrier Safety Administration initiated formal rulemaking to lock in strict English language proficiency standards for drivers.",
+                "The regulatory move follows targeted enforcement sweeps that sidelined over 26,000 non-compliant commercial motor vehicle drivers.",
+                "Federal regulators are pairing the rule tightening with recruitment pushes designed to transition military veterans into commercial driving careers.",
+                "Motor carriers must audit driver qualification files and operational compliance to avoid severe safety rating penalties during inspections."
             ],
             "imageUrl": "",
-            "nextUpTease": "SEMICONDUCTORS: POLYSILICON IMPORT TARIFFS",
+            "nextUpTease": "RAIL: VIRGINIA CSX EXPANSION",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/fedex-amazon-pursue-expanded-use-of-robotic-arms/2026/",
-                "Published: 2026-08-09T20:00:00Z",
+                "Source: https://www.freightwaves.com/news/after-sidelining-26000-truck-drivers-fmcsa-seeks-to-lock-in-english-rules",
+                "Published: 2026-08-09T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SEMICONDUCTORS: POLYSILICON IMPORT TARIFFS",
+            "heading": "RAIL: VIRGINIA CSX EXPANSION",
             "points": [
-                "The U.S. administration imposed a new 15% tariff on foreign polysilicon imports critical for semiconductor and solar panel production.",
-                "The trade action seeks to bolster domestic critical mineral processing while raising import duties for foreign raw material suppliers.",
-                "High-tech manufacturing supply chains are evaluating alternative sourcing corridors to minimize customs duty liability.",
-                "Electronics and solar equipment manufacturers face immediate procurement cost inflation and compliance auditing requirements."
+                "The Port of Virginia launched direct CSX intermodal rail service connecting maritime terminals to an inland container terminal in Indianapolis.",
+                "The new rail corridor enables containerized freight to bypass congested Chicago interchanges and move directly into the Midwest market.",
+                "Port authorities expect the direct link to streamline import velocity while expanding the port's inland distribution footprint.",
+                "Midwestern shippers gain improved transit consistency and lower drayage costs for Transatlantic and Transpacific ocean container flows."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: DAIMLER EPA2027 ENGINES",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-imposes-15-percent-tariff-on-polysilicon-imports/2026/",
-                "Published: 2026-08-09T18:30:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-adds-csx-rail-service-to-indianapolis/723456/",
+                "Published: 2026-08-09T14:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRUCKING: DAIMLER EPA2027 ENGINES",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "points": [
-                "Daimler Truck North America confirmed it will strictly produce EPA 2027-compliant heavy-duty engines ahead of strict federal NOx emission mandates.",
-                "The commercial vehicle manufacturer is committing fully to new emission architectures despite potential regulatory fine threats in other markets.",
-                "Fleet operators are evaluating pre-buy strategies and maintenance requirements for next-generation powertrain systems.",
-                "Motor carriers must prepare capital expenditure budgets for higher equipment costs and updated engine servicing protocols."
+                "U.S. industrial real estate vacancy rates stabilized at 7.3% during Q2 2026 as leasing absorption surpassed new warehouse supply.",
+                "Construction completions slowed following a multi-year development surge, bringing inventory expansion back into balance with market demand.",
+                "Core logistics hubs are witnessing steady tenant demand driven by regional distribution shifts and advanced automated fulfillment requirements.",
+                "Logistics providers face firming rental rates and tightening space availability across major primary industrial corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: HACKED CARGO THEFT RING",
+            "nextUpTease": "PARCEL: USPS SURCHARGE REVENUE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/dtna-epa-2027-engines-nox-rules",
-                "Published: 2026-08-08T15:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance_as_demand_outpaces_new_supply",
+                "Published: 2026-08-10T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LOGISTICS: HACKED CARGO THEFT RING",
+            "heading": "PARCEL: USPS SURCHARGE REVENUE",
             "points": [
-                "A federal grand jury indicted 8 individuals for executing a $4.49M retail cargo theft ring using hacked corporate transportation data.",
-                "The criminal network compromised legitimate freight brokerage systems to fraudulently intercept and reroute high-value retail shipments.",
-                "Logistics providers and 3PLs are upgrading cybersecurity protocols and carrier verification procedures to prevent data breach exploits.",
-                "Shippers must mandate multi-factor authentication and strict identity checks across digital freight booking platforms."
+                "The United States Postal Service reached $20B in quarterly revenue following the strategic implementation of new parcel handling surcharges.",
+                "Despite top-line revenue growth from e-commerce parcel fees, the postal agency reported a $2.5M net loss for the fiscal third quarter.",
+                "Operating revenues dropped 6.1% year-over-year as traditional mail volumes continued their long-term structural decline.",
+                "Marketplace sellers and high-volume parcel shippers must adjust cost models to accommodate rising postal surcharges and rate revisions."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com/news/grand-jury-indicts-8-in-cargo-theft-scheme-tied-to-hacked-data",
-                "Published: 2026-08-08T12:00:00Z",
+                "Source: https://www.freightwaves.com/news/new-parcel-surcharge-helps-postal-service-reach-20b-in-revenue",
+                "Published: 2026-08-09T12:00:00Z",
                 "Status: Audited & True"
             ]
         }
