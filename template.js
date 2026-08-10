@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR implements broad Section 301 tariffs targeting 60 trading partners as Section 122 measures expire, heightening global import compliance exposure."
+        "titleWhite": "DATA HACK CARGO",
+        "titleBlue": "THEFT",
+        "footerSummary": "Federal indictment exposes a $4.49M cyber-enabled freight theft scheme targeting logistics data networks, signaling urgent need for digital supply chain security upgrades."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: FORCED LABOR TARIFFS",
+            "heading": "SECURITY: DATA HACK CARGO THEFT",
             "points": [
-                "The Office of the United States Trade Representative confirmed the immediate execution of Section 301 tariffs across 60 global trading partners as Section 122 duties reach expiration.",
-                "The regulatory shift targets critical supply chains linked to unverified labor practices, enforcing heightened customs audit protocols and import documentation thresholds at US ports.",
-                "Trade compliance executives face immediate duty recalculations and potential container detentions for non-compliant origin declarations across multiple manufacturing hubs.",
-                "Importers must rapidly audit Tier-1 and Tier-2 supplier documentation to verify compliance and prevent costly cargo holds under intensified federal enforcement."
+                "A federal grand jury has indicted 8 individuals involved in a $4.49M fraudulent cargo theft ring using compromised corporate data.",
+                "The cyber-crime network compromised legitimate freight broker logins to fraudulently claim high-value retail shipments across multiple states.",
+                "Infiltrated data allowed perpetrators to intercept freight movements before legitimate carriers were assigned for dispatch.",
+                "Logistics providers must immediately enforce multi-factor authentication and auditing protocols to protect tender management platforms."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND: RHINE LOW WATER",
+            "nextUpTease": "MARITIME: HORMUZ BLOCKADE ENFORCEMENT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
-                "Published: 2026-08-08T22:00:00Z",
+                "Source: https://www.freightwaves.com/news/grand-jury-indicts-8-in-cargo-theft-scheme-tied-to-hacked-data",
+                "Published: 2026-08-07T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INLAND: RHINE LOW WATER",
+            "heading": "MARITIME: HORMUZ BLOCKADE ENFORCEMENT",
             "points": [
-                "Severe low water levels along the Rhine River have severely restricted barge loading capacities, choking central European industrial supply routes.",
-                "Barge operators are applying heavy low-water surcharges while draft limits force vessels to operate at less than 40% of standard cargo capacity.",
-                "Chemical manufacturers and industrial shippers are actively shifting freight to already congested rail and truck networks across Germany and the Netherlands.",
-                "Logistics managers must budget for surging inland freight surcharges and anticipate multi-day transit delays for raw material deliveries."
+                "US naval forces reaffirmed operational control over the Strait of Hormuz, turning away 55 commercial vessels as diplomatic negotiations stall.",
+                "The ongoing maritime blockade enters its fifth month, severely disrupting crude oil transit and commercial ocean freight traffic.",
+                "Container lines and tanker operators are rerouting tonnage around the Cape of Good Hope, adding 10 to 14 days to global transits.",
+                "Ocean freight forwarders must prepare for sustained transit delays and elevated war risk surcharges across Middle East trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINER: SEALEAD SHIPPING LIQUIDATION",
+            "nextUpTease": "MANUFACTURING: DAIMLER TRUCK FACTORY EXPANSION",
             "tags": [
-                "Source: https://theloadstar.com/europes-inland-transport-higher-rates-longer-journeys-and-pressure-on-raw-materials/",
-                "Published: 2026-08-07T18:30:00Z",
+                "Source: https://www.cnbc.com/2026/08/09/us-reaffirms-grip-on-hormuz-blockade-turning-away-55-ships.html",
+                "Published: 2026-08-09T02:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CONTAINER: SEALEAD SHIPPING LIQUIDATION",
+            "heading": "MANUFACTURING: DAIMLER TRUCK FACTORY EXPANSION",
             "points": [
-                "Singapore-based ocean carrier SeaLead Shipping has entered voluntary liquidation, halting its primary container liner services across global trade lanes.",
-                "Rival ocean lines and vessel charterers have rapidly moved to acquire chartered tonnage and container assets released by the carrier's sudden exit.",
-                "The liquidation follows recent regulatory pressures and sanctions scrutiny impacting middle-market ocean container operators across Asia and Europe.",
-                "BCOs and freight forwarders with active bookings must re-route containerized cargo immediately to avoid port impoundment and container delays."
+                "Daimler Truck North America announced plans to construct its largest US commercial vehicle assembly facility set for operational launch in 2029.",
+                "The OEM confirmed it will exclusively produce heavy-duty engines compliant with EPA 2027 emissions standards at the new manufacturing site.",
+                "The strategic capital investment aims to meet surging fleet demand for low-emission diesel and alternative powertrain commercial trucks.",
+                "Fleet managers planning long-term procurement cycles should evaluate upcoming equipment availability ahead of strict federal emissions mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFFS: POLYSILICON IMPORT DUTIES",
+            "nextUpTease": "INTERMODAL: VIRGINIA CSX DIRECT SERVICE",
             "tags": [
-                "Source: https://theloadstar.com/troubled-sealeads-ships-and-boxes-quickly-snapped-up-by-rivals/",
-                "Published: 2026-08-07T16:15:00Z",
+                "Source: https://www.freightwaves.com/news/daimler-to-build-largest-us-truck-manufacturing-plant",
+                "Published: 2026-08-07T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TARIFFS: POLYSILICON IMPORT DUTIES",
+            "heading": "INTERMODAL: VIRGINIA CSX DIRECT SERVICE",
             "points": [
-                "A new federal executive proclamation imposes a 15% tariff and establishing an absolute import price floor on polysilicon imports entering the United States.",
-                "The protective trade action directly impacts solar panel manufacturers and semiconductor supply chains relying heavily on overseas raw silicon processing.",
-                "The regulatory framework seeks to incentivize domestic manufacturing capacity while imposing immediate cost increases on imported renewable components.",
-                "Procurement teams must reassess component sourcing budgets and evaluate domestic vendor alternatives before the mandatory price controls activate."
+                "The Port of Virginia has partnered with CSX Rail to launch direct intermodal container service connecting Norfolk terminals directly to Indianapolis.",
+                "The direct rail connection bypasses traditional rail interchange bottlenecks in Chicago, cutting drayage transit time by up to 48 hours.",
+                "Midwest importers and exporters gain direct access to deepwater ocean terminals without relying on over-the-road long-haul trucking capacity.",
+                "BCOs operating distribution hubs in Indiana should re-evaluate routing options to leverage lower intermodal freight costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "TERMINALS: DP WORLD RESTRUCTURING",
+            "nextUpTease": "E-COMMERCE: AMAZON TITLE LENGTH LIMITS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-polysilicon-tariffs-semiconductor-solar/723891/",
-                "Published: 2026-08-07T21:00:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-service-indianapolis/723892/",
+                "Published: 2026-08-07T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TERMINALS: DP WORLD RESTRUCTURING",
+            "heading": "E-COMMERCE: AMAZON TITLE LENGTH LIMITS",
             "points": [
-                "Global port operator DP World announced a major operational restructuring eliminating 300 positions across its European terminal network.",
-                "The organizational overhaul targets operational efficiencies and management realignment at key hubs, including Southampton and London Gateway.",
-                "The headcount reductions reflect broader ocean terminal adjustments to fluctuating container volumes and changing trade route dynamics.",
-                "Port users should monitor terminal drayage operations for short-term administrative disruptions during the management transition phase."
+                "Amazon has officially enforced a strict policy limiting product title lengths to a maximum of 75 characters across all listings.",
+                "The title character restriction applies to both third-party seller catalog entries and Amazon's first-party retail inventory listings.",
+                "Listings exceeding the 75-character cap risk search suppression and algorithmic rank demotion across mobile and desktop interfaces.",
+                "E-commerce brands and marketplace managers must audit product catalog metadata immediately to maintain search visibility."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: COLLIERS INDUSTRIAL REPORT",
+            "nextUpTease": "FINANCE: TARIFF REFUND MONETIZATION MARKET",
             "tags": [
-                "Source: https://theloadstar.com/300-roles-axed-as-dp-world-looks-to-revamp-european-operations/",
-                "Published: 2026-08-06T14:20:00Z",
+                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy/",
+                "Published: 2026-08-07T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REAL ESTATE: COLLIERS INDUSTRIAL REPORT",
+            "heading": "FINANCE: TARIFF REFUND MONETIZATION MARKET",
             "points": [
-                "Colliers reported a stabilization in North American industrial real estate as net absorption outpaced new warehouse completions in Q2 2026.",
-                "The national industrial vacancy rate decreased by 7 basis points sequentially to 7.3%, signaling a floor in warehouse market inventory oversupply.",
-                "Developer construction pipelines have normalized following historical highs, leading to steadying lease rates across primary logistics gateways.",
-                "Supply chain planners seeking distribution center space should secure long-term leasing terms before tightening availability drives rent increases."
+                "A secondary financial market has emerged allowing importers to sell off rights to potential US customs tariff refunds for fast capital.",
+                "Retail giants including American Eagle Outfitters are monetizing expected duty claim payouts to secure working capital ahead of peak season.",
+                "Financial intermediaries buy the refund claims at a discount, assuming administrative processing risks associated with customs clawbacks.",
+                "Importers with substantial tied-up customs duties should assess secondary market options to accelerate cash flow recovery."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: DATA CENTER DEMAND",
+            "nextUpTease": "BULK SHIPPING: CAPESIZE CHARTER RATE SPIKE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance_colliers",
-                "Published: 2026-08-08T19:45:00Z",
+                "Source: https://www.supplychaindive.com/news/retailers-sell-rights-tariff-refunds-secondary-market/723893/",
+                "Published: 2026-08-07T13:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: DATA CENTER DEMAND",
+            "heading": "BULK SHIPPING: CAPESIZE CHARTER RATE SPIKE",
             "points": [
-                "Sustained global investment in artificial intelligence infrastructure is driving record air freight demand for specialized server hardware and cooling units.",
-                "Air forwarders are leveraging high-yield data center shipments to offset fluctuating consumer e-commerce air cargo volumes on key transpacific lanes.",
-                "Each gigawatt of data center development generates high-density freight movements across international air corridors and specialized domestic drayage.",
-                "Air freight shippers must secure long-term charter capacity to insulate critical supply chains against localized rate spikes and space shortages."
+                "Greek dry bulk operator Diana Shipping secured an 18% charter rate increase for its capesize vessel Florida in a deal with Japan's NYK.",
+                "The 182,063 dwt vessel was fixed at $30,500 per day for a duration of up to 34 months starting in mid-2026.",
+                "Strong global iron ore and bauxite demand continues to tighten capesize vessel availability across Atlantic and Pacific ocean corridors.",
+                "Industrial bulk shippers should lock in long-term charter tonnage now to hedge against escalating spot market transport costs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com/article/data-center-demand-offers-forwarders-value-added-services-beyond-air-freight_20260807.html",
-                "Published: 2026-08-07T12:00:00Z",
+                "Source: https://splash247.com/diana-adds-to-rate-gains-with-new-capesize-fixture/",
+                "Published: 2026-08-10T08:00:00Z",
                 "Status: Audited & True"
             ]
         }

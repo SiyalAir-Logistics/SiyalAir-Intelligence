@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS",
+        "hookTitle": "DATA HACK CARGO THEFT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: FORCED LABOR TARIFFS",
-                "teaserTitle": "INLAND: RHINE LOW WATER",
+                "headline": "SECURITY: DATA HACK CARGO THEFT",
+                "teaserTitle": "MARITIME: HORMUZ BLOCKADE ENFORCEMENT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR enacted Section 301 tariffs across 60 nations as Section 122 duties expired. Importers face mandatory origin audits and potential cargo holds at major US ports."
+                "narration_line": "A federal grand jury indicted 8 individuals in a $4.49M cyber-enabled cargo theft ring. Perpetrators compromised broker logins to intercept retail freight tender data across US highways."
             },
             {
                 "slide_index": 2,
-                "headline": "INLAND: RHINE LOW WATER",
-                "teaserTitle": "CONTAINER: SEALEAD SHIPPING LIQUIDATION",
+                "headline": "MARITIME: HORMUZ BLOCKADE ENFORCEMENT",
+                "teaserTitle": "MANUFACTURING: DAIMLER TRUCK FACTORY EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Critical water levels on the Rhine River restricted barge capacities below 40% of normal payloads. Industrial shippers are re-routing high-density freight to rail and motor carriers."
+                "narration_line": "US naval forces turned away 55 commercial vessels as the Strait of Hormuz blockade hit its 5th month. Ocean carriers are rerouting ships around Africa, adding 14 days to transit schedules."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINER: SEALEAD SHIPPING LIQUIDATION",
-                "teaserTitle": "TARIFFS: POLYSILICON IMPORT DUTIES",
+                "headline": "MANUFACTURING: DAIMLER TRUCK FACTORY EXPANSION",
+                "teaserTitle": "INTERMODAL: VIRGINIA CSX DIRECT SERVICE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "SeaLead Shipping entered voluntary liquidation, abruptly halting mainliner container operations worldwide. Rival ocean carriers are competing to charter released container ships and equipment."
+                "narration_line": "Daimler Truck North America will construct its largest US manufacturing plant by 2029. The OEM confirmed exclusive production of EPA 2027 compliant heavy-duty truck engines."
             },
             {
                 "slide_index": 4,
-                "headline": "TARIFFS: POLYSILICON IMPORT DUTIES",
-                "teaserTitle": "TERMINALS: DP WORLD RESTRUCTURING",
+                "headline": "INTERMODAL: VIRGINIA CSX DIRECT SERVICE",
+                "teaserTitle": "E-COMMERCE: AMAZON TITLE LENGTH LIMITS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A new federal order imposed a 15% tariff alongside strict minimum price floors on polysilicon imports. Renewable energy manufacturers must immediately absorb higher raw material expenses."
+                "narration_line": "The Port of Virginia launched direct CSX rail service connecting Norfolk ocean terminals to Indianapolis. The route bypasses Chicago rail congestion, cutting inland transit time by 48 hours."
             },
             {
                 "slide_index": 5,
-                "headline": "TERMINALS: DP WORLD RESTRUCTURING",
-                "teaserTitle": "REAL ESTATE: COLLIERS INDUSTRIAL REPORT",
+                "headline": "E-COMMERCE: AMAZON TITLE LENGTH LIMITS",
+                "teaserTitle": "FINANCE: TARIFF REFUND MONETIZATION MARKET",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "DP World initiated corporate restructuring to eliminate 300 roles across its European terminal network. Operational teams are realigning management structures at London Gateway and Southampton."
+                "narration_line": "Amazon instituted a strict policy capping product title length at 75 characters. Non-compliant listings face immediate search suppression across desktop and mobile shopping interfaces."
             },
             {
                 "slide_index": 6,
-                "headline": "REAL ESTATE: COLLIERS INDUSTRIAL REPORT",
-                "teaserTitle": "AIR CARGO: DATA CENTER DEMAND",
+                "headline": "FINANCE: TARIFF REFUND MONETIZATION MARKET",
+                "teaserTitle": "BULK SHIPPING: CAPESIZE CHARTER RATE SPIKE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "North American logistics vacancy dropped 7 basis points to 7.3% in Q2 2026. Industrial real estate markets are stabilizing as construction deliveries align with demand."
+                "narration_line": "Retailers are selling rights to pending US customs tariff refunds on secondary markets to raise capital. Financial buyers purchase claims at a discount to accelerate importer cash flow."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: DATA CENTER DEMAND",
+                "headline": "BULK SHIPPING: CAPESIZE CHARTER RATE SPIKE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Surging AI infrastructure builds generated record air freight volumes for server equipment on transpacific routes. Logistics providers are securing dedicated capacity to support gigawatt-scale data centers."
+                "narration_line": "Diana Shipping fixed its capesize vessel Florida at $30.5K per day, marking an 18% rate increase. Strong global iron ore trade continues to tighten bulk shipping capacity."
             },
             {
                 "slide_index": 8,
