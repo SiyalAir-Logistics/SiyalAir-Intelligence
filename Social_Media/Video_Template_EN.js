@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "POLYSILICON TARIFF LEVY IMPOSING 15% IMPORT DUTIES",
+        "hookTitle": "USTR IMPLEMENTS FORCED LABOR TARIFFS ON 60 NATIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SEMICONDUCTORS: POLYSILICON TARIFF LEVY",
-                "teaserTitle": "SECURITY: CYBER CARGO THEFT INDICTMENT",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "RHINE: WATERWAY CONGESTION RISK",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The US government issued a proclamation establishing 15% tariffs on imported polysilicon effective Dec 4. Tech manufacturers face immediate material price increases and restructured component supply chains."
+                "narration_line": "The USTR initiated Section 301 forced labor tariffs on 60 trading partners following Section 122 expiration. Importers are rapidly adjusting cross-border procurement frameworks to prevent customs compliance delays."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: CYBER CARGO THEFT INDICTMENT",
-                "teaserTitle": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+                "headline": "RHINE: WATERWAY CONGESTION RISK",
+                "teaserTitle": "TERMINALS: OCEAN LINE EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A federal grand jury indicted 8 individuals for executing $4.49M in cyber-enabled cargo theft using hacked corporate data. Freight brokerages are urgently deploying enhanced API verification protocols."
+                "narration_line": "Critical Rhine River water levels threatened European inland barge traffic and forced cargo onto road networks. Shippers face rising European inland transport costs and extended transit timelines."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: SEALEAD CARRIER LIQUIDATION",
-                "teaserTitle": "GULF REGION: STRAIT OF HORMUZ TOLLS",
+                "headline": "TERMINALS: OCEAN LINE EXPANSION",
+                "teaserTitle": "MIDDLE EAST: IRAN OIL BLOCKADE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Ocean carrier SeaLead entered voluntary liquidation following US sanctions, halting all container service between Asia and Europe. Competitors are rapidly absorbing fleet assets as forwarders re-route cargo."
+                "narration_line": "An ocean carrier committed $135M to expand key U.S. container terminal facilities and boost throughput. Modernized terminal operations will reduce port dwell times for high-volume transpacific freight."
             },
             {
                 "slide_index": 4,
-                "headline": "GULF REGION: STRAIT OF HORMUZ TOLLS",
-                "teaserTitle": "MANUFACTURING: TOYOTA FORKLIFT EXPANSION",
+                "headline": "MIDDLE EAST: IRAN OIL BLOCKADE",
+                "teaserTitle": "PORT INFRASTRUCTURE: CAPE TOWN BID",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global shipping organizations urged the UN to block proposed transit tolls in the Strait of Hormuz. Unilateral fees threaten to increase transit costs across major energy and maritime trade corridors."
+                "narration_line": "U.S. naval operations halted tanker loading at Iran's main oil terminals near Kharg Island. Commercial energy fleets are maintaining escort protocols to ensure stable Persian Gulf crude distribution."
             },
             {
                 "slide_index": 5,
-                "headline": "MANUFACTURING: TOYOTA FORKLIFT EXPANSION",
-                "teaserTitle": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+                "headline": "PORT INFRASTRUCTURE: CAPE TOWN BID",
+                "teaserTitle": "LITIGATION: BROKER LIABILITY VERDICT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Toyota opened a $100M forklift manufacturing facility in Indiana to expand domestic equipment production. The expansion reduces lead times for commercial warehouse material handling equipment."
+                "narration_line": "Saudi Arabia's RSGT is evaluating a concession bid for the Port of Cape Town's terminal facilities. Infrastructure upgrades aim to eliminate severe South African port congestion along major trade lanes."
             },
             {
                 "slide_index": 6,
-                "headline": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
-                "teaserTitle": "EQUIPMENT: DAIMLER TRUCK FACTORY",
+                "headline": "LITIGATION: BROKER LIABILITY VERDICT",
+                "teaserTitle": "E-COMMERCE: AMAZON TITLE LIMITS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Etsy eliminated 220 positions in a 12% workforce cut after completing its $1.4B Depop divestment to eBay. Management is reallocating capital to optimize core digital marketplace fulfillment."
+                "narration_line": "A landmark court ruling assessed $604M in vicarious liability against freight broker C.H. Robinson. Logistics providers are overhauling carrier vetting systems to manage escalating legal exposure."
             },
             {
                 "slide_index": 7,
-                "headline": "EQUIPMENT: DAIMLER TRUCK FACTORY",
+                "headline": "E-COMMERCE: AMAZON TITLE LIMITS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Daimler Truck North America announced a new US manufacturing plant for 2029 and full EPA 2027 engine compliance. Motor carriers gain long-term fleet asset availability under strict emissions frameworks."
+                "narration_line": "Amazon enforced a 75-character product title limit across all seller listings and first-party inventory. Digital merchants are updating listing software to avoid search suppression across marketplace channels."
             },
             {
                 "slide_index": 8,

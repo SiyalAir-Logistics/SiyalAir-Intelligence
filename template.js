@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "POLYSILICON TARIFF",
-        "titleBlue": "LEVY",
-        "footerSummary": "U.S. establishes 15% tariffs on polysilicon imports effective Dec 4, forcing critical semiconductor and solar supply chains to realign procurement."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR enforces Section 301 tariffs across 60 trading partners to curb forced labor, forcing immediate supply chain trade lane re-routing."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SEMICONDUCTORS: POLYSILICON TARIFF LEVY",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "President Trump issued an executive proclamation establishing a 15% tariff on imported polysilicon used in solar cells and semiconductor manufacturing.",
-                "The proclamation introduces an import price floor effective December 4 to protect domestic solar and technology supply chain infrastructure.",
-                "Global technology manufacturers face immediate cost adjustments across raw material procurement and long-term component sourcing channels.",
-                "Electronics assembly networks must restructure inbound raw material flows to comply with new federal trade boundaries and avoid import surcharges."
+                "The USTR officially initiated Section 301 forced labor tariffs targeting 60 trading partners following the expiration of Section 122 duties.",
+                "Global supply chain networks face immediate customs adjustments across key transpacific and transatlantic trade corridors.",
+                "Importers are restructuring cross-border procurement frameworks to comply with strict regulatory enforcement rules.",
+                "Trade compliance teams must audit vendor origin documentation to prevent unexpected tariff surcharges at U.S. ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CYBER CARGO THEFT INDICTMENT",
+            "nextUpTease": "RHINE: WATERWAY CONGESTION RISK",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-polysilicon-tariff-solar-chips/2026/08/07/",
-                "Published: 2026-08-07T18:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs",
+                "Published: 2026-08-10T02:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SECURITY: CYBER CARGO THEFT INDICTMENT",
+            "heading": "RHINE: WATERWAY CONGESTION RISK",
             "points": [
-                "A federal grand jury indicted 8 members of an international cybercrime ring tied to $4.49M in stolen retail goods.",
-                "The syndicate compromised corporate logistics databases to execute unauthorized cargo pickups and divert high-value freight shipments.",
-                "Freight brokerages and carrier networks are accelerating cybersecurity protocol deployments to prevent credential theft across digital dispatch tools.",
-                "Supply chain operators must audit API integrations and third-party portal authentication mechanisms to eliminate systemic vulnerabilities."
+                "Falling water levels along the Rhine River threaten to disrupt European inland barge transport across major industrial trade corridors.",
+                "Low draft limits are forcing container shipments onto already strained road and rail freight infrastructure networks.",
+                "Logistics providers warn that continued heatwaves could effectively split the critical European waterway into separate operating zones.",
+                "European supply chains face rising inland transport costs and longer transit times for industrial raw materials."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+            "nextUpTease": "TERMINALS: OCEAN LINE EXPANSION",
             "tags": [
-                "Source: https://www.ttnews.com/articles/cargo-theft-indictment-hacked-data",
-                "Published: 2026-08-07T16:30:00Z",
+                "Source: https://theloadstar.com/congestion-fear-as-unnavigable-rhine-means-cargo-shift-to-road-and-rail",
+                "Published: 2026-08-10T04:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+            "heading": "TERMINALS: OCEAN LINE EXPANSION",
             "points": [
-                "Ocean carrier SeaLead Shipping entered voluntary liquidation following recent U.S. sanctions targeting its global maritime network.",
-                "Primary liner services connecting Asia, the Middle East, and the Mediterranean have ceased operations immediately.",
-                "Competing ocean carriers are rapidly absorbing SeaLead's fleet assets and container inventory across active maritime trade corridors.",
-                "Forwarders and beneficial cargo owners must re-route impacted Asia-EMEA containerized freight to mitigate supply chain delays."
+                "A major Asian ocean shipping carrier committed $135M to expand container terminal capacity across strategically vital U.S. ports.",
+                "The infrastructure investment aims to accommodate larger vessel calls and increase container handling throughput efficiency.",
+                "Terminal operators are accelerating automation upgrades to clear container backlogs and streamline intermodal rail transfers.",
+                "Shippers navigating high transpacific container volumes gain enhanced terminal velocity and reduced dwell times."
             ],
             "imageUrl": "",
-            "nextUpTease": "GULF REGION: STRAIT OF HORMUZ TOLLS",
+            "nextUpTease": "MIDDLE EAST: IRAN OIL BLOCKADE",
             "tags": [
-                "Source: https://theloadstar.com/sealead-sanctions-death-spiral-compliance-case-study/",
-                "Published: 2026-08-10T08:00:00Z",
+                "Source: https://www.freightwaves.com/news/asia-ocean-line-135m-expansion-us-box-terminal",
+                "Published: 2026-08-09T22:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GULF REGION: STRAIT OF HORMUZ TOLLS",
+            "heading": "MIDDLE EAST: IRAN OIL BLOCKADE",
             "points": [
-                "International shipping coalitions urged the UN and IMO to block proposed transit fees in the Strait of Hormuz.",
-                "Negotiations between regional nations threaten to impose commercial vessel tolls across the critical energy maritime chokepoint.",
-                "Ocean carriers and tank vessel operators warn that unilateral transit fees will elevate operational costs and global trade friction.",
-                "Maritime underwriters are assessing risk premiums as geopolitical negotiations directly impact vessel transit economics."
+                "U.S. naval operations have successfully halted tanker loading activity at Iran's primary oil export terminals around Kharg Island.",
+                "Satellite tracking confirms loading berths remain completely vacant while commercial Gulf oil transits continue under naval escort.",
+                "Energy logistics networks are recalibrating tanker routing to maintain global crude distribution stability.",
+                "Maritime underwriters maintain elevated risk surcharges across Middle Eastern shipping lanes amid ongoing operational friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: TOYOTA FORKLIFT EXPANSION",
+            "nextUpTease": "PORT INFRASTRUCTURE: CAPE TOWN BID",
             "tags": [
-                "Source: https://www.joc.com/article/global-shipping-calls-un-imo-no-hormuz-tolls",
-                "Published: 2026-08-10T09:15:00Z",
+                "Source: https://maritime-executive.com/article/iran-s-loading-port-is-quiet-but-gulf-oil-is-getting-through-hormuz",
+                "Published: 2026-08-09T18:17:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MANUFACTURING: TOYOTA FORKLIFT EXPANSION",
+            "heading": "PORT INFRASTRUCTURE: CAPE TOWN BID",
             "points": [
-                "Toyota Material Handling opened a $100M forklift production plant in Indiana to expand domestic industrial equipment manufacturing.",
-                "The facility modernizes material handling assembly lines to support surging warehouse automation and distribution infrastructure demand.",
-                "Scaling domestic equipment production offsets global supply chain lead times for specialized logistics material handling systems.",
-                "Enterprise distribution centers gain enhanced access to heavy-duty fleet equipment for high-throughput order fulfillment operations."
+                "Saudi Arabia's Red Sea Gateway Terminal is evaluating a concession bid for the Duncan Dock facility at the Port of Cape Town.",
+                "The strategic expansion marks a deliberate push to expand terminal management operations across South African trade hubs.",
+                "Upgrading terminal infrastructure is critical to eliminating severe port congestion and vessel queuing along African coastal routes.",
+                "Global shipping lines stand to benefit from modernized container handling capabilities and expanded berthing capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+            "nextUpTease": "LITIGATION: BROKER LIABILITY VERDICT",
             "tags": [
-                "Source: https://www.dcvelocity.com/articles/toyota-opens-100-million-forklift-plant-indiana",
-                "Published: 2026-08-07T12:00:00Z",
+                "Source: https://maritime-executive.com/article/saudi-arabia-s-rsgt-considers-bid-for-port-of-cape-town",
+                "Published: 2026-08-09T19:33:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+            "heading": "LITIGATION: BROKER LIABILITY VERDICT",
             "points": [
-                "Etsy announced a 12% workforce reduction affecting 220 employees following its $1.4B sale of Depop to eBay.",
-                "Executive leadership noted that organizational restructuring aims to streamline core e-commerce marketplace operations.",
-                "The strategic divestment allows Etsy to concentrate engineering and operational capital on main consumer shopping platforms.",
-                "Digital marketplace operators continue adjusting corporate overhead as post-pandemic e-commerce volume shifts normalize."
+                "Freight brokerages face severe financial exposure following a landmark $604M vicarious liability court ruling against C.H. Robinson.",
+                "Legal precedent is forcing third-party logistics providers to overhaul carrier vetting and safety verification protocols.",
+                "Shippers and brokers are adjusting contract terms to mitigate vicarious liability risks across highway transport operations.",
+                "Motor carriers must maintain elevated safety scores to retain access to premium freight brokerage networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: DAIMLER TRUCK FACTORY",
+            "nextUpTease": "E-COMMERCE: AMAZON TITLE LIMITS",
             "tags": [
-                "Source: https://www.retaildive.com/news/etsy-slashes-workforce-12-percent-layoffs-depop/",
-                "Published: 2026-08-06T15:45:00Z",
+                "Source: https://www.freightwaves.com/news/ch-robinson-faces-604-million-verdict",
+                "Published: 2026-08-09T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EQUIPMENT: DAIMLER TRUCK FACTORY",
+            "heading": "E-COMMERCE: AMAZON TITLE LIMITS",
             "points": [
-                "Daimler Truck North America announced plans to construct its largest U.S. commercial vehicle manufacturing facility in 2029.",
-                "The OEM confirmed full commitment to EPA 2027 compliant heavy-duty engines to meet strict emissions mandates.",
-                "Long-term fleet production strategy addresses evolving regulatory requirements while securing future Class 8 chassis supply.",
-                "Motor carriers preparing for upcoming emissions standards will gain access to next-generation heavy-duty fleet assets."
+                "Amazon enforced a strict 75-character limit on product titles across all marketplace sellers and its own direct retail listings.",
+                "The structural catalog update standardizes search index display guidelines and eliminates keyword stuffing across categories.",
+                "E-commerce brands are rapidly revising automated listing software to maintain search visibility and prevent catalog suppression.",
+                "Digital merchants must optimize product titles for mobile conversion while adhering to standard formatting rules."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/dtna-largest-us-plant-2029",
-                "Published: 2026-08-07T14:10:00Z",
+                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-also-applies-to-its-own-listings/",
+                "Published: 2026-08-09T14:00:00Z",
                 "Status: Audited & True"
             ]
         }
