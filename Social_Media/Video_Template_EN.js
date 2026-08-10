@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "HORMUZ NAVAL BLOCKADE ESCALATION",
+        "hookTitle": "FORCED LABOR TRADE DUTIES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: HORMUZ NAVAL BLOCKADE",
-                "teaserTitle": "EQUIPMENT: AI ENGINE CAPACITY COMPETITION",
+                "headline": "TARIFFS: FORCED LABOR TRADE DUTIES",
+                "teaserTitle": "TERMINALS: OCEAN LINE EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The US Navy turned away 55 commercial vessels in the Strait of Hormuz amid escalating regional tensions. Ocean carriers are re-routing energy cargoes, adding 14 days to standard transit schedules."
+                "narration_line": "USTR initiated Section 301 tariffs across 60 trading partners following the expiration of Section 122 duties. Importers must revise cross-border compliance documentation to prevent ocean freight delays and tariff surcharges."
             },
             {
                 "slide_index": 2,
-                "headline": "EQUIPMENT: AI ENGINE CAPACITY COMPETITION",
-                "teaserTitle": "ENERGY: BLACK SEA TANKER TRANSIT",
+                "headline": "TERMINALS: OCEAN LINE EXPANSION",
+                "teaserTitle": "INTERMODAL: CSX VIRGINIA RAIL EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "HD Hyundai landed its largest power-engine deal, pitting shipyards against tech giants for heavy equipment. Shipowners face delivery delays beyond 2027 as AI data center demand consumes marine manufacturing capacity."
+                "narration_line": "An Asian ocean carrier committed $135M to expand its dedicated US container terminal operations. The capital injection increases berth throughput capacity by 25% to accommodate growing Transpacific container volumes."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY: BLACK SEA TANKER TRANSIT",
-                "teaserTitle": "INLAND: RHINE LOW WATER DIVERSION",
+                "headline": "INTERMODAL: CSX VIRGINIA RAIL EXPANSION",
+                "teaserTitle": "TRUCKING: FORWARD AIR CAPACITY TIGHTENING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Ukraine established safe transit corridors for Kazakh crude tankers across the Black Sea following US diplomatic intervention. Energy shippers reduced war-risk insurance premiums by 15% across regional maritime export lanes."
+                "narration_line": "Port of Virginia launched direct CSX rail service connecting marine terminals to Indianapolis distribution hubs. Shippers bypass Chicago rail congestion, cutting regional drayage transit by 48 hours."
             },
             {
                 "slide_index": 4,
-                "headline": "INLAND: RHINE LOW WATER DIVERSION",
-                "teaserTitle": "SECURITY: DATA HACK CARGO THEFT",
+                "headline": "TRUCKING: FORWARD AIR CAPACITY TIGHTENING",
+                "teaserTitle": "FULFILLMENT: NORTH CAROLINA DISTRIBUTION CENTER",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Critical Rhine water levels forced European barge operators to cap vessel payloads at 30% capacity. Shippers are shifting 100K tons of inland freight to high-cost road and rail transport networks."
+                "narration_line": "Forward Air leadership confirmed tightening truckload capacity driven by regulatory enforcement and accelerating carrier exits. Spot freight rates are projected to rise as available motor carrier capacity contracts across key lanes."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: DATA HACK CARGO THEFT",
-                "teaserTitle": "TARIFFS: POLYSILICON IMPORT DUTIES",
+                "headline": "FULFILLMENT: NORTH CAROLINA DISTRIBUTION CENTER",
+                "teaserTitle": "CAPACITY: DATA CENTER TRUCKING DEMAND",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A federal grand jury indicted 8 individuals for hijacking corporate data to steal $4.49M in retail freight. Logistics providers are mandating multi-factor security protocols across all freight-matching software platforms."
+                "narration_line": "American Eagle Outfitters invested $41M to construct a modern distribution center in North Carolina. The facility will generate 200 logistics jobs and optimize regional fulfillment across the Southeastern US."
             },
             {
                 "slide_index": 6,
-                "headline": "TARIFFS: POLYSILICON IMPORT DUTIES",
-                "teaserTitle": "TRUCKING: EPA 2027 ENGINE COMPLIANCE",
+                "headline": "CAPACITY: DATA CENTER TRUCKING DEMAND",
+                "teaserTitle": "E-COMMERCE: AMAZON PRODUCT TITLE LIMIT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The US administration announced a 15% tariff and price floor on imported polysilicon effective Dec 4, 2026. Solar and semiconductor manufacturers must restructure raw material procurement streams to avoid import surcharges."
+                "narration_line": "US data center construction requires 100K truckloads per gigawatt, consuming heavy flatbed and specialized freight capacity. Fleet operators are reallocating equipment, tightening available motor carrier capacity for industrial shippers."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING: EPA 2027 ENGINE COMPLIANCE",
+                "headline": "E-COMMERCE: AMAZON PRODUCT TITLE LIMIT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Daimler Truck North America confirmed full compliance with upcoming EPA 2027 zero-emission engine mandates. Fleet operators face a 10% equipment cost increase ahead of strict domestic NOx emissions enforcement."
+                "narration_line": "Amazon implemented a strict 75-character limit on product titles across first-party and third-party listings. Non-compliant catalog entries face immediate search suppression and potential suppression from active customer search algorithms."
             },
             {
                 "slide_index": 8,

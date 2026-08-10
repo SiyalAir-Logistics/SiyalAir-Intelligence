@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "HORMUZ NAVAL",
-        "titleBlue": "BLOCKADE",
-        "footerSummary": "Naval blockade actions in the Strait of Hormuz turn back 55 vessels, triggering immediate rerouting across global energy and ocean container networks."
+        "titleWhite": "FORCED LABOR TRADE",
+        "titleBlue": "DUTIES",
+        "footerSummary": "USTR implements Section 301 tariffs on 60 trading partners, forcing immediate supply chain audit and compliance updates."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: HORMUZ NAVAL BLOCKADE",
+            "heading": "TARIFFS: FORCED LABOR TRADE DUTIES",
             "points": [
-                "The US Navy has turned away 55 commercial vessels near Kharg Island during enforcement of maritime blockade operations.",
-                "Naval tracking consultants report zero active tankers berthed at Iran primary crude export terminals following recent naval interdictions.",
-                "Commercial carriers are re-evaluating transit safety across the Persian Gulf as regional military standoff conditions intensify.",
-                "Energy logistics teams must calculate extended transit days and rising war-risk insurance premiums for all Gulf transits."
+                "The Office of the United States Trade Representative announced yesterday the implementation of new trade duties under Section 301 targeting 60 trading partner nations.",
+                "This regulatory enforcement action directly follows the expiration of emergency Section 122 tariffs, shifting federal import oversight toward strict forced labor compliance frameworks.",
+                "Global shippers and customs brokers must immediately re-audit origin documentation and supply chain vendor tiers to mitigate duty exposure across inbound US trade lanes.",
+                "Importers operating across affected manufacturing origins face higher landed costs and potential cargo holds as Customs and Border Protection strengthens entry verification."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: AI ENGINE CAPACITY COMPETITION",
+            "nextUpTease": "TERMINALS: OCEAN LINE EXPANSION",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/10/us-reaffirms-grip-on-hormuz-blockade-turning-away-55-ships",
-                "Published: 2026-08-10T04:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
+                "Published: 2026-08-09T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "EQUIPMENT: AI ENGINE CAPACITY COMPETITION",
+            "heading": "TERMINALS: OCEAN LINE EXPANSION",
             "points": [
-                "HD Hyundai Heavy Industries secured its largest power-generation engine contract to support artificial intelligence data center expansion.",
-                "The surge in tech-driven power generation orders directly competes with commercial shipyard allocation for marine engine manufacturing.",
-                "Commercial vessel construction schedules face potential bottlenecks as engine builders prioritize high-margin power plant equipment.",
-                "Shipowners planning newbuild container and bulk fleets must secure engine production slots early to avoid long delivery delays."
+                "A major Asian ocean container carrier has committed $135M to expand its dedicated marine terminal infrastructure footprint at key US port facilities.",
+                "The capital investment aims to modernize container handling equipment, expand off-dock storage, and accelerate gate turnaround times for long-haul drayage trucks.",
+                "Expanding carrier-controlled terminal capacity provides dedicated berth access and buffers supply chains against periodic Transpacific port congestion.",
+                "Beneficial cargo owners utilizing the carrier's primary loop services can expect improved container availability and reduced dwell times at gateway ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: BLACK SEA TANKER TRANSIT",
+            "nextUpTease": "INTERMODAL: CSX VIRGINIA RAIL EXPANSION",
             "tags": [
-                "Source: https://splash247.com/ai-boom-puts-shipowners-in-race-with-tech-giants-for-engines",
-                "Published: 2026-08-10T05:15:00Z",
+                "Source: https://www.freightwaves.com/news/asia-ocean-line-135m-expansion-us-box-terminal",
+                "Published: 2026-08-09T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ENERGY: BLACK SEA TANKER TRANSIT",
+            "heading": "INTERMODAL: CSX VIRGINIA RAIL EXPANSION",
             "points": [
-                "Ukraine has agreed to grant safe passage to non-Russian crude oil tankers exporting Kazakh oil across Black Sea shipping routes.",
-                "The diplomatic compromise follows US intervention aimed at stabilizing global crude oil flows and minimizing war-risk market premiums.",
-                "Assurances reduce immediate maritime security threats facing neutral product tankers calling at regional Black Sea export hubs.",
-                "Energy traders can maintain scheduled crude export volumes while monitoring verification mechanisms along active transit lanes."
+                "The Port of Virginia has officially expanded its inland reach by launching direct CSX rail intermodal service connecting East Coast marine terminals directly to Indianapolis.",
+                "The new rail corridor allows ocean containers to move seamlessly into Midwestern logistics markets without routing through heavily congested Chicago rail interchanges.",
+                "Eliminating secondary truck drayage legs reduces regional carbon emissions while shaving 48 hours off total transit times for inbound international freight.",
+                "Midwestern distributors can leverage expanded rail capacity to lower inland shipping costs and stabilize inventory replenishment schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND: RHINE LOW WATER DIVERSION",
+            "nextUpTease": "TRUCKING: FORWARD AIR CAPACITY TIGHTENING",
             "tags": [
-                "Source: https://splash247.com/ukraine-agrees-safe-passage-for-kazakh-crude-tankers",
-                "Published: 2026-08-10T03:30:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-service-indianapolis",
+                "Published: 2026-08-08T14:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INLAND: RHINE LOW WATER DIVERSION",
+            "heading": "TRUCKING: FORWARD AIR CAPACITY TIGHTENING",
             "points": [
-                "Prolonged heatwaves across Europe have driven Rhine River water levels to critically low thresholds, restricting commercial barge draft depth.",
-                "Barge operators are implementing severe cargo load restrictions, forcing European industrial shippers to shift freight to road and rail.",
-                "Inland infrastructure bottlenecking is escalating spot freight rates across central European logistics corridors as capacity tightens.",
-                "Supply chain managers moving raw materials through Germany must secure secondary motor carrier capacity to mitigate barge delays."
+                "Forward Air executive leadership highlighted shifting freight market fundamentals as active motor carrier capacity continues to contract across North American trucking networks.",
+                "Rigorous regulatory enforcement alongside persistent operating cost pressures have accelerated small carrier exits and reduced overall spot market fleet availability.",
+                "Tightening truckload capacity is establishing a firmer floor for contract freight rates as carrier utilization metrics move back toward historical equilibrium.",
+                "Logistics managers should secure long-term routing guide commitments now before impending capacity constraints drive up spot market transport costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: DATA HACK CARGO THEFT",
+            "nextUpTease": "FULFILLMENT: NORTH CAROLINA DISTRIBUTION CENTER",
             "tags": [
-                "Source: https://theloadstar.com/congestion-fear-as-unnavigable-rhine-means-cargo-shift-to-road-and-rail",
-                "Published: 2026-08-10T06:00:00Z",
+                "Source: https://www.ttnews.com/articles/forward-air-q2-2026-earnings",
+                "Published: 2026-08-07T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SECURITY: DATA HACK CARGO THEFT",
+            "heading": "FULFILLMENT: NORTH CAROLINA DISTRIBUTION CENTER",
             "points": [
-                "A federal grand jury indicted 8 members of an organized theft syndicate for stealing $4.49M in high-value retail shipments.",
-                "The criminal network compromised legitimate logistics software credentials to intercept dispatch data and fraudulent load assignments.",
-                "Cyber-enabled strategic theft continues to threaten freight broker networks, driving demand for multi-factor verification tools.",
-                "Freight brokers and dispatchers must strengthen digital identity audits before releasing high-value bills of lading to third parties."
+                "American Eagle Outfitters announced a $41M investment to construct a state-of-the-art regional distribution center in North Carolina scheduled to open in early 2027.",
+                "The facility will span hundreds of thousands of square feet, create over 200 operational logistics jobs, and feature advanced automated picking technologies.",
+                "Establishing a centralized Southeastern hub enhances multi-channel fulfillment velocity and reduces regional parcel transit times for e-commerce deliveries.",
+                "Retail logistics leaders continue to decentralize fulfillment networks to locate inventory closer to core customer populations and reduce final-mile expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFFS: POLYSILICON IMPORT DUTIES",
+            "nextUpTease": "CAPACITY: DATA CENTER TRUCKING DEMAND",
             "tags": [
-                "Source: https://www.ttnews.com/articles/grand-jury-indicts-8-cargo-theft-scheme-hacked-data",
-                "Published: 2026-08-09T18:45:00Z",
+                "Source: https://www.retaildive.com/news/american-eagle-outfitters-distribution-center-north-carolina",
+                "Published: 2026-08-08T11:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TARIFFS: POLYSILICON IMPORT DUTIES",
+            "heading": "CAPACITY: DATA CENTER TRUCKING DEMAND",
             "points": [
-                "The US administration issued a proclamation imposing a 15% import tariff and mandatory price floor on foreign polysilicon shipments.",
-                "The regulatory trade measure, taking effect Dec 4, targets critical raw materials used in solar panels and semiconductor fabrication.",
-                "Domestic solar and tech manufacturers face immediate supply chain cost restructuring to mitigate upcoming duty surcharges.",
-                "Importers must review raw material origin documentation to verify compliance ahead of the official December implementation deadline."
+                "Surging construction of artificial intelligence data centers is absorbing significant domestic truck capacity, requiring 100K truckloads for every gigawatt of power expansion.",
+                "The massive movement of heavy electrical infrastructure, cooling systems, and structural steel is straining flatbed and specialized heavy-haul fleet availability.",
+                "High-margin tech sector logistics contracts are pulling motor carrier assets away from standard industrial and commercial manufacturing supply chains.",
+                "Shippers competing for specialized flatbed and heavy-equipment transportation must forecast capacity requirements early to avoid project delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: EPA 2027 ENGINE COMPLIANCE",
+            "nextUpTease": "E-COMMERCE: AMAZON PRODUCT TITLE LIMIT",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-imposes-15-percent-tariff-polysilicon-imports",
-                "Published: 2026-08-08T20:30:00Z",
+                "Source: https://www.joc.com/article/data-centers-pulling-on-already-shrinking-pool-of-us-truck-capacity",
+                "Published: 2026-08-08T09:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRUCKING: EPA 2027 ENGINE COMPLIANCE",
+            "heading": "E-COMMERCE: AMAZON PRODUCT TITLE LIMIT",
             "points": [
-                "Daimler Truck North America confirmed it will exclusively produce EPA 2027 compliant heavy-duty engines upon regulatory launch.",
-                "The commercial vehicle manufacturer is aligning its product strategy with stricter national nitrogen oxide emission standards.",
-                "Fleet procurement costs are projected to adjust as heavy truck builders integrate advanced clean combustion engine technology.",
-                "Motor carriers should evaluate capital fleet replacement schedules to balance equipment costs against strict federal compliance rules."
+                "Amazon has officially enforced a strict policy capping product listing titles at 75 characters or fewer across its global e-commerce marketplace.",
+                "The updated structural catalog mandate applies equally to third-party seller listings and Amazon first-party retail brand inventory across all categories.",
+                "Listings exceeding the 75-character character threshold face automated search suppression and reduced algorithm ranking visibility across consumer shopping feeds.",
+                "E-commerce brands and marketplace managers must immediately reformat product metadata catalog entries to maintain search indexing and conversion rates."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/dtna-commits-epa-2027-engines-nox-rules",
-                "Published: 2026-08-08T15:10:00Z",
+                "Source: https://www.ecommercebytes.com/C/blog/blog2026/amazon-title-limitations-75-characters",
+                "Published: 2026-08-07T18:00:00Z",
                 "Status: Audited & True"
             ]
         }
