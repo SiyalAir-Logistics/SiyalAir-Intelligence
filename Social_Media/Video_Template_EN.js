@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TRADE DUTIES",
+        "hookTitle": "POLYSILICON TARIFF LEVY IMPOSING 15% IMPORT DUTIES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: FORCED LABOR TRADE DUTIES",
-                "teaserTitle": "TERMINALS: OCEAN LINE EXPANSION",
+                "headline": "SEMICONDUCTORS: POLYSILICON TARIFF LEVY",
+                "teaserTitle": "SECURITY: CYBER CARGO THEFT INDICTMENT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR initiated Section 301 tariffs across 60 trading partners following the expiration of Section 122 duties. Importers must revise cross-border compliance documentation to prevent ocean freight delays and tariff surcharges."
+                "narration_line": "The US government issued a proclamation establishing 15% tariffs on imported polysilicon effective Dec 4. Tech manufacturers face immediate material price increases and restructured component supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "TERMINALS: OCEAN LINE EXPANSION",
-                "teaserTitle": "INTERMODAL: CSX VIRGINIA RAIL EXPANSION",
+                "headline": "SECURITY: CYBER CARGO THEFT INDICTMENT",
+                "teaserTitle": "MARITIME: SEALEAD CARRIER LIQUIDATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An Asian ocean carrier committed $135M to expand its dedicated US container terminal operations. The capital injection increases berth throughput capacity by 25% to accommodate growing Transpacific container volumes."
+                "narration_line": "A federal grand jury indicted 8 individuals for executing $4.49M in cyber-enabled cargo theft using hacked corporate data. Freight brokerages are urgently deploying enhanced API verification protocols."
             },
             {
                 "slide_index": 3,
-                "headline": "INTERMODAL: CSX VIRGINIA RAIL EXPANSION",
-                "teaserTitle": "TRUCKING: FORWARD AIR CAPACITY TIGHTENING",
+                "headline": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+                "teaserTitle": "GULF REGION: STRAIT OF HORMUZ TOLLS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Port of Virginia launched direct CSX rail service connecting marine terminals to Indianapolis distribution hubs. Shippers bypass Chicago rail congestion, cutting regional drayage transit by 48 hours."
+                "narration_line": "Ocean carrier SeaLead entered voluntary liquidation following US sanctions, halting all container service between Asia and Europe. Competitors are rapidly absorbing fleet assets as forwarders re-route cargo."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: FORWARD AIR CAPACITY TIGHTENING",
-                "teaserTitle": "FULFILLMENT: NORTH CAROLINA DISTRIBUTION CENTER",
+                "headline": "GULF REGION: STRAIT OF HORMUZ TOLLS",
+                "teaserTitle": "MANUFACTURING: TOYOTA FORKLIFT EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Forward Air leadership confirmed tightening truckload capacity driven by regulatory enforcement and accelerating carrier exits. Spot freight rates are projected to rise as available motor carrier capacity contracts across key lanes."
+                "narration_line": "Global shipping organizations urged the UN to block proposed transit tolls in the Strait of Hormuz. Unilateral fees threaten to increase transit costs across major energy and maritime trade corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "FULFILLMENT: NORTH CAROLINA DISTRIBUTION CENTER",
-                "teaserTitle": "CAPACITY: DATA CENTER TRUCKING DEMAND",
+                "headline": "MANUFACTURING: TOYOTA FORKLIFT EXPANSION",
+                "teaserTitle": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "American Eagle Outfitters invested $41M to construct a modern distribution center in North Carolina. The facility will generate 200 logistics jobs and optimize regional fulfillment across the Southeastern US."
+                "narration_line": "Toyota opened a $100M forklift manufacturing facility in Indiana to expand domestic equipment production. The expansion reduces lead times for commercial warehouse material handling equipment."
             },
             {
                 "slide_index": 6,
-                "headline": "CAPACITY: DATA CENTER TRUCKING DEMAND",
-                "teaserTitle": "E-COMMERCE: AMAZON PRODUCT TITLE LIMIT",
+                "headline": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+                "teaserTitle": "EQUIPMENT: DAIMLER TRUCK FACTORY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "US data center construction requires 100K truckloads per gigawatt, consuming heavy flatbed and specialized freight capacity. Fleet operators are reallocating equipment, tightening available motor carrier capacity for industrial shippers."
+                "narration_line": "Etsy eliminated 220 positions in a 12% workforce cut after completing its $1.4B Depop divestment to eBay. Management is reallocating capital to optimize core digital marketplace fulfillment."
             },
             {
                 "slide_index": 7,
-                "headline": "E-COMMERCE: AMAZON PRODUCT TITLE LIMIT",
+                "headline": "EQUIPMENT: DAIMLER TRUCK FACTORY",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon implemented a strict 75-character limit on product titles across first-party and third-party listings. Non-compliant catalog entries face immediate search suppression and potential suppression from active customer search algorithms."
+                "narration_line": "Daimler Truck North America announced a new US manufacturing plant for 2029 and full EPA 2027 engine compliance. Motor carriers gain long-term fleet asset availability under strict emissions frameworks."
             },
             {
                 "slide_index": 8,
