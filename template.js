@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DATA HACK CARGO",
-        "titleBlue": "THEFT",
-        "footerSummary": "Federal indictment exposes a $4.49M cyber-enabled freight theft scheme targeting logistics data networks, signaling urgent need for digital supply chain security upgrades."
+        "titleWhite": "FORCED LABOR TARIFF",
+        "titleBlue": "EXPANSION",
+        "footerSummary": "USTR implements Section 301 tariffs on 60 nations as Section 122 expires, targeting supply chain forced labor vulnerabilities."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SECURITY: DATA HACK CARGO THEFT",
+            "heading": "TRADE: FORCED LABOR TARIFF EXPANSION",
             "points": [
-                "A federal grand jury has indicted 8 individuals involved in a $4.49M fraudulent cargo theft ring using compromised corporate data.",
-                "The cyber-crime network compromised legitimate freight broker logins to fraudulently claim high-value retail shipments across multiple states.",
-                "Infiltrated data allowed perpetrators to intercept freight movements before legitimate carriers were assigned for dispatch.",
-                "Logistics providers must immediately enforce multi-factor authentication and auditing protocols to protect tender management platforms."
+                "USTR has initiated Section 301 forced labor tariffs targeting 60 trading partners as temporary Section 122 tariffs expire.",
+                "The regulatory shift imposes new import duties and heightened compliance audits across global manufacturing supply chains.",
+                "Importers face strict operational requirements to trace tier-1 and tier-2 raw material origin frameworks.",
+                "Supply chain managers must audit supplier labor documentation to avoid port entry rejections and customs holds."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ BLOCKADE ENFORCEMENT",
+            "nextUpTease": "MARITIME: SEALEAD SHIPPING VOLUNTARY LIQUIDATION",
             "tags": [
-                "Source: https://www.freightwaves.com/news/grand-jury-indicts-8-in-cargo-theft-scheme-tied-to-hacked-data",
-                "Published: 2026-08-07T14:30:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs_on_60_trading_partners",
+                "Published: 2026-08-09T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HORMUZ BLOCKADE ENFORCEMENT",
+            "heading": "MARITIME: SEALEAD SHIPPING VOLUNTARY LIQUIDATION",
             "points": [
-                "US naval forces reaffirmed operational control over the Strait of Hormuz, turning away 55 commercial vessels as diplomatic negotiations stall.",
-                "The ongoing maritime blockade enters its fifth month, severely disrupting crude oil transit and commercial ocean freight traffic.",
-                "Container lines and tanker operators are rerouting tonnage around the Cape of Good Hope, adding 10 to 14 days to global transits.",
-                "Ocean freight forwarders must prepare for sustained transit delays and elevated war risk surcharges across Middle East trade lanes."
+                "Singapore-registered container carrier SeaLead Shipping has entered voluntary liquidation following recent US sanctions.",
+                "The shutdown immediately halts all primary liner services operating across Asia, Middle East, Mediterranean, and Baltic routes.",
+                "Ocean carriers and vessel charterers are rapidly reallocating displaced container tonnage and equipment across active lanes.",
+                "BCOs with active SeaLead bookings must secure immediate alternative carrier capacity to prevent severe transit disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: DAIMLER TRUCK FACTORY EXPANSION",
+            "nextUpTease": "VESSELS: BOUND4BLUE WIND PROPULSION INSTALLATION",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/09/us-reaffirms-grip-on-hormuz-blockade-turning-away-55-ships.html",
-                "Published: 2026-08-09T02:00:00Z",
+                "Source: https://theloadstar.com/troubled-sealeads-ships-and-boxes-quickly-snapped-up-by-rivals",
+                "Published: 2026-08-09T14:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MANUFACTURING: DAIMLER TRUCK FACTORY EXPANSION",
+            "heading": "VESSELS: BOUND4BLUE WIND PROPULSION INSTALLATION",
             "points": [
-                "Daimler Truck North America announced plans to construct its largest US commercial vehicle assembly facility set for operational launch in 2029.",
-                "The OEM confirmed it will exclusively produce heavy-duty engines compliant with EPA 2027 emissions standards at the new manufacturing site.",
-                "The strategic capital investment aims to meet surging fleet demand for low-emission diesel and alternative powertrain commercial trucks.",
-                "Fleet managers planning long-term procurement cycles should evaluate upcoming equipment availability ahead of strict federal emissions mandates."
+                "Bound4blue completed installation of its suction sail wind-assisted propulsion system on a newbuild multipurpose cargo ship.",
+                "The mechanical eSail technology directly reduces fuel consumption and carbon emissions on commercial maritime voyages.",
+                "The installation marks the first operational deployment of suction sail wind systems within the multipurpose cargo vessel segment.",
+                "Fleet operators are monitoring performance metrics as maritime decarbonization mandates drive wind-assisted technology adoption."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: VIRGINIA CSX DIRECT SERVICE",
+            "nextUpTease": "EQUIPMENT: TOYOTA INDIANA FORKLIFT PLANT",
             "tags": [
-                "Source: https://www.freightwaves.com/news/daimler-to-build-largest-us-truck-manufacturing-plant",
-                "Published: 2026-08-07T11:00:00Z",
+                "Source: https://maritime-executive.com/article/first-multipurpose-cargo-vessel-installs-wind-assisted-propulsion",
+                "Published: 2026-08-08T19:13:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INTERMODAL: VIRGINIA CSX DIRECT SERVICE",
+            "heading": "EQUIPMENT: TOYOTA INDIANA FORKLIFT PLANT",
             "points": [
-                "The Port of Virginia has partnered with CSX Rail to launch direct intermodal container service connecting Norfolk terminals directly to Indianapolis.",
-                "The direct rail connection bypasses traditional rail interchange bottlenecks in Chicago, cutting drayage transit time by up to 48 hours.",
-                "Midwest importers and exporters gain direct access to deepwater ocean terminals without relying on over-the-road long-haul trucking capacity.",
-                "BCOs operating distribution hubs in Indiana should re-evaluate routing options to leverage lower intermodal freight costs."
+                "Toyota has opened a new $100M forklift manufacturing facility in Indiana to expand material handling equipment production.",
+                "The capital expansion increases domestic assembly capacity for electric and internal combustion industrial lift trucks.",
+                "Enhanced manufacturing footprint directly addresses growing DC demand for warehouse material handling infrastructure.",
+                "Logistics facility operators can expect improved equipment lead times and expanded fleet procurement availability."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON TITLE LENGTH LIMITS",
+            "nextUpTease": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-service-indianapolis/723892/",
-                "Published: 2026-08-07T16:00:00Z",
+                "Source: https://www.dcvelocity.com/articles/58392-toyota-opens-100-million-forklift-plant-in-indiana",
+                "Published: 2026-08-08T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "E-COMMERCE: AMAZON TITLE LENGTH LIMITS",
+            "heading": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
             "points": [
-                "Amazon has officially enforced a strict policy limiting product title lengths to a maximum of 75 characters across all listings.",
-                "The title character restriction applies to both third-party seller catalog entries and Amazon's first-party retail inventory listings.",
-                "Listings exceeding the 75-character cap risk search suppression and algorithmic rank demotion across mobile and desktop interfaces.",
-                "E-commerce brands and marketplace managers must audit product catalog metadata immediately to maintain search visibility."
+                "Etsy announced a 12% workforce reduction impacting 220 employees following a $1.4B cash infusion from selling Depop.",
+                "The strategic restructuring aims to streamline operational costs while reallocating corporate capital toward core marketplace tech.",
+                "Executive leadership confirmed the headcount reductions are designed to boost corporate margins and long-term platform scale.",
+                "Marketplace sellers should anticipate continued adjustments to seller support channels and platform fee structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: TARIFF REFUND MONETIZATION MARKET",
+            "nextUpTease": "PARCEL: USPS GROUND ADVANTAGE RATE INCREASE",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy/",
-                "Published: 2026-08-07T09:00:00Z",
+                "Source: https://www.ecommercebytes.com/2026/08/06/etsy-announces-layoffs-after-1-4-billion-infusion-in-cash/",
+                "Published: 2026-08-08T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FINANCE: TARIFF REFUND MONETIZATION MARKET",
+            "heading": "PARCEL: USPS GROUND ADVANTAGE RATE INCREASE",
             "points": [
-                "A secondary financial market has emerged allowing importers to sell off rights to potential US customs tariff refunds for fast capital.",
-                "Retail giants including American Eagle Outfitters are monetizing expected duty claim payouts to secure working capital ahead of peak season.",
-                "Financial intermediaries buy the refund claims at a discount, assuming administrative processing risks associated with customs clawbacks.",
-                "Importers with substantial tied-up customs duties should assess secondary market options to accelerate cash flow recovery."
+                "The US Postal Service has implemented targeted rate increases across Ground Advantage shipping services for e-commerce sellers.",
+                "The price adjustment impacts marketplace merchants utilizing small and medium parcel distribution networks across domestic zones.",
+                "Higher postal surcharges continue a broader trend of carrier rate increases hitting last-mile e-commerce fulfillment.",
+                "Online retailers must recalculate parcel shipping margins or adjust customer order checkout delivery fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "BULK SHIPPING: CAPESIZE CHARTER RATE SPIKE",
+            "nextUpTease": "INFRASTRUCTURE: DATA CENTER TRUCK CAPACITY STRAIN",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/retailers-sell-rights-tariff-refunds-secondary-market/723893/",
-                "Published: 2026-08-07T13:15:00Z",
+                "Source: https://www.ecommercebytes.com/2026/07/25/usps-raises-package-rates-for-marketplaces-sellers/",
+                "Published: 2026-08-08T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "BULK SHIPPING: CAPESIZE CHARTER RATE SPIKE",
+            "heading": "INFRASTRUCTURE: DATA CENTER TRUCK CAPACITY STRAIN",
             "points": [
-                "Greek dry bulk operator Diana Shipping secured an 18% charter rate increase for its capesize vessel Florida in a deal with Japan's NYK.",
-                "The 182,063 dwt vessel was fixed at $30,500 per day for a duration of up to 34 months starting in mid-2026.",
-                "Strong global iron ore and bauxite demand continues to tighten capesize vessel availability across Atlantic and Pacific ocean corridors.",
-                "Industrial bulk shippers should lock in long-term charter tonnage now to hedge against escalating spot market transport costs."
+                "Rapid US data center expansion is pulling heavy truckload capacity away from conventional commercial freight corridors.",
+                "Industry analysis shows each gigawatt of data center construction requires approximately 100K truckloads of specialized freight.",
+                "The surging industrial demand threatens to tighten flatbed and specialized heavy-haul truck capacity in key regional markets.",
+                "Industrial shippers should lock in specialized carrier contracts to hedge against localized truckload capacity shortages."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://splash247.com/diana-adds-to-rate-gains-with-new-capesize-fixture/",
-                "Published: 2026-08-10T08:00:00Z",
+                "Source: https://www.joc.com/article/data-centers-pulling-on-already-shrinking-pool-of-us-truck-capacity",
+                "Published: 2026-08-09T11:15:00Z",
                 "Status: Audited & True"
             ]
         }

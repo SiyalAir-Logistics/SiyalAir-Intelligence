@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DATA HACK CARGO THEFT",
+        "hookTitle": "FORCED LABOR TARIFF EXPANSION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SECURITY: DATA HACK CARGO THEFT",
-                "teaserTitle": "MARITIME: HORMUZ BLOCKADE ENFORCEMENT",
+                "headline": "TRADE: FORCED LABOR TARIFF EXPANSION",
+                "teaserTitle": "MARITIME: SEALEAD SHIPPING VOLUNTARY LIQUIDATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A federal grand jury indicted 8 individuals in a $4.49M cyber-enabled cargo theft ring. Perpetrators compromised broker logins to intercept retail freight tender data across US highways."
+                "narration_line": "USTR implemented Section 301 forced labor tariffs on 60 trading partners as Section 122 tariffs expire. The regulatory mandate forces importers to conduct immediate origin audits across multi-tier supplier networks."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ BLOCKADE ENFORCEMENT",
-                "teaserTitle": "MANUFACTURING: DAIMLER TRUCK FACTORY EXPANSION",
+                "headline": "MARITIME: SEALEAD SHIPPING VOLUNTARY LIQUIDATION",
+                "teaserTitle": "VESSELS: BOUND4BLUE WIND PROPULSION INSTALLATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "US naval forces turned away 55 commercial vessels as the Strait of Hormuz blockade hit its 5th month. Ocean carriers are rerouting ships around Africa, adding 14 days to transit schedules."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation following US sanctions, immediately shutting down container operations across Asia and the Mediterranean. Competing ocean carriers are rapidly absorbing displaced vessel tonnage to minimize trade disruptions."
             },
             {
                 "slide_index": 3,
-                "headline": "MANUFACTURING: DAIMLER TRUCK FACTORY EXPANSION",
-                "teaserTitle": "INTERMODAL: VIRGINIA CSX DIRECT SERVICE",
+                "headline": "VESSELS: BOUND4BLUE WIND PROPULSION INSTALLATION",
+                "teaserTitle": "EQUIPMENT: TOYOTA INDIANA FORKLIFT PLANT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Daimler Truck North America will construct its largest US manufacturing plant by 2029. The OEM confirmed exclusive production of EPA 2027 compliant heavy-duty truck engines."
+                "narration_line": "Bound4blue completed installation of its eSail suction sail system on a newbuild multipurpose cargo ship. The wind-assisted propulsion technology reduces vessel fuel consumption and overall carbon emissions."
             },
             {
                 "slide_index": 4,
-                "headline": "INTERMODAL: VIRGINIA CSX DIRECT SERVICE",
-                "teaserTitle": "E-COMMERCE: AMAZON TITLE LENGTH LIMITS",
+                "headline": "EQUIPMENT: TOYOTA INDIANA FORKLIFT PLANT",
+                "teaserTitle": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Port of Virginia launched direct CSX rail service connecting Norfolk ocean terminals to Indianapolis. The route bypasses Chicago rail congestion, cutting inland transit time by 48 hours."
+                "narration_line": "Toyota opened a new $100M forklift assembly plant in Indiana to increase material handling production. The facility expansion boosts domestic lift truck supply to meet growing distribution center demand."
             },
             {
                 "slide_index": 5,
-                "headline": "E-COMMERCE: AMAZON TITLE LENGTH LIMITS",
-                "teaserTitle": "FINANCE: TARIFF REFUND MONETIZATION MARKET",
+                "headline": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+                "teaserTitle": "PARCEL: USPS GROUND ADVANTAGE RATE INCREASE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon instituted a strict policy capping product title length at 75 characters. Non-compliant listings face immediate search suppression across desktop and mobile shopping interfaces."
+                "narration_line": "Etsy cut 12% of its workforce impacting 220 staff following a $1.4B cash infusion from selling Depop. Executive leadership aims to streamline operational costs and redirect capital toward core marketplace technologies."
             },
             {
                 "slide_index": 6,
-                "headline": "FINANCE: TARIFF REFUND MONETIZATION MARKET",
-                "teaserTitle": "BULK SHIPPING: CAPESIZE CHARTER RATE SPIKE",
+                "headline": "PARCEL: USPS GROUND ADVANTAGE RATE INCREASE",
+                "teaserTitle": "INFRASTRUCTURE: DATA CENTER TRUCK CAPACITY STRAIN",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Retailers are selling rights to pending US customs tariff refunds on secondary markets to raise capital. Financial buyers purchase claims at a discount to accelerate importer cash flow."
+                "narration_line": "USPS raised package rates for Ground Advantage shipping across domestic marketplace seller accounts. Online merchants must recalibrate last-mile logistics budgets to maintain margin profitability."
             },
             {
                 "slide_index": 7,
-                "headline": "BULK SHIPPING: CAPESIZE CHARTER RATE SPIKE",
+                "headline": "INFRASTRUCTURE: DATA CENTER TRUCK CAPACITY STRAIN",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Diana Shipping fixed its capesize vessel Florida at $30.5K per day, marking an 18% rate increase. Strong global iron ore trade continues to tighten bulk shipping capacity."
+                "narration_line": "US data center expansion requires 100K truckloads per gigawatt, consuming critical specialized fleet capacity. Shippers face tighter flatbed availability and potential rate pressure across primary logistics corridors."
             },
             {
                 "slide_index": 8,
