@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFF IMPLEMENTATION",
+        "hookTitle": "GEMINI COOPERATION RESTORES ROUTE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: FORCED LABOR TARIFF IMPLEMENTATION",
-                "teaserTitle": "MARITIME: ARCTIC ICE SILK ROAD SERVICE",
+                "headline": "SUEZ CANAL: GEMINI COOPERATION RESTORES ROUTE",
+                "teaserTitle": "CARRIER SANCTIONS: SEALEAD IN LIQUIDATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR implemented Section 301 tariffs across 60 trading nations on Aug 10, 2026. Importers must audit tier-1 supply lines to prevent immediate Customs cargo holds."
+                "narration_line": "Maersk and Hapag-Lloyd restored another Gemini Cooperation service loop through the Suez Canal. Vessel operators are adjusting itineraries to capitalize on reduced Asia-Europe transit schedules."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: ARCTIC ICE SILK ROAD SERVICE",
-                "teaserTitle": "AUTOMATION: FEDEX AND AMAZON ROBOTIC DEPLOYMENT",
+                "headline": "CARRIER SANCTIONS: SEALEAD IN LIQUIDATION",
+                "teaserTitle": "CDL REGULATION: FMCSA ENFORCES ENGLISH RULES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Sea Legend Line activated the 1st regular container service along Russia's Northern Sea Route. Transit times between China and Northern Europe are projected to drop by 12 days."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation following recent U.S. trade sanctions. Competing carriers rapidly absorbed 100% of available chartered vessels across key Middle East corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "AUTOMATION: FEDEX AND AMAZON ROBOTIC DEPLOYMENT",
-                "teaserTitle": "INLAND FREIGHT: EUROPEAN RHINE WATERWAY DROUGHT",
+                "headline": "CDL REGULATION: FMCSA ENFORCES ENGLISH RULES",
+                "teaserTitle": "RAIL INTERMODAL: VIRGINIA ADDS CSX ROUTE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "FedEx deployed automated trailer loading systems while Amazon plans to double its 2026 robotic arm fleet. Operations aim to reduce hub processing bottlenecks by 18%."
+                "narration_line": "FMCSA proposed strict English language proficiency rules for commercial driver license holders. Safety inspectors will enforce immediate out-of-service orders during roadside carrier inspections."
             },
             {
                 "slide_index": 4,
-                "headline": "INLAND FREIGHT: EUROPEAN RHINE WATERWAY DROUGHT",
-                "teaserTitle": "REGULATION: EU DAIMLER TRUCK EMISSIONS PENALTIES",
+                "headline": "RAIL INTERMODAL: VIRGINIA ADDS CSX ROUTE",
+                "teaserTitle": "PARCEL RATES: USPS LEVIES FUEL SURCHARGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Falling Rhine water levels in Europe forced barge operators to divert container volumes to road and rail. Regional inland freight spot rates increased 22% this week."
+                "narration_line": "Port of Virginia launched direct CSX rail service to the Indianapolis intermodal hub. The service bypasses Chicago bottlenecks, cutting transit times for Midwest container imports."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: EU DAIMLER TRUCK EMISSIONS PENALTIES",
-                "teaserTitle": "TRADE POLICY: US POLYSILICON IMPORT TARIFFS",
+                "headline": "PARCEL RATES: USPS LEVIES FUEL SURCHARGE",
+                "teaserTitle": "ENERGY FREIGHT: SUPERTANKER RATES NEARS 500K",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Daimler Truck faces a potential 1B euro fine under strict European Union fleet emissions mandates. The OEM reported investing 2B euros into zero-emission vehicle platforms."
+                "narration_line": "USPS introduced a package fuel surcharge alongside 4-cent stamp hikes to generate $20B in Q3. Shippers face elevated last-mile expenses entering peak shipping season."
             },
             {
                 "slide_index": 6,
-                "headline": "TRADE POLICY: US POLYSILICON IMPORT TARIFFS",
-                "teaserTitle": "E-COMMERCE: ETSY POST ACQUISITION WORKFORCE CUTS",
+                "headline": "ENERGY FREIGHT: SUPERTANKER RATES NEARS 500K",
+                "teaserTitle": "WAREHOUSING: AHOLD CANCELS AUTOMATED HUBS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The US enacted a 15% tariff on imported polysilicon targeted for solar and semiconductor manufacturing. Supply chain costs for domestic solar developers will rise by $140M annually."
+                "narration_line": "Supertanker charter fees on Middle East routes escalated toward $500K daily amid Strait of Hormuz tension. Elevated maritime risk premiums continue driving up landed global energy costs."
             },
             {
                 "slide_index": 7,
-                "headline": "E-COMMERCE: ETSY POST ACQUISITION WORKFORCE CUTS",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "WAREHOUSING: AHOLD CANCELS AUTOMATED HUBS",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Etsy eliminated 220 corporate positions following its $1.4B sale of Depop to eBay. The 12% headcount reduction standardizes operational margins across remaining marketplace channels."
+                "narration_line": "Ahold Delhaize cancelled 2 planned automated frozen warehouses to bring inbound freight management in-house. Grocers are prioritizing existing footprint efficiency over massive greenfield automation projects."
             },
             {
                 "slide_index": 8,

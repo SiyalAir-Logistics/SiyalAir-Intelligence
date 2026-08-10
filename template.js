@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR TARIFF",
-        "titleBlue": "IMPLEMENTATION",
-        "footerSummary": "USTR implements Section 301 tariffs across 60 trading partners following Section 122 expirations, driving mandatory supply chain origin audits."
+        "titleWhite": "GEMINI COOPERATION RESTORES",
+        "titleBlue": "ROUTE",
+        "footerSummary": "Gemini Cooperation restores trans-Suez vessel transits as carrier capacity realigns across volatile maritime trade lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: FORCED LABOR TARIFF IMPLEMENTATION",
+            "heading": "SUEZ CANAL: GEMINI COOPERATION RESTORES ROUTE",
             "points": [
-                "The Office of the United States Trade Representative formally instituted Section 301 tariffs targeting 60 trading nations as temporary Section 122 duty frameworks officially expired.",
-                "Federal compliance mandates require mandatory trade audits and electronic origin certification to clear incoming containerized shipments through primary U.S. entry ports.",
-                "Enterprise logistics divisions are re-evaluating tier-1 sourcing networks and adjusting customs compliance workflows to prevent potential border holds.",
-                "Trade compliance directors project elevated landed costs and increased customs clearance timelines across affected international commerce corridors."
+                "Ocean carriers Maersk and Hapag-Lloyd confirmed the restoration of an additional Gemini Cooperation service through the Suez Canal following updated security assessments.",
+                "The deployment marks the first major liner service returning to the trans-Suez corridor since regional maritime disruptions escalated in July 2026.",
+                "Container operators are auditing vessel schedules and bunkering logistics to optimize transit times between Asia and European discharge ports.",
+                "Industry analysts anticipate potential adjustments in spot rate premiums and bunker surcharges as vessel loops transition away from extended Cape routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: ARCTIC ICE SILK ROAD SERVICE",
+            "nextUpTease": "CARRIER SANCTIONS: SEALEAD IN LIQUIDATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
-                "Published: 2026-08-10T14:00:00Z",
+                "Source: https://maritime-executive.com/article/maersk-and-hapag-lloyd-restore-another-gemini-route-to-suez",
+                "Published: 2026-08-10T14:06:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: ARCTIC ICE SILK ROAD SERVICE",
+            "heading": "CARRIER SANCTIONS: SEALEAD IN LIQUIDATION",
             "points": [
-                "Chinese ocean carrier Sea Legend Line initiated scheduled container liner operations along Russia's Northern Sea Route, establishing a dedicated Arctic transit corridor.",
-                "The Arctic service aims to bypass conventional maritime chokepoints, providing direct vessel transit between commercial hubs in East Asia and Northern Europe.",
-                "Ocean freight forwarders are evaluating route reliability and seasonal icebreaker support parameters to determine cargo allocation strategies.",
-                "Maritime analysts expect the Arctic deployment to reduce ocean transit schedules by up to 12 days compared to standard Suez Canal routing."
+                "Singapore-based liner SeaLead Shipping initiated voluntary liquidation proceedings following severe commercial pressures triggered by U.S. sanctions.",
+                "Competing ocean carriers have rapidly absorbed SeaLead vessel charters and container assets across key Asia-Middle East and Mediterranean trade corridors.",
+                "Non-vessel operating common carriers are re-routing affected containerized cargo to prevent port impoundment and documentation delays.",
+                "Maritime legal experts project accelerated fleet consolidation among regional carriers operating under heightened international regulatory scrutiny."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION: FEDEX AND AMAZON ROBOTIC DEPLOYMENT",
+            "nextUpTease": "CDL REGULATION: FMCSA ENFORCES ENGLISH RULES",
             "tags": [
-                "Source: https://maritime-executive.com/article/china-s-sea-legend-poised-to-launch-first-regular-ice-silk-road-service",
-                "Published: 2026-08-10T16:30:00Z",
+                "Source: https://www.joc.com/article/carrier-sealead-ends-operations-weeks-after-us-sanctions-hit_20260810.html",
+                "Published: 2026-08-10T15:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AUTOMATION: FEDEX AND AMAZON ROBOTIC DEPLOYMENT",
+            "heading": "CDL REGULATION: FMCSA ENFORCES ENGLISH RULES",
             "points": [
-                "FedEx expanded automated trailer loading systems across major regional sorting hubs while Amazon confirmed plans to double its operational robotic arm footprint in 2026.",
-                "The automated handling systems utilize advanced computer vision to optimize package placement density and speed up parcel throughput.",
-                "Fulfillment center operations are integrating physical AI systems to mitigate warehouse labor shortages and standardize package sorting workflows.",
-                "Supply chain technology experts forecast elevated sorting efficiency and reduced dock door turnaround times across automated distribution facilities."
+                "The Federal Motor Carrier Safety Administration published a proposed rule tightening English language proficiency enforcement for commercial driver license holders.",
+                "Federal safety inspectors will enforce immediate out-of-service orders for non-compliant drivers during roadside safety audits across all U.S. freight corridors.",
+                "Motor carrier compliance officers are auditing driver qualification files and updating operational testing protocols to maintain fleet active status.",
+                "Freight brokerages anticipate localized driver capacity constraints across cross-border drayage networks and intermodal transfer points."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND FREIGHT: EUROPEAN RHINE WATERWAY DROUGHT",
+            "nextUpTease": "RAIL INTERMODAL: VIRGINIA ADDS CSX ROUTE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/fedex-amazon-robotic-arms-warehouse-automation/723120/",
-                "Published: 2026-08-10T15:15:00Z",
+                "Source: https://www.ttnews.com/articles/fmcsa-english-proficiency-rule",
+                "Published: 2026-08-10T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INLAND FREIGHT: EUROPEAN RHINE WATERWAY DROUGHT",
+            "heading": "RAIL INTERMODAL: VIRGINIA ADDS CSX ROUTE",
             "points": [
-                "Prolonged heatwaves across Central Europe reduced Rhine River water levels to critical thresholds, rendering key river segments unnavigable for fully loaded barges.",
-                "Barge operators have enforced strict load restrictions, forcing European shippers to divert bulk container volumes toward regional rail and motor transport networks.",
-                "Intermodal logistics planners are restructuring inland supply chains across Germany and Northern Europe to secure alternative freight capacity.",
-                "Freight rate index providers report immediate upward pressure on European overland trucking and rail spot rates due to sudden capacity demand."
+                "The Port of Virginia launched a direct CSX intermodal rail service linking deepwater marine terminals directly to the Indianapolis inland logistics hub.",
+                "The new rail corridor bypasses traditional Chicago rail interchange bottlenecks, reducing transit times for import containers bound for Midwest distribution centers.",
+                "Inland logistics planners are shifting regional container volumes to rail to mitigate rising highway trucking rates and drayage congestion.",
+                "Supply chain executives project improved inventory velocity and lower carbon intensity metrics for regional consumer goods supply networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: EU DAIMLER TRUCK EMISSIONS PENALTIES",
+            "nextUpTease": "PARCEL RATES: USPS LEVIES FUEL SURCHARGE",
             "tags": [
-                "Source: https://theloadstar.com/rhine-water-levels-drop-forcing-cargo-shift-to-road-rail/",
-                "Published: 2026-08-10T13:45:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-service-indianapolis/723200/",
+                "Published: 2026-08-10T13:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REGULATION: EU DAIMLER TRUCK EMISSIONS PENALTIES",
+            "heading": "PARCEL RATES: USPS LEVIES FUEL SURCHARGE",
             "points": [
-                "Commercial vehicle manufacturer Daimler Truck faces potential European Union regulatory penalties of 1B euros linked to strict heavy-duty fleet emissions compliance targets.",
-                "The OEM stated that zero-emission truck commercialization efforts remain underway, though market adoption rates vary across European jurisdictions.",
-                "Fleet procurement managers are tracking regulatory compliance timelines while assessing battery-electric and hydrogen commercial vehicle total cost of ownership models.",
-                "Industry executives anticipate ongoing policy discussions regarding transition timelines and fleet decarbonization incentives across the European Union."
+                "The United States Postal Service implemented its first-ever package fuel surcharge alongside a 4-cent stamp increase to offset rising transportation costs.",
+                "Postal operational filings indicate Q3 revenue reached $20B despite ongoing structural cash constraints across the national delivery network.",
+                "E-commerce merchants and high-volume shippers are auditing parcel expense structures to absorb higher last-mile delivery expenditures.",
+                "Logistics analysts forecast rate parity shifts between postal services and private parcel carriers during the upcoming peak shipping season."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: US POLYSILICON IMPORT TARIFFS",
+            "nextUpTease": "ENERGY FREIGHT: SUPERTANKER RATES NEARS 500K",
             "tags": [
-                "Source: https://www.ttnews.com/articles/eu-could-fine-daimler-truck-1b-euros",
-                "Published: 2026-08-10T12:00:00Z",
+                "Source: https://www.freightwaves.com/news/postal-service-new-parcel-surcharge-20b-revenue",
+                "Published: 2026-08-10T12:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRADE POLICY: US POLYSILICON IMPORT TARIFFS",
+            "heading": "ENERGY FREIGHT: SUPERTANKER RATES NEARS 500K",
             "points": [
-                "The U.S. administration enacted a 15% import tariff on foreign polysilicon, directly impacting international procurement pipelines for solar technology and microchips.",
-                "The trade policy measure aims to incentivize domestic production capabilities while realigning critical technology supply chains away from high-risk foreign suppliers.",
-                "Procurement teams within technology and renewable energy sectors are auditing supplier agreements and adjusting component sourcing strategies.",
-                "Market analysts project increased raw material input costs for domestic solar module assembly and semiconductor fabrication plants."
+                "Charter rates for Very Large Crude Carriers on benchmark Middle East export routes surged toward $500K per day amid regional geopolitical instability.",
+                "Heightened maritime risk premiums and naval transit uncertainties in the Strait of Hormuz have significantly elevated tanker operating costs.",
+                "Energy logistics operators are securing long-term charter agreements and adjusting route itineraries to safeguard global crude oil supply lines.",
+                "Commodity traders project sustained volatility in landed energy prices, directly impacting global bunker fuel surcharges across commercial shipping."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: ETSY POST ACQUISITION WORKFORCE CUTS",
+            "nextUpTease": "WAREHOUSING: AHOLD CANCELS AUTOMATED HUBS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-15-percent-tariff-polysilicon-imports/723150/",
-                "Published: 2026-08-07T18:30:00Z",
+                "Source: https://www.ttnews.com/articles/supertanker-rate-surge-hormuz",
+                "Published: 2026-08-10T10:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "E-COMMERCE: ETSY POST ACQUISITION WORKFORCE CUTS",
+            "heading": "WAREHOUSING: AHOLD CANCELS AUTOMATED HUBS",
             "points": [
-                "E-commerce platform Etsy reduced its workforce by 12% following the completion of its $1.4B divestment of apparel marketplace Depop to eBay.",
-                "Corporate restructuring plans aim to streamline marketplace operational structures, lower operating expenses, and align resources around core platform technologies.",
-                "E-commerce fulfillment partners and platform sellers are monitoring potential administrative shifts in marketplace support operations.",
-                "Financial analysts indicate that marketplace operators are prioritizing operational efficiency and profitability over rapid platform expansion strategies."
+                "Retail grocery group Ahold Delhaize cancelled plans to construct 2 automated frozen warehouses, shifting inbound logistics back to in-house management.",
+                "The corporate pivot reflects strategic efforts to control operational expenditures and optimize existing fulfillment center footprint efficiency.",
+                "3PL providers and warehouse automation vendors are reassessing capital expenditure schedules for complex automated cold-storage facilities.",
+                "Industry experts anticipate grocery supply chains will focus on modular technology integration rather than capital-intensive greenfield automation."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/06/etsy-announces-layoffs-after-infusion/",
-                "Published: 2026-08-06T20:00:00Z",
+                "Source: https://www.supplychaindive.com/news/ahold-delhaize-automated-frozen-warehouses/723210/",
+                "Published: 2026-08-10T09:30:00Z",
                 "Status: Audited & True"
             ]
         }
