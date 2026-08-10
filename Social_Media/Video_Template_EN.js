@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "$135M US BOX EXPANSION",
+        "hookTitle": "FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TERMINALS: $135M US BOX EXPANSION",
-                "teaserTitle": "SECURITY: $4.5M HACKED CARGO THEFT",
+                "headline": "TRADE: FORCED LABOR TARIFFS",
+                "teaserTitle": "INLAND: RHINE LOW WATER",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An ocean container carrier committed $135M to expand its U.S. West Coast marine terminal footprint. The capital investment expands automated gantry crane capacity to handle ultra-large container vessels."
+                "narration_line": "The USTR enacted Section 301 tariffs across 60 nations as Section 122 duties expired. Importers face mandatory origin audits and potential cargo holds at major US ports."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: $4.5M HACKED CARGO THEFT",
-                "teaserTitle": "FLEET: DTNA EPA 2027 ENGINES",
+                "headline": "INLAND: RHINE LOW WATER",
+                "teaserTitle": "CONTAINER: SEALEAD SHIPPING LIQUIDATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A federal grand jury indicted 8 individuals in an international cyber-ring that stole $4.5M in freight. The cyber-attack breached motor carrier databases to execute fraudulent driver dispatches."
+                "narration_line": "Critical water levels on the Rhine River restricted barge capacities below 40% of normal payloads. Industrial shippers are re-routing high-density freight to rail and motor carriers."
             },
             {
                 "slide_index": 3,
-                "headline": "FLEET: DTNA EPA 2027 ENGINES",
-                "teaserTitle": "MARITIME: SINO-RUSSIAN NAVAL FLOTILLA",
+                "headline": "CONTAINER: SEALEAD SHIPPING LIQUIDATION",
+                "teaserTitle": "TARIFFS: POLYSILICON IMPORT DUTIES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Daimler Truck North America confirmed it will exclusively offer fully compliant EPA 2027 heavy-duty commercial engines. The commercial move forces motor carriers to adjust equipment pre-buy strategies ahead of strict emissions rules."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation, abruptly halting mainliner container operations worldwide. Rival ocean carriers are competing to charter released container ships and equipment."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: SINO-RUSSIAN NAVAL FLOTILLA",
-                "teaserTitle": "SUSTAINABILITY: WIND-ASSISTED CARGO PROPULSION",
+                "headline": "TARIFFS: POLYSILICON IMPORT DUTIES",
+                "teaserTitle": "TERMINALS: DP WORLD RESTRUCTURING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A joint naval flotilla completed a 16-day circumnavigation of Japan and surrounding island trade channels. Escalating naval maneuvers near critical maritime routes require ocean planners to monitor regional transit advisories."
+                "narration_line": "A new federal order imposed a 15% tariff alongside strict minimum price floors on polysilicon imports. Renewable energy manufacturers must immediately absorb higher raw material expenses."
             },
             {
                 "slide_index": 5,
-                "headline": "SUSTAINABILITY: WIND-ASSISTED CARGO PROPULSION",
-                "teaserTitle": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
+                "headline": "TERMINALS: DP WORLD RESTRUCTURING",
+                "teaserTitle": "REAL ESTATE: COLLIERS INDUSTRIAL REPORT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Bound4blue completed installing its eSail suction system on a multipurpose cargo ship to reduce fuel burn. The mechanical retrofit helps non-standardized vessel fleets meet strict IMO carbon intensity compliance rules."
+                "narration_line": "DP World initiated corporate restructuring to eliminate 300 roles across its European terminal network. Operational teams are realigning management structures at London Gateway and Southampton."
             },
             {
                 "slide_index": 6,
-                "headline": "E-COMMERCE: ETSY WORKFORCE REDUCTION",
-                "teaserTitle": "INTERMODAL: VIRGINIA INDIANAPOLIS CSX RAIL",
+                "headline": "REAL ESTATE: COLLIERS INDUSTRIAL REPORT",
+                "teaserTitle": "AIR CARGO: DATA CENTER DEMAND",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Etsy eliminated 220 positions in a 12% workforce cut following its $1.4B Depop divestment. The corporate restructuring optimizes operational cost structures amid shifting online discretionary retail demand."
+                "narration_line": "North American logistics vacancy dropped 7 basis points to 7.3% in Q2 2026. Industrial real estate markets are stabilizing as construction deliveries align with demand."
             },
             {
                 "slide_index": 7,
-                "headline": "INTERMODAL: VIRGINIA INDIANAPOLIS CSX RAIL",
+                "headline": "AIR CARGO: DATA CENTER DEMAND",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Port of Virginia launched direct CSX intermodal rail service connecting East Coast terminals to Indianapolis. The direct rail link bypasses Chicago intermodal bottlenecks to cut Midwest transit times by 48 hours."
+                "narration_line": "Surging AI infrastructure builds generated record air freight volumes for server equipment on transpacific routes. Logistics providers are securing dedicated capacity to support gigawatt-scale data centers."
             },
             {
                 "slide_index": 8,
