@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "HORMUZ STRAIT TRANSIT",
-        "titleBlue": "TOLLS",
-        "footerSummary": "Iran and Oman negotiate shipping tolls for the Strait of Hormuz as supertanker charter rates approach $500K daily amid heightened Middle East transit risks."
+        "titleWhite": "BOEING 737 MAX",
+        "titleBlue": "INSPECTIONS",
+        "footerSummary": "FAA issues emergency airworthiness directives ordering structural inspections on Boeing 737 MAX aircraft as cargo operators audit fleet availability."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: HORMUZ STRAIT TRANSIT TOLLS",
+            "heading": "AVIATION: BOEING 737 MAX INSPECTIONS",
             "points": [
-                "Iran and Oman have initiated preliminary bilateral discussions regarding a new regulatory framework to impose transit tolls on commercial vessels navigating through the Strait of Hormuz.",
-                "Global maritime trade associations have called upon the United Nations and the International Maritime Organization to guarantee unhindered freedom of navigation across international chokepoints.",
-                "VLCC supertanker charter rates on benchmark Middle East Gulf routes have surged toward $500K per day as war risk insurance premiums elevate ocean freight charges.",
-                "Energy supply chains face structural cost increases and routing adjustments while container carriers and tanker operators evaluate alternative maritime corridors."
+                "The Federal Aviation Administration issued airworthiness directives requiring targeted structural inspections for Boeing 737 MAX aircraft following reports of airframe fatigue and fuselage cracking.",
+                "Regulators expanded oversight parameters beyond initial fleet batches after safety inspectors identified potential stress vulnerabilities in newer production airframes.",
+                "Air cargo operators and express package carriers utilizing 737 MAX freighter variants are conducting mandatory maintenance audits to evaluate operational availability.",
+                "Logistics providers anticipate minor regional capacity adjustments while commercial carriers perform required ultrasonic fuselage scans to verify structural integrity compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: CHICAGO CLEARING YARD CONGESTION",
+            "nextUpTease": "MARITIME: SEALEAD SHIPPING VOLUNTARY LIQUIDATION",
             "tags": [
-                "Source: https://www.joc.com/article/global-shipping-calls-on-un-imo-to-ensure-no-hormuz-tolls",
-                "Published: 2026-08-10T11:00:00Z",
+                "Source: https://www.supplychainbrain.com/articles/40012-faa-orders-boeing-to-inspect-737-max-planes",
+                "Published: 2026-08-11T02:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL: CHICAGO CLEARING YARD CONGESTION",
+            "heading": "MARITIME: SEALEAD SHIPPING VOLUNTARY LIQUIDATION",
             "points": [
-                "Severe operational bottlenecks at Chicago's primary Clearing Yard have created widespread intermodal rail congestion and extended interchange dwell times across Midwest freight hubs.",
-                "Operational adjustments enacted by CSX Transportation triggered systemic interchange delays, impacting connecting service lines operated by Union Pacific and Norfolk Southern.",
-                "Intermodal logistics managers report rising container dwell times at regional ramps, forcing drayage motor carriers to absorb extended driver detention hours.",
-                "Freight shippers are actively re-routing transcontinental rail intermodal volumes away from Chicago interchange terminals to bypass escalating inland congestion."
+                "Singapore-headquartered container carrier SeaLead Shipping entered voluntary liquidation after recent U.S. financial sanctions disrupted global banking and vessel chartering operations.",
+                "Primary ocean liner services connecting East Asian manufacturing hubs with Middle East, Mediterranean, and Baltic Sea trade lanes have ceased operating immediately.",
+                "Competing ocean carriers and tonnage providers are rapidly reallocating container assets and acquiring charter slots to absorb displaced containerized freight volumes.",
+                "Freight forwarders are redirecting Asia-Middle East bookings toward alternative ocean liners to minimize transit disruptions and secure long-haul container capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS: EU DUTY-FREE TAX REFORM",
+            "nextUpTease": "RAIL: PORT OF VIRGINIA INDIANAPOLIS SERVICE",
             "tags": [
-                "Source: https://theloadstar.com/chicagos-busiest-rail-yard-is-choking-and-csx-lit-the-fuse/",
-                "Published: 2026-08-10T10:15:00Z",
+                "Source: https://theloadstar.com/troubled-sealeads-ships-and-boxes-quickly-snapped-up-by-rivals/",
+                "Published: 2026-08-10T23:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CUSTOMS: EU DUTY-FREE TAX REFORM",
+            "heading": "RAIL: PORT OF VIRGINIA INDIANAPOLIS SERVICE",
             "points": [
-                "Global air cargo yields and cargo transport volumes experienced a sharp decline following the European Union's elimination of duty-free tax exemptions on low-value e-commerce imports.",
-                "Customs regulatory shifts removed structural tax advantages for direct-to-consumer parcel shipments originating from Asia, shifting cross-border trade economics.",
-                "Air freight forwarders operating out of East Asian export hubs are adjusting capacity commitments to align with reduced cross-border package volumes.",
-                "E-commerce platforms are restructuring European fulfillment networks by shifting toward regional inventory stocking and ocean freight consolidation."
+                "The Port of Virginia launched direct intermodal rail service to Indianapolis in collaboration with CSX Transportation to bypass Midwest rail interchange chokepoints.",
+                "The direct rail corridor enables import containers to bypass congested Chicago interchange terminals, reducing inland transit times for Midwest distribution networks.",
+                "Intermodal logistics managers are re-routing ocean container traffic through the Port of Virginia to optimize velocity and avoid regional drayage delays.",
+                "Port authorities expect expanded rail connectivity to boost container throughput while offering shippers reliable access to key Ohio Valley distribution markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: CASPIAN PIPELINE BLACK SEA PROTECTION",
+            "nextUpTease": "TRADE POLICY: SECONDARY TARIFF REFUND MARKETS",
             "tags": [
-                "Source: https://www.joc.com/article/air-cargo-rates-volume-slump-after-eu-duty-free-tax-reform",
-                "Published: 2026-08-10T09:45:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-service-indianapolis/723100/",
+                "Published: 2026-08-10T22:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ENERGY: CASPIAN PIPELINE BLACK SEA PROTECTION",
+            "heading": "TRADE POLICY: SECONDARY TARIFF REFUND MARKETS",
             "points": [
-                "Under diplomatic pressure from the United States, Ukraine agreed to halt maritime drone attacks targeting foreign-flag crude oil tankers operating near the Caspian Pipeline Consortium terminal.",
-                "The diplomatic consensus stabilizes crude oil export flows through Black Sea maritime channels following recent security disruptions affecting global energy markets.",
-                "Energy logistics planners and tanker charterers anticipate a reduction in Black Sea war risk surcharges as maritime security guarantees take hold.",
-                "International oil traders are restoring commercial charter contracts for Black Sea loadings while maintaining rigorous security monitoring protocols."
+                "Major U.S. retail importers are monetizing potential trade tariff refund claims through specialized secondary financial markets to accelerate liquidity acquisition.",
+                "Financial institutions and institutional investors are purchasing legal rights to pending Section 301 and IEEPA trade refund claims at discounted valuation rates.",
+                "Retail supply chain executives are utilizing duty recovery proceeds to bolster working capital amid persistent global supply chain operating uncertainties.",
+                "Legal experts anticipate secondary duty claim trading will increase as importers seek immediate cash flow over protracted customs litigation timelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: EU EMISSIONS DAIMLER PENALTY",
+            "nextUpTease": "E-COMMERCE: AMAZON PRODUCT TITLE LIMITS",
             "tags": [
-                "Source: https://maritime-executive.com/article/ukraine-agrees-under-u-s-pressure-to-stop-attacks-on-caspian-pipeline",
-                "Published: 2026-08-10T08:50:00Z",
+                "Source: https://www.retaildive.com/news/retailers-sell-off-rights-tariff-refunds-secondary-market/723050/",
+                "Published: 2026-08-10T21:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REGULATION: EU EMISSIONS DAIMLER PENALTY",
+            "heading": "E-COMMERCE: AMAZON PRODUCT TITLE LIMITS",
             "points": [
-                "European regulatory authorities have signaled potential fines reaching $1B for Daimler Truck regarding alleged non-compliance with regional fleet carbon emission targets.",
-                "Commercial vehicle manufacturers are encountering stricter enforcement standards as European Union regulators intensify oversight on heavy-duty diesel transport.",
-                "Fleet operators across Europe face potential capital expenditure increases as original equipment manufacturers pass compliance costs to end users.",
-                "Logistics providers are re-evaluating fleet acquisition schedules to ensure alignment with next-generation zero-emission commercial vehicle mandates."
+                "Amazon enforced a strict 75-character limit on product listing titles across third-party merchant accounts and proprietary retail product categories.",
+                "The policy update aims to optimize mobile marketplace search indexing, standardize catalog structured data, and reduce keyword stuffing practices.",
+                "E-commerce logistics and catalog operations teams are re-optimizing inventory listings to ensure compliance and avoid algorithm search suppression.",
+                "Marketplace analytics providers report that streamlined titles improve customer conversions while standardizing product identification parameters across fulfillment channels."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL: FMC DETENTION FEE FLUIDITY RULING",
+            "nextUpTease": "REGULATION: FMCSA ENGLISH PROFICIENCY ENFORCEMENT",
             "tags": [
-                "Source: https://www.ttnews.com/articles/eu-daimler-truck-emissions-fine",
-                "Published: 2026-08-10T08:00:00Z",
+                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-also-applies-to-its-own-listings/",
+                "Published: 2026-08-10T19:50:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LEGAL: FMC DETENTION FEE FLUIDITY RULING",
+            "heading": "REGULATION: FMCSA ENGLISH PROFICIENCY ENFORCEMENT",
             "points": [
-                "The U.S. Court of Appeals for the D.C. Circuit upheld the Federal Maritime Commission ruling mandating that ocean carrier detention charges must serve to incentivize cargo movement.",
-                "The judicial decision affirms federal authority to penalize ocean liners for issuing container detention fees during periods of terminal closure or port congestion.",
-                "Importers and non-vessel-operating common carriers gain legal backing to dispute improper detention and demurrage invoices issued by ocean carriers.",
-                "Global container shipping lines must reconfigure administrative billing practices to ensure strict compliance with federal freight fluidity standards."
+                "The Federal Motor Carrier Safety Administration proposed formal rulemaking to tighten English language proficiency enforcement during roadside commercial motor vehicle inspections.",
+                "Federal transportation safety statistics indicate that stricter language compliance standards aim to improve highway safety and standardized driver-inspector communication.",
+                "Motor carriers operating in cross-border freight corridors are auditing driver credentials to ensure full compliance with federal safety regulations.",
+                "Industry associations anticipate potential driver driver availability adjustments as enforcement agencies implement standardized evaluation protocols at port terminals."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL: USPS MARKETPLACE RATE INCREASES",
+            "nextUpTease": "ENERGY: US STRATEGIC PETROLEUM RESERVE",
             "tags": [
-                "Source: https://www.fmc.gov/news/us-court-of-appeals-upholds-fmc-detention-fee-ruling",
-                "Published: 2026-08-10T07:10:00Z",
+                "Source: https://www.ttnews.com/articles/proposed-fmcsa-rule-targets-english-proficiency-enforcement",
+                "Published: 2026-08-10T18:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PARCEL: USPS MARKETPLACE RATE INCREASES",
+            "heading": "ENERGY: US STRATEGIC PETROLEUM RESERVE",
             "points": [
-                "The United States Postal Service implemented immediate package rate increases on its Ground Advantage service targeting high-volume e-commerce marketplace sellers.",
-                "The postal rate adjustment follows reported third-quarter operating losses as the postal service attempts to stabilize network delivery revenue.",
-                "Online sellers and e-commerce platforms are experiencing elevated last-mile shipping expenses across domestic distribution routes.",
-                "Logistics managers are auditing parcel routing options and evaluating private regional parcel carriers to mitigate escalating postal surcharges."
+                "U.S. Strategic Petroleum Reserve crude inventories fell below 300M barrels, marking the lowest operational reserve volume recorded since 1983.",
+                "Sustained crude drawdowns and geopolitical disruptions in primary energy corridors have tightened global fuel supplies and increased diesel fuel price volatility.",
+                "Commercial fleet managers and freight logistics operators are implementing fuel surcharge adjustments to manage rising diesel operating expenses.",
+                "Energy analysts project continued upward pressure on transportation fuel costs as global energy reserves remain constrained through peak shipping season."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/09/usps-raises-package-rates-for-marketplaces-sellers/",
-                "Published: 2026-08-09T22:30:00Z",
+                "Source: https://www.cnbc.com/2026/08/10/oil-in-us-strategic-petroleum-reserve-falls-below-300-million-barrels.html",
+                "Published: 2026-08-10T17:00:00Z",
                 "Status: Audited & True"
             ]
         }
