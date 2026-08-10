@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR IMPLEMENTS SECTION 301 FORCED LABOR TARIFFS",
+        "hookTitle": "TRADE: POLYSILICON IMPORT TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: SUPERTANKER FREIGHT SURGE",
+                "headline": "TRADE: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "MARITIME: SEALEAD CARRIER LIQUIDATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR expanded Section 301 tariffs on 60 trading partners to replace expiring Section 122 duties. Importers face immediate compliance audits and elevated duty costs across global supply chains."
+                "narration_line": "The U.S. government imposed a 15% tariff on imported polysilicon for solar panels and microchips. Importers face immediate supply chain cost increases and must audit raw material origin pathways."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SUPERTANKER FREIGHT SURGE",
-                "teaserTitle": "ENERGY: US SPR RESERVES DROP",
+                "headline": "MARITIME: SEALEAD CARRIER LIQUIDATION",
+                "teaserTitle": "INLAND: RHINE WATERWAY DROUGHT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Supertanker charter fees on benchmark Middle East routes approached $500K per day amid escalating maritime risks. Tanker operators and refiners face surging transportation expenses across international ocean lanes."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation following targeted U.S. sanctions impact. Competitors swiftly absorbed charter vessels and container fleets to re-route stalled Middle East and Baltic cargo."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY: US SPR RESERVES DROP",
-                "teaserTitle": "TRUCKING: FMCSA ENGLISH RULES",
+                "headline": "INLAND: RHINE WATERWAY DROUGHT",
+                "teaserTitle": "OCEAN: HORMUZ STRAIT TOLL PROPOSALS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "U.S. Strategic Petroleum Reserve crude levels fell below 300M barrels, reaching the lowest recorded inventory since 1983. Energy markets face heightened volatility as emergency supply buffers continue to contract rapidly."
+                "narration_line": "Falling Rhine River water levels reduced barge carrying capacities by over 50%. Shippers are diverting heavy industrial freight to overland rail and trucking corridors, driving up European spot rates."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: FMCSA ENGLISH RULES",
-                "teaserTitle": "RAIL: VIRGINIA CSX EXPANSION",
+                "headline": "OCEAN: HORMUZ STRAIT TOLL PROPOSALS",
+                "teaserTitle": "PORTS: CAPE TOWN TERMINAL BID",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "FMCSA initiated formal rulemaking to lock in English language requirements after taking 26K commercial drivers off U.S. roads. Motor carriers must adjust hiring protocols to comply with tightened federal enforcement standards."
+                "narration_line": "Global maritime bodies urged the IMO to reject proposed transit tolls in the Strait of Hormuz. Unilateral fees threaten to increase commercial vessel operating costs across strategic oil and freight lanes."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: VIRGINIA CSX EXPANSION",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "headline": "PORTS: CAPE TOWN TERMINAL BID",
+                "teaserTitle": "AUTOMATION: FEDEX TRAILER ROBOTICS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Port of Virginia launched direct CSX intermodal rail service connecting marine terminals directly to Indianapolis. Midwestern shippers bypass Chicago rail bottlenecks to reduce transit times and lower drayage costs."
+                "narration_line": "Saudi Arabia's RSGT evaluated a concession bid for Cape Town's Duncan Dock terminal. Private port capital aims to resolve berth congestion and upgrade Southern African multi-purpose handling infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
-                "teaserTitle": "PARCEL: USPS SURCHARGE REVENUE",
+                "headline": "AUTOMATION: FEDEX TRAILER ROBOTICS",
+                "teaserTitle": "FINANCE: TARIFF REFUND MONETIZATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "U.S. industrial real estate vacancy stabilized at 7.3% during Q2 2026 as tenant absorption outpaced new warehouse deliveries. Industrial tenants face firming lease rates and reduced availability for prime logistics facilities."
+                "narration_line": "FedEx deployed autonomous robotic trailer loading systems across Maryland distribution hubs. Real-time spatial vision tech increases package trailer density and speeds up dock-to-dock fulfillment cycles."
             },
             {
                 "slide_index": 7,
-                "headline": "PARCEL: USPS SURCHARGE REVENUE",
+                "headline": "FINANCE: TARIFF REFUND MONETIZATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "USPS recorded $20B in quarterly revenue after instituting dedicated parcel surcharges across marketplace shipping channels. Logistics providers face higher postal delivery fees while evaluating carrier diversification options."
+                "narration_line": "Enterprise retailers sell rights to potential customs tariff refunds to private financial firms for immediate cash. Monetizing duty claims provides quick working capital liquidity while shifting administrative risk."
             },
             {
                 "slide_index": 8,

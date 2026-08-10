@@ -1,126 +1,126 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
+        "titleWhite": "POLYSILICON IMPORT",
         "titleBlue": "TARIFFS",
-        "footerSummary": "USTR implements Section 301 tariffs across 60 trading nations as Section 122 duties expire, forcing immediate compliance audits."
+        "footerSummary": "New 15% U.S. polysilicon tariffs hit solar and chip supply networks as importers audit origin compliance and recalculate import duty costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "TRADE: POLYSILICON IMPORT TARIFFS",
             "points": [
-                "The Office of the United States Trade Representative moved forward with Section 301 tariffs targeting forced labor practices across 60 trading partners.",
-                "The regulatory transition comes as temporary Section 122 emergency duties expire across primary import categories.",
-                "Legal challenges have intensified as 25 U.S. states filed suit questioning the administrative authorization of the new tariff framework.",
-                "Importers must conduct immediate supply chain audits to establish origin verification and prevent customs clearance delays."
+                "The U.S. administration imposed a new 15% tariff on imported polysilicon, targeting key inputs for solar energy manufacturing and advanced semiconductor production.",
+                "The trade enforcement measure is designed to incentivize domestic manufacturing capacity while penalizing foreign subsidized supply chains.",
+                "Solar project developers and chip manufacturers face elevated bill-of-materials costs and immediate procurement recalibrations across Transpacific supply lines.",
+                "Importers are restructuring supply agreements to verify non-impacted origin pathways and mitigate customs duty liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SUPERTANKER FREIGHT SURGE",
+            "nextUpTease": "MARITIME: SEALEAD CARRIER LIQUIDATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
-                "Published: 2026-08-10T09:00:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-imposes-15-percent-tariff-on-polysilicon-imports/723457/",
+                "Published: 2026-08-09T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: SUPERTANKER FREIGHT SURGE",
+            "heading": "MARITIME: SEALEAD CARRIER LIQUIDATION",
             "points": [
-                "Charter rates for Very Large Crude Carriers on benchmark Middle East routes approached $500,000 per day amid escalating geopolitical conflict.",
-                "A series of drone and missile strikes targeting Middle Eastern energy infrastructure has drastically elevated ocean transit risk profiles.",
-                "Marine underwriters have instituted steep war risk premiums while vessel operators evaluate long-distance rerouting strategies.",
-                "Global energy supply networks face immediate freight cost inflation and restricted tanker availability across core trade lanes."
+                "Singapore-registered container line SeaLead Shipping initiated voluntary liquidation following severe impact from recently implemented U.S. sanctions.",
+                "Rival ocean carriers and tonnage providers swiftly acquired SeaLead's charter vessels and container fleets to maintain regional trade flows.",
+                "The sudden exit collapses primary liner services between Asia, the Middle East, the Mediterranean, and the Baltic trade corridors.",
+                "Freight forwarders are re-routing affected containerized cargo to minimize port demurrage exposure and supply network disruption."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: US SPR RESERVES DROP",
+            "nextUpTease": "INLAND: RHINE WATERWAY DROUGHT",
             "tags": [
-                "Source: https://www.ttnews.com/articles/supertanker-fee-benchmark-route-nears-500000-day",
-                "Published: 2026-08-10T08:30:00Z",
+                "Source: https://www.joc.com/article/carrier-sealead-ends-operations-weeks-after-us-sanctions-hit_20260810.html",
+                "Published: 2026-08-10T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ENERGY: US SPR RESERVES DROP",
+            "heading": "INLAND: RHINE WATERWAY DROUGHT",
             "points": [
-                "U.S. Strategic Petroleum Reserve crude inventories declined below 300 million barrels, marking the lowest stockpiles since 1983.",
-                "The reserve drawdown reflects sustained government releases to offset global energy supply disruptions and stabilize domestic fuel costs.",
-                "Energy analysts warn that diminished strategic reserves reduce the buffer against potential Middle Eastern crude delivery cuts.",
-                "Commercial fuel buyers and fleet operators face heightened market volatility and rising diesel prices through Q3 2026."
+                "Water levels along Northern Europe's Rhine River dropped to critical thresholds, rendering key barge navigation corridors virtually impassable.",
+                "Barge operators have instituted severe draft restrictions and low-water surcharges as vessel intake capacity dropped by over 50%.",
+                "Logistics planners are shifting heavy industrial and containerized freight from inland waterways onto already congested European road and rail networks.",
+                "Shippers across Germany and the Netherlands face elevated intermodal freight rates and extended transit delays through Q3 2026."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: FMCSA ENGLISH RULES",
+            "nextUpTease": "OCEAN: HORMUZ STRAIT TOLL PROPOSALS",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/10/oil-in-us-strategic-petroleum-reserve-falls-below-300-million-barrels.html",
-                "Published: 2026-08-10T07:15:00Z",
+                "Source: https://theloadstar.com/congestion-fear-as-unnavigable-rhine-means-cargo-shift-to-road-and-rail/",
+                "Published: 2026-08-10T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRUCKING: FMCSA ENGLISH RULES",
+            "heading": "OCEAN: HORMUZ STRAIT TOLL PROPOSALS",
             "points": [
-                "The Federal Motor Carrier Safety Administration initiated formal rulemaking to lock in strict English language proficiency standards for drivers.",
-                "The regulatory move follows targeted enforcement sweeps that sidelined over 26,000 non-compliant commercial motor vehicle drivers.",
-                "Federal regulators are pairing the rule tightening with recruitment pushes designed to transition military veterans into commercial driving careers.",
-                "Motor carriers must audit driver qualification files and operational compliance to avoid severe safety rating penalties during inspections."
+                "International shipping associations petitioned the UN and IMO to block proposed transit tolls along the strategic Strait of Hormuz waterway.",
+                "Bilateral discussions between regional authorities threaten to introduce mandatory transit fees on commercial oil tankers and container vessels.",
+                "Maritime legal experts warn that unilateral tolling mechanisms violate established international maritime navigation rights under UNCLOS standards.",
+                "Ocean carriers face potential operating cost increases and heightened geopolitical risk premiums across key Middle Eastern trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: VIRGINIA CSX EXPANSION",
+            "nextUpTease": "PORTS: CAPE TOWN TERMINAL BID",
             "tags": [
-                "Source: https://www.freightwaves.com/news/after-sidelining-26000-truck-drivers-fmcsa-seeks-to-lock-in-english-rules",
-                "Published: 2026-08-09T18:00:00Z",
+                "Source: https://www.joc.com/article/global-shipping-calls-on-un-imo-to-ensure-no-hormuz-tolls_20260810.html",
+                "Published: 2026-08-10T06:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL: VIRGINIA CSX EXPANSION",
+            "heading": "PORTS: CAPE TOWN TERMINAL BID",
             "points": [
-                "The Port of Virginia launched direct CSX intermodal rail service connecting maritime terminals to an inland container terminal in Indianapolis.",
-                "The new rail corridor enables containerized freight to bypass congested Chicago interchanges and move directly into the Midwest market.",
-                "Port authorities expect the direct link to streamline import velocity while expanding the port's inland distribution footprint.",
-                "Midwestern shippers gain improved transit consistency and lower drayage costs for Transatlantic and Transpacific ocean container flows."
+                "Saudi Arabia's Red Sea Gateway Terminal is preparing a formal concession bid for the Duncan Dock Multi-Purpose Terminal at Cape Town.",
+                "The strategic port bid aligns with international expansion plans to secure major container and breakbulk terminal assets across African trade routes.",
+                "Transnet National Ports Authority issued the request for proposals as existing operating concessions approach expiration in 2027.",
+                "Private terminal investment is projected to increase container handling productivity and alleviate severe berth congestion along Southern African maritime corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "nextUpTease": "AUTOMATION: FEDEX TRAILER ROBOTICS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-adds-csx-rail-service-to-indianapolis/723456/",
-                "Published: 2026-08-09T14:20:00Z",
+                "Source: https://maritime-executive.com/article/saudi-arabia-s-rsgt-considers-bid-for-port-of-cape-town",
+                "Published: 2026-08-09T19:33:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "heading": "AUTOMATION: FEDEX TRAILER ROBOTICS",
             "points": [
-                "U.S. industrial real estate vacancy rates stabilized at 7.3% during Q2 2026 as leasing absorption surpassed new warehouse supply.",
-                "Construction completions slowed following a multi-year development surge, bringing inventory expansion back into balance with market demand.",
-                "Core logistics hubs are witnessing steady tenant demand driven by regional distribution shifts and advanced automated fulfillment requirements.",
-                "Logistics providers face firming rental rates and tightening space availability across major primary industrial corridors."
+                "FedEx deployed autonomous robotic loading systems across high-volume distribution hubs to automate trailer packing operations.",
+                "The automated robotic arms utilize advanced spatial vision systems to optimize cubic parcel density and increase load velocity.",
+                "Logistics providers are expanding robotic automation across sorting hubs to counter structural labor constraints and reduce parcel handling damage.",
+                "E-commerce shippers gain improved dock-to-dock transit times and consistent throughput capacity during peak processing cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL: USPS SURCHARGE REVENUE",
+            "nextUpTease": "FINANCE: TARIFF REFUND MONETIZATION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance_as_demand_outpaces_new_supply",
-                "Published: 2026-08-10T06:00:00Z",
+                "Source: https://www.supplychaindive.com/news/fedex-amazon-robotic-arms-fulfillment-trailer-loading/723458/",
+                "Published: 2026-08-09T15:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PARCEL: USPS SURCHARGE REVENUE",
+            "heading": "FINANCE: TARIFF REFUND MONETIZATION",
             "points": [
-                "The United States Postal Service reached $20B in quarterly revenue following the strategic implementation of new parcel handling surcharges.",
-                "Despite top-line revenue growth from e-commerce parcel fees, the postal agency reported a $2.5M net loss for the fiscal third quarter.",
-                "Operating revenues dropped 6.1% year-over-year as traditional mail volumes continued their long-term structural decline.",
-                "Marketplace sellers and high-volume parcel shippers must adjust cost models to accommodate rising postal surcharges and rate revisions."
+                "Major retail brands have initiated sales of rights to future federal customs tariff refunds to private financial liquidity providers.",
+                "A secondary financial market has rapidly emerged, allowing enterprise importers to monetize pending duty drawback claims for immediate cash flow.",
+                "Financial intermediaries purchase claims at a discount while assuming legal and administrative execution risks with customs authorities.",
+                "Importers are utilizing immediate capital payouts to optimize working capital liquidity amid persistent trade policy uncertainties."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com/news/new-parcel-surcharge-helps-postal-service-reach-20b-in-revenue",
+                "Source: https://www.supplychaindive.com/news/retailers-sell-rights-tariff-refunds-american-eagle/723459/",
                 "Published: 2026-08-09T12:00:00Z",
                 "Status: Audited & True"
             ]
