@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SEALEAD CEASES",
-        "titleBlue": "OPERATIONS",
-        "footerSummary": "Liner liquidation following sanctions exposes ocean networks to tonnage redistributions, acute congestion, and escalated tanker charter surcharges."
+        "titleWhite": "USTR EXPANDS",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR trade policy shifts and customs enforcement escalate operational risk across international freight and middle-mile logistics networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "LINER LIQUIDATION: SEALEAD CEASES OPERATIONS",
+            "heading": "TRADE POLICY: USTR EXPANDS TARIFFS",
             "points": [
-                "Singapore-registered container carrier SeaLead Shipping has formally entered voluntary liquidation following recent U.S. sanctions enforcement.",
-                "The sudden shutdown forces immediate vessel redistribution and container reallocation across major Asia-Middle East and Mediterranean trade corridors.",
-                "Competing ocean carriers are rapidly absorbing SeaLead tonnage and leased container assets to prevent severe supply chain bottlenecks.",
-                "Shippers must audit current bill of lading contracts to re-route affected cargo and mitigate secondary maritime liability."
+                "The Office of the United States Trade Representative moved forward with implementing Section 301 tariffs targeting 60 trading partners following Section 122 expirations.",
+                "Customs compliance teams must adjust duty rate calculations and supply chain origin audits to avoid unexpected border detention fees.",
+                "Trade policy shifts aim to curtail forced labor practices while recalibrating global import cost structures for high-volume trade lanes.",
+                "Importers must rapidly re-evaluate landed costs and sourcing footprints as federal trade enforcement intensifies across key partner nations."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCTIC SHIPPING: SEA LEGEND ICE SILK ROAD",
+            "nextUpTease": "REGULATORY LAW: TEAMSTERS SUE DMV",
             "tags": [
-                "Source: https://www.joc.com/maritime-news/sealead-shipping-liquidation-sanctions-2026",
-                "Published: 2026-08-11T02:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs_2026",
+                "Published: 2026-08-10T23:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ARCTIC SHIPPING: SEA LEGEND ICE SILK ROAD",
+            "heading": "REGULATORY LAW: TEAMSTERS SUE DMV",
             "points": [
-                "Chinese ocean carrier SeaLegend Line is preparing to launch the first regular container service along Russia's Northern Sea Route.",
-                "The Arctic passage offers a 15-day transit reduction between Asia and Northern Europe compared to conventional southern maritime lanes.",
-                "Russian nuclear authority Rosatom has finalized navigation permits for the 2026 season following trial sailings last year.",
-                "Logistics planners must evaluate polar ice navigation risks against substantial fuel savings and Red Sea avoidance benefits."
+                "Teamsters California filed a major lawsuit against the state DMV to halt amended regulations allowing heavy-duty autonomous truck testing permits.",
+                "Labor unions argue autonomous commercial vehicles present severe public safety risks and threaten regional freight driver livelihoods.",
+                "The legal filing challenges administrative rule-making procedures and seeks immediate injunctive relief against autonomous vehicle permits.",
+                "Fleet operators must track state regulatory litigation as autonomous trucking deployment timelines face heightened legal friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT CONGESTION: TYPHOON DOLPHIN STRANDS TEUS",
+            "nextUpTease": "MARITIME PENALTIES: MSC FINED MILLIONS",
             "tags": [
-                "Source: https://maritime-executive.com/article/sea-legend-arctic-route-2026",
-                "Published: 2026-08-11T01:30:00Z",
+                "Source: https://www.ttnews.com/articles/teamsters-sue-california-dmv-av-rules-2026",
+                "Published: 2026-08-10T22:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORT CONGESTION: TYPHOON DOLPHIN STRANDS TEUS",
+            "heading": "MARITIME PENALTIES: MSC FINED MILLIONS",
             "points": [
-                "Typhoon Dolphin made landfall near Ningbo, locking over 2.4M TEU of containership capacity in anchorage zones across East Asian ports.",
-                "Severe weather disruptions have halted terminal crane operations, exacerbating regional berth congestion and vessel arrival delays.",
-                "Major container lines report mounting schedule disruptions, with vessel dwell times extending by 48 to 72 hours across Chinese hubs.",
-                "Supply chain directors should anticipate downstream delays for West Coast transpacific imports into late August."
+                "MSC Shipmanagement was ordered to pay $6M in fines and placed on 4 years probation following a federal Charleston runaway probe.",
+                "The vessel operator admitted to concealing hazardous engine-control defects and obstructing subsequent federal safety investigations.",
+                "Maritime regulators signaled intensified scrutiny on ocean carrier safety reporting standards and vessel maintenance compliance.",
+                "Ocean shippers should monitor carrier compliance audits as federal enforcement increases operational risk across port calls."
             ],
             "imageUrl": "",
-            "nextUpTease": "CABOTAGE POLICY: JONES ACT WAIVER EXTENDED",
+            "nextUpTease": "CUSTOMS REVENUE: CBP TARIFF REFUNDS",
             "tags": [
-                "Source: https://theloadstar.com/typhoon-dolphin-asia-port-backlog-2026/",
-                "Published: 2026-08-11T01:15:00Z",
+                "Source: https://splash247.com/msc-fined-6m-over-charleston-runaway-probe-2026",
+                "Published: 2026-08-11T01:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CABOTAGE POLICY: JONES ACT WAIVER EXTENDED",
+            "heading": "CUSTOMS REVENUE: CBP TARIFF REFUNDS",
             "points": [
-                "The White House extended its emergency Jones Act cabotage waiver for an additional 90 days with refined administrative oversight.",
-                "The executive policy maintains foreign-flag tanker access for critical petroleum shipments between Gulf Coast refineries and West Coast ports.",
-                "Federal authorities instituted voyage-by-voyage approval mechanisms to balance domestic maritime interests with national fuel security demands.",
-                "Energy supply chain managers gain continued domestic coastal transit flexibility while U.S. shipbuilders monitor regulatory compliance."
+                "U.S. Customs and Border Protection has paid over $100B in IEEPA tariff refunds to commercial importers following trade litigation.",
+                "A secondary financial market has emerged where retail enterprises sell potential duty refund rights to secure immediate cash liquidity.",
+                "Legal delays persist in processing finally liquidated entries while Department of Justice appeals move through federal court systems.",
+                "Enterprise beneficial cargo owners are leveraging tariff refund assets to offset broader supply chain cost inflation."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS WAREHOUSE BREACH",
+            "nextUpTease": "INLAND WATERWAYS: RHINE DROUGHT DISRUPTIONS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/trump-extends-jones-act-waiver-2026",
-                "Published: 2026-08-11T00:50:00Z",
+                "Source: https://www.supplychaindive.com/news/cbp-100b-ieepa-tariff-refunds-2026",
+                "Published: 2026-08-10T21:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CYBERSECURITY: CEVA LOGISTICS WAREHOUSE BREACH",
+            "heading": "INLAND WATERWAYS: RHINE DROUGHT DISRUPTIONS",
             "points": [
-                "A major IT security breach at Ceva Logistics disrupted warehouse management systems across multiple European distribution centers.",
-                "System outages impacted fulfillment operations for high-volume retail, banking, and gaming supply chain customers across the region.",
-                "Cybersecurity teams are executing system isolation protocols while logistics coordinators revert to manual paper-based inventory tracking.",
-                "Enterprise beneficial cargo owners must strengthen third-party logistics API integrations to isolate operational downtime risks."
+                "Extended heatwaves and drought across Europe dropped Rhine River water levels, restricting inland barge loading capacities.",
+                "Barge operators are forcing freight payload reductions up to 50%, forcing containerized cargo onto already congested road and rail networks.",
+                "Inland European freight rates are rising rapidly as landside transport modes absorb diverted barge volumes.",
+                "Logistics planners must anticipate severe transit delays for hinterland container movements between North Sea ports and European industrial hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "TANKER MARKET: SUPERTANKER RATES HIT 500K",
+            "nextUpTease": "NETWORK CONSOLIDATION: AMAZON MERGES TEAMS",
             "tags": [
-                "Source: https://theloadstar.com/ceva-logistics-cyber-attack-bco-impact-2026/",
-                "Published: 2026-08-11T00:20:00Z",
+                "Source: https://theloadstar.com/rhine-drought-cripples-inland-barge-shipping-2026/",
+                "Published: 2026-08-10T20:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TANKER MARKET: SUPERTANKER RATES HIT 500K",
+            "heading": "NETWORK CONSOLIDATION: AMAZON MERGES TEAMS",
             "points": [
-                "Benchmark supertanker spot charter rates surged toward $500K per day following heightened geopolitical instability surrounding the Strait of Hormuz.",
-                "Crude oil prices fluctuated above $87 per barrel as marine insurers raised war risk premiums on Persian Gulf tanker transits.",
-                "Refiners and energy traders are competing for available VLCC capacity to secure crude supplies before further corridor disruptions occur.",
-                "Global shippers should prepare for cascading bunker fuel surcharges across ocean container and air freight shipping networks."
+                "Amazon combined its air and ground transportation management teams to consolidate middle-mile supply chain operations.",
+                "The organizational restructuring aims to accelerate middle-mile decision-making and optimize carrier asset utilization across regional hubs.",
+                "Integrated transportation teams will manage multi-modal routing algorithms to lower line-haul transit costs and inventory dwell times.",
+                "Competitors and third-party carriers face increased pressure as e-commerce giants streamline internal middle-mile velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "US IMPORTS: CONTAINER VOLUMES UP 4.5 PERCENT",
+            "nextUpTease": "DRIVER SAFETY: FMCSA ENGLISH ENFORCEMENT",
             "tags": [
-                "Source: https://www.ttnews.com/articles/supertanker-rates-500k-day-2026",
-                "Published: 2026-08-10T23:45:00Z",
+                "Source: https://www.supplychaindive.com/news/amazon-combines-air-ground-operations-2026",
+                "Published: 2026-08-11T02:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "US IMPORTS: CONTAINER VOLUMES UP 4.5 PERCENT",
+            "heading": "DRIVER SAFETY: FMCSA ENGLISH ENFORCEMENT",
             "points": [
-                "U.S. maritime container import volumes grew 4.5% in July, achieving the fourth-highest monthly volume total on historical record.",
-                "Shippers accelerated inbound peak season cargo orders to hedge against potential autumn tariff expansions and port labor disruptions.",
-                "Inbound Asia-to-U.S. East Coast ocean lanes experienced sustained high utilization, driving spot freight rates upward across major routes.",
-                "Importers must manage inland distribution center capacity as incoming container surges challenge warehouse storage limits."
+                "The Federal Motor Carrier Safety Administration proposed tighter enforcement rules targeting commercial driver English language proficiency.",
+                "The proposed rule establishes standardized testing and enforcement protocols during roadside commercial motor vehicle safety inspections.",
+                "Motor carriers face potential driver out-of-service orders if non-domiciled or domestic operators fail regulatory communication standards.",
+                "Fleet managers must conduct proactive driver compliance evaluations to avoid roadside driver disqualifications and delivery delays."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/us-container-imports-july-2026",
-                "Published: 2026-08-10T22:10:00Z",
+                "Source: https://www.ttnews.com/articles/fmcsa-proposed-rule-english-proficiency-2026",
+                "Published: 2026-08-10T19:45:00Z",
                 "Status: Audited & True"
             ]
         }
