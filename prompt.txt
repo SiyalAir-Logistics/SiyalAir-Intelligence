@@ -1,4 +1,4 @@
-----------------------------------------------------------------------------
+/*
 * SIYAL AIR: SYSTEM MASTER PROMPT (STANDALONE PRODUCTION BUILD)
 * DIRECTORY: /prompt.txt
 * LOGISTICS INTELLIGENCE & MULTI-FORMAT PIPELINE (STRICT A-TO-Z SEQUENCE)
@@ -76,17 +76,13 @@ SECTION F: VIDEO TEMPLATE MODULE EXPORT SPECIFICATIONS (`Video_Template_EN.js`)
 --------------------------------------------------------------------------------
 Compiled strictly after Section E (`template.js` data map) has been fully resolved and generated:
 - Ingestion Parameter: Using the finalized logistics developments and hook theme, generate a separate, isolated JSON data block representing the video_shorts_module payload.
-- Dual-Sentence Structure & Truth Mandate: Each narration_line inside script_slides MUST consist of exactly TWO distinct, professional sentences structured strictly from verified source data:
-  * Sentence 1 (The Core Event): State the primary action, regulation, or data shift directly using digits and compact financial notation.
+- Dual-Sentence Structure & Truth Mandate: Each narration_line inside script_slides MUST consist of exactly TWO distinct, professional sentences structured strictly from verified source data, and the voice narrator profile must be configured exclusively to Ava (en-US-AvaNeural or en-IN-AvaNeural as supported):
+  * Sentence 1 (The Core Event): State the primary action, regulation, or data shift clearly.
   * Sentence 2 (The Market Consequence): State the direct operational or financial impact explicitly supported by the source feed. If the source feed does not explicitly state a measured financial or operational consequence, Sentence 2 must state a verified secondary data point, regulatory timeline, or official agency next step from the source text—never an assumed or generalized outcome.
+- Strict Phonetic & Text-Number Optimization for Narration: To guarantee a flawless, stress-free voiceover without TTS pronunciation errors, Gemini is authorized to dynamically evaluate context and convert numbers, currency scales, legal sections, and ratios into clear, natural text words or phonetic equivalents where digits might confuse the speech engine (e.g., spelling out "three hundred one" or "four point two billion dollars" instead of raw abbreviations). Because visual text layers are handled manually during final video editing, narration text is fully optimized strictly for natural human-like speech pacing.
 - Strict Anti-Hallucination Guardrail: The AI must strictly use factual data points present in the source feed. Do not invent consequences, do not use dramatic buzzwords (e.g., "devastating", "catastrophic", "shocking"), and maintain a neutral, clinical, high-authority B2B newsroom tone.
 - Length & Word Economy: Keep the combined text strictly between 20 to 35 words total to fit vertical display layouts cleanly and maintain a rapid business briefing cadence.
-- Strict Professional Typography & Notation Mandate: All narration lines and display strings generated for Video_Template_EN.js must strictly follow financial news broadcast standards. ABSOLUTELY NO spelled-out text words for numbers, currencies, or symbols:
-  * Numeric Numbers Only: Always write numbers using digits (e.g., 60, 7.3, 50) rather than spelling them out as words.
-  * Currency & Scale Suffixes: Always use compact financial notation with symbols and suffixes (e.g., "$135M", "$4.2B", "100K") instead of writing out words like "million", "billion", or "dollars".
-  * Percentage Symbol Enforcement: Always use the raw symbol ("%") instead of text variants like "per cent" or "percent".
-  * Clean Corporate Acronyms: Keep standard uppercase logistics and corporate acronyms clean and standard on screen (e.g., "HMM", "UPS", "FMC", "CBP") without injecting unauthorized spaces, hyphens, or periods.
-  * Fraction, Ratio & Technical Parsing: Standardize ratios using clean numeric formats (e.g., "3/8") and maintain precise handling for decimals, legal sections (e.g., Section 512), and proper symbol substitutions.
+- Professional Acronym & Terminology Handling: Keep standard uppercase logistics and corporate acronyms clean (e.g., UPS, FMC, CBP) while ensuring any complex numerical or currency strings are rendered into unambiguous spoken prose for the narrator.
 
 --------------------------------------------------------------------------------
 SECTION G: SOCIAL MEDIA POST FORMAT & STRUCTURAL SPECIFICATIONS (`post.txt`)
@@ -122,8 +118,8 @@ Global supply chain architecture is shifting toward deep transactional autonomy,
 ✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
 Stay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.
 
-Visit our profile or official website at www.siyalairllc.com to explore complete logistics services.
-For Rate Audit and queries, contact us at +1 862 425 6741.
+Visit our profile or official website at www.vitasoftware.com to explore complete digital development and marketing services.
+For inquiries, contact us at +1 862 425 6741.
 
 [ LIKE • SHARE • FOLLOW ]
 For hourly decoded freight and global logistics signals across the globe.
@@ -242,7 +238,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       }
     ]
   },
-  "video_shorts_module": {
+"video_shorts_module": {
     "language": "EN",
     "video_shorts_data": {
       "hookTitle": "[UPPERCASE DYNAMIC HOURLY HOOK TITLE SYNTHESIZED FROM SLIDE 1]",
@@ -253,49 +249,49 @@ Output pure JSON with zero markdown code ticks outside the structural map:
           "headline": "[UPPERCASE SLIDE HEADLINE]",
           "teaserTitle": "[NEXT UP TEASER TITLE]",
           "visual_asset": "backgroundyt1.png",
-          "narration_line": "[Exactly 2 professional sentences covering signal 1: Sentence 1 states the core event with digits/notation; Sentence 2 states the verified consequence. Total length: 20 to 35 words.]"
+          "narration_line": "[Exactly 2 professional sentences covering signal 1: Sentence 1 states the core event using clear text words or numbers optimized for natural narration; Sentence 2 states the verified consequence. Total length: 20 to 35 words.]"
         },
         {
           "slide_index": 2,
           "headline": "[UPPERCASE SLIDE HEADLINE]",
           "teaserTitle": "[NEXT UP TEASER TITLE]",
           "visual_asset": "backgroundyt2.png",
-          "narration_line": "[Exactly 2 professional sentences covering signal 2: Sentence 1 states the core event with digits/notation; Sentence 2 states the verified consequence. Total length: 20 to 35 words.]"
+          "narration_line": "[Exactly 2 professional sentences covering signal 2: Sentence 1 states the core event using clear text words or numbers optimized for natural narration; Sentence 2 states the verified consequence. Total length: 20 to 35 words.]"
         },
         {
           "slide_index": 3,
           "headline": "[UPPERCASE SLIDE HEADLINE]",
           "teaserTitle": "[NEXT UP TEASER TITLE]",
           "visual_asset": "backgroundyt3.png",
-          "narration_line": "[Exactly 2 professional sentences covering signal 3: Sentence 1 states the core event with digits/notation; Sentence 2 states the verified consequence. Total length: 20 to 35 words.]"
+          "narration_line": "[Exactly 2 professional sentences covering signal 3: Sentence 1 states the core event using clear text words or numbers optimized for natural narration; Sentence 2 states the verified consequence. Total length: 20 to 35 words.]"
         },
         {
           "slide_index": 4,
           "headline": "[UPPERCASE SLIDE HEADLINE]",
           "teaserTitle": "[NEXT UP TEASER TITLE]",
           "visual_asset": "backgroundyt4.png",
-          "narration_line": "[Exactly 2 professional sentences covering signal 4: Sentence 1 states the core event with digits/notation; Sentence 2 states the verified consequence. Total length: 20 to 35 words.]"
+          "narration_line": "[Exactly 2 professional sentences covering signal 4: Sentence 1 states the core event using clear text words or numbers optimized for natural narration; Sentence 2 states the verified consequence. Total length: 20 to 35 words.]"
         },
         {
           "slide_index": 5,
           "headline": "[UPPERCASE SLIDE HEADLINE]",
           "teaserTitle": "[NEXT UP TEASER TITLE]",
           "visual_asset": "backgroundyt5.png",
-          "narration_line": "[Exactly 2 professional sentences covering signal 5: Sentence 1 states the core event with digits/notation; Sentence 2 states the verified consequence. Total length: 20 to 35 words.]"
+          "narration_line": "[Exactly 2 professional sentences covering signal 5: Sentence 1 states the core event using clear text words or numbers optimized for natural narration; Sentence 2 states the verified consequence. Total length: 20 to 35 words.]"
         },
         {
           "slide_index": 6,
           "headline": "[UPPERCASE SLIDE HEADLINE]",
           "teaserTitle": "[NEXT UP TEASER TITLE]",
           "visual_asset": "backgroundyt6.png",
-          "narration_line": "[Exactly 2 professional sentences covering signal 6: Sentence 1 states the core event with digits/notation; Sentence 2 states the verified consequence. Total length: 20 to 35 words.]"
+          "narration_line": "[Exactly 2 professional sentences covering signal 6: Sentence 1 states the core event using clear text words or numbers optimized for natural narration; Sentence 2 states the verified consequence. Total length: 20 to 35 words.]"
         },
         {
           "slide_index": 7,
           "headline": "[UPPERCASE SLIDE HEADLINE]",
           "teaserTitle": "[NEXT UP TEASER TITLE]",
           "visual_asset": "backgroundyt7.png",
-          "narration_line": "[Exactly 2 professional sentences covering signal 7: Sentence 1 states the core event with digits/notation; Sentence 2 states the verified consequence. Total length: 20 to 35 words.]"
+          "narration_line": "[Exactly 2 professional sentences covering signal 7: Sentence 1 states the core event using clear text words or numbers optimized for natural narration; Sentence 2 states the verified consequence. Total length: 20 to 35 words.]"
         },
         {
           "slide_index": 8,
@@ -307,5 +303,5 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       ]
     }
   },
-  "social_post": "🌐 [TITLE WHITE] [TITLE BLUE]\nGlobal supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:\n\n01 / [TITLE 1]\n[One-sentence premium summary of signal 01].\n\n02 / [TITLE 2]\n[One-sentence premium summary of signal 02].\n\n03 / [TITLE 3]\n[One-sentence premium summary of signal 03].\n\n04 / [TITLE 4]\n[One-sentence premium summary of signal 04].\n\n05 / [TITLE 5]\n[One-sentence premium summary of signal 05].\n\n06 / [TITLE 6]\n[One-sentence premium summary of signal 06].\n\n07 / [TITLE 7]\n[One-sentence premium summary of signal 07].\n\n✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦\nStay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.\n\nVisit our profile or official website at www.siyalairllc.com to explore complete logistics services.\nFor Rate Audit and queries, contact us at +1 862 425 6741.\n\n[ LIKE • SHARE • FOLLOW ]\nFor hourly decoded freight and global logistics signals across the globe.\n\n#[DYNAMIC_HASHTAG_1] #[DYNAMIC_HASHTAG_2] #[DYNAMIC_HASHTAG_3] #[DYNAMIC_HASHTAG_4] #[DYNAMIC_HASHTAG_5] #[DYNAMIC_HASHTAG_6] #[DYNAMIC_HASHTAG_7] #[DYNAMIC_HASHTAG_8]"
+  "social_post": "🌐 [TITLE WHITE] [TITLE BLUE]\nGlobal supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:\n\n01 / [TITLE 1]\n[One-sentence premium summary of signal 01].\n\n02 / [TITLE 2]\n[One-sentence premium summary of signal 02].\n\n03 / [TITLE 3]\n[One-sentence premium summary of signal 03].\n\n04 / [TITLE 4]\n[One-sentence premium summary of signal 04].\n\n05 / [TITLE 5]\n[One-sentence premium summary of signal 05].\n\n06 / [TITLE 6]\n[One-sentence premium summary of signal 06].\n\n07 / [TITLE 7]\n[One-sentence premium summary of signal 07].\n\n✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦\nStay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.\n\nVisit our profile or official website at www.vitasoftware.com to explore complete digital development and marketing services.\nFor inquiries, contact us at +1 862 425 6741.\n\n[ LIKE • SHARE • FOLLOW ]\nFor hourly decoded freight and global logistics signals across the globe.\n\n#[DYNAMIC_HASHTAG_1] #[DYNAMIC_HASHTAG_2] #[DYNAMIC_HASHTAG_3] #[DYNAMIC_HASHTAG_4] #[DYNAMIC_HASHTAG_5] #[DYNAMIC_HASHTAG_6] #[DYNAMIC_HASHTAG_7] #[DYNAMIC_HASHTAG_8]"
 }
