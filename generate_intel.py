@@ -186,6 +186,11 @@ def main():
             if not video_module_node:
                 video_module_node = parsed_payload.get("video_shorts_data", {"language": "EN", "video_shorts_data": parsed_payload})
 
+            # --- FILMORA NODE EXTRACTION & FALLBACKS ---
+            filmora_node = parsed_payload.get("filmora_module") or parsed_payload.get("filmora_data") or parsed_payload.get("filmora")
+            if not filmora_node:
+                filmora_node = parsed_payload.get("video_shorts_module", {"language": "EN", "captions": parsed_payload})
+
             post_content = parsed_payload.get("social_post", "")
             if not post_content and isinstance(parsed_payload, dict):
                 post_content = "🌐 GLOBAL LOGISTICS INTELLIGENCE\nStay ahead of the global freight pulse."
@@ -231,6 +236,23 @@ def main():
                 f.write(video_js_content)
             log("SUCCESS", f"Generated and exported video template: {video_template_path}")
                 
+            # 5. Filmora Broadcast Captions & Notation (Social_Media/filmora.js)
+            filmora_path = os.path.join(social_media_dir, "filmora.js")
+            
+            if isinstance(filmora_node, dict) and "language" not in filmora_node:
+                filmora_payload_to_write = {
+                    "language": "EN",
+                    "filmora_data": filmora_node
+                }
+            else:
+                filmora_payload_to_write = filmora_node
+
+            filmora_js_content = f"module.exports = {json.dumps(filmora_payload_to_write, indent=4)};"
+
+            with open(filmora_path, "w", encoding="utf-8") as f:
+                f.write(filmora_js_content)
+            log("SUCCESS", f"Generated and exported Filmora template: {filmora_path}")
+
             log("SUCCESS", "generate_intel.py pipeline completed successfully with full sequence synchronization.")
             return
             
