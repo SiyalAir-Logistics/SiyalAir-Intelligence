@@ -14,12 +14,12 @@ on:
     branches:
       - main
     paths-ignore:
-      - 'template.js'           # Prevent re-entrant triggers from template data updates
-      - 'post.txt'              # Prevent re-entrant triggers from text payload updates
-      - 'download/**'           # Prevent re-entrant triggers from screenshot asset commits
-      - 'bg_tracker.txt'        # Prevent re-entrant triggers from background state updates
-      - 'follow_tracker.txt'    # Prevent re-entrant triggers from follow-up slide state updates
-      - 'Social_Media/**'       # Prevent re-entrant triggers from template code updates
+      - 'template.js'            # Prevent re-entrant triggers from template data updates
+      - 'post.txt'               # Prevent re-entrant triggers from text payload updates
+      - 'download/**'            # Prevent re-entrant triggers from screenshot asset commits
+      - 'bg_tracker.txt'         # Prevent re-entrant triggers from background state updates
+      - 'follow_tracker.txt'     # Prevent re-entrant triggers from follow-up slide state updates
+      - 'Social_Media/**'        # Prevent re-entrant triggers from template code updates
   workflow_dispatch:
   schedule:
     - cron: '16 * * * *'        # Primary precise hourly trigger (runs at :16 past every hour each hour)
