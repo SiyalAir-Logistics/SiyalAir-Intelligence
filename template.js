@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CBP ISSUES 100B TARIFF",
-        "titleBlue": "REFUNDS",
-        "footerSummary": "CBP disburses over $100B in IEEPA tariff refunds following federal rulings, creating immediate capital recovery opportunities for high-volume U.S. importers."
+        "titleWhite": "SEALEAD SHIPPING CEASES LINER",
+        "titleBlue": "OPERATIONS",
+        "footerSummary": "SeaLead liquidates regional services under U.S. sanctions, while severe Rhine droughts force bulk freight onto strained European rail networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS: CBP ISSUES 100B TARIFF REFUNDS",
+            "heading": "SANCTIONS: SEALEAD SHIPPING CEASES LINER OPERATIONS",
             "points": [
-                "U.S. Customs and Border Protection has disbursed over $100B in IEEPA tariff refunds following recent federal court decisions.",
-                "Importers are seeing capital flow back as liquidations are systematically processed across national entry ports.",
-                "A thriving secondary financial market has emerged allowing corporate shippers to sell off pending refund claims for rapid liquidity.",
-                "Trade legal teams urge importers to audit past entry summaries immediately to claim remaining eligible tariff drawbacks."
+                "Singapore-based SeaLead Shipping has entered voluntary liquidation following primary U.S. sanctions enforcement, terminating key container services across Asia, the Mediterranean, and the Baltic.",
+                "The carrier's sudden operational halt leaves thousands of container slots and active vessel charters suspended across international shipping hubs.",
+                "Competing ocean carriers are moving rapidly to acquire active vessel charters and container assets to absorb disrupted cargo volumes.",
+                "Freight forwarders are re-routing affected shipments through alternative regional carriers to mitigate severe transit delays across primary trade corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "CABOTAGE: TRUMP EXTENDS JONES ACT WAIVER",
+            "nextUpTease": "INLAND WATERWAYS: DROUGHT BLOCKS RHINE FREIGHT CORRIDORS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/cbp-100b-ieepa-tariff-refunds/2026",
-                "Published: 2026-08-10T16:00:00Z",
+                "Source: https://www.joc.com/article/sealead-ends-operations-us-sanctions-2026",
+                "Published: 2026-08-10T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CABOTAGE: TRUMP EXTENDS JONES ACT WAIVER",
+            "heading": "INLAND WATERWAYS: DROUGHT BLOCKS RHINE FREIGHT CORRIDORS",
             "points": [
-                "The White House has officially extended the temporary Jones Act cabotage waiver for an additional 90-day window.",
-                "The executive action allows foreign-flagged tankers to transport domestic oil between U.S. Gulf Coast and West Coast refineries.",
-                "Domestic maritime organizations continue to challenge the decision, alleging structural market distortion for U.S. flag carriers.",
-                "Energy logistics managers should adjust domestic coastal chartering schedules to exploit reduced coastal transit bottlenecks."
+                "Record low water levels along the Rhine River have pushed Europe's primary inland shipping artery to the verge of splitting into 2 unnavigable segments.",
+                "Barge operators are applying strict draft limitations, dramatically reducing vessel loading capacities and escalating inland freight surcharges.",
+                "Industrial shippers are shifting heavy commodity flows to road and rail transport networks, causing immediate capacity shortages across European overland routes.",
+                "Logistics planners expect compounded hinterland port congestion as container barges face severe draft-related navigation restrictions."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE TARIFFS: POLYSILICON IMPORTS FACE 15% DUTY",
+            "nextUpTease": "ARCTIC ROUTING: SEA LEGEND INITIATES REGULAR NSR SAILINGS",
             "tags": [
-                "Source: https://maritime-executive.com/article/trump-extends-jones-act-waiver-90-days-2026",
-                "Published: 2026-08-10T17:29:00Z",
+                "Source: https://theloadstar.com/drought-cripples-rhine-inland-shipping-2026",
+                "Published: 2026-08-11T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE TARIFFS: POLYSILICON IMPORTS FACE 15% DUTY",
+            "heading": "ARCTIC ROUTING: SEA LEGEND INITIATES REGULAR NSR SAILINGS",
             "points": [
-                "The U.S. administration imposed a new 15% tariff on imported polysilicon used in microchips and solar infrastructure.",
-                "The broad import measure targets derivative technology products to protect domestic semiconductor manufacturing investments.",
-                "Tech hardware manufacturers face rising raw material costs and potential supply chain re-routing out of East Asia.",
-                "Procurement leads must re-evaluate global supplier matrices to mitigate compounding duty exposure on high-purity silicon."
+                "Chinese operator Sea Legend Line has launched regular container services along Russia's Northern Sea Route, establishing a structured Arctic trade passage.",
+                "The commercial Arctic deployment follows successful trial sailings designed to shave up to 12 days off Asia-to-Europe maritime transit times.",
+                "Rosatom completed issuing 2026 navigation permits, formalizing seasonal transit frameworks for commercial container vessel fleets.",
+                "Cargo owners are evaluating Arctic routing options to bypass persistent maritime bottlenecks across traditional southern canal passages."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE: CHINESE EV MARKET SHARE HITS 14.2%",
+            "nextUpTease": "MARITIME ENFORCEMENT: US SCRAPS SEIZED SHADOW TANKERS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-15-percent-polysilicon-tariff/2026",
-                "Published: 2026-08-10T14:15:00Z",
+                "Source: https://maritime-executive.com/article/sea-legend-ice-silk-road-service-2026",
+                "Published: 2026-08-10T16:29:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AUTOMOTIVE: CHINESE EV MARKET SHARE HITS 14.2%",
+            "heading": "MARITIME ENFORCEMENT: US SCRAPS SEIZED SHADOW TANKERS",
             "points": [
-                "Chinese automotive manufacturers captured 14.2% of new battery electric vehicle registrations in Western Europe through mid-2026.",
-                "The record market share expansion reflects rapid expansion of specialized automotive roll-on/roll-off ocean logistics services.",
-                "European ports are expanding dedicated vehicle yard handling capacity to manage heavy imported electric vehicle discharge flows.",
-                "Logistics providers are expanding automotive processing terminals across key North Sea maritime gateways."
+                "U.S. maritime enforcement agencies have begun transferring seized shadow fleet tankers directly to demolition yards for permanent scrapping.",
+                "The targeted vessel destruction campaign prevents aging, non-compliant tankers linked to illicit oil trades from returning to active service.",
+                "Federal authorities are intensifying sanctions enforcement against dark fleet operators navigating under flags of convenience.",
+                "Global energy logistics firms face tighter regulatory compliance audits as enforcement actions shrink non-compliant tanker capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: EU THREATENS DAIMLER WITH 1B EURO FINE",
+            "nextUpTease": "RAIL TRANSPORT: SHIPPERS PETITION STB AGAINST MERGER",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/chinese-ev-sales-surge-western-europe-2026",
-                "Published: 2026-08-10T13:30:00Z",
+                "Source: https://splash247.com/us-sends-seized-shadow-fleet-tankers-for-scrap/2026",
+                "Published: 2026-08-11T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REGULATION: EU THREATENS DAIMLER WITH 1B EURO FINE",
+            "heading": "RAIL TRANSPORT: SHIPPERS PETITION STB AGAINST MERGER",
             "points": [
-                "European regulatory authorities signaled potential fines reaching \u20ac1B against Daimler Truck over commercial vehicle emissions rules.",
-                "Daimler Truck executive leadership contested the regulatory enforcement action citing ongoing fleet electrification investments.",
-                "The enforcement dispute highlights growing regulatory friction surrounding heavy transport transition timelines across Europe.",
-                "Fleet operators should monitor heavy commercial vehicle production roadmaps as compliance enforcement tightens across EU member states."
+                "National shipper organizations have submitted formal filings urging the Surface Transportation Board to reject proposed Class I rail merger agreements.",
+                "Shipper coalitions warn that further rail consolidation will reduce intermodal competition and trigger structural freight rate increases.",
+                "Major rail gateways continue to report localized interchange delays and drayage congestion across key Midwest sorting terminals.",
+                "Supply chain executives are diversifying modal strategies to shield intermodal supply chains from potential rail network consolidation disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRY BULK: STAR BULK CANCELS 470.5M FLEET DEAL",
+            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS SUFFERS IT SYSTEM BREACH",
             "tags": [
-                "Source: https://www.ttnews.com/articles/eu-daimler-truck-emissions-fine-2026",
-                "Published: 2026-08-10T18:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/shippers_urge_stb_reject_rail_merger_2026",
+                "Published: 2026-08-10T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DRY BULK: STAR BULK CANCELS 470.5M FLEET DEAL",
+            "heading": "CYBERSECURITY: CEVA LOGISTICS SUFFERS IT SYSTEM BREACH",
             "points": [
-                "Star Bulk Carriers mutually terminated a $470.5M agreement to acquire 16 bulk vessel assets from Genco Shipping.",
-                "The cancellation halts a planned consolidation in dry bulk shipping and reshuffles regional vessel availability matrices.",
-                "Dry bulk freight charter rates are stabilizing as market participants recalibrate fleet capacity availability.",
-                "Commodity charterers should reassess long-term tonnage commitments as shipowners restructure asset ownership portfolios."
+                "A major cybersecurity incident targeted Ceva Logistics' operational IT infrastructure, compromising enterprise warehouse management software systems.",
+                "The cyber breach caused widespread operational slowdowns across multiple European fulfillment centers and distribution hubs.",
+                "Affected enterprise clients report severe delays in inventory processing and outbound order dispatch schedules.",
+                "Logistics IT security teams are deploying isolated offline protocols while auditing cloud infrastructure security frameworks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION: FEDEX DEPLOYS TRAILER LOADING ROBOTS",
+            "nextUpTease": "TRUCKING COMPLIANCE: FMCSA CODIFIES DRIVER ENGLISH RULES",
             "tags": [
-                "Source: https://splash247.com/star-bulk-walks-away-from-genco-fleet-deal/2026",
-                "Published: 2026-08-11T01:00:00Z",
+                "Source: https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-2026",
+                "Published: 2026-08-11T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AUTOMATION: FEDEX DEPLOYS TRAILER LOADING ROBOTS",
+            "heading": "TRUCKING COMPLIANCE: FMCSA CODIFIES DRIVER ENGLISH RULES",
             "points": [
-                "FedEx deployed advanced robotic trailer loading systems across its primary Maryland distribution facility to automate hub handling.",
-                "The automated robotic arms operate alongside existing warehouse workflows to accelerate parcel loading cycles and throughput.",
-                "Express parcel carriers are accelerating capital expenditure on physical automation to offset rising labor costs.",
-                "Supply chain engineers expect wider deployment of autonomous trailer loaders across major sorting hubs in 2026."
+                "The FMCSA has proposed formal rulemaking to enforce strict English language proficiency requirements for commercial motor vehicle drivers.",
+                "State enforcement sweeps have already placed over 30 non-compliant drivers out of service during recent targeted highway inspections.",
+                "Industry trade associations are reviewing the operational impact on cross-border motor freight carriers and driver recruitment pipelines.",
+                "Fleet managers are implementing mandatory language assessment protocols to ensure full regulatory compliance during roadside audits."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/fedex-amazon-robotic-arms-hub-automation/2026",
-                "Published: 2026-08-10T12:00:00Z",
+                "Source: https://www.ttnews.com/articles/fmcsa-proposed-rule-english-proficiency-2026",
+                "Published: 2026-08-10T14:00:00Z",
                 "Status: Audited & True"
             ]
         }

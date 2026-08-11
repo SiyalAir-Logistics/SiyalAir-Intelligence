@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CUSTOMS: CBP ISSUES 100B TARIFF REFUNDS",
+        "hookTitle": "SEALEAD SHIPPING CEASES LINER OPERATIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: CBP ISSUES 100B TARIFF REFUNDS",
-                "teaserTitle": "CABOTAGE: TRUMP EXTENDS JONES ACT WAIVER",
+                "headline": "SANCTIONS: SEALEAD SHIPPING CEASES LINER OPERATIONS",
+                "teaserTitle": "INLAND WATERWAYS: DROUGHT BLOCKS RHINE FREIGHT CORRIDORS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "CBP has disbursed over $100B in IEEPA tariff refunds following federal court rulings. Importers are receiving capital returns as entry liquidations are systematically processed across U.S. ports."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation following primary U.S. sanctions, shutting down key liner routes between Asia and Europe. Rival ocean carriers are rapidly absorbing active vessel tonnage and container inventory."
             },
             {
                 "slide_index": 2,
-                "headline": "CABOTAGE: TRUMP EXTENDS JONES ACT WAIVER",
-                "teaserTitle": "TRADE TARIFFS: POLYSILICON IMPORTS FACE 15% DUTY",
+                "headline": "INLAND WATERWAYS: DROUGHT BLOCKS RHINE FREIGHT CORRIDORS",
+                "teaserTitle": "ARCTIC ROUTING: SEA LEGEND INITIATES REGULAR NSR SAILINGS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The White House extended the Jones Act cabotage waiver for another 90 days. Foreign-flagged tankers will continue moving Gulf Coast crude to West Coast refineries under administrative approvals."
+                "narration_line": "Water levels on the Rhine River dropped below critical thresholds in August 2026, threatening to divide Europe's main inland shipping artery into 2 isolated segments. Logistics operators are re-routing bulk freight to road and rail transport networks."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE TARIFFS: POLYSILICON IMPORTS FACE 15% DUTY",
-                "teaserTitle": "AUTOMOTIVE: CHINESE EV MARKET SHARE HITS 14.2%",
+                "headline": "ARCTIC ROUTING: SEA LEGEND INITIATES REGULAR NSR SAILINGS",
+                "teaserTitle": "MARITIME ENFORCEMENT: US SCRAPS SEIZED SHADOW TANKERS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The U.S. administration imposed a new 15% tariff on imported polysilicon for tech production. Semiconductor manufacturers face rising raw material costs and shifting East Asian supply chains."
+                "narration_line": "Sea Legend Line initiated regular container services along Russia's Northern Sea Route, expanding commercial Arctic transit options between East Asia and Europe. Rosatom issued 2026 navigation permits to support scheduled seasonal sailings."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTOMOTIVE: CHINESE EV MARKET SHARE HITS 14.2%",
-                "teaserTitle": "REGULATION: EU THREATENS DAIMLER WITH 1B EURO FINE",
+                "headline": "MARITIME ENFORCEMENT: US SCRAPS SEIZED SHADOW TANKERS",
+                "teaserTitle": "RAIL TRANSPORT: SHIPPERS PETITION STB AGAINST MERGER",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Chinese automakers captured a record 14.2% of Western European electric vehicle sales through mid-2026. European ports are expanding terminal capacity to handle rising vehicle discharge volumes."
+                "narration_line": "U.S. maritime authorities began transferring seized shadow fleet oil tankers directly to shipbreaking yards for scrap, dismantling dark fleet capacity. The enforcement action permanently removes aging vessels linked to illicit trade from active circulation."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: EU THREATENS DAIMLER WITH 1B EURO FINE",
-                "teaserTitle": "DRY BULK: STAR BULK CANCELS 470.5M FLEET DEAL",
+                "headline": "RAIL TRANSPORT: SHIPPERS PETITION STB AGAINST MERGER",
+                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS SUFFERS IT SYSTEM BREACH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "European regulators threatened Daimler Truck with a \u20ac1B fine over heavy vehicle emissions rules. Executive leadership contested the penalty while continuing zero-emission fleet investments."
+                "narration_line": "Major shipper coalitions filed formal petitions requesting the Surface Transportation Board to reject proposed Class I railroad merger agreements in August 2026. Shippers cite rising freight rates, service degradation, and reduced drayage competition across major rail hubs."
             },
             {
                 "slide_index": 6,
-                "headline": "DRY BULK: STAR BULK CANCELS 470.5M FLEET DEAL",
-                "teaserTitle": "AUTOMATION: FEDEX DEPLOYS TRAILER LOADING ROBOTS",
+                "headline": "CYBERSECURITY: CEVA LOGISTICS SUFFERS IT SYSTEM BREACH",
+                "teaserTitle": "TRUCKING COMPLIANCE: FMCSA CODIFIES DRIVER ENGLISH RULES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Star Bulk terminated its $470.5M deal to buy 16 bulk vessels from Genco Shipping. Ocean charter rates stabilized as dry bulk shipowners restructured asset portfolios."
+                "narration_line": "Ceva Logistics suffered a critical cyber breach that compromised enterprise IT systems and disrupted warehousing operations across multiple European distribution centers. Affected retail partners are implementing manual contingency protocols to maintain outbound order fulfillment schedules."
             },
             {
                 "slide_index": 7,
-                "headline": "AUTOMATION: FEDEX DEPLOYS TRAILER LOADING ROBOTS",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "TRUCKING COMPLIANCE: FMCSA CODIFIES DRIVER ENGLISH RULES",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "FedEx deployed robotic trailer loading arms at its Maryland hub to automate sorting operations. Express carriers continue expanding physical AI robotics to cut processing times and labor costs."
+                "narration_line": "The FMCSA proposed a formal rule to strictly enforce English proficiency standards for commercial motor vehicle drivers operating across U.S. highways. State enforcement sweeps have already placed non-compliant freight drivers out of service."
             },
             {
                 "slide_index": 8,
