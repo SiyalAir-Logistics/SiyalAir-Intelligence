@@ -124,7 +124,7 @@ def update_tracker_files():
 # Purpose: Combines prompt with live data, enforces structure, and executes atomic file writes in logical sequence.
 # ==============================================================================
 def enforce_slide_structure(slides_object):
-    """Enforces a strict 4-bullet point limit per slide to prevent UI overflow."""
+    """Enforces strict 4-bullet point limits and character length constraints per bullet to prevent UI overflow."""
     if isinstance(slides_object, dict) and "slides" in slides_object:
         for slide in slides_object["slides"]:
             if "points" in slide and isinstance(slide["points"], list):
@@ -132,6 +132,14 @@ def enforce_slide_structure(slides_object):
                 for pt in slide["points"]:
                     clean_pt = str(pt).replace('\n', ' ').replace('•', '').replace('➔', '').strip()
                     if clean_pt:
+                        # STRICT LINE / CHARACTER ENFORCEMENT: Max ~175 chars to guarantee fit within max 3 lines visually
+                        if len(clean_pt) > 175:
+                            truncated = clean_pt[:172]
+                            last_space = truncated.rfind(' ')
+                            if last_space > 90:
+                                clean_pt = truncated[:last_space] + "..."
+                            else:
+                                clean_pt = truncated + "..."
                         cleaned_points.append(clean_pt)
                 
                 if len(cleaned_points) > 4:
