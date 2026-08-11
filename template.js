@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DROUGHT FORCES MODAL",
-        "titleBlue": "SHIFT",
-        "footerSummary": "Rhine River water levels plunge to critically low thresholds, forcing immediate freight shifts to road and rail across European supply chains."
+        "titleWhite": "USTR ENFORCES LABOR",
+        "titleBlue": "DUTIES",
+        "footerSummary": "USTR implements Section 301 tariffs across 60 trade partners, raising immediate cross-border compliance risks and landed cost burdens for global import supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "RHINE WATERWAYS: DROUGHT FORCES MODAL SHIFT",
+            "heading": "CUSTOMS TARIFFS: USTR ENFORCES LABOR DUTIES",
             "points": [
-                "Heatwaves across Europe have driven water levels along the Rhine River down to critical thresholds, disrupting commercial barge navigation.",
-                "Barge operators report that restricted draft depths effectively split the waterway into 2 isolated operational zones, preventing full-capacity vessel transits.",
-                "Logistics providers are rapidly re-routing inland bulk freight and containerized cargo onto European rail networks and long-haul motor carriers.",
-                "Shifting volume from river barges onto overland infrastructure is accelerating regional highway congestion and driving inland freight rates significantly higher."
+                "The Office of the United States Trade Representative is moving forward with Section 301 tariffs targeting 60 trading nations following the expiration of Section 122 duties.",
+                "Trade enforcement focus centers heavily on forced labor compliance frameworks, requiring importers to verify full supply chain provenance down to raw tier-3 inputs.",
+                "Logistics directors are restructuring customs clearance workflows to prevent extended hold orders at US entry ports by Customs and Border Protection inspectors.",
+                "Landed import costs are projected to increase by 10% to 15% across affected product categories, accelerating shifts toward nearshore manufacturing hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCTIC LOGISTICS: SEA LEGEND OPENS NSR ROUTE",
+            "nextUpTease": "METALS TRADE: COMMERCE EXPANDS DERIVATIVE TARIFFS",
             "tags": [
-                "Source: https://theloadstar.com/congestion-fear-as-unnavigable-rhine-means-cargo-shift-to-road-and-rail",
-                "Published: 2026-08-10T15:30:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs",
+                "Published: 2026-08-10T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ARCTIC LOGISTICS: SEA LEGEND OPENS NSR ROUTE",
+            "heading": "METALS TRADE: COMMERCE EXPANDS DERIVATIVE TARIFFS",
             "points": [
-                "Chinese container operator Sea Legend Line has secured official permits to launch regular container services along Russia's Northern Sea Route.",
-                "The commercial deployment marks the first scheduled Arctic container service connecting major export gateways in China directly to Northern Europe.",
-                "Navigating the Northern Sea Route shortens transit duration compared to conventional maritime passages through the Suez Canal or around Africa.",
-                "Global ocean carriers are analyzing the seasonal viability and environmental operational risks of utilizing Arctic shipping corridors for Asia-Europe trade."
+                "The US Commerce Department proposed new trade tariffs on derivative steel, aluminum, and copper products arriving from foreign manufacturing sources.",
+                "Regulatory scope extends beyond raw materials to encompass downstream finished goods, including tanker trailers, commercial floor safes, and specialized brass goods.",
+                "Domestic fabricators support the protective measures, while transportation equipment manufacturers express concern over escalating component acquisition costs.",
+                "Supply chain procurement teams are auditing international bill of materials components to identify potential derivative tariff exposure before final rule implementation."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER EXIT: SEALEAD CEASES ALL OPERATIONS",
+            "nextUpTease": "INTERMODAL RAIL: VIRGINIA EXPANDS CSX ROUTING",
             "tags": [
-                "Source: https://maritime-executive.com/article/chinas-sea-legend-poised-to-launch-first-regular-ice-silk-road-service",
-                "Published: 2026-08-10T16:29:00Z",
+                "Source: https://www.supplychaindive.com/news/commerce-proposes-tariffs-derivative-metals/723450/",
+                "Published: 2026-08-10T13:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CARRIER EXIT: SEALEAD CEASES ALL OPERATIONS",
+            "heading": "INTERMODAL RAIL: VIRGINIA EXPANDS CSX ROUTING",
             "points": [
-                "Singapore-registered ocean carrier SeaLead Shipping has entered voluntary liquidation, bringing an immediate halt to its global liner operations.",
-                "The container carrier ceased sailings across key trade lanes linking Asia with the Middle East, Mediterranean ports, and the Baltic region.",
-                "Market competitors and vessel charterers moved swiftly to absorb remaining chartered boxships and container equipment stranded by the shutdown.",
-                "Freight forwarders are re-booking impacted cargo with active ocean alliances to prevent extended supply chain bottlenecks at destination terminals."
+                "The Port of Virginia launched direct CSX intermodal rail service connecting ocean container terminals directly to Midwestern distribution hubs in Indianapolis.",
+                "Dedicated rail routing bypasses congested Chicago rail interchange yards, reducing container transit dwell times by up to 48 hours for regional importers.",
+                "Midwest importers gain direct rail connectivity to East Coast deepwater ocean terminals, strengthening supply chain resilience against West Coast port shifts.",
+                "Railroad executives report growing demand for direct port-to-inland rail services as shippers seek reliable alternatives to long-haul motor carrier moves."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING SAFETY: FMCSA TIGHTENS ENGLISH RULES",
+            "nextUpTease": "MARITIME TOLLS: SHIPPING OPPOSES HORMUZ FEES",
             "tags": [
-                "Source: https://www.joc.com/article/carrier-sealead-ends-operations-weeks-after-us-sanctions-hit",
-                "Published: 2026-08-10T14:15:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-adds-csx-rail-service-indianapolis/723411/",
+                "Published: 2026-08-10T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRUCKING SAFETY: FMCSA TIGHTENS ENGLISH RULES",
+            "heading": "MARITIME TOLLS: SHIPPING OPPOSES HORMUZ FEES",
             "points": [
-                "The Federal Motor Carrier Safety Administration advanced a proposed rulemaking to strictly enforce English language proficiency requirements for commercial drivers.",
-                "Safety regulators are standardizing field inspection procedures to verify driver comprehension of traffic signs and official safety directions during stops.",
-                "Enforcement sweeps across federal highways recently resulted in placing over 1,100 commercial vehicle drivers out of service for regulatory non-compliance.",
-                "Motor carrier safety directors are adjusting internal hiring protocols to verify language compliance and avoid out-of-service violations."
+                "International shipping organizations formally requested UN and IMO intervention following reports of proposed transit tolls through the Strait of Hormuz.",
+                "Regional regulatory proposals suggest levying fees on commercial maritime traffic navigating critical narrow shipping passages between Iran and Oman.",
+                "Ocean carriers and energy charterers warn that unilateral waterway tolls will escalate global bulk energy transport costs and disrupt maritime commerce freedom.",
+                "Legal maritime experts contend that proposed transit fees violate long-standing international law established under the UN Convention on the Law of the Sea."
             ],
             "imageUrl": "",
-            "nextUpTease": "EMISSION POLICIES: EU THREATENS DAIMLER FINES",
+            "nextUpTease": "AUTO LOGISTICS: PROFICIENT CLAIMS MARKET SHARE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/fmcsa-proposed-rule-english-proficiency",
-                "Published: 2026-08-10T13:45:00Z",
+                "Source: https://www.joc.com/article/global-shipping-calls-on-un-imo-to-ensure-no-hormuz-tolls",
+                "Published: 2026-08-10T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EMISSION POLICIES: EU THREATENS DAIMLER FINES",
+            "heading": "AUTO LOGISTICS: PROFICIENT CLAIMS MARKET SHARE",
             "points": [
-                "European Union regulatory bodies signaled potential fines reaching 1B euros against Daimler Truck over heavy-duty vehicle emissions compliance targets.",
-                "Daimler Truck executive leadership disputed the regulatory assessment, emphasizing substantial capital investment in zero-emission truck product development.",
-                "Commercial vehicle original equipment manufacturers face intensifying regulatory deadlines to accelerate zero-emission fleet production across Europe.",
-                "Fleet operators are evaluating acquisition strategies as regulatory pressure accelerates the transition toward battery-electric and hydrogen commercial trucks."
+                "Proficient Auto Logistics executed an acquisition agreement to expand its specialized car-haul fleet capacity across North American automotive logistics networks.",
+                "The strategic acquisition increases the carrier's operating market share to 25% within the specialized finished-vehicle transportation sector.",
+                "Consolidation across specialized motor carrier fleets comes as automotive manufacturers demand higher volume flexibility and integrated transport coverage.",
+                "Industry analysts anticipate further consolidation among niche carrier networks seeking scale efficiencies to offset elevated equipment operational costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY FREIGHT: SUPERTANKER CHARTERS HIT HIGH",
+            "nextUpTease": "FLEET LABORS: DOT LAUNCHES FREEDOM HAULERS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/eu-daimler-truck-emissions-fine",
-                "Published: 2026-08-10T12:30:00Z",
+                "Source: https://www.freightwaves.com/news/proficient-auto-logistics-deal-market-share-25-percent",
+                "Published: 2026-08-10T10:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ENERGY FREIGHT: SUPERTANKER CHARTERS HIT HIGH",
+            "heading": "FLEET LABORS: DOT LAUNCHES FREEDOM HAULERS",
             "points": [
-                "Daily charter rates for Very Large Crude Carriers operating on Middle East benchmark shipping routes surged toward $500,000 per day.",
-                "Escalating geopolitical instability and naval security threats surrounding the Strait of Hormuz have drastically tightened available spot charter tonnage.",
-                "Marine underwriters are adjusting war-risk insurance surcharges, further driving up total landed freight costs for crude oil shipments.",
-                "Global energy traders and refiners face mounting transportation overhead, pressuring downstream fuel supply chains ahead of winter demand."
+                "The US Department of Transportation launched the Freedom Haulers initiative to fast-track military veterans into commercial motor vehicle driver careers.",
+                "Interagency coordination shortens commercial driver licensing steps for military personnel possessing verified heavy vehicle operational experience.",
+                "Federal safety regulators are pairing driver recruitment expansion with rigorous enforcement checks targeting non-domiciled driver license compliance.",
+                "Motor carrier safety directors welcome the veteran recruitment pipeline as driver turnover pressures continue impacting long-haul fleet productivity."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE LABORS: ETSY SLASHES WORKFORCE",
+            "nextUpTease": "E-COMMERCE DATA: AMAZON RESTRICTS TITLE LENGTH",
             "tags": [
-                "Source: https://www.ttnews.com/articles/supertanker-rates-reach-record-highs",
-                "Published: 2026-08-10T11:00:00Z",
+                "Source: https://www.inboundlogistics.com/article/trump-administration-launches-freedom-haulers-veterans-cdl",
+                "Published: 2026-08-10T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "E-COMMERCE LABORS: ETSY SLASHES WORKFORCE",
+            "heading": "E-COMMERCE DATA: AMAZON RESTRICTS TITLE LENGTH",
             "points": [
-                "E-commerce marketplace Etsy announced corporate workforce reductions affecting 220 staff members, representing approximately 12% of its personnel.",
-                "The organizational restructuring follows the completed $1.4B sale of fashion marketplace Depop to competitor e-commerce platform eBay.",
-                "Corporate leadership cited ongoing operational efficiency initiatives and resource alignment across remaining marketplace properties following the divestiture.",
-                "E-commerce platforms are restructuring overhead costs to defend profit margins against softer non-essential consumer spending across retail categories."
+                "Amazon enforced a strict 75-character limit on product title fields across third-party seller listings and first-party retail vendor catalogs.",
+                "Title truncation standards aim to standardize mobile shopping display layouts and improve automated catalog search indexing performance.",
+                "E-commerce merchants are auditing digital product catalogs to adjust keyword placement and ensure compliance before automated suppresses take effect.",
+                "Brand managers are shifting extended product descriptor keywords into backend search terms and structured product bullet attribute fields."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.retaildive.com/news/etsy-slashes-workforce-layoffs/723240/",
-                "Published: 2026-08-10T10:15:00Z",
+                "Source: https://www.ecommercebytes.com/article/amazons-new-product-title-policy-applies-to-own-listings",
+                "Published: 2026-08-09T18:00:00Z",
                 "Status: Audited & True"
             ]
         }
