@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+        "hookTitle": "VIRGINIA EXPANDS INDIANAPOLIS DIRECT ROUTE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "EXECUTIVE: AMAZON MERGES TRANSPORTATION TEAMS",
+                "headline": "RAIL FREIGHT: VIRGINIA EXPANDS INDIANAPOLIS DIRECT ROUTE",
+                "teaserTitle": "CUSTOMS COMPLIANCE: COMMERCE EXPANDS DERIVATIVE METALS TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative has enacted Section three hundred one tariffs across sixty partner nations targeting forced labor risks. Customs compliance teams face immediate entry documentation scrutiny at major discharge gateways."
+                "narration_line": "The Port of Virginia has launched direct rail transport services into Indianapolis via CSX Railroad infrastructure. This dedicated intermodal corridor bypasses Chicago railyards to eliminate import delays and reduce regional trucking costs for Midwest shippers."
             },
             {
                 "slide_index": 2,
-                "headline": "EXECUTIVE: AMAZON MERGES TRANSPORTATION TEAMS",
-                "teaserTitle": "MARITIME: MSC FINED FOR RUNAWAY SHIP",
+                "headline": "CUSTOMS COMPLIANCE: COMMERCE EXPANDS DERIVATIVE METALS TARIFFS",
+                "teaserTitle": "OCEAN FREIGHT: COSCO RESUMES RED SEA CONTAINER SAILINGS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Amazon has consolidated its middle mile air and ground transportation management into a single operational unit. The integration enables dynamic real time cargo rerouting across North American fulfillment networks."
+                "narration_line": "The Commerce Department proposed expanded import tariffs on derivative steel, aluminum, and copper manufactured components. Importers face increased customs compliance verification protocols across cross-border industrial equipment supply chains."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: MSC FINED FOR RUNAWAY SHIP",
-                "teaserTitle": "SUPPLY CHAIN: GM EXITS EV BATTERY VENTURE",
+                "headline": "OCEAN FREIGHT: COSCO RESUMES RED SEA CONTAINER SAILINGS",
+                "teaserTitle": "MARITIME SECURITY: US DISABLES CONTAINER VESSEL NEAR IRAN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A federal court ordered MSC Shipmanagement to pay six million dollars following concealed engine failure investigations in Charleston harbor. The ruling highlights increasing federal regulatory enforcement regarding commercial vessel mechanical safety."
+                "narration_line": "Cosco Shipping has officially resumed container bookings and vessel transits through the Red Sea maritime corridor. The carrier aims to restore direct Asia to Europe transit schedules while navigating ongoing regional maritime threats."
             },
             {
                 "slide_index": 4,
-                "headline": "SUPPLY CHAIN: GM EXITS EV BATTERY VENTURE",
-                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS SUFFERS IT BREACH",
+                "headline": "MARITIME SECURITY: US DISABLES CONTAINER VESSEL NEAR IRAN",
+                "teaserTitle": "RETAIL LOGISTICS: STARBUCKS TARGETS DAILY INVENTORY REPLENISHMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "General Motors has sold its stake in an Indiana battery plant to joint venture partner Samsung. The divestment reflects shifting domestic electric vehicle demand and revised federal tax credit structures."
+                "narration_line": "United States naval forces intercepted and disabled a commercial containership attempting to breach maritime security boundaries off the Iranian coast. Military operations continue to enforce international transit security and protect commercial shipping lanes in the Gulf region."
             },
             {
                 "slide_index": 5,
-                "headline": "CYBERSECURITY: CEVA LOGISTICS SUFFERS IT BREACH",
-                "teaserTitle": "MANUFACTURING: MEXICAN TRUCK PRODUCTION SURGES",
+                "headline": "RETAIL LOGISTICS: STARBUCKS TARGETS DAILY INVENTORY REPLENISHMENT",
+                "teaserTitle": "OFFSHORE FLEET: CADELER ORDERS TWO HEAVY INSTALLATION VESSELS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A major cybersecurity breach at Ceva Logistics disrupted warehouse management systems across European distribution networks. Affected retail clients faced manual inventory tracking workarounds while security teams isolated compromised database servers."
+                "narration_line": "Starbucks has initiated a comprehensive operational transition toward a twenty-four-hour store inventory replenishment model. The logistics strategy eliminates reliance on legacy automated tools to maximize store product availability and reduce stockouts."
             },
             {
                 "slide_index": 6,
-                "headline": "MANUFACTURING: MEXICAN TRUCK PRODUCTION SURGES",
-                "teaserTitle": "INLAND WATERWAYS: RHINE DROUGHT HALTS TRANSITS",
+                "headline": "OFFSHORE FLEET: CADELER ORDERS TWO HEAVY INSTALLATION VESSELS",
+                "teaserTitle": "CUSTOMS DUTIES: CBP SURPASSES HUNDRED BILLION TARIFF REFUNDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Heavy truck manufacturing in Mexico surged fifty one point eight percent year over year in July reaching nearly fifteen thousand units. Expanded vehicle production reflects growing nearshoring investments and strong cross border freight demand."
+                "narration_line": "Offshore wind contractor Cadeler signed an eight hundred five million euro vessel construction contract with Cosco Shipping Heavy Industry. The strategic expansion doubles deepwater installation capacity to meet accelerating global offshore energy project demand."
             },
             {
                 "slide_index": 7,
-                "headline": "INLAND WATERWAYS: RHINE DROUGHT HALTS TRANSITS",
+                "headline": "CUSTOMS DUTIES: CBP SURPASSES HUNDRED BILLION TARIFF REFUNDS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Severe drought conditions have dropped Rhine River water levels halting commercial barge transit across key European inland waterways. Industrial shippers are rapidly shifting containerized cargo onto regional rail and trucking networks."
+                "narration_line": "United States Customs and Border Protection reached a milestone of one hundred billion dollars in total tariff refunds processed under federal court orders. Importers continue to navigate pending liquidation appeals as emergency duty adjustments are finalized."
             },
             {
                 "slide_index": 8,

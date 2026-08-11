@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR advances Section 301 forced labor tariffs on 60 trading partners, driving immediate supply chain audits and customs compliance risks."
+        "titleWhite": "VIRGINIA EXPANDS INDIANAPOLIS DIRECT",
+        "titleBlue": "ROUTE",
+        "footerSummary": "Port of Virginia and CSX bypass Chicago railyards with new direct rail service to Indianapolis, unlocking faster Midwest import velocity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "RAIL FREIGHT: VIRGINIA EXPANDS INDIANAPOLIS DIRECT ROUTE",
             "points": [
-                "The Office of the United States Trade Representative has officially initiated the implementation of trade tariffs across sixty trading partner nations under Section 301 authority. The regulatory action targets global supply chains suspected of integrating forced labor practices within regional manufacturing and export operations.",
-                "Customs compliance teams and international freight importers face heightened entry documentation scrutiny at major North American discharge gateways. Tariff duties take immediate effect following the statutory expiration of prior Section 122 emergency trade measures across active maritime corridors.",
-                "Operational trade strategists emphasize that global BCOs must conduct thorough tier-two and tier-three vendor origin audits to guarantee complete compliance. Importers failing to substantiate supplier labor standards face severe customs holds, potential cargo seizures, and substantial financial duty penalties.",
-                "Enterprise supply chain directors should update import risk profiles and request immediate origin declarations from overseas suppliers to prevent supply chain stoppages."
+                "The Port of Virginia has officially established a direct intermodal rail connection linking its deepwater marine terminals to CSX Transportation's rail hub in Indianapolis. The newly operational service eliminates previous mandatory rail transfers through congested Chicago junctions for Midwest-bound containerized cargo.",
+                "Cargo velocity gains are expected to significantly reduce dwell times for regional importers across Indiana, Ohio, and Kentucky manufacturing hubs. Direct intermodal routing decreases transit latency by up to forty-eight hours compared to traditional truckload and multi-interline rail routings.",
+                "Port authority officials and CSX executives developed the direct service to absorb expanding import volumes from transpacific and transatlantic ocean carrier loops. Freight forwarders gain access to dedicated terminal capacity, lowering overall landed supply chain costs for regional enterprise shippers.",
+                "Supply chain managers serving Midwest distribution centers should re-evaluate East Coast port selection parameters to capitalize on streamlined rail access and reduced drayage surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "EXECUTIVE: AMAZON MERGES TRANSPORTATION TEAMS",
+            "nextUpTease": "CUSTOMS COMPLIANCE: COMMERCE EXPANDS DERIVATIVE METALS TARIFFS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
-                "Published: 2026-08-11T12:00:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-service-indianapolis/",
+                "Published: 2026-08-11T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "EXECUTIVE: AMAZON MERGES TRANSPORTATION TEAMS",
+            "heading": "CUSTOMS COMPLIANCE: COMMERCE EXPANDS DERIVATIVE METALS TARIFFS",
             "points": [
-                "E-commerce giant Amazon has formally consolidated its middle-mile air and ground transportation operations management teams into a unified organizational unit. Corporate executives confirmed the restructuring aims to streamline operational decision-making and accelerate transit routing for regional fulfillment networks.",
-                "The operational integration enables real-time dynamic re-routing between air cargo charters and surface trucking fleets during peak demand surges. Logistics planners anticipate reduced middle-mile transit latency and improved equipment asset utilization across North American sorting nodes.",
-                "Commercial freight analysts view the consolidation as a strategic move to optimize middle-mile carrier costs amid changing e-commerce order patterns. Industry competitors and third-party logistics providers are monitoring the organizational shift as Amazon expands its external logistics service offerings.",
-                "Supply chain leaders should track integrated middle-mile strategies to identify emerging benchmarks in multi-modal e-commerce distribution efficiency."
+                "The United States Department of Commerce has issued a regulatory proposal to impose elevated import tariffs across an expanded list of derivative steel, aluminum, and copper products. The proposed trade classifications encompass finished manufactured items ranging from industrial floor safes to commercial tanker trailers and brass wind instruments.",
+                "Customs brokers and industrial importers must prepare for heightened tariff classification checks at major U.S. ports of entry upon final rule publication. The expansion targets secondary downstream goods to eliminate trade diversion and safeguard domestic metal fabrication industries.",
+                "International trade attorneys emphasize that beneficial cargo owners must audit their Harmonized System tariff codes to identify potential cost exposure across multi-tier component supply chains. Unprepared importers face unexpected duty liabilities and administrative hold delays during entry processing.",
+                "Procurement officers sourcing processed metal components should immediately review international vendor manifests to adjust landed cost calculations ahead of enforcement deadlines."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: MSC FINED FOR RUNAWAY SHIP",
+            "nextUpTease": "OCEAN FREIGHT: COSCO RESUMES RED SEA CONTAINER SAILINGS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/amazon-combines-air-ground-operations-teams/",
-                "Published: 2026-08-10T18:00:00Z",
+                "Source: https://www.supplychaindive.com/news/commerce-department-tariffs-steel-aluminum-copper-derivatives/",
+                "Published: 2026-08-11T13:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: MSC FINED FOR RUNAWAY SHIP",
+            "heading": "OCEAN FREIGHT: COSCO RESUMES RED SEA CONTAINER SAILINGS",
             "points": [
-                "MSC Shipmanagement has been sentenced to pay six million dollars in fines and placed on four years of probation by a federal court. The legal ruling follows a guilty plea concerning concealed engine control failures during a high-speed runaway incident in Charleston harbor.",
-                "Federal maritime investigators uncovered systemic maintenance failures and a failure to report hazardous engine conditions to harbor authorities prior to transit. The judicial enforcement action highlights growing federal regulatory scrutiny surrounding vessel mechanical integrity and maritime reporting compliance.",
-                "Ocean carriers and ship management firms are adjusting internal engineering reporting protocols to enforce absolute transparency with port authorities. Maritime legal experts warn that failure to disclose mechanical defects can trigger severe criminal charges and operational vessel detentions.",
-                "Compliance officers should verify vessel safety histories and maintenance compliance across charter agreements to mitigate legal and operational liabilities."
+                "State-owned ocean carrier Cosco Shipping has re-opened commercial booking acceptance for select container vessel transits operating through the Red Sea and Bab el-Mandeb Strait. The decision marks a significant tactical pivot as major international liner operators continue avoiding the waterway due to persistent security threats.",
+                "Direct maritime transit through the Suez Canal enables ocean carriers to bypass lengthy Cape of Good Hope re-routings, shaving up to fourteen days off Asia-to-Europe transit schedules. Shippers securing space on active sailings gain significant operational transit speed advantages over competitors on altered routes.",
+                "Industry analysts note that while shorter vessel rotations reduce bunker fuel consumption and improve container asset availability, security premiums remain high. Global forwarders are monitoring carrier fleet positioning to gauge whether broader market capacity will return to shorter Suez routes.",
+                "Logistics directors managing Asia-Europe trade lanes must balance transit speed gains against lingering security surcharges when evaluating carrier routing options."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPPLY CHAIN: GM EXITS EV BATTERY VENTURE",
+            "nextUpTease": "MARITIME SECURITY: US DISABLES CONTAINER VESSEL NEAR IRAN",
             "tags": [
-                "Source: https://splash247.com/msc-fined-6m-over-charleston-runaway-probe/",
-                "Published: 2026-08-11T08:00:00Z",
+                "Source: https://theloadstar.com/cosco-returns-to-red-sea-sailings-despite-threats-from-houthis/",
+                "Published: 2026-08-11T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SUPPLY CHAIN: GM EXITS EV BATTERY VENTURE",
+            "heading": "MARITIME SECURITY: US DISABLES CONTAINER VESSEL NEAR IRAN",
             "points": [
-                "General Motors has agreed to sell its equity stake in an Indiana electric vehicle battery manufacturing joint venture directly to Samsung. Executive leadership cited softening domestic consumer demand for electric vehicles and altered federal tax incentive structures for the strategic divestment.",
-                "Samsung will assume full ownership of the battery manufacturing facility, altering regional supply chain dynamics and component distribution plans. The transaction underscores broader automotive industry recalibrations as legacy manufacturers re-evaluate capital commitments toward electric platform supply chains.",
-                "Automotive component suppliers and raw material vendors are re-aligning production schedules and procurement contracts to match revised vehicle manufacturing targets. Supply chain strategists project continued shifting investment toward hybrid vehicle production lines across North American assembly facilities.",
-                "Procurement executives in the automotive sector must review component supply agreements to navigate shifting OEM production strategies and demand cycles."
+                "United States naval forces intercepted and disabled a small feeder containership attempting to navigate near naval blockade boundaries off the Iranian coastline. Defense officials confirmed the maritime interdiction was executed after the vessel failed to respond to official naval warnings in international waters.",
+                "The security incident triggered localized vessel traffic diversions and elevated risk insurance premiums across commercial shipping corridors in the Gulf of Oman. Ocean carriers operating feeder services in proximity to the Strait of Hormuz are adjusting course patterns to maintain safe standoff distances.",
+                "Maritime risk management experts highlight that escalating regional naval enforcement is creating heightened friction for regional cargo transshipments. Vessel operators face prolonged security inspections and mandatory identity checks when operating in contested Middle Eastern maritime corridors.",
+                "Risk managers should track regional maritime security advisories and verify emergency war risk insurance coverage for all cargo transiting Gulf transshipment hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS SUFFERS IT BREACH",
+            "nextUpTease": "RETAIL LOGISTICS: STARBUCKS TARGETS DAILY INVENTORY REPLENISHMENT",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/gm-pulls-out-of-ev-battery-jv-with-samsung",
-                "Published: 2026-08-11T11:00:00Z",
+                "Source: https://maritime-executive.com/article/report-u-s-disables-small-containership-approaching-iranian-blockade",
+                "Published: 2026-08-11T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CYBERSECURITY: CEVA LOGISTICS SUFFERS IT BREACH",
+            "heading": "RETAIL LOGISTICS: STARBUCKS TARGETS DAILY INVENTORY REPLENISHMENT",
             "points": [
-                "Third-party logistics provider Ceva Logistics has experienced a major cybersecurity incident that disrupted operational IT systems across European distribution facilities. The network intrusion compromised warehouse operations and temporarily halted automated inventory tracking for multiple international enterprise clients.",
-                "Affected retail, banking, and gaming supply chains experienced localized shipping delays and manual inventory processing workarounds across key fulfillment hubs. Cyber security teams are executing emergency system isolation protocols while attempting to restore safe database connections.",
-                "Enterprise beneficial cargo owners are re-examining third-party cybersecurity protocols and vendor data access limits to insulate core operations against supply chain hacks. Logistics analysts stress that supply chain IT vulnerabilities pose severe operational and financial risks to multi-channel retailers.",
-                "Risk management directors should mandate strict cybersecurity audits for external logistics partners to prevent operational downtime from third-party breaches."
+                "Global coffee chain Starbucks has initiated a comprehensive supply chain restructuring designed to achieve twenty-four-hour store inventory replenishment across its retail network. The operational shift follows the decision to decommission an automated artificial intelligence inventory planning system after nine months of testing.",
+                "The store fulfillment overhaul relies on direct distribution protocols and real-time inventory tracking to prevent store stockouts and improve product freshness. Supply chain planners are re-architecting middle-mile delivery windows to support continuous daily store deliveries.",
+                "Retail logistics experts view the transition as a validation of direct physical fulfillment fundamentals over unproven automated forecasting algorithms. Third-party logistics partners serving large retail chains are adapting warehouse picking operations to handle smaller, high-frequency store shipments.",
+                "Omnichannel retail executives should assess whether high-frequency store replenishment models can reduce safety stock requirements and improve customer availability."
             ],
             "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: MEXICAN TRUCK PRODUCTION SURGES",
+            "nextUpTease": "OFFSHORE FLEET: CADELER ORDERS TWO HEAVY INSTALLATION VESSELS",
             "tags": [
-                "Source: https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-further-several-bcos-exposed/",
-                "Published: 2026-08-11T10:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MANUFACTURING: MEXICAN TRUCK PRODUCTION SURGES",
-            "points": [
-                "Heavy-duty commercial vehicle production in Mexico surged fifty-one point eight percent year over year in July, reaching fourteen thousand six hundred seventy-five units. Industry trade figures confirm that cross-border vehicle exports experienced parallel growth driven by strong North American commercial fleet demand.",
-                "Increased manufacturing output across Mexican assembly plants reflects expanding nearshoring capital investments and sustained freight capacity upgrades. Cross-border logistics providers are expanding drayage terminal capacity and customs processing corridors at key southern border crossings.",
-                "Commercial fleet managers are capitalizing on improved heavy truck availability to replace aging equipment and optimize operating maintenance costs. Automotive supply chain managers continue expanding component sourcing networks within Mexican industrial corridors to leverage nearshore proximity.",
-                "Fleet operations directors should evaluate expanded Mexican commercial vehicle availability to streamline equipment procurement schedules and fleet modernization."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: RHINE DROUGHT HALTS TRANSITS",
-            "tags": [
-                "Source: https://www.ttnews.com/articles/mexican-truck-production-july-2026",
+                "Source: https://www.supplychaindive.com/news/starbucks-24-hour-inventory-replenishment-plan/",
                 "Published: 2026-08-11T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 7,
-            "heading": "INLAND WATERWAYS: RHINE DROUGHT HALTS TRANSITS",
+            "id": 6,
+            "heading": "OFFSHORE FLEET: CADELER ORDERS TWO HEAVY INSTALLATION VESSELS",
             "points": [
-                "Prolonged heatwaves and persistent drought conditions across Central Europe have dropped water levels along the Rhine River to critical operational thresholds. Commercial barge navigation has been effectively severed into isolated northern and southern segments, disrupting inland bulk freight transit.",
-                "Industrial shippers and chemical manufacturers are forced to divert containerized and bulk cargo onto regional rail and motor carrier networks. Land transport operators report tightening truckload capacity and rising freight surcharges along key German and Dutch hinterland corridors.",
-                "Logistics strategists highlight that inland waterway disruptions compound broader European supply chain congestion and elevate landed manufacturing costs. Freight forwarders are securing emergency rail capacity and establishing alternative intermodal routing options for affected European cargo.",
-                "Logistics planners operating in European corridors must secure emergency surface freight capacity immediately to bypass Rhine barge navigation restrictions."
+                "Offshore wind installation contractor Cadeler has placed a formal shipbuilding order for two next-generation Wind Turbine Installation Vessels with COSCO Shipping Heavy Industry. The contract holds a total investment value of approximately eight hundred five million euros, reinforcing long-term fleet expansion plans.",
+                "The heavy-lift vessels will feature advanced positioning systems and expanded crane capacities tailored for deploying ultra-large offshore wind turbines globally. Delivery of the specialized jack-up vessels is scheduled to begin in late 2026 to satisfy accelerating offshore energy installation contracts.",
+                "Maritime analysts emphasize that specialized offshore installation capacity remains a critical bottleneck for global renewable energy infrastructure projects. Marine contractors are committing substantial capital to secure specialized vessel availability ahead of projected offshore construction surges.",
+                "Energy supply chain directors should secure long-term offshore heavy transport and installation vessel charters early to insulate project schedules against fleet shortages."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CUSTOMS DUTIES: CBP SURPASSES HUNDRED BILLION TARIFF REFUNDS",
+            "tags": [
+                "Source: https://maritime-executive.com/article/cadeler-orders-two-more-wtiv-vessels-citing-continued-strong-sector-demand",
+                "Published: 2026-08-10T18:56:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "CUSTOMS DUTIES: CBP SURPASSES HUNDRED BILLION TARIFF REFUNDS",
+            "points": [
+                "United States Customs and Border Protection has officially distributed over one hundred billion dollars in total tariff refunds under court-mandated International Emergency Economic Powers Act litigation rulings. Despite reaching the financial milestone, agency officials continue working to build automated liquidation processing capabilities.",
+                "Customs entry liquidations remain delayed as Department of Justice legal appeals navigate federal appellate courts, creating administrative backlogs for enterprise importers. Shippers seeking duty recoveries are increasingly monetizing tariff refund rights through secondary financial markets to secure immediate liquid capital.",
+                "Trade finance specialists note that secondary refund sales reflect growing corporate urgency to strengthen cash liquidity amid volatile global macroeconomic conditions. Beneficial cargo owners are weighing immediate discounted payout options against prolonged federal customs administrative delays.",
+                "Corporate finance officers should audit active entry refund claims to determine whether secondary monetization strategies align with immediate enterprise liquidity goals."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://splash247.com/rhine-cut-in-two-as-european-drought-cripples-inland-shipping/",
-                "Published: 2026-08-11T07:30:00Z",
+                "Source: https://www.supplychaindive.com/news/cbp-100b-ieepa-tariff-refunds-milestone/",
+                "Published: 2026-08-11T08:20:00Z",
                 "Status: Audited & True"
             ]
         }
