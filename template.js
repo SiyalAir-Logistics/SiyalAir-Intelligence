@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR ENFORCES LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR moves to implement Section 301 forced-labor tariffs across sixty nations as Section 122 duties expire, forcing importers to alter compliance frameworks."
+        "titleWhite": "JONES ACT WAIVER",
+        "titleBlue": "EXTENDED",
+        "footerSummary": "White House narrows Jones Act exemptions to case-by-case reviews as transpacific container spot rates breach nine thousand four hundred dollars per container."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: USTR ENFORCES LABOR TARIFFS",
+            "heading": "MARITIME POLICY: JONES ACT WAIVER EXTENDED",
             "points": [
-                "The Office of the United States Trade Representative has officially moved to implement comprehensive tariffs on sixty trading partner nations under Section 301 of the Trade Act of 1974. The regulatory action targets forced labor non-compliance as temporary Section 122 import tariff frameworks officially expire across international trade lanes. Federal authorities confirmed that enforcement mechanisms will focus on high-risk manufacturing hubs and raw material sourcing.",
-                "Importers operating within affected overseas corridors face immediate mandatory documentation requirements to verify supply chain origin and labor standards. Customs clearance procedures are expected to experience extended audit windows as border control officers enforce stricter verification protocols. Logistics intermediaries project potential cost increases and compliance bottlenecks for non-compliant ocean and air shipments.",
-                "Enterprise supply chain officers must update trade compliance frameworks and risk mitigation strategies to avoid severe port entry delays. Legal counsel advises beneficial cargo owners to conduct comprehensive multi-tier vendor audits across international procurement networks. Trade compliance teams are accelerating automated origin-tracing integrations to maintain frictionless customs processing.",
-                "Global trade directors should review country-of-origin documentation immediately to prevent administrative entry holds at major arrival ports."
+                "The executive administration has officially extended the long-standing maritime cabotage waiver under the Jones Act for an additional ninety days. Federal officials confirmed that the policy renewal includes tighter administrative controls and mandates individual voyage approvals. The regulatory adjustment targets refined petroleum corridors connecting Gulf Coast refineries directly to West Coast discharge terminals.",
+                "Energy logistics operators utilizing non-U.S. flagged tanker assets must submit specific voyage applications prior to loading crude oil or refined fuels. Maritime industry analysts report that while the previous blanket exemption provided unrestricted coastal transit, case-by-case reviews will increase compliance documentation. Domestic shipbuilders and maritime labor organizations continue pressing regulators to phase out exemptions completely.",
+                "Beneficial cargo owners and energy traders are adjusting vessel chartering protocols to ensure full alignment with updated Maritime Administration oversight. Terminal operations across Gulf and Pacific gateways are preparing for additional documentation verification procedures during vessel clearance. Chartering desks anticipate minor administrative queuing delays during the transition to individual voyage authorization.",
+                "Energy supply chain directors must submit cabotage exemption paperwork early to avoid unexpected vessel departure holds at domestic loading berths."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME LAW: MSC FINED SIX MILLION DOLLARS",
+            "nextUpTease": "TRADE POLICY: POLYSILICON TARIFFS IMPOSED",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
-                "Published: 2026-08-11T12:00:00Z",
+                "Source: https://maritime-executive.com/article/trump-administration-extends-jones-act-waiver-for-another-90-days",
+                "Published: 2026-08-11T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME LAW: MSC FINED SIX MILLION DOLLARS",
+            "heading": "TRADE POLICY: POLYSILICON TARIFFS IMPOSED",
             "points": [
-                "Ocean carrier MSC Shipmanagement has been ordered to pay six million dollars in criminal fines and placed on four years of federal probation following a major maritime court ruling. The judicial decision stems from a 2024 incident where the container vessel MSC Michigan VII suffered an uncontrolled propulsion failure in Charleston harbor. The operator admitted guilt to concealing hazardous engine control defects and obstructing subsequent federal safety investigations.",
-                "The National Transportation Safety Board and United States Coast Guard documented extensive mechanical failures and maintenance reporting violations aboard the vessel. Under the terms of the probation agreement, MSC must implement enhanced fleet-wide mechanical audit protocols and submit to independent safety monitoring. Marine safety authorities emphasized that failing to report hazardous vessel conditions poses critical risks to municipal harbor infrastructure.",
-                "Maritime legal experts anticipate heightened regulatory scrutiny across foreign-flagged container fleets operating within North American commercial ports. Terminal operators and port authorities are reinforcing emergency vessel response procedures to manage potential marine propulsion emergencies. Vessel operating common carriers are reviewing onboard mechanical maintenance logs to ensure compliance with Coast Guard reporting mandates.",
-                "Fleet operations managers must audit vessel maintenance reporting protocols immediately to maintain regulatory compliance during harbor navigation."
+                "Federal trade authorities have enacted a fifteen percent import tariff on overseas polysilicon shipments critical for solar module and semiconductor production. The executive order establishes an explicit import price floor effective early December to protect domestic manufacturing capacity. Trade compliance officers confirm that derivative raw materials and processed silicon ingots fall under the renewed duty umbrella.",
+                "Semiconductor foundries and solar equipment manufacturers face immediate procurement cost escalations as international supply chains absorb the duty structure. Customs brokerage firms are revising entry classification codes to prevent unexpected clearance delays at North American container ports. Importers of record are auditing tier-two and tier-three vendor networks to trace origin credentials precisely.",
+                "High-tech manufacturing supply chain executives are re-evaluating long-term component sourcing agreements across East Asian processing hubs. Strategic procurement teams are accelerating alternative supplier qualification projects in domestic and nearshore regions. Customs compliance attorneys advise BCOs to review valuation declarations before the December enforcement deadline takes effect.",
+                "Procurement directors should audit polysilicon import classifications immediately to mitigate duty risks before the new tariff structure launches."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: COSCO RESUMES RED SEA ROUTES",
+            "nextUpTease": "OCEAN FREIGHT: SEALEAD CEASES CONTAINER OPERATIONS",
             "tags": [
-                "Source: https://splash247.com/msc-fined-6m-over-charleston-runaway-probe/",
-                "Published: 2026-08-11T10:30:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-15-percent-tariff-polysilicon-imports-chips-solar/",
+                "Published: 2026-08-11T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OCEAN FREIGHT: COSCO RESUMES RED SEA ROUTES",
+            "heading": "OCEAN FREIGHT: SEALEAD CEASES CONTAINER OPERATIONS",
             "points": [
-                "State-owned ocean carrier Cosco Shipping has reopened container booking acceptance for direct Red Sea liner services despite ongoing security threats in the region. The decision marks a significant operational pivot as the Chinese carrier deploys specialized vessel assets through the Bab el-Mandeb Strait. Cargo forwarders report renewed booking availability for direct Asia-to-Europe transit schedules bypassing the longer Cape of Good Hope route.",
-                "Maritime security analysts highlight that while major Western ocean lines continue avoiding high-risk corridors, select global carriers are capitalizing on shorter transit durations. The resumption of direct Red Sea transits offers shippers reduced vessel voyage days and lower fuel consumption expenditures along key trade lanes. However, regional war risk insurance surcharges remain elevated due to persistent maritime security volatility.",
-                "Logistics planners are carefully weighing the transit time savings of direct Red Sea shipping against regional security risks and volatile insurance premiums. Freight forwarders are offering dual-routing options to accommodate varying risk tolerances among commercial beneficial cargo owners. Marine underwriters continue to monitor vessel tracking data to dynamically adjust coverage rates along critical maritime chokepoints.",
-                "Ocean freight managers should evaluate risk-adjusted transit options before rebooking container capacity on direct Red Sea service loops."
+                "Singapore-registered ocean carrier SeaLead Shipping has formally initiated voluntary liquidation procedures, permanently shutting down its global container liner network. The sudden operational closure follows heavy financial pressure and compliance restrictions stemming from recent federal trade sanctions. Key service loops connecting major manufacturing hubs in Asia with Middle Eastern, Mediterranean, and Baltic ports have completely ceased operations.",
+                "Competing ocean lines and vessel charterers are actively acquiring stranded container tonnage and reallocating displaced vessel assets across active trade lanes. Freight forwarders are managing urgent cargo rerouting requests for thousands of loaded containers stranded at intermediate transshipment hubs. Importers operating across affected corridors face unexpected storage fees and terminal handling surcharges as cargo is reassigned.",
+                "Maritime legal experts emphasize that carrier liquidations highlight the increasing operational risks surrounding global trade sanction compliance. Logistics providers are working directly with marine terminal operators to secure cargo release orders and arrange onward transportation. Freight forwarders are updating carrier risk profiles to insulate shippers against sudden network disruptions.",
+                "Inbound logistics managers with cargo on SeaLead vessels must contact port terminals immediately to secure alternative ocean carriage and avoid demurrage."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT LOGISTICS: TYPHOON DISRUPTS ASIA PORTS",
+            "nextUpTease": "INTERMODAL RAIL: VIRGINIA EXPANDS INDIANAPOLIS SERVICE",
             "tags": [
-                "Source: https://theloadstar.com/cosco-returns-to-red-sea-sailings-despite-threats-from-houthis/",
-                "Published: 2026-08-11T09:15:00Z",
+                "Source: https://www.joc.com/article/sealead-ends-operations-us-sanctions_20260811.html",
+                "Published: 2026-08-11T13:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PORT LOGISTICS: TYPHOON DISRUPTS ASIA PORTS",
+            "heading": "INTERMODAL RAIL: VIRGINIA EXPANDS INDIANAPOLIS SERVICE",
             "points": [
-                "Typhoon Dolphin made landfall near major East Asian shipping hubs, forcing extensive port closures and generating massive container vessel backlogs across China. Maritime tracking data indicates over two point four million TEU of containership capacity is currently anchored awaiting berth availability. Port authorities in Ningbo and surrounding maritime corridors suspended crane operations and container gate movements due to dangerous weather conditions.",
-                "The severe weather event has compounded existing berth congestion, triggering cascading schedule delays across transpacific and Asia-Europe trade lanes. Ocean carriers are adjusting vessel departure sequences and executing emergency port skips to bypass congested East Asian container terminals. Freight forwarders warn shippers of impending container equipment shortages at major export hubs as equipment positioning cycles stall.",
-                "Supply chain strategists emphasize that severe weather interruptions in East Asia will cause lingering arrival delays at North American import gateways. Terminal operators are preparing round-the-clock discharge operations once weather conditions clear to process stranded container tonnage. Air freight spot markets are experiencing increased booking queries as shippers seek expedited alternatives for time-sensitive cargo.",
-                "Inbound logistics planners must adjust safety stock calculations to buffer against incoming transpacific vessel arrival delays."
+                "The Port of Virginia has partnered with Class I railroad CSX to launch a direct intermodal rail service connecting ocean terminals to Indianapolis. The dedicated rail corridor allows containerized import freight to bypass heavily congested rail interchange ramps in the Chicago metropolitan hub. Port officials report that direct rail positioning reduces overall inland transit times to Midwest distribution centers by up to forty-eight hours.",
+                "Midwest shippers and logistics managers gain streamlined access to deepwater marine facilities while mitigating regional drayage shortages. Transportation planners highlight that eliminating Chicago interchange transfers significantly lowers drayage expense and railcar dwell friction. Terminal operators in Virginia are expanding container gate hours to support seamless rail-to-ship intermodal transfers.",
+                "Supply chain strategists view inland rail corridor expansions as vital components for building resilient East Coast import networks. Regional distribution centers in Indiana and Ohio are re-aligning inventory routing strategies to leverage the direct rail connection. Freight forwarders are offering integrated ocean-rail booking options to commercial beneficial cargo owners.",
+                "Midwest logistics directors should evaluate direct Virginia-to-Indianapolis rail capacity to reduce inland container transit times and drayage fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "NETWORK OPS: AMAZON MERGES FREIGHT TEAMS",
+            "nextUpTease": "CONTAINER SHIPPING: TRANSPACIFIC FREIGHT RATES SURGE",
             "tags": [
-                "Source: https://theloadstar.com/tropical-storms-bring-congestion-and-cargo-backlogs-at-asian-ports/",
-                "Published: 2026-08-11T11:45:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-service-indianapolis/",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "NETWORK OPS: AMAZON MERGES FREIGHT TEAMS",
+            "heading": "CONTAINER SHIPPING: TRANSPACIFIC FREIGHT RATES SURGE",
             "points": [
-                "E-commerce giant Amazon has formally consolidated its middle-mile air and ground transportation management teams into a single operational unit. Corporate leadership announced the structural integration to streamline decision-making across its regional fulfillment and linehaul networks. Executive managers emphasize that unifying middle-mile assets will enhance package routing efficiency and reduce intermodal transfer friction.",
-                "The organizational realignment comes as major retail logistics operators optimize fulfillment velocity to support expanded next-day and same-day delivery guarantees. By integrating air cargo operations directly with surface trucking dispatch networks, Amazon aims to eliminate operational silos between air gateways and sortation hubs. Logistics technology teams are deploying unified routing software to coordinate middle-mile capacity dynamically.",
-                "Industry analysts observe that integrating air and ground logistics execution enables higher asset utilization across private transportation fleets. Third-party logistics providers and regional carrier partners are aligning digital interfaces to interface seamlessly with Amazon's unified management structure. E-commerce competitors are re-evaluating middle-mile network architecture to maintain competitive delivery speeds.",
-                "E-commerce logistics leaders must streamline multi-modal transportation integration to match accelerating industry delivery standards."
+                "Spot container freight rates on the Asia-to-US East Coast trade lane have surged to a new record peak of nine thousand four hundred dollars per forty-foot unit. Market analysts attribute the sharp price acceleration to strong seasonal import volumes combined with ongoing vessel diversions around maritime chokepoints. Ocean carriers report near-capacity bookings through peak shipping season as retailers frontload holiday inventory imports.",
+                "High freight spot rates are pushing shippers to renegotiate fixed-rate service contracts and implement peak season surcharges across major lanes. Equipment managers at East Asian origin ports report tightening container availability for specialized forty-foot high-cube units. Importers are turning to expedited ocean services and premium freight guarantees to secure critical vessel space allocations.",
+                "Logistics strategists advise cargo owners to maintain flexible inventory lead times as ocean rate volatility impacts landed goods costs. Freight forwarders are increasing use of mini-bid capacity agreements to balance cost control with space guarantees. Marine terminal operators are adjusting gate hours to handle heavy peak-season container discharge volumes.",
+                "Ocean freight planners must audit transport budgets and secure space commitments early to insulate operations against rising container spot rates."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPPLY CHAIN: GM EXITS SAMSUNG BATTERY JV",
+            "nextUpTease": "AIR MOBILITY: BOEING SELLS DRONE UNITS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/amazon-combines-air-ground-operations-teams/",
-                "Published: 2026-08-11T08:00:00Z",
+                "Source: https://www.freightwaves.com/news/asia-us-east-coast-box-rate-hits-new-high-of-9400",
+                "Published: 2026-08-11T10:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SUPPLY CHAIN: GM EXITS SAMSUNG BATTERY JV",
+            "heading": "AIR MOBILITY: BOEING SELLS DRONE UNITS",
             "points": [
-                "Automotive manufacturer General Motors has agreed to sell its ownership stake in an Indiana electric vehicle battery joint venture to Samsung SDI. The strategic exit follows a broader recalibration of capital allocation in response to slowing electric vehicle adoption rates across domestic consumer markets. Samsung will acquire full control of the manufacturing facility to align production capacity with independent commercial strategies.",
-                "The restructuring highlights shifting market dynamics following the expiration of the federal seven thousand five hundred dollar electric vehicle tax credit. Automotive supply chain managers are adjusting long-term battery cell procurement projections to match recalibrated vehicle assembly schedules. Component suppliers across the domestic EV ecosystem face shifting demand volumes as major OEMs adjust electrification timelines.",
-                "Energy technology analysts note that battery joint venture restructurings reflect necessary adjustments toward sustainable manufacturing scale. Automotive supply chain strategists are diversifying battery chemistry options and supplier partnerships to maintain operational flexibility. Raw material procurement teams are adjusting lithium and nickel supply contracts to correspond with modified battery cell output.",
-                "Automotive supply chain directors must realign component procurement contracts to match revised EV assembly schedules."
+                "Aerospace manufacturer Boeing has completed the sale of its Wisk flying taxi and autonomous drone subsidiaries to advanced air mobility firm Archer Aviation. Executive leadership confirmed the strategic divestment aims to refocus corporate capital on core commercial aircraft assembly and defense manufacturing. Archer will integrate Wisk's autonomous flight software and intellectual property into its proprietary commercial aircraft fleet.",
+                "The consolidation marks a significant structural shift in the autonomous air cargo and urban air mobility technology sectors. Industry analysts observe that integrating autonomous flight control systems accelerates regulatory certification timelines for cargo drones. Defense and commercial logistics operators anticipate expanded middle-mile autonomous air freight testing opportunities over the coming years.",
+                "Supply chain technology strategists emphasize that commercial drone transportation is transitioning from experimental prototypes to scalable logistics infrastructure. Regional logistics providers are tracking autonomous flight developments to evaluate future middle-mile transit solutions. Regulatory aviation authorities continue establishing standardized air traffic control frameworks for autonomous commercial flights.",
+                "Logistics technology officers should monitor autonomous air mobility integrations to identify emerging opportunities in automated middle-mile transport."
             ],
             "imageUrl": "",
-            "nextUpTease": "MANUFACTURING: MEXICO TRUCK EXPORTS SOAR",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL WAREHOUSE VACANCY DROPS",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/40000-gm-pulls-out-of-ev-battery-jv-with-samsung",
-                "Published: 2026-08-11T07:30:00Z",
+                "Source: https://www.ttnews.com/articles/boeing-sells-wisk-archer",
+                "Published: 2026-08-11T09:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MANUFACTURING: MEXICO TRUCK EXPORTS SOAR",
+            "heading": "REAL ESTATE: INDUSTRIAL WAREHOUSE VACANCY DROPS",
             "points": [
-                "Mexican heavy-duty truck production recorded a surge of fifty-one point eight percent year-over-year in July, reaching fourteen thousand six hundred seventy-five total vehicles. Industrial trade reports confirm that robust export demand from North American commercial fleets drove the dramatic surge in assembly volumes. Cross-border automotive supply chains are operating at near-peak capacity to support expanding manufacturing output.",
-                "The surge in Mexican commercial vehicle production underscores nearshoring manufacturing investments along major cross-border trade corridors. Surface transportation providers report heavy demand for drayage and cross-border freight capacity connecting Mexican industrial centers with US distribution hubs. Border crossing facilities in Texas and New Mexico are handling increased commercial vehicle traffic volumes.",
-                "Industrial real estate developers are expanding manufacturing and warehousing footprints near key southwestern border ports of entry. Supply chain planners emphasize that sustained cross-border manufacturing growth requires ongoing investments in border clearance technology and infrastructure. Equipment leasing firms are expanding commercial fleet inventories to accommodate rising cross-border freight movements.",
-                "Cross-border logistics executives must secure reliable border clearance and drayage capacity to support rising industrial trade flows."
+                "The North American industrial real estate sector has regained market balance as leasing demand officially outpaced new warehouse completions in the second quarter. Real estate brokerage data reveals that national logistics vacancy dropped seven basis points sequentially to seven point three percent. Commercial property analysts confirm that slowing speculative construction starts helped stabilize market availability across major distribution markets.",
+                "Third-party logistics providers and e-commerce operators are driving active space absorption across major inland logistics hubs and port-adjacent markets. Property developers report that rising construction costs and elevated interest rates continue to constrain speculative warehouse project starts. Landlords are maintaining firm rental rate structures while selectively offering tenant improvement concessions on long-term leases.",
+                "Supply chain network planners are re-evaluating distribution footprint requirements as warehousing capacity normalizes across prime commercial corridors. Enterprise occupiers are prioritizing modern facilities equipped with automated material handling systems and high power availability. Logistics managers are securing strategic distribution space to support expanded inventory buffers.",
+                "Real estate directors should initiate warehouse lease renewals early to lock in favorable space allocations before industrial vacancies tighten further."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/mexico-truck-production-july-2026",
-                "Published: 2026-08-11T11:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance_colliers",
+                "Published: 2026-08-11T08:30:00Z",
                 "Status: Audited & True"
             ]
         }
