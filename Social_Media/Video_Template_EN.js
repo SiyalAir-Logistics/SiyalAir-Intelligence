@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "SEALEAD LIQUIDATION SHIFTS TONNAGE",
+        "hookTitle": "FORCED LABOR TARIFFS IMPLEMENTED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: SEALEAD LIQUIDATION SHIFTS TONNAGE",
-                "teaserTitle": "OFFSHORE: CADELER ORDERS TWO WIND INSTALLATION SHIPS",
+                "headline": "USTR: FORCED LABOR TARIFFS IMPLEMENTED",
+                "teaserTitle": "AMAZON: COMBINES AIR AND GROUND OPERATIONS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Singapore carrier SeaLead Shipping has ceased operations following United States financial sanctions. Ocean freight forwarders are executing mandatory booking transfers across Asia and Mediterranean trade lanes."
+                "narration_line": "The United States Trade Representative has officially implemented Section 301 tariffs targeting forced labor across sixty trading partners as Section 122 expires. Importers face immediate compliance audits and tariff adjustments across cross-border supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "OFFSHORE: CADELER ORDERS TWO WIND INSTALLATION SHIPS",
-                "teaserTitle": "REGULATORY: JONES ACT WAIVER EXTENDED WITH LIMITS",
+                "headline": "AMAZON: COMBINES AIR AND GROUND OPERATIONS",
+                "teaserTitle": "MARITIME: MSC FINED 6M OVER CHARLESTON RUNAWAY",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Offshore wind installer Cadeler has ordered two new vessel units from COSCO Shipping for eight hundred five million euros. The investment expands heavy lift installation fleet capacity for deepwater turbine projects."
+                "narration_line": "Amazon has integrated its air and ground operations teams into a unified organizational unit. This strategic consolidation aims to accelerate middle-mile decision making and optimize network routing efficiency."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATORY: JONES ACT WAIVER EXTENDED WITH LIMITS",
-                "teaserTitle": "WEATHER: TYPHOON DOLPHIN SPURS ASIAN PORT CONGESTION",
+                "headline": "MARITIME: MSC FINED 6M OVER CHARLESTON RUNAWAY",
+                "teaserTitle": "CARRIERS: COSCO RESTORES RED SEA ROUTINGS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The White House extended foreign tanker cabotage waivers with strict case by case administrative approvals. Energy dispatches from Gulf Coast ports face additional customs verification before scheduling domestic shipments."
+                "narration_line": "Mediterranean Shipping Company received a six million dollar fine following an investigation into a runaway vessel in Charleston harbor. Federal prosecutors cited undisclosed mechanical defects and maintenance reporting failures."
             },
             {
                 "slide_index": 4,
-                "headline": "WEATHER: TYPHOON DOLPHIN SPURS ASIAN PORT CONGESTION",
-                "teaserTitle": "FINANCE: HAI LONG WIND SECURES 1.7B FINANCING",
+                "headline": "CARRIERS: COSCO RESTORES RED SEA ROUTINGS",
+                "teaserTitle": "TRUCKING: MEXICAN TRUCK PRODUCTION SOARS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Typhoon Dolphin made landfall near Ningbo, stranding over two point four million container units offshore. Ocean carriers are issuing blank sailings to restore schedule reliability across transpacific trade routes."
+                "narration_line": "Ocean carrier Cosco has resumed container service bookings through the Red Sea despite persistent security threats from Houthi forces. The move signals shifting risk assessments among major ocean liners along Suez transit corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "FINANCE: HAI LONG WIND SECURES 1.7B FINANCING",
-                "teaserTitle": "LABOR: FREEDOM HAULERS SPEEDS VETERAN TRUCKING LICENSES",
+                "headline": "TRUCKING: MEXICAN TRUCK PRODUCTION SOARS",
+                "teaserTitle": "REGULATORY: FMCSA MANDATES ENGLISH PROFICIENCY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Taiwan's Hai Long offshore wind project finalized a one point seven billion dollar refinancing facility. The capital guarantees subsea cable laying and turbine foundation work through late twenty twenty six."
+                "narration_line": "Heavy-duty commercial truck production in Mexico surged by fifty-one point eight percent year over year in July. Expanding manufacturing output continues to reinforce cross-border automotive freight movement into North America."
             },
             {
                 "slide_index": 6,
-                "headline": "LABOR: FREEDOM HAULERS SPEEDS VETERAN TRUCKING LICENSES",
-                "teaserTitle": "RAIL: PORT OF VIRGINIA LAUNCHES INDIANAPOLIS SERVICE",
+                "headline": "REGULATORY: FMCSA MANDATES ENGLISH PROFICIENCY",
+                "teaserTitle": "AUTOMOTIVE: GM EXITS EV BATTERY VENTURE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Transportation Department launched Freedom Haulers to fast track commercial driver licenses for military veterans. Fleet operators are securing federal assistance to offset onboarding costs during nationwide enforcement."
+                "narration_line": "Federal motor carrier regulators are advancing strict English language proficiency requirements for commercial truck drivers. The rule tightening follows recent enforcement actions that sidelined thousands of non-compliant drivers."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: PORT OF VIRGINIA LAUNCHES INDIANAPOLIS SERVICE",
+                "headline": "AUTOMOTIVE: GM EXITS EV BATTERY VENTURE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Port of Virginia and CSX launched direct intermodal rail service from Norfolk to Indianapolis. Midwest import shipments will now bypass Chicago rail interchanges to lower landed transit times."
+                "narration_line": "General Motors has agreed to sell its stake in an Indiana electric vehicle battery joint venture to Samsung. The transaction reflects strategic capital realignments as regional vehicle electrification demand fluctuates."
             },
             {
                 "slide_index": 8,
