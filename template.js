@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "US EXTENDS JONES ACT",
-        "titleBlue": "WAIVER",
-        "footerSummary": "White House extends coastal tanker waiver for 90 days while introducing voyage approvals, impacting domestic energy shipping routes and chartering costs."
+        "titleWhite": "USTR IMPLEMENTS SECTION 301",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR launches Section 301 forced-labor tariffs across 60 trading nations, raising immediate compliance liabilities and duty exposure for global importers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CABOTAGE: US EXTENDS JONES ACT WAIVER",
+            "heading": "CUSTOMS: USTR IMPLEMENTS SECTION 301 TARIFFS",
             "points": [
-                "The White House extended its cabotage rule waiver for 90 days to maintain oil transport from the Gulf Coast to California.",
-                "Federal officials narrowed the policy scope by instituting mandatory administrative procedures for voyage-by-voyage shipping approvals.",
-                "Energy producers welcomed the extension as a vital measure to secure domestic oil delivery and protect regional fuel markets.",
-                "Maritime carriers must adapt operational plans as individual voyage reviews introduce fresh administrative overhead for coastal routes."
+                "The USTR is moving forward with Section 301 tariffs targeting 60 trading partner nations following the expiration of emergency Section 122 duties.",
+                "The updated trade enforcement framework targets forced-labor supply chain vulnerabilities, imposing stringent compliance requirements on cross-border shipments.",
+                "Importers face heightened duty liabilities and mandatory documentation audits to prove supply chain origin compliance across key manufacturing corridors.",
+                "Trade compliance teams must rapidly audit tier-one and tier-two suppliers to prevent sudden customs holds and costly import delays at US ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCTIC FREIGHT: SEA LEGEND LAUNCHES ICE ROUTE",
+            "nextUpTease": "CARRIER RETREAT: SEALEAD CEASES LINER OPERATIONS",
             "tags": [
-                "Source: https://maritime-executive.com/article/trump-administration-extends-jones-act-waiver-for-another-90-days",
-                "Published: 2026-08-10T17:29:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs",
+                "Published: 2026-08-10T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ARCTIC FREIGHT: SEA LEGEND LAUNCHES ICE ROUTE",
+            "heading": "CARRIER RETREAT: SEALEAD CEASES LINER OPERATIONS",
             "points": [
-                "Sea Legend Line is launching the first regular Arctic container service operating along Russia's Northern Sea Route.",
-                "The Chinese carrier secured official navigation permits from Rosatom for the 2026 summer maritime transit season.",
-                "Regular Arctic sailings offer direct ocean transit between Far East ports and Northern Europe, bypassing conventional Suez routes.",
-                "Logistics planners are monitoring Arctic weather conditions and specialized icebreaker escort fees to evaluate long-term route viability."
+                "Singapore-based SeaLead Shipping has entered voluntary liquidation, halting ocean container operations across Asia, the Middle East, and Mediterranean routes.",
+                "The abrupt shutdown follows recent US sanctions, forcing forwarders and cargo owners to scramble for emergency rebooking options.",
+                "Rival ocean carriers are rapidly absorbing SeaLead vessel charters and container assets to capture displaced regional freight volumes.",
+                "Shippers using primary Far East trade corridors must verify active bookings immediately to mitigate severe cargo stranding risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME SAFETY: MSC FINED FOR RUNAWAY SHIP",
+            "nextUpTease": "MARITIME ROUTE: UN PROBES HORMUZ TOLLS",
             "tags": [
-                "Source: https://maritime-executive.com/article/china-s-sea-legend-poised-to-launch-first-regular-ice-silk-road-service",
-                "Published: 2026-08-10T16:29:00Z",
+                "Source: https://theloadstar.com/premium/sealeads-sanctions-death-spiral-a-compliance-case-study-for-every-forwarder/",
+                "Published: 2026-08-10T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME SAFETY: MSC FINED FOR RUNAWAY SHIP",
+            "heading": "MARITIME ROUTE: UN PROBES HORMUZ TOLLS",
             "points": [
-                "MSC Shipmanagement and a chief engineer pled guilty and received federal fines following a runaway container ship incident in Charleston.",
-                "Federal safety investigators cited mechanical failures and unreported hazardous conditions aboard the vessel during transit.",
-                "The legal resolution underscores heightened federal scrutiny regarding shipboard equipment maintenance and hazard notification duties.",
-                "Ocean carriers are updating fleet compliance protocols to ensure mandatory reporting of mechanical faults prior to port entry."
+                "Global shipping associations called on the UN and IMO to intervene against proposed transit tolls through the strategic Strait of Hormuz.",
+                "Bilateral talks between regional authorities regarding mandatory transit fees threaten to inflate vessel operating costs on critical energy corridors.",
+                "Ocean carriers warning of compounded maritime surcharges could see supertanker charter rates surge toward $500K per day.",
+                "Energy logistics planners are evaluating extended routing strategies around secondary maritime choke points to avoid unilateral toll structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSE TECH: FEDEX ADOPTS TRAILER ROBOTS",
+            "nextUpTease": "INLAND WATERWAYS: RHINE DROUGHT DISRUPTS BARGES",
             "tags": [
-                "Source: https://maritime-executive.com/article/msc-and-chief-engineer-guilty-and-fined-for-2024-runaway-boxship-incident",
-                "Published: 2026-08-10T18:42:00Z",
+                "Source: https://www.joc.com/article/global-shipping-calls-un-imo-hormuz-tolls",
+                "Published: 2026-08-11T02:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "WAREHOUSE TECH: FEDEX ADOPTS TRAILER ROBOTS",
+            "heading": "INLAND WATERWAYS: RHINE DROUGHT DISRUPTS BARGES",
             "points": [
-                "FedEx installed autonomous robotic loading arms inside freight trailers at its major Maryland distribution hub.",
-                "The dock automation project targets high-volume parcel loading to increase throughput and reduce manual labor demands.",
-                "Robotic loading systems represent a broader logistics push across parcel networks to streamline warehouse handling efficiency.",
-                "Facility managers plan to expand automated dock technology across secondary regional hubs as operational reliability proves out."
+                "Falling water levels on the Rhine River threaten to split key European inland barge transit channels into disconnected navigation zones.",
+                "Prolonged heatwaves across Central Europe have severely restricted barge loading capacities, pushing freight onto rail and trucking networks.",
+                "Container transport operators report mounting inland port congestion and rising low-water surcharges across German industrial hubs.",
+                "European logistics directors are shifting critical raw material volumes to overland corridors to prevent severe manufacturing stoppages."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET EMISSIONS: EU THREATENS DAIMLER FINES",
+            "nextUpTease": "INTERMODAL: VIRGINIA PORT ADDS CSX ROUTE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/fedex-amazon-robotic-arms-warehouse-automation/723500/",
-                "Published: 2026-08-10T15:00:00Z",
+                "Source: https://theloadstar.com/congestion-fear-as-unnavigable-rhine-means-cargo-shift-to-road-and-rail/",
+                "Published: 2026-08-10T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FLEET EMISSIONS: EU THREATENS DAIMLER FINES",
+            "heading": "INTERMODAL: VIRGINIA PORT ADDS CSX ROUTE",
             "points": [
-                "The European Union threatened Daimler Truck with $1B in potential regulatory fines linked to strict vehicle emissions targets.",
-                "Daimler leadership criticized the proposed penalties as unfair, emphasizing substantial investments in zero-emission truck models.",
-                "Heavy vehicle manufacturers face mounting compliance friction as European decarbonization timelines collide with commercial market adoption.",
-                "Fleet procurement strategies may shift toward alternative powertrain adoption to mitigate regulatory penalties across European freight corridors."
+                "The Port of Virginia launched direct CSX intermodal rail service connecting deepwater ocean terminals straight to the Indianapolis market.",
+                "The new direct rail corridor bypasses traditional Chicago rail interchange bottlenecks, cutting transit dwell times for Midwest importers.",
+                "Regional shippers gain streamlined access to East Coast port capacity without relying on long-haul drayage truck transport.",
+                "Logistics managers in the Ohio Valley are restructuring supply chain routing to capitalize on lower inland intermodal transit costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRIVER SAFETY: FMCSA ENFORCES ENGLISH RULES",
+            "nextUpTease": "E-COMMERCE: AMAZON ENFORCES TITLE LIMITS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/eu-daimler-truck-fine-emissions",
-                "Published: 2026-08-10T14:30:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "DRIVER SAFETY: FMCSA ENFORCES ENGLISH RULES",
-            "points": [
-                "The FMCSA introduced a proposed rulemaking to lock in mandatory English language proficiency standards for commercial truck drivers.",
-                "Federal action follows enforcement sweeps that sidelined over 26K drivers for non-compliance with existing safety standards.",
-                "Safety regulators aim to standardize driver communication rules to bolster highway safety across interstate freight routes.",
-                "Motor carriers are auditing driver qualification files to ensure full language compliance and minimize potential operational disruptions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
-            "tags": [
-                "Source: https://www.freightwaves.com/news/after-sidelining-26000-truck-drivers-fmcsa-seeks-to-lock-in-english-rules",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-service-indianapolis/",
                 "Published: 2026-08-10T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 7,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+            "id": 6,
+            "heading": "E-COMMERCE: AMAZON ENFORCES TITLE LIMITS",
             "points": [
-                "Colliers reported US industrial real estate vacancy rates stabilized at 7.3% during Q2 as warehouse demand balanced new supply.",
-                "Quarterly vacancy figures fell seven basis points sequentially, signaling a firming industrial logistics real estate market.",
-                "Strong leasing activity in key distribution markets absorbed newly delivered warehouse space across major logistics corridors.",
-                "Supply chain operators are re-evaluating site selection strategies as prime warehouse availability tightens in strategic port hubs."
+                "Amazon fully implemented its strict 75-character product title limit policy across both third-party seller listings and first-party items.",
+                "The marketplace algorithmic shift aims to improve mobile search indexing and standardize product listing catalog data across categories.",
+                "Non-compliant listings face automatic suppression from search results, forcing e-commerce brands to overhaul optimization metadata immediately.",
+                "Digital retail vendors must audit automated product listing feeds to preserve organic catalog search rankings and sales velocity."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TECH SUPPLY: AI BOOM CAUSES MEMORY SHORTAGE",
+            "tags": [
+                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-also-applies-to-its-own-listings/",
+                "Published: 2026-08-10T09:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "TECH SUPPLY: AI BOOM CAUSES MEMORY SHORTAGE",
+            "points": [
+                "Massive expansion of global AI data centers has driven severe supply shortages and record price spikes for advanced memory microchips.",
+                "Consumer technology manufacturers are competing directly with hyper-scalers for limited advanced-node semiconductor wafer manufacturing capacity.",
+                "Component lead times are stretching significantly, creating inventory bottlenecks for consumer electronics and automotive tech supply chains.",
+                "Procurement executives are locking in long-term chip supply contracts to insulate production schedules against sustained market deficits."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance",
-                "Published: 2026-08-10T10:00:00Z",
+                "Source: https://www.supplychainbrain.com/articles/39821-ai-boom-leaves-consumer-tech-fighting-for-memory-capacity",
+                "Published: 2026-08-10T15:00:00Z",
                 "Status: Audited & True"
             ]
         }
