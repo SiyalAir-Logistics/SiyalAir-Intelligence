@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "VIRGINIA EXPANDS INDIANAPOLIS DIRECT ROUTE",
+        "hookTitle": "ASIA-US EAST COAST BOX RATE SPIKES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "RAIL FREIGHT: VIRGINIA EXPANDS INDIANAPOLIS DIRECT ROUTE",
-                "teaserTitle": "CUSTOMS COMPLIANCE: COMMERCE EXPANDS DERIVATIVE METALS TARIFFS",
+                "headline": "MARITIME: ASIA-US EAST COAST BOX RATE SPIKES",
+                "teaserTitle": "SUPPLY CHAIN: US CONTAINER IMPORTS RISE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Port of Virginia has launched direct rail transport services into Indianapolis via CSX Railroad infrastructure. This dedicated intermodal corridor bypasses Chicago railyards to eliminate import delays and reduce regional trucking costs for Midwest shippers."
+                "narration_line": "Container spot rates from Asia to the U.S. East Coast have climbed to nine thousand four hundred dollars per FEU. High ocean freight costs reflect strong retail inventory frontloading across major transpacific maritime corridors."
             },
             {
                 "slide_index": 2,
-                "headline": "CUSTOMS COMPLIANCE: COMMERCE EXPANDS DERIVATIVE METALS TARIFFS",
-                "teaserTitle": "OCEAN FREIGHT: COSCO RESUMES RED SEA CONTAINER SAILINGS",
+                "headline": "SUPPLY CHAIN: US CONTAINER IMPORTS RISE",
+                "teaserTitle": "LOGISTICS: SEALEAD ENDS OPERATIONS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Commerce Department proposed expanded import tariffs on derivative steel, aluminum, and copper manufactured components. Importers face increased customs compliance verification protocols across cross-border industrial equipment supply chains."
+                "narration_line": "U.S. containerized imports rose four point five percent in July according to Descartes data. Inbound logistics networks handled high cargo volumes despite persistent trade policy uncertainty."
             },
             {
                 "slide_index": 3,
-                "headline": "OCEAN FREIGHT: COSCO RESUMES RED SEA CONTAINER SAILINGS",
-                "teaserTitle": "MARITIME SECURITY: US DISABLES CONTAINER VESSEL NEAR IRAN",
+                "headline": "LOGISTICS: SEALEAD ENDS OPERATIONS",
+                "teaserTitle": "EQUIPMENT: MEXICAN TRUCK PRODUCTION SURGES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Cosco Shipping has officially resumed container bookings and vessel transits through the Red Sea maritime corridor. The carrier aims to restore direct Asia to Europe transit schedules while navigating ongoing regional maritime threats."
+                "narration_line": "Singapore liner SeaLead Shipping has initiated voluntary liquidation and ceased all container services. The sudden shutdown follows recent U.S. government economic sanctions disrupting compliance networks."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME SECURITY: US DISABLES CONTAINER VESSEL NEAR IRAN",
-                "teaserTitle": "RETAIL LOGISTICS: STARBUCKS TARGETS DAILY INVENTORY REPLENISHMENT",
+                "headline": "EQUIPMENT: MEXICAN TRUCK PRODUCTION SURGES",
+                "teaserTitle": "TECHNOLOGY: TMS VENDORS INTEGRATE AI",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "United States naval forces intercepted and disabled a commercial containership attempting to breach maritime security boundaries off the Iranian coast. Military operations continue to enforce international transit security and protect commercial shipping lanes in the Gulf region."
+                "narration_line": "Heavy-duty truck manufacturing in Mexico surged fifty-one point eight percent in July to fourteen thousand units. Cross-border commercial vehicle exports grew in parallel driven by nearshoring investments."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL LOGISTICS: STARBUCKS TARGETS DAILY INVENTORY REPLENISHMENT",
-                "teaserTitle": "OFFSHORE FLEET: CADELER ORDERS TWO HEAVY INSTALLATION VESSELS",
+                "headline": "TECHNOLOGY: TMS VENDORS INTEGRATE AI",
+                "teaserTitle": "MARITIME: CADELER ORDERS RENEWABLE VESSELS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Starbucks has initiated a comprehensive operational transition toward a twenty-four-hour store inventory replenishment model. The logistics strategy eliminates reliance on legacy automated tools to maximize store product availability and reduce stockouts."
+                "narration_line": "Transportation software vendors are deploying native artificial intelligence agents within carrier platforms. The integration automates load dispatching and real-time route optimization for freight brokers."
             },
             {
                 "slide_index": 6,
-                "headline": "OFFSHORE FLEET: CADELER ORDERS TWO HEAVY INSTALLATION VESSELS",
-                "teaserTitle": "CUSTOMS DUTIES: CBP SURPASSES HUNDRED BILLION TARIFF REFUNDS",
+                "headline": "MARITIME: CADELER ORDERS RENEWABLE VESSELS",
+                "teaserTitle": "FINANCE: GLOBAL INSTABILITY DRIVES INSURANCE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Offshore wind contractor Cadeler signed an eight hundred five million euro vessel construction contract with Cosco Shipping Heavy Industry. The strategic expansion doubles deepwater installation capacity to meet accelerating global offshore energy project demand."
+                "narration_line": "Cadeler ordered two new offshore wind installation vessels valued at nine hundred thirty million dollars. The shipbuilding contract highlights capital deployment toward specialized renewable energy infrastructure."
             },
             {
                 "slide_index": 7,
-                "headline": "CUSTOMS DUTIES: CBP SURPASSES HUNDRED BILLION TARIFF REFUNDS",
+                "headline": "FINANCE: GLOBAL INSTABILITY DRIVES INSURANCE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "United States Customs and Border Protection reached a milestone of one hundred billion dollars in total tariff refunds processed under federal court orders. Importers continue to navigate pending liquidation appeals as emergency duty adjustments are finalized."
+                "narration_line": "Geopolitical conflicts have generated an increase in demand for comprehensive supply chain insurance. Risk management teams are expanding coverage to protect international cargo against route disruptions."
             },
             {
                 "slide_index": 8,
