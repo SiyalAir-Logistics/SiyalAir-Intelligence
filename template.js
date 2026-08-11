@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR IMPLEMENTS SECTION 301",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR launches Section 301 forced-labor tariffs across 60 trading nations, raising immediate compliance liabilities and duty exposure for global importers."
+        "titleWhite": "CBP ISSUES 100B TARIFF",
+        "titleBlue": "REFUNDS",
+        "footerSummary": "CBP disburses over $100B in IEEPA tariff refunds following federal rulings, creating immediate capital recovery opportunities for high-volume U.S. importers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS: USTR IMPLEMENTS SECTION 301 TARIFFS",
+            "heading": "CUSTOMS: CBP ISSUES 100B TARIFF REFUNDS",
             "points": [
-                "The USTR is moving forward with Section 301 tariffs targeting 60 trading partner nations following the expiration of emergency Section 122 duties.",
-                "The updated trade enforcement framework targets forced-labor supply chain vulnerabilities, imposing stringent compliance requirements on cross-border shipments.",
-                "Importers face heightened duty liabilities and mandatory documentation audits to prove supply chain origin compliance across key manufacturing corridors.",
-                "Trade compliance teams must rapidly audit tier-one and tier-two suppliers to prevent sudden customs holds and costly import delays at US ports."
+                "U.S. Customs and Border Protection has disbursed over $100B in IEEPA tariff refunds following recent federal court decisions.",
+                "Importers are seeing capital flow back as liquidations are systematically processed across national entry ports.",
+                "A thriving secondary financial market has emerged allowing corporate shippers to sell off pending refund claims for rapid liquidity.",
+                "Trade legal teams urge importers to audit past entry summaries immediately to claim remaining eligible tariff drawbacks."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER RETREAT: SEALEAD CEASES LINER OPERATIONS",
+            "nextUpTease": "CABOTAGE: TRUMP EXTENDS JONES ACT WAIVER",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs",
-                "Published: 2026-08-10T18:00:00Z",
+                "Source: https://www.supplychaindive.com/news/cbp-100b-ieepa-tariff-refunds/2026",
+                "Published: 2026-08-10T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CARRIER RETREAT: SEALEAD CEASES LINER OPERATIONS",
+            "heading": "CABOTAGE: TRUMP EXTENDS JONES ACT WAIVER",
             "points": [
-                "Singapore-based SeaLead Shipping has entered voluntary liquidation, halting ocean container operations across Asia, the Middle East, and Mediterranean routes.",
-                "The abrupt shutdown follows recent US sanctions, forcing forwarders and cargo owners to scramble for emergency rebooking options.",
-                "Rival ocean carriers are rapidly absorbing SeaLead vessel charters and container assets to capture displaced regional freight volumes.",
-                "Shippers using primary Far East trade corridors must verify active bookings immediately to mitigate severe cargo stranding risks."
+                "The White House has officially extended the temporary Jones Act cabotage waiver for an additional 90-day window.",
+                "The executive action allows foreign-flagged tankers to transport domestic oil between U.S. Gulf Coast and West Coast refineries.",
+                "Domestic maritime organizations continue to challenge the decision, alleging structural market distortion for U.S. flag carriers.",
+                "Energy logistics managers should adjust domestic coastal chartering schedules to exploit reduced coastal transit bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME ROUTE: UN PROBES HORMUZ TOLLS",
+            "nextUpTease": "TRADE TARIFFS: POLYSILICON IMPORTS FACE 15% DUTY",
             "tags": [
-                "Source: https://theloadstar.com/premium/sealeads-sanctions-death-spiral-a-compliance-case-study-for-every-forwarder/",
-                "Published: 2026-08-10T12:00:00Z",
+                "Source: https://maritime-executive.com/article/trump-extends-jones-act-waiver-90-days-2026",
+                "Published: 2026-08-10T17:29:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME ROUTE: UN PROBES HORMUZ TOLLS",
+            "heading": "TRADE TARIFFS: POLYSILICON IMPORTS FACE 15% DUTY",
             "points": [
-                "Global shipping associations called on the UN and IMO to intervene against proposed transit tolls through the strategic Strait of Hormuz.",
-                "Bilateral talks between regional authorities regarding mandatory transit fees threaten to inflate vessel operating costs on critical energy corridors.",
-                "Ocean carriers warning of compounded maritime surcharges could see supertanker charter rates surge toward $500K per day.",
-                "Energy logistics planners are evaluating extended routing strategies around secondary maritime choke points to avoid unilateral toll structures."
+                "The U.S. administration imposed a new 15% tariff on imported polysilicon used in microchips and solar infrastructure.",
+                "The broad import measure targets derivative technology products to protect domestic semiconductor manufacturing investments.",
+                "Tech hardware manufacturers face rising raw material costs and potential supply chain re-routing out of East Asia.",
+                "Procurement leads must re-evaluate global supplier matrices to mitigate compounding duty exposure on high-purity silicon."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: RHINE DROUGHT DISRUPTS BARGES",
+            "nextUpTease": "AUTOMOTIVE: CHINESE EV MARKET SHARE HITS 14.2%",
             "tags": [
-                "Source: https://www.joc.com/article/global-shipping-calls-un-imo-hormuz-tolls",
-                "Published: 2026-08-11T02:00:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-15-percent-polysilicon-tariff/2026",
+                "Published: 2026-08-10T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INLAND WATERWAYS: RHINE DROUGHT DISRUPTS BARGES",
+            "heading": "AUTOMOTIVE: CHINESE EV MARKET SHARE HITS 14.2%",
             "points": [
-                "Falling water levels on the Rhine River threaten to split key European inland barge transit channels into disconnected navigation zones.",
-                "Prolonged heatwaves across Central Europe have severely restricted barge loading capacities, pushing freight onto rail and trucking networks.",
-                "Container transport operators report mounting inland port congestion and rising low-water surcharges across German industrial hubs.",
-                "European logistics directors are shifting critical raw material volumes to overland corridors to prevent severe manufacturing stoppages."
+                "Chinese automotive manufacturers captured 14.2% of new battery electric vehicle registrations in Western Europe through mid-2026.",
+                "The record market share expansion reflects rapid expansion of specialized automotive roll-on/roll-off ocean logistics services.",
+                "European ports are expanding dedicated vehicle yard handling capacity to manage heavy imported electric vehicle discharge flows.",
+                "Logistics providers are expanding automotive processing terminals across key North Sea maritime gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: VIRGINIA PORT ADDS CSX ROUTE",
+            "nextUpTease": "REGULATION: EU THREATENS DAIMLER WITH 1B EURO FINE",
             "tags": [
-                "Source: https://theloadstar.com/congestion-fear-as-unnavigable-rhine-means-cargo-shift-to-road-and-rail/",
-                "Published: 2026-08-10T14:00:00Z",
+                "Source: https://www.supplychainbrain.com/articles/chinese-ev-sales-surge-western-europe-2026",
+                "Published: 2026-08-10T13:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INTERMODAL: VIRGINIA PORT ADDS CSX ROUTE",
+            "heading": "REGULATION: EU THREATENS DAIMLER WITH 1B EURO FINE",
             "points": [
-                "The Port of Virginia launched direct CSX intermodal rail service connecting deepwater ocean terminals straight to the Indianapolis market.",
-                "The new direct rail corridor bypasses traditional Chicago rail interchange bottlenecks, cutting transit dwell times for Midwest importers.",
-                "Regional shippers gain streamlined access to East Coast port capacity without relying on long-haul drayage truck transport.",
-                "Logistics managers in the Ohio Valley are restructuring supply chain routing to capitalize on lower inland intermodal transit costs."
+                "European regulatory authorities signaled potential fines reaching \u20ac1B against Daimler Truck over commercial vehicle emissions rules.",
+                "Daimler Truck executive leadership contested the regulatory enforcement action citing ongoing fleet electrification investments.",
+                "The enforcement dispute highlights growing regulatory friction surrounding heavy transport transition timelines across Europe.",
+                "Fleet operators should monitor heavy commercial vehicle production roadmaps as compliance enforcement tightens across EU member states."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON ENFORCES TITLE LIMITS",
+            "nextUpTease": "DRY BULK: STAR BULK CANCELS 470.5M FLEET DEAL",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-service-indianapolis/",
-                "Published: 2026-08-10T11:00:00Z",
+                "Source: https://www.ttnews.com/articles/eu-daimler-truck-emissions-fine-2026",
+                "Published: 2026-08-10T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "E-COMMERCE: AMAZON ENFORCES TITLE LIMITS",
+            "heading": "DRY BULK: STAR BULK CANCELS 470.5M FLEET DEAL",
             "points": [
-                "Amazon fully implemented its strict 75-character product title limit policy across both third-party seller listings and first-party items.",
-                "The marketplace algorithmic shift aims to improve mobile search indexing and standardize product listing catalog data across categories.",
-                "Non-compliant listings face automatic suppression from search results, forcing e-commerce brands to overhaul optimization metadata immediately.",
-                "Digital retail vendors must audit automated product listing feeds to preserve organic catalog search rankings and sales velocity."
+                "Star Bulk Carriers mutually terminated a $470.5M agreement to acquire 16 bulk vessel assets from Genco Shipping.",
+                "The cancellation halts a planned consolidation in dry bulk shipping and reshuffles regional vessel availability matrices.",
+                "Dry bulk freight charter rates are stabilizing as market participants recalibrate fleet capacity availability.",
+                "Commodity charterers should reassess long-term tonnage commitments as shipowners restructure asset ownership portfolios."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECH SUPPLY: AI BOOM CAUSES MEMORY SHORTAGE",
+            "nextUpTease": "AUTOMATION: FEDEX DEPLOYS TRAILER LOADING ROBOTS",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-also-applies-to-its-own-listings/",
-                "Published: 2026-08-10T09:00:00Z",
+                "Source: https://splash247.com/star-bulk-walks-away-from-genco-fleet-deal/2026",
+                "Published: 2026-08-11T01:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECH SUPPLY: AI BOOM CAUSES MEMORY SHORTAGE",
+            "heading": "AUTOMATION: FEDEX DEPLOYS TRAILER LOADING ROBOTS",
             "points": [
-                "Massive expansion of global AI data centers has driven severe supply shortages and record price spikes for advanced memory microchips.",
-                "Consumer technology manufacturers are competing directly with hyper-scalers for limited advanced-node semiconductor wafer manufacturing capacity.",
-                "Component lead times are stretching significantly, creating inventory bottlenecks for consumer electronics and automotive tech supply chains.",
-                "Procurement executives are locking in long-term chip supply contracts to insulate production schedules against sustained market deficits."
+                "FedEx deployed advanced robotic trailer loading systems across its primary Maryland distribution facility to automate hub handling.",
+                "The automated robotic arms operate alongside existing warehouse workflows to accelerate parcel loading cycles and throughput.",
+                "Express parcel carriers are accelerating capital expenditure on physical automation to offset rising labor costs.",
+                "Supply chain engineers expect wider deployment of autonomous trailer loaders across major sorting hubs in 2026."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/39821-ai-boom-leaves-consumer-tech-fighting-for-memory-capacity",
-                "Published: 2026-08-10T15:00:00Z",
+                "Source: https://www.supplychaindive.com/news/fedex-amazon-robotic-arms-hub-automation/2026",
+                "Published: 2026-08-10T12:00:00Z",
                 "Status: Audited & True"
             ]
         }

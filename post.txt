@@ -1,27 +1,27 @@
-🌐 USTR IMPLEMENTS SECTION 301 TARIFFS
+🌐 CBP ISSUES 100B TARIFF REFUNDS
 
 Global supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:
 
-01 / CUSTOMS: USTR IMPLEMENTS SECTION 301 TARIFFS
-USTR launches Section 301 forced-labor tariffs across 60 trading nations, raising immediate compliance liabilities and duty exposure for global importers.
+01 / CUSTOMS: CBP ISSUES 100B TARIFF REFUNDS
+CBP has disbursed over $100B in IEEPA tariff refunds following recent federal court decisions.
 
-02 / CARRIER RETREAT: SEALEAD CEASES LINER OPERATIONS
-SeaLead Shipping halts operations and enters liquidation following US sanctions, forcing forwarders to rapidly rebook ocean freight.
+02 / CABOTAGE: TRUMP EXTENDS JONES ACT WAIVER
+The White House extended the temporary Jones Act cabotage waiver for an additional 90-day window.
 
-03 / MARITIME ROUTE: UN PROBES HORMUZ TOLLS
-Global shipping bodies request UN intervention over proposed Strait of Hormuz tolls as supertanker charter rates approach $500K daily.
+03 / TRADE TARIFFS: POLYSILICON IMPORTS FACE 15% DUTY
+The U.S. administration imposed a new 15% tariff on imported polysilicon used in microchips and solar infrastructure.
 
-04 / INLAND WATERWAYS: RHINE DROUGHT DISRUPTS BARGES
-Low water levels along the Rhine River threaten to split key European barge routes, shifting raw material freight to road and rail networks.
+04 / AUTOMOTIVE: CHINESE EV MARKET SHARE HITS 14.2%
+Chinese automotive manufacturers captured 14.2% of new battery electric vehicle registrations in Western Europe through mid-2026.
 
-05 / INTERMODAL: VIRGINIA PORT ADDS CSX RAIL ROUTE
-The Port of Virginia introduces direct CSX intermodal rail service to Indianapolis to bypass Chicago bottlenecks and accelerate Midwest transit.
+05 / REGULATION: EU THREATENS DAIMLER WITH 1B EURO FINE
+European regulatory authorities signaled potential fines reaching €1B against Daimler Truck over commercial vehicle emissions rules.
 
-06 / E-COMMERCE: AMAZON ENFORCES TITLE LIMITS
-Amazon enforces a mandatory 75-character product title limit across all listings, suppressing non-compliant catalog items from search results.
+06 / DRY BULK: STAR BULK CANCELS 470.5M FLEET DEAL
+Star Bulk Carriers mutually terminated a $470.5M agreement to acquire 16 bulk vessel assets from Genco Shipping.
 
-07 / TECH SUPPLY: AI BOOM CAUSES MEMORY SHORTAGE
-Unprecedented AI data center growth triggers severe memory chip shortages and extended lead times across consumer technology supply chains.
+07 / AUTOMATION: FEDEX DEPLOYS TRAILER LOADING ROBOTS
+FedEx deployed advanced robotic trailer loading systems across its primary Maryland distribution facility to automate hub handling.
 
 ✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
 Stay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.
@@ -32,4 +32,4 @@ For Rate Audit and queries, contact us at +1 862 425 6741.
 [ LIKE • SHARE • FOLLOW ]
 For hourly decoded freight and global logistics signals across the globe.
 
-#SupplyChain #GlobalTrade #FreightLogistics #Maritime #TradeCompliance #Customs #Intermodal #SiyalAir
+#Tariffs #CustomsCompliance #JonesAct #MaritimeLogistics #SupplyChain #FreightTech #ElectricVehicles #GlobalTrade
