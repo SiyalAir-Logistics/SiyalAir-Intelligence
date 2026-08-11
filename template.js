@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRUMP EXTENDS JONES ACT",
-        "titleBlue": "WAIVER",
-        "footerSummary": "Extended cabotage waivers, Rhine drought bottlenecks, and regulatory liquidations signal immediate operational friction across ocean, inland, and digital supply networks."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "Implementation of Section 301 tariffs on 60 nations exposes global supply networks to sudden cost escalations and compliance restructuring."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: TRUMP EXTENDS JONES ACT WAIVER",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "The Trump administration has officially extended the U.S. cabotage Jones Act waiver for an additional 90 days to maintain oil flow across domestic coastlines.",
-                "The updated policy introduces narrowed administrative procedures requiring formal voyage-by-voyage approval for foreign-flagged tankers moving Gulf Coast petroleum.",
-                "Domestic maritime interests and energy trade associations are debating the long-term impact on coastal shipping capacity and domestic fleet utilization.",
-                "Logistics managers transporting refined products must adjust charter agreements to accommodate revised administrative vetting timelines."
+                "The Office of the United States Trade Representative has officially moved forward with Section 301 tariffs targeting forced labor practices across 60 trading partner nations.",
+                "The new tariff framework takes effect immediately as temporary Section 122 trade emergency measures expire, altering import duty structures for international shippers.",
+                "Importers across electronics, apparel, and industrial sectors face escalated customs vetting and mandatory supply chain origin documentation at U.S. ports of entry.",
+                "Trade compliance managers must perform immediate origin audits across Tier-1 and Tier-2 suppliers to mitigate sudden tariff exposure and customs delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: RHINE DROUGHT CARGO SHIFT",
+            "nextUpTease": "MARITIME ENFORCEMENT: MSC FINED 6M",
             "tags": [
-                "Source: https://splash247.com/trump-extends-jones-act-waiver-despite-mounting-maritime-opposition/",
-                "Published: 2026-08-11T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "INLAND WATERWAYS: RHINE DROUGHT CARGO SHIFT",
-            "points": [
-                "Severe European heatwaves have caused water levels on the Rhine river to plunge, rendering key inland shipping segments unnavigable for barge operators.",
-                "Logistics providers are executing emergency contingency plans, diverting heavy industrial and agricultural bulk cargo onto overburdened rail and road networks.",
-                "Barge operators have instituted low-water surcharges and reduced vessel loading limits to avoid grounding in critical shallow bottlenecks.",
-                "European supply chain planners face surging inland freight costs and extended transit delays across major Rhine-corridor manufacturing hubs."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "ARCTIC SHIPPING: SEA LEGEND ICE SILK ROUTE",
-            "tags": [
-                "Source: https://theloadstar.com/congestion-fear-as-unnavigable-rhine-means-cargo-shift-to-road-and-rail/",
-                "Published: 2026-08-10T22:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "ARCTIC SHIPPING: SEA LEGEND ICE SILK ROUTE",
-            "points": [
-                "Chinese container carrier Sea Legend Line is preparing to launch the first regular scheduled container service along Russia's Northern Sea Route.",
-                "The Arctic shipping corridor offers a significantly shorter transit route connecting Far East manufacturing hubs directly with Northern European ports.",
-                "Russian nuclear agency Rosatom finalized necessary navigation permits for the 2026 season to support expanded commercial Arctic cargo transit.",
-                "Global ocean shippers are analyzing Arctic routing viability as an alternative to southern chokepoints and extended African re-routings."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS IT BREACH",
-            "tags": [
-                "Source: https://maritime-executive.com/article/china-s-sea-legend-poised-to-launch-first-regular-ice-silk-road-service",
-                "Published: 2026-08-10T16:29:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "CYBERSECURITY: CEVA LOGISTICS IT BREACH",
-            "points": [
-                "A major cybersecurity incident targeting Ceva Logistics has compromised operational systems, affecting multiple retail and corporate supply chains across Europe.",
-                "Logistics technology teams are deploying emergency containment protocols and forensic audits to isolate affected network segments and protect data.",
-                "Beneficial cargo owners report temporary visibility gaps and operational friction at select regional warehousing and fulfillment facilities.",
-                "Enterprise supply chain risk officers are escalating cyber defense requirements for third-party logistics integrations to prevent cascade outages."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CARRIER COMPLIANCE: SEALEAD LIQUIDATION",
-            "tags": [
-                "Source: https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-further-several-bcos-exposed/",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
                 "Published: 2026-08-11T01:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 5,
-            "heading": "CARRIER COMPLIANCE: SEALEAD LIQUIDATION",
+            "id": 2,
+            "heading": "MARITIME ENFORCEMENT: MSC FINED 6M",
             "points": [
-                "Singapore-registered container line SeaLead Shipping has entered voluntary liquidation following enforcement action and sanctions by U.S. authorities.",
-                "The carrier's main container services linking Asia with Middle East, Mediterranean, and Baltic trade routes have officially ceased operation.",
-                "Competing ocean lines and vessel charterers are rapidly acquiring freed tonnage and reallocating displaced container assets across active lanes.",
-                "Freight forwarders are re-booking affected customer cargo onto alternative carriers to clear port backlogs caused by the sudden liquidation."
+                "MSC Shipmanagement pleaded guilty in federal court and was ordered to pay a $6M fine alongside a four-year probation period following a Charleston harbor incident.",
+                "Federal investigators revealed that ship managers willfully concealed a dangerous engine control system malfunction on the containership MSC Michigan VII.",
+                "The ruling establishes heightened legal liability for ship management executives failing to report hazardous mechanical conditions to Coast Guard authorities.",
+                "Ocean carriers are overhauling onboard maintenance compliance and mandatory defect reporting protocols to prevent severe statutory penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET COMPLIANCE: DAIMLER EURO 1B FINE",
+            "nextUpTease": "CARRIER NETWORK: LANDSTAR CUTS 35K CARRIERS",
             "tags": [
-                "Source: https://www.joc.com/article/carrier-sealead-ends-operations-weeks-after-us-sanctions-hit",
-                "Published: 2026-08-10T23:00:00Z",
+                "Source: https://splash247.com/msc-fined-6m-over-charleston-runaway-probe/",
+                "Published: 2026-08-11T00:30:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "CARRIER NETWORK: LANDSTAR CUTS 35K CARRIERS",
+            "points": [
+                "Landstar System has removed over 35,000 sub-contracted motor carriers from its approved capacity network during an aggressive safety and compliance audit.",
+                "The carrier network purge comes amid heightened industry focus on vicarious liability, fraud prevention, and strict safety rating thresholds.",
+                "The drastic capacity reduction reshapes spot market availability while setting a precedent for risk mitigation across major freight brokerages.",
+                "Shippers and freight intermediaries are tightening vendor qualification standards to insulate operations from negligent hiring litigation."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "OCEAN FREIGHT: COSCO RESUMES RED SEA",
+            "tags": [
+                "Source: https://www.freightwaves.com/news/landstar-cuts-35k-carriers-from-network",
+                "Published: 2026-08-11T00:15:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "OCEAN FREIGHT: COSCO RESUMES RED SEA",
+            "points": [
+                "Chinese ocean carrier Cosco Shipping has re-opened bookings for select Red Sea transit routes despite lingering security threats in the corridor.",
+                "The carrier's decision to resume sailings offers shippers a faster transit alternative to the lengthy Cape of Good Hope circumnavigation.",
+                "Global container lines are watching the deployment closely as war risk premiums and naval escort coordination continue to fluctuate.",
+                "Logistics planners must weigh significant transit time savings against potential marine insurance surcharges and security risks."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AUTOMATION: FEDEX AND AMAZON EXPAND ROBOTICS",
+            "tags": [
+                "Source: https://theloadstar.com/cosco-returns-to-red-sea-sailings-despite-threats-from-houthis/",
+                "Published: 2026-08-11T01:10:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AUTOMATION: FEDEX AND AMAZON EXPAND ROBOTICS",
+            "points": [
+                "FedEx and Amazon have launched expanded operational deployments of autonomous robotic arm systems for automated trailer loading and item sorting.",
+                "FedEx installed new trailer-loading hardware at its Maryland hub while Amazon plans to double its active robotic arm inventory before year-end.",
+                "The rapid scaling of physical AI hardware addresses persistent warehouse labor shortages while dramatically increasing throughput efficiency.",
+                "Fulfillment operators are reallocating capital toward robotic automation to lower per-unit sorting costs and accelerate cycle times."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRUCKING REGULATION: FMCSA ENGLISH PROFICIENCY RULE",
+            "tags": [
+                "Source: https://www.supplychaindive.com/news/fedex-amazon-expand-robotic-arms-automation/2026/",
+                "Published: 2026-08-10T22:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FLEET COMPLIANCE: DAIMLER EURO 1B FINE",
+            "heading": "TRUCKING REGULATION: FMCSA ENGLISH PROFICIENCY RULE",
             "points": [
-                "Daimler Truck faces potential regulatory penalties up to \u20ac1B from the European Union over strict heavy-duty vehicle emissions compliance rules.",
-                "Corporate leadership rejected the proposed fines as unfair, pointing to substantial capital investments in zero-emission truck technologies.",
-                "The OEM confirmed plans to maintain North American assembly capacity while committing exclusively to EPA 2027 compliant heavy-duty engines.",
-                "Fleet operators are evaluating vehicle procurement cycles and capital budgets as commercial truck manufacturers adapt to dual-region emissions frameworks."
+                "The Federal Motor Carrier Safety Administration has introduced a formal rulemaking proposal to strictly enforce English language proficiency rules for drivers.",
+                "The regulatory push follows joint enforcement sweeps that placed over 26,000 commercial vehicle drivers out of service for safety and credential violations.",
+                "Industry trade groups are analyzing the operational impact on cross-border drayage networks and driver retention across interstate freight lanes.",
+                "Fleet safety directors must verify driver qualification files and language assessment protocols to maintain regulatory compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON 75 CHAR TITLE LIMIT",
+            "nextUpTease": "E-COMMERCE LOGISTICS: ETSY CUTS 220 JOBS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/eu-fine-daimler-truck-emissions",
-                "Published: 2026-08-10T18:00:00Z",
+                "Source: https://www.ttnews.com/articles/fmcsa-english-proficiency-rule",
+                "Published: 2026-08-10T21:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "E-COMMERCE: AMAZON 75 CHAR TITLE LIMIT",
+            "heading": "E-COMMERCE LOGISTICS: ETSY CUTS 220 JOBS",
             "points": [
-                "Amazon has initiated strict enforcement of a new policy capping product titles at 75 characters across merchant listings and its own catalog items.",
-                "The length restriction aims to optimize search indexing and improve product display readability across mobile mobile e-commerce interfaces.",
-                "Third-party merchants face search suppression and listing rejection if product title lengths exceed the updated character limit.",
-                "E-commerce catalog managers are auditing product detail pages to re-optimize keyword density while complying with character limits."
+                "Etsy announced a 12% workforce reduction eliminating 220 positions shortly after receiving $1.4B in cash from the sale of its Depop marketplace.",
+                "Executive leadership stated the downsizing aims to streamline operational overhead while reallocating capital toward core platform AI tools.",
+                "The corporate restructuring highlights broader tech and e-commerce sector trends toward leaner operating structures post-asset divestiture.",
+                "E-commerce logistics managers are adapting fulfillment and marketplace support services as major platforms restructure internal teams."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-also-applies-to-its-own-listings/",
-                "Published: 2026-08-10T15:00:00Z",
+                "Source: https://www.ecommercebytes.com/2026/08/06/etsy-announces-layoffs-after-1-4-billion-infusion/",
+                "Published: 2026-08-10T20:00:00Z",
                 "Status: Audited & True"
             ]
         }
