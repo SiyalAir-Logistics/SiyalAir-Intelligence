@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR EXPANDS",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR trade policy shifts and customs enforcement escalate operational risk across international freight and middle-mile logistics networks."
+        "titleWhite": "SEALEAD LIQUIDATES",
+        "titleBlue": "OPERATIONS",
+        "footerSummary": "SeaLead liquidates operations under US sanctions while new tariffs and Arctic routing reshape global container trade flows."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: USTR EXPANDS TARIFFS",
+            "heading": "MARITIME CAPABILITY: SEALEAD LIQUIDATES OPERATIONS",
             "points": [
-                "The Office of the United States Trade Representative moved forward with implementing Section 301 tariffs targeting 60 trading partners following Section 122 expirations.",
-                "Customs compliance teams must adjust duty rate calculations and supply chain origin audits to avoid unexpected border detention fees.",
-                "Trade policy shifts aim to curtail forced labor practices while recalibrating global import cost structures for high-volume trade lanes.",
-                "Importers must rapidly re-evaluate landed costs and sourcing footprints as federal trade enforcement intensifies across key partner nations."
+                "Singapore-registered ocean container carrier SeaLead Shipping has entered voluntary liquidation following recent US financial sanctions.",
+                "The immediate cessation of operations terminates core liner services connecting Asia, Middle East, Mediterranean, and Baltic trade lanes.",
+                "Competing ocean carriers and charterers are rapidly reallocating displaced vessel tonnage and container assets across affected loops.",
+                "Freight forwarders must immediately reroute affected cargo bookings to prevent severe port dwell time and supply chain disruption."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY LAW: TEAMSTERS SUE DMV",
+            "nextUpTease": "AUTOMOTIVE LOGISTICS: GM SELLS BATTERY STAKE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs_2026",
-                "Published: 2026-08-10T23:00:00Z",
+                "Source: https://www.joc.com/article/carrier-sealead-ends-operations-weeks-after-us-sanctions-hit_2026",
+                "Published: 2026-08-11T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATORY LAW: TEAMSTERS SUE DMV",
+            "heading": "AUTOMOTIVE LOGISTICS: GM SELLS BATTERY STAKE",
             "points": [
-                "Teamsters California filed a major lawsuit against the state DMV to halt amended regulations allowing heavy-duty autonomous truck testing permits.",
-                "Labor unions argue autonomous commercial vehicles present severe public safety risks and threaten regional freight driver livelihoods.",
-                "The legal filing challenges administrative rule-making procedures and seeks immediate injunctive relief against autonomous vehicle permits.",
-                "Fleet operators must track state regulatory litigation as autonomous trucking deployment timelines face heightened legal friction."
+                "General Motors agreed to sell its ownership stake in an Indiana EV battery manufacturing joint venture to Samsung SDI.",
+                "The strategic divestment follows softer demand for electric vehicles and the loss of a $7,500 federal tax credit in late 2025.",
+                "Samsung SDI will assume full control of the manufacturing facility to rebalance production schedules and battery supply lines.",
+                "Automotive supply chain managers are recalibrating raw material procurement strategies as battery production shifts to single-owner operating models."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME PENALTIES: MSC FINED MILLIONS",
+            "nextUpTease": "TRADE REGULATION: COMMERCE EXPANDS METAL TARIFFS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/teamsters-sue-california-dmv-av-rules-2026",
-                "Published: 2026-08-10T22:30:00Z",
+                "Source: https://www.ttnews.com/articles/gm-sell-stake-indiana-ev-battery-venture-samsung-2026",
+                "Published: 2026-08-11T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME PENALTIES: MSC FINED MILLIONS",
+            "heading": "TRADE REGULATION: COMMERCE EXPANDS METAL TARIFFS",
             "points": [
-                "MSC Shipmanagement was ordered to pay $6M in fines and placed on 4 years probation following a federal Charleston runaway probe.",
-                "The vessel operator admitted to concealing hazardous engine-control defects and obstructing subsequent federal safety investigations.",
-                "Maritime regulators signaled intensified scrutiny on ocean carrier safety reporting standards and vessel maintenance compliance.",
-                "Ocean shippers should monitor carrier compliance audits as federal enforcement increases operational risk across port calls."
+                "The US Commerce Department proposed new import tariffs on derivative steel, aluminum, and copper manufactured products.",
+                "Designated product categories range from industrial floor safes and brass wind instruments to commercial tanker trailers and semi-trailers.",
+                "Importers face expanded tariff classifications designed to prevent circumvention of primary raw metal import restrictions.",
+                "Customs brokers must update tariff schedule classifications to ensure full compliance and avoid border clearance delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS REVENUE: CBP TARIFF REFUNDS",
+            "nextUpTease": "ARCTIC SHIPPING: SEA LEGEND LAUNCHES ROUTE",
             "tags": [
-                "Source: https://splash247.com/msc-fined-6m-over-charleston-runaway-probe-2026",
-                "Published: 2026-08-11T01:00:00Z",
+                "Source: https://www.supplychaindive.com/news/commerce-department-proposes-tariffs-steel-aluminum-copper-2026",
+                "Published: 2026-08-11T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CUSTOMS REVENUE: CBP TARIFF REFUNDS",
+            "heading": "ARCTIC SHIPPING: SEA LEGEND LAUNCHES ROUTE",
             "points": [
-                "U.S. Customs and Border Protection has paid over $100B in IEEPA tariff refunds to commercial importers following trade litigation.",
-                "A secondary financial market has emerged where retail enterprises sell potential duty refund rights to secure immediate cash liquidity.",
-                "Legal delays persist in processing finally liquidated entries while Department of Justice appeals move through federal court systems.",
-                "Enterprise beneficial cargo owners are leveraging tariff refund assets to offset broader supply chain cost inflation."
+                "Chinese ocean carrier Sea Legend Line is launching the first regular commercial container service along Russia's Northern Sea Route.",
+                "The Arctic transit route connects East Asian ports directly with Northern Europe, reducing traditional maritime transit distance by 30%.",
+                "Russian maritime agency Rosatom completed issuing official seasonal navigation permits for the 2026 operational window.",
+                "Cargo owners gain alternative seasonal transit options while navigating ongoing geopolitical restrictions along traditional southern trade corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: RHINE DROUGHT DISRUPTIONS",
+            "nextUpTease": "PORT INFRASTRUCTURE: VIRGINIA ADDS RAIL SERVICE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/cbp-100b-ieepa-tariff-refunds-2026",
-                "Published: 2026-08-10T21:15:00Z",
+                "Source: https://maritime-executive.com/article/china-s-sea-legend-poised-to-launch-first-regular-ice-silk-road-service-2026",
+                "Published: 2026-08-10T16:29:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INLAND WATERWAYS: RHINE DROUGHT DISRUPTIONS",
+            "heading": "PORT INFRASTRUCTURE: VIRGINIA ADDS RAIL SERVICE",
             "points": [
-                "Extended heatwaves and drought across Europe dropped Rhine River water levels, restricting inland barge loading capacities.",
-                "Barge operators are forcing freight payload reductions up to 50%, forcing containerized cargo onto already congested road and rail networks.",
-                "Inland European freight rates are rising rapidly as landside transport modes absorb diverted barge volumes.",
-                "Logistics planners must anticipate severe transit delays for hinterland container movements between North Sea ports and European industrial hubs."
+                "The Port of Virginia launched a new direct CSX intermodal rail service connecting ocean terminals directly to Indianapolis.",
+                "Containerized cargo moves directly by rail into the Midwest region, eliminating historical transit bottlenecks through Chicago terminals.",
+                "The direct intermodal corridor reduces drayage trucking expenses and shortens regional transit times for Midwest importers.",
+                "Logistics planners can leverage direct rail routing to streamline middle-mile distribution across US Midwest inland hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "NETWORK CONSOLIDATION: AMAZON MERGES TEAMS",
+            "nextUpTease": "AIR FREIGHT: EU TAX REFORM DENTS VOLUMES",
             "tags": [
-                "Source: https://theloadstar.com/rhine-drought-cripples-inland-barge-shipping-2026/",
-                "Published: 2026-08-10T20:00:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-adds-csx-rail-service-indianapolis-2026",
+                "Published: 2026-08-10T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "NETWORK CONSOLIDATION: AMAZON MERGES TEAMS",
+            "heading": "AIR FREIGHT: EU TAX REFORM DENTS VOLUMES",
             "points": [
-                "Amazon combined its air and ground transportation management teams to consolidate middle-mile supply chain operations.",
-                "The organizational restructuring aims to accelerate middle-mile decision-making and optimize carrier asset utilization across regional hubs.",
-                "Integrated transportation teams will manage multi-modal routing algorithms to lower line-haul transit costs and inventory dwell times.",
-                "Competitors and third-party carriers face increased pressure as e-commerce giants streamline internal middle-mile velocity."
+                "Air cargo spot rates and volume indices recorded immediate declines following European Union duty-free tax threshold reforms.",
+                "Regulatory adjustments removed de minimis customs exemptions, imposing standardized import taxes on low-value e-commerce packages.",
+                "High-volume cross-border e-commerce shippers are shifting inventory fulfillment to regional European distribution warehouses.",
+                "Air freight forwarders must reallocate main-deck freighter capacity as cross-border e-commerce air parcels experience structural volume contraction."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRIVER SAFETY: FMCSA ENGLISH ENFORCEMENT",
+            "nextUpTease": "RETAIL SUPPLY: STARBUCKS REVISES REPLENISHMENT",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/amazon-combines-air-ground-operations-2026",
-                "Published: 2026-08-11T02:00:00Z",
+                "Source: https://www.joc.com/article/air-cargo-rates-volume-slump-after-eu-duty-free-tax-reform-2026",
+                "Published: 2026-08-11T05:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DRIVER SAFETY: FMCSA ENGLISH ENFORCEMENT",
+            "heading": "RETAIL SUPPLY: STARBUCKS REVISES REPLENISHMENT",
             "points": [
-                "The Federal Motor Carrier Safety Administration proposed tighter enforcement rules targeting commercial driver English language proficiency.",
-                "The proposed rule establishes standardized testing and enforcement protocols during roadside commercial motor vehicle safety inspections.",
-                "Motor carriers face potential driver out-of-service orders if non-domiciled or domestic operators fail regulatory communication standards.",
-                "Fleet managers must conduct proactive driver compliance evaluations to avoid roadside driver disqualifications and delivery delays."
+                "Starbucks established a strategic target to achieve 24-hour inventory replenishment across its North American store network.",
+                "The operational transition follows the termination of an AI-driven inventory tool after a 9-month store trial period.",
+                "Supply chain leadership is restructuring physical distribution network workflows to increase store-level product availability.",
+                "Retail logistics operators are prioritizing simplified distribution cadence over complex algorithmic inventory forecasting models."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/fmcsa-proposed-rule-english-proficiency-2026",
-                "Published: 2026-08-10T19:45:00Z",
+                "Source: https://www.supplychaindive.com/news/starbucks-targets-24-hour-inventory-replenishment-2026",
+                "Published: 2026-08-10T12:00:00Z",
                 "Status: Audited & True"
             ]
         }

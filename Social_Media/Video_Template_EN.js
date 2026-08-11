@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR EXPANDS TARIFFS",
+        "hookTitle": "SEALEAD LIQUIDATES OPERATIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: USTR EXPANDS TARIFFS",
-                "teaserTitle": "REGULATORY LAW: TEAMSTERS SUE DMV",
+                "headline": "MARITIME CAPABILITY: SEALEAD LIQUIDATES OPERATIONS",
+                "teaserTitle": "AUTOMOTIVE LOGISTICS: GM SELLS BATTERY STAKE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR implemented Section 301 forced labor tariffs on 60 trading partners as Section 122 duties expired. Shippers face immediate duty rate recalibrations across critical cross-border import supply chains."
+                "narration_line": "SeaLead Shipping has entered voluntary liquidation following recent US financial sanctions. The carrier ceased all container operations across Asia, Middle East, and Mediterranean trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY LAW: TEAMSTERS SUE DMV",
-                "teaserTitle": "MARITIME PENALTIES: MSC FINED MILLIONS",
+                "headline": "AUTOMOTIVE LOGISTICS: GM SELLS BATTERY STAKE",
+                "teaserTitle": "TRADE REGULATION: COMMERCE EXPANDS METAL TARIFFS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Teamsters California filed a lawsuit against the DMV to halt amended regulations permitting heavy-duty autonomous truck testing. Legal challenges could stall commercial deployment schedules for autonomous freight fleets across state corridors."
+                "narration_line": "GM agreed to sell its stake in an Indiana EV battery venture to Samsung SDI. Samsung will assume full control of the facility following lower EV demand in 2026."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME PENALTIES: MSC FINED MILLIONS",
-                "teaserTitle": "CUSTOMS REVENUE: CBP TARIFF REFUNDS",
+                "headline": "TRADE REGULATION: COMMERCE EXPANDS METAL TARIFFS",
+                "teaserTitle": "ARCTIC SHIPPING: SEA LEGEND LAUNCHES ROUTE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "MSC Shipmanagement was fined $6M and placed on 4 years probation for concealing engine defects during a 2024 harbour incident. Federal oversight will now require strict mechanical auditing across ocean fleet operations."
+                "narration_line": "The US Commerce Department proposed new tariffs on derivative steel, aluminum, and copper products. The regulations target commercial semi-trailers and industrial metal goods to prevent trade evasion."
             },
             {
                 "slide_index": 4,
-                "headline": "CUSTOMS REVENUE: CBP TARIFF REFUNDS",
-                "teaserTitle": "INLAND WATERWAYS: RHINE DROUGHT DISRUPTIONS",
+                "headline": "ARCTIC SHIPPING: SEA LEGEND LAUNCHES ROUTE",
+                "teaserTitle": "PORT INFRASTRUCTURE: VIRGINIA ADDS RAIL SERVICE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "CBP has disbursed $100B in IEEPA tariff refunds to importers following extensive court rulings. Secondary liquidity markets are expanding rapidly as retailers monetize pending customs reimbursement claims."
+                "narration_line": "Sea Legend Line launched the first regular container service along the Northern Sea Route. The Arctic transit corridor cuts shipping distance between Asia and Northern Europe by 30%."
             },
             {
                 "slide_index": 5,
-                "headline": "INLAND WATERWAYS: RHINE DROUGHT DISRUPTIONS",
-                "teaserTitle": "NETWORK CONSOLIDATION: AMAZON MERGES TEAMS",
+                "headline": "PORT INFRASTRUCTURE: VIRGINIA ADDS RAIL SERVICE",
+                "teaserTitle": "AIR FREIGHT: EU TAX REFORM DENTS VOLUMES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Severe drought conditions lowered Rhine River water levels, forcing barge operators to cut container payloads by 50%. Freight volume is shifting to regional rail and truck networks, driving inland spot rates higher."
+                "narration_line": "The Port of Virginia launched direct CSX intermodal rail service into Indianapolis. The service bypasses Chicago rail yards to reduce landside drayage costs for Midwest importers."
             },
             {
                 "slide_index": 6,
-                "headline": "NETWORK CONSOLIDATION: AMAZON MERGES TEAMS",
-                "teaserTitle": "DRIVER SAFETY: FMCSA ENGLISH ENFORCEMENT",
+                "headline": "AIR FREIGHT: EU TAX REFORM DENTS VOLUMES",
+                "teaserTitle": "RETAIL SUPPLY: STARBUCKS REVISES REPLENISHMENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon consolidated its middle-mile air and ground operations teams into a unified transportation management structure. The organizational merge aims to accelerate middle-mile decision-making and optimize inventory routing."
+                "narration_line": "Air cargo volumes dropped after EU duty-free tax reforms eliminated de minimis import exemptions. Cross-border e-commerce shippers are shifting inventory to regional European fulfillment centers."
             },
             {
                 "slide_index": 7,
-                "headline": "DRIVER SAFETY: FMCSA ENGLISH ENFORCEMENT",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "RETAIL SUPPLY: STARBUCKS REVISES REPLENISHMENT",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "FMCSA proposed a new rule enforcing English proficiency requirements for commercial motor vehicle drivers operating in interstate commerce. State inspectors will gain expanded authority to sideline non-compliant drivers during roadside safety audits."
+                "narration_line": "Starbucks targeted a 24-hour store inventory replenishment schedule across North America. The decision follows the cancellation of an automated replenishment software program after 9 months of testing."
             },
             {
                 "slide_index": 8,
