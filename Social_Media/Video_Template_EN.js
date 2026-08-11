@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR LEVIES SECTION 301 DUTIES ON 60 NATIONS",
+        "hookTitle": "TRUMP EXTENDS JONES ACT WAIVER",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: USTR LEVIES SECTION 301 DUTIES",
-                "teaserTitle": "AUTOMATION: FEDEX AMAZON DEPLOY ROBOTICS",
+                "headline": "MARITIME: TRUMP EXTENDS JONES ACT WAIVER",
+                "teaserTitle": "INLAND WATERWAYS: RHINE DROUGHT CARGO SHIFT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The USTR is implementing new Section 301 tariffs targeting forced labor across 60 trading partners as Section 122 duties expire. Importers face immediate regulatory compliance audits and duty adjustments across high-risk international supply chains."
+                "narration_line": "President Trump extended the Jones Act cabotage waiver for another 90 days, permitting foreign-flagged tankers to move oil between domestic ports. The White House narrowed administrative approvals to a voyage-by-voyage basis to maintain fuel distribution stability."
             },
             {
                 "slide_index": 2,
-                "headline": "AUTOMATION: FEDEX AMAZON DEPLOY ROBOTICS",
-                "teaserTitle": "OCEAN FREIGHT: INDIA EUROPE CAPACITY SOLD OUT",
+                "headline": "INLAND WATERWAYS: RHINE DROUGHT CARGO SHIFT",
+                "teaserTitle": "ARCTIC SHIPPING: SEA LEGEND ICE SILK ROUTE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "FedEx deployed automated trailer loading systems in Maryland while Amazon moves to double its robotic arms fleet in 2026. Logistics operators expect these automated systems to significantly accelerate parcel throughput and reduce warehouse labor costs."
+                "narration_line": "Severe European drought has rendered key stretches of the Rhine river unnavigable, forcing freight operators to reroute bulk shipments onto road and rail. Waterway levels continue dropping as heatwaves worsen inland transport bottlenecks."
             },
             {
                 "slide_index": 3,
-                "headline": "OCEAN FREIGHT: INDIA EUROPE CAPACITY SOLD OUT",
-                "teaserTitle": "TRADE FINANCE: RETAILERS MONETIZE REFUNDS",
+                "headline": "ARCTIC SHIPPING: SEA LEGEND ICE SILK ROUTE",
+                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS IT BREACH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Lead ocean carriers report eastbound container services from India to Europe are 100% sold out through late August and early September. Shippers face escalating spot freight rates and severe booking rejections on key maritime trade lanes."
+                "narration_line": "Sea Legend Line initiated regular Arctic container shipping across Russia's Northern Sea Route to connect Asia and Europe. The carrier secured 2026 transit permits from Rosatom to bypass southern maritime chokepoints."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE FINANCE: RETAILERS MONETIZE REFUNDS",
-                "teaserTitle": "AIR CARGO: DATA CENTER HARDWARE BOOSTS YIELDS",
+                "headline": "CYBERSECURITY: CEVA LOGISTICS IT BREACH",
+                "teaserTitle": "CARRIER COMPLIANCE: SEALEAD LIQUIDATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Retailers including American Eagle are selling rights to potential tariff refunds to secondary investors for immediate cash capital. Monetizing trade claims provides essential liquidity while customs legal disputes remain pending before federal courts."
+                "narration_line": "Ceva Logistics suffered a major IT security breach that disrupted supply chain management systems across European retail and banking operations. IT teams are executing emergency containment protocols to restore compromised data infrastructure."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: DATA CENTER HARDWARE BOOSTS YIELDS",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
+                "headline": "CARRIER COMPLIANCE: SEALEAD LIQUIDATION",
+                "teaserTitle": "FLEET COMPLIANCE: DAIMLER EURO 1B FINE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Surging demand for AI data center hardware is creating high-yield tech air freight opportunities for international forwarders. Global logistics providers are prioritizing capacity for high-value technology components over traditional e-commerce cargo."
+                "narration_line": "Container carrier SeaLead entered voluntary liquidation following recent sanctions imposed by the US Treasury Department. Ocean carriers and forwarders are rapidly reallocating affected container assets across major East-West trade lanes."
             },
             {
                 "slide_index": 6,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
-                "teaserTitle": "AUTOHAULING: PROFICIENT EXPANDS SHARE TO 25%",
+                "headline": "FLEET COMPLIANCE: DAIMLER EURO 1B FINE",
+                "teaserTitle": "E-COMMERCE: AMAZON 75 CHAR TITLE LIMIT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "U.S. industrial real estate vacancy fell 7 basis points to 7.3% in Q2 2026 as tenant demand outpaced new warehouse construction. Distribution network operators report stabilizing market conditions across primary logistics gateways."
+                "narration_line": "Daimler Truck faces potential regulatory fines up to \u20ac1B from the European Union over fleet emissions compliance rules. Executive leadership rejected the penalties as unfair while advancing EPA 2027 heavy-duty engine transitions."
             },
             {
                 "slide_index": 7,
-                "headline": "AUTOHAULING: PROFICIENT EXPANDS SHARE TO 25%",
+                "headline": "E-COMMERCE: AMAZON 75 CHAR TITLE LIMIT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Proficient Auto Logistics acquired regional auto-hauling assets to expand its specialized fleet market share to 25%. Fleet expansion strategies reflect rising vehicle delivery demand across key North American automotive supply chains."
+                "narration_line": "Amazon began enforcing a strict 75-character limit on product titles across all marketplace listings and first-party items. Non-compliant catalog entries face immediate search indexing suppression to standardize mobile display layouts."
             },
             {
                 "slide_index": 8,
