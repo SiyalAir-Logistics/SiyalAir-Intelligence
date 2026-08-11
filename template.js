@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR TARIFFS ON 60",
-        "titleBlue": "NATIONS",
-        "footerSummary": "USTR triggers massive forced labor tariffs on sixty nations while US forces disable vessels near the Iranian blockade, resetting global risk parameters."
+        "titleWhite": "SEALEAD LIQUIDATION SHIFTS",
+        "titleBlue": "TONNAGE",
+        "footerSummary": "SeaLead Shipping liquidation forces immediate container re-allocations while Typhoon Dolphin strands 2.4M TEUs off China."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS ON 60 NATIONS",
+            "heading": "MARITIME: SEALEAD LIQUIDATION SHIFTS TONNAGE",
             "points": [
-                "The Office of the United States Trade Representative announced the immediate implementation of Section 301 tariffs on sixty trading nations. This aggressive move targets forced labor practices as historical Section 122 tariff protections officially expired yesterday. Federal agencies are now authorized to apply heightened duty rates across a vast spectrum of consumer and industrial goods. Strategic trade partners must now navigate a significantly more restrictive US import environment.",
-                "Customs and Border Protection agents have received updated directives to prioritize enforcement against shipments linked to non-compliant manufacturing regions. The shift represents a fundamental decoupling of US trade policy from broad de minimis exemptions previously enjoyed by these specific trade partners. Importers should expect an immediate increase in administrative hold orders and documentation requests for all incoming cargo. Financial projections indicate a sharp rise in landed costs for North American retail distributors.",
-                "Compliance officers are urged to perform urgent supply chain mapping to identify potential exposure to these sixty high-risk jurisdictions. The expiration of prior tariff shields removes the primary legal defense for many high-volume e-commerce and industrial procurement models. This regulatory pivot aligns with a broader national security strategy to eradicate unethical labor from essential critical infrastructure supply chains. Market analysts predict a significant reorganization of transpacific and transatlantic shipping lanes by the fourth quarter.",
-                "Continuous trade shifts require monitoring immediate carrier capacity adjustments."
+                "Singapore-registered ocean container carrier SeaLead Shipping has entered voluntary liquidation following recent United States financial sanctions. Mainline container services connecting Asia to the Middle East, Mediterranean, and Baltic regions have completely ceased operations. Competitor carriers and tonnage providers are rapidly acquiring SeaLead's displaced fleet assets and container inventory.",
+                "Shippers with active bookings across SeaLead trade lanes face immediate cargo delays and mandatory booking transfers. Ocean freight forwarders are conducting rapid compliance audits to clear affected freight from third-party maritime hubs. The carrier's sudden exit removes critical secondary capacity during the height of the transpacific and Asia-Europe peak shipping season.",
+                "Regulatory pressure and strict enforcement of global maritime sanctions are driving high structural volatility among regional ocean carriers. Financial institutions and freight intermediaries are enforcing rigorous ownership verification protocols to avoid vicarious compliance exposure. The liquidation marks one of the most swift operational unwindings of a medium-sized liner operator in recent years.",
+                "Freight managers must immediately reallocate Asia-bound cargo bookings to alternate alliances to prevent severe port dwell time penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: MSC FINED FOR CHARLESTON RUNAWAY",
+            "nextUpTease": "OFFSHORE: CADELER ORDERS TWO WIND INSTALLATION SHIPS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs_on_60_nations",
-                "Published: 2026-08-10T14:30:00Z",
+                "Source: https://www.joc.com/article/sealead-ceases-operations-after-us-sanctions-hit",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATORY: MSC FINED FOR CHARLESTON RUNAWAY",
+            "heading": "OFFSHORE: CADELER ORDERS TWO WIND INSTALLATION SHIPS",
             "points": [
-                "MSC Shipmanagement has been ordered to pay six million dollars in fines following a federal probe into a 2024 runaway vessel incident. The MSC Michigan Seven experienced a full-speed control failure while navigating through the Charleston harbor, creating significant maritime risk. Prosecutors established that the company knowingly concealed hazardous engine-control defects from the United States Coast Guard during mandatory inspections. The court also mandated a four-year probationary period involving intensive third-party safety auditing and monitoring.",
-                "Investigations by the National Transportation Safety Board revealed a series of systemic mechanical failures and maintenance negligence aboard the containership. The chief engineer of the vessel also pleaded guilty to obstructing a federal investigation by providing false technical logs. This legal resolution underscores the increasing intolerance for technical non-disclosure in high-traffic United States maritime terminals. Federal authorities are leveraging this case to signal a new era of aggressive enforcement against substandard vessel maintenance.",
-                "Ocean carriers operating in US waters must now review their hazardous condition reporting protocols to ensure absolute compliance with the Shipping Act. The incident resulted in temporary port closures and emergency evacuations along the Charleston waterfront during the runaway event. Operational friction from increased Coast Guard scrutiny is expected for all MSC-managed tonnage entering North American ports this month. This verdict creates a new legal precedent for vicarious liability concerning shipboard mechanical failures and intentional regulatory deception.",
-                "Continuous trade shifts require monitoring immediate carrier capacity adjustments."
+                "Offshore wind turbine installation leader Cadeler has signed a major shipbuilding contract with COSCO Shipping Offshore in Qidong, China. The order covers two next-generation jack-up wind turbine installation vessels valued at eight hundred five million euros. This expansion reinforces Cadeler's position as owner of the commercial offshore wind industry's largest specialized installation fleet.",
+                "Deliveries of the newly contracted jack-up vessels will address critical global shortages in high-capacity offshore heavy lift equipment. Specialized wind turbine installation capacity remains severely constrained as next-generation offshore wind turbine sizes exceed existing vessel crane parameters. The transaction brings Cadeler's total capital investment at the Qidong shipyard to over one point eight billion dollars.",
+                "Project developers across Europe and Asia are securing long-term vessel charter agreements years in advance to lock in installation schedules. The newbuild announcement highlights continuous capital deployment into renewable energy marine logistics despite global economic headwinds. Strategic yard partnerships in Asia remain essential for constructing complex, high-tonnage offshore wind turbine installation hardware.",
+                "Energy developers should anticipate improved chartering availability for mega-turbine installations starting in late 2027."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: TEAMSTERS SUE DMV OVER AV RULES",
+            "nextUpTease": "REGULATORY: JONES ACT WAIVER EXTENDED WITH LIMITS",
             "tags": [
-                "Source: https://splash247.com/msc-fined-6m-over-charleston-runaway-probe",
-                "Published: 2026-08-11T09:15:00Z",
+                "Source: https://maritime-executive.com/article/cadeler-orders-two-more-wtiv-vessels-citing-continued-strong-sector-demand",
+                "Published: 2026-08-10T18:56:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TECHNOLOGY: TEAMSTERS SUE DMV OVER AV RULES",
+            "heading": "REGULATORY: JONES ACT WAIVER EXTENDED WITH LIMITS",
             "points": [
-                "Teamsters California filed a high-profile lawsuit against the Department of Motor Vehicles to halt the implementation of heavy-duty autonomous truck permits. The union argues that the state's amended regulations bypass critical safety benchmarks required for eighty-thousand-pound driverless commercial vehicles. This legal challenge aims to prevent the automated deployment of Class Eight trucks on public highways without human oversight. Legal experts suggest this case will define the jurisdictional boundaries of autonomous vehicle regulation for the next decade.",
-                "The lawsuit claims the DMV exceeded its statutory authority by simplifying the permitting process for technology developers and private freight operators. Union leadership emphasizes the potential for catastrophic economic displacement and public safety hazards associated with unproven autonomous driving systems. State officials maintain that the regulations are designed to foster technological innovation and address persistent long-haul driver shortages. The conflict highlights the growing tension between organized labor and the acceleration of AI-driven supply chain automation.",
-                "Freight operators in the Western United States must monitor this litigation as it could trigger a moratorium on autonomous fleet testing. A ruling in favor of the Teamsters would likely require a total redesign of the state's commercial vehicle licensing framework for robotics. Fleet managers are currently caught in a regulatory limbo while massive investments in Level Four automation remain tied to court outcomes. The resolution of this suit will serve as a bellwether for similar labor-led challenges in Texas and Arizona.",
-                "Continuous trade shifts require monitoring immediate carrier capacity adjustments."
+                "The White House has extended its federal cabotage waiver granting foreign vessels access to domestic United States coastal trade routes. However, regulatory authorities narrowed the scope by introducing strict case-by-case administrative approvals for each foreign voyage. The administrative adjustment follows intense pushback from domestic shipbuilders arguing that broad waivers undermine domestic maritime fleet investments.",
+                "Energy shippers utilizing foreign-flagged tankers between the United States Gulf Coast and California ports must now submit detailed voyage petitions. Domestic energy groups commended the baseline extension for preserving domestic supply security and dampening regional fuel price surges. Maritime compliance officers expect moderate administrative processing delays as customs officials review individual vessel exemption filings.",
+                "The policy decision balances urgent domestic petroleum distribution requirements against long-term statutory protections under the Merchant Marine Act of 1920. Federal regulators signal that future cabotage exemptions will face heightened scrutiny regarding domestic vessel availability before approval. Ocean transportation intermediaries must adjust transit timelines for domestic cabotage movements under the updated administrative framework.",
+                "Coastal petroleum dispatchers must allow extra lead time for customs verification prior to scheduling foreign-flagged vessel loadings."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: AMAZON UNIFIES AIR AND GROUND TEAMS",
+            "nextUpTease": "WEATHER: TYPHOON DOLPHIN SPURS ASIAN PORT CONGESTION",
             "tags": [
-                "Source: https://www.ttnews.com/articles/teamsters-california-sue-dmv-autonomous-truck-rules",
-                "Published: 2026-08-10T18:00:00Z",
+                "Source: https://www.ttnews.com/articles/trump-extends-jones-act-new-limits",
+                "Published: 2026-08-11T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LOGISTICS: AMAZON UNIFIES AIR AND GROUND TEAMS",
+            "heading": "WEATHER: TYPHOON DOLPHIN SPURS ASIAN PORT CONGESTION",
             "points": [
-                "Amazon announced a major organizational restructuring that merges its independent air cargo and ground transportation management teams. This integration aims to create a singular middle-mile operation capable of executing real-time logistics decisions across all transit modes. Executives believe the unified structure will significantly reduce latency in the company's internal distribution network. The change is designed to sharpen planning for high-volume seasonal peaks and improve aircraft utilization rates.",
-                "By consolidating these departments, Amazon can now synchronize flight schedules directly with regional trucking drayage and sortation facility intake capacities. This move follows years of maintaining separate silos for Amazon Air and its vast surface transportation fleet. The new strategy focuses on maximizing the density of each trailer and cargo container through shared predictive analytics engines. Operational agility is expected to improve as local managers gain visibility into both tarmac and highway bottlenecks simultaneously.",
-                "Third-party logistics providers and traditional parcel carriers like UPS and FedEx are closely monitoring this shift toward deep network horizontalism. This consolidation further reduces Amazon's reliance on external freight brokerage for moving inventory between regional fulfillment hubs. The structural change allows for more aggressive 24-hour replenishment targets across the entire North American e-commerce footprint. Shippers should anticipate higher competitive pressure as Amazon optimizes its proprietary middle-mile infrastructure to record efficiency levels.",
-                "Continuous trade shifts require monitoring immediate carrier capacity adjustments."
+                "Typhoon Dolphin has made landfall near Ningbo, China, triggering severe port disruptions and operational suspensions across East Asian maritime gateways. Marine tracking data indicates over two point four million TEU of containership capacity currently anchored off major Chinese container terminals. Ocean carriers report extensive schedule delays and anchorages across Shanghai, Ningbo, and adjacent transshipment nodes.",
+                "The severe weather disruption exacerbates existing terminal berth congestion across major East Asian container hubs during peak shipping season. Container lines are preparing blank sailings and vessel speed recovery plans to restore schedule reliability across transpacific trade lanes. Equipment imbalances are anticipated across inland Chinese origin rail ramps as container gate operations remain temporarily halted.",
+                "Supply chain planners face compounding transit delays as consecutive tropical storms disrupt regional vessel feeder networks. Marine terminal operators are prioritizing reefer cargo and critical export containers as yard density reaches historic capacity limits. Global supply chains face extended dwell times for North American and European imports originating from impacted East Asian load ports.",
+                "Import coordinators must monitor vessel carrier arrival notices daily to adjust downstream warehouse labor allocations."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: FMCSA ENFORCES ENGLISH PROFICIENCY RULES",
+            "nextUpTease": "FINANCE: HAI LONG WIND SECURES 1.7B FINANCING",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/amazon-combines-air-ground-operations-teams/2026",
-                "Published: 2026-08-11T11:00:00Z",
+                "Source: https://theloadstar.com/tropical-storms-bring-congestion-and-cargo-backlogs-at-asian-ports/",
+                "Published: 2026-08-11T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LABOR: FMCSA ENFORCES ENGLISH PROFICIENCY RULES",
+            "heading": "FINANCE: HAI LONG WIND SECURES 1.7B FINANCING",
             "points": [
-                "The Federal Motor Carrier Safety Administration is moving to finalize strict English language proficiency requirements for all commercial driver license holders. This enforcement push follows the recent sidelining of twenty-six thousand drivers found to be non-compliant with existing regulatory standards. Agencies are now seeking to lock in these rules to ensure all operators can read road signs and communicate with emergency personnel. The mandate is expected to significantly impact the available labor pool for long-haul and cross-border trucking operations.",
-                "Under the proposed rule, state DMV examiners will face stricter auditing to verify that language testing is performed uniformly during the CDL application process. Industry trade groups have expressed concern that the crackdown will exacerbate current driver capacity shortages across the North American freight market. However, safety advocates argue that clear communication is essential for the safe operation of heavy-duty equipment on public highways. Carriers must now perform internal audits of their driver rosters to identify potential compliance gaps before new penalties take effect.",
-                "Logistics managers are bracing for higher freight rates as driver supply contracts due to these rigorous federal qualifications. The FMCSA has also signaled a continued crackdown on non-domiciled drivers who fail to meet the specific technical and linguistic criteria for US operations. Training programs and CDL schools are being redesigned to include more robust language assessment modules to meet these new federal expectations. This policy shift underscores a broader trend of professionalizing the commercial driving workforce through strict regulatory gatekeeping.",
-                "Continuous trade shifts require monitoring immediate carrier capacity adjustments."
+                "Taiwan's Hai Long offshore wind project has successfully finalized a one point seven billion dollar project financing restructuring package. The debt refinancing agreement adds several international commercial lenders and improves debt servicing terms as construction approaches late 2026 commissioning. The capital injection stabilizes construction operations for the landmark offshore energy installation located off Taiwan's western coast.",
+                "Project sponsors confirmed that the updated credit facility lowers capital costs while securing long-term offshore logistics supply agreements. Marine contractors specializing in cable laying and turbine foundation installation now have fully guaranteed procurement funding through completion. The project represents one of the largest private infrastructure investments in the East Asian offshore wind supply chain network.",
+                "International financial syndicates continue to demonstrate strong appetite for well-structured offshore renewable energy developments in East Asia. The transaction provides crucial regulatory and financial validation for commercial marine infrastructure projects across the Taiwan Strait. Supply chain contractors expect accelerated procurement orders for specialized subsea equipment and offshore installation support vessels.",
+                "Subsea engineering firms should anticipate expanded contract tenders for offshore maintenance services following commissioning."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: US DISABLES VESSEL NEAR IRANIAN BLOCKADE",
+            "nextUpTease": "LABOR: FREEDOM HAULERS SPEEDS VETERAN TRUCKING LICENSES",
             "tags": [
-                "Source: https://www.freightwaves.com/news/fmcsa-seeks-to-lock-in-english-rules-truck-drivers",
-                "Published: 2026-08-11T07:45:00Z",
+                "Source: https://splash247.com/taiwans-offshore-wind-project-secures-1-7bn-financing/",
+                "Published: 2026-08-11T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: US DISABLES VESSEL NEAR IRANIAN BLOCKADE",
+            "heading": "LABOR: FREEDOM HAULERS SPEEDS VETERAN TRUCKING LICENSES",
             "points": [
-                "United States naval forces reportedly fired upon and disabled a small containership that was attempting to breach the Iranian blockade line. The incident occurred in the early morning hours near the Gulf of Oman as geopolitical tensions reached critical levels. Military officials confirmed that the vessel failed to respond to multiple radio warnings and ignored several warning shots before being neutralized. The cargo ship is now being towed to a secure neutral location for a full security and manifest inspection.",
-                "This engagement marks a significant escalation in the enforcement of international shipping sanctions and blockade protocols in the Middle East. Ocean carriers are being advised to maintain a maximum distance from the designated exclusion zones to avoid being caught in military crossfire. The Strait of Hormuz remains a high-risk transit corridor with insurance premiums for merchant vessels rising by three hundred percent this week. Global supply chains are feeling the immediate impact as major shipping lines reroute vessels around the Cape of Good Hope.",
-                "Logistics planners must account for an additional ten to fourteen days of transit time for all cargo moving between Asia and Europe. The disabling of the containership serves as a stark warning to any operators attempting to bypass official maritime restrictions in the region. Energy markets are reacting with extreme volatility as the safety of oil tankers in the Persian Gulf remains uncertain. Port congestion in alternate Mediterranean hubs is beginning to swell as vessel schedules are completely desynchronized by these defensive maneuvers.",
-                "Continuous trade shifts require monitoring immediate carrier capacity adjustments."
+                "The United States Department of Transportation launched the Freedom Haulers initiative to fast-track commercial driver's licenses for military veterans. The interagency program streamlines military driving skill waivers and shortens credentialing timelines for transition personnel entering civilian trucking operations. Concurrently, federal motor carrier regulators are intensifying enforcement actions against non-domiciled and non-compliant commercial truck drivers.",
+                "Fleet executives welcome the workforce recruitment push as qualified heavy-duty long-haul commercial driver shortages continue to constrain truckload capacity. The program pairs specialized CDL training pathways with immediate carrier placements across major interstate freight corridors. Operational safety groups highlight that military driver transition protocols ensure high compliance and safety standards across national highways.",
+                "This regulatory strategy aims to professionalize the commercial motor vehicle labor force while tightening entry controls on unauthorized haulers. Carriers participating in the initiative receive federal assistance to offset apprenticeship and CDL onboarding expenditure. The combined enforcement and recruitment approach signals a structural effort to stabilize long-term interstate freight transport capacity.",
+                "Logistics recruiters should integrate military transition placement frameworks into their long-term driver hiring strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: TECHNIP WINS MALAYSIAN ENERGY FEED",
+            "nextUpTease": "RAIL: PORT OF VIRGINIA LAUNCHES INDIANAPOLIS SERVICE",
             "tags": [
-                "Source: https://maritime-executive.com/article/report-u-s-disables-small-containership-approaching-iranian-blockade",
-                "Published: 2026-08-10T22:30:00Z",
+                "Source: https://www.inboundlogistics.com/article/trump-administration-launches-freedom-haulers-to-steer-veterans-toward-cdls/",
+                "Published: 2026-08-11T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: TECHNIP WINS MALAYSIAN ENERGY FEED",
+            "heading": "RAIL: PORT OF VIRGINIA LAUNCHES INDIANAPOLIS SERVICE",
             "points": [
-                "Technip Energies has been awarded a major Front-End Engineering Design contract for the Yan offshore regasification terminal in Malaysia. The project involves the development of specialized liquefied natural gas infrastructure to bolster regional energy security and export capabilities. Engineers will evaluate multiple regasification terminal configurations to determine the most cost-effective solution for the Kedah maritime corridor. This contract represents a significant investment in the Southeast Asian energy logistics network and infrastructure architecture.",
-                "The Yan terminal is designed to handle high-volume LNG imports, providing critical fuel supplies for both domestic power generation and international industrial manufacturing. Technip will utilize advanced modular construction techniques to reduce the physical footprint and environmental impact of the offshore facility. This project is expected to stimulate localized economic growth and create thousands of technical jobs in the Malaysian maritime sector. Completion of the initial design phase is scheduled for the second quarter of the next fiscal year.",
-                "Global energy logistics firms are closely watching this development as it shifts the strategic balance of LNG distribution in the Asia-Pacific region. The terminal will serve as a primary hub for cross-border energy trade, allowing Malaysia to diversify its energy sourcing and storage capacity. Successful execution of the Yan terminal will likely trigger similar infrastructure investments across neighboring maritime jurisdictions. Shippers in the energy sector should prepare for new routing options as Southeast Asian regasification capacity continues to expand.",
-                "Continuous trade shifts require monitoring immediate carrier capacity adjustments."
+                "The Port of Virginia in partnership with CSX Transportation launched a direct intermodal rail service linking Norfolk terminals to Indianapolis. The new rail line enables containerized ocean freight to bypass traditional rail interchange bottlenecks through Chicago and regional highway drayage routes. Terminal operators emphasize that direct rail connectivity significantly cuts transit time and carbon emissions for Midwest-bound containerized cargo.",
+                "Shippers moving import goods into Indiana and surrounding Midwest distribution hubs gain improved schedule reliability and lower landed transportation costs. The service expands intermodal capacity for East Coast ocean calls as beneficial cargo owners seek alternatives to congested Midwest rail hubs. Railroad officials confirm dedicated daily container train departures operating between Virginia international gateways and Midwestern rail ramps.",
+                "Strategic investments in coastal-to-inland rail corridors reflect a broader industry push toward deep intermodal horizontal integration and drayage reduction. Mid-Atlantic ports are actively expanding hinterland rail reach to capture larger market shares of transpacific and transatlantic import volumes. Logistics managers are re-evaluating Midwest distribution routing to leverage direct coastal rail connections over long-haul motor carrier moves.",
+                "Supply chain directors should evaluate Norfolk-to-Indianapolis rail options to reduce Midwest drayage costs and transit volatility."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://splash247.com/technip-energies-wins-work-on-malaysian-offshore-lng-terminal",
-                "Published: 2026-08-11T08:00:00Z",
+                "Source: https://www.supplychaindive.com/news/port-of-virginia-adds-csx-rail-service-to-indianapolis/2026",
+                "Published: 2026-08-08T12:00:00Z",
                 "Status: Audited & True"
             ]
         }

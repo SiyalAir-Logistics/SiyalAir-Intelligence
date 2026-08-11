@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS ON 60 NATIONS",
+        "hookTitle": "SEALEAD LIQUIDATION SHIFTS TONNAGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS ON 60 NATIONS",
-                "teaserTitle": "MSC FINED FOR CHARLESTON RUNAWAY",
+                "headline": "MARITIME: SEALEAD LIQUIDATION SHIFTS TONNAGE",
+                "teaserTitle": "OFFSHORE: CADELER ORDERS TWO WIND INSTALLATION SHIPS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Office of the United States Trade Representative is implementing forced labor tariffs on sixty trading nations as section one hundred twenty two protections expire. Importers now face heightened compliance auditing and potential cargo seizures."
+                "narration_line": "Singapore carrier SeaLead Shipping has ceased operations following United States financial sanctions. Ocean freight forwarders are executing mandatory booking transfers across Asia and Mediterranean trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: MSC FINED FOR CHARLESTON RUNAWAY",
-                "teaserTitle": "TEAMSTERS SUE DMV OVER AV RULES",
+                "headline": "OFFSHORE: CADELER ORDERS TWO WIND INSTALLATION SHIPS",
+                "teaserTitle": "REGULATORY: JONES ACT WAIVER EXTENDED WITH LIMITS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "M S C Shipmanagement was fined six million dollars for concealing engine defects after a runaway container ship incident in Charleston. The company will now face four years of mandatory federal probation and safety monitoring."
+                "narration_line": "Offshore wind installer Cadeler has ordered two new vessel units from COSCO Shipping for eight hundred five million euros. The investment expands heavy lift installation fleet capacity for deepwater turbine projects."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHNOLOGY: TEAMSTERS SUE DMV OVER AV RULES",
-                "teaserTitle": "AMAZON UNIFIES AIR AND GROUND TEAMS",
+                "headline": "REGULATORY: JONES ACT WAIVER EXTENDED WITH LIMITS",
+                "teaserTitle": "WEATHER: TYPHOON DOLPHIN SPURS ASIAN PORT CONGESTION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Teamsters California is suing the state to stop the deployment of heavy duty autonomous trucks on public highways. The union claims these driverless vehicle rules bypass critical safety benchmarks for eighty thousand pound trucks."
+                "narration_line": "The White House extended foreign tanker cabotage waivers with strict case by case administrative approvals. Energy dispatches from Gulf Coast ports face additional customs verification before scheduling domestic shipments."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: AMAZON UNIFIES AIR AND GROUND TEAMS",
-                "teaserTitle": "FMCSA ENFORCES ENGLISH PROFICIENCY RULES",
+                "headline": "WEATHER: TYPHOON DOLPHIN SPURS ASIAN PORT CONGESTION",
+                "teaserTitle": "FINANCE: HAI LONG WIND SECURES 1.7B FINANCING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Amazon has merged its independent air and ground logistics teams to create a singular middle mile transportation network. This integration will drive faster operational decisions and significantly improve aircraft and trailer utilization rates."
+                "narration_line": "Typhoon Dolphin made landfall near Ningbo, stranding over two point four million container units offshore. Ocean carriers are issuing blank sailings to restore schedule reliability across transpacific trade routes."
             },
             {
                 "slide_index": 5,
-                "headline": "LABOR: FMCSA ENFORCES ENGLISH PROFICIENCY RULES",
-                "teaserTitle": "US DISABLES VESSEL NEAR IRANIAN BLOCKADE",
+                "headline": "FINANCE: HAI LONG WIND SECURES 1.7B FINANCING",
+                "teaserTitle": "LABOR: FREEDOM HAULERS SPEEDS VETERAN TRUCKING LICENSES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Federal Motor Carrier Safety Administration is finalizing strict English proficiency rules after sidelining twenty six thousand non compliant truck drivers. Shippers should prepare for further capacity constraints as language enforcement standards tighten."
+                "narration_line": "Taiwan's Hai Long offshore wind project finalized a one point seven billion dollar refinancing facility. The capital guarantees subsea cable laying and turbine foundation work through late twenty twenty six."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: US DISABLES VESSEL NEAR IRANIAN BLOCKADE",
-                "teaserTitle": "TECHNIP WINS MALAYSIAN ENERGY FEED",
+                "headline": "LABOR: FREEDOM HAULERS SPEEDS VETERAN TRUCKING LICENSES",
+                "teaserTitle": "RAIL: PORT OF VIRGINIA LAUNCHES INDIANAPOLIS SERVICE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "United States forces disabled a containership attempting to breach the Iranian blockade line in the Gulf of Oman. Maritime insurance premiums have surged by three hundred percent as geopolitical risk reshapes global trade lanes."
+                "narration_line": "The Transportation Department launched Freedom Haulers to fast track commercial driver licenses for military veterans. Fleet operators are securing federal assistance to offset onboarding costs during nationwide enforcement."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: TECHNIP WINS MALAYSIAN ENERGY FEED",
+                "headline": "RAIL: PORT OF VIRGINIA LAUNCHES INDIANAPOLIS SERVICE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Technip Energies secured the engineering contract for a massive new regasification terminal in Malaysia to boost regional energy security. The project utilizes modular construction to expand liquefied natural gas import capacity in Southeast Asia."
+                "narration_line": "The Port of Virginia and CSX launched direct intermodal rail service from Norfolk to Indianapolis. Midwest import shipments will now bypass Chicago rail interchanges to lower landed transit times."
             },
             {
                 "slide_index": 8,
