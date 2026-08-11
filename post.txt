@@ -2,26 +2,26 @@
 
 Global supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:
 
-01 / TRADE POLICY: FORCED LABOR TARIFFS
-USTR implements Section 301 forced labor tariffs on 60 trading partners as Section 122 expires.
+01 / USTR: FORCED LABOR TARIFFS
+The USTR has enacted Section 301 forced labor tariffs across 60 trading partner nations, heightening customs clearance risks.
 
-02 / CYBERSECURITY: CEVA LOGISTICS HACK
-Ceva Logistics suffers a major cyber breach impacting retail supply chain operations in Europe.
+02 / EXECUTIVE: AMAZON MERGES TRANSPORTATION TEAMS
+Amazon merged its middle-mile air and ground operations teams to drive faster decision-making and dynamic network rerouting.
 
-03 / MARITIME LAW: MSC FINED MILLIONS
-MSC Shipmanagement fined $6M and given 4 years probation over Charleston vessel incident.
+03 / MARITIME: MSC FINED FOR RUNAWAY SHIP
+MSC Shipmanagement received a $6M federal fine for failing to report critical engine control issues in Charleston harbor.
 
-04 / MIDDLE MILE: AMAZON MERGES TEAMS
-Amazon combines air and ground transportation teams into a unified middle-mile operation.
+04 / SUPPLY CHAIN: GM EXITS EV BATTERY VENTURE
+General Motors sold its stake in an Indiana battery manufacturing facility to Samsung amid shifting EV market demand.
 
-05 / FLEET ASSETS: STAR BULK CANCELS DEAL
-Star Bulk terminates $470.5M agreement to acquire 16 bulk carriers from Diana Shipping.
+05 / CYBERSECURITY: CEVA LOGISTICS SUFFERS IT BREACH
+A major cyber incident at Ceva Logistics disrupted European warehouse networks, triggering operational workarounds.
 
-06 / PORT LOGISTICS: TYPHOON DOLPHIN CONGESTION
-Typhoon Dolphin traps 2.4M TEU off Chinese ports causing severe port queuing backlogs.
+06 / MANUFACTURING: MEXICAN TRUCK PRODUCTION SURGES
+Commercial truck production in Mexico surged 51.8% in July to 14,675 units, driven by strong cross-border fleet expansion.
 
-07 / CROSS-BORDER TRUCKING: MEXICAN PRODUCTION SOARS
-Mexican heavy-duty truck production surges 51.8% in July on high cross-border demand.
+07 / INLAND WATERWAYS: RHINE DROUGHT HALTS TRANSITS
+Falling water levels on the Rhine River split barge transits in two, forcing cargo diversions onto surface rail and trucking.
 
 ✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
 Stay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.
@@ -32,4 +32,4 @@ For inquiries, contact us at +1 862 425 6741.
 [ LIKE • SHARE • FOLLOW ]
 For hourly decoded freight and global logistics signals across the globe.
 
-#TradePolicy #CustomsCompliance #SupplyChain #OceanFreight #Logistics #MiddleMile #CrossBorder #FreightNews
+#SupplyChain #GlobalTrade #Logistics #FreightForwarding #CustomsCompliance #OceanFreight #Intermodal #TransportNews

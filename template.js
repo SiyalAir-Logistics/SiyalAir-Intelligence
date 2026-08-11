@@ -3,20 +3,20 @@ const dailyData = {
         "kicker": "",
         "titleWhite": "FORCED LABOR",
         "titleBlue": "TARIFFS",
-        "footerSummary": "USTR launches Section 301 forced labor tariffs on 60 nations as Typhoon Dolphin traps 2.4M TEU off Asian container ports."
+        "footerSummary": "USTR advances Section 301 forced labor tariffs on 60 trading partners, driving immediate supply chain audits and customs compliance risks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: FORCED LABOR TARIFFS",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "The Office of the United States Trade Representative has officially initiated Section 301 tariffs targeting sixty trading partners as Section 122 tariffs expire.",
-                "Federal trade enforcement mechanisms are aligning import duties with strict forced labor compliance benchmarks across global manufacturing hubs.",
-                "Importers and customs brokers must immediately audit tier-one and tier-two vendor origin documentation to prevent unexpected container seizures.",
-                "Supply chain directors should update trade compliance software protocols before regional customs entry reviews take immediate effect."
+                "The Office of the United States Trade Representative has officially initiated the implementation of trade tariffs across sixty trading partner nations under Section 301 authority. The regulatory action targets global supply chains suspected of integrating forced labor practices within regional manufacturing and export operations.",
+                "Customs compliance teams and international freight importers face heightened entry documentation scrutiny at major North American discharge gateways. Tariff duties take immediate effect following the statutory expiration of prior Section 122 emergency trade measures across active maritime corridors.",
+                "Operational trade strategists emphasize that global BCOs must conduct thorough tier-two and tier-three vendor origin audits to guarantee complete compliance. Importers failing to substantiate supplier labor standards face severe customs holds, potential cargo seizures, and substantial financial duty penalties.",
+                "Enterprise supply chain directors should update import risk profiles and request immediate origin declarations from overseas suppliers to prevent supply chain stoppages."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS HACK",
+            "nextUpTease": "EXECUTIVE: AMAZON MERGES TRANSPORTATION TEAMS",
             "tags": [
                 "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
                 "Published: 2026-08-11T12:00:00Z",
@@ -25,103 +25,103 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "CYBERSECURITY: CEVA LOGISTICS HACK",
+            "heading": "EXECUTIVE: AMAZON MERGES TRANSPORTATION TEAMS",
             "points": [
-                "Global logistics provider Ceva Logistics has suffered a major cybersecurity breach disrupting warehouse operations across European retail and banking supply chains.",
-                "Beneficial cargo owners report severe inventory processing delays and automated order fulfillment outages across key regional distribution hubs.",
-                "Security teams are deploying containment protocols while freight forwarders scramble to secure alternative manual routing pathways for impacted client inventory.",
-                "IT logistics directors must audit third-party software permissions immediately to isolate enterprise systems against secondary data exposure risks."
+                "E-commerce giant Amazon has formally consolidated its middle-mile air and ground transportation operations management teams into a unified organizational unit. Corporate executives confirmed the restructuring aims to streamline operational decision-making and accelerate transit routing for regional fulfillment networks.",
+                "The operational integration enables real-time dynamic re-routing between air cargo charters and surface trucking fleets during peak demand surges. Logistics planners anticipate reduced middle-mile transit latency and improved equipment asset utilization across North American sorting nodes.",
+                "Commercial freight analysts view the consolidation as a strategic move to optimize middle-mile carrier costs amid changing e-commerce order patterns. Industry competitors and third-party logistics providers are monitoring the organizational shift as Amazon expands its external logistics service offerings.",
+                "Supply chain leaders should track integrated middle-mile strategies to identify emerging benchmarks in multi-modal e-commerce distribution efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME LAW: MSC FINED MILLIONS",
+            "nextUpTease": "MARITIME: MSC FINED FOR RUNAWAY SHIP",
             "tags": [
-                "Source: https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-further-several-bcos-exposed/",
-                "Published: 2026-08-11T11:30:00Z",
+                "Source: https://www.supplychaindive.com/news/amazon-combines-air-ground-operations-teams/",
+                "Published: 2026-08-10T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME LAW: MSC FINED MILLIONS",
+            "heading": "MARITIME: MSC FINED FOR RUNAWAY SHIP",
             "points": [
-                "Federal authorities have fined MSC Shipmanagement six million dollars following a guilty plea related to the runaway container vessel incident in Charleston harbor.",
-                "Court findings established that vessel operators deliberately concealed engine control malfunctions and obstructed subsequent federal maritime investigations.",
-                "The ruling places the operator on four years probation and signals heightened scrutiny on ocean carrier vessel maintenance compliance records.",
-                "Fleet management executives must enforce rigorous mechanical reporting procedures to insulate operations against severe judicial penalties and delays."
+                "MSC Shipmanagement has been sentenced to pay six million dollars in fines and placed on four years of probation by a federal court. The legal ruling follows a guilty plea concerning concealed engine control failures during a high-speed runaway incident in Charleston harbor.",
+                "Federal maritime investigators uncovered systemic maintenance failures and a failure to report hazardous engine conditions to harbor authorities prior to transit. The judicial enforcement action highlights growing federal regulatory scrutiny surrounding vessel mechanical integrity and maritime reporting compliance.",
+                "Ocean carriers and ship management firms are adjusting internal engineering reporting protocols to enforce absolute transparency with port authorities. Maritime legal experts warn that failure to disclose mechanical defects can trigger severe criminal charges and operational vessel detentions.",
+                "Compliance officers should verify vessel safety histories and maintenance compliance across charter agreements to mitigate legal and operational liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "MIDDLE MILE: AMAZON MERGES TEAMS",
+            "nextUpTease": "SUPPLY CHAIN: GM EXITS EV BATTERY VENTURE",
             "tags": [
                 "Source: https://splash247.com/msc-fined-6m-over-charleston-runaway-probe/",
-                "Published: 2026-08-11T10:15:00Z",
+                "Published: 2026-08-11T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MIDDLE MILE: AMAZON MERGES TEAMS",
+            "heading": "SUPPLY CHAIN: GM EXITS EV BATTERY VENTURE",
             "points": [
-                "Amazon has formally consolidated its air and ground transportation operations teams into a unified middle-mile operational unit.",
-                "Executive leadership expects the structural merger to accelerate routing decisions and optimize package sorting across regional distribution networks.",
-                "The organizational shift leverages integrated logistics software to streamline intermodal transfers and reduce transit friction.",
-                "E-commerce logistics managers should monitor Amazon's consolidated network model to benchmark emerging middle-mile efficiency standards."
+                "General Motors has agreed to sell its equity stake in an Indiana electric vehicle battery manufacturing joint venture directly to Samsung. Executive leadership cited softening domestic consumer demand for electric vehicles and altered federal tax incentive structures for the strategic divestment.",
+                "Samsung will assume full ownership of the battery manufacturing facility, altering regional supply chain dynamics and component distribution plans. The transaction underscores broader automotive industry recalibrations as legacy manufacturers re-evaluate capital commitments toward electric platform supply chains.",
+                "Automotive component suppliers and raw material vendors are re-aligning production schedules and procurement contracts to match revised vehicle manufacturing targets. Supply chain strategists project continued shifting investment toward hybrid vehicle production lines across North American assembly facilities.",
+                "Procurement executives in the automotive sector must review component supply agreements to navigate shifting OEM production strategies and demand cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET ASSETS: STAR BULK CANCELS DEAL",
+            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS SUFFERS IT BREACH",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/amazon-combines-air-ground-operations-teams/",
-                "Published: 2026-08-11T09:45:00Z",
+                "Source: https://www.supplychainbrain.com/articles/gm-pulls-out-of-ev-battery-jv-with-samsung",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FLEET ASSETS: STAR BULK CANCELS DEAL",
+            "heading": "CYBERSECURITY: CEVA LOGISTICS SUFFERS IT BREACH",
             "points": [
-                "Star Bulk Carriers has officially terminated its four hundred seventy point five million dollar agreement to acquire sixteen bulk carriers from Diana Shipping.",
-                "The sudden cancellation removes a major fleet consolidation asset from Diana Shipping's broader corporate acquisition strategy.",
-                "Dry bulk market analysts cite shifting asset valuations and volatile charter rate projections across global bulk shipping corridors.",
-                "Maritime asset managers should re-evaluate fleet expansion capital commitments amid ongoing charter rate uncertainty and tonnage fluctuations."
+                "Third-party logistics provider Ceva Logistics has experienced a major cybersecurity incident that disrupted operational IT systems across European distribution facilities. The network intrusion compromised warehouse operations and temporarily halted automated inventory tracking for multiple international enterprise clients.",
+                "Affected retail, banking, and gaming supply chains experienced localized shipping delays and manual inventory processing workarounds across key fulfillment hubs. Cyber security teams are executing emergency system isolation protocols while attempting to restore safe database connections.",
+                "Enterprise beneficial cargo owners are re-examining third-party cybersecurity protocols and vendor data access limits to insulate core operations against supply chain hacks. Logistics analysts stress that supply chain IT vulnerabilities pose severe operational and financial risks to multi-channel retailers.",
+                "Risk management directors should mandate strict cybersecurity audits for external logistics partners to prevent operational downtime from third-party breaches."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT LOGISTICS: TYPHOON DOLPHIN CONGESTION",
+            "nextUpTease": "MANUFACTURING: MEXICAN TRUCK PRODUCTION SURGES",
             "tags": [
-                "Source: https://splash247.com/star-bulk-walks-away-from-genco-fleet-deal/",
-                "Published: 2026-08-11T08:30:00Z",
+                "Source: https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-further-several-bcos-exposed/",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PORT LOGISTICS: TYPHOON DOLPHIN CONGESTION",
+            "heading": "MANUFACTURING: MEXICAN TRUCK PRODUCTION SURGES",
             "points": [
-                "Severe weather from Typhoon Dolphin has trapped over two point four million TEU of container vessel capacity off East Asian ports.",
-                "Marine terminals in Ningbo and Shanghai report extensive berth closures and expanding vessel queuing backlogs across regional shipping lanes.",
-                "Ocean carriers are adjusting vessel arrival schedules and evaluating transshipment skips to bypass severe coastal congestion.",
-                "Import logistics planners must anticipate schedule reliability drops and potential equipment repositioning delays from East Asian gateways."
+                "Heavy-duty commercial vehicle production in Mexico surged fifty-one point eight percent year over year in July, reaching fourteen thousand six hundred seventy-five units. Industry trade figures confirm that cross-border vehicle exports experienced parallel growth driven by strong North American commercial fleet demand.",
+                "Increased manufacturing output across Mexican assembly plants reflects expanding nearshoring capital investments and sustained freight capacity upgrades. Cross-border logistics providers are expanding drayage terminal capacity and customs processing corridors at key southern border crossings.",
+                "Commercial fleet managers are capitalizing on improved heavy truck availability to replace aging equipment and optimize operating maintenance costs. Automotive supply chain managers continue expanding component sourcing networks within Mexican industrial corridors to leverage nearshore proximity.",
+                "Fleet operations directors should evaluate expanded Mexican commercial vehicle availability to streamline equipment procurement schedules and fleet modernization."
             ],
             "imageUrl": "",
-            "nextUpTease": "CROSS-BORDER TRUCKING: MEXICAN PRODUCTION SOARS",
+            "nextUpTease": "INLAND WATERWAYS: RHINE DROUGHT HALTS TRANSITS",
             "tags": [
-                "Source: https://theloadstar.com/tropical-storms-bring-congestion-and-cargo-backlogs-at-asian-ports/",
-                "Published: 2026-08-11T07:15:00Z",
+                "Source: https://www.ttnews.com/articles/mexican-truck-production-july-2026",
+                "Published: 2026-08-11T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CROSS-BORDER TRUCKING: MEXICAN PRODUCTION SOARS",
+            "heading": "INLAND WATERWAYS: RHINE DROUGHT HALTS TRANSITS",
             "points": [
-                "Heavy-duty truck production in Mexico surged fifty-one point eight percent year-over-year in July to over fourteen thousand units.",
-                "Robust cross-border manufacturing demand and expanded assembly line capacity continue driving record vehicular export volumes to North America.",
-                "Commercial fleet operators are rapidly integrating new Mexican-assembled power units to support expanding nearshoring trade corridors.",
-                "Fleet equipment buyers should lock in delivery schedules early as cross-border freight demand accelerates equipment fleet deployment."
+                "Prolonged heatwaves and persistent drought conditions across Central Europe have dropped water levels along the Rhine River to critical operational thresholds. Commercial barge navigation has been effectively severed into isolated northern and southern segments, disrupting inland bulk freight transit.",
+                "Industrial shippers and chemical manufacturers are forced to divert containerized and bulk cargo onto regional rail and motor carrier networks. Land transport operators report tightening truckload capacity and rising freight surcharges along key German and Dutch hinterland corridors.",
+                "Logistics strategists highlight that inland waterway disruptions compound broader European supply chain congestion and elevate landed manufacturing costs. Freight forwarders are securing emergency rail capacity and establishing alternative intermodal routing options for affected European cargo.",
+                "Logistics planners operating in European corridors must secure emergency surface freight capacity immediately to bypass Rhine barge navigation restrictions."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/mexican-truck-production-july-2026",
-                "Published: 2026-08-11T06:00:00Z",
+                "Source: https://splash247.com/rhine-cut-in-two-as-european-drought-cripples-inland-shipping/",
+                "Published: 2026-08-11T07:30:00Z",
                 "Status: Audited & True"
             ]
         }
