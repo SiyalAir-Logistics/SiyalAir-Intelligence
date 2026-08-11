@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR ENFORCES LABOR DUTIES",
+        "hookTitle": "US EXTENDS JONES ACT WAIVER",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS TARIFFS: USTR ENFORCES LABOR DUTIES",
-                "teaserTitle": "METALS TRADE: COMMERCE EXPANDS DERIVATIVE TARIFFS",
+                "headline": "CABOTAGE: US EXTENDS JONES ACT WAIVER",
+                "teaserTitle": "ARCTIC FREIGHT: SEA LEGEND LAUNCHES ICE ROUTE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR is imposing Section 301 forced-labor tariffs targeting 60 trading nations following the expiration of Section 122 duties. Importers face immediate landed cost increases of up to 15% across affected product categories."
+                "narration_line": "The White House extended its Jones Act cabotage waiver for another 90 days to maintain petroleum flow from Gulf Coast ports to California. Shippers must now obtain voyage-by-voyage administrative approvals, impacting long-term domestic tanker chartering strategy."
             },
             {
                 "slide_index": 2,
-                "headline": "METALS TRADE: COMMERCE EXPANDS DERIVATIVE TARIFFS",
-                "teaserTitle": "INTERMODAL RAIL: VIRGINIA EXPANDS CSX ROUTING",
+                "headline": "ARCTIC FREIGHT: SEA LEGEND LAUNCHES ICE ROUTE",
+                "teaserTitle": "MARITIME SAFETY: MSC FINED FOR RUNAWAY SHIP",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The US Department of Commerce proposed new tariffs on derivative steel, aluminum, and copper imports. The regulatory policy expands duties to finished goods including tanker trailers, floor safes, and specialized commercial hardware."
+                "narration_line": "China's Sea Legend Line launched the first regular Arctic container service along Russia's Northern Sea Route for the 2026 shipping season. Transit permits issued by Rosatom allow carriers to bypass traditional Suez Canal routes, cutting Far East to Europe transit times."
             },
             {
                 "slide_index": 3,
-                "headline": "INTERMODAL RAIL: VIRGINIA EXPANDS CSX ROUTING",
-                "teaserTitle": "MARITIME TOLLS: SHIPPING OPPOSES HORMUZ FEES",
+                "headline": "MARITIME SAFETY: MSC FINED FOR RUNAWAY SHIP",
+                "teaserTitle": "WAREHOUSE TECH: FEDEX ADOPTS TRAILER ROBOTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Port of Virginia added direct CSX intermodal rail service connecting ocean terminals directly to Indianapolis. The expanded rail line bypasses Chicago rail yards to reduce regional transit delays by 48 hours."
+                "narration_line": "Federal courts fined MSC Shipmanagement and a chief engineer after a 2024 runaway boxship incident in Charleston harbor exposed mechanical reporting failures. Safety regulators mandated strict compliance audits across all commercial vessels operating within US coastal waters."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME TOLLS: SHIPPING OPPOSES HORMUZ FEES",
-                "teaserTitle": "AUTO LOGISTICS: PROFICIENT CLAIMS MARKET SHARE",
+                "headline": "WAREHOUSE TECH: FEDEX ADOPTS TRAILER ROBOTS",
+                "teaserTitle": "FLEET EMISSIONS: EU THREATENS DAIMLER FINES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "International shipping associations petitioned the UN and IMO to block proposed toll charges in the Strait of Hormuz. Ocean carriers warn that added transit fees will inflate global energy freight costs by $4.2B."
+                "narration_line": "FedEx deployed autonomous trailer loading robotic arms at its Maryland hub to accelerate outbound parcel sorting efficiency. Automation expansion aims to offset rising warehouse labor costs while standardizing high-volume dock door processing rates."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTO LOGISTICS: PROFICIENT CLAIMS MARKET SHARE",
-                "teaserTitle": "FLEET LABORS: DOT LAUNCHES FREEDOM HAULERS",
+                "headline": "FLEET EMISSIONS: EU THREATENS DAIMLER FINES",
+                "teaserTitle": "DRIVER SAFETY: FMCSA ENFORCES ENGLISH RULES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Proficient Auto Logistics finalized an acquisition agreement to expand its specialized car-haul fleet capacity across North America. The deal increases the carrier's specialized market share to 25% of regional automotive volume."
+                "narration_line": "The European Union threatened Daimler Truck with $1B in regulatory fines over compliance with strict fleet carbon emissions rules. Commercial vehicle manufacturers face growing financial margin pressure while accelerating zero-emission heavy truck deployments."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEET LABORS: DOT LAUNCHES FREEDOM HAULERS",
-                "teaserTitle": "E-COMMERCE DATA: AMAZON RESTRICTS TITLE LENGTH",
+                "headline": "DRIVER SAFETY: FMCSA ENFORCES ENGLISH RULES",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "DOT launched the Freedom Haulers initiative to fast-track military veterans into commercial motor vehicle careers. Federal regulators are pairing the recruitment pipeline with stricter enforcement against non-domiciled CDL holders."
+                "narration_line": "The FMCSA proposed stricter rules enforcing English language proficiency standards after sidelining over 26K commercial motor vehicle drivers. Fleet operators must audit driver qualifications immediately to prevent costly roadside out-of-service orders and freight delays."
             },
             {
                 "slide_index": 7,
-                "headline": "E-COMMERCE DATA: AMAZON RESTRICTS TITLE LENGTH",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon implemented a strict 75-character length restriction on product titles across third-party seller and brand catalog listings. Merchants must optimize catalog metadata immediately to avoid automated listing suspensions across marketplace channels."
+                "narration_line": "Colliers reported US industrial real estate vacancy rates stabilized at 7.3% during Q2 as warehouse demand outpaced new construction supply. Logistics occupiers are locking in long-term lease renewals to hedge against expected freight market capacity tightening."
             },
             {
                 "slide_index": 8,

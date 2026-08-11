@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR ENFORCES LABOR",
-        "titleBlue": "DUTIES",
-        "footerSummary": "USTR implements Section 301 tariffs across 60 trade partners, raising immediate cross-border compliance risks and landed cost burdens for global import supply chains."
+        "titleWhite": "US EXTENDS JONES ACT",
+        "titleBlue": "WAIVER",
+        "footerSummary": "White House extends coastal tanker waiver for 90 days while introducing voyage approvals, impacting domestic energy shipping routes and chartering costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS TARIFFS: USTR ENFORCES LABOR DUTIES",
+            "heading": "CABOTAGE: US EXTENDS JONES ACT WAIVER",
             "points": [
-                "The Office of the United States Trade Representative is moving forward with Section 301 tariffs targeting 60 trading nations following the expiration of Section 122 duties.",
-                "Trade enforcement focus centers heavily on forced labor compliance frameworks, requiring importers to verify full supply chain provenance down to raw tier-3 inputs.",
-                "Logistics directors are restructuring customs clearance workflows to prevent extended hold orders at US entry ports by Customs and Border Protection inspectors.",
-                "Landed import costs are projected to increase by 10% to 15% across affected product categories, accelerating shifts toward nearshore manufacturing hubs."
+                "The White House extended its cabotage rule waiver for 90 days to maintain oil transport from the Gulf Coast to California.",
+                "Federal officials narrowed the policy scope by instituting mandatory administrative procedures for voyage-by-voyage shipping approvals.",
+                "Energy producers welcomed the extension as a vital measure to secure domestic oil delivery and protect regional fuel markets.",
+                "Maritime carriers must adapt operational plans as individual voyage reviews introduce fresh administrative overhead for coastal routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "METALS TRADE: COMMERCE EXPANDS DERIVATIVE TARIFFS",
+            "nextUpTease": "ARCTIC FREIGHT: SEA LEGEND LAUNCHES ICE ROUTE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs",
-                "Published: 2026-08-10T14:00:00Z",
+                "Source: https://maritime-executive.com/article/trump-administration-extends-jones-act-waiver-for-another-90-days",
+                "Published: 2026-08-10T17:29:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "METALS TRADE: COMMERCE EXPANDS DERIVATIVE TARIFFS",
+            "heading": "ARCTIC FREIGHT: SEA LEGEND LAUNCHES ICE ROUTE",
             "points": [
-                "The US Commerce Department proposed new trade tariffs on derivative steel, aluminum, and copper products arriving from foreign manufacturing sources.",
-                "Regulatory scope extends beyond raw materials to encompass downstream finished goods, including tanker trailers, commercial floor safes, and specialized brass goods.",
-                "Domestic fabricators support the protective measures, while transportation equipment manufacturers express concern over escalating component acquisition costs.",
-                "Supply chain procurement teams are auditing international bill of materials components to identify potential derivative tariff exposure before final rule implementation."
+                "Sea Legend Line is launching the first regular Arctic container service operating along Russia's Northern Sea Route.",
+                "The Chinese carrier secured official navigation permits from Rosatom for the 2026 summer maritime transit season.",
+                "Regular Arctic sailings offer direct ocean transit between Far East ports and Northern Europe, bypassing conventional Suez routes.",
+                "Logistics planners are monitoring Arctic weather conditions and specialized icebreaker escort fees to evaluate long-term route viability."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL RAIL: VIRGINIA EXPANDS CSX ROUTING",
+            "nextUpTease": "MARITIME SAFETY: MSC FINED FOR RUNAWAY SHIP",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/commerce-proposes-tariffs-derivative-metals/723450/",
-                "Published: 2026-08-10T13:15:00Z",
+                "Source: https://maritime-executive.com/article/china-s-sea-legend-poised-to-launch-first-regular-ice-silk-road-service",
+                "Published: 2026-08-10T16:29:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INTERMODAL RAIL: VIRGINIA EXPANDS CSX ROUTING",
+            "heading": "MARITIME SAFETY: MSC FINED FOR RUNAWAY SHIP",
             "points": [
-                "The Port of Virginia launched direct CSX intermodal rail service connecting ocean container terminals directly to Midwestern distribution hubs in Indianapolis.",
-                "Dedicated rail routing bypasses congested Chicago rail interchange yards, reducing container transit dwell times by up to 48 hours for regional importers.",
-                "Midwest importers gain direct rail connectivity to East Coast deepwater ocean terminals, strengthening supply chain resilience against West Coast port shifts.",
-                "Railroad executives report growing demand for direct port-to-inland rail services as shippers seek reliable alternatives to long-haul motor carrier moves."
+                "MSC Shipmanagement and a chief engineer pled guilty and received federal fines following a runaway container ship incident in Charleston.",
+                "Federal safety investigators cited mechanical failures and unreported hazardous conditions aboard the vessel during transit.",
+                "The legal resolution underscores heightened federal scrutiny regarding shipboard equipment maintenance and hazard notification duties.",
+                "Ocean carriers are updating fleet compliance protocols to ensure mandatory reporting of mechanical faults prior to port entry."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME TOLLS: SHIPPING OPPOSES HORMUZ FEES",
+            "nextUpTease": "WAREHOUSE TECH: FEDEX ADOPTS TRAILER ROBOTS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-adds-csx-rail-service-indianapolis/723411/",
-                "Published: 2026-08-10T12:00:00Z",
+                "Source: https://maritime-executive.com/article/msc-and-chief-engineer-guilty-and-fined-for-2024-runaway-boxship-incident",
+                "Published: 2026-08-10T18:42:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME TOLLS: SHIPPING OPPOSES HORMUZ FEES",
+            "heading": "WAREHOUSE TECH: FEDEX ADOPTS TRAILER ROBOTS",
             "points": [
-                "International shipping organizations formally requested UN and IMO intervention following reports of proposed transit tolls through the Strait of Hormuz.",
-                "Regional regulatory proposals suggest levying fees on commercial maritime traffic navigating critical narrow shipping passages between Iran and Oman.",
-                "Ocean carriers and energy charterers warn that unilateral waterway tolls will escalate global bulk energy transport costs and disrupt maritime commerce freedom.",
-                "Legal maritime experts contend that proposed transit fees violate long-standing international law established under the UN Convention on the Law of the Sea."
+                "FedEx installed autonomous robotic loading arms inside freight trailers at its major Maryland distribution hub.",
+                "The dock automation project targets high-volume parcel loading to increase throughput and reduce manual labor demands.",
+                "Robotic loading systems represent a broader logistics push across parcel networks to streamline warehouse handling efficiency.",
+                "Facility managers plan to expand automated dock technology across secondary regional hubs as operational reliability proves out."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTO LOGISTICS: PROFICIENT CLAIMS MARKET SHARE",
+            "nextUpTease": "FLEET EMISSIONS: EU THREATENS DAIMLER FINES",
             "tags": [
-                "Source: https://www.joc.com/article/global-shipping-calls-on-un-imo-to-ensure-no-hormuz-tolls",
-                "Published: 2026-08-10T11:30:00Z",
+                "Source: https://www.supplychaindive.com/news/fedex-amazon-robotic-arms-warehouse-automation/723500/",
+                "Published: 2026-08-10T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AUTO LOGISTICS: PROFICIENT CLAIMS MARKET SHARE",
+            "heading": "FLEET EMISSIONS: EU THREATENS DAIMLER FINES",
             "points": [
-                "Proficient Auto Logistics executed an acquisition agreement to expand its specialized car-haul fleet capacity across North American automotive logistics networks.",
-                "The strategic acquisition increases the carrier's operating market share to 25% within the specialized finished-vehicle transportation sector.",
-                "Consolidation across specialized motor carrier fleets comes as automotive manufacturers demand higher volume flexibility and integrated transport coverage.",
-                "Industry analysts anticipate further consolidation among niche carrier networks seeking scale efficiencies to offset elevated equipment operational costs."
+                "The European Union threatened Daimler Truck with $1B in potential regulatory fines linked to strict vehicle emissions targets.",
+                "Daimler leadership criticized the proposed penalties as unfair, emphasizing substantial investments in zero-emission truck models.",
+                "Heavy vehicle manufacturers face mounting compliance friction as European decarbonization timelines collide with commercial market adoption.",
+                "Fleet procurement strategies may shift toward alternative powertrain adoption to mitigate regulatory penalties across European freight corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET LABORS: DOT LAUNCHES FREEDOM HAULERS",
+            "nextUpTease": "DRIVER SAFETY: FMCSA ENFORCES ENGLISH RULES",
             "tags": [
-                "Source: https://www.freightwaves.com/news/proficient-auto-logistics-deal-market-share-25-percent",
-                "Published: 2026-08-10T10:45:00Z",
+                "Source: https://www.ttnews.com/articles/eu-daimler-truck-fine-emissions",
+                "Published: 2026-08-10T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FLEET LABORS: DOT LAUNCHES FREEDOM HAULERS",
+            "heading": "DRIVER SAFETY: FMCSA ENFORCES ENGLISH RULES",
             "points": [
-                "The US Department of Transportation launched the Freedom Haulers initiative to fast-track military veterans into commercial motor vehicle driver careers.",
-                "Interagency coordination shortens commercial driver licensing steps for military personnel possessing verified heavy vehicle operational experience.",
-                "Federal safety regulators are pairing driver recruitment expansion with rigorous enforcement checks targeting non-domiciled driver license compliance.",
-                "Motor carrier safety directors welcome the veteran recruitment pipeline as driver turnover pressures continue impacting long-haul fleet productivity."
+                "The FMCSA introduced a proposed rulemaking to lock in mandatory English language proficiency standards for commercial truck drivers.",
+                "Federal action follows enforcement sweeps that sidelined over 26K drivers for non-compliance with existing safety standards.",
+                "Safety regulators aim to standardize driver communication rules to bolster highway safety across interstate freight routes.",
+                "Motor carriers are auditing driver qualification files to ensure full language compliance and minimize potential operational disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE DATA: AMAZON RESTRICTS TITLE LENGTH",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
             "tags": [
-                "Source: https://www.inboundlogistics.com/article/trump-administration-launches-freedom-haulers-veterans-cdl",
-                "Published: 2026-08-10T09:30:00Z",
+                "Source: https://www.freightwaves.com/news/after-sidelining-26000-truck-drivers-fmcsa-seeks-to-lock-in-english-rules",
+                "Published: 2026-08-10T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "E-COMMERCE DATA: AMAZON RESTRICTS TITLE LENGTH",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
             "points": [
-                "Amazon enforced a strict 75-character limit on product title fields across third-party seller listings and first-party retail vendor catalogs.",
-                "Title truncation standards aim to standardize mobile shopping display layouts and improve automated catalog search indexing performance.",
-                "E-commerce merchants are auditing digital product catalogs to adjust keyword placement and ensure compliance before automated suppresses take effect.",
-                "Brand managers are shifting extended product descriptor keywords into backend search terms and structured product bullet attribute fields."
+                "Colliers reported US industrial real estate vacancy rates stabilized at 7.3% during Q2 as warehouse demand balanced new supply.",
+                "Quarterly vacancy figures fell seven basis points sequentially, signaling a firming industrial logistics real estate market.",
+                "Strong leasing activity in key distribution markets absorbed newly delivered warehouse space across major logistics corridors.",
+                "Supply chain operators are re-evaluating site selection strategies as prime warehouse availability tightens in strategic port hubs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com/article/amazons-new-product-title-policy-applies-to-own-listings",
-                "Published: 2026-08-09T18:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance",
+                "Published: 2026-08-10T10:00:00Z",
                 "Status: Audited & True"
             ]
         }
