@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SEALEAD SHIPPING CEASES LINER",
-        "titleBlue": "OPERATIONS",
-        "footerSummary": "SeaLead liquidates regional services under U.S. sanctions, while severe Rhine droughts force bulk freight onto strained European rail networks."
+        "titleWhite": "USTR LEVIES SECTION 301",
+        "titleBlue": "DUTIES",
+        "footerSummary": "New Section 301 tariffs on 60 nations create immediate compliance friction, while sold-out ocean capacity and tech hardware surges strain global logistics networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SANCTIONS: SEALEAD SHIPPING CEASES LINER OPERATIONS",
+            "heading": "TRADE POLICY: USTR LEVIES SECTION 301 DUTIES",
             "points": [
-                "Singapore-based SeaLead Shipping has entered voluntary liquidation following primary U.S. sanctions enforcement, terminating key container services across Asia, the Mediterranean, and the Baltic.",
-                "The carrier's sudden operational halt leaves thousands of container slots and active vessel charters suspended across international shipping hubs.",
-                "Competing ocean carriers are moving rapidly to acquire active vessel charters and container assets to absorb disrupted cargo volumes.",
-                "Freight forwarders are re-routing affected shipments through alternative regional carriers to mitigate severe transit delays across primary trade corridors."
+                "The Office of the United States Trade Representative is advancing Section 301 forced labor tariffs on 60 trading partners as Section 122 tariffs expire.",
+                "Importers face immediate cost increases and heightened duty enforcement across key consumer goods and industrial supply chains.",
+                "The policy shift marks a transition toward targeted regulatory compliance audits to eliminate forced labor from international trade channels.",
+                "Trade compliance executives must audit vendor origin declarations to mitigate financial exposure and avoid customs hold orders."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: DROUGHT BLOCKS RHINE FREIGHT CORRIDORS",
+            "nextUpTease": "AUTOMATION: FEDEX AMAZON DEPLOY ROBOTICS",
             "tags": [
-                "Source: https://www.joc.com/article/sealead-ends-operations-us-sanctions-2026",
-                "Published: 2026-08-10T12:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
+                "Published: 2026-08-11T02:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INLAND WATERWAYS: DROUGHT BLOCKS RHINE FREIGHT CORRIDORS",
+            "heading": "AUTOMATION: FEDEX AMAZON DEPLOY ROBOTICS",
             "points": [
-                "Record low water levels along the Rhine River have pushed Europe's primary inland shipping artery to the verge of splitting into 2 unnavigable segments.",
-                "Barge operators are applying strict draft limitations, dramatically reducing vessel loading capacities and escalating inland freight surcharges.",
-                "Industrial shippers are shifting heavy commodity flows to road and rail transport networks, causing immediate capacity shortages across European overland routes.",
-                "Logistics planners expect compounded hinterland port congestion as container barges face severe draft-related navigation restrictions."
+                "FedEx has integrated automated trailer loading systems at its Maryland hub, while Amazon targets doubling its robotic arms fleet in 2026.",
+                "Logistics providers are expanding robotic automation to resolve persistent warehouse labor shortages and accelerate parcel throughput.",
+                "Capital investments in intelligent sorting and package handling infrastructure reflect an industry-wide pivot toward autonomous fulfillment.",
+                "Supply chain operators deploying robotics report improved picking accuracy, lower unit costs, and enhanced dock productivity."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARCTIC ROUTING: SEA LEGEND INITIATES REGULAR NSR SAILINGS",
+            "nextUpTease": "OCEAN FREIGHT: INDIA EUROPE CAPACITY SOLD OUT",
             "tags": [
-                "Source: https://theloadstar.com/drought-cripples-rhine-inland-shipping-2026",
-                "Published: 2026-08-11T08:00:00Z",
+                "Source: https://www.supplychaindive.com/news/fedex-amazon-robotic-arms-warehouse-automation/2026/",
+                "Published: 2026-08-11T01:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ARCTIC ROUTING: SEA LEGEND INITIATES REGULAR NSR SAILINGS",
+            "heading": "OCEAN FREIGHT: INDIA EUROPE CAPACITY SOLD OUT",
             "points": [
-                "Chinese operator Sea Legend Line has launched regular container services along Russia's Northern Sea Route, establishing a structured Arctic trade passage.",
-                "The commercial Arctic deployment follows successful trial sailings designed to shave up to 12 days off Asia-to-Europe maritime transit times.",
-                "Rosatom completed issuing 2026 navigation permits, formalizing seasonal transit frameworks for commercial container vessel fleets.",
-                "Cargo owners are evaluating Arctic routing options to bypass persistent maritime bottlenecks across traditional southern canal passages."
+                "Primary ocean carrier services from India to Europe are fully booked through late August and early September due to surging westbound demand.",
+                "Freight forwarders report severe space constraints, triggering tender rejections and pushing spot freight rates sharply upward.",
+                "Equipment shortages at major Indian loading ports are compounding delays across westbound maritime trade corridors.",
+                "Shippers are urged to secure advance allocations and explore sea-air routing options to maintain transit schedule integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME ENFORCEMENT: US SCRAPS SEIZED SHADOW TANKERS",
+            "nextUpTease": "TRADE FINANCE: RETAILERS MONETIZE REFUNDS",
             "tags": [
-                "Source: https://maritime-executive.com/article/sea-legend-ice-silk-road-service-2026",
-                "Published: 2026-08-10T16:29:00Z",
+                "Source: https://www.joc.com/article/container-lines-cash-in-strong-india-europe-demand-2026",
+                "Published: 2026-08-11T00:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME ENFORCEMENT: US SCRAPS SEIZED SHADOW TANKERS",
+            "heading": "TRADE FINANCE: RETAILERS MONETIZE REFUNDS",
             "points": [
-                "U.S. maritime enforcement agencies have begun transferring seized shadow fleet tankers directly to demolition yards for permanent scrapping.",
-                "The targeted vessel destruction campaign prevents aging, non-compliant tankers linked to illicit oil trades from returning to active service.",
-                "Federal authorities are intensifying sanctions enforcement against dark fleet operators navigating under flags of convenience.",
-                "Global energy logistics firms face tighter regulatory compliance audits as enforcement actions shrink non-compliant tanker capacity."
+                "A secondary market has emerged allowing major retailers, including American Eagle, to sell rights to pending customs tariff refunds.",
+                "Monetizing pending trade claims provides immediate cash liquidity to offset elevated working capital and supply chain expenses.",
+                "Financial investors are purchasing refund claims at discounted rates while customs legal battles proceed through federal courts.",
+                "Corporate treasurers are increasingly using trade claims monetization as a strategic instrument to improve balance sheet flexibility."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL TRANSPORT: SHIPPERS PETITION STB AGAINST MERGER",
+            "nextUpTease": "AIR CARGO: DATA CENTER HARDWARE BOOSTS YIELDS",
             "tags": [
-                "Source: https://splash247.com/us-sends-seized-shadow-fleet-tankers-for-scrap/2026",
-                "Published: 2026-08-11T07:30:00Z",
+                "Source: https://www.retaildive.com/news/retailers-sell-rights-potential-tariff-refunds/2026/",
+                "Published: 2026-08-10T23:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL TRANSPORT: SHIPPERS PETITION STB AGAINST MERGER",
+            "heading": "AIR CARGO: DATA CENTER HARDWARE BOOSTS YIELDS",
             "points": [
-                "National shipper organizations have submitted formal filings urging the Surface Transportation Board to reject proposed Class I rail merger agreements.",
-                "Shipper coalitions warn that further rail consolidation will reduce intermodal competition and trigger structural freight rate increases.",
-                "Major rail gateways continue to report localized interchange delays and drayage congestion across key Midwest sorting terminals.",
-                "Supply chain executives are diversifying modal strategies to shield intermodal supply chains from potential rail network consolidation disruptions."
+                "Surging construction of AI data centers has created high-demand transport requirements for advanced electronic components and memory chips.",
+                "Freight forwarders are capitalizing on tech sector air freight shipments, which offer premium yields compared to standard e-commerce volume.",
+                "Tight global manufacturing capacity for specialized microchips is accelerating reliance on expedited air cargo options.",
+                "Air freight planners are prioritizing high-value technology shipments on major transpacific and Asia-Europe lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS SUFFERS IT SYSTEM BREACH",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/shippers_urge_stb_reject_rail_merger_2026",
-                "Published: 2026-08-10T15:00:00Z",
+                "Source: https://www.joc.com/article/data-center-demand-offers-forwarders-value-added-services-2026",
+                "Published: 2026-08-10T21:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CYBERSECURITY: CEVA LOGISTICS SUFFERS IT SYSTEM BREACH",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
             "points": [
-                "A major cybersecurity incident targeted Ceva Logistics' operational IT infrastructure, compromising enterprise warehouse management software systems.",
-                "The cyber breach caused widespread operational slowdowns across multiple European fulfillment centers and distribution hubs.",
-                "Affected enterprise clients report severe delays in inventory processing and outbound order dispatch schedules.",
-                "Logistics IT security teams are deploying isolated offline protocols while auditing cloud infrastructure security frameworks."
+                "Industrial real estate vacancy fell 7 basis points sequentially to 7.3% in Q2 2026, according to Colliers market analysis.",
+                "Net warehouse absorption outpaced new supply completions, signaling market stabilization across major logistics hubs.",
+                "Tenant demand remains resilient as manufacturing reindustrialization and e-commerce distribution drive space utilization.",
+                "Warehouse operators face tightening inventory space and firming lease rates in top-tier port and inland gateway markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING COMPLIANCE: FMCSA CODIFIES DRIVER ENGLISH RULES",
+            "nextUpTease": "AUTOHAULING: PROFICIENT EXPANDS SHARE TO 25%",
             "tags": [
-                "Source: https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-2026",
-                "Published: 2026-08-11T09:15:00Z",
+                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance_colliers_2026",
+                "Published: 2026-08-10T20:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRUCKING COMPLIANCE: FMCSA CODIFIES DRIVER ENGLISH RULES",
+            "heading": "AUTOHAULING: PROFICIENT EXPANDS SHARE TO 25%",
             "points": [
-                "The FMCSA has proposed formal rulemaking to enforce strict English language proficiency requirements for commercial motor vehicle drivers.",
-                "State enforcement sweeps have already placed over 30 non-compliant drivers out of service during recent targeted highway inspections.",
-                "Industry trade associations are reviewing the operational impact on cross-border motor freight carriers and driver recruitment pipelines.",
-                "Fleet managers are implementing mandatory language assessment protocols to ensure full regulatory compliance during roadside audits."
+                "Proficient Auto Logistics finalized a strategic asset acquisition, expanding its specialized auto-hauling market share to 25%.",
+                "The capacity expansion positions the carrier to capture growing automotive distribution volume across North America.",
+                "Specialized motor carrier consolidation continues as fleets optimize asset utilization and driver network coverage.",
+                "Automotive supply chain managers benefit from consolidated finished vehicle transport capacity across key shipping corridors."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/fmcsa-proposed-rule-english-proficiency-2026",
-                "Published: 2026-08-10T14:00:00Z",
+                "Source: https://www.freightwaves.com/news/proficient-auto-logistics-deal-market-share-25-percent-2026",
+                "Published: 2026-08-10T18:30:00Z",
                 "Status: Audited & True"
             ]
         }
