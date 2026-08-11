@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRUMP EXTENDS JONES ACT",
-        "titleBlue": "WAIVER",
-        "footerSummary": "The White House extends coastal Jones Act waivers for ninety days while Ceva suffers a cyberattack and SeaLead enters voluntary liquidation."
+        "titleWhite": "USTR ENFORCES LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR moves to implement Section 301 forced-labor tariffs across sixty nations as Section 122 duties expire, forcing importers to alter compliance frameworks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CABOTAGE: TRUMP EXTENDS JONES ACT WAIVER",
+            "heading": "TRADE POLICY: USTR ENFORCES LABOR TARIFFS",
             "points": [
-                "The White House has officially extended its longstanding cabotage waiver under the Jones Act for an additional ninety days. The executive decision allows foreign-flagged vessels to continue transport operations across designated domestic maritime routes. Federal officials indicated that the action aims to maintain domestic fuel distribution stability while administrative reviews continue.",
-                "Maritime industry trade groups have strongly criticized the administrative extension as a direct threat to domestic shipbuilding investments and mariner employment. The updated order narrows relief parameters by implementing mandatory case-by-case reviews for individual voyage permits. Energy analysts project minimal changes to retail fuel pricing as a result of the modified framework.",
-                "Coastal energy transport schedules will require ongoing case-by-case approval from federal maritime administrators to verify domestic vessel availability. Petroleum shippers utilizing foreign tonnage face stricter reporting windows and potential operational delays during permit evaluations. Legal teams advise beneficial cargo owners to review domestic charter availability before filing emergency waiver requests.",
-                "Energy logistics managers must monitor voyage-by-voyage approval timelines to prevent unexpected transport bottlenecks along coastwise shipping channels."
+                "The Office of the United States Trade Representative has officially moved to implement comprehensive tariffs on sixty trading partner nations under Section 301 of the Trade Act of 1974. The regulatory action targets forced labor non-compliance as temporary Section 122 import tariff frameworks officially expire across international trade lanes. Federal authorities confirmed that enforcement mechanisms will focus on high-risk manufacturing hubs and raw material sourcing.",
+                "Importers operating within affected overseas corridors face immediate mandatory documentation requirements to verify supply chain origin and labor standards. Customs clearance procedures are expected to experience extended audit windows as border control officers enforce stricter verification protocols. Logistics intermediaries project potential cost increases and compliance bottlenecks for non-compliant ocean and air shipments.",
+                "Enterprise supply chain officers must update trade compliance frameworks and risk mitigation strategies to avoid severe port entry delays. Legal counsel advises beneficial cargo owners to conduct comprehensive multi-tier vendor audits across international procurement networks. Trade compliance teams are accelerating automated origin-tracing integrations to maintain frictionless customs processing.",
+                "Global trade directors should review country-of-origin documentation immediately to prevent administrative entry holds at major arrival ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS SUFFERS MAJOR IT BREACH",
+            "nextUpTease": "MARITIME LAW: MSC FINED SIX MILLION DOLLARS",
             "tags": [
-                "Source: https://maritime-executive.com/article/trump-administration-extends-jones-act-waiver-for-another-90-days",
-                "Published: 2026-08-10T17:29:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
+                "Published: 2026-08-11T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CYBERSECURITY: CEVA LOGISTICS SUFFERS MAJOR IT BREACH",
+            "heading": "MARITIME LAW: MSC FINED SIX MILLION DOLLARS",
             "points": [
-                "Global third-party logistics provider Ceva Logistics suffered a severe operational disruption following a major cybersecurity breach across its European digital infrastructure. Cyber defense teams immediately isolated affected server nodes to contain unauthorized access to internal management networks. The security incident impacted warehouse processing and freight forwarding tracking capabilities across multiple regional distribution hubs.",
-                "Multiple high-volume beneficial cargo owners across retail, banking, and gaming sectors reported delayed shipments and interrupted automated inventory synchronization. Commercial partners were forced to revert to manual dispatch logging and emergency backup protocols to maintain freight flows. Cybersecurity experts emphasize that supply chain software targets remain high-priority vectors for international cybercrime syndicates.",
-                "Supply chain risk management specialists are urging enterprise shippers to perform comprehensive third-party vendor access audits immediately. Security protocols require strict API isolation and zero-trust credential rotation across automated enterprise resource planning connections. Insurance adjusters are evaluating business interruption claims linked to secondary operational delays across affected European facilities.",
-                "Logistics technology officers must verify vendor access security layers to prevent enterprise network compromises from vendor vulnerabilities."
+                "Ocean carrier MSC Shipmanagement has been ordered to pay six million dollars in criminal fines and placed on four years of federal probation following a major maritime court ruling. The judicial decision stems from a 2024 incident where the container vessel MSC Michigan VII suffered an uncontrolled propulsion failure in Charleston harbor. The operator admitted guilt to concealing hazardous engine control defects and obstructing subsequent federal safety investigations.",
+                "The National Transportation Safety Board and United States Coast Guard documented extensive mechanical failures and maintenance reporting violations aboard the vessel. Under the terms of the probation agreement, MSC must implement enhanced fleet-wide mechanical audit protocols and submit to independent safety monitoring. Marine safety authorities emphasized that failing to report hazardous vessel conditions poses critical risks to municipal harbor infrastructure.",
+                "Maritime legal experts anticipate heightened regulatory scrutiny across foreign-flagged container fleets operating within North American commercial ports. Terminal operators and port authorities are reinforcing emergency vessel response procedures to manage potential marine propulsion emergencies. Vessel operating common carriers are reviewing onboard mechanical maintenance logs to ensure compliance with Coast Guard reporting mandates.",
+                "Fleet operations managers must audit vessel maintenance reporting protocols immediately to maintain regulatory compliance during harbor navigation."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINER SHIPPING: SEALEAD CEASES OPERATIONS AFTER SANCTIONS",
+            "nextUpTease": "OCEAN FREIGHT: COSCO RESUMES RED SEA ROUTES",
             "tags": [
-                "Source: https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-further-several-bcos-exposed/",
-                "Published: 2026-08-11T08:00:00Z",
+                "Source: https://splash247.com/msc-fined-6m-over-charleston-runaway-probe/",
+                "Published: 2026-08-11T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CONTAINER SHIPPING: SEALEAD CEASES OPERATIONS AFTER SANCTIONS",
+            "heading": "OCEAN FREIGHT: COSCO RESUMES RED SEA ROUTES",
             "points": [
-                "Ocean container carrier SeaLead Shipping has formally entered voluntary liquidation proceedings following severe commercial pressures triggered by recent United States sanctions. Executive leadership confirmed that key liner services connecting Asia, the Middle East, the Mediterranean, and the Baltic have officially ceased operation. Competitor ocean lines have moved rapidly to absorb displaced container tonnage and charter vessel assets.",
-                "Freight forwarders and beneficial cargo owners with active bookings on SeaLead vessels are scrambling to secure alternative carrier space across impacted trade lanes. Port authorities are managing localized container dwell surges as terminal operators verify clearance protocols for stranded cargo boxes. Ocean freight rates across affected regional routes are experiencing upward pressure due to sudden capacity contractions.",
-                "Maritime compliance attorneys warn logistics intermediaries against engaging with sanctioned assets to avoid secondary enforcement actions by federal authorities. Freight forwarders are auditing active ocean bill of lading records to re-route affected containerized shipments without violating trade restrictions. Regulatory agencies continue to increase oversight on container carrier corporate ownership structures operating along high-risk routes.",
-                "Cargo origin managers must re-assign stranded containerized volume immediately to compliant ocean lines to avoid compounding port demurrage penalties."
+                "State-owned ocean carrier Cosco Shipping has reopened container booking acceptance for direct Red Sea liner services despite ongoing security threats in the region. The decision marks a significant operational pivot as the Chinese carrier deploys specialized vessel assets through the Bab el-Mandeb Strait. Cargo forwarders report renewed booking availability for direct Asia-to-Europe transit schedules bypassing the longer Cape of Good Hope route.",
+                "Maritime security analysts highlight that while major Western ocean lines continue avoiding high-risk corridors, select global carriers are capitalizing on shorter transit durations. The resumption of direct Red Sea transits offers shippers reduced vessel voyage days and lower fuel consumption expenditures along key trade lanes. However, regional war risk insurance surcharges remain elevated due to persistent maritime security volatility.",
+                "Logistics planners are carefully weighing the transit time savings of direct Red Sea shipping against regional security risks and volatile insurance premiums. Freight forwarders are offering dual-routing options to accommodate varying risk tolerances among commercial beneficial cargo owners. Marine underwriters continue to monitor vessel tracking data to dynamically adjust coverage rates along critical maritime chokepoints.",
+                "Ocean freight managers should evaluate risk-adjusted transit options before rebooking container capacity on direct Red Sea service loops."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: DROUGHT CRIPPLES RHINE BARGE TRANSPORT",
+            "nextUpTease": "PORT LOGISTICS: TYPHOON DISRUPTS ASIA PORTS",
             "tags": [
-                "Source: https://www.joc.com/article/carrier-sealead-ends-operations-weeks-after-us-sanctions-hit_20260811.html",
-                "Published: 2026-08-11T06:00:00Z",
+                "Source: https://theloadstar.com/cosco-returns-to-red-sea-sailings-despite-threats-from-houthis/",
+                "Published: 2026-08-11T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INLAND WATERWAYS: DROUGHT CRIPPLES RHINE BARGE TRANSPORT",
+            "heading": "PORT LOGISTICS: TYPHOON DISRUPTS ASIA PORTS",
             "points": [
-                "Prolonged heatwaves across Central Europe have driven water levels on the Rhine River down to critical operational thresholds, rendering key navigation stretches virtually unnavigable. Low water levels at key choke points like Kaub are restricting vessel loading capacity to a fraction of standard operational draft limits. Barge operators are imposing heavy low-water surcharges while severely rationing available vessel payload slots.",
-                "European industrial shippers are executing emergency modal shifts, re-routing bulk raw materials and containerized cargo onto already congested road and rail networks. Surface freight transport operators report surging spot market demand for drayage capacity and intermodal rail slots along north-south European freight corridors. Logistics planners warn of escalating transit times and rising inland freight costs across major manufacturing hubs.",
-                "Infrastructure specialists highlight that persistent climate volatility requires structural investments in deeper inland waterway channels and multi-modal transfer facilities. Industrial supply chain managers are diversifying inland distribution strategies to mitigate recurrent seasonal disruption along critical river corridors. Rail freight operators are expanding scheduled block-train services to accommodate sustained cargo diversions from river barges.",
-                "European supply chain directors must secure dedicated rail and trucking capacity immediately to avoid production delays from river transport halts."
+                "Typhoon Dolphin made landfall near major East Asian shipping hubs, forcing extensive port closures and generating massive container vessel backlogs across China. Maritime tracking data indicates over two point four million TEU of containership capacity is currently anchored awaiting berth availability. Port authorities in Ningbo and surrounding maritime corridors suspended crane operations and container gate movements due to dangerous weather conditions.",
+                "The severe weather event has compounded existing berth congestion, triggering cascading schedule delays across transpacific and Asia-Europe trade lanes. Ocean carriers are adjusting vessel departure sequences and executing emergency port skips to bypass congested East Asian container terminals. Freight forwarders warn shippers of impending container equipment shortages at major export hubs as equipment positioning cycles stall.",
+                "Supply chain strategists emphasize that severe weather interruptions in East Asia will cause lingering arrival delays at North American import gateways. Terminal operators are preparing round-the-clock discharge operations once weather conditions clear to process stranded container tonnage. Air freight spot markets are experiencing increased booking queries as shippers seek expedited alternatives for time-sensitive cargo.",
+                "Inbound logistics planners must adjust safety stock calculations to buffer against incoming transpacific vessel arrival delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "COLD STORAGE: AHOLD DELHAIZE CANCELS AUTOMATED WAREHOUSES",
+            "nextUpTease": "NETWORK OPS: AMAZON MERGES FREIGHT TEAMS",
             "tags": [
-                "Source: https://theloadstar.com/congestion-fear-as-unnavigable-rhine-means-cargo-shift-to-road-and-rail/",
-                "Published: 2026-08-10T10:00:00Z",
+                "Source: https://theloadstar.com/tropical-storms-bring-congestion-and-cargo-backlogs-at-asian-ports/",
+                "Published: 2026-08-11T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COLD STORAGE: AHOLD DELHAIZE CANCELS AUTOMATED WAREHOUSES",
+            "heading": "NETWORK OPS: AMAZON MERGES FREIGHT TEAMS",
             "points": [
-                "Major grocery retail operator Ahold Delhaize USA has formally halted plans to construct two fully automated frozen distribution facilities in partnership with Americold. Corporate leadership confirmed the closure of an existing Pennsylvania site and the cancellation of a proposed automated facility in Connecticut. The strategic pivot reflects a broader recalibration of capital expenditure strategy toward flexible, human-assisted warehouse models.",
-                "High operational capital costs, complex technology integration timelines, and shifting regional store replenishment demands influenced the decision to step back from full automation. Cold storage logistics operators are re-evaluating capital allocation across large-scale robotic warehouse projects in favor of modular automation enhancements. Commercial real estate markets in the Northeast are absorbing changes in planned cold-chain infrastructure footprint.",
-                "Cold chain logistics experts suggest that capital intensity in automated frozen infrastructure requires highly predictable long-term volume commitments. Retailers are increasingly adopting hybrid fulfillment strategies that balance automated material handling equipment with adaptive labor deployments. Supply chain consultants advise cold storage operators to prioritize software-driven inventory optimization over heavy physical automation assets.",
-                "Grocery supply chain executives must audit facility ROI models to ensure balance between automated fixed assets and operational flexibility."
+                "E-commerce giant Amazon has formally consolidated its middle-mile air and ground transportation management teams into a single operational unit. Corporate leadership announced the structural integration to streamline decision-making across its regional fulfillment and linehaul networks. Executive managers emphasize that unifying middle-mile assets will enhance package routing efficiency and reduce intermodal transfer friction.",
+                "The organizational realignment comes as major retail logistics operators optimize fulfillment velocity to support expanded next-day and same-day delivery guarantees. By integrating air cargo operations directly with surface trucking dispatch networks, Amazon aims to eliminate operational silos between air gateways and sortation hubs. Logistics technology teams are deploying unified routing software to coordinate middle-mile capacity dynamically.",
+                "Industry analysts observe that integrating air and ground logistics execution enables higher asset utilization across private transportation fleets. Third-party logistics providers and regional carrier partners are aligning digital interfaces to interface seamlessly with Amazon's unified management structure. E-commerce competitors are re-evaluating middle-mile network architecture to maintain competitive delivery speeds.",
+                "E-commerce logistics leaders must streamline multi-modal transportation integration to match accelerating industry delivery standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "OFFSHORE WIND: CADELER ORDERS TWO INSTALLATION VESSELS",
+            "nextUpTease": "SUPPLY CHAIN: GM EXITS SAMSUNG BATTERY JV",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/ahold-delhaize-americold-cancel-automated-frozen-warehouses/",
-                "Published: 2026-08-11T07:00:00Z",
+                "Source: https://www.supplychaindive.com/news/amazon-combines-air-ground-operations-teams/",
+                "Published: 2026-08-11T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "OFFSHORE WIND: CADELER ORDERS TWO INSTALLATION VESSELS",
+            "heading": "SUPPLY CHAIN: GM EXITS SAMSUNG BATTERY JV",
             "points": [
-                "Offshore wind installation operator Cadeler has placed a landmark vessel construction order valued at nine hundred thirty million dollars with COSCO Shipping Offshore. The shipbuilding agreement covers two next-generation wind turbine installation vessels designed to support expanding global offshore energy projects. Delivery of the specialized jack-up vessels will further consolidate Cadeler's position as the operator of the world's largest installation fleet.",
-                "The massive capital commitment highlights sustained long-term commercial confidence in global offshore wind energy infrastructure expansion despite short-term supply chain bottlenecks. Maritime equipment manufacturers and specialized offshore contractors are scaling operational capacity to support heavy-lift vessel construction timelines. Project developers anticipate enhanced offshore installation efficiency as larger-capacity vessels enter commercial service by late 2026.",
-                "Energy supply chain planners are coordinating port infrastructure upgrades and heavy-lift terminal staging capacity to accommodate giant turbine components. Global offshore logistics corridors face rising demand for specialized crew transfer vessels and multi-purpose offshore support fleets. Maritime finance syndicates continue to back large-scale specialized vessel construction due to multi-year project backlog visibility.",
-                "Offshore energy logistics managers must align long-term project timelines with specialized installation vessel delivery schedules."
+                "Automotive manufacturer General Motors has agreed to sell its ownership stake in an Indiana electric vehicle battery joint venture to Samsung SDI. The strategic exit follows a broader recalibration of capital allocation in response to slowing electric vehicle adoption rates across domestic consumer markets. Samsung will acquire full control of the manufacturing facility to align production capacity with independent commercial strategies.",
+                "The restructuring highlights shifting market dynamics following the expiration of the federal seven thousand five hundred dollar electric vehicle tax credit. Automotive supply chain managers are adjusting long-term battery cell procurement projections to match recalibrated vehicle assembly schedules. Component suppliers across the domestic EV ecosystem face shifting demand volumes as major OEMs adjust electrification timelines.",
+                "Energy technology analysts note that battery joint venture restructurings reflect necessary adjustments toward sustainable manufacturing scale. Automotive supply chain strategists are diversifying battery chemistry options and supplier partnerships to maintain operational flexibility. Raw material procurement teams are adjusting lithium and nickel supply contracts to correspond with modified battery cell output.",
+                "Automotive supply chain directors must realign component procurement contracts to match revised EV assembly schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: ETSY CUTS TWELVE PERCENT OF WORKFORCE",
+            "nextUpTease": "MANUFACTURING: MEXICO TRUCK EXPORTS SOAR",
             "tags": [
-                "Source: https://maritime-executive.com/article/cadeler-orders-two-more-wtiv-vessels-citing-continued-strong-sector-demand",
-                "Published: 2026-08-10T18:56:00Z",
+                "Source: https://www.supplychainbrain.com/articles/40000-gm-pulls-out-of-ev-battery-jv-with-samsung",
+                "Published: 2026-08-11T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "E-COMMERCE: ETSY CUTS TWELVE PERCENT OF WORKFORCE",
+            "heading": "MANUFACTURING: MEXICO TRUCK EXPORTS SOAR",
             "points": [
-                "Online marketplace platform Etsy has announced plans to reduce its workforce by twelve percent, impacting approximately two hundred corporate staff members. Executive leadership confirmed the headcount reductions follow a major cash infusion of one point four billion dollars from the sale of Depop to eBay. Management emphasized that the restructuring is driven by organizational efficiency goals rather than immediate artificial intelligence deployment.",
-                "E-commerce logistics and seller operations teams are adapting to reorganized corporate support structures aimed at streamlining seller software tools and fulfillment integration. Financial analysts note that major e-commerce platforms are realigning operational costs to protect operating margins amidst shifting consumer spending patterns. Third-party logistics providers partnering with marketplace sellers are monitoring platform software updates for potential fulfillment policy adjustments.",
-                "E-commerce technology strategists emphasize that online marketplaces are prioritizing core platform profitability over rapid organizational expansion. Logistics software developers are focusing on frictionless seller integration and automated customer return management tools. Supply chain leaders expect continued operational streamlining across e-commerce fulfillment networks throughout the remainder of 2026.",
-                "E-commerce fulfillment directors should optimize multi-channel inventory distribution to buffer against potential marketplace operational changes."
+                "Mexican heavy-duty truck production recorded a surge of fifty-one point eight percent year-over-year in July, reaching fourteen thousand six hundred seventy-five total vehicles. Industrial trade reports confirm that robust export demand from North American commercial fleets drove the dramatic surge in assembly volumes. Cross-border automotive supply chains are operating at near-peak capacity to support expanding manufacturing output.",
+                "The surge in Mexican commercial vehicle production underscores nearshoring manufacturing investments along major cross-border trade corridors. Surface transportation providers report heavy demand for drayage and cross-border freight capacity connecting Mexican industrial centers with US distribution hubs. Border crossing facilities in Texas and New Mexico are handling increased commercial vehicle traffic volumes.",
+                "Industrial real estate developers are expanding manufacturing and warehousing footprints near key southwestern border ports of entry. Supply chain planners emphasize that sustained cross-border manufacturing growth requires ongoing investments in border clearance technology and infrastructure. Equipment leasing firms are expanding commercial fleet inventories to accommodate rising cross-border freight movements.",
+                "Cross-border logistics executives must secure reliable border clearance and drayage capacity to support rising industrial trade flows."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.retaildive.com/news/etsy-slashes-workforce-layoffs/",
-                "Published: 2026-08-11T09:00:00Z",
+                "Source: https://www.ttnews.com/articles/mexico-truck-production-july-2026",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
