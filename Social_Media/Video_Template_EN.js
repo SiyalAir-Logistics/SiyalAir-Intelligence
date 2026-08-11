@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS",
+        "hookTitle": "SEALEAD CEASES OPERATIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME ENFORCEMENT: MSC FINED 6M",
+                "headline": "LINER LIQUIDATION: SEALEAD CEASES OPERATIONS",
+                "teaserTitle": "ARCTIC SHIPPING: SEA LEGEND ICE SILK ROAD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "USTR confirmed Section 301 tariffs on 60 trading partners as Section 122 expires today. Shippers must audit import classifications immediately to prevent trade penalties and supply bottlenecks."
+                "narration_line": "SeaLead Shipping entered voluntary liquidation following U.S. sanctions, halting main liner services across Asia and Europe. Competitors are rapidly absorbing 100K TEU in fleet assets to prevent immediate supply chain halts."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME ENFORCEMENT: MSC FINED 6M",
-                "teaserTitle": "CARRIER NETWORK: LANDSTAR CUTS 35K CARRIERS",
+                "headline": "ARCTIC SHIPPING: SEA LEGEND ICE SILK ROAD",
+                "teaserTitle": "PORT CONGESTION: TYPHOON DOLPHIN STRANDS TEUS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "MSC Shipmanagement was fined $6M and given 4 years probation over an engine control failure in Charleston. Federal regulators cited unreported hazardous conditions aboard the vessel."
+                "narration_line": "SeaLegend Line approved regulatory permits to launch the first regular Arctic container service along the Northern Sea Route. The transit shortcut reduces Asia to Europe sailing schedules by up to 15 days."
             },
             {
                 "slide_index": 3,
-                "headline": "CARRIER NETWORK: LANDSTAR CUTS 35K CARRIERS",
-                "teaserTitle": "OCEAN FREIGHT: COSCO RESUMES RED SEA",
+                "headline": "PORT CONGESTION: TYPHOON DOLPHIN STRANDS TEUS",
+                "teaserTitle": "CABOTAGE POLICY: JONES ACT WAIVER EXTENDED",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Landstar removed over 35K carriers from its approved logistics network during safety reviews. Freight brokers face reduced spot capacity as compliance audits tighten across North American lanes."
+                "narration_line": "Typhoon Dolphin forced over 2.4M TEU of containership capacity into anchorage delays across Chinese port hubs. Terminal crane shutdowns are pushing vessel schedules back by 48 to 72 hours."
             },
             {
                 "slide_index": 4,
-                "headline": "OCEAN FREIGHT: COSCO RESUMES RED SEA",
-                "teaserTitle": "AUTOMATION: FEDEX AND AMAZON EXPAND ROBOTICS",
+                "headline": "CABOTAGE POLICY: JONES ACT WAIVER EXTENDED",
+                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS WAREHOUSE BREACH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Cosco Shipping resumed container bookings for Red Sea transits despite active maritime threats. Ocean carriers are balancing routing risks against high transit costs around the Cape of Good Hope."
+                "narration_line": "The White House extended the Jones Act cabotage waiver for 90 days using new voyage-by-voyage federal approvals. Foreign-flag tankers retain critical domestic petroleum transit access between Gulf and West Coast ports."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTOMATION: FEDEX AND AMAZON EXPAND ROBOTICS",
-                "teaserTitle": "TRUCKING REGULATION: FMCSA ENGLISH PROFICIENCY RULE",
+                "headline": "CYBERSECURITY: CEVA LOGISTICS WAREHOUSE BREACH",
+                "teaserTitle": "TANKER MARKET: SUPERTANKER RATES HIT 500K",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "FedEx deployed trailer loading automation in MD as Amazon doubles its robotic arm fleet in 2026. Logistics hubs are accelerating hardware automation to reduce labor friction and cycle times."
+                "narration_line": "A severe cyber breach compromised Ceva Logistics warehouse networks, disrupting order fulfillment for major European retail clients. Operational teams implemented manual paper tracking systems to restore daily distribution workflows."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING REGULATION: FMCSA ENGLISH PROFICIENCY RULE",
-                "teaserTitle": "E-COMMERCE LOGISTICS: ETSY CUTS 220 JOBS",
+                "headline": "TANKER MARKET: SUPERTANKER RATES HIT 500K",
+                "teaserTitle": "US IMPORTS: CONTAINER VOLUMES UP 4.5 PERCENT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FMCSA proposed strict rules to lock in English proficiency standards for commercial truck drivers. Federal enforcement actions have already sidelined over 26K non-compliant operators across 50 states."
+                "narration_line": "Supertanker spot charter rates reached $500K per day as Strait of Hormuz security threats escalated. Brent crude prices surged 5% while ocean carriers instituted emergency war risk bunker surcharges."
             },
             {
                 "slide_index": 7,
-                "headline": "E-COMMERCE LOGISTICS: ETSY CUTS 220 JOBS",
-                "teaserTitle": "",
+                "headline": "US IMPORTS: CONTAINER VOLUMES UP 4.5 PERCENT",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Etsy announced 220 layoffs cutting 12% of workforce following a $1.4B cash injection from Depop sale. E-commerce platforms are restructuring fulfillment models to maintain margins amid shifting retail volumes."
+                "narration_line": "U.S. container imports surged 4.5% in July, marking the fourth highest monthly import volume on record. Retailers accelerated peak season inbound orders to mitigate tariff risks and autumn port congestion."
             },
             {
                 "slide_index": 8,
