@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR ENFORCES LABOR TARIFFS ON 60 NATIONS",
+        "hookTitle": "WHITE HOUSE EXTENDS JONES ACT WAIVER",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: USTR ENFORCES LABOR TARIFFS",
-                "teaserTitle": "PORTS: TYPHOON DOLPHIN CAUSES CONGESTION",
+                "headline": "MARITIME: WHITE HOUSE EXTENDS JONES ACT",
+                "teaserTitle": "SECURITY: HOUTHI ATTACK KILLS CARGO CREW",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is implementing forced labor tariffs across sixty trading partners following Section 122 expiration. Importers face immediate compliance auditing and potential customs holds on non-compliant supply chains."
+                "narration_line": "The White House has issued a new ninety-day extension waiver for the Jones Act. The Pentagon will consult directly with the Maritime Administration to review exempt coastwise voyage applications."
             },
             {
                 "slide_index": 2,
-                "headline": "PORTS: TYPHOON DOLPHIN CAUSES CONGESTION",
-                "teaserTitle": "AUTOMOTIVE: GM SECURES PARTS SUPPLY",
+                "headline": "SECURITY: HOUTHI ATTACK KILLS CARGO CREW",
+                "teaserTitle": "MARITIME: MSC FINED FOR SAFETY VIOLATIONS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Typhoon Dolphin has disrupted major East Asian shipping hubs causing severe vessel queuing near Chinese maritime gateways. Over two point four million twenty foot equivalent units of container capacity remain anchored awaiting port entry."
+                "narration_line": "Houthi forces attacked a small Yemeni deck cargo vessel near the port of Mokha. Official reports confirmed four crew members were killed and several others sustained severe injuries."
             },
             {
                 "slide_index": 3,
-                "headline": "AUTOMOTIVE: GM SECURES PARTS SUPPLY",
-                "teaserTitle": "REGULATION: FMCSA MANDATES ENGLISH RULES",
+                "headline": "MARITIME: MSC FINED FOR SAFETY VIOLATIONS",
+                "teaserTitle": "ECOMMERCE: AMAZON ENFORCES TITLE POLICY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "General Motors finalized a parts supply agreement worth up to four point five billion dollars for critical automotive sourcing. The proactive contract structure aims to shield vehicle assembly schedules from ongoing regional freight bottlenecks."
+                "narration_line": "MSC Shipmanagement was fined six million dollars after pleading guilty to concealing a hazardous engine failure. The company was also placed on four years of federal probation by US courts."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: FMCSA MANDATES ENGLISH RULES",
-                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS SUFFERS BREACH",
+                "headline": "ECOMMERCE: AMAZON ENFORCES TITLE POLICY",
+                "teaserTitle": "TARIFFS: TRUMP LEVIES POLYSILICON DUTIES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Federal safety regulators proposed stricter English language proficiency enforcement rules for commercial motor vehicle drivers across North America. Non-compliant motor carriers risk immediate driver disqualifications and heightened roadside inspection scrutiny."
+                "narration_line": "Amazon is strictly limiting product title lengths to seventy-five characters or less. The policy change applies to both third-party merchant listings and Amazon's direct retail product catalog."
             },
             {
                 "slide_index": 5,
-                "headline": "CYBERSECURITY: CEVA LOGISTICS SUFFERS BREACH",
-                "teaserTitle": "ECOMMERCE: ETSY REDUCES WORKFORCE CAPACITY",
+                "headline": "TARIFFS: TRUMP LEVIES POLYSILICON DUTIES",
+                "teaserTitle": "INTERMODAL: PORT OF VIRGINIA ADDS CSX",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A significant cyber intrusion targeted Ceva Logistics software infrastructure causing localized warehouse operational delays across European networks. Logistics security teams are deploying containment protocols to restore data integrity for corporate shippers."
+                "narration_line": "A new trade proclamation imposes a fifteen percent tariff on foreign polysilicon imports. The order establishes an import price floor taking full effect on December fourth."
             },
             {
                 "slide_index": 6,
-                "headline": "ECOMMERCE: ETSY REDUCES WORKFORCE CAPACITY",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY RATES DROP",
+                "headline": "INTERMODAL: PORT OF VIRGINIA ADDS CSX",
+                "teaserTitle": "MANUFACTURING: MEXICAN TRUCK PRODUCTION SOARS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Etsy announced corporate workforce reductions eliminating two hundred operational roles despite securing a one point four billion dollar asset sale. Management is restructuring internal logistics technology tools to streamline ongoing marketplace fulfillment."
+                "narration_line": "The Port of Virginia launched direct CSX intermodal rail service to Indianapolis. Containers can now bypass Chicago transfer ramps to streamline Midwest cargo delivery."
             },
             {
                 "slide_index": 7,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY RATES DROP",
+                "headline": "MANUFACTURING: MEXICAN TRUCK PRODUCTION SOARS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Industrial real estate availability tightened as quarterly logistics vacancy rates fell seven basis points to seven point three percent. Sustained net absorption in key logistics centers continues to outperform the pace of new facility construction."
+                "narration_line": "Mexican heavy-duty truck production jumped fifty-one point eight percent in July. Output reached over fourteen thousand units as cross-border fleet demand expanded sharply."
             },
             {
                 "slide_index": 8,
