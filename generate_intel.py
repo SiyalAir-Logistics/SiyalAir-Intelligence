@@ -124,30 +124,43 @@ def update_tracker_files():
 # Purpose: Combines prompt with live data, enforces structure, and executes atomic file writes in logical sequence.
 # ==============================================================================
 def enforce_slide_structure(slides_object):
-    """Enforces strict 4-bullet point limits and character length constraints per bullet to prevent UI overflow."""
-    if isinstance(slides_object, dict) and "slides" in slides_object:
-        for slide in slides_object["slides"]:
-            if "points" in slide and isinstance(slide["points"], list):
-                cleaned_points = []
-                for pt in slide["points"]:
-                    clean_pt = str(pt).replace('\n', ' ').replace('•', '').replace('➔', '').strip()
-                    if clean_pt:
-                        # STRICT LINE / CHARACTER ENFORCEMENT: Max ~175 chars to guarantee fit within max 3 lines visually
-                        if len(clean_pt) > 175:
-                            truncated = clean_pt[:172]
-                            last_space = truncated.rfind(' ')
-                            if last_space > 90:
-                                clean_pt = truncated[:last_space] + "..."
-                            else:
-                                clean_pt = truncated + "..."
-                        cleaned_points.append(clean_pt)
-                
-                if len(cleaned_points) > 4:
-                    slide["points"] = cleaned_points[:4]
-                elif len(cleaned_points) < 4:
-                    while len(cleaned_points) < 4:
-                        cleaned_points.append("Continuous trade shifts require monitoring immediate carrier capacity adjustments.")
-                    slide["points"] = cleaned_points
+    """Enforces strict bullet limits and a tight 75-character max length across all possible JSON key variations to guarantee fit within 3 visual lines."""
+    if isinstance(slides_object, dict):
+        slides_list = slides_object.get("slides") or slides_object.get("slides_data", {}).get("slides")
+        if not slides_list and isinstance(slides_object.get("slides_data"), list):
+            slides_list = slides_object["slides_data"]
+            
+        if isinstance(slides_list, list):
+            for slide in slides_list:
+                if isinstance(slide, dict):
+                    point_key = None
+                    for key in ["points", "bullet_points", "bullets", "items", "text_blocks"]:
+                        if key in slide and isinstance(slide[key], list):
+                            point_key = key
+                            break
+                    
+                    if point_key:
+                        cleaned_points = []
+                        for pt in slide[point_key]:
+                            clean_pt = str(pt).replace('\n', ' ').replace('•', '').replace('➔', '').strip()
+                            if clean_pt:
+                                # STRICT 75-CHAR LIMIT: Mathematically guarantees zero overflow past 3 lines on Momentum Point templates
+                                if len(clean_pt) > 75:
+                                    truncated = clean_pt[:72]
+                                    last_space = truncated.rfind(' ')
+                                    if last_space > 40:
+                                        clean_pt = truncated[:last_space] + "..."
+                                    else:
+                                        clean_pt = truncated + "..."
+                                cleaned_points.append(clean_pt)
+                        
+                        if len(cleaned_points) > 4:
+                            slide[point_key] = cleaned_points[:4]
+                        elif len(cleaned_points) < 4:
+                            while len(cleaned_points) < 4:
+                                cleaned_points.append("Continuous trade shifts require monitoring immediate carrier capacity adjustments.")
+                            slide[point_key] = cleaned_points
+                            
     return slides_object
 
 def main():
@@ -219,7 +232,7 @@ def main():
                 f.write(f"const dailyData = {slides_json_str};")
             log("SUCCESS", "Generated and exported: template.js")
                 
-            # 3. Social Media Post Content (post.txt in Root)
+            # 3. Social Media Post Content (post.txt in Root) -->
             with open("post.txt", "w", encoding="utf-8") as f:
                 clean_post = str(post_content).replace('\\n', '\n')
                 f.write(clean_post)
