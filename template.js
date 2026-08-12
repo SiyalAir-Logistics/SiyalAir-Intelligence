@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "RHINE BARGE",
-        "titleBlue": "SURCHARGES",
-        "footerSummary": "Low Rhine water levels spark barge surcharges while Cosco resumes Red Sea transit amid weather and cybersecurity disruptions."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR implements Section 301 tariffs across 60 nations, threatening compliance costs and supply chain re-routing."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "INLAND LOGISTICS: RHINE BARGE SURCHARGES",
+            "heading": "TRADE POLICY: FORCED LABOR TARIFFS",
             "points": [
-                "Low water levels on the Rhine River have forced inland waterway barge operators to impose substantial freight surcharges across key European corridors.",
-                "Logistics operators report that constrained draft depths are limiting barge capacity by up to 50%, driving up overland freight expenditures.",
-                "Surcharges on critical transport routes between Germany and Benelux ports threaten to create severe inland cargo bottlenecks.",
-                "Supply chain managers are actively shifting container volumes toward rail and truck modes to prevent delays at Rotterdam and Antwerp gateways."
+                "The Office of the United States Trade Representative announced the implementation of new Section 301 tariffs targeting 60 trading partners.",
+                "The trade action targets foreign supply chain networks violating strict cross-border forced labor compliance enforcement mandates.",
+                "Importers face mandatory supplier labor audits and stricter customs entry requirements across major US ocean and air ports.",
+                "Supply chain executives are actively adjusting sourcing footprints to avoid heightened tariff risk and port hold orders in 2026."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER STRATEGY: COSCO RED SEA RESUMPTION",
+            "nextUpTease": "MARITIME: PANAMA CANAL BACKLOGS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-12T09:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "CARRIER STRATEGY: COSCO RED SEA RESUMPTION",
-            "points": [
-                "Chinese state-owned ocean carrier Cosco has reopened commercial vessel bookings for direct Red Sea maritime transit routes.",
-                "The decision comes despite persistent security threats and military attacks against commercial shipping vessels along the corridor.",
-                "The carrier plans to deploy specialized container vessels on the lane to capture high-margin spot freight opportunities.",
-                "Global forwarders are evaluating risk profiles as direct transit saves up to 14 days compared to the Cape of Good Hope routing."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PORT OPERATIONS: TYPHOON DOLPHIN CONGESTION",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-11T14:30:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "PORT OPERATIONS: TYPHOON DOLPHIN CONGESTION",
-            "points": [
-                "Severe weather conditions from Typhoon Dolphin making landfall near Ningbo have severely disrupted vessel operations across East Asian container ports.",
-                "Terminal closures and vessel anchorage delays at Shanghai and Ningbo have created expanding vessel queues across the region.",
-                "Ocean carriers report disrupted sailing schedules and extended port dwell times for peak season export shipments bound for North America.",
-                "Logistics teams face delayed vessel departure schedules and compound schedule reliability drops through late August 2026."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AUTONOMOUS TRUCKING: CALIFORNIA TEAMSTER LAWSUIT",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-11T11:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AUTONOMOUS TRUCKING: CALIFORNIA TEAMSTER LAWSUIT",
-            "points": [
-                "Teamsters California filed a lawsuit against the Department of Motor Vehicles to block proposed regulatory rules for heavy-duty autonomous trucks.",
-                "The legal petition seeks to halt the issuance of commercial testing and deployment permits for driverless trucks exceeding 10,000 pounds.",
-                "Labor representatives argue that driverless vehicle deployment creates severe public safety hazards and accelerates workforce displacement.",
-                "Autonomous technology developers face potential regulatory delays in launching commercial driverless freight corridors across West Coast highways."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE LOGISTICS: PROFICIENT AUTO ACQUISITION",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-11T16:20:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AUTOMOTIVE LOGISTICS: PROFICIENT AUTO ACQUISITION",
-            "points": [
-                "Proficient Auto Logistics announced a definitive $130M acquisition of car-hauling fleet operator Hansen & Adkins.",
-                "The transaction combines two major specialized carriers to create the largest finished vehicle transport operator in North America.",
-                "The combined enterprise will operate extensive haulage assets servicing major original equipment manufacturers and automobile distribution hubs.",
-                "Automotive supply chain managers expect enhanced network capacity and optimized cross-border vehicle transport routes across 2026."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
-            "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
+            "id": 2,
+            "heading": "MARITIME: PANAMA CANAL BACKLOGS",
             "points": [
-                "A major cybersecurity breach targeting Ceva Logistics' warehouse IT infrastructure has disrupted regional fulfillment networks across Europe.",
-                "The incident compromised operational data systems, forcing temporary manual processing procedures across several distribution centers.",
-                "Brand-name retail, gaming, and banking clients experienced temporary order processing delays and inventory visibility gaps.",
-                "Enterprise supply chain risk executives are intensifying vendor cyber audits to mitigate third-party logistics IT vulnerabilities."
+                "Panama Canal vessel congestion reached 113 waiting ships as declining water levels forced reduced daily booking slots.",
+                "Draft restriction limits are forcing ocean carriers to reduce cargo intake on container vessels bound for East Coast ports.",
+                "Transit delay surcharges and extended waiting times are straining ocean freight schedules and spot market container pricing.",
+                "Logistics planners are assessing alternative rail land-bridge options across North America to maintain schedule integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME SECURITY: BLACK SEA DRONE COUNTERMEASURES",
+            "nextUpTease": "AIR CARGO: DE MINIMIS EXEMPTION ENDS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-11T08:45:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-12T08:15:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "AIR CARGO: DE MINIMIS EXEMPTION ENDS",
+            "points": [
+                "Air cargo freight volumes and spot rates experienced a sharp decline following the European Union's duty-free reform.",
+                "The formal elimination of the de minimis import tax exemption ended tariff-free access for low-value cross-border e-commerce parcels.",
+                "Cross-border postal operators and express parcel carriers are restructuring customs clearance procedures across EU gateways.",
+                "E-commerce brands are establishing local European fulfillment hubs to mitigate rising customs processing charges."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "SEMICONDUCTORS: POLYSILICON TARIFF IMPOSITION",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: 2026-08-12T09:30:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "SEMICONDUCTORS: POLYSILICON TARIFF IMPOSITION",
+            "points": [
+                "The US government issued a formal executive order imposing a 15% tariff along with a minimum price floor on imported polysilicon.",
+                "The policy aims to protect domestic production for critical solar panels and semiconductor manufacturing supply chains.",
+                "High-tech electronics manufacturers face higher raw material acquisition costs and potential supply pipeline adjustments.",
+                "Sourcing managers are reviewing long-term supplier agreements to navigate rising component tariffs effective Dec 4, 2026."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MIDDLE EAST: BAB AL-MANDAB ATTACKS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-11T18:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "MIDDLE EAST: BAB AL-MANDAB ATTACKS",
+            "points": [
+                "A ballistic missile attack by Houthi forces hit a commercial cargo vessel in the Bab al-Mandab Strait, leaving 6 crew members dead.",
+                "The strike marks the first fatal casualty incident involving merchant shipping in the southern Red Sea corridor during 2026.",
+                "Global ocean carriers are pausing planned transit resumptions, keeping container vessels routed around the Cape of Good Hope.",
+                "Marine war-risk insurance premiums for Middle East transit lanes are surging, increasing overall voyage transport expenses."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "SHIPBUILDING: WAN HAI CONTAINERSHIP ORDER",
+            "tags": [
+                "Source: https://splash247.com",
+                "Published: 2026-08-12T07:15:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "SHIPBUILDING: WAN HAI CONTAINERSHIP ORDER",
+            "points": [
+                "Taiwanese ocean carrier Wan Hai Lines finalized a $980M order for 8 modern containerships with Shanghai Waigaoqiao Shipbuilding.",
+                "The newbuilding contract includes 7 vessels rated at 11,000 TEU capacity alongside a single 9,200 TEU container vessel.",
+                "The fleet modernization program aims to optimize slot capacity across expanding intra-Asia and transpacific service networks.",
+                "Global ocean carriers continue ordering dual-fuel boxships to meet international maritime emission reduction targets by 2030."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "E-COMMERCE: DEPOP ACQUISITION COMPLETED",
+            "tags": [
+                "Source: https://splash247.com",
+                "Published: 2026-08-12T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME SECURITY: BLACK SEA DRONE COUNTERMEASURES",
+            "heading": "E-COMMERCE: DEPOP ACQUISITION COMPLETED",
             "points": [
-                "Russian commercial vessel operators are adopting defensive tactics, including anti-drone cages and armed security guards, to protect maritime fleets.",
-                "Shipping companies are rerouting vessels closer to coastal territorial waters to minimize exposure to hostile unmanned aerial systems.",
-                "Proposals for naval convoy escorts are under review as Black Sea and Sea of Azov commodity export lanes face ongoing security threats.",
-                "Marine insurers are raising war-risk premiums for commercial vessels operating within active Black Sea transit corridors."
+                "eBay completed its $1.4B acquisition of fashion resale marketplace Depop from Etsy following international regulatory clearance.",
+                "Etsy simultaneously announced 200 employee workforce layoffs as part of a strategic corporate restructuring following the sale.",
+                "eBay plans to operate Depop as a standalone unit while integrating backend logistics and marketplace technology systems.",
+                "E-commerce platforms are consolidating market share in re-commerce to drive secondary marketplace revenue growth in 2026."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-12T07:30:00Z",
+                "Source: https://www.ecommercebytes.com",
+                "Published: 2026-08-12T11:20:00Z",
                 "Status: Audited & True"
             ]
         }

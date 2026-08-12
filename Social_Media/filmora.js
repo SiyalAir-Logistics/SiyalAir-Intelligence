@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "INLAND LOGISTICS: RHINE BARGE SURCHARGES",
-                "teaserTitle": "CARRIER STRATEGY: COSCO RED SEA RESUMPTION",
-                "visual_caption": "Falling water levels on the Rhine River have forced inland barge operators to implement steep freight surcharges across European networks. Shippers are rapidly diverting containerized cargo to rail lines to prevent mounting import delays at major gateways."
+                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME: PANAMA CANAL BACKLOGS",
+                "visual_caption": "USTR announced Section 301 tariffs targeting 60 trading partners as Section 122 measures expire. Importers must audit supplier labor compliance to prevent customs delays at US ports."
             },
             {
                 "slide_index": 2,
-                "headline": "CARRIER STRATEGY: COSCO RED SEA RESUMPTION",
-                "teaserTitle": "PORT OPERATIONS: TYPHOON DOLPHIN CONGESTION",
-                "visual_caption": "Chinese ocean carrier Cosco has officially resumed direct vessel bookings through active Red Sea trade lanes despite persistent security risks. Direct maritime transits offer shippers up to 14 days in schedule savings compared to African rerouting."
+                "headline": "MARITIME: PANAMA CANAL BACKLOGS",
+                "teaserTitle": "AIR CARGO: DE MINIMIS EXEMPTION ENDS",
+                "visual_caption": "Panama Canal vessel backlogs reached 113 ships as falling water levels restricted daily transits. Shippers face rising delay surcharges and potential cargo rerouting to US East Coast ports."
             },
             {
                 "slide_index": 3,
-                "headline": "PORT OPERATIONS: TYPHOON DOLPHIN CONGESTION",
-                "teaserTitle": "AUTONOMOUS TRUCKING: CALIFORNIA TEAMSTER LAWSUIT",
-                "visual_caption": "Typhoon Dolphin made landfall near Ningbo, creating major vessel backlogs and terminal delays across primary East Asian container hubs. Ocean carriers report expanding vessel anchorage queues that threaten to delay peak season exports."
+                "headline": "AIR CARGO: DE MINIMIS EXEMPTION ENDS",
+                "teaserTitle": "SEMICONDUCTORS: POLYSILICON TARIFF IMPOSITION",
+                "visual_caption": "Air cargo rates and volumes dropped following the EU removal of de minimis duty-free exemptions. E-commerce logistics operators are restructuring customs clearance to handle increased import taxes."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTONOMOUS TRUCKING: CALIFORNIA TEAMSTER LAWSUIT",
-                "teaserTitle": "AUTOMOTIVE LOGISTICS: PROFICIENT AUTO ACQUISITION",
-                "visual_caption": "Teamsters California has filed a lawsuit against state regulators to block updated rules permitting heavy-duty autonomous truck testing. The legal challenge threatens to delay commercial driverless freight deployments across vital West Coast distribution corridors."
+                "headline": "SEMICONDUCTORS: POLYSILICON TARIFF IMPOSITION",
+                "teaserTitle": "MIDDLE EAST: BAB AL-MANDAB ATTACKS",
+                "visual_caption": "A 15% tariff and import price floor went into effect on raw polysilicon imports for chips. Tech supply chain managers expect higher component costs and shifting procurement strategies."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTOMOTIVE LOGISTICS: PROFICIENT AUTO ACQUISITION",
-                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
-                "visual_caption": "Proficient Auto Logistics has acquired specialized carrier Hansen & Adkins for $130M to expand vehicle transport operations. The deal creates North America's largest finished vehicle hauler with enhanced fleet coverage."
+                "headline": "MIDDLE EAST: BAB AL-MANDAB ATTACKS",
+                "teaserTitle": "SHIPBUILDING: WAN HAI CONTAINERSHIP ORDER",
+                "visual_caption": "A Houthi missile attack in the Bab al-Mandab Strait killed 6 crew members on a cargo ship. Ocean carriers are reassessing Red Sea transit risks while marine insurance premiums escalate."
             },
             {
                 "slide_index": 6,
-                "headline": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
-                "teaserTitle": "MARITIME SECURITY: BLACK SEA DRONE COUNTERMEASURES",
-                "visual_caption": "A major cybersecurity breach at Ceva Logistics disrupted warehouse management systems across European fulfillment centers. Enterprise retail and commercial clients experienced temporary order processing delays while manual operational backups were activated."
+                "headline": "SHIPBUILDING: WAN HAI CONTAINERSHIP ORDER",
+                "teaserTitle": "E-COMMERCE: DEPOP ACQUISITION COMPLETED",
+                "visual_caption": "Wan Hai Lines ordered 8 containerships from Shanghai Waigaoqiao Shipbuilding for $980M. The deal secures long-term capacity for key intra-Asia and transpacific container lanes."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME SECURITY: BLACK SEA DRONE COUNTERMEASURES",
+                "headline": "E-COMMERCE: DEPOP ACQUISITION COMPLETED",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Russian commercial shipping operators are installing physical anti-drone cages and deploying armed guards to protect vessels in the Black Sea. Rising security threats have prompted vessel operators to hug coastal routes and request military escorts."
+                "visual_caption": "eBay completed its $1.4B purchase of fashion marketplace Depop from Etsy to expand C2C commerce. Etsy announced 200 employee layoffs immediately following the corporate deal closing."
             },
             {
                 "slide_index": 8,

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "INLAND LOGISTICS: RHINE BARGE SURCHARGES",
+        "hookTitle": "TRADE POLICY: FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "INLAND LOGISTICS: RHINE BARGE SURCHARGES",
-                "teaserTitle": "CARRIER STRATEGY: COSCO RED SEA RESUMPTION",
+                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME: PANAMA CANAL BACKLOGS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Falling water levels on the Rhine River have forced inland barge operators to implement steep freight surcharges across European networks. Shippers are rapidly diverting containerized cargo to rail lines to prevent mounting import delays at major gateways."
+                "narration_line": "The Office of the United States Trade Representative announced Section three oh one tariffs on sixty trading nations. The regulatory shift forces importers to audit supplier labor practices to prevent severe customs delays."
             },
             {
                 "slide_index": 2,
-                "headline": "CARRIER STRATEGY: COSCO RED SEA RESUMPTION",
-                "teaserTitle": "PORT OPERATIONS: TYPHOON DOLPHIN CONGESTION",
+                "headline": "MARITIME: PANAMA CANAL BACKLOGS",
+                "teaserTitle": "AIR CARGO: DE MINIMIS EXEMPTION ENDS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Chinese ocean carrier Cosco has officially resumed direct vessel bookings through active Red Sea trade lanes despite persistent security risks. Direct maritime transits offer shippers up to fourteen days in schedule savings compared to African rerouting."
+                "narration_line": "Panama Canal vessel backlogs surged to one hundred thirteen ships as falling water levels restricted daily transit slots. Shippers are facing rising delay surcharges and potential cargo rerouting to United States East Coast ports."
             },
             {
                 "slide_index": 3,
-                "headline": "PORT OPERATIONS: TYPHOON DOLPHIN CONGESTION",
-                "teaserTitle": "AUTONOMOUS TRUCKING: CALIFORNIA TEAMSTER LAWSUIT",
+                "headline": "AIR CARGO: DE MINIMIS EXEMPTION ENDS",
+                "teaserTitle": "SEMICONDUCTORS: POLYSILICON TARIFF IMPOSITION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Typhoon Dolphin made landfall near Ningbo, creating major vessel backlogs and terminal delays across primary East Asian container hubs. Ocean carriers report expanding vessel anchorage queues that threaten to delay peak season exports."
+                "narration_line": "Air cargo freight rates and volumes dropped sharply after the European Union eliminated its de minimis duty free import exemption. E-commerce logistics operators are restructuring customs clearance procedures to manage rising compliance costs."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTONOMOUS TRUCKING: CALIFORNIA TEAMSTER LAWSUIT",
-                "teaserTitle": "AUTOMOTIVE LOGISTICS: PROFICIENT AUTO ACQUISITION",
+                "headline": "SEMICONDUCTORS: POLYSILICON TARIFF IMPOSITION",
+                "teaserTitle": "MIDDLE EAST: BAB AL-MANDAB ATTACKS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Teamsters California has filed a lawsuit against state regulators to block updated rules permitting heavy-duty autonomous truck testing. The legal challenge threatens to delay commercial driverless freight deployments across vital West Coast distribution corridors."
+                "narration_line": "A new fifteen percent tariff and import price floor took effect on raw polysilicon imports for semiconductor manufacturing. Technology supply chain managers expect increased production expenses and shifting component procurement pipelines."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTOMOTIVE LOGISTICS: PROFICIENT AUTO ACQUISITION",
-                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
+                "headline": "MIDDLE EAST: BAB AL-MANDAB ATTACKS",
+                "teaserTitle": "SHIPBUILDING: WAN HAI CONTAINERSHIP ORDER",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Proficient Auto Logistics has acquired specialized carrier Hansen and Adkins for one hundred thirty million dollars to expand vehicle transport operations. The deal creates North America's largest finished vehicle hauler with enhanced fleet coverage."
+                "narration_line": "A deadly Houthi missile strike in the Bab al-Mandab Strait killed six crew members aboard a commercial cargo vessel. Ocean carriers are re-evaluating Red Sea security risks while war risk insurance premiums escalate sharply."
             },
             {
                 "slide_index": 6,
-                "headline": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
-                "teaserTitle": "MARITIME SECURITY: BLACK SEA DRONE COUNTERMEASURES",
+                "headline": "SHIPBUILDING: WAN HAI CONTAINERSHIP ORDER",
+                "teaserTitle": "E-COMMERCE: DEPOP ACQUISITION COMPLETED",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A major cybersecurity breach at Ceva Logistics disrupted warehouse management systems across European fulfillment centers. Enterprise retail and commercial clients experienced temporary order processing delays while manual operational backups were activated."
+                "narration_line": "Taiwanese carrier Wan Hai Lines finalized a nine hundred eighty million dollar order for eight container vessels with Shanghai Waigaoqiao Shipbuilding. The strategy secures extra long-term capacity for expanding intra-Asia and transpacific ocean routes."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME SECURITY: BLACK SEA DRONE COUNTERMEASURES",
+                "headline": "E-COMMERCE: DEPOP ACQUISITION COMPLETED",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Russian commercial shipping operators are installing physical anti-drone cages and deploying armed guards to protect vessels in the Black Sea. Rising security threats have prompted vessel operators to hug coastal routes and request military escorts."
+                "narration_line": "eBay finalized its one point four billion dollar acquisition of fashion marketplace Depop from Etsy to bolster consumer fashion sales. Etsy simultaneously announced two hundred employee layoffs following the corporate asset transfer."
             },
             {
                 "slide_index": 8,
