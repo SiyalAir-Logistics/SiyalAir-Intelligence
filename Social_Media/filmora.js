@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR EXPANDS SECTION 301 TARIFFS",
+        "hookTitle": "TYPHOON DOLPHIN CRIPPLES NINGBO PORT OPERATIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: USTR EXPANDS SECTION 301 TARIFFS",
-                "teaserTitle": "TARIFFS: TRUMP LEVIES POLYSILICON IMPORT DUTIES",
+                "headline": "PORT OPERATIONS: TYPHOON DOLPHIN CRIPPLES NINGBO",
+                "teaserTitle": "OCEAN FREIGHT: ASIA TO US EAST COAST RATES PEAK",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Trade Representative implemented Section three hundred one tariffs across sixty nations following Section one hundred twenty-two expiration. Importers face immediate compliance adjustments and elevated duty liabilities across active trade corridors."
+                "narration_line": "Typhoon Dolphin made landfall near Ningbo, stranding two point four million TEUs of containership capacity across eastern China. Port authorities suspended all vessel loading operations and gate movements to safeguard vital terminal infrastructure."
             },
             {
                 "slide_index": 2,
-                "headline": "TARIFFS: TRUMP LEVIES POLYSILICON IMPORT DUTIES",
-                "teaserTitle": "OCEAN FREIGHT: COSCO RESUMES RED SEA ROUTINGS",
+                "headline": "OCEAN FREIGHT: ASIA TO US EAST COAST RATES PEAK",
+                "teaserTitle": "SUPPLY CHAIN: GM INVESTS IN BATTERY INDEPENDENCE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The White House announced a fifteen percent tariff and import price floor on all imported polysilicon effective December fourth. Sourcing teams are recalibrating procurement budgets for solar and semiconductor components."
+                "narration_line": "Spot container freight rates from Asian manufacturing origins to the United States East Coast surged to nine thousand four hundred dollars. Accelerated cargo frontloading and constrained vessel capacity intensified competition for equipment."
             },
             {
                 "slide_index": 3,
-                "headline": "OCEAN FREIGHT: COSCO RESUMES RED SEA ROUTINGS",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
+                "headline": "SUPPLY CHAIN: GM INVESTS IN BATTERY INDEPENDENCE",
+                "teaserTitle": "FLEET SAFETY: TRUCK INSPECTIONS SIDELINE 1100 DRIVERS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Cosco Shipping officially reopened container booking services through the Red Sea despite ongoing regional security concerns. The strategic shift reduces transit times between Asian ports and European distribution centers significantly."
+                "narration_line": "General Motors announced a strategic restructuring plan to sell its stake in an Indiana electric vehicle battery facility to Samsung. Procurement executives are establishing direct component supply agreements to maintain uninterrupted material flows."
             },
             {
                 "slide_index": 4,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
-                "teaserTitle": "INTERMODAL: VIRGINIA ADDS DIRECT CSX SERVICE",
+                "headline": "FLEET SAFETY: TRUCK INSPECTIONS SIDELINE 1100 DRIVERS",
+                "teaserTitle": "TRADE POLICY: MSC FINED OVER SAFETY CONCEALMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Industrial warehouse vacancy dropped to seven point three percent as demand outpaced new warehouse completion numbers nationwide. Lease rates across primary inland logistics hubs show strong pricing stability entering peak season."
+                "narration_line": "State and federal transportation safety officers sidelined over one thousand one hundred commercial drivers and vehicles during inspection sweeps. Fleet safety directors are mandating rigorous pre-trip inspection protocols to avoid detentions."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL: VIRGINIA ADDS DIRECT CSX SERVICE",
-                "teaserTitle": "LOGISTICS FINANCE: RETAILERS SELL TARIFF REFUNDS",
+                "headline": "TRADE POLICY: MSC FINED OVER SAFETY CONCEALMENT",
+                "teaserTitle": "SECURITY: HOUTHI ATTACK IN BAB AL-MANDEB",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Port of Virginia introduced direct intermodal rail service to Indianapolis connecting ocean terminals to Midwest markets. Containerized freight bypasses Chicago rail interchange congestion to deliver faster transit performance."
+                "narration_line": "Maritime regulators slapped a six million dollar financial penalty on MSC Shipmanagement for concealing critical engine-control defects. The vessel operator was placed on four years of formal probation following the investigation."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS FINANCE: RETAILERS SELL TARIFF REFUNDS",
-                "teaserTitle": "FLEET SAFETY: FMCSA ENFORCES ENGLISH PROFICIENCY",
+                "headline": "SECURITY: HOUTHI ATTACK IN BAB AL-MANDEB",
+                "teaserTitle": "ENERGY LOGISTICS: CRUDE SWITCHING OUTSIDE HORMUZ",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Retailers are selling pending trade duty refund claims to financial institutions to generate immediate working capital liquidity. Custom authorities have processed over one hundred billion dollars in total duty refunds to date."
+                "narration_line": "Militant forces launched ballistic missile strikes against a commercial cargo ship in the Bab al-Mandab Strait, causing six fatalities. Global container lines are re-evaluating vessel routing strategies and emergency escort protocols."
             },
             {
                 "slide_index": 7,
-                "headline": "FLEET SAFETY: FMCSA ENFORCES ENGLISH PROFICIENCY",
+                "headline": "ENERGY LOGISTICS: CRUDE SWITCHING OUTSIDE HORMUZ",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Federal motor carrier regulators proposed strict rule updates targeting driver English language proficiency across interstate fleets. Roadside inspections are intensifying to eliminate non-compliant drivers from commercial highway operations."
+                "narration_line": "Energy shipping analysts report an accelerating volume of crude oil cargo transfers occurring outside the Strait of Hormuz. Refiners are adjusting feedstock procurement schedules to account for extended maritime transit times."
             },
             {
                 "slide_index": 8,

@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR EXPANDS SECTION 301",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR initiates expanded Section 301 tariffs across sixty trading partners following Section 122 expiration, compounding cross-border customs risk for global supply chains."
+        "titleWhite": "TYPHOON DOLPHIN CRIPPLES",
+        "titleBlue": "NINGBO",
+        "footerSummary": "Typhoon Dolphin unleashes severe coastal flooding across eastern China, trapping two point four million TEUs of containership capacity and disrupting regional supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: USTR EXPANDS SECTION 301 TARIFFS",
+            "heading": "PORT OPERATIONS: TYPHOON DOLPHIN CRIPPLES NINGBO",
             "points": [
-                "The Office of the United States Trade Representative formally announced the implementation of expanded tariffs targeting sixty trading nations under Section 301 of the Trade Act of 1974. The regulatory action coincides directly with the statutory expiration of temporary Section 122 emergency tariff measures.",
-                "Customs compliance teams must re-classify global import manifests to account for forced labor enforcement criteria and updated tariff schedules. Importers face immediate cash-flow adjustments as duty liabilities escalate across multi-region trade lanes.",
-                "Trade policy analysts emphasize that targeted enforcement will focus heavily on high-risk manufacturing hubs and complex intermediate transit routes. Customs brokers are adjusting automated clearance software to prevent unexpected cargo holds at major ocean gateways.",
-                "Supply chain directors are auditing tier-two and tier-three supplier networks to ensure strict compliance with federal origin tracking mandates. Logistics strategists expect accelerated supply chain diversification toward non-impacted manufacturing jurisdictions."
+                "Typhoon Dolphin made landfall near Ningbo, delivering torrential rainfall and extensive coastal flooding across primary manufacturing and export hubs in eastern China.",
+                "Port authorities report that approximately two point four million TEUs of containership capacity are currently anchored or delayed outside major Chinese terminal gates.",
+                "Terminal operators have temporarily suspended vessel loading operations and gate movements to safeguard terminal infrastructure and landside logistics equipment.",
+                "Supply chain analysts project multi-day vessel berthing delays that will cascade across global transpacific and Asia-Europe maritime container service loops."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFFS: TRUMP LEVIES POLYSILICON IMPORT DUTIES",
+            "nextUpTease": "OCEAN FREIGHT: ASIA TO US EAST COAST RATES PEAK",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
-                "Published: 2026-08-11T19:00:00Z",
+                "Source: https://theloadstar.com/tropical-storms-bring-congestion-and-cargo-backlogs-at-asian-ports/",
+                "Published: 2026-08-11T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TARIFFS: TRUMP LEVIES POLYSILICON IMPORT DUTIES",
+            "heading": "OCEAN FREIGHT: ASIA TO US EAST COAST RATES PEAK",
             "points": [
-                "The White House issued an executive presidential proclamation imposing a fifteen percent tariff alongside a strict import price floor on all imported polysilicon products. The regulatory action specifically targets materials vital for semiconductor manufacturing and solar energy component production.",
-                "The new trade restriction is scheduled to officially take effect on December 4, forcing technology manufacturers to recalibrate raw material procurement budgets. Importers are reviewing long-term supplier contracts to evaluate the direct landed-cost impact on finished electronic goods.",
-                "Domestic solar and semiconductor producers anticipate near-term cost pressures while regional domestic production capacity continues to scale up. Sourcing teams are evaluating alternative international suppliers operating outside targeted export zones.",
-                "Enterprise procurement managers are establishing contingency buffer stocks ahead of the December enforcement deadline to preserve profit margins. Risk analysts project potential price fluctuations across global high-tech assembly networks."
+                "Spot container freight rates for voyages moving from Asian manufacturing origins to the United States East Coast have surged to a new high of nine thousand four hundred dollars.",
+                "Accelerated cargo frontloading and constrained vessel capacity have intensified competition for scarce equipment among major beneficial cargo owners.",
+                "Carrier pricing desks are leveraging peak-season surcharges to capture premium margins amid robust import demand across core trade lanes.",
+                "Logistics procurement managers are adjusting transport budgets upward to secure guaranteed slot allocations on critical transpacific voyages."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: COSCO RESUMES RED SEA ROUTINGS",
+            "nextUpTease": "SUPPLY CHAIN: GM INVESTS IN BATTERY INDEPENDENCE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-15-percent-polysilicon-tariff-solar-chips/724102/",
-                "Published: 2026-08-11T20:30:00Z",
+                "Source: https://www.freightwaves.com/news/asia-us-east-coast-box-rate-hits-new-high-of-9400",
+                "Published: 2026-08-11T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OCEAN FREIGHT: COSCO RESUMES RED SEA ROUTINGS",
+            "heading": "SUPPLY CHAIN: GM INVESTS IN BATTERY INDEPENDENCE",
             "points": [
-                "State-owned ocean carrier Cosco Shipping has officially reopened booking channels for its dedicated Red Sea container services despite persistent regional security threats. The decision marks a significant tactical operational pivot within the global maritime container transport sector.",
-                "Rerouting container vessels through the Bab al-Mandab Strait significantly reduces transit days between Asian manufacturing ports and Mediterranean import terminals. Carrier executives expect improved vessel turnarounds and reduced bunker fuel consumption on selected eastbound express loops.",
-                "Maritime security advisors urge cargo owners to evaluate vessel escort arrangements and war-risk insurance premiums prior to booking transit capacity. Industry peers are monitoring Cosco's vessel deployments to gauge operational safety along active maritime corridors.",
-                "Logistics managers are re-evaluating inventory lead times for European retail clients seeking to bypass longer Cape of Good Hope transits. Freight forwarders are balancing reduced ocean transit time against potential maritime insurance surcharges."
+                "General Motors announced a major strategic restructuring initiative to sell its equity stake in its joint-venture Indiana electric vehicle battery facility to Samsung.",
+                "The transaction is designed to insulate automotive supply chains from localized manufacturing bottlenecks and optimize capital allocation across core operations.",
+                "Procurement executives are establishing direct component supply agreements to maintain uninterrupted raw material flows for domestic assembly plants.",
+                "Industry analysts note that traditional automakers are increasingly pivoting toward flexible component sourcing models to mitigate geopolitical risk."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
+            "nextUpTease": "FLEET SAFETY: TRUCKINSPECTIONS SIDELINE 1100 DRIVERS",
             "tags": [
-                "Source: https://theloadstar.com/cosco-returns-to-red-sea-sailings-despite-threats-from-houthis/",
-                "Published: 2026-08-11T16:15:00Z",
+                "Source: https://www.ttnews.com/articles/gm-to-sell-stake-in-indiana-ev-battery-venture-to-samsung",
+                "Published: 2026-08-11T12:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
+            "heading": "FLEET SAFETY: TRUCK INSPECTIONS SIDELINE 1100 DRIVERS",
             "points": [
-                "Commercial real estate services firm Colliers released quarterly market metrics demonstrating that the national industrial warehouse vacancy rate fell seven basis points sequentially to seven point three percent. Commercial warehouse absorption officially outpaced new industrial warehouse delivery construction across major logistics hubs.",
-                "The stabilization of industrial real estate indicates renewed enterprise confidence and expanding distribution requirements among third-party logistics providers. Lease rates across primary inland port markets are demonstrating renewed pricing stability following quarters of oversupply.",
-                "Warehouse developers are adjusting construction pipelines to align new warehouse completions with steady regional retail and manufacturing demand. Logistics operators are prioritizing build-to-suit logistics facilities equipped with advanced automation infrastructure.",
-                "Supply chain network planners are securing secondary distribution space to support expanded peak-season inventory storage strategies. Industrial real estate investors expect sustained capital deployment across key cross-border logistics corridors."
+                "State and federal transportation safety officers executed coordinated roadside inspection sweeps that resulted in the immediate out-of-service disqualification of more than one thousand one hundred drivers and commercial vehicles.",
+                "Enforcement operations focused heavily on mechanical safety violations, brake system deficiencies, and commercial driver credential compliance across major freight corridors.",
+                "Motor carriers with substandard safety ratings face increased audit scrutiny and rising liability insurance premiums following the multi-state enforcement action.",
+                "Fleet safety directors are mandating rigorous pre-trip inspection protocols to prevent costly roadside detentions and protect enterprise safety compliance scores."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: VIRGINIA ADDS DIRECT CSX SERVICE",
+            "nextUpTease": "TRADE POLICY: MSC FINED OVER SAFETY CONCEALMENT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance_as_demand_outpaces_new_supply",
-                "Published: 2026-08-11T15:45:00Z",
+                "Source: https://www.freightwaves.com/news/indiana-truck-inspections-sideline-more-than-1100-drivers-and-vehicles",
+                "Published: 2026-08-11T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INTERMODAL: VIRGINIA ADDS DIRECT CSX SERVICE",
+            "heading": "TRADE POLICY: MSC FINED OVER SAFETY CONCEALMENT",
             "points": [
-                "The Port of Virginia launched a new direct CSX intermodal rail service linking deepwater marine terminals directly to Midwestern industrial markets in Indianapolis. The rail corridor enables containerized import freight to bypass historical rail interchange congestion points surrounding Chicago.",
-                "Midwestern importers gain accelerated inland transit times and reduced drayage expenses by eliminating highway trucking legs from northern rail ramps. The service expansion strengthens Virginia's competitive position among East Coast container gateways.",
-                "Rail road network operators are optimizing double-stack container train schedules to maintain high velocity along the newly established rail corridor. Shippers are re-routing Midwest-bound retail cargo to leverage reliable intermodal rail connections.",
-                "Logistics directors expect improved supply chain predictability and reduced carbon emissions across inland freight distribution channels. Supply chain strategists are assessing regional distribution center placements near the new Indianapolis rail terminal."
+                "Federal maritime regulators and judicial authorities issued a six million dollar financial penalty against MSC Shipmanagement following an exhaustive investigation into a runaway containership incident.",
+                "The vessel operator was placed on four years of formal probation after admitting to concealing critical engine-control defects aboard the MSC Michigan VII.",
+                "Maritime compliance officers emphasize that failure to report mechanical malfunctions immediately compromises navigational safety along congested coastal shipping lanes.",
+                "Global vessel operators are reviewing internal compliance reporting frameworks to ensure strict adherence to international maritime safety mandates."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS FINANCE: RETAILERS SELL TARIFF REFUNDS",
+            "nextUpTease": "SECURITY: HOUHTI ATTACK IN BAB AL-MANDEB",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-intermodal-rail-service-indianapolis/724080/",
-                "Published: 2026-08-11T14:10:00Z",
+                "Source: https://splash247.com/msc-fined-6m-over-charleston-runaway-probe/",
+                "Published: 2026-08-11T15:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LOGISTICS FINANCE: RETAILERS SELL TARIFF REFUNDS",
+            "heading": "SECURITY: HOUTHI ATTACK IN BAB AL-MANDEB",
             "points": [
-                "A robust secondary financial market has emerged allowing major retail corporations to monetize pending trade duty refund claims following extensive federal customs payouts. Retailers are selling rights to potential tariff refunds to specialized financial institutions to unlock immediate working capital.",
-                "The secondary market growth follows official data confirming United States Customs and Border Protection has disbursed over one hundred billion dollars in tariff refunds. Corporate treasurers are leveraging claim sales to strengthen balance sheets without waiting for lengthy legal liquidations.",
-                "Financial intermediaries are structuring duty refund acquisition portfolios using specialized legal risk assessment algorithms. The market mechanism provides immediate liquidity to consumer brand importers managing elevated inventory holding costs.",
-                "Corporate financial officers are integrating trade claim monetization into standard enterprise working capital management strategies. Legal experts advise shippers to maintain precise customs documentation to ensure clear transferability of refund rights."
+                "Militant forces launched a series of ballistic missile strikes against a commercial cargo ship transiting the Bab al-Mandab Strait, resulting in six fatalities.",
+                "The tragic incident marks the first deadly attack on commercial maritime shipping personnel in the critical regional trade corridor in over a year.",
+                "Global container lines and maritime security advisors are re-evaluating vessel routing strategies and emergency escort protocols for voyages entering the Red Sea.",
+                "Cargo owners are factoring extended transit lead times and elevated war-risk insurance surcharges into long-term logistics cost projections."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET SAFETY: FMCSA ENFORCES ENGLISH PROFICIENCY",
+            "nextUpTease": "ENERGY LOGISTICS: CRUDE SWITCHING OUTSIDE HORMUZ",
             "tags": [
-                "Source: https://www.retaildive.com/news/retailers-monetize-tariff-refunds-secondary-market/724095/",
-                "Published: 2026-08-11T13:25:00Z",
+                "Source: https://www.supplychainbrain.com/articles/houthi-strike-in-bab-al-mandab-strait-kills-six",
+                "Published: 2026-08-11T17:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FLEET SAFETY: FMCSA ENFORCES ENGLISH PROFICIENCY",
+            "heading": "ENERGY LOGISTICS: CRUDE SWITCHING OUTSIDE HORMUZ",
             "points": [
-                "The Federal Motor Carrier Safety Administration proposed a formal rulemaking initiative designed to strictly enforce driver English language proficiency standards across interstate commercial fleets. The regulatory push follows recent roadside enforcement operations that sidelined non-compliant commercial motor vehicle drivers.",
-                "State transportation safety officers are escalating compliance audits during weigh station inspections to verify commercial driver qualification credentials. Non-compliant motor carriers face heightened safety risk scores and potential out-of-service driver orders.",
-                "Safety directors across enterprise trucking companies are implementing mandatory language assessment protocols during driver onboarding cycles. Fleet managers are updating driver compliance records to prevent costly driver detentions along major freight corridors.",
-                "Logistics executives anticipate potential localized driver capacity constraints as compliance enforcement intensifies nationwide. Risk management teams are prioritizing fleet driver compliance to safeguard carrier safety ratings."
+                "Energy shipping analysts report an accelerating volume of crude oil cargo transfers occurring outside the strategic Strait of Hormuz via dark transit operations.",
+                "Persistent geopolitical tensions and security apprehensions have compelled tanker operators to adopt covert tracking methods to maintain global petroleum supply flows.",
+                "Refiners and commodity traders are adjusting feedstock procurement schedules to account for extended maritime transit times and fluctuating spot freight rates.",
+                "Global supply chain planners expect continued fuel price volatility and logistical friction across international energy distribution networks through the coming year."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com/news/after-sidelining-26000-truck-drivers-fmcsa-seeks-to-lock-in-english-rules",
-                "Published: 2026-08-11T11:50:00Z",
+                "Source: https://www.ttnews.com/articles/oil-cargo-switching-outside-hormuz-indicates-dark-transits",
+                "Published: 2026-08-11T19:30:00Z",
                 "Status: Audited & True"
             ]
         }
