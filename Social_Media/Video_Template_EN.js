@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR ADVANCES FORCED LABOR TARIFFS ACROSS GLOBAL TRADE PARTNERS",
+        "hookTitle": "ASIA-US EAST COAST BOX RATE HITS NEW HIGH OF $9,400",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: HOUTHI MISSILE STRIKE",
+                "headline": "MARITIME: ASIA-US EAST COAST BOX RATE HITS NEW HIGH OF $9,400",
+                "teaserTitle": "TRADE POLICY: US IMPORTS RISE 4.5% IN JULY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Office of the United States Trade Representative is advancing Section three oh one tariffs across sixty nations. Importers face rigorous documentation mandates to verify supply chain origin compliance."
+                "narration_line": "Transpacific container spot rates have surged to a new benchmark of nine thousand four hundred dollars per FEU for Asia to United States East Coast routing. Strong cargo volume demand and ongoing vessel routing inefficiencies continue to strain ocean carrier capacity loops."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HOUTHI MISSILE STRIKE",
-                "teaserTitle": "LOGISTICS: US IMPORTS RESILIENCE",
+                "headline": "TRADE POLICY: US IMPORTS RISE 4.5% IN JULY",
+                "teaserTitle": "PARCEL FREIGHT: UPS TEAMSTERS 2028 SHOWDOWN",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Houthi forces struck a commercial cargo vessel in the Bab al Mandab Strait resulting in six fatalities. Container lines are urgently rerouting vessels away from high risk zones."
+                "narration_line": "United States containerized imports rose four point five percent in July according to Descartes data, driven by steady consumer demand. Cargo originating from China reached substantial volumes as retailers continued frontloading merchandise ahead of tariff deadlines."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: US IMPORTS RESILIENCE",
-                "teaserTitle": "AUTOMATION: ROBOT ORDER GROWTH",
+                "headline": "PARCEL FREIGHT: UPS TEAMSTERS 2028 SHOWDOWN",
+                "teaserTitle": "REGULATION: TRUMP EXTENDS JONES ACT WAIVER",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "United States container imports increased four point five percent in July despite macroeconomic headwinds. Retailers aggressively frontloaded inventory ahead of peak shipping season."
+                "narration_line": "Industry analysts warn that an impending UPS and Teamsters negotiation showdown in twenty twenty eight could trigger a parcel market tsunami. Carriers and shippers are already analyzing contingency frameworks to protect domestic parcel delivery networks."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTOMATION: ROBOT ORDER GROWTH",
-                "teaserTitle": "REGULATION: FMC DETENTION DECISION",
+                "headline": "REGULATION: TRUMP EXTENDS JONES ACT WAIVER",
+                "teaserTitle": "ENERGY: OIL DISRUPTIONS ESTIMATED THROUGH 2027",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "North American industrial robot orders posted strong growth during the second quarter. Fulfillment providers are accelerating capital deployment into advanced picking systems."
+                "narration_line": "The White House approved another extension of the Jones Act waiver, maintaining modified cabotage rules for domestic shipping. Energy market analysts estimate the direct operational effect of the waiver extension at pennies per gallon for fuel transport."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: FMC DETENTION DECISION",
-                "teaserTitle": "AVIATION: AIR CARGO SURGE",
+                "headline": "ENERGY: OIL DISRUPTIONS ESTIMATED THROUGH 2027",
+                "teaserTitle": "AUTOMOTIVE: GM REACHES $4.5B PARTS DEAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The federal appeals court upheld a ruling requiring demurrage fees to promote freight fluidity. Ocean carriers face strict oversight regarding penalty invoice transparency."
+                "narration_line": "Energy logistics experts project that ongoing geopolitical conflicts and maritime security risks will disrupt oil supplies through twenty twenty seven. Global freight operators face persistent upward pressure on bunker fuel prices as transit lanes remain restricted."
             },
             {
                 "slide_index": 6,
-                "headline": "AVIATION: AIR CARGO SURGE",
-                "teaserTitle": "TRUCKING: CONTRACT RATES REBOUND",
+                "headline": "AUTOMOTIVE: GM REACHES $4.5B PARTS DEAL",
+                "teaserTitle": "TECHNOLOGY: ALVYS OPENS FREIGHT AI AGENTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Cathay Cargo reported strong first half financial performance amid shifting global trade routes. Air freight operators are capturing high yield volume bypassing maritime chokepoints."
+                "narration_line": "General Motors finalized a massive parts procurement agreement valued at up to four point five billion dollars to insulate its supply chain. The strategic sourcing arrangement is designed to prevent component shortages and mitigate automotive manufacturing bottlenecks."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING: CONTRACT RATES REBOUND",
+                "headline": "TECHNOLOGY: ALVYS OPENS FREIGHT AI AGENTS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Trucking contract rates posted a record operational rebound as available linehaul capacity tightened. Shippers are actively utilizing mini bids to secure reliable transport."
+                "narration_line": "Alvys announced the commercial rollout of its specialized freight artificial intelligence agents to motor carrier fleets of all sizes. The automation platform is engineered to streamline dispatching, load matching, and administrative documentation workflows."
             },
             {
                 "slide_index": 8,
