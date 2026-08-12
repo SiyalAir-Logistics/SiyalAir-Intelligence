@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SHIPBUILDING: WAN HAI ORDERS BOXSHIPS",
-                "teaserTitle": "AUTO HAULING: PROFICIENT BUYS HANSEN ADKINS",
-                "visual_caption": "Wan Hai Lines contracted 8 containerships worth up to $980M from Shanghai Waigaoqiao Shipbuilding. The Taiwanese carrier aims to strengthen fleet capacity across transpacific trade corridors."
+                "headline": "TARIFFS: USTR ENFORCES FORCED LABOR DUTIES",
+                "teaserTitle": "PANAMA CANAL: AUCTION PRICES SOAR HIGH",
+                "visual_caption": "The USTR is advancing Section 301 tariffs targeting 60 trading partners. Importers now face mandatory customs documentation and forced labor verification checks."
             },
             {
                 "slide_index": 2,
-                "headline": "AUTO HAULING: PROFICIENT BUYS HANSEN ADKINS",
-                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
-                "visual_caption": "Proficient Auto Logistics signed a definitive agreement to acquire Hansen & Adkins for $130M. The transaction creates the largest auto hauling motor carrier in North America."
+                "headline": "PANAMA CANAL: AUCTION PRICES SOAR HIGH",
+                "teaserTitle": "INLAND WATERWAYS: RHINE BARGE SURCHARGES SPIKE",
+                "visual_caption": "Panama Canal transit auction prices reached record levels as backlog queues surged to 113 ships. Falling water levels are forcing draft restrictions and lowering cargo capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
-                "teaserTitle": "RED SEA MARITIME: COSCO RESUMES SAILINGS",
-                "visual_caption": "CEVA Logistics suffered an extensive cybersecurity breach across its European warehouse infrastructure, impacting multiple BCOs. Operational teams activated manual fallback protocols while forensic reviews assess data exposure."
+                "headline": "INLAND WATERWAYS: RHINE BARGE SURCHARGES SPIKE",
+                "teaserTitle": "TRUCKING LAW: CONGRESS TARGETS LAWSUIT ABUSE",
+                "visual_caption": "Barge operators implemented steep freight surcharges across the Rhine River due to critically low water levels. Disrupted inland navigation is causing cargo congestion at Rotterdam and Antwerp ports."
             },
             {
                 "slide_index": 4,
-                "headline": "RED SEA MARITIME: COSCO RESUMES SAILINGS",
-                "teaserTitle": "FUEL MARKETS: AUGUST DIESEL PRICES SURGE",
-                "visual_caption": "China Cosco Shipping resumed direct bookings for commercial container sailings through the Red Sea despite ongoing threats. Ocean carriers continue reevaluating risk exposure along critical Middle East transit corridors."
+                "headline": "TRUCKING LAW: CONGRESS TARGETS LAWSUIT ABUSE",
+                "teaserTitle": "EU PACKAGING: GREEN STANDARDS TAKE EFFECT",
+                "visual_caption": "Lawmakers introduced federal legislation establishing national safety standards to limit nuclear verdicts against motor carriers. The proposed bill aims to standardize litigation disclosures in commercial trucking disputes."
             },
             {
                 "slide_index": 5,
-                "headline": "FUEL MARKETS: AUGUST DIESEL PRICES SURGE",
-                "teaserTitle": "AEROSPACE LOGISTICS: BOEING SELLS WISK DRONE",
-                "visual_caption": "US retail diesel prices climbed to $5.40 per gallon, marking record highs for mid-August 2026. Escalating crude oil supply deficits continue pushing fuel surcharges higher for commercial motor carriers."
+                "headline": "EU PACKAGING: GREEN STANDARDS TAKE EFFECT",
+                "teaserTitle": "AIR FREIGHT: EU TAX REFORM CUTS VOLUMES",
+                "visual_caption": "The EU has activated updated sustainable packaging rules across international supply chains. Exporters shipping into Europe must comply with strict waste reduction targets and recycled material content minimums."
             },
             {
                 "slide_index": 6,
-                "headline": "AEROSPACE LOGISTICS: BOEING SELLS WISK DRONE",
-                "teaserTitle": "RAIL REGULATION: COURT REJECTS CREW MANDATE",
-                "visual_caption": "Boeing agreed to divest its Wisk autonomous flying taxi and commercial drone divisions to Archer Aviation. The strategic asset transfer allows Boeing to streamline capital allocation toward core aerospace production targets."
+                "headline": "AIR FREIGHT: EU TAX REFORM CUTS VOLUMES",
+                "teaserTitle": "REAL ESTATE: LOGISTICS VACANCY STABILIZES",
+                "visual_caption": "European air cargo rates and volume slumped following the complete removal of the de minimis tax exemption. E-commerce sellers are adjusting shipping models to manage new customs duty requirements."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL REGULATION: COURT REJECTS CREW MANDATE",
+                "headline": "REAL ESTATE: LOGISTICS VACANCY STABILIZES",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "A federal appeals court overturned the FRA mandate requiring 2-person train crews on Class I railroads. Rail operators gain increased operational flexibility to deploy automated safety technology."
+                "visual_caption": "Industrial real estate vacancy fell 7 basis points in Q2 to 7.3%. Strong leasing demand outpaced new warehouse supply across major logistics distribution hubs."
             },
             {
                 "slide_index": 8,

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "WAN HAI COMMITS $980M FOR 8 NEW CONTAINERSHIPS",
+        "hookTitle": "USTR ENFORCES FORCED LABOR DUTIES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SHIPBUILDING: WAN HAI ORDERS BOXSHIPS",
-                "teaserTitle": "AUTO HAULING: PROFICIENT BUYS HANSEN ADKINS",
+                "headline": "TARIFFS: USTR ENFORCES FORCED LABOR DUTIES",
+                "teaserTitle": "PANAMA CANAL: AUCTION PRICES SOAR HIGH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Wan Hai Lines has contracted eight containerships worth up to nine hundred eighty million dollars from Shanghai Waigaoqiao Shipbuilding. The Taiwanese carrier aims to strengthen fleet capacity across transpacific trade corridors."
+                "narration_line": "The United States Trade Representative is advancing Section three oh one tariffs targeting sixty trading partners. Importers now face mandatory customs documentation and forced labor verification checks."
             },
             {
                 "slide_index": 2,
-                "headline": "AUTO HAULING: PROFICIENT BUYS HANSEN ADKINS",
-                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
+                "headline": "PANAMA CANAL: AUCTION PRICES SOAR HIGH",
+                "teaserTitle": "INLAND WATERWAYS: RHINE BARGE SURCHARGES SPIKE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Proficient Auto Logistics signed a definitive agreement to acquire Hansen and Adkins for one hundred thirty million dollars. The transaction creates the largest auto hauling motor carrier in North America."
+                "narration_line": "Panama Canal transit auction prices reached record levels as backlog queues surged to one hundred and thirteen ships. Falling water levels are forcing draft restrictions and lowering cargo capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
-                "teaserTitle": "RED SEA MARITIME: COSCO RESUMES SAILINGS",
+                "headline": "INLAND WATERWAYS: RHINE BARGE SURCHARGES SPIKE",
+                "teaserTitle": "TRUCKING LAW: CONGRESS TARGETS LAWSUIT ABUSE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "CEVA Logistics suffered an extensive cyber security breach across its European warehouse infrastructure, impacting multiple enterprise customers. Operational teams activated manual fallback protocols while forensic reviews assess data exposure."
+                "narration_line": "Barge operators implemented steep freight surcharges across the Rhine River due to critically low water levels. Disrupted inland navigation is causing cargo congestion at Rotterdam and Antwerp ports."
             },
             {
                 "slide_index": 4,
-                "headline": "RED SEA MARITIME: COSCO RESUMES SAILINGS",
-                "teaserTitle": "FUEL MARKETS: AUGUST DIESEL PRICES SURGE",
+                "headline": "TRUCKING LAW: CONGRESS TARGETS LAWSUIT ABUSE",
+                "teaserTitle": "EU PACKAGING: GREEN STANDARDS TAKE EFFECT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "China Cosco Shipping resumed direct bookings for commercial container sailings through the Red Sea despite ongoing maritime threats. Ocean carriers continue reevaluating risk exposure along critical Middle East transit corridors."
+                "narration_line": "Lawmakers introduced federal legislation establishing national safety standards to limit nuclear verdicts against motor carriers. The proposed bill aims to standardize litigation disclosures in commercial trucking disputes."
             },
             {
                 "slide_index": 5,
-                "headline": "FUEL MARKETS: AUGUST DIESEL PRICES SURGE",
-                "teaserTitle": "AEROSPACE LOGISTICS: BOEING SELLS WISK DRONE",
+                "headline": "EU PACKAGING: GREEN STANDARDS TAKE EFFECT",
+                "teaserTitle": "AIR FREIGHT: EU TAX REFORM CUTS VOLUMES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "United States retail diesel prices climbed to five dollars and forty cents per gallon, marking record highs for mid August. Escalating crude oil supply deficits continue pushing fuel surcharges higher for commercial fleets."
+                "narration_line": "The European Union has activated updated sustainable packaging rules across international supply chains. Exporters shipping into Europe must comply with strict waste reduction targets and recycled material content minimums."
             },
             {
                 "slide_index": 6,
-                "headline": "AEROSPACE LOGISTICS: BOEING SELLS WISK DRONE",
-                "teaserTitle": "RAIL REGULATION: COURT REJECTS CREW MANDATE",
+                "headline": "AIR FREIGHT: EU TAX REFORM CUTS VOLUMES",
+                "teaserTitle": "REAL ESTATE: LOGISTICS VACANCY STABILIZES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Boeing agreed to divest its Wisk autonomous flying taxi and commercial drone divisions to Archer Aviation. The strategic asset transfer allows Boeing to streamline capital allocation toward core aerospace production targets."
+                "narration_line": "European air cargo rates and volume slumped following the complete removal of the de minimis tax exemption. E-commerce sellers are adjusting shipping models to manage new customs duty requirements."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL REGULATION: COURT REJECTS CREW MANDATE",
+                "headline": "REAL ESTATE: LOGISTICS VACANCY STABILIZES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A federal appeals court overturned the Federal Railroad Administration mandate requiring two person train crews on Class One railroads. Carrier operators gain increased operational flexibility to deploy automated rail safety technology."
+                "narration_line": "Industrial real estate vacancy fell seven basis points in quarter two to seven point three percent. Strong leasing demand outpaced new warehouse supply across major logistics distribution hubs."
             },
             {
                 "slide_index": 8,

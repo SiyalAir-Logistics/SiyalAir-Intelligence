@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "WAN HAI ORDERS",
-        "titleBlue": "BOXSHIPS",
-        "footerSummary": "Wan Hai Lines commits $980M for 8 containerships at Shanghai Waigaoqiao, expanding carrier capacity amid transpacific freight volume shifts."
+        "titleWhite": "USTR ENFORCES FORCED LABOR",
+        "titleBlue": "DUTIES",
+        "footerSummary": "USTR advances Section 301 forced labor tariffs on 60 trading partners as Section 122 expires, escalating regulatory compliance risks for international trade."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SHIPBUILDING: WAN HAI ORDERS BOXSHIPS",
+            "heading": "TARIFFS: USTR ENFORCES FORCED LABOR DUTIES",
             "points": [
-                "Taiwanese ocean carrier Wan Hai Lines finalized contracts for 8 containerships valued at up to $980M with Shanghai Waigaoqiao Shipbuilding.",
-                "The order includes 1 9,200 TEU vessel and 7 11,000 TEU dual-fuel ready container vessels scheduled for multi-year fleet delivery schedules.",
-                "Strategic carrier fleet expansion comes as frontloaded transpacific container volumes push Asian export rates toward 2026 record highs.",
-                "Logistics planners expect expanded vessel capacity to mitigate long-term space constraints across major transpacific ocean shipping lanes."
+                "Office of the United States Trade Representative moves forward with Section 301 tariffs targeting 60 trading partners as Section 122 duties expire.",
+                "Regulatory enforcement strictly focuses on forced labor compliance across global manufacturing hubs and transshipment corridors.",
+                "Importers face heightened customs audits and mandatory supply chain documentation to verify compliance standards.",
+                "Corporate compliance teams must adjust duty mitigation strategies as federal trade policy enforcement accelerates."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTO HAULING: PROFICIENT BUYS HANSEN ADKINS",
+            "nextUpTease": "PANAMA CANAL: AUCTION PRICES SOAR HIGH",
             "tags": [
-                "Source: https://splash247.com/wan-hai-piles-on-boxship-orders-with-near-1bn-deal/",
-                "Published: 2026-08-12T08:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-12T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AUTO HAULING: PROFICIENT BUYS HANSEN ADKINS",
+            "heading": "PANAMA CANAL: AUCTION PRICES SOAR HIGH",
             "points": [
-                "Proficient Auto Logistics entered a definitive acquisition agreement to purchase car hauling competitor Hansen & Adkins Auto Transport for $130M.",
-                "The combined fleet entity will command over 1,100 specialized commercial auto hauling tractors operating across North American distribution routes.",
-                "Market consolidation strengthens carrier pricing power and terminal network coverage across major automotive assembly hubs and port import facilities.",
-                "Automotive supply chain managers anticipate revised freight routing structures and consolidated carrier contract negotiations in Q4 2026."
+                "Transit slot auction fees at the Panama Canal reached record highs as vessel queue backlogs expanded to 113 ships.",
+                "Declining lake water levels forced draft restrictions, limiting daily vessel transits and container payload capacity.",
+                "Diverted energy and container carriers face escalating operating surcharges and extended transit delays across major trade lanes.",
+                "Shippers evaluate alternative intermodal and routing strategies to avoid mounting bottleneck costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
+            "nextUpTease": "INLAND WATERWAYS: RHINE BARGE SURCHARGES SPIKE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/proficient-auto-logistics-hansen-adkins",
-                "Published: 2026-08-12T10:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-12T15:07:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
+            "heading": "INLAND WATERWAYS: RHINE BARGE SURCHARGES SPIKE",
             "points": [
-                "Third-party logistics provider CEVA Logistics suffered an IT systems breach affecting warehouse operations and client data systems across Europe.",
-                "Multiple global beneficial cargo owners experienced inventory visibility delays and temporary disruptions to automated fulfillment workflows.",
-                "Cybersecurity teams activated secondary security protocols to isolate compromised server networks and restore core transportation management systems.",
-                "Enterprise shippers are reviewing third-party data access permissions and implementing redundant supply chain tracking contingency plans."
+                "Waterway barge operators raised freight surcharges substantially along the Rhine River due to critical low water levels.",
+                "Reduced vessel draft capacity creates severe cargo backlog risks across Rotterdam and Antwerp port hinterlands.",
+                "European industrial manufacturers face disrupted raw material supply chains and higher inland transport expenses.",
+                "Freight forwarders are shifting urgent container volumes to rail and motor freight alternatives where available."
             ],
             "imageUrl": "",
-            "nextUpTease": "RED SEA MARITIME: COSCO RESUMES SAILINGS",
+            "nextUpTease": "TRUCKING LAW: CONGRESS TARGETS LAWSUIT ABUSE",
             "tags": [
-                "Source: https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-further-several-bcos-exposed/",
-                "Published: 2026-08-11T14:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RED SEA MARITIME: COSCO RESUMES SAILINGS",
+            "heading": "TRUCKING LAW: CONGRESS TARGETS LAWSUIT ABUSE",
             "points": [
-                "China COSCO Shipping reopened commercial cargo bookings for direct Red Sea feeder services despite active maritime security risks in Bab al-Mandab.",
-                "The carrier is deploying specialized tonnage to maintain direct trade connectivity between Asian export gateways and Middle Eastern discharge ports.",
-                "Ocean freight rates for Red Sea transit routes remain highly volatile due to escalating insurance surcharges and security escort requirements.",
-                "Importers are balancing direct transit time savings against heightened maritime cargo risk premiums when selecting carrier routing options."
+                "Lawmakers introduced federal legislation establishing national safety standards to limit nuclear verdicts against motor carriers.",
+                "Statutory provisions aim to standardize litigation disclosures and curb predatory legal practices in commercial trucking disputes.",
+                "Fleet operators face rising insurance premiums and legal exposure under currently fragmented state tort rules.",
+                "Industry leaders anticipate improved fleet operating stability if uniform liability safeguards pass federal approval."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL MARKETS: AUGUST DIESEL PRICES SURGE",
+            "nextUpTease": "EU PACKAGING: GREEN STANDARDS TAKE EFFECT",
             "tags": [
-                "Source: https://theloadstar.com/cosco-returns-to-red-sea-sailings-despite-threats-from-houthis/",
-                "Published: 2026-08-11T11:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-12T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FUEL MARKETS: AUGUST DIESEL PRICES SURGE",
+            "heading": "EU PACKAGING: GREEN STANDARDS TAKE EFFECT",
             "points": [
-                "US national average diesel fuel prices surged to $5.40 per gallon in the second week of August 2026, marking new seasonal highs.",
-                "Escalating Middle East military conflicts and crude oil supply deficits of 1.8M barrels per day are driving global energy market spikes.",
-                "Motor carriers are adjusting variable fuel surcharges, increasing net linehaul transport costs for motor freight shippers across major corridors.",
-                "Fleet operators face expanding operating expense pressure, forcing tighter route optimization and fuel efficiency compliance measures."
+                "European Union authorities activated updated sustainable packaging rules affecting cross-border supply chain operations.",
+                "Standardized guidelines enforce recycled material content minimums and strict waste reduction targets for logistics packaging.",
+                "Global exporters shipping into European markets must reconfigure fulfillment materials and compliance documentation.",
+                "Packaging manufacturers scale sustainable material production to meet mandatory regulatory deadlines across EU states."
             ],
             "imageUrl": "",
-            "nextUpTease": "AEROSPACE LOGISTICS: BOEING SELLS WISK DRONE",
+            "nextUpTease": "AIR FREIGHT: EU TAX REFORM CUTS VOLUMES",
             "tags": [
-                "Source: https://www.ttnews.com/articles/diesel-gasoline-prices-august-2026",
-                "Published: 2026-08-12T11:30:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-12T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AEROSPACE LOGISTICS: BOEING SELLS WISK DRONE",
+            "heading": "AIR FREIGHT: EU TAX REFORM CUTS VOLUMES",
             "points": [
-                "Boeing reached an agreement to sell its Wisk autonomous flying taxi and cargo drone technology units to eVTOL developer Archer Aviation.",
-                "The divestment allows Boeing to consolidate capital resources toward core commercial aircraft manufacturing and defense logistics production.",
-                "Archer expands its autonomous flight software intellectual property portfolio to accelerate middle-mile aerial freight platform testing.",
-                "Logistics providers monitor autonomous aerial cargo developments for localized express package movement and emergency medical logistics."
+                "European air cargo volumes and spot freight rates declined following the complete elimination of the de minimis tax exemption.",
+                "Customs duty mandates on low-value imports forced cross-border e-commerce sellers to restructure fulfillment models.",
+                "Air freight forwarders report shifting trade lane patterns as direct parcel shipments transition to consolidated freight.",
+                "Cargo carriers reallocate aircraft capacity to compensate for reduced small-package express transport demand."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL REGULATION: COURT REJECTS CREW MANDATE",
+            "nextUpTease": "REAL ESTATE: LOGISTICS VACANCY STABILIZES",
             "tags": [
-                "Source: https://www.ttnews.com/articles/boeing-sells-wisk-flying-taxi-archer",
-                "Published: 2026-08-11T15:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-12T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAIL REGULATION: COURT REJECTS CREW MANDATE",
+            "heading": "REAL ESTATE: LOGISTICS VACANCY STABILIZES",
             "points": [
-                "A federal appeals court upheld a legal challenge invalidating the Federal Railroad Administration rule mandating 2-person train crews.",
-                "The decision provides Class I railroads operational latitude to negotiate single-person crew deployments tied to advanced safety technology.",
-                "Rail carrier management cites enhanced capital investment in automated wayside detectors and positive train control systems as safety justification.",
-                "Rail shippers evaluate long-term operating cost impacts and labor contract stability across major North American intermodal rail networks."
+                "Industrial real estate vacancy dropped 7 basis points sequentially in Q2 to 7.3% as tenant absorption outpaced new supply.",
+                "Property developers slowed speculative construction starts, rebalancing inventory across primary logistics markets.",
+                "Warehouse operators maintain steady lease rates while prioritizing high-efficiency fulfillment facilities.",
+                "Enterprise shippers lock in strategic distribution space ahead of Q4 peak season inventory arrivals."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com/news/federal-court-upholds-challenge-to-fras-two-person-rail-crew-rule",
-                "Published: 2026-08-11T16:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-12T08:30:00Z",
                 "Status: Audited & True"
             ]
         }
