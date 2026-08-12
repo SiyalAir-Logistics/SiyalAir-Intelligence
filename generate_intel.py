@@ -207,8 +207,8 @@ def main():
             if not video_module_node:
                 video_module_node = parsed_payload.get("video_shorts_data", {"language": "EN", "video_shorts_data": parsed_payload})
 
-            # --- FILMORA NODE EXTRACTION & FALLBACKS ---
-            filmora_node = parsed_payload.get("filmora_module") or parsed_payload.get("filmora_data") or parsed_payload.get("filmora")
+            # --- FILMORA NODE EXTRACTION & FALLBACKS (UPDATED TO TARGET filmora_captions) ---
+            filmora_node = parsed_payload.get("filmora_captions") or parsed_payload.get("filmora_module") or parsed_payload.get("filmora_data") or parsed_payload.get("filmora")
             if not filmora_node:
                 filmora_node = parsed_payload.get("video_shorts_module", {"language": "EN", "captions": parsed_payload})
 
