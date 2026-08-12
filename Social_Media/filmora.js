@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR ENFORCES FORCED LABOR TARIFFS",
+        "hookTitle": "PENTAGON EXTENDS JONES ACT WAIVER",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: USTR ENFORCES FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: TYPHOON DOLPHIN ACCELERATES ASIAN PORT CONGESTION",
+                "headline": "FUEL LOGISTICS: PENTAGON EXTENDS JONES ACT WAIVER",
+                "teaserTitle": "AUTOMOTIVE LOGISTICS: MEXICAN HEAVY TRUCK PRODUCTION SOARS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative has implemented Section 301 tariffs on sixty trading nations. Importers face immediate duty escalations and heightened customs origin checks across key trade lanes."
+                "narration_line": "The United States Department of Defense issued a ninety day extension on the active Jones Act waiver. Energy shippers gain immediate flexibility to transport refined petroleum products along domestic coastal lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: TYPHOON DOLPHIN ACCELERATES ASIAN PORT CONGESTION",
-                "teaserTitle": "AUTOMOTIVE: GM SECURES BILLION MULTIYEAR PARTS DEAL",
+                "headline": "AUTOMOTIVE LOGISTICS: MEXICAN HEAVY TRUCK PRODUCTION SOARS",
+                "teaserTitle": "ENERGY LOGISTICS: US FORECASTS HORMUZ DISRUPTIONS THROUGH 2027",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Typhoon Dolphin has stranded over two point four million TEU of container vessel capacity off eastern China. Ocean carriers are preparing emergency schedule recovery plans to manage port congestion."
+                "narration_line": "Mexican heavy duty truck production surged fifty one point eight percent year over year in July. High assembly output is accelerating commercial vehicle exports across North American carrier networks."
             },
             {
                 "slide_index": 3,
-                "headline": "AUTOMOTIVE: GM SECURES BILLION MULTIYEAR PARTS DEAL",
-                "teaserTitle": "CONTAINER SHIPPING: US IMPORTS SURGE FOUR PERCENT",
+                "headline": "ENERGY LOGISTICS: US FORECASTS HORMUZ DISRUPTIONS THROUGH 2027",
+                "teaserTitle": "MARITIME REGULATION: MSC FINED SIX MILLION FOR CONCEALED DEFECTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "General Motors secured a supply agreement worth four point five billion dollars to protect vehicle assembly lines. The multiyear deal guarantees component delivery volumes and hedges against global supply chain disruptions."
+                "narration_line": "United States officials project commercial shipping disruptions across the Strait of Hormuz will extend through 2027. Extended maritime transit times around Africa continue elevating ocean freight charter rates."
             },
             {
                 "slide_index": 4,
-                "headline": "CONTAINER SHIPPING: US IMPORTS SURGE FOUR PERCENT",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES AT SEVEN PERCENT",
+                "headline": "MARITIME REGULATION: MSC FINED SIX MILLION FOR CONCEALED DEFECTS",
+                "teaserTitle": "FLEET ASSETS: STAR BULK CANCELS FOUR HUNDRED MILLION DEAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "United States container imports grew four point five percent in July driven by Chinese cargo shipments. Retailers are accelerating inventory imports to buffer against impending trade policy adjustments and tariffs."
+                "narration_line": "MSC Shipmanagement was ordered to pay a six million dollar fine for concealing hazardous engine defects. Federal regulators are increasing safety audits across ocean carrier container fleets."
             },
             {
                 "slide_index": 5,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES AT SEVEN PERCENT",
-                "teaserTitle": "E-COMMERCE: ETSY REDUCES WORKFORCE FOLLOWING DEPOP SALE",
+                "headline": "FLEET ASSETS: STAR BULK CANCELS FOUR HUNDRED MILLION DEAL",
+                "teaserTitle": "BATTERY SUPPLY: GM DIVESTS INDIANA BATTERY VENTURE STAKE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Industrial property vacancy rates declined to seven point three percent as leasing demand outpaced warehouse construction. Logistics operators are securing prime distribution space near major intermodal rail and port hubs."
+                "narration_line": "Star Bulk Carriers officially terminated a four hundred seventy million dollar fleet acquisition deal with Genco. The cancellation alters corporate consolidation plans across the global dry bulk shipping market."
             },
             {
                 "slide_index": 6,
-                "headline": "E-COMMERCE: ETSY REDUCES WORKFORCE FOLLOWING DEPOP SALE",
-                "teaserTitle": "FUEL LOGISTICS: NATIONAL DIESEL PRICES DROP NINE CENTS",
+                "headline": "BATTERY SUPPLY: GM DIVESTS INDIANA BATTERY VENTURE STAKE",
+                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS IT BREACH EXPOSES BCOS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Etsy announced two hundred employee layoffs following its one point four billion dollar sale of Depop to eBay. The platform is streamlining operational overhead to focus on core marketplace growth."
+                "narration_line": "General Motors sold its stake in an Indiana battery manufacturing joint venture directly to Samsung SDI. The divestment allows the automaker to optimize capital allocation across core vehicle operations."
             },
             {
                 "slide_index": 7,
-                "headline": "FUEL LOGISTICS: NATIONAL DIESEL PRICES DROP NINE CENTS",
+                "headline": "CYBERSECURITY: CEVA LOGISTICS IT BREACH EXPOSES BCOS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "National average diesel fuel prices fell nine cents to five dollars and twenty-six cents per gallon. Motor carriers gain immediate operational cost relief after five consecutive weeks of diesel increases."
+                "narration_line": "Ceva Logistics suffered a major cyber breach impacting warehouse management systems across European facilities. Shippers faced temporary tracking lapses as technical teams isolated affected network infrastructure."
             },
             {
                 "slide_index": 8,

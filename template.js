@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR ENFORCES FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR implements Section 301 tariffs on 60 nations, forcing global supply chains to immediately re-audit cross-border vendor compliance networks."
+        "titleWhite": "PENTAGON EXTENDS JONES ACT",
+        "titleBlue": "WAIVER",
+        "footerSummary": "Pentagon approves a ninety-day Jones Act waiver extension, restructuring fuel transportation compliance risks and coastwise freight routing strategies for refined product carriers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: USTR ENFORCES FORCED LABOR TARIFFS",
+            "heading": "FUEL LOGISTICS: PENTAGON EXTENDS JONES ACT WAIVER",
             "points": [
-                "The Office of the United States Trade Representative formally implemented Section 301 tariffs targeting sixty trading nations following the expiration of Section 122 emergency duties. The trade enforcement action establishes stringent forced-labor compliance protocols across international trade corridors.",
-                "Importers face immediate duty escalations and heightened customs scrutiny on cross-border shipments originating from non-compliant manufacturing regions. Compliance officers must conduct expedited supply chain origin audits to prevent port detentions.",
-                "Global sourcing networks are recalibrating procurement pathways away from restricted trade zones to mitigate tariff exposures and regulatory penalties. Corporate compliance frameworks are prioritizing real-time vendor verification tools to ensure seamless customs clearance.",
-                "Logistics executives anticipate potential transit delays as U.S. Customs intensifies documentation checks on high-risk commodity imports. Organizations are adjusting landing cost calculations to account for updated tariff schedules across key global routes."
+                "The United States Department of Defense in coordination with the Department of Transportation issued a ninety-day extension on the active Jones Act waiver. The regulatory relief measure permits foreign-flagged tankers to temporarily transport refined petroleum products between domestic port terminals.",
+                "Energy shippers gain immediate operational flexibility to re-route coastal fuel shipments along Eastern Seaboard transit lanes during current refinery maintenance cycles. The extension prevents localized supply shortages and stabilizes short-term coastwise shipping freight rates.",
+                "Domestic maritime trade associations continue to voice strong opposition to sustained cabotage exemptions, citing competitive disadvantages for American-flagged vessel operators. Federal maritime officials confirmed that future voyage exemptions will undergo rigorous case-by-case review protocols.",
+                "Supply chain managers are leveraging the temporary waiver window to realign bulk fuel distribution schedules ahead of autumn seasonal demand shifts. Fleet managers anticipate closer regulatory scrutiny on coastwise cargo manifests as the extended compliance deadline approaches."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: TYPHOON DOLPHIN ACCELERATES ASIAN PORT CONGESTION",
+            "nextUpTease": "AUTOMOTIVE LOGISTICS: MEXICAN HEAVY TRUCK PRODUCTION SOARS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
-                "Published: 2026-08-11T16:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/white_house_issues_new_jones_act_extension_waiver",
+                "Published: 2026-08-11T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: TYPHOON DOLPHIN ACCELERATES ASIAN PORT CONGESTION",
+            "heading": "AUTOMOTIVE LOGISTICS: MEXICAN HEAVY TRUCK PRODUCTION SOARS",
             "points": [
-                "Typhoon Dolphin made landfall near Ningbo, severely disrupting vessel operations and creating widespread maritime congestion across East Asian container hubs. Over two point four million TEU of containership capacity is currently stranded at anchor off key Chinese ports.",
-                "Terminal operations at major ocean gateways face severe berth delays and container yard backlog escalation as vessel schedules slip. Ocean carriers are issuing emergency schedule recovery plans to rebalance global container fleet deployments.",
-                "Port closures across Ningbo and Shanghai are cascading into transpacific and Asia-Europe shipping schedules, straining downstream port arrival windows. Freight forwarders are advising cargo owners to brace for extended dwell times and potential blank sailings.",
-                "Supply chain managers are adjusting inventory safety buffers to absorb arriving vessel delays across West Coast and European receiving terminals. The weather disruption threatens to elevate short-term spot container rates along major trade lanes."
+                "Mexican heavy-duty truck manufacturing accelerated significantly in July, surging fifty-one point eight percent year-over-year to reach fourteen thousand six hundred seventy-five units. Production figures released by industrial trade groups highlight robust assembly plant output across cross-border manufacturing corridors.",
+                "Export volumes expanded in parallel as commercial vehicle assembly facilities increased shipments bound for North American freight fleets. The surge in production reflects sustained demand for Class Eight tractor upgrades across enterprise carrier logistics networks.",
+                "Nearshoring capital investments across northern Mexico industrial parks continue to drive localized manufacturing capacity expansions and supplier co-location. Cross-border freight haulers are expanding drayage capacity at key border crossings including Laredo and El Paso.",
+                "Fleet operators expect increased commercial vehicle availability to alleviate long-standing equipment replacement backlogs throughout late 2026. Logistics planners are monitoring cross-border customs processing times to ensure seamless delivery of assembled units."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE: GM SECURES BILLION MULTIYEAR PARTS DEAL",
+            "nextUpTease": "ENERGY LOGISTICS: US FORECASTS HORMUZ DISRUPTIONS THROUGH 2027",
             "tags": [
-                "Source: https://theloadstar.com/tropical-storms-bring-congestion-and-cargo-backlogs-at-asian-ports/",
-                "Published: 2026-08-11T15:30:00Z",
+                "Source: https://www.ttnews.com/articles/mexico-truck-production-july-2026",
+                "Published: 2026-08-11T17:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AUTOMOTIVE: GM SECURES BILLION MULTIYEAR PARTS DEAL",
+            "heading": "ENERGY LOGISTICS: US FORECASTS HORMUZ DISRUPTIONS THROUGH 2027",
             "points": [
-                "General Motors signed a definitive supply agreement valued at up to four point five billion dollars to secure critical automotive parts and components. The multiyear deal is structured to insulate assembly line operations from potential global supply chain disruptions.",
-                "The contractual commitment establishes long-term component pricing floors and guaranteed delivery volumes across domestic manufacturing networks. Auto assembly plants gain critical operational stability against unexpected tier-one supplier bottlenecks.",
-                "Automotive manufacturers are increasingly prioritizing direct multi-billion dollar supplier agreements to hedge against material volatility and geopolitical trade friction. Procurement teams are structuring dual-sourcing strategies to bolster assembly line resilience.",
-                "The capital commitment underscores a broader automotive industry trend toward deep supply chain integration and direct component risk management. Logistics planners are aligning carrier freight networks to support expanded tier-one delivery schedules."
+                "United States energy intelligence agencies warned that commercial maritime transit disruptions across the Strait of Hormuz will likely persist through late 2027. Ongoing regional conflicts continue to compromise international shipping corridors and inflate global maritime insurance premiums.",
+                "Crude oil benchmark prices experienced sharp volatility following reports of dark tanker transits and vessel cargo switching outside the strait. Shippers operating along Middle East trade lanes are implementing contingency rerouting plans around the Cape of Good Hope.",
+                "Extended maritime transit times are absorbing global tanker capacity and pushing spot charter rates significantly higher across key energy trade lanes. Energy buyers are securing longer-term supply contracts to hedge against persistent price spikes and supply disruptions.",
+                "Global supply chain planners are adjusting inventory buffer strategies to mitigate potential fuel supply delays and rising bunker surcharges. Logistics executives are prioritizing real-time maritime tracking software to manage heightened maritime geopolitical risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINER SHIPPING: US IMPORTS SURGE FOUR PERCENT",
+            "nextUpTease": "MARITIME REGULATION: MSC FINED SIX MILLION FOR CONCEALED DEFECTS",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/11/gm-reaches-4point5-billion-parts-deal.html",
-                "Published: 2026-08-11T17:00:00Z",
+                "Source: https://www.supplychainbrain.com/articles/us-sees-iran-war-oil-supply-disruptions",
+                "Published: 2026-08-11T16:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CONTAINER SHIPPING: US IMPORTS SURGE FOUR PERCENT",
+            "heading": "MARITIME REGULATION: MSC FINED SIX MILLION FOR CONCEALED DEFECTS",
             "points": [
-                "U.S. container import volumes expanded four point five percent in July according to the latest maritime trade tracking data from Descartes. Cargo inflows originating from China drove the bulk of the growth despite ongoing trade policy volatility and tariff adjustments.",
-                "Heightened import volumes reflect accelerated inventory frontloading by domestic retailers seeking to buffer against potential duty rate increases. Container ocean gateways along the U.S. West Coast handled elevated throughput throughout the monthly operational cycle.",
-                "Persistent import demand is keeping ocean carrier vessel utilization rates near maximum capacity across main transpacific shipping routes. Freight rates remain firm as shippers compete for available equipment and vessel space ahead of peak retail shipping cycles.",
-                "Logistics planners are monitoring port dwell times and inland rail connectivity to ensure rapid container discharge from coastal marine terminals. Supply chain managers are balancing inventory carrying costs against persistent international trade disruption risks."
+                "MSC Shipmanagement pleaded guilty to concealing hazardous engine-control malfunctions aboard a containership and was ordered to pay a six million dollar fine. Federal prosecutors confirmed the vessel operator received four years of probationary oversight following a federal investigation.",
+                "The legal ruling stems from an incident in Charleston harbor where vessel operators failed to report critical mechanical failure risks to maritime authorities. Maritime safety regulators are escalating shipboard technical audits across ocean carrier container fleets.",
+                "Ocean carriers face increased enforcement actions and operational delays if safety management protocols fail federal compliance standards. Industry analysts emphasize that regulatory compliance integrity is becoming an active operational risk factor for global shipping lines.",
+                "Logistics directors are reviewing carrier safety reliability scores to prevent regulatory vessel detentions at primary sea import gateways. Corporate governance teams are enforcing stricter compliance clauses within long-term ocean freight service agreements."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES AT SEVEN PERCENT",
+            "nextUpTease": "FLEET ASSETS: STAR BULK CANCELS FOUR HUNDRED MILLION DEAL",
             "tags": [
-                "Source: https://theloadstar.com/us-demand-for-imported-goods-unabated-despite-tariff-turbulence/",
-                "Published: 2026-08-11T14:15:00Z",
+                "Source: https://splash247.com/msc-fined-6m-over-charleston-runaway-probe/",
+                "Published: 2026-08-11T15:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES AT SEVEN PERCENT",
+            "heading": "FLEET ASSETS: STAR BULK CANCELS FOUR HUNDRED MILLION DEAL",
             "points": [
-                "The North American industrial real estate market regained operational balance during the second quarter as leasing demand outpaced new warehouse completions. Real estate research firm Colliers reported the national industrial vacancy rate fell seven basis points sequentially to seven point three percent.",
-                "A slowdown in speculative warehouse construction is stabilizing commercial property fundamentals across major distribution markets. Warehousing tenant absorption rates demonstrate durable enterprise demand for modern distribution and fulfillment space.",
-                "Logistics operators are securing strategically located warehousing assets near key inland intermodal hubs and coastal port gateways. Supply chain networks are focusing on modernizing existing distribution facilities with automated fulfillment technology.",
-                "Stabilizing commercial rent growth provides enterprise shippers with clearer long-term warehousing cost projections. Facilities developers expect construction starts to remain disciplined as institutional investors monitor interest rate developments."
+                "Star Bulk Carriers officially terminated a four hundred seventy million dollar acquisition agreement to purchase sixteen dry bulk vessels from Genco Shipping. The sudden cancellation alters consolidate strategies within the global dry bulk shipping sector.",
+                "The decision removes a critical asset acquisition component from broader corporate takeover efforts, prompting market revaluations across bulk shipping equities. Fleet operators are re-evaluating capital allocation plans amid volatile global commodity demand forecasts.",
+                "Dry bulk shipping operators are pivoting toward selective vessel acquisitions and fleet retrofits to satisfy international decarbonization rules. Slower asset transaction velocity reflects heightened market caution regarding long-term bulk freight charter rates.",
+                "Bulk commodity shippers are monitoring fleet deployment changes to anticipate bulk carrier availability across major grain and ore trade routes. Supply chain managers are adjusting long-term charter party contracts to maintain flexibility against shifting trade flows."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: ETSY REDUCES WORKFORCE FOLLOWING DEPOP SALE",
+            "nextUpTease": "BATTERY SUPPLY: GM DIVESTS INDIANA BATTERY VENTURE STAKE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance",
-                "Published: 2026-08-11T13:45:00Z",
+                "Source: https://splash247.com/star-bulk-walks-away-from-genco-fleet-deal/",
+                "Published: 2026-08-11T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "E-COMMERCE: ETSY REDUCES WORKFORCE FOLLOWING DEPOP SALE",
+            "heading": "BATTERY SUPPLY: GM DIVESTS INDIANA BATTERY VENTURE STAKE",
             "points": [
-                "E-commerce platform Etsy announced a corporate restructuring plan reducing its workforce by two hundred employees. The operational downsizing occurred six days after closing the one point four billion dollar sale of Depop to eBay.",
-                "Management confirmed the organizational adjustments aim to streamline corporate overhead and reallocate capital toward core marketplace growth initiatives. The cash injection from the Depop divestment significantly strengthens the company's balance sheet.",
-                "E-commerce marketplaces are actively recalibrating operational overhead and technology investments to maintain profitability in a shifting retail landscape. Corporate strategy is shifting toward maximizing core platform transaction efficiencies over auxiliary brand management.",
-                "The restructuring highlights broader cost-containment measures across digital retail platforms adapting to shifting consumer spending patterns. Logistics and fulfillment teams are optimizing seller infrastructure to improve end-to-end package delivery velocity."
+                "General Motors finalized an agreement to sell its equity stake in an Indiana electric vehicle battery manufacturing joint venture to Samsung SDI. The strategic divestment allows the automaker to optimize capital allocation across its core vehicle production operations.",
+                "Samsung SDI will assume full operational control of the manufacturing facility, ensuring continued supply of advanced battery cells for commercial vehicles. The transaction reflects broader restructuring across North American electric vehicle supply chains.",
+                "Automakers are recalibrating battery manufacturing investments to align capital expenditures with immediate commercial vehicle market demand realities. Supply chain partners are re-structuring tier-one procurement agreements to secure stable raw material supply lines.",
+                "Logistics operators managing specialized hazardous battery freight are adapting distribution routes to serve updated manufacturing hub configurations. Industrial real estate planners anticipate sustained demand for localized component storage near restructured battery production hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL LOGISTICS: NATIONAL DIESEL PRICES DROP NINE CENTS",
+            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS IT BREACH EXPOSES BCOS",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/06/etsy-announces-layoffs-after-1-4-billion-infusion-in-cash/",
-                "Published: 2026-08-11T11:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/11/gm-sells-indiana-ev-battery-venture-stake-samsung.html",
+                "Published: 2026-08-11T12:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FUEL LOGISTICS: NATIONAL DIESEL PRICES DROP NINE CENTS",
+            "heading": "CYBERSECURITY: CEVA LOGISTICS IT BREACH EXPOSES BCOS",
             "points": [
-                "The U.S. national average diesel fuel price dropped nine point one cents to five dollars and twenty-six cents per gallon for the week ending August tenth. The price decline snaps a five-week consecutive streak of fuel price increases across domestic trucking corridors.",
-                "Lower fuel expenses provide immediate operational cost relief to long-haul motor carriers and private fleet operators. Surcharges assessed across freight transport contracts are adjusting downward in step with falling diesel benchmarks.",
-                "Energy analysts attribute the weekly price decline to shifting crude oil market dynamics and steady domestic refinery output. Motor carriers continue leveraging fuel optimization software to maximize fleet mileage efficiency.",
-                "Fleets are maintaining strict operational discipline to offset broader non-fuel inflationary pressures across equipment and labor categories. Shippers anticipate modest reductions in total line-haul freight expenditures over the immediate short term."
+                "Ceva Logistics suffered a cyber security breach impacting warehouse management systems and exposing operational data for multiple beneficial cargo owners. The IT security incident disrupted fulfillment processing across several European retail and industrial distribution facilities.",
+                "Logistics operations reverted to manual processing protocols to mitigate data risk while technical teams isolated affected network infrastructure. Freight forwarders and retail shippers experienced temporary shipment tracking lapses and inventory update delays.",
+                "The incident highlights persistent cyber vulnerability across interconnected third-party logistics networks and automated warehouse execution systems. Enterprise supply chain executives are demanding elevated cybersecurity compliance certifications from logistics service providers.",
+                "Risk management officers are accelerating zero-trust network deployments to secure digital supply chain integrations against external breach risks. Shippers are revising data contingency plans to maintain operational continuity during third-party system outages."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/national_diesel_average_falls",
-                "Published: 2026-08-11T10:00:00Z",
+                "Source: https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-further/",
+                "Published: 2026-08-11T11:10:00Z",
                 "Status: Audited & True"
             ]
         }
