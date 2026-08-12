@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR moves ahead with forced labor tariffs on 60 nations as Section 122 duties expire, forcing immediate cross-border compliance auditing."
+        "titleWhite": "CALIFORNIA DRIVERLESS TRUCK",
+        "titleBlue": "LAWSUIT",
+        "footerSummary": "Teamsters sue California DMV over autonomous truck permits as Rhine barge surcharges soar and Houthi strikes fatalize Bab al-Mandab maritime transit."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "AUTONOMOUS VEHICLES: CALIFORNIA DRIVERLESS TRUCK LAWSUIT",
             "points": [
-                "The Office of the United States Trade Representative is implementing Section 301 tariffs on 60 trading partners as Section 122 tariffs expire.",
-                "The regulatory framework expands import enforcement against forced labor compliance failures across global supply chains.",
-                "Global shippers must adjust compliance audits to prevent immediate customs holds at major US entry ports.",
-                "Supply chain executives anticipate elevated administrative burdens and risk of tariff adjustments across multi-tiered supplier networks."
+                "Teamsters California filed a legal petition against the Department of Motor Vehicles to block regulations allowing autonomous heavy-duty truck testing on public highways.",
+                "The legal challenge targets amended state framework parameters governing commercial driverless operations and freight safety standards.",
+                "Labor organizations argue that unmonitored autonomous Class 8 deployments introduce unmitigated public safety hazards and fleet displacement risks.",
+                "Motor carriers evaluating autonomous freight networks face potential regulatory delays across West Coast freight transit corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS IT BREACH",
+            "nextUpTease": "INLAND FREIGHT: RHINE WATERWAY BARGE SURCHARGES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-12T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-11T18:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CYBERSECURITY: CEVA LOGISTICS IT BREACH",
+            "heading": "INLAND FREIGHT: RHINE WATERWAY BARGE SURCHARGES",
             "points": [
-                "Ceva Logistics experienced a major IT infrastructure security breach that impacted BCO operations across European retail and banking channels.",
-                "The cyber incident compromised warehouse operational systems and created immediate shipment visibility delays across continental networks.",
-                "Freight forwarders are implementing secondary manual processing protocols to keep critical cargo moving while systems undergo remediation.",
-                "Logistics managers are urged to audit third-party digital connections to mitigate cross-network vulnerability risks."
+                "Low water levels across European inland waterways triggered massive surcharge increases for container barge transport operating along the Rhine River.",
+                "Shallow draft restrictions forced vessel operators to reduce cargo load volumes by over 40% to prevent vessel groundings.",
+                "BCOs and European forwarders are rerouting time-sensitive containerized shipments onto overloaded rail and truck networks.",
+                "Logistics planners face compounding spot rate surcharges and extended transit delays across central European supply corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET EXPANSION: WAN HAI BOXSHIP ORDERS",
+            "nextUpTease": "ACQUISITIONS: PROFICIENT AUTO BUYS HANSEN ADKINS",
             "tags": [
                 "Source: https://theloadstar.com",
-                "Published: 2026-08-11T00:00:00Z",
+                "Published: 2026-08-12T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FLEET EXPANSION: WAN HAI BOXSHIP ORDERS",
+            "heading": "ACQUISITIONS: PROFICIENT AUTO BUYS HANSEN ADKINS",
             "points": [
-                "Taiwanese carrier Wan Hai Lines signed contracts for 8 new containerships valued at nearly $980M with Shanghai Waigaoqiao Shipbuilding.",
-                "The order comprises one 9,200 TEU vessel and seven 11,000 TEU containerships scheduled for multi-year fleet integration.",
-                "This strategic capital deployment strengthens Wan Hai's intra-Asia and transpacific vessel capacity amid shifting trade corridor volumes.",
-                "Industry analysts note persistent carrier investment in mid-sized container tonnage to maintain long-term operational agility."
+                "Proficient Auto Logistics executed a definitive agreement to acquire finished vehicle transport specialist Hansen & Adkins for $130M in cash and stock.",
+                "The transaction expands Proficient's specialized auto haulage fleet capacity with over 1,000 active car-carrying rig units.",
+                "Consolidation in the finished vehicle logistics sector addresses persistent driver shortages and OEM distribution bottlenecks.",
+                "Automotive supply chain managers gain expanded cross-regional carrier coverage across major US assembly facilities and port terminals."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+            "nextUpTease": "MARITIME SECURITY: HOUTHI MISSILE STRIKE BAB AL-MANDAB",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-12T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-12T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+            "heading": "MARITIME SECURITY: HOUTHI MISSILE STRIKE BAB AL-MANDAB",
             "points": [
-                "The US federal administration introduced a new 15% tariff along with an import price floor on polysilicon imports for solar and semiconductor manufacturing.",
-                "The trade directive takes effect on Dec 4, 2026, targeting foreign supply chains to protect domestic energy equipment production.",
-                "Importers face increased procurement costs for critical tech inputs and must re-evaluate multi-country sourcing strategies before year-end.",
-                "Supply chain planners predict near-term order frontloading to secure inventory prior to the Q4 tariff enforcement deadline."
+                "Houthi insurgents launched 3 ballistic anti-ship missiles striking a commercial cargo vessel transiting the Bab al-Mandab Strait, killing 6 seafarers.",
+                "The fatal incident marks a severe escalation in maritime risk factors along the critical Red Sea and Gulf of Aden trade corridor.",
+                "Ocean carriers are suspending remaining Red Sea transits and extending vessel re-routing protocols around the Cape of Good Hope.",
+                "Global shippers face renewed spot freight rate pressure and 14-day transit extensions for Asia-Europe ocean cargo traffic."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: FMCSA DRIVER ENGLISH ENFORCEMENT",
+            "nextUpTease": "CUSTOMS COMPLIANCE: CBP TARIFF REFUND DISBURSEMENTS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-11T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-12T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REGULATION: FMCSA DRIVER ENGLISH ENFORCEMENT",
+            "heading": "CUSTOMS COMPLIANCE: CBP TARIFF REFUND DISBURSEMENTS",
             "points": [
-                "The FMCSA proposed codifying strict English-language proficiency enforcement standards for commercial motor vehicle drivers operating in the US.",
-                "The regulatory proposal standardizes roadside inspection criteria and increases driver compliance scrutiny across state enforcement agencies.",
-                "Motor carriers face potential driver qualification disqualifications and fleet utilization impacts if compliance metrics fall short.",
-                "Fleet compliance directors must implement immediate language assessment protocols during onboarding to safeguard safety audit scores."
+                "U.S. Customs and Border Protection processed over $100B in total tariff refunds connected to historical International Emergency Economic Powers Act actions.",
+                "The agency continues implementing manual processing workflows for liquidated entries while federal appellate court decisions remain pending.",
+                "Importers and trade attorneys are accelerating refund tracking mechanisms to secure capital reimbursements from historical duty payments.",
+                "Corporate trade compliance teams must maintain detailed entry records to support ongoing customs liquidation audits."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON TITLE LIMIT RESTRICTIONS",
+            "nextUpTease": "CARRIER FLEET: SAMUDERA IMOTO JAPAN FEEDER ORDER",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-10T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-11T14:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "E-COMMERCE: AMAZON TITLE LIMIT RESTRICTIONS",
+            "heading": "CARRIER FLEET: SAMUDERA IMOTO JAPAN FEEDER ORDER",
             "points": [
-                "Amazon enacted a strict 75-character limit for product titles across third-party merchant listings and its own direct retail operations.",
-                "The policy change aims to streamline automated search indexing and improve mobile interface optimization for digital consumers.",
-                "Online merchants must reconfigure product metadata across thousands of SKUs to maintain search visibility and conversion metrics.",
-                "E-commerce logistics providers expect updated packaging cataloging requirements as sellers update product data feeds."
+                "Samudera Shipping Line and Imoto Corporation ordered a 696 TEU feeder vessel from Zhejiang Xinle Shipbuilding for Japanese coastal operations.",
+                "The joint venture deployment marks the partnership's first dedicated newbuilding order targeting Japanese regional trade lanes.",
+                "Enhanced coastal feeder capacity supports domestic container relay networks connecting primary Japanese hubs with secondary ports.",
+                "Regional feeder operators anticipate strengthened schedule reliability and lower unit transport costs for intra-Japan ocean cargo."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: LOGISTICS VACANCY STABILIZATION",
+            "nextUpTease": "ENERGY LOGISTICS: LIBYA ZAWIYA DRONE ATTACKS",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: 2026-08-12T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-12T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REAL ESTATE: LOGISTICS VACANCY STABILIZATION",
+            "heading": "ENERGY LOGISTICS: LIBYA ZAWIYA DRONE ATTACKS",
             "points": [
-                "Colliers reported US industrial real estate vacancy fell 7 bps sequentially to 7.3% in Q2 2026 as tenant absorption outpaced new warehouse completion.",
-                "Modern distribution center demand stabilized following a prolonged construction surge and shifting regional inventory strategies.",
-                "Third-party logistics providers are re-entering lease negotiations for high-specification fulfillment space near major inland rail hubs.",
-                "Warehousing executives recommend locking in long-term lease commitments before premium logistics space availability narrows further in 2027."
+                "A series of targeted drone strikes hit Libya's Zawiya oil complex, threatening critical refinery infrastructure and crude export operations.",
+                "Libya's National Oil Corporation issued warnings of potential force majeure declarations if military targeting near energy assets continues.",
+                "The security threat disrupts Mediterranean crude vessel loadings and elevates supply uncertainty for European energy importers.",
+                "Tanker operators are increasing risk premiums and evaluating alternate North African crude loading terminals to avoid port closures."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-12T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-12T07:45:00Z",
                 "Status: Audited & True"
             ]
         }
