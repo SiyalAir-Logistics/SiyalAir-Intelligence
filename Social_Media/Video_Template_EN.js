@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "RAIL INTERMODAL: UNION PACIFIC SURCHARGES",
+        "hookTitle": "WAN HAI COMMITS $980M FOR 8 NEW CONTAINERSHIPS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "RAIL INTERMODAL: UNION PACIFIC SURCHARGES",
-                "teaserTitle": "TRUCKING: MEXICAN TRUCK EXPORTS SOAR",
+                "headline": "SHIPBUILDING: WAN HAI ORDERS BOXSHIPS",
+                "teaserTitle": "AUTO HAULING: PROFICIENT BUYS HANSEN ADKINS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Union Pacific announced peak season intermodal surcharges reaching one thousand dollars per container on California spot freight. The move aims to manage constrained rail capacity as West Coast port imports surge."
+                "narration_line": "Wan Hai Lines has contracted eight containerships worth up to nine hundred eighty million dollars from Shanghai Waigaoqiao Shipbuilding. The Taiwanese carrier aims to strengthen fleet capacity across transpacific trade corridors."
             },
             {
                 "slide_index": 2,
-                "headline": "TRUCKING: MEXICAN TRUCK EXPORTS SOAR",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+                "headline": "AUTO HAULING: PROFICIENT BUYS HANSEN ADKINS",
+                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Mexican heavy duty truck manufacturing expanded fifty-one point eight percent in July to over fourteen thousand units. Rising exports are helping North American commercial fleets replace aging tractor capacity."
+                "narration_line": "Proficient Auto Logistics signed a definitive agreement to acquire Hansen and Adkins for one hundred thirty million dollars. The transaction creates the largest auto hauling motor carrier in North America."
             },
             {
                 "slide_index": 3,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
-                "teaserTitle": "TRADE TARIFFS: METALS DERIVATIVE DUTIES",
+                "headline": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
+                "teaserTitle": "RED SEA MARITIME: COSCO RESUMES SAILINGS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "National industrial real estate vacancy fell seven basis points in the second quarter to seven point three percent. Strong demand for warehousing space is outpacing new construction across major distribution hubs."
+                "narration_line": "CEVA Logistics suffered an extensive cyber security breach across its European warehouse infrastructure, impacting multiple enterprise customers. Operational teams activated manual fallback protocols while forensic reviews assess data exposure."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE TARIFFS: METALS DERIVATIVE DUTIES",
-                "teaserTitle": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
+                "headline": "RED SEA MARITIME: COSCO RESUMES SAILINGS",
+                "teaserTitle": "FUEL MARKETS: AUGUST DIESEL PRICES SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Department of Commerce proposed new trade tariffs on derivative steel, aluminum, and copper products. Importers face expanded tariff liabilities across secondary finished components like tanker trailers and industrial hardware."
+                "narration_line": "China Cosco Shipping resumed direct bookings for commercial container sailings through the Red Sea despite ongoing maritime threats. Ocean carriers continue reevaluating risk exposure along critical Middle East transit corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
-                "teaserTitle": "LOGISTICS ROBOTICS: FLEET AUTOMATION EXPANSION",
+                "headline": "FUEL MARKETS: AUGUST DIESEL PRICES SURGE",
+                "teaserTitle": "AEROSPACE LOGISTICS: BOEING SELLS WISK DRONE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Low water levels on the Rhine River forced European barge operators to implement steep transport surcharges. Restricted cargo intake per vessel is creating heavy container congestion at Rotterdam and Antwerp."
+                "narration_line": "United States retail diesel prices climbed to five dollars and forty cents per gallon, marking record highs for mid August. Escalating crude oil supply deficits continue pushing fuel surcharges higher for commercial fleets."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS ROBOTICS: FLEET AUTOMATION EXPANSION",
-                "teaserTitle": "E-COMMERCE: AMAZON TITLE CHARACTER CAP",
+                "headline": "AEROSPACE LOGISTICS: BOEING SELLS WISK DRONE",
+                "teaserTitle": "RAIL REGULATION: COURT REJECTS CREW MANDATE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "FedEx and Amazon expanded their robotic trailer loading deployments following a surge in second quarter automation orders. Logistics hubs are leveraging autonomous robotics to eliminate peak season fulfillment bottlenecks."
+                "narration_line": "Boeing agreed to divest its Wisk autonomous flying taxi and commercial drone divisions to Archer Aviation. The strategic asset transfer allows Boeing to streamline capital allocation toward core aerospace production targets."
             },
             {
                 "slide_index": 7,
-                "headline": "E-COMMERCE: AMAZON TITLE CHARACTER CAP",
+                "headline": "RAIL REGULATION: COURT REJECTS CREW MANDATE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon implemented a strict policy enforcing a maximum limit of seventy-five characters on product titles. Merchants failing to trim product titles risk immediate search suppression across the e-commerce marketplace."
+                "narration_line": "A federal appeals court overturned the Federal Railroad Administration mandate requiring two person train crews on Class One railroads. Carrier operators gain increased operational flexibility to deploy automated rail safety technology."
             },
             {
                 "slide_index": 8,

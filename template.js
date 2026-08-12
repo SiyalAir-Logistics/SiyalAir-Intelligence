@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "UNION PACIFIC",
-        "titleBlue": "SURCHARGES",
-        "footerSummary": "Union Pacific levies $1,000 intermodal surcharges on California spot loads, signaling severe West Coast peak season rail capacity bottlenecks."
+        "titleWhite": "WAN HAI ORDERS",
+        "titleBlue": "BOXSHIPS",
+        "footerSummary": "Wan Hai Lines commits $980M for 8 containerships at Shanghai Waigaoqiao, expanding carrier capacity amid transpacific freight volume shifts."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "RAIL INTERMODAL: UNION PACIFIC SURCHARGES",
+            "heading": "SHIPBUILDING: WAN HAI ORDERS BOXSHIPS",
             "points": [
-                "Union Pacific Railroad announced peak season surcharge hikes reaching $1,000 per box for spot market container shipments originating in California.",
-                "The surcharge targets low-volume shippers moving under 10 loads per week to manage constrained intermodal rail capacity out of West Coast ports.",
-                "Accelerating mini-bids and seasonal frontloading are driving shippers toward spot market capacity as transpacific import volumes surge in Q3.",
-                "Logistics planners are adjusting inland freight budgets and shifting time-sensitive cargo to motor carrier alternatives to mitigate surcharges."
+                "Taiwanese ocean carrier Wan Hai Lines finalized contracts for 8 containerships valued at up to $980M with Shanghai Waigaoqiao Shipbuilding.",
+                "The order includes 1 9,200 TEU vessel and 7 11,000 TEU dual-fuel ready container vessels scheduled for multi-year fleet delivery schedules.",
+                "Strategic carrier fleet expansion comes as frontloaded transpacific container volumes push Asian export rates toward 2026 record highs.",
+                "Logistics planners expect expanded vessel capacity to mitigate long-term space constraints across major transpacific ocean shipping lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: MEXICAN TRUCK EXPORTS SOAR",
+            "nextUpTease": "AUTO HAULING: PROFICIENT BUYS HANSEN ADKINS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-12T12:00:00Z",
+                "Source: https://splash247.com/wan-hai-piles-on-boxship-orders-with-near-1bn-deal/",
+                "Published: 2026-08-12T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRUCKING: MEXICAN TRUCK EXPORTS SOAR",
+            "heading": "AUTO HAULING: PROFICIENT BUYS HANSEN ADKINS",
             "points": [
-                "Mexican heavy-duty commercial truck production expanded 51.8% year-over-year in July, reaching 14,675 assembled vehicles across regional plants.",
-                "Heavy-duty vehicle export volumes experienced a parallel surge as North American fleet operators accelerate equipment replacement cycles in 2026.",
-                "Cross-border nearshoring manufacturing momentum continues driving record demand for Class 8 tractors and specialized freight transport equipment.",
-                "Fleet managers anticipate improved new vehicle delivery timelines, easing freight carrier capacity constraints across key US-Mexico trade lanes."
+                "Proficient Auto Logistics entered a definitive acquisition agreement to purchase car hauling competitor Hansen & Adkins Auto Transport for $130M.",
+                "The combined fleet entity will command over 1,100 specialized commercial auto hauling tractors operating across North American distribution routes.",
+                "Market consolidation strengthens carrier pricing power and terminal network coverage across major automotive assembly hubs and port import facilities.",
+                "Automotive supply chain managers anticipate revised freight routing structures and consolidated carrier contract negotiations in Q4 2026."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-11T16:00:00Z",
+                "Source: https://www.ttnews.com/articles/proficient-auto-logistics-hansen-adkins",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+            "heading": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
             "points": [
-                "Colliers reported that the national industrial real estate vacancy rate dropped 7 basis points sequentially in Q2 to 7.3%.",
-                "Warehousing space demand outpaced new supply deliveries as developers slowed speculative construction starts across major logistics hubs.",
-                "Leasing activity stabilized across primary distribution markets as retailers and third-party logistics providers absorbed surplus warehouse capacity.",
-                "Industrial tenants face hardening rental rates and reduced availability for modern fulfillment hubs near primary port corridors."
+                "Third-party logistics provider CEVA Logistics suffered an IT systems breach affecting warehouse operations and client data systems across Europe.",
+                "Multiple global beneficial cargo owners experienced inventory visibility delays and temporary disruptions to automated fulfillment workflows.",
+                "Cybersecurity teams activated secondary security protocols to isolate compromised server networks and restore core transportation management systems.",
+                "Enterprise shippers are reviewing third-party data access permissions and implementing redundant supply chain tracking contingency plans."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE TARIFFS: METALS DERIVATIVE DUTIES",
+            "nextUpTease": "RED SEA MARITIME: COSCO RESUMES SAILINGS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-12T11:00:00Z",
+                "Source: https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-further-several-bcos-exposed/",
+                "Published: 2026-08-11T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRADE TARIFFS: METALS DERIVATIVE DUTIES",
+            "heading": "RED SEA MARITIME: COSCO RESUMES SAILINGS",
             "points": [
-                "The US Department of Commerce proposed expanding trade tariffs on derivative steel, aluminum, and copper manufactured components.",
-                "The proposed regulatory action targets secondary finished goods ranging from specialized industrial floor safes to commercial tanker trailers.",
-                "Domestic manufacturers face compliance documentation shifts and heightened import duty liabilities across cross-border hardware supply chains.",
-                "Importers are reviewing tariff classification codes and auditing tier-1 supplier component origins prior to formal agency enforcement."
+                "China COSCO Shipping reopened commercial cargo bookings for direct Red Sea feeder services despite active maritime security risks in Bab al-Mandab.",
+                "The carrier is deploying specialized tonnage to maintain direct trade connectivity between Asian export gateways and Middle Eastern discharge ports.",
+                "Ocean freight rates for Red Sea transit routes remain highly volatile due to escalating insurance surcharges and security escort requirements.",
+                "Importers are balancing direct transit time savings against heightened maritime cargo risk premiums when selecting carrier routing options."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
+            "nextUpTease": "FUEL MARKETS: AUGUST DIESEL PRICES SURGE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-12T10:30:00Z",
+                "Source: https://theloadstar.com/cosco-returns-to-red-sea-sailings-despite-threats-from-houthis/",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
+            "heading": "FUEL MARKETS: AUGUST DIESEL PRICES SURGE",
             "points": [
-                "European inland waterway operators implemented steep low-water surcharges on Rhine River container barge transport due to falling gauge levels.",
-                "Reduced vessel draft allowances are restricting cargo intake per barge, forcing freight backlogs into major ocean gateways at Rotterdam and Antwerp.",
-                "Shippers face escalating inland transport surcharges and extended transit times for raw materials and containerized goods moving into Central Europe.",
-                "Logistics teams are redirecting time-sensitive hinterland container traffic to European rail and motor carrier transport corridors."
+                "US national average diesel fuel prices surged to $5.40 per gallon in the second week of August 2026, marking new seasonal highs.",
+                "Escalating Middle East military conflicts and crude oil supply deficits of 1.8M barrels per day are driving global energy market spikes.",
+                "Motor carriers are adjusting variable fuel surcharges, increasing net linehaul transport costs for motor freight shippers across major corridors.",
+                "Fleet operators face expanding operating expense pressure, forcing tighter route optimization and fuel efficiency compliance measures."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS ROBOTICS: FLEET AUTOMATION EXPANSION",
+            "nextUpTease": "AEROSPACE LOGISTICS: BOEING SELLS WISK DRONE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-12T09:00:00Z",
+                "Source: https://www.ttnews.com/articles/diesel-gasoline-prices-august-2026",
+                "Published: 2026-08-12T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LOGISTICS ROBOTICS: FLEET AUTOMATION EXPANSION",
+            "heading": "AEROSPACE LOGISTICS: BOEING SELLS WISK DRONE",
             "points": [
-                "FedEx and Amazon announced expanded deployments of robotic trailer loading systems and autonomous articulated arms across regional hubs.",
-                "The automation push aligns with Q2 industry data showing a broad recovery and expansion in warehouse robotics order volumes.",
-                "High-volume sorting hubs are utilizing physical AI systems to accelerate trailer turnaround times and mitigate fulfillment center labor bottlenecks.",
-                "Supply chain executives are scaling capital investment in modular warehouse robotics to increase throughput capacity ahead of Q4 peak season."
+                "Boeing reached an agreement to sell its Wisk autonomous flying taxi and cargo drone technology units to eVTOL developer Archer Aviation.",
+                "The divestment allows Boeing to consolidate capital resources toward core commercial aircraft manufacturing and defense logistics production.",
+                "Archer expands its autonomous flight software intellectual property portfolio to accelerate middle-mile aerial freight platform testing.",
+                "Logistics providers monitor autonomous aerial cargo developments for localized express package movement and emergency medical logistics."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON TITLE CHARACTER CAP",
+            "nextUpTease": "RAIL REGULATION: COURT REJECTS CREW MANDATE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-11T14:20:00Z",
+                "Source: https://www.ttnews.com/articles/boeing-sells-wisk-flying-taxi-archer",
+                "Published: 2026-08-11T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "E-COMMERCE: AMAZON TITLE CHARACTER CAP",
+            "heading": "RAIL REGULATION: COURT REJECTS CREW MANDATE",
             "points": [
-                "Amazon updated its seller policy to enforce a strict maximum limit of 75 characters for all product listing titles.",
-                "The updated title length constraint applies uniformly to both third-party merchant listings and Amazon's native retail product catalog.",
-                "Merchants violating the 75-character threshold face search suppression and listing suppression across North American marketplace search indexes.",
-                "E-commerce brands are overhauling catalog metadata and automated listing feeds to maintain product search visibility."
+                "A federal appeals court upheld a legal challenge invalidating the Federal Railroad Administration rule mandating 2-person train crews.",
+                "The decision provides Class I railroads operational latitude to negotiate single-person crew deployments tied to advanced safety technology.",
+                "Rail carrier management cites enhanced capital investment in automated wayside detectors and positive train control systems as safety justification.",
+                "Rail shippers evaluate long-term operating cost impacts and labor contract stability across major North American intermodal rail networks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: 2026-08-07T15:00:00Z",
+                "Source: https://www.freightwaves.com/news/federal-court-upholds-challenge-to-fras-two-person-rail-crew-rule",
+                "Published: 2026-08-11T16:00:00Z",
                 "Status: Audited & True"
             ]
         }

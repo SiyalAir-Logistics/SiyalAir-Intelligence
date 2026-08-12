@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "RAIL INTERMODAL: UNION PACIFIC SURCHARGES",
-                "teaserTitle": "TRUCKING: MEXICAN TRUCK EXPORTS SOAR",
-                "visual_caption": "Union Pacific announced peak season intermodal surcharges reaching $1,000 per container on California spot freight. The move aims to manage constrained rail capacity as West Coast port imports surge."
+                "headline": "SHIPBUILDING: WAN HAI ORDERS BOXSHIPS",
+                "teaserTitle": "AUTO HAULING: PROFICIENT BUYS HANSEN ADKINS",
+                "visual_caption": "Wan Hai Lines contracted 8 containerships worth up to $980M from Shanghai Waigaoqiao Shipbuilding. The Taiwanese carrier aims to strengthen fleet capacity across transpacific trade corridors."
             },
             {
                 "slide_index": 2,
-                "headline": "TRUCKING: MEXICAN TRUCK EXPORTS SOAR",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
-                "visual_caption": "Mexican heavy-duty truck manufacturing expanded 51.8% in July to 14,675 units. Rising exports are helping North American commercial fleets replace aging tractor capacity."
+                "headline": "AUTO HAULING: PROFICIENT BUYS HANSEN ADKINS",
+                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
+                "visual_caption": "Proficient Auto Logistics signed a definitive agreement to acquire Hansen & Adkins for $130M. The transaction creates the largest auto hauling motor carrier in North America."
             },
             {
                 "slide_index": 3,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
-                "teaserTitle": "TRADE TARIFFS: METALS DERIVATIVE DUTIES",
-                "visual_caption": "National industrial real estate vacancy fell 7 basis points in Q2 to 7.3%. Strong demand for warehousing space is outpacing new construction across major distribution hubs."
+                "headline": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
+                "teaserTitle": "RED SEA MARITIME: COSCO RESUMES SAILINGS",
+                "visual_caption": "CEVA Logistics suffered an extensive cybersecurity breach across its European warehouse infrastructure, impacting multiple BCOs. Operational teams activated manual fallback protocols while forensic reviews assess data exposure."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE TARIFFS: METALS DERIVATIVE DUTIES",
-                "teaserTitle": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
-                "visual_caption": "The Department of Commerce proposed new trade tariffs on derivative steel, aluminum, and copper products. Importers face expanded tariff liabilities across secondary finished components like tanker trailers and industrial hardware."
+                "headline": "RED SEA MARITIME: COSCO RESUMES SAILINGS",
+                "teaserTitle": "FUEL MARKETS: AUGUST DIESEL PRICES SURGE",
+                "visual_caption": "China Cosco Shipping resumed direct bookings for commercial container sailings through the Red Sea despite ongoing threats. Ocean carriers continue reevaluating risk exposure along critical Middle East transit corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
-                "teaserTitle": "LOGISTICS ROBOTICS: FLEET AUTOMATION EXPANSION",
-                "visual_caption": "Low water levels on the Rhine River forced European barge operators to implement steep transport surcharges. Restricted cargo intake per vessel is creating heavy container congestion at Rotterdam and Antwerp."
+                "headline": "FUEL MARKETS: AUGUST DIESEL PRICES SURGE",
+                "teaserTitle": "AEROSPACE LOGISTICS: BOEING SELLS WISK DRONE",
+                "visual_caption": "US retail diesel prices climbed to $5.40 per gallon, marking record highs for mid-August 2026. Escalating crude oil supply deficits continue pushing fuel surcharges higher for commercial motor carriers."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS ROBOTICS: FLEET AUTOMATION EXPANSION",
-                "teaserTitle": "E-COMMERCE: AMAZON TITLE CHARACTER CAP",
-                "visual_caption": "FedEx and Amazon expanded their robotic trailer loading deployments following a surge in Q2 automation orders. Logistics hubs are leveraging autonomous robotics to eliminate peak season fulfillment bottlenecks."
+                "headline": "AEROSPACE LOGISTICS: BOEING SELLS WISK DRONE",
+                "teaserTitle": "RAIL REGULATION: COURT REJECTS CREW MANDATE",
+                "visual_caption": "Boeing agreed to divest its Wisk autonomous flying taxi and commercial drone divisions to Archer Aviation. The strategic asset transfer allows Boeing to streamline capital allocation toward core aerospace production targets."
             },
             {
                 "slide_index": 7,
-                "headline": "E-COMMERCE: AMAZON TITLE CHARACTER CAP",
+                "headline": "RAIL REGULATION: COURT REJECTS CREW MANDATE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Amazon implemented a strict policy enforcing a maximum limit of 75 characters on product titles. Merchants failing to trim product titles risk immediate search suppression across the e-commerce marketplace."
+                "visual_caption": "A federal appeals court overturned the FRA mandate requiring 2-person train crews on Class I railroads. Rail operators gain increased operational flexibility to deploy automated safety technology."
             },
             {
                 "slide_index": 8,
