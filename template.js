@@ -1,73 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "RED SEA SECURITY",
-        "titleBlue": "CRISIS",
-        "footerSummary": "Escalating Red Sea attacks and military interventions trigger severe maritime disruptions and vital cargo corridor bottlenecks globally."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR moves ahead with forced labor tariffs on 60 nations as Section 122 duties expire, forcing immediate cross-border compliance auditing."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "RED SEA: ATTACKS AND MILITARY ACTION",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "Commercial shipping faced unprecedented kinetic strikes at both ends of the Middle East corridor as six lives were lost in the Bab al-Mandab Strait.",
-                "The U.S. military responded by disabling a commercial containership involved in the transit lane following the fatal Houthi ballistic missile barrage.",
-                "The lethal escalation threatens to permanently alter regional shipping routes and upend maritime security protocols across major trade arteries.",
-                "Supply chain risk analysts expect ocean carriers to institute immediate route suspensions and diversion insurance premiums."
+                "The Office of the United States Trade Representative is implementing Section 301 tariffs on 60 trading partners as Section 122 tariffs expire.",
+                "The regulatory framework expands import enforcement against forced labor compliance failures across global supply chains.",
+                "Global shippers must adjust compliance audits to prevent immediate customs holds at major US entry ports.",
+                "Supply chain executives anticipate elevated administrative burdens and risk of tariff adjustments across multi-tiered supplier networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINER DEMAND: EUROPEAN IMPORT PULL-FORWARD",
+            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS IT BREACH",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CONTAINER DEMAND: EUROPEAN IMPORT PULL-FORWARD",
+            "heading": "CYBERSECURITY: CEVA LOGISTICS IT BREACH",
             "points": [
-                "European containerized import demand is projected to soften significantly in Q4 as peak season inventory build was heavily frontloaded.",
-                "Logistics providers note that a substantial portion of autumn retail shipments arrived early to circumvent looming trade policy friction.",
-                "BCOs face altered inventory holding costs and shifting warehousing requirements as European consumer markets absorb prior deliveries.",
-                "Carriers are recalibrating Q4 vessel capacity allocations across major trade lanes to match decelerating cargo volume."
+                "Ceva Logistics experienced a major IT infrastructure security breach that impacted BCO operations across European retail and banking channels.",
+                "The cyber incident compromised warehouse operational systems and created immediate shipment visibility delays across continental networks.",
+                "Freight forwarders are implementing secondary manual processing protocols to keep critical cargo moving while systems undergo remediation.",
+                "Logistics managers are urged to audit third-party digital connections to mitigate cross-network vulnerability risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "RHINE WATERWAYS: BARGE SURCHARGE SURGE",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-12T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "RHINE WATERWAYS: BARGE SURCHARGE SURGE",
-            "points": [
-                "Inland waterway logistics across Europe face severe headwinds as Rhine River transport surcharges spiked amid falling water levels.",
-                "Barge operators implemented emergency fee structures to offset reduced draft limits and restricted cargo payload capacities.",
-                "Shifting cargo from inland barges to rail and truck networks has driven up overland freight costs for raw material shippers.",
-                "Manufacturing supply chains dependent on Rhine corridor inputs must implement contingency routing before water levels decline further."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "US IMPORTS: JULY SURGE DESPITE TARIFFS",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-12T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "US IMPORTS: JULY SURGE DESPITE TARIFFS",
-            "points": [
-                "U.S. containerized imports rose 4.5% in July according to Descartes data, driven by robust consumer demand and incoming China-origin cargo.",
-                "The sustained import volume persisted despite ongoing tariff turbulence and regulatory friction across major U.S. port gateways.",
-                "Importers continue frontloading merchandise to protect against potential future trade enforcement actions and holiday bottlenecks.",
-                "Supply chain executives must secure warehouse drayage capacity early to prevent dwell time accumulation at destination terminals."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "ASIAN PORTS: TYPHOON DOLPHIN CONGESTION",
+            "nextUpTease": "FLEET EXPANSION: WAN HAI BOXSHIP ORDERS",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: 2026-08-11T00:00:00Z",
@@ -75,52 +41,86 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "ASIAN PORTS: TYPHOON DOLPHIN CONGESTION",
+            "id": 3,
+            "heading": "FLEET EXPANSION: WAN HAI BOXSHIP ORDERS",
             "points": [
-                "Typhoon Dolphin made landfall near Ningbo, triggering widespread port operational closures and severe cargo backlogs across East Asia.",
-                "The severe storm system dumped torrential rains across coastal supply chains, compounding existing vessel scheduling delays.",
-                "Terminal operators are working around the clock to clear container yards as regional maritime traffic resumes normal berthing.",
-                "Ocean carriers warn of cascading schedule reliability issues for transpacific and Europe-bound voyages over the coming weeks."
+                "Taiwanese carrier Wan Hai Lines signed contracts for 8 new containerships valued at nearly $980M with Shanghai Waigaoqiao Shipbuilding.",
+                "The order comprises one 9,200 TEU vessel and seven 11,000 TEU containerships scheduled for multi-year fleet integration.",
+                "This strategic capital deployment strengthens Wan Hai's intra-Asia and transpacific vessel capacity amid shifting trade corridor volumes.",
+                "Industry analysts note persistent carrier investment in mid-sized container tonnage to maintain long-term operational agility."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMC RULING: DETENTION FEE FLUIDITY",
+            "nextUpTease": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://splash247.com",
                 "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "FMC RULING: DETENTION FEE FLUIDITY",
+            "id": 4,
+            "heading": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
             "points": [
-                "The U.S. Court of Appeals upheld a Federal Maritime Commission decision mandating that detention and demurrage fees promote freight fluidity.",
-                "The landmark judicial ruling reinforces regulatory oversight on ocean carrier billing practices and container return enforcement.",
-                "Shippers gain stronger legal recourse against unfair penalty charges incurred during terminal congestion and equipment shortages.",
-                "Maritime legal experts advise logistics departments to audit demurrage invoices against the updated federal compliance standards."
+                "The US federal administration introduced a new 15% tariff along with an import price floor on polysilicon imports for solar and semiconductor manufacturing.",
+                "The trade directive takes effect on Dec 4, 2026, targeting foreign supply chains to protect domestic energy equipment production.",
+                "Importers face increased procurement costs for critical tech inputs and must re-evaluate multi-country sourcing strategies before year-end.",
+                "Supply chain planners predict near-term order frontloading to secure inventory prior to the Q4 tariff enforcement deadline."
             ],
             "imageUrl": "",
-            "nextUpTease": "OIL STOCKS: HORMOZ STALEMATE IMPACT",
+            "nextUpTease": "REGULATION: FMCSA DRIVER ENGLISH ENFORCEMENT",
             "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: 2026-07-08T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-11T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "REGULATION: FMCSA DRIVER ENGLISH ENFORCEMENT",
+            "points": [
+                "The FMCSA proposed codifying strict English-language proficiency enforcement standards for commercial motor vehicle drivers operating in the US.",
+                "The regulatory proposal standardizes roadside inspection criteria and increases driver compliance scrutiny across state enforcement agencies.",
+                "Motor carriers face potential driver qualification disqualifications and fleet utilization impacts if compliance metrics fall short.",
+                "Fleet compliance directors must implement immediate language assessment protocols during onboarding to safeguard safety audit scores."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "E-COMMERCE: AMAZON TITLE LIMIT RESTRICTIONS",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-10T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "E-COMMERCE: AMAZON TITLE LIMIT RESTRICTIONS",
+            "points": [
+                "Amazon enacted a strict 75-character limit for product titles across third-party merchant listings and its own direct retail operations.",
+                "The policy change aims to streamline automated search indexing and improve mobile interface optimization for digital consumers.",
+                "Online merchants must reconfigure product metadata across thousands of SKUs to maintain search visibility and conversion metrics.",
+                "E-commerce logistics providers expect updated packaging cataloging requirements as sellers update product data feeds."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "REAL ESTATE: LOGISTICS VACANCY STABILIZATION",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OIL STOCKS: HORMOZ STALEMATE IMPACT",
+            "heading": "REAL ESTATE: LOGISTICS VACANCY STABILIZATION",
             "points": [
-                "Global energy markets reacted to the prolonged Strait of Hormuz stalemate as Brent crude hovered near $89.08 per barrel.",
-                "U.S. consumer gasoline prices ticked higher, putting additional cost pressure on over-the-road trucking fleets and logistics providers.",
-                "Energy analysts project oil supply disruptions to persist through 2027, forcing fleet operators to optimize fuel surcharge recovery models.",
-                "Transport executives are accelerating fleet efficiency initiatives to mitigate persistent fuel price volatility across supply chains."
+                "Colliers reported US industrial real estate vacancy fell 7 bps sequentially to 7.3% in Q2 2026 as tenant absorption outpaced new warehouse completion.",
+                "Modern distribution center demand stabilized following a prolonged construction surge and shifting regional inventory strategies.",
+                "Third-party logistics providers are re-entering lease negotiations for high-specification fulfillment space near major inland rail hubs.",
+                "Warehousing executives recommend locking in long-term lease commitments before premium logistics space availability narrows further in 2027."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]

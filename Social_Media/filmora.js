@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "RED SEA: ATTACKS AND MILITARY ACTION",
-                "teaserTitle": "CONTAINER DEMAND: EUROPEAN IMPORT PULL-FORWARD",
-                "visual_caption": "Commercial shipping faced kinetic strikes in the Bab al-Mandab Strait resulting in 6 fatalities. The U.S. military responded by disabling a commercial containership involved in the transit lane."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS IT BREACH",
+                "visual_caption": "The USTR is implementing Section 301 tariffs on 60 nations as prior duties expire. Shippers face immediate compliance audits and elevated customs inspection risks at major domestic entry ports."
             },
             {
                 "slide_index": 2,
-                "headline": "CONTAINER DEMAND: EUROPEAN IMPORT PULL-FORWARD",
-                "teaserTitle": "RHINE WATERWAYS: BARGE SURCHARGE SURGE",
-                "visual_caption": "European container import demand is projected to weaken in Q4 as peak season cargo arrived early. Logistics providers note that a substantial portion of autumn retail shipments bypassed typical seasonal curves."
+                "headline": "CYBERSECURITY: CEVA LOGISTICS IT BREACH",
+                "teaserTitle": "FLEET EXPANSION: WAN HAI BOXSHIP ORDERS",
+                "visual_caption": "Ceva Logistics suffered a critical IT infrastructure breach that disrupted warehouse operations for European retail partners. Logistics operators are deploying manual fallback procedures while cyber defense teams work to secure connected networks."
             },
             {
                 "slide_index": 3,
-                "headline": "RHINE WATERWAYS: BARGE SURCHARGE SURGE",
-                "teaserTitle": "US IMPORTS: JULY SURGE DESPITE TARIFFS",
-                "visual_caption": "Rhine River transport surcharges skyrocketed as falling water levels forced barge operators to implement emergency fee structures. Shifting cargo from inland barges to overland networks has driven up freight costs."
+                "headline": "FLEET EXPANSION: WAN HAI BOXSHIP ORDERS",
+                "teaserTitle": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "visual_caption": "Wan Hai Lines ordered 8 new containerships worth nearly $980M from a Shanghai shipyard. The deal adds over 80K TEU of capacity to strengthen global transpacific trade routes."
             },
             {
                 "slide_index": 4,
-                "headline": "US IMPORTS: JULY SURGE DESPITE TARIFFS",
-                "teaserTitle": "ASIAN PORTS: TYPHOON DOLPHIN CONGESTION",
-                "visual_caption": "U.S. container imports rose 4.5% in July driven by robust consumer demand. Importers continue frontloading merchandise to protect against potential trade enforcement actions."
+                "headline": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "REGULATION: FMCSA DRIVER ENGLISH ENFORCEMENT",
+                "visual_caption": "The US government imposed a 15% tariff and import price floor on foreign polysilicon components. Equipment manufacturers face higher procurement costs starting Dec 4 as clean energy supply chains adjust."
             },
             {
                 "slide_index": 5,
-                "headline": "ASIAN PORTS: TYPHOON DOLPHIN CONGESTION",
-                "teaserTitle": "FMC RULING: DETENTION FEE FLUIDITY",
-                "visual_caption": "Typhoon Dolphin made landfall near Ningbo, triggering operational closures and severe cargo backlogs across East Asian ports. Terminal operators are working around the clock to clear container yards."
+                "headline": "REGULATION: FMCSA DRIVER ENGLISH ENFORCEMENT",
+                "teaserTitle": "E-COMMERCE: AMAZON TITLE LIMIT RESTRICTIONS",
+                "visual_caption": "Federal regulators proposed codifying mandatory English proficiency rules for all commercial motor vehicle drivers. Fleet operators face stricter roadside enforcement and potential driver disqualifications during upcoming safety audits."
             },
             {
                 "slide_index": 6,
-                "headline": "FMC RULING: DETENTION FEE FLUIDITY",
-                "teaserTitle": "OIL STOCKS: HORMOZ STALEMATE IMPACT",
-                "visual_caption": "The U.S. Court of Appeals upheld an FMC decision on detention and demurrage fees. The ruling reinforces regulatory oversight on ocean carrier billing practices."
+                "headline": "E-COMMERCE: AMAZON TITLE LIMIT RESTRICTIONS",
+                "teaserTitle": "REAL ESTATE: LOGISTICS VACANCY STABILIZATION",
+                "visual_caption": "Amazon introduced a mandatory 75-character limit on product titles for third-party sellers and direct listings. Merchants must instantly update digital catalog metadata to prevent automated listing suppression across search engines."
             },
             {
                 "slide_index": 7,
-                "headline": "OIL STOCKS: HORMOZ STALEMATE IMPACT",
+                "headline": "REAL ESTATE: LOGISTICS VACANCY STABILIZATION",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Brent crude hovered near $89.08 per barrel amid the prolonged Strait of Hormuz stalemate. Energy analysts project supply disruptions to persist through 2027."
+                "visual_caption": "US industrial real estate vacancy dropped to 7.3% in Q2 as warehouse demand stabilized. Shippers are securing high-specification fulfillment centers ahead of projected capacity tightening in 2027."
             },
             {
                 "slide_index": 8,

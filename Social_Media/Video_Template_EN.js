@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "RED SEA SECURITY CRISIS",
+        "hookTitle": "USTR IMPLEMENTS FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "RED SEA: ATTACKS AND MILITARY ACTION",
-                "teaserTitle": "CONTAINER DEMAND: EUROPEAN IMPORT PULL-FORWARD",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS IT BREACH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Commercial shipping faced kinetic strikes in the Bab al-Mandab Strait resulting in six fatalities. The United States military responded by disabling a commercial containership involved in the transit lane."
+                "narration_line": "The United States Trade Representative is implementing Section three oh one tariffs on sixty nations as prior duties expire. Shippers face immediate compliance audits and elevated customs inspection risks at major domestic entry ports."
             },
             {
                 "slide_index": 2,
-                "headline": "CONTAINER DEMAND: EUROPEAN IMPORT PULL-FORWARD",
-                "teaserTitle": "RHINE WATERWAYS: BARGE SURCHARGE SURGE",
+                "headline": "CYBERSECURITY: CEVA LOGISTICS IT BREACH",
+                "teaserTitle": "FLEET EXPANSION: WAN HAI BOXSHIP ORDERS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "European container import demand is projected to weaken in the fourth quarter as peak season cargo arrived early. Logistics providers note that a substantial portion of autumn retail shipments bypassed typical seasonal curves."
+                "narration_line": "Ceva Logistics suffered a critical IT infrastructure breach that disrupted warehouse operations for European retail partners. Logistics operators are deploying manual fallback procedures while cyber defense teams work to secure connected networks."
             },
             {
                 "slide_index": 3,
-                "headline": "RHINE WATERWAYS: BARGE SURCHARGE SURGE",
-                "teaserTitle": "US IMPORTS: JULY SURGE DESPITE TARIFFS",
+                "headline": "FLEET EXPANSION: WAN HAI BOXSHIP ORDERS",
+                "teaserTitle": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Rhine River transport surcharges skyrocketed as falling water levels forced barge operators to implement emergency fee structures. Shifting cargo from inland barges to overland networks has driven up freight costs."
+                "narration_line": "Wan Hai Lines ordered eight new containerships worth nearly nine hundred eighty million dollars from a Shanghai shipyard. The deal adds over eighty thousand TEU of capacity to strengthen global transpacific trade routes."
             },
             {
                 "slide_index": 4,
-                "headline": "US IMPORTS: JULY SURGE DESPITE TARIFFS",
-                "teaserTitle": "ASIAN PORTS: TYPHOON DOLPHIN CONGESTION",
+                "headline": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "REGULATION: FMCSA DRIVER ENGLISH ENFORCEMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "United States container imports rose four point five percent in July driven by robust consumer demand. Importers continue frontloading merchandise to protect against potential trade enforcement actions."
+                "narration_line": "The United States government imposed a fifteen percent tariff and import price floor on foreign polysilicon components. Equipment manufacturers face higher procurement costs starting December fourth as clean energy supply chains adjust."
             },
             {
                 "slide_index": 5,
-                "headline": "ASIAN PORTS: TYPHOON DOLPHIN CONGESTION",
-                "teaserTitle": "FMC RULING: DETENTION FEE FLUIDITY",
+                "headline": "REGULATION: FMCSA DRIVER ENGLISH ENFORCEMENT",
+                "teaserTitle": "E-COMMERCE: AMAZON TITLE LIMIT RESTRICTIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Typhoon Dolphin made landfall near Ningbo, triggering operational closures and severe cargo backlogs across East Asian ports. Terminal operators are working around the clock to clear container yards."
+                "narration_line": "Federal regulators proposed codifying mandatory English proficiency rules for all commercial motor vehicle drivers. Fleet operators face stricter roadside enforcement and potential driver disqualifications during upcoming safety audits."
             },
             {
                 "slide_index": 6,
-                "headline": "FMC RULING: DETENTION FEE FLUIDITY",
-                "teaserTitle": "OIL STOCKS: HORMOZ STALEMATE IMPACT",
+                "headline": "E-COMMERCE: AMAZON TITLE LIMIT RESTRICTIONS",
+                "teaserTitle": "REAL ESTATE: LOGISTICS VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The United States Court of Appeals upheld a Federal Maritime Commission decision on detention and demurrage fees. The ruling reinforces regulatory oversight on ocean carrier billing practices."
+                "narration_line": "Amazon introduced a mandatory seventy-five character limit on product titles for third-party sellers and direct listings. Merchants must instantly update digital catalog metadata to prevent automated listing suppression across search engines."
             },
             {
                 "slide_index": 7,
-                "headline": "OIL STOCKS: HORMOZ STALEMATE IMPACT",
+                "headline": "REAL ESTATE: LOGISTICS VACANCY STABILIZATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Brent crude hovered near eighty-nine dollars per barrel amid the prolonged Strait of Hormuz stalemate. Energy analysts project supply disruptions to persist through two thousand twenty-seven."
+                "narration_line": "United States industrial real estate vacancy dropped to seven point three percent in the second quarter as warehouse demand stabilized. Shippers are securing high-specification fulfillment centers ahead of projected capacity tightening in twenty twenty-seven."
             },
             {
                 "slide_index": 8,
