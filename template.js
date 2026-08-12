@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR MOVES AHEAD WITH FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR implements Section 301 tariffs on 60 nations targeting forced labor as international trade policies experience renewed volatility."
+        "titleWhite": "HOUTHI MISSILE STRIKES KILL",
+        "titleBlue": "SIX",
+        "footerSummary": "Lethal Red Sea attacks and Hormuz blockades escalate global trade risks as Rhine surcharges and new tariff levies compound operational freight friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "MARITIME: HOUTHI MISSILE STRIKES KILL SIX",
             "points": [
-                "The Office of the United States Trade Representative announced the formal implementation of sweeping trade tariffs targeting 60 nations.",
-                "The enforcement actions are executed under Section 301 of the Trade Act of 1974 to penalize forced labor practices across global supply chains.",
-                "Affected international trading partners are urgently restructuring export compliance frameworks to mitigate incoming border friction and clearance delays.",
-                "Enterprise compliance officers anticipate widespread supply chain disruptions as customs authorities intensify origin audits across affected corridors."
+                "Houthi rebels struck a commercial cargo vessel in the Bab al-Mandab Strait with 3 ballistic missiles, resulting in 6 crew fatalities.",
+                "The lethal assault marks the first fatal attack on merchant shipping in the Red Sea corridor since the start of the regional conflict in 2026.",
+                "Ocean carriers are re-evaluating Suez Canal transit protocols, forcing additional vessel reroutings around the Cape of Good Hope.",
+                "Insurance underwriters have raised war-risk premiums by up to 25% for vessel operators attempting passage through high-risk Arabian Sea channels."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT: TYPHOON DOLPHIN CONGESTION",
+            "nextUpTease": "FUEL: HORMUZ STALEMATE RALLIES CRUDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-12T08:00:00Z",
+                "Source: https://www.cnbc.com/supply-chain",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORT: TYPHOON DOLPHIN CONGESTION",
+            "heading": "FUEL: HORMUZ STALEMATE RALLIES CRUDE",
             "points": [
-                "Typhoon Dolphin made direct landfall near Ningbo, ranking as the strongest storm to impact China's coastal manufacturing infrastructure this year.",
-                "Torrential rains and widespread flooding have severely paralyzed terminal gate operations and container handling across major Asian export hubs.",
-                "Ocean carriers are bracing for rolling vessel schedule disruptions and substantial cargo backlogs heading into the upcoming peak shipping season.",
-                "Regional port authorities have deployed emergency clearance protocols to restore container throughput before vessel queues compound further."
+                "Brent crude prices ticked up 0.19% to $89.08 per barrel as an ongoing naval stalemate near the Strait of Hormuz tightens energy availability.",
+                "U.S. gasoline prices edged up 2 cents overnight, reaching a national benchmark average of $4.04 per gallon.",
+                "Dark transits and off-grid oil cargo switching have increased outside the strait as tanker operators attempt to bypass blockade monitoring.",
+                "Energy analysts project extended oil supply disruptions lasting through fiscal year 2027 if military tensions persist across primary Middle East shipping lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: MEXICAN TRUCK PRODUCTION SURGE",
+            "nextUpTease": "INLAND: RHINE BARGE SURCHARGES SKYROCKET",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-12T07:30:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-12T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EQUIPMENT: MEXICAN TRUCK PRODUCTION SURGE",
+            "heading": "INLAND: RHINE BARGE SURCHARGES SKYROCKET",
             "points": [
-                "Heavy-duty truck manufacturing and export volumes across Mexican facilities soared by 51.8% year over year during the month of July.",
-                "Assembly plants produced a combined 14,675 commercial trucks and buses, eclipsing the 9,668 vehicles recorded in the same period last year.",
-                "Cross-border logistics operators are leveraging the manufacturing surge to replenish constrained over-the-road equipment inventories in North America.",
-                "Automotive supply chain analysts project continued strong vehicle export volume as nearshoring initiatives accelerate cross-border trucking capacity."
+                "Inland waterway transport surcharges across the Rhine River have surged sharply due to declining water levels obstructing barge capacity.",
+                "Barge operators in Central Europe are imposing severe low-water surcharges as vessel intake capacities are cut by over 40%.",
+                "European industrial shippers are shifting bulk containerized cargo onto already congested regional rail and motor carrier networks.",
+                "Supply chain planners anticipate compounding inland freight rate surcharges through Q3 as low water levels persist across critical European river arterial routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: EBAY GROWS REVENUE AND GMV",
+            "nextUpTease": "AIR: MUSCAT DUBAI ROAD FEEDER EXPANSION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-11T10:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-12T08:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FINANCE: EBAY GROWS REVENUE AND GMV",
+            "heading": "AIR: MUSCAT DUBAI ROAD FEEDER EXPANSION",
             "points": [
-                "eBay reported a robust 14% year-over-year increase in both total revenue and Gross Merchandise Volume on an FX-neutral basis for Q2 2026.",
-                "The digital marketplace expansion coincides with eBay's $1.4B acquisition of fashion platform Depop to capture wider C2C market share.",
-                "Online retail logistics providers are adjusting fulfillment routing to accommodate expanding marketplace order volumes ahead of autumn sales.",
-                "Financial markets responded positively to the transaction, viewing the strategic acquisition as a key driver for long-term platform monetization."
+                "Oman Air has integrated a permanent overland road feeder surface network connecting Muscat and Dubai to bolster regional air cargo connectivity.",
+                "The Muscat air cargo hub has emerged as a primary contingency gateway for Middle Eastern freight amid Red Sea and Gulf maritime bottlenecks.",
+                "Air logistics forwarders are expanding bonded truck shuttle frequencies between Oman and the UAE to preserve scheduled transit times.",
+                "Multimodal transport operators expect air cargo transshipment volumes through Muscat to increase 20% over the next two quarters."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION: SECOND QUARTER ROBOT ORDERS",
+            "nextUpTease": "TARIFFS: POLYSILICON IMPORTS FACE LEVY",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: 2026-08-06T12:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-12T07:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AUTOMATION: SECOND QUARTER ROBOT ORDERS",
+            "heading": "TARIFFS: POLYSILICON IMPORTS FACE LEVY",
             "points": [
-                "Industrial automation demand broadened significantly in the second quarter as warehouse operators scaled up physical robotics investments.",
-                "North American fulfillment centers accelerated deployment schedules to counter persistent labor shortages and rising warehouse operational costs.",
-                "Facility managers are increasingly integrating multi-agent orchestration software to optimize automated storage and retrieval workflows.",
-                "Supply chain technology consultants project robot order volumes will maintain an upward trajectory through the remainder of fiscal 2026."
+                "The U.S. administration announced a 15% tariff on imported polysilicon used in solar power systems and advanced semiconductor manufacturing.",
+                "The trade order includes a mandatory import price floor set to take official effect on December 4, 2026.",
+                "Domestic procurement teams are shifting renewable energy component sourcing to domestic and nearshore suppliers ahead of the Q4 deadline.",
+                "Global tech and clean energy supply chains face immediate component cost increases as raw material duties compound existing chip manufacturing expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL: NATIONAL DIESEL AVERAGE FALLS",
+            "nextUpTease": "RAIL: PORT OF VIRGINIA DIRECT SERVICE",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-11T09:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-11T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FUEL: NATIONAL DIESEL AVERAGE FALLS",
+            "heading": "RAIL: PORT OF VIRGINIA DIRECT SERVICE",
             "points": [
-                "The U.S. national average retail diesel price dropped 9.1 cents to $5.257 per gallon for the week ending August 10, 2026.",
-                "The notable downward price correction breaks a five-week consecutive streak of fuel cost increases that had strained carrier operating margins.",
-                "For-hire trucking fleets are cautiously optimistic that stabilizing fuel expenses will ease over-the-road freight rate volatility.",
-                "Energy market analysts continue to monitor global crude benchmarks to assess whether the diesel price relief will persist into autumn."
+                "The Port of Virginia partnered with CSX Railroad to launch a direct intermodal rail service linking deepwater ocean terminals directly to Indianapolis.",
+                "The direct rail link bypasses traditional rail interchange bottlenecks in Chicago, cutting drayage distances and regional transit times.",
+                "Midwestern importers and agricultural exporters gain direct access to East Coast ocean carrier services without regional highway congestion.",
+                "Rail logistics analysts estimate the direct intermodal service will eliminate over 15,000 long-haul truck trips annually from Midwest corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR: AIR CARGO RATES SLUMP AFTER EU REFORM",
+            "nextUpTease": "ECOMMERCE: AMAZON TITLE POLICY STRICT LIMITS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-11T15:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-11T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR: AIR CARGO RATES SLUMP AFTER EU REFORM",
+            "heading": "ECOMMERCE: AMAZON TITLE POLICY STRICT LIMITS",
             "points": [
-                "Global air cargo spot rates and volume experienced a noticeable slump following the recent elimination of the EU low-value import duty-free exemption.",
-                "E-commerce forwarders are rapidly altering consolidation strategies as new regulatory compliance requirements take effect across European borders.",
-                "Cross-border air freight carriers are recalibrating flight capacities to manage shifting demand patterns from Asian export hubs.",
-                "Logistics experts predict that online retail supply chains will require several months to fully adapt to the revised European tax framework."
+                "Amazon enforced strict product title limits capping item titles at 75 characters max across third-party and first-party product listings.",
+                "The policy change aims to standardize catalog search algorithms and streamline mobile checkout experiences across global e-commerce channels.",
+                "Third-party marketplace sellers must update hundreds of thousands of product SKUs to comply with the mandated character boundaries.",
+                "Search engine optimization strategists warn that truncated titles may temporarily alter organic search visibility for high-volume retail listings."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-11T11:00:00Z",
+                "Source: https://www.ecommercebytes.com",
+                "Published: 2026-08-07T11:00:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+        "hookTitle": "MARITIME: HOUTHI MISSILE STRIKES KILL SIX",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PORT: TYPHOON DOLPHIN CONGESTION",
+                "headline": "MARITIME: HOUTHI MISSILE STRIKES KILL SIX",
+                "teaserTitle": "FUEL: HORMUZ STALEMATE RALLIES CRUDE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is implementing Section three oh one tariffs across sixty nations to penalize forced labor. Affected trading partners are urgently restructuring compliance frameworks to mitigate border friction."
+                "narration_line": "Houthi rebels struck a commercial cargo ship in the Bab al-Mandab Strait with three ballistic missiles, causing six crew fatalities. The fatal attack has forced major ocean carriers to immediately suspend remaining Red Sea transits."
             },
             {
                 "slide_index": 2,
-                "headline": "PORT: TYPHOON DOLPHIN CONGESTION",
-                "teaserTitle": "EQUIPMENT: MEXICAN TRUCK PRODUCTION SURGE",
+                "headline": "FUEL: HORMUZ STALEMATE RALLIES CRUDE",
+                "teaserTitle": "INLAND: RHINE BARGE SURCHARGES SKYROCKET",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Typhoon Dolphin has struck near Ningbo as the strongest storm of the year, paralyzing terminal gate operations. Ocean carriers are bracing for rolling vessel delays and cargo backlogs heading into peak season."
+                "narration_line": "Brent crude prices rose to eighty-nine dollars and eight cents per barrel amidst an ongoing military stalemate near the Strait of Hormuz. Energy analysts warn that regional supply disruptions could now persist through fiscal year twenty twenty-seven."
             },
             {
                 "slide_index": 3,
-                "headline": "EQUIPMENT: MEXICAN TRUCK PRODUCTION SURGE",
-                "teaserTitle": "FINANCE: EBAY GROWS REVENUE AND GMV",
+                "headline": "INLAND: RHINE BARGE SURCHARGES SKYROCKET",
+                "teaserTitle": "AIR: MUSCAT DUBAI ROAD FEEDER EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Mexican heavy-duty truck production and exports soared fifty-one point eight percent year over year in July. Assembly plants delivered fourteen thousand six hundred seventy-five commercial vehicles to support North American corridors."
+                "narration_line": "Rhine River barge transport surcharges have skyrocketed as falling water levels reduce inland vessel intake capacities by over forty percent. Shippers are rapidly diverting containerized freight onto overburdened European rail and trucking networks."
             },
             {
                 "slide_index": 4,
-                "headline": "FINANCE: EBAY GROWS REVENUE AND GMV",
-                "teaserTitle": "AUTOMATION: SECOND QUARTER ROBOT ORDERS",
+                "headline": "AIR: MUSCAT DUBAI ROAD FEEDER EXPANSION",
+                "teaserTitle": "TARIFFS: POLYSILICON IMPORTS FACE LEVY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "EBay reported a fourteen percent year-over-year increase in both revenue and Gross Merchandise Volume for the second quarter. The marketplace growth coincides with its one point four billion dollar acquisition of Depop."
+                "narration_line": "Oman Air expanded its overland road feeder service connecting Muscat and Dubai to bypass regional maritime bottlenecks. The strategic highway corridor has boosted air freight transshipment volumes through Middle Eastern hubs by twenty percent."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTOMATION: SECOND QUARTER ROBOT ORDERS",
-                "teaserTitle": "FUEL: NATIONAL DIESEL AVERAGE FALLS",
+                "headline": "TARIFFS: POLYSILICON IMPORTS FACE LEVY",
+                "teaserTitle": "RAIL: PORT OF VIRGINIA DIRECT SERVICE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Industrial automation demand expanded in the second quarter as warehouse operators scaled up physical robotics deployments. Facilities are integrating multi-agent software to optimize storage workflows."
+                "narration_line": "The United States government announced a fifteen percent tariff and import price floor on polysilicon imports starting December fourth. Clean energy and technology procurement teams are urgently re-routing solar and chip component supply chains."
             },
             {
                 "slide_index": 6,
-                "headline": "FUEL: NATIONAL DIESEL AVERAGE FALLS",
-                "teaserTitle": "AIR: AIR CARGO RATES SLUMP AFTER EU REFORM",
+                "headline": "RAIL: PORT OF VIRGINIA DIRECT SERVICE",
+                "teaserTitle": "ECOMMERCE: AMAZON TITLE POLICY STRICT LIMITS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The national average retail diesel price fell nine point one cents to five dollars and twenty-six cents per gallon. This price correction breaks a five-week consecutive streak of fuel cost increases."
+                "narration_line": "The Port of Virginia and CSX Railroad launched a direct rail service to Indianapolis, bypassing traditional Chicago transfer points. The new intermodal route is projected to eliminate fifteen thousand long-haul truck trips every year."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR: AIR CARGO RATES SLUMP AFTER EU REFORM",
+                "headline": "ECOMMERCE: AMAZON TITLE POLICY STRICT LIMITS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Global air cargo spot rates and volume slumped following the recent elimination of European duty-free tax rules. Forwarders are rapidly altering consolidation strategies to maintain compliance."
+                "narration_line": "Amazon introduced a strict seventy-five character limit on product titles across all seller listings to streamline marketplace search performance. Merchants must reconfigure thousands of product listings immediately to prevent search index penalties."
             },
             {
                 "slide_index": 8,
