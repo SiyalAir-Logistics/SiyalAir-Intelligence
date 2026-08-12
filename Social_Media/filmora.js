@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRUMP IMPOSES 15 PERCENT POLYSILICON TARIFF",
+        "hookTitle": "USTR ENFORCES FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: TRUMP IMPOSES 15 PERCENT POLYSILICON TARIFF",
-                "teaserTitle": "EQUIPMENT: MEXICAN HEAVY TRUCK PRODUCTION SOARS",
+                "headline": "TRADE POLICY: USTR ENFORCES FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME: TYPHOON DOLPHIN ACCELERATES ASIAN PORT CONGESTION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "President Donald Trump has announced a new fifteen percent tariff on polysilicon imports starting December fourth. The measure establishes an import price floor aimed at strengthening domestic semiconductor manufacturing and solar energy supply chains."
+                "narration_line": "The United States Trade Representative has implemented Section 301 tariffs on sixty trading nations. Importers face immediate duty escalations and heightened customs origin checks across key trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "EQUIPMENT: MEXICAN HEAVY TRUCK PRODUCTION SOARS",
-                "teaserTitle": "MARITIME: MSC FINED 6 MILLION DOLLARS",
+                "headline": "MARITIME: TYPHOON DOLPHIN ACCELERATES ASIAN PORT CONGESTION",
+                "teaserTitle": "AUTOMOTIVE: GM SECURES BILLION MULTIYEAR PARTS DEAL",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Mexican production of heavy duty commercial trucks surged fifty-one point eight percent year over year in July reaching nearly fifteen thousand units. Strong export demand to North American markets drove record output across key manufacturing facilities."
+                "narration_line": "Typhoon Dolphin has stranded over two point four million TEU of container vessel capacity off eastern China. Ocean carriers are preparing emergency schedule recovery plans to manage port congestion."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: MSC FINED 6 MILLION DOLLARS",
-                "teaserTitle": "RAIL: PORT OF VIRGINIA EXPANDS CSX SERVICE",
+                "headline": "AUTOMOTIVE: GM SECURES BILLION MULTIYEAR PARTS DEAL",
+                "teaserTitle": "CONTAINER SHIPPING: US IMPORTS SURGE FOUR PERCENT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "MSC Shipmanagement was fined six million dollars and placed on four years probation following a Charleston harbor incident investigation. Federal authorities sanctioned the ocean carrier after it admitted to concealing critical engine control defects on a container vessel."
+                "narration_line": "General Motors secured a supply agreement worth four point five billion dollars to protect vehicle assembly lines. The multiyear deal guarantees component delivery volumes and hedges against global supply chain disruptions."
             },
             {
                 "slide_index": 4,
-                "headline": "RAIL: PORT OF VIRGINIA EXPANDS CSX SERVICE",
-                "teaserTitle": "AIR CARGO: CATHAY CARGO POSTS STRONG FIRST HALF",
+                "headline": "CONTAINER SHIPPING: US IMPORTS SURGE FOUR PERCENT",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES AT SEVEN PERCENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Port of Virginia has officially launched a new direct CSX rail connection into the Indianapolis regional logistics hub. Ocean shippers can now bypass congested Chicago rail interchanges to achieve faster inland container distribution."
+                "narration_line": "United States container imports grew four point five percent in July driven by Chinese cargo shipments. Retailers are accelerating inventory imports to buffer against impending trade policy adjustments and tariffs."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: CATHAY CARGO POSTS STRONG FIRST HALF",
-                "teaserTitle": "RETAIL: SPIRIT HALLOWEEN PARENT BUYS HOT TOPIC",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES AT SEVEN PERCENT",
+                "teaserTitle": "E-COMMERCE: ETSY REDUCES WORKFORCE FOLLOWING DEPOP SALE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Cathay Pacific Cargo reported strong first half financial results driven by rapid adaptation to evolving global trade flows. The air freight operator expanded flexible capacity models to capture shifting Asian manufacturing export demand."
+                "narration_line": "Industrial property vacancy rates declined to seven point three percent as leasing demand outpaced warehouse construction. Logistics operators are securing prime distribution space near major intermodal rail and port hubs."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: SPIRIT HALLOWEEN PARENT BUYS HOT TOPIC",
-                "teaserTitle": "LOGISTICS: CLOROX TRANSITIONS TO NEW ERP SYSTEM",
+                "headline": "E-COMMERCE: ETSY REDUCES WORKFORCE FOLLOWING DEPOP SALE",
+                "teaserTitle": "FUEL LOGISTICS: NATIONAL DIESEL PRICES DROP NINE CENTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The parent entity of Spirit Halloween has executed a definitive agreement to acquire retail brand Hot Topic. The integrated specialty retailer will continue operating independent headquarters while consolidating back-end retail supply chains."
+                "narration_line": "Etsy announced two hundred employee layoffs following its one point four billion dollar sale of Depop to eBay. The platform is streamlining operational overhead to focus on core marketplace growth."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: CLOROX TRANSITIONS TO NEW ERP SYSTEM",
+                "headline": "FUEL LOGISTICS: NATIONAL DIESEL PRICES DROP NINE CENTS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Household product maker Clorox has initiated a full enterprise resource planning system transition across its global operations. The platform upgrade is projected to optimize inventory levels and enhance supply chain planning automation."
+                "narration_line": "National average diesel fuel prices fell nine cents to five dollars and twenty-six cents per gallon. Motor carriers gain immediate operational cost relief after five consecutive weeks of diesel increases."
             },
             {
                 "slide_index": 8,

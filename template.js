@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRUMP IMPOSES 15 PERCENT POLYSILICON",
-        "titleBlue": "TARIFF",
-        "footerSummary": "New 15 percent import tariffs on solar and semiconductor polysilicon trigger immediate supply chain realignment and pricing surges across electronics manufacturing."
+        "titleWhite": "USTR ENFORCES FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR implements Section 301 tariffs on 60 nations, forcing global supply chains to immediately re-audit cross-border vendor compliance networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "REGULATION: TRUMP IMPOSES 15 PERCENT POLYSILICON TARIFF",
+            "heading": "TRADE POLICY: USTR ENFORCES FORCED LABOR TARIFFS",
             "points": [
-                "President Donald Trump issued a presidential proclamation imposing a 15 percent tariff on imported polysilicon utilized in solar power and semiconductor manufacturing. The trade order officially takes effect on December 4, 2026, establishing a strict regulatory price floor across international trade channels.",
-                "The policy intervention introduces an explicit import price floor designed to curb low-cost international influxes into domestic manufacturing networks. Clean energy developers and microchip fabricators face immediate procurement cost shifts as global supply networks adjust to the fee structure.",
-                "Industry analysts anticipate rapid supply chain realignment as domestic buyers seek tariff-exempt sourcing contracts prior to the December deadline. Sourcing executives are re-evaluating raw material pipelines to insulate component pricing against long-term cost increases.",
-                "The regulatory shift accelerates broader federal efforts to onshore critical tech inputs and secure domestic supply chain resilience. Manufacturers must recalibrate multi-year component budgets to accommodate structural shifts in primary material sourcing."
+                "The Office of the United States Trade Representative formally implemented Section 301 tariffs targeting sixty trading nations following the expiration of Section 122 emergency duties. The trade enforcement action establishes stringent forced-labor compliance protocols across international trade corridors.",
+                "Importers face immediate duty escalations and heightened customs scrutiny on cross-border shipments originating from non-compliant manufacturing regions. Compliance officers must conduct expedited supply chain origin audits to prevent port detentions.",
+                "Global sourcing networks are recalibrating procurement pathways away from restricted trade zones to mitigate tariff exposures and regulatory penalties. Corporate compliance frameworks are prioritizing real-time vendor verification tools to ensure seamless customs clearance.",
+                "Logistics executives anticipate potential transit delays as U.S. Customs intensifies documentation checks on high-risk commodity imports. Organizations are adjusting landing cost calculations to account for updated tariff schedules across key global routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: MEXICAN HEAVY TRUCK PRODUCTION SOARS",
+            "nextUpTease": "MARITIME: TYPHOON DOLPHIN ACCELERATES ASIAN PORT CONGESTION",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-polysilicon-tariff-solar-chips/",
-                "Published: 2026-08-11T14:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
+                "Published: 2026-08-11T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "EQUIPMENT: MEXICAN HEAVY TRUCK PRODUCTION SOARS",
+            "heading": "MARITIME: TYPHOON DOLPHIN ACCELERATES ASIAN PORT CONGESTION",
             "points": [
-                "Mexican heavy-duty truck production recorded a 51.8 percent year-over-year surge in July, reaching 14,675 commercial vehicles and buses. Export volumes mirrored this expansion as cross-border freight demand between Mexico and North America intensified.",
-                "Vehicle manufacturers scaled assembly operations significantly from the 9,668 units produced during the same operational period last year. High production throughput highlights robust carrier fleet recapitalization strategies across continental shipping corridors.",
-                "Cross-border logistics networks continue to handle heightened commercial vehicle traffic across major Southwestern land ports of entry. Fleet operators are accelerating equipment acquisitions to secure reliable long-haul capacity ahead of peak shipping seasons.",
-                "The sustained manufacturing output underlines Mexico's growing position as a premier automotive supply chain hub for North America. Strong export metrics reflect durable regional trade flows despite macroeconomic volatility in global markets."
+                "Typhoon Dolphin made landfall near Ningbo, severely disrupting vessel operations and creating widespread maritime congestion across East Asian container hubs. Over two point four million TEU of containership capacity is currently stranded at anchor off key Chinese ports.",
+                "Terminal operations at major ocean gateways face severe berth delays and container yard backlog escalation as vessel schedules slip. Ocean carriers are issuing emergency schedule recovery plans to rebalance global container fleet deployments.",
+                "Port closures across Ningbo and Shanghai are cascading into transpacific and Asia-Europe shipping schedules, straining downstream port arrival windows. Freight forwarders are advising cargo owners to brace for extended dwell times and potential blank sailings.",
+                "Supply chain managers are adjusting inventory safety buffers to absorb arriving vessel delays across West Coast and European receiving terminals. The weather disruption threatens to elevate short-term spot container rates along major trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: MSC FINED 6 MILLION DOLLARS",
+            "nextUpTease": "AUTOMOTIVE: GM SECURES BILLION MULTIYEAR PARTS DEAL",
             "tags": [
-                "Source: https://www.ttnews.com/articles/mexican-truck-production-july-2026",
-                "Published: 2026-08-11T12:00:00Z",
+                "Source: https://theloadstar.com/tropical-storms-bring-congestion-and-cargo-backlogs-at-asian-ports/",
+                "Published: 2026-08-11T15:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: MSC FINED 6 MILLION DOLLARS",
+            "heading": "AUTOMOTIVE: GM SECURES BILLION MULTIYEAR PARTS DEAL",
             "points": [
-                "MSC Shipmanagement was ordered to pay a $6 million fine and placed on four years of federal probation following a Charleston court ruling. The judicial decision resolves an investigation into a hazardous engine-control failure aboard the container vessel MSC Michigan VII.",
-                "Federal investigators confirmed the carrier knowingly concealed severe mechanical control defects, obstructing subsequent safety enforcement protocols. The criminal penalty highlights heightened oversight surrounding maritime safety compliance and vessel maintenance standards.",
-                "Ocean carriers operating in U.S. jurisdictional waters face stricter port state control inspections and regulatory scrutiny following the enforcement action. Maritime legal experts emphasize that failure to report critical propulsion issues risks immediate vessel detention.",
-                "Compliance oversight protocols across global carrier fleets are expected to tighten as regulatory authorities prioritize maritime infrastructure safety. Ocean shippers must monitor carrier operational reliability as enforcement agencies maintain zero-tolerance oversight policies."
+                "General Motors signed a definitive supply agreement valued at up to four point five billion dollars to secure critical automotive parts and components. The multiyear deal is structured to insulate assembly line operations from potential global supply chain disruptions.",
+                "The contractual commitment establishes long-term component pricing floors and guaranteed delivery volumes across domestic manufacturing networks. Auto assembly plants gain critical operational stability against unexpected tier-one supplier bottlenecks.",
+                "Automotive manufacturers are increasingly prioritizing direct multi-billion dollar supplier agreements to hedge against material volatility and geopolitical trade friction. Procurement teams are structuring dual-sourcing strategies to bolster assembly line resilience.",
+                "The capital commitment underscores a broader automotive industry trend toward deep supply chain integration and direct component risk management. Logistics planners are aligning carrier freight networks to support expanded tier-one delivery schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: PORT OF VIRGINIA EXPANDS CSX SERVICE",
+            "nextUpTease": "CONTAINER SHIPPING: US IMPORTS SURGE FOUR PERCENT",
             "tags": [
-                "Source: https://splash247.com/msc-fined-6m-over-charleston-runaway-probe/",
-                "Published: 2026-08-11T11:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/11/gm-reaches-4point5-billion-parts-deal.html",
+                "Published: 2026-08-11T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RAIL: PORT OF VIRGINIA EXPANDS CSX SERVICE",
+            "heading": "CONTAINER SHIPPING: US IMPORTS SURGE FOUR PERCENT",
             "points": [
-                "The Port of Virginia has officially established a direct CSX rail service connecting its coastal marine terminals to the Indianapolis market. The intermodal route allows ocean containers to bypass traditional Midwest rail bottlenecks in Chicago completely.",
-                "Direct rail routing eliminates hundreds of highway drayage miles, significantly accelerating transit times for imported retail and industrial freight. Shippers gain reliable intermodal connectivity into key Midwestern distribution hubs while lowering overall transportation overhead.",
-                "The infrastructure bypass provides cargo owners with critical operational buffers against regional highway congestion and driver shortages. Logistics planners are rerouting import shipments directly to inland rail ramps to streamline supply chain velocity.",
-                "Expanded intermodal network options strengthen East Coast port competitiveness against traditional West Coast gateways during peak shipping periods. Port authorities continue investing in direct rail connections to optimize inland freight distribution systems."
+                "U.S. container import volumes expanded four point five percent in July according to the latest maritime trade tracking data from Descartes. Cargo inflows originating from China drove the bulk of the growth despite ongoing trade policy volatility and tariff adjustments.",
+                "Heightened import volumes reflect accelerated inventory frontloading by domestic retailers seeking to buffer against potential duty rate increases. Container ocean gateways along the U.S. West Coast handled elevated throughput throughout the monthly operational cycle.",
+                "Persistent import demand is keeping ocean carrier vessel utilization rates near maximum capacity across main transpacific shipping routes. Freight rates remain firm as shippers compete for available equipment and vessel space ahead of peak retail shipping cycles.",
+                "Logistics planners are monitoring port dwell times and inland rail connectivity to ensure rapid container discharge from coastal marine terminals. Supply chain managers are balancing inventory carrying costs against persistent international trade disruption risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: CATHAY CARGO POSTS STRONG FIRST HALF",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES AT SEVEN PERCENT",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-indianapolis/",
-                "Published: 2026-08-11T10:30:00Z",
+                "Source: https://theloadstar.com/us-demand-for-imported-goods-unabated-despite-tariff-turbulence/",
+                "Published: 2026-08-11T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR CARGO: CATHAY CARGO POSTS STRONG FIRST HALF",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES AT SEVEN PERCENT",
             "points": [
-                "Cathay Pacific Cargo reported strong financial results for the first half of 2026, driven by dynamic adaptation to shifting trade lanes. The airline successfully realigned freighter capacity to capture emerging e-commerce and high-tech manufacturing demand across Asia.",
-                "Flexible network scheduling enabled the carrier to mitigate regional trade disruptions and maintain elevated load factors on key transpacific routes. Revenue metrics reflected sustained demand for premium air freight services amid broader global trade recalibrations.",
-                "Air logistics operators are increasingly adjusting flight schedules to match shifting manufacturing footprints throughout Southeast Asia. Cargo forwarders are securing block space agreements to insulate high-value supply chains against sudden rate fluctuations.",
-                "The carrier's performance demonstrates the strategic value of operational flexibility within modern international air cargo networks. Industry analysts predict continued capital investment in digital tracking tools and specialized temperature-controlled logistics fleets."
+                "The North American industrial real estate market regained operational balance during the second quarter as leasing demand outpaced new warehouse completions. Real estate research firm Colliers reported the national industrial vacancy rate fell seven basis points sequentially to seven point three percent.",
+                "A slowdown in speculative warehouse construction is stabilizing commercial property fundamentals across major distribution markets. Warehousing tenant absorption rates demonstrate durable enterprise demand for modern distribution and fulfillment space.",
+                "Logistics operators are securing strategically located warehousing assets near key inland intermodal hubs and coastal port gateways. Supply chain networks are focusing on modernizing existing distribution facilities with automated fulfillment technology.",
+                "Stabilizing commercial rent growth provides enterprise shippers with clearer long-term warehousing cost projections. Facilities developers expect construction starts to remain disciplined as institutional investors monitor interest rate developments."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: SPIRIT HALLOWEEN PARENT BUYS HOT TOPIC",
+            "nextUpTease": "E-COMMERCE: ETSY REDUCES WORKFORCE FOLLOWING DEPOP SALE",
             "tags": [
-                "Source: https://theloadstar.com/cathay-cargo-enjoys-strong-first-half-as-it-adapts-to-new-trade-patterns/",
-                "Published: 2026-08-10T16:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance",
+                "Published: 2026-08-11T13:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RETAIL: SPIRIT HALLOWEEN PARENT BUYS HOT TOPIC",
+            "heading": "E-COMMERCE: ETSY REDUCES WORKFORCE FOLLOWING DEPOP SALE",
             "points": [
-                "The parent company of Spirit Halloween has entered into a definitive agreement to acquire national retail chain Hot Topic. Hot Topic and its subsidiaries will maintain independent operations and California headquarters under the new corporate structure.",
-                "The strategic acquisition aims to leverage shared logistics infrastructure, inventory management systems, and seasonal supply chain capabilities. Merging back-end fulfillment networks enables optimized distribution across hundreds of physical storefronts nationwide.",
-                "Retail supply chains continue consolidating distribution channels to offset rising commercial warehousing and last-mile delivery expenses. Supply chain integration will focus on maximizing inventory turnover and streamlining bulk ocean shipping contracts.",
-                "The transaction highlights ongoing consolidation within specialized retail sectors as operators seek scale efficiency. Merged procurement models allow retail groups to negotiate stronger freight rates across ocean and domestic trucking channels."
+                "E-commerce platform Etsy announced a corporate restructuring plan reducing its workforce by two hundred employees. The operational downsizing occurred six days after closing the one point four billion dollar sale of Depop to eBay.",
+                "Management confirmed the organizational adjustments aim to streamline corporate overhead and reallocate capital toward core marketplace growth initiatives. The cash injection from the Depop divestment significantly strengthens the company's balance sheet.",
+                "E-commerce marketplaces are actively recalibrating operational overhead and technology investments to maintain profitability in a shifting retail landscape. Corporate strategy is shifting toward maximizing core platform transaction efficiencies over auxiliary brand management.",
+                "The restructuring highlights broader cost-containment measures across digital retail platforms adapting to shifting consumer spending patterns. Logistics and fulfillment teams are optimizing seller infrastructure to improve end-to-end package delivery velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: CLOROX TRANSITIONS TO NEW ERP SYSTEM",
+            "nextUpTease": "FUEL LOGISTICS: NATIONAL DIESEL PRICES DROP NINE CENTS",
             "tags": [
-                "Source: https://www.retaildive.com/news/spirit-halloween-parent-company-acquires-hot-topic/",
-                "Published: 2026-08-11T09:00:00Z",
+                "Source: https://www.ecommercebytes.com/2026/08/06/etsy-announces-layoffs-after-1-4-billion-infusion-in-cash/",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LOGISTICS: CLOROX TRANSITIONS TO NEW ERP SYSTEM",
+            "heading": "FUEL LOGISTICS: NATIONAL DIESEL PRICES DROP NINE CENTS",
             "points": [
-                "Consumer goods manufacturer Clorox has implemented a modern enterprise resource planning system transition across its global operations. The software upgrade aims to drive major supply chain gains through enhanced demand forecasting and automated warehouse management.",
-                "The enterprise platform overhaul is designed to reduce safety stock inventory levels while optimizing transportation planning routines. Operational leadership expects automated workflows to absorb ongoing inflationary pressures across trucking and maritime logistics.",
-                "Enterprise supply chain technology deployments are increasingly focused on real-time data visibility and automated inventory replenishment. Manufacturing firms are replacing legacy software infrastructure to maintain operating margins against shifting commodity prices.",
-                "System automation allows logistics teams to respond rapidly to demand spikes without building excessive safety stock buffers. Upgraded enterprise resource planning networks represent a critical foundation for modern end-to-end supply chain execution."
+                "The U.S. national average diesel fuel price dropped nine point one cents to five dollars and twenty-six cents per gallon for the week ending August tenth. The price decline snaps a five-week consecutive streak of fuel price increases across domestic trucking corridors.",
+                "Lower fuel expenses provide immediate operational cost relief to long-haul motor carriers and private fleet operators. Surcharges assessed across freight transport contracts are adjusting downward in step with falling diesel benchmarks.",
+                "Energy analysts attribute the weekly price decline to shifting crude oil market dynamics and steady domestic refinery output. Motor carriers continue leveraging fuel optimization software to maximize fleet mileage efficiency.",
+                "Fleets are maintaining strict operational discipline to offset broader non-fuel inflationary pressures across equipment and labor categories. Shippers anticipate modest reductions in total line-haul freight expenditures over the immediate short term."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/clorox-erp-transition-supply-chain/",
-                "Published: 2026-08-11T08:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/national_diesel_average_falls",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         }
