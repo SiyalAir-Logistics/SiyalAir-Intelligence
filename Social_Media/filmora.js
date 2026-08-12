@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PENTAGON EXTENDS JONES ACT WAIVER",
+        "hookTitle": "USTR EXPANDS SECTION 301 TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FUEL LOGISTICS: PENTAGON EXTENDS JONES ACT WAIVER",
-                "teaserTitle": "AUTOMOTIVE LOGISTICS: MEXICAN HEAVY TRUCK PRODUCTION SOARS",
+                "headline": "TRADE POLICY: USTR EXPANDS SECTION 301 TARIFFS",
+                "teaserTitle": "TARIFFS: TRUMP LEVIES POLYSILICON IMPORT DUTIES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Department of Defense issued a ninety day extension on the active Jones Act waiver. Energy shippers gain immediate flexibility to transport refined petroleum products along domestic coastal lanes."
+                "narration_line": "The Trade Representative implemented Section three hundred one tariffs across sixty nations following Section one hundred twenty-two expiration. Importers face immediate compliance adjustments and elevated duty liabilities across active trade corridors."
             },
             {
                 "slide_index": 2,
-                "headline": "AUTOMOTIVE LOGISTICS: MEXICAN HEAVY TRUCK PRODUCTION SOARS",
-                "teaserTitle": "ENERGY LOGISTICS: US FORECASTS HORMUZ DISRUPTIONS THROUGH 2027",
+                "headline": "TARIFFS: TRUMP LEVIES POLYSILICON IMPORT DUTIES",
+                "teaserTitle": "OCEAN FREIGHT: COSCO RESUMES RED SEA ROUTINGS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Mexican heavy duty truck production surged fifty one point eight percent year over year in July. High assembly output is accelerating commercial vehicle exports across North American carrier networks."
+                "narration_line": "The White House announced a fifteen percent tariff and import price floor on all imported polysilicon effective December fourth. Sourcing teams are recalibrating procurement budgets for solar and semiconductor components."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY LOGISTICS: US FORECASTS HORMUZ DISRUPTIONS THROUGH 2027",
-                "teaserTitle": "MARITIME REGULATION: MSC FINED SIX MILLION FOR CONCEALED DEFECTS",
+                "headline": "OCEAN FREIGHT: COSCO RESUMES RED SEA ROUTINGS",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "United States officials project commercial shipping disruptions across the Strait of Hormuz will extend through 2027. Extended maritime transit times around Africa continue elevating ocean freight charter rates."
+                "narration_line": "Cosco Shipping officially reopened container booking services through the Red Sea despite ongoing regional security concerns. The strategic shift reduces transit times between Asian ports and European distribution centers significantly."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME REGULATION: MSC FINED SIX MILLION FOR CONCEALED DEFECTS",
-                "teaserTitle": "FLEET ASSETS: STAR BULK CANCELS FOUR HUNDRED MILLION DEAL",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
+                "teaserTitle": "INTERMODAL: VIRGINIA ADDS DIRECT CSX SERVICE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "MSC Shipmanagement was ordered to pay a six million dollar fine for concealing hazardous engine defects. Federal regulators are increasing safety audits across ocean carrier container fleets."
+                "narration_line": "Industrial warehouse vacancy dropped to seven point three percent as demand outpaced new warehouse completion numbers nationwide. Lease rates across primary inland logistics hubs show strong pricing stability entering peak season."
             },
             {
                 "slide_index": 5,
-                "headline": "FLEET ASSETS: STAR BULK CANCELS FOUR HUNDRED MILLION DEAL",
-                "teaserTitle": "BATTERY SUPPLY: GM DIVESTS INDIANA BATTERY VENTURE STAKE",
+                "headline": "INTERMODAL: VIRGINIA ADDS DIRECT CSX SERVICE",
+                "teaserTitle": "LOGISTICS FINANCE: RETAILERS SELL TARIFF REFUNDS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Star Bulk Carriers officially terminated a four hundred seventy million dollar fleet acquisition deal with Genco. The cancellation alters corporate consolidation plans across the global dry bulk shipping market."
+                "narration_line": "The Port of Virginia introduced direct intermodal rail service to Indianapolis connecting ocean terminals to Midwest markets. Containerized freight bypasses Chicago rail interchange congestion to deliver faster transit performance."
             },
             {
                 "slide_index": 6,
-                "headline": "BATTERY SUPPLY: GM DIVESTS INDIANA BATTERY VENTURE STAKE",
-                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS IT BREACH EXPOSES BCOS",
+                "headline": "LOGISTICS FINANCE: RETAILERS SELL TARIFF REFUNDS",
+                "teaserTitle": "FLEET SAFETY: FMCSA ENFORCES ENGLISH PROFICIENCY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "General Motors sold its stake in an Indiana battery manufacturing joint venture directly to Samsung SDI. The divestment allows the automaker to optimize capital allocation across core vehicle operations."
+                "narration_line": "Retailers are selling pending trade duty refund claims to financial institutions to generate immediate working capital liquidity. Custom authorities have processed over one hundred billion dollars in total duty refunds to date."
             },
             {
                 "slide_index": 7,
-                "headline": "CYBERSECURITY: CEVA LOGISTICS IT BREACH EXPOSES BCOS",
+                "headline": "FLEET SAFETY: FMCSA ENFORCES ENGLISH PROFICIENCY",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Ceva Logistics suffered a major cyber breach impacting warehouse management systems across European facilities. Shippers faced temporary tracking lapses as technical teams isolated affected network infrastructure."
+                "narration_line": "Federal motor carrier regulators proposed strict rule updates targeting driver English language proficiency across interstate fleets. Roadside inspections are intensifying to eliminate non-compliant drivers from commercial highway operations."
             },
             {
                 "slide_index": 8,
