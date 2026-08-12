@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: PANAMA CANAL BACKLOGS",
-                "visual_caption": "USTR announced Section 301 tariffs targeting 60 trading partners as Section 122 measures expire. Importers must audit supplier labor compliance to prevent customs delays at US ports."
+                "headline": "RAIL INTERMODAL: UNION PACIFIC SURCHARGES",
+                "teaserTitle": "TRUCKING: MEXICAN TRUCK EXPORTS SOAR",
+                "visual_caption": "Union Pacific announced peak season intermodal surcharges reaching $1,000 per container on California spot freight. The move aims to manage constrained rail capacity as West Coast port imports surge."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL BACKLOGS",
-                "teaserTitle": "AIR CARGO: DE MINIMIS EXEMPTION ENDS",
-                "visual_caption": "Panama Canal vessel backlogs reached 113 ships as falling water levels restricted daily transits. Shippers face rising delay surcharges and potential cargo rerouting to US East Coast ports."
+                "headline": "TRUCKING: MEXICAN TRUCK EXPORTS SOAR",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+                "visual_caption": "Mexican heavy-duty truck manufacturing expanded 51.8% in July to 14,675 units. Rising exports are helping North American commercial fleets replace aging tractor capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: DE MINIMIS EXEMPTION ENDS",
-                "teaserTitle": "SEMICONDUCTORS: POLYSILICON TARIFF IMPOSITION",
-                "visual_caption": "Air cargo rates and volumes dropped following the EU removal of de minimis duty-free exemptions. E-commerce logistics operators are restructuring customs clearance to handle increased import taxes."
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZES",
+                "teaserTitle": "TRADE TARIFFS: METALS DERIVATIVE DUTIES",
+                "visual_caption": "National industrial real estate vacancy fell 7 basis points in Q2 to 7.3%. Strong demand for warehousing space is outpacing new construction across major distribution hubs."
             },
             {
                 "slide_index": 4,
-                "headline": "SEMICONDUCTORS: POLYSILICON TARIFF IMPOSITION",
-                "teaserTitle": "MIDDLE EAST: BAB AL-MANDAB ATTACKS",
-                "visual_caption": "A 15% tariff and import price floor went into effect on raw polysilicon imports for chips. Tech supply chain managers expect higher component costs and shifting procurement strategies."
+                "headline": "TRADE TARIFFS: METALS DERIVATIVE DUTIES",
+                "teaserTitle": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
+                "visual_caption": "The Department of Commerce proposed new trade tariffs on derivative steel, aluminum, and copper products. Importers face expanded tariff liabilities across secondary finished components like tanker trailers and industrial hardware."
             },
             {
                 "slide_index": 5,
-                "headline": "MIDDLE EAST: BAB AL-MANDAB ATTACKS",
-                "teaserTitle": "SHIPBUILDING: WAN HAI CONTAINERSHIP ORDER",
-                "visual_caption": "A Houthi missile attack in the Bab al-Mandab Strait killed 6 crew members on a cargo ship. Ocean carriers are reassessing Red Sea transit risks while marine insurance premiums escalate."
+                "headline": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
+                "teaserTitle": "LOGISTICS ROBOTICS: FLEET AUTOMATION EXPANSION",
+                "visual_caption": "Low water levels on the Rhine River forced European barge operators to implement steep transport surcharges. Restricted cargo intake per vessel is creating heavy container congestion at Rotterdam and Antwerp."
             },
             {
                 "slide_index": 6,
-                "headline": "SHIPBUILDING: WAN HAI CONTAINERSHIP ORDER",
-                "teaserTitle": "E-COMMERCE: DEPOP ACQUISITION COMPLETED",
-                "visual_caption": "Wan Hai Lines ordered 8 containerships from Shanghai Waigaoqiao Shipbuilding for $980M. The deal secures long-term capacity for key intra-Asia and transpacific container lanes."
+                "headline": "LOGISTICS ROBOTICS: FLEET AUTOMATION EXPANSION",
+                "teaserTitle": "E-COMMERCE: AMAZON TITLE CHARACTER CAP",
+                "visual_caption": "FedEx and Amazon expanded their robotic trailer loading deployments following a surge in Q2 automation orders. Logistics hubs are leveraging autonomous robotics to eliminate peak season fulfillment bottlenecks."
             },
             {
                 "slide_index": 7,
-                "headline": "E-COMMERCE: DEPOP ACQUISITION COMPLETED",
+                "headline": "E-COMMERCE: AMAZON TITLE CHARACTER CAP",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "eBay completed its $1.4B purchase of fashion marketplace Depop from Etsy to expand C2C commerce. Etsy announced 200 employee layoffs immediately following the corporate deal closing."
+                "visual_caption": "Amazon implemented a strict policy enforcing a maximum limit of 75 characters on product titles. Merchants failing to trim product titles risk immediate search suppression across the e-commerce marketplace."
             },
             {
                 "slide_index": 8,
