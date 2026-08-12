@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR triggers sweeping Section 301 tariffs on 60 nations while transpacific box rates breach $9,400 amid record import frontloading."
+        "titleWhite": "RHINE BARGE",
+        "titleBlue": "SURCHARGES",
+        "footerSummary": "Low Rhine water levels spark barge surcharges while Cosco resumes Red Sea transit amid weather and cybersecurity disruptions."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: FORCED LABOR TARIFFS",
+            "heading": "INLAND LOGISTICS: RHINE BARGE SURCHARGES",
             "points": [
-                "The Office of the United States Trade Representative announced Section 301 tariffs targeting forced labor across 60 trading partners.",
-                "The action replaces expiring Section 122 duties as federal trade enforcement transitions to permanent statutory compliance mechanisms.",
-                "Importers and global forwarders face updated duty rates across critical supply chains originating from non-compliant manufacturing jurisdictions.",
-                "Enterprise compliance teams must perform immediate origin audits to avoid customs delays and port entry rejections."
+                "Low water levels on the Rhine River have forced inland waterway barge operators to impose substantial freight surcharges across key European corridors.",
+                "Logistics operators report that constrained draft depths are limiting barge capacity by up to 50%, driving up overland freight expenditures.",
+                "Surcharges on critical transport routes between Germany and Benelux ports threaten to create severe inland cargo bottlenecks.",
+                "Supply chain managers are actively shifting container volumes toward rail and truck modes to prevent delays at Rotterdam and Antwerp gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER FLEET: WAN HAI EXPANSION",
+            "nextUpTease": "CARRIER STRATEGY: COSCO RED SEA RESUMPTION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-12T08:30:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "CARRIER FLEET: WAN HAI EXPANSION",
-            "points": [
-                "Taiwanese ocean carrier Wan Hai Lines finalized orders for 8 containerships valued at up to $980M with Shanghai Waigaoqiao Shipbuilding.",
-                "The fleet expansion comprises seven 11,000 TEU vessels and one 9,200 TEU unit designed for long-haul trade lanes.",
-                "Consolidation of large vessel orders highlights long-term carrier confidence despite current global geopolitical and route disruptions.",
-                "Shippers expect added nominal capacity along transpacific and Asia-Europe routes as deliveries commence in upcoming operational cycles."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY RATES",
-            "tags": [
-                "Source: https://splash247.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-12T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 3,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY RATES",
+            "id": 2,
+            "heading": "CARRIER STRATEGY: COSCO RED SEA RESUMPTION",
             "points": [
-                "Colliers reported U.S. industrial real estate vacancy fell 7 basis points sequentially to 7.3% in Q2 2026.",
-                "Net warehouse demand outpaced new construction completions, signaling a macro stabilization across prime distribution markets.",
-                "Logistics operators and 3PLs face narrowing availability for Class A fulfillment space near primary inland and coastal ports.",
-                "Tenant corporate real estate teams are re-entering long-term lease commitments before industrial rental rates rebound higher."
+                "Chinese state-owned ocean carrier Cosco has reopened commercial vessel bookings for direct Red Sea maritime transit routes.",
+                "The decision comes despite persistent security threats and military attacks against commercial shipping vessels along the corridor.",
+                "The carrier plans to deploy specialized container vessels on the lane to capture high-margin spot freight opportunities.",
+                "Global forwarders are evaluating risk profiles as direct transit saves up to 14 days compared to the Cape of Good Hope routing."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT METRICS: TRUCKING CONDITIONS INDEX",
+            "nextUpTease": "PORT OPERATIONS: TYPHOON DOLPHIN CONGESTION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-12T07:15:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-11T14:30:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "PORT OPERATIONS: TYPHOON DOLPHIN CONGESTION",
+            "points": [
+                "Severe weather conditions from Typhoon Dolphin making landfall near Ningbo have severely disrupted vessel operations across East Asian container ports.",
+                "Terminal closures and vessel anchorage delays at Shanghai and Ningbo have created expanding vessel queues across the region.",
+                "Ocean carriers report disrupted sailing schedules and extended port dwell times for peak season export shipments bound for North America.",
+                "Logistics teams face delayed vessel departure schedules and compound schedule reliability drops through late August 2026."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AUTONOMOUS TRUCKING: CALIFORNIA TEAMSTER LAWSUIT",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FREIGHT METRICS: TRUCKING CONDITIONS INDEX",
+            "heading": "AUTONOMOUS TRUCKING: CALIFORNIA TEAMSTER LAWSUIT",
             "points": [
-                "The FTR Trucking Conditions Index surged to a reading of 17.4 for June, reflecting strong operational momentum.",
-                "Improving freight volume and firming spot rates contributed to enhanced operating margins across major motor carrier fleets.",
-                "Sustained index growth indicates the long-standing freight recession has transitioned into a structural capacity recovery phase.",
-                "Shippers face contracting truckload capacity and rising contract rates during upcoming Q3 and Q4 routing guide negotiations."
+                "Teamsters California filed a lawsuit against the Department of Motor Vehicles to block proposed regulatory rules for heavy-duty autonomous trucks.",
+                "The legal petition seeks to halt the issuance of commercial testing and deployment permits for driverless trucks exceeding 10,000 pounds.",
+                "Labor representatives argue that driverless vehicle deployment creates severe public safety hazards and accelerates workforce displacement.",
+                "Autonomous technology developers face potential regulatory delays in launching commercial driverless freight corridors across West Coast highways."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: TRANSPACIFIC SPOT RATES",
+            "nextUpTease": "AUTOMOTIVE LOGISTICS: PROFICIENT AUTO ACQUISITION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-12T08:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-11T16:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OCEAN FREIGHT: TRANSPACIFIC SPOT RATES",
+            "heading": "AUTOMOTIVE LOGISTICS: PROFICIENT AUTO ACQUISITION",
             "points": [
-                "Container spot rates from Asia to the U.S. East Coast hit a record high of $9,400 per FEU amid peak season surges.",
-                "Importers accelerating seasonal inventory arrivals ahead of tariff deadlines are overwhelming major West and East Coast ocean terminals.",
-                "Ocean carriers are implementing peak season surcharges and premium booking guarantees to manage constrained vessel space.",
-                "BCOs must prepare for elevated landed freight costs and extended equipment dwell times through the remainder of Q3."
+                "Proficient Auto Logistics announced a definitive $130M acquisition of car-hauling fleet operator Hansen & Adkins.",
+                "The transaction combines two major specialized carriers to create the largest finished vehicle transport operator in North America.",
+                "The combined enterprise will operate extensive haulage assets servicing major original equipment manufacturers and automobile distribution hubs.",
+                "Automotive supply chain managers expect enhanced network capacity and optimized cross-border vehicle transport routes across 2026."
             ],
             "imageUrl": "",
-            "nextUpTease": "PROCUREMENT: POLYSILICON IMPORT DUTIES",
+            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-12T06:30:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PROCUREMENT: POLYSILICON IMPORT DUTIES",
+            "heading": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
             "points": [
-                "A presidential proclamation established a 15% tariff and floor price on imported polysilicon products taking effect Dec 4.",
-                "The trade measure targets foreign raw materials utilized in semiconductor manufacturing and utility-scale solar infrastructure.",
-                "Domestic original equipment manufacturers face immediate procurement cost escalation and raw material sourcing adjustments.",
-                "Supply chain planners are diversifying silicon wafer procurement toward domestic and allied regional manufacturing suppliers."
+                "A major cybersecurity breach targeting Ceva Logistics' warehouse IT infrastructure has disrupted regional fulfillment networks across Europe.",
+                "The incident compromised operational data systems, forcing temporary manual processing procedures across several distribution centers.",
+                "Brand-name retail, gaming, and banking clients experienced temporary order processing delays and inventory visibility gaps.",
+                "Enterprise supply chain risk executives are intensifying vendor cyber audits to mitigate third-party logistics IT vulnerabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: FMC DETENTION FEE RULING",
+            "nextUpTease": "MARITIME SECURITY: BLACK SEA DRONE COUNTERMEASURES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-12T05:45:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-11T08:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATORY: FMC DETENTION FEE RULING",
+            "heading": "MARITIME SECURITY: BLACK SEA DRONE COUNTERMEASURES",
             "points": [
-                "The D.C. Circuit Court of Appeals upheld an FMC ruling requiring container detention fees to serve freight fluidity.",
-                "The judicial decision restricts ocean carriers from assessing penalty fees when port congestion prevents container return.",
-                "Importers and truckers gain strengthened legal recourse to dispute arbitrary demurrage and detention invoices from ocean lines.",
-                "Ocean common carriers must audit billing practices to ensure strict adherence with federal regulatory standards."
+                "Russian commercial vessel operators are adopting defensive tactics, including anti-drone cages and armed security guards, to protect maritime fleets.",
+                "Shipping companies are rerouting vessels closer to coastal territorial waters to minimize exposure to hostile unmanned aerial systems.",
+                "Proposals for naval convoy escorts are under review as Black Sea and Sea of Azov commodity export lanes face ongoing security threats.",
+                "Marine insurers are raising war-risk premiums for commercial vessels operating within active Black Sea transit corridors."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: 2026-08-12T04:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-12T07:30:00Z",
                 "Status: Audited & True"
             ]
         }

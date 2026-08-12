@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS IMPLEMENTED ON 60 NATIONS",
+        "hookTitle": "INLAND LOGISTICS: RHINE BARGE SURCHARGES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
-                "teaserTitle": "CARRIER FLEET: WAN HAI EXPANSION",
+                "headline": "INLAND LOGISTICS: RHINE BARGE SURCHARGES",
+                "teaserTitle": "CARRIER STRATEGY: COSCO RED SEA RESUMPTION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Office of the United States Trade Representative is implementing Section three oh one tariffs on sixty trading partners. This trade action replaces expiring Section one twenty two provisions targeting forced labor."
+                "narration_line": "Falling water levels on the Rhine River have forced inland barge operators to implement steep freight surcharges across European networks. Shippers are rapidly diverting containerized cargo to rail lines to prevent mounting import delays at major gateways."
             },
             {
                 "slide_index": 2,
-                "headline": "CARRIER FLEET: WAN HAI EXPANSION",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY RATES",
+                "headline": "CARRIER STRATEGY: COSCO RED SEA RESUMPTION",
+                "teaserTitle": "PORT OPERATIONS: TYPHOON DOLPHIN CONGESTION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Taiwanese ocean carrier Wan Hai Lines contracted eight new containerships worth up to nine hundred eighty million dollars. The order includes seven eleven thousand T E U vessels from Shanghai Waigaoqiao Shipbuilding."
+                "narration_line": "Chinese ocean carrier Cosco has officially resumed direct vessel bookings through active Red Sea trade lanes despite persistent security risks. Direct maritime transits offer shippers up to fourteen days in schedule savings compared to African rerouting."
             },
             {
                 "slide_index": 3,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY RATES",
-                "teaserTitle": "FREIGHT METRICS: TRUCKING CONDITIONS INDEX",
+                "headline": "PORT OPERATIONS: TYPHOON DOLPHIN CONGESTION",
+                "teaserTitle": "AUTONOMOUS TRUCKING: CALIFORNIA TEAMSTER LAWSUIT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "United States industrial real estate vacancy fell seven basis points sequentially to seven point three percent in quarter two. Colliers reports industrial logistics space demand is officially outpacing new building supply."
+                "narration_line": "Typhoon Dolphin made landfall near Ningbo, creating major vessel backlogs and terminal delays across primary East Asian container hubs. Ocean carriers report expanding vessel anchorage queues that threaten to delay peak season exports."
             },
             {
                 "slide_index": 4,
-                "headline": "FREIGHT METRICS: TRUCKING CONDITIONS INDEX",
-                "teaserTitle": "OCEAN FREIGHT: TRANSPACIFIC SPOT RATES",
+                "headline": "AUTONOMOUS TRUCKING: CALIFORNIA TEAMSTER LAWSUIT",
+                "teaserTitle": "AUTOMOTIVE LOGISTICS: PROFICIENT AUTO ACQUISITION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The F T R Trucking Conditions Index surged to seventeen point four for June. The sharp metric increase confirms sustained rate recovery and stronger operating margins for commercial motor carriers."
+                "narration_line": "Teamsters California has filed a lawsuit against state regulators to block updated rules permitting heavy-duty autonomous truck testing. The legal challenge threatens to delay commercial driverless freight deployments across vital West Coast distribution corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "OCEAN FREIGHT: TRANSPACIFIC SPOT RATES",
-                "teaserTitle": "PROCUREMENT: POLYSILICON IMPORT DUTIES",
+                "headline": "AUTOMOTIVE LOGISTICS: PROFICIENT AUTO ACQUISITION",
+                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Asia to United States East Coast container spot rates reached a record peak of nine thousand four hundred dollars per box. Heavy peak season cargo frontloading continues pushing transpacific ocean capacity to its limits."
+                "narration_line": "Proficient Auto Logistics has acquired specialized carrier Hansen and Adkins for one hundred thirty million dollars to expand vehicle transport operations. The deal creates North America's largest finished vehicle hauler with enhanced fleet coverage."
             },
             {
                 "slide_index": 6,
-                "headline": "PROCUREMENT: POLYSILICON IMPORT DUTIES",
-                "teaserTitle": "REGULATORY: FMC DETENTION FEE RULING",
+                "headline": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
+                "teaserTitle": "MARITIME SECURITY: BLACK SEA DRONE COUNTERMEASURES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A new presidential proclamation imposes a fifteen percent tariff and import price floor on foreign polysilicon shipments. The trade policy targets critical inputs for semiconductors and solar equipment starting December fourth."
+                "narration_line": "A major cybersecurity breach at Ceva Logistics disrupted warehouse management systems across European fulfillment centers. Enterprise retail and commercial clients experienced temporary order processing delays while manual operational backups were activated."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATORY: FMC DETENTION FEE RULING",
+                "headline": "MARITIME SECURITY: BLACK SEA DRONE COUNTERMEASURES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The District of Columbia Circuit Court upheld the Federal Maritime Commission ruling on container detention billing. The legal decision mandates ocean carrier demurrage fees must explicitly incentivize freight fluidity."
+                "narration_line": "Russian commercial shipping operators are installing physical anti-drone cages and deploying armed guards to protect vessels in the Black Sea. Rising security threats have prompted vessel operators to hug coastal routes and request military escorts."
             },
             {
                 "slide_index": 8,
