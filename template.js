@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR triggers Section 301 tariffs on 60 nations while US Navy disables a vessel in the Gulf, threatening cross-border trade fluidity."
+        "titleWhite": "ASIAN TYPHOON CONTAINER",
+        "titleBlue": "BACKLOGS",
+        "footerSummary": "Typhoon Dolphin anchors 2.4M TEU off China while US Commerce proposes broad tariffs on derivative steel and copper goods."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: USTR FORCED LABOR TARIFFS",
+            "heading": "MARITIME: ASIAN TYPHOON CONTAINER BACKLOGS",
             "points": [
-                "The Office of the United States Trade Representative announced new Section 301 tariffs targeting 60 trading partners as existing Section 122 emergency duties expire.",
-                "The regulatory action introduces expanded trade enforcement mechanisms aimed at eradicating forced labor components across global manufacturing supply chains.",
-                "Customs compliance teams are re-evaluating origin documentation and supply chain mapping protocols to prevent severe port entry delays and asset seizures.",
-                "Enterprise importers face rising administrative friction and potential cost increases across high-volume cross-border trade lanes."
+                "Typhoon Dolphin made landfall near Ningbo creating severe maritime congestion across East Asian container hubs.",
+                "Port tracking data indicates over 2.4M TEU of containership capacity is currently anchored and waiting off Chinese ports.",
+                "Ocean carriers face escalating schedule disruption as weather backlogs propagate through transpacific and Asia-Europe vessel loops.",
+                "Freight forwarders are advising shippers to anticipate extended port dwell times and potential vessel omission strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINER IMPORTS: US JULY VOLUMES SURGE",
+            "nextUpTease": "TERMINALS: MSC WITHDRAWS EU ANTITRUST",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
-                "Published: 2026-08-11T18:00:00Z",
+                "Source: https://theloadstar.com/tropical-storms-bring-congestion-and-cargo-backlogs-at-asian-ports/",
+                "Published: 2026-08-11T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CONTAINER IMPORTS: US JULY VOLUMES SURGE",
+            "heading": "TERMINALS: MSC WITHDRAWS EU ANTITRUST",
             "points": [
-                "United States ocean container import volumes grew 4.5% in July, propelled by robust China-origin freight movements and early peak season frontloading.",
-                "Data from Descartes indicates sustained consumer demand and proactive inventory building ahead of impending tariff adjustments across major ports.",
-                "Terminal operators and drayage fleets are adjusting gate hours to handle heavy container throughput without creating severe landside choke points.",
-                "Logistics planners project continued import strength through late Q3 before seasonal volumes normalize toward year-end forecasts."
+                "MSC terminal division TiL withdrew its European Union antitrust filing for acquiring Barcelona Europe South Terminal.",
+                "The transaction involved purchasing Terminal Catalunya from CK Hutchison to expand Mediterranean container handling infrastructure.",
+                "Regulatory authorities recorded the formal withdrawal without public explanation from MSC or European Commission representatives.",
+                "Terminal capacity strategies in Southern Europe face strategic realignment following the abrupt pause in regulatory proceedings."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: EU DE MINIMIS ELIMINATION",
+            "nextUpTease": "TRUCKING: MEXICAN HEAVY TRUCK PRODUCTION",
             "tags": [
-                "Source: https://theloadstar.com/us-demand-for-imported-goods-unabated-despite-tariff-turbulence/",
-                "Published: 2026-08-11T14:20:00Z",
+                "Source: https://maritime-executive.com/article/msc-s-terminal-company-withdraws-antitrust-review-for-barcelona-acquisition",
+                "Published: 2026-08-11T18:19:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: EU DE MINIMIS ELIMINATION",
+            "heading": "TRUCKING: MEXICAN HEAVY TRUCK PRODUCTION",
             "points": [
-                "European air freight rates and shipment volumes experienced an immediate slump following the formal removal of the EU de minimis import duty exemption.",
-                "Cross-border e-commerce sellers are adjusting logistics channels as low-value package shipments face full custom entry declarations and tax processing.",
-                "Air cargo carriers report shifting trade patterns as direct-to-consumer postal flows consolidate into freight movements.",
-                "Supply chain analysts anticipate sustained volatility in European air hub throughput while sellers adapt to complex tax compliance regulations."
+                "Mexican heavy-duty truck production jumped 51.8% year over year in July reaching 14,675 commercial vehicles.",
+                "Total export volumes experienced parallel surge as North American fleet operators accelerate vehicle replacement cycles.",
+                "Cross-border automotive supply chains are demonstrating strong manufacturing throughput across Mexican assembly facilities.",
+                "Motor carriers expect increased equipment availability as new commercial tractor inventory enters North American distribution channels."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET SAFETY: FMCSA DRIVER ENGLISH RULE",
+            "nextUpTease": "AVIATION: BOEING SELLS DRONE UNITS",
             "tags": [
-                "Source: https://www.joc.com/article/air-cargo-rates-volume-slump-after-eu-duty-free-tax-reform_20260811.html",
+                "Source: https://www.ttnews.com/articles/mexican-truck-production-july-2026",
                 "Published: 2026-08-11T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FLEET SAFETY: FMCSA DRIVER ENGLISH RULE",
+            "heading": "AVIATION: BOEING SELLS DRONE UNITS",
             "points": [
-                "The Federal Motor Carrier Safety Administration published a proposed rulemaking targeting mandatory English proficiency enforcement for commercial vehicle drivers.",
-                "The regulatory initiative aims to standardize roadside inspection compliance checks and lock in strict driver qualification criteria nationwide.",
-                "Motor carriers face heightened operational risk and potential driver disqualifications during state transportation safety enforcement sweeps.",
-                "Fleet compliance officers are implementing pre-hire language assessments to maintain uninterrupted interstate freight operations."
+                "Boeing completed the strategic sale of its Wisk flying taxi and autonomous drone business units to Archer.",
+                "The transaction shifts advanced air mobility IP and autonomous flight systems under Archer operational oversight.",
+                "Aerospace consolidation highlights evolving capital allocations toward commercialized middle-mile cargo drone architecture.",
+                "Logistics operators anticipate accelerated regulatory testing for autonomous air freight delivery platforms nationwide."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON TITLE CHARACTER CAP",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY RATES STABILIZE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/fmcsa-english-proficiency-rule-proposed",
-                "Published: 2026-08-10T16:00:00Z",
+                "Source: https://www.ttnews.com/articles/boeing-sells-wisk-archer",
+                "Published: 2026-08-11T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "E-COMMERCE: AMAZON TITLE CHARACTER CAP",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY RATES STABILIZE",
             "points": [
-                "Amazon initiated strict enforcement of its new product title policy, limiting listing titles to a maximum of 75 characters across all sellers.",
-                "The character restriction applies equally to third-party merchant listings and Amazon first-party retail items to standardize product catalog display.",
-                "E-commerce brands are updating automated catalog management tools to avoid listing suppression and search visibility penalties.",
-                "Digital merchants must optimize product titles for mobile user interfaces without losing critical brand search indexing metrics."
+                "Industrial real estate vacancy dropped 7 basis points sequentially to 7.3% in Q2 according to Colliers market research.",
+                "Industrial net absorption outpaced new construction supply additions across primary North American logistics corridors.",
+                "Distribution space availability is stabilizing following two years of historical warehouse construction deliveries.",
+                "Enterprise tenants face firming lease rates for prime modern logistics facilities near major port gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "PROCUREMENT: POLYSILICON IMPORT TARIFFS",
+            "nextUpTease": "E-COMMERCE: ETSY CUTS WORKFORCE PERCENTAGE",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-applies-to-own-listings/",
-                "Published: 2026-08-11T09:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance",
+                "Published: 2026-08-11T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PROCUREMENT: POLYSILICON IMPORT TARIFFS",
+            "heading": "E-COMMERCE: ETSY CUTS WORKFORCE PERCENTAGE",
             "points": [
-                "The United States executive administration issued a proclamation establishing a 15% tariff and price floor on imported polysilicon materials.",
-                "The trade measure targets raw material inputs vital for domestic semiconductor chip fabrication and solar energy technology production.",
-                "Procurement managers in high-tech manufacturing sectors are evaluating domestic supplier capabilities to mitigate rising component input costs.",
-                "Global supply chains face renewed cost pressures as raw material tariffs expand into downstream technology manufacturing ecosystems."
+                "Etsy initiated corporate restructuring reducing its global workforce by 12% across administrative and operational roles.",
+                "The headcount reduction follows the closing of its $1.4B transaction selling Depop to C2C marketplace competitor eBay.",
+                "E-commerce platform operators continue streamlining operating expenses while reallocating capital into core AI technologies.",
+                "Direct-to-consumer merchant ecosystems adapt as major marketplace operators rebalance structural cost overhead."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME SECURITY: US DISABLES GULF VESSEL",
+            "nextUpTease": "TRADE POLICY: COMMERCE PROPOSES DERIVATIVE TARIFFS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-polysilicon-tariff-chips-solar/723400/",
-                "Published: 2026-08-11T11:00:00Z",
+                "Source: https://www.retaildive.com/news/etsy-slashes-workforce-layoffs/723450/",
+                "Published: 2026-08-11T13:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME SECURITY: US DISABLES GULF VESSEL",
+            "heading": "TRADE POLICY: COMMERCE PROPOSES DERIVATIVE TARIFFS",
             "points": [
-                "United States naval forces disabled a small containership attempting to navigate near the Iranian maritime blockade zone in the Gulf of Oman.",
-                "The military intervention underscores escalating operational hazards and heightened naval surveillance across critical Middle Eastern shipping corridors.",
-                "Ocean carriers are re-evaluating risk assessments and war-risk insurance premiums for commercial vessels operating in regional trade lanes.",
-                "Supply chain operators expect persistent transit delays as geopolitical instability continues to disrupt vital maritime energy and container routes."
+                "The United States Commerce Department proposed expanding import duties on derivative steel, aluminum, and copper products.",
+                "Regulatory proposals cover finished industrial items ranging from tanker trailers and heavy hardware to brass components.",
+                "Manufacturing procurement teams face unexpected input cost exposure across downstream metallic supply chains.",
+                "Trade compliance officers are reviewing tariff classification codes to evaluate prospective duty burdens on import shipments."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://splash247.com/us-disables-boxship-while-red-sea-attack-kills-six/",
-                "Published: 2026-08-12T02:00:00Z",
+                "Source: https://www.supplychaindive.com/news/commerce-department-proposed-tariffs-steel-aluminum-copper/723480/",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
