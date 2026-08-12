@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "STRIKES DISRUPT MIDDLE EAST SHIPPING",
+        "hookTitle": "USTR IMPOSES SECTION 301 TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: STRIKES DISRUPT MIDDLE EAST SHIPPING",
-                "teaserTitle": "ENERGY: HORMUZ OIL DISRUPTIONS EXTEND 2027",
+                "headline": "TRADE: USTR IMPOSES SECTION 301 TARIFFS",
+                "teaserTitle": "MARITIME: TYPHOON DOLPHIN STALLS 2.4M TEU",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Middle East strikes killed six seafarers in the Red Sea while US forces disabled a vessel in the Gulf of Oman. Ocean carriers are re-routing ships, raising freight insurance rates by twenty-five percent."
+                "narration_line": "The Trade Representative enacted forced labor duties under Section three oh one across sixty nations. Importers face immediate compliance verification to prevent container holds."
             },
             {
                 "slide_index": 2,
-                "headline": "ENERGY: HORMUZ OIL DISRUPTIONS EXTEND 2027",
-                "teaserTitle": "AUTOMOTIVE: GM SECURES 4.5B PARTS DEAL",
+                "headline": "MARITIME: TYPHOON DOLPHIN STALLS 2.4M TEU",
+                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS SUFFERS DATA BREACH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Federal analysts project global oil supply disruptions from ongoing conflicts will persist through the end of twenty twenty-seven. Brent crude approached ninety dollars a barrel as tanker transits through Hormuz dropped thirty percent."
+                "narration_line": "Typhoon Dolphin stranded over two point four million units of container capacity in eastern China. Port delays and inland flooding are straining transpacific shipping schedules."
             },
             {
                 "slide_index": 3,
-                "headline": "AUTOMOTIVE: GM SECURES 4.5B PARTS DEAL",
-                "teaserTitle": "TRUCKING: FMCSA ENFORCES DRIVER ENGLISH RULES",
+                "headline": "CYBERSECURITY: CEVA LOGISTICS SUFFERS DATA BREACH",
+                "teaserTitle": "AUTOMOTIVE: MEXICAN TRUCK OUTPUT SOARS 51%",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "General Motors secured a four point five billion dollar parts agreement to insulate assembly lines from global trade shocks. Simultaneously, the automaker is exiting its EV battery joint venture with Samsung."
+                "narration_line": "Ceva Logistics experienced a major server breach affecting European distribution operations. Affected retail and banking supply chains switched to emergency paper dispatch protocols."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: FMCSA ENFORCES DRIVER ENGLISH RULES",
-                "teaserTitle": "INFRASTRUCTURE: DRONE ATTACKS THREATEN LIBYA OIL",
+                "headline": "AUTOMOTIVE: MEXICAN TRUCK OUTPUT SOARS 51%",
+                "teaserTitle": "REGULATION: COMMERCE PROPOSES DERIVATIVE TARIFFS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Federal Motor Carrier Safety Administration is enforcing mandatory English rules after sidelining twenty-six thousand commercial truck drivers. Motor carriers now face heightened audit scrutiny during roadside freight inspections."
+                "narration_line": "Mexican heavy truck output rose fifty-one point eight percent in July to over fourteen thousand units. Border drayage providers are expanding fleet capacity for rising throughput."
             },
             {
                 "slide_index": 5,
-                "headline": "INFRASTRUCTURE: DRONE ATTACKS THREATEN LIBYA OIL",
-                "teaserTitle": "E-COMMERCE: ETSY CUTS WORKFORCE BY 12%",
+                "headline": "REGULATION: COMMERCE PROPOSES DERIVATIVE TARIFFS",
+                "teaserTitle": "LOGISTICS: CLOROX RESTRUCTURES ERP SYSTEM",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Escalating drone attacks on Libya's Zawiya oil hub threaten crucial Mediterranean energy exports. The National Oil Corporation warned of force majeure declarations that could disrupt three hundred thousand barrels per day."
+                "narration_line": "United States officials proposed new metal tariffs covering derivative steel, aluminum, and copper imports. Procurement teams are evaluating cost increases for industrial components."
             },
             {
                 "slide_index": 6,
-                "headline": "E-COMMERCE: ETSY CUTS WORKFORCE BY 12%",
-                "teaserTitle": "SEMICONDUCTORS: AI BOOM CAUSES MEMORY CRUNCH",
+                "headline": "LOGISTICS: CLOROX RESTRUCTURES ERP SYSTEM",
+                "teaserTitle": "AIR CARGO: EU DE MINIMIS REFORM SLUMPS RATES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Etsy is cutting twelve percent of its workforce, laying off two hundred twenty employees despite receiving one point four billion dollars from selling Depop. The company is restructuring overhead to focus on artificial intelligence."
+                "narration_line": "Clorox expects a two hundred million dollar inflation impact from elevated ocean and trucking rates. Management is accelerating software upgrades to automate inventory management."
             },
             {
                 "slide_index": 7,
-                "headline": "SEMICONDUCTORS: AI BOOM CAUSES MEMORY CRUNCH",
+                "headline": "AIR CARGO: EU DE MINIMIS REFORM SLUMPS RATES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Data center expansion for artificial intelligence has created severe shortages and a thirty-five percent price surge for advanced memory chips. Consumer hardware manufacturers now face extended component lead times of twenty-four weeks."
+                "narration_line": "Air cargo volumes declined after the European Union removed duty-free import status for low-value goods. Direct e-commerce sellers are adjusting Asia to Europe flight allocations."
             },
             {
                 "slide_index": 8,

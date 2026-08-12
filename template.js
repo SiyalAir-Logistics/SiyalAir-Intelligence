@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "STRIKES DISRUPT MIDDLE EAST",
-        "titleBlue": "SHIPPING",
-        "footerSummary": "Middle East strikes kill 6 seafarers while oil disruptions extend to 2027, forcing ocean carriers to adapt to severe geopolitical friction."
+        "titleWhite": "SECTION 301",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR launches Section 301 forced labor tariffs across 60 trading nations as Section 122 expires, forcing rapid cross-border duty recalibrations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: STRIKES DISRUPT MIDDLE EAST SHIPPING",
+            "heading": "TRADE: USTR IMPOSES SECTION 301 TARIFFS",
             "points": [
-                "Commercial vessel security reached critical friction in Middle Eastern corridors following dual kinetic maritime incidents on August 11, 2026.",
-                "A Houthi missile attack in the Bab el-Mandeb Strait killed 6 crew members, while US naval forces disabled an uncooperative vessel in the Gulf of Oman.",
-                "Ocean carriers are rerouting container volume away from high-risk choke points, raising insurance premiums by up to 25%.",
-                "Logistics operators must prepare for extended ocean transit delays and rising emergency risk surcharges across East-West trade lanes."
+                "The USTR announced forced labor tariffs under Section 301 targeting 60 partner nations following the expiration of Section 122 duties.",
+                "Cross-border supply chains face immediate compliance shifts as customs agencies prepare strict enforcement mechanisms at international entry points.",
+                "Importers operating across affected regions must audit origin documentation to prevent unexpected container seizures and heavy financial penalties.",
+                "Global trade legal teams are re-evaluating tariff mitigation strategies to navigate escalating regulatory friction across primary supply corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: HORMUZ OIL DISRUPTIONS EXTEND 2027",
+            "nextUpTease": "MARITIME: TYPHOON DOLPHIN STALLS 2.4M TEU",
             "tags": [
-                "Source: https://splash247.com/us-disables-boxship-while-red-sea-attack-kills-six/",
-                "Published: 2026-08-12T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
+                "Published: 2026-08-11T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ENERGY: HORMUZ OIL DISRUPTIONS EXTEND 2027",
+            "heading": "MARITIME: TYPHOON DOLPHIN STALLS 2.4M TEU",
             "points": [
-                "Federal energy analysts project global oil supply disruptions from ongoing regional conflict will persist through the end of 2027.",
-                "Brent crude benchmarks approached $90 per barrel as tanker transits through the Strait of Hormuz drop by over 30%.",
-                "Extended energy volatility is compounding bunker fuel surcharges and increasing operating costs across international freight networks.",
-                "Shippers should recalculate fuel floating rate mechanisms across long-term ocean and air carrier service contracts."
+                "Typhoon Dolphin struck eastern China, stranding over 2.4M TEU of container vessel capacity near Ningbo and Shanghai ports.",
+                "Severe coastal flooding disrupted inland logistics, causing container terminal dwell times to surge across major Asian export hubs.",
+                "In a related storm incident, an MSC containership sank during emergency repair operations at Zhoushan port following high sea swells.",
+                "Ocean carriers are bracing for cascading schedule blankings and extended vessel queueing across Transpacific trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE: GM SECURES 4.5B PARTS DEAL",
+            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS SUFFERS DATA BREACH",
             "tags": [
-                "Source: https://www.ttnews.com/articles/us-expects-oil-supply-disruptions",
-                "Published: 2026-08-11T18:00:00Z",
+                "Source: https://theloadstar.com/tropical-storms-bring-congestion-and-cargo-backlogs-at-asian-ports/",
+                "Published: 2026-08-11T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AUTOMOTIVE: GM SECURES 4.5B PARTS DEAL",
+            "heading": "CYBERSECURITY: CEVA LOGISTICS SUFFERS DATA BREACH",
             "points": [
-                "General Motors executed a strategic $4.5B component sourcing agreement to safeguard assembly lines against supply chain shocks.",
-                "The long-term procurement pact stabilizes raw material inputs and essential vehicle parts through 2028.",
-                "Simultaneously, GM announced plans to exit its EV battery joint venture with Samsung to reallocate capital toward core assembly efficiency.",
-                "Automotive supply networks are prioritizing localized supply assurance to shield vehicle manufacturing from trade volatility."
+                "Ceva Logistics suffered a critical IT cyber breach that disrupted warehouse operations and data integration networks across Europe.",
+                "The infrastructure attack severely impacted enterprise logistics systems for major European retail, banking, and gaming sector supply chains.",
+                "Incident response teams are working to restore compromised servers while shippers initiate emergency manual dispatch protocols.",
+                "Logistics providers are increasing cybersecurity capital expenditure to shield critical supply chain management software from operational paralysis."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: FMCSA ENFORCES DRIVER ENGLISH RULES",
+            "nextUpTease": "AUTOMOTIVE: MEXICAN TRUCK OUTPUT SOARS 51%",
             "tags": [
-                "Source: https://www.cnbc.com/2026/08/11/gm-4point5B-parts-deal.html",
-                "Published: 2026-08-11T20:00:00Z",
+                "Source: https://theloadstar.com/ceva-logistics-it-breach-dents-confidence-further-several-bcos-exposed/",
+                "Published: 2026-08-11T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRUCKING: FMCSA ENFORCES DRIVER ENGLISH RULES",
+            "heading": "AUTOMOTIVE: MEXICAN TRUCK OUTPUT SOARS 51%",
             "points": [
-                "The Federal Motor Carrier Safety Administration is moving to lock in mandatory English language proficiency rules for commercial vehicle drivers.",
-                "Regulatory enforcement follows sweeps that sidelined over 26,000 truck drivers for compliance deficiencies across major freight corridors.",
-                "Motor carriers face heightened audit scrutiny during roadside inspections, increasing the risk of immediate driver out-of-service orders.",
-                "Fleet managers must verify driver documentation and language compliance to avoid driver shortages and shipment delays."
+                "Mexican heavy-duty truck production surged 51.8% year-over-year in July, reaching 14,675 units manufactured for export markets.",
+                "Expanded manufacturing output underscores strong nearshoring capital investments across North American commercial vehicle supply chains.",
+                "Cross-border freight carriers are scaling drayage fleet capacity to accommodate elevated equipment throughput across US-Mexico portals.",
+                "Fleet operators expect stabilized commercial vehicle availability as regional assembly plants maintain record production schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: DRONE ATTACKS THREATEN LIBYA OIL",
+            "nextUpTease": "REGULATION: COMMERCE PROPOSES DERIVATIVE TARIFFS",
             "tags": [
-                "Source: https://www.freightwaves.com/news/fmcsa-seeks-to-lock-in-english-rules",
-                "Published: 2026-08-11T17:00:00Z",
+                "Source: https://www.ttnews.com/articles/mexican-truck-production-july-2026",
+                "Published: 2026-08-11T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INFRASTRUCTURE: DRONE ATTACKS THREATEN LIBYA OIL",
+            "heading": "REGULATION: COMMERCE PROPOSES DERIVATIVE TARIFFS",
             "points": [
-                "An escalating drone strike campaign against Libya's Zawiya oil complex threatens crucial energy exports across Mediterranean trade lanes.",
-                "Libya's National Oil Corporation warned of impending force majeure declarations if terminal infrastructure attacks continue.",
-                "Disruptions at Zawiya risk curtailing regional crude supply by over 300K barrels per day, squeezing European refinery operations.",
-                "Energy traders and maritime transportation providers are preparing for shifting tanker sourcing schedules across North African ports."
+                "The US Commerce Department proposed new derivative product tariffs covering steel, aluminum, and copper imports to protect domestic industries.",
+                "Proposed import levies impact secondary manufactured goods ranging from specialized brass industrial parts to commercial semi-trailers.",
+                "Manufacturing procurement divisions are auditing bill-of-materials structures to quantify total landed cost increases for derivative metal components.",
+                "Trade policy analysts anticipate prolonged public comment proceedings as industrial buyers challenge broad commodity classifications."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: ETSY CUTS WORKFORCE BY 12%",
+            "nextUpTease": "LOGISTICS: CLOROX RESTRUCTURES ERP SYSTEM",
             "tags": [
-                "Source: https://splash247.com/drone-strikes-put-libyas-zawiya-oil-hub-at-risk/",
-                "Published: 2026-08-12T01:00:00Z",
+                "Source: https://www.supplychaindive.com/news/commerce-department-tariffs-steel-aluminum-copper-derivatives/723850/",
+                "Published: 2026-08-11T13:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "E-COMMERCE: ETSY CUTS WORKFORCE BY 12%",
+            "heading": "LOGISTICS: CLOROX RESTRUCTURES ERP SYSTEM",
             "points": [
-                "E-commerce marketplace Etsy announced workforce reductions of 12%, affecting approximately 220 corporate employees.",
-                "The restructuring follows a $1.4B cash infusion received from the sale of its Depop apparel platform to eBay.",
-                "Management is streamlining operational overhead to refocus core platform investments into search optimization and AI integration.",
-                "Digital marketplace platforms are aggressively trimming operating expenses to preserve cash margins in a cooling consumer market."
+                "Clorox projected a $200M inflationary cost surge driven by rising ocean freight rates, commodity prices, and trucking expenses.",
+                "To mitigate margin compression, the company is accelerating an enterprise-wide ERP software transition to optimize inventory automation.",
+                "Upgraded digital planning frameworks aim to reduce safety stock overhead and automate distribution center replenishment schedules.",
+                "Consumer goods manufacturers are increasingly relying on advanced software systems to absorb macro freight market price volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "SEMICONDUCTORS: AI BOOM CAUSES MEMORY CRUNCH",
+            "nextUpTease": "AIR CARGO: EU DE MINIMIS REFORM SLUMPS RATES",
             "tags": [
-                "Source: https://www.retaildive.com/news/etsy-slashes-workforce-layoffs/723900/",
-                "Published: 2026-08-12T02:00:00Z",
+                "Source: https://www.supplychaindive.com/news/clorox-inflation-costs-supply-chain-erp-transition/723880/",
+                "Published: 2026-08-11T15:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SEMICONDUCTORS: AI BOOM CAUSES MEMORY CRUNCH",
+            "heading": "AIR CARGO: EU DE MINIMIS REFORM SLUMPS RATES",
             "points": [
-                "Exponential growth in AI data center construction has triggered severe supply constraints across global memory chip supply chains.",
-                "Soaring demand for advanced memory hardware has pushed wholesale component prices up 35% year-over-year.",
-                "Consumer electronics manufacturers are competing directly with data centers for limited semiconductor production capacity.",
-                "Hardware procurement teams must extend component lead times to 24 weeks to secure critical memory allocations."
+                "Air cargo spot rates and booking volumes dropped significantly following the EU elimination of duty-free de minimis import exemptions.",
+                "Cross-border e-commerce sellers are adjusting fulfillment strategies as low-value package shipments encounter immediate customs tax assessments.",
+                "Freighter operators servicing Asia-Europe air corridors are re-evaluating flight schedules to match reduced express package volume.",
+                "E-commerce logistics managers are shifting high-volume product lines toward localized European fulfillment centers to minimize import friction."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/ai-boom-leaves-consumer-tech-fighting-for-memory-capacity",
-                "Published: 2026-08-11T19:00:00Z",
+                "Source: https://www.joc.com/article/air-cargo-rates-volume-slump-after-eu-duty-free-tax-reform_20260811.html",
+                "Published: 2026-08-11T10:00:00Z",
                 "Status: Audited & True"
             ]
         }
