@@ -28,7 +28,7 @@ const SELECTED_VOICE_PROFILE = 'FEMALE_BREAKING';
 
 const VOICE_PROFILES = {
     FEMALE_BREAKING: {
-        voiceName: "en-US-AvaNeural",
+        voiceName: "en-NZ-MollyNeural",
         introRate: "+22%",    // Amplified ultra-high-urgency breaking news hook speed
         introPitch: "+6Hz",   // Higher commanding pitch for instant attention
         bodyRate: "+18%",     // Fast-paced, urgent, adrenaline-driven news delivery
@@ -170,33 +170,47 @@ function parseDecimalsPhonetically(text) {
  */
 function parseCurrenciesPhonetically(text) {
     return text
-        .replace(/\$([0-9.,]+)([M|B|K]?)\b/gi, (match, num, suffix) => {
+        .replace(/\$([0-9.]+)([M|B|K]?)\b/gi, (match, num, suffix) => {
             let cleanNum = num.replace(/,/g, " ");
             const spokenNum = parseDecimalsPhonetically(cleanNum);
             let multiplier = '';
-            if (suffix.toUpperCase() === 'M') multiplier = ' million';
-            else if (suffix.toUpperCase() === 'B') multiplier = ' billion';
-            else if (suffix.toUpperCase() === 'K') multiplier = ' thousand';
+            const upperSuffix = suffix ? suffix.toUpperCase() : '';
+            if (upperSuffix === 'M') multiplier = ' million';
+            else if (upperSuffix === 'B') multiplier = ' billion';
+            else if (upperSuffix === 'K') multiplier = ' thousand';
             return `${spokenNum}${multiplier} U.S. Dollars`;
         })
-        .replace(/€([0-9.,]+)([M|B|K]?)\b/gi, (match, num, suffix) => {
+        .replace(/€([0-9.]+)([M|B|K]?)\b/gi, (match, num, suffix) => {
             let cleanNum = num.replace(/,/g, " ");
             const spokenNum = parseDecimalsPhonetically(cleanNum);
             let multiplier = '';
-            if (suffix.toUpperCase() === 'M') multiplier = ' million';
-            else if (suffix.toUpperCase() === 'B') multiplier = ' billion';
-            else if (suffix.toUpperCase() === 'K') multiplier = ' thousand';
+            const upperSuffix = suffix ? suffix.toUpperCase() : '';
+            if (upperSuffix === 'M') multiplier = ' million';
+            else if (upperSuffix === 'B') multiplier = ' billion';
+            else if (upperSuffix === 'K') multiplier = ' thousand';
             return `${spokenNum}${multiplier} Euros`;
         })
-        .replace(/£([0-9.,]+)([M|B|K]?)\b/gi, (match, num, suffix) => {
+        .replace(/£([0-9.]+)([M|B|K]?)\b/gi, (match, num, suffix) => {
             let cleanNum = num.replace(/,/g, " ");
             const spokenNum = parseDecimalsPhonetically(cleanNum);
             let multiplier = '';
-            if (suffix.toUpperCase() === 'M') multiplier = ' million';
-            else if (suffix.toUpperCase() === 'B') multiplier = ' billion';
-            else if (suffix.toUpperCase() === 'K') multiplier = ' thousand';
+            const upperSuffix = suffix ? suffix.toUpperCase() : '';
+            if (upperSuffix === 'M') multiplier = ' million';
+            else if (upperSuffix === 'B') multiplier = ' billion';
+            else if (upperSuffix === 'K') multiplier = ' thousand';
             return `${spokenNum}${multiplier} British Pounds`;
         });
+}
+
+/**
+ * Quarter-term expander for financial periods (Q1, Q2, Q3, Q4) -> spoken phrases
+ */
+function expandQuarterTermsPhonetically(text) {
+    return text
+        .replace(/\bQ1\b/gi, 'first quarter')
+        .replace(/\bQ2\b/gi, 'second quarter')
+        .replace(/\bQ3\b/gi, 'third quarter')
+        .replace(/\bQ4\b/gi, 'fourth quarter');
 }
 
 /**
@@ -288,6 +302,7 @@ function prepareHumanizedText(rawText) {
     clean = clean.replace(/([a-zA-Z0-9]+)-([a-zA-Z0-9]+)/g, '$1 $2');
 
     clean = cleanAbbreviationsForSpeech(clean);
+    clean = expandQuarterTermsPhonetically(clean);
     clean = parseFractionsPhonetically(clean);
     clean = parseCurrenciesPhonetically(clean);
     clean = parseLegalSectionsPhonetically(clean);
@@ -504,7 +519,6 @@ async function buildShortFromTemplate(templatePath) {
         const exactDuration = parseFloat(execSync(probeCmd).toString().trim());
 
         slideAudioFiles.push(closingAudioPath);
-        // FIX: Increased padding and minimum floor to ensure trailing closing words ("instant premium rates") are never clipped or compressed out.
         const closingDuration = Math.max(exactDuration + 2.5, 12.5);
         slideDurations.push(closingDuration);
 
@@ -662,7 +676,6 @@ async function buildShortFromTemplate(templatePath) {
     let concatAudioString = '';
     allSlides.forEach((slide, i) => {
         const audioInputIndex = (i * 2) + 1;
-        // FIX: Applied a dedicated longer padding (3.0s) for the closing slide to protect the trailing decay against compressor/limiter gating.
         const padDur = slide.isClosing ? 3.0 : 1.5;
         filterComplex += `[${audioInputIndex}:a]aresample=44100,apad=pad_dur=${padDur},atrim=0:${slide.duration.toFixed(3)}[a_${i}];\n`;
         concatAudioString += `[a_${i}]`;
@@ -692,6 +705,7 @@ async function buildShortFromTemplate(templatePath) {
     ffmpegArgs.push('-map', '[outa]');
     ffmpegArgs.push('-c:v', 'libx264', '-preset', 'ultrafast', '-pix_fmt', 'yuv420p');
     ffmpegArgs.push('-c:a', 'aac', '-b:a', '192k');
+    ffmpegArgs.api = '-y';
     ffmpegArgs.push('-y', outputVideoPath);
 
     // ==========================================
@@ -710,16 +724,12 @@ async function buildShortFromTemplate(templatePath) {
             allSlides.forEach((_, i) => {
                 const textPath = path.join(__dirname, `temp_text_${templateFileName}_${i}.txt`);
                 if (fs.existsSync(textPath)) fs.unlinkSync(textPath);
-                const headlinePath = path.join(__dirname, `temp_text_${templateFileName}_${i}.txt`);
-                if (fs.existsSync(headlinePath)) fs.unlinkSync(headlinePath);
-                const teaserPath = path.join(__dirname, `temp_teaser_${templateFileName}_${i}.txt`);
-                if (fs.existsSync(teaserPath)) fs.unlinkSync(teaserPath);
                 const bannerTitlePath = path.join(__dirname, `temp_bannertitle_${templateFileName}_${i}.txt`);
                 if (fs.existsSync(bannerTitlePath)) fs.unlinkSync(bannerTitlePath);
                 const bannerTeaserPath = path.join(__dirname, `temp_bteaser_${templateFileName}_${i}.txt`);
                 if (fs.existsSync(bannerTeaserPath)) fs.unlinkSync(bannerTeaserPath);
             });
-            slideAudioFiles.execSync = slideAudioFiles.forEach(audioPath => {
+            slideAudioFiles.forEach(audioPath => {
                 if (fs.existsSync(audioPath)) fs.unlinkSync(audioPath);
             });
 
@@ -738,7 +748,7 @@ async function buildShortFromTemplate(templatePath) {
 // Discovers template JS files in root and triggers batch compilation.
 // ==========================================
 async function runMainTemplateQueue() {
-    console.log("🔍 Scanning workspace for matching template files...");
+    console.log("🔍 workspace template scan initialized...");
     const files = fs.readdirSync(__dirname);
     const templateFiles = files.filter(file => file.endsWith('.js') && (file.includes('template') || file.includes('shorts') || file.includes('Video_Template')));
 
