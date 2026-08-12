@@ -185,6 +185,13 @@ async function switchSlide(id, element) {
         return `${words.join(' ')} <span class="last-word-blue">${last}</span>`;
     };
 
+    // Automated smart metric highlighter for sub-slide bullet paragraphs using theme accent color
+    const highlightMetrics = (text) => {
+        if (!text) return "";
+        const metricRegex = /(\$[0-9]+(\.[0-9]+)?[BBMK]?|\bQ[1-4]\s+[0-9]{4}\b|[0-9]+(\.[0-9]+)?%|\b\d+(?:\.\d+)?\b)/g;
+        return text.replace(metricRegex, `<span class="blue-text" style="font-weight: 700;">$&</span>`);
+    };
+
     let html = "";
 
     if (id === 'main') {
@@ -264,10 +271,10 @@ async function switchSlide(id, element) {
         if (slide) {
             let bulletList = "";
             if (Array.isArray(slide.points)) {
-                bulletList = slide.points.map(pt => `<li>${pt.trim().replace(/\.$/, '')}</li>`).join('');
+                bulletList = slide.points.map(pt => `<li>${highlightMetrics(pt.trim().replace(/\.$/, ''))}</li>`).join('');
             } else if (slide.content) {
                 const sentences = slide.content.split('. ').filter(s => s.trim().length > 0);
-                bulletList = sentences.map(s => `<li>${s.trim().replace(/\.$/, '')}</li>`).join('');
+                bulletList = sentences.map(s => `<li>${highlightMetrics(s.trim().replace(/\.$/, ''))}</li>`).join('');
             }
 
             const formattedHeading = formatTitleBlue(slide.heading);
