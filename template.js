@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR advances sweeping Section 301 tariffs across 60 trading partners as global supply chains face escalating regulatory compliance friction."
+        "titleWhite": "RED SEA SECURITY",
+        "titleBlue": "CRISIS",
+        "footerSummary": "Escalating Red Sea attacks and military interventions trigger severe maritime disruptions and vital cargo corridor bottlenecks globally."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "RED SEA: ATTACKS AND MILITARY ACTION",
             "points": [
-                "The Office of the United States Trade Representative is moving forward with the implementation of tariffs on 60 nations.",
-                "The regulatory expansion falls under Section 301 of the Trade Act of 1974 and specifically targets forced labor practices.",
-                "Importers across multiple industrial sectors face heightened compliance documentation burdens at all entry ports.",
-                "Global supply chain managers must immediately audit tier-one and tier-two sourcing networks to maintain import authorization."
+                "Commercial shipping faced unprecedented kinetic strikes at both ends of the Middle East corridor as six lives were lost in the Bab al-Mandab Strait.",
+                "The U.S. military responded by disabling a commercial containership involved in the transit lane following the fatal Houthi ballistic missile barrage.",
+                "The lethal escalation threatens to permanently alter regional shipping routes and upend maritime security protocols across major trade arteries.",
+                "Supply chain risk analysts expect ocean carriers to institute immediate route suspensions and diversion insurance premiums."
             ],
             "imageUrl": "",
-            "nextUpTease": "POLYSILICON TARIFFS: SEMICONDUCTOR IMPACT",
+            "nextUpTease": "CONTAINER DEMAND: EUROPEAN IMPORT PULL-FORWARD",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-12T08:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "POLYSILICON TARIFFS: SEMICONDUCTOR IMPACT",
+            "heading": "CONTAINER DEMAND: EUROPEAN IMPORT PULL-FORWARD",
             "points": [
-                "The Executive Branch issued a presidential proclamation levying a 15% tariff alongside import price floors on foreign polysilicon.",
-                "The trade restriction specifically targets critical components utilized in domestic semiconductor manufacturing and solar energy technology.",
-                "Regulatory enforcement is scheduled to take effect Dec. 4, prompting tech supply chain managers to shift procurement sources.",
-                "High-tech electronics manufacturers face narrowing margin buffers and increased compliance validation costs at entry ports."
+                "European containerized import demand is projected to soften significantly in Q4 as peak season inventory build was heavily frontloaded.",
+                "Logistics providers note that a substantial portion of autumn retail shipments arrived early to circumvent looming trade policy friction.",
+                "BCOs face altered inventory holding costs and shifting warehousing requirements as European consumer markets absorb prior deliveries.",
+                "Carriers are recalibrating Q4 vessel capacity allocations across major trade lanes to match decelerating cargo volume."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO THEFT: FRAUDULENT CREDIT SCHEMES",
+            "nextUpTease": "RHINE WATERWAYS: BARGE SURCHARGE SURGE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-11T16:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CARGO THEFT: FRAUDULENT CREDIT SCHEMES",
+            "heading": "RHINE WATERWAYS: BARGE SURCHARGE SURGE",
             "points": [
-                "Royal Canadian Mounted Police issued urgent warnings after 12 trucking businesses shipped high-value orders on fraudulent credit cards.",
-                "Organized logistics fraud syndicates continue to exploit digital freight platforms and unsecured broker onboarding workflows.",
-                "Freight intermediaries must deploy advanced carrier identity verification protocols to prevent multi-million-dollar cargo diversions.",
-                "Insurance underwriters are tightening coverage requirements for brokerages operating in high-risk cross-border trade corridors."
+                "Inland waterway logistics across Europe face severe headwinds as Rhine River transport surcharges spiked amid falling water levels.",
+                "Barge operators implemented emergency fee structures to offset reduced draft limits and restricted cargo payload capacities.",
+                "Shifting cargo from inland barges to rail and truck networks has driven up overland freight costs for raw material shippers.",
+                "Manufacturing supply chains dependent on Rhine corridor inputs must implement contingency routing before water levels decline further."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: TRANS-PACIFIC CAPACITY SURGE",
+            "nextUpTease": "US IMPORTS: JULY SURGE DESPITE TARIFFS",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-12T09:15:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OCEAN FREIGHT: TRANS-PACIFIC CAPACITY SURGE",
+            "heading": "US IMPORTS: JULY SURGE DESPITE TARIFFS",
             "points": [
-                "Asia to U.S. East Coast ocean container spot rates reached a record benchmark of $9,400 per FEU during peak season trade.",
-                "Early peak season cargo frontloading by North American importers driven by tariff uncertainty continues to strain vessel space.",
-                "Ocean carriers are operating Transpacific services at or near 100% operational capacity through the end of Q3.",
-                "BCOs face elevated mini-bid activity and spot premium surcharges to secure guaranteed equipment allocations."
+                "U.S. containerized imports rose 4.5% in July according to Descartes data, driven by robust consumer demand and incoming China-origin cargo.",
+                "The sustained import volume persisted despite ongoing tariff turbulence and regulatory friction across major U.S. port gateways.",
+                "Importers continue frontloading merchandise to protect against potential future trade enforcement actions and holiday bottlenecks.",
+                "Supply chain executives must secure warehouse drayage capacity early to prevent dwell time accumulation at destination terminals."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL LOGISTICS: INDIANAPOLIS EXPANSION",
+            "nextUpTease": "ASIAN PORTS: TYPHOON DOLPHIN CONGESTION",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-12T07:30:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-11T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL LOGISTICS: INDIANAPOLIS EXPANSION",
+            "heading": "ASIAN PORTS: TYPHOON DOLPHIN CONGESTION",
             "points": [
-                "The Port of Virginia expanded its intermodal footprint by introducing direct CSX rail container service into the Indianapolis market.",
-                "The direct rail connection eliminates traditional Chicago transfer bottlenecks and reduces regional long-haul trucking reliance.",
-                "Midwest importers gain faster container turnaround times and lower total-landed transit costs from East Coast port gateways.",
-                "Logistics planners expect improved fluidity across Mid-Atlantic supply chain corridors as rail capacity absorbs truckload volume."
+                "Typhoon Dolphin made landfall near Ningbo, triggering widespread port operational closures and severe cargo backlogs across East Asia.",
+                "The severe storm system dumped torrential rains across coastal supply chains, compounding existing vessel scheduling delays.",
+                "Terminal operators are working around the clock to clear container yards as regional maritime traffic resumes normal berthing.",
+                "Ocean carriers warn of cascading schedule reliability issues for transpacific and Europe-bound voyages over the coming weeks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION: ROBOTIC ORDER GROWTH",
+            "nextUpTease": "FMC RULING: DETENTION FEE FLUIDITY",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-04T10:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AUTOMATION: ROBOTIC ORDER GROWTH",
+            "heading": "FMC RULING: DETENTION FEE FLUIDITY",
             "points": [
-                "North American industrial facilities reported accelerated second-quarter growth in commercial robot orders amid broadening automation demand.",
-                "Warehousing and manufacturing operators are deploying fixed automation assets to counter chronic labor shortages and wage inflation.",
-                "Supply chain technology providers recorded double-digit bookings growth for articulated robotic arms and autonomous mobile fleets.",
-                "Facility managers are accelerating capital expenditure programs to integrate scalable physical AI solutions into warehouse workflows."
+                "The U.S. Court of Appeals upheld a Federal Maritime Commission decision mandating that detention and demurrage fees promote freight fluidity.",
+                "The landmark judicial ruling reinforces regulatory oversight on ocean carrier billing practices and container return enforcement.",
+                "Shippers gain stronger legal recourse against unfair penalty charges incurred during terminal congestion and equipment shortages.",
+                "Maritime legal experts advise logistics departments to audit demurrage invoices against the updated federal compliance standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL COMPLIANCE: TITLE REVISIONS",
+            "nextUpTease": "OIL STOCKS: HORMOZ STALEMATE IMPACT",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-11T11:30:00Z",
+                "Source: https://www.fmc.gov",
+                "Published: 2026-07-08T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RETAIL COMPLIANCE: TITLE REVISIONS",
+            "heading": "OIL STOCKS: HORMOZ STALEMATE IMPACT",
             "points": [
-                "Amazon initiated strict enforcement of a 75-character ceiling for product titles across third-party seller catalog listings.",
-                "The platform confirmed the updated title formatting rules apply equally to Amazon first-party retail vendor product pages.",
-                "Listings exceeding the 75-character boundary face automated suppression in marketplace search index algorithms.",
-                "E-commerce brand managers must immediately audit product listings to maintain organic search visibility and sales volume."
+                "Global energy markets reacted to the prolonged Strait of Hormuz stalemate as Brent crude hovered near $89.08 per barrel.",
+                "U.S. consumer gasoline prices ticked higher, putting additional cost pressure on over-the-road trucking fleets and logistics providers.",
+                "Energy analysts project oil supply disruptions to persist through 2027, forcing fleet operators to optimize fuel surcharge recovery models.",
+                "Transport executives are accelerating fleet efficiency initiatives to mitigate persistent fuel price volatility across supply chains."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: 2026-08-11T13:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
