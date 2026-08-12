@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "RED SEA HOUTHI ATTACK",
+        "hookTitle": "FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OCEAN FREIGHT: RED SEA HOUTHI ATTACK",
-                "teaserTitle": "CONTAINER RATES: TRANSPACIFIC FREIGHT SURGE",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "POLYSILICON TARIFFS: SEMICONDUCTOR IMPACT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A Houthi missile strike in the Bab al-Mandab Strait killed six crew members in the first fatal commercial shipping attack. The United States military subsequently intercepted and disabled a second vessel."
+                "narration_line": "The Office of the United States Trade Representative is advancing Section three oh one tariffs across sixty trading partners. Importers face heightened compliance documentation burdens at all entry ports."
             },
             {
                 "slide_index": 2,
-                "headline": "CONTAINER RATES: TRANSPACIFIC FREIGHT SURGE",
-                "teaserTitle": "LEGAL LIABILITY: BROKERAGE NUCLEAR VERDICT",
+                "headline": "POLYSILICON TARIFFS: SEMICONDUCTOR IMPACT",
+                "teaserTitle": "CARGO THEFT: FRAUDULENT CREDIT SCHEMES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Asia to United States East Coast container rates surged to a record nine thousand four hundred dollars as peak season cargo frontloading accelerated. Shippers are rushing import volumes ahead of anticipated trade policy shifts."
+                "narration_line": "The executive branch issued a presidential proclamation levying a fifteen percent tariff on foreign polysilicon. High tech electronics manufacturers face narrowing margin buffers and increased validation costs."
             },
             {
                 "slide_index": 3,
-                "headline": "LEGAL LIABILITY: BROKERAGE NUCLEAR VERDICT",
-                "teaserTitle": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "headline": "CARGO THEFT: FRAUDULENT CREDIT SCHEMES",
+                "teaserTitle": "OCEAN FREIGHT: TRANS-PACIFIC CAPACITY SURGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Freight broker C H Robinson faces a six hundred four million dollar court verdict regarding broker liability and hiring practices. The historic ruling forces freight intermediaries to overhaul carrier vetting protocols immediately."
+                "narration_line": "Royal Canadian Mounted Police issued urgent warnings after twelve trucking businesses shipped orders on fraudulent credit cards. Freight intermediaries must deploy advanced identity verification protocols."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
-                "teaserTitle": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
+                "headline": "OCEAN FREIGHT: TRANS-PACIFIC CAPACITY SURGE",
+                "teaserTitle": "RAIL LOGISTICS: INDIANAPOLIS EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The United States executive branch issued a fifteen percent tariff and import price floor on foreign polysilicon used in microchips and solar panels. Importers must recalibrate high-tech supply chains before mandatory enforcement begins in December."
+                "narration_line": "Asia to United States East Coast container spot rates reached nine thousand four hundred dollars per FEU. Ocean carriers are operating transpacific services at full operational capacity."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
-                "teaserTitle": "ENERGY SUPPLY: LIBYAN OIL DRONE ATTACKS",
+                "headline": "RAIL LOGISTICS: INDIANAPOLIS EXPANSION",
+                "teaserTitle": "AUTOMATION: ROBOTIC ORDER GROWTH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Port of Virginia launched direct CSX rail service into Indianapolis to bypass Midwest rail hubs. The direct corridor removes intermediate drayage legs and accelerates inland container transit across the region."
+                "narration_line": "The Port of Virginia expanded its intermodal footprint by introducing direct rail container service into Indianapolis. Midwest importers gain faster turnaround times from East Coast gateways."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY SUPPLY: LIBYAN OIL DRONE ATTACKS",
-                "teaserTitle": "ECOMMERCE: AMAZON TITLE CHARACTER LIMIT",
+                "headline": "AUTOMATION: ROBOTIC ORDER GROWTH",
+                "teaserTitle": "RETAIL COMPLIANCE: TITLE REVISIONS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Escalating drone attacks targeted Libya's main Zawiya energy complex, threatening critical Mediterranean crude oil exports. National energy officials warned force majeure declarations remain imminent if operational security deteriorates further."
+                "narration_line": "North American industrial facilities reported accelerated second quarter growth in commercial robot orders. Facility managers are accelerating capital expenditure programs to integrate automated workflows."
             },
             {
                 "slide_index": 7,
-                "headline": "ECOMMERCE: AMAZON TITLE CHARACTER LIMIT",
+                "headline": "RETAIL COMPLIANCE: TITLE REVISIONS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "E-commerce giant Amazon mandated a seventy-five character limit for all product titles across merchant catalog listings. Merchants failing to trim product titles risk immediate search suppression and catalog indexing penalties."
+                "narration_line": "Amazon initiated strict enforcement of a seventy-five character ceiling for product titles. Listings exceeding the threshold face automated suppression in marketplace search indexes."
             },
             {
                 "slide_index": 8,
