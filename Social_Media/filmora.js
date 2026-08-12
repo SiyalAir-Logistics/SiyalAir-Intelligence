@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: HOUTHI MISSILE STRIKES KILL SIX",
-                "teaserTitle": "FUEL: HORMUZ STALEMATE RALLIES CRUDE",
-                "visual_caption": "Houthi rebels struck a commercial cargo ship in the Bab al-Mandab Strait with 3 ballistic missiles, causing 6 crew fatalities. The fatal attack has forced major ocean carriers to immediately suspend remaining Red Sea transits."
+                "headline": "USTR: FORCED LABOR SECTION TARIFFS",
+                "teaserTitle": "FMCSA: ENGLISH PROFICIENCY DRIVER MANDATE",
+                "visual_caption": "The U.S. Trade Representative is moving forward with forced labor tariffs on 60 trading partners under Section 301. This regulatory shift occurs as Section 122 tariffs expire, forcing importers to re-verify global supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "FUEL: HORMUZ STALEMATE RALLIES CRUDE",
-                "teaserTitle": "INLAND: RHINE BARGE SURCHARGES SKYROCKET",
-                "visual_caption": "Brent crude prices rose to $89.08 per barrel amidst an ongoing military stalemate near the Strait of Hormuz. Energy analysts warn that regional supply disruptions could now persist through fiscal year 2027."
+                "headline": "FMCSA: ENGLISH PROFICIENCY DRIVER MANDATE",
+                "teaserTitle": "WAREHOUSING: AHOLD DELHAIZE CANCELS HUBS",
+                "visual_caption": "The FMCSA proposed codifying strict English proficiency enforcement standards for commercial drivers nationwide. The rule establishes standardized roadside inspection protocols after recent enforcements sidelined over 26,000 drivers."
             },
             {
                 "slide_index": 3,
-                "headline": "INLAND: RHINE BARGE SURCHARGES SKYROCKET",
-                "teaserTitle": "AIR: MUSCAT DUBAI ROAD FEEDER EXPANSION",
-                "visual_caption": "Rhine River barge transport surcharges have skyrocketed as falling water levels reduce inland vessel intake capacities by over 40%. Shippers are rapidly diverting containerized freight onto overburdened European rail and trucking networks."
+                "headline": "WAREHOUSING: AHOLD DELHAIZE CANCELS HUBS",
+                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
+                "visual_caption": "Ahold Delhaize and Americold canceled plans for 2 automated frozen warehouses in PA and CT. The grocer closed 1 existing facility while bringing cold chain operations back under direct internal management."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR: MUSCAT DUBAI ROAD FEEDER EXPANSION",
-                "teaserTitle": "TARIFFS: POLYSILICON IMPORTS FACE LEVY",
-                "visual_caption": "Oman Air expanded its overland road feeder service connecting Muscat and Dubai to bypass regional maritime bottlenecks. The strategic highway corridor has boosted air freight transshipment volumes through Middle Eastern hubs by 20%."
+                "headline": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
+                "teaserTitle": "SHIPBUILDING: WAN HAI ORDERS BILLION FLEET",
+                "visual_caption": "A cyber breach at CEVA Logistics compromised operations across European retail, banking, and gaming supply chains. The incident leaves beneficial cargo owners facing operational delays as cargo theft damages reach $725M."
             },
             {
                 "slide_index": 5,
-                "headline": "TARIFFS: POLYSILICON IMPORTS FACE LEVY",
-                "teaserTitle": "RAIL: PORT OF VIRGINIA DIRECT SERVICE",
-                "visual_caption": "The United States government announced a 15% tariff and import price floor on polysilicon imports starting December 4. Clean energy and technology procurement teams are urgently re-routing solar and chip component supply chains."
+                "headline": "SHIPBUILDING: WAN HAI ORDERS BILLION FLEET",
+                "teaserTitle": "ECOMMERCE: ETSY CUTS WORKFORCE POST CASH",
+                "visual_caption": "Taiwanese carrier Wan Hai Lines signed a $980M order for 8 new containerships with Shanghai Waigaoqiao Shipbuilding. The deal includes 7 11,000 TEU vessels to expand long-term trade route capacity."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL: PORT OF VIRGINIA DIRECT SERVICE",
-                "teaserTitle": "ECOMMERCE: AMAZON TITLE POLICY STRICT LIMITS",
-                "visual_caption": "The Port of Virginia and CSX Railroad launched a direct rail service to Indianapolis, bypassing traditional Chicago transfer points. The new intermodal route is projected to eliminate 15,000 long-haul truck trips every year."
+                "headline": "ECOMMERCE: ETSY CUTS WORKFORCE POST CASH",
+                "teaserTitle": "CUSTOMS: ECUADOR INTERCEPTS CONTAINER DRUGS",
+                "visual_caption": "Etsy announced plans to lay off 200 employees, marking a 12% workforce reduction across corporate operations. The cuts occurred 6 days after receiving $1.4B from eBay for selling Depop."
             },
             {
                 "slide_index": 7,
-                "headline": "ECOMMERCE: AMAZON TITLE POLICY STRICT LIMITS",
+                "headline": "CUSTOMS: ECUADOR INTERCEPTS CONTAINER DRUGS",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Amazon introduced a strict 75-character limit on product titles across all seller listings to streamline marketplace search performance. Merchants must reconfigure thousands of product listings immediately to prevent search index penalties."
+                "visual_caption": "Ecuadorian authorities seized a major narcotic shipment at the Port of Guayaquil hidden inside an export containership bound for Spain. Law enforcement uncovered contraband impregnated into 1,080 cardboard boxes using risk screening."
             },
             {
                 "slide_index": 8,

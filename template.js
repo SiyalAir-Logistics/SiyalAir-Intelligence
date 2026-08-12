@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "HOUTHI MISSILE STRIKES KILL",
-        "titleBlue": "SIX",
-        "footerSummary": "Lethal Red Sea attacks and Hormuz blockades escalate global trade risks as Rhine surcharges and new tariff levies compound operational freight friction."
+        "titleWhite": "FORCED LABOR SECTION",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR enforcement of Section 301 forced labor tariffs on 60 nations threatens immediate duty escalations as Section 122 expires."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: HOUTHI MISSILE STRIKES KILL SIX",
+            "heading": "USTR: FORCED LABOR SECTION TARIFFS",
             "points": [
-                "Houthi rebels struck a commercial cargo vessel in the Bab al-Mandab Strait with 3 ballistic missiles, resulting in 6 crew fatalities.",
-                "The lethal assault marks the first fatal attack on merchant shipping in the Red Sea corridor since the start of the regional conflict in 2026.",
-                "Ocean carriers are re-evaluating Suez Canal transit protocols, forcing additional vessel reroutings around the Cape of Good Hope.",
-                "Insurance underwriters have raised war-risk premiums by up to 25% for vessel operators attempting passage through high-risk Arabian Sea channels."
+                "The Office of the U.S. Trade Representative is implementing forced labor tariffs targeting 60 trading nations under Section 301 of the Trade Act.",
+                "The enforcement shift occurs as Section 122 temporary tariffs officially expire across major ocean and air freight import vectors in 2026.",
+                "Importers face heightened customs entry audits and potential cargo holds at U.S. ports of entry for non-compliant global supply chains.",
+                "Trade compliance teams must re-verify tier-1 and tier-2 vendor supply chains to mitigate tariff risk and avoid severe detention delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL: HORMUZ STALEMATE RALLIES CRUDE",
+            "nextUpTease": "FMCSA: ENGLISH PROFICIENCY DRIVER MANDATE",
             "tags": [
-                "Source: https://www.cnbc.com/supply-chain",
-                "Published: 2026-08-12T10:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-11T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FUEL: HORMUZ STALEMATE RALLIES CRUDE",
+            "heading": "FMCSA: ENGLISH PROFICIENCY DRIVER MANDATE",
             "points": [
-                "Brent crude prices ticked up 0.19% to $89.08 per barrel as an ongoing naval stalemate near the Strait of Hormuz tightens energy availability.",
-                "U.S. gasoline prices edged up 2 cents overnight, reaching a national benchmark average of $4.04 per gallon.",
-                "Dark transits and off-grid oil cargo switching have increased outside the strait as tanker operators attempt to bypass blockade monitoring.",
-                "Energy analysts project extended oil supply disruptions lasting through fiscal year 2027 if military tensions persist across primary Middle East shipping lanes."
+                "The FMCSA proposed codifying strict English-language proficiency enforcement standards for commercial motor vehicle drivers nationwide.",
+                "The regulatory change establishes standardized field testing protocol during roadside inspections following 26,000 recent driver sidelinings.",
+                "Motor carriers operating across North American freight corridors face heightened operational compliance audits and out-of-service risks.",
+                "Logistics fleet managers must audit driver qualification files immediately to prevent severe capacity reductions across regional fleets."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND: RHINE BARGE SURCHARGES SKYROCKET",
+            "nextUpTease": "WAREHOUSING: AHOLD DELHAIZE CANCELS HUBS",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-12T09:30:00Z",
+                "Published: 2026-08-10T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INLAND: RHINE BARGE SURCHARGES SKYROCKET",
+            "heading": "WAREHOUSING: AHOLD DELHAIZE CANCELS HUBS",
             "points": [
-                "Inland waterway transport surcharges across the Rhine River have surged sharply due to declining water levels obstructing barge capacity.",
-                "Barge operators in Central Europe are imposing severe low-water surcharges as vessel intake capacities are cut by over 40%.",
-                "European industrial shippers are shifting bulk containerized cargo onto already congested regional rail and motor carrier networks.",
-                "Supply chain planners anticipate compounding inland freight rate surcharges through Q3 as low water levels persist across critical European river arterial routes."
+                "Ahold Delhaize USA and Americold canceled plans for 2 automated frozen warehouses located in Pennsylvania and Connecticut.",
+                "The grocery giant closed 1 existing facility while halting construction on another to pivot toward direct in-house supply chain control.",
+                "Cold storage capacity shifting back to internal management reflects broader industry recalibrations around expensive automated infrastructure.",
+                "Regional food distributors must adapt to altered fulfillment routing as primary cold chain nodes transition back to manual operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR: MUSCAT DUBAI ROAD FEEDER EXPANSION",
+            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-12T08:15:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-11T15:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR: MUSCAT DUBAI ROAD FEEDER EXPANSION",
+            "heading": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
             "points": [
-                "Oman Air has integrated a permanent overland road feeder surface network connecting Muscat and Dubai to bolster regional air cargo connectivity.",
-                "The Muscat air cargo hub has emerged as a primary contingency gateway for Middle Eastern freight amid Red Sea and Gulf maritime bottlenecks.",
-                "Air logistics forwarders are expanding bonded truck shuttle frequencies between Oman and the UAE to preserve scheduled transit times.",
-                "Multimodal transport operators expect air cargo transshipment volumes through Muscat to increase 20% over the next two quarters."
+                "A major cybersecurity breach at CEVA Logistics compromised IT networks, directly impacting several high-volume beneficial cargo owners.",
+                "The cyber attack disrupted warehouse operations across European retail, banking, and gaming supply chains, leaving cargo status uncertain.",
+                "Third-party logistics providers are scaling up cybersecurity protocols as cargo theft and digital intrusion damages hit $725M industry-wide.",
+                "Shippers utilizing multi-tenant logistics software are urged to audit API integrations and isolate critical supply chain data channels."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFFS: POLYSILICON IMPORTS FACE LEVY",
+            "nextUpTease": "SHIPBUILDING: WAN HAI ORDERS BILLION FLEET",
             "tags": [
                 "Source: https://theloadstar.com",
-                "Published: 2026-08-12T07:45:00Z",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TARIFFS: POLYSILICON IMPORTS FACE LEVY",
+            "heading": "SHIPBUILDING: WAN HAI ORDERS BILLION FLEET",
             "points": [
-                "The U.S. administration announced a 15% tariff on imported polysilicon used in solar power systems and advanced semiconductor manufacturing.",
-                "The trade order includes a mandatory import price floor set to take official effect on December 4, 2026.",
-                "Domestic procurement teams are shifting renewable energy component sourcing to domestic and nearshore suppliers ahead of the Q4 deadline.",
-                "Global tech and clean energy supply chains face immediate component cost increases as raw material duties compound existing chip manufacturing expenses."
+                "Taiwanese ocean carrier Wan Hai Lines signed a $980M ship construction contract with Shanghai Waigaoqiao Shipbuilding.",
+                "The massive vessel order includes 7 containerships of 11,000 TEU capacity and 1 feeder vessel of 9,200 TEU capacity.",
+                "Carriers continue expanding vessel orderbooks to prepare for long-term fleet renewals and Q4 global trade capacity demands.",
+                "Ocean freight forwarders expect expanded container capacity along primary Transpacific and intra-Asia trade lanes upon delivery."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: PORT OF VIRGINIA DIRECT SERVICE",
+            "nextUpTease": "ECOMMERCE: ETSY CUTS WORKFORCE POST CASH",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-11T16:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-12T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAIL: PORT OF VIRGINIA DIRECT SERVICE",
+            "heading": "ECOMMERCE: ETSY CUTS WORKFORCE POST CASH",
             "points": [
-                "The Port of Virginia partnered with CSX Railroad to launch a direct intermodal rail service linking deepwater ocean terminals directly to Indianapolis.",
-                "The direct rail link bypasses traditional rail interchange bottlenecks in Chicago, cutting drayage distances and regional transit times.",
-                "Midwestern importers and agricultural exporters gain direct access to East Coast ocean carrier services without regional highway congestion.",
-                "Rail logistics analysts estimate the direct intermodal service will eliminate over 15,000 long-haul truck trips annually from Midwest corridors."
+                "Etsy announced plans to lay off 200 employees, executing a 12% workforce reduction across corporate operations.",
+                "The downsizing comes just 6 days after the e-commerce platform received $1.4B in cash from eBay for the sale of Depop.",
+                "Marketplace operators are reallocating capital toward AI search capabilities while streamlining fixed operating overhead.",
+                "Third-party online sellers may experience temporary shifts in platform support responsiveness during organizational restructuring."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE: AMAZON TITLE POLICY STRICT LIMITS",
+            "nextUpTease": "CUSTOMS: ECUADOR INTERCEPTS CONTAINER DRUGS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-11T14:30:00Z",
+                "Source: https://www.ecommercebytes.com",
+                "Published: 2026-08-06T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ECOMMERCE: AMAZON TITLE POLICY STRICT LIMITS",
+            "heading": "CUSTOMS: ECUADOR INTERCEPTS CONTAINER DRUGS",
             "points": [
-                "Amazon enforced strict product title limits capping item titles at 75 characters max across third-party and first-party product listings.",
-                "The policy change aims to standardize catalog search algorithms and streamline mobile checkout experiences across global e-commerce channels.",
-                "Third-party marketplace sellers must update hundreds of thousands of product SKUs to comply with the mandated character boundaries.",
-                "Search engine optimization strategists warn that truncated titles may temporarily alter organic search visibility for high-volume retail listings."
+                "Ecuadorian police intercepted a major drug shipment at the Port of Guayaquil hidden inside an export containership bound for Spain.",
+                "Inspectors discovered narcotics impregnated directly into 1,080 cardboard packaging boxes using advanced risk analysis screening.",
+                "Cocaine smuggling tactics utilizing commercial export packaging emphasize escalating security risks for international container shipping.",
+                "Global port authorities are increasing container scanning mandates and physical cargo inspections at key Latin American gateways."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: 2026-08-07T11:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-11T17:05:00Z",
                 "Status: Audited & True"
             ]
         }
