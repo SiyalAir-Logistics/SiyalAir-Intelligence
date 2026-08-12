@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TYPHOON DOLPHIN CRIPPLES",
-        "titleBlue": "NINGBO",
-        "footerSummary": "Typhoon Dolphin unleashes severe coastal flooding across eastern China, trapping two point four million TEUs of containership capacity and disrupting regional supply chains."
+        "titleWhite": "USTR FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR triggers Section 301 tariffs on 60 nations while US Navy disables a vessel in the Gulf, threatening cross-border trade fluidity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PORT OPERATIONS: TYPHOON DOLPHIN CRIPPLES NINGBO",
+            "heading": "TRADE POLICY: USTR FORCED LABOR TARIFFS",
             "points": [
-                "Typhoon Dolphin made landfall near Ningbo, delivering torrential rainfall and extensive coastal flooding across primary manufacturing and export hubs in eastern China.",
-                "Port authorities report that approximately two point four million TEUs of containership capacity are currently anchored or delayed outside major Chinese terminal gates.",
-                "Terminal operators have temporarily suspended vessel loading operations and gate movements to safeguard terminal infrastructure and landside logistics equipment.",
-                "Supply chain analysts project multi-day vessel berthing delays that will cascade across global transpacific and Asia-Europe maritime container service loops."
+                "The Office of the United States Trade Representative announced new Section 301 tariffs targeting 60 trading partners as existing Section 122 emergency duties expire.",
+                "The regulatory action introduces expanded trade enforcement mechanisms aimed at eradicating forced labor components across global manufacturing supply chains.",
+                "Customs compliance teams are re-evaluating origin documentation and supply chain mapping protocols to prevent severe port entry delays and asset seizures.",
+                "Enterprise importers face rising administrative friction and potential cost increases across high-volume cross-border trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: ASIA TO US EAST COAST RATES PEAK",
+            "nextUpTease": "CONTAINER IMPORTS: US JULY VOLUMES SURGE",
             "tags": [
-                "Source: https://theloadstar.com/tropical-storms-bring-congestion-and-cargo-backlogs-at-asian-ports/",
-                "Published: 2026-08-11T08:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
+                "Published: 2026-08-11T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OCEAN FREIGHT: ASIA TO US EAST COAST RATES PEAK",
+            "heading": "CONTAINER IMPORTS: US JULY VOLUMES SURGE",
             "points": [
-                "Spot container freight rates for voyages moving from Asian manufacturing origins to the United States East Coast have surged to a new high of nine thousand four hundred dollars.",
-                "Accelerated cargo frontloading and constrained vessel capacity have intensified competition for scarce equipment among major beneficial cargo owners.",
-                "Carrier pricing desks are leveraging peak-season surcharges to capture premium margins amid robust import demand across core trade lanes.",
-                "Logistics procurement managers are adjusting transport budgets upward to secure guaranteed slot allocations on critical transpacific voyages."
+                "United States ocean container import volumes grew 4.5% in July, propelled by robust China-origin freight movements and early peak season frontloading.",
+                "Data from Descartes indicates sustained consumer demand and proactive inventory building ahead of impending tariff adjustments across major ports.",
+                "Terminal operators and drayage fleets are adjusting gate hours to handle heavy container throughput without creating severe landside choke points.",
+                "Logistics planners project continued import strength through late Q3 before seasonal volumes normalize toward year-end forecasts."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPPLY CHAIN: GM INVESTS IN BATTERY INDEPENDENCE",
+            "nextUpTease": "AIR CARGO: EU DE MINIMIS ELIMINATION",
             "tags": [
-                "Source: https://www.freightwaves.com/news/asia-us-east-coast-box-rate-hits-new-high-of-9400",
-                "Published: 2026-08-11T10:30:00Z",
+                "Source: https://theloadstar.com/us-demand-for-imported-goods-unabated-despite-tariff-turbulence/",
+                "Published: 2026-08-11T14:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SUPPLY CHAIN: GM INVESTS IN BATTERY INDEPENDENCE",
+            "heading": "AIR CARGO: EU DE MINIMIS ELIMINATION",
             "points": [
-                "General Motors announced a major strategic restructuring initiative to sell its equity stake in its joint-venture Indiana electric vehicle battery facility to Samsung.",
-                "The transaction is designed to insulate automotive supply chains from localized manufacturing bottlenecks and optimize capital allocation across core operations.",
-                "Procurement executives are establishing direct component supply agreements to maintain uninterrupted raw material flows for domestic assembly plants.",
-                "Industry analysts note that traditional automakers are increasingly pivoting toward flexible component sourcing models to mitigate geopolitical risk."
+                "European air freight rates and shipment volumes experienced an immediate slump following the formal removal of the EU de minimis import duty exemption.",
+                "Cross-border e-commerce sellers are adjusting logistics channels as low-value package shipments face full custom entry declarations and tax processing.",
+                "Air cargo carriers report shifting trade patterns as direct-to-consumer postal flows consolidate into freight movements.",
+                "Supply chain analysts anticipate sustained volatility in European air hub throughput while sellers adapt to complex tax compliance regulations."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET SAFETY: TRUCKINSPECTIONS SIDELINE 1100 DRIVERS",
+            "nextUpTease": "FLEET SAFETY: FMCSA DRIVER ENGLISH RULE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/gm-to-sell-stake-in-indiana-ev-battery-venture-to-samsung",
-                "Published: 2026-08-11T12:15:00Z",
+                "Source: https://www.joc.com/article/air-cargo-rates-volume-slump-after-eu-duty-free-tax-reform_20260811.html",
+                "Published: 2026-08-11T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FLEET SAFETY: TRUCK INSPECTIONS SIDELINE 1100 DRIVERS",
+            "heading": "FLEET SAFETY: FMCSA DRIVER ENGLISH RULE",
             "points": [
-                "State and federal transportation safety officers executed coordinated roadside inspection sweeps that resulted in the immediate out-of-service disqualification of more than one thousand one hundred drivers and commercial vehicles.",
-                "Enforcement operations focused heavily on mechanical safety violations, brake system deficiencies, and commercial driver credential compliance across major freight corridors.",
-                "Motor carriers with substandard safety ratings face increased audit scrutiny and rising liability insurance premiums following the multi-state enforcement action.",
-                "Fleet safety directors are mandating rigorous pre-trip inspection protocols to prevent costly roadside detentions and protect enterprise safety compliance scores."
+                "The Federal Motor Carrier Safety Administration published a proposed rulemaking targeting mandatory English proficiency enforcement for commercial vehicle drivers.",
+                "The regulatory initiative aims to standardize roadside inspection compliance checks and lock in strict driver qualification criteria nationwide.",
+                "Motor carriers face heightened operational risk and potential driver disqualifications during state transportation safety enforcement sweeps.",
+                "Fleet compliance officers are implementing pre-hire language assessments to maintain uninterrupted interstate freight operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: MSC FINED OVER SAFETY CONCEALMENT",
+            "nextUpTease": "E-COMMERCE: AMAZON TITLE CHARACTER CAP",
             "tags": [
-                "Source: https://www.freightwaves.com/news/indiana-truck-inspections-sideline-more-than-1100-drivers-and-vehicles",
-                "Published: 2026-08-11T14:00:00Z",
+                "Source: https://www.ttnews.com/articles/fmcsa-english-proficiency-rule-proposed",
+                "Published: 2026-08-10T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRADE POLICY: MSC FINED OVER SAFETY CONCEALMENT",
+            "heading": "E-COMMERCE: AMAZON TITLE CHARACTER CAP",
             "points": [
-                "Federal maritime regulators and judicial authorities issued a six million dollar financial penalty against MSC Shipmanagement following an exhaustive investigation into a runaway containership incident.",
-                "The vessel operator was placed on four years of formal probation after admitting to concealing critical engine-control defects aboard the MSC Michigan VII.",
-                "Maritime compliance officers emphasize that failure to report mechanical malfunctions immediately compromises navigational safety along congested coastal shipping lanes.",
-                "Global vessel operators are reviewing internal compliance reporting frameworks to ensure strict adherence to international maritime safety mandates."
+                "Amazon initiated strict enforcement of its new product title policy, limiting listing titles to a maximum of 75 characters across all sellers.",
+                "The character restriction applies equally to third-party merchant listings and Amazon first-party retail items to standardize product catalog display.",
+                "E-commerce brands are updating automated catalog management tools to avoid listing suppression and search visibility penalties.",
+                "Digital merchants must optimize product titles for mobile user interfaces without losing critical brand search indexing metrics."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: HOUHTI ATTACK IN BAB AL-MANDEB",
+            "nextUpTease": "PROCUREMENT: POLYSILICON IMPORT TARIFFS",
             "tags": [
-                "Source: https://splash247.com/msc-fined-6m-over-charleston-runaway-probe/",
-                "Published: 2026-08-11T15:20:00Z",
+                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy-applies-to-own-listings/",
+                "Published: 2026-08-11T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: HOUTHI ATTACK IN BAB AL-MANDEB",
+            "heading": "PROCUREMENT: POLYSILICON IMPORT TARIFFS",
             "points": [
-                "Militant forces launched a series of ballistic missile strikes against a commercial cargo ship transiting the Bab al-Mandab Strait, resulting in six fatalities.",
-                "The tragic incident marks the first deadly attack on commercial maritime shipping personnel in the critical regional trade corridor in over a year.",
-                "Global container lines and maritime security advisors are re-evaluating vessel routing strategies and emergency escort protocols for voyages entering the Red Sea.",
-                "Cargo owners are factoring extended transit lead times and elevated war-risk insurance surcharges into long-term logistics cost projections."
+                "The United States executive administration issued a proclamation establishing a 15% tariff and price floor on imported polysilicon materials.",
+                "The trade measure targets raw material inputs vital for domestic semiconductor chip fabrication and solar energy technology production.",
+                "Procurement managers in high-tech manufacturing sectors are evaluating domestic supplier capabilities to mitigate rising component input costs.",
+                "Global supply chains face renewed cost pressures as raw material tariffs expand into downstream technology manufacturing ecosystems."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY LOGISTICS: CRUDE SWITCHING OUTSIDE HORMUZ",
+            "nextUpTease": "MARITIME SECURITY: US DISABLES GULF VESSEL",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/houthi-strike-in-bab-al-mandab-strait-kills-six",
-                "Published: 2026-08-11T17:45:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-polysilicon-tariff-chips-solar/723400/",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ENERGY LOGISTICS: CRUDE SWITCHING OUTSIDE HORMUZ",
+            "heading": "MARITIME SECURITY: US DISABLES GULF VESSEL",
             "points": [
-                "Energy shipping analysts report an accelerating volume of crude oil cargo transfers occurring outside the strategic Strait of Hormuz via dark transit operations.",
-                "Persistent geopolitical tensions and security apprehensions have compelled tanker operators to adopt covert tracking methods to maintain global petroleum supply flows.",
-                "Refiners and commodity traders are adjusting feedstock procurement schedules to account for extended maritime transit times and fluctuating spot freight rates.",
-                "Global supply chain planners expect continued fuel price volatility and logistical friction across international energy distribution networks through the coming year."
+                "United States naval forces disabled a small containership attempting to navigate near the Iranian maritime blockade zone in the Gulf of Oman.",
+                "The military intervention underscores escalating operational hazards and heightened naval surveillance across critical Middle Eastern shipping corridors.",
+                "Ocean carriers are re-evaluating risk assessments and war-risk insurance premiums for commercial vessels operating in regional trade lanes.",
+                "Supply chain operators expect persistent transit delays as geopolitical instability continues to disrupt vital maritime energy and container routes."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/oil-cargo-switching-outside-hormuz-indicates-dark-transits",
-                "Published: 2026-08-11T19:30:00Z",
+                "Source: https://splash247.com/us-disables-boxship-while-red-sea-attack-kills-six/",
+                "Published: 2026-08-12T02:00:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TYPHOON DOLPHIN CRIPPLES NINGBO PORT OPERATIONS",
+        "hookTitle": "USTR FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORT OPERATIONS: TYPHOON DOLPHIN CRIPPLES NINGBO",
-                "teaserTitle": "OCEAN FREIGHT: ASIA TO US EAST COAST RATES PEAK",
+                "headline": "TRADE POLICY: USTR FORCED LABOR TARIFFS",
+                "teaserTitle": "CONTAINER IMPORTS: US JULY VOLUMES SURGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Typhoon Dolphin made landfall near Ningbo, stranding two point four million TEUs of containership capacity across eastern China. Port authorities suspended all vessel loading operations and gate movements to safeguard vital terminal infrastructure."
+                "narration_line": "The Trade Representative announced new Section three oh one tariffs targeting sixty nations. Compliance teams must now audit supply chains to prevent port seizures."
             },
             {
                 "slide_index": 2,
-                "headline": "OCEAN FREIGHT: ASIA TO US EAST COAST RATES PEAK",
-                "teaserTitle": "SUPPLY CHAIN: GM INVESTS IN BATTERY INDEPENDENCE",
+                "headline": "CONTAINER IMPORTS: US JULY VOLUMES SURGE",
+                "teaserTitle": "AIR CARGO: EU DE MINIMIS ELIMINATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Spot container freight rates from Asian manufacturing origins to the United States East Coast surged to nine thousand four hundred dollars. Accelerated cargo frontloading and constrained vessel capacity intensified competition for equipment."
+                "narration_line": "United States container imports surged four point five percent in July due to China cargo frontloading. Terminal operators are expanding gate hours to prevent landside congestion."
             },
             {
                 "slide_index": 3,
-                "headline": "SUPPLY CHAIN: GM INVESTS IN BATTERY INDEPENDENCE",
-                "teaserTitle": "FLEET SAFETY: TRUCK INSPECTIONS SIDELINE 1100 DRIVERS",
+                "headline": "AIR CARGO: EU DE MINIMIS ELIMINATION",
+                "teaserTitle": "FLEET SAFETY: FMCSA DRIVER ENGLISH RULE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "General Motors announced a strategic restructuring plan to sell its stake in an Indiana electric vehicle battery facility to Samsung. Procurement executives are establishing direct component supply agreements to maintain uninterrupted material flows."
+                "narration_line": "European air freight rates dropped following the complete removal of the de minimis tax exemption. E-commerce platforms are consolidating parcel shipments to navigate complex custom entry requirements."
             },
             {
                 "slide_index": 4,
-                "headline": "FLEET SAFETY: TRUCK INSPECTIONS SIDELINE 1100 DRIVERS",
-                "teaserTitle": "TRADE POLICY: MSC FINED OVER SAFETY CONCEALMENT",
+                "headline": "FLEET SAFETY: FMCSA DRIVER ENGLISH RULE",
+                "teaserTitle": "E-COMMERCE: AMAZON TITLE CHARACTER CAP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "State and federal transportation safety officers sidelined over one thousand one hundred commercial drivers and vehicles during inspection sweeps. Fleet safety directors are mandating rigorous pre-trip inspection protocols to avoid detentions."
+                "narration_line": "Federal safety officials proposed a new rule enforcing strict English language proficiency for truck drivers. Motor carriers face potential driver disqualifications during upcoming roadside safety inspection sweeps."
             },
             {
                 "slide_index": 5,
-                "headline": "TRADE POLICY: MSC FINED OVER SAFETY CONCEALMENT",
-                "teaserTitle": "SECURITY: HOUTHI ATTACK IN BAB AL-MANDEB",
+                "headline": "E-COMMERCE: AMAZON TITLE CHARACTER CAP",
+                "teaserTitle": "PROCUREMENT: POLYSILICON IMPORT TARIFFS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Maritime regulators slapped a six million dollar financial penalty on MSC Shipmanagement for concealing critical engine-control defects. The vessel operator was placed on four years of formal probation following the investigation."
+                "narration_line": "Amazon is now enforcing a strict seventy-five character limit on all product listing titles. Online merchants are updating automated catalog tools to avoid listing suppression and maintain search rankings."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: HOUTHI ATTACK IN BAB AL-MANDEB",
-                "teaserTitle": "ENERGY LOGISTICS: CRUDE SWITCHING OUTSIDE HORMUZ",
+                "headline": "PROCUREMENT: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "MARITIME SECURITY: US DISABLES GULF VESSEL",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Militant forces launched ballistic missile strikes against a commercial cargo ship in the Bab al-Mandab Strait, causing six fatalities. Global container lines are re-evaluating vessel routing strategies and emergency escort protocols."
+                "narration_line": "The White House announced a new fifteen percent tariff on imported polysilicon starting in December. High-tech manufacturers face rising input costs for domestic solar and semiconductor production."
             },
             {
                 "slide_index": 7,
-                "headline": "ENERGY LOGISTICS: CRUDE SWITCHING OUTSIDE HORMUZ",
+                "headline": "MARITIME SECURITY: US DISABLES GULF VESSEL",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Energy shipping analysts report an accelerating volume of crude oil cargo transfers occurring outside the Strait of Hormuz. Refiners are adjusting feedstock procurement schedules to account for extended maritime transit times."
+                "narration_line": "United States naval forces disabled a container ship navigating near the Iranian blockade in the Gulf of Oman. Ocean carriers are re-evaluating risk profiles and war-risk insurance surcharges across the region."
             },
             {
                 "slide_index": 8,
