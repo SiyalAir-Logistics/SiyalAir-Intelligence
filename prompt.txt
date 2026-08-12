@@ -89,7 +89,8 @@ Compiled strictly after Section E (`template.js` data map) has been fully resolv
 SECTION G: FILMORA VISUAL CAPTION EXPORT SPECIFICATIONS (`filmora.js` / `filmora.txt`)
 --------------------------------------------------------------------------------
 Compiled strictly in parallel with Section F:
-- Ingestion Parameter: Generate an additional, separate structural block named `filmora_captions` containing exact parallel slide layouts matching the slide count and indexing of `video_shorts_module`.
+- Ingestion Parameter: Generate an additional, separate structural block named `filmora_captions` containing exact parallel slide layouts matching the slide count, indexing, headline, and teaserTitle parameters of `video_shorts_module`.
+- Dual-Sentence Visual Structure: Each visual_caption inside filmora_captions MUST consist of exactly TWO distinct sentences, mirroring the exact substance and 2-sentence structure of the corresponding script_slide in video_shorts_module.
 - Broadcast-Ready Aesthetic Optimization: Unlike narration text which is spelled out for the audio engine, the text inside `filmora_captions` must be formatted strictly for visual display screens. All numbers, currency scales, percentages, quarters, dates, and trade identifiers must be rendered into professional, compact broadcast digits and mathematical symbols (e.g., `301`, `$4.2B`, `7.3%`, `Q3`, `100K`) so they are 100% ready for manual copy-pasting directly into Filmora text layers.
 
 --------------------------------------------------------------------------------
@@ -318,34 +319,50 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       "script_slides": [
         {
           "slide_index": 1,
-          "visual_caption": "[Exact copy of slide 1 text optimized with clean broadcast digits, percentages, currencies, dates, and math symbols like 301, $4.2B, 7.3%, Q3 for manual Filmora text overlay editing]"
+          "headline": "[UPPERCASE SLIDE HEADLINE]",
+          "teaserTitle": "[NEXT UP TEASER TITLE]",
+          "visual_caption": "[Exactly 2 professional sentences matching video_shorts_module slide 1, optimized with clean broadcast digits, percentages, currencies, dates, and math symbols like 301, $4.2B, 7.3%, Q3 for manual Filmora text overlay editing]"
         },
         {
           "slide_index": 2,
-          "visual_caption": "[Exact copy of slide 2 text optimized with clean broadcast digits, percentages, currencies, dates, and math symbols like 301, $4.2B, 7.3%, Q3 for manual Filmora text overlay editing]"
+          "headline": "[UPPERCASE SLIDE HEADLINE]",
+          "teaserTitle": "[NEXT UP TEASER TITLE]",
+          "visual_caption": "[Exactly 2 professional sentences matching video_shorts_module slide 2, optimized with clean broadcast digits, percentages, currencies, dates, and math symbols like 301, $4.2B, 7.3%, Q3 for manual Filmora text overlay editing]"
         },
         {
           "slide_index": 3,
-          "visual_caption": "[Exact copy of slide 3 text optimized with clean broadcast digits, percentages, currencies, dates, and math symbols like 301, $4.2B, 7.3%, Q3 for manual Filmora text overlay editing]"
+          "headline": "[UPPERCASE SLIDE HEADLINE]",
+          "teaserTitle": "[NEXT UP TEASER TITLE]",
+          "visual_caption": "[Exactly 2 professional sentences matching video_shorts_module slide 3, optimized with clean broadcast digits, percentages, currencies, dates, and math symbols like 301, $4.2B, 7.3%, Q3 for manual Filmora text overlay editing]"
         },
         {
           "slide_index": 4,
-          "visual_caption": "[Exact copy of slide 4 text optimized with clean broadcast digits, percentages, currencies, dates, and math symbols like 301, $4.2B, 7.3%, Q3 for manual Filmora text overlay editing]"
+          "headline": "[UPPERCASE SLIDE HEADLINE]",
+          "teaserTitle": "[NEXT UP TEASER TITLE]",
+          "visual_caption": "[Exactly 2 professional sentences matching video_shorts_module slide 4, optimized with clean broadcast digits, percentages, currencies, dates, and math symbols like 301, $4.2B, 7.3%, Q3 for manual Filmora text overlay editing]"
         },
         {
           "slide_index": 5,
-          "visual_caption": "[Exact copy of slide 5 text optimized with clean broadcast digits, percentages, currencies, dates, and math symbols like 301, $4.2B, 7.3%, Q3 for manual Filmora text overlay editing]"
+          "headline": "[UPPERCASE SLIDE HEADLINE]",
+          "teaserTitle": "[NEXT UP TEASER TITLE]",
+          "visual_caption": "[Exactly 2 professional sentences matching video_shorts_module slide 5, optimized with clean broadcast digits, percentages, currencies, dates, and math symbols like 301, $4.2B, 7.3%, Q3 for manual Filmora text overlay editing]"
         },
         {
           "slide_index": 6,
-          "visual_caption": "[Exact copy of slide 6 text optimized with clean broadcast digits, percentages, currencies, dates, and math symbols like 301, $4.2B, 7.3%, Q3 for manual Filmora text overlay editing]"
+          "headline": "[UPPERCASE SLIDE HEADLINE]",
+          "teaserTitle": "[NEXT UP TEASER TITLE]",
+          "visual_caption": "[Exactly 2 professional sentences matching video_shorts_module slide 6, optimized with clean broadcast digits, percentages, currencies, dates, and math symbols like 301, $4.2B, 7.3%, Q3 for manual Filmora text overlay editing]"
         },
         {
           "slide_index": 7,
-          "visual_caption": "[Exact copy of slide 7 text optimized with clean broadcast지의, percentages, currencies, dates, and math symbols like 301, $4.2B, 7.3%, Q3 for manual Filmora text overlay editing]"
+          "headline": "[UPPERCASE SLIDE HEADLINE]",
+          "teaserTitle": "[NEXT UP TEASER TITLE]",
+          "visual_caption": "[Exactly 2 professional sentences matching video_shorts_module slide 7, optimized with clean broadcast digits, percentages, currencies, dates, and math symbols like 301, $4.2B, 7.3%, Q3 for manual Filmora text overlay editing]"
         },
         {
           "slide_index": 8,
+          "headline": "LIVE INTELLIGENCE",
+          "teaserTitle": "",
           "visual_caption": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, Share, and Follow for more."
         }
       ]
