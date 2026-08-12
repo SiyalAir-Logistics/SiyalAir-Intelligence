@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR TARIFF EXPANSION",
+        "hookTitle": "STRIKES DISRUPT MIDDLE EAST SHIPPING",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: USTR TARIFF EXPANSION",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
+                "headline": "MARITIME: STRIKES DISRUPT MIDDLE EAST SHIPPING",
+                "teaserTitle": "ENERGY: HORMUZ OIL DISRUPTIONS EXTEND 2027",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Office of the United States Trade Representative is implementing tariffs on sixty trading partners under Section three oh one. This regulatory shift replaces expired policies to enforce strict forced labor compliance across global supply networks."
+                "narration_line": "Middle East strikes killed six seafarers in the Red Sea while US forces disabled a vessel in the Gulf of Oman. Ocean carriers are re-routing ships, raising freight insurance rates by twenty-five percent."
             },
             {
                 "slide_index": 2,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
-                "teaserTitle": "MARITIME: TYPHOON DOLPHIN TRAPS 2.4M TEU",
+                "headline": "ENERGY: HORMUZ OIL DISRUPTIONS EXTEND 2027",
+                "teaserTitle": "AUTOMOTIVE: GM SECURES 4.5B PARTS DEAL",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Industrial real estate vacancy fell seven basis points to seven point three percent in the second quarter. Strong absorption rates are outpacing new warehouse construction and driving tight storage capacity across major freight hubs."
+                "narration_line": "Federal analysts project global oil supply disruptions from ongoing conflicts will persist through the end of twenty twenty-seven. Brent crude approached ninety dollars a barrel as tanker transits through Hormuz dropped thirty percent."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: TYPHOON DOLPHIN TRAPS 2.4M TEU",
-                "teaserTitle": "AUTOMOTIVE: MEXICAN TRUCK OUTPUT SOARS 51.8%",
+                "headline": "AUTOMOTIVE: GM SECURES 4.5B PARTS DEAL",
+                "teaserTitle": "TRUCKING: FMCSA ENFORCES DRIVER ENGLISH RULES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Typhoon Dolphin has stranded over two point four million T E Us of containership capacity near Ningbo and Zhoushan ports. The resulting maritime backlog is delaying vessel schedules and straining transpacific ocean freight networks."
+                "narration_line": "General Motors secured a four point five billion dollar parts agreement to insulate assembly lines from global trade shocks. Simultaneously, the automaker is exiting its EV battery joint venture with Samsung."
             },
             {
                 "slide_index": 4,
-                "headline": "AUTOMOTIVE: MEXICAN TRUCK OUTPUT SOARS 51.8%",
-                "teaserTitle": "INTERMODAL: PORT OF VIRGINIA ADDS CSX INDY RAIL",
+                "headline": "TRUCKING: FMCSA ENFORCES DRIVER ENGLISH RULES",
+                "teaserTitle": "INFRASTRUCTURE: DRONE ATTACKS THREATEN LIBYA OIL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Mexican heavy-duty truck production soared fifty-one point eight percent year-over-year in July to over fourteen thousand units. Rising vehicle assembly supports expanding cross-border motor freight volume into North American distribution networks."
+                "narration_line": "The Federal Motor Carrier Safety Administration is enforcing mandatory English rules after sidelining twenty-six thousand commercial truck drivers. Motor carriers now face heightened audit scrutiny during roadside freight inspections."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL: PORT OF VIRGINIA ADDS CSX INDY RAIL",
-                "teaserTitle": "SEMICONDUCTORS: POLYSILICON IMPORTS HIT WITH 15% TARIFF",
+                "headline": "INFRASTRUCTURE: DRONE ATTACKS THREATEN LIBYA OIL",
+                "teaserTitle": "E-COMMERCE: ETSY CUTS WORKFORCE BY 12%",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Port of Virginia has launched direct C S X rail service to Indianapolis to route cargo around congested Chicago interchange hubs. Direct intermodal rail links reduce transit times and lower shipping costs for Midwest manufacturing centers."
+                "narration_line": "Escalating drone attacks on Libya's Zawiya oil hub threaten crucial Mediterranean energy exports. The National Oil Corporation warned of force majeure declarations that could disrupt three hundred thousand barrels per day."
             },
             {
                 "slide_index": 6,
-                "headline": "SEMICONDUCTORS: POLYSILICON IMPORTS HIT WITH 15% TARIFF",
-                "teaserTitle": "E-COMMERCE: AMAZON ENFORCES 75-CHAR TITLE LIMIT",
+                "headline": "E-COMMERCE: ETSY CUTS WORKFORCE BY 12%",
+                "teaserTitle": "SEMICONDUCTORS: AI BOOM CAUSES MEMORY CRUNCH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A new fifteen percent tariff and price floor on imported polysilicon will take effect in December under executive trade mandates. The policy aims to protect domestic chip manufacturing and secure renewable energy equipment supply chains."
+                "narration_line": "Etsy is cutting twelve percent of its workforce, laying off two hundred twenty employees despite receiving one point four billion dollars from selling Depop. The company is restructuring overhead to focus on artificial intelligence."
             },
             {
                 "slide_index": 7,
-                "headline": "E-COMMERCE: AMAZON ENFORCES 75-CHAR TITLE LIMIT",
+                "headline": "SEMICONDUCTORS: AI BOOM CAUSES MEMORY CRUNCH",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon has instituted a strict seventy-five character limit on product titles across all seller and first-party catalog listings. Non-compliant merchant listings face reduced search visibility to standardize catalog presentation on mobile platforms."
+                "narration_line": "Data center expansion for artificial intelligence has created severe shortages and a thirty-five percent price surge for advanced memory chips. Consumer hardware manufacturers now face extended component lead times of twenty-four weeks."
             },
             {
                 "slide_index": 8,

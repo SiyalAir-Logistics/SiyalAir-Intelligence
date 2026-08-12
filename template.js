@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR TARIFF",
-        "titleBlue": "EXPANSION",
-        "footerSummary": "USTR enforces Section 301 tariffs on 60 trading partners while 2.4M TEU stalls in Asia, accelerating cross-border compliance risks."
+        "titleWhite": "STRIKES DISRUPT MIDDLE EAST",
+        "titleBlue": "SHIPPING",
+        "footerSummary": "Middle East strikes kill 6 seafarers while oil disruptions extend to 2027, forcing ocean carriers to adapt to severe geopolitical friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: USTR TARIFF EXPANSION",
+            "heading": "MARITIME: STRIKES DISRUPT MIDDLE EAST SHIPPING",
             "points": [
-                "The Office of the United States Trade Representative is advancing Section 301 tariffs across 60 trading partner nations.",
-                "The new import framework targets forced labor compliance as temporary Section 122 duties reach expiration.",
-                "Global supply chains face renewed transactional friction and administrative oversight at major port clearance entries.",
-                "Importers must audit cross-border vendor documentation immediately to mitigate exposure to penalty tariffs."
+                "Commercial vessel security reached critical friction in Middle Eastern corridors following dual kinetic maritime incidents on August 11, 2026.",
+                "A Houthi missile attack in the Bab el-Mandeb Strait killed 6 crew members, while US naval forces disabled an uncooperative vessel in the Gulf of Oman.",
+                "Ocean carriers are rerouting container volume away from high-risk choke points, raising insurance premiums by up to 25%.",
+                "Logistics operators must prepare for extended ocean transit delays and rising emergency risk surcharges across East-West trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
+            "nextUpTease": "ENERGY: HORMUZ OIL DISRUPTIONS EXTEND 2027",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
-                "Published: 2026-08-11T12:00:00Z",
+                "Source: https://splash247.com/us-disables-boxship-while-red-sea-attack-kills-six/",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
+            "heading": "ENERGY: HORMUZ OIL DISRUPTIONS EXTEND 2027",
             "points": [
-                "Industrial real estate vacancy rates declined 7 bps sequentially to 7.3% in Q2 2026, according to Colliers.",
-                "Net warehouse demand has outpaced new construction supply, stabilizing industrial real estate availability.",
-                "E-commerce fulfillment centers and logistics operators are securing key distribution facilities ahead of peak season.",
-                "Shippers should anticipate tightening warehouse capacity and firming rental rates across primary logistics hubs."
+                "Federal energy analysts project global oil supply disruptions from ongoing regional conflict will persist through the end of 2027.",
+                "Brent crude benchmarks approached $90 per barrel as tanker transits through the Strait of Hormuz drop by over 30%.",
+                "Extended energy volatility is compounding bunker fuel surcharges and increasing operating costs across international freight networks.",
+                "Shippers should recalculate fuel floating rate mechanisms across long-term ocean and air carrier service contracts."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: TYPHOON DOLPHIN TRAPS 2.4M TEU",
+            "nextUpTease": "AUTOMOTIVE: GM SECURES 4.5B PARTS DEAL",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance",
-                "Published: 2026-08-11T14:30:00Z",
+                "Source: https://www.ttnews.com/articles/us-expects-oil-supply-disruptions",
+                "Published: 2026-08-11T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: TYPHOON DOLPHIN TRAPS 2.4M TEU",
+            "heading": "AUTOMOTIVE: GM SECURES 4.5B PARTS DEAL",
             "points": [
-                "Typhoon Dolphin made landfall near Ningbo, locking over 2.4M TEU of containership capacity in Asian port anchorages.",
-                "Severe weather disruptions caused extensive flooding and temporary terminal shutdowns across major Chinese shipping nodes.",
-                "Ocean carriers report widening vessel schedule delays and compounding cargo backlogs along transpacific trade corridors.",
-                "Logistics managers are bracing for secondary port congestion and extended container dwell times across West Coast terminals."
+                "General Motors executed a strategic $4.5B component sourcing agreement to safeguard assembly lines against supply chain shocks.",
+                "The long-term procurement pact stabilizes raw material inputs and essential vehicle parts through 2028.",
+                "Simultaneously, GM announced plans to exit its EV battery joint venture with Samsung to reallocate capital toward core assembly efficiency.",
+                "Automotive supply networks are prioritizing localized supply assurance to shield vehicle manufacturing from trade volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE: MEXICAN TRUCK OUTPUT SOARS 51.8%",
+            "nextUpTease": "TRUCKING: FMCSA ENFORCES DRIVER ENGLISH RULES",
             "tags": [
-                "Source: https://theloadstar.com/tropical-storms-bring-congestion-and-cargo-backlogs-at-asian-ports/",
-                "Published: 2026-08-11T15:00:00Z",
+                "Source: https://www.cnbc.com/2026/08/11/gm-4point5B-parts-deal.html",
+                "Published: 2026-08-11T20:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AUTOMOTIVE: MEXICAN TRUCK OUTPUT SOARS 51.8%",
+            "heading": "TRUCKING: FMCSA ENFORCES DRIVER ENGLISH RULES",
             "points": [
-                "Mexican heavy-duty truck production surged 51.8% year-over-year in July, reaching a volume of 14,675 assembled vehicles.",
-                "Commercial vehicle exports from Mexican manufacturing facilities expanded rapidly to fulfill North American fleet demand.",
-                "Cross-border freight infrastructure continues absorbing increased motor carrier equipment supply across Texas border gateways.",
-                "Transportation fleets are acquiring new power units to maintain operational readiness and comply with emissions mandates."
+                "The Federal Motor Carrier Safety Administration is moving to lock in mandatory English language proficiency rules for commercial vehicle drivers.",
+                "Regulatory enforcement follows sweeps that sidelined over 26,000 truck drivers for compliance deficiencies across major freight corridors.",
+                "Motor carriers face heightened audit scrutiny during roadside inspections, increasing the risk of immediate driver out-of-service orders.",
+                "Fleet managers must verify driver documentation and language compliance to avoid driver shortages and shipment delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: PORT OF VIRGINIA ADDS CSX INDY RAIL",
+            "nextUpTease": "INFRASTRUCTURE: DRONE ATTACKS THREATEN LIBYA OIL",
             "tags": [
-                "Source: https://www.ttnews.com/articles/mexican-truck-production-july-2026",
-                "Published: 2026-08-11T16:00:00Z",
+                "Source: https://www.freightwaves.com/news/fmcsa-seeks-to-lock-in-english-rules",
+                "Published: 2026-08-11T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INTERMODAL: PORT OF VIRGINIA ADDS CSX INDY RAIL",
+            "heading": "INFRASTRUCTURE: DRONE ATTACKS THREATEN LIBYA OIL",
             "points": [
-                "The Port of Virginia expanded its intermodal reach by introducing a direct CSX rail service connection to Indianapolis.",
-                "The rail corridor allows ocean containers to bypass traditional Chicago interchange bottlenecks, streamlining Midwest freight movement.",
-                "Bypassing urban rail congestion reduces transit dwell times for inland importers and regional retail distribution networks.",
-                "Shippers are shifting containerized import volume toward direct East Coast rail ramps to optimize door-to-door transit reliability."
+                "An escalating drone strike campaign against Libya's Zawiya oil complex threatens crucial energy exports across Mediterranean trade lanes.",
+                "Libya's National Oil Corporation warned of impending force majeure declarations if terminal infrastructure attacks continue.",
+                "Disruptions at Zawiya risk curtailing regional crude supply by over 300K barrels per day, squeezing European refinery operations.",
+                "Energy traders and maritime transportation providers are preparing for shifting tanker sourcing schedules across North African ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "SEMICONDUCTORS: POLYSILICON IMPORTS HIT WITH 15% TARIFF",
+            "nextUpTease": "E-COMMERCE: ETSY CUTS WORKFORCE BY 12%",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/port-of-virginia-csx-rail-indianapolis/723456/",
-                "Published: 2026-08-11T11:00:00Z",
+                "Source: https://splash247.com/drone-strikes-put-libyas-zawiya-oil-hub-at-risk/",
+                "Published: 2026-08-12T01:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SEMICONDUCTORS: POLYSILICON IMPORTS HIT WITH 15% TARIFF",
+            "heading": "E-COMMERCE: ETSY CUTS WORKFORCE BY 12%",
             "points": [
-                "The White House issued an executive mandate placing a 15% tariff and price floor on imported polysilicon materials.",
-                "The trade levy takes effect Dec 4, targeting solar panel components and advanced semiconductor raw material inputs.",
-                "Technology supply chains face immediate procurement cost increases across foreign material sourcing channels.",
-                "Manufacturers are reviewing supplier contracts and expanding domestic sourcing to shield hardware production from tariffs."
+                "E-commerce marketplace Etsy announced workforce reductions of 12%, affecting approximately 220 corporate employees.",
+                "The restructuring follows a $1.4B cash infusion received from the sale of its Depop apparel platform to eBay.",
+                "Management is streamlining operational overhead to refocus core platform investments into search optimization and AI integration.",
+                "Digital marketplace platforms are aggressively trimming operating expenses to preserve cash margins in a cooling consumer market."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: AMAZON ENFORCES 75-CHAR TITLE LIMIT",
+            "nextUpTease": "SEMICONDUCTORS: AI BOOM CAUSES MEMORY CRUNCH",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-tariffs-polysilicon-imports-solar-chips/723789/",
-                "Published: 2026-08-11T13:15:00Z",
+                "Source: https://www.retaildive.com/news/etsy-slashes-workforce-layoffs/723900/",
+                "Published: 2026-08-12T02:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "E-COMMERCE: AMAZON ENFORCES 75-CHAR TITLE LIMIT",
+            "heading": "SEMICONDUCTORS: AI BOOM CAUSES MEMORY CRUNCH",
             "points": [
-                "Amazon enforced a strict product title cap of 75 characters across all marketplace sellers and first-party brand listings.",
-                "The catalog policy overhaul requires immediate title truncation to preserve search index visibility on mobile platforms.",
-                "E-commerce merchants are modifying automated listing software to strip excess keyword density and meet formatting rules.",
-                "Digital brand operators must audit catalog entries across all product categories to prevent search suppression."
+                "Exponential growth in AI data center construction has triggered severe supply constraints across global memory chip supply chains.",
+                "Soaring demand for advanced memory hardware has pushed wholesale component prices up 35% year-over-year.",
+                "Consumer electronics manufacturers are competing directly with data centers for limited semiconductor production capacity.",
+                "Hardware procurement teams must extend component lead times to 24 weeks to secure critical memory allocations."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ecommercebytes.com/2026/08/07/amazons-new-product-title-policy/",
-                "Published: 2026-08-11T10:00:00Z",
+                "Source: https://www.supplychainbrain.com/articles/ai-boom-leaves-consumer-tech-fighting-for-memory-capacity",
+                "Published: 2026-08-11T19:00:00Z",
                 "Status: Audited & True"
             ]
         }
