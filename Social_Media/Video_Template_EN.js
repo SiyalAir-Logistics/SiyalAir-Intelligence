@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "RED SEA ATTACK KILLS SIX",
+        "hookTitle": "USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: RED SEA ATTACK KILLS SIX",
-                "teaserTitle": "REGULATION: US EXTENDS JONES ACT WAIVER",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "PORT: TYPHOON DOLPHIN CONGESTION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Commercial shipping encountered severe casualties in the Bab el Mandeb Strait after a missile strike killed six crew members. Simultaneous military interventions in the region forced carriers to reroute around Africa, driving freight rates up by fifteen percent."
+                "narration_line": "The United States Trade Representative is implementing Section three oh one tariffs across sixty nations to penalize forced labor. Affected trading partners are urgently restructuring compliance frameworks to mitigate border friction."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: US EXTENDS JONES ACT WAIVER",
-                "teaserTitle": "INLAND: RHINE BARGE SURCHARGES SKYROCKET",
+                "headline": "PORT: TYPHOON DOLPHIN CONGESTION",
+                "teaserTitle": "EQUIPMENT: MEXICAN TRUCK PRODUCTION SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The United States extended its Jones Act compliance waiver for ninety additional days to maintain domestic energy supply chain movement. Officials project the coastal shipping exemption will stabilize East Coast refined fuel delivery costs within three cents per gallon."
+                "narration_line": "Typhoon Dolphin has struck near Ningbo as the strongest storm of the year, paralyzing terminal gate operations. Ocean carriers are bracing for rolling vessel delays and cargo backlogs heading into peak season."
             },
             {
                 "slide_index": 3,
-                "headline": "INLAND: RHINE BARGE SURCHARGES SKYROCKET",
-                "teaserTitle": "RAIL: PORT OF VIRGINIA EXPANDS CSX",
+                "headline": "EQUIPMENT: MEXICAN TRUCK PRODUCTION SURGE",
+                "teaserTitle": "FINANCE: EBAY GROWS REVENUE AND GMV",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "European inland transport networks face severe strain as Rhine River barge surcharges spiked following rapid water level drops. Reduced vessel draft limits forced operators to cut payload capacities by forty percent, driving regional freight costs up by twenty-five percent."
+                "narration_line": "Mexican heavy-duty truck production and exports soared fifty-one point eight percent year over year in July. Assembly plants delivered fourteen thousand six hundred seventy-five commercial vehicles to support North American corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "RAIL: PORT OF VIRGINIA EXPANDS CSX",
-                "teaserTitle": "FINANCE: RETAILERS MONETIZE TARIFF REFUNDS",
+                "headline": "FINANCE: EBAY GROWS REVENUE AND GMV",
+                "teaserTitle": "AUTOMATION: SECOND QUARTER ROBOT ORDERS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Port of Virginia launched direct express rail service to Indianapolis in partnership with CSX rail network. The new route completely bypasses Chicago freight bottlenecks, cutting container intermodal transit times by forty-eight hours for Midwest importers."
+                "narration_line": "EBay reported a fourteen percent year-over-year increase in both revenue and Gross Merchandise Volume for the second quarter. The marketplace growth coincides with its one point four billion dollar acquisition of Depop."
             },
             {
                 "slide_index": 5,
-                "headline": "FINANCE: RETAILERS MONETIZE TARIFF REFUNDS",
-                "teaserTitle": "ENERGY: DREDGING FSRU ENERGOS WINTER REFLOATED",
+                "headline": "AUTOMATION: SECOND QUARTER ROBOT ORDERS",
+                "teaserTitle": "FUEL: NATIONAL DIESEL AVERAGE FALLS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Major retail corporations are selling their legal rights to prospective customs tariff refunds on secondary financial markets for rapid capital. Analysts estimate total secondary trading volume for disputed import duties will surpass five hundred million dollars during the third quarter."
+                "narration_line": "Industrial automation demand expanded in the second quarter as warehouse operators scaled up physical robotics deployments. Facilities are integrating multi-agent software to optimize storage workflows."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: DREDGING FSRU ENERGOS WINTER REFLOATED",
-                "teaserTitle": "COMMODITIES: OIL SHIFT OUTSIDE HORMUZ STRAIT",
+                "headline": "FUEL: NATIONAL DIESEL AVERAGE FALLS",
+                "teaserTitle": "AIR: AIR CARGO RATES SLUMP AFTER EU REFORM",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Maritime salvage crews successfully refloated the damaged floating storage unit Energos Winter following a targeted drone attack off Egypt. Technical teams safely contained vessel fires and towed the gas infrastructure asset to anchorage without disrupting active Mediterranean shipping lanes."
+                "narration_line": "The national average retail diesel price fell nine point one cents to five dollars and twenty-six cents per gallon. This price correction breaks a five-week consecutive streak of fuel cost increases."
             },
             {
                 "slide_index": 7,
-                "headline": "COMMODITIES: OIL SHIFT OUTSIDE HORMUZ STRAIT",
+                "headline": "AIR: AIR CARGO RATES SLUMP AFTER EU REFORM",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Oil tankers initiated covert ship to ship transfers outside the Strait of Hormuz as regional conflict escalated near critical energy corridors. Crude benchmarks surged five percent to nearly eighty-eight dollars per barrel, pushing global ocean fuel supply risks into late twenty twenty-seven."
+                "narration_line": "Global air cargo spot rates and volume slumped following the recent elimination of European duty-free tax rules. Forwarders are rapidly altering consolidation strategies to maintain compliance."
             },
             {
                 "slide_index": 8,
