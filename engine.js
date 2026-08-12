@@ -185,10 +185,10 @@ async function switchSlide(id, element) {
         return `${words.join(' ')} <span class="last-word-blue">${last}</span>`;
     };
 
-    // Automated smart metric highlighter for sub-slide bullet paragraphs using theme accent color
+    // Automated smart metric highlighter capturing both leading (tier-1) and trailing (24-hour) hyphenated terms
     const highlightMetrics = (text) => {
         if (!text) return "";
-        const metricRegex = /(\$[0-9]+(\.[0-9]+)?[BBMK]?|\bQ[1-4]\s+[0-9]{4}\b|[0-9]+(\.[0-9]+)?%|\b\d+(?:\.\d+)?\b)/g;
+        const metricRegex = /(\$[0-9]+(\.[0-9]+)?[BBMK]?|\b[a-zA-Z]+-[0-9]+\b|\b[0-9]+-[a-zA-Z]+\b|\bQ[1-4]\s+[0-9]{4}\b|[0-9]+(\.[0-9]+)?%|\b\d+(?:\.\d+)?\b)/g;
         return text.replace(metricRegex, `<span class="blue-text" style="font-weight: 700;">$&</span>`);
     };
 
