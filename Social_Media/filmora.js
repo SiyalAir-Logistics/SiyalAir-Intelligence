@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ASIA-US EAST COAST BOX RATE HITS NEW HIGH OF $9,400",
-                "teaserTitle": "TRADE POLICY: US IMPORTS RISE 4.5% IN JULY",
-                "visual_caption": "Transpacific container spot rates surged to a new benchmark of $9,400 per FEU for Asia to US East Coast routing. Strong cargo volume demand and ongoing vessel routing inefficiencies continue to strain ocean carrier capacity loops."
+                "headline": "TRADE POLICY: USTR TARIFF EXPANSION",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
+                "visual_caption": "The Office of the United States Trade Representative is implementing tariffs on 60 trading partners under Section 301. This regulatory shift replaces expired policies to enforce strict forced labor compliance across global supply networks."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: US IMPORTS RISE 4.5% IN JULY",
-                "teaserTitle": "PARCEL FREIGHT: UPS TEAMSTERS 2028 SHOWDOWN",
-                "visual_caption": "US containerized imports rose 4.5% in July according to Descartes data, driven by steady consumer demand for imported goods. Cargo originating from China reached substantial volumes as retailers continued frontloading merchandise ahead of tariff deadlines."
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY DROPS TO 7.3%",
+                "teaserTitle": "MARITIME: TYPHOON DOLPHIN TRAPS 2.4M TEU",
+                "visual_caption": "Industrial real estate vacancy fell 7 bps to 7.3% in Q2 2026. Strong absorption rates are outpacing new warehouse construction and driving tight storage capacity across major freight hubs."
             },
             {
                 "slide_index": 3,
-                "headline": "PARCEL FREIGHT: UPS TEAMSTERS 2028 SHOWDOWN",
-                "teaserTitle": "REGULATION: TRUMP EXTENDS JONES ACT WAIVER",
-                "visual_caption": "Industry analysts warn that an impending UPS-Teamsters 2028 showdown will unleash a parcel industry tsunami. Carriers and shippers are already analyzing contingency frameworks to protect domestic parcel delivery networks from disruption."
+                "headline": "MARITIME: TYPHOON DOLPHIN TRAPS 2.4M TEU",
+                "teaserTitle": "AUTOMOTIVE: MEXICAN TRUCK OUTPUT SOARS 51.8%",
+                "visual_caption": "Typhoon Dolphin has stranded over 2.4M TEUs of containership capacity near Ningbo and Zhoushan ports. The resulting maritime backlog is delaying vessel schedules and straining transpacific ocean freight networks."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: TRUMP EXTENDS JONES ACT WAIVER",
-                "teaserTitle": "ENERGY: OIL DISRUPTIONS ESTIMATED THROUGH 2027",
-                "visual_caption": "The White House extended the Jones Act waiver for 90 days, maintaining modified cabotage rules for domestic shipping. Analysts report the direct effect on fuel transport is pennies per gallon for regional operations."
+                "headline": "AUTOMOTIVE: MEXICAN TRUCK OUTPUT SOARS 51.8%",
+                "teaserTitle": "INTERMODAL: PORT OF VIRGINIA ADDS CSX INDY RAIL",
+                "visual_caption": "Mexican heavy-duty truck production soared 51.8% year-over-year in July to 14,675 units. Rising vehicle assembly supports expanding cross-border motor freight volume into North American distribution networks."
             },
             {
                 "slide_index": 5,
-                "headline": "ENERGY: OIL DISRUPTIONS ESTIMATED THROUGH 2027",
-                "teaserTitle": "AUTOMOTIVE: GM REACHES $4.5B PARTS DEAL",
-                "visual_caption": "Energy logistics experts project that Iran war oil supply disruptions will last through 2027. Global freight operators face persistent upward pressure on bunker fuel prices as regional transit lanes remain restricted."
+                "headline": "INTERMODAL: PORT OF VIRGINIA ADDS CSX INDY RAIL",
+                "teaserTitle": "SEMICONDUCTORS: POLYSILICON IMPORTS HIT WITH 15% TARIFF",
+                "visual_caption": "The Port of Virginia has launched direct CSX rail service to Indianapolis to route cargo around congested Chicago interchange hubs. Direct intermodal rail links reduce transit times and lower shipping costs for Midwest manufacturing centers."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOMOTIVE: GM REACHES $4.5B PARTS DEAL",
-                "teaserTitle": "TECHNOLOGY: ALVYS OPENS FREIGHT AI AGENTS",
-                "visual_caption": "GM reached up to a $4.5B parts deal designed to avoid supply chain troubles and secure manufacturing continuity. The strategic sourcing arrangement is engineered to prevent component shortages and mitigate automotive bottlenecks."
+                "headline": "SEMICONDUCTORS: POLYSILICON IMPORTS HIT WITH 15% TARIFF",
+                "teaserTitle": "E-COMMERCE: AMAZON ENFORCES 75-CHAR TITLE LIMIT",
+                "visual_caption": "A new 15% tariff and price floor on imported polysilicon will take effect in Dec 2026 under executive trade mandates. The policy aims to protect domestic chip manufacturing and secure renewable energy equipment supply chains."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: ALVYS OPENS FREIGHT AI AGENTS",
+                "headline": "E-COMMERCE: AMAZON ENFORCES 75-CHAR TITLE LIMIT",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Alvys opened its freight AI agents to fleets of all sizes to enhance operational throughput. The automation platform is engineered to streamline dispatching, load matching, and administrative documentation workflows."
+                "visual_caption": "Amazon has instituted a strict 75-character limit on product titles across all seller and 1st-party catalog listings. Non-compliant merchant listings face reduced search visibility to standardize catalog presentation on mobile platforms."
             },
             {
                 "slide_index": 8,
