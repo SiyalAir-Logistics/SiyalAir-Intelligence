@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR SECTION TARIFFS",
-                "teaserTitle": "FMCSA: ENGLISH PROFICIENCY DRIVER MANDATE",
-                "visual_caption": "The U.S. Trade Representative is moving forward with forced labor tariffs on 60 trading partners under Section 301. This regulatory shift occurs as Section 122 tariffs expire, forcing importers to re-verify global supply chains."
+                "headline": "OCEAN FREIGHT: RED SEA HOUTHI ATTACK",
+                "teaserTitle": "CONTAINER RATES: TRANSPACIFIC FREIGHT SURGE",
+                "visual_caption": "A Houthi missile strike in the Bab al-Mandab Strait killed 6 crew members in the first fatal commercial shipping attack. The U.S. military subsequently intercepted and disabled a 2nd vessel."
             },
             {
                 "slide_index": 2,
-                "headline": "FMCSA: ENGLISH PROFICIENCY DRIVER MANDATE",
-                "teaserTitle": "WAREHOUSING: AHOLD DELHAIZE CANCELS HUBS",
-                "visual_caption": "The FMCSA proposed codifying strict English proficiency enforcement standards for commercial drivers nationwide. The rule establishes standardized roadside inspection protocols after recent enforcements sidelined over 26,000 drivers."
+                "headline": "CONTAINER RATES: TRANSPACIFIC FREIGHT SURGE",
+                "teaserTitle": "LEGAL LIABILITY: BROKERAGE NUCLEAR VERDICT",
+                "visual_caption": "Asia to U.S. East Coast container rates surged to a record $9,400 as peak season cargo frontloading accelerated. Shippers are rushing import volumes ahead of anticipated trade policy shifts."
             },
             {
                 "slide_index": 3,
-                "headline": "WAREHOUSING: AHOLD DELHAIZE CANCELS HUBS",
-                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
-                "visual_caption": "Ahold Delhaize and Americold canceled plans for 2 automated frozen warehouses in PA and CT. The grocer closed 1 existing facility while bringing cold chain operations back under direct internal management."
+                "headline": "LEGAL LIABILITY: BROKERAGE NUCLEAR VERDICT",
+                "teaserTitle": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "visual_caption": "Freight broker C.H. Robinson faces a $604M court verdict regarding broker liability and hiring practices. The historic ruling forces freight intermediaries to overhaul carrier vetting protocols immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
-                "teaserTitle": "SHIPBUILDING: WAN HAI ORDERS BILLION FLEET",
-                "visual_caption": "A cyber breach at CEVA Logistics compromised operations across European retail, banking, and gaming supply chains. The incident leaves beneficial cargo owners facing operational delays as cargo theft damages reach $725M."
+                "headline": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
+                "visual_caption": "The U.S. executive branch issued a 15% tariff and import price floor on foreign polysilicon used in microchips and solar panels. Importers must recalibrate high-tech supply chains before mandatory enforcement begins in Dec."
             },
             {
                 "slide_index": 5,
-                "headline": "SHIPBUILDING: WAN HAI ORDERS BILLION FLEET",
-                "teaserTitle": "ECOMMERCE: ETSY CUTS WORKFORCE POST CASH",
-                "visual_caption": "Taiwanese carrier Wan Hai Lines signed a $980M order for 8 new containerships with Shanghai Waigaoqiao Shipbuilding. The deal includes 7 11,000 TEU vessels to expand long-term trade route capacity."
+                "headline": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
+                "teaserTitle": "ENERGY SUPPLY: LIBYAN OIL DRONE ATTACKS",
+                "visual_caption": "The Port of Virginia launched direct CSX rail service into Indianapolis to bypass Midwest rail hubs. The direct corridor removes intermediate drayage legs and accelerates inland container transit across the region."
             },
             {
                 "slide_index": 6,
-                "headline": "ECOMMERCE: ETSY CUTS WORKFORCE POST CASH",
-                "teaserTitle": "CUSTOMS: ECUADOR INTERCEPTS CONTAINER DRUGS",
-                "visual_caption": "Etsy announced plans to lay off 200 employees, marking a 12% workforce reduction across corporate operations. The cuts occurred 6 days after receiving $1.4B from eBay for selling Depop."
+                "headline": "ENERGY SUPPLY: LIBYAN OIL DRONE ATTACKS",
+                "teaserTitle": "ECOMMERCE: AMAZON TITLE CHARACTER LIMIT",
+                "visual_caption": "Escalating drone attacks targeted Libya's main Zawiya energy complex, threatening critical Mediterranean crude oil exports. National energy officials warned force majeure declarations remain imminent if operational security deteriorates further."
             },
             {
                 "slide_index": 7,
-                "headline": "CUSTOMS: ECUADOR INTERCEPTS CONTAINER DRUGS",
+                "headline": "ECOMMERCE: AMAZON TITLE CHARACTER LIMIT",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Ecuadorian authorities seized a major narcotic shipment at the Port of Guayaquil hidden inside an export containership bound for Spain. Law enforcement uncovered contraband impregnated into 1,080 cardboard boxes using risk screening."
+                "visual_caption": "E-commerce giant Amazon mandated a 75-character limit for all product titles across merchant catalog listings. Merchants failing to trim product titles risk immediate search suppression and catalog indexing penalties."
             },
             {
                 "slide_index": 8,

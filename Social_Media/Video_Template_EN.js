@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR SECTION TARIFFS",
+        "hookTitle": "RED SEA HOUTHI ATTACK",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR SECTION TARIFFS",
-                "teaserTitle": "FMCSA: ENGLISH PROFICIENCY DRIVER MANDATE",
+                "headline": "OCEAN FREIGHT: RED SEA HOUTHI ATTACK",
+                "teaserTitle": "CONTAINER RATES: TRANSPACIFIC FREIGHT SURGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is moving forward with forced labor tariffs on sixty trading partners under Section three oh one. This regulatory shift occurs as Section one two two tariffs expire, forcing importers to re-verify global supply chains."
+                "narration_line": "A Houthi missile strike in the Bab al-Mandab Strait killed six crew members in the first fatal commercial shipping attack. The United States military subsequently intercepted and disabled a second vessel."
             },
             {
                 "slide_index": 2,
-                "headline": "FMCSA: ENGLISH PROFICIENCY DRIVER MANDATE",
-                "teaserTitle": "WAREHOUSING: AHOLD DELHAIZE CANCELS HUBS",
+                "headline": "CONTAINER RATES: TRANSPACIFIC FREIGHT SURGE",
+                "teaserTitle": "LEGAL LIABILITY: BROKERAGE NUCLEAR VERDICT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Federal Motor Carrier Safety Administration proposed codifying strict English proficiency enforcement standards for commercial drivers nationwide. The rule establishes standardized roadside inspection protocols after recent enforcements sidelined over twenty-six thousand drivers."
+                "narration_line": "Asia to United States East Coast container rates surged to a record nine thousand four hundred dollars as peak season cargo frontloading accelerated. Shippers are rushing import volumes ahead of anticipated trade policy shifts."
             },
             {
                 "slide_index": 3,
-                "headline": "WAREHOUSING: AHOLD DELHAIZE CANCELS HUBS",
-                "teaserTitle": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
+                "headline": "LEGAL LIABILITY: BROKERAGE NUCLEAR VERDICT",
+                "teaserTitle": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Ahold Delhaize and Americold canceled plans for two automated frozen warehouses in Pennsylvania and Connecticut. The grocer closed one existing facility while bringing cold chain operations back under direct internal management."
+                "narration_line": "Freight broker C H Robinson faces a six hundred four million dollar court verdict regarding broker liability and hiring practices. The historic ruling forces freight intermediaries to overhaul carrier vetting protocols immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
-                "teaserTitle": "SHIPBUILDING: WAN HAI ORDERS BILLION FLEET",
+                "headline": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A cyber breach at CEVA Logistics compromised operations across European retail, banking, and gaming supply chains. The incident leaves beneficial cargo owners facing operational delays as cargo theft damages reach seven hundred twenty-five million dollars."
+                "narration_line": "The United States executive branch issued a fifteen percent tariff and import price floor on foreign polysilicon used in microchips and solar panels. Importers must recalibrate high-tech supply chains before mandatory enforcement begins in December."
             },
             {
                 "slide_index": 5,
-                "headline": "SHIPBUILDING: WAN HAI ORDERS BILLION FLEET",
-                "teaserTitle": "ECOMMERCE: ETSY CUTS WORKFORCE POST CASH",
+                "headline": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
+                "teaserTitle": "ENERGY SUPPLY: LIBYAN OIL DRONE ATTACKS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Taiwanese carrier Wan Hai Lines signed a nine hundred eighty million dollar order for eight new containerships with Shanghai Waigaoqiao Shipbuilding. The deal includes seven eleven-thousand T-E-U vessels to expand long-term trade route capacity."
+                "narration_line": "The Port of Virginia launched direct CSX rail service into Indianapolis to bypass Midwest rail hubs. The direct corridor removes intermediate drayage legs and accelerates inland container transit across the region."
             },
             {
                 "slide_index": 6,
-                "headline": "ECOMMERCE: ETSY CUTS WORKFORCE POST CASH",
-                "teaserTitle": "CUSTOMS: ECUADOR INTERCEPTS CONTAINER DRUGS",
+                "headline": "ENERGY SUPPLY: LIBYAN OIL DRONE ATTACKS",
+                "teaserTitle": "ECOMMERCE: AMAZON TITLE CHARACTER LIMIT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Etsy announced plans to lay off two hundred employees, marking a twelve percent workforce reduction across corporate operations. The cuts occurred six days after receiving one point four billion dollars from eBay for selling Depop."
+                "narration_line": "Escalating drone attacks targeted Libya's main Zawiya energy complex, threatening critical Mediterranean crude oil exports. National energy officials warned force majeure declarations remain imminent if operational security deteriorates further."
             },
             {
                 "slide_index": 7,
-                "headline": "CUSTOMS: ECUADOR INTERCEPTS CONTAINER DRUGS",
+                "headline": "ECOMMERCE: AMAZON TITLE CHARACTER LIMIT",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Ecuadorian authorities seized a major narcotic shipment at the Port of Guayaquil hidden inside an export containership bound for Spain. Law enforcement uncovered contraband impregnated into one thousand eighty cardboard boxes using risk screening."
+                "narration_line": "E-commerce giant Amazon mandated a seventy-five character limit for all product titles across merchant catalog listings. Merchants failing to trim product titles risk immediate search suppression and catalog indexing penalties."
             },
             {
                 "slide_index": 8,

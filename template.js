@@ -1,90 +1,107 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR SECTION",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR enforcement of Section 301 forced labor tariffs on 60 nations threatens immediate duty escalations as Section 122 expires."
+        "titleWhite": "RED SEA HOUTHI",
+        "titleBlue": "ATTACK",
+        "footerSummary": "Fatal Houthi missile strikes and military interventions in Bab al-Mandab trigger severe operational detours and maritime insurance escalations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR SECTION TARIFFS",
+            "heading": "OCEAN FREIGHT: RED SEA HOUTHI ATTACK",
             "points": [
-                "The Office of the U.S. Trade Representative is implementing forced labor tariffs targeting 60 trading nations under Section 301 of the Trade Act.",
-                "The enforcement shift occurs as Section 122 temporary tariffs officially expire across major ocean and air freight import vectors in 2026.",
-                "Importers face heightened customs entry audits and potential cargo holds at U.S. ports of entry for non-compliant global supply chains.",
-                "Trade compliance teams must re-verify tier-1 and tier-2 vendor supply chains to mitigate tariff risk and avoid severe detention delays."
+                "A deadly Houthi ballistic missile strike in the Bab al-Mandab Strait resulted in 6 fatalities aboard a commercial cargo vessel.",
+                "United States naval forces intercepted and disabled a separate small container vessel approaching the Iranian blockade perimeter.",
+                "The escalating kinetic conflict forces ocean carriers to re-evaluate Red Sea transit options and extend Cape of Good Hope rerouting schedules.",
+                "International maritime insurers are recalibrating war risk premiums across all primary Middle Eastern marine trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "FMCSA: ENGLISH PROFICIENCY DRIVER MANDATE",
+            "nextUpTease": "CONTAINER RATES: TRANSPACIFIC FREIGHT SURGE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-11T12:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FMCSA: ENGLISH PROFICIENCY DRIVER MANDATE",
+            "heading": "CONTAINER RATES: TRANSPACIFIC FREIGHT SURGE",
             "points": [
-                "The FMCSA proposed codifying strict English-language proficiency enforcement standards for commercial motor vehicle drivers nationwide.",
-                "The regulatory change establishes standardized field testing protocol during roadside inspections following 26,000 recent driver sidelinings.",
-                "Motor carriers operating across North American freight corridors face heightened operational compliance audits and out-of-service risks.",
-                "Logistics fleet managers must audit driver qualification files immediately to prevent severe capacity reductions across regional fleets."
+                "Asia to U.S. East Coast ocean container spot rates reached a record benchmark of $9,400 per FEU during August peak season trade.",
+                "Early peak season cargo frontloading by North American importers driven by tariff uncertainty continues to strain vessel space.",
+                "Ocean carriers are operating Transpacific services at or near 100% operational capacity through the end of Q3.",
+                "BCOs face elevated mini-bid activity and spot premium surcharges to secure guaranteed equipment allocations."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSING: AHOLD DELHAIZE CANCELS HUBS",
+            "nextUpTease": "LEGAL LIABILITY: BROKERAGE NUCLEAR VERDICT",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-10T14:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-12T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "WAREHOUSING: AHOLD DELHAIZE CANCELS HUBS",
+            "heading": "LEGAL LIABILITY: BROKERAGE NUCLEAR VERDICT",
             "points": [
-                "Ahold Delhaize USA and Americold canceled plans for 2 automated frozen warehouses located in Pennsylvania and Connecticut.",
-                "The grocery giant closed 1 existing facility while halting construction on another to pivot toward direct in-house supply chain control.",
-                "Cold storage capacity shifting back to internal management reflects broader industry recalibrations around expensive automated infrastructure.",
-                "Regional food distributors must adapt to altered fulfillment routing as primary cold chain nodes transition back to manual operations."
+                "Freight broker C.H. Robinson faces a legal landmark following a $604M negligent hiring court judgment in Texas litigation.",
+                "The ruling examines vicarious liability standards for 3PLs when selecting third-party motor carriers with adverse safety records.",
+                "Industry legal experts warn freight intermediaries must immediately upgrade carrier qualification standards and vetting workflows.",
+                "Brokerage risk management budgets are expected to expand as insurance underwriters demand stricter carrier compliance documentation."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
+            "nextUpTease": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-11T15:30:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-11T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CYBERSECURITY: CEVA LOGISTICS DATA BREACH",
+            "heading": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
             "points": [
-                "A major cybersecurity breach at CEVA Logistics compromised IT networks, directly impacting several high-volume beneficial cargo owners.",
-                "The cyber attack disrupted warehouse operations across European retail, banking, and gaming supply chains, leaving cargo status uncertain.",
-                "Third-party logistics providers are scaling up cybersecurity protocols as cargo theft and digital intrusion damages hit $725M industry-wide.",
-                "Shippers utilizing multi-tenant logistics software are urged to audit API integrations and isolate critical supply chain data channels."
+                "The Executive Branch issued a presidential proclamation levying a 15% tariff alongside import price floors on foreign polysilicon.",
+                "The trade restriction specifically targets critical components utilized in domestic semiconductor manufacturing and solar energy technology.",
+                "Regulatory enforcement is scheduled to take effect Dec. 4, prompting tech supply chain managers to shift procurement sources.",
+                "High-tech electronics manufacturers face narrowing margin buffers and increased compliance validation costs at entry ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHIPBUILDING: WAN HAI ORDERS BILLION FLEET",
+            "nextUpTease": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-11T11:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-11T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SHIPBUILDING: WAN HAI ORDERS BILLION FLEET",
+            "heading": "RAIL LOGISTICS: VIRGINIA CSX EXPANSION",
             "points": [
-                "Taiwanese ocean carrier Wan Hai Lines signed a $980M ship construction contract with Shanghai Waigaoqiao Shipbuilding.",
-                "The massive vessel order includes 7 containerships of 11,000 TEU capacity and 1 feeder vessel of 9,200 TEU capacity.",
-                "Carriers continue expanding vessel orderbooks to prepare for long-term fleet renewals and Q4 global trade capacity demands.",
-                "Ocean freight forwarders expect expanded container capacity along primary Transpacific and intra-Asia trade lanes upon delivery."
+                "The Port of Virginia expanded its intermodal footprint by introducing direct CSX rail container service into the Indianapolis market.",
+                "The direct rail connection eliminates traditional Chicago transfer bottlenecks and reduces regional long-haul trucking reliance.",
+                "Midwest importers gain faster container turnaround times and lower total-landed transit costs from East Coast port gateways.",
+                "Logistics planners expect improved fluidity across Mid-Atlantic supply chain corridors as rail capacity absorbs truckload volume."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE: ETSY CUTS WORKFORCE POST CASH",
+            "nextUpTease": "ENERGY SUPPLY: LIBYAN OIL DRONE ATTACKS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-11T11:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "ENERGY SUPPLY: LIBYAN OIL DRONE ATTACKS",
+            "points": [
+                "Targeted drone strikes hit Libya's major Zawiya energy complex, threatening western refinery operations and crude export terminals.",
+                "The National Oil Corporation issued warnings that force majeure declarations will be triggered if military attacks persist.",
+                "Disruptions at Mediterranean energy nodes add immediate upward pressure on international marine gasoil and bunker fuel prices.",
+                "Global freight operators face compounding fuel surcharge adjustments across primary European and transatlantic trade lanes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "ECOMMERCE: AMAZON TITLE CHARACTER LIMIT",
             "tags": [
                 "Source: https://splash247.com",
                 "Published: 2026-08-12T08:00:00Z",
@@ -92,36 +109,19 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "ECOMMERCE: ETSY CUTS WORKFORCE POST CASH",
-            "points": [
-                "Etsy announced plans to lay off 200 employees, executing a 12% workforce reduction across corporate operations.",
-                "The downsizing comes just 6 days after the e-commerce platform received $1.4B in cash from eBay for the sale of Depop.",
-                "Marketplace operators are reallocating capital toward AI search capabilities while streamlining fixed operating overhead.",
-                "Third-party online sellers may experience temporary shifts in platform support responsiveness during organizational restructuring."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CUSTOMS: ECUADOR INTERCEPTS CONTAINER DRUGS",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: 2026-08-06T18:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "CUSTOMS: ECUADOR INTERCEPTS CONTAINER DRUGS",
+            "heading": "ECOMMERCE: AMAZON TITLE CHARACTER LIMIT",
             "points": [
-                "Ecuadorian police intercepted a major drug shipment at the Port of Guayaquil hidden inside an export containership bound for Spain.",
-                "Inspectors discovered narcotics impregnated directly into 1,080 cardboard packaging boxes using advanced risk analysis screening.",
-                "Cocaine smuggling tactics utilizing commercial export packaging emphasize escalating security risks for international container shipping.",
-                "Global port authorities are increasing container scanning mandates and physical cargo inspections at key Latin American gateways."
+                "Amazon initiated strict enforcement of a 75-character ceiling for product titles across third-party seller catalog listings.",
+                "The platform confirmed the updated title formatting rules apply equally to Amazon first-party retail vendor product pages.",
+                "Listings exceeding the 75-character boundary face automated suppression in marketplace search index algorithms.",
+                "E-commerce brand managers must immediately audit product listings to maintain organic search visibility and sales volume."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-11T17:05:00Z",
+                "Source: https://www.ecommercebytes.com",
+                "Published: 2026-08-11T13:00:00Z",
                 "Status: Audited & True"
             ]
         }
