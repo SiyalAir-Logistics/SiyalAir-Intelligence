@@ -191,12 +191,36 @@ async function switchSlide(id, element) {
         const fullTitleStr = `${dailyData.main?.titleWhite || ''} ${dailyData.main?.titleBlue || ''}`.trim();
         const wordsArray = fullTitleStr.split(/\s+/);
 
-        const stackedTitleHTML = wordsArray.map((word, idx) => {
-            if (idx === wordsArray.length - 1) {
-                return `<div class="last-word-blue">${word}</div>`;
+        let stackedTitleHTML = "";
+        if (wordsArray.length > 0) {
+            const whiteWords = wordsArray.slice(0, wordsArray.length - 1);
+            const lastWord = wordsArray[wordsArray.length - 1];
+
+            const lines = [];
+            let currentLine = [];
+            let currentLength = 0;
+            const MAX_CHARS_PER_LINE = 13; // Optimized character threshold to cluster words naturally per line
+
+            whiteWords.forEach(word => {
+                const wordLen = word.length;
+                if (currentLine.length > 0 && (currentLength + 1 + wordLen > MAX_CHARS_PER_LINE)) {
+                    lines.push(currentLine.join(' '));
+                    currentLine = [word];
+                    currentLength = wordLen;
+                } else {
+                    currentLine.push(word);
+                    currentLength += (currentLine.length > 1 ? 1 : 0) + wordLen;
+                }
+            });
+            if (currentLine.length > 0) {
+                lines.push(currentLine.join(' '));
             }
-            return `<div>${word}</div>`;
-        }).join('');
+
+            stackedTitleHTML = lines.map(line => `<div>${line}</div>`).join('');
+            if (lastWord) {
+                stackedTitleHTML += `<div class="last-word-blue">${lastWord}</div>`;
+            }
+        }
 
         const footerText = dailyData.main?.footerSummary || "";
         const nextTease = dailyData.slides?.[0]?.heading || "";
