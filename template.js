@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CALIFORNIA DRIVERLESS TRUCK",
-        "titleBlue": "LAWSUIT",
-        "footerSummary": "Teamsters sue California DMV over autonomous truck permits as Rhine barge surcharges soar and Houthi strikes fatalize Bab al-Mandab maritime transit."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR triggers sweeping Section 301 tariffs on 60 nations while transpacific box rates breach $9,400 amid record import frontloading."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AUTONOMOUS VEHICLES: CALIFORNIA DRIVERLESS TRUCK LAWSUIT",
+            "heading": "TRADE POLICY: FORCED LABOR TARIFFS",
             "points": [
-                "Teamsters California filed a legal petition against the Department of Motor Vehicles to block regulations allowing autonomous heavy-duty truck testing on public highways.",
-                "The legal challenge targets amended state framework parameters governing commercial driverless operations and freight safety standards.",
-                "Labor organizations argue that unmonitored autonomous Class 8 deployments introduce unmitigated public safety hazards and fleet displacement risks.",
-                "Motor carriers evaluating autonomous freight networks face potential regulatory delays across West Coast freight transit corridors."
+                "The Office of the United States Trade Representative announced Section 301 tariffs targeting forced labor across 60 trading partners.",
+                "The action replaces expiring Section 122 duties as federal trade enforcement transitions to permanent statutory compliance mechanisms.",
+                "Importers and global forwarders face updated duty rates across critical supply chains originating from non-compliant manufacturing jurisdictions.",
+                "Enterprise compliance teams must perform immediate origin audits to avoid customs delays and port entry rejections."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND FREIGHT: RHINE WATERWAY BARGE SURCHARGES",
+            "nextUpTease": "CARRIER FLEET: WAN HAI EXPANSION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-11T18:30:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-12T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INLAND FREIGHT: RHINE WATERWAY BARGE SURCHARGES",
+            "heading": "CARRIER FLEET: WAN HAI EXPANSION",
             "points": [
-                "Low water levels across European inland waterways triggered massive surcharge increases for container barge transport operating along the Rhine River.",
-                "Shallow draft restrictions forced vessel operators to reduce cargo load volumes by over 40% to prevent vessel groundings.",
-                "BCOs and European forwarders are rerouting time-sensitive containerized shipments onto overloaded rail and truck networks.",
-                "Logistics planners face compounding spot rate surcharges and extended transit delays across central European supply corridors."
+                "Taiwanese ocean carrier Wan Hai Lines finalized orders for 8 containerships valued at up to $980M with Shanghai Waigaoqiao Shipbuilding.",
+                "The fleet expansion comprises seven 11,000 TEU vessels and one 9,200 TEU unit designed for long-haul trade lanes.",
+                "Consolidation of large vessel orders highlights long-term carrier confidence despite current global geopolitical and route disruptions.",
+                "Shippers expect added nominal capacity along transpacific and Asia-Europe routes as deliveries commence in upcoming operational cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACQUISITIONS: PROFICIENT AUTO BUYS HANSEN ADKINS",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY RATES",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-12T09:15:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-12T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ACQUISITIONS: PROFICIENT AUTO BUYS HANSEN ADKINS",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY RATES",
             "points": [
-                "Proficient Auto Logistics executed a definitive agreement to acquire finished vehicle transport specialist Hansen & Adkins for $130M in cash and stock.",
-                "The transaction expands Proficient's specialized auto haulage fleet capacity with over 1,000 active car-carrying rig units.",
-                "Consolidation in the finished vehicle logistics sector addresses persistent driver shortages and OEM distribution bottlenecks.",
-                "Automotive supply chain managers gain expanded cross-regional carrier coverage across major US assembly facilities and port terminals."
+                "Colliers reported U.S. industrial real estate vacancy fell 7 basis points sequentially to 7.3% in Q2 2026.",
+                "Net warehouse demand outpaced new construction completions, signaling a macro stabilization across prime distribution markets.",
+                "Logistics operators and 3PLs face narrowing availability for Class A fulfillment space near primary inland and coastal ports.",
+                "Tenant corporate real estate teams are re-entering long-term lease commitments before industrial rental rates rebound higher."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME SECURITY: HOUTHI MISSILE STRIKE BAB AL-MANDAB",
+            "nextUpTease": "FREIGHT METRICS: TRUCKING CONDITIONS INDEX",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-12T11:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-12T07:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME SECURITY: HOUTHI MISSILE STRIKE BAB AL-MANDAB",
+            "heading": "FREIGHT METRICS: TRUCKING CONDITIONS INDEX",
             "points": [
-                "Houthi insurgents launched 3 ballistic anti-ship missiles striking a commercial cargo vessel transiting the Bab al-Mandab Strait, killing 6 seafarers.",
-                "The fatal incident marks a severe escalation in maritime risk factors along the critical Red Sea and Gulf of Aden trade corridor.",
-                "Ocean carriers are suspending remaining Red Sea transits and extending vessel re-routing protocols around the Cape of Good Hope.",
-                "Global shippers face renewed spot freight rate pressure and 14-day transit extensions for Asia-Europe ocean cargo traffic."
+                "The FTR Trucking Conditions Index surged to a reading of 17.4 for June, reflecting strong operational momentum.",
+                "Improving freight volume and firming spot rates contributed to enhanced operating margins across major motor carrier fleets.",
+                "Sustained index growth indicates the long-standing freight recession has transitioned into a structural capacity recovery phase.",
+                "Shippers face contracting truckload capacity and rising contract rates during upcoming Q3 and Q4 routing guide negotiations."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS COMPLIANCE: CBP TARIFF REFUND DISBURSEMENTS",
+            "nextUpTease": "OCEAN FREIGHT: TRANSPACIFIC SPOT RATES",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-12T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CUSTOMS COMPLIANCE: CBP TARIFF REFUND DISBURSEMENTS",
+            "heading": "OCEAN FREIGHT: TRANSPACIFIC SPOT RATES",
             "points": [
-                "U.S. Customs and Border Protection processed over $100B in total tariff refunds connected to historical International Emergency Economic Powers Act actions.",
-                "The agency continues implementing manual processing workflows for liquidated entries while federal appellate court decisions remain pending.",
-                "Importers and trade attorneys are accelerating refund tracking mechanisms to secure capital reimbursements from historical duty payments.",
-                "Corporate trade compliance teams must maintain detailed entry records to support ongoing customs liquidation audits."
+                "Container spot rates from Asia to the U.S. East Coast hit a record high of $9,400 per FEU amid peak season surges.",
+                "Importers accelerating seasonal inventory arrivals ahead of tariff deadlines are overwhelming major West and East Coast ocean terminals.",
+                "Ocean carriers are implementing peak season surcharges and premium booking guarantees to manage constrained vessel space.",
+                "BCOs must prepare for elevated landed freight costs and extended equipment dwell times through the remainder of Q3."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER FLEET: SAMUDERA IMOTO JAPAN FEEDER ORDER",
+            "nextUpTease": "PROCUREMENT: POLYSILICON IMPORT DUTIES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-11T14:20:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-12T06:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CARRIER FLEET: SAMUDERA IMOTO JAPAN FEEDER ORDER",
+            "heading": "PROCUREMENT: POLYSILICON IMPORT DUTIES",
             "points": [
-                "Samudera Shipping Line and Imoto Corporation ordered a 696 TEU feeder vessel from Zhejiang Xinle Shipbuilding for Japanese coastal operations.",
-                "The joint venture deployment marks the partnership's first dedicated newbuilding order targeting Japanese regional trade lanes.",
-                "Enhanced coastal feeder capacity supports domestic container relay networks connecting primary Japanese hubs with secondary ports.",
-                "Regional feeder operators anticipate strengthened schedule reliability and lower unit transport costs for intra-Japan ocean cargo."
+                "A presidential proclamation established a 15% tariff and floor price on imported polysilicon products taking effect Dec 4.",
+                "The trade measure targets foreign raw materials utilized in semiconductor manufacturing and utility-scale solar infrastructure.",
+                "Domestic original equipment manufacturers face immediate procurement cost escalation and raw material sourcing adjustments.",
+                "Supply chain planners are diversifying silicon wafer procurement toward domestic and allied regional manufacturing suppliers."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY LOGISTICS: LIBYA ZAWIYA DRONE ATTACKS",
+            "nextUpTease": "REGULATORY: FMC DETENTION FEE RULING",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-12T10:30:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-12T05:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ENERGY LOGISTICS: LIBYA ZAWIYA DRONE ATTACKS",
+            "heading": "REGULATORY: FMC DETENTION FEE RULING",
             "points": [
-                "A series of targeted drone strikes hit Libya's Zawiya oil complex, threatening critical refinery infrastructure and crude export operations.",
-                "Libya's National Oil Corporation issued warnings of potential force majeure declarations if military targeting near energy assets continues.",
-                "The security threat disrupts Mediterranean crude vessel loadings and elevates supply uncertainty for European energy importers.",
-                "Tanker operators are increasing risk premiums and evaluating alternate North African crude loading terminals to avoid port closures."
+                "The D.C. Circuit Court of Appeals upheld an FMC ruling requiring container detention fees to serve freight fluidity.",
+                "The judicial decision restricts ocean carriers from assessing penalty fees when port congestion prevents container return.",
+                "Importers and truckers gain strengthened legal recourse to dispute arbitrary demurrage and detention invoices from ocean lines.",
+                "Ocean common carriers must audit billing practices to ensure strict adherence with federal regulatory standards."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-12T07:45:00Z",
+                "Source: https://www.fmc.gov",
+                "Published: 2026-08-12T04:00:00Z",
                 "Status: Audited & True"
             ]
         }

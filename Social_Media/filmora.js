@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AUTONOMOUS VEHICLES: CALIFORNIA DRIVERLESS TRUCK LAWSUIT",
-                "teaserTitle": "INLAND FREIGHT: RHINE WATERWAY BARGE SURCHARGES",
-                "visual_caption": "Teamsters California filed a lawsuit against the state DMV to block testing permits for autonomous Class 8 trucks. The legal challenge could delay driverless fleet deployments across key West Coast freight corridors."
+                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "teaserTitle": "CARRIER FLEET: WAN HAI EXPANSION",
+                "visual_caption": "The Office of the US Trade Representative is implementing Section 301 tariffs on 60 trading partners. This trade action replaces expiring Section 122 provisions targeting forced labor."
             },
             {
                 "slide_index": 2,
-                "headline": "INLAND FREIGHT: RHINE WATERWAY BARGE SURCHARGES",
-                "teaserTitle": "ACQUISITIONS: PROFICIENT AUTO BUYS HANSEN ADKINS",
-                "visual_caption": "Low water levels along the Rhine River triggered severe surcharge hikes for European barge shipments as draft limits cut capacity by >40%. Shippers are forced onto overloaded rail and trucking networks."
+                "headline": "CARRIER FLEET: WAN HAI EXPANSION",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY RATES",
+                "visual_caption": "Taiwanese ocean carrier Wan Hai Lines contracted 8 new containerships worth up to $980M. The order includes 7 11,000 TEU vessels from Shanghai Waigaoqiao Shipbuilding."
             },
             {
                 "slide_index": 3,
-                "headline": "ACQUISITIONS: PROFICIENT AUTO BUYS HANSEN ADKINS",
-                "teaserTitle": "MARITIME SECURITY: HOUTHI MISSILE STRIKE BAB AL-MANDAB",
-                "visual_caption": "Proficient Auto Logistics agreed to buy finished vehicle transporter Hansen & Adkins for $130M in cash and stock. The acquisition adds >1,000 specialized car haulers to its transport network."
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY RATES",
+                "teaserTitle": "FREIGHT METRICS: TRUCKING CONDITIONS INDEX",
+                "visual_caption": "US industrial real estate vacancy fell 7 basis points sequentially to 7.3% in Q2. Colliers reports industrial logistics space demand is officially outpacing new building supply."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME SECURITY: HOUTHI MISSILE STRIKE BAB AL-MANDAB",
-                "teaserTitle": "CUSTOMS COMPLIANCE: CBP TARIFF REFUND DISBURSEMENTS",
-                "visual_caption": "Houthi insurgents struck a commercial cargo ship with 3 ballistic missiles in the Bab al-Mandab Strait, killing 6 seafarers. Ocean carriers are extending 14-day vessel detours around the Cape of Good Hope."
+                "headline": "FREIGHT METRICS: TRUCKING CONDITIONS INDEX",
+                "teaserTitle": "OCEAN FREIGHT: TRANSPACIFIC SPOT RATES",
+                "visual_caption": "The FTR Trucking Conditions Index surged to 17.4 for June. The sharp metric increase confirms sustained rate recovery and stronger operating margins for commercial motor carriers."
             },
             {
                 "slide_index": 5,
-                "headline": "CUSTOMS COMPLIANCE: CBP TARIFF REFUND DISBURSEMENTS",
-                "teaserTitle": "CARRIER FLEET: SAMUDERA IMOTO JAPAN FEEDER ORDER",
-                "visual_caption": "CBP surpassed $100B in total emergency trade tariff refunds while awaiting legal appeal outcomes. Importers continue auditing historical entries to reclaim capital from past duty collections."
+                "headline": "OCEAN FREIGHT: TRANSPACIFIC SPOT RATES",
+                "teaserTitle": "PROCUREMENT: POLYSILICON IMPORT DUTIES",
+                "visual_caption": "Asia to US East Coast container spot rates reached a record peak of $9,400 per box. Heavy peak season cargo frontloading continues pushing transpacific ocean capacity to its limits."
             },
             {
                 "slide_index": 6,
-                "headline": "CARRIER FLEET: SAMUDERA IMOTO JAPAN FEEDER ORDER",
-                "teaserTitle": "ENERGY LOGISTICS: LIBYA ZAWIYA DRONE ATTACKS",
-                "visual_caption": "Samudera Shipping Line and Imoto Corporation ordered a 696 TEU container feeder for Japanese coastal routes. The vessel expands regional feeder capacity connecting secondary ports with major transshipment hubs."
+                "headline": "PROCUREMENT: POLYSILICON IMPORT DUTIES",
+                "teaserTitle": "REGULATORY: FMC DETENTION FEE RULING",
+                "visual_caption": "A new presidential proclamation imposes a 15% tariff and import price floor on foreign polysilicon shipments. The trade policy targets critical inputs for semiconductors and solar equipment starting Dec 4."
             },
             {
                 "slide_index": 7,
-                "headline": "ENERGY LOGISTICS: LIBYA ZAWIYA DRONE ATTACKS",
+                "headline": "REGULATORY: FMC DETENTION FEE RULING",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Targeted drone strikes against Libya's Zawiya oil complex threatened refinery exports and prompted official force majeure warnings. Energy buyers face increased tanker rates and potential supply disruptions across Europe."
+                "visual_caption": "The DC Circuit Court upheld the Federal Maritime Commission ruling on container detention billing. The legal decision mandates ocean carrier demurrage fees must explicitly incentivize freight fluidity."
             },
             {
                 "slide_index": 8,
