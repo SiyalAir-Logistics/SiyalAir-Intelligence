@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ASIAN TYPHOON CONTAINER BACKLOGS",
+        "hookTitle": "USTR ADVANCES FORCED LABOR TARIFFS ACROSS GLOBAL TRADE PARTNERS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ASIAN TYPHOON CONTAINER BACKLOGS",
-                "teaserTitle": "TERMINALS: MSC WITHDRAWS EU ANTITRUST",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME: HOUTHI MISSILE STRIKE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Typhoon Dolphin has grounded container operations across East Asia, stranding over two point four million TEU of cargo capacity off Chinese ports. Shippers face immediate schedule disruptions and severe dwell time increases across transpacific trade corridors."
+                "narration_line": "The Office of the United States Trade Representative is advancing Section three oh one tariffs across sixty nations. Importers face rigorous documentation mandates to verify supply chain origin compliance."
             },
             {
                 "slide_index": 2,
-                "headline": "TERMINALS: MSC WITHDRAWS EU ANTITRUST",
-                "teaserTitle": "TRUCKING: MEXICAN HEAVY TRUCK PRODUCTION",
+                "headline": "MARITIME: HOUTHI MISSILE STRIKE",
+                "teaserTitle": "LOGISTICS: US IMPORTS RESILIENCE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Terminal operator TiL abruptly withdrew its European Union antitrust review for acquiring Barcelona Europe South Terminal. This sudden regulatory pause halts Mediterranean container terminal expansion plans for MSC."
+                "narration_line": "Houthi forces struck a commercial cargo vessel in the Bab al Mandab Strait resulting in six fatalities. Container lines are urgently rerouting vessels away from high risk zones."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: MEXICAN HEAVY TRUCK PRODUCTION",
-                "teaserTitle": "AVIATION: BOEING SELLS DRONE UNITS",
+                "headline": "LOGISTICS: US IMPORTS RESILIENCE",
+                "teaserTitle": "AUTOMATION: ROBOT ORDER GROWTH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Mexican heavy truck production surged fifty-one point eight percent in July to reach over fourteen thousand vehicles. Increased manufacturing throughput is expanding equipment availability for cross-border North American freight fleets."
+                "narration_line": "United States container imports increased four point five percent in July despite macroeconomic headwinds. Retailers aggressively frontloaded inventory ahead of peak shipping season."
             },
             {
                 "slide_index": 4,
-                "headline": "AVIATION: BOEING SELLS DRONE UNITS",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY RATES STABILIZE",
+                "headline": "AUTOMATION: ROBOT ORDER GROWTH",
+                "teaserTitle": "REGULATION: FMC DETENTION DECISION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Boeing has completed the sale of its autonomous drone and flying taxi business units to Archer. The strategic acquisition accelerates commercial testing for middle-mile air logistics platforms."
+                "narration_line": "North American industrial robot orders posted strong growth during the second quarter. Fulfillment providers are accelerating capital deployment into advanced picking systems."
             },
             {
                 "slide_index": 5,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY RATES STABILIZE",
-                "teaserTitle": "E-COMMERCE: ETSY CUTS WORKFORCE PERCENTAGE",
+                "headline": "REGULATION: FMC DETENTION DECISION",
+                "teaserTitle": "AVIATION: AIR CARGO SURGE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "North American industrial vacancy rates dropped to seven point three percent in the second quarter as leasing demand outpaced new supply additions. Modern warehouse space availability is tightening across primary port gateways."
+                "narration_line": "The federal appeals court upheld a ruling requiring demurrage fees to promote freight fluidity. Ocean carriers face strict oversight regarding penalty invoice transparency."
             },
             {
                 "slide_index": 6,
-                "headline": "E-COMMERCE: ETSY CUTS WORKFORCE PERCENTAGE",
-                "teaserTitle": "TRADE POLICY: COMMERCE PROPOSES DERIVATIVE TARIFFS",
+                "headline": "AVIATION: AIR CARGO SURGE",
+                "teaserTitle": "TRUCKING: CONTRACT RATES REBOUND",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Etsy reduced its global operational workforce by twelve percent following the completion of its one point four billion dollar Depop sale. The marketplace operator is reallocating capital from administrative overhead into artificial intelligence infrastructure."
+                "narration_line": "Cathay Cargo reported strong first half financial performance amid shifting global trade routes. Air freight operators are capturing high yield volume bypassing maritime chokepoints."
             },
             {
                 "slide_index": 7,
-                "headline": "TRADE POLICY: COMMERCE PROPOSES DERIVATIVE TARIFFS",
+                "headline": "TRUCKING: CONTRACT RATES REBOUND",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The United States Commerce Department proposed expanding import tariffs onto derivative steel, aluminum, and copper manufactured products. Procurement teams must prepare for increased duty exposure across downstream industrial hardware supply chains."
+                "narration_line": "Trucking contract rates posted a record operational rebound as available linehaul capacity tightened. Shippers are actively utilizing mini bids to secure reliable transport."
             },
             {
                 "slide_index": 8,

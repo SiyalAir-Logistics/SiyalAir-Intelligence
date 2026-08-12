@@ -4,31 +4,31 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "visual_caption": "Typhoon Dolphin grounds East Asian ports, stranding over 2.4M TEU of container capacity off Ningbo and Chinese hubs."
+                "visual_caption": "USTR advanced Section 301 tariffs across 60 nations. Importers face rigorous documentation mandates to verify origin compliance."
             },
             {
                 "slide_index": 2,
-                "visual_caption": "MSC terminal division TiL withdraws EU antitrust review for Barcelona BEST terminal acquisition."
+                "visual_caption": "Houthi forces struck a commercial cargo vessel in the Bab al-Mandab Strait, causing 6 fatalities and prompting urgent vessel rerouting."
             },
             {
                 "slide_index": 3,
-                "visual_caption": "Mexican heavy-duty truck production jumps 51.8% year-over-year in July to 14,675 units."
+                "visual_caption": "US container imports rose 4.5% in July. Retailers aggressively frontloaded inventory ahead of peak shipping season."
             },
             {
                 "slide_index": 4,
-                "visual_caption": "Boeing sells Wisk flying taxi and autonomous drone units to Archer for middle-mile logistics tech."
+                "visual_caption": "Industrial robot orders grew in Q2. Fulfillment providers accelerated capital deployment into advanced picking automation."
             },
             {
                 "slide_index": 5,
-                "visual_caption": "Q2 industrial vacancy drops 7 bps to 7.3% as demand outpaces new warehouse construction supply."
+                "visual_caption": "Appeals court upheld FMC detention rules requiring fees to promote freight fluidity. Carriers face strict invoice oversight."
             },
             {
                 "slide_index": 6,
-                "visual_caption": "Etsy cuts global workforce by 12% following $1.4B Depop sale to eBay."
+                "visual_caption": "Cathay Cargo reported strong H1 performance amid trade shifts. Air freight operators captured high-yield volume bypassing chokepoints."
             },
             {
                 "slide_index": 7,
-                "visual_caption": "US Commerce proposes new tariffs on derivative steel, aluminum, and copper manufactured items."
+                "visual_caption": "DAT reported trucking contract rates posted a record rebound as linehaul capacity tightened across key freight corridors."
             },
             {
                 "slide_index": 8,

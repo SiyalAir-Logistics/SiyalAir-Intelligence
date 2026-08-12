@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ASIAN TYPHOON CONTAINER",
-        "titleBlue": "BACKLOGS",
-        "footerSummary": "Typhoon Dolphin anchors 2.4M TEU off China while US Commerce proposes broad tariffs on derivative steel and copper goods."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR enforces sweeping Section 301 tariffs across 60 trade partners as global supply chains navigate severe regional bottlenecks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: ASIAN TYPHOON CONTAINER BACKLOGS",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "Typhoon Dolphin made landfall near Ningbo creating severe maritime congestion across East Asian container hubs.",
-                "Port tracking data indicates over 2.4M TEU of containership capacity is currently anchored and waiting off Chinese ports.",
-                "Ocean carriers face escalating schedule disruption as weather backlogs propagate through transpacific and Asia-Europe vessel loops.",
-                "Freight forwarders are advising shippers to anticipate extended port dwell times and potential vessel omission strategies."
+                "The Office of the United States Trade Representative formally advanced implementation of targeted tariffs on 60 trading nations.",
+                "Action proceeds under Section 301 of the Trade Act of 1974 following the official expiration of prior Section 122 protective provisions.",
+                "Global export compliance teams are immediately auditing bill-of-lading origins to mitigate emerging supply chain cost exposure.",
+                "Downstream importers face rigorous documentation mandates to verify non-infringement across multi-tier manufacturing inputs."
             ],
             "imageUrl": "",
-            "nextUpTease": "TERMINALS: MSC WITHDRAWS EU ANTITRUST",
+            "nextUpTease": "MARITIME: HOUTHI MISSILE STRIKE",
             "tags": [
-                "Source: https://theloadstar.com/tropical-storms-bring-congestion-and-cargo-backlogs-at-asian-ports/",
-                "Published: 2026-08-11T12:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
+                "Published: 2026-08-11T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TERMINALS: MSC WITHDRAWS EU ANTITRUST",
+            "heading": "MARITIME: HOUTHI MISSILE STRIKE",
             "points": [
-                "MSC terminal division TiL withdrew its European Union antitrust filing for acquiring Barcelona Europe South Terminal.",
-                "The transaction involved purchasing Terminal Catalunya from CK Hutchison to expand Mediterranean container handling infrastructure.",
-                "Regulatory authorities recorded the formal withdrawal without public explanation from MSC or European Commission representatives.",
-                "Terminal capacity strategies in Southern Europe face strategic realignment following the abrupt pause in regulatory proceedings."
+                "Houthi forces launched a three-missile strike against a commercial cargo vessel operating within the Bab al-Mandab Strait corridor.",
+                "The attack resulted in 6 fatalities, marking the first deadly commercial shipping casualties in the region since the conflict began.",
+                "Container lines and tanker operators are urgently rerouting vessels away from high-risk zones toward protracted African capes.",
+                "Global energy and freight markets experienced immediate spot-rate volatility following renewed security escalations."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: MEXICAN HEAVY TRUCK PRODUCTION",
+            "nextUpTease": "LOGISTICS: US IMPORTS RESILIENCE",
             "tags": [
-                "Source: https://maritime-executive.com/article/msc-s-terminal-company-withdraws-antitrust-review-for-barcelona-acquisition",
-                "Published: 2026-08-11T18:19:00Z",
+                "Source: https://www.supplychainbrain.com/articles/41123-houthi-strike-in-bab-al-mandab-strait-kills-six",
+                "Published: 2026-08-11T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRUCKING: MEXICAN HEAVY TRUCK PRODUCTION",
+            "heading": "LOGISTICS: US IMPORTS RESILIENCE",
             "points": [
-                "Mexican heavy-duty truck production jumped 51.8% year over year in July reaching 14,675 commercial vehicles.",
-                "Total export volumes experienced parallel surge as North American fleet operators accelerate vehicle replacement cycles.",
-                "Cross-border automotive supply chains are demonstrating strong manufacturing throughput across Mexican assembly facilities.",
-                "Motor carriers expect increased equipment availability as new commercial tractor inventory enters North American distribution channels."
+                "US containerized import volumes increased 4.5% in July according to Descartes data despite persistent macroeconomic headwinds.",
+                "China-origin cargo volumes remained robust as major retail importers aggressively frontloaded peak season inventory requirements.",
+                "Port infrastructure across West Coast gateways absorbed steady box surges without experiencing critical landside dwell spikes.",
+                "Supply chain executives maintain cautious procurement schedules while monitoring shifting consumer demand patterns."
             ],
             "imageUrl": "",
-            "nextUpTease": "AVIATION: BOEING SELLS DRONE UNITS",
+            "nextUpTease": "AUTOMATION: ROBOT ORDER GROWTH",
             "tags": [
-                "Source: https://www.ttnews.com/articles/mexican-truck-production-july-2026",
-                "Published: 2026-08-11T16:00:00Z",
+                "Source: https://theloadstar.com/us-demand-for-imported-goods-unabated-despite-tariff-turbulence/",
+                "Published: 2026-08-11T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AVIATION: BOEING SELLS DRONE UNITS",
+            "heading": "AUTOMATION: ROBOT ORDER GROWTH",
             "points": [
-                "Boeing completed the strategic sale of its Wisk flying taxi and autonomous drone business units to Archer.",
-                "The transaction shifts advanced air mobility IP and autonomous flight systems under Archer operational oversight.",
-                "Aerospace consolidation highlights evolving capital allocations toward commercialized middle-mile cargo drone architecture.",
-                "Logistics operators anticipate accelerated regulatory testing for autonomous air freight delivery platforms nationwide."
+                "North American industrial robot orders posted strong sequential growth during the second quarter of the fiscal year.",
+                "Warehouse automation demand broadened significantly as third-party logistics providers sought labor-mitigating technologies.",
+                "Fulfillment center operators are accelerating capital deployment into advanced picking and articulated robotic arm systems.",
+                "Enterprise supply chains continue prioritizing automated material handling infrastructure to counter ongoing labor constraints."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY RATES STABILIZE",
+            "nextUpTease": "REGULATION: FMC DETENTION DECISION",
             "tags": [
-                "Source: https://www.ttnews.com/articles/boeing-sells-wisk-archer",
-                "Published: 2026-08-11T15:00:00Z",
+                "Source: https://www.dcvelocity.com/articles/71452-second-quarter-robot-orders-grew-as-automation-demand-broadens",
+                "Published: 2026-08-11T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY RATES STABILIZE",
+            "heading": "REGULATION: FMC DETENTION DECISION",
             "points": [
-                "Industrial real estate vacancy dropped 7 basis points sequentially to 7.3% in Q2 according to Colliers market research.",
-                "Industrial net absorption outpaced new construction supply additions across primary North American logistics corridors.",
-                "Distribution space availability is stabilizing following two years of historical warehouse construction deliveries.",
-                "Enterprise tenants face firming lease rates for prime modern logistics facilities near major port gateways."
+                "The U.S. Court of Appeals for the D.C. Circuit upheld a landmark Federal Maritime Commission ruling on demurrage billing.",
+                "The judicial decision reinforces that ocean carrier detention fees must actively promote overall freight system fluidity.",
+                "Carriers and marine terminal operators face strict legal oversight regarding penalty fee structures and invoice transparency.",
+                "Shipper advocacy groups praised the ruling as a vital check against arbitrary container storage fee assessments."
             ],
             "imageUrl": "",
-            "nextUpTease": "E-COMMERCE: ETSY CUTS WORKFORCE PERCENTAGE",
+            "nextUpTease": "AVIATION: AIR CARGO SURGE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance",
-                "Published: 2026-08-11T14:00:00Z",
+                "Source: https://www.fmc.gov/news/us-court-of-appeals-upholds-fmc-decision-that-detention-fees-must-promote-freight-fluidity/",
+                "Published: 2026-07-08T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "E-COMMERCE: ETSY CUTS WORKFORCE PERCENTAGE",
+            "heading": "AVIATION: AIR CARGO SURGE",
             "points": [
-                "Etsy initiated corporate restructuring reducing its global workforce by 12% across administrative and operational roles.",
-                "The headcount reduction follows the closing of its $1.4B transaction selling Depop to C2C marketplace competitor eBay.",
-                "E-commerce platform operators continue streamlining operating expenses while reallocating capital into core AI technologies.",
-                "Direct-to-consumer merchant ecosystems adapt as major marketplace operators rebalance structural cost overhead."
+                "Cathay Cargo reported exceptional first-half financial performance driven by agile adaptation to complex trade route shifts.",
+                "Air freight operators are capturing high-yield volume as ocean supply chains contend with Suez and Red Sea disruptions.",
+                "Cross-border e-commerce shippers increasingly rely on expedited air charters to bypass maritime choke points and delays.",
+                "Aviation logistics providers report sustained high load factors across major transpacific and Asia-Europe corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: COMMERCE PROPOSES DERIVATIVE TARIFFS",
+            "nextUpTease": "TRUCKING: CONTRACT RATES REBOUND",
             "tags": [
-                "Source: https://www.retaildive.com/news/etsy-slashes-workforce-layoffs/723450/",
-                "Published: 2026-08-11T13:00:00Z",
+                "Source: https://theloadstar.com/cathay-cargo-enjoys-strong-first-half-as-it-adapts-new-trade-patterns/",
+                "Published: 2026-08-10T14:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRADE POLICY: COMMERCE PROPOSES DERIVATIVE TARIFFS",
+            "heading": "TRUCKING: CONTRACT RATES REBOUND",
             "points": [
-                "The United States Commerce Department proposed expanding import duties on derivative steel, aluminum, and copper products.",
-                "Regulatory proposals cover finished industrial items ranging from tanker trailers and heavy hardware to brass components.",
-                "Manufacturing procurement teams face unexpected input cost exposure across downstream metallic supply chains.",
-                "Trade compliance officers are reviewing tariff classification codes to evaluate prospective duty burdens on import shipments."
+                "DAT freight analytics confirmed that trucking contract rates have posted a record, sustained operational rebound.",
+                "Over-the-road motor carriers experienced firmer pricing power as available linehaul capacity tightened across regions.",
+                "Shippers are actively utilizing mini-bids and short-term routing guides to secure reliable truckload capacity.",
+                "Fleet operators balance rising operating expenses against improving yield metrics heading into the peak shipping season."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/commerce-department-proposed-tariffs-steel-aluminum-copper/723480/",
-                "Published: 2026-08-11T11:00:00Z",
+                "Source: https://www.dcvelocity.com/articles/71450-dat-trucking-contract-rates-post-record-rebound",
+                "Published: 2026-08-11T12:45:00Z",
                 "Status: Audited & True"
             ]
         }
