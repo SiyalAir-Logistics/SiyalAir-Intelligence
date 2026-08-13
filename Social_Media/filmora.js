@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AUTOMOTIVE: GM PRE-FUNDS COMPONENT RESERVES",
-                "teaserTitle": "TRUCKING: ELD PURGE CAPACITY SQUEEZE",
-                "visual_caption": "General Motors established a $4.5B financing agreement to pre-fund component purchases for tier-1 suppliers. The capital reserve aims to prevent supply chain disruptions by helping sub-tier vendors stockpile essential assembly parts."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME: EUROPE SHALLOW WATER SHIPS",
+                "visual_caption": "The USTR is implementing mandatory tariffs across 60 nations under Section 301. This regulatory enforcement action creates immediate compliance friction and requires enhanced supply chain provenance verification."
             },
             {
                 "slide_index": 2,
-                "headline": "TRUCKING: ELD PURGE CAPACITY SQUEEZE",
-                "teaserTitle": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
-                "visual_caption": "Federal regulators intensified audits targeting noncompliant ELDs across interstate trucking networks. Industry leaders warn the regulatory purge will remove noncompliant carriers and significantly tighten available truckload capacity."
+                "headline": "MARITIME: EUROPE SHALLOW WATER SHIPS",
+                "teaserTitle": "TRADE POLICY: CARNEY TARIFF DEADLINE",
+                "visual_caption": "German inland shipping leadership is urging a \u20ac12.5B infrastructure investment program. The initiative aims to construct 1,000 shallow-water vessels by 2035 to counter severe waterway disruptions."
             },
             {
                 "slide_index": 3,
-                "headline": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
-                "teaserTitle": "ENERGY FREIGHT: SK SWAPS TANKER FLEET",
-                "visual_caption": "Trade enforcers deployed AI algorithms to track shadow transshipment networks and detect illicit tariff evasion. Federal inspectors are expanding audits of multi-tier origin records, leading to increased customs entry holds at ports."
+                "headline": "TRADE POLICY: CARNEY TARIFF DEADLINE",
+                "teaserTitle": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
+                "visual_caption": "Washington officials have set an Aug. 19 deadline for 50% duties on $20B of Canadian goods. Cross-border carriers are actively preparing contingency routing options ahead of potential trade restrictions."
             },
             {
                 "slide_index": 4,
-                "headline": "ENERGY FREIGHT: SK SWAPS TANKER FLEET",
-                "teaserTitle": "RAILWAYS: AG GROUP OPPOSES MERGER",
-                "visual_caption": "South Korea's SK Shipping completed a 28-vessel contract swap with H-Line Shipping to streamline LNG transport. The fleet consolidation doubles SK Shipping's gas fleet to 32 vessels, creating a dominant energy carrier in Asia."
+                "headline": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
+                "teaserTitle": "ENERGY FREIGHT: GOLAR FLNG EXPANSION",
+                "visual_caption": "Trade enforcers have deployed AI algorithms to dismantle complex shadow transshipment networks. Importers face heightened documentation scrutiny and mandatory supply chain audits at all major ports."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILWAYS: AG GROUP OPPOSES MERGER",
-                "teaserTitle": "CONTAINERS: WAN HAI ORDERS BOXSHIPS",
-                "visual_caption": "7 state AGs filed a warning letter with federal regulators opposing the proposed UP-NS rail merger. Legal officers caution that consolidating major rail networks will reduce market competition and increase freight shipping costs."
+                "headline": "ENERGY FREIGHT: GOLAR FLNG EXPANSION",
+                "teaserTitle": "CONTAINERS: INTRA-ASIA RATE REBOUND",
+                "visual_caption": "Golar LNG has finalized an investment decision to order its fourth floating natural gas production unit. The specialized vessel will be delivered by late 2029 to capture expanding seaborne energy demand."
             },
             {
                 "slide_index": 6,
-                "headline": "CONTAINERS: WAN HAI ORDERS BOXSHIPS",
-                "teaserTitle": "POSTAL LOGISTICS: USPS AIR SHIFT EXPENSES",
-                "visual_caption": "Wan Hai Lines placed a near $1B order for 8 new containerships with Shanghai Waigaoqiao Shipbuilding. The strategic fleet investment aims to expand ocean carrier capacity along high-demand transpacific trade lanes."
+                "headline": "CONTAINERS: INTRA-ASIA RATE REBOUND",
+                "teaserTitle": "AIR CARGO: EU DUTY FREE SHIFT",
+                "visual_caption": "Intra-Asia container spot rates have officially ended a 6-week consecutive decline due to regional port congestion. Shippers are experiencing tighter vessel slot availability and increased operational surcharges across key trade lanes."
             },
             {
                 "slide_index": 7,
-                "headline": "POSTAL LOGISTICS: USPS AIR SHIFT EXPENSES",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "The USPS reported increased Q3 transportation expenses following operational volume shifts to UPS air cargo. Postal managers are deploying AI tools to optimize routing and lower long-term air freight operational costs."
+                "headline": "AIR CARGO: EU DUTY FREE SHIFT",
+                "teaserTitle": "",
+                "visual_caption": "European air cargo volumes and freight rates have dropped following the elimination of low-value import tax exemptions. Forwarders are actively recalibrating network capacity to match shifting e-commerce logistics demand."
             },
             {
                 "slide_index": 8,

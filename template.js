@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GM PRE-FUNDS COMPONENT",
-        "titleBlue": "RESERVES",
-        "footerSummary": "GM establishes a $4.5B capital reserve mechanism to pre-fund supplier inventory stockpiles, mitigating tier-one operational failure risks across automotive assembly networks."
+        "titleWhite": "USTR IMPOSES FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR moves forward with targeted tariffs on 60 trading partners as Section 122 measures expire, reshaping international trade compliance protocols."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AUTOMOTIVE: GM PRE-FUNDS COMPONENT RESERVES",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "General Motors established a $4.5B liquidity mechanism to pre-fund critical component purchases across tier-1 supplier networks.",
-                "The facility provides direct financing so sub-tier manufacturers can stockpile essential microelectronics and raw assemblies.",
-                "Automotive supply chain managers aim to insulate assembly operations from unexpected vendor bankruptcies and systemic component shortfalls.",
-                "The capital structure pre-emptively secures production schedules against severe operational friction across North American manufacturing facilities."
+                "The Office of the United States Trade Representative announced the implementation of mandatory tariffs across 60 noncompliant nations.",
+                "The regulatory enforcement action takes effect under Section 301 of the Trade Act of 1974 following previous expiration cycles.",
+                "Global supply chain operators face increased audit friction and mandatory provenance verification for all cross-border shipments.",
+                "Importers must rapidly adapt compliance procedures to avoid severe customs holds and unpredictable border clearance delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: ELD PURGE CAPACITY SQUEEZE",
+            "nextUpTease": "MARITIME: EUROPE SHALLOW WATER SHIPS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-13T12:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-13T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRUCKING: ELD PURGE CAPACITY SQUEEZE",
+            "heading": "MARITIME: EUROPE SHALLOW WATER SHIPS",
             "points": [
-                "Federal motor carrier enforcement intensified audits targeting noncompliant electronic logging devices across interstate freight networks.",
-                "Werner Enterprises leadership warned the regulatory cleanup will remove noncompliant motor carriers and tighten available truckload capacity.",
-                "Logistics operators expect spot market rate inflation as unverified carriers are purged from active freight brokerage boards.",
-                "Shippers are urged to lock in dedicated contract carriage ahead of impending Q4 driver availability constraints."
+                "German inland shipping heavyweight HGK called for a massive government-backed investment program totaling \u20ac12.5B ($14.4B).",
+                "The initiative aims to mobilize 1,000 new shallow-water-capable cargo vessels across European inland waterways by 2035.",
+                "Regional logistics networks require modernized fleet structures to maintain freight fluidity amid persistent low-water disruptions.",
+                "Policy leaders in Berlin are urged to spearhead the infrastructure financing framework to secure continental supply lines."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
+            "nextUpTease": "TRADE POLICY: CARNEY TARIFF DEADLINE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T11:30:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-13T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
+            "heading": "TRADE POLICY: CARNEY TARIFF DEADLINE",
             "points": [
-                "White House trade enforcers deployed artificial intelligence algorithms to identify illicit shadow transshipment patterns across global trade routes.",
-                "The regulatory initiative screens multi-tier country-of-origin documentation to detect fraudulent rerouting through intermediate trade hubs.",
-                "Customs brokers report heightened audit scrutiny and entry holds on high-risk industrial imports arriving at U.S. ports.",
-                "Importers face increased administrative compliance costs and mandatory provenance tracing across multi-national supply networks."
+                "U.S. trade officials established an impending August 19 deadline for sweeping 50% tariffs on approximately $20B in Canadian goods.",
+                "Negotiators navigate high-stakes diplomatic discussions to resolve long-standing trade irritants before punitive duties activate.",
+                "Cross-border freight carriers and manufacturing supply chains prepare contingency routes for potential trade flow restrictions.",
+                "North American commerce faces immediate cost inflation if bilateral resolutions fail to materialize ahead of the enforcement window."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY FREIGHT: SK SWAPS TANKER FLEET",
+            "nextUpTease": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T11:00:00Z",
+                "Published: 2026-08-13T09:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ENERGY FREIGHT: SK SWAPS TANKER FLEET",
+            "heading": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
             "points": [
-                "South Korea's SK Shipping finalized a 28-vessel contract swap with sister firm H-Line Shipping to consolidate energy transport.",
-                "The strategic fleet consolidation doubles SK Shipping's active LNG carrier fleet to 32 specialized vessels.",
-                "Private equity owner Hahn & Co structured the transaction to capture expanding long-term seaborne gas transport demand across Asia.",
-                "The consolidated tonnage position establishes one of Asia's largest dedicated energy marine logistics operators."
+                "White House trade enforcers deployed advanced artificial intelligence algorithms to dismantle illicit shadow transshipment networks.",
+                "The automated system investigates multi-tier country-of-origin documentation to detect unauthorized cargo rerouting through third-party hubs.",
+                "International shipping lines and customs brokers report heightened scrutiny on industrial imports entering domestic ports.",
+                "Supply chain managers must eliminate opaque sourcing links to prevent severe regulatory penalties and seizure risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAYS: AG GROUP OPPOSES MERGER",
+            "nextUpTease": "ENERGY FREIGHT: GOLAR FLNG EXPANSION",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T10:15:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T10:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAILWAYS: AG GROUP OPPOSES MERGER",
+            "heading": "ENERGY FREIGHT: GOLAR FLNG EXPANSION",
             "points": [
-                "Seven state attorneys general submitted a formal objection to the Surface Transportation Board regarding the proposed UP-NS mega rail merger.",
-                "State legal officers warned that consolidation between Union Pacific and Norfolk Southern would reduce competition and elevate shipper freight costs.",
-                "The filing argues proposed competitive access remedies are insufficient to preserve balanced intermodal freight routing options.",
-                "Rail freight shippers anticipate prolonged regulatory reviews and potential operational concessions before final board decisions."
+                "Golar LNG executed a final investment decision to order its fourth floating liquefied natural gas production unit.",
+                "The 3.5 mtpa MKII FLNG vessel has been contracted at China\u2019s CIMC Raffles with scheduled delivery by late 2029.",
+                "The capital expenditure strengthens seaborne energy transport capabilities to capture rising global gas demand.",
+                "Maritime energy logistics operators continue expanding offshore asset portfolios to secure long-term charter revenues."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINERS: WAN HAI ORDERS BOXSHIPS",
+            "nextUpTease": "CONTAINERS: INTRA-ASIA RATE REBOUND",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-13T09:30:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-13T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CONTAINERS: WAN HAI ORDERS BOXSHIPS",
+            "heading": "CONTAINERS: INTRA-ASIA RATE REBOUND",
             "points": [
-                "Taiwanese ocean carrier Wan Hai Lines signed a $1B shipyard contract with Shanghai Waigaoqiao for 8 containerships.",
-                "The order expands carrier fleet deployment capabilities targeting long-haul transpacific and intra-Asia trade corridors.",
-                "Ocean freight analysts note sustained carrier capital investments reflect expectations of elevated long-term containerized trade volumes.",
-                "Delivery schedules will systematically refresh regional feeder capacity while enhancing carrier vessel operating efficiency."
+                "Intra-Asia ocean freight spot rates officially ended a six-week consecutive decline driven by escalating regional port congestion.",
+                "Geopolitical conflicts and ongoing security disruptions around maritime chokepoints forced carriers to adjust routing strategies.",
+                "Shippers operating across Asian trade lanes face tighter vessel slot availability and increased operational surcharges.",
+                "Logistics providers recommend booking container space well in advance to mitigate unexpected spot market volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "POSTAL LOGISTICS: USPS AIR SHIFT EXPENSES",
+            "nextUpTease": "AIR CARGO: EU DUTY FREE SHIFT",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T08:45:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-13T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "POSTAL LOGISTICS: USPS AIR SHIFT EXPENSES",
+            "heading": "AIR CARGO: EU DUTY FREE SHIFT",
             "points": [
-                "United States Postal Service reported elevated transportation expenses in Q3 driven by volume shifts to UPS air cargo channels.",
-                "The operational transition forms part of broader air network restructuring to ensure reliable parcel delivery schedules.",
-                "Postal inspectors are evaluating dynamic routing and AI systems to optimize air-to-ground transportation balance.",
-                "E-commerce merchants navigate shifting postal transit velocity and potential commercial parcel rate adjustments."
+                "European air cargo volumes and freight rates experienced a measurable slump following recent legislative tax reforms.",
+                "The elimination of low-value import exemptions has fundamentally altered consumer behavior and e-commerce shipping models.",
+                "Forwarders are recalibrating network capacity as high-volume retail parcel flows adjust to new customs clearance fees.",
+                "Global air carriers anticipate sustained structural changes in cross-border e-commerce logistics demand patterns."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-13T08:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-13T11:30:00Z",
                 "Status: Audited & True"
             ]
         }
