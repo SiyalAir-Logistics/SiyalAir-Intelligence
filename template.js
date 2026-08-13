@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "INDIA RESTORES CABOTAGE",
-        "titleBlue": "WAIVER",
-        "footerSummary": "India restores the cabotage waiver for foreign carriers to enhance transshipment liquidity and stabilize port networks against persistent Red Sea routing disruptions."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR implements Section 301 tariffs on 60 trading partners to address forced labor risks as Section 122 duties expire across global trade networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: INDIA RESTORES CABOTAGE WAIVER",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "India officially restored its cabotage waiver for foreign carriers to bolster transshipment efficiency across domestic hub ports.",
-                "The policy shift accommodates carriers recalibrating service loops due to ongoing Red Sea security risks and Suez Canal diversions.",
-                "Container transshipment through Indian terminals has surged as shipping lines seek stable routings amidst global supply chain volatility.",
-                "Port operators and vessel planners anticipate improved cargo fluidity and reduced turnaround times across regional gateway nodes."
+                "The Office of the United States Trade Representative is implementing Section 301 tariffs across 60 trading nations.",
+                "The regulatory action directly addresses persistent forced labor concerns following the expiration of Section 122 tariffs.",
+                "Global importers face updated compliance obligations and revised duty structures across affected trade lanes.",
+                "Trade compliance teams must instantly audit supply chain origins to prevent costly border seizures and customs holds."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL SURCHARGES: UNION PACIFIC TARIFFS",
+            "nextUpTease": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-13T08:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-13T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL SURCHARGES: UNION PACIFIC TARIFFS",
+            "heading": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
             "points": [
-                "Union Pacific implemented a significant rate adjustment, raising California intermodal surcharges to $1,000 per box.",
-                "The fee increases reflect tightening domestic rail capacity and rising inland transport overhead across West Coast corridors.",
-                "Intermodal shippers face immediate cost pressures as railroads manage surging container volumes during the early peak season.",
-                "Supply chain managers are evaluating alternative routing strategies to mitigate escalating overland freight expenditures."
+                "President Trump issued a formal proclamation establishing a 15% tariff on all imported polysilicon materials.",
+                "The policy directive includes an explicit import price floor designed to protect domestic solar and semiconductor supply chains.",
+                "The new duty structure takes effect on Dec 4, imposing immediate cost adjustments on high-tech manufacturing pipelines.",
+                "Procurement teams are evaluating alternative silicon suppliers to buffer operational margins against duty hikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL IMPORTS: NRF FORECAST REVISION",
+            "nextUpTease": "INLAND FREIGHT: EUROPE SHALLOW WATER FLEET",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-13T07:30:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-13T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "RETAIL IMPORTS: NRF FORECAST REVISION",
+            "heading": "INLAND FREIGHT: EUROPE SHALLOW WATER FLEET",
             "points": [
-                "The National Retail Federation reported that U.S. retailers have downgraded their July import volume forecasts significantly.",
-                "Despite softer midsummer projections, the end-of-year outlook remains bullish as businesses prepare for holiday demand.",
-                "Earlier front-loading of inventory ahead of threatened trade tariffs distorted traditional seasonal shipping cadences.",
-                "Supply chain executives expect steady container throughput to resume as retailers balance inventory levels for Q4."
+                "German inland navigation firm HGK called for a \u20ac12.5B initiative to deploy 1,000 shallow-water vessels by 2035.",
+                "The fleet modernization program aims to maintain river freight capacity amid severe low-water climate events across Europe.",
+                "Climate disruptions on major corridors like the Rhine continue to threaten bulk industrial supply chain operations.",
+                "Logistics planners are prioritizing low-draft vessel investments to ensure continuous inland waterway transport liquidity."
             ],
             "imageUrl": "",
-            "nextUpTease": "PARCEL RATES: USPS SURCHARGE ADJUSTMENT",
+            "nextUpTease": "MARITIME RISK: BLACK SEA GRAIN DISRUPTIONS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-13T07:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-13T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PARCEL RATES: USPS SURCHARGE ADJUSTMENT",
+            "heading": "MARITIME RISK: BLACK SEA GRAIN DISRUPTIONS",
             "points": [
-                "The United States Postal Service escalated Ground Advantage package rates for marketplace sellers to offset rising operating costs.",
-                "The rate adjustments align postal pricing structures with shifting contractual obligations and private carrier competition.",
-                "E-commerce merchants face tighter shipping margins as logistics providers pass on inflation and labor expenses.",
-                "Online retailers are aggressively optimizing multi-carrier shipping strategies to protect consumer pricing competitiveness."
+                "Military strikes targeting Danube port infrastructure near Izmail have severely disrupted Black Sea grain exports.",
+                "Escalating maritime warfare continues to drive up war-risk insurance premiums for commercial carriers operating in the region.",
+                "Agricultural logistics networks face reduced export throughput and forced vessel rerouting away from active conflict zones.",
+                "Global grain traders are seeking alternative overland rail and barge corridors to bypass vulnerable Black Sea ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL LOGISTICS: ETSY RESTRUCTURING",
+            "nextUpTease": "ENERGY LOGISTICS: GOLAR FLNG ORDER",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: 2026-08-13T06:30:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-13T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RETAIL LOGISTICS: ETSY RESTRUCTURING",
+            "heading": "ENERGY LOGISTICS: GOLAR FLNG ORDER",
             "points": [
-                "Etsy announced a corporate restructuring plan resulting in 200 layoffs following the strategic divestment of Depop for $1.4B.",
-                "The capital infusion aims to streamline core marketplace operations and optimize digital infrastructure for sellers.",
-                "Marketplace operators are aggressively cutting overhead costs to navigate slowing discretionary consumer spending.",
-                "Platform vendors expect leaner internal teams to accelerate technological deployment across cross-border seller tools."
+                "Golar LNG executed a final investment decision for its 4th floating LNG facility at China's CIMC Raffles shipyard.",
+                "The MKII FLNG vessel will deliver 3.5M metric tons per annum of liquefaction capacity upon its late 2029 completion.",
+                "Expanding offshore gas processing infrastructure strengthens global energy supply chains against onshore terminal constraints.",
+                "Energy logistics providers continue expanding off-shore LNG assets to meet long-term natural gas export demands."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "nextUpTease": "MIDDLE MILE: AMAZON LOGISTICS INTEGRATION",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: 2026-08-13T06:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-13T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "heading": "MIDDLE MILE: AMAZON LOGISTICS INTEGRATION",
             "points": [
-                "Colliers reported that the U.S. industrial real estate vacancy rate reached 7.3% in Q2, stabilizing as demand outpaced new supply.",
-                "The modest 7 basis point sequential decline signals a healthy re-balancing of the warehouse and logistics property market.",
-                "Developers have moderated speculative construction starts in response to elevated financing costs and tightening capital.",
-                "Supply chain occupiers are securing long-term leases in prime distribution hubs to protect against future capacity crunches."
+                "Amazon combined its air freight and ground transportation operations under a single middle-mile management structure.",
+                "The organizational integration aims to accelerate operational decision-making and optimize regional package routing workflows.",
+                "Consolidated leadership will streamline multi-modal handoffs between Amazon Air gateways and fulfillment hubs.",
+                "Retail logistics operators are increasingly unifying transport modes to maximize fleet utilization and reduce transit times."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: PORT EVERGLADES DRAFT",
+            "nextUpTease": "CUSTOMS: CBP TARIFF REFUND PROCESSING",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-12T15:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-13T06:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORT INFRASTRUCTURE: PORT EVERGLADES DRAFT",
+            "heading": "CUSTOMS: CBP TARIFF REFUND PROCESSING",
             "points": [
-                "Port Everglades marked the arrival of its largest container vessel, the 182,000 dwt MSC Vandya, highlighting cargo growth.",
-                "Port officials utilized the milestone to urge federal acceleration of the long-delayed Navigation Improvements Project.",
-                "Deaper harbor channels are required to accommodate ultra-large container ships and prevent regional cargo bottlenecks.",
-                "Maritime logistics planners emphasize that channel enhancements are vital to maintaining competitive Florida trade gateways."
+                "U.S. Customs and Border Protection reached $100B in total tariff refunds distributed following historical court rulings.",
+                "Despite reaching the milestone, processing capabilities for finally liquidated entries remain paused due to pending DOJ appeals.",
+                "Importers continue navigating delayed refund payouts while managing working capital tied up in unliquidated duties.",
+                "Corporate finance teams are exploring secondary market options to monetize pending refund claims and recover capital."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-12T14:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-13T06:00:00Z",
                 "Status: Audited & True"
             ]
         }
