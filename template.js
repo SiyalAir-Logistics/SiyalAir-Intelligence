@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL AUCTION PRICES",
-        "titleBlue": "SOAR",
-        "footerSummary": "Panama Canal transit auction bids reach record highs as severe water deficits and Middle East rerouting force ocean carriers into high-cost transit bidding."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR enforces Section 301 tariffs on 60 nations while EU packaging rules and US rail consolidation scrutiny reshape global freight compliance."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL AUCTION PRICES SOAR",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "Transit auction prices at the Panama Canal reached record levels as severe drought conditions continue reducing daily vessel passage allocations.",
-                "Heightened Asian import demand combined with Suez Canal diversions has created an immediate queue of over 113 waiting vessels.",
-                "Container lines are paying multimillion-dollar auction surcharges to bypass mounting bottlenecks and meet US East Coast arrival windows.",
-                "Supply chain planners are adjusting landed cost forecasts as persistent draft restrictions reduce maximum cargo slot utilization."
+                "Office of the United States Trade Representative moves forward with Section 301 tariffs targeting 60 trading partners.",
+                "Legal mechanism targets supply chain forced labor vulnerabilities as previous Section 122 emergency duties officially expire.",
+                "Importers face heightened documentation requirements and mandatory compliance filings across major cross-border entry points.",
+                "Enterprise supply chain teams are recalibrating landed cost models to absorb updated tariff structures across affected origin countries."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: RED SEA ATTACK KILLS SIX",
+            "nextUpTease": "INLAND WATERWAYS: BARGE SURCHARGES SKYROCKET",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-12T15:07:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-12T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SECURITY: RED SEA ATTACK KILLS SIX",
+            "heading": "INLAND WATERWAYS: BARGE SURCHARGES SKYROCKET",
             "points": [
-                "Commercial merchant shipping sustained lethal missile strikes near the Bab al-Mandab Strait resulting in 6 confirmed seafarer fatalities.",
-                "The attack marks a severe escalation in Middle East maritime transit hazards affecting major Asia-Europe container lanes.",
-                "Global ocean carriers are rerouting additional vessel loops around the Cape of Good Hope to maintain crew and cargo safety.",
-                "Insurance underwriters are reviewing red sea war risk surcharges as geopolitical hostility spreads across regional transit bottlenecks."
+                "Waterway transport operators implemented emergency surcharges for European barge traffic as Rhine River levels drop rapidly.",
+                "Shallow water conditions have severely restricted vessel draft capacity, forcing operators to reduce load volumes by up to 50%.",
+                "Cargo backlogs are building across major European inland ports including Rotterdam and Antwerp as shippers scramble for capacity.",
+                "Logistics planners are shifting critical industrial raw materials onto rail and road networks to bypass low-water bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: UP RAISES SURCHARGES TO $1,000",
+            "nextUpTease": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-12T12:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-12T13:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "RAIL: UP RAISES SURCHARGES TO $1,000",
+            "heading": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
             "points": [
-                "Union Pacific announced mandatory intermodal surcharge increases reaching $1,000 per container for key California outbound rail ramps.",
-                "The rate adjustments respond to heavy West Coast import surges as shippers frontload holiday inventory ahead of peak season.",
-                "Inland freight networks are experiencing equipment imbalances and lengthened dwell times across major midwestern logistics hubs.",
-                "Intermodal marketing companies are advising cargo owners to secure domestic capacity early to avoid compounding spot surcharges."
+                "Executive order officially establishes a 15% import tariff and mandatory price floor on foreign polysilicon shipments.",
+                "Regulatory directive takes effect on December 4, targeting critical raw materials utilized in semiconductor and solar cell manufacturing.",
+                "Procurement leaders face direct cost increases across advanced tech manufacturing supply chains dependent on foreign ingot processing.",
+                "Solar and microchip manufacturers are evaluating long-term domestic sourcing agreements to mitigate upcoming duty exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET: WAN HAI ORDERS 8 CONTAINERSHIPS",
+            "nextUpTease": "CUSTOMS: COMPLIANCE TARIFF REFUNDS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-12T14:30:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-11T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FLEET: WAN HAI ORDERS 8 CONTAINERSHIPS",
+            "heading": "CUSTOMS: COMPLIANCE TARIFF REFUNDS",
             "points": [
-                "Taiwanese carrier Wan Hai Lines signed newbuilding contracts worth up to $980M for 8 advanced container vessels in Shanghai.",
-                "The expansion order includes 7 11,000 TEU units and 1 9,200 TEU vessel destined for transpacific and intra-Asia trade lanes.",
-                "Ocean carriers continue expanding fleet capacity to replace aging tonnage and meet long-term environmental efficiency targets.",
-                "Shipyard orderbooks remain elevated through 2028 as global ocean lines lock in newbuild deliveries across major Asian yards."
+                "U.S. Customs and Border Protection processed over $100B in cumulative IEEPA trade refund distributions.",
+                "Administrative milestones highlight ongoing adjustments to historical trade enforcement mechanisms and legal duty liquidations.",
+                "Secondary finance markets are actively monetizing pending tariff refund claims for enterprise retail importers seeking immediate capital.",
+                "Customs brokerage teams continue managing complex legal appeals as the Department of Justice pursues ongoing litigation."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: EU ENDS DE MINIMIS EXEMPTION",
+            "nextUpTease": "RAIL REGULATION: AG MERGER OPPOSITION",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-12T11:15:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-11T15:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR FREIGHT: EU ENDS DE MINIMIS EXEMPTION",
+            "heading": "RAIL REGULATION: AG MERGER OPPOSITION",
             "points": [
-                "Air cargo freight rates and total volume experienced an immediate drop following the European Union's duty-free tax reform implementation.",
-                "The legal update officially eliminated the low-value de minimis customs exemption for direct-to-consumer cross-border shipments.",
-                "Global e-commerce platforms are restructuring fulfillment models and carrier contracts to handle mandatory duty processing.",
-                "Customs brokers across major European air hubs report increased paperwork processing requirements and potential clearance friction."
+                "Seven state Attorneys General formally issued joint warnings opposing the proposed Union Pacific and Norfolk Southern rail consolidation.",
+                "Legal filings argue the prospective mega-merger would drastically reduce freight competition and drive up shipping costs for agricultural goods.",
+                "Intermodal shippers express concern over potential service disruptions and consolidated pricing power across major rail corridors.",
+                "Federal regulatory bodies will examine market concentration risks as public opposition from state officials intensifies."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTO LOGISTICS: PROFICIENT BUYS HANSEN FOR $130M",
+            "nextUpTease": "RAIL SAFETY: TWO PERSON CREW RULE",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-12T13:20:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-12T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AUTO LOGISTICS: PROFICIENT BUYS HANSEN FOR $130M",
+            "heading": "RAIL SAFETY: TWO PERSON CREW RULE",
             "points": [
-                "Proficient Auto Logistics finalized a definitive agreement to acquire Hansen & Adkins Auto Transport for $130M in cash and stock.",
-                "The transaction establishes North America's largest specialized finished vehicle carrier with extensive nationwide fleet coverage.",
-                "Automotive supply chains gain expanded hauling capacity across OEM assembly plants, processing ports, and regional railheads.",
-                "Logistics consolidation in specialized trucking sectors continues as operators seek scale efficiency and improved fleet utilization."
+                "Federal appeals court upheld legal challenges invalidating the Federal Railroad Administration's mandatory two-person crew rule.",
+                "Decision provides Class I railroads operational flexibility to deploy single-person crews supported by autonomous train control systems.",
+                "Rail labor unions voice strong safety concerns, advocating for legislative intervention to protect traditional staffing requirements.",
+                "Rail operators expect long-term labor cost reductions while continuing expansion of automated safety monitoring technology."
             ],
             "imageUrl": "",
-            "nextUpTease": "SEMICONDUCTORS: GE DEEPENS TI CHIP SPEND",
+            "nextUpTease": "SUSTAINABILITY: PACKAGING MANDATE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-12T12:45:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SEMICONDUCTORS: GE DEEPENS TI CHIP SPEND",
+            "heading": "SUSTAINABILITY: PACKAGING MANDATE",
             "points": [
-                "GE Appliances announced an expanded strategic sourcing agreement with Texas Instruments to bolster critical microchip supply continuity.",
-                "The initiative addresses ongoing global semiconductor supply constraints impacting industrial and consumer manufacturing lines.",
-                "Direct procurement commitments allow component buyers to lock in multi-year production schedules and minimize allocation risks.",
-                "Supply chain executives across advanced manufacturing sectors are shifting from spot procurement to direct long-term foundry contracts."
+                "European Union officially activated new sustainable packaging regulations governing cross-border logistics operations.",
+                "Framework enforces strict material recycling targets, mandatory reusability ratios, and bans on single-use transit packaging.",
+                "Multi-national fulfillment networks are replacing conventional plastic wraps with certified reusable containers and biodegradable materials.",
+                "Non-compliant shippers face regulatory fines and potential customs delays across major European distribution centers."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-12T10:30:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-12T09:15:00Z",
                 "Status: Audited & True"
             ]
         }

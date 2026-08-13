@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL AUCTION PRICES SOAR",
+        "hookTitle": "USTR IMPLEMENTS NEW SECTION 301 TARIFFS ON SIXTY COUNTRIES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL AUCTION PRICES SOAR",
-                "teaserTitle": "SECURITY: RED SEA ATTACK KILLS SIX",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "INLAND WATERWAYS: BARGE SURCHARGES SKYROCKET",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Panama Canal transit auction bids have reached historic highs as dropping water levels severely restrict daily vessel slots. Ocean carriers are paying steep premiums to avoid weeks of transit delays along key transpacific trade corridors."
+                "narration_line": "The Office of the United States Trade Representative is implementing Section three oh one tariffs targeting sixty trading partners following the expiration of temporary Section one two two duties. Importers must update cross-border compliance filings and recalibrate landed cost structures across high-risk origin countries."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: RED SEA ATTACK KILLS SIX",
-                "teaserTitle": "RAIL: UP RAISES SURCHARGES TO $1,000",
+                "headline": "INLAND WATERWAYS: BARGE SURCHARGES SKYROCKET",
+                "teaserTitle": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Commercial shipping came under heavy missile attack near the Bab al Mandab Strait, leaving six seafarers dead. Ocean carriers are rerouting additional container vessels around the Cape of Good Hope to shield crews from escalating Middle East combat."
+                "narration_line": "Emergency surcharges for European Rhine River barge transit have spiked as critically low water levels restrict inland vessel loading capacity. Shallow draft restrictions have forced barge operators to cut vessel payloads by fifty percent, accelerating cargo backlogs at major European ports."
             },
             {
                 "slide_index": 3,
-                "headline": "RAIL: UP RAISES SURCHARGES TO $1,000",
-                "teaserTitle": "FLEET: WAN HAI ORDERS 8 CONTAINERSHIPS",
+                "headline": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "CUSTOMS: COMPLIANCE TARIFF REFUNDS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Union Pacific has increased intermodal container surcharges out of California ramps to one thousand dollars per box. Shippers face rising inland freight costs as West Coast ports absorb heavy volumes during an early peak shipping season."
+                "narration_line": "The United States government has issued a fifteen percent tariff and import price floor on foreign polysilicon shipments effective December fourth. Strategic procurement leaders in semiconductor and solar manufacturing must adjust material supply chains to absorb rising duty costs."
             },
             {
                 "slide_index": 4,
-                "headline": "FLEET: WAN HAI ORDERS 8 CONTAINERSHIPS",
-                "teaserTitle": "AIR FREIGHT: EU ENDS DE MINIMIS EXEMPTION",
+                "headline": "CUSTOMS: COMPLIANCE TARIFF REFUNDS",
+                "teaserTitle": "RAIL REGULATION: AG MERGER OPPOSITION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Wan Hai Lines has signed a nine hundred eighty million dollar shipbuilding contract for eight new container vessels in Shanghai. The carrier is securing long-term vessel capacity to reinforce its global ocean service network amid fluctuating trade demands."
+                "narration_line": "United States Customs and Border Protection has officially surpassed one hundred billion dollars in total tariff refunds issued under emergency trade acts. Commercial importers and secondary markets are aggressively monetizing pending duty refund claims to optimize liquidity."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR FREIGHT: EU ENDS DE MINIMIS EXEMPTION",
-                "teaserTitle": "AUTO LOGISTICS: PROFICIENT BUYS HANSEN FOR $130M",
+                "headline": "RAIL REGULATION: AG MERGER OPPOSITION",
+                "teaserTitle": "RAIL SAFETY: TWO PERSON CREW RULE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Air cargo tonnage and spot freight rates declined following the European Union's official removal of low-value duty-free customs tax exemptions. E-commerce platforms are restructuring cross-border fulfillment networks to comply with new European customs tax mandates."
+                "narration_line": "Seven state Attorneys General have filed formal objections against the proposed Union Pacific and Norfolk Southern rail merger over market concentration concerns. Legal filings warn that reduced intermodal competition could significantly drive up freight shipping rates across core rail transport corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTO LOGISTICS: PROFICIENT BUYS HANSEN FOR $130M",
-                "teaserTitle": "SEMICONDUCTORS: GE DEEPENS TI CHIP SPEND",
+                "headline": "RAIL SAFETY: TWO PERSON CREW RULE",
+                "teaserTitle": "SUSTAINABILITY: PACKAGING MANDATE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Proficient Auto Logistics agreed to acquire Hansen and Adkins for one hundred thirty million dollars in cash and stock. The strategic merger establishes North America's largest specialized automobile hauling fleet to streamline finished vehicle logistics."
+                "narration_line": "A federal court has sustained legal challenges against the Federal Railroad Administration, blocking mandatory two-person train crew requirements for rail carriers. Railroad operators gain operational flexibility to utilize single-person crews supported by automated train control and safety monitoring systems."
             },
             {
                 "slide_index": 7,
-                "headline": "SEMICONDUCTORS: GE DEEPENS TI CHIP SPEND",
+                "headline": "SUSTAINABILITY: PACKAGING MANDATE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "GE Appliances expanded its direct component procurement agreement with Texas Instruments to mitigate ongoing global semiconductor shortages. Appliance manufacturers are prioritizing dual-sourcing strategies to protect manufacturing assembly plants against unpredictable electronic supply bottlenecks."
+                "narration_line": "The European Union has officially implemented binding sustainable packaging rules enforcing strict material reusability and recycling standards across global supply chains. Logistics providers must replace single-use transit packaging with certified reusable systems to avoid severe regulatory non-compliance penalties."
             },
             {
                 "slide_index": 8,
