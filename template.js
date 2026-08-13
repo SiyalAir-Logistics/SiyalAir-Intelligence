@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "EU DE MINIMIS REFORM",
-        "titleBlue": "SLUMP",
-        "footerSummary": "EU elimination of de minimis exemptions triggers air freight volume slumps, forcing cross-border e-commerce networks to restructure tax compliance and fulfillment workflows."
+        "titleWhite": "FORCED LABOR TARIFF",
+        "titleBlue": "IMPLEMENTATION",
+        "footerSummary": "USTR enforcement of Section 301 forced labor tariffs on 60 nations triggers mandatory supply chain origin audits and duty recalibrations for global importers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AIR CARGO: EU DE MINIMIS REFORM SLUMP",
+            "heading": "USTR: FORCED LABOR TARIFF IMPLEMENTATION",
             "points": [
-                "Air cargo spot rates and freight volumes across major Asia-to-Europe lanes experienced an immediate slump following the formal implementation of EU duty-free tax reforms.",
-                "The regulatory framework eliminated the long-standing de minimis tax exemption for low-value import parcels, drastically increasing duty processing overhead for cross-border e-commerce operators.",
-                "Cross-border postal networks and express integrators report shifting consumer purchasing behaviors as final landed costs rise across all 27 EU member states.",
-                "Logistics planners expect continued air freight yield compression through Q3 as digital sellers adjust fulfillment models and transition lower-margin inventories to ocean freight routes."
+                "The Office of the U.S. Trade Representative moved forward with targeted tariffs on 60 trading partners under Section 301.",
+                "The action targets forced labor non-compliance as existing Section 122 baseline duties reach their statutory expiration.",
+                "Importers face heightened border audits and strict supply chain origin verification across cross-border manufacturing networks.",
+                "Trade compliance teams expect customs clearance delays and elevated duty assessments through Q4 2026."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: EUROPEAN SHALLOW WATER FLEET",
+            "nextUpTease": "GAS LOGISTICS: GOLAR FLNG EXPANSION",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-13T08:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-13T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INLAND WATERWAYS: EUROPEAN SHALLOW WATER FLEET",
+            "heading": "GAS LOGISTICS: GOLAR FLNG EXPANSION",
             "points": [
-                "German inland waterway operator HGK officially called for a $14.4B government-backed program to build 1,000 shallow-water-capable barges across European river systems.",
-                "The strategic fleet modernization initiative aims to construct low-draft vessels capable of navigating severe low-water bottlenecks on critical freight corridors like the Rhine River by 2035.",
-                "Persistent summer droughts and climate-driven water level drops have repeatedly disrupted inland barge transit, forcing severe draft restrictions and triggering massive surcharge hikes.",
-                "European industrial manufacturers and chemical shippers are urging rapid subsidy deployment to prevent recurring inland supply chain halts and preserve hinterland logistics fluidities."
+                "Golar LNG issued a final investment decision to construct its 4th floating LNG unit with CIMC Raffles shipyard.",
+                "The 3.5M ton per annum MKII FLNG vessel is scheduled for commercial delivery by late 2029.",
+                "The expansion doubles specialized off-take capacity to satisfy long-term Asian natural gas transportation mandates.",
+                "Energy logistics operators expect sustained demand for deepwater liquefaction infrastructure amid tight global energy supplies."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRY BULK: SOUTH AFRICAN CHROME ORE SURGE",
+            "nextUpTease": "MARITIME WAR: BLACK SEA GRAIN DISRUPTION",
             "tags": [
                 "Source: https://splash247.com",
-                "Published: 2026-08-13T07:00:00Z",
+                "Published: 2026-08-13T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DRY BULK: SOUTH AFRICAN CHROME ORE SURGE",
+            "heading": "MARITIME WAR: BLACK SEA GRAIN DISRUPTION",
             "points": [
-                "Chrome ore has officially emerged as the fastest-growing dry bulk commodity trade of 2026 following structural disruptions across South Africa's domestic smelting industry.",
-                "Severe power constraints and the collapse of domestic ferrochrome smelting operations forced producers to export massive volumes of unprocessed raw chrome ore directly to Asian markets.",
-                "Supramax and Ultramax dry bulk carrier demand on South Africa-to-China maritime routes surged rapidly, providing strong rate support for mid-sized bulk vessel operators.",
-                "Global commodity traders anticipate elevated raw ore export flows continuing through Q4 as domestic power grid recovery efforts in South Africa remain severely delayed."
+                "Military strikes hit Ukraine's Danube port of Izmail, inflicting severe operational damage on regional grain export hubs.",
+                "Escalating Black Sea maritime warfare has compromised critical bulk river transit routes and port loading facilities.",
+                "Agricultural commodity traders report immediate charter rate spikes and severe war-risk insurance premium surcharges.",
+                "Global grain logistics planners anticipate severe export backlogs across Eastern European maritime corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "MOTOR CARRIER: TRUCKING CONTRACT MINI BIDS",
+            "nextUpTease": "MOTOR CARRIER: LAWSUIT ABUSE LEGISLATION",
             "tags": [
                 "Source: https://splash247.com",
-                "Published: 2026-08-13T06:30:00Z",
+                "Published: 2026-08-13T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MOTOR CARRIER: TRUCKING CONTRACT MINI BIDS",
+            "heading": "MOTOR CARRIER: LAWSUIT ABUSE LEGISLATION",
             "points": [
-                "Enterprise shippers are rapidly abandoning traditional 1-year freight RFPs in favor of short-term mini-bids to secure tightening motor carrier capacity.",
-                "Escalating spot rates and contracting truck availability across primary distribution lanes have rendered annual contract pricing agreements largely ineffective for long-haul networks.",
-                "Shippers utilize 3-to-6 month targeted mini-bids to dynamically adjust lane pricing and protect operational routing guide integrity against tender rejections.",
-                "Freight brokers and asset-based carriers report increased margin stability under short-cycle contracts as capacity shifts toward high-volume regional fulfillment corridors."
+                "Lawmakers introduced federal legislation establishing national motor carrier safety standards to curb frivolous lawsuits.",
+                "The bill targets multi-million dollar nuclear verdicts that have driven commercial truck insurance premiums to historic highs.",
+                "Proponents argue uniform safety benchmarks will insulate compliant motor carriers against predatory litigation tactics.",
+                "Logistics operators expect lower insurance overhead and improved margin stability across long-haul freight fleets."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINER SHIPPING: WAN HAI ONE BILLION EXPANSION",
+            "nextUpTease": "AUTO HAULING: PROFICIENT HANSEN ACQUISITION",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-13T05:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-12T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CONTAINER SHIPPING: WAN HAI ONE BILLION EXPANSION",
+            "heading": "AUTO HAULING: PROFICIENT HANSEN ACQUISITION",
             "points": [
-                "Taiwanese carrier Wan Hai Lines finalized a near-$1B shipbuilding contract with Shanghai Waigaoqiao Shipbuilding for 8 advanced containerships.",
-                "The multi-vessel order reflects strategic fleet renewal plans designed to enhance fuel efficiency standards and expand capacity on high-demand intra-Asia and Transpacific routes.",
-                "Ocean carriers continue deploying strong Q2 cash reserves into methanol-ready and dual-fuel container tonnage to meet upcoming IMO decarbonization mandates.",
-                "Maritime analysts expect the new vessel deliveries to bolster Wan Hai's market share while replacing aging, higher-emission feeder vessels across global trade loops."
+                "Proficient Auto Logistics finalized a $130M acquisition of Hansen & Adkins Auto Transport to expand car-hauling capacity.",
+                "The transaction creates the largest specialized finished-vehicle auto hauler across the North American freight network.",
+                "The combined fleet consolidates regional terminal assets and strengthens specialized distribution contracts with major automotive OEMs.",
+                "Industry analysts project increased market power and optimized route density for finished-vehicle logistics in 2026."
             ],
             "imageUrl": "",
-            "nextUpTease": "TANKER FLEETS: SK SHIPPING LNG RESTRUCTURING",
+            "nextUpTease": "SOLAR TRADE: POLYSILICON IMPORT TARIFFS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T04:15:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-12T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TANKER FLEETS: SK SHIPPING LNG RESTRUCTURING",
+            "heading": "SOLAR TRADE: POLYSILICON IMPORT TARIFFS",
             "points": [
-                "South Korea's SK Shipping is doubling its LNG carrier fleet to 32 vessels through a major 28-vessel asset reshuffle executed with sister company H-Line Shipping.",
-                "Private equity owner Hahn & Co structured the fleet consolidation to position SK Shipping as a dominant energy transport operator across Asian LNG corridors.",
-                "The transaction consolidates specialized cryogenic gas transport assets as long-term liquefaction project off-take contracts expand globally across Asia and North America.",
-                "Energy logistics planners view the fleet consolidation as a direct response to rising global demand for secured long-term LNG carrier charter coverage."
+                "The U.S. government issued a proclamation establishing a 15% import tariff on foreign polysilicon components.",
+                "Effective December 4, 2026, the mandate enforces an import price floor on raw inputs for solar panels and semiconductor chips.",
+                "Domestic manufacturers face elevated component costs while foreign suppliers adjust global sourcing routes.",
+                "Supply chain planners expect front-loaded import shipments prior to the Q4 regulatory compliance deadline."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: PORT EVERGLADES CHANNEL EXPANSION",
+            "nextUpTease": "PORT NETWORK: DP WORLD EUROPEAN CUTS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T03:30:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-12T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORT INFRASTRUCTURE: PORT EVERGLADES CHANNEL EXPANSION",
+            "heading": "PORT NETWORK: DP WORLD EUROPEAN CUTS",
             "points": [
-                "Port Everglades leveraged the historic arrival of the 182,000 DWT MSC Vandya to urge immediate federal progress on its long-approved Navigation Improvements Project.",
-                "The $500M harbor deepening project aims to expand navigation channels to accommodate fully laden ultra-large container vessels operating on East Coast loops.",
-                "While the port successfully handled the record-breaking boxship, port authority leadership emphasized that channel depth restrictions limit maximum vessel utilization rates.",
-                "Regional supply chain stakeholders continue pressing federal agencies to release infrastructure funding to keep Florida's maritime gateways competitive with rival Atlantic ports."
+                "DP World initiated an operational restructuring plan resulting in 300 overhead role eliminations across European terminals.",
+                "The corporate overhaul aims to streamline administrative functions and offset persistent landside port congestion.",
+                "Terminal operators continue reallocating capital toward automated container handling systems and digital port infrastructure.",
+                "Supply chain executives expect leaner regional port operations as trade routes adapt to shifting global demand."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-12T17:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-13T07:15:00Z",
                 "Status: Audited & True"
             ]
         }

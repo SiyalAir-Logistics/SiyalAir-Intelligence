@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "EU DE MINIMIS REFORM SLUMP",
+        "hookTitle": "FORCED LABOR TARIFF IMPLEMENTATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AIR CARGO: EU DE MINIMIS REFORM SLUMP",
-                "teaserTitle": "INLAND WATERWAYS: EUROPEAN SHALLOW WATER FLEET",
+                "headline": "USTR: FORCED LABOR TARIFF IMPLEMENTATION",
+                "teaserTitle": "GAS LOGISTICS: GOLAR FLNG EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "European air cargo volumes slumped following the total elimination of low-value import de minimis tax exemptions across twenty-seven member states. Rising landed costs are forcing digital sellers to shift lower-margin inventories toward ocean freight."
+                "narration_line": "The U.S. Trade Representative is advancing forced labor tariffs targeting sixty trading partners under Section three oh one. The enforcement replaces expiring duty frameworks and demands immediate origin verification for cross-border shipments."
             },
             {
                 "slide_index": 2,
-                "headline": "INLAND WATERWAYS: EUROPEAN SHALLOW WATER FLEET",
-                "teaserTitle": "DRY BULK: SOUTH AFRICAN CHROME ORE SURGE",
+                "headline": "GAS LOGISTICS: GOLAR FLNG EXPANSION",
+                "teaserTitle": "MARITIME WAR: BLACK SEA GRAIN DISRUPTION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "German carrier HGK urged European governments to fund a fourteen point four billion dollar program to build one thousand shallow-water barges by twenty thirty-five. Low water levels continue disrupting critical Rhine freight transit."
+                "narration_line": "Golar LNG ordered its fourth floating gas unit with CIMC Raffles to deliver three point five million tons of capacity. The vessel will strengthen long-term offshore liquefaction infrastructure when deployed in late twenty twenty-nine."
             },
             {
                 "slide_index": 3,
-                "headline": "DRY BULK: SOUTH AFRICAN CHROME ORE SURGE",
-                "teaserTitle": "MOTOR CARRIER: TRUCKING CONTRACT MINI BIDS",
+                "headline": "MARITIME WAR: BLACK SEA GRAIN DISRUPTION",
+                "teaserTitle": "MOTOR CARRIER: LAWSUIT ABUSE LEGISLATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Chrome ore has become the fastest growing dry bulk trade of twenty twenty-six due to collapsing South African domestic smelter power grids. Raw ore export surges are delivering strong rate support for supramax bulk carriers."
+                "narration_line": "Military strikes against Ukraine's Danube port of Izmail have disrupted critical Black Sea grain export infrastructure. Agricultural shippers face immediate charter rate spikes and elevated war-risk insurance costs across European waterways."
             },
             {
                 "slide_index": 4,
-                "headline": "MOTOR CARRIER: TRUCKING CONTRACT MINI BIDS",
-                "teaserTitle": "CONTAINER SHIPPING: WAN HAI ONE BILLION EXPANSION",
+                "headline": "MOTOR CARRIER: LAWSUIT ABUSE LEGISLATION",
+                "teaserTitle": "AUTO HAULING: PROFICIENT HANSEN ACQUISITION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Enterprise shippers are abandoning annual truckload contracts in favor of short-term mini-bids as carrier capacity tightens nationwide. Dynamic three-month bids help logistics managers protect network routing guide integrity against tender rejections."
+                "narration_line": "Federal lawmakers introduced legislation establishing national motor carrier safety standards to combat excessive lawsuit abuse. The bill aims to limit predatory litigation and reduce astronomical insurance costs for commercial trucking fleets."
             },
             {
                 "slide_index": 5,
-                "headline": "CONTAINER SHIPPING: WAN HAI ONE BILLION EXPANSION",
-                "teaserTitle": "TANKER FLEETS: SK SHIPPING LNG RESTRUCTURING",
+                "headline": "AUTO HAULING: PROFICIENT HANSEN ACQUISITION",
+                "teaserTitle": "SOLAR TRADE: POLYSILICON IMPORT TARIFFS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Taiwanese carrier Wan Hai Lines signed a near one billion dollar contract for eight advanced containerships at Shanghai Waigaoqiao. The carrier is deploying capital into fuel-efficient tonnage to meet upcoming international decarbonization mandates."
+                "narration_line": "Proficient Auto Logistics acquired Hansen and Adkins for one hundred thirty million dollars to expand specialized vehicle transport. The combined company becomes North America's largest car hauler, consolidating key regional terminal networks."
             },
             {
                 "slide_index": 6,
-                "headline": "TANKER FLEETS: SK SHIPPING LNG RESTRUCTURING",
-                "teaserTitle": "PORT INFRASTRUCTURE: PORT EVERGLADES CHANNEL EXPANSION",
+                "headline": "SOLAR TRADE: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "PORT NETWORK: DP WORLD EUROPEAN CUTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "South Korea's SK Shipping is doubling its liquefied natural gas fleet to thirty-two vessels through a twenty-eight ship asset exchange with H-Line. The consolidation targets rising demand for long-term energy charter coverage."
+                "narration_line": "The United States imposed a fifteen percent tariff and price floor on imported polysilicon used in chips and solar panels. Effective December fourth, the policy will drive front-loaded import volumes across international trade lanes."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT INFRASTRUCTURE: PORT EVERGLADES CHANNEL EXPANSION",
+                "headline": "PORT NETWORK: DP WORLD EUROPEAN CUTS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Port Everglades leveraged a record one hundred and eighty-two thousand deadweight ton boxship visit to demand federal harbor deepening funds. Channel depth limits currently prevent ultra-large vessels from loading to full cargo capacity."
+                "narration_line": "DP World is cutting three hundred roles as part of a major structural revamp across European terminal operations. The logistics operator is reallocating capital toward digital port automation to mitigate persistent landside bottlenecks."
             },
             {
                 "slide_index": 8,
