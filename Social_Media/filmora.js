@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "INTERMODAL: CALIFORNIA CONTAINER SURCHARGES",
-                "visual_caption": "The United States Trade Representative introduced Section 301 tariffs on 60 trading partners following the expiration of Section 122 rules. Importers face immediate compliance challenges and heightened customs checks at entry ports."
+                "headline": "AIR CARGO: EU DE MINIMIS REFORM SLUMP",
+                "teaserTitle": "INLAND WATERWAYS: EUROPEAN SHALLOW WATER FLEET",
+                "visual_caption": "European air cargo volumes slumped following the total elimination of low-value import de minimis tax exemptions across 27 member states. Rising landed costs are forcing digital sellers to shift lower-margin inventories toward ocean freight."
             },
             {
                 "slide_index": 2,
-                "headline": "INTERMODAL: CALIFORNIA CONTAINER SURCHARGES",
-                "teaserTitle": "SECURITY: TRUCK CARGO THEFT",
-                "visual_caption": "Union Pacific Railroad raised California intermodal surcharges to $1,000 per container across major rail ramps. The price surge directly increases shipping costs for cargo moving inland from West Coast ports."
+                "headline": "INLAND WATERWAYS: EUROPEAN SHALLOW WATER FLEET",
+                "teaserTitle": "DRY BULK: SOUTH AFRICAN CHROME ORE SURGE",
+                "visual_caption": "German carrier HGK urged European governments to fund a $14.4B program to build 1,000 shallow-water barges by 2035. Low water levels continue disrupting critical Rhine freight transit."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: TRUCK CARGO THEFT",
-                "teaserTitle": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
-                "visual_caption": "Cargo theft risks remain at historic highs in 2026 despite a minor Q2 dip in recorded incidents. Organized syndicates are actively targeting high-value freight using advanced fraudulent pickup tactics across freight networks."
+                "headline": "DRY BULK: SOUTH AFRICAN CHROME ORE SURGE",
+                "teaserTitle": "MOTOR CARRIER: TRUCKING CONTRACT MINI BIDS",
+                "visual_caption": "Chrome ore has become the fastest growing dry bulk trade of 2026 due to collapsing South African domestic smelter power grids. Raw ore export surges are delivering strong rate support for Supramax bulk carriers."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
-                "visual_caption": "The United States government enacted a 15% tariff on imported polysilicon used in microchips and solar hardware. The policy introduces an official import price floor taking effect on Dec 4."
+                "headline": "MOTOR CARRIER: TRUCKING CONTRACT MINI BIDS",
+                "teaserTitle": "CONTAINER SHIPPING: WAN HAI ONE BILLION EXPANSION",
+                "visual_caption": "Enterprise shippers are abandoning annual truckload contracts in favor of short-term mini-bids as carrier capacity tightens nationwide. Dynamic 3-month bids help logistics managers protect network routing guide integrity against tender rejections."
             },
             {
                 "slide_index": 5,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
-                "teaserTitle": "FLEET MERGERS: PROFICIENT AUTO ACQUISITION",
-                "visual_caption": "Industrial warehousing vacancy rates dropped 7 bps to 7.3% as market demand outpaces supply. Commercial tenants are securing extended leases to lock in rates before industrial space tightens."
+                "headline": "CONTAINER SHIPPING: WAN HAI ONE BILLION EXPANSION",
+                "teaserTitle": "TANKER FLEETS: SK SHIPPING LNG RESTRUCTURING",
+                "visual_caption": "Taiwanese carrier Wan Hai Lines signed a near-$1B contract for 8 advanced containerships at Shanghai Waigaoqiao. The carrier is deploying capital into fuel-efficient tonnage to meet upcoming international decarbonization mandates."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEET MERGERS: PROFICIENT AUTO ACQUISITION",
-                "teaserTitle": "REGULATION: FEDERAL TRUCK SAFETY LEGISLATION",
-                "visual_caption": "Proficient Auto Logistics acquired specialized car hauler Hansen & Adkins in a deal valued at $130M. The acquisition creates the largest finished vehicle transport carrier in North America."
+                "headline": "TANKER FLEETS: SK SHIPPING LNG RESTRUCTURING",
+                "teaserTitle": "PORT INFRASTRUCTURE: PORT EVERGLADES CHANNEL EXPANSION",
+                "visual_caption": "South Korea's SK Shipping is doubling its LNG fleet to 32 vessels through a 28-ship asset exchange with H-Line. The consolidation targets rising demand for long-term energy charter coverage."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: FEDERAL TRUCK SAFETY LEGISLATION",
+                "headline": "PORT INFRASTRUCTURE: PORT EVERGLADES CHANNEL EXPANSION",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Federal lawmakers introduced legislation establishing unified national motor carrier safety standards to curb frivolous lawsuits. Industry advocates expect the measure to stabilize commercial insurance costs and standardize state regulations."
+                "visual_caption": "Port Everglades leveraged a record 182,000 DWT boxship visit to demand federal harbor deepening funds. Channel depth limits currently prevent ultra-large vessels from loading to full cargo capacity."
             },
             {
                 "slide_index": 8,
