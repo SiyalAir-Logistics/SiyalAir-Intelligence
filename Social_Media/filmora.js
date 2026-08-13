@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: EUROPE SHALLOW WATER SHIPS",
-                "visual_caption": "The USTR is implementing mandatory tariffs across 60 nations under Section 301. This regulatory enforcement action creates immediate compliance friction and requires enhanced supply chain provenance verification."
+                "headline": "TRADE LAW: DE MINIMIS SUSPENSION",
+                "teaserTitle": "TRUCKING: NON-DOMICILED CDL RESTRICTIONS",
+                "visual_caption": "The trade court upheld the suspension of Section 321 de minimis exemptions. CBP confirmed over $1B in duty collections."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: EUROPE SHALLOW WATER SHIPS",
-                "teaserTitle": "TRADE POLICY: CARNEY TARIFF DEADLINE",
-                "visual_caption": "German inland shipping leadership is urging a \u20ac12.5B infrastructure investment program. The initiative aims to construct 1,000 shallow-water vessels by 2035 to counter severe waterway disruptions."
+                "headline": "TRUCKING: NON-DOMICILED CDL RESTRICTIONS",
+                "teaserTitle": "AUTO LOGISTICS: GM DISRUPTION FUND",
+                "visual_caption": "Rhode Island and Utah enacted strict curbs on non-domiciled CDLs. National driver capacity could drop by over 200K operators."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE POLICY: CARNEY TARIFF DEADLINE",
-                "teaserTitle": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
-                "visual_caption": "Washington officials have set an Aug. 19 deadline for 50% duties on $20B of Canadian goods. Cross-border carriers are actively preparing contingency routing options ahead of potential trade restrictions."
+                "headline": "AUTO LOGISTICS: GM DISRUPTION FUND",
+                "teaserTitle": "AIR FREIGHT: DHL SHENZHEN EXPANSION",
+                "visual_caption": "GM created a $4.5B liquidity facility for critical part suppliers. The program pre-funds stockpiling to prevent tier-2 manufacturing shutdowns."
             },
             {
                 "slide_index": 4,
-                "headline": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
-                "teaserTitle": "ENERGY FREIGHT: GOLAR FLNG EXPANSION",
-                "visual_caption": "Trade enforcers have deployed AI algorithms to dismantle complex shadow transshipment networks. Importers face heightened documentation scrutiny and mandatory supply chain audits at all major ports."
+                "headline": "AIR FREIGHT: DHL SHENZHEN EXPANSION",
+                "teaserTitle": "PARCEL NETWORKS: AMAZON MIDDLE-MILE MERGER",
+                "visual_caption": "DHL completed a $204M gateway expansion at Shenzhen Airport. The upgrade expands cargo sorting throughput by 50%."
             },
             {
                 "slide_index": 5,
-                "headline": "ENERGY FREIGHT: GOLAR FLNG EXPANSION",
-                "teaserTitle": "CONTAINERS: INTRA-ASIA RATE REBOUND",
-                "visual_caption": "Golar LNG has finalized an investment decision to order its fourth floating natural gas production unit. The specialized vessel will be delivered by late 2029 to capture expanding seaborne energy demand."
+                "headline": "PARCEL NETWORKS: AMAZON MIDDLE-MILE MERGER",
+                "teaserTitle": "ENERGY MARITIME: SK H-LINE MERGER",
+                "visual_caption": "Amazon combined its dedicated air and linehaul trucking divisions into a single operating unit. The restructuring unifies middle-mile routing decisions to accelerate package flows."
             },
             {
                 "slide_index": 6,
-                "headline": "CONTAINERS: INTRA-ASIA RATE REBOUND",
-                "teaserTitle": "AIR CARGO: EU DUTY FREE SHIFT",
-                "visual_caption": "Intra-Asia container spot rates have officially ended a 6-week consecutive decline due to regional port congestion. Shippers are experiencing tighter vessel slot availability and increased operational surcharges across key trade lanes."
+                "headline": "ENERGY MARITIME: SK H-LINE MERGER",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "visual_caption": "SK Shipping and H-Line combined tanker assets to form a consolidated LNG powerhouse. The transaction optimizes fleet availability across transpacific trade corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: EU DUTY FREE SHIFT",
-                "teaserTitle": "",
-                "visual_caption": "European air cargo volumes and freight rates have dropped following the elimination of low-value import tax exemptions. Forwarders are actively recalibrating network capacity to match shifting e-commerce logistics demand."
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "Uber Freight confirmed a security breach after hackers targeted nearly 1M platform files. Logistics security teams are deploying tightened API authentication protocols."
             },
             {
                 "slide_index": 8,

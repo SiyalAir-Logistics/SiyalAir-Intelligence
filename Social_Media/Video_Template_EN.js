@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR IMPOSES FORCED LABOR TARIFFS",
+        "hookTitle": "COURT UPHOLDS DE MINIMIS SUSPENSION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: EUROPE SHALLOW WATER SHIPS",
+                "headline": "TRADE LAW: DE MINIMIS SUSPENSION",
+                "teaserTitle": "TRUCKING: NON-DOMICILED CDL RESTRICTIONS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is implementing mandatory tariffs across sixty noncompliant nations under Section three oh one. This regulatory enforcement action creates immediate compliance friction and requires enhanced supply chain provenance verification."
+                "narration_line": "The trade court upheld the suspension of Section three twenty-one de minimis exemptions. Customs and Border Protection confirmed over one billion dollars in duty collections."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: EUROPE SHALLOW WATER SHIPS",
-                "teaserTitle": "TRADE POLICY: CARNEY TARIFF DEADLINE",
+                "headline": "TRUCKING: NON-DOMICILED CDL RESTRICTIONS",
+                "teaserTitle": "AUTO LOGISTICS: GM DISRUPTION FUND",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "German inland shipping leadership is urging a twelve point five billion euro infrastructure investment program. The initiative aims to construct one thousand shallow-water vessels by twenty thirty-five to counter severe waterway disruptions."
+                "narration_line": "Rhode Island and Utah enacted strict curbs on non-domiciled commercial driver licenses. National driver capacity could drop by over two hundred thousand operators."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE POLICY: CARNEY TARIFF DEADLINE",
-                "teaserTitle": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
+                "headline": "AUTO LOGISTICS: GM DISRUPTION FUND",
+                "teaserTitle": "AIR FREIGHT: DHL SHENZHEN EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Washington officials have set an August nineteenth deadline for fifty percent duties on twenty billion dollars of Canadian goods. Cross-border carriers are actively preparing contingency routing options ahead of potential trade restrictions."
+                "narration_line": "General Motors created a four point five billion dollar liquidity facility for critical part suppliers. The program pre-funds stockpiling to prevent tier-two manufacturing shutdowns."
             },
             {
                 "slide_index": 4,
-                "headline": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
-                "teaserTitle": "ENERGY FREIGHT: GOLAR FLNG EXPANSION",
+                "headline": "AIR FREIGHT: DHL SHENZHEN EXPANSION",
+                "teaserTitle": "PARCEL NETWORKS: AMAZON MIDDLE-MILE MERGER",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Trade enforcers have deployed artificial intelligence algorithms to dismantle complex shadow transshipment networks. Importers face heightened documentation scrutiny and mandatory supply chain audits at all major ports."
+                "narration_line": "DHL completed a two hundred four million dollar gateway expansion at Shenzhen Airport. The upgrade expands cargo sorting throughput by fifty percent."
             },
             {
                 "slide_index": 5,
-                "headline": "ENERGY FREIGHT: GOLAR FLNG EXPANSION",
-                "teaserTitle": "CONTAINERS: INTRA-ASIA RATE REBOUND",
+                "headline": "PARCEL NETWORKS: AMAZON MIDDLE-MILE MERGER",
+                "teaserTitle": "ENERGY MARITIME: SK H-LINE MERGER",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Golar LNG has finalized an investment decision to order its fourth floating natural gas production unit. The specialized vessel will be delivered by late twenty twenty-nine to capture expanding seaborne energy demand."
+                "narration_line": "Amazon combined its dedicated air and linehaul trucking divisions into a single operating unit. The restructuring unifies middle-mile routing decisions to accelerate package flows."
             },
             {
                 "slide_index": 6,
-                "headline": "CONTAINERS: INTRA-ASIA RATE REBOUND",
-                "teaserTitle": "AIR CARGO: EU DUTY FREE SHIFT",
+                "headline": "ENERGY MARITIME: SK H-LINE MERGER",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Intra-Asia container spot rates have officially ended a six-week consecutive decline due to regional port congestion. Shippers are experiencing tighter vessel slot availability and increased operational surcharges across key trade lanes."
+                "narration_line": "SK Shipping and H-Line combined tanker assets to form a consolidated liquefied natural gas powerhouse. The transaction optimizes fleet availability across transpacific trade corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: EU DUTY FREE SHIFT",
-                "teaserTitle": "",
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "European air cargo volumes and freight rates have dropped following the elimination of low-value import tax exemptions. Forwarders are actively recalibrating network capacity to match shifting e-commerce logistics demand."
+                "narration_line": "Uber Freight confirmed a security breach after hackers targeted nearly one million platform files. Logistics security teams are deploying tightened API authentication protocols."
             },
             {
                 "slide_index": 8,

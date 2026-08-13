@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR IMPOSES FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR moves forward with targeted tariffs on 60 trading partners as Section 122 measures expire, reshaping international trade compliance protocols."
+        "titleWhite": "DE MINIMIS",
+        "titleBlue": "SUSPENSION",
+        "footerSummary": "Federal trade court upholds the suspension of Section 321 exemptions, triggering over $1B in duty collections and tightening compliance."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "TRADE LAW: DE MINIMIS SUSPENSION",
             "points": [
-                "The Office of the United States Trade Representative announced the implementation of mandatory tariffs across 60 noncompliant nations.",
-                "The regulatory enforcement action takes effect under Section 301 of the Trade Act of 1974 following previous expiration cycles.",
-                "Global supply chain operators face increased audit friction and mandatory provenance verification for all cross-border shipments.",
-                "Importers must rapidly adapt compliance procedures to avoid severe customs holds and unpredictable border clearance delays."
+                "The U.S. Court of International Trade upheld the executive suspension of the commercial de minimis import exemption.",
+                "Customs and Border Protection confirmed the regulatory shift has generated over $1B in duty collections since implementation.",
+                "High-volume e-commerce parcel channels face mandatory formal entry processing and enhanced manifest data screening.",
+                "Cross-border retailers must overhaul fulfillment models to absorb duty tariffs and clearance administrative fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: EUROPE SHALLOW WATER SHIPS",
+            "nextUpTease": "TRUCKING: NON-DOMICILED CDL RESTRICTIONS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-13T08:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: EUROPE SHALLOW WATER SHIPS",
+            "heading": "TRUCKING: NON-DOMICILED CDL RESTRICTIONS",
             "points": [
-                "German inland shipping heavyweight HGK called for a massive government-backed investment program totaling \u20ac12.5B ($14.4B).",
-                "The initiative aims to mobilize 1,000 new shallow-water-capable cargo vessels across European inland waterways by 2035.",
-                "Regional logistics networks require modernized fleet structures to maintain freight fluidity amid persistent low-water disruptions.",
-                "Policy leaders in Berlin are urged to spearhead the infrastructure financing framework to secure continental supply lines."
+                "State licensing agencies in Rhode Island and Utah enacted strict administrative curbs on non-domiciled commercial driver licenses.",
+                "Regulatory analysts project national driver capacity reductions could exceed 200K operators as state enforcement expands.",
+                "Interstate motor carriers face immediate driver qualification audits and tightening regional long-haul labor pools.",
+                "Logistics brokers anticipate upward pressure on spot rates across contracted corridors affected by credential revocations."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: CARNEY TARIFF DEADLINE",
+            "nextUpTease": "AUTO LOGISTICS: GM DISRUPTION FUND",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T09:15:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE POLICY: CARNEY TARIFF DEADLINE",
+            "heading": "AUTO LOGISTICS: GM DISRUPTION FUND",
             "points": [
-                "U.S. trade officials established an impending August 19 deadline for sweeping 50% tariffs on approximately $20B in Canadian goods.",
-                "Negotiators navigate high-stakes diplomatic discussions to resolve long-standing trade irritants before punitive duties activate.",
-                "Cross-border freight carriers and manufacturing supply chains prepare contingency routes for potential trade flow restrictions.",
-                "North American commerce faces immediate cost inflation if bilateral resolutions fail to materialize ahead of the enforcement window."
+                "General Motors established a $4.5B liquidity safety facility designed to insulate critical tiered component manufacturing networks.",
+                "The financing mechanism pre-funds procurement cycles to enable key suppliers to stockpile essential microchips and sub-assemblies.",
+                "Automotive assembly networks aim to eliminate production stoppages caused by tier-two and tier-three component shortages.",
+                "Strategic inventory buffering marks a decisive pivot away from lean just-in-time logistics across domestic auto plants."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
+            "nextUpTease": "AIR FREIGHT: DHL SHENZHEN EXPANSION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T09:45:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-13T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
+            "heading": "AIR FREIGHT: DHL SHENZHEN EXPANSION",
             "points": [
-                "White House trade enforcers deployed advanced artificial intelligence algorithms to dismantle illicit shadow transshipment networks.",
-                "The automated system investigates multi-tier country-of-origin documentation to detect unauthorized cargo rerouting through third-party hubs.",
-                "International shipping lines and customs brokers report heightened scrutiny on industrial imports entering domestic ports.",
-                "Supply chain managers must eliminate opaque sourcing links to prevent severe regulatory penalties and seizure risks."
+                "DHL Express finalized a $204M infrastructure expansion of its central gateway facility at Shenzhen Baoan International Airport.",
+                "The upgraded logistics terminal increases sorting throughput by 50% to process surging cross-border export cargo volumes.",
+                "Enhanced direct flight connectivity accelerates transit velocity between South China manufacturing hubs and global trade destinations.",
+                "Freight forwarders secure expanded automated handling capacity for high-value express parcels and specialized tech freight."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY FREIGHT: GOLAR FLNG EXPANSION",
+            "nextUpTease": "PARCEL NETWORKS: AMAZON MIDDLE-MILE MERGER",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T10:10:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-13T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ENERGY FREIGHT: GOLAR FLNG EXPANSION",
+            "heading": "PARCEL NETWORKS: AMAZON MIDDLE-MILE MERGER",
             "points": [
-                "Golar LNG executed a final investment decision to order its fourth floating liquefied natural gas production unit.",
-                "The 3.5 mtpa MKII FLNG vessel has been contracted at China\u2019s CIMC Raffles with scheduled delivery by late 2029.",
-                "The capital expenditure strengthens seaborne energy transport capabilities to capture rising global gas demand.",
-                "Maritime energy logistics operators continue expanding offshore asset portfolios to secure long-term charter revenues."
+                "Amazon unified its dedicated air cargo and linehaul ground transportation divisions into a single middle-mile operations unit.",
+                "The organizational restructuring aims to optimize intermodal routing decisions and compress transit execution timelines.",
+                "Centralized network management eliminates operational silos across domestic air hubs and regional sorting centers.",
+                "Shippers using multi-channel logistics anticipate improved parcel injection speeds and lower per-unit linehaul overhead."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINERS: INTRA-ASIA RATE REBOUND",
+            "nextUpTease": "ENERGY MARITIME: SK H-LINE MERGER",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T10:30:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-13T08:50:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CONTAINERS: INTRA-ASIA RATE REBOUND",
+            "heading": "ENERGY MARITIME: SK H-LINE MERGER",
             "points": [
-                "Intra-Asia ocean freight spot rates officially ended a six-week consecutive decline driven by escalating regional port congestion.",
-                "Geopolitical conflicts and ongoing security disruptions around maritime chokepoints forced carriers to adjust routing strategies.",
-                "Shippers operating across Asian trade lanes face tighter vessel slot availability and increased operational surcharges.",
-                "Logistics providers recommend booking container space well in advance to mitigate unexpected spot market volatility."
+                "SK Shipping and H-Line executed an asset swap to consolidate their gas carrier fleets into a unified LNG transport powerhouse.",
+                "The consolidated entity commands enhanced vessel scheduling flexibility across transpacific and Middle Eastern energy corridors.",
+                "Global charterers face concentrated carrier capacity and shifting long-term contract pricing dynamics for specialized gas tonnage.",
+                "Maritime asset consolidation strengthens operational resilience amid fluctuating global LNG export volumes and tanker route shifts."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: EU DUTY FREE SHIFT",
+            "nextUpTease": "CYBERSECURITY: UBER FREIGHT BREACH",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-13T11:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T07:40:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: EU DUTY FREE SHIFT",
+            "heading": "CYBERSECURITY: UBER FREIGHT BREACH",
             "points": [
-                "European air cargo volumes and freight rates experienced a measurable slump following recent legislative tax reforms.",
-                "The elimination of low-value import exemptions has fundamentally altered consumer behavior and e-commerce shipping models.",
-                "Forwarders are recalibrating network capacity as high-volume retail parcel flows adjust to new customs clearance fees.",
-                "Global air carriers anticipate sustained structural changes in cross-border e-commerce logistics demand patterns."
+                "Uber Freight confirmed an active data security investigation following claims that unauthorized actors accessed one million operational records.",
+                "Digital freight brokerage platforms face intensified scrutiny regarding carrier rate transparency and proprietary routing integrity.",
+                "Transportation management systems require immediate credential rotations and multi-factor authentication enforcement.",
+                "Logistics security leaders urge enterprise shippers to audit API integration layers and isolate core freight execution databases."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-13T11:30:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-13T06:15:00Z",
                 "Status: Audited & True"
             ]
         }
