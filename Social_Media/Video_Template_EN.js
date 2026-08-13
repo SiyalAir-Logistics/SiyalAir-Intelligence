@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "UNION PACIFIC RAISES SURCHARGES",
+        "hookTitle": "TARIFFS: USTR IMPOSES SECTION 301 DUTIES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "INTERMODAL: UNION PACIFIC RAISES SURCHARGES",
-                "teaserTitle": "ACQUISITIONS: PROFICIENT BUYS HANSEN ADKINS",
+                "headline": "TARIFFS: USTR IMPOSES SECTION 301 DUTIES",
+                "teaserTitle": "DEFENSE: DENMARK EXECUTES BALTIC CONVOYS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Union Pacific raised domestic intermodal surcharges to one thousand dollars per container for California cargo. Shippers face immediate cost increases across West Coast freight corridors."
+                "narration_line": "The Office of the United States Trade Representative is implementing Section three oh one tariffs on sixty trading partners. The decision follows the expiration of Section one two two duties across global import channels."
             },
             {
                 "slide_index": 2,
-                "headline": "ACQUISITIONS: PROFICIENT BUYS HANSEN ADKINS",
-                "teaserTitle": "SHIPBUILDING: WAN HAI ORDERS CONTAINERSHIPS",
+                "headline": "DEFENSE: DENMARK EXECUTES BALTIC CONVOYS",
+                "teaserTitle": "REGULATION: EU ACTIVATES PACKAGING RULES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Proficient Auto Logistics agreed to buy Hansen and Adkins for one hundred thirty million dollars. The transaction forms the largest specialized auto transport operator in North America."
+                "narration_line": "Denmark armed forces are conducting merchant vessel convoy drills with heavy escort protection across Baltic shipping lanes. The exercises aim to secure critical maritime supply corridors against potential regional aggression."
             },
             {
                 "slide_index": 3,
-                "headline": "SHIPBUILDING: WAN HAI ORDERS CONTAINERSHIPS",
-                "teaserTitle": "ENERGY: DRONE STRIKES TARGET ZAWIYA",
+                "headline": "REGULATION: EU ACTIVATES PACKAGING RULES",
+                "teaserTitle": "SEMICONDUCTORS: US LEVIES 15% TARIFF",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Wan Hai Lines ordered eight containerships worth nearly nine hundred eighty million dollars in China. Delivery of the high capacity vessels will begin in late twenty twenty eight."
+                "narration_line": "The European Union has officially activated new sustainable packaging regulations targeting global logistics and supply chain networks. Operators must now align transport operations with strict material reuse and recycling standards."
             },
             {
                 "slide_index": 4,
-                "headline": "ENERGY: DRONE STRIKES TARGET ZAWIYA",
-                "teaserTitle": "SHIPYARDS: FLORIDA GRANTS PENSACOLA FUNDS",
+                "headline": "SEMICONDUCTORS: US LEVIES 15% TARIFF",
+                "teaserTitle": "SECURITY: DRONES HIT NOVOROSSIYSK PORT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Drone strikes targeted Libya's Zawiya energy hub threatening oil refinery output and exports. Officials warned force majeure may be declared if strikes on maritime assets continue."
+                "narration_line": "The United States government announced a fifteen percent tariff on foreign polysilicon imports starting December fourth. The procurement policy also establishes an import price floor to protect domestic solar and semiconductor supply chains."
             },
             {
                 "slide_index": 5,
-                "headline": "SHIPYARDS: FLORIDA GRANTS PENSACOLA FUNDS",
-                "teaserTitle": "OIL MARKETS: IEA WARNS STOCKPILES DROP",
+                "headline": "SECURITY: DRONES HIT NOVOROSSIYSK PORT",
+                "teaserTitle": "CONTRABAND: LA SEIZES 358 KG METH IN TRUCK",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Florida awarded a nine million dollar grant for a new shipyard facility at Port Pensacola. The naval construction project will generate two thousand high skilled manufacturing jobs."
+                "narration_line": "Ukrainian military forces launched a coordinated drone and missile strike against the Russian naval harbor in Novorossiysk. The attack damaged four warships and created elevated security risks for Black Sea commercial shipping."
             },
             {
                 "slide_index": 6,
-                "headline": "OIL MARKETS: IEA WARNS STOCKPILES DROP",
-                "teaserTitle": "EXECUTIVE: BALTIC EXCHANGE NAMES DEPUTY",
+                "headline": "CONTRABAND: LA SEIZES 358 KG METH IN TRUCK",
+                "teaserTitle": "INLAND FREIGHT: RHINE SURCHARGES SOAR",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The International Energy Agency warned global oil deficits will reach one point eight million barrels daily. Shrinking fuel inventories are driving bunker fuel price volatility for ocean carriers."
+                "narration_line": "Law enforcement officers in Louisiana seized three hundred fifty-eight kilograms of methamphetamine during an interstate truck inspection. The driver was taken into federal custody while investigators trace the commercial transport network."
             },
             {
                 "slide_index": 7,
-                "headline": "EXECUTIVE: BALTIC EXCHANGE NAMES DEPUTY",
+                "headline": "INLAND FREIGHT: RHINE SURCHARGES SOAR",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Baltic Exchange named Sigrid Teig as its new deputy chief executive officer. The move accelerates digital transformation and modern rate indexing across maritime freight markets."
+                "narration_line": "Shallow water levels on the Rhine River have forced inland barge operators to implement steep freight surcharges. Ocean shippers face severe inland transport delays connecting to major hubs in Rotterdam and Antwerp."
             },
             {
                 "slide_index": 8,

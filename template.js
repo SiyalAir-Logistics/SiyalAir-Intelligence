@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "UNION PACIFIC RAISES",
-        "titleBlue": "SURCHARGES",
-        "footerSummary": "Union Pacific increases California intermodal surcharges to $1,000 per container while market consolidation accelerates with a $130M auto-hauler acquisition."
+        "titleWhite": "USTR IMPOSES SECTION 301",
+        "titleBlue": "DUTIES",
+        "footerSummary": "USTR activates Section 301 forced labor tariffs across 60 trading partners as Section 122 duties expire, threatening immediate transpacific supply chain cost escalations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "INTERMODAL: UNION PACIFIC RAISES SURCHARGES",
+            "heading": "TARIFFS: USTR IMPOSES SECTION 301 DUTIES",
             "points": [
-                "Union Pacific Railroad increased peak season intermodal surcharges to $1,000 per container for excess domestic shipments originating in California.",
-                "The tariff adjustment aims to balance elevated container equipment demand across West Coast rail corridors during early peak volume surges.",
-                "Shippers using uncommitted spot market capacity face immediate freight cost increases across transpacific import distribution channels.",
-                "Logistics planners are reallocating container volumes to alternative intermodal gateways and motor carrier networks to mitigate cost exposure."
+                "The Office of the United States Trade Representative is moving forward with Section 301 forced labor tariffs on 60 trading partners.",
+                "This regulatory rollout coincides with the official expiration of Section 122 tariffs across global import corridors.",
+                "Importers operating across Asia-US trade routes face immediate tariff adjustments and heightened customs compliance scrutiny.",
+                "Supply chain risk managers are updating landed cost models to account for shifting enforcement guidelines at US ports of entry."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACQUISITIONS: PROFICIENT BUYS HANSEN ADKINS",
+            "nextUpTease": "DEFENSE: DENMARK EXECUTES BALTIC CONVOYS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-12T12:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-12T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ACQUISITIONS: PROFICIENT BUYS HANSEN ADKINS",
+            "heading": "DEFENSE: DENMARK EXECUTES BALTIC CONVOYS",
             "points": [
-                "Proficient Auto Logistics executed a definitive agreement to acquire Hansen & Adkins Auto Transport for $130M in cash and equity.",
-                "The transaction forms the largest specialized finished vehicle logistics carrier operating across the North American continent.",
-                "The combined fleet integration expands terminal density across 34 states while consolidating automotive OEM distribution contracts.",
-                "Industry analysts project enhanced operating margins through route optimization and unified fleet maintenance infrastructure."
+                "Denmark armed forces initiated military merchant-ship convoy exercises featuring heavy naval escort protection across Baltic Sea routes.",
+                "The tactical operations demonstrate active NATO shield defense capabilities stationed out of Camp Valdemar in Latvia.",
+                "The exercises serve to secure critical commercial maritime traffic against potential regional state-sponsored hybrid aggression.",
+                "Commercial vessel operators in Northern Europe are integrating updated naval protocol guidelines into standard operating procedures."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHIPBUILDING: WAN HAI ORDERS CONTAINERSHIPS",
+            "nextUpTease": "REGULATION: EU ACTIVATES PACKAGING RULES",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-12T11:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-12T15:42:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SHIPBUILDING: WAN HAI ORDERS CONTAINERSHIPS",
+            "heading": "REGULATION: EU ACTIVATES PACKAGING RULES",
             "points": [
-                "Taiwanese ocean carrier Wan Hai Lines placed shipbuilding orders for 8 dual-fuel containerships valued at nearly $980M.",
-                "The contract signed with Shanghai Waigaoqiao Shipbuilding includes 7 11,000 TEU vessels and 1 9,200 TEU container vessel.",
-                "Delivery schedules target deployment across transpacific and intra-Asia trade lanes starting in late 2028.",
-                "The fleet expansion reinforces long-term carrier commitment to high-capacity, energy-efficient maritime transport assets."
+                "The European Union officially activated new sustainable packaging regulations affecting cross-border logistics operations.",
+                "The legal framework imposes stringent reusability, material recovery, and waste reduction mandates on transport packaging.",
+                "Global shippers distributing consumer goods within EU member states must audit supply chain packaging compliance immediately.",
+                "Logistics service providers are deploying automated reporting tools to comply with European circular economy standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: DRONE STRIKES TARGET ZAWIYA",
+            "nextUpTease": "SEMICONDUCTORS: US LEVIES 15% TARIFF",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-12T10:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "ENERGY: DRONE STRIKES TARGET ZAWIYA",
-            "points": [
-                "A targeted drone campaign against Libya's Zawiya energy complex threatened regional oil refinery operations and crude export terminals.",
-                "National Oil Corporation officials warned of potential force majeure declarations if military strikes against maritime infrastructure continue.",
-                "Mediterranean tanker charter rates fluctuated as energy traders assessed potential export supply disruptions from North Africa.",
-                "Security teams on commercial crude carriers operating in the central Mediterranean elevated threat level awareness."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "SHIPYARDS: FLORIDA GRANTS PENSACOLA FUNDS",
-            "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-12T09:30:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "SHIPYARDS: FLORIDA GRANTS PENSACOLA FUNDS",
-            "points": [
-                "The state of Florida awarded a $9M infrastructure development grant to support a new boatbuilding shipyard at the Port of Pensacola.",
-                "The project designated as Project Maeve involves constructing two manufacturing facilities to manufacture complex naval submarine modules.",
-                "Regional economic authorities project the maritime defense industrial base expansion will generate 2,000 high-skill jobs.",
-                "Port administrators plan immediate infrastructure upgrades to support heavy manufacturing logistics and deepwater access."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "OIL MARKETS: IEA WARNS STOCKPILES DROP",
-            "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-12T16:35:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "OIL MARKETS: IEA WARNS STOCKPILES DROP",
-            "points": [
-                "International Energy Agency forecasts indicate global oil markets face a supply deficit of 1.8M barrels per day in Q3.",
-                "Depleting global crude inventories elevated energy price volatility across international shipping and aviation fuel markets.",
-                "Ocean container lines and air cargo operators monitor bunker fuel price surcharges amid tightening global supply cushions.",
-                "Logistics providers face upward pressure on operating costs as transportation fuel benchmarks rise across primary trade corridors."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "EXECUTIVE: BALTIC EXCHANGE NAMES DEPUTY",
-            "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: 2026-08-12T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 7,
-            "heading": "EXECUTIVE: BALTIC EXCHANGE NAMES DEPUTY",
+            "id": 4,
+            "heading": "SEMICONDUCTORS: US LEVIES 15% TARIFF",
             "points": [
-                "The Baltic Exchange appointed former Marcura technology executive Sigrid Teig as its new deputy chief executive officer.",
-                "The leadership appointment comes as maritime freight benchmarks integrate digital compliance and automated reporting technologies.",
-                "Teig brings extensive experience in strategic customer partnerships and digital supply chain transformation to the organization.",
-                "The executive transition aligns with broader maritime industry efforts to modernize spot rate indexing and market transparency."
+                "The US government issued an official presidential proclamation establishing a 15% tariff on foreign polysilicon imports.",
+                "The trade policy sets a mandatory import price floor effective Dec 4 targeting raw inputs for microchips and solar panels.",
+                "Technology supply chains face expanding cost structures as component manufacturers absorb duties on critical raw material inputs.",
+                "Procurement teams are evaluating domestic sourcing alternatives and secondary supplier networks ahead of the Dec 4 implementation."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "SECURITY: DRONES HIT NOVOROSSIYSK PORT",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-11T16:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "SECURITY: DRONES HIT NOVOROSSIYSK PORT",
+            "points": [
+                "Ukrainian forces launched jet-powered strike drones and Neptune missiles hitting the Russian naval harbor at Novorossiysk.",
+                "Military reports confirmed structural damage to 4 Russian warships operating within the high-risk Black Sea naval basin.",
+                "Commercial tanker and bulk carrier operations at the major Black Sea export hub face heightened threat levels and marine insurance surcharges.",
+                "Maritime security teams are recommending enhanced vessel monitoring protocols for all commercial traffic traversing nearby waters."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CONTRABAND: LA SEIZES 358 KG METH IN TRUCK",
+            "tags": [
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-12T13:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "CONTRABAND: LA SEIZES 358 KG METH IN TRUCK",
+            "points": [
+                "Louisiana State Police K9 units intercepted a commercial semi-trailer on I-12, seizing 358 kg of methamphetamine.",
+                "Federal immigration authorities placed the commercial motor vehicle driver into ICE custody following the highway interdiction.",
+                "State and federal law enforcement agencies are increasing physical highway inspections targeting illicit interstate freight movements.",
+                "Motor carriers are updating driver verification and cargo security protocols to defend against supply chain network exploitation."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "INLAND FREIGHT: RHINE SURCHARGES SOAR",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-12T11:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "INLAND FREIGHT: RHINE SURCHARGES SOAR",
+            "points": [
+                "Dropping water levels along the Rhine River forced inland waterway operators to implement emergency barge freight surcharges.",
+                "Decreased draft depth limits cargo capacity per barge, creating severe container bottlenecks at Antwerp and Rotterdam.",
+                "European hinterland shippers are shifting import volumes toward regional rail and truckload options to maintain delivery schedules.",
+                "Logistics analysts predict prolonged inland freight rate inflation as low water conditions persist through late summer."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-12T08:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         }
