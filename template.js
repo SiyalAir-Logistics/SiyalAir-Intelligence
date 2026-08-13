@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR implements Section 301 tariffs on 60 trading partners to address forced labor risks as Section 122 duties expire across global trade networks."
+        "titleWhite": "MAERSK EARNINGS",
+        "titleBlue": "SURGE",
+        "footerSummary": "Maersk raises its full-year earnings outlook following double-digit revenue growth in Q2, signaling robust demand across global maritime networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "MARITIME SHIPPING: MAERSK EARNINGS SURGE",
             "points": [
-                "The Office of the United States Trade Representative is implementing Section 301 tariffs across 60 trading nations.",
-                "The regulatory action directly addresses persistent forced labor concerns following the expiration of Section 122 tariffs.",
-                "Global importers face updated compliance obligations and revised duty structures across affected trade lanes.",
-                "Trade compliance teams must instantly audit supply chain origins to prevent costly border seizures and customs holds."
+                "AP Moller-Maersk upgraded its annual financial guidance following a powerful double-digit increase in second-quarter revenues.",
+                "Strong operational performance drove financial results well above initial Wall Street expectations for the major ocean carrier.",
+                "Increased container volumes and elevated freight rates bolstered profitability across international trade corridors.",
+                "Market analysts expect the carrier's financial momentum to influence upcoming contract negotiations across the shipping sector."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+            "nextUpTease": "TRUCKING CAPACITY: ELD PURGE CONSTRAINTS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-13T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+            "heading": "TRUCKING CAPACITY: ELD PURGE CONSTRAINTS",
             "points": [
-                "President Trump issued a formal proclamation establishing a 15% tariff on all imported polysilicon materials.",
-                "The policy directive includes an explicit import price floor designed to protect domestic solar and semiconductor supply chains.",
-                "The new duty structure takes effect on Dec 4, imposing immediate cost adjustments on high-tech manufacturing pipelines.",
-                "Procurement teams are evaluating alternative silicon suppliers to buffer operational margins against duty hikes."
+                "Federal transportation authorities are intensifying enforcement actions against noncompliant electronic logging devices across the U.S.",
+                "Werner Enterprises CEO warned that the ongoing ELD regulatory purge will introduce severe capacity constraints in the truckload sector.",
+                "Fleet operators failing safety audits face immediate vehicle groundings, tightening available spot market equipment.",
+                "Shippers should prepare for rising over-the-road freight rates as available driver capacity contracts significantly."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND FREIGHT: EUROPE SHALLOW WATER FLEET",
+            "nextUpTease": "TRADE POLICY: CANADIAN TARIFF DEADLINE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-13T09:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INLAND FREIGHT: EUROPE SHALLOW WATER FLEET",
+            "heading": "TRADE POLICY: CANADIAN TARIFF DEADLINE",
             "points": [
-                "German inland navigation firm HGK called for a \u20ac12.5B initiative to deploy 1,000 shallow-water vessels by 2035.",
-                "The fleet modernization program aims to maintain river freight capacity amid severe low-water climate events across Europe.",
-                "Climate disruptions on major corridors like the Rhine continue to threaten bulk industrial supply chain operations.",
-                "Logistics planners are prioritizing low-draft vessel investments to ensure continuous inland waterway transport liquidity."
+                "U.S. trade officials established an imminent August 19 deadline for Canada to resolve outstanding regulatory trade irritants.",
+                "Failure to meet compliance demands will trigger 50% punitive tariffs on approximately $20 billion in Canadian goods.",
+                "Cross-border supply chain operators are scrambling to accelerate shipments before the potential tariff barrier takes effect.",
+                "Automotive and industrial importers face steep cost spikes if bilateral negotiations fail to avert the proposed duties."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME RISK: BLACK SEA GRAIN DISRUPTIONS",
+            "nextUpTease": "INLAND LOGISTICS: EUROPEAN BARGE SURCHARGES",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T08:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME RISK: BLACK SEA GRAIN DISRUPTIONS",
+            "heading": "INLAND LOGISTICS: EUROPEAN BARGE SURCHARGES",
             "points": [
-                "Military strikes targeting Danube port infrastructure near Izmail have severely disrupted Black Sea grain exports.",
-                "Escalating maritime warfare continues to drive up war-risk insurance premiums for commercial carriers operating in the region.",
-                "Agricultural logistics networks face reduced export throughput and forced vessel rerouting away from active conflict zones.",
-                "Global grain traders are seeking alternative overland rail and barge corridors to bypass vulnerable Black Sea ports."
+                "Waterway logistics providers implemented steep emergency surcharges for container barges operating along the Rhine river corridor.",
+                "Persistent low water levels are restricting vessel draft capacities and slowing bulk transport movements across Europe.",
+                "Industrial manufacturers are shifting cargo from inland waterways to rail networks to prevent severe supply chain bottlenecks.",
+                "Supply chain planners must factor in escalating transit delays and added surcharges for European inbound freight."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY LOGISTICS: GOLAR FLNG ORDER",
+            "nextUpTease": "AIR CARGO: PEAK SEASON SHIFT",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T07:30:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-13T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ENERGY LOGISTICS: GOLAR FLNG ORDER",
+            "heading": "AIR CARGO: PEAK SEASON SHIFT",
             "points": [
-                "Golar LNG executed a final investment decision for its 4th floating LNG facility at China's CIMC Raffles shipyard.",
-                "The MKII FLNG vessel will deliver 3.5M metric tons per annum of liquefaction capacity upon its late 2029 completion.",
-                "Expanding offshore gas processing infrastructure strengthens global energy supply chains against onshore terminal constraints.",
-                "Energy logistics providers continue expanding off-shore LNG assets to meet long-term natural gas export demands."
+                "Air cargo forwarders reported a muted peak season volume start following recent regulatory updates on low-value European imports.",
+                "The elimination of historical de minimis tax exemptions has altered cross-border e-commerce shipping behavior globally.",
+                "Airlines are adjusting cargo capacity allocations as retail brands moderate third-quarter inventory replenishment schedules.",
+                "Logistics managers are closely monitoring air freight pricing trends ahead of traditional fourth-quarter demand spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "MIDDLE MILE: AMAZON LOGISTICS INTEGRATION",
+            "nextUpTease": "RAILROAD OPERATIONS: INTERMODAL SURCHARGES",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T07:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-13T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MIDDLE MILE: AMAZON LOGISTICS INTEGRATION",
+            "heading": "RAILROAD OPERATIONS: INTERMODAL SURCHARGES",
             "points": [
-                "Amazon combined its air freight and ground transportation operations under a single middle-mile management structure.",
-                "The organizational integration aims to accelerate operational decision-making and optimize regional package routing workflows.",
-                "Consolidated leadership will streamline multi-modal handoffs between Amazon Air gateways and fulfillment hubs.",
-                "Retail logistics operators are increasingly unifying transport modes to maximize fleet utilization and reduce transit times."
+                "Union Pacific announced plans to raise California intermodal terminal surcharges to $1,000 per box amid severe congestion.",
+                "The steep fee increase aims to deter container dwell accumulation and accelerate box velocity at major rail hubs.",
+                "Intermodal shippers face rising operational expenses as gateway congestion strains rail network fluidity.",
+                "Supply chain teams are rerouting shipments through alternative facilities to bypass high-cost California terminals."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS: CBP TARIFF REFUND PROCESSING",
+            "nextUpTease": "CUSTOMS FINANCE: TARIFF REFUND PASS-THROUGH",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-13T06:30:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-13T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CUSTOMS: CBP TARIFF REFUND PROCESSING",
+            "heading": "CUSTOMS FINANCE: TARIFF REFUND PASS-THROUGH",
             "points": [
-                "U.S. Customs and Border Protection reached $100B in total tariff refunds distributed following historical court rulings.",
-                "Despite reaching the milestone, processing capabilities for finally liquidated entries remain paused due to pending DOJ appeals.",
-                "Importers continue navigating delayed refund payouts while managing working capital tied up in unliquidated duties.",
-                "Corporate finance teams are exploring secondary market options to monetize pending refund claims and recover capital."
+                "Major parcel carriers including UPS and FedEx have begun passing historical tariff refunds directly back to commercial customers.",
+                "The financial adjustments follow extensive federal litigation regarding past customs duty collections and retroactive rebates.",
+                "Corporate finance departments are reconciling returned capital against previous supply chain compliance expenditures.",
+                "Importers should audit billing statements to ensure appropriate credit allocations from carrier refund distributions."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-13T06:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T07:00:00Z",
                 "Status: Audited & True"
             ]
         }

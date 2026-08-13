@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS IMPLEMENTED",
+        "hookTitle": "MAERSK EARNINGS SURGE DRIVES GLOBAL SHIPPING GAINS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "headline": "MARITIME SHIPPING: MAERSK EARNINGS SURGE",
+                "teaserTitle": "TRUCKING CAPACITY: ELD PURGE CONSTRAINTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "United States trade officials are implementing Section three oh one tariffs across sixty trading nations to enforce forced labor standards. Importers must review vendor documentation to prevent cargo delays as previous duties expire."
+                "narration_line": "AP Moller-Maersk upgraded its annual financial guidance following a powerful double-digit increase in second-quarter revenues. Strong operational performance drove financial results well above initial Wall Street expectations for the major ocean carrier."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
-                "teaserTitle": "INLAND FREIGHT: EUROPE SHALLOW WATER FLEET",
+                "headline": "TRUCKING CAPACITY: ELD PURGE CONSTRAINTS",
+                "teaserTitle": "TRADE POLICY: CANADIAN TARIFF DEADLINE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The federal government has established a fifteen percent tariff and price floor on imported polysilicon for solar and semiconductor manufacturing. The new policy takes effect Dec four to protect domestic technology production."
+                "narration_line": "Federal transportation authorities are intensifying enforcement actions against noncompliant electronic logging devices across the United States. Werner Enterprises warned that the ongoing regulatory purge will introduce severe capacity constraints in the truckload sector."
             },
             {
                 "slide_index": 3,
-                "headline": "INLAND FREIGHT: EUROPE SHALLOW WATER FLEET",
-                "teaserTitle": "MARITIME RISK: BLACK SEA GRAIN DISRUPTIONS",
+                "headline": "TRADE POLICY: CANADIAN TARIFF DEADLINE",
+                "teaserTitle": "INLAND LOGISTICS: EUROPEAN BARGE SURCHARGES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "German logistics provider HGK is urging a twelve point five billion euro investment program to construct one thousand shallow-water vessels. Modernizing European fleets will safeguard inland river shipping against persistent low-water disruptions."
+                "narration_line": "U.S. trade officials established an imminent August nineteenth deadline for Canada to resolve outstanding regulatory trade irritants. Failure to meet compliance demands will trigger fifty percent punitive tariffs on approximately twenty billion dollars in Canadian goods."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME RISK: BLACK SEA GRAIN DISRUPTIONS",
-                "teaserTitle": "ENERGY LOGISTICS: GOLAR FLNG ORDER",
+                "headline": "INLAND LOGISTICS: EUROPEAN BARGE SURCHARGES",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SHIFT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Military strikes near Danube River ports have disrupted agricultural exports across the Black Sea trade corridor. Shipping lines face surging war-risk insurance costs and are seeking alternative European rail routes."
+                "narration_line": "Waterway logistics providers implemented steep emergency surcharges for container barges operating along the Rhine river corridor. Persistent low water levels are restricting vessel draft capacities and slowing bulk transport movements across Europe."
             },
             {
                 "slide_index": 5,
-                "headline": "ENERGY LOGISTICS: GOLAR FLNG ORDER",
-                "teaserTitle": "MIDDLE MILE: AMAZON LOGISTICS INTEGRATION",
+                "headline": "AIR CARGO: PEAK SEASON SHIFT",
+                "teaserTitle": "RAILROAD OPERATIONS: INTERMODAL SURCHARGES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Golar LNG has ordered its fourth floating liquefied natural gas unit from CIMC Raffles shipyard in China. The project adds three point five million tons of annual capacity by late twenty twenty-nine."
+                "narration_line": "Air cargo forwarders reported a muted peak season volume start following recent regulatory updates on low-value European imports. The elimination of historical tax exemptions has altered cross-border e-commerce shipping behavior globally."
             },
             {
                 "slide_index": 6,
-                "headline": "MIDDLE MILE: AMAZON LOGISTICS INTEGRATION",
-                "teaserTitle": "CUSTOMS: CBP TARIFF REFUND PROCESSING",
+                "headline": "RAILROAD OPERATIONS: INTERMODAL SURCHARGES",
+                "teaserTitle": "CUSTOMS FINANCE: TARIFF REFUND PASS-THROUGH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon has merged its air freight and ground transportation teams into a unified middle-mile logistics organization. The restructuring accelerates strategic planning and streamlines multi-modal package movement across fulfillment networks."
+                "narration_line": "Union Pacific announced plans to raise California intermodal terminal surcharges to one thousand dollars per box amid severe congestion. The steep fee increase aims to deter container dwell accumulation and accelerate box velocity at major rail hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "CUSTOMS: CBP TARIFF REFUND PROCESSING",
+                "headline": "CUSTOMS FINANCE: TARIFF REFUND PASS-THROUGH",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Customs authorities have paid out one hundred billion dollars in tariff refunds while legal appeals stall remaining claims. Importers are turning to financial markets to monetize pending liquidations and unlock locked capital."
+                "narration_line": "Major parcel carriers including UPS and FedEx have begun passing historical tariff refunds directly back to commercial customers. The financial adjustments follow extensive federal litigation regarding past customs duty collections and retroactive rebates."
             },
             {
                 "slide_index": 8,
