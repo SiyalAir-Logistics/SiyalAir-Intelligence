@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MAERSK EARNINGS",
-        "titleBlue": "SURGE",
-        "footerSummary": "Maersk raises its full-year earnings outlook following double-digit revenue growth in Q2, signaling robust demand across global maritime networks."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR enforces Section 301 tariffs across 60 trading partners, introducing strict labor traceability audits and potential clearance delays at global gateways."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME SHIPPING: MAERSK EARNINGS SURGE",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "AP Moller-Maersk upgraded its annual financial guidance following a powerful double-digit increase in second-quarter revenues.",
-                "Strong operational performance drove financial results well above initial Wall Street expectations for the major ocean carrier.",
-                "Increased container volumes and elevated freight rates bolstered profitability across international trade corridors.",
-                "Market analysts expect the carrier's financial momentum to influence upcoming contract negotiations across the shipping sector."
+                "Office of the USTR initiated broad tariff enforcements under Section 301 of the Trade Act of 1974 across 60 trade partners.",
+                "The regulatory framework replaces expiring Section 122 tariffs with targeted import restrictions focused on verified supply chain labor compliance.",
+                "Customs authorities are deploying augmented tracing procedures to screen high-risk industrial component and retail entries at port facilities.",
+                "Global shippers expect heightened clearance holds and administrative review delays across affected international freight channels."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING CAPACITY: ELD PURGE CONSTRAINTS",
+            "nextUpTease": "MARITIME WAR: BLACK SEA GRAIN",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-13T10:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-13T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRUCKING CAPACITY: ELD PURGE CONSTRAINTS",
+            "heading": "MARITIME WAR: BLACK SEA GRAIN",
             "points": [
-                "Federal transportation authorities are intensifying enforcement actions against noncompliant electronic logging devices across the U.S.",
-                "Werner Enterprises CEO warned that the ongoing ELD regulatory purge will introduce severe capacity constraints in the truckload sector.",
-                "Fleet operators failing safety audits face immediate vehicle groundings, tightening available spot market equipment.",
-                "Shippers should prepare for rising over-the-road freight rates as available driver capacity contracts significantly."
+                "Escalating military strikes targeting Danube river infrastructure have severely disrupted regional port throughput at Izmail.",
+                "Commercial ocean bulk carriers encounter escalating operational risks and soaring war-risk premium adjustments across the Black Sea trade route.",
+                "Grain exporters are attempting emergency diversions to European overland rail links to prevent total export stagnation.",
+                "Global agricultural logistics networks face compounded transit delays and rising bulk commodity freight costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: CANADIAN TARIFF DEADLINE",
+            "nextUpTease": "INLAND SHIPPING: SHALLOW WATER FLEET",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T09:30:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-13T10:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE POLICY: CANADIAN TARIFF DEADLINE",
+            "heading": "INLAND SHIPPING: SHALLOW WATER FLEET",
             "points": [
-                "U.S. trade officials established an imminent August 19 deadline for Canada to resolve outstanding regulatory trade irritants.",
-                "Failure to meet compliance demands will trigger 50% punitive tariffs on approximately $20 billion in Canadian goods.",
-                "Cross-border supply chain operators are scrambling to accelerate shipments before the potential tariff barrier takes effect.",
-                "Automotive and industrial importers face steep cost spikes if bilateral negotiations fail to avert the proposed duties."
+                "German inland navigation group HGK urged European governments to mobilize \u20ac12.5B for low-draft vessel construction.",
+                "The targeted program seeks to deploy 1,000 shallow-water-capable barges by 2035 to overcome systemic climate-driven river low water levels.",
+                "Industrial shippers currently face recurring freight bottlenecks during seasonal draughts along vital Rhine inland waterways.",
+                "Fleet modernization aims to ensure long-term transport resilience for heavy industrial raw materials across Western Europe."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND LOGISTICS: EUROPEAN BARGE SURCHARGES",
+            "nextUpTease": "DRY BULK: CHROME ORE DEMAND",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T09:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-13T09:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INLAND LOGISTICS: EUROPEAN BARGE SURCHARGES",
+            "heading": "DRY BULK: CHROME ORE DEMAND",
             "points": [
-                "Waterway logistics providers implemented steep emergency surcharges for container barges operating along the Rhine river corridor.",
-                "Persistent low water levels are restricting vessel draft capacities and slowing bulk transport movements across Europe.",
-                "Industrial manufacturers are shifting cargo from inland waterways to rail networks to prevent severe supply chain bottlenecks.",
-                "Supply chain planners must factor in escalating transit delays and added surcharges for European inbound freight."
+                "Chrome ore emerged as the fastest-growing dry bulk commodity market in 2026 due to South Africa's domestic smelting contraction.",
+                "Shifting industrial processing dynamics have redirected vast volumes of raw, unprocessed ore onto long-haul ocean bulk routes toward Asia.",
+                "Supramax and Ultramax bulk vessel operators are reallocating tonnage to capture expanding trade volumes out of southern African ports.",
+                "Seaborne raw material supply chains are adjusting to sustained structural shifts in global metal processing capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PEAK SEASON SHIFT",
+            "nextUpTease": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-13T08:30:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-13T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR CARGO: PEAK SEASON SHIFT",
+            "heading": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
             "points": [
-                "Air cargo forwarders reported a muted peak season volume start following recent regulatory updates on low-value European imports.",
-                "The elimination of historical de minimis tax exemptions has altered cross-border e-commerce shipping behavior globally.",
-                "Airlines are adjusting cargo capacity allocations as retail brands moderate third-quarter inventory replenishment schedules.",
-                "Logistics managers are closely monitoring air freight pricing trends ahead of traditional fourth-quarter demand spikes."
+                "Federal authorities established a 15% tariff alongside a compulsory price floor on imported polysilicon effective Dec 4.",
+                "The trade directive targets upstream semiconductor and solar equipment supply chains to incentivize domestic manufacturing capability.",
+                "Technology manufacturers face potential production cost increases and procurement recalibrations ahead of the Q4 regulatory implementation.",
+                "Importers are auditing multi-tier component provenance to manage compliance obligations and avoid tariff penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILROAD OPERATIONS: INTERMODAL SURCHARGES",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "tags": [
                 "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-13T08:00:00Z",
+                "Published: 2026-08-13T08:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAILROAD OPERATIONS: INTERMODAL SURCHARGES",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "points": [
-                "Union Pacific announced plans to raise California intermodal terminal surcharges to $1,000 per box amid severe congestion.",
-                "The steep fee increase aims to deter container dwell accumulation and accelerate box velocity at major rail hubs.",
-                "Intermodal shippers face rising operational expenses as gateway congestion strains rail network fluidity.",
-                "Supply chain teams are rerouting shipments through alternative facilities to bypass high-cost California terminals."
+                "Colliers reported industrial real estate vacancies stabilized at 7.3% in Q2 as logistics space demand outpaced new deliveries.",
+                "Net absorption gains reflect steady inventory distribution requirements across key primary warehouse markets.",
+                "The tightening supply pipeline is capping rent concessions and encouraging long-term industrial lease commitments.",
+                "Logistics operators are prioritizing regional distribution hub optimization over speculative warehouse expansion plans."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS FINANCE: TARIFF REFUND PASS-THROUGH",
+            "nextUpTease": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-13T07:30:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-13T08:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CUSTOMS FINANCE: TARIFF REFUND PASS-THROUGH",
+            "heading": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
             "points": [
-                "Major parcel carriers including UPS and FedEx have begun passing historical tariff refunds directly back to commercial customers.",
-                "The financial adjustments follow extensive federal litigation regarding past customs duty collections and retroactive rebates.",
-                "Corporate finance departments are reconciling returned capital against previous supply chain compliance expenditures.",
-                "Importers should audit billing statements to ensure appropriate credit allocations from carrier refund distributions."
+                "DHL Express completed a $204M expansion of its Shenzhen air cargo gateway to augment transpacific sorting capacity.",
+                "The facility upgrade represents DHL's largest capital infrastructure investment in mainland China to support growing trade volume.",
+                "Advanced automated sorting technologies will accelerate throughput velocity for cross-border express and e-commerce shipments.",
+                "Air freight forwarders gain expanded express processing capacity along major East Asia international trade corridors."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T07:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-13T07:45:00Z",
                 "Status: Audited & True"
             ]
         }

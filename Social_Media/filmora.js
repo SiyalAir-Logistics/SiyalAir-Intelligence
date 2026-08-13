@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME SHIPPING: MAERSK EARNINGS SURGE",
-                "teaserTitle": "TRUCKING CAPACITY: ELD PURGE CONSTRAINTS",
-                "visual_caption": "AP Moller-Maersk upgraded its annual financial guidance following a powerful Q2 revenue surge. Strong operational performance drove financial results well above initial Wall Street expectations for the major ocean carrier."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME WAR: BLACK SEA GRAIN",
+                "visual_caption": "U.S. trade authorities are enforcing Section 301 tariffs across 60 nations following Section 122 expirations. Importers face mandatory labor compliance audits and clearance holds at commercial ports."
             },
             {
                 "slide_index": 2,
-                "headline": "TRUCKING CAPACITY: ELD PURGE CONSTRAINTS",
-                "teaserTitle": "TRADE POLICY: CANADIAN TARIFF DEADLINE",
-                "visual_caption": "Federal transportation authorities are intensifying enforcement actions against noncompliant ELDs across the US. Werner Enterprises warned that the ongoing regulatory purge will introduce severe capacity constraints in the truckload sector."
+                "headline": "MARITIME WAR: BLACK SEA GRAIN",
+                "teaserTitle": "INLAND SHIPPING: SHALLOW WATER FLEET",
+                "visual_caption": "Heavy military strikes against Ukrainian Danube ports have disrupted Black Sea grain exports. Commercial ocean carriers face soaring war-risk insurance premiums and critical route diversions."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE POLICY: CANADIAN TARIFF DEADLINE",
-                "teaserTitle": "INLAND LOGISTICS: EUROPEAN BARGE SURCHARGES",
-                "visual_caption": "US trade officials established an imminent Aug 19 deadline for Canada to resolve outstanding regulatory trade irritants. Failure to meet compliance demands will trigger 50% punitive tariffs on roughly $20B in Canadian goods."
+                "headline": "INLAND SHIPPING: SHALLOW WATER FLEET",
+                "teaserTitle": "DRY BULK: CHROME ORE DEMAND",
+                "visual_caption": "German logistics operator HGK called for \u20ac12.5B to build 1,000 shallow-water ships by 2035. The fleet upgrade addresses low water delays on European rivers."
             },
             {
                 "slide_index": 4,
-                "headline": "INLAND LOGISTICS: EUROPEAN BARGE SURCHARGES",
-                "teaserTitle": "AIR CARGO: PEAK SEASON SHIFT",
-                "visual_caption": "Waterway logistics providers implemented steep emergency surcharges for container barges operating along the Rhine river corridor. Persistent low water levels are restricting vessel draft capacities and slowing bulk transport movements across Europe."
+                "headline": "DRY BULK: CHROME ORE DEMAND",
+                "teaserTitle": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "visual_caption": "Chrome ore has become the fastest growing dry bulk commodity trade following South African smelting disruptions. Vessel operators are reallocating bulk carriers to serve expanding Asian raw material import demand."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: PEAK SEASON SHIFT",
-                "teaserTitle": "RAILROAD OPERATIONS: INTERMODAL SURCHARGES",
-                "visual_caption": "Air cargo forwarders reported a muted peak season volume start following recent regulatory updates on low-value European imports. The elimination of historical tax exemptions has altered cross-border e-commerce shipping behavior globally."
+                "headline": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "visual_caption": "Federal regulators announced a 15% tariff and import price floor on polysilicon effective Dec 4. Semiconductor and solar manufacturers are re-evaluating upstream component sourcing to mitigate compliance risks."
             },
             {
                 "slide_index": 6,
-                "headline": "RAILROAD OPERATIONS: INTERMODAL SURCHARGES",
-                "teaserTitle": "CUSTOMS FINANCE: TARIFF REFUND PASS-THROUGH",
-                "visual_caption": "Union Pacific announced plans to raise California intermodal terminal surcharges to $1K per box amid severe congestion. The steep fee increase aims to deter container dwell accumulation and accelerate box velocity at major rail hubs."
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "teaserTitle": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
+                "visual_caption": "Industrial real estate vacancy rates stabilized at 7.3% as space demand outpaced new warehouse construction. Supply chain operators are locking in long term leases across primary logistics hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "CUSTOMS FINANCE: TARIFF REFUND PASS-THROUGH",
+                "headline": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Major parcel carriers including UPS and FedEx have begun passing historical tariff refunds directly back to commercial customers. The financial adjustments follow extensive federal litigation regarding past customs duty collections and retroactive rebates."
+                "visual_caption": "DHL Express finalized a $204M expansion of its Shenzhen air cargo gateway. The hub upgrade significantly boosts throughput velocity for cross-border express freight across Asia."
             },
             {
                 "slide_index": 8,

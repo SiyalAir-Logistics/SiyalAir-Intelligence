@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "MAERSK EARNINGS SURGE DRIVES GLOBAL SHIPPING GAINS",
+        "hookTitle": "FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME SHIPPING: MAERSK EARNINGS SURGE",
-                "teaserTitle": "TRUCKING CAPACITY: ELD PURGE CONSTRAINTS",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME WAR: BLACK SEA GRAIN",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "AP Moller-Maersk upgraded its annual financial guidance following a powerful double-digit increase in second-quarter revenues. Strong operational performance drove financial results well above initial Wall Street expectations for the major ocean carrier."
+                "narration_line": "United States trade authorities are enforcing Section three oh one tariffs across sixty nations following the expiration of Section one twenty two. Importers face mandatory labor compliance audits and clearance holds at commercial ports."
             },
             {
                 "slide_index": 2,
-                "headline": "TRUCKING CAPACITY: ELD PURGE CONSTRAINTS",
-                "teaserTitle": "TRADE POLICY: CANADIAN TARIFF DEADLINE",
+                "headline": "MARITIME WAR: BLACK SEA GRAIN",
+                "teaserTitle": "INLAND SHIPPING: SHALLOW WATER FLEET",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Federal transportation authorities are intensifying enforcement actions against noncompliant electronic logging devices across the United States. Werner Enterprises warned that the ongoing regulatory purge will introduce severe capacity constraints in the truckload sector."
+                "narration_line": "Heavy military strikes against Ukrainian Danube ports have disrupted Black Sea grain exports. Commercial ocean carriers face soaring war risk insurance premiums and critical route diversions."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE POLICY: CANADIAN TARIFF DEADLINE",
-                "teaserTitle": "INLAND LOGISTICS: EUROPEAN BARGE SURCHARGES",
+                "headline": "INLAND SHIPPING: SHALLOW WATER FLEET",
+                "teaserTitle": "DRY BULK: CHROME ORE DEMAND",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "U.S. trade officials established an imminent August nineteenth deadline for Canada to resolve outstanding regulatory trade irritants. Failure to meet compliance demands will trigger fifty percent punitive tariffs on approximately twenty billion dollars in Canadian goods."
+                "narration_line": "German logistics operator H G K called for twelve point five billion euros to build one thousand shallow water ships by twenty thirty five. The fleet upgrade addresses low water delays on European rivers."
             },
             {
                 "slide_index": 4,
-                "headline": "INLAND LOGISTICS: EUROPEAN BARGE SURCHARGES",
-                "teaserTitle": "AIR CARGO: PEAK SEASON SHIFT",
+                "headline": "DRY BULK: CHROME ORE DEMAND",
+                "teaserTitle": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Waterway logistics providers implemented steep emergency surcharges for container barges operating along the Rhine river corridor. Persistent low water levels are restricting vessel draft capacities and slowing bulk transport movements across Europe."
+                "narration_line": "Chrome ore has become the fastest growing dry bulk commodity trade following South African smelting disruptions. Vessel operators are reallocating bulk carriers to serve expanding Asian raw material import demand."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: PEAK SEASON SHIFT",
-                "teaserTitle": "RAILROAD OPERATIONS: INTERMODAL SURCHARGES",
+                "headline": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Air cargo forwarders reported a muted peak season volume start following recent regulatory updates on low-value European imports. The elimination of historical tax exemptions has altered cross-border e-commerce shipping behavior globally."
+                "narration_line": "Federal regulators announced a fifteen percent tariff and import price floor on polysilicon effective December fourth. Semiconductor and solar manufacturers are re-evaluating upstream component sourcing to mitigate compliance risks."
             },
             {
                 "slide_index": 6,
-                "headline": "RAILROAD OPERATIONS: INTERMODAL SURCHARGES",
-                "teaserTitle": "CUSTOMS FINANCE: TARIFF REFUND PASS-THROUGH",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "teaserTitle": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Union Pacific announced plans to raise California intermodal terminal surcharges to one thousand dollars per box amid severe congestion. The steep fee increase aims to deter container dwell accumulation and accelerate box velocity at major rail hubs."
+                "narration_line": "Industrial real estate vacancy rates stabilized at seven point three percent as space demand outpaced new warehouse construction. Supply chain operators are locking in long term leases across primary logistics hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "CUSTOMS FINANCE: TARIFF REFUND PASS-THROUGH",
+                "headline": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Major parcel carriers including UPS and FedEx have begun passing historical tariff refunds directly back to commercial customers. The financial adjustments follow extensive federal litigation regarding past customs duty collections and retroactive rebates."
+                "narration_line": "D H L Express finalized a two hundred and four million dollar expansion of its Shenzhen air cargo gateway. The hub upgrade significantly boosts throughput velocity for cross border express freight across Asia."
             },
             {
                 "slide_index": 8,
