@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR TARIFF",
-        "titleBlue": "IMPLEMENTATION",
-        "footerSummary": "USTR enforcement of Section 301 forced labor tariffs on 60 nations triggers mandatory supply chain origin audits and duty recalibrations for global importers."
+        "titleWhite": "INDIA RESTORES CABOTAGE",
+        "titleBlue": "WAIVER",
+        "footerSummary": "India restores the cabotage waiver for foreign carriers to enhance transshipment liquidity and stabilize port networks against persistent Red Sea routing disruptions."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFF IMPLEMENTATION",
+            "heading": "MARITIME: INDIA RESTORES CABOTAGE WAIVER",
             "points": [
-                "The Office of the U.S. Trade Representative moved forward with targeted tariffs on 60 trading partners under Section 301.",
-                "The action targets forced labor non-compliance as existing Section 122 baseline duties reach their statutory expiration.",
-                "Importers face heightened border audits and strict supply chain origin verification across cross-border manufacturing networks.",
-                "Trade compliance teams expect customs clearance delays and elevated duty assessments through Q4 2026."
+                "India officially restored its cabotage waiver for foreign carriers to bolster transshipment efficiency across domestic hub ports.",
+                "The policy shift accommodates carriers recalibrating service loops due to ongoing Red Sea security risks and Suez Canal diversions.",
+                "Container transshipment through Indian terminals has surged as shipping lines seek stable routings amidst global supply chain volatility.",
+                "Port operators and vessel planners anticipate improved cargo fluidity and reduced turnaround times across regional gateway nodes."
             ],
             "imageUrl": "",
-            "nextUpTease": "GAS LOGISTICS: GOLAR FLNG EXPANSION",
+            "nextUpTease": "RAIL SURCHARGES: UNION PACIFIC TARIFFS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-13T09:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "GAS LOGISTICS: GOLAR FLNG EXPANSION",
-            "points": [
-                "Golar LNG issued a final investment decision to construct its 4th floating LNG unit with CIMC Raffles shipyard.",
-                "The 3.5M ton per annum MKII FLNG vessel is scheduled for commercial delivery by late 2029.",
-                "The expansion doubles specialized off-take capacity to satisfy long-term Asian natural gas transportation mandates.",
-                "Energy logistics operators expect sustained demand for deepwater liquefaction infrastructure amid tight global energy supplies."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME WAR: BLACK SEA GRAIN DISRUPTION",
-            "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T08:30:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MARITIME WAR: BLACK SEA GRAIN DISRUPTION",
-            "points": [
-                "Military strikes hit Ukraine's Danube port of Izmail, inflicting severe operational damage on regional grain export hubs.",
-                "Escalating Black Sea maritime warfare has compromised critical bulk river transit routes and port loading facilities.",
-                "Agricultural commodity traders report immediate charter rate spikes and severe war-risk insurance premium surcharges.",
-                "Global grain logistics planners anticipate severe export backlogs across Eastern European maritime corridors."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MOTOR CARRIER: LAWSUIT ABUSE LEGISLATION",
-            "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.joc.com",
                 "Published: 2026-08-13T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 4,
-            "heading": "MOTOR CARRIER: LAWSUIT ABUSE LEGISLATION",
+            "id": 2,
+            "heading": "RAIL SURCHARGES: UNION PACIFIC TARIFFS",
             "points": [
-                "Lawmakers introduced federal legislation establishing national motor carrier safety standards to curb frivolous lawsuits.",
-                "The bill targets multi-million dollar nuclear verdicts that have driven commercial truck insurance premiums to historic highs.",
-                "Proponents argue uniform safety benchmarks will insulate compliant motor carriers against predatory litigation tactics.",
-                "Logistics operators expect lower insurance overhead and improved margin stability across long-haul freight fleets."
+                "Union Pacific implemented a significant rate adjustment, raising California intermodal surcharges to $1,000 per box.",
+                "The fee increases reflect tightening domestic rail capacity and rising inland transport overhead across West Coast corridors.",
+                "Intermodal shippers face immediate cost pressures as railroads manage surging container volumes during the early peak season.",
+                "Supply chain managers are evaluating alternative routing strategies to mitigate escalating overland freight expenditures."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTO HAULING: PROFICIENT HANSEN ACQUISITION",
+            "nextUpTease": "RETAIL IMPORTS: NRF FORECAST REVISION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-12T16:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-13T07:30:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "RETAIL IMPORTS: NRF FORECAST REVISION",
+            "points": [
+                "The National Retail Federation reported that U.S. retailers have downgraded their July import volume forecasts significantly.",
+                "Despite softer midsummer projections, the end-of-year outlook remains bullish as businesses prepare for holiday demand.",
+                "Earlier front-loading of inventory ahead of threatened trade tariffs distorted traditional seasonal shipping cadences.",
+                "Supply chain executives expect steady container throughput to resume as retailers balance inventory levels for Q4."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PARCEL RATES: USPS SURCHARGE ADJUSTMENT",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: 2026-08-13T07:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "PARCEL RATES: USPS SURCHARGE ADJUSTMENT",
+            "points": [
+                "The United States Postal Service escalated Ground Advantage package rates for marketplace sellers to offset rising operating costs.",
+                "The rate adjustments align postal pricing structures with shifting contractual obligations and private carrier competition.",
+                "E-commerce merchants face tighter shipping margins as logistics providers pass on inflation and labor expenses.",
+                "Online retailers are aggressively optimizing multi-carrier shipping strategies to protect consumer pricing competitiveness."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RETAIL LOGISTICS: ETSY RESTRUCTURING",
+            "tags": [
+                "Source: https://www.ecommercebytes.com",
+                "Published: 2026-08-13T06:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AUTO HAULING: PROFICIENT HANSEN ACQUISITION",
+            "heading": "RETAIL LOGISTICS: ETSY RESTRUCTURING",
             "points": [
-                "Proficient Auto Logistics finalized a $130M acquisition of Hansen & Adkins Auto Transport to expand car-hauling capacity.",
-                "The transaction creates the largest specialized finished-vehicle auto hauler across the North American freight network.",
-                "The combined fleet consolidates regional terminal assets and strengthens specialized distribution contracts with major automotive OEMs.",
-                "Industry analysts project increased market power and optimized route density for finished-vehicle logistics in 2026."
+                "Etsy announced a corporate restructuring plan resulting in 200 layoffs following the strategic divestment of Depop for $1.4B.",
+                "The capital infusion aims to streamline core marketplace operations and optimize digital infrastructure for sellers.",
+                "Marketplace operators are aggressively cutting overhead costs to navigate slowing discretionary consumer spending.",
+                "Platform vendors expect leaner internal teams to accelerate technological deployment across cross-border seller tools."
             ],
             "imageUrl": "",
-            "nextUpTease": "SOLAR TRADE: POLYSILICON IMPORT TARIFFS",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-12T15:00:00Z",
+                "Source: https://www.ecommercebytes.com",
+                "Published: 2026-08-13T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SOLAR TRADE: POLYSILICON IMPORT TARIFFS",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
             "points": [
-                "The U.S. government issued a proclamation establishing a 15% import tariff on foreign polysilicon components.",
-                "Effective December 4, 2026, the mandate enforces an import price floor on raw inputs for solar panels and semiconductor chips.",
-                "Domestic manufacturers face elevated component costs while foreign suppliers adjust global sourcing routes.",
-                "Supply chain planners expect front-loaded import shipments prior to the Q4 regulatory compliance deadline."
+                "Colliers reported that the U.S. industrial real estate vacancy rate reached 7.3% in Q2, stabilizing as demand outpaced new supply.",
+                "The modest 7 basis point sequential decline signals a healthy re-balancing of the warehouse and logistics property market.",
+                "Developers have moderated speculative construction starts in response to elevated financing costs and tightening capital.",
+                "Supply chain occupiers are securing long-term leases in prime distribution hubs to protect against future capacity crunches."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT NETWORK: DP WORLD EUROPEAN CUTS",
+            "nextUpTease": "PORT INFRASTRUCTURE: PORT EVERGLADES DRAFT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-12T14:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-12T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORT NETWORK: DP WORLD EUROPEAN CUTS",
+            "heading": "PORT INFRASTRUCTURE: PORT EVERGLADES DRAFT",
             "points": [
-                "DP World initiated an operational restructuring plan resulting in 300 overhead role eliminations across European terminals.",
-                "The corporate overhaul aims to streamline administrative functions and offset persistent landside port congestion.",
-                "Terminal operators continue reallocating capital toward automated container handling systems and digital port infrastructure.",
-                "Supply chain executives expect leaner regional port operations as trade routes adapt to shifting global demand."
+                "Port Everglades marked the arrival of its largest container vessel, the 182,000 dwt MSC Vandya, highlighting cargo growth.",
+                "Port officials utilized the milestone to urge federal acceleration of the long-delayed Navigation Improvements Project.",
+                "Deaper harbor channels are required to accommodate ultra-large container ships and prevent regional cargo bottlenecks.",
+                "Maritime logistics planners emphasize that channel enhancements are vital to maintaining competitive Florida trade gateways."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-13T07:15:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-12T14:00:00Z",
                 "Status: Audited & True"
             ]
         }

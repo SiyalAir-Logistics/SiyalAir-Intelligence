@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFF IMPLEMENTATION",
-                "teaserTitle": "GAS LOGISTICS: GOLAR FLNG EXPANSION",
-                "visual_caption": "The U.S. Trade Representative is advancing forced labor tariffs targeting 60 trading partners under Section 301. The enforcement replaces expiring duty frameworks and demands immediate origin verification for cross-border shipments."
+                "headline": "MARITIME: INDIA RESTORES CABOTAGE WAIVER",
+                "teaserTitle": "RAIL SURCHARGES: UNION PACIFIC TARIFFS",
+                "visual_caption": "India has restored its cabotage waiver for foreign carriers to enhance transshipment efficiency. This policy shift accommodates shipping lines recalibrating service loops due to ongoing Red Sea security risks."
             },
             {
                 "slide_index": 2,
-                "headline": "GAS LOGISTICS: GOLAR FLNG EXPANSION",
-                "teaserTitle": "MARITIME WAR: BLACK SEA GRAIN DISRUPTION",
-                "visual_caption": "Golar LNG ordered its 4th floating gas unit with CIMC Raffles to deliver 3.5M tons of capacity. The vessel will strengthen long-term offshore liquefaction infrastructure when deployed in late 2029."
+                "headline": "RAIL SURCHARGES: UNION PACIFIC TARIFFS",
+                "teaserTitle": "RETAIL IMPORTS: NRF FORECAST REVISION",
+                "visual_caption": "Union Pacific raised its California intermodal surcharges to $1,000 per box. The fee increases reflect tightening domestic rail capacity and rising inland transport overhead."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME WAR: BLACK SEA GRAIN DISRUPTION",
-                "teaserTitle": "MOTOR CARRIER: LAWSUIT ABUSE LEGISLATION",
-                "visual_caption": "Military strikes against Ukraine's Danube port of Izmail have disrupted critical Black Sea grain export infrastructure. Agricultural shippers face immediate charter rate spikes and elevated war-risk insurance costs across European waterways."
+                "headline": "RETAIL IMPORTS: NRF FORECAST REVISION",
+                "teaserTitle": "PARCEL RATES: USPS SURCHARGE ADJUSTMENT",
+                "visual_caption": "The National Retail Federation reports that U.S. retailers have downgraded their July import volume forecasts. Despite softer midsummer projections, the end-of-year outlook remains bullish for holiday demand."
             },
             {
                 "slide_index": 4,
-                "headline": "MOTOR CARRIER: LAWSUIT ABUSE LEGISLATION",
-                "teaserTitle": "AUTO HAULING: PROFICIENT HANSEN ACQUISITION",
-                "visual_caption": "Federal lawmakers introduced legislation establishing national motor carrier safety standards to combat excessive lawsuit abuse. The bill aims to limit predatory litigation and reduce astronomical insurance costs for commercial trucking fleets."
+                "headline": "PARCEL RATES: USPS SURCHARGE ADJUSTMENT",
+                "teaserTitle": "RETAIL LOGISTICS: ETSY RESTRUCTURING",
+                "visual_caption": "The United States Postal Service escalated Ground Advantage package rates for marketplace sellers. E-commerce merchants face tighter shipping margins as logistics providers pass on inflation expenses."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTO HAULING: PROFICIENT HANSEN ACQUISITION",
-                "teaserTitle": "SOLAR TRADE: POLYSILICON IMPORT TARIFFS",
-                "visual_caption": "Proficient Auto Logistics acquired Hansen & Adkins for $130M to expand specialized vehicle transport. The combined company becomes North America's largest car hauler, consolidating key regional terminal networks."
+                "headline": "RETAIL LOGISTICS: ETSY RESTRUCTURING",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "visual_caption": "Etsy announced a corporate restructuring plan resulting in 200 layoffs following a divestment. The $1.4B capital infusion aims to streamline core marketplace operations and optimize digital tools."
             },
             {
                 "slide_index": 6,
-                "headline": "SOLAR TRADE: POLYSILICON IMPORT TARIFFS",
-                "teaserTitle": "PORT NETWORK: DP WORLD EUROPEAN CUTS",
-                "visual_caption": "The U.S. imposed a 15% tariff and price floor on imported polysilicon used in chips and solar panels. Effective Dec 4, the policy will drive front-loaded import volumes across international trade lanes."
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "teaserTitle": "PORT INFRASTRUCTURE: PORT EVERGLADES DRAFT",
+                "visual_caption": "Colliers reported that the U.S. industrial real estate vacancy rate reached 7.3% in Q2. The modest decline signals a healthy re-balancing of the warehouse property market."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT NETWORK: DP WORLD EUROPEAN CUTS",
+                "headline": "PORT INFRASTRUCTURE: PORT EVERGLADES DRAFT",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "DP World is cutting 300 roles as part of a major structural revamp across European terminal operations. The logistics operator is reallocating capital toward digital port automation to mitigate persistent landside bottlenecks."
+                "visual_caption": "Port Everglades celebrated the arrival of its largest container vessel, the 182,000 dwt MSC Vandya. Officials used the milestone to urge federal acceleration of crucial channel improvement projects."
             },
             {
                 "slide_index": 8,
