@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AUTO LOGISTICS: HANSEN ADKINS ACQUISITION",
-                "teaserTitle": "FLEET EXPANSION: LNG TANKER SWAP",
-                "visual_caption": "Proficient Auto Logistics has acquired Hansen & Adkins for $130M. The transaction creates North America's largest specialized finished vehicle carrier."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "RAIL FREIGHT: UNION PACIFIC SURCHARGES",
+                "visual_caption": "The USTR is implementing forced labor tariffs across 60 trading partners. The regulatory action coincides with the scheduled expiration of Section 122 trade levies."
             },
             {
                 "slide_index": 2,
-                "headline": "FLEET EXPANSION: LNG TANKER SWAP",
-                "teaserTitle": "CONTAINER SHIPPING: WAN HAI SHIPBUILDING",
-                "visual_caption": "SK Shipping completed a 28-vessel fleet swap with H-Line Shipping. The deal doubles its LNG fleet to 32 carriers."
+                "headline": "RAIL FREIGHT: UNION PACIFIC SURCHARGES",
+                "teaserTitle": "OCEAN SHIPPING: MAERSK PROFIT SURGE",
+                "visual_caption": "Union Pacific raised its California intermodal terminal surcharges to $1,000 per box. The steep fee increase targets severe equipment imbalances and container congestion."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINER SHIPPING: WAN HAI SHIPBUILDING",
-                "teaserTitle": "CYBERSECURITY: CEVA WAREHOUSE BREACH",
-                "visual_caption": "Wan Hai Lines ordered 8 containerships from Shanghai Waigaoqiao for $980M. The expansion targets high-volume transpacific ocean trade lanes."
+                "headline": "OCEAN SHIPPING: MAERSK PROFIT SURGE",
+                "teaserTitle": "TRUCKLOAD SECURITY: LOUISIANA METH SEIZURE",
+                "visual_caption": "Maersk shares jumped 7% following an earnings report that beat consensus profit estimates. Sustained import volume growth prompted the carrier to raise its full-year outlook."
             },
             {
                 "slide_index": 4,
-                "headline": "CYBERSECURITY: CEVA WAREHOUSE BREACH",
-                "teaserTitle": "SHIPBUILDING: PENSACOLA INFRASTRUCTURE GRANT",
-                "visual_caption": "Ceva Logistics suffered a major cyber breach across European warehouse networks. The incident interrupted fulfillment operations for retail and commercial supply chains."
+                "headline": "TRUCKLOAD SECURITY: LOUISIANA METH SEIZURE",
+                "teaserTitle": "MARITIME RISK: BLACK SEA GRAIN THREATS",
+                "visual_caption": "A highway traffic stop in Louisiana uncovered 358 kilos of methamphetamine in a semi-trailer. Law enforcement officials placed the commercial driver into federal ICE custody."
             },
             {
                 "slide_index": 5,
-                "headline": "SHIPBUILDING: PENSACOLA INFRASTRUCTURE GRANT",
-                "teaserTitle": "AEROSPACE LOGISTICS: BOEING DRONE SALE",
-                "visual_caption": "Florida awarded a $9M grant for Project Maeve at Pensacola. The facility will build naval modules and generate 2,000 maritime jobs."
+                "headline": "MARITIME RISK: BLACK SEA GRAIN THREATS",
+                "teaserTitle": "FEDERAL REGULATION: FMC DETENTION POLICY",
+                "visual_caption": "Intensified military strikes against Black Sea ports have severely disrupted regional grain export operations. Marine insurers are rapidly restricting war-risk coverage across lanes."
             },
             {
                 "slide_index": 6,
-                "headline": "AEROSPACE LOGISTICS: BOEING DRONE SALE",
-                "teaserTitle": "MARITIME REGULATION: FMC CIVIL PENALTIES",
-                "visual_caption": "Boeing sold its Wisk autonomous drone and flying taxi divisions to Archer Aviation. The deal consolidates next generation aerial technology under Archer's flight portfolio."
+                "headline": "FEDERAL REGULATION: FMC DETENTION POLICY",
+                "teaserTitle": "TRADE POLICY: CHINA POLYMER TARIFFS",
+                "visual_caption": "The federal appeals court upheld an FMC decision requiring detention fees to promote freight fluidity. Ocean carriers must ensure penalty fees incentivize timely cargo retrieval."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME REGULATION: FMC CIVIL PENALTIES",
+                "headline": "TRADE POLICY: CHINA POLYMER TARIFFS",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "The Federal Maritime Commission collected $1.9M in civil penalties from a shipping line. The enforcement action targeted direct violations of the Shipping Act."
+                "visual_caption": "The White House imposed a 15% tariff on polysilicon imports for chips and solar power. The new trade levy and import price floor will officially take effect on Dec. 4."
             },
             {
                 "slide_index": 8,
