@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE LAW: DE MINIMIS SUSPENSION",
-                "teaserTitle": "TRUCKING: NON-DOMICILED CDL RESTRICTIONS",
-                "visual_caption": "The trade court upheld the suspension of Section 321 de minimis exemptions. CBP confirmed over $1B in duty collections."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "INLAND SHIPPING: SHALLOW WATER PROGRAM",
+                "visual_caption": "The USTR is implementing Section 301 tariffs across 60 trading partners. Importers of apparel and industrial goods face intensified origin documentation reviews."
             },
             {
                 "slide_index": 2,
-                "headline": "TRUCKING: NON-DOMICILED CDL RESTRICTIONS",
-                "teaserTitle": "AUTO LOGISTICS: GM DISRUPTION FUND",
-                "visual_caption": "Rhode Island and Utah enacted strict curbs on non-domiciled CDLs. National driver capacity could drop by over 200K operators."
+                "headline": "INLAND SHIPPING: SHALLOW WATER PROGRAM",
+                "teaserTitle": "TRADE ENFORCEMENT: AI TRANSSHIPMENT TRACKING",
+                "visual_caption": "Inland operator HGK called for a $14.4B program to build 1,000 shallow-water vessels. Low river levels continue pushing cargo onto congested landside transport."
             },
             {
                 "slide_index": 3,
-                "headline": "AUTO LOGISTICS: GM DISRUPTION FUND",
-                "teaserTitle": "AIR FREIGHT: DHL SHENZHEN EXPANSION",
-                "visual_caption": "GM created a $4.5B liquidity facility for critical part suppliers. The program pre-funds stockpiling to prevent tier-2 manufacturing shutdowns."
+                "headline": "TRADE ENFORCEMENT: AI TRANSSHIPMENT TRACKING",
+                "teaserTitle": "INDUSTRIAL PROPERTY: VACANCY RATE STABILIZATION",
+                "visual_caption": "Federal trade officials deployed AI models to identify illicit transshipment hubs. Border authorities are utilizing automated manifest screening to intercept high-risk freight."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR FREIGHT: DHL SHENZHEN EXPANSION",
-                "teaserTitle": "PARCEL NETWORKS: AMAZON MIDDLE-MILE MERGER",
-                "visual_caption": "DHL completed a $204M gateway expansion at Shenzhen Airport. The upgrade expands cargo sorting throughput by 50%."
+                "headline": "INDUSTRIAL PROPERTY: VACANCY RATE STABILIZATION",
+                "teaserTitle": "SOLAR LOGISTICS: POLYSILICON IMPORT DUTIES",
+                "visual_caption": "Industrial vacancy rates dropped 7 bps to 7.3% during Q2. Strong net tenant absorption has tightened availability for major logistics facilities."
             },
             {
                 "slide_index": 5,
-                "headline": "PARCEL NETWORKS: AMAZON MIDDLE-MILE MERGER",
-                "teaserTitle": "ENERGY MARITIME: SK H-LINE MERGER",
-                "visual_caption": "Amazon combined its dedicated air and linehaul trucking divisions into a single operating unit. The restructuring unifies middle-mile routing decisions to accelerate package flows."
+                "headline": "SOLAR LOGISTICS: POLYSILICON IMPORT DUTIES",
+                "teaserTitle": "RAIL MERGERS: STATE OPPOSITION BRIEF",
+                "visual_caption": "Trade regulators established a 15% tariff on polysilicon components starting Dec 4. Clean energy supply chains must adjust sourcing budgets for solar and semiconductor imports."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY MARITIME: SK H-LINE MERGER",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "visual_caption": "SK Shipping and H-Line combined tanker assets to form a consolidated LNG powerhouse. The transaction optimizes fleet availability across transpacific trade corridors."
+                "headline": "RAIL MERGERS: STATE OPPOSITION BRIEF",
+                "teaserTitle": "MARITIME TONNAGE: WAN HAI EXPANSION",
+                "visual_caption": "6 state attorneys general filed formal opposition against the proposed UP-NS rail combination. Regulators cited severe competitive risks for regional agricultural and intermodal shippers."
             },
             {
                 "slide_index": 7,
-                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "headline": "MARITIME TONNAGE: WAN HAI EXPANSION",
                 "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Uber Freight confirmed a security breach after hackers targeted nearly 1M platform files. Logistics security teams are deploying tightened API authentication protocols."
+                "visual_caption": "Wan Hai Lines placed a near-$1B order for 8 new container vessels. The modern tonnage expands dedicated carrier allocations across vital transpacific ocean routes."
             },
             {
                 "slide_index": 8,
