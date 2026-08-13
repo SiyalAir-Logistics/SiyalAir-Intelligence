@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR IMPOSES SECTION 301",
-        "titleBlue": "DUTIES",
-        "footerSummary": "USTR activates Section 301 forced labor tariffs across 60 trading partners as Section 122 duties expire, threatening immediate transpacific supply chain cost escalations."
+        "titleWhite": "PANAMA CANAL AUCTION PRICES",
+        "titleBlue": "SOAR",
+        "footerSummary": "Panama Canal transit auction bids reach record highs as severe water deficits and Middle East rerouting force ocean carriers into high-cost transit bidding."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFFS: USTR IMPOSES SECTION 301 DUTIES",
+            "heading": "MARITIME: PANAMA CANAL AUCTION PRICES SOAR",
             "points": [
-                "The Office of the United States Trade Representative is moving forward with Section 301 forced labor tariffs on 60 trading partners.",
-                "This regulatory rollout coincides with the official expiration of Section 122 tariffs across global import corridors.",
-                "Importers operating across Asia-US trade routes face immediate tariff adjustments and heightened customs compliance scrutiny.",
-                "Supply chain risk managers are updating landed cost models to account for shifting enforcement guidelines at US ports of entry."
+                "Transit auction prices at the Panama Canal reached record levels as severe drought conditions continue reducing daily vessel passage allocations.",
+                "Heightened Asian import demand combined with Suez Canal diversions has created an immediate queue of over 113 waiting vessels.",
+                "Container lines are paying multimillion-dollar auction surcharges to bypass mounting bottlenecks and meet US East Coast arrival windows.",
+                "Supply chain planners are adjusting landed cost forecasts as persistent draft restrictions reduce maximum cargo slot utilization."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEFENSE: DENMARK EXECUTES BALTIC CONVOYS",
+            "nextUpTease": "SECURITY: RED SEA ATTACK KILLS SIX",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-12T14:15:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-12T15:07:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DEFENSE: DENMARK EXECUTES BALTIC CONVOYS",
+            "heading": "SECURITY: RED SEA ATTACK KILLS SIX",
             "points": [
-                "Denmark armed forces initiated military merchant-ship convoy exercises featuring heavy naval escort protection across Baltic Sea routes.",
-                "The tactical operations demonstrate active NATO shield defense capabilities stationed out of Camp Valdemar in Latvia.",
-                "The exercises serve to secure critical commercial maritime traffic against potential regional state-sponsored hybrid aggression.",
-                "Commercial vessel operators in Northern Europe are integrating updated naval protocol guidelines into standard operating procedures."
+                "Commercial merchant shipping sustained lethal missile strikes near the Bab al-Mandab Strait resulting in 6 confirmed seafarer fatalities.",
+                "The attack marks a severe escalation in Middle East maritime transit hazards affecting major Asia-Europe container lanes.",
+                "Global ocean carriers are rerouting additional vessel loops around the Cape of Good Hope to maintain crew and cargo safety.",
+                "Insurance underwriters are reviewing red sea war risk surcharges as geopolitical hostility spreads across regional transit bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: EU ACTIVATES PACKAGING RULES",
+            "nextUpTease": "RAIL: UP RAISES SURCHARGES TO $1,000",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-12T15:42:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-12T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REGULATION: EU ACTIVATES PACKAGING RULES",
+            "heading": "RAIL: UP RAISES SURCHARGES TO $1,000",
             "points": [
-                "The European Union officially activated new sustainable packaging regulations affecting cross-border logistics operations.",
-                "The legal framework imposes stringent reusability, material recovery, and waste reduction mandates on transport packaging.",
-                "Global shippers distributing consumer goods within EU member states must audit supply chain packaging compliance immediately.",
-                "Logistics service providers are deploying automated reporting tools to comply with European circular economy standards."
+                "Union Pacific announced mandatory intermodal surcharge increases reaching $1,000 per container for key California outbound rail ramps.",
+                "The rate adjustments respond to heavy West Coast import surges as shippers frontload holiday inventory ahead of peak season.",
+                "Inland freight networks are experiencing equipment imbalances and lengthened dwell times across major midwestern logistics hubs.",
+                "Intermodal marketing companies are advising cargo owners to secure domestic capacity early to avoid compounding spot surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "SEMICONDUCTORS: US LEVIES 15% TARIFF",
+            "nextUpTease": "FLEET: WAN HAI ORDERS 8 CONTAINERSHIPS",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-12T14:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-12T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SEMICONDUCTORS: US LEVIES 15% TARIFF",
+            "heading": "FLEET: WAN HAI ORDERS 8 CONTAINERSHIPS",
             "points": [
-                "The US government issued an official presidential proclamation establishing a 15% tariff on foreign polysilicon imports.",
-                "The trade policy sets a mandatory import price floor effective Dec 4 targeting raw inputs for microchips and solar panels.",
-                "Technology supply chains face expanding cost structures as component manufacturers absorb duties on critical raw material inputs.",
-                "Procurement teams are evaluating domestic sourcing alternatives and secondary supplier networks ahead of the Dec 4 implementation."
+                "Taiwanese carrier Wan Hai Lines signed newbuilding contracts worth up to $980M for 8 advanced container vessels in Shanghai.",
+                "The expansion order includes 7 11,000 TEU units and 1 9,200 TEU vessel destined for transpacific and intra-Asia trade lanes.",
+                "Ocean carriers continue expanding fleet capacity to replace aging tonnage and meet long-term environmental efficiency targets.",
+                "Shipyard orderbooks remain elevated through 2028 as global ocean lines lock in newbuild deliveries across major Asian yards."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: DRONES HIT NOVOROSSIYSK PORT",
+            "nextUpTease": "AIR FREIGHT: EU ENDS DE MINIMIS EXEMPTION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-11T16:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-12T11:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SECURITY: DRONES HIT NOVOROSSIYSK PORT",
+            "heading": "AIR FREIGHT: EU ENDS DE MINIMIS EXEMPTION",
             "points": [
-                "Ukrainian forces launched jet-powered strike drones and Neptune missiles hitting the Russian naval harbor at Novorossiysk.",
-                "Military reports confirmed structural damage to 4 Russian warships operating within the high-risk Black Sea naval basin.",
-                "Commercial tanker and bulk carrier operations at the major Black Sea export hub face heightened threat levels and marine insurance surcharges.",
-                "Maritime security teams are recommending enhanced vessel monitoring protocols for all commercial traffic traversing nearby waters."
+                "Air cargo freight rates and total volume experienced an immediate drop following the European Union's duty-free tax reform implementation.",
+                "The legal update officially eliminated the low-value de minimis customs exemption for direct-to-consumer cross-border shipments.",
+                "Global e-commerce platforms are restructuring fulfillment models and carrier contracts to handle mandatory duty processing.",
+                "Customs brokers across major European air hubs report increased paperwork processing requirements and potential clearance friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTRABAND: LA SEIZES 358 KG METH IN TRUCK",
+            "nextUpTease": "AUTO LOGISTICS: PROFICIENT BUYS HANSEN FOR $130M",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-12T13:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-12T13:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CONTRABAND: LA SEIZES 358 KG METH IN TRUCK",
+            "heading": "AUTO LOGISTICS: PROFICIENT BUYS HANSEN FOR $130M",
             "points": [
-                "Louisiana State Police K9 units intercepted a commercial semi-trailer on I-12, seizing 358 kg of methamphetamine.",
-                "Federal immigration authorities placed the commercial motor vehicle driver into ICE custody following the highway interdiction.",
-                "State and federal law enforcement agencies are increasing physical highway inspections targeting illicit interstate freight movements.",
-                "Motor carriers are updating driver verification and cargo security protocols to defend against supply chain network exploitation."
+                "Proficient Auto Logistics finalized a definitive agreement to acquire Hansen & Adkins Auto Transport for $130M in cash and stock.",
+                "The transaction establishes North America's largest specialized finished vehicle carrier with extensive nationwide fleet coverage.",
+                "Automotive supply chains gain expanded hauling capacity across OEM assembly plants, processing ports, and regional railheads.",
+                "Logistics consolidation in specialized trucking sectors continues as operators seek scale efficiency and improved fleet utilization."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND FREIGHT: RHINE SURCHARGES SOAR",
+            "nextUpTease": "SEMICONDUCTORS: GE DEEPENS TI CHIP SPEND",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-12T11:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-12T12:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INLAND FREIGHT: RHINE SURCHARGES SOAR",
+            "heading": "SEMICONDUCTORS: GE DEEPENS TI CHIP SPEND",
             "points": [
-                "Dropping water levels along the Rhine River forced inland waterway operators to implement emergency barge freight surcharges.",
-                "Decreased draft depth limits cargo capacity per barge, creating severe container bottlenecks at Antwerp and Rotterdam.",
-                "European hinterland shippers are shifting import volumes toward regional rail and truckload options to maintain delivery schedules.",
-                "Logistics analysts predict prolonged inland freight rate inflation as low water conditions persist through late summer."
+                "GE Appliances announced an expanded strategic sourcing agreement with Texas Instruments to bolster critical microchip supply continuity.",
+                "The initiative addresses ongoing global semiconductor supply constraints impacting industrial and consumer manufacturing lines.",
+                "Direct procurement commitments allow component buyers to lock in multi-year production schedules and minimize allocation risks.",
+                "Supply chain executives across advanced manufacturing sectors are shifting from spot procurement to direct long-term foundry contracts."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-12T10:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-12T10:30:00Z",
                 "Status: Audited & True"
             ]
         }
