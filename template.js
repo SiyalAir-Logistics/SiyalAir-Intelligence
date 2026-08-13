@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR initiates sweeping Section 301 tariffs targeting 60 trading nations as federal enforcement expands supply chain compliance scrutiny."
+        "titleWhite": "DE MINIMIS EXEMPTION",
+        "titleBlue": "RULING",
+        "footerSummary": "Federal trade court upholds de minimis suspension as customs collects over $1B in duties and global supply chains restructure compliance."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "TRADE POLICY: DE MINIMIS EXEMPTION RULING",
             "points": [
-                "The Office of the U.S. Trade Representative confirmed new tariff measures targeting 60 trading partners under Section 301 authority.",
-                "The administrative determination follows the expiration of Section 122 tariffs and focuses on unverified overseas labor standards.",
-                "Importers across apparel, solar components, and raw industrial goods face enhanced entry scrutiny and documentation burdens at ports of entry.",
-                "Customs compliance directors are accelerating third-party vendor audits to safeguard tier-one manufacturing networks from sudden border holds."
+                "The U.S. Court of International Trade upheld executive actions suspending the Section 321 de minimis tariff exemption for commercial e-commerce shipments.",
+                "U.S. Customs and Border Protection confirmed the regulatory closure generated over $1B in duty payments following strict cross-border parcel screening.",
+                "Cross-border direct-to-consumer merchants face mandatory entry filings and formal customs clearance fees on all inbound low-value parcels.",
+                "Supply chain operators are transitioning fulfillment workflows toward bonded warehouse hubs to manage duty deferral and bulk entry processing."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND SHIPPING: SHALLOW WATER PROGRAM",
+            "nextUpTease": "AUTOMOTIVE SUPPLY: GM COMPONENT SAFETY FUND",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-13T13:30:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INLAND SHIPPING: SHALLOW WATER PROGRAM",
+            "heading": "AUTOMOTIVE SUPPLY: GM COMPONENT SAFETY FUND",
             "points": [
-                "German inland logistics operator HGK proposed a $14.4B government-backed initiative to construct 1,000 shallow-water vessels by 2035.",
-                "The fleet renewal initiative addresses chronic low-water bottlenecks across critical European arterial waterways including the Rhine.",
-                "Barge draft constraints have increased regional transport surcharges and forced cargo diversions toward congested rail and road networks.",
-                "Shippers moving industrial bulk commodities across Western Europe face sustained modal cost inflation until climate-resilient tonnage deploys."
+                "General Motors finalized a $4.5B supply chain financing reserve to pre-fund critical component inventory and stabilize tier-one manufacturing partners.",
+                "The capital facility provides key automotive suppliers with upfront liquidity to stockpile microchips, specialized alloys, and electronic subsystems.",
+                "Tier-one parts suppliers are utilizing dedicated credit allocations to build a 60-day buffer of high-risk subcomponents against regional supplier halts.",
+                "Procurement executives view pre-funded supplier liquidity as an essential operational safeguard against upstream manufacturing bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE ENFORCEMENT: AI TRANSSHIPMENT TRACKING",
+            "nextUpTease": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T12:45:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-13T13:50:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE ENFORCEMENT: AI TRANSSHIPMENT TRACKING",
+            "heading": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
             "points": [
-                "The White House Trade Office deployed predictive artificial intelligence models to uncover shadow transshipment networks across multiple export hubs.",
-                "Federal investigators identified routing anomalies designed to evade country-of-origin tariffs through third-party intermediate processing centers.",
-                "Customs enforcement teams are prioritizing algorithmic cargo manifests to trigger automated holds on high-risk intermediate consignments.",
-                "Multi-national supply chain operators must re-validate bill-of-lading lineage to avoid punitive anti-circumvention penalties."
+                "DHL Express completed a $204M facility expansion at its primary Shenzhen air gateway, marking its largest single infrastructure investment in South China.",
+                "The upgraded hub expands total sorting and processing capacity to handle accelerated outbound cross-border parcel volumes across Asia-Pacific corridors.",
+                "Air freight forwarders benefit from automated high-speed customs screening lines and dedicated widebody freighter turnaround slots.",
+                "Export shippers moving high-tech equipment and cross-border electronics gain improved transit reliability across transpacific air corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRIAL PROPERTY: VACANCY RATE STABILIZATION",
+            "nextUpTease": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T11:15:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-13T13:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INDUSTRIAL PROPERTY: VACANCY RATE STABILIZATION",
+            "heading": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
             "points": [
-                "Colliers reported North American industrial real estate vacancy fell 7 bps to 7.3% in Q2 as net tenant absorption outpaced new warehouse supply.",
-                "The inventory stabilization follows sustained square footage pullbacks by industrial developers across major port-adjacent logistics corridors.",
-                "Enterprise distributors are securing long-term lease renewals to protect regional staging footprints ahead of anticipated peak season volume surges.",
-                "Logistics network planners face tightening availability for high-throughput fulfillment centers above 500K square feet."
+                "State transportation authorities in Rhode Island and Utah implemented strict new eligibility constraints on non-domiciled commercial driver's licenses.",
+                "Industry analysts project state-level licensing crackdowns could remove over 200K foreign commercial truck drivers from U.S. freight corridors.",
+                "Motor carriers operating cross-border dry van and refrigerated fleets face acute driver shortages and climbing driver recruitment overhead.",
+                "Freight brokers and enterprise shippers must prepare for tightening over-the-road truckload capacity across core industrial freight lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "SOLAR LOGISTICS: POLYSILICON IMPORT DUTIES",
+            "nextUpTease": "ENERGY SHIPPING: SK H-LINE TANKER SWAP",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-13T10:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T12:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SOLAR LOGISTICS: POLYSILICON IMPORT DUTIES",
+            "heading": "ENERGY SHIPPING: SK H-LINE TANKER SWAP",
             "points": [
-                "Federal trade authorities enacted a 15% tariff alongside a minimum import price floor on polysilicon materials effective Dec 4.",
-                "The protective procurement action targets upstream solar cell and semiconductor wafer components sourced from overseas manufacturing hubs.",
-                "Clean energy project developers face upward component procurement cost adjustments and recalibrated installation timelines through 2027.",
-                "Supply chain procurement directors are actively diversifying tier-two silicon sourcing toward non-restricted domestic and regional processors."
+                "South Korea's SK Shipping concluded a 28-vessel fleet reorganization with sister operator H-Line Shipping to consolidate dedicated energy transport capacity.",
+                "The asset swap doubles SK Shipping's specialized liquefied natural gas carrier fleet to 32 dedicated vessels operating on long-term charters.",
+                "Private equity owner Hahn & Co restructured tonnage to capitalize on surging long-haul LNG export volumes moving from North America to Asian markets.",
+                "Energy charterers gain expanded long-term vessel availability as international carriers consolidate specialized cryogenic maritime assets."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL MERGERS: STATE OPPOSITION BRIEF",
+            "nextUpTease": "TARIFF RECOVERY: CORPORATE DUTY REFUNDS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-13T09:20:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-13T11:40:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAIL MERGERS: STATE OPPOSITION BRIEF",
+            "heading": "TARIFF RECOVERY: CORPORATE DUTY REFUNDS",
             "points": [
-                "Six state attorneys general submitted formal joint filings opposing the proposed Union Pacific and Norfolk Southern railroad combination.",
-                "Regulators argued the transcontinental merger would degrade competitive pricing power for agricultural, industrial, and intermodal freight shippers.",
-                "The Surface Transportation Board faces growing state-level pressure to enforce strict public interest conditions before approving consolidation.",
-                "Intermodal freight buyers must maintain flexible routing contingency plans across alternative motor carrier and regional rail networks."
+                "Major enterprise importers including Kimberly-Clark and Nintendo secured over $345M in customs tariff refunds from federal trade authorities.",
+                "The capital recoveries follow judicial rulings invalidating specific emergency trade levies and allowing retroactive tariff drawdowns.",
+                "Retailers and consumer goods manufacturers are actively monetizing secondary refund rights to offset sustained freight rate inflation.",
+                "Corporate finance teams are establishing dedicated customs audit units to accelerate trade duty recovery claims across multi-year import filings."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME TONNAGE: WAN HAI EXPANSION",
+            "nextUpTease": "FREIGHT SECURITY: UBER FREIGHT DATA BREACH",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-13T08:30:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-13T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME TONNAGE: WAN HAI EXPANSION",
+            "heading": "FREIGHT SECURITY: UBER FREIGHT DATA BREACH",
             "points": [
-                "Wan Hai Lines committed near-$1B in new capital expenditures to order 8 container vessels from Shanghai Waigaoqiao Shipbuilding.",
-                "The fleet expansion program accelerates vessel replacement cycles and boosts long-term container capacity across primary intra-Asia and transpacific corridors.",
-                "Shipyards report extending delivery backlogs through late 2028 as international liner operators upgrade dual-fuel propulsion capabilities.",
-                "Ocean freight forwarders expect strategic capacity additions to maintain stable medium-term vessel slot allocations across high-demand export lanes."
+                "Uber Freight confirmed a widespread cybersecurity incident after threat actors claimed unauthorized extraction of nearly 1M internal logistics files.",
+                "The compromised data repository reportedly contains carrier rate agreements, shipper bill-of-lading records, and facility operational logs.",
+                "Third-party logistics providers are executing emergency security reviews of integrated digital brokerage application programming interfaces.",
+                "Enterprise cargo owners are mandating end-to-end data encryption and credential rotations across connected freight-matching platforms."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T07:15:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-13T09:30:00Z",
                 "Status: Audited & True"
             ]
         }

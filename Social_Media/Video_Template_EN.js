@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR EXPANDS SECTION 301 TARIFF ACTIONS",
+        "hookTitle": "DE MINIMIS TARIFF CRACKDOWN",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "INLAND SHIPPING: SHALLOW WATER PROGRAM",
+                "headline": "TRADE POLICY: DE MINIMIS EXEMPTION RULING",
+                "teaserTitle": "AUTOMOTIVE SUPPLY: GM COMPONENT SAFETY FUND",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is implementing Section three oh one tariffs across sixty trading partners. Importers of apparel and industrial goods face intensified origin documentation reviews."
+                "narration_line": "The United States trade court upheld the federal suspension of the low-value de minimis customs exemption. Border enforcement collected over one billion dollars in duties as direct-to-consumer e-commerce import models face permanent operational restructuring."
             },
             {
                 "slide_index": 2,
-                "headline": "INLAND SHIPPING: SHALLOW WATER PROGRAM",
-                "teaserTitle": "TRADE ENFORCEMENT: AI TRANSSHIPMENT TRACKING",
+                "headline": "AUTOMOTIVE SUPPLY: GM COMPONENT SAFETY FUND",
+                "teaserTitle": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Inland operator HGK called for a fourteen point four billion dollar program to build one thousand shallow water vessels. Low river levels continue pushing cargo onto congested landside transport."
+                "narration_line": "General Motors established a four point five billion dollar financing safety fund to pre-fund vital supplier components. The emergency capital facility safeguards tier-one automotive assembly lines against persistent parts shortages and component bottlenecks."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE ENFORCEMENT: AI TRANSSHIPMENT TRACKING",
-                "teaserTitle": "INDUSTRIAL PROPERTY: VACANCY RATE STABILIZATION",
+                "headline": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
+                "teaserTitle": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal trade officials deployed artificial intelligence models to identify illicit transshipment hubs. Border authorities are utilizing automated manifest screening to intercept high-risk freight."
+                "narration_line": "DHL Express completed a two hundred and four million dollar expansion of its primary gateway hub in Shenzhen. The facility upgrade accelerates South China air cargo processing capacity to support expanding cross-border trade lanes."
             },
             {
                 "slide_index": 4,
-                "headline": "INDUSTRIAL PROPERTY: VACANCY RATE STABILIZATION",
-                "teaserTitle": "SOLAR LOGISTICS: POLYSILICON IMPORT DUTIES",
+                "headline": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
+                "teaserTitle": "ENERGY SHIPPING: SK H-LINE TANKER SWAP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Industrial vacancy rates dropped seven basis points to seven point three percent during the second quarter. Strong net tenant absorption has tightened availability for major logistics facilities."
+                "narration_line": "Rhode Island and Utah enacted strict state restrictions on non-domiciled commercial driver licenses. Transportation analysts project the regulatory clampdown could sideline over two hundred thousand cross-border drivers and tighten freight capacity."
             },
             {
                 "slide_index": 5,
-                "headline": "SOLAR LOGISTICS: POLYSILICON IMPORT DUTIES",
-                "teaserTitle": "RAIL MERGERS: STATE OPPOSITION BRIEF",
+                "headline": "ENERGY SHIPPING: SK H-LINE TANKER SWAP",
+                "teaserTitle": "TARIFF RECOVERY: CORPORATE DUTY REFUNDS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Trade regulators established a fifteen percent tariff on polysilicon components starting December fourth. Clean energy supply chains must adjust sourcing budgets for solar and semiconductor imports."
+                "narration_line": "South Korea's SK Shipping agreed to a twenty-eight vessel fleet reshuffle with H-Line Shipping. The transaction doubles their liquefied natural gas carrier fleet to thirty-two vessels to capture expanding Asian energy routes."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL MERGERS: STATE OPPOSITION BRIEF",
-                "teaserTitle": "MARITIME TONNAGE: WAN HAI EXPANSION",
+                "headline": "TARIFF RECOVERY: CORPORATE DUTY REFUNDS",
+                "teaserTitle": "FREIGHT SECURITY: UBER FREIGHT DATA BREACH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Six state attorneys general filed formal opposition against the proposed Union Pacific Norfolk Southern rail combination. Regulators cited severe competitive risks for regional agricultural and intermodal shippers."
+                "narration_line": "Enterprise manufacturers including Kimberly-Clark and Nintendo secured hundreds of millions of dollars in federal tariff refunds. The capital recoveries offset rising logistics inflation as retailers aggressively monetize secondary duty refund claims."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME TONNAGE: WAN HAI EXPANSION",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "FREIGHT SECURITY: UBER FREIGHT DATA BREACH",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Wan Hai Lines placed a near one billion dollar order for eight new container vessels. The modern tonnage expands dedicated carrier allocations across vital transpacific ocean routes."
+                "narration_line": "Uber Freight confirmed a major cybersecurity incident after hackers claimed unauthorized access to nearly one million logistics files. Enterprise shippers are tightening API authentication protocols across third-party digital freight brokerage networks."
             },
             {
                 "slide_index": 8,
