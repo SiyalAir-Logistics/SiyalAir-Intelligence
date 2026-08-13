@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR IMPLEMENTS FORCED LABOR TARIFFS",
+        "hookTitle": "SECOND-HALF SHIPPING OUTLOOK",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "RAIL FREIGHT: UNION PACIFIC SURCHARGES",
+                "headline": "YANG MING: SHIPPING OUTLOOK",
+                "teaserTitle": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is implementing forced labor tariffs across sixty trading partners. The regulatory action coincides with the scheduled expiration of section one twenty two trade levies."
+                "narration_line": "Yang Ming reported that second quarter earnings outperformed prior periods due to surging cargo demand. The revenue jump was driven by an early peak shipping season and elevated spot freight rates."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL FREIGHT: UNION PACIFIC SURCHARGES",
-                "teaserTitle": "OCEAN SHIPPING: MAERSK PROFIT SURGE",
+                "headline": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
+                "teaserTitle": "CONTAINER SHIPPING: WAN HAI ORDERS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Union Pacific has raised its California intermodal terminal surcharges to one thousand dollars per box. The steep fee increase targets severe equipment imbalances and growing container congestion."
+                "narration_line": "Severe summer heat waves and shallow water levels on the Rhine River have triggered sharp barge surcharge hikes. Transport operators are restricting vessel loads, which threatens to create major bottlenecks at European ports."
             },
             {
                 "slide_index": 3,
-                "headline": "OCEAN SHIPPING: MAERSK PROFIT SURGE",
-                "teaserTitle": "TRUCKLOAD SECURITY: LOUISIANA METH SEIZURE",
+                "headline": "CONTAINER SHIPPING: WAN HAI ORDERS",
+                "teaserTitle": "AIR CARGO: EU REFORM IMPACT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Maersk shares jumped seven percent following an earnings report that beat consensus profit estimates. Sustained import volume growth prompted the carrier to raise its full-year financial outlook."
+                "narration_line": "Taiwanese carrier Wan Hai Lines signed a massive contract for eight new containerships valued at nearly one billion dollars. The fleet expansion aims to modernize transpacific and intra-Asian service loops ahead of upcoming environmental rules."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKLOAD SECURITY: LOUISIANA METH SEIZURE",
-                "teaserTitle": "MARITIME RISK: BLACK SEA GRAIN THREATS",
+                "headline": "AIR CARGO: EU REFORM IMPACT",
+                "teaserTitle": "TRUCKLOAD CAPACITY: MINIBID SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A highway traffic stop in Louisiana uncovered three hundred fifty eight kilos of methamphetamine in a semi trailer. Law enforcement officials placed the commercial driver into federal immigration custody."
+                "narration_line": "Air cargo rates and volumes dropped sharply following the implementation of European Union duty-free tax reforms. The elimination of the de minimis exemption has fundamentally altered cross-border e-commerce logistics behavior."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME RISK: BLACK SEA GRAIN THREATS",
-                "teaserTitle": "FEDERAL REGULATION: FMC DETENTION POLICY",
+                "headline": "TRUCKLOAD CAPACITY: MINIBID SURGE",
+                "teaserTitle": "MARITIME SECURITY: RED SEA TRANSITS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Intensified military strikes against Black Sea ports have severely disrupted regional grain export operations. Marine insurers are rapidly restricting war risk coverage across contested shipping lanes."
+                "narration_line": "North American shippers are increasingly abandoning annual contracts in favor of short-term mini-bids to secure trucks. This shift highlights widening capacity gaps and rising spot rates across domestic distribution networks."
             },
             {
                 "slide_index": 6,
-                "headline": "FEDERAL REGULATION: FMC DETENTION POLICY",
-                "teaserTitle": "TRADE POLICY: CHINA POLYMER TARIFFS",
+                "headline": "MARITIME SECURITY: RED SEA TRANSITS",
+                "teaserTitle": "LOGISTICS LABOR: DP WORLD EUROPE RESTRUCTURING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The federal appeals court upheld an FMC decision requiring detention fees to promote freight fluidity. Ocean carriers must ensure penalty fees actively incentivize timely cargo retrieval by shippers."
+                "narration_line": "Cosco has resumed booking acceptances for vessels navigating through the high-risk Red Sea maritime corridor. Marine insurers are responding by rapidly pulling back war-risk coverage across the entire region."
             },
             {
                 "slide_index": 7,
-                "headline": "TRADE POLICY: CHINA POLYMER TARIFFS",
+                "headline": "LOGISTICS LABOR: DP WORLD EUROPE RESTRUCTURING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The White House has imposed a fifteen percent tariff on polysilicon imports for semiconductors and solar power. The new trade levy and import price floor will officially take effect on December fourth."
+                "narration_line": "DP World announced plans to eliminate three hundred positions as part of a broad European restructuring strategy. The workforce reduction focuses on streamlining terminal operations and accelerating digital automation."
             },
             {
                 "slide_index": 8,

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "RAIL FREIGHT: UNION PACIFIC SURCHARGES",
-                "visual_caption": "The USTR is implementing forced labor tariffs across 60 trading partners. The regulatory action coincides with the scheduled expiration of Section 122 trade levies."
+                "headline": "YANG MING: SHIPPING OUTLOOK",
+                "teaserTitle": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
+                "visual_caption": "Yang Ming reported that Q2 earnings outperformed prior periods due to surging cargo demand. The revenue jump was driven by an early peak shipping season and elevated spot freight rates."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL FREIGHT: UNION PACIFIC SURCHARGES",
-                "teaserTitle": "OCEAN SHIPPING: MAERSK PROFIT SURGE",
-                "visual_caption": "Union Pacific raised its California intermodal terminal surcharges to $1,000 per box. The steep fee increase targets severe equipment imbalances and container congestion."
+                "headline": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
+                "teaserTitle": "CONTAINER SHIPPING: WAN HAI ORDERS",
+                "visual_caption": "Severe summer heat waves and shallow water levels on the Rhine River have triggered sharp barge surcharge hikes. Transport operators are restricting vessel loads, which threatens to create major bottlenecks at European ports."
             },
             {
                 "slide_index": 3,
-                "headline": "OCEAN SHIPPING: MAERSK PROFIT SURGE",
-                "teaserTitle": "TRUCKLOAD SECURITY: LOUISIANA METH SEIZURE",
-                "visual_caption": "Maersk shares jumped 7% following an earnings report that beat consensus profit estimates. Sustained import volume growth prompted the carrier to raise its full-year outlook."
+                "headline": "CONTAINER SHIPPING: WAN HAI ORDERS",
+                "teaserTitle": "AIR CARGO: EU REFORM IMPACT",
+                "visual_caption": "Taiwanese carrier Wan Hai Lines signed a massive contract for 8 new containerships valued at $980M. The fleet expansion aims to modernize transpacific and intra-Asian service loops ahead of upcoming environmental rules."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKLOAD SECURITY: LOUISIANA METH SEIZURE",
-                "teaserTitle": "MARITIME RISK: BLACK SEA GRAIN THREATS",
-                "visual_caption": "A highway traffic stop in Louisiana uncovered 358 kilos of methamphetamine in a semi-trailer. Law enforcement officials placed the commercial driver into federal ICE custody."
+                "headline": "AIR CARGO: EU REFORM IMPACT",
+                "teaserTitle": "TRUCKLOAD CAPACITY: MINIBID SURGE",
+                "visual_caption": "Air cargo rates and volumes dropped sharply following the implementation of EU duty-free tax reforms. The elimination of the de minimis exemption has fundamentally altered cross-border e-commerce logistics behavior."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME RISK: BLACK SEA GRAIN THREATS",
-                "teaserTitle": "FEDERAL REGULATION: FMC DETENTION POLICY",
-                "visual_caption": "Intensified military strikes against Black Sea ports have severely disrupted regional grain export operations. Marine insurers are rapidly restricting war-risk coverage across lanes."
+                "headline": "TRUCKLOAD CAPACITY: MINIBID SURGE",
+                "teaserTitle": "MARITIME SECURITY: RED SEA TRANSITS",
+                "visual_caption": "North American shippers are increasingly abandoning annual contracts in favor of short-term mini-bids to secure trucks. This shift highlights widening capacity gaps and rising spot rates across domestic distribution networks."
             },
             {
                 "slide_index": 6,
-                "headline": "FEDERAL REGULATION: FMC DETENTION POLICY",
-                "teaserTitle": "TRADE POLICY: CHINA POLYMER TARIFFS",
-                "visual_caption": "The federal appeals court upheld an FMC decision requiring detention fees to promote freight fluidity. Ocean carriers must ensure penalty fees incentivize timely cargo retrieval."
+                "headline": "MARITIME SECURITY: RED SEA TRANSITS",
+                "teaserTitle": "LOGISTICS LABOR: DP WORLD EUROPE RESTRUCTURING",
+                "visual_caption": "Cosco has resumed booking acceptances for vessels navigating through the high-risk Red Sea maritime corridor. Marine insurers are responding by rapidly pulling back war-risk coverage across the entire region."
             },
             {
                 "slide_index": 7,
-                "headline": "TRADE POLICY: CHINA POLYMER TARIFFS",
+                "headline": "LOGISTICS LABOR: DP WORLD EUROPE RESTRUCTURING",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "The White House imposed a 15% tariff on polysilicon imports for chips and solar power. The new trade levy and import price floor will officially take effect on Dec. 4."
+                "visual_caption": "DP World announced plans to eliminate 300 positions as part of a broad European restructuring strategy. The workforce reduction focuses on streamlining terminal operations and accelerating digital automation."
             },
             {
                 "slide_index": 8,

@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR implements forced labor tariffs across 60 nations while Union Pacific jacks up California intermodal surcharges to $1,000 per box."
+        "titleWhite": "SECOND-HALF SHIPPING",
+        "titleBlue": "OUTLOOK",
+        "footerSummary": "Yang Ming reports strong second-quarter performance driven by early peak season cargo demand while European inland waterways struggle with low water levels."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "YANG MING: SHIPPING OUTLOOK",
             "points": [
-                "The Office of the United States Trade Representative formally announced the implementation of new trade tariffs targeting 60 nations under Section 301.",
-                "The regulatory enforcement action coincides with the scheduled statutory expiration of legacy Section 122 protective trade levies.",
-                "Compliance officers across international manufacturing supply chains must rapidly audit tier-one component sourcing to prevent border detentions.",
-                "Importers face immediate operational friction as customs brokers adapt to expanded forced labor documentation verification mandates."
+                "Yang Ming announced that second-quarter financial results surpassed both first-quarter figures and year-ago performance benchmarks.",
+                "The positive variance was propelled by an unexpected surge in cargo demand and elevated spot freight rates stemming from an early peak season.",
+                "Carrier executives noted that shifting geopolitical conditions and proactive trade tariff mitigation strategies continue to heavily influence market behavior.",
+                "Logistics operators must prepare for compressed capacity windows as carriers fine-tune deployment schedules ahead of the fourth quarter."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL FREIGHT: UNION PACIFIC SURCHARGES",
+            "nextUpTease": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: 2026-08-12T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL FREIGHT: UNION PACIFIC SURCHARGES",
+            "heading": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
             "points": [
-                "Union Pacific instituted sweeping rate hikes across California intermodal ramps, lifting terminal container surcharges to $1,000 per box.",
-                "The steep financial penalty targets severe equipment imbalances and yard congestion stemming from early peak season container surges.",
-                "Beneficial cargo owners are forced to accelerate drayage turn times or absorb substantial terminal holding fees on import boxes.",
-                "Intermodal logistics planners anticipate secondary rail congestion spreading eastward into major inland distribution hubs."
+                "Persistent summer heat waves and low water levels along the Rhine River have triggered a sharp escalation in barge transport surcharges.",
+                "Barges operating on critical European inland routes are currently running at severely restricted load capacities to navigate shallow stretches.",
+                "Supply chain managers fear that the unfolding logistical bottleneck could soon shift congestion back to major ports like Rotterdam and Antwerp.",
+                "European manufacturers are actively securing alternative truck and rail transport to safeguard cargo movement across regional trade corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN SHIPPING: MAERSK PROFIT SURGE",
+            "nextUpTease": "CONTAINER SHIPPING: WAN HAI ORDERS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-12T09:30:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-12T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OCEAN SHIPPING: MAERSK PROFIT SURGE",
+            "heading": "CONTAINER SHIPPING: WAN HAI ORDERS",
             "points": [
-                "A.P. Moller-Maersk shares jumped 7% following an earnings report that smashed consensus profit estimates for the second fiscal quarter.",
-                "Carrier leadership raised full-year financial guidance on the back of sustained freight rate resilience and early peak shipping demand.",
-                "Surging transpacific and Asia-Europe volumes continue to offset persistent vessel routing inefficiencies around the Cape of Good Hope.",
-                "Global container operators maintain aggressive capacity management strategies to protect operating margins through the fourth quarter."
+                "Taiwanese ocean carrier Wan Hai Lines finalized a substantial shipbuilding contract with Shanghai Waigaoqiao Shipbuilding for eight new containerships.",
+                "The multi-vessel transaction, valued at up to $980M, includes one 9,200 TEU vessel and seven 11,000 TEU neo-panamax ships.",
+                "The aggressive fleet expansion highlights ongoing carrier capital investment aimed at modernizing transpacific and intra-Asian service loops.",
+                "Industry analysts expect the newly ordered tonnage to be delivered ahead of projected medium-term fleet phase-outs and stricter environmental rules."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKLOAD SECURITY: LOUISIANA METH SEIZURE",
+            "nextUpTease": "AIR CARGO: EU REFORM IMPACT",
             "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: 2026-08-12T10:15:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-13T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRUCKLOAD SECURITY: LOUISIANA METH SEIZURE",
+            "heading": "AIR CARGO: EU REFORM IMPACT",
             "points": [
-                "A routine K9 traffic stop along Interstate 12 in Denham Springs uncovered 358 kilograms of methamphetamine hidden inside a semi-trailer.",
-                "The massive illicit cargo seizure resulted in the commercial truck driver being immediately remanded into federal ICE custody.",
-                "Law enforcement agencies have intensified highway corridor interdiction efforts targeting cross-border freight trafficking operations.",
-                "Fleet safety managers are deploying enhanced driver vetting and trailer security protocols to mitigate illicit cargo liability risks."
+                "Air cargo freight rates and total volume experienced a noticeable slump following the recent implementation of European Union duty-free tax reforms.",
+                "The elimination of the historical de minimis exemption has immediately altered consumer purchasing behavior and cross-border e-commerce logistics.",
+                "Industry stakeholders note that the complete market impact on cargo volumes remains difficult to measure just one month post-enactment.",
+                "Air freight forwarders are aggressively restructuring consolidation hubs to adapt to heightened customs reporting requirements for low-value parcels."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME RISK: BLACK SEA GRAIN THREATS",
+            "nextUpTease": "TRUCKLOAD CAPACITY: MINIBID SURGE",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-12T11:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-12T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME RISK: BLACK SEA GRAIN THREATS",
+            "heading": "TRUCKLOAD CAPACITY: MINIBID SURGE",
             "points": [
-                "Intensified military strikes against Black Sea ports have severely disrupted agricultural grain export operations across regional maritime lanes.",
-                "Recent Russian missile attacks targeted infrastructure around Izmail, Ukraine's principal Danube river grain export terminal hub.",
-                "Marine underwriters are rapidly expanding war-risk premium surcharges and restricting coverage across contested maritime boundaries.",
-                "International commodity traders are actively rerouting grain shipments through alternative overland rail and coastal feeder networks."
+                "Shippers across North America are increasingly abandoning traditional annual RFPs in favor of short-term, targeted mini-bids to secure truck capacity.",
+                "The accelerating reliance on agile contract structures underscores widening capacity gaps as over-the-road freight spot rates continue to climb.",
+                "Transportation managers are utilizing dynamic rate benchmarking tools to navigate fluctuating driver availability during the ongoing peak shipping cycle.",
+                "Fleet operators are adjusting pricing models to capitalize on heightened short-term demand while protecting long-term operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDERAL REGULATION: FMC DETENTION POLICY",
+            "nextUpTease": "MARITIME SECURITY: RED SEA TRANSITS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T07:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-12T11:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FEDERAL REGULATION: FMC DETENTION POLICY",
+            "heading": "MARITIME SECURITY: RED SEA TRANSITS",
             "points": [
-                "The U.S. Court of Appeals for the D.C. Circuit upheld a landmark Federal Maritime Commission decision regarding demurrage billing rules.",
-                "The judicial ruling affirms that container detention and demurrage fees must actively incentivize and promote ocean freight fluidity.",
-                "Ocean carriers and marine terminal operators must prove that penalty fees directly encourage timely cargo retrieval by shippers.",
-                "Logistics legal teams are reviewing billing compliance frameworks to withstand heightened federal regulatory scrutiny under the Shipping Act."
+                "Chinese container line Cosco has officially resumed booking acceptances for vessel sailings navigating through the high-risk Red Sea corridor.",
+                "The decision to send ships back through the Suez shortcut comes despite persistent security threats and active Houthi military actions.",
+                "Marine insurance underwriters have responded by aggressively withdrawing war-risk coverage across broad swaths of the regional maritime zone.",
+                "Supply chain planners face difficult routing trade-offs between expensive Cape of Good Hope detours and higher insurance liabilities in the Red Sea."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: CHINA POLYMER TARIFFS",
+            "nextUpTease": "LOGISTICS LABOR: DP WORLD EUROPE RESTRUCTURING",
             "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: 2026-07-08T08:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-13T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRADE POLICY: CHINA POLYMER TARIFFS",
+            "heading": "LOGISTICS LABOR: DP WORLD EUROPE RESTRUCTURING",
             "points": [
-                "The White House issued a formal executive proclamation imposing a 15% tariff alongside an import price floor on polysilicon imports.",
-                "The new trade restrictions, specifically targeting semiconductor and solar supply chains, are scheduled to take effect on December 4.",
-                "Technology manufacturers are accelerating component imports to build inventory buffers ahead of the impending tariff enforcement date.",
-                "Procurement executives are aggressively diversifying supplier footprints across alternative domestic and allied manufacturing geographies."
+                "DP World announced plans to eliminate 300 positions as part of a comprehensive restructuring of its European terminal and logistics operations.",
+                "The workforce reduction is designed to streamline administrative overhead and modernize automated cargo handling capabilities across regional ports.",
+                "Port labor unions have expressed strong concern over the job cuts, warning of potential friction during upcoming collective bargaining talks.",
+                "Global terminal operators continue to prioritize technological efficiency and digital automation to combat rising labor and operating costs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-07T12:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-13T08:15:00Z",
                 "Status: Audited & True"
             ]
         }
