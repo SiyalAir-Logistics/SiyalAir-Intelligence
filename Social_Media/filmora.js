@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: DE MINIMIS EXEMPTION RULING",
-                "teaserTitle": "AUTOMOTIVE SUPPLY: GM COMPONENT SAFETY FUND",
-                "visual_caption": "The U.S. trade court upheld the federal suspension of the low-value de minimis customs exemption. Border enforcement collected over $1B in duties as direct-to-consumer e-commerce import models face permanent operational restructuring."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "REAL ESTATE: WAREHOUSE VACANCY STABILIZATION",
+                "visual_caption": "The USTR is moving forward with Section 301 tariffs on 60 trading partners. Importers must establish rigorous Tier-1 through Tier-3 supply chain traceability to prevent automated customs holds."
             },
             {
                 "slide_index": 2,
-                "headline": "AUTOMOTIVE SUPPLY: GM COMPONENT SAFETY FUND",
-                "teaserTitle": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
-                "visual_caption": "General Motors established a $4.5B financing safety fund to pre-fund vital supplier components. The emergency capital facility safeguards tier-1 automotive assembly lines against persistent parts shortages and component bottlenecks."
+                "headline": "REAL ESTATE: WAREHOUSE VACANCY STABILIZATION",
+                "teaserTitle": "PORT INFRASTRUCTURE: ROTTERDAM BUNKER DISRUPTION",
+                "visual_caption": "Industrial warehouse vacancy dropped 7 bps to 7.3% as net absorption outpaced new construction. Logistics operators face rising lease rates and tighter regional storage capacity entering Q3."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
-                "teaserTitle": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
-                "visual_caption": "DHL Express completed a $204M expansion of its primary gateway hub in Shenzhen. The facility upgrade accelerates South China air cargo processing capacity to support expanding cross-border trade lanes."
+                "headline": "PORT INFRASTRUCTURE: ROTTERDAM BUNKER DISRUPTION",
+                "teaserTitle": "TRADE ENFORCEMENT: AI TARIFF CRACKDOWN",
+                "visual_caption": "An explosion at the Gunvor Energy terminal in the Port of Rotterdam disrupted primary bunker fuel infrastructure and caused regional power outages. Ocean carriers face immediate refueling delays and short-term marine gasoil price volatility."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
-                "teaserTitle": "ENERGY SHIPPING: SK H-LINE TANKER SWAP",
-                "visual_caption": "Rhode Island and Utah enacted strict state restrictions on non-domiciled commercial driver's licenses. Transportation analysts project the regulatory clampdown could sideline over 200K cross-border drivers and tighten freight capacity."
+                "headline": "TRADE ENFORCEMENT: AI TARIFF CRACKDOWN",
+                "teaserTitle": "FLEET COMPLIANCE: ELD PURGE CONSTRAINTS",
+                "visual_caption": "Trade enforcers deployed AI models to uncover shadow transshipment networks across dozens of intermediary nations. Customs authorities are using predictive risk algorithms to flag high-risk manifests and fraudulent origin filings."
             },
             {
                 "slide_index": 5,
-                "headline": "ENERGY SHIPPING: SK H-LINE TANKER SWAP",
-                "teaserTitle": "TARIFF RECOVERY: CORPORATE DUTY REFUNDS",
-                "visual_caption": "South Korea's SK Shipping agreed to a 28-vessel fleet reshuffle with H-Line Shipping. The transaction doubles their LNG carrier fleet to 32 vessels to capture expanding Asian energy routes."
+                "headline": "FLEET COMPLIANCE: ELD PURGE CONSTRAINTS",
+                "teaserTitle": "FREIGHT CONTRACTS: SPOT MINIBIDS SURGE",
+                "visual_caption": "Federal revocations of non-compliant ELDs are removing unverified motor carriers from major freight corridors. Shippers must prepare for tightening over-the-road truckload capacity and rising spot market transportation costs."
             },
             {
                 "slide_index": 6,
-                "headline": "TARIFF RECOVERY: CORPORATE DUTY REFUNDS",
-                "teaserTitle": "FREIGHT SECURITY: UBER FREIGHT DATA BREACH",
-                "visual_caption": "Enterprise manufacturers including Kimberly-Clark and Nintendo secured hundreds of millions of dollars in federal tariff refunds. The capital recoveries offset rising logistics inflation as retailers aggressively monetize secondary duty refund claims."
+                "headline": "FREIGHT CONTRACTS: SPOT MINIBIDS SURGE",
+                "teaserTitle": "EU REGULATION: SUSTAINABLE PACKAGING MANDATE",
+                "visual_caption": "Enterprise cargo owners are replacing traditional annual freight contracts with high-frequency 30-to-90 day mini-bids. Targeted procurement allows transportation directors to dynamically secure truck capacity across volatile primary freight lanes."
             },
             {
                 "slide_index": 7,
-                "headline": "FREIGHT SECURITY: UBER FREIGHT DATA BREACH",
+                "headline": "EU REGULATION: SUSTAINABLE PACKAGING MANDATE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Uber Freight confirmed a major cybersecurity incident after hackers claimed unauthorized access to nearly 1M logistics files. Enterprise shippers are tightening API authentication protocols across third-party digital freight brokerage networks."
+                "visual_caption": "The EU activated strict packaging waste regulations mandating minimum empty-space thresholds on cross-border shipments. Non-compliant international e-commerce merchants face automated border rejections and direct regulatory penalties."
             },
             {
                 "slide_index": 8,

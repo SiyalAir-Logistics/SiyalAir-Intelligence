@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DE MINIMIS EXEMPTION",
-        "titleBlue": "RULING",
-        "footerSummary": "Federal trade court upholds de minimis suspension as customs collects over $1B in duties and global supply chains restructure compliance."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR triggers Section 301 tariffs across 60 trading nations as federal authorities deploy AI enforcement against transshipment networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: DE MINIMIS EXEMPTION RULING",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "The U.S. Court of International Trade upheld executive actions suspending the Section 321 de minimis tariff exemption for commercial e-commerce shipments.",
-                "U.S. Customs and Border Protection confirmed the regulatory closure generated over $1B in duty payments following strict cross-border parcel screening.",
-                "Cross-border direct-to-consumer merchants face mandatory entry filings and formal customs clearance fees on all inbound low-value parcels.",
-                "Supply chain operators are transitioning fulfillment workflows toward bonded warehouse hubs to manage duty deferral and bulk entry processing."
+                "The Office of the United States Trade Representative confirmed the immediate implementation of trade tariffs on 60 nations under Section 301 of the Trade Act.",
+                "The enforcement measures take effect concurrently with the statutory expiration of emergency Section 122 tariffs across designated import product lines.",
+                "Customs compliance directors face heightened evidentiary burdens to document full supply chain traceability and verify labor integrity.",
+                "Importers must audit Tier-1 through Tier-3 vendor networks immediately to avoid automated cargo detentions at all U.S. ports of entry."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE SUPPLY: GM COMPONENT SAFETY FUND",
+            "nextUpTease": "REAL ESTATE: WAREHOUSE VACANCY STABILIZATION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T14:15:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-13T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AUTOMOTIVE SUPPLY: GM COMPONENT SAFETY FUND",
+            "heading": "REAL ESTATE: WAREHOUSE VACANCY STABILIZATION",
             "points": [
-                "General Motors finalized a $4.5B supply chain financing reserve to pre-fund critical component inventory and stabilize tier-one manufacturing partners.",
-                "The capital facility provides key automotive suppliers with upfront liquidity to stockpile microchips, specialized alloys, and electronic subsystems.",
-                "Tier-one parts suppliers are utilizing dedicated credit allocations to build a 60-day buffer of high-risk subcomponents against regional supplier halts.",
-                "Procurement executives view pre-funded supplier liquidity as an essential operational safeguard against upstream manufacturing bottlenecks."
+                "Colliers reported that U.S. industrial real estate vacancy rates fell 7 basis points sequentially in Q2 to reach 7.3% nationwide.",
+                "Net warehouse absorption outpaced newly delivered square footage for the first time in 6 quarters, demonstrating renewed balance.",
+                "Third-party logistics providers and omnichannel retailers are expanding footprint commitments across core inland distribution corridors.",
+                "Enterprise shippers should anticipate firming lease rates and tightening bulk storage availability entering the second half of 2026."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
+            "nextUpTease": "PORT INFRASTRUCTURE: ROTTERDAM BUNKER DISRUPTION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-13T13:50:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-13T15:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
+            "heading": "PORT INFRASTRUCTURE: ROTTERDAM BUNKER DISRUPTION",
             "points": [
-                "DHL Express completed a $204M facility expansion at its primary Shenzhen air gateway, marking its largest single infrastructure investment in South China.",
-                "The upgraded hub expands total sorting and processing capacity to handle accelerated outbound cross-border parcel volumes across Asia-Pacific corridors.",
-                "Air freight forwarders benefit from automated high-speed customs screening lines and dedicated widebody freighter turnaround slots.",
-                "Export shippers moving high-tech equipment and cross-border electronics gain improved transit reliability across transpacific air corridors."
+                "A major explosion occurred at the Gunvor Energy storage terminal in the Port of Rotterdam, resulting in one fatality and six injuries.",
+                "The industrial incident triggered localized power outages across Europe's largest fuel bunkering hub, impacting nearby refining infrastructure.",
+                "Emergency containment operations disrupted vessel refueling schedules and generated secondary berthing delays across key terminal docks.",
+                "Ocean carriers operating European feeder and deep-sea rotations face short-term marine gasoil price volatility and bunker scheduling friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
+            "nextUpTease": "TRADE ENFORCEMENT: AI TARIFF CRACKDOWN",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-13T13:10:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-13T16:52:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
+            "heading": "TRADE ENFORCEMENT: AI TARIFF CRACKDOWN",
             "points": [
-                "State transportation authorities in Rhode Island and Utah implemented strict new eligibility constraints on non-domiciled commercial driver's licenses.",
-                "Industry analysts project state-level licensing crackdowns could remove over 200K foreign commercial truck drivers from U.S. freight corridors.",
-                "Motor carriers operating cross-border dry van and refrigerated fleets face acute driver shortages and climbing driver recruitment overhead.",
-                "Freight brokers and enterprise shippers must prepare for tightening over-the-road truckload capacity across core industrial freight lanes."
+                "The White House Office of Trade and Manufacturing Policy deployed advanced machine learning systems to detect tariff evasion across trade corridors.",
+                "Federal investigative algorithms identified dozens of intermediary countries allegedly facilitating shadow transshipments to bypass U.S. duties.",
+                "U.S. Customs and Border Protection is utilizing automated entry risk scoring to target high-risk manifest filings and falsified certificates of origin.",
+                "Global freight forwarders face intensified document scrutiny, secondary physical inspections, and mandatory digital cargo manifests."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY SHIPPING: SK H-LINE TANKER SWAP",
+            "nextUpTease": "FLEET COMPLIANCE: ELD PURGE CONSTRAINTS",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T12:20:00Z",
+                "Published: 2026-08-13T14:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ENERGY SHIPPING: SK H-LINE TANKER SWAP",
+            "heading": "FLEET COMPLIANCE: ELD PURGE CONSTRAINTS",
             "points": [
-                "South Korea's SK Shipping concluded a 28-vessel fleet reorganization with sister operator H-Line Shipping to consolidate dedicated energy transport capacity.",
-                "The asset swap doubles SK Shipping's specialized liquefied natural gas carrier fleet to 32 dedicated vessels operating on long-term charters.",
-                "Private equity owner Hahn & Co restructured tonnage to capitalize on surging long-haul LNG export volumes moving from North America to Asian markets.",
-                "Energy charterers gain expanded long-term vessel availability as international carriers consolidate specialized cryogenic maritime assets."
+                "Werner Enterprises leadership warned that ongoing federal revocations of non-compliant electronic logging devices will remove substantial truck capacity.",
+                "Regulators are systematically revoking ELD certifications that fail technical data transfer standards, sidelining unverified motor carriers.",
+                "Over-the-road freight networks face accelerated capacity tightening across domestic dry van and temperature-controlled spot freight markets.",
+                "Shippers are advising logistics teams to verify carrier compliance software protocols to mitigate unseated tractor disruption risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFF RECOVERY: CORPORATE DUTY REFUNDS",
+            "nextUpTease": "FREIGHT CONTRACTS: SPOT MINIBIDS SURGE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T11:40:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-13T13:40:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TARIFF RECOVERY: CORPORATE DUTY REFUNDS",
+            "heading": "FREIGHT CONTRACTS: SPOT MINIBIDS SURGE",
             "points": [
-                "Major enterprise importers including Kimberly-Clark and Nintendo secured over $345M in customs tariff refunds from federal trade authorities.",
-                "The capital recoveries follow judicial rulings invalidating specific emergency trade levies and allowing retroactive tariff drawdowns.",
-                "Retailers and consumer goods manufacturers are actively monetizing secondary refund rights to offset sustained freight rate inflation.",
-                "Corporate finance teams are establishing dedicated customs audit units to accelerate trade duty recovery claims across multi-year import filings."
+                "Enterprise cargo owners are rapidly shifting from fixed annual trucking RFPs toward high-frequency short-term mini-bids to secure truck capacity.",
+                "Targeted 30-to-90 day procurement cycles allow enterprise shippers to navigate fluctuating carrier routing guides and persistent lane volatility.",
+                "Dedicated fleets and third-party logistics brokerages are adjusting digital rate engines to price targeted volume commitments dynamically.",
+                "Transportation directors gain greater procurement flexibility while locking in verified freight capacity along high-demand manufacturing lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT SECURITY: UBER FREIGHT DATA BREACH",
+            "nextUpTease": "EU REGULATION: SUSTAINABLE PACKAGING MANDATE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-13T10:15:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-13T12:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FREIGHT SECURITY: UBER FREIGHT DATA BREACH",
+            "heading": "EU REGULATION: SUSTAINABLE PACKAGING MANDATE",
             "points": [
-                "Uber Freight confirmed a widespread cybersecurity incident after threat actors claimed unauthorized extraction of nearly 1M internal logistics files.",
-                "The compromised data repository reportedly contains carrier rate agreements, shipper bill-of-lading records, and facility operational logs.",
-                "Third-party logistics providers are executing emergency security reviews of integrated digital brokerage application programming interfaces.",
-                "Enterprise cargo owners are mandating end-to-end data encryption and credential rotations across connected freight-matching platforms."
+                "The European Union officially activated comprehensive packaging waste regulations governing all cross-border commercial freight shipments.",
+                "The statutory framework mandates strict maximum empty-space ratios and bans non-recyclable plastic packaging across e-commerce supply chains.",
+                "International fulfillment centers and freight consolidators must re-engineer packing workflows to satisfy stringent documentation requirements.",
+                "Cross-border shippers targeting European distribution hubs face direct non-compliance fines and customs clearance rejections on non-compliant parcels."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-13T09:30:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-13T11:30:00Z",
                 "Status: Audited & True"
             ]
         }
