@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME WAR: BLACK SEA GRAIN",
-                "visual_caption": "U.S. trade authorities are enforcing Section 301 tariffs across 60 nations following Section 122 expirations. Importers face mandatory labor compliance audits and clearance holds at commercial ports."
+                "headline": "AUTOMOTIVE: GM PRE-FUNDS COMPONENT RESERVES",
+                "teaserTitle": "TRUCKING: ELD PURGE CAPACITY SQUEEZE",
+                "visual_caption": "General Motors established a $4.5B financing agreement to pre-fund component purchases for tier-1 suppliers. The capital reserve aims to prevent supply chain disruptions by helping sub-tier vendors stockpile essential assembly parts."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME WAR: BLACK SEA GRAIN",
-                "teaserTitle": "INLAND SHIPPING: SHALLOW WATER FLEET",
-                "visual_caption": "Heavy military strikes against Ukrainian Danube ports have disrupted Black Sea grain exports. Commercial ocean carriers face soaring war-risk insurance premiums and critical route diversions."
+                "headline": "TRUCKING: ELD PURGE CAPACITY SQUEEZE",
+                "teaserTitle": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
+                "visual_caption": "Federal regulators intensified audits targeting noncompliant ELDs across interstate trucking networks. Industry leaders warn the regulatory purge will remove noncompliant carriers and significantly tighten available truckload capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "INLAND SHIPPING: SHALLOW WATER FLEET",
-                "teaserTitle": "DRY BULK: CHROME ORE DEMAND",
-                "visual_caption": "German logistics operator HGK called for \u20ac12.5B to build 1,000 shallow-water ships by 2035. The fleet upgrade addresses low water delays on European rivers."
+                "headline": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
+                "teaserTitle": "ENERGY FREIGHT: SK SWAPS TANKER FLEET",
+                "visual_caption": "Trade enforcers deployed AI algorithms to track shadow transshipment networks and detect illicit tariff evasion. Federal inspectors are expanding audits of multi-tier origin records, leading to increased customs entry holds at ports."
             },
             {
                 "slide_index": 4,
-                "headline": "DRY BULK: CHROME ORE DEMAND",
-                "teaserTitle": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
-                "visual_caption": "Chrome ore has become the fastest growing dry bulk commodity trade following South African smelting disruptions. Vessel operators are reallocating bulk carriers to serve expanding Asian raw material import demand."
+                "headline": "ENERGY FREIGHT: SK SWAPS TANKER FLEET",
+                "teaserTitle": "RAILWAYS: AG GROUP OPPOSES MERGER",
+                "visual_caption": "South Korea's SK Shipping completed a 28-vessel contract swap with H-Line Shipping to streamline LNG transport. The fleet consolidation doubles SK Shipping's gas fleet to 32 vessels, creating a dominant energy carrier in Asia."
             },
             {
                 "slide_index": 5,
-                "headline": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
-                "visual_caption": "Federal regulators announced a 15% tariff and import price floor on polysilicon effective Dec 4. Semiconductor and solar manufacturers are re-evaluating upstream component sourcing to mitigate compliance risks."
+                "headline": "RAILWAYS: AG GROUP OPPOSES MERGER",
+                "teaserTitle": "CONTAINERS: WAN HAI ORDERS BOXSHIPS",
+                "visual_caption": "7 state AGs filed a warning letter with federal regulators opposing the proposed UP-NS rail merger. Legal officers caution that consolidating major rail networks will reduce market competition and increase freight shipping costs."
             },
             {
                 "slide_index": 6,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
-                "teaserTitle": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
-                "visual_caption": "Industrial real estate vacancy rates stabilized at 7.3% as space demand outpaced new warehouse construction. Supply chain operators are locking in long term leases across primary logistics hubs."
+                "headline": "CONTAINERS: WAN HAI ORDERS BOXSHIPS",
+                "teaserTitle": "POSTAL LOGISTICS: USPS AIR SHIFT EXPENSES",
+                "visual_caption": "Wan Hai Lines placed a near $1B order for 8 new containerships with Shanghai Waigaoqiao Shipbuilding. The strategic fleet investment aims to expand ocean carrier capacity along high-demand transpacific trade lanes."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
+                "headline": "POSTAL LOGISTICS: USPS AIR SHIFT EXPENSES",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "DHL Express finalized a $204M expansion of its Shenzhen air cargo gateway. The hub upgrade significantly boosts throughput velocity for cross-border express freight across Asia."
+                "visual_caption": "The USPS reported increased Q3 transportation expenses following operational volume shifts to UPS air cargo. Postal managers are deploying AI tools to optimize routing and lower long-term air freight operational costs."
             },
             {
                 "slide_index": 8,

@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR enforces Section 301 tariffs across 60 trading partners, introducing strict labor traceability audits and potential clearance delays at global gateways."
+        "titleWhite": "GM PRE-FUNDS COMPONENT",
+        "titleBlue": "RESERVES",
+        "footerSummary": "GM establishes a $4.5B capital reserve mechanism to pre-fund supplier inventory stockpiles, mitigating tier-one operational failure risks across automotive assembly networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "AUTOMOTIVE: GM PRE-FUNDS COMPONENT RESERVES",
             "points": [
-                "Office of the USTR initiated broad tariff enforcements under Section 301 of the Trade Act of 1974 across 60 trade partners.",
-                "The regulatory framework replaces expiring Section 122 tariffs with targeted import restrictions focused on verified supply chain labor compliance.",
-                "Customs authorities are deploying augmented tracing procedures to screen high-risk industrial component and retail entries at port facilities.",
-                "Global shippers expect heightened clearance holds and administrative review delays across affected international freight channels."
+                "General Motors established a $4.5B liquidity mechanism to pre-fund critical component purchases across tier-1 supplier networks.",
+                "The facility provides direct financing so sub-tier manufacturers can stockpile essential microelectronics and raw assemblies.",
+                "Automotive supply chain managers aim to insulate assembly operations from unexpected vendor bankruptcies and systemic component shortfalls.",
+                "The capital structure pre-emptively secures production schedules against severe operational friction across North American manufacturing facilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME WAR: BLACK SEA GRAIN",
+            "nextUpTease": "TRUCKING: ELD PURGE CAPACITY SQUEEZE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-13T11:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-13T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME WAR: BLACK SEA GRAIN",
+            "heading": "TRUCKING: ELD PURGE CAPACITY SQUEEZE",
             "points": [
-                "Escalating military strikes targeting Danube river infrastructure have severely disrupted regional port throughput at Izmail.",
-                "Commercial ocean bulk carriers encounter escalating operational risks and soaring war-risk premium adjustments across the Black Sea trade route.",
-                "Grain exporters are attempting emergency diversions to European overland rail links to prevent total export stagnation.",
-                "Global agricultural logistics networks face compounded transit delays and rising bulk commodity freight costs."
+                "Federal motor carrier enforcement intensified audits targeting noncompliant electronic logging devices across interstate freight networks.",
+                "Werner Enterprises leadership warned the regulatory cleanup will remove noncompliant motor carriers and tighten available truckload capacity.",
+                "Logistics operators expect spot market rate inflation as unverified carriers are purged from active freight brokerage boards.",
+                "Shippers are urged to lock in dedicated contract carriage ahead of impending Q4 driver availability constraints."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND SHIPPING: SHALLOW WATER FLEET",
+            "nextUpTease": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T10:30:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INLAND SHIPPING: SHALLOW WATER FLEET",
+            "heading": "CUSTOMS: AI TARIFF EVASION CRACKDOWN",
             "points": [
-                "German inland navigation group HGK urged European governments to mobilize \u20ac12.5B for low-draft vessel construction.",
-                "The targeted program seeks to deploy 1,000 shallow-water-capable barges by 2035 to overcome systemic climate-driven river low water levels.",
-                "Industrial shippers currently face recurring freight bottlenecks during seasonal draughts along vital Rhine inland waterways.",
-                "Fleet modernization aims to ensure long-term transport resilience for heavy industrial raw materials across Western Europe."
+                "White House trade enforcers deployed artificial intelligence algorithms to identify illicit shadow transshipment patterns across global trade routes.",
+                "The regulatory initiative screens multi-tier country-of-origin documentation to detect fraudulent rerouting through intermediate trade hubs.",
+                "Customs brokers report heightened audit scrutiny and entry holds on high-risk industrial imports arriving at U.S. ports.",
+                "Importers face increased administrative compliance costs and mandatory provenance tracing across multi-national supply networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRY BULK: CHROME ORE DEMAND",
+            "nextUpTease": "ENERGY FREIGHT: SK SWAPS TANKER FLEET",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-13T09:45:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DRY BULK: CHROME ORE DEMAND",
+            "heading": "ENERGY FREIGHT: SK SWAPS TANKER FLEET",
             "points": [
-                "Chrome ore emerged as the fastest-growing dry bulk commodity market in 2026 due to South Africa's domestic smelting contraction.",
-                "Shifting industrial processing dynamics have redirected vast volumes of raw, unprocessed ore onto long-haul ocean bulk routes toward Asia.",
-                "Supramax and Ultramax bulk vessel operators are reallocating tonnage to capture expanding trade volumes out of southern African ports.",
-                "Seaborne raw material supply chains are adjusting to sustained structural shifts in global metal processing capacity."
+                "South Korea's SK Shipping finalized a 28-vessel contract swap with sister firm H-Line Shipping to consolidate energy transport.",
+                "The strategic fleet consolidation doubles SK Shipping's active LNG carrier fleet to 32 specialized vessels.",
+                "Private equity owner Hahn & Co structured the transaction to capture expanding long-term seaborne gas transport demand across Asia.",
+                "The consolidated tonnage position establishes one of Asia's largest dedicated energy marine logistics operators."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+            "nextUpTease": "RAILWAYS: AG GROUP OPPOSES MERGER",
             "tags": [
                 "Source: https://splash247.com",
-                "Published: 2026-08-13T09:15:00Z",
+                "Published: 2026-08-13T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+            "heading": "RAILWAYS: AG GROUP OPPOSES MERGER",
             "points": [
-                "Federal authorities established a 15% tariff alongside a compulsory price floor on imported polysilicon effective Dec 4.",
-                "The trade directive targets upstream semiconductor and solar equipment supply chains to incentivize domestic manufacturing capability.",
-                "Technology manufacturers face potential production cost increases and procurement recalibrations ahead of the Q4 regulatory implementation.",
-                "Importers are auditing multi-tier component provenance to manage compliance obligations and avoid tariff penalties."
+                "Seven state attorneys general submitted a formal objection to the Surface Transportation Board regarding the proposed UP-NS mega rail merger.",
+                "State legal officers warned that consolidation between Union Pacific and Norfolk Southern would reduce competition and elevate shipper freight costs.",
+                "The filing argues proposed competitive access remedies are insufficient to preserve balanced intermodal freight routing options.",
+                "Rail freight shippers anticipate prolonged regulatory reviews and potential operational concessions before final board decisions."
             ],
             "imageUrl": "",
-            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "nextUpTease": "CONTAINERS: WAN HAI ORDERS BOXSHIPS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-13T08:45:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-13T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+            "heading": "CONTAINERS: WAN HAI ORDERS BOXSHIPS",
             "points": [
-                "Colliers reported industrial real estate vacancies stabilized at 7.3% in Q2 as logistics space demand outpaced new deliveries.",
-                "Net absorption gains reflect steady inventory distribution requirements across key primary warehouse markets.",
-                "The tightening supply pipeline is capping rent concessions and encouraging long-term industrial lease commitments.",
-                "Logistics operators are prioritizing regional distribution hub optimization over speculative warehouse expansion plans."
+                "Taiwanese ocean carrier Wan Hai Lines signed a $1B shipyard contract with Shanghai Waigaoqiao for 8 containerships.",
+                "The order expands carrier fleet deployment capabilities targeting long-haul transpacific and intra-Asia trade corridors.",
+                "Ocean freight analysts note sustained carrier capital investments reflect expectations of elevated long-term containerized trade volumes.",
+                "Delivery schedules will systematically refresh regional feeder capacity while enhancing carrier vessel operating efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
+            "nextUpTease": "POSTAL LOGISTICS: USPS AIR SHIFT EXPENSES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-13T08:15:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-13T08:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
+            "heading": "POSTAL LOGISTICS: USPS AIR SHIFT EXPENSES",
             "points": [
-                "DHL Express completed a $204M expansion of its Shenzhen air cargo gateway to augment transpacific sorting capacity.",
-                "The facility upgrade represents DHL's largest capital infrastructure investment in mainland China to support growing trade volume.",
-                "Advanced automated sorting technologies will accelerate throughput velocity for cross-border express and e-commerce shipments.",
-                "Air freight forwarders gain expanded express processing capacity along major East Asia international trade corridors."
+                "United States Postal Service reported elevated transportation expenses in Q3 driven by volume shifts to UPS air cargo channels.",
+                "The operational transition forms part of broader air network restructuring to ensure reliable parcel delivery schedules.",
+                "Postal inspectors are evaluating dynamic routing and AI systems to optimize air-to-ground transportation balance.",
+                "E-commerce merchants navigate shifting postal transit velocity and potential commercial parcel rate adjustments."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-13T07:45:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-13T08:00:00Z",
                 "Status: Audited & True"
             ]
         }
