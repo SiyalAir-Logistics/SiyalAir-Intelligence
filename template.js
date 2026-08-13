@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR enforces Section 301 tariffs on 60 nations while EU packaging rules and US rail consolidation scrutiny reshape global freight compliance."
+        "titleWhite": "HANSEN ADKINS",
+        "titleBlue": "ACQUISITION",
+        "footerSummary": "Proficient Auto acquires Hansen & Adkins for $130M while Wan Hai commits $980M to boxship fleet expansion and Ceva suffers IT breach."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "AUTO LOGISTICS: HANSEN ADKINS ACQUISITION",
             "points": [
-                "Office of the United States Trade Representative moves forward with Section 301 tariffs targeting 60 trading partners.",
-                "Legal mechanism targets supply chain forced labor vulnerabilities as previous Section 122 emergency duties officially expire.",
-                "Importers face heightened documentation requirements and mandatory compliance filings across major cross-border entry points.",
-                "Enterprise supply chain teams are recalibrating landed cost models to absorb updated tariff structures across affected origin countries."
+                "Proficient Auto Logistics executed a definitive agreement to acquire Hansen & Adkins Auto Transport for $130M in capital.",
+                "The transaction instantly creates the largest specialized finished-vehicle haulage entity operating across North American automotive freight networks.",
+                "Integrated fleet capacity will significantly enhance OEM vehicle distribution efficiency between assembly plants, rail ramps, and regional dealerships.",
+                "Commercial transport analysts anticipate accelerated market consolidation across specialized automotive logistics and heavy vehicle transport sectors."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: BARGE SURCHARGES SKYROCKET",
+            "nextUpTease": "FLEET EXPANSION: LNG TANKER SWAP",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-12T14:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-12T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "INLAND WATERWAYS: BARGE SURCHARGES SKYROCKET",
+            "heading": "FLEET EXPANSION: LNG TANKER SWAP",
             "points": [
-                "Waterway transport operators implemented emergency surcharges for European barge traffic as Rhine River levels drop rapidly.",
-                "Shallow water conditions have severely restricted vessel draft capacity, forcing operators to reduce load volumes by up to 50%.",
-                "Cargo backlogs are building across major European inland ports including Rotterdam and Antwerp as shippers scramble for capacity.",
-                "Logistics planners are shifting critical industrial raw materials onto rail and road networks to bypass low-water bottlenecks."
+                "SK Shipping completed a major 28-vessel fleet reshuffle with sister entity H-Line Shipping to expand energy transport operations.",
+                "The strategic asset swap effectively doubles SK Shipping's active liquefied natural gas carrier fleet to 32 specialized vessels.",
+                "Private equity group Hahn & Co structured the transaction to establish SK Shipping as the premier LNG maritime carrier in Asia.",
+                "The fleet consolidation provides long-term charter security amidst rising global demand for cross-border natural gas energy transit."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+            "nextUpTease": "CONTAINER SHIPPING: WAN HAI SHIPBUILDING",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-12T13:10:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-13T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+            "heading": "CONTAINER SHIPPING: WAN HAI SHIPBUILDING",
             "points": [
-                "Executive order officially establishes a 15% import tariff and mandatory price floor on foreign polysilicon shipments.",
-                "Regulatory directive takes effect on December 4, targeting critical raw materials utilized in semiconductor and solar cell manufacturing.",
-                "Procurement leaders face direct cost increases across advanced tech manufacturing supply chains dependent on foreign ingot processing.",
-                "Solar and microchip manufacturers are evaluating long-term domestic sourcing agreements to mitigate upcoming duty exposure."
+                "Wan Hai Lines finalized new vessel construction contracts worth up to $980M with Shanghai Waigaoqiao Shipbuilding.",
+                "The order encompasses one 9,200 TEU containership alongside seven 11,000 TEU dual-fuel eco-friendly container vessels.",
+                "Fleet expansion capitalizes on strong transpacific ocean volume while replacing aging medium-capacity container tonnage.",
+                "Deliveries will strengthen long-haul maritime coverage and carrier cost efficiency across major Asia-to-Americas trade corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS: COMPLIANCE TARIFF REFUNDS",
+            "nextUpTease": "CYBERSECURITY: CEVA WAREHOUSE BREACH",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-11T16:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-13T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CUSTOMS: COMPLIANCE TARIFF REFUNDS",
+            "heading": "CYBERSECURITY: CEVA WAREHOUSE BREACH",
             "points": [
-                "U.S. Customs and Border Protection processed over $100B in cumulative IEEPA trade refund distributions.",
-                "Administrative milestones highlight ongoing adjustments to historical trade enforcement mechanisms and legal duty liquidations.",
-                "Secondary finance markets are actively monetizing pending tariff refund claims for enterprise retail importers seeking immediate capital.",
-                "Customs brokerage teams continue managing complex legal appeals as the Department of Justice pursues ongoing litigation."
+                "Ceva Logistics suffered a critical IT infrastructure breach impacting European warehouse management systems and fulfillment operations.",
+                "The cyber incident caused operational friction and inventory processing delays across major retail, banking, and commercial supply networks.",
+                "Enterprise beneficial cargo owners faced emergency manual overrides and temporary delays in automated order dispatching routines.",
+                "Security teams initiated immediate system isolation protocols while logistics coordinators rerouted time-critical freight through secondary nodes."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL REGULATION: AG MERGER OPPOSITION",
+            "nextUpTease": "SHIPBUILDING: PENSACOLA INFRASTRUCTURE GRANT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-11T15:30:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-11T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL REGULATION: AG MERGER OPPOSITION",
+            "heading": "SHIPBUILDING: PENSACOLA INFRASTRUCTURE GRANT",
             "points": [
-                "Seven state Attorneys General formally issued joint warnings opposing the proposed Union Pacific and Norfolk Southern rail consolidation.",
-                "Legal filings argue the prospective mega-merger would drastically reduce freight competition and drive up shipping costs for agricultural goods.",
-                "Intermodal shippers express concern over potential service disruptions and consolidated pricing power across major rail corridors.",
-                "Federal regulatory bodies will examine market concentration risks as public opposition from state officials intensifies."
+                "Florida state leadership approved a $9M infrastructure grant to construct two advanced boatbuilding facilities at the Port of Pensacola.",
+                "Operating under Project Maeve, the new facilities will fabricate complex Navy ship modules for submarine and surface vessel construction.",
+                "The manufacturing initiative is projected to create 2,000 skilled maritime industrial jobs while expanding Gulf Coast naval production capacity.",
+                "Port authorities will modernize waterfront heavy-lift logistics infrastructure to support accelerated defense shipbuilding supply chains."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL SAFETY: TWO PERSON CREW RULE",
+            "nextUpTease": "AEROSPACE LOGISTICS: BOEING DRONE SALE",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-12T11:45:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-12T16:35:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAIL SAFETY: TWO PERSON CREW RULE",
+            "heading": "AEROSPACE LOGISTICS: BOEING DRONE SALE",
             "points": [
-                "Federal appeals court upheld legal challenges invalidating the Federal Railroad Administration's mandatory two-person crew rule.",
-                "Decision provides Class I railroads operational flexibility to deploy single-person crews supported by autonomous train control systems.",
-                "Rail labor unions voice strong safety concerns, advocating for legislative intervention to protect traditional staffing requirements.",
-                "Rail operators expect long-term labor cost reductions while continuing expansion of automated safety monitoring technology."
+                "Boeing completed the sale of its Wisk flying taxi assets and autonomous military drone units to Archer Aviation.",
+                "The transaction shifts advanced autonomous aerial vehicle development under Archer's growing eVTOL aircraft portfolio.",
+                "Archer gains valuable intellectual property and specialized flight hardware to accelerate commercial cargo and passenger drone deployment.",
+                "Boeing's divestment reflects broader aerospace restructuring to focus capital on core commercial airliner production and defense systems."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUSTAINABILITY: PACKAGING MANDATE",
+            "nextUpTease": "MARITIME REGULATION: FMC CIVIL PENALTIES",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-12T10:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-11T20:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SUSTAINABILITY: PACKAGING MANDATE",
+            "heading": "MARITIME REGULATION: FMC CIVIL PENALTIES",
             "points": [
-                "European Union officially activated new sustainable packaging regulations governing cross-border logistics operations.",
-                "Framework enforces strict material recycling targets, mandatory reusability ratios, and bans on single-use transit packaging.",
-                "Multi-national fulfillment networks are replacing conventional plastic wraps with certified reusable containers and biodegradable materials.",
-                "Non-compliant shippers face regulatory fines and potential customs delays across major European distribution centers."
+                "The Federal Maritime Commission collected $1.9M in civil penalty payments following enforcement investigations into ocean freight practices.",
+                "Regulatory action targeted violations of the Shipping Act regarding unfair tariff assessments and non-compliant ocean carrier billing.",
+                "The enforcement outcome underscores the FMC's active oversight of ocean common carrier compliance and container demurrage regulations.",
+                "Logistics compliance managers must review ocean freight billing practices to avoid regulatory penalties and operational disputes."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-12T09:15:00Z",
+                "Source: https://www.fmc.gov",
+                "Published: 2026-08-10T15:00:00Z",
                 "Status: Audited & True"
             ]
         }
