@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "SECOND-HALF SHIPPING OUTLOOK",
+        "hookTitle": "FORCED LABOR TARIFFS ENFORCED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "YANG MING: SHIPPING OUTLOOK",
-                "teaserTitle": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "INTERMODAL: CALIFORNIA CONTAINER SURCHARGES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Yang Ming reported that second quarter earnings outperformed prior periods due to surging cargo demand. The revenue jump was driven by an early peak shipping season and elevated spot freight rates."
+                "narration_line": "The United States Trade Representative introduced Section three oh one tariffs on sixty trading partners following the expiration of Section one two two rules. Importers face immediate compliance challenges and heightened customs checks at entry ports."
             },
             {
                 "slide_index": 2,
-                "headline": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
-                "teaserTitle": "CONTAINER SHIPPING: WAN HAI ORDERS",
+                "headline": "INTERMODAL: CALIFORNIA CONTAINER SURCHARGES",
+                "teaserTitle": "SECURITY: TRUCK CARGO THEFT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Severe summer heat waves and shallow water levels on the Rhine River have triggered sharp barge surcharge hikes. Transport operators are restricting vessel loads, which threatens to create major bottlenecks at European ports."
+                "narration_line": "Union Pacific Railroad raised California intermodal surcharges to one thousand dollars per container across major rail ramps. The price surge directly increases shipping costs for cargo moving inland from West Coast ports."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINER SHIPPING: WAN HAI ORDERS",
-                "teaserTitle": "AIR CARGO: EU REFORM IMPACT",
+                "headline": "SECURITY: TRUCK CARGO THEFT",
+                "teaserTitle": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Taiwanese carrier Wan Hai Lines signed a massive contract for eight new containerships valued at nearly one billion dollars. The fleet expansion aims to modernize transpacific and intra-Asian service loops ahead of upcoming environmental rules."
+                "narration_line": "Cargo theft risks remain at historic highs in twenty twenty-six despite a minor second-quarter dip in recorded incidents. Organized syndicates are actively targeting high-value freight using advanced fraudulent pickup tactics across freight networks."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: EU REFORM IMPACT",
-                "teaserTitle": "TRUCKLOAD CAPACITY: MINIBID SURGE",
+                "headline": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Air cargo rates and volumes dropped sharply following the implementation of European Union duty-free tax reforms. The elimination of the de minimis exemption has fundamentally altered cross-border e-commerce logistics behavior."
+                "narration_line": "The United States government enacted a fifteen percent tariff on imported polysilicon used in microchips and solar hardware. The policy introduces an official import price floor taking effect on December fourth."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKLOAD CAPACITY: MINIBID SURGE",
-                "teaserTitle": "MARITIME SECURITY: RED SEA TRANSITS",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "teaserTitle": "FLEET MERGERS: PROFICIENT AUTO ACQUISITION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "North American shippers are increasingly abandoning annual contracts in favor of short-term mini-bids to secure trucks. This shift highlights widening capacity gaps and rising spot rates across domestic distribution networks."
+                "narration_line": "Industrial warehousing vacancy rates dropped seven basis points to seven point three percent as market demand outpaces supply. Commercial tenants are securing extended leases to lock in rates before industrial space tightens."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME SECURITY: RED SEA TRANSITS",
-                "teaserTitle": "LOGISTICS LABOR: DP WORLD EUROPE RESTRUCTURING",
+                "headline": "FLEET MERGERS: PROFICIENT AUTO ACQUISITION",
+                "teaserTitle": "REGULATION: FEDERAL TRUCK SAFETY LEGISLATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Cosco has resumed booking acceptances for vessels navigating through the high-risk Red Sea maritime corridor. Marine insurers are responding by rapidly pulling back war-risk coverage across the entire region."
+                "narration_line": "Proficient Auto Logistics acquired specialized car hauler Hansen and Adkins in a deal valued at one hundred thirty million dollars. The acquisition creates the largest finished vehicle transport carrier in North America."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS LABOR: DP WORLD EUROPE RESTRUCTURING",
+                "headline": "REGULATION: FEDERAL TRUCK SAFETY LEGISLATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "DP World announced plans to eliminate three hundred positions as part of a broad European restructuring strategy. The workforce reduction focuses on streamlining terminal operations and accelerating digital automation."
+                "narration_line": "Federal lawmakers introduced legislation establishing unified national motor carrier safety standards to curb frivolous lawsuits. Industry advocates expect the measure to stabilize commercial insurance costs and standardize state regulations."
             },
             {
                 "slide_index": 8,

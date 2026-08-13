@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "YANG MING: SHIPPING OUTLOOK",
-                "teaserTitle": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
-                "visual_caption": "Yang Ming reported that Q2 earnings outperformed prior periods due to surging cargo demand. The revenue jump was driven by an early peak shipping season and elevated spot freight rates."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "INTERMODAL: CALIFORNIA CONTAINER SURCHARGES",
+                "visual_caption": "The United States Trade Representative introduced Section 301 tariffs on 60 trading partners following the expiration of Section 122 rules. Importers face immediate compliance challenges and heightened customs checks at entry ports."
             },
             {
                 "slide_index": 2,
-                "headline": "INLAND WATERWAYS: RHINE BARGE SURCHARGES",
-                "teaserTitle": "CONTAINER SHIPPING: WAN HAI ORDERS",
-                "visual_caption": "Severe summer heat waves and shallow water levels on the Rhine River have triggered sharp barge surcharge hikes. Transport operators are restricting vessel loads, which threatens to create major bottlenecks at European ports."
+                "headline": "INTERMODAL: CALIFORNIA CONTAINER SURCHARGES",
+                "teaserTitle": "SECURITY: TRUCK CARGO THEFT",
+                "visual_caption": "Union Pacific Railroad raised California intermodal surcharges to $1,000 per container across major rail ramps. The price surge directly increases shipping costs for cargo moving inland from West Coast ports."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINER SHIPPING: WAN HAI ORDERS",
-                "teaserTitle": "AIR CARGO: EU REFORM IMPACT",
-                "visual_caption": "Taiwanese carrier Wan Hai Lines signed a massive contract for 8 new containerships valued at $980M. The fleet expansion aims to modernize transpacific and intra-Asian service loops ahead of upcoming environmental rules."
+                "headline": "SECURITY: TRUCK CARGO THEFT",
+                "teaserTitle": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "visual_caption": "Cargo theft risks remain at historic highs in 2026 despite a minor Q2 dip in recorded incidents. Organized syndicates are actively targeting high-value freight using advanced fraudulent pickup tactics across freight networks."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: EU REFORM IMPACT",
-                "teaserTitle": "TRUCKLOAD CAPACITY: MINIBID SURGE",
-                "visual_caption": "Air cargo rates and volumes dropped sharply following the implementation of EU duty-free tax reforms. The elimination of the de minimis exemption has fundamentally altered cross-border e-commerce logistics behavior."
+                "headline": "TRADE POLICY: POLYSILICON IMPORT TARIFFS",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "visual_caption": "The United States government enacted a 15% tariff on imported polysilicon used in microchips and solar hardware. The policy introduces an official import price floor taking effect on Dec 4."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKLOAD CAPACITY: MINIBID SURGE",
-                "teaserTitle": "MARITIME SECURITY: RED SEA TRANSITS",
-                "visual_caption": "North American shippers are increasingly abandoning annual contracts in favor of short-term mini-bids to secure trucks. This shift highlights widening capacity gaps and rising spot rates across domestic distribution networks."
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY STABILIZATION",
+                "teaserTitle": "FLEET MERGERS: PROFICIENT AUTO ACQUISITION",
+                "visual_caption": "Industrial warehousing vacancy rates dropped 7 bps to 7.3% as market demand outpaces supply. Commercial tenants are securing extended leases to lock in rates before industrial space tightens."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME SECURITY: RED SEA TRANSITS",
-                "teaserTitle": "LOGISTICS LABOR: DP WORLD EUROPE RESTRUCTURING",
-                "visual_caption": "Cosco has resumed booking acceptances for vessels navigating through the high-risk Red Sea maritime corridor. Marine insurers are responding by rapidly pulling back war-risk coverage across the entire region."
+                "headline": "FLEET MERGERS: PROFICIENT AUTO ACQUISITION",
+                "teaserTitle": "REGULATION: FEDERAL TRUCK SAFETY LEGISLATION",
+                "visual_caption": "Proficient Auto Logistics acquired specialized car hauler Hansen & Adkins in a deal valued at $130M. The acquisition creates the largest finished vehicle transport carrier in North America."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS LABOR: DP WORLD EUROPE RESTRUCTURING",
+                "headline": "REGULATION: FEDERAL TRUCK SAFETY LEGISLATION",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "DP World announced plans to eliminate 300 positions as part of a broad European restructuring strategy. The workforce reduction focuses on streamlining terminal operations and accelerating digital automation."
+                "visual_caption": "Federal lawmakers introduced legislation establishing unified national motor carrier safety standards to curb frivolous lawsuits. Industry advocates expect the measure to stabilize commercial insurance costs and standardize state regulations."
             },
             {
                 "slide_index": 8,
