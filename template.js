@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR implements Section 301 tariffs across 60 trade partners as Section 122 expires, forcing emergency origin audits."
+        "titleWhite": "TRADE COURT UPHOLDS",
+        "titleBlue": "EXEMPTION",
+        "footerSummary": "Trade court upholds de minimis suspension as customs officials process over $1B in duty payments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "GOVERNMENT: EXEMPTION",
             "paragraphs": [
-                "The Office of the United States Trade Representative has advanced broad tariff enforcements against 60 trading nations under Section 301 of the Trade Act of 1974. This regulatory rollout immediately succeeds the expiration of temporary Section 122 duties, establishing permanent labor-standard compliance checkpoints across major sourcing corridors.",
-                "Enterprise cargo owners face acute duty increases and mandatory tier-3 supplier provenance disclosures at U.S. ports of entry. Procurement leaders must urgently audit sub-tier supply networks to prevent border impoundments and margin erosion."
+                "The U.S. Court of International Trade has officially upheld the administration's suspension of the de minimis tariff exemption, locking in stricter border enforcement for low-value shipments. This legal affirmation solidifies more than $1B in cumulative duty payments collected by Customs and Border Protection since the initial policy rollout.",
+                "E-commerce importers and direct-to-consumer brands face persistent administrative burdens and permanently higher landed costs across international parcel networks. Supply chain leaders must restructure inventory staging and customs brokerage protocols to avoid severe cross-border clearance delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL NETWORKS: UP-NS MERGER OPPOSITION",
+            "nextUpTease": "CARRIERS: TARIFF REFUNDS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T08:30:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL NETWORKS: UP-NS MERGER OPPOSITION",
+            "heading": "BUSINESS: TARIFF REFUNDS",
             "paragraphs": [
-                "Attorneys general from 6 U.S. states have filed formal opposition with the Surface Transportation Board against the proposed Union Pacific and Norfolk Southern merger. The joint regulatory objection argues that the multi-billion-dollar consolidation presents insufficient public competitive benefits while threatening freight rail competition.",
-                "Industrial shippers across Eastern and Midwestern corridors confront the risk of restricted rail routing choices and reduced rate leverage. Logistics executives must model alternative dual-served terminal strategies should federal regulators condition or stall carrier integration."
+                "Major parcel carriers including UPS and FedEx have begun passing court-mandated tariff refunds directly back to commercial customers and retail shippers. The disbursements represent the final operational phase of a complex regulatory unwinding following the Supreme Court decision striking down prior executive trade levies.",
+                "Corporate logistics teams must reconcile incoming financial credits with historical landed cost accounting models to recover overpaid duties. Finance departments should closely coordinate with freight auditors to ensure complete recovery of historical tariff expenditures."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR LOGISTICS: SHENZHEN GATEWAY EXPANSION",
+            "nextUpTease": "MARITIME: HORMUZ TANKER ATTACKS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T07:15:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR LOGISTICS: SHENZHEN GATEWAY EXPANSION",
+            "heading": "FUEL: HORMUZ TANKER ATTACKS",
             "paragraphs": [
-                "DHL Express has completed a $204M infrastructure expansion of its primary Shenzhen hub, marking the carrier's single largest capital deployment in mainland China. The modernized facility dramatically expands automated sorting throughput and regional air cargo lift capacity across the Pearl River Delta.",
-                "High-tech and industrial forwarders gain enhanced throughput capacity and tighter cut-off windows on critical intra-Asia and transpacific trade lanes. Cross-border logistics planners can leverage expanded express sortation to shave up to 24 hours off outbound product delivery cycles."
+                "International benchmark crude oil prices climbed following twin tanker attacks in the strategic Strait of Hormuz, intensifying maritime security risks across the Persian Gulf. International carriers are increasingly diverting vessels around high-risk transit zones to protect crews and multimillion-dollar assets.",
+                "Escalating bunker fuel costs and marine insurance premiums are driving up operating expenses across global ocean and container shipping lanes. Shippers must evaluate the financial impact of longer transit routes against surging voyage overhead."
             ],
             "imageUrl": "",
-            "nextUpTease": "SOURCING RESILIENCE: COMPONENT BUFFER FUND",
+            "nextUpTease": "LOGISTICS: AIR CARGO DEMAND",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T06:45:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SOURCING RESILIENCE: COMPONENT BUFFER FUND",
+            "heading": "NEWS: AIR CARGO DEMAND",
             "paragraphs": [
-                "General Motors has established a dedicated $4.5B liquidity facility designed to pre-fund critical component procurement and buffer tier-1 suppliers against global logistics volatility. The strategic financing structure enables upstream suppliers to stockpile essential raw materials and semiconductor assemblies ahead of potential market disruptions.",
-                "Tier-1 and tier-2 manufacturers operating on thin working capital receive immediate liquidity to maintain uninhibited production cycles. Supply chain leaders are increasingly turning toward balance-sheet-backed inventory buffering to mitigate brittle just-in-time delivery risks."
+                "Muted peak season activity across international air cargo markets signals softer overall trade volume expectations heading into the second half of the year. Forwarders are reporting weaker airfreight demand driven by tightened customs enforcement on low-value e-commerce shipments originating from Asia.",
+                "Airlines and cargo operators face downward pressure on spot rates and cargo yield optimization across major transpacific and Asia-Europe corridors. Logistics planners can leverage softer air capacity to secure favorable charter terms ahead of late-year retail rushes."
             ],
             "imageUrl": "",
-            "nextUpTease": "MULTIMODAL FREIGHT: SAUDI ARABIA CORRIDOR",
+            "nextUpTease": "FINANCE: PORT TRAFFIC SLUMP",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T05:20:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MULTIMODAL FREIGHT: SAUDI ARABIA CORRIDOR",
+            "heading": "PORTS: TRAFFIC SLUMP",
             "paragraphs": [
-                "Mediterranean Shipping Company has launched an integrated intermodal rail and sea connection linking regional Gulf ports directly to the Riyadh Dry Port. The newly established multimodal routing bypasses complex maritime chokepoints to secure rapid inland container delivery across the Saudi industrial hinterland.",
-                "Shippers moving cargo across the Middle East gain transit reliability and reduced exposure to high-risk marine navigation zones. Global freight directors must balance higher rail intermodal haulage tariffs against substantial maritime war-risk insurance premiums."
+                "DP World has reported a sharp traffic slump at the Port of Jebel Ali, costing the terminal operator an estimated $100M per month in lost throughput revenue. Regional supply chain bottlenecks and geopolitical shipping diversions are directly depressing regional container handling volumes.",
+                "Middle Eastern import-export networks face constrained gateway efficiency and elevated dwell times at primary transshipment hubs. Supply chain managers should diversify routing alternatives through secondary regional ports to maintain schedule integrity."
             ],
             "imageUrl": "",
-            "nextUpTease": "SOLAR SOURCING: POLYSILICON IMPORT TARIFF",
+            "nextUpTease": "RAIL: SO CAL CARGO THEFT",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T04:10:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SOLAR SOURCING: POLYSILICON IMPORT TARIFF",
+            "heading": "RAILROAD: SO CAL CARGO THEFT",
             "paragraphs": [
-                "Federal trade authorities have enacted a 15% tariff alongside an enforced import price floor on foreign polysilicon shipments, effective Dec. 4, 2026. The protective trade measure directly impacts upstream component flows utilized across domestic semiconductor manufacturing and solar module assembly lines.",
-                "Clean energy project developers and electronics manufacturers face an immediate baseline cost surge across critical silicon-derived bill-of-materials. Supply chain teams must accelerate alternative domestic supplier qualification before the mandatory tariff trigger date."
+                "Law enforcement agencies have arrested 5 suspects in Southern California following a high-profile freight rail cargo theft incident involving gunfire from a moving BNSF train. The violent disruption highlights ongoing security vulnerabilities along key intermodal rail corridors serving major West Coast ports.",
+                "Intermodal rail operators face mounting pressure to upgrade trackside surveillance and deploy armed security escorts to protect high-value consumer goods. Shippers moving electronics and apparel through western rail hubs must incorporate cargo risk insurance into freight contracts."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME POLICY: INDIA CABOTAGE WAIVER",
+            "nextUpTease": "INFRASTRUCTURE: ZEV TRUCK INCENTIVES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-13T22:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME POLICY: INDIA CABOTAGE WAIVER",
+            "heading": "INFRASTRUCTURE: ZEV TRUCK INCENTIVES",
             "paragraphs": [
-                "The Indian Ministry of Ports, Shipping and Waterways has officially restored its cabotage waiver for foreign-flagged container carriers to enhance regional policy stability. The regulatory reinstatement allows international container lines to transport domestic coastal export-import transshipment containers without statutory domestic licensing penalties.",
-                "Global ocean carriers and Indian container terminals gain operational flexibility to aggregate regional transshipment volumes at major coastal gateway hubs. Shippers can anticipate increased feeder network frequency, reduced domestic transit dwell times, and lower overall feeder logistics expenses."
+                "The Port of Los Angeles has committed $20M toward zero-emission truck charging infrastructure as part of an aggressive regional clean-air mandate. The capital allocation provides vital financial backing for motor carriers transitioning their drayage fleets to battery-electric heavy-duty vehicles.",
+                "Drayage operators serving West Coast container terminals must accelerate fleet electrification strategies to comply with strict regional environmental standards and qualify for port access incentives. Fleet directors face substantial capital expenditures to deploy required depot charging systems ahead of compliance deadlines."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-14T03:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

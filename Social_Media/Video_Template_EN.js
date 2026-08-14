@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS TRIGGER GLOBAL AUDITS",
+        "hookTitle": "TRADE COURT UPHOLDS EXEMPTION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "RAIL NETWORKS: UP-NS MERGER OPPOSITION",
+                "headline": "GOVERNMENT: EXEMPTION",
+                "teaserTitle": "CARRIERS: TARIFF REFUNDS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative has enacted Section three oh one tariffs across sixty trading partners following the expiration of Section one twenty-two. Importers face mandatory origin audits to avoid border impoundments."
+                "narration_line": "The United States Court of International Trade has upheld the suspension of de minimis exemptions. This legal ruling locks in over one billion dollars in mandatory customs duty collections."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL NETWORKS: UP-NS MERGER OPPOSITION",
-                "teaserTitle": "AIR LOGISTICS: SHENZHEN GATEWAY EXPANSION",
+                "headline": "BUSINESS: TARIFF REFUNDS",
+                "teaserTitle": "FUEL: HORMUZ TANKER ATTACKS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Six state attorneys general have formally opposed the proposed Union Pacific and Norfolk Southern railroad merger. Regulators cite diminished market competition for industrial rail shippers across Eastern corridors."
+                "narration_line": "Major parcel carriers are returning court mandated tariff refunds to commercial customers. Logistics teams must reconcile financial credits with historical landed costs."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR LOGISTICS: SHENZHEN GATEWAY EXPANSION",
-                "teaserTitle": "SOURCING RESILIENCE: COMPONENT BUFFER FUND",
+                "headline": "FUEL: HORMUZ TANKER ATTACKS",
+                "teaserTitle": "LOGISTICS: AIR CARGO DEMAND",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "DHL Express has finalized a two hundred and four million dollar expansion of its Shenzhen gateway hub. The facility accelerates automated sortation and air cargo lift across Asia trade routes."
+                "narration_line": "Crude oil prices climbed following twin tanker attacks in the Strait of Hormuz. International carriers are actively diverting voyages around high risk maritime zones."
             },
             {
                 "slide_index": 4,
-                "headline": "SOURCING RESILIENCE: COMPONENT BUFFER FUND",
-                "teaserTitle": "MULTIMODAL FREIGHT: SAUDI ARABIA CORRIDOR",
+                "headline": "NEWS: AIR CARGO DEMAND",
+                "teaserTitle": "FINANCE: PORT TRAFFIC SLUMP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "General Motors launched a four point five billion dollar financing agreement to pre-fund critical component purchases. The liquidity facility enables tier-one suppliers to stockpile parts against logistics disruptions."
+                "narration_line": "Muted peak season activity points to softer air cargo demand across global markets. Forwarders face downward yield pressure amid tighter e-commerce customs rules."
             },
             {
                 "slide_index": 5,
-                "headline": "MULTIMODAL FREIGHT: SAUDI ARABIA CORRIDOR",
-                "teaserTitle": "SOLAR SOURCING: POLYSILICON IMPORT TARIFF",
+                "headline": "PORTS: TRAFFIC SLUMP",
+                "teaserTitle": "RAIL: SO CAL CARGO THEFT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "MSC introduced an intermodal rail and sea link connecting Gulf ports directly to the Riyadh Dry Port. The solution bypasses volatile maritime chokepoints for expedited inland freight deliveries."
+                "narration_line": "Jebel Ali traffic declines are costing terminal operators one hundred million dollars monthly. Regional supply chain bottlenecks continue to depress container throughput."
             },
             {
                 "slide_index": 6,
-                "headline": "SOLAR SOURCING: POLYSILICON IMPORT TARIFF",
-                "teaserTitle": "MARITIME POLICY: INDIA CABOTAGE WAIVER",
+                "headline": "RAILROAD: SO CAL CARGO THEFT",
+                "teaserTitle": "INFRASTRUCTURE: ZEV TRUCK INCENTIVES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Federal trade authorities have imposed a fifteen percent tariff and price floor on polysilicon imports starting December fourth. Clean tech manufacturers face higher material costs across silicon supply chains."
+                "narration_line": "Law enforcement arrested five suspects following a Southern California freight train theft. Intermodal operators face urgent pressure to upgrade trackside cargo security."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME POLICY: INDIA CABOTAGE WAIVER",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "INFRASTRUCTURE: ZEV TRUCK INCENTIVES",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "India has officially restored its cabotage waiver for foreign container vessels to bolster policy stability. International carriers gain immediate flexibility to transport domestic transshipment cargo along Indian coastal lanes."
+                "narration_line": "The Port of Los Angeles committed twenty million dollars to zero emission truck charging. Drayage carriers must accelerate fleet electrification to meet environmental mandates."
             },
             {
                 "slide_index": 8,
