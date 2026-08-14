@@ -66,290 +66,147 @@ body {
 }
 
 /* ==========================================================================
-
    SEGMENT 1: MAIN SLIDE (Hook Style)
-
    ========================================================================== */
 
-
-
 .main-hook-style:not(.cta-slide) .content-body {
-
     padding-top: 300px;
-
     padding-left: 100px; /* UPDATED: Adjusted to match right padding as per screenshot */
-
     padding-right: 100px;
-
     padding-bottom: 100px;
-
     max-height: 1120px;
-
     overflow: hidden;
-
     display: flex;
-
     flex-direction: column;
-
     justify-content: center;
-
     align-items: flex-start;
-
     text-align: left;
-
 }
-
-
 
 .main-hook-style .logo-container {
-
     width: 100%;
-
     display: flex;
-
     justify-content: flex-start;
-
     align-items: center;
-
     margin-bottom: 20px;
-
     padding: 0;
-
 }
-
-
 
 .main-hook-style .brand-logo {
-
     height: 80px;
-
     width: auto;
-
     object-fit: contain;
-
 }
-
-
 
 .main-hook-style .kicker {
-
     font-family: var(--font-body) !important;
-
     color: #ffffff;
-
     font-size: 30px;
-
     font-weight: 600;
-
     letter-spacing: 2px;
-
     line-height: 2;
-
     text-transform: none;
-
     margin-bottom: 40px;
-
     text-align: left;
-
     padding: 0;
-
 }
-
-
 
 .main-hook-style header h1 {
-
     font-family: var(--font-title) !important;
-
     margin-bottom: 30px; 
-
     text-align: left;
-
     padding: 0;
-
     display: flex;
-
     flex-direction: column;
-
     align-items: flex-start;
-
     width: 100%;
-
     max-width: 880px; /* UPDATED: Adjusted max-width to fill the balanced padding */
-
 }
-
-
 
 /* DYNAMIC 2-LINER FOOTER PLACEHOLDER - FIXED POSITIONING */
-
 .footer-paragraph-placeholder {
-
     width: 100%;
-
     max-width: 880px; /* UPDATED: Adjusted max-width to fill the balanced padding */
-
     margin-top: 30px; 
-
     margin-bottom: 100px; 
-
     font-family: var(--font-body);
-
     font-size: 32px;
-
     line-height: 1.3;
-
     color: #ffffff;
-
     text-transform: none; 
-
     z-index: 5;
-
 }
-
-
 
 /* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
-
 .main-hook-style header h1 span, 
-
 .main-hook-style header h1 div {
-
     display: inline-block !important;
-
     transform: scaleY(1.8);
-
     transform-origin: left;
-
     font-size: clamp(80px, 12cqw, 140px) !important; 
-
     line-height: 1.3 !important;
-
     font-weight: 800 !important;
-
     letter-spacing: -1px !important;
-
     text-transform: none !important;
-
     overflow-wrap: break-word !important;
-
     word-break: break-word !important;
-
     color: var(--text-white);
-
     text-align: left;
-
     margin-bottom: 15px;
-
 }
-
-
 
 /* Force the very last word in the layout container to turn dark blue */
-
 .main-hook-style header h1 span:last-child,
-
 .main-hook-style header h1 div:last-child,
-
 .main-hook-style header h1 .last-word-blue {
-
     color: var(--aeon-blue) !important;
-
     margin-bottom: 0px;
-
 }
-
-
 
 .main-hook-style .bulletin-container {
-
     margin-top: 20px;
-
     max-width: 100%;
-
     flex: 0 1 auto; 
-
     display: flex;
-
     flex-direction: column;
-
     padding: 0;
-
 }
-
-
 
 .main-hook-style .bulletin-label {
-
     font-family: var(--font-title);
-
     font-size: clamp(25px, 4cqw, 40px);
-
     font-weight: 700;
-
     letter-spacing: 1px;
-
     line-height: 1;
-
     color: var(--aeon-blue);
-
     margin-bottom: 20px; 
-
     text-transform: none;
-
 }
-
-
 
 .main-hook-style .bulletin-list {
-
     list-style: none;
-
     max-height: 1200px;
-
     overflow: hidden;
-
 }
-
-
 
 .main-hook-style .bulletin-list li {
-
     font-family: var(--font-body);
-
     font-size: clamp(20px, 3cqw, 28px); 
-
     font-weight: 500;
-
     color: #ffffff;
-
     letter-spacing: 0.5px;
-
     line-height: 1; 
-
     margin-bottom: 10px; 
-
     text-transform: none;
-
     display: flex;
-
     align-items: center;
-
 }
 
-
-
 .main-hook-style .bulletin-list li .num {
-
     color: var(--aeon-blue);
-
     font-weight: 700;
-
     margin-right: 20px;
-
 } 
-
-
 
 /* ==========================================================================
    SEGMENT 2: MIDDLE SLIDES (Sub-Slide Style)
@@ -360,7 +217,7 @@ body {
     padding-left: 100px;  
     padding-right: 100px; 
     padding-bottom: 60px;     
-    max-height: 1220px;       
+    max-height: 1220px;        
     overflow: hidden;
     text-align: left;
 }
@@ -401,13 +258,16 @@ body {
 }
 
 .sub-slide-style .slide-summary, 
-.sub-slide-style .slide-projection {
+.sub-slide-style .slide-projection,
+.sub-slide-style .detail-text,
+.sub-slide-style .detail-text p,
+.sub-slide-style .slide-narrative {
     font-family: var(--font-body);
-    font-size: 10px; 
+    font-size: 32px; 
     font-weight: 500;
     line-height: 1.4;
     color: #ffffff;
-    margin-bottom: 1px;
+    margin-bottom: 20px;
     text-align: left;
 }
 
