@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OCEAN FREIGHT: MAERSK REVENUE SURGE",
-                "teaserTitle": "PORT SAFETY: ROTTERDAM TERMINAL EXPLOSION",
-                "visual_caption": "Maersk reported Q2 revenue of $15.8B as container freight rates surged globally. Operating profit reached $1.6B due to tightening vessel supply."
+                "headline": "AUTOMOTIVE: GM $4.5B BUFFER INVENTORY FUND",
+                "teaserTitle": "BUNKERING: ROTTERDAM TERMINAL EXPLOSION",
+                "visual_caption": "GM launched a $4.5B supplier liquidity fund to pre-fund critical component inventories. This capital injection protects core manufacturing operations against upstream supply disruptions."
             },
             {
                 "slide_index": 2,
-                "headline": "PORT SAFETY: ROTTERDAM TERMINAL EXPLOSION",
-                "teaserTitle": "OFFSHORE ENERGY: INDIA MARITIME BOOST",
-                "visual_caption": "An explosion at Gunvor Energy inside Port of Rotterdam caused 1 fatality and injured 6 workers. The incident triggered localized power outages across Europe's primary bunkering terminal."
+                "headline": "BUNKERING: ROTTERDAM TERMINAL EXPLOSION",
+                "teaserTitle": "FLEET LABOR: NON-DOMICILED CDL RESTRICTIONS",
+                "visual_caption": "An explosion at Rotterdam's Gunvor Energy terminal disrupted regional marine bunkering operations. Carriers face marine fuel delivery delays and climbing low-sulfur bunker surcharges."
             },
             {
                 "slide_index": 3,
-                "headline": "OFFSHORE ENERGY: INDIA MARITIME BOOST",
-                "teaserTitle": "FLEET COMPLIANCE: NON-DOMICILED CDL LIMITS",
-                "visual_caption": "India approved an $8.8B maritime exploration package under the Samudra Manthan initiative. The funding seeks to decrease the nation's 90% reliance on foreign crude imports."
+                "headline": "FLEET LABOR: NON-DOMICILED CDL RESTRICTIONS",
+                "teaserTitle": "RED SEA ROUTING: MSC GULF OVERLAND CORRIDOR",
+                "visual_caption": "Rhode Island and Utah tightened rules on non-domiciled CDLs across trucking fleets. The nationwide commercial driver pool could lose 200K+ drivers, constricting freight capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "FLEET COMPLIANCE: NON-DOMICILED CDL LIMITS",
-                "teaserTitle": "AUTOMOTIVE PROCUREMENT: GM SAFETY FUND",
-                "visual_caption": "Rhode Island and Utah tightened rules on non-domiciled commercial driver licenses. Fleet attrition could exceed 200,000 drivers across national freight corridors."
+                "headline": "RED SEA ROUTING: MSC GULF OVERLAND CORRIDOR",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
+                "visual_caption": "MSC launched an overland rail corridor linking Persian Gulf ports to Riyadh. The rail service circumvents maritime transit risks across the Strait of Hormuz."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTOMOTIVE PROCUREMENT: GM SAFETY FUND",
-                "teaserTitle": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
-                "visual_caption": "GM established a $4.5B component safety fund to pre-fund tier supplier purchases. The capital pool enables critical part stockpiling against unexpected supply chain disruptions."
+                "headline": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
+                "teaserTitle": "AIR FREIGHT: DHL $204M SHENZHEN EXPANSION",
+                "visual_caption": "Uber Freight confirmed a data breach compromising ~1M operational logistics records. Shippers and 3PLs must audit API access credentials to secure their freight networks."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
-                "teaserTitle": "E-COMMERCE LOGISTICS: USPS QR GLITCH",
-                "visual_caption": "DHL Express completed a $204M hub expansion at its Shenzhen gateway. The upgraded facility significantly expands express processing capacity across southern China."
+                "headline": "AIR FREIGHT: DHL $204M SHENZHEN EXPANSION",
+                "teaserTitle": "MARITIME POLICY: INDIA CABOTAGE WAIVER RESTORATION",
+                "visual_caption": "DHL Express opened its $204M expanded Shenzhen air gateway facility. The hub expands automated sorting by 50% and compresses cross-border export cycle times."
             },
             {
                 "slide_index": 7,
-                "headline": "E-COMMERCE LOGISTICS: USPS QR GLITCH",
-                "teaserTitle": "",
-                "visual_caption": "Technical outages disrupted USPS QR code scanning for marketplace parcel drop-offs. Sellers were required to manually print physical shipping labels to avoid delivery delays."
+                "headline": "MARITIME POLICY: INDIA CABOTAGE WAIVER RESTORATION",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "India restored cabotage exemptions for foreign container lines on coastal lanes. The reform lowers feeder costs and curbs cargo transshipment leakage to Colombo."
             },
             {
                 "slide_index": 8,
