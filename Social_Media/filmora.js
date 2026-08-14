@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "AUTOMOTIVE: GM $4.5B BUFFER INVENTORY FUND",
-                "teaserTitle": "BUNKERING: ROTTERDAM TERMINAL EXPLOSION",
-                "visual_caption": "GM launched a $4.5B supplier liquidity fund to pre-fund critical component inventories. This capital injection protects core manufacturing operations against upstream supply disruptions."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "POLYSILICON: CHIP SOLAR LEVY",
+                "visual_caption": "USTR implements Section 301 tariffs across 60 trading nations. Importers face strict compliance checks and border delays."
             },
             {
                 "slide_index": 2,
-                "headline": "BUNKERING: ROTTERDAM TERMINAL EXPLOSION",
-                "teaserTitle": "FLEET LABOR: NON-DOMICILED CDL RESTRICTIONS",
-                "visual_caption": "An explosion at Rotterdam's Gunvor Energy terminal disrupted regional marine bunkering operations. Carriers face marine fuel delivery delays and climbing low-sulfur bunker surcharges."
+                "headline": "PROCUREMENT: CHIP SOLAR LEVY",
+                "teaserTitle": "CDL RESTRICTIONS: NON-DOMICILED RULES",
+                "visual_caption": "A 15% tariff on polysilicon imports takes effect Dec 4. Manufacturers must adjust sourcing strategies to control costs."
             },
             {
                 "slide_index": 3,
-                "headline": "FLEET LABOR: NON-DOMICILED CDL RESTRICTIONS",
-                "teaserTitle": "RED SEA ROUTING: MSC GULF OVERLAND CORRIDOR",
-                "visual_caption": "Rhode Island and Utah tightened rules on non-domiciled CDLs across trucking fleets. The nationwide commercial driver pool could lose 200K+ drivers, constricting freight capacity."
+                "headline": "FLEET LABOR: NON-DOMICILED RULES",
+                "teaserTitle": "TARIFF RECOVERY: RECOUPMENT SURGE",
+                "visual_caption": "New state CDL restrictions threaten 200K driving jobs. Fleets encounter tightening capacity across major freight corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "RED SEA ROUTING: MSC GULF OVERLAND CORRIDOR",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
-                "visual_caption": "MSC launched an overland rail corridor linking Persian Gulf ports to Riyadh. The rail service circumvents maritime transit risks across the Strait of Hormuz."
+                "headline": "TARIFF RECOVERY: RECOUPMENT SURGE",
+                "teaserTitle": "AIR FREIGHT: SHENZHEN EXPANSION",
+                "visual_caption": "Corporations recoup hundreds of millions in federal tariff refunds. Secondary markets emerge to monetize pending trade claims."
             },
             {
                 "slide_index": 5,
-                "headline": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
-                "teaserTitle": "AIR FREIGHT: DHL $204M SHENZHEN EXPANSION",
-                "visual_caption": "Uber Freight confirmed a data breach compromising ~1M operational logistics records. Shippers and 3PLs must audit API access credentials to secure their freight networks."
+                "headline": "AIR FREIGHT: SHENZHEN EXPANSION",
+                "teaserTitle": "MARITIME POLICY: CABOTAGE RESTORATION",
+                "visual_caption": "DHL finishes a $204M expansion of its Shenzhen gateway. Sorting capacity increases by 50% for express cargo."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR FREIGHT: DHL $204M SHENZHEN EXPANSION",
-                "teaserTitle": "MARITIME POLICY: INDIA CABOTAGE WAIVER RESTORATION",
-                "visual_caption": "DHL Express opened its $204M expanded Shenzhen air gateway facility. The hub expands automated sorting by 50% and compresses cross-border export cycle times."
+                "headline": "MARITIME POLICY: CABOTAGE RESTORATION",
+                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
+                "visual_caption": "India restores cabotage waivers for foreign container ships. Coastal shipping lanes gain feeder capacity and lower rates."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME POLICY: INDIA CABOTAGE WAIVER RESTORATION",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "India restored cabotage exemptions for foreign container lines on coastal lanes. The reform lowers feeder costs and curbs cargo transshipment leakage to Colombo."
+                "headline": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
+                "teaserTitle": "FINAL SLIDE",
+                "visual_caption": "LA and Long Beach boost green incentives for clean vessels. Carriers must meet emission standards to avoid dock penalties."
             },
             {
                 "slide_index": 8,

@@ -1,80 +1,80 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "GM $4.5B BUFFER INVENTORY",
-        "titleBlue": "FUND",
-        "footerSummary": "Automakers establish $4.5B resilience liquidity facilities while critical maritime fuel terminals and domestic fleet labor face sudden tightening."
+        "titleWhite": "USTR FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR implements Section 301 tariffs across 60 nations as supply chains confront escalating trade volatility and regulatory friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "AUTOMOTIVE: GM $4.5B BUFFER INVENTORY FUND",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "General Motors established a $4.5B resilience liquidity facility designed to pre-fund Tier-1 and Tier-2 supplier material procurement. The financing mechanism enables critical parts manufacturers to stockpile essential semiconductor and raw material components ahead of persistent cross-border friction.",
-                "The direct capital injection eliminates holding cost strain for specialized parts vendors while protecting core assembly schedules against sudden inventory shortages. Automotive procurement directors must evaluate pre-funded supply models to insulate Tier-2 suppliers from acute working capital insolvency."
+                "The Office of the United States Trade Representative is moving forward with the implementation of strict trade duties targeting 60 foreign trading partners under Section 301 of the Trade Act of 1974. The enforcement action specifically penalizes cross-border supply chains associated with forced labor practices, creating immediate compliance obligations for multinational importers.",
+                "Supply chain directors must re-evaluate global sourcing footprints and audit supplier tiers to avoid punitive border seizures and unexpected financial liabilities. Procurement teams face compressed timelines to verify component provenance before incoming shipments reach domestic entry ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "BUNKERING: ROTTERDAM TERMINAL EXPLOSION",
+            "nextUpTease": "POLYSILICON: CHIP SOLAR LEVY",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T08:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "BUNKERING: ROTTERDAM TERMINAL EXPLOSION",
+            "heading": "PROCUREMENT: CHIP SOLAR LEVY",
             "paragraphs": [
-                "An industrial explosion at the Gunvor Energy facility in the Port of Rotterdam disrupted regional marine bunkering operations and caused localized power outages across adjacent refinery docks. Emergency response crews halted marine fuel transfers as engineering teams surveyed structural integrity and terminal piping networks.",
-                "Northwestern European marine fuel deliveries face compounding schedule delays, driving spot low-sulfur bunker premiums higher across regional bunkering hubs. Ocean carriers routing vessels through North Sea corridors must immediately verify marine fueling windows or secure alternate bunkering stops at Antwerp."
+                "The federal government has formally imposed a 15% tariff alongside a strict import price floor on all incoming polysilicon shipments utilized for semiconductor manufacturing and solar power infrastructure. The regulatory levy, scheduled to take effect on December 4, is designed to protect domestic clean-tech manufacturing capacity from foreign price undercutting.",
+                "Advanced technology manufacturers and renewable energy developers face escalating material acquisition costs and tighter component margins. Supply chain executives must recalibrate long-term procurement budgets and diversify raw material suppliers to mitigate upcoming capital expenditures."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET LABOR: NON-DOMICILED CDL RESTRICTIONS",
+            "nextUpTease": "CDL RESTRICTIONS: NON-DOMICILED RULES",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-13T16:52:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FLEET LABOR: NON-DOMICILED CDL RESTRICTIONS",
+            "heading": "FLEET LABOR: NON-DOMICILED RULES",
             "paragraphs": [
-                "State transportation departments in Rhode Island and Utah enacted strict administrative restrictions on non-domiciled commercial driver's licenses. The state-level regulatory clampdown accelerates a projected nationwide reduction of over 200,000 foreign truck drivers across interstate distribution lanes.",
-                "Dedicated freight networks and spot truckload shippers face immediate contracted capacity constraints across northern and intermountain transportation corridors. Logistics procurement teams must audit fleet driver qualification records and renegotiate route commitments to offset regional labor shortages."
+                "State transportation authorities in Rhode Island and Utah have enacted stringent administrative limits on non-domiciled commercial driver licenses across key interstate corridors. The state-level regulatory clampdown accelerates a projected nationwide reduction of over 200,000 foreign truck drivers from active freight distribution networks.",
+                "Dedicated trucking fleets and regional shippers face immediate capacity bottlenecks and rising spot market rates across northern transportation arteries. Logistics managers must audit driver compliance records and adjust carrier contracts to offset acute regional labor deficits."
             ],
             "imageUrl": "",
-            "nextUpTease": "RED SEA ROUTING: MSC GULF OVERLAND CORRIDOR",
+            "nextUpTease": "REFUND RECOVERY: TARIFF RECOUPMENT",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T18:00:00Z",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RED SEA ROUTING: MSC GULF OVERLAND CORRIDOR",
+            "heading": "TARIFF RECOVERY: RECOUPMENT SURGE",
             "paragraphs": [
-                "Mediterranean Shipping Company launched a multimodal inland transit corridor connecting Persian Gulf coastal gateways directly to Riyadh Dry Port via heavy rail infrastructure. The strategic rail service bypasses maritime bottlenecks and ongoing commercial transit restrictions affecting the Strait of Hormuz.",
-                "Cross-border cargo owners utilize the overland link to insulate high-value freight from maritime conflict zones and avoid steep war-risk ocean surcharges. Freight planners moving containerized imports into Saudi Arabia must recalculate overland rail tariffs against extended ocean feeder transit times."
+                "Major consumer brands and electronics manufacturers, including Nintendo and Kimberly-Clark, have successfully recouped hundreds of millions of dollars in federal tariff refunds. The returned capital helps offset ongoing cost inflation driven by rising oil prices and memory component shortages.",
+                "Corporate finance departments are leveraging secondary markets to monetize pending trade dispute claims and improve near-term operational liquidity. Treasury teams must actively pursue eligible customs duty drawbacks to protect operating margins against persistent macroeconomic headwinds."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
+            "nextUpTease": "AIR FREIGHT: SHENZHEN EXPANSION",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T07:30:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
+            "heading": "AIR FREIGHT: SHENZHEN EXPANSION",
             "paragraphs": [
-                "Uber Freight confirmed a data security incident after external threat actors compromised approximately 1M operational and shipping records across digital broker networks. Emergency containment protocols were initiated across digital load-matching platforms to isolate exposed endpoints and secure core API connections.",
-                "The breach exposes sensitive commercial pricing schedules and lane-matching data, escalating privacy and cargo diversion risks across third-party networks. Enterprise freight managers must audit broker integration keys, enforce multi-factor authentication, and monitor freight tenders for fraudulent re-brokering activity."
+                "DHL Express has completed a $204 million structural expansion of its primary Asian gateway located in Shenzhen, marking its largest single infrastructure investment in mainland China. The highly automated facility increases regional sorting capacity by 50% and streamlines express customs clearance procedures across the Pearl River Delta.",
+                "The upgraded logistics hub provides reliable air uplift for time-sensitive electronics and high-value industrial components bypassing congested marine ports. Forwarders can leverage the expanded terminal infrastructure to reduce Asia-to-Europe express export transit cycles by up to 24 hours."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: DHL $204M SHENZHEN EXPANSION",
+            "nextUpTease": "MARITIME POLICY: CABOTAGE RESTORATION",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: 2026-08-14T09:15:00Z",
@@ -83,31 +83,31 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "AIR FREIGHT: DHL $204M SHENZHEN EXPANSION",
+            "heading": "MARITIME POLICY: CABOTAGE RESTORATION",
             "paragraphs": [
-                "DHL Express completed a $204M expansion of its primary Shenzhen gateway, marking its largest single infrastructure investment in mainland China. The automated facility boosts overall sorting capacity by 50% and streamlines express customs processing across the Pearl River Delta industrial basin.",
-                "The expanded logistics hub secures dedicated uplift for time-sensitive electronics and advanced manufacturing components avoiding marine port backlogs. Air freight forwarders can utilize the expanded sorting hub to shorten Asia-to-Europe express export clearance cycles by up to 24 hours."
+                "The Indian Ministry of Ports has officially restored cabotage waivers, granting foreign-flagged container vessels full permission to transport domestic coastal cargo between regional seaports. The policy intervention aims to capture container volume previously lost to rival international transshipment hubs in Colombo and Singapore.",
+                "Global ocean carriers gain operational agility to reposition empty containers and consolidate regional cargo along domestic Indian coastal shipping lanes. Shippers moving bulk and containerized goods will benefit from expanded feeder capacity and reduced maritime logistics surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME POLICY: INDIA CABOTAGE WAIVER RESTORATION",
+            "nextUpTease": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T06:45:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME POLICY: INDIA CABOTAGE WAIVER RESTORATION",
+            "heading": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
             "paragraphs": [
-                "The Indian Ministry of Ports restored cabotage waivers granting foreign-flagged container vessels permission to move coastal containers between domestic seaports. The policy measure is designed to curb domestic transshipment losses to rival international transshipment ports such as Colombo and Singapore.",
-                "Global ocean carriers gain operational flexibility to reposition empty containers and aggregate regional cargo along domestic Indian coastal routes. Shippers moving industrial goods across Indian trade lanes will benefit from expanded feeder capacity, reduced feeder surcharges, and faster port turnarounds."
+                "The ports of Los Angeles and Long Beach have agreed to substantially increase financial incentives for ocean carriers deploying their lowest-emitting vessels into Southern California terminals. The funding initiative supports ongoing capital investments in heavy-duty electric vehicle charging infrastructure and zero-emission drayage trucks.",
+                "Ocean carriers failing to meet strict emissions thresholds face reduced incentive payouts and higher operational dockage fees at major Pacific gateways. Supply chain leaders must align vessel deployment strategies with regional environmental mandates to optimize port access costs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-14T05:20:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
