@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRADE COURT UPHOLDS DE MINIMIS EXEMPTION",
+        "hookTitle": "FORCED LABOR TARIFFS TRIGGER GLOBAL AUDITS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: DE MINIMIS EXEMPTION",
-                "teaserTitle": "ENFORCEMENT: TARIFF EVASION",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "RAIL NETWORKS: UP-NS MERGER OPPOSITION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The court upheld the suspension of tariff exemptions, generating over one billion dollars in duty payments. Importers face permanent cost increases across cross-border operations."
+                "narration_line": "The United States Trade Representative has enacted Section three oh one tariffs across sixty trading partners following the expiration of Section one twenty-two. Importers face mandatory origin audits to avoid border impoundments."
             },
             {
                 "slide_index": 2,
-                "headline": "ENFORCEMENT: TARIFF EVASION",
-                "teaserTitle": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
+                "headline": "RAIL NETWORKS: UP-NS MERGER OPPOSITION",
+                "teaserTitle": "AIR LOGISTICS: SHENZHEN GATEWAY EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Federal authorities deployed artificial intelligence to dismantle illicit transnational shipping networks. Compliance teams must implement automated provenance tracking to avoid penalties."
+                "narration_line": "Six state attorneys general have formally opposed the proposed Union Pacific and Norfolk Southern railroad merger. Regulators cite diminished market competition for industrial rail shippers across Eastern corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
-                "teaserTitle": "OCEAN FREIGHT: TRANS-PACIFIC RATES",
+                "headline": "AIR LOGISTICS: SHENZHEN GATEWAY EXPANSION",
+                "teaserTitle": "SOURCING RESILIENCE: COMPONENT BUFFER FUND",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Air cargo carriers experienced a volume contraction following European duty-free tax reforms. Forwarders must reallocate aircraft capacity to manage shifting demand."
+                "narration_line": "DHL Express has finalized a two hundred and four million dollar expansion of its Shenzhen gateway hub. The facility accelerates automated sortation and air cargo lift across Asia trade routes."
             },
             {
                 "slide_index": 4,
-                "headline": "OCEAN FREIGHT: TRANS-PACIFIC RATES",
-                "teaserTitle": "FLEET LABOR: CDL RESTRICTIONS",
+                "headline": "SOURCING RESILIENCE: COMPONENT BUFFER FUND",
+                "teaserTitle": "MULTIMODAL FREIGHT: SAUDI ARABIA CORRIDOR",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Spot freight rates on transpacific routes surged to new highs amid strong import demand. Shippers must secure fixed-rate contracts to mitigate market volatility."
+                "narration_line": "General Motors launched a four point five billion dollar financing agreement to pre-fund critical component purchases. The liquidity facility enables tier-one suppliers to stockpile parts against logistics disruptions."
             },
             {
                 "slide_index": 5,
-                "headline": "FLEET LABOR: CDL RESTRICTIONS",
-                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
+                "headline": "MULTIMODAL FREIGHT: SAUDI ARABIA CORRIDOR",
+                "teaserTitle": "SOLAR SOURCING: POLYSILICON IMPORT TARIFF",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "New state-level restrictions on non-domiciled commercial driver licenses compounded national capacity shortages. Fleet managers must audit driver credentials to maintain network continuity."
+                "narration_line": "MSC introduced an intermodal rail and sea link connecting Gulf ports directly to the Riyadh Dry Port. The solution bypasses volatile maritime chokepoints for expedited inland freight deliveries."
             },
             {
                 "slide_index": 6,
-                "headline": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
-                "teaserTitle": "MARITIME POLICY: ENERGY EXPLORATION",
+                "headline": "SOLAR SOURCING: POLYSILICON IMPORT TARIFF",
+                "teaserTitle": "MARITIME POLICY: INDIA CABOTAGE WAIVER",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Southern California ports increased financial incentives for low-emission vessel deployments. Carriers must align asset strategies with regional environmental mandates."
+                "narration_line": "Federal trade authorities have imposed a fifteen percent tariff and price floor on polysilicon imports starting December fourth. Clean tech manufacturers face higher material costs across silicon supply chains."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME POLICY: ENERGY EXPLORATION",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "MARITIME POLICY: INDIA CABOTAGE WAIVER",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "India launched an eight point eight billion dollar initiative to boost maritime energy exploration. Energy logistics providers gain extended charter opportunities."
+                "narration_line": "India has officially restored its cabotage waiver for foreign container vessels to bolster policy stability. International carriers gain immediate flexibility to transport domestic transshipment cargo along Indian coastal lanes."
             },
             {
                 "slide_index": 8,

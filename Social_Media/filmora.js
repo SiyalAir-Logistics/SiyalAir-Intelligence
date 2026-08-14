@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: DE MINIMIS EXEMPTION",
-                "teaserTitle": "ENFORCEMENT: TARIFF EVASION",
-                "visual_caption": "The court upheld the suspension of tariff exemptions, generating over $1B in duty payments. Importers face permanent cost increases across cross-border operations."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "RAIL NETWORKS: UP-NS MERGER OPPOSITION",
+                "visual_caption": "The USTR has enacted Section 301 tariffs on 60 trading partners as Section 122 expires. Importers face strict origin audits and rising customs scrutiny at US ports."
             },
             {
                 "slide_index": 2,
-                "headline": "ENFORCEMENT: TARIFF EVASION",
-                "teaserTitle": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
-                "visual_caption": "Federal authorities deployed AI tools to dismantle illicit transnational shipping networks. Compliance teams must implement automated provenance tracking to avoid penalties."
+                "headline": "RAIL NETWORKS: UP-NS MERGER OPPOSITION",
+                "teaserTitle": "AIR LOGISTICS: SHENZHEN GATEWAY EXPANSION",
+                "visual_caption": "6 state AGs have filed formal opposition against the proposed UP-NS railroad merger. Regulators cite diminished rail competition and freight rate risks for industrial shippers."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
-                "teaserTitle": "OCEAN FREIGHT: TRANS-PACIFIC RATES",
-                "visual_caption": "Air cargo carriers experienced a volume contraction following EU duty-free tax reforms. Forwarders must reallocate aircraft capacity to manage shifting demand."
+                "headline": "AIR LOGISTICS: SHENZHEN GATEWAY EXPANSION",
+                "teaserTitle": "SOURCING RESILIENCE: COMPONENT BUFFER FUND",
+                "visual_caption": "DHL Express completed a $204M expansion of its key Shenzhen air cargo gateway hub. The facility accelerates automated sortation across high-volume intra-Asia and transpacific corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "OCEAN FREIGHT: TRANS-PACIFIC RATES",
-                "teaserTitle": "FLEET LABOR: CDL RESTRICTIONS",
-                "visual_caption": "Spot freight rates on transpacific routes surged to new highs amid strong import demand. Shippers must secure fixed-rate contracts to mitigate market volatility."
+                "headline": "SOURCING RESILIENCE: COMPONENT BUFFER FUND",
+                "teaserTitle": "MULTIMODAL FREIGHT: SAUDI ARABIA CORRIDOR",
+                "visual_caption": "GM established a $4.5B liquidity fund to pre-fund critical component purchases for suppliers. The capital pool enables manufacturers to stockpile essential parts against unexpected supply disruptions."
             },
             {
                 "slide_index": 5,
-                "headline": "FLEET LABOR: CDL RESTRICTIONS",
-                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
-                "visual_caption": "New state-level restrictions on non-domiciled CDLs compounded national capacity shortages. Fleet managers must audit driver credentials to maintain network continuity."
+                "headline": "MULTIMODAL FREIGHT: SAUDI ARABIA CORRIDOR",
+                "teaserTitle": "SOLAR SOURCING: POLYSILICON IMPORT TARIFF",
+                "visual_caption": "MSC deployed an intermodal rail-sea corridor connecting regional ports to Riyadh Dry Port. The routing bypasses maritime chokepoints to secure predictable inland delivery schedules."
             },
             {
                 "slide_index": 6,
-                "headline": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
-                "teaserTitle": "MARITIME POLICY: ENERGY EXPLORATION",
-                "visual_caption": "Southern California ports increased financial incentives for low-emission vessel deployments. Carriers must align asset strategies with regional environmental mandates."
+                "headline": "SOLAR SOURCING: POLYSILICON IMPORT TARIFF",
+                "teaserTitle": "MARITIME POLICY: INDIA CABOTAGE WAIVER",
+                "visual_caption": "US regulators enacted a 15% tariff and import price floor on polysilicon effective Dec. 4, 2026. Solar and semiconductor manufacturers face higher baseline costs across silicon supply lines."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME POLICY: ENERGY EXPLORATION",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "India launched an $8.8B initiative to boost maritime energy exploration. Energy logistics providers gain extended charter opportunities."
+                "headline": "MARITIME POLICY: INDIA CABOTAGE WAIVER",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "India restored its maritime cabotage waiver for foreign container carriers to enhance shipping stability. Ocean lines gain operational flexibility to handle domestic coastal transshipment cargo without penalty."
             },
             {
                 "slide_index": 8,
