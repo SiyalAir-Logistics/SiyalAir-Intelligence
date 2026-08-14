@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TARIFFS ON 60 NATIONS",
+        "hookTitle": "POLISILICON TARIFF ON CHIPS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: TARIFFS ON 60 NATIONS",
-                "teaserTitle": "FINANCE: STONEPEAK RAILYARD",
+                "headline": "PROCUREMENT: POLISILICON TARIFF ON CHIPS",
+                "teaserTitle": "PORTS: ROTTERDAM TERMINAL BLAST",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is implementing forced labor tariffs on sixty nations under section three hundred and one. Importers face immediate administrative audits and heightened compliance costs at major border entry points."
+                "narration_line": "Washington enacted a fifteen percent tariff on foreign polysilicon imports effective December fourth. Importers face higher procurement costs and complex compliance audits for semiconductor supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "FINANCE: STONEPEAK RAILYARD",
-                "teaserTitle": "PORTS: CLEAN ENERGY INCENTIVES",
+                "headline": "SAFETY: ROTTERDAM TERMINAL BLAST",
+                "teaserTitle": "ENERGY: STRAIT HORMUZ TANKERS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Private equity firm Stonepeak has expanded its logistics portfolio by acquiring a major Texas railyard. Institutional investors continue racing to capture high-yield intermodal assets near critical distribution hubs."
+                "narration_line": "An explosion at the Gunvor Energy terminal in Rotterdam disrupted regional fuel storage operations. Supply chain managers must prepare for potential bunkering delays and spot price volatility."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: CLEAN ENERGY INCENTIVES",
-                "teaserTitle": "LOGISTICS: MAERSK REVENUE SURGE",
+                "headline": "ENERGY: STRAIT HORMUZ TANKERS",
+                "teaserTitle": "RETAIL: FALLING SALES DEMAND",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The ports of Los Angeles and Long Beach are increasing financial incentives for low-emitting vessels. Regional initiatives aim to accelerate maritime decarbonization and upgrade shore power infrastructure."
+                "narration_line": "Crude oil prices climbed following twin tanker attacks in the strategic Strait of Hormuz. International carriers are diverting vessels around high risk zones, increasing voyage expenses."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: MAERSK REVENUE SURGE",
-                "teaserTitle": "REGULATION: EU PACKAGING RULES",
+                "headline": "RETAIL: FALLING SALES DEMAND",
+                "teaserTitle": "REGULATION: DE MINIMIS RULING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Ocean carrier Maersk generated fifteen point eight billion dollars in revenue during the second quarter. Sustained freight rates helped operating profit nearly double year over year."
+                "narration_line": "United States retail sales unexpectedly declined in July as seasonal tax refunds faded away. Distributors must adjust inventory replenishment schedules to prevent overstocking warehouse facilities."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: EU PACKAGING RULES",
-                "teaserTitle": "AI: SUPPLY CHAIN ACCOUNTABILITY",
+                "headline": "REGULATION: DE MINIMIS RULING",
+                "teaserTitle": "FINANCE: INDIA OIL BOOST",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The European Union has activated stringent sustainable packaging rules for all commercial imports. Brands must provide comprehensive lifecycle documentation to avoid costly customs impoundments."
+                "narration_line": "A federal court upheld the suspension of the de minimis trade exemption for packages. Customs enforcement has already generated over one billion dollars in duty collections."
             },
             {
                 "slide_index": 6,
-                "headline": "AI: SUPPLY CHAIN ACCOUNTABILITY",
-                "teaserTitle": "ENERGY: OIL TANKER ATTACKS",
+                "headline": "FINANCE: INDIA OIL BOOST",
+                "teaserTitle": "TECHNOLOGY: AUTOMATION LABS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A new IDC survey reveals a critical supply chain AI accountability gap in logistics operations. Firms must establish robust governance frameworks before delegating decisions to autonomous agents."
+                "narration_line": "India approved an eight point eight billion dollar fund for maritime energy exploration. The initiative aims to reduce heavy import reliance on traditional Middle Eastern hydrocarbon corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "ENERGY: OIL TANKER ATTACKS",
+                "headline": "TECHNOLOGY: AUTOMATION LABS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Crude oil prices climbed following twin tanker attacks in the Strait of Hormuz. Shippers face surging marine insurance premiums and longer transit diversions."
+                "narration_line": "Major logistics operators are expanding the deployment of robotic arm systems in fulfillment hubs. Warehouse leaders are investing in automation to overcome persistent labor shortages."
             },
             {
                 "slide_index": 8,

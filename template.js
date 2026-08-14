@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TARIFFS ON 60",
-        "titleBlue": "NATIONS",
-        "footerSummary": "USTR implements forced labor-based tariffs on 60 trading partners as section 122 tariffs expire, driving up regulatory compliance costs."
+        "titleWhite": "POLISILICON TARIFF ON",
+        "titleBlue": "CHIPS",
+        "footerSummary": "White House imposes a 15% tariff on polysilicon imports starting Dec. 4, escalating compliance and margin pressure for semiconductor supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: TARIFFS ON 60 NATIONS",
+            "heading": "PROCUREMENT: POLISILICON TARIFF ON CHIPS",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially moved forward with the implementation of tariffs on 60 trading nations under Section 301 of the Trade Act of 1974. This enforcement action coincides directly with the formal expiration of Section 122 tariffs, signaling a permanent pivot toward targeted labor and human rights compliance vetting at major customs entry points.",
-                "Importers and global supply chain directors face immediate administrative adjustments and heightened compliance costs to verify tier-one and tier-two sourcing origins. Organizations must rapidly audit supplier networks to prevent severe border seizures and eliminate unexpected duty exposures across international trade corridors."
+                "The federal government has officially enacted a 15% tariff alongside a strict import price floor on foreign polysilicon shipments used for semiconductors and solar power generation, scheduled to take effect on Dec. 4. This new trade enforcement mandate is designed to protect domestic manufacturing capabilities while adding substantial financial overhead to tech hardware supply chains.",
+                "Importers and procurement directors face immediate compliance reviews and higher landed costs for critical raw materials essential to advanced electronics production. Organizations must restructure vendor contracts and recalculate capital allocations to offset the upcoming duty burdens without destabilizing profit margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: STONEPEAK RAILYARD",
+            "nextUpTease": "PORTS: ROTTERDAM TERMINAL BLAST",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FINANCE: STONEPEAK RAILYARD",
+            "heading": "SAFETY: ROTTERDAM TERMINAL BLAST",
             "paragraphs": [
-                "Private equity firm Stonepeak has significantly expanded its logistics real estate portfolio by acquiring a major strategic railyard in Texas. This institutional investment underscores the continuing race among private equity players to capture high-yield intermodal assets adjacent to critical inland freight distribution hubs.",
-                "Shippers utilizing southern rail networks should anticipate tighter capacity controls and evolving facility access policies as private operators optimize terminal performance. Logistics planners must evaluate long-term intermodal contracts against potential rate adjustments driven by institutional infrastructure ownership."
+                "A catastrophic explosion at the Gunvor Energy fuel storage facility within the Port of Rotterdam resulted in one fatality and multiple injuries, temporarily disrupting regional fuel supply logistics. Emergency response teams rushed to secure the site while localized power outages rippled through surrounding industrial and refinery operations.",
+                "Supply chain managers relying on European maritime fuel networks must prepare for potential bunkering delays and spot price volatility following the terminal shutdown. Logistics planners need to diversify fuel procurement channels and evaluate alternative bunkering ports to prevent voyage schedule disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: CLEAN ENERGY INCENTIVES",
+            "nextUpTease": "ENERGY: STRAIT HORMUZ TANKERS",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-12T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-13T16:52:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORTS: CLEAN ENERGY INCENTIVES",
+            "heading": "ENERGY: STRAIT HORMUZ TANKERS",
             "paragraphs": [
-                "The ports of Los Angeles and Long Beach have agreed to substantially increase financial incentives for ocean carriers deploying their lowest-emitting vessels into Southern California terminals. This collaborative regional initiative aims to accelerate maritime fleet decarbonization while expanding local shore power and zero-emission infrastructure investments.",
-                "Ocean carriers and drayage operators must modernize vessel deployments and terminal equipment portfolios to capture premium incentive disbursements and maintain cost-competitiveness. Shippers should factor environmental compliance metrics and port-specific sustainability fees into their carrier selection and routing strategies."
+                "International benchmark crude oil prices climbed following twin tanker attacks in the strategic Strait of Hormuz, intensifying maritime security threats across Middle Eastern trade corridors. Global shipping lines are aggressively diverting vessels around high-risk zones to safeguard crews and multi-million-dollar assets from ongoing regional conflict.",
+                "Escalating bunker fuel expenses and elevated marine insurance premiums are driving up operating costs across international container and bulk shipping lanes. Shippers must factor longer voyage detours and rising fuel surcharges into their quarterly freight budgets and transit time expectations."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: MAERSK REVENUE SURGE",
+            "nextUpTease": "RETAIL: FALLING SALES DEMAND",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LOGISTICS: MAERSK REVENUE SURGE",
+            "heading": "RETAIL: FALLING SALES DEMAND",
             "paragraphs": [
-                "Global ocean carrier Maersk capitalized effectively on heightened market volatility, generating $15.8B in revenue during the second quarter compared to $13.1B a year earlier. Operating profit nearly doubled year-over-year to reach $1.6B, driven by sustained elevated freight rates and robust transpacific demand.",
-                "Supply chain executives face persistent budgetary pressures as ocean carriers maintain aggressive pricing structures amid ongoing global trade disruptions. Shippers must secure multi-year service contracts and optimize container utilization to mitigate the financial strain of volatile freight markets."
+                "U.S. retail sales unexpectedly declined in July as seasonal tax refunds faded, dampening consumer demand across major commercial sectors. Retailers and wholesale distributors are now forced to reevaluate inventory holding strategies as consumer spending softens ahead of the autumn peak shipping season.",
+                "Supply chain directors must adjust inventory replenishment schedules to prevent overstocking stagnant merchandise in regional distribution centers. Balancing working capital against fluctuating consumer demand is critical to protecting warehouse liquidity and minimizing storage carrying costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: EU PACKAGING RULES",
+            "nextUpTease": "REGULATION: DE MINIMIS RULING",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REGULATION: EU PACKAGING RULES",
+            "heading": "REGULATION: DE MINIMIS RULING",
             "paragraphs": [
-                "The European Union has officially activated stringent sustainable packaging rules designed to curb industrial waste and mandate recyclable material usage across all commercial imports. These binding regulatory standards require comprehensive lifecycle documentation for every pallet, carton, and protective wrapping entering European distribution networks.",
-                "E-commerce brands and global manufacturers shipping into Europe must overhaul packaging engineering and sourcing specifications to ensure full regulatory compliance. Failure to adapt packaging designs risks costly customs impoundments and significant administrative penalties at European Union entry ports."
+                "A federal trade court has formally upheld the administration's suspension of the de minimis tariff exemption, which previously allowed duty-free entry for low-value packages. Customs and Border Protection data indicates this policy enforcement has already generated over $1B in duty collections as cross-border compliance standards tighten.",
+                "E-commerce platforms and international freight forwarders must overhaul customs declaration processes and absorb higher administrative clearance fees for direct-to-consumer imports. Importers failing to update tariff classification systems risk severe border delays and unexpected financial penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "AI: SUPPLY CHAIN ACCOUNTABILITY",
+            "nextUpTease": "FINANCE: INDIA OIL BOOST",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-12T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AI: SUPPLY CHAIN ACCOUNTABILITY",
+            "heading": "FINANCE: INDIA OIL BOOST",
             "paragraphs": [
-                "A comprehensive new industry survey conducted by IDC has revealed a critical supply chain AI accountability gap across enterprise logistics operations. While artificial intelligence adoption is accelerating in demand forecasting and route optimization, firms struggle to assign clear human oversight for automated decision errors.",
-                "Executive leadership teams must establish robust governance frameworks and audit protocols before delegating core inventory and transportation decisions to autonomous agents. Bridging this accountability divide is essential to prevent costly automated misallocations and protect enterprise profit margins."
+                "The Indian government has approved an $8.8B financial injection aimed at accelerating private sector maritime oil and gas exploration to reduce its 90% import dependency. This strategic infrastructure funding initiative seeks to secure domestic hydrocarbon supplies amid ongoing volatility and closures across traditional Middle Eastern shipping lanes.",
+                "Energy logistics providers and offshore equipment suppliers should anticipate surging demand for specialized maritime vessels and deep-water extraction technology. Regional infrastructure developers must coordinate closely with government agencies to expedite project timelines and optimize supply chain resiliency."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: OIL TANKER ATTACKS",
+            "nextUpTease": "TECHNOLOGY: AUTOMATION LABS",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-12T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-13T18:16:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ENERGY: OIL TANKER ATTACKS",
+            "heading": "TECHNOLOGY: AUTOMATION LABS",
             "paragraphs": [
-                "International benchmark crude oil prices climbed following twin tanker attacks in the strategic Strait of Hormuz, intensifying maritime security risks across the Persian Gulf. International carriers are increasingly diverting vessels around high-risk transit zones to protect crews and multimillion-dollar assets.",
-                "Escalating bunker fuel costs and marine insurance premiums are driving up operating expenses across global ocean and container shipping lanes. Shippers must evaluate the financial impact of longer transit routes against surging voyage overhead."
+                "Major logistics enterprises including FedEx and Amazon are rapidly expanding their deployment of advanced robotic arm systems across regional sorting and fulfillment hubs. This industry-wide automation push addresses persistent labor shortages while significantly accelerating package throughput and trailer loading efficiency.",
+                "Warehouse operators must evaluate capital investments in robotic integration to maintain competitive fulfillment speeds and reduce long-term labor overhead. Supply chain leaders failing to adopt automated material handling systems risk falling behind benchmark processing times and fulfillment accuracy standards."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
