@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "REAL ESTATE: WAREHOUSE VACANCY STABILIZATION",
-                "visual_caption": "The USTR is moving forward with Section 301 tariffs on 60 trading partners. Importers must establish rigorous Tier-1 through Tier-3 supply chain traceability to prevent automated customs holds."
+                "headline": "MAERSK: RAISES 2026 OUTLOOK AGAIN",
+                "teaserTitle": "TRADE COURT: DE MINIMIS SUSPENSION",
+                "visual_caption": "A.P. Moller - Maersk upgraded its 2026 financial guidance for the second consecutive quarter. Sustained export demand from Asia continues to drive robust profitability across its container division."
             },
             {
                 "slide_index": 2,
-                "headline": "REAL ESTATE: WAREHOUSE VACANCY STABILIZATION",
-                "teaserTitle": "PORT INFRASTRUCTURE: ROTTERDAM BUNKER DISRUPTION",
-                "visual_caption": "Industrial warehouse vacancy dropped 7 bps to 7.3% as net absorption outpaced new construction. Logistics operators face rising lease rates and tighter regional storage capacity entering Q3."
+                "headline": "TRADE COURT: DE MINIMIS SUSPENSION",
+                "teaserTitle": "MARITIME: H-LINE TANKER SWAP",
+                "visual_caption": "The U.S. Court of International Trade upheld the federal suspension of low-value customs exemptions. Importers have generated over $1B in cumulative duty collections."
             },
             {
                 "slide_index": 3,
-                "headline": "PORT INFRASTRUCTURE: ROTTERDAM BUNKER DISRUPTION",
-                "teaserTitle": "TRADE ENFORCEMENT: AI TARIFF CRACKDOWN",
-                "visual_caption": "An explosion at the Gunvor Energy terminal in the Port of Rotterdam disrupted primary bunker fuel infrastructure and caused regional power outages. Ocean carriers face immediate refueling delays and short-term marine gasoil price volatility."
+                "headline": "MARITIME: H-LINE TANKER SWAP",
+                "teaserTitle": "TRUCKING: NON-DOMICILED CDL LIMITS",
+                "visual_caption": "SK Shipping finalized an asset swap with H-Line Shipping to double its active fleet to 32 ships. The strategic restructuring positions the company to capture top-tier LNG transport market share."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE ENFORCEMENT: AI TARIFF CRACKDOWN",
-                "teaserTitle": "FLEET COMPLIANCE: ELD PURGE CONSTRAINTS",
-                "visual_caption": "Trade enforcers deployed AI models to uncover shadow transshipment networks across dozens of intermediary nations. Customs authorities are using predictive risk algorithms to flag high-risk manifests and fraudulent origin filings."
+                "headline": "TRUCKING: NON-DOMICILED CDL LIMITS",
+                "teaserTitle": "AIR CARGO: EVAPORATING PEAK DEMAND",
+                "visual_caption": "State transportation agencies in Rhode Island and Utah enacted strict limits on non-domiciled licenses. Industry experts project national driver losses will exceed 200K."
             },
             {
                 "slide_index": 5,
-                "headline": "FLEET COMPLIANCE: ELD PURGE CONSTRAINTS",
-                "teaserTitle": "FREIGHT CONTRACTS: SPOT MINIBIDS SURGE",
-                "visual_caption": "Federal revocations of non-compliant ELDs are removing unverified motor carriers from major freight corridors. Shippers must prepare for tightening over-the-road truckload capacity and rising spot market transportation costs."
+                "headline": "AIR CARGO: EVAPORATING PEAK DEMAND",
+                "teaserTitle": "RAILROAD: STB MERGER SCRUTINY",
+                "visual_caption": "Air forwarders noted unusually muted peak season cargo activity across European lanes in H2. Recent tax reforms eliminating duty-free exemptions have fundamentally altered cross-border shipping behavior."
             },
             {
                 "slide_index": 6,
-                "headline": "FREIGHT CONTRACTS: SPOT MINIBIDS SURGE",
-                "teaserTitle": "EU REGULATION: SUSTAINABLE PACKAGING MANDATE",
-                "visual_caption": "Enterprise cargo owners are replacing traditional annual freight contracts with high-frequency 30-to-90 day mini-bids. Targeted procurement allows transportation directors to dynamically secure truck capacity across volatile primary freight lanes."
+                "headline": "RAILROAD: STB MERGER SCRUTINY",
+                "teaserTitle": "PORT INFRASTRUCTURE: LA-LB CLEAN PLAN",
+                "visual_caption": "Six state attorneys general formally opposed the proposed Union Pacific and Norfolk Southern merger. The regulatory pushback highlights growing resistance against Class I rail consolidation."
             },
             {
                 "slide_index": 7,
-                "headline": "EU REGULATION: SUSTAINABLE PACKAGING MANDATE",
+                "headline": "PORT INFRASTRUCTURE: LA-LB CLEAN PLAN",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "The EU activated strict packaging waste regulations mandating minimum empty-space thresholds on cross-border shipments. Non-compliant international e-commerce merchants face automated border rejections and direct regulatory penalties."
+                "visual_caption": "The ports of Los Angeles and Long Beach introduced a new clean air investment addendum. Terminal operators must accelerate fleet electrification schedules to comply with new mandates."
             },
             {
                 "slide_index": 8,
