@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PORT SAFETY: ROTTERDAM TERMINAL EXPLOSION",
-                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 partner nations. Importers face immediate documentation audits and heightened customs compliance requirements at major ports."
+                "headline": "INLAND SHIPPING: RHINE FLEET EXPANSION",
+                "teaserTitle": "TRADE POLICY: DE MINIMIS EXEMPTION",
+                "visual_caption": "German logistics leaders propose a $14.4B shallow-water vessel program by 2035. The strategic initiative directly addresses severe drought cycles along the Rhine River to protect raw material flows."
             },
             {
                 "slide_index": 2,
-                "headline": "PORT SAFETY: ROTTERDAM TERMINAL EXPLOSION",
-                "teaserTitle": "INLAND LOGISTICS: $14.5B RHINE FLEET PLAN",
-                "visual_caption": "An explosion at a fuel facility in the Port of Rotterdam killed 1 worker and injured 6 others. Maritime authorities implemented emergency routing controls and paused localized vessel refueling operations."
+                "headline": "TRADE POLICY: DE MINIMIS EXEMPTION",
+                "teaserTitle": "MARITIME LOGISTICS: BALTIC GRAIN FRICTION",
+                "visual_caption": "The U.S. Court of Appeals upheld the executive suspension of the de minimis tariff carve-out. Customs data shows the ongoing enforcement has already generated over $1B in duty payments."
             },
             {
                 "slide_index": 3,
-                "headline": "INLAND LOGISTICS: $14.5B RHINE FLEET PLAN",
-                "teaserTitle": "AIR FREIGHT: DHL $204M GATEWAY EXPANSION",
-                "visual_caption": "German operator HGK proposed a $14.5B program to build 1,000 shallow-draft Rhine vessels. Shippers are securing specialized barge capacity to bypass drought surcharges."
+                "headline": "MARITIME LOGISTICS: BALTIC GRAIN FRICTION",
+                "teaserTitle": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
+                "visual_caption": "Intensifying military strikes on Black Sea infrastructure have severely destabilized regional agricultural grain trade routes. Recent missile attacks near Ukrainian Danube ports forced vessel operators to suspend normal charters."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR FREIGHT: DHL $204M GATEWAY EXPANSION",
-                "teaserTitle": "TRADE ENFORCEMENT: AI TARIFF CRACKDOWN",
-                "visual_caption": "DHL Express completed a $204M hub expansion in Shenzhen. The upgraded automated facility significantly expands cross-border express capacity on key European trade lanes."
+                "headline": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
+                "teaserTitle": "ENERGY TRANSITION: POLYSILICON TARIFFS",
+                "visual_caption": "State authorities in Rhode Island and Utah enacted strict new limits on non-domiciled commercial driver licenses. The regulatory tightening threatens to accelerate foreign driver shortages across major freight distribution lanes."
             },
             {
                 "slide_index": 5,
-                "headline": "TRADE ENFORCEMENT: AI TARIFF CRACKDOWN",
-                "teaserTitle": "INDUSTRIAL REAL ESTATE: Q2 VACANCY STABILIZATION",
-                "visual_caption": "Federal trade enforcers deployed AI models to dismantle shadow transshipment networks. Customs brokers face automated data screenings on origin documentation to identify illicit tariff evasion."
+                "headline": "ENERGY TRANSITION: POLYSILICON TARIFFS",
+                "teaserTitle": "AIR CARGO: PEAK SEASON VOLATILITY",
+                "visual_caption": "The federal government instituted a 15% import tariff on foreign polysilicon components for chips. Renewable energy developers face higher baseline material acquisition costs for capital projects."
             },
             {
                 "slide_index": 6,
-                "headline": "INDUSTRIAL REAL ESTATE: Q2 VACANCY STABILIZATION",
-                "teaserTitle": "CROSS-BORDER AVIATION: FAA PROBES MEXICO SAFETY",
-                "visual_caption": "U.S. industrial warehouse vacancy declined 7 bps to 7.3% in Q2. Logistics providers face firming lease rates as modern warehouse availability tightens."
+                "headline": "AIR CARGO: PEAK SEASON VOLATILITY",
+                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
+                "visual_caption": "Global air cargo markets experienced muted peak season activity indicators signaling weaker H2 demand. Transpacific forwarders report softer cargo volumes following recent international tax reforms."
             },
             {
                 "slide_index": 7,
-                "headline": "CROSS-BORDER AVIATION: FAA PROBES MEXICO SAFETY",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "The FAA initiated a comprehensive safety inquiry into Mexican civil aviation oversight. Air cargo integrators are establishing contingency flight schedules along bilateral trade corridors."
+                "headline": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
+                "teaserTitle": "FINAL SLIDE",
+                "visual_caption": "The ports of Los Angeles and Long Beach introduced an expanded clean air addendum with financial incentives. The program rewards ocean carriers deploying ultra-low-emission vessels into major container terminals."
             },
             {
                 "slide_index": 8,

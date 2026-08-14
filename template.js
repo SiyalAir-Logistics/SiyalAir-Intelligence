@@ -1,127 +1,127 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR implements Section 301 tariffs on 60 trading nations as Section 122 expires, while European barge networks seek $14.5B in emergency vessel fleet upgrades."
+        "titleWhite": "RHINE FLEET",
+        "titleBlue": "EXPANSION",
+        "footerSummary": "German inland shipping leaders propose a $14.4B shallow-water vessel program to combat severe Rhine drought disruptions and safeguard European supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "INLAND SHIPPING: RHINE FLEET EXPANSION",
             "points": [
-                "The Office of the U.S. Trade Representative officially moved forward with sweeping import tariffs across 60 trading partner nations under Section 301 of the Trade Act of 1974.",
-                "The broad enforcement action directly replaces the expiring Section 122 temporary tariff provisions to establish permanent forced-labor compliance mechanisms.",
-                "Global supply chain operators face heightened documentation thresholds and customs bond requirements for multi-tier international raw material sourcing.",
-                "Compliance directors must audit upstream tier-2 and tier-3 supplier origins to prevent border seizures and immediate cargo detentions at U.S. ports of entry."
+                "German inland navigation heavyweight HGK proposed a \u20ac12.5B program to construct 1,000 shallow-water vessels by 2035.",
+                "The strategic initiative directly addresses severe structural drought cycles along the Rhine River that trigger massive cargo surcharges.",
+                "European chemical and industrial manufacturers are actively seeking climate-resilient river transport assets to safeguard vital raw material flows.",
+                "Supply chain planners managing continental freight must evaluate shallow-draft fleet availability to hedge against seasonal water drops."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT SAFETY: ROTTERDAM TERMINAL EXPLOSION",
+            "nextUpTease": "TRADE POLICY: DE MINIMIS EXEMPTION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_tariffs",
-                "Published: 2026-08-13T14:15:00Z",
+                "Source: https://splash247.com/europe-urged-to-build-1000-shallow-water-ships/",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORT SAFETY: ROTTERDAM TERMINAL EXPLOSION",
+            "heading": "TRADE POLICY: DE MINIMIS EXEMPTION",
             "points": [
-                "An industrial explosion at the Gunvor Energy fuel storage facility within the Port of Rotterdam resulted in 1 fatality and 6 critical personnel injuries.",
-                "Emergency containment protocols prompted localized utility blackouts across nearby industrial refining sectors, temporarily interrupting energy bunkering lines.",
-                "Port logistics authorities implemented precautionary vessel traffic routing controls along northern channel berths during emergency safety operations.",
-                "Maritime carriers and liquid bulk charterers operating in Northwest Europe should prepare for localized terminal congestion and revised refueling schedules."
+                "The U.S. Court of Appeals upheld the executive suspension of the de minimis tariff carve-out, preserving strict trade enforcement.",
+                "Customs and Border Protection reports that the ongoing closure has already generated over $1B in cumulative duty payments.",
+                "Cross-border e-commerce sellers face heightened entry hurdles and mandatory tax compliance on previously exempt low-value shipments.",
+                "Logistics operators must integrate automated customs filing protocols to prevent recurring border clearance bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND LOGISTICS: $14.5B RHINE FLEET PLAN",
+            "nextUpTease": "MARITIME LOGISTICS: BALTIC GRAIN FRICTION",
             "tags": [
-                "Source: https://maritime-executive.com/article/explosion-kills-one-in-rotterdam",
-                "Published: 2026-08-13T16:52:00Z",
+                "Source: https://www.ttnews.com/articles/trade-court-upholds-trump-suspension-de-minimis-exemption",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INLAND LOGISTICS: $14.5B RHINE FLEET PLAN",
+            "heading": "MARITIME LOGISTICS: BALTIC GRAIN FRICTION",
             "points": [
-                "German inland navigation operator HGK proposed a $14.5B intergovernmental investment program to construct 1,000 shallow-water-capable barges by 2035.",
-                "The strategic initiative addresses severe structural drought cycles along the Rhine River where plunging water levels regularly trigger critical surcharge spikes.",
-                "European chemical and industrial manufacturers are actively seeking climate-resilient river transport assets to safeguard vital raw material flows.",
-                "Supply chain planners managing EU continental freight must evaluate shallow-draft fleet availability to hedge against seasonal shallow-water surcharges."
+                "Intensifying military strikes on Black Sea infrastructure have severely destabilized grain export routes from regional ports.",
+                "Recent missile attacks targeting Danube port facilities in Izmail forced traders to suspend normal vessel charters.",
+                "Global agricultural commodities supply chains face mounting insurance premiums and extended transit routing delays.",
+                "Exporters must secure alternative overland corridors and regional hubs to maintain consistent international food supplies."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: DHL $204M GATEWAY EXPANSION",
+            "nextUpTease": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
             "tags": [
-                "Source: https://splash247.com/europe-urged-to-build-1000-shallow-water-ships/",
-                "Published: 2026-08-13T12:30:00Z",
+                "Source: https://splash247.com/black-sea-grain-trade-buckles-under-maritime-war/",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR FREIGHT: DHL $204M GATEWAY EXPANSION",
+            "heading": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
             "points": [
-                "DHL Express completed a $204M expansion of its Shenzhen gateway hub, marking the carrier's largest single infrastructure investment in mainland China.",
-                "The modernized gateway facility significantly expands automated cargo handling capacity and accelerates throughput on critical cross-border air express lanes.",
-                "The strategic infrastructure launch comes as global e-commerce operators and industrial manufacturers diversify multimodal routing across APAC hubs.",
-                "High-tech electronics and precision manufacturing exporters gain expanded next-day air uplift capacity across major European and North American trade routes."
+                "State authorities in Rhode Island and Utah enacted strict new limitations governing the issuance of non-domiciled commercial driver licenses.",
+                "The localized regulatory tightening threatens to accelerate foreign driver attrition beyond federal projections of 200,000 lost operators.",
+                "Interstate motor carriers face growing driver scarcity across key regional distribution lanes and long-haul transport corridors.",
+                "Fleet executives must adopt aggressive retention strategies and automated load-matching to mitigate compounding driver shortages."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE ENFORCEMENT: AI TARIFF CRACKDOWN",
+            "nextUpTease": "ENERGY TRANSITION: POLYSILICON TARIFFS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/dhl_invests_204_million_shenzhen_gateway",
-                "Published: 2026-08-13T11:00:00Z",
+                "Source: https://www.ttnews.com/articles/rhode-island-utah-tighten-limits-non-domiciled-cdls",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRADE ENFORCEMENT: AI TARIFF CRACKDOWN",
+            "heading": "ENERGY TRANSITION: POLYSILICON TARIFFS",
             "points": [
-                "The White House Office of Trade and Manufacturing Policy released a directive deploying advanced AI analytics to dismantle shadow transshipment networks.",
-                "Federal enforcers are utilizing machine learning algorithms to detect fraudulent country-of-origin documentation and third-country tariff evasion routing.",
-                "Customs brokers and international freight intermediaries face mandatory algorithmic auditing on re-exported commodities and intermediate components.",
-                "Cross-border shippers must ensure complete digital traceability across bills of lading to avert immediate regulatory penalties and entry rejections."
+                "The federal government officially instituted a 15% import tariff alongside strict import price floors on foreign polysilicon components.",
+                "The regulatory measure, scheduled to take effect on December 4, targets critical raw materials used for semiconductors and solar energy.",
+                "Renewable energy developers and chip manufacturers face higher baseline material acquisition costs for capital projects.",
+                "Procurement teams must diversify supplier footprints across domestic and allied markets to protect long-term operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRIAL REAL ESTATE: Q2 VACANCY STABILIZATION",
+            "nextUpTease": "AIR CARGO: PEAK SEASON VOLATILITY",
             "tags": [
-                "Source: https://www.ttnews.com/articles/trump-trade-enforcers-deploy-ai-tariff-evasion",
-                "Published: 2026-08-13T15:20:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-imposes-15-percent-tariff-polysilicon-imports-solar-power-chips/756847/",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "INDUSTRIAL REAL ESTATE: Q2 VACANCY STABILIZATION",
+            "heading": "AIR CARGO: PEAK SEASON VOLATILITY",
             "points": [
-                "The U.S. industrial real estate sector stabilized in Q2 2026, with national vacancy dropping 7 basis points sequentially to 7.3% according to Colliers.",
-                "Leasing demand outpaced new warehouse completions as developers scaled back speculative warehouse groundbreakings across primary logistics corridors.",
-                "Third-party logistics providers and enterprise retailers are securing modern distribution footprint ahead of anticipated inventory replenishment cycles.",
-                "Enterprise supply chain leaders face firming lease rates and tighter class-A facility availability across core inland distribution hubs."
+                "Global air cargo markets experienced muted peak season activity indicators, signaling weaker demand heading into the second half.",
+                "Transpacific and Asia-Europe air freight forwarders report softer cargo volumes following recent duty-free tax reforms.",
+                "Airlines are adjusting regional capacity allocations to prevent spot rate erosion amidst fluctuating e-commerce demand.",
+                "Shippers should leverage short-term rate contracts to secure favorable air charter pricing ahead of year-end retail rushes."
             ],
             "imageUrl": "",
-            "nextUpTease": "CROSS-BORDER AVIATION: FAA PROBES MEXICO SAFETY",
+            "nextUpTease": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/industrial_real_estate_market_regains_balance",
-                "Published: 2026-08-13T13:40:00Z",
+                "Source: https://www.freightwaves.com/news/muted-air-cargo-peak-season-activity-signals-weaker-h2",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CROSS-BORDER AVIATION: FAA PROBES MEXICO SAFETY",
+            "heading": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
             "points": [
-                "The Federal Aviation Administration initiated a comprehensive technical review into Mexican civil aviation safety and oversight protocols.",
-                "The regulatory inquiry evaluates flight operations, cargo airworthiness standards, and oversight frameworks across commercial cross-border flight corridors.",
-                "Bilateral air freight carriers and integrated express integrators are reviewing cross-border flight schedules to mitigate potential regulatory constraints.",
-                "Logistics managers coordinating nearshoring air freight between Mexico and the U.S. should prepare alternative contingency routings."
+                "The ports of Los Angeles and Long Beach introduced an expanded clean air addendum featuring enhanced financial incentives for carriers.",
+                "The sustainability initiative rewards ocean liners deploying ultra-low-emission vessels into major Southern California container terminals.",
+                "Terminal operators are aggressively scaling electric vehicle charging networks and shore-power infrastructure to meet targets.",
+                "Maritime carriers must accelerate fleet decarbonization efforts to capture maximum operational rebates and berth priority."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com/questions-raised-over-new-us-probe-into-mexican-aviation/",
-                "Published: 2026-08-13T17:10:00Z",
+                "Source: https://www.joc.com/article/new-clean-air-plan-la-lb-includes-funds-ev-charging-infrastructure_20260813.html",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
