@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR FORCED LABOR TARIFFS",
+        "hookTitle": "TRADE COURT UPHOLDS DE MINIMIS EXEMPTION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "POLYSILICON: CHIP SOLAR LEVY",
+                "headline": "CUSTOMS: DE MINIMIS EXEMPTION",
+                "teaserTitle": "ENFORCEMENT: TARIFF EVASION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is implementing Section three hundred and one tariffs across sixty nations. Importers must audit supplier networks immediately to prevent costly border delays."
+                "narration_line": "The court upheld the suspension of tariff exemptions, generating over one billion dollars in duty payments. Importers face permanent cost increases across cross-border operations."
             },
             {
                 "slide_index": 2,
-                "headline": "PROCUREMENT: CHIP SOLAR LEVY",
-                "teaserTitle": "CDL RESTRICTIONS: NON-DOMICILED RULES",
+                "headline": "ENFORCEMENT: TARIFF EVASION",
+                "teaserTitle": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Washington has placed a fifteen percent levy on polysilicon imports starting in December. Technology manufacturers must diversify raw material sources to protect operating margins."
+                "narration_line": "Federal authorities deployed artificial intelligence to dismantle illicit transnational shipping networks. Compliance teams must implement automated provenance tracking to avoid penalties."
             },
             {
                 "slide_index": 3,
-                "headline": "FLEET LABOR: NON-DOMICILED RULES",
-                "teaserTitle": "TARIFF RECOVERY: RECOUPMENT SURGE",
+                "headline": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
+                "teaserTitle": "OCEAN FREIGHT: TRANS-PACIFIC RATES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "State transportation agencies are tightening restrictions on non-domiciled commercial driver licenses. Fleets face mounting capacity constraints as thousands of foreign drivers exit."
+                "narration_line": "Air cargo carriers experienced a volume contraction following European duty-free tax reforms. Forwarders must reallocate aircraft capacity to manage shifting demand."
             },
             {
                 "slide_index": 4,
-                "headline": "TARIFF RECOVERY: RECOUPMENT SURGE",
-                "teaserTitle": "AIR FREIGHT: SHENZHEN EXPANSION",
+                "headline": "OCEAN FREIGHT: TRANS-PACIFIC RATES",
+                "teaserTitle": "FLEET LABOR: CDL RESTRICTIONS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Major consumer brands have successfully recovered hundreds of millions in federal tariff refunds. Finance teams are leveraging secondary markets to boost near term liquidity."
+                "narration_line": "Spot freight rates on transpacific routes surged to new highs amid strong import demand. Shippers must secure fixed-rate contracts to mitigate market volatility."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR FREIGHT: SHENZHEN EXPANSION",
-                "teaserTitle": "MARITIME POLICY: CABOTAGE RESTORATION",
+                "headline": "FLEET LABOR: CDL RESTRICTIONS",
+                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "DHL Express has completed a two hundred four million dollar gateway expansion in Shenzhen. The automated hub increases sorting capacity by fifty percent for Asian exports."
+                "narration_line": "New state-level restrictions on non-domiciled commercial driver licenses compounded national capacity shortages. Fleet managers must audit driver credentials to maintain network continuity."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME POLICY: CABOTAGE RESTORATION",
-                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
+                "headline": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
+                "teaserTitle": "MARITIME POLICY: ENERGY EXPLORATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "India has restored cabotage waivers to allow foreign vessels on domestic coastal routes. Shippers benefit from expanded feeder capacity and reduced maritime transport surcharges."
+                "narration_line": "Southern California ports increased financial incentives for low-emission vessel deployments. Carriers must align asset strategies with regional environmental mandates."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
+                "headline": "MARITIME POLICY: ENERGY EXPLORATION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Southern California ports are increasing financial rewards for low emission vessel deployment. Carriers must align fleet standards to optimize terminal access and avoid fees."
+                "narration_line": "India launched an eight point eight billion dollar initiative to boost maritime energy exploration. Energy logistics providers gain extended charter opportunities."
             },
             {
                 "slide_index": 8,

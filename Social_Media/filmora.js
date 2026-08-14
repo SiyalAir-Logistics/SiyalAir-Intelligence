@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "POLYSILICON: CHIP SOLAR LEVY",
-                "visual_caption": "USTR implements Section 301 tariffs across 60 trading nations. Importers face strict compliance checks and border delays."
+                "headline": "CUSTOMS: DE MINIMIS EXEMPTION",
+                "teaserTitle": "ENFORCEMENT: TARIFF EVASION",
+                "visual_caption": "The court upheld the suspension of tariff exemptions, generating over $1B in duty payments. Importers face permanent cost increases across cross-border operations."
             },
             {
                 "slide_index": 2,
-                "headline": "PROCUREMENT: CHIP SOLAR LEVY",
-                "teaserTitle": "CDL RESTRICTIONS: NON-DOMICILED RULES",
-                "visual_caption": "A 15% tariff on polysilicon imports takes effect Dec 4. Manufacturers must adjust sourcing strategies to control costs."
+                "headline": "ENFORCEMENT: TARIFF EVASION",
+                "teaserTitle": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
+                "visual_caption": "Federal authorities deployed AI tools to dismantle illicit transnational shipping networks. Compliance teams must implement automated provenance tracking to avoid penalties."
             },
             {
                 "slide_index": 3,
-                "headline": "FLEET LABOR: NON-DOMICILED RULES",
-                "teaserTitle": "TARIFF RECOVERY: RECOUPMENT SURGE",
-                "visual_caption": "New state CDL restrictions threaten 200K driving jobs. Fleets encounter tightening capacity across major freight corridors."
+                "headline": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
+                "teaserTitle": "OCEAN FREIGHT: TRANS-PACIFIC RATES",
+                "visual_caption": "Air cargo carriers experienced a volume contraction following EU duty-free tax reforms. Forwarders must reallocate aircraft capacity to manage shifting demand."
             },
             {
                 "slide_index": 4,
-                "headline": "TARIFF RECOVERY: RECOUPMENT SURGE",
-                "teaserTitle": "AIR FREIGHT: SHENZHEN EXPANSION",
-                "visual_caption": "Corporations recoup hundreds of millions in federal tariff refunds. Secondary markets emerge to monetize pending trade claims."
+                "headline": "OCEAN FREIGHT: TRANS-PACIFIC RATES",
+                "teaserTitle": "FLEET LABOR: CDL RESTRICTIONS",
+                "visual_caption": "Spot freight rates on transpacific routes surged to new highs amid strong import demand. Shippers must secure fixed-rate contracts to mitigate market volatility."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR FREIGHT: SHENZHEN EXPANSION",
-                "teaserTitle": "MARITIME POLICY: CABOTAGE RESTORATION",
-                "visual_caption": "DHL finishes a $204M expansion of its Shenzhen gateway. Sorting capacity increases by 50% for express cargo."
+                "headline": "FLEET LABOR: CDL RESTRICTIONS",
+                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
+                "visual_caption": "New state-level restrictions on non-domiciled CDLs compounded national capacity shortages. Fleet managers must audit driver credentials to maintain network continuity."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME POLICY: CABOTAGE RESTORATION",
-                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
-                "visual_caption": "India restores cabotage waivers for foreign container ships. Coastal shipping lanes gain feeder capacity and lower rates."
+                "headline": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
+                "teaserTitle": "MARITIME POLICY: ENERGY EXPLORATION",
+                "visual_caption": "Southern California ports increased financial incentives for low-emission vessel deployments. Carriers must align asset strategies with regional environmental mandates."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
+                "headline": "MARITIME POLICY: ENERGY EXPLORATION",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "LA and Long Beach boost green incentives for clean vessels. Carriers must meet emission standards to avoid dock penalties."
+                "visual_caption": "India launched an $8.8B initiative to boost maritime energy exploration. Energy logistics providers gain extended charter opportunities."
             },
             {
                 "slide_index": 8,

@@ -1,50 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR implements Section 301 tariffs across 60 nations as supply chains confront escalating trade volatility and regulatory friction."
+        "titleWhite": "TRADE COURT UPHOLDS",
+        "titleBlue": "EXEMPTION",
+        "footerSummary": "Trade court upholds Trump administration suspension of de minimis exemptions, driving over $1 billion in customs duty payments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "CUSTOMS: DE MINIMIS EXEMPTION",
             "paragraphs": [
-                "The Office of the United States Trade Representative is moving forward with the implementation of strict trade duties targeting 60 foreign trading partners under Section 301 of the Trade Act of 1974. The enforcement action specifically penalizes cross-border supply chains associated with forced labor practices, creating immediate compliance obligations for multinational importers.",
-                "Supply chain directors must re-evaluate global sourcing footprints and audit supplier tiers to avoid punitive border seizures and unexpected financial liabilities. Procurement teams face compressed timelines to verify component provenance before incoming shipments reach domestic entry ports."
+                "The U.S. Court of International Trade has officially upheld the executive suspension of the de minimis tariff carve-out, cementing a major regulatory shift for cross-border ecommerce. Customs and Border Protection data confirms that this enforcement action has already generated over $1 billion in mandatory duty payments.",
+                "Importers and digital marketplace sellers face permanent cost increases and tighter compliance scrutiny on low-value international shipments. Supply chain executives must restructure fulfillment models to absorb recurring duty expenses without eroding retail margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "POLYSILICON: CHIP SOLAR LEVY",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "PROCUREMENT: CHIP SOLAR LEVY",
-            "paragraphs": [
-                "The federal government has formally imposed a 15% tariff alongside a strict import price floor on all incoming polysilicon shipments utilized for semiconductor manufacturing and solar power infrastructure. The regulatory levy, scheduled to take effect on December 4, is designed to protect domestic clean-tech manufacturing capacity from foreign price undercutting.",
-                "Advanced technology manufacturers and renewable energy developers face escalating material acquisition costs and tighter component margins. Supply chain executives must recalibrate long-term procurement budgets and diversify raw material suppliers to mitigate upcoming capital expenditures."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CDL RESTRICTIONS: NON-DOMICILED RULES",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "FLEET LABOR: NON-DOMICILED RULES",
-            "paragraphs": [
-                "State transportation authorities in Rhode Island and Utah have enacted stringent administrative limits on non-domiciled commercial driver licenses across key interstate corridors. The state-level regulatory clampdown accelerates a projected nationwide reduction of over 200,000 foreign truck drivers from active freight distribution networks.",
-                "Dedicated trucking fleets and regional shippers face immediate capacity bottlenecks and rising spot market rates across northern transportation arteries. Logistics managers must audit driver compliance records and adjust carrier contracts to offset acute regional labor deficits."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "REFUND RECOVERY: TARIFF RECOUPMENT",
+            "nextUpTease": "AI ENFORCEMENT: TARIFF EVASION",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-13T00:00:00Z",
@@ -52,14 +22,44 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "TARIFF RECOVERY: RECOUPMENT SURGE",
+            "id": 2,
+            "heading": "ENFORCEMENT: TARIFF EVASION",
             "paragraphs": [
-                "Major consumer brands and electronics manufacturers, including Nintendo and Kimberly-Clark, have successfully recouped hundreds of millions of dollars in federal tariff refunds. The returned capital helps offset ongoing cost inflation driven by rising oil prices and memory component shortages.",
-                "Corporate finance departments are leveraging secondary markets to monetize pending trade dispute claims and improve near-term operational liquidity. Treasury teams must actively pursue eligible customs duty drawbacks to protect operating margins against persistent macroeconomic headwinds."
+                "The White House Office of Trade and Manufacturing Policy has deployed advanced artificial intelligence tools to target and dismantle complex transnational shipping networks. A newly released investigative report identifies dozens of foreign jurisdictions acting as intermediaries in illicit transshipment operations designed to bypass federal duties.",
+                "Importers relying on multi-tier foreign sourcing networks face heightened audit risks and immediate border seizures if component origins are misclassified. Logistics compliance teams must implement automated provenance tracking to protect operations from federal penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: SHENZHEN EXPANSION",
+            "nextUpTease": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
+            "paragraphs": [
+                "Global air cargo carriers and express forwarders are experiencing a sudden volume contraction following the enforcement of stringent EU duty-free tax reforms. The regulatory elimination of low-value import thresholds has fundamentally altered consumer purchasing behavior and cross-border shipping demand.",
+                "Air freight operators face an underwhelming peak season as retail supply chains absorb higher landed costs across European trade lanes. Forwarders must reallocate aircraft capacity and optimize routing schedules to manage shifting volume allocations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "OCEAN FREIGHT: TRANS-PACIFIC RATES",
+            "tags": [
+                "Source: https://www.theloadstar.com",
+                "Published: 2026-08-14T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "OCEAN FREIGHT: TRANS-PACIFIC RATES",
+            "paragraphs": [
+                "Spot freight rates on Asia-to-U.S. East Coast maritime routes have surged to new multi-month highs as ocean carriers successfully implement aggressive rate increases. Sustained import demand and ongoing vessel routing detours around geopolitical chokepoints continue to strain available maritime capacity.",
+                "Ocean shippers face escalating transportation budgets and tighter vessel space allocations ahead of the traditional peak shipping window. Beneficial cargo owners must secure fixed-rate service contracts early to mitigate severe spot market volatility."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FLEET LABOR: CDL RESTRICTIONS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-14T00:00:00Z",
@@ -68,28 +68,28 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "AIR FREIGHT: SHENZHEN EXPANSION",
+            "heading": "FLEET LABOR: CDL RESTRICTIONS",
             "paragraphs": [
-                "DHL Express has completed a $204 million structural expansion of its primary Asian gateway located in Shenzhen, marking its largest single infrastructure investment in mainland China. The highly automated facility increases regional sorting capacity by 50% and streamlines express customs clearance procedures across the Pearl River Delta.",
-                "The upgraded logistics hub provides reliable air uplift for time-sensitive electronics and high-value industrial components bypassing congested marine ports. Forwarders can leverage the expanded terminal infrastructure to reduce Asia-to-Europe express export transit cycles by up to 24 hours."
+                "Transportation departments in Rhode Island and Utah have enacted stringent new restrictions on non-domiciled commercial driver licenses across critical freight corridors. This state-level regulatory push compounds national driver shortages by sidelining thousands of active operators from interstate transport pools.",
+                "Motor carriers and regional shippers face acute capacity constraints and rising spot rates across key northern logistics arteries. Fleet managers must audit driver credentialing compliance to maintain network continuity and avoid severe service disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME POLICY: CABOTAGE RESTORATION",
+            "nextUpTease": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T09:15:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME POLICY: CABOTAGE RESTORATION",
+            "heading": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
             "paragraphs": [
-                "The Indian Ministry of Ports has officially restored cabotage waivers, granting foreign-flagged container vessels full permission to transport domestic coastal cargo between regional seaports. The policy intervention aims to capture container volume previously lost to rival international transshipment hubs in Colombo and Singapore.",
-                "Global ocean carriers gain operational agility to reposition empty containers and consolidate regional cargo along domestic Indian coastal shipping lanes. Shippers moving bulk and containerized goods will benefit from expanded feeder capacity and reduced maritime logistics surcharges."
+                "The ports of Los Angeles and Long Beach have finalized an expansive regulatory addendum that substantially increases financial incentives for low-emission vessel deployments. The multi-million dollar funding initiative accelerates the buildout of zero-emission charging infrastructure and heavy-duty electric drayage fleets.",
+                "Ocean carriers failing to meet strict regional environmental benchmarks face substantial financial penalties and higher terminal dockage fees. Supply chain leaders must align maritime asset strategies with Southern California clean air mandates to protect gateway access economics."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
+            "nextUpTease": "MARITIME POLICY: ENERGY EXPLORATION",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: 2026-08-14T00:00:00Z",
@@ -98,16 +98,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "PORT INFRASTRUCTURE: CLEAN INCENTIVES",
+            "heading": "MARITIME POLICY: ENERGY EXPLORATION",
             "paragraphs": [
-                "The ports of Los Angeles and Long Beach have agreed to substantially increase financial incentives for ocean carriers deploying their lowest-emitting vessels into Southern California terminals. The funding initiative supports ongoing capital investments in heavy-duty electric vehicle charging infrastructure and zero-emission drayage trucks.",
-                "Ocean carriers failing to meet strict emissions thresholds face reduced incentive payouts and higher operational dockage fees at major Pacific gateways. Supply chain leaders must align vessel deployment strategies with regional environmental mandates to optimize port access costs."
+                "The Indian government has launched an $8.8 billion funding initiative to accelerate private sector maritime oil and gas exploration in an effort to curb heavy hydrocarbon import reliance. The strategic policy intervention addresses acute national vulnerability exposed by ongoing transit disruptions across the Strait of Hormuz.",
+                "Energy logistics providers and offshore supply vessel operators gain extended charter opportunities across regional maritime energy corridors. Importers must monitor changing bunker fuel pricing structures as domestic exploration projects scale up production."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
