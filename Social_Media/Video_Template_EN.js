@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DE MINIMIS EXEMPTION UPHELD",
+        "hookTitle": "FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: DE MINIMIS UPHELD",
-                "teaserTitle": "CONTRACTS: FREIGHT RATE INFLATION",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "PANAMA CANAL: QUEUE-JUMP SURGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The international trade court has upheld presidential authority to rescind tariff exemptions for sub eight hundred dollar imports. This enforcement initiative has generated over one billion dollars in duty collections and transformed cross border parcel compliance."
+                "narration_line": "The trade representative enforces section three zero one tariffs across sixty nations. Importers face strict compliance audits and severe margin compression."
             },
             {
                 "slide_index": 2,
-                "headline": "CONTRACTS: FREIGHT RATE INFLATION",
-                "teaserTitle": "RAILROADS: MERGER OPPOSITION SQUEEZE",
+                "headline": "PANAMA CANAL: QUEUE-JUMP SURGE",
+                "teaserTitle": "MIDDLE EAST: DARK TRANSIT SPIKE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Persistent maritime disruptions have driven a broad rate increase wave spreading from spot quotes into multi year ocean contracts. Cargo owners face tighter transport budgets and reduced leverage as carriers prioritize yield optimization."
+                "narration_line": "A gas tanker paid four point six million dollars to jump the canal queue. Surging priority fees establish an expensive precedent for maritime charterers."
             },
             {
                 "slide_index": 3,
-                "headline": "RAILROADS: MERGER OPPOSITION SQUEEZE",
-                "teaserTitle": "TECHNOLOGY: TMS AUTONOMOUS AGENTS",
+                "headline": "MIDDLE EAST: DARK TRANSIT SPIKE",
+                "teaserTitle": "TRUCKING: CDL RESTRICTIONS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "State attorneys general have filed joint opposition against the proposed rail combination between Union Pacific and Norfolk Southern. Regulators warn the merger will degrade captive shipper access and reduce network redundancy."
+                "narration_line": "Middle Eastern transshipment volumes plunged sixty five percent amid security threats. Marine war risk insurance premiums have climbed steeply for operators."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: TMS AUTONOMOUS AGENTS",
-                "teaserTitle": "TRUCKING: ELD CAPACITY PURGE",
+                "headline": "TRUCKING: CDL RESTRICTIONS",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Enterprise transport management platforms are deploying autonomous artificial intelligence agents to evaluate real time freight profitability. Organizations failing to adopt automated tools risk operating at a severe cost disadvantage."
+                "narration_line": "New state driver license limits threaten to displace over two hundred thousand operators. Motor carriers face escalating recruitment challenges and capacity deficits."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING: ELD CAPACITY PURGE",
-                "teaserTitle": "AVIATION: E-COMMERCE DEMAND SLUMP",
+                "headline": "AIR CARGO: PEAK SEASON SLUMP",
+                "teaserTitle": "RAILROADS: MERGER OPPOSITION SQUEEZE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Federal safety enforcement targeting noncompliant electronic logging devices has resulted in widespread commercial vehicle out of service actions. Industry leadership warns this regulatory purge will worsen structural capacity deficits."
+                "narration_line": "Global air cargo spot rates dropped six percent as e-commerce customs tighten. Forwarders recalibrate capacity allocations ahead of autumn shipping windows."
             },
             {
                 "slide_index": 6,
-                "headline": "AVIATION: E-COMMERCE DEMAND SLUMP",
-                "teaserTitle": "ENERGY: STRAIT OF HORMUZ DETOURS",
+                "headline": "RAILROADS: MERGER OPPOSITION SQUEEZE",
+                "teaserTitle": "MARITIME: DETOUR ECONOMY IMPACT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Stricter international customs treatment and the elimination of low value duty exemptions are depressing cross border airfreight demand. Air cargo forwarders report softening peak season volumes and increased clearance scrutiny."
+                "narration_line": "State attorneys general filed formal opposition against the rail merger. Shippers must establish flexible alternative routing strategies to avoid bottlenecks."
             },
             {
                 "slide_index": 7,
-                "headline": "ENERGY: STRAIT OF HORMUZ DETOURS",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "MARITIME: DETOUR ECONOMY IMPACT",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Continuing security incidents within the Strait of Hormuz have forced energy charterers to utilize dark transit detours. Marine insurance premiums and bunker expenses have surged dramatically for intercontinental carriers."
+                "narration_line": "Extended voyage detours are institutionalizing a permanent detour economy. Longer transit distances absorb excess vessel capacity and sustain freight rates."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }
