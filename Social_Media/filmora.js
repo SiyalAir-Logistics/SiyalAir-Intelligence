@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PROCUREMENT: POLISILICON TARIFF ON CHIPS",
-                "teaserTitle": "PORTS: ROTTERDAM TERMINAL BLAST",
-                "visual_caption": "Washington enacted a 15% tariff on foreign polysilicon imports effective Dec. 4. Importers face higher procurement costs and complex compliance audits for semiconductor supply chains."
+                "headline": "USTR: FORCED LABOR TARIFFS ON NATIONS",
+                "teaserTitle": "CUSTOMS: DE MINIMIS RULING UPHOLD",
+                "visual_caption": "The USTR is enforcing Section 301 tariffs on 60 nations. Importers face immediate compliance audits and higher landed costs."
             },
             {
                 "slide_index": 2,
-                "headline": "SAFETY: ROTTERDAM TERMINAL BLAST",
-                "teaserTitle": "ENERGY: STRAIT HORMUZ TANKERS",
-                "visual_caption": "An explosion at the Gunvor Energy terminal in Rotterdam disrupted regional fuel storage operations. Supply chain managers must prepare for potential bunkering delays and spot price volatility."
+                "headline": "CUSTOMS: DE MINIMIS RULING UPHOLD",
+                "teaserTitle": "SHIPPING: RATE INCREASE SPREAD",
+                "visual_caption": "A federal trade court upheld the de minimis exemption suspension. CBP data confirms duty collections have topped $1B."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY: STRAIT HORMUZ TANKERS",
-                "teaserTitle": "RETAIL: FALLING SALES DEMAND",
-                "visual_caption": "Crude oil prices climbed following twin tanker attacks in the strategic Strait of Hormuz. International carriers are diverting vessels around high-risk zones, increasing voyage expenses."
+                "headline": "SHIPPING: RATE INCREASE SPREAD",
+                "teaserTitle": "ENERGY: STRAIT HORMUZ TANKERS",
+                "visual_caption": "Carriers are pushing rate hikes from spot markets into customer contracts. Transpacific and European shipping costs are climbing."
             },
             {
                 "slide_index": 4,
-                "headline": "RETAIL: FALLING SALES DEMAND",
-                "teaserTitle": "REGULATION: DE MINIMIS RULING",
-                "visual_caption": "U.S. retail sales unexpectedly declined in July as seasonal tax refunds faded away. Distributors must adjust inventory replenishment schedules to prevent overstocking warehouse facilities."
+                "headline": "ENERGY: STRAIT HORMUZ TANKERS",
+                "teaserTitle": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
+                "visual_caption": "Crude oil prices swung following 2 tanker attacks in the Strait of Hormuz. Fleets are actively diverting around high-risk zones."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: DE MINIMIS RULING",
-                "teaserTitle": "FINANCE: INDIA OIL BOOST",
-                "visual_caption": "A federal court upheld the suspension of the de minimis trade exemption for packages. Customs enforcement has already generated over $1B in duty collections."
+                "headline": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
+                "teaserTitle": "RETAIL: FALLING SALES DEMAND",
+                "visual_caption": "Tighter customs rules on low-value air cargo threaten ecommerce demand. Forwarders face extended clearance delays at major hubs."
             },
             {
                 "slide_index": 6,
-                "headline": "FINANCE: INDIA OIL BOOST",
-                "teaserTitle": "TECHNOLOGY: AUTOMATION LABS",
-                "visual_caption": "India approved an $8.8B fund for maritime energy exploration. The initiative aims to reduce heavy import reliance on traditional Middle Eastern hydrocarbon corridors."
+                "headline": "RETAIL: FALLING SALES DEMAND",
+                "teaserTitle": "PORTS: ROTTERDAM TERMINAL BLAST",
+                "visual_caption": "U.S. retail sales declined in July as tax refunds faded. Distributors must adjust inventory holding strategies ahead of peak season."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: AUTOMATION LABS",
+                "headline": "PORTS: ROTTERDAM TERMINAL BLAST",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Major logistics operators are expanding the deployment of robotic arm systems in fulfillment hubs. Warehouse leaders are investing in automation to overcome persistent labor shortages."
+                "visual_caption": "A fatal explosion at a Rotterdam fuel facility disrupted bunkering operations. Shippers must prepare for regional fuel price volatility."
             },
             {
                 "slide_index": 8,
