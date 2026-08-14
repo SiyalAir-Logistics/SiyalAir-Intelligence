@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PORT OPERATIONS: PANAMA CANAL QUEUE-JUMP FEE",
-                "teaserTitle": "MARITIME LAW: DETENTION FEES RULING",
-                "visual_caption": "An empty tanker paid $4.6M to cut the Panama Canal queue. Surging transit tolls reflect intensifying maritime bottlenecks across global trade lanes."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME LAW: FREIGHT FLUIDITY",
+                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 nations. Importers must audit vendor documentation immediately to prevent border delays."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME LAW: DETENTION FEES RULING",
-                "teaserTitle": "TRUCKLOAD CAPACITY: ELD PURGE IMPACT",
-                "visual_caption": "The appeals court upheld a Federal Maritime Commission ruling on detention fees. Carriers must ensure penalty charges directly promote freight fluidity."
+                "headline": "MARITIME LAW: FREIGHT FLUIDITY",
+                "teaserTitle": "TRUCKLOAD CAPACITY: ELD CAPACITY SQUEEZE",
+                "visual_caption": "Federal courts upheld FMC rules requiring detention fees to drive freight fluidity. Shippers gain legal leverage against unfair port charges."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKLOAD CAPACITY: ELD PURGE IMPACT",
-                "teaserTitle": "LABOR COMPLIANCE: CDL RESTRICTIONS",
-                "visual_caption": "Strict electronic logging device enforcement is tightening truckload capacity nationwide. Shippers face rising spot rates and limited equipment availability."
+                "headline": "TRUCKLOAD CAPACITY: ELD CAPACITY SQUEEZE",
+                "teaserTitle": "LABOR COMPLIANCE: NON-DOMICILED CDL LIMITS",
+                "visual_caption": "Strict ELD enforcement is constricting capacity across U.S. truckload networks. Procurement teams must lock in dedicated carrier contracts."
             },
             {
                 "slide_index": 4,
-                "headline": "LABOR COMPLIANCE: CDL RESTRICTIONS",
-                "teaserTitle": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
-                "visual_caption": "New state driver license restrictions could eliminate over 200K commercial drivers. Motor carriers face escalating labor costs and driver shortages."
+                "headline": "LABOR COMPLIANCE: NON-DOMICILED CDL LIMITS",
+                "teaserTitle": "AIR CARGO: ECOMMERCE PEAK SLUMP",
+                "visual_caption": "New CDL restrictions threaten over 200K drivers nationwide. Fleets face escalating labor costs and severe regional shortages."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
-                "teaserTitle": "GLOBAL TRADE: TARIFF EVASION PROBE",
-                "visual_caption": "Tighter customs enforcement on low-value shipments has pushed air cargo spot rates down 6%. Muted peak season demand creates favorable pricing for shippers."
+                "headline": "AIR CARGO: ECOMMERCE PEAK SLUMP",
+                "teaserTitle": "GLOBAL TRADE: TARIFF EVASION NETWORK",
+                "visual_caption": "Customs crackdowns on low-value airfreight dropped spot rates 6% MoM. Shippers hold pricing power ahead of peak fulfillment cycles."
             },
             {
                 "slide_index": 6,
-                "headline": "GLOBAL TRADE: TARIFF EVASION PROBE",
-                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN ENERGY INCENTIVES",
-                "visual_caption": "A White House report reveals widespread tariff evasion through illegal transshipment. Importers face aggressive customs audits and severe civil penalties."
+                "headline": "GLOBAL TRADE: TARIFF EVASION NETWORK",
+                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDING",
+                "visual_caption": "White House investigations uncover extensive Section 301 tariff evasion. Customs is deploying analytics to seize noncompliant cargo."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT INFRASTRUCTURE: CLEAN ENERGY INCENTIVES",
+                "headline": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDING",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Los Angeles and Long Beach ports are boosting financial incentives for green vessels. Carriers deploying low-emission ships secure priority terminal handling."
+                "visual_caption": "LA and Long Beach ports boosted financial incentives for green vessels. Carriers deploying low-emission tonnage secure operational priority."
             },
             {
                 "slide_index": 8,
