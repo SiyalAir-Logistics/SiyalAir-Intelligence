@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CHINA CLAIMS DOZENS OF COUNTRIES HELPED EVADE",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "White House report exposes widespread illegal transshipment schemes while customs agencies intensify global trade enforcement and digital compliance audits."
+        "titleWhite": "CUSTOMS CRACKDOWNS ON CHINESE ECOMMERCE",
+        "titleBlue": "THREATEN",
+        "footerSummary": "Tighter customs enforcement on low-value airfreight shipments threatens to reverse ecommerce growth, amplifying compliance and margin risks across global air supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GLOBAL TRADE: CHINA TARIFF EVASION SCHEMES",
+            "heading": "CUSTOMS: ECOMMERCE AIRFREIGHT CRACKDOWN",
             "paragraphs": [
-                "A comprehensive White House intelligence report reveals that dozens of nations have actively assisted China in evading international trade tariffs through illegal transshipment methods. The deceptive practices involve sophisticated relabeling, repackaging, re-invoicing, and false country-of-origin claims designed to bypass federal customs enforcement.",
-                "Importers and supply chain executives face heightened scrutiny and increased risk of border seizures as trade authorities deploy advanced analytics to uncover fraudulent routing networks. Failing to verify true manufacturing origins risks severe financial penalties and lengthy cargo detentions at all major entry ports."
+                "Tougher customs treatment of low-value airfreight shipments is threatening to reverse ecommerce volume gains as border agencies step up compliance scrutiny. Shippers moving direct-to-consumer goods via air channels face immediate inspection delays and heightened regulatory friction.",
+                "Logistics providers must overhaul clearance protocols to mitigate expensive dwell times and cargo holds. Supply chain leaders should reevaluate multi-modal routing strategies to protect delivery schedules and control escalating cross-border expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: CLEAN ENERGY INCENTIVES",
+            "nextUpTease": "TARIFFS: USTR FORCED LABOR 60 NATIONS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://theloadstar.com/customs-crackdowns-on-chinese-ecommerce-threaten-airfreight-demand/",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORTS: CLEAN ENERGY INCENTIVES",
+            "heading": "TARIFFS: USTR FORCED LABOR 60 NATIONS",
             "paragraphs": [
-                "The Ports of Los Angeles and Long Beach have formalized a sweeping agreement to increase financial incentives for ocean carriers deploying low-emitting vessels. This targeted initiative rewards maritime operators that successfully reduce carbon intensity during terminal calls and cargo handling operations.",
-                "Shipping lines must accelerate fleet decarbonization schedules to capture valuable port fee discounts and maintain competitive operating margins across transpacific trade lanes. Port infrastructure investments are increasingly pivoting toward sustainable power architecture to support long-term environmental compliance."
+                "The Office of the United States Trade Representative is moving forward with sweeping tariffs on 60 trading partners under Section 301 as prior Section 122 measures expire. This enforcement action targets goods linked to forced labor practices, imposing strict import restrictions across diverse global manufacturing sectors.",
+                "Importers face sudden duty liabilities and compliance verification bottlenecks that can disrupt Q4 inventory planning. Executive procurement teams must audit tier-3 supplier networks immediately to ensure complete regulatory compliance and avoid severe border seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: MAERSK SURGING REVENUE",
+            "nextUpTease": "MARITIME: HAPAG LLOYD PROFIT FORECAST",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.logisticsmgmt.com/news/ustr-moves-ahead-with-forced-labor-based-tariffs-on-60-trading-partners",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OCEAN FREIGHT: MAERSK SURGING REVENUE",
+            "heading": "MARITIME: HAPAG LLOYD PROFIT FORECAST",
             "paragraphs": [
-                "AP Moller - Maersk successfully capitalized on heightened maritime market volatility, reporting Q2 revenue surging to $15.8B alongside an operating profit of $1.6B. Sustained geopolitical trade disruptions and continuous route detours have driven spot and contract freight rates significantly higher year-over-year.",
-                "Logistics procurement managers must navigate persistent capacity pricing pressure and reevaluate long-term ocean contracting strategies to protect annual freight budgets. Carriers are leveraging strong cash reserves to expand landside logistics integration and enhance supply chain resilience."
+                "Hapag-Lloyd has upgraded its full-year profit forecast, driven by sustained high container demand on ex-Asia trade lanes and elevated freight rate environments. Ocean carriers continue to capitalize on persistent network disruptions and extended routing requirements across major international corridors.",
+                "Cargo owners must navigate rising baseline transport costs and lock in long-term capacity agreements early to secure budget stability. Shippers are forced to absorb higher operating expenditures as carriers maintain strict capacity discipline through peak shipping seasons."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: TRUCKLOAD CAPACITY TIGHTENING",
+            "nextUpTease": "DEFENSE: PENTAGON CRITICAL MINERAL FUNDS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.joc.com/article/hapag-lloyd-hikes-full-year-profit-forecast-sustained-ex-asia-demand_20260814.html",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LOGISTICS: TRUCKLOAD CAPACITY TIGHTENING",
+            "heading": "DEFENSE: PENTAGON CRITICAL MINERAL FUNDS",
             "paragraphs": [
-                "Federal motor carrier safety enforcement targeting non-compliant electronic logging devices is actively driving significant capacity contraction across the domestic truckload segment. Industry executives confirm that strict regulatory oversight is sidelining non-compliant operators and constricting available over-the-road freight networks.",
-                "Shippers facing shrinking carrier availability must establish agile routing agreements and optimize load consolidation to avoid unexpected spot market rate spikes. Proactive fleet partnership management is critical to maintaining reliable delivery schedules amid ongoing regulatory consolidation."
+                "The US Department of Defense has executed over $2 billion in capital contracts to secure strategic battery materials and critical minerals from allied extraction hubs. This initiative insulates military supply chains from volatile overseas refining dependencies and export restrictions.",
+                "Commercial manufacturers will experience heightened competition for limited raw material inventories, driving up component acquisition costs. Supply chain architects must establish sovereign material reserves and formalize multi-tier supplier transparency frameworks to protect production."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
+            "nextUpTease": "AIR CARGO: UNITED AIRLINES LEADERSHIP",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://www.supplychaindive.com/news/pentagon-signs-deals-securing-batteries-critical-minerals/758000/",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
+            "heading": "AIR CARGO: UNITED AIRLINES LEADERSHIP",
             "paragraphs": [
-                "Aggressive customs enforcement targeting low-value cross-border e-commerce parcels is threatening to reverse air cargo volume growth across major international trade corridors. Regulatory agencies are demanding stricter data compliance and conducting more physical inspections, leading to extended dwell times at cargo hubs.",
-                "Air freight forwarders and online retail platforms must overhaul inventory velocity projections to account for persistent border clearance delays. Failure to adapt to these stringent trade enforcement protocols will result in missed delivery windows and escalating penalty costs."
+                "United Airlines Cargo President Jan Krems is stepping down next month after a storied 12-year tenure and four decades in global aviation logistics. His departure marks the transition of an era for air freight leadership amidst ongoing post-pandemic market recalibrations.",
+                "Forwarders and enterprise shippers must prepare for strategic shifts in air carrier network management and capacity allocations. Logistics procurement teams should monitor executive transitions closely to maintain strong carrier relationships during peak demand cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HOUBAREK TANKER ATTACK",
+            "nextUpTease": "MARITIME: UKRAINE BLACK SEA TRUCE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.freightwaves.com/news/united-airlines-cargo-chief-jan-krems-to-retire-after-storied-career",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: HOUBAREK TANKER ATTACK",
+            "heading": "MARITIME: UKRAINE BLACK SEA TRUCE",
             "paragraphs": [
-                "Recent militant attacks on commercial shipping in Middle Eastern waters have forced major vessel operators to maintain extended voyages around the African continent. This ongoing detour economy continues to strain global bunker fuel supplies and inflate international maritime transport expenditures.",
-                "Supply chain directors must factor prolonged transit schedules and elevated marine war risk insurance premiums into quarterly operational financial models. Diversifying trade lane options and securing flexible shipping contracts remain essential for mitigating geopolitical risk exposure."
+                "Ukraine is actively seeking a formal Black Sea shipping truce to halt attacks on civilian cargo vessels while expanding maritime security corridors. Concurrently, regional maritime war risks have escalated as strikes impact critical Baltic energy export infrastructure at Ust-Luga.",
+                "Vessel charterers face volatile war-risk insurance premiums and uncertain transit timelines across contested European trade routes. Energy and bulk shippers must incorporate robust security surcharges and flexible routing contingencies into Q3 operating budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: FALLING SALES DEMAND",
+            "nextUpTease": "TRUCKING: STATE CDL ENFORCEMENT PURGE",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://splash247.com/ukraine-seeks-black-sea-shipping-truce-as-drones-hit-ust-luga/",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RETAIL: FALLING SALES DEMAND",
+            "heading": "TRUCKING: STATE CDL ENFORCEMENT PURGE",
             "paragraphs": [
-                "United States retail sales unexpectedly contracted in July as seasonal tax refunds faded, softening commercial demand across key distribution sectors. Wholesalers and major retail operators are hastily adjusting inventory holding strategies to prevent overstocking ahead of upcoming autumn replenishment cycles.",
-                "Supply chain leaders must recalibrate warehouse throughput schedules and optimize inventory carrying costs to protect operating liquidity against fluctuating consumer spending patterns. Balancing warehouse capacity with accurate demand forecasting is critical to maintaining healthy inventory turns."
+                "State transportation agencies in Rhode Island and Utah have tightened regulatory limits on non-domiciled commercial driver licenses to align with federal safety mandates. This state-level enforcement surge follows broader federal actions sidelining thousands of noncompliant drivers nationwide.",
+                "Over-the-road fleets face localized driver shortages and immediate spot rate pressures across key regional freight corridors. Logistics managers must audit carrier compliance databases and secure secondary drayage options to prevent distribution bottlenecks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/rhode-island-utah-cdls",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

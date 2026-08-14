@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GLOBAL TRADE: CHINA TARIFF EVASION SCHEMES",
-                "teaserTitle": "PORTS: CLEAN ENERGY INCENTIVES",
-                "visual_caption": "A White House report reveals dozens of countries helped China evade tariffs through illegal transshipment. Importers face heightened scrutiny and border seizures as authorities audit global supply chains."
+                "headline": "CUSTOMS: ECOMMERCE AIRFREIGHT CRACKDOWN",
+                "teaserTitle": "TARIFFS: USTR FORCED LABOR 60 NATIONS",
+                "visual_caption": "Tougher customs treatment of low-value airfreight threatens ecommerce volume. Shippers face inspection delays and border compliance friction."
             },
             {
                 "slide_index": 2,
-                "headline": "PORTS: CLEAN ENERGY INCENTIVES",
-                "teaserTitle": "OCEAN FREIGHT: MAERSK SURGING REVENUE",
-                "visual_caption": "The ports of Los Angeles and Long Beach are increasing financial incentives for low-emitting vessels. Shipping lines must accelerate fleet decarbonization to capture valuable port fee discounts."
+                "headline": "TARIFFS: USTR FORCED LABOR 60 NATIONS",
+                "teaserTitle": "MARITIME: HAPAG LLOYD PROFIT FORECAST",
+                "visual_caption": "The USTR advances Section 301 tariffs on 60 trading partners. Importers face duty liabilities and verification bottlenecks."
             },
             {
                 "slide_index": 3,
-                "headline": "OCEAN FREIGHT: MAERSK SURGING REVENUE",
-                "teaserTitle": "LOGISTICS: TRUCKLOAD CAPACITY TIGHTENING",
-                "visual_caption": "Maersk reported Q2 revenue surging to $15.8B amid market volatility. Sustained trade disruptions continue to drive ocean freight contract rates higher."
+                "headline": "MARITIME: HAPAG LLOYD PROFIT FORECAST",
+                "teaserTitle": "DEFENSE: PENTAGON CRITICAL MINERAL FUNDS",
+                "visual_caption": "Hapag-Lloyd upgraded its full-year profit forecast on ex-Asia demand. Ocean carriers capitalize on persistent network disruptions."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: TRUCKLOAD CAPACITY TIGHTENING",
-                "teaserTitle": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
-                "visual_caption": "Federal enforcement targeting non-compliant electronic logging devices is driving capacity contraction. Shippers must establish agile routing agreements to avoid unexpected spot market rate spikes."
+                "headline": "DEFENSE: PENTAGON CRITICAL MINERAL FUNDS",
+                "teaserTitle": "AIR CARGO: UNITED AIRLINES LEADERSHIP",
+                "visual_caption": "The Pentagon executed over $2B in critical mineral supply contracts. This funding insulates military supply lines from overseas dependencies."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
-                "teaserTitle": "MARITIME: HOUBAREK TANKER ATTACK",
-                "visual_caption": "Tighter customs enforcement on low-value parcels is threatening air cargo volume growth. Forwarders must overhaul inventory velocity projections to account for extended clearance windows."
+                "headline": "AIR CARGO: UNITED AIRLINES LEADERSHIP",
+                "teaserTitle": "MARITIME: UKRAINE BLACK SEA TRUCE",
+                "visual_caption": "United Airlines Cargo President Jan Krems is stepping down next month. His departure marks a major transition for air freight leadership."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: HOUBAREK TANKER ATTACK",
-                "teaserTitle": "RETAIL: FALLING SALES DEMAND",
-                "visual_caption": "Militant attacks on commercial shipping have forced operators to maintain extended African detours. Supply chain directors must factor prolonged transit schedules into their quarterly financial models."
+                "headline": "MARITIME: UKRAINE BLACK SEA TRUCE",
+                "teaserTitle": "TRUCKING: STATE CDL ENFORCEMENT PURGE",
+                "visual_caption": "Ukraine is seeking a Black Sea shipping truce to protect civilian vessels. Maritime war risks continue to drive up European insurance premiums."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL: FALLING SALES DEMAND",
+                "headline": "TRUCKING: STATE CDL ENFORCEMENT PURGE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "U.S. retail sales unexpectedly fell 0.6% in July as seasonal tax refunds faded. Wholesalers are hastily adjusting inventory holding strategies to prevent overstocking."
+                "visual_caption": "Rhode Island and Utah tightened limits on non-domiciled CDL holders. Fleets face regional driver shortages and spot rate pressures."
             },
             {
                 "slide_index": 8,
