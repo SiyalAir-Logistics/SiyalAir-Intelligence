@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "TRADE POLICY: DE MINIMIS ELIMINATION",
-                "visual_caption": "USTR implements Section 301 tariffs on 60 trading partners to combat forced labor. Importers face immediate classification audits to prevent costly border halts."
+                "headline": "PORT OPERATIONS: PANAMA CANAL QUEUE-JUMP FEE",
+                "teaserTitle": "MARITIME LAW: DETENTION FEES RULING",
+                "visual_caption": "An empty tanker paid $4.6M to cut the Panama Canal queue. Surging transit tolls reflect intensifying maritime bottlenecks across global trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: DE MINIMIS ELIMINATION",
-                "teaserTitle": "CARGO SECURITY: DATA CENTER THEFT",
-                "visual_caption": "Trade court upholds de minimis elimination, driving over $1B in new duty payments. E-commerce shippers must now execute formal customs entries on all low-value parcels."
+                "headline": "MARITIME LAW: DETENTION FEES RULING",
+                "teaserTitle": "TRUCKLOAD CAPACITY: ELD PURGE IMPACT",
+                "visual_caption": "The appeals court upheld a Federal Maritime Commission ruling on detention fees. Carriers must ensure penalty charges directly promote freight fluidity."
             },
             {
                 "slide_index": 3,
-                "headline": "CARGO SECURITY: DATA CENTER THEFT",
-                "teaserTitle": "INLAND WATERWAYS: RHINE FLEET RENEWAL",
-                "visual_caption": "Theft syndicates hijack $111M in data center freight utilizing staged collision tactics. Tech shippers face surging insurance premiums and strict carrier verification rules."
+                "headline": "TRUCKLOAD CAPACITY: ELD PURGE IMPACT",
+                "teaserTitle": "LABOR COMPLIANCE: CDL RESTRICTIONS",
+                "visual_caption": "Strict electronic logging device enforcement is tightening truckload capacity nationwide. Shippers face rising spot rates and limited equipment availability."
             },
             {
                 "slide_index": 4,
-                "headline": "INLAND WATERWAYS: RHINE FLEET RENEWAL",
-                "teaserTitle": "GULF SHIPPING: STRAIT OF HORMUZ DISRUPTION",
-                "visual_caption": "HGK unveils $14.5B shallow-draft fleet renewal plan for climate-impacted Rhine waterways. Industrial shippers must navigate recurring drought bottlenecks across Europe."
+                "headline": "LABOR COMPLIANCE: CDL RESTRICTIONS",
+                "teaserTitle": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
+                "visual_caption": "New state driver license restrictions could eliminate over 200K commercial drivers. Motor carriers face escalating labor costs and driver shortages."
             },
             {
                 "slide_index": 5,
-                "headline": "GULF SHIPPING: STRAIT OF HORMUZ DISRUPTION",
-                "teaserTitle": "FREIGHT RAIL: UP-NS MERGER OPPOSITION",
-                "visual_caption": "UAE port container volumes plunge 65% amid ongoing Strait of Hormuz maritime disruption. Ocean carriers deploy war-risk surcharges and adjust regional vessel routing."
+                "headline": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
+                "teaserTitle": "GLOBAL TRADE: TARIFF EVASION PROBE",
+                "visual_caption": "Tighter customs enforcement on low-value shipments has pushed air cargo spot rates down 6%. Muted peak season demand creates favorable pricing for shippers."
             },
             {
                 "slide_index": 6,
-                "headline": "FREIGHT RAIL: UP-NS MERGER OPPOSITION",
-                "teaserTitle": "AIR CARGO: SHENZHEN GATEWAY EXPANSION",
-                "visual_caption": "Six state AGs file formal opposition against the proposed UP-NS railroad merger. Rail shippers face heightened pricing scrutiny and regulatory approval uncertainty."
+                "headline": "GLOBAL TRADE: TARIFF EVASION PROBE",
+                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN ENERGY INCENTIVES",
+                "visual_caption": "A White House report reveals widespread tariff evasion through illegal transshipment. Importers face aggressive customs audits and severe civil penalties."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: SHENZHEN GATEWAY EXPANSION",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "DHL Express commits $204M to triple air freight throughput at its Shenzhen hub. Manufacturers gain critical dedicated capacity across high-volume intra-Asia trade lanes."
+                "headline": "PORT INFRASTRUCTURE: CLEAN ENERGY INCENTIVES",
+                "teaserTitle": "FINAL SLIDE",
+                "visual_caption": "Los Angeles and Long Beach ports are boosting financial incentives for green vessels. Carriers deploying low-emission ships secure priority terminal handling."
             },
             {
                 "slide_index": 8,

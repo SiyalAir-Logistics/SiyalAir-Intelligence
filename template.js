@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR enforces Section 301 tariffs on 60 trading partners as trade courts uphold de minimis import duty collection."
+        "titleWhite": "PANAMA CANAL QUEUE",
+        "titleBlue": "FEE",
+        "footerSummary": "Panama Canal queue-jump fee hits a record $4.6M as geopolitical conflict reroutes global container shipping networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "PORT OPERATIONS: PANAMA CANAL QUEUE-JUMP FEE",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially initiated enforcement of Section 301 tariffs targeting 60 trading partners to counteract documented forced labor practices. This sweeping regulatory rollout takes effect immediately as temporary Section 122 duties expire across international trade lanes.",
-                "Global importers face immediate customs classification reviews and elevated duty exposure on high-risk manufacturing origins. Procurement teams must urgently audit supplier tiering and chain-of-custody documentation to prevent border entry delays and unexpected tariff liabilities."
+                "An empty liquefied petroleum gas tanker paid a record 4.6 million dollars to cut the Panama Canal queue next week, surpassing previous transit premiums. The surging priority fee reflects intensifying maritime bottlenecks as regional conflicts and drought conditions restrict global shipping lanes.",
+                "Vessel operators face difficult financial trade-offs between absorbing mounting queue tolls or enduring costly multi-week delays across critical international trade corridors. Logistics planners must dynamically recalculate voyage economics and allocate capital for priority transit authorizations."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: DE MINIMIS ELIMINATION",
+            "nextUpTease": "MARITIME LAW: DETENTION FEES RULING",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T08:30:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE POLICY: DE MINIMIS ELIMINATION",
+            "heading": "MARITIME LAW: DETENTION FEES RULING",
             "paragraphs": [
-                "The U.S. Court of International Trade has upheld executive authority to eliminate the Section 321 de minimis tariff exemption on sub-$800 commercial consignments. CBP official reporting confirms the suspension has already generated over $1B in gross customs duties nationwide.",
-                "Cross-border ecommerce platforms and air express consolidators must rapidly overhaul automated entry filing systems to process formal entry duties. Shippers face rising administrative brokerage expenses and potential clearance friction across major international gateway hubs."
+                "The U.S. Court of Appeals for the D.C. Circuit upheld a landmark Federal Maritime Commission decision mandating that carrier detention and demurrage fees must directly promote freight fluidity. The ruling reinforces regulatory oversight on ocean transportation billing practices to protect U.S. importers and exporters.",
+                "Carriers and marine terminal operators must audit billing transparency protocols to prevent costly regulatory penalties and shipper litigation. Shippers gain stronger legal footing to challenge punitive detention charges assessed during port congestion events."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO SECURITY: DATA CENTER THEFT",
+            "nextUpTease": "TRUCKLOAD CAPACITY: ELD PURGE IMPACT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T09:15:00Z",
+                "Source: https://www.fmc.gov",
+                "Published: 2026-07-08T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CARGO SECURITY: DATA CENTER THEFT",
+            "heading": "TRUCKLOAD CAPACITY: ELD PURGE IMPACT",
             "paragraphs": [
-                "Sophisticated cargo theft syndicates have executed staged 'bump and run' collisions to hijack nearly $111M in high-value semiconductor and data center equipment. Criminal networks are actively weaponizing compromised drivers and fraudulent dispatch credentials to intercept targeted over-the-road freight.",
-                "Enterprise technology shippers and freight brokers face soaring cargo insurance premiums and strict carrier validation mandates. Fleet security managers must enforce dual-driver protocols and real-time covert tracking hardware across all high-value electronics transit corridors."
+                "Federal enforcement targeting noncompliant electronic logging devices is driving further capacity tightening across the U.S. truckload segment. Fleet executives confirm that regulatory crackdowns are rapidly removing non-standard operators from domestic freight networks.",
+                "Shippers face constrained equipment availability and upward pressure on spot market contract rates across major regional lanes. Procurement teams must strengthen carrier partnerships and secure dedicated capacity agreements to insulate supply chains from regulatory disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "INLAND WATERWAYS: RHINE FLEET RENEWAL",
+            "nextUpTease": "LABOR COMPLIANCE: CDL RESTRICTIONS",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T07:45:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INLAND WATERWAYS: RHINE FLEET RENEWAL",
+            "heading": "LABOR COMPLIANCE: CDL RESTRICTIONS",
             "paragraphs": [
-                "German inland maritime operator HGK has submitted a $14.5B fleet modernization plan to replace aging barges with climate-resilient shallow-draft vessels along the Rhine River. The initiative addresses persistent European drought patterns that repeatedly restrict inland waterway navigation and industrial chemical transport.",
-                "European industrial shippers face long-term capital allocation choices between underwriting dedicated shallow-draft fleet charters or securing costlier rail freight alternatives. Logistics planners must balance seasonal draught surcharge volatility against intermodal conversion investments."
+                "State authorities in Rhode Island and Utah have implemented stricter limitations on non-domiciled commercial driver licenses, accelerating a national contraction of foreign driver pools. Industry projections indicate total driver losses could exceed 200,000 as additional states adopt similar credentialing barriers.",
+                "Motor carriers experience escalating labor cost pressures and severe driver shortages along critical regional distribution corridors. Fleets must invest in enhanced driver compensation and automated routing technologies to sustain operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "GULF SHIPPING: STRAIT OF HORMUZ DISRUPTION",
+            "nextUpTease": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-13T19:52:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GULF SHIPPING: STRAIT OF HORMUZ DISRUPTION",
+            "heading": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
             "paragraphs": [
-                "AD Ports Group reported a 65% plunge in regional container volumes across UAE terminals following escalating maritime security threats and tanker attacks in the Strait of Hormuz. Commercial operators are turning off AIS transponders and extending dark transits to navigate critical crude and container choke points.",
-                "Ocean freight carriers are implementing emergency war-risk surcharges and diverting tonnage toward overland Arabian Gulf feeder networks. Supply chain leaders must evaluate alternative transshipment corridors and prepare for extended voyage lead times across Middle Eastern routes."
+                "Tighter customs enforcement targeting low-value airfreight shipments is threatening to reverse rapid ecommerce volume growth across international trade lanes. Global air cargo spot rates dropped 6% month over month as muted peak season activity signals weaker second-half demand.",
+                "Cross-border express carriers and air freight forwarders face complex compliance audits and shifting pricing power in favor of shippers. Logistics managers must reevaluate hub utilization and adjust maindeck capacity commitments ahead of peak fulfillment cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT RAIL: UP-NS MERGER OPPOSITION",
+            "nextUpTease": "GLOBAL TRADE: TARIFF EVASION PROBE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-14T06:30:00Z",
+                "Source: https://www.theloadstar.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FREIGHT RAIL: UP-NS MERGER OPPOSITION",
+            "heading": "GLOBAL TRADE: TARIFF EVASION PROBE",
             "paragraphs": [
-                "Attorneys General from six states have formally filed opposition against the proposed Union Pacific and Norfolk Southern railroad merger, arguing the combination threatens competitive market pricing. The regulatory challenge highlights systemic concerns over rail bottleneck consolidation across central intermodal corridors.",
-                "Industrial rail shippers must prepare for extended regulatory scrutiny and potential divestiture conditions imposed by the Surface Transportation Board. Transport directors face persistent freight rate uncertainty and must maintain flexible multi-carrier routing contracts."
+                "A comprehensive White House report reveals that dozens of countries have actively helped international suppliers evade Section 301 tariffs through illegal transshipment and false country-of-origin claims. Customs authorities are deploying advanced data analytics to intercept relabeled and repackaged commercial consignments at border entry points.",
+                "Importers caught utilizing fraudulent supply chain routings face severe civil penalties, cargo seizures, and exhaustive customs compliance audits. Supply chain executives must verify tier-one and tier-two vendor documentation to eliminate hidden regulatory exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: SHENZHEN GATEWAY EXPANSION",
+            "nextUpTease": "PORT INFRASTRUCTURE: CLEAN ENERGY INCENTIVES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T05:10:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: SHENZHEN GATEWAY EXPANSION",
+            "heading": "PORT INFRASTRUCTURE: CLEAN ENERGY INCENTIVES",
             "paragraphs": [
-                "DHL Express has finalized a $204M capital investment in China to triple cargo processing throughput at its Shenzhen air gateway hub. The facility expansion directly addresses surging intra-Asia trade flows and structural cross-border electronics export volumes.",
-                "High-tech manufacturers and forwarders gain expanded maindeck capacity and accelerated customs throughput across South China export lanes. Air freight planners can leverage dedicated scheduled departures to bypass commercial bellyhold constraints during peak shipping cycles."
+                "The ports of Los Angeles and Long Beach have finalized an agreement to substantially increase financial incentives for ocean carriers deploying ultra-low-emitting vessels. The joint initiative aims to accelerate maritime decarbonization and expand regional electric vehicle charging infrastructure.",
+                "Ocean carriers operating green tonnage secure significant port fee reductions and operational priority at major West Coast container terminals. Supply chain leaders must align maritime carrier selection with corporate sustainability mandates to optimize terminal handling efficiency."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T04:20:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
