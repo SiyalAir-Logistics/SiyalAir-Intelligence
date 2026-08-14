@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ASIA TO US EAST COAST OCEAN RATES RISE TO NEW",
-        "titleBlue": "HIGH",
-        "footerSummary": "Transpacific container rates surge to record highs while carriers enforce strict peak season capacity limits across major international trade corridors."
+        "titleWhite": "FORCED LABOR TARIFF",
+        "titleBlue": "EXPANSION",
+        "footerSummary": "New USTR tariffs on 60 nations under Section 301 and expiring Section 122 provisions trigger immediate import cost pressures and cross-border compliance stress."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OCEAN FREIGHT: ASIA TO US EAST COAST OCEAN RATES RISE TO NEW HIGH",
+            "heading": "TARIFFS: FORCED LABOR EXPANSION",
             "paragraphs": [
-                "Container shipping spot rates from Asia to the US East Coast have climbed to an unprecedented peak as persistent trade lane bottlenecks constrain available vessel space. Ocean carriers are aggressively capitalizing on tightening market dynamics, leaving logistics buyers facing severe pricing pressures ahead of autumn inventory replenishments.",
-                "Procurement teams must immediately secure multi-month space guarantees to insulate supply chain budgets from continuous rate escalations and unpredictable carrier surcharges. Relying on volatile spot markets for transpacific shipping now exposes enterprise importers to severe margin compression and acute capacity shortages."
+                "The Office of the United States Trade Representative has officially moved forward with the implementation of strict forced-labor-based tariffs targeting 60 trading partners under Section 301 of the Trade Act of 1974. This aggressive regulatory rollout coincides with the simultaneous expiration of Section 122 tariff provisions, creating a complex dual-phase customs compliance challenge for importers.",
+                "Supply chain executives face immediate administrative bottlenecks and heightened audit risks as federal agencies ramp up origin verification protocols across high-volume trade lanes. Importers must rapidly audit tier-one and tier-two sourcing networks to prevent severe cargo holds and unexpected duty liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "MAERSK OUTLOOK: CAPITALIZES ON HEIGHTENED VOLATILITY",
+            "nextUpTease": "MARITIME: HORMUZ OIL SURGE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CARRIER STRATEGY: MAERSK CAPITALIZES ON HEIGHTENED VOLATILITY",
+            "heading": "MARITIME: HORMUZ OIL SURGE",
             "paragraphs": [
-                "AP Moller - Maersk reported second-quarter revenue of $15.8B alongside an operating profit of $1.6B, effectively doubling earnings compared to the previous year. The ocean carrier successfully leveraged ongoing geopolitical disruptions and regional port congestion to command higher freight rates across global service networks.",
-                "Shippers evaluating long-term contract renewals must account for carrier balance sheets that demonstrate robust immunity to short-term volume fluctuations. Partnering with financially resilient operators is vital to maintaining service reliability and priority asset allocation during periods of extreme international maritime stress."
+                "Ongoing security incidents and tanker attacks within the vital Strait of Hormuz have severely disrupted regional crude flows, forcing major energy charterers to seek alternative dark transit routes. Concurrently, regional container volume through key Middle Eastern transshipment hubs has plummeted by 65% as carriers avoid high-risk maritime chokepoints.",
+                "Global bunkering costs and war-risk marine insurance premiums have spiked sharply, driving up operational overhead for intercontinental ocean carriers. Logistics directors must factor prolonged transit detours and volatile fuel surcharges into their upcoming Q3 and Q4 transport budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: U.S. CLAIMS DOZENS OF COUNTRIES",
+            "nextUpTease": "TRUCKING: ELD ENFORCEMENT SQUEEZE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-14T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GLOBAL TRADE: U.S. CLAIMS DOZENS OF COUNTRIES",
+            "heading": "TRUCKING: ELD ENFORCEMENT SQUEEZE",
             "paragraphs": [
-                "A comprehensive White House report accuses dozens of international trading nations of actively assisting China in evading strict tariffs through illicit transshipment practices. Federal trade enforcers identified widespread non-compliance involving cargo relabeling, repackaging, and false country-of-origin documentation designed to bypass customs penalties.",
-                "Importers maintaining complex manufacturing footprints across Asia face imminent supply chain audits and heightened scrutiny at all major entry ports. Failing to verify true tier-three supplier origins now carries catastrophic financial exposure, including retroactive duty assessments and cargo seizures."
+                "Federal transportation authorities have intensified compliance sweeps targeting non-compliant electronic logging devices, resulting in the immediate out-of-service sidelining of dozens of commercial vehicles nationwide. Industry leadership warns that this strict regulatory purge will compound existing structural capacity deficits across major freight corridors.",
+                "Over-the-road shippers should anticipate tightening truckload capacity and rising spot market rates as compliant fleets absorb displaced freight volumes. Transport planners must strengthen core carrier relationships and secure guaranteed capacity agreements ahead of the upcoming peak shipping season."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: CUSTOMS CRACKDOWNS ON CHINESE ECOMMERCE",
+            "nextUpTease": "PORTS: NRF PEAK IMPORT WAVE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: CUSTOMS CRACKDOWNS ON CHINESE ECOMMERCE",
+            "heading": "PORTS: NRF PEAK IMPORT WAVE",
             "paragraphs": [
-                "Stricter regulatory enforcement targeting low-value cross-border e-commerce parcels is threatening to reverse volume growth across international air freight networks. Customs authorities are demanding granular digital manifests and conducting physical inspections that severely lengthen dwell times at primary airport hubs.",
-                "Online retail platforms and air cargo forwarders must overhaul inventory velocity models to absorb extended customs clearance windows without failing delivery promises. Ignoring these tightening border compliance protocols risks recurring shipment delays and heavy administrative fines."
+                "National Retail Federation data indicates that inbound container volumes at major United States ports have peaked early as supply chain stakeholders aggressively front-load inventory ahead of impending tariff expansions. Despite softening monthly retail sales figures reported by the Commerce Department, cargo owners continue to rush transpacific shipments into domestic warehouses.",
+                "Early inventory peaks threaten to trigger localized marine terminal congestion and chassis shortages as autumn import waves collide with lingering customs friction. Logistics managers must optimize drayage execution and secure buffer warehouse space to mitigate dwell time penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: AI AGENTS FIND THE LOAD",
+            "nextUpTease": "RAILROADS: MERGER OPPOSITION PUSHBACK",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T07:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LOGISTICS IT: AI AGENTS FIND THE LOAD",
+            "heading": "RAILROADS: MERGER OPPOSITION PUSHBACK",
             "paragraphs": [
-                "Emerging artificial intelligence platforms are transforming freight brokerage operations by autonomously identifying available loads and calculating real-time route profitability. These advanced machine learning tools replace traditional manual telephone chains with instantaneous, data-driven matching algorithms across digital transport networks.",
-                "Supply chain enterprises failing to integrate autonomous execution software into their transportation management systems risk losing a critical competitive edge in carrier procurement speed. Adopting intelligent brokerage automation is now essential to compress operational overhead and optimize freight spend."
+                "The legal battle surrounding the proposed Union Pacific and Norfolk Southern railway combination intensified as rail executives fired back against mounting state attorney general opposition. Opponents argue the mega-merger will compromise captive shipper access and reduce rail network redundancy across vital industrial regions.",
+                "Intermodal shippers face prolonged regulatory uncertainty that could delay strategic rail service enhancements and impact multi-year contract negotiations. Supply chain architects should develop flexible intermodal routing alternatives to insulate operations against potential post-merger service disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: LOS ANGELES LONG BEACH CLEAN ENERGY",
+            "nextUpTease": "AVIATION: E-COMMERCE CUSTOMS CRACKDOWN",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.theloadstar.com",
+                "Published: 2026-08-13T16:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PORT INFRASTRUCTURE: LOS ANGELES LONG BEACH CLEAN ENERGY",
+            "heading": "AVIATION: E-COMMERCE CUSTOMS CRACKDOWN",
             "paragraphs": [
-                "The Ports of Los Angeles and Long Beach have finalized an agreement to substantially increase financial incentives for ocean carriers deploying low-emission vessels. This strategic initiative rewards maritime operators that actively reduce carbon output during terminal calls along the vital West Coast trade gateway.",
-                "Ocean freight procurement managers must factor vessel environmental ratings into carrier selection criteria to capture available port tariff rebates and maintain corporate sustainability mandates. Aligning shipping networks with green marine infrastructure standards is rapidly becoming a baseline requirement for cost-efficient port access."
+                "Toughter international customs treatment and stricter enforcement of low-value shipment regulations are directly threatening airfreight demand across major cross-border e-commerce networks. Air cargo operators report softening peak season volumes as air forwarders grapple with new duty-free reform rules and increased clearance scrutiny.",
+                "High-speed air freight carriers and integrated parcel networks must adjust yield management strategies to offset declining direct-to-consumer parcel densities. Shippers utilizing expedited air services should prepare for volatile rate adjustments as operators reallocate capacity to traditional industrial cargo."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILROAD: AGENTS ARRESTED IN SOCAL THEFT",
+            "nextUpTease": "TECHNOLOGY: AI AGENT PROFITABILITY TOOLS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.theloadstar.com",
+                "Published: 2026-08-14T08:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAIL SECURITY: AGENTS ARRESTED IN SOCAL THEFT",
+            "heading": "TECHNOLOGY: AI AGENT PROFITABILITY TOOLS",
             "paragraphs": [
-                "Law enforcement officials have arrested five suspects following a high-stakes Southern California rail-cargo theft probe that involved armed suspects firing shots from a moving BNSF freight train. Interstate rail operators are intensifying security patrols and deploying advanced surveillance technology to combat organized cargo pilferage.",
-                "High-value shippers utilizing western rail corridors must implement enhanced cargo tracking and tamper-evident container sealing protocols to protect shipments in transit. Mitigating freight loss risks requires close coordination with Class I rail security teams and real-time monitoring solutions."
+                "Logistics technology providers are rapidly deploying autonomous artificial intelligence agents designed to evaluate real-time freight load profitability and streamline transportation management workflows. These advanced tools are transforming traditional transport management systems from passive record-keeping platforms into active decision-making engines.",
+                "Supply chain organizations failing to adopt automated freight optimization risk operating at a severe cost disadvantage in an increasingly volatile rate environment. Enterprise logistics leaders must evaluate agentic AI integration to enhance network visibility and accelerate carrier procurement cycles."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
                 "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Published: 2026-08-14T10:00:00Z",
                 "Status: Audited & True"
             ]
         }

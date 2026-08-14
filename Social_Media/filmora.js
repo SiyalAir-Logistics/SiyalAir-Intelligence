@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OCEAN FREIGHT: ASIA TO US EAST COAST OCEAN RATES RISE TO NEW HIGH",
-                "teaserTitle": "MAERSK OUTLOOK: CAPITALIZES ON HEIGHTENED VOLATILITY",
-                "visual_caption": "Container spot rates from Asia to the US East Coast have hit record highs. Importers face severe pricing pressure as capacity constraints tighten across major trade lanes."
+                "headline": "TARIFFS: FORCED LABOR EXPANSION",
+                "teaserTitle": "MARITIME: HORMUZ OIL SURGE",
+                "visual_caption": "The USTR enacted strict forced labor tariffs on 60 nations under Section 301. Importers face immediate administrative bottlenecks and compliance audits."
             },
             {
                 "slide_index": 2,
-                "headline": "CARRIER STRATEGY: MAERSK CAPITALIZES ON HEIGHTENED VOLATILITY",
-                "teaserTitle": "COMPLIANCE: U.S. CLAIMS DOZENS OF COUNTRIES",
-                "visual_caption": "Maersk generated $15.8B in Q2 revenue as operating profit doubled year over year. The carrier leveraged ongoing disruptions to command higher freight rates globally."
+                "headline": "MARITIME: HORMUZ OIL SURGE",
+                "teaserTitle": "TRUCKING: ELD ENFORCEMENT SQUEEZE",
+                "visual_caption": "Security incidents in the Strait of Hormuz disrupted crude flows and triggered a 65% drop in regional container volume. Bunker and insurance costs spiked."
             },
             {
                 "slide_index": 3,
-                "headline": "GLOBAL TRADE: U.S. CLAIMS DOZENS OF COUNTRIES",
-                "teaserTitle": "AIR CARGO: CUSTOMS CRACKDOWNS ON CHINESE ECOMMERCE",
-                "visual_caption": "A White House report claims dozens of nations helped China evade tariffs. Federal enforcers identified widespread illicit transshipment and false origin claims."
+                "headline": "TRUCKING: ELD ENFORCEMENT SQUEEZE",
+                "teaserTitle": "PORTS: NRF PEAK IMPORT WAVE",
+                "visual_caption": "Federal regulators intensified ELD compliance sweeps, sidelining commercial vehicles nationwide. Shippers should expect tightening truckload capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: CUSTOMS CRACKDOWNS ON CHINESE ECOMMERCE",
-                "teaserTitle": "TECHNOLOGY: AI AGENTS FIND THE LOAD",
-                "visual_caption": "Strict customs oversight on low-value e-commerce is disrupting air cargo demand. Authorities are enforcing tighter data requirements and physical inspections."
+                "headline": "PORTS: NRF PEAK IMPORT WAVE",
+                "teaserTitle": "RAILROADS: MERGER OPPOSITION PUSHBACK",
+                "visual_caption": "NRF data shows U.S. port imports peaked early as businesses front-loaded inventory ahead of tariffs. Cargo owners continue rushing shipments."
             },
             {
                 "slide_index": 5,
-                "headline": "LOGISTICS IT: AI AGENTS FIND THE LOAD",
-                "teaserTitle": "PORTS: LOS ANGELES LONG BEACH CLEAN ENERGY",
-                "visual_caption": "New AI platforms are transforming freight brokerage by finding loads autonomously. These tools calculate real-time route profitability and optimize network execution."
+                "headline": "RAILROADS: MERGER OPPOSITION PUSHBACK",
+                "teaserTitle": "AVIATION: E-COMMERCE CUSTOMS CRACKDOWN",
+                "visual_caption": "Railroad executives pushed back against state AG opposition to the mega-merger. Intermodal shippers face prolonged regulatory uncertainty."
             },
             {
                 "slide_index": 6,
-                "headline": "PORT INFRASTRUCTURE: LOS ANGELES LONG BEACH CLEAN ENERGY",
-                "teaserTitle": "RAILROAD: AGENTS ARRESTED IN SOCAL THEFT",
-                "visual_caption": "LA and LB ports are boosting financial incentives for low-emission vessels. Carriers sending their cleanest ships will receive higher rebates."
+                "headline": "AVIATION: E-COMMERCE CUSTOMS CRACKDOWN",
+                "teaserTitle": "TECHNOLOGY: AI AGENT PROFITABILITY TOOLS",
+                "visual_caption": "Stricter customs enforcement on low-value e-commerce shipments is threatening peak airfreight demand. Operators must adjust yield management."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL SECURITY: AGENTS ARRESTED IN SOCAL THEFT",
+                "headline": "TECHNOLOGY: AI AGENT PROFITABILITY TOOLS",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Law enforcement arrested 5 suspects in a SoCal rail-cargo theft probe. Operators are stepping up security patrols to protect freight in transit."
+                "visual_caption": "Logistics tech firms are deploying autonomous AI agents to evaluate real-time freight load profitability. Enterprises must adopt automated optimization."
             },
             {
                 "slide_index": 8,
