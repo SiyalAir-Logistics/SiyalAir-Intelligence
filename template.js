@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MAERSK",
-        "titleBlue": "SURGE",
-        "footerSummary": "Maersk elevates its full-year financial outlook as Q2 operating profits nearly double, driven by sustained spot rate momentum and agile network deployment."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR advances Section 301 tariffs across 60 trading partners as de minimis exemptions face total federal court elimination."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OCEAN FREIGHT: MAERSK SURGE",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "AP Moller-Maersk has officially raised its full-year financial outlook following a robust second quarter that saw operating profits nearly double year over year to $1.6B. Sustained freight rate strength and elevated demand across key transpacific and intercontinental trade lanes have significantly bolstered carrier balance sheets.",
-                "Shippers face continued margin pressures and heightened contract rate benchmarks as carriers successfully prioritize yield management over volume commitments. Logistics executives must evaluate long-term capacity allocations to protect operational budgets against ongoing maritime volatility."
+                "The Office of the United States Trade Representative has officially moved forward with implementing comprehensive tariffs targeting 60 trading partner nations under Section 301 of the Trade Act of 1974. This decisive regulatory action takes effect immediately following the expiration of temporary Section 122 emergency trade measures.",
+                "Importers operating across apparel, electronics, and agriculture face heightened cross-border documentation hurdles to verify compliance with stringent forced labor benchmarks. Procurement directors must audit tier-one and tier-two supplier networks to prevent severe cargo seizures and steep border penalty assessments."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: E-COMMERCE CRACKDOWN",
+            "nextUpTease": "CANAL TRANSIT: PANAMA AUCTION SURGE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T08:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T06:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR CARGO: E-COMMERCE CRACKDOWN",
+            "heading": "CANAL TRANSIT: PANAMA AUCTION SURGE",
             "paragraphs": [
-                "Stricter international customs enforcement targeting low-value e-commerce consignments is threatening to reverse airfreight demand spikes across major European import gateways. Regulatory bodies are intensifying shipment scrutiny, causing unexpected delays and altering modal selection behavior for cross-border retailers.",
-                "Express carriers and air cargo forwarders must adapt to compressed transit timelines and rigorous documentation mandates to prevent costly border impoundments. Supply chain planners should diversify inventory routing strategies to mitigate escalating compliance friction in the air sector."
+                "Panama Canal queue-jumping auction fees have reached a historic high of $4.6M after an empty liquefied petroleum gas tanker secured an expedited transit slot. Escalating geopolitical reroutings and draft restrictions continue to generate severe maritime bottleneck pressure across the critical central waterway.",
+                "Ocean freight carriers face an acute financial trade-off between paying multimillion-dollar auction premiums or absorbing 14-day transit diversions around Cape Horn. Supply chain executives must recalibrate landed cost forecasts as spot transit surcharges erode intercontinental margin buffers."
             ],
             "imageUrl": "",
-            "nextUpTease": "MOTOR CARRIERS: NMFC SHIFT",
+            "nextUpTease": "TRADE COMPLIANCE: DE MINIMIS RULING",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T09:15:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T07:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MOTOR CARRIERS: NMFC SHIFT",
+            "heading": "TRADE COMPLIANCE: DE MINIMIS RULING",
             "paragraphs": [
-                "Less-than-truckload carriers are strongly urging expanded shipper education regarding density-based classification changes implemented across the NMFC system over the past year. Motor carriers report that persistent classification errors continue to generate billing disputes and friction during freight auditing processes.",
-                "Shippers failing to accurately calculate dimensional weight face unexpected reclassifications, penalty fees, and elevated transportation expenditures across regional networks. Logistics managers must integrate advanced freight profiling tools to ensure strict compliance with modern density standards."
+                "The US Court of International Trade has formally upheld executive authority to suspend the Section 321 de minimis tariff exemption on commercial imports valued under $800. Federal filings confirm this policy suspension generated over $1B in duty revenue collections within its initial operating period.",
+                "Direct-to-consumer retailers and international air freight consolidators must now execute formal entry filings and remit baseline duties on all parcel volumes entering US ports of entry. E-commerce logistics operators must fundamentally restructure border clearing infrastructure to absorb heavy brokerage fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: CLEAN DIESEL",
+            "nextUpTease": "TRADE POLICY: DRONE TARIFF MANDATE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-14T07:30:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PORT INFRASTRUCTURE: CLEAN DIESEL",
+            "heading": "TRADE POLICY: DRONE TARIFF MANDATE",
             "paragraphs": [
-                "The ports of Los Angeles and Long Beach have agreed to substantially increase financial incentives for ocean carriers deploying lowest-emitting vessels into regional terminals. This cooperative environmental initiative is designed to accelerate maritime decarbonization while upgrading local air quality standards.",
-                "Terminal operators and shipping lines that fail to meet stringent emissions thresholds risk forfeiting valuable operational subsidies and preferred berth access. Port users must factor evolving environmental compliance costs and green vessel availability into their regional distribution models."
+                "The White House has enacted sweeping 100% tariffs on imported commercial drones and critical sub-tier electronic flight components to protect domestic manufacturing capacity. The trade mandate severely restricts foreign equipment access across agricultural monitoring, infrastructure inspection, and last-mile delivery sectors.",
+                "Enterprise logistics operators relying on aerial delivery systems face immediate equipment procurement cost surges and extended component replacement lead times. Fleets must rapidly accelerate vendor qualification protocols for domestic hardware alternatives to mitigate severe system maintenance bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILROAD LOGISTICS: BENSENVILLE UPGRADES",
+            "nextUpTease": "FREIGHT SECURITY: DATA CENTER THEFT",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T08:30:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T08:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAILROAD LOGISTICS: BENSENVILLE UPGRADES",
+            "heading": "FREIGHT SECURITY: DATA CENTER THEFT",
             "paragraphs": [
-                "Canadian Pacific Kansas City is reporting measurable operational improvements at its Bensenville intermodal yard following the successful resolution of paving-related delays. The infrastructure enhancements have restored fluid car velocity and reduced terminal dwell times across key Midwest freight corridors.",
-                "Intermodal shippers experiencing prior terminal congestion can anticipate more reliable transit schedules and improved equipment availability. Rail logistics planners should maintain active communication channels with carrier representatives to optimize local pickup windows."
+                "Organized freight crime syndicates have intercepted and stolen nearly $111M in specialized data center server hardware utilizing sophisticated driver deception and bump-and-run tactics. High-value technology shipments moving across major domestic freight corridors are experiencing unprecedented targeting by coordinated theft networks.",
+                "Logistics providers face surging cargo insurance deductibles and stringent carrier vetting mandates for dedicated tech-freight movements. Transportation managers must deploy covert dual-layer GPS tracking and enforce multi-point driver authentication to maintain high-value freight security."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME SAFETY: TURKISH HAZARD",
+            "nextUpTease": "FLEET WORKFORCE: CDL RESTRICTIONS TIGHTEN",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-14T09:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T09:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME SAFETY: TURKISH HAZARD",
+            "heading": "FLEET WORKFORCE: CDL RESTRICTIONS TIGHTEN",
             "paragraphs": [
-                "A tragic toxic gas leak at a ship recycling facility in Bangladesh has resulted in multiple fatalities, drawing intense international scrutiny regarding workplace safety protocols. Regulatory authorities and industry groups are demanding immediate enforcement of IMO recycling standards across South Asian maritime breaking yards.",
-                "Shipowners and asset managers face mounting reputational and legal liabilities if their retired vessel scrapping contracts involve non-compliant dismantling yards. Corporate governance teams must conduct rigorous vetting of recycling partners to ensure absolute adherence to international safety mandates."
+                "State regulatory authorities in Rhode Island and Utah have enacted strict licensing limits on non-domiciled Commercial Driver's Licenses, removing thousands of eligible drivers from interstate commerce. Industry analysts project total commercial driver losses could surpass 200,000 operators nationwide as more states adopt similar statutory restrictions.",
+                "Motor carriers face intensifying driver recruitment shortages and rising over-the-road labor expenses across sensitive regional truckload markets. Fleet managers must evaluate dedicated driver retention strategies and reassess regional lane commitments to insulate freight networks from widening capacity deficits."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTRACT LOGISTICS: MINI-BID SURGE",
+            "nextUpTease": "AIR CARGO: SHENZHEN EXPANSION INVESTMENT",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-14T07:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-14T07:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CONTRACT LOGISTICS: MINI-BID SURGE",
+            "heading": "AIR CARGO: SHENZHEN EXPANSION INVESTMENT",
             "paragraphs": [
-                "Freight shippers are increasingly utilizing short-term, targeted mini-bids to fill widening capacity gaps as over-the-road trucking rates climb higher. This accelerating shift toward agile contracting underscores the failure of traditional one-year RFPs in a volatile macroeconomic environment.",
-                "Transportation directors must master dynamic pricing strategies to secure reliable carrier capacity without locking into disadvantageous long-term rate structures. Supply chain organizations should embrace flexible procurement models to maintain budget control amidst fluctuating market conditions."
+                "DHL Express has completed a $204M expansion of its primary Shenzhen gateway facility, tripling total air cargo throughput capacity across Southern China. The automated infrastructure upgrade expands operational processing capabilities to manage surging high-tech and cross-border commercial exports heading to global consumer markets.",
+                "Freight forwarders and high-value tech manufacturers gain enhanced export capacity and accelerated customs sorting velocity through the Pearl River Delta corridor. Shippers should integrate Shenzhen express routing allocations into their Q3 and Q4 peak season fulfillment playbooks to secure priority air lift."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-14T08:15:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T09:30:00Z",
                 "Status: Audited & True"
             ]
         }
