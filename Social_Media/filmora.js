@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: ECOMMERCE AIRFREIGHT CRACKDOWN",
-                "teaserTitle": "TARIFFS: USTR FORCED LABOR 60 NATIONS",
-                "visual_caption": "Tougher customs treatment of low-value airfreight threatens ecommerce volume. Shippers face inspection delays and border compliance friction."
+                "headline": "OCEAN FREIGHT: ASIA TO US EAST COAST OCEAN RATES RISE TO NEW HIGH",
+                "teaserTitle": "MAERSK OUTLOOK: CAPITALIZES ON HEIGHTENED VOLATILITY",
+                "visual_caption": "Container spot rates from Asia to the US East Coast have hit record highs. Importers face severe pricing pressure as capacity constraints tighten across major trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "TARIFFS: USTR FORCED LABOR 60 NATIONS",
-                "teaserTitle": "MARITIME: HAPAG LLOYD PROFIT FORECAST",
-                "visual_caption": "The USTR advances Section 301 tariffs on 60 trading partners. Importers face duty liabilities and verification bottlenecks."
+                "headline": "CARRIER STRATEGY: MAERSK CAPITALIZES ON HEIGHTENED VOLATILITY",
+                "teaserTitle": "COMPLIANCE: U.S. CLAIMS DOZENS OF COUNTRIES",
+                "visual_caption": "Maersk generated $15.8B in Q2 revenue as operating profit doubled year over year. The carrier leveraged ongoing disruptions to command higher freight rates globally."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: HAPAG LLOYD PROFIT FORECAST",
-                "teaserTitle": "DEFENSE: PENTAGON CRITICAL MINERAL FUNDS",
-                "visual_caption": "Hapag-Lloyd upgraded its full-year profit forecast on ex-Asia demand. Ocean carriers capitalize on persistent network disruptions."
+                "headline": "GLOBAL TRADE: U.S. CLAIMS DOZENS OF COUNTRIES",
+                "teaserTitle": "AIR CARGO: CUSTOMS CRACKDOWNS ON CHINESE ECOMMERCE",
+                "visual_caption": "A White House report claims dozens of nations helped China evade tariffs. Federal enforcers identified widespread illicit transshipment and false origin claims."
             },
             {
                 "slide_index": 4,
-                "headline": "DEFENSE: PENTAGON CRITICAL MINERAL FUNDS",
-                "teaserTitle": "AIR CARGO: UNITED AIRLINES LEADERSHIP",
-                "visual_caption": "The Pentagon executed over $2B in critical mineral supply contracts. This funding insulates military supply lines from overseas dependencies."
+                "headline": "AIR CARGO: CUSTOMS CRACKDOWNS ON CHINESE ECOMMERCE",
+                "teaserTitle": "TECHNOLOGY: AI AGENTS FIND THE LOAD",
+                "visual_caption": "Strict customs oversight on low-value e-commerce is disrupting air cargo demand. Authorities are enforcing tighter data requirements and physical inspections."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: UNITED AIRLINES LEADERSHIP",
-                "teaserTitle": "MARITIME: UKRAINE BLACK SEA TRUCE",
-                "visual_caption": "United Airlines Cargo President Jan Krems is stepping down next month. His departure marks a major transition for air freight leadership."
+                "headline": "LOGISTICS IT: AI AGENTS FIND THE LOAD",
+                "teaserTitle": "PORTS: LOS ANGELES LONG BEACH CLEAN ENERGY",
+                "visual_caption": "New AI platforms are transforming freight brokerage by finding loads autonomously. These tools calculate real-time route profitability and optimize network execution."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: UKRAINE BLACK SEA TRUCE",
-                "teaserTitle": "TRUCKING: STATE CDL ENFORCEMENT PURGE",
-                "visual_caption": "Ukraine is seeking a Black Sea shipping truce to protect civilian vessels. Maritime war risks continue to drive up European insurance premiums."
+                "headline": "PORT INFRASTRUCTURE: LOS ANGELES LONG BEACH CLEAN ENERGY",
+                "teaserTitle": "RAILROAD: AGENTS ARRESTED IN SOCAL THEFT",
+                "visual_caption": "LA and LB ports are boosting financial incentives for low-emission vessels. Carriers sending their cleanest ships will receive higher rebates."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING: STATE CDL ENFORCEMENT PURGE",
+                "headline": "RAIL SECURITY: AGENTS ARRESTED IN SOCAL THEFT",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Rhode Island and Utah tightened limits on non-domiciled CDL holders. Fleets face regional driver shortages and spot rate pressures."
+                "visual_caption": "Law enforcement arrested 5 suspects in a SoCal rail-cargo theft probe. Operators are stepping up security patrols to protect freight in transit."
             },
             {
                 "slide_index": 8,
