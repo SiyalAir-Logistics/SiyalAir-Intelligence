@@ -56,7 +56,7 @@ body {
 .content-body {
     position: absolute;
     top: 0;
-    left: 0;        
+    left: 0;       
     width: 100%; 
     height: 100%;
     display: flex;
@@ -71,7 +71,7 @@ body {
 
 .main-hook-style:not(.cta-slide) .content-body {
     padding-top: 300px;
-    padding-left: 100px; /* UPDATED: Adjusted to match right padding as per screenshot */
+    padding-left: 100px;
     padding-right: 100px;
     padding-bottom: 100px;
     max-height: 1120px;
@@ -120,13 +120,12 @@ body {
     flex-direction: column;
     align-items: flex-start;
     width: 100%;
-    max-width: 880px; /* UPDATED: Adjusted max-width to fill the balanced padding */
+    max-width: 880px;
 }
 
-/* DYNAMIC 2-LINER FOOTER PLACEHOLDER - FIXED POSITIONING */
 .footer-paragraph-placeholder {
     width: 100%;
-    max-width: 880px; /* UPDATED: Adjusted max-width to fill the balanced padding */
+    max-width: 880px;
     margin-top: 30px; 
     margin-bottom: 100px; 
     font-family: var(--font-body);
@@ -137,7 +136,6 @@ body {
     z-index: 5;
 }
 
-/* Base properties applied to each word segment within the H1 - VERTICALLY STRETCHED */
 .main-hook-style header h1 span, 
 .main-hook-style header h1 div {
     display: inline-block !important;
@@ -155,7 +153,6 @@ body {
     margin-bottom: 15px;
 }
 
-/* Force the very last word in the layout container to turn dark blue */
 .main-hook-style header h1 span:last-child,
 .main-hook-style header h1 div:last-child,
 .main-hook-style header h1 .last-word-blue {
@@ -209,7 +206,7 @@ body {
 } 
 
 /* ==========================================================================
-   SEGMENT 2: MIDDLE SLIDES (Sub-Slide Style)
+   SEGMENT 2: MIDDLE SLIDES (Sub-Slide Style) - EXACT CARD WRAPPER
    ========================================================================== */
 
 .sub-slide-style .content-body {
@@ -312,7 +309,7 @@ body {
 }
 
 /* ==========================================================================
-   SEGMENT 3: FINAL SLIDE (CTA Style) - FULLY INDEPENDENT FIX
+   SEGMENT 3: FINAL SLIDE (CTA Style)
    ========================================================================== */
 
 .cta-slide {
@@ -413,7 +410,6 @@ body {
     z-index: 10;
 }
 
-/* Ensure the prompt is hidden on the final CTA slide */
 .cta-slide .swipe-prompt {
     display: none !important;
 }
@@ -451,4 +447,60 @@ body {
 
 .blue-text {
     color: var(--aeon-blue) !important;
+}
+
+/* ==========================================================================
+   EXACT TACTICAL CARD CONTAINER (FROSTED CHARCOAL GLASS EFFECT)
+   ========================================================================== */
+.tactical-card, .hud-body, .sub-slide-style .detail-text {
+    position: relative;
+    width: 880px;                     /* Matched max-width for sub-slide layout */
+    margin: 30px 0;                   /* Consistent block spacing */
+    background: rgba(35, 39, 46, 0.55); /* Dark charcoal grey frosted glass background */
+    backdrop-filter: blur(12px);      /* Glass blur effect */
+    -webkit-backdrop-filter: blur(12px); /* Safari support for glass blur */
+    border: 1px solid rgba(160, 170, 185, 0.35); /* Premium subtle grey border for the 4 outer sides */
+    padding: 45px 50px;               /* Internal text padding */
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    z-index: 3;
+}
+
+/* Paragraph styling inside the tactical container */
+.sub-slide-style .detail-text p {
+    font-family: var(--font-body);
+    font-size: 30px;
+    font-weight: 500;
+    line-height: 1.45;
+    color: #ffffff;
+    margin-bottom: 25px;
+    text-align: left;
+}
+
+.sub-slide-style .detail-text p:last-child {
+    margin-bottom: 0;
+}
+
+/* Tactical Corner Brackets locked strictly to the card box (Unchanged Green Corners) */
+.tactical-card::before, .hud-body::before, .sub-slide-style .detail-text::before {
+    content: '';
+    position: absolute;
+    top: -3px; 
+    left: -3px;
+    width: 16px; 
+    height: 16px;
+    border-top: 3px solid var(--aeon-blue);
+    border-left: 3px solid var(--aeon-blue);
+}
+
+.tactical-card::after, .hud-body::after, .sub-slide-style .detail-text::after {
+    content: '';
+    position: absolute;
+    bottom: -3px; 
+    right: -3px;
+    width: 16px; 
+    height: 16px;
+    border-bottom: 3px solid var(--aeon-blue);
+    border-right: 3px solid var(--aeon-blue);
 }
