@@ -456,9 +456,9 @@ body {
     position: relative;
     width: 880px;                     /* Matched max-width for sub-slide layout */
     margin: 30px 0;                   /* Consistent block spacing */
-    background: rgba(35, 39, 46, 0.55); /* Dark charcoal grey frosted glass background */
-    backdrop-filter: blur(12px);      /* Glass blur effect */
-    -webkit-backdrop-filter: blur(12px); /* Safari support for glass blur */
+    background: rgba(12, 15, 20, 0.85); /* Deepened rich dark matte frosted background for maximum contrast and zero eye strain */
+    backdrop-filter: blur(14px);      /* Enhanced glass blur effect */
+    -webkit-backdrop-filter: blur(14px); /* Safari support for glass blur */
     border: 1px solid rgba(160, 170, 185, 0.35); /* Premium subtle grey border for the 4 outer sides */
     padding: 45px 50px;               /* Internal text padding */
     display: flex;
