@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME POLICY: DETENTION FEES",
-                "visual_caption": "The USTR advanced new tariffs across 60 nations under Section 301. Importers must restructure supply chains immediately to prevent severe border delays and penalties."
+                "headline": "MAERSK: RAISES 2026 OUTLOOK AGAIN",
+                "teaserTitle": "TRADE ENFORCEMENT: AI TARIFF EVASION",
+                "visual_caption": "A.P. Moller - Maersk upgraded its financial forecast for 2026 following robust performance metrics. Operating profit nearly doubled year over year to reach $1.6B during Q2."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME POLICY: DETENTION FEES",
-                "teaserTitle": "TRADE ENFORCEMENT: SHADOW TRANSSHIPMENT",
-                "visual_caption": "The federal court upheld a landmark FMC ruling regarding detention and demurrage fees. Terminal operators must ensure all penalty charges incentivize freight fluidity."
+                "headline": "TRADE ENFORCEMENT: AI TARIFF EVASION",
+                "teaserTitle": "TRUCKING SAFETY: LICENSE CRACKDOWN",
+                "visual_caption": "The White House deployed advanced artificial intelligence tools to target trade route evasion. Investigators identified dozens of nations participating in shadow transshipment networks."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE ENFORCEMENT: SHADOW TRANSSHIPMENT",
-                "teaserTitle": "TRUCKING SAFETY: LAWSUIT REFORM",
-                "visual_caption": "Federal trade enforcers deployed AI tools to target international tariff evasion networks. Investigators are intercepting mislabeled shipments from complex transshipment hubs."
+                "headline": "TRUCKING SAFETY: LICENSE CRACKDOWN",
+                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
+                "visual_caption": "State licensing authorities in Rhode Island and Utah tightened operational limits on non-domiciled CDLs. The enforcement actions risk sidelining thousands of drivers across domestic corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING SAFETY: LAWSUIT REFORM",
-                "teaserTitle": "PORT INFRASTRUCTURE: ZERO-EMISSION FUNDS",
-                "visual_caption": "Lawmakers introduced federal legislation to establish uniform safety standards and curb verdicts. Interstate motor carriers face escalating insurance pressures."
+                "headline": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
+                "teaserTitle": "SUPPLY CHAIN FINANCE: TARIFF REFUNDS",
+                "visual_caption": "The ports of Los Angeles and Long Beach unveiled an expanded clean energy initiative featuring financial incentives. The package targets ocean liners deploying ultra-low-emission vessels."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT INFRASTRUCTURE: ZERO-EMISSION FUNDS",
+                "headline": "SUPPLY CHAIN FINANCE: TARIFF REFUNDS",
                 "teaserTitle": "AIR CARGO: PEAK SEASON VOLATILITY",
-                "visual_caption": "LA and Long Beach introduced $20M in clean vehicle funding. Maritime carriers must adopt zero-emission equipment to capture priority berthing rebates."
+                "visual_caption": "A specialized secondary market has emerged for retail corporations seeking liquidity via tariff refund sales. Major importers are selling off rights to prospective customs duty refunds."
             },
             {
                 "slide_index": 6,
                 "headline": "AIR CARGO: PEAK SEASON VOLATILITY",
                 "teaserTitle": "RAILROAD REGULATION: MERGER SCRUTINY",
-                "visual_caption": "Global air cargo markets registered subdued peak season activity across transpacific lanes. Airlines are adjusting regional capacity allocations to prevent rate erosion."
+                "visual_caption": "Global air cargo networks registered subdued peak season indicators, signaling volume softness in H2. Transpacific forwarders report moderating demand following recent legislative changes."
             },
             {
                 "slide_index": 7,
                 "headline": "RAILROAD REGULATION: MERGER SCRUTINY",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Six state attorneys general formally opposed the proposed UP and NS merger. Intermodal shippers must prepare for extended regulatory reviews across corridors."
+                "visual_caption": "Six state attorneys general filed formal opposition briefs against the proposed rail merger. Regulators argued that anticipated efficiencies are insufficient to offset monopolization risks."
             },
             {
                 "slide_index": 8,

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS",
+        "hookTitle": "MAERSK RAISES 2026 OUTLOOK AGAIN",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME POLICY: DETENTION FEES",
+                "headline": "MAERSK: RAISES 2026 OUTLOOK AGAIN",
+                "teaserTitle": "TRADE ENFORCEMENT: AI TARIFF EVASION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Office of the United States Trade Representative advanced new tariffs across sixty nations under Section three oh one. Importers must restructure supply chains immediately to prevent severe border delays and financial penalties."
+                "narration_line": "A P Moller Maersk upgraded its financial forecast for twenty twenty-six following robust performance metrics. Operating profit nearly doubled year over year to reach one point six billion dollars during the second quarter."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME POLICY: DETENTION FEES",
-                "teaserTitle": "TRADE ENFORCEMENT: SHADOW TRANSSHIPMENT",
+                "headline": "TRADE ENFORCEMENT: AI TARIFF EVASION",
+                "teaserTitle": "TRUCKING SAFETY: LICENSE CRACKDOWN",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The federal court upheld a landmark maritime commission ruling regarding container detention and demurrage fees. Terminal operators must ensure all penalty charges directly incentivize overall freight fluidity."
+                "narration_line": "The White House deployed advanced artificial intelligence tools to target trade route evasion. Investigators identified dozens of nations participating in shadow transshipment networks designed to obscure Chinese origin goods."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE ENFORCEMENT: SHADOW TRANSSHIPMENT",
-                "teaserTitle": "TRUCKING SAFETY: LAWSUIT REFORM",
+                "headline": "TRUCKING SAFETY: LICENSE CRACKDOWN",
+                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal trade enforcers deployed artificial intelligence tools to target international tariff evasion networks. Investigators are intercepting mislabeled shipments originating from complex transsegment hubs."
+                "narration_line": "State licensing authorities in Rhode Island and Utah tightened operational limits on non-domiciled commercial driver licenses. The coordinated enforcement actions risk sidelining thousands of drivers and exacerbating chronic domestic freight shortages."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING SAFETY: LAWSUIT REFORM",
-                "teaserTitle": "PORT INFRASTRUCTURE: ZERO-EMISSION FUNDS",
+                "headline": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
+                "teaserTitle": "SUPPLY CHAIN FINANCE: TARIFF REFUNDS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Lawmakers introduced federal legislation to establish uniform safety standards and curb nuclear verdicts. Interstate motor carriers face escalating insurance pressures that threaten operating margins."
+                "narration_line": "The ports of Los Angeles and Long Beach unveiled an expanded clean energy initiative featuring financial incentives for carriers. The funding package specifically targets ocean liners deploying ultra-low-emission vessels into marine terminals."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT INFRASTRUCTURE: ZERO-EMISSION FUNDS",
+                "headline": "SUPPLY CHAIN FINANCE: TARIFF REFUNDS",
                 "teaserTitle": "AIR CARGO: PEAK SEASON VOLATILITY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The ports of Los Angeles and Long Beach introduced twenty million dollars in clean vehicle funding. Maritime carriers must adopt zero-emission equipment to capture priority berthing rebates."
+                "narration_line": "A specialized secondary market has emerged for retail corporations seeking immediate cash liquidity via tariff refund sales. Major importers are selling off rights to prospective customs duty refunds to offset rising inventory holding expenses."
             },
             {
                 "slide_index": 6,
                 "headline": "AIR CARGO: PEAK SEASON VOLATILITY",
                 "teaserTitle": "RAILROAD REGULATION: MERGER SCRUTINY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Global air cargo markets experienced subdued peak season activity across major transpacific lanes. Airlines are actively adjusting regional capacity allocations to prevent spot rate erosion."
+                "narration_line": "Global air cargo networks registered subdued peak season indicators, signaling potential volume softness in H two. Transpacific forwarders report moderating demand following recent legislative changes eliminating low-value import exemptions."
             },
             {
                 "slide_index": 7,
                 "headline": "RAILROAD REGULATION: MERGER SCRUTINY",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Six state attorneys general formally opposed the proposed Union Pacific and Norfolk Southern merger. Intermodal shippers must prepare for extended regulatory reviews across freight corridors."
+                "narration_line": "Six state attorneys general filed formal opposition briefs against the proposed Union Pacific and Norfolk Southern rail merger. State regulators argued that anticipated competitive efficiencies are insufficient to offset potential service monopolization risks."
             },
             {
                 "slide_index": 8,

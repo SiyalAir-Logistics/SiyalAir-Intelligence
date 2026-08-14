@@ -1,56 +1,56 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR moves forward with Section 301 tariffs across 60 trading partners, introducing strict compliance barriers for global supply chain operators."
+        "titleWhite": "MAERSK RAISES 2026 OUTLOOK",
+        "titleBlue": "AGAIN",
+        "footerSummary": "Maersk boosts its full-year guidance as soaring earnings underscore robust container shipping rates and sustained global demand."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "MAERSK: RAISES 2026 OUTLOOK AGAIN",
             "points": [
-                "The Office of the United States Trade Representative officially advanced new tariffs targeting 60 trading partners under Section 301.",
-                "The sweeping enforcement action takes effect immediately following the formal expiration of prior Section 122 provisions.",
-                "Global supply chain compliance teams face mandatory auditing requirements to verify upstream labor practices and raw material origins.",
-                "Importers must rapidly restructure sourcing contracts to prevent severe border clearance delays and mounting financial penalties."
+                "A.P. Moller - Maersk upgraded its financial forecast for 2026 for the second consecutive quarter following robust performance metrics.",
+                "Operating profit nearly doubled year over year to reach $1.6 billion during the second quarter reporting period.",
+                "Sustained high freight rates and robust transpacific volumes continue to drive exceptional profitability across ocean divisions.",
+                "Global supply chain executives must recalibrate budgeting models to account for elevated baseline transport costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME POLICY: DETENTION FEES",
+            "nextUpTease": "TRADE ENFORCEMENT: AI TARIFF EVASION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME POLICY: DETENTION FEES",
+            "heading": "TRADE ENFORCEMENT: AI TARIFF EVASION",
             "points": [
-                "The U.S. Court of Appeals for the D.C. Circuit upheld a landmark Federal Maritime Commission decision on detention billing practices.",
-                "The ruling mandates that all terminal and carrier detention fees must directly incentivize overall freight fluidity and terminal efficiency.",
-                "Ocean carriers and marine terminal operators face strict regulatory scrutiny over invoicing accuracy and dispute resolution procedures.",
-                "Logistics providers should audit historical demurrage charges to identify potential compliance violations and recovery opportunities."
+                "The White House Office of Trade and Manufacturing Policy deployed advanced artificial intelligence tools to target trade route evasion.",
+                "Investigators identified dozens of nations participating in shadow transshipment networks designed to obscure Chinese origin goods.",
+                "Federal trade enforcers are utilizing predictive data analytics to intercept mislabeled cargo and penalize fraudulent routing.",
+                "Global logistics operators must enhance digital origin transparency to withstand aggressive cross-border algorithmic audits."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE ENFORCEMENT: SHADOW TRANSSHIPMENT",
+            "nextUpTease": "TRUCKING SAFETY: LICENSE CRACKDOWN",
             "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: 2026-07-08T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE ENFORCEMENT: SHADOW TRANSSHIPMENT",
+            "heading": "TRUCKING SAFETY: LICENSE CRACKDOWN",
             "points": [
-                "The White House Office of Trade and Manufacturing Policy deployed advanced artificial intelligence tools to crack down on tariff evasion.",
-                "Investigators identified dozens of nations participating in an extensive shadow transshipment network designed to mask Chinese origin goods.",
-                "Federal trade enforcers are utilizing predictive data analytics to intercept mislabeled shipments and penalize fraudulent routing.",
-                "Global logistics operators must enhance supply chain transparency to withstand aggressive cross-border algorithmic auditing."
+                "State licensing authorities in Rhode Island and Utah tightened operational limits on non-domiciled commercial driver licenses.",
+                "The coordinated enforcement actions risk sidelining thousands of drivers and exacerbating chronic domestic freight capacity shortages.",
+                "Interstate trucking fleets face escalating compliance hurdles as individual states adopt restrictive credentialing mandates.",
+                "Motor carriers should audit driver rosters immediately to prevent unexpected operational disqualifications at highway checkpoints."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING SAFETY: LAWSUIT REFORM",
+            "nextUpTease": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-13T00:00:00Z",
@@ -59,34 +59,34 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "TRUCKING SAFETY: LAWSUIT REFORM",
+            "heading": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
             "points": [
-                "GOP lawmakers from five states introduced federal legislation to establish uniform national trucking safety standards.",
-                "The proposed framework aims to curb a surge of escalating nuclear verdicts and frivolous litigation targeting motor carriers.",
-                "Interstate trucking fleets face debilitating insurance cost inflation driven by aggressive legal tactics across high-risk corridors.",
-                "Industry stakeholders must advocate for comprehensive tort reform to stabilize long-term capacity and freight rates."
+                "The ports of Los Angeles and Long Beach unveiled an expanded clean energy initiative featuring financial incentives for carriers.",
+                "The funding package specifically targets ocean liners deploying ultra-low-emission vessels into Southern California marine terminals.",
+                "Terminal operators are accelerating electrical grid upgrades to support widespread heavy-duty electric vehicle adoption.",
+                "Maritime fleets must integrate zero-emission propulsion options to secure berth priorities and operational fee rebates."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: ZERO-EMISSION FUNDS",
+            "nextUpTease": "SUPPLY CHAIN FINANCE: TARIFF REFUNDS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-12T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PORT INFRASTRUCTURE: ZERO-EMISSION FUNDS",
+            "heading": "SUPPLY CHAIN FINANCE: TARIFF REFUNDS",
             "points": [
-                "The ports of Los Angeles and Long Beach unveiled an expanded clean air addendum featuring $20M in targeted infrastructure grants.",
-                "The funding package provides direct financial incentives for ocean carriers deploying ultra-low-emission trucks into container terminals.",
-                "Terminal operators are aggressively expanding electric vehicle charging networks to meet stringent regional environmental mandates.",
-                "Maritime fleets must accelerate zero-emission equipment adoption to secure berth priority and operational rebates."
+                "A specialized secondary market has emerged for retail corporations seeking immediate cash liquidity via tariff refund sales.",
+                "Major importers are selling off rights to prospective customs duty refunds to offset rising inventory holding expenses.",
+                "Financial intermediaries are structuring asset-backed instruments around pending federal trade litigation outcomes.",
+                "Treasury departments must evaluate the capital benefits of monetizing historical tariff overpayments against future liabilities."
             ],
             "imageUrl": "",
             "nextUpTease": "AIR CARGO: PEAK SEASON VOLATILITY",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.retaildive.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
@@ -95,16 +95,16 @@ const dailyData = {
             "id": 6,
             "heading": "AIR CARGO: PEAK SEASON VOLATILITY",
             "points": [
-                "Global air cargo markets registered subdued peak season activity indicators, pointing to softer structural demand in H2.",
-                "Transpacific and Asia-Europe forwarders report declining cargo volumes following recent regulatory reforms on low-value imports.",
-                "Airlines are actively reallocating regional capacity assets to prevent spot rate erosion amidst fluctuating e-commerce demand.",
-                "Shippers should leverage flexible short-term rate agreements to lock in favorable charter pricing ahead of the retail rush."
+                "Global air cargo networks registered subdued peak season indicators, signaling potential volume softness in H2 2026.",
+                "Transpacific forwarders report moderating demand following recent legislative changes eliminating low-value import exemptions.",
+                "Airlines are actively adjusting regional capacity deployment to prevent spot rate erosion amidst fluctuating e-commerce orders.",
+                "Shippers should secure flexible short-term rate agreements to optimize pricing ahead of upcoming retail fulfillment cycles."
             ],
             "imageUrl": "",
             "nextUpTease": "RAILROAD REGULATION: MERGER SCRUTINY",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -113,9 +113,9 @@ const dailyData = {
             "heading": "RAILROAD REGULATION: MERGER SCRUTINY",
             "points": [
                 "Six state attorneys general filed formal opposition briefs against the proposed Union Pacific and Norfolk Southern rail merger.",
-                "State regulators argued that the anticipated competitive benefits are insufficient to offset potential service monopolization risks.",
-                "The Surface Transportation Board faces intense political pressure from lawmakers questioning transcontinental rail consolidation.",
-                "Intermodal shippers must prepare for prolonged regulatory reviews and potential structural adjustments to freight routing corridors."
+                "State regulators argued that anticipated competitive efficiencies are insufficient to offset potential service monopolization risks.",
+                "The Surface Transportation Board faces intense political scrutiny regarding transcontinental rail network consolidation.",
+                "Intermodal logistics planners must prepare for extended regulatory reviews and potential routing adjustments across corridors."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
