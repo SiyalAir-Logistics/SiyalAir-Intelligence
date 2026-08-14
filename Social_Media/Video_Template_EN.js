@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "MAERSK RAISES 2026 OUTLOOK AGAIN",
+        "hookTitle": "FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MAERSK: RAISES 2026 OUTLOOK AGAIN",
-                "teaserTitle": "TRADE COURT: DE MINIMIS SUSPENSION",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "PORT SAFETY: ROTTERDAM TERMINAL EXPLOSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A.P. Moller - Maersk upgraded its financial guidance for the second consecutive quarter. Sustained export demand from Asia continues to drive robust profitability across its container division."
+                "narration_line": "The United States Trade Representative is advancing Section three oh one tariffs across sixty partner nations. Importers face immediate documentation audits and heightened customs compliance requirements at major ports."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE COURT: DE MINIMIS SUSPENSION",
-                "teaserTitle": "MARITIME: H-LINE TANKER SWAP",
+                "headline": "PORT SAFETY: ROTTERDAM TERMINAL EXPLOSION",
+                "teaserTitle": "INLAND LOGISTICS: $14.5B RHINE FLEET PLAN",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The U.S. Court of International Trade upheld the federal suspension of low-value customs exemptions. Importers have generated over one billion dollars in cumulative duty collections."
+                "narration_line": "An explosion at a fuel facility in the Port of Rotterdam killed one worker and injured six others. Maritime authorities implemented emergency routing controls and paused localized vessel refueling operations."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: H-LINE TANKER SWAP",
-                "teaserTitle": "TRUCKING: NON-DOMICILED CDL LIMITS",
+                "headline": "INLAND LOGISTICS: $14.5B RHINE FLEET PLAN",
+                "teaserTitle": "AIR FREIGHT: DHL $204M GATEWAY EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "SK Shipping finalized an asset swap with H-Line Shipping to double its active fleet. The strategic restructuring positions the company to capture top-tier LNG transport market share."
+                "narration_line": "German operator HGK proposed a fourteen point five billion dollar program to build one thousand shallow draft Rhine vessels. Shippers are securing specialized barge capacity to bypass drought surcharges."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: NON-DOMICILED CDL LIMITS",
-                "teaserTitle": "AIR CARGO: EVAPORATING PEAK DEMAND",
+                "headline": "AIR FREIGHT: DHL $204M GATEWAY EXPANSION",
+                "teaserTitle": "TRADE ENFORCEMENT: AI TARIFF CRACKDOWN",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "State transportation agencies in Rhode Island and Utah enacted strict limits on non-domiciled licenses. Industry experts project national driver losses will exceed two hundred thousand."
+                "narration_line": "DHL Express completed a two hundred and four million dollar hub expansion in Shenzhen. The upgraded automated facility significantly expands cross-border express capacity on key European trade lanes."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: EVAPORATING PEAK DEMAND",
-                "teaserTitle": "RAILROAD: STB MERGER SCRUTINY",
+                "headline": "TRADE ENFORCEMENT: AI TARIFF CRACKDOWN",
+                "teaserTitle": "INDUSTRIAL REAL ESTATE: Q2 VACANCY STABILIZATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Air forwarders noted unusually muted peak season cargo activity across European lanes. Recent tax reforms eliminating duty-free exemptions have fundamentally altered shipping behavior."
+                "narration_line": "Federal trade enforcers deployed artificial intelligence models to dismantle shadow transshipment networks. Customs brokers face automated data screenings on origin documentation to identify illicit tariff evasion."
             },
             {
                 "slide_index": 6,
-                "headline": "RAILROAD: STB MERGER SCRUTINY",
-                "teaserTitle": "PORT INFRASTRUCTURE: LA-LB CLEAN PLAN",
+                "headline": "INDUSTRIAL REAL ESTATE: Q2 VACANCY STABILIZATION",
+                "teaserTitle": "CROSS-BORDER AVIATION: FAA PROBES MEXICO SAFETY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Six state attorneys general formally opposed the proposed Union Pacific and Norfolk Southern merger. The regulatory pushback highlights growing resistance against Class I rail consolidation."
+                "narration_line": "United States industrial warehouse vacancy declined seven basis points to seven point three percent in the second quarter. Logistics providers face firming lease rates as modern warehouse availability tightens."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT INFRASTRUCTURE: LA-LB CLEAN PLAN",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "CROSS-BORDER AVIATION: FAA PROBES MEXICO SAFETY",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The ports of Los Angeles and Long Beach introduced a new clean air investment addendum. Terminal operators must accelerate fleet electrification schedules to comply with new mandates."
+                "narration_line": "The Federal Aviation Administration initiated a comprehensive safety inquiry into Mexican civil aviation oversight. Air cargo integrators are establishing contingency flight schedules along bilateral trade corridors."
             },
             {
                 "slide_index": 8,
