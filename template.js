@@ -1,39 +1,39 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MAERSK RAISES 2026 OUTLOOK",
-        "titleBlue": "AGAIN",
-        "footerSummary": "Maersk boosts its full-year guidance as soaring earnings underscore robust container shipping rates and sustained global demand."
+        "titleWhite": "USTR MOVES AHEAD WITH FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR implements Section 301 tariffs across 60 trading partners as Section 122 duties expire, intensifying global supply chain compliance pressures."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MAERSK: RAISES 2026 OUTLOOK AGAIN",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "points": [
-                "A.P. Moller - Maersk upgraded its financial forecast for 2026 for the second consecutive quarter following robust performance metrics.",
-                "Operating profit nearly doubled year over year to reach $1.6 billion during the second quarter reporting period.",
-                "Sustained high freight rates and robust transpacific volumes continue to drive exceptional profitability across ocean divisions.",
-                "Global supply chain executives must recalibrate budgeting models to account for elevated baseline transport costs."
+                "The Office of the United States Trade Representative announced the immediate implementation of Section 301 tariffs targeting 60 nations.",
+                "The sweeping trade enforcement action coincides with the formal expiration of Section 122 tariffs across legacy trade corridors.",
+                "Importers must rapidly verify tier-one and tier-two sourcing origins to prevent unexpected border delays and customs penalties.",
+                "Global supply chain planners are overhauling audit protocols to maintain continuous regulatory compliance under the updated framework."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE ENFORCEMENT: AI TARIFF EVASION",
+            "nextUpTease": "TRADE COURT: DE MINIMIS SUSPENSION",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE ENFORCEMENT: AI TARIFF EVASION",
+            "heading": "TRADE COURT: DE MINIMIS SUSPENSION",
             "points": [
-                "The White House Office of Trade and Manufacturing Policy deployed advanced artificial intelligence tools to target trade route evasion.",
-                "Investigators identified dozens of nations participating in shadow transshipment networks designed to obscure Chinese origin goods.",
-                "Federal trade enforcers are utilizing predictive data analytics to intercept mislabeled cargo and penalize fraudulent routing.",
-                "Global logistics operators must enhance digital origin transparency to withstand aggressive cross-border algorithmic audits."
+                "The U.S. Court of International Trade officially upheld the federal suspension of the de minimis tariff exemption.",
+                "Customs and Border Protection data confirms the policy has already triggered over $1 billion in cumulative duty collections.",
+                "E-commerce cross-border logistics operators face permanent cost structural increases on low-value parcel shipments.",
+                "Logistics providers are restructuring fulfillment routes to absorb higher administrative clearance burdens efficiently."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING SAFETY: LICENSE CRACKDOWN",
+            "nextUpTease": "AI ENFORCEMENT: TARIFF EVASION",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-13T00:00:00Z",
@@ -42,15 +42,15 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "TRUCKING SAFETY: LICENSE CRACKDOWN",
+            "heading": "AI ENFORCEMENT: TARIFF EVASION",
             "points": [
-                "State licensing authorities in Rhode Island and Utah tightened operational limits on non-domiciled commercial driver licenses.",
-                "The coordinated enforcement actions risk sidelining thousands of drivers and exacerbating chronic domestic freight capacity shortages.",
-                "Interstate trucking fleets face escalating compliance hurdles as individual states adopt restrictive credentialing mandates.",
-                "Motor carriers should audit driver rosters immediately to prevent unexpected operational disqualifications at highway checkpoints."
+                "The White House Office of Trade and Manufacturing Policy deployed advanced artificial intelligence tools to target trade route evasion.",
+                "Investigators identified dozens of international jurisdictions participating in shadow transshipment networks obscuring Chinese origin goods.",
+                "Federal trade enforcers are utilizing predictive data analytics to intercept mislabeled cargo and penalize fraudulent routing.",
+                "Global logistics operators must enhance digital origin transparency to withstand aggressive cross-border algorithmic audits."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
+            "nextUpTease": "CLEAN ENERGY: PORT INCENTIVES",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-13T00:00:00Z",
@@ -59,10 +59,10 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
+            "heading": "CLEAN ENERGY: PORT INCENTIVES",
             "points": [
-                "The ports of Los Angeles and Long Beach unveiled an expanded clean energy initiative featuring financial incentives for carriers.",
-                "The funding package specifically targets ocean liners deploying ultra-low-emission vessels into Southern California marine terminals.",
+                "The ports of Los Angeles and Long Beach unveiled an expanded clean energy financial incentive package for ocean carriers.",
+                "The funding initiative specifically rewards marine operators deploying ultra-low-emission vessels into regional terminals.",
                 "Terminal operators are accelerating electrical grid upgrades to support widespread heavy-duty electric vehicle adoption.",
                 "Maritime fleets must integrate zero-emission propulsion options to secure berth priorities and operational fee rebates."
             ],
