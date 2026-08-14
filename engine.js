@@ -262,12 +262,13 @@ async function switchSlide(id, element) {
         canvas.className = 'sub-slide-style';
 
         if (slide) {
-            let bulletList = "";
-            if (Array.isArray(slide.points)) {
-                bulletList = slide.points.map(pt => `<li>${pt.trim().replace(/\.$/, '')}</li>`).join('');
+            let paragraphContent = "";
+            if (Array.isArray(slide.paragraphs)) {
+                paragraphContent = slide.paragraphs.map(p => `<p class="slide-narrative">${p.trim()}</p>`).join('');
+            } else if (Array.isArray(slide.points)) {
+                paragraphContent = slide.points.map(pt => `<p class="slide-narrative">${pt.trim()}</p>`).join('');
             } else if (slide.content) {
-                const sentences = slide.content.split('. ').filter(s => s.trim().length > 0);
-                bulletList = sentences.map(s => `<li>${s.trim().replace(/\.$/, '')}</li>`).join('');
+                paragraphContent = `<p class="slide-narrative">${slide.content.trim()}</p>`;
             }
 
             const formattedHeading = formatTitleBlue(slide.heading);
@@ -279,7 +280,7 @@ async function switchSlide(id, element) {
                         <h1 class="auto-fit">${formattedHeading}</h1>
                         <div class="header-divider"></div>
                     </header>
-                    <div class="detail-text"><ul class="smart-bullets">${bulletList}</ul></div>
+                    <div class="detail-text">${paragraphContent}</div>
                 </div>
                 ${nextTease ? `<div class="next-up-tease">NEXT UP: ${nextTease}</div>` : ""}
                 <div class="swipe-prompt">SWIPE NEXT →</div>
