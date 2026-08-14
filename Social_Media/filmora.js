@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: FORCED LABOR EXPANSION",
-                "teaserTitle": "MARITIME: HORMUZ OIL SURGE",
-                "visual_caption": "The USTR enacted strict forced labor tariffs on 60 nations under Section 301. Importers face immediate administrative bottlenecks and compliance audits."
+                "headline": "CUSTOMS: DE MINIMIS UPHELD",
+                "teaserTitle": "CONTRACTS: FREIGHT RATE INFLATION",
+                "visual_caption": "The Court of International Trade upheld executive authority to rescind sub-$800 tariff exemptions. The initiative generated over $1B in customs duty collections and transformed parcel compliance."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ OIL SURGE",
-                "teaserTitle": "TRUCKING: ELD ENFORCEMENT SQUEEZE",
-                "visual_caption": "Security incidents in the Strait of Hormuz disrupted crude flows and triggered a 65% drop in regional container volume. Bunker and insurance costs spiked."
+                "headline": "CONTRACTS: FREIGHT RATE INFLATION",
+                "teaserTitle": "RAILROADS: MERGER OPPOSITION SQUEEZE",
+                "visual_caption": "Maritime disruptions triggered a rate increase wave spreading from spot quotes into multi-year contracts. Ocean freight costs climb as carriers aggressively manage capacity and routing detours."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: ELD ENFORCEMENT SQUEEZE",
-                "teaserTitle": "PORTS: NRF PEAK IMPORT WAVE",
-                "visual_caption": "Federal regulators intensified ELD compliance sweeps, sidelining commercial vehicles nationwide. Shippers should expect tightening truckload capacity."
+                "headline": "RAILROADS: MERGER OPPOSITION SQUEEZE",
+                "teaserTitle": "TECHNOLOGY: TMS AUTONOMOUS AGENTS",
+                "visual_caption": "Six state attorneys general filed formal opposition against the UP and NS rail combination. Regulators warn the mega-merger will compromise captive shipper access across industrial regions."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: NRF PEAK IMPORT WAVE",
-                "teaserTitle": "RAILROADS: MERGER OPPOSITION PUSHBACK",
-                "visual_caption": "NRF data shows U.S. port imports peaked early as businesses front-loaded inventory ahead of tariffs. Cargo owners continue rushing shipments."
+                "headline": "TECHNOLOGY: TMS AUTONOMOUS AGENTS",
+                "teaserTitle": "TRUCKING: ELD CAPACITY PURGE",
+                "visual_caption": "Enterprise TMS platforms are deploying autonomous AI agents to evaluate freight load profitability. Firms failing to adopt automated procurement tools risk operating at a cost disadvantage."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILROADS: MERGER OPPOSITION PUSHBACK",
-                "teaserTitle": "AVIATION: E-COMMERCE CUSTOMS CRACKDOWN",
-                "visual_caption": "Railroad executives pushed back against state AG opposition to the mega-merger. Intermodal shippers face prolonged regulatory uncertainty."
+                "headline": "TRUCKING: ELD CAPACITY PURGE",
+                "teaserTitle": "AVIATION: E-COMMERCE DEMAND SLUMP",
+                "visual_caption": "Federal enforcement targeting noncompliant ELDs resulted in the immediate sidelining of commercial trucks. Industry leadership warns the purge will compound structural capacity deficits."
             },
             {
                 "slide_index": 6,
-                "headline": "AVIATION: E-COMMERCE CUSTOMS CRACKDOWN",
-                "teaserTitle": "TECHNOLOGY: AI AGENT PROFITABILITY TOOLS",
-                "visual_caption": "Stricter customs enforcement on low-value e-commerce shipments is threatening peak airfreight demand. Operators must adjust yield management."
+                "headline": "AVIATION: E-COMMERCE DEMAND SLUMP",
+                "teaserTitle": "ENERGY: STRAIT OF HORMUZ DETOURS",
+                "visual_caption": "Stricter customs enforcement and duty reforms are directly depressing cross-border e-commerce airfreight demand. Air forwarders grapple with new duty-free rules and clearance scrutiny."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: AI AGENT PROFITABILITY TOOLS",
+                "headline": "ENERGY: STRAIT OF HORMUZ DETOURS",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Logistics tech firms are deploying autonomous AI agents to evaluate real-time freight load profitability. Enterprises must adopt automated optimization."
+                "visual_caption": "Tanker attacks in the Strait of Hormuz forced energy charterers into dark transit detours. Regional container volume plummeted 65% as carriers avoid high-risk maritime chokepoints."
             },
             {
                 "slide_index": 8,

@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFF EXPANSION",
+        "hookTitle": "DE MINIMIS EXEMPTION UPHELD",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: FORCED LABOR EXPANSION",
-                "teaserTitle": "MARITIME: HORMUZ OIL SURGE",
+                "headline": "CUSTOMS: DE MINIMIS UPHELD",
+                "teaserTitle": "CONTRACTS: FREIGHT RATE INFLATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative has enacted strict forced labor tariffs on sixty nations under section three hundred and one. Importers face immediate administrative bottlenecks and heightened compliance audits across global supply chains."
+                "narration_line": "The international trade court has upheld presidential authority to rescind tariff exemptions for sub eight hundred dollar imports. This enforcement initiative has generated over one billion dollars in duty collections and transformed cross border parcel compliance."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ OIL SURGE",
-                "teaserTitle": "TRUCKING: ELD ENFORCEMENT SQUEEZE",
+                "headline": "CONTRACTS: FREIGHT RATE INFLATION",
+                "teaserTitle": "RAILROADS: MERGER OPPOSITION SQUEEZE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Persisting security incidents within the Strait of Hormuz have disrupted regional crude flows and triggered a sixty-five percent drop in Middle Eastern container volume. Bunker fuel costs and war risk insurance premiums have spiked sharply for ocean carriers."
+                "narration_line": "Persistent maritime disruptions have driven a broad rate increase wave spreading from spot quotes into multi year ocean contracts. Cargo owners face tighter transport budgets and reduced leverage as carriers prioritize yield optimization."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: ELD ENFORCEMENT SQUEEZE",
-                "teaserTitle": "PORTS: NRF PEAK IMPORT WAVE",
+                "headline": "RAILROADS: MERGER OPPOSITION SQUEEZE",
+                "teaserTitle": "TECHNOLOGY: TMS AUTONOMOUS AGENTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal regulators have intensified compliance sweeps targeting electronic logging devices, resulting in the immediate out-of-service sidelining of commercial vehicles. Shippers should anticipate tightening truckload capacity and rising spot market rates."
+                "narration_line": "State attorneys general have filed joint opposition against the proposed rail combination between Union Pacific and Norfolk Southern. Regulators warn the merger will degrade captive shipper access and reduce network redundancy."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: NRF PEAK IMPORT WAVE",
-                "teaserTitle": "RAILROADS: MERGER OPPOSITION PUSHBACK",
+                "headline": "TECHNOLOGY: TMS AUTONOMOUS AGENTS",
+                "teaserTitle": "TRUCKING: ELD CAPACITY PURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "National Retail Federation data shows inbound container volumes at major American ports have peaked early as businesses front-load inventory. Cargo owners continue rushing shipments into domestic warehouses despite softening retail sales."
+                "narration_line": "Enterprise transport management platforms are deploying autonomous artificial intelligence agents to evaluate real time freight profitability. Organizations failing to adopt automated tools risk operating at a severe cost disadvantage."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILROADS: MERGER OPPOSITION PUSHBACK",
-                "teaserTitle": "AVIATION: E-COMMERCE CUSTOMS CRACKDOWN",
+                "headline": "TRUCKING: ELD CAPACITY PURGE",
+                "teaserTitle": "AVIATION: E-COMMERCE DEMAND SLUMP",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The legal opposition surrounding the proposed railroad merger intensified as executives defended projected network efficiencies against state attorneys general. Intermodal shippers face prolonged regulatory uncertainty affecting multi-year contract negotiations."
+                "narration_line": "Federal safety enforcement targeting noncompliant electronic logging devices has resulted in widespread commercial vehicle out of service actions. Industry leadership warns this regulatory purge will worsen structural capacity deficits."
             },
             {
                 "slide_index": 6,
-                "headline": "AVIATION: E-COMMERCE CUSTOMS CRACKDOWN",
-                "teaserTitle": "TECHNOLOGY: AI AGENT PROFITABILITY TOOLS",
+                "headline": "AVIATION: E-COMMERCE DEMAND SLUMP",
+                "teaserTitle": "ENERGY: STRAIT OF HORMUZ DETOURS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Stricter customs treatment of low-value e-commerce shipments is threatening peak season airfreight demand across international trade lanes. Air cargo operators must adjust yield management strategies to offset declining parcel densities."
+                "narration_line": "Stricter international customs treatment and the elimination of low value duty exemptions are depressing cross border airfreight demand. Air cargo forwarders report softening peak season volumes and increased clearance scrutiny."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: AI AGENT PROFITABILITY TOOLS",
+                "headline": "ENERGY: STRAIT OF HORMUZ DETOURS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Logistics technology providers are deploying autonomous artificial intelligence agents to evaluate real-time freight load profitability. Enterprises failing to adopt automated optimization risk operating at a severe cost disadvantage."
+                "narration_line": "Continuing security incidents within the Strait of Hormuz have forced energy charterers to utilize dark transit detours. Marine insurance premiums and bunker expenses have surged dramatically for intercontinental carriers."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }
