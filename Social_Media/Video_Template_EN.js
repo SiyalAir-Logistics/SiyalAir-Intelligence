@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRADE COURT UPHOLDS EXEMPTION",
+        "hookTitle": "TARIFFS ON 60 NATIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: EXEMPTION",
-                "teaserTitle": "CARRIERS: TARIFF REFUNDS",
+                "headline": "USTR: TARIFFS ON 60 NATIONS",
+                "teaserTitle": "FINANCE: STONEPEAK RAILYARD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Court of International Trade has upheld the suspension of de minimis exemptions. This legal ruling locks in over one billion dollars in mandatory customs duty collections."
+                "narration_line": "The United States Trade Representative is implementing forced labor tariffs on sixty nations under section three hundred and one. Importers face immediate administrative audits and heightened compliance costs at major border entry points."
             },
             {
                 "slide_index": 2,
-                "headline": "BUSINESS: TARIFF REFUNDS",
-                "teaserTitle": "FUEL: HORMUZ TANKER ATTACKS",
+                "headline": "FINANCE: STONEPEAK RAILYARD",
+                "teaserTitle": "PORTS: CLEAN ENERGY INCENTIVES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Major parcel carriers are returning court mandated tariff refunds to commercial customers. Logistics teams must reconcile financial credits with historical landed costs."
+                "narration_line": "Private equity firm Stonepeak has expanded its logistics portfolio by acquiring a major Texas railyard. Institutional investors continue racing to capture high-yield intermodal assets near critical distribution hubs."
             },
             {
                 "slide_index": 3,
-                "headline": "FUEL: HORMUZ TANKER ATTACKS",
-                "teaserTitle": "LOGISTICS: AIR CARGO DEMAND",
+                "headline": "PORTS: CLEAN ENERGY INCENTIVES",
+                "teaserTitle": "LOGISTICS: MAERSK REVENUE SURGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Crude oil prices climbed following twin tanker attacks in the Strait of Hormuz. International carriers are actively diverting voyages around high risk maritime zones."
+                "narration_line": "The ports of Los Angeles and Long Beach are increasing financial incentives for low-emitting vessels. Regional initiatives aim to accelerate maritime decarbonization and upgrade shore power infrastructure."
             },
             {
                 "slide_index": 4,
-                "headline": "NEWS: AIR CARGO DEMAND",
-                "teaserTitle": "FINANCE: PORT TRAFFIC SLUMP",
+                "headline": "LOGISTICS: MAERSK REVENUE SURGE",
+                "teaserTitle": "REGULATION: EU PACKAGING RULES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Muted peak season activity points to softer air cargo demand across global markets. Forwarders face downward yield pressure amid tighter e-commerce customs rules."
+                "narration_line": "Ocean carrier Maersk generated fifteen point eight billion dollars in revenue during the second quarter. Sustained freight rates helped operating profit nearly double year over year."
             },
             {
                 "slide_index": 5,
-                "headline": "PORTS: TRAFFIC SLUMP",
-                "teaserTitle": "RAIL: SO CAL CARGO THEFT",
+                "headline": "REGULATION: EU PACKAGING RULES",
+                "teaserTitle": "AI: SUPPLY CHAIN ACCOUNTABILITY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Jebel Ali traffic declines are costing terminal operators one hundred million dollars monthly. Regional supply chain bottlenecks continue to depress container throughput."
+                "narration_line": "The European Union has activated stringent sustainable packaging rules for all commercial imports. Brands must provide comprehensive lifecycle documentation to avoid costly customs impoundments."
             },
             {
                 "slide_index": 6,
-                "headline": "RAILROAD: SO CAL CARGO THEFT",
-                "teaserTitle": "INFRASTRUCTURE: ZEV TRUCK INCENTIVES",
+                "headline": "AI: SUPPLY CHAIN ACCOUNTABILITY",
+                "teaserTitle": "ENERGY: OIL TANKER ATTACKS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Law enforcement arrested five suspects following a Southern California freight train theft. Intermodal operators face urgent pressure to upgrade trackside cargo security."
+                "narration_line": "A new IDC survey reveals a critical supply chain AI accountability gap in logistics operations. Firms must establish robust governance frameworks before delegating decisions to autonomous agents."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: ZEV TRUCK INCENTIVES",
+                "headline": "ENERGY: OIL TANKER ATTACKS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Port of Los Angeles committed twenty million dollars to zero emission truck charging. Drayage carriers must accelerate fleet electrification to meet environmental mandates."
+                "narration_line": "Crude oil prices climbed following twin tanker attacks in the Strait of Hormuz. Shippers face surging marine insurance premiums and longer transit diversions."
             },
             {
                 "slide_index": 8,

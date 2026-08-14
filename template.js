@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRADE COURT UPHOLDS",
-        "titleBlue": "EXEMPTION",
-        "footerSummary": "Trade court upholds de minimis suspension as customs officials process over $1B in duty payments."
+        "titleWhite": "TARIFFS ON 60",
+        "titleBlue": "NATIONS",
+        "footerSummary": "USTR implements forced labor-based tariffs on 60 trading partners as section 122 tariffs expire, driving up regulatory compliance costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOVERNMENT: EXEMPTION",
+            "heading": "USTR: TARIFFS ON 60 NATIONS",
             "paragraphs": [
-                "The U.S. Court of International Trade has officially upheld the administration's suspension of the de minimis tariff exemption, locking in stricter border enforcement for low-value shipments. This legal affirmation solidifies more than $1B in cumulative duty payments collected by Customs and Border Protection since the initial policy rollout.",
-                "E-commerce importers and direct-to-consumer brands face persistent administrative burdens and permanently higher landed costs across international parcel networks. Supply chain leaders must restructure inventory staging and customs brokerage protocols to avoid severe cross-border clearance delays."
+                "The Office of the United States Trade Representative has officially moved forward with the implementation of tariffs on 60 trading nations under Section 301 of the Trade Act of 1974. This enforcement action coincides directly with the formal expiration of Section 122 tariffs, signaling a permanent pivot toward targeted labor and human rights compliance vetting at major customs entry points.",
+                "Importers and global supply chain directors face immediate administrative adjustments and heightened compliance costs to verify tier-one and tier-two sourcing origins. Organizations must rapidly audit supplier networks to prevent severe border seizures and eliminate unexpected duty exposures across international trade corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIERS: TARIFF REFUNDS",
+            "nextUpTease": "FINANCE: STONEPEAK RAILYARD",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "BUSINESS: TARIFF REFUNDS",
+            "heading": "FINANCE: STONEPEAK RAILYARD",
             "paragraphs": [
-                "Major parcel carriers including UPS and FedEx have begun passing court-mandated tariff refunds directly back to commercial customers and retail shippers. The disbursements represent the final operational phase of a complex regulatory unwinding following the Supreme Court decision striking down prior executive trade levies.",
-                "Corporate logistics teams must reconcile incoming financial credits with historical landed cost accounting models to recover overpaid duties. Finance departments should closely coordinate with freight auditors to ensure complete recovery of historical tariff expenditures."
+                "Private equity firm Stonepeak has significantly expanded its logistics real estate portfolio by acquiring a major strategic railyard in Texas. This institutional investment underscores the continuing race among private equity players to capture high-yield intermodal assets adjacent to critical inland freight distribution hubs.",
+                "Shippers utilizing southern rail networks should anticipate tighter capacity controls and evolving facility access policies as private operators optimize terminal performance. Logistics planners must evaluate long-term intermodal contracts against potential rate adjustments driven by institutional infrastructure ownership."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ TANKER ATTACKS",
+            "nextUpTease": "PORTS: CLEAN ENERGY INCENTIVES",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FUEL: HORMUZ TANKER ATTACKS",
+            "heading": "PORTS: CLEAN ENERGY INCENTIVES",
             "paragraphs": [
-                "International benchmark crude oil prices climbed following twin tanker attacks in the strategic Strait of Hormuz, intensifying maritime security risks across the Persian Gulf. International carriers are increasingly diverting vessels around high-risk transit zones to protect crews and multimillion-dollar assets.",
-                "Escalating bunker fuel costs and marine insurance premiums are driving up operating expenses across global ocean and container shipping lanes. Shippers must evaluate the financial impact of longer transit routes against surging voyage overhead."
+                "The ports of Los Angeles and Long Beach have agreed to substantially increase financial incentives for ocean carriers deploying their lowest-emitting vessels into Southern California terminals. This collaborative regional initiative aims to accelerate maritime fleet decarbonization while expanding local shore power and zero-emission infrastructure investments.",
+                "Ocean carriers and drayage operators must modernize vessel deployments and terminal equipment portfolios to capture premium incentive disbursements and maintain cost-competitiveness. Shippers should factor environmental compliance metrics and port-specific sustainability fees into their carrier selection and routing strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: AIR CARGO DEMAND",
+            "nextUpTease": "LOGISTICS: MAERSK REVENUE SURGE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "NEWS: AIR CARGO DEMAND",
+            "heading": "LOGISTICS: MAERSK REVENUE SURGE",
             "paragraphs": [
-                "Muted peak season activity across international air cargo markets signals softer overall trade volume expectations heading into the second half of the year. Forwarders are reporting weaker airfreight demand driven by tightened customs enforcement on low-value e-commerce shipments originating from Asia.",
-                "Airlines and cargo operators face downward pressure on spot rates and cargo yield optimization across major transpacific and Asia-Europe corridors. Logistics planners can leverage softer air capacity to secure favorable charter terms ahead of late-year retail rushes."
+                "Global ocean carrier Maersk capitalized effectively on heightened market volatility, generating $15.8B in revenue during the second quarter compared to $13.1B a year earlier. Operating profit nearly doubled year-over-year to reach $1.6B, driven by sustained elevated freight rates and robust transpacific demand.",
+                "Supply chain executives face persistent budgetary pressures as ocean carriers maintain aggressive pricing structures amid ongoing global trade disruptions. Shippers must secure multi-year service contracts and optimize container utilization to mitigate the financial strain of volatile freight markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: PORT TRAFFIC SLUMP",
+            "nextUpTease": "REGULATION: EU PACKAGING RULES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PORTS: TRAFFIC SLUMP",
+            "heading": "REGULATION: EU PACKAGING RULES",
             "paragraphs": [
-                "DP World has reported a sharp traffic slump at the Port of Jebel Ali, costing the terminal operator an estimated $100M per month in lost throughput revenue. Regional supply chain bottlenecks and geopolitical shipping diversions are directly depressing regional container handling volumes.",
-                "Middle Eastern import-export networks face constrained gateway efficiency and elevated dwell times at primary transshipment hubs. Supply chain managers should diversify routing alternatives through secondary regional ports to maintain schedule integrity."
+                "The European Union has officially activated stringent sustainable packaging rules designed to curb industrial waste and mandate recyclable material usage across all commercial imports. These binding regulatory standards require comprehensive lifecycle documentation for every pallet, carton, and protective wrapping entering European distribution networks.",
+                "E-commerce brands and global manufacturers shipping into Europe must overhaul packaging engineering and sourcing specifications to ensure full regulatory compliance. Failure to adapt packaging designs risks costly customs impoundments and significant administrative penalties at European Union entry ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: SO CAL CARGO THEFT",
+            "nextUpTease": "AI: SUPPLY CHAIN ACCOUNTABILITY",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAILROAD: SO CAL CARGO THEFT",
+            "heading": "AI: SUPPLY CHAIN ACCOUNTABILITY",
             "paragraphs": [
-                "Law enforcement agencies have arrested 5 suspects in Southern California following a high-profile freight rail cargo theft incident involving gunfire from a moving BNSF train. The violent disruption highlights ongoing security vulnerabilities along key intermodal rail corridors serving major West Coast ports.",
-                "Intermodal rail operators face mounting pressure to upgrade trackside surveillance and deploy armed security escorts to protect high-value consumer goods. Shippers moving electronics and apparel through western rail hubs must incorporate cargo risk insurance into freight contracts."
+                "A comprehensive new industry survey conducted by IDC has revealed a critical supply chain AI accountability gap across enterprise logistics operations. While artificial intelligence adoption is accelerating in demand forecasting and route optimization, firms struggle to assign clear human oversight for automated decision errors.",
+                "Executive leadership teams must establish robust governance frameworks and audit protocols before delegating core inventory and transportation decisions to autonomous agents. Bridging this accountability divide is essential to prevent costly automated misallocations and protect enterprise profit margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: ZEV TRUCK INCENTIVES",
+            "nextUpTease": "ENERGY: OIL TANKER ATTACKS",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-12T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: ZEV TRUCK INCENTIVES",
+            "heading": "ENERGY: OIL TANKER ATTACKS",
             "paragraphs": [
-                "The Port of Los Angeles has committed $20M toward zero-emission truck charging infrastructure as part of an aggressive regional clean-air mandate. The capital allocation provides vital financial backing for motor carriers transitioning their drayage fleets to battery-electric heavy-duty vehicles.",
-                "Drayage operators serving West Coast container terminals must accelerate fleet electrification strategies to comply with strict regional environmental standards and qualify for port access incentives. Fleet directors face substantial capital expenditures to deploy required depot charging systems ahead of compliance deadlines."
+                "International benchmark crude oil prices climbed following twin tanker attacks in the strategic Strait of Hormuz, intensifying maritime security risks across the Persian Gulf. International carriers are increasingly diverting vessels around high-risk transit zones to protect crews and multimillion-dollar assets.",
+                "Escalating bunker fuel costs and marine insurance premiums are driving up operating expenses across global ocean and container shipping lanes. Shippers must evaluate the financial impact of longer transit routes against surging voyage overhead."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
