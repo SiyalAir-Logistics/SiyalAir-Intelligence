@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PANAMA CANAL: QUEUE-JUMP SURGE",
-                "visual_caption": "The USTR enforces Section 301 tariffs across 60 trading partners. Importers face strict compliance audits and severe margin compression."
+                "headline": "OCEAN FREIGHT: MAERSK SURGE",
+                "teaserTitle": "AIR CARGO: E-COMMERCE CRACKDOWN",
+                "visual_caption": "AP Moller-Maersk raised its full-year outlook as Q2 operating profits reached $1.6B. Shippers face sustained freight rate benchmarks and tighter contract allocations."
             },
             {
                 "slide_index": 2,
-                "headline": "PANAMA CANAL: QUEUE-JUMP SURGE",
-                "teaserTitle": "MIDDLE EAST: DARK TRANSIT SPIKE",
-                "visual_caption": "A gas tanker paid $4.6M to jump the canal queue. Surging priority fees establish an expensive precedent for maritime charterers."
+                "headline": "AIR CARGO: E-COMMERCE CRACKDOWN",
+                "teaserTitle": "MOTOR CARRIERS: NMFC SHIFT",
+                "visual_caption": "Tighter customs enforcement on low-value e-commerce imports threatens air cargo demand. Express carriers must navigate compressed transit timelines and strict audits."
             },
             {
                 "slide_index": 3,
-                "headline": "MIDDLE EAST: DARK TRANSIT SPIKE",
-                "teaserTitle": "TRUCKING: CDL RESTRICTIONS",
-                "visual_caption": "Middle Eastern transshipment volumes plunged 65% amid security threats. Marine war-risk insurance premiums have climbed steeply for operators."
+                "headline": "MOTOR CARRIERS: NMFC SHIFT",
+                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN DIESEL",
+                "visual_caption": "LTL carriers urge broader education on density-based NMFC classification changes. Inaccurate cargo profiling generates unexpected penalty fees for shippers."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: CDL RESTRICTIONS",
-                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
-                "visual_caption": "New state driver license limits threaten to displace over 200K operators. Motor carriers face escalating recruitment challenges and capacity deficits."
+                "headline": "PORT INFRASTRUCTURE: CLEAN DIESEL",
+                "teaserTitle": "RAILROAD LOGISTICS: BENSENVILLE UPGRADES",
+                "visual_caption": "LA and Long Beach ports increase financial incentives for low-emitting vessels. Non-compliant operators risk losing preferred berth access and subsidies."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: PEAK SEASON SLUMP",
-                "teaserTitle": "RAILROADS: MERGER OPPOSITION SQUEEZE",
-                "visual_caption": "Global air cargo spot rates dropped 6% as e-commerce customs tighten. Forwarders recalibrate capacity allocations ahead of autumn shipping windows."
+                "headline": "RAILROAD LOGISTICS: BENSENVILLE UPGRADES",
+                "teaserTitle": "MARITIME SAFETY: TURKISH HAZARD",
+                "visual_caption": "CPKC resolved paving delays at its Bensenville intermodal yard. Rail car velocity and equipment availability have improved across Midwest corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "RAILROADS: MERGER OPPOSITION SQUEEZE",
-                "teaserTitle": "MARITIME: DETOUR ECONOMY IMPACT",
-                "visual_caption": "State attorneys general filed formal opposition against the rail merger. Shippers must establish flexible alternative routing strategies to avoid bottlenecks."
+                "headline": "MARITIME SAFETY: TURKISH HAZARD",
+                "teaserTitle": "CONTRACT LOGISTICS: MINI-BID SURGE",
+                "visual_caption": "A toxic gas leak at a Bangladesh recycling yard caused multiple fatalities. Regulators demand strict adherence to international safety compliance mandates."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: DETOUR ECONOMY IMPACT",
-                "teaserTitle": "",
-                "visual_caption": "Extended voyage detours are institutionalizing a permanent detour economy. Longer transit distances absorb excess vessel capacity and sustain freight rates."
+                "headline": "CONTRACT LOGISTICS: MINI-BID SURGE",
+                "teaserTitle": "FINAL SLIDE",
+                "visual_caption": "Shippers increasingly utilize short-term mini-bids to offset rising truckload rates. Agile procurement models replace rigid one-year RFP structures."
             },
             {
                 "slide_index": 8,

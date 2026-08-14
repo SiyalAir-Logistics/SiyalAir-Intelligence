@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR enforces Section 301 tariffs across 60 trade partners as legacy provisions expire, escalating customs compliance liabilities and supply chain border friction."
+        "titleWhite": "MAERSK",
+        "titleBlue": "SURGE",
+        "footerSummary": "Maersk elevates its full-year financial outlook as Q2 operating profits nearly double, driven by sustained spot rate momentum and agile network deployment."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "OCEAN FREIGHT: MAERSK SURGE",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially advanced the implementation of forced labor-based tariffs covering 60 trading partners under Section 301 of the Trade Act of 1974. This aggressive regulatory enforcement arrives directly alongside the expiration of legacy trade provisions, demanding comprehensive origin validation across international supply chains.",
-                "Importers face immediate margin compression and rigorous customs audits as border officials enforce strict documentation requirements for all inbound consignments. Supply chain executives must rapidly audit tier-one and tier-two supplier networks to prevent severe cargo seizures and costly port delays."
+                "AP Moller-Maersk has officially raised its full-year financial outlook following a robust second quarter that saw operating profits nearly double year over year to $1.6B. Sustained freight rate strength and elevated demand across key transpacific and intercontinental trade lanes have significantly bolstered carrier balance sheets.",
+                "Shippers face continued margin pressures and heightened contract rate benchmarks as carriers successfully prioritize yield management over volume commitments. Logistics executives must evaluate long-term capacity allocations to protect operational budgets against ongoing maritime volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: QUEUE-JUMP SURGE",
+            "nextUpTease": "AIR CARGO: E-COMMERCE CRACKDOWN",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: 2026-08-14T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PANAMA CANAL: QUEUE-JUMP SURGE",
+            "heading": "AIR CARGO: E-COMMERCE CRACKDOWN",
             "paragraphs": [
-                "A liquefied petroleum gas tanker has shattered previous records by paying a $4.6M priority fee to bypass the severe congestion building across the Panama Canal. Persistent regional security disruptions in the Middle East have redirected global maritime routes, driving up vessel wait times and squeezing intercontinental capacity.",
-                "High priority transit fees are establishing an expensive precedent for charterers attempting to maintain strict delivery schedules amidst compounding maritime bottlenecks. Logistics planners must factor escalating canal passage tolls into upcoming operational budgets to protect profit margins."
+                "Stricter international customs enforcement targeting low-value e-commerce consignments is threatening to reverse airfreight demand spikes across major European import gateways. Regulatory bodies are intensifying shipment scrutiny, causing unexpected delays and altering modal selection behavior for cross-border retailers.",
+                "Express carriers and air cargo forwarders must adapt to compressed transit timelines and rigorous documentation mandates to prevent costly border impoundments. Supply chain planners should diversify inventory routing strategies to mitigate escalating compliance friction in the air sector."
             ],
             "imageUrl": "",
-            "nextUpTease": "MIDDLE EAST: DARK TRANSIT SPIKE",
+            "nextUpTease": "MOTOR CARRIERS: NMFC SHIFT",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T09:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MIDDLE EAST: DARK TRANSIT SPIKE",
+            "heading": "MOTOR CARRIERS: NMFC SHIFT",
             "paragraphs": [
-                "Crude oil charterers operating within the Middle East are increasingly utilizing extended dark transits and altering routing corridors to evade security threats near the Strait of Hormuz. Concurrently, regional container volume passing through key United Arab Emirates transshipment hubs has plummeted by 65% as carriers avoid high-risk maritime zones.",
-                "Marine war-risk insurance premiums and bunker expenses have climbed steeply, inflating operating costs for international shipping lines and cargo owners. Supply chain directors need to redesign contingency routes and update transit time forecasts to absorb prolonged delays."
+                "Less-than-truckload carriers are strongly urging expanded shipper education regarding density-based classification changes implemented across the NMFC system over the past year. Motor carriers report that persistent classification errors continue to generate billing disputes and friction during freight auditing processes.",
+                "Shippers failing to accurately calculate dimensional weight face unexpected reclassifications, penalty fees, and elevated transportation expenditures across regional networks. Logistics managers must integrate advanced freight profiling tools to ensure strict compliance with modern density standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: CDL RESTRICTIONS",
+            "nextUpTease": "PORT INFRASTRUCTURE: CLEAN DIESEL",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-14T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRUCKING: CDL RESTRICTIONS",
+            "heading": "PORT INFRASTRUCTURE: CLEAN DIESEL",
             "paragraphs": [
-                "State authorities in Rhode Island and Utah have enacted stricter operational limits on non-domiciled commercial driver licenses, accelerating a broader national trend. Industry analysts warn that these aggressive state-level restrictions could displace over 200K foreign truck drivers, exacerbating over-the-road labor shortages.",
-                "Motor carriers face escalating recruitment challenges and upward pressure on driver compensation as regional capacity pools contract rapidly. Transport executives must secure dedicated carrier partnerships and enhance retention frameworks to protect primary freight networks."
+                "The ports of Los Angeles and Long Beach have agreed to substantially increase financial incentives for ocean carriers deploying lowest-emitting vessels into regional terminals. This cooperative environmental initiative is designed to accelerate maritime decarbonization while upgrading local air quality standards.",
+                "Terminal operators and shipping lines that fail to meet stringent emissions thresholds risk forfeiting valuable operational subsidies and preferred berth access. Port users must factor evolving environmental compliance costs and green vessel availability into their regional distribution models."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
+            "nextUpTease": "RAILROAD LOGISTICS: BENSENVILLE UPGRADES",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T10:15:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "AIR CARGO: PEAK SEASON SLUMP",
-            "paragraphs": [
-                "Global air cargo spot rates have fallen 6% month over month as tighter customs enforcement on low-value e-commerce dampens peak season shipping volumes. Forwarders report softening cargo demand across major transpacific trade lanes as merchants adjust inventory strategies to mitigate regulatory friction.",
-                "Airlines and express parcel operators must recalibrate capacity allocations to manage fluctuating yield dynamics during the upcoming autumn shipping window. Shippers can leverage softer spot rates to optimize near-term transport budgets while maintaining flexible distribution channels."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RAILROADS: MERGER OPPOSITION SQUEEZE",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: 2026-08-14T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "RAILROADS: MERGER OPPOSITION SQUEEZE",
+            "id": 5,
+            "heading": "RAILROAD LOGISTICS: BENSENVILLE UPGRADES",
             "paragraphs": [
-                "Six state attorneys general have filed formal opposition against the proposed Union Pacific and Norfolk Southern rail combination, citing insufficient competitive benefits. State regulators argue that the mega-merger will restrict captive shipper access, reduce network redundancy, and elevate transit risks across key corridors.",
-                "Intermodal logistics planners must navigate prolonged regulatory uncertainty that threatens to delay vital rail network enhancements and multi-year service agreements. Supply chain architects should immediately establish flexible alternative routing strategies and highway conversion contingencies."
+                "Canadian Pacific Kansas City is reporting measurable operational improvements at its Bensenville intermodal yard following the successful resolution of paving-related delays. The infrastructure enhancements have restored fluid car velocity and reduced terminal dwell times across key Midwest freight corridors.",
+                "Intermodal shippers experiencing prior terminal congestion can anticipate more reliable transit schedules and improved equipment availability. Rail logistics planners should maintain active communication channels with carrier representatives to optimize local pickup windows."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: DETOUR ECONOMY IMPACT",
+            "nextUpTease": "MARITIME SAFETY: TURKISH HAZARD",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-13T14:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-14T09:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "MARITIME SAFETY: TURKISH HAZARD",
+            "paragraphs": [
+                "A tragic toxic gas leak at a ship recycling facility in Bangladesh has resulted in multiple fatalities, drawing intense international scrutiny regarding workplace safety protocols. Regulatory authorities and industry groups are demanding immediate enforcement of IMO recycling standards across South Asian maritime breaking yards.",
+                "Shipowners and asset managers face mounting reputational and legal liabilities if their retired vessel scrapping contracts involve non-compliant dismantling yards. Corporate governance teams must conduct rigorous vetting of recycling partners to ensure absolute adherence to international safety mandates."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CONTRACT LOGISTICS: MINI-BID SURGE",
+            "tags": [
+                "Source: https://splash247.com",
+                "Published: 2026-08-14T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME: DETOUR ECONOMY IMPACT",
+            "heading": "CONTRACT LOGISTICS: MINI-BID SURGE",
             "paragraphs": [
-                "Global ocean carriers are institutionalizing extended voyage detours around volatile maritime chokepoints, cementing a permanent shift toward the detour economy. Industry analyses indicate that longer transit distances are successfully absorbing excess vessel capacity and sustaining elevated freight rate baselines.",
-                "Cargo owners face substantial budgetary adjustments and reduced leverage during upcoming transport contract negotiations as carriers prioritize yield optimization over volume commitments. Logistics directors must diversify carrier allotments and establish dynamic hedging mechanisms to protect operational margins."
+                "Freight shippers are increasingly utilizing short-term, targeted mini-bids to fill widening capacity gaps as over-the-road trucking rates climb higher. This accelerating shift toward agile contracting underscores the failure of traditional one-year RFPs in a volatile macroeconomic environment.",
+                "Transportation directors must master dynamic pricing strategies to secure reliable carrier capacity without locking into disadvantageous long-term rate structures. Supply chain organizations should embrace flexible procurement models to maintain budget control amidst fluctuating market conditions."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-14T09:15:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-14T08:15:00Z",
                 "Status: Audited & True"
             ]
         }
