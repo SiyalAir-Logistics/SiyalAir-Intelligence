@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES RECORDS",
+        "hookTitle": "USTR ENFORCES FORCED LABOR TARIFFS ON 60 NATIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CANAL TRANSIT: PANAMA CANAL QUEUE JUMP FEE PASSES RECORDS",
-                "teaserTitle": "TRADE POLICY: TARIFF REFUND PASS-THROUGH",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "TRADE POLICY: DE MINIMIS ELIMINATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Panama Canal auction fees have reached four point six million dollars as gas tankers bypass queues. Ocean carriers must absorb these record auction premiums or face fourteen-day diversions."
+                "narration_line": "The USTR has launched Section three oh one tariffs across sixty trading partners targeting forced labor. Importers face immediate classification audits to prevent costly border entry halts."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: TARIFF REFUND PASS-THROUGH",
-                "teaserTitle": "MARITIME ENERGY: INDIA OIL EXPLORATION BOOST",
+                "headline": "TRADE POLICY: DE MINIMIS ELIMINATION",
+                "teaserTitle": "CARGO SECURITY: DATA CENTER THEFT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Major parcel carriers are passing tariff refunds down to customers following a supreme court ruling. Logistics accounting teams must update ledgers to reflect the removal of expired surcharges."
+                "narration_line": "A federal trade court upheld the termination of the de minimis exemption, generating over one billion dollars in duty collections. E-commerce shippers must now process formal customs entries on all parcels."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME ENERGY: INDIA OIL EXPLORATION BOOST",
-                "teaserTitle": "FLEET WORKFORCE: CDL NON-DOMICILED RESTRICTIONS",
+                "headline": "CARGO SECURITY: DATA CENTER THEFT",
+                "teaserTitle": "INLAND WATERWAYS: RHINE FLEET RENEWAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "India has launched an eight point eight billion dollar initiative to boost maritime oil exploration. Regional charter rates are climbing as companies compete for specialized drilling support vessels."
+                "narration_line": "Cargo theft networks stole nearly one hundred eleven million dollars in data center gear using staged collisions. Technology shippers face escalating cargo insurance costs and stricter driver validation."
             },
             {
                 "slide_index": 4,
-                "headline": "FLEET WORKFORCE: CDL NON-DOMICILED RESTRICTIONS",
-                "teaserTitle": "GLOBAL TRADE: CHINA TARIFF EVASION PROBE",
+                "headline": "INLAND WATERWAYS: RHINE FLEET RENEWAL",
+                "teaserTitle": "GULF SHIPPING: STRAIT OF HORMUZ DISRUPTION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "New state driver licensing limits could remove over two hundred thousand operators from interstate transport. Motor carriers face intensifying recruitment deficits and rising over-the-road labor expenses."
+                "narration_line": "Barge operator HGK proposed a fourteen point five billion dollar shallow draft fleet overhaul for the Rhine River. The initiative addresses recurring drought disruptions impacting European chemical transport."
             },
             {
                 "slide_index": 5,
-                "headline": "GLOBAL TRADE: CHINA TARIFF EVASION PROBE",
-                "teaserTitle": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
+                "headline": "GULF SHIPPING: STRAIT OF HORMUZ DISRUPTION",
+                "teaserTitle": "FREIGHT RAIL: UP-NS MERGER OPPOSITION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Federal investigators report extensive transshipment networks helping foreign nations evade tariffs. Customs officers are increasing cargo inspections and demanding deeper supply chain transparency."
+                "narration_line": "Container traffic at UAE ports dropped sixty-five percent following maritime security threats in the Strait of Hormuz. Shippers face emergency war-risk surcharges and significant transit delays."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
-                "teaserTitle": "MARITIME FLEET: VLCC TANKER NEWBUILDINGS",
+                "headline": "FREIGHT RAIL: UP-NS MERGER OPPOSITION",
+                "teaserTitle": "AIR CARGO: SHENZHEN GATEWAY EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Customs authorities are implementing stricter enforcement protocols targeting low-value ecommerce shipments. Forwarders must re-engineer digital clearance workflows to prevent costly port delays."
+                "narration_line": "Six state attorneys general officially filed opposition to the Union Pacific and Norfolk Southern rail merger. Cargo shippers must navigate regulatory uncertainty across major freight corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME FLEET: VLCC TANKER NEWBUILDINGS",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "AIR CARGO: SHENZHEN GATEWAY EXPANSION",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Minsheng Financial Leasing has ordered four very large crude carriers in a five hundred million dollar deal. Shipowners must navigate tightening carbon mandates and changing trade routes."
+                "narration_line": "DHL Express invested two hundred four million dollars to triple cargo capacity at its Shenzhen gateway. Exporters secure dedicated air capacity across key Asian industrial trade lanes."
             },
             {
                 "slide_index": 8,

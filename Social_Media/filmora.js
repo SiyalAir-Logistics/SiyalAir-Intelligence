@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CANAL TRANSIT: PANAMA CANAL QUEUE JUMP FEE PASSES RECORDS",
-                "teaserTitle": "TRADE POLICY: TARIFF REFUND PASS-THROUGH",
-                "visual_caption": "Panama Canal auction fees reached $4.6M as LPG tankers bypass queues. Carriers face $4.6M auction costs or 14-day diversions."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "TRADE POLICY: DE MINIMIS ELIMINATION",
+                "visual_caption": "USTR implements Section 301 tariffs on 60 trading partners to combat forced labor. Importers face immediate classification audits to prevent costly border halts."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: TARIFF REFUND PASS-THROUGH",
-                "teaserTitle": "MARITIME ENERGY: INDIA OIL EXPLORATION BOOST",
-                "visual_caption": "Carriers passed tariff refunds down to customers following Supreme Court rulings. Accounting teams updated ledgers to remove expired surcharges."
+                "headline": "TRADE POLICY: DE MINIMIS ELIMINATION",
+                "teaserTitle": "CARGO SECURITY: DATA CENTER THEFT",
+                "visual_caption": "Trade court upholds de minimis elimination, driving over $1B in new duty payments. E-commerce shippers must now execute formal customs entries on all low-value parcels."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME ENERGY: INDIA OIL EXPLORATION BOOST",
-                "teaserTitle": "FLEET WORKFORCE: CDL NON-DOMICILED RESTRICTIONS",
-                "visual_caption": "India launched an $8.8B initiative to boost maritime oil exploration. Regional charter rates climbed as firms secured offshore vessels."
+                "headline": "CARGO SECURITY: DATA CENTER THEFT",
+                "teaserTitle": "INLAND WATERWAYS: RHINE FLEET RENEWAL",
+                "visual_caption": "Theft syndicates hijack $111M in data center freight utilizing staged collision tactics. Tech shippers face surging insurance premiums and strict carrier verification rules."
             },
             {
                 "slide_index": 4,
-                "headline": "FLEET WORKFORCE: CDL NON-DOMICILED RESTRICTIONS",
-                "teaserTitle": "GLOBAL TRADE: CHINA TARIFF EVASION PROBE",
-                "visual_caption": "New state limits could remove over 200K operators from interstate transport. Motor carriers face severe recruitment deficits and higher labor expenses."
+                "headline": "INLAND WATERWAYS: RHINE FLEET RENEWAL",
+                "teaserTitle": "GULF SHIPPING: STRAIT OF HORMUZ DISRUPTION",
+                "visual_caption": "HGK unveils $14.5B shallow-draft fleet renewal plan for climate-impacted Rhine waterways. Industrial shippers must navigate recurring drought bottlenecks across Europe."
             },
             {
                 "slide_index": 5,
-                "headline": "GLOBAL TRADE: CHINA TARIFF EVASION PROBE",
-                "teaserTitle": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
-                "visual_caption": "Federal reports detailed transshipment networks helping nations evade tariffs. Customs officers increased cargo inspections across major trade entry points."
+                "headline": "GULF SHIPPING: STRAIT OF HORMUZ DISRUPTION",
+                "teaserTitle": "FREIGHT RAIL: UP-NS MERGER OPPOSITION",
+                "visual_caption": "UAE port container volumes plunge 65% amid ongoing Strait of Hormuz maritime disruption. Ocean carriers deploy war-risk surcharges and adjust regional vessel routing."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
-                "teaserTitle": "MARITIME FLEET: VLCC TANKER NEWBUILDINGS",
-                "visual_caption": "Customs authorities implemented strict enforcement on low-value ecommerce parcels. Forwarders must re-engineer digital clearance workflows immediately."
+                "headline": "FREIGHT RAIL: UP-NS MERGER OPPOSITION",
+                "teaserTitle": "AIR CARGO: SHENZHEN GATEWAY EXPANSION",
+                "visual_caption": "Six state AGs file formal opposition against the proposed UP-NS railroad merger. Rail shippers face heightened pricing scrutiny and regulatory approval uncertainty."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME FLEET: VLCC TANKER NEWBUILDINGS",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Minsheng ordered four VLCC newbuildings in a $500M transaction. Shipowners navigate tightening carbon mandates and shifting global trade routes."
+                "headline": "AIR CARGO: SHENZHEN GATEWAY EXPANSION",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "DHL Express commits $204M to triple air freight throughput at its Shenzhen hub. Manufacturers gain critical dedicated capacity across high-volume intra-Asia trade lanes."
             },
             {
                 "slide_index": 8,
