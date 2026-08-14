@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "CANAL TRANSIT: PANAMA AUCTION SURGE",
-                "visual_caption": "USTR implemented Section 301 tariffs on 60 trading nations as Section 122 measures expired. Importers face strict country-of-origin documentation mandates and immediate duty liabilities across critical corridors."
+                "headline": "CANAL TRANSIT: PANAMA CANAL QUEUE JUMP FEE PASSES RECORDS",
+                "teaserTitle": "TRADE POLICY: TARIFF REFUND PASS-THROUGH",
+                "visual_caption": "Panama Canal auction fees reached $4.6M as LPG tankers bypass queues. Carriers face $4.6M auction costs or 14-day diversions."
             },
             {
                 "slide_index": 2,
-                "headline": "CANAL TRANSIT: PANAMA AUCTION SURGE",
-                "teaserTitle": "TRADE COMPLIANCE: DE MINIMIS RULING",
-                "visual_caption": "Panama Canal auction fees hit $4.6M as an LPG tanker cut long waterway queues. Shippers must balance multimillion-dollar transit premiums against 14-day vessel diversions around Cape Horn."
+                "headline": "TRADE POLICY: TARIFF REFUND PASS-THROUGH",
+                "teaserTitle": "MARITIME ENERGY: INDIA OIL EXPLORATION BOOST",
+                "visual_caption": "Carriers passed tariff refunds down to customers following Supreme Court rulings. Accounting teams updated ledgers to remove expired surcharges."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE COMPLIANCE: DE MINIMIS RULING",
-                "teaserTitle": "TRADE POLICY: DRONE TARIFF MANDATE",
-                "visual_caption": "The US Trade Court upheld the suspension of de minimis exemptions, generating over $1B in duties. Consolidators must now file formal customs entries for all parcels previously exempt under $800."
+                "headline": "MARITIME ENERGY: INDIA OIL EXPLORATION BOOST",
+                "teaserTitle": "FLEET WORKFORCE: CDL NON-DOMICILED RESTRICTIONS",
+                "visual_caption": "India launched an $8.8B initiative to boost maritime oil exploration. Regional charter rates climbed as firms secured offshore vessels."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE POLICY: DRONE TARIFF MANDATE",
-                "teaserTitle": "FREIGHT SECURITY: DATA CENTER THEFT",
-                "visual_caption": "The White House enacted 100% tariffs on imported commercial drones and critical electronic subcomponents. Fleets face immediate hardware price increases and extended maintenance lead times."
+                "headline": "FLEET WORKFORCE: CDL NON-DOMICILED RESTRICTIONS",
+                "teaserTitle": "GLOBAL TRADE: CHINA TARIFF EVASION PROBE",
+                "visual_caption": "New state limits could remove over 200K operators from interstate transport. Motor carriers face severe recruitment deficits and higher labor expenses."
             },
             {
                 "slide_index": 5,
-                "headline": "FREIGHT SECURITY: DATA CENTER THEFT",
-                "teaserTitle": "FLEET WORKFORCE: CDL RESTRICTIONS TIGHTEN",
-                "visual_caption": "Cargo theft syndicates stole $111M in data center tech using bump-and-run tactics. Logistics directors must mandate dual-layer GPS tracking and rigorous driver authentication protocols."
+                "headline": "GLOBAL TRADE: CHINA TARIFF EVASION PROBE",
+                "teaserTitle": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
+                "visual_caption": "Federal reports detailed transshipment networks helping nations evade tariffs. Customs officers increased cargo inspections across major trade entry points."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEET WORKFORCE: CDL RESTRICTIONS TIGHTEN",
-                "teaserTitle": "AIR CARGO: SHENZHEN EXPANSION INVESTMENT",
-                "visual_caption": "State limits on non-domiciled CDLs could sideline 200,000 commercial drivers nationwide. Freight networks face widening capacity constraints and climbing over-the-road contract rates."
+                "headline": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
+                "teaserTitle": "MARITIME FLEET: VLCC TANKER NEWBUILDINGS",
+                "visual_caption": "Customs authorities implemented strict enforcement on low-value ecommerce parcels. Forwarders must re-engineer digital clearance workflows immediately."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: SHENZHEN EXPANSION INVESTMENT",
+                "headline": "MARITIME FLEET: VLCC TANKER NEWBUILDINGS",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "DHL Express completed a $204M expansion, tripling air freight capacity at its Shenzhen gateway. Electronics shippers gain faster customs processing and expanded air lift for Q3 and Q4 volumes."
+                "visual_caption": "Minsheng ordered four VLCC newbuildings in a $500M transaction. Shipowners navigate tightening carbon mandates and shifting global trade routes."
             },
             {
                 "slide_index": 8,
