@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "NEW FIFTEEN PERCENT TARIFF HITS POLYSILICON",
+        "hookTitle": "CHINA CLAIMS DOZENS OF COUNTRIES HELPED EVADE TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: POLYSILICON SOLAR IMPORT LEVY",
-                "teaserTitle": "TRUCKING: FMCSA ENGLISH PROFICIENCY PURGE",
+                "headline": "GLOBAL TRADE: CHINA TARIFF EVASION SCHEMES",
+                "teaserTitle": "PORTS: CLEAN ENERGY INCENTIVES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Trade authorities have imposed a fifteen percent tariff on polysilicon imports alongside mandatory price floors. Solar and semiconductor manufacturers must audit supplier costs before the December deadline."
+                "narration_line": "A White House report reveals dozens of countries helped China evade tariffs through illegal transshipment. Importers face heightened scrutiny and border seizures as authorities audit global supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "TRUCKING: FMCSA ENGLISH PROFICIENCY PURGE",
-                "teaserTitle": "DEFENSE: PENTAGON CRITICAL MINERAL DEALS",
+                "headline": "PORTS: CLEAN ENERGY INCENTIVES",
+                "teaserTitle": "OCEAN FREIGHT: MAERSK SURGING REVENUE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Federal regulators are tightening commercial driver language requirements after sidelining twenty-six thousand noncompliant truckers. Fleets face sudden capacity shortages across primary border corridors."
+                "narration_line": "The ports of Los Angeles and Long Beach are increasing financial incentives for low-emitting vessels. Shipping lines must accelerate fleet decarbonization to capture valuable port fee discounts."
             },
             {
                 "slide_index": 3,
-                "headline": "DEFENSE: PENTAGON CRITICAL MINERAL DEALS",
-                "teaserTitle": "LOGISTICS: MSC SAUDI GULF MULTIMODAL",
+                "headline": "OCEAN FREIGHT: MAERSK SURGING REVENUE",
+                "teaserTitle": "LOGISTICS: TRUCKLOAD CAPACITY TIGHTENING",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Pentagon signed over two billion dollars in supply chain contracts for critical battery minerals. Commercial manufacturers face tightening inventory competition across international mineral markets."
+                "narration_line": "Maersk reported quarterly revenue surging to fifteen point eight billion dollars amid market volatility. Sustained trade disruptions continue to drive ocean freight contract rates higher."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: MSC SAUDI GULF MULTIMODAL",
-                "teaserTitle": "RAILROADS: STATE AGS OPPOSE MEGA MERGER",
+                "headline": "LOGISTICS: TRUCKLOAD CAPACITY TIGHTENING",
+                "teaserTitle": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "MSC launched a multimodal rail connection linking Arabian Gulf ports with the Riyadh Dry Port. Shippers can bypass waterway bottlenecks and shorten Middle East delivery cycles."
+                "narration_line": "Federal enforcement targeting non-compliant electronic logging devices is driving capacity contraction. Shippers must establish agile routing agreements to avoid unexpected spot market rate spikes."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILROADS: STATE AGS OPPOSE MEGA MERGER",
-                "teaserTitle": "PORTS: TRANSSHIPMENT TARIFF FRAUD REPORT",
+                "headline": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
+                "teaserTitle": "MARITIME: HOUBAREK TANKER ATTACK",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Six state attorneys general have formally challenged the proposed rail mega merger over competition concerns. Industrial shippers must plan routing contingencies amidst prolonged regulatory reviews."
+                "narration_line": "Tighter customs enforcement on low-value parcels is threatening air cargo volume growth. Forwarders must overhaul inventory velocity projections to account for extended clearance windows."
             },
             {
                 "slide_index": 6,
-                "headline": "PORTS: TRANSSHIPMENT TARIFF FRAUD REPORT",
-                "teaserTitle": "MARITIME: BALTIC UST LUGA DRONE STRIKES",
+                "headline": "MARITIME: HOUBAREK TANKER ATTACK",
+                "teaserTitle": "RETAIL: FALLING SALES DEMAND",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Federal investigators identified extensive transshipment schemes using relabeled documentation to evade tariffs. Customs officials are deploying artificial intelligence tools to detain noncompliant cargo."
+                "narration_line": "Militant attacks on commercial shipping have forced operators to maintain extended African detours. Supply chain directors must factor prolonged transit schedules into their quarterly financial models."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: BALTIC UST LUGA DRONE STRIKES",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "RETAIL: FALLING SALES DEMAND",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Drone strikes on the Ust Luga export terminal triggered fresh maritime security alerts in the Baltic Sea. Tanker operators face rising war risk insurance surcharges across European waters."
+                "narration_line": "United States retail sales unexpectedly fell in July as seasonal tax refunds faded. Wholesalers are hastily adjusting inventory holding strategies to prevent overstocking."
             },
             {
                 "slide_index": 8,

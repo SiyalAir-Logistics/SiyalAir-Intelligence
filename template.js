@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "POLYSILICON SOLAR IMPORT",
-        "titleBlue": "LEVY",
-        "footerSummary": "New 15% polysilicon import tariffs and federal enforcement crackdowns create immediate compliance hurdles across global solar and semiconductor supply chains."
+        "titleWhite": "CHINA CLAIMS DOZENS OF COUNTRIES HELPED EVADE",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "White House report exposes widespread illegal transshipment schemes while customs agencies intensify global trade enforcement and digital compliance audits."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TARIFFS: POLYSILICON SOLAR IMPORT LEVY",
+            "heading": "GLOBAL TRADE: CHINA TARIFF EVASION SCHEMES",
             "paragraphs": [
-                "The federal administration has enacted a 15% tariff on polysilicon imports critical for semiconductor and solar power production, establishing a mandatory minimum import price floor effective Dec 4. This protectionist duty targets raw material inflows to force domestic industrial sourcing across high-tech manufacturing corridors.",
-                "Clean energy developers and electronic manufacturers face sudden margin compression on contracted Q4 delivery schedules. Procurement directors must urgently reassess bill-of-materials cost projections and verify supplier country-of-origin documentation to avoid compounding border penalties."
+                "A comprehensive White House intelligence report reveals that dozens of nations have actively assisted China in evading international trade tariffs through illegal transshipment methods. The deceptive practices involve sophisticated relabeling, repackaging, re-invoicing, and false country-of-origin claims designed to bypass federal customs enforcement.",
+                "Importers and supply chain executives face heightened scrutiny and increased risk of border seizures as trade authorities deploy advanced analytics to uncover fraudulent routing networks. Failing to verify true manufacturing origins risks severe financial penalties and lengthy cargo detentions at all major entry ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: FMCSA ENGLISH PROFICIENCY PURGE",
+            "nextUpTease": "PORTS: CLEAN ENERGY INCENTIVES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T08:30:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRUCKING: FMCSA ENGLISH PROFICIENCY PURGE",
+            "heading": "PORTS: CLEAN ENERGY INCENTIVES",
             "paragraphs": [
-                "Federal transportation safety regulators have expanded commercial driver enforcement, seeking to codify mandatory English proficiency standards after sidelining over 26,000 operators nationwide. State transportation agencies across Texas and Michigan simultaneously seized dozens of tractor-trailers and suspended non-domiciled licensing channels.",
-                "Intermodal drayage and over-the-road fleets face instantaneous spot capacity contractions across key borderland freight gateways. Logistics managers must prepare for climbing tender rejection rates and renegotiate dedicated secondary carrier commitments ahead of peak freight cycles."
+                "The Ports of Los Angeles and Long Beach have formalized a sweeping agreement to increase financial incentives for ocean carriers deploying low-emitting vessels. This targeted initiative rewards maritime operators that successfully reduce carbon intensity during terminal calls and cargo handling operations.",
+                "Shipping lines must accelerate fleet decarbonization schedules to capture valuable port fee discounts and maintain competitive operating margins across transpacific trade lanes. Port infrastructure investments are increasingly pivoting toward sustainable power architecture to support long-term environmental compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEFENSE: PENTAGON CRITICAL MINERAL DEALS",
+            "nextUpTease": "OCEAN FREIGHT: MAERSK SURGING REVENUE",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T09:15:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DEFENSE: PENTAGON CRITICAL MINERAL DEALS",
+            "heading": "OCEAN FREIGHT: MAERSK SURGING REVENUE",
             "paragraphs": [
-                "The US Department of Defense has executed over $2B in capital contracts to secure strategic battery materials and critical minerals from allied extraction hubs. This procurement initiative aims to insulate military hardware supply lines from volatile Asian refining dependencies and export quotas.",
-                "Commercial tier-1 and tier-2 manufacturers will experience heightened competition for limited non-restricted mineral inventories. Supply chain architects must establish sovereign material reserves and formalize multi-tier supplier transparency frameworks to sustain long-term production runs."
+                "AP Moller - Maersk successfully capitalized on heightened maritime market volatility, reporting Q2 revenue surging to $15.8B alongside an operating profit of $1.6B. Sustained geopolitical trade disruptions and continuous route detours have driven spot and contract freight rates significantly higher year-over-year.",
+                "Logistics procurement managers must navigate persistent capacity pricing pressure and reevaluate long-term ocean contracting strategies to protect annual freight budgets. Carriers are leveraging strong cash reserves to expand landside logistics integration and enhance supply chain resilience."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: MSC SAUDI GULF MULTIMODAL",
+            "nextUpTease": "LOGISTICS: TRUCKLOAD CAPACITY TIGHTENING",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T07:45:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LOGISTICS: MSC SAUDI GULF MULTIMODAL",
+            "heading": "LOGISTICS: TRUCKLOAD CAPACITY TIGHTENING",
             "paragraphs": [
-                "Mediterranean Shipping Company has launched an integrated multimodal rail-and-sea logistics corridor linking Arabian Gulf maritime terminals directly into the inland Riyadh Dry Port. The dedicated land bridge provides containerized freight bypass routes around congested coastal choke points and regional waterway bottlenecks.",
-                "Gulf-bound cargo owners can eliminate multi-day transshipment delays while curbing vulnerable maritime exposure. Forwarders should evaluate intermodal routing economics against traditional feeder vessel options to capture superior transit reliability."
+                "Federal motor carrier safety enforcement targeting non-compliant electronic logging devices is actively driving significant capacity contraction across the domestic truckload segment. Industry executives confirm that strict regulatory oversight is sidelining non-compliant operators and constricting available over-the-road freight networks.",
+                "Shippers facing shrinking carrier availability must establish agile routing agreements and optimize load consolidation to avoid unexpected spot market rate spikes. Proactive fleet partnership management is critical to maintaining reliable delivery schedules amid ongoing regulatory consolidation."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILROADS: STATE AGS OPPOSE MEGA MERGER",
+            "nextUpTease": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T06:20:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAILROADS: STATE AGS OPPOSE MEGA MERGER",
+            "heading": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
             "paragraphs": [
-                "Attorneys General from six states have filed joint legal briefs opposing the proposed Union Pacific and Norfolk Southern railroad combination, challenging projected public efficiency claims. The coalition argues the consolidation will stifle regional competition, compromise captive shipper access, and drive up bulk carload tariffs.",
-                "Industrial shippers across Eastern and Midwestern freight corridors face growing regulatory uncertainty regarding long-term rail contract rates and interchange flexibility. Logistics executives must develop multi-modal routing contingencies rather than banking on promised post-merger transit efficiencies."
+                "Aggressive customs enforcement targeting low-value cross-border e-commerce parcels is threatening to reverse air cargo volume growth across major international trade corridors. Regulatory agencies are demanding stricter data compliance and conducting more physical inspections, leading to extended dwell times at cargo hubs.",
+                "Air freight forwarders and online retail platforms must overhaul inventory velocity projections to account for persistent border clearance delays. Failure to adapt to these stringent trade enforcement protocols will result in missed delivery windows and escalating penalty costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: TRANSSHIPMENT TARIFF FRAUD REPORT",
+            "nextUpTease": "MARITIME: HOUBAREK TANKER ATTACK",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T05:50:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PORTS: TRANSSHIPMENT TARIFF FRAUD REPORT",
+            "heading": "MARITIME: HOUBAREK TANKER ATTACK",
             "paragraphs": [
-                "A comprehensive federal investigation reveals that dozens of intermediate transit nations facilitated illegal transshipment schemes using relabeling, repackaging, and falsified country-of-origin invoices to evade duties. Federal customs investigators are deploying advanced artificial intelligence scanning algorithms across high-risk container imports.",
-                "Importers relying on intermediate Southeast Asian assembly hubs risk severe cargo detentions, retrospective duty liabilities, and formal fraud investigations. Trade compliance teams must conduct rigorous supply chain provenance mapping to audit complete manufacturing origin trails."
+                "Recent militant attacks on commercial shipping in Middle Eastern waters have forced major vessel operators to maintain extended voyages around the African continent. This ongoing detour economy continues to strain global bunker fuel supplies and inflate international maritime transport expenditures.",
+                "Supply chain directors must factor prolonged transit schedules and elevated marine war risk insurance premiums into quarterly operational financial models. Diversifying trade lane options and securing flexible shipping contracts remain essential for mitigating geopolitical risk exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: BALTIC UST LUGA DRONE STRIKES",
+            "nextUpTease": "RETAIL: FALLING SALES DEMAND",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-14T10:05:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME: BALTIC UST LUGA DRONE STRIKES",
+            "heading": "RETAIL: FALLING SALES DEMAND",
             "paragraphs": [
-                "Commercial maritime safety risks escalated as drone strikes struck port facilities at the Ust-Luga Baltic energy hub, triggering regional emergency disruptions. Concurrently, diplomatic efforts are underway to negotiate safe commercial shipping corridors across the contested Black Sea basin.",
-                "Baltic maritime freight rates and hull insurance war-risk premiums have reacted with sharp upward pricing adjustments across regional tanker operations. Energy charterers and industrial bulk shippers must incorporate heightened security surcharges into Q3 European transport operating expenses."
+                "United States retail sales unexpectedly contracted in July as seasonal tax refunds faded, softening commercial demand across key distribution sectors. Wholesalers and major retail operators are hastily adjusting inventory holding strategies to prevent overstocking ahead of upcoming autumn replenishment cycles.",
+                "Supply chain leaders must recalibrate warehouse throughput schedules and optimize inventory carrying costs to protect operating liquidity against fluctuating consumer spending patterns. Balancing warehouse capacity with accurate demand forecasting is critical to maintaining healthy inventory turns."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-14T10:30:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

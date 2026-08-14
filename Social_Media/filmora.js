@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: POLYSILICON SOLAR IMPORT LEVY",
-                "teaserTitle": "TRUCKING: FMCSA ENGLISH PROFICIENCY PURGE",
-                "visual_caption": "Trade authorities have imposed a 15% tariff on polysilicon imports alongside mandatory price floors. Solar and semiconductor manufacturers must audit supplier costs before the Dec 4 deadline."
+                "headline": "GLOBAL TRADE: CHINA TARIFF EVASION SCHEMES",
+                "teaserTitle": "PORTS: CLEAN ENERGY INCENTIVES",
+                "visual_caption": "A White House report reveals dozens of countries helped China evade tariffs through illegal transshipment. Importers face heightened scrutiny and border seizures as authorities audit global supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "TRUCKING: FMCSA ENGLISH PROFICIENCY PURGE",
-                "teaserTitle": "DEFENSE: PENTAGON CRITICAL MINERAL DEALS",
-                "visual_caption": "Federal regulators are tightening commercial driver language requirements after sidelining 26,000 noncompliant truckers. Fleets face sudden capacity shortages across primary border corridors."
+                "headline": "PORTS: CLEAN ENERGY INCENTIVES",
+                "teaserTitle": "OCEAN FREIGHT: MAERSK SURGING REVENUE",
+                "visual_caption": "The ports of Los Angeles and Long Beach are increasing financial incentives for low-emitting vessels. Shipping lines must accelerate fleet decarbonization to capture valuable port fee discounts."
             },
             {
                 "slide_index": 3,
-                "headline": "DEFENSE: PENTAGON CRITICAL MINERAL DEALS",
-                "teaserTitle": "LOGISTICS: MSC SAUDI GULF MULTIMODAL",
-                "visual_caption": "The Pentagon signed over $2B in supply chain contracts for critical battery minerals. Commercial manufacturers face tightening inventory competition across international mineral markets."
+                "headline": "OCEAN FREIGHT: MAERSK SURGING REVENUE",
+                "teaserTitle": "LOGISTICS: TRUCKLOAD CAPACITY TIGHTENING",
+                "visual_caption": "Maersk reported Q2 revenue surging to $15.8B amid market volatility. Sustained trade disruptions continue to drive ocean freight contract rates higher."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: MSC SAUDI GULF MULTIMODAL",
-                "teaserTitle": "RAILROADS: STATE AGS OPPOSE MEGA MERGER",
-                "visual_caption": "MSC launched a multimodal rail connection linking Arabian Gulf ports with the Riyadh Dry Port. Shippers can bypass waterway bottlenecks and shorten Middle East delivery cycles."
+                "headline": "LOGISTICS: TRUCKLOAD CAPACITY TIGHTENING",
+                "teaserTitle": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
+                "visual_caption": "Federal enforcement targeting non-compliant electronic logging devices is driving capacity contraction. Shippers must establish agile routing agreements to avoid unexpected spot market rate spikes."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILROADS: STATE AGS OPPOSE MEGA MERGER",
-                "teaserTitle": "PORTS: TRANSSHIPMENT TARIFF FRAUD REPORT",
-                "visual_caption": "6 state attorneys general have formally challenged the proposed rail mega merger over competition concerns. Industrial shippers must plan routing contingencies amidst prolonged regulatory reviews."
+                "headline": "AIR CARGO: ECOMMERCE CUSTOMS CRACKDOWN",
+                "teaserTitle": "MARITIME: HOUBAREK TANKER ATTACK",
+                "visual_caption": "Tighter customs enforcement on low-value parcels is threatening air cargo volume growth. Forwarders must overhaul inventory velocity projections to account for extended clearance windows."
             },
             {
                 "slide_index": 6,
-                "headline": "PORTS: TRANSSHIPMENT TARIFF FRAUD REPORT",
-                "teaserTitle": "MARITIME: BALTIC UST LUGA DRONE STRIKES",
-                "visual_caption": "Federal investigators identified extensive transshipment schemes using relabeled documentation to evade tariffs. Customs officials are deploying AI tools to detain noncompliant cargo."
+                "headline": "MARITIME: HOUBAREK TANKER ATTACK",
+                "teaserTitle": "RETAIL: FALLING SALES DEMAND",
+                "visual_caption": "Militant attacks on commercial shipping have forced operators to maintain extended African detours. Supply chain directors must factor prolonged transit schedules into their quarterly financial models."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: BALTIC UST LUGA DRONE STRIKES",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Drone strikes on the Ust-Luga export terminal triggered fresh maritime security alerts in the Baltic Sea. Tanker operators face rising war-risk insurance surcharges across European waters."
+                "headline": "RETAIL: FALLING SALES DEMAND",
+                "teaserTitle": "FINAL SLIDE",
+                "visual_caption": "U.S. retail sales unexpectedly fell 0.6% in July as seasonal tax refunds faded. Wholesalers are hastily adjusting inventory holding strategies to prevent overstocking."
             },
             {
                 "slide_index": 8,
