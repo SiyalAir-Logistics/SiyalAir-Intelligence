@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR ADVANCES FORCED LABOR TARIFFS",
+        "hookTitle": "PANAMA CANAL FEES HIT $4.6M AS STRAIT OF HORMUZ DISRUPTIONS ACCELERATE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME LAW: FREIGHT FLUIDITY",
+                "headline": "PANAMA CANAL: RECORD AUCTION BIDS",
+                "teaserTitle": "INLAND WATERWAYS: RHINE FLEET OVERHAUL",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is implementing tariffs on sixty nations under Section three hundred one. Importers must audit supply chain documentation immediately to avoid severe border delays."
+                "narration_line": "An empty gas carrier paid a record four point six million dollars to bypass the Panama Canal transit backlog. Global rerouting and water conservation limits are forcing ocean carriers into intense bidding wars."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME LAW: FREIGHT FLUIDITY",
-                "teaserTitle": "TRUCKLOAD CAPACITY: ELD CAPACITY SQUEEZE",
+                "headline": "INLAND WATERWAYS: RHINE FLEET OVERHAUL",
+                "teaserTitle": "PERSIAN GULF: HORMUZ VOLUME CONTRACTION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Federal courts have upheld rules mandating that ocean detention fees must promote freight fluidity. Shippers now have stronger legal footing to challenge unfair port congestion charges."
+                "narration_line": "German barge operator HGK unveiled a fourteen point five billion dollar fleet renewal plan to combat severe Rhine droughts. The proposed shallow draft vessels aim to secure critical inland European cargo corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKLOAD CAPACITY: ELD CAPACITY SQUEEZE",
-                "teaserTitle": "LABOR COMPLIANCE: NON-DOMICILED CDL LIMITS",
+                "headline": "PERSIAN GULF: HORMUZ VOLUME CONTRACTION",
+                "teaserTitle": "FREIGHT CLASSIFICATION: NMFC DENSITY OVERHAUL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal enforcement targeting electronic logging devices is tightening truckload capacity nationwide. Procurement teams must secure dedicated contracts to insulate supply chains."
+                "narration_line": "Container volumes across United Arab Emirates ports plunged sixty-five percent following repeated maritime security incidents near the Strait of Hormuz. Shippers are rapidly diverting regional cargo onto overland trucking routes and bypass ports."
             },
             {
                 "slide_index": 4,
-                "headline": "LABOR COMPLIANCE: NON-DOMICILED CDL LIMITS",
-                "teaserTitle": "AIR CARGO: ECOMMERCE PEAK SLUMP",
+                "headline": "FREIGHT CLASSIFICATION: NMFC DENSITY OVERHAUL",
+                "teaserTitle": "CROSS-BORDER TRADE: DE MINIMIS ELIMINATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "State level restrictions on commercial driver licenses threaten over two hundred thousand foreign drivers. Motor carriers must invest in automation to sustain operating margins."
+                "narration_line": "Less than truckload motor carriers are demanding faster shipper adoption of density based freight classification standards. Misclassified freight profiles are triggering severe reweigh penalties and invoicing friction across national networks."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: ECOMMERCE PEAK SLUMP",
-                "teaserTitle": "GLOBAL TRADE: TARIFF EVASION NETWORK",
+                "headline": "CROSS-BORDER TRADE: DE MINIMIS ELIMINATION",
+                "teaserTitle": "AIR CARGO: SHENZHEN CAPACITY EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Tighter customs enforcement on low-value airfreight is softening global spot rates by six percent. Logistics managers must reevaluate hub utilization ahead of peak fulfillment."
+                "narration_line": "A federal trade court upheld the complete elimination of de minimis customs exemptions, generating over one billion dollars in duty collections. Cross border ecommerce platforms face mandatory formal entries and heightened border clearance scrutiny."
             },
             {
                 "slide_index": 6,
-                "headline": "GLOBAL TRADE: TARIFF EVASION NETWORK",
-                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDING",
+                "headline": "AIR CARGO: SHENZHEN CAPACITY EXPANSION",
+                "teaserTitle": "FREIGHT SECURITY: HIGH-VALUE FREIGHT HEISTS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A White House report exposes widespread tariff evasion through illegal transshipment networks. Importers face exhaustive compliance audits and severe civil penalties."
+                "narration_line": "DHL Express committed over two hundred million dollars to triple handling capacity at its Shenzhen air gateway. The massive facility expansion positions the carrier to capture resilient cross border express freight volumes."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDING",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "FREIGHT SECURITY: HIGH-VALUE FREIGHT HEISTS",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Southern California ports are increasing financial incentives for ultra low emitting ocean vessels. Supply chain leaders must align carrier selection with corporate sustainability goals."
+                "narration_line": "Organized freight theft networks stole one hundred eleven million dollars in data center cargo using staging and driver diversion tactics. Logistics providers are mandating secondary biometric authentication and strict carrier verification protocols."
             },
             {
                 "slide_index": 8,

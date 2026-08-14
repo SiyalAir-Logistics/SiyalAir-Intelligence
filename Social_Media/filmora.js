@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME LAW: FREIGHT FLUIDITY",
-                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 nations. Importers must audit vendor documentation immediately to prevent border delays."
+                "headline": "PANAMA CANAL: RECORD AUCTION BIDS",
+                "teaserTitle": "INLAND WATERWAYS: RHINE FLEET OVERHAUL",
+                "visual_caption": "An empty gas carrier paid a record $4.6M to bypass the Panama Canal transit backlog. Global rerouting and water conservation limits are forcing ocean carriers into intense bidding wars."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME LAW: FREIGHT FLUIDITY",
-                "teaserTitle": "TRUCKLOAD CAPACITY: ELD CAPACITY SQUEEZE",
-                "visual_caption": "Federal courts upheld FMC rules requiring detention fees to drive freight fluidity. Shippers gain legal leverage against unfair port charges."
+                "headline": "INLAND WATERWAYS: RHINE FLEET OVERHAUL",
+                "teaserTitle": "PERSIAN GULF: HORMUZ VOLUME CONTRACTION",
+                "visual_caption": "German barge operator HGK unveiled a $14.5B fleet renewal plan to combat severe Rhine droughts. The proposed shallow-draft vessels aim to secure critical inland European cargo corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKLOAD CAPACITY: ELD CAPACITY SQUEEZE",
-                "teaserTitle": "LABOR COMPLIANCE: NON-DOMICILED CDL LIMITS",
-                "visual_caption": "Strict ELD enforcement is constricting capacity across U.S. truckload networks. Procurement teams must lock in dedicated carrier contracts."
+                "headline": "PERSIAN GULF: HORMUZ VOLUME CONTRACTION",
+                "teaserTitle": "FREIGHT CLASSIFICATION: NMFC DENSITY OVERHAUL",
+                "visual_caption": "Container volumes across UAE ports plunged 65% following repeated maritime security incidents near the Strait of Hormuz. Shippers are rapidly diverting regional cargo onto overland trucking routes and bypass ports."
             },
             {
                 "slide_index": 4,
-                "headline": "LABOR COMPLIANCE: NON-DOMICILED CDL LIMITS",
-                "teaserTitle": "AIR CARGO: ECOMMERCE PEAK SLUMP",
-                "visual_caption": "New CDL restrictions threaten over 200K drivers nationwide. Fleets face escalating labor costs and severe regional shortages."
+                "headline": "FREIGHT CLASSIFICATION: NMFC DENSITY OVERHAUL",
+                "teaserTitle": "CROSS-BORDER TRADE: DE MINIMIS ELIMINATION",
+                "visual_caption": "LTL motor carriers are demanding faster shipper adoption of density-based freight classification standards. Misclassified freight profiles are triggering severe reweigh penalties and invoicing friction across national networks."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: ECOMMERCE PEAK SLUMP",
-                "teaserTitle": "GLOBAL TRADE: TARIFF EVASION NETWORK",
-                "visual_caption": "Customs crackdowns on low-value airfreight dropped spot rates 6% MoM. Shippers hold pricing power ahead of peak fulfillment cycles."
+                "headline": "CROSS-BORDER TRADE: DE MINIMIS ELIMINATION",
+                "teaserTitle": "AIR CARGO: SHENZHEN CAPACITY EXPANSION",
+                "visual_caption": "A federal trade court upheld the complete elimination of de minimis customs exemptions, generating over $1B in duty collections. Cross-border ecommerce platforms face mandatory formal entries and heightened border clearance scrutiny."
             },
             {
                 "slide_index": 6,
-                "headline": "GLOBAL TRADE: TARIFF EVASION NETWORK",
-                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDING",
-                "visual_caption": "White House investigations uncover extensive Section 301 tariff evasion. Customs is deploying analytics to seize noncompliant cargo."
+                "headline": "AIR CARGO: SHENZHEN CAPACITY EXPANSION",
+                "teaserTitle": "FREIGHT SECURITY: HIGH-VALUE FREIGHT HEISTS",
+                "visual_caption": "DHL Express committed over $204M to triple handling capacity at its Shenzhen air gateway. The massive facility expansion positions the carrier to capture resilient cross-border express freight volumes."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDING",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "LA and Long Beach ports boosted financial incentives for green vessels. Carriers deploying low-emission tonnage secure operational priority."
+                "headline": "FREIGHT SECURITY: HIGH-VALUE FREIGHT HEISTS",
+                "teaserTitle": "",
+                "visual_caption": "Organized freight theft networks stole $111M in data center cargo using staging and driver diversion tactics. Logistics providers are mandating secondary biometric authentication and strict carrier verification protocols."
             },
             {
                 "slide_index": 8,
