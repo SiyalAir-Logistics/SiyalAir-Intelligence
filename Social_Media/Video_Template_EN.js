@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES FORCED LABOR TARIFFS ON NATIONS",
+        "hookTitle": "NEW FIFTEEN PERCENT TARIFF HITS POLYSILICON",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS ON NATIONS",
-                "teaserTitle": "CUSTOMS: DE MINIMIS RULING UPHOLD",
+                "headline": "TARIFFS: POLYSILICON SOLAR IMPORT LEVY",
+                "teaserTitle": "TRUCKING: FMCSA ENGLISH PROFICIENCY PURGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The office of the United States Trade Representative is advancing forced labor tariffs across sixty trading nations. Importers face immediate compliance audits and higher landed costs."
+                "narration_line": "Trade authorities have imposed a fifteen percent tariff on polysilicon imports alongside mandatory price floors. Solar and semiconductor manufacturers must audit supplier costs before the December deadline."
             },
             {
                 "slide_index": 2,
-                "headline": "CUSTOMS: DE MINIMIS RULING UPHOLD",
-                "teaserTitle": "SHIPPING: RATE INCREASE SPREAD",
+                "headline": "TRUCKING: FMCSA ENGLISH PROFICIENCY PURGE",
+                "teaserTitle": "DEFENSE: PENTAGON CRITICAL MINERAL DEALS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A federal trade court has formally upheld the suspension of the de minimis exemption. Customs data confirms collections have already surpassed one billion dollars."
+                "narration_line": "Federal regulators are tightening commercial driver language requirements after sidelining twenty-six thousand noncompliant truckers. Fleets face sudden capacity shortages across primary border corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "SHIPPING: RATE INCREASE SPREAD",
-                "teaserTitle": "ENERGY: STRAIT HORMUZ TANKERS",
+                "headline": "DEFENSE: PENTAGON CRITICAL MINERAL DEALS",
+                "teaserTitle": "LOGISTICS: MSC SAUDI GULF MULTIMODAL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Ocean carriers are aggressively spreading rate hikes from spot markets into long-term contracts. Transpacific and European shipping costs continue their steady climb."
+                "narration_line": "The Pentagon signed over two billion dollars in supply chain contracts for critical battery minerals. Commercial manufacturers face tightening inventory competition across international mineral markets."
             },
             {
                 "slide_index": 4,
-                "headline": "ENERGY: STRAIT HORMUZ TANKERS",
-                "teaserTitle": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
+                "headline": "LOGISTICS: MSC SAUDI GULF MULTIMODAL",
+                "teaserTitle": "RAILROADS: STATE AGS OPPOSE MEGA MERGER",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Crude oil prices swung sharply following twin tanker attacks in the Strait of Hormuz. International fleets are diverting routes to avoid high-risk zones."
+                "narration_line": "MSC launched a multimodal rail connection linking Arabian Gulf ports with the Riyadh Dry Port. Shippers can bypass waterway bottlenecks and shorten Middle East delivery cycles."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
-                "teaserTitle": "RETAIL: FALLING SALES DEMAND",
+                "headline": "RAILROADS: STATE AGS OPPOSE MEGA MERGER",
+                "teaserTitle": "PORTS: TRANSSHIPMENT TARIFF FRAUD REPORT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Tighter customs enforcement on low-value air cargo threatens global ecommerce demand. Forwarders must navigate extended clearance dwell times at major hubs."
+                "narration_line": "Six state attorneys general have formally challenged the proposed rail mega merger over competition concerns. Industrial shippers must plan routing contingencies amidst prolonged regulatory reviews."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: FALLING SALES DEMAND",
-                "teaserTitle": "PORTS: ROTTERDAM TERMINAL BLAST",
+                "headline": "PORTS: TRANSSHIPMENT TARIFF FRAUD REPORT",
+                "teaserTitle": "MARITIME: BALTIC UST LUGA DRONE STRIKES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "United States retail sales unexpectedly declined as seasonal tax refunds faded from the market. Distributors are rushing to adjust inventory holding strategies."
+                "narration_line": "Federal investigators identified extensive transshipment schemes using relabeled documentation to evade tariffs. Customs officials are deploying artificial intelligence tools to detain noncompliant cargo."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: ROTTERDAM TERMINAL BLAST",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "MARITIME: BALTIC UST LUGA DRONE STRIKES",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "An explosion at a Rotterdam fuel storage facility has disrupted regional bunkering logistics. Shippers must prepare for potential fuel price volatility."
+                "narration_line": "Drone strikes on the Ust Luga export terminal triggered fresh maritime security alerts in the Baltic Sea. Tanker operators face rising war risk insurance surcharges across European waters."
             },
             {
                 "slide_index": 8,

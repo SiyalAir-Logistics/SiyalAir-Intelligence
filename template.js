@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR MOVES FORCED LABOR TARIFFS ON",
-        "titleBlue": "NATIONS",
-        "footerSummary": "USTR enforces aggressive new trade barriers across sixty countries while federal agencies grapple with shifting tariff exemptions and compliance penalties."
+        "titleWhite": "POLYSILICON SOLAR IMPORT",
+        "titleBlue": "LEVY",
+        "footerSummary": "New 15% polysilicon import tariffs and federal enforcement crackdowns create immediate compliance hurdles across global solar and semiconductor supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS ON NATIONS",
+            "heading": "TARIFFS: POLYSILICON SOLAR IMPORT LEVY",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially announced the implementation of new trade tariffs targeting sixty nations under Section 301 authority. This regulatory enforcement action specifically penalizes supply chains tied to forced labor practices, creating immediate compliance bottlenecks for international importers.",
-                "Supply chain executives must audit vendor networks immediately to avoid severe customs detentions and unexpected duty surcharges at major points of entry. Navigating these stringent trade requirements demands a complete reassessment of global sourcing strategies and supplier verification protocols."
+                "The federal administration has enacted a 15% tariff on polysilicon imports critical for semiconductor and solar power production, establishing a mandatory minimum import price floor effective Dec 4. This protectionist duty targets raw material inflows to force domestic industrial sourcing across high-tech manufacturing corridors.",
+                "Clean energy developers and electronic manufacturers face sudden margin compression on contracted Q4 delivery schedules. Procurement directors must urgently reassess bill-of-materials cost projections and verify supplier country-of-origin documentation to avoid compounding border penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS: DE MINIMIS RULING UPHOLD",
+            "nextUpTease": "TRUCKING: FMCSA ENGLISH PROFICIENCY PURGE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CUSTOMS: DE MINIMIS RULING UPHOLD",
+            "heading": "TRUCKING: FMCSA ENGLISH PROFICIENCY PURGE",
             "paragraphs": [
-                "A federal trade court has formally upheld the executive suspension of the de minimis tariff exemption, eliminating duty-free entry for low-value parcels. Customs and Border Protection data confirms this enforcement has already generated over $1B in collections as cross-border compliance standards tighten.",
-                "E-commerce platforms and international freight forwarders face steeper administrative overhead and complex customs clearance procedures for direct-to-consumer imports. Shippers failing to update automated tariff classification systems risk severe border delays and escalating financial penalties."
+                "Federal transportation safety regulators have expanded commercial driver enforcement, seeking to codify mandatory English proficiency standards after sidelining over 26,000 operators nationwide. State transportation agencies across Texas and Michigan simultaneously seized dozens of tractor-trailers and suspended non-domiciled licensing channels.",
+                "Intermodal drayage and over-the-road fleets face instantaneous spot capacity contractions across key borderland freight gateways. Logistics managers must prepare for climbing tender rejection rates and renegotiate dedicated secondary carrier commitments ahead of peak freight cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHIPPING: RATE INCREASE SPREAD",
+            "nextUpTease": "DEFENSE: PENTAGON CRITICAL MINERAL DEALS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SHIPPING: RATE INCREASE SPREAD",
+            "heading": "DEFENSE: PENTAGON CRITICAL MINERAL DEALS",
             "paragraphs": [
-                "Persistent disruptions across major trade lanes are driving ocean carriers to aggressively push spot market rate increases directly into long-term customer contracts. Transpacific shipping costs continue an upward trajectory while European import routes experience even steeper financial adjustments.",
-                "Logistics procurement managers must abandon static freight budgeting models and prepare for sustained pricing pressure through the upcoming peak shipping season. Securing reliable capacity now requires flexible carrier negotiations and tighter management of volume commitments."
+                "The US Department of Defense has executed over $2B in capital contracts to secure strategic battery materials and critical minerals from allied extraction hubs. This procurement initiative aims to insulate military hardware supply lines from volatile Asian refining dependencies and export quotas.",
+                "Commercial tier-1 and tier-2 manufacturers will experience heightened competition for limited non-restricted mineral inventories. Supply chain architects must establish sovereign material reserves and formalize multi-tier supplier transparency frameworks to sustain long-term production runs."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: STRAIT HORMUZ TANKERS",
+            "nextUpTease": "LOGISTICS: MSC SAUDI GULF MULTIMODAL",
             "tags": [
                 "Source: https://theloadstar.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Published: 2026-08-14T07:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ENERGY: STRAIT HORMUZ TANKERS",
+            "heading": "LOGISTICS: MSC SAUDI GULF MULTIMODAL",
             "paragraphs": [
-                "Global crude oil benchmark pricing fluctuated violently following twin tanker attacks within the strategic Strait of Hormuz, intensifying maritime security threats. Major ocean carriers are aggressively diverting commercial fleets around high-risk Middle Eastern corridors to safeguard crews and multi-million-dollar assets.",
-                "Escalating marine insurance premiums and surging bunker fuel expenses are driving up operating costs across international container and bulk shipping networks. Shippers must factor longer voyage detours and rising fuel surcharges into their quarterly transport budgets."
+                "Mediterranean Shipping Company has launched an integrated multimodal rail-and-sea logistics corridor linking Arabian Gulf maritime terminals directly into the inland Riyadh Dry Port. The dedicated land bridge provides containerized freight bypass routes around congested coastal choke points and regional waterway bottlenecks.",
+                "Gulf-bound cargo owners can eliminate multi-day transshipment delays while curbing vulnerable maritime exposure. Forwarders should evaluate intermodal routing economics against traditional feeder vessel options to capture superior transit reliability."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
+            "nextUpTease": "RAILROADS: STATE AGS OPPOSE MEGA MERGER",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T06:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR FREIGHT: ECOMMERCE CRACKDOWN",
+            "heading": "RAILROADS: STATE AGS OPPOSE MEGA MERGER",
             "paragraphs": [
-                "Tighter customs oversight of low-value air cargo shipments is threatening to reverse volume growth across major cross-border e-commerce trade lanes. Regulatory agencies are increasing physical inspections and data requirements, causing noticeable dwell time expansions at primary cargo hubs.",
-                "Air freight forwarders and online retail platforms must overhaul inventory velocity projections to account for extended customs clearance windows. Failure to adapt to these rigorous border enforcement measures will result in missed delivery windows and customer dissatisfaction."
+                "Attorneys General from six states have filed joint legal briefs opposing the proposed Union Pacific and Norfolk Southern railroad combination, challenging projected public efficiency claims. The coalition argues the consolidation will stifle regional competition, compromise captive shipper access, and drive up bulk carload tariffs.",
+                "Industrial shippers across Eastern and Midwestern freight corridors face growing regulatory uncertainty regarding long-term rail contract rates and interchange flexibility. Logistics executives must develop multi-modal routing contingencies rather than banking on promised post-merger transit efficiencies."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: FALLING SALES DEMAND",
+            "nextUpTease": "PORTS: TRANSSHIPMENT TARIFF FRAUD REPORT",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T05:50:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RETAIL: FALLING SALES DEMAND",
+            "heading": "PORTS: TRANSSHIPMENT TARIFF FRAUD REPORT",
             "paragraphs": [
-                "United States retail sales unexpectedly declined as seasonal consumer tax refunds faded, softening commercial demand across key distribution sectors. Wholesalers and major retail operators are hastily adjusting inventory holding strategies to prevent overstocking ahead of autumn replenishment cycles.",
-                "Supply chain directors must recalibrate warehouse throughput schedules to protect operating liquidity against fluctuating consumer spending patterns. Balancing carrying costs with accurate demand forecasting is critical to maintaining healthy inventory turns."
+                "A comprehensive federal investigation reveals that dozens of intermediate transit nations facilitated illegal transshipment schemes using relabeling, repackaging, and falsified country-of-origin invoices to evade duties. Federal customs investigators are deploying advanced artificial intelligence scanning algorithms across high-risk container imports.",
+                "Importers relying on intermediate Southeast Asian assembly hubs risk severe cargo detentions, retrospective duty liabilities, and formal fraud investigations. Trade compliance teams must conduct rigorous supply chain provenance mapping to audit complete manufacturing origin trails."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: ROTTERDAM TERMINAL BLAST",
+            "nextUpTease": "MARITIME: BALTIC UST LUGA DRONE STRIKES",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-14T10:05:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORTS: ROTTERDAM TERMINAL BLAST",
+            "heading": "MARITIME: BALTIC UST LUGA DRONE STRIKES",
             "paragraphs": [
-                "A catastrophic explosion at the Gunvor Energy fuel storage facility within the Port of Rotterdam resulted in fatalities and severe operational disruptions. Regional emergency teams rushed to secure the site while localized power outages rippled through surrounding industrial refinery operations.",
-                "Logistics planners relying on European maritime fuel networks must prepare for bunkering delays and spot price volatility following the terminal shutdown. Shippers need to diversify fuel procurement channels immediately to prevent critical voyage schedule disruptions."
+                "Commercial maritime safety risks escalated as drone strikes struck port facilities at the Ust-Luga Baltic energy hub, triggering regional emergency disruptions. Concurrently, diplomatic efforts are underway to negotiate safe commercial shipping corridors across the contested Black Sea basin.",
+                "Baltic maritime freight rates and hull insurance war-risk premiums have reacted with sharp upward pricing adjustments across regional tanker operations. Energy charterers and industrial bulk shippers must incorporate heightened security surcharges into Q3 European transport operating expenses."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-13T16:52:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-14T10:30:00Z",
                 "Status: Audited & True"
             ]
         }
