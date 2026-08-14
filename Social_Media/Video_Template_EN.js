@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "RHINE FLEET EXPANSION",
+        "hookTitle": "FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "INLAND SHIPPING: RHINE FLEET EXPANSION",
-                "teaserTitle": "TRADE POLICY: DE MINIMIS EXEMPTION",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME POLICY: DETENTION FEES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "German logistics leaders propose a fourteen point four billion dollar shallow water vessel program by twenty thirty five. The strategic initiative directly addresses severe drought cycles along the Rhine River to protect raw material flows."
+                "narration_line": "The Office of the United States Trade Representative advanced new tariffs across sixty nations under Section three oh one. Importers must restructure supply chains immediately to prevent severe border delays and financial penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: DE MINIMIS EXEMPTION",
-                "teaserTitle": "MARITIME LOGISTICS: BALTIC GRAIN FRICTION",
+                "headline": "MARITIME POLICY: DETENTION FEES",
+                "teaserTitle": "TRADE ENFORCEMENT: SHADOW TRANSSHIPMENT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The United States Court of Appeals upheld the executive suspension of the de minimis tariff carve out. Customs data shows the ongoing enforcement has already generated over one billion dollars in duty payments."
+                "narration_line": "The federal court upheld a landmark maritime commission ruling regarding container detention and demurrage fees. Terminal operators must ensure all penalty charges directly incentivize overall freight fluidity."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME LOGISTICS: BALTIC GRAIN FRICTION",
-                "teaserTitle": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
+                "headline": "TRADE ENFORCEMENT: SHADOW TRANSSHIPMENT",
+                "teaserTitle": "TRUCKING SAFETY: LAWSUIT REFORM",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Intensifying military strikes on Black Sea infrastructure have severely destabilized regional agricultural grain trade routes. Recent missile attacks near Ukrainian Danube ports forced vessel operators to suspend normal charters."
+                "narration_line": "Federal trade enforcers deployed artificial intelligence tools to target international tariff evasion networks. Investigators are intercepting mislabeled shipments originating from complex transsegment hubs."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
-                "teaserTitle": "ENERGY TRANSITION: POLYSILICON TARIFFS",
+                "headline": "TRUCKING SAFETY: LAWSUIT REFORM",
+                "teaserTitle": "PORT INFRASTRUCTURE: ZERO-EMISSION FUNDS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "State authorities in Rhode Island and Utah enacted strict new limits on non domiciled commercial driver licenses. The regulatory tightening threatens to accelerate foreign driver shortages across major freight distribution lanes."
+                "narration_line": "Lawmakers introduced federal legislation to establish uniform safety standards and curb nuclear verdicts. Interstate motor carriers face escalating insurance pressures that threaten operating margins."
             },
             {
                 "slide_index": 5,
-                "headline": "ENERGY TRANSITION: POLYSILICON TARIFFS",
+                "headline": "PORT INFRASTRUCTURE: ZERO-EMISSION FUNDS",
                 "teaserTitle": "AIR CARGO: PEAK SEASON VOLATILITY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The federal government instituted a fifteen percent import tariff on foreign polysilicon components for chips. Renewable energy developers face higher baseline material acquisition costs for capital projects."
+                "narration_line": "The ports of Los Angeles and Long Beach introduced twenty million dollars in clean vehicle funding. Maritime carriers must adopt zero-emission equipment to capture priority berthing rebates."
             },
             {
                 "slide_index": 6,
                 "headline": "AIR CARGO: PEAK SEASON VOLATILITY",
-                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
+                "teaserTitle": "RAILROAD REGULATION: MERGER SCRUTINY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Global air cargo markets experienced muted peak season activity indicators signalling weaker second half demand. Transpacific forwarders report softer cargo volumes following recent international tax reforms."
+                "narration_line": "Global air cargo markets experienced subdued peak season activity across major transpacific lanes. Airlines are actively adjusting regional capacity allocations to prevent spot rate erosion."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
+                "headline": "RAILROAD REGULATION: MERGER SCRUTINY",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The ports of Los Angeles and Long Beach introduced an expanded clean air addendum with financial incentives. The program rewards ocean carriers deploying ultra low emission vessels into major container terminals."
+                "narration_line": "Six state attorneys general formally opposed the proposed Union Pacific and Norfolk Southern merger. Intermodal shippers must prepare for extended regulatory reviews across freight corridors."
             },
             {
                 "slide_index": 8,

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "INLAND SHIPPING: RHINE FLEET EXPANSION",
-                "teaserTitle": "TRADE POLICY: DE MINIMIS EXEMPTION",
-                "visual_caption": "German logistics leaders propose a $14.4B shallow-water vessel program by 2035. The strategic initiative directly addresses severe drought cycles along the Rhine River to protect raw material flows."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME POLICY: DETENTION FEES",
+                "visual_caption": "The USTR advanced new tariffs across 60 nations under Section 301. Importers must restructure supply chains immediately to prevent severe border delays and penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: DE MINIMIS EXEMPTION",
-                "teaserTitle": "MARITIME LOGISTICS: BALTIC GRAIN FRICTION",
-                "visual_caption": "The U.S. Court of Appeals upheld the executive suspension of the de minimis tariff carve-out. Customs data shows the ongoing enforcement has already generated over $1B in duty payments."
+                "headline": "MARITIME POLICY: DETENTION FEES",
+                "teaserTitle": "TRADE ENFORCEMENT: SHADOW TRANSSHIPMENT",
+                "visual_caption": "The federal court upheld a landmark FMC ruling regarding detention and demurrage fees. Terminal operators must ensure all penalty charges incentivize freight fluidity."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME LOGISTICS: BALTIC GRAIN FRICTION",
-                "teaserTitle": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
-                "visual_caption": "Intensifying military strikes on Black Sea infrastructure have severely destabilized regional agricultural grain trade routes. Recent missile attacks near Ukrainian Danube ports forced vessel operators to suspend normal charters."
+                "headline": "TRADE ENFORCEMENT: SHADOW TRANSSHIPMENT",
+                "teaserTitle": "TRUCKING SAFETY: LAWSUIT REFORM",
+                "visual_caption": "Federal trade enforcers deployed AI tools to target international tariff evasion networks. Investigators are intercepting mislabeled shipments from complex transshipment hubs."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
-                "teaserTitle": "ENERGY TRANSITION: POLYSILICON TARIFFS",
-                "visual_caption": "State authorities in Rhode Island and Utah enacted strict new limits on non-domiciled commercial driver licenses. The regulatory tightening threatens to accelerate foreign driver shortages across major freight distribution lanes."
+                "headline": "TRUCKING SAFETY: LAWSUIT REFORM",
+                "teaserTitle": "PORT INFRASTRUCTURE: ZERO-EMISSION FUNDS",
+                "visual_caption": "Lawmakers introduced federal legislation to establish uniform safety standards and curb verdicts. Interstate motor carriers face escalating insurance pressures."
             },
             {
                 "slide_index": 5,
-                "headline": "ENERGY TRANSITION: POLYSILICON TARIFFS",
+                "headline": "PORT INFRASTRUCTURE: ZERO-EMISSION FUNDS",
                 "teaserTitle": "AIR CARGO: PEAK SEASON VOLATILITY",
-                "visual_caption": "The federal government instituted a 15% import tariff on foreign polysilicon components for chips. Renewable energy developers face higher baseline material acquisition costs for capital projects."
+                "visual_caption": "LA and Long Beach introduced $20M in clean vehicle funding. Maritime carriers must adopt zero-emission equipment to capture priority berthing rebates."
             },
             {
                 "slide_index": 6,
                 "headline": "AIR CARGO: PEAK SEASON VOLATILITY",
-                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
-                "visual_caption": "Global air cargo markets experienced muted peak season activity indicators signaling weaker H2 demand. Transpacific forwarders report softer cargo volumes following recent international tax reforms."
+                "teaserTitle": "RAILROAD REGULATION: MERGER SCRUTINY",
+                "visual_caption": "Global air cargo markets registered subdued peak season activity across transpacific lanes. Airlines are adjusting regional capacity allocations to prevent rate erosion."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT INFRASTRUCTURE: CLEAN ENERGY FUNDS",
+                "headline": "RAILROAD REGULATION: MERGER SCRUTINY",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "The ports of Los Angeles and Long Beach introduced an expanded clean air addendum with financial incentives. The program rewards ocean carriers deploying ultra-low-emission vessels into major container terminals."
+                "visual_caption": "Six state attorneys general formally opposed the proposed UP and NS merger. Intermodal shippers must prepare for extended regulatory reviews across corridors."
             },
             {
                 "slide_index": 8,
