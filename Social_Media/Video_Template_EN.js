@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+        "hookTitle": "MAERSK REVENUE SURGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "TRADE COURT: DE MINIMIS SUSPENSION",
+                "headline": "OCEAN FREIGHT: MAERSK REVENUE SURGE",
+                "teaserTitle": "PORT SAFETY: ROTTERDAM TERMINAL EXPLOSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Office of the United States Trade Representative is implementing Section three hundred and one tariffs across sixty nations. This action coincides with the expiration of Section one hundred and twenty-two duties, intensifying customs compliance."
+                "narration_line": "Maersk reported second quarter revenue of fifteen point eight billion dollars as container freight rates surged globally. Operating profit reached one point six billion dollars due to tightening vessel supply."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE COURT: DE MINIMIS SUSPENSION",
-                "teaserTitle": "AI ENFORCEMENT: TARIFF EVASION",
+                "headline": "PORT SAFETY: ROTTERDAM TERMINAL EXPLOSION",
+                "teaserTitle": "OFFSHORE ENERGY: INDIA MARITIME BOOST",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The United States Court of International Trade has upheld the federal suspension of the de minimis exemption. Customs data confirms this policy has driven over one billion dollars in duty collections."
+                "narration_line": "An explosion at Gunvor Energy inside the Port of Rotterdam caused one fatality and injured six workers. The incident triggered localized power outages across Europe's primary marine bunkering terminal."
             },
             {
                 "slide_index": 3,
-                "headline": "AI ENFORCEMENT: TARIFF EVASION",
-                "teaserTitle": "CLEAN ENERGY: PORT INCENTIVES",
+                "headline": "OFFSHORE ENERGY: INDIA MARITIME BOOST",
+                "teaserTitle": "FLEET COMPLIANCE: NON-DOMICILED CDL LIMITS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Trade enforcers have deployed advanced artificial intelligence tools to target shadow transshipment networks. Investigators are utilizing predictive data analytics to penalize fraudulent routing and mislabeled cargo."
+                "narration_line": "India approved an eight point eight billion dollar maritime exploration package under the Samudra Manthan initiative. The strategic funding seeks to decrease the nation's ninety percent reliance on foreign crude imports."
             },
             {
                 "slide_index": 4,
-                "headline": "CLEAN ENERGY: PORT INCENTIVES",
-                "teaserTitle": "SUPPLY CHAIN FINANCE: TARIFF REFUNDS",
+                "headline": "FLEET COMPLIANCE: NON-DOMICILED CDL LIMITS",
+                "teaserTitle": "AUTOMOTIVE PROCUREMENT: GM SAFETY FUND",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The ports of Los Angeles and Long Beach have unveiled expanded clean energy financial incentives. The package rewards ocean carriers deploying ultra-low-emission vessels into regional terminals."
+                "narration_line": "Rhode Island and Utah tightened regulations on non-domiciled commercial driver licenses. Transportation analysts warn fleet attrition could exceed two hundred thousand drivers across national freight corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "SUPPLY CHAIN FINANCE: TARIFF REFUNDS",
-                "teaserTitle": "AIR CARGO: PEAK SEASON VOLATILITY",
+                "headline": "AUTOMOTIVE PROCUREMENT: GM SAFETY FUND",
+                "teaserTitle": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A specialized secondary market has emerged for retail corporations seeking immediate cash liquidity. Importers are selling off rights to prospective customs refunds to offset inventory holding expenses."
+                "narration_line": "General Motors established a four point five billion dollar component safety fund to support key suppliers. The capital pool enables critical part stockpiling against unexpected supply chain disruptions."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: PEAK SEASON VOLATILITY",
-                "teaserTitle": "RAILROAD REGULATION: MERGER SCRUTINY",
+                "headline": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
+                "teaserTitle": "E-COMMERCE LOGISTICS: USPS QR GLITCH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Global air cargo networks registered subdued peak season indicators for the second half of the year. Forwarders report moderating demand following recent legislative changes eliminating low-value exemptions."
+                "narration_line": "DHL Express completed a two hundred and four million dollar hub expansion at its Shenzhen gateway. The upgraded facility significantly expands express processing capacity across southern China trade routes."
             },
             {
                 "slide_index": 7,
-                "headline": "RAILROAD REGULATION: MERGER SCRUTINY",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "E-COMMERCE LOGISTICS: USPS QR GLITCH",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Six state attorneys general filed formal opposition briefs against the proposed rail merger. Regulators argued that anticipated efficiencies are insufficient to offset potential service monopolization risks."
+                "narration_line": "Technical outages disrupted United States Postal Service QR code scanning for online marketplace parcel drop-offs. Sellers were required to manually print physical shipping labels to avoid fulfillment delays."
             },
             {
                 "slide_index": 8,

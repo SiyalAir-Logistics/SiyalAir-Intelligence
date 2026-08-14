@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "TRADE COURT: DE MINIMIS SUSPENSION",
-                "visual_caption": "The USTR is implementing Section 301 tariffs across 60 nations. This action coincides with the expiration of Section 122 duties, intensifying global compliance."
+                "headline": "OCEAN FREIGHT: MAERSK REVENUE SURGE",
+                "teaserTitle": "PORT SAFETY: ROTTERDAM TERMINAL EXPLOSION",
+                "visual_caption": "Maersk reported Q2 revenue of $15.8B as container freight rates surged globally. Operating profit reached $1.6B due to tightening vessel supply."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE COURT: DE MINIMIS SUSPENSION",
-                "teaserTitle": "AI ENFORCEMENT: TARIFF EVASION",
-                "visual_caption": "The U.S. Court of International Trade has upheld the suspension of the de minimis exemption. CBP data confirms this policy has driven over $1B in duty collections."
+                "headline": "PORT SAFETY: ROTTERDAM TERMINAL EXPLOSION",
+                "teaserTitle": "OFFSHORE ENERGY: INDIA MARITIME BOOST",
+                "visual_caption": "An explosion at Gunvor Energy inside Port of Rotterdam caused 1 fatality and injured 6 workers. The incident triggered localized power outages across Europe's primary bunkering terminal."
             },
             {
                 "slide_index": 3,
-                "headline": "AI ENFORCEMENT: TARIFF EVASION",
-                "teaserTitle": "CLEAN ENERGY: PORT INCENTIVES",
-                "visual_caption": "Trade enforcers deployed AI tools to target shadow transshipment networks. Investigators are using predictive analytics to penalize fraudulent routing and mislabeled cargo."
+                "headline": "OFFSHORE ENERGY: INDIA MARITIME BOOST",
+                "teaserTitle": "FLEET COMPLIANCE: NON-DOMICILED CDL LIMITS",
+                "visual_caption": "India approved an $8.8B maritime exploration package under the Samudra Manthan initiative. The funding seeks to decrease the nation's 90% reliance on foreign crude imports."
             },
             {
                 "slide_index": 4,
-                "headline": "CLEAN ENERGY: PORT INCENTIVES",
-                "teaserTitle": "SUPPLY CHAIN FINANCE: TARIFF REFUNDS",
-                "visual_caption": "The ports of LA and Long Beach unveiled expanded clean energy financial incentives. The package rewards carriers deploying ultra-low-emission vessels into regional terminals."
+                "headline": "FLEET COMPLIANCE: NON-DOMICILED CDL LIMITS",
+                "teaserTitle": "AUTOMOTIVE PROCUREMENT: GM SAFETY FUND",
+                "visual_caption": "Rhode Island and Utah tightened rules on non-domiciled commercial driver licenses. Fleet attrition could exceed 200,000 drivers across national freight corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "SUPPLY CHAIN FINANCE: TARIFF REFUNDS",
-                "teaserTitle": "AIR CARGO: PEAK SEASON VOLATILITY",
-                "visual_caption": "A specialized secondary market has emerged for retail corporations seeking cash liquidity. Importers are selling rights to customs refunds to offset inventory holding costs."
+                "headline": "AUTOMOTIVE PROCUREMENT: GM SAFETY FUND",
+                "teaserTitle": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
+                "visual_caption": "GM established a $4.5B component safety fund to pre-fund tier supplier purchases. The capital pool enables critical part stockpiling against unexpected supply chain disruptions."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: PEAK SEASON VOLATILITY",
-                "teaserTitle": "RAILROAD REGULATION: MERGER SCRUTINY",
-                "visual_caption": "Global air cargo networks registered subdued peak season indicators for H2 2026. Forwarders report moderating demand following legislative changes on low-value imports."
+                "headline": "AIR EXPRESS: DHL SHENZHEN EXPANSION",
+                "teaserTitle": "E-COMMERCE LOGISTICS: USPS QR GLITCH",
+                "visual_caption": "DHL Express completed a $204M hub expansion at its Shenzhen gateway. The upgraded facility significantly expands express processing capacity across southern China."
             },
             {
                 "slide_index": 7,
-                "headline": "RAILROAD REGULATION: MERGER SCRUTINY",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Six state attorneys general filed formal opposition briefs against the proposed rail merger. Regulators argued efficiency gains fail to offset service monopolization risks."
+                "headline": "E-COMMERCE LOGISTICS: USPS QR GLITCH",
+                "teaserTitle": "",
+                "visual_caption": "Technical outages disrupted USPS QR code scanning for marketplace parcel drop-offs. Sellers were required to manually print physical shipping labels to avoid delivery delays."
             },
             {
                 "slide_index": 8,
