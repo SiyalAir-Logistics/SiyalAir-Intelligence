@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: DRONE TARIFF MANDATE",
-                "teaserTitle": "DEFENSE SUPPLY: CRITICAL MINERAL ALLOCATION",
-                "visual_caption": "The White House ordered 100% tariffs on foreign commercial drones and essential flight components. Drone fleet operators must quickly pivot to domestic equipment suppliers to avoid doubling procurement expenses."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "CANAL TRANSIT: RECORD AUCTION SURCHARGE",
+                "visual_caption": "USTR implemented Section 301 forced labor tariffs covering 60 partner nations. Importers now face mandatory chain-of-custody audits at all US entry points."
             },
             {
                 "slide_index": 2,
-                "headline": "DEFENSE SUPPLY: CRITICAL MINERAL ALLOCATION",
-                "teaserTitle": "ITAR ENFORCEMENT: DEFENSE EXPORT PENALTY",
-                "visual_caption": "The Pentagon finalized over $2B in strategic loan agreements to secure domestic battery materials and magnet manufacturing. Industrial manufacturers should lock in domestic supply contracts to shield operations from international mineral export controls."
+                "headline": "CANAL TRANSIT: RECORD AUCTION SURCHARGE",
+                "teaserTitle": "CYBER RISK: FREIGHT PLATFORM BREACH",
+                "visual_caption": "Panama Canal queue-jump fees hit a record $4.6M amid severe regional vessel congestion. Carriers must weigh multi-million-dollar auction bids against 14-day Cape Horn detours."
             },
             {
                 "slide_index": 3,
-                "headline": "ITAR ENFORCEMENT: DEFENSE EXPORT PENALTY",
-                "teaserTitle": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
-                "visual_caption": "Defense contractor BAE Systems settled with federal regulators for $36M over unauthorized export transfers. Defense and aerospace suppliers must tighten cloud engineering security to prevent technical data sharing violations."
+                "headline": "CYBER RISK: FREIGHT PLATFORM BREACH",
+                "teaserTitle": "CARGO SECURITY: HIGH VALUE THEFT SURGE",
+                "visual_caption": "Uber Freight confirmed a cyber breach compromising ~1M operational files and carrier profiles. Logistics teams must audit API connections and enforce multi-factor credential authentication."
             },
             {
                 "slide_index": 4,
-                "headline": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
-                "teaserTitle": "TRUCKING FLEET: CDL REGULATORY CRACKDOWN",
-                "visual_caption": "Six state attorneys general formally challenged the proposed UP-NS railroad mega-merger. Shippers must prepare contingency routing models to mitigate freight rate hikes and reduced carrier competition across core rail corridors."
+                "headline": "CARGO SECURITY: HIGH VALUE THEFT SURGE",
+                "teaserTitle": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
+                "visual_caption": "Targeted theft rings have stolen >$111M in data center hardware using deceptive staging tactics. Tech shippers face surging insurance deductibles and require dual-driver security escorts."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING FLEET: CDL REGULATORY CRACKDOWN",
-                "teaserTitle": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
-                "visual_caption": "State licensing agencies restricted non-domiciled CDLs, risking the removal of 200K drivers nationwide. Logistics planners must audit contracted motor carrier rosters to prevent sudden transit delays and capacity deficits."
+                "headline": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
+                "teaserTitle": "CROSS BORDER: EU DE MINIMIS REFORM",
+                "visual_caption": "Two tanker strikes in the Strait of Hormuz drove regional port volumes down 65%. Shippers are activating bonded overland road corridors to bypass maritime choke points."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
-                "teaserTitle": "MULTIMODAL: SAUDI LAND BRIDGE",
-                "visual_caption": "DHL invested $204M to triple cargo sorting capacity at its Shenzhen gateway hub. Shippers moving high-tech goods should leverage upgraded regional sorting infrastructure to reduce export customs dwell times."
+                "headline": "CROSS BORDER: EU DE MINIMIS REFORM",
+                "teaserTitle": "RAIL INTERMODAL: CALIFORNIA SURCHARGE HIKE",
+                "visual_caption": "EU air cargo volumes dropped following the regulatory repeal of de minimis tax exemptions. Cross-border sellers are establishing local EU fulfillment hubs to bypass import friction."
             },
             {
                 "slide_index": 7,
-                "headline": "MULTIMODAL: SAUDI LAND BRIDGE",
-                "teaserTitle": "",
-                "visual_caption": "Ocean carrier MSC launched an integrated rail land bridge connecting Persian Gulf terminals directly to Riyadh Dry Port. Regional logistics managers should utilize overland rail corridors to bypass maritime choke points and save transit days."
+                "headline": "RAIL INTERMODAL: CALIFORNIA SURCHARGE HIKE",
+                "teaserTitle": "FINAL SLIDE",
+                "visual_caption": "Union Pacific instituted a $1,000 per box intermodal surcharge on California outbound corridors. Logistics planners are shifting volume into OTR highway capacity to circumvent rail delays."
             },
             {
                 "slide_index": 8,

@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DRONE TARIFF",
-        "titleBlue": "MANDATE",
-        "footerSummary": "White House slaps 100% tariffs on drone hardware while the Pentagon allocates $2B to secure domestic battery and mineral supply chains."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR triggers sweeping Section 301 tariffs across 60 trading nations as canal bypass fees top $4.6M."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: DRONE TARIFF MANDATE",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The White House issued an executive order establishing emergency 100% tariffs on imported commercial drones and critical sub-assemblies. Customs authorities will immediately apply the duty surcharges across flight controllers, propulsion units, and optical sensor modules entering US ports.",
-                "Commercial drone operators and industrial inspection firms face doubling procurement costs and severe friction across replacement parts inventories. Enterprise logistics teams must audit equipment supply pipelines and accelerate domestic vendor qualification to prevent fleet maintenance groundings."
+                "The Office of the United States Trade Representative formally enacted broad forced labor import duties covering 60 partner nations under Section 301. The regulatory action replaces expired Section 122 measures and immediately establishes mandatory chain-of-custody audits at US ports of entry.",
+                "Importers face severe border inspection holds and heightened commercial bonding liabilities across multi-tier raw material origins. Corporate trade compliance teams must integrate granular digital traceability platforms to verify labor standards and prevent cargo seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEFENSE SUPPLY: CRITICAL MINERAL ALLOCATION",
+            "nextUpTease": "CANAL TRANSIT: RECORD AUCTION SURCHARGE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T16:30:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T18:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "DEFENSE SUPPLY: CRITICAL MINERAL ALLOCATION",
+            "heading": "CANAL TRANSIT: RECORD AUCTION SURCHARGE",
             "paragraphs": [
-                "The Department of Defense finalized over $2B in conditional loan commitments to rapidly secure domestic battery materials and rare earth processing. The capital allocations target advanced manufacturing facilities for synthetic graphite, permanent magnets, and specialized cathode chemistries.",
-                "High-tech manufacturers and automotive supply chains gain strategic protection against international export embargoes and mineral quotas. Procurement directors should structure multi-year domestic off-take agreements to lock in stable component pricing and insulate production from geopolitical shocks."
+                "Transit auction premiums at the Panama Canal reached an all-time peak of $4.6M as LPG carriers bid aggressively to skip escalating vessel queues. Prolonged geopolitical rerouting away from the Suez corridor has intensified congestion across primary Western Hemisphere maritime locks.",
+                "Bulk energy and containerized cargo operators are absorbing record spot transit surcharges that destabilize baseline voyage margins. Freight planners must weigh multi-million-dollar canal priority slots against 14-day transit penalties around Cape Horn."
             ],
             "imageUrl": "",
-            "nextUpTease": "ITAR ENFORCEMENT: DEFENSE EXPORT PENALTY",
+            "nextUpTease": "CYBER RISK: FREIGHT PLATFORM BREACH",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T15:15:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T19:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "ITAR ENFORCEMENT: DEFENSE EXPORT PENALTY",
+            "heading": "CYBER RISK: FREIGHT PLATFORM BREACH",
             "paragraphs": [
-                "Defense contractor BAE Systems reached a $36M administrative settlement with the State Department over dozens of unauthorized defense article transfers. Federal regulators suspended $18M of the total penalty conditional on mandatory multi-year trade compliance upgrades and external auditing.",
-                "Aerospace and dual-use component suppliers face heightened scrutiny over technical data sharing and cross-border digital transmissions. Corporate compliance officers must implement automated screening on cloud-based engineering files to eliminate export license violations and avoid statutory civil penalties."
+                "Uber Freight confirmed an active cybersecurity incident after unauthorized threat actors accessed approximately 1M operational and carrier identity records. The intrusion exploited broker communication vectors to intercept sensitive rate confirmations, dispatch manifests, and driver verification credentials.",
+                "Digital freight brokerages and enterprise shippers face acute exposure to identity theft and fraudulent shipment redirection. Risk managers must enforce multi-factor carrier authentication protocols and audit third-party logistics API integrations to safeguard tender execution."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
+            "nextUpTease": "CARGO SECURITY: HIGH VALUE THEFT SURGE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T18:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
+            "heading": "CARGO SECURITY: HIGH VALUE THEFT SURGE",
             "paragraphs": [
-                "A coalition of 6 state Attorneys General formally submitted joint opposition against the proposed Union Pacific and Norfolk Southern railroad merger. The legal filing argues that consolidating transcontinental rail corridors will eliminate carrier competition and trigger service deteriorations across key agricultural and chemical junctions.",
-                "Industrial shippers utilizing rail intermodal routes face potential freight rate inflation and constrained switching alternatives if regulatory approvals proceed. Transportation procurement managers must evaluate multi-modal trucking backups and model captive-shipper surcharge exposure ahead of federal surface transportation hearings."
+                "Freight security investigators identified over $111M in targeted data center equipment thefts executed through coordinated staged-accident and driver impersonation tactics. Criminal rings are intercepting high-density server racks and semiconductor shipments across primary US interstate freight corridors.",
+                "Technology procurement teams and specialized logistics carriers are experiencing rapid spikes in transit insurance deductibles and high-value cargo exclusions. Shippers must deploy covert GPS tracking devices and mandate continuous dual-driver escorts for sensitive electronics freight."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING FLEET: CDL REGULATORY CRACKDOWN",
+            "nextUpTease": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T17:20:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T21:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRUCKING FLEET: CDL REGULATORY CRACKDOWN",
+            "heading": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
             "paragraphs": [
-                "State motor vehicle agencies in Rhode Island and Utah implemented strict residency restrictions on non-domiciled commercial driver licenses. Transportation analysts project that expanding state-level enforcement could eliminate up to 200,000 active commercial drivers from the national long-haul carrier pool.",
-                "Over-the-road freight networks anticipate tightening spot capacity and escalating contract linehaul rates as carrier payroll burdens rise. Enterprise logistics planners must conduct thorough audit sweeps of carrier compliance credentials to prevent freight impoundments during roadside DOT safety inspections."
+                "Maritime security agencies confirmed two additional commercial tanker attacks in the Strait of Hormuz, driving container throughput down 65% across regional terminals. Escalating drone and missile threats have forced international ocean carriers to halt scheduled feeder loops.",
+                "Energy and container supply chains face war risk premium increases exceeding 40% alongside severe vessel positioning deficits. Logistics directors must activate overland bonded trucking routes across the Arabian Peninsula to bypass the volatile maritime strait."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
+            "nextUpTease": "CROSS BORDER: EU DE MINIMIS REFORM",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T20:10:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T19:04:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
+            "heading": "CROSS BORDER: EU DE MINIMIS REFORM",
             "paragraphs": [
-                "Express carrier DHL committed $204M toward a major facility expansion at its Shenzhen air cargo gateway, effectively tripling processing capacity. The newly upgraded facility introduces high-speed automated sorting infrastructure to manage expanding cross-border electronic trade and manufacturing exports.",
-                "International air freight forwarders gain expanded high-velocity throughput and reduced customs handling dwell times across the Pearl River Delta corridor. Global shippers moving time-sensitive electronics should consolidate regional export allocations through modernized hubs to secure consistent outbound flight space."
+                "European Union cross-border air freight volumes experienced sharp declines following the regulatory elimination of duty-free de minimis import exemptions. Customs authorities now enforce strict automated VAT assessment and formal entry declarations on all inbound low-value parcels.",
+                "Direct-to-consumer ecommerce retailers are confronting substantial clearance fee inflation and extended multi-day hub processing delays. Global brands must shift toward localized European distribution hubs to maintain next-day fulfillment timelines and control import administrative overhead."
             ],
             "imageUrl": "",
-            "nextUpTease": "MULTIMODAL: SAUDI LAND BRIDGE",
+            "nextUpTease": "RAIL INTERMODAL: CALIFORNIA SURCHARGE HIKE",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T14:40:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-14T17:50:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MULTIMODAL: SAUDI LAND BRIDGE",
+            "heading": "RAIL INTERMODAL: CALIFORNIA SURCHARGE HIKE",
             "paragraphs": [
-                "Ocean carrier MSC partnered with regional rail operators to roll out an integrated multimodal land bridge linking Persian Gulf ports directly to Riyadh Dry Port. The rail-connected corridor bypasses vulnerable maritime choke points, reducing inland transit times for regional containerized cargo by 48 hours.",
-                "Middle East supply chain operators achieve enhanced routing resilience and lower insurance exposure by substituting direct sea voyages with bonded rail movements. Freight forwarders must recalibrate Middle East inland distribution models to utilize dry port staging and minimize demurrage at coastal container terminals."
+                "Union Pacific implemented an emergency $1,000 per box congestion surcharge on outbound California intermodal traffic as container dwell times mounted. Surging peak-season import surges at West Coast marine terminals have overwhelmed regional ramp trackage and railcar availability.",
+                "Intermodal shippers moving freight into inland distribution hubs face immediate cost escalations and delayed rail ramp releases. Transportation buyers must leverage highway over-the-road surge capacity and flexible transloading yards to avoid captive rail bottlenecks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T13:25:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-14T18:20:00Z",
                 "Status: Audited & True"
             ]
         }
