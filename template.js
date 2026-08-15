@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SHIPPING DISRUPTION SPREADS TO",
-        "titleBlue": "CONTRACTS",
-        "footerSummary": "Spillover from spot market volatility drives ocean carriers to lock in higher contract rates across major global trade lanes."
+        "titleWhite": "PANAMA TRANSIT",
+        "titleBlue": "SURGE",
+        "footerSummary": "Record auction fees and expanding maritime chokepoint delays force enterprise shippers to recalculate interoceanic freight allocations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OCEAN FREIGHT: RATE INCREASE SPREAD",
+            "heading": "MARITIME ROUTING: PANAMA TRANSIT SURGE",
             "paragraphs": [
-                "Persistent shipping disruptions are fueling an aggressive rate increase cycle that is rapidly expanding from volatile spot markets into long-term customer contracts. Transpacific rates continue an upward trajectory, while cargo shipping costs into European ports experience even steeper upward momentum.",
-                "Enterprise shippers face escalating baseline freight expenses as carriers leverage market instability to secure extended premium commitments. Logistics procurers must re-evaluate network cost models to absorb sustained rate hikes across core international maritime corridors."
+                "Auction fees to bypass the Panama Canal transit queue surged to a record $4.6M this week as vessel operators maneuver around expanding maritime choke points. The liquefied petroleum gas carrier G. Arete secured the priority slot, surpassing the previous record auction bid of $3.975M.",
+                "Enterprise cargo owners face severe cost premiums as spot canal bidding escalates slot valuations across key transit windows. Shippers must evaluate whether paying multimillion-dollar bypass premiums outweighs the holding costs and schedule degradation of extended Cape horn diversions."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: ECOMMERCE CRACKDOWN",
+            "nextUpTease": "MIDDLE EAST: HORMUZ MARITIME DISRUPTION",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T18:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR CARGO: ECOMMERCE CRACKDOWN",
+            "heading": "MIDDLE EAST: HORMUZ MARITIME DISRUPTION",
             "paragraphs": [
-                "Tougher customs enforcement and regulatory scrutiny targeting low-value airfreight shipments are threatening to reverse recent ecommerce volume gains across international hubs. Stricter handling of direct-to-consumer parcels creates severe administrative backlogs and processing friction for global carriers.",
-                "Retail importers face unexpected duty assessments and compliance delays that undermine low-margin cross-border sales models. Supply chain executives must integrate automated documentation workflows to maintain velocity through heavily regulated air gateways."
+                "Fresh maritime strikes hit two commercial tankers navigating the Strait of Hormuz, prompting international naval advisories and emergency rerouting protocols. Regional maritime throughput contracted sharply, with AD Ports reporting a 65% drop in container volume across affected UAE terminals.",
+                "Marine underwriters are adjusting war risk insurance premiums higher, driving up transit overhead for breakbulk and containerized cargo across the Persian Gulf. Shippers moving freight through regional gateways must secure secondary land-bridge corridors to mitigate sudden port closures."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING COMPLIANCE: ELD PURGE",
+            "nextUpTease": "TRADE POLICY: USTR FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T19:04:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRUCKING COMPLIANCE: ELD PURGE",
+            "heading": "TRADE POLICY: USTR FORCED LABOR TARIFFS",
             "paragraphs": [
-                "Federal regulatory enforcement targeting noncompliant electronic logging devices is accelerating a broad capacity purge across domestic over-the-road freight networks. Industry leaders project that stringent compliance verification checks will sideline thousands of noncompliant operators.",
-                "Dry van and reefer contract rates are hitting historic highs as available linehaul capacity contracts across primary North American transit lanes. Shippers must abandon volatile spot-market reliance and secure dedicated carrier partnerships to protect service levels."
+                "The Office of the United States Trade Representative formally enacted Section 301 tariffs against 60 trading partners to enforce stricter labor compliance standards. The sweeping measure replaces expiring Section 122 duties and mandates enhanced supply chain traceability documentation at U.S. ports of entry.",
+                "Global manufacturers face immediate margin compression and heightened border detention risks for noncompliant import filings. Customs compliance teams must deploy end-to-end bill-of-materials audits to verify upstream tier-two and tier-three vendor origins."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL TRADE: TARIFF EVASION",
+            "nextUpTease": "CARGO SECURITY: LONDON GATEWAY INTERCEPTION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GLOBAL TRADE: TARIFF EVASION",
+            "heading": "CARGO SECURITY: LONDON GATEWAY INTERCEPTION",
             "paragraphs": [
-                "A comprehensive White House report reveals that dozens of foreign countries have actively assisted in evading U.S. tariffs through illicit transshipment schemes. Illegal routing operations frequently utilize false country-of-origin claims, relabeling, repackaging, and minor processing to bypass trade penalties.",
-                "Customs compliance officers are increasing inspections on complex multinational supply chains, raising the risk of severe financial penalties and cargo seizures. Importers must execute rigorous vendor audits to ensure absolute transparency regarding the origin of inbound materials."
+                "United Kingdom authorities seized 2.9 metric tons of illicit contraband valued at $313M concealed within a refrigerated container shipment at London Gateway. The enforcement action represents one of the largest maritime interdictions recorded across UK container terminals this year.",
+                "Terminal operators are escalating physical inspections and hold times on inbound refrigerated cargo originating from South American trade corridors. Perishable cargo forwarders must account for expanded customs dwell times and additional container demurrage exposure during peak arrival windows."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: FREIGHT VULNERABILITY",
+            "nextUpTease": "INTERMODAL RAIL: MERGER SCRUTINY ESCALATION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T15:17:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CYBERSECURITY: FREIGHT VULNERABILITY",
+            "heading": "INTERMODAL RAIL: MERGER SCRUTINY ESCALATION",
             "paragraphs": [
-                "A major security breach at Uber Freight exposed millions of sensitive digital files, highlighting critical identity management vulnerabilities across logistics networks. The incident underscores how interconnected digital transportation platforms remain exposed to sophisticated cyber threats.",
-                "Supply chain organizations must immediately harden IT security infrastructure and verify third-party vendor access controls to prevent catastrophic data compromises. Protecting enterprise communication channels is vital to maintaining operational continuity and client trust."
+                "Six state Attorneys General filed formal objections opposing the proposed Union Pacific and Norfolk Southern railroad combination, citing reduced regional competition. Concurrently, Union Pacific implemented a $1,000 per-container surcharge on select high-demand California intermodal outbound routes.",
+                "Intermodal logistics planners must absorb mounting rail linehaul surcharges while preparing for prolonged regulatory reviews that could reshape national line-haul agreements. Shippers must diversify domestic routing across competing surface carriers to safeguard rate flexibility."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL IMPORTS: PEAK VOLUME",
+            "nextUpTease": "INDUSTRIAL PROPERTY: WAREHOUSE VACANCY CONTRACTION",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-14T16:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RETAIL IMPORTS: PEAK VOLUME",
+            "heading": "INDUSTRIAL PROPERTY: WAREHOUSE VACANCY CONTRACTION",
             "paragraphs": [
-                "National Retail Federation data projects that import volumes at major U.S. ports have officially peaked as businesses aggressively build up inventory. Retailers accelerated shipments to outpace anticipated tariff increases and secure holiday merchandise ahead of schedule.",
-                "Port terminals and intermodal yards face localized congestion as high container volumes strain baseline handling infrastructure. Shippers must optimize drayage coordination to avoid extended demurrage fees and equipment shortages."
+                "The North American industrial real estate sector stabilized in Q2 2026, with average facility vacancy contracting seven basis points to 7.3%. Colliers reported net leasing demand outpaced new warehouse completions as developer construction starts slowed across primary distribution hubs.",
+                "Third-party logistics providers and omnichannel retailers face shrinking prime space availability, reversing recent concessions on long-term industrial leases. Procurement directors must finalize distribution center renewals early to prevent substantial rent step-ups in core inland port markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY INFRASTRUCTURE: TURBINE DEMAND",
+            "nextUpTease": "TRUCKING WORKFORCE: STATE CDL ENFORCEMENT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T13:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ENERGY INFRASTRUCTURE: TURBINE DEMAND",
+            "heading": "TRUCKING WORKFORCE: STATE CDL ENFORCEMENT",
             "paragraphs": [
-                "Original equipment manufacturers are navigating conflicting market forces driven by surging global energy demand alongside regulatory disruptions impacting U.S. wind projects. Turbine makers are securing a second wind as infrastructure funding aligns with new capacity requirements.",
-                "Industrial supply chains must manage extended lead times for specialized heavy components required for large-scale energy developments. Project cargo logisticians need to establish resilient transport frameworks to handle oversized shipments safely."
+                "State transportation authorities in Rhode Island and Utah introduced strict restrictions on non-domiciled Commercial Driver's Licenses. Industry analysts project the tightening regulatory landscape could sideline up to 200,000 drivers as state agencies restrict credential renewals.",
+                "Motor carriers face intensifying driver recruitment pressure and elevated linehaul wage demands across regional and long-haul networks. Freight brokerages must continuously audit driver qualification files to maintain compliant carrier pools and prevent service failures."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-14T17:05:00Z",
                 "Status: Audited & True"
             ]
         }
