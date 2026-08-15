@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PANAMA CANAL: RECORD TRANSIT AUCTION",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "visual_caption": "A gas carrier paid a record $4.6M auction fee to bypass Panama Canal delays. Shippers must evaluate if extreme slot premiums outweigh costly multi-week detours."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME OPERATIONS: HORMUZ TANKER ATTACKS",
+                "visual_caption": "USTR moves forward with Section 301 tariffs on 60 trading partners. Importers face stringent border compliance checks and duty escalations."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "teaserTitle": "RAILWAYS: STATE OPPOSITION MERGER",
-                "visual_caption": "A major cyber breach at Uber Freight exposed over 1M shipment files and pricing records. Logistics providers must audit verification systems to prevent identity theft and fraudulent cargo redirection."
+                "headline": "MARITIME OPERATIONS: HORMUZ TANKER ATTACKS",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "visual_caption": "Two commercial tankers were attacked during outbound transits in the Strait of Hormuz. Vessel operators are extending routes around high-risk zones."
             },
             {
                 "slide_index": 3,
-                "headline": "RAILWAYS: STATE OPPOSITION MERGER",
-                "teaserTitle": "EXPORT CONTROLS: BAE DEFENSE PENALTY",
-                "visual_caption": "Six state attorneys general officially filed opposition against the proposed Union Pacific and Norfolk Southern merger. Industrial shippers face prolonged regulatory uncertainty and rising freight rate risks during review."
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "visual_caption": "A data breach at Uber Freight exposed over 1M files containing shipment manifests. Logistics providers must execute urgent identity verification audits."
             },
             {
                 "slide_index": 4,
-                "headline": "EXPORT CONTROLS: BAE DEFENSE PENALTY",
-                "teaserTitle": "AIR CARGO: SHENZHEN HUB EXPANSION",
-                "visual_caption": "BAE Systems reached a $36M settlement over federal arms export control violations. Aerospace supply chain managers must tighten screening protocols for all international sub-tier suppliers and technical records."
+                "headline": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "teaserTitle": "RAILWAYS: STATE OPPOSITION MERGER",
+                "visual_caption": "DHL Express completed a $204M gateway expansion in Shenzhen, tripling handling capacity. Shippers secure guaranteed uplift in Pearl River Delta corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: SHENZHEN HUB EXPANSION",
-                "teaserTitle": "INTERMODAL: CALIFORNIA BOX SURCHARGE",
-                "visual_caption": "DHL Express invested $204M to triple handling capacity at its Shenzhen gateway. Airfreight forwarders gain faster automated processing for surging cross-border ecommerce and high-tech exports."
+                "headline": "RAILWAYS: STATE OPPOSITION MERGER",
+                "teaserTitle": "EXPORT CONTROLS: BAE DEFENSE PENALTY",
+                "visual_caption": "Six state attorneys general filed joint opposition against the UP-NS rail merger. Freight procurers must hedge rate escalation risks ahead of regulatory rulings."
             },
             {
                 "slide_index": 6,
-                "headline": "INTERMODAL: CALIFORNIA BOX SURCHARGE",
-                "teaserTitle": "PORT OPERATIONS: UAE CONTAINER PLUNGE",
-                "visual_caption": "Union Pacific imposed a $1,000 surcharge per container on shipments exiting California rail hubs. Importers face immediate domestic cost spikes and must optimize inland intermodal contracts accordingly."
+                "headline": "EXPORT CONTROLS: BAE DEFENSE PENALTY",
+                "teaserTitle": "INTERMODAL: CALIFORNIA BOX SURCHARGE",
+                "visual_caption": "BAE Systems reached a $36M civil settlement for arms export control violations. Supply chains must tighten screening for technical data transfers."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT OPERATIONS: UAE CONTAINER PLUNGE",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "AD Ports container volumes dropped 65% as regional navigation risks forced ocean carriers to offload cargo outside the Gulf. Shippers must deploy overland trucking networks to bypass maritime bottlenecks."
+                "headline": "INTERMODAL: CALIFORNIA BOX SURCHARGE",
+                "teaserTitle": "FINAL SLIDE",
+                "visual_caption": "Union Pacific implemented a $1K container surcharge on outbound California rail shipments. Procurement managers must optimize inland point contracts."
             },
             {
                 "slide_index": 8,
