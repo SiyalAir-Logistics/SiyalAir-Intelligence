@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRADE POLICY: FORCED LABOR TARIFFS",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
-                "teaserTitle": "RAIL FREIGHT: UP-NS MERGER OPPOSITION",
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
+                "teaserTitle": "TRADE POLICY: FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is rolling out Section three oh one tariffs on sixty nations. Shippers face higher landed costs and strict supply chain audits across international sourcing networks."
+                "narration_line": "An empty liquefied petroleum gas tanker secured transit priority through the Panama Canal by paying a record four point six million dollar fee. Vessel operators face difficult financial trade offs between absorbing mounting premiums or accepting protracted multi week delays."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL FREIGHT: UP-NS MERGER OPPOSITION",
-                "teaserTitle": "MIDDLE EAST: MSC MULTIMODAL CORRIDOR",
+                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "teaserTitle": "AIR CARGO: EU DE MINIMIS REFORM",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Six state attorneys general have filed formal opposition against the proposed Union Pacific and Norfolk Southern merger. Industrial rail shippers face potential captive rate increases and reduced routing competition."
+                "narration_line": "The United States Trade Representative commenced sweeping section three hundred one tariffs targeting sixty trading partners. Importers must immediately execute supply chain mapping to prevent customs compliance penalties and rising landed costs."
             },
             {
                 "slide_index": 3,
-                "headline": "MIDDLE EAST: MSC MULTIMODAL CORRIDOR",
-                "teaserTitle": "TRADE POLICY: 100% DRONE TARIFFS",
+                "headline": "AIR CARGO: EU DE MINIMIS REFORM",
+                "teaserTitle": "TRUCKING CAPACITY: DRIVER PAY PRESSURE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Mediterranean Shipping Company launched a multimodal Saudi land bridge to bypass escalating vessel disruptions in the Strait of Hormuz. Shippers gain reliable transit while mitigating surging maritime war risk premiums."
+                "narration_line": "Inbound European air cargo volumes experienced a noticeable contraction following the implementation of strict duty free tax reforms. Freight forwarders face declining express yields and persistent customs clearance backlogs across major gateway airports."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE POLICY: 100% DRONE TARIFFS",
-                "teaserTitle": "AIR CARGO: EU DE MINIMIS CONTRACTION",
+                "headline": "TRUCKING CAPACITY: DRIVER PAY PRESSURE",
+                "teaserTitle": "GLOBAL TRADE: TARIFF EVASION PROBE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The White House enacted one hundred percent tariffs on foreign-made drones and critical guidance components. Commercial operators face immediate hardware cost increases and must qualify alternative domestic component suppliers."
+                "narration_line": "Fleet operators nationwide are encountering escalating driver pay pressure and higher hiring costs as freight market conditions improve. Transportation procurement executives face upward rate revisions across annual and spot transport contracts."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: EU DE MINIMIS CONTRACTION",
-                "teaserTitle": "CRITICAL MINERALS: $2B PENTAGON FUNDING",
+                "headline": "GLOBAL TRADE: TARIFF EVASION PROBE",
+                "teaserTitle": "MARITIME SECURITY: TANKER ATTACKS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "European air cargo volumes slumped following the full elimination of duty-free de minimis exemptions on cross-border shipments. Forwarders face declining express yields and extended customs clearance dwell times across continental hubs."
+                "narration_line": "A White House intelligence report revealed that dozens of foreign nations assisted exporters in evading trade tariffs through illicit transshipment. Customs enforcement authorities are scaling up documentation audits across all major import hubs."
             },
             {
                 "slide_index": 6,
-                "headline": "CRITICAL MINERALS: $2B PENTAGON FUNDING",
-                "teaserTitle": "TRUCKING CAPACITY: CDL COMPLIANCE CRACKDOWN",
+                "headline": "MARITIME SECURITY: TANKER ATTACKS",
+                "teaserTitle": "RAIL FREIGHT: MERGER OPPOSITION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Pentagon signed over two billion dollars in funding commitments to build domestic battery and critical mineral infrastructure. Manufacturers secure localized supply lines to insulate strategic production from foreign export bans."
+                "narration_line": "Persistent military strikes within the Strait of Hormuz have forced crude tankers to adopt dark transit protocols and prolonged detours. Ocean carriers face soaring war risk insurance premiums and extended voyage durations."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING CAPACITY: CDL COMPLIANCE CRACKDOWN",
-                "teaserTitle": "",
+                "headline": "RAIL FREIGHT: MERGER OPPOSITION",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "State crackdowns on non-domiciled driver licenses could sideline up to two hundred thousand commercial truck drivers nationwide. Fleet managers face sudden capacity deficits and rising linehaul spot rates across regional corridors."
+                "narration_line": "State Attorneys General filed formal opposition against the proposed transcontinental merger between Union Pacific and Norfolk Southern. Rail freight customers face the growing threat of captive rate increases and constrained network flexibility."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }
