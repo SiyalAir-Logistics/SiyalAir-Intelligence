@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE",
+        "hookTitle": "DRONE IMPORT TARIFFS SHAKE GLOBAL SUPPLY CHAINS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
-                "teaserTitle": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "headline": "TRADE POLICY: DRONE IMPORT TARIFFS",
+                "teaserTitle": "AIR LOGISTICS: SHENZHEN HUB EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty liquefied petroleum gas tanker secured transit priority through the Panama Canal by paying a record four point six million dollar fee. Vessel operators face difficult financial trade offs between absorbing mounting premiums or accepting protracted multi week delays."
+                "narration_line": "The federal government enacted one hundred percent tariffs on foreign commercial drones and components. Sourcing teams face doubled hardware costs and severe aerospace supply chain disruption."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
-                "teaserTitle": "AIR CARGO: EU DE MINIMIS REFORM",
+                "headline": "AIR LOGISTICS: SHENZHEN HUB EXPANSION",
+                "teaserTitle": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The United States Trade Representative commenced sweeping section three hundred one tariffs targeting sixty trading partners. Importers must immediately execute supply chain mapping to prevent customs compliance penalties and rising landed costs."
+                "narration_line": "DHL completed a two hundred four million dollar gateway expansion in Shenzhen, tripling South China express cargo capacity. Shippers secure faster automated clearance ahead of peak season."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: EU DE MINIMIS REFORM",
-                "teaserTitle": "TRUCKING CAPACITY: DRIVER PAY PRESSURE",
+                "headline": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
+                "teaserTitle": "CUSTOMS RECOVERY: TARIFF REFUND INFLUX",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Inbound European air cargo volumes experienced a noticeable contraction following the implementation of strict duty free tax reforms. Freight forwarders face declining express yields and persistent customs clearance backlogs across major gateway airports."
+                "narration_line": "Amazon enforced a strict seventy-five character limit on product titles across all seller listings. Brands risk algorithmic suppression unless product catalogs are updated immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING CAPACITY: DRIVER PAY PRESSURE",
-                "teaserTitle": "GLOBAL TRADE: TARIFF EVASION PROBE",
+                "headline": "CUSTOMS RECOVERY: TARIFF REFUND INFLUX",
+                "teaserTitle": "AUTOMATION: ROBOTIC TRAILER LOADING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Fleet operators nationwide are encountering escalating driver pay pressure and higher hiring costs as freight market conditions improve. Transportation procurement executives face upward rate revisions across annual and spot transport contracts."
+                "narration_line": "Kimberly-Clark secured forty-five million dollars in tariff refunds following successful duty challenges. Importers are expanding customs audits to reclaim misclassified trade duties."
             },
             {
                 "slide_index": 5,
-                "headline": "GLOBAL TRADE: TARIFF EVASION PROBE",
-                "teaserTitle": "MARITIME SECURITY: TANKER ATTACKS",
+                "headline": "AUTOMATION: ROBOTIC TRAILER LOADING",
+                "teaserTitle": "RAIL FREIGHT: INTERMODAL VOLUME SURGE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A White House intelligence report revealed that dozens of foreign nations assisted exporters in evading trade tariffs through illicit transshipment. Customs enforcement authorities are scaling up documentation audits across all major import hubs."
+                "narration_line": "FedEx and Amazon deployed autonomous robotic trailer loading arms across high-volume distribution hubs. Automated sorting accelerates dock turnaround times by thirty percent."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME SECURITY: TANKER ATTACKS",
-                "teaserTitle": "RAIL FREIGHT: MERGER OPPOSITION",
+                "headline": "RAIL FREIGHT: INTERMODAL VOLUME SURGE",
+                "teaserTitle": "INDUSTRIAL REALTY: LOGISTICS VACANCY SHIFT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Persistent military strikes within the Strait of Hormuz have forced crude tankers to adopt dark transit protocols and prolonged detours. Ocean carriers face soaring war risk insurance premiums and extended voyage durations."
+                "narration_line": "United States rail intermodal traffic climbed four point one percent to over two hundred ninety-five thousand units. Surface shippers are locking rail capacity to hedge rising truckload rates."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL FREIGHT: MERGER OPPOSITION",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "INDUSTRIAL REALTY: LOGISTICS VACANCY SHIFT",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "State Attorneys General filed formal opposition against the proposed transcontinental merger between Union Pacific and Norfolk Southern. Rail freight customers face the growing threat of captive rate increases and constrained network flexibility."
+                "narration_line": "Industrial real estate vacancy fell to seven point three percent as space absorption outpaces new warehouse construction. Distribution networks must lock leases before prime square footage tightens."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }
