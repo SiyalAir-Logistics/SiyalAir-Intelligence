@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "CANAL TRANSIT: RECORD AUCTION SURGE",
-                "visual_caption": "The USTR finalized Section 301 tariffs on 60 trading partners over labor standards. Importers face immediate duty increases of up to 25% across targeted commodity categories."
+                "headline": "EXPORT COMPLIANCE: ARMS REGULATION SETTLEMENT",
+                "teaserTitle": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "visual_caption": "The State Department penalized BAE Systems $36M for defense export control breaches. Half the penalty is suspended for direct internal compliance program remediation."
             },
             {
                 "slide_index": 2,
-                "headline": "CANAL TRANSIT: RECORD AUCTION SURGE",
-                "teaserTitle": "CARGO SECURITY: DATA CENTER THEFTS",
-                "visual_caption": "Panama Canal auction fees reached $4.6M for a single priority passage slot. The record bid highlights growing maritime congestion as global shipping traffic reroutes around the Middle East."
+                "headline": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "teaserTitle": "RAIL MERGER: STATE OPPOSITION MOUNTING",
+                "visual_caption": "DHL Express invested $204M to expand its Shenzhen gateway hub. The upgrade triples sorting capacity to 100K shipments per hour."
             },
             {
                 "slide_index": 3,
-                "headline": "CARGO SECURITY: DATA CENTER THEFTS",
-                "teaserTitle": "OCEAN FREIGHT: HORMUZ TRAFFIC PLUNGE",
-                "visual_caption": "Cargo theft rings intercepted nearly $111M in server infrastructure during Q2. Technology shippers are mandating dual-driver security teams to protect high-value hardware consignments."
+                "headline": "RAIL MERGER: STATE OPPOSITION MOUNTING",
+                "teaserTitle": "FREIGHT LIABILITY: RECORD BROKERAGE VERDICT",
+                "visual_caption": "6 state AGs filed formal opposition against the proposed UP-NS rail merger. State officials warn the consolidation will stifle regional rail competition."
             },
             {
                 "slide_index": 4,
-                "headline": "OCEAN FREIGHT: HORMUZ TRAFFIC PLUNGE",
-                "teaserTitle": "AIR FREIGHT: EU TAX REFORM",
-                "visual_caption": "UAE container volumes dropped 65% following repeated tanker strikes in the Strait of Hormuz. Ocean carriers are halting regional feeder services and implementing emergency war risk surcharges."
+                "headline": "FREIGHT LIABILITY: RECORD BROKERAGE VERDICT",
+                "teaserTitle": "DRIVER LICENSING: NON-DOMICILED RESTRICTIONS",
+                "visual_caption": "Appellate courts upheld a $604M nuclear negligence verdict against C.H. Robinson. Freight brokerages face unprecedented vicarious carrier selection liabilities."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR FREIGHT: EU TAX REFORM",
-                "teaserTitle": "FLEET COMPLIANCE: ELD PURGE CONSTRAINTS",
-                "visual_caption": "European air cargo volumes fell 8% after the EU eliminated low-value duty exemptions on ecommerce parcels. Cross-border platforms now face mandatory duty filings and longer terminal clearance cycles."
+                "headline": "DRIVER LICENSING: NON-DOMICILED RESTRICTIONS",
+                "teaserTitle": "INLAND MARITIME: RHINE FLEET MODERNIZATION",
+                "visual_caption": "Rhode Island and Utah enacted strict restrictions on non-domiciled CDLs. Federal estimates project 200K drivers could be removed from interstate commerce."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEET COMPLIANCE: ELD PURGE CONSTRAINTS",
-                "teaserTitle": "DEFENSE SOURCING: CRITICAL MINERAL LOANS",
-                "visual_caption": "Federal safety regulators are accelerating the mandatory removal of uncertified ELDs across 45,000 carriers. The compliance enforcement is projected to tighten nationwide truckload capacity."
+                "headline": "INLAND MARITIME: RHINE FLEET MODERNIZATION",
+                "teaserTitle": "PORT SECURITY: RECORD REEFER INTERDICTION",
+                "visual_caption": "German operator HGK proposed a $14.5B fleet overhaul for shallow-draft Rhine barges. The initiative combats recurrent European river transport halts during droughts."
             },
             {
                 "slide_index": 7,
-                "headline": "DEFENSE SOURCING: CRITICAL MINERAL LOANS",
+                "headline": "PORT SECURITY: RECORD REEFER INTERDICTION",
                 "teaserTitle": "",
-                "visual_caption": "The DOD finalized over $2B in loan agreements to expand domestic mineral processing. The initiative builds insulated domestic component pipelines for critical aerospace and battery manufacturing."
+                "visual_caption": "British authorities seized $313M in narcotics from London Gateway reefers. The 2.9-tonne contraband interdiction will intensify perishable cargo inspection delays."
             },
             {
                 "slide_index": 8,

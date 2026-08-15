@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR enforces Section 301 tariffs across 60 trading partners while Panama Canal queue-jump auction fees spike to a record $4.6M."
+        "titleWhite": "ARMS REGULATION",
+        "titleBlue": "SETTLEMENT",
+        "footerSummary": "Defense trade regulators penalize export non-compliance with a $36M fine while DHL commits $204M to triple Shenzhen air gateway throughput."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "EXPORT COMPLIANCE: ARMS REGULATION SETTLEMENT",
             "paragraphs": [
-                "The Office of the United States Trade Representative has finalized the rollout of new import tariffs targeting 60 trading partners under Section 301 of the Trade Act of 1974. The aggressive trade enforcement framework replaces expiring Section 122 measures and specifically penalizes jurisdictions with documented labor standard violations across key manufacturing sectors.",
-                "Enterprise importers face immediate landed-cost increases of up to 25% on affected commodity categories and heightened customs audit exposure at ports of entry. Sourcing directors must immediately audit tier-one and tier-two supplier certifications to avoid consignment seizures and retroactive duty assessments."
+                "The U.S. Department of State penalized defense contractor BAE Systems $36M for widespread violations of the International Traffic in Arms Regulations. Under the consent agreement, $18M of the total fine is suspended on the condition that the capital is reinvested directly into internal compliance remediation and enhanced trade monitoring controls.",
+                "Global defense suppliers and aerospace forwarders face intensifying export audit scrutiny and mandatory compliance oversight across cross-border technical transfers. Trade compliance directors must audit all controlled defense articles and technical data handling to prevent immediate licensing revocations and severe regulatory enforcement penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANAL TRANSIT: RECORD AUCTION SURGE",
+            "nextUpTease": "AIR CARGO: SHENZHEN HUB EXPANSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T14:30:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-15T01:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CANAL TRANSIT: RECORD AUCTION SURGE",
+            "heading": "AIR CARGO: SHENZHEN HUB EXPANSION",
             "paragraphs": [
-                "Panama Canal queue-jumping auction fees surged to a historic record of $4.6M after liquefied petroleum gas carrier G. Arete paid the sum to bypass transit queues. The extreme premium reflects intensifying bottleneck pressures as prolonged Middle East disruptions redirect global energy and bulk tonnage toward Central American waterways.",
-                "Escalating transit auction expenses are inflating per-voyage operating budgets by over 40% for unscheduled vessel operators. Fleet dispatchers must weigh multi-million-dollar canal priority slots against longer Cape route deviations that add 14 to 22 sailing days."
+                "DHL Express completed a $204M expansion of its Central China hub at Shenzhen Baoan International Airport, tripling sorting capacity to process over 100K shipments per hour. The mega-facility adds 90,000 square meters of dedicated processing space to handle soaring cross-border ecommerce volumes out of the Pearl River Delta.",
+                "Shippers gain enhanced direct lift capacity and reduced export handling dwell times into major consumer markets across North America and Europe. Enterprise air freight planners must evaluate dedicated capacity allocations out of Shenzhen to bypass secondary transshipment bottlenecks at legacy regional gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO SECURITY: DATA CENTER THEFTS",
+            "nextUpTease": "RAIL MERGER: STATE OPPOSITION MOUNTING",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T15:10:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T20:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CARGO SECURITY: DATA CENTER THEFTS",
+            "heading": "RAIL MERGER: STATE OPPOSITION MOUNTING",
             "paragraphs": [
-                "Freight security investigators report that organized theft syndicates have intercepted nearly $111M worth of high-density data center processors and server infrastructure in Q2. Criminal networks are deploying staged highway collision tactics to force tractor-trailers to stop before hijacking loads in transit.",
-                "High-value technology shippers are experiencing severe hardware delivery delays and surging inland transit insurance surcharges across primary domestic corridors. Logistics managers must mandate dual-driver security teams and strict real-time telemetry verification protocols for all mission-critical electronics freight."
+                "Six state Attorneys General have filed formal objections against the proposed transcontinental merger between Union Pacific and Norfolk Southern, citing anticompetitive consolidation risks. State regulators argue the multi-billion-dollar network union will suppress carrier competition and trigger service disruptions across primary industrial rail corridors.",
+                "Intermodal shippers face regulatory uncertainty that could delay coordinated transcontinental schedule rollouts and alter captive rail freight rate negotiations. Supply chain strategists should model dual-carrier rail contracts and diversify volume splits to hedge against prospective regulatory remedies and route divestitures."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: HORMUZ TRAFFIC PLUNGE",
+            "nextUpTease": "FREIGHT LIABILITY: RECORD BROKERAGE VERDICT",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T13:45:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T19:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "OCEAN FREIGHT: HORMUZ TRAFFIC PLUNGE",
+            "heading": "FREIGHT LIABILITY: RECORD BROKERAGE VERDICT",
             "paragraphs": [
-                "AD Ports Group reported a 65% collapse in UAE container terminal throughput following back-to-back tanker strikes in the Strait of Hormuz. Commercial ocean carriers are systematically halting feeder services and diverting mainline tonnage away from Persian Gulf gateway terminals to mitigate geopolitical exposure.",
-                "Regional supply chains face severe container equipment deficits and emergency war risk surcharges reaching $1,800 per TEU. Global logistics coordinators must rapidly reroute regional cargo via overland GCC trucking corridors or secure bonded staging capacity in adjacent hub ports."
+                "Appellate court affirmations upholding a $604M nuclear negligence verdict against C.H. Robinson have dramatically escalated legal liability exposure for freight brokerages. The ruling establishes expanded vicarious liability precedents for broker carrier selection protocols following catastrophic commercial vehicle collisions.",
+                "Logistics intermediaries and 3PLs are tightening onboarding standards, eliminating marginal motor carriers and driving up commercial liability insurance premiums. Transportation procurement executives must enforce automated carrier safety vetting and real-time monitoring to insulate their operations from catastrophic joint-liability exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: EU TAX REFORM",
+            "nextUpTease": "DRIVER LICENSING: NON-DOMICILED RESTRICTIONS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-14T12:20:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T18:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR FREIGHT: EU TAX REFORM",
+            "heading": "DRIVER LICENSING: NON-DOMICILED RESTRICTIONS",
             "paragraphs": [
-                "European air freight spot volumes and cargo yields declined 8% month-over-month following the formal abolition of the European Union de minimis duty exemption for cross-border parcels. The fiscal overhaul eliminates duty-free clearance for packages under \u20ac150, triggering extensive customs declaration backlogs.",
-                "Cross-border ecommerce platforms and consolidated air express forwarders face sharp margin compressions alongside increased customs handling overhead. Shippers must integrate automated harmonized tariff classification software to clear European customs checkpoints without incurring costly terminal dwell fees."
+                "State licensing authorities in Rhode Island and Utah have enacted strict curbs on issuing non-domiciled commercial driver licenses to foreign nationals. Federal transportation data warns that coordinated state-level verification crackdowns could sideline over 200,000 commercial drivers from interstate freight operations.",
+                "Over-the-road motor carriers face an accelerating supply constraint on long-haul drivers, putting upward pressure on driver compensation and dedicated linehaul rates. Logistics dispatchers must audit carrier compliance files immediately to prevent operational capacity shocks on critical interstate lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET COMPLIANCE: ELD PURGE CONSTRAINTS",
+            "nextUpTease": "INLAND MARITIME: RHINE FLEET MODERNIZATION",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-14T11:50:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T17:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FLEET COMPLIANCE: ELD PURGE CONSTRAINTS",
+            "heading": "INLAND MARITIME: RHINE FLEET MODERNIZATION",
             "paragraphs": [
-                "Federal transportation safety authorities have accelerated enforcement actions to revoke non-compliant electronic logging devices, impacting an estimated 45,000 commercial motor carriers. Industry analysts project the nationwide compliance crackdown will remove thousands of unverified power units from active interstate commerce.",
-                "Shippers face shrinking spot capacity and rising contract tender rejection rates as motor carriers scramble to re-equip driver fleets with certified hardware. Transportation procurement leads should verify carrier fleet ELD compliance certifications immediately to safeguard freight movement against roadside enforcement shut-offs."
+                "German inland navigation operator HGK unveiled a $14.5B fleet modernization master plan to replace standard river tonnage with shallow-draft vessels across the Rhine. The capital strategy aims to safeguard European chemical and raw material supply chains against chronic low-water navigation halts caused by recurring droughts.",
+                "European industrial shippers face temporary vessel surcharges and fleet transition costs but gain long-term inland logistics reliability. Industrial supply managers must secure low-draft barge contracts early to prevent costly cargo shifts to already congested overland rail and road networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEFENSE SOURCING: CRITICAL MINERAL LOANS",
+            "nextUpTease": "PORT SECURITY: RECORD REEFER INTERDICTION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T18:30:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T16:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DEFENSE SOURCING: CRITICAL MINERAL LOANS",
+            "heading": "PORT SECURITY: RECORD REEFER INTERDICTION",
             "paragraphs": [
-                "The Department of Defense signed over $2B in conditional loan commitments to establish domestic commercial processing capacity for strategic batteries and critical minerals. The capital injection provides dedicated funding to domestic processing firms to accelerate industrial supply chain independence.",
-                "Advanced manufacturing networks gain insulated domestic raw material pipelines that reduce long-term exposure to foreign export restrictions and maritime bottlenecks. Procurement executives must align long-range component manufacturing plans with federally backed domestic refining partners to ensure uninterrupted production schedules."
+                "UK Border Force and National Crime Agency officers seized 2.9 metric tons of narcotics valued at $313M concealed inside a South American container shipment at London Gateway. The record interdiction targeted temperature-controlled reefer boxes used to smuggle contraband within legitimate perishable produce supply chains.",
+                "Container terminal operators and perishable importers face heightened customs hold rates, extended physical inspections, and potential demurrage surcharges on South American tradelanes. Cold-chain logistics managers must deploy tamper-proof smart container seals and end-to-end GPS tracking to expedite customs clearance and avoid terminal dwell penalties."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T11:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T15:17:00Z",
                 "Status: Audited & True"
             ]
         }
