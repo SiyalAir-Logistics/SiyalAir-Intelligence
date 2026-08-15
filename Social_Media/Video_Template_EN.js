@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL AUCTION SURGES TO $4.6M",
+        "hookTitle": "USTR EXPANDS FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CANAL OPERATIONS: RECORD TRANSIT AUCTION",
-                "teaserTitle": "CYBERSECURITY: FREIGHT NETWORK BREACH",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty gas carrier paid a record four point six million dollar auction fee to bypass Panama Canal queues. Soaring transit surcharges reflect escalating global vessel rerouting costs."
+                "narration_line": "The United States Trade Representative is advancing Section three oh one tariffs on sixty trading partners for forced labor violations. Importers face immediate double-digit duty increases and strict provenance audits."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: FREIGHT NETWORK BREACH",
-                "teaserTitle": "CARGO SECURITY: HIGH-TECH THEFT SURGE",
+                "headline": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
+                "teaserTitle": "DEFENSE LOGISTICS: BATTERY SUPPLY CONTRACTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A major security breach at Uber Freight exposed one million sensitive operational files across its brokerage network. Shippers face critical identity verification vulnerabilities as freight platforms rush to harden cyber defenses."
+                "narration_line": "Two commercial oil tankers were struck during outbound transits through the Strait of Hormuz. Marine underwriters have increased war risk insurance premiums as regional shipping volumes decline sixty-five percent."
             },
             {
                 "slide_index": 3,
-                "headline": "CARGO SECURITY: HIGH-TECH THEFT SURGE",
-                "teaserTitle": "CUSTOMS POLICY: DE MINIMIS ELIMINATION",
+                "headline": "DEFENSE LOGISTICS: BATTERY SUPPLY CONTRACTS",
+                "teaserTitle": "BORDER COMPLIANCE: CROSS-BORDER CONTRABAND",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Organized cargo theft rings have stolen nearly one hundred eleven million dollars in data center technology through staged highway collisions. Logistics security teams are deploying direct escort protocols to safeguard critical enterprise shipments."
+                "narration_line": "The Pentagon executed over two billion dollars in loan commitments to secure domestic battery and mineral supply chains. The initiative establishes dedicated sovereign raw material pipelines for critical defense manufacturing."
             },
             {
                 "slide_index": 4,
-                "headline": "CUSTOMS POLICY: DE MINIMIS ELIMINATION",
-                "teaserTitle": "MARITIME ROUTING: EXTENDED DARK TRANSITS",
+                "headline": "BORDER COMPLIANCE: CROSS-BORDER CONTRABAND",
+                "teaserTitle": "EXPORT CONTROLS: BAE DEFENSE PENALTIES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Air freight volumes and spot rates dropped sharply after the European Union eliminated its duty-free de minimis customs exemption. Cross-border ecommerce shippers must now restructure supply chains to absorb mandatory import compliance costs."
+                "narration_line": "Customs officials seized six point six million dollars in unmanifested vapes along northern border commercial lanes. Federal inspectors have instituted secondary screening protocols, increasing linehaul transit dwell times."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME ROUTING: EXTENDED DARK TRANSITS",
-                "teaserTitle": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
+                "headline": "EXPORT CONTROLS: BAE DEFENSE PENALTIES",
+                "teaserTitle": "FLEET CAPACITY: CDL RESTRICTIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Commercial oil tankers are increasingly disabling tracking transponders to navigate volatile Middle Eastern chokepoints undetected. Marine insurers and energy traders face severe compliance oversight risks amid opaque offshore cargo transfers."
+                "narration_line": "BAE Systems reached a thirty-six million dollar settlement over federal arms export regulation breaches. The State Department suspended eighteen million dollars of the fine pending verified internal compliance upgrades."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
-                "teaserTitle": "INTERMODAL INFRASTRUCTURE: SAUDI LANDBRIDGE",
+                "headline": "FLEET CAPACITY: CDL RESTRICTIONS",
+                "teaserTitle": "PORT OPERATIONS: BUENAVENTURA DIVERSIONS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "DHL Express invested over two hundred million dollars to triple its air cargo handling capacity at Shenzhen. Freight forwarders gain dedicated Asian export infrastructure to mitigate transpacific air freight capacity bottlenecks."
+                "narration_line": "States are tightening operating rules on non-domiciled commercial driver licenses across national corridors. Industry analysts warn the policy shifts could remove over two hundred thousand drivers from freight networks."
             },
             {
                 "slide_index": 7,
-                "headline": "INTERMODAL INFRASTRUCTURE: SAUDI LANDBRIDGE",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "PORT OPERATIONS: BUENAVENTURA DIVERSIONS",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mediterranean Shipping Company launched a new intermodal rail service connecting Saudi dry ports to regional ocean hubs. Global shippers are adopting inland desert corridors to circumvent persistent maritime chokepoint vulnerabilities."
+                "narration_line": "CMA CGM is initiating emergency container ship diversions away from severe port congestion in Buenaventura. Shippers face transit delays exceeding twelve days alongside secondary Pacific feeder surcharges."
             },
             {
                 "slide_index": 8,

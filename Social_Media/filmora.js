@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CANAL OPERATIONS: RECORD TRANSIT AUCTION",
-                "teaserTitle": "CYBERSECURITY: FREIGHT NETWORK BREACH",
-                "visual_caption": "An empty gas carrier paid a record $4.6M auction fee to bypass Panama Canal queues. Soaring transit surcharges reflect escalating global vessel rerouting costs."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
+                "visual_caption": "The USTR is enforcing Section 301 tariffs across 60 trading partners over forced-labor violations. Importers face immediate double-digit duty hikes and mandatory supply chain provenance audits."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: FREIGHT NETWORK BREACH",
-                "teaserTitle": "CARGO SECURITY: HIGH-TECH THEFT SURGE",
-                "visual_caption": "A major security breach at Uber Freight exposed 1M sensitive operational files across its brokerage network. Shippers face critical identity verification vulnerabilities as freight platforms rush to harden cyber defenses."
+                "headline": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
+                "teaserTitle": "DEFENSE LOGISTICS: BATTERY SUPPLY CONTRACTS",
+                "visual_caption": "Two tankers sustained strikes during outbound transits through the Strait of Hormuz. Marine underwriters raised war risk premiums as regional container volumes fell 65%."
             },
             {
                 "slide_index": 3,
-                "headline": "CARGO SECURITY: HIGH-TECH THEFT SURGE",
-                "teaserTitle": "CUSTOMS POLICY: DE MINIMIS ELIMINATION",
-                "visual_caption": "Organized cargo theft rings have stolen nearly $111M in data center technology through staged highway collisions. Logistics security teams are deploying direct escort protocols to safeguard critical enterprise shipments."
+                "headline": "DEFENSE LOGISTICS: BATTERY SUPPLY CONTRACTS",
+                "teaserTitle": "BORDER COMPLIANCE: CROSS-BORDER CONTRABAND",
+                "visual_caption": "The Pentagon awarded over $2B in loans to secure domestic battery and mineral supply chains. The move locks down sovereign material capacity for high-tech manufacturing."
             },
             {
                 "slide_index": 4,
-                "headline": "CUSTOMS POLICY: DE MINIMIS ELIMINATION",
-                "teaserTitle": "MARITIME ROUTING: EXTENDED DARK TRANSITS",
-                "visual_caption": "Air freight volumes and spot rates dropped sharply after the EU eliminated its duty-free de minimis customs exemption. Cross-border ecommerce shippers must now restructure supply chains to absorb mandatory import compliance costs."
+                "headline": "BORDER COMPLIANCE: CROSS-BORDER CONTRABAND",
+                "teaserTitle": "EXPORT CONTROLS: BAE DEFENSE PENALTIES",
+                "visual_caption": "Border agents seized $6.6M in contraband vapes from commercial trucks in a 4-day crackdown. Authorities implemented secondary physical inspections, escalating border crossing dwell times."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME ROUTING: EXTENDED DARK TRANSITS",
-                "teaserTitle": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
-                "visual_caption": "Commercial oil tankers are increasingly disabling tracking transponders to navigate volatile Middle Eastern chokepoints undetected. Marine insurers and energy traders face severe compliance oversight risks amid opaque offshore cargo transfers."
+                "headline": "EXPORT CONTROLS: BAE DEFENSE PENALTIES",
+                "teaserTitle": "FLEET CAPACITY: CDL RESTRICTIONS",
+                "visual_caption": "BAE Systems agreed to a $36M settlement over export control violations under ITAR. Regulators suspended $18M of the penalty pending internal compliance overhauls."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
-                "teaserTitle": "INTERMODAL INFRASTRUCTURE: SAUDI LANDBRIDGE",
-                "visual_caption": "DHL Express invested over $204M to triple its air cargo handling capacity at Shenzhen. Freight forwarders gain dedicated Asian export infrastructure to mitigate transpacific air freight capacity bottlenecks."
+                "headline": "FLEET CAPACITY: CDL RESTRICTIONS",
+                "teaserTitle": "PORT OPERATIONS: BUENAVENTURA DIVERSIONS",
+                "visual_caption": "State regulators tightened limits on non-domiciled CDL credentials across long-haul networks. Analysts project the rules could sideline over 200K drivers from commercial fleets."
             },
             {
                 "slide_index": 7,
-                "headline": "INTERMODAL INFRASTRUCTURE: SAUDI LANDBRIDGE",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "MSC launched a new intermodal rail service connecting Saudi dry ports to regional ocean hubs. Global shippers are adopting inland desert corridors to circumvent persistent maritime chokepoint vulnerabilities."
+                "headline": "PORT OPERATIONS: BUENAVENTURA DIVERSIONS",
+                "teaserTitle": "FINAL SLIDE",
+                "visual_caption": "CMA CGM implemented emergency container diversions away from chronic congestion at Buenaventura. Shippers encounter lead-time delays exceeding 12 days and Pacific feeder surcharges."
             },
             {
                 "slide_index": 8,
