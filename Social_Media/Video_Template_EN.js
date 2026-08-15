@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE",
+        "hookTitle": "FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL AUCTION",
-                "teaserTitle": "ENERGY TRANSIT: STRAIT OF HORMUZ ATTACKS",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME: STRAIT OF HORMUZ ATTACKS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker paid four point six million dollars to jump the Panama Canal queue. Regional traffic diversions have sharply restricted daily neo-panamax reservation availability."
+                "narration_line": "The United States Trade Representative advanced new forced labor tariffs across sixty trading nations under section three hundred and one. Procurement divisions must overhaul international sourcing compliance to mitigate severe customs penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "ENERGY TRANSIT: STRAIT OF HORMUZ ATTACKS",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "headline": "MARITIME: STRAIT OF HORMUZ ATTACKS",
+                "teaserTitle": "TRADE POLICY: EXPANDED DRONE TARIFFS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Recent drone attacks targeted two commercial crude oil tankers in the Strait of Hormuz. Container traffic throughput across adjacent Persian Gulf ports has declined significantly."
+                "narration_line": "Two additional crude oil tankers were attacked during outbound transits through the Strait of Hormuz. Energy shippers are facing soaring war risk insurance premiums and mandatory route diversions."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "teaserTitle": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
+                "headline": "TRADE POLICY: EXPANDED DRONE TARIFFS",
+                "teaserTitle": "AIR CARGO: DE MINIMIS CRACKDOWN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Uber Freight is investigating a major data breach exposing nearly one million carrier compliance files. The security incident stems from social engineering targeting broker portal interfaces."
+                "narration_line": "The federal administration implemented one hundred percent import duties on foreign drone components. Importers must absorb steep duty assessments or rapidly redesign multi-tier bills of materials."
             },
             {
                 "slide_index": 4,
-                "headline": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
-                "teaserTitle": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
+                "headline": "AIR CARGO: DE MINIMIS CRACKDOWN",
+                "teaserTitle": "TRUCKING: NON-DOMICILED CDL LIMITS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Theft syndicates have stolen nearly one hundred eleven million dollars in artificial intelligence server freight. Organized networks are exploiting compromised driver credentials across transit corridors."
+                "narration_line": "Intensified customs enforcement on low-value ecommerce shipments has begun reversing airfreight demand. Digital retail platforms must restructure inventory staging networks to manage clearance delays."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
-                "teaserTitle": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
+                "headline": "TRUCKING: NON-DOMICILED CDL LIMITS",
+                "teaserTitle": "SECURITY: $313M COCAINE BUST",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Union Pacific enacted emergency peak-season surcharges of one thousand dollars per container. The pricing action aims to ration locomotive capacity amid surging import volumes."
+                "narration_line": "State transportation agencies enacted strict new limits on non-domiciled commercial driver licenses. These regulatory changes threaten to sideline more than two hundred thousand foreign truck drivers nationwide."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
-                "teaserTitle": "TRADE POLICY: EXPANDED TARIFF ACTIONS",
+                "headline": "SECURITY: $313M COCAINE BUST",
+                "teaserTitle": "FREIGHT RATES: CONTRACT SPIKE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Multiple states have restricted non-domiciled commercial driver license renewals and issuance. Tighter rules threaten to sideline more than two hundred thousand foreign drivers nationwide."
+                "narration_line": "British law enforcement intercepted a three hundred and thirteen million dollar cocaine shipment hidden inside bananas. Supply chain directors must mandate advanced cargo screening across high-risk trade lanes."
             },
             {
                 "slide_index": 7,
-                "headline": "TRADE POLICY: EXPANDED TARIFF ACTIONS",
+                "headline": "FREIGHT RATES: CONTRACT SPIKE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Federal authorities implemented one hundred percent tariff levies on specific foreign drone components. Importers face immediate sourcing bottlenecks and surging component acquisition costs."
+                "narration_line": "Persistent maritime disruptions are driving steep freight rate increases into multi-year shipper contracts. Procurement managers must deploy agile benchmarking tools to protect operating margins."
             },
             {
                 "slide_index": 8,

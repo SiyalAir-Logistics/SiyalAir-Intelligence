@@ -1,35 +1,35 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP",
-        "titleBlue": "FEE",
-        "footerSummary": "Panama Canal queue fees hit a record $4.6M while Middle East tanker attacks drive up global energy transit surcharges."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR enforces forced labor tariffs on 60 nations while Strait of Hormuz tanker attacks force multi-million-dollar detours."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL AUCTION",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker secured an expedited transit slot to bypass severe waterway congestion by paying an all-time high auction fee of $4.6 million. Heightened maritime traffic diversions driven by escalating geopolitical conflicts in the Middle East have sharply constrained daily neo-panamax reservation availability across the corridor.",
-                "Vessel charterers and ocean freight operators face a severe economic dilemma between paying multi-million-dollar canal auction premiums or absorbing up to 14 additional sailing days via alternate routes. Cargo owners must adjust inventory buffer levels and recalibrate voyage fuel calculations against soaring transit surcharges."
+                "The Office of the United States Trade Representative officially advanced new tariffs targeting sixty trading nations under Section 301 of the Trade Act. This regulatory expansion coincides with the expiration of older Section 122 duties, forcing multinational procurement divisions to overhaul their international sourcing compliance matrices.",
+                "Importers handling multi-tier bills of materials face immediate financial exposure and aggressive customs audits unless origin transparency is verified. Global supply chain directors must engage trade legal counsel immediately to evaluate tariff exclusion pathways and secure compliant component inventories."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY TRANSIT: STRAIT OF HORMUZ ATTACKS",
+            "nextUpTease": "MARITIME: STRAIT OF HORMUZ ATTACKS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ENERGY TRANSIT: STRAIT OF HORMUZ ATTACKS",
+            "heading": "MARITIME: STRAIT OF HORMUZ ATTACKS",
             "paragraphs": [
-                "Maritime security monitors confirmed kinetic drone and projectile attacks targeting commercial crude oil tankers executing outbound transits through the Strait of Hormuz. Regional port authorities reported that container traffic throughput across adjacent Persian Gulf hubs has declined significantly as operators suspend scheduled sailings.",
+                "Military authorities and maritime monitors confirmed that two additional commercial crude oil tankers were struck during overnight transits through the Strait of Hormuz. These persistent regional disruptions have prompted energy shippers to execute dark transits and reroute vessels entirely around volatile Middle Eastern chokepoints.",
                 "Global energy and chemical supply chains face immediate spikes in maritime war-risk insurance premiums alongside escalating carrier emergency conflict surcharges. Shippers must anticipate wider container equipment imbalances and activate secondary overland transit corridors to bypass volatile maritime chokepoints."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: UBER FREIGHT BREACH",
+            "nextUpTease": "TRADE POLICY: EXPANDED DRONE TARIFFS",
             "tags": [
                 "Source: https://maritime-executive.com",
                 "Published: 2026-08-14T19:04:00Z",
@@ -38,58 +38,43 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "CYBERSECURITY: UBER FREIGHT BREACH",
+            "heading": "TRADE POLICY: EXPANDED DRONE TARIFFS",
             "paragraphs": [
-                "Uber Freight confirmed an active investigation into a major enterprise data security breach after threat actors accessed nearly 1 million proprietary logistics and carrier compliance files. The compromised data stems from social engineering exploitation targeting identity verification interfaces across third-party carrier broker portals.",
-                "Logistics networks face heightened risks of double-brokering scams, carrier impersonation, and fraudulent load redirection across regional freight markets. Corporate compliance teams must mandate immediate API credential rotations and institute stringent multi-factor verification across all freight execution touchpoints."
+                "The federal administration implemented sweeping 100 percent import duties targeting specific foreign-made drone hardware and critical technology infrastructure components. Sourcing divisions across the robotics and industrial automation sectors are grappling with sudden cost spikes as domestic manufacturing alternatives remain scarce.",
+                "Importers of technology hardware and industrial automation systems must absorb prohibitive duty assessments or rapidly redesign multi-tier bills of materials. Strategic sourcing teams should engage trade legal counsel immediately to evaluate tariff exclusion pathways and secure compliant component inventories."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
+            "nextUpTease": "AIR CARGO: DE MINIMIS CRACKDOWN",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
+            "heading": "AIR CARGO: DE MINIMIS CRACKDOWN",
             "paragraphs": [
-                "Federal freight security task forces reported that sophisticated theft syndicates have stolen nearly $111 million in artificial intelligence server components and data center freight using covert staging tactics. Organized networks are exploiting compromised driver credentials and fraudulent roadside breakdowns to divert high-value electronics shipments in transit.",
-                "High-tech equipment manufacturers and specialized logistics providers are incurring severe replacement asset costs and escalating commercial liability insurance deductibles. Supply chain directors must mandate continuous covert asset tracking, dedicated escort services, and non-stop dual-driver transit protocols on high-value lanes."
+                "Intensified customs enforcement targeting low-value cross-border ecommerce shipments has begun reversing airfreight demand across major transpacific inbound corridors. Regulatory scrutiny over duty-free exemptions is forcing digital retail platforms to restructure direct-to-consumer logistics and inventory staging networks.",
+                "Global air cargo carriers and specialized logistics providers are experiencing softening spot rates and compressed yields across key international trade lanes. Supply chain executives must recalibrate inventory deployment strategies to account for longer customs clearance dwell times and heightened regulatory friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
+            "nextUpTease": "TRUCKING: NON-DOMICILED CDL LIMITS",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
+            "heading": "TRUCKING: NON-DOMICILED CDL LIMITS",
             "paragraphs": [
-                "Union Pacific implemented emergency peak-season intermodal surcharges of $1,000 per container on excess contract freight originating from Southern California rail terminals. The aggressive pricing mechanism aims to ration constrained locomotive capacity and balance chassis inventory against an unexpected surge in summer import container volumes.",
-                "Intermodal shippers face immediate transportation budget overruns as cross-country rail rates surge above prevailing truckload spot rates. Freight procurement leaders must evaluate routing flexibility, shifting volume toward targeted over-the-road dedicated fleets or secondary inland dry port consolidation hubs."
+                "State transportation agencies in Rhode Island and Utah have enacted strict limitations on the issuance and renewal of non-domiciled commercial driver licenses. Federal motor carrier projections indicate that expanding interstate restrictions could sideline more than 200,000 foreign truck drivers nationwide.",
+                "Long-haul motor carriers and cross-border third-party logistics networks face sudden structural driver shortages and upward pressure on dedicated fleet compensation packages. Logistics strategists must restructure regional driver recruiting programs and audit carrier safety qualification files to prevent operational service failures."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
-            "paragraphs": [
-                "Transportation authorities in Rhode Island and Utah joined an expanding interstate coalition restricting the issuance and renewal of non-domiciled commercial driver licenses. Federal transportation projections indicate that tightening state licensing restrictions could sideline more than 200,000 foreign commercial truck drivers nationwide.",
-                "Long-haul motor carriers and cross-border 3PL networks face sudden structural driver shortages and upward pressure on dedicated fleet compensation packages. Logistics strategists must restructure regional driver recruiting programs and audit carrier safety qualification files to prevent operational service failures."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: EXPANDED TARIFF ACTIONS",
+            "nextUpTease": "SECURITY: $313M COCAINE BUST",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-13T00:00:00Z",
@@ -97,16 +82,31 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "TRADE POLICY: EXPANDED TARIFF ACTIONS",
+            "id": 6,
+            "heading": "SECURITY: $313M COCAINE BUST",
             "paragraphs": [
-                "The federal administration announced aggressive new tariff actions imposing 100% duties on specific foreign-made drone components and technology infrastructure imports. Supply chain procurement units face immediate sourcing disruptions as alternative domestic and allied manufacturing capacity remains severely restricted.",
-                "Importers of technology hardware and industrial automation systems must absorb prohibitive duty assessments or rapidly redesign multi-tier bills of materials. Strategic sourcing teams should engage trade legal counsel immediately to evaluate tariff exclusion pathways and secure compliant component inventories."
+                "British law enforcement authorities intercepted a massive 2.9 metric ton consignment of cocaine hidden inside a commercial container load of bananas at London Gateway. The illicit shipment, valued at approximately $313 million, highlights ongoing vulnerabilities within perishable supply chain import channels.",
+                "Global ocean carriers and terminal operators face heightened security inspections, extended port dwell times, and potential liability risks associated with container tampering. Supply chain directors must mandate advanced cargo screening and enforce strict seal integrity protocols across high-risk trade lanes."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FREIGHT RATES: CONTRACT SPIKE",
+            "tags": [
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T3:17:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "FREIGHT RATES: CONTRACT SPIKE",
+            "paragraphs": [
+                "Persistent maritime trade disruptions and capacity tightening have driven ocean freight rate increases outward from the spot market directly into multi-year shipper contracts. Procurement teams are encountering aggressive carrier pricing demands as annual service agreement negotiations face severe upward pressure.",
+                "Beneficial cargo owners are experiencing significant transportation budget inflation across both transpacific and asia-europe maritime trade corridors. Logistics procurement managers must diversify modal options and deploy agile rate benchmarking tools to protect operating margins against rising baseline costs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL AUCTION",
-                "teaserTitle": "ENERGY TRANSIT: STRAIT OF HORMUZ ATTACKS",
-                "visual_caption": "An empty tanker paid a record $4.6M fee to jump the Panama Canal queue. Regional traffic diversions have sharply restricted daily neo-panamax slot availability."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME: STRAIT OF HORMUZ ATTACKS",
+                "visual_caption": "USTR advanced forced labor tariffs across 60 trading nations under Section 301. Procurement divisions must overhaul compliance matrices to mitigate severe customs penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "ENERGY TRANSIT: STRAIT OF HORMUZ ATTACKS",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "visual_caption": "Recent drone attacks targeted 2 commercial crude oil tankers in the Strait of Hormuz. Container traffic throughput across adjacent Persian Gulf ports has declined significantly."
+                "headline": "MARITIME: STRAIT OF HORMUZ ATTACKS",
+                "teaserTitle": "TRADE POLICY: EXPANDED DRONE TARIFFS",
+                "visual_caption": "2 commercial crude oil tankers were attacked during transits through the Strait of Hormuz. Energy shippers face soaring war-risk insurance premiums and mandatory route diversions."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "teaserTitle": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
-                "visual_caption": "Uber Freight is investigating a major data breach exposing nearly 1M carrier compliance files. The security incident stems from social engineering targeting broker portal interfaces."
+                "headline": "TRADE POLICY: EXPANDED DRONE TARIFFS",
+                "teaserTitle": "AIR CARGO: DE MINIMIS CRACKDOWN",
+                "visual_caption": "The federal administration implemented 100% import duties on foreign drone hardware components. Importers must absorb steep duty assessments or redesign bills of materials."
             },
             {
                 "slide_index": 4,
-                "headline": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
-                "teaserTitle": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
-                "visual_caption": "Theft syndicates have stolen nearly $111M in artificial intelligence server freight. Organized networks are exploiting compromised driver credentials across transit corridors."
+                "headline": "AIR CARGO: DE MINIMIS CRACKDOWN",
+                "teaserTitle": "TRUCKING: NON-DOMICILED CDL LIMITS",
+                "visual_caption": "Intensified customs enforcement on low-value ecommerce shipments has reversed airfreight demand. Retail platforms must restructure inventory staging networks to manage delays."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
-                "teaserTitle": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
-                "visual_caption": "Union Pacific enacted emergency peak-season surcharges of $1,000 per container. The pricing action aims to ration locomotive capacity amid surging import volumes."
+                "headline": "TRUCKING: NON-DOMICILED CDL LIMITS",
+                "teaserTitle": "SECURITY: $313M COCAINE BUST",
+                "visual_caption": "State transportation agencies enacted strict limits on non-domiciled commercial driver licenses. These regulatory restrictions threaten to sideline over 200K truck drivers."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
-                "teaserTitle": "TRADE POLICY: EXPANDED TARIFF ACTIONS",
-                "visual_caption": "Multiple states have restricted non-domiciled commercial driver license renewals and issuance. Tighter rules threaten to sideline over 200K foreign drivers nationwide."
+                "headline": "SECURITY: $313M COCAINE BUST",
+                "teaserTitle": "FREIGHT RATES: CONTRACT SPIKE",
+                "visual_caption": "UK authorities intercepted a $313M cocaine shipment hidden inside a commercial banana cargo. Supply chain directors must mandate advanced cargo screening across all trade lanes."
             },
             {
                 "slide_index": 7,
-                "headline": "TRADE POLICY: EXPANDED TARIFF ACTIONS",
+                "headline": "FREIGHT RATES: CONTRACT SPIKE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Federal authorities implemented 100% tariff levies on specific foreign drone components. Importers face immediate sourcing bottlenecks and surging component acquisition costs."
+                "visual_caption": "Persistent maritime disruptions are driving freight rate increases directly into shipper contracts. Procurement managers must deploy agile benchmarking tools to protect operating margins."
             },
             {
                 "slide_index": 8,
