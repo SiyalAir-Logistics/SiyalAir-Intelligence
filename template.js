@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR enforces sweeping Section 301 tariffs across 60 trading nations as compliance pressures escalate global logistics costs."
+        "titleWhite": "SHIPPING DISRUPTION SPREADS TO",
+        "titleBlue": "CONTRACTS",
+        "footerSummary": "Spillover from spot market volatility drives ocean carriers to lock in higher contract rates across major global trade lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "OCEAN FREIGHT: RATE INCREASE SPREAD",
             "paragraphs": [
-                "The Office of the United States Trade Representative officially advanced Section 301 tariffs targeting 60 trading partners linked to forced labor practices. The sweeping regulatory action coincides with the formal expiration of Section 122 tariffs, fundamentally resetting the baseline for import compliance.",
-                "Global supply chain managers must immediately audit tier-one and tier-two vendor networks to mitigate severe customs delays and financial penalties. Shippers face compressed profit margins as landed-cost models absorb the newly instated trade barriers."
+                "Persistent shipping disruptions are fueling an aggressive rate increase cycle that is rapidly expanding from volatile spot markets into long-term customer contracts. Transpacific rates continue an upward trajectory, while cargo shipping costs into European ports experience even steeper upward momentum.",
+                "Enterprise shippers face escalating baseline freight expenses as carriers leverage market instability to secure extended premium commitments. Logistics procurers must re-evaluate network cost models to absorb sustained rate hikes across core international maritime corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "STRAIT OF HORMUZ: TANKER ATTACK SURGE",
+            "nextUpTease": "AIR CARGO: ECOMMERCE CRACKDOWN",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T08:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "STRAIT OF HORMUZ: TANKER ATTACK SURGE",
+            "heading": "AIR CARGO: ECOMMERCE CRACKDOWN",
             "paragraphs": [
-                "Two commercial oil tankers sustained direct strikes during overnight transits through the Strait of Hormuz, according to UKMTO and regional authorities. The escalatory military actions compound ongoing navigation disruptions that have already slashed regional container and crude throughput by 65%.",
-                "Energy charterers and maritime operators are being forced to deploy extended alternative routes, driving up daily charter rates and bunker fuel consumption. Shippers moving goods through Middle Eastern corridors must price in substantial risk premiums and transit delays."
+                "Tougher customs enforcement and regulatory scrutiny targeting low-value airfreight shipments are threatening to reverse recent ecommerce volume gains across international hubs. Stricter handling of direct-to-consumer parcels creates severe administrative backlogs and processing friction for global carriers.",
+                "Retail importers face unexpected duty assessments and compliance delays that undermine low-margin cross-border sales models. Supply chain executives must integrate automated documentation workflows to maintain velocity through heavily regulated air gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
+            "nextUpTease": "TRUCKING COMPLIANCE: ELD PURGE",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T19:04:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: PEAK SEASON SLUMP",
+            "heading": "TRUCKING COMPLIANCE: ELD PURGE",
             "paragraphs": [
-                "Global air cargo spot rates plunged 6% month over month as early peak season demand failed to materialize across major trade lanes. Xeneta reporting highlights an uncharacteristic softening in air freight activity as stricter customs enforcement dampens low-value ecommerce volumes.",
-                "Logistics providers are experiencing downward pricing pressure, shifting market leverage directly into the hands of enterprise shippers. Air freight procurers should leverage current spot rate volatility to secure favorable short-term capacity agreements ahead of Q4."
+                "Federal regulatory enforcement targeting noncompliant electronic logging devices is accelerating a broad capacity purge across domestic over-the-road freight networks. Industry leaders project that stringent compliance verification checks will sideline thousands of noncompliant operators.",
+                "Dry van and reefer contract rates are hitting historic highs as available linehaul capacity contracts across primary North American transit lanes. Shippers must abandon volatile spot-market reliance and secure dedicated carrier partnerships to protect service levels."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: RECORD QUEUE BID",
+            "nextUpTease": "GLOBAL TRADE: TARIFF EVASION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PANAMA CANAL: RECORD QUEUE BID",
+            "heading": "GLOBAL TRADE: TARIFF EVASION",
             "paragraphs": [
-                "An empty liquefied petroleum gas carrier paid an unprecedented $4.6 million queue-jump fee to secure immediate transit through the Panama Canal. The transaction shatters previous auction records as vessel operators scramble to bypass mounting draft restrictions and water level deficits.",
-                "Energy charterers and container lines are absorbing extreme financial premiums to maintain tight delivery schedules across the waterway. Logistics planners must evaluate escalating toll bids against the rising operational costs of alternative long-distance routing."
+                "A comprehensive White House report reveals that dozens of foreign countries have actively assisted in evading U.S. tariffs through illicit transshipment schemes. Illegal routing operations frequently utilize false country-of-origin claims, relabeling, repackaging, and minor processing to bypass trade penalties.",
+                "Customs compliance officers are increasing inspections on complex multinational supply chains, raising the risk of severe financial penalties and cargo seizures. Importers must execute rigorous vendor audits to ensure absolute transparency regarding the origin of inbound materials."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEFENSE CAPITAL: CRITICAL MINERALS",
+            "nextUpTease": "CYBERSECURITY: FREIGHT VULNERABILITY",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T11:30:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "DEFENSE CAPITAL: CRITICAL MINERALS",
+            "heading": "CYBERSECURITY: FREIGHT VULNERABILITY",
             "paragraphs": [
-                "The Department of Defense executed over $2 billion in conditional loan commitments through the Office of Strategic Capital to secure domestic battery and mineral supply chains. Companies including Sila Technologies and Sunrise Energy Metals received capital to accelerate domestic refining capabilities.",
-                "Industrial manufacturers and automotive supply chain leads must realign procurement strategies to satisfy stringent domestic content requirements. The regionalization of mineral processing will permanently alter inbound freight flows and heavy haul transportation demand."
+                "A major security breach at Uber Freight exposed millions of sensitive digital files, highlighting critical identity management vulnerabilities across logistics networks. The incident underscores how interconnected digital transportation platforms remain exposed to sophisticated cyber threats.",
+                "Supply chain organizations must immediately harden IT security infrastructure and verify third-party vendor access controls to prevent catastrophic data compromises. Protecting enterprise communication channels is vital to maintaining operational continuity and client trust."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKLOAD MARKETS: CAPACITY TIGHTENING",
+            "nextUpTease": "RETAIL IMPORTS: PEAK VOLUME",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T12:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRUCKLOAD MARKETS: CAPACITY TIGHTENING",
+            "heading": "RETAIL IMPORTS: PEAK VOLUME",
             "paragraphs": [
-                "Federal enforcement targeting noncompliant electronic logging devices is accelerating a broad capacity purge across domestic over-the-road networks. Werner Enterprises and industry analysts project that stricter compliance checks will sideline thousands of noncompliant operators.",
-                "Dry van and reefer contract rates are hitting historic highs as available linehaul capacity contracts across primary North American freight lanes. Shippers must abandon volatile spot-market reliance and lock in long-term dedicated carrier partnerships to protect service levels."
+                "National Retail Federation data projects that import volumes at major U.S. ports have officially peaked as businesses aggressively build up inventory. Retailers accelerated shipments to outpace anticipated tariff increases and secure holiday merchandise ahead of schedule.",
+                "Port terminals and intermodal yards face localized congestion as high container volumes strain baseline handling infrastructure. Shippers must optimize drayage coordination to avoid extended demurrage fees and equipment shortages."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
+            "nextUpTease": "ENERGY INFRASTRUCTURE: TURBINE DEMAND",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T16:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
+            "heading": "ENERGY INFRASTRUCTURE: TURBINE DEMAND",
             "paragraphs": [
-                "Global customs agencies have initiated aggressive enforcement actions targeting low-value cross-border ecommerce parcels to curb regulatory evasion. The heightened scrutiny on direct-to-consumer shipments is creating severe processing backlogs at major international air hubs.",
-                "Retail importers face skyrocketing administrative friction and unexpected duty assessments that threaten low-margin direct sales models. Supply chain executives must restructure digital import workflows and integrate automated customs documentation platforms to maintain velocity."
+                "Original equipment manufacturers are navigating conflicting market forces driven by surging global energy demand alongside regulatory disruptions impacting U.S. wind projects. Turbine makers are securing a second wind as infrastructure funding aligns with new capacity requirements.",
+                "Industrial supply chains must manage extended lead times for specialized heavy components required for large-scale energy developments. Project cargo logisticians need to establish resilient transport frameworks to handle oversized shipments safely."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.theloadstar.com",
-                "Published: 2026-08-14T14:15:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

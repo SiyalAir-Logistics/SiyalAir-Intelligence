@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "STRAIT OF HORMUZ: TANKER ATTACK SURGE",
-                "visual_caption": "USTR enforces Section 301 tariffs across 60 trading nations. Importers face severe cost pressures as new compliance standards take effect."
+                "headline": "OCEAN FREIGHT: RATE INCREASE SPREAD",
+                "teaserTitle": "AIR CARGO: ECOMMERCE CRACKDOWN",
+                "visual_caption": "Persistent shipping disruptions are driving an aggressive rate increase cycle from spot markets into long-term contracts. Transpacific and European shipping costs continue an upward trajectory across major trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "STRAIT OF HORMUZ: TANKER ATTACK SURGE",
-                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
-                "visual_caption": "Two tankers were attacked during transits through the Strait of Hormuz. Regional container throughput plunges by 65% amid military threats."
+                "headline": "AIR CARGO: ECOMMERCE CRACKDOWN",
+                "teaserTitle": "TRUCKING COMPLIANCE: ELD PURGE",
+                "visual_caption": "Tougher customs enforcement targeting low-value airfreight shipments is threatening ecommerce volume gains. Stricter handling creates severe administrative backlogs and processing friction for global carriers."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: PEAK SEASON SLUMP",
-                "teaserTitle": "PANAMA CANAL: RECORD QUEUE BID",
-                "visual_caption": "Global air cargo spot rates fell 6% month over month as peak demand softens. Shippers secure favorable short-term capacity agreements."
+                "headline": "TRUCKING COMPLIANCE: ELD PURGE",
+                "teaserTitle": "GLOBAL TRADE: TARIFF EVASION",
+                "visual_caption": "Federal regulatory enforcement targeting electronic logging devices is accelerating a capacity purge across domestic networks. Dry van contract rates hit historic highs as linehaul capacity tightens significantly."
             },
             {
                 "slide_index": 4,
-                "headline": "PANAMA CANAL: RECORD QUEUE BID",
-                "teaserTitle": "DEFENSE CAPITAL: CRITICAL MINERALS",
-                "visual_caption": "An empty gas carrier paid a record $4.6M fee for canal priority. Waterway transit bottlenecks force extreme financial bidding wars."
+                "headline": "GLOBAL TRADE: TARIFF EVASION",
+                "teaserTitle": "CYBERSECURITY: FREIGHT VULNERABILITY",
+                "visual_caption": "A White House report reveals that dozens of foreign countries helped evade tariffs through illicit transshipment schemes. Customs officers are increasing inspections on complex multinational supply chains."
             },
             {
                 "slide_index": 5,
-                "headline": "DEFENSE CAPITAL: CRITICAL MINERALS",
-                "teaserTitle": "TRUCKLOAD MARKETS: CAPACITY TIGHTENING",
-                "visual_caption": "The Pentagon commits over $2B to secure domestic battery supply chains. Industrial manufacturers must realign procurement to meet domestic rules."
+                "headline": "CYBERSECURITY: FREIGHT VULNERABILITY",
+                "teaserTitle": "RETAIL IMPORTS: PEAK VOLUME",
+                "visual_caption": "A major security breach at Uber Freight exposed millions of sensitive digital logistics files. Supply chain organizations must immediately harden IT infrastructure to prevent cyber compromises."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKLOAD MARKETS: CAPACITY TIGHTENING",
-                "teaserTitle": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
-                "visual_caption": "Federal enforcement on ELDs accelerates an over-the-road capacity squeeze. Dry van and reefer contract rates hit record highs nationwide."
+                "headline": "RETAIL IMPORTS: PEAK VOLUME",
+                "teaserTitle": "ENERGY INFRASTRUCTURE: TURBINE DEMAND",
+                "visual_caption": "National Retail Federation data projects that import volumes at major U.S. ports have officially peaked. Retailers accelerated shipments to outpace anticipated tariff increases ahead of schedule."
             },
             {
                 "slide_index": 7,
-                "headline": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
+                "headline": "ENERGY INFRASTRUCTURE: TURBINE DEMAND",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Stricter customs enforcement on low-value parcels creates major port delays. Retail importers face rising administrative friction and duty assessments."
+                "visual_caption": "Original equipment manufacturers are navigating conflicting market forces driven by surging global energy demand. Turbine makers secure a second wind as infrastructure funding aligns with new requirements."
             },
             {
                 "slide_index": 8,
