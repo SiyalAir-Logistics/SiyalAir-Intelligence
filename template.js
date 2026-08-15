@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "RECORD AUCTION",
-        "titleBlue": "PREMIUM",
-        "footerSummary": "Panama Canal queue-jump fees hit a record $4.6M as transit disruptions force shippers into severe bidding wars for priority vessel slots."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR enforces sweeping Section 301 tariffs across 60 trading nations as compliance pressures escalate global logistics costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PANAMA CANAL: RECORD AUCTION PREMIUM",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker paid an unprecedented $4.6M queue-jump fee to secure immediate transit through the Panama Canal. The payment marks the highest publicly recorded auction bid in canal history, surpassing the prior high of $3.975M.",
-                "Ocean carriers and energy charterers are absorbing extreme financial premiums to avoid extended voyages around volatile chokepoints. Freight procurers must evaluate escalating waterway toll structures against rising bunker fuel expenses on extended alternative routes."
+                "The Office of the United States Trade Representative officially advanced Section 301 tariffs targeting 60 trading partners linked to forced labor practices. The sweeping regulatory action coincides with the formal expiration of Section 122 tariffs, fundamentally resetting the baseline for import compliance.",
+                "Global supply chain managers must immediately audit tier-one and tier-two vendor networks to mitigate severe customs delays and financial penalties. Shippers face compressed profit margins as landed-cost models absorb the newly instated trade barriers."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS COMPLIANCE: DE MINIMIS ABOLITION",
+            "nextUpTease": "STRAIT OF HORMUZ: TANKER ATTACK SURGE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T14:30:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CUSTOMS COMPLIANCE: DE MINIMIS ABOLITION",
+            "heading": "STRAIT OF HORMUZ: TANKER ATTACK SURGE",
             "paragraphs": [
-                "A federal trade court officially upheld the regulatory elimination of the US de minimis customs duty exemption for low-value commercial imports. The ruling mandates formal entry documentation and tariff collection on millions of previously exempt direct-to-consumer parcels entering US ports.",
-                "Cross-border ecommerce distributors and retail importers face immediate cost increases and procedural processing friction at airport customs gateways. Supply chain leaders must re-engineer clearance architectures and adjust international landed-cost calculations to protect operating margins."
+                "Two commercial oil tankers sustained direct strikes during overnight transits through the Strait of Hormuz, according to UKMTO and regional authorities. The escalatory military actions compound ongoing navigation disruptions that have already slashed regional container and crude throughput by 65%.",
+                "Energy charterers and maritime operators are being forced to deploy extended alternative routes, driving up daily charter rates and bunker fuel consumption. Shippers moving goods through Middle Eastern corridors must price in substantial risk premiums and transit delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT SECURITY: GATEWAY CONTRA-SEIZURE",
+            "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T16:15:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T19:04:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORT SECURITY: GATEWAY CONTRA-SEIZURE",
+            "heading": "AIR CARGO: PEAK SEASON SLUMP",
             "paragraphs": [
-                "UK law enforcement authorities seized 2.9 tonnes of illicit narcotics with an estimated value of $313M concealed within a commercial banana shipment at London Gateway port. The interception represents one of the largest maritime interdictions recorded at the deepwater container hub in recent months.",
-                "Reefer cargo operators and agricultural shippers face heightened physical inspection protocols and extended dwell times on Latin American import corridors. Cold chain logistics managers must build additional container buffer periods to prevent temperature-sensitive spoilage during regulatory holds."
+                "Global air cargo spot rates plunged 6% month over month as early peak season demand failed to materialize across major trade lanes. Xeneta reporting highlights an uncharacteristic softening in air freight activity as stricter customs enforcement dampens low-value ecommerce volumes.",
+                "Logistics providers are experiencing downward pricing pressure, shifting market leverage directly into the hands of enterprise shippers. Air freight procurers should leverage current spot rate volatility to secure favorable short-term capacity agreements ahead of Q4."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEFENSE LOGISTICS: STRATEGIC MINERAL AWARDS",
+            "nextUpTease": "PANAMA CANAL: RECORD QUEUE BID",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T15:17:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "DEFENSE LOGISTICS: STRATEGIC MINERAL AWARDS",
+            "heading": "PANAMA CANAL: RECORD QUEUE BID",
             "paragraphs": [
-                "The Department of Defense executed over $2B in conditional loan commitments to onshore critical mineral refining and advanced battery production. The capital distribution directly targets supply chain resilience across specialized materials including synthetic graphite and high-performance permanent magnets.",
-                "Advanced manufacturing and automotive procurement networks must reconfigure tier-two component sourcing to comply with federal domestic content criteria. Industrial shippers face long-term capacity shifts as regional mineral processing hubs ramp up domestic freight movements."
+                "An empty liquefied petroleum gas carrier paid an unprecedented $4.6 million queue-jump fee to secure immediate transit through the Panama Canal. The transaction shatters previous auction records as vessel operators scramble to bypass mounting draft restrictions and water level deficits.",
+                "Energy charterers and container lines are absorbing extreme financial premiums to maintain tight delivery schedules across the waterway. Logistics planners must evaluate escalating toll bids against the rising operational costs of alternative long-distance routing."
             ],
             "imageUrl": "",
-            "nextUpTease": "MIDDLE-MILE: AMAZON OPERATIONS INTEGRATION",
+            "nextUpTease": "DEFENSE CAPITAL: CRITICAL MINERALS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T17:45:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MIDDLE-MILE: AMAZON OPERATIONS INTEGRATION",
+            "heading": "DEFENSE CAPITAL: CRITICAL MINERALS",
             "paragraphs": [
-                "Amazon unified its middle-mile air freight and ground linehaul logistics divisions into a consolidated transportation management structure. The organizational restructuring aims to streamline multi-modal scheduling and accelerate network dispatch execution across domestic fulfillment hubs.",
-                "Commercial parcel carriers face intensified efficiency competition as the integrated network optimizes internal linehaul equipment utilization. Enterprise shippers must benchmark regional transit commitments against accelerated dedicated carrier linehaul velocity."
+                "The Department of Defense executed over $2 billion in conditional loan commitments through the Office of Strategic Capital to secure domestic battery and mineral supply chains. Companies including Sila Technologies and Sunrise Energy Metals received capital to accelerate domestic refining capabilities.",
+                "Industrial manufacturers and automotive supply chain leads must realign procurement strategies to satisfy stringent domestic content requirements. The regionalization of mineral processing will permanently alter inbound freight flows and heavy haul transportation demand."
             ],
             "imageUrl": "",
-            "nextUpTease": "GULF MARITIME: REGIONAL VOLUME PLUNGE",
+            "nextUpTease": "TRUCKLOAD MARKETS: CAPACITY TIGHTENING",
             "tags": [
                 "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T18:10:00Z",
+                "Published: 2026-08-14T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "GULF MARITIME: REGIONAL VOLUME PLUNGE",
+            "heading": "TRUCKLOAD MARKETS: CAPACITY TIGHTENING",
             "paragraphs": [
-                "AD Ports reported a 65% drop in UAE container throughput as regional maritime security threats disrupted commercial feeder loops in the Persian Gulf. Commercial shipping lines are altering port rotation schedules to bypass contested navigation channels.",
-                "Cargo owners importing industrial materials into Middle Eastern hubs face extended transit delays and sharp surcharges on transshipment connections. Logistics operators must establish contingency routing through western regional land bridges to maintain continuous supply lines."
+                "Federal enforcement targeting noncompliant electronic logging devices is accelerating a broad capacity purge across domestic over-the-road networks. Werner Enterprises and industry analysts project that stricter compliance checks will sideline thousands of noncompliant operators.",
+                "Dry van and reefer contract rates are hitting historic highs as available linehaul capacity contracts across primary North American freight lanes. Shippers must abandon volatile spot-market reliance and lock in long-term dedicated carrier partnerships to protect service levels."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS REAL ESTATE: WAREHOUSE STABILIZATION",
+            "nextUpTease": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-14T19:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LOGISTICS REAL ESTATE: WAREHOUSE STABILIZATION",
+            "heading": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
             "paragraphs": [
-                "National industrial warehouse vacancy fell 7 basis points sequentially to 7.3% as tenant absorption surpassed new development deliveries. Construction starts for big-box distribution centers slowed, signaling a supply-demand rebalancing across North American distribution hubs.",
-                "Third-party logistics providers and enterprise retailers face firming rental rates and tighter availability in core inland port markets. Facility planners must lock in multi-year industrial lease commitments early to avoid rate escalation as speculative warehouse inventory tightens."
+                "Global customs agencies have initiated aggressive enforcement actions targeting low-value cross-border ecommerce parcels to curb regulatory evasion. The heightened scrutiny on direct-to-consumer shipments is creating severe processing backlogs at major international air hubs.",
+                "Retail importers face skyrocketing administrative friction and unexpected duty assessments that threaten low-margin direct sales models. Supply chain executives must restructure digital import workflows and integrate automated customs documentation platforms to maintain velocity."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T19:30:00Z",
+                "Source: https://www.theloadstar.com",
+                "Published: 2026-08-14T14:15:00Z",
                 "Status: Audited & True"
             ]
         }

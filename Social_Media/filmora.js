@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PANAMA CANAL: RECORD AUCTION PREMIUM",
-                "teaserTitle": "CUSTOMS COMPLIANCE: DE MINIMIS ABOLITION",
-                "visual_caption": "A liquefied petroleum gas tanker paid a record $4.6M fee to bypass Panama Canal congestion. Shippers are incurring extreme auction premiums to secure critical transit windows and bypass volatile global shipping bottlenecks."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "STRAIT OF HORMUZ: TANKER ATTACK SURGE",
+                "visual_caption": "USTR enforces Section 301 tariffs across 60 trading nations. Importers face severe cost pressures as new compliance standards take effect."
             },
             {
                 "slide_index": 2,
-                "headline": "CUSTOMS COMPLIANCE: DE MINIMIS ABOLITION",
-                "teaserTitle": "PORT SECURITY: GATEWAY CONTRA-SEIZURE",
-                "visual_caption": "A federal trade court officially upheld the termination of the US de minimis customs duty exemption. Cross-border ecommerce sellers now face mandatory formal entry compliance and substantial administrative tariff overhead."
+                "headline": "STRAIT OF HORMUZ: TANKER ATTACK SURGE",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
+                "visual_caption": "Two tankers were attacked during transits through the Strait of Hormuz. Regional container throughput plunges by 65% amid military threats."
             },
             {
                 "slide_index": 3,
-                "headline": "PORT SECURITY: GATEWAY CONTRA-SEIZURE",
-                "teaserTitle": "DEFENSE LOGISTICS: STRATEGIC MINERAL AWARDS",
-                "visual_caption": "British authorities intercepted a massive 2.9t cocaine shipment hidden inside banana cargo at London Gateway. Border agencies are dramatically intensifying physical inspections on containerized agricultural perishables arriving from South America."
+                "headline": "AIR CARGO: PEAK SEASON SLUMP",
+                "teaserTitle": "PANAMA CANAL: RECORD QUEUE BID",
+                "visual_caption": "Global air cargo spot rates fell 6% month over month as peak demand softens. Shippers secure favorable short-term capacity agreements."
             },
             {
                 "slide_index": 4,
-                "headline": "DEFENSE LOGISTICS: STRATEGIC MINERAL AWARDS",
-                "teaserTitle": "MIDDLE-MILE: AMAZON OPERATIONS INTEGRATION",
-                "visual_caption": "The Pentagon signed over $2B in funding commitments with domestic battery and critical mineral suppliers. Industrial manufacturers must align procurement protocols with expanding national security sourcing mandates for strategic energy commodities."
+                "headline": "PANAMA CANAL: RECORD QUEUE BID",
+                "teaserTitle": "DEFENSE CAPITAL: CRITICAL MINERALS",
+                "visual_caption": "An empty gas carrier paid a record $4.6M fee for canal priority. Waterway transit bottlenecks force extreme financial bidding wars."
             },
             {
                 "slide_index": 5,
-                "headline": "MIDDLE-MILE: AMAZON OPERATIONS INTEGRATION",
-                "teaserTitle": "GULF MARITIME: REGIONAL VOLUME PLUNGE",
-                "visual_caption": "Amazon officially merged its middle-mile air and ground freight transportation divisions into a unified operations network. The structural consolidation aims to eliminate operational redundancies and accelerate cross-modal freight dispatch decisions."
+                "headline": "DEFENSE CAPITAL: CRITICAL MINERALS",
+                "teaserTitle": "TRUCKLOAD MARKETS: CAPACITY TIGHTENING",
+                "visual_caption": "The Pentagon commits over $2B to secure domestic battery supply chains. Industrial manufacturers must realign procurement to meet domestic rules."
             },
             {
                 "slide_index": 6,
-                "headline": "GULF MARITIME: REGIONAL VOLUME PLUNGE",
-                "teaserTitle": "LOGISTICS REAL ESTATE: WAREHOUSE STABILIZATION",
-                "visual_caption": "Container handling volumes at major UAE terminals plunged 65% following regional shipping route disruptions. Ocean carriers are actively diverting feeder loops and revising regional port rotations to mitigate persistent maritime risks."
+                "headline": "TRUCKLOAD MARKETS: CAPACITY TIGHTENING",
+                "teaserTitle": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
+                "visual_caption": "Federal enforcement on ELDs accelerates an over-the-road capacity squeeze. Dry van and reefer contract rates hit record highs nationwide."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS REAL ESTATE: WAREHOUSE STABILIZATION",
+                "headline": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "US industrial real estate vacancy rates stabilized at 7.3% as logistics demand outpaced new supply. Commercial occupiers face shrinking availability and firming lease rates across primary inland distribution corridors."
+                "visual_caption": "Stricter customs enforcement on low-value parcels creates major port delays. Retail importers face rising administrative friction and duty assessments."
             },
             {
                 "slide_index": 8,

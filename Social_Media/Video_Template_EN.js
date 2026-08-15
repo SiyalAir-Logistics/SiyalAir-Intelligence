@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL RECORD AUCTION PREMIUM",
+        "hookTitle": "FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PANAMA CANAL: RECORD AUCTION PREMIUM",
-                "teaserTitle": "CUSTOMS COMPLIANCE: DE MINIMIS ABOLITION",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "STRAIT OF HORMUZ: TANKER ATTACK SURGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A liquefied petroleum gas tanker paid a record four point six million dollar fee to bypass Panama Canal congestion. Shippers are incurring extreme auction premiums to secure critical transit windows and bypass volatile global shipping bottlenecks."
+                "narration_line": "The trade representative implements Section three hundred and one tariffs across sixty nations. Importers face severe cost pressures as compliance standards shift."
             },
             {
                 "slide_index": 2,
-                "headline": "CUSTOMS COMPLIANCE: DE MINIMIS ABOLITION",
-                "teaserTitle": "PORT SECURITY: GATEWAY CONTRA-SEIZURE",
+                "headline": "STRAIT OF HORMUZ: TANKER ATTACK SURGE",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A federal trade court officially upheld the termination of the United States de minimis customs duty exemption. Cross-border ecommerce sellers now face mandatory formal entry compliance and substantial administrative tariff overhead."
+                "narration_line": "Two oil tankers were struck during transits through the Strait of Hormuz. Regional maritime volumes plunge as operators divert vessels around conflict zones."
             },
             {
                 "slide_index": 3,
-                "headline": "PORT SECURITY: GATEWAY CONTRA-SEIZURE",
-                "teaserTitle": "DEFENSE LOGISTICS: STRATEGIC MINERAL AWARDS",
+                "headline": "AIR CARGO: PEAK SEASON SLUMP",
+                "teaserTitle": "PANAMA CANAL: RECORD QUEUE BID",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "British authorities intercepted a massive two point nine tonne cocaine shipment hidden inside banana cargo at London Gateway. Border agencies are dramatically intensifying physical inspections on containerized agricultural perishables arriving from South America."
+                "narration_line": "Global air cargo spot rates drop six percent as peak season demand softens. Shippers gain temporary pricing leverage across international trade lanes."
             },
             {
                 "slide_index": 4,
-                "headline": "DEFENSE LOGISTICS: STRATEGIC MINERAL AWARDS",
-                "teaserTitle": "MIDDLE-MILE: AMAZON OPERATIONS INTEGRATION",
+                "headline": "PANAMA CANAL: RECORD QUEUE BID",
+                "teaserTitle": "DEFENSE CAPITAL: CRITICAL MINERALS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Pentagon signed over two billion dollars in funding commitments with domestic battery and critical mineral suppliers. Industrial manufacturers must align procurement protocols with expanding national security sourcing mandates for strategic energy commodities."
+                "narration_line": "An empty gas carrier pays a record four point six million dollars for canal priority. Waterway transit bottlenecks force extreme financial bidding wars."
             },
             {
                 "slide_index": 5,
-                "headline": "MIDDLE-MILE: AMAZON OPERATIONS INTEGRATION",
-                "teaserTitle": "GULF MARITIME: REGIONAL VOLUME PLUNGE",
+                "headline": "DEFENSE CAPITAL: CRITICAL MINERALS",
+                "teaserTitle": "TRUCKLOAD MARKETS: CAPACITY TIGHTENING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon officially merged its middle-mile air and ground freight transportation divisions into a unified operations network. The structural consolidation aims to eliminate operational redundancies and accelerate cross-modal freight dispatch decisions."
+                "narration_line": "The Pentagon commits over two billion dollars to secure domestic battery supply chains. Manufacturers must restructure regional procurement networks immediately."
             },
             {
                 "slide_index": 6,
-                "headline": "GULF MARITIME: REGIONAL VOLUME PLUNGE",
-                "teaserTitle": "LOGISTICS REAL ESTATE: WAREHOUSE STABILIZATION",
+                "headline": "TRUCKLOAD MARKETS: CAPACITY TIGHTENING",
+                "teaserTitle": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Container handling volumes at major United Arab Emirates terminals plunged sixty-five percent following regional shipping route disruptions. Ocean carriers are actively diverting feeder loops and revising regional port rotations to mitigate persistent maritime risks."
+                "narration_line": "Federal log device enforcement accelerates a massive trucking capacity squeeze. Contract shipping rates climb as available linehaul equipment tightens."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS REAL ESTATE: WAREHOUSE STABILIZATION",
+                "headline": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "United States industrial real estate vacancy rates stabilized at seven point three percent as logistics demand outpaced new supply. Commercial occupiers face shrinking availability and firming lease rates across primary inland distribution corridors."
+                "narration_line": "Strict customs crackdowns on low-value parcels create major international sorting delays. Retailers face rising administrative friction and unexpected duty costs."
             },
             {
                 "slide_index": 8,
