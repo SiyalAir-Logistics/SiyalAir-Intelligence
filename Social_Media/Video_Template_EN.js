@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR ADVANCES SWEEPING SECTION 301 TARIFFS ON SIXTY NATIONS",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: PANAMA CANAL AUCTION",
+                "headline": "MARITIME: PANAMA CANAL AUCTION",
+                "teaserTitle": "ENERGY TRANSIT: STRAIT OF HORMUZ ATTACKS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is advancing Section three oh one tariffs targeting sixty trading nations over forced labor allegations. Importers must immediately audit Tier-one through Tier-four supply chains to avoid severe border seizures."
+                "narration_line": "An empty tanker paid four point six million dollars to jump the Panama Canal queue. Regional traffic diversions have sharply restricted daily neo-panamax reservation availability."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL AUCTION",
+                "headline": "ENERGY TRANSIT: STRAIT OF HORMUZ ATTACKS",
                 "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A commercial tanker paid a record four point six million dollar auction fee to cut the Panama Canal transit queue. Escalating maritime congestion is forcing shippers to choose between extreme toll premiums and prolonged cape diversions."
+                "narration_line": "Recent drone attacks targeted two commercial crude oil tankers in the Strait of Hormuz. Container traffic throughput across adjacent Persian Gulf ports has declined significantly."
             },
             {
                 "slide_index": 3,
                 "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "teaserTitle": "ENERGY TRANSIT: HORMUZ TANKER ATTACKS",
+                "teaserTitle": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Uber Freight confirmed a major security incident after unauthorized actors compromised nearly one million enterprise logistics files. Freight brokers and shippers must immediately reset portal credentials and enforce strict multi-factor authentication protocols."
+                "narration_line": "Uber Freight is investigating a major data breach exposing nearly one million carrier compliance files. The security incident stems from social engineering targeting broker portal interfaces."
             },
             {
                 "slide_index": 4,
-                "headline": "ENERGY TRANSIT: HORMUZ TANKER ATTACKS",
-                "teaserTitle": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
+                "headline": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
+                "teaserTitle": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Two additional commercial crude tankers were attacked during transit through the critical Strait of Hormuz shipping lane. Energy logistics operators are facing soaring war-risk insurance premiums and severe vessel rerouting delays across Middle Eastern corridors."
+                "narration_line": "Theft syndicates have stolen nearly one hundred eleven million dollars in artificial intelligence server freight. Organized networks are exploiting compromised driver credentials across transit corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
-                "teaserTitle": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
+                "headline": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
+                "teaserTitle": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Cargo theft syndicates have stolen nearly one hundred and eleven million dollars in high-value data center hardware using aggressive staging tactics. Logistics managers must upgrade active telemetry monitoring and enforce dual-driver protocols across critical technology freight lanes."
+                "narration_line": "Union Pacific enacted emergency peak-season surcharges of one thousand dollars per container. The pricing action aims to ration locomotive capacity amid surging import volumes."
             },
             {
                 "slide_index": 6,
-                "headline": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
-                "teaserTitle": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
+                "headline": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
+                "teaserTitle": "TRADE POLICY: EXPANDED TARIFF ACTIONS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Union Pacific announced a surge fee of one thousand dollars per container across outbound California rail intermodal corridors. Shippers must evaluate cost trade-offs between elevated rail surcharges and tightening regional over-the-road trucking capacity."
+                "narration_line": "Multiple states have restricted non-domiciled commercial driver license renewals and issuance. Tighter rules threaten to sideline more than two hundred thousand foreign drivers nationwide."
             },
             {
                 "slide_index": 7,
-                "headline": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
-                "teaserTitle": "",
+                "headline": "TRADE POLICY: EXPANDED TARIFF ACTIONS",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Multiple state agencies are restricting non-domiciled commercial driver licenses, potentially sidelining over two hundred thousand cross-border truck drivers. Motor carriers must audit driver licensing compliance immediately to prevent severe fleet capacity deficits across freight networks."
+                "narration_line": "Federal authorities implemented one hundred percent tariff levies on specific foreign drone components. Importers face immediate sourcing bottlenecks and surging component acquisition costs."
             },
             {
                 "slide_index": 8,

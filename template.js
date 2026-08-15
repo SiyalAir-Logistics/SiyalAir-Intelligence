@@ -1,38 +1,38 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR advances Section 301 tariffs on 60 nations as Panama Canal queue-jump fees reach a record $4.6M."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP",
+        "titleBlue": "FEE",
+        "footerSummary": "Panama Canal queue fees hit a record $4.6M while Middle East tanker attacks drive up global energy transit surcharges."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "MARITIME: PANAMA CANAL AUCTION",
             "paragraphs": [
-                "The Office of the United States Trade Representative officially moved forward with the implementation of targeted tariffs on 60 trading partner nations under Section 301 of the Trade Act of 1974. The trade action replaces expiring Section 122 duties with strict customs penalties focused on documented supply chain forced-labor non-compliance across industrial raw materials and consumer goods.",
-                "Global procurement teams face immediate tariff exposure and mandatory detention risks at all US ports of entry unless verifiable chain-of-custody documentation is established. Enterprise shippers must rapidly conduct multi-tier supply chain audits and re-evaluate vendor origin declarations to mitigate crippling duty assessments."
+                "An empty liquefied petroleum gas tanker secured an expedited transit slot to bypass severe waterway congestion by paying an all-time high auction fee of $4.6 million. Heightened maritime traffic diversions driven by escalating geopolitical conflicts in the Middle East have sharply constrained daily neo-panamax reservation availability across the corridor.",
+                "Vessel charterers and ocean freight operators face a severe economic dilemma between paying multi-million-dollar canal auction premiums or absorbing up to 14 additional sailing days via alternate routes. Cargo owners must adjust inventory buffer levels and recalibrate voyage fuel calculations against soaring transit surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: PANAMA CANAL AUCTION",
+            "nextUpTease": "ENERGY TRANSIT: STRAIT OF HORMUZ ATTACKS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-15T04:12:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: PANAMA CANAL AUCTION",
+            "heading": "ENERGY TRANSIT: STRAIT OF HORMUZ ATTACKS",
             "paragraphs": [
-                "Transit auction fees at the Panama Canal reached an all-time high of $4.6M after an empty liquefied petroleum gas carrier secured an expedited transit slot to bypass severe waterway congestion. Heightened maritime traffic diversion caused by escalating geopolitical conflict in the Middle East has sharply constrained daily neo-panamax reservation availability.",
-                "Vessel charterers and ocean freight operators face a severe economic dilemma between paying multi-million-dollar canal auction premiums or absorbing up to 14 additional sailing days via the Cape of Good Hope. Cargo owners must adjust inventory buffer levels and recalibrate voyage fuel calculations against soaring transit surcharges."
+                "Maritime security monitors confirmed kinetic drone and projectile attacks targeting commercial crude oil tankers executing outbound transits through the Strait of Hormuz. Regional port authorities reported that container traffic throughput across adjacent Persian Gulf hubs has declined significantly as operators suspend scheduled sailings.",
+                "Global energy and chemical supply chains face immediate spikes in maritime war-risk insurance premiums alongside escalating carrier emergency conflict surcharges. Shippers must anticipate wider container equipment imbalances and activate secondary overland transit corridors to bypass volatile maritime chokepoints."
             ],
             "imageUrl": "",
             "nextUpTease": "CYBERSECURITY: UBER FREIGHT BREACH",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-15T05:30:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T19:04:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -40,49 +40,34 @@ const dailyData = {
             "id": 3,
             "heading": "CYBERSECURITY: UBER FREIGHT BREACH",
             "paragraphs": [
-                "Uber Freight confirmed an active investigation into a major enterprise data security breach after threat actors accessed nearly 1M proprietary logistics and carrier compliance files. The compromised data stems from social engineering exploitation targeting identity verification interfaces across third-party carrier broker portals.",
+                "Uber Freight confirmed an active investigation into a major enterprise data security breach after threat actors accessed nearly 1 million proprietary logistics and carrier compliance files. The compromised data stems from social engineering exploitation targeting identity verification interfaces across third-party carrier broker portals.",
                 "Logistics networks face heightened risks of double-brokering scams, carrier impersonation, and fraudulent load redirection across regional freight markets. Corporate compliance teams must mandate immediate API credential rotations and institute stringent multi-factor verification across all freight execution touchpoints."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY TRANSIT: HORMUZ TANKER ATTACKS",
+            "nextUpTease": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
             "tags": [
                 "Source: https://theloadstar.com",
-                "Published: 2026-08-15T06:15:00Z",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ENERGY TRANSIT: HORMUZ TANKER ATTACKS",
-            "paragraphs": [
-                "Maritime security monitors confirmed kinetic drone and projectile attacks targeting two commercial crude oil tankers executing outbound transits through the Strait of Hormuz. Regional port authorities reported that container traffic throughput across adjacent Persian Gulf hubs has declined by as much as 65% as operators suspend scheduled sailings.",
-                "Global energy and chemical supply chains face immediate spikes in maritime war-risk insurance premiums alongside escalating carrier emergency conflict surcharges. Shippers must anticipate wider container equipment imbalances and activate secondary overland transit corridors to bypass volatile maritime chokepoints."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
-            "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-15T03:45:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
             "heading": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
             "paragraphs": [
-                "Federal freight security task forces reported that sophisticated theft syndicates have stolen nearly $111M in artificial intelligence server components and data center freight using covert bump-and-run staging tactics. Organized networks are exploiting compromised driver credentials and fraudulent roadside breakdowns to divert high-value electronics shipments in transit.",
+                "Federal freight security task forces reported that sophisticated theft syndicates have stolen nearly $111 million in artificial intelligence server components and data center freight using covert staging tactics. Organized networks are exploiting compromised driver credentials and fraudulent roadside breakdowns to divert high-value electronics shipments in transit.",
                 "High-tech equipment manufacturers and specialized logistics providers are incurring severe replacement asset costs and escalating commercial liability insurance deductibles. Supply chain directors must mandate continuous covert asset tracking, dedicated escort services, and non-stop dual-driver transit protocols on high-value lanes."
             ],
             "imageUrl": "",
             "nextUpTease": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
             "tags": [
                 "Source: https://www.freightwaves.com",
-                "Published: 2026-08-15T02:20:00Z",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
+            "id": 5,
             "heading": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
             "paragraphs": [
                 "Union Pacific implemented emergency peak-season intermodal surcharges of $1,000 per container on excess contract freight originating from Southern California rail terminals. The aggressive pricing mechanism aims to ration constrained locomotive capacity and balance chassis inventory against an unexpected surge in summer import container volumes.",
@@ -92,22 +77,37 @@ const dailyData = {
             "nextUpTease": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
             "tags": [
                 "Source: https://www.joc.com",
-                "Published: 2026-08-15T01:50:00Z",
+                "Published: 2026-08-14T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
+            "paragraphs": [
+                "Transportation authorities in Rhode Island and Utah joined an expanding interstate coalition restricting the issuance and renewal of non-domiciled commercial driver licenses. Federal transportation projections indicate that tightening state licensing restrictions could sideline more than 200,000 foreign commercial truck drivers nationwide.",
+                "Long-haul motor carriers and cross-border 3PL networks face sudden structural driver shortages and upward pressure on dedicated fleet compensation packages. Logistics strategists must restructure regional driver recruiting programs and audit carrier safety qualification files to prevent operational service failures."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRADE POLICY: EXPANDED TARIFF ACTIONS",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
+            "heading": "TRADE POLICY: EXPANDED TARIFF ACTIONS",
             "paragraphs": [
-                "Transportation authorities in Rhode Island and Utah joined a expanding interstate coalition restricting the issuance and renewal of non-domiciled commercial driver licenses. Federal transportation projections indicate that tightening state licensing restrictions could sideline more than 200,000 foreign commercial truck drivers nationwide.",
-                "Long-haul motor carriers and cross-border 3PL networks face sudden structural driver shortages and upward pressure on dedicated fleet compensation packages. Logistics strategists must restructure regional driver recruiting programs and audit carrier safety qualification files to prevent operational service failures."
+                "The federal administration announced aggressive new tariff actions imposing 100% duties on specific foreign-made drone components and technology infrastructure imports. Supply chain procurement units face immediate sourcing disruptions as alternative domestic and allied manufacturing capacity remains severely restricted.",
+                "Importers of technology hardware and industrial automation systems must absorb prohibitive duty assessments or rapidly redesign multi-tier bills of materials. Strategic sourcing teams should engage trade legal counsel immediately to evaluate tariff exclusion pathways and secure compliant component inventories."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-15T00:35:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
