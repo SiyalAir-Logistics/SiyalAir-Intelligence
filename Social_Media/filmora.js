@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: DRONE IMPORT TARIFFS",
-                "teaserTitle": "AIR LOGISTICS: SHENZHEN HUB EXPANSION",
-                "visual_caption": "The federal government enacted 100% tariffs on foreign commercial drones and components. Sourcing teams face doubled hardware costs and severe aerospace supply chain disruption."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "CANAL TRANSIT: RECORD AUCTION SURGE",
+                "visual_caption": "The USTR finalized Section 301 tariffs on 60 trading partners over labor standards. Importers face immediate duty increases of up to 25% across targeted commodity categories."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR LOGISTICS: SHENZHEN HUB EXPANSION",
-                "teaserTitle": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
-                "visual_caption": "DHL completed a $204M gateway expansion in Shenzhen, tripling South China express cargo capacity. Shippers secure faster automated clearance ahead of peak season."
+                "headline": "CANAL TRANSIT: RECORD AUCTION SURGE",
+                "teaserTitle": "CARGO SECURITY: DATA CENTER THEFTS",
+                "visual_caption": "Panama Canal auction fees reached $4.6M for a single priority passage slot. The record bid highlights growing maritime congestion as global shipping traffic reroutes around the Middle East."
             },
             {
                 "slide_index": 3,
-                "headline": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
-                "teaserTitle": "CUSTOMS RECOVERY: TARIFF REFUND INFLUX",
-                "visual_caption": "Amazon enforced a strict 75-character limit on product titles across all seller listings. Brands risk algorithmic suppression unless product catalogs are updated immediately."
+                "headline": "CARGO SECURITY: DATA CENTER THEFTS",
+                "teaserTitle": "OCEAN FREIGHT: HORMUZ TRAFFIC PLUNGE",
+                "visual_caption": "Cargo theft rings intercepted nearly $111M in server infrastructure during Q2. Technology shippers are mandating dual-driver security teams to protect high-value hardware consignments."
             },
             {
                 "slide_index": 4,
-                "headline": "CUSTOMS RECOVERY: TARIFF REFUND INFLUX",
-                "teaserTitle": "AUTOMATION: ROBOTIC TRAILER LOADING",
-                "visual_caption": "Kimberly-Clark secured $45M in tariff refunds following successful duty challenges. Importers are expanding customs audits to reclaim misclassified trade duties."
+                "headline": "OCEAN FREIGHT: HORMUZ TRAFFIC PLUNGE",
+                "teaserTitle": "AIR FREIGHT: EU TAX REFORM",
+                "visual_caption": "UAE container volumes dropped 65% following repeated tanker strikes in the Strait of Hormuz. Ocean carriers are halting regional feeder services and implementing emergency war risk surcharges."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTOMATION: ROBOTIC TRAILER LOADING",
-                "teaserTitle": "RAIL FREIGHT: INTERMODAL VOLUME SURGE",
-                "visual_caption": "FedEx and Amazon deployed autonomous robotic trailer loading arms across high-volume distribution hubs. Automated sorting accelerates dock turnaround times by 30%."
+                "headline": "AIR FREIGHT: EU TAX REFORM",
+                "teaserTitle": "FLEET COMPLIANCE: ELD PURGE CONSTRAINTS",
+                "visual_caption": "European air cargo volumes fell 8% after the EU eliminated low-value duty exemptions on ecommerce parcels. Cross-border platforms now face mandatory duty filings and longer terminal clearance cycles."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL FREIGHT: INTERMODAL VOLUME SURGE",
-                "teaserTitle": "INDUSTRIAL REALTY: LOGISTICS VACANCY SHIFT",
-                "visual_caption": "US rail intermodal traffic climbed 4.1% to 295,356 units for the week. Surface shippers are locking rail capacity to hedge rising truckload rates."
+                "headline": "FLEET COMPLIANCE: ELD PURGE CONSTRAINTS",
+                "teaserTitle": "DEFENSE SOURCING: CRITICAL MINERAL LOANS",
+                "visual_caption": "Federal safety regulators are accelerating the mandatory removal of uncertified ELDs across 45,000 carriers. The compliance enforcement is projected to tighten nationwide truckload capacity."
             },
             {
                 "slide_index": 7,
-                "headline": "INDUSTRIAL REALTY: LOGISTICS VACANCY SHIFT",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Industrial real estate vacancy fell to 7.3% as space absorption outpaces new warehouse construction. Distribution networks must lock leases before prime square footage tightens."
+                "headline": "DEFENSE SOURCING: CRITICAL MINERAL LOANS",
+                "teaserTitle": "",
+                "visual_caption": "The DOD finalized over $2B in loan agreements to expand domestic mineral processing. The initiative builds insulated domestic component pipelines for critical aerospace and battery manufacturing."
             },
             {
                 "slide_index": 8,

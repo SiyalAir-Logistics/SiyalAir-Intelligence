@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DRONE IMPORT TARIFFS SHAKE GLOBAL SUPPLY CHAINS",
+        "hookTitle": "USTR EXPANDS SECTION 301 TARIFFS ON SIXTY COUNTRIES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: DRONE IMPORT TARIFFS",
-                "teaserTitle": "AIR LOGISTICS: SHENZHEN HUB EXPANSION",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "CANAL TRANSIT: RECORD AUCTION SURGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The federal government enacted one hundred percent tariffs on foreign commercial drones and components. Sourcing teams face doubled hardware costs and severe aerospace supply chain disruption."
+                "narration_line": "The United States Trade Representative finalized Section three oh one tariffs on sixty trading partners over labor standards. Importers face immediate duty increases of up to twenty-five percent across targeted commodity categories."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR LOGISTICS: SHENZHEN HUB EXPANSION",
-                "teaserTitle": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
+                "headline": "CANAL TRANSIT: RECORD AUCTION SURGE",
+                "teaserTitle": "CARGO SECURITY: DATA CENTER THEFTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "DHL completed a two hundred four million dollar gateway expansion in Shenzhen, tripling South China express cargo capacity. Shippers secure faster automated clearance ahead of peak season."
+                "narration_line": "Panama Canal auction fees reached four point six million dollars for a single priority passage slot. The record bid highlights growing maritime congestion as global shipping traffic reroutes around the Middle East."
             },
             {
                 "slide_index": 3,
-                "headline": "ECOMMERCE: AMAZON TITLE RESTRICTIONS",
-                "teaserTitle": "CUSTOMS RECOVERY: TARIFF REFUND INFLUX",
+                "headline": "CARGO SECURITY: DATA CENTER THEFTS",
+                "teaserTitle": "OCEAN FREIGHT: HORMUZ TRAFFIC PLUNGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Amazon enforced a strict seventy-five character limit on product titles across all seller listings. Brands risk algorithmic suppression unless product catalogs are updated immediately."
+                "narration_line": "Cargo theft rings intercepted nearly one hundred eleven million dollars in server infrastructure during the second quarter. Technology shippers are mandating dual-driver security teams to protect high-value hardware consignments."
             },
             {
                 "slide_index": 4,
-                "headline": "CUSTOMS RECOVERY: TARIFF REFUND INFLUX",
-                "teaserTitle": "AUTOMATION: ROBOTIC TRAILER LOADING",
+                "headline": "OCEAN FREIGHT: HORMUZ TRAFFIC PLUNGE",
+                "teaserTitle": "AIR FREIGHT: EU TAX REFORM",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Kimberly-Clark secured forty-five million dollars in tariff refunds following successful duty challenges. Importers are expanding customs audits to reclaim misclassified trade duties."
+                "narration_line": "United Arab Emirates container volumes dropped sixty-five percent following repeated tanker strikes in the Strait of Hormuz. Ocean carriers are halting regional feeder services and implementing emergency war risk surcharges."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTOMATION: ROBOTIC TRAILER LOADING",
-                "teaserTitle": "RAIL FREIGHT: INTERMODAL VOLUME SURGE",
+                "headline": "AIR FREIGHT: EU TAX REFORM",
+                "teaserTitle": "FLEET COMPLIANCE: ELD PURGE CONSTRAINTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "FedEx and Amazon deployed autonomous robotic trailer loading arms across high-volume distribution hubs. Automated sorting accelerates dock turnaround times by thirty percent."
+                "narration_line": "European air cargo volumes fell eight percent after the European Union eliminated low-value duty exemptions on ecommerce parcels. Cross-border platforms now face mandatory duty filings and longer terminal clearance cycles."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL FREIGHT: INTERMODAL VOLUME SURGE",
-                "teaserTitle": "INDUSTRIAL REALTY: LOGISTICS VACANCY SHIFT",
+                "headline": "FLEET COMPLIANCE: ELD PURGE CONSTRAINTS",
+                "teaserTitle": "DEFENSE SOURCING: CRITICAL MINERAL LOANS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "United States rail intermodal traffic climbed four point one percent to over two hundred ninety-five thousand units. Surface shippers are locking rail capacity to hedge rising truckload rates."
+                "narration_line": "Federal safety regulators are accelerating the mandatory removal of uncertified electronic logging devices across forty-five thousand carriers. The compliance enforcement is projected to tighten nationwide truckload capacity."
             },
             {
                 "slide_index": 7,
-                "headline": "INDUSTRIAL REALTY: LOGISTICS VACANCY SHIFT",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "DEFENSE SOURCING: CRITICAL MINERAL LOANS",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Industrial real estate vacancy fell to seven point three percent as space absorption outpaces new warehouse construction. Distribution networks must lock leases before prime square footage tightens."
+                "narration_line": "The Defense Department finalized over two billion dollars in loan agreements to expand domestic mineral processing. The initiative builds insulated domestic component pipelines for critical aerospace and battery manufacturing."
             },
             {
                 "slide_index": 8,
