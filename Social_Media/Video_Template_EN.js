@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS",
+        "hookTitle": "PANAMA CANAL RECORD TRANSIT AUCTION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: STRAIT OF HORMUZ ATTACKS",
+                "headline": "PANAMA CANAL: RECORD TRANSIT AUCTION",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative advanced new forced labor tariffs across sixty trading nations under section three hundred and one. Procurement divisions must overhaul international sourcing compliance to mitigate severe customs penalties."
+                "narration_line": "A gas carrier paid a record four point six million dollar auction fee to bypass Panama Canal delays. Shippers must evaluate if extreme slot premiums outweigh costly multi-week detours."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: STRAIT OF HORMUZ ATTACKS",
-                "teaserTitle": "TRADE POLICY: EXPANDED DRONE TARIFFS",
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "RAILWAYS: STATE OPPOSITION MERGER",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Two additional crude oil tankers were attacked during outbound transits through the Strait of Hormuz. Energy shippers are facing soaring war risk insurance premiums and mandatory route diversions."
+                "narration_line": "A major cyber breach at Uber Freight exposed over one million shipment files and pricing records. Logistics providers must audit verification systems to prevent identity theft and fraudulent cargo redirection."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE POLICY: EXPANDED DRONE TARIFFS",
-                "teaserTitle": "AIR CARGO: DE MINIMIS CRACKDOWN",
+                "headline": "RAILWAYS: STATE OPPOSITION MERGER",
+                "teaserTitle": "EXPORT CONTROLS: BAE DEFENSE PENALTY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The federal administration implemented one hundred percent import duties on foreign drone components. Importers must absorb steep duty assessments or rapidly redesign multi-tier bills of materials."
+                "narration_line": "Six state attorneys general officially filed opposition against the proposed Union Pacific and Norfolk Southern merger. Industrial shippers face prolonged regulatory uncertainty and rising freight rate risks during review."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: DE MINIMIS CRACKDOWN",
-                "teaserTitle": "TRUCKING: NON-DOMICILED CDL LIMITS",
+                "headline": "EXPORT CONTROLS: BAE DEFENSE PENALTY",
+                "teaserTitle": "AIR CARGO: SHENZHEN HUB EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Intensified customs enforcement on low-value ecommerce shipments has begun reversing airfreight demand. Digital retail platforms must restructure inventory staging networks to manage clearance delays."
+                "narration_line": "BAE Systems reached a thirty-six million dollar settlement over federal arms export control violations. Aerospace supply chain managers must tighten screening protocols for all international sub-tier suppliers and technical records."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING: NON-DOMICILED CDL LIMITS",
-                "teaserTitle": "SECURITY: $313M COCAINE BUST",
+                "headline": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "teaserTitle": "INTERMODAL: CALIFORNIA BOX SURCHARGE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "State transportation agencies enacted strict new limits on non-domiciled commercial driver licenses. These regulatory changes threaten to sideline more than two hundred thousand foreign truck drivers nationwide."
+                "narration_line": "DHL Express invested two hundred and four million dollars to triple handling capacity at its Shenzhen gateway. Airfreight forwarders gain faster automated processing for surging cross-border ecommerce and high-tech exports."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: $313M COCAINE BUST",
-                "teaserTitle": "FREIGHT RATES: CONTRACT SPIKE",
+                "headline": "INTERMODAL: CALIFORNIA BOX SURCHARGE",
+                "teaserTitle": "PORT OPERATIONS: UAE CONTAINER PLUNGE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "British law enforcement intercepted a three hundred and thirteen million dollar cocaine shipment hidden inside bananas. Supply chain directors must mandate advanced cargo screening across high-risk trade lanes."
+                "narration_line": "Union Pacific imposed a one thousand dollar surcharge per container on shipments exiting California rail hubs. Importers face immediate domestic cost spikes and must optimize inland intermodal contracts accordingly."
             },
             {
                 "slide_index": 7,
-                "headline": "FREIGHT RATES: CONTRACT SPIKE",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "PORT OPERATIONS: UAE CONTAINER PLUNGE",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Persistent maritime disruptions are driving steep freight rate increases into multi-year shipper contracts. Procurement managers must deploy agile benchmarking tools to protect operating margins."
+                "narration_line": "AD Ports container volumes dropped sixty-five percent as regional navigation risks forced ocean carriers to offload cargo outside the Gulf. Shippers must deploy overland trucking networks to bypass maritime bottlenecks."
             },
             {
                 "slide_index": 8,

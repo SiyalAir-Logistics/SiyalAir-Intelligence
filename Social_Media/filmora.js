@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: STRAIT OF HORMUZ ATTACKS",
-                "visual_caption": "USTR advanced forced labor tariffs across 60 trading nations under Section 301. Procurement divisions must overhaul compliance matrices to mitigate severe customs penalties."
+                "headline": "PANAMA CANAL: RECORD TRANSIT AUCTION",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "visual_caption": "A gas carrier paid a record $4.6M auction fee to bypass Panama Canal delays. Shippers must evaluate if extreme slot premiums outweigh costly multi-week detours."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: STRAIT OF HORMUZ ATTACKS",
-                "teaserTitle": "TRADE POLICY: EXPANDED DRONE TARIFFS",
-                "visual_caption": "2 commercial crude oil tankers were attacked during transits through the Strait of Hormuz. Energy shippers face soaring war-risk insurance premiums and mandatory route diversions."
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "RAILWAYS: STATE OPPOSITION MERGER",
+                "visual_caption": "A major cyber breach at Uber Freight exposed over 1M shipment files and pricing records. Logistics providers must audit verification systems to prevent identity theft and fraudulent cargo redirection."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE POLICY: EXPANDED DRONE TARIFFS",
-                "teaserTitle": "AIR CARGO: DE MINIMIS CRACKDOWN",
-                "visual_caption": "The federal administration implemented 100% import duties on foreign drone hardware components. Importers must absorb steep duty assessments or redesign bills of materials."
+                "headline": "RAILWAYS: STATE OPPOSITION MERGER",
+                "teaserTitle": "EXPORT CONTROLS: BAE DEFENSE PENALTY",
+                "visual_caption": "Six state attorneys general officially filed opposition against the proposed Union Pacific and Norfolk Southern merger. Industrial shippers face prolonged regulatory uncertainty and rising freight rate risks during review."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: DE MINIMIS CRACKDOWN",
-                "teaserTitle": "TRUCKING: NON-DOMICILED CDL LIMITS",
-                "visual_caption": "Intensified customs enforcement on low-value ecommerce shipments has reversed airfreight demand. Retail platforms must restructure inventory staging networks to manage delays."
+                "headline": "EXPORT CONTROLS: BAE DEFENSE PENALTY",
+                "teaserTitle": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "visual_caption": "BAE Systems reached a $36M settlement over federal arms export control violations. Aerospace supply chain managers must tighten screening protocols for all international sub-tier suppliers and technical records."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING: NON-DOMICILED CDL LIMITS",
-                "teaserTitle": "SECURITY: $313M COCAINE BUST",
-                "visual_caption": "State transportation agencies enacted strict limits on non-domiciled commercial driver licenses. These regulatory restrictions threaten to sideline over 200K truck drivers."
+                "headline": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "teaserTitle": "INTERMODAL: CALIFORNIA BOX SURCHARGE",
+                "visual_caption": "DHL Express invested $204M to triple handling capacity at its Shenzhen gateway. Airfreight forwarders gain faster automated processing for surging cross-border ecommerce and high-tech exports."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: $313M COCAINE BUST",
-                "teaserTitle": "FREIGHT RATES: CONTRACT SPIKE",
-                "visual_caption": "UK authorities intercepted a $313M cocaine shipment hidden inside a commercial banana cargo. Supply chain directors must mandate advanced cargo screening across all trade lanes."
+                "headline": "INTERMODAL: CALIFORNIA BOX SURCHARGE",
+                "teaserTitle": "PORT OPERATIONS: UAE CONTAINER PLUNGE",
+                "visual_caption": "Union Pacific imposed a $1,000 surcharge per container on shipments exiting California rail hubs. Importers face immediate domestic cost spikes and must optimize inland intermodal contracts accordingly."
             },
             {
                 "slide_index": 7,
-                "headline": "FREIGHT RATES: CONTRACT SPIKE",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Persistent maritime disruptions are driving freight rate increases directly into shipper contracts. Procurement managers must deploy agile benchmarking tools to protect operating margins."
+                "headline": "PORT OPERATIONS: UAE CONTAINER PLUNGE",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "AD Ports container volumes dropped 65% as regional navigation risks forced ocean carriers to offload cargo outside the Gulf. Shippers must deploy overland trucking networks to bypass maritime bottlenecks."
             },
             {
                 "slide_index": 8,
