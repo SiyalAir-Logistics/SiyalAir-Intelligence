@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR EXPANDS FORCED LABOR TARIFFS",
+        "hookTitle": "PANAMA CANAL AUCTION SURGES TO RECORD HIGH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
+                "headline": "CANAL TRANSIT: PANAMA AUCTION SURCHARGE",
+                "teaserTitle": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is advancing Section three oh one tariffs on sixty trading partners for forced labor violations. Importers face immediate double-digit duty increases and strict provenance audits."
+                "narration_line": "A commercial tanker paid a record four point six million dollars to bypass Panama Canal queues. Vessel operators must weigh multi-million-dollar slot fees against costly two-week detours around Cape Horn."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
-                "teaserTitle": "DEFENSE LOGISTICS: BATTERY SUPPLY CONTRACTS",
+                "headline": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Two commercial oil tankers were struck during outbound transits through the Strait of Hormuz. Marine underwriters have increased war risk insurance premiums as regional shipping volumes decline sixty-five percent."
+                "narration_line": "DHL Express completed a two hundred and four million dollar expansion in Shenzhen, tripling dedicated cargo processing capacity. Forwarders gain critical air freight capacity to handle surging South China ecommerce volumes."
             },
             {
                 "slide_index": 3,
-                "headline": "DEFENSE LOGISTICS: BATTERY SUPPLY CONTRACTS",
-                "teaserTitle": "BORDER COMPLIANCE: CROSS-BORDER CONTRABAND",
+                "headline": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
+                "teaserTitle": "CARGO SECURITY: DATA CENTER FREIGHT THEFT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Pentagon executed over two billion dollars in loan commitments to secure domestic battery and mineral supply chains. The initiative establishes dedicated sovereign raw material pipelines for critical defense manufacturing."
+                "narration_line": "A cybersecurity breach at Uber Freight compromised over one million files, exposing carrier credentials and shipment tracking records. Logistics networks face severe risks of fraudulent load deflection and carrier impersonation."
             },
             {
                 "slide_index": 4,
-                "headline": "BORDER COMPLIANCE: CROSS-BORDER CONTRABAND",
-                "teaserTitle": "EXPORT CONTROLS: BAE DEFENSE PENALTIES",
+                "headline": "CARGO SECURITY: DATA CENTER FREIGHT THEFT",
+                "teaserTitle": "RAIL REGULATION: UP-NS MERGER OPPOSITION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Customs officials seized six point six million dollars in unmanifested vapes along northern border commercial lanes. Federal inspectors have instituted secondary screening protocols, increasing linehaul transit dwell times."
+                "narration_line": "Organized theft rings stole one hundred and eleven million dollars in data center components using staged highway collisions. Shippers are deploying armed dual-driver escorts to protect sensitive semiconductor shipments."
             },
             {
                 "slide_index": 5,
-                "headline": "EXPORT CONTROLS: BAE DEFENSE PENALTIES",
-                "teaserTitle": "FLEET CAPACITY: CDL RESTRICTIONS",
+                "headline": "RAIL REGULATION: UP-NS MERGER OPPOSITION",
+                "teaserTitle": "TRADE COMPLIANCE: EU DE MINIMIS ELIMINATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "BAE Systems reached a thirty-six million dollar settlement over federal arms export regulation breaches. The State Department suspended eighteen million dollars of the fine pending verified internal compliance upgrades."
+                "narration_line": "Six state attorneys general filed formal objections against the proposed Union Pacific and Norfolk Southern merger. Regulators warn the rail consolidation could restrict regional competition and escalate long-haul freight rates."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEET CAPACITY: CDL RESTRICTIONS",
-                "teaserTitle": "PORT OPERATIONS: BUENAVENTURA DIVERSIONS",
+                "headline": "TRADE COMPLIANCE: EU DE MINIMIS ELIMINATION",
+                "teaserTitle": "PORT SECURITY: LONDON GATEWAY DRUG SEIZURE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "States are tightening operating rules on non-domiciled commercial driver licenses across national corridors. Industry analysts warn the policy shifts could remove over two hundred thousand drivers from freight networks."
+                "narration_line": "Air cargo demand slumped across Europe following the complete elimination of duty-free de minimis import exemptions. Online retailers now face mandatory border clearance fees on every inbound parcel."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT OPERATIONS: BUENAVENTURA DIVERSIONS",
+                "headline": "PORT SECURITY: LONDON GATEWAY DRUG SEIZURE",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "CMA CGM is initiating emergency container ship diversions away from severe port congestion in Buenaventura. Shippers face transit delays exceeding twelve days alongside secondary Pacific feeder surcharges."
+                "narration_line": "UK border officials seized three hundred and thirteen million dollars of contraband concealed in London Gateway reefer containers. Cold chain importers face severe terminal inspection delays and escalating refrigerated dwell fees."
             },
             {
                 "slide_index": 8,

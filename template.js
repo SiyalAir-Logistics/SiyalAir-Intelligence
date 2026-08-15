@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR tariffs on 60 nations and renewed Hormuz maritime attacks trigger immediate cross-border compliance audits and severe shipping surcharges."
+        "titleWhite": "PANAMA AUCTION",
+        "titleBlue": "SURCHARGE",
+        "footerSummary": "Record $4.6M Panama Canal slot auction and rampant $111M tech freight theft escalate transit premiums and cargo security protocols worldwide."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "CANAL TRANSIT: PANAMA AUCTION SURCHARGE",
             "paragraphs": [
-                "The Office of the United States Trade Representative confirmed it is advancing Section 301 tariffs targeting 60 trading partners linked to forced-labor violations as Section 122 measures expire. The enforcement action mandates immediate origin tracing across intermediate supply chains to prevent illicit transshipment through third-party hubs.",
-                "Enterprise importers face sudden double-digit tariff escalations and heightened customs inspection holds at major ports of entry. Procurement leaders must accelerate multi-tier supplier mapping and deploy forensic provenance documentation to avoid compounding port demurrage penalties."
+                "An empty liquefied petroleum gas tanker paid a record $4.6M auction fee to bypass escalating vessel transit queues at the Panama Canal. The historic clearing price surpasses the prior high of $3.98M as geopolitical conflicts force commercial operators to reroute from traditional maritime bottlenecks.",
+                "Bulk energy charterers and container carriers face unprecedented capital outlays to secure expedited transit windows across the isthmus. Logistics planners must balance 14-day detour schedules around Cape Horn against seven-figure canal slot premiums that directly erode voyage operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
+            "nextUpTease": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T16:20:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T20:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
+            "heading": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
             "paragraphs": [
-                "Two commercial tankers sustained strikes during outbound transits through the Strait of Hormuz overnight, triggering urgent security advisories from UKMTO and regional authorities. The escalation compounds operating constraints across Middle Eastern energy corridors where regional container throughput has dropped by up to 65%.",
-                "Ocean carriers and charterers face immediate spikes in war risk insurance premiums alongside extended vessel turnaround delays. Logistics directors must budget for emergency bunker surcharges and evaluate multimodal bypass routes via overland rail links to protect critical delivery schedules."
+                "DHL Express completed a $204M infrastructure expansion at its Shenzhen gateway, tripling the facility's dedicated air cargo handling throughput. The modernized facility integrates automated sorting lines to process surging cross-border ecommerce volumes moving between South China and Western markets.",
+                "Air freight forwarders gain critical outbound uplift reliability ahead of projected Q4 export peaks across Asian manufacturing centers. Shippers must secure block space agreements early to capitalize on expanded gateway capacity and mitigate potential express rate spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEFENSE LOGISTICS: BATTERY SUPPLY CONTRACTS",
+            "nextUpTease": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T19:04:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T21:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "DEFENSE LOGISTICS: BATTERY SUPPLY CONTRACTS",
+            "heading": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
             "paragraphs": [
-                "The Pentagon's Office of Strategic Capital executed over $2B in conditional loan commitments to secure domestic battery manufacturing and critical mineral refining. Contracts awarded to Sila Technologies, Sunrise Energy Metals, and Niron Magnetics establish direct commercial pipelines for defense and industrial electrification.",
-                "High-tech manufacturers and automotive supply chains face intense allocation competition as state-backed contracts lock down sovereign raw mineral capacity. Strategic sourcing managers must secure multi-year off-take agreements to insulate component assembly lines from structural upstream material deficits."
+                "A major cybersecurity incident compromised over 1M internal digital files at Uber Freight, exposing sensitive motor carrier credentials and shipment tracking records. Forensic investigators confirmed unauthorized actors accessed proprietary broker databases via sophisticated identity-spoofing vectors.",
+                "Freight brokerages and logistics intermediaries face heightened exposure to automated load-deflection scams and fraudulent carrier impersonation. Risk managers must immediately enforce dual-factor bill-of-lading verifications and re-audit third-party API integration endpoints to prevent illicit load diversion."
             ],
             "imageUrl": "",
-            "nextUpTease": "BORDER COMPLIANCE: CROSS-BORDER CONTRABAND",
+            "nextUpTease": "CARGO SECURITY: DATA CENTER FREIGHT THEFT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T15:30:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T07:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "BORDER COMPLIANCE: CROSS-BORDER CONTRABAND",
+            "heading": "CARGO SECURITY: DATA CENTER FREIGHT THEFT",
             "paragraphs": [
-                "Border protection officials intercepted $6.6M in illicit vapes and unmanifested nicotine pouches from commercial tractor-trailers crossing the northern border over a 4-day period. The enforcement wave prompted federal authorities to implement 100% secondary physical screenings across designated commercial linehaul gateways.",
-                "Cross-border motor carriers face severe border crossing delays and surging dwell times along critical US-Canada trade lanes. Shippers moving cross-border freight must enforce pre-gate seal verification and electronic cargo manifests to avoid extended border holds and driver detention penalties."
+                "Coordinated freight theft rings stole nearly $111M in high-value data center components and AI processors using deceptive bump-and-run tactics along US interstate corridors. Criminal syndicates intentionally stage minor highway collisions to force linehaul drivers out of vehicles before seizing loaded semi-trailers.",
+                "High-tech equipment manufacturers face mounting inventory write-offs and rising specialized cargo insurance deductibles across domestic trucking lanes. Supply chain security directors are deploying armed dual-driver convoys and mandatory geo-fenced transit rules to safeguard critical semiconductor freight."
             ],
             "imageUrl": "",
-            "nextUpTease": "EXPORT CONTROLS: BAE DEFENSE PENALTIES",
+            "nextUpTease": "RAIL REGULATION: UP-NS MERGER OPPOSITION",
             "tags": [
                 "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T17:45:00Z",
+                "Published: 2026-08-14T22:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EXPORT CONTROLS: BAE DEFENSE PENALTIES",
+            "heading": "RAIL REGULATION: UP-NS MERGER OPPOSITION",
             "paragraphs": [
-                "BAE Systems agreed to a $36M settlement with the Department of State to resolve widespread violations of the International Traffic in Arms Regulations. The regulatory agreement suspends $18M of the total fine contingent upon comprehensive enterprise-wide compliance upgrades and audited internal control overhauls.",
-                "Aerospace and defense contractors face stricter sub-tier vendor vetting and mandatory ITAR compliance certification across global manufacturing partners. Trade compliance officers must audit technical data sharing protocols to prevent severe statutory fines and automated export license suspensions."
+                "Six state attorneys general filed formal joint objections against the proposed Union Pacific and Norfolk Southern railroad combination, warning the consolidation will diminish regional freight competition. The regulatory challenge argues the merger could restrict shipper routing options and escalate intermodal rail rates across East-West corridors.",
+                "Industrial shippers and intermodal rail users face mounting regulatory uncertainty surrounding long-term network interchange commitments. Enterprise transport directors must preserve dual-served rail sidings and negotiate protective contractual clauses to guard against future service consolidations."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET CAPACITY: CDL RESTRICTIONS",
+            "nextUpTease": "TRADE COMPLIANCE: EU DE MINIMIS ELIMINATION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T14:15:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T18:40:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FLEET CAPACITY: CDL RESTRICTIONS",
+            "heading": "TRADE COMPLIANCE: EU DE MINIMIS ELIMINATION",
             "paragraphs": [
-                "State licensing agencies in Rhode Island and Utah instituted stringent operating limits on non-domiciled Commercial Driver's Licenses, tightening available surface transport capacity. The state-level regulatory enforcement could remove more than 200,000 foreign truck drivers from national freight networks.",
-                "Over-the-road freight brokers and shippers face escalating contract rate pressure and shrinking spot capacity across core domestic long-haul lanes. Fleet managers must accelerate primary carrier retention programs and expand dedicated capacity commitments to mitigate tightening driver availability."
+                "Inbound air cargo tonnages and commercial charter rates dropped sharply across Europe following the formal elimination of the duty-free de minimis threshold for low-value parcels. Customs agencies now enforce full VAT documentation and standard customs declarations on all incoming ecommerce packages regardless of declared value.",
+                "Cross-border direct-to-consumer retailers face severe border clearance delays and mandatory entry filing fees that erode low-margin product lines. International brands must overhaul digital clearance systems and transition high-velocity SKU inventory into bonded European distribution hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT OPERATIONS: BUENAVENTURA DIVERSIONS",
+            "nextUpTease": "PORT SECURITY: LONDON GATEWAY DRUG SEIZURE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-14T18:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-14T17:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORT OPERATIONS: BUENAVENTURA DIVERSIONS",
+            "heading": "PORT SECURITY: LONDON GATEWAY DRUG SEIZURE",
             "paragraphs": [
-                "CMA CGM announced emergency vessel diversions away from the Port of Buenaventura as severe landside disruptions and terminal backlogs paralyze regular container operations. Container lines are offloading regional import cargo at alternate Pacific terminals to avoid protracted berthing delays.",
-                "Importers across western South America face compounding feeder freight surcharges and transit schedule delays exceeding 12 days. Supply chain directors must reroute incoming container allocations through secondary gateway ports to bypass persistent terminal congestion."
+                "Border authorities at London Gateway intercepted a 2.9-tonne shipment of cocaine valued at $313M concealed inside commercial reefer containers of South American bananas. The multi-agency bust triggered comprehensive secondary screening protocols on all inbound agricultural reefer lines arriving from the region.",
+                "Perishable food importers face acute container dwell times and elevated terminal inspection charges across major UK container terminals. Cold chain logistics managers must factor in multi-day inspection buffers and verify strict phytosanitary chain-of-custody logs to avoid spoiled cargo claims."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-15T08:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T15:17:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
-                "visual_caption": "The USTR is enforcing Section 301 tariffs across 60 trading partners over forced-labor violations. Importers face immediate double-digit duty hikes and mandatory supply chain provenance audits."
+                "headline": "CANAL TRANSIT: PANAMA AUCTION SURCHARGE",
+                "teaserTitle": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
+                "visual_caption": "A commercial tanker paid a record $4.6M to bypass Panama Canal queues. Operators must weigh multi-million-dollar slot fees against costly 14-day detours around Cape Horn."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
-                "teaserTitle": "DEFENSE LOGISTICS: BATTERY SUPPLY CONTRACTS",
-                "visual_caption": "Two tankers sustained strikes during outbound transits through the Strait of Hormuz. Marine underwriters raised war risk premiums as regional container volumes fell 65%."
+                "headline": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
+                "visual_caption": "DHL Express completed a $204M expansion in Shenzhen, tripling dedicated cargo processing capacity. Forwarders gain critical air freight capacity to handle surging South China ecommerce volumes."
             },
             {
                 "slide_index": 3,
-                "headline": "DEFENSE LOGISTICS: BATTERY SUPPLY CONTRACTS",
-                "teaserTitle": "BORDER COMPLIANCE: CROSS-BORDER CONTRABAND",
-                "visual_caption": "The Pentagon awarded over $2B in loans to secure domestic battery and mineral supply chains. The move locks down sovereign material capacity for high-tech manufacturing."
+                "headline": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
+                "teaserTitle": "CARGO SECURITY: DATA CENTER FREIGHT THEFT",
+                "visual_caption": "A cybersecurity breach at Uber Freight compromised over 1M files, exposing carrier credentials and shipment records. Logistics networks face severe risks of fraudulent load deflection and carrier impersonation."
             },
             {
                 "slide_index": 4,
-                "headline": "BORDER COMPLIANCE: CROSS-BORDER CONTRABAND",
-                "teaserTitle": "EXPORT CONTROLS: BAE DEFENSE PENALTIES",
-                "visual_caption": "Border agents seized $6.6M in contraband vapes from commercial trucks in a 4-day crackdown. Authorities implemented secondary physical inspections, escalating border crossing dwell times."
+                "headline": "CARGO SECURITY: DATA CENTER FREIGHT THEFT",
+                "teaserTitle": "RAIL REGULATION: UP-NS MERGER OPPOSITION",
+                "visual_caption": "Organized theft rings stole $111M in data center components using staged highway collisions. Shippers are deploying armed dual-driver escorts to protect sensitive semiconductor shipments."
             },
             {
                 "slide_index": 5,
-                "headline": "EXPORT CONTROLS: BAE DEFENSE PENALTIES",
-                "teaserTitle": "FLEET CAPACITY: CDL RESTRICTIONS",
-                "visual_caption": "BAE Systems agreed to a $36M settlement over export control violations under ITAR. Regulators suspended $18M of the penalty pending internal compliance overhauls."
+                "headline": "RAIL REGULATION: UP-NS MERGER OPPOSITION",
+                "teaserTitle": "TRADE COMPLIANCE: EU DE MINIMIS ELIMINATION",
+                "visual_caption": "6 state attorneys general filed formal objections against the proposed UP-NS rail merger. Regulators warn consolidation could restrict regional competition and escalate long-haul freight rates."
             },
             {
                 "slide_index": 6,
-                "headline": "FLEET CAPACITY: CDL RESTRICTIONS",
-                "teaserTitle": "PORT OPERATIONS: BUENAVENTURA DIVERSIONS",
-                "visual_caption": "State regulators tightened limits on non-domiciled CDL credentials across long-haul networks. Analysts project the rules could sideline over 200K drivers from commercial fleets."
+                "headline": "TRADE COMPLIANCE: EU DE MINIMIS ELIMINATION",
+                "teaserTitle": "PORT SECURITY: LONDON GATEWAY DRUG SEIZURE",
+                "visual_caption": "Air cargo demand slumped across Europe following the complete elimination of duty-free de minimis import exemptions. Online retailers now face mandatory border clearance fees on every inbound parcel."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT OPERATIONS: BUENAVENTURA DIVERSIONS",
+                "headline": "PORT SECURITY: LONDON GATEWAY DRUG SEIZURE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "CMA CGM implemented emergency container diversions away from chronic congestion at Buenaventura. Shippers encounter lead-time delays exceeding 12 days and Pacific feeder surcharges."
+                "visual_caption": "UK border officials seized $313M of contraband concealed in London Gateway reefer containers. Cold chain importers face severe terminal inspection delays and escalating refrigerated dwell fees."
             },
             {
                 "slide_index": 8,
