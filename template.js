@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR triggers sweeping Section 301 tariffs across 60 trading nations as canal bypass fees top $4.6M."
+        "titleWhite": "EXPORT CONTROL",
+        "titleBlue": "PENALTY",
+        "footerSummary": "State Department penalizes BAE Systems $36M as DHL executes $204M Shenzhen air gateway expansion."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "TRADE COMPLIANCE: EXPORT CONTROL PENALTY",
             "paragraphs": [
-                "The Office of the United States Trade Representative formally enacted broad forced labor import duties covering 60 partner nations under Section 301. The regulatory action replaces expired Section 122 measures and immediately establishes mandatory chain-of-custody audits at US ports of entry.",
-                "Importers face severe border inspection holds and heightened commercial bonding liabilities across multi-tier raw material origins. Corporate trade compliance teams must integrate granular digital traceability platforms to verify labor standards and prevent cargo seizures."
+                "The US Department of State concluded an extensive regulatory enforcement action against BAE Systems, assessing a $36M civil penalty for repeated violations of the International Traffic in Arms Regulations. Federal regulators agreed to suspend $18M of the total financial assessment on the strict condition that the defense contractor allocates those funds directly toward remedial compliance infrastructure.",
+                "Global aerospace and defense manufacturers face heightened regulatory scrutiny across multi-tier supplier networks and international technology transfer workflows. Enterprise trade compliance officers must institute rigorous continuous internal auditing and chain-of-custody tracking to avert severe export licensing suspensions."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANAL TRANSIT: RECORD AUCTION SURCHARGE",
+            "nextUpTease": "AIR CARGO: SHENZHEN HUB EXPANSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T18:45:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T20:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CANAL TRANSIT: RECORD AUCTION SURCHARGE",
+            "heading": "AIR CARGO: SHENZHEN HUB EXPANSION",
             "paragraphs": [
-                "Transit auction premiums at the Panama Canal reached an all-time peak of $4.6M as LPG carriers bid aggressively to skip escalating vessel queues. Prolonged geopolitical rerouting away from the Suez corridor has intensified congestion across primary Western Hemisphere maritime locks.",
-                "Bulk energy and containerized cargo operators are absorbing record spot transit surcharges that destabilize baseline voyage margins. Freight planners must weigh multi-million-dollar canal priority slots against 14-day transit penalties around Cape Horn."
+                "DHL Express completed a $204M capital expansion of its primary Shenzhen express air gateway, effectively tripling regional sorting and cargo handling capacity across southern China. The newly expanded terminal integrates advanced automated sorting technologies to manage sustained surges in regional and cross-border ecommerce volume.",
+                "Transpacific and intra-Asia air freight forwarders gain immediate access to enhanced processing speeds and expanded pallet build-up slots during the peak shipping season. Air freight procurement teams must leverage expanded express gateway throughput to mitigate congestion surcharges and bypass secondary hub delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBER RISK: FREIGHT PLATFORM BREACH",
+            "nextUpTease": "PORT EMISSIONS: CLEAN VESSEL INCENTIVES",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T19:10:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T21:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CYBER RISK: FREIGHT PLATFORM BREACH",
+            "heading": "PORT EMISSIONS: CLEAN VESSEL INCENTIVES",
             "paragraphs": [
-                "Uber Freight confirmed an active cybersecurity incident after unauthorized threat actors accessed approximately 1M operational and carrier identity records. The intrusion exploited broker communication vectors to intercept sensitive rate confirmations, dispatch manifests, and driver verification credentials.",
-                "Digital freight brokerages and enterprise shippers face acute exposure to identity theft and fraudulent shipment redirection. Risk managers must enforce multi-factor carrier authentication protocols and audit third-party logistics API integrations to safeguard tender execution."
+                "The Port of Los Angeles and Port of Long Beach announced a joint resolution to significantly expand financial incentive payouts for ocean carriers deploying ultra-low-emission and alternative-fuel container vessels. The expanded clean maritime program directly credits vessel operators based on audited greenhouse gas reductions during transpacific voyage transits.",
+                "Container liner operators face diverging port fee structures that penalize legacy heavy fuel oil vessels while subsidizing modern dual-fuel methanol and LNG tonnage. Ocean freight contract negotiators must account for preferential green berthing tariffs when modeling long-term San Pedro Bay carrier allocation costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO SECURITY: HIGH VALUE THEFT SURGE",
+            "nextUpTease": "FLEET SAFETY: COMMERCIAL TRUCK RECALL",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-15T08:30:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T19:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CARGO SECURITY: HIGH VALUE THEFT SURGE",
+            "heading": "FLEET SAFETY: COMMERCIAL TRUCK RECALL",
             "paragraphs": [
-                "Freight security investigators identified over $111M in targeted data center equipment thefts executed through coordinated staged-accident and driver impersonation tactics. Criminal rings are intercepting high-density server racks and semiconductor shipments across primary US interstate freight corridors.",
-                "Technology procurement teams and specialized logistics carriers are experiencing rapid spikes in transit insurance deductibles and high-value cargo exclusions. Shippers must deploy covert GPS tracking devices and mandate continuous dual-driver escorts for sensitive electronics freight."
+                "Commercial vehicle manufacturer PACCAR announced an urgent safety recall affecting 5,919 heavy-duty Kenworth and Peterbilt trucks due to a critical electrical defect capable of causing sudden in-transit power failures. Authorized dealer service networks have initiated mandatory hardware and wiring harness replacements across affected fleet customer locations.",
+                "Motor carriers and dedicated private fleet operators must pull affected power units from service schedules, creating localized capacity deficits across regional truckload lanes. Logistics managers must coordinate immediate fleet maintenance reallocations to prevent route disruptions and satisfy shipper service-level agreements."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
+            "nextUpTease": "TRADE POLICY: DRONE COMPONENT TARIFFS",
             "tags": [
                 "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T21:15:00Z",
+                "Published: 2026-08-14T22:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
+            "heading": "TRADE POLICY: DRONE COMPONENT TARIFFS",
             "paragraphs": [
-                "Maritime security agencies confirmed two additional commercial tanker attacks in the Strait of Hormuz, driving container throughput down 65% across regional terminals. Escalating drone and missile threats have forced international ocean carriers to halt scheduled feeder loops.",
-                "Energy and container supply chains face war risk premium increases exceeding 40% alongside severe vessel positioning deficits. Logistics directors must activate overland bonded trucking routes across the Arabian Peninsula to bypass the volatile maritime strait."
+                "The US Executive Branch enacted executive trade orders establishing immediate 100% ad valorem tariffs on foreign-manufactured commercial drones and specialized avionics sub-components. The targeted trade action aims to accelerate domestic manufacturing reshoring while restricting reliance on foreign unmanned aerial hardware.",
+                "Last-mile parcel delivery networks, agricultural logistics providers, and infrastructure inspection operators face sudden doubling of fleet expansion and equipment replacement costs. Supply chain strategists must accelerate domestic supplier vetting and restructure drone procurement budgets to maintain delivery automation roadmaps."
             ],
             "imageUrl": "",
-            "nextUpTease": "CROSS BORDER: EU DE MINIMIS REFORM",
+            "nextUpTease": "PORT SECURITY: CONTAINER NARCOTICS SEIZURE",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T19:04:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CROSS BORDER: EU DE MINIMIS REFORM",
+            "heading": "PORT SECURITY: CONTAINER NARCOTICS SEIZURE",
             "paragraphs": [
-                "European Union cross-border air freight volumes experienced sharp declines following the regulatory elimination of duty-free de minimis import exemptions. Customs authorities now enforce strict automated VAT assessment and formal entry declarations on all inbound low-value parcels.",
-                "Direct-to-consumer ecommerce retailers are confronting substantial clearance fee inflation and extended multi-day hub processing delays. Global brands must shift toward localized European distribution hubs to maintain next-day fulfillment timelines and control import administrative overhead."
+                "UK border security authorities at London Gateway intercepted a 2.9 metric ton illicit narcotics consignment concealed inside a commercial refrigerated banana shipment originating from South America, valued at $313M. Border force officials have increased secondary non-intrusive container scanning and physical strip-searches across high-risk reefer import lanes.",
+                "Refrigerated produce importers face prolonged customs clearance dwell times, potential cold-chain integrity breaches, and elevated terminal demurrage liability. Freight forwarders must reinforce upstream container seal validation and implement tamper-evident telemetry to satisfy heightened customs security profiles."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL INTERMODAL: CALIFORNIA SURCHARGE HIKE",
+            "nextUpTease": "CARRIER CAPACITY: VLCC FLEET EXPANSION",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-14T17:50:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T15:17:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAIL INTERMODAL: CALIFORNIA SURCHARGE HIKE",
+            "heading": "CARRIER CAPACITY: VLCC FLEET EXPANSION",
             "paragraphs": [
-                "Union Pacific implemented an emergency $1,000 per box congestion surcharge on outbound California intermodal traffic as container dwell times mounted. Surging peak-season import surges at West Coast marine terminals have overwhelmed regional ramp trackage and railcar availability.",
-                "Intermodal shippers moving freight into inland distribution hubs face immediate cost escalations and delayed rail ramp releases. Transportation buyers must leverage highway over-the-road surge capacity and flexible transloading yards to avoid captive rail bottlenecks."
+                "Minsheng Financial Leasing placed a major $500M order for 4 newbuild Very Large Crude Carriers with Chinese shipbuilders, expanding long-haul energy transport capacity. The long-term fleet commitment reflects robust structural demand projections for deep-sea crude routing across Asia and the Atlantic basin.",
+                "Global energy shippers and charterers are locking in multi-year vessel availability to guard against persistent geopolitical transit chokepoints and fleet aging. Logistics planners must balance rising long-term vessel charter commitments against heightened spot market volatility across critical maritime energy corridors."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-14T18:20:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-14T16:45:00Z",
                 "Status: Audited & True"
             ]
         }

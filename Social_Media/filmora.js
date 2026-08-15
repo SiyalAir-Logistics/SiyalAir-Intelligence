@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "CANAL TRANSIT: RECORD AUCTION SURCHARGE",
-                "visual_caption": "USTR implemented Section 301 forced labor tariffs covering 60 partner nations. Importers now face mandatory chain-of-custody audits at all US entry points."
+                "headline": "TRADE COMPLIANCE: EXPORT CONTROL PENALTY",
+                "teaserTitle": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "visual_caption": "The State Department penalized BAE Systems $36M for multiple arms export control violations. Half of the penalty is suspended to fund mandatory compliance remediation and internal supply chain auditing."
             },
             {
                 "slide_index": 2,
-                "headline": "CANAL TRANSIT: RECORD AUCTION SURCHARGE",
-                "teaserTitle": "CYBER RISK: FREIGHT PLATFORM BREACH",
-                "visual_caption": "Panama Canal queue-jump fees hit a record $4.6M amid severe regional vessel congestion. Carriers must weigh multi-million-dollar auction bids against 14-day Cape Horn detours."
+                "headline": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "teaserTitle": "PORT EMISSIONS: CLEAN VESSEL INCENTIVES",
+                "visual_caption": "DHL Express completed a $204M expansion of its Shenzhen air cargo hub. The facility triples regional handling throughput to support rising cross-border express volumes across Asian trade corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBER RISK: FREIGHT PLATFORM BREACH",
-                "teaserTitle": "CARGO SECURITY: HIGH VALUE THEFT SURGE",
-                "visual_caption": "Uber Freight confirmed a cyber breach compromising ~1M operational files and carrier profiles. Logistics teams must audit API connections and enforce multi-factor credential authentication."
+                "headline": "PORT EMISSIONS: CLEAN VESSEL INCENTIVES",
+                "teaserTitle": "FLEET SAFETY: COMMERCIAL TRUCK RECALL",
+                "visual_caption": "The Ports of Los Angeles and Long Beach approved expanded financial incentive programs for low-emission ocean vessels. Transpacific container carriers must deploy clean propulsion fleets to qualify for regional berthing discounts."
             },
             {
                 "slide_index": 4,
-                "headline": "CARGO SECURITY: HIGH VALUE THEFT SURGE",
-                "teaserTitle": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
-                "visual_caption": "Targeted theft rings have stolen >$111M in data center hardware using deceptive staging tactics. Tech shippers face surging insurance deductibles and require dual-driver security escorts."
+                "headline": "FLEET SAFETY: COMMERCIAL TRUCK RECALL",
+                "teaserTitle": "TRADE POLICY: DRONE COMPONENT TARIFFS",
+                "visual_caption": "Commercial truck manufacturer PACCAR announced an urgent recall of 5,919 vehicles due to severe electrical fire hazards. Fleet operators must ground affected units immediately for depot software and wiring remediation."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
-                "teaserTitle": "CROSS BORDER: EU DE MINIMIS REFORM",
-                "visual_caption": "Two tanker strikes in the Strait of Hormuz drove regional port volumes down 65%. Shippers are activating bonded overland road corridors to bypass maritime choke points."
+                "headline": "TRADE POLICY: DRONE COMPONENT TARIFFS",
+                "teaserTitle": "PORT SECURITY: CONTAINER NARCOTICS SEIZURE",
+                "visual_caption": "US trade regulators imposed a 100% tariff on imported commercial drones and specialized flight components. Hardware importers must re-engineer procurement frameworks and establish domestic assembly lines to avoid punitive duties."
             },
             {
                 "slide_index": 6,
-                "headline": "CROSS BORDER: EU DE MINIMIS REFORM",
-                "teaserTitle": "RAIL INTERMODAL: CALIFORNIA SURCHARGE HIKE",
-                "visual_caption": "EU air cargo volumes dropped following the regulatory repeal of de minimis tax exemptions. Cross-border sellers are establishing local EU fulfillment hubs to bypass import friction."
+                "headline": "PORT SECURITY: CONTAINER NARCOTICS SEIZURE",
+                "teaserTitle": "CARRIER CAPACITY: VLCC FLEET EXPANSION",
+                "visual_caption": "UK border authorities seized over $313M worth of cocaine hidden within a commercial banana shipment at London Gateway. Shippers face intensified container scanning delays and elevated demurrage risks across British ports."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL INTERMODAL: CALIFORNIA SURCHARGE HIKE",
+                "headline": "CARRIER CAPACITY: VLCC FLEET EXPANSION",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Union Pacific instituted a $1,000 per box intermodal surcharge on California outbound corridors. Logistics planners are shifting volume into OTR highway capacity to circumvent rail delays."
+                "visual_caption": "Minsheng Financial Leasing placed a $500M order for 4 new VLCC crude tankers in China. Energy logistics operators are locking in long-term vessel capacity to offset persistent Middle East transit risks."
             },
             {
                 "slide_index": 8,

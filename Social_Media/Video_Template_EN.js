@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR ENACTS TARIFFS ON SIXTY NATIONS",
+        "hookTitle": "EXPORT CONTROL PENALTY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "CANAL TRANSIT: RECORD AUCTION SURCHARGE",
+                "headline": "TRADE COMPLIANCE: EXPORT CONTROL PENALTY",
+                "teaserTitle": "AIR CARGO: SHENZHEN HUB EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative has implemented forced labor tariffs on sixty nations under Section three oh one. Importers now face mandatory chain of custody documentation audits at all border crossings."
+                "narration_line": "The State Department penalized BAE Systems thirty-six million dollars for multiple arms export control violations. Half of the fine is suspended to fund mandatory compliance remediation and internal supply chain auditing."
             },
             {
                 "slide_index": 2,
-                "headline": "CANAL TRANSIT: RECORD AUCTION SURCHARGE",
-                "teaserTitle": "CYBER RISK: FREIGHT PLATFORM BREACH",
+                "headline": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "teaserTitle": "PORT EMISSIONS: CLEAN VESSEL INCENTIVES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Panama Canal auction fees reached a record four point six million dollars as vessels bypass rising congestion. Ocean carriers must now weigh multi-million-dollar transit bids against two-week maritime detours."
+                "narration_line": "DHL Express completed a two hundred four million dollar expansion of its Shenzhen air cargo hub. The facility triples regional handling throughput to support rising cross-border express volumes across Asian trade corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBER RISK: FREIGHT PLATFORM BREACH",
-                "teaserTitle": "CARGO SECURITY: HIGH VALUE THEFT SURGE",
+                "headline": "PORT EMISSIONS: CLEAN VESSEL INCENTIVES",
+                "teaserTitle": "FLEET SAFETY: COMMERCIAL TRUCK RECALL",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Uber Freight confirmed a data breach exposing nearly one million operational records and carrier identities. Shippers must immediately audit digital API integrations and enforce multi-factor authentication across active broker portals."
+                "narration_line": "The Ports of Los Angeles and Long Beach approved expanded financial incentive programs for low-emission ocean vessels. Transpacific container carriers must deploy clean propulsion fleets to qualify for regional berthing discounts."
             },
             {
                 "slide_index": 4,
-                "headline": "CARGO SECURITY: HIGH VALUE THEFT SURGE",
-                "teaserTitle": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
+                "headline": "FLEET SAFETY: COMMERCIAL TRUCK RECALL",
+                "teaserTitle": "TRADE POLICY: DRONE COMPONENT TARIFFS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Cargo theft syndicates have stolen over one hundred eleven million dollars in high-tech data center equipment. Shippers are facing increased insurance premiums and must mandate continuous dual-driver escorts on transit routes."
+                "narration_line": "Commercial truck manufacturer PACCAR announced an urgent recall of five thousand nine hundred nineteen vehicles due to severe electrical fire hazards. Fleet operators must ground affected units immediately for depot software and wiring remediation."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
-                "teaserTitle": "CROSS BORDER: EU DE MINIMIS REFORM",
+                "headline": "TRADE POLICY: DRONE COMPONENT TARIFFS",
+                "teaserTitle": "PORT SECURITY: CONTAINER NARCOTICS SEIZURE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Two commercial tankers were attacked in the Strait of Hormuz, cutting regional port volumes by sixty-five percent. Shippers are activating bonded overland corridors across the Arabian Peninsula to maintain freight movements."
+                "narration_line": "United States trade regulators imposed a one hundred percent tariff on imported drones and specialized flight components. Hardware importers must re-engineer procurement frameworks and establish domestic assembly lines to avoid punitive duties."
             },
             {
                 "slide_index": 6,
-                "headline": "CROSS BORDER: EU DE MINIMIS REFORM",
-                "teaserTitle": "RAIL INTERMODAL: CALIFORNIA SURCHARGE HIKE",
+                "headline": "PORT SECURITY: CONTAINER NARCOTICS SEIZURE",
+                "teaserTitle": "CARRIER CAPACITY: VLCC FLEET EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "European air freight demand dropped sharply following the complete elimination of duty-free de minimis parcel thresholds. Ecommerce brands are establishing regional European warehouses to control customs fees and fulfillment delays."
+                "narration_line": "United Kingdom border authorities seized over three hundred million dollars worth of cocaine hidden within a commercial banana shipment at London Gateway. Shippers face intensified container scanning delays and elevated demurrage risks across British ports."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL INTERMODAL: CALIFORNIA SURCHARGE HIKE",
+                "headline": "CARRIER CAPACITY: VLCC FLEET EXPANSION",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Union Pacific imposed a one thousand dollar intermodal surcharge on California box traffic amid severe terminal congestion. Shippers are deploying over-the-road trucking capacity and local transload facilities to bypass rail bottlenecks."
+                "narration_line": "Minsheng Financial Leasing placed a five hundred million dollar order for four new very large crude carriers in China. Energy logistics operators are locking in long-term vessel capacity to offset persistent Middle East transit risks."
             },
             {
                 "slide_index": 8,
