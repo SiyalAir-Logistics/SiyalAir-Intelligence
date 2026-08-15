@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL FEES HIT $4.6M AS STRAIT OF HORMUZ DISRUPTIONS ACCELERATE",
+        "hookTitle": "TRADE POLICY: FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PANAMA CANAL: RECORD AUCTION BIDS",
-                "teaserTitle": "INLAND WATERWAYS: RHINE FLEET OVERHAUL",
+                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "teaserTitle": "RAIL FREIGHT: UP-NS MERGER OPPOSITION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty gas carrier paid a record four point six million dollars to bypass the Panama Canal transit backlog. Global rerouting and water conservation limits are forcing ocean carriers into intense bidding wars."
+                "narration_line": "The United States Trade Representative is rolling out Section three oh one tariffs on sixty nations. Shippers face higher landed costs and strict supply chain audits across international sourcing networks."
             },
             {
                 "slide_index": 2,
-                "headline": "INLAND WATERWAYS: RHINE FLEET OVERHAUL",
-                "teaserTitle": "PERSIAN GULF: HORMUZ VOLUME CONTRACTION",
+                "headline": "RAIL FREIGHT: UP-NS MERGER OPPOSITION",
+                "teaserTitle": "MIDDLE EAST: MSC MULTIMODAL CORRIDOR",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "German barge operator HGK unveiled a fourteen point five billion dollar fleet renewal plan to combat severe Rhine droughts. The proposed shallow draft vessels aim to secure critical inland European cargo corridors."
+                "narration_line": "Six state attorneys general have filed formal opposition against the proposed Union Pacific and Norfolk Southern merger. Industrial rail shippers face potential captive rate increases and reduced routing competition."
             },
             {
                 "slide_index": 3,
-                "headline": "PERSIAN GULF: HORMUZ VOLUME CONTRACTION",
-                "teaserTitle": "FREIGHT CLASSIFICATION: NMFC DENSITY OVERHAUL",
+                "headline": "MIDDLE EAST: MSC MULTIMODAL CORRIDOR",
+                "teaserTitle": "TRADE POLICY: 100% DRONE TARIFFS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Container volumes across United Arab Emirates ports plunged sixty-five percent following repeated maritime security incidents near the Strait of Hormuz. Shippers are rapidly diverting regional cargo onto overland trucking routes and bypass ports."
+                "narration_line": "Mediterranean Shipping Company launched a multimodal Saudi land bridge to bypass escalating vessel disruptions in the Strait of Hormuz. Shippers gain reliable transit while mitigating surging maritime war risk premiums."
             },
             {
                 "slide_index": 4,
-                "headline": "FREIGHT CLASSIFICATION: NMFC DENSITY OVERHAUL",
-                "teaserTitle": "CROSS-BORDER TRADE: DE MINIMIS ELIMINATION",
+                "headline": "TRADE POLICY: 100% DRONE TARIFFS",
+                "teaserTitle": "AIR CARGO: EU DE MINIMIS CONTRACTION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Less than truckload motor carriers are demanding faster shipper adoption of density based freight classification standards. Misclassified freight profiles are triggering severe reweigh penalties and invoicing friction across national networks."
+                "narration_line": "The White House enacted one hundred percent tariffs on foreign-made drones and critical guidance components. Commercial operators face immediate hardware cost increases and must qualify alternative domestic component suppliers."
             },
             {
                 "slide_index": 5,
-                "headline": "CROSS-BORDER TRADE: DE MINIMIS ELIMINATION",
-                "teaserTitle": "AIR CARGO: SHENZHEN CAPACITY EXPANSION",
+                "headline": "AIR CARGO: EU DE MINIMIS CONTRACTION",
+                "teaserTitle": "CRITICAL MINERALS: $2B PENTAGON FUNDING",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A federal trade court upheld the complete elimination of de minimis customs exemptions, generating over one billion dollars in duty collections. Cross border ecommerce platforms face mandatory formal entries and heightened border clearance scrutiny."
+                "narration_line": "European air cargo volumes slumped following the full elimination of duty-free de minimis exemptions on cross-border shipments. Forwarders face declining express yields and extended customs clearance dwell times across continental hubs."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: SHENZHEN CAPACITY EXPANSION",
-                "teaserTitle": "FREIGHT SECURITY: HIGH-VALUE FREIGHT HEISTS",
+                "headline": "CRITICAL MINERALS: $2B PENTAGON FUNDING",
+                "teaserTitle": "TRUCKING CAPACITY: CDL COMPLIANCE CRACKDOWN",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "DHL Express committed over two hundred million dollars to triple handling capacity at its Shenzhen air gateway. The massive facility expansion positions the carrier to capture resilient cross border express freight volumes."
+                "narration_line": "The Pentagon signed over two billion dollars in funding commitments to build domestic battery and critical mineral infrastructure. Manufacturers secure localized supply lines to insulate strategic production from foreign export bans."
             },
             {
                 "slide_index": 7,
-                "headline": "FREIGHT SECURITY: HIGH-VALUE FREIGHT HEISTS",
+                "headline": "TRUCKING CAPACITY: CDL COMPLIANCE CRACKDOWN",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Organized freight theft networks stole one hundred eleven million dollars in data center cargo using staging and driver diversion tactics. Logistics providers are mandating secondary biometric authentication and strict carrier verification protocols."
+                "narration_line": "State crackdowns on non-domiciled driver licenses could sideline up to two hundred thousand commercial truck drivers nationwide. Fleet managers face sudden capacity deficits and rising linehaul spot rates across regional corridors."
             },
             {
                 "slide_index": 8,

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PANAMA CANAL: RECORD AUCTION BIDS",
-                "teaserTitle": "INLAND WATERWAYS: RHINE FLEET OVERHAUL",
-                "visual_caption": "An empty gas carrier paid a record $4.6M to bypass the Panama Canal transit backlog. Global rerouting and water conservation limits are forcing ocean carriers into intense bidding wars."
+                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "teaserTitle": "RAIL FREIGHT: UP-NS MERGER OPPOSITION",
+                "visual_caption": "The USTR is rolling out Section 301 tariffs on 60 nations. Shippers face higher landed costs and strict audits across international sourcing networks."
             },
             {
                 "slide_index": 2,
-                "headline": "INLAND WATERWAYS: RHINE FLEET OVERHAUL",
-                "teaserTitle": "PERSIAN GULF: HORMUZ VOLUME CONTRACTION",
-                "visual_caption": "German barge operator HGK unveiled a $14.5B fleet renewal plan to combat severe Rhine droughts. The proposed shallow-draft vessels aim to secure critical inland European cargo corridors."
+                "headline": "RAIL FREIGHT: UP-NS MERGER OPPOSITION",
+                "teaserTitle": "MIDDLE EAST: MSC MULTIMODAL CORRIDOR",
+                "visual_caption": "Six state AGs have filed formal opposition against the proposed UP-NS rail merger. Industrial shippers face potential captive rate increases and reduced routing competition."
             },
             {
                 "slide_index": 3,
-                "headline": "PERSIAN GULF: HORMUZ VOLUME CONTRACTION",
-                "teaserTitle": "FREIGHT CLASSIFICATION: NMFC DENSITY OVERHAUL",
-                "visual_caption": "Container volumes across UAE ports plunged 65% following repeated maritime security incidents near the Strait of Hormuz. Shippers are rapidly diverting regional cargo onto overland trucking routes and bypass ports."
+                "headline": "MIDDLE EAST: MSC MULTIMODAL CORRIDOR",
+                "teaserTitle": "TRADE POLICY: 100% DRONE TARIFFS",
+                "visual_caption": "MSC launched a multimodal Saudi land bridge to bypass escalating disruptions in the Strait of Hormuz. Shippers gain reliable transit while mitigating surging maritime war risk premiums."
             },
             {
                 "slide_index": 4,
-                "headline": "FREIGHT CLASSIFICATION: NMFC DENSITY OVERHAUL",
-                "teaserTitle": "CROSS-BORDER TRADE: DE MINIMIS ELIMINATION",
-                "visual_caption": "LTL motor carriers are demanding faster shipper adoption of density-based freight classification standards. Misclassified freight profiles are triggering severe reweigh penalties and invoicing friction across national networks."
+                "headline": "TRADE POLICY: 100% DRONE TARIFFS",
+                "teaserTitle": "AIR CARGO: EU DE MINIMIS CONTRACTION",
+                "visual_caption": "The White House enacted 100% tariffs on foreign-made drones and critical components. Commercial operators face immediate hardware cost increases and must qualify domestic suppliers."
             },
             {
                 "slide_index": 5,
-                "headline": "CROSS-BORDER TRADE: DE MINIMIS ELIMINATION",
-                "teaserTitle": "AIR CARGO: SHENZHEN CAPACITY EXPANSION",
-                "visual_caption": "A federal trade court upheld the complete elimination of de minimis customs exemptions, generating over $1B in duty collections. Cross-border ecommerce platforms face mandatory formal entries and heightened border clearance scrutiny."
+                "headline": "AIR CARGO: EU DE MINIMIS CONTRACTION",
+                "teaserTitle": "CRITICAL MINERALS: $2B PENTAGON FUNDING",
+                "visual_caption": "European air cargo volumes slumped following the full elimination of duty-free de minimis exemptions. Forwarders face declining express yields and extended customs clearance dwell times across continental hubs."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: SHENZHEN CAPACITY EXPANSION",
-                "teaserTitle": "FREIGHT SECURITY: HIGH-VALUE FREIGHT HEISTS",
-                "visual_caption": "DHL Express committed over $204M to triple handling capacity at its Shenzhen air gateway. The massive facility expansion positions the carrier to capture resilient cross-border express freight volumes."
+                "headline": "CRITICAL MINERALS: $2B PENTAGON FUNDING",
+                "teaserTitle": "TRUCKING CAPACITY: CDL COMPLIANCE CRACKDOWN",
+                "visual_caption": "The Pentagon signed over $2B in funding commitments to build domestic battery and critical mineral infrastructure. Manufacturers secure localized supply lines to insulate strategic production from foreign export bans."
             },
             {
                 "slide_index": 7,
-                "headline": "FREIGHT SECURITY: HIGH-VALUE FREIGHT HEISTS",
+                "headline": "TRUCKING CAPACITY: CDL COMPLIANCE CRACKDOWN",
                 "teaserTitle": "",
-                "visual_caption": "Organized freight theft networks stole $111M in data center cargo using staging and driver diversion tactics. Logistics providers are mandating secondary biometric authentication and strict carrier verification protocols."
+                "visual_caption": "State crackdowns on non-domiciled CDLs could sideline up to 200K commercial truck drivers nationwide. Fleet managers face sudden capacity deficits and rising linehaul spot rates across regional corridors."
             },
             {
                 "slide_index": 8,
