@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR moves forward with Section 301 forced labor tariffs on 60 trading partners as trade policy volatility intensifies across global lanes."
+        "titleWhite": "RECORD AUCTION",
+        "titleBlue": "PREMIUM",
+        "footerSummary": "Panama Canal queue-jump fees hit a record $4.6M as transit disruptions force shippers into severe bidding wars for priority vessel slots."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "PANAMA CANAL: RECORD AUCTION PREMIUM",
             "paragraphs": [
-                "The Office of the United States Trade Representative announced it is moving forward with the implementation of tariffs on 60 nations under Section 301 of the Trade Act of 1974. This aggressive regulatory pivot targets supply chains dependent on forced labor practices, introducing stringent border compliance checks and duty escalations.",
-                "Importers and compliance officers face immediate operational friction as documentation requirements multiply across affected trade lanes. Shippers must audit tier-one and sub-tier supplier networks to prevent severe shipment detentions and mitigate escalating margin exposure."
+                "An empty liquefied petroleum gas tanker paid an unprecedented $4.6M queue-jump fee to secure immediate transit through the Panama Canal. The payment marks the highest publicly recorded auction bid in canal history, surpassing the prior high of $3.975M.",
+                "Ocean carriers and energy charterers are absorbing extreme financial premiums to avoid extended voyages around volatile chokepoints. Freight procurers must evaluate escalating waterway toll structures against rising bunker fuel expenses on extended alternative routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME OPERATIONS: HORMUZ TANKER ATTACKS",
+            "nextUpTease": "CUSTOMS COMPLIANCE: DE MINIMIS ABOLITION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T08:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME OPERATIONS: HORMUZ TANKER ATTACKS",
+            "heading": "CUSTOMS COMPLIANCE: DE MINIMIS ABOLITION",
             "paragraphs": [
-                "Two commercial tankers were attacked in the Strait of Hormuz during outbound transits, triggering immediate security warnings from maritime authorities and state energy companies. Persistent regional hostilities continue to disrupt critical crude oil and chemical movements across Middle Eastern export corridors.",
-                "Vessel operators are forced to deploy dark transit protocols and extend routing around high-risk zones, driving up bunker fuel consumption. Charterers face unpredictable freight rate volatility and prolonged transit schedules as regional supply chains adapt to persistent kinetic threats."
+                "A federal trade court officially upheld the regulatory elimination of the US de minimis customs duty exemption for low-value commercial imports. The ruling mandates formal entry documentation and tariff collection on millions of previously exempt direct-to-consumer parcels entering US ports.",
+                "Cross-border ecommerce distributors and retail importers face immediate cost increases and procedural processing friction at airport customs gateways. Supply chain leaders must re-engineer clearance architectures and adjust international landed-cost calculations to protect operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: UBER FREIGHT BREACH",
+            "nextUpTease": "PORT SECURITY: GATEWAY CONTRA-SEIZURE",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T07:04:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T16:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CYBERSECURITY: UBER FREIGHT BREACH",
+            "heading": "PORT SECURITY: GATEWAY CONTRA-SEIZURE",
             "paragraphs": [
-                "A major data breach at Uber Freight exposed over 1M files containing sensitive shipment manifests, broker credentials, and lane pricing structures. Cybersecurity analysts warn that compromised dispatch databases significantly escalate digital fraud, unauthorized double-brokering, and cargo theft across North American freight networks.",
-                "Logistics providers and digital brokerages must execute urgent identity verification audits across all digital interchange points. Carrier vetting teams face heightened vulnerability to load redirection schemes that threaten customer assets and operational continuity."
+                "UK law enforcement authorities seized 2.9 tonnes of illicit narcotics with an estimated value of $313M concealed within a commercial banana shipment at London Gateway port. The interception represents one of the largest maritime interdictions recorded at the deepwater container hub in recent months.",
+                "Reefer cargo operators and agricultural shippers face heightened physical inspection protocols and extended dwell times on Latin American import corridors. Cold chain logistics managers must build additional container buffer periods to prevent temperature-sensitive spoilage during regulatory holds."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: SHENZHEN HUB EXPANSION",
+            "nextUpTease": "DEFENSE LOGISTICS: STRATEGIC MINERAL AWARDS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T15:17:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: SHENZHEN HUB EXPANSION",
+            "heading": "DEFENSE LOGISTICS: STRATEGIC MINERAL AWARDS",
             "paragraphs": [
-                "DHL Express completed a $204M gateway expansion in Shenzhen, tripling handling capacity at the critical South China aviation facility. The upgraded infrastructure accommodates surging regional cross-border ecommerce volumes and time-sensitive high-tech manufacturing exports.",
-                "Airfreight forwarders and international electronics distributors gain faster consolidation turnaround and automated customs clearance throughput. Shippers utilizing Pearl River Delta export corridors can secure guaranteed uplift capacity despite persistent global air cargo capacity constraints."
+                "The Department of Defense executed over $2B in conditional loan commitments to onshore critical mineral refining and advanced battery production. The capital distribution directly targets supply chain resilience across specialized materials including synthetic graphite and high-performance permanent magnets.",
+                "Advanced manufacturing and automotive procurement networks must reconfigure tier-two component sourcing to comply with federal domestic content criteria. Industrial shippers face long-term capacity shifts as regional mineral processing hubs ramp up domestic freight movements."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAYS: STATE OPPOSITION MERGER",
+            "nextUpTease": "MIDDLE-MILE: AMAZON OPERATIONS INTEGRATION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T09:15:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T17:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAILWAYS: STATE OPPOSITION MERGER",
+            "heading": "MIDDLE-MILE: AMAZON OPERATIONS INTEGRATION",
             "paragraphs": [
-                "Six state attorneys general officially filed joint opposition against the proposed Union Pacific and Norfolk Southern railroad merger. State regulators assert that the consolidation creates an uncompetitive rail duopoly, reducing regional shipping options and failing to provide promised service improvements.",
-                "Industrial shippers and agricultural freight managers face prolonged regulatory uncertainty before the Surface Transportation Board. Rail freight procurers must hedge rate escalation risks and secure alternate multi-modal agreements ahead of potential consolidation rulings."
+                "Amazon unified its middle-mile air freight and ground linehaul logistics divisions into a consolidated transportation management structure. The organizational restructuring aims to streamline multi-modal scheduling and accelerate network dispatch execution across domestic fulfillment hubs.",
+                "Commercial parcel carriers face intensified efficiency competition as the integrated network optimizes internal linehaul equipment utilization. Enterprise shippers must benchmark regional transit commitments against accelerated dedicated carrier linehaul velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "EXPORT CONTROLS: BAE DEFENSE PENALTY",
+            "nextUpTease": "GULF MARITIME: REGIONAL VOLUME PLUNGE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T10:30:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T18:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EXPORT CONTROLS: BAE DEFENSE PENALTY",
+            "heading": "GULF MARITIME: REGIONAL VOLUME PLUNGE",
             "paragraphs": [
-                "Defense contractor BAE Systems reached a $36M civil settlement with federal authorities for multiple violations of arms export control regulations. Federal agencies agreed to suspend $18M of the penalty contingent upon immediate implementation of enhanced compliance monitoring systems.",
-                "Global defense and dual-use component supply chains must dramatically tighten screening protocols for technical data transfers and international sub-tier suppliers. Logistics directors in aerospace and high-tech sectors face increased scrutiny on compliance files and cross-border manifest documentation."
+                "AD Ports reported a 65% drop in UAE container throughput as regional maritime security threats disrupted commercial feeder loops in the Persian Gulf. Commercial shipping lines are altering port rotation schedules to bypass contested navigation channels.",
+                "Cargo owners importing industrial materials into Middle Eastern hubs face extended transit delays and sharp surcharges on transshipment connections. Logistics operators must establish contingency routing through western regional land bridges to maintain continuous supply lines."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: CALIFORNIA BOX SURCHARGE",
+            "nextUpTease": "LOGISTICS REAL ESTATE: WAREHOUSE STABILIZATION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T11:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-14T19:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INTERMODAL: CALIFORNIA BOX SURCHARGE",
+            "heading": "LOGISTICS REAL ESTATE: WAREHOUSE STABILIZATION",
             "paragraphs": [
-                "Union Pacific implemented a $1,000 per container surcharge on intermodal shipments moving outward from major California rail hubs. Tightening regional equipment balance and surging chassis dwell times prompted the sudden rate penalty to reposition empty dry containers.",
-                "Transpacific cargo owners transloading imports across Southern California face immediate inland transportation cost escalation. Procurement managers must optimize inland point intermodal contracts or shift volume toward direct all-water services to US East Coast gateways."
+                "National industrial warehouse vacancy fell 7 basis points sequentially to 7.3% as tenant absorption surpassed new development deliveries. Construction starts for big-box distribution centers slowed, signaling a supply-demand rebalancing across North American distribution hubs.",
+                "Third-party logistics providers and enterprise retailers face firming rental rates and tighter availability in core inland port markets. Facility planners must lock in multi-year industrial lease commitments early to avoid rate escalation as speculative warehouse inventory tightens."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T11:20:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T19:30:00Z",
                 "Status: Audited & True"
             ]
         }
