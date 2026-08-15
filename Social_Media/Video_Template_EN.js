@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "EXPORT CONTROL PENALTY",
+        "hookTitle": "USTR ADVANCES SWEEPING SECTION 301 TARIFFS ON SIXTY NATIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE COMPLIANCE: EXPORT CONTROL PENALTY",
-                "teaserTitle": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME: PANAMA CANAL AUCTION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The State Department penalized BAE Systems thirty-six million dollars for multiple arms export control violations. Half of the fine is suspended to fund mandatory compliance remediation and internal supply chain auditing."
+                "narration_line": "The United States Trade Representative is advancing Section three oh one tariffs targeting sixty trading nations over forced labor allegations. Importers must immediately audit Tier-one through Tier-four supply chains to avoid severe border seizures."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO: SHENZHEN HUB EXPANSION",
-                "teaserTitle": "PORT EMISSIONS: CLEAN VESSEL INCENTIVES",
+                "headline": "MARITIME: PANAMA CANAL AUCTION",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "DHL Express completed a two hundred four million dollar expansion of its Shenzhen air cargo hub. The facility triples regional handling throughput to support rising cross-border express volumes across Asian trade corridors."
+                "narration_line": "A commercial tanker paid a record four point six million dollar auction fee to cut the Panama Canal transit queue. Escalating maritime congestion is forcing shippers to choose between extreme toll premiums and prolonged cape diversions."
             },
             {
                 "slide_index": 3,
-                "headline": "PORT EMISSIONS: CLEAN VESSEL INCENTIVES",
-                "teaserTitle": "FLEET SAFETY: COMMERCIAL TRUCK RECALL",
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "ENERGY TRANSIT: HORMUZ TANKER ATTACKS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Ports of Los Angeles and Long Beach approved expanded financial incentive programs for low-emission ocean vessels. Transpacific container carriers must deploy clean propulsion fleets to qualify for regional berthing discounts."
+                "narration_line": "Uber Freight confirmed a major security incident after unauthorized actors compromised nearly one million enterprise logistics files. Freight brokers and shippers must immediately reset portal credentials and enforce strict multi-factor authentication protocols."
             },
             {
                 "slide_index": 4,
-                "headline": "FLEET SAFETY: COMMERCIAL TRUCK RECALL",
-                "teaserTitle": "TRADE POLICY: DRONE COMPONENT TARIFFS",
+                "headline": "ENERGY TRANSIT: HORMUZ TANKER ATTACKS",
+                "teaserTitle": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Commercial truck manufacturer PACCAR announced an urgent recall of five thousand nine hundred nineteen vehicles due to severe electrical fire hazards. Fleet operators must ground affected units immediately for depot software and wiring remediation."
+                "narration_line": "Two additional commercial crude tankers were attacked during transit through the critical Strait of Hormuz shipping lane. Energy logistics operators are facing soaring war-risk insurance premiums and severe vessel rerouting delays across Middle Eastern corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "TRADE POLICY: DRONE COMPONENT TARIFFS",
-                "teaserTitle": "PORT SECURITY: CONTAINER NARCOTICS SEIZURE",
+                "headline": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
+                "teaserTitle": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "United States trade regulators imposed a one hundred percent tariff on imported drones and specialized flight components. Hardware importers must re-engineer procurement frameworks and establish domestic assembly lines to avoid punitive duties."
+                "narration_line": "Cargo theft syndicates have stolen nearly one hundred and eleven million dollars in high-value data center hardware using aggressive staging tactics. Logistics managers must upgrade active telemetry monitoring and enforce dual-driver protocols across critical technology freight lanes."
             },
             {
                 "slide_index": 6,
-                "headline": "PORT SECURITY: CONTAINER NARCOTICS SEIZURE",
-                "teaserTitle": "CARRIER CAPACITY: VLCC FLEET EXPANSION",
+                "headline": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
+                "teaserTitle": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "United Kingdom border authorities seized over three hundred million dollars worth of cocaine hidden within a commercial banana shipment at London Gateway. Shippers face intensified container scanning delays and elevated demurrage risks across British ports."
+                "narration_line": "Union Pacific announced a surge fee of one thousand dollars per container across outbound California rail intermodal corridors. Shippers must evaluate cost trade-offs between elevated rail surcharges and tightening regional over-the-road trucking capacity."
             },
             {
                 "slide_index": 7,
-                "headline": "CARRIER CAPACITY: VLCC FLEET EXPANSION",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Minsheng Financial Leasing placed a five hundred million dollar order for four new very large crude carriers in China. Energy logistics operators are locking in long-term vessel capacity to offset persistent Middle East transit risks."
+                "narration_line": "Multiple state agencies are restricting non-domiciled commercial driver licenses, potentially sidelining over two hundred thousand cross-border truck drivers. Motor carriers must audit driver licensing compliance immediately to prevent severe fleet capacity deficits across freight networks."
             },
             {
                 "slide_index": 8,

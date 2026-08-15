@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE COMPLIANCE: EXPORT CONTROL PENALTY",
-                "teaserTitle": "AIR CARGO: SHENZHEN HUB EXPANSION",
-                "visual_caption": "The State Department penalized BAE Systems $36M for multiple arms export control violations. Half of the penalty is suspended to fund mandatory compliance remediation and internal supply chain auditing."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME: PANAMA CANAL AUCTION",
+                "visual_caption": "The USTR is advancing Section 301 tariffs targeting 60 trading nations over forced labor allegations. Importers must immediately audit Tier-1 through Tier-4 supply chains to avoid severe border seizures."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO: SHENZHEN HUB EXPANSION",
-                "teaserTitle": "PORT EMISSIONS: CLEAN VESSEL INCENTIVES",
-                "visual_caption": "DHL Express completed a $204M expansion of its Shenzhen air cargo hub. The facility triples regional handling throughput to support rising cross-border express volumes across Asian trade corridors."
+                "headline": "MARITIME: PANAMA CANAL AUCTION",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "visual_caption": "A commercial tanker paid a record $4.6M auction fee to cut the Panama Canal transit queue. Escalating maritime congestion is forcing shippers to choose between extreme toll premiums and prolonged cape diversions."
             },
             {
                 "slide_index": 3,
-                "headline": "PORT EMISSIONS: CLEAN VESSEL INCENTIVES",
-                "teaserTitle": "FLEET SAFETY: COMMERCIAL TRUCK RECALL",
-                "visual_caption": "The Ports of Los Angeles and Long Beach approved expanded financial incentive programs for low-emission ocean vessels. Transpacific container carriers must deploy clean propulsion fleets to qualify for regional berthing discounts."
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "ENERGY TRANSIT: HORMUZ TANKER ATTACKS",
+                "visual_caption": "Uber Freight confirmed a major security incident after unauthorized actors compromised nearly 1M enterprise logistics files. Freight brokers and shippers must immediately reset portal credentials and enforce strict multi-factor authentication protocols."
             },
             {
                 "slide_index": 4,
-                "headline": "FLEET SAFETY: COMMERCIAL TRUCK RECALL",
-                "teaserTitle": "TRADE POLICY: DRONE COMPONENT TARIFFS",
-                "visual_caption": "Commercial truck manufacturer PACCAR announced an urgent recall of 5,919 vehicles due to severe electrical fire hazards. Fleet operators must ground affected units immediately for depot software and wiring remediation."
+                "headline": "ENERGY TRANSIT: HORMUZ TANKER ATTACKS",
+                "teaserTitle": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
+                "visual_caption": "Two additional commercial crude tankers were attacked during transit through the critical Strait of Hormuz shipping lane. Energy logistics operators are facing soaring war-risk insurance premiums and severe vessel rerouting delays across Middle Eastern corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "TRADE POLICY: DRONE COMPONENT TARIFFS",
-                "teaserTitle": "PORT SECURITY: CONTAINER NARCOTICS SEIZURE",
-                "visual_caption": "US trade regulators imposed a 100% tariff on imported commercial drones and specialized flight components. Hardware importers must re-engineer procurement frameworks and establish domestic assembly lines to avoid punitive duties."
+                "headline": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
+                "teaserTitle": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
+                "visual_caption": "Cargo theft syndicates have stolen nearly $111M in high-value data center hardware using aggressive staging tactics. Logistics managers must upgrade active telemetry monitoring and enforce dual-driver protocols across critical technology freight lanes."
             },
             {
                 "slide_index": 6,
-                "headline": "PORT SECURITY: CONTAINER NARCOTICS SEIZURE",
-                "teaserTitle": "CARRIER CAPACITY: VLCC FLEET EXPANSION",
-                "visual_caption": "UK border authorities seized over $313M worth of cocaine hidden within a commercial banana shipment at London Gateway. Shippers face intensified container scanning delays and elevated demurrage risks across British ports."
+                "headline": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
+                "teaserTitle": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
+                "visual_caption": "Union Pacific announced a surge fee of $1,000 per container across outbound California rail intermodal corridors. Shippers must evaluate cost trade-offs between elevated rail surcharges and tightening regional over-the-road trucking capacity."
             },
             {
                 "slide_index": 7,
-                "headline": "CARRIER CAPACITY: VLCC FLEET EXPANSION",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Minsheng Financial Leasing placed a $500M order for 4 new VLCC crude tankers in China. Energy logistics operators are locking in long-term vessel capacity to offset persistent Middle East transit risks."
+                "headline": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
+                "teaserTitle": "",
+                "visual_caption": "Multiple state agencies are restricting non-domiciled commercial driver licenses, potentially sidelining over 200K cross-border truck drivers. Motor carriers must audit driver licensing compliance immediately to prevent severe fleet capacity deficits across freight networks."
             },
             {
                 "slide_index": 8,

@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "EXPORT CONTROL",
-        "titleBlue": "PENALTY",
-        "footerSummary": "State Department penalizes BAE Systems $36M as DHL executes $204M Shenzhen air gateway expansion."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR advances Section 301 tariffs on 60 nations as Panama Canal queue-jump fees reach a record $4.6M."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE COMPLIANCE: EXPORT CONTROL PENALTY",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The US Department of State concluded an extensive regulatory enforcement action against BAE Systems, assessing a $36M civil penalty for repeated violations of the International Traffic in Arms Regulations. Federal regulators agreed to suspend $18M of the total financial assessment on the strict condition that the defense contractor allocates those funds directly toward remedial compliance infrastructure.",
-                "Global aerospace and defense manufacturers face heightened regulatory scrutiny across multi-tier supplier networks and international technology transfer workflows. Enterprise trade compliance officers must institute rigorous continuous internal auditing and chain-of-custody tracking to avert severe export licensing suspensions."
+                "The Office of the United States Trade Representative officially moved forward with the implementation of targeted tariffs on 60 trading partner nations under Section 301 of the Trade Act of 1974. The trade action replaces expiring Section 122 duties with strict customs penalties focused on documented supply chain forced-labor non-compliance across industrial raw materials and consumer goods.",
+                "Global procurement teams face immediate tariff exposure and mandatory detention risks at all US ports of entry unless verifiable chain-of-custody documentation is established. Enterprise shippers must rapidly conduct multi-tier supply chain audits and re-evaluate vendor origin declarations to mitigate crippling duty assessments."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: SHENZHEN HUB EXPANSION",
+            "nextUpTease": "MARITIME: PANAMA CANAL AUCTION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T20:30:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-15T04:12:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR CARGO: SHENZHEN HUB EXPANSION",
+            "heading": "MARITIME: PANAMA CANAL AUCTION",
             "paragraphs": [
-                "DHL Express completed a $204M capital expansion of its primary Shenzhen express air gateway, effectively tripling regional sorting and cargo handling capacity across southern China. The newly expanded terminal integrates advanced automated sorting technologies to manage sustained surges in regional and cross-border ecommerce volume.",
-                "Transpacific and intra-Asia air freight forwarders gain immediate access to enhanced processing speeds and expanded pallet build-up slots during the peak shipping season. Air freight procurement teams must leverage expanded express gateway throughput to mitigate congestion surcharges and bypass secondary hub delays."
+                "Transit auction fees at the Panama Canal reached an all-time high of $4.6M after an empty liquefied petroleum gas carrier secured an expedited transit slot to bypass severe waterway congestion. Heightened maritime traffic diversion caused by escalating geopolitical conflict in the Middle East has sharply constrained daily neo-panamax reservation availability.",
+                "Vessel charterers and ocean freight operators face a severe economic dilemma between paying multi-million-dollar canal auction premiums or absorbing up to 14 additional sailing days via the Cape of Good Hope. Cargo owners must adjust inventory buffer levels and recalibrate voyage fuel calculations against soaring transit surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT EMISSIONS: CLEAN VESSEL INCENTIVES",
+            "nextUpTease": "CYBERSECURITY: UBER FREIGHT BREACH",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T21:45:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-15T05:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORT EMISSIONS: CLEAN VESSEL INCENTIVES",
+            "heading": "CYBERSECURITY: UBER FREIGHT BREACH",
             "paragraphs": [
-                "The Port of Los Angeles and Port of Long Beach announced a joint resolution to significantly expand financial incentive payouts for ocean carriers deploying ultra-low-emission and alternative-fuel container vessels. The expanded clean maritime program directly credits vessel operators based on audited greenhouse gas reductions during transpacific voyage transits.",
-                "Container liner operators face diverging port fee structures that penalize legacy heavy fuel oil vessels while subsidizing modern dual-fuel methanol and LNG tonnage. Ocean freight contract negotiators must account for preferential green berthing tariffs when modeling long-term San Pedro Bay carrier allocation costs."
+                "Uber Freight confirmed an active investigation into a major enterprise data security breach after threat actors accessed nearly 1M proprietary logistics and carrier compliance files. The compromised data stems from social engineering exploitation targeting identity verification interfaces across third-party carrier broker portals.",
+                "Logistics networks face heightened risks of double-brokering scams, carrier impersonation, and fraudulent load redirection across regional freight markets. Corporate compliance teams must mandate immediate API credential rotations and institute stringent multi-factor verification across all freight execution touchpoints."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET SAFETY: COMMERCIAL TRUCK RECALL",
+            "nextUpTease": "ENERGY TRANSIT: HORMUZ TANKER ATTACKS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T19:15:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T06:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FLEET SAFETY: COMMERCIAL TRUCK RECALL",
+            "heading": "ENERGY TRANSIT: HORMUZ TANKER ATTACKS",
             "paragraphs": [
-                "Commercial vehicle manufacturer PACCAR announced an urgent safety recall affecting 5,919 heavy-duty Kenworth and Peterbilt trucks due to a critical electrical defect capable of causing sudden in-transit power failures. Authorized dealer service networks have initiated mandatory hardware and wiring harness replacements across affected fleet customer locations.",
-                "Motor carriers and dedicated private fleet operators must pull affected power units from service schedules, creating localized capacity deficits across regional truckload lanes. Logistics managers must coordinate immediate fleet maintenance reallocations to prevent route disruptions and satisfy shipper service-level agreements."
+                "Maritime security monitors confirmed kinetic drone and projectile attacks targeting two commercial crude oil tankers executing outbound transits through the Strait of Hormuz. Regional port authorities reported that container traffic throughput across adjacent Persian Gulf hubs has declined by as much as 65% as operators suspend scheduled sailings.",
+                "Global energy and chemical supply chains face immediate spikes in maritime war-risk insurance premiums alongside escalating carrier emergency conflict surcharges. Shippers must anticipate wider container equipment imbalances and activate secondary overland transit corridors to bypass volatile maritime chokepoints."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: DRONE COMPONENT TARIFFS",
+            "nextUpTease": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T22:10:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-15T03:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRADE POLICY: DRONE COMPONENT TARIFFS",
+            "heading": "CARGO SECURITY: HIGH-VALUE FREIGHT THEFT",
             "paragraphs": [
-                "The US Executive Branch enacted executive trade orders establishing immediate 100% ad valorem tariffs on foreign-manufactured commercial drones and specialized avionics sub-components. The targeted trade action aims to accelerate domestic manufacturing reshoring while restricting reliance on foreign unmanned aerial hardware.",
-                "Last-mile parcel delivery networks, agricultural logistics providers, and infrastructure inspection operators face sudden doubling of fleet expansion and equipment replacement costs. Supply chain strategists must accelerate domestic supplier vetting and restructure drone procurement budgets to maintain delivery automation roadmaps."
+                "Federal freight security task forces reported that sophisticated theft syndicates have stolen nearly $111M in artificial intelligence server components and data center freight using covert bump-and-run staging tactics. Organized networks are exploiting compromised driver credentials and fraudulent roadside breakdowns to divert high-value electronics shipments in transit.",
+                "High-tech equipment manufacturers and specialized logistics providers are incurring severe replacement asset costs and escalating commercial liability insurance deductibles. Supply chain directors must mandate continuous covert asset tracking, dedicated escort services, and non-stop dual-driver transit protocols on high-value lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT SECURITY: CONTAINER NARCOTICS SEIZURE",
+            "nextUpTease": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T18:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-15T02:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PORT SECURITY: CONTAINER NARCOTICS SEIZURE",
+            "heading": "INTERMODAL RAIL: CALIFORNIA SURCHARGES",
             "paragraphs": [
-                "UK border security authorities at London Gateway intercepted a 2.9 metric ton illicit narcotics consignment concealed inside a commercial refrigerated banana shipment originating from South America, valued at $313M. Border force officials have increased secondary non-intrusive container scanning and physical strip-searches across high-risk reefer import lanes.",
-                "Refrigerated produce importers face prolonged customs clearance dwell times, potential cold-chain integrity breaches, and elevated terminal demurrage liability. Freight forwarders must reinforce upstream container seal validation and implement tamper-evident telemetry to satisfy heightened customs security profiles."
+                "Union Pacific implemented emergency peak-season intermodal surcharges of $1,000 per container on excess contract freight originating from Southern California rail terminals. The aggressive pricing mechanism aims to ration constrained locomotive capacity and balance chassis inventory against an unexpected surge in summer import container volumes.",
+                "Intermodal shippers face immediate transportation budget overruns as cross-country rail rates surge above prevailing truckload spot rates. Freight procurement leaders must evaluate routing flexibility, shifting volume toward targeted over-the-road dedicated fleets or secondary inland dry port consolidation hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIER CAPACITY: VLCC FLEET EXPANSION",
+            "nextUpTease": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T15:17:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-15T01:50:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CARRIER CAPACITY: VLCC FLEET EXPANSION",
+            "heading": "FLEET REGULATION: NON-DOMICILED CDL LIMITS",
             "paragraphs": [
-                "Minsheng Financial Leasing placed a major $500M order for 4 newbuild Very Large Crude Carriers with Chinese shipbuilders, expanding long-haul energy transport capacity. The long-term fleet commitment reflects robust structural demand projections for deep-sea crude routing across Asia and the Atlantic basin.",
-                "Global energy shippers and charterers are locking in multi-year vessel availability to guard against persistent geopolitical transit chokepoints and fleet aging. Logistics planners must balance rising long-term vessel charter commitments against heightened spot market volatility across critical maritime energy corridors."
+                "Transportation authorities in Rhode Island and Utah joined a expanding interstate coalition restricting the issuance and renewal of non-domiciled commercial driver licenses. Federal transportation projections indicate that tightening state licensing restrictions could sideline more than 200,000 foreign commercial truck drivers nationwide.",
+                "Long-haul motor carriers and cross-border 3PL networks face sudden structural driver shortages and upward pressure on dedicated fleet compensation packages. Logistics strategists must restructure regional driver recruiting programs and audit carrier safety qualification files to prevent operational service failures."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-14T16:45:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-15T00:35:00Z",
                 "Status: Audited & True"
             ]
         }
