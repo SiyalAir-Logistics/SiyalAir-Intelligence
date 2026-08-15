@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CONTRACT FREIGHT",
-        "titleBlue": "SURGE",
-        "footerSummary": "Escalating supply chain disruptions and surging spot rates drive widespread upward pressure across long-term contract freight agreements."
+        "titleWhite": "RECORD TRANSIT",
+        "titleBlue": "AUCTION",
+        "footerSummary": "Surging Panama Canal transit auction premiums and severe cargo theft surges escalate operational cost baselines across enterprise supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "RATE DYNAMICS: CONTRACT FREIGHT SURGE",
+            "heading": "CANAL OPERATIONS: RECORD TRANSIT AUCTION",
             "paragraphs": [
-                "Spillover effects from acute maritime disruptions are rapidly accelerating rate adjustments across long-term contract freight portfolios. Xeneta analysis indicates that upward pricing pressure is no longer confined to spot markets, forcing enterprise shippers to absorb rising baseline costs.",
-                "Procurement teams face significant budget variances as carriers push for higher fixed rates to mitigate persistent geopolitical volatility. Shippers must recalibrate annual transport budgets and establish dynamic contract mechanisms to maintain margin stability."
+                "An empty liquefied petroleum gas tanker, the G. Arete, secured an expedited transit slot through the Panama Canal after paying a record $4.6M auction fee. The historic queue-jump payment eclipses the prior high of $3.975M as severe vessel congestion forces operators to bid aggressively for prompt transit windows.",
+                "Enterprise cargo owners face surging transit premiums and widening lead-time variance across maritime networks as chokepoint bottlenecks worsen. Logistics planners must balance extraordinary auction surcharges against extended round-the-cape transit schedules to safeguard commercial delivery commitments."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: TARIFF IMPLEMENTATION",
+            "nextUpTease": "CYBERSECURITY: FREIGHT NETWORK BREACH",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T08:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T18:22:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE POLICY: TARIFF IMPLEMENTATION",
+            "heading": "CYBERSECURITY: FREIGHT NETWORK BREACH",
             "paragraphs": [
-                "The Office of the United States Trade Representative has formally initiated Section 301 tariffs targeting 60 trading partners. The sweeping regulatory action coincides with the expiration of prior Section 122 duties, enforcing stringent compliance documentation at all ports of entry.",
-                "Importers face immediate margin compression and heightened border inspection risks unless upstream supply chain tiers achieve complete traceability. Customs compliance divisions must execute comprehensive bill-of-materials audits to prevent severe clearance delays."
+                "A major cybersecurity incident at Uber Freight resulted in the unauthorized exposure of 1M operational and carrier verification files. The breach exploited digital identity gaps within digital brokerage platforms, triggering immediate scrutiny across automated freight matching infrastructure.",
+                "Freight brokers and enterprise shippers face acute freight impersonation and carrier fraud risks following the exposure of core compliance credentials. Supply chain risk directors must enforce secondary multi-factor verification protocols to prevent double-brokering and illegal cargo diversions."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
+            "nextUpTease": "CARGO SECURITY: HIGH-TECH THEFT SURGE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T06:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
+            "heading": "CARGO SECURITY: HIGH-TECH THEFT SURGE",
             "paragraphs": [
-                "State transportation departments in Rhode Island and Utah have enacted stringent limitations on non-domiciled commercial driver licenses. Industry projections indicate these state-level restrictions could sideline up to 200,000 professional drivers from active service.",
-                "Motor carriers are experiencing intense wage inflation and severe driver recruitment bottlenecks across regional and long-haul networks. Freight brokerages must continuously verify driver credentials to maintain compliant capacity pools and avoid critical service failures."
+                "Organized freight theft syndicates have stolen nearly $111M worth of critical data center hardware by deploying aggressive 'bump and run' highway staging maneuvers. Strategic freight intelligence reveals cargo theft rings are specifically targeting high-value semiconductor and server shipments across domestic linehaul corridors.",
+                "High-tech electronics shippers face soaring loss ratios and surging transit insurance deductibles across surface transport corridors. Shippers must deploy covert dual-layer GPS tracking and enforce dedicated team-driver security protocols to preserve mission-critical equipment pipelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME SECURITY: TANKER INCIDENTS",
+            "nextUpTease": "CUSTOMS POLICY: DE MINIMIS ELIMINATION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T12:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T20:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME SECURITY: TANKER INCIDENTS",
+            "heading": "CUSTOMS POLICY: DE MINIMIS ELIMINATION",
             "paragraphs": [
-                "Two commercial tankers sustained direct attacks while transiting the Strait of Hormuz, prompting immediate naval advisories and vessel rerouting. Regional container throughput experienced a 65% contraction across major United Arab Emirates terminals following the security escalation.",
-                "Marine underwriters have adjusted war risk premiums upward, significantly increasing operational overhead for energy and container shipments. Logistics planners moving freight through the Persian Gulf must secure alternative land-bridge routes to mitigate port vulnerabilities."
+                "Air cargo volumes and spot rates across outbound Asia routes dropped sharply following the formal elimination of the European Union's duty-free de minimis threshold. Customs authorities have instituted comprehensive declaration standards on low-value direct-to-consumer parcels, slowing clearance processing across key gateways.",
+                "Cross-border ecommerce platforms must absorb substantial duty liabilities and heightened customs broker processing fees across European distribution lanes. Importers must reconfigure fulfillment models toward bonded regional distribution centers to mitigate compounding air freight clearance friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO INTERCEPTION: ILLICIT SEIZURES",
+            "nextUpTease": "MARITIME ROUTING: EXTENDED DARK TRANSITS",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T19:04:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-14T17:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CARGO INTERCEPTION: ILLICIT SEIZURES",
+            "heading": "MARITIME ROUTING: EXTENDED DARK TRANSITS",
             "paragraphs": [
-                "United Kingdom law enforcement authorities intercepted a 2.9 metric ton consignment of contraband valued at $313 million at London Gateway. The enforcement operation represents one of the largest maritime interdictions recorded across regional container ports this year.",
-                "Terminal operators have intensified physical inspections and hold times on inbound refrigerated cargo originating from high-risk trade lanes. Perishable cargo forwarders must account for expanded customs dwell times and potential demurrage exposure during peak cycles."
+                "Commercial tankers moving crude oil through Middle Eastern corridors are increasingly turning off automatic identification systems for extended voyages to obscure vessel positions. Industry tracking indicates a sharp uptick in offshore ship-to-ship cargo switching operations executed outside regular maritime monitoring zones.",
+                "Charterers and marine underwriters face severe sanctions compliance exposure and compounding cargo liability risks within untracked shipping networks. Maritime logistics directors must enforce rigorous satellite verification and forensic vessel track auditing to ensure total compliance with international trade sanctions."
             ],
             "imageUrl": "",
-            "nextUpTease": "PROPERTY METRICS: VACANCY CONTRACTION",
+            "nextUpTease": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T15:17:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-14T21:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PROPERTY METRICS: VACANCY CONTRACTION",
+            "heading": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
             "paragraphs": [
-                "North American industrial real estate markets stabilized during the second quarter, with average facility vacancy contracting seven basis points to 7.3%. Colliers reported that net leasing absorption outpaced new warehouse completions as developer construction starts slowed across major hubs.",
-                "Third-party logistics providers and omnichannel retailers face shrinking prime space availability and firming lease rates in key markets. Supply chain directors must finalize distribution center renewals early to protect against substantial rental rate increases."
+                "DHL Express completed a $204M infrastructure expansion at its Shenzhen gateway, tripling dedicated sorting capacity to handle surging South China export volumes. The modernized automated hub addresses chronic regional cargo backlogs by processing up to 300K parcels per day.",
+                "Global electronics and precision manufacturing exporters secure expanded throughput capacity and accelerated transit windows across Transpacific and European lanes. Shippers must secure long-term block space agreements to lock in predictable express linehaul rates ahead of peak seasonal demand."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILROAD OPERATIONS: MERGER SCRUTINY",
+            "nextUpTease": "INTERMODAL INFRASTRUCTURE: SAUDI LANDBRIDGE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T16:45:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T14:50:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAILROAD OPERATIONS: MERGER SCRUTINY",
+            "heading": "INTERMODAL INFRASTRUCTURE: SAUDI LANDBRIDGE",
             "paragraphs": [
-                "Six state Attorneys General filed formal regulatory objections opposing the proposed Union Pacific and Norfolk Southern merger over competition concerns. Concurrently, Union Pacific instituted a $1,000 per-container surcharge on select high-demand California intermodal outbound corridors.",
-                "Intermodal shippers must absorb immediate rail linehaul surcharges while navigating prolonged regulatory reviews that threaten long-term route stability. Cargo owners should diversify surface carrier allocations to preserve pricing flexibility and mitigate network bottlenecks."
+                "Mediterranean Shipping Company introduced an integrated multimodal transport network connecting regional ocean terminals to the Riyadh Dry Port via direct rail corridors. The overland logistics network provides heavy containerized freight with a reliable bypass around volatile regional maritime chokepoints.",
+                "Logistics providers operating across the Persian Gulf can achieve substantial transit time reductions and eliminate severe maritime war risk insurance surcharges. Cargo owners must evaluate inland intermodal alternatives to establish resilient overland supply chain bridges."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-14T14:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T19:40:00Z",
                 "Status: Audited & True"
             ]
         }

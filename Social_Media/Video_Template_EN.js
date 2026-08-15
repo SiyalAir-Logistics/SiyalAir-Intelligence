@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CONTRACT FREIGHT SURGE",
+        "hookTitle": "PANAMA CANAL AUCTION SURGES TO $4.6M",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "RATE DYNAMICS: CONTRACT FREIGHT SURGE",
-                "teaserTitle": "TRADE POLICY: TARIFF IMPLEMENTATION",
+                "headline": "CANAL OPERATIONS: RECORD TRANSIT AUCTION",
+                "teaserTitle": "CYBERSECURITY: FREIGHT NETWORK BREACH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Contract freight rates are rising rapidly as maritime supply chain disruptions spread from spot markets. Enterprise shippers must adjust annual logistics budgets to maintain operational margin stability."
+                "narration_line": "An empty gas carrier paid a record four point six million dollar auction fee to bypass Panama Canal queues. Soaring transit surcharges reflect escalating global vessel rerouting costs."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: TARIFF IMPLEMENTATION",
-                "teaserTitle": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
+                "headline": "CYBERSECURITY: FREIGHT NETWORK BREACH",
+                "teaserTitle": "CARGO SECURITY: HIGH-TECH THEFT SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The trade representative initiated section three oh one tariffs against sixty nations as prior duties expired. Importers face severe border compliance risks unless supply chain traceability is verified."
+                "narration_line": "A major security breach at Uber Freight exposed one million sensitive operational files across its brokerage network. Shippers face critical identity verification vulnerabilities as freight platforms rush to harden cyber defenses."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
-                "teaserTitle": "MARITIME SECURITY: TANKER INCIDENTS",
+                "headline": "CARGO SECURITY: HIGH-TECH THEFT SURGE",
+                "teaserTitle": "CUSTOMS POLICY: DE MINIMIS ELIMINATION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "State authorities in Rhode Island and Utah placed strict limits on non-domiciled commercial driver licenses. These new credential rules threaten to sideline up to two hundred thousand truck drivers."
+                "narration_line": "Organized cargo theft rings have stolen nearly one hundred eleven million dollars in data center technology through staged highway collisions. Logistics security teams are deploying direct escort protocols to safeguard critical enterprise shipments."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME SECURITY: TANKER INCIDENTS",
-                "teaserTitle": "CARGO INTERCEPTION: ILLICIT SEIZURES",
+                "headline": "CUSTOMS POLICY: DE MINIMIS ELIMINATION",
+                "teaserTitle": "MARITIME ROUTING: EXTENDED DARK TRANSITS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Two commercial tankers suffered direct attacks in the Strait of Hormuz, disrupting regional maritime traffic. United Arab Emirates container volumes plunged sixty five percent following the security incidents."
+                "narration_line": "Air freight volumes and spot rates dropped sharply after the European Union eliminated its duty-free de minimis customs exemption. Cross-border ecommerce shippers must now restructure supply chains to absorb mandatory import compliance costs."
             },
             {
                 "slide_index": 5,
-                "headline": "CARGO INTERCEPTION: ILLICIT SEIZURES",
-                "teaserTitle": "PROPERTY METRICS: VACANCY CONTRACTION",
+                "headline": "MARITIME ROUTING: EXTENDED DARK TRANSITS",
+                "teaserTitle": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "UK authorities seized nearly three tons of cocaine valued at three hundred thirteen million dollars at London Gateway. Terminal operators are now enforcing extended physical inspections on perishable cargo."
+                "narration_line": "Commercial oil tankers are increasingly disabling tracking transponders to navigate volatile Middle Eastern chokepoints undetected. Marine insurers and energy traders face severe compliance oversight risks amid opaque offshore cargo transfers."
             },
             {
                 "slide_index": 6,
-                "headline": "PROPERTY METRICS: VACANCY CONTRACTION",
-                "teaserTitle": "RAILROAD OPERATIONS: MERGER SCRUTINY",
+                "headline": "AIR FREIGHT: SHENZHEN HUB EXPANSION",
+                "teaserTitle": "INTERMODAL INFRASTRUCTURE: SAUDI LANDBRIDGE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Industrial real estate vacancy contracted to seven point three percent as leasing demand exceeded new construction. Retailers and logistics providers face shrinking prime warehouse availability across major markets."
+                "narration_line": "DHL Express invested over two hundred million dollars to triple its air cargo handling capacity at Shenzhen. Freight forwarders gain dedicated Asian export infrastructure to mitigate transpacific air freight capacity bottlenecks."
             },
             {
                 "slide_index": 7,
-                "headline": "RAILROAD OPERATIONS: MERGER SCRUTINY",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "INTERMODAL INFRASTRUCTURE: SAUDI LANDBRIDGE",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Six state attorneys general formally opposed the proposed Union Pacific and Norfolk Southern merger. Union Pacific also imposed a one thousand dollar surcharge on key California intermodal routes."
+                "narration_line": "Mediterranean Shipping Company launched a new intermodal rail service connecting Saudi dry ports to regional ocean hubs. Global shippers are adopting inland desert corridors to circumvent persistent maritime chokepoint vulnerabilities."
             },
             {
                 "slide_index": 8,
