@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS EXPAND GLOBALLY",
+        "hookTitle": "PANAMA CANAL RECORD AUCTION SURCHARGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: HORMUZ TANKER STRIKES",
+                "headline": "PANAMA CANAL: RECORD AUCTION SURCHARGE",
+                "teaserTitle": "AIR CARGO: DHL SHENZHEN EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States is implementing Section three oh one tariffs on sixty trading nations over labor violations. Importers face immediate duty increases and rigorous origin verification across global supply lines."
+                "narration_line": "A tanker paid a record four point six million dollars to jump the Panama Canal queue. Shippers face multi-million dollar bypass fees or two-week vessel detours around South Africa."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ TANKER STRIKES",
-                "teaserTitle": "COMPLIANCE: BAE ARMS PENALTY",
+                "headline": "AIR CARGO: DHL SHENZHEN EXPANSION",
+                "teaserTitle": "CUSTOMS: DE MINIMIS EXEMPTION ENDS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Two oil tankers were attacked during outbound transits through the Strait of Hormuz. Vessel operators face steep war-risk surcharges as regional container volume plunges sixty-five percent."
+                "narration_line": "DHL Express opened a two hundred four million dollar hub expansion in Shenzhen. The expanded terminal triples sorting capacity to one hundred eighty thousand pieces per hour across Asia."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: BAE ARMS PENALTY",
-                "teaserTitle": "TRADE POLICY: DRONE IMPORT TARIFFS",
+                "headline": "CUSTOMS: DE MINIMIS EXEMPTION ENDS",
+                "teaserTitle": "INTERMODAL: STATE AGS OPPOSE MERGER",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "BAE Systems agreed to a thirty-six million dollar penalty for international arms export violations. Regulators suspended eighteen million dollars contingent upon immediate compliance software upgrades."
+                "narration_line": "A federal trade court upheld the termination of the eight hundred dollar de minimis customs exemption. Direct-to-consumer importers face immediate tariff assessments and mandatory formal entry declarations on all parcel shipments."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE POLICY: DRONE IMPORT TARIFFS",
-                "teaserTitle": "INTERMODAL: UP SURCHARGE ESCALATION",
+                "headline": "INTERMODAL: STATE AGS OPPOSE MERGER",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The United States enacted one hundred percent tariffs on imported commercial drones and critical components. Autonomous fleet operators face doubled hardware costs across expansion programs."
+                "narration_line": "Attorneys General from six states filed formal antitrust oppositions against the Union Pacific and Norfolk Southern merger. State regulators argue the rail consolidation will eliminate competition and raise freight rates."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL: UP SURCHARGE ESCALATION",
-                "teaserTitle": "REAL ESTATE: WAREHOUSE VACANCY DROP",
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "TRUCKING: ROADSIDE SAFETY CRACKDOWN",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Union Pacific raised California intermodal surcharges to one thousand dollars per container. Rail shippers must weigh expensive surcharges against surging regional trucking rates."
+                "narration_line": "A security breach at Uber Freight compromised more than one million files and freight rate records. Logistics providers face heightened risks of load spoofing and double-brokering fraud across digital platforms."
             },
             {
                 "slide_index": 6,
-                "headline": "REAL ESTATE: WAREHOUSE VACANCY DROP",
-                "teaserTitle": "TRUCKING: CDL RESTRICTION SURGE",
+                "headline": "TRUCKING: ROADSIDE SAFETY CRACKDOWN",
+                "teaserTitle": "OCEAN FREIGHT: ASIA-US RATES SURGE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Industrial real estate vacancy fell to seven point three percent as tenant absorption outpaced warehouse completions. Warehouse operators face higher asking rents in major transportation hubs."
+                "narration_line": "Federal and state inspectors placed one hundred fifty-nine commercial vehicles out of service during a multi-state safety sweep. The enforcement clampdown tightened regional truckload capacity across major freight corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING: CDL RESTRICTION SURGE",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "OCEAN FREIGHT: ASIA-US RATES SURGE",
+                "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Multiple states restricted non-domiciled commercial driver licenses, sidelining over two hundred thousand drivers. Motor carriers face tightening driver capacity and higher contracted linehaul rates."
+                "narration_line": "Asia to US East Coast container rates surged past eight thousand two hundred dollars per box. Ocean carriers report ninety-five percent vessel utilization as early holiday imports peak."
             },
             {
                 "slide_index": 8,
