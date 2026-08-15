@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA TRANSIT SURGE",
+        "hookTitle": "CONTRACT FREIGHT SURGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME ROUTING: PANAMA TRANSIT SURGE",
-                "teaserTitle": "MIDDLE EAST: HORMUZ MARITIME DISRUPTION",
+                "headline": "RATE DYNAMICS: CONTRACT FREIGHT SURGE",
+                "teaserTitle": "TRADE POLICY: TARIFF IMPLEMENTATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Panama Canal auction fees reached a record four point six million dollars for a single priority slot. Escalating bypass bidding forces shippers to weigh premium transit costs against long diversions."
+                "narration_line": "Contract freight rates are rising rapidly as maritime supply chain disruptions spread from spot markets. Enterprise shippers must adjust annual logistics budgets to maintain operational margin stability."
             },
             {
                 "slide_index": 2,
-                "headline": "MIDDLE EAST: HORMUZ MARITIME DISRUPTION",
-                "teaserTitle": "TRADE POLICY: USTR FORCED LABOR TARIFFS",
+                "headline": "TRADE POLICY: TARIFF IMPLEMENTATION",
+                "teaserTitle": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Fresh tanker attacks in the Strait of Hormuz drove regional port container volumes down sixty-five percent. Cargo owners are turning toward alternative land corridors to bypass elevated marine insurance risks."
+                "narration_line": "The trade representative initiated section three oh one tariffs against sixty nations as prior duties expired. Importers face severe border compliance risks unless supply chain traceability is verified."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE POLICY: USTR FORCED LABOR TARIFFS",
-                "teaserTitle": "CARGO SECURITY: LONDON GATEWAY INTERCEPTION",
+                "headline": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
+                "teaserTitle": "MARITIME SECURITY: TANKER INCIDENTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Trade authorities enacted Section three oh one tariffs on sixty trading nations to enforce strict labor compliance. Importers must execute comprehensive vendor documentation audits to prevent costly border holds."
+                "narration_line": "State authorities in Rhode Island and Utah placed strict limits on non-domiciled commercial driver licenses. These new credential rules threaten to sideline up to two hundred thousand truck drivers."
             },
             {
                 "slide_index": 4,
-                "headline": "CARGO SECURITY: LONDON GATEWAY INTERCEPTION",
-                "teaserTitle": "INTERMODAL RAIL: MERGER SCRUTINY ESCALATION",
+                "headline": "MARITIME SECURITY: TANKER INCIDENTS",
+                "teaserTitle": "CARGO INTERCEPTION: ILLICIT SEIZURES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "United Kingdom authorities intercepted over three hundred million dollars of contraband at London Gateway port. Perishable freight forwarders face intensified inspections and extended dwell times on cold chain routes."
+                "narration_line": "Two commercial tankers suffered direct attacks in the Strait of Hormuz, disrupting regional maritime traffic. United Arab Emirates container volumes plunged sixty five percent following the security incidents."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL RAIL: MERGER SCRUTINY ESCALATION",
-                "teaserTitle": "INDUSTRIAL PROPERTY: WAREHOUSE VACANCY CONTRACTION",
+                "headline": "CARGO INTERCEPTION: ILLICIT SEIZURES",
+                "teaserTitle": "PROPERTY METRICS: VACANCY CONTRACTION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Six state attorneys general formally opposed the major rail merger as intermodal surcharges climbed one thousand dollars per container. Rail shippers must diversify surface agreements to protect linehaul budgets."
+                "narration_line": "UK authorities seized nearly three tons of cocaine valued at three hundred thirteen million dollars at London Gateway. Terminal operators are now enforcing extended physical inspections on perishable cargo."
             },
             {
                 "slide_index": 6,
-                "headline": "INDUSTRIAL PROPERTY: WAREHOUSE VACANCY CONTRACTION",
-                "teaserTitle": "TRUCKING WORKFORCE: STATE CDL ENFORCEMENT",
+                "headline": "PROPERTY METRICS: VACANCY CONTRACTION",
+                "teaserTitle": "RAILROAD OPERATIONS: MERGER SCRUTINY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Industrial property vacancy rates declined to seven point three percent as national leasing demand outpaced new building deliveries. Logistics operators must lock in warehouse renewals early to avoid rising rental rates."
+                "narration_line": "Industrial real estate vacancy contracted to seven point three percent as leasing demand exceeded new construction. Retailers and logistics providers face shrinking prime warehouse availability across major markets."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING WORKFORCE: STATE CDL ENFORCEMENT",
+                "headline": "RAILROAD OPERATIONS: MERGER SCRUTINY",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "State regulators tightened non-domiciled commercial driver license rules, putting two hundred thousand drivers at risk. Motor carriers face immediate linehaul capacity squeezes and upward pressure on driver pay."
+                "narration_line": "Six state attorneys general formally opposed the proposed Union Pacific and Norfolk Southern merger. Union Pacific also imposed a one thousand dollar surcharge on key California intermodal routes."
             },
             {
                 "slide_index": 8,

@@ -1,35 +1,65 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA TRANSIT",
+        "titleWhite": "CONTRACT FREIGHT",
         "titleBlue": "SURGE",
-        "footerSummary": "Record auction fees and expanding maritime chokepoint delays force enterprise shippers to recalculate interoceanic freight allocations."
+        "footerSummary": "Escalating supply chain disruptions and surging spot rates drive widespread upward pressure across long-term contract freight agreements."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME ROUTING: PANAMA TRANSIT SURGE",
+            "heading": "RATE DYNAMICS: CONTRACT FREIGHT SURGE",
             "paragraphs": [
-                "Auction fees to bypass the Panama Canal transit queue surged to a record $4.6M this week as vessel operators maneuver around expanding maritime choke points. The liquefied petroleum gas carrier G. Arete secured the priority slot, surpassing the previous record auction bid of $3.975M.",
-                "Enterprise cargo owners face severe cost premiums as spot canal bidding escalates slot valuations across key transit windows. Shippers must evaluate whether paying multimillion-dollar bypass premiums outweighs the holding costs and schedule degradation of extended Cape horn diversions."
+                "Spillover effects from acute maritime disruptions are rapidly accelerating rate adjustments across long-term contract freight portfolios. Xeneta analysis indicates that upward pricing pressure is no longer confined to spot markets, forcing enterprise shippers to absorb rising baseline costs.",
+                "Procurement teams face significant budget variances as carriers push for higher fixed rates to mitigate persistent geopolitical volatility. Shippers must recalibrate annual transport budgets and establish dynamic contract mechanisms to maintain margin stability."
             ],
             "imageUrl": "",
-            "nextUpTease": "MIDDLE EAST: HORMUZ MARITIME DISRUPTION",
+            "nextUpTease": "TRADE POLICY: TARIFF IMPLEMENTATION",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T18:30:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MIDDLE EAST: HORMUZ MARITIME DISRUPTION",
+            "heading": "TRADE POLICY: TARIFF IMPLEMENTATION",
             "paragraphs": [
-                "Fresh maritime strikes hit two commercial tankers navigating the Strait of Hormuz, prompting international naval advisories and emergency rerouting protocols. Regional maritime throughput contracted sharply, with AD Ports reporting a 65% drop in container volume across affected UAE terminals.",
-                "Marine underwriters are adjusting war risk insurance premiums higher, driving up transit overhead for breakbulk and containerized cargo across the Persian Gulf. Shippers moving freight through regional gateways must secure secondary land-bridge corridors to mitigate sudden port closures."
+                "The Office of the United States Trade Representative has formally initiated Section 301 tariffs targeting 60 trading partners. The sweeping regulatory action coincides with the expiration of prior Section 122 duties, enforcing stringent compliance documentation at all ports of entry.",
+                "Importers face immediate margin compression and heightened border inspection risks unless upstream supply chain tiers achieve complete traceability. Customs compliance divisions must execute comprehensive bill-of-materials audits to prevent severe clearance delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: USTR FORCED LABOR TARIFFS",
+            "nextUpTease": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
+            "tags": [
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T10:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
+            "paragraphs": [
+                "State transportation departments in Rhode Island and Utah have enacted stringent limitations on non-domiciled commercial driver licenses. Industry projections indicate these state-level restrictions could sideline up to 200,000 professional drivers from active service.",
+                "Motor carriers are experiencing intense wage inflation and severe driver recruitment bottlenecks across regional and long-haul networks. Freight brokerages must continuously verify driver credentials to maintain compliant capacity pools and avoid critical service failures."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME SECURITY: TANKER INCIDENTS",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T12:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "MARITIME SECURITY: TANKER INCIDENTS",
+            "paragraphs": [
+                "Two commercial tankers sustained direct attacks while transiting the Strait of Hormuz, prompting immediate naval advisories and vessel rerouting. Regional container throughput experienced a 65% contraction across major United Arab Emirates terminals following the security escalation.",
+                "Marine underwriters have adjusted war risk premiums upward, significantly increasing operational overhead for energy and container shipments. Logistics planners moving freight through the Persian Gulf must secure alternative land-bridge routes to mitigate port vulnerabilities."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CARGO INTERCEPTION: ILLICIT SEIZURES",
             "tags": [
                 "Source: https://maritime-executive.com",
                 "Published: 2026-08-14T19:04:00Z",
@@ -37,29 +67,14 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "TRADE POLICY: USTR FORCED LABOR TARIFFS",
+            "id": 5,
+            "heading": "CARGO INTERCEPTION: ILLICIT SEIZURES",
             "paragraphs": [
-                "The Office of the United States Trade Representative formally enacted Section 301 tariffs against 60 trading partners to enforce stricter labor compliance standards. The sweeping measure replaces expiring Section 122 duties and mandates enhanced supply chain traceability documentation at U.S. ports of entry.",
-                "Global manufacturers face immediate margin compression and heightened border detention risks for noncompliant import filings. Customs compliance teams must deploy end-to-end bill-of-materials audits to verify upstream tier-two and tier-three vendor origins."
+                "United Kingdom law enforcement authorities intercepted a 2.9 metric ton consignment of contraband valued at $313 million at London Gateway. The enforcement operation represents one of the largest maritime interdictions recorded across regional container ports this year.",
+                "Terminal operators have intensified physical inspections and hold times on inbound refrigerated cargo originating from high-risk trade lanes. Perishable cargo forwarders must account for expanded customs dwell times and potential demurrage exposure during peak cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARGO SECURITY: LONDON GATEWAY INTERCEPTION",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T14:15:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "CARGO SECURITY: LONDON GATEWAY INTERCEPTION",
-            "paragraphs": [
-                "United Kingdom authorities seized 2.9 metric tons of illicit contraband valued at $313M concealed within a refrigerated container shipment at London Gateway. The enforcement action represents one of the largest maritime interdictions recorded across UK container terminals this year.",
-                "Terminal operators are escalating physical inspections and hold times on inbound refrigerated cargo originating from South American trade corridors. Perishable cargo forwarders must account for expanded customs dwell times and additional container demurrage exposure during peak arrival windows."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INTERMODAL RAIL: MERGER SCRUTINY ESCALATION",
+            "nextUpTease": "PROPERTY METRICS: VACANCY CONTRACTION",
             "tags": [
                 "Source: https://maritime-executive.com",
                 "Published: 2026-08-14T15:17:00Z",
@@ -67,47 +82,32 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "INTERMODAL RAIL: MERGER SCRUTINY ESCALATION",
+            "id": 6,
+            "heading": "PROPERTY METRICS: VACANCY CONTRACTION",
             "paragraphs": [
-                "Six state Attorneys General filed formal objections opposing the proposed Union Pacific and Norfolk Southern railroad combination, citing reduced regional competition. Concurrently, Union Pacific implemented a $1,000 per-container surcharge on select high-demand California intermodal outbound routes.",
-                "Intermodal logistics planners must absorb mounting rail linehaul surcharges while preparing for prolonged regulatory reviews that could reshape national line-haul agreements. Shippers must diversify domestic routing across competing surface carriers to safeguard rate flexibility."
+                "North American industrial real estate markets stabilized during the second quarter, with average facility vacancy contracting seven basis points to 7.3%. Colliers reported that net leasing absorption outpaced new warehouse completions as developer construction starts slowed across major hubs.",
+                "Third-party logistics providers and omnichannel retailers face shrinking prime space availability and firming lease rates in key markets. Supply chain directors must finalize distribution center renewals early to protect against substantial rental rate increases."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRIAL PROPERTY: WAREHOUSE VACANCY CONTRACTION",
+            "nextUpTease": "RAILROAD OPERATIONS: MERGER SCRUTINY",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-14T16:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 6,
-            "heading": "INDUSTRIAL PROPERTY: WAREHOUSE VACANCY CONTRACTION",
-            "paragraphs": [
-                "The North American industrial real estate sector stabilized in Q2 2026, with average facility vacancy contracting seven basis points to 7.3%. Colliers reported net leasing demand outpaced new warehouse completions as developer construction starts slowed across primary distribution hubs.",
-                "Third-party logistics providers and omnichannel retailers face shrinking prime space availability, reversing recent concessions on long-term industrial leases. Procurement directors must finalize distribution center renewals early to prevent substantial rent step-ups in core inland port markets."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRUCKING WORKFORCE: STATE CDL ENFORCEMENT",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T13:20:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "TRUCKING WORKFORCE: STATE CDL ENFORCEMENT",
+            "heading": "RAILROAD OPERATIONS: MERGER SCRUTINY",
             "paragraphs": [
-                "State transportation authorities in Rhode Island and Utah introduced strict restrictions on non-domiciled Commercial Driver's Licenses. Industry analysts project the tightening regulatory landscape could sideline up to 200,000 drivers as state agencies restrict credential renewals.",
-                "Motor carriers face intensifying driver recruitment pressure and elevated linehaul wage demands across regional and long-haul networks. Freight brokerages must continuously audit driver qualification files to maintain compliant carrier pools and prevent service failures."
+                "Six state Attorneys General filed formal regulatory objections opposing the proposed Union Pacific and Norfolk Southern merger over competition concerns. Concurrently, Union Pacific instituted a $1,000 per-container surcharge on select high-demand California intermodal outbound corridors.",
+                "Intermodal shippers must absorb immediate rail linehaul surcharges while navigating prolonged regulatory reviews that threaten long-term route stability. Cargo owners should diversify surface carrier allocations to preserve pricing flexibility and mitigate network bottlenecks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-14T17:05:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-14T14:00:00Z",
                 "Status: Audited & True"
             ]
         }
