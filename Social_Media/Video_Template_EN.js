@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP SURGE TO 4.6M USD",
+        "hookTitle": "DE MINIMIS ELIMINATION UPHELD BY TRADE COURT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OCEAN FREIGHT: QUEUE JUMP RECORD",
-                "teaserTitle": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "headline": "TRADE POLICY: DE MINIMIS ELIMINATION",
+                "teaserTitle": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker will cut the Panama Canal queue after paying a record four point six million dollar fee. Supply chain planners must factor these soaring transit costs directly into operating budgets."
+                "narration_line": "Federal trade courts have officially upheld the complete elimination of the eight hundred dollar de minimis exemption. Cross-border merchants must restructure operations as expedited postal channels face mandatory tariffs."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "headline": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
                 "teaserTitle": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The United States Trade Representative is advancing tariffs on sixty trading partners. Importers face heightened compliance friction and severe penalty exposure across international networks."
+                "narration_line": "Global air cargo networks face severe congestion as customs authorities ramp up physical parcel inspections. Shippers must navigate prolonged dwell times and unpredictable transit schedules."
             },
             {
                 "slide_index": 3,
                 "headline": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
-                "teaserTitle": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
+                "teaserTitle": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Two commercial tankers were struck in the Strait of Hormuz during overnight transit operations. Cargo owners must absorb surging war risk insurance premiums and extended delivery timelines."
+                "narration_line": "Commercial shipping in the Middle East faces heightened threats following consecutive tanker attacks in the Strait of Hormuz. Vessel operators are extending dark transit protocols to mitigate military risks."
             },
             {
                 "slide_index": 4,
-                "headline": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
-                "teaserTitle": "REGULATORY ENFORCEMENT: DRIVER LICENSE RESTRICTIONS",
+                "headline": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
+                "teaserTitle": "RAILWAY OPERATIONS: SURCHARGES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Tougher customs enforcement on low-value airfreight threatens parcel import volumes across major gateways. Providers must adapt to chronic terminal congestion and unpredictable clearance delays."
+                "narration_line": "State authorities in Rhode Island and Utah have enacted stringent limits on non-domiciled commercial driver licenses. Fleet operators face escalating wage pressures and reduced asset utilization."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATORY ENFORCEMENT: DRIVER LICENSE RESTRICTIONS",
-                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
+                "headline": "RAILWAY OPERATIONS: SURCHARGES",
+                "teaserTitle": "CYBERSECURITY: FRAUD BREACH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "State level restrictions on commercial driver licenses threaten to accelerate driver attrition. Fleet operators face mounting capacity constraints and escalating wage pressures."
+                "narration_line": "Union Pacific has announced aggressive intermodal surcharge increases reaching one thousand dollars per box. Intermodal shippers face immediate cost inflation across critical freight corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: PEAK SEASON SLUMP",
-                "teaserTitle": "MARITIME CRIME: COCAINE SEIZURE",
+                "headline": "CYBERSECURITY: FRAUD BREACH",
+                "teaserTitle": "TRADE POLICY: TARIFF COMPLIANCE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Global air cargo spot rates have dropped six percent amid muted peak season demand. Transport buyers must evaluate whether to lock in softer spot rates or secure flexible capacity."
+                "narration_line": "A massive security breach at Uber Freight has exposed millions of sensitive digital files. Transportation firms must invest heavily in advanced zero-trust architecture to prevent cargo fraud."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME CRIME: COCAINE SEIZURE",
+                "headline": "TRADE POLICY: TARIFF COMPLIANCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "British authorities intercepted a three hundred thirteen million dollar cocaine shipment hidden inside bananas. Importers must enforce stringent security protocols to prevent costly customs holds."
+                "narration_line": "The White House released reports detailing extensive transshipment schemes used to evade U.S. tariffs. Enforcement agencies are intensifying audits on re-labeled goods to combat illegal circumvention."
             },
             {
                 "slide_index": 8,
