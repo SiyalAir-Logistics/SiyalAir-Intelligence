@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME RISK: STRAIT TANKER ATTACKS",
-                "visual_caption": "USTR implements Section 301 tariffs across 60 trading nations. Importers face severe border compliance audits and mandatory origin checks."
+                "headline": "MARITIME: PANAMA CANAL QUEUE-JUMP SURGES",
+                "teaserTitle": "TRADE LAW: DE MINIMIS END",
+                "visual_caption": "The Panama Canal recorded a record queue-jump fee of $4.6M. Escalating Middle East maritime conflicts continue to drive extreme global shipping diversions."
             },
             {
                 "slide_index": 2,
-                "headline": "ENERGY SECURITY: STRAIT TANKER ATTACKS",
-                "teaserTitle": "TRADE LAW: DE MINIMIS ELIMINATION",
-                "visual_caption": "Tankers extend transit routes following Strait of Hormuz attacks. War-risk insurance spikes are driving up global bunker fuel costs."
+                "headline": "REGULATION: DE MINIMIS END",
+                "teaserTitle": "ENERGY SECURITY: TANKER DARKENING",
+                "visual_caption": "Trade courts have formally upheld the elimination of duty-free exemptions for low-value imports. Customs authorities are aggressively inspecting cross-border parcels to enforce compliance."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE LAW: DE MINIMIS ELIMINATION",
-                "teaserTitle": "CARGO SECURITY: DATA CENTER THEFT",
-                "visual_caption": "Trade courts uphold the elimination of the $800 duty-free exemption. DTC brands face immediate margin compression and clearance delays."
+                "headline": "ENERGY SECURITY: TANKER DARKENING",
+                "teaserTitle": "CARGO CRIME: DATA CENTER THEFT",
+                "visual_caption": "Crude tankers are extending transit routes and disabling transponders following regional military strikes. Underwriters have introduced steep war-risk surcharges across key energy corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "CARGO SECURITY: DATA CENTER THEFT",
-                "teaserTitle": "AIR CARGO CAPACITY: PEAK SEASON SLUMP",
-                "visual_caption": "Criminal networks steal $111M in high-value data center freight. Motor carriers deploy advanced tracking and armed transport escorts."
+                "headline": "CARGO CRIME: DATA CENTER THEFT",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
+                "visual_caption": "Criminal networks have stolen nearly $111M in high-value data center freight. Carriers face soaring insurance deductibles and mandatory trailer tracking."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO CAPACITY: PEAK SEASON SLUMP",
-                "teaserTitle": "REGULATORY COMPLIANCE: NON-DOMICILED CDLS",
-                "visual_caption": "Global air cargo spot rates drop 6% as peak season demand softens. Shippers gain tactical leverage to negotiate short-term contracts."
+                "headline": "AIR CARGO: PEAK SEASON SLUMP",
+                "teaserTitle": "TRUCKING COMPLIANCE: CDL RESTRICTIONS",
+                "visual_caption": "Global air cargo spot rates declined 6% amid a surprisingly sluggish peak shipping season. Shippers now gain tactical leverage to negotiate favorable short-term air contracts."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
-                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN ENERGY INCENTIVES",
-                "visual_caption": "State transport agencies restrict non-domiciled commercial driver licenses. Fleets face driver shortages and rising linehaul expenses."
+                "headline": "TRUCKING COMPLIANCE: CDL RESTRICTIONS",
+                "teaserTitle": "PORT DECARBONIZATION: INCENTIVES",
+                "visual_caption": "State transportation departments have enacted strict operational limits on non-domiciled commercial driver licenses. These new restrictions could sideline 200K foreign drivers nationwide."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT INFRASTRUCTURE: CLEAN ENERGY INCENTIVES",
+                "headline": "PORT DECARBONIZATION: INCENTIVES",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "LA and Long Beach boost financial incentives for green container ships. Ocean carriers must upgrade fleets to avoid terminal penalties."
+                "visual_caption": "Major West Coast ports established financial incentives to reward carriers deploying low-emission vessels. Non-compliant operators face substantial financial penalties and lost terminal rebates."
             },
             {
                 "slide_index": 8,
