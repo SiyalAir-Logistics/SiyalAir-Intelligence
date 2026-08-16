@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE LAW: DE MINIMIS EXEMPTION STRIPPED",
-                "teaserTitle": "MARITIME: STRAIT OF HORMUZ ATTACKS",
-                "visual_caption": "The federal trade court officially upheld the complete elimination of the $800 de minimis customs duty exemption. Cross-border ecommerce shippers now face mandatory entry filings, heightened customs inspections, and increased per-package administrative costs."
+                "headline": "MARITIME: PANAMA CANAL FEE TOPS $4.6M",
+                "teaserTitle": "TRADE LAW: USTR SECTION 301 TARIFFS",
+                "visual_caption": "An empty LPG tanker will bypass the Panama Canal queue after paying a record $4.6M priority fee. This unprecedented bidding milestone underscores severe global shipping bottlenecks."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: STRAIT OF HORMUZ ATTACKS",
-                "teaserTitle": "AIR CARGO: DHL SHENZHEN HUB EXPANSION",
-                "visual_caption": "Two commercial oil tankers were struck during outbound transits through the Strait of Hormuz overnight. Maritime carriers and energy traders are facing immediate insurance premium spikes and mounting pressure to redirect global tanker lanes."
+                "headline": "TRADE LAW: USTR SECTION 301 TARIFFS",
+                "teaserTitle": "AIR CARGO: H2 VOLATILITY AND CAPACITY",
+                "visual_caption": "The USTR is implementing strict tariffs on 60 trading partners under Section 301. Importers face immediate compliance overhauls and rising landed costs."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: DHL SHENZHEN HUB EXPANSION",
-                "teaserTitle": "INTERMODAL: BNSF RAIL THEFT ARRESTS",
-                "visual_caption": "DHL Express has completed a $204M terminal expansion in Shenzhen to triple handling capacity. Logistics providers are securing dedicated South China airfreight gateways to insulate high-tech supply chains against regional bottlenecks."
+                "headline": "AIR CARGO: H2 VOLATILITY AND CAPACITY",
+                "teaserTitle": "MARITIME: STRAIT OF HORMUZ TANKER STRIKES",
+                "visual_caption": "Global air cargo spot rates dropped 6% MoM as muted peak season activity signals a softer H2. Shippers gain leverage to secure favorable charter rates."
             },
             {
                 "slide_index": 4,
-                "headline": "INTERMODAL: BNSF RAIL THEFT ARRESTS",
-                "teaserTitle": "OCEAN FREIGHT: BUENAVENTURA PORT DIVERSIONS",
-                "visual_caption": "Federal authorities arrested 5 suspects involved in armed cargo thefts targeting moving BNSF freight trains in Southern California. Intermodal shippers must reinforce container locking hardware and deploy active cellular trackers across high-risk rail corridors."
+                "headline": "MARITIME: STRAIT OF HORMUZ TANKER STRIKES",
+                "teaserTitle": "RETAIL: IMPORT PEAK SURGE",
+                "visual_caption": "Two commercial tankers were targeted in weapon strikes overnight in the Strait of Hormuz. Regional security escalations continue to disrupt critical energy export channels."
             },
             {
                 "slide_index": 5,
-                "headline": "OCEAN FREIGHT: BUENAVENTURA PORT DIVERSIONS",
-                "teaserTitle": "BORDER CARGO: CROSS-BORDER ILLICIT INTERCEPTIONS",
-                "visual_caption": "Ocean carrier CMA CGM is preparing emergency container vessel diversions as port disruption persists at Buenaventura. Shippers navigating South American trade corridors face escalating container dwell times and selective port congestion surcharges."
+                "headline": "RETAIL: IMPORT PEAK SURGE",
+                "teaserTitle": "BORDER SECURITY: CONTRABAND INTERCEPTION",
+                "visual_caption": "U.S. port container imports peaked early as businesses pulled forward holiday inventory. Warehousing networks face compressed capacity windows and terminal congestion."
             },
             {
                 "slide_index": 6,
-                "headline": "BORDER CARGO: CROSS-BORDER ILLICIT INTERCEPTIONS",
-                "teaserTitle": "RAILWAYS: STATE ATTORNEYS OPPOSE UP-NS",
-                "visual_caption": "Customs authorities intercepted $6.6M in illicit cargo shipments moving across northern border crossings in 4 days. Cross-border commercial motor carriers face escalated secondary inspections and potential border crossing delays."
+                "headline": "BORDER SECURITY: CONTRABAND INTERCEPTION",
+                "teaserTitle": "RAILWAY: CLASS I MERGER OPPOSITION",
+                "visual_caption": "Border agents intercepted $6.6M in contraband concealed within commercial semi-trailers. Authorities have mandated rigorous secondary inspections for incoming freight."
             },
             {
                 "slide_index": 7,
-                "headline": "RAILWAYS: STATE ATTORNEYS OPPOSE UP-NS",
+                "headline": "RAILWAY: CLASS I MERGER OPPOSITION",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Attorneys General from 6 states filed formal oppositions against the proposed merger between Union Pacific and Norfolk Southern. Rail freight customers face long-term tariff uncertainties as regulators scrutinize rail carrier competition across major transit arteries."
+                "visual_caption": "Attorneys General from 6 states filed formal opposition against the UP-NS railroad merger. The coalition cites anti-competitive market concentration across rail corridors."
             },
             {
                 "slide_index": 8,

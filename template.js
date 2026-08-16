@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DE MINIMIS EXEMPTION",
-        "titleBlue": "STRIPPED",
-        "footerSummary": "Trade court confirms de minimis closure as Gulf tanker strikes escalate war risk surcharges and DHL opens a $204M Shenzhen hub."
+        "titleWhite": "PANAMA CANAL FEE TOPS",
+        "titleBlue": "$4.6M",
+        "footerSummary": "Panama Canal queue fees hit $4.6M as Strait of Hormuz tanker attacks push war risk surcharges and global routing to extremes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE LAW: DE MINIMIS EXEMPTION STRIPPED",
+            "heading": "MARITIME: PANAMA CANAL FEE TOPS $4.6M",
             "paragraphs": [
-                "The federal trade court officially upheld the termination of the $800 de minimis customs exemption, eliminating the low-value entry threshold for cross-border shipments. Customs and Border Protection is actively enforcing formal entry protocols on all previously exempted consumer parcels.",
-                "Direct-to-consumer retailers and international air freight consolidators face immediate margin compression alongside mandatory customs brokerage overhead. Cross-border merchants must overhaul automated declaration systems to mitigate systemic clearance delays at major air cargo gateways."
+                "An empty liquefied petroleum gas tanker will bypass the entire Panama Canal queue next week after paying a record $4.6 million priority fee. This unprecedented bidding milestone surpasses the previous high mark of $3.975 million as geopolitical bottlenecks intensify global shipping competition.",
+                "Ocean carriers and energy charterers face severe margin compression and escalating transit costs as alternative routes remain constrained. Procurement teams must account for exorbitant priority tolls when calculating spot market delivery economics across constrained global trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: STRAIT OF HORMUZ ATTACKS",
+            "nextUpTease": "TRADE LAW: USTR SECTION 301 TARIFFS",
             "tags": [
-                "Source: https://theloadstar.com/de-minimis-is-dead-and-now-legally-buried/",
-                "Published: 2026-08-16T06:15:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: STRAIT OF HORMUZ ATTACKS",
+            "heading": "TRADE LAW: USTR SECTION 301 TARIFFS",
             "paragraphs": [
-                "Two commercial tankers were targeted in weapon strikes overnight while navigating outbound corridors through the Strait of Hormuz, according to UKMTO filings. The maritime incident marks a sharp escalation in Persian Gulf navigational hazards, prompting regional security re-evaluations.",
-                "Ocean freight lines and energy charterers face immediate spikes in war risk insurance premiums and widening tanker charter spreads. Global procurement teams must price in extended Cape transit alternatives and rising fuel bunker adjustment factors."
+                "The Office of the United States Trade Representative is moving forward with the implementation of strict tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. This aggressive regulatory rollout coincides with the simultaneous expiration of Section 122 tariffs across multiple manufacturing sectors.",
+                "Importers and global supply chain directors face immediate customs compliance overhauls and rising landed costs on raw material inputs. Logistics professionals must recalibrate sourcing models and audit supplier country-of-origin documentation to mitigate unexpected duty liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: DHL SHENZHEN HUB EXPANSION",
+            "nextUpTease": "AIR CARGO: H2 VOLATILITY AND CAPACITY",
             "tags": [
-                "Source: https://maritime-executive.com/article/two-more-tankers-attacked-in-the-strait-of-hormuz",
-                "Published: 2026-08-14T19:04:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: DHL SHENZHEN HUB EXPANSION",
+            "heading": "AIR CARGO: H2 VOLATILITY AND CAPACITY",
             "paragraphs": [
-                "DHL Express completed a $204M infrastructure expansion at its Shenzhen air cargo hub, tripling freight processing and sortation throughput across southern China. The investment establishes a high-throughput gateway capable of handling accelerated intra-Asia and transpacific export volumes.",
-                "High-tech electronics and automotive shippers gain essential air cargo lift resilience as Q3 peak shipping volumes accelerate out of Asian manufacturing corridors. Enterprise logistics planners should evaluate dedicated hub allocations to bypass tier-one gateway congestion."
+                "Global air cargo spot rates dropped 6% month over month as muted peak season activity signals a softer-than-expected second half. Xeneta reports that carriers are adjusting capacity management strategies downward as international shippers experience broader pricing leverage.",
+                "Forwarders and air freight consolidators must reevaluate pricing models and contract commitments to capture shifting market dynamics. Shippers gain a strategic window to secure favorable mid-term air charter rates ahead of anticipated Q4 volume surges."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: BNSF RAIL THEFT ARRESTS",
+            "nextUpTease": "MARITIME: STRAIT OF HORMUZ TANKER STRIKES",
             "tags": [
-                "Source: https://www.freightwaves.com/news/dhl-express-triples-shenzhen-air-cargo-capacity",
-                "Published: 2026-08-14T14:20:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INTERMODAL: BNSF RAIL THEFT ARRESTS",
+            "heading": "MARITIME: STRAIT OF HORMUZ TANKER STRIKES",
             "paragraphs": [
-                "Federal and local law enforcement apprehended 5 suspects in Southern California following an armed cargo theft operation targeting moving BNSF freight trains. The specialized intermodal theft ring targeted high-value consumer electronics and retail merchandise directly from moving boxcars.",
-                "Intermodal logistics operators and rail cargo owners face mounting inventory shrinkage risks and heightened private security requirements across inland rail corridors. Logistics directors must mandate tamper-evident barrier seals and real-time container telematics across West Coast rail lanes."
+                "Two commercial tankers were targeted in weapon strikes overnight while transiting outbound channels through the Strait of Hormuz. Regional maritime authorities report that persistent security escalations continue to disrupt critical energy export corridors out of the Persian Gulf.",
+                "Energy charterers and ocean freight operators face soaring war risk insurance premiums and extended transit delays via cape alternatives. Supply chain executives must incorporate heightened risk buffers into petroleum and chemical feedstock procurement schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: BUENAVENTURA PORT DIVERSIONS",
+            "nextUpTease": "RETAIL: IMPORT PEAK SURGE",
             "tags": [
-                "Source: https://www.freightwaves.com/news/5-suspects-arrested-in-socal-rail-cargo-theft-probe",
-                "Published: 2026-08-14T17:10:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T19:04:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "OCEAN FREIGHT: BUENAVENTURA PORT DIVERSIONS",
+            "heading": "RETAIL: IMPORT PEAK SURGE",
             "paragraphs": [
-                "Ocean carrier CMA CGM is actively evaluating vessel diversions away from Colombia\u2019s Port of Buenaventura due to severe landside congestion and terminal berth bottlenecks. Ongoing logistical disruptions have severely constrained container handling speeds and extended coastal vessel dwell schedules.",
-                "Importers and exporters operating on Latin American trade lanes face disruptive cargo rollings, delayed transit times, and unexpected destination dwell surcharges. Shippers must review alternative feeder loops and multimodal overland routing to preserve delivery schedules."
+                "National Retail Federation data indicates that container imports at major U.S. ports have peaked early as businesses aggressively build inventory ahead of impending tariff increases. Importers have pulled forward holiday stocking schedules to insulate supply chains from regulatory volatility.",
+                "Warehousing networks and drayage operators face compressed peak season capacity windows and heightened terminal congestion across coastal gateways. Logistics managers must optimize inventory placement strategies to prevent costly detention and demurrage charges."
             ],
             "imageUrl": "",
-            "nextUpTease": "BORDER CARGO: CROSS-BORDER ILLICIT INTERCEPTIONS",
+            "nextUpTease": "BORDER SECURITY: CONTRABAND INTERCEPTION",
             "tags": [
-                "Source: https://splash247.com/cma-cgm-weighs-port-diversions-as-buenaventura-disruption-persists/",
-                "Published: 2026-08-15T09:40:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "BORDER CARGO: CROSS-BORDER ILLICIT INTERCEPTIONS",
+            "heading": "BORDER SECURITY: CONTRABAND INTERCEPTION",
             "paragraphs": [
-                "Customs enforcement teams intercepted $6.6M in illicit vapes and contraband cargo concealed in U.S. commercial semi-trailers crossing the northern border over a 4-day span. The seizure triggered heightened secondary inspection mandates for commercial motor vehicles at international border ports of entry.",
-                "Cross-border motor carriers and logistics intermediaries face lengthened border queue times, increased drayage dwell costs, and severe carrier compliance audits. Shippers must enforce stringent seal verifications and advance cargo manifest screening to avoid border transit holds."
+                "Cross-border enforcement operations intercepted $6.6 million in illicit vapes and nicotine products concealed within commercial semi-trailers entering through northern border checkpoints. Customs authorities have subsequently mandated rigorous secondary inspection protocols for all incoming freight carriers.",
+                "Motor carriers and logistics intermediaries face extended border crossing delays, increased drayage dwell times, and stringent compliance audits. Fleet operators must enforce advanced cargo manifest verification and tamper-evident seal controls to maintain border fluidity."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAYS: STATE ATTORNEYS OPPOSE UP-NS",
+            "nextUpTease": "RAILWAY: CLASS I MERGER OPPOSITION",
             "tags": [
-                "Source: https://www.freightwaves.com/news/6-6m-in-vapes-nicotine-pouches-seized-from-us-semis",
-                "Published: 2026-08-14T15:35:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAILWAYS: STATE ATTORNEYS OPPOSE UP-NS",
+            "heading": "RAILWAY: CLASS I MERGER OPPOSITION",
             "paragraphs": [
-                "Attorneys General from 6 states submitted a formal joint filing opposing the proposed Class I railroad merger between Union Pacific and Norfolk Southern. The state regulatory coalition argued the merger creates anti-competitive market concentration and fails to deliver tangible public benefits.",
-                "Industrial shippers and intermodal rail users face long-term routing uncertainty and potential rate escalation across key transcontinental rail corridors. Enterprise supply chain strategists must monitor regulatory proceedings to evaluate captive-shipper freight exposure."
+                "Attorneys General from six states submitted formal joint filings opposing the proposed Union Pacific and Norfolk Southern Class I railroad merger. The regulatory coalition argues that the consolidation creates severe anti-competitive market concentration across transcontinental freight corridors.",
+                "Industrial shippers and intermodal rail users face prolonged regulatory uncertainty and potential rate volatility across key domestic routes. Enterprise supply chain strategists must monitor proceedings closely to assess long-term freight exposure and service reliability."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/six_state_ags_oppose_up_ns_merger",
-                "Published: 2026-08-14T11:20:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
