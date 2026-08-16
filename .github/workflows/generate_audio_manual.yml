@@ -1,7 +1,10 @@
 name: Manual Audio Generation Test
 
 on:
-  workflow_dispatch: # Allows you to trigger this manually from the GitHub Actions tab
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate-audio:
@@ -29,15 +32,15 @@ jobs:
           npm install
           npm install ffprobe-static ffmpeg-static
 
-      - name: Run Script to Generate Audio
+      - name: Run Script to Generate Combined Audio
         run: |
           cd Social_Media
           node generate_short.js
 
-      - name: Upload MP3 Artifacts for Download
-        uses: actions/upload-artifact@v4
-        with:
-          name: social-media-mp3-audio-files
-          path: |
-            Social_Media/slide_audio_*.mp3
-          retention-days: 1
+      - name: Commit and Push Combined MP3 to Repository
+        run: |
+          git config --global user.name "SiyalAir-Bot"
+          git config --global user.email "bot@siyalair.com"
+          git add Social_Media/combined_audio_*.mp3
+          git commit -m "Auto-generate combined master audio MP3 [skip ci]" || echo "No changes to commit"
+          git push
