@@ -1,20 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DE MINIMIS LOOPHOLE",
-        "titleBlue": "DEAD",
-        "footerSummary": "Trade courts strike down the final avenues for low-value exemptions, forcing shippers to restructure cross-border ecommerce compliance models immediately."
+        "titleWhite": "DE MINIMIS IS DEAD AND",
+        "titleBlue": "BURIED",
+        "footerSummary": "The federal trade court officially shuts down the 800 USD loophole as supply chain managers absorb aggressive tariff enforcement across global corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: DE MINIMIS LOOPHOLE DEAD",
+            "heading": "TRADE POLICY: DE MINIMIS ELIMINATION",
             "paragraphs": [
-                "The U.S. Court of International Trade has officially upheld the total elimination of de minimis exemptions, closing off the remaining legal pathways for duty-free low-value imports. This landmark judicial ruling strips online retail supply chains of historical tariff avoidance benefits that previously streamlined cross-border parcel delivery.",
-                "Importers must immediately overhaul their customs data architectures and prep for heightened administrative burdens across inbound entry points. Failing to adapt compliance frameworks risks severe border delays and unexpected retroactive duty assessments on high-volume parcel flows."
+                "The federal trade court has officially upheld the total elimination of the longstanding 800 USD de minimis exemption, effectively closing the door on duty-free low-value imports. Importers and cross-border forwarders face immediate compliance restructuring as legacy loophole pathways are permanently dismantled.",
+                "Logistics executives must absorb sweeping customs friction and recalibrate landed cost structures across international supply chain networks. Financial forecasting models require urgent updates to account for mandatory duty collection on all incoming commercial parcels."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME LOGISTICS: RATE SPREAD",
+            "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: 2026-08-16T00:00:00Z",
@@ -23,43 +23,43 @@ const dailyData = {
         },
         {
             "id": 2,
-            "heading": "MARITIME LOGISTICS: RATE SPREAD",
+            "heading": "AIR CARGO: PEAK SEASON SLUMP",
             "paragraphs": [
-                "Spurred by persistent geopolitical disruptions in the Middle East, ocean freight rate increases are rapidly migrating from spot markets directly into multi-year shipper contracts. Xeneta data indicates that carriers are successfully locking in elevated baseline charges as network volatility becomes an industry standard.",
-                "Logistics procurement teams face aggressive margin compression during upcoming carrier negotiations and annual RFP cycles. Shippers must diversify modal strategies and adopt dynamic routing models to insulate operating budgets from runaway maritime freight costs."
+                "Muted air cargo peak season activity is signaling weaker second-half demand as global spot rates drop 6% month over month. Xeneta reports that pricing power is rapidly shifting back to shippers, creating unexpected capacity headroom across major trade lanes.",
+                "Carriers face pressing yield management challenges as historical seasonal volume surges fail to materialize in traditional Q3 corridors. Transport buyers must evaluate whether to lock in softer spot rates or secure flexible multi-month capacity agreements."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: CUSTOMS CRACKDOWN",
+            "nextUpTease": "OCEAN FREIGHT: RATE SURGE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: CUSTOMS CRACKDOWN",
+            "heading": "OCEAN FREIGHT: RATE SURGE",
             "paragraphs": [
-                "A sweeping enforcement wave targeting low-value air cargo shipments is threatening to reverse historical volume gains across cross-border ecommerce lanes. Heightened inspection protocols at major gateway hubs are slowing down transit times and increasing terminal dwell metrics for express forwarders.",
-                "Air freight operators are seeing immediate shifts in capacity utilization as shippers re-evaluate expedited inventory strategies in light of added regulatory friction. Logistics managers must factor extended clearance windows into time-sensitive distribution schedules to preserve service-level agreements."
+                "Asia to US East Coast ocean freight rates have climbed to a striking new high as sustained import volumes defy traditional seasonal patterns. Freightos confirms that robust early peak season demand is taking market observers completely by surprise, tightening available vessel slots.",
+                "Shippers encounter severe margin compression and unexpected spot rate volatility just as annual budget allocations reach critical phases. Maritime logistics planners must optimize container utilization and secure forward allocations to mitigate escalating lane expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBER SECURITY: IDENTITY BREACH",
+            "nextUpTease": "CYBERSECURITY: FREIGHT BREACH",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CYBER SECURITY: IDENTITY BREACH",
+            "heading": "CYBERSECURITY: FREIGHT BREACH",
             "paragraphs": [
-                "A massive security breach at Uber Freight has exposed critical vulnerabilities in digital identity management systems across third-party logistics networks. Unauthorized actors accessed millions of sensitive data files, highlighting widespread gaps in freight platform credential security.",
-                "Transport intermediaries face escalating risks of fraudulent load-tendering and sophisticated cargo theft schemes exploiting compromised user profiles. Shippers and brokers must implement multi-factor authentication and rigorous vendor verification protocols to safeguard supply chain networks."
+                "A massive security breach at Uber Freight has exposed millions of sensitive identity files, laying bare deep vulnerabilities in logistics network architecture. This incident highlights critical gaps in digital credential management across modern freight matching and brokerage platforms.",
+                "Industry stakeholders face mounting pressure to overhaul digital defenses as cyber criminal syndicates increasingly target freight operational databases. Enterprise supply chains must enforce rigorous multi-factor authentication and continuous vendor security audits."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE REGULATION: FORCED LABOR",
+            "nextUpTease": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: 2026-08-15T00:00:00Z",
@@ -68,46 +68,46 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "TRADE REGULATION: FORCED LABOR",
+            "heading": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially advanced new tariffs targeting 60 trading partners under Section 301. These sweeping enforcement measures coincide with the expiration of older trade provisions, significantly tightening regulatory oversight on imports.",
-                "Importers face immediate compliance challenges and heightened administrative burdens as customs authorities audit cross-border supply chains. Supply chain directors must conduct rigorous vendor vetting to mitigate the financial fallout from expanded tariff enforcement."
+                "Aggressive customs crackdowns on low-value Chinese ecommerce shipments are directly threatening airfreight demand across international hubs. Regulatory authorities are intensifying physical and documentary inspections, effectively reversing years of frictionless parcel growth.",
+                "Cross-border retailers and air cargo forwarders must navigate severe terminal congestion and extended clearance delays. Supply chain directors need to diversify fulfillment strategies to prevent inventory bottlenecks at primary import gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: CLEAN ENERGY",
+            "nextUpTease": "RAIL INFRASTRUCTURE: CAPACITY CONSTRAINTS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PORT INFRASTRUCTURE: CLEAN ENERGY",
+            "heading": "RAIL INFRASTRUCTURE: CAPACITY CONSTRAINTS",
             "paragraphs": [
-                "The ports of Los Angeles and Long Beach have agreed to dramatically increase financial incentives for ocean carriers deploying low-emission vessels. This initiative aims to accelerate terminal decarbonization while addressing stringent regional clean air mandates.",
-                "Shipping lines must evaluate fleet allocation strategies to capture available port subsidies and avoid potential emissions-based terminal penalties. Terminal operators are prioritizing green infrastructure investments to accommodate shifting carrier fleet capabilities ahead of regulatory deadlines."
+                "Class I railroad speed metrics and terminal dwell times reveal tightening network fluidity across major transcontinental corridors. Intermodal shippers confront localized equipment shortages and rising ramp surcharges as container volumes continue to build.",
+                "Transportation managers must adapt to constrained rail capacity by optimizing loading schedules and exploring intermodal alternatives. Early carrier engagement is critical to securing equipment allocations ahead of projected autumn volume spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAY MERGERS: STATE OPPOSITION",
+            "nextUpTease": "AIR FREIGHT: CAPACITY EXPANSION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAILWAY MERGERS: STATE OPPOSITION",
+            "heading": "AIR FREIGHT: CAPACITY EXPANSION",
             "paragraphs": [
-                "A coalition of 6 state attorneys general has formally opposed the proposed Union Pacific and Norfolk Southern merger, calling projected competitive benefits insufficient. State regulators argue that the consolidation will degrade intermodal service quality and concentrate market power along vital freight corridors.",
-                "Rail shippers face prolonged regulatory uncertainty and potential legal roadblocks that threaten to delay critical transcontinental network alignments. Logistics planners must model alternative routing scenarios to protect freight velocity against impending rail sector consolidation."
+                "DHL Express has successfully tripled its dedicated air cargo capacity in Shenzhen through a major terminal infrastructure expansion. This strategic development strengthens regional logistics throughput to support surging manufacturing export volumes across Asia.",
+                "Supply chain leaders gain enhanced velocity for high-priority cross-border ecommerce and time-sensitive industrial freight. Shippers should leverage expanded gateway capabilities to optimize inventory flow and reduce transit variance."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

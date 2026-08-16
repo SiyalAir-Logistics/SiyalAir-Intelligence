@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DE MINIMIS LOOPHOLE DEAD",
+        "hookTitle": "DE MINIMIS IS DEAD AND BURIED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: DE MINIMIS LOOPHOLE DEAD",
-                "teaserTitle": "MARITIME LOGISTICS: RATE SPREAD",
+                "headline": "TRADE POLICY: DE MINIMIS ELIMINATION",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Trade courts have officially eliminated de minimis exemptions for low-value imports. Importers must urgently restructure cross-border customs data compliance models."
+                "narration_line": "The federal trade court has officially upheld the total elimination of the eight hundred dollar de minimis exemption. Importers and forwarders must immediately restructure compliance across all cross-border supply chain networks."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME LOGISTICS: RATE SPREAD",
-                "teaserTitle": "AIR CARGO: CUSTOMS CRACKDOWN",
+                "headline": "AIR CARGO: PEAK SEASON SLUMP",
+                "teaserTitle": "OCEAN FREIGHT: RATE SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Ocean freight rate increases are spreading from spot markets directly into multi-year contracts. Shippers face aggressive margin compression during upcoming negotiations."
+                "narration_line": "Muted air cargo peak season activity is signaling weaker demand with global spot rates down six percent. Pricing power is shifting to shippers as historical volume surges fail to materialize."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: CUSTOMS CRACKDOWN",
-                "teaserTitle": "CYBER SECURITY: IDENTITY BREACH",
+                "headline": "OCEAN FREIGHT: RATE SURGE",
+                "teaserTitle": "CYBERSECURITY: FREIGHT BREACH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Tougher customs treatment is threatening to reverse low-value air cargo ecommerce demand. Forwarders must prepare for extended terminal dwell times."
+                "narration_line": "Asia to United States East Coast ocean freight rates have climbed to a striking new high. Sustained import volumes are taking market observers by surprise and tightening available vessel slots."
             },
             {
                 "slide_index": 4,
-                "headline": "CYBER SECURITY: IDENTITY BREACH",
-                "teaserTitle": "TRADE REGULATION: FORCED LABOR",
+                "headline": "CYBERSECURITY: FREIGHT BREACH",
+                "teaserTitle": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A major security breach at Uber Freight has exposed critical digital identity gaps. Logistics networks face severe risks of fraudulent load tenders."
+                "narration_line": "A massive security breach at Uber Freight has exposed millions of sensitive identity files. This incident highlights critical digital vulnerabilities across modern freight matching platforms."
             },
             {
                 "slide_index": 5,
-                "headline": "TRADE REGULATION: FORCED LABOR",
-                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN ENERGY",
+                "headline": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
+                "teaserTitle": "RAIL INFRASTRUCTURE: CAPACITY CONSTRAINTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The trade representative is advancing new tariffs across sixty global trading partners. Importers must conduct rigorous vendor vetting to avoid penalties."
+                "narration_line": "Aggressive customs crackdowns on low-value Chinese ecommerce shipments are threatening airfreight demand. Regulatory authorities are intensifying physical inspections across international hubs."
             },
             {
                 "slide_index": 6,
-                "headline": "PORT INFRASTRUCTURE: CLEAN ENERGY",
-                "teaserTitle": "RAILWAY MERGERS: STATE OPPOSITION",
+                "headline": "RAIL INFRASTRUCTURE: CAPACITY CONSTRAINTS",
+                "teaserTitle": "AIR FREIGHT: CAPACITY EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "West Coast ports are increasing financial incentives for low-emission vessel operators. Carriers must optimize fleet allocations to capture terminal subsidies."
+                "narration_line": "Class I railroad speed metrics and terminal dwell times reveal tightening network fluidity. Intermodal shippers face localized equipment shortages as container volumes continue to build."
             },
             {
                 "slide_index": 7,
-                "headline": "RAILWAY MERGERS: STATE OPPOSITION",
+                "headline": "AIR FREIGHT: CAPACITY EXPANSION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Six state attorneys general have formally opposed the proposed Union Pacific merger. Shippers must model alternative routes against network consolidation."
+                "narration_line": "DHL Express has tripled its dedicated air cargo capacity in Shenzhen through terminal expansion. Supply chain leaders gain enhanced velocity for high-priority cross-border trade movements."
             },
             {
                 "slide_index": 8,
