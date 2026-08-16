@@ -1,65 +1,65 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL FEE TOPS",
-        "titleBlue": "$4.6M",
-        "footerSummary": "Panama Canal queue fees hit $4.6M as Strait of Hormuz tanker attacks push war risk surcharges and global routing to extremes."
+        "titleWhite": "DETENTION FEES MUST PROMOTE",
+        "titleBlue": "FLUIDITY",
+        "footerSummary": "Appals court upholds FMC detention rules as carrier disputes mount, signaling stricter federal oversight on logistics compliance and billing penalties."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL FEE TOPS $4.6M",
+            "heading": "MARITIME: DETENTION FEES MUST PROMOTE FLUIDITY",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker will bypass the entire Panama Canal queue next week after paying a record $4.6 million priority fee. This unprecedented bidding milestone surpasses the previous high mark of $3.975 million as geopolitical bottlenecks intensify global shipping competition.",
-                "Ocean carriers and energy charterers face severe margin compression and escalating transit costs as alternative routes remain constrained. Procurement teams must account for exorbitant priority tolls when calculating spot market delivery economics across constrained global trade lanes."
+                "The U.S. Court of Appeals for the D.C. Circuit issued a decisive ruling upholding the Federal Maritime Commission mandate that carrier detention and demurrage fees must actively incentivize cargo fluidity. This judicial validation reinforces federal oversight on carrier billing practices and provides legal backing for shippers contesting punitive terminal fees.",
+                "Ocean carriers and terminal operators face tighter regulatory scrutiny and potential liability for assessing charges during operational bottlenecks beyond shipper control. Logistics executives must audit current invoice dispute workflows to capitalize on strengthened federal protections and recover unwarranted accessorial costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE LAW: USTR SECTION 301 TARIFFS",
+            "nextUpTease": "TRADE LAW: FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.fmc.gov",
+                "Published: 2026-07-08T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE LAW: USTR SECTION 301 TARIFFS",
+            "heading": "TRADE LAW: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The Office of the United States Trade Representative is moving forward with the implementation of strict tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. This aggressive regulatory rollout coincides with the simultaneous expiration of Section 122 tariffs across multiple manufacturing sectors.",
-                "Importers and global supply chain directors face immediate customs compliance overhauls and rising landed costs on raw material inputs. Logistics professionals must recalibrate sourcing models and audit supplier country-of-origin documentation to mitigate unexpected duty liabilities."
+                "The Office of the United States Trade Representative is proceeding with strict forced labor-related tariffs targeting 60 trading partners as legacy Section 122 duties expire. This aggressive customs enforcement initiative is designed to root out compliance failures in overseas supply chain tiers and penalize non-compliant manufacturing inputs.",
+                "Importers face immediate landed cost spikes and rigorous origin verification audits that threaten established sourcing economics across global product lines. Supply chain directors must deploy advanced tier-one through tier-three traceability platforms to insulate import operations from severe regulatory penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: H2 VOLATILITY AND CAPACITY",
+            "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: H2 VOLATILITY AND CAPACITY",
+            "heading": "AIR CARGO: PEAK SEASON SLUMP",
             "paragraphs": [
-                "Global air cargo spot rates dropped 6% month over month as muted peak season activity signals a softer-than-expected second half. Xeneta reports that carriers are adjusting capacity management strategies downward as international shippers experience broader pricing leverage.",
-                "Forwarders and air freight consolidators must reevaluate pricing models and contract commitments to capture shifting market dynamics. Shippers gain a strategic window to secure favorable mid-term air charter rates ahead of anticipated Q4 volume surges."
+                "Global air cargo spot rates declined 6% month over month as muted early peak season activity signals a softer-than-expected demand curve for the second half of the year. Xeneta reports that international carriers are adjusting capacity allocations downward to prevent load factor erosion across major trade lanes.",
+                "Freight forwarders and enterprise shippers gain a tactical cost advantage to negotiate favorable short-term air charter agreements ahead of anticipated Q4 volume surges. Logistics managers should rebalance transport budgets to capture current rate softening before holiday inventory cycles tighten market capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: STRAIT OF HORMUZ TANKER STRIKES",
+            "nextUpTease": "MARITIME: TANKER STRIKES HORMUZ",
             "tags": [
                 "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: STRAIT OF HORMUZ TANKER STRIKES",
+            "heading": "MARITIME: TANKER STRIKES HORMUZ",
             "paragraphs": [
-                "Two commercial tankers were targeted in weapon strikes overnight while transiting outbound channels through the Strait of Hormuz. Regional maritime authorities report that persistent security escalations continue to disrupt critical energy export corridors out of the Persian Gulf.",
-                "Energy charterers and ocean freight operators face soaring war risk insurance premiums and extended transit delays via cape alternatives. Supply chain executives must incorporate heightened risk buffers into petroleum and chemical feedstock procurement schedules."
+                "Two commercial oil tankers sustained direct weapon strikes overnight while executing outbound transits through the contested shipping channels of the Strait of Hormuz. Regional maritime authorities report that persistent security threats are forcing regional charterers to adopt darker transits and lengthy cape diversions.",
+                "Energy logistics operators face soaring war risk insurance premiums and extended transit schedules that severely disrupt petroleum feedstock supply chains. Procurement teams must incorporate volatile bunker surcharges and extended lead times into enterprise commodity pricing models."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: IMPORT PEAK SURGE",
+            "nextUpTease": "REAL ESTATE: VACANCY RATES STABILIZE",
             "tags": [
                 "Source: https://maritime-executive.com",
                 "Published: 2026-08-14T19:04:00Z",
@@ -68,46 +68,46 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "RETAIL: IMPORT PEAK SURGE",
+            "heading": "REAL ESTATE: VACANCY RATES STABILIZE",
             "paragraphs": [
-                "National Retail Federation data indicates that container imports at major U.S. ports have peaked early as businesses aggressively build inventory ahead of impending tariff increases. Importers have pulled forward holiday stocking schedules to insulate supply chains from regulatory volatility.",
-                "Warehousing networks and drayage operators face compressed peak season capacity windows and heightened terminal congestion across coastal gateways. Logistics managers must optimize inventory placement strategies to prevent costly detention and demurrage charges."
+                "Colliers reports that the U.S. industrial real estate vacancy rate fell seven basis points sequentially to 7.3% in the second quarter, marking a period of supply-demand rebalancing. New warehouse construction starts have slowed significantly, allowing absorption rates to catch up with historical inventory pipelines.",
+                "Developers and corporate tenants face a tightening leasing market that restricts footprint expansion flexibility in core logistics hubs. Supply chain planners must lock in long-term lease renewals early to mitigate rising rental rate pressures across tier-one distribution corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "BORDER SECURITY: CONTRABAND INTERCEPTION",
+            "nextUpTease": "REGULATION: NON-DOMICILED CDL LIMITS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "BORDER SECURITY: CONTRABAND INTERCEPTION",
+            "heading": "REGULATION: NON-DOMICILED CDL LIMITS",
             "paragraphs": [
-                "Cross-border enforcement operations intercepted $6.6 million in illicit vapes and nicotine products concealed within commercial semi-trailers entering through northern border checkpoints. Customs authorities have subsequently mandated rigorous secondary inspection protocols for all incoming freight carriers.",
-                "Motor carriers and logistics intermediaries face extended border crossing delays, increased drayage dwell times, and stringent compliance audits. Fleet operators must enforce advanced cargo manifest verification and tamper-evident seal controls to maintain border fluidity."
+                "State authorities in Rhode Island and Utah have enacted stringent new restrictions governing the issuance and renewal of non-domiciled commercial driver's licenses. These localized enforcement measures are accelerating regional driver attrition and threatening to push driver losses past federal projections.",
+                "Motor carriers operating cross-border or multi-state freight networks face compounding driver shortages and escalating linehaul wage pressures. Fleet operators must upgrade compliance tracking systems and enhance retention incentives to preserve operational lane capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAY: CLASS I MERGER OPPOSITION",
+            "nextUpTease": "TECHNOLOGY: UBER FREIGHT BREACH",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAILWAY: CLASS I MERGER OPPOSITION",
+            "heading": "TECHNOLOGY: UBER FREIGHT BREACH",
             "paragraphs": [
-                "Attorneys General from six states submitted formal joint filings opposing the proposed Union Pacific and Norfolk Southern Class I railroad merger. The regulatory coalition argues that the consolidation creates severe anti-competitive market concentration across transcontinental freight corridors.",
-                "Industrial shippers and intermodal rail users face prolonged regulatory uncertainty and potential rate volatility across key domestic routes. Enterprise supply chain strategists must monitor proceedings closely to assess long-term freight exposure and service reliability."
+                "A massive cybersecurity breach involving millions of corporate files at Uber Freight has exposed critical identity security vulnerabilities across digital broker platforms. Security analysts warn that fragmented digital credentialing systems leave freight matching networks highly susceptible to fraudulent carrier onboarding.",
+                "Digital freight brokerages and enterprise shippers face urgent pressure to overhaul their third-party vendor verification and multi-factor authentication protocols. Risk management executives must conduct immediate security audits of connected transportation management systems to prevent cargo theft and data compromise."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

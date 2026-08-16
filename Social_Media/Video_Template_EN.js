@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL FEE TOPS 4.6 MILLION DOLLARS",
+        "hookTitle": "DETENTION FEES MUST PROMOTE FLUIDITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL FEE TOPS $4.6M",
-                "teaserTitle": "TRADE LAW: USTR SECTION 301 TARIFFS",
+                "headline": "MARITIME: DETENTION FEES MUST PROMOTE FLUIDITY",
+                "teaserTitle": "TRADE LAW: FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty liquefied petroleum gas tanker will bypass the Panama Canal queue after paying a record four point six million dollars. This unprecedented toll highlights severe global shipping constraints and soaring priority bidding."
+                "narration_line": "The Federal Appeals Court upheld Maritime Commission rules requiring detention fees to actively promote port fluidity. Shippers gain strengthened legal backing to contest unwarranted terminal accessorial charges."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE LAW: USTR SECTION 301 TARIFFS",
-                "teaserTitle": "AIR CARGO: H2 VOLATILITY AND CAPACITY",
+                "headline": "TRADE LAW: FORCED LABOR TARIFFS",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The trade representative is implementing strict tariffs on sixty trading partners under Section three hundred and one. Importers face immediate compliance overhauls and rising landed costs on raw material inputs."
+                "narration_line": "Trade representatives are advancing forced labor tariffs across sixty nations as legacy duties expire. Importers must upgrade supply chain traceability to avoid severe customs penalties."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: H2 VOLATILITY AND CAPACITY",
-                "teaserTitle": "MARITIME: STRAIT OF HORMUZ TANKER STRIKES",
+                "headline": "AIR CARGO: PEAK SEASON SLUMP",
+                "teaserTitle": "MARITIME: TANKER STRIKES HORMUZ",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Global air cargo spot rates dropped six percent as muted peak season activity signals a softer second half. Shippers gain a strategic window to secure favorable charter rates ahead of future volume surges."
+                "narration_line": "Global air cargo spot rates dropped six percent as muted peak season demand softens market pricing. Shippers can secure favorable charter terms ahead of fourth quarter volume surges."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: STRAIT OF HORMUZ TANKER STRIKES",
-                "teaserTitle": "RETAIL: IMPORT PEAK SURGE",
+                "headline": "MARITIME: TANKER STRIKES HORMUZ",
+                "teaserTitle": "REAL ESTATE: VACANCY RATES STABILIZE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Two commercial tankers were attacked in the Strait of Hormuz during outbound transits overnight. Persistent security escalations continue to disrupt critical energy export corridors across the Persian Gulf."
+                "narration_line": "Two commercial tankers suffered weapon strikes while transiting outbound channels in the Strait of Hormuz. Regional security escalations continue to drive up war risk insurance premiums."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL: IMPORT PEAK SURGE",
-                "teaserTitle": "BORDER SECURITY: CONTRABAND INTERCEPTION",
+                "headline": "REAL ESTATE: VACANCY RATES STABILIZE",
+                "teaserTitle": "REGULATION: NON-DOMICILED CDL LIMITS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Container imports at major U.S. ports have peaked early as businesses aggressively build holiday inventory. Warehousing networks and drayage operators face compressed capacity windows and coastal congestion."
+                "narration_line": "Industrial real estate vacancy fell to seven point three percent as construction pipelines rebalance. Corporate tenants face tighter leasing markets across prime distribution hubs."
             },
             {
                 "slide_index": 6,
-                "headline": "BORDER SECURITY: CONTRABAND INTERCEPTION",
-                "teaserTitle": "RAILWAY: CLASS I MERGER OPPOSITION",
+                "headline": "REGULATION: NON-DOMICILED CDL LIMITS",
+                "teaserTitle": "TECHNOLOGY: UBER FREIGHT BREACH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Border enforcement intercepted six point six million dollars in contraband concealed inside commercial semi-trailers. Authorities have mandated rigorous secondary inspections for all incoming freight carriers."
+                "narration_line": "New state-level restrictions on non-domiciled commercial driver licenses are worsening driver shortages. Motor carriers must enhance wage incentives to maintain network linehaul capacity."
             },
             {
                 "slide_index": 7,
-                "headline": "RAILWAY: CLASS I MERGER OPPOSITION",
+                "headline": "TECHNOLOGY: UBER FREIGHT BREACH",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "State attorneys general formally opposed the proposed Union Pacific and Norfolk Southern railroad merger. The coalition argues the consolidation creates severe anti-competitive market concentration across freight corridors."
+                "narration_line": "A major cybersecurity data breach at Uber Freight exposes severe identity security vulnerabilities. Logistics providers must upgrade digital onboarding protocols to prevent freight fraud."
             },
             {
                 "slide_index": 8,
