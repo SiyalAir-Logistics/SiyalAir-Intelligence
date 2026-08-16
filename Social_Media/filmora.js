@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "CANAL LOGISTICS: $4.6M AUCTION RECORD",
-                "visual_caption": "The USTR has implemented Section 301 tariffs across 60 partner nations. Importers face immediate administrative costs and heightened border scrutiny."
+                "headline": "CUSTOMS: DE MINIMIS DEAD",
+                "teaserTitle": "MARITIME: HORMUZ TANKER STRIKES",
+                "visual_caption": "The U.S. Court of International Trade has eliminated the $800 de minimis exemption. Importers must adapt to mandatory tariff collections on all low-value parcels."
             },
             {
                 "slide_index": 2,
-                "headline": "CANAL LOGISTICS: $4.6M AUCTION RECORD",
-                "teaserTitle": "MARITIME RISK: HORMUZ TANKER ATTACKS",
-                "visual_caption": "A tanker paid a record $4.6M auction fee to bypass Panama Canal queues. Maritime carriers are balancing massive crossing surcharges against multi-week detours."
+                "headline": "MARITIME: HORMUZ TANKER STRIKES",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "visual_caption": "Two oil tankers sustained direct strikes in the Strait of Hormuz. Marine operators are utilizing emergency dark transits to bypass regional conflict."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME RISK: HORMUZ TANKER ATTACKS",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
-                "visual_caption": "Two commercial tankers were attacked in the Strait of Hormuz during outbound transits. Operators are halting automated tracking transponders while war-risk insurance premiums escalate rapidly."
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "RAILWAY: UP CALIFORNIA SURCHARGES",
+                "visual_caption": "A major security breach at Uber Freight compromised over 1M digital files. Shippers face severe exposure to secondary carrier identity theft and fraud."
             },
             {
                 "slide_index": 4,
-                "headline": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
-                "teaserTitle": "INTERMODAL RAIL: $1,000 SURCHARGE HIKE",
-                "visual_caption": "A cybersecurity breach at Uber Freight exposed over 1M critical operational and identity files. Logistics brokers must reinforce API networks against targeted freight fraud schemes."
+                "headline": "RAILWAY: UP CALIFORNIA SURCHARGES",
+                "teaserTitle": "TRADE COMPLIANCE: BAE ARMS FINE",
+                "visual_caption": "Union Pacific imposed a $1,000 per-container surcharge on California intermodal lanes. Shippers face significant cost inflation amid tightening rail capacity."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL RAIL: $1,000 SURCHARGE HIKE",
-                "teaserTitle": "FREIGHT SECURITY: $111M THEFT SCHEME",
-                "visual_caption": "Union Pacific raised California intermodal surcharges to $1,000 per container box. Shippers face higher inland distribution expenses as 6 state officials challenge rail mergers."
+                "headline": "TRADE COMPLIANCE: BAE ARMS FINE",
+                "teaserTitle": "REGULATORY: CDL RECORD LAWSUIT",
+                "visual_caption": "BAE Systems will pay a $36M penalty for violating U.S. arms export regulations. Federal authorities suspended $18M tied to mandatory compliance upgrades."
             },
             {
                 "slide_index": 6,
-                "headline": "FREIGHT SECURITY: $111M THEFT SCHEME",
-                "teaserTitle": "AIR FREIGHT: $204M GATEWAY EXPANSION",
-                "visual_caption": "Investigators uncovered staged collisions tied to the theft of $111M in server freight. Electronics shippers are deploying real-time tracking sensors to secure high-value corridors."
+                "headline": "REGULATORY: CDL RECORD LAWSUIT",
+                "teaserTitle": "AIR CARGO: SHENZHEN EXPANSION",
+                "visual_caption": "Twenty-two states sued to block federal access to 17M trucker records. Motor carriers face growing friction as divergent regulations sideline drivers."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR FREIGHT: $204M GATEWAY EXPANSION",
+                "headline": "AIR CARGO: SHENZHEN EXPANSION",
                 "teaserTitle": "",
-                "visual_caption": "DHL Express invested $204M to triple cargo capacity at its Shenzhen gateway. Cross-border shippers secure expanded airfreight uplift across primary Asian manufacturing lanes."
+                "visual_caption": "DHL Express invested $204M to triple cargo processing capacity in Shenzhen. Global shippers gain accelerated customs clearance across Asian gateways."
             },
             {
                 "slide_index": 8,

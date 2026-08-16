@@ -1,107 +1,107 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "Global trade routes face immediate financial pressure as USTR Section 301 enforcement triggers new tariffs across 60 partner nations."
+        "titleWhite": "DE MINIMIS",
+        "titleBlue": "DEAD",
+        "footerSummary": "Global supply chains absorb massive cost shocks as U.S. trade courts permanently eliminate the $800 duty exemption for imports."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "CUSTOMS: DE MINIMIS DEAD",
             "paragraphs": [
-                "The Office of the United States Trade Representative has enacted sweeping import tariffs across 60 trading partners under Section 301 enforcement frameworks following the expiration of Section 122 rules. Federal authorities are mandating comprehensive supply chain origin mapping to restrict goods linked to non-compliant labor practices at international border checkpoints.",
-                "Enterprise importers face immediate administrative exposure and severe tariff rate increases across primary tier-1 manufacturing hubs. Shippers must rapidly reconfigure procurement documentation and audit supplier networks to prevent sustained cargo holds at primary customs gateways."
+                "The U.S. Court of International Trade has permanently struck down the long-standing $800 de minimis exemption, ending duty-free entry for low-value international shipments. Federal customs authorities are immediately enforcing full tariff collection and rigorous documentation standards on all cross-border parcel freight.",
+                "E-commerce enterprises and logistics forwarders face sudden administrative backlogs and steep margin compression across high-volume consumer trade lanes. Importers must instantly overhaul customs brokerage integrations to prevent widespread border holds and surging clearance fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANAL LOGISTICS: $4.6M AUCTION RECORD",
+            "nextUpTease": "MARITIME: HORMUZ TANKER STRIKES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-15T10:15:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-16T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CANAL LOGISTICS: $4.6M AUCTION RECORD",
+            "heading": "MARITIME: HORMUZ TANKER STRIKES",
             "paragraphs": [
-                "Panama Canal transit auction pricing has reached a record high of $4.6M as energy shippers aggressively outbid competing vessels to bypass expanding waterway transit backlogs. The G. Arete liquefied petroleum gas carrier secured the priority crossing slot amid tightening seasonal draft restrictions and severe global detour requirements.",
-                "Bulk and container carriers face escalating operational surcharges and transit delays as priority slot auctions drive maritime routing expenses to record levels. Freight operators must balance elevated canal premiums against multi-week alternative sailing detours around Cape Horn or the Cape of Good Hope."
+                "Commercial fleet operators are confronting severe mid-journey disruptions after two additional oil tankers sustained direct strikes in the Strait of Hormuz during outbound transits. Regional security threats have forced marine carriers to turn off AIS transponders and execute extended dark transits to bypass hostile waters.",
+                "Crude charterers and global energy supply chains face soaring war-risk insurance premiums and sudden schedule unreliability across vital Middle Eastern trade routes. Logistics directors must continuously adjust contingency routing models to mitigate escalating maritime security exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME RISK: HORMUZ TANKER ATTACKS",
+            "nextUpTease": "CYBERSECURITY: UBER FREIGHT BREACH",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T14:30:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T19:04:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME RISK: HORMUZ TANKER ATTACKS",
+            "heading": "CYBERSECURITY: UBER FREIGHT BREACH",
             "paragraphs": [
-                "Two commercial oil tankers sustained strikes in the Strait of Hormuz during outbound transits, triggering widespread military alerts and critical security warnings from UKMTO. Escalating regional hostilities have prompted several commercial fleet operators to turn off automated identification transponders and implement emergency dark transits.",
-                "Energy charterers and cargo owners are confronting surging maritime war-risk insurance premiums and sudden disruptions to middle-mile crude supply schedules. Logistics directors must continuously adjust contingency routing models as key maritime chokepoints face heightened security friction."
+                "A sophisticated social engineering attack on Uber Freight has compromised over 1M digital logistics records, exposing sensitive carrier identities and operational rate sheets. The breach has crippled internal dispatch workflows and left North American freight networks vulnerable to secondary exploitation.",
+                "Freight brokers and enterprise shippers face acute exposure to fictitious pickup schemes, cargo interception, and double-brokering fraud. Logistics managers must rapidly reinforce API access controls and mandate comprehensive vendor security audits across all digital transportation platforms."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
+            "nextUpTease": "RAILWAY: UP CALIFORNIA SURCHARGES",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T21:48:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
+            "heading": "RAILWAY: UP CALIFORNIA SURCHARGES",
             "paragraphs": [
-                "A major security breach at Uber Freight has compromised more than 1M digital logistics files following a targeted social engineering intrusion into third-party dispatch systems. The incident exposed critical carrier identity records, operational rate sheets, and sensitive load confirmation documents across North American freight networks.",
-                "Freight brokers and enterprise shippers face elevated exposure to secondary carrier identity theft, fictitious pickups, and double-brokering fraud schemes. Logistics organizations must instantly reinforce API security controls and conduct forensic audits across all third-party transportation management platforms."
+                "Union Pacific has instituted a $1,000 per-container excess surcharge on West Coast intermodal lanes as outbound cargo surges overwhelm regional rail capacity. Concurrently, six state attorneys general have formally petitioned federal regulators to block the proposed mega-merger between Union Pacific and Norfolk Southern.",
+                "Intermodal shippers face substantial per-unit cost increases across primary transcontinental distribution corridors. Supply chain directors must re-evaluate freight allocation strategies between domestic highway transport and rail networks to preserve operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL RAIL: $1,000 SURCHARGE HIKE",
+            "nextUpTease": "TRADE COMPLIANCE: BAE ARMS FINE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-15T08:20:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-15T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INTERMODAL RAIL: $1,000 SURCHARGE HIKE",
+            "heading": "TRADE COMPLIANCE: BAE ARMS FINE",
             "paragraphs": [
-                "Union Pacific has implemented a $1,000 per-container excess surcharge on California intermodal lanes as outbound volume surges overwhelm available West Coast rail capacity. Concurrently, six state attorneys general have formally petitioned federal regulators to block the proposed Union Pacific and Norfolk Southern merger over antitrust concerns.",
-                "Intermodal shippers face substantial per-unit margin degradation across high-volume transcontinental transport corridors. Distribution managers must reassess mode split calculations between domestic truckload contracts and rail intermodal options to protect landed product costs."
+                "The U.S. Department of State has penalized BAE Systems $36M for severe violations of international arms export regulations and technical data controls. Federal regulators have agreed to suspend $18M of the penalty contingent upon the execution of aggressive compliance remediation programs.",
+                "Defense contractors and high-tech manufacturers face heightened scrutiny over cross-border technical data transfers and global export licensing protocols. Compliance executives must institute rigorous internal audits to insulate their operations from crippling regulatory penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT SECURITY: $111M THEFT SCHEME",
+            "nextUpTease": "REGULATORY: CDL RECORD LAWSUIT",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-15T11:45:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FREIGHT SECURITY: $111M THEFT SCHEME",
+            "heading": "REGULATORY: CDL RECORD LAWSUIT",
             "paragraphs": [
-                "Federal cargo theft investigations have uncovered targeted cargo theft operations that successfully intercepted nearly $111M in specialized data center server hardware and high-value components. Criminal networks are deploying staged highway collision tactics to forcibly divert loaded commercial tractor-trailers.",
-                "High-tech equipment manufacturers and contract motor carriers are incurring higher insurance deductibles and deploying specialized security escorts to safeguard high-value loads. Shippers must deploy real-time condition-tracking hardware and enforce strict non-stop corridor transit protocols."
+                "A coalition of 22 state attorneys general has filed a formal lawsuit to block federal initiatives granting access to 17M truck driver commercial license records. The legal challenge targets aggressive federal oversight attempts, exacerbating ongoing driver retention anxiety and cross-border credential friction.",
+                "Motor carriers face deepening operational uncertainty as divergent state regulations threaten to sideline thousands of non-domiciled commercial vehicle operators. Fleet executives must monitor state-level compliance mandates closely to prevent unexpected driver capacity deficits."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: $204M GATEWAY EXPANSION",
+            "nextUpTease": "AIR CARGO: SHENZHEN EXPANSION",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T18:10:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR FREIGHT: $204M GATEWAY EXPANSION",
+            "heading": "AIR CARGO: SHENZHEN EXPANSION",
             "paragraphs": [
-                "DHL Express has committed $204M to triple cargo processing capacity at its major Shenzhen air hub to capture expanding intra-Asia manufacturing trade volumes. The facility expansion introduces high-speed automated sorting infrastructure to accelerate customs clearance and outbound cross-border processing speeds.",
-                "Global electronics and e-commerce enterprises gain enhanced uplift capacity and reliable next-day routing reliability throughout Southern China. International supply chain planners must optimize consolidation schedules to leverage improved throughput at key Asian transport gateways."
+                "DHL Express has injected $204M into its major Shenzhen air hub to triple cargo processing capacity and capture expanding intra-Asia manufacturing trade. The upgraded gateway features high-speed automated sorting infrastructure designed to accelerate customs clearance times for cross-border freight.",
+                "Global electronics and e-commerce shippers gain enhanced uplift reliability and accelerated transit speeds throughout key Asian manufacturing corridors. Supply chain planners must optimize consolidation schedules to capitalize on superior throughput capacity at regional gateways."
             ],
             "imageUrl": "",
             "nextUpTease": "",

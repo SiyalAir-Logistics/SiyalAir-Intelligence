@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR EXPANDS SECTION 301 FORCED LABOR TARIFFS",
+        "hookTitle": "CUSTOMS DE MINIMIS DEAD",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "CANAL LOGISTICS: $4.6M AUCTION RECORD",
+                "headline": "CUSTOMS: DE MINIMIS DEAD",
+                "teaserTitle": "MARITIME: HORMUZ TANKER STRIKES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative has implemented Section three oh one tariffs across sixty partner nations. Importers face immediate administrative costs and heightened border scrutiny."
+                "narration_line": "The United States Court of International Trade has permanently eliminated the eight hundred dollar de minimis exemption. Importers must immediately absorb new tariff collections across all low-value cross-border shipments."
             },
             {
                 "slide_index": 2,
-                "headline": "CANAL LOGISTICS: $4.6M AUCTION RECORD",
-                "teaserTitle": "MARITIME RISK: HORMUZ TANKER ATTACKS",
+                "headline": "MARITIME: HORMUZ TANKER STRIKES",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A tanker paid a record four point six million dollar auction fee to bypass Panama Canal queues. Maritime carriers are balancing massive crossing surcharges against multi-week detours."
+                "narration_line": "Two commercial oil tankers sustained direct missile strikes during outbound transits through the Strait of Hormuz. Marine fleet operators are deploying emergency dark transits to bypass escalating regional conflict zones."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME RISK: HORMUZ TANKER ATTACKS",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "RAILWAY: UP CALIFORNIA SURCHARGES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Two commercial tankers were attacked in the Strait of Hormuz during outbound transits. Operators are halting automated tracking transponders while war-risk insurance premiums escalate rapidly."
+                "narration_line": "A major cyber security breach at Uber Freight has compromised over one million sensitive digital logistics files. Shippers face elevated exposure to secondary carrier identity theft and double-brokering fraud schemes."
             },
             {
                 "slide_index": 4,
-                "headline": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
-                "teaserTitle": "INTERMODAL RAIL: $1,000 SURCHARGE HIKE",
+                "headline": "RAILWAY: UP CALIFORNIA SURCHARGES",
+                "teaserTitle": "TRADE COMPLIANCE: BAE ARMS FINE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A cybersecurity breach at Uber Freight exposed over one million critical operational and identity files. Logistics brokers must reinforce application programming interfaces against targeted freight fraud schemes."
+                "narration_line": "Union Pacific has enforced a one thousand dollar per container surcharge on congested California intermodal corridors. Intermodal shippers must absorb substantial per unit margin compression as rail capacity tightens."
             },
             {
                 "slide_index": 5,
-                "headline": "INTERMODAL RAIL: $1,000 SURCHARGE HIKE",
-                "teaserTitle": "FREIGHT SECURITY: $111M THEFT SCHEME",
+                "headline": "TRADE COMPLIANCE: BAE ARMS FINE",
+                "teaserTitle": "REGULATORY: CDL RECORD LAWSUIT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Union Pacific raised California intermodal surcharges to one thousand dollars per container box. Shippers face higher inland distribution expenses as six state officials challenge rail mergers."
+                "narration_line": "Defense contractor BAE Systems has agreed to pay thirty six million dollars for international arms export violations. Federal regulators suspended half the penalty for mandatory compliance program upgrades."
             },
             {
                 "slide_index": 6,
-                "headline": "FREIGHT SECURITY: $111M THEFT SCHEME",
-                "teaserTitle": "AIR FREIGHT: $204M GATEWAY EXPANSION",
+                "headline": "REGULATORY: CDL RECORD LAWSUIT",
+                "teaserTitle": "AIR CARGO: SHENZHEN EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Investigators uncovered staged collisions tied to the theft of one hundred eleven million dollars in server freight. Electronics shippers are deploying real-time tracking sensors to secure high-value corridors."
+                "narration_line": "Twenty two state attorneys general have filed a lawsuit to block federal access to seventeen million trucker records. Motor carriers face deep operational uncertainty as divergent state regulations threaten driver availability."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR FREIGHT: $204M GATEWAY EXPANSION",
+                "headline": "AIR CARGO: SHENZHEN EXPANSION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "DHL Express invested two hundred four million dollars to triple cargo capacity at its Shenzhen gateway. Cross-border shippers secure expanded airfreight uplift across primary Asian manufacturing lanes."
+                "narration_line": "DHL Express has committed two hundred four million dollars to triple cargo processing capacity at its Shenzhen hub. Global enterprises gain accelerated customs clearance speeds throughout primary Asian manufacturing markets."
             },
             {
                 "slide_index": 8,
