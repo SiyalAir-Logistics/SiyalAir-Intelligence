@@ -1,113 +1,114 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR implements Section 301 tariffs on 60 nations while federal courts uphold complete de minimis elimination, reshaping import liabilities."
+        "titleWhite": "USTR SECTION THREE ZERO ONE TARIFFS ON",
+        "titleBlue": "NATIONS",
+        "footerSummary": "USTR advances Section 301 tariffs on 60 nations as Section 122 duties expire, intensifying cross-border trade friction and compliance burdens."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "USTR: SECTION 301 TARIFFS",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially initiated Section 301 tariffs targeting 60 trading partner nations following the expiration of Section 122 provisions. Customs authorities are deploying strict provenance audits across inbound product categories to flag supply chains with suspected forced labor exposure.",
-                "Importers face direct tariff increases alongside heightened risk of cargo detentions at primary US container gateways. Trade compliance teams must instantly trace multi-tier supplier networks to provide verified labor audit documentation and avoid severe commercial penalties."
+                "The Office of the United States Trade Representative is moving forward with the implementation of tariffs on 60 nations under Section 301 of the Trade Act of 1974. This decisive policy action occurs as legacy Section 122 trade measures expire, reshaping baseline import duties across critical manufacturing supply chains.",
+                "Importers face immediate regulatory exposure and complex documentation requirements to verify country of origin compliance. Sourcing executives must rapidly audit multi-tier supplier networks to mitigate escalating duty liabilities and prevent unexpected border delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE LAW: DE MINIMIS STRUCK DOWN",
+            "nextUpTease": "PANAMA CANAL: RECORD FEE",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-15T08:30:00Z",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE LAW: DE MINIMIS STRUCK DOWN",
+            "heading": "PANAMA CANAL: RECORD FEE",
             "paragraphs": [
-                "The US Court of International Trade has definitively upheld the federal elimination of the de minimis tariff exemption, permanently closing the $800 duty-free import threshold. This ruling subjects high-volume direct-to-consumer parcel imports to standard formal entry procedures and customs duties.",
-                "Cross-border ecommerce operators and air freight consolidators must absorb higher clearance fees and longer border dwell times. Logistics directors are overhauling fulfillment models to establish localized bonded warehousing hubs rather than relying on direct cross-border parcel delivery."
+                "An empty liquefied petroleum gas tanker will cut the Panama Canal queue next week after agreeing to pay a record $4,600,000 priority fee. This unprecedented financial transaction highlights enduring interoceanic transit bottlenecks and restricted draft allowances caused by regional water level constraints.",
+                "Vessel operators face mounting operational expenses and difficult trade-offs between absorbing steep priority tolls or accepting multi-week transit delays. Logistics planners must integrate dynamic waterway auction pricing directly into long-term routing and budgeting models."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: FREIGHT DATA BREACH",
+            "nextUpTease": "STRAIT OF HORMUZ: TANKER ATTACKS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T06:15:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CYBERSECURITY: FREIGHT DATA BREACH",
+            "heading": "STRAIT OF HORMUZ: TANKER ATTACKS",
             "paragraphs": [
-                "A major social-engineering cyber breach compromised over 1M digital logistics files across Uber Freight network databases. The incident exposed carrier identity records, load contracts, and proprietary rate documentation across digital brokerage platforms.",
-                "Brokers and 3PL providers face immediate exposure to identity spoofing, double-brokering schemes, and cargo theft operations. Enterprise shippers must mandate multi-factor biometric authentication and direct API security audits before routing sensitive contract freight through third-party platforms."
+                "Two commercial oil tankers were attacked overnight in the Strait of Hormuz during outbound transits, triggering immediate security alarms across global energy corridors. These strikes reflect escalating regional hostilities designed to disrupt maritime transit lanes and compromise regional export operations.",
+                "Marine underwriters are rapidly adjusting war risk insurance premiums and enforcing strict dark transit exclusions for vessels navigating Middle Eastern waters. Energy shippers must evaluate alternative routing strategies to protect crew safety and maintain continuous supply continuity."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME RISK: HORMUZ TANKER ATTACKS",
+            "nextUpTease": "AIR CARGO: DE MINIMIS CRACKDOWN",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-15T14:40:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME RISK: HORMUZ TANKER ATTACKS",
+            "heading": "AIR CARGO: DE MINIMIS CRACKDOWN",
             "paragraphs": [
-                "Commercial tankers sustained drone strikes during outbound transits through the Strait of Hormuz, forcing regional operators into prolonged dark transits. Maritime security alerts have prompted vessel operators to evaluate extensive route diversions around the Persian Gulf.",
-                "War risk insurance premiums for Persian Gulf transits have surged by double digits, driving bunker and freight surcharges higher across global energy corridors. Supply chain strategists must recalculate tanker transit economics and secure contingency capacity along alternate sea lanes."
+                "Tougher customs enforcement targeting low-value cross-border shipments is threatening to reverse explosive ecommerce airfreight volume growth across major international lanes. Regulatory authorities are dismantling duty-free entry pathways, forcing air cargo operators to re-evaluate cargo manifest screening protocols.",
+                "Digital retail platforms and expedited forwarders face severe operational bottlenecks and surging customs clearance times at primary destination gateways. Logistics executives must transition toward fully transparent data architectures to comply with aggressive border inspection standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: DHL EXPANDS SHENZHEN",
+            "nextUpTease": "COCAINE BUST: LONDON GATEWAY",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-15T11:20:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR CARGO: DHL EXPANDS SHENZHEN",
+            "heading": "COCAINE BUST: LONDON GATEWAY",
             "paragraphs": [
-                "DHL Express has committed $204M to triple the handling capacity of its primary air cargo gateway terminal in Shenzhen. The capital expansion accelerates outbound handling throughput for high-tech manufacturing hubs and cross-border commercial trade in southern China.",
-                "Air freight forwarders and shippers secure critical uplift capacity across intra-Asia and transpacific routes amid tightening main-deck space. Sourcing managers should leverage enhanced automated hub sorting to compress cross-border transit times by up to 24 hours."
+                "United Kingdom law enforcement authorities intercepted a massive 2,900 kilogram consignment of cocaine concealed within a commercial banana shipment at London Gateway. Valued at $313,000,000, this interception represents one of the largest drug seizures targeting containerized agricultural supply chains this year.",
+                "Intensified port security inspections and National Crime Agency crackdowns are increasing cargo dwell times for fresh produce importers operating through British terminals. Supply chain managers must demand rigorous supply chain provenance audits to insulate their networks from cartel infiltration risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
+            "nextUpTease": "RAILWAY MERGER: STATE OPPOSITION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-15T16:05:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
+            "heading": "RAILWAY MERGER: STATE OPPOSITION",
             "paragraphs": [
-                "Attorneys General from six states have filed formal regulatory objections opposing the proposed multi-billion-dollar merger between Union Pacific and Norfolk Southern. Regulators argue that the transcontinental consolidation creates excessive market concentration and diminishes competitive rail routing.",
-                "Industrial shippers face potential carrier service disruptions and long-term pricing rigidity across primary intermodal corridors. Transport procurement executives must maintain diversified contracts across regional rail and long-haul motor carriers during extended regulatory antitrust proceedings."
+                "Six state attorneys general have formally opposed the proposed Union Pacific and Norfolk Southern railway merger, arguing that promised competitive benefits are insufficient. State regulators contend that the massive rail consolidation would degrade intermodal service reliability and choke regional freight competition.",
+                "Class I railroad executives face protracted regulatory challenges and heightened legal hurdles as political scrutiny over rail monopolies intensifies nationwide. Intermodal shippers should diversify carrier relationships to hedge against potential network disruptions and capacity consolidation."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
+            "nextUpTease": "RETAIL SALES: JULY DECLINE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T18:50:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
+            "heading": "RETAIL SALES: JULY DECLINE",
             "paragraphs": [
-                "The national industrial real estate vacancy rate fell seven basis points sequentially to 7.3% during Q2 as warehouse net absorption surpassed new construction completions. Slower development pipelines and steady logistics leasing activity have rebalanced major port-adjacent distribution submarkets.",
-                "Occupiers are losing leverage to negotiate aggressive lease concessions as Class A warehouse space tightens across strategic transportation nodes. Distribution executives must secure multi-year facility renewals early to protect logistics margins from impending industrial rent escalations."
+                "Total United States retail sales fell 0.6 percent from June to July, reaching $763,600,000,000 as seasonal tax refunds faded from consumer spending pools. Despite the monthly contraction, annualized retail sales posted a 5.0 percent gain, signaling underlying consumer resilience amid shifting economic conditions.",
+                "Retail inventory planners are re-evaluating fourth-quarter inbound shipping volumes to prevent overstocking as consumer demand patterns normalize. Supply chain operators must maintain agile warehousing strategies to rapidly adapt to volatile consumer purchasing behavior.",
+                "FINAL SLIDE"
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T20:10:00Z",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

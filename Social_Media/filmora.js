@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "TRADE LAW: DE MINIMIS STRUCK DOWN",
-                "visual_caption": "USTR implemented Section 301 tariffs targeting 60 trading partner nations today. Importers face aggressive customs audits and potential cargo detentions at major container ports."
+                "headline": "USTR: SECTION 301 TARIFFS",
+                "teaserTitle": "PANAMA CANAL: RECORD FEE",
+                "visual_caption": "The USTR is implementing Section 301 tariffs on 60 nations as Section 122 duties expire. Importers must audit supply chains to mitigate tariff liabilities."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE LAW: DE MINIMIS STRUCK DOWN",
-                "teaserTitle": "CYBERSECURITY: FREIGHT DATA BREACH",
-                "visual_caption": "A federal trade court upheld the total elimination of the $800 de minimis exemption. Direct-to-consumer parcel shipments must now process through formal customs channels and pay standard duties."
+                "headline": "PANAMA CANAL: RECORD FEE",
+                "teaserTitle": "STRAIT OF HORMUZ: TANKER ATTACKS",
+                "visual_caption": "A gas tanker paid $4.6M to jump the Panama Canal queue amid severe water constraints. Operators must factor dynamic toll pricing into routing budgets."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: FREIGHT DATA BREACH",
-                "teaserTitle": "MARITIME RISK: HORMUZ TANKER ATTACKS",
-                "visual_caption": "A severe cybersecurity breach exposed over 1M files across the Uber Freight digital network. Shippers and brokers face elevated risks of carrier identity fraud and unauthorized freight brokering."
+                "headline": "STRAIT OF HORMUZ: TANKER ATTACKS",
+                "teaserTitle": "AIR CARGO: DE MINIMIS CRACKDOWN",
+                "visual_caption": "Two commercial tankers were attacked in the Strait of Hormuz during outbound transits. Marine underwriters are rapidly raising war risk insurance premiums."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME RISK: HORMUZ TANKER ATTACKS",
-                "teaserTitle": "AIR CARGO: DHL EXPANDS SHENZHEN",
-                "visual_caption": "Commercial tankers were struck during outbound transits through the strategic Strait of Hormuz. Marine underwriters are hiking war risk premiums, escalating fuel and shipping surcharges globally."
+                "headline": "AIR CARGO: DE MINIMIS CRACKDOWN",
+                "teaserTitle": "COCAINE BUST: LONDON GATEWAY",
+                "visual_caption": "Tougher customs enforcement on low-value shipments threatens ecommerce air cargo volume. Logistics providers face severe clearance delays at key gateways."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: DHL EXPANDS SHENZHEN",
-                "teaserTitle": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
-                "visual_caption": "DHL Express is investing $204M to triple air capacity at its Shenzhen gateway. The expanded hub provides vital express freight throughput for southern Chinese exporters."
+                "headline": "COCAINE BUST: LONDON GATEWAY",
+                "teaserTitle": "RAILWAY MERGER: STATE OPPOSITION",
+                "visual_caption": "UK authorities seized a $313M cocaine consignment hidden in a banana shipment. Intensified security inspections are increasing agricultural cargo dwell times."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
-                "teaserTitle": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
-                "visual_caption": "6 state attorneys general have united to formally oppose the proposed UP-NS merger. Regulators warn the rail consolidation threatens regional freight competition and shipper service levels."
+                "headline": "RAILWAY MERGER: STATE OPPOSITION",
+                "teaserTitle": "RETAIL SALES: JULY DECLINE",
+                "visual_caption": "Six state attorneys general formally opposed the proposed Union Pacific and Norfolk Southern merger. Intermodal shippers should diversify carrier networks."
             },
             {
                 "slide_index": 7,
-                "headline": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
+                "headline": "RETAIL SALES: JULY DECLINE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "National industrial warehouse vacancy declined to 7.3% as demand outpaced new deliveries. Shippers face rising lease rates as port-adjacent warehouse capacity tightens into 2027."
+                "visual_caption": "U.S. retail sales fell 0.6% in July to $763.6B as seasonal tax refunds faded. Inventory planners must maintain agile warehousing to navigate demand shifts."
             },
             {
                 "slide_index": 8,
