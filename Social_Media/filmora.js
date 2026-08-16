@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
-                "teaserTitle": "CYBERSECURITY: FREIGHT DATA BREACH",
-                "visual_caption": "The US has enacted Section 301 tariffs targeting 60 trading partner nations over forced labor concerns. Importers face immediate border documentation checks and potential cargo holds across major seaports."
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP",
+                "teaserTitle": "TRADE COURT: DE MINIMIS LOOPHOLE",
+                "visual_caption": "An empty LPG tanker paid $4.6M to jump the Panama Canal queue. Shippers face strict trade-offs between priority transit fees and severe maritime delays."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: FREIGHT DATA BREACH",
-                "teaserTitle": "AIR CARGO: SHENZHEN GATEWAY EXPANSION",
-                "visual_caption": "A massive security breach at Uber Freight exposed more than 1M sensitive operational logistics files. Freight brokers now face heightened risks of digital load fraud and illegal shipment diversions."
+                "headline": "TRADE LAW: DE MINIMIS LOOPHOLE",
+                "teaserTitle": "MARITIME RISK: STRAIT OF HORMUZ",
+                "visual_caption": "The trade court upheld the elimination of the $800 de minimis customs loophole. Importers face immediate margin compression and rigorous border compliance audits."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: SHENZHEN GATEWAY EXPANSION",
-                "teaserTitle": "TRUCKING FLEETS: CDL LICENSING PURGE",
-                "visual_caption": "DHL Express invested $204M to triple cargo capacity at its Shenzhen air hub. The upgraded facility processes 48K packages hourly to support Asian manufacturing exports."
+                "headline": "ENERGY LOGISTICS: STRAIT OF HORMUZ",
+                "teaserTitle": "AIR CARGO: PEAK SEASON DEMAND",
+                "visual_caption": "Crude oil tankers are going dark and extending voyages following attacks in the Strait of Hormuz. War-risk premiums are surging as regional energy routes face disruption."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING FLEETS: CDL LICENSING PURGE",
-                "teaserTitle": "CRITICAL MINERALS: PENTAGON LOAN DEALS",
-                "visual_caption": "Multiple states have restricted commercial driver licenses for non-domiciled operators amid ongoing federal litigation. The sudden regulatory crackdown could remove up to 200K commercial truck drivers nationwide."
+                "headline": "AIR CARGO: PEAK SEASON DEMAND",
+                "teaserTitle": "ECOMMERCE TECH: EBAY CONSIGNMENT",
+                "visual_caption": "Global air cargo spot rates fell 6% MoM as peak season demand softens across lanes. Logistics managers can leverage stable capacity to optimize Q4 freight budgets."
             },
             {
                 "slide_index": 5,
-                "headline": "CRITICAL MINERALS: PENTAGON LOAN DEALS",
-                "teaserTitle": "MIDDLE MILE: AMAZON FREIGHT MERGER",
-                "visual_caption": "The Pentagon committed $2B in conditional loans to domestic battery and critical mineral processors. The strategic capital push strengthens national supply chain defense against foreign export restrictions."
+                "headline": "ECOMMERCE TECH: EBAY CONSIGNMENT",
+                "teaserTitle": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
+                "visual_caption": "eBay consignment services experienced outages after a rival platform acquired backend infrastructure. Online merchants must diversify digital fulfillment channels immediately."
             },
             {
                 "slide_index": 6,
-                "headline": "MIDDLE MILE: AMAZON FREIGHT MERGER",
-                "teaserTitle": "INVENTORY TECH: TARGET DIGITAL TWIN",
-                "visual_caption": "Amazon has merged its middle-mile air and ground transportation networks into a single operational unit. The integration improves route planning and vehicle utilization across high-volume domestic freight corridors."
+                "headline": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
+                "teaserTitle": "PORT INFRASTRUCTURE: LA-LB CLEAN AIR",
+                "visual_caption": "State transport agencies enacted strict curbs on non-domiciled commercial driver licenses. Motor carriers face compounding driver shortages and rising linehaul labor costs."
             },
             {
                 "slide_index": 7,
-                "headline": "INVENTORY TECH: TARGET DIGITAL TWIN",
+                "headline": "PORT INFRASTRUCTURE: LA-LB CLEAN AIR",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Target deployed its Proxima digital twin platform to simulate complex inventory movements across regional distribution centers. The system identifies supply bottlenecks in advance to prevent stockouts and warehouse delays."
+                "visual_caption": "LA and Long Beach ports increased financial incentives for low-emission vessels. Ocean carriers must upgrade fleet profiles to secure priority terminal berthing."
             },
             {
                 "slide_index": 8,

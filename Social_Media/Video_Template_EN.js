@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS SHAKE GLOBAL TRADE",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE SURPASSES FOUR POINT SIX MILLION DOLLARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
-                "teaserTitle": "CYBERSECURITY: FREIGHT DATA BREACH",
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP",
+                "teaserTitle": "TRADE COURT: DE MINIMIS LOOPHOLE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States has implemented Section three oh one tariffs targeting sixty trading partner nations over forced labor concerns. Importers face immediate border documentation checks and potential cargo holds across major seaports."
+                "narration_line": "An empty liquefied petroleum gas tanker paid four point six million dollars to jump the Panama Canal queue. Shippers face steep financial trade-offs between priority transit fees and extended maritime delays."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: FREIGHT DATA BREACH",
-                "teaserTitle": "AIR CARGO: SHENZHEN GATEWAY EXPANSION",
+                "headline": "TRADE LAW: DE MINIMIS LOOPHOLE",
+                "teaserTitle": "MARITIME RISK: STRAIT OF HORMUZ",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A massive security breach at Uber Freight exposed more than one million sensitive operational logistics files. Freight brokers now face heightened risks of digital load fraud and illegal shipment diversions."
+                "narration_line": "The international trade court upheld the elimination of the de minimis tariff exemption. Importers face immediate margin compression and rigorous customs compliance auditing at the border."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: SHENZHEN GATEWAY EXPANSION",
-                "teaserTitle": "TRUCKING FLEETS: CDL LICENSING PURGE",
+                "headline": "ENERGY LOGISTICS: STRAIT OF HORMUZ",
+                "teaserTitle": "AIR CARGO: PEAK SEASON DEMAND",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "DHL Express invested two hundred and four million dollars to triple cargo capacity at its Shenzhen air hub. The upgraded facility processes forty eight thousand packages hourly to support Asian manufacturing exports."
+                "narration_line": "Crude oil tankers are turning off transponders and extending transit times following attacks in the Strait of Hormuz. War-risk premiums are surging as regional military escalations disrupt key energy shipping routes."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING FLEETS: CDL LICENSING PURGE",
-                "teaserTitle": "CRITICAL MINERALS: PENTAGON LOAN DEALS",
+                "headline": "AIR CARGO: PEAK SEASON DEMAND",
+                "teaserTitle": "ECOMMERCE TECH: EBAY CONSIGNMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Multiple states have restricted commercial driver licenses for non domiciled operators amid ongoing federal litigation. The sudden regulatory crackdown could remove up to two hundred thousand commercial truck drivers nationwide."
+                "narration_line": "Global air cargo spot rates dropped six percent as peak season demand softens across international markets. Logistics managers can leverage stable bellyhold capacity to optimize fourth quarter freight budgets."
             },
             {
                 "slide_index": 5,
-                "headline": "CRITICAL MINERALS: PENTAGON LOAN DEALS",
-                "teaserTitle": "MIDDLE MILE: AMAZON FREIGHT MERGER",
+                "headline": "ECOMMERCE TECH: EBAY CONSIGNMENT",
+                "teaserTitle": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Pentagon committed two billion dollars in conditional loans to domestic battery and critical mineral processors. The strategic capital push strengthens national supply chain defense against foreign export restrictions."
+                "narration_line": "EBay consignment services suffered major outages following a rival platform acquisition of underlying infrastructure. Online merchants must diversify their digital fulfillment channels to protect operational revenue streams."
             },
             {
                 "slide_index": 6,
-                "headline": "MIDDLE MILE: AMAZON FREIGHT MERGER",
-                "teaserTitle": "INVENTORY TECH: TARGET DIGITAL TWIN",
+                "headline": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
+                "teaserTitle": "PORT INFRASTRUCTURE: LA-LB CLEAN AIR",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon has merged its middle mile air and ground transportation networks into a single operational unit. The integration improves route planning and vehicle utilization across high volume domestic freight corridors."
+                "narration_line": "State transport agencies are enforcing strict curbs on non-domiciled commercial driver licenses. Motor carriers face compounding driver availability deficits and rising linehaul labor costs nationwide."
             },
             {
                 "slide_index": 7,
-                "headline": "INVENTORY TECH: TARGET DIGITAL TWIN",
+                "headline": "PORT INFRASTRUCTURE: LA-LB CLEAN AIR",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Target deployed its Proxima digital twin platform to simulate complex inventory movements across regional distribution centers. The system identifies supply bottlenecks in advance to prevent stockouts and warehouse delays."
+                "narration_line": "The ports of Los Angeles and Long Beach boosted financial incentives for low emission vessels. Ocean carriers must upgrade fleet environmental profiles to secure premier terminal berthing allocations."
             },
             {
                 "slide_index": 8,
