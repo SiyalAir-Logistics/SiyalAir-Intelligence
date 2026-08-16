@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: DE MINIMIS DEAD",
-                "teaserTitle": "MARITIME: HORMUZ TANKER STRIKES",
-                "visual_caption": "The U.S. Court of International Trade has eliminated the $800 de minimis exemption. Importers must adapt to mandatory tariff collections on all low-value parcels."
+                "headline": "TRADE POLICY: SECTION 301 TARIFFS",
+                "teaserTitle": "CANAL LOGISTICS: $4.6M TRANSIT AUCTION",
+                "visual_caption": "The USTR has enacted sweeping Section 301 tariffs across 60 trading nations. Enterprise importers face mandatory forced labor audits and immediate duty surcharges at major container ports."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ TANKER STRIKES",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "visual_caption": "Two oil tankers sustained direct strikes in the Strait of Hormuz. Marine operators are utilizing emergency dark transits to bypass regional conflict."
+                "headline": "CANAL LOGISTICS: $4.6M TRANSIT AUCTION",
+                "teaserTitle": "IMPORT CONTROLS: 100% DRONE TARIFFS",
+                "visual_caption": "A commercial gas tanker paid a record $4.6M auction fee to bypass Panama Canal queues. Extended vessel rerouting around regional conflict zones continues to inflate trans-isthmus transit expenses."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "teaserTitle": "RAILWAY: UP CALIFORNIA SURCHARGES",
-                "visual_caption": "A major security breach at Uber Freight compromised over 1M digital files. Shippers face severe exposure to secondary carrier identity theft and fraud."
+                "headline": "IMPORT CONTROLS: 100% DRONE TARIFFS",
+                "teaserTitle": "CARGO SECURITY: $111M FREIGHT HEIST",
+                "visual_caption": "Federal regulators have implemented 100% import tariffs on commercial drones and flight hardware. Robotics fleets face doubling procurement costs alongside strict domestic sourcing requirements for cross-border logistics infrastructure."
             },
             {
                 "slide_index": 4,
-                "headline": "RAILWAY: UP CALIFORNIA SURCHARGES",
-                "teaserTitle": "TRADE COMPLIANCE: BAE ARMS FINE",
-                "visual_caption": "Union Pacific imposed a $1,000 per-container surcharge on California intermodal lanes. Shippers face significant cost inflation amid tightening rail capacity."
+                "headline": "CARGO SECURITY: $111M FREIGHT HEIST",
+                "teaserTitle": "DEFENSE SUPPLY: $2B MINERAL CONTRACTS",
+                "visual_caption": "Organized cargo theft syndicates have hijacked $111M in enterprise data center shipments. High-value freight carriers are rapidly upgrading real-time telematics and armed transit escorts."
             },
             {
                 "slide_index": 5,
-                "headline": "TRADE COMPLIANCE: BAE ARMS FINE",
-                "teaserTitle": "REGULATORY: CDL RECORD LAWSUIT",
-                "visual_caption": "BAE Systems will pay a $36M penalty for violating U.S. arms export regulations. Federal authorities suspended $18M tied to mandatory compliance upgrades."
+                "headline": "DEFENSE SUPPLY: $2B MINERAL CONTRACTS",
+                "teaserTitle": "OCEAN FREIGHT: ASIAN PORT CONGESTION",
+                "visual_caption": "The Pentagon has signed over $2B in funding commitments to onshore critical battery minerals. Advanced industrial processors will receive dedicated domestic allocations to insulate critical defense manufacturing lines."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: CDL RECORD LAWSUIT",
-                "teaserTitle": "AIR CARGO: SHENZHEN EXPANSION",
-                "visual_caption": "Twenty-two states sued to block federal access to 17M trucker records. Motor carriers face growing friction as divergent regulations sideline drivers."
+                "headline": "OCEAN FREIGHT: ASIAN PORT CONGESTION",
+                "teaserTitle": "TECH HARDWARE: $300M TARIFF REFUND",
+                "visual_caption": "Severe tropical weather across major Chinese gateways has triggered widespread vessel delays in Shanghai and Ningbo. Shippers confront soaring transpacific spot rates as equipment shortages mount across destination hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: SHENZHEN EXPANSION",
+                "headline": "TECH HARDWARE: $300M TARIFF REFUND",
                 "teaserTitle": "",
-                "visual_caption": "DHL Express invested $204M to triple cargo processing capacity in Shenzhen. Global shippers gain accelerated customs clearance across Asian gateways."
+                "visual_caption": "Nintendo recouped $300M in customs duty refunds while severe memory shortages squeeze electronics manufacturers. High-tech assembly operations are restructuring buffer inventories to manage tightening component capacity."
             },
             {
                 "slide_index": 8,

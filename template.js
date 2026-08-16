@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DE MINIMIS",
-        "titleBlue": "DEAD",
-        "footerSummary": "Global supply chains absorb massive cost shocks as U.S. trade courts permanently eliminate the $800 duty exemption for imports."
+        "titleWhite": "SECTION 301",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR triggers sweeping Section 301 forced labor tariffs across 60 nations while Panama Canal transit auction fees reach a record $4.6M."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS: DE MINIMIS DEAD",
+            "heading": "TRADE POLICY: SECTION 301 TARIFFS",
             "paragraphs": [
-                "The U.S. Court of International Trade has permanently struck down the long-standing $800 de minimis exemption, ending duty-free entry for low-value international shipments. Federal customs authorities are immediately enforcing full tariff collection and rigorous documentation standards on all cross-border parcel freight.",
-                "E-commerce enterprises and logistics forwarders face sudden administrative backlogs and steep margin compression across high-volume consumer trade lanes. Importers must instantly overhaul customs brokerage integrations to prevent widespread border holds and surging clearance fees."
+                "The Office of the U.S. Trade Representative has initiated new trade tariffs targeting 60 trading partner nations under Section 301 of the Trade Act of 1974. The enforcement action replaces expiring Section 122 measures and imposes stringent import duties tied directly to cross-border forced labor compliance standards.",
+                "Importers and tier-one manufacturers face immediate exposure to customs audits, cargo detentions, and substantial duty liabilities on high-volume product categories. Supply chain directors must urgently audit offshore supplier networks and establish end-to-end traceability to prevent costly port delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ TANKER STRIKES",
+            "nextUpTease": "CANAL LOGISTICS: $4.6M TRANSIT AUCTION",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T08:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
+                "Published: 2026-08-15T16:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HORMUZ TANKER STRIKES",
+            "heading": "CANAL LOGISTICS: $4.6M TRANSIT AUCTION",
             "paragraphs": [
-                "Commercial fleet operators are confronting severe mid-journey disruptions after two additional oil tankers sustained direct strikes in the Strait of Hormuz during outbound transits. Regional security threats have forced marine carriers to turn off AIS transponders and execute extended dark transits to bypass hostile waters.",
-                "Crude charterers and global energy supply chains face soaring war-risk insurance premiums and sudden schedule unreliability across vital Middle Eastern trade routes. Logistics directors must continuously adjust contingency routing models to mitigate escalating maritime security exposure."
+                "The Panama Canal Authority recorded a historic record queue-jump auction fee of $4.6M paid by an empty liquefied petroleum gas tanker to bypass severe bottleneck congestion. Global transit queues continue to lengthen as ongoing Middle East maritime disruptions divert long-haul vessels toward trans-isthmus waterways.",
+                "Bulk charterers and energy logistics operators face surging voyage premiums that severely erode operating margins on inter-ocean transit routes. Fleet managers must evaluate the trade-off between astronomical auction fees and multi-week diversions around Cape Horn."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: UBER FREIGHT BREACH",
+            "nextUpTease": "IMPORT CONTROLS: 100% DRONE TARIFFS",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T19:04:00Z",
+                "Source: https://www.inboundlogistics.com/articles/panama-canal-queue-jump-fee-passes-4m-as-iran-war-reroutes-global-shipping/",
+                "Published: 2026-08-14T18:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CYBERSECURITY: UBER FREIGHT BREACH",
+            "heading": "IMPORT CONTROLS: 100% DRONE TARIFFS",
             "paragraphs": [
-                "A sophisticated social engineering attack on Uber Freight has compromised over 1M digital logistics records, exposing sensitive carrier identities and operational rate sheets. The breach has crippled internal dispatch workflows and left North American freight networks vulnerable to secondary exploitation.",
-                "Freight brokers and enterprise shippers face acute exposure to fictitious pickup schemes, cargo interception, and double-brokering fraud. Logistics managers must rapidly reinforce API access controls and mandate comprehensive vendor security audits across all digital transportation platforms."
+                "Federal trade authorities have enacted immediate 100% tariffs on imported unmanned aerial systems and critical sub-tier components manufactured abroad. The policy directive aims to secure domestic supply chain infrastructure by eliminating cost advantages for foreign automated aviation hardware.",
+                "Commercial drone logistics operators and warehouse automation integrators confront instantaneous hardware cost doublings and acute delivery delays. Procurement teams must rapidly onshore autonomous flight equipment sourcing or absorb crippling capital expenditure inflation."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAY: UP CALIFORNIA SURCHARGES",
+            "nextUpTease": "CARGO SECURITY: $111M FREIGHT HEIST",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-15T10:00:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-tariffs-drone-components-100-percent/724110/",
+                "Published: 2026-08-14T20:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RAILWAY: UP CALIFORNIA SURCHARGES",
+            "heading": "CARGO SECURITY: $111M FREIGHT HEIST",
             "paragraphs": [
-                "Union Pacific has instituted a $1,000 per-container excess surcharge on West Coast intermodal lanes as outbound cargo surges overwhelm regional rail capacity. Concurrently, six state attorneys general have formally petitioned federal regulators to block the proposed mega-merger between Union Pacific and Norfolk Southern.",
-                "Intermodal shippers face substantial per-unit cost increases across primary transcontinental distribution corridors. Supply chain directors must re-evaluate freight allocation strategies between domestic highway transport and rail networks to preserve operating margins."
+                "Organized freight theft syndicates have intercepted nearly $111M in high-value data center hardware using aggressive bump-and-run tactics against commercial tractor-trailers. Law enforcement reports indicate sophisticated targeting of dedicated semiconductor and artificial intelligence server shipments across North American highway corridors.",
+                "Technology shippers and specialized logistics carriers face skyrocketing transit insurance premiums and severe liability claims. Fleet directors must mandate armed escorts, covert tracking sensors, and strict secure-parking protocols to protect critical electronic freight."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE COMPLIANCE: BAE ARMS FINE",
+            "nextUpTease": "DEFENSE SUPPLY: $2B MINERAL CONTRACTS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-15T11:00:00Z",
+                "Source: https://www.freightwaves.com/news/nearly-111m-in-data-center-freight-stolen-as-thieves-test-bump-and-run-tactic",
+                "Published: 2026-08-15T14:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRADE COMPLIANCE: BAE ARMS FINE",
+            "heading": "DEFENSE SUPPLY: $2B MINERAL CONTRACTS",
             "paragraphs": [
-                "The U.S. Department of State has penalized BAE Systems $36M for severe violations of international arms export regulations and technical data controls. Federal regulators have agreed to suspend $18M of the penalty contingent upon the execution of aggressive compliance remediation programs.",
-                "Defense contractors and high-tech manufacturers face heightened scrutiny over cross-border technical data transfers and global export licensing protocols. Compliance executives must institute rigorous internal audits to insulate their operations from crippling regulatory penalties."
+                "The U.S. Department of Defense has finalized over $2B in conditional loan commitments to secure domestic extraction and processing of critical battery minerals. The strategic capital injection directly funds advanced manufacturing facilities operated by specialized material refiners to decouple military supply chains from foreign dependencies.",
+                "Industrial manufacturers and clean-energy logistics networks gain direct domestic supply stability while reducing cross-border geopolitical exposure. Supply chain architects must align procurement contracts with defense-backed domestic production schedules to guarantee raw material access."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: CDL RECORD LAWSUIT",
+            "nextUpTease": "OCEAN FREIGHT: ASIAN PORT CONGESTION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T12:00:00Z",
+                "Source: https://www.supplychaindive.com/news/pentagon-critical-minerals-battery-deals-sila-sunrise-niron/724095/",
+                "Published: 2026-08-14T17:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATORY: CDL RECORD LAWSUIT",
+            "heading": "OCEAN FREIGHT: ASIAN PORT CONGESTION",
             "paragraphs": [
-                "A coalition of 22 state attorneys general has filed a formal lawsuit to block federal initiatives granting access to 17M truck driver commercial license records. The legal challenge targets aggressive federal oversight attempts, exacerbating ongoing driver retention anxiety and cross-border credential friction.",
-                "Motor carriers face deepening operational uncertainty as divergent state regulations threaten to sideline thousands of non-domiciled commercial vehicle operators. Fleet executives must monitor state-level compliance mandates closely to prevent unexpected driver capacity deficits."
+                "Severe tropical storm systems across the East China Sea have generated massive container backlogs across major export gateways including Shanghai and Ningbo. Vessel dwell times have surged as terminal operators temporarily suspend crane operations and navigation channels to weather high winds.",
+                "Transpacific container rates and spot premiums are escalating sharply as carrier blank sailings and equipment misallocations compound across the network. B2B shippers must brace for multi-day departure delays and reconfigure inventory staging at destination distribution centers."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: SHENZHEN EXPANSION",
+            "nextUpTease": "TECH HARDWARE: $300M TARIFF REFUND",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T15:00:00Z",
+                "Source: https://theloadstar.com/tropical-storms-bring-congestion-and-cargo-backlogs-at-asian-ports/",
+                "Published: 2026-08-14T11:50:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: SHENZHEN EXPANSION",
+            "heading": "TECH HARDWARE: $300M TARIFF REFUND",
             "paragraphs": [
-                "DHL Express has injected $204M into its major Shenzhen air hub to triple cargo processing capacity and capture expanding intra-Asia manufacturing trade. The upgraded gateway features high-speed automated sorting infrastructure designed to accelerate customs clearance times for cross-border freight.",
-                "Global electronics and e-commerce shippers gain enhanced uplift reliability and accelerated transit speeds throughout key Asian manufacturing corridors. Supply chain planners must optimize consolidation schedules to capitalize on superior throughput capacity at regional gateways."
+                "Consumer electronics leader Nintendo has recovered $300M in retroactive customs duty refunds following successful trade classification appeals on hardware components. Concurrently, the global semiconductor market is experiencing severe memory component price spikes as data center demand absorbs enterprise wafer production.",
+                "High-tech supply chain managers must navigate intense component price inflation despite localized customs duty recoveries. Financial planners must reinvest duty clawbacks into buffer inventory reserves to protect assembly lines against looming memory shortages."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T16:00:00Z",
+                "Source: https://www.supplychaindive.com/news/nintendo-recoups-300m-tariff-refunds-memory-crunch/724082/",
+                "Published: 2026-08-14T13:40:00Z",
                 "Status: Audited & True"
             ]
         }
