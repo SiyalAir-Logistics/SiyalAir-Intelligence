@@ -1,0 +1,43 @@
+name: Manual Audio Generation Test
+
+on:
+  workflow_dispatch: # Allows you to trigger this manually from the GitHub Actions tab
+
+jobs:
+  generate-audio:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python & Node Dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install edge-tts
+          cd Social_Media
+          npm install
+
+      - name: Run Script to Generate Audio
+        run: |
+          cd Social_Media
+          node generate_short.js
+
+      - name: Upload MP3 Artifacts for Download
+        uses: actions/upload-artifact@v4
+        with:
+          name: social-media-mp3s
+          path: |
+            Social_Media/temp_slide_audio_*.mp3
+            Social_Media/output_*.mp4
+          retention-days: 1
