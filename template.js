@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DE MINIMIS ELIMINATION UPHELD BY TRADE",
-        "titleBlue": "COURT",
-        "footerSummary": "Trade court upholds de minimis elimination as customs crackdowns threaten low-value ecommerce airfreight demand and tighten compliance rules."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR implements Section 301 tariffs on 60 trading partners as logistics networks face mounting cyber breaches and strict regulatory crackdowns."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS: DE MINIMIS UPHELD",
+            "heading": "TRADE POLICY: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The international trade court has officially upheld the elimination of the US de minimis exemption, permanently closing the historic eight hundred dollar loophole for low-value parcel imports. Stricter customs crackdowns on direct-to-consumer shipments are now threatening to reverse cargo volume gains across major airfreight hubs.",
-                "Importers and logistics providers face immediate operational overhauls as duty collections expand to cover millions of previously exempt parcels. Supply chain planners must restructure customs data architecture to avoid severe border delays and escalating compliance penalties."
+                "The Office of the United States Trade Representative has enacted sweeping import tariffs targeting 60 trading partner nations under Section 301 following the expiration of Section 122 duties. The enforcement framework specifically targets foreign supply chains tied to forced labor indicators across manufacturing, apparel, and raw material sectors.",
+                "Enterprise importers face immediate border scrutiny, mandatory supply chain provenance mapping, and potential container impoundment across major US ports of entry. Procurement teams must rapidly establish multi-tiered supplier verification protocols to prevent severe cargo holds and tariff penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: QUEUE JUMP RECORD",
+            "nextUpTease": "CYBERSECURITY: FREIGHT DATA BREACH",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-15T18:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PANAMA CANAL: QUEUE JUMP RECORD",
+            "heading": "CYBERSECURITY: FREIGHT DATA BREACH",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker secured immediate transit through the Panama Canal by paying a record four million six hundred thousand dollar priority fee. Persistent regional routing bottlenecks and draft restrictions continue to drive spot auction tolls to unprecedented heights.",
-                "Carrier voyage economics are severely impacted by escalating priority charges and extended diversion risks across critical global maritime corridors. Logistics managers must incorporate these volatile transit premiums into long-term freight budgeting models."
+                "A major identity security breach at Uber Freight has compromised more than 1M digital operational files, exposing carrier rate records, load assignments, and identity verification credentials. Cyber attackers exploited voice authentication vulnerabilities to breach enterprise databases and access internal broker communications.",
+                "Freight brokers and enterprise shippers face elevated risk of cargo theft, fraudulent carrier re-brokering, and unauthorized load diversion across North American transport lanes. Risk managers must deploy mandatory multi-factor digital authentication and audit external API connections across all digital freight platforms."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTRACT FREIGHT: RATE SPREAD",
+            "nextUpTease": "AIR CARGO: SHENZHEN GATEWAY EXPANSION",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CONTRACT FREIGHT: RATE SPREAD",
+            "heading": "AIR CARGO: SHENZHEN GATEWAY EXPANSION",
             "paragraphs": [
-                "Ongoing Middle East shipping disruptions are actively driving rate increases from spot markets directly into long-term contract freight agreements. Shippers are facing broader pricing pressure as container lines successfully pass on geopolitical risk premiums.",
-                "Enterprise procurement teams must re-evaluate annual transportation budgets and diversify carrier partnerships to mitigate sudden baseline cost inflation. Long-term network resilience now requires flexible rate structures capable of absorbing rapid market volatility."
+                "DHL Express has completed a $204M expansion of its air logistics gateway at Shenzhen Baoan International Airport, tripling sorting and processing capacity across the facility. The upgraded infrastructure processes up to 48K shipments per hour to manage surging cross-border tech and manufacturing volumes across South China.",
+                "International shippers gain expanded dedicated airfreight lift and reduced dwell times connecting major Asian manufacturing corridors to European and American destination markets. Logistics planners should leverage expanded intra-Asia capacity while benchmarking contract air express rates against volatile commercial bellies."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME SECURITY: TANKER STRIKES",
+            "nextUpTease": "TRUCKING FLEETS: CDL LICENSING PURGE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T20:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME SECURITY: TANKER STRIKES",
+            "heading": "TRUCKING FLEETS: CDL LICENSING PURGE",
             "paragraphs": [
-                "Two commercial oil tankers were struck during overnight transits through the Strait of Hormuz, intensifying security threats for regional energy supply chains. Regional operators are increasingly deploying dark transits and extended detours to bypass active conflict zones.",
-                "Crude oil transport costs and marine war risk insurance premiums are soaring as vessels avoid high-risk chokepoints in the Middle East. Refiners and commodity traders must adjust supply lead times and buffer inventory to protect against sudden feedstock interruptions."
+                "State transport agencies in Rhode Island and Utah have enacted strict curbs on non-domiciled commercial driver licenses as 22 states litigate federal data-access demands. Industry analysts project the regulatory clampdown will remove up to 200K foreign commercial drivers from the US over-the-road freight market.",
+                "Long-haul motor carriers face compounding driver availability deficits and escalating wage inflation on cross-country and cross-border lanes. Logistics directors must review carrier compliance certifications and prepare for secondary capacity squeezes across domestic linehaul networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
+            "nextUpTease": "CRITICAL MINERALS: PENTAGON LOAN DEALS",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T17:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR CARGO: PEAK SEASON SLUMP",
+            "heading": "CRITICAL MINERALS: PENTAGON LOAN DEALS",
             "paragraphs": [
-                "Global air cargo spot rates declined six percent month over month as muted early peak season activity signals weaker international demand. International carriers are actively adjusting capacity allocations downward to prevent load factor erosion across major trade lanes.",
-                "Freight forwarders and enterprise shippers gain a tactical cost advantage to negotiate favorable short-term air charter agreements ahead of anticipated volume surges. Logistics managers should rebalance transport budgets to capture current rate softening before holiday cycles tighten market capacity."
+                "The Department of Defense has finalized over $2B in conditional loan commitments to domestic battery and critical mineral processors, including Sila Technologies and Sunrise Energy Metals. The financing program aims to insulate aerospace and defense supply chains from foreign mineral monopolies and raw material export bans.",
+                "Industrial manufacturers and clean-tech supply chains are accelerating onshore procurement pipelines to comply with tightened domestic content requirements. Strategic sourcing executives must audit upstream raw material tiers to qualify for federal procurement credits and reduce geopolitical exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING CAPACITY: DRIVER PAY",
+            "nextUpTease": "MIDDLE MILE: AMAZON FREIGHT MERGER",
             "tags": [
                 "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Published: 2026-08-14T15:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRUCKING CAPACITY: DRIVER PAY",
+            "heading": "MIDDLE MILE: AMAZON FREIGHT MERGER",
             "paragraphs": [
-                "Motor carriers are facing mounting driver pay pressure as over-the-road equipment capacity tightens across major domestic freight corridors. Strict federal compliance enforcement on electronic logging devices is accelerating fleet attrition and reducing available linehaul hours.",
-                "Fleet operators must enhance driver retention packages and upgrade route optimization software to protect operating margins against rising wage costs. Shippers should anticipate tighter carrier vetting standards and potential service delays on key regional lanes."
+                "Amazon has completed the structural consolidation of its middle-mile air cargo and ground transportation operations into a unified network management structure. The organizational realignment eliminates separate operating silos to optimize equipment routing, hub sortation, and tractor-trailer handoffs nationwide.",
+                "The consolidation creates higher operational density and faster linehaul turnarounds across Amazon's domestic freight network while driving competitive pressure on regional 3PL networks. Shippers utilizing outsourced middle-mile capacity must evaluate multi-modal consolidation strategies to defend against tightening carrier lane economics."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAY MERGER: ANTITRUST BLOCK",
+            "nextUpTease": "INVENTORY TECH: TARGET DIGITAL TWIN",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T13:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAILWAY MERGER: ANTITRUST BLOCK",
+            "heading": "INVENTORY TECH: TARGET DIGITAL TWIN",
             "paragraphs": [
-                "State attorneys general and federal lawmakers are escalating opposition against the proposed Union Pacific and Norfolk Southern railway merger. Critics argue that the multi-billion dollar combination would severely diminish intermodal freight competition across national rail networks.",
-                "Rail shippers face prolonged regulatory uncertainty and potential service interruptions as legal battles over network consolidation intensify. Logistics strategists must evaluate alternative intermodal corridors and multi-carrier contracts to safeguard supply chain continuity."
+                "Target has deployed its proprietary digital twin simulation platform, Proxima, across its national network of distribution centers and retail stores. The predictive architecture models inventory movement scenarios, upstream bottleneck points, and fulfillment disruptions before physical operations are affected.",
+                "Retail supply chains are shifting toward autonomous predictive simulations to reduce stockouts, lower carrying costs, and optimize inbound freight distribution. Logistics operations must integrate real-time inventory digital twins to manage volatility across omnichannel distribution networks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
                 "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Published: 2026-08-14T11:00:00Z",
                 "Status: Audited & True"
             ]
         }
