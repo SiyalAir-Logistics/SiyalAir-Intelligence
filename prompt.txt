@@ -50,12 +50,12 @@ Process data through this 3-stage filtration engine:
 - Step 1: Temporal & Source Verification: Drop any entry that lacks an explicit, verifiable publication timestamp within the past 24-to-48 hour rolling window, or any entry pulling from a static root landing page instead of a fresh news item from the authorized sources. If a source yields zero items within the window, skip it entirely without reaching into historical archives.
 - Step 2: Anti-Duplication & Historical Blacklist Filtering: Cross-examine candidate stories against the ingested historical dataset from `template.js` provided in the runtime prompt context. Drop any re-hashes, identical coverage, or structural matches from past updates to guarantee absolute 100% fresh hourly intelligence.
 - Step 3: Signal Matrix & Clean Core Cover Title Derivation: Rank items (0-10) on their operational friction impact. The #1 highest-scoring breaking item selected for Slide 1 dictates the primary broadcast theme.
-- Strict Clean Core Title Rule: To prevent cover image font size blowouts and eradicate title fatigue, the main cover title (`titleWhite` + `titleBlue`) must be derived **strictly and purely from Slide 1's heading, with any category prefix and colon (e.g., "USTR:") completely stripped out**. Take only the core upgrade phrase following the colon. Split this core phrase so that all words except the absolute last go into `titleWhite`, and the absolute last word goes into `titleBlue` (forcing it to be blue). This guarantees zero prefix clutter, perfect cover typography sizing, and complete uniqueness every single hour.
+- Strict Clean Core Title Rule: To prevent cover image font size blowouts and eradicate title fatigue, the main cover title (`titleWhite` + `titleBlue`) must be derived **strictly and purely from Slide 1's heading, with any category prefix and colon (e.g., "USTR:") completely stripped out**. Take only the core upgrade phrase following the colon. Split this core phrase so that all words except the absolute last go into `titleWhite`, and the absolute last word goes into `titleBlue` (forcing it to be blue). This guarantees zero prefix clutter, perfect cover typography sizing, and complete uniqueness every single hour. Furthermore, all numbers within `titleWhite` and `titleBlue` must use compact broadcast numerals and symbols (e.g., `301` instead of spelled-out word equivalents like "THREE ZERO ONE").
 
 --------------------------------------------------------------------------------
 SECTION D: FORMATTING & HARSH CHARACTER BOUNDARIES
 --------------------------------------------------------------------------------
-- Slide Headings: UPPERCASE. Max 45 chars. STRICT FORMAT: Must follow "CATEGORY: CORE UPGRADE" structure containing a clear colon separator (e.g., "USTR: FORCED LABOR TARIFFS") so that the UI rendering client accurately parses and applies color accents.
+- Slide Headings: UPPERCASE. Max 45 chars. STRICT FORMAT: Must follow "CATEGORY: CORE UPGRADE" structure containing a clear colon separator (e.g., "USTR: FORCED LABOR TARIFFS") so that the UI rendering client accurately parses and applies color accents. All numbers within headings must use compact broadcast digits and symbols.
 - Slide Content Format: Every slide content block must contain exactly two distinct, narrative paragraphs separated by double line breaks (\n\n). No bullet points, no lists, and no per-slide CTAs. 
 - Paragraph 1 (The Operational Disruption): States the core news event cleanly, precisely, and objectively, outlining the immediate supply chain bottleneck, regulatory shift, or capacity constraint in exactly 2 to 3 dense, metric-driven sentences.
 - Paragraph 2 (The Financial & Strategic Implication): Explains the secondary effect on operational costs, transit schedules, or carrier relationships, framing the exact strategic trade-off logistics professionals must evaluate in 2 to 3 dense sentences designed to provoke professional evaluation.
@@ -69,11 +69,11 @@ SECTION E: DATA INTERCHANGE SCHEMA SPECIFICATIONS (`template.js` DATA MAP)
 Extract 7 distinct technical developments from the scraped data sources. Parse your findings into a clean object matching the JSON structural footprint[cite: 3]:
 - kicker: Static string value "" (Empty string to maintain empty block padding)[cite: 3]
 - titleWhite: Pure core title words except the last word (derived strictly from Slide 1 heading after stripping any category prefix and colon), governed strictly by the Whitespace and Numeric Standards below[cite: 3].
-- titleBlue: Pure core title last word strictly (derived strictly from Slide 1 heading after stripping any category prefix and colon)[cite: 3]
+- titleBlue: Pure core title last word strictly (derived strictly from Slide 1 heading after stripping any category prefix and colon), utilizing standard digits/symbols if numeric[cite: 3].
 - footerSummary: A dynamic, hourly-refreshed 2-line forensic teaser unique to this specific update's core catalyst (max 25 words), governed strictly by the Whitespace and Numeric Standards below[cite: 3].
 - slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings matching the `CATEGORY: TITLE` format rule, a paragraphs array containing exactly two clean narrative text blocks, empty image reference layouts, a nextUpTease string, and audit validation metadata arrays including the **exact, deep-linked source article URL** and **standard ISO timestamp (`YYYY-MM-DDTHH:MM:SSZ`)** dynamically extracted from the live feed[cite: 3].
 - Strict Whitespace & Grammar Integrity Standard: Every generated text block, heading, paragraph, and summary across this schema must be meticulously scanned for word-merging errors. Zero camelCase word-merging (e.g., "authoritiesare", "aggressiveauditing", "InternationalTrade", "enforcementand") is permitted. Every single word must be cleanly separated by a standard space character. Punctuation marks (periods, commas) must immediately follow the preceding word with a single trailing space separating them from the next word.
-- Strict Numeric & Currency Standardization: Never spell out complex financial amounts, monetary figures, or statistical quantities into awkward linguistic hybrids (e.g., "eighty-hundred-dollar"). Always utilize clean broadcast digits and scale symbols (e.g., $800B, $80M, 800 USD) across visual text blocks, headers, summaries, and captions to maintain absolute professional clarity.
+- Strict Numeric & Currency Standardization: Never spell out complex financial amounts, monetary figures, or statistical quantities into awkward linguistic hybrids (e.g., "eighty-hundred-dollar"). Always utilize clean broadcast digits and scale symbols (e.g., $800B, $80M, 800 USD) across visual text blocks, headers, summaries, and captions to maintain absolute professional clarity. Furthermore, all monetary sums, financial figures, and large quantities exceeding one thousand must be dynamically compressed using standard numeric abbreviations (e.g., `$4.6M`, `$313M`, `2.9T`, `100K`) across all visual layouts and paragraphs within `template.js` to ensure clean typography and zero visual overflow.
 
 --------------------------------------------------------------------------------
 SECTION F: VIDEO TEMPLATE MODULE EXPORT SPECIFICATIONS (`Video_Template_EN.js`)
@@ -153,16 +153,16 @@ Output pure JSON with zero markdown code ticks outside the structural map:
   "slides_data": {
     "main": {
       "kicker": "",
-      "titleWhite": "[PURE SLIDE 1 CORE WORDS EXCEPT LAST, NO PREFIX]",
-      "titleBlue": "[PURE SLIDE 1 CORE LAST WORD]",
-      "footerSummary": "[DYNAMIC HOURLY-REFRESHED FORENSIC TEASER HIGHLIGHTING IMMEDIATE MARGIN OR COMPLIANCE RISK]"
+      "titleWhite": "[PURE SLIDE 1 CORE WORDS EXCEPT LAST, NO PREFIX, USING BROADCAST NUMERALS]",
+      "titleBlue": "[PURE SLIDE 1 CORE LAST WORD, USING BROADCAST NUMERAL IF NUMERIC]",
+      "footerSummary": "[DYNAMIC HOURLY-REFRESHED FORENSIC TEASER HIGHLIGHTING IMMEDIATE MARGIN OR COMPLIANCE RISK WITH ABBREVIATED METRICS]"
     },
     "slides": [
       {
         "id": 1,
-        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE]",
+        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE WITH COMPACT NUMERALS]",
         "paragraphs": [
-          "[Paragraph 1: Operational disruption event and bottleneck cleanly outlined in 2 to 3 dense, metric-driven sentences.]",
+          "[Paragraph 1: Operational disruption event and bottleneck cleanly outlined in 2 to 3 dense, metric-driven sentences utilizing standard abbreviations like $4.6M or 100K.]",
           "[Paragraph 2: Financial/strategic trade-off and cost implication explained in 2 to 3 dense sentences designed to provoke professional evaluation.]"
         ],
         "imageUrl": "",
@@ -171,9 +171,9 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       },
       {
         "id": 2,
-        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE]",
+        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE WITH COMPACT NUMERALS]",
         "paragraphs": [
-          "[Paragraph 1: Operational disruption event and bottleneck cleanly outlined in 2 to 3 dense, metric-driven sentences.]",
+          "[Paragraph 1: Operational disruption event and bottleneck cleanly outlined in 2 to 3 dense, metric-driven sentences utilizing standard abbreviations like $4.6M or 100K.]",
           "[Paragraph 2: Financial/strategic trade-off and cost implication explained in 2 to 3 dense sentences designed to provoke professional evaluation.]"
         ],
         "imageUrl": "",
@@ -182,9 +182,9 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       },
       {
         "id": 3,
-        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE]",
+        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE WITH COMPACT NUMERALS]",
         "paragraphs": [
-          "[Paragraph 1: Operational disruption event and bottleneck cleanly outlined in 2 to 3 dense, metric-driven sentences.]",
+          "[Paragraph 1: Operational disruption event and bottleneck cleanly outlined in 2 to 3 dense, metric-driven sentences utilizing standard abbreviations like $4.6M or 100K.]",
           "[Paragraph 2: Financial/strategic trade-off and cost implication explained in 2 to 3 dense sentences designed to provoke professional evaluation.]"
         ],
         "imageUrl": "",
@@ -193,9 +193,9 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       },
       {
         "id": 4,
-        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE]",
+        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE WITH COMPACT NUMERALS]",
         "paragraphs": [
-          "[Paragraph 1: Operational disruption event and bottleneck cleanly outlined in 2 to 3 dense, metric-driven sentences.]",
+          "[Paragraph 1: Operational disruption event and bottleneck cleanly outlined in 2 to 3 dense, metric-driven sentences utilizing standard abbreviations like $4.6M or 100K.]",
           "[Paragraph 2: Financial/strategic trade-off and cost implication explained in 2 to 3 dense sentences designed to provoke professional evaluation.]"
         ],
         "imageUrl": "",
@@ -204,9 +204,9 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       },
       {
         "id": 5,
-        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE]",
+        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE WITH COMPACT NUMERALS]",
         "paragraphs": [
-          "[Paragraph 1: Operational disruption event and bottleneck cleanly outlined in 2 to 3 dense, metric-driven sentences.]",
+          "[Paragraph 1: Operational disruption event and bottleneck cleanly outlined in 2 to 3 dense, metric-driven sentences utilizing standard abbreviations like $4.6M or 100K.]",
           "[Paragraph 2: Financial/strategic trade-off and cost implication explained in 2 to 3 dense sentences designed to provoke professional evaluation.]"
         ],
         "imageUrl": "",
@@ -215,9 +215,9 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       },
       {
         "id": 6,
-        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE]",
+        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE WITH COMPACT NUMERALS]",
         "paragraphs": [
-          "[Paragraph 1: Operational disruption event and bottleneck cleanly outlined in 2 to 3 dense, metric-driven sentences.]",
+          "[Paragraph 1: Operational disruption event and bottleneck cleanly outlined in 2 to 3 dense, metric-driven sentences utilizing standard abbreviations like $4.6M or 100K.]",
           "[Paragraph 2: Financial/strategic trade-off and cost implication explained in 2 to 3 dense sentences designed to provoke professional evaluation.]"
         ],
         "imageUrl": "",
@@ -226,9 +226,9 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       },
       {
         "id": 7,
-        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE]",
+        "heading": "[UPPERCASE CATEGORY: CORE UPGRADE HEADLINE WITH COMPACT NUMERALS]",
         "paragraphs": [
-          "[Paragraph 1: Operational disruption event and bottleneck cleanly outlined in 2 to 3 dense, metric-driven sentences.]",
+          "[Paragraph 1: Operational disruption event and bottleneck cleanly outlined in 2 to 3 dense, metric-driven sentences utilizing standard abbreviations like $4.6M or 100K.]",
           "[Paragraph 2: Financial/strategic trade-off and cost implication explained in 2 to 3 dense sentences designed to provoke professional evaluation.]"
         ],
         "imageUrl": "",
@@ -357,5 +357,5 @@ Output pure JSON with zero markdown code ticks outside the structural map:
       ]
     }
   },
-  "social_post": "🌐 [TITLE WHITE] [TITLE BLUE]\nGlobal supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:\n\n01 / [TITLE 1]\n[One-sentence premium summary of signal 01].\n\n02 / [TITLE 2]\n[One-sentence premium summary of signal 02].\n\n03 / [TITLE 3]\n[One-sentence premium summary of signal 03].\n\n04 / [TITLE 4]\n[One-sentence premium summary of signal 04].\n\n05 / [TITLE 5]\n[One-sentence premium summary of signal 05].\n\n06 / [TITLE 6]\n[One-sentence premium summary of signal 06].\n\n07 / [TITLE 7]\n[One-sentence premium summary of signal 07].\n\n✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦\nStay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.\n\nVisit our profile or official website at www.siyalairllc.com to explore complete digital development and marketing services.\nFor inquiries, contact us at +1 862 425 6741.\n\n[ LIKE • SHARE • FOLLOW ]\nFor hourly decoded freight and global logistics signals across the globe.\n\n#SupplyChain #GlobalLogistics #FreightForwarding #LogisticsManagement #GlobalTrade #CustomsCompliance #ShippingNews #MomentumPoint"
+  "social_post": "🌐 [TITLE WHITE] [TITLE BLUE]\nGlobal supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:\n\n01 / [TITLE 1]\n[One-sentence premium summary of signal 01].\n\n02 / [TITLE 2]\n[One-sentence premium summary of signal 02].\n\n03 / [TITLE 3]\n[One-sentence premium summary of signal 03].\n\n04 / [TITLE 4]\n[One-sentence premium summary of signal 04].\n\n05 / [TITLE 5]\n[One-sentence premium summary of signal 05].\n\n06 / [TITLE 6]\n[One-sentence premium summary of signal 06].\n\n07 / [TITLE 7]\n[One-sentence premium summary of signal 07].\n\n✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦\nStay ahead of the global freight pulse. We decode high-signal logistics developments as they happened, every hour.\n\nVisit our profile or official website at www.siyalairllc.com to explore complete digital development and marketing services.\nFor inquiries, contact us at +1 862 425 6741.\n\n[ LIKE • SHARE • FOLLOW ]\nFor hourly decoded freight and global logistics signals across the globe.\n\n#SupplyChain #GlobalLogistics #FreightForwarding #LogisticsManagement #GlobalTrade #CustomsCompliance #ShippingNews #MomentumPoint"
 }
