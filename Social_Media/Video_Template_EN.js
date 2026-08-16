@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CUSTOMS CRACKDOWN KILLS DE MINIMIS LOOPHOLE",
+        "hookTitle": "USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: DE MINIMIS IS DEAD AND LEGALLY BURIED",
-                "teaserTitle": "PANAMA CANAL: QUEUE-JUMP FEE SURGES",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "PANAMA CANAL: QUEUE JUMP FEE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The trade court has officially ended duty-free treatment for low-value import parcels. Importers face immediate administrative overhead and strict new customs filing requirements."
+                "narration_line": "The United States Trade Representative is advancing new forced labor tariffs across sixty trading partners under Section three oh one. Importers face immediate administrative friction and complex compliance audits."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE SURGES",
-                "teaserTitle": "AIR CARGO: PEAK SEASON RATE SLUMP",
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
+                "teaserTitle": "TRUCKING: CAPACITY AND RATE SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A gas tanker paid four point six million dollars to cut the Panama Canal queue. Persistent security disruptions are driving priority transit fees to historic highs."
+                "narration_line": "An empty tanker secured passage through the Panama Canal by paying a record four point six million dollar fee. Persistent draft constraints continue to drive spot auction prices to unprecedented highs."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: PEAK SEASON RATE SLUMP",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "headline": "TRUCKING: CAPACITY AND RATE SURGE",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Global air cargo spot rates declined six percent amid soft peak season demand. Carriers are cutting capacity to prevent load factor erosion across trade lanes."
+                "narration_line": "Dry van contract freight rates have hit record highs as national truckload volumes experience a seasonal decline. Tightening equipment availability is forcing procurement teams to adopt short-term mini-bids."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: UBER FREIGHT BREACH",
-                "teaserTitle": "REGULATION: NON-DOMICILED CDL LIMITS",
+                "headline": "AIR CARGO: PEAK SEASON SLUMP",
+                "teaserTitle": "REGULATION: NON DOMICILED CDL LIMITS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A massive cybersecurity breach at Uber Freight exposed critical digital credentialing vulnerabilities. Brokerages face urgent pressure to overhaul third-party vendor verification protocols."
+                "narration_line": "Global air cargo spot rates declined six percent as muted early peak season activity signals softer demand. International carriers are actively adjusting capacity allocations downward to prevent load factor erosion."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: NON-DOMICILED CDL LIMITS",
-                "teaserTitle": "GLOBAL TRADE: STRATEGIC OIL DEPLETION",
+                "headline": "REGULATION: NON DOMICILED CDL LIMITS",
+                "teaserTitle": "ENERGY: STRATEGIC OIL DEPLETION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "New state-level restrictions on non-domiciled commercial driver licenses are accelerating regional driver attrition. Motor carriers face compounding driver shortages and rising wage pressures."
+                "narration_line": "State authorities in Rhode Island and Utah have enacted stringent restrictions on non-domiciled commercial driver licenses. These localized enforcement measures are accelerating regional driver attrition."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: STRATEGIC OIL DEPLETION CONCERNS",
-                "teaserTitle": "INFRASTRUCTURE: PORT CLEAN ENERGY PUSH",
+                "headline": "ENERGY: STRATEGIC OIL DEPLETION",
+                "teaserTitle": "PORTS: CLEAN ENERGY INCENTIVES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The U.S. strategic petroleum reserve fell to its lowest level since nineteen eighty-three. Geopolitical tensions forced aggressive crude drawdowns to supply refineries."
+                "narration_line": "The United States Strategic Petroleum Reserve has fallen to its lowest level since nineteen eighty-three. Persistent geopolitical tensions have forced aggressive crude drawdowns across domestic refineries."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: CLEAN ENERGY INCENTIVES BOOST",
+                "headline": "PORTS: CLEAN ENERGY INCENTIVES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Los Angeles and Long Beach ports increased financial incentives for low-emitting vessels. Carriers failing emission thresholds face escalating port access penalties."
+                "narration_line": "The ports of Los Angeles and Long Beach have increased financial incentives for low-emission ocean carriers. This initiative is designed to accelerate maritime decarbonization and upgrade terminal infrastructure."
             },
             {
                 "slide_index": 8,
