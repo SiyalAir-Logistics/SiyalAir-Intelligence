@@ -27,6 +27,7 @@ jobs:
           pip install edge-tts
           cd Social_Media
           npm install
+          npm install ffprobe-static
 
       - name: Run Script to Generate Audio
         run: |
