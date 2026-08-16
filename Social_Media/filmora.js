@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PANAMA CANAL: QUEUE JUMP FEE",
-                "teaserTitle": "CUSTOMS LAW: DE MINIMIS ELIMINATION",
-                "visual_caption": "An empty tanker secured an expedited Panama Canal transit by paying a record $4.6M fee. Shippers must evaluate auction costs against 14-day voyage diversions."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "PANAMA CANAL: QUEUE JUMP FEE",
+                "visual_caption": "USTR implements Section 301 tariffs on 60 trading partners. Importers must verify component origins to prevent border detentions."
             },
             {
                 "slide_index": 2,
-                "headline": "CUSTOMS LAW: DE MINIMIS ELIMINATION",
-                "teaserTitle": "GLOBAL TRADE: FORCED LABOR TARIFFS",
-                "visual_caption": "The U.S. trade court upheld the termination of the $800 de minimis exemption on parcel imports. Cross-border brands now face mandatory formal entry declarations."
+                "headline": "PANAMA CANAL: QUEUE JUMP FEE",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "visual_caption": "Tanker secures expedited transit for a record $4.6M fee. Shippers weigh auction costs against 14-day Cape Horn diversions."
             },
             {
                 "slide_index": 3,
-                "headline": "GLOBAL TRADE: FORCED LABOR TARIFFS",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "visual_caption": "The USTR is implementing Section 301 tariffs on 60 nations across international manufacturing corridors. Importers must conduct rigorous upstream supply chain audits."
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "CRITICAL MINERALS: DEFENSE LOANS",
+                "visual_caption": "Cyber breach at Uber Freight exposes over 1M compliance records. Logistics providers face heightened double-brokering vulnerabilities."
             },
             {
                 "slide_index": 4,
-                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "teaserTitle": "CRITICAL MINERALS: DEFENSE LOANS",
-                "visual_caption": "A cyber breach at Uber Freight exposed over 1M operational and compliance files. Risk managers must immediately enforce multi-factor authentication protocols."
+                "headline": "CRITICAL MINERALS: DEFENSE LOANS",
+                "teaserTitle": "RAIL MERGERS: MULTI-STATE LAWSUIT",
+                "visual_caption": "Pentagon inks $2B+ in loans for domestic critical mineral supply chains. Manufacturers must audit upstream inputs for federal compliance."
             },
             {
                 "slide_index": 5,
-                "headline": "CRITICAL MINERALS: DEFENSE LOANS",
-                "teaserTitle": "RAIL MERGERS: MULTI-STATE LAWSUIT",
-                "visual_caption": "The DOD signed over $2B in conditional loan agreements to secure critical mineral supply chains. Procurement executives must audit upstream raw material origins."
+                "headline": "RAIL MERGERS: MULTI-STATE LAWSUIT",
+                "teaserTitle": "MARITIME POLICY: EMISSION INCENTIVES",
+                "visual_caption": "6 state AGs file joint brief opposing the UP-NS rail merger. Shippers build out multi-modal alternatives to insulate freight budgets."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL MERGERS: MULTI-STATE LAWSUIT",
-                "teaserTitle": "MARITIME POLICY: EMISSION INCENTIVES",
-                "visual_caption": "Attorneys general from 6 states filed a joint brief opposing the UP-NS rail merger. Strategists must develop diversified multi-modal rail-to-truck transfer capabilities."
+                "headline": "MARITIME POLICY: EMISSION INCENTIVES",
+                "teaserTitle": "FREIGHT MARKET: CONTRACT SURGE",
+                "visual_caption": "Ports of LA and Long Beach boost incentives for zero-emission vessels. Modernized fleets capture preferential berthing economics."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME POLICY: EMISSION INCENTIVES",
+                "headline": "FREIGHT MARKET: CONTRACT SURGE",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "The Ports of LA and Long Beach introduced financial incentives for zero-emission vessels. Shippers targeting Scope 3 decarbonization metrics can leverage green corridors."
+                "visual_caption": "Maritime disruptions spread rate increases from spot to contract freight. Enterprise shippers secure multi-modal capacity to protect margins."
             },
             {
                 "slide_index": 8,
