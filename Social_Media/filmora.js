@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: SECTION 301 TARIFFS",
-                "teaserTitle": "CANAL LOGISTICS: $4.6M TRANSIT AUCTION",
-                "visual_caption": "The USTR has enacted sweeping Section 301 tariffs across 60 trading nations. Enterprise importers face mandatory forced labor audits and immediate duty surcharges at major container ports."
+                "headline": "CUSTOMS COMPLIANCE: TRADE COURT DE MINIMIS BAN",
+                "teaserTitle": "CYBER SECURITY: 1M FILE FREIGHT BREACH",
+                "visual_caption": "The U.S. Court of International Trade upheld the termination of the $800 de minimis customs exemption. Direct-to-consumer importers now face mandatory formal entries and immediate duty liabilities."
             },
             {
                 "slide_index": 2,
-                "headline": "CANAL LOGISTICS: $4.6M TRANSIT AUCTION",
-                "teaserTitle": "IMPORT CONTROLS: 100% DRONE TARIFFS",
-                "visual_caption": "A commercial gas tanker paid a record $4.6M auction fee to bypass Panama Canal queues. Extended vessel rerouting around regional conflict zones continues to inflate trans-isthmus transit expenses."
+                "headline": "CYBER SECURITY: 1M FILE FREIGHT BREACH",
+                "teaserTitle": "EXPORT COMPLIANCE: $36M DEFENSE PENALTY",
+                "visual_caption": "A major voice-phishing breach at Uber Freight exposed more than 1M digital logistics records. Enterprise networks face severe double-brokering risks and carrier identity impersonation."
             },
             {
                 "slide_index": 3,
-                "headline": "IMPORT CONTROLS: 100% DRONE TARIFFS",
-                "teaserTitle": "CARGO SECURITY: $111M FREIGHT HEIST",
-                "visual_caption": "Federal regulators have implemented 100% import tariffs on commercial drones and flight hardware. Robotics fleets face doubling procurement costs alongside strict domestic sourcing requirements for cross-border logistics infrastructure."
+                "headline": "EXPORT COMPLIANCE: $36M DEFENSE PENALTY",
+                "teaserTitle": "AIR CARGO: $204M EXPRESS HUB EXPANSION",
+                "visual_caption": "The State Department penalized defense contractor BAE Systems $36M for export regulation violations. Specialized logistics providers must expand screening audits across international trade corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "CARGO SECURITY: $111M FREIGHT HEIST",
-                "teaserTitle": "DEFENSE SUPPLY: $2B MINERAL CONTRACTS",
-                "visual_caption": "Organized cargo theft syndicates have hijacked $111M in enterprise data center shipments. High-value freight carriers are rapidly upgrading real-time telematics and armed transit escorts."
+                "headline": "AIR CARGO: $204M EXPRESS HUB EXPANSION",
+                "teaserTitle": "REGULATORY DISPUTE: 17M TRUCKER RECORDS",
+                "visual_caption": "DHL Express tripled cargo handling capacity in Shenzhen with a $204M gateway expansion. The automated facility accelerates cross-border export velocity for high-tech supply chains."
             },
             {
                 "slide_index": 5,
-                "headline": "DEFENSE SUPPLY: $2B MINERAL CONTRACTS",
-                "teaserTitle": "OCEAN FREIGHT: ASIAN PORT CONGESTION",
-                "visual_caption": "The Pentagon has signed over $2B in funding commitments to onshore critical battery minerals. Advanced industrial processors will receive dedicated domestic allocations to insulate critical defense manufacturing lines."
+                "headline": "REGULATORY DISPUTE: 17M TRUCKER RECORDS",
+                "teaserTitle": "RAIL INTERMODAL: $1,000 CONTAINER SURCHARGE",
+                "visual_caption": "22 states sued to block federal administrative access to 17M commercial driver license records. Motor carriers face growing driver licensing uncertainty across interstate freight networks."
             },
             {
                 "slide_index": 6,
-                "headline": "OCEAN FREIGHT: ASIAN PORT CONGESTION",
-                "teaserTitle": "TECH HARDWARE: $300M TARIFF REFUND",
-                "visual_caption": "Severe tropical weather across major Chinese gateways has triggered widespread vessel delays in Shanghai and Ningbo. Shippers confront soaring transpacific spot rates as equipment shortages mount across destination hubs."
+                "headline": "RAIL INTERMODAL: $1,000 CONTAINER SURCHARGE",
+                "teaserTitle": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
+                "visual_caption": "Union Pacific imposed a $1,000 surcharge per box on excess California intermodal container traffic. Shippers must evaluate costly rail fees against tightening over-the-road trucking alternatives."
             },
             {
                 "slide_index": 7,
-                "headline": "TECH HARDWARE: $300M TARIFF REFUND",
+                "headline": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
                 "teaserTitle": "",
-                "visual_caption": "Nintendo recouped $300M in customs duty refunds while severe memory shortages squeeze electronics manufacturers. High-tech assembly operations are restructuring buffer inventories to manage tightening component capacity."
+                "visual_caption": "Fresh attacks on 2 commercial oil tankers in the Strait of Hormuz prompted widespread dark transits. Energy logistics operators face surging war-risk premiums and critical voyage delays."
             },
             {
                 "slide_index": 8,
