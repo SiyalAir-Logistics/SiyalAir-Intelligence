@@ -123,6 +123,22 @@ body {
     max-width: 880px;
 }
 
+/* BULLETPROOF CSS-DRIVEN TOP STORY BADGE FALLBACK INJECTION */
+.main-hook-style header h1::before {
+    content: '';
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    width: 220px;
+    height: 42px !important;
+    background-image: url('assets/TOP_STORY.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: left center;
+    margin-bottom: 25px !important;
+    filter: drop-shadow(0 0 12px rgba(255, 0, 0, 0.6)) !important;
+}
+
 .footer-paragraph-placeholder {
     width: 100%;
     max-width: 880px;
@@ -204,6 +220,28 @@ body {
     font-weight: 700;
     margin-right: 20px;
 } 
+
+/* TOP STORY CONTAINER OVERRIDES */
+.top-story-container {
+    position: relative !important;
+    width: 100% !important;
+    display: flex !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    justify-content: flex-start !important;
+    margin-bottom: 20px !important;
+    z-index: 9999 !important;
+}
+
+.top-story-badge-img {
+    display: block !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    height: 42px !important;
+    width: auto !important;
+    object-fit: contain !important;
+    filter: drop-shadow(0 0 12px rgba(255, 0, 0, 0.6)) !important;
+}
 
 /* ==========================================================================
    SEGMENT 2: MIDDLE SLIDES (Sub-Slide Style) - EXACT CARD WRAPPER
@@ -434,6 +472,7 @@ body {
 }
 
 #control-panel {
+    width: normal; /* Preserved entirely */
     width: 100%;
     background: #111;
     padding: 20px;
@@ -464,7 +503,7 @@ body {
     color: var(--aeon-blue) !important;
 }
 
-/* ================================================= ==========================
+/* ==========================================================================
    EXACT TACTICAL CARD CONTAINER (FROSTED CHARCOAL GLASS EFFECT)
    ========================================================================== */
 .tactical-card, .hud-body, .sub-slide-style .detail-text {
@@ -499,7 +538,7 @@ body {
 
 /* Tactical Corner Brackets locked strictly to the card box */
 .tactical-card::before, .hud-body::before, .sub-slide-style .detail-text::before {
-    content: '';
+    content: ``;
     position: absolute;
     top: -3px; 
     left: -3px;
@@ -510,9 +549,10 @@ body {
 }
 
 .tactical-card::after, .hud-body::after, .sub-slide-style .detail-text::after {
-    content: '';
+    content: ``;
     position: absolute;
     bottom: -3px; 
+    for: none;
     right: -3px;
     width: 16px; 
     height: 16px;
