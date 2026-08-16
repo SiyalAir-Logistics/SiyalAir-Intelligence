@@ -1,80 +1,65 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CONTRACT FREIGHT RATES",
-        "titleBlue": "SURGE",
-        "footerSummary": "Global trade disruptions spread rate increases to contract freight while maritime chokepoints and customs enforcement tighten supply chain margins."
+        "titleWhite": "DE MINIMIS LOOPHOLE",
+        "titleBlue": "DEAD",
+        "footerSummary": "Global trade compliance tightens as courts shutter duty exemptions while Section 301 tariffs escalate supply chain pressures across 60 trading partner nations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OCEAN FREIGHT: CONTRACT RATES SURGE",
+            "heading": "CUSTOMS: DE MINIMIS LOOPHOLE DEAD",
             "paragraphs": [
-                "Persistent maritime disruptions and robust peak season volumes have triggered a massive rate increase wave across both spot and contract ocean shipping markets. Shippers face escalating container shipping costs as carriers successfully push pricing power deeper into multi-year service agreements.",
-                "Procurement teams must abandon rigid long-term contracts in favor of flexible allocation models to protect logistics budgets from sustained rate inflation. Freight directors need to evaluate multi-carrier routing strategies to secure capacity ahead of upcoming volume spikes."
+                "The U.S. Court of International Trade has officially upheld the elimination of the de minimis exemption, effectively closing the long-standing loophole that allowed low-value shipments to enter duty-free. Importers and customs brokers must immediately reconfigure compliance systems to account for standard tariff applications across all incoming commercial parcels.",
+                "This regulatory reversal eliminates a critical cost advantage for direct-to-consumer ecommerce networks relying on low-value postal entries. Logistics executives must factor in elevated customs clearance overhead and potential border delays as authorities ramp up enforcement actions."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL TRADE: IRAN WAR DISRUPTION",
+            "nextUpTease": "TRADE POLICY: SECTION 301 TARIFFS",
             "tags": [
                 "Source: https://theloadstar.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GLOBAL TRADE: IRAN WAR DISRUPTION",
+            "heading": "TRADE POLICY: SECTION 301 TARIFFS",
             "paragraphs": [
-                "The ongoing conflict in the Middle East has driven commercial energy tankers and cargo vessels to execute extended dark transits and bypass volatile maritime chokepoints. War risk insurance premiums and bunker fuel costs have climbed sharply, forcing vessel operators to deploy lengthy detours around regional danger zones.",
-                "Supply chain strategists must recalculate transit economics and secure alternate fuel sourcing to mitigate escalating transportation surcharges. Energy logistics planners need to diversify supply routes to maintain uninterrupted feedstock delivery across major international corridors."
+                "The Office of the United States Trade Representative is moving forward with the implementation of strict tariffs across 60 trading partner nations under Section 301 of the Trade Act of 1974. These expanded measures target goods linked to forced labor and supply chain circumvention, significantly broadening federal trade compliance enforcement.",
+                "Sourcing directors facing mandatory tariff expansions must audit international supplier networks to mitigate sudden margin compression and regulatory exposure. Supply chain planners need to diversify manufacturing origins rapidly to insulate landed costs from escalating trade penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: DEMAND PEAK SOFTENS",
+            "nextUpTease": "MARITIME LOGISTICS: HORMUZ TANKER ATTACKS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: DEMAND PEAK SOFTENS",
+            "heading": "MARITIME LOGISTICS: HORMUZ TANKER ATTACKS",
             "paragraphs": [
-                "Global air cargo markets are experiencing an uncharacteristic slowdown, with spot rates dropping 6% month over month as early peak season activity mutes. Stricter customs enforcement on low-value shipments combined with shifting consumer demand has cooled air cargo pricing momentum heading into H2.",
-                "Shippers gain tactical leverage in rate negotiations, allowing air freight buyers to secure favorable terms on primary trade lanes. Logistics managers should capitalize on current rate softness to lock in reliable capacity before winter retail demand accelerates."
+                "Two additional commercial tankers were struck in the Strait of Hormuz during outbound transits, intensifying regional security risks and prompting extended vessel detours. Maritime operators are increasingly deploying dark transits and altering routing schedules to avoid active conflict zones in the Middle East.",
+                "War risk insurance premiums and bunker fuel surcharges are climbing rapidly, driving up operational expenses for energy and bulk shipping lanes. Vessel charterers must reevaluate voyage economics and execute rigorous risk assessments before committing assets to volatile chokepoints."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: QUEUE-JUMP FEE PEAKS",
+            "nextUpTease": "AIR FREIGHT: CAPACITY EXPANSION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T19:04:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PANAMA CANAL: QUEUE-JUMP FEE PEAKS",
+            "heading": "AIR FREIGHT: CAPACITY EXPANSION",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker paid a record $4.6M queue-jump fee to bypass severe maritime congestion at the Panama Canal. Water level reductions and ongoing regional traffic diversions have driven slot auction prices to unprecedented historical highs.",
-                "Vessel operators face difficult cost-benefit evaluations when scheduling expedited transits through constrained canal infrastructure. Shippers absorbing these premium vessel toll expenses must adjust landed cost models and test alternate intermodal routing."
+                "DHL Express has completed a major terminal expansion that triples its air cargo handling capacity at the Shenzhen gateway to support rising trans-Pacific volumes. This infrastructure upgrade enhances regional connectivity as logistics providers race to capture shifting trade flows amid ongoing maritime disruptions.",
+                "Air cargo buyers can leverage expanded gateway capacity to secure reliable uplift for time-sensitive components ahead of peak shipping season. Freight forwarders should optimize multi-modal routing strategies to capitalize on high-throughput regional sorting hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL SECURITY: SO CAL THEFT PROBE",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "RAIL SECURITY: SO CAL THEFT PROBE",
-            "paragraphs": [
-                "Law enforcement authorities arrested 5 suspects following an armed freight-cargo theft incident involving a moving BNSF train in Southern California. The operation highlights persistent security vulnerabilities across transcontinental rail networks as organized theft rings target high-value intermodal freight.",
-                "Rail operators and logistics providers face mounting pressure to deploy enhanced digital surveillance and armed security patrols along vulnerable tracks. Shippers moving high-value inventory via rail must mandate end-to-end GPS tracking and hardened container seals."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "COMPLIANCE PENALTIES: ARMS EXPORT FINE",
+            "nextUpTease": "RAIL INFRASTRUCTURE: MERGER OPPOSITION",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: 2026-08-14T00:00:00Z",
@@ -82,32 +67,47 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "COMPLIANCE PENALTIES: ARMS EXPORT FINE",
+            "id": 5,
+            "heading": "RAIL INFRASTRUCTURE: MERGER OPPOSITION",
             "paragraphs": [
-                "Aerospace contractor BAE Systems has agreed to pay a $36M penalty to settle federal charges for breaching U.S. arms export regulations. The Department of State agreed to suspend $18M of the penalty contingent upon the implementation of comprehensive remedial compliance measures.",
-                "Defense manufacturers and international suppliers must audit trade compliance programs to prevent costly regulatory infractions. Corporate legal teams should invest in automated screening tools to maintain strict adherence to federal export controls."
+                "Six state attorneys general have formally opposed the proposed Union Pacific and Norfolk Southern merger, arguing that promised competitive benefits are insufficient for the market. Regulatory resistance is mounting as shipping advocates warn the consolidation could degrade intermodal service quality and raise freight costs.",
+                "Rail shippers must prepare for prolonged regulatory battles and potential structural barriers affecting transcontinental route options and pricing stability. Logistics planners need to maintain carrier diversification across competing rail networks to protect long-term freight continuity."
             ],
             "imageUrl": "",
-            "nextUpTease": "INDUSTRIAL REAL ESTATE: VACANCY HOLDS",
+            "nextUpTease": "SECURITY & FRAUD: DATA CENTER THEFT",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "SECURITY & FRAUD: DATA CENTER THEFT",
+            "paragraphs": [
+                "Organized cargo thieves have stolen nearly $111M in high-value data center freight across transit corridors using sophisticated bump and run tactics. The scale of these targeted interceptions highlights severe security vulnerabilities in moving sensitive technology components through over-the-road networks.",
+                "Shippers moving high-value enterprise electronics must mandate enhanced carrier vetting, real-time GPS tracking, and secure parking protocols. Risk management teams need to review insurance coverage limits and tighten chain-of-custody protocols to prevent catastrophic cargo loss."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRUCKING OPERATIONS: REGULATORY CR CRACKDOWN",
+            "tags": [
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INDUSTRIAL REAL ESTATE: VACANCY HOLDS",
+            "heading": "TRUCKING OPERATIONS: REGULATORY CRACKDOWN",
             "paragraphs": [
-                "National industrial real estate vacancy rates stabilized at 7.3% during Q2 as warehouse net absorption outpaced new construction completions. Slower development pipelines and steady logistics leasing activity have successfully rebalanced major port-adjacent distribution submarkets.",
-                "Occupiers are losing leverage to negotiate aggressive lease concessions as Class A warehouse space tightens across strategic transportation nodes. Distribution executives must secure multi-year facility renewals early to protect supply chain margins from impending rent escalations."
+                "Federal and state enforcement agencies have sidelined 48 commercial drivers and 159 vehicles following intensive over-the-road safety crackdowns across multiple jurisdictions. Heightened scrutiny on electronic logging device compliance and driver credentials is accelerating capacity tightening in the truckload segment.",
+                "Motor carriers face rising compliance costs and operational friction as enforcement agencies step up roadside audits and driver credential verifications. Shippers should anticipate regional capacity constraints and adjust freight procurement models to mitigate transit delays."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T20:10:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

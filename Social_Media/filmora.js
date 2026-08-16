@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "OCEAN FREIGHT: CONTRACT RATES SURGE",
-                "teaserTitle": "GLOBAL TRADE: IRAN WAR DISRUPTION",
-                "visual_caption": "Persistent maritime disruptions are driving container shipping costs higher across multi-year service agreements. Procurement teams must adopt flexible allocation models to protect logistics budgets."
+                "headline": "CUSTOMS: DE MINIMIS LOOPHOLE DEAD",
+                "teaserTitle": "TRADE POLICY: SECTION 301 TARIFFS",
+                "visual_caption": "The court upheld the elimination of the de minimis exemption, ending duty-free low-value parcels. Importers must reconfigure compliance systems for standard tariffs."
             },
             {
                 "slide_index": 2,
-                "headline": "GLOBAL TRADE: IRAN WAR DISRUPTION",
-                "teaserTitle": "AIR CARGO: DEMAND PEAK SOFTENS",
-                "visual_caption": "Middle East conflicts are forcing commercial tankers to execute extended dark transits around volatile chokepoints. Supply chain strategists must recalculate transit economics immediately."
+                "headline": "TRADE POLICY: SECTION 301 TARIFFS",
+                "teaserTitle": "MARITIME LOGISTICS: HORMUZ TANKER ATTACKS",
+                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 trading partner nations. Sourcing directors must audit supplier networks to prevent sudden margin compression."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: DEMAND PEAK SOFTENS",
-                "teaserTitle": "PANAMA CANAL: QUEUE-JUMP FEE PEAKS",
-                "visual_caption": "Global air cargo spot rates dropped 6% as early peak season activity softens. Shippers can capitalize on this softness to secure favorable carrier capacity."
+                "headline": "MARITIME LOGISTICS: HORMUZ TANKER ATTACKS",
+                "teaserTitle": "AIR FREIGHT: CAPACITY EXPANSION",
+                "visual_caption": "2 commercial tankers were struck in the Strait of Hormuz during outbound transits. Operators are deploying dark transits to bypass active regional conflict zones."
             },
             {
                 "slide_index": 4,
-                "headline": "PANAMA CANAL: QUEUE-JUMP FEE PEAKS",
-                "teaserTitle": "RAIL SECURITY: SO CAL THEFT PROBE",
-                "visual_caption": "A liquefied petroleum gas tanker paid $4.6M to jump the Panama Canal queue. Shippers absorbing these tolls must adjust landed cost models."
+                "headline": "AIR FREIGHT: CAPACITY EXPANSION",
+                "teaserTitle": "RAIL INFRASTRUCTURE: MERGER OPPOSITION",
+                "visual_caption": "DHL Express expanded its Shenzhen gateway to triple regional air cargo capacity. Buyers can secure reliable uplift ahead of the upcoming peak shipping season."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL SECURITY: SO CAL THEFT PROBE",
-                "teaserTitle": "COMPLIANCE PENALTIES: ARMS EXPORT FINE",
-                "visual_caption": "Law enforcement arrested 5 suspects following an armed cargo theft on a moving train. Rail operators must deploy enhanced digital surveillance and armed security patrols."
+                "headline": "RAIL INFRASTRUCTURE: MERGER OPPOSITION",
+                "teaserTitle": "SECURITY & FRAUD: DATA CENTER THEFT",
+                "visual_caption": "6 state attorneys general are formally opposing the UP-NS merger. Shippers must prepare for prolonged regulatory bottlenecks and pricing instability."
             },
             {
                 "slide_index": 6,
-                "headline": "COMPLIANCE PENALTIES: ARMS EXPORT FINE",
-                "teaserTitle": "INDUSTRIAL REAL ESTATE: VACANCY HOLDS",
-                "visual_caption": "BAE Systems agreed to pay a $36M penalty for export regulation breaches. Defense suppliers must audit trade compliance programs to prevent infractions."
+                "headline": "SECURITY & FRAUD: DATA CENTER THEFT",
+                "teaserTitle": "TRUCKING OPERATIONS: REGULATORY CRACKDOWN",
+                "visual_caption": "Thieves have stolen $111M in data center freight via transit robberies. Shippers must mandate enhanced GPS tracking and secure parking protocols."
             },
             {
                 "slide_index": 7,
-                "headline": "INDUSTRIAL REAL ESTATE: VACANCY HOLDS",
+                "headline": "TRUCKING OPERATIONS: REGULATORY CRACKDOWN",
                 "teaserTitle": "",
-                "visual_caption": "National industrial vacancy rates stabilized at 7.3% during Q2. Distribution executives must secure facility renewals early to protect margins."
+                "visual_caption": "Federal crackdowns have sidelined 48 drivers and 159 commercial vehicles. Motor carriers face rising operational friction and tighter capacity."
             },
             {
                 "slide_index": 8,
