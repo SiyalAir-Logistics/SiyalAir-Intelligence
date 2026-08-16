@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR SECTION THREE ZERO ONE TARIFFS ON NATIONS",
+        "hookTitle": "FORCED LABOR-BASED TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "PANAMA CANAL: RECORD FEE",
+                "headline": "USTR: FORCED LABOR-BASED TARIFFS",
+                "teaserTitle": "TRADE LAW: DE MINIMIS STRUCK DOWN",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is advancing Section three oh one tariffs on sixty nations as older duties expire. Importers must audit supplier compliance to mitigate duty liabilities."
+                "narration_line": "The United States Trade Representative initiated Section three oh one tariffs across sixty nations. Customs authorities are deploying strict provenance audits on inbound cargo."
             },
             {
                 "slide_index": 2,
-                "headline": "PANAMA CANAL: RECORD FEE",
-                "teaserTitle": "STRAIT OF HORMUZ: TANKER ATTACKS",
+                "headline": "TRADE LAW: DE MINIMIS STRUCK DOWN",
+                "teaserTitle": "CYBERSECURITY: FREIGHT DATA BREACH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An empty gas tanker agreed to pay four point six million dollars to jump the Panama Canal queue. Operators must factor dynamic waterway auction tolls into long-term routing budgets."
+                "narration_line": "Federal courts upheld the total elimination of the eight hundred dollar de minimis exemption. Parcel operators now face formal entry procedures and customs duties."
             },
             {
                 "slide_index": 3,
-                "headline": "STRAIT OF HORMUZ: TANKER ATTACKS",
-                "teaserTitle": "AIR CARGO: DE MINIMIS CRACKDOWN",
+                "headline": "CYBERSECURITY: FREIGHT DATA BREACH",
+                "teaserTitle": "MARITIME RISK: HORMUZ TANKER ATTACKS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Two commercial tankers were attacked overnight in the Strait of Hormuz amid escalating regional security risks. Marine underwriters are rapidly raising war risk insurance premiums across the corridor."
+                "narration_line": "A major cyber breach exposed over one million digital logistics files across brokerage databases. Shippers must mandate multi-factor authentication to prevent cargo theft."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: DE MINIMIS CRACKDOWN",
-                "teaserTitle": "COCAINE BUST: LONDON GATEWAY",
+                "headline": "MARITIME RISK: HORMUZ TANKER ATTACKS",
+                "teaserTitle": "PANAMA CANAL: QUEUE-JUMP FEE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Tougher customs enforcement on low-value ecommerce shipments threatens air cargo volume across major lanes. Logistics providers face severe customs clearance delays at destination gateways."
+                "narration_line": "Commercial tankers sustained drone strikes during outbound transits through the Strait of Hormuz. War risk insurance premiums surged across global energy corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "COCAINE BUST: LONDON GATEWAY",
-                "teaserTitle": "RAILWAY MERGER: STATE OPPOSITION",
+                "headline": "PANAMA CANAL: QUEUE-JUMP FEE",
+                "teaserTitle": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "British authorities seized three hundred thirteen million dollars worth of cocaine hidden inside a banana shipment. Intensified port security inspections are increasing cargo dwell times for importers."
+                "narration_line": "An empty tanker paid a record four point six million dollars to jump the Panama queue. Water level restrictions continue to drive up congestion auction pricing."
             },
             {
                 "slide_index": 6,
-                "headline": "RAILWAY MERGER: STATE OPPOSITION",
-                "teaserTitle": "RETAIL SALES: JULY DECLINE",
+                "headline": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
+                "teaserTitle": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Six state attorneys general formally opposed the proposed Union Pacific and Norfolk Southern merger. Intermodal shippers should diversify carrier relationships to hedge against rail consolidation risks."
+                "narration_line": "State attorneys general filed formal regulatory objections opposing a major rail merger. Shippers face potential carrier service disruptions and long-term pricing rigidity."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL SALES: JULY DECLINE",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "United States retail sales dipped in July as seasonal tax refunds faded from consumer spending. Inventory planners must maintain agile warehousing strategies to navigate shifting demand."
+                "narration_line": "National industrial vacancy rates dropped to seven point three percent in the second quarter. Occupiers are losing leverage to negotiate lease concessions."
             },
             {
                 "slide_index": 8,

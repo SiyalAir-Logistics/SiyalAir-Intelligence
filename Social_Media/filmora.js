@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "PANAMA CANAL: RECORD FEE",
-                "visual_caption": "The USTR is implementing Section 301 tariffs on 60 nations as Section 122 duties expire. Importers must audit supply chains to mitigate tariff liabilities."
+                "headline": "USTR: FORCED LABOR-BASED TARIFFS",
+                "teaserTitle": "TRADE LAW: DE MINIMIS STRUCK DOWN",
+                "visual_caption": "USTR initiated Section 301 tariffs across 60 trading partner nations. Customs authorities are deploying strict provenance audits on inbound cargo."
             },
             {
                 "slide_index": 2,
-                "headline": "PANAMA CANAL: RECORD FEE",
-                "teaserTitle": "STRAIT OF HORMUZ: TANKER ATTACKS",
-                "visual_caption": "A gas tanker paid $4.6M to jump the Panama Canal queue amid severe water constraints. Operators must factor dynamic toll pricing into routing budgets."
+                "headline": "TRADE LAW: DE MINIMIS STRUCK DOWN",
+                "teaserTitle": "CYBERSECURITY: FREIGHT DATA BREACH",
+                "visual_caption": "Federal courts upheld the elimination of the $800 de minimis exemption. Parcel operators now face formal entry procedures and customs duties."
             },
             {
                 "slide_index": 3,
-                "headline": "STRAIT OF HORMUZ: TANKER ATTACKS",
-                "teaserTitle": "AIR CARGO: DE MINIMIS CRACKDOWN",
-                "visual_caption": "Two commercial tankers were attacked in the Strait of Hormuz during outbound transits. Marine underwriters are rapidly raising war risk insurance premiums."
+                "headline": "CYBERSECURITY: FREIGHT DATA BREACH",
+                "teaserTitle": "MARITIME RISK: HORMUZ TANKER ATTACKS",
+                "visual_caption": "A major cyber breach exposed over 1M digital logistics files across databases. Shippers must mandate multi-factor authentication to prevent cargo theft."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: DE MINIMIS CRACKDOWN",
-                "teaserTitle": "COCAINE BUST: LONDON GATEWAY",
-                "visual_caption": "Tougher customs enforcement on low-value shipments threatens ecommerce air cargo volume. Logistics providers face severe clearance delays at key gateways."
+                "headline": "MARITIME RISK: HORMUZ TANKER ATTACKS",
+                "teaserTitle": "PANAMA CANAL: QUEUE-JUMP FEE",
+                "visual_caption": "Commercial tankers sustained drone strikes during transits through the Strait of Hormuz. War risk insurance premiums surged across global energy corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "COCAINE BUST: LONDON GATEWAY",
-                "teaserTitle": "RAILWAY MERGER: STATE OPPOSITION",
-                "visual_caption": "UK authorities seized a $313M cocaine consignment hidden in a banana shipment. Intensified security inspections are increasing agricultural cargo dwell times."
+                "headline": "PANAMA CANAL: QUEUE-JUMP FEE",
+                "teaserTitle": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
+                "visual_caption": "An empty tanker paid a record $4.6M to jump the Panama Canal queue. Water level restrictions continue to drive up congestion auction pricing."
             },
             {
                 "slide_index": 6,
-                "headline": "RAILWAY MERGER: STATE OPPOSITION",
-                "teaserTitle": "RETAIL SALES: JULY DECLINE",
-                "visual_caption": "Six state attorneys general formally opposed the proposed Union Pacific and Norfolk Southern merger. Intermodal shippers should diversify carrier networks."
+                "headline": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
+                "teaserTitle": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
+                "visual_caption": "State attorneys general filed formal regulatory objections opposing a major rail merger. Shippers face potential carrier service disruptions and pricing rigidity."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL SALES: JULY DECLINE",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "U.S. retail sales fell 0.6% in July to $763.6B as seasonal tax refunds faded. Inventory planners must maintain agile warehousing to navigate demand shifts."
+                "headline": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
+                "teaserTitle": "",
+                "visual_caption": "National industrial vacancy rates dropped to 7.3% in Q2 as absorption outpaced supply. Occupiers are losing leverage to negotiate aggressive lease concessions."
             },
             {
                 "slide_index": 8,
