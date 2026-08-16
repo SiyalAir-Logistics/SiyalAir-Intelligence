@@ -232,7 +232,7 @@ Output pure JSON with zero markdown code ticks outside the structural map:
           "[Paragraph 2: Financial/strategic trade-off and cost implication explained in 2 to 3 dense sentences designed to provoke professional evaluation.]"
         ],
         "imageUrl": "",
-        "nextUpTease": "FINAL SLIDE",
+        "nextUpTease": "",
         "tags": ["Source: [EXACT_DEEP_LINK_URL_FROM_SCRAPED_SOURCE]", "Published: [ISO_8601_TIMESTAMP_UTC]", "Status: Audited & True"]
       }
     ]
