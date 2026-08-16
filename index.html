@@ -52,5 +52,39 @@
     </script>
 
     <script src="engine.js"></script>
+
+    <!-- ULTIMATE PERSISTENT ENGINE-AWARE BADGE INJECTOR -->
+    <script>
+      (function() {
+        const forceInject = () => {
+          const heading = document.getElementById('slide-heading');
+          if (heading) {
+            const header = heading.closest('header') || heading.parentElement;
+            if (header && !header.querySelector('.top-story-container')) {
+              const container = document.createElement('div');
+              container.className = 'top-story-container';
+              container.setAttribute('style', 'display: block !important; visibility: visible !important; opacity: 1 !important; position: relative !important; z-index: 9999 !important; margin: 0 0 16px 0 !important; width: 100% !important; text-align: left !important;');
+              container.innerHTML = '<img src="assets/TOP_STORY.png" alt="TOP STORY" class="top-story-badge-img" crossorigin="anonymous" style="display: inline-block !important; visibility: visible !important; opacity: 1 !important; height: 36px !important; width: auto !important; object-fit: contain !important; filter: drop-shadow(0 0 12px rgba(0,0,0,0.5)) !important;">';
+              header.insertBefore(container, heading);
+            }
+          }
+        };
+
+        // Watch for engine.js DOM rebuilds and mutations instantly
+        const observer = new MutationObserver(() => {
+          forceInject();
+        });
+        
+        const targetContainer = document.getElementById('render-container') || document.body;
+        observer.observe(targetContainer, { 
+          childList: true, 
+          subtree: true 
+        });
+
+        // Continuous execution loop to bulletproof against engine refresh cycles
+        setInterval(forceInject, 50);
+        window.addEventListener('load', forceInject);
+      })();
+    </script>
 </body>
 </html>
