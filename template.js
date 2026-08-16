@@ -1,95 +1,95 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DETENTION FEES MUST PROMOTE",
-        "titleBlue": "FLUIDITY",
-        "footerSummary": "Appellate court upholds FMC mandate ensuring detention fees promote ocean freight fluidity, shielding shippers from unfair terminal penalties and operational friction."
+        "titleWhite": "DE MINIMIS ELIMINATION UPHELD BY TRADE",
+        "titleBlue": "COURT",
+        "footerSummary": "Federal trade court validates the elimination of the $800 de minimis loophole, triggering major supply chain restructuring for cross-border ecommerce."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: DETENTION FEES MUST PROMOTE FLUIDITY",
+            "heading": "TRADE POLICY: DE MINIMIS ELIMINATION UPHELD",
             "paragraphs": [
-                "The U.S. Court of Appeals for the D.C. Circuit issued a definitive ruling upholding the Federal Maritime Commission decision that detention and demurrage fees must actively incentivize freight fluidity. This legal affirmation reinforces regulatory oversight against punitive terminal charges levied on ocean shippers and intermediaries.",
-                "Logistics operators facing chronic container bottlenecks can leverage this ruling to challenge unjustified dwell penalties and streamline port turnaround times. Shippers must audit current billing practices to recover excess demurrage costs and protect supply chain operating margins."
+                "The United States Court of International Trade has officially dismissed legal challenges against the removal of low-value duty exemptions. This definitive ruling permanently closes the historical loophole that previously allowed direct-to-consumer parcels valued under 800 USD to enter domestic markets duty-free.",
+                "Importers and cross-border retailers must immediately restructure distribution models and re-evaluate landed cost calculations. Supply chain planners face compressed timelines to adapt to comprehensive customs assessments across all incoming commercial shipments."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARMS EXPORT: BAE SYSTEMS PENALTY",
+            "nextUpTease": "AIR FREIGHT: CUSTOMS CRACKDOWN",
             "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: 2026-07-08T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GLOBAL TRADE: BAE SYSTEMS PENALTY",
+            "heading": "AIR FREIGHT: CUSTOMS CRACKDOWN",
             "paragraphs": [
-                "The Department of State has penalized BAE Systems $36M for multiple violations of U.S. arms export regulations and technical data controls. Federal regulators agreed to suspend $18M of the total fine contingent upon comprehensive remediation measures to upgrade internal compliance frameworks.",
-                "Defense contractors and dual-use manufacturers face escalating regulatory scrutiny regarding international shipment compliance and technical data governance. Risk managers must bolster internal trade controls immediately to avert severe financial penalties and supply chain disruptions."
+                "Intensified customs scrutiny targeting low-value air cargo is severely disrupting high-velocity supply chains originating from Asian export hubs. Regulatory authorities are intercepting non-compliant shipments and demanding exhaustive documentation for every parcel category.",
+                "Air cargo operators face compounding dwell times and surging clearance bottlenecks at primary gateway airports across international sectors. Shippers must build extended buffer times into transit schedules to prevent critical inventory shortfalls."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFF EVASION: TRANSSHIPMENT PROBE",
+            "nextUpTease": "SECURITY & FRAUD: TAX SCAM",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GLOBAL TRADE: TRANSSHIPMENT PROBE",
+            "heading": "SECURITY & FRAUD: TAX SCAM",
             "paragraphs": [
-                "A recent White House report reveals that dozens of foreign nations have actively assisted China in evading U.S. trade tariffs through illicit transshipment networks. Methods identified include relabeling, repackaging, minor processing, and fraudulent country-of-origin documentation designed to bypass customs enforcement.",
-                "Importers relying on multi-tier international supply chains face heightened exposure to retroactive customs duties and cargo seizures as federal agencies intensify audits. Sourcing executives must implement rigorous supplier verification protocols to eliminate compliance risks."
+                "Federal investigators have launched a nationwide inquiry into a sophisticated 54-count tax fraud scheme targeting independent truck drivers. Unverified financial preparation services have compromised thousands of self-employed operators through fraudulent filings and unremitted tax payments.",
+                "Carrier retention risks are escalating sharply as affected drivers face severe financial penalties and unexpected liabilities. Fleets must provide verified compliance support to protect independent contractors from systemic fraudulent exploitation."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT LOGISTICS: CLEAN ENERGY INCENTIVES",
+            "nextUpTease": "TRUCKING OPERATIONS: RECORD RATES",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PORT LOGISTICS: CLEAN ENERGY INCENTIVES",
+            "heading": "TRUCKING OPERATIONS: RECORD RATES",
             "paragraphs": [
-                "The Ports of Los Angeles and Long Beach have agreed to significantly increase financial incentives for ocean carriers deploying their lowest-emitting vessels into Southern California terminals. This initiative aims to accelerate maritime decarbonization while modernizing terminal infrastructure for sustainable operations.",
-                "Ocean carriers and port operators must upgrade fleet environmental profiles to capture lucrative financial rebates and maintain competitive service contracts. Logistics planners should factor green vessel deployment schedules into long-term gateway routing decisions."
+                "Dry van and refrigerated contract shipping rates have climbed to historic highs as overall truckload cargo volumes experience a steady contraction. Motor carriers are successfully pushing through aggressive rate adjustments to offset rising operational expenses and tightening capacity.",
+                "Shippers relying on traditional annual contracts are encountering severe resistance and frequent mini-bid failures across key freight lanes. Transportation buyers must adopt flexible spot-market pricing strategies to secure guaranteed capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "ECOMMERCE FACILITY: CONSIGNMENT SALE",
+            "nextUpTease": "MARITIME LOGISTICS: PACIFIC SURGE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ECOMMERCE LOGISTICS: CONSIGNMENT SALE",
+            "heading": "MARITIME LOGISTICS: PACIFIC SURGE",
             "paragraphs": [
-                "Rival platform Poshmark has acquired the infrastructure facilities powering eBay Consignment, causing temporary service outages and operational disruption for sellers. This strategic acquisition reshapes the competitive landscape for digital consignment and reverse logistics fulfillment networks.",
-                "Online merchants dependent on platform-integrated fulfillment services face sudden operational transition challenges and potential inventory processing delays. Supply chain managers must diversify fulfillment channels to mitigate third-party platform acquisition risks."
+                "Containerized import volumes moving from Asian manufacturing centers to the United States East Coast have surged to unprecedented peak levels. Persistent cargo flows and constrained vessel availability are driving ocean spot rates significantly higher than initial forecasts.",
+                "Supply chain executives are forced to absorb compounding demurrage charges and extended dwell times at major container terminals. Logistics directors must optimize port routing allocations to maintain predictable inventory replenishment cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKLOAD MARKETS: CAPACITY TIGHTENING",
+            "nextUpTease": "INFRASTRUCTURE: RAIL SURCHARGE",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: 2026-08-15T23:14:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SURFACE TRUCKING: CAPACITY TIGHTENING",
+            "heading": "INFRASTRUCTURE: RAIL SURCHARGE",
             "paragraphs": [
-                "Shippers are increasingly abandoning traditional annual transportation RFPs in favor of short-term mini-bids to secure shrinking over-the-road truck capacity. Accelerating truckload rate increases and tightening equipment availability are forcing logistics teams to adopt agile procurement strategies.",
-                "Transportation buyers face severe budget volatility and margin pressure as spot and short-term contract rates climb across major freight corridors. Fleet managers must optimize asset utilization and deepen carrier partnerships to maintain freight continuity."
+                "Union Pacific has announced aggressive intermodal surcharge increases reaching 1,000 USD per box across key California ramp locations. Chronic equipment imbalances and heavy terminal congestion have necessitated punitive pricing structures to restore network fluidity.",
+                "Rail shippers face immediate margin compression and unexpected freight budget variances across transcontinental intermodal corridors. Intermodal users must re-evaluate ramp selection and evaluate alternative highway routing options to mitigate cost exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: DE MINIMIS IMPACT",
+            "nextUpTease": "WORKFORCE: LAYOFF WAVE",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: 2026-08-14T00:00:00Z",
@@ -98,15 +98,15 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: DE MINIMIS IMPACT",
+            "heading": "WORKFORCE: LAYOFF WAVE",
             "paragraphs": [
-                "Global air cargo rates and cross-border volumes have experienced a notable slump following the recent implementation of European Union duty-free tax reforms. The elimination of low-value import exemptions is fundamentally altering merchant shipping behavior and trans-Atlantic air uplift demand.",
-                "Air freight forwarders and e-commerce exporters must restructure pricing models and inventory positioning strategies to absorb new customs duty frameworks. Supply chain planners should evaluate regional distribution hubs to minimize the financial impact of lost de minimis privileges."
+                "A broad freight distress report reveals that logistics service providers and motor carriers have eliminated more than 1,200 operational jobs nationwide. Depressed freight demand and aggressive corporate restructuring are accelerating facility closures across the sector.",
+                "Industry stakeholders must navigate shrinking partner networks and potential operational disruptions as third-party providers consolidate capacity. Management teams need to audit third-party vendor stability to ensure long-term transportation continuity."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]

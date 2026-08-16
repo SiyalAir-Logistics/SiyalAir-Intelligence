@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DETENTION FEES MUST PROMOTE FLUIDITY",
+        "hookTitle": "DE MINIMIS ELIMINATION UPHELD BY TRADE COURT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: DETENTION FEES MUST PROMOTE FLUIDITY",
-                "teaserTitle": "ARMS EXPORT: BAE SYSTEMS PENALTY",
+                "headline": "TRADE POLICY: DE MINIMIS ELIMINATION UPHELD",
+                "teaserTitle": "AIR FREIGHT: CUSTOMS CRACKDOWN",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The federal court upheld a ruling requiring detention fees to promote cargo fluidity. This mandate protects ocean shippers from unfair terminal penalties."
+                "narration_line": "The United States Court of International Trade has upheld the elimination of duty-free exemptions. Importers must immediately restructure cross-border distribution models."
             },
             {
                 "slide_index": 2,
-                "headline": "GLOBAL TRADE: BAE SYSTEMS PENALTY",
-                "teaserTitle": "TARIFF EVASION: TRANSSHIPMENT PROBE",
+                "headline": "AIR FREIGHT: CUSTOMS CRACKDOWN",
+                "teaserTitle": "SECURITY & FRAUD: TAX SCAM",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "BAE Systems will pay thirty-six million dollars for arms export regulation breaches. Half of the financial penalty is suspended for compliance upgrades."
+                "narration_line": "Customs authorities are intensifying enforcement on low-value air cargo shipments. Shippers should expect severe clearance delays at primary gateways."
             },
             {
                 "slide_index": 3,
-                "headline": "GLOBAL TRADE: TRANSSHIPMENT PROBE",
-                "teaserTitle": "PORT LOGISTICS: CLEAN ENERGY INCENTIVES",
+                "headline": "SECURITY & FRAUD: TAX SCAM",
+                "teaserTitle": "TRUCKING OPERATIONS: RECORD RATES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A White House report reveals multiple nations helped China evade trade tariffs. Illegal transshipments used false country of origin documentation."
+                "narration_line": "Federal investigators are probing a major tax fraud scheme targeting independent truck drivers. Fleets must verify compliance to protect contracted operators."
             },
             {
                 "slide_index": 4,
-                "headline": "PORT LOGISTICS: CLEAN ENERGY INCENTIVES",
-                "teaserTitle": "ECOMMERCE FACILITY: CONSIGNMENT SALE",
+                "headline": "TRUCKING OPERATIONS: RECORD RATES",
+                "teaserTitle": "MARITIME LOGISTICS: PACIFIC SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "West Coast ports will increase financial incentives for low emission vessels. Clean energy programs aim to accelerate maritime decarbonization."
+                "narration_line": "Contract shipping rates have reached historic highs amid declining truckload volumes. Transportation buyers must adopt flexible pricing models."
             },
             {
                 "slide_index": 5,
-                "headline": "ECOMMERCE LOGISTICS: CONSIGNMENT SALE",
-                "teaserTitle": "SURFACE TRUCKING: CAPACITY TIGHTENING",
+                "headline": "MARITIME LOGISTICS: PACIFIC SURGE",
+                "teaserTitle": "INFRASTRUCTURE: RAIL SURCHARGE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Poshmark acquired eBay consignment facilities, causing temporary platform service outages. Online sellers face immediate inventory processing disruptions."
+                "narration_line": "Containerized import volumes moving to the East Coast have surged to peak levels. Logistics directors must optimize routing to control dwell times."
             },
             {
                 "slide_index": 6,
-                "headline": "SURFACE TRUCKING: CAPACITY TIGHTENING",
-                "teaserTitle": "AIR FREIGHT: DE MINIMIS IMPACT",
+                "headline": "INFRASTRUCTURE: RAIL SURCHARGE",
+                "teaserTitle": "WORKFORCE: LAYOFF WAVE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Shippers are abandoning annual contracts for mini bids amid tightening truck capacity. Rising transportation rates are forcing agile procurement strategies."
+                "narration_line": "Union Pacific has raised California intermodal surcharges to one thousand dollars per box. Shippers face immediate budget variances."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: DE MINIMIS IMPACT",
+                "headline": "WORKFORCE: LAYOFF WAVE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Air cargo volumes slumped following European Union duty free tax reforms. The elimination of low value exemptions is reshaping trade behavior."
+                "narration_line": "Logistics providers have eliminated over twelve hundred jobs amid restructuring. Management must audit vendor stability to ensure continuity."
             },
             {
                 "slide_index": 8,
