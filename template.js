@@ -1,50 +1,95 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DE MINIMIS IS DEAD AND",
-        "titleBlue": "BURIED",
-        "footerSummary": "The federal trade court officially shuts down the 800 USD loophole as supply chain managers absorb aggressive tariff enforcement across global corridors."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP SURGE TO",
+        "titleBlue": "$4.6M",
+        "footerSummary": "Global shipping routes face severe cost inflation as record fees and regional conflicts force carriers to bypass traditional transit corridors."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: DE MINIMIS ELIMINATION",
+            "heading": "OCEAN FREIGHT: QUEUE JUMP RECORD",
             "paragraphs": [
-                "The federal trade court has officially upheld the total elimination of the longstanding 800 USD de minimis exemption, effectively closing the door on duty-free low-value imports. Importers and cross-border forwarders face immediate compliance restructuring as legacy loophole pathways are permanently dismantled.",
-                "Logistics executives must absorb sweeping customs friction and recalibrate landed cost structures across international supply chain networks. Financial forecasting models require urgent updates to account for mandatory duty collection on all incoming commercial parcels."
+                "An empty liquefied petroleum gas tanker will cut the Panama Canal queue next week after paying a record 4.6M USD fee. This payment surpasses the previous high watermark of 3.975M USD as vessel operators aggressively bid to bypass severe transit delays.",
+                "Escalating priority fees highlight the profound financial trade-offs container lines face when navigating constrained maritime choke points. Supply chain planners must factor soaring canal transit costs directly into operating budgets and route optimization models."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
+            "nextUpTease": "TRADE POLICY: FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR CARGO: PEAK SEASON SLUMP",
+            "heading": "TRADE POLICY: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "Muted air cargo peak season activity is signaling weaker second-half demand as global spot rates drop 6% month over month. Xeneta reports that pricing power is rapidly shifting back to shippers, creating unexpected capacity headroom across major trade lanes.",
-                "Carriers face pressing yield management challenges as historical seasonal volume surges fail to materialize in traditional Q3 corridors. Transport buyers must evaluate whether to lock in softer spot rates or secure flexible multi-month capacity agreements."
+                "The Office of the United States Trade Representative is advancing new tariff enforcement measures targeting 60 trading partners under Section 301 of the Trade Act. Importers face heightened compliance friction as regulatory agencies clamp down on goods linked to forced labor practices.",
+                "Supply chain directors must conduct exhaustive tier-3 supplier audits to mitigate severe customs seizure risks and unbudgeted penalty exposure. Navigating these expanding trade barriers requires absolute transparency across every link of the international sourcing chain."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: RATE SURGE",
+            "nextUpTease": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OCEAN FREIGHT: RATE SURGE",
+            "heading": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
             "paragraphs": [
-                "Asia to US East Coast ocean freight rates have climbed to a striking new high as sustained import volumes defy traditional seasonal patterns. Freightos confirms that robust early peak season demand is taking market observers completely by surprise, tightening available vessel slots.",
-                "Shippers encounter severe margin compression and unexpected spot rate volatility just as annual budget allocations reach critical phases. Maritime logistics planners must optimize container utilization and secure forward allocations to mitigate escalating lane expenses."
+                "Two commercial tankers were struck in the Strait of Hormuz during overnight transits, intensifying regional security threats to Middle Eastern energy shipments. Maritime authorities report that aggressive state-backed actions are continuing to disrupt vital shipping lanes and commercial vessel schedules.",
+                "Tanker operators are responding by extending dark transit protocols and altering routing strategies to minimize exposure to ongoing military hostilities. Cargo owners must absorb surging war risk insurance premiums and anticipate extended delivery timelines across energy corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: FREIGHT BREACH",
+            "nextUpTease": "AIR CARGO: ECOMMERCE CRACKDOWN",
+            "tags": [
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T19:04:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
+            "paragraphs": [
+                "Tougher customs enforcement on low-value airfreight shipments is actively threatening parcel import volumes across major European and North American gateways. Regulatory authorities are intensifying physical inspections, effectively dismantling the fast-track clearance model relied upon by cross-border merchants.",
+                "Logistics providers must adapt to chronic terminal congestion and unpredictable clearance delays that undermine retail inventory replenishment cycles. E-commerce enterprises need to re-evaluate overseas fulfillment strategies to prevent widespread stockouts and ballooning storage fees."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "REGULATORY ENFORCEMENT: DRIVER LICENSE RESTRICTIONS",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "REGULATORY ENFORCEMENT: DRIVER LICENSE RESTRICTIONS",
+            "paragraphs": [
+                "State authorities in Rhode Island and Utah have joined a growing legislative push to restrict non-domiciled commercial driver licenses. These new state-level mandates threaten to accelerate driver attrition across the domestic trucking sector beyond initial federal projections.",
+                "Fleet operators face mounting capacity constraints and escalating driver wage pressures as available labor pools shrink further. Transportation executives must deploy targeted retention strategies and optimize asset utilization to protect profit margins."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AIR CARGO: PEAK SEASON SLUMP",
+            "paragraphs": [
+                "Global air cargo spot rates have dropped 6% month over month as muted peak season activity signals softer second-half demand. Xeneta reports that pricing power is shifting back toward shippers, creating unexpected capacity headroom across major international air trade lanes.",
+                "Airlines and forwarders face pressing yield management challenges as historical volume surges fail to materialize in traditional Q3 corridors. Transport buyers must evaluate whether to lock in softer spot rates or secure flexible multi-month capacity agreements."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME CRIME: COCAINE SEIZURE",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-16T00:00:00Z",
@@ -52,62 +97,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "CYBERSECURITY: FREIGHT BREACH",
-            "paragraphs": [
-                "A massive security breach at Uber Freight has exposed millions of sensitive identity files, laying bare deep vulnerabilities in logistics network architecture. This incident highlights critical gaps in digital credential management across modern freight matching and brokerage platforms.",
-                "Industry stakeholders face mounting pressure to overhaul digital defenses as cyber criminal syndicates increasingly target freight operational databases. Enterprise supply chains must enforce rigorous multi-factor authentication and continuous vendor security audits."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-15T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
-            "paragraphs": [
-                "Aggressive customs crackdowns on low-value Chinese ecommerce shipments are directly threatening airfreight demand across international hubs. Regulatory authorities are intensifying physical and documentary inspections, effectively reversing years of frictionless parcel growth.",
-                "Cross-border retailers and air cargo forwarders must navigate severe terminal congestion and extended clearance delays. Supply chain directors need to diversify fulfillment strategies to prevent inventory bottlenecks at primary import gateways."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RAIL INFRASTRUCTURE: CAPACITY CONSTRAINTS",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "RAIL INFRASTRUCTURE: CAPACITY CONSTRAINTS",
-            "paragraphs": [
-                "Class I railroad speed metrics and terminal dwell times reveal tightening network fluidity across major transcontinental corridors. Intermodal shippers confront localized equipment shortages and rising ramp surcharges as container volumes continue to build.",
-                "Transportation managers must adapt to constrained rail capacity by optimizing loading schedules and exploring intermodal alternatives. Early carrier engagement is critical to securing equipment allocations ahead of projected autumn volume spikes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: CAPACITY EXPANSION",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-13T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "AIR FREIGHT: CAPACITY EXPANSION",
+            "heading": "MARITIME CRIME: COCAINE SEIZURE",
             "paragraphs": [
-                "DHL Express has successfully tripled its dedicated air cargo capacity in Shenzhen through a major terminal infrastructure expansion. This strategic development strengthens regional logistics throughput to support surging manufacturing export volumes across Asia.",
-                "Supply chain leaders gain enhanced velocity for high-priority cross-border ecommerce and time-sensitive industrial freight. Shippers should leverage expanded gateway capabilities to optimize inventory flow and reduce transit variance."
+                "UK law enforcement officials intercepted a 2.9-tonne shipment of cocaine hidden within a banana cargo container at London Gateway. Valued at 313M USD, this massive bust highlights sophisticated smuggling exploitation of high-volume containerized trade routes.",
+                "Customs agencies are intensifying terminal surveillance and physical inspections on perishable supply chains originating from high-risk origin ports. Importers must enforce stringent supply chain security protocols to prevent cargo contamination and costly customs holds."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T15:17:00Z",
                 "Status: Audited & True"
             ]
         }

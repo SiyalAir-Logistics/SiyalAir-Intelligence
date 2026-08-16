@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DE MINIMIS IS DEAD AND BURIED",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP SURGE TO 4.6M USD",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: DE MINIMIS ELIMINATION",
-                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
+                "headline": "OCEAN FREIGHT: QUEUE JUMP RECORD",
+                "teaserTitle": "TRADE POLICY: FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The federal trade court has officially upheld the total elimination of the eight hundred dollar de minimis exemption. Importers and forwarders must immediately restructure compliance across all cross-border supply chain networks."
+                "narration_line": "An empty tanker will cut the Panama Canal queue after paying a record four point six million dollar fee. Supply chain planners must factor these soaring transit costs directly into operating budgets."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO: PEAK SEASON SLUMP",
-                "teaserTitle": "OCEAN FREIGHT: RATE SURGE",
+                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Muted air cargo peak season activity is signaling weaker demand with global spot rates down six percent. Pricing power is shifting to shippers as historical volume surges fail to materialize."
+                "narration_line": "The United States Trade Representative is advancing tariffs on sixty trading partners. Importers face heightened compliance friction and severe penalty exposure across international networks."
             },
             {
                 "slide_index": 3,
-                "headline": "OCEAN FREIGHT: RATE SURGE",
-                "teaserTitle": "CYBERSECURITY: FREIGHT BREACH",
+                "headline": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
+                "teaserTitle": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Asia to United States East Coast ocean freight rates have climbed to a striking new high. Sustained import volumes are taking market observers by surprise and tightening available vessel slots."
+                "narration_line": "Two commercial tankers were struck in the Strait of Hormuz during overnight transit operations. Cargo owners must absorb surging war risk insurance premiums and extended delivery timelines."
             },
             {
                 "slide_index": 4,
-                "headline": "CYBERSECURITY: FREIGHT BREACH",
-                "teaserTitle": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
+                "headline": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
+                "teaserTitle": "REGULATORY ENFORCEMENT: DRIVER LICENSE RESTRICTIONS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A massive security breach at Uber Freight has exposed millions of sensitive identity files. This incident highlights critical digital vulnerabilities across modern freight matching platforms."
+                "narration_line": "Tougher customs enforcement on low-value airfreight threatens parcel import volumes across major gateways. Providers must adapt to chronic terminal congestion and unpredictable clearance delays."
             },
             {
                 "slide_index": 5,
-                "headline": "CUSTOMS COMPLIANCE: ECOMMERCE CRACKDOWN",
-                "teaserTitle": "RAIL INFRASTRUCTURE: CAPACITY CONSTRAINTS",
+                "headline": "REGULATORY ENFORCEMENT: DRIVER LICENSE RESTRICTIONS",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Aggressive customs crackdowns on low-value Chinese ecommerce shipments are threatening airfreight demand. Regulatory authorities are intensifying physical inspections across international hubs."
+                "narration_line": "State level restrictions on commercial driver licenses threaten to accelerate driver attrition. Fleet operators face mounting capacity constraints and escalating wage pressures."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL INFRASTRUCTURE: CAPACITY CONSTRAINTS",
-                "teaserTitle": "AIR FREIGHT: CAPACITY EXPANSION",
+                "headline": "AIR CARGO: PEAK SEASON SLUMP",
+                "teaserTitle": "MARITIME CRIME: COCAINE SEIZURE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Class I railroad speed metrics and terminal dwell times reveal tightening network fluidity. Intermodal shippers face localized equipment shortages as container volumes continue to build."
+                "narration_line": "Global air cargo spot rates have dropped six percent amid muted peak season demand. Transport buyers must evaluate whether to lock in softer spot rates or secure flexible capacity."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR FREIGHT: CAPACITY EXPANSION",
+                "headline": "MARITIME CRIME: COCAINE SEIZURE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "DHL Express has tripled its dedicated air cargo capacity in Shenzhen through terminal expansion. Supply chain leaders gain enhanced velocity for high-priority cross-border trade movements."
+                "narration_line": "British authorities intercepted a three hundred thirteen million dollar cocaine shipment hidden inside bananas. Importers must enforce stringent security protocols to prevent costly customs holds."
             },
             {
                 "slide_index": 8,
