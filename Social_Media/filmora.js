@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: DE MINIMIS LOOPHOLE DEAD",
-                "teaserTitle": "TRADE POLICY: TARIFF SURGE",
-                "visual_caption": "The trade court officially eliminated the $800 de minimis exemption. Customs authorities are aggressively enforcing full duties on all inbound e-commerce parcels."
+                "headline": "OCEAN FREIGHT: RATE INCREASE FIRE SPREADS TO CONTRACTS",
+                "teaserTitle": "TRADE POLICY: DE MINIMIS IS DEAD",
+                "visual_caption": "Shipping disruption is driving an aggressive wave of pricing pressure across global maritime lanes. The rate increase fire has officially spread from spot markets into long-term freight contracts."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: TARIFF SURGE",
-                "teaserTitle": "AIR CARGO: PEAK SLUMP",
-                "visual_caption": "The federal administration imposed 100% tariffs on targeted foreign drones and key components. Importers are rapidly adjusting supply chains to protect margins."
+                "headline": "TRADE POLICY: DE MINIMIS IS DEAD",
+                "teaserTitle": "GLOBAL COMPLIANCE: BAE SYSTEMS PENALTY",
+                "visual_caption": "The US trade court has firmly upheld the total elimination of the $800 de minimis exemption. Federal customs authorities are strictly enforcing formal clearance rules on all low-value parcels."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: PEAK SLUMP",
-                "teaserTitle": "MARITIME RATES: EAST COAST PEAK",
-                "visual_caption": "Global air cargo spot rates fell 6% as early peak season demand softened. Logistics managers can leverage rate dips to optimize shipping budgets."
+                "headline": "GLOBAL COMPLIANCE: BAE SYSTEMS PENALTY",
+                "teaserTitle": "AIR FREIGHT: ECOMMERCE CUSTOMS CRACKDOWN",
+                "visual_caption": "Defense contractor BAE Systems has agreed to pay a $36M penalty for export violations. The Department of State suspended $18M conditional on compliance enhancements."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME RATES: EAST COAST PEAK",
-                "teaserTitle": "MARITIME COMPLIANCE: FMC RULING",
-                "visual_caption": "Container shipping rates from Asia to the US East Coast hit new highs amid strong import volumes. Shippers must secure service contracts early to control voyage costs."
+                "headline": "AIR FREIGHT: ECOMMERCE CUSTOMS CRACKDOWN",
+                "teaserTitle": "MARITIME RISK: STRAIT OF HORMUZ TANKER ATTACKS",
+                "visual_caption": "Tougher customs enforcement on low-value air shipments is threatening to reverse peak season demand. Heightened regulatory inspections are causing extended dwell times at major cargo hubs."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME COMPLIANCE: FMC RULING",
-                "teaserTitle": "DIGITAL SECURITY: FRAUD SPIKE",
-                "visual_caption": "The appeals court upheld a federal maritime ruling requiring detention fees to promote cargo fluidity. Logistics teams should review penalty invoices to recover costs."
+                "headline": "MARITIME RISK: STRAIT OF HORMUZ TANKER ATTACKS",
+                "teaserTitle": "RAIL INFRASTRUCTURE: MERGER OPPOSITION INTENSIFIES",
+                "visual_caption": "Commercial shipping operations face renewed peril after 2 oil tankers were struck in the Strait of Hormuz. Energy charterers are deploying dark transits to evade active conflict zones."
             },
             {
                 "slide_index": 6,
-                "headline": "DIGITAL SECURITY: FRAUD SPIKE",
-                "teaserTitle": "TRUCKING CAPACITY: RATE PRESSURES",
-                "visual_caption": "A major data breach at Uber Freight exposed millions of files, highlighting digital security gaps. Freight brokers must audit vendor access controls to prevent fraud."
+                "headline": "RAIL INFRASTRUCTURE: MERGER OPPOSITION INTENSIFIES",
+                "teaserTitle": "TRUCKING OPERATIONS: FRAUD CRACKDOWN",
+                "visual_caption": "Political resistance against the proposed railroad merger is mounting across multiple legislative fronts. Industry stakeholders warn that consolidation could degrade intermodal service quality."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING CAPACITY: RATE PRESSURES",
+                "headline": "TRUCKING OPERATIONS: FRAUD CRACKDOWN",
                 "teaserTitle": "",
-                "visual_caption": "Dry van and reefer contract rates reached record highs as trucking capacity continues to tighten. Transportation leaders are shifting toward agile mini-bids."
+                "visual_caption": "Federal investigators have unsealed a 54-count tax fraud indictment targeting trucking financial services. Self-employed operators face unexpected compliance liabilities and operational friction."
             },
             {
                 "slide_index": 8,

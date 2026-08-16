@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CUSTOMS DE MINIMIS LOOPHOLE DEAD",
+        "hookTitle": "RATE INCREASE FIRE SPREADS TO CONTRACTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: DE MINIMIS LOOPHOLE DEAD",
-                "teaserTitle": "TRADE POLICY: TARIFF SURGE",
+                "headline": "OCEAN FREIGHT: RATE INCREASE FIRE SPREADS TO CONTRACTS",
+                "teaserTitle": "TRADE POLICY: DE MINIMIS IS DEAD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The trade court has officially ended the eight hundred dollar de minimis exemption. Customs authorities are now strictly enforcing full duties on all inbound ecommerce parcels."
+                "narration_line": "Shipping disruption is driving an aggressive wave of pricing pressure across global maritime lanes. The rate increase fire has officially spread from spot markets into long-term freight contracts."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: TARIFF SURGE",
-                "teaserTitle": "AIR CARGO: PEAK SLUMP",
+                "headline": "TRADE POLICY: DE MINIMIS IS DEAD",
+                "teaserTitle": "GLOBAL COMPLIANCE: BAE SYSTEMS PENALTY",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The federal administration has imposed one hundred percent tariffs on targeted foreign drones and key components. Importers are scrambling to adjust sourcing maps and protect operating margins."
+                "narration_line": "The United States trade court has firmly upheld the total elimination of the eight hundred dollar de minimis exemption. Federal customs authorities are strictly enforcing formal clearance rules on all low-value parcels."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: PEAK SLUMP",
-                "teaserTitle": "MARITIME RATES: EAST COAST PEAK",
+                "headline": "GLOBAL COMPLIANCE: BAE SYSTEMS PENALTY",
+                "teaserTitle": "AIR FREIGHT: ECOMMERCE CUSTOMS CRACKDOWN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Global air cargo spot rates dropped six percent as early peak season demand softened. Logistics managers can leverage these rate dips to optimize multi-modal shipping budgets."
+                "narration_line": "Defense contractor BAE Systems has agreed to pay a thirty-six million dollar penalty for export violations. The Department of State suspended eighteen million dollars conditional on compliance enhancements."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME RATES: EAST COAST PEAK",
-                "teaserTitle": "MARITIME COMPLIANCE: FMC RULING",
+                "headline": "AIR FREIGHT: ECOMMERCE CUSTOMS CRACKDOWN",
+                "teaserTitle": "MARITIME RISK: STRAIT OF HORMUZ TANKER ATTACKS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Container shipping rates from Asia to the United States East Coast reached new highs amid sustained import volumes. Shippers must secure service contracts early to control rising voyage costs."
+                "narration_line": "Tougher customs enforcement on low-value air shipments is threatening to reverse peak season demand. Heightened regulatory inspections are causing extended dwell times at major cargo hubs."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME COMPLIANCE: FMC RULING",
-                "teaserTitle": "DIGITAL SECURITY: FRAUD SPIKE",
+                "headline": "MARITIME RISK: STRAIT OF HORMUZ TANKER ATTACKS",
+                "teaserTitle": "RAIL INFRASTRUCTURE: MERGER OPPOSITION INTENSIFIES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The appeals court upheld a federal maritime ruling requiring detention fees to promote freight fluidity. Logistics teams should review historical penalty invoices to recover excess charges."
+                "narration_line": "Commercial shipping operations face renewed peril after two oil tankers were struck in the Strait of Hormuz. Energy charterers are deploying dark transits to evade active conflict zones."
             },
             {
                 "slide_index": 6,
-                "headline": "DIGITAL SECURITY: FRAUD SPIKE",
-                "teaserTitle": "TRUCKING CAPACITY: RATE PRESSURES",
+                "headline": "RAIL INFRASTRUCTURE: MERGER OPPOSITION INTENSIFIES",
+                "teaserTitle": "TRUCKING OPERATIONS: FRAUD CRACKDOWN",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A major data breach at Uber Freight exposed millions of files, highlighting digital security gaps. Freight brokers must audit vendor access controls to prevent cargo fraud."
+                "narration_line": "Political resistance against the proposed railroad merger is mounting across multiple legislative fronts. Industry stakeholders warn that consolidation could degrade intermodal service quality."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING CAPACITY: RATE PRESSURES",
+                "headline": "TRUCKING OPERATIONS: FRAUD CRACKDOWN",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Dry van and reefer contract rates hit record highs as trucking capacity continues to tighten. Transportation leaders are abandoning annual RFPs for agile mini-bids."
+                "narration_line": "Federal investigators have unsealed a fifty-four count tax fraud indictment targeting trucking financial services. Self-employed operators face unexpected compliance liabilities and operational friction."
             },
             {
                 "slide_index": 8,
