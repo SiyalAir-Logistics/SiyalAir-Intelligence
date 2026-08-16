@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP",
-                "teaserTitle": "TRADE COURT: DE MINIMIS LOOPHOLE",
-                "visual_caption": "An empty LPG tanker paid $4.6M to jump the Panama Canal queue. Shippers face strict trade-offs between priority transit fees and severe maritime delays."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME RISK: STRAIT TANKER ATTACKS",
+                "visual_caption": "USTR implements Section 301 tariffs across 60 trading nations. Importers face severe border compliance audits and mandatory origin checks."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE LAW: DE MINIMIS LOOPHOLE",
-                "teaserTitle": "MARITIME RISK: STRAIT OF HORMUZ",
-                "visual_caption": "The trade court upheld the elimination of the $800 de minimis customs loophole. Importers face immediate margin compression and rigorous border compliance audits."
+                "headline": "ENERGY SECURITY: STRAIT TANKER ATTACKS",
+                "teaserTitle": "TRADE LAW: DE MINIMIS ELIMINATION",
+                "visual_caption": "Tankers extend transit routes following Strait of Hormuz attacks. War-risk insurance spikes are driving up global bunker fuel costs."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY LOGISTICS: STRAIT OF HORMUZ",
-                "teaserTitle": "AIR CARGO: PEAK SEASON DEMAND",
-                "visual_caption": "Crude oil tankers are going dark and extending voyages following attacks in the Strait of Hormuz. War-risk premiums are surging as regional energy routes face disruption."
+                "headline": "TRADE LAW: DE MINIMIS ELIMINATION",
+                "teaserTitle": "CARGO SECURITY: DATA CENTER THEFT",
+                "visual_caption": "Trade courts uphold the elimination of the $800 duty-free exemption. DTC brands face immediate margin compression and clearance delays."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: PEAK SEASON DEMAND",
-                "teaserTitle": "ECOMMERCE TECH: EBAY CONSIGNMENT",
-                "visual_caption": "Global air cargo spot rates fell 6% MoM as peak season demand softens across lanes. Logistics managers can leverage stable capacity to optimize Q4 freight budgets."
+                "headline": "CARGO SECURITY: DATA CENTER THEFT",
+                "teaserTitle": "AIR CARGO CAPACITY: PEAK SEASON SLUMP",
+                "visual_caption": "Criminal networks steal $111M in high-value data center freight. Motor carriers deploy advanced tracking and armed transport escorts."
             },
             {
                 "slide_index": 5,
-                "headline": "ECOMMERCE TECH: EBAY CONSIGNMENT",
-                "teaserTitle": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
-                "visual_caption": "eBay consignment services experienced outages after a rival platform acquired backend infrastructure. Online merchants must diversify digital fulfillment channels immediately."
+                "headline": "AIR CARGO CAPACITY: PEAK SEASON SLUMP",
+                "teaserTitle": "REGULATORY COMPLIANCE: NON-DOMICILED CDLS",
+                "visual_caption": "Global air cargo spot rates drop 6% as peak season demand softens. Shippers gain tactical leverage to negotiate short-term contracts."
             },
             {
                 "slide_index": 6,
                 "headline": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
-                "teaserTitle": "PORT INFRASTRUCTURE: LA-LB CLEAN AIR",
-                "visual_caption": "State transport agencies enacted strict curbs on non-domiciled commercial driver licenses. Motor carriers face compounding driver shortages and rising linehaul labor costs."
+                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN ENERGY INCENTIVES",
+                "visual_caption": "State transport agencies restrict non-domiciled commercial driver licenses. Fleets face driver shortages and rising linehaul expenses."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT INFRASTRUCTURE: LA-LB CLEAN AIR",
+                "headline": "PORT INFRASTRUCTURE: CLEAN ENERGY INCENTIVES",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "LA and Long Beach ports increased financial incentives for low-emission vessels. Ocean carriers must upgrade fleet profiles to secure priority terminal berthing."
+                "visual_caption": "LA and Long Beach boost financial incentives for green container ships. Ocean carriers must upgrade fleets to avoid terminal penalties."
             },
             {
                 "slide_index": 8,

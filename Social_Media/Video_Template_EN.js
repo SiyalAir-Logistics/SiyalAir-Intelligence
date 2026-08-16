@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE SURPASSES FOUR POINT SIX MILLION DOLLARS",
+        "hookTitle": "FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP",
-                "teaserTitle": "TRADE COURT: DE MINIMIS LOOPHOLE",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME RISK: STRAIT TANKER ATTACKS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty liquefied petroleum gas tanker paid four point six million dollars to jump the Panama Canal queue. Shippers face steep financial trade-offs between priority transit fees and extended maritime delays."
+                "narration_line": "The United States Trade Representative is implementing Section three hundred one tariffs across sixty nations. Importers face severe border compliance audits and mandatory supply chain origin verification."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE LAW: DE MINIMIS LOOPHOLE",
-                "teaserTitle": "MARITIME RISK: STRAIT OF HORMUZ",
+                "headline": "ENERGY SECURITY: STRAIT TANKER ATTACKS",
+                "teaserTitle": "TRADE LAW: DE MINIMIS ELIMINATION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The international trade court upheld the elimination of the de minimis tariff exemption. Importers face immediate margin compression and rigorous customs compliance auditing at the border."
+                "narration_line": "Tankers are extending transit routes following military strikes in the Strait of Hormuz. War risk insurance surcharges are driving up global bunker fuel costs."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY LOGISTICS: STRAIT OF HORMUZ",
-                "teaserTitle": "AIR CARGO: PEAK SEASON DEMAND",
+                "headline": "TRADE LAW: DE MINIMIS ELIMINATION",
+                "teaserTitle": "CARGO SECURITY: DATA CENTER THEFT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Crude oil tankers are turning off transponders and extending transit times following attacks in the Strait of Hormuz. War-risk premiums are surging as regional military escalations disrupt key energy shipping routes."
+                "narration_line": "Federal trade courts have officially upheld the elimination of the eighty-hundred-dollar duty free exemption. Direct-to-consumer brands face immediate customs margin compression and clearance delays."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: PEAK SEASON DEMAND",
-                "teaserTitle": "ECOMMERCE TECH: EBAY CONSIGNMENT",
+                "headline": "CARGO SECURITY: DATA CENTER THEFT",
+                "teaserTitle": "AIR CARGO CAPACITY: PEAK SEASON SLUMP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global air cargo spot rates dropped six percent as peak season demand softens across international markets. Logistics managers can leverage stable bellyhold capacity to optimize fourth quarter freight budgets."
+                "narration_line": "Criminal networks have stolen one hundred eleven million dollars in data center freight. Motor carriers are deploying advanced GPS tracking and armed transport escorts."
             },
             {
                 "slide_index": 5,
-                "headline": "ECOMMERCE TECH: EBAY CONSIGNMENT",
-                "teaserTitle": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
+                "headline": "AIR CARGO CAPACITY: PEAK SEASON SLUMP",
+                "teaserTitle": "REGULATORY COMPLIANCE: NON-DOMICILED CDLS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "EBay consignment services suffered major outages following a rival platform acquisition of underlying infrastructure. Online merchants must diversify their digital fulfillment channels to protect operational revenue streams."
+                "narration_line": "Global air cargo spot rates dropped six percent as peak season demand softens. Shippers now hold tactical leverage to negotiate favorable short term contracts."
             },
             {
                 "slide_index": 6,
                 "headline": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
-                "teaserTitle": "PORT INFRASTRUCTURE: LA-LB CLEAN AIR",
+                "teaserTitle": "PORT INFRASTRUCTURE: CLEAN ENERGY INCENTIVES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "State transport agencies are enforcing strict curbs on non-domiciled commercial driver licenses. Motor carriers face compounding driver availability deficits and rising linehaul labor costs nationwide."
+                "narration_line": "State transport departments are restricting non-domiciled commercial driver licenses nationwide. Motor carriers face escalating driver shortages and rising linehaul labor expenses."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT INFRASTRUCTURE: LA-LB CLEAN AIR",
+                "headline": "PORT INFRASTRUCTURE: CLEAN ENERGY INCENTIVES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The ports of Los Angeles and Long Beach boosted financial incentives for low emission vessels. Ocean carriers must upgrade fleet environmental profiles to secure premier terminal berthing allocations."
+                "narration_line": "West Coast ports are increasing financial incentives for low emission container vessels. Ocean carriers must upgrade fleet environmental profiles to avoid costly terminal penalties."
             },
             {
                 "slide_index": 8,

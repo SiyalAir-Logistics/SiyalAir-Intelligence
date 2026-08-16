@@ -1,50 +1,35 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP",
-        "titleBlue": "FEE",
-        "footerSummary": "Panama Canal queue-jump fees surpass $4.6M as geopolitical conflict forces global shipping fleets into costly, extended detours."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR enforces Section 301 tariffs across 60 nations while escalating geopolitical trade conflicts threaten global supply chain margins."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker has agreed to pay a record $4.6 million fee to bypass the Panama Canal queue next week. The transaction shoves past the prior peak watermark of $3.975 million as regional vessel congestion and drought conditions intensify routing bottlenecks.",
-                "Enterprise carriers facing strict delivery windows must evaluate the severe financial trade-off between exorbitant priority transit fees and extended maritime delays. Logistics planners are increasingly forced to reallocate capital reserves to secure reliable vessel positioning across constrained global trade lanes."
+                "The Office of the United States Trade Representative has officially moved forward with the implementation of strict forced labor-based tariffs across 60 trading nations as legacy Section 122 duties expire. Importers across multiple industrial sectors face immediate regulatory scrutiny and mandatory documentary compliance audits under Section 301 provisions.",
+                "Supply chain executives must restructure sourcing frameworks and verify tier-three material origins to avoid severe border impoundments and unexpected duty liabilities. Organizations failing to establish end-to-end traceability risk severe financial penalties and disruptive shipment delays at key import gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE COURT: DE MINIMIS LOOPHOLE",
+            "nextUpTease": "MARITIME RISK: STRAIT TANKER ATTACKS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "TRADE LAW: DE MINIMIS LOOPHOLE",
-            "paragraphs": [
-                "The United States Court of International Trade has officially upheld the elimination of the de minimis tariff exemption, definitively closing the $800 duty-free customs loophole. Federal customs authorities are now enforcing strict duty collections and documentary compliance across all low-value cross-border consignments.",
-                "Direct-to-consumer brands and cross-border logistics providers face immediate margin compression and customs clearance delays as parcel processing slows down. Supply chain executives must overhaul import valuation models and update compliance software to withstand rigorous border auditing."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME RISK: STRAIT OF HORMUZ",
-            "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 3,
-            "heading": "ENERGY LOGISTICS: STRAIT OF HORMUZ",
+            "id": 2,
+            "heading": "ENERGY SECURITY: STRAIT TANKER ATTACKS",
             "paragraphs": [
-                "Crude oil tankers are increasingly going dark and extending transit times around the Middle East following consecutive attacks in the Strait of Hormuz. Maritime risk underwriters have ratcheted up war-risk premiums as regional military escalations threaten core energy shipping channels.",
-                "Global supply chains face surging bunker fuel costs and volatile maritime freight rates as vessel operators detour around high-risk security zones. Corporate logistics directors must recalculate total landed costs and build contingency charters to mitigate severe energy transit disruptions."
+                "Crude oil tankers are extending transit routes and going dark following consecutive military attacks in the Strait of Hormuz, forcing global shipping operators to bypass high-risk zones. International maritime underwriters have implemented steep war-risk premium hikes as regional geopolitical tensions escalate across critical energy trade channels.",
+                "Carriers and industrial shippers face surging bunker fuel surcharges and extended transit schedules that severely impact landed inventory costs. Logistics planners must recalibrate total transport budgets and secure flexible contingency charters to mitigate persistent maritime disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PEAK SEASON DEMAND",
+            "nextUpTease": "TRADE LAW: DE MINIMIS ELIMINATION",
             "tags": [
                 "Source: https://maritime-executive.com",
                 "Published: 2026-08-14T19:04:00Z",
@@ -52,14 +37,44 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "AIR CARGO: PEAK SEASON DEMAND",
+            "id": 3,
+            "heading": "TRADE LAW: DE MINIMIS ELIMINATION",
             "paragraphs": [
-                "Global air cargo spot rates have dropped 6% month over month, signaling a muted peak season as shippers face weaker consumer demand heading into H2. Forwarders are experiencing softer capacity utilization across major trade lanes as commercial bellyhold availability stabilizes.",
-                "Shippers gain tactical leverage to negotiate favorable short-term air charter contracts and reduce expedited freight spending across international routes. Logistics managers must balance inventory holding costs against softening air freight pricing to optimize Q4 budget allocations."
+                "The United States Court of International Trade has definitively upheld the elimination of the de minimis tariff exemption, officially closing the eighty-hundred-dollar duty-free loophole for cross-border consignments. Federal customs authorities are executing aggressive auditing protocols on low-value parcels entering domestic distribution networks.",
+                "Direct-to-consumer enterprises and cross-border forwarders face acute margin compression and terminal processing backlogs as compliance verification slows down parcel clearance. Logistics operators must overhaul import valuation software to withstand rigorous enforcement and prevent prolonged customs holds."
             ],
             "imageUrl": "",
-            "nextUpTease": "DIGITAL PLATFORMS: EBAY CONSIGNMENT",
+            "nextUpTease": "CYBER SECURITY: DATA CENTER THEFT",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-15T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "CARGO SECURITY: DATA CENTER THEFT",
+            "paragraphs": [
+                "Organized criminal networks have stolen nearly $111 million in high-value data center freight across domestic transit corridors using sophisticated bump-and-run highway tactics. Motor carriers and technology shippers are reporting an unprecedented surge in targeted cargo interception involving high-end server components.",
+                "Transportation executives face soaring insurance deductibles and mandatory investments in real-time trailer tracking and armed escorts to protect sensitive electronic shipments. Fleet managers must implement rigorous driver verification standards and secure overnight parking protocols to mitigate rising cargo crime."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO CAPACITY: PEAK SEASON SLUMP",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-15T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AIR CARGO CAPACITY: PEAK SEASON SLUMP",
+            "paragraphs": [
+                "Global air cargo spot rates have declined six percent month over month, signaling a surprisingly muted peak season as consumer demand softens heading into the second half of the year. Forwarders are experiencing increased capacity utilization volatility across major transpacific and transatlantic trade lanes.",
+                "Shippers gain tactical advantage to negotiate favorable short-term air charter contracts and reduce expedited freight spending across international corridors. Supply chain managers must carefully balance inventory holding costs against softening air freight pricing to optimize fourth-quarter budget allocations."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "REGULATORY COMPLIANCE: NON-DOMICILED CDLS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-14T00:00:00Z",
@@ -67,29 +82,14 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "ECOMMERCE TECH: EBAY CONSIGNMENT",
-            "paragraphs": [
-                "eBay Consignment services experienced severe operational outages after rival Poshmark acquired the third-party infrastructure powering the platform. Sellers attempting to access consignment workflows faced persistent error pages and sudden disruptions in digital inventory management.",
-                "Online merchants relying on multi-channel resale platforms face unexpected operational bottlenecks and diminished sales visibility across secondary markets. Marketplace vendors must diversify their digital fulfillment channels to protect revenue streams against sudden third-party infrastructure acquisitions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "REGULATORY COMPLIANCE: NON-DOMICILED CDLS",
-            "tags": [
-                "Source: https://www.ecommercebytes.com",
-                "Published: 2026-08-15T23:14:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
             "heading": "TRUCKING COMPLIANCE: NON-DOMICILED CDLS",
             "paragraphs": [
-                "State transport departments across Utah and Rhode Island are implementing aggressive restrictions on non-domiciled commercial driver licenses amid ongoing federal litigation. Industry experts project these state-level actions will sideline up to 200,000 foreign commercial drivers nationwide.",
-                "Motor carriers face escalating driver shortages, rising linehaul labor costs, and reduced capacity across critical domestic freight corridors. Fleet executives must audit driver qualification files immediately and establish alternative sourcing partnerships to maintain freight velocity."
+                "State transportation departments in Utah and Rhode Island have enacted strict operational limitations on non-domiciled commercial driver licenses amid ongoing federal litigation. Industry experts project these state-level restrictions will sideline up to 200,000 foreign commercial drivers nationwide over the coming months.",
+                "Motor carriers face escalating driver shortages, rising linehaul labor expenses, and reduced capacity across critical domestic freight distribution networks. Fleet executives must audit driver qualification files immediately and establish alternative recruitment partnerships to maintain linehaul velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT INFRASTRUCTURE: LA-LB CLEAN AIR",
+            "nextUpTease": "PORT INFRASTRUCTURE: CLEAN ENERGY INCENTIVES",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-13T00:00:00Z",
@@ -98,10 +98,10 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "PORT INFRASTRUCTURE: LA-LB CLEAN AIR",
+            "heading": "PORT INFRASTRUCTURE: CLEAN ENERGY INCENTIVES",
             "paragraphs": [
-                "The ports of Los Angeles and Long Beach have agreed to significantly increase financial incentives for ocean carriers deploying their lowest-emitting vessels. The environmental program aims to accelerate decarbonization across major West Coast maritime terminals and container handling facilities.",
-                "Ocean carriers must upgrade fleet emissions profiles or face steep financial penalties and lost terminal incentive rebates at primary US import gateways. Supply chain leaders should incorporate port environmental compliance ratings into carrier selection metrics to avoid potential berthing delays."
+                "The ports of Los Angeles and Long Beach have established a comprehensive financial incentive program to reward ocean carriers deploying their lowest-emitting container vessels. The environmental initiative aims to accelerate terminal decarbonization and reduce greenhouse gas emissions across primary West Coast import gateways.",
+                "Ocean carriers failing to upgrade fleet emissions profiles face substantial financial penalties and lost terminal incentive rebates at critical marine terminals. Logistics leaders should integrate port environmental performance ratings into carrier selection metrics to avoid potential berthing delays and surcharges."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
