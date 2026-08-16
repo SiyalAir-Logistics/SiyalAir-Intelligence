@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TRADE POLICY: FORCED LABOR TARIFFS",
+        "hookTitle": "PANAMA TRANSIT AUCTIONS HIT FOUR POINT SIX MILLION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
-                "teaserTitle": "STRAIT OF HORMUZ: TANKER DRONE STRIKES",
+                "headline": "PANAMA CANAL: RECORD TRANSIT AUCTIONS",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "United States trade officials initiated Section three oh one tariffs across sixty trading nations following Section one twenty-two expiration. Shippers face mandatory labor audits and heightened customs clearance scrutiny on all inbound goods."
+                "narration_line": "A commercial tanker paid four point six million dollars to bypass Panama Canal queues under severe draft limits. Shippers must now weigh multi-million-dollar auction fees against two-week vessel diversions."
             },
             {
                 "slide_index": 2,
-                "headline": "STRAIT OF HORMUZ: TANKER DRONE STRIKES",
-                "teaserTitle": "CARGO SECURITY: DATA CENTER THEFTS",
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "AIR CARGO: DHL SHENZHEN EXPANSION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Two commercial tankers were struck in the Strait of Hormuz during outbound transits, disrupting vital Middle Eastern energy lanes. Regional container throughput dropped sixty-five percent as vessel operators implemented immediate security diversions."
+                "narration_line": "Uber Freight suffered a major breach exposing more than one million sensitive carrier and compliance files. Shippers face heightened risks of digital freight fraud and double-brokering across spot markets."
             },
             {
                 "slide_index": 3,
-                "headline": "CARGO SECURITY: DATA CENTER THEFTS",
-                "teaserTitle": "AIR FREIGHT: EU TAX REFORM",
+                "headline": "AIR CARGO: DHL SHENZHEN EXPANSION",
+                "teaserTitle": "CRITICAL MINERALS: PENTAGON DEFENSE LOANS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Organized theft syndicates intercepted nearly one hundred eleven million dollars in artificial intelligence data center equipment using staged highway collisions. Shippers must deploy covert multi-frequency tracking beacons and armed escorts to protect high-value hardware."
+                "narration_line": "DHL Express opened a two hundred four million dollar gateway expansion in Shenzhen, tripling sorting capacity. Exporters gain automated processing redundancy ahead of peak third-quarter technology shipping volumes."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR FREIGHT: EU TAX REFORM",
-                "teaserTitle": "EXPORT CONTROLS: BAE DEFENSE SETTLEMENT",
+                "headline": "CRITICAL MINERALS: PENTAGON DEFENSE LOANS",
+                "teaserTitle": "RAIL MERGERS: MULTI-STATE AG LAWSUIT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "European air cargo volumes slumped following the formal termination of the European Union duty-free tax exemption for cross-border parcels. Retailers face increased entry dwell times and administrative processing surcharges across major continental airports."
+                "narration_line": "The Pentagon committed two billion dollars in conditional loans to secure critical minerals and defense batteries. Manufacturers must verify domestic raw material sourcing to maintain federal defense contract compliance."
             },
             {
                 "slide_index": 5,
-                "headline": "EXPORT CONTROLS: BAE DEFENSE SETTLEMENT",
-                "teaserTitle": "INTERMODAL: CALIFORNIA BOX SURCHARGES",
+                "headline": "RAIL MERGERS: MULTI-STATE AG LAWSUIT",
+                "teaserTitle": "MARITIME POLICY: LA-LB EMISSION REWARDS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Defense contractor B A E Systems agreed to pay a thirty-six million dollar penalty for export control violations. Aerospace supply chains face heightened federal audit oversight and mandatory automated end-use screening protocols."
+                "narration_line": "Six state attorneys general formally opposed the proposed mega-merger between Union Pacific and Norfolk Southern. Rail freight customers face long-term rate uncertainty and reduced competitive routing options across transcontinental corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "INTERMODAL: CALIFORNIA BOX SURCHARGES",
-                "teaserTitle": "PORT LOGISTICS: BUENAVENTURA DIVERSIONS",
+                "headline": "MARITIME POLICY: LA-LB EMISSION REWARDS",
+                "teaserTitle": "CUSTOMS LAW: US TRADE COURT RULING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Union Pacific enacted a one thousand dollar surcharge per container on congested California intermodal rail routes. Shippers must review long-haul truckload alternatives to mitigate mounting domestic transport cost inflation."
+                "narration_line": "Southern California ports expanded financial rebates for ocean carriers operating low-emission container ships. Cargo owners can cut port tariff overhead and lower carbon footprints by booking green-corridor vessels."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT LOGISTICS: BUENAVENTURA DIVERSIONS",
+                "headline": "CUSTOMS LAW: US TRADE COURT RULING",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Ocean carrier C M A C G M began diverting vessels away from Colombia's Port of Buenaventura due to severe landside congestion. Importers face extended vessel berthing delays and additional transshipment fees across western South America."
+                "narration_line": "A federal trade court upheld the termination of the eight hundred dollar de minimis customs exemption. Direct-to-consumer parcel shippers now face mandatory formal customs filings and higher brokerage clearance costs."
             },
             {
                 "slide_index": 8,
