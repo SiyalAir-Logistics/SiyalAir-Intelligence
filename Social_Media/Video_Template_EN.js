@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS EXPAND",
+        "hookTitle": "PANAMA CANAL FEE HITS RECORD",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS EXPAND",
-                "teaserTitle": "TRADE COURT: DE MINIMIS ENDS",
+                "headline": "PANAMA CANAL: RECORD QUEUE-JUMP FEE",
+                "teaserTitle": "ARMS EXPORT: BAE PENALTY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is implementing Section three oh one tariffs on sixty nations. Importers face increased duty costs and must audit supply chain provenance."
+                "narration_line": "An empty liquefied petroleum gas tanker paid four point six million dollars to bypass the Panama Canal queue. Water level reductions and transit bottlenecks continue to drive up priority toll expenses for international shipping operators."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE COURT: DE MINIMIS ENDS",
-                "teaserTitle": "MARITIME: HORMUZ TANKER ATTACKS",
+                "headline": "ARMS EXPORT: BAE PENALTY",
+                "teaserTitle": "TARIFF EVASION: CHINA PROBE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The trade court has officially upheld the complete elimination of low-value de minimis exemptions. Cross-border sellers now face severe customs clearance friction."
+                "narration_line": "Defense contractor BAE Systems agreed to pay a thirty-six million dollar civil penalty for export regulation violations. Federal authorities are enforcing strict compliance oversight across all international trade and defense operations."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: HORMUZ TANKER ATTACKS",
-                "teaserTitle": "AIR FREIGHT: CAPACITY SURGE",
+                "headline": "TARIFF EVASION: CHINA PROBE",
+                "teaserTitle": "CLEAN PORTS: LA-LB INCENTIVES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Two commercial tankers were attacked in the Strait of Hormuz during overnight transits. Maritime underwriters are enforcing mandatory dark routing and higher premiums."
+                "narration_line": "A new White House report reveals that dozens of nations helped China evade tariffs through illegal transshipments. Customs agencies are launching rigorous audits targeting deceptive country-of-origin documentation."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR FREIGHT: CAPACITY SURGE",
-                "teaserTitle": "TRUCKING: ELD PURGE TIGHTENS",
+                "headline": "CLEAN PORTS: LA-LB INCENTIVES",
+                "teaserTitle": "RETAIL IMPORTS: PEAK VOLUMES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "DHL Express has tripled air cargo processing capacity at its Shenzhen terminal hub. The expansion targets surging cross-border ecommerce volumes from Asian manufacturing."
+                "narration_line": "The ports of Los Angeles and Long Beach increased financial incentives for low-emission ocean vessels. Terminal operators are accelerating maritime decarbonization efforts to meet new environmental standards."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING: ELD PURGE TIGHTENS",
-                "teaserTitle": "RAIL INFRASTRUCTURE: TEXAS BUY",
+                "headline": "RETAIL IMPORTS: PEAK VOLUMES",
+                "teaserTitle": "AIR FREIGHT: CAPACITY SLUMP",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Federal enforcement targeting noncompliant electronic logging devices is tightening truckload capacity. Motor carriers face accelerating over-the-road rate pressures."
+                "narration_line": "National Retail Federation data projects that United States port import volumes have peaked ahead of new tariffs. Businesses pulled forward inventory schedules to insulate supply chains against impending trade duties."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL INFRASTRUCTURE: TEXAS BUY",
-                "teaserTitle": "GREEN PORTS: INCENTIVES BOOST",
+                "headline": "AIR FREIGHT: CAPACITY SLUMP",
+                "teaserTitle": "DEFENSE DEALS: CRITICAL MINERALS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Stonepeak has acquired a major rail-served logistics property in Fort Worth, Texas. This investment expands institutional backing for North American intermodal assets."
+                "narration_line": "Muted air cargo peak season activity caused global spot rates to decline six percent month over month. Shippers are leveraging softening demand to secure favorable short-term rate agreements."
             },
             {
                 "slide_index": 7,
-                "headline": "GREEN PORTS: INCENTIVES BOOST",
+                "headline": "DEFENSE DEALS: CRITICAL MINERALS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The ports of Los Angeles and Long Beach are boosting incentives for low-emission vessels. Ocean carriers must upgrade environmental profiles to secure fee discounts."
+                "narration_line": "The Pentagon signed over two billion dollars in loan commitments to secure domestic battery minerals. Industrial manufacturers must align sourcing strategies with federal supply resilience initiatives."
             },
             {
                 "slide_index": 8,
