@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR-BASED TARIFFS",
+        "hookTitle": "CUSTOMS DE MINIMIS EXEMPTION ELIMINATED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR-BASED TARIFFS",
-                "teaserTitle": "TRADE LAW: DE MINIMIS STRUCK DOWN",
+                "headline": "CUSTOMS: DE MINIMIS EXEMPTION ELIMINATED",
+                "teaserTitle": "OCEAN FREIGHT: RATE SPREAD EXPANDS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative initiated Section three oh one tariffs across sixty nations. Customs authorities are deploying strict provenance audits on inbound cargo."
+                "narration_line": "The United States Court of International Trade has permanently eliminated the eight hundred dollar duty free import loophole. Importers must now absorb formal customs clearance fees and restructure cross border fulfillment models."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE LAW: DE MINIMIS STRUCK DOWN",
-                "teaserTitle": "CYBERSECURITY: FREIGHT DATA BREACH",
+                "headline": "OCEAN FREIGHT: RATE SPREAD EXPANDS",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SOFTENS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Federal courts upheld the total elimination of the eight hundred dollar de minimis exemption. Parcel operators now face formal entry procedures and customs duties."
+                "narration_line": "Container shipping rates are surging across both spot and long term contract markets due to sustained peak demand. Procurement teams must deploy flexible allocation strategies to protect logistics budgets."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: FREIGHT DATA BREACH",
-                "teaserTitle": "MARITIME RISK: HORMUZ TANKER ATTACKS",
+                "headline": "AIR CARGO: PEAK SEASON SOFTENS",
+                "teaserTitle": "ENERGY CORRIDOR: TANKERS AVOID HORMUZ",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A major cyber breach exposed over one million digital logistics files across brokerage databases. Shippers must mandate multi-factor authentication to prevent cargo theft."
+                "narration_line": "Global air cargo spot rates dropped six percent month over month as early peak season activity slowed down. Shippers can leverage current rate softness to lock in advantageous transport capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME RISK: HORMUZ TANKER ATTACKS",
-                "teaserTitle": "PANAMA CANAL: QUEUE-JUMP FEE",
+                "headline": "ENERGY CORRIDOR: TANKERS AVOID HORMUZ",
+                "teaserTitle": "PANAMA CANAL: RECORD TOLL PAID",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Commercial tankers sustained drone strikes during outbound transits through the Strait of Hormuz. War risk insurance premiums surged across global energy corridors."
+                "narration_line": "Commercial tankers are executing dark transits and avoiding the Strait of Hormuz following recent drone attacks. Rising war risk insurance premiums are driving up global energy transport surcharges."
             },
             {
                 "slide_index": 5,
-                "headline": "PANAMA CANAL: QUEUE-JUMP FEE",
-                "teaserTitle": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
+                "headline": "PANAMA CANAL: RECORD TOLL PAID",
+                "teaserTitle": "RAIL SECURITY: SO CAL THEFT PROBE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "An empty tanker paid a record four point six million dollars to jump the Panama queue. Water level restrictions continue to drive up congestion auction pricing."
+                "narration_line": "A gas tanker paid a record four point six million dollar fee to bypass Panama Canal transit congestion. Shippers absorbing these tolls must adjust landed cost models immediately."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
-                "teaserTitle": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
+                "headline": "RAIL SECURITY: SO CAL THEFT PROBE",
+                "teaserTitle": "INDUSTRIAL REAL ESTATE: VACANCY HOLDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "State attorneys general filed formal regulatory objections opposing a major rail merger. Shippers face potential carrier service disruptions and long-term pricing rigidity."
+                "narration_line": "Law enforcement arrested five suspects following an armed cargo theft incident on a moving train in California. Rail operators must deploy enhanced surveillance to protect vulnerable intermodal freight."
             },
             {
                 "slide_index": 7,
-                "headline": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
+                "headline": "INDUSTRIAL REAL ESTATE: VACANCY HOLDS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "National industrial vacancy rates dropped to seven point three percent in the second quarter. Occupiers are losing leverage to negotiate lease concessions."
+                "narration_line": "National industrial vacancy stabilized at seven point three percent as warehouse net absorption outpaced new construction. Occupiers must secure multi year lease renewals to avoid rent escalations."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }
