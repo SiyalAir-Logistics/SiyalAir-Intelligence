@@ -1,95 +1,35 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DE MINIMIS IS",
-        "titleBlue": "BURIED",
-        "footerSummary": "Trade court finalizes the elimination of the $800 duty exemption, imposing strict customs scrutiny and escalating parcel clearance friction for cross-border ecommerce."
+        "titleWhite": "PANAMA CANAL FEE SWELLS",
+        "titleBlue": "ABOVE",
+        "footerSummary": "Panama Canal queue-jump fees surpass $4.6M as Iran war disruptions reroute global shipping and escalate transit expenses."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE LAW: DE MINIMIS IS BURIED",
+            "heading": "PANAMA CANAL: FEE SWELLS ABOVE",
             "paragraphs": [
-                "The United States Court of International Trade has formally issued a final ruling upholding the elimination of duty-free exemptions for low-value international shipments. Customs authorities are aggressively enforcing cross-border parcel compliance to permanently close the historical $800 import loophole.",
-                "Direct-to-consumer shippers and logistics operators face immediate margin compression and extended terminal clearance delays as parcel verification protocols intensify. Supply chain directors must update import valuation architectures instantly to withstand stringent regulatory audits and prevent border impoundments."
+                "An empty liquefied petroleum gas tanker will cut the Panama Canal queue next week after paying a record $4.6 million priority fee. Ongoing geopolitical conflict in the Middle East has accelerated global shipping reroutings, driving transactional priority pricing to unprecedented levels.",
+                "Vessel operators face severe cost escalation as priority surcharges become mandatory to secure timely passage through restricted maritime chokepoints. Transport planners must factor escalating canal tolls directly into voyage economic models to protect operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTRACT FREIGHT: RATE SPIKE SPREAD",
+            "nextUpTease": "TANKER SECURITY: IRAN STRAIT STRIKES",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OCEAN FREIGHT: RATE SPIKE SPREAD",
+            "heading": "TANKER SECURITY: IRAN STRAIT STRIKES",
             "paragraphs": [
-                "Persistent maritime disruptions and ongoing Red Sea security constraints have driven ocean rate increases from volatile spot markets directly into multi-year service contracts. Transpacific carriers are successfully pushing through broad contract upward adjustments as vessel routing detours extend transit schedules.",
-                "Shippers accustomed to stable baseline transport budgets face severe financial exposure as contract freight premiums escalate across major trade lanes. Transportation executives must re-evaluate procurement strategies and build flexible capacity buffers into upcoming quarterly logistics spending."
+                "Two commercial oil tankers were attacked in the Strait of Hormuz during overnight transits, according to regional maritime security reports. State oil companies and international underwriters are responding by enforcing longer dark transits and mandatory vessel tracking countermeasures.",
+                "Crude shippers confront severe marine insurance premium spikes and prolonged voyage delays as regional conflict escalates around critical energy corridors. Supply chain executives must re-evaluate risk exposure profiles and implement flexible alternative routing frameworks immediately."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AIR CARGO: PEAK SEASON SLUMP",
-            "paragraphs": [
-                "Global air cargo spot rates have registered a 6% decline month over month, signaling an unusually subdued peak shipping season as retail demand softens. Freight forwarders are reporting increased capacity utilization volatility across primary transpacific and transatlantic distribution corridors.",
-                "Carriers and logistics providers face compressed yields while tactical shippers leverage softening pricing to secure favorable short-term air charter terms. Supply chain leaders must balance inventory holding costs carefully against declining air freight expenditures to optimize fourth-quarter budgets."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRUCKING COMPLIANCE: CDL RESTRICTIONS",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "TRUCKING COMPLIANCE: CDL RESTRICTIONS",
-            "paragraphs": [
-                "State transportation departments in Utah and Rhode Island have enacted rigorous operational limitations on non-domiciled commercial driver licenses amid ongoing federal litigation. Industry analysts project that these state-level restrictions could sideline upwards of 200,000 foreign commercial drivers nationwide.",
-                "Motor carriers face escalating driver deficits, rising linehaul labor expenses, and reduced capacity across essential domestic freight distribution networks. Fleet executives must audit driver qualification files immediately and establish alternative recruitment pipelines to preserve linehaul velocity."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "GLOBAL TRADE: TARIFF EXPANSION",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "GLOBAL TRADE: TARIFF EXPANSION",
-            "paragraphs": [
-                "The Office of the United States Trade Representative has officially initiated comprehensive tariff implementations on 60 trading partners under Section 301 of the Trade Act of 1974. Customs inspectors are aggressively targeting goods with alleged forced labor components and undocumented supply chain provenance.",
-                "Importers face severe financial penalties and complicated documentation requirements that threaten to disrupt landed cost structures and inventory flow. Procurement leaders must conduct deep-tier supplier audits to verify material origins and prevent costly border detention delays."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME SECURITY: TANKER DARKENING",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-15T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MARITIME SECURITY: TANKER DARKENING",
-            "paragraphs": [
-                "Crude oil and product tankers are extending transit routes and disabling automatic identification transponders following consecutive military engagements in the Strait of Hormuz. International marine underwriters have instituted punitive war-risk insurance surcharges as regional geopolitical volatility intensifies.",
-                "Energy shippers and industrial logistics operators confront soaring bunker fuel costs and extended voyage timelines that severely inflate landed inventory expenses. Transport planners must recalibrate operational budgets and secure flexible contingency charter agreements to offset maritime risks."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RETAIL LOGISTICS: IMPORT SURGE",
+            "nextUpTease": "AIR CARGO: SHENZHEN CAPACITY SURGE",
             "tags": [
                 "Source: https://maritime-executive.com",
                 "Published: 2026-08-14T19:04:00Z",
@@ -97,17 +37,77 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "RETAIL LOGISTICS: IMPORT SURGE",
+            "id": 3,
+            "heading": "AIR CARGO: SHENZHEN CAPACITY SURGE",
             "paragraphs": [
-                "Major United States import gateways are processing peak pre-holiday cargo volumes as retailers front-load inventory shipments ahead of anticipated tariff expansions. National Retail Federation data indicates that container imports at primary ports have peaked significantly earlier than historical seasonal norms.",
-                "Port terminals and intermodal rail yards face localized congestion and equipment bottlenecks as elevated box volumes strain inland evacuation capabilities. Supply chain operators must optimize container turnaround times and coordinate closely with drayage providers to avoid demurrage penalties."
+                "DHL Express has officially tripled its air cargo processing capacity in Shenzhen through a major terminal expansion project. The infrastructure upgrade aims to capture surging cross-border ecommerce volumes originating from South China manufacturing hubs.",
+                "Forwarders and air cargo operators benefit from enhanced terminal velocity, though localized ground handling bottlenecks may still challenge peak throughput schedules. Supply chain directors should optimize air carrier allocations to leverage expanded Asian gateway efficiencies."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CUSTOMS COMPLIANCE: EVASION CRACKDOWN",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "CUSTOMS COMPLIANCE: EVASION CRACKDOWN",
+            "paragraphs": [
+                "The White House has released a comprehensive federal report detailing extensive transshipment schemes utilized by dozens of nations to help China evade tariffs. Investigators uncovered widespread illicit practices including relabeling, minor processing, and false country-of-origin documentation.",
+                "Importers face heightened scrutiny and aggressive customs audits designed to uncover fraudulent supply chain provenance and penalize noncompliant entities. Trade compliance teams must conduct rigorous multi-tier supplier tracing to protect operations from severe border penalties."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RAIL INFRASTRUCTURE: PRIVATE ACQUISITION",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "RAIL INFRASTRUCTURE: PRIVATE ACQUISITION",
+            "paragraphs": [
+                "Private equity firm Stonepeak has significantly expanded its logistics portfolio by acquiring a major rail-served property in Fort Worth, Texas. The strategic investment underscores institutional commitment to developing resilient, intermodal-connected distribution assets across North America.",
+                "Industrial tenants and rail shippers can expect enhanced terminal efficiency, though private asset ownership may introduce new terminal access fee structures. Supply chain planners must assess regional rail facility partnerships to secure long-term intermodal capacity."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRUCKING COMPLIANCE: STATE LAWSUITS",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "TRUCKING COMPLIANCE: STATE LAWSUITS",
+            "paragraphs": [
+                "A coalition of twenty-two state attorneys general has filed formal lawsuits against federal authorities to block demands for seventeen million truck drivers' records. The legal battle centers on state-level data privacy protections versus federal commercial driver license oversight mandates.",
+                "Motor carriers face mounting regulatory uncertainty and administrative friction as state compliance requirements diverge sharply from federal directives. Fleet executives must monitor judicial proceedings closely to ensure driver qualification records adhere to evolving jurisdictional standards."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME SUSTAINABILITY: CLEAN INCENTIVES",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-13T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "MARITIME SUSTAINABILITY: CLEAN INCENTIVES",
+            "paragraphs": [
+                "The ports of Los Angeles and Long Beach have agreed to implement substantially increased financial incentives for ocean carriers deploying low-emission vessels. The initiative is designed to accelerate maritime decarbonization across major United States import gateway terminals.",
+                "Ocean carriers and terminal operators must upgrade fleet environmental profiles to capture lucrative port fee discounts and maintain competitive operating costs. Supply chain leaders should factor green carrier performance metrics into forthcoming carrier contract negotiations."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

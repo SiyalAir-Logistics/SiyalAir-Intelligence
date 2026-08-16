@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DE MINIMIS IS BURIED",
+        "hookTitle": "PANAMA CANAL FEE SWELLS ABOVE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE LAW: DE MINIMIS IS BURIED",
-                "teaserTitle": "CONTRACT FREIGHT: RATE SPIKE SPREAD",
+                "headline": "PANAMA CANAL: FEE SWELLS ABOVE",
+                "teaserTitle": "TANKER SECURITY: IRAN STRAIT STRIKES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The trade court has finalized the total elimination of the eight hundred dollar duty-free exemption. Customs authorities are aggressively enforcing parcel compliance to eliminate cross-border loopholes."
+                "narration_line": "A liquefied petroleum gas tanker paid four point six million dollars to cut the Panama Canal queue. Geopolitical conflict is driving priority transit pricing to record levels."
             },
             {
                 "slide_index": 2,
-                "headline": "OCEAN FREIGHT: RATE SPIKE SPREAD",
-                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
+                "headline": "TANKER SECURITY: IRAN STRAIT STRIKES",
+                "teaserTitle": "AIR CARGO: SHENZHEN CAPACITY SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Persistent maritime disruptions are driving rate increases from volatile spot markets directly into multi-year contracts. Shippers face severe financial exposure as transport premiums escalate."
+                "narration_line": "Two commercial tankers were attacked in the Strait of Hormuz during overnight transits. Marine underwriters are enforcing longer dark voyages and mandatory tracking countermeasures."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: PEAK SEASON SLUMP",
-                "teaserTitle": "TRUCKING COMPLIANCE: CDL RESTRICTIONS",
+                "headline": "AIR CARGO: SHENZHEN CAPACITY SURGE",
+                "teaserTitle": "CUSTOMS COMPLIANCE: EVASION CRACKDOWN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Global air cargo spot rates dropped six percent as peak shipping demand softened heading into late twenty twenty-six. Forwarders are experiencing heightened capacity volatility across major trade lanes."
+                "narration_line": "DHL Express has tripled its air cargo processing capacity through a major Shenzhen terminal expansion. The infrastructure upgrade captures surging cross border ecommerce volume."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING COMPLIANCE: CDL RESTRICTIONS",
-                "teaserTitle": "GLOBAL TRADE: TARIFF EXPANSION",
+                "headline": "CUSTOMS COMPLIANCE: EVASION CRACKDOWN",
+                "teaserTitle": "RAIL INFRASTRUCTURE: PRIVATE ACQUISITION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "State transportation departments have enacted strict operational limitations on non-domiciled commercial driver licenses. These new restrictions threaten to sideline up to two hundred thousand foreign drivers."
+                "narration_line": "A White House report revealed extensive transshipment schemes used by dozens of nations to evade tariffs. Investigators uncovered widespread false country of origin documentation."
             },
             {
                 "slide_index": 5,
-                "headline": "GLOBAL TRADE: TARIFF EXPANSION",
-                "teaserTitle": "MARITIME SECURITY: TANKER DARKENING",
+                "headline": "RAIL INFRASTRUCTURE: PRIVATE ACQUISITION",
+                "teaserTitle": "TRUCKING COMPLIANCE: STATE LAWSUITS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The trade representative is implementing mandatory tariffs across sixty nations under section three hundred one. Importers face strict documentation audits and potential border detention delays."
+                "narration_line": "Stonepeak acquired a major rail served logistics property in Fort Worth, Texas. The strategic investment highlights institutional focus on resilient intermodal assets."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME SECURITY: TANKER DARKENING",
-                "teaserTitle": "RETAIL LOGISTICS: IMPORT SURGE",
+                "headline": "TRUCKING COMPLIANCE: STATE LAWSUITS",
+                "teaserTitle": "MARITIME SUSTAINABILITY: CLEAN INCENTIVES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Crude oil tankers are extending routes and operating without transponders amid rising conflict in the strait. Underwriters have introduced steep war-risk surcharges as regional trade corridors destabilize."
+                "narration_line": "Twenty two states sued federal authorities to block demands for seventeen million driver records. Motor carriers face mounting administrative friction from conflicting regulations."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL LOGISTICS: IMPORT SURGE",
+                "headline": "MARITIME SUSTAINABILITY: CLEAN INCENTIVES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Major United States import gateways are processing peak cargo volumes as retailers front-load shipments. Container imports have peaked early as businesses build inventory ahead of new tariffs."
+                "narration_line": "Los Angeles and Long Beach ports increased financial incentives for low emission vessels. The initiative accelerates maritime decarbonization across major import gateways."
             },
             {
                 "slide_index": 8,
