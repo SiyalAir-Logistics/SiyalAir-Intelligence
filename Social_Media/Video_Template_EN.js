@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA TRANSIT AUCTIONS HIT FOUR POINT SIX MILLION",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PANAMA CANAL: RECORD TRANSIT AUCTIONS",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "headline": "PANAMA CANAL: QUEUE JUMP FEE",
+                "teaserTitle": "CUSTOMS LAW: DE MINIMIS ELIMINATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A commercial tanker paid four point six million dollars to bypass Panama Canal queues under severe draft limits. Shippers must now weigh multi-million-dollar auction fees against two-week vessel diversions."
+                "narration_line": "An empty tanker secured an expedited Panama Canal transit by paying a record four point six million dollar fee. Shippers must evaluate multi-million dollar auction costs against extended fourteen day voyage diversions."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "teaserTitle": "AIR CARGO: DHL SHENZHEN EXPANSION",
+                "headline": "CUSTOMS LAW: DE MINIMIS ELIMINATION",
+                "teaserTitle": "GLOBAL TRADE: FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Uber Freight suffered a major breach exposing more than one million sensitive carrier and compliance files. Shippers face heightened risks of digital freight fraud and double-brokering across spot markets."
+                "narration_line": "The United States trade court upheld the termination of the eight hundred dollar de minimis tariff exemption on parcel imports. Cross border ecommerce brands now face mandatory formal entry declarations and increased brokerage fees."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: DHL SHENZHEN EXPANSION",
-                "teaserTitle": "CRITICAL MINERALS: PENTAGON DEFENSE LOANS",
+                "headline": "GLOBAL TRADE: FORCED LABOR TARIFFS",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "DHL Express opened a two hundred four million dollar gateway expansion in Shenzhen, tripling sorting capacity. Exporters gain automated processing redundancy ahead of peak third-quarter technology shipping volumes."
+                "narration_line": "The office of the United States trade representative is implementing tariffs on sixty nations under section three hundred one. Importers must conduct rigorous upstream audits to prevent severe border detentions and financial penalties."
             },
             {
                 "slide_index": 4,
-                "headline": "CRITICAL MINERALS: PENTAGON DEFENSE LOANS",
-                "teaserTitle": "RAIL MERGERS: MULTI-STATE AG LAWSUIT",
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "CRITICAL MINERALS: DEFENSE LOANS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Pentagon committed two billion dollars in conditional loans to secure critical minerals and defense batteries. Manufacturers must verify domestic raw material sourcing to maintain federal defense contract compliance."
+                "narration_line": "A major cyber security breach at Uber Freight exposed over one million operational and carrier compliance files. Risk managers must immediately enforce multi factor authentication protocols across digital freight marketplaces."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL MERGERS: MULTI-STATE AG LAWSUIT",
-                "teaserTitle": "MARITIME POLICY: LA-LB EMISSION REWARDS",
+                "headline": "CRITICAL MINERALS: DEFENSE LOANS",
+                "teaserTitle": "RAIL MERGERS: MULTI-STATE LAWSUIT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Six state attorneys general formally opposed the proposed mega-merger between Union Pacific and Norfolk Southern. Rail freight customers face long-term rate uncertainty and reduced competitive routing options across transcontinental corridors."
+                "narration_line": "The department of defense signed over two billion dollars in conditional loan agreements to secure critical mineral supply chains. Procurement executives must audit raw material origins to qualify for federal procurement eligibility."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME POLICY: LA-LB EMISSION REWARDS",
-                "teaserTitle": "CUSTOMS LAW: US TRADE COURT RULING",
+                "headline": "RAIL MERGERS: MULTI-STATE LAWSUIT",
+                "teaserTitle": "MARITIME POLICY: EMISSION INCENTIVES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Southern California ports expanded financial rebates for ocean carriers operating low-emission container ships. Cargo owners can cut port tariff overhead and lower carbon footprints by booking green-corridor vessels."
+                "narration_line": "Attorneys general from six states filed a joint brief opposing the proposed union pacific and norfolk southern merger. Supply chain strategists must develop diversified multi modal alternatives to insulate freight budgets."
             },
             {
                 "slide_index": 7,
-                "headline": "CUSTOMS LAW: US TRADE COURT RULING",
+                "headline": "MARITIME POLICY: EMISSION INCENTIVES",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A federal trade court upheld the termination of the eight hundred dollar de minimis customs exemption. Direct-to-consumer parcel shippers now face mandatory formal customs filings and higher brokerage clearance costs."
+                "narration_line": "The ports of Los Angeles and Long Beach introduced expanded financial incentives for zero emission container vessels. Shippers targeting strict decarbonization metrics can leverage green corridor vessel assignments."
             },
             {
                 "slide_index": 8,

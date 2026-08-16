@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "RECORD TRANSIT",
-        "titleBlue": "AUCTIONS",
-        "footerSummary": "Panama Canal auction fees hit $4.6M while Uber Freight cyber vulnerabilities and multi-state railroad antitrust challenges escalate shipper costs."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP",
+        "titleBlue": "FEE",
+        "footerSummary": "Panama Canal queue jump fees hit $4.6M while the U.S. Trade Court upholds the elimination of the $800 de minimis exemption."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PANAMA CANAL: RECORD TRANSIT AUCTIONS",
+            "heading": "PANAMA CANAL: QUEUE JUMP FEE",
             "paragraphs": [
-                "A commercial LPG tanker secured an expedited Panama Canal transit slot after placing a record $4.6M auction bid, surpassing the prior historic high of $3.975M. Growing vessel queues and persistent water conservation draft restrictions continue to constrain daily booking slots across both Neopanamax and Panamax locks.",
-                "Bulk energy and container shippers face extreme spot premiums to bypass maritime chokepoints during peak sailing windows. Logistics directors must weigh multi-million-dollar canal auction costs against prolonged 14-day voyage diversions around Cape Horn or the Cape of Good Hope."
+                "An empty liquefied petroleum gas tanker secured an expedited transit slot through the Panama Canal by paying a record $4.6 million fee. Ongoing water conservation draft restrictions and vessel queues continue to limit daily available bookings across the lock system.",
+                "Shippers face steep spot premiums to bypass severe maritime bottlenecks during peak shipping windows. Logistics directors must weigh multi-million dollar auction costs against extended 14-day voyage diversions around Cape Horn."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: UBER FREIGHT BREACH",
+            "nextUpTease": "CUSTOMS LAW: DE MINIMIS ELIMINATION",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T12:00:00Z",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CYBERSECURITY: UBER FREIGHT BREACH",
+            "heading": "CUSTOMS LAW: DE MINIMIS ELIMINATION",
             "paragraphs": [
-                "A major cybersecurity incident at Uber Freight resulted in the unauthorized exposure of over 1M operational and carrier compliance files. Forensic investigations revealed unauthorized extraction of sensitive brokerage verification records, driver credentials, and rate documentation.",
-                "Freight brokers and enterprise shippers face heightened identity theft, fraudulent carrier onboarding, and double-brokering vulnerabilities across spot digital freight marketplaces. Risk managers must immediately enforce multi-factor identity verification protocols and review third-party API carrier integrations."
+                "The U.S. Court of International Trade upheld executive enforcement measures terminating the $800 de minimis tariff exemption on low-value commercial parcel imports. The legal ruling dismisses association challenges and mandates formal entry documentation for all inbound parcels.",
+                "Cross-border e-commerce brands face increased brokerage processing fees and mandatory formal entry declarations for previously duty-free shipments. Logistics directors must re-engineer fulfillment pipelines toward regional bonded warehousing to minimize clearance delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: DHL SHENZHEN EXPANSION",
+            "nextUpTease": "GLOBAL TRADE: FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-15T10:15:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: DHL SHENZHEN EXPANSION",
+            "heading": "GLOBAL TRADE: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "DHL Express completed a $204M expansion of its central China air gateway in Shenzhen, effectively tripling its regional sorting and airfreight handling capacity. The modernized automated hub increases processing throughput to handle expanding cross-border high-tech manufacturing and consumer exports.",
-                "Transpacific air cargo operators gain expanded sorting redundancy and reduced export dwell times across the Pearl River Delta industrial corridor. Shippers must leverage expanded automated capacity to lock in dedicated export allocations ahead of late Q3 manufacturing surges."
+                "The Office of the United States Trade Representative announced the implementation of tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. The enforcement targets supply chains linked to forced labor practices across international manufacturing corridors.",
+                "Importers must conduct rigorous upstream supply chain audits to verify component origins and ensure full customs compliance. Failure to isolate tainted inputs risks severe border detentions and steep financial penalties under updated trade rules."
             ],
             "imageUrl": "",
-            "nextUpTease": "CRITICAL MINERALS: PENTAGON DEFENSE LOANS",
+            "nextUpTease": "CYBERSECURITY: UBER FREIGHT BREACH",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T11:30:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CRITICAL MINERALS: PENTAGON DEFENSE LOANS",
+            "heading": "CYBERSECURITY: UBER FREIGHT BREACH",
             "paragraphs": [
-                "The Department of Defense signed over $2B in conditional loan agreements with domestic advanced materials firms to secure supply chains for defense batteries and critical minerals. Beneficiaries include battery material developers Sila Technologies, Sunrise Energy Metals, and Niron Magnetics.",
-                "Advanced manufacturing and automotive supply chains face structured nearshoring mandates for battery chemistries and rare earth magnets. Procurement executives must audit upstream raw material origins to qualify for federal procurement eligibility and protect domestic supply lines."
+                "A major cybersecurity breach at Uber Freight exposed over one million operational and carrier compliance files, including sensitive brokerage verification records. Forensic audits revealed unauthorized extraction of driver credentials and rate documentation across digital networks.",
+                "Freight brokers and enterprise shippers face heightened identity theft, fraudulent carrier onboarding, and double-brokering vulnerabilities. Risk managers must immediately enforce multi-factor authentication protocols and review third-party API integrations."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL MERGERS: MULTI-STATE AG LAWSUIT",
+            "nextUpTease": "CRITICAL MINERALS: DEFENSE LOANS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T14:45:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL MERGERS: MULTI-STATE AG LAWSUIT",
+            "heading": "CRITICAL MINERALS: DEFENSE LOANS",
             "paragraphs": [
-                "Attorneys General from 6 states filed a formal joint brief opposing the proposed merger between Union Pacific and Norfolk Southern, citing anti-competitive consolidation risks. The regulatory filing argues that the multi-billion-dollar combination would reduce rail routing competition and inflate bulk transportation rates.",
-                "Industrial and agricultural shippers encounter regulatory uncertainty over future transcontinental freight rates and switching access. Supply chain strategists must develop diversified multi-modal rail-to-truck transfer capabilities to insulate freight budgets from potential post-merger rate restructuring."
+                "The Department of Defense signed over $2 billion in conditional loan agreements with domestic advanced materials firms to secure supply chains for critical minerals. Beneficiaries include battery material developers Sila Technologies, Sunrise Energy Metals, and Niron Magnetics.",
+                "Advanced manufacturing and automotive supply chains face structured nearshoring mandates for battery chemistries and rare earth materials. Procurement executives must audit upstream raw material origins to qualify for federal procurement eligibility."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME POLICY: LA-LB EMISSION REWARDS",
+            "nextUpTease": "RAIL MERGERS: MULTI-STATE LAWSUIT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T16:20:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME POLICY: LA-LB EMISSION REWARDS",
+            "heading": "RAIL MERGERS: MULTI-STATE LAWSUIT",
             "paragraphs": [
-                "The Ports of Los Angeles and Long Beach introduced an expanded clean air program incorporating increased financial incentives for ocean carriers deploying zero-emission and low-emission container vessels. The framework pairs rate rebates with federal funds to build out port-wide EV charging and shore-power infrastructure.",
-                "Transpacific ocean carriers operating modernized dual-fuel and electric-capable fleets will capture preferential berthing economics and reduced port tariff assessments. B2B shippers targeting strict Scope 3 decarbonization metrics can leverage green-corridor vessel assignments to optimize landed cost structures."
+                "Attorneys General from six states filed a formal joint brief opposing the proposed merger between Union Pacific and Norfolk Southern, citing anti-competitive consolidation risks. The regulatory filing argues that the combination would reduce rail routing competition and inflate bulk transportation rates.",
+                "Industrial and agricultural shippers encounter regulatory uncertainty over future transcontinental freight rates and switching access. Supply chain strategists must develop diversified multi-modal rail-to-truck transfer capabilities to insulate freight budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS LAW: US TRADE COURT RULING",
+            "nextUpTease": "MARITIME POLICY: EMISSION INCENTIVES",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T17:10:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CUSTOMS LAW: US TRADE COURT RULING",
+            "heading": "MARITIME POLICY: EMISSION INCENTIVES",
             "paragraphs": [
-                "The U.S. Court of International Trade upheld executive enforcement measures terminating the $800 de minimis tariff exemption on low-value commercial parcel imports. The legal ruling dismisses trade association challenges and enforces formal entry documentation requirements for all inbound parcels.",
-                "Cross-border e-commerce brands face increased brokerage processing fees and mandatory formal entry declarations for previously duty-free shipments. Logistics directors must re-engineer fulfillment pipelines toward regional bonded warehousing to minimize parcel clearance delays at major air hubs."
+                "The Ports of Los Angeles and Long Beach introduced an expanded clean air program incorporating increased financial incentives for ocean carriers deploying zero-emission vessels. The framework pairs rate rebates with federal funds to build out port-wide EV charging and shore-power infrastructure.",
+                "Transpacific ocean carriers operating modernized fleets will capture preferential berthing economics and reduced port tariff assessments. B2B shippers targeting strict Scope 3 decarbonization metrics can leverage green-corridor vessel assignments to optimize landed costs."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T18:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
