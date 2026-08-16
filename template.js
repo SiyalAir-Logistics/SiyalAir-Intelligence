@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "RATE INCREASE FIRE SPREADS TO",
-        "titleBlue": "CONTRACTS",
-        "footerSummary": "Shipping disruption forces rate increase fire from spot markets to long-term contracts as transpacific and European freight costs surge."
+        "titleWhite": "DETENTION FEES MUST PROMOTE",
+        "titleBlue": "FLUIDITY",
+        "footerSummary": "Appellate court upholds FMC mandate ensuring detention fees promote ocean freight fluidity, shielding shippers from unfair terminal penalties and operational friction."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "OCEAN FREIGHT: RATE INCREASE FIRE SPREADS TO CONTRACTS",
+            "heading": "MARITIME: DETENTION FEES MUST PROMOTE FLUIDITY",
             "paragraphs": [
-                "Shipping disruption and escalating geopolitical tensions are driving an aggressive wave of pricing pressures across global maritime lanes. Analysts report that the rate increase fire has officially spread from volatile spot markets into long-term freight contracts as carriers lock in higher baseline yields.",
-                "Supply chain executives face severe margin compression as historical rate benchmarks disappear across transpacific and European routes. Logistics procurement teams must rapidly adapt contract negotiation strategies to mitigate runaway ocean transportation expenses."
+                "The U.S. Court of Appeals for the D.C. Circuit issued a definitive ruling upholding the Federal Maritime Commission decision that detention and demurrage fees must actively incentivize freight fluidity. This legal affirmation reinforces regulatory oversight against punitive terminal charges levied on ocean shippers and intermediaries.",
+                "Logistics operators facing chronic container bottlenecks can leverage this ruling to challenge unjustified dwell penalties and streamline port turnaround times. Shippers must audit current billing practices to recover excess demurrage costs and protect supply chain operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: DE MINIMIS IS DEAD",
+            "nextUpTease": "ARMS EXPORT: BAE SYSTEMS PENALTY",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.fmc.gov",
+                "Published: 2026-07-08T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE POLICY: DE MINIMIS IS DEAD",
+            "heading": "GLOBAL TRADE: BAE SYSTEMS PENALTY",
             "paragraphs": [
-                "The United States trade court has firmly upheld the total elimination of the 800 USD de minimis exemption, officially closing the final legal door on duty-free low-value imports. Federal customs authorities are aggressively enforcing new entry protocols that reclassify ecommerce parcels under strict formal commercial clearance rules.",
-                "Retailers and cross-border logistics operators relying on duty-free parcel channels face immediate cost spikes and operational bottlenecks at major gateways. Supply chain leaders must restructure direct-to-consumer fulfillment models to absorb impending tariff liabilities."
+                "The Department of State has penalized BAE Systems $36M for multiple violations of U.S. arms export regulations and technical data controls. Federal regulators agreed to suspend $18M of the total fine contingent upon comprehensive remediation measures to upgrade internal compliance frameworks.",
+                "Defense contractors and dual-use manufacturers face escalating regulatory scrutiny regarding international shipment compliance and technical data governance. Risk managers must bolster internal trade controls immediately to avert severe financial penalties and supply chain disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL COMPLIANCE: BAE SYSTEMS PENALTY",
+            "nextUpTease": "TARIFF EVASION: TRANSSHIPMENT PROBE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GLOBAL COMPLIANCE: BAE SYSTEMS PENALTY",
+            "heading": "GLOBAL TRADE: TRANSSHIPMENT PROBE",
             "paragraphs": [
-                "Defense contractor BAE Systems has agreed to pay a 36M USD financial penalty to resolve serious violations of United States arms export regulations. The Department of State has structured the settlement to suspend 18M USD of the fine conditional upon mandatory remedial compliance enhancements.",
-                "Aerospace and defense supply chains face heightened regulatory scrutiny regarding international technology transfers and export control compliance. Corporate legal teams must audit existing compliance frameworks to prevent severe financial penalties and operational restrictions."
+                "A recent White House report reveals that dozens of foreign nations have actively assisted China in evading U.S. trade tariffs through illicit transshipment networks. Methods identified include relabeling, repackaging, minor processing, and fraudulent country-of-origin documentation designed to bypass customs enforcement.",
+                "Importers relying on multi-tier international supply chains face heightened exposure to retroactive customs duties and cargo seizures as federal agencies intensify audits. Sourcing executives must implement rigorous supplier verification protocols to eliminate compliance risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: ECOMMERCE CUSTOMS CRACKDOWN",
+            "nextUpTease": "PORT LOGISTICS: CLEAN ENERGY INCENTIVES",
             "tags": [
                 "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR FREIGHT: ECOMMERCE CUSTOMS CRACKDOWN",
+            "heading": "PORT LOGISTICS: CLEAN ENERGY INCENTIVES",
             "paragraphs": [
-                "Tougher customs enforcement targeting low-value air cargo shipments is actively threatening to reverse peak season demand across major trade lanes. Heightened regulatory inspections on cross-border parcel traffic are causing extended dwell times and capacity constraints at key air cargo hubs.",
-                "Air freight forwarders and e-tailers must navigate severe schedule disruptions and unpredictable transit delays as customs authorities intensify oversight. Logistics planners should diversify routing options to maintain delivery velocity amid mounting regulatory friction."
+                "The Ports of Los Angeles and Long Beach have agreed to significantly increase financial incentives for ocean carriers deploying their lowest-emitting vessels into Southern California terminals. This initiative aims to accelerate maritime decarbonization while modernizing terminal infrastructure for sustainable operations.",
+                "Ocean carriers and port operators must upgrade fleet environmental profiles to capture lucrative financial rebates and maintain competitive service contracts. Logistics planners should factor green vessel deployment schedules into long-term gateway routing decisions."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME RISK: STRAIT OF HORMUZ TANKER ATTACKS",
+            "nextUpTease": "ECOMMERCE FACILITY: CONSIGNMENT SALE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME RISK: STRAIT OF HORMUZ TANKER ATTACKS",
+            "heading": "ECOMMERCE LOGISTICS: CONSIGNMENT SALE",
             "paragraphs": [
-                "Commercial shipping operations in the Middle East face renewed peril after two additional oil tankers were struck during transits through the Strait of Hormuz. Energy charterers are increasingly deploying dark transits and altering voyage routes to evade active conflict zones in the region.",
-                "War risk insurance premiums and bunker fuel surcharges continue to climb, inflating operating expenses for global energy transport networks. Vessel operators must execute rigorous threat assessments to safeguard crew assets and maintain maritime supply chain continuity."
+                "Rival platform Poshmark has acquired the infrastructure facilities powering eBay Consignment, causing temporary service outages and operational disruption for sellers. This strategic acquisition reshapes the competitive landscape for digital consignment and reverse logistics fulfillment networks.",
+                "Online merchants dependent on platform-integrated fulfillment services face sudden operational transition challenges and potential inventory processing delays. Supply chain managers must diversify fulfillment channels to mitigate third-party platform acquisition risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL INFRASTRUCTURE: MERGER OPPOSITION INTENSIFIES",
+            "nextUpTease": "TRUCKLOAD MARKETS: CAPACITY TIGHTENING",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T19:04:00Z",
+                "Source: https://www.ecommercebytes.com",
+                "Published: 2026-08-15T23:14:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAIL INFRASTRUCTURE: MERGER OPPOSITION INTENSIFIES",
+            "heading": "SURFACE TRUCKING: CAPACITY TIGHTENING",
             "paragraphs": [
-                "Political and regulatory resistance against the proposed Union Pacific and Norfolk Southern railroad merger is mounting across multiple legislative fronts. Lawmakers and shipping advocacy groups argue that industry consolidation will degrade intermodal service quality and inflate freight rates.",
-                "Rail shippers must prepare for prolonged regulatory battles and potential structural barriers affecting transcontinental route options and pricing stability. Logistics planners need to maintain carrier diversification across competing rail networks to protect long-term freight continuity."
+                "Shippers are increasingly abandoning traditional annual transportation RFPs in favor of short-term mini-bids to secure shrinking over-the-road truck capacity. Accelerating truckload rate increases and tightening equipment availability are forcing logistics teams to adopt agile procurement strategies.",
+                "Transportation buyers face severe budget volatility and margin pressure as spot and short-term contract rates climb across major freight corridors. Fleet managers must optimize asset utilization and deepen carrier partnerships to maintain freight continuity."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING OPERATIONS: FRAUD CRACKDOWN",
+            "nextUpTease": "AIR FREIGHT: DE MINIMIS IMPACT",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRUCKING OPERATIONS: FRAUD CRACKDOWN",
+            "heading": "AIR CARGO: DE MINIMIS IMPACT",
             "paragraphs": [
-                "Federal investigators have unsealed a massive 54-count tax fraud indictment targeting nationwide truck driver schemes operated through fraudulent financial services. Thousands of self-employed truckers face unexpected compliance liabilities and severe operational distractions as authorities pursue illicit networks.",
-                "Motor carriers face rising compliance costs and operational friction as enforcement agencies step up roadside audits and financial credential verifications. Shippers should anticipate regional capacity constraints and adjust freight procurement models to mitigate transit delays."
+                "Global air cargo rates and cross-border volumes have experienced a notable slump following the recent implementation of European Union duty-free tax reforms. The elimination of low-value import exemptions is fundamentally altering merchant shipping behavior and trans-Atlantic air uplift demand.",
+                "Air freight forwarders and e-commerce exporters must restructure pricing models and inventory positioning strategies to absorb new customs duty frameworks. Supply chain planners should evaluate regional distribution hubs to minimize the financial impact of lost de minimis privileges."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.joc.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
