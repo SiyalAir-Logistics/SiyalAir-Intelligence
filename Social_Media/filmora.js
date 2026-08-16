@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PANAMA CANAL: FEE SWELLS ABOVE",
-                "teaserTitle": "TANKER SECURITY: IRAN STRAIT STRIKES",
-                "visual_caption": "A liquefied petroleum gas tanker paid $4.6M to cut the Panama Canal queue. Geopolitical conflict is driving priority transit pricing to record levels."
+                "headline": "USTR: FORCED LABOR TARIFFS EXPAND",
+                "teaserTitle": "TRADE COURT: DE MINIMIS ENDS",
+                "visual_caption": "USTR implements Section 301 tariffs across 60 trading nations. Importers face soaring duty costs and strict customs provenance audits."
             },
             {
                 "slide_index": 2,
-                "headline": "TANKER SECURITY: IRAN STRAIT STRIKES",
-                "teaserTitle": "AIR CARGO: SHENZHEN CAPACITY SURGE",
-                "visual_caption": "Two commercial tankers were attacked in the Strait of Hormuz during overnight transits. Marine underwriters are enforcing longer dark voyages and mandatory tracking countermeasures."
+                "headline": "TRADE COURT: DE MINIMIS ENDS",
+                "teaserTitle": "MARITIME: HORMUZ TANKER ATTACKS",
+                "visual_caption": "Trade court upholds the total elimination of the $800 de minimis loophole. Cross-border parcels face mandatory formal customs clearance."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: SHENZHEN CAPACITY SURGE",
-                "teaserTitle": "CUSTOMS COMPLIANCE: EVASION CRACKDOWN",
-                "visual_caption": "DHL Express has tripled its air cargo processing capacity through a major Shenzhen terminal expansion. The infrastructure upgrade captures surging cross-border ecommerce volume."
+                "headline": "MARITIME: HORMUZ TANKER ATTACKS",
+                "teaserTitle": "AIR FREIGHT: CAPACITY SURGE",
+                "visual_caption": "Two tankers suffer attacks during overnight transits in the Strait of Hormuz. Marine insurance spikes as vessels deploy dark routing."
             },
             {
                 "slide_index": 4,
-                "headline": "CUSTOMS COMPLIANCE: EVASION CRACKDOWN",
-                "teaserTitle": "RAIL INFRASTRUCTURE: PRIVATE ACQUISITION",
-                "visual_caption": "A White House report revealed extensive transshipment schemes used by dozens of nations to evade tariffs. Investigators uncovered widespread false country-of-origin documentation."
+                "headline": "AIR FREIGHT: CAPACITY SURGE",
+                "teaserTitle": "TRUCKING: ELD PURGE TIGHTENS",
+                "visual_caption": "DHL Express triples Shenzhen air cargo terminal processing capacity. The upgrade captures surging cross-border ecommerce trade volumes."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL INFRASTRUCTURE: PRIVATE ACQUISITION",
-                "teaserTitle": "TRUCKING COMPLIANCE: STATE LAWSUITS",
-                "visual_caption": "Stonepeak acquired a major rail-served logistics property in Fort Worth, Texas. The strategic investment highlights institutional focus on resilient intermodal assets."
+                "headline": "TRUCKING: ELD PURGE TIGHTENS",
+                "teaserTitle": "RAIL INFRASTRUCTURE: TEXAS BUY",
+                "visual_caption": "Federal ELD enforcement action tightens available over-the-road truck capacity. Fleet operators confront rising rate pressures and asset constraints."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING COMPLIANCE: STATE LAWSUITS",
-                "teaserTitle": "MARITIME SUSTAINABILITY: CLEAN INCENTIVES",
-                "visual_caption": "22 states sued federal authorities to block demands for 17M driver records. Motor carriers face mounting administrative friction from conflicting regulations."
+                "headline": "RAIL INFRASTRUCTURE: TEXAS BUY",
+                "teaserTitle": "GREEN PORTS: INCENTIVES BOOST",
+                "visual_caption": "Stonepeak acquires a prime rail-served logistics property in Fort Worth. Private equity accelerates investment in North American intermodal hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME SUSTAINABILITY: CLEAN INCENTIVES",
+                "headline": "GREEN PORTS: INCENTIVES BOOST",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Los Angeles and Long Beach ports increased financial incentives for low-emission vessels. The initiative accelerates maritime decarbonization across major import gateways."
+                "visual_caption": "Ports of LA and LB boost financial incentives for low-emission ships. Ocean carriers must upgrade fleets to capture terminal fee discounts."
             },
             {
                 "slide_index": 8,
