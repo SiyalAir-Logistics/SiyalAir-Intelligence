@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL FEE HITS FOUR POINT SIX MILLION DOLLARS",
+        "hookTitle": "CUSTOMS DE MINIMIS LOOPHOLE DEAD",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL FEE HITS $4.6M",
-                "teaserTitle": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "headline": "CUSTOMS: DE MINIMIS LOOPHOLE DEAD",
+                "teaserTitle": "TRADE POLICY: TARIFF SURGE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker will pay four point six million dollars to jump the Panama Canal queue next week. Water restrictions and regional disruptions continue to inflate priority transit costs for operators."
+                "narration_line": "The trade court has officially ended the eight hundred dollar de minimis exemption. Customs authorities are now strictly enforcing full duties on all inbound ecommerce parcels."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
+                "headline": "TRADE POLICY: TARIFF SURGE",
+                "teaserTitle": "AIR CARGO: PEAK SLUMP",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The United States Trade Representative is implementing tariffs across sixty nations under Section three oh one. Sourcing directors must audit supplier networks to mitigate margin compression and regulatory exposure."
+                "narration_line": "The federal administration has imposed one hundred percent tariffs on targeted foreign drones and key components. Importers are scrambling to adjust sourcing maps and protect operating margins."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
-                "teaserTitle": "AIR FREIGHT: CAPACITY EXPANSION",
+                "headline": "AIR CARGO: PEAK SLUMP",
+                "teaserTitle": "MARITIME RATES: EAST COAST PEAK",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Two commercial tankers were struck in the Strait of Hormuz during outbound transits. War risk insurance premiums and bunker fuel surcharges are climbing rapidly for energy shipping lanes."
+                "narration_line": "Global air cargo spot rates dropped six percent as early peak season demand softened. Logistics managers can leverage these rate dips to optimize multi-modal shipping budgets."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR FREIGHT: CAPACITY EXPANSION",
-                "teaserTitle": "SECURITY & FRAUD: COCAINE BUST",
+                "headline": "MARITIME RATES: EAST COAST PEAK",
+                "teaserTitle": "MARITIME COMPLIANCE: FMC RULING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "DHL Express has completed a major terminal expansion that triples air cargo handling capacity in Shenzhen. Air cargo buyers can leverage this gateway to secure reliable uplift for peak season."
+                "narration_line": "Container shipping rates from Asia to the United States East Coast reached new highs amid sustained import volumes. Shippers must secure service contracts early to control rising voyage costs."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY & FRAUD: COCAINE BUST",
-                "teaserTitle": "RAIL INFRASTRUCTURE: MERGER OPPOSITION",
+                "headline": "MARITIME COMPLIANCE: FMC RULING",
+                "teaserTitle": "DIGITAL SECURITY: FRAUD SPIKE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "British authorities intercepted a two point nine tonne consignment of cocaine valued at three hundred thirteen million dollars. Shippers moving containerized cargo must mandate enhanced security and strict screening protocols."
+                "narration_line": "The appeals court upheld a federal maritime ruling requiring detention fees to promote freight fluidity. Logistics teams should review historical penalty invoices to recover excess charges."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL INFRASTRUCTURE: MERGER OPPOSITION",
-                "teaserTitle": "TRUCKING OPERATIONS: SAFETY CRACKDOWN",
+                "headline": "DIGITAL SECURITY: FRAUD SPIKE",
+                "teaserTitle": "TRUCKING CAPACITY: RATE PRESSURES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Six state attorneys general have formally opposed the proposed Union Pacific and Norfolk Southern merger. Shippers must prepare for potential structural barriers affecting transcontinental route options."
+                "narration_line": "A major data breach at Uber Freight exposed millions of files, highlighting digital security gaps. Freight brokers must audit vendor access controls to prevent cargo fraud."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING OPERATIONS: SAFETY CRACKDOWN",
+                "headline": "TRUCKING CAPACITY: RATE PRESSURES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Federal enforcement agencies have sidelined forty-eight commercial drivers and one hundred fifty-nine vehicles. Motor carriers face rising compliance costs as enforcement agencies step up roadside audits."
+                "narration_line": "Dry van and reefer contract rates hit record highs as trucking capacity continues to tighten. Transportation leaders are abandoning annual RFPs for agile mini-bids."
             },
             {
                 "slide_index": 8,

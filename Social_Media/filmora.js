@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL FEE HITS $4.6M",
-                "teaserTitle": "TRADE POLICY: FORCED LABOR TARIFFS",
-                "visual_caption": "An empty tanker will pay $4.6M to jump the Panama Canal queue next week. Water restrictions and regional disruptions continue to inflate priority transit costs for operators."
+                "headline": "CUSTOMS: DE MINIMIS LOOPHOLE DEAD",
+                "teaserTitle": "TRADE POLICY: TARIFF SURGE",
+                "visual_caption": "The trade court officially eliminated the $800 de minimis exemption. Customs authorities are aggressively enforcing full duties on all inbound e-commerce parcels."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
-                "visual_caption": "The USTR is implementing tariffs across 60 nations under Section 301. Sourcing directors must audit supplier networks to mitigate margin compression and regulatory exposure."
+                "headline": "TRADE POLICY: TARIFF SURGE",
+                "teaserTitle": "AIR CARGO: PEAK SLUMP",
+                "visual_caption": "The federal administration imposed 100% tariffs on targeted foreign drones and key components. Importers are rapidly adjusting supply chains to protect margins."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
-                "teaserTitle": "AIR FREIGHT: CAPACITY EXPANSION",
-                "visual_caption": "2 commercial tankers were struck in the Strait of Hormuz during outbound transits. War risk insurance premiums and bunker fuel surcharges are climbing rapidly for energy shipping lanes."
+                "headline": "AIR CARGO: PEAK SLUMP",
+                "teaserTitle": "MARITIME RATES: EAST COAST PEAK",
+                "visual_caption": "Global air cargo spot rates fell 6% as early peak season demand softened. Logistics managers can leverage rate dips to optimize shipping budgets."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR FREIGHT: CAPACITY EXPANSION",
-                "teaserTitle": "SECURITY & FRAUD: COCAINE BUST",
-                "visual_caption": "DHL Express has completed a major terminal expansion that triples air cargo handling capacity in Shenzhen. Air cargo buyers can leverage this gateway to secure reliable uplift for peak season."
+                "headline": "MARITIME RATES: EAST COAST PEAK",
+                "teaserTitle": "MARITIME COMPLIANCE: FMC RULING",
+                "visual_caption": "Container shipping rates from Asia to the US East Coast hit new highs amid strong import volumes. Shippers must secure service contracts early to control voyage costs."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY & FRAUD: COCAINE BUST",
-                "teaserTitle": "RAIL INFRASTRUCTURE: MERGER OPPOSITION",
-                "visual_caption": "British authorities intercepted a 2.9t consignment of cocaine valued at $313M. Shippers moving containerized cargo must mandate enhanced security and strict screening protocols."
+                "headline": "MARITIME COMPLIANCE: FMC RULING",
+                "teaserTitle": "DIGITAL SECURITY: FRAUD SPIKE",
+                "visual_caption": "The appeals court upheld a federal maritime ruling requiring detention fees to promote cargo fluidity. Logistics teams should review penalty invoices to recover costs."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL INFRASTRUCTURE: MERGER OPPOSITION",
-                "teaserTitle": "TRUCKING OPERATIONS: SAFETY CRACKDOWN",
-                "visual_caption": "6 state attorneys general have formally opposed the proposed Union Pacific and Norfolk Southern merger. Shippers must prepare for potential structural barriers affecting transcontinental route options."
+                "headline": "DIGITAL SECURITY: FRAUD SPIKE",
+                "teaserTitle": "TRUCKING CAPACITY: RATE PRESSURES",
+                "visual_caption": "A major data breach at Uber Freight exposed millions of files, highlighting digital security gaps. Freight brokers must audit vendor access controls to prevent fraud."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING OPERATIONS: SAFETY CRACKDOWN",
+                "headline": "TRUCKING CAPACITY: RATE PRESSURES",
                 "teaserTitle": "",
-                "visual_caption": "Federal enforcement agencies have sidelined 48 commercial drivers and 159 vehicles. Motor carriers face rising compliance costs as enforcement agencies step up roadside audits."
+                "visual_caption": "Dry van and reefer contract rates reached record highs as trucking capacity continues to tighten. Transportation leaders are shifting toward agile mini-bids."
             },
             {
                 "slide_index": 8,

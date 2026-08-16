@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL FEE HITS",
-        "titleBlue": "$4.6M",
-        "footerSummary": "Panama Canal queue-jump fees surge to $4.6M as regional conflicts and water constraints force costly maritime rerouting across global supply chains."
+        "titleWhite": "DE MINIMIS LOOPHOLE",
+        "titleBlue": "DEAD",
+        "footerSummary": "Trade court finalizes the elimination of the $800 de minimis exemption, forcing shippers to restructure low-value ecommerce and tariff liabilities immediately."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL FEE HITS $4.6M",
+            "heading": "CUSTOMS: DE MINIMIS LOOPHOLE DEAD",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker will bypass the Panama Canal queue next week after paying a record $4.6 million fee, eclipsing the previous $3.975 million high. Chronic water level restrictions and regional shipping disruptions continue to inflate priority transit costs for maritime operators.",
-                "Vessel charterers face severe financial hurdles as queue-jumping premiums escalate, forcing supply chain planners to weigh exorbitant canal fees against costly ocean detours. Shippers must factor these rising transit tolls directly into voyage economics and quarterly logistics budgets."
+                "The United States trade court has officially upheld the elimination of the $800 de minimis exemption, effectively closing a historic duty-free loophole for direct-to-consumer imports. Customs authorities are now aggressively enforcing full tariff collections on low-value shipments, dramatically altering cross-border logistics costs for global retailers and parcel carriers.",
+                "Supply chain directors managing cross-border e-commerce networks face sudden margin compression as duty fees apply to every inbound parcel. Shippers must immediately overhaul customs compliance procedures and re-evaluate inventory consolidation strategies to mitigate escalating border friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: FORCED LABOR TARIFFS",
+            "nextUpTease": "TRADE POLICY: TARIFF SURGE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE POLICY: FORCED LABOR TARIFFS",
+            "heading": "TRADE POLICY: TARIFF SURGE",
             "paragraphs": [
-                "The Office of the United States Trade Representative is moving forward with the implementation of strict tariffs on 60 trading partner nations under Section 301 of the Trade Act of 1974. These expanded measures specifically target goods linked to forced labor and supply chain circumvention, significantly tightening federal trade compliance enforcement.",
-                "Sourcing directors facing mandatory tariff expansions must audit international supplier networks immediately to mitigate sudden margin compression and regulatory exposure. Supply chain planners need to diversify manufacturing origins rapidly to insulate landed costs from escalating trade penalties."
+                "The federal administration has expanded its trade enforcement actions by imposing 100% tariffs on targeted foreign drones and specialized component imports. Importers are scrambling to adjust sourcing maps as protectionist measures tighten across critical technology and manufacturing supply chains.",
+                "Procurement teams must accelerate supplier diversification initiatives away from restricted origins to avoid prohibitive landed costs. Financial exposure analysis is essential for engineering leaders seeking to protect operating margins from sweeping tariff expansion."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
+            "nextUpTease": "AIR CARGO: PEAK SLUMP",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-07T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME SECURITY: HORMUZ TANKER ATTACKS",
+            "heading": "AIR CARGO: PEAK SLUMP",
             "paragraphs": [
-                "Two commercial tankers were struck in the Strait of Hormuz during outbound transits, intensifying regional security risks and prompting extended vessel detours. Maritime operators are increasingly deploying dark transits and altering routing schedules to avoid active conflict zones in the Middle East.",
-                "War risk insurance premiums and bunker fuel surcharges are climbing rapidly, driving up operational expenses for energy and bulk shipping lanes. Vessel charterers must reevaluate voyage economics and execute rigorous risk assessments before committing assets to volatile chokepoints."
+                "Global air cargo spot rates have fallen 6% month over month as early peak season demand shows unexpected softness across major international trade lanes. Xeneta market data reveals that softening volumes are handing pricing leverage back to shippers ahead of the traditional autumn shipping surge.",
+                "Logistics managers can leverage declining spot rates to negotiate more favorable short-term air charter agreements and optimize multi-modal budgets. Capacity buyers must weigh current rate dips against anticipated fourth-quarter inventory rushes before finalizing annual commitments."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: CAPACITY EXPANSION",
+            "nextUpTease": "MARITIME RATES: EAST COAST PEAK",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T19:04:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR FREIGHT: CAPACITY EXPANSION",
+            "heading": "MARITIME RATES: EAST COAST PEAK",
             "paragraphs": [
-                "DHL Express has completed a major terminal expansion that triples its air cargo handling capacity at the Shenzhen gateway to support rising trans-Pacific volumes. This infrastructure upgrade enhances regional connectivity as logistics providers race to capture shifting trade flows amid ongoing maritime disruptions.",
-                "Air cargo buyers can leverage expanded gateway capacity to secure reliable uplift for time-sensitive components ahead of peak shipping season. Freight forwarders should optimize multi-modal routing strategies to capitalize on high-throughput regional sorting hubs."
+                "Container shipping freight rates from Asia to the US East Coast have surged to new highs as sustained import volumes defy seasonal expectations. Freightos reports that an unusually robust early peak season has caught market observers off guard, driving up voyage expenses for ocean shippers.",
+                "Supply chain planners facing escalating maritime spot rates must secure service contracts early to insulate regional distribution budgets. Shippers need to audit container allocation strategies to maintain schedule integrity through crowded port gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY & FRAUD: COCAINE BUST",
+            "nextUpTease": "MARITIME COMPLIANCE: FMC RULING",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SECURITY & FRAUD: COCAINE BUST",
+            "heading": "MARITIME COMPLIANCE: FMC RULING",
             "paragraphs": [
-                "Authorities in the United Kingdom intercepted a 2.9 tonne consignment of cocaine hidden in a load of bananas at London Gateway, representing a street value of $313 million. This massive interception highlights ongoing vulnerabilities in commercial container supply chains exploited by transnational cartels.",
-                "Shippers moving perishable and containerized cargo through European ports must mandate enhanced cargo screening and strict chain-of-custody protocols. Compliance teams need to review supply chain security measures to prevent illicit trafficking infiltrations from disrupting port operations."
+                "The U.S. Court of Appeals for the D.C. Circuit has upheld a pivotal Federal Maritime Commission decision mandating that detention and demurrage fees must directly promote freight fluidity. The ruling reinforces regulatory oversight on carrier billing practices and strengthens shipper protections against unfair terminal penalty charges.",
+                "Logistics executives should review historical demurrage invoices and dispute non-compliant penalty fees to recover excess operational expenditures. Compliance teams must integrate the latest FMC guidelines into everyday port drayage management workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL INFRASTRUCTURE: MERGER OPPOSITION",
+            "nextUpTease": "DIGITAL SECURITY: FRAUD SPIKE",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T03:17:00Z",
+                "Source: https://www.fmc.gov",
+                "Published: 2026-07-08T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAIL INFRASTRUCTURE: MERGER OPPOSITION",
+            "heading": "DIGITAL SECURITY: FRAUD SPIKE",
             "paragraphs": [
-                "Six state attorneys general have formally opposed the proposed Union Pacific and Norfolk Southern merger, arguing that promised competitive benefits are insufficient for the market. Regulatory resistance is mounting as shipping advocates warn the consolidation could degrade intermodal service quality and raise freight costs.",
-                "Rail shippers must prepare for prolonged regulatory battles and potential structural barriers affecting transcontinental route options and pricing stability. Logistics planners need to maintain carrier diversification across competing rail networks to protect long-term freight continuity."
+                "A massive security breach at Uber Freight has exposed millions of internal logistics files, highlighting severe identity verification vulnerabilities across digital brokerage platforms. Cyber criminals are increasingly targeting transportation management networks, threatening enterprise supply chain data integrity.",
+                "Freight brokers and shippers must immediately audit third-party vendor access controls and implement multi-factor authentication protocols. Protecting sensitive carrier onboarding databases is critical to preventing fraudulent load hijacking and financial loss."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING OPERATIONS: SAFETY CRACKDOWN",
+            "nextUpTease": "TRUCKING CAPACITY: RATE PRESSURES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRUCKING OPERATIONS: SAFETY CRACKDOWN",
+            "heading": "TRUCKING CAPACITY: RATE PRESSURES",
             "paragraphs": [
-                "Federal and state enforcement agencies have sidelined 48 commercial drivers and 159 vehicles following intensive over-the-road safety crackdowns across multiple jurisdictions. Heightened scrutiny on electronic logging device compliance and driver credentials is accelerating capacity tightening in the truckload segment.",
-                "Motor carriers face rising compliance costs and operational friction as enforcement agencies step up roadside audits and driver credential verifications. Shippers should anticipate regional capacity constraints and adjust freight procurement models to mitigate transit delays."
+                "Dry van and reefer contract freight rates have hit record levels as over-the-road trucking volumes continue to contract across regional corridors. DAT reports that tightening capacity and rising driver pay pressures are forcing shippers to abandon traditional annual RFPs in favor of short-term mini-bids.",
+                "Transportation procurement leaders must adapt to volatile pricing models by diversifying carrier networks and securing dedicated capacity agreements. Managing over-the-road freight spend requires agile execution to navigate persistent driver shortages and rising operating costs."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
