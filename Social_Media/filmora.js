@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: DE MINIMIS ELIMINATION UPHELD",
-                "teaserTitle": "AIR FREIGHT: CUSTOMS CRACKDOWN",
-                "visual_caption": "The Court of International Trade upheld the removal of the 800 USD exemption. Importers must restructure cross-border distribution models immediately."
+                "headline": "MARITIME LOGISTICS: PANAMA CANAL QUEUE JUMP",
+                "teaserTitle": "TANKER OPERATIONS: STRAIT OF HORMUZ",
+                "visual_caption": "An empty tanker paid $4.6M to jump the Panama Canal queue. This record fee highlights severe global maritime bottlenecks and rising transit costs."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR FREIGHT: CUSTOMS CRACKDOWN",
-                "teaserTitle": "SECURITY & FRAUD: TAX SCAM",
-                "visual_caption": "Customs authorities intensified enforcement on low-value air cargo shipments. Shippers should expect severe clearance delays at primary airports."
+                "headline": "TANKER OPERATIONS: STRAIT OF HORMUZ",
+                "teaserTitle": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "visual_caption": "Two commercial tankers were attacked in the Strait of Hormuz during regional transits. Carriers are turning off transponders and absorbing extreme war-risk premiums."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY & FRAUD: TAX SCAM",
-                "teaserTitle": "TRUCKING OPERATIONS: RECORD RATES",
-                "visual_caption": "Federal investigators probed a 54-count tax fraud scheme targeting truckers. Fleets must verify compliance to protect independent contractors."
+                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "teaserTitle": "FINANCIAL CRIME: TAX SCAM ARRESTS",
+                "visual_caption": "The USTR advanced new tariffs on 60 trading partners. Importers face immediate compliance challenges and tighter customs audits."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING OPERATIONS: RECORD RATES",
-                "teaserTitle": "MARITIME LOGISTICS: PACIFIC SURGE",
-                "visual_caption": "Contract shipping rates hit record highs as truckload volumes contracted. Buyers must adopt flexible pricing models to secure capacity."
+                "headline": "FINANCIAL CRIME: TAX SCAM ARRESTS",
+                "teaserTitle": "CUSTOMS COMPLIANCE: COCAINE SEIZURE",
+                "visual_caption": "Federal authorities launched a nationwide investigation into a 54-count tax fraud scheme targeting independent truckers. Fleets must provide verified compliance support to protect drivers."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME LOGISTICS: PACIFIC SURGE",
-                "teaserTitle": "INFRASTRUCTURE: RAIL SURCHARGE",
-                "visual_caption": "Container import volumes to the East Coast surged to peak levels. Logistics directors must optimize port routing to manage dwell times."
+                "headline": "CUSTOMS COMPLIANCE: COCAINE SEIZURE",
+                "teaserTitle": "RAIL INFRASTRUCTURE: INTERMODAL SURCHARGES",
+                "visual_caption": "Border officials intercepted $313M of cocaine hidden in a banana shipment. Smuggling operations are triggering rigorous port inspections across terminals."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: RAIL SURCHARGE",
-                "teaserTitle": "WORKFORCE: LAYOFF WAVE",
-                "visual_caption": "Union Pacific raised California intermodal surcharges to $1,000 per box. Shippers face immediate freight budget variances."
+                "headline": "RAIL INFRASTRUCTURE: INTERMODAL SURCHARGES",
+                "teaserTitle": "AIR FREIGHT: CAPACITY EXPANSION",
+                "visual_caption": "Union Pacific imposed $1,000 intermodal surcharges at California ramps. Rail shippers face severe margin compression and unexpected freight budget variances."
             },
             {
                 "slide_index": 7,
-                "headline": "WORKFORCE: LAYOFF WAVE",
+                "headline": "AIR FREIGHT: CAPACITY EXPANSION",
                 "teaserTitle": "",
-                "visual_caption": "Logistics providers eliminated over 1,200 jobs amid restructuring. Management teams must audit third-party vendor stability."
+                "visual_caption": "DHL Express tripled its Shenzhen air cargo capacity through a major terminal expansion. This investment strengthens regional logistics infrastructure for export hubs."
             },
             {
                 "slide_index": 8,

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DE MINIMIS ELIMINATION UPHELD BY TRADE COURT",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP PASSES FOUR POINT SIX MILLION DOLLARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: DE MINIMIS ELIMINATION UPHELD",
-                "teaserTitle": "AIR FREIGHT: CUSTOMS CRACKDOWN",
+                "headline": "MARITIME LOGISTICS: PANAMA CANAL QUEUE JUMP",
+                "teaserTitle": "TANKER OPERATIONS: STRAIT OF HORMUZ",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Court of International Trade has upheld the elimination of duty-free exemptions. Importers must immediately restructure cross-border distribution models."
+                "narration_line": "An empty tanker paid four point six million dollars to jump the Panama Canal queue. This record fee highlights severe global maritime bottlenecks and rising transit costs."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR FREIGHT: CUSTOMS CRACKDOWN",
-                "teaserTitle": "SECURITY & FRAUD: TAX SCAM",
+                "headline": "TANKER OPERATIONS: STRAIT OF HORMUZ",
+                "teaserTitle": "TRADE POLICY: FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Customs authorities are intensifying enforcement on low-value air cargo shipments. Shippers should expect severe clearance delays at primary gateways."
+                "narration_line": "Two commercial tankers were attacked in the Strait of Hormuz during regional transits. Carriers are turning off transponders and absorbing extreme war risk premiums."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY & FRAUD: TAX SCAM",
-                "teaserTitle": "TRUCKING OPERATIONS: RECORD RATES",
+                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "teaserTitle": "FINANCIAL CRIME: TAX SCAM ARRESTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal investigators are probing a major tax fraud scheme targeting independent truck drivers. Fleets must verify compliance to protect contracted operators."
+                "narration_line": "The United States Trade Representative advanced new tariffs on sixty trading partners. Importers face immediate compliance challenges and tighter customs audits."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING OPERATIONS: RECORD RATES",
-                "teaserTitle": "MARITIME LOGISTICS: PACIFIC SURGE",
+                "headline": "FINANCIAL CRIME: TAX SCAM ARRESTS",
+                "teaserTitle": "CUSTOMS COMPLIANCE: COCAINE SEIZURE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Contract shipping rates have reached historic highs amid declining truckload volumes. Transportation buyers must adopt flexible pricing models."
+                "narration_line": "Federal authorities launched a nationwide investigation into a massive tax fraud scheme targeting independent truckers. Fleets must provide verified compliance support to protect drivers."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME LOGISTICS: PACIFIC SURGE",
-                "teaserTitle": "INFRASTRUCTURE: RAIL SURCHARGE",
+                "headline": "CUSTOMS COMPLIANCE: COCAINE SEIZURE",
+                "teaserTitle": "RAIL INFRASTRUCTURE: INTERMODAL SURCHARGES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Containerized import volumes moving to the East Coast have surged to peak levels. Logistics directors must optimize routing to control dwell times."
+                "narration_line": "Border officials intercepted three hundred thirteen million dollars of cocaine hidden in a banana shipment. Smuggling operations are triggering rigorous port inspections across terminals."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: RAIL SURCHARGE",
-                "teaserTitle": "WORKFORCE: LAYOFF WAVE",
+                "headline": "RAIL INFRASTRUCTURE: INTERMODAL SURCHARGES",
+                "teaserTitle": "AIR FREIGHT: CAPACITY EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Union Pacific has raised California intermodal surcharges to one thousand dollars per box. Shippers face immediate budget variances."
+                "narration_line": "Union Pacific imposed one thousand dollar intermodal surcharges at California ramps. Rail shippers face severe margin compression and unexpected freight budget variances."
             },
             {
                 "slide_index": 7,
-                "headline": "WORKFORCE: LAYOFF WAVE",
+                "headline": "AIR FREIGHT: CAPACITY EXPANSION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Logistics providers have eliminated over twelve hundred jobs amid restructuring. Management must audit vendor stability to ensure continuity."
+                "narration_line": "DHL Express tripled its Shenzhen air cargo capacity through a major terminal expansion. This investment strengthens regional logistics infrastructure for export hubs."
             },
             {
                 "slide_index": 8,
