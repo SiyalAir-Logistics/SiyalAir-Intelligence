@@ -66,12 +66,14 @@ SECTION D: FORMATTING & HARSH CHARACTER BOUNDARIES
 --------------------------------------------------------------------------------
 SECTION E: DATA INTERCHANGE SCHEMA SPECIFICATIONS (`template.js` DATA MAP)
 --------------------------------------------------------------------------------
-Extract 7 distinct technical developments from the scraped data sources. Parse your findings into a clean object matching the JSON structural footprint:
-- kicker: Static string value "" (Empty string to maintain empty block padding)
-- titleWhite: Pure core title words except the last word (derived strictly from Slide 1 heading after stripping any category prefix and colon)
-- titleBlue: Pure core title last word strictly (derived strictly from Slide 1 heading after stripping any category prefix and colon)
-- footerSummary: A dynamic, hourly-refreshed 2-line forensic teaser unique to this specific update's core catalyst (max 25 words).
-- slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings matching the `CATEGORY: TITLE` format rule, a paragraphs array containing exactly two clean narrative text blocks utilizing strict numeric formatting (e.g., `301`, `15%`), empty image reference layouts, a nextUpTease string, and audit validation metadata arrays including the **exact, deep-linked source article URL** and **standard ISO timestamp (`YYYY-MM-DDTHH:MM:SSZ`)** dynamically extracted from the live feed.
+Extract 7 distinct technical developments from the scraped data sources. Parse your findings into a clean object matching the JSON structural footprint[cite: 3]:
+- kicker: Static string value "" (Empty string to maintain empty block padding)[cite: 3]
+- titleWhite: Pure core title words except the last word (derived strictly from Slide 1 heading after stripping any category prefix and colon), governed strictly by the Whitespace and Numeric Standards below[cite: 3].
+- titleBlue: Pure core title last word strictly (derived strictly from Slide 1 heading after stripping any category prefix and colon)[cite: 3]
+- footerSummary: A dynamic, hourly-refreshed 2-line forensic teaser unique to this specific update's core catalyst (max 25 words), governed strictly by the Whitespace and Numeric Standards below[cite: 3].
+- slides: Array of exactly 7 slide objects numbered 1-7 containing uppercase category headings matching the `CATEGORY: TITLE` format rule, a paragraphs array containing exactly two clean narrative text blocks, empty image reference layouts, a nextUpTease string, and audit validation metadata arrays including the **exact, deep-linked source article URL** and **standard ISO timestamp (`YYYY-MM-DDTHH:MM:SSZ`)** dynamically extracted from the live feed[cite: 3].
+- Strict Whitespace & Grammar Integrity Standard: Every generated text block, heading, paragraph, and summary across this schema must be meticulously scanned for word-merging errors. Zero camelCase word-merging (e.g., "authoritiesare", "aggressiveauditing", "InternationalTrade", "enforcementand") is permitted. Every single word must be cleanly separated by a standard space character. Punctuation marks (periods, commas) must immediately follow the preceding word with a single trailing space separating them from the next word.
+- Strict Numeric & Currency Standardization: Never spell out complex financial amounts, monetary figures, or statistical quantities into awkward linguistic hybrids (e.g., "eighty-hundred-dollar"). Always utilize clean broadcast digits and scale symbols (e.g., $800B, $80M, 800 USD) across visual text blocks, headers, summaries, and captions to maintain absolute professional clarity.
 
 --------------------------------------------------------------------------------
 SECTION F: VIDEO TEMPLATE MODULE EXPORT SPECIFICATIONS (`Video_Template_EN.js`)
