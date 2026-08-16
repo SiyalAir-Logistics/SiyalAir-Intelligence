@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CUSTOMS LAW: DE MINIMIS ELIMINATION",
+        "hookTitle": "USTR EXPANDS SECTION 301 TARIFFS ON SIXTY NATIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS LAW: DE MINIMIS ELIMINATION",
-                "teaserTitle": "ENERGY LOGISTICS: HORMUZ TANKER STRIKES",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "PANAMA CANAL: RECORD AUCTION FEES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Court of International Trade has upheld the total elimination of the eight hundred dollar de minimis customs exemption. Cross-border ecommerce platforms must now process formal entry filings and pay direct duties on every single imported parcel."
+                "narration_line": "The United States Trade Representative imposed Section three oh one tariffs on sixty trading partner nations. Importers face immediate compliance audits and elevated duty liabilities at all domestic entry ports."
             },
             {
                 "slide_index": 2,
-                "headline": "ENERGY LOGISTICS: HORMUZ TANKER STRIKES",
-                "teaserTitle": "RAIL FREIGHT: INTERMODAL SURCHARGE HIKE",
+                "headline": "PANAMA CANAL: RECORD AUCTION FEES",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Renewed drone and missile strikes against commercial tankers in the Strait of Hormuz have slashed regional container volumes by sixty-five percent. Marine insurers are canceling standard war risk coverage, forcing carriers to reroute freight around southern Africa."
+                "narration_line": "A single Panama Canal queue-jump auction slot sold for a record four point six million dollars. Carriers must evaluate extreme transit auction premiums against extended voyage detours."
             },
             {
                 "slide_index": 3,
-                "headline": "RAIL FREIGHT: INTERMODAL SURCHARGE HIKE",
-                "teaserTitle": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "COMPLIANCE: BAE SYSTEMS PENALTY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Union Pacific has implemented an emergency one thousand dollar per container surcharge on international intermodal traffic moving out of California. Shippers face immediate rail budget overruns unless they shift urgent volume to higher-cost long-haul trucking alternatives."
+                "narration_line": "A cybersecurity breach at Uber Freight exposed more than one million sensitive operational records. Freight brokers and shippers now face elevated cargo fraud and digital identity risks."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: SHENZHEN HUB EXPANSION",
-                "teaserTitle": "PORT SECURITY: LONDON GATEWAY INTERCEPTION",
+                "headline": "COMPLIANCE: BAE SYSTEMS PENALTY",
+                "teaserTitle": "INFRASTRUCTURE: KARACHI PORT DEEPENING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "DHL Express completed a two hundred and four million dollar expansion in Shenzhen, tripling automated air cargo processing throughput. Global forwarders gain reliable intra-Asia uplift capacity, protecting electronics supply chains from widening secondary gateway bottlenecks."
+                "narration_line": "BAE Systems reached a thirty-six million dollar settlement with the State Department over export regulation breaches. Aerospace manufacturers must strengthen vendor compliance to prevent export penalties."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT SECURITY: LONDON GATEWAY INTERCEPTION",
-                "teaserTitle": "REGULATION: STATES CDL PRIVACY LAWSUIT",
+                "headline": "INFRASTRUCTURE: KARACHI PORT DEEPENING",
+                "teaserTitle": "FLEET SAFETY: PACCAR TRUCK RECALL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "United Kingdom border authorities seized nearly three hundred million dollars worth of contraband concealed in containerized fruit at London Gateway. Terminal operators are expanding physical container inspections, triggering extended gate dwell times across refrigerated import corridors."
+                "narration_line": "Karachi Port completed major dredging at its East Wharf facility to accommodate mega-container vessels. Direct mainline calls will reduce transshipment reliance and regional shipping transit times."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: STATES CDL PRIVACY LAWSUIT",
-                "teaserTitle": "OCEAN CARRIERS: BUENAVENTURA DIVERSION THREAT",
+                "headline": "FLEET SAFETY: PACCAR TRUCK RECALL",
+                "teaserTitle": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Twenty-two states filed a joint federal lawsuit blocking government mandates requiring the surrender of seventeen million commercial driver records. Fleet compliance officers face legal ambiguity while navigating state privacy protections against impending federal driver enforcement."
+                "narration_line": "PACCAR issued a safety recall for five thousand nine hundred nineteen commercial trucks over electrical issues. Fleet operators must balance maintenance downtime to prevent active freight disruptions."
             },
             {
                 "slide_index": 7,
-                "headline": "OCEAN CARRIERS: BUENAVENTURA DIVERSION THREAT",
-                "teaserTitle": "",
+                "headline": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Ocean carrier CMA CGM is preparing emergency container diversions as persistent labor disruptions paralyze terminal operations at Buenaventura. Shippers utilizing South American Pacific corridors face compounding demurrage penalties and fourteen-day transshipment delays."
+                "narration_line": "United States industrial real estate vacancy fell to seven point three percent as tenant absorption accelerated. Logistics operators should secure distribution leases before core hub space tightens further."
             },
             {
                 "slide_index": 8,

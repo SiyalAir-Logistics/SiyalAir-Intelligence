@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS LAW: DE MINIMIS ELIMINATION",
-                "teaserTitle": "ENERGY LOGISTICS: HORMUZ TANKER STRIKES",
-                "visual_caption": "The U.S. Court of International Trade upheld the total elimination of the $800 de minimis customs exemption. Cross-border e-commerce platforms must now file formal customs entries and pay direct duties on every imported parcel."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "PANAMA CANAL: RECORD AUCTION FEES",
+                "visual_caption": "USTR implemented Section 301 tariffs on 60 trading partner nations following regulatory expiration. Importers face immediate documentation audits and elevated customs duty costs."
             },
             {
                 "slide_index": 2,
-                "headline": "ENERGY LOGISTICS: HORMUZ TANKER STRIKES",
-                "teaserTitle": "RAIL FREIGHT: INTERMODAL SURCHARGE HIKE",
-                "visual_caption": "Drone and missile strikes against commercial tankers in the Strait of Hormuz slashed regional container volumes by 65%. Marine insurers are canceling standard war-risk coverage, forcing carriers to reroute freight around southern Africa."
+                "headline": "PANAMA CANAL: RECORD AUCTION FEES",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "visual_caption": "A Panama Canal queue-jump auction slot reached a record $4.6M for an LPG carrier. Shippers must evaluate multi-million-dollar fees against 14-day Cape of Good Hope diversions."
             },
             {
                 "slide_index": 3,
-                "headline": "RAIL FREIGHT: INTERMODAL SURCHARGE HIKE",
-                "teaserTitle": "AIR CARGO: SHENZHEN HUB EXPANSION",
-                "visual_caption": "Union Pacific implemented an emergency $1,000/box surcharge on intermodal container traffic moving out of California. Shippers face immediate rail budget overruns unless they shift urgent volume to higher-cost long-haul trucking."
+                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "teaserTitle": "COMPLIANCE: BAE SYSTEMS PENALTY",
+                "visual_caption": "A major cyber incident at Uber Freight compromised over 1M freight and identity records. Logistics providers face heightened double-brokering and cargo theft risks."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: SHENZHEN HUB EXPANSION",
-                "teaserTitle": "PORT SECURITY: LONDON GATEWAY INTERCEPTION",
-                "visual_caption": "DHL Express completed a $204M expansion in Shenzhen, tripling automated air cargo processing throughput. Global forwarders gain reliable intra-Asia uplift capacity, protecting electronics supply chains from secondary gateway bottlenecks."
+                "headline": "COMPLIANCE: BAE SYSTEMS PENALTY",
+                "teaserTitle": "INFRASTRUCTURE: KARACHI PORT DEEPENING",
+                "visual_caption": "BAE Systems agreed to a $36M State Department settlement over arms export violations. Aerospace supply chains face intensified audits on dual-use technology transfers."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT SECURITY: LONDON GATEWAY INTERCEPTION",
-                "teaserTitle": "REGULATION: STATES CDL PRIVACY LAWSUIT",
-                "visual_caption": "UK border authorities seized nearly $300M worth of contraband concealed in containerized fruit at London Gateway. Terminal operators are expanding physical container inspections, triggering extended gate dwell times across refrigerated corridors."
+                "headline": "INFRASTRUCTURE: KARACHI PORT DEEPENING",
+                "teaserTitle": "FLEET SAFETY: PACCAR TRUCK RECALL",
+                "visual_caption": "Karachi Port completed East Wharf dredging to accommodate ultra-large container ships. Mainline direct vessel calls will decrease transit times and regional transshipment fees."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: STATES CDL PRIVACY LAWSUIT",
-                "teaserTitle": "OCEAN CARRIERS: BUENAVENTURA DIVERSION THREAT",
-                "visual_caption": "22 states filed a joint federal lawsuit blocking government mandates requiring the surrender of 17M commercial driver records. Fleet compliance officers face legal ambiguity while navigating state privacy protections against federal enforcement."
+                "headline": "FLEET SAFETY: PACCAR TRUCK RECALL",
+                "teaserTitle": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
+                "visual_caption": "PACCAR recalled 5,919 heavy-duty trucks due to critical electrical power loss risks. Fleet managers face maintenance delays and regional equipment repositioning hurdles."
             },
             {
                 "slide_index": 7,
-                "headline": "OCEAN CARRIERS: BUENAVENTURA DIVERSION THREAT",
-                "teaserTitle": "",
-                "visual_caption": "Ocean carrier CMA CGM is preparing emergency container diversions as persistent disruptions paralyze terminal operations at Buenaventura. Shippers utilizing South American Pacific corridors face compounding demurrage penalties and 14-day transshipment delays."
+                "headline": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "U.S. industrial vacancy dropped to 7.3% in Q2 as logistics space demand stabilized. Shippers should evaluate warehouse renewals before prime market rents escalate."
             },
             {
                 "slide_index": 8,
