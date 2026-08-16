@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PANAMA CANAL: RECORD QUEUE-JUMP FEE",
-                "teaserTitle": "ARMS EXPORT: BAE PENALTY",
-                "visual_caption": "An empty liquefied petroleum gas tanker paid $4.6M to bypass the Panama Canal queue. Water level reductions and transit bottlenecks continue to drive up priority toll expenses for international shipping operators."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "TRADE LAW: DE MINIMIS STRUCK DOWN",
+                "visual_caption": "USTR implemented Section 301 tariffs targeting 60 trading partner nations today. Importers face aggressive customs audits and potential cargo detentions at major container ports."
             },
             {
                 "slide_index": 2,
-                "headline": "ARMS EXPORT: BAE PENALTY",
-                "teaserTitle": "TARIFF EVASION: CHINA PROBE",
-                "visual_caption": "Defense contractor BAE Systems agreed to pay a $36M civil penalty for export regulation violations. Federal authorities are enforcing strict compliance oversight across all international trade and defense operations."
+                "headline": "TRADE LAW: DE MINIMIS STRUCK DOWN",
+                "teaserTitle": "CYBERSECURITY: FREIGHT DATA BREACH",
+                "visual_caption": "A federal trade court upheld the total elimination of the $800 de minimis exemption. Direct-to-consumer parcel shipments must now process through formal customs channels and pay standard duties."
             },
             {
                 "slide_index": 3,
-                "headline": "TARIFF EVASION: CHINA PROBE",
-                "teaserTitle": "CLEAN PORTS: LA-LB INCENTIVES",
-                "visual_caption": "A new White House report reveals that dozens of nations helped China evade tariffs through illegal transshipments. Customs agencies are launching rigorous audits targeting deceptive country-of-origin documentation."
+                "headline": "CYBERSECURITY: FREIGHT DATA BREACH",
+                "teaserTitle": "MARITIME RISK: HORMUZ TANKER ATTACKS",
+                "visual_caption": "A severe cybersecurity breach exposed over 1M files across the Uber Freight digital network. Shippers and brokers face elevated risks of carrier identity fraud and unauthorized freight brokering."
             },
             {
                 "slide_index": 4,
-                "headline": "CLEAN PORTS: LA-LB INCENTIVES",
-                "teaserTitle": "RETAIL IMPORTS: PEAK VOLUMES",
-                "visual_caption": "The ports of Los Angeles and Long Beach increased financial incentives for low-emission ocean vessels. Terminal operators are accelerating maritime decarbonization efforts to meet new environmental standards."
+                "headline": "MARITIME RISK: HORMUZ TANKER ATTACKS",
+                "teaserTitle": "AIR CARGO: DHL EXPANDS SHENZHEN",
+                "visual_caption": "Commercial tankers were struck during outbound transits through the strategic Strait of Hormuz. Marine underwriters are hiking war risk premiums, escalating fuel and shipping surcharges globally."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL IMPORTS: PEAK VOLUMES",
-                "teaserTitle": "AIR FREIGHT: CAPACITY SLUMP",
-                "visual_caption": "National Retail Federation data projects that US port import volumes have peaked ahead of new tariffs. Businesses pulled forward inventory schedules to insulate supply chains against impending trade duties."
+                "headline": "AIR CARGO: DHL EXPANDS SHENZHEN",
+                "teaserTitle": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
+                "visual_caption": "DHL Express is investing $204M to triple air capacity at its Shenzhen gateway. The expanded hub provides vital express freight throughput for southern Chinese exporters."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR FREIGHT: CAPACITY SLUMP",
-                "teaserTitle": "DEFENSE DEALS: CRITICAL MINERALS",
-                "visual_caption": "Muted air cargo peak season activity caused global spot rates to decline 6% month over month. Shippers are leveraging softening demand to secure favorable short-term rate agreements."
+                "headline": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
+                "teaserTitle": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
+                "visual_caption": "6 state attorneys general have united to formally oppose the proposed UP-NS merger. Regulators warn the rail consolidation threatens regional freight competition and shipper service levels."
             },
             {
                 "slide_index": 7,
-                "headline": "DEFENSE DEALS: CRITICAL MINERALS",
+                "headline": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "The Pentagon signed over $2B in loan commitments to secure domestic battery minerals. Industrial manufacturers must align sourcing strategies with federal supply resilience initiatives."
+                "visual_caption": "National industrial warehouse vacancy declined to 7.3% as demand outpaced new deliveries. Shippers face rising lease rates as port-adjacent warehouse capacity tightens into 2027."
             },
             {
                 "slide_index": 8,

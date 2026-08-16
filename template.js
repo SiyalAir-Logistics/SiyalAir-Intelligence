@@ -1,114 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL FEE HITS",
-        "titleBlue": "RECORD",
-        "footerSummary": "Panama Canal queue-jump fee hits $4.6M as routing disruptions persist, intensifying cost pressures for international shipping operators."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR implements Section 301 tariffs on 60 nations while federal courts uphold complete de minimis elimination, reshaping import liabilities."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PANAMA CANAL: RECORD QUEUE-JUMP FEE",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker has agreed to pay a record $4.6 million priority fee to bypass the Panama Canal queue. This unprecedented financial outlay highlights severe transit bottlenecks and falling water levels across critical interoceanic shipping corridors.",
-                "Vessel operators face escalating overhead expenses and difficult trade-offs between absorbing heavy priority tolls or enduring costly multi-week delays. Supply chain leaders must incorporate dynamic waterway auction pricing into long-term routing budgets."
+                "The Office of the United States Trade Representative has officially initiated Section 301 tariffs targeting 60 trading partner nations following the expiration of Section 122 provisions. Customs authorities are deploying strict provenance audits across inbound product categories to flag supply chains with suspected forced labor exposure.",
+                "Importers face direct tariff increases alongside heightened risk of cargo detentions at primary US container gateways. Trade compliance teams must instantly trace multi-tier supplier networks to provide verified labor audit documentation and avoid severe commercial penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "ARMS EXPORT: BAE PENALTY",
+            "nextUpTease": "TRADE LAW: DE MINIMIS STRUCK DOWN",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-15T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "ARMS EXPORT: BAE PENALTY",
+            "heading": "TRADE LAW: DE MINIMIS STRUCK DOWN",
             "paragraphs": [
-                "Defense contractor BAE Systems has agreed to pay a $36 million civil penalty to resolve alleged violations of United States arms export regulations. The federal enforcement action underscores intensifying scrutiny over international trade compliance and export control protocols.",
-                "Corporations must invest heavily in internal compliance programs and automated screening tools to mitigate severe regulatory liabilities. Strategic trade advisors warn that legal infractions will result in increasingly aggressive financial penalties across global sectors."
+                "The US Court of International Trade has definitively upheld the federal elimination of the de minimis tariff exemption, permanently closing the $800 duty-free import threshold. This ruling subjects high-volume direct-to-consumer parcel imports to standard formal entry procedures and customs duties.",
+                "Cross-border ecommerce operators and air freight consolidators must absorb higher clearance fees and longer border dwell times. Logistics directors are overhauling fulfillment models to establish localized bonded warehousing hubs rather than relying on direct cross-border parcel delivery."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFF EVASION: CHINA PROBE",
+            "nextUpTease": "CYBERSECURITY: FREIGHT DATA BREACH",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-16T06:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TARIFF EVASION: CHINA PROBE",
+            "heading": "CYBERSECURITY: FREIGHT DATA BREACH",
             "paragraphs": [
-                "A new White House report reveals that dozens of countries have actively assisted China in evading United States tariffs through illegal transshipment practices. These illicit operations involve deceptive relabeling, repackaging, and false country-of-origin documentation to bypass import duties.",
-                "Federal customs agencies are launching aggressive cross-border audits that threaten immediate supply chain disruptions for importers relying on indirect sourcing hubs. Sourcing executives must enforce rigorous provenance tracking to avoid severe border seizures and financial liabilities."
+                "A major social-engineering cyber breach compromised over 1M digital logistics files across Uber Freight network databases. The incident exposed carrier identity records, load contracts, and proprietary rate documentation across digital brokerage platforms.",
+                "Brokers and 3PL providers face immediate exposure to identity spoofing, double-brokering schemes, and cargo theft operations. Enterprise shippers must mandate multi-factor biometric authentication and direct API security audits before routing sensitive contract freight through third-party platforms."
             ],
             "imageUrl": "",
-            "nextUpTease": "CLEAN PORTS: LA-LB INCENTIVES",
+            "nextUpTease": "MARITIME RISK: HORMUZ TANKER ATTACKS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T14:40:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CLEAN PORTS: LA-LB INCENTIVES",
+            "heading": "MARITIME RISK: HORMUZ TANKER ATTACKS",
             "paragraphs": [
-                "The ports of Los Angeles and Long Beach have finalized an agreement to increase financial incentives for ocean carriers deploying low-emission vessels. This strategic sustainability push is designed to accelerate maritime decarbonization across primary United States import gateway terminals.",
-                "Ocean carriers and terminal operators must upgrade fleet environmental profiles to capture lucrative port fee discounts and maintain competitive operating margins. Supply chain leaders should factor green carrier performance metrics into forthcoming contract negotiations."
+                "Commercial tankers sustained drone strikes during outbound transits through the Strait of Hormuz, forcing regional operators into prolonged dark transits. Maritime security alerts have prompted vessel operators to evaluate extensive route diversions around the Persian Gulf.",
+                "War risk insurance premiums for Persian Gulf transits have surged by double digits, driving bunker and freight surcharges higher across global energy corridors. Supply chain strategists must recalculate tanker transit economics and secure contingency capacity along alternate sea lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL IMPORTS: PEAK VOLUMES",
+            "nextUpTease": "AIR CARGO: DHL EXPANDS SHENZHEN",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-15T11:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RETAIL IMPORTS: PEAK VOLUMES",
+            "heading": "AIR CARGO: DHL EXPANDS SHENZHEN",
             "paragraphs": [
-                "National Retail Federation data projects that import volumes at major United States ports have peaked as businesses aggressively build up inventory ahead of impending tariff increases. Importers have pulled forward holiday shipping schedules to insulate supply chains against anticipated trade policy shocks.",
-                "Distribution networks face localized warehousing crunches and elevated holding costs resulting from early inventory accumulation. Logistics planners must optimize inventory velocity to prevent terminal congestion and protect working capital reserves."
+                "DHL Express has committed $204M to triple the handling capacity of its primary air cargo gateway terminal in Shenzhen. The capital expansion accelerates outbound handling throughput for high-tech manufacturing hubs and cross-border commercial trade in southern China.",
+                "Air freight forwarders and shippers secure critical uplift capacity across intra-Asia and transpacific routes amid tightening main-deck space. Sourcing managers should leverage enhanced automated hub sorting to compress cross-border transit times by up to 24 hours."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: CAPACITY SLUMP",
+            "nextUpTease": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-15T16:05:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR FREIGHT: CAPACITY SLUMP",
+            "heading": "RAIL FREIGHT: MERGER ANTITRUST CHALLENGE",
             "paragraphs": [
-                "Muted air cargo peak season activity indicates weaker second-half demand as global air freight spot rates decline 6% month over month. Xeneta reports that shifting market dynamics are granting shippers greater leverage in rate negotiations across key international air corridors.",
-                "Airlines and forwarders are adjusting capacity allocations to defend yields against softening demand and rising operational overhead. Logistics procurement teams should capitalize on current rate trends to secure favorable short-term air charter agreements."
+                "Attorneys General from six states have filed formal regulatory objections opposing the proposed multi-billion-dollar merger between Union Pacific and Norfolk Southern. Regulators argue that the transcontinental consolidation creates excessive market concentration and diminishes competitive rail routing.",
+                "Industrial shippers face potential carrier service disruptions and long-term pricing rigidity across primary intermodal corridors. Transport procurement executives must maintain diversified contracts across regional rail and long-haul motor carriers during extended regulatory antitrust proceedings."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEFENSE DEALS: CRITICAL MINERALS",
+            "nextUpTease": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T18:50:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DEFENSE DEALS: CRITICAL MINERALS",
+            "heading": "WAREHOUSING: INDUSTRIAL VACANCY STABILIZES",
             "paragraphs": [
-                "The Pentagon has signed over $2 billion in conditional loan commitments with domestic entities to secure critical battery minerals and advanced manufacturing components. This strategic defense investment aims to reduce industrial reliance on foreign supply chains and insulate domestic production.",
-                "Manufacturers dependent on critical minerals must align sourcing strategies with expanding federal domestic supply initiatives to ensure long-term operational continuity. Industry leaders should evaluate public-private financing opportunities to support infrastructure resilience.",
-                "FINAL SLIDE"
+                "The national industrial real estate vacancy rate fell seven basis points sequentially to 7.3% during Q2 as warehouse net absorption surpassed new construction completions. Slower development pipelines and steady logistics leasing activity have rebalanced major port-adjacent distribution submarkets.",
+                "Occupiers are losing leverage to negotiate aggressive lease concessions as Class A warehouse space tightens across strategic transportation nodes. Distribution executives must secure multi-year facility renewals early to protect logistics margins from impending industrial rent escalations."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T20:10:00Z",
                 "Status: Audited & True"
             ]
         }
