@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PANAMA CANAL: QUEUE JUMP FEE",
-                "visual_caption": "USTR advances forced labor tariffs targeting 60 trading partners under Section 301. Importers face immediate administrative friction and complex compliance audits."
+                "headline": "CUSTOMS: DE MINIMIS BURIED",
+                "teaserTitle": "PANAMA CANAL: QUEUE JUMP RECORD",
+                "visual_caption": "The trade court upheld the elimination of the $800 de minimis exemption. Stricter customs enforcement threatens low-value ecommerce airfreight shipments."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
-                "teaserTitle": "TRUCKING: CAPACITY AND RATE SURGE",
-                "visual_caption": "An empty tanker secured Panama Canal passage by paying a record $4.6M priority fee. Persistent draft constraints continue to drive spot auction prices to historic highs."
+                "headline": "PANAMA CANAL: QUEUE JUMP RECORD",
+                "teaserTitle": "CONTRACT FREIGHT: RATE SPREAD",
+                "visual_caption": "An empty tanker paid $4.6M to jump the Panama Canal queue. Persistent draft constraints continue to drive spot auction tolls to record highs."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: CAPACITY AND RATE SURGE",
-                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
-                "visual_caption": "Dry van contract freight rates hit record highs as truckload volumes decline. Tightening equipment availability forces procurement teams to adopt short-term mini-bids."
+                "headline": "CONTRACT FREIGHT: RATE SPREAD",
+                "teaserTitle": "MARITIME SECURITY: TANKER STRIKES",
+                "visual_caption": "Middle East shipping disruptions are spreading rate increases into long-term contracts. Shippers face broader pricing pressure amid rising risks."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: PEAK SEASON SLUMP",
-                "teaserTitle": "REGULATION: NON DOMICILED CDL LIMITS",
-                "visual_caption": "Global air cargo spot rates declined 6% as muted peak season activity signals softer demand. Carriers are actively adjusting capacity allocations downward to protect load factors."
+                "headline": "MARITIME SECURITY: TANKER STRIKES",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
+                "visual_caption": "Two commercial tankers were attacked in the Strait of Hormuz. War risk insurance premiums and crude transport costs are surging globally."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: NON DOMICILED CDL LIMITS",
-                "teaserTitle": "ENERGY: STRATEGIC OIL DEPLETION",
-                "visual_caption": "Rhode Island and Utah enacted stringent restrictions on non-domiciled commercial driver licenses. These localized enforcement measures are accelerating regional driver attrition."
+                "headline": "AIR CARGO: PEAK SEASON SLUMP",
+                "teaserTitle": "TRUCKING CAPACITY: DRIVER PAY",
+                "visual_caption": "Global air cargo spot rates dropped 6% month-over-month. Carriers are cutting capacity allocations to prevent load factor erosion."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: STRATEGIC OIL DEPLETION",
-                "teaserTitle": "PORTS: CLEAN ENERGY INCENTIVES",
-                "visual_caption": "The US Strategic Petroleum Reserve fell to its lowest level since 1983. Geopolitical tensions forced aggressive crude drawdowns across domestic refineries."
+                "headline": "TRUCKING CAPACITY: DRIVER PAY",
+                "teaserTitle": "RAILWAY MERGER: ANTITRUST BLOCK",
+                "visual_caption": "Motor carriers face rising driver pay pressure as truckload capacity tightens. Strict ELD enforcement is accelerating national driver attrition."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: CLEAN ENERGY INCENTIVES",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Los Angeles and Long Beach ports increased financial incentives for low-emission carriers. This initiative accelerates maritime decarbonization and terminal infrastructure upgrades."
+                "headline": "RAILWAY MERGER: ANTITRUST BLOCK",
+                "teaserTitle": "",
+                "visual_caption": "State AGs are intensifying opposition against the proposed Class I rail merger. Shippers face regulatory uncertainty and potential service delays."
             },
             {
                 "slide_index": 8,

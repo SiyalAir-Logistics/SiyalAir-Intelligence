@@ -1,35 +1,35 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MOVES AHEAD WITH FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "Trade enforcement expands across 60 partner nations as Section 301 rules take effect, driving immediate customs compliance reviews."
+        "titleWhite": "DE MINIMIS LOOPHOLE LEGALLY",
+        "titleBlue": "BURIED",
+        "footerSummary": "Trade court upholds de minimis elimination as customs crackdowns threaten low-value ecommerce airfreight demand and tighten compliance rules."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "CUSTOMS: DE MINIMIS BURIED",
             "paragraphs": [
-                "The Office of the United States Trade Representative is advancing new forced labor-based import tariffs targeting 60 trading partners under Section 301 of the Trade Act of 1974. This regulatory enforcement action coincides with expiring Section 122 measures, forcing importers to re-evaluate their entire supplier verification network.",
-                "Supply chain executives face immediate administrative friction and complex landed cost recalibrations as compliance audits tighten across international trade lanes. Shippers must rapidly integrate deeper supply chain provenance tracing to prevent costly border impoundments and regulatory penalties."
+                "The international trade court has officially upheld the elimination of the US de minimis exemption, permanently closing the historic eight hundred dollar loophole for low-value parcel imports. Stricter customs crackdowns on direct-to-consumer shipments are now threatening to reverse cargo volume gains across major airfreight hubs.",
+                "Importers and logistics providers face immediate operational overhauls as duty collections expand to cover millions of previously exempt parcels. Supply chain planners must restructure customs data architecture to avoid severe border delays and escalating compliance penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: QUEUE JUMP FEE",
+            "nextUpTease": "PANAMA CANAL: QUEUE JUMP RECORD",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
+            "heading": "PANAMA CANAL: QUEUE JUMP RECORD",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker secured passage through the Panama Canal by paying a record 4.6 million dollar priority transit fee amid ongoing regional shipping disruptions. Persistent draft constraints and geopolitical routing bottlenecks continue to drive spot auction prices to unprecedented highs for vessel operators.",
-                "Carrier voyage economics are severely impacted by escalating toll premiums and extended diversion risks across critical global maritime corridors. Logistics planners must incorporate these volatile transit costs into long-term freight budgeting and route optimization strategies."
+                "An empty liquefied petroleum gas tanker secured immediate transit through the Panama Canal by paying a record four million six hundred thousand dollar priority fee. Persistent regional routing bottlenecks and draft restrictions continue to drive spot auction tolls to unprecedented heights.",
+                "Carrier voyage economics are severely impacted by escalating priority charges and extended diversion risks across critical global maritime corridors. Logistics managers must incorporate these volatile transit premiums into long-term freight budgeting models."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: CAPACITY AND RATE SURGE",
+            "nextUpTease": "CONTRACT FREIGHT: RATE SPREAD",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: 2026-08-14T00:00:00Z",
@@ -38,70 +38,70 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "TRUCKING: CAPACITY AND RATE SURGE",
+            "heading": "CONTRACT FREIGHT: RATE SPREAD",
             "paragraphs": [
-                "Dry van and reefer contract freight rates have hit record highs as national truckload volumes experience a noticeable seasonal decline. Tightening over-the-road equipment availability is forcing procurement teams to abandon traditional one-year RFPs in favor of aggressive short-term mini-bids.",
-                "Shippers face compounding linehaul cost pressures and shrinking carrier networks that threaten distribution schedule reliability. Transportation managers must diversify capacity sourcing models to protect operating margins against persistent equipment deficits."
+                "Ongoing Middle East shipping disruptions are actively driving rate increases from spot markets directly into long-term contract freight agreements. Shippers are facing broader pricing pressure as container lines successfully pass on geopolitical risk premiums.",
+                "Enterprise procurement teams must re-evaluate annual transportation budgets and diversify carrier partnerships to mitigate sudden baseline cost inflation. Long-term network resilience now requires flexible rate structures capable of absorbing rapid market volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
+            "nextUpTease": "MARITIME SECURITY: TANKER STRIKES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: PEAK SEASON SLUMP",
+            "heading": "MARITIME SECURITY: TANKER STRIKES",
             "paragraphs": [
-                "Global air cargo spot rates declined 6% month over month as muted early peak season activity signals weaker international demand for the second half of the year. International carriers are actively adjusting capacity allocations downward to prevent load factor erosion across major trade lanes.",
-                "Freight forwarders and enterprise shippers gain a tactical cost advantage to negotiate favorable short-term air charter agreements ahead of anticipated Q4 volume surges. Logistics managers should rebalance transport budgets to capture current rate softening before holiday inventory cycles tighten market capacity."
+                "Two commercial oil tankers were struck during overnight transits through the Strait of Hormuz, intensifying security threats for regional energy supply chains. Regional operators are increasingly deploying dark transits and extended detours to bypass active conflict zones.",
+                "Crude oil transport costs and marine war risk insurance premiums are soaring as vessels avoid high-risk chokepoints in the Middle East. Refiners and commodity traders must adjust supply lead times and buffer inventory to protect against sudden feedstock interruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: NON DOMICILED CDL LIMITS",
+            "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://www.maritime-executive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REGULATION: NON DOMICILED CDL LIMITS",
+            "heading": "AIR CARGO: PEAK SEASON SLUMP",
             "paragraphs": [
-                "State authorities in Rhode Island and Utah have enacted stringent new restrictions governing the issuance and renewal of non-domiciled commercial driver licenses. These localized enforcement measures are accelerating regional driver attrition and threatening to push driver losses past federal projections.",
-                "Motor carriers operating cross-border or multi-state freight networks face compounding driver shortages and escalating linehaul wage pressures. Fleet operators must upgrade compliance tracking systems and enhance retention incentives to preserve operational lane capacity."
+                "Global air cargo spot rates declined six percent month over month as muted early peak season activity signals weaker international demand. International carriers are actively adjusting capacity allocations downward to prevent load factor erosion across major trade lanes.",
+                "Freight forwarders and enterprise shippers gain a tactical cost advantage to negotiate favorable short-term air charter agreements ahead of anticipated volume surges. Logistics managers should rebalance transport budgets to capture current rate softening before holiday cycles tighten market capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: STRATEGIC OIL DEPLETION",
+            "nextUpTease": "TRUCKING CAPACITY: DRIVER PAY",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "ENERGY: STRATEGIC OIL DEPLETION",
+            "heading": "TRUCKING CAPACITY: DRIVER PAY",
             "paragraphs": [
-                "The United States Strategic Petroleum Reserve has fallen to its lowest level since 1983, raising serious integrity questions regarding cavern stability and operational readiness. Persistent geopolitical tensions in the Middle East have forced aggressive crude drawdowns to keep domestic refineries fully supplied.",
-                "Energy logistics operators face soaring war risk insurance premiums and extended transit schedules that severely disrupt petroleum feedstock supply chains. Procurement teams must incorporate volatile bunker surcharges and extended lead times into enterprise commodity pricing models."
+                "Motor carriers are facing mounting driver pay pressure as over-the-road equipment capacity tightens across major domestic freight corridors. Strict federal compliance enforcement on electronic logging devices is accelerating fleet attrition and reducing available linehaul hours.",
+                "Fleet operators must enhance driver retention packages and upgrade route optimization software to protect operating margins against rising wage costs. Shippers should anticipate tighter carrier vetting standards and potential service delays on key regional lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: CLEAN ENERGY INCENTIVES",
+            "nextUpTease": "RAILWAY MERGER: ANTITRUST BLOCK",
             "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORTS: CLEAN ENERGY INCENTIVES",
+            "heading": "RAILWAY MERGER: ANTITRUST BLOCK",
             "paragraphs": [
-                "The ports of Los Angeles and Long Beach have agreed to increase financial incentives offered to ocean carriers that deploy their lowest emitting vessels into regional terminals. This initiative is designed to accelerate maritime decarbonization while upgrading local terminal infrastructure.",
-                "Ocean carriers failing to meet strict emissions thresholds face escalating port access penalties and diminished berth prioritization during peak congestion windows. Maritime executives must evaluate fleet decarbonization roadmaps to protect schedule integrity and secure preferential terminal handling rates."
+                "State attorneys general and federal lawmakers are escalating opposition against the proposed Union Pacific and Norfolk Southern railway merger. Critics argue that the multi-billion dollar combination would severely diminish intermodal freight competition across national rail networks.",
+                "Rail shippers face prolonged regulatory uncertainty and potential service interruptions as legal battles over network consolidation intensify. Logistics strategists must evaluate alternative intermodal corridors and multi-carrier contracts to safeguard supply chain continuity."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",

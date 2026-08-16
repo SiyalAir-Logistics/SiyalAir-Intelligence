@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+        "hookTitle": "CUSTOMS DE MINIMIS BURIED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PANAMA CANAL: QUEUE JUMP FEE",
+                "headline": "CUSTOMS: DE MINIMIS BURIED",
+                "teaserTitle": "PANAMA CANAL: QUEUE JUMP RECORD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is advancing new forced labor tariffs across sixty trading partners under Section three oh one. Importers face immediate administrative friction and complex compliance audits."
+                "narration_line": "The international trade court has officially upheld the elimination of the de minimis exemption. Stricter customs crackdowns are now threatening low value parcel imports across airfreight networks."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
-                "teaserTitle": "TRUCKING: CAPACITY AND RATE SURGE",
+                "headline": "PANAMA CANAL: QUEUE JUMP RECORD",
+                "teaserTitle": "CONTRACT FREIGHT: RATE SPREAD",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An empty tanker secured passage through the Panama Canal by paying a record four point six million dollar fee. Persistent draft constraints continue to drive spot auction prices to unprecedented highs."
+                "narration_line": "An empty tanker secured immediate transit through the Panama Canal by paying a record four point six million dollars. Persistent routing bottlenecks continue to drive spot auction tolls higher."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: CAPACITY AND RATE SURGE",
-                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
+                "headline": "CONTRACT FREIGHT: RATE SPREAD",
+                "teaserTitle": "MARITIME SECURITY: TANKER STRIKES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Dry van contract freight rates have hit record highs as national truckload volumes experience a seasonal decline. Tightening equipment availability is forcing procurement teams to adopt short-term mini-bids."
+                "narration_line": "Ongoing Middle East shipping disruptions are actively driving rate increases from spot markets into contracts. Shippers face broader pricing pressure as geopolitical risk premiums rise."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: PEAK SEASON SLUMP",
-                "teaserTitle": "REGULATION: NON DOMICILED CDL LIMITS",
+                "headline": "MARITIME SECURITY: TANKER STRIKES",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global air cargo spot rates declined six percent as muted early peak season activity signals softer demand. International carriers are actively adjusting capacity allocations downward to prevent load factor erosion."
+                "narration_line": "Two commercial oil tankers were struck during overnight transits through the Strait of Hormuz. Crude transport costs and marine war risk insurance premiums are soaring."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: NON DOMICILED CDL LIMITS",
-                "teaserTitle": "ENERGY: STRATEGIC OIL DEPLETION",
+                "headline": "AIR CARGO: PEAK SEASON SLUMP",
+                "teaserTitle": "TRUCKING CAPACITY: DRIVER PAY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "State authorities in Rhode Island and Utah have enacted stringent restrictions on non-domiciled commercial driver licenses. These localized enforcement measures are accelerating regional driver attrition."
+                "narration_line": "Global air cargo spot rates declined six percent month over month on weaker demand. International carriers are actively adjusting capacity allocations downward."
             },
             {
                 "slide_index": 6,
-                "headline": "ENERGY: STRATEGIC OIL DEPLETION",
-                "teaserTitle": "PORTS: CLEAN ENERGY INCENTIVES",
+                "headline": "TRUCKING CAPACITY: DRIVER PAY",
+                "teaserTitle": "RAILWAY MERGER: ANTITRUST BLOCK",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The United States Strategic Petroleum Reserve has fallen to its lowest level since nineteen eighty-three. Persistent geopolitical tensions have forced aggressive crude drawdowns across domestic refineries."
+                "narration_line": "Motor carriers face mounting driver pay pressure as over the road capacity tightens. Strict electronic logging compliance is accelerating fleet driver attrition."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: CLEAN ENERGY INCENTIVES",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "RAILWAY MERGER: ANTITRUST BLOCK",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The ports of Los Angeles and Long Beach have increased financial incentives for low-emission ocean carriers. This initiative is designed to accelerate maritime decarbonization and upgrade terminal infrastructure."
+                "narration_line": "State attorneys general are escalating opposition against the proposed railway merger. Shippers face prolonged regulatory uncertainty and potential service interruptions."
             },
             {
                 "slide_index": 8,
