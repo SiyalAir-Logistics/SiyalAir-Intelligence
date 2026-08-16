@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRADE COURT UPHOLDS END OF",
-        "titleBlue": "DEMINIMIS",
-        "footerSummary": "Global supply chains face immediate compliance restructuring as federal trade courts and customs agencies permanently eliminate low-value import exemptions."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "Global trade routes face immediate financial pressure as USTR Section 301 enforcement triggers new tariffs across 60 partner nations."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE POLICY: DEMINIMIS ABOLISHED",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The United States trade court has officially upheld the total elimination of the 800 USD de minimis import exemption, shutting down the primary duty-free loophole utilized by cross-border e-commerce sellers. Federal customs authorities are now enforcing strict entry tariffs and mandatory formal clearance procedures on all inbound parcels regardless of declared value.",
-                "Supply chain operators must rapidly overhaul their customs brokerage workflows and absorb significant administrative costs to prevent chronic delivery bottlenecks at major air and ocean gateways. Retail merchants relying on fast-track parcel delivery models face severe margin compression and inevitable pricing adjustments."
+                "The Office of the United States Trade Representative has enacted sweeping import tariffs across 60 trading partners under Section 301 enforcement frameworks following the expiration of Section 122 rules. Federal authorities are mandating comprehensive supply chain origin mapping to restrict goods linked to non-compliant labor practices at international border checkpoints.",
+                "Enterprise importers face immediate administrative exposure and severe tariff rate increases across primary tier-1 manufacturing hubs. Shippers must rapidly reconfigure procurement documentation and audit supplier networks to prevent sustained cargo holds at primary customs gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEFENSE SPENDING: CRITICAL MINERAL DEALS",
+            "nextUpTease": "CANAL LOGISTICS: $4.6M AUCTION RECORD",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-15T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "STRATEGIC SOURCING: MINERAL DEALS",
+            "heading": "CANAL LOGISTICS: $4.6M AUCTION RECORD",
             "paragraphs": [
-                "The Pentagon has finalized more than $2B in conditional loan commitments with domestic entities including Sila Technologies, Sunrise Energy Metals, and Niron Magnetics to secure domestic battery and critical mineral supplies. This strategic funding initiative is designed to insulate the United States defense and industrial manufacturing sectors from overseas supply shocks and geopolitical coercion.",
-                "Industrial manufacturers must align their long-term material procurement strategies with these expanding domestic processing capabilities to mitigate future compliance and export restriction risks. Securing reliable tier-1 sourcing channels remains an absolute operational priority for modern supply chain executives."
+                "Panama Canal transit auction pricing has reached a record high of $4.6M as energy shippers aggressively outbid competing vessels to bypass expanding waterway transit backlogs. The G. Arete liquefied petroleum gas carrier secured the priority crossing slot amid tightening seasonal draft restrictions and severe global detour requirements.",
+                "Bulk and container carriers face escalating operational surcharges and transit delays as priority slot auctions drive maritime routing expenses to record levels. Freight operators must balance elevated canal premiums against multi-week alternative sailing detours around Cape Horn or the Cape of Good Hope."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: TRANSATLANTIC SURGE",
+            "nextUpTease": "MARITIME RISK: HORMUZ TANKER ATTACKS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "OCEAN FREIGHT: TRANSATLANTIC SURGE",
+            "heading": "MARITIME RISK: HORMUZ TANKER ATTACKS",
             "paragraphs": [
-                "Ocean freight spot rates from Asia to the United States East Coast have climbed to unprecedented highs as sustained import volumes collide with early peak season capacity constraints. Freightos analysts report that high cargo demand near the conclusion of the traditional shipping season has caught industry observers off guard.",
-                "Carriers are successfully pushing through aggressive rate increases, leaving beneficial cargo owners facing escalating operational expenses and tight vessel allocation limits. Shippers must evaluate multi-month service contracts carefully to protect profit margins against ongoing maritime volatility."
+                "Two commercial oil tankers sustained strikes in the Strait of Hormuz during outbound transits, triggering widespread military alerts and critical security warnings from UKMTO. Escalating regional hostilities have prompted several commercial fleet operators to turn off automated identification transponders and implement emergency dark transits.",
+                "Energy charterers and cargo owners are confronting surging maritime war-risk insurance premiums and sudden disruptions to middle-mile crude supply schedules. Logistics directors must continuously adjust contingency routing models as key maritime chokepoints face heightened security friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
+            "nextUpTease": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T21:48:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: PEAK SEASON SLUMP",
+            "heading": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
             "paragraphs": [
-                "Global air cargo spot rates have dropped 6% month over month as muted peak season activity signals softer second-half demand across major international trade lanes. Xeneta reports that pricing power is shifting back toward shippers, creating unexpected capacity headroom and flexible booking options for cargo buyers.",
-                "Airlines and forwarders face pressing yield management challenges as historical volume surges fail to materialize in traditional Q3 corridors. Transport buyers must determine whether to capitalize on softer spot market rates or secure long-term capacity agreements."
+                "A major security breach at Uber Freight has compromised more than 1M digital logistics files following a targeted social engineering intrusion into third-party dispatch systems. The incident exposed critical carrier identity records, operational rate sheets, and sensitive load confirmation documents across North American freight networks.",
+                "Freight brokers and enterprise shippers face elevated exposure to secondary carrier identity theft, fictitious pickups, and double-brokering fraud schemes. Logistics organizations must instantly reinforce API security controls and conduct forensic audits across all third-party transportation management platforms."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
+            "nextUpTease": "INTERMODAL RAIL: $1,000 SURCHARGE HIKE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T08:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REGULATORY ENFORCEMENT: CDL RESTRICTIONS",
+            "heading": "INTERMODAL RAIL: $1,000 SURCHARGE HIKE",
             "paragraphs": [
-                "State authorities in Rhode Island and Utah have joined a growing legislative push to restrict non-domiciled commercial driver licenses across domestic transport corridors. These new state-level mandates threaten to accelerate driver attrition across the domestic trucking sector well beyond initial federal projections.",
-                "Fleet operators face mounting capacity constraints and escalating driver wage pressures as available labor pools shrink further across key regional markets. Transportation executives must deploy targeted retention strategies and optimize asset utilization to protect profit margins."
+                "Union Pacific has implemented a $1,000 per-container excess surcharge on California intermodal lanes as outbound volume surges overwhelm available West Coast rail capacity. Concurrently, six state attorneys general have formally petitioned federal regulators to block the proposed Union Pacific and Norfolk Southern merger over antitrust concerns.",
+                "Intermodal shippers face substantial per-unit margin degradation across high-volume transcontinental transport corridors. Distribution managers must reassess mode split calculations between domestic truckload contracts and rail intermodal options to protect landed product costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCIAL COMPLIANCE: EXPORT PENALTIES",
+            "nextUpTease": "FREIGHT SECURITY: $111M THEFT SCHEME",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-15T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FINANCIAL COMPLIANCE: EXPORT PENALTIES",
+            "heading": "FREIGHT SECURITY: $111M THEFT SCHEME",
             "paragraphs": [
-                "BAE Systems has agreed to pay a $36M civil penalty to resolve alleged violations of United States arms export regulations and international trade controls. The Department of State has agreed to suspend $18M of the assessed penalty contingent upon the execution of mandatory compliance program enhancements.",
-                "Defense contractors and high-tech exporters must conduct rigorous internal audits of their global shipping manifests and licensing procedures to avoid severe regulatory penalties. Strengthening export compliance infrastructure is essential for mitigating legal exposure in complex international markets."
+                "Federal cargo theft investigations have uncovered targeted cargo theft operations that successfully intercepted nearly $111M in specialized data center server hardware and high-value components. Criminal networks are deploying staged highway collision tactics to forcibly divert loaded commercial tractor-trailers.",
+                "High-tech equipment manufacturers and contract motor carriers are incurring higher insurance deductibles and deploying specialized security escorts to safeguard high-value loads. Shippers must deploy real-time condition-tracking hardware and enforce strict non-stop corridor transit protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME LOGISTICS: TANKER EXPANSION",
+            "nextUpTease": "AIR FREIGHT: $204M GATEWAY EXPANSION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T18:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME LOGISTICS: TANKER EXPANSION",
+            "heading": "AIR FREIGHT: $204M GATEWAY EXPANSION",
             "paragraphs": [
-                "Minsheng Financial Leasing has finalized an agreement for four very large crude carrier newbuilds in China in a deal valued at approximately $500M. This massive vessel acquisition extends a rapid fleet expansion strategy aimed at capturing rising energy transport demand across global trade routes.",
-                "Shipowners and charterers must carefully navigate shifting tonnage supplies and changing bunker fuel costs as new vessel deliveries enter active service. Energy logistics planners should factor evolving fleet capacities into long-term freight procurement and risk management models."
+                "DHL Express has committed $204M to triple cargo processing capacity at its major Shenzhen air hub to capture expanding intra-Asia manufacturing trade volumes. The facility expansion introduces high-speed automated sorting infrastructure to accelerate customs clearance and outbound cross-border processing speeds.",
+                "Global electronics and e-commerce enterprises gain enhanced uplift capacity and reliable next-day routing reliability throughout Southern China. International supply chain planners must optimize consolidation schedules to leverage improved throughput at key Asian transport gateways."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-14T16:00:00Z",
                 "Status: Audited & True"
             ]
         }
