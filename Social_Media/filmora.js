@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: DE MINIMIS BURIED",
+                "headline": "CUSTOMS: DE MINIMIS UPHELD",
                 "teaserTitle": "PANAMA CANAL: QUEUE JUMP RECORD",
-                "visual_caption": "The trade court upheld the elimination of the $800 de minimis exemption. Stricter customs enforcement threatens low-value ecommerce airfreight shipments."
+                "visual_caption": "The international trade court upheld the elimination of the $800 de minimis loophole. Stricter customs enforcement now threatens low-value parcel airfreight volumes."
             },
             {
                 "slide_index": 2,
                 "headline": "PANAMA CANAL: QUEUE JUMP RECORD",
                 "teaserTitle": "CONTRACT FREIGHT: RATE SPREAD",
-                "visual_caption": "An empty tanker paid $4.6M to jump the Panama Canal queue. Persistent draft constraints continue to drive spot auction tolls to record highs."
+                "visual_caption": "An LPG tanker secured immediate Panama Canal transit by paying a record $4.6M priority fee. Persistent regional routing bottlenecks continue to drive spot auction tolls higher."
             },
             {
                 "slide_index": 3,
                 "headline": "CONTRACT FREIGHT: RATE SPREAD",
                 "teaserTitle": "MARITIME SECURITY: TANKER STRIKES",
-                "visual_caption": "Middle East shipping disruptions are spreading rate increases into long-term contracts. Shippers face broader pricing pressure amid rising risks."
+                "visual_caption": "Middle East shipping disruptions are driving rate increases from spot markets into long-term contracts. Shippers face broader pricing pressure as lines pass on geopolitical risk."
             },
             {
                 "slide_index": 4,
                 "headline": "MARITIME SECURITY: TANKER STRIKES",
                 "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
-                "visual_caption": "Two commercial tankers were attacked in the Strait of Hormuz. War risk insurance premiums and crude transport costs are surging globally."
+                "visual_caption": "Two commercial oil tankers were struck during overnight transits through the Strait of Hormuz. Marine war risk insurance premiums are soaring as vessels avoid high-risk chokepoints."
             },
             {
                 "slide_index": 5,
                 "headline": "AIR CARGO: PEAK SEASON SLUMP",
                 "teaserTitle": "TRUCKING CAPACITY: DRIVER PAY",
-                "visual_caption": "Global air cargo spot rates dropped 6% month-over-month. Carriers are cutting capacity allocations to prevent load factor erosion."
+                "visual_caption": "Global air cargo spot rates declined 6% MoM amid muted early peak season activity. International carriers are adjusting capacity allocations downward to protect load factors."
             },
             {
                 "slide_index": 6,
                 "headline": "TRUCKING CAPACITY: DRIVER PAY",
                 "teaserTitle": "RAILWAY MERGER: ANTITRUST BLOCK",
-                "visual_caption": "Motor carriers face rising driver pay pressure as truckload capacity tightens. Strict ELD enforcement is accelerating national driver attrition."
+                "visual_caption": "Motor carriers face mounting driver pay pressure as equipment capacity tightens across domestic corridors. Strict federal compliance enforcement is accelerating fleet attrition and reducing hours."
             },
             {
                 "slide_index": 7,
                 "headline": "RAILWAY MERGER: ANTITRUST BLOCK",
-                "teaserTitle": "",
-                "visual_caption": "State AGs are intensifying opposition against the proposed Class I rail merger. Shippers face regulatory uncertainty and potential service delays."
+                "teaserTitle": "FINAL SLIDE",
+                "visual_caption": "State AGs and lawmakers are escalating opposition against the proposed railway merger. Rail shippers face prolonged regulatory uncertainty and potential service interruptions."
             },
             {
                 "slide_index": 8,

@@ -1,14 +1,14 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DE MINIMIS LOOPHOLE LEGALLY",
-        "titleBlue": "BURIED",
+        "titleWhite": "DE MINIMIS ELIMINATION UPHELD BY TRADE",
+        "titleBlue": "COURT",
         "footerSummary": "Trade court upholds de minimis elimination as customs crackdowns threaten low-value ecommerce airfreight demand and tighten compliance rules."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS: DE MINIMIS BURIED",
+            "heading": "CUSTOMS: DE MINIMIS UPHELD",
             "paragraphs": [
                 "The international trade court has officially upheld the elimination of the US de minimis exemption, permanently closing the historic eight hundred dollar loophole for low-value parcel imports. Stricter customs crackdowns on direct-to-consumer shipments are now threatening to reverse cargo volume gains across major airfreight hubs.",
                 "Importers and logistics providers face immediate operational overhauls as duty collections expand to cover millions of previously exempt parcels. Supply chain planners must restructure customs data architecture to avoid severe border delays and escalating compliance penalties."
@@ -16,7 +16,7 @@ const dailyData = {
             "imageUrl": "",
             "nextUpTease": "PANAMA CANAL: QUEUE JUMP RECORD",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
@@ -46,7 +46,7 @@ const dailyData = {
             "imageUrl": "",
             "nextUpTease": "MARITIME SECURITY: TANKER STRIKES",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
@@ -61,7 +61,7 @@ const dailyData = {
             "imageUrl": "",
             "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
             "tags": [
-                "Source: https://www.maritime-executive.com",
+                "Source: https://maritime-executive.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
@@ -106,8 +106,8 @@ const dailyData = {
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
