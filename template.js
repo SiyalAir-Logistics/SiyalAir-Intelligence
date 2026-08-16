@@ -1,50 +1,80 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP PASSES",
-        "titleBlue": "4.6M",
-        "footerSummary": "An empty tanker sets a new fee record as Middle East conflict forces maritime detours, driving unprecedented costs across global shipping networks."
+        "titleWhite": "DE MINIMIS LOOPHOLE",
+        "titleBlue": "DEAD",
+        "footerSummary": "Trade courts strike down the final avenues for low-value exemptions, forcing shippers to restructure cross-border ecommerce compliance models immediately."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME LOGISTICS: PANAMA CANAL QUEUE JUMP",
+            "heading": "TRADE POLICY: DE MINIMIS LOOPHOLE DEAD",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker paid 4.6M USD to cut the Panama Canal queue, establishing a historic high for priority transit fees. This unprecedented expenditure underscores the severe operational bottlenecks and navigational constraints gripping critical global maritime routes.",
-                "Vessel operators face mounting financial pressures and complex routing dilemmas as geopolitical conflicts divert traditional commercial pathways. Logistics executives must factor exorbitant priority fees into lane profitability models to prevent severe supply chain delays."
+                "The U.S. Court of International Trade has officially upheld the total elimination of de minimis exemptions, closing off the remaining legal pathways for duty-free low-value imports. This landmark judicial ruling strips online retail supply chains of historical tariff avoidance benefits that previously streamlined cross-border parcel delivery.",
+                "Importers must immediately overhaul their customs data architectures and prep for heightened administrative burdens across inbound entry points. Failing to adapt compliance frameworks risks severe border delays and unexpected retroactive duty assessments on high-volume parcel flows."
             ],
             "imageUrl": "",
-            "nextUpTease": "TANKER OPERATIONS: STRAIT OF HORMUZ",
+            "nextUpTease": "MARITIME LOGISTICS: RATE SPREAD",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TANKER OPERATIONS: STRAIT OF HORMUZ",
+            "heading": "MARITIME LOGISTICS: RATE SPREAD",
             "paragraphs": [
-                "Two additional commercial tankers sustained direct attacks during overnight transits through the Strait of Hormuz, escalating regional security threats. Persistent military strikes orchestrated by Iran are severely disrupting crucial energy export operations and commercial shipping lanes.",
-                "Crude carriers are increasingly turning off tracking transponders and opting for extended dark voyages to bypass high-risk maritime zones. Transport planners must absorb surging war-risk premiums and navigate extreme volatility in global petroleum supply chains."
+                "Spurred by persistent geopolitical disruptions in the Middle East, ocean freight rate increases are rapidly migrating from spot markets directly into multi-year shipper contracts. Xeneta data indicates that carriers are successfully locking in elevated baseline charges as network volatility becomes an industry standard.",
+                "Logistics procurement teams face aggressive margin compression during upcoming carrier negotiations and annual RFP cycles. Shippers must diversify modal strategies and adopt dynamic routing models to insulate operating budgets from runaway maritime freight costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: FORCED LABOR TARIFFS",
+            "nextUpTease": "AIR CARGO: CUSTOMS CRACKDOWN",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T19:04:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRADE POLICY: FORCED LABOR TARIFFS",
+            "heading": "AIR CARGO: CUSTOMS CRACKDOWN",
+            "paragraphs": [
+                "A sweeping enforcement wave targeting low-value air cargo shipments is threatening to reverse historical volume gains across cross-border ecommerce lanes. Heightened inspection protocols at major gateway hubs are slowing down transit times and increasing terminal dwell metrics for express forwarders.",
+                "Air freight operators are seeing immediate shifts in capacity utilization as shippers re-evaluate expedited inventory strategies in light of added regulatory friction. Logistics managers must factor extended clearance windows into time-sensitive distribution schedules to preserve service-level agreements."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CYBER SECURITY: IDENTITY BREACH",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "CYBER SECURITY: IDENTITY BREACH",
+            "paragraphs": [
+                "A massive security breach at Uber Freight has exposed critical vulnerabilities in digital identity management systems across third-party logistics networks. Unauthorized actors accessed millions of sensitive data files, highlighting widespread gaps in freight platform credential security.",
+                "Transport intermediaries face escalating risks of fraudulent load-tendering and sophisticated cargo theft schemes exploiting compromised user profiles. Shippers and brokers must implement multi-factor authentication and rigorous vendor verification protocols to safeguard supply chain networks."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TRADE REGULATION: FORCED LABOR",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "TRADE REGULATION: FORCED LABOR",
             "paragraphs": [
                 "The Office of the United States Trade Representative has officially advanced new tariffs targeting 60 trading partners under Section 301. These sweeping enforcement measures coincide with the expiration of older trade provisions, significantly tightening regulatory oversight on imports.",
                 "Importers face immediate compliance challenges and heightened administrative burdens as customs authorities audit cross-border supply chains. Supply chain directors must conduct rigorous vendor vetting to mitigate the financial fallout from expanded tariff enforcement."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCIAL CRIME: TAX SCAM ARRESTS",
+            "nextUpTease": "PORT INFRASTRUCTURE: CLEAN ENERGY",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-15T00:00:00Z",
@@ -52,62 +82,32 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "FINANCIAL CRIME: TAX SCAM ARRESTS",
-            "paragraphs": [
-                "Federal law enforcement agencies have intensified a nationwide investigation into a massive 54-count tax fraud scheme exploiting independent truckers. Unscrupulous financial services providers have compromised thousands of self-employed motor carriers through fraudulent tax filings and unremitted payments.",
-                "Carrier networks face escalating retention risks and operational disruptions as affected drivers confront severe legal and financial liabilities. Logistics enterprises must implement robust compliance verification programs to safeguard independent contractor relationships."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CUSTOMS COMPLIANCE: COCAINE SEIZURE",
-            "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "CUSTOMS COMPLIANCE: COCAINE SEIZURE",
-            "paragraphs": [
-                "British border authorities intercepted a massive 2.9 ton cocaine consignment hidden within a commercial banana shipment at London Gateway. The illicit cargo, valued at an estimated 313M USD, highlights persistent vulnerabilities in containerized maritime logistics security.",
-                "Intensified drug smuggling operations are triggering rigorous port inspections and compounding dwell times across major European import terminals. Freight forwarders must prepare for extended cargo release windows and heightened scrutiny on perishable commodity lanes."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "RAIL INFRASTRUCTURE: INTERMODAL SURCHARGES",
-            "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-14T15:17:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "RAIL INFRASTRUCTURE: INTERMODAL SURCHARGES",
+            "heading": "PORT INFRASTRUCTURE: CLEAN ENERGY",
             "paragraphs": [
-                "Union Pacific has implemented punitive intermodal surcharges reaching 1,000 USD per box across congested California ramp locations. Chronic equipment imbalances and heavy terminal backlogs have necessitated aggressive pricing strategies to restore network fluidity.",
-                "Rail shippers face immediate margin compression and unexpected freight budget variances across key transcontinental corridors. Transportation buyers must evaluate alternative highway routing options and optimize ramp selection to mitigate rising costs."
+                "The ports of Los Angeles and Long Beach have agreed to dramatically increase financial incentives for ocean carriers deploying low-emission vessels. This initiative aims to accelerate terminal decarbonization while addressing stringent regional clean air mandates.",
+                "Shipping lines must evaluate fleet allocation strategies to capture available port subsidies and avoid potential emissions-based terminal penalties. Terminal operators are prioritizing green infrastructure investments to accommodate shifting carrier fleet capabilities ahead of regulatory deadlines."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: CAPACITY EXPANSION",
+            "nextUpTease": "RAILWAY MERGERS: STATE OPPOSITION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR FREIGHT: CAPACITY EXPANSION",
+            "heading": "RAILWAY MERGERS: STATE OPPOSITION",
             "paragraphs": [
-                "DHL Express has tripled its dedicated air cargo capacity in Shenzhen through a major terminal expansion project. This strategic investment strengthens regional logistics infrastructure to support surging export volumes across Asian manufacturing hubs.",
-                "Supply chain leaders gain enhanced throughput capabilities for high-velocity cross-border ecommerce and time-sensitive cargo movements. Shippers should leverage expanded gateway capacity to optimize delivery timelines ahead of the upcoming peak season."
+                "A coalition of 6 state attorneys general has formally opposed the proposed Union Pacific and Norfolk Southern merger, calling projected competitive benefits insufficient. State regulators argue that the consolidation will degrade intermodal service quality and concentrate market power along vital freight corridors.",
+                "Rail shippers face prolonged regulatory uncertainty and potential legal roadblocks that threaten to delay critical transcontinental network alignments. Logistics planners must model alternative routing scenarios to protect freight velocity against impending rail sector consolidation."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
