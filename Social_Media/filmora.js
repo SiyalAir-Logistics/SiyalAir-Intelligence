@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS COMPLIANCE: USTR FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME LOGISTICS: PANAMA CANAL QUEUE JUMP",
-                "visual_caption": "USTR implements forced labor tariffs across 60 trading partners under Section 301. Shippers face immediate documentation audits and severe compliance penalties."
+                "headline": "CUSTOMS LAW: DE MINIMIS EXEMPTION TERMINATED",
+                "teaserTitle": "EXPORT CONTROLS: BAE ARMS PENALTY",
+                "visual_caption": "The federal trade court has upheld the termination of the $800 de minimis tariff exemption. Importers now face mandatory customs entry filings and higher clearance costs across all air express shipments."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME LOGISTICS: PANAMA CANAL QUEUE JUMP",
-                "teaserTitle": "SURFACE FREIGHT: CH ROBINSON VERDICT",
-                "visual_caption": "An LPG tanker secured a record $4.6M queue-jump fee through the Panama Canal. Vessel operators utilize steep premiums to bypass severe transit delays."
+                "headline": "EXPORT CONTROLS: BAE ARMS PENALTY",
+                "teaserTitle": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
+                "visual_caption": "The State Department assessed a $36M export violation penalty on BAE Systems. $18M of the penalty is suspended for internal export control compliance programs."
             },
             {
                 "slide_index": 3,
-                "headline": "SURFACE FREIGHT: CH ROBINSON VERDICT",
-                "teaserTitle": "TRADE POLICY: CHINA EVASION CRACKDOWN",
-                "visual_caption": "C.H. Robinson earnings highlighted a $604M nuclear verdict regarding vicarious liability. Freight brokers face escalating risks from negligent hiring claims."
+                "headline": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
+                "teaserTitle": "BULK MARITIME: DIANA DROPS GENCO DEAL",
+                "visual_caption": "A severe data breach at Uber Freight has compromised more than 1M carrier files. Logistics operators face heightened risks of digital load theft and carrier identity fraud."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE POLICY: CHINA EVASION CRACKDOWN",
-                "teaserTitle": "RETAIL LOGISTICS: INVENTORY PEAK VOLUMES",
-                "visual_caption": "White House reports uncover widespread illicit transshipment and false origin claims. Federal agencies are intensifying investigations into tariff evasion."
+                "headline": "BULK MARITIME: DIANA DROPS GENCO DEAL",
+                "teaserTitle": "AUTOMOTIVE: GM $4.5B RESILIENCE FUND",
+                "visual_caption": "Diana Shipping has formally pulled its multi-million dollar takeover bid for Genco Shipping and Trading. The collapse halts dry bulk fleet consolidation, leaving spot charter rates exposed to ongoing volatility."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL LOGISTICS: INVENTORY PEAK VOLUMES",
-                "teaserTitle": "AIR CARGO: PEAK SEASON RATE SLUMP",
-                "visual_caption": "NRF reports major U.S. port imports peaked early as retailers rushed inventory in. Total July retail sales reached $763.6B amidst shifting consumer demand."
+                "headline": "AUTOMOTIVE: GM $4.5B RESILIENCE FUND",
+                "teaserTitle": "FREIGHT FRAUD: FBI PROBES TAX SCHEME",
+                "visual_caption": "General Motors created a $4.5B strategic fund to insulate parts sourcing. The capital targets component buffers to prevent costly production line shutdowns."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: PEAK SEASON RATE SLUMP",
-                "teaserTitle": "LABOR DYNAMICS: TRUCKING LAYOFF WAVE",
-                "visual_caption": "Global air cargo spot rates declined 6% MoM amid softer peak season activity. Stricter customs enforcement on low-value parcels is cooling volumes."
+                "headline": "FREIGHT FRAUD: FBI PROBES TAX SCHEME",
+                "teaserTitle": "AIR CARGO: DHL $204M SHENZHEN EXPANSION",
+                "visual_caption": "The FBI is investigating a 54-count tax fraud case impacting independent truck drivers nationwide. Brokerages must audit small carrier partners to maintain stable fleet capacity."
             },
             {
                 "slide_index": 7,
-                "headline": "LABOR DYNAMICS: TRUCKING LAYOFF WAVE",
+                "headline": "AIR CARGO: DHL $204M SHENZHEN EXPANSION",
                 "teaserTitle": "",
-                "visual_caption": "Supply chain providers slashed over 1,200 jobs following terminal closures and downsizing. Motor carriers are aggressively trimming capacity to protect margins."
+                "visual_caption": "DHL Express invested $204M to triple capacity at its Shenzhen air hub. The facility expands daily outbound handling to over 100K packages per hour."
             },
             {
                 "slide_index": 8,

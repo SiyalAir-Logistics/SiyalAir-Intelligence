@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CUSTOMS COMPLIANCE USTR FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR advances forced labor tariffs across 60 trading partners as Section 301 rules take effect, tightening enforcement on global shippers."
+        "titleWhite": "DE MINIMIS EXEMPTION",
+        "titleBlue": "TERMINATED",
+        "footerSummary": "Trade court upholds termination of the $800 de minimis duty threshold, exposing cross-border air cargo to mandatory formal customs entry and tariff costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS COMPLIANCE: USTR FORCED LABOR TARIFFS",
+            "heading": "CUSTOMS LAW: DE MINIMIS EXEMPTION TERMINATED",
             "paragraphs": [
-                "The Office of the United States Trade Representative has formally announced the implementation of strict forced labor-based tariffs targeting 60 trading nations under Section 301 regulations. The aggressive enforcement framework imposes mandatory duty assessments and heightened documentation scrutiny on supply chains utilizing questionable labor sources across international manufacturing hubs.",
-                "Importers and global shipping directors face immediate margin compression, complex supply chain auditing demands, and severe border clearance delays. Logistics professionals must rapidly verify tier 1 through tier 3 supplier provenance to avoid catastrophic customs seizures and escalating compliance fines."
+                "The federal trade court has formally upheld the executive suspension of the Section 321 de minimis tariff exemption on low-cost import consignments. The ruling eliminates duty-free entry for shipments valued under $800, forcing millions of parcels directly into standard formal customs clearance queues.",
+                "Cross-border e-commerce sellers and air freight consolidators face immediate duty exposure, higher administrative broker fees, and severe dwell times at air gateways. Logistics planners must urgently adapt electronic data interchange systems to process mandatory entry documentation and mitigate clearance gridlock."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME LOGISTICS: PANAMA CANAL QUEUE JUMP",
+            "nextUpTease": "EXPORT CONTROLS: BAE ARMS PENALTY",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
-                "Published: 2026-08-16T08:00:00Z",
+                "Source: https://theloadstar.com/premium-de-minimis-is-dead-and-now-legally-buried/",
+                "Published: 2026-08-16T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME LOGISTICS: PANAMA CANAL QUEUE JUMP",
+            "heading": "EXPORT CONTROLS: BAE ARMS PENALTY",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker has bypassed standard scheduling restrictions after executing a record $4.6M queue-jump fee through the Panama Canal. This transaction surpasses the previous historical threshold of $3.98M, highlighting the extreme financial measures operators utilize to circumvent severe transit bottlenecks.",
-                "Liquid bulk charterers and ocean carriers face mounting voyage cost escalations and tighter scheduling constraints driven by regional water level deficits and heavy commercial traffic. Vessel operators must evaluate the steep financial trade-off of priority fees against extensive multi-day delays across key maritime chokepoints."
+                "The State Department has assessed a $36M civil penalty against BAE Systems for comprehensive violations of the International Traffic in Arms Regulations. Under the administrative consent agreement, the defense contractor will invest $18M of the penalty into mandated internal compliance overhauls.",
+                "Global aerospace and defense shippers confront intensified regulatory scrutiny regarding dual-use freight handling and technical data controls across cross-border lanes. Supply chain compliance teams must audit third-party logistics partners to ensure full adherence to federal export licensing requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "SURFACE FREIGHT: CH Robinson VERDICT",
+            "nextUpTease": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-16T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SURFACE FREIGHT: CH ROBINSON VERDICT",
+            "heading": "CYBERSECURITY: UBER FREIGHT DATA BREACH",
             "paragraphs": [
-                "C.H. Robinson executive earnings discussions centered heavily on a massive $604M nuclear verdict stemming from vicarious liability and negligent hiring litigation. The legal judgment has amplified industry-wide concerns regarding broker exposure, third-party carrier vetting protocols, and contractor safety standards.",
-                "Freight brokerages and 3PL providers face surging liability insurance premiums and the urgent necessity to overhaul carrier qualification frameworks. Risk mitigation officers must enforce rigorous onboarding standards to shield operations from catastrophic legal and financial exposure across domestic lanes."
+                "A major cybersecurity breach at Uber Freight has compromised over 1M operational and carrier compliance files through social engineering exploits. The data breach has exposed critical carrier identity records, rate contracts, and proprietary freight routing files to unauthorized third parties.",
+                "Digital freight brokerages and connected logistics networks face amplified risks of cargo diversion, identity spoofing, and automated double-brokering fraud. Risk managers must enforce multi-factor authentication and zero-trust identity verification protocols across all third-party carrier portals."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE POLICY: CHINA EVASION CRACKDOWN",
+            "nextUpTease": "BULK MARITIME: DIANA DROPS GENCO DEAL",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-15T14:30:00Z",
+                "Source: https://theloadstar.com/premium-a-phone-call-a-million-files-uber-freight-breach-exposes-logistics-identity-security-gap/",
+                "Published: 2026-08-15T18:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRADE POLICY: CHINA EVASION CRACKDOWN",
+            "heading": "BULK MARITIME: DIANA DROPS GENCO DEAL",
             "paragraphs": [
-                "A comprehensive White House report reveals widespread illicit transshipment schemes involving relabeling, minor processing, and false country-of-origin claims designed to bypass federal tariffs. U.S. authorities have launched sweeping investigations into dozens of intermediary nations accused of facilitating tariff evasion for Chinese goods.",
-                "Importers and cross-border distribution managers confront heightened audit frequencies, retroactive duty assessments, and strict documentation mandates. Supply chain planners must diversify sourcing corridors and deploy advanced digital traceability tools to verify accurate product lineage."
+                "Greek dry bulk owner Diana Shipping has formally withdrawn its long-running takeover bid for Genco Shipping and Trading following an impasse over valuation terms. The deal collapsed after Genco established terms establishing a company valuation benchmark near $36.91 per share.",
+                "The termination of merger talks halts fleet consolidation plans across major Capesize and Ultramax dry bulk spot trading markets. Commodity charterers and bulk vessel operators must prepare for continued fragmented vessel availability and persistent rate volatility across transpacific dry bulk routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL LOGISTICS: INVENTORY PEAK VOLUMES",
+            "nextUpTease": "AUTOMOTIVE: GM $4.5B RESILIENCE FUND",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-15T11:20:00Z",
+                "Source: https://splash247.com/diana-pulls-plug-on-genco-takeover/",
+                "Published: 2026-08-17T06:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RETAIL LOGISTICS: INVENTORY PEAK VOLUMES",
+            "heading": "AUTOMOTIVE: GM $4.5B RESILIENCE FUND",
             "paragraphs": [
-                "National Retail Federation data indicates that import volumes at major U.S. ports have peaked early as businesses aggressively build up safety stock ahead of impending tariff increases. Total July retail sales reached $763.6B, demonstrating resilient consumer demand despite macroeconomic pressures and tightening credit.",
-                "Supply chain executives must navigate premature warehouse inventory saturation and elevated holding costs heading into the peak shipping season. Distribution planners need to optimize facility throughput and rebalance inventory positioning to prevent severe terminal congestion and storage gridlock."
+                "General Motors has announced the allocation of a dedicated $4.5B strategic safety fund designed to buffer its tier 1 manufacturing supply chain against future geopolitical and sourcing shocks. The capital reserve targets tier 2 semiconductor buffers, tooling redundancy, and domestic battery raw material access.",
+                "Automotive original equipment manufacturers are actively pivoting away from lean, just-in-time inventory models toward capital-intensive inventory shielding. Supply chain executives must evaluate the high carrying costs of buffer inventory against the severe financial penalties of assembly line shutdowns."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PEAK SEASON RATE SLUMP",
+            "nextUpTease": "FREIGHT FRAUD: FBI PROBES TAX SCHEME",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-15T09:15:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-16T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR CARGO: PEAK SEASON RATE SLUMP",
+            "heading": "FREIGHT FRAUD: FBI PROBES TAX SCHEME",
             "paragraphs": [
-                "Global air cargo spot rates have dropped 6% month over month as muted peak season activity signals a softer-than-expected second-half freight market. Xeneta reports indicate that tougher customs enforcement on low-value e-commerce shipments is successfully cooling demand across major transpacific air corridors.",
-                "Air freight forwarders and cargo airlines face shifting pricing dynamics that favor cost-conscious shippers over carriers. Logistics managers should leverage current soft spot rates to negotiate favorable short-term capacity contracts before fourth-quarter volume spikes materialize."
+                "The Federal Bureau of Investigation has launched a nationwide sweep identifying independent truckers impacted by a 54-count federal tax fraud indictment against Genuine Financial Services. The fraudulent scheme left hundreds of owner-operators facing sudden operational disruption, unfiled tax returns, and severe financial penalties.",
+                "Surface freight networks face localized capacity friction as impacted owner-operators encounter bank freezes and carrier authority suspensions. 3PL brokerages and fleet managers must perform comprehensive financial health audits across independent contractor pools to ensure continuous network capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR DYNAMICS: TRUCKING LAYOFF WAVE",
+            "nextUpTease": "AIR CARGO: DHL $204M SHENZHEN EXPANSION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-15T08:45:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-16T15:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LABOR DYNAMICS: TRUCKING LAYOFF WAVE",
+            "heading": "AIR CARGO: DHL $204M SHENZHEN EXPANSION",
             "paragraphs": [
-                "Recent freight distress reports show supply chain providers cutting more than 1,200 jobs, alongside major carrier terminal closures and manufacturing footprint reductions. ArcBest announced the closure of 10 LTL terminals, while truck manufacturers eliminated 1,341 positions at Ohio facilities amid tightening margins.",
-                "Motor carriers and logistics enterprises are aggressively pruning operating expenses to survive prolonged overcapacity and depressed spot freight rates. Fleet executives must streamline network density and embrace automation technologies to maintain service reliability through the freight downturn."
+                "DHL Express has completed a $204M infrastructure expansion at its major Shenzhen air hub, effectively tripling sorting capacity to support surging South China express volume. The automated gateway integrates high-speed sorting tech capable of managing over 100K parcels per hour.",
+                "Air freight forwarders and high-tech electronics shippers gain expanded uplift reliability and faster export customs throughput across the Pearl River Delta. Supply chain directors must evaluate dedicated hub space against volatile commercial belly-hold capacity across competitive transpacific trade routes."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-15T16:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-16T11:10:00Z",
                 "Status: Audited & True"
             ]
         }
