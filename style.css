@@ -538,24 +538,23 @@ body {
 
 /* Tactical Corner Brackets locked strictly to the card box */
 .tactical-card::before, .hud-body::before, .sub-slide-style .detail-text::before {
-    content: ``;
+    content: "";
     position: absolute;
-    top: -3px; 
-    left: -3px;
-    width: 16px; 
-    height: 16px;
-    border-top: 3px solid var(--aeon-blue);
-    border-left: 3px solid var(--aeon-blue);
+    top: -4px; 
+    left: -4px;
+    width: 20px; 
+    height: 20px;
+    border-top: 4px solid var(--aeon-blue);
+    border-left: 4px solid var(--aeon-blue);
 }
 
 .tactical-card::after, .hud-body::after, .sub-slide-style .detail-text::after {
-    content: ``;
+    content: "";
     position: absolute;
-    bottom: -3px; 
-    for: none;
-    right: -3px;
-    width: 16px; 
-    height: 16px;
-    border-bottom: 3px solid var(--aeon-blue);
-    border-right: 3px solid var(--aeon-blue);
+    bottom: -4px; 
+    right: -4px;
+    width: 20px; 
+    height: 20px;
+    border-bottom: 4px solid var(--aeon-blue);
+    border-right: 4px solid var(--aeon-blue);
 }
