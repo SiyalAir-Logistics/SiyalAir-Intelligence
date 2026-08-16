@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TRADE COURT DE MINIMIS",
-        "titleBlue": "BAN",
-        "footerSummary": "Federal trade court upholds termination of the $800 de minimis loophole while UP slaps $1,000 surcharges on California intermodal boxes."
+        "titleWhite": "CUSTOMS COMPLIANCE USTR FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR advances forced labor tariffs across 60 trading partners as Section 301 rules take effect, tightening enforcement on global shippers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS COMPLIANCE: TRADE COURT DE MINIMIS BAN",
+            "heading": "CUSTOMS COMPLIANCE: USTR FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The U.S. Court of International Trade has formally upheld the federal elimination of the $800 de minimis tariff exemption on cross-border e-commerce consignments. The legal decision permanently shutters duty-free entry pathways previously leveraged by international direct-to-consumer marketplaces handling millions of daily parcels.",
-                "Cross-border retailers and air freight consolidators face immediate duty collection liabilities, mandatory formal customs entry filings, and substantial processing bottlenecks at air cargo hubs. Shippers must urgently restructure import classification workflows and integrate automated clearance platforms to prevent catastrophic customs impoundments."
+                "The Office of the United States Trade Representative has formally announced the implementation of strict forced labor-based tariffs targeting 60 trading nations under Section 301 regulations. The aggressive enforcement framework imposes mandatory duty assessments and heightened documentation scrutiny on supply chains utilizing questionable labor sources across international manufacturing hubs.",
+                "Importers and global shipping directors face immediate margin compression, complex supply chain auditing demands, and severe border clearance delays. Logistics professionals must rapidly verify tier 1 through tier 3 supplier provenance to avoid catastrophic customs seizures and escalating compliance fines."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBER SECURITY: 1M FILE FREIGHT BREACH",
+            "nextUpTease": "MARITIME LOGISTICS: PANAMA CANAL QUEUE JUMP",
             "tags": [
-                "Source: https://theloadstar.com/de-minimis-is-dead-and-now-legally-buried/",
-                "Published: 2026-08-16T08:30:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs_on_60_trading_partners",
+                "Published: 2026-08-16T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CYBER SECURITY: 1M FILE FREIGHT BREACH",
+            "heading": "MARITIME LOGISTICS: PANAMA CANAL QUEUE JUMP",
             "paragraphs": [
-                "A major security breach at Uber Freight has compromised more than 1M digital logistics files following a voice-phishing identity deception attack. The unauthorized access targeted sensitive carrier records, pricing contracts, and confidential freight routing schedules across enterprise shipping networks.",
-                "Logistics networks face acute exposure to identity impersonation, fraudulent double-brokering schemes, and systemic freight diversion risks. Risk management officers must immediately mandate multi-factor biometric authentication protocols and conduct forensic audits on all active third-party carrier interfaces."
+                "An empty liquefied petroleum gas tanker has bypassed standard scheduling restrictions after executing a record $4.6M queue-jump fee through the Panama Canal. This transaction surpasses the previous historical threshold of $3.98M, highlighting the extreme financial measures operators utilize to circumvent severe transit bottlenecks.",
+                "Liquid bulk charterers and ocean carriers face mounting voyage cost escalations and tighter scheduling constraints driven by regional water level deficits and heavy commercial traffic. Vessel operators must evaluate the steep financial trade-off of priority fees against extensive multi-day delays across key maritime chokepoints."
             ],
             "imageUrl": "",
-            "nextUpTease": "EXPORT COMPLIANCE: $36M DEFENSE PENALTY",
+            "nextUpTease": "SURFACE FREIGHT: CH Robinson VERDICT",
             "tags": [
-                "Source: https://theloadstar.com/a-phone-call-a-million-files-uber-freight-breach-exposes-logistics-identity-security-gap/",
-                "Published: 2026-08-15T19:45:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EXPORT COMPLIANCE: $36M DEFENSE PENALTY",
+            "heading": "SURFACE FREIGHT: CH ROBINSON VERDICT",
             "paragraphs": [
-                "The U.S. Department of State has imposed a $36M civil penalty against global defense contractor BAE Systems for extensive violations of the International Traffic in Arms Regulations. The regulatory consent agreement suspends $18M of the total financial assessment on condition of internal compliance infrastructure restructuring.",
-                "Aerospace logistics providers and specialized defense forwarders confront tightened export screening protocols and expanded documentation requirements across international supply chains. Compliance teams must re-examine tech-data transfer channels and enforce strict audit oversight on cross-border defense freight movements."
+                "C.H. Robinson executive earnings discussions centered heavily on a massive $604M nuclear verdict stemming from vicarious liability and negligent hiring litigation. The legal judgment has amplified industry-wide concerns regarding broker exposure, third-party carrier vetting protocols, and contractor safety standards.",
+                "Freight brokerages and 3PL providers face surging liability insurance premiums and the urgent necessity to overhaul carrier qualification frameworks. Risk mitigation officers must enforce rigorous onboarding standards to shield operations from catastrophic legal and financial exposure across domestic lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: $204M EXPRESS HUB EXPANSION",
+            "nextUpTease": "TRADE POLICY: CHINA EVASION CRACKDOWN",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/bae-systems-to-pay-36m-for-breaching-us-arms-export-regs",
-                "Published: 2026-08-16T12:15:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-15T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: $204M EXPRESS HUB EXPANSION",
+            "heading": "TRADE POLICY: CHINA EVASION CRACKDOWN",
             "paragraphs": [
-                "DHL Express has finalized a $204M expansion of its Shenzhen Gateway, tripling cargo processing capability across its key South China air freight transit hub. The capital investment adds advanced automated sorting infrastructure to accommodate rising cross-border express volumes and high-tech manufacturing exports.",
-                "Electronics manufacturers and air forwarders gain substantial intra-Asian departure frequency and faster customs clearance cycles along crucial transpacific lanes. Sourcing planners should leverage enhanced regional consolidation points to compress transit lead times before fourth-quarter shipping surges."
+                "A comprehensive White House report reveals widespread illicit transshipment schemes involving relabeling, minor processing, and false country-of-origin claims designed to bypass federal tariffs. U.S. authorities have launched sweeping investigations into dozens of intermediary nations accused of facilitating tariff evasion for Chinese goods.",
+                "Importers and cross-border distribution managers confront heightened audit frequencies, retroactive duty assessments, and strict documentation mandates. Supply chain planners must diversify sourcing corridors and deploy advanced digital traceability tools to verify accurate product lineage."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY DISPUTE: 17M TRUCKER RECORDS",
+            "nextUpTease": "RETAIL LOGISTICS: INVENTORY PEAK VOLUMES",
             "tags": [
-                "Source: https://www.freightwaves.com/news/dhl-express-triples-shenzhen-air-cargo-capacity-with-terminal-expansion",
-                "Published: 2026-08-15T17:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-15T11:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REGULATORY DISPUTE: 17M TRUCKER RECORDS",
+            "heading": "RETAIL LOGISTICS: INVENTORY PEAK VOLUMES",
             "paragraphs": [
-                "A coalition of 22 state attorneys general has filed a federal lawsuit to block executive branch mandates demanding full data access to 17M commercial driver records. The legal conflict centers on driver privacy protections versus federal safety and immigration audit operations targeting commercial motor vehicle operators.",
-                "Interstate motor carriers and freight brokerages face intensifying regulatory uncertainty that threatens to sideline certified driver capacity across non-domiciled licensing channels. Logistics directors must monitor jurisdictional enforcement actions closely to mitigate driver shortages along core interstate freight lanes."
+                "National Retail Federation data indicates that import volumes at major U.S. ports have peaked early as businesses aggressively build up safety stock ahead of impending tariff increases. Total July retail sales reached $763.6B, demonstrating resilient consumer demand despite macroeconomic pressures and tightening credit.",
+                "Supply chain executives must navigate premature warehouse inventory saturation and elevated holding costs heading into the peak shipping season. Distribution planners need to optimize facility throughput and rebalance inventory positioning to prevent severe terminal congestion and storage gridlock."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL INTERMODAL: $1,000 CONTAINER SURCHARGE",
+            "nextUpTease": "AIR CARGO: PEAK SEASON RATE SLUMP",
             "tags": [
-                "Source: https://www.freightwaves.com/news/states-sue-trump-administration-over-bid-to-access-17-million-cdl-records",
-                "Published: 2026-08-15T21:10:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-15T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAIL INTERMODAL: $1,000 CONTAINER SURCHARGE",
+            "heading": "AIR CARGO: PEAK SEASON RATE SLUMP",
             "paragraphs": [
-                "Union Pacific has instituted a $1,000 surcharge per box on excess intermodal container moves originating out of Southern California terminals due to sustained equipment imbalances. The punitive fee structure penalizes non-contract spot intermodal volume as domestic rail networks struggle with container repositioning delays.",
-                "Domestic intermodal shippers face sudden double-digit cost increases and severe allocation caps across transcontinental rail corridors. Freight managers must balance paying rail surcharges against shifting time-critical cargo into tightening long-haul over-the-road trucking markets."
+                "Global air cargo spot rates have dropped 6% month over month as muted peak season activity signals a softer-than-expected second-half freight market. Xeneta reports indicate that tougher customs enforcement on low-value e-commerce shipments is successfully cooling demand across major transpacific air corridors.",
+                "Air freight forwarders and cargo airlines face shifting pricing dynamics that favor cost-conscious shippers over carriers. Logistics managers should leverage current soft spot rates to negotiate favorable short-term capacity contracts before fourth-quarter volume spikes materialize."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
+            "nextUpTease": "LABOR DYNAMICS: TRUCKING LAYOFF WAVE",
             "tags": [
-                "Source: https://www.joc.com/article/union-pacific-raises-california-intermodal-surcharges-1000-per-box_20260815.html",
-                "Published: 2026-08-15T15:20:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-15T08:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
+            "heading": "LABOR DYNAMICS: TRUCKING LAYOFF WAVE",
             "paragraphs": [
-                "Two commercial oil tankers were struck in the Strait of Hormuz, prompting international fleets to disable tracking transponders and execute dark transits through the chokepoint. The maritime escalation has driven crude oil benchmark prices sharply higher while inflating marine hull risk premiums.",
-                "Global liquid bulk charterers and ocean carriers face extreme war-risk insurance surcharges and mounting voyage delays across Middle Eastern sea routes. Energy supply chain planners must execute contingency bunker hedging and map diversion channels to shield operations from volatile transit expenses."
+                "Recent freight distress reports show supply chain providers cutting more than 1,200 jobs, alongside major carrier terminal closures and manufacturing footprint reductions. ArcBest announced the closure of 10 LTL terminals, while truck manufacturers eliminated 1,341 positions at Ohio facilities amid tightening margins.",
+                "Motor carriers and logistics enterprises are aggressively pruning operating expenses to survive prolonged overcapacity and depressed spot freight rates. Fleet executives must streamline network density and embrace automation technologies to maintain service reliability through the freight downturn."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com/articles/oil-prices-hormuz-tanker-attacks",
-                "Published: 2026-08-14T22:30:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-15T16:00:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS COMPLIANCE: TRADE COURT DE MINIMIS BAN",
-                "teaserTitle": "CYBER SECURITY: 1M FILE FREIGHT BREACH",
-                "visual_caption": "The U.S. Court of International Trade upheld the termination of the $800 de minimis customs exemption. Direct-to-consumer importers now face mandatory formal entries and immediate duty liabilities."
+                "headline": "CUSTOMS COMPLIANCE: USTR FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME LOGISTICS: PANAMA CANAL QUEUE JUMP",
+                "visual_caption": "USTR implements forced labor tariffs across 60 trading partners under Section 301. Shippers face immediate documentation audits and severe compliance penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "CYBER SECURITY: 1M FILE FREIGHT BREACH",
-                "teaserTitle": "EXPORT COMPLIANCE: $36M DEFENSE PENALTY",
-                "visual_caption": "A major voice-phishing breach at Uber Freight exposed more than 1M digital logistics records. Enterprise networks face severe double-brokering risks and carrier identity impersonation."
+                "headline": "MARITIME LOGISTICS: PANAMA CANAL QUEUE JUMP",
+                "teaserTitle": "SURFACE FREIGHT: CH ROBINSON VERDICT",
+                "visual_caption": "An LPG tanker secured a record $4.6M queue-jump fee through the Panama Canal. Vessel operators utilize steep premiums to bypass severe transit delays."
             },
             {
                 "slide_index": 3,
-                "headline": "EXPORT COMPLIANCE: $36M DEFENSE PENALTY",
-                "teaserTitle": "AIR CARGO: $204M EXPRESS HUB EXPANSION",
-                "visual_caption": "The State Department penalized defense contractor BAE Systems $36M for export regulation violations. Specialized logistics providers must expand screening audits across international trade corridors."
+                "headline": "SURFACE FREIGHT: CH ROBINSON VERDICT",
+                "teaserTitle": "TRADE POLICY: CHINA EVASION CRACKDOWN",
+                "visual_caption": "C.H. Robinson earnings highlighted a $604M nuclear verdict regarding vicarious liability. Freight brokers face escalating risks from negligent hiring claims."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: $204M EXPRESS HUB EXPANSION",
-                "teaserTitle": "REGULATORY DISPUTE: 17M TRUCKER RECORDS",
-                "visual_caption": "DHL Express tripled cargo handling capacity in Shenzhen with a $204M gateway expansion. The automated facility accelerates cross-border export velocity for high-tech supply chains."
+                "headline": "TRADE POLICY: CHINA EVASION CRACKDOWN",
+                "teaserTitle": "RETAIL LOGISTICS: INVENTORY PEAK VOLUMES",
+                "visual_caption": "White House reports uncover widespread illicit transshipment and false origin claims. Federal agencies are intensifying investigations into tariff evasion."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATORY DISPUTE: 17M TRUCKER RECORDS",
-                "teaserTitle": "RAIL INTERMODAL: $1,000 CONTAINER SURCHARGE",
-                "visual_caption": "22 states sued to block federal administrative access to 17M commercial driver license records. Motor carriers face growing driver licensing uncertainty across interstate freight networks."
+                "headline": "RETAIL LOGISTICS: INVENTORY PEAK VOLUMES",
+                "teaserTitle": "AIR CARGO: PEAK SEASON RATE SLUMP",
+                "visual_caption": "NRF reports major U.S. port imports peaked early as retailers rushed inventory in. Total July retail sales reached $763.6B amidst shifting consumer demand."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL INTERMODAL: $1,000 CONTAINER SURCHARGE",
-                "teaserTitle": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
-                "visual_caption": "Union Pacific imposed a $1,000 surcharge per box on excess California intermodal container traffic. Shippers must evaluate costly rail fees against tightening over-the-road trucking alternatives."
+                "headline": "AIR CARGO: PEAK SEASON RATE SLUMP",
+                "teaserTitle": "LABOR DYNAMICS: TRUCKING LAYOFF WAVE",
+                "visual_caption": "Global air cargo spot rates declined 6% MoM amid softer peak season activity. Stricter customs enforcement on low-value parcels is cooling volumes."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME SECURITY: HORMUZ TANKER STRIKES",
+                "headline": "LABOR DYNAMICS: TRUCKING LAYOFF WAVE",
                 "teaserTitle": "",
-                "visual_caption": "Fresh attacks on 2 commercial oil tankers in the Strait of Hormuz prompted widespread dark transits. Energy logistics operators face surging war-risk premiums and critical voyage delays."
+                "visual_caption": "Supply chain providers slashed over 1,200 jobs following terminal closures and downsizing. Motor carriers are aggressively trimming capacity to protect margins."
             },
             {
                 "slide_index": 8,
