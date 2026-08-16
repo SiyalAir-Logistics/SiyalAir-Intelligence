@@ -53,7 +53,7 @@
 
     <script src="engine.js"></script>
 
-    <!-- ULTIMATE PERSISTENT ENGINE-AWARE BADGE INJECTOR -->
+    <!-- ULTIMATE PERSISTENT ENGINE-AWARE BADGE & TACTICAL CORNER INJECTOR -->
     <script>
       (function() {
         const forceInject = () => {
@@ -70,9 +70,26 @@
           }
         };
 
+        const forceInjectCorners = () => {
+          const cards = document.querySelectorAll('.detail-text, .tactical-card, .hud-body');
+          cards.forEach(card => {
+            if (!card.querySelector('.corner-tl')) {
+              const tl = document.createElement('span');
+              tl.className = 'corner-tl';
+              card.insertBefore(tl, card.firstChild);
+            }
+            if (!card.querySelector('.corner-br')) {
+              const br = document.createElement('span');
+              br.className = 'corner-br';
+              card.appendChild(br);
+            }
+          });
+        };
+
         // Watch for engine.js DOM rebuilds and mutations instantly
         const observer = new MutationObserver(() => {
           forceInject();
+          forceInjectCorners();
         });
         
         const targetContainer = document.getElementById('render-container') || document.body;
@@ -82,8 +99,15 @@
         });
 
         // Continuous execution loop to bulletproof against engine refresh cycles
-        setInterval(forceInject, 50);
-        window.addEventListener('load', forceInject);
+        setInterval(() => {
+          forceInject();
+          forceInjectCorners();
+        }, 50);
+        
+        window.addEventListener('load', () => {
+          forceInject();
+          forceInjectCorners();
+        });
       })();
     </script>
 </body>
