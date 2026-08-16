@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR FORCED LABOR TARIFFS",
+        "hookTitle": "CUSTOMS LAW: DE MINIMIS ELIMINATION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PANAMA CANAL: QUEUE JUMP FEE",
+                "headline": "CUSTOMS LAW: DE MINIMIS ELIMINATION",
+                "teaserTitle": "ENERGY LOGISTICS: HORMUZ TANKER STRIKES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Office of the United States Trade Representative is implementing Section three oh one tariffs across sixty trading partners. Importers must conduct immediate upstream audits to maintain customs compliance."
+                "narration_line": "The United States Court of International Trade has upheld the total elimination of the eight hundred dollar de minimis customs exemption. Cross-border ecommerce platforms must now process formal entry filings and pay direct duties on every single imported parcel."
             },
             {
                 "slide_index": 2,
-                "headline": "PANAMA CANAL: QUEUE JUMP FEE",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "headline": "ENERGY LOGISTICS: HORMUZ TANKER STRIKES",
+                "teaserTitle": "RAIL FREIGHT: INTERMODAL SURCHARGE HIKE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An empty tanker paid four point six million dollars to bypass Panama Canal draft restrictions. Shippers face heavy spot premiums and fourteen day voyage diversions."
+                "narration_line": "Renewed drone and missile strikes against commercial tankers in the Strait of Hormuz have slashed regional container volumes by sixty-five percent. Marine insurers are canceling standard war risk coverage, forcing carriers to reroute freight around southern Africa."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "teaserTitle": "CRITICAL MINERALS: DEFENSE LOANS",
+                "headline": "RAIL FREIGHT: INTERMODAL SURCHARGE HIKE",
+                "teaserTitle": "AIR CARGO: SHENZHEN HUB EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A major cyber breach at Uber Freight exposed over one million sensitive compliance files. Risk managers must enforce multi-factor authentication across third-party networks."
+                "narration_line": "Union Pacific has implemented an emergency one thousand dollar per container surcharge on international intermodal traffic moving out of California. Shippers face immediate rail budget overruns unless they shift urgent volume to higher-cost long-haul trucking alternatives."
             },
             {
                 "slide_index": 4,
-                "headline": "CRITICAL MINERALS: DEFENSE LOANS",
-                "teaserTitle": "RAIL MERGERS: MULTI-STATE LAWSUIT",
+                "headline": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "teaserTitle": "PORT SECURITY: LONDON GATEWAY INTERCEPTION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Pentagon signed over two billion dollars in conditional loans to secure domestic critical mineral supply chains. Procurement executives must audit raw material origins for federal eligibility."
+                "narration_line": "DHL Express completed a two hundred and four million dollar expansion in Shenzhen, tripling automated air cargo processing throughput. Global forwarders gain reliable intra-Asia uplift capacity, protecting electronics supply chains from widening secondary gateway bottlenecks."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL MERGERS: MULTI-STATE LAWSUIT",
-                "teaserTitle": "MARITIME POLICY: EMISSION INCENTIVES",
+                "headline": "PORT SECURITY: LONDON GATEWAY INTERCEPTION",
+                "teaserTitle": "REGULATION: STATES CDL PRIVACY LAWSUIT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Attorneys General from six states filed a formal brief opposing the Union Pacific and Norfolk Southern merger. Shippers must develop multi-modal rail alternatives to insulate freight budgets."
+                "narration_line": "United Kingdom border authorities seized nearly three hundred million dollars worth of contraband concealed in containerized fruit at London Gateway. Terminal operators are expanding physical container inspections, triggering extended gate dwell times across refrigerated import corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME POLICY: EMISSION INCENTIVES",
-                "teaserTitle": "FREIGHT MARKET: CONTRACT SURGE",
+                "headline": "REGULATION: STATES CDL PRIVACY LAWSUIT",
+                "teaserTitle": "OCEAN CARRIERS: BUENAVENTURA DIVERSION THREAT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Ports of Los Angeles and Long Beach introduced expanded clean energy incentives for zero-emission vessels. Modernized fleets capture preferential berthing economics and reduced port tariffs."
+                "narration_line": "Twenty-two states filed a joint federal lawsuit blocking government mandates requiring the surrender of seventeen million commercial driver records. Fleet compliance officers face legal ambiguity while navigating state privacy protections against impending federal driver enforcement."
             },
             {
                 "slide_index": 7,
-                "headline": "FREIGHT MARKET: CONTRACT SURGE",
-                "teaserTitle": "FINAL SLIDE",
+                "headline": "OCEAN CARRIERS: BUENAVENTURA DIVERSION THREAT",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Persistent maritime disruptions are driving broad rate increases across land-based contract freight networks. Logistics leaders must secure multi-modal capacity agreements to protect operating margins."
+                "narration_line": "Ocean carrier CMA CGM is preparing emergency container diversions as persistent labor disruptions paralyze terminal operations at Buenaventura. Shippers utilizing South American Pacific corridors face compounding demurrage penalties and fourteen-day transshipment delays."
             },
             {
                 "slide_index": 8,

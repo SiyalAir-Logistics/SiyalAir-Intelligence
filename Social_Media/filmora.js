@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PANAMA CANAL: QUEUE JUMP FEE",
-                "visual_caption": "USTR implements Section 301 tariffs on 60 trading partners. Importers must verify component origins to prevent border detentions."
+                "headline": "CUSTOMS LAW: DE MINIMIS ELIMINATION",
+                "teaserTitle": "ENERGY LOGISTICS: HORMUZ TANKER STRIKES",
+                "visual_caption": "The U.S. Court of International Trade upheld the total elimination of the $800 de minimis customs exemption. Cross-border e-commerce platforms must now file formal customs entries and pay direct duties on every imported parcel."
             },
             {
                 "slide_index": 2,
-                "headline": "PANAMA CANAL: QUEUE JUMP FEE",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "visual_caption": "Tanker secures expedited transit for a record $4.6M fee. Shippers weigh auction costs against 14-day Cape Horn diversions."
+                "headline": "ENERGY LOGISTICS: HORMUZ TANKER STRIKES",
+                "teaserTitle": "RAIL FREIGHT: INTERMODAL SURCHARGE HIKE",
+                "visual_caption": "Drone and missile strikes against commercial tankers in the Strait of Hormuz slashed regional container volumes by 65%. Marine insurers are canceling standard war-risk coverage, forcing carriers to reroute freight around southern Africa."
             },
             {
                 "slide_index": 3,
-                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "teaserTitle": "CRITICAL MINERALS: DEFENSE LOANS",
-                "visual_caption": "Cyber breach at Uber Freight exposes over 1M compliance records. Logistics providers face heightened double-brokering vulnerabilities."
+                "headline": "RAIL FREIGHT: INTERMODAL SURCHARGE HIKE",
+                "teaserTitle": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "visual_caption": "Union Pacific implemented an emergency $1,000/box surcharge on intermodal container traffic moving out of California. Shippers face immediate rail budget overruns unless they shift urgent volume to higher-cost long-haul trucking."
             },
             {
                 "slide_index": 4,
-                "headline": "CRITICAL MINERALS: DEFENSE LOANS",
-                "teaserTitle": "RAIL MERGERS: MULTI-STATE LAWSUIT",
-                "visual_caption": "Pentagon inks $2B+ in loans for domestic critical mineral supply chains. Manufacturers must audit upstream inputs for federal compliance."
+                "headline": "AIR CARGO: SHENZHEN HUB EXPANSION",
+                "teaserTitle": "PORT SECURITY: LONDON GATEWAY INTERCEPTION",
+                "visual_caption": "DHL Express completed a $204M expansion in Shenzhen, tripling automated air cargo processing throughput. Global forwarders gain reliable intra-Asia uplift capacity, protecting electronics supply chains from secondary gateway bottlenecks."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL MERGERS: MULTI-STATE LAWSUIT",
-                "teaserTitle": "MARITIME POLICY: EMISSION INCENTIVES",
-                "visual_caption": "6 state AGs file joint brief opposing the UP-NS rail merger. Shippers build out multi-modal alternatives to insulate freight budgets."
+                "headline": "PORT SECURITY: LONDON GATEWAY INTERCEPTION",
+                "teaserTitle": "REGULATION: STATES CDL PRIVACY LAWSUIT",
+                "visual_caption": "UK border authorities seized nearly $300M worth of contraband concealed in containerized fruit at London Gateway. Terminal operators are expanding physical container inspections, triggering extended gate dwell times across refrigerated corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME POLICY: EMISSION INCENTIVES",
-                "teaserTitle": "FREIGHT MARKET: CONTRACT SURGE",
-                "visual_caption": "Ports of LA and Long Beach boost incentives for zero-emission vessels. Modernized fleets capture preferential berthing economics."
+                "headline": "REGULATION: STATES CDL PRIVACY LAWSUIT",
+                "teaserTitle": "OCEAN CARRIERS: BUENAVENTURA DIVERSION THREAT",
+                "visual_caption": "22 states filed a joint federal lawsuit blocking government mandates requiring the surrender of 17M commercial driver records. Fleet compliance officers face legal ambiguity while navigating state privacy protections against federal enforcement."
             },
             {
                 "slide_index": 7,
-                "headline": "FREIGHT MARKET: CONTRACT SURGE",
-                "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Maritime disruptions spread rate increases from spot to contract freight. Enterprise shippers secure multi-modal capacity to protect margins."
+                "headline": "OCEAN CARRIERS: BUENAVENTURA DIVERSION THREAT",
+                "teaserTitle": "",
+                "visual_caption": "Ocean carrier CMA CGM is preparing emergency container diversions as persistent disruptions paralyze terminal operations at Buenaventura. Shippers utilizing South American Pacific corridors face compounding demurrage penalties and 14-day transshipment delays."
             },
             {
                 "slide_index": 8,

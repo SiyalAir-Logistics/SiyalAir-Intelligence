@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR enforces Section 301 tariffs on 60 trading partners as container shipping rates and contract freight pressures climb globally."
+        "titleWhite": "DE MINIMIS",
+        "titleBlue": "ELIMINATION",
+        "footerSummary": "Trade court upholds $800 duty exemption removal as Hormuz tanker strikes collapse Gulf volumes and rail surcharges jump."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "CUSTOMS LAW: DE MINIMIS ELIMINATION",
             "paragraphs": [
-                "The Office of the United States Trade Representative announced the implementation of tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. The enforcement targets supply chains linked to forced labor practices across international manufacturing corridors.",
-                "Importers must conduct rigorous upstream supply chain audits to verify component origins and ensure full customs compliance. Failure to isolate tainted inputs risks severe border detentions and steep financial penalties under updated trade rules."
+                "The U.S. Court of International Trade upheld the comprehensive elimination of the $800 de minimis tariff exemption, establishing binding legal authority for full border enforcement. U.S. Customs and Border Protection is deploying automated tariff screening across all international mail and small parcel processing facilities.",
+                "High-volume ecommerce importers and cross-border logistics operators face immediate mandatory formal customs entries and compounding duty assessments. Enterprise compliance directors must restructure low-value clearance workflows to prevent severe port-of-entry shipment seizures."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL: QUEUE JUMP FEE",
+            "nextUpTease": "ENERGY LOGISTICS: HORMUZ TANKER STRIKES",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PANAMA CANAL: QUEUE JUMP FEE",
+            "heading": "ENERGY LOGISTICS: HORMUZ TANKER STRIKES",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker secured an expedited transit slot through the Panama Canal by paying a record $4.6 million fee. Ongoing water conservation draft restrictions and vessel queues continue to limit daily available bookings across the lock system.",
-                "Shippers face steep spot premiums to bypass severe maritime bottlenecks during peak shipping windows. Logistics directors must weigh multi-million dollar auction costs against extended 14-day voyage diversions around Cape Horn."
+                "Hostile maritime strikes targeted two commercial tankers in the Strait of Hormuz overnight, prompting regional ports including AD Ports to report container volume declines of up to 65%. UKMTO and regional naval forces have placed maritime corridors on high alert as commercial vessel transit risks escalate.",
+                "Ocean carriers and energy charterers face surging war-risk insurance premiums and sudden vessel rerouting schedules around the Cape of Good Hope. Supply chain leaders must model 10 to 14-day transit extensions and secure alternative overland feeder corridors across the Arabian Peninsula."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: UBER FREIGHT BREACH",
+            "nextUpTease": "RAIL FREIGHT: INTERMODAL SURCHARGE HIKE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T19:04:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CYBERSECURITY: UBER FREIGHT BREACH",
+            "heading": "RAIL FREIGHT: INTERMODAL SURCHARGE HIKE",
             "paragraphs": [
-                "A major cybersecurity breach at Uber Freight exposed over one million operational and carrier compliance files, including sensitive brokerage verification records. Forensic audits revealed unauthorized extraction of driver credentials and rate documentation across digital networks.",
-                "Freight brokers and enterprise shippers face heightened identity theft, fraudulent carrier onboarding, and double-brokering vulnerabilities. Risk managers must immediately enforce multi-factor authentication protocols and review third-party API integrations."
+                "Union Pacific instituted a $1,000 per container surcharge on intermodal shipments exiting key California terminal ramps amid persistent inland chassis imbalances and rail yard congestion. The sudden price escalation reflects severe equipment constraints across transcontinental rail corridors.",
+                "Intermodal freight budgets face compounding margin erosion during peak import fulfillment cycles across the Midwest and East Coast. Shippers must evaluate spot-rate dedicated truckload conversions against rail demurrage costs to maintain inventory velocity."
             ],
             "imageUrl": "",
-            "nextUpTease": "CRITICAL MINERALS: DEFENSE LOANS",
+            "nextUpTease": "AIR CARGO: SHENZHEN HUB EXPANSION",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CRITICAL MINERALS: DEFENSE LOANS",
+            "heading": "AIR CARGO: SHENZHEN HUB EXPANSION",
             "paragraphs": [
-                "The Department of Defense signed over $2 billion in conditional loan agreements with domestic advanced materials firms to secure supply chains for critical minerals. Beneficiaries include battery material developers Sila Technologies, Sunrise Energy Metals, and Niron Magnetics.",
-                "Advanced manufacturing and automotive supply chains face structured nearshoring mandates for battery chemistries and rare earth materials. Procurement executives must audit upstream raw material origins to qualify for federal procurement eligibility."
+                "DHL Express completed a $204M infrastructure expansion at its Shenzhen gateway, tripling its automated sorting throughput to meet surging intra-Asia freight demand. The modern facility integrates AI screening and expanded airside capacity to expedite cross-border high-tech cargo transfers.",
+                "Air freight forwarders and electronics manufacturers secure enhanced capacity resilience and reduced dwell times across Pearl River Delta trade lanes. Logistics planners can leverage the upgraded throughput to bypass secondary airport congestion ahead of Q4 shipment surges."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL MERGERS: MULTI-STATE LAWSUIT",
+            "nextUpTease": "PORT SECURITY: LONDON GATEWAY INTERCEPTION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL MERGERS: MULTI-STATE LAWSUIT",
+            "heading": "PORT SECURITY: LONDON GATEWAY INTERCEPTION",
             "paragraphs": [
-                "Attorneys General from six states filed a formal joint brief opposing the proposed merger between Union Pacific and Norfolk Southern, citing anti-competitive consolidation risks. The regulatory filing argues that the combination would reduce rail routing competition and inflate bulk transportation rates.",
-                "Industrial and agricultural shippers encounter regulatory uncertainty over future transcontinental freight rates and switching access. Supply chain strategists must develop diversified multi-modal rail-to-truck transfer capabilities to insulate freight budgets."
+                "UK National Crime Agency officials seized a 2.9-tonne illicit consignment valued at over $300M concealed within containerized agricultural cargo at London Gateway. The major interdiction has triggered heightened physical inspection protocols across all UK deepwater container terminals.",
+                "Perishable and cold-chain cargo operators face multi-day customs inspection delays and potential cold-chain integrity risks at British entry ports. Importers must proactively verify seal integrity chains and audit refrigerated container clearance documentation to minimize dwell expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME POLICY: EMISSION INCENTIVES",
+            "nextUpTease": "REGULATION: STATES CDL PRIVACY LAWSUIT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T15:17:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME POLICY: EMISSION INCENTIVES",
+            "heading": "REGULATION: STATES CDL PRIVACY LAWSUIT",
             "paragraphs": [
-                "The Ports of Los Angeles and Long Beach introduced an expanded clean air program incorporating increased financial incentives for ocean carriers deploying zero-emission vessels. The framework pairs rate rebates with federal funds to build out port-wide EV charging and shore-power infrastructure.",
-                "Transpacific ocean carriers operating modernized fleets will capture preferential berthing economics and reduced port tariff assessments. B2B shippers targeting strict Scope 3 decarbonization metrics can leverage green-corridor vessel assignments to optimize landed costs."
+                "A coalition of 22 U.S. states filed a joint lawsuit against the federal government to block administrative mandates demanding bulk access to 17M commercial driver license records. The legal filing challenges the scope of federal oversight regarding commercial driver licensing and state privacy safeguards.",
+                "Motor carriers and commercial freight brokerages face growing regulatory divergence between state licensing authorities and federal compliance enforcement. Fleet safety executives must monitor jurisdictional compliance standards to mitigate carrier onboarding liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT MARKET: CONTRACT SURGE",
+            "nextUpTease": "OCEAN CARRIERS: BUENAVENTURA DIVERSION THREAT",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FREIGHT MARKET: CONTRACT SURGE",
+            "heading": "OCEAN CARRIERS: BUENAVENTURA DIVERSION THREAT",
             "paragraphs": [
-                "Ongoing maritime transit disruptions and elevated ocean container spot rates have triggered widespread rate increases across land-based contract freight. Shippers face tightening capacity as transportation providers adjust pricing benchmarks to match rising operational friction.",
-                "Enterprise logistics budgets are absorbing compounding cost pressures across both international and domestic distribution lanes. Procurement leaders must re-evaluate carrier contracts and secure multi-modal capacity agreements to protect operating margins."
+                "Global ocean carrier CMA CGM issued formal operational advisories preparing port diversions away from Colombia's Port of Buenaventura due to severe ongoing landside disruptions. Congestion and road blockages have crippled gate operations, stranding export containers along major terminal approaches.",
+                "South American Pacific exporters and maritime logistics providers encounter compounding demurrage liabilities and extended vessel turnaround schedules. Supply chain managers must secure alternative feeder routing through regional transshipment hubs to maintain schedule integrity."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

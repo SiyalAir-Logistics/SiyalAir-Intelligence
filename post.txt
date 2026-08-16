@@ -1,26 +1,27 @@
-🌐 FORCED LABOR TARIFFS
+🌐 DE MINIMIS ELIMINATION
+
 Global supply chain architecture is shifting toward deep transactional autonomy, freight infrastructure decoupling, and real-time cross-border compliance frameworks. Decode today’s primary logistics signals:
 
-01 / USTR: FORCED LABOR TARIFFS
-USTR implements Section 301 tariffs across 60 trading partners to target forced labor in manufacturing supply chains.
+01 / CUSTOMS LAW: DE MINIMIS ELIMINATION
+The U.S. Court of International Trade upheld the comprehensive elimination of the $800 de minimis tariff exemption, requiring formal entry filings for cross-border parcels.
 
-02 / PANAMA CANAL: QUEUE JUMP FEE
-An LPG tanker pays a record $4.6M fee to jump the Panama Canal transit queue amid draft restrictions.
+02 / ENERGY LOGISTICS: HORMUZ TANKER STRIKES
+Renewed attacks on commercial vessels in the Strait of Hormuz have slashed regional port volumes by 65% and triggered widespread maritime diversions.
 
-03 / CYBERSECURITY: UBER FREIGHT BREACH
-Cyber breach at Uber Freight exposes over 1M sensitive compliance and brokerage verification records.
+03 / RAIL FREIGHT: INTERMODAL SURCHARGE HIKE
+Union Pacific levied a $1,000 per box intermodal surcharge on California outbound rail shipments to manage severe equipment imbalances.
 
-04 / CRITICAL MINERALS: DEFENSE LOANS
-Pentagon signs over $2B in conditional loan agreements to secure domestic critical mineral supply chains.
+04 / AIR CARGO: SHENZHEN HUB EXPANSION
+DHL Express opened a $204M facility expansion in Shenzhen, tripling automated processing capacity across critical intra-Asia air lanes.
 
-05 / RAIL MERGERS: MULTI-STATE LAWSUIT
-Attorneys General from six states file a joint brief opposing the proposed Union Pacific and Norfolk Southern merger.
+05 / PORT SECURITY: LONDON GATEWAY INTERCEPTION
+UK authorities intercepted a 2.9-tonne contraband shipment valued at $300M, prompting expanded physical inspections and container dwell times at London Gateway.
 
-06 / MARITIME POLICY: EMISSION INCENTIVES
-Ports of LA and Long Beach introduce expanded financial incentives for ocean carriers deploying zero-emission vessels.
+06 / REGULATION: STATES CDL PRIVACY LAWSUIT
+A coalition of 22 states filed a federal lawsuit to halt administrative data demands targeting 17M commercial driver records.
 
-07 / FREIGHT MARKET: CONTRACT SURGE
-Maritime transit disruptions drive widespread rate increases across land-based contract freight networks.
+07 / OCEAN CARRIERS: BUENAVENTURA DIVERSION THREAT
+CMA CGM issued emergency rerouting advisories as port disruption and inland congestion paralyze freight handling at Colombia’s Port of Buenaventura.
 
 ✦ ━━━━━━ ARCHIVE ACCESS ━━━━━━ ✦
 Stay ahead of the global freight pulse. We decode high-signal logistics developments as they happen, every hour.
@@ -31,4 +32,4 @@ For inquiries, contact us at +1 862 425 6741.
 [ LIKE • SHARE • FOLLOW ]
 For hourly decoded freight and global logistics signals across the globe.
 
-#SupplyChain #GlobalLogistics #FreightForwarding #LogisticsManagement #GlobalTrade #CustomsCompliance #ShippingNews #MomentumPoint
+#CustomsCompliance #DeMinimis #MaritimeSecurity #Hormuz #IntermodalFreight #AirCargo #SupplyChain #MomentumPoint
