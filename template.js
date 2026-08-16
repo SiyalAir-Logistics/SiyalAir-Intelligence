@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "RECORD AUCTION",
-        "titleBlue": "SURCHARGE",
-        "footerSummary": "Panama Canal auction fees hit $4.6M as de minimis trade court rulings and Class I rail merger resistance force multi-modal rerouting."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR enforces Section 301 tariffs on 60 nations as Hormuz strikes and $1,000 intermodal surcharges elevate global landed costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PANAMA CANAL: RECORD AUCTION SURCHARGE",
+            "heading": "TRADE POLICY: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The Panama Canal Authority recorded a historic $4.6M auction bid from the LPG tanker G. Arete to bypass mounting transit queues. Prolonged canal draught restrictions and vessel diversions away from the Suez corridor have intensified competition for scheduled Neopanamax transit slots.",
-                "Bulk energy and container operators face surging voyage premiums that threaten spot contract margins across Far East-to-US Gulf trade lanes. Logistics directors must weigh multi-million-dollar transit bypass fees against 14-day Cape of Good Hope detours."
+                "The Office of the United States Trade Representative announced the enforcement of Section 301 tariffs targeting 60 trading partner nations following the expiration of Section 122 duties. The trade action mandates stringent forced labor supply chain audits across inbound raw materials and manufactured goods.",
+                "Importers face heightened customs scrutiny, mandatory traceability disclosures, and increased bonded warehouse storage liabilities. Shippers must immediately audit multi-tier vendor documentation to prevent cargo detention at U.S. ports of entry."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: DHL SHENZHEN EXPANSION",
+            "nextUpTease": "STRAIT OF HORMUZ: TANKER DRONE STRIKES",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T20:15:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-15T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "AIR CARGO: DHL SHENZHEN EXPANSION",
+            "heading": "STRAIT OF HORMUZ: TANKER DRONE STRIKES",
             "paragraphs": [
-                "DHL Express completed a $204M expansion of its central air cargo hub gateway at Shenzhen Bao'an International Airport. The capital deployment triples sorting capacity to handle over 180,000 pieces per hour across key outbound Asia-Pacific trade lanes.",
-                "High-tech and industrial manufacturing shippers gain dedicated regional air uplift to counter ocean freight transit volatility. Enterprise supply chains must secure fixed block space agreements early to capitalize on expanded Pearl River Delta outbound sort speeds."
+                "Two commercial tankers sustained strikes in the Strait of Hormuz during outbound transits, triggering immediate security alerts from UKMTO and UAE state energy authorities. Regional container freight throughput plunged 65% across regional Arabian Gulf hubs as maritime traffic halted.",
+                "Commercial hull and machinery insurance premiums have spiked sharply, driving spot tanker charter rates upward across Persian Gulf export corridors. Logistics managers must establish contingency bunker reserves and evaluate secondary overland pipeline routes to circumvent maritime chokepoint delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS: DE MINIMIS EXEMPTION ENDS",
+            "nextUpTease": "CARGO SECURITY: DATA CENTER THEFTS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T19:50:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-14T19:04:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CUSTOMS: DE MINIMIS EXEMPTION ENDS",
+            "heading": "CARGO SECURITY: DATA CENTER THEFTS",
             "paragraphs": [
-                "The U.S. Court of International Trade upheld administrative actions terminating the $800 de minimis tariff exemption for cross-border e-commerce parcels. Effective immediately, high-volume air shipments entering the U.S. require full formal customs entry filings and applicable duty settlements.",
-                "Direct-to-consumer cross-border retailers face immediate 15% to 30% landed cost inflation alongside 48-hour customs clearance backlogs. Compliance leaders must transition low-value parcel operations to automated Section 321 alternative software to prevent port-of-entry cargo seizures."
+                "Organized freight theft syndicates intercepted nearly $111M in high-value AI servers and data center components using coordinated bump-and-run highway staging tactics. Cargo theft task forces reported sophisticated electronic jamming devices deployed against standard telematics tracking equipment.",
+                "Shippers of high-density computing infrastructure face escalating inland cargo insurance deductibles and carrier liability disputes. Enterprise logistics directors must mandate covert multi-frequency tracking beacons, dual-driver security escorts, and geofenced transit corridors for all critical tech shipments."
             ],
             "imageUrl": "",
-            "nextUpTease": "INTERMODAL: STATE AGS OPPOSE MERGER",
+            "nextUpTease": "AIR FREIGHT: EU TAX REFORM",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T04:10:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T18:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "INTERMODAL: STATE AGS OPPOSE MERGER",
+            "heading": "AIR FREIGHT: EU TAX REFORM",
             "paragraphs": [
-                "Attorneys General from six states filed formal antitrust oppositions against the proposed Union Pacific and Norfolk Southern transcontinental rail merger. The coalition argued the consolidation would eliminate interchange competition, raise captive shipper rail rates, and degrade Midwest-to-East Coast rail service.",
-                "Intermodal freight shippers face protracted regulatory review cycles and uncertainty regarding future joint-line service agreements. Supply chain strategists must maintain flexible dual-rail and long-haul motor carrier contracts until the Surface Transportation Board issues final determinations."
+                "European air cargo spot volumes and yield rates recorded steep declines following the formal elimination of the European Union's duty-free de minimis import threshold. Cross-border e-commerce consolidators reduced dedicated freighter charters into central European hubs by double-digit percentages within the first 30 days of implementation.",
+                "Direct-to-consumer parcel shippers encounter extended customs entry dwell times and administrative processing surcharges across European gateways. Supply chain planners must restructure continental fulfillment networks toward regional bonded warehousing to mitigate individual parcel tariff overhead."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: UBER FREIGHT BREACH",
+            "nextUpTease": "EXPORT CONTROLS: BAE DEFENSE SETTLEMENT",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-14T18:25:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-14T14:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "CYBERSECURITY: UBER FREIGHT BREACH",
+            "heading": "EXPORT CONTROLS: BAE DEFENSE SETTLEMENT",
             "paragraphs": [
-                "A major security breach at Uber Freight exposed over 1M internal files, carrier rate records, and shipper identity profiles following a social engineering intrusion. The incident highlighted growing vulnerabilities in centralized digital freight brokerages and automated carrier dispatch platforms.",
-                "Freight brokers and enterprise shippers face elevated risks of double-brokering fraud and targeted identity spoofing across contracted freight lanes. Risk managers must enforce multi-factor authentication protocols and independent automated carrier onboarding audits to secure cargo transactions."
+                "Defense manufacturer BAE Systems agreed to a $36M administrative penalty with federal authorities following violations of U.S. arms export control regulations. The regulatory settlement suspends $18M of the total penalty contingent upon comprehensive compliance architecture remediation.",
+                "Aerospace and dual-use component supply chains face expanded regulatory audit oversight across international subcontracting networks. Corporate compliance officers must deploy automated restricted-party screening protocols and real-time end-use verification tracking across all tier-one and tier-two suppliers."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: ROADSIDE SAFETY CRACKDOWN",
+            "nextUpTease": "INTERMODAL: CALIFORNIA BOX SURCHARGES",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-15T22:30:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-14T15:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRUCKING: ROADSIDE SAFETY CRACKDOWN",
+            "heading": "INTERMODAL: CALIFORNIA BOX SURCHARGES",
             "paragraphs": [
-                "Joint federal and state commercial motor vehicle inspections across national freight corridors placed 159 commercial vehicles and 48 drivers out of service in a single 72-hour enforcement blitz. State agencies targeted noncompliant electronic logging devices, brake defects, and unverified driver credentials.",
-                "Over-the-road truckload capacity is tightening across primary Midwestern freight hubs as noncompliant fleets face immediate operational suspensions. Fleet managers and brokers must verify carrier safety measurement system scores to prevent unexpected transit delays and roadside freight impoundments."
+                "Union Pacific implemented a $1,000 surcharge per container on select California domestic intermodal freight lanes to manage severe inland terminal congestion and equipment imbalances. The surcharge applies directly to excess volume moving out of Southern California logistics complexes.",
+                "Transcontinental shippers face immediate cost inflation on eastbound intermodal rail freight, compressing third-quarter operating margins. Procurement leaders must re-evaluate dedicated truckload commitments and secondary rail gateway diversions through the Pacific Northwest to contain freight spend."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: ASIA-US RATES SURGE",
+            "nextUpTease": "PORT LOGISTICS: BUENAVENTURA DIVERSIONS",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T17:15:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-14T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OCEAN FREIGHT: ASIA-US RATES SURGE",
+            "heading": "PORT LOGISTICS: BUENAVENTURA DIVERSIONS",
             "paragraphs": [
-                "Spot container shipping rates from Asia to the US East Coast climbed past $8,200 per forty-foot equivalent unit as retailers accelerated peak season volume. Ocean carriers reported vessel utilization above 95% across transpacific trade corridors as importers pulled inventory forward to evade anticipated tariff adjustments.",
-                "BCOs encounter escalating general rate increases and peak season surcharges across major maritime lanes. Logistics procurement teams must balance high spot market premiums against contractual volume minimums to protect third-quarter gross operating margins."
+                "Ocean carrier CMA CGM initiated port diversion protocols away from Colombia\u2019s Port of Buenaventura due to severe landside congestion and prolonged vessel berthing delays. Cargo backlogs have extended average vessel turnaround times past 7 days along western South American trade corridors.",
+                "Latin American import-export operators encounter elevated container detention penalties and secondary transshipment fees through alternate regional ports. Freight forwarders must reroute regional feeder services and secure bonded drayage capacity at alternate hubs to avoid extended supply chain bottlenecks."
             ],
             "imageUrl": "",
             "nextUpTease": "FINAL SLIDE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T16:40:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-15T06:15:00Z",
                 "Status: Audited & True"
             ]
         }

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PANAMA CANAL: RECORD AUCTION SURCHARGE",
-                "teaserTitle": "AIR CARGO: DHL SHENZHEN EXPANSION",
-                "visual_caption": "A tanker paid a record $4.6M to jump the Panama Canal queue. Shippers face multi-million dollar bypass fees or 14-day vessel detours around South Africa."
+                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "teaserTitle": "STRAIT OF HORMUZ: TANKER DRONE STRIKES",
+                "visual_caption": "USTR initiated Section 301 tariffs across 60 trading nations following Section 122 expiration. Shippers face mandatory labor audits and heightened customs clearance scrutiny on all inbound goods."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO: DHL SHENZHEN EXPANSION",
-                "teaserTitle": "CUSTOMS: DE MINIMIS EXEMPTION ENDS",
-                "visual_caption": "DHL Express opened a $204M hub expansion in Shenzhen. The expanded terminal triples sorting capacity to 180K pieces per hour across Asia."
+                "headline": "STRAIT OF HORMUZ: TANKER DRONE STRIKES",
+                "teaserTitle": "CARGO SECURITY: DATA CENTER THEFTS",
+                "visual_caption": "Two commercial tankers were struck in the Strait of Hormuz during outbound transits, disrupting vital Middle Eastern energy lanes. Regional container throughput dropped 65% as vessel operators implemented immediate security diversions."
             },
             {
                 "slide_index": 3,
-                "headline": "CUSTOMS: DE MINIMIS EXEMPTION ENDS",
-                "teaserTitle": "INTERMODAL: STATE AGS OPPOSE MERGER",
-                "visual_caption": "A federal trade court upheld the termination of the $800 de minimis customs exemption. Direct-to-consumer importers face immediate tariff assessments and mandatory formal entry declarations on all parcel shipments."
+                "headline": "CARGO SECURITY: DATA CENTER THEFTS",
+                "teaserTitle": "AIR FREIGHT: EU TAX REFORM",
+                "visual_caption": "Organized theft syndicates intercepted nearly $111M in AI data center equipment using staged highway collisions. Shippers must deploy covert multi-frequency tracking beacons and armed escorts to protect high-value hardware."
             },
             {
                 "slide_index": 4,
-                "headline": "INTERMODAL: STATE AGS OPPOSE MERGER",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "visual_caption": "Attorneys General from 6 states filed formal antitrust oppositions against the UP-NS merger. State regulators argue the rail consolidation will eliminate competition and raise freight rates."
+                "headline": "AIR FREIGHT: EU TAX REFORM",
+                "teaserTitle": "EXPORT CONTROLS: BAE DEFENSE SETTLEMENT",
+                "visual_caption": "European air cargo volumes slumped following the formal termination of the EU duty-free tax exemption for cross-border parcels. Retailers face increased entry dwell times and administrative processing surcharges across major continental airports."
             },
             {
                 "slide_index": 5,
-                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "teaserTitle": "TRUCKING: ROADSIDE SAFETY CRACKDOWN",
-                "visual_caption": "A security breach at Uber Freight compromised more than 1M files and freight rate records. Logistics providers face heightened risks of load spoofing and double-brokering fraud across digital platforms."
+                "headline": "EXPORT CONTROLS: BAE DEFENSE SETTLEMENT",
+                "teaserTitle": "INTERMODAL: CALIFORNIA BOX SURCHARGES",
+                "visual_caption": "Defense contractor BAE Systems agreed to pay a $36M penalty for export control violations. Aerospace supply chains face heightened federal audit oversight and mandatory automated end-use screening protocols."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING: ROADSIDE SAFETY CRACKDOWN",
-                "teaserTitle": "OCEAN FREIGHT: ASIA-US RATES SURGE",
-                "visual_caption": "Federal and state inspectors placed 159 commercial vehicles out of service during a multi-state safety sweep. The enforcement clampdown tightened regional truckload capacity across major freight corridors."
+                "headline": "INTERMODAL: CALIFORNIA BOX SURCHARGES",
+                "teaserTitle": "PORT LOGISTICS: BUENAVENTURA DIVERSIONS",
+                "visual_caption": "Union Pacific enacted a $1,000 surcharge per container on congested California intermodal rail routes. Shippers must review long-haul truckload alternatives to mitigate mounting domestic transport cost inflation."
             },
             {
                 "slide_index": 7,
-                "headline": "OCEAN FREIGHT: ASIA-US RATES SURGE",
+                "headline": "PORT LOGISTICS: BUENAVENTURA DIVERSIONS",
                 "teaserTitle": "FINAL SLIDE",
-                "visual_caption": "Asia to US East Coast container rates surged past $8,200 per FEU. Ocean carriers report 95% vessel utilization as early holiday imports peak."
+                "visual_caption": "Ocean carrier CMA CGM began diverting vessels away from Colombia's Port of Buenaventura due to severe landside congestion. Importers face extended vessel berthing delays and additional transshipment fees across western South America."
             },
             {
                 "slide_index": 8,

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL RECORD AUCTION SURCHARGE",
+        "hookTitle": "TRADE POLICY: FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PANAMA CANAL: RECORD AUCTION SURCHARGE",
-                "teaserTitle": "AIR CARGO: DHL SHENZHEN EXPANSION",
+                "headline": "TRADE POLICY: FORCED LABOR TARIFFS",
+                "teaserTitle": "STRAIT OF HORMUZ: TANKER DRONE STRIKES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A tanker paid a record four point six million dollars to jump the Panama Canal queue. Shippers face multi-million dollar bypass fees or two-week vessel detours around South Africa."
+                "narration_line": "United States trade officials initiated Section three oh one tariffs across sixty trading nations following Section one twenty-two expiration. Shippers face mandatory labor audits and heightened customs clearance scrutiny on all inbound goods."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO: DHL SHENZHEN EXPANSION",
-                "teaserTitle": "CUSTOMS: DE MINIMIS EXEMPTION ENDS",
+                "headline": "STRAIT OF HORMUZ: TANKER DRONE STRIKES",
+                "teaserTitle": "CARGO SECURITY: DATA CENTER THEFTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "DHL Express opened a two hundred four million dollar hub expansion in Shenzhen. The expanded terminal triples sorting capacity to one hundred eighty thousand pieces per hour across Asia."
+                "narration_line": "Two commercial tankers were struck in the Strait of Hormuz during outbound transits, disrupting vital Middle Eastern energy lanes. Regional container throughput dropped sixty-five percent as vessel operators implemented immediate security diversions."
             },
             {
                 "slide_index": 3,
-                "headline": "CUSTOMS: DE MINIMIS EXEMPTION ENDS",
-                "teaserTitle": "INTERMODAL: STATE AGS OPPOSE MERGER",
+                "headline": "CARGO SECURITY: DATA CENTER THEFTS",
+                "teaserTitle": "AIR FREIGHT: EU TAX REFORM",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A federal trade court upheld the termination of the eight hundred dollar de minimis customs exemption. Direct-to-consumer importers face immediate tariff assessments and mandatory formal entry declarations on all parcel shipments."
+                "narration_line": "Organized theft syndicates intercepted nearly one hundred eleven million dollars in artificial intelligence data center equipment using staged highway collisions. Shippers must deploy covert multi-frequency tracking beacons and armed escorts to protect high-value hardware."
             },
             {
                 "slide_index": 4,
-                "headline": "INTERMODAL: STATE AGS OPPOSE MERGER",
-                "teaserTitle": "CYBERSECURITY: UBER FREIGHT BREACH",
+                "headline": "AIR FREIGHT: EU TAX REFORM",
+                "teaserTitle": "EXPORT CONTROLS: BAE DEFENSE SETTLEMENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Attorneys General from six states filed formal antitrust oppositions against the Union Pacific and Norfolk Southern merger. State regulators argue the rail consolidation will eliminate competition and raise freight rates."
+                "narration_line": "European air cargo volumes slumped following the formal termination of the European Union duty-free tax exemption for cross-border parcels. Retailers face increased entry dwell times and administrative processing surcharges across major continental airports."
             },
             {
                 "slide_index": 5,
-                "headline": "CYBERSECURITY: UBER FREIGHT BREACH",
-                "teaserTitle": "TRUCKING: ROADSIDE SAFETY CRACKDOWN",
+                "headline": "EXPORT CONTROLS: BAE DEFENSE SETTLEMENT",
+                "teaserTitle": "INTERMODAL: CALIFORNIA BOX SURCHARGES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A security breach at Uber Freight compromised more than one million files and freight rate records. Logistics providers face heightened risks of load spoofing and double-brokering fraud across digital platforms."
+                "narration_line": "Defense contractor B A E Systems agreed to pay a thirty-six million dollar penalty for export control violations. Aerospace supply chains face heightened federal audit oversight and mandatory automated end-use screening protocols."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKING: ROADSIDE SAFETY CRACKDOWN",
-                "teaserTitle": "OCEAN FREIGHT: ASIA-US RATES SURGE",
+                "headline": "INTERMODAL: CALIFORNIA BOX SURCHARGES",
+                "teaserTitle": "PORT LOGISTICS: BUENAVENTURA DIVERSIONS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Federal and state inspectors placed one hundred fifty-nine commercial vehicles out of service during a multi-state safety sweep. The enforcement clampdown tightened regional truckload capacity across major freight corridors."
+                "narration_line": "Union Pacific enacted a one thousand dollar surcharge per container on congested California intermodal rail routes. Shippers must review long-haul truckload alternatives to mitigate mounting domestic transport cost inflation."
             },
             {
                 "slide_index": 7,
-                "headline": "OCEAN FREIGHT: ASIA-US RATES SURGE",
+                "headline": "PORT LOGISTICS: BUENAVENTURA DIVERSIONS",
                 "teaserTitle": "FINAL SLIDE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Asia to US East Coast container rates surged past eight thousand two hundred dollars per box. Ocean carriers report ninety-five percent vessel utilization as early holiday imports peak."
+                "narration_line": "Ocean carrier C M A C G M began diverting vessels away from Colombia's Port of Buenaventura due to severe landside congestion. Importers face extended vessel berthing delays and additional transshipment fees across western South America."
             },
             {
                 "slide_index": 8,
