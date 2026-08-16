@@ -37,8 +37,7 @@ jobs:
       - name: Upload MP3 Artifacts for Download
         uses: actions/upload-artifact@v4
         with:
-          name: social-media-mp3s
+          name: social-media-mp3-audio-files
           path: |
-            Social_Media/temp_slide_audio_*.mp3
-            Social_Media/output_*.mp4
+            Social_Media/slide_audio_*.mp3
           retention-days: 1
