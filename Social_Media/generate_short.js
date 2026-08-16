@@ -28,7 +28,7 @@ const SELECTED_VOICE_PROFILE = 'FEMALE_BREAKING';
 
 const VOICE_PROFILES = {
     FEMALE_BREAKING: {
-        voiceName: "en-NZ-MollyNeural",
+        voiceName: "en-IN-NeerjaNeural",
         introRate: "+22%",    // Amplified ultra-high-urgency breaking news hook speed
         introPitch: "+6Hz",   // Higher commanding pitch for instant attention
         bodyRate: "+18%",     // Fast-paced, urgent, adrenaline-driven news delivery
@@ -154,9 +154,6 @@ function numberToWords(n) {
     return n.toString();
 }
 
-/**
- * Advanced phonetic translation for decimals (e.g., 45.5 -> forty five point five)
- */
 function parseDecimalsPhonetically(text) {
     return text.replace(/\b(\d+)\.(\d+)\b/g, (match, integerPart, decimalPart) => {
         const intWord = numberToWords(parseInt(integerPart, 10));
@@ -165,9 +162,6 @@ function parseDecimalsPhonetically(text) {
     });
 }
 
-/**
- * Advanced phonetic currency parser ($45.5M / €2.1B -> forty five point five million U.S. Dollars)
- */
 function parseCurrenciesPhonetically(text) {
     return text
         .replace(/\$([0-9.]+)([M|B|K]?)\b/gi, (match, num, suffix) => {
@@ -202,9 +196,6 @@ function parseCurrenciesPhonetically(text) {
         });
 }
 
-/**
- * Quarter-term expander for financial periods (Q1, Q2, Q3, Q4) -> spoken phrases
- */
 function expandQuarterTermsPhonetically(text) {
     return text
         .replace(/\bQ1\b/gi, 'first quarter')
@@ -213,9 +204,6 @@ function expandQuarterTermsPhonetically(text) {
         .replace(/\bQ4\b/gi, 'fourth quarter');
 }
 
-/**
- * Legal clause & section reader (Section 512 -> Section five twelve / five hundred twelve)
- */
 function parseLegalSectionsPhonetically(text) {
     return text.replace(/\b(Section|Article|Clause|Rule)\s+(\d{1,4})\b/gi, (match, label, numStr) => {
         const num = parseInt(numStr, 10);
@@ -231,11 +219,6 @@ function parseLegalSectionsPhonetically(text) {
     });
 }
 
-/**
- * DYNAMIC ABBREVIATION CLEANER: 
- * Automatically catches and strips periods from ANY dotted acronym (e.g., U.S., U.N., E.U., U.K., F.B.I., U.A.E.) 
- * so Edge-TTS does not stutter or break words apart due to hardcoded limitations.
- */
 function cleanAbbreviationsForSpeech(text) {
     return text.replace(/\b(?:[A-Z]\.){2,}[A-Z]?\b/g, (match) => {
         return match.replace(/\./g, '');
@@ -252,11 +235,6 @@ function smartNumberParser(text) {
     });
 }
 
-/**
- * DYNAMIC FRACTION ENGINE:
- * Dynamically converts ANY standard ratio/fraction pattern (e.g., 3/8, 7/10, 4/5) into spoken words 
- * instead of being restricted to a manual hardcoded list.
- */
 function parseFractionsPhonetically(text) {
     return text.replace(/\b(\d+)\/(\d+)\b/g, (match, numerator, denominator) => {
         const numVal = parseInt(numerator, 10);
@@ -277,11 +255,6 @@ function parseFractionsPhonetically(text) {
     });
 }
 
-/**
- * DYNAMIC TTS ACRONYM SPELLER:
- * Dynamically intercepts standard capitalized corporate acronyms (2 to 5 letters) 
- * and injects spacing (e.g. "H M M") for the audio voice engine only.
- */
 function spellAcronymsForTTS(text) {
     return text.replace(/\b([A-Z]{2,5})\b/g, (match) => {
         return match.split('').join(' ');
@@ -315,13 +288,13 @@ function prepareHumanizedText(rawText) {
         .replace(/\bvs\.?\b/gi, 'versus');
 
     clean = smartNumberParser(clean);
-    
-    // Dynamic acronym letter spacing for voice engine rendering
     clean = spellAcronymsForTTS(clean);
 
+    clean = clean.replace(/([a-z0-9])\.\s+([A-Z])/g, '$1, $2');
+
     clean = clean
-        .replace(/\s*(–|—|-)\s+/g, ',... ')
-        .replace(/:\s*/g, ',... ')
+        .replace(/\s*(–|—|-)\s+/g, ', ')
+        .replace(/:\s*/g, ', ')
         .replace(/;\s*/g, '. ');
 
     clean = clean
@@ -410,7 +383,7 @@ async function buildShortFromTemplate(templatePath) {
 
     const closingSlideData = {
         imagePath: path.join(__dirname, 'yt_backgrounds', 'closingbackgroundyt.png'),
-        narration: "Struggling with shipping delays and soaring costs? Upgrade your supply chain with Siyaal air logistics. Tap the link in bio for instant premium rates.",
+        narration: "Struggling with shipping delays and soaring costs, Upgrade your supply chain with Siyaal air logistics, Tap the link in bio for instant premium rates.",
         formattedText: ""
     };
 
@@ -482,7 +455,7 @@ async function buildShortFromTemplate(templatePath) {
 
         slideAudioFiles.push(slideAudioPath);
 
-        const duration = Math.max(exactDuration + 0.5, 2.5);
+        const duration = Math.max(exactDuration + 0.15, 2.0);
         slideDurations.push(duration);
 
         const bgNum = i + 1;
@@ -519,7 +492,7 @@ async function buildShortFromTemplate(templatePath) {
         const exactDuration = parseFloat(execSync(probeCmd).toString().trim());
 
         slideAudioFiles.push(closingAudioPath);
-        const closingDuration = Math.max(exactDuration + 2.5, 12.5);
+        const closingDuration = exactDuration + 2.0;
         slideDurations.push(closingDuration);
 
         allSlides.push({
@@ -663,7 +636,7 @@ async function buildShortFromTemplate(templatePath) {
 
     for (let i = 0; i < allSlides.length - 1; i++) {
         accumulatedTime += allSlides[i].duration;
-        const nextLabel = i === allSlides.length - 2 ? "outv" : `vtrans${i}`;
+        const nextLabel = i === allSlides.length - 2 ? "outv_raw" : `vtrans${i}`;
         
         filterComplex += `[${currentVideoLabel}][vbase${i + 1}]xfade=transition=fade:duration=${transDur}:offset=${accumulatedTime.toFixed(3)}[${nextLabel}];\n`;
         currentVideoLabel = nextLabel;
@@ -671,12 +644,15 @@ async function buildShortFromTemplate(templatePath) {
 
     if (allSlides.length === 1) {
         filterComplex += `[vbase0]copy[outv];\n`;
+    } else {
+        const totalXfadeOverlap = (allSlides.length - 1) * transDur;
+        filterComplex += `[outv_raw]tpad=stop_mode=clone:stop_duration=${totalXfadeOverlap.toFixed(3)}[outv];\n`;
     }
 
     let concatAudioString = '';
     allSlides.forEach((slide, i) => {
         const audioInputIndex = (i * 2) + 1;
-        const padDur = slide.isClosing ? 3.0 : 1.5;
+        const padDur = slide.isClosing ? 0.5 : 0.1;
         filterComplex += `[${audioInputIndex}:a]aresample=44100,apad=pad_dur=${padDur},atrim=0:${slide.duration.toFixed(3)}[a_${i}];\n`;
         concatAudioString += `[a_${i}]`;
     });
@@ -734,7 +710,16 @@ async function buildShortFromTemplate(templatePath) {
             });
 
             if (code === 0) {
-                console.log(`\n🎉 Success! High-energy news short rendered at: ${outputVideoName}`);
+                console.log(`\n🔧 Fixing MP4 container duration metadata automatically...`);
+                try {
+                    const tempRemuxPath = outputVideoPath.replace('.mp4', '_temp.mp4');
+                    fs.renameSync(outputVideoPath, tempRemuxPath);
+                    execSync(`"${ffmpegInstaller}" -i "${tempRemuxPath}" -c copy "${outputVideoPath}"`, { stdio: 'inherit' });
+                    if (fs.existsSync(tempRemuxPath)) fs.unlinkSync(tempRemuxPath);
+                    console.log(`\n🎉 Success! High-energy news short rendered and metadata fixed at: ${outputVideoName}`);
+                } catch (remuxErr) {
+                    console.warn(`⚠️ Automatic container metadata remux skipped/failed, but video is rendered:`, remuxErr.message);
+                }
                 resolve();
             } else {
                 reject(new Error(`FFmpeg process exited with code ${code}`));
