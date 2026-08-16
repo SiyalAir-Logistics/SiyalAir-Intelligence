@@ -492,7 +492,7 @@ async function buildShortFromTemplate(templatePath) {
         const exactDuration = parseFloat(execSync(probeCmd).toString().trim());
 
         slideAudioFiles.push(closingAudioPath);
-        const closingDuration = exactDuration + 2.0;
+        const closingDuration = exactDuration + 2.5;
         slideDurations.push(closingDuration);
 
         allSlides.push({
@@ -522,9 +522,6 @@ async function buildShortFromTemplate(templatePath) {
     const rawFontPath = path.join(__dirname, 'fonts', styleConfig.fontName);
     const customFontPath = rawFontPath.replace(/\\/g, '/').replace(/:/g, '\\:');
 
-    const bgMusicPath = path.join(__dirname, 'BG_Sound', 'Orchestronika_Another_Try.mp3');
-    const hasBgMusic = fs.existsSync(bgMusicPath);
-
     const ffmpegArgs = [];
     let filterComplex = '';
 
@@ -535,10 +532,6 @@ async function buildShortFromTemplate(templatePath) {
 
     if (hasCustomBanner) {
         ffmpegArgs.push('-i', customBannerPath);
-    }
-
-    if (hasBgMusic) {
-        ffmpegArgs.push('-stream_loop', '-1', '-i', bgMusicPath);
     }
 
     const totalSlidesCount = allSlides.length;
@@ -652,26 +645,19 @@ async function buildShortFromTemplate(templatePath) {
     let concatAudioString = '';
     allSlides.forEach((slide, i) => {
         const audioInputIndex = (i * 2) + 1;
-        const padDur = slide.isClosing ? 0.5 : 0.1;
-        filterComplex += `[${audioInputIndex}:a]aresample=44100,apad=pad_dur=${padDur},atrim=0:${slide.duration.toFixed(3)}[a_${i}];\n`;
+        const padDur = slide.isClosing ? 1.0 : 0.1;
+        
+        if (slide.isClosing) {
+            filterComplex += `[${audioInputIndex}:a]aresample=44100,apad=pad_dur=${padDur}[a_${i}];\n`;
+        } else {
+            filterComplex += `[${audioInputIndex}:a]aresample=44100,apad=pad_dur=${padDur},atrim=0:${slide.duration.toFixed(3)}[a_${i}];\n`;
+        }
+
         concatAudioString += `[a_${i}]`;
     });
     
     filterComplex += `${concatAudioString}concat=n=${allSlides.length}:v=0:a=1[voice_raw];\n`;
-
-    filterComplex += `[voice_raw]highpass=f=80,equalizer=f=220:width_type=h:width=120:g=-3.0,equalizer=f=3400:width_type=h:width=1200:g=4.0,equalizer=f=7500:width_type=h:width=1500:g=-3.0,deesser=i=0.5:m=0.5,compand=attacks=0.005:decays=0.1:points=-80/-80|-35/-12|-12/-3|0/0,loudnorm=I=-14:TP=-1.0:LRA=7[voice_master];\n`;
-
-    if (hasBgMusic) {
-        const bgMusicIndex = hasCustomBanner ? (allSlides.length * 2) + 1 : (allSlides.length * 2);
-        const totalDuration = allSlides.reduce((acc, s) => acc + s.duration, 0);
-        
-        filterComplex += `[${bgMusicIndex}:a]volume=0.0,atrim=duration=${totalDuration.toFixed(3)}[bg_trimmed];\n`;
-        filterComplex += `[voice_master]asplit=2[v_for_mix][v_for_sc];\n`;
-        filterComplex += `[bg_trimmed][v_for_sc]sidechaincompress=threshold=0.04:ratio=4:1:attack=10:release=200[bg_ducked];\n`;
-        filterComplex += `[v_for_mix][bg_ducked]amix=inputs=2:duration=first:dropout_transition=1.0[outa]`;
-    } else {
-        filterComplex += `[voice_master]copy[outa]`;
-    }
+    filterComplex += `[voice_raw]highpass=f=80,equalizer=f=220:width_type=h:width=120:g=-3.0,equalizer=f=3400:width_type=h:width=1200:g=4.0,equalizer=f=7500:width_type=h:width=1500:g=-3.0,deesser=i=0.5:m=0.5,compand=attacks=0.005:decays=0.1:points=-80/-80|-35/-12|-12/-3|0/0,loudnorm=I=-14:TP=-1.0:LRA=7,apad=pad_dur=1.0[outa];\n`;
 
     const filterScriptPath = path.join(__dirname, `temp_filter_${templateFileName}.txt`);
     fs.writeFileSync(filterScriptPath, filterComplex, 'utf8');
@@ -681,7 +667,6 @@ async function buildShortFromTemplate(templatePath) {
     ffmpegArgs.push('-map', '[outa]');
     ffmpegArgs.push('-c:v', 'libx264', '-preset', 'ultrafast', '-pix_fmt', 'yuv420p');
     ffmpegArgs.push('-c:a', 'aac', '-b:a', '192k');
-    ffmpegArgs.api = '-y';
     ffmpegArgs.push('-y', outputVideoPath);
 
     // ==========================================
@@ -710,16 +695,7 @@ async function buildShortFromTemplate(templatePath) {
             });
 
             if (code === 0) {
-                console.log(`\n🔧 Fixing MP4 container duration metadata automatically...`);
-                try {
-                    const tempRemuxPath = outputVideoPath.replace('.mp4', '_temp.mp4');
-                    fs.renameSync(outputVideoPath, tempRemuxPath);
-                    execSync(`"${ffmpegInstaller}" -i "${tempRemuxPath}" -c copy "${outputVideoPath}"`, { stdio: 'inherit' });
-                    if (fs.existsSync(tempRemuxPath)) fs.unlinkSync(tempRemuxPath);
-                    console.log(`\n🎉 Success! High-energy news short rendered and metadata fixed at: ${outputVideoName}`);
-                } catch (remuxErr) {
-                    console.warn(`⚠️ Automatic container metadata remux skipped/failed, but video is rendered:`, remuxErr.message);
-                }
+                console.log(`\n🎉 Success! High-energy news short rendered perfectly at: ${outputVideoName}`);
                 resolve();
             } else {
                 reject(new Error(`FFmpeg process exited with code ${code}`));
