@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL FEE PASSES $4.6M",
-                "teaserTitle": "REGULATION: USTR TARIFF IMPLEMENTATION",
-                "visual_caption": "An empty tanker paid a record $4.6M to cut the Panama Canal queue. Middle East conflict and regional routing shifts are intensifying maritime bottlenecks and driving up transit costs."
+                "headline": "LEGAL: DE MINIMIS IS LEGALLY BURIED",
+                "teaserTitle": "SECURITY: UBER FREIGHT DATA BREACH",
+                "visual_caption": "The trade court permanently closed the $800 de minimis exemption. Customs authorities are aggressively enforcing new duties on cross-border ecommerce shipments."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: USTR TARIFF IMPLEMENTATION",
-                "teaserTitle": "TRUCKING COMPLIANCE: 22 STATES SUE",
-                "visual_caption": "The USTR is implementing tariffs on 60 trading partners under Section 301. Importers face immediate duty adjustments and heightened administrative burdens across international sourcing networks."
+                "headline": "SECURITY: UBER FREIGHT DATA BREACH",
+                "teaserTitle": "MARITIME: HORMUZ OIL TANKER ATTACKS",
+                "visual_caption": "A massive security breach at Uber Freight exposed critical digital identity vulnerabilities. Fraud syndicates are exploiting network gaps to divert high-value cargo shipments."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING COMPLIANCE: 22 STATES SUE",
-                "teaserTitle": "AIR CARGO: MUTED PEAK SEASON ACTIVITY",
-                "visual_caption": "22 states have filed a federal lawsuit to block a mandate demanding access to 17M driver records. The legal challenge targets federal overreach into commercial driver licensing databases and privacy protections."
+                "headline": "MARITIME: HORMUZ OIL TANKER ATTACKS",
+                "teaserTitle": "REGULATION: NON-DOMICILED CDL LIMITS",
+                "visual_caption": "Recent tanker attacks in the Strait of Hormuz drove international crude rates higher. Carriers are deploying dark transits and detours, restricting regional export capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: MUTED PEAK SEASON ACTIVITY",
-                "teaserTitle": "RAIL INFRASTRUCTURE: STONEPEAK ACQUISITION",
-                "visual_caption": "Global air cargo spot rates dropped 6% as muted peak season activity signals a softer second half. Shippers are benefiting from improved pricing leverage across key international air corridors."
+                "headline": "REGULATION: NON-DOMICILED CDL LIMITS",
+                "teaserTitle": "INFRASTRUCTURE: STONEPEAK RAILYARD DEAL",
+                "visual_caption": "Rhode Island and Utah enacted stricter limits on non-domiciled commercial driver licenses. The state restrictions threaten to sideline thousands of foreign truck drivers."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL INFRASTRUCTURE: STONEPEAK ACQUISITION",
-                "teaserTitle": "CYBERSECURITY: FRAUD LOSSES SURGE",
-                "visual_caption": "Stonepeak has expanded its logistics real estate portfolio by acquiring a major Texas railyard facility. The strategic acquisition aims to enhance regional intermodal transfer efficiency and capture growing domestic freight volume."
+                "headline": "INFRASTRUCTURE: STONEPEAK RAILYARD DEAL",
+                "teaserTitle": "LABOR: PORT OF LA CLEAN ENERGY PLAN",
+                "visual_caption": "Private equity firm Stonepeak acquired a major Texas railyard facility. The strategic deal enhances regional intermodal transfer efficiency across southern corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "CYBERSECURITY: FRAUD LOSSES SURGE",
-                "teaserTitle": "OCEAN FREIGHT: TRANS-PACIFIC RATE SURGE",
-                "visual_caption": "Logistics identity verification scams and cargo theft losses exceeded $725M over the past year. Fraud syndicates are increasingly utilizing social engineering tactics to compromise carrier profiles."
+                "headline": "LABOR: PORT OF LA CLEAN ENERGY PLAN",
+                "teaserTitle": "AIR CARGO: HONG KONG GATEWAY EXPANSION",
+                "visual_caption": "Los Angeles and Long Beach ports launched a major clean energy funding plan. Terminal operators face strict mandates to accelerate zero-emission equipment adoption."
             },
             {
                 "slide_index": 7,
-                "headline": "OCEAN FREIGHT: TRANS-PACIFIC RATE SURGE",
+                "headline": "AIR CARGO: HONG KONG GATEWAY EXPANSION",
                 "teaserTitle": "",
-                "visual_caption": "Asia to US East Coast ocean freight rates surged to new highs amid sustained import volumes and capacity constraints. Persistent cargo demand is driving unexpected rate hikes across major trans-pacific trade lanes."
+                "visual_caption": "DHL Express tripled its Shenzhen air cargo capacity through a major terminal expansion. The upgrade helps alleviate recurring congestion across key Asian trade hubs."
             },
             {
                 "slide_index": 8,

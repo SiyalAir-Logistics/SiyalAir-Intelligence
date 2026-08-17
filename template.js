@@ -1,80 +1,80 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
-        "titleBlue": "$4.6M",
-        "footerSummary": "Panama Canal queue-jump fee hits a record $4.6M as Middle East conflict reroutes global shipping, forcing operators to absorb steep priority transit costs."
+        "titleWhite": "DE MINIMIS IS LEGALLY",
+        "titleBlue": "BURIED",
+        "footerSummary": "US trade court permanently closes the 800 USD de minimis loophole, triggering aggressive customs compliance crackdowns on cross-border ecommerce shipments."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL FEE PASSES $4.6M",
+            "heading": "LEGAL: DE MINIMIS IS LEGALLY BURIED",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker will cut the Panama Canal queue next week after paying a record $4.6M fee. The payment surpasses the previous high of $3.98M as ongoing Middle East conflict and regional routing shifts intensify maritime bottlenecks.",
-                "Vessel operators face mounting financial pressures to bypass severe transit delays, driving up operational overhead across critical global trade chokepoints. Logistics planners must factor escalating priority tolls into lane profitability models to protect ocean shipping margins."
+                "The United States Court of International Trade has officially closed the remaining legal door on the 800 USD de minimis exemption, permanently dismantling duty-free entry for low-value parcels. Trade authorities and customs officials are immediately intensifying enforcement actions against cross-border ecommerce consignments, forcing supply chains to re-evaluate routing and import compliance strategies.",
+                "Importers and digital marketplace sellers face sudden duty assessments and severe administrative delays as legacy tax loopholes disappear from international trade lanes. Logistics directors must rapidly integrate automated customs clearance frameworks to mitigate unexpected financial liabilities and protect operational margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: USTR TARIFF IMPLEMENTATION",
+            "nextUpTease": "SECURITY: UBER FREIGHT DATA BREACH",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "REGULATION: USTR TARIFF IMPLEMENTATION",
-            "paragraphs": [
-                "The Office of the United States Trade Representative has announced the implementation of comprehensive tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. The aggressive trade policy enforcement targets foreign goods tied to forced labor practices as legacy trade exemptions expire.",
-                "Importers and compliance directors encounter immediate duty adjustments and heightened administrative burdens across international sourcing networks. Supply chain executives must audit tier supplier origins to prevent unexpected customs delays and mitigate severe financial exposure."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRUCKING COMPLIANCE: 22 STATES SUE",
-            "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 3,
-            "heading": "TRUCKING COMPLIANCE: 22 STATES SUE",
+            "id": 2,
+            "heading": "SECURITY: UBER FREIGHT DATA BREACH",
             "paragraphs": [
-                "A coalition of 22 states has filed a formal federal lawsuit against the Trump administration to block a sweeping mandate demanding access to 17M truck driver records. The legal challenge targets federal overreach into state-level commercial driver licensing databases and privacy protections.",
-                "Surface freight networks face potential administrative friction as state licensing authorities navigate conflicting federal data reporting requirements. Fleet operators must monitor legal proceedings closely to anticipate potential disruptions in driver qualification verifications and staffing pipelines."
+                "A major security breach involving millions of compromised files has exposed critical identity verification vulnerabilities across the Uber Freight digital network. Fraud syndicates and cyber criminal networks are increasingly exploiting security gaps within digital brokerage platforms to intercept carrier profiles and divert high-value freight.",
+                "Digital freight matching systems and third-party logistics providers face escalating risks of cargo theft and severe reputational liability from recurring digital intrusions. Risk management teams must implement stringent multi-factor authentication protocols and real-time carrier validation audits to safeguard operational continuity."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: MUTED PEAK SEASON ACTIVITY",
+            "nextUpTease": "MARITIME: HORMUZ OIL TANKER ATTACKS",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "MARITIME: HORMUZ OIL TANKER ATTACKS",
+            "paragraphs": [
+                "International oil tanker rates have swung sharply higher following two consecutive vessel attacks in the strategic Strait of Hormuz. Crude carriers are increasingly deploying dark transit practices and taking extended detours to bypass active conflict zones, restricting regional export capacity.",
+                "Energy logistics operators and maritime shippers face skyrocketing bunker fuel expenses and prolonged transit schedules across Middle Eastern trade corridors. Freight planners must incorporate substantial risk premiums and flexible contingency routing into long-term transportation budgets."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "REGULATION: NON-DOMICILED CDL LIMITS",
+            "tags": [
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: MUTED PEAK SEASON ACTIVITY",
+            "heading": "REGULATION: NON-DOMICILED CDL LIMITS",
             "paragraphs": [
-                "Global air cargo spot rates have dropped 6% month over month as muted peak season activity signals a softer-than-expected second half. Shippers are benefiting from improved pricing leverage across key international air corridors as overall market demand cools down.",
-                "Freight forwarders and air carriers must adjust capacity management strategies to counter declining yield expectations through the upcoming quarters. Logistics managers should capitalize on current spot rate softness to optimize short-term air charter agreements."
+                "State authorities in Rhode Island and Utah have enacted stricter regulatory limits on non-domiciled commercial driver licenses, accelerating a nationwide tightening of driver qualifications. The emerging state-level restrictions threaten to sideline thousands of foreign truck drivers, pushing driver capacity deficits well past federal projections of 200K.",
+                "Surface freight networks and motor carriers confront intensifying driver pay pressures and localized capacity crunches as credentialing bottlenecks restrict available labor pools. Fleet operators must optimize asset utilization and driver retention programs to mitigate escalating over-the-road freight rates."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL INFRASTRUCTURE: STONEPEAK ACQUISITION",
+            "nextUpTease": "INFRASTRUCTURE: STONEPEAK RAILYARD DEAL",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL INFRASTRUCTURE: STONEPEAK ACQUISITION",
+            "heading": "INFRASTRUCTURE: STONEPEAK RAILYARD DEAL",
             "paragraphs": [
-                "Private equity firm Stonepeak has expanded its logistics real estate catalog by acquiring a major Texas railyard facility. The strategic acquisition aims to enhance regional intermodal transfer efficiency and capture growing domestic freight volume across the southern corridor.",
-                "Intermodal shippers gain improved access to integrated rail infrastructure designed to streamline regional distribution and reduce highway congestion. Supply chain directors should evaluate local rail terminal integration to enhance long-term service reliability."
+                "Private equity firm Stonepeak has finalized the acquisition of a major Texas railyard facility to expand its growing logistics real estate portfolio. The strategic investment is designed to enhance regional intermodal transfer efficiency and capture rising domestic freight volumes along critical southern corridors.",
+                "Intermodal shippers gain access to modernized terminal infrastructure engineered to streamline regional distribution and alleviate highway congestion bottlenecks. Supply chain executives should evaluate local rail facility integration to maximize long-term service reliability and cost efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "CYBERSECURITY: FRAUD LOSSES SURGE",
+            "nextUpTease": "LABOR: PORT OF LA CLEAN ENERGY PLAN",
             "tags": [
                 "Source: https://www.dcvelocity.com",
                 "Published: 2026-08-14T00:00:00Z",
@@ -83,13 +83,13 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "CYBERSECURITY: FRAUD LOSSES SURGE",
+            "heading": "LABOR: PORT OF LA CLEAN ENERGY PLAN",
             "paragraphs": [
-                "New industry reports reveal that logistics identity verification scams and cargo theft losses exceeded $725M over the past year. Fraud syndicates are increasingly utilizing sophisticated social engineering tactics to compromise carrier profiles and divert high-value freight shipments.",
-                "Digital freight brokerages and 3PL networks face severe financial liability and reputational damage from recurring cargo diversion incidents. Risk management teams must implement stringent multi-factor authentication protocols and real-time carrier validation checks."
+                "The ports of Los Angeles and Long Beach have rolled out a comprehensive clean air initiative backed by substantial federal and local funding for electric vehicle charging infrastructure. The environmental mandate requires terminal operators and drayage fleets to accelerate zero-emission equipment adoption across primary harbor facilities.",
+                "Drayage carriers face significant capital expenditure requirements to upgrade legacy truck fleets and terminal handling machinery in compliance with stringent regional emissions standards. Logistics managers must factor infrastructure transition costs into drayage contract negotiations to protect profit margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN FREIGHT: TRANS-PACIFIC RATE SURGE",
+            "nextUpTease": "AIR CARGO: HONG KONG GATEWAY EXPANSION",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: 2026-08-16T00:00:00Z",
@@ -98,16 +98,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "OCEAN FREIGHT: TRANS-PACIFIC RATE SURGE",
+            "heading": "AIR CARGO: HONG KONG GATEWAY EXPANSION",
             "paragraphs": [
-                "Asia to US East Coast ocean freight rates have surged to new highs as sustained import volumes collide with early peak season capacity constraints. Freightos data confirms that persistent cargo demand is driving unexpected rate hikes across major trans-pacific trade lanes.",
-                "Ocean shippers face significant budgetary overruns as carriers enforce premium peak surcharges and strict space allocations. Logistics professionals must secure long-term service contracts early to insulate supply chains against ongoing spot market volatility."
+                "Global logistics provider DHL Express has officially tripled its cargo handling capacity at its Shenzhen gateway through an advanced terminal expansion project. The infrastructure upgrade aims to capture surging cross-border ecommerce volumes and alleviate recurring air freight congestion across Asian trade hubs.",
+                "Air freight forwarders and shippers benefit from accelerated processing speeds and expanded uplift capacity connecting key Asian manufacturing centers to international markets. Supply chain planners should leverage optimized gateway routing to maintain resilient delivery schedules during peak volume periods."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

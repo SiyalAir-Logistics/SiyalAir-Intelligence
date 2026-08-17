@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES FOUR POINT SIX MILLION DOLLARS",
+        "hookTitle": "DE MINIMIS IS LEGALLY BURIED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL FEE PASSES $4.6M",
-                "teaserTitle": "REGULATION: USTR TARIFF IMPLEMENTATION",
+                "headline": "LEGAL: DE MINIMIS IS LEGALLY BURIED",
+                "teaserTitle": "SECURITY: UBER FREIGHT DATA BREACH",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker paid a record four point six million dollars to cut the Panama Canal queue. Middle East conflict and regional routing shifts are intensifying maritime bottlenecks and driving up transit costs."
+                "narration_line": "The trade court permanently eliminates the eight hundred dollar de minimis exemption. Customs authorities are aggressively enforcing new duties on cross-border ecommerce shipments."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: USTR TARIFF IMPLEMENTATION",
-                "teaserTitle": "TRUCKING COMPLIANCE: 22 STATES SUE",
+                "headline": "SECURITY: UBER FREIGHT DATA BREACH",
+                "teaserTitle": "MARITIME: HORMUZ OIL TANKER ATTACKS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The United States Trade Representative is implementing tariffs on sixty trading partners under Section three oh one. Importers face immediate duty adjustments and heightened administrative burdens across international sourcing networks."
+                "narration_line": "A massive security breach at Uber Freight exposes critical digital identity vulnerabilities. Fraud syndicates are exploiting network gaps to divert high-value cargo shipments."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING COMPLIANCE: 22 STATES SUE",
-                "teaserTitle": "AIR CARGO: MUTED PEAK SEASON ACTIVITY",
+                "headline": "MARITIME: HORMUZ OIL TANKER ATTACKS",
+                "teaserTitle": "REGULATION: NON-DOMICILED CDL LIMITS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Twenty-two states have filed a federal lawsuit to block a mandate demanding access to seventeen million driver records. The legal challenge targets federal overreach into commercial driver licensing databases and privacy protections."
+                "narration_line": "Recent tanker attacks in the Strait of Hormuz drive international crude rates sharply higher. Carriers are deploying dark transits and detours, restricting regional export capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: MUTED PEAK SEASON ACTIVITY",
-                "teaserTitle": "RAIL INFRASTRUCTURE: STONEPEAK ACQUISITION",
+                "headline": "REGULATION: NON-DOMICILED CDL LIMITS",
+                "teaserTitle": "INFRASTRUCTURE: STONEPEAK RAILYARD DEAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global air cargo spot rates dropped six percent as muted peak season activity signals a softer second half. Shippers are benefiting from improved pricing leverage across key international air corridors."
+                "narration_line": "Rhode Island and Utah enact stricter limits on non-domiciled commercial driver licenses. The state restrictions threaten to sideline thousands of foreign truck drivers nationwide."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL INFRASTRUCTURE: STONEPEAK ACQUISITION",
-                "teaserTitle": "CYBERSECURITY: FRAUD LOSSES SURGE",
+                "headline": "INFRASTRUCTURE: STONEPEAK RAILYARD DEAL",
+                "teaserTitle": "LABOR: PORT OF LA CLEAN ENERGY PLAN",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Stonepeak has expanded its logistics real estate portfolio by acquiring a major Texas railyard facility. The strategic acquisition aims to enhance regional intermodal transfer efficiency and capture growing domestic freight volume."
+                "narration_line": "Private equity firm Stonepeak acquires a major Texas railyard facility. The strategic deal enhances regional intermodal transfer efficiency across southern corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "CYBERSECURITY: FRAUD LOSSES SURGE",
-                "teaserTitle": "OCEAN FREIGHT: TRANS-PACIFIC RATE SURGE",
+                "headline": "LABOR: PORT OF LA CLEAN ENERGY PLAN",
+                "teaserTitle": "AIR CARGO: HONG KONG GATEWAY EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Logistics identity verification scams and cargo theft losses exceeded seven hundred twenty-five million dollars last year. Fraud syndicates are increasingly utilizing social engineering tactics to compromise carrier profiles."
+                "narration_line": "Los Angeles and Long Beach ports launch a major clean energy funding plan. Terminal operators face strict mandates to accelerate zero-emission equipment adoption."
             },
             {
                 "slide_index": 7,
-                "headline": "OCEAN FREIGHT: TRANS-PACIFIC RATE SURGE",
+                "headline": "AIR CARGO: HONG KONG GATEWAY EXPANSION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Asia to United States ocean freight rates surged to new highs amid sustained import volumes and capacity constraints. Persistent cargo demand is driving unexpected rate hikes across major trans-pacific trade lanes."
+                "narration_line": "DHL Express triples its Shenzhen air cargo capacity through a major terminal expansion. The upgrade helps alleviate recurring congestion across key Asian trade hubs."
             },
             {
                 "slide_index": 8,
