@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M",
+        "hookTitle": "DE MINIMIS IS DEAD AND LEGALLY BURIED IN COURT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
-                "teaserTitle": "CONTAINERS: PORT CONGESTION CAPACITY LOSS",
+                "headline": "REGULATION: DE MINIMIS IS DEAD",
+                "teaserTitle": "AIR CARGO: DHL EXPANDS SHENZHEN HUB",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker will cut the Panama Canal queue after paying a record four point six million dollars. Shippers face escalating transit costs as priority bidding scales upward."
+                "narration_line": "The United States trade court has officially upheld the elimination of the eight hundred dollar de minimis exemption. E-commerce platforms and international fulfillment operators are scrambling to re-engineer customs compliance protocols."
             },
             {
                 "slide_index": 2,
-                "headline": "CONTAINERS: PORT CONGESTION CAPACITY LOSS",
-                "teaserTitle": "REGULATION: DE MINIMIS LOOPHOLE CLOSED",
+                "headline": "AIR CARGO: DHL EXPANDS SHENZHEN HUB",
+                "teaserTitle": "CONTAINERS: PORT CONGESTION CAPACITY LOSS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Persistent port congestion is removing one point seven million TEU of capacity from commercial circulation. Network directors face severe equipment imbalances and drayage delays."
+                "narration_line": "DHL Express has finalized a major terminal expansion in Shenzhen designed to triple regional air cargo processing capacity. The automated hub rollout aims to capture surging high-tech export volumes."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: DE MINIMIS LOOPHOLE CLOSED",
-                "teaserTitle": "ENERGY: OIL TANKERS DARK TRANSIT SURGE",
+                "headline": "CONTAINERS: PORT CONGESTION CAPACITY LOSS",
+                "teaserTitle": "FREIGHT: RATE INCREASE FIRE SPREADS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The trade court has upheld the elimination of the eight hundred dollar de minimis customs exemption. E-commerce platforms are scrambling to re-engineer compliance protocols."
+                "narration_line": "Persistent global port congestion is effectively removing one point seven million TEU of active containership capacity from commercial circulation. Stalled vessel turnaround times now rival entire carrier fleets."
             },
             {
                 "slide_index": 4,
-                "headline": "ENERGY: OIL TANKERS DARK TRANSIT SURGE",
-                "teaserTitle": "FREIGHT: RATE INCREASE FIRE SPREADS",
+                "headline": "FREIGHT: RATE INCREASE FIRE SPREADS",
+                "teaserTitle": "ENERGY: OIL TANKERS DARK TRANSIT SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Crude oil tankers in the Strait of Hormuz are deploying dark transit protocols to maintain exports. Global energy logistics networks face heightened maritime insurance premiums."
+                "narration_line": "Severe shipping disruptions have caused rate increases to spread rapidly from spot markets into long-term contracts. Ocean carriers are successfully locking shippers into elevated baseline pricing structures."
             },
             {
                 "slide_index": 5,
-                "headline": "FREIGHT: RATE INCREASE FIRE SPREADS",
-                "teaserTitle": "AIR CARGO: DHL EXPANDS SHENZHEN HUB",
+                "headline": "ENERGY: OIL TANKERS DARK TRANSIT SURGE",
+                "teaserTitle": "COMPLIANCE: BAE SYSTEMS SETTLEMENT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Ocean shipping disruptions have caused rate increases to spread rapidly into long-term contracts. Procurement teams must adopt agile modal strategies to protect margins."
+                "narration_line": "Crude oil tankers transiting the Strait of Hormuz are increasingly deploying dark transit protocols to maintain export flows. Middle Eastern energy shippers take extreme security precautions following vessel attacks."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: DHL EXPANDS SHENZHEN HUB",
+                "headline": "COMPLIANCE: BAE SYSTEMS SETTLEMENT",
                 "teaserTitle": "TECHNOLOGY: ARCTIC CONTAINER SERVICE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "DHL Express has finalized a major terminal expansion in Shenzhen to triple air cargo processing capacity. The investment provides essential relief for supply chain managers."
+                "narration_line": "The Department of State agreed to a thirty-six million dollar settlement with BAE Systems for arms export violations. The enforcement action requires the contractor to strengthen internal compliance programs."
             },
             {
                 "slide_index": 7,
                 "headline": "TECHNOLOGY: ARCTIC CONTAINER SERVICE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "China has transitioned its Arctic container corridor experiment into a scheduled weekly commercial service. Shippers seeking alternatives to southern routes now have a viable high-latitude option."
+                "narration_line": "Chinas push for an Arctic container corridor has transitioned from experimental voyages to scheduled weekly commercial service. Sea Legend deployed the Dubai Tower on regular Northern Sea Route sailings."
             },
             {
                 "slide_index": 8,
