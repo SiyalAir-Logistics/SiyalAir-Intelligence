@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR MOVES FORWARD WITH TARIFFS ON 60",
-        "titleBlue": "NATIONS",
-        "footerSummary": "USTR implements Section 301 tariffs across 60 trading partners as Section 122 expires, driving immediate cost escalations for global shippers."
+        "titleWhite": "PANAMA QUEUE FEE HITS",
+        "titleBlue": "$4.6M",
+        "footerSummary": "Panama Canal auction fees reach a record $4.6M as Middle East diversions compound bottleneck risks for global shipping lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS ON 60",
+            "heading": "CANAL: PANAMA QUEUE FEE HITS $4.6M",
             "paragraphs": [
-                "The Office of the United States Trade Representative announced it is moving forward with the implementation of tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. This decisive regulatory enforcement action coincides with the expiration of Section 122 tariffs, fundamentally reshaping customs compliance for international importers.",
-                "Supply chain operators face immediate cost increases and complex documentation burdens as compliance verification protocols tighten across diverse global trade lanes. Procurement teams must rapidly re-evaluate supplier relationships and factor these expansive tariff duties into landed cost models."
+                "An empty liquefied petroleum gas carrier paid a record $4.6M auction fee to bypass the mounting vessel queue at the Panama Canal. Persistent draft restrictions and geopolitical rerouting away from the Suez Canal have triggered severe slot scarcity across Central American transit corridors. Wait times for non-booked tonnage now exceed multi-week averages, forcing high-value operators to bid aggressively for priority passage.",
+                "This historic toll premium establishes an unsustainable cost threshold for ocean carriers attempting to protect tight delivery windows. Fleet operators must weigh extreme auction surcharges against the extended transit days and fuel burn of sailing around Cape Horn. Distribution managers moving time-sensitive bulk and containerized cargo must immediately recalibrate landed cost models."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE: DE MINIMIS EXEMPTION LEGALLY CLOSED",
+            "nextUpTease": "RAIL: TRAIN CARGO THEFT HITS $200M",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-17T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE: DE MINIMIS EXEMPTION LEGALLY CLOSED",
+            "heading": "RAIL: TRAIN CARGO THEFT HITS $200M",
             "paragraphs": [
-                "The federal trade court has formally upheld the elimination of the $800 de minimis customs exemption for low-value inbound shipments, closing the final legal door on duty-free parcel imports. This milestone ruling ramps up administrative friction for cross-border e-commerce networks and heightens electronic customs screening at all entry points.",
-                "Importers are absorbing unexpected duty liabilities on high-volume direct-to-consumer consignments that previously cleared without formal tariffs or rigorous inspection. Logistics executives must restructure inventory staging models and transit compliance frameworks to prevent border delays."
+                "Organized theft rings are now siphoning over $200M in freight annually from Class I rail networks across the United States. Criminal syndicates are systematically targeting intermodal rail cars carrying consumer electronics, luxury goods, and automotive parts during scheduled siding stops and switching yard dwell times. Intermodal corridors across the Southwest and Midwest are reporting unprecedented loss spikes.",
+                "Intermodal shippers face expanding cargo liability claims, elevated insurance deductibles, and severe schedule interruptions across domestic supply chains. Rail carriers are deploying tactical response units and drone surveillance, yet freight forwarders must enforce secondary mechanical locks and GPS sensors on rail containers. Shippers must evaluate risk-adjusted intermodal transit times against higher-cost highway team drivers."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: PORT DELAYS REMOVE 1.7M TEUS",
+            "nextUpTease": "AIR FREIGHT: GLOBAL RATES SOFTEN AS VOLUMES DIP",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-17T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: PORT DELAYS REMOVE 1.7M TEUS",
+            "heading": "AIR FREIGHT: GLOBAL RATES SOFTEN AS VOLUMES DIP",
             "paragraphs": [
-                "Persistent global port congestion is effectively removing 1.7M TEUs of active containership capacity from the international market, approaching the scale of an entire major carrier fleet. Vessel backlogs and terminal inefficiencies across key Asian and European hubs are severely draining equipment velocity.",
-                "Ocean liner networks are experiencing cascading schedule disruptions that undermine transit reliability and inflate spot freight rates across major trade lanes. Supply chain managers must secure buffer allocations and expand container safety stocks to mitigate terminal bottlenecks."
+                "Global air cargo spot rates declined 6% month over month as chargeable weight volumes softened during the opening weeks of August. The unexpected mid-quarter capacity expansion across transpacific and European trunk routes has outpaced demand from consumer tech and fashion shippers. The cooling spot environment signals a potential stabilization following months of relentless rate escalation.",
+                "Procurement teams are leveraging this volume lull to negotiate favorable index-linked contracts ahead of the Q4 peak shipping season. Shippers who deferred volume commitments can now secure dedicated block space allocations at discounted base rates without locking into punitive spot margins. Logistics directors must monitor bellyhold passenger capacity shifts as airline winter schedules approach."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: DHL EXPANDS SHENZHEN CAPACITY",
+            "nextUpTease": "MARITIME: ARCTIC ROUTE LAUNCHES WEEKLY SERVICE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-17T06:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR FREIGHT: DHL EXPANDS SHENZHEN CAPACITY",
+            "heading": "MARITIME: ARCTIC ROUTE LAUNCHES WEEKLY SERVICE",
             "paragraphs": [
-                "DHL Express has completed a major infrastructure expansion designed to triple air cargo processing capacity at its premier Shenzhen gateway terminal. The upgraded facility integrates advanced automated parcel sorting systems to manage surging volumes of cross-border high-tech manufacturing freight.",
-                "Global forwarders gain enhanced high-velocity throughput connecting southern China directly to key international consumption markets during peak operational windows. Air cargo procurement teams should evaluate dedicated integrator capacity commitments against fluctuating spot market rates."
+                "Chinese carrier Sea Legend has transitioned its Arctic container operation into a scheduled weekly service connecting Ningbo-Zhoushan to European discharge hubs. The Northern Sea Route corridor deploys 1,740 TEU ice-class containerships to slash maritime transit times between East Asia and Northern Europe by nearly 14 days compared to traditional Cape of Good Hope routings. The service represents the first regular commercial liner schedule through the corridor.",
+                "Shippers gain access to expedited ocean transit speeds that rival high-cost overland rail links without absorbing air freight price premiums. However, cargo moving through this lane faces strict environmental compliance scrutiny, heightened hull insurance rates, and elevated geopolitical exposure. Enterprise forwarders must carefully assess cold-chain integrity and carrier liability coverage before shifting baseline volumes to Arctic corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: 54-COUNT TAX FRAUD CRACKDOWN",
+            "nextUpTease": "TANKERS: SANCTIONED SHIPS COMPRISE 58% OF SCRAPPING",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-17T05:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TRUCKING: 54-COUNT TAX FRAUD CRACKDOWN",
+            "heading": "TANKERS: SANCTIONED SHIPS COMPRISE 58% OF SCRAPPING",
             "paragraphs": [
-                "Federal investigators have unsealed a 54-count tax fraud indictment targeting widespread financial networks exploiting independent truck drivers across multiple U.S. jurisdictions. This enforcement sweep highlights severe administrative vulnerabilities and compliance oversights within independent owner-operator operating models.",
-                "Motor carriers face potential operational disruptions as affiliated drivers navigate ongoing legal fallout and heightened tax audits from federal agencies. Fleet executives must rigorously vet financial service providers and reinforce compliance standards across contracted driver networks."
+                "Sanctioned vessels accounted for 58% of all global tanker demolition deals completed during 2026, totaling 2.1M deadweight tons across 26 scrapped hulls. Escalating enforcement by maritime regulatory bodies and tightened port state control regimes have effectively restricted secondary employment for aged shadow fleet tonnage. Demolition yards in South Asia are absorbing these high-tonnage vessels despite historically muted overall commercial shipbreaking activity.",
+                "The systematic removal of non-compliant shadow tonnage is restricting dark-market transport capacity for global energy trades. Mainstream wet bulk freight rates face upward pricing pressure as charterers increasingly demand fully verified, Western-insured tonnage to prevent regulatory fines. Energy supply chain directors must audit vessel compliance documentation to ensure zero exposure to sanctioned maritime assets."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: $111M DATA CENTER THEFT RING",
+            "nextUpTease": "TRUCKLOAD: LINEHAUL SPOT RATES SURGE IN JULY",
             "tags": [
                 "Source: https://www.freightwaves.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Published: 2026-08-17T04:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: $111M DATA CENTER THEFT RING",
+            "heading": "TRUCKLOAD: LINEHAUL SPOT RATES SURGE IN JULY",
             "paragraphs": [
-                "Organized criminal syndicates have stolen nearly $111M in specialized data center freight using sophisticated bump-and-run tactics on major U.S. highway corridors. High-value semiconductor and server shipments moving between manufacturing facilities and regional hubs remain prime targets for cargo thieves.",
-                "Supply chain security teams face escalating insurance premiums and mandatory escort requirements for sensitive technology transport operations. Transport providers must deploy advanced covert tracking sensors and strict non-stop route protocols to deter intermodal intercept attempts."
+                "National truckload linehaul spot rates surged higher through July despite flat underlying volume demand across major domestic industrial corridors, according to the latest Cass Information Systems data. Accelerating carrier bankruptcies and driver attrition have removed marginal fleet capacity faster than freight demand has softened. Dry van and refrigerated contract rates are establishing new floor baselines across regional distribution lanes.",
+                "Shippers are encountering tightening tender rejection rates as carriers reassign power units toward higher-yielding short-term contract commitments. Logistics managers relying heavily on low spot market exposure face unbudgeted margin leakage and diminished primary carrier compliance. Shippers must deploy targeted mini-bids to secure routing guide integrity and shield distribution networks from second-half rate shocks."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: SO CAL FRAUD PROBE ARRESTS 5",
+            "nextUpTease": "PORTS: AD PORTS FACES $2.1B PRIVATIZATION BID",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-17T03:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAIL: SO CAL FRAUD PROBE ARRESTS 5",
+            "heading": "PORTS: AD PORTS FACES $2.1B PRIVATIZATION BID",
             "paragraphs": [
-                "Law enforcement officials have arrested five suspects in Southern California following an armed rail cargo theft investigation along active BNSF freight corridors. Criminal networks have increasingly targeted intermodal container yards and slow-moving freight trains to plunder consumer electronics and retail goods.",
-                "Rail operators and intermodal carriers are deploying heightened surveillance and armed security patrols to safeguard vulnerable terminal yards and cargo storage areas. Shippers moving high-value freight through West Coast corridors must incorporate enhanced risk mitigation protocols into distribution contracts."
+                "Abu Dhabi sovereign investor L'IMAD launched a cash offer valued at $2.1B to acquire the remaining 24.58% stake in AD Ports Group and take the company private. The major Middle Eastern terminal and logistics conglomerate has expanded its international terminal footprint across the Red Sea, Mediterranean, and Central Asian corridors. The full privatization aims to streamline cross-border capital deployment and accelerate aggressive maritime infrastructure acquisitions.",
+                "Consolidation of terminal assets under sovereign control could reshape concession agreements, tariff structures, and berthing priorities across Gulf transit hubs. Freight forwarders utilizing Middle Eastern gateway hubs must track potential renegotiations of handling tariffs and terminal operating agreements. Logistics leaders should establish diversified hub strategies to protect transit flexibility across regional transshipment centers."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-17T02:00:00Z",
                 "Status: Audited & True"
             ]
         }

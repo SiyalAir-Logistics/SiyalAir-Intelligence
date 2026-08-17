@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES FORWARD WITH TARIFFS ON 60 NATIONS",
+        "hookTitle": "PANAMA QUEUE FEE HITS $4.6M",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS ON 60",
-                "teaserTitle": "TRADE: DE MINIMIS EXEMPTION LEGALLY CLOSED",
+                "headline": "CANAL: PANAMA QUEUE FEE HITS $4.6M",
+                "teaserTitle": "RAIL: TRAIN CARGO THEFT HITS $200M",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is implementing Section three hundred one tariffs across sixty trading partners. This regulatory action drives immediate cost escalations and forces global supply chains to restructure landed pricing."
+                "narration_line": "A gas tanker paid a record four point six million dollar auction fee to bypass severe Panama Canal queues. Vessel operators face extreme premiums to protect transit schedules."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE: DE MINIMIS EXEMPTION LEGALLY CLOSED",
-                "teaserTitle": "MARITIME: PORT DELAYS REMOVE 1.7M TEUS",
+                "headline": "RAIL: TRAIN CARGO THEFT HITS $200M",
+                "teaserTitle": "AIR FREIGHT: GLOBAL RATES SOFTEN AS VOLUMES DIP",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The federal trade court has formally upheld the elimination of the eight hundred dollar de minimis customs exemption. Importers now face unexpected duty liabilities and administrative friction across cross-border parcel consignments."
+                "narration_line": "Organized theft rings steal over two hundred million dollars in rail freight annually across United States corridors. Shippers must deploy advanced container locks and tracking sensors."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: PORT DELAYS REMOVE 1.7M TEUS",
-                "teaserTitle": "AIR FREIGHT: DHL EXPANDS SHENZHEN CAPACITY",
+                "headline": "AIR FREIGHT: GLOBAL RATES SOFTEN AS VOLUMES DIP",
+                "teaserTitle": "MARITIME: ARCTIC ROUTE LAUNCHES WEEKLY SERVICE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Persistent port congestion is effectively removing one point seven million TEUs of containership capacity from global markets. Liner networks face cascading schedule disruptions that inflate spot freight rates and strain equipment velocity."
+                "narration_line": "Global air freight rates fell six percent month over month as summer cargo volumes softened. Shippers are using this window to secure discounted block space agreements."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR FREIGHT: DHL EXPANDS SHENZHEN CAPACITY",
-                "teaserTitle": "TRUCKING: 54-COUNT TAX FRAUD CRACKDOWN",
+                "headline": "MARITIME: ARCTIC ROUTE LAUNCHES WEEKLY SERVICE",
+                "teaserTitle": "TANKERS: SANCTIONED SHIPS COMPRISE 58% OF SCRAPPING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "DHL Express has completed a major infrastructure expansion to triple air cargo processing capacity at its Shenzhen gateway. Global forwarders gain enhanced high-velocity throughput connecting southern China directly to international markets."
+                "narration_line": "Sea Legend launched the first scheduled weekly container service across the Arctic Northern Sea Route. The corridor cuts transit times between Asia and Europe by fourteen days."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING: 54-COUNT TAX FRAUD CRACKDOWN",
-                "teaserTitle": "SECURITY: $111M DATA CENTER THEFT RING",
+                "headline": "TANKERS: SANCTIONED SHIPS COMPRISE 58% OF SCRAPPING",
+                "teaserTitle": "TRUCKLOAD: LINEHAUL SPOT RATES SURGE IN JULY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Federal investigators have unsealed a fifty four count tax fraud indictment targeting networks exploiting independent truck drivers. Motor carriers face potential operational disruptions as contracted driver compliance protocols face heightened audits."
+                "narration_line": "Sanctioned vessels accounted for fifty eight percent of all tanker scrap sales in twenty twenty six. Regulatory enforcement is eliminating aging shadow fleet tonnage from commercial circulation."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: $111M DATA CENTER THEFT RING",
-                "teaserTitle": "RAIL: SO CAL FRAUD PROBE ARRESTS 5",
+                "headline": "TRUCKLOAD: LINEHAUL SPOT RATES SURGE IN JULY",
+                "teaserTitle": "PORTS: AD PORTS FACES $2.1B PRIVATIZATION BID",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Organized criminal syndicates have stolen nearly one hundred eleven million dollars in specialized data center freight on highways. Supply chain security teams face escalating insurance premiums and mandatory covert tracking protocols."
+                "narration_line": "Truckload linehaul spot rates rose sharply in July despite soft overall freight volume demand. Rapid carrier attrition is removing truck capacity and driving up linehaul costs."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: SO CAL FRAUD PROBE ARRESTS 5",
+                "headline": "PORTS: AD PORTS FACES $2.1B PRIVATIZATION BID",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Law enforcement officials arrested five suspects in Southern California following an armed rail cargo theft investigation. Rail operators are deploying armed security patrols to safeguard vulnerable intermodal terminal yards and freight corridors."
+                "narration_line": "Abu Dhabi sovereign investor Limad launched a two point one billion dollar bid to take AD Ports private. The move aims to accelerate global marine terminal expansions."
             },
             {
                 "slide_index": 8,
