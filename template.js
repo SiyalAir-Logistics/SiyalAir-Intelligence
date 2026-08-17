@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
-        "titleBlue": "4.6M",
-        "footerSummary": "Panama Canal queue jump fees hit $4.6M as Middle East conflict reroutes global shipping, forcing carriers to absorb massive transit costs."
+        "titleWhite": "PANAMA CANAL DRAUGHT RESTRICTIONS ADD",
+        "titleBlue": "CONGESTION",
+        "footerSummary": "Panama Canal draught restrictions compound global shipping chaos as Middle East conflicts and El Nino pressures strain maritime networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PANAMA CANAL: QUEUE JUMP FEE PASSES 4.6M",
+            "heading": "MARITIME: PANAMA CANAL DRAUGHT RESTRICTIONS ADD",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker paid a record $4.6M to jump the Panama Canal queue as Middle East routing pressures intensify global maritime congestion. The unprecedented fee eclipses the previous $3.975M mark, underscoring extreme vessel scheduling desperation. Shippers face severe transit delays and skyrocketing priority tolls as geopolitical bottlenecks restrict alternative global trade arteries.",
-                "Carrier operating costs are escalating rapidly, forcing logistics executives to pass multi-million dollar surcharges down to enterprise cargo owners. This volatile environment demands advanced route planning and dynamic allocation strategies to protect shrinking quarterly profit margins. Supply chain directors must evaluate whether premium canal fees outweigh the extended transit delays of traditional oceanic detours."
+                "Waterways worldwide are contending with severe operational chaos as Panama Canal draught restrictions worsen vessel congestion. The convergence of Middle East conflict pressures and El Nino weather patterns is severely restricting transit capacity across critical global maritime corridors. Carriers face mounting scheduling delays and operational bottlenecks as traditional routing options remain constrained.",
+                "Logistics executives must absorb escalating transit costs and evaluate alternative oceanic routes to protect supply chain continuity. The ongoing degradation of canal fluidity forces shippers to reallocate inventory and adjust delivery timelines across international networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: PORT DELAYS REMOVE 1.7M TEU",
+            "nextUpTease": "COMPLIANCE: DE MINIMIS IS LEGALLY BURIED",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "MARITIME: PORT DELAYS REMOVE 1.7M TEU",
-            "paragraphs": [
-                "Persistent global port congestion is effectively removing 1.7M TEU of containership capacity from active circulation, matching the scale of an entire major fleet. Sea-Intelligence reporting reveals that terminal bottlenecks and schedule unreliability are locking up vital vessel space across primary international trade lanes. Ocean carriers are struggling to maintain container equipment availability as dwell times climb at major import gateways.",
-                "This artificial capacity contraction tightens vessel supply, keeping spot rates elevated and threatening predictable maritime freight execution. Shippers must secure long-term service contracts and diversify port entry points to insulate supply chains from chronic terminal friction. Operational planners are forced to build buffer inventory days into network models to absorb unpredictable marine delays."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TANKERS: SANCTIONED SHIPS LEAD SCRAPPING",
-            "tags": [
-                "Source: https://splash247.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 3,
-            "heading": "TANKERS: SANCTIONED SHIPS LEAD SCRAPPING",
+            "id": 2,
+            "heading": "COMPLIANCE: DE MINIMIS IS LEGALLY BURIED",
             "paragraphs": [
-                "Sanctioned vessels account for 58% of all tanker recycling deals this year, with 26 restricted ships totaling 2.1M DWT sold for demolition. Clarksons Research notes that despite strong freight earnings keeping overall demolition near historic lows, owners of shadow fleet assets are aggressively exiting the market. Heightened regulatory scrutiny and international compliance enforcement are driving substandard tonnage out of operation.",
-                "Tanker charterers face complex vetting requirements to ensure compliance with tightening maritime sanctions and prevent severe legal liabilities. Energy logistics teams must meticulously audit vessel ownership histories and insurance structures to avoid exposure to blacklisted operators. This capacity reduction in older asset classes signals long-term tightening for global liquid bulk transport."
+                "The federal trade court has formally shut the final legal door on low-value tariff exemptions, effectively burying the traditional 800 USD de minimis loophole. Importers and e-commerce platforms can no longer rely on duty-free processing for qualifying parcels entering domestic distribution channels. Customs authorities are aggressively enforcing the updated regulatory standard across all international entry points.",
+                "Eliminating the exemption introduces substantial duty liabilities that instantly compress profit margins for cross-border retailers and parcel consolidators. Supply chain directors must overhaul entry compliance protocols and integrate automated tax calculation engines to prevent border delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: GLOBAL RATES DIP AS VOLUMES SLOW",
+            "nextUpTease": "LOGISTICS: US PORTS PURSUE DATA CENTRES",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-16T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "LOGISTICS: US PORTS PURSUE DATA CENTRES",
+            "paragraphs": [
+                "The artificial intelligence boom is placing unprecedented strain on United States high-and-wide transport systems, forcing ports to adapt infrastructure. Regional gateway operators are actively investing in specialized heavy-lift capabilities to handle massive electrical transformers and server components. Specialized transport engineering firms are scrambling to secure permits for oversized overland movements.",
+                "Capturing this specialized infrastructure traffic requires port facilities to upgrade intermodal rail connections and staging yards. Logistics providers must coordinate complex route surveys to support the massive capital equipment inflows required for domestic data center expansion."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO: AIRZETA REBOUNDS AFTER MERGER",
+            "tags": [
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: GLOBAL RATES DIP AS VOLUMES SLOW",
+            "heading": "AIR CARGO: AIRZETA REBOUNDS AFTER MERGER",
             "paragraphs": [
-                "Global air cargo spot rates declined 6% month over month as chargeable weight volumes softened during the opening weeks of August. Xeneta reports that mid-quarter capacity expansion across major trunk routes has outpaced current demand from consumer tech and fashion shippers. The cooling spot environment provides a temporary reprieve following months of aggressive rate escalation across key export hubs.",
-                "Procurement teams are leveraging this volume lull to negotiate favorable index-linked contracts ahead of the impending Q4 peak shipping season. Shippers who deferred volume commitments can secure dedicated block space allocations at discounted base rates without locking into punitive spot margins. Logistics directors must monitor bellyhold passenger capacity shifts as airline winter schedules approach."
+                "AirZeta has successfully completed its operational turnaround following the formal integration of Asiana Airlines cargo division into Air Incheon. The newly consolidated carrier is scaling up widebody freighter operations to capture recovering export volumes across key Asian trade lanes. Regional cargo networks are stabilizing as carriers optimize their newly expanded fleet capacities.",
+                "Freight forwarders benefit from enhanced maindeck capacity options and improved schedule reliability across competitive trans-Pacific routes. Procurement teams should reassess contracted block space agreements to leverage the expanded carrier footprint for upcoming peak season volumes."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: USTR MOVES ON FORCED LABOR TARIFFS",
+            "nextUpTease": "RAILWAY: CPKC BENENVILLE YARD REBOUNDS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COMPLIANCE: USTR MOVES ON FORCED LABOR TARIFFS",
+            "heading": "RAILWAY: CPKC BENENVILLE YARD REBOUNDS",
             "paragraphs": [
-                "The Office of the United States Trade Representative is advancing the implementation of targeted tariffs across 60 trading partners as legacy provisions expire. Federal trade authorities are intensifying cross-border compliance enforcement to penalize supply chains linked to non-compliant labor practices and restricted sourcing regions. Importers must review complex tier-one and tier-two supplier networks to ensure strict adherence to updated regulatory mandates.",
-                "Absorbing sudden duty liabilities and compliance checks creates immediate margin compression for international retail and manufacturing enterprises. Legal and logistics teams face mounting pressures to deploy automated trade screening software and enhance end-to-end supply chain visibility. Failure to maintain rigorous oversight risks costly border seizures, shipment rejections, and permanent trade penalties."
+                "Operations at the Canadian Pacific Kansas City Bensenville railyard are steadily recovering following recent paving-related infrastructure delays. Terminal management has cleared lingering car backlogs and restored normal switching velocities across the primary Midwestern interchange hub. Shippers moving intermodal and carload freight through the facility are experiencing improved transit consistency.",
+                "Restoring yard fluidity helps mitigate supply chain friction for industrial manufacturers relying on predictable rail connectivity. Logistics managers must maintain active communication with rail carriers to capitalize on normalized terminal processing times."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT: HIGH VALUE LOADS DRIVE CARGO THEFT",
+            "nextUpTease": "TECHNOLOGY: FREIGHTOS NAMES NEW CFO",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.joc.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FREIGHT: HIGH VALUE LOADS DRIVE CARGO THEFT",
+            "heading": "TECHNOLOGY: FREIGHTOS NAMES NEW CFO",
             "paragraphs": [
-                "While overall cargo theft incident counts declined in the second quarter, organized criminal rings increasingly targeted high-value freight loads. Transport Topics reporting indicates that losses per incident surged as thieves zeroed in on electronics, pharmaceuticals, and high-density consumer goods. Fleets face sophisticated interception tactics that bypass traditional transit security checkpoints across primary freight corridors.",
-                "Supply chain managers must upgrade in-transit asset tracking, implement real-time telematics, and mandate secure yard protocols to mitigate escalating theft exposure. Insurance underwriters are tightening policy requirements and raising premiums for fleets operating without advanced driver and trailer security systems. Protecting high-value shipments now requires multi-layered risk mitigation strategies across every transport mode."
+                "Digital freight booking platform Freightos has appointed Yaron Eldad as its new chief financial officer to steer fiscal strategy. The executive transition comes as digital freight marketplaces accelerate their expansion across global quotation and procurement networks. Industry adoption of automated rate management tools continues to scale rapidly among enterprise shippers.",
+                "Financial stakeholders are closely monitoring digital platform profitability as freight tech investments face tighter market scrutiny. Shippers utilizing automated booking channels can expect accelerated platform feature updates aimed at streamlining multi-modal procurement."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE: USMCA UNCERTAINTY TESTS MAKERS",
+            "nextUpTease": "AVIATION: AIRLINES EXPAND FREIGHT HUBS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AUTOMOTIVE: USMCA UNCERTAINTY TESTS MAKERS",
+            "heading": "AVIATION: AIRLINES EXPAND FREIGHT HUBS",
             "paragraphs": [
-                "North American automotive manufacturers are confronting severe strategic vulnerability as the long-term viability of the USMCA trade pact faces growing political uncertainty. Supply chain planners are evaluating potential structural decoupling across cross-border parts manufacturing networks in Canada, Mexico, and the United States. The prospect of reinstated regional tariffs threatens deeply integrated just-in-time production schedules.",
-                "Automotive executives must model alternative sourcing footprints and establish buffer component inventories to absorb potential cross-border trade friction. Procurement teams are under pressure to localize tier-one supplier bases to insulate manufacturing lines from impending regulatory shifts. Navigating this transition requires balancing massive capital investments against unpredictable trade policy outcomes."
+                "Major international cargo airlines are positioning dedicated freighter fleets at expanding aviation hubs to capture shifting export demand. Airport operators are investing heavily in temperature-controlled tarmac facilities and automated sorting infrastructure to reduce cargo dwell times. Heightened competition among regional air hubs is driving down terminal handling fees for forwarders.",
+                "Supply chain planners managing time-sensitive perishables and electronics can leverage these expanded hub capabilities to optimize transit times. Securing priority access to modern airside facilities remains essential for maintaining reliable high-speed distribution networks."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
