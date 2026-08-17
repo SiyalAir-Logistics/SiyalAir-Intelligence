@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DE MINIMIS TARIFF EXEMPTION BURIED",
+        "hookTitle": "PANAMA CANAL AUCTION RECORD HITS 4.6M",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: DE MINIMIS EXEMPTION BURIED",
-                "teaserTitle": "TARIFFS: TRUMP IMPOSES 100 PERCENT DRONE TARIFFS",
+                "headline": "MARITIME: PANAMA CANAL AUCTION RECORD",
+                "teaserTitle": "OCEAN: PORT DELAYS LOCK 1.7M TEU",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "United States trade courts have officially eliminated low-value duty exemptions. Importers must now overhaul land cost models for cross-border parcels."
+                "narration_line": "Panama Canal auction fees have surged to a record four point six million dollars for priority transit slots. Shippers must evaluate multi-million dollar bypass fees against two-week vessel diversions."
             },
             {
                 "slide_index": 2,
-                "headline": "TARIFFS: TRUMP IMPOSES 100 PERCENT DRONE TARIFFS",
-                "teaserTitle": "MARITIME: GERMAN PORT UNION LAUNCHES STRIKES",
+                "headline": "OCEAN: PORT DELAYS LOCK 1.7M TEU",
+                "teaserTitle": "INFRASTRUCTURE: AD PORTS 2.1B USD BUYOUT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "President Trump enacted one hundred percent tariffs on foreign drones and components. Sourcing teams are rushing to qualify domestic alternative suppliers."
+                "narration_line": "Global port congestion is currently immobilizing one point seven million TEU of container ship capacity worldwide. Freight planners must book container space four weeks ahead to offset tightening vessel availability."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: GERMAN PORT UNION LAUNCHES STRIKES",
-                "teaserTitle": "COMPLIANCE: USTR ENFORCES FORCED LABOR TARIFFS",
+                "headline": "INFRASTRUCTURE: AD PORTS 2.1B USD BUYOUT",
+                "teaserTitle": "PROCUREMENT: PENTAGON 2B USD MINERAL PACTS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "German port hubs face severe warning strikes as wage talks completely collapse. Logistics planners must reroute European gateway cargo immediately."
+                "narration_line": "Abu Dhabi sovereign investor L'IMAD has launched a two point one billion dollar buyout for AD Ports. The privatization will reshape marine terminal investments across core Middle Eastern trade routes."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPLIANCE: USTR ENFORCES FORCED LABOR TARIFFS",
-                "teaserTitle": "FREIGHT: TRUCKLOAD LINEHAUL RATES SURGE",
+                "headline": "PROCUREMENT: PENTAGON 2B USD MINERAL PACTS",
+                "teaserTitle": "SECURITY: BLACK SEA TANKER DRONE ATTACK",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The USTR is enforcing strict forced labor tariffs across sixty trading partners. Supply chain teams must achieve complete tier-one traceability."
+                "narration_line": "The Pentagon has signed over two billion dollars in loan deals to secure critical domestic minerals. Industrial manufacturers must align raw material sourcing with strict new federal procurement standards."
             },
             {
                 "slide_index": 5,
-                "headline": "FREIGHT: TRUCKLOAD LINEHAUL RATES SURGE",
-                "teaserTitle": "SECURITY: TRAIN THIEVES STEAL 200M USD IN CARGO",
+                "headline": "SECURITY: BLACK SEA TANKER DRONE ATTACK",
+                "teaserTitle": "FREIGHT: TRUCK MINI-BIDS REPLACE RFPS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Cass reports truckload linehaul rates surged higher as capacity attrition accelerates. Shippers are increasingly abandoning static routing guides."
+                "narration_line": "A commercial tanker was struck by a drone near key Black Sea energy export terminals. Ocean carriers face surging war risk insurance rates and heightened regional transit risks."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: TRAIN THIEVES STEAL 200M USD IN CARGO",
-                "teaserTitle": "AEROSPACE: KOREAN AIR AUTOMATES CARGO HUBS",
+                "headline": "FREIGHT: TRUCK MINI-BIDS REPLACE RFPS",
+                "teaserTitle": "NETWORK: KUEHNE NAGEL EXPANDS CAMBODIA CFS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Railroads face an alarming crime wave causing over two hundred million in losses. Operators are deploying advanced drones and monitoring tools."
+                "narration_line": "Shippers are abandoning annual freight contracts for short-term mini-bids as domestic truckload capacity contracts. Procurement teams must integrate dynamic pricing to prevent costly routing guide failure."
             },
             {
                 "slide_index": 7,
-                "headline": "AEROSPACE: KOREAN AIR AUTOMATES CARGO HUBS",
+                "headline": "NETWORK: KUEHNE NAGEL EXPANDS CAMBODIA CFS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Korean Air is installing automated cargo equipment at major international hubs. Forwarders will benefit from significantly reduced terminal dwell times."
+                "narration_line": "Kuehne plus Nagel has tripled its freight station capacity in Cambodia to capture shifting regional manufacturing. Global importers gain enhanced consolidation infrastructure and faster container processing speeds."
             },
             {
                 "slide_index": 8,
