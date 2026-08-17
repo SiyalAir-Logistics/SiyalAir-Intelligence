@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA QUEUE FEE HITS $4.6M",
+        "hookTitle": "DE MINIMIS TARIFF EXEMPTION DEAD",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CANAL: PANAMA QUEUE FEE HITS $4.6M",
-                "teaserTitle": "RAIL: TRAIN CARGO THEFT HITS $200M",
+                "headline": "CUSTOMS: DE MINIMIS EXEMPTION DEAD",
+                "teaserTitle": "MARITIME: HORMUZ OIL FLOWS VIA DARK TRANSPORTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A gas tanker paid a record four point six million dollar auction fee to bypass severe Panama Canal queues. Vessel operators face extreme premiums to protect transit schedules."
+                "narration_line": "The trade court has officially upheld the elimination of the eight hundred dollar de minimis exemption. Cross-border e-commerce sellers must immediately adopt formal customs entry frameworks."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL: TRAIN CARGO THEFT HITS $200M",
-                "teaserTitle": "AIR FREIGHT: GLOBAL RATES SOFTEN AS VOLUMES DIP",
+                "headline": "MARITIME: HORMUZ OIL FLOWS VIA DARK TRANSPORTS",
+                "teaserTitle": "COMPLIANCE: BAE SYSTEMS PAYS $36M PENALTY",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Organized theft rings steal over two hundred million dollars in rail freight annually across United States corridors. Shippers must deploy advanced container locks and tracking sensors."
+                "narration_line": "Crude oil transport through the Strait of Hormuz continues via clandestine shuttle operations and dark transits. Shadow fleet activity exposes charterers to heightened regulatory scrutiny."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR FREIGHT: GLOBAL RATES SOFTEN AS VOLUMES DIP",
-                "teaserTitle": "MARITIME: ARCTIC ROUTE LAUNCHES WEEKLY SERVICE",
+                "headline": "COMPLIANCE: BAE SYSTEMS PAYS $36M PENALTY",
+                "teaserTitle": "AIR FREIGHT: CAPACITY SOFTENS AS VOLUMES DIP",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Global air freight rates fell six percent month over month as summer cargo volumes softened. Shippers are using this window to secure discounted block space agreements."
+                "narration_line": "BAE Systems agreed to pay a thirty-six million dollar penalty for export violations. Federal agencies are intensifying enforcement on international trade compliance protocols."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: ARCTIC ROUTE LAUNCHES WEEKLY SERVICE",
-                "teaserTitle": "TANKERS: SANCTIONED SHIPS COMPRISE 58% OF SCRAPPING",
+                "headline": "AIR FREIGHT: CAPACITY SOFTENS AS VOLUMES DIP",
+                "teaserTitle": "RAIL: CLASS I SLOWDOWNS TEST INTERMODAL",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Sea Legend launched the first scheduled weekly container service across the Arctic Northern Sea Route. The corridor cuts transit times between Asia and Europe by fourteen days."
+                "narration_line": "Global air cargo spot rates declined six percent as chargeable weight volumes softened. Procurement teams are leveraging this volume lull to secure discounted base rates."
             },
             {
                 "slide_index": 5,
-                "headline": "TANKERS: SANCTIONED SHIPS COMPRISE 58% OF SCRAPPING",
-                "teaserTitle": "TRUCKLOAD: LINEHAUL SPOT RATES SURGE IN JULY",
+                "headline": "RAIL: CLASS I SLOWDOWNS TEST INTERMODAL",
+                "teaserTitle": "PORTS: ASIA-US EAST COAST RATES SURGE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Sanctioned vessels accounted for fifty eight percent of all tanker scrap sales in twenty twenty six. Regulatory enforcement is eliminating aging shadow fleet tonnage from commercial circulation."
+                "narration_line": "Class I railroad networks are managing tightening velocity metrics and localized terminal dwell spikes. Intermodal shippers face heightened schedule volatility across domestic routes."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKLOAD: LINEHAUL SPOT RATES SURGE IN JULY",
-                "teaserTitle": "PORTS: AD PORTS FACES $2.1B PRIVATIZATION BID",
+                "headline": "PORTS: ASIA-US EAST COAST RATES SURGE",
+                "teaserTitle": "RETAIL: INVENTORIES PEAK AHEAD OF TARIFFS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Truckload linehaul spot rates rose sharply in July despite soft overall freight volume demand. Rapid carrier attrition is removing truck capacity and driving up linehaul costs."
+                "narration_line": "Container spot rates from Asia to the East Coast surged as sustained import volumes locked up capacity. Port congestion has removed over one million seven hundred thousand TEUs."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: AD PORTS FACES $2.1B PRIVATIZATION BID",
+                "headline": "RETAIL: INVENTORIES PEAK AHEAD OF TARIFFS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Abu Dhabi sovereign investor Limad launched a two point one billion dollar bid to take AD Ports private. The move aims to accelerate global marine terminal expansions."
+                "narration_line": "U.S. retailers accelerated inventory stockpiling, driving container volumes to an early seasonal peak. Importers are rushing goods ahead of projected duty increases."
             },
             {
                 "slide_index": 8,

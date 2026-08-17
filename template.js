@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA QUEUE FEE HITS",
-        "titleBlue": "$4.6M",
-        "footerSummary": "Panama Canal auction fees reach a record $4.6M as Middle East diversions compound bottleneck risks for global shipping lanes."
+        "titleWhite": "DE MINIMIS TARIFF EXEMPTION",
+        "titleBlue": "DEAD",
+        "footerSummary": "Trade court upholds elimination of the $800 de minimis exemption, shutting out low-cost e-commerce loopholes and reshaping import compliance."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CANAL: PANAMA QUEUE FEE HITS $4.6M",
+            "heading": "CUSTOMS: DE MINIMIS EXEMPTION DEAD",
             "paragraphs": [
-                "An empty liquefied petroleum gas carrier paid a record $4.6M auction fee to bypass the mounting vessel queue at the Panama Canal. Persistent draft restrictions and geopolitical rerouting away from the Suez Canal have triggered severe slot scarcity across Central American transit corridors. Wait times for non-booked tonnage now exceed multi-week averages, forcing high-value operators to bid aggressively for priority passage.",
-                "This historic toll premium establishes an unsustainable cost threshold for ocean carriers attempting to protect tight delivery windows. Fleet operators must weigh extreme auction surcharges against the extended transit days and fuel burn of sailing around Cape Horn. Distribution managers moving time-sensitive bulk and containerized cargo must immediately recalibrate landed cost models."
+                "The U.S. Court of International Trade has officially upheld the elimination of the $800 de minimis customs exemption, closing off major loophole channels for low-cost international parcel imports. Federal regulators are aggressively enforcing full tariff collections on direct-to-consumer shipments previously bypassing standard entry declarations. The final legal closure forces cross-border e-commerce sellers and logistics providers to immediately re-engineer customs compliance protocols.",
+                "Importers absorbing these sudden duty liabilities face significant margin compression and operational friction across high-volume postal and air cargo channels. Shippers must rapidly transition toward formal customs entry frameworks to prevent persistent border delays and costly customs penalties. Supply chain directors are forced to audit supplier networks to absorb newly mandated tariff structures without breaking retail pricing models."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: TRAIN CARGO THEFT HITS $200M",
+            "nextUpTease": "MARITIME: HORMUZ OIL FLOWS VIA DARK TRANSPORTS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-17T08:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-16T15:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "RAIL: TRAIN CARGO THEFT HITS $200M",
+            "heading": "MARITIME: HORMUZ OIL FLOWS VIA DARK TRANSPORTS",
             "paragraphs": [
-                "Organized theft rings are now siphoning over $200M in freight annually from Class I rail networks across the United States. Criminal syndicates are systematically targeting intermodal rail cars carrying consumer electronics, luxury goods, and automotive parts during scheduled siding stops and switching yard dwell times. Intermodal corridors across the Southwest and Midwest are reporting unprecedented loss spikes.",
-                "Intermodal shippers face expanding cargo liability claims, elevated insurance deductibles, and severe schedule interruptions across domestic supply chains. Rail carriers are deploying tactical response units and drone surveillance, yet freight forwarders must enforce secondary mechanical locks and GPS sensors on rail containers. Shippers must evaluate risk-adjusted intermodal transit times against higher-cost highway team drivers."
+                "Crude oil transport through the Strait of Hormuz continues via clandestine shuttle operations and dark transits as regional conflict persists and security risks escalate. Tanker operators are disabling transponders and transferring barrels onto secondary vessels in the Gulf of Oman to bypass active threat zones. This shadow fleet activity keeps maritime energy flows moving while exposing charterers to heightened regulatory scrutiny.",
+                "Energy supply chain directors face complex compliance liabilities and elevated maritime insurance premiums when vetting charter vessels operating in high-risk zones. Mainstream shippers must carefully audit bunker fuel cost models and vessel tracking data to mitigate exposure to sanctioned maritime actors. Procurement teams are compelled to diversify regional energy sourcing strategies to protect downstream industrial operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: GLOBAL RATES SOFTEN AS VOLUMES DIP",
+            "nextUpTease": "COMPLIANCE: BAE SYSTEMS PAYS $36M PENALTY",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-17T07:30:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-17T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR FREIGHT: GLOBAL RATES SOFTEN AS VOLUMES DIP",
+            "heading": "COMPLIANCE: BAE SYSTEMS PAYS $36M PENALTY",
             "paragraphs": [
-                "Global air cargo spot rates declined 6% month over month as chargeable weight volumes softened during the opening weeks of August. The unexpected mid-quarter capacity expansion across transpacific and European trunk routes has outpaced demand from consumer tech and fashion shippers. The cooling spot environment signals a potential stabilization following months of relentless rate escalation.",
-                "Procurement teams are leveraging this volume lull to negotiate favorable index-linked contracts ahead of the Q4 peak shipping season. Shippers who deferred volume commitments can now secure dedicated block space allocations at discounted base rates without locking into punitive spot margins. Logistics directors must monitor bellyhold passenger capacity shifts as airline winter schedules approach."
+                "BAE Systems has agreed to pay a $36M penalty to resolve allegations of violating U.S. arms export regulations and failing mandatory compliance safeguards. The Department of State suspended $18M of the settlement on the condition that the defense contractor implements extensive remedial measures to overhaul internal export controls. The enforcement action underscores federal agencies' unyielding focus on international trade compliance.",
+                "Global enterprises must immediately audit proprietary export processes and internal compliance frameworks to avoid severe financial penalties and operational audits. Legal and logistics teams face mounting pressures to deploy automated trade screening software and enhance cross-border visibility. Failure to maintain rigorous oversight risks catastrophic supply chain disruptions and permanent export license revocations."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: ARCTIC ROUTE LAUNCHES WEEKLY SERVICE",
+            "nextUpTease": "AIR FREIGHT: CAPACITY SOFTENS AS VOLUMES DIP",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-17T06:45:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-17T05:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "MARITIME: ARCTIC ROUTE LAUNCHES WEEKLY SERVICE",
+            "heading": "AIR FREIGHT: CAPACITY SOFTENS AS VOLUMES DIP",
             "paragraphs": [
-                "Chinese carrier Sea Legend has transitioned its Arctic container operation into a scheduled weekly service connecting Ningbo-Zhoushan to European discharge hubs. The Northern Sea Route corridor deploys 1,740 TEU ice-class containerships to slash maritime transit times between East Asia and Northern Europe by nearly 14 days compared to traditional Cape of Good Hope routings. The service represents the first regular commercial liner schedule through the corridor.",
-                "Shippers gain access to expedited ocean transit speeds that rival high-cost overland rail links without absorbing air freight price premiums. However, cargo moving through this lane faces strict environmental compliance scrutiny, heightened hull insurance rates, and elevated geopolitical exposure. Enterprise forwarders must carefully assess cold-chain integrity and carrier liability coverage before shifting baseline volumes to Arctic corridors."
+                "Global air cargo spot rates declined 6% month over month as chargeable weight volumes softened during the opening weeks of August. The unexpected mid-quarter capacity expansion across transpacific and European trunk routes has outpaced demand from consumer tech and fashion shippers. The cooling spot environment signals a potential stabilization following months of relentless rate escalation.",
+                "Procurement teams are leveraging this volume lull to negotiate favorable index-linked contracts ahead of the Q4 peak shipping season. Shippers who deferred volume commitments can now secure dedicated block space allocations at discounted base rates without locking into punitive spot margins. Logistics directors must monitor bellyhold passenger capacity shifts as airline winter schedules approach."
             ],
             "imageUrl": "",
-            "nextUpTease": "TANKERS: SANCTIONED SHIPS COMPRISE 58% OF SCRAPPING",
+            "nextUpTease": "RAIL: CLASS I SLOWDOWNS TEST INTERMODAL",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-17T05:30:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T04:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TANKERS: SANCTIONED SHIPS COMPRISE 58% OF SCRAPPING",
+            "heading": "RAIL: CLASS I SLOWDOWNS TEST INTERMODAL",
             "paragraphs": [
-                "Sanctioned vessels accounted for 58% of all global tanker demolition deals completed during 2026, totaling 2.1M deadweight tons across 26 scrapped hulls. Escalating enforcement by maritime regulatory bodies and tightened port state control regimes have effectively restricted secondary employment for aged shadow fleet tonnage. Demolition yards in South Asia are absorbing these high-tonnage vessels despite historically muted overall commercial shipbreaking activity.",
-                "The systematic removal of non-compliant shadow tonnage is restricting dark-market transport capacity for global energy trades. Mainstream wet bulk freight rates face upward pricing pressure as charterers increasingly demand fully verified, Western-insured tonnage to prevent regulatory fines. Energy supply chain directors must audit vessel compliance documentation to ensure zero exposure to sanctioned maritime assets."
+                "Class I railroad networks across the United States are managing tightening velocity metrics and localized terminal dwell spikes as seasonal freight volumes build. Average train speeds have decelerated across key Midwest and Western corridors, stretching transit times for intermodal shippers. Rail operators are deploying targeted maintenance schedules to clear bottlenecks ahead of autumn peak surges.",
+                "Intermodal logistics managers face heightened schedule volatility and diminished asset reliability across domestic supply chains. Shippers must build additional buffer days into transit schedules or risk costly inventory stockouts at regional distribution centers. Supply chain planners are evaluating alternate highway routing guides to bypass chronic rail bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKLOAD: LINEHAUL SPOT RATES SURGE IN JULY",
+            "nextUpTease": "PORTS: ASIA-US EAST COAST RATES SURGE",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-17T04:15:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T03:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TRUCKLOAD: LINEHAUL SPOT RATES SURGE IN JULY",
+            "heading": "PORTS: ASIA-US EAST COAST RATES SURGE",
             "paragraphs": [
-                "National truckload linehaul spot rates surged higher through July despite flat underlying volume demand across major domestic industrial corridors, according to the latest Cass Information Systems data. Accelerating carrier bankruptcies and driver attrition have removed marginal fleet capacity faster than freight demand has softened. Dry van and refrigerated contract rates are establishing new floor baselines across regional distribution lanes.",
-                "Shippers are encountering tightening tender rejection rates as carriers reassign power units toward higher-yielding short-term contract commitments. Logistics managers relying heavily on low spot market exposure face unbudgeted margin leakage and diminished primary carrier compliance. Shippers must deploy targeted mini-bids to secure routing guide integrity and shield distribution networks from second-half rate shocks."
+                "Container spot rates from Asia to the U.S. East Coast surged to new highs as sustained import volumes and early peak season demand caught ocean carriers off guard. Port congestion across major gateway terminals has locked up vessel capacity, effectively removing over 1.7M TEU from the global fleet. Ocean carriers are aggressively implementing peak season surcharges to capture rising market demand.",
+                "Enterprise importers are absorbing steep, unbudgeted freight rate hikes that directly threaten Q3 profit margins and inventory cost structures. Supply chain executives must re-evaluate allocation commitments and secure long-term service contracts to insulate distribution networks from extreme spot market volatility. Diversifying port entry points remains critical to avoiding severe coastal congestion delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: AD PORTS FACES $2.1B PRIVATIZATION BID",
+            "nextUpTease": "RETAIL: INVENTORIES PEAK AHEAD OF TARIFFS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-17T03:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T02:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORTS: AD PORTS FACES $2.1B PRIVATIZATION BID",
+            "heading": "RETAIL: INVENTORIES PEAK AHEAD OF TARIFFS",
             "paragraphs": [
-                "Abu Dhabi sovereign investor L'IMAD launched a cash offer valued at $2.1B to acquire the remaining 24.58% stake in AD Ports Group and take the company private. The major Middle Eastern terminal and logistics conglomerate has expanded its international terminal footprint across the Red Sea, Mediterranean, and Central Asian corridors. The full privatization aims to streamline cross-border capital deployment and accelerate aggressive maritime infrastructure acquisitions.",
-                "Consolidation of terminal assets under sovereign control could reshape concession agreements, tariff structures, and berthing priorities across Gulf transit hubs. Freight forwarders utilizing Middle Eastern gateway hubs must track potential renegotiations of handling tariffs and terminal operating agreements. Logistics leaders should establish diversified hub strategies to protect transit flexibility across regional transshipment centers."
+                "U.S. retail importers have accelerated inventory stockpiling, driving container import volumes at major ports to an early seasonal peak ahead of impending tariff implementations. National Retail Federation data indicates that businesses have aggressively pulled forward autumn and holiday merchandise to beat projected duty increases. Warehousing networks across primary distribution hubs are reporting record storage utilization rates.",
+                "This front-loaded inventory influx ties up substantial working capital and strains warehouse storage capacities heading into the final quarters. Supply chain leaders must optimize inventory carrying costs and manage distribution throughput to prevent severe yard congestion. Retailers risk inventory obsolescence if consumer demand patterns fail to absorb the heavily congested stock."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-17T02:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T01:15:00Z",
                 "Status: Audited & True"
             ]
         }

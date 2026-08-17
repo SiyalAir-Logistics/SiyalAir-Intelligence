@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CANAL: PANAMA QUEUE FEE HITS $4.6M",
-                "teaserTitle": "RAIL: TRAIN CARGO THEFT HITS $200M",
-                "visual_caption": "A gas tanker paid a record $4.6M auction fee to bypass severe Panama Canal queues. Vessel operators face extreme premiums to protect transit schedules."
+                "headline": "CUSTOMS: DE MINIMIS EXEMPTION DEAD",
+                "teaserTitle": "MARITIME: HORMUZ OIL FLOWS VIA DARK TRANSPORTS",
+                "visual_caption": "Trade court upholds elimination of the $800 de minimis exemption. Cross-border e-commerce sellers must immediately adopt formal customs entry frameworks."
             },
             {
                 "slide_index": 2,
-                "headline": "RAIL: TRAIN CARGO THEFT HITS $200M",
-                "teaserTitle": "AIR FREIGHT: GLOBAL RATES SOFTEN AS VOLUMES DIP",
-                "visual_caption": "Organized theft rings steal over $200M in rail freight annually across US corridors. Shippers must deploy advanced container locks and tracking sensors."
+                "headline": "MARITIME: HORMUZ OIL FLOWS VIA DARK TRANSPORTS",
+                "teaserTitle": "COMPLIANCE: BAE SYSTEMS PAYS $36M PENALTY",
+                "visual_caption": "Crude oil transport through the Strait of Hormuz continues via clandestine shuttle operations and dark transits. Shadow fleet activity exposes charterers to heightened regulatory scrutiny."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR FREIGHT: GLOBAL RATES SOFTEN AS VOLUMES DIP",
-                "teaserTitle": "MARITIME: ARCTIC ROUTE LAUNCHES WEEKLY SERVICE",
-                "visual_caption": "Global air freight rates fell 6% month-over-month as summer cargo volumes softened. Shippers are using this window to secure discounted block space agreements."
+                "headline": "COMPLIANCE: BAE SYSTEMS PAYS $36M PENALTY",
+                "teaserTitle": "AIR FREIGHT: CAPACITY SOFTENS AS VOLUMES DIP",
+                "visual_caption": "BAE Systems agreed to pay a $36M penalty for export violations. Federal agencies are intensifying enforcement on international trade compliance protocols."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: ARCTIC ROUTE LAUNCHES WEEKLY SERVICE",
-                "teaserTitle": "TANKERS: SANCTIONED SHIPS COMPRISE 58% OF SCRAPPING",
-                "visual_caption": "Sea Legend launched the first scheduled weekly container service across the Arctic Northern Sea Route. The corridor cuts transit times between Asia and Europe by 14 days."
+                "headline": "AIR FREIGHT: CAPACITY SOFTENS AS VOLUMES DIP",
+                "teaserTitle": "RAIL: CLASS I SLOWDOWNS TEST INTERMODAL",
+                "visual_caption": "Global air cargo spot rates declined 6% as chargeable weight volumes softened. Procurement teams are leveraging this volume lull to secure discounted base rates."
             },
             {
                 "slide_index": 5,
-                "headline": "TANKERS: SANCTIONED SHIPS COMPRISE 58% OF SCRAPPING",
-                "teaserTitle": "TRUCKLOAD: LINEHAUL SPOT RATES SURGE IN JULY",
-                "visual_caption": "Sanctioned vessels accounted for 58% of all tanker scrap sales in 2026. Regulatory enforcement is eliminating aging shadow fleet tonnage from commercial circulation."
+                "headline": "RAIL: CLASS I SLOWDOWNS TEST INTERMODAL",
+                "teaserTitle": "PORTS: ASIA-US EAST COAST RATES SURGE",
+                "visual_caption": "Class I railroad networks are managing tightening velocity metrics and localized terminal dwell spikes. Intermodal shippers face heightened schedule volatility across domestic routes."
             },
             {
                 "slide_index": 6,
-                "headline": "TRUCKLOAD: LINEHAUL SPOT RATES SURGE IN JULY",
-                "teaserTitle": "PORTS: AD PORTS FACES $2.1B PRIVATIZATION BID",
-                "visual_caption": "Truckload linehaul spot rates rose sharply in July despite soft overall freight volume demand. Rapid carrier attrition is removing truck capacity and driving up linehaul costs."
+                "headline": "PORTS: ASIA-US EAST COAST RATES SURGE",
+                "teaserTitle": "RETAIL: INVENTORIES PEAK AHEAD OF TARIFFS",
+                "visual_caption": "Container spot rates from Asia to the East Coast surged as sustained import volumes locked up capacity. Port congestion has removed over 1.7M TEU from global fleets."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: AD PORTS FACES $2.1B PRIVATIZATION BID",
+                "headline": "RETAIL: INVENTORIES PEAK AHEAD OF TARIFFS",
                 "teaserTitle": "",
-                "visual_caption": "Abu Dhabi sovereign investor L'IMAD launched a $2.1B bid to take AD Ports private. The move aims to accelerate global marine terminal expansions."
+                "visual_caption": "U.S. retailers accelerated inventory stockpiling, driving container volumes to an early seasonal peak. Importers are rushing goods ahead of projected duty increases."
             },
             {
                 "slide_index": 8,
