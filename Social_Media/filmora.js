@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS ON 60 NATIONS",
-                "teaserTitle": "MARITIME: SANCTIONED TANKERS DOMINATE 58% SCRAPPING",
-                "visual_caption": "The USTR is implementing Section 301 tariffs on 60 trading partners to enforce strict forced-labor import compliance standards. Importers face expanded tariff exposure and immediate border clearance audits across impacted cargo categories."
+                "headline": "MARITIME: 1.7M TEU CAPACITY STRANDED",
+                "teaserTitle": "CANAL: RECORD $4.6M QUEUE-JUMP FEE",
+                "visual_caption": "Global port congestion has removed 1.7M TEU of container capacity from active trade networks. This massive bottleneck is driving spot rate volatility across East-West shipping lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SANCTIONED TANKERS DOMINATE 58% SCRAPPING",
-                "teaserTitle": "PORTS: AD PORTS $2.1B TAKEOVER BID",
-                "visual_caption": "Sanctioned ships made up 58% of tanker scrapping deals this year, taking 2.1M DWT out of circulation. Increased maritime enforcement is dismantling shadow fleet capacity despite historically low overall demolition levels."
+                "headline": "CANAL: RECORD $4.6M QUEUE-JUMP FEE",
+                "teaserTitle": "REGULATION: STATES SUE OVER CDL DATA",
+                "visual_caption": "An empty LPG tanker paid a record $4.6M auction fee to bypass Panama Canal queues. Persistent draft restrictions continue forcing ship operators into expensive auction bidding."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: AD PORTS $2.1B TAKEOVER BID",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY FALLS TO 7.3%",
-                "visual_caption": "Sovereign investor L'IMAD issued an AED7.8B ($2.1B) cash offer for the remaining 24.58% of AD Ports Group. Taking the terminal operator private will consolidate strategic trade infrastructure across key Middle East corridors."
+                "headline": "REGULATION: STATES SUE OVER CDL DATA",
+                "teaserTitle": "PORTS: $2B LOUISIANA TERMINAL PERMIT",
+                "visual_caption": "22 states have sued the DOT over mandatory access demands for 17M commercial driver records. The legal challenge creates operational compliance uncertainty across interstate trucking fleets."
             },
             {
                 "slide_index": 4,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY FALLS TO 7.3%",
-                "teaserTitle": "AIRFREIGHT: GLOBAL SPOT RATES DROP 6%",
-                "visual_caption": "Industrial real estate vacancy fell to 7.3% in Q2 as logistics demand outpaced new warehouse completions. Supply chain operators should lock in facility capacity before tightening space triggers rent increases."
+                "headline": "PORTS: $2B LOUISIANA TERMINAL PERMIT",
+                "teaserTitle": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
+                "visual_caption": "Regulators issued the final federal permit for a $2B container terminal in Louisiana. The upcoming facility will unlock direct Midwest rail links for Gulf Coast freight."
             },
             {
                 "slide_index": 5,
-                "headline": "AIRFREIGHT: GLOBAL SPOT RATES DROP 6%",
-                "teaserTitle": "SECURITY: BLACK SEA TANKER DRONE STRIKE",
-                "visual_caption": "Global air cargo spot rates fell 6% month-over-month as international peak season volumes remained subdued. Enterprise shippers can leverage softening rates to optimize long-term airfreight procurement costs."
+                "headline": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
+                "teaserTitle": "RAIL: $200M ANNUAL CARGO THEFT",
+                "visual_caption": "Vessels transiting the Strait of Hormuz are running dark following repeated maritime drone attacks. Heightened conflict risk is escalating war surcharges across regional energy corridors."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: BLACK SEA TANKER DRONE STRIKE",
-                "teaserTitle": "M&A: DIANA DROPS $36.91 GENCO BID",
-                "visual_caption": "A Suezmax tanker was struck by a drone near a Black Sea export terminal during ongoing maritime hostilities. Maritime cargo owners must budget for increased war-risk insurance surcharges across contested waters."
+                "headline": "RAIL: $200M ANNUAL CARGO THEFT",
+                "teaserTitle": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
+                "visual_caption": "Cargo theft targeting freight rail lines has surpassed $200M in annual North American losses. Class 1 carriers are deploying drones and federal agents to protect intermodal boxes."
             },
             {
                 "slide_index": 7,
-                "headline": "M&A: DIANA DROPS $36.91 GENCO BID",
-                "teaserTitle": "",
-                "visual_caption": "Diana Shipping dropped its takeover bid for Genco after disagreeing with a $36.91 per share valuation requirement. Both dry bulk vessel operators will maintain standalone fleet strategies across major shipping lanes."
+                "headline": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "Liners launched scheduled weekly container services along the Northern Sea Route between Asia and Europe. The Arctic corridor shortens transit times while introducing severe operating conditions."
             },
             {
                 "slide_index": 8,
