@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
-        "titleBlue": "$4.6M",
-        "footerSummary": "Panama Canal queue-jump fees surge to $4.6M amid Mideast routing disruptions, driving severe spot rate premiums for global container and tanker operators."
+        "titleWhite": "FORCED LABOR 301",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR implements Section 301 tariffs across 60 trading partners as UP intermodal surcharges jump to $1,000 per container."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PANAMA CANAL: QUEUE-JUMP FEE SURGE",
+            "heading": "USTR: FORCED LABOR 301 TARIFFS",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker has agreed to pay a record $4.6M to bypass the Panama Canal waiting queue next week, according to recent shipping reports. This staggering fee shoves past the previous $3.975M high, reflecting acute transit urgency driven by regional maritime bottlenecks.",
-                "Vessel operators facing severe schedule reliability issues must now weigh exorbitant priority surcharges against extended voyage delays and escalating charter costs. Procurement managers must factor these soaring chokepoint premiums directly into quarterly freight budget forecasts."
+                "The Office of the United States Trade Representative is moving forward with Section 301 tariffs targeting 60 trading partners over forced labor concerns as Section 122 duties expire. The regulatory framework imposes heightened scrutiny across multinational procurement lines and demands immediate chain-of-custody verification.",
+                "Importers face immediate administrative friction and potential customs holds on non-compliant consignments. Trade compliance directors must audit second-tier vendor declarations to mitigate duty exposure and port-of-entry delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINERS: PORT CONGESTION CAPACITY LOSS",
+            "nextUpTease": "CUSTOMS: EU DE MINIMIS ELIMINATION",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-17T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CONTAINERS: PORT CONGESTION CAPACITY LOSS",
+            "heading": "CUSTOMS: EU DE MINIMIS ELIMINATION",
             "paragraphs": [
-                "Persistent global port congestion is effectively removing 1.7M TEU of active containership capacity from commercial circulation worldwide. Sea-Intelligence data confirms that stalled vessel turnaround times now rival the carrying capacity of an entire top-tier ocean carrier fleet.",
-                "Supply chain network directors face severe equipment imbalances and unpredictable inland drayage schedules as port velocity slows down. Importers must build extended buffer stocks into warehouse distribution networks to absorb regional dwell time spikes and container shortages."
+                "European air cargo volumes and spot rates have slumped following the formal elimination of the duty-free de minimis import exemption. Low-value e-commerce flows are encountering intense customs audits and expanded documentation mandates across major EU air freight gateways.",
+                "Cross-border platforms must overhaul parcel clearance protocols to absorb increased handling costs and avoid customs clearance bottlenecks. Logistics planners are shifting cross-border inventory models toward regional fulfillment hubs to stabilize final-mile delivery costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT: RATE INCREASE FIRE SPREADS",
+            "nextUpTease": "RAIL: UP CALIFORNIA $1,000 SURCHARGES",
             "tags": [
-                "Source: https://splash247.com/box-port-delays-knock-out-nearly-an-evergreen-sized-fleet/",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-17T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FREIGHT: RATE INCREASE FIRE SPREADS",
+            "heading": "RAIL: UP CALIFORNIA $1,000 SURCHARGES",
             "paragraphs": [
-                "Severe shipping disruptions across major global trade lanes have caused rate increases to spread rapidly from spot markets into long-term contracts. Drewry and Xeneta freight indices confirm that ocean carriers are successfully locking shippers into elevated baseline pricing structures.",
-                "Supply chain procurement teams must abandon traditional annual RFP assumptions and adopt agile modal strategies to protect operational margins. Shippers facing tightening vessel capacity must secure forward volume commitments early to mitigate cascading rate spikes."
+                "Union Pacific has raised intermodal surcharges on California container moves to $1,000 per box as regional terminal volumes surge. The domestic rail surcharge targets peak volume corridors to manage equipment velocity and locomotive allocation across the West Coast corridor.",
+                "Shippers managing transpacific cargo flows through Los Angeles and Long Beach face steep inland distribution penalties. Intermodal logistics managers must reassess discretionary routing alternatives through Pacific Northwest gateways or expand transloading operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: OIL TANKERS DARK TRANSIT SURGE",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY HITS 7.3%",
             "tags": [
-                "Source: https://www.theloadstar.com/shipping-disruption-sees-rate-increase-fire-spread-from-spots-to-contracts/",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-17T06:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ENERGY: OIL TANKERS DARK TRANSIT SURGE",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY HITS 7.3%",
             "paragraphs": [
-                "Crude oil tankers transiting the Strait of Hormuz are increasingly deploying dark transit protocols and sophisticated shuttle operations to maintain export flows. Middle Eastern energy shippers are taking extreme security precautions following repeated vessel attacks in the vital regional chokepoint.",
-                "Global energy logistics networks face heightened maritime insurance premiums and volatile bunker fuel pricing driven by persistent geopolitical instability. Fleet managers must weigh the severe risks of Persian Gulf operations against the imperative of maintaining uninterrupted hydrocarbon supplies."
+                "The U.S. industrial real estate market has regained balance as national vacancy rates fell 7 bps to 7.3% in Q2 2026, according to Colliers data. Net tenant absorption has outpaced new warehouse supply additions for the first time in 6 quarters.",
+                "Distribution operators face tightening warehouse capacity in primary logistics clusters and firming baseline lease rates. Supply chain network designers must lock in multi-year facility commitments early or explore secondary inland submarkets to cap overhead expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: BAE SYSTEMS SETTLEMENT",
+            "nextUpTease": "AIR FREIGHT: DHL $204M CHINA EXPANSION",
             "tags": [
-                "Source: https://splash247.com/dark-transits-keep-hormuz-oil-flowing/",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-17T05:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "COMPLIANCE: BAE SYSTEMS SETTLEMENT",
+            "heading": "AIR FREIGHT: DHL $204M CHINA EXPANSION",
             "paragraphs": [
-                "The U.S. Department of State has agreed to a $36M settlement with BAE Systems for breaching federal arms export regulations. The enforcement action requires the defense contractor to strengthen internal compliance programs while suspending half of the financial penalty for remedial measures.",
-                "Aerospace and defense supply chains face heightened regulatory scrutiny regarding export licensing and technology transfer protocols. Logistics and legal directors must audit dual-use inventory tracking systems immediately to avoid costly federal penalties."
+                "DHL Express has committed a $204M infrastructure investment to triple air cargo processing capacity at its Shenzhen gateway terminal. The facility upgrade expands automated parcel sorting lines to handle soaring cross-border high-tech manufacturing and trade volume.",
+                "Global forwarders gain expanded high-velocity capacity connecting southern China directly to European and North American consumption markets. Air freight procurement teams must evaluate dedicated integrator allocations against volatile spot bellyhold pricing."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: ARCTIC CONTAINER SERVICE",
+            "nextUpTease": "SECURITY: $111M DATA CENTER FREIGHT THEFT",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-17T04:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHNOLOGY: ARCTIC CONTAINER SERVICE",
+            "heading": "SECURITY: $111M DATA CENTER FREIGHT THEFT",
             "paragraphs": [
-                "China's push to establish a reliable Arctic container corridor has transitioned from experimental voyages to a scheduled weekly commercial service. Sea Legend has deployed the 1,740 TEU Dubai Tower on regular sailings along Russia's Northern Sea Route from Ningbo-Zhoushan.",
-                "Container shippers seeking alternatives to congested southern maritime chokepoints now have a viable high-latitude routing option for Europe-bound cargo. Logistics directors must evaluate polar transit insurance rates and specialized vessel requirements before booking."
+                "Organized cargo theft rings have stolen nearly $111M in specialized data center and technology freight using coordinated bump-and-run tactics on U.S. interstate routes. Criminal syndicates are targeting high-value semiconductor and server shipments between production hubs and regional facilities.",
+                "Logistics security teams face soaring commercial insurance deductibles and stringent escort mandates on critical technology cargo. Fleet managers must implement covert dual-band tracking sensors and strict non-stop route protocols across vulnerable transit corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: JULY IMPORTS PEAK EARLY",
+            "nextUpTease": "TRUCKING: 200K DRIVER NON-DOMICILED CDL LIMITS",
             "tags": [
-                "Source: https://splash247.com/chinas-arctic-container-experiment-turns-into-weekly-service/",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-16T22:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RETAIL: JULY IMPORTS PEAK EARLY",
+            "heading": "TRUCKING: 200K DRIVER NON-DOMICILED CDL LIMITS",
             "paragraphs": [
-                "Data from the National Retail Federation projects that imports at major U.S. ports peaked early as businesses aggressively rushed inventory ahead of impending tariff increases. Importers brought forward peak season volumes to insulate supply chains against potential regulatory cost inflation.",
-                "Distribution networks face compressed peak season labor windows and unpredictable warehouse holding costs following the accelerated inventory surge. Supply chain planners must optimize storage facility allocation to manage early-arriving cargo effectively through year-end."
+                "State authorities in Rhode Island and Utah have tightened restrictions on non-domiciled commercial driver licenses, accelerating a national regulatory crackdown. Federal projections estimate the interstate policy shift could remove over 200K foreign commercial drivers from U.S. freight lanes.",
+                "Motor carriers face severe driver recruitment shortages and rising wage pressure across dedicated long-haul truckload operations. Transportation procurement managers must anticipate spot rate volatility and secure contracted fleet capacity across affected regional networks."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-16T20:30:00Z",
                 "Status: Audited & True"
             ]
         }

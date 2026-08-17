@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE-JUMP FEE SURGE",
+        "hookTitle": "USTR EXPANDS SECTION 301 FORCED LABOR TARIFFS ACROSS 60 NATIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PANAMA CANAL: QUEUE-JUMP FEE SURGE",
-                "teaserTitle": "CONTAINERS: PORT CONGESTION CAPACITY LOSS",
+                "headline": "USTR: FORCED LABOR 301 TARIFFS",
+                "teaserTitle": "CUSTOMS: EU DE MINIMIS ELIMINATION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty liquefied petroleum gas tanker agreed to pay four point six million dollars to bypass the Panama Canal queue. This record fee highlights acute transit urgency driven by regional maritime bottlenecks."
+                "narration_line": "Trade regulators are enacting Section three oh one tariffs on sixty partner nations over forced labor concerns. Shippers face heightened cargo inspections and rigorous supply chain auditing at all ports of entry."
             },
             {
                 "slide_index": 2,
-                "headline": "CONTAINERS: PORT CONGESTION CAPACITY LOSS",
-                "teaserTitle": "FREIGHT: RATE INCREASE FIRE SPREADS",
+                "headline": "CUSTOMS: EU DE MINIMIS ELIMINATION",
+                "teaserTitle": "RAIL: UP CALIFORNIA $1,000 SURCHARGES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Persistent global port congestion is removing one point seven million TEU of active containership capacity from global circulation. Vessel turnaround times now rival the carrying capacity of an entire major fleet."
+                "narration_line": "European air freight rates and volumes dropped following the elimination of the duty free de minimis tax exemption. Cross border ecommerce sellers now face mandatory duty filings and slower parcel customs processing."
             },
             {
                 "slide_index": 3,
-                "headline": "FREIGHT: RATE INCREASE FIRE SPREADS",
-                "teaserTitle": "ENERGY: OIL TANKERS DARK TRANSIT SURGE",
+                "headline": "RAIL: UP CALIFORNIA $1,000 SURCHARGES",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY HITS 7.3%",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Shipping disruptions across major trade lanes have caused rate increases to spread rapidly from spot markets into contracts. Ocean carriers are successfully locking shippers into elevated baseline pricing structures."
+                "narration_line": "Union Pacific has raised domestic intermodal surcharges out of California to one thousand dollars per container. Importers moving peak season volumes face elevated inland logistics costs across prime West Coast rail corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "ENERGY: OIL TANKERS DARK TRANSIT SURGE",
-                "teaserTitle": "COMPLIANCE: BAE SYSTEMS SETTLEMENT",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY HITS 7.3%",
+                "teaserTitle": "AIR FREIGHT: DHL $204M CHINA EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Crude oil tankers in the Strait of Hormuz are deploying dark transit protocols to maintain export flows. Energy shippers face heightened maritime insurance premiums and volatile bunker fuel pricing."
+                "narration_line": "National industrial warehouse vacancy tightened to seven point three percent as tenant leasing demand outpaced new supply additions. Distribution network operators face firming lease rates across major logistics hubs heading into next year."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: BAE SYSTEMS SETTLEMENT",
-                "teaserTitle": "TECHNOLOGY: ARCTIC CONTAINER SERVICE",
+                "headline": "AIR FREIGHT: DHL $204M CHINA EXPANSION",
+                "teaserTitle": "SECURITY: $111M DATA CENTER FREIGHT THEFT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The State Department agreed to a thirty-six million dollar settlement with BAE Systems for export regulation breaches. Defense supply chains face heightened regulatory scrutiny regarding export licensing protocols."
+                "narration_line": "DHL Express is investing two hundred and four million dollars to triple cargo capacity at its Shenzhen gateway. The terminal expansion strengthens export processing for high value electronics moving to western retail markets."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: ARCTIC CONTAINER SERVICE",
-                "teaserTitle": "RETAIL: JULY IMPORTS PEAK EARLY",
+                "headline": "SECURITY: $111M DATA CENTER FREIGHT THEFT",
+                "teaserTitle": "TRUCKING: 200K DRIVER NON-DOMICILED CDL LIMITS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "China's push to establish an Arctic container corridor has transitioned into a scheduled weekly commercial service. Shippers seeking alternatives to southern chokepoints now have a high-latitude routing option."
+                "narration_line": "Theft rings have stolen one hundred and eleven million dollars in data center components using interstate bump and run tactics. Logistics security teams are deploying covert tracking sensors and non stop transit mandates."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL: JULY IMPORTS PEAK EARLY",
+                "headline": "TRUCKING: 200K DRIVER NON-DOMICILED CDL LIMITS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "National Retail Federation data projects that U.S. port imports peaked early as businesses rushed inventory ahead of tariffs. Importers brought forward volumes to insulate supply chains against cost inflation."
+                "narration_line": "State crackdowns on non domiciled commercial driver licenses could sideline more than two hundred thousand truck drivers nationwide. Motor carriers face tightening line haul capacity and rising driver wage inflation across key lanes."
             },
             {
                 "slide_index": 8,
