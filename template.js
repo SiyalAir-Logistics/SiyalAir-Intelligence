@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "IRAN WAR DISRUPTION SPREADS TO CONTRACT",
-        "titleBlue": "RATES",
-        "footerSummary": "Xeneta reports Iran war disruptions spilling into contract freight rates as escalating maritime risks force carriers into aggressive price hikes."
+        "titleWhite": "EXPANDED SECTION 301",
+        "titleBlue": "DUTIES",
+        "footerSummary": "USTR enforces Section 301 tariffs across 60 trade partners as record $4.6M canal transit fees and export crackdowns squeeze cross-border operating margins."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: IRAN WAR DISRUPTION SPREADS TO CONTRACT RATES",
+            "heading": "USTR: EXPANDED SECTION 301 DUTIES",
             "paragraphs": [
-                "Xeneta reports that ongoing maritime disruptions stemming from the Iran conflict have officially bled from spot markets into long-term contract freight rates. Shippers across major international trade lanes face widespread upward pricing pressure as ocean carriers aggressively pass on surging voyage risk premiums and longer transit diversions.",
-                "Logistics procurement teams must immediately reassess multi-year contract budgets to absorb escalating ocean transportation costs. Managing exposure through flexible index-linked pricing mechanisms has become essential to maintain carrier allocations and safeguard operating margins against volatile geopolitical shocks."
+                "The Office of the United States Trade Representative has advanced sweeping tariffs targeting 60 trading partner nations under Section 301 of the Trade Act of 1974. The regulatory rollout replaces expiring Section 122 measures with strict labor compliance audits and punitive duty brackets across major manufacturing classifications.",
+                "Importers face immediate margin compression and enhanced documentation hurdles at all ports of entry. Supply chain compliance teams must audit Tier 1 and Tier 2 overseas vendors to prevent costly border seizures and customs penalty audits."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: DE MINIMIS IS LEGALLY BURIED",
+            "nextUpTease": "MARITIME: PANAMA CANAL TOLL RECORD",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-16T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATION: DE MINIMIS IS LEGALLY BURIED",
+            "heading": "MARITIME: PANAMA CANAL TOLL RECORD",
             "paragraphs": [
-                "The federal trade court has officially shut down the final legal loophole allowing low-value shipments under the $800 de minimis threshold to enter duty-free. The definitive ruling subjects high-volume ecommerce imports to rigorous customs scrutiny and mandatory duty assessments starting immediately.",
-                "Importers and cross-border digital retailers face severe administrative bottlenecks and sharply higher landed inventory costs as expedited customs clearance procedures take effect. Supply chain directors must overhaul entry filing protocols and re-price SKUs to account for the sudden elimination of tax-free parcel exemptions."
+                "An empty liquefied petroleum gas carrier paid a record-breaking $4.6M auction fee to bypass queuing delays at the Panama Canal. Persistent maritime bottlenecks and geopolitical rerouting away from Middle East chokepoints have intensified bidding wars for expedited transit slots.",
+                "Ocean freight planners face severe spot cost inflation when attempting to maintain rigid delivery schedules on transpacific corridors. Logistics directors must weigh multi-million-dollar canal priority fees against 14-day voyage extensions around southern capes."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: UBER FREIGHT BREACH EXPOSES GAP",
+            "nextUpTease": "AIR CARGO: DHL EXPANDS SHENZHEN HUB",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-16T18:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SECURITY: UBER FREIGHT BREACH EXPOSES GAP",
+            "heading": "AIR CARGO: DHL EXPANDS SHENZHEN HUB",
             "paragraphs": [
-                "A massive data breach involving over 1M compromised files at Uber Freight has laid bare critical identity security vulnerabilities across digital logistics platforms. Malicious actors exploited authentication gaps, compromising sensitive carrier credentials and threatening supply chain network integrity.",
-                "The security failure highlights the urgent need for advanced multi-factor authentication and rigorous vendor access controls across digital freight matching networks. Logistics executives must mandate stringent cybersecurity audits for all technology partners to prevent catastrophic load hijacking and data exfiltration."
+                "DHL Express has committed $204M to triple cargo processing capacity at its primary Shenzhen gateway terminal in southern China. The massive infrastructure upgrade expands automated sortation capabilities to support accelerating regional express volumes and tech exports.",
+                "The investment secures dedicated throughput for shippers navigating volatile ocean freight cycles and tightening transpacific air capacity. Air freight procurement teams should leverage expanded regional hub access to compress transit schedules across major Asian consumer markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: CUSTOMS CRACKDOWNS THREATEN DEMAND",
+            "nextUpTease": "TRUCKING: 22 STATES SUE CDL MANDATE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-16T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: CUSTOMS CRACKDOWNS THREATEN DEMAND",
+            "heading": "TRUCKING: 22 STATES SUE CDL MANDATE",
             "paragraphs": [
-                "Tougher customs enforcement targeting low-value air cargo shipments is threatening to reverse robust volume growth across cross-border ecommerce trade lanes. Regulatory agencies are intercepting non-compliant pallet configurations and demanding extensive documentation, causing severe dwell time spikes at primary gateway hubs.",
-                "Air freight forwarders and cargo airlines confront sudden volume contractions and rising operational friction as shippers rethink direct-to-consumer air distribution strategies. Supply chain planners must diversify modal options and pre-clear consolidated manifests to bypass mounting airport terminal congestion."
+                "A coalition of 22 state attorneys general has filed federal litigation to block government access mandates targeting 17M commercial driver license records. The legal confrontation coincides with intensified audits that have already sidelined non-domiciled commercial operators across multiple domestic jurisdictions.",
+                "Fleet operators and motor carriers face worsening driver shortages and rising wage pressure as regulatory compliance tightens across interstate lanes. Shippers must secure backup carrier capacity and prepare for spot rate volatility as available truckload supply contracts."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: INDIA BOOSTS MARITIME EXPLORATION",
+            "nextUpTease": "COMPLIANCE: BAE SYSTEMS SETTLES EXPORT PENALTY",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-16T09:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "ENERGY: INDIA BOOSTS MARITIME EXPLORATION",
+            "heading": "COMPLIANCE: BAE SYSTEMS SETTLES EXPORT PENALTY",
             "paragraphs": [
-                "The Indian government has launched an $8.8B funding initiative to accelerate private sector maritime oil and gas exploration in a strategic bid to reduce its 90% import dependency. The sweeping capital injection follows severe hydrocarbon supply shocks driven by the ongoing closure of the Strait of Hormuz.",
-                "Energy logistics providers and offshore supply vessel operators anticipate a massive surge in regional maritime exploration activity and specialized vessel demand. Industrial procurement teams must monitor shifting domestic energy sourcing policies to secure long-term fuel price stability."
+                "BAE Systems has agreed to pay a $36M civil penalty to resolve federal violations involving US defense trade export controls. The settlement agreement suspends $18M of the fine contingent upon structural enhancements to internal trade compliance and regulatory auditing systems.",
+                "The enforcement action signals heightened regulatory scrutiny on dual-use technology and aerospace supply chain logistics. Defense contractors and tier suppliers must reinforce screening controls to eliminate export compliance exposure and avoid enterprise-level operational sanctions."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE: TOYOTA PHASE OUTS CHINABUILT",
+            "nextUpTease": "CARGO THEFT: DATA CENTER SHIPMENTS HIJACKED",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-16T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AUTOMOTIVE: TOYOTA PHASE OUTS CHINABUILT",
+            "heading": "CARGO THEFT: DATA CENTER SHIPMENTS HIJACKED",
             "paragraphs": [
-                "Automotive giant Ford has announced definitive plans to phase out China-built Lincoln vehicle models destined for the United States market. The strategic manufacturing realignment is designed to insulate the brand from escalating geopolitical trade barriers and unpredictable tariff penalties.",
-                "Supply chain planners must rapidly restructure inbound automotive component networks and secure alternative assembly plants to maintain vehicle availability. Procurement officers face complex supplier re-tooling costs as the industry accelerates its decoupling from single-origin manufacturing hubs."
+                "Specialized freight theft syndicates have compromised nearly $111M in high-value data center hardware using aggressive bump-and-run tactics on highway freight lanes. Criminal rings are deliberately staging minor collisions to force truck stops and execute coordinated freight seizures.",
+                "Logistics security executives must urgently overhaul high-value cargo protocols and deploy covert telemetry tracking alongside armed escort services. The surge in electronics hijackings requires shippers to verify specialized cargo insurance coverage limits across sensitive transit routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: TARGET DEPLOYS DIGITAL TWINS",
+            "nextUpTease": "DRY BULK: DIANA DROPS GENCO TAKEOVER",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-16T13:10:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECHNOLOGY: TARGET DEPLOYS DIGITAL TWINS",
+            "heading": "DRY BULK: DIANA DROPS GENCO TAKEOVER",
             "paragraphs": [
-                "Major retailer Target has successfully deployed an advanced digital twin simulation platform named Proxima to optimize enterprise inventory management. The simulation engine models complex consumer demand variables and supply chain bottlenecks in real-time, enabling proactive stock allocation across distribution nodes.",
-                "The deployment significantly reduces excess safety stock requirements and eliminates costly fulfillment friction during peak seasonal demand shifts. Supply chain competitors must adopt sophisticated digital twin technology to match the operational agility and inventory precision of modern omnichannel leaders."
+                "Diana Shipping has officially terminated its nine-month takeover bid for US bulker operator Genco Shipping after rejecting a $36.91 per share valuation demand. The collapse of the transaction halts the creation of a major global dry bulk powerhouse.",
+                "Dry bulk charterers and commodity traders must navigate fragmented vessel capacity across global iron ore, coal, and grain routes. Procurement officers should monitor individual carrier chartering strategies as major operators pivot from consolidation to standalone fleet modernization programs."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-17T06:30:00Z",
                 "Status: Audited & True"
             ]
         }

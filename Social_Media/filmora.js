@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: IRAN WAR DISRUPTION SPREADS TO CONTRACT RATES",
-                "teaserTitle": "REGULATION: DE MINIMIS IS LEGALLY BURIED",
-                "visual_caption": "Maritime disruptions are spreading from spot markets into long-term contract rates. Shippers face sharp price hikes as carriers pass on severe voyage risk premiums."
+                "headline": "USTR: EXPANDED SECTION 301 DUTIES",
+                "teaserTitle": "PANAMA CANAL TOLL RECORD",
+                "visual_caption": "USTR moves forward with Section 301 tariffs targeting 60 trading partner nations. Importers face immediate margin compression and mandatory labor compliance audits at entry ports."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: DE MINIMIS IS LEGALLY BURIED",
-                "teaserTitle": "SECURITY: UBER FREIGHT BREACH EXPOSES GAP",
-                "visual_caption": "The federal trade court has officially eliminated the $800 de minimis duty-free exemption. Importers now face strict customs inspections and higher landed inventory costs."
+                "headline": "MARITIME: PANAMA CANAL TOLL RECORD",
+                "teaserTitle": "DHL EXPANDS SHENZHEN HUB",
+                "visual_caption": "A gas tanker paid a record $4.6M auction fee to bypass Panama Canal queues. Maritime planners must evaluate multi-million-dollar fees against 14-day transit diversions."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: UBER FREIGHT BREACH EXPOSES GAP",
-                "teaserTitle": "AIR CARGO: CUSTOMS CRACKDOWNS THREATEN DEMAND",
-                "visual_caption": "A massive data breach at Uber Freight has exposed critical identity security vulnerabilities across digital platforms. Logistics operators must enforce rigorous multi-factor authentication immediately."
+                "headline": "AIR CARGO: DHL EXPANDS SHENZHEN HUB",
+                "teaserTitle": "22 STATES SUE CDL MANDATE",
+                "visual_caption": "DHL Express invested $204M to triple cargo capacity at its Shenzhen gateway. Shippers gain expanded automated capacity to support surging intra-Asia freight volumes."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: CUSTOMS CRACKDOWNS THREATEN DEMAND",
-                "teaserTitle": "ENERGY: INDIA BOOSTS MARITIME EXPLORATION",
-                "visual_caption": "Tougher customs enforcement on low-value air cargo is threatening ecommerce delivery volumes globally. Forwarders face severe terminal dwell times and mandatory document verifications."
+                "headline": "TRUCKING: 22 STATES SUE CDL MANDATE",
+                "teaserTitle": "BAE SYSTEMS SETTLES EXPORT PENALTY",
+                "visual_caption": "22 states filed lawsuits blocking federal access to 17M commercial driver records. Motor carriers warn that tighter compliance audits will restrict truckload capacity."
             },
             {
                 "slide_index": 5,
-                "headline": "ENERGY: INDIA BOOSTS MARITIME EXPLORATION",
-                "teaserTitle": "AUTOMOTIVE: TOYOTA PHASE OUTS CHINABUILT",
-                "visual_caption": "India has launched an $8.8B initiative to boost maritime oil and gas exploration. The funding aims to reduce heavy import reliance amid Mideast supply closures."
+                "headline": "COMPLIANCE: BAE SYSTEMS SETTLES EXPORT PENALTY",
+                "teaserTitle": "DATA CENTER SHIPMENTS HIJACKED",
+                "visual_caption": "BAE Systems settled federal export control violations for $36M to resolve charges. Aerospace suppliers must tighten internal controls to eliminate severe trade compliance risks."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOMOTIVE: TOYOTA PHASE OUTS CHINABUILT",
-                "teaserTitle": "TECHNOLOGY: TARGET DEPLOYS DIGITAL TWINS",
-                "visual_caption": "Ford is officially phasing out China-built Lincoln vehicle imports to evade mounting tariff penalties. Procurement teams must rapidly restructure cross-border automotive supply chains."
+                "headline": "CARGO THEFT: DATA CENTER SHIPMENTS HIJACKED",
+                "teaserTitle": "DIANA DROPS GENCO TAKEOVER",
+                "visual_caption": "Cargo theft rings stole nearly $111M in data center tech using staged collisions. Logistics teams are deploying armed security and telemetry to secure highway corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: TARGET DEPLOYS DIGITAL TWINS",
-                "teaserTitle": "",
-                "visual_caption": "Target has deployed an advanced digital twin platform to optimize nationwide inventory management. The technology simulates network disruptions and slashes excess safety stock requirements."
+                "headline": "DRY BULK: DIANA DROPS GENCO TAKEOVER",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "Diana Shipping pulled its takeover offer for Genco Shipping after valuation disputes. Commodity charterers face fragmented vessel availability across global dry bulk routes."
             },
             {
                 "slide_index": 8,
