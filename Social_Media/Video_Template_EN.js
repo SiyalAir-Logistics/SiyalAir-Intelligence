@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DE MINIMIS IS DEAD",
+        "hookTitle": "STRAIT OF HORMUZ SHIPPING HALTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "COMPLIANCE: DE MINIMIS IS DEAD",
-                "teaserTitle": "MARITIME: PANAMA QUEUE JUMP",
+                "headline": "MARITIME: STRAIT HORMUZ HALTS",
+                "teaserTitle": "REGULATION: USTR TARIFFS MOVE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The trade court has legally buried de minimis exemptions for low-value imports. E-commerce importers face formal customs clearance and higher tariff duties."
+                "narration_line": "Commercial shipping through the Strait of Hormuz has halted due to security threats. Vessel operators are suspending transits to mitigate military risks."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA QUEUE JUMP",
-                "teaserTitle": "LOGISTICS: RATE INCREASE FIRE",
+                "headline": "REGULATION: USTR TARIFFS MOVE",
+                "teaserTitle": "LOGISTICS: RATE INCREASE SPREAD",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An empty tanker paid a record four point six million dollar fee to bypass canal queues. Ocean freight planners face spot cost inflation on global corridors."
+                "narration_line": "The United States Trade Representative is implementing tariffs across sixty trading partners under Section three oh one. Enterprise supply chains must audit sourcing models immediately."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: RATE INCREASE FIRE",
-                "teaserTitle": "CONTAINERS: PORT DELAYS STRIKE",
+                "headline": "LOGISTICS: RATE INCREASE SPREAD",
+                "teaserTitle": "CONTAINERS: PORT CONGESTION EVAPORATES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Shipping disruptions have caused rate increases to spread into long-term contracts. Supply chain procurement teams must adopt agile modal strategies."
+                "narration_line": "Global shipping disruptions have caused rate increases to spread from spot markets into long contracts. Ocean carriers are successfully locking in elevated pricing."
             },
             {
                 "slide_index": 4,
-                "headline": "CONTAINERS: PORT DELAYS STRIKE",
-                "teaserTitle": "TECHNOLOGY: ELD PURGE CAPACITY",
+                "headline": "CONTAINERS: PORT CONGESTION EVAPORATES",
+                "teaserTitle": "ENERGY: OIL SUBSIDIES BOOST",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global port congestion is removing one point seven million TEUs of capacity. Network planners face severe equipment imbalances as container velocity slows."
+                "narration_line": "Persistent port congestion is removing one point seven million T E U of container capacity from circulation. Network planners face severe equipment imbalances."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: ELD PURGE CAPACITY",
-                "teaserTitle": "AIR CARGO: SHENZHEN EXPANSION",
+                "headline": "ENERGY: OIL SUBSIDIES BOOST",
+                "teaserTitle": "TECHNOLOGY: ARCTIC CORRIDOR SCHEDULE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Federal electronic logging enforcement is purging non-compliant operators from networks. Motor carriers face accelerating cost pressures and tighter capacity."
+                "narration_line": "India has launched an eight point eight billion dollar financial package for maritime oil exploration. The initiative reduces reliance on imported hydrocarbons."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: SHENZHEN EXPANSION",
-                "teaserTitle": "DRY BULK: GENCO TAKEOVER HALT",
+                "headline": "TECHNOLOGY: ARCTIC CORRIDOR SCHEDULE",
+                "teaserTitle": "AIR CARGO: SHENZHEN EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "DHL Express expanded its Shenzhen terminal to triple regional air cargo capacity. Shippers can leverage expanded gateway access to secure priority uplift."
+                "narration_line": "China has transitioned its Arctic container corridor into a scheduled weekly commercial service. Shippers now have a viable high latitude routing option."
             },
             {
                 "slide_index": 7,
-                "headline": "DRY BULK: GENCO TAKEOVER HALT",
+                "headline": "AIR CARGO: SHENZHEN EXPANSION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Diana Shipping terminated its acquisition pursuit of Genco Shipping and Trading. Charterers must navigate fragmented vessel deployment across global routes."
+                "narration_line": "DHL Express has completed a major terminal expansion in Shenzhen to triple regional air cargo capacity. The investment stabilizes cross border transit times."
             },
             {
                 "slide_index": 8,

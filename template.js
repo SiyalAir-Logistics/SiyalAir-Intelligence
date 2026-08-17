@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DE MINIMIS IS",
-        "titleBlue": "DEAD",
-        "footerSummary": "Trade court shuts last door on the 800 USD loophole as de minimis exemptions are legally buried, forcing e-commerce importers to restructure."
+        "titleWhite": "STRAIT OF HORMUZ SHIPPING",
+        "titleBlue": "HALTS",
+        "footerSummary": "Strait of Hormuz shipping grinds to a halt ahead of U.S.-Iran ceasefire expiry, forcing carriers to seek dark transits and alternative routes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "COMPLIANCE: DE MINIMIS IS DEAD",
+            "heading": "MARITIME: STRAIT HORMUZ HALTS",
             "paragraphs": [
-                "The United States Court of International Trade has officially shut the final door on the 800 USD duty-free loophole, legally burying de minimis exemptions for low-value imports. The landmark ruling requires all commercial shipments to undergo full formal customs clearance regardless of declared parcel value.",
-                "E-commerce logistics operators and cross-border forwarders face severe border processing delays and increased administrative overhead. Importers must restructure their supply chain compliance protocols immediately to absorb new tariff duties across high-volume consumer goods."
+                "Commercial shipping through the Strait of Hormuz has ground to a sudden halt as the U.S.-Iran ceasefire expiration triggers fresh security threats. Vessel operators and tanker fleets are suspending transits or adopting dark transit protocols to mitigate extreme military risks in the key chokepoint.",
+                "Supply chain managers dependent on Middle Eastern crude and refined products face immediate route suspensions and severe schedule disruptions. Logistics planners must reroute maritime assets around southern capes, absorbing multi-day transit delays and surging bunker fuel costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: PANAMA QUEUE JUMP",
+            "nextUpTease": "REGULATION: USTR TARIFFS MOVE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.cnbc.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: PANAMA QUEUE JUMP",
+            "heading": "REGULATION: USTR TARIFFS MOVE",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker paid a record 4.6M USD auction fee to bypass severe queuing delays at the Panama Canal next week. Persistent maritime bottlenecks driven by Middle East rerouting have intensified bidding wars for expedited transit slots across key global chokepoints.",
-                "Ocean freight procurement planners face compounding spot cost inflation when attempting to maintain rigid delivery schedules on major trade corridors. Logistics directors must weigh multi-million-dollar priority tolls against lengthy voyage extensions around southern capes."
+                "The Office of the United States Trade Representative is moving forward with the implementation of strict tariffs across 60 trading partners under Section 301. The sweeping policy action follows the expiration of Section 122 tariffs, locking in heightened compliance burdens for international importers.",
+                "Enterprise supply chains must audit multi-country sourcing models immediately to mitigate cascading duty increases and customs delays. Procurement leaders face the complex task of re-evaluating supplier contracts across affected nations to preserve operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: RATE INCREASE FIRE",
+            "nextUpTease": "LOGISTICS: RATE INCREASE SPREAD",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LOGISTICS: RATE INCREASE FIRE",
+            "heading": "LOGISTICS: RATE INCREASE SPREAD",
             "paragraphs": [
-                "Shipping disruption across global trade lanes has caused a rate increase fire to spread rapidly from spot markets into long-term contracts. Drewry and Xeneta indices confirm that transpacific ocean carriers are successfully locking shippers into elevated baseline pricing.",
-                "Supply chain procurement teams must abandon traditional annual RFP assumptions and adopt agile modal strategies to protect operational margins. Shippers facing tightening capacity must secure volume commitments early to mitigate cascading rate spikes."
+                "Severe shipping disruptions across major global trade lanes have caused a rate increase fire to spread rapidly from spot markets into long-term contracts. Drewry and Xeneta freight indices confirm that ocean carriers are successfully locking shippers into elevated baseline pricing structures.",
+                "Supply chain procurement teams must abandon traditional annual RFP assumptions and adopt agile modal strategies to protect operational margins. Shippers facing tightening vessel capacity must secure forward volume commitments early to mitigate cascading rate spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINERS: PORT DELAYS STRIKE",
+            "nextUpTease": "CONTAINERS: PORT CONGESTION EVAPORATES",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: 2026-08-14T00:00:00Z",
@@ -53,13 +53,13 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "CONTAINERS: PORT DELAYS STRIKE",
+            "heading": "CONTAINERS: PORT CONGESTION EVAPORATES",
             "paragraphs": [
-                "Persistent global port congestion is effectively removing 1.7M TEU of containership capacity from active circulation across major trade hubs. Sea-Intelligence data reveals that stalled vessel turnaround times now rival the carrying capacity of an entire top-tier carrier fleet.",
-                "Supply chain network planners face severe equipment imbalances and unpredictable inland drayage schedules as container velocity slows. Importers must build extended buffer stocks into warehouse distribution networks to absorb regional dwell time spikes."
+                "Persistent global port congestion is effectively removing 1.7M TEU of active containership capacity from commercial circulation across key marine hubs. Sea-Intelligence data reveals that stalled vessel turnaround times now rival the carrying capacity of an entire top-tier carrier fleet.",
+                "Supply chain network planners face severe equipment imbalances and unpredictable inland drayage schedules as container velocity slows down. Importers must build extended buffer stocks into warehouse distribution networks to absorb regional dwell time spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: ELD PURGE CAPACITY",
+            "nextUpTease": "ENERGY: OIL SUBSIDIES BOOST",
             "tags": [
                 "Source: https://splash247.com",
                 "Published: 2026-08-17T00:00:00Z",
@@ -68,46 +68,46 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "TECHNOLOGY: ELD PURGE CAPACITY",
+            "heading": "ENERGY: OIL SUBSIDIES BOOST",
             "paragraphs": [
-                "Federal enforcement targeting non-compliant electronic logging devices is actively purging non-compliant operators from domestic truckload networks. Werner leadership confirms that aggressive regulatory crackdowns will drive further capacity tightening across US over-the-road freight lanes.",
-                "Motor carriers and freight brokers face accelerating cost pressures and diminishing driver availability as non-compliant fleets are sidelined. Shippers should audit primary carrier safety scores and diversify dedicated transport portfolios to prevent service failures."
+                "The Indian government has launched an 8.8B USD financial package aimed at boosting private sector maritime oil and gas exploration. The initiative seeks to reduce the nation's reliance on imported hydrocarbons following persistent supply shocks in the Middle East.",
+                "Energy logistics providers and offshore support vessel operators anticipate a surge in regional exploration activity and long-term charter demand. Maritime stakeholders must align fleet deployment strategies with expanding deepwater infrastructure projects across South Asia."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: SHENZHEN EXPANSION",
+            "nextUpTease": "TECHNOLOGY: ARCTIC CORRIDOR SCHEDULE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR CARGO: SHENZHEN EXPANSION",
+            "heading": "TECHNOLOGY: ARCTIC CORRIDOR SCHEDULE",
             "paragraphs": [
-                "DHL Express has completed a major terminal expansion in Shenzhen to triple regional air cargo processing capacity across southern China. The automated hub rollout aims to capture surging high-tech export volumes and stabilize cross-border transit times for enterprise shippers.",
-                "The infrastructure investment provides essential relief for supply chain managers navigating volatile ocean freight cycles and restricted maritime capacity. Air procurement teams should leverage expanded regional gateway access to secure priority uplift."
+                "China's push to establish a reliable Arctic container corridor has transitioned from experimental voyages to a scheduled weekly commercial service. Sea Legend has deployed the 1,740 TEU Dubai Tower on regular sailings along Russia's Northern Sea Route from Ningbo-Zhoushan.",
+                "Container shippers seeking alternatives to congested southern maritime chokepoints now have a viable high-latitude routing option for Europe-bound cargo. Logistics directors must evaluate polar transit insurance rates and specialized vessel requirements before booking."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRY BULK: GENCO TAKEOVER HALT",
+            "nextUpTease": "AIR CARGO: SHENZHEN EXPANSION",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DRY BULK: GENCO TAKEOVER HALT",
+            "heading": "AIR CARGO: SHENZHEN EXPANSION",
             "paragraphs": [
-                "Diana Shipping has officially terminated its acquisition pursuit of Genco Shipping after valuation disagreements set a per share target of 36.91 USD. The collapse of the multi-month negotiation halts the consolidation of a major global dry bulk shipping powerhouse.",
-                "Commodity traders and dry bulk charterers must navigate fragmented vessel deployment strategies across international grain, coal, and ore routes. Procurement officers should monitor individual carrier chartering structures as operators prioritize standalone fleet modernization."
+                "DHL Express has finalized a major terminal expansion in Shenzhen designed to triple regional air cargo processing capacity across southern China. The automated hub rollout aims to capture surging high-tech export volumes and stabilize cross-border transit times.",
+                "The multi-million-dollar infrastructure investment provides essential relief for supply chain managers navigating volatile ocean freight cycles and restricted maritime capacity. Air procurement teams should leverage expanded regional gateway access to secure priority uplift."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
