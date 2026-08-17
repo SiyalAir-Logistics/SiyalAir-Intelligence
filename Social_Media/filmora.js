@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: USTR SECTION 301 TARIFFS",
-                "teaserTitle": "TRADE: COURT SHUTS 800 USD DE MINIMIS",
-                "visual_caption": "The USTR finalized Section 301 tariffs on 60 nations over labor rules. Shippers face immediate duty increases and tighter customs documentation audits across major ports."
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
+                "teaserTitle": "LEGAL: DE MINIMIS EXEMPTIONS LEGALLY BURIED",
+                "visual_caption": "An empty tanker paid $4.6M to jump the Panama Canal queue. The record fee highlights severe maritime capacity constraints and rising voyage costs."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE: COURT SHUTS 800 USD DE MINIMIS",
-                "teaserTitle": "MARITIME: HORMUZ 60-DAY DEADLINE EXPIRES",
-                "visual_caption": "A federal trade court upheld the termination of the $800 de minimis tariff exemption. Importers must now process all cross-border parcels through standard formal customs clearance channels."
+                "headline": "LEGAL: DE MINIMIS EXEMPTIONS LEGALLY BURIED",
+                "teaserTitle": "PORTS: LOUISIANA MEGA TERMINAL APPROVED",
+                "visual_caption": "The federal trade court formally closed the $800 de minimis customs loophole. Cross-border e-commerce importers now face mandatory formal clearance and brokerage fees."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: HORMUZ 60-DAY DEADLINE EXPIRES",
-                "teaserTitle": "SECURITY: RAIL THEFT HITS 200M USD",
-                "visual_caption": "The 60-day Hormuz peace deadline expired without an agreement, forcing tankers into dark transits. War risk insurance surcharges are now pushing long-term container shipping rates higher worldwide."
+                "headline": "PORTS: LOUISIANA MEGA TERMINAL APPROVED",
+                "teaserTitle": "SECURITY: CARGO THEFT LOSSES SHIFT",
+                "visual_caption": "Louisiana secured final federal permits for a $2B deepwater container terminal. The facility will add 2M TEU of annual capacity along the Mississippi River."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: RAIL THEFT HITS 200M USD",
-                "teaserTitle": "PORTS: LOUISIANA 2B USD MEGA TERMINAL",
-                "visual_caption": "Organized rail cargo theft has surpassed $200M annually across domestic freight routes. Shippers must deploy satellite tracking telemetry and verified container security seals to protect freight."
+                "headline": "SECURITY: CARGO THEFT LOSSES SHIFT",
+                "teaserTitle": "AIRFREIGHT: NMIA ATTRACTS CARGO CARRIERS",
+                "visual_caption": "Q2 cargo theft incidents declined while targeting shifted toward high-value loads. Fleets must deploy advanced tracking tools to mitigate rising cargo loss exposure."
             },
             {
                 "slide_index": 5,
-                "headline": "PORTS: LOUISIANA 2B USD MEGA TERMINAL",
-                "teaserTitle": "AIRFREIGHT: FREIGHTERS SHIFT TO NMIA",
-                "visual_caption": "The Louisiana International Terminal secured final permits for a $2B container hub. The project provides Midwest supply chains with direct deepwater access along the Mississippi River."
+                "headline": "AIRFREIGHT: NMIA ATTRACTS CARGO CARRIERS",
+                "teaserTitle": "MARITIME: PORT DELAYS SIDELINE CAPACITY",
+                "visual_caption": "International cargo carriers are diverting freighter flights from Mumbai to Navi Mumbai Airport. The strategic move bypasses severe tarmac congestion and streamlines regional processing."
             },
             {
                 "slide_index": 6,
-                "headline": "AIRFREIGHT: FREIGHTERS SHIFT TO NMIA",
-                "teaserTitle": "TRUCKING: 22 STATES BLOCK CDL DATABASE",
-                "visual_caption": "International airlines are shifting cargo freighters to the new Navi Mumbai International Airport. Forwarders gain faster processing times and avoid persistent bottlenecks at legacy air cargo terminals."
+                "headline": "MARITIME: PORT DELAYS SIDELINE CAPACITY",
+                "teaserTitle": "COMPLIANCE: STATES SUE OVER CDL DATABASE",
+                "visual_caption": "Global port congestion is currently sidelining 1.7M TEU of containership capacity. The vessel shortage tightens active fleet supply and impacts schedule reliability."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING: 22 STATES BLOCK CDL DATABASE",
+                "headline": "COMPLIANCE: STATES SUE OVER CDL DATABASE",
                 "teaserTitle": "",
-                "visual_caption": "22 states secured an injunction halting federal access to 17M commercial driver records. Fleet managers must maintain internal compliance programs amid ongoing regulatory uncertainty across state lines."
+                "visual_caption": "22 states blocked a federal mandate requiring access to 17M driver records. Fleets must maintain internal verification protocols amid ongoing regulatory uncertainty."
             },
             {
                 "slide_index": 8,

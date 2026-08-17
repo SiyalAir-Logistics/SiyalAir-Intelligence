@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR SECTION 301 TARIFFS ON 60 NATIONS",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: USTR SECTION 301 TARIFFS",
-                "teaserTitle": "TRADE: COURT SHUTS 800 USD DE MINIMIS",
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
+                "teaserTitle": "LEGAL: DE MINIMIS EXEMPTIONS LEGALLY BURIED",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative finalized Section three oh one tariffs on sixty nations over labor rules. Shippers face immediate duty increases and tighter customs documentation audits across major ports."
+                "narration_line": "An empty tanker paid four point six million dollars to jump the Panama Canal queue. The record fee highlights severe maritime capacity constraints and rising voyage costs."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE: COURT SHUTS 800 USD DE MINIMIS",
-                "teaserTitle": "MARITIME: HORMUZ 60-DAY DEADLINE EXPIRES",
+                "headline": "LEGAL: DE MINIMIS EXEMPTIONS LEGALLY BURIED",
+                "teaserTitle": "PORTS: LOUISIANA MEGA TERMINAL APPROVED",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A federal trade court upheld the termination of the eight hundred dollar de minimis tariff exemption. Importers must now process all cross-border parcels through standard formal customs clearance channels."
+                "narration_line": "The federal trade court formally closed the eight hundred dollar de minimis customs loophole. Cross-border e-commerce importers now face mandatory formal clearance and brokerage fees."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: HORMUZ 60-DAY DEADLINE EXPIRES",
-                "teaserTitle": "SECURITY: RAIL THEFT HITS 200M USD",
+                "headline": "PORTS: LOUISIANA MEGA TERMINAL APPROVED",
+                "teaserTitle": "SECURITY: CARGO THEFT LOSSES SHIFT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The sixty-day Hormuz peace deadline expired without an agreement, forcing tankers into dark transits. War risk insurance surcharges are now pushing long-term container shipping rates higher worldwide."
+                "narration_line": "Louisiana secured final federal permits for a two billion dollar deepwater container terminal. The facility will add two million TEU of annual capacity along the Mississippi River."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: RAIL THEFT HITS 200M USD",
-                "teaserTitle": "PORTS: LOUISIANA 2B USD MEGA TERMINAL",
+                "headline": "SECURITY: CARGO THEFT LOSSES SHIFT",
+                "teaserTitle": "AIRFREIGHT: NMIA ATTRACTS CARGO CARRIERS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Organized rail cargo theft has surpassed two hundred million dollars annually across domestic freight routes. Shippers must deploy satellite tracking telemetry and verified container security seals to protect freight."
+                "narration_line": "Second quarter cargo theft incidents declined while targeting shifted toward high-value loads. Fleets must deploy advanced tracking tools to mitigate rising cargo loss exposure."
             },
             {
                 "slide_index": 5,
-                "headline": "PORTS: LOUISIANA 2B USD MEGA TERMINAL",
-                "teaserTitle": "AIRFREIGHT: FREIGHTERS SHIFT TO NMIA",
+                "headline": "AIRFREIGHT: NMIA ATTRACTS CARGO CARRIERS",
+                "teaserTitle": "MARITIME: PORT DELAYS SIDELINE CAPACITY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Louisiana International Terminal secured final permits for a two billion dollar container hub. The project provides Midwest supply chains with direct deepwater access along the Mississippi River."
+                "narration_line": "International cargo carriers are diverting freighter flights from Mumbai to Navi Mumbai Airport. The strategic move bypasses severe tarmac congestion and streamlines regional processing."
             },
             {
                 "slide_index": 6,
-                "headline": "AIRFREIGHT: FREIGHTERS SHIFT TO NMIA",
-                "teaserTitle": "TRUCKING: 22 STATES BLOCK CDL DATABASE",
+                "headline": "MARITIME: PORT DELAYS SIDELINE CAPACITY",
+                "teaserTitle": "COMPLIANCE: STATES SUE OVER CDL DATABASE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "International airlines are shifting cargo freighters to the new Navi Mumbai International Airport. Forwarders gain faster processing times and avoid persistent bottlenecks at legacy air cargo terminals."
+                "narration_line": "Global port congestion is currently sidelining one point seven million TEU of containership capacity. The vessel shortage tightens active fleet supply and impacts schedule reliability."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING: 22 STATES BLOCK CDL DATABASE",
+                "headline": "COMPLIANCE: STATES SUE OVER CDL DATABASE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Twenty-two states secured an injunction halting federal access to seventeen million commercial driver records. Fleet managers must maintain internal compliance programs amid ongoing regulatory uncertainty across state lines."
+                "narration_line": "Twenty-two states blocked a federal mandate requiring access to seventeen million driver records. Fleets must maintain internal verification protocols amid ongoing regulatory uncertainty."
             },
             {
                 "slide_index": 8,

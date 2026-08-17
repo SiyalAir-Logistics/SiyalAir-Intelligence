@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR SECTION 301",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR implements Section 301 tariffs on 60 nations while trade courts terminate $800 de minimis exemptions and rail cargo theft tops $200M."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP",
+        "titleBlue": "FEE",
+        "footerSummary": "Panama Canal queue-jump fees hit $4.6M while trade courts legally bury de minimis exemptions and port congestion sidelines 1.7M TEU."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS: USTR SECTION 301 TARIFFS",
+            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
             "paragraphs": [
-                "The Office of the United States Trade Representative has finalized new import tariffs targeting 60 trading partners under Section 301 of the Trade Act of 1974. The enforcement measure succeeds expiring Section 122 duties and targets global goods tied to forced labor allegations.",
-                "Importers across retail, textiles, and manufacturing face immediate duty rate hikes and heightened customs auditing at border check gates. Sourcing managers must re-examine tier-1 and tier-2 vendor documentation to mitigate direct clearance delays and unbudgeted tariff exposure."
+                "An empty liquefied petroleum gas tanker paid $4.6M to cut the queue at the Panama Canal, setting a record high for priority transit fees. The escalating toll reflects severe capacity constraints driven by Middle East routing shifts and ongoing draft restrictions.",
+                "Shippers face compounding voyage expenses and transit delays as premium fees become a required cost for reliable passage. Logistics directors must evaluate the financial trade-off between paying bottleneck surcharges or absorbing extended maritime transit times."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE: COURT SHUTS 800 USD DE MINIMIS",
+            "nextUpTease": "LEGAL: DE MINIMIS EXEMPTIONS LEGALLY BURIED",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-17T14:30:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRADE: COURT SHUTS 800 USD DE MINIMIS",
+            "heading": "LEGAL: DE MINIMIS EXEMPTIONS LEGALLY BURIED",
             "paragraphs": [
-                "The federal trade court has formally upheld the full elimination of the Section 321 $800 de minimis tariff exemption on low-value commercial imports. The definitive legal ruling closes the final administrative loophole for duty-free cross-border parcel entries into the United States.",
-                "Direct-to-consumer platforms and cross-border freight forwarders must transition hundreds of thousands of daily shipments to formal customs clearance. E-commerce businesses must absorb increased brokerage administrative charges or adjust retail pricing models to cover duty overhead."
+                "The federal trade court has formally closed the legal door on low-value import exemptions, ending the $800 de minimis loophole for cross-border parcel shipments. The final ruling strips e-commerce importers of duty-free entry privileges and triggers rigorous clearance requirements.",
+                "Retailers and cross-border freight forwarders must absorb increased brokerage processing costs and manage heightened customs scrutiny on every parcel. Supply chain managers must restructure fulfillment networks to handle formal entry filing fees and prevent border friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ 60-DAY DEADLINE EXPIRES",
+            "nextUpTease": "PORTS: LOUISIANA MEGA TERMINAL APPROVED",
             "tags": [
                 "Source: https://theloadstar.com",
-                "Published: 2026-08-17T13:15:00Z",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: HORMUZ 60-DAY DEADLINE EXPIRES",
+            "heading": "PORTS: LOUISIANA MEGA TERMINAL APPROVED",
             "paragraphs": [
-                "The 60-day interim peace deal deadline has officially expired with United States and Iranian negotiators failing to reach an accord over commercial transit through the Strait of Hormuz. Commercial crude and container operators continue dark transits and armed convoy movements through the volatile waterway.",
-                "Maritime war risk insurance surcharges are spreading directly into long-term ocean contract freight rates across Middle Eastern and European lanes. Shippers must budget for persistent bunker escalation fees and prepare regional transshipment alternatives via Red Sea gateways."
+                "The Louisiana International Terminal has secured final federal permits to begin construction on a $2B deepwater container facility in New Orleans. The mega-terminal is engineered to handle 2M TEU annually and accommodate 14K TEU vessels along the Mississippi River.",
+                "The greenfield development provides Gulf Coast importers with critical intermodal rail alternatives to congested East Coast trade gateways. Regional supply chain networks will gain enhanced cargo velocity and diversified routing options for domestic distribution."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: RAIL THEFT HITS 200M USD",
+            "nextUpTease": "SECURITY: CARGO THEFT LOSSES SHIFT",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-17T12:45:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SECURITY: RAIL THEFT HITS 200M USD",
+            "heading": "SECURITY: CARGO THEFT LOSSES SHIFT",
             "paragraphs": [
-                "Organized intermodal train thefts now account for over $200M in stolen cargo annually across major domestic rail hubs and intermodal corridors. Freight networks and law enforcement agencies are deploying dedicated drone surveillance, biometric yard access, and perimeter defenses to contain losses.",
-                "High-value freight accounts, including consumer electronics and pharmaceuticals, face severe transit friction and higher insurance claims deductibles. Shippers must demand hardened container seal verification and satellite GPS telemetry from drayage and rail partners."
+                "Overall cargo theft incidents declined in the second quarter, but criminal targeting shifted toward high-value loads resulting in larger financial losses per event. Freight networks across domestic corridors face persistent threats from sophisticated cargo hijacking rings.",
+                "Shippers moving high-value commodities face increased insurance premiums and stricter cargo security mandates from logistics underwriters. Fleet operators must deploy advanced location-based tracking and hardened seal protocols to protect vulnerable freight."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: LOUISIANA 2B USD MEGA TERMINAL",
+            "nextUpTease": "AIRFREIGHT: NMIA ATTRACTS CARGO CARRIERS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-17T11:50:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PORTS: LOUISIANA 2B USD MEGA TERMINAL",
+            "heading": "AIRFREIGHT: NMIA ATTRACTS CARGO CARRIERS",
             "paragraphs": [
-                "The Louisiana International Terminal has secured final federal permits, clearing the path to begin construction on a $2B deepwater container hub in New Orleans. The mega-terminal is engineered to handle 2M TEU annually and accommodate 14K TEU neo-panamax vessels directly along the Mississippi River.",
-                "The greenfield facility will provide Gulf Coast importers with critical rail and barge routing alternatives to congested East Coast gateways. Supply chain networks across the Midwest will gain enhanced import velocity and intermodal connectivity to major production corridors."
+                "International all-cargo carriers are actively shifting scheduled freighter operations from congested Mumbai Airport to the newly opened Navi Mumbai International Airport. The structural relocation bypasses severe tarmac bottlenecks and streamlines western India air cargo flow.",
+                "Air freight forwarders and shippers gain expanded apron capacity and faster ground handling times for high-density export consignments. Enterprise logistics teams must update airport routing codes and realign regional road feeder networks to the new hub."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIRFREIGHT: FREIGHTERS SHIFT TO NMIA",
+            "nextUpTease": "MARITIME: PORT DELAYS SIDELINE CAPACITY",
             "tags": [
                 "Source: https://theloadstar.com",
-                "Published: 2026-08-17T10:20:00Z",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIRFREIGHT: FREIGHTERS SHIFT TO NMIA",
+            "heading": "MARITIME: PORT DELAYS SIDELINE CAPACITY",
             "paragraphs": [
-                "International all-cargo carriers are actively diverting scheduled freighter operations from congested Mumbai Airport to the newly operational Navi Mumbai International Airport. The structural relocation bypasses severe tarmac delays and optimizes airfreight processing across western India.",
-                "Air freight forwarders and shippers gain expanded apron capacity and streamlined customs processing for high-density export consignments. Enterprise logistics teams must update airport destination routing codes and align regional road feeder networks to the new hub."
+                "Persistent global port congestion is effectively removing approximately 1.7M TEU of containership capacity from active commercial service worldwide. The sidelined capacity equals the operational size of a major global carrier fleet, tightening effective vessel supply.",
+                "Ocean freight schedule reliability remains compromised, forcing shippers to build longer buffer times into inventory planning cycles. Logistics executives must account for reduced vessel availability and potential spot rate volatility across major trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: 22 STATES BLOCK CDL DATABASE",
+            "nextUpTease": "COMPLIANCE: STATES SUE OVER CDL DATABASE",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-17T09:05:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRUCKING: 22 STATES BLOCK CDL DATABASE",
+            "heading": "COMPLIANCE: STATES SUE OVER CDL DATABASE",
             "paragraphs": [
-                "A coalition of 22 state attorneys general has secured a federal court injunction freezing administrative demands to access driver records for 17M CDL holders. The lawsuit halts an immediate federal data-sharing mandate citing critical regulatory and privacy challenges.",
-                "Fleet operators and freight brokers face continued uncertainty regarding commercial driver licensing compliance standards and audit oversight. Logistics executives must maintain rigorous internal verification procedures to manage driver vetting without centralized federal registry access."
+                "A coalition of 22 state attorneys general has secured a federal injunction freezing administrative demands to access driver records for 17M CDL holders. The legal action halts an immediate federal data-sharing mandate citing critical regulatory and privacy concerns.",
+                "Fleet operators and freight brokers face continued uncertainty regarding commercial driver vetting standards and regulatory compliance oversight. Logistics managers must maintain rigorous internal verification procedures to manage driver onboarding without centralized registry access."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
                 "Source: https://www.freightwaves.com",
-                "Published: 2026-08-17T08:10:00Z",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
