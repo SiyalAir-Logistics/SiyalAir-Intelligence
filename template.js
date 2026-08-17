@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL AUCTION",
-        "titleBlue": "RECORD",
-        "footerSummary": "Panama Canal auction fees hit $4.6M while port congestion locks 1.7M TEU and regional carrier networks absorb severe rate shocks."
+        "titleWhite": "USTR SECTION 301",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR implements Section 301 tariffs on 60 nations while trade courts terminate $800 de minimis exemptions and rail cargo theft tops $200M."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL AUCTION RECORD",
+            "heading": "CUSTOMS: USTR SECTION 301 TARIFFS",
             "paragraphs": [
-                "Transit auction fees at the Panama Canal have surged to a record $4.6M as energy tankers and container vessels compete for restricted transit slots. Severe regional draught limits combined with Red Sea diversions have forced carriers to pay multi-million dollar premiums to bypass growing anchorage queues.",
-                "Shippers face unprecedented surcharges as vessel operators pass transit auction expenses directly into spot freight rates. Supply chain executives must weigh multimillion-dollar express canal tolls against extended 14-day transits around Cape Horn."
+                "The Office of the United States Trade Representative has finalized new import tariffs targeting 60 trading partners under Section 301 of the Trade Act of 1974. The enforcement measure succeeds expiring Section 122 duties and targets global goods tied to forced labor allegations.",
+                "Importers across retail, textiles, and manufacturing face immediate duty rate hikes and heightened customs auditing at border check gates. Sourcing managers must re-examine tier-1 and tier-2 vendor documentation to mitigate direct clearance delays and unbudgeted tariff exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN: PORT DELAYS LOCK 1.7M TEU",
+            "nextUpTease": "TRADE: COURT SHUTS 800 USD DE MINIMIS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-17T08:30:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-17T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "OCEAN: PORT DELAYS LOCK 1.7M TEU",
+            "heading": "TRADE: COURT SHUTS 800 USD DE MINIMIS",
             "paragraphs": [
-                "Global port congestion is currently immobilizing 1.7M TEU of container vessel capacity, effectively sidelining the equivalent of an entire top-tier ocean carrier fleet. Critical gateway bottlenecks across Asia and Northern Europe continue to compound turnaround delays and restrict global container availability.",
-                "Effective vessel capacity is tightening sharply across major transpacific and Asia-Europe corridors, pushing ocean spot rates upward. Logistics planners must anticipate extended buffer lead times and book container allocations at least 4 weeks in advance."
+                "The federal trade court has formally upheld the full elimination of the Section 321 $800 de minimis tariff exemption on low-value commercial imports. The definitive legal ruling closes the final administrative loophole for duty-free cross-border parcel entries into the United States.",
+                "Direct-to-consumer platforms and cross-border freight forwarders must transition hundreds of thousands of daily shipments to formal customs clearance. E-commerce businesses must absorb increased brokerage administrative charges or adjust retail pricing models to cover duty overhead."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: AD PORTS 2.1B USD BUYOUT",
+            "nextUpTease": "MARITIME: HORMUZ 60-DAY DEADLINE EXPIRES",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-17T09:15:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-17T13:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INFRASTRUCTURE: AD PORTS 2.1B USD BUYOUT",
+            "heading": "MARITIME: HORMUZ 60-DAY DEADLINE EXPIRES",
             "paragraphs": [
-                "Abu Dhabi sovereign investor L'IMAD has launched a $2.1B cash buyout offer to acquire full ownership of AD Ports Group. The privatization bid seeks the remaining 24.58% stake to accelerate strategic expansion across Middle Eastern and global marine terminal networks.",
-                "The consolidation will restructure governance and capital allocation across key maritime trade corridors linking the Gulf to Asia and Africa. International cargo handlers operating in regional hubs must evaluate shifts in terminal concession agreements and priority berthing terms."
+                "The 60-day interim peace deal deadline has officially expired with United States and Iranian negotiators failing to reach an accord over commercial transit through the Strait of Hormuz. Commercial crude and container operators continue dark transits and armed convoy movements through the volatile waterway.",
+                "Maritime war risk insurance surcharges are spreading directly into long-term ocean contract freight rates across Middle Eastern and European lanes. Shippers must budget for persistent bunker escalation fees and prepare regional transshipment alternatives via Red Sea gateways."
             ],
             "imageUrl": "",
-            "nextUpTease": "PROCUREMENT: PENTAGON 2B USD MINERAL PACTS",
+            "nextUpTease": "SECURITY: RAIL THEFT HITS 200M USD",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-17T10:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-17T12:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PROCUREMENT: PENTAGON 2B USD MINERAL PACTS",
+            "heading": "SECURITY: RAIL THEFT HITS 200M USD",
             "paragraphs": [
-                "The United States Department of Defense has finalized over $2B in conditional loan commitments to secure domestic critical mineral and battery supply chains. Agreements with major advanced materials developers aim to insulate defense and commercial industrial bases from foreign export restrictions.",
-                "Original equipment manufacturers in high-tech and automotive sectors must recalibrate raw material sourcing strategies to meet tightened domestic procurement rules. Securing qualified allied suppliers will be essential to maintain compliance with federal supply chain mandates."
+                "Organized intermodal train thefts now account for over $200M in stolen cargo annually across major domestic rail hubs and intermodal corridors. Freight networks and law enforcement agencies are deploying dedicated drone surveillance, biometric yard access, and perimeter defenses to contain losses.",
+                "High-value freight accounts, including consumer electronics and pharmaceuticals, face severe transit friction and higher insurance claims deductibles. Shippers must demand hardened container seal verification and satellite GPS telemetry from drayage and rail partners."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: BLACK SEA TANKER DRONE ATTACK",
+            "nextUpTease": "PORTS: LOUISIANA 2B USD MEGA TERMINAL",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-17T11:20:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-17T11:50:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SECURITY: BLACK SEA TANKER DRONE ATTACK",
+            "heading": "PORTS: LOUISIANA 2B USD MEGA TERMINAL",
             "paragraphs": [
-                "A commercial tanker sustained direct damage from a drone strike near critical Black Sea export terminals, escalating maritime security risks in Eastern Europe. The targeted strike triggered localized fires and forced immediate emergency containment measures by maritime safety crews.",
-                "War risk insurance premiums for Black Sea bulk and liquid shipments are climbing rapidly following the escalation. Ocean transport operators must secure verified convoy protocols and prepare secondary contingency routings via Mediterranean hubs."
+                "The Louisiana International Terminal has secured final federal permits, clearing the path to begin construction on a $2B deepwater container hub in New Orleans. The mega-terminal is engineered to handle 2M TEU annually and accommodate 14K TEU neo-panamax vessels directly along the Mississippi River.",
+                "The greenfield facility will provide Gulf Coast importers with critical rail and barge routing alternatives to congested East Coast gateways. Supply chain networks across the Midwest will gain enhanced import velocity and intermodal connectivity to major production corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT: TRUCK MINI-BIDS REPLACE RFPS",
+            "nextUpTease": "AIRFREIGHT: FREIGHTERS SHIFT TO NMIA",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-17T12:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-17T10:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FREIGHT: TRUCK MINI-BIDS REPLACE RFPS",
+            "heading": "AIRFREIGHT: FREIGHTERS SHIFT TO NMIA",
             "paragraphs": [
-                "Shippers are increasingly abandoning standard 12-month trucking contracts in favor of targeted short-term mini-bids to secure shrinking linehaul capacity. Rapid carrier attrition and rising operational costs have broken traditional routing guide compliance across domestic networks.",
-                "Transportation procurement leaders face greater budget volatility as freight rates fluctuate on rolling 90-day cycles. Logistics teams must implement real-time dynamic pricing integrations to maintain high tender acceptance and prevent costly spot market leakage."
+                "International all-cargo carriers are actively diverting scheduled freighter operations from congested Mumbai Airport to the newly operational Navi Mumbai International Airport. The structural relocation bypasses severe tarmac delays and optimizes airfreight processing across western India.",
+                "Air freight forwarders and shippers gain expanded apron capacity and streamlined customs processing for high-density export consignments. Enterprise logistics teams must update airport destination routing codes and align regional road feeder networks to the new hub."
             ],
             "imageUrl": "",
-            "nextUpTease": "NETWORK: KUEHNE NAGEL EXPANDS CAMBODIA CFS",
+            "nextUpTease": "TRUCKING: 22 STATES BLOCK CDL DATABASE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-17T13:45:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-17T09:05:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "NETWORK: KUEHNE NAGEL EXPANDS CAMBODIA CFS",
+            "heading": "TRUCKING: 22 STATES BLOCK CDL DATABASE",
             "paragraphs": [
-                "Kuehne+Nagel has completed construction on a major facility in Phnom Penh, tripling its Container Freight Station capacity across Cambodia. The strategic logistics expansion directly targets rising manufacturing export volumes moving into Western retail supply chains.",
-                "Multinational apparel and consumer goods importers gain expanded consolidation capabilities and reduced export handling dwell times in Southeast Asia. Shippers shifting production away from legacy production centers can leverage regional hub infrastructure to optimize container utilization."
+                "A coalition of 22 state attorneys general has secured a federal court injunction freezing administrative demands to access driver records for 17M CDL holders. The lawsuit halts an immediate federal data-sharing mandate citing critical regulatory and privacy challenges.",
+                "Fleet operators and freight brokers face continued uncertainty regarding commercial driver licensing compliance standards and audit oversight. Logistics executives must maintain rigorous internal verification procedures to manage driver vetting without centralized federal registry access."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-17T14:10:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-17T08:10:00Z",
                 "Status: Audited & True"
             ]
         }
