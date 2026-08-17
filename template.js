@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DE MINIMIS IS LEGALLY",
-        "titleBlue": "BURIED",
-        "footerSummary": "US trade court permanently closes the 800 USD de minimis loophole, triggering aggressive customs compliance crackdowns on cross-border ecommerce shipments."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
+        "titleBlue": "4M",
+        "footerSummary": "Panama Canal queue jump fees surge past $4.6M as Mideast conflict forces global shipping lines into costly route diversions and delays."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "LEGAL: DE MINIMIS IS LEGALLY BURIED",
+            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4M",
             "paragraphs": [
-                "The United States Court of International Trade has officially closed the remaining legal door on the 800 USD de minimis exemption, permanently dismantling duty-free entry for low-value parcels. Trade authorities and customs officials are immediately intensifying enforcement actions against cross-border ecommerce consignments, forcing supply chains to re-evaluate routing and import compliance strategies.",
-                "Importers and digital marketplace sellers face sudden duty assessments and severe administrative delays as legacy tax loopholes disappear from international trade lanes. Logistics directors must rapidly integrate automated customs clearance frameworks to mitigate unexpected financial liabilities and protect operational margins."
+                "An empty liquefied petroleum gas tanker will cut the Panama Canal queue after paying a record $4.6M, surpassing the prior high of $3.98M. Persistent regional conflicts and waterway restrictions continue to drive unprecedented bidding wars for priority vessel transits across major global chokepoints.",
+                "Shippers face escalating operational costs and tighter schedule reliability as premium transit fees become a mandatory expense for maintaining supply chain velocity. Logistics directors must re-evaluate freight budgets and incorporate exorbitant canal surcharges into long-term trade lane profitability models."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: UBER FREIGHT DATA BREACH",
+            "nextUpTease": "REGULATION: USTR TARIFFS ON TRADING PARTNERS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SECURITY: UBER FREIGHT DATA BREACH",
+            "heading": "REGULATION: USTR TARIFFS ON TRADING PARTNERS",
             "paragraphs": [
-                "A major security breach involving millions of compromised files has exposed critical identity verification vulnerabilities across the Uber Freight digital network. Fraud syndicates and cyber criminal networks are increasingly exploiting security gaps within digital brokerage platforms to intercept carrier profiles and divert high-value freight.",
-                "Digital freight matching systems and third-party logistics providers face escalating risks of cargo theft and severe reputational liability from recurring digital intrusions. Risk management teams must implement stringent multi-factor authentication protocols and real-time carrier validation audits to safeguard operational continuity."
+                "The Office of the United States Trade Representative has announced the implementation of comprehensive tariffs on 60 nations under Section 301 of the Trade Act of 1974. The sweeping trade enforcement action coincides with expiring Section 122 tariffs, instantly reshaping import compliance requirements for multinational enterprises.",
+                "Importers confront immediate duty escalations and severe administrative friction as customs agencies ramp up cross-border audits on affected foreign merchandise. Supply chain executives must accelerate nearshoring initiatives and optimize tariff engineering strategies to protect operating margins from unexpected trade levies."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ OIL TANKER ATTACKS",
+            "nextUpTease": "SECURITY: FBI SEKS TRUCK DRIVERS IN TAX FRAUD",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: HORMUZ OIL TANKER ATTACKS",
+            "heading": "SECURITY: FBI SEKS TRUCK DRIVERS IN TAX FRAUD",
             "paragraphs": [
-                "International oil tanker rates have swung sharply higher following two consecutive vessel attacks in the strategic Strait of Hormuz. Crude carriers are increasingly deploying dark transit practices and taking extended detours to bypass active conflict zones, restricting regional export capacity.",
-                "Energy logistics operators and maritime shippers face skyrocketing bunker fuel expenses and prolonged transit schedules across Middle Eastern trade corridors. Freight planners must incorporate substantial risk premiums and flexible contingency routing into long-term transportation budgets."
+                "Federal investigators have launched a nationwide search for truck drivers who may be victims in a massive 54-count tax fraud case orchestrated by a defunct financial services firm. Thousands of self-employed owner-operators face unexpected tax liabilities and compliance audits after fraudulent operators siphoned funds and failed to file official returns.",
+                "The widespread carrier scam exacerbates driver retention challenges across the surface freight sector as affected operators grapple with sudden financial distress. Fleet managers must provide enhanced administrative support and verify contractor credentials to stabilize driver capacity and mitigate operational disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: NON-DOMICILED CDL LIMITS",
+            "nextUpTease": "FREIGHT: ASIA TO US EAST COAST RATES",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REGULATION: NON-DOMICILED CDL LIMITS",
+            "heading": "FREIGHT: ASIA TO US EAST COAST RATES",
             "paragraphs": [
-                "State authorities in Rhode Island and Utah have enacted stricter regulatory limits on non-domiciled commercial driver licenses, accelerating a nationwide tightening of driver qualifications. The emerging state-level restrictions threaten to sideline thousands of foreign truck drivers, pushing driver capacity deficits well past federal projections of 200K.",
-                "Surface freight networks and motor carriers confront intensifying driver pay pressures and localized capacity crunches as credentialing bottlenecks restrict available labor pools. Fleet operators must optimize asset utilization and driver retention programs to mitigate escalating over-the-road freight rates."
+                "Ocean freight rates for shipments moving from Asia to the US East Coast have surged to new highs amid sustained import volumes and an early peak shipping season. Persistent demand pressures and vessel routing inefficiencies are catching market observers by surprise, driving spot rates higher across major maritime corridors.",
+                "BCOs and logistics buyers face aggressive carrier rate hikes and tightening container equipment availability ahead of the upcoming holiday retail rush. Transportation planners must lock in guaranteed space allocations early to avoid debilitating spot market exposure and severe transit delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: STONEPEAK RAILYARD DEAL",
+            "nextUpTease": "LABOR: PORTS BOOST CLEAN ENERGY INCENTIVES",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "INFRASTRUCTURE: STONEPEAK RAILYARD DEAL",
+            "heading": "LABOR: PORTS BOOST CLEAN ENERGY INCENTIVES",
             "paragraphs": [
-                "Private equity firm Stonepeak has finalized the acquisition of a major Texas railyard facility to expand its growing logistics real estate portfolio. The strategic investment is designed to enhance regional intermodal transfer efficiency and capture rising domestic freight volumes along critical southern corridors.",
-                "Intermodal shippers gain access to modernized terminal infrastructure engineered to streamline regional distribution and alleviate highway congestion bottlenecks. Supply chain executives should evaluate local rail facility integration to maximize long-term service reliability and cost efficiency."
+                "The ports of Los Angeles and Long Beach have unveiled a sweeping clean energy incentive program backed by substantial federal grants for zero-emission infrastructure. Terminal operators and drayage fleets are mandated to accelerate the adoption of electric cargo handling equipment and heavy-duty drayage trucks.",
+                "Drayage providers face significant capital expenditure hurdles as they race to replace legacy internal combustion fleets to comply with stringent local environmental standards. Supply chain managers must factor these compliance costs into terminal access agreements to protect drayage network stability."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: PORT OF LA CLEAN ENERGY PLAN",
+            "nextUpTease": "TECHNOLOGY: AMAZON COMBINES OPERATIONS TEAMS",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LABOR: PORT OF LA CLEAN ENERGY PLAN",
+            "heading": "TECHNOLOGY: AMAZON COMBINES OPERATIONS TEAMS",
             "paragraphs": [
-                "The ports of Los Angeles and Long Beach have rolled out a comprehensive clean air initiative backed by substantial federal and local funding for electric vehicle charging infrastructure. The environmental mandate requires terminal operators and drayage fleets to accelerate zero-emission equipment adoption across primary harbor facilities.",
-                "Drayage carriers face significant capital expenditure requirements to upgrade legacy truck fleets and terminal handling machinery in compliance with stringent regional emissions standards. Logistics managers must factor infrastructure transition costs into drayage contract negotiations to protect profit margins."
+                "E-commerce giant Amazon has officially merged its air and ground transportation operational teams into a unified organizational structure. The strategic alignment is designed to streamline middle-mile network execution and accelerate decision-making across its vast domestic logistics footprint.",
+                "The integrated management structure enables sharper capital allocation and faster freight routing adjustments in response to fluctuating consumer demand patterns. Logistics competitors must upgrade their own network orchestration capabilities to match the speed and efficiency of unified multimodal operations."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: HONG KONG GATEWAY EXPANSION",
+            "nextUpTease": "EQUIPMENT: VOLKSWAGEN REDUCES TRATON STAKE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: HONG KONG GATEWAY EXPANSION",
+            "heading": "EQUIPMENT: VOLKSWAGEN REDUCES TRATON STAKE",
             "paragraphs": [
-                "Global logistics provider DHL Express has officially tripled its cargo handling capacity at its Shenzhen gateway through an advanced terminal expansion project. The infrastructure upgrade aims to capture surging cross-border ecommerce volumes and alleviate recurring air freight congestion across Asian trade hubs.",
-                "Air freight forwarders and shippers benefit from accelerated processing speeds and expanded uplift capacity connecting key Asian manufacturing centers to international markets. Supply chain planners should leverage optimized gateway routing to maintain resilient delivery schedules during peak volume periods."
+                "Automotive conglomerate Volkswagen has announced plans to reduce its majority ownership stake in commercial truck manufacturer Traton to optimize corporate capital allocation. The strategic sell-off aims to free up financial resources for core automotive electrification initiatives while altering governance dynamics within the heavy truck sector.",
+                "Commercial vehicle buyers and fleet operators must monitor potential shifts in manufacturing priorities and technology investments as Traton navigates its evolving ownership structure. Procurement teams should diversify OEM partnerships to insulate truck acquisition pipelines from corporate restructuring risks."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
