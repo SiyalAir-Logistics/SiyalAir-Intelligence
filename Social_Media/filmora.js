@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR 301 TARIFFS",
-                "teaserTitle": "CUSTOMS: EU DE MINIMIS ELIMINATION",
-                "visual_caption": "Trade regulators are enacting Section 301 tariffs on 60 partner nations over forced labor concerns. Shippers face heightened cargo inspections and rigorous supply chain auditing at all ports of entry."
+                "headline": "MARITIME: PANAMA CANAL FEE TOPS 4.6M",
+                "teaserTitle": "TRADE: US DE MINIMIS LOOPHOLE CLOSED",
+                "visual_caption": "An empty tanker paid $4.6M to cut the Panama Canal queue. Severe water level declines and conflicts continue to restrict vessel transits."
             },
             {
                 "slide_index": 2,
-                "headline": "CUSTOMS: EU DE MINIMIS ELIMINATION",
-                "teaserTitle": "RAIL: UP CALIFORNIA $1,000 SURCHARGES",
-                "visual_caption": "European air freight rates and volumes dropped following the elimination of the duty-free de minimis tax exemption. Cross-border e-commerce sellers now face mandatory duty filings and slower parcel customs processing."
+                "headline": "TRADE: US DE MINIMIS LOOPHOLE CLOSED",
+                "teaserTitle": "PORTS: CONGESTION KNOCKS OUT 1.7M TEUS",
+                "visual_caption": "The federal trade court upheld the elimination of the $800 de minimis customs exemption. Importers face increased friction and new duty liabilities."
             },
             {
                 "slide_index": 3,
-                "headline": "RAIL: UP CALIFORNIA $1,000 SURCHARGES",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY HITS 7.3%",
-                "visual_caption": "Union Pacific has raised domestic intermodal surcharges out of California to $1,000 per container. Importers moving peak season volumes face elevated inland logistics costs across prime West Coast rail corridors."
+                "headline": "PORTS: CONGESTION KNOCKS OUT 1.7M TEUS",
+                "teaserTitle": "TRUCKING: 54-COUNT TAX FRAUD CRACKDOWN",
+                "visual_caption": "Persistent port congestion is removing 1.7M TEUs of containership capacity from service. Terminal backlogs across Asian hubs are tightening box supply."
             },
             {
                 "slide_index": 4,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY HITS 7.3%",
-                "teaserTitle": "AIR FREIGHT: DHL $204M CHINA EXPANSION",
-                "visual_caption": "National industrial warehouse vacancy tightened to 7.3% as tenant leasing demand outpaced new supply additions. Distribution network operators face firming lease rates across major logistics hubs heading into next year."
+                "headline": "TRUCKING: 54-COUNT TAX FRAUD CRACKDOWN",
+                "teaserTitle": "AIR FREIGHT: DHL EXPANDS SHENZHEN HUB",
+                "visual_caption": "Federal investigators unsealed a 54-count tax fraud indictment targeting trucking networks. Motor carriers face disruptions as operators navigate legal fallout."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR FREIGHT: DHL $204M CHINA EXPANSION",
-                "teaserTitle": "SECURITY: $111M DATA CENTER FREIGHT THEFT",
-                "visual_caption": "DHL Express is investing $204M to triple cargo capacity at its Shenzhen gateway. The terminal expansion strengthens export processing for high-value electronics moving to western retail markets."
+                "headline": "AIR FREIGHT: DHL EXPANDS SHENZHEN HUB",
+                "teaserTitle": "LOGISTICS: $111M DATA CENTER THEFT RING",
+                "visual_caption": "DHL Express completed a major infrastructure expansion to triple Shenzhen air cargo capacity. The upgraded terminal integrates automated sorting systems."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: $111M DATA CENTER FREIGHT THEFT",
-                "teaserTitle": "TRUCKING: 200K DRIVER NON-DOMICILED CDL LIMITS",
-                "visual_caption": "Theft rings have stolen $111M in data center components using interstate bump-and-run tactics. Logistics security teams are deploying covert tracking sensors and non-stop transit mandates."
+                "headline": "LOGISTICS: $111M DATA CENTER THEFT RING",
+                "teaserTitle": "RAIL: SO CAL FRAUD PROBE ARRESTS 5",
+                "visual_caption": "Criminal syndicates stole nearly $111M in specialized data center freight. High-value semiconductor shipments between plants remain prime targets."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING: 200K DRIVER NON-DOMICILED CDL LIMITS",
+                "headline": "RAIL: SO CAL FRAUD PROBE ARRESTS 5",
                 "teaserTitle": "",
-                "visual_caption": "State crackdowns on non-domiciled commercial driver licenses could sideline more than 200K truck drivers nationwide. Motor carriers face tightening linehaul capacity and rising driver wage inflation across key lanes."
+                "visual_caption": "Law enforcement arrested 5 suspects in Southern California following a rail theft investigation. Operators are deploying heightened surveillance across yards."
             },
             {
                 "slide_index": 8,
