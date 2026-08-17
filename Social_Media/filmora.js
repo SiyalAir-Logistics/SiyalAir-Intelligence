@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: DE MINIMIS EXEMPTION DEAD",
-                "teaserTitle": "MARITIME: HORMUZ OIL FLOWS VIA DARK TRANSPORTS",
-                "visual_caption": "Trade court upholds elimination of the $800 de minimis exemption. Cross-border e-commerce sellers must immediately adopt formal customs entry frameworks."
+                "headline": "PANAMA CANAL: QUEUE JUMP FEE PASSES 4.6M",
+                "teaserTitle": "MARITIME: PORT DELAYS REMOVE 1.7M TEU",
+                "visual_caption": "An empty tanker paid $4.6M to jump the Panama Canal queue. Middle East routing pressures are driving record tolls and severe maritime congestion."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ OIL FLOWS VIA DARK TRANSPORTS",
-                "teaserTitle": "COMPLIANCE: BAE SYSTEMS PAYS $36M PENALTY",
-                "visual_caption": "Crude oil transport through the Strait of Hormuz continues via clandestine shuttle operations and dark transits. Shadow fleet activity exposes charterers to heightened regulatory scrutiny."
+                "headline": "MARITIME: PORT DELAYS REMOVE 1.7M TEU",
+                "teaserTitle": "TANKERS: SANCTIONED SHIPS LEAD SCRAPPING",
+                "visual_caption": "Persistent port congestion is removing 1.7M TEU of capacity from global circulation. Terminal bottlenecks are keeping ocean freight spot rates elevated."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: BAE SYSTEMS PAYS $36M PENALTY",
-                "teaserTitle": "AIR FREIGHT: CAPACITY SOFTENS AS VOLUMES DIP",
-                "visual_caption": "BAE Systems agreed to pay a $36M penalty for export violations. Federal agencies are intensifying enforcement on international trade compliance protocols."
+                "headline": "TANKERS: SANCTIONED SHIPS LEAD SCRAPPING",
+                "teaserTitle": "AIR CARGO: GLOBAL RATES DIP AS VOLUMES SLOW",
+                "visual_caption": "Sanctioned vessels account for 58% of tanker recycling deals this year. Heightened compliance enforcement is driving restricted tonnage out of operation."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR FREIGHT: CAPACITY SOFTENS AS VOLUMES DIP",
-                "teaserTitle": "RAIL: CLASS I SLOWDOWNS TEST INTERMODAL",
-                "visual_caption": "Global air cargo spot rates declined 6% as chargeable weight volumes softened. Procurement teams are leveraging this volume lull to secure discounted base rates."
+                "headline": "AIR CARGO: GLOBAL RATES DIP AS VOLUMES SLOW",
+                "teaserTitle": "COMPLIANCE: USTR MOVES ON FORCED LABOR TARIFFS",
+                "visual_caption": "Global air cargo spot rates declined 6% as cargo volumes softened in August. Shippers are leveraging this lull to negotiate better contract terms."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: CLASS I SLOWDOWNS TEST INTERMODAL",
-                "teaserTitle": "PORTS: ASIA-US EAST COAST RATES SURGE",
-                "visual_caption": "Class I railroad networks are managing tightening velocity metrics and localized terminal dwell spikes. Intermodal shippers face heightened schedule volatility across domestic routes."
+                "headline": "COMPLIANCE: USTR MOVES ON FORCED LABOR TARIFFS",
+                "teaserTitle": "FREIGHT: HIGH VALUE LOADS DRIVE CARGO THEFT",
+                "visual_caption": "The USTR is implementing forced labor tariffs across 60 trading partners. Importers must audit complex global supplier networks immediately."
             },
             {
                 "slide_index": 6,
-                "headline": "PORTS: ASIA-US EAST COAST RATES SURGE",
-                "teaserTitle": "RETAIL: INVENTORIES PEAK AHEAD OF TARIFFS",
-                "visual_caption": "Container spot rates from Asia to the East Coast surged as sustained import volumes locked up capacity. Port congestion has removed over 1.7M TEU from global fleets."
+                "headline": "FREIGHT: HIGH VALUE LOADS DRIVE CARGO THEFT",
+                "teaserTitle": "AUTOMOTIVE: USMCA UNCERTAINTY TESTS MAKERS",
+                "visual_caption": "Cargo theft incidents declined in Q2 while high-value losses surged. Criminal rings are increasingly targeting premium electronics and pharmaceuticals."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL: INVENTORIES PEAK AHEAD OF TARIFFS",
+                "headline": "AUTOMOTIVE: USMCA UNCERTAINTY TESTS MAKERS",
                 "teaserTitle": "",
-                "visual_caption": "U.S. retailers accelerated inventory stockpiling, driving container volumes to an early seasonal peak. Importers are rushing goods ahead of projected duty increases."
+                "visual_caption": "North American automakers face strategic vulnerability amid trade pact uncertainty. Manufacturers must model alternative sourcing footprints to mitigate cross-border friction."
             },
             {
                 "slide_index": 8,
