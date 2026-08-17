@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
-                "teaserTitle": "LEGAL: DE MINIMIS EXEMPTIONS LEGALLY BURIED",
-                "visual_caption": "An empty tanker paid $4.6M to jump the Panama Canal queue. The record fee highlights severe maritime capacity constraints and rising voyage costs."
+                "headline": "USTR: FORCED LABOR TARIFFS ON 60 NATIONS",
+                "teaserTitle": "MARITIME: SANCTIONED TANKERS DOMINATE 58% SCRAPPING",
+                "visual_caption": "The USTR is implementing Section 301 tariffs on 60 trading partners to enforce strict forced-labor import compliance standards. Importers face expanded tariff exposure and immediate border clearance audits across impacted cargo categories."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: DE MINIMIS EXEMPTIONS LEGALLY BURIED",
-                "teaserTitle": "PORTS: LOUISIANA MEGA TERMINAL APPROVED",
-                "visual_caption": "The federal trade court formally closed the $800 de minimis customs loophole. Cross-border e-commerce importers now face mandatory formal clearance and brokerage fees."
+                "headline": "MARITIME: SANCTIONED TANKERS DOMINATE 58% SCRAPPING",
+                "teaserTitle": "PORTS: AD PORTS $2.1B TAKEOVER BID",
+                "visual_caption": "Sanctioned ships made up 58% of tanker scrapping deals this year, taking 2.1M DWT out of circulation. Increased maritime enforcement is dismantling shadow fleet capacity despite historically low overall demolition levels."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: LOUISIANA MEGA TERMINAL APPROVED",
-                "teaserTitle": "SECURITY: CARGO THEFT LOSSES SHIFT",
-                "visual_caption": "Louisiana secured final federal permits for a $2B deepwater container terminal. The facility will add 2M TEU of annual capacity along the Mississippi River."
+                "headline": "PORTS: AD PORTS $2.1B TAKEOVER BID",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY FALLS TO 7.3%",
+                "visual_caption": "Sovereign investor L'IMAD issued an AED7.8B ($2.1B) cash offer for the remaining 24.58% of AD Ports Group. Taking the terminal operator private will consolidate strategic trade infrastructure across key Middle East corridors."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: CARGO THEFT LOSSES SHIFT",
-                "teaserTitle": "AIRFREIGHT: NMIA ATTRACTS CARGO CARRIERS",
-                "visual_caption": "Q2 cargo theft incidents declined while targeting shifted toward high-value loads. Fleets must deploy advanced tracking tools to mitigate rising cargo loss exposure."
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY FALLS TO 7.3%",
+                "teaserTitle": "AIRFREIGHT: GLOBAL SPOT RATES DROP 6%",
+                "visual_caption": "Industrial real estate vacancy fell to 7.3% in Q2 as logistics demand outpaced new warehouse completions. Supply chain operators should lock in facility capacity before tightening space triggers rent increases."
             },
             {
                 "slide_index": 5,
-                "headline": "AIRFREIGHT: NMIA ATTRACTS CARGO CARRIERS",
-                "teaserTitle": "MARITIME: PORT DELAYS SIDELINE CAPACITY",
-                "visual_caption": "International cargo carriers are diverting freighter flights from Mumbai to Navi Mumbai Airport. The strategic move bypasses severe tarmac congestion and streamlines regional processing."
+                "headline": "AIRFREIGHT: GLOBAL SPOT RATES DROP 6%",
+                "teaserTitle": "SECURITY: BLACK SEA TANKER DRONE STRIKE",
+                "visual_caption": "Global air cargo spot rates fell 6% month-over-month as international peak season volumes remained subdued. Enterprise shippers can leverage softening rates to optimize long-term airfreight procurement costs."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: PORT DELAYS SIDELINE CAPACITY",
-                "teaserTitle": "COMPLIANCE: STATES SUE OVER CDL DATABASE",
-                "visual_caption": "Global port congestion is currently sidelining 1.7M TEU of containership capacity. The vessel shortage tightens active fleet supply and impacts schedule reliability."
+                "headline": "SECURITY: BLACK SEA TANKER DRONE STRIKE",
+                "teaserTitle": "M&A: DIANA DROPS $36.91 GENCO BID",
+                "visual_caption": "A Suezmax tanker was struck by a drone near a Black Sea export terminal during ongoing maritime hostilities. Maritime cargo owners must budget for increased war-risk insurance surcharges across contested waters."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: STATES SUE OVER CDL DATABASE",
+                "headline": "M&A: DIANA DROPS $36.91 GENCO BID",
                 "teaserTitle": "",
-                "visual_caption": "22 states blocked a federal mandate requiring access to 17M driver records. Fleets must maintain internal verification protocols amid ongoing regulatory uncertainty."
+                "visual_caption": "Diana Shipping dropped its takeover bid for Genco after disagreeing with a $36.91 per share valuation requirement. Both dry bulk vessel operators will maintain standalone fleet strategies across major shipping lanes."
             },
             {
                 "slide_index": 8,

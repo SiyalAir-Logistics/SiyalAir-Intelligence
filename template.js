@@ -1,95 +1,95 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP",
-        "titleBlue": "FEE",
-        "footerSummary": "Panama Canal queue-jump fees hit $4.6M while trade courts legally bury de minimis exemptions and port congestion sidelines 1.7M TEU."
+        "titleWhite": "FORCED LABOR TARIFFS ON 60",
+        "titleBlue": "NATIONS",
+        "footerSummary": "USTR triggers Section 301 tariffs on 60 nations while airfreight spot rates drop 6% and $2.1B AD Ports buyout launches."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
+            "heading": "USTR: FORCED LABOR TARIFFS ON 60 NATIONS",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker paid $4.6M to cut the queue at the Panama Canal, setting a record high for priority transit fees. The escalating toll reflects severe capacity constraints driven by Middle East routing shifts and ongoing draft restrictions.",
-                "Shippers face compounding voyage expenses and transit delays as premium fees become a required cost for reliable passage. Logistics directors must evaluate the financial trade-off between paying bottleneck surcharges or absorbing extended maritime transit times."
+                "The Office of the United States Trade Representative confirmed it is advancing Section 301 tariffs targeting 60 trading partner nations following the expiration of Section 122 duties. The trade enforcement action establishes strict compliance mandates targeting suspected forced-labor supply chains across key consumer and industrial commodity segments.",
+                "Importers face immediate customs entry scrutiny and escalated duty exposure across affected tariff classifications. Trade compliance directors must audit multi-tier supplier origins immediately to avoid border holds and unbudgeted tariff assessments."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL: DE MINIMIS EXEMPTIONS LEGALLY BURIED",
+            "nextUpTease": "MARITIME: SANCTIONED TANKERS DOMINATE 58% SCRAPPING",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LEGAL: DE MINIMIS EXEMPTIONS LEGALLY BURIED",
+            "heading": "MARITIME: SANCTIONED TANKERS DOMINATE 58% SCRAPPING",
             "paragraphs": [
-                "The federal trade court has formally closed the legal door on low-value import exemptions, ending the $800 de minimis loophole for cross-border parcel shipments. The final ruling strips e-commerce importers of duty-free entry privileges and triggers rigorous clearance requirements.",
-                "Retailers and cross-border freight forwarders must absorb increased brokerage processing costs and manage heightened customs scrutiny on every parcel. Supply chain managers must restructure fulfillment networks to handle formal entry filing fees and prevent border friction."
+                "Sanctioned vessels accounted for 58% of all tanker recycling transactions in 2026, totaling 26 vessels and 2.1M DWT removed from illicit trading routes. Despite elevated freight rates suppressing broader demolition volumes, heightened enforcement is forcing older, sanctioned tonnage into recycling yards.",
+                "The removal of shadow-fleet capacity tightens illicit petroleum transport networks while reinforcing legitimate tanker demand. Energy shippers and charterers must verify vessel ownership and regulatory compliance to avoid secondary sanction liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: LOUISIANA MEGA TERMINAL APPROVED",
+            "nextUpTease": "PORTS: AD PORTS $2.1B TAKEOVER BID",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORTS: LOUISIANA MEGA TERMINAL APPROVED",
+            "heading": "PORTS: AD PORTS $2.1B TAKEOVER BID",
             "paragraphs": [
-                "The Louisiana International Terminal has secured final federal permits to begin construction on a $2B deepwater container facility in New Orleans. The mega-terminal is engineered to handle 2M TEU annually and accommodate 14K TEU vessels along the Mississippi River.",
-                "The greenfield development provides Gulf Coast importers with critical intermodal rail alternatives to congested East Coast trade gateways. Regional supply chain networks will gain enhanced cargo velocity and diversified routing options for domestic distribution."
+                "Abu Dhabi sovereign investor L'IMAD launched an AED7.8B ($2.1B) all-cash acquisition offer to buy out the remaining 24.58% stake in AD Ports Group. The proposed transaction would transition the Middle Eastern logistics and terminal operator into private sovereign control.",
+                "Full privatization will accelerate AD Ports' global asset acquisition strategy across Red Sea and Indian Ocean maritime corridors. Shippers and global forwarders operating in Gulf gateways should anticipate unified terminal management and integrated logistics pricing structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: CARGO THEFT LOSSES SHIFT",
+            "nextUpTease": "REAL ESTATE: INDUSTRIAL VACANCY FALLS TO 7.3%",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SECURITY: CARGO THEFT LOSSES SHIFT",
+            "heading": "REAL ESTATE: INDUSTRIAL VACANCY FALLS TO 7.3%",
             "paragraphs": [
-                "Overall cargo theft incidents declined in the second quarter, but criminal targeting shifted toward high-value loads resulting in larger financial losses per event. Freight networks across domestic corridors face persistent threats from sophisticated cargo hijacking rings.",
-                "Shippers moving high-value commodities face increased insurance premiums and stricter cargo security mandates from logistics underwriters. Fleet operators must deploy advanced location-based tracking and hardened seal protocols to protect vulnerable freight."
+                "The national industrial real estate vacancy rate contracted by 7 basis points sequentially to 7.3% during Q2 as warehouse absorption outpaced new speculative construction deliveries. Supply additions moderated following construction slowdowns, allowing major logistics hubs to absorb existing square footage.",
+                "Tightening warehouse availability stabilizes leasing rates across primary inland freight distribution markets. Enterprise supply chain planners must secure fulfillment footprint requirements early before commercial lease rates rebound across core distribution nodes."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIRFREIGHT: NMIA ATTRACTS CARGO CARRIERS",
+            "nextUpTease": "AIRFREIGHT: GLOBAL SPOT RATES DROP 6%",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIRFREIGHT: NMIA ATTRACTS CARGO CARRIERS",
+            "heading": "AIRFREIGHT: GLOBAL SPOT RATES DROP 6%",
             "paragraphs": [
-                "International all-cargo carriers are actively shifting scheduled freighter operations from congested Mumbai Airport to the newly opened Navi Mumbai International Airport. The structural relocation bypasses severe tarmac bottlenecks and streamlines western India air cargo flow.",
-                "Air freight forwarders and shippers gain expanded apron capacity and faster ground handling times for high-density export consignments. Enterprise logistics teams must update airport routing codes and realign regional road feeder networks to the new hub."
+                "Global air cargo spot rates declined 6% month-over-month as chargeable weight volumes softened ahead of the traditional autumn peak shipping cycle. Muted e-commerce demand and expanded belly-hold passenger flight capacity have combined to reduce load factors on primary East-West air corridors.",
+                "The price softening provides cargo shippers with temporary margin relief on scheduled international airfreight bookings. Logistics procurement leads can leverage lower spot benchmarks to negotiate favorable index-linked air contracts heading into Q4."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: PORT DELAYS SIDELINE CAPACITY",
+            "nextUpTease": "SECURITY: BLACK SEA TANKER DRONE STRIKE",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://maritime-executive.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: PORT DELAYS SIDELINE CAPACITY",
+            "heading": "SECURITY: BLACK SEA TANKER DRONE STRIKE",
             "paragraphs": [
-                "Persistent global port congestion is effectively removing approximately 1.7M TEU of containership capacity from active commercial service worldwide. The sidelined capacity equals the operational size of a major global carrier fleet, tightening effective vessel supply.",
-                "Ocean freight schedule reliability remains compromised, forcing shippers to build longer buffer times into inventory planning cycles. Logistics executives must account for reduced vessel availability and potential spot rate volatility across major trade lanes."
+                "A maritime drone strike hit the bridge of the Suezmax tanker Skiros near a Black Sea crude export terminal, marking the second attack on Greek-owned IMS vessels in the region. The incident underscores escalating security threats targeting merchant vessels navigating regional energy transit lanes.",
+                "Marine underwriters are adjusting war-risk premiums for commercial vessels calling Black Sea and neighboring terminals. Bulk shippers and commodity traders must budget for rising insurance surcharges and incorporate emergency rerouting contingencies into charter party contracts."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: STATES SUE OVER CDL DATABASE",
+            "nextUpTease": "M&A: DIANA DROPS $36.91 GENCO BID",
             "tags": [
                 "Source: https://splash247.com",
                 "Published: 2026-08-17T00:00:00Z",
@@ -98,15 +98,15 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "COMPLIANCE: STATES SUE OVER CDL DATABASE",
+            "heading": "M&A: DIANA DROPS $36.91 GENCO BID",
             "paragraphs": [
-                "A coalition of 22 state attorneys general has secured a federal injunction freezing administrative demands to access driver records for 17M CDL holders. The legal action halts an immediate federal data-sharing mandate citing critical regulatory and privacy concerns.",
-                "Fleet operators and freight brokers face continued uncertainty regarding commercial driver vetting standards and regulatory compliance oversight. Logistics managers must maintain rigorous internal verification procedures to manage driver onboarding without centralized registry access."
+                "Diana Shipping formally terminated its nine-month tender offer to acquire Genco Shipping & Trading after the target board mandated a valuation of $36.91 per share. Diana rejected the counter-terms as disconnected from current dry bulk market fundamentals.",
+                "The failed consolidation leaves mid-sized dry bulk fleets operating independently amid shifting global commodity demand cycles. Charterers and bulk commodity cargo owners retain broad spot carrier options without immediate fleet integration disruptions."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
