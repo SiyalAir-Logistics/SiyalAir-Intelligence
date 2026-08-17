@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: EXPANDED SECTION 301 DUTIES",
-                "teaserTitle": "PANAMA CANAL TOLL RECORD",
-                "visual_caption": "USTR moves forward with Section 301 tariffs targeting 60 trading partner nations. Importers face immediate margin compression and mandatory labor compliance audits at entry ports."
+                "headline": "COMPLIANCE: DE MINIMIS IS DEAD",
+                "teaserTitle": "MARITIME: PANAMA QUEUE JUMP",
+                "visual_caption": "The trade court has legally buried de minimis exemptions for low-value imports. E-commerce importers face formal customs clearance and new tariff duties."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL TOLL RECORD",
-                "teaserTitle": "DHL EXPANDS SHENZHEN HUB",
-                "visual_caption": "A gas tanker paid a record $4.6M auction fee to bypass Panama Canal queues. Maritime planners must evaluate multi-million-dollar fees against 14-day transit diversions."
+                "headline": "MARITIME: PANAMA QUEUE JUMP",
+                "teaserTitle": "LOGISTICS: RATE INCREASE FIRE",
+                "visual_caption": "An empty tanker paid a record $4.6M fee to bypass Panama Canal queues. Ocean freight planners face severe spot cost inflation on major corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: DHL EXPANDS SHENZHEN HUB",
-                "teaserTitle": "22 STATES SUE CDL MANDATE",
-                "visual_caption": "DHL Express invested $204M to triple cargo capacity at its Shenzhen gateway. Shippers gain expanded automated capacity to support surging intra-Asia freight volumes."
+                "headline": "LOGISTICS: RATE INCREASE FIRE",
+                "teaserTitle": "CONTAINERS: PORT DELAYS STRIKE",
+                "visual_caption": "Shipping disruptions have caused rate increases to spread into long-term contracts. Supply chain procurement teams must adopt agile modal strategies."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: 22 STATES SUE CDL MANDATE",
-                "teaserTitle": "BAE SYSTEMS SETTLES EXPORT PENALTY",
-                "visual_caption": "22 states filed lawsuits blocking federal access to 17M commercial driver records. Motor carriers warn that tighter compliance audits will restrict truckload capacity."
+                "headline": "CONTAINERS: PORT DELAYS STRIKE",
+                "teaserTitle": "TECHNOLOGY: ELD PURGE CAPACITY",
+                "visual_caption": "Global port congestion is removing 1.7M TEUs of capacity from circulation. Network planners face severe equipment imbalances as container velocity slows."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: BAE SYSTEMS SETTLES EXPORT PENALTY",
-                "teaserTitle": "DATA CENTER SHIPMENTS HIJACKED",
-                "visual_caption": "BAE Systems settled federal export control violations for $36M to resolve charges. Aerospace suppliers must tighten internal controls to eliminate severe trade compliance risks."
+                "headline": "TECHNOLOGY: ELD PURGE CAPACITY",
+                "teaserTitle": "AIR CARGO: SHENZHEN EXPANSION",
+                "visual_caption": "Federal electronic logging enforcement is purging non-compliant operators. Motor carriers face accelerating cost pressures and tighter truckload capacity."
             },
             {
                 "slide_index": 6,
-                "headline": "CARGO THEFT: DATA CENTER SHIPMENTS HIJACKED",
-                "teaserTitle": "DIANA DROPS GENCO TAKEOVER",
-                "visual_caption": "Cargo theft rings stole nearly $111M in data center tech using staged collisions. Logistics teams are deploying armed security and telemetry to secure highway corridors."
+                "headline": "AIR CARGO: SHENZHEN EXPANSION",
+                "teaserTitle": "DRY BULK: GENCO TAKEOVER HALT",
+                "visual_caption": "DHL Express expanded its Shenzhen terminal to triple regional air cargo capacity. Shippers can leverage expanded gateway access to secure priority uplift."
             },
             {
                 "slide_index": 7,
-                "headline": "DRY BULK: DIANA DROPS GENCO TAKEOVER",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Diana Shipping pulled its takeover offer for Genco Shipping after valuation disputes. Commodity charterers face fragmented vessel availability across global dry bulk routes."
+                "headline": "DRY BULK: GENCO TAKEOVER HALT",
+                "teaserTitle": "",
+                "visual_caption": "Diana Shipping terminated its acquisition pursuit of Genco Shipping. Charterers must navigate fragmented vessel deployment across global commodity routes."
             },
             {
                 "slide_index": 8,
