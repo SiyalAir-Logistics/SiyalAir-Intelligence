@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES FOUR POINT SIX MILLION DOLLARS",
+        "hookTitle": "DE MINIMIS TARIFF EXEMPTION BURIED",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES",
-                "teaserTitle": "CONTAINERS: PORT CONGESTION REMOVES 1.7M TEU",
+                "headline": "CUSTOMS: DE MINIMIS EXEMPTION BURIED",
+                "teaserTitle": "TARIFFS: TRUMP IMPOSES 100 PERCENT DRONE TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker paid a record four point six million dollars to cut the Panama Canal queue. Escalating regional conflicts continue to drive extreme priority transit costs."
+                "narration_line": "United States trade courts have officially eliminated low-value duty exemptions. Importers must now overhaul land cost models for cross-border parcels."
             },
             {
                 "slide_index": 2,
-                "headline": "CONTAINERS: PORT CONGESTION REMOVES 1.7M TEU",
-                "teaserTitle": "COMPLIANCE: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+                "headline": "TARIFFS: TRUMP IMPOSES 100 PERCENT DRONE TARIFFS",
+                "teaserTitle": "MARITIME: GERMAN PORT UNION LAUNCHES STRIKES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Persistent port congestion has removed one point seven million teus of containership capacity globally. Uneven growth and blank sailings are significantly extending delivery lead times."
+                "narration_line": "President Trump enacted one hundred percent tariffs on foreign drones and components. Sourcing teams are rushing to qualify domestic alternative suppliers."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
-                "teaserTitle": "SECURITY: BAE SYSTEMS PAYS 36M USD FOR ARMS BREACH",
+                "headline": "MARITIME: GERMAN PORT UNION LAUNCHES STRIKES",
+                "teaserTitle": "COMPLIANCE: USTR ENFORCES FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The trade representative is advancing strict tariffs on sixty nations under section three hundred one. Importers must audit multi tier supply chains to avoid severe penalties."
+                "narration_line": "German port hubs face severe warning strikes as wage talks completely collapse. Logistics planners must reroute European gateway cargo immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: BAE SYSTEMS PAYS 36M USD FOR ARMS BREACH",
-                "teaserTitle": "FREIGHT: ASIA US EAST COAST RATES HIT NEW HIGH",
+                "headline": "COMPLIANCE: USTR ENFORCES FORCED LABOR TARIFFS",
+                "teaserTitle": "FREIGHT: TRUCKLOAD LINEHAUL RATES SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Defense contractor BAE Systems agreed to pay thirty six million dollars for arms export violations. Federal oversight agencies are intensifying enforcement on cross border shipments."
+                "narration_line": "The USTR is enforcing strict forced labor tariffs across sixty trading partners. Supply chain teams must achieve complete tier-one traceability."
             },
             {
                 "slide_index": 5,
-                "headline": "FREIGHT: ASIA US EAST COAST RATES HIT NEW HIGH",
-                "teaserTitle": "DEFENSE: PENTAGON SIGNS 2B USD DEAL FOR BATTERIES",
+                "headline": "FREIGHT: TRUCKLOAD LINEHAUL RATES SURGE",
+                "teaserTitle": "SECURITY: TRAIN THIEVES STEAL 200M USD IN CARGO",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Asia to United States East Coast ocean freight rates have reached unprecedented new highs. Sustained import demand and capacity constraints are surprising market observers."
+                "narration_line": "Cass reports truckload linehaul rates surged higher as capacity attrition accelerates. Shippers are increasingly abandoning static routing guides."
             },
             {
                 "slide_index": 6,
-                "headline": "DEFENSE: PENTAGON SIGNS 2B USD DEAL FOR BATTERIES",
-                "teaserTitle": "TANKERS: SANCTIONED SHIPS MAKE UP 58 PERCENT OF SCRAPPING",
+                "headline": "SECURITY: TRAIN THIEVES STEAL 200M USD IN CARGO",
+                "teaserTitle": "AEROSPACE: KOREAN AIR AUTOMATES CARGO HUBS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Pentagon has committed over two billion dollars to secure domestic battery supply chains. Industrial operators must align procurement with critical mineral re-shoring mandates."
+                "narration_line": "Railroads face an alarming crime wave causing over two hundred million in losses. Operators are deploying advanced drones and monitoring tools."
             },
             {
                 "slide_index": 7,
-                "headline": "TANKERS: SANCTIONED SHIPS MAKE UP 58 PERCENT OF SCRAPPING",
+                "headline": "AEROSPACE: KOREAN AIR AUTOMATES CARGO HUBS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Sanctioned vessels comprise fifty eight percent of all tanker recycling market activity this year. The retirement of non compliant tonnage tightens global crude transport capacity."
+                "narration_line": "Korean Air is installing automated cargo equipment at major international hubs. Forwarders will benefit from significantly reduced terminal dwell times."
             },
             {
                 "slide_index": 8,

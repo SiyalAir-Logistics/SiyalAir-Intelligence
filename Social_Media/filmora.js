@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES",
-                "teaserTitle": "CONTAINERS: PORT CONGESTION REMOVES 1.7M TEU",
-                "visual_caption": "An empty tanker paid a record $4.6M to cut the Panama Canal queue. Escalating regional conflicts continue to drive extreme priority transit costs."
+                "headline": "CUSTOMS: DE MINIMIS EXEMPTION BURIED",
+                "teaserTitle": "TARIFFS: TRUMP IMPOSES 100 PERCENT DRONE TARIFFS",
+                "visual_caption": "United States trade courts officially eliminated the $800 de minimis exemption. Importers must audit landed costs for all cross-border parcels."
             },
             {
                 "slide_index": 2,
-                "headline": "CONTAINERS: PORT CONGESTION REMOVES 1.7M TEU",
-                "teaserTitle": "COMPLIANCE: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
-                "visual_caption": "Persistent port congestion has removed 1.7M teu of containership capacity globally. Uneven growth and blank sailings are significantly extending delivery lead times."
+                "headline": "TARIFFS: TRUMP IMPOSES 100 PERCENT DRONE TARIFFS",
+                "teaserTitle": "MARITIME: GERMAN PORT UNION LAUNCHES STRIKES",
+                "visual_caption": "President Trump enacted 100% tariffs on foreign drones and critical components. Sourcing teams are rushing to qualify domestic suppliers."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
-                "teaserTitle": "SECURITY: BAE SYSTEMS PAYS 36M USD FOR ARMS BREACH",
-                "visual_caption": "The trade representative is advancing strict tariffs on 60 nations under Section 301. Importers must audit multi-tier supply chains to avoid severe penalties."
+                "headline": "MARITIME: GERMAN PORT UNION LAUNCHES STRIKES",
+                "teaserTitle": "COMPLIANCE: USTR ENFORCES FORCED LABOR TARIFFS",
+                "visual_caption": "German port hubs face severe warning strikes as wage talks collapse. Logistics planners must reroute European gateway cargo immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: BAE SYSTEMS PAYS 36M USD FOR ARMS BREACH",
-                "teaserTitle": "FREIGHT: ASIA US EAST COAST RATES HIT NEW HIGH",
-                "visual_caption": "Defense contractor BAE Systems agreed to pay $36M for arms export violations. Federal oversight agencies are intensifying enforcement on cross-border shipments."
+                "headline": "COMPLIANCE: USTR ENFORCES FORCED LABOR TARIFFS",
+                "teaserTitle": "FREIGHT: TRUCKLOAD LINEHAUL RATES SURGE",
+                "visual_caption": "The USTR is enforcing strict forced labor tariffs across 60 trading partners. Supply chain teams must achieve complete tier-one traceability."
             },
             {
                 "slide_index": 5,
-                "headline": "FREIGHT: ASIA US EAST COAST RATES HIT NEW HIGH",
-                "teaserTitle": "DEFENSE: PENTAGON SIGNS 2B USD DEAL FOR BATTERIES",
-                "visual_caption": "Asia to US East Coast ocean freight rates have reached unprecedented new highs. Sustained import demand and capacity constraints are surprising market observers."
+                "headline": "FREIGHT: TRUCKLOAD LINEHAUL RATES SURGE",
+                "teaserTitle": "SECURITY: TRAIN THIEVES STEAL 200M USD IN CARGO",
+                "visual_caption": "Cass reports truckload linehaul rates surged higher as capacity attrition accelerates. Shippers are increasingly abandoning static routing guides."
             },
             {
                 "slide_index": 6,
-                "headline": "DEFENSE: PENTAGON SIGNS 2B USD DEAL FOR BATTERIES",
-                "teaserTitle": "TANKERS: SANCTIONED SHIPS MAKE UP 58 PERCENT OF SCRAPPING",
-                "visual_caption": "The Pentagon has committed over $2B to secure domestic battery supply chains. Industrial operators must align procurement with critical mineral re-shoring mandates."
+                "headline": "SECURITY: TRAIN THIEVES STEAL 200M USD IN CARGO",
+                "teaserTitle": "AEROSPACE: KOREAN AIR AUTOMATES CARGO HUBS",
+                "visual_caption": "Railroads face an alarming crime wave causing over $200M in annual losses. Operators are deploying advanced drones and monitoring tools."
             },
             {
                 "slide_index": 7,
-                "headline": "TANKERS: SANCTIONED SHIPS MAKE UP 58 PERCENT OF SCRAPPING",
+                "headline": "AEROSPACE: KOREAN AIR AUTOMATES CARGO HUBS",
                 "teaserTitle": "",
-                "visual_caption": "Sanctioned vessels comprise 58% of all tanker recycling market activity this year. The retirement of non-compliant tonnage tightens global crude transport capacity."
+                "visual_caption": "Korean Air is installing automated cargo equipment at major international hubs. Forwarders will benefit from significantly reduced terminal dwell times."
             },
             {
                 "slide_index": 8,

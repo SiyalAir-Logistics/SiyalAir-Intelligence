@@ -1,50 +1,65 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
-        "titleBlue": "$4.6M",
-        "footerSummary": "Panama Canal queue jump fees hit $4.6M as Middle East conflict reroutes global shipping, compounding multi-million dollar transit bottlenecks worldwide."
+        "titleWhite": "DE MINIMIS TARIFF EXEMPTION",
+        "titleBlue": "BURIED",
+        "footerSummary": "US trade courts formally bury de minimis exemptions as new 100% tariffs and strict enforcement protocols hit cross-border ecommerce supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES",
+            "heading": "CUSTOMS: DE MINIMIS EXEMPTION BURIED",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker will cut the Panama Canal queue after paying a record $4.6M fee, according to recent shipping reports. The staggering payment surpasses the prior high of $3.98M as escalating Middle East conflict forces vessel operators to bypass disrupted maritime corridors.",
-                "Shippers face intense financial pressures and extreme scheduling volatility as premium queue jumping becomes a mandatory cost for time-sensitive cargo. Logistics executives must factor these soaring priority fees into operational budgets to maintain viable supply chain routes."
+                "United States trade courts have officially upheld the complete elimination of low-value de minimis tariff exemptions, dismantling the $800 loophole for cross-border shipments. Federal trade enforcers are aggressively auditing international ecommerce cargo to capture previously waived duties and close compliance gaps.",
+                "Importers face immediate operational overhauls as every incoming parcel requires full customs documentation and applicable duty settlement. Supply chain directors must recalibrate landed cost models to account for the sudden expiration of tax-free threshold rules."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINERS: PORT CONGESTION REMOVES 1.7M TEU",
+            "nextUpTease": "TARIFFS: TRUMP IMPOSES 100 PERCENT DRONE TARIFFS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "CONTAINERS: PORT CONGESTION REMOVES 1.7M TEU",
+            "heading": "TARIFFS: TRUMP IMPOSES 100 PERCENT DRONE TARIFFS",
             "paragraphs": [
-                "Persistent global port congestion is effectively removing 1.7M teu of containership capacity from the active market, matching the size of a major global carrier fleet. Sea-Intelligence analysis highlights that uneven growth and blank sailings are severely restricting equipment availability and extending lead times.",
-                "Supply chain planners must navigate tightened vessel availability and heightened schedule unreliability across key international trade lanes. Shippers should secure forward allocations early to mitigate the risk of severe inventory starvation during peak operational windows."
+                "President Trump has enacted sweeping 100% tariffs targeting specific foreign unmanned aerial vehicles and critical sub-assembly components. The aggressive trade action aims to protect domestic aerospace manufacturing and eliminate reliance on heavily subsidized overseas supply chains.",
+                "Commercial technology operators must urgently audit their hardware bill of materials to mitigate punishing import penalties on robotic and aerial platforms. Sourcing teams are racing to qualify domestic or allied component suppliers before existing buffer stock depletes."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+            "nextUpTease": "MARITIME: GERMAN PORT UNION LAUNCHES STRIKES",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "COMPLIANCE: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+            "heading": "MARITIME: GERMAN PORT UNION LAUNCHES STRIKES",
             "paragraphs": [
-                "The Office of the United States Trade Representative is moving forward with the implementation of strict tariffs on 60 trading nations under Section 301. The regulatory enforcement targets forced labor practices across complex international supply chains as older trade provisions formally expire.",
-                "Importers must audit Tier 1 through Tier 4 supplier networks immediately to prevent costly border seizures and severe compliance penalties. Absorbing these expansive tariff structures requires rigorous data transparency and automated origin-tracing technologies."
+                "Major German port hubs including Hamburg, Bremerhaven, and Wilhelmshaven are facing severe operational disruptions as unionized workers walk off the job. Verdi called the warning strikes for 11,000 port employees following a complete breakdown in ongoing wage negotiations.",
+                "Vessel turnaround times across Northern Europe will deteriorate rapidly, creating cascading schedule unreliability for global liner services. Logistics planners must reroute time-sensitive European gateway cargo to alternative terminals to prevent extended dwell times."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: BAE SYSTEMS PAYS 36M USD FOR ARMS BREACH",
+            "nextUpTease": "COMPLIANCE: USTR ENFORCES FORCED LABOR TARIFFS",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: 2026-08-17T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "COMPLIANCE: USTR ENFORCES FORCED LABOR TARIFFS",
+            "paragraphs": [
+                "The Office of the United States Trade Representative is actively enforcing strict tariff measures on 60 trading partners under Section 301 provisions. The sweeping regulatory action targets forced labor practices across complex international supply chains as legacy trade exemptions expire.",
+                "Importers must map and audit multi-tiered supplier networks immediately to prevent costly border seizures and severe financial penalties. Achieving complete origin traceability is now a mandatory operational requirement for maintaining continuous trade flow."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FREIGHT: TRUCKLOAD LINEHAUL RATES SURGE",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-16T00:00:00Z",
@@ -52,61 +67,46 @@ const dailyData = {
             ]
         },
         {
-            "id": 4,
-            "heading": "SECURITY: BAE SYSTEMS PAYS 36M USD FOR ARMS BREACH",
+            "id": 5,
+            "heading": "FREIGHT: TRUCKLOAD LINEHAUL RATES SURGE",
             "paragraphs": [
-                "BAE Systems has agreed to pay $36M to settle alleged violations of United States arms export regulations and international compliance protocols. Federal oversight agencies are intensifying enforcement actions against defense and dual-use manufacturers failing to monitor cross-border shipments.",
-                "Global enterprises must implement robust trade compliance software to eliminate vulnerabilities in sensitive technology transfers. Maintaining strict adherence to export controls prevents catastrophic financial penalties and protects international operating licenses."
+                "Cass Information Systems reports that truckload linehaul rates ripped higher in July as capacity attrition finally outpaces baseline shipping demand. Shippers are increasingly abandoning static routing guides in favor of short-term mini-bids to secure truck capacity.",
+                "Transportation budgets are experiencing acute inflationary pressure as carrier pricing power rebounds across major domestic freight corridors. Procurement executives must deploy advanced modal optimization strategies to protect operating margins against rising spot rates."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT: ASIA US EAST COAST RATES HIT NEW HIGH",
+            "nextUpTease": "SECURITY: TRAIN THIEVES STEAL 200M USD IN CARGO",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 5,
-            "heading": "FREIGHT: ASIA US EAST COAST RATES HIT NEW HIGH",
-            "paragraphs": [
-                "Sustained import volumes and aggressive early peak season booking have pushed Asia to US East Coast ocean freight rates to unprecedented new highs. Freightos data confirms that strong demand coupled with capacity bottlenecks is taking market observers completely by surprise.",
-                "Carriers and forwarders are capitalizing on tight vessel supply, forcing shippers to absorb rapidly escalating spot market freight costs. Procurement teams must renegotiate long-term service contracts and diversify routing strategies to protect operating margins."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "DEFENSE: PENTAGON SIGNS 2B USD DEAL FOR BATTERIES",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-13T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "DEFENSE: PENTAGON SIGNS 2B USD DEAL FOR BATTERIES",
+            "heading": "SECURITY: TRAIN THIEVES STEAL 200M USD IN CARGO",
             "paragraphs": [
-                "The Pentagon's Office of Strategic Capital has signed over $2B in conditional loan commitments to secure domestic batteries and critical mineral supply chains. Companies like Sila Technologies and Niron Magnetics are leading the industrial re-shoring effort to eliminate foreign material dependencies.",
-                "Securing critical raw material supply lines is becoming an urgent national security priority that directly impacts commercial manufacturing sectors. Industrial operators must align their procurement pipelines with government-backed domestic material frameworks."
+                "Class I freight railroads are confronting an alarming crime wave resulting in over $200M in annual cargo theft losses across the United States. Major rail operators are partnering with local law enforcement and the FBI while deploying drones and monitoring technology.",
+                "Supply chain security teams must enhance yard surveillance and transit tracking for high-value intermodal shipments moving through vulnerable urban corridors. Mitigating cargo theft requires multi-layered physical hardening and real-time exception alerts."
             ],
             "imageUrl": "",
-            "nextUpTease": "TANKERS: SANCTIONED SHIPS MAKE UP 58 PERCENT OF SCRAPPING",
+            "nextUpTease": "AEROSPACE: KOREAN AIR AUTOMATES CARGO HUBS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TANKERS: SANCTIONED SHIPS MAKE UP 58 PERCENT OF SCRAPPING",
+            "heading": "AEROSPACE: KOREAN AIR AUTOMATES CARGO HUBS",
             "paragraphs": [
-                "Sanctioned vessels are accounting for 58% of all tanker recycling market activity this year as older crude carriers exit active service. Clarksons Research reports that 26 sanctioned ships totaling 2.1M dwt have been sold for demolition despite firm global freight conditions.",
-                "The rapid retirement of non-compliant tonnage tightens effective global oil transport capacity while increasing regulatory scrutiny on vessel ownership. Maritime operators must verify fleet compliance credentials rigorously to avoid secondary sanctions and port entry bans."
+                "Korean Air is aggressively upgrading its global network by installing advanced automated cargo handling equipment at Incheon and JFK terminals. The multi-million dollar technology integration aims to eliminate terminal bottlenecks and accelerate throughput for international freight.",
+                "Air cargo forwarders will benefit from reduced dwell times and improved digital visibility as major carriers modernize ground infrastructure. Shippers should align their freight scheduling with automated hub workflows to maximize transit speed."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
