@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4M",
-                "teaserTitle": "REGULATION: USTR TARIFFS ON TRADING PARTNERS",
-                "visual_caption": "An empty tanker cuts the Panama Canal queue after paying a record $4.6M fee. Regional conflicts continue driving bidding wars for priority vessel transits."
+                "headline": "MARITIME: IRAN WAR DISRUPTION SPREADS TO CONTRACT RATES",
+                "teaserTitle": "REGULATION: DE MINIMIS IS LEGALLY BURIED",
+                "visual_caption": "Maritime disruptions are spreading from spot markets into long-term contract rates. Shippers face sharp price hikes as carriers pass on severe voyage risk premiums."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: USTR TARIFFS ON TRADING PARTNERS",
-                "teaserTitle": "SECURITY: FBI SEKS TRUCK DRIVERS IN TAX FRAUD",
-                "visual_caption": "The USTR is implementing tariffs on 60 nations under Section 301. Importers face immediate duty escalations as customs agencies ramp up cross-border audits."
+                "headline": "REGULATION: DE MINIMIS IS LEGALLY BURIED",
+                "teaserTitle": "SECURITY: UBER FREIGHT BREACH EXPOSES GAP",
+                "visual_caption": "The federal trade court has officially eliminated the $800 de minimis duty-free exemption. Importers now face strict customs inspections and higher landed inventory costs."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: FBI SEKS TRUCK DRIVERS IN TAX FRAUD",
-                "teaserTitle": "FREIGHT: ASIA TO US EAST COAST RATES",
-                "visual_caption": "Federal agents launched a nationwide search for truck drivers victimized in a 54-count tax fraud scheme. Affected owner-operators face unexpected liabilities."
+                "headline": "SECURITY: UBER FREIGHT BREACH EXPOSES GAP",
+                "teaserTitle": "AIR CARGO: CUSTOMS CRACKDOWNS THREATEN DEMAND",
+                "visual_caption": "A massive data breach at Uber Freight has exposed critical identity security vulnerabilities across digital platforms. Logistics operators must enforce rigorous multi-factor authentication immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "FREIGHT: ASIA TO US EAST COAST RATES",
-                "teaserTitle": "LABOR: PORTS BOOST CLEAN ENERGY INCENTIVES",
-                "visual_caption": "Ocean freight rates from Asia to the US East Coast surged to new highs amid sustained import demand. Transportation planners must lock in guaranteed space early."
+                "headline": "AIR CARGO: CUSTOMS CRACKDOWNS THREATEN DEMAND",
+                "teaserTitle": "ENERGY: INDIA BOOSTS MARITIME EXPLORATION",
+                "visual_caption": "Tougher customs enforcement on low-value air cargo is threatening ecommerce delivery volumes globally. Forwarders face severe terminal dwell times and mandatory document verifications."
             },
             {
                 "slide_index": 5,
-                "headline": "LABOR: PORTS BOOST CLEAN ENERGY INCENTIVES",
-                "teaserTitle": "TECHNOLOGY: AMAZON COMBINES OPERATIONS TEAMS",
-                "visual_caption": "Los Angeles and Long Beach ports unveiled a clean energy incentive program for zero-emission infrastructure. Drayage providers face heavy capital expenditures."
+                "headline": "ENERGY: INDIA BOOSTS MARITIME EXPLORATION",
+                "teaserTitle": "AUTOMOTIVE: TOYOTA PHASE OUTS CHINABUILT",
+                "visual_caption": "India has launched an $8.8B initiative to boost maritime oil and gas exploration. The funding aims to reduce heavy import reliance amid Mideast supply closures."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: AMAZON COMBINES OPERATIONS TEAMS",
-                "teaserTitle": "EQUIPMENT: VOLKSWAGEN REDUCES TRATON STAKE",
-                "visual_caption": "Amazon merged its air and ground transportation teams into a unified organizational structure. This alignment accelerates decision-making across its logistics footprint."
+                "headline": "AUTOMOTIVE: TOYOTA PHASE OUTS CHINABUILT",
+                "teaserTitle": "TECHNOLOGY: TARGET DEPLOYS DIGITAL TWINS",
+                "visual_caption": "Ford is officially phasing out China-built Lincoln vehicle imports to evade mounting tariff penalties. Procurement teams must rapidly restructure cross-border automotive supply chains."
             },
             {
                 "slide_index": 7,
-                "headline": "EQUIPMENT: VOLKSWAGEN REDUCES TRATON STAKE",
+                "headline": "TECHNOLOGY: TARGET DEPLOYS DIGITAL TWINS",
                 "teaserTitle": "",
-                "visual_caption": "Volkswagen announced plans to reduce its majority stake in truck manufacturer Traton. The move frees up financial resources for core electrification initiatives."
+                "visual_caption": "Target has deployed an advanced digital twin platform to optimize nationwide inventory management. The technology simulates network disruptions and slashes excess safety stock requirements."
             },
             {
                 "slide_index": 8,

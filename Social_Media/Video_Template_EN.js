@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4M",
+        "hookTitle": "IRAN WAR DISRUPTION SPREADS TO CONTRACT RATES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4M",
-                "teaserTitle": "REGULATION: USTR TARIFFS ON TRADING PARTNERS",
+                "headline": "MARITIME: IRAN WAR DISRUPTION SPREADS TO CONTRACT RATES",
+                "teaserTitle": "REGULATION: DE MINIMIS IS LEGALLY BURIED",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker will cut the Panama Canal queue after paying a record four point six million dollars. Regional conflicts continue to drive unprecedented bidding wars for priority vessel transits."
+                "narration_line": "Ongoing maritime disruptions are spreading from spot markets directly into long term contract freight rates. Shippers face sharp price hikes as carriers pass on severe voyage risk premiums."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: USTR TARIFFS ON TRADING PARTNERS",
-                "teaserTitle": "SECURITY: FBI SEKS TRUCK DRIVERS IN TAX FRAUD",
+                "headline": "REGULATION: DE MINIMIS IS LEGALLY BURIED",
+                "teaserTitle": "SECURITY: UBER FREIGHT BREACH EXPOSES GAP",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The trade representative is implementing new tariffs on sixty nations under section three oh one. Importers face immediate duty escalations as customs agencies ramp up cross-border audits."
+                "narration_line": "The federal trade court has officially eliminated the eight hundred dollar de minimis duty free exemption. Importers now face strict customs inspections and higher landed inventory costs."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: FBI SEKS TRUCK DRIVERS IN TAX FRAUD",
-                "teaserTitle": "FREIGHT: ASIA TO US EAST COAST RATES",
+                "headline": "SECURITY: UBER FREIGHT BREACH EXPOSES GAP",
+                "teaserTitle": "AIR CARGO: CUSTOMS CRACKDOWNS THREATEN DEMAND",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal agents have launched a nationwide search for truck drivers victimized in a fifty-four count tax fraud scheme. Affected owner-operators face unexpected liabilities following financial misconduct."
+                "narration_line": "A massive data breach at Uber Freight has exposed critical identity security vulnerabilities across digital platforms. Logistics operators must enforce rigorous multi factor authentication immediately."
             },
             {
                 "slide_index": 4,
-                "headline": "FREIGHT: ASIA TO US EAST COAST RATES",
-                "teaserTitle": "LABOR: PORTS BOOST CLEAN ENERGY INCENTIVES",
+                "headline": "AIR CARGO: CUSTOMS CRACKDOWNS THREATEN DEMAND",
+                "teaserTitle": "ENERGY: INDIA BOOSTS MARITIME EXPLORATION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Ocean freight rates from Asia to the US East Coast have surged to new highs amid sustained import demand. Transportation planners must lock in guaranteed space allocations early."
+                "narration_line": "Tougher customs enforcement on low value air cargo is threatening ecommerce delivery volumes globally. Forwarders face severe terminal dwell times and mandatory document verifications."
             },
             {
                 "slide_index": 5,
-                "headline": "LABOR: PORTS BOOST CLEAN ENERGY INCENTIVES",
-                "teaserTitle": "TECHNOLOGY: AMAZON COMBINES OPERATIONS TEAMS",
+                "headline": "ENERGY: INDIA BOOSTS MARITIME EXPLORATION",
+                "teaserTitle": "AUTOMOTIVE: TOYOTA PHASE OUTS CHINABUILT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The ports of Los Angeles and Long Beach have unveiled a clean energy incentive program for zero-emission infrastructure. Drayage providers face significant capital expenditure hurdles."
+                "narration_line": "India has launched an eight point eight billion dollar initiative to boost maritime oil and gas exploration. The funding aims to reduce heavy import reliance amid Mideast supply closures."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: AMAZON COMBINES OPERATIONS TEAMS",
-                "teaserTitle": "EQUIPMENT: VOLKSWAGEN REDUCES TRATON STAKE",
+                "headline": "AUTOMOTIVE: TOYOTA PHASE OUTS CHINABUILT",
+                "teaserTitle": "TECHNOLOGY: TARGET DEPLOYS DIGITAL TWINS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Amazon has officially merged its air and ground transportation operational teams into a unified organizational structure. This alignment is designed to accelerate decision-making across its logistics footprint."
+                "narration_line": "Ford is officially phasing out China built Lincoln vehicle imports to evade mounting tariff penalties. Procurement teams must rapidly restructure cross border automotive supply chains."
             },
             {
                 "slide_index": 7,
-                "headline": "EQUIPMENT: VOLKSWAGEN REDUCES TRATON STAKE",
+                "headline": "TECHNOLOGY: TARGET DEPLOYS DIGITAL TWINS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Volkswagen has announced plans to reduce its majority stake in truck manufacturer Traton. The strategic move aims to free up financial resources for core electrification initiatives."
+                "narration_line": "Target has deployed an advanced digital twin platform to optimize nationwide inventory management. The technology simulates network disruptions and slashes excess safety stock requirements."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }

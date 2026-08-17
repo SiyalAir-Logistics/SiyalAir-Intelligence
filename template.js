@@ -1,95 +1,95 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
-        "titleBlue": "4M",
-        "footerSummary": "Panama Canal queue jump fees surge past $4.6M as Mideast conflict forces global shipping lines into costly route diversions and delays."
+        "titleWhite": "IRAN WAR DISRUPTION SPREADS TO CONTRACT",
+        "titleBlue": "RATES",
+        "footerSummary": "Xeneta reports Iran war disruptions spilling into contract freight rates as escalating maritime risks force carriers into aggressive price hikes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4M",
+            "heading": "MARITIME: IRAN WAR DISRUPTION SPREADS TO CONTRACT RATES",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker will cut the Panama Canal queue after paying a record $4.6M, surpassing the prior high of $3.98M. Persistent regional conflicts and waterway restrictions continue to drive unprecedented bidding wars for priority vessel transits across major global chokepoints.",
-                "Shippers face escalating operational costs and tighter schedule reliability as premium transit fees become a mandatory expense for maintaining supply chain velocity. Logistics directors must re-evaluate freight budgets and incorporate exorbitant canal surcharges into long-term trade lane profitability models."
+                "Xeneta reports that ongoing maritime disruptions stemming from the Iran conflict have officially bled from spot markets into long-term contract freight rates. Shippers across major international trade lanes face widespread upward pricing pressure as ocean carriers aggressively pass on surging voyage risk premiums and longer transit diversions.",
+                "Logistics procurement teams must immediately reassess multi-year contract budgets to absorb escalating ocean transportation costs. Managing exposure through flexible index-linked pricing mechanisms has become essential to maintain carrier allocations and safeguard operating margins against volatile geopolitical shocks."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: USTR TARIFFS ON TRADING PARTNERS",
+            "nextUpTease": "REGULATION: DE MINIMIS IS LEGALLY BURIED",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATION: USTR TARIFFS ON TRADING PARTNERS",
+            "heading": "REGULATION: DE MINIMIS IS LEGALLY BURIED",
             "paragraphs": [
-                "The Office of the United States Trade Representative has announced the implementation of comprehensive tariffs on 60 nations under Section 301 of the Trade Act of 1974. The sweeping trade enforcement action coincides with expiring Section 122 tariffs, instantly reshaping import compliance requirements for multinational enterprises.",
-                "Importers confront immediate duty escalations and severe administrative friction as customs agencies ramp up cross-border audits on affected foreign merchandise. Supply chain executives must accelerate nearshoring initiatives and optimize tariff engineering strategies to protect operating margins from unexpected trade levies."
+                "The federal trade court has officially shut down the final legal loophole allowing low-value shipments under the $800 de minimis threshold to enter duty-free. The definitive ruling subjects high-volume ecommerce imports to rigorous customs scrutiny and mandatory duty assessments starting immediately.",
+                "Importers and cross-border digital retailers face severe administrative bottlenecks and sharply higher landed inventory costs as expedited customs clearance procedures take effect. Supply chain directors must overhaul entry filing protocols and re-price SKUs to account for the sudden elimination of tax-free parcel exemptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: FBI SEKS TRUCK DRIVERS IN TAX FRAUD",
+            "nextUpTease": "SECURITY: UBER FREIGHT BREACH EXPOSES GAP",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "SECURITY: FBI SEKS TRUCK DRIVERS IN TAX FRAUD",
+            "heading": "SECURITY: UBER FREIGHT BREACH EXPOSES GAP",
             "paragraphs": [
-                "Federal investigators have launched a nationwide search for truck drivers who may be victims in a massive 54-count tax fraud case orchestrated by a defunct financial services firm. Thousands of self-employed owner-operators face unexpected tax liabilities and compliance audits after fraudulent operators siphoned funds and failed to file official returns.",
-                "The widespread carrier scam exacerbates driver retention challenges across the surface freight sector as affected operators grapple with sudden financial distress. Fleet managers must provide enhanced administrative support and verify contractor credentials to stabilize driver capacity and mitigate operational disruptions."
+                "A massive data breach involving over 1M compromised files at Uber Freight has laid bare critical identity security vulnerabilities across digital logistics platforms. Malicious actors exploited authentication gaps, compromising sensitive carrier credentials and threatening supply chain network integrity.",
+                "The security failure highlights the urgent need for advanced multi-factor authentication and rigorous vendor access controls across digital freight matching networks. Logistics executives must mandate stringent cybersecurity audits for all technology partners to prevent catastrophic load hijacking and data exfiltration."
             ],
             "imageUrl": "",
-            "nextUpTease": "FREIGHT: ASIA TO US EAST COAST RATES",
+            "nextUpTease": "AIR CARGO: CUSTOMS CRACKDOWNS THREATEN DEMAND",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FREIGHT: ASIA TO US EAST COAST RATES",
+            "heading": "AIR CARGO: CUSTOMS CRACKDOWNS THREATEN DEMAND",
             "paragraphs": [
-                "Ocean freight rates for shipments moving from Asia to the US East Coast have surged to new highs amid sustained import volumes and an early peak shipping season. Persistent demand pressures and vessel routing inefficiencies are catching market observers by surprise, driving spot rates higher across major maritime corridors.",
-                "BCOs and logistics buyers face aggressive carrier rate hikes and tightening container equipment availability ahead of the upcoming holiday retail rush. Transportation planners must lock in guaranteed space allocations early to avoid debilitating spot market exposure and severe transit delays."
+                "Tougher customs enforcement targeting low-value air cargo shipments is threatening to reverse robust volume growth across cross-border ecommerce trade lanes. Regulatory agencies are intercepting non-compliant pallet configurations and demanding extensive documentation, causing severe dwell time spikes at primary gateway hubs.",
+                "Air freight forwarders and cargo airlines confront sudden volume contractions and rising operational friction as shippers rethink direct-to-consumer air distribution strategies. Supply chain planners must diversify modal options and pre-clear consolidated manifests to bypass mounting airport terminal congestion."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: PORTS BOOST CLEAN ENERGY INCENTIVES",
+            "nextUpTease": "ENERGY: INDIA BOOSTS MARITIME EXPLORATION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LABOR: PORTS BOOST CLEAN ENERGY INCENTIVES",
+            "heading": "ENERGY: INDIA BOOSTS MARITIME EXPLORATION",
             "paragraphs": [
-                "The ports of Los Angeles and Long Beach have unveiled a sweeping clean energy incentive program backed by substantial federal grants for zero-emission infrastructure. Terminal operators and drayage fleets are mandated to accelerate the adoption of electric cargo handling equipment and heavy-duty drayage trucks.",
-                "Drayage providers face significant capital expenditure hurdles as they race to replace legacy internal combustion fleets to comply with stringent local environmental standards. Supply chain managers must factor these compliance costs into terminal access agreements to protect drayage network stability."
+                "The Indian government has launched an $8.8B funding initiative to accelerate private sector maritime oil and gas exploration in a strategic bid to reduce its 90% import dependency. The sweeping capital injection follows severe hydrocarbon supply shocks driven by the ongoing closure of the Strait of Hormuz.",
+                "Energy logistics providers and offshore supply vessel operators anticipate a massive surge in regional maritime exploration activity and specialized vessel demand. Industrial procurement teams must monitor shifting domestic energy sourcing policies to secure long-term fuel price stability."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: AMAZON COMBINES OPERATIONS TEAMS",
+            "nextUpTease": "AUTOMOTIVE: TOYOTA PHASE OUTS CHINABUILT",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://maritime-executive.com",
                 "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHNOLOGY: AMAZON COMBINES OPERATIONS TEAMS",
+            "heading": "AUTOMOTIVE: TOYOTA PHASE OUTS CHINABUILT",
             "paragraphs": [
-                "E-commerce giant Amazon has officially merged its air and ground transportation operational teams into a unified organizational structure. The strategic alignment is designed to streamline middle-mile network execution and accelerate decision-making across its vast domestic logistics footprint.",
-                "The integrated management structure enables sharper capital allocation and faster freight routing adjustments in response to fluctuating consumer demand patterns. Logistics competitors must upgrade their own network orchestration capabilities to match the speed and efficiency of unified multimodal operations."
+                "Automotive giant Ford has announced definitive plans to phase out China-built Lincoln vehicle models destined for the United States market. The strategic manufacturing realignment is designed to insulate the brand from escalating geopolitical trade barriers and unpredictable tariff penalties.",
+                "Supply chain planners must rapidly restructure inbound automotive component networks and secure alternative assembly plants to maintain vehicle availability. Procurement officers face complex supplier re-tooling costs as the industry accelerates its decoupling from single-origin manufacturing hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: VOLKSWAGEN REDUCES TRATON STAKE",
+            "nextUpTease": "TECHNOLOGY: TARGET DEPLOYS DIGITAL TWINS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-16T00:00:00Z",
@@ -98,16 +98,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "EQUIPMENT: VOLKSWAGEN REDUCES TRATON STAKE",
+            "heading": "TECHNOLOGY: TARGET DEPLOYS DIGITAL TWINS",
             "paragraphs": [
-                "Automotive conglomerate Volkswagen has announced plans to reduce its majority ownership stake in commercial truck manufacturer Traton to optimize corporate capital allocation. The strategic sell-off aims to free up financial resources for core automotive electrification initiatives while altering governance dynamics within the heavy truck sector.",
-                "Commercial vehicle buyers and fleet operators must monitor potential shifts in manufacturing priorities and technology investments as Traton navigates its evolving ownership structure. Procurement teams should diversify OEM partnerships to insulate truck acquisition pipelines from corporate restructuring risks."
+                "Major retailer Target has successfully deployed an advanced digital twin simulation platform named Proxima to optimize enterprise inventory management. The simulation engine models complex consumer demand variables and supply chain bottlenecks in real-time, enabling proactive stock allocation across distribution nodes.",
+                "The deployment significantly reduces excess safety stock requirements and eliminates costly fulfillment friction during peak seasonal demand shifts. Supply chain competitors must adopt sophisticated digital twin technology to match the operational agility and inventory precision of modern omnichannel leaders."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
