@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL DRAUGHT RESTRICTIONS ADD CONGESTION",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES FOUR POINT SIX MILLION DOLLARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL DRAUGHT RESTRICTIONS ADD",
-                "teaserTitle": "COMPLIANCE: DE MINIMIS IS LEGALLY BURIED",
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES",
+                "teaserTitle": "CONTAINERS: PORT CONGESTION REMOVES 1.7M TEU",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Waterways worldwide face severe operational chaos as Panama Canal draught restrictions worsen vessel congestion. Middle East conflicts and El Nino patterns constrain critical maritime trade corridors."
+                "narration_line": "An empty tanker paid a record four point six million dollars to cut the Panama Canal queue. Escalating regional conflicts continue to drive extreme priority transit costs."
             },
             {
                 "slide_index": 2,
-                "headline": "COMPLIANCE: DE MINIMIS IS LEGALLY BURIED",
-                "teaserTitle": "LOGISTICS: US PORTS PURSUE DATA CENTRES",
+                "headline": "CONTAINERS: PORT CONGESTION REMOVES 1.7M TEU",
+                "teaserTitle": "COMPLIANCE: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The federal trade court has formally closed the final legal door on low-value tariff exemptions. Customs authorities are aggressively enforcing the updated regulatory standard across all entry points."
+                "narration_line": "Persistent port congestion has removed one point seven million teus of containership capacity globally. Uneven growth and blank sailings are significantly extending delivery lead times."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: US PORTS PURSUE DATA CENTRES",
-                "teaserTitle": "AIR CARGO: AIRZETA REBOUNDS AFTER MERGER",
+                "headline": "COMPLIANCE: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+                "teaserTitle": "SECURITY: BAE SYSTEMS PAYS 36M USD FOR ARMS BREACH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The artificial intelligence boom is placing unprecedented strain on United States transport systems. Regional ports are investing heavily in specialized heavy-lift capabilities to handle oversized equipment."
+                "narration_line": "The trade representative is advancing strict tariffs on sixty nations under section three hundred one. Importers must audit multi tier supply chains to avoid severe penalties."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: AIRZETA REBOUNDS AFTER MERGER",
-                "teaserTitle": "RAILWAY: CPKC BENENVILLE YARD REBOUNDS",
+                "headline": "SECURITY: BAE SYSTEMS PAYS 36M USD FOR ARMS BREACH",
+                "teaserTitle": "FREIGHT: ASIA US EAST COAST RATES HIT NEW HIGH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "AirZeta has completed its operational turnaround following the integration of Asiana Airlines cargo division. The consolidated carrier is scaling up widebody freighter operations across key trade lanes."
+                "narration_line": "Defense contractor BAE Systems agreed to pay thirty six million dollars for arms export violations. Federal oversight agencies are intensifying enforcement on cross border shipments."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILWAY: CPKC BENENVILLE YARD REBOUNDS",
-                "teaserTitle": "TECHNOLOGY: FREIGHTOS NAMES NEW CFO",
+                "headline": "FREIGHT: ASIA US EAST COAST RATES HIT NEW HIGH",
+                "teaserTitle": "DEFENSE: PENTAGON SIGNS 2B USD DEAL FOR BATTERIES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Operations at the Canadian Pacific Kansas City Bensenville railyard are steadily recovering from infrastructure delays. Terminal management has cleared car backlogs and restored normal switching velocities."
+                "narration_line": "Asia to United States East Coast ocean freight rates have reached unprecedented new highs. Sustained import demand and capacity constraints are surprising market observers."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: FREIGHTOS NAMES NEW CFO",
-                "teaserTitle": "AVIATION: AIRLINES EXPAND FREIGHT HUBS",
+                "headline": "DEFENSE: PENTAGON SIGNS 2B USD DEAL FOR BATTERIES",
+                "teaserTitle": "TANKERS: SANCTIONED SHIPS MAKE UP 58 PERCENT OF SCRAPPING",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Digital freight booking platform Freightos has appointed a new chief financial officer to steer strategy. Digital marketplaces continue to accelerate adoption across international procurement networks."
+                "narration_line": "The Pentagon has committed over two billion dollars to secure domestic battery supply chains. Industrial operators must align procurement with critical mineral re-shoring mandates."
             },
             {
                 "slide_index": 7,
-                "headline": "AVIATION: AIRLINES EXPAND FREIGHT HUBS",
+                "headline": "TANKERS: SANCTIONED SHIPS MAKE UP 58 PERCENT OF SCRAPPING",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Major international cargo airlines are positioning dedicated fleets at expanding aviation hubs. Airport operators are investing in temperature-controlled tarmac facilities to reduce cargo dwell times."
+                "narration_line": "Sanctioned vessels comprise fifty eight percent of all tanker recycling market activity this year. The retirement of non compliant tonnage tightens global crude transport capacity."
             },
             {
                 "slide_index": 8,

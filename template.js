@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL DRAUGHT RESTRICTIONS ADD",
-        "titleBlue": "CONGESTION",
-        "footerSummary": "Panama Canal draught restrictions compound global shipping chaos as Middle East conflicts and El Nino pressures strain maritime networks."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
+        "titleBlue": "$4.6M",
+        "footerSummary": "Panama Canal queue jump fees hit $4.6M as Middle East conflict reroutes global shipping, compounding multi-million dollar transit bottlenecks worldwide."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL DRAUGHT RESTRICTIONS ADD",
+            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES",
             "paragraphs": [
-                "Waterways worldwide are contending with severe operational chaos as Panama Canal draught restrictions worsen vessel congestion. The convergence of Middle East conflict pressures and El Nino weather patterns is severely restricting transit capacity across critical global maritime corridors. Carriers face mounting scheduling delays and operational bottlenecks as traditional routing options remain constrained.",
-                "Logistics executives must absorb escalating transit costs and evaluate alternative oceanic routes to protect supply chain continuity. The ongoing degradation of canal fluidity forces shippers to reallocate inventory and adjust delivery timelines across international networks."
+                "An empty liquefied petroleum gas tanker will cut the Panama Canal queue after paying a record $4.6M fee, according to recent shipping reports. The staggering payment surpasses the prior high of $3.98M as escalating Middle East conflict forces vessel operators to bypass disrupted maritime corridors.",
+                "Shippers face intense financial pressures and extreme scheduling volatility as premium queue jumping becomes a mandatory cost for time-sensitive cargo. Logistics executives must factor these soaring priority fees into operational budgets to maintain viable supply chain routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: DE MINIMIS IS LEGALLY BURIED",
+            "nextUpTease": "CONTAINERS: PORT CONGESTION REMOVES 1.7M TEU",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "COMPLIANCE: DE MINIMIS IS LEGALLY BURIED",
+            "heading": "CONTAINERS: PORT CONGESTION REMOVES 1.7M TEU",
             "paragraphs": [
-                "The federal trade court has formally shut the final legal door on low-value tariff exemptions, effectively burying the traditional 800 USD de minimis loophole. Importers and e-commerce platforms can no longer rely on duty-free processing for qualifying parcels entering domestic distribution channels. Customs authorities are aggressively enforcing the updated regulatory standard across all international entry points.",
-                "Eliminating the exemption introduces substantial duty liabilities that instantly compress profit margins for cross-border retailers and parcel consolidators. Supply chain directors must overhaul entry compliance protocols and integrate automated tax calculation engines to prevent border delays."
+                "Persistent global port congestion is effectively removing 1.7M teu of containership capacity from the active market, matching the size of a major global carrier fleet. Sea-Intelligence analysis highlights that uneven growth and blank sailings are severely restricting equipment availability and extending lead times.",
+                "Supply chain planners must navigate tightened vessel availability and heightened schedule unreliability across key international trade lanes. Shippers should secure forward allocations early to mitigate the risk of severe inventory starvation during peak operational windows."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: US PORTS PURSUE DATA CENTRES",
+            "nextUpTease": "COMPLIANCE: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "LOGISTICS: US PORTS PURSUE DATA CENTRES",
-            "paragraphs": [
-                "The artificial intelligence boom is placing unprecedented strain on United States high-and-wide transport systems, forcing ports to adapt infrastructure. Regional gateway operators are actively investing in specialized heavy-lift capabilities to handle massive electrical transformers and server components. Specialized transport engineering firms are scrambling to secure permits for oversized overland movements.",
-                "Capturing this specialized infrastructure traffic requires port facilities to upgrade intermodal rail connections and staging yards. Logistics providers must coordinate complex route surveys to support the massive capital equipment inflows required for domestic data center expansion."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR CARGO: AIRZETA REBOUNDS AFTER MERGER",
-            "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://splash247.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 4,
-            "heading": "AIR CARGO: AIRZETA REBOUNDS AFTER MERGER",
+            "id": 3,
+            "heading": "COMPLIANCE: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
             "paragraphs": [
-                "AirZeta has successfully completed its operational turnaround following the formal integration of Asiana Airlines cargo division into Air Incheon. The newly consolidated carrier is scaling up widebody freighter operations to capture recovering export volumes across key Asian trade lanes. Regional cargo networks are stabilizing as carriers optimize their newly expanded fleet capacities.",
-                "Freight forwarders benefit from enhanced maindeck capacity options and improved schedule reliability across competitive trans-Pacific routes. Procurement teams should reassess contracted block space agreements to leverage the expanded carrier footprint for upcoming peak season volumes."
+                "The Office of the United States Trade Representative is moving forward with the implementation of strict tariffs on 60 trading nations under Section 301. The regulatory enforcement targets forced labor practices across complex international supply chains as older trade provisions formally expire.",
+                "Importers must audit Tier 1 through Tier 4 supplier networks immediately to prevent costly border seizures and severe compliance penalties. Absorbing these expansive tariff structures requires rigorous data transparency and automated origin-tracing technologies."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAY: CPKC BENENVILLE YARD REBOUNDS",
+            "nextUpTease": "SECURITY: BAE SYSTEMS PAYS 36M USD FOR ARMS BREACH",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-16T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "SECURITY: BAE SYSTEMS PAYS 36M USD FOR ARMS BREACH",
+            "paragraphs": [
+                "BAE Systems has agreed to pay $36M to settle alleged violations of United States arms export regulations and international compliance protocols. Federal oversight agencies are intensifying enforcement actions against defense and dual-use manufacturers failing to monitor cross-border shipments.",
+                "Global enterprises must implement robust trade compliance software to eliminate vulnerabilities in sensitive technology transfers. Maintaining strict adherence to export controls prevents catastrophic financial penalties and protects international operating licenses."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FREIGHT: ASIA US EAST COAST RATES HIT NEW HIGH",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAILWAY: CPKC BENENVILLE YARD REBOUNDS",
+            "heading": "FREIGHT: ASIA US EAST COAST RATES HIT NEW HIGH",
             "paragraphs": [
-                "Operations at the Canadian Pacific Kansas City Bensenville railyard are steadily recovering following recent paving-related infrastructure delays. Terminal management has cleared lingering car backlogs and restored normal switching velocities across the primary Midwestern interchange hub. Shippers moving intermodal and carload freight through the facility are experiencing improved transit consistency.",
-                "Restoring yard fluidity helps mitigate supply chain friction for industrial manufacturers relying on predictable rail connectivity. Logistics managers must maintain active communication with rail carriers to capitalize on normalized terminal processing times."
+                "Sustained import volumes and aggressive early peak season booking have pushed Asia to US East Coast ocean freight rates to unprecedented new highs. Freightos data confirms that strong demand coupled with capacity bottlenecks is taking market observers completely by surprise.",
+                "Carriers and forwarders are capitalizing on tight vessel supply, forcing shippers to absorb rapidly escalating spot market freight costs. Procurement teams must renegotiate long-term service contracts and diversify routing strategies to protect operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: FREIGHTOS NAMES NEW CFO",
+            "nextUpTease": "DEFENSE: PENTAGON SIGNS 2B USD DEAL FOR BATTERIES",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHNOLOGY: FREIGHTOS NAMES NEW CFO",
+            "heading": "DEFENSE: PENTAGON SIGNS 2B USD DEAL FOR BATTERIES",
             "paragraphs": [
-                "Digital freight booking platform Freightos has appointed Yaron Eldad as its new chief financial officer to steer fiscal strategy. The executive transition comes as digital freight marketplaces accelerate their expansion across global quotation and procurement networks. Industry adoption of automated rate management tools continues to scale rapidly among enterprise shippers.",
-                "Financial stakeholders are closely monitoring digital platform profitability as freight tech investments face tighter market scrutiny. Shippers utilizing automated booking channels can expect accelerated platform feature updates aimed at streamlining multi-modal procurement."
+                "The Pentagon's Office of Strategic Capital has signed over $2B in conditional loan commitments to secure domestic batteries and critical mineral supply chains. Companies like Sila Technologies and Niron Magnetics are leading the industrial re-shoring effort to eliminate foreign material dependencies.",
+                "Securing critical raw material supply lines is becoming an urgent national security priority that directly impacts commercial manufacturing sectors. Industrial operators must align their procurement pipelines with government-backed domestic material frameworks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AVIATION: AIRLINES EXPAND FREIGHT HUBS",
+            "nextUpTease": "TANKERS: SANCTIONED SHIPS MAKE UP 58 PERCENT OF SCRAPPING",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AVIATION: AIRLINES EXPAND FREIGHT HUBS",
+            "heading": "TANKERS: SANCTIONED SHIPS MAKE UP 58 PERCENT OF SCRAPPING",
             "paragraphs": [
-                "Major international cargo airlines are positioning dedicated freighter fleets at expanding aviation hubs to capture shifting export demand. Airport operators are investing heavily in temperature-controlled tarmac facilities and automated sorting infrastructure to reduce cargo dwell times. Heightened competition among regional air hubs is driving down terminal handling fees for forwarders.",
-                "Supply chain planners managing time-sensitive perishables and electronics can leverage these expanded hub capabilities to optimize transit times. Securing priority access to modern airside facilities remains essential for maintaining reliable high-speed distribution networks."
+                "Sanctioned vessels are accounting for 58% of all tanker recycling market activity this year as older crude carriers exit active service. Clarksons Research reports that 26 sanctioned ships totaling 2.1M dwt have been sold for demolition despite firm global freight conditions.",
+                "The rapid retirement of non-compliant tonnage tightens effective global oil transport capacity while increasing regulatory scrutiny on vessel ownership. Maritime operators must verify fleet compliance credentials rigorously to avoid secondary sanctions and port entry bans."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://splash247.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]

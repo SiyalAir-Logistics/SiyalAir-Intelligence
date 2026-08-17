@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL DRAUGHT RESTRICTIONS ADD",
-                "teaserTitle": "COMPLIANCE: DE MINIMIS IS LEGALLY BURIED",
-                "visual_caption": "Waterways worldwide face severe operational chaos as Panama Canal draught restrictions worsen vessel congestion. Middle East conflicts and El Nino patterns constrain critical maritime trade corridors."
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES",
+                "teaserTitle": "CONTAINERS: PORT CONGESTION REMOVES 1.7M TEU",
+                "visual_caption": "An empty tanker paid a record $4.6M to cut the Panama Canal queue. Escalating regional conflicts continue to drive extreme priority transit costs."
             },
             {
                 "slide_index": 2,
-                "headline": "COMPLIANCE: DE MINIMIS IS LEGALLY BURIED",
-                "teaserTitle": "LOGISTICS: US PORTS PURSUE DATA CENTRES",
-                "visual_caption": "The federal trade court has formally closed the final legal door on low-value tariff exemptions. Customs authorities are aggressively enforcing the updated regulatory standard across all entry points."
+                "headline": "CONTAINERS: PORT CONGESTION REMOVES 1.7M TEU",
+                "teaserTitle": "COMPLIANCE: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+                "visual_caption": "Persistent port congestion has removed 1.7M teu of containership capacity globally. Uneven growth and blank sailings are significantly extending delivery lead times."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: US PORTS PURSUE DATA CENTRES",
-                "teaserTitle": "AIR CARGO: AIRZETA REBOUNDS AFTER MERGER",
-                "visual_caption": "The artificial intelligence boom is placing unprecedented strain on United States transport systems. Regional ports are investing heavily in specialized heavy-lift capabilities to handle oversized equipment."
+                "headline": "COMPLIANCE: USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+                "teaserTitle": "SECURITY: BAE SYSTEMS PAYS 36M USD FOR ARMS BREACH",
+                "visual_caption": "The trade representative is advancing strict tariffs on 60 nations under Section 301. Importers must audit multi-tier supply chains to avoid severe penalties."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: AIRZETA REBOUNDS AFTER MERGER",
-                "teaserTitle": "RAILWAY: CPKC BENENVILLE YARD REBOUNDS",
-                "visual_caption": "AirZeta has completed its operational turnaround following the integration of Asiana Airlines cargo division. The consolidated carrier is scaling up widebody freighter operations across key trade lanes."
+                "headline": "SECURITY: BAE SYSTEMS PAYS 36M USD FOR ARMS BREACH",
+                "teaserTitle": "FREIGHT: ASIA US EAST COAST RATES HIT NEW HIGH",
+                "visual_caption": "Defense contractor BAE Systems agreed to pay $36M for arms export violations. Federal oversight agencies are intensifying enforcement on cross-border shipments."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILWAY: CPKC BENENVILLE YARD REBOUNDS",
-                "teaserTitle": "TECHNOLOGY: FREIGHTOS NAMES NEW CFO",
-                "visual_caption": "Operations at the Canadian Pacific Kansas City Bensenville railyard are steadily recovering from infrastructure delays. Terminal management has cleared car backlogs and restored normal switching velocities."
+                "headline": "FREIGHT: ASIA US EAST COAST RATES HIT NEW HIGH",
+                "teaserTitle": "DEFENSE: PENTAGON SIGNS 2B USD DEAL FOR BATTERIES",
+                "visual_caption": "Asia to US East Coast ocean freight rates have reached unprecedented new highs. Sustained import demand and capacity constraints are surprising market observers."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: FREIGHTOS NAMES NEW CFO",
-                "teaserTitle": "AVIATION: AIRLINES EXPAND FREIGHT HUBS",
-                "visual_caption": "Digital freight booking platform Freightos has appointed a new chief financial officer to steer strategy. Digital marketplaces continue to accelerate adoption across international procurement networks."
+                "headline": "DEFENSE: PENTAGON SIGNS 2B USD DEAL FOR BATTERIES",
+                "teaserTitle": "TANKERS: SANCTIONED SHIPS MAKE UP 58 PERCENT OF SCRAPPING",
+                "visual_caption": "The Pentagon has committed over $2B to secure domestic battery supply chains. Industrial operators must align procurement with critical mineral re-shoring mandates."
             },
             {
                 "slide_index": 7,
-                "headline": "AVIATION: AIRLINES EXPAND FREIGHT HUBS",
+                "headline": "TANKERS: SANCTIONED SHIPS MAKE UP 58 PERCENT OF SCRAPPING",
                 "teaserTitle": "",
-                "visual_caption": "Major international cargo airlines are positioning dedicated fleets at expanding aviation hubs. Airport operators are investing in temperature-controlled tarmac facilities to reduce cargo dwell times."
+                "visual_caption": "Sanctioned vessels comprise 58% of all tanker recycling market activity this year. The retirement of non-compliant tonnage tightens global crude transport capacity."
             },
             {
                 "slide_index": 8,
