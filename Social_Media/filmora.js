@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4M",
-                "teaserTitle": "REGULATION: USTR ADVANCES TARIFFS ON 60 NATIONS",
-                "visual_caption": "An empty LPG tanker paid $4.6M to skip the Panama Canal queue. Middle East conflicts continue to drive record toll fees and disrupt global maritime routes."
+                "headline": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS ESCALATE CONGESTION",
+                "teaserTitle": "PORTS: NEW ORLEANS TERMINAL RECEIVES FEDERAL APPROVAL",
+                "visual_caption": "Draft restrictions compound Panama Canal congestion as Middle East conflicts and vessel diversions push global shipping lines toward severe maritime delays. Vessel operators face mounting schedule unreliability and elevated operational friction across trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: USTR ADVANCES TARIFFS ON 60 NATIONS",
-                "teaserTitle": "PORTS: NEW ORLEANS MEGA TERMINAL WINS PERMIT",
-                "visual_caption": "The USTR is moving forward with strict Section 301 tariffs on 60 nations. Importers must prepare for immediate cost increases across major trade corridors."
+                "headline": "PORTS: NEW ORLEANS TERMINAL RECEIVES FEDERAL APPROVAL",
+                "teaserTitle": "LEGAL: STATES SUE OVER CDL DATABASE ACCESS",
+                "visual_caption": "The Louisiana International Terminal secured final federal permits for a $2B project to expand regional capacity. Shippers should integrate this terminal expansion into long-term network design and port diversification strategies."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: NEW ORLEANS MEGA TERMINAL WINS PERMIT",
-                "teaserTitle": "LEGAL: STATES SUE OVER CDL DATABASE ACCESS",
-                "visual_caption": "The Louisiana International Terminal secured final permits for its $2B project. Construction starts later this year to expand regional Gulf Coast capacity."
+                "headline": "LEGAL: STATES SUE OVER CDL DATABASE ACCESS",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SPOT RATES SLUMP",
+                "visual_caption": "22 states filed a lawsuit challenging a federal directive demanding access to 17M commercial driver records. Motor carriers face regulatory uncertainty as federal oversight clashes with state privacy mandates."
             },
             {
                 "slide_index": 4,
-                "headline": "LEGAL: STATES SUE OVER CDL DATABASE ACCESS",
-                "teaserTitle": "AIR CARGO: PEAK SEASON SPOT RATES DROP 6 PERCENT",
-                "visual_caption": "A coalition of 22 states filed a lawsuit challenging a DOT directive on driver records. The legal action questions federal authority over 17M commercial files."
+                "headline": "AIR CARGO: PEAK SEASON SPOT RATES SLUMP",
+                "teaserTitle": "SECURITY: HOUHOUV-STYLE PIRACY THREAT RESURGES",
+                "visual_caption": "Global air cargo spot rates fell 6% month over month as early peak season demand showed unexpected softness. Logistics managers can leverage current soft air freight pricing to optimize urgent inventory replenishment."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: PEAK SEASON SPOT RATES DROP 6 PERCENT",
-                "teaserTitle": "RAILWAY: TRAIN THIEVES STEAL 200M USD IN CARGO",
-                "visual_caption": "Global air cargo spot rates fell 6% month over month as early peak demand softened. Shippers now hold greater pricing leverage across international lanes."
+                "headline": "SECURITY: HOUHOUV-STYLE PIRACY THREAT RESURGES",
+                "teaserTitle": "REGULATION: DE MINIMIS LOOPHOLE OFFICIALLY CLOSED",
+                "visual_caption": "Renewed global instability has allowed maritime piracy and vessel attacks to reemerge as critical threats across key waterways. Fleet operators must reassess security risk premiums and invest in advanced in-transit monitoring."
             },
             {
                 "slide_index": 6,
-                "headline": "RAILWAY: TRAIN THIEVES STEAL 200M USD IN CARGO",
-                "teaserTitle": "RETAIL: JULY IMPORTS DROP AMID TARIFF PREP",
-                "visual_caption": "Rail carriers are deploying drones and new technology to combat $200M in annual cargo thefts. Shippers must adopt enhanced tracking to secure high-value freight."
+                "headline": "REGULATION: DE MINIMIS LOOPHOLE OFFICIALLY CLOSED",
+                "teaserTitle": "FINANCE: TREASURY YIELDS HIT MULTI-YEAR HIGHS",
+                "visual_caption": "The trade court upheld the elimination of the de minimis exemption, shutting the door on duty-free imports. Importers must restructure customs brokerage operations to absorb incoming duty liabilities."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL: JULY IMPORTS DROP AMID TARIFF PREP",
+                "headline": "FINANCE: TREASURY YIELDS HIT MULTI-YEAR HIGHS",
                 "teaserTitle": "",
-                "visual_caption": "U.S. retail imports fell in July as businesses pulled forward shipments to avoid upcoming tariffs. Retailers must now navigate uneven inventory patterns."
+                "visual_caption": "The 30-year Treasury yield surged to a 19-year high amid inflation fears and Middle East tensions. Corporate supply chain executives must recalibrate capital expenditure budgets to account for elevated financing costs."
             },
             {
                 "slide_index": 8,
