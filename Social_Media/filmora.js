@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GLOBAL GATEWAYS: ARCTIC CANAL OPENS TO CUT ASIA EUROPE TRANSIT",
-                "teaserTitle": "MARITIME: HORMUZ STRIKE KILLS SEAFARER AS TANKERS GO DARK",
-                "visual_caption": "A Chinese shipper launched the first commercial Arctic cargo service. The new route cuts traditional Asia-Europe transit times by over 50%."
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4M",
+                "teaserTitle": "REGULATION: USTR ADVANCES TARIFFS ON 60 NATIONS",
+                "visual_caption": "An empty LPG tanker paid $4.6M to skip the Panama Canal queue. Middle East conflicts continue to drive record toll fees and disrupt global maritime routes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ STRIKE KILLS SEAFARER AS TANKERS GO DARK",
-                "teaserTitle": "FRAUD: YEREVAN GROUP STOLE FREIGHT IN CRYPTO SCAM",
-                "visual_caption": "A fatal attack on merchant shipping in the Strait of Hormuz heightens regional risks. Tankers are utilizing extended dark transits to protect cargo."
+                "headline": "REGULATION: USTR ADVANCES TARIFFS ON 60 NATIONS",
+                "teaserTitle": "PORTS: NEW ORLEANS MEGA TERMINAL WINS PERMIT",
+                "visual_caption": "The USTR is moving forward with strict Section 301 tariffs on 60 nations. Importers must prepare for immediate cost increases across major trade corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "FRAUD: YEREVAN GROUP STOLE FREIGHT IN CRYPTO SCAM",
-                "teaserTitle": "AIR CARGO: PEAK SEASON AIR RATES DROP ON MUTED DEMAND",
-                "visual_caption": "Armenian and US police raided a cybercrime syndicate posing as American carriers. The group diverted freight loads and laundered funds into crypto."
+                "headline": "PORTS: NEW ORLEANS MEGA TERMINAL WINS PERMIT",
+                "teaserTitle": "LEGAL: STATES SUE OVER CDL DATABASE ACCESS",
+                "visual_caption": "The Louisiana International Terminal secured final permits for its $2B project. Construction starts later this year to expand regional Gulf Coast capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: PEAK SEASON AIR RATES DROP ON MUTED DEMAND",
-                "teaserTitle": "SUPPLY CHAIN: USMCA AUTOMOTIVE FUTURE UNCERTAIN",
-                "visual_caption": "Global air cargo spot rates dropped 6% as early peak season demand softens. Shippers now benefit from improved pricing leverage across lanes."
+                "headline": "LEGAL: STATES SUE OVER CDL DATABASE ACCESS",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SPOT RATES DROP 6 PERCENT",
+                "visual_caption": "A coalition of 22 states filed a lawsuit challenging a DOT directive on driver records. The legal action questions federal authority over 17M commercial files."
             },
             {
                 "slide_index": 5,
-                "headline": "SUPPLY CHAIN: USMCA AUTOMOTIVE FUTURE UNCERTAIN",
-                "teaserTitle": "REGULATION: DE MINIMIS LOOPHOLE LEGALLY CLOSED",
-                "visual_caption": "North American automakers face major risks as the future of the USMCA trade pact stalls. Manufacturers must plan for cross-border friction."
+                "headline": "AIR CARGO: PEAK SEASON SPOT RATES DROP 6 PERCENT",
+                "teaserTitle": "RAILWAY: TRAIN THIEVES STEAL 200M USD IN CARGO",
+                "visual_caption": "Global air cargo spot rates fell 6% month over month as early peak demand softened. Shippers now hold greater pricing leverage across international lanes."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: DE MINIMIS LOOPHOLE LEGALLY CLOSED",
-                "teaserTitle": "FINANCE: PENTAGON DEALS SECURE CRITICAL MINERALS",
-                "visual_caption": "The federal trade court upheld the complete elimination of the $800 de minimis exemption. All low-value import parcels now face mandatory duties."
+                "headline": "RAILWAY: TRAIN THIEVES STEAL 200M USD IN CARGO",
+                "teaserTitle": "RETAIL: JULY IMPORTS DROP AMID TARIFF PREP",
+                "visual_caption": "Rail carriers are deploying drones and new technology to combat $200M in annual cargo thefts. Shippers must adopt enhanced tracking to secure high-value freight."
             },
             {
                 "slide_index": 7,
-                "headline": "FINANCE: PENTAGON DEALS SECURE CRITICAL MINERALS",
+                "headline": "RETAIL: JULY IMPORTS DROP AMID TARIFF PREP",
                 "teaserTitle": "",
-                "visual_caption": "The Pentagon executed over $2B in conditional loan deals for domestic battery production. These funds insulate critical supply chains from foreign risk."
+                "visual_caption": "U.S. retail imports fell in July as businesses pulled forward shipments to avoid upcoming tariffs. Retailers must now navigate uneven inventory patterns."
             },
             {
                 "slide_index": 8,

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ARCTIC CANAL OPENS TO CUT ASIA EUROPE TRANSIT",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES FOUR MILLION",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GLOBAL GATEWAYS: ARCTIC CANAL OPENS TO CUT ASIA EUROPE TRANSIT",
-                "teaserTitle": "MARITIME: HORMUZ STRIKE KILLS SEAFARER AS TANKERS GO DARK",
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4M",
+                "teaserTitle": "REGULATION: USTR ADVANCES TARIFFS ON 60 NATIONS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "A Chinese shipper launched the first commercial Arctic cargo service. The route cuts traditional Asia to Europe transit times in half."
+                "narration_line": "An empty liquefied petroleum gas tanker paid four point six million dollars to bypass the Panama Canal queue. Middle East conflicts continue to drive record tolls and reroute global shipping paths."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HORMUZ STRIKE KILLS SEAFARER AS TANKERS GO DARK",
-                "teaserTitle": "FRAUD: YEREVAN GROUP STOLE FREIGHT IN CRYPTO SCAM",
+                "headline": "REGULATION: USTR ADVANCES TARIFFS ON 60 NATIONS",
+                "teaserTitle": "PORTS: NEW ORLEANS MEGA TERMINAL WINS PERMIT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A fatal attack on merchant shipping in the Strait of Hormuz has escalated risks. Tankers are extending dark transits to keep crude oil moving."
+                "narration_line": "The United States Trade Representative is advancing new tariffs on sixty nations under Section three hundred and one. Importers must prepare for immediate cost increases across major trade corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "FRAUD: YEREVAN GROUP STOLE FREIGHT IN CRYPTO SCAM",
-                "teaserTitle": "AIR CARGO: PEAK SEASON AIR RATES DROP ON MUTED DEMAND",
+                "headline": "PORTS: NEW ORLEANS MEGA TERMINAL WINS PERMIT",
+                "teaserTitle": "LEGAL: STATES SUE OVER CDL DATABASE ACCESS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Armenian and US police raided a cybercrime syndicate posing as American carriers. The group stole freight loads and converted proceeds into crypto."
+                "narration_line": "The Louisiana International Terminal secured final permits for its two billion dollar infrastructure project. Construction starts later this year to expand regional Gulf Coast container capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: PEAK SEASON AIR RATES DROP ON MUTED DEMAND",
-                "teaserTitle": "SUPPLY CHAIN: USMCA AUTOMOTIVE FUTURE UNCERTAIN",
+                "headline": "LEGAL: STATES SUE OVER CDL DATABASE ACCESS",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SPOT RATES DROP 6 PERCENT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global air cargo spot rates declined six percent as early peak season demand softens. Shippers now hold greater pricing leverage across lanes."
+                "narration_line": "Twenty-two states filed a federal lawsuit challenging a Department of Transportation directive on driver records. The legal action questions federal authority over seventeen million commercial files."
             },
             {
                 "slide_index": 5,
-                "headline": "SUPPLY CHAIN: USMCA AUTOMOTIVE FUTURE UNCERTAIN",
-                "teaserTitle": "REGULATION: DE MINIMIS LOOPHOLE LEGALLY CLOSED",
+                "headline": "AIR CARGO: PEAK SEASON SPOT RATES DROP 6 PERCENT",
+                "teaserTitle": "RAILWAY: TRAIN THIEVES STEAL 200M USD IN CARGO",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "North American automakers face serious risks as the future of the trade agreement becomes uncertain. Manufacturers must prepare for integrated supply chain disruption."
+                "narration_line": "Global air cargo spot rates fell six percent month over month as early peak demand softened. Shippers now hold more pricing leverage across international freight markets."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: DE MINIMIS LOOPHOLE LEGALLY CLOSED",
-                "teaserTitle": "FINANCE: PENTAGON DEALS SECURE CRITICAL MINERALS",
+                "headline": "RAILWAY: TRAIN THIEVES STEAL 200M USD IN CARGO",
+                "teaserTitle": "RETAIL: JULY IMPORTS DROP AMID TARIFF PREP",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The federal trade court officially upheld the elimination of the eight hundred dollar de minimis exemption. Cross border parcels now face strict duty assessments."
+                "narration_line": "Rail carriers are deploying drones and new technology to combat two hundred million dollars in annual cargo thefts. Shippers must adopt enhanced tracking to secure high-value freight."
             },
             {
                 "slide_index": 7,
-                "headline": "FINANCE: PENTAGON DEALS SECURE CRITICAL MINERALS",
+                "headline": "RETAIL: JULY IMPORTS DROP AMID TARIFF PREP",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Department of Defense executed over two billion dollars in loan deals for batteries. These funds insulate industrial supply chains from foreign dependencies."
+                "narration_line": "U.S. retail imports fell in July as businesses pulled forward shipments to avoid upcoming tariffs. Retailers must now navigate uneven inventory distribution patterns heading into late year."
             },
             {
                 "slide_index": 8,

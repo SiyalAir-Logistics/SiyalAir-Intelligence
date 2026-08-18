@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "ARCTIC CANAL OPENS TO CUT ASIA EUROPE",
-        "titleBlue": "TRANSIT",
-        "footerSummary": "Chinese shipper launches first Arctic cargo service, halving Asia-Europe transit times while reshaping global maritime routing strategies."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
+        "titleBlue": "4M",
+        "footerSummary": "An empty LPG tanker paid 4.6M USD to skip the Panama Canal queue as Middle East conflict reroutes global shipping paths."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GLOBAL GATEWAYS: ARCTIC CANAL OPENS TO CUT ASIA EUROPE TRANSIT",
+            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4M",
             "paragraphs": [
-                "A major Chinese shipper has launched the first commercial cargo service through the Arctic Circle, navigating a 3,500 mile path. This maritime route cuts the traditional sailing time between China and Europe by more than half, bypassing traditional congestion points.",
-                "Supply chain leaders must evaluate the economic and environmental trade-offs of polar navigation against historical southern maritime corridors. Early adopters stand to gain significant transit speed advantages as polar ice conditions recede."
+                "An empty liquefied petroleum gas tanker paid a record 4.6M USD to skip the backlog at the Panama Canal, according to recent shipping reports. This unprecedented queue jump fee surpasses the previous high of 3.975M USD as geopolitical tensions in the Middle East continue to disrupt global maritime routes.",
+                "Vessel operators face difficult financial trade-offs when evaluating steep priority transit fees against extended delays in congested canal queues. Supply chain planners must account for skyrocketing premium tolls when budgeting for critical Latin American trade lane movements."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ STRIKE KILLS SEAFARER AS TANKERS GO DARK",
+            "nextUpTease": "REGULATION: USTR ADVANCES TARIFFS ON 60 NATIONS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HORMUZ STRIKE KILLS SEAFARER AS TANKERS GO DARK",
+            "heading": "REGULATION: USTR ADVANCES TARIFFS ON 60 NATIONS",
             "paragraphs": [
-                "A seafarer has been killed in the latest military attack on merchant shipping within the contested Strait of Hormuz, forcing regional operators to implement extreme security measures. Commercial vessel operators are increasingly relying on extended dark transits and armed escorts to keep crude oil moving out of the Middle East.",
-                "Vessel managers face skyrocketing war-risk insurance premiums and surging operating overhead as geopolitical instability deepens across key maritime chokepoints. Cargo owners must absorb these escalating protection costs and factor prolonged transit uncertainties into inventory models."
+                "The Office of the United States Trade Representative is moving forward with the implementation of strict tariffs on 60 nations under Section 301 of the Trade Act of 1974. This regulatory action coincides with the formal expiration of Section 122 tariffs, signaling a shift toward targeted trade enforcement.",
+                "Importers and procurement teams must prepare for immediate cost increases and reevaluate sourcing strategies across major international corridors. Compliance officers need to audit supplier provenance rapidly to mitigate exposure to newly imposed duty structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "FRAUD: YEREVAN GROUP STOLE FREIGHT IN CRYPTO SCAM",
+            "nextUpTease": "PORTS: NEW ORLEANS MEGA TERMINAL WINS PERMIT",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FRAUD: YEREVAN GROUP STOLE FREIGHT IN CRYPTO SCAM",
+            "heading": "PORTS: NEW ORLEANS MEGA TERMINAL WINS PERMIT",
             "paragraphs": [
-                "Law enforcement agencies in Armenia and the U.S. have executed a cybercrime raid targeting a Yerevan-based syndicate that posed as verified American motor carriers. The criminal ring systematically intercepted freight loads and converted illicit proceeds into cryptocurrency before detection.",
-                "Logistics providers and brokers face heightened exposure to sophisticated digital identity theft and cargo diversion schemes across domestic transport networks. Shippers must enforce rigorous carrier vetting protocols and continuous credential verification to prevent severe financial losses."
+                "The proposed Louisiana International Terminal has secured its final environmental and federal permits, clearing the way for construction to begin later this year. The massive 2B USD infrastructure project aims to expand container handling capacity and alleviate regional supply chain bottlenecks along the Gulf Coast.",
+                "Shippers and logistics service providers should factor the upcoming terminal expansion into long-term network design and port diversification plans. Enhanced regional throughput will eventually offer competitive routing alternatives away from heavily congested coastal hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PEAK SEASON AIR RATES DROP ON MUTED DEMAND",
+            "nextUpTease": "LEGAL: STATES SUE OVER CDL DATABASE ACCESS",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: PEAK SEASON AIR RATES DROP ON MUTED DEMAND",
+            "heading": "LEGAL: STATES SUE OVER CDL DATABASE ACCESS",
             "paragraphs": [
-                "Global air cargo spot rates have dropped 6% month over month as early peak season demand softens across major international trade lanes. Xeneta data indicates that muted air freight activity is shifting pricing leverage back into the hands of shippers and forwarders.",
-                "Logistics managers can capitalize on softer air freight spot markets to optimize urgent inventory replenishment and reduce expedited shipping budgets. Supply chain planners should reassess carrier contracts to lock in favorable rates ahead of late-year volume surges."
+                "A coalition of 22 states has filed a federal lawsuit challenging a Department of Transportation directive demanding access to 17M commercial driver records. The legal challenge questions the statutory authority of the Federal Motor Carrier Safety Administration to enforce the broad data transfer.",
+                "Motor carriers and fleet operators face heightened regulatory uncertainty as federal oversight clashes with state-level data privacy mandates. Compliance directors must monitor litigation outcomes closely to understand potential impacts on driver qualification file management."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPPLY CHAIN: USMCA AUTOMOTIVE FUTURE UNCERTAIN",
+            "nextUpTease": "AIR CARGO: PEAK SEASON SPOT RATES DROP 6 PERCENT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SUPPLY CHAIN: USMCA AUTOMOTIVE FUTURE UNCERTAIN",
+            "heading": "AIR CARGO: PEAK SEASON SPOT RATES DROP 6 PERCENT",
             "paragraphs": [
-                "North American automotive manufacturers are confronting severe strategic risks as the long-term viability of the United States-Mexico-Canada Agreement faces mounting political challenges. Industry stakeholders warn that any dissolution of the trade pact would uproot deeply integrated cross-border supply chains for finished vehicles and parts.",
-                "Original equipment manufacturers must develop contingency sourcing frameworks and multi-region production strategies to insulate operations from potential trade agreement terminations. Procurement teams face complex administrative burdens as they prepare for radical shifts in regional tariff structures."
+                "Global air cargo spot rates have fallen 6% month over month as early peak season demand shows unexpected softness across primary trade lanes. Xeneta data indicates that lower chargeable weight volumes are shifting pricing leverage back toward freight forwarders and shippers.",
+                "Logistics managers can leverage current soft air freight pricing to optimize urgent inventory replenishment schedules without overextending budgets. Supply chain planners should evaluate whether to lock in short-term spot rates or secure longer commitments ahead of late-year volume surges."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: DE MINIMIS LOOPHOLE LEGALLY CLOSED",
+            "nextUpTease": "RAILWAY: TRAIN THIEVES STEAL 200M USD IN CARGO",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATION: DE MINIMIS LOOPHOLE LEGALLY CLOSED",
+            "heading": "RAILWAY: TRAIN THIEVES STEAL 200M USD IN CARGO",
             "paragraphs": [
-                "The federal trade court has officially upheld the elimination of the $800 de minimis customs exemption, shutting down the controversial duty-free entry channel for low-value imports. E-commerce platforms and cross-border sellers must immediately restructure entry filings and absorb comprehensive duty assessments on all incoming parcels.",
-                "Direct-to-consumer supply chains face compressed profit margins and increased customs processing times as every imported package undergoes rigorous manual inspection. Retailers are forced to redesign fulfillment networks and pass incremental tax costs onto end consumers to preserve operational viability."
+                "Major Class I freight railroads are partnering with local law enforcement, the FBI, and private security to combat cargo thefts that total 200M USD annually. Carriers are deploying advanced monitoring technology, drones, and heavy fencing to secure vulnerable rail yards and mainline corridors.",
+                "Supply chain executives must assess cargo vulnerability across intermodal rail networks where organized theft rings target high-value consumer goods. Shippers are increasingly required to adopt enhanced in-transit tracking and hardened packaging standards to protect freight assets."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: PENTAGON DEALS SECURE CRITICAL MINERALS",
+            "nextUpTease": "RETAIL: JULY IMPORTS DROP AMID TARIFF PREP",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FINANCE: PENTAGON DEALS SECURE CRITICAL MINERALS",
+            "heading": "RETAIL: JULY IMPORTS DROP AMID TARIFF PREP",
             "paragraphs": [
-                "The Department of Defense has finalized over $2B in conditional loan agreements with domestic entities like Sila Technologies and Niron Magnetics through its Office of Strategic Capital. These federal investments aim to rapidly scale domestic battery manufacturing and critical mineral refining capacity.",
-                "Industrial buyers must align raw material procurement pipelines with emerging federal domestic sourcing mandates to maintain compliance eligibility. Supply chain executives are establishing traceable inventory systems to verify the complete provenance of high-tech components."
+                "U.S. retail imports for July came in significantly lower than initial forecasts as businesses pulled forward peak shipping schedules to preempt anticipated trade tariffs. National Retail Federation data shows that inventories at major ports peaked early as retailers rushed goods into domestic warehouses.",
+                "Supply chain managers must navigate uneven inventory distribution patterns and potential storage capacity constraints during the latter half of the year. Procurement teams need to align replenishment cycles closely with shifting consumer demand forecasts to avoid costly inventory overhang."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.joc.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
