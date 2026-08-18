@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: 1.7M TEU CAPACITY STRANDED",
-                "teaserTitle": "CANAL: RECORD $4.6M QUEUE-JUMP FEE",
-                "visual_caption": "Global port congestion has removed 1.7M TEU of container capacity from active trade networks. This massive bottleneck is driving spot rate volatility across East-West shipping lanes."
+                "headline": "GOVERNMENT: STATES SUE OVER 17M CDL",
+                "teaserTitle": "MARITIME: 1.7M TEU CAPACITY STRANDED",
+                "visual_caption": "22 states are suing the DOT over access to 17M commercial driver records. The legal challenge creates compliance uncertainty for national motor carriers managing qualification files."
             },
             {
                 "slide_index": 2,
-                "headline": "CANAL: RECORD $4.6M QUEUE-JUMP FEE",
-                "teaserTitle": "REGULATION: STATES SUE OVER CDL DATA",
-                "visual_caption": "An empty LPG tanker paid a record $4.6M auction fee to bypass Panama Canal queues. Persistent draft restrictions continue forcing ship operators into expensive auction bidding."
+                "headline": "MARITIME: 1.7M TEU CAPACITY STRANDED",
+                "teaserTitle": "CANAL: RECORD 4.6M QUEUE JUMP FEE",
+                "visual_caption": "Global port congestion has immobilized 1.7M TEU of containership capacity across key transshipment hubs. This supply constriction is driving spot rate volatility and reducing schedule reliability."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: STATES SUE OVER CDL DATA",
-                "teaserTitle": "PORTS: $2B LOUISIANA TERMINAL PERMIT",
-                "visual_caption": "22 states have sued the DOT over mandatory access demands for 17M commercial driver records. The legal challenge creates operational compliance uncertainty across interstate trucking fleets."
+                "headline": "CANAL: RECORD 4.6M QUEUE JUMP FEE",
+                "teaserTitle": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
+                "visual_caption": "A gas carrier paid a record $4.6M to bypass Panama Canal vessel queues. Unplanned transit premiums are dramatically altering voyage profitability and shifting bulk trade economics."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: $2B LOUISIANA TERMINAL PERMIT",
-                "teaserTitle": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
-                "visual_caption": "Regulators issued the final federal permit for a $2B container terminal in Louisiana. The upcoming facility will unlock direct Midwest rail links for Gulf Coast freight."
+                "headline": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
+                "teaserTitle": "RAIL: 200M ANNUAL CARGO THEFT",
+                "visual_caption": "Commercial tankers in the Strait of Hormuz are navigating dark transit corridors following maritime strikes. War-risk insurance premiums and security surcharges are climbing across Gulf origins."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
-                "teaserTitle": "RAIL: $200M ANNUAL CARGO THEFT",
-                "visual_caption": "Vessels transiting the Strait of Hormuz are running dark following repeated maritime drone attacks. Heightened conflict risk is escalating war surcharges across regional energy corridors."
+                "headline": "RAIL: 200M ANNUAL CARGO THEFT",
+                "teaserTitle": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
+                "visual_caption": "Organized freight syndicates inflict over $200M in annual cargo losses on Class 1 rail networks. Carriers are responding by deploying drone fleets and federal task forces along key routes."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL: $200M ANNUAL CARGO THEFT",
-                "teaserTitle": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
-                "visual_caption": "Cargo theft targeting freight rail lines has surpassed $200M in annual North American losses. Class 1 carriers are deploying drones and federal agents to protect intermodal boxes."
+                "headline": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
+                "teaserTitle": "PENTAGON: 2B CRITICAL MINERAL DEALS",
+                "visual_caption": "Carriers initiated scheduled weekly container sailings along Russia's Northern Sea Route to Europe. The polar transit route offers shorter transit times but introduces severe navigational constraints."
             },
             {
                 "slide_index": 7,
-                "headline": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "Liners launched scheduled weekly container services along the Northern Sea Route between Asia and Europe. The Arctic corridor shortens transit times while introducing severe operating conditions."
+                "headline": "PENTAGON: 2B CRITICAL MINERAL DEALS",
+                "teaserTitle": "",
+                "visual_caption": "The Pentagon signed over $2B in deals securing batteries and critical minerals for supply chain resilience. This industrial funding aims to eliminate foreign vulnerabilities in manufacturing."
             },
             {
                 "slide_index": 8,

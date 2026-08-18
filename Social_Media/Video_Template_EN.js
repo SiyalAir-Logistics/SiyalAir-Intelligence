@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "1.7M TEU CAPACITY STRANDED",
+        "hookTitle": "STATES SUE OVER SEVENTEEN MILLION CDL RECORDS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: 1.7M TEU CAPACITY STRANDED",
-                "teaserTitle": "CANAL: RECORD $4.6M QUEUE-JUMP FEE",
+                "headline": "GOVERNMENT: STATES SUE OVER 17M CDL",
+                "teaserTitle": "MARITIME: 1.7M TEU CAPACITY STRANDED",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Global port congestion has removed one point seven million twenty-foot equivalent units of container vessel capacity from the market. This massive fleet bottleneck is driving spot rate volatility across major East-West shipping lanes."
+                "narration_line": "Twenty-two states are suing the Department of Transportation over access to seventeen million commercial driver records. The legal challenge creates operational uncertainty for national motor carriers managing driver qualification files."
             },
             {
                 "slide_index": 2,
-                "headline": "CANAL: RECORD $4.6M QUEUE-JUMP FEE",
-                "teaserTitle": "REGULATION: STATES SUE OVER CDL DATA",
+                "headline": "MARITIME: 1.7M TEU CAPACITY STRANDED",
+                "teaserTitle": "CANAL: RECORD 4.6M QUEUE JUMP FEE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An empty gas carrier paid a record four point six million dollar auction fee to bypass Panama Canal lines. Severe water draft restrictions continue forcing ship operators into costly bidding wars."
+                "narration_line": "Global port congestion has immobilized one point seven million TEU of containership capacity across key transshipment hubs. This artificial supply constriction is driving spot rate volatility and reducing liner schedule reliability."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: STATES SUE OVER CDL DATA",
-                "teaserTitle": "PORTS: $2B LOUISIANA TERMINAL PERMIT",
+                "headline": "CANAL: RECORD 4.6M QUEUE JUMP FEE",
+                "teaserTitle": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Twenty-two states have sued the Department of Transportation over mandatory access to seventeen million commercial driver records. The legal battle creates operational compliance uncertainty across interstate trucking fleets."
+                "narration_line": "An empty gas carrier paid a record four point six million dollars to bypass Panama Canal vessel queues. Unplanned transit premiums are dramatically altering vessel voyage profitability and shifting bulk trade economics."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: $2B LOUISIANA TERMINAL PERMIT",
-                "teaserTitle": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
+                "headline": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
+                "teaserTitle": "RAIL: 200M ANNUAL CARGO THEFT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Federal authorities issued the final permit for a two billion dollar container terminal project in Louisiana. The upcoming deepwater gateway will provide direct Midwest rail connectivity for Gulf Coast shippers."
+                "narration_line": "Commercial tankers in the Strait of Hormuz are turning off transponders following fresh maritime security incidents. War risk insurance premiums and security surcharges are climbing rapidly across Persian Gulf origins."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
-                "teaserTitle": "RAIL: $200M ANNUAL CARGO THEFT",
+                "headline": "RAIL: 200M ANNUAL CARGO THEFT",
+                "teaserTitle": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Tankers navigating the Strait of Hormuz are turning off tracking beacons following repeated maritime drone attacks. Heightened regional risk is driving up commercial war surcharges on global energy shipments."
+                "narration_line": "Organized freight syndicates inflict over two hundred million dollars in annual cargo losses on Class one rail networks. Carriers are responding by deploying drone fleets and federal joint task forces along key routes."
             },
             {
                 "slide_index": 6,
-                "headline": "RAIL: $200M ANNUAL CARGO THEFT",
-                "teaserTitle": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
+                "headline": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
+                "teaserTitle": "PENTAGON: 2B CRITICAL MINERAL DEALS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Cargo theft targeting major rail networks has surpassed two hundred million dollars in annual losses across North America. Railroads are deploying drone surveillance and federal task forces to secure intermodal containers."
+                "narration_line": "Ocean carriers initiated scheduled weekly container sailings along Russia's Northern Sea Route to Europe. The polar transit route offers significantly shorter transit times but introduces severe navigational constraints."
             },
             {
                 "slide_index": 7,
-                "headline": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "PENTAGON: 2B CRITICAL MINERAL DEALS",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Carriers have initiated regular weekly container services along the Northern Sea Route connecting Asia and Europe. The specialized Arctic transit cuts voyage times significantly despite extreme operational and seasonal hazards."
+                "narration_line": "The Pentagon signed over two billion dollars in deals securing batteries and critical minerals for supply chain resilience. This industrial funding aims to eliminate foreign vulnerabilities in advanced manufacturing networks."
             },
             {
                 "slide_index": 8,
