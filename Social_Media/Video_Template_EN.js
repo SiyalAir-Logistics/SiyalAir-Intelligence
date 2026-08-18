@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "MAERSK TEARS UP FLEET CEILING",
+        "hookTitle": "PANAMA CANAL DRAFT FEE HITS 4.6M",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: MAERSK TEARS UP FLEET CEILING",
-                "teaserTitle": "SUPPLY CHAIN: SUPERTANKER EARNINGS SURGE",
+                "headline": "INFRASTRUCTURE: PANAMA CANAL QUEUE FEE HITS $4.6M",
+                "teaserTitle": "MARITIME: HORMUZ STRIKE KILLS SEAFARER",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Maersk is officially abandoning its container capacity limit to pursue aggressive fleet growth. This strategic shift allows the carrier to scale vessel deployment against expanding competitors."
+                "narration_line": "An empty tanker bypassed the Panama Canal queue after paying a record four point six million dollar fee. This extreme disbursement highlights how regional shipping crises force massive operational expenditures."
             },
             {
                 "slide_index": 2,
-                "headline": "LOGISTICS: SUPERTANKER EARNINGS SURGE IN MIDEAST",
-                "teaserTitle": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
+                "headline": "MARITIME: HORMUZ STRIKE KILLS SEAFARER",
+                "teaserTitle": "FINANCE: KIMBERLY-CLARK SECURES $45M REFUND",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Crude oil supertanker earnings along Persian Gulf routes have surged to nearly five hundred ten thousand dollars a day. Spiking Middle East tensions have severely restricted global vessel availability."
+                "narration_line": "A seafarer was killed in a targeted attack on merchant shipping in the Strait of Hormuz. Heightened military aggression across the chokepoint forces immediate vessel rerouting and inflates insurance premiums."
             },
             {
                 "slide_index": 3,
-                "headline": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
-                "teaserTitle": "INFRASTRUCTURE: PANAMA QUEUE FEE HITS $4.6M",
+                "headline": "FINANCE: KIMBERLY-CLARK SECURES $45M REFUND",
+                "teaserTitle": "AIR CARGO: GLOBAL RATES SLUMP IN AUGUST",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A seafarer has been killed in the latest targeted attack on merchant shipping in the Strait of Hormuz. Regional conflicts continue to drive up war risk insurance and force vessel rerouting."
+                "narration_line": "Kimberly Clark secured a forty five million dollar tariff refund to offset rising oil costs. This capital recovery represents half of the total duties paid by the firm last year."
             },
             {
                 "slide_index": 4,
-                "headline": "INFRASTRUCTURE: PANAMA QUEUE FEE HITS $4.6M",
-                "teaserTitle": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
+                "headline": "AIR CARGO: GLOBAL RATES SLUMP IN AUGUST",
+                "teaserTitle": "DEFENSE: DOD INVESTS $2B IN MINERALS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "An empty liquefied petroleum gas tanker bypassed the Panama Canal queue after paying a record four point six million dollar fee. Shippers must weigh these exorbitant costs against severe port delays."
+                "narration_line": "Global airfreight spot rates dropped six percent month over month as cargo volumes declined. This soft demand environment allows logistics managers to secure favorable short term shipping contracts."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
-                "teaserTitle": "REGULATION: MOTUS ROLLOUT CREATES HEADACHES",
+                "headline": "DEFENSE: DOD INVESTS $2B IN MINERALS",
+                "teaserTitle": "LOGISTICS: UPS TRANSFER APPROVED BY DOT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Autonomous transport provider Einride has integrated five hundred heavy-duty Tesla Semis into its fleet. Fleet operators are aggressively adopting electric vehicles to mitigate volatile fuel expenses."
+                "narration_line": "The Department of Defense signed over two billion dollars in deals to secure critical minerals. These federal loans aim to insulate North American supply chains from foreign material dependencies."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATION: MOTUS ROLLOUT CREATES HEADACHES",
-                "teaserTitle": "COMPLIANCE: UPS HONG KONG ROUTES APPROVED",
+                "headline": "LOGISTICS: UPS TRANSFER APPROVED BY DOT",
+                "teaserTitle": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The federal motor carrier registration rollout has triggered widespread operational headaches across the trucking sector. Outdated platform data is temporarily sidelining compliant transport fleets."
+                "narration_line": "Transportation regulators authorized the transfer of UPS air cargo routes from Hong Kong to the Philippines. Forwarders must recalibrate regional flight schedules to maintain strict delivery agreements."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: UPS HONG KONG ROUTES APPROVED",
+                "headline": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Transportation authorities have approved the transfer of strategic UPS flight routes from Hong Kong to the Philippines. Forwarders must recalibrate regional hub allocations to maintain delivery timelines."
+                "narration_line": "Einride integrated five hundred heavy duty Tesla Semis into its North American fleet. This massive deployment accelerates zero emission freight expansion across primary distribution corridors."
             },
             {
                 "slide_index": 8,
