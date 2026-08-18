@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PORT DELAYS REMOVE ONE POINT SEVEN MILLION TEU",
+        "hookTitle": "SECTION 301 TARIFFS TRIGGER GLOBAL LOGISTICS REALIGNMENT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PORT DELAYS REMOVE 1.7M TEU",
-                "teaserTitle": "MARITIME: PANAMA QUEUE FEE HITS 4.6M",
+                "headline": "USTR: SECTION 301 TARIFFS",
+                "teaserTitle": "PORTS: $2B LOUISIANA TERMINAL PERMIT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Persistent congestion across global container ports is removing one point seven million TEU of effective fleet capacity. Supply chain managers must build extended dwell times into ocean contingency plans."
+                "narration_line": "United States trade authorities have launched forced labor Section three oh one tariffs across sixty partner nations. Importers face immediate cargo auditing and heightened border documentation requirements."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA QUEUE FEE HITS 4.6M",
-                "teaserTitle": "AIR CARGO: PEAK VOLUMES DIP",
+                "headline": "PORTS: $2B LOUISIANA TERMINAL PERMIT",
+                "teaserTitle": "INFRASTRUCTURE: $10.3B PINGLU CANAL",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Priority transit fees through the Panama Canal reached four point six million dollars as empty gas carriers bypass bottlenecks. Escalating priority auction costs are driving up premium freight pricing baselines."
+                "narration_line": "Federal regulators cleared final permits for the two billion dollar Louisiana International Terminal in New Orleans. The facility will expand container processing capacity across vital mid-American rail corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: PEAK VOLUMES DIP",
-                "teaserTitle": "GOVERNMENT: CDL RECORDS LAWSUIT",
+                "headline": "INFRASTRUCTURE: $10.3B PINGLU CANAL",
+                "teaserTitle": "CUSTOMS: EU DE MINIMIS END",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Worldwide air freight chargeable weight declined during the first week of August as peak season demand softened. Global spot rates retreated six percent month over month as carriers readjust capacity."
+                "narration_line": "China completed full trial operations on the ten point three billion dollar Pinglu Canal. The eighty-three mile inland link cuts regional export shipping times to Southeast Asia by ten days."
             },
             {
                 "slide_index": 4,
-                "headline": "GOVERNMENT: CDL RECORDS LAWSUIT",
-                "teaserTitle": "MARITIME: HORMUZ TANKER ATTACK",
+                "headline": "CUSTOMS: EU DE MINIMIS END",
+                "teaserTitle": "MARITIME: SANCTIONED TANKER SCRAPPING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Twenty-two state attorneys general filed a lawsuit against federal authorities to block mandatory truck driver data demands. The legal challenge introduces fresh compliance friction into motor carrier safety administration."
+                "narration_line": "European air freight rates retreated after regulators eliminated duty-free de minimis tax exemptions on commercial imports. Cross-border e-commerce shipments now face full tariff assessments and slower customs processing."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: HORMUZ TANKER ATTACK",
-                "teaserTitle": "FINANCE: DIANA ENDS TAKEOVER",
+                "headline": "MARITIME: SANCTIONED TANKER SCRAPPING",
+                "teaserTitle": "SECURITY: SOMALI PIRACY TASKFORCE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Strait of Hormuz security risks intensified following another reported vessel attack on a shuttle tanker. Shippers are increasingly relying on dark transits and sophisticated shuttle maneuvers to maintain crude oil flows."
+                "narration_line": "Sanctioned vessels accounted for fifty-eight percent of all tanker demolition transactions recorded this year. Tighter port compliance rules continue removing older shadow fleet tonnage from international waters."
             },
             {
                 "slide_index": 6,
-                "headline": "FINANCE: DIANA ENDS TAKEOVER",
-                "teaserTitle": "RAIL: CARGO THEFT MITIGATION",
+                "headline": "SECURITY: SOMALI PIRACY TASKFORCE",
+                "teaserTitle": "DEFENSE: $2B CRITICAL MINERAL DEALS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Diana Shipping formally withdrew its acquisition proposal for Genco Shipping after target leadership established rigid terms. The terminated buyout highlights growing valuation friction among major dry bulk operators."
+                "narration_line": "Regional nations formed an emergency maritime security taskforce following a vessel boarding off the coast of Somalia. Vessel operators are adding armed escorts to protect high-risk trade lanes."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: CARGO THEFT MITIGATION",
-                "teaserTitle": "",
+                "headline": "DEFENSE: $2B CRITICAL MINERAL DEALS",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Class one freight railroads are investing millions in drone surveillance and police task forces to combat cargo thefts. Supply chain security officers must deploy active IoT tracking to safeguard high-value goods."
+                "narration_line": "The Pentagon committed over two billion dollars in capital loans to secure domestic critical mineral supply networks. The move requires manufacturers to establish certified regional sourcing pipelines."
             },
             {
                 "slide_index": 8,

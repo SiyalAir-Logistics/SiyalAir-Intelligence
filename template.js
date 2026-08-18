@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PORT DELAYS REMOVE",
-        "titleBlue": "1.7M",
-        "footerSummary": "Global container port delays tie up 1.7M TEU of capacity while Panama Canal queue fees surpass $4.6M."
+        "titleWhite": "SECTION 301",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR enforces Section 301 tariffs across 60 nations while Louisiana secures final permits for a $2B container terminal."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PORT DELAYS REMOVE 1.7M TEU",
+            "heading": "USTR: SECTION 301 TARIFFS",
             "paragraphs": [
-                "Persistent congestion across global container ports is effectively neutralizing 1.7M TEU of effective fleet capacity, according to recent Sea-Intelligence analysis. This capacity loss rivals the operational scale of an entire top-tier carrier fleet, compounding vessel turnaround times at major Asian and European marine terminals.",
-                "Supply chain managers face tighter vessel availability and unpredictable transit schedules as terminal bottlenecks absorb equipment buffers. Shippers must build extended dwell times into ocean contingency plans to prevent downstream distribution gridlocks."
+                "The Office of the United States Trade Representative has enacted sweeping forced labor tariffs under Section 301 against 60 trading partner nations following the expiration of emergency Section 122 duties. The enforcement framework mandates comprehensive supplier-origin tracking across all inbound consumer and industrial commodity manifests.",
+                "Importers must absorb immediate duty escalations and severe border clearance audits unless complete tier-four supply chain provenance is established. Logistics directors are actively reviewing partner country sourcing footprints to mitigate direct margin degradation."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: PANAMA QUEUE FEE HITS 4.6M",
+            "nextUpTease": "PORTS: $2B LOUISIANA TERMINAL PERMIT",
             "tags": [
-                "Source: https://splash247.com/box-port-delay-knock-out-nearly-an-evergreen-sized-fleet/",
-                "Published: 2026-08-17T06:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-17T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: PANAMA QUEUE FEE HITS 4.6M",
+            "heading": "PORTS: $2B LOUISIANA TERMINAL PERMIT",
             "paragraphs": [
-                "Priority transit fees through the Panama Canal have reached a new record high of $4.6M as empty gas carriers bid aggressively to bypass lingering waterway bottlenecks. Middle East security disruptions and draft constraints continue to restrict available daily slot allocations across the vital interoceanic link.",
-                "Escalating priority auction costs are dramatically raising premium freight pricing baselines for energy and bulk commodity transporters. Logistics executives must evaluate whether premium canal tolls justify the schedule reliability gains over alternative Cape routes."
+                "Federal authorities have issued final permit approvals for the $2B Louisiana International Terminal project in New Orleans, clearing the way to begin ground construction before the end of the year. The multi-modal facility is engineered to accommodate ultra-large container vessels and alleviate recurring Gulf Coast marine bottleneck pressure.",
+                "The terminal expansion introduces a high-capacity alternative gateway for Mid-America intermodal rail and inland waterway freight. Ocean carriers and beneficial cargo owners must evaluate routing shifts away from congested Atlantic hubs to capture lower drayage costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PEAK VOLUMES DIP",
+            "nextUpTease": "INFRASTRUCTURE: $10.3B PINGLU CANAL",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T10:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-17T16:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: PEAK VOLUMES DIP",
+            "heading": "INFRASTRUCTURE: $10.3B PINGLU CANAL",
             "paragraphs": [
-                "Worldwide air freight chargeable weight experienced an unexpected volume contraction during the first full week of August, signaling a softer start to traditional peak shipping season demand. Global spot rates retreated 6% month over month as carriers readjusted regional capacity allocations across primary trade lanes.",
-                "The temporary market softening provides enterprise supply chain directors with a strategic opening to negotiate favorable annual charter contracts before autumn retail replenishment surges arrive. Cargo teams should lock in capacity now while airline operators adjust yields to meet fluctuating demand."
+                "China has successfully executed initial trial navigation along the new 83.4-mile Pinglu Canal ahead of its scheduled commercial opening next month. The $10.3B state engineering corridor links inland manufacturing centers directly to the Beibu Gulf and Southeast Asian maritime corridors.",
+                "The waterway shortens inland export transits by more than 10 days compared to traditional Yangtze River routes, significantly lowering transit inventory capital. Multimodal operators are establishing regional barge schedules to capture anticipated Southeast Asian manufacturing feeder traffic."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOVERNMENT: CDL RECORDS LAWSUIT",
+            "nextUpTease": "CUSTOMS: EU DE MINIMIS END",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/air-cargo-volumes-decline-xeneta/825000/",
-                "Published: 2026-08-17T08:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-17T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "GOVERNMENT: CDL RECORDS LAWSUIT",
+            "heading": "CUSTOMS: EU DE MINIMIS END",
             "paragraphs": [
-                "A coalition of 22 state attorneys general has formally filed a lawsuit against federal transportation authorities to block mandatory data-sharing demands encompassing 17M truck driver records. The legal challenge targets federal agency directives requiring states to surrender five years of comprehensive commercial driver history files.",
-                "The ongoing regulatory clash introduces fresh compliance friction and uncertainty into motor carrier safety administration and driver vetting procedures. Fleet safety directors must monitor litigation updates closely to anticipate potential disruptions in driver qualification verification workflows."
+                "European air cargo volumes and freight spot rates have contracted sharply following the formal legal elimination of the low-value de minimis customs duty exemption. Cross-border e-commerce consignments face full standard tariff assessment and automated itemized electronic clearance at all European entry gateways.",
+                "Direct-to-consumer platforms must re-engineer bulk fulfillment networks to absorb added brokerage handling fees and compliance delays. Air freight forwarders face volatile schedule adjustments as cross-border package volumes shift toward consolidated ocean and rail freight."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HORMUZ TANKER ATTACK",
+            "nextUpTease": "MARITIME: SANCTIONED TANKER SCRAPPING",
             "tags": [
-                "Source: https://www.ttnews.com/articles/states-sue-dot-cdl-records",
-                "Published: 2026-08-17T09:30:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-17T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: HORMUZ TANKER ATTACK",
+            "heading": "MARITIME: SANCTIONED TANKER SCRAPPING",
             "paragraphs": [
-                "Strait of Hormuz security risks intensified following another reported vessel attack on an Abu Dhabi operator's shuttle tanker operating within the volatile waterway. Shippers and energy logistics providers are increasingly relying on dark transits and sophisticated shuttle maneuvers to maintain crude oil flows out of the Persian Gulf.",
-                "Persistent regional hostilities are driving up marine hull insurance premiums and forcing risk-averse carriers to implement extensive route deviations around high-threat zones. Fuel procurement managers must incorporate widening risk surcharges into medium-term bunker budget forecasts."
+                "Sanctioned vessels have surged to represent 58% of all global tanker recycling transactions this year, with 26 targeted hulls totaling 2.1M DWT sold for demolition. Tightening maritime enforcement frameworks and strict port state controls have rendered older shadow fleet tonnage commercially inoperable.",
+                "The aggressive removal of non-compliant tonnage is tightening active liquid bulk capacity across secondary trade routes and elevating charter quality standards. Energy logistics teams must verify vessel compliance histories to avoid secondary sanction enforcement penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: DIANA ENDS TAKEOVER",
+            "nextUpTease": "SECURITY: SOMALI PIRACY TASKFORCE",
             "tags": [
-                "Source: https://splash247.com/dark-transits-keep-hormuz-oil-flowing/",
-                "Published: 2026-08-17T07:15:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-17T13:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FINANCE: DIANA ENDS TAKEOVER",
+            "heading": "SECURITY: SOMALI PIRACY TASKFORCE",
             "paragraphs": [
-                "Greek shipowner Diana Shipping has officially withdrawn its acquisition proposal for Genco Shipping & Trading after target leadership established rigid defensive terms. The terminated buyout highlights growing valuation friction and strategic divergence among major publicly traded dry bulk operators.",
-                "Corporate consolidation moves in the dry bulk sector face growing headwinds as asset valuation gaps widen between acquirers and target boards. M&A strategists must recalibrate asset acquisition multiples against shifting charter market cash flow projections."
+                "Regional maritime member states under the Djibouti Code of Conduct have mobilized a dedicated security taskforce following a verified vessel boarding incident off the Somali coast. Armed boarders breached an active cargo carrier 4.5 nautical miles offshore, signaling renewed piracy risks along Northwest Indian Ocean transit lanes.",
+                "Vessel operators navigating the Horn of Africa corridor must contract specialized armed transit teams and pay rising war-risk insurance surcharges. Logistics planners should anticipate widened security corridors and modest transit lead-time adjustments across East African trade lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: CARGO THEFT MITIGATION",
+            "nextUpTease": "DEFENSE: $2B CRITICAL MINERAL DEALS",
             "tags": [
-                "Source: https://splash247.com/diana-pulls-plug-on-genco-takeover/",
-                "Published: 2026-08-17T08:45:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T15:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAIL: CARGO THEFT MITIGATION",
+            "heading": "DEFENSE: $2B CRITICAL MINERAL DEALS",
             "paragraphs": [
-                "North American Class I freight railroads are scaling up multi-million-dollar investments in active drone surveillance, barbed-wire infrastructure, and municipal police task forces to combat annual cargo thefts exceeding $200M. Organized criminal syndicates continue targeting high-value intermodal shipments parked within major rail yards.",
-                "Escalating intermodal inventory losses are inflating cargo insurance deductibles and complicating carrier liability settlements for logistics providers. Supply chain security officers must deploy real-time IoT tracking and enhanced perimeter defenses to safeguard high-value goods in transit."
+                "The United States Department of Defense has executed over $2B in conditional loan commitments to secure domestic battery manufacturing and critical mineral refining capacity. The capital deployment guarantees dedicated production quotas for industrial and high-technology manufacturers to reduce foreign raw material exposure.",
+                "Tier-one original equipment manufacturers must realign procurement agreements to qualify for federal domestic processing compliance standards. Supply chain executives should prepare for segregated material tracking audits to certify clean regional sourcing lineage."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com/articles/train-cargo-theft-200m",
-                "Published: 2026-08-17T08:30:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T17:10:00Z",
                 "Status: Audited & True"
             ]
         }
