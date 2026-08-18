@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
-                "teaserTitle": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
-                "visual_caption": "An empty tanker cut the Panama Canal queue after paying a record $4.6M fee. Persistent waterway restrictions continue to inflate transit costs globally."
+                "headline": "TARIFFS: TRUMP IMPOSES 100% TARIFFS ON DRONES",
+                "teaserTitle": "REGULATORY: US DE MINIMIS ELIMINATION UPHELD BY TRADE COURT",
+                "visual_caption": "President Trump enacted 100% tariffs on drones and components. Importers face severe cost spikes that threaten supply chain margins."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
-                "teaserTitle": "REGULATORY: USTR MOVES AHEAD WITH 60 NATION TARIFFS",
-                "visual_caption": "A seafarer was killed in a merchant shipping attack within the Strait of Hormuz. Regional maritime hostilities compound trade risks and force carriers to re-evaluate safety."
+                "headline": "REGULATORY: US DE MINIMIS ELIMINATION UPHELD BY TRADE COURT",
+                "teaserTitle": "DEFENSE: PENTAGON SIGNS OVER $2B IN DEALS",
+                "visual_caption": "The trade court upheld the repeal of tariff exemptions for sub-$800 imports. E-commerce operators must prepare for rigorous customs clearance."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATORY: USTR MOVES AHEAD WITH 60 NATION TARIFFS",
-                "teaserTitle": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
-                "visual_caption": "The USTR is advancing new tariffs across 60 trading partners under Section 301. This regulatory push requires immediate compliance adjustments for importers."
+                "headline": "DEFENSE: PENTAGON SIGNS OVER $2B IN DEALS",
+                "teaserTitle": "MARITIME: PANAMA CANAL CONTINUES DRAFT RESTRICTIONS",
+                "visual_caption": "The Pentagon issued over $2B in loans for domestic battery production. Manufacturers must adapt to shifting onshore sourcing mandates."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
-                "teaserTitle": "LOGISTICS: MAERSK TEARS UP FLEET CAPACITY CEILING",
-                "visual_caption": "Autonomous transport provider Einride integrated 500 heavy-duty semis into its fleet. Fleet operators are adopting electric vehicles to bypass fuel surcharges."
+                "headline": "MARITIME: PANAMA CANAL CONTINUES DRAFT RESTRICTIONS",
+                "teaserTitle": "RAILROAD: BNSF ADDS FASTER INTERMODAL SERVICE",
+                "visual_caption": "Ongoing draft restrictions across the Panama Canal constrain vessel capacity. Carriers are levying heavy surcharges that inflate transit expenses."
             },
             {
                 "slide_index": 5,
-                "headline": "LOGISTICS: MAERSK TEARS UP FLEET CAPACITY CEILING",
-                "teaserTitle": "RAILROAD: BNSF EXPANDS INTERMODAL OPTIONS",
-                "visual_caption": "Maersk is abandoning its long-standing containership capacity ceiling for fleet expansion. Procurement executives must recalibrate multi-year ocean service contracts."
+                "headline": "RAILROAD: BNSF ADDS FASTER INTERMODAL SERVICE",
+                "teaserTitle": "AVIATION: MUTED AIR CARGO PEAK SEASON ACTIVITY",
+                "visual_caption": "BNSF Railway expanded its Phoenix-to-Dallas intermodal service to 6 days weekly. Shippers gain a reliable overland alternative to highways."
             },
             {
                 "slide_index": 6,
-                "headline": "RAILROAD: BNSF EXPANDS INTERMODAL OPTIONS",
-                "teaserTitle": "AIR CARGO: LUFTHANSA IT OUTAGE PARALYZES HUBS",
-                "visual_caption": "BNSF Railway expanded its intermodal rail service between Phoenix and North Texas to run 6 days a week. Enhanced schedules help shippers absorb surging demand."
+                "headline": "AVIATION: MUTED AIR CARGO PEAK SEASON ACTIVITY",
+                "teaserTitle": "COMPLIANCE: KIMBERLY-CLARK SECURES $45M TARIFF REFUND",
+                "visual_caption": "Global air cargo spot rates dropped 6% amid muted peak season demand. Shippers can leverage softer pricing to negotiate favorable charter rates."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: LUFTHANSA IT OUTAGE PARALYZES HUBS",
+                "headline": "COMPLIANCE: KIMBERLY-CLARK SECURES $45M TARIFF REFUND",
                 "teaserTitle": "",
-                "visual_caption": "A major technical failure halted Lufthansa Cargo operations across its European hubs. Forwarders scrambled for alternate routing as cargo processing ground to a stop."
+                "visual_caption": "Kimberly-Clark secured a $45M refund on prior year tariff payments. Proactive duty reclamation provides crucial cash flow relief for enterprises."
             },
             {
                 "slide_index": 8,

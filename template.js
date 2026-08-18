@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
-        "titleBlue": "$4.6M",
-        "footerSummary": "Record queue-jump fees and escalating regional conflicts highlight severe maritime transit risks, inflating operational lane expenditures globally."
+        "titleWhite": "TRUMP IMPOSES 100% TARIFFS ON",
+        "titleBlue": "DRONES",
+        "footerSummary": "New 100% drone tariffs and rising Panama Canal draft restrictions force shippers to absorb higher landed costs and restructure global supply chains."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
+            "heading": "TARIFFS: TRUMP IMPOSES 100% TARIFFS ON DRONES",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker will cut the Panama Canal queue after paying a record $4.6M fee, surpassing previous historical highs. Persistent draught restrictions and rising regional bottlenecks continue to inflate transit costs for operators navigating key global waterways.",
-                "Skyrocketing priority fees force logistics managers to absorb steep unexpected expenses to maintain delivery schedules. Shippers must evaluate whether premium passage costs outweigh the financial penalties of extended maritime delays."
+                "President Donald Trump has instituted sweeping 100% tariffs targeting specific unmanned aerial systems and critical components. This regulatory action aligns directly with executive orders aimed at reducing supply chain dependence on foreign manufacturing hubs like China, whose global drone market reached $15.6B in 2025.",
+                "Importers of aerial technology face immediate cost spikes that threaten margin stability across commercial distribution networks. Supply chain directors must urgently audit component sourcing to mitigate crippling duties on incoming robotics and hardware."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
+            "nextUpTease": "REGULATORY: US DE MINIMIS ELIMINATION UPHELD BY TRADE COURT",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
+            "heading": "REGULATORY: US DE MINIMIS ELIMINATION UPHELD BY TRADE COURT",
             "paragraphs": [
-                "A seafarer was killed in the latest merchant shipping attack within the strategic Strait of Hormuz. Meanwhile, regional authorities claimed to detain a UAE-linked tanker for alleged regulatory non-compliance.",
-                "Escalating maritime hostilities compound regional trade risks and force carriers to re-evaluate crew safety protocols. Fleet managers must weigh mounting security threats against vital transit timelines across Middle Eastern corridors."
+                "The Court of International Trade has officially upheld the administration's authority to rescind tariff exemptions for sub-$800 imports. This legal ruling cements the termination of the historic de minimis loophole, subjecting high-volume parcel shipments to rigorous customs inspections and baseline duties.",
+                "E-commerce logistics operators and cross-border forwarders must re-engineer fulfillment workflows to handle full-tariff clearance processing without incurring terminal dwell delays. Financial controllers should prepare for compounding administrative expenses as automated compliance checks become mandatory for low-value parcels."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: USTR MOVES AHEAD WITH 60 NATION TARIFFS",
+            "nextUpTease": "DEFENSE: PENTAGON SIGNS OVER $2B IN DEALS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REGULATORY: USTR MOVES AHEAD WITH 60 NATION TARIFFS",
+            "heading": "DEFENSE: PENTAGON SIGNS OVER $2B IN DEALS",
             "paragraphs": [
-                "The Office of the United States Trade Representative is advancing new tariff implementations across 60 trading partners under Section 301 authority. This regulatory push coincides with the expiration of older provisions, creating immediate compliance adjustments for importers.",
-                "Expanding tariff scope drives up landed inventory costs and requires automated customs audit capabilities. Trade compliance teams must rapidly reassess supplier origins and classification codes to prevent unexpected clearance delays."
+                "The Department of Defense\u2019s Office of Strategic Capital has issued conditional loan commitments exceeding $2B to domestic entities including Sila Technologies, Sunrise Energy Metals, and Niron Magnetics. These strategic investments are designed to secure domestic production pipelines for advanced batteries and critical minerals.",
+                "Industrial manufacturers heavily reliant on imported raw materials must evaluate how government-backed domestic sourcing initiatives will alter long-term supplier availability. Securing priority access to onshore critical mineral processing infrastructure will prove vital for insulating production lines against geopolitical trade shocks."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
+            "nextUpTease": "MARITIME: PANAMA CANAL CONTINUES DRAFT RESTRICTIONS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
+            "heading": "MARITIME: PANAMA CANAL CONTINUES DRAFT RESTRICTIONS",
             "paragraphs": [
-                "Autonomous transport provider Einride has integrated 500 heavy-duty Tesla Semis into its active North American commercial fleet. This massive deployment triples the firm's operational footprint and accelerates zero-emission freight expansion across primary distribution corridors.",
-                "Fleet operators are aggressively adopting electric heavy-duty vehicles to insulate operations from volatile diesel fuel surcharges and strict environmental mandates. Logistics directors must evaluate charging infrastructure readiness to support large-scale EV fleet integration."
+                "Persistent draft restrictions across the Panama Canal continue to constrain vessel deadweight capacity, prompting ocean carriers to levy additional surcharges on key trade lanes. These ongoing water level limitations force vessel operators to light-load cargo and re-route heavy container ships.",
+                "Logistics managers face escalating slot costs and extended transit lead times as maritime bottlenecks restrict vessel throughput in the Western Hemisphere. Shippers must analyze alternative intermodal routing options to bypass persistent waterway congestion and protect delivery schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: MAERSK TEARS UP FLEET CAPACITY CEILING",
+            "nextUpTease": "RAILROAD: BNSF ADDS FASTER INTERMODAL SERVICE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LOGISTICS: MAERSK TEARS UP FLEET CAPACITY CEILING",
+            "heading": "RAILROAD: BNSF ADDS FASTER INTERMODAL SERVICE",
             "paragraphs": [
-                "Maersk is abandoning its long-standing containership capacity ceiling, signaling a major strategic shift toward aggressive fleet expansion. Management is positioning the carrier to capture rising trade volumes despite persistent macro volatility.",
-                "Expanding vessel ownership alters global alliance dynamics and changes long-term slot allocation availability for shippers. Procurement executives must recalibrate multi-year ocean service contracts in response to shifting carrier strategies."
+                "BNSF Railway has expanded its high-speed intermodal service connecting Phoenix to Dallas-Fort Worth to operate 6 days per week. The 3-day transit schedule is specifically designed to absorb surging regional shipper demand and provide a dependable overland alternative to congested highway corridors.",
+                "Expanded rail frequencies give supply chain executives greater flexibility to optimize modal mix and control long-haul distribution expenditures. Shippers should integrate these enhanced rail corridors into regional distribution plans to insulate freight networks from tightening trucking capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILROAD: BNSF EXPANDS INTERMODAL OPTIONS",
+            "nextUpTease": "AVIATION: MUTED AIR CARGO PEAK SEASON ACTIVITY",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RAILROAD: BNSF EXPANDS INTERMODAL OPTIONS",
+            "heading": "AVIATION: MUTED AIR CARGO PEAK SEASON ACTIVITY",
             "paragraphs": [
-                "BNSF Railway has expanded its high-speed intermodal rail service between Phoenix and North Texas to run 6 days per week. This enhanced schedule is designed to absorb surging shipper demand and provide a reliable alternative to congested highway networks.",
-                "Expanded rail frequencies offer logistics managers greater flexibility to optimize modal mix and control long-haul transportation expenditures. Shippers should evaluate regional rail corridors to secure dependable transit times amid tightening trucking capacity."
+                "Global air cargo spot rates have dropped 6% month-over-month according to Xeneta, signaling unusually muted peak season activity and weaker second-half market demand. This softening freight environment is shifting pricing leverage directly back into the hands of enterprise shippers.",
+                "Forwarders and cargo owners can capitalize on depressed spot rates to negotiate more favorable short-term air charter agreements ahead of the holiday rush. Logistics controllers should carefully balance spot market opportunities against long-term capacity allocations to maximize cost efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: LUFTHANSA IT OUTAGE PARALYZES HUBS",
+            "nextUpTease": "COMPLIANCE: KIMBERLY-CLARK SECURES $45M TARIFF REFUND",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: LUFTHANSA IT OUTAGE PARALYZES HUBS",
+            "heading": "COMPLIANCE: KIMBERLY-CLARK SECURES $45M TARIFF REFUND",
             "paragraphs": [
-                "A major IT systems failure brought Lufthansa Cargo handling operations across its primary Frankfurt and Munich hubs to a complete standstill over the weekend. Freight forwarders were forced to scramble for alternate routing as cargo processing ground to a halt.",
-                "Unexpected technological disruptions expose vulnerable links in European airfreight networks, risking severe delivery delays for high-value shipments. Logistics controllers should diversify gateway partnerships to insulate supply chains from single-point IT failures."
+                "Personal care products giant Kimberly-Clark has successfully secured a $45M tariff refund, recovering half of its total tariff expenditures from 2025. These unexpected financial recoveries will help offset incremental cost pressures driven by volatile oil prices while supporting price stability for consumers.",
+                "Corporate compliance teams must audit historical import classifications and pursue retroactive duty drawback opportunities to recover trapped capital. Proactive tariff reclamation strategies provide critical cash flow buffers against rising operational overhead."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

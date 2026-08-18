@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M DOLLARS",
+        "hookTitle": "TRUMP IMPOSES ONE HUNDRED PERCENT TARIFFS ON DRONES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
-                "teaserTitle": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
+                "headline": "TARIFFS: TRUMP IMPOSES 100% TARIFFS ON DRONES",
+                "teaserTitle": "REGULATORY: US DE MINIMIS ELIMINATION UPHELD BY TRADE COURT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker cut the Panama Canal queue after paying a record four point six million dollar fee. Persistent waterway restrictions continue to inflate transit costs globally."
+                "narration_line": "President Trump has enacted one hundred percent tariffs on targeted drones and components. Importers face severe cost spikes that threaten supply chain margins."
             },
             {
                 "slide_index": 2,
-                "headline": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
-                "teaserTitle": "REGULATORY: USTR MOVES AHEAD WITH 60 NATION TARIFFS",
+                "headline": "REGULATORY: US DE MINIMIS ELIMINATION UPHELD BY TRADE COURT",
+                "teaserTitle": "DEFENSE: PENTAGON SIGNS OVER $2B IN DEALS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A seafarer was killed in a merchant shipping attack within the Strait of Hormuz. Regional maritime hostilities compound trade risks and force carriers to reevaluate safety."
+                "narration_line": "The trade court upheld the repeal of tariff exemptions for sub eight hundred dollar imports. E-commerce operators must now prepare for rigorous customs clearance protocols."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATORY: USTR MOVES AHEAD WITH 60 NATION TARIFFS",
-                "teaserTitle": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
+                "headline": "DEFENSE: PENTAGON SIGNS OVER $2B IN DEALS",
+                "teaserTitle": "MARITIME: PANAMA CANAL CONTINUES DRAFT RESTRICTIONS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The United States Trade Representative is advancing new tariffs across sixty trading partners. This regulatory push requires immediate compliance adjustments for importers."
+                "narration_line": "The Pentagon has issued over two billion dollars in loans to secure domestic battery production. Manufacturers must adapt to shifting onshore sourcing mandates."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
-                "teaserTitle": "LOGISTICS: MAERSK TEARS UP FLEET CAPACITY CEILING",
+                "headline": "MARITIME: PANAMA CANAL CONTINUES DRAFT RESTRICTIONS",
+                "teaserTitle": "RAILROAD: BNSF ADDS FASTER INTERMODAL SERVICE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Autonomous transport provider Einride integrated five hundred heavy duty semis into its fleet. Fleet operators are adopting electric vehicles to bypass fuel surcharges."
+                "narration_line": "Ongoing draft restrictions across the Panama Canal continue to constrain vessel capacity. Carriers are levying heavy surcharges that inflate maritime transit expenses."
             },
             {
                 "slide_index": 5,
-                "headline": "LOGISTICS: MAERSK TEARS UP FLEET CAPACITY CEILING",
-                "teaserTitle": "RAILROAD: BNSF EXPANDS INTERMODAL OPTIONS",
+                "headline": "RAILROAD: BNSF ADDS FASTER INTERMODAL SERVICE",
+                "teaserTitle": "AVIATION: MUTED AIR CARGO PEAK SEASON ACTIVITY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Maersk is abandoning its long standing containership capacity ceiling for fleet expansion. Procurement executives must recalibrate multi year ocean service contracts."
+                "narration_line": "BNSF Railway expanded its Phoenix to Dallas intermodal service to six days weekly. Shippers gain a reliable overland alternative to congested highway networks."
             },
             {
                 "slide_index": 6,
-                "headline": "RAILROAD: BNSF EXPANDS INTERMODAL OPTIONS",
-                "teaserTitle": "AIR CARGO: LUFTHANSA IT OUTAGE PARALYZES HUBS",
+                "headline": "AVIATION: MUTED AIR CARGO PEAK SEASON ACTIVITY",
+                "teaserTitle": "COMPLIANCE: KIMBERLY-CLARK SECURES $45M TARIFF REFUND",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "BNSF Railway expanded its intermodal rail service between Phoenix and North Texas. Enhanced schedules help shippers absorb surging demand and bypass highway congestion."
+                "narration_line": "Global air cargo spot rates dropped six percent amid muted peak season demand. Shippers can leverage softer pricing to negotiate favorable charter rates."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: LUFTHANSA IT OUTAGE PARALYZES HUBS",
+                "headline": "COMPLIANCE: KIMBERLY-CLARK SECURES $45M TARIFF REFUND",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "A major technical failure halted Lufthansa Cargo operations across its European hubs. Forwarders scrambled for alternate routing as cargo processing ground to a stop."
+                "narration_line": "Kimberly-Clark secured a forty five million dollar refund on prior year tariff payments. Proactive duty reclamation provides crucial cash flow relief for enterprises."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }
