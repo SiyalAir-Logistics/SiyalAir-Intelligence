@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
-        "titleBlue": "$4.6M",
-        "footerSummary": "Panama Canal queue jump fees hit $4.6M as regional conflicts and capacity constraints drive unprecedented transit costs for global shippers."
+        "titleWhite": "CUSTOMS TO FIGHT TRADE FRAUD WITH AI",
+        "titleBlue": "DETECTIVE",
+        "footerSummary": "White House report highlights AI detective border initiatives to curb transshipment trade fraud, protecting supply chain margins."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "WATERWAY: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
+            "heading": "CUSTOMS: AI DETECTIVE BORDER TO FIGHT TRADE FRAUD",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker will cut the Panama Canal queue after paying a record $4.6M fee amidst severe regional transit disruptions. This staggering sum eclipses the previous high of $3.98M and highlights the extreme costs vessel operators are willing to absorb to bypass massive bottlenecks.",
-                "Surging priority transit costs directly inflate operational overhead for charterers and shippers relying on vital global waterways for timely cargo delivery. Logistics directors must factor volatile queue pricing into baseline route calculations to protect profit margins."
+                "A new White House report reveals that customs authorities are deploying advanced artificial intelligence systems to combat rising global transshipment fraud. These automated detective frameworks scan millions of import entries in real time to intercept misclassified cargo and shell company networks.",
+                "Importers must upgrade internal compliance systems to withstand rigorous algorithmic auditing at critical trade borders. Proactive digital verification prevents costly port delays and protects corporate balance sheets from severe civil penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDERAL: USTR ADVANCES FORCED LABOR TARIFFS",
+            "nextUpTease": "AIR CARGO: UPS TRANSFERS HONG KONG ROUTES",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.freightwaves.com/news/feed",
+                "Published: 2026-08-18T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATION: USTR ADVANCES FORCED LABOR TARIFFS",
+            "heading": "AIR CARGO: UPS TRANSFERS HONG KONG ROUTES",
             "paragraphs": [
-                "The Office of the United States Trade Representative is moving forward with the implementation of strict tariffs on 60 nations under Section 301. These sweeping trade actions target goods linked to supply chain compliance violations and forced labor practices worldwide.",
-                "Importers across multiple sectors face escalating duty exposures and complex audit requirements to verify tier-one and tier-two sourcing integrity. Procurement teams must rapidly upgrade supplier visibility platforms to prevent costly border seizures and customs penalties."
+                "The Department of Transportation has officially approved the transfer of strategic UPS flight routes from Hong Kong to the Philippines. This regulatory adjustment alters critical intra-Asia freight distribution lanes and reshapes express delivery networks across the region.",
+                "Express carriers and air cargo operators must recalibrate flight schedules and hub allocations to maintain service level agreements for international shippers. Logistics planners should evaluate alternative transshipment options to avoid latency spikes in Asian delivery corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
+            "nextUpTease": "MARITIME: MSC RESUMES SUEZ CANAL TRANSITS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.freightwaves.com/news/feed",
+                "Published: 2026-08-18T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
+            "heading": "MARITIME: MSC RESUMES SUEZ CANAL TRANSITS",
             "paragraphs": [
-                "Autonomous freight provider Einride has announced the integration of 500 Tesla Semis into its active North American fleet network. This major deployment accelerates commercial adoption of heavy-duty electric trucks across key domestic distribution corridors.",
-                "Fleet operators are aggressively adopting zero-emission heavy transport to comply with strict corporate sustainability mandates and offset rising fuel expenses. Logistics executives must evaluate capital investments in charging infrastructure to maintain competitive transport parity."
+                "Mediterranean Shipping Company has directed 7 container vessels to switch off tracking transponders as they resume scheduled transits through the Suez Canal. This tactical navigation shift allows ocean carriers to shorten transit times between Asian manufacturing hubs and European ports.",
+                "Re-entering high-risk maritime chokepoints requires careful insurance underwriting and risk assessment by enterprise logistics teams. Shippers must weigh reduced maritime transit days against potential security premiums and schedule volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "COURT: DE MINIMIS TARIFF EXEMPTION UPHELD",
+            "nextUpTease": "REGULATION: TARIFF DEADLINE LOOMS FOR CANADA",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://theloadstar.com/feed/",
+                "Published: 2026-08-18T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CUSTOMS: DE MINIMIS TARIFF EXEMPTION UPHELD",
+            "heading": "REGULATION: TARIFF DEADLINE LOOMS FOR CANADA",
             "paragraphs": [
-                "The Court of International Trade has officially ruled that the executive branch holds full authority to rescind tariff exemptions for sub-$800 imports. This judicial decision solidifies ongoing federal crackdowns on low-value direct-to-consumer shipments entering domestic markets.",
-                "E-commerce brands and parcel forwarders relying on duty-free parcel channels face sudden margin compression and higher per-item landed costs. Supply chain strategists must restructure import models to absorb recurring duty assessments on high-volume inbound parcels."
+                "The official countdown is active as trade authorities prepare to enforce sweeping 50% tariffs on goods moving across the Canadian border. This looming deadline accelerates industrial supply chain decoupling between North American manufacturing partners.",
+                "Automotive and industrial goods importers face catastrophic margin compression if cross-border sourcing models are not restructured immediately. Procurement executives must evaluate domestic tier-one suppliers to insulate baseline operations from punitive duty hikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: FMC ENFORCES DETENTION BILLING",
+            "nextUpTease": "AUTOMOTIVE: STELLANTIS ISSUES SOFTWARE RECALL",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-18T05:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: FMC ENFORCES DETENTION BILLING",
+            "heading": "AUTOMOTIVE: STELLANTIS ISSUES SOFTWARE RECALL",
             "paragraphs": [
-                "The U.S. Court of Appeals for the D.C. Circuit upheld a key Federal Maritime Commission decision ensuring demurrage and detention fees actively promote freight fluidity. The ruling reinforces strict regulatory oversight on ocean carriers and terminal operators issuing penalty invoices.",
-                "Shippers gain enhanced legal protection against unfair or deceptive port storage charges that accumulate during systemic supply chain congestion. Logistics managers should audit historical carrier billing statements to recover improperly assessed demurrage and detention fees."
+                "Stellantis has announced a massive recall affecting 850,000 U.S. vehicles due to a critical digital dashboard and powertrain software glitch. Dealership service networks and parts distribution centers face intense operational pressure to process repairs quickly.",
+                "Unexpected recalls disrupt inbound automotive aftermarket supply chains and inflate warranty logistics expenditures for manufacturing partners. Supply chain directors must secure flexible warehousing buffers to manage sudden surges in replacement component demand."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: NRF REPORTS PEAK PORT IMPORTS",
+            "nextUpTease": "TECHNOLOGY: EINRIDE EXPANDS TESLA SEMI FLEET",
             "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: 2026-07-08T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-17T22:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LOGISTICS: NRF REPORTS PEAK PORT IMPORTS",
+            "heading": "TECHNOLOGY: EINRIDE EXPANDS TESLA SEMI FLEET",
             "paragraphs": [
-                "Data from the National Retail Federation projects that containerized import volumes at major U.S. ports have peaked early as businesses aggressively build holiday inventories. Retailers pulled forward peak shipping schedules to mitigate potential tariff escalations and carrier capacity constraints.",
-                "Early inventory surges create compressed warehousing demand and unpredictable drayage patterns across major coastal gateway terminals. Supply chain planners must optimize multi-modal distribution schedules to prevent yard gridlock and excessive equipment holding costs."
+                "Autonomous freight pioneer Einride has successfully integrated 500 heavy-duty Tesla Semis into its active commercial transport network. This deployment represents a major milestone in scaling zero-emission freight operations across North American distribution corridors.",
+                "Fleet operators are aggressively adopting electric transport platforms to mitigate volatile diesel fuel expenses and satisfy corporate ESG mandates. Logistics executives must accelerate capital investments in high-capacity charging infrastructure to maintain competitive transport parity."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: TYSON CUTS BEEF PLANT CAPACITY",
+            "nextUpTease": "ENERGY: OIL PRICES SURPASS 90 USD",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-18T04:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OPERATIONS: TYSON CUTS BEEF PLANT CAPACITY",
+            "heading": "ENERGY: OIL PRICES SURPASS 90 USD PER BARREL",
             "paragraphs": [
-                "Meat processing giant Tyson Foods announced plans to shutter operations at three major facilities and eliminate at least 2,500 jobs amid an ongoing cattle shortage. The structural downsizing reflects severe margin pressures across agricultural supply chains and dwindling livestock herds.",
-                "Factory closures force protein distributors to recalibrate regional transport networks and secure alternative long-haul cold chain routes. Procurement officers must adapt distribution blueprints quickly to maintain product flow and stabilize cold storage expenditures."
+                "Global crude benchmarks have officially crossed 90 USD per barrel following sustained geopolitical conflict and supply disruptions in the Middle East. Higher petroleum costs immediately drive up bunker fuel surcharges and over-the-road freight transport rates worldwide.",
+                "Escalating energy expenditures erode operating margins for motor carriers and ocean liners, forcing carriers to pass fuel surcharges directly to shippers. Logistics managers must leverage dynamic route optimization software and multi-modal carrier agreements to control freight budgets."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-18T08:30:00Z",
                 "Status: Audited & True"
             ]
         }
