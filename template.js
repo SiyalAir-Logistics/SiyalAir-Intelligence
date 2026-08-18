@@ -1,95 +1,95 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL DRAUGHT RESTRICTIONS LIFT",
-        "titleBlue": "FEES",
-        "footerSummary": "Persistent maritime draught limits and rising carrier surcharges threaten global trade margins, forcing shippers to adjust allocation strategies."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
+        "titleBlue": "$4.6M",
+        "footerSummary": "Record queue-jump fees and escalating regional conflicts highlight severe maritime transit risks, inflating operational lane expenditures globally."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL DRAUGHT RESTRICTIONS LIFT FEES",
+            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
             "paragraphs": [
-                "Ongoing Panama Canal draught restrictions are forcing ocean carriers to implement aggressive new surcharges to offset severe payload constraints. Waterway authorities continue to manage tight transit quotas as persistent regional water level challenges disrupt maritime schedules.",
-                "Shippers face compounding cost pressures as these mandatory operational fees inflate total lane expenditures and transit times. Logistics managers must factor these recurring channel bottlenecks directly into upcoming quarterly freight budgets."
+                "An empty liquefied petroleum gas tanker will cut the Panama Canal queue after paying a record $4.6M fee, surpassing previous historical highs. Persistent draught restrictions and rising regional bottlenecks continue to inflate transit costs for operators navigating key global waterways.",
+                "Skyrocketing priority fees force logistics managers to absorb steep unexpected expenses to maintain delivery schedules. Shippers must evaluate whether premium passage costs outweigh the financial penalties of extended maritime delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: FMCSA MOTUS ROLLOUT CREATES HEADACHES",
+            "nextUpTease": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATORY: FMCSA MOTUS ROLLOUT CREATES HEADACHES",
+            "heading": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
             "paragraphs": [
-                "The Federal Motor Carrier Safety Administration is facing widespread motor carrier friction following the rollout of its new Motus registration platform. Outdated system data has temporarily sidelined compliant operators, complicating compliance vetting for shippers and brokers in a tightening market.",
-                "Administrative delays risk reducing available over-the-road capacity and amplifying spot rate volatility across key freight corridors. Transport teams should immediately audit carrier onboarding workflows to mitigate unexpected service disruptions."
+                "A seafarer was killed in the latest merchant shipping attack within the strategic Strait of Hormuz. Meanwhile, regional authorities claimed to detain a UAE-linked tanker for alleged regulatory non-compliance.",
+                "Escalating maritime hostilities compound regional trade risks and force carriers to re-evaluate crew safety protocols. Fleet managers must weigh mounting security threats against vital transit timelines across Middle Eastern corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: TYSON TO SHED THREE BEEF PLANTS",
+            "nextUpTease": "REGULATORY: USTR MOVES AHEAD WITH 60 NATION TARIFFS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://splash247.com",
                 "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LABOR: TYSON TO SHED THREE BEEF PLANTS",
+            "heading": "REGULATORY: USTR MOVES AHEAD WITH 60 NATION TARIFFS",
             "paragraphs": [
-                "Tyson Foods has announced plans to sell or shutter operations at three major beef processing facilities while eliminating at least 2,500 jobs. This drastic restructuring is driven by shrinking domestic cattle herds and sustained margin pressures across the protein sector.",
-                "Plant closures will permanently alter regional outbound freight volumes and force logistics planners to recalibrate dedicated carrier lanes. Supply chain directors must secure alternative sourcing and transport options to maintain distribution efficiency."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR CARGO: LUFTHANSA IT OUTAGE PARALYZES HUBS",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-17T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "AIR CARGO: LUFTHANSA IT OUTAGE PARALYZES HUBS",
-            "paragraphs": [
-                "A major IT systems failure brought Lufthansa Cargo handling operations across its primary Frankfurt and Munich hubs to a complete standstill over the weekend. Freight forwarders were forced to scramble for alternate routing as cargo processing ground to a halt.",
-                "Unexpected technological disruptions expose vulnerable links in European airfreight networks, risking severe delivery delays for high-value shipments. Logistics controllers should diversify gateway partnerships to insulate supply chains from single-point IT failures."
+                "The Office of the United States Trade Representative is advancing new tariff implementations across 60 trading partners under Section 301 authority. This regulatory push coincides with the expiration of older provisions, creating immediate compliance adjustments for importers.",
+                "Expanding tariff scope drives up landed inventory costs and requires automated customs audit capabilities. Trade compliance teams must rapidly reassess supplier origins and classification codes to prevent unexpected clearance delays."
             ],
             "imageUrl": "",
             "nextUpTease": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 5,
+            "id": 4,
             "heading": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
             "paragraphs": [
                 "Autonomous transport provider Einride has integrated 500 heavy-duty Tesla Semis into its active North American commercial fleet. This massive deployment triples the firm's operational footprint and accelerates zero-emission freight expansion across primary distribution corridors.",
                 "Fleet operators are aggressively adopting electric heavy-duty vehicles to insulate operations from volatile diesel fuel surcharges and strict environmental mandates. Logistics directors must evaluate charging infrastructure readiness to support large-scale EV fleet integration."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: UK POLICE TARGET $88M CARGO THEFT",
+            "nextUpTease": "LOGISTICS: MAERSK TEARS UP FLEET CAPACITY CEILING",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-18T04:30:00Z",
+                "Published: 2026-08-18T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "LOGISTICS: MAERSK TEARS UP FLEET CAPACITY CEILING",
+            "paragraphs": [
+                "Maersk is abandoning its long-standing containership capacity ceiling, signaling a major strategic shift toward aggressive fleet expansion. Management is positioning the carrier to capture rising trade volumes despite persistent macro volatility.",
+                "Expanding vessel ownership alters global alliance dynamics and changes long-term slot allocation availability for shippers. Procurement executives must recalibrate multi-year ocean service contracts in response to shifting carrier strategies."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RAILROAD: BNSF EXPANDS INTERMODAL OPTIONS",
+            "tags": [
+                "Source: https://splash247.com",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: UK POLICE TARGET $88M CARGO THEFT",
+            "heading": "RAILROAD: BNSF EXPANDS INTERMODAL OPTIONS",
             "paragraphs": [
-                "Law enforcement authorities in the United Kingdom arrested six individuals in a major crackdown targeting organized cargo theft rings costing over $88M annually. Customs agencies are deploying advanced AI detective border tools to intercept sophisticated cross-border trade fraud networks.",
-                "Escalating cargo crime requires freight forwarders to upgrade in-transit visibility and implement rigorous carrier verification protocols. Shippers must prioritize risk management technologies to protect high-value inventories from sophisticated interception schemes."
+                "BNSF Railway has expanded its high-speed intermodal rail service between Phoenix and North Texas to run 6 days per week. This enhanced schedule is designed to absorb surging shipper demand and provide a reliable alternative to congested highway networks.",
+                "Expanded rail frequencies offer logistics managers greater flexibility to optimize modal mix and control long-haul transportation expenditures. Shippers should evaluate regional rail corridors to secure dependable transit times amid tightening trucking capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: BNSF EXPANDS INTERMODAL OPTIONS",
+            "nextUpTease": "AIR CARGO: LUFTHANSA IT OUTAGE PARALYZES HUBS",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: 2026-08-18T00:00:00Z",
@@ -98,16 +98,16 @@ const dailyData = {
         },
         {
             "id": 7,
-            "heading": "FINANCE: BNSF EXPANDS INTERMODAL OPTIONS",
+            "heading": "AIR CARGO: LUFTHANSA IT OUTAGE PARALYZES HUBS",
             "paragraphs": [
-                "BNSF Railway has expanded its high-speed intermodal rail service between Phoenix and North Texas to run six days per week. This enhanced schedule is designed to absorb surging shipper demand and provide a reliable alternative to congested highway networks.",
-                "Expanded rail frequencies offer logistics managers greater flexibility to optimize modal mix and control long-haul transportation expenditures. Shippers should evaluate regional rail corridors to secure dependable transit times amid tightening trucking capacity."
+                "A major IT systems failure brought Lufthansa Cargo handling operations across its primary Frankfurt and Munich hubs to a complete standstill over the weekend. Freight forwarders were forced to scramble for alternate routing as cargo processing ground to a halt.",
+                "Unexpected technological disruptions expose vulnerable links in European airfreight networks, risking severe delivery delays for high-value shipments. Logistics controllers should diversify gateway partnerships to insulate supply chains from single-point IT failures."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
