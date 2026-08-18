@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS EXPAND",
+        "hookTitle": "PORT DELAYS REMOVE ONE POINT SEVEN MILLION TEU",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: FORCED LABOR TARIFFS EXPAND",
-                "teaserTitle": "LEGAL: DE MINIMIS LOOPHOLE CLOSED",
+                "headline": "MARITIME: PORT DELAYS REMOVE 1.7M TEU",
+                "teaserTitle": "MARITIME: PANAMA QUEUE FEE HITS 4.6M",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States trade representative is implementing forced labor tariffs across sixty nations. Importers must audit supply chains immediately to avoid severe customs penalties."
+                "narration_line": "Persistent congestion across global container ports is removing one point seven million TEU of effective fleet capacity. Supply chain managers must build extended dwell times into ocean contingency plans."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: DE MINIMIS LOOPHOLE CLOSED",
-                "teaserTitle": "MARITIME: PANAMA DRAUGHT LIMITS",
+                "headline": "MARITIME: PANAMA QUEUE FEE HITS 4.6M",
+                "teaserTitle": "AIR CARGO: PEAK VOLUMES DIP",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Federal trade courts have officially upheld the elimination of the eight hundred dollar de minimis exemption. Direct-to-consumer shippers now face higher landed import costs."
+                "narration_line": "Priority transit fees through the Panama Canal reached four point six million dollars as empty gas carriers bypass bottlenecks. Escalating priority auction costs are driving up premium freight pricing baselines."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: PANAMA DRAUGHT LIMITS",
-                "teaserTitle": "AIR CARGO: GLOBAL VOLUMES DIP",
+                "headline": "AIR CARGO: PEAK VOLUMES DIP",
+                "teaserTitle": "GOVERNMENT: CDL RECORDS LAWSUIT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Severe draught restrictions at the Panama Canal are worsening global container vessel congestion. Shippers must secure alternative intermodal routing to prevent delays."
+                "narration_line": "Worldwide air freight chargeable weight declined during the first week of August as peak season demand softened. Global spot rates retreated six percent month over month as carriers readjust capacity."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: GLOBAL VOLUMES DIP",
-                "teaserTitle": "RAIL FREIGHT: 200M CARGO THEFT",
+                "headline": "GOVERNMENT: CDL RECORDS LAWSUIT",
+                "teaserTitle": "MARITIME: HORMUZ TANKER ATTACK",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Global air freight volumes declined during the first week of August with spot rates softening. Cargo directors should negotiate annual contracts before autumn surges."
+                "narration_line": "Twenty-two state attorneys general filed a lawsuit against federal authorities to block mandatory truck driver data demands. The legal challenge introduces fresh compliance friction into motor carrier safety administration."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL FREIGHT: 200M CARGO THEFT",
-                "teaserTitle": "AUTOMOTIVE: USMCA UNCERTAINTY",
+                "headline": "MARITIME: HORMUZ TANKER ATTACK",
+                "teaserTitle": "FINANCE: DIANA ENDS TAKEOVER",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Organized criminal syndicates inflict over two hundred million dollars in annual rail cargo thefts. Carriers are deploying drone surveillance to protect high-value loads."
+                "narration_line": "Strait of Hormuz security risks intensified following another reported vessel attack on a shuttle tanker. Shippers are increasingly relying on dark transits and sophisticated shuttle maneuvers to maintain crude oil flows."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOMOTIVE: USMCA UNCERTAINTY",
-                "teaserTitle": "PORTS: AI DATA CENTER DEMAND",
+                "headline": "FINANCE: DIANA ENDS TAKEOVER",
+                "teaserTitle": "RAIL: CARGO THEFT MITIGATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Uncertainty surrounding the future of the U S M C A challenges North American automotive manufacturers. Leaders must model alternative cross-border sourcing strategies."
+                "narration_line": "Diana Shipping formally withdrew its acquisition proposal for Genco Shipping after target leadership established rigid terms. The terminated buyout highlights growing valuation friction among major dry bulk operators."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: AI DATA CENTER DEMAND",
+                "headline": "RAIL: CARGO THEFT MITIGATION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The artificial intelligence boom is straining U S heavy-and-wide transport infrastructure. Project managers must secure specialized transport assets months in advance."
+                "narration_line": "Class one freight railroads are investing millions in drone surveillance and police task forces to combat cargo thefts. Supply chain security officers must deploy active IoT tracking to safeguard high-value goods."
             },
             {
                 "slide_index": 8,

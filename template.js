@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR TARIFFS",
-        "titleBlue": "EXPAND",
-        "footerSummary": "USTR expands forced labor tariffs across 60 trading nations as court upholds de minimis loophole closure."
+        "titleWhite": "PORT DELAYS REMOVE",
+        "titleBlue": "1.7M",
+        "footerSummary": "Global container port delays tie up 1.7M TEU of capacity while Panama Canal queue fees surpass $4.6M."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "REGULATION: FORCED LABOR TARIFFS EXPAND",
+            "heading": "MARITIME: PORT DELAYS REMOVE 1.7M TEU",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially moved forward with sweeping tariff enforcement on 60 trading partners under Section 301. The regulatory action targets goods linked to forced labor practices as legacy trade exemptions phase out across global supply chains.",
-                "Importers face immediate compliance audits and complex documentation burdens to verify raw material origins across tier-two and tier-three vendor networks. Sourcing directors must restructure supplier contracts to prevent unexpected customs seizures and duty penalties at destination ports."
+                "Persistent congestion across global container ports is effectively neutralizing 1.7M TEU of effective fleet capacity, according to recent Sea-Intelligence analysis. This capacity loss rivals the operational scale of an entire top-tier carrier fleet, compounding vessel turnaround times at major Asian and European marine terminals.",
+                "Supply chain managers face tighter vessel availability and unpredictable transit schedules as terminal bottlenecks absorb equipment buffers. Shippers must build extended dwell times into ocean contingency plans to prevent downstream distribution gridlocks."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL: DE MINIMIS LOOPHOLE CLOSED",
+            "nextUpTease": "MARITIME: PANAMA QUEUE FEE HITS 4.6M",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-17T08:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "LEGAL: DE MINIMIS LOOPHOLE CLOSED",
-            "paragraphs": [
-                "The federal trade court has officially upheld the complete elimination of low-value duty exemptions, legally closing the $800 de minimis loophole. E-commerce platforms and direct-to-consumer logistics providers can no longer bypass standard customs inspection or entry processing for parcels.",
-                "Cross-border shipping models relying on tax-free parcel exemptions must absorb higher landed costs and slower clearance times at air and ocean hubs. Supply chain managers are pivoting toward bulk inventory consolidation and formal entry compliance strategies to maintain delivery margins."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME: PANAMA DRAUGHT LIMITS",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-16T12:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MARITIME: PANAMA DRAUGHT LIMITS",
-            "paragraphs": [
-                "Severe draught restrictions and compounding Middle East security disruptions are exacerbating vessel bottlenecks throughout the Panama Canal network. Container lines and bulk operators face mounting schedule unreliability as transit slots remain heavily constrained by environmental factors.",
-                "Unplanned routing delays and mandatory weight restrictions are driving up ocean freight spot rates across major East-West trade corridors. Logistics planners must secure alternative intermodal routing and buffer inventory pools to safeguard manufacturing production lines."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR CARGO: GLOBAL VOLUMES DIP",
-            "tags": [
-                "Source: https://theloadstar.com/feed/",
+                "Source: https://splash247.com/box-port-delay-knock-out-nearly-an-evergreen-sized-fleet/",
                 "Published: 2026-08-17T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 4,
-            "heading": "AIR CARGO: GLOBAL VOLUMES DIP",
+            "id": 2,
+            "heading": "MARITIME: PANAMA QUEUE FEE HITS 4.6M",
             "paragraphs": [
-                "Worldwide air freight chargeable weight declined during the first full week of August, signaling a softer start to traditional peak shipping season demand. Global spot rates experienced a 6% month-over-month contraction as carriers readjust capacity allocations across primary lanes.",
-                "The temporary softening gives shippers a strategic window to negotiate annual contracts before autumn retail replenishment surges take hold. Cargo directors should lock in favorable charter rates while air carriers adjust capacity to match shifting market demand."
+                "Priority transit fees through the Panama Canal have reached a new record high of $4.6M as empty gas carriers bid aggressively to bypass lingering waterway bottlenecks. Middle East security disruptions and draft constraints continue to restrict available daily slot allocations across the vital interoceanic link.",
+                "Escalating priority auction costs are dramatically raising premium freight pricing baselines for energy and bulk commodity transporters. Logistics executives must evaluate whether premium canal tolls justify the schedule reliability gains over alternative Cape routes."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL FREIGHT: 200M CARGO THEFT",
+            "nextUpTease": "AIR CARGO: PEAK VOLUMES DIP",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-17T07:30:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T10:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "AIR CARGO: PEAK VOLUMES DIP",
+            "paragraphs": [
+                "Worldwide air freight chargeable weight experienced an unexpected volume contraction during the first full week of August, signaling a softer start to traditional peak shipping season demand. Global spot rates retreated 6% month over month as carriers readjusted regional capacity allocations across primary trade lanes.",
+                "The temporary market softening provides enterprise supply chain directors with a strategic opening to negotiate favorable annual charter contracts before autumn retail replenishment surges arrive. Cargo teams should lock in capacity now while airline operators adjust yields to meet fluctuating demand."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "GOVERNMENT: CDL RECORDS LAWSUIT",
+            "tags": [
+                "Source: https://www.supplychaindive.com/news/air-cargo-volumes-decline-xeneta/825000/",
+                "Published: 2026-08-17T08:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "GOVERNMENT: CDL RECORDS LAWSUIT",
+            "paragraphs": [
+                "A coalition of 22 state attorneys general has formally filed a lawsuit against federal transportation authorities to block mandatory data-sharing demands encompassing 17M truck driver records. The legal challenge targets federal agency directives requiring states to surrender five years of comprehensive commercial driver history files.",
+                "The ongoing regulatory clash introduces fresh compliance friction and uncertainty into motor carrier safety administration and driver vetting procedures. Fleet safety directors must monitor litigation updates closely to anticipate potential disruptions in driver qualification verification workflows."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME: HORMUZ TANKER ATTACK",
+            "tags": [
+                "Source: https://www.ttnews.com/articles/states-sue-dot-cdl-records",
+                "Published: 2026-08-17T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL FREIGHT: 200M CARGO THEFT",
+            "heading": "MARITIME: HORMUZ TANKER ATTACK",
             "paragraphs": [
-                "Organized criminal networks are inflicting over $200M in annual cargo losses across North American Class 1 intermodal rail networks. Rail operators are deploying advanced drone surveillance and partnering with federal task forces to protect high-value consumer electronics in transit.",
-                "Escalating theft incidents are driving up intermodal insurance deductibles and complicating loss liability settlements for shippers. Corporate risk officers must mandate active IoT container tracking and reinforce yard security protocols to deter cargo interception."
+                "Strait of Hormuz security risks intensified following another reported vessel attack on an Abu Dhabi operator's shuttle tanker operating within the volatile waterway. Shippers and energy logistics providers are increasingly relying on dark transits and sophisticated shuttle maneuvers to maintain crude oil flows out of the Persian Gulf.",
+                "Persistent regional hostilities are driving up marine hull insurance premiums and forcing risk-averse carriers to implement extensive route deviations around high-threat zones. Fuel procurement managers must incorporate widening risk surcharges into medium-term bunker budget forecasts."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE: USMCA UNCERTAINTY",
+            "nextUpTease": "FINANCE: DIANA ENDS TAKEOVER",
             "tags": [
-                "Source: https://www.ttnews.com/articles/train-cargo-theft-200m",
-                "Published: 2026-08-17T09:00:00Z",
+                "Source: https://splash247.com/dark-transits-keep-hormuz-oil-flowing/",
+                "Published: 2026-08-17T07:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AUTOMOTIVE: USMCA UNCERTAINTY",
+            "heading": "FINANCE: DIANA ENDS TAKEOVER",
             "paragraphs": [
-                "North American automotive manufacturers are facing intense strategic pressure as the future viability of the USMCA trade agreement comes under severe political scrutiny. Automakers heavily dependent on cross-border parts circulation are re-evaluating long-term assembly investments.",
-                "Regulatory uncertainty threatens to disrupt tightly integrated regional supply chains that rely on frictionless border crossings. Supply chain leaders must model alternative sourcing scenarios and expand domestic component manufacturing to mitigate potential trade pact dissolution."
+                "Greek shipowner Diana Shipping has officially withdrawn its acquisition proposal for Genco Shipping & Trading after target leadership established rigid defensive terms. The terminated buyout highlights growing valuation friction and strategic divergence among major publicly traded dry bulk operators.",
+                "Corporate consolidation moves in the dry bulk sector face growing headwinds as asset valuation gaps widen between acquirers and target boards. M&A strategists must recalibrate asset acquisition multiples against shifting charter market cash flow projections."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: AI DATA CENTER DEMAND",
+            "nextUpTease": "RAIL: CARGO THEFT MITIGATION",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-17T05:00:00Z",
+                "Source: https://splash247.com/diana-pulls-plug-on-genco-takeover/",
+                "Published: 2026-08-17T08:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PORTS: AI DATA CENTER DEMAND",
+            "heading": "RAIL: CARGO THEFT MITIGATION",
             "paragraphs": [
-                "The rapid expansion of artificial intelligence data centers is placing unprecedented strain on United States heavy-and-wide transport infrastructure. Port terminals and specialized heavy-haul carriers are struggling to move oversized electrical transformers and turbine components efficiently.",
-                "Infrastructure congestion and specialized equipment shortages are driving up project cargo logistics costs for energy and tech developers. Project freight managers must secure specialized transport assets months in advance to prevent severe site construction delays."
+                "North American Class I freight railroads are scaling up multi-million-dollar investments in active drone surveillance, barbed-wire infrastructure, and municipal police task forces to combat annual cargo thefts exceeding $200M. Organized criminal syndicates continue targeting high-value intermodal shipments parked within major rail yards.",
+                "Escalating intermodal inventory losses are inflating cargo insurance deductibles and complicating carrier liability settlements for logistics providers. Supply chain security officers must deploy real-time IoT tracking and enhanced perimeter defenses to safeguard high-value goods in transit."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com/feed/",
-                "Published: 2026-08-17T04:15:00Z",
+                "Source: https://www.ttnews.com/articles/train-cargo-theft-200m",
+                "Published: 2026-08-17T08:30:00Z",
                 "Status: Audited & True"
             ]
         }

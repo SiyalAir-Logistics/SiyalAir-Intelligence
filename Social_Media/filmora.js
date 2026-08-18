@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: FORCED LABOR TARIFFS EXPAND",
-                "teaserTitle": "LEGAL: DE MINIMIS LOOPHOLE CLOSED",
-                "visual_caption": "USTR implements forced labor tariffs across 60 trading nations. Importers must audit tier-one vendor networks to prevent customs seizures."
+                "headline": "MARITIME: PORT DELAYS REMOVE 1.7M TEU",
+                "teaserTitle": "MARITIME: PANAMA QUEUE FEE HITS 4.6M",
+                "visual_caption": "Persistent port congestion is effectively removing 1.7M TEU of effective fleet capacity worldwide. Supply chain managers must build extended dwell times into ocean contingency plans."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: DE MINIMIS LOOPHOLE CLOSED",
-                "teaserTitle": "MARITIME: PANAMA DRAUGHT LIMITS",
-                "visual_caption": "Trade court upholds the closure of the $800 de minimis exemption. E-commerce shippers must absorb higher landed costs."
+                "headline": "MARITIME: PANAMA QUEUE FEE HITS 4.6M",
+                "teaserTitle": "AIR CARGO: PEAK VOLUMES DIP",
+                "visual_caption": "Panama Canal priority transit fees reached $4.6M as empty gas carriers bypass waterway bottlenecks. Escalating priority auction costs are driving up premium freight pricing baselines."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: PANAMA DRAUGHT LIMITS",
-                "teaserTitle": "AIR CARGO: GLOBAL VOLUMES DIP",
-                "visual_caption": "Severe draught limits at the Panama Canal worsen global vessel bottlenecks. Shippers must secure alternative intermodal routes."
+                "headline": "AIR CARGO: PEAK VOLUMES DIP",
+                "teaserTitle": "GOVERNMENT: CDL RECORDS LAWSUIT",
+                "visual_caption": "Worldwide air cargo chargeable weight declined in the first week of August as peak demand softened. Global spot rates dropped 6% MoM as carriers readjust capacity allocations."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: GLOBAL VOLUMES DIP",
-                "teaserTitle": "RAIL FREIGHT: 200M CARGO THEFT",
-                "visual_caption": "Air freight volumes declined as global spot rates dropped 6% in August. Shippers can leverage softer rates for annual contracts."
+                "headline": "GOVERNMENT: CDL RECORDS LAWSUIT",
+                "teaserTitle": "MARITIME: HORMUZ TANKER ATTACK",
+                "visual_caption": "A coalition of 22 state attorneys general sued federal authorities over 17M driver records demands. The legal challenge introduces fresh compliance friction into motor carrier safety administration."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL FREIGHT: 200M CARGO THEFT",
-                "teaserTitle": "AUTOMOTIVE: USMCA UNCERTAINTY",
-                "visual_caption": "Organized cargo theft causes over $200M in annual losses for Class 1 rails. Fleets are deploying drones and active IoT sensors."
+                "headline": "MARITIME: HORMUZ TANKER ATTACK",
+                "teaserTitle": "FINANCE: DIANA ENDS TAKEOVER",
+                "visual_caption": "Strait of Hormuz security risks intensified after another reported shuttle tanker attack. Shippers are increasingly relying on dark transits to maintain Persian Gulf crude oil flows."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOMOTIVE: USMCA UNCERTAINTY",
-                "teaserTitle": "PORTS: AI DATA CENTER DEMAND",
-                "visual_caption": "Uncertainty surrounding USMCA challenges North American automotive supply chains. Manufacturers are evaluating domestic sourcing options."
+                "headline": "FINANCE: DIANA ENDS TAKEOVER",
+                "teaserTitle": "RAIL: CARGO THEFT MITIGATION",
+                "visual_caption": "Diana Shipping withdrew its Genco takeover offer after target leadership set rigid terms. The terminated buyout highlights growing valuation friction among major dry bulk operators."
             },
             {
                 "slide_index": 7,
-                "headline": "PORTS: AI DATA CENTER DEMAND",
+                "headline": "RAIL: CARGO THEFT MITIGATION",
                 "teaserTitle": "",
-                "visual_caption": "AI data center growth strains US heavy-and-wide transport infrastructure. Project managers must reserve specialized transport early."
+                "visual_caption": "Class I railroads are scaling up investments in drone surveillance to combat cargo thefts exceeding $200M. Supply chain security officers must deploy active IoT tracking to protect shipments."
             },
             {
                 "slide_index": 8,
