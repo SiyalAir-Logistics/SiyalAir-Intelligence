@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CUSTOMS TO FIGHT TRADE FRAUD WITH AI",
-        "titleBlue": "DETECTIVE",
-        "footerSummary": "White House report highlights AI detective border initiatives to curb transshipment trade fraud, protecting supply chain margins."
+        "titleWhite": "MAERSK TEARS UP FLEET",
+        "titleBlue": "CEILING",
+        "footerSummary": "Maersk abandons its long-standing containership capacity limit to pursue aggressive fleet growth as ocean carrier strategies shift."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CUSTOMS: AI DETECTIVE BORDER TO FIGHT TRADE FRAUD",
+            "heading": "MARITIME: MAERSK TEARS UP FLEET CEILING",
             "paragraphs": [
-                "A new White House report reveals that customs authorities are deploying advanced artificial intelligence systems to combat rising global transshipment fraud. These automated detective frameworks scan millions of import entries in real time to intercept misclassified cargo and shell company networks.",
-                "Importers must upgrade internal compliance systems to withstand rigorous algorithmic auditing at critical trade borders. Proactive digital verification prevents costly port delays and protects corporate balance sheets from severe civil penalties."
+                "Maersk is officially abandoning its long-standing containership capacity ceiling as CEO Vincent Clerc prepares the Danish carrier for renewed fleet growth. Throughout the 2020s, the company maintained strict asset limits, but surging cargo demand and shifting global trade routes have forced a complete strategic reversal.",
+                "Removing the capacity cap allows the ocean carrier to scale vessel deployment directly against expanding competitor networks. Logistics executives must factor this aggressive capacity injection into upcoming ocean contracting and vessel allocation strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: UPS TRANSFERS HONG KONG ROUTES",
+            "nextUpTease": "SUPPLY CHAIN: SUPERTANKER EARNINGS SURGE",
             "tags": [
-                "Source: https://www.freightwaves.com/news/feed",
-                "Published: 2026-08-18T08:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "AIR CARGO: UPS TRANSFERS HONG KONG ROUTES",
-            "paragraphs": [
-                "The Department of Transportation has officially approved the transfer of strategic UPS flight routes from Hong Kong to the Philippines. This regulatory adjustment alters critical intra-Asia freight distribution lanes and reshapes express delivery networks across the region.",
-                "Express carriers and air cargo operators must recalibrate flight schedules and hub allocations to maintain service level agreements for international shippers. Logistics planners should evaluate alternative transshipment options to avoid latency spikes in Asian delivery corridors."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME: MSC RESUMES SUEZ CANAL TRANSITS",
-            "tags": [
-                "Source: https://www.freightwaves.com/news/feed",
-                "Published: 2026-08-18T07:30:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "MARITIME: MSC RESUMES SUEZ CANAL TRANSITS",
-            "paragraphs": [
-                "Mediterranean Shipping Company has directed 7 container vessels to switch off tracking transponders as they resume scheduled transits through the Suez Canal. This tactical navigation shift allows ocean carriers to shorten transit times between Asian manufacturing hubs and European ports.",
-                "Re-entering high-risk maritime chokepoints requires careful insurance underwriting and risk assessment by enterprise logistics teams. Shippers must weigh reduced maritime transit days against potential security premiums and schedule volatility."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "REGULATION: TARIFF DEADLINE LOOMS FOR CANADA",
-            "tags": [
-                "Source: https://theloadstar.com/feed/",
+                "Source: https://splash247.com/maersk-tears-up-fleet-ceiling/",
                 "Published: 2026-08-18T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 4,
-            "heading": "REGULATION: TARIFF DEADLINE LOOMS FOR CANADA",
+            "id": 2,
+            "heading": "LOGISTICS: SUPERTANKER EARNINGS SURGE IN MIDEAST",
             "paragraphs": [
-                "The official countdown is active as trade authorities prepare to enforce sweeping 50% tariffs on goods moving across the Canadian border. This looming deadline accelerates industrial supply chain decoupling between North American manufacturing partners.",
-                "Automotive and industrial goods importers face catastrophic margin compression if cross-border sourcing models are not restructured immediately. Procurement executives must evaluate domestic tier-one suppliers to insulate baseline operations from punitive duty hikes."
+                "Crude oil supertanker earnings along Persian Gulf routes have skyrocketed to nearly $510K per day as exporters scramble for available vessels. Spiking Middle East tensions and surging shipments to Asian buyers have drastically compressed global tanker availability.",
+                "Escalating charter rates directly inflate maritime transport expenditures and drive up bunker surcharges across secondary trade lanes. Supply chain managers must secure long-term capacity agreements now to protect operating margins from runaway shipping costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMOTIVE: STELLANTIS ISSUES SOFTWARE RECALL",
+            "nextUpTease": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-18T05:15:00Z",
+                "Source: https://www.supplychainbrain.com/articles/41433-oil-supertanker-earnings-on-mideast-route-near-510000-a-day",
+                "Published: 2026-08-18T05:30:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
+            "paragraphs": [
+                "A seafarer has been killed in the latest targeted attack on merchant shipping navigating the volatile Strait of Hormuz. Concurrently, regional authorities claim to have detained a UAE-owned tanker for failing to comply with mandatory transit regimes.",
+                "Heightened military aggression across crucial Middle Eastern chokepoints forces immediate vessel rerouting and inflates war risk insurance premiums. Fleet operators must re-evaluate security protocols and contingency pathways to safeguard crew members and cargo."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "INFRASTRUCTURE: PANAMA QUEUE FEE HITS $4.6M",
+            "tags": [
+                "Source: https://splash247.com/seafarer-killed-in-latest-hormuz-strike/",
+                "Published: 2026-08-18T05:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "INFRASTRUCTURE: PANAMA QUEUE FEE HITS $4.6M",
+            "paragraphs": [
+                "An empty liquefied petroleum gas tanker has bypassed the entire Panama Canal transit queue after paying a record-breaking $4.6M fee. This staggering disbursement shatters previous priority-slot benchmarks as persistent regional shipping crises force extreme operational expenditures.",
+                "Carriers facing strict delivery deadlines must weigh exorbitant queue-jumping costs against severe port congestion penalties and inventory holding delays. Supply chain leaders should model these premium transit fees directly into urgent cargo allocation budgets."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
+            "tags": [
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AUTOMOTIVE: STELLANTIS ISSUES SOFTWARE RECALL",
+            "heading": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
             "paragraphs": [
-                "Stellantis has announced a massive recall affecting 850,000 U.S. vehicles due to a critical digital dashboard and powertrain software glitch. Dealership service networks and parts distribution centers face intense operational pressure to process repairs quickly.",
-                "Unexpected recalls disrupt inbound automotive aftermarket supply chains and inflate warranty logistics expenditures for manufacturing partners. Supply chain directors must secure flexible warehousing buffers to manage sudden surges in replacement component demand."
+                "Autonomous transport provider Einride has integrated 500 heavy-duty Tesla Semis into its active North American commercial fleet. This massive deployment triples the firm's operational footprint and accelerates zero-emission freight expansion across primary distribution corridors.",
+                "Fleet operators are aggressively adopting electric heavy-duty vehicles to insulate operations from volatile diesel fuel surcharges and strict environmental mandates. Logistics directors must evaluate charging infrastructure readiness to support large-scale EV fleet integration."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: EINRIDE EXPANDS TESLA SEMI FLEET",
+            "nextUpTease": "REGULATION: MOTUS ROLLOUT CREATES HEADACHES",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-17T22:00:00Z",
+                "Source: https://www.ttnews.com/articles/einride-tesla-semis",
+                "Published: 2026-08-18T04:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHNOLOGY: EINRIDE EXPANDS TESLA SEMI FLEET",
+            "heading": "REGULATION: MOTUS ROLLOUT CREATES HEADACHES",
             "paragraphs": [
-                "Autonomous freight pioneer Einride has successfully integrated 500 heavy-duty Tesla Semis into its active commercial transport network. This deployment represents a major milestone in scaling zero-emission freight operations across North American distribution corridors.",
-                "Fleet operators are aggressively adopting electric transport platforms to mitigate volatile diesel fuel expenses and satisfy corporate ESG mandates. Logistics executives must accelerate capital investments in high-capacity charging infrastructure to maintain competitive transport parity."
+                "The Federal Motor Carrier Safety Administration rollout of the new Motus motor carrier registration system has triggered widespread operational headaches across the U.S. trucking sector. Outdated carrier data within the platform is temporarily sidelining compliant fleets and complicating vetting procedures.",
+                "Shippers and brokers face severe friction when verifying motor carrier safety ratings and active operating authorities in a tightening market. Compliance teams must conduct proactive audits of vendor databases to prevent unauthorized carriers from moving loads."
             ],
             "imageUrl": "",
-            "nextUpTease": "ENERGY: OIL PRICES SURPASS 90 USD",
+            "nextUpTease": "COMPLIANCE: UPS HONG KONG ROUTES APPROVED",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.joc.com",
                 "Published: 2026-08-18T04:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ENERGY: OIL PRICES SURPASS 90 USD PER BARREL",
+            "heading": "COMPLIANCE: UPS HONG KONG ROUTES APPROVED",
             "paragraphs": [
-                "Global crude benchmarks have officially crossed 90 USD per barrel following sustained geopolitical conflict and supply disruptions in the Middle East. Higher petroleum costs immediately drive up bunker fuel surcharges and over-the-road freight transport rates worldwide.",
-                "Escalating energy expenditures erode operating margins for motor carriers and ocean liners, forcing carriers to pass fuel surcharges directly to shippers. Logistics managers must leverage dynamic route optimization software and multi-modal carrier agreements to control freight budgets."
+                "The Department of Transportation has officially authorized the transfer of strategic UPS air cargo flight routes from Hong Kong to the Philippines. This regulatory adjustment permanently alters intra-Asia freight distribution networks and express delivery timelines.",
+                "Air cargo forwarders must recalibrate hub allocations and flight schedules to maintain strict service level agreements for international shippers. Logistics planners should audit regional transit routes to avoid latency spikes across Asian supply chains."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-18T08:30:00Z",
+                "Source: https://www.freightwaves.com/news/dot-approves-ups-transfer-of-hong-kong-routes-to-philippines",
+                "Published: 2026-08-18T03:30:00Z",
                 "Status: Audited & True"
             ]
         }

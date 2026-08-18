@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CUSTOMS: AI DETECTIVE BORDER TO FIGHT TRADE FRAUD",
-                "teaserTitle": "AIR CARGO: UPS TRANSFERS HONG KONG ROUTES",
-                "visual_caption": "Customs authorities are deploying advanced AI frameworks to intercept transshipment fraud at borders. Importers must upgrade compliance systems to prevent severe penalties."
+                "headline": "MARITIME: MAERSK TEARS UP FLEET CEILING",
+                "teaserTitle": "SUPPLY CHAIN: SUPERTANKER EARNINGS SURGE",
+                "visual_caption": "Maersk is officially abandoning its long-standing container capacity limit to pursue aggressive fleet growth. Removing this cap allows the carrier to scale vessel deployment against expanding competitor networks."
             },
             {
                 "slide_index": 2,
-                "headline": "AIR CARGO: UPS TRANSFERS HONG KONG ROUTES",
-                "teaserTitle": "MARITIME: MSC RESUMES SUEZ CANAL TRANSITS",
-                "visual_caption": "Regulators approved the transfer of UPS flight routes from Hong Kong to the Philippines. This adjustment alters critical express delivery networks across the region."
+                "headline": "LOGISTICS: SUPERTANKER EARNINGS SURGE IN MIDEAST",
+                "teaserTitle": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
+                "visual_caption": "Crude oil supertanker earnings along Persian Gulf routes have surged to nearly $510K per day. Spiking Middle East tensions have severely restricted global vessel availability and inflated shipping costs."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: MSC RESUMES SUEZ CANAL TRANSITS",
-                "teaserTitle": "REGULATION: TARIFF DEADLINE LOOMS FOR CANADA",
-                "visual_caption": "MSC directed 7 vessels through the Suez Canal to shorten maritime transit times. Shippers must weigh reduced transit days against potential security premiums."
+                "headline": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
+                "teaserTitle": "INFRASTRUCTURE: PANAMA QUEUE FEE HITS $4.6M",
+                "visual_caption": "A seafarer has been killed in the latest targeted attack on merchant shipping in the Strait of Hormuz. Regional conflicts continue to drive up war risk insurance premiums and force emergency rerouting."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: TARIFF DEADLINE LOOMS FOR CANADA",
-                "teaserTitle": "AUTOMOTIVE: STELLANTIS ISSUES SOFTWARE RECALL",
-                "visual_caption": "Trade authorities are preparing to enforce 50% tariffs across the Canadian border. Procurement executives must evaluate domestic suppliers to insulate operations."
+                "headline": "INFRASTRUCTURE: PANAMA QUEUE FEE HITS $4.6M",
+                "teaserTitle": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
+                "visual_caption": "An empty tanker bypassed the Panama Canal queue after paying a record $4.6M priority fee. Shippers must weigh these exorbitant costs against severe port congestion and inventory holding delays."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTOMOTIVE: STELLANTIS ISSUES SOFTWARE RECALL",
-                "teaserTitle": "TECHNOLOGY: EINRIDE EXPANDS TESLA SEMI FLEET",
-                "visual_caption": "Stellantis recalled 850K vehicles due to a critical software glitch. Dealership service networks face intense operational pressure to process repairs quickly."
+                "headline": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
+                "teaserTitle": "REGULATION: MOTUS ROLLOUT CREATES HEADACHES",
+                "visual_caption": "Einride has integrated 500 heavy-duty Tesla Semis into its active North American transport network. Fleet operators are aggressively adopting electric vehicles to mitigate volatile fuel expenses."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: EINRIDE EXPANDS TESLA SEMI FLEET",
-                "teaserTitle": "ENERGY: OIL PRICES SURPASS 90 USD",
-                "visual_caption": "Einride integrated 500 Tesla Semis into its active commercial transport network. Fleet operators are adopting zero-emission transport to offset diesel expenses."
+                "headline": "REGULATION: MOTUS ROLLOUT CREATES HEADACHES",
+                "teaserTitle": "COMPLIANCE: UPS HONG KONG ROUTES APPROVED",
+                "visual_caption": "The new Motus motor carrier registration rollout has triggered widespread operational headaches across the U.S. trucking sector. Outdated platform data is temporarily sidelining compliant transport fleets."
             },
             {
                 "slide_index": 7,
-                "headline": "ENERGY: OIL PRICES SURPASS 90 USD PER BARREL",
+                "headline": "COMPLIANCE: UPS HONG KONG ROUTES APPROVED",
                 "teaserTitle": "",
-                "visual_caption": "Global crude benchmarks surpassed $90 per barrel following persistent Middle East supply disruptions. Higher petroleum costs immediately drive up global freight rates."
+                "visual_caption": "Transportation authorities have approved the transfer of strategic UPS flight routes from Hong Kong to the Philippines. Forwarders must recalibrate regional hub allocations to maintain delivery timelines."
             },
             {
                 "slide_index": 8,
