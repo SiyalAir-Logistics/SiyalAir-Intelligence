@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: STATES SUE OVER 17M CDL",
-                "teaserTitle": "MARITIME: 1.7M TEU CAPACITY STRANDED",
-                "visual_caption": "22 states are suing the DOT over access to 17M commercial driver records. The legal challenge creates compliance uncertainty for national motor carriers managing qualification files."
+                "headline": "REGULATION: FORCED LABOR TARIFFS EXPAND",
+                "teaserTitle": "LEGAL: DE MINIMIS LOOPHOLE CLOSED",
+                "visual_caption": "USTR implements forced labor tariffs across 60 trading nations. Importers must audit tier-one vendor networks to prevent customs seizures."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: 1.7M TEU CAPACITY STRANDED",
-                "teaserTitle": "CANAL: RECORD 4.6M QUEUE JUMP FEE",
-                "visual_caption": "Global port congestion has immobilized 1.7M TEU of containership capacity across key transshipment hubs. This supply constriction is driving spot rate volatility and reducing schedule reliability."
+                "headline": "LEGAL: DE MINIMIS LOOPHOLE CLOSED",
+                "teaserTitle": "MARITIME: PANAMA DRAUGHT LIMITS",
+                "visual_caption": "Trade court upholds the closure of the $800 de minimis exemption. E-commerce shippers must absorb higher landed costs."
             },
             {
                 "slide_index": 3,
-                "headline": "CANAL: RECORD 4.6M QUEUE JUMP FEE",
-                "teaserTitle": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
-                "visual_caption": "A gas carrier paid a record $4.6M to bypass Panama Canal vessel queues. Unplanned transit premiums are dramatically altering voyage profitability and shifting bulk trade economics."
+                "headline": "MARITIME: PANAMA DRAUGHT LIMITS",
+                "teaserTitle": "AIR CARGO: GLOBAL VOLUMES DIP",
+                "visual_caption": "Severe draught limits at the Panama Canal worsen global vessel bottlenecks. Shippers must secure alternative intermodal routes."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
-                "teaserTitle": "RAIL: 200M ANNUAL CARGO THEFT",
-                "visual_caption": "Commercial tankers in the Strait of Hormuz are navigating dark transit corridors following maritime strikes. War-risk insurance premiums and security surcharges are climbing across Gulf origins."
+                "headline": "AIR CARGO: GLOBAL VOLUMES DIP",
+                "teaserTitle": "RAIL FREIGHT: 200M CARGO THEFT",
+                "visual_caption": "Air freight volumes declined as global spot rates dropped 6% in August. Shippers can leverage softer rates for annual contracts."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: 200M ANNUAL CARGO THEFT",
-                "teaserTitle": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
-                "visual_caption": "Organized freight syndicates inflict over $200M in annual cargo losses on Class 1 rail networks. Carriers are responding by deploying drone fleets and federal task forces along key routes."
+                "headline": "RAIL FREIGHT: 200M CARGO THEFT",
+                "teaserTitle": "AUTOMOTIVE: USMCA UNCERTAINTY",
+                "visual_caption": "Organized cargo theft causes over $200M in annual losses for Class 1 rails. Fleets are deploying drones and active IoT sensors."
             },
             {
                 "slide_index": 6,
-                "headline": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
-                "teaserTitle": "PENTAGON: 2B CRITICAL MINERAL DEALS",
-                "visual_caption": "Carriers initiated scheduled weekly container sailings along Russia's Northern Sea Route to Europe. The polar transit route offers shorter transit times but introduces severe navigational constraints."
+                "headline": "AUTOMOTIVE: USMCA UNCERTAINTY",
+                "teaserTitle": "PORTS: AI DATA CENTER DEMAND",
+                "visual_caption": "Uncertainty surrounding USMCA challenges North American automotive supply chains. Manufacturers are evaluating domestic sourcing options."
             },
             {
                 "slide_index": 7,
-                "headline": "PENTAGON: 2B CRITICAL MINERAL DEALS",
+                "headline": "PORTS: AI DATA CENTER DEMAND",
                 "teaserTitle": "",
-                "visual_caption": "The Pentagon signed over $2B in deals securing batteries and critical minerals for supply chain resilience. This industrial funding aims to eliminate foreign vulnerabilities in manufacturing."
+                "visual_caption": "AI data center growth strains US heavy-and-wide transport infrastructure. Project managers must reserve specialized transport early."
             },
             {
                 "slide_index": 8,

@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "STATES SUE OVER 17M CDL",
-        "titleBlue": "RECORDS",
-        "footerSummary": "State attorneys general sue DOT over 17M CDL records while container port congestion strands 1.7M TEU globally."
+        "titleWhite": "FORCED LABOR TARIFFS",
+        "titleBlue": "EXPAND",
+        "footerSummary": "USTR expands forced labor tariffs across 60 trading nations as court upholds de minimis loophole closure."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GOVERNMENT: STATES SUE OVER 17M CDL",
+            "heading": "REGULATION: FORCED LABOR TARIFFS EXPAND",
             "paragraphs": [
-                "A coalition of 22 state attorneys general has filed federal litigation against the Department of Transportation to halt an administrative mandate demanding immediate access to 17M commercial driver records. The legal challenge targets federal data surveillance overreach and potential disruptions to interstate trucking operations.",
-                "Regulatory friction creates operational uncertainty for national motor carriers managing commercial driver qualification files. Logistics compliance managers must audit cross-border carrier rosters and prepare for state-level administrative enforcement delays."
+                "The Office of the United States Trade Representative has officially moved forward with sweeping tariff enforcement on 60 trading partners under Section 301. The regulatory action targets goods linked to forced labor practices as legacy trade exemptions phase out across global supply chains.",
+                "Importers face immediate compliance audits and complex documentation burdens to verify raw material origins across tier-two and tier-three vendor networks. Sourcing directors must restructure supplier contracts to prevent unexpected customs seizures and duty penalties at destination ports."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: 1.7M TEU CAPACITY STRANDED",
+            "nextUpTease": "LEGAL: DE MINIMIS LOOPHOLE CLOSED",
             "tags": [
-                "Source: https://www.ttnews.com/articles/states-sue-dot-cdl-records",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-17T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: 1.7M TEU CAPACITY STRANDED",
+            "heading": "LEGAL: DE MINIMIS LOOPHOLE CLOSED",
             "paragraphs": [
-                "Global port congestion has effectively immobilized 1.7M TEU of container vessel capacity, removing an allocation equivalent to an entire top-tier ocean carrier from active commercial circulation. Persistent terminal dwell times across Asian transshipment hubs and European gateways have created compounding vessel arrival delays.",
-                "The artificial supply constriction is driving spot rate volatility and reducing liner schedule reliability across key East-West trade loops. Supply chain directors must secure buffer inventory cycles and negotiate priority discharge clauses to avoid production halts."
+                "The federal trade court has officially upheld the complete elimination of low-value duty exemptions, legally closing the $800 de minimis loophole. E-commerce platforms and direct-to-consumer logistics providers can no longer bypass standard customs inspection or entry processing for parcels.",
+                "Cross-border shipping models relying on tax-free parcel exemptions must absorb higher landed costs and slower clearance times at air and ocean hubs. Supply chain managers are pivoting toward bulk inventory consolidation and formal entry compliance strategies to maintain delivery margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "CANAL: RECORD 4.6M QUEUE JUMP FEE",
+            "nextUpTease": "MARITIME: PANAMA DRAUGHT LIMITS",
             "tags": [
-                "Source: https://splash247.com/box-port-delays-knock-out-nearly-an-evergreen-sized-fleet/",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-16T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CANAL: RECORD 4.6M QUEUE JUMP FEE",
+            "heading": "MARITIME: PANAMA DRAUGHT LIMITS",
             "paragraphs": [
-                "An empty liquefied petroleum gas carrier paid a record-breaking $4.6M auction surcharge to bypass extended vessel queues at the Panama Canal. Persistent draft restrictions and geopolitical diversion away from Middle Eastern transit points have escalated auction bidding to unprecedented historic highs.",
-                "Unplanned transit premiums are dramatically altering vessel voyage profitability and shifting bulk trade economics. Energy traders and bulk charterers must incorporate dynamic routing models to balance multi-million-dollar canal surcharges against extended Cape voyages."
+                "Severe draught restrictions and compounding Middle East security disruptions are exacerbating vessel bottlenecks throughout the Panama Canal network. Container lines and bulk operators face mounting schedule unreliability as transit slots remain heavily constrained by environmental factors.",
+                "Unplanned routing delays and mandatory weight restrictions are driving up ocean freight spot rates across major East-West trade corridors. Logistics planners must secure alternative intermodal routing and buffer inventory pools to safeguard manufacturing production lines."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
+            "nextUpTease": "AIR CARGO: GLOBAL VOLUMES DIP",
             "tags": [
-                "Source: https://www.inboundlogistics.com/articles/panama-canal-queue-jump-fee-passes-4m/",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://theloadstar.com/feed/",
+                "Published: 2026-08-17T06:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
+            "heading": "AIR CARGO: GLOBAL VOLUMES DIP",
             "paragraphs": [
-                "Commercial energy tankers operating through the Strait of Hormuz are increasingly turning off transponders and navigating dark transit corridors following fresh maritime strikes. Regional vessel seizures and drone incidents have disrupted traditional Gulf shipping lanes, forcing charterers into high-risk convoy operations.",
-                "War-risk insurance premiums and security surcharges are climbing rapidly across all Persian Gulf cargo origins. Petroleum procurement managers and maritime operators must review contractual force majeure terms and secure flexible secondary bunker reserves."
+                "Worldwide air freight chargeable weight declined during the first full week of August, signaling a softer start to traditional peak shipping season demand. Global spot rates experienced a 6% month-over-month contraction as carriers readjust capacity allocations across primary lanes.",
+                "The temporary softening gives shippers a strategic window to negotiate annual contracts before autumn retail replenishment surges take hold. Cargo directors should lock in favorable charter rates while air carriers adjust capacity to match shifting market demand."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: 200M ANNUAL CARGO THEFT",
+            "nextUpTease": "RAIL FREIGHT: 200M CARGO THEFT",
             "tags": [
-                "Source: https://splash247.com/dark-transits-keep-hormuz-oil-flowing/",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAIL: 200M ANNUAL CARGO THEFT",
+            "heading": "RAIL FREIGHT: 200M CARGO THEFT",
             "paragraphs": [
-                "Organized freight theft syndicates are inflicting over $200M in annual cargo losses on North American Class 1 rail networks, prompting carriers to deploy drone fleets and federal joint task forces. Intermodal trains transporting high-value consumer electronics and retail merchandise remain primary targets.",
-                "Escalating theft patterns are raising intermodal insurance deductibles and complicating carrier liability settlements for high-value cargo. Corporate risk officers must enforce active container sensor tracking and re-evaluate inland freight security protocols."
+                "Organized criminal networks are inflicting over $200M in annual cargo losses across North American Class 1 intermodal rail networks. Rail operators are deploying advanced drone surveillance and partnering with federal task forces to protect high-value consumer electronics in transit.",
+                "Escalating theft incidents are driving up intermodal insurance deductibles and complicating loss liability settlements for shippers. Corporate risk officers must mandate active IoT container tracking and reinforce yard security protocols to deter cargo interception."
             ],
             "imageUrl": "",
-            "nextUpTease": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
+            "nextUpTease": "AUTOMOTIVE: USMCA UNCERTAINTY",
             "tags": [
                 "Source: https://www.ttnews.com/articles/train-cargo-theft-200m",
-                "Published: 2026-08-17T00:00:00Z",
+                "Published: 2026-08-17T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
+            "heading": "AUTOMOTIVE: USMCA UNCERTAINTY",
             "paragraphs": [
-                "Ocean carrier Sea Legend initiated scheduled weekly container sailings along Russia's Northern Sea Route between Chinese hubs and European ports. The regular Arctic corridor deployment utilizes specialized 1,740 TEU ice-class container vessels to compress transit schedules.",
-                "The polar transit route offers up to 40% shorter transit times compared to traditional southern sea routes, but introduces severe operational and environmental compliance constraints. Forwarders evaluating Arctic corridors must weigh transit speed against extreme navigational vulnerabilities."
+                "North American automotive manufacturers are facing intense strategic pressure as the future viability of the USMCA trade agreement comes under severe political scrutiny. Automakers heavily dependent on cross-border parts circulation are re-evaluating long-term assembly investments.",
+                "Regulatory uncertainty threatens to disrupt tightly integrated regional supply chains that rely on frictionless border crossings. Supply chain leaders must model alternative sourcing scenarios and expand domestic component manufacturing to mitigate potential trade pact dissolution."
             ],
             "imageUrl": "",
-            "nextUpTease": "PENTAGON: 2B CRITICAL MINERAL DEALS",
+            "nextUpTease": "PORTS: AI DATA CENTER DEMAND",
             "tags": [
-                "Source: https://splash247.com/chinas-arctic-container-experiment-turns-into-weekly-service/",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-17T05:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PENTAGON: 2B CRITICAL MINERAL DEALS",
+            "heading": "PORTS: AI DATA CENTER DEMAND",
             "paragraphs": [
-                "The Pentagon's Office of Strategic Capital signed over $2B in conditional loan commitments with domestic entities to secure essential battery components and critical minerals. This industrial funding aims to eliminate foreign vulnerabilities in the military and commercial logistics supply chain.",
-                "Securing localized critical mineral processing protects advanced manufacturing operations from sudden international export curbs and trade disputes. Procurement strategists must realign tier-one vendor networks to leverage federally backed domestic material processing hubs."
+                "The rapid expansion of artificial intelligence data centers is placing unprecedented strain on United States heavy-and-wide transport infrastructure. Port terminals and specialized heavy-haul carriers are struggling to move oversized electrical transformers and turbine components efficiently.",
+                "Infrastructure congestion and specialized equipment shortages are driving up project cargo logistics costs for energy and tech developers. Project freight managers must secure specialized transport assets months in advance to prevent severe site construction delays."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://theloadstar.com/feed/",
+                "Published: 2026-08-17T04:15:00Z",
                 "Status: Audited & True"
             ]
         }

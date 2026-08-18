@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "STATES SUE OVER SEVENTEEN MILLION CDL RECORDS",
+        "hookTitle": "FORCED LABOR TARIFFS EXPAND",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: STATES SUE OVER 17M CDL",
-                "teaserTitle": "MARITIME: 1.7M TEU CAPACITY STRANDED",
+                "headline": "REGULATION: FORCED LABOR TARIFFS EXPAND",
+                "teaserTitle": "LEGAL: DE MINIMIS LOOPHOLE CLOSED",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Twenty-two states are suing the Department of Transportation over access to seventeen million commercial driver records. The legal challenge creates operational uncertainty for national motor carriers managing driver qualification files."
+                "narration_line": "The United States trade representative is implementing forced labor tariffs across sixty nations. Importers must audit supply chains immediately to avoid severe customs penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: 1.7M TEU CAPACITY STRANDED",
-                "teaserTitle": "CANAL: RECORD 4.6M QUEUE JUMP FEE",
+                "headline": "LEGAL: DE MINIMIS LOOPHOLE CLOSED",
+                "teaserTitle": "MARITIME: PANAMA DRAUGHT LIMITS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Global port congestion has immobilized one point seven million TEU of containership capacity across key transshipment hubs. This artificial supply constriction is driving spot rate volatility and reducing liner schedule reliability."
+                "narration_line": "Federal trade courts have officially upheld the elimination of the eight hundred dollar de minimis exemption. Direct-to-consumer shippers now face higher landed import costs."
             },
             {
                 "slide_index": 3,
-                "headline": "CANAL: RECORD 4.6M QUEUE JUMP FEE",
-                "teaserTitle": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
+                "headline": "MARITIME: PANAMA DRAUGHT LIMITS",
+                "teaserTitle": "AIR CARGO: GLOBAL VOLUMES DIP",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "An empty gas carrier paid a record four point six million dollars to bypass Panama Canal vessel queues. Unplanned transit premiums are dramatically altering vessel voyage profitability and shifting bulk trade economics."
+                "narration_line": "Severe draught restrictions at the Panama Canal are worsening global container vessel congestion. Shippers must secure alternative intermodal routing to prevent delays."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: HORMUZ TANKER TRANSIT CRISIS",
-                "teaserTitle": "RAIL: 200M ANNUAL CARGO THEFT",
+                "headline": "AIR CARGO: GLOBAL VOLUMES DIP",
+                "teaserTitle": "RAIL FREIGHT: 200M CARGO THEFT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Commercial tankers in the Strait of Hormuz are turning off transponders following fresh maritime security incidents. War risk insurance premiums and security surcharges are climbing rapidly across Persian Gulf origins."
+                "narration_line": "Global air freight volumes declined during the first week of August with spot rates softening. Cargo directors should negotiate annual contracts before autumn surges."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: 200M ANNUAL CARGO THEFT",
-                "teaserTitle": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
+                "headline": "RAIL FREIGHT: 200M CARGO THEFT",
+                "teaserTitle": "AUTOMOTIVE: USMCA UNCERTAINTY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Organized freight syndicates inflict over two hundred million dollars in annual cargo losses on Class one rail networks. Carriers are responding by deploying drone fleets and federal joint task forces along key routes."
+                "narration_line": "Organized criminal syndicates inflict over two hundred million dollars in annual rail cargo thefts. Carriers are deploying drone surveillance to protect high-value loads."
             },
             {
                 "slide_index": 6,
-                "headline": "CORRIDORS: WEEKLY ARCTIC CONTAINER ROUTE",
-                "teaserTitle": "PENTAGON: 2B CRITICAL MINERAL DEALS",
+                "headline": "AUTOMOTIVE: USMCA UNCERTAINTY",
+                "teaserTitle": "PORTS: AI DATA CENTER DEMAND",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Ocean carriers initiated scheduled weekly container sailings along Russia's Northern Sea Route to Europe. The polar transit route offers significantly shorter transit times but introduces severe navigational constraints."
+                "narration_line": "Uncertainty surrounding the future of the U S M C A challenges North American automotive manufacturers. Leaders must model alternative cross-border sourcing strategies."
             },
             {
                 "slide_index": 7,
-                "headline": "PENTAGON: 2B CRITICAL MINERAL DEALS",
+                "headline": "PORTS: AI DATA CENTER DEMAND",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Pentagon signed over two billion dollars in deals securing batteries and critical minerals for supply chain resilience. This industrial funding aims to eliminate foreign vulnerabilities in advanced manufacturing networks."
+                "narration_line": "The artificial intelligence boom is straining U S heavy-and-wide transport infrastructure. Project managers must secure specialized transport assets months in advance."
             },
             {
                 "slide_index": 8,
