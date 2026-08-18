@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4.6 MILLION DOLLARS",
+        "hookTitle": "DIESEL MARGINS HIT RECORD HIGH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
-                "teaserTitle": "FUEL: DIESEL MARGINS HIT RECORD HIGH",
+                "headline": "FUEL: DIESEL MARGINS HIT RECORD HIGH",
+                "teaserTitle": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker will cut the Panama Canal queue after paying a record four point six million dollars. The massive fee highlights severe maritime congestion and rising transit costs."
+                "narration_line": "U.S. diesel refining margins have climbed past one hundred dollars a barrel to reach an all-time high amid tightening inventories. Motor carriers are passing surging fuel surcharges directly to enterprise shippers, elevating baseline transportation expenses."
             },
             {
                 "slide_index": 2,
-                "headline": "FUEL: DIESEL MARGINS HIT RECORD HIGH",
-                "teaserTitle": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
+                "headline": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
+                "teaserTitle": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "U.S. diesel refining margins have climbed past one hundred dollars a barrel to reach record highs. Motor carriers are passing these elevated fuel costs directly to shippers."
+                "narration_line": "Germany\u2019s main service union has launched a daylong warning strike across six seaports, halting container operations. Supply chain planners must prepare for cascading vessel bunching and extended dwell times throughout European gateways."
             },
             {
                 "slide_index": 3,
-                "headline": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
-                "teaserTitle": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
+                "headline": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
+                "teaserTitle": "REGULATORY: STATES SUE OVER CDL RECORDS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "German union strikes have brought six major seaports and container operations to a standstill. Supply chains must prepare for cascading vessel delays across European gateways."
+                "narration_line": "A seafarer has been killed in the latest merchant shipping attack in the Strait of Hormuz. Vessel operators are forced to reassess security protocols and war risk insurance premiums for Middle Eastern shipping lanes."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
-                "teaserTitle": "SECURITY: BULKER ATTACKED IN HORMUZ STRAIT",
+                "headline": "REGULATORY: STATES SUE OVER CDL RECORDS",
+                "teaserTitle": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Einride is adding five hundred Tesla Semis to triple its North American electric fleet. Shippers gain sustainable linehaul capacity ahead of strict new emissions rules."
+                "narration_line": "A coalition of twenty-two states has filed a federal lawsuit challenging the Department of Transportation's commercial driver records demand. Fleet safety directors must monitor legal proceedings to anticipate potential qualification verification disruptions."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: BULKER ATTACKED IN HORMUZ STRAIT",
-                "teaserTitle": "REGULATORY: STATES SUE OVER CDL RECORDS",
+                "headline": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
+                "teaserTitle": "INFRASTRUCTURE: NEW ORLEANS CONTAINER TERMINAL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A bulk carrier attack near Oman resulted in a seafarer fatality in the Strait of Hormuz. Vessel operators are reassessing war risk insurance and alternative routing."
+                "narration_line": "Autonomous freight operator Einride is integrating five hundred Tesla Semis into its North American fleet. This massive asset expansion extends heavy-duty electric freight corridors across key logistics hubs in the United States."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: STATES SUE OVER CDL RECORDS",
-                "teaserTitle": "INFRASTRUCTURE: NEW ORLEANS CONTAINER TERMINAL",
+                "headline": "INFRASTRUCTURE: NEW ORLEANS CONTAINER TERMINAL",
+                "teaserTitle": "AIR CARGO: MUTED PEAK SEASON ACTIVITY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Twenty-two states are suing the federal government over demands to access seventeen million driver records. Fleets face growing administrative compliance friction across state lines."
+                "narration_line": "Federal permits have been granted for a one point five billion dollar greenfield container terminal on the Mississippi River. The deepwater facility will accommodate ultra-large container ships with fifty-foot drafts for southern shippers."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: NEW ORLEANS CONTAINER TERMINAL",
+                "headline": "AIR CARGO: MUTED PEAK SEASON ACTIVITY",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "New Orleans has secured federal approval to build the first Gulf greenfield terminal in twenty years. The deepwater facility will expand container handling capacity."
+                "narration_line": "Global air cargo volumes have declined as spot rates drop six percent month over month across major lanes. Logistics managers can leverage softening rates to optimize expedited inventory replenishment budgets without peak surcharges."
             },
             {
                 "slide_index": 8,
