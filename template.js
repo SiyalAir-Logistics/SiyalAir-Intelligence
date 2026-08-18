@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SECTION 301",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR enforces Section 301 tariffs across 60 nations while Louisiana secures final permits for a $2B container terminal."
+        "titleWhite": "PANAMA CANAL QUEUE",
+        "titleBlue": "FEES",
+        "footerSummary": "Panama Canal queue-jump fees hit $4.6M while port congestion removes 1.7M TEU of capacity globally."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: SECTION 301 TARIFFS",
+            "heading": "LOGISTICS: PANAMA CANAL QUEUE FEES",
             "paragraphs": [
-                "The Office of the United States Trade Representative has enacted sweeping forced labor tariffs under Section 301 against 60 trading partner nations following the expiration of emergency Section 122 duties. The enforcement framework mandates comprehensive supplier-origin tracking across all inbound consumer and industrial commodity manifests.",
-                "Importers must absorb immediate duty escalations and severe border clearance audits unless complete tier-four supply chain provenance is established. Logistics directors are actively reviewing partner country sourcing footprints to mitigate direct margin degradation."
+                "An empty liquefied petroleum gas tanker paid a record $4.6M fee to bypass the transit queue at the Panama Canal, according to a recent shipping report. This marks the highest publicly reported queue-jump expenditure to date, surpassing the previous high of $3.975M amid ongoing Middle East waterway disruptions.",
+                "Shippers face escalating operational expenses as priority transit fees become a mandatory capital outlay for urgent vessel scheduling. Logistics managers must factor these soaring premium costs into route planning to protect cargo delivery timelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: $2B LOUISIANA TERMINAL PERMIT",
+            "nextUpTease": "CONTAINERS: 1.7M TEU PORT CONGESTION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-17T18:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORTS: $2B LOUISIANA TERMINAL PERMIT",
+            "heading": "CONTAINERS: 1.7M TEU PORT CONGESTION",
             "paragraphs": [
-                "Federal authorities have issued final permit approvals for the $2B Louisiana International Terminal project in New Orleans, clearing the way to begin ground construction before the end of the year. The multi-modal facility is engineered to accommodate ultra-large container vessels and alleviate recurring Gulf Coast marine bottleneck pressure.",
-                "The terminal expansion introduces a high-capacity alternative gateway for Mid-America intermodal rail and inland waterway freight. Ocean carriers and beneficial cargo owners must evaluate routing shifts away from congested Atlantic hubs to capture lower drayage costs."
+                "Persistent global port congestion is effectively removing approximately 1.7M TEU of containership capacity from active circulation, matching the entire fleet size of major carriers. Copenhagen-based consultancy Sea-Intelligence reports that vessel delays are severely tightening available box space across key maritime trade corridors.",
+                "The capacity deficit is driving schedule unreliability and forcing beneficial cargo owners to absorb extended transit lead times. Supply chain planners must secure multi-carrier service agreements early to mitigate unexpected equipment shortages."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: $10.3B PINGLU CANAL",
+            "nextUpTease": "CUSTOMS: DE MINIMIS LEGAL BURIAL",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-17T16:30:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "INFRASTRUCTURE: $10.3B PINGLU CANAL",
+            "heading": "CUSTOMS: DE MINIMIS LEGAL BURIAL",
             "paragraphs": [
-                "China has successfully executed initial trial navigation along the new 83.4-mile Pinglu Canal ahead of its scheduled commercial opening next month. The $10.3B state engineering corridor links inland manufacturing centers directly to the Beibu Gulf and Southeast Asian maritime corridors.",
-                "The waterway shortens inland export transits by more than 10 days compared to traditional Yangtze River routes, significantly lowering transit inventory capital. Multimodal operators are establishing regional barge schedules to capture anticipated Southeast Asian manufacturing feeder traffic."
+                "The U.S. Court of International Trade has issued a final ruling upholding the elimination of low-value de minimis customs exemptions, shutting down the controversial $800 duty-free import loophole. Cross-border e-commerce parcels now face mandatory itemized tariff assessment and strict automated compliance audits at all entry points.",
+                "Direct-to-consumer retailers must completely overhaul their fulfillment models to handle increased brokerage fees and administrative clearance delays. Importers are rapidly shifting toward consolidated bulk freight shipments to maintain cost efficiency."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS: EU DE MINIMIS END",
+            "nextUpTease": "LEGAL: 22 STATES SUE DOT OVER CDLS",
             "tags": [
                 "Source: https://theloadstar.com",
-                "Published: 2026-08-17T14:15:00Z",
+                "Published: 2026-08-16T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CUSTOMS: EU DE MINIMIS END",
+            "heading": "LEGAL: 22 STATES SUE DOT OVER CDLS",
             "paragraphs": [
-                "European air cargo volumes and freight spot rates have contracted sharply following the formal legal elimination of the low-value de minimis customs duty exemption. Cross-border e-commerce consignments face full standard tariff assessment and automated itemized electronic clearance at all European entry gateways.",
-                "Direct-to-consumer platforms must re-engineer bulk fulfillment networks to absorb added brokerage handling fees and compliance delays. Air freight forwarders face volatile schedule adjustments as cross-border package volumes shift toward consolidated ocean and rail freight."
+                "A coalition of 22 state attorneys general has filed a federal lawsuit against the U.S. Department of Transportation and the FMCSA over demands to turn over 5 million driver records within a tight window. The legal challenge targets federal overreach regarding state motor vehicle database access and privacy compliance mandates.",
+                "The ongoing litigation threatens to disrupt driver qualification verifications and administrative credential renewals across national fleet operations. Motor carriers should prepare for potential background check bottlenecks as regulatory oversight disputes play out."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SANCTIONED TANKER SCRAPPING",
+            "nextUpTease": "FINANCE: PENTAGON CRITICAL MINERAL DEALS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-17T12:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: SANCTIONED TANKER SCRAPPING",
+            "heading": "FINANCE: PENTAGON CRITICAL MINERAL DEALS",
             "paragraphs": [
-                "Sanctioned vessels have surged to represent 58% of all global tanker recycling transactions this year, with 26 targeted hulls totaling 2.1M DWT sold for demolition. Tightening maritime enforcement frameworks and strict port state controls have rendered older shadow fleet tonnage commercially inoperable.",
-                "The aggressive removal of non-compliant tonnage is tightening active liquid bulk capacity across secondary trade routes and elevating charter quality standards. Energy logistics teams must verify vessel compliance histories to avoid secondary sanction enforcement penalties."
+                "The Department of Defense has executed over $2B in conditional loan commitments through its Office of Strategic Capital to secure domestic battery manufacturing and critical mineral refining. Recipients including Sila Technologies and Niron Magnetics will scale local production quotas to isolate industrial supply chains from foreign dependencies.",
+                "Original equipment manufacturers must adapt procurement frameworks to align with emerging federal domestic processing compliance standards. Supply chain leaders are establishing segregated inventory tracking mechanisms to verify clean material lineages."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: SOMALI PIRACY TASKFORCE",
+            "nextUpTease": "TANKERS: SANCTIONED VESSEL SCRAPPING",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-17T13:45:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: SOMALI PIRACY TASKFORCE",
+            "heading": "TANKERS: SANCTIONED VESSEL SCRAPPING",
             "paragraphs": [
-                "Regional maritime member states under the Djibouti Code of Conduct have mobilized a dedicated security taskforce following a verified vessel boarding incident off the Somali coast. Armed boarders breached an active cargo carrier 4.5 nautical miles offshore, signaling renewed piracy risks along Northwest Indian Ocean transit lanes.",
-                "Vessel operators navigating the Horn of Africa corridor must contract specialized armed transit teams and pay rising war-risk insurance surcharges. Logistics planners should anticipate widened security corridors and modest transit lead-time adjustments across East African trade lanes."
+                "Sanctioned vessels have surged to represent 58% of global tanker recycling transactions this year, with 26 targeted hulls totaling 2.1M DWT sold for demolition. Strict port state control enforcement and heightened maritime scrutiny have rendered aging shadow fleet tonnage commercially unviable.",
+                "The aggressive elimination of non-compliant ships is tightening active liquid bulk transport capacity across secondary trade lanes and elevating charter quality standards. Energy logistics operators must audit vessel compliance histories to avoid secondary sanction penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEFENSE: $2B CRITICAL MINERAL DEALS",
+            "nextUpTease": "SECURITY: SOMALI PIRACY TASKFORCE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-17T15:20:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "DEFENSE: $2B CRITICAL MINERAL DEALS",
+            "heading": "SECURITY: SOMALI PIRACY TASKFORCE",
             "paragraphs": [
-                "The United States Department of Defense has executed over $2B in conditional loan commitments to secure domestic battery manufacturing and critical mineral refining capacity. The capital deployment guarantees dedicated production quotas for industrial and high-technology manufacturers to reduce foreign raw material exposure.",
-                "Tier-one original equipment manufacturers must realign procurement agreements to qualify for federal domestic processing compliance standards. Supply chain executives should prepare for segregated material tracking audits to certify clean regional sourcing lineage."
+                "Member states under the Djibouti Code of Conduct have mobilized a regional maritime security taskforce following a verified cargo ship boarding incident 4.5 miles off the Somali coast. The attack highlights a dangerous resurgence of piracy along Northwest Indian Ocean shipping corridors.",
+                "Vessel operators navigating the Horn of Africa must deploy armed security teams and absorb rising war-risk insurance premiums. Logistics planners should incorporate extended buffer times and widened security corridors into regional transit schedules."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-17T17:10:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

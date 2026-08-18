@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: SECTION 301 TARIFFS",
-                "teaserTitle": "PORTS: $2B LOUISIANA TERMINAL PERMIT",
-                "visual_caption": "USTR enforced Section 301 tariffs across 60 partner nations after Section 122 duties expired. Importers face strict origin audits and rising clearance friction."
+                "headline": "LOGISTICS: PANAMA CANAL QUEUE FEES",
+                "teaserTitle": "CONTAINERS: 1.7M TEU PORT CONGESTION",
+                "visual_caption": "An empty tanker paid a record $4.6M fee to bypass the Panama Canal transit queue. Shippers must absorb these soaring priority costs to protect delivery timelines."
             },
             {
                 "slide_index": 2,
-                "headline": "PORTS: $2B LOUISIANA TERMINAL PERMIT",
-                "teaserTitle": "INFRASTRUCTURE: $10.3B PINGLU CANAL",
-                "visual_caption": "Federal authorities issued final construction permits for the $2B Louisiana International Terminal. The deepwater facility will expand Gulf Coast container capacity."
+                "headline": "CONTAINERS: 1.7M TEU PORT CONGESTION",
+                "teaserTitle": "CUSTOMS: DE MINIMIS LEGAL BURIAL",
+                "visual_caption": "Global port congestion has removed 1.7M TEU of containership capacity from active circulation. This severe deficit is forcing beneficial cargo owners to face extended shipping delays."
             },
             {
                 "slide_index": 3,
-                "headline": "INFRASTRUCTURE: $10.3B PINGLU CANAL",
-                "teaserTitle": "CUSTOMS: EU DE MINIMIS END",
-                "visual_caption": "China completed navigation tests on the 83.4-mile, $10.3B Pinglu Canal. The corridor cuts Southeast Asian export transits by more than 10 days."
+                "headline": "CUSTOMS: DE MINIMIS LEGAL BURIAL",
+                "teaserTitle": "LEGAL: 22 STATES SUE DOT OVER CDLS",
+                "visual_caption": "The trade court has upheld the legal elimination of low-value de minimis customs exemptions. Cross-border e-commerce parcels now face mandatory itemized tariff assessments and automated clearance audits."
             },
             {
                 "slide_index": 4,
-                "headline": "CUSTOMS: EU DE MINIMIS END",
-                "teaserTitle": "MARITIME: SANCTIONED TANKER SCRAPPING",
-                "visual_caption": "EU air cargo volumes dropped following the complete elimination of de minimis exemptions. Low-value parcels now require full tariff payments and itemized entries."
+                "headline": "LEGAL: 22 STATES SUE DOT OVER CDLS",
+                "teaserTitle": "FINANCE: PENTAGON CRITICAL MINERAL DEALS",
+                "visual_caption": "22 states are suing the Department of Transportation over demands to access 17M driver records. The legal challenge threatens to disrupt background checks and credential renewals."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: SANCTIONED TANKER SCRAPPING",
-                "teaserTitle": "SECURITY: SOMALI PIRACY TASKFORCE",
-                "visual_caption": "Sanctioned hulls accounted for 58% of tanker demolition deals totaling 2.1M DWT this year. Stricter port enforcement has forced older shadow vessels out of service."
+                "headline": "FINANCE: PENTAGON CRITICAL MINERAL DEALS",
+                "teaserTitle": "TANKERS: SANCTIONED VESSEL SCRAPPING",
+                "visual_caption": "The Pentagon has executed over $2B in loan commitments to secure domestic battery manufacturing. Manufacturers must realign procurement agreements to comply with new federal domestic sourcing standards."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: SOMALI PIRACY TASKFORCE",
-                "teaserTitle": "DEFENSE: $2B CRITICAL MINERAL DEALS",
-                "visual_caption": "Regional maritime agencies mobilized a security force after a cargo ship boarding near Somalia. Carriers face higher risk surcharges along Northwest Indian Ocean routes."
+                "headline": "TANKERS: SANCTIONED VESSEL SCRAPPING",
+                "teaserTitle": "SECURITY: SOMALI PIRACY TASKFORCE",
+                "visual_caption": "Sanctioned ships account for 58% of tanker recycling deals as strict enforcement renders older hulls inoperable. The removal of non-compliant tonnage is tightening liquid bulk capacity across secondary routes."
             },
             {
                 "slide_index": 7,
-                "headline": "DEFENSE: $2B CRITICAL MINERAL DEALS",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "The Pentagon awarded over $2B in conditional financing to secure critical mineral and battery production. Manufacturers must prove domestic supply origin compliance."
+                "headline": "SECURITY: SOMALI PIRACY TASKFORCE",
+                "teaserTitle": "",
+                "visual_caption": "Regional states have mobilized a maritime security taskforce following a cargo ship boarding off the Somali coast. Vessel operators navigating the Horn of Africa must contract armed transit teams."
             },
             {
                 "slide_index": 8,
