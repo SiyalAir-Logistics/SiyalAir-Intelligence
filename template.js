@@ -1,65 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL FEE TOPS",
-        "titleBlue": "4.6M",
-        "footerSummary": "Panama Canal queue-jump fees reach 4.6M USD as regional conflicts and vessel diversions intensify global maritime routing pressures."
+        "titleWhite": "MAERSK TEARS UP FLEET",
+        "titleBlue": "CEILING",
+        "footerSummary": "Maersk abandons its long-standing containership capacity ceiling, signaling aggressive fleet expansion as Vincent Clerc reshapes global carrier strategy."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE TOPS 4.6M",
+            "heading": "MARITIME: MAERSK TEARS UP FLEET CEILING",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker paid a record 4.6M USD to bypass the Panama Canal congestion queue. The escalating fee highlights severe maritime bottlenecks driven by ongoing regional conflicts and container ship diversions.",
-                "Vessel operators face mounting cost escalation and complex scheduling trade-offs when attempting to secure rapid transit slots through critical Latin American chokepoints. Supply chain managers must incorporate these extreme priority fees into operational budgeting and lane risk assessments."
+                "Maersk is abandoning its long-standing containership capacity ceiling, marking a major strategic pivot for the Danish shipping giant. CEO Vincent Clerc is preparing the carrier for renewed fleet growth after years of strict capacity discipline during the pandemic-era boom.",
+                "This shift signals intensified competition among top ocean liners for global market share and vessel deployment flexibility. Shippers must reevaluate long-term capacity allocations and carrier partnerships as major lines scale up active tonnage."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL: STATES SUE OVER CDL DATABASE",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "LEGAL: STATES SUE OVER CDL DATABASE ACCESS",
-            "paragraphs": [
-                "A coalition of 22 states has filed a federal lawsuit challenging a Department of Transportation directive demanding access to 17M commercial driver records. The legal challenge questions the statutory authority of federal agencies to enforce broad data transfers across state jurisdictions.",
-                "Motor carriers and fleet operators face heightened regulatory uncertainty as federal oversight clashes with state-level data privacy mandates. Compliance directors must monitor litigation outcomes closely to understand potential impacts on driver qualification file management."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR CARGO: GLOBAL SPOT RATES SLUMP",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-17T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "AIR CARGO: GLOBAL SPOT RATES SLUMP",
-            "paragraphs": [
-                "Global air cargo spot rates have fallen 6% month over month as early peak season demand shows unexpected softness across primary trade corridors. Xeneta data indicates that lower chargeable weight volumes are shifting pricing leverage back toward freight forwarders and shippers.",
-                "Logistics managers can leverage current soft air freight pricing to optimize urgent inventory replenishment schedules without overextending operational budgets. Supply chain planners should evaluate whether to lock in short-term spot rates or secure longer commitments ahead of late-year volume surges."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "SECURITY: HORMUZ STRIKE KILLS SEAFARER",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-17T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "SECURITY: HORMUZ STRIKE KILLS SEAFARER",
-            "paragraphs": [
-                "A seafarer has been killed in the latest military attack on merchant shipping in the Strait of Hormuz. Meanwhile, Iranian authorities claimed to have detained a UAE-owned tanker for failing to comply with newly established regional transit regulations.",
-                "Fleet operators must reassess security risk premiums and invest in advanced in-transit monitoring to safeguard cargo moving through high-risk geographic corridors. Insurance costs and transit times are expected to rise as vessels adopt defensive detours."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "REGULATION: DE MINIMIS LOOPHOLE CLOSED",
+            "nextUpTease": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
             "tags": [
                 "Source: https://splash247.com",
                 "Published: 2026-08-18T00:00:00Z",
@@ -67,46 +22,91 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "REGULATION: DE MINIMIS LOOPHOLE CLOSED",
+            "id": 2,
+            "heading": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
             "paragraphs": [
-                "The U.S. trade court has officially upheld the elimination of the de minimis exemption, effectively shutting the door on duty-free low-value imports. E-commerce platforms and logistics providers are immediately adjusting operational workflows to comply with stricter customs enforcement.",
-                "Importers relying on low-value parcel exemptions must restructure customs brokerage operations to absorb incoming duty liabilities without disrupting customer fulfillment timelines. Compliance teams face rigorous audits as authorities crack down on unverified cross-border shipments."
+                "A seafarer has been killed in the latest military strike targeting merchant shipping within the contested Strait of Hormuz. Simultaneously, Iranian authorities claim to have detained a UAE-owned tanker for failing to comply with newly enforced regional transit regulations.",
+                "Fleet operators face escalating security premiums and severe schedule disruptions as transit risks mount across vital Middle Eastern trade corridors. Logistics managers must factor in extended voyage times and elevated insurance costs for vessels bypassing the region."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: TREASURY YIELDS HIT HIGHS",
+            "nextUpTease": "PORTS: NEW ORLEANS MEGA TERMINAL APPROVED",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-18T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "PORTS: NEW ORLEANS MEGA TERMINAL APPROVED",
+            "paragraphs": [
+                "The proposed Louisiana International Terminal has secured final federal approval, paving the way for construction to begin on the $2B project later this year. The modern facility aims to expand Gulf Coast container handling capacity and accommodate larger neo-Panamax vessels.",
+                "Importers and exporters utilizing Southern U.S. gateways will gain enhanced intermodal connectivity and diversified routing options away from congested coastal hubs. Supply chain planners should factor regional terminal expansion timelines into long-term distribution network designs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "LEGAL: STATES SUE OVER CDL DATABASE",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: 2026-08-18T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "LEGAL: STATES SUE OVER CDL DATABASE",
+            "paragraphs": [
+                "A coalition of 22 U.S. states has filed a federal lawsuit challenging a Department of Transportation mandate requiring the turnover of 5M commercial driver records. The legal battle centers on federal authority versus state-level data privacy rights in driver compliance management.",
+                "Motor carriers face increasing regulatory friction as federal oversight initiatives clash with decentralized state recordkeeping systems. Fleet compliance directors must monitor the litigation closely to avoid unexpected disruptions in driver qualification verification workflows."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO: SPOT RATES SLUMP ON SOFTNESS",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-17T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "AIR CARGO: SPOT RATES SLUMP ON SOFTNESS",
+            "paragraphs": [
+                "Global air cargo spot rates have fallen 6% month over month as early peak season demand displays unexpected softness across primary trade lanes. Xeneta reports that lower chargeable weight volumes are shifting pricing power back toward forwarders and enterprise shippers.",
+                "Logistics managers can leverage current soft air freight pricing to optimize urgent inventory replenishment schedules without inflating operating budgets. Supply chain planners should weigh whether to secure short-term spot deals or lock in commitments before autumn volume surges."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "REGULATION: USTR ADVANCES FORCED LABOR TARIFFS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FINANCE: TREASURY YIELDS HIT HIGHS",
+            "heading": "REGULATION: USTR ADVANCES FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The 30-year Treasury yield has surged to a 19-year high, driven by rising oil prices, persistent inflation fears, and ongoing geopolitical tensions in the Middle East. Financial markets are pricing in prolonged monetary tightening as borrowing costs escalate across industrial sectors.",
-                "Corporate finance and supply chain executives must recalibrate capital expenditure budgets and working capital strategies to account for elevated financing costs. Strategic inventory investments must be weighed against expensive credit markets to protect operating margins."
+                "The Office of the United States Trade Representative is moving forward with the implementation of Section 301 tariffs targeting forced labor practices across 60 trading partners. The initiative coincides with the expiration of older Section 122 tariffs, tightening compliance hurdles for importers.",
+                "Importers must conduct rigorous supply chain tier-one and tier-two audits to verify raw material sourcing origins and prevent customs seizures. Failing to implement robust traceability frameworks risks severe financial penalties and border clearance delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: SALARY SURVEY SHOWS GAINS",
+            "nextUpTease": "INFRASTRUCTURE: CHINA TESTS INLAND CANAL",
             "tags": [
-                "Source: https://www.cnbc.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LOGISTICS: SALARY SURVEY SHOWS GAINS",
+            "heading": "INFRASTRUCTURE: CHINA TESTS INLAND CANAL",
             "paragraphs": [
-                "Logistics Management\u2019s 2026 Salary and Compensation Study shows average industry salaries rising to 126K USD as professionals assume broader strategic responsibilities. Supply chain leaders are increasingly managing enterprise risk, technology adoption, and complex cross-border compliance.",
-                "Organizations must invest in competitive compensation packages to attract and retain high-caliber talent capable of navigating persistent operational volatility. Elevating supply chain influence within corporate governance structures is essential for mitigating escalating trade risks."
+                "China has successfully completed the first trial navigation of the newly constructed Pinglu Canal ahead of its official September opening. The $10.3B inland waterway spans 83 miles, establishing a direct shipping corridor connecting regional rivers to the Beibu Gulf.",
+                "The mega-project significantly accelerates transit times and expands trade connectivity between interior manufacturing hubs and Southeast Asian markets. Regional supply chain operators should reassess inland distribution routing to capitalize on the new maritime link."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://maritime-executive.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]

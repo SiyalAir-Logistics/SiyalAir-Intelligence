@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE TOPS 4.6M",
-                "teaserTitle": "LEGAL: STATES SUE OVER CDL DATABASE",
-                "visual_caption": "An empty tanker paid $4.6M to bypass canal congestion. Severe maritime bottlenecks continue to drive up priority transit costs."
+                "headline": "MARITIME: MAERSK TEARS UP FLEET CEILING",
+                "teaserTitle": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
+                "visual_caption": "Maersk is abandoning its long-standing containership capacity ceiling in a major strategic pivot. The shift signals aggressive fleet expansion and renewed competition among top ocean liners."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: STATES SUE OVER CDL DATABASE ACCESS",
-                "teaserTitle": "AIR CARGO: GLOBAL SPOT RATES SLUMP",
-                "visual_caption": "22 states filed a lawsuit challenging federal demands for commercial driver records. Fleet operators face rising regulatory uncertainty over data privacy."
+                "headline": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
+                "teaserTitle": "PORTS: NEW ORLEANS MEGA TERMINAL APPROVED",
+                "visual_caption": "A seafarer has been killed in the latest military strike within the Strait of Hormuz. Fleet operators face escalating security premiums and severe schedule disruptions across trade corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: GLOBAL SPOT RATES SLUMP",
-                "teaserTitle": "SECURITY: HORMUZ STRIKE KILLS SEAFARER",
-                "visual_caption": "Global air cargo spot rates fell 6% as peak season demand showed softness. Shippers can leverage current pricing to optimize urgent replenishment."
+                "headline": "PORTS: NEW ORLEANS MEGA TERMINAL APPROVED",
+                "teaserTitle": "LEGAL: STATES SUE OVER CDL DATABASE",
+                "visual_caption": "The Louisiana International Terminal has secured final federal approval for its $2B project. The facility will expand Gulf Coast container handling capacity and improve intermodal routing."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: HORMUZ STRIKE KILLS SEAFARER",
-                "teaserTitle": "REGULATION: DE MINIMIS LOOPHOLE CLOSED",
-                "visual_caption": "A seafarer was killed in a military strike in the Strait of Hormuz. Fleet operators must reassess security risk premiums and defensive routings."
+                "headline": "LEGAL: STATES SUE OVER CDL DATABASE",
+                "teaserTitle": "AIR CARGO: SPOT RATES SLUMP ON SOFTNESS",
+                "visual_caption": "22 states have filed a federal lawsuit challenging a directive to turn over 5M driver records. Motor carriers face growing regulatory friction between federal oversight and state privacy laws."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATION: DE MINIMIS LOOPHOLE CLOSED",
-                "teaserTitle": "FINANCE: TREASURY YIELDS HIT HIGHS",
-                "visual_caption": "The trade court officially upheld the elimination of duty-free low-value exemptions. E-commerce logistics providers are restructuring customs workflows."
+                "headline": "AIR CARGO: SPOT RATES SLUMP ON SOFTNESS",
+                "teaserTitle": "REGULATION: USTR ADVANCES FORCED LABOR TARIFFS",
+                "visual_caption": "Global air cargo spot rates have fallen 6% as early peak season demand displays softness. Shippers can leverage current pricing to optimize inventory replenishment schedules cost-effectively."
             },
             {
                 "slide_index": 6,
-                "headline": "FINANCE: TREASURY YIELDS HIT HIGHS",
-                "teaserTitle": "LOGISTICS: SALARY SURVEY SHOWS GAINS",
-                "visual_caption": "The 30-year Treasury yield surged to a 19-year high amid inflation fears. Supply chain executives must recalibrate capital expenditure budgets."
+                "headline": "REGULATION: USTR ADVANCES FORCED LABOR TARIFFS",
+                "teaserTitle": "INFRASTRUCTURE: CHINA TESTS INLAND CANAL",
+                "visual_caption": "The USTR is advancing Section 301 tariffs targeting forced labor across 60 trading partners. Importers must implement rigorous sourcing audits to prevent severe financial penalties and delays."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: SALARY SURVEY SHOWS GAINS",
+                "headline": "INFRASTRUCTURE: CHINA TESTS INLAND CANAL",
                 "teaserTitle": "",
-                "visual_caption": "Supply chain salaries rose to an average of $126K. Leaders are taking on broader responsibilities in enterprise risk management."
+                "visual_caption": "China has completed test navigation on the $10.3B Pinglu Inland Canal project. The 83-mile waterway accelerates transit times between manufacturing hubs and Southeast Asian markets."
             },
             {
                 "slide_index": 8,
