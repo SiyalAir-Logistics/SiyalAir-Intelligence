@@ -1,65 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MAERSK TEARS UP FLEET",
-        "titleBlue": "CEILING",
-        "footerSummary": "Maersk abandons its long-standing containership capacity ceiling, signaling aggressive fleet expansion as Vincent Clerc reshapes global carrier strategy."
+        "titleWhite": "STATES SUE DOT OVER 17M CDL",
+        "titleBlue": "RECORDS",
+        "footerSummary": "Twenty-two U.S. states sue the DOT over a 17M driver records mandate, creating serious compliance friction for motor carriers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: MAERSK TEARS UP FLEET CEILING",
+            "heading": "REGULATION: STATES SUE OVER CDL RECORDS",
             "paragraphs": [
-                "Maersk is abandoning its long-standing containership capacity ceiling, marking a major strategic pivot for the Danish shipping giant. CEO Vincent Clerc is preparing the carrier for renewed fleet growth after years of strict capacity discipline during the pandemic-era boom.",
-                "This shift signals intensified competition among top ocean liners for global market share and vessel deployment flexibility. Shippers must reevaluate long-term capacity allocations and carrier partnerships as major lines scale up active tonnage."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
-            "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-18T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "SECURITY: SEAFARER KILLED IN HORMUZ STRIKE",
-            "paragraphs": [
-                "A seafarer has been killed in the latest military strike targeting merchant shipping within the contested Strait of Hormuz. Simultaneously, Iranian authorities claim to have detained a UAE-owned tanker for failing to comply with newly enforced regional transit regulations.",
-                "Fleet operators face escalating security premiums and severe schedule disruptions as transit risks mount across vital Middle Eastern trade corridors. Logistics managers must factor in extended voyage times and elevated insurance costs for vessels bypassing the region."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PORTS: NEW ORLEANS MEGA TERMINAL APPROVED",
-            "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-18T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "PORTS: NEW ORLEANS MEGA TERMINAL APPROVED",
-            "paragraphs": [
-                "The proposed Louisiana International Terminal has secured final federal approval, paving the way for construction to begin on the $2B project later this year. The modern facility aims to expand Gulf Coast container handling capacity and accommodate larger neo-Panamax vessels.",
-                "Importers and exporters utilizing Southern U.S. gateways will gain enhanced intermodal connectivity and diversified routing options away from congested coastal hubs. Supply chain planners should factor regional terminal expansion timelines into long-term distribution network designs."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LEGAL: STATES SUE OVER CDL DATABASE",
-            "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-18T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "LEGAL: STATES SUE OVER CDL DATABASE",
-            "paragraphs": [
-                "A coalition of 22 U.S. states has filed a federal lawsuit challenging a Department of Transportation mandate requiring the turnover of 5M commercial driver records. The legal battle centers on federal authority versus state-level data privacy rights in driver compliance management.",
+                "A coalition of 22 U.S. states has filed a federal lawsuit challenging a Department of Transportation mandate requiring the turnover of 17M commercial driver records. The legal battle centers on federal authority versus state-level data privacy rights in driver compliance management.",
                 "Motor carriers face increasing regulatory friction as federal oversight initiatives clash with decentralized state recordkeeping systems. Fleet compliance directors must monitor the litigation closely to avoid unexpected disruptions in driver qualification verification workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: SPOT RATES SLUMP ON SOFTNESS",
+            "nextUpTease": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-17T00:00:00Z",
@@ -67,46 +22,91 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AIR CARGO: SPOT RATES SLUMP ON SOFTNESS",
+            "id": 2,
+            "heading": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
+            "paragraphs": [
+                "Mediterranean Shipping Company has joined industry peers by sending 7 containerships through the Suez Canal as operators reevaluate regional security conditions. The tactical return to the traditional waterway aims to shorten transit times between Asia and European markets.",
+                "Vessel operators must balance shorter routing distances against lingering geopolitical risk premiums and variable insurance costs in the Red Sea zone. Shippers should review carrier schedule reliability as maritime networks gradually adapt to shifting security assessments."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO: GLOBAL SPOT RATES SLUMP",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-18T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "AIR CARGO: GLOBAL SPOT RATES SLUMP",
             "paragraphs": [
                 "Global air cargo spot rates have fallen 6% month over month as early peak season demand displays unexpected softness across primary trade lanes. Xeneta reports that lower chargeable weight volumes are shifting pricing power back toward forwarders and enterprise shippers.",
                 "Logistics managers can leverage current soft air freight pricing to optimize urgent inventory replenishment schedules without inflating operating budgets. Supply chain planners should weigh whether to secure short-term spot deals or lock in commitments before autumn volume surges."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: USTR ADVANCES FORCED LABOR TARIFFS",
+            "nextUpTease": "FINANCE: KIMBERLY-CLARK SECURES TARIFF REFUND",
             "tags": [
                 "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Published: 2026-08-17T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "FINANCE: KIMBERLY-CLARK SECURES TARIFF REFUND",
+            "paragraphs": [
+                "Kimberly-Clark has secured a $45M tariff refund, recovering half of its total tariff payments made over the past year. The financial recovery will help offset incremental cost pressures stemming from elevated commodity and energy prices.",
+                "Corporate finance and supply chain teams should evaluate historical tariff entries to identify potential refund opportunities and mitigate margin erosion. Proactive duty recovery strategies provide essential cash flow buffers in volatile trade environments."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RAILWAY: TRAIN THEFT LOSSES SPARK TECH PUSH",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "RAILWAY: TRAIN THEFT LOSSES SPARK TECH PUSH",
+            "paragraphs": [
+                "Major freight railroads are losing $200M annually to cargo theft, prompting carriers to partner with local police and corporate security to deploy advanced monitoring technology. Class I networks are investing heavily in drones, surveillance systems, and physical barriers along vulnerable corridors.",
+                "Supply chain security directors face mounting cargo protection challenges as organized theft targets high-value rail shipments. Integrating real-time location tracking and hardened infrastructure is vital for safeguarding goods in transit."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "DEFENSE: PENTAGON SIGNS CRITICAL DEALS",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATION: USTR ADVANCES FORCED LABOR TARIFFS",
+            "heading": "DEFENSE: PENTAGON SIGNS CRITICAL DEALS",
             "paragraphs": [
-                "The Office of the United States Trade Representative is moving forward with the implementation of Section 301 tariffs targeting forced labor practices across 60 trading partners. The initiative coincides with the expiration of older Section 122 tariffs, tightening compliance hurdles for importers.",
-                "Importers must conduct rigorous supply chain tier-one and tier-two audits to verify raw material sourcing origins and prevent customs seizures. Failing to implement robust traceability frameworks risks severe financial penalties and border clearance delays."
+                "The U.S. Department of Defense has finalized over $2B in conditional loan commitments through its Office of Strategic Capital to secure domestic battery and critical mineral supplies. Entities including Sila Technologies and Sunrise Energy Metals received backing to fortify industrial supply chains.",
+                "Industrial manufacturers dependent on advanced energy storage and rare materials must align sourcing strategies with expanding domestic production initiatives. Long-term supplier resilience relies on mitigating foreign dependencies for critical manufacturing inputs."
             ],
             "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: CHINA TESTS INLAND CANAL",
+            "nextUpTease": "RETAIL: U.S. IMPORTS PEAK AHEAD OF TARIFFS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: CHINA TESTS INLAND CANAL",
+            "heading": "RETAIL: U.S. IMPORTS PEAK AHEAD OF TARIFFS",
             "paragraphs": [
-                "China has successfully completed the first trial navigation of the newly constructed Pinglu Canal ahead of its official September opening. The $10.3B inland waterway spans 83 miles, establishing a direct shipping corridor connecting regional rivers to the Beibu Gulf.",
-                "The mega-project significantly accelerates transit times and expands trade connectivity between interior manufacturing hubs and Southeast Asian markets. Regional supply chain operators should reassess inland distribution routing to capitalize on the new maritime link."
+                "Data from the National Retail Federation projects that container imports at major U.S. ports have peaked early as businesses aggressively front-load inventory ahead of upcoming tariff implementations. Retailers are accelerating stock replenishment cycles to buffer against anticipated duty escalations.",
+                "Supply chain planners should anticipate unusual seasonal warehouse capacity utilization and drayage congestion around key coastal import gateways. Optimizing distribution networks now prevents costly bottlenecks as fourth-quarter fulfillment demands materialize."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
