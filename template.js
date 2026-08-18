@@ -1,65 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE",
-        "titleBlue": "FEES",
-        "footerSummary": "Panama Canal queue-jump fees hit $4.6M while port congestion removes 1.7M TEU of capacity globally."
+        "titleWhite": "STATE AG SETS 17M CDL",
+        "titleBlue": "RECORDS",
+        "footerSummary": "State attorneys general sue DOT over 17M driver records while ocean rates and port volumes hit new peaks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "LOGISTICS: PANAMA CANAL QUEUE FEES",
+            "heading": "GOVERNMENT: STATES SUE DOT OVER 17M CDL RECORDS",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker paid a record $4.6M fee to bypass the transit queue at the Panama Canal, according to a recent shipping report. This marks the highest publicly reported queue-jump expenditure to date, surpassing the previous high of $3.975M amid ongoing Middle East waterway disruptions.",
-                "Shippers face escalating operational expenses as priority transit fees become a mandatory capital outlay for urgent vessel scheduling. Logistics managers must factor these soaring premium costs into route planning to protect cargo delivery timelines."
+                "A coalition of 22 state attorneys general has filed a federal lawsuit against the U.S. Department of Transportation and the FMCSA to block aggressive demands for 17M commercial driver records. The legal challenge challenges federal overreach and strict 5-day data turnover deadlines imposed on state motor vehicle agencies.",
+                "Motor carriers face potential administrative bottlenecks and verification delays as driver qualification databases become entangled in federal court battles. Fleet operators must monitor credential renewal timelines closely to prevent unexpected driver suspensions."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINERS: 1.7M TEU PORT CONGESTION",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "CONTAINERS: 1.7M TEU PORT CONGESTION",
-            "paragraphs": [
-                "Persistent global port congestion is effectively removing approximately 1.7M TEU of containership capacity from active circulation, matching the entire fleet size of major carriers. Copenhagen-based consultancy Sea-Intelligence reports that vessel delays are severely tightening available box space across key maritime trade corridors.",
-                "The capacity deficit is driving schedule unreliability and forcing beneficial cargo owners to absorb extended transit lead times. Supply chain planners must secure multi-carrier service agreements early to mitigate unexpected equipment shortages."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CUSTOMS: DE MINIMIS LEGAL BURIAL",
-            "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-17T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "CUSTOMS: DE MINIMIS LEGAL BURIAL",
-            "paragraphs": [
-                "The U.S. Court of International Trade has issued a final ruling upholding the elimination of low-value de minimis customs exemptions, shutting down the controversial $800 duty-free import loophole. Cross-border e-commerce parcels now face mandatory itemized tariff assessment and strict automated compliance audits at all entry points.",
-                "Direct-to-consumer retailers must completely overhaul their fulfillment models to handle increased brokerage fees and administrative clearance delays. Importers are rapidly shifting toward consolidated bulk freight shipments to maintain cost efficiency."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LEGAL: 22 STATES SUE DOT OVER CDLS",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-16T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "LEGAL: 22 STATES SUE DOT OVER CDLS",
-            "paragraphs": [
-                "A coalition of 22 state attorneys general has filed a federal lawsuit against the U.S. Department of Transportation and the FMCSA over demands to turn over 5 million driver records within a tight window. The legal challenge targets federal overreach regarding state motor vehicle database access and privacy compliance mandates.",
-                "The ongoing litigation threatens to disrupt driver qualification verifications and administrative credential renewals across national fleet operations. Motor carriers should prepare for potential background check bottlenecks as regulatory oversight disputes play out."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FINANCE: PENTAGON CRITICAL MINERAL DEALS",
+            "nextUpTease": "FREIGHT: ASIA TO US EAST COAST RATES",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-17T00:00:00Z",
@@ -67,14 +22,14 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "FINANCE: PENTAGON CRITICAL MINERAL DEALS",
+            "id": 2,
+            "heading": "FREIGHT: ASIA TO US EAST COAST RATES",
             "paragraphs": [
-                "The Department of Defense has executed over $2B in conditional loan commitments through its Office of Strategic Capital to secure domestic battery manufacturing and critical mineral refining. Recipients including Sila Technologies and Niron Magnetics will scale local production quotas to isolate industrial supply chains from foreign dependencies.",
-                "Original equipment manufacturers must adapt procurement frameworks to align with emerging federal domestic processing compliance standards. Supply chain leaders are establishing segregated inventory tracking mechanisms to verify clean material lineages."
+                "Ocean freight rates from Asia to the U.S. East Coast have climbed to new seasonal highs amid sustained import volumes and an extended peak shipping window. Freightos data confirms that strong cargo demand is absorbing available vessel capacity and keeping spot pricing elevated across major trade lanes.",
+                "Beneficial cargo owners must absorb higher ocean transportation expenditures and adjust logistics budgets to account for persistent rate strength. Shippers should lock in service contracts early to mitigate further exposure to volatile spot market pricing."
             ],
             "imageUrl": "",
-            "nextUpTease": "TANKERS: SANCTIONED VESSEL SCRAPPING",
+            "nextUpTease": "LOGISTICS: XENETA IRAN WAR CONTRACT RATES",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-17T00:00:00Z",
@@ -82,31 +37,76 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "TANKERS: SANCTIONED VESSEL SCRAPPING",
+            "id": 3,
+            "heading": "LOGISTICS: XENETA IRAN WAR CONTRACT RATES",
             "paragraphs": [
-                "Sanctioned vessels have surged to represent 58% of global tanker recycling transactions this year, with 26 targeted hulls totaling 2.1M DWT sold for demolition. Strict port state control enforcement and heightened maritime scrutiny have rendered aging shadow fleet tonnage commercially unviable.",
-                "The aggressive elimination of non-compliant ships is tightening active liquid bulk transport capacity across secondary trade lanes and elevating charter quality standards. Energy logistics operators must audit vessel compliance histories to avoid secondary sanction penalties."
+                "Geopolitical disruption stemming from the ongoing conflict in Iran has officially spread from spot markets into long-term ocean freight contract rates. Xeneta reports that carriers are successfully passing on war-risk surcharges and operational risk premiums into multi-month shipper agreements.",
+                "Logistics procurement teams face compressed margins as baseline contract costs rise across key global shipping corridors. Supply chain leaders must evaluate alternative routing and mode-shifting strategies to offset mounting transport expenses."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PORT: LOUISIANA INTERNATIONAL TERMINAL",
+            "tags": [
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-17T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "PORT: LOUISIANA INTERNATIONAL TERMINAL",
+            "paragraphs": [
+                "The proposed $2B Louisiana International Terminal has secured its final federal construction permit, paving the way for groundbreaking later this year. The new mega-terminal aims to expand regional container handling capacity and alleviate growing supply chain bottlenecks along the Gulf Coast.",
+                "Port users and drayage operators will gain enhanced gateway optionality and reduced vessel dwell times once construction milestones are achieved. Regional importers should factor the new facility into long-term distribution network designs."
             ],
             "imageUrl": "",
             "nextUpTease": "SECURITY: SOMALI PIRACY TASKFORCE",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-17T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "SECURITY: SOMALI PIRACY TASKFORCE",
+            "paragraphs": [
+                "Member states under the Djibouti Code of Conduct have mobilized a regional maritime security taskforce following a verified cargo ship boarding incident off the Somali coast. The renewed threat of piracy along Northwest Indian Ocean corridors is forcing commercial vessels to reevaluate defensive protocols.",
+                "Vessel operators navigating the Horn of Africa must deploy armed security teams and absorb rising war-risk insurance premiums. Logistics planners should incorporate extended buffer times and widened security corridors into regional transit schedules."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RETAIL: JULY IMPORTS AND PEAK SEASON",
+            "tags": [
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-17T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "RETAIL: JULY IMPORTS AND PEAK SEASON",
+            "paragraphs": [
+                "Data from the National Retail Federation indicates that July container imports at major U.S. ports fell short of initial projections as retailers front-loaded shipments ahead of tariff deadlines. Inventory build-ups have peaked early, leaving a more cautious outlook for late-year retail cargo volumes.",
+                "Supply chain planners must recalibrate warehouse storage allocations and inventory carrying costs in response to softer second-half import demand. Merchandising teams need to align safety stock targets closely with actual consumer purchasing velocity."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "FINANCE: PENTAGON CRITICAL MINERAL LOANS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "SECURITY: SOMALI PIRACY TASKFORCE",
+            "heading": "FINANCE: PENTAGON CRITICAL MINERAL LOANS",
             "paragraphs": [
-                "Member states under the Djibouti Code of Conduct have mobilized a regional maritime security taskforce following a verified cargo ship boarding incident 4.5 miles off the Somali coast. The attack highlights a dangerous resurgence of piracy along Northwest Indian Ocean shipping corridors.",
-                "Vessel operators navigating the Horn of Africa must deploy armed security teams and absorb rising war-risk insurance premiums. Logistics planners should incorporate extended buffer times and widened security corridors into regional transit schedules."
+                "The Department of Defense has executed over $2B in conditional loan commitments through its Office of Strategic Capital to secure domestic battery manufacturing and mineral refining. Industrial recipients are scaling local production quotas to insulate supply chains from foreign dependencies.",
+                "Original equipment manufacturers must adapt procurement frameworks to align with emerging federal domestic processing compliance standards. Supply chain leaders are establishing segregated inventory tracking mechanisms to verify clean material lineages."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]

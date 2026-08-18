@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LOGISTICS: PANAMA CANAL QUEUE FEES",
-                "teaserTitle": "CONTAINERS: 1.7M TEU PORT CONGESTION",
-                "visual_caption": "An empty tanker paid a record $4.6M fee to bypass the Panama Canal transit queue. Shippers must absorb these soaring priority costs to protect delivery timelines."
+                "headline": "GOVERNMENT: STATES SUE DOT OVER 17M CDL RECORDS",
+                "teaserTitle": "FREIGHT: ASIA TO US EAST COAST RATES",
+                "visual_caption": "Twenty-two state attorneys general sued the DOT over 17M commercial driver records. Fleet managers should prepare for potential background check and verification delays."
             },
             {
                 "slide_index": 2,
-                "headline": "CONTAINERS: 1.7M TEU PORT CONGESTION",
-                "teaserTitle": "CUSTOMS: DE MINIMIS LEGAL BURIAL",
-                "visual_caption": "Global port congestion has removed 1.7M TEU of containership capacity from active circulation. This severe deficit is forcing beneficial cargo owners to face extended shipping delays."
+                "headline": "FREIGHT: ASIA TO US EAST COAST RATES",
+                "teaserTitle": "LOGISTICS: XENETA IRAN WAR CONTRACT RATES",
+                "visual_caption": "Asia to U.S. East Coast ocean freight spot rates climbed to new highs. Sustained import volumes are rapidly absorbing available shipping capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "CUSTOMS: DE MINIMIS LEGAL BURIAL",
-                "teaserTitle": "LEGAL: 22 STATES SUE DOT OVER CDLS",
-                "visual_caption": "The trade court has upheld the legal elimination of low-value de minimis customs exemptions. Cross-border e-commerce parcels now face mandatory itemized tariff assessments and automated clearance audits."
+                "headline": "LOGISTICS: XENETA IRAN WAR CONTRACT RATES",
+                "teaserTitle": "PORT: LOUISIANA INTERNATIONAL TERMINAL",
+                "visual_caption": "Middle East war disruption has officially spread into long-term freight contract rates. Shippers must absorb rising baseline transport costs across major trade lanes."
             },
             {
                 "slide_index": 4,
-                "headline": "LEGAL: 22 STATES SUE DOT OVER CDLS",
-                "teaserTitle": "FINANCE: PENTAGON CRITICAL MINERAL DEALS",
-                "visual_caption": "22 states are suing the Department of Transportation over demands to access 17M driver records. The legal challenge threatens to disrupt background checks and credential renewals."
+                "headline": "PORT: LOUISIANA INTERNATIONAL TERMINAL",
+                "teaserTitle": "SECURITY: SOMALI PIRACY TASKFORCE",
+                "visual_caption": "The $2B Louisiana International Terminal received its final federal construction permit. Groundbreaking will begin later this year to expand Gulf Coast capacity."
             },
             {
                 "slide_index": 5,
-                "headline": "FINANCE: PENTAGON CRITICAL MINERAL DEALS",
-                "teaserTitle": "TANKERS: SANCTIONED VESSEL SCRAPPING",
-                "visual_caption": "The Pentagon has executed over $2B in loan commitments to secure domestic battery manufacturing. Manufacturers must realign procurement agreements to comply with new federal domestic sourcing standards."
+                "headline": "SECURITY: SOMALI PIRACY TASKFORCE",
+                "teaserTitle": "RETAIL: JULY IMPORTS AND PEAK SEASON",
+                "visual_caption": "Regional states mobilized a maritime security taskforce following an Indian Ocean ship boarding. Operators must deploy armed teams and absorb higher war-risk premiums."
             },
             {
                 "slide_index": 6,
-                "headline": "TANKERS: SANCTIONED VESSEL SCRAPPING",
-                "teaserTitle": "SECURITY: SOMALI PIRACY TASKFORCE",
-                "visual_caption": "Sanctioned ships account for 58% of tanker recycling deals as strict enforcement renders older hulls inoperable. The removal of non-compliant tonnage is tightening liquid bulk capacity across secondary routes."
+                "headline": "RETAIL: JULY IMPORTS AND PEAK SEASON",
+                "teaserTitle": "FINANCE: PENTAGON CRITICAL MINERAL LOANS",
+                "visual_caption": "U.S. retail port imports peaked early as businesses rushed inventory ahead of tariffs. Supply chain planners must recalibrate warehouse storage and holding costs."
             },
             {
                 "slide_index": 7,
-                "headline": "SECURITY: SOMALI PIRACY TASKFORCE",
+                "headline": "FINANCE: PENTAGON CRITICAL MINERAL LOANS",
                 "teaserTitle": "",
-                "visual_caption": "Regional states have mobilized a maritime security taskforce following a cargo ship boarding off the Somali coast. Vessel operators navigating the Horn of Africa must contract armed transit teams."
+                "visual_caption": "The Pentagon executed over $2B in loans for domestic critical mineral refining. Industrial buyers are establishing segregated inventory tracking for compliance."
             },
             {
                 "slide_index": 8,
