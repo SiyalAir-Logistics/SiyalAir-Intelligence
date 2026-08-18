@@ -1,80 +1,65 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DIESEL MARGINS HIT RECORD",
-        "titleBlue": "HIGH",
-        "footerSummary": "Diesel refining margins exceed $100 per barrel as distillate inventories tighten, forcing carriers to pass rising surcharges to shippers."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE REACHes",
+        "titleBlue": "4.6M",
+        "footerSummary": "An empty LPG tanker paid 4.6M USD to jump the Panama Canal queue as regional conflicts squeeze global maritime transit networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FUEL: DIESEL MARGINS HIT RECORD HIGH",
+            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE REACHES 4.6M",
             "paragraphs": [
-                "U.S. diesel refining margins have climbed past $100 a barrel to reach an all-time high amid tightening distillate inventories and strong seasonal demand. This widening crack spread disconnects pump prices from broader crude market stability, catching over-the-road fleets off guard.",
-                "Motor carriers are forced to pass surging fuel surcharges directly to enterprise shippers, elevating baseline linehaul transportation expenses. Freight procurement teams must renegotiate fuel indexing mechanisms to protect operating margins through Q4."
+                "An empty liquefied petroleum gas tanker, the G. Arete, paid a record 4.6M USD priority fee to cut the queue at the Panama Canal. This transaction surpasses the previous 3.975M USD high mark as persistent draught restrictions and Middle East routing crises intensify waterway congestion.",
+                "Vessel operators face escalating financial hurdles to maintain transit schedules through critical global bottlenecks. Supply chain leaders must factor skyrocketing priority fees into contingency budgeting for time-sensitive cargo deployments."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
+            "nextUpTease": "USTR MOVES AHEAD WITH TARIFFS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
+            "heading": "REGULATORY: USTR MOVES AHEAD WITH TARIFFS",
             "paragraphs": [
-                "Germany\u2019s main service union has invoked a daylong warning strike across 6 major seaports, bringing container and cargo handling operations to a complete standstill. The labor stoppage involves 11,000 terminal workers protesting an impasse in ongoing contract negotiations.",
-                "Supply chain planners must prepare for cascading vessel bunching and extended berth waiting times throughout Northern European gateway terminals. Importers should reroute urgent European cargo and factor multi-day dwell extensions into shipping schedules."
+                "The Office of the United States Trade Representative announced the implementation of new duties on 60 trading partners under Section 301 of the Trade Act of 1974. This regulatory action coincides with the expiration of Section 122 tariffs, signaling a shift toward targeted compliance enforcement.",
+                "Importers must navigate increased customs friction and potential cost inflation across multiple foreign sourcing corridors. Trade compliance teams need to audit supplier country-of-origin documentation immediately to avoid unexpected border delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
+            "nextUpTease": "MARITIME: MSC SHIPS RESUME SUEZ",
             "tags": [
-                "Source: https://www.maritime-executive.com",
-                "Published: 2026-08-18T02:23:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
+            "heading": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
             "paragraphs": [
-                "A seafarer has been killed in the latest merchant shipping attack in the Strait of Hormuz, while regional tensions mount over transit regulations. Vessel operators are forced to reassess security protocols and war-risk insurance premiums for Middle Eastern shipping lanes.",
-                "Risk management executives must calculate the steep financial trade-off between longer African cape diversions and high-risk Persian Gulf transits. Cargo owners shipping crude and dry bulk commodities should review force majeure clauses and transit insurance coverage immediately."
+                "Mediterranean Shipping Company has joined major ocean carriers in testing voyages through the Suez Canal and Red Sea corridor. Seven MSC container vessels have turned off tracking transponders as they navigate the historically volatile waterway amidst improving carrier confidence.",
+                "The return of mainline capacity to the Suez route offers transit time reductions compared to the longer African cape diversion. Shippers must weigh potential schedule gains against lingering security risks and war-risk insurance surcharges."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: STATES SUE OVER CDL RECORDS",
+            "nextUpTease": "FUEL: DIESEL REFINING MARGINS SPIKE",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REGULATORY: STATES SUE OVER CDL RECORDS",
+            "heading": "FUEL: DIESEL REFINING MARGINS SPIKE",
             "paragraphs": [
-                "A coalition of 22 states has filed a formal federal lawsuit challenging the Department of Transportation's demand for access to 17M commercial driver license records. State attorneys argue the sweeping federal data grab oversteps regulatory authority and compromises driver privacy protections.",
-                "Motor carriers navigate heightened compliance friction as federal oversight clashes with state-level data privacy mandates across interstate operations. Fleet safety directors must monitor legal proceedings closely to anticipate potential disruptions in driver qualification verification workflows."
+                "U.S. national diesel averages climbed 19.7 cents to hit 5.454 USD per gallon, marking the highest weekly mark since May amid tightening distillate inventories. Refining margins have crossed 100 USD per barrel, driven by a near-perfect storm of seasonal demand and restricted supply.",
+                "Motor carriers are immediately passing these surging fuel costs through to shippers via escalated linehaul surcharges. Logistics procurement managers must reassess fuel indexing agreements to safeguard Q4 operating budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-17T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
-            "paragraphs": [
-                "Autonomous freight operator Einride is integrating 500 Tesla Semis into its North American fleet, effectively tripling its deployed commercial vehicle capacity. This massive asset expansion extends heavy-duty electric freight corridors across key logistics hubs in the U.S. and Canada.",
-                "Shippers seeking sustainable distribution models gain scalable access to zero-emission linehaul capacity without investing in proprietary charging infrastructure. Supply chain directors should assess pilot program participation to lock in green freight capacity ahead of tightening emissions rules."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INFRASTRUCTURE: NEW ORLEANS CONTAINER TERMINAL",
+            "nextUpTease": "PORT: LOS ANGELES TOPS 960K TEUS",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-18T00:00:00Z",
@@ -82,26 +67,41 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "INFRASTRUCTURE: NEW ORLEANS CONTAINER TERMINAL",
+            "id": 5,
+            "heading": "PORT: LOS ANGELES TOPS 960K TEUS IN JULY",
             "paragraphs": [
-                "The U.S. Army Corps of Engineers has granted federal permits for the Louisiana International Terminal on the Lower Mississippi River. Developed alongside MSC\u2019s Terminal Investment Limited and Ports America, this $1.5B greenfield project represents the first new Gulf Coast container facility in nearly 20 years.",
-                "The deepwater terminal will accommodate ultra-large container ships with 50-foot drafts, providing southern shippers with expanded gateway capacity and reduced inland transit costs. Gulf region importers should factor this upcoming infrastructure milestone into long-term facility location planning."
+                "The Port of Los Angeles handled a near-record 960K TEUs in July, fueled by sustained consumer demand and proactive inventory replenishment by importers. Executive Director Gene Seroka projects steady volumes of roughly 900K TEUs through August.",
+                "High gateway throughput risks inducing localized chassis shortages and terminal gate congestion across Southern California distribution networks. Supply chain planners should secure drayage capacity early to prevent container dwell time penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: MUTED PEAK SEASON ACTIVITY",
+            "nextUpTease": "AUTOMOTIVE: USMCA FATE THREATENS",
             "tags": [
-                "Source: https://www.maritime-executive.com",
-                "Published: 2026-08-17T19:42:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-18T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AUTOMOTIVE: USMCA FATE THREATENS PRODUCERS",
+            "paragraphs": [
+                "North American automotive manufacturers face severe strategic uncertainty as the long-term viability of the United States-Mexico-Canada Agreement is openly questioned. Original equipment manufacturers are modeling multiple operational footprints to counter potential trade pact termination.",
+                "Cross-border supply chains built on integrated regional assembly lines are highly vulnerable to abrupt duty restructuring. Automakers must accelerate nearshoring evaluations and dual-sourcing strategies to protect manufacturing continuity."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO: PEAK SEASON DEMAND SLUMPS",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: MUTED PEAK SEASON ACTIVITY",
+            "heading": "AIR CARGO: PEAK SEASON DEMAND SLUMPS",
             "paragraphs": [
-                "Global air cargo volumes have declined in the first full week of August, signaling a softer than expected peak shipping season and shifting pricing power toward shippers. Xeneta reports that global air cargo spot rates are down 6% month over month across major trade lanes.",
-                "Logistics managers can leverage declining air freight rates to optimize expedited inventory replenishment budgets without incurring peak season surcharges. Shippers should evaluate short-term contract locking to capitalize on softening market conditions ahead of Q4 demand spikes."
+                "Global air cargo volumes dropped during the first full week of August, with chargeable weight declining across major international trade lanes. Xeneta reports that global spot rates have softened by 6% month over month, signaling a muted peak shipping season.",
+                "Shippers gain advantageous pricing leverage to optimize high-value inventory replenishment without incurring peak surcharges. Logistics directors should lock in short-term air freight contracts to capitalize on current market softening."
             ],
             "imageUrl": "",
             "nextUpTease": "",

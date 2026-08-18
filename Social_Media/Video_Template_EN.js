@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DIESEL MARGINS HIT RECORD HIGH",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE REACHES 4.6M",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FUEL: DIESEL MARGINS HIT RECORD HIGH",
-                "teaserTitle": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE REACHES 4.6M",
+                "teaserTitle": "USTR MOVES AHEAD WITH TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "U.S. diesel refining margins have climbed past one hundred dollars a barrel to reach an all-time high amid tightening inventories. Motor carriers are passing surging fuel surcharges directly to enterprise shippers, elevating baseline transportation expenses."
+                "narration_line": "An empty liquefied petroleum gas tanker paid four point six million dollars to jump the Panama Canal queue. Persistent draught restrictions and regional maritime conflicts continue to squeeze global shipping lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
-                "teaserTitle": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
+                "headline": "REGULATORY: USTR MOVES AHEAD WITH TARIFFS",
+                "teaserTitle": "MARITIME: MSC SHIPS RESUME SUEZ",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Germany\u2019s main service union has launched a daylong warning strike across six seaports, halting container operations. Supply chain planners must prepare for cascading vessel bunching and extended dwell times throughout European gateways."
+                "narration_line": "The United States Trade Representative is implementing new tariffs on sixty trading partners under Section three oh one. Importers must navigate increased customs friction across foreign sourcing corridors."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
-                "teaserTitle": "REGULATORY: STATES SUE OVER CDL RECORDS",
+                "headline": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
+                "teaserTitle": "FUEL: DIESEL REFINING MARGINS SPIKE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A seafarer has been killed in the latest merchant shipping attack in the Strait of Hormuz. Vessel operators are forced to reassess security protocols and war risk insurance premiums for Middle Eastern shipping lanes."
+                "narration_line": "Mediterranean Shipping Company has joined major carriers in testing voyages through the Suez Canal. Vessel operators are weighing potential schedule gains against lingering security risks."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATORY: STATES SUE OVER CDL RECORDS",
-                "teaserTitle": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
+                "headline": "FUEL: DIESEL REFINING MARGINS SPIKE",
+                "teaserTitle": "PORT: LOS ANGELES TOPS 960K TEUS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A coalition of twenty-two states has filed a federal lawsuit challenging the Department of Transportation's commercial driver records demand. Fleet safety directors must monitor legal proceedings to anticipate potential qualification verification disruptions."
+                "narration_line": "National diesel averages jumped to five dollars and forty five cents per gallon as refining margins climb. Motor carriers are passing these surging fuel expenses directly through to shippers."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
-                "teaserTitle": "INFRASTRUCTURE: NEW ORLEANS CONTAINER TERMINAL",
+                "headline": "PORT: LOS ANGELES TOPS 960K TEUS IN JULY",
+                "teaserTitle": "AUTOMOTIVE: USMCA FATE THREATENS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Autonomous freight operator Einride is integrating five hundred Tesla Semis into its North American fleet. This massive asset expansion extends heavy-duty electric freight corridors across key logistics hubs in the United States."
+                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand containers in July on sustained consumer demand. High gateway volumes risk inducing localized terminal gate congestion."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: NEW ORLEANS CONTAINER TERMINAL",
-                "teaserTitle": "AIR CARGO: MUTED PEAK SEASON ACTIVITY",
+                "headline": "AUTOMOTIVE: USMCA FATE THREATENS PRODUCERS",
+                "teaserTitle": "AIR CARGO: PEAK SEASON DEMAND SLUMPS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Federal permits have been granted for a one point five billion dollar greenfield container terminal on the Mississippi River. The deepwater facility will accommodate ultra-large container ships with fifty-foot drafts for southern shippers."
+                "narration_line": "Automotive manufacturers face severe strategic uncertainty over the future of the trade agreement. Cross border supply chains must accelerate dual sourcing to protect assembly lines."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: MUTED PEAK SEASON ACTIVITY",
+                "headline": "AIR CARGO: PEAK SEASON DEMAND SLUMPS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Global air cargo volumes have declined as spot rates drop six percent month over month across major lanes. Logistics managers can leverage softening rates to optimize expedited inventory replenishment budgets without peak surcharges."
+                "narration_line": "Global air cargo volumes declined in August as spot rates fell six percent month over month. Logistics managers can leverage these softening rates for inventory replenishment."
             },
             {
                 "slide_index": 8,
