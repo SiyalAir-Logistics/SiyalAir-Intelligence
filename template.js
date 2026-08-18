@@ -1,50 +1,50 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MAERSK TEARS UP FLEET",
-        "titleBlue": "CEILING",
-        "footerSummary": "Maersk abandons its long standing containership capacity ceiling, signaling aggressive fleet growth as global maritime strategies shift."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
+        "titleBlue": "$4.6M",
+        "footerSummary": "Panama Canal queue jump fees hit $4.6M as regional conflicts and capacity constraints drive unprecedented transit costs for global shippers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: MAERSK TEARS UP FLEET CEILING",
+            "heading": "WATERWAY: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
             "paragraphs": [
-                "Maersk is abandoning its long standing containership capacity ceiling as CEO Vincent Clerc prepares the Danish carrier for aggressive fleet expansion. Throughout the profitable 2020s, the company maintained strict capacity limits to control slot costs and stabilize maritime freight rates.",
-                "This strategic pivot marks a major shift in global liner competition and vessel deployment philosophies across primary trade lanes. Shippers and logistics operators must reevaluate long-term carrier contracting strategies as major lines pivot back toward capacity scaling."
+                "An empty liquefied petroleum gas tanker will cut the Panama Canal queue after paying a record $4.6M fee amidst severe regional transit disruptions. This staggering sum eclipses the previous high of $3.98M and highlights the extreme costs vessel operators are willing to absorb to bypass massive bottlenecks.",
+                "Surging priority transit costs directly inflate operational overhead for charterers and shippers relying on vital global waterways for timely cargo delivery. Logistics directors must factor volatile queue pricing into baseline route calculations to protect profit margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HOUHUIS ATTACK HORMUZ TANKER",
+            "nextUpTease": "FEDERAL: USTR ADVANCES FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: HOUHIS ATTACK HORMUZ TANKER",
+            "heading": "REGULATION: USTR ADVANCES FORCED LABOR TARIFFS",
             "paragraphs": [
-                "A seafarer has been killed in the latest merchant shipping attack within the Strait of Hormuz, while Iran claims to have detained a UAE-owned tanker for non-compliance. The escalating hostilities continue to disrupt critical energy corridors and force vessel operators to alter transit routes.",
-                "Risk exposure and hull insurance premiums are surging for carriers maintaining operations through high-threat Middle Eastern chokepoints. Supply chain directors must factor ongoing geopolitical friction and potential voyage delays into baseline transit calculations."
+                "The Office of the United States Trade Representative is moving forward with the implementation of strict tariffs on 60 nations under Section 301. These sweeping trade actions target goods linked to supply chain compliance violations and forced labor practices worldwide.",
+                "Importers across multiple sectors face escalating duty exposures and complex audit requirements to verify tier-one and tier-two sourcing integrity. Procurement teams must rapidly upgrade supplier visibility platforms to prevent costly border seizures and customs penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOVERNMENT: CLOCK TICKS ON CANADA TARIFFS",
+            "nextUpTease": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
             "tags": [
-                "Source: https://splash247.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOVERNMENT: CLOCK TICKS ON CANADA TARIFFS",
+            "heading": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
             "paragraphs": [
-                "The U.S. government is rapidly approaching its implementation deadline for potential 50% tariffs on Canadian imports, prompting urgent supply chain countermeasures. Importers across automotive, manufacturing, and consumer goods sectors are accelerating cross-border shipments to avoid punitive duties.",
-                "Businesses relying on integrated North American supply chains face severe margin compression if the proposed tariff escalations take effect. Procurement teams must model alternative sourcing regions and secure immediate warehouse buffer stock to mitigate trade risks."
+                "Autonomous freight provider Einride has announced the integration of 500 Tesla Semis into its active North American fleet network. This major deployment accelerates commercial adoption of heavy-duty electric trucks across key domestic distribution corridors.",
+                "Fleet operators are aggressively adopting zero-emission heavy transport to comply with strict corporate sustainability mandates and offset rising fuel expenses. Logistics executives must evaluate capital investments in charging infrastructure to maintain competitive transport parity."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: LUFTHANSA IT OUTAGE HALTS HUBS",
+            "nextUpTease": "COURT: DE MINIMIS TARIFF EXEMPTION UPHELD",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-18T00:00:00Z",
@@ -53,61 +53,61 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "AIR CARGO: LUFTHANSA IT OUTAGE HALTS HUBS",
+            "heading": "CUSTOMS: DE MINIMIS TARIFF EXEMPTION UPHELD",
             "paragraphs": [
-                "Lufthansa Cargo handling operations across its primary Frankfurt and Munich hubs experienced a complete shutdown following a severe system IT outage. Freight forwarders were left scrambling for alternative routing solutions as cargo processing ground to a standstill over the weekend.",
-                "Sudden technology failures expose critical vulnerabilities in digital air freight terminal infrastructure and ground handling workflows. Logistics managers must establish robust contingency protocols to reroute time-sensitive air shipments during unexpected hub disruptions."
+                "The Court of International Trade has officially ruled that the executive branch holds full authority to rescind tariff exemptions for sub-$800 imports. This judicial decision solidifies ongoing federal crackdowns on low-value direct-to-consumer shipments entering domestic markets.",
+                "E-commerce brands and parcel forwarders relying on duty-free parcel channels face sudden margin compression and higher per-item landed costs. Supply chain strategists must restructure import models to absorb recurring duty assessments on high-volume inbound parcels."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT: NEW ORLEANS TERMINAL GETS PERMIT",
+            "nextUpTease": "MARITIME: FMC ENFORCES DETENTION BILLING",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PORT: NEW ORLEANS TERMINAL GETS PERMIT",
+            "heading": "MARITIME: FMC ENFORCES DETENTION BILLING",
             "paragraphs": [
-                "The Louisiana International Terminal has secured its final federal permit, clearing the way for construction to begin later this year on the $2B mega project. The facility aims to expand Gulf Coast container handling capacity and alleviate persistent regional gateway congestion.",
-                "Infrastructure investments of this scale are essential for accommodating larger container vessels and supporting growing export volumes. Supply chain planners should monitor development timelines to optimize future drayage and distribution network designs."
+                "The U.S. Court of Appeals for the D.C. Circuit upheld a key Federal Maritime Commission decision ensuring demurrage and detention fees actively promote freight fluidity. The ruling reinforces strict regulatory oversight on ocean carriers and terminal operators issuing penalty invoices.",
+                "Shippers gain enhanced legal protection against unfair or deceptive port storage charges that accumulate during systemic supply chain congestion. Logistics managers should audit historical carrier billing statements to recover improperly assessed demurrage and detention fees."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
+            "nextUpTease": "RETAIL: NRF REPORTS PEAK PORT IMPORTS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.fmc.gov",
+                "Published: 2026-07-08T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
+            "heading": "LOGISTICS: NRF REPORTS PEAK PORT IMPORTS",
             "paragraphs": [
-                "Autonomous freight technology provider Einride has announced the integration of 500 Tesla Semis into its North American fleet operations. This major fleet expansion accelerates commercial deployment of heavy-duty electric trucks across key freight corridors.",
-                "Fleet operators are increasingly turning to zero-emission vehicle technologies to meet strict corporate sustainability mandates and lower long-term operating costs. Logistics executives must evaluate capital investments in electric vehicle infrastructure to maintain competitive transport parity."
+                "Data from the National Retail Federation projects that containerized import volumes at major U.S. ports have peaked early as businesses aggressively build holiday inventories. Retailers pulled forward peak shipping schedules to mitigate potential tariff escalations and carrier capacity constraints.",
+                "Early inventory surges create compressed warehousing demand and unpredictable drayage patterns across major coastal gateway terminals. Supply chain planners must optimize multi-modal distribution schedules to prevent yard gridlock and excessive equipment holding costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "RISK: DRONE TARIFFS HIT 100% DUTY RATE",
+            "nextUpTease": "LABOR: TYSON CUTS BEEF PLANT CAPACITY",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RISK: DRONE TARIFFS HIT 100% DUTY RATE",
+            "heading": "OPERATIONS: TYSON CUTS BEEF PLANT CAPACITY",
             "paragraphs": [
-                "The U.S. government has officially imposed 100% tariffs on imported unmanned aerial systems and critical drone components from targeted nations. The sweeping duty adjustments align with broader executive orders designed to reduce domestic supply chain reliance on foreign manufacturing.",
-                "Commercial enterprises utilizing aerial robotics for warehouse automation, site surveillance, and last-mile delivery face immediate capital expenditure increases. Sourcing directors must accelerate supplier diversification initiatives to bypass prohibitive import levies on essential hardware."
+                "Meat processing giant Tyson Foods announced plans to shutter operations at three major facilities and eliminate at least 2,500 jobs amid an ongoing cattle shortage. The structural downsizing reflects severe margin pressures across agricultural supply chains and dwindling livestock herds.",
+                "Factory closures force protein distributors to recalibrate regional transport networks and secure alternative long-haul cold chain routes. Procurement officers must adapt distribution blueprints quickly to maintain product flow and stabilize cold storage expenditures."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
                 "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

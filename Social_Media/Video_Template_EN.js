@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "MAERSK TEARS UP FLEET CEILING",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES FOUR POINT SIX MILLION DOLLARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: MAERSK TEARS UP FLEET CEILING",
-                "teaserTitle": "MARITIME: HOUHUIS ATTACK HORMUZ TANKER",
+                "headline": "WATERWAY: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
+                "teaserTitle": "REGULATION: USTR ADVANCES FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Maersk is abandoning its long standing container ship capacity ceiling to pursue aggressive fleet expansion. This strategic pivot signals a major shift in global liner competition across primary trade lanes."
+                "narration_line": "An empty tanker paid four point six million dollars to cut the Panama Canal queue. This record fee highlights the extreme costs shippers face to bypass waterway bottlenecks."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HOUHIS ATTACK HORMUZ TANKER",
-                "teaserTitle": "GOVERNMENT: CLOCK TICKS ON CANADA TARIFFS",
+                "headline": "REGULATION: USTR ADVANCES FORCED LABOR TARIFFS",
+                "teaserTitle": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A seafarer has been killed in a new merchant shipping attack within the Strait of Hormuz. Escalating hostilities continue to disrupt critical energy corridors and force vessel route changes."
+                "narration_line": "The trade representative is advancing new tariffs on sixty nations under section three hundred one. Importers face strict compliance audits and rising duty exposures."
             },
             {
                 "slide_index": 3,
-                "headline": "GOVERNMENT: CLOCK TICKS ON CANADA TARIFFS",
-                "teaserTitle": "AIR CARGO: LUFTHANSA IT OUTAGE HALTS HUBS",
+                "headline": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
+                "teaserTitle": "COURT: DE MINIMIS TARIFF EXEMPTION UPHELD",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The United States is approaching a deadline for potential fifty percent tariffs on Canadian imports. Importers are rushing cross border shipments to avoid punitive duty escalations."
+                "narration_line": "Einride has integrated five hundred Tesla Semis into its North American transport fleet. The deployment accelerates commercial adoption of zero emission heavy trucks."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: LUFTHANSA IT OUTAGE HALTS HUBS",
-                "teaserTitle": "PORT: NEW ORLEANS TERMINAL GETS PERMIT",
+                "headline": "CUSTOMS: DE MINIMIS TARIFF EXEMPTION UPHELD",
+                "teaserTitle": "MARITIME: FMC ENFORCES DETENTION BILLING",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Lufthansa Cargo operations across Frankfurt and Munich hubs suffered a complete shutdown from an IT outage. Forwarders scrambled for alternatives as cargo processing ground to a standstill."
+                "narration_line": "A federal court upheld executive authority to rescind tariff exemptions for sub eight hundred dollar imports. E-commerce logistics providers face sudden margin compression."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT: NEW ORLEANS TERMINAL GETS PERMIT",
-                "teaserTitle": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
+                "headline": "MARITIME: FMC ENFORCES DETENTION BILLING",
+                "teaserTitle": "LOGISTICS: NRF REPORTS PEAK PORT IMPORTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Louisiana International Terminal secured final federal permits for a two billion dollar project. Construction begins soon to expand Gulf Coast container handling capacity."
+                "narration_line": "The appeals court upheld a maritime commission rule ensuring detention fees promote freight fluidity. Shippers gain stronger legal protection against unfair terminal charges."
             },
             {
                 "slide_index": 6,
-                "headline": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
-                "teaserTitle": "RISK: DRONE TARIFFS HIT 100% DUTY RATE",
+                "headline": "LOGISTICS: NRF REPORTS PEAK PORT IMPORTS",
+                "teaserTitle": "LABOR: TYSON CUTS BEEF PLANT CAPACITY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Einride has integrated five hundred Tesla Semis into its North American freight fleet operations. This expansion accelerates commercial deployment of heavy duty electric trucks."
+                "narration_line": "National retail data shows import volumes at major United States ports peaked early. Businesses pulled forward shipments to mitigate potential tariff and capacity risks."
             },
             {
                 "slide_index": 7,
-                "headline": "RISK: DRONE TARIFFS HIT 100% DUTY RATE",
+                "headline": "OPERATIONS: TYSON CUTS BEEF PLANT CAPACITY",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The United States has imposed one hundred percent tariffs on imported unmanned aerial systems. The new duties aim to reduce domestic supply chain reliance on foreign manufacturing."
+                "narration_line": "Tyson Foods is closing three facilities and cutting twenty five hundred jobs amid cattle shortages. The downsizing forces protein distributors to recalibrate cold chain routes."
             },
             {
                 "slide_index": 8,
