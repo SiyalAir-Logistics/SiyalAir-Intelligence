@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TARIFFS: TRUMP IMPOSES 100% TARIFFS ON DRONES",
-                "teaserTitle": "REGULATORY: US DE MINIMIS ELIMINATION UPHELD BY TRADE COURT",
-                "visual_caption": "President Trump enacted 100% tariffs on drones and components. Importers face severe cost spikes that threaten supply chain margins."
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
+                "teaserTitle": "FUEL: DIESEL MARGINS HIT RECORD HIGH",
+                "visual_caption": "An empty LPG tanker will cut the Panama Canal queue after paying a record $4.6M fee. This unprecedented surcharge highlights severe capacity bottlenecks across key trade routes."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: US DE MINIMIS ELIMINATION UPHELD BY TRADE COURT",
-                "teaserTitle": "DEFENSE: PENTAGON SIGNS OVER $2B IN DEALS",
-                "visual_caption": "The trade court upheld the repeal of tariff exemptions for sub-$800 imports. E-commerce operators must prepare for rigorous customs clearance."
+                "headline": "FUEL: DIESEL MARGINS HIT RECORD HIGH",
+                "teaserTitle": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
+                "visual_caption": "U.S. diesel refining margins have climbed past $100 a barrel to reach an all-time high. Motor carriers are passing surging fuel surcharges directly to enterprise shippers."
             },
             {
                 "slide_index": 3,
-                "headline": "DEFENSE: PENTAGON SIGNS OVER $2B IN DEALS",
-                "teaserTitle": "MARITIME: PANAMA CANAL CONTINUES DRAFT RESTRICTIONS",
-                "visual_caption": "The Pentagon issued over $2B in loans for domestic battery production. Manufacturers must adapt to shifting onshore sourcing mandates."
+                "headline": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
+                "teaserTitle": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
+                "visual_caption": "German union strikes have paralyzed 6 major seaports and container operations. Supply chain planners must prepare for cascading vessel bunching across European gateways."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: PANAMA CANAL CONTINUES DRAFT RESTRICTIONS",
-                "teaserTitle": "RAILROAD: BNSF ADDS FASTER INTERMODAL SERVICE",
-                "visual_caption": "Ongoing draft restrictions across the Panama Canal constrain vessel capacity. Carriers are levying heavy surcharges that inflate transit expenses."
+                "headline": "TECHNOLOGY: EINRIDE ADDS 500 TESLA SEMIS",
+                "teaserTitle": "SECURITY: BULKER ATTACKED IN HORMUZ STRAIT",
+                "visual_caption": "Einride is adding 500 Tesla Semis to triple its North American electric fleet capacity. Shippers gain sustainable linehaul options ahead of tightening emissions mandates."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILROAD: BNSF ADDS FASTER INTERMODAL SERVICE",
-                "teaserTitle": "AVIATION: MUTED AIR CARGO PEAK SEASON ACTIVITY",
-                "visual_caption": "BNSF Railway expanded its Phoenix-to-Dallas intermodal service to 6 days weekly. Shippers gain a reliable overland alternative to highways."
+                "headline": "SECURITY: BULKER ATTACKED IN HORMUZ STRAIT",
+                "teaserTitle": "REGULATORY: STATES SUE OVER CDL RECORDS",
+                "visual_caption": "A bulk carrier attack near Oman resulted in a seafarer fatality in the Strait of Hormuz. Vessel operators are reviewing war-risk insurance and alternative routing."
             },
             {
                 "slide_index": 6,
-                "headline": "AVIATION: MUTED AIR CARGO PEAK SEASON ACTIVITY",
-                "teaserTitle": "COMPLIANCE: KIMBERLY-CLARK SECURES $45M TARIFF REFUND",
-                "visual_caption": "Global air cargo spot rates dropped 6% amid muted peak season demand. Shippers can leverage softer pricing to negotiate favorable charter rates."
+                "headline": "REGULATORY: STATES SUE OVER CDL RECORDS",
+                "teaserTitle": "INFRASTRUCTURE: NEW ORLEANS CONTAINER TERMINAL",
+                "visual_caption": "A coalition of 22 states is suing the DOT over demands to access 17M driver records. Fleets face heightened compliance friction across interstate operations."
             },
             {
                 "slide_index": 7,
-                "headline": "COMPLIANCE: KIMBERLY-CLARK SECURES $45M TARIFF REFUND",
+                "headline": "INFRASTRUCTURE: NEW ORLEANS CONTAINER TERMINAL",
                 "teaserTitle": "",
-                "visual_caption": "Kimberly-Clark secured a $45M refund on prior year tariff payments. Proactive duty reclamation provides crucial cash flow relief for enterprises."
+                "visual_caption": "New Orleans has secured federal approval for the first Gulf greenfield terminal in 20 years. The deepwater facility will significantly expand regional container throughput."
             },
             {
                 "slide_index": 8,
