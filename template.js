@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
-        "titleBlue": "$4.6M",
-        "footerSummary": "An empty tanker pays a record $4.6M queue jump fee at the Panama Canal as Mideast conflict reroutes global shipping."
+        "titleWhite": "MAERSK TEARS UP FLEET",
+        "titleBlue": "CEILING",
+        "footerSummary": "Maersk abandons its long standing containership capacity ceiling, signaling aggressive fleet growth as global maritime strategies shift."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE SURPASSES $4.6M",
+            "heading": "MARITIME: MAERSK TEARS UP FLEET CEILING",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker will bypass the Panama Canal queue next week after paying a record $4.6M fee. The unprecedented financial outlay highlights severe capacity bottlenecks and ongoing transit delays across critical global chokepoints.",
-                "Vessel operators facing tight schedule windows must weigh the heavy capital expense of queue jumping against extensive waiting costs. Supply chain directors must factor surging priority tolls into route planning budgets as maritime congestion escalates."
+                "Maersk is abandoning its long standing containership capacity ceiling as CEO Vincent Clerc prepares the Danish carrier for aggressive fleet expansion. Throughout the profitable 2020s, the company maintained strict capacity limits to control slot costs and stabilize maritime freight rates.",
+                "This strategic pivot marks a major shift in global liner competition and vessel deployment philosophies across primary trade lanes. Shippers and logistics operators must reevaluate long-term carrier contracting strategies as major lines pivot back toward capacity scaling."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: STATES SUE DOT OVER CDL DATA",
+            "nextUpTease": "MARITIME: HOUHUIS ATTACK HORMUZ TANKER",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "REGULATION: TWENTY-TWO STATES SUE DOT OVER CDL RECORDS",
+            "heading": "MARITIME: HOUHIS ATTACK HORMUZ TANKER",
             "paragraphs": [
-                "A coalition of 22 U.S. states has filed a federal lawsuit challenging a Department of Transportation mandate requiring the turnover of 17M commercial driver records. The legal battle centers on federal authority versus state-level data privacy rights in driver compliance management.",
-                "Motor carriers face increasing regulatory friction as federal oversight initiatives clash with decentralized state recordkeeping systems. Fleet compliance directors must monitor the litigation closely to avoid unexpected disruptions in driver qualification verification workflows."
+                "A seafarer has been killed in the latest merchant shipping attack within the Strait of Hormuz, while Iran claims to have detained a UAE-owned tanker for non-compliance. The escalating hostilities continue to disrupt critical energy corridors and force vessel operators to alter transit routes.",
+                "Risk exposure and hull insurance premiums are surging for carriers maintaining operations through high-threat Middle Eastern chokepoints. Supply chain directors must factor ongoing geopolitical friction and potential voyage delays into baseline transit calculations."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: GLOBAL SPOT RATES SLUMP",
+            "nextUpTease": "GOVERNMENT: CLOCK TICKS ON CANADA TARIFFS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: GLOBAL SPOT RATES SLUMP 6% ON SOFT DEMAND",
+            "heading": "GOVERNMENT: CLOCK TICKS ON CANADA TARIFFS",
             "paragraphs": [
-                "Global air cargo spot rates have fallen 6% month over month as early peak season demand displays unexpected softness across primary trade lanes. Xeneta reports that lower chargeable weight volumes are shifting pricing power back toward forwarders and enterprise shippers.",
-                "Logistics managers can leverage current soft air freight pricing to optimize urgent inventory replenishment schedules without inflating operating budgets. Supply chain planners should weigh whether to secure short-term spot deals or lock in commitments before autumn volume surges."
+                "The U.S. government is rapidly approaching its implementation deadline for potential 50% tariffs on Canadian imports, prompting urgent supply chain countermeasures. Importers across automotive, manufacturing, and consumer goods sectors are accelerating cross-border shipments to avoid punitive duties.",
+                "Businesses relying on integrated North American supply chains face severe margin compression if the proposed tariff escalations take effect. Procurement teams must model alternative sourcing regions and secure immediate warehouse buffer stock to mitigate trade risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: KIMBERLY-CLARK SECURES TARIFF REFUND",
+            "nextUpTease": "AIR CARGO: LUFTHANSA IT OUTAGE HALTS HUBS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FINANCE: KIMBERLY-CLARK SECURES $45M TARIFF REFUND",
+            "heading": "AIR CARGO: LUFTHANSA IT OUTAGE HALTS HUBS",
             "paragraphs": [
-                "Kimberly-Clark has secured a $45M tariff refund, recovering half of its total tariff payments made over the past year. The financial recovery will help offset incremental cost pressures stemming from elevated commodity and energy prices.",
-                "Corporate finance and supply chain teams should evaluate historical tariff entries to identify potential refund opportunities and mitigate margin erosion. Proactive duty recovery strategies provide essential cash flow buffers in volatile trade environments."
+                "Lufthansa Cargo handling operations across its primary Frankfurt and Munich hubs experienced a complete shutdown following a severe system IT outage. Freight forwarders were left scrambling for alternative routing solutions as cargo processing ground to a standstill over the weekend.",
+                "Sudden technology failures expose critical vulnerabilities in digital air freight terminal infrastructure and ground handling workflows. Logistics managers must establish robust contingency protocols to reroute time-sensitive air shipments during unexpected hub disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILWAY: TRAIN THEFT LOSSES SPARK TECH PUSH",
+            "nextUpTease": "PORT: NEW ORLEANS TERMINAL GETS PERMIT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAILWAY: TRAIN THEFT LOSSES REACH $200M ANNUALLY",
+            "heading": "PORT: NEW ORLEANS TERMINAL GETS PERMIT",
             "paragraphs": [
-                "Major freight railroads are losing $200M annually to cargo theft, prompting carriers to partner with local police and corporate security to deploy advanced monitoring technology. Class I networks are investing heavily in drones, surveillance systems, and physical barriers along vulnerable corridors.",
-                "Supply chain security directors face mounting cargo protection challenges as organized theft targets high-value rail shipments. Integrating real-time location tracking and hardened infrastructure is vital for safeguarding goods in transit."
+                "The Louisiana International Terminal has secured its final federal permit, clearing the way for construction to begin later this year on the $2B mega project. The facility aims to expand Gulf Coast container handling capacity and alleviate persistent regional gateway congestion.",
+                "Infrastructure investments of this scale are essential for accommodating larger container vessels and supporting growing export volumes. Supply chain planners should monitor development timelines to optimize future drayage and distribution network designs."
             ],
             "imageUrl": "",
-            "nextUpTease": "DEFENSE: PENTAGON SIGNS CRITICAL LOANS",
+            "nextUpTease": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "DEFENSE: PENTAGON SIGNS $2B IN CRITICAL DEals",
+            "heading": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
             "paragraphs": [
-                "The U.S. Department of Defense has finalized over $2B in conditional loan commitments through its Office of Strategic Capital to secure domestic battery and critical mineral supplies. Entities including Sila Technologies and Sunrise Energy Metals received backing to fortify industrial supply chains.",
-                "Industrial manufacturers dependent on advanced energy storage and rare materials must align sourcing strategies with expanding domestic production initiatives. Long-term supplier resilience relies on mitigating foreign dependencies for critical manufacturing inputs."
+                "Autonomous freight technology provider Einride has announced the integration of 500 Tesla Semis into its North American fleet operations. This major fleet expansion accelerates commercial deployment of heavy-duty electric trucks across key freight corridors.",
+                "Fleet operators are increasingly turning to zero-emission vehicle technologies to meet strict corporate sustainability mandates and lower long-term operating costs. Logistics executives must evaluate capital investments in electric vehicle infrastructure to maintain competitive transport parity."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: U.S. IMPORTS PEAK AHEAD OF TARIFFS",
+            "nextUpTease": "RISK: DRONE TARIFFS HIT 100% DUTY RATE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RETAIL: U.S. IMPORTS PEAK AHEAD OF TARIFF DEADLINES",
+            "heading": "RISK: DRONE TARIFFS HIT 100% DUTY RATE",
             "paragraphs": [
-                "Data from the National Retail Federation projects that container imports at major U.S. ports have peaked early as businesses aggressively front-load inventory ahead of upcoming tariff implementations. Retailers are accelerating stock replenishment cycles to buffer against anticipated duty escalations.",
-                "Supply chain planners should anticipate unusual seasonal warehouse capacity utilization and drayage congestion around key coastal import gateways. Optimizing distribution networks now prevents costly bottlenecks as fourth-quarter fulfillment demands materialize."
+                "The U.S. government has officially imposed 100% tariffs on imported unmanned aerial systems and critical drone components from targeted nations. The sweeping duty adjustments align with broader executive orders designed to reduce domestic supply chain reliance on foreign manufacturing.",
+                "Commercial enterprises utilizing aerial robotics for warehouse automation, site surveillance, and last-mile delivery face immediate capital expenditure increases. Sourcing directors must accelerate supplier diversification initiatives to bypass prohibitive import levies on essential hardware."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
                 "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

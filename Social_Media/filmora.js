@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE SURPASSES $4.6M",
-                "teaserTitle": "REGULATION: STATES SUE DOT OVER CDL DATA",
-                "visual_caption": "An empty tanker paid a record $4.6M fee to jump the Panama Canal queue. The unprecedented outlay highlights severe transit delays across global chokepoints."
+                "headline": "MARITIME: MAERSK TEARS UP FLEET CEILING",
+                "teaserTitle": "MARITIME: HOUHUIS ATTACK HORMUZ TANKER",
+                "visual_caption": "Maersk is abandoning its long-standing containership capacity ceiling to pursue aggressive fleet expansion. This strategic pivot signals a major shift in global liner competition across primary trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATION: TWENTY-TWO STATES SUE DOT OVER CDL RECORDS",
-                "teaserTitle": "AIR CARGO: GLOBAL SPOT RATES SLUMP",
-                "visual_caption": "Twenty-two U.S. states filed a lawsuit challenging a DOT mandate for 17M driver records. Motor carriers face rising friction from federal and state clashes."
+                "headline": "MARITIME: HOUHIS ATTACK HORMUZ TANKER",
+                "teaserTitle": "GOVERNMENT: CLOCK TICKS ON CANADA TARIFFS",
+                "visual_caption": "A seafarer has been killed in a new merchant shipping attack within the Strait of Hormuz. Escalating hostilities continue to disrupt critical energy corridors and force vessel route changes."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: GLOBAL SPOT RATES SLUMP 6% ON SOFT DEMAND",
-                "teaserTitle": "FINANCE: KIMBERLY-CLARK SECURES TARIFF REFUND",
-                "visual_caption": "Global air cargo spot rates fell 6% amid soft early peak season demand. Logistics managers can leverage lower pricing to optimize urgent inventory flows."
+                "headline": "GOVERNMENT: CLOCK TICKS ON CANADA TARIFFS",
+                "teaserTitle": "AIR CARGO: LUFTHANSA IT OUTAGE HALTS HUBS",
+                "visual_caption": "The U.S. is approaching a deadline for potential 50% tariffs on Canadian imports. Importers are rushing cross-border shipments to avoid punitive duty escalations."
             },
             {
                 "slide_index": 4,
-                "headline": "FINANCE: KIMBERLY-CLARK SECURES $45M TARIFF REFUND",
-                "teaserTitle": "RAILWAY: TRAIN THEFT LOSSES SPARK TECH PUSH",
-                "visual_caption": "Kimberly-Clark secured a $45M tariff refund to offset rising energy costs. Proactive duty recovery provides vital cash flow buffers in volatile trade channels."
+                "headline": "AIR CARGO: LUFTHANSA IT OUTAGE HALTS HUBS",
+                "teaserTitle": "PORT: NEW ORLEANS TERMINAL GETS PERMIT",
+                "visual_caption": "Lufthansa Cargo operations across Frankfurt and Munich hubs suffered a complete shutdown from an IT outage. Forwarders scrambled for alternatives as cargo processing ground to a standstill."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILWAY: TRAIN THEFT LOSSES REACH $200M ANNUALLY",
-                "teaserTitle": "DEFENSE: PENTAGON SIGNS CRITICAL LOANS",
-                "visual_caption": "Major railroads lose $200M annually to cargo theft along transit corridors. Class I networks are deploying drones and surveillance tech to secure freight."
+                "headline": "PORT: NEW ORLEANS TERMINAL GETS PERMIT",
+                "teaserTitle": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
+                "visual_caption": "The Louisiana International Terminal secured final federal permits for a $2B project. Construction begins soon to expand Gulf Coast container handling capacity."
             },
             {
                 "slide_index": 6,
-                "headline": "DEFENSE: PENTAGON SIGNS $2B IN CRITICAL DEals",
-                "teaserTitle": "RETAIL: U.S. IMPORTS PEAK AHEAD OF TARIFFS",
-                "visual_caption": "The Pentagon finalized over $2B in loans for domestic battery supplies. Manufacturers must align sourcing strategies with expanding domestic production."
+                "headline": "TECHNOLOGY: EINRIDE ADDS TESLA SEMIS",
+                "teaserTitle": "RISK: DRONE TARIFFS HIT 100% DUTY RATE",
+                "visual_caption": "Einride has integrated 500 Tesla Semis into its North American freight fleet operations. This expansion accelerates commercial deployment of heavy-duty electric trucks."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL: U.S. IMPORTS PEAK AHEAD OF TARIFF DEADLINES",
+                "headline": "RISK: DRONE TARIFFS HIT 100% DUTY RATE",
                 "teaserTitle": "",
-                "visual_caption": "U.S. port container imports peaked early as retailers front-loaded inventory. Planners should anticipate drayage congestion and high warehouse utilization."
+                "visual_caption": "The U.S. has imposed 100% tariffs on imported unmanned aerial systems. The new duties aim to reduce domestic supply chain reliance on foreign manufacturing."
             },
             {
                 "slide_index": 8,
