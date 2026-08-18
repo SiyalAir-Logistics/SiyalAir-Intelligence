@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4.6 MILLION DOLLARS",
+        "hookTitle": "ARCTIC CANAL OPENS TO CUT ASIA EUROPE TRANSIT",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4M",
-                "teaserTitle": "GOVERNMENT: STATES SUE OVER 17M CDL RECORDS",
+                "headline": "GLOBAL GATEWAYS: ARCTIC CANAL OPENS TO CUT ASIA EUROPE TRANSIT",
+                "teaserTitle": "MARITIME: HORMUZ STRIKE KILLS SEAFARER AS TANKERS GO DARK",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker will cut the Panama Canal queue after paying a record four point six million dollar fee. This highlights the extreme bottlenecks gripping global waterways as conflicts alter trade routes."
+                "narration_line": "A Chinese shipper launched the first commercial Arctic cargo service. The route cuts traditional Asia to Europe transit times in half."
             },
             {
                 "slide_index": 2,
-                "headline": "GOVERNMENT: STATES SUE OVER 17M CDL RECORDS",
-                "teaserTitle": "TRADE: USTR ADVANCES TARIFFS ON 60 NATIONS",
+                "headline": "MARITIME: HORMUZ STRIKE KILLS SEAFARER AS TANKERS GO DARK",
+                "teaserTitle": "FRAUD: YEREVAN GROUP STOLE FREIGHT IN CRYPTO SCAM",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Twenty two state attorneys general are suing federal authorities over demands for seventeen million driver records. Fleets must monitor qualification databases closely to prevent unexpected disruptions."
+                "narration_line": "A fatal attack on merchant shipping in the Strait of Hormuz has escalated risks. Tankers are extending dark transits to keep crude oil moving."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE: USTR ADVANCES TARIFFS ON 60 NATIONS",
-                "teaserTitle": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
+                "headline": "FRAUD: YEREVAN GROUP STOLE FREIGHT IN CRYPTO SCAM",
+                "teaserTitle": "AIR CARGO: PEAK SEASON AIR RATES DROP ON MUTED DEMAND",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The United States Trade Representative is implementing tariffs on sixty nations under Section three oh one. Importers must recalibrate sourcing strategies to mitigate sudden duty increases."
+                "narration_line": "Armenian and US police raided a cybercrime syndicate posing as American carriers. The group stole freight loads and converted proceeds into crypto."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
-                "teaserTitle": "RAIL: TRAIN THIEVES STEAL 200M IN CARGO",
+                "headline": "AIR CARGO: PEAK SEASON AIR RATES DROP ON MUTED DEMAND",
+                "teaserTitle": "SUPPLY CHAIN: USMCA AUTOMOTIVE FUTURE UNCERTAIN",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A seafarer was killed in a military attack on merchant shipping within the Strait of Hormuz. Regional instability continues as vessels navigate hostile waters under severe security threats."
+                "narration_line": "Global air cargo spot rates declined six percent as early peak season demand softens. Shippers now hold greater pricing leverage across lanes."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: TRAIN THIEVES STEAL 200M IN CARGO",
-                "teaserTitle": "FREIGHT: ASIA TO US EAST COAST RATES",
+                "headline": "SUPPLY CHAIN: USMCA AUTOMOTIVE FUTURE UNCERTAIN",
+                "teaserTitle": "REGULATION: DE MINIMIS LOOPHOLE LEGALLY CLOSED",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Railroads are partnering with police as criminal syndicates steal two hundred million dollars in cargo annually. Operators face mounting losses and must deploy advanced tracking solutions."
+                "narration_line": "North American automakers face serious risks as the future of the trade agreement becomes uncertain. Manufacturers must prepare for integrated supply chain disruption."
             },
             {
                 "slide_index": 6,
-                "headline": "FREIGHT: ASIA TO US EAST COAST RATES",
-                "teaserTitle": "FINANCE: PENTAGON CRITICAL MINERAL LOANS",
+                "headline": "REGULATION: DE MINIMIS LOOPHOLE LEGALLY CLOSED",
+                "teaserTitle": "FINANCE: PENTAGON DEALS SECURE CRITICAL MINERALS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Ocean freight rates from Asia to the East Coast have climbed as import volumes absorb vessel capacity. Shippers must absorb higher transportation expenditures and manage spot pricing."
+                "narration_line": "The federal trade court officially upheld the elimination of the eight hundred dollar de minimis exemption. Cross border parcels now face strict duty assessments."
             },
             {
                 "slide_index": 7,
-                "headline": "FINANCE: PENTAGON CRITICAL MINERAL LOANS",
+                "headline": "FINANCE: PENTAGON DEALS SECURE CRITICAL MINERALS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Pentagon executed over two billion dollars in loans to secure domestic battery manufacturing. Industrial recipients are scaling local production quotas to insulate supply chains."
+                "narration_line": "The Department of Defense executed over two billion dollars in loan deals for batteries. These funds insulate industrial supply chains from foreign dependencies."
             },
             {
                 "slide_index": 8,

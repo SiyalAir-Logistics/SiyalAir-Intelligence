@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4M",
-                "teaserTitle": "GOVERNMENT: STATES SUE OVER 17M CDL RECORDS",
-                "visual_caption": "An empty tanker cut the canal queue after paying a record $4.6M fee. This highlights extreme bottlenecks gripping global waterways as conflicts alter trade routes."
+                "headline": "GLOBAL GATEWAYS: ARCTIC CANAL OPENS TO CUT ASIA EUROPE TRANSIT",
+                "teaserTitle": "MARITIME: HORMUZ STRIKE KILLS SEAFARER AS TANKERS GO DARK",
+                "visual_caption": "A Chinese shipper launched the first commercial Arctic cargo service. The new route cuts traditional Asia-Europe transit times by over 50%."
             },
             {
                 "slide_index": 2,
-                "headline": "GOVERNMENT: STATES SUE OVER 17M CDL RECORDS",
-                "teaserTitle": "TRADE: USTR ADVANCES TARIFFS ON 60 NATIONS",
-                "visual_caption": "22 state attorneys general are suing federal authorities over demands for 17M driver records. Fleets must monitor qualification databases closely to prevent disruptions."
+                "headline": "MARITIME: HORMUZ STRIKE KILLS SEAFARER AS TANKERS GO DARK",
+                "teaserTitle": "FRAUD: YEREVAN GROUP STOLE FREIGHT IN CRYPTO SCAM",
+                "visual_caption": "A fatal attack on merchant shipping in the Strait of Hormuz heightens regional risks. Tankers are utilizing extended dark transits to protect cargo."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE: USTR ADVANCES TARIFFS ON 60 NATIONS",
-                "teaserTitle": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
-                "visual_caption": "The USTR is implementing tariffs on 60 nations under Section 301. Importers must recalibrate sourcing strategies to mitigate sudden duty increases."
+                "headline": "FRAUD: YEREVAN GROUP STOLE FREIGHT IN CRYPTO SCAM",
+                "teaserTitle": "AIR CARGO: PEAK SEASON AIR RATES DROP ON MUTED DEMAND",
+                "visual_caption": "Armenian and US police raided a cybercrime syndicate posing as American carriers. The group diverted freight loads and laundered funds into crypto."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
-                "teaserTitle": "RAIL: TRAIN THIEVES STEAL 200M IN CARGO",
-                "visual_caption": "A seafarer was killed in a military attack on merchant shipping within the Strait of Hormuz. Regional instability continues as vessels navigate hostile waters."
+                "headline": "AIR CARGO: PEAK SEASON AIR RATES DROP ON MUTED DEMAND",
+                "teaserTitle": "SUPPLY CHAIN: USMCA AUTOMOTIVE FUTURE UNCERTAIN",
+                "visual_caption": "Global air cargo spot rates dropped 6% as early peak season demand softens. Shippers now benefit from improved pricing leverage across lanes."
             },
             {
                 "slide_index": 5,
-                "headline": "RAIL: TRAIN THIEVES STEAL 200M IN CARGO",
-                "teaserTitle": "FREIGHT: ASIA TO US EAST COAST RATES",
-                "visual_caption": "Railroads partner with police as criminal syndicates steal $200M in cargo annually. Operators face mounting losses and must deploy advanced tracking solutions."
+                "headline": "SUPPLY CHAIN: USMCA AUTOMOTIVE FUTURE UNCERTAIN",
+                "teaserTitle": "REGULATION: DE MINIMIS LOOPHOLE LEGALLY CLOSED",
+                "visual_caption": "North American automakers face major risks as the future of the USMCA trade pact stalls. Manufacturers must plan for cross-border friction."
             },
             {
                 "slide_index": 6,
-                "headline": "FREIGHT: ASIA TO US EAST COAST RATES",
-                "teaserTitle": "FINANCE: PENTAGON CRITICAL MINERAL LOANS",
-                "visual_caption": "Ocean freight rates from Asia to the East Coast climbed as import volumes absorb capacity. Shippers must absorb higher expenditures and manage spot pricing."
+                "headline": "REGULATION: DE MINIMIS LOOPHOLE LEGALLY CLOSED",
+                "teaserTitle": "FINANCE: PENTAGON DEALS SECURE CRITICAL MINERALS",
+                "visual_caption": "The federal trade court upheld the complete elimination of the $800 de minimis exemption. All low-value import parcels now face mandatory duties."
             },
             {
                 "slide_index": 7,
-                "headline": "FINANCE: PENTAGON CRITICAL MINERAL LOANS",
+                "headline": "FINANCE: PENTAGON DEALS SECURE CRITICAL MINERALS",
                 "teaserTitle": "",
-                "visual_caption": "The Pentagon executed over $2B in loans to secure domestic battery manufacturing. Industrial recipients are scaling local production quotas to insulate supply chains."
+                "visual_caption": "The Pentagon executed over $2B in conditional loan deals for domestic battery production. These funds insulate critical supply chains from foreign risk."
             },
             {
                 "slide_index": 8,
