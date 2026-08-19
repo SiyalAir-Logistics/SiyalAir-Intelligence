@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE: FORCED LABOR SECTION 301 TARIFFS",
-                "teaserTitle": "EQUIPMENT: 77% CHASSIS IMPORT DUTIES",
-                "visual_caption": "The US is implementing Section 301 tariffs across 60 trading nations targeting forced labor risks. Shippers must audit vendor origins immediately to prevent cargo seizures at border checkpoints."
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
+                "teaserTitle": "DRONE: AMAZON 500 CITY EXPANSION",
+                "visual_caption": "An empty tanker paid a record $4.6M fee to bypass the Panama Canal queue. Persistent draft restrictions and regional conflicts continue to constrain global maritime capacity."
             },
             {
                 "slide_index": 2,
-                "headline": "EQUIPMENT: 77% CHASSIS IMPORT DUTIES",
-                "teaserTitle": "CONGESTION: 1.7M TEU CAPACITY LOSS",
-                "visual_caption": "A 77% countervailing duty on Mexican chassis imports has forced major supplier GG Trailers out of the US market. Intermodal carriers now face severe equipment deficits and higher chassis leasing costs."
+                "headline": "TECHNOLOGY: AMAZON DRONE EXPANSION",
+                "teaserTitle": "TARIFFS: CANADA 50% DUTY DELAY",
+                "visual_caption": "Amazon is rapidly expanding its autonomous drone delivery network to span 500 US cities by year end. Retail supply chains must adapt to decentralized aerial fulfillment models."
             },
             {
                 "slide_index": 3,
-                "headline": "CONGESTION: 1.7M TEU CAPACITY LOSS",
-                "teaserTitle": "ACQUISITION: $4.5B HAPAG-LLOYD ZIM PUSHBACK",
-                "visual_caption": "Chronic port congestion has removed 1.7M TEU of capacity from global container operations. Ocean freight rates are climbing as vessel delays squeeze available peak season space."
+                "headline": "TRADE: CANADA TARIFF DELAY",
+                "teaserTitle": "COMPLIANCE: PA UNLICENSED CDL FINES",
+                "visual_caption": "The White House granted a temporary 3-day reprieve on proposed 50% tariffs for Canadian imports. Importers are using this brief window to audit North American inventory levels."
             },
             {
                 "slide_index": 4,
-                "headline": "ACQUISITION: $4.5B HAPAG-LLOYD ZIM PUSHBACK",
-                "teaserTitle": "AIRFREIGHT: LUFTHANSA CARGO IT OUTAGE",
-                "visual_caption": "Regulators and freight forwarders are pushing back against Hapag-Lloyd's $4.5B acquisition of Zim. Industry leaders caution that further liner consolidation will curb market competition and routing choices."
+                "headline": "REGULATION: PENNSYLVANIA CDL PENALTIES",
+                "teaserTitle": "LOGISTICS: WISETECH ACCC INVESTIGATION",
+                "visual_caption": "Pennsylvania regulators enacted strict laws allowing civil penalties up to $25K against unlicensed CDL schools. Fleets must verify driver training compliance to avoid liability."
             },
             {
                 "slide_index": 5,
-                "headline": "AIRFREIGHT: LUFTHANSA CARGO IT OUTAGE",
-                "teaserTitle": "SECURITY: US LIFTS NIGERIA RESTRICTIONS",
-                "visual_caption": "A critical software outage crippled Lufthansa Cargo handling hubs across Frankfurt and Munich. The breakdown grounded high-priority shipments and triggered extensive air freight delays across European forwarding channels."
+                "headline": "SOFTWARE: WISETECH ACCC SEARCH",
+                "teaserTitle": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
+                "visual_caption": "Australian antitrust authorities executed a search warrant at logistics software giant WiseTech during an ongoing probe. Enterprise forwarders must monitor software platform stability."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: US LIFTS NIGERIA RESTRICTIONS",
-                "teaserTitle": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
-                "visual_caption": "The US Coast Guard has lifted 12 years of strict port security rules on vessels arriving from Nigeria. Ocean carriers can now shorten vessel turnarounds and reduce trans-Atlantic operating overhead."
+                "headline": "FULFILLMENT: HOME DEPOT EXPRESS RETAIL",
+                "teaserTitle": "COMPLIANCE: USMCA AUTOMOTIVE THREAT",
+                "visual_caption": "Home Depot launched nationwide express delivery within 3 hours using over 2K stores as fulfillment hubs. Retailers are racing to optimize local inventory visibility."
             },
             {
                 "slide_index": 7,
-                "headline": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
+                "headline": "AUTOMOTIVE: USMCA UNCERTAINTY RISK",
                 "teaserTitle": "",
-                "visual_caption": "Home Depot launched nationwide 3-hour delivery by converting more than 2K retail stores into regional fulfillment hubs. The initiative cuts final-mile transit times for high-demand contractor orders."
+                "visual_caption": "North American automakers face severe disruption as the future of the trade agreement faces intense political scrutiny. Manufacturers are re-evaluating sourcing footprints across Mexico."
             },
             {
                 "slide_index": 8,

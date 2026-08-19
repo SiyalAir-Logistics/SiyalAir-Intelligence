@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR SECTION 301",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR activates Section 301 forced labor tariffs across 60 nations, demanding instant origin audits to protect shipper import margins."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP",
+        "titleBlue": "FEE",
+        "footerSummary": "Panama Canal priority queue fees surpass $4.6M as geopolitical rerouting intensifies maritime transit bottlenecks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "TRADE: FORCED LABOR SECTION 301 TARIFFS",
+            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
             "paragraphs": [
-                "The Office of the United States Trade Representative is implementing Section 301 tariffs on 60 trading partners as prior Section 122 duties expire. Federal trade authorities are aggressively targeting supply chain origins linked to forced labor and transshipment hubs.",
-                "Importers must execute immediate traceability audits across tier-1 and tier-2 vendor networks to prevent border seizures. Cargo owners face severe customs clearance delays and financial penalties if supply documentation fails regulatory scrutiny."
+                "An empty liquefied petroleum gas tanker paid a record $4.6M fee to bypass the Panama Canal waiting queue amidst severe regional shipping disruptions. Persistent draft restrictions and geopolitical tensions continue to severely constrain maritime transit capacity across global trade lanes.",
+                "Vessel operators face escalating financial exposure and difficult routing trade-offs to maintain tight delivery schedules. Logistics directors must evaluate premium queue-jump expenses against mounting demurrage costs and delayed cargo delivery timelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: 77% CHASSIS IMPORT DUTIES",
+            "nextUpTease": "DRONE: AMAZON 500 CITY EXPANSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-19T14:30:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "EQUIPMENT: 77% CHASSIS IMPORT DUTIES",
+            "heading": "TECHNOLOGY: AMAZON DRONE EXPANSION",
             "paragraphs": [
-                "Manufacturer GG Trailers has exited the US market following the International Trade Commission's imposition of a 77% countervailing duty on chassis built in Mexico. The trade remedy significantly reduces intermodal equipment supply across North American border transfer hubs.",
-                "Drayage operators and motor carriers face worsening chassis shortages and surging lease rates heading into peak freight season. Fleet managers must evaluate alternate domestic suppliers to mitigate cost inflation across intermodal container corridors."
+                "Amazon is aggressively accelerating its autonomous drone delivery network to span 500 US cities by the end of the year. The massive infrastructural scale-up brings ultrafast aerial fulfillment within reach of tens of millions of residential consumers nationwide.",
+                "Retail supply chains are forced to adapt rapidly to decentralized, aerial last-mile fulfillment models to remain competitive. Traditional courier networks must upgrade automation capabilities to defend market share against compressed delivery windows."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONGESTION: 1.7M TEU CAPACITY LOSS",
+            "nextUpTease": "TARIFFS: CANADA 50% DUTY DELAY",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-19T13:15:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CONGESTION: 1.7M TEU CAPACITY LOSS",
+            "heading": "TRADE: CANADA TARIFF DELAY",
             "paragraphs": [
-                "Persistent bottleneck conditions across major maritime hubs have removed 1.7M TEU of effective container shipping capacity from the global fleet. Inefficient vessel turnarounds and terminal yard congestion continue to choke vessel availability on primary arterial trade lanes.",
-                "Shippers must prepare for elevated ocean contract rates and worsening schedule reliability through Q4. Logistics planners need to adjust transit buffers and consider secondary port routings to bypass chronic gateway delays."
+                "The White House has granted a temporary 3-day reprieve on the proposed 50% tariffs covering Canadian imports while high-stakes trade negotiations continue. Importers and cross-border motor carriers remain on high alert as the administration reviews final trade concessions.",
+                "Supply chain planners must utilize this brief window to audit North American inventory levels and preposition critical components. Prolonged regulatory uncertainty risks severe border congestion and sudden cost spikes for cross-border shippers."
             ],
             "imageUrl": "",
-            "nextUpTease": "ACQUISITION: $4.5B HAPAG-LLOYD ZIM PUSHBACK",
+            "nextUpTease": "COMPLIANCE: PA UNLICENSED CDL FINES",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-19T12:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "ACQUISITION: $4.5B HAPAG-LLOYD ZIM PUSHBACK",
+            "heading": "REGULATION: PENNSYLVANIA CDL PENALTIES",
             "paragraphs": [
-                "Freight forwarders, Brazilian regulatory agencies, and Israeli lawmakers have intensified opposition against Hapag-Lloyd's proposed $4.5B acquisition of Zim. Market stakeholders warn that ongoing liner consolidation threatens regional competition and ocean freight rate stability.",
-                "Supply chain directors must monitor antitrust review proceedings as carrier integration could reduce service offerings on key South American and transpacific loops. Shippers should maintain multi-carrier contracting strategies to protect allocation flexibility."
+                "Pennsylvania state regulators have enacted strict legislation empowering authorities to levy civil penalties up to $25K against unlicensed commercial driver training schools. The enforcement crackdown targets substandard driver preparation to improve overall highway safety standards.",
+                "Motor carriers and fleet operators must rigorously verify the credential compliance of driver recruiting pipelines to avoid vicarious liability. Sourcing drivers from vetted, certified training programs is now essential to mitigate legal and operational risk."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIRFREIGHT: LUFTHANSA CARGO IT OUTAGE",
+            "nextUpTease": "LOGISTICS: WISETECH ACCC INVESTIGATION",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-19T11:30:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIRFREIGHT: LUFTHANSA CARGO IT OUTAGE",
+            "heading": "SOFTWARE: WISETECH ACCC SEARCH",
             "paragraphs": [
-                "A major IT software failure disrupted Lufthansa Cargo ground handling operations across primary hubs in Frankfurt and Munich. The system outage halted unit load device processing, stranding time-sensitive cargo and creating massive European airway backlogs.",
-                "Air freight forwarders must coordinate diversion protocols and renegotiate tight delivery service level agreements for high-value freight. Shippers should verify cargo status directly with ground handlers to mitigate downstream manufacturing disruptions."
+                "Australian competition regulators executed a formal search warrant at logistics software giant WiseTech as part of an ongoing market dominance probe. The investigation follows previous regulatory scrutiny regarding software acquisitions and industry data integration.",
+                "Enterprise freight forwarders relying on consolidated software ecosystems must monitor potential platform disruptions and licensing shifts. Diversifying technology stacks is critical to ensure operational resilience against third-party vendor investigations."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: US LIFTS NIGERIA RESTRICTIONS",
+            "nextUpTease": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-18T18:45:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: US LIFTS NIGERIA RESTRICTIONS",
+            "heading": "FULFILLMENT: HOME DEPOT EXPRESS RETAIL",
             "paragraphs": [
-                "The US Coast Guard has officially removed Nigerian ports from its Port Security Advisory, ending 12 years of mandatory heightened security protocols for US-bound vessels. The regulatory relief eliminates burdensome clearance procedures for maritime carriers trading along West African routes.",
-                "Ocean carriers can now reduce port turnaround times and lower maritime compliance expenditures on trans-Atlantic trade lanes. Importers moving commodities from West Africa should anticipate improved sailing schedule reliability and reduced demurrage overhead."
+                "Home Depot has successfully rolled out nationwide express delivery within 3 hours or less, leveraging more than 2K retail stores as localized fulfillment nodes. The rapid service covers thousands of SKUs to capture urgent commercial contractor demand.",
+                "Omnichannel retail logistics is undergoing a fundamental structural shift toward decentralized storefront warehousing and fast linehaul execution. Competing distributors must optimize local inventory visibility to match expedited fulfillment benchmarks."
             ],
             "imageUrl": "",
-            "nextUpTease": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
+            "nextUpTease": "COMPLIANCE: USMCA AUTOMOTIVE THREAT",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-19T10:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
+            "heading": "AUTOMOTIVE: USMCA UNCERTAINTY RISK",
             "paragraphs": [
-                "Home Depot has launched nationwide express delivery within 3 hours or less, transforming more than 2K retail stores into localized fulfillment nodes. The rapid logistics model covers thousands of stock keeping units to support urgent commercial and contractor demands.",
-                "Retail supply chains are accelerating the shift toward decentralized storefront fulfillment to counter rising final-mile linehaul expenses. Competing building materials distributors must upgrade omnichannel fulfillment capabilities to defend regional market share."
+                "North American automotive manufacturers face severe strategic disruption as the long-term viability of the United States-Mexico-Canada Agreement comes under intense political scrutiny. Automakers must prepare for potential regional supply chain realignment and reinstated border duties.",
+                "Supply chain directors are re-evaluating tier-1 sourcing footprints across Mexico and Canada to mitigate sudden cross-border tariff exposure. Investing in agile manufacturing networks is vital to survive the potential dismantling of the trade pact."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-19T09:15:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
