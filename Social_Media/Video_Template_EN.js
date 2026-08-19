@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR 301 TARIFFS",
+        "hookTitle": "DIESEL CRACK SPREADS HIT 100",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR 301 TARIFFS",
-                "teaserTitle": "MARITIME: PANAMA CANAL CAPACITY RATIONING",
+                "headline": "FUEL: DIESEL CRACK SPREADS SURGE",
+                "teaserTitle": "MARITIME: PANAMA CANAL QUEUE-JUMP RECORD",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is implementing Section three zero one tariffs targeting forced labor across sixty nations. Importers face immediate customs audits, mandatory supply chain tracing, and unexpected duty surcharges on Q3 shipments."
+                "narration_line": "Refinery crack spreads for middle distillates have topped one hundred dollars per barrel. Fleet operators face immediate operating cost inflation across North American freight networks."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL CAPACITY RATIONING",
-                "teaserTitle": "FUEL: RECORD HIGH DIESEL MARGINS",
+                "headline": "MARITIME: PANAMA CANAL QUEUE-JUMP RECORD",
+                "teaserTitle": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Panama Canal Authority is initiating capacity and draft rationing ahead of an expected severe drought. Shippers face soaring auction slot premiums and extended transit delays across Americas-bound maritime routes."
+                "narration_line": "The Panama Canal recorded a record four point six million dollar priority fee. Drought conditions restrict daily reservation slots and drive up transit costs."
             },
             {
                 "slide_index": 3,
-                "headline": "FUEL: RECORD HIGH DIESEL MARGINS",
-                "teaserTitle": "SUEZ: MSC RESUMES CANAL TRANSITS",
+                "headline": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
+                "teaserTitle": "PORTS: LOS ANGELES HANDLES 960K TEUS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "National diesel prices hit five dollars and forty-five cents per gallon as refinery crack margins breach historic highs. Fleet operators must absorb sharp fuel cost spikes or pass escalating surcharges directly to contracted shippers."
+                "narration_line": "Twenty-two states are suing the Department of Transportation over driver record mandates. The legal battle creates compliance uncertainty for interstate motor carriers."
             },
             {
                 "slide_index": 4,
-                "headline": "SUEZ: MSC RESUMES CANAL TRANSITS",
-                "teaserTitle": "AVIATION: DOT APPROVES UPS ROUTE TRANSFER",
+                "headline": "PORTS: LOS ANGELES HANDLES 960K TEUS",
+                "teaserTitle": "TECHNOLOGY: ROBOT ORDERS HIT 1.2B",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Seven major container vessels operated by MSC have resumed transit through the Suez Canal corridor. Carrier redeployments signal cautious confidence in Red Sea security, creating selective routing savings against longer African detours."
+                "narration_line": "The Port of Los Angeles processed nine hundred sixty thousand TEUs in July. Shippers are front-loading cargo ahead of projected trade policy volatility."
             },
             {
                 "slide_index": 5,
-                "headline": "AVIATION: DOT APPROVES UPS ROUTE TRANSFER",
-                "teaserTitle": "INTERMODAL: BNSF EXPANDS SOUTHWEST RAIL",
+                "headline": "TECHNOLOGY: ROBOT ORDERS HIT 1.2B",
+                "teaserTitle": "AIR FREIGHT: UPS HONG KONG ROUTE TRANSFER",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Department of Transportation approved the transfer of key UPS air cargo routing from Hong Kong to the Philippines. Forwarders should evaluate Clark hub transshipment schedules to mitigate regional congestion and preserve express delivery commitments."
+                "narration_line": "North American enterprises invested one point two billion dollars in warehouse robotics. Operators are scaling automation to combat persistent labor shortages."
             },
             {
                 "slide_index": 6,
-                "headline": "INTERMODAL: BNSF EXPANDS SOUTHWEST RAIL",
-                "teaserTitle": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
+                "headline": "AIR FREIGHT: UPS HONG KONG ROUTE TRANSFER",
+                "teaserTitle": "OCEAN: MSC TESTS RED SEA SUEZ ROUTES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "BNSF Railway launched six-day weekly intermodal service connecting Phoenix and North Texas in under four days. Cross-country shippers gain resilient overland capacity options to bypass congested regional truckload corridors."
+                "narration_line": "The Department of Transportation approved UPS route transfers to the Philippines. This expansion diversifies regional air express sorting infrastructure."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
+                "headline": "OCEAN: MSC TESTS RED SEA SUEZ ROUTES",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Twenty-two states filed a joint lawsuit against the Department of Transportation over access demands for seventeen million commercial driver records. Motor carriers face shifting compliance hurdles and heightened data privacy disputes across interstate freight lanes."
+                "narration_line": "Mediterranean Shipping Company resumed transits through the Suez Canal. Direct routing cuts up to fourteen days off maritime schedules."
             },
             {
                 "slide_index": 8,

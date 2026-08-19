@@ -1,65 +1,95 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "FORCED LABOR 301",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR advances Section 301 forced labor tariffs on 60 nations as drought-triggered Panama Canal rationing and surging diesel spreads escalate Q3 operational costs."
+        "titleWhite": "DIESEL CRACK SPREADS HIT",
+        "titleBlue": "$100",
+        "footerSummary": "Diesel crack spreads top $100 as Panama Canal draft limits, record queue fees, and 22-state CDL record lawsuits squeeze Q3 margins."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR 301 TARIFFS",
+            "heading": "FUEL: DIESEL CRACK SPREADS SURGE",
             "paragraphs": [
-                "The Office of the United States Trade Representative officially advanced Section 301 tariffs targeting forced labor practices across 60 trading partner nations following the expiration of Section 122 duties. Customs and Border Protection is deploying enhanced algorithmic screening protocols at key ports of entry to intercept non-compliant apparel, minerals, and agricultural inputs. Importers must provide auditable, origin-level supply chain mapping down to raw material extraction points.",
-                "Enterprise shippers face immediate supply chain exposure, potential cargo detention at marine gateways, and steep retroactive customs penalties. Compliance teams must urgently execute multi-tier supplier audits and diversify sourcing networks away from high-risk manufacturing hubs to safeguard landed product margins."
+                "Refinery crack spreads for middle distillates have officially topped $100 per barrel, decoupling retail diesel prices from benchmark crude oil indices and driving the national average to $5.454 per gallon. Refineries are struggling to balance jet fuel and diesel yields amid seasonal maintenance turnarounds and lingering middle distillate inventory deficits.",
+                "Fleet operators face immediate operating cost inflation that erodes linehaul margin buffers across North American freight networks. Logistics procurement teams must audit dynamic fuel surcharge mechanisms and lock in fixed-rate carrier contracts to protect fourth-quarter operating budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: PANAMA CANAL CAPACITY RATIONING",
+            "nextUpTease": "MARITIME: PANAMA CANAL QUEUE-JUMP RECORD",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-18T14:30:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-18T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: PANAMA CANAL CAPACITY RATIONING",
+            "heading": "MARITIME: PANAMA CANAL QUEUE-JUMP RECORD",
             "paragraphs": [
-                "The Panama Canal Authority has initiated proactive capacity and draft rationing measures in anticipation of projected El Ni\u00f1o-driven drought conditions affecting Gatun Lake water levels. Ocean carriers are responding by issuing booking advisories and introducing emergency canal transit surcharges averaging $350 per container. Daily booking slots are tightening as booking auctions hit record bidding levels.",
-                "Persistent water depth restrictions reduce maximum vessel payload capacities across critical Asia-to-US East Coast service strings. Logistics planners must balance elevated spot auction costs against longer transit lead times associated with Cape of Good Hope routing."
+                "The Panama Canal Authority has recorded its highest-ever priority transit fee as an empty liquefied petroleum gas tanker paid $4.6M to bypass severe Gatun Lake draft restrictions. El Ni\u00f1o-driven drought conditions are severely restricting daily reservation slots, forcing ocean carriers to absorb escalating booking auction costs or face extended voyage delays.",
+                "Persistent water depth limitations reduce maximum vessel deadweight tonnage across vital trade lanes connecting Asian manufacturing bases to US ports. Shippers must evaluate the total cost trade-offs between paying exorbitant priority tolls or re-routing vessels via alternative global marine corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL: RECORD HIGH DIESEL MARGINS",
+            "nextUpTease": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-19T06:15:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FUEL: RECORD HIGH DIESEL MARGINS",
+            "heading": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
             "paragraphs": [
-                "The national average diesel price reached $5.454 per gallon following a 19.7-cent single-week surge driven by refinery capacity bottlenecks. Refining crack spreads topped $100 per barrel for the first time on record, decoupling middle distillate prices from benchmark crude oil indices. Motor carriers are adjusting linehaul fuel surcharges weekly to recover runaway variable operating expenses.",
-                "Escalating diesel expenditures directly inflate over-the-road freight rates, compressing shipper margins across North American distribution networks. Freight procurement leaders must audit fuel surcharge formulas and secure contract volume commitments to stabilize fourth-quarter logistics budgets."
+                "A coalition of 22 state attorneys general has filed a federal lawsuit challenging Department of Transportation mandates requiring state agencies to surrender 17M commercial driver license records. State regulators argue that the sweeping federal data transfer violates statutory privacy protections and exceeds the enforcement authority of the Federal Motor Carrier Safety Administration.",
+                "The legal showdown introduces significant compliance uncertainty for motor carriers managing multi-state driver qualification files and safety auditing workflows. Fleet compliance executives must monitor judicial rulings closely to prevent administrative bottlenecks and maintain interstate operating credentials."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUEZ: MSC RESUMES CANAL TRANSITS",
+            "nextUpTease": "PORTS: LOS ANGELES HANDLES 960K TEUS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-18T15:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-17T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SUEZ: MSC RESUMES CANAL TRANSITS",
+            "heading": "PORTS: LOS ANGELES HANDLES 960K TEUS",
             "paragraphs": [
-                "Mediterranean Shipping Company has resumed Suez Canal transits by dispatching seven container vessels through the Red Sea waterway under heightened security protocols. The carrier joins select global ocean lines testing safe passage through the corridor to eliminate extensive routing detours around Southern Africa. The canal authority continues offering incentive structures to draw major liner services back to the gateway.",
-                "Direct Suez routing recovers 10 to 14 days of sailing schedule reliability and reduces vessel operating fuel consumption on Asia-Europe trade lanes. Supply chain strategists must evaluate carrier risk assessments and insurance premium adjustments when selecting between Suez and African transit options."
+                "The Port of Los Angeles processed over 960K TEUs in July, driven by sustained retail import demand and opportunistic shippers pulling peak season inventories forward. Port leadership projects steady operational volumes of 900K TEUs through August as cargo owners front-load shipments to mitigate potential trade policy volatility.",
+                "Surging throughput at primary West Coast marine gateways heightens the risk of terminal dwell time increases and chassis shortages during peak distribution cycles. Supply chain managers must secure reliable drayage capacity and utilize real-time visibility tools to prevent demurrage accumulation."
             ],
             "imageUrl": "",
-            "nextUpTease": "AVIATION: DOT APPROVES UPS ROUTE TRANSFER",
+            "nextUpTease": "TECHNOLOGY: ROBOT ORDERS HIT 1.2B",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-18T09:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "TECHNOLOGY: ROBOT ORDERS HIT 1.2B",
+            "paragraphs": [
+                "North American enterprises invested $1.2B in warehouse robotics systems during the first half of the year, representing a 6.6% year-over-year increase in automation capital expenditures. Driven by labor scarcity and escalating fulfillment complexity, logistics operators are deploying automated guided vehicles and piece-picking systems to scale throughput.",
+                "Upfront capital investments in warehouse automation deliver long-term operational savings by shrinking facility footprints and lowering per-unit handling costs. Distribution executives must align technology deployment timelines with throughput demand forecasts to maximize return on invested capital."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR FREIGHT: UPS HONG KONG ROUTE TRANSFER",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-18T07:30:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "AIR FREIGHT: UPS HONG KONG ROUTE TRANSFER",
+            "paragraphs": [
+                "The US Department of Transportation has approved the transfer of primary UPS international air cargo frequencies from Hong Kong to the Philippines. The integrator is expanding its regional sorting infrastructure at Clark International Airport to streamline cross-border express package flows across Southeast Asia.",
+                "The regulatory approval provides air cargo shippers with diversified export routing options that bypass increasingly congested traditional Chinese aviation hubs. Forwarders must restructure regional feeder networks to capitalize on accelerated transit velocity from emerging manufacturing corridors."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "OCEAN: MSC TESTS RED SEA SUEZ ROUTES",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: 2026-08-18T18:20:00Z",
@@ -67,47 +97,17 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AVIATION: DOT APPROVES UPS ROUTE TRANSFER",
-            "paragraphs": [
-                "The US Department of Transportation approved the formal transfer of primary UPS international air cargo route frequencies from Hong Kong to the Philippines. The integrator is expanding its air express sorting infrastructure at Clark International Airport to accelerate cross-border package sortation across the Asia-Pacific region. The regulatory decision enables expanded dedicated freighter operations across secondary Southeast Asian manufacturing nodes.",
-                "Airfreight shippers gain diversified export capacity and expedited customs clearance paths bypassing increasingly congested traditional gateway hubs. Forwarders must restructure regional linehaul feeder connections to capitalize on enhanced transit velocity from emerging manufacturing corridors."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "INTERMODAL: BNSF EXPANDS SOUTHWEST RAIL",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-18T11:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "INTERMODAL: BNSF EXPANDS SOUTHWEST RAIL",
-            "paragraphs": [
-                "BNSF Railway launched an expanded six-day weekly intermodal freight service connecting Phoenix with the Dallas-Fort Worth logistics hub with sub-four-day transit times. The railroad added dedicated block train capacity to capture escalating freight volumes migrating from interstate highway trucking corridors. The enhanced service directly connects major inland distribution hubs across the American Southwest.",
-                "Intermodal capacity expansion provides shippers with a predictable, fuel-efficient modal hedge against rising truckload spot rates and localized driver constraints. Supply chain operators must assess total cost of transit metrics to strategically rebalance containerized inventory flows between road and rail."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-18T17:30:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 7,
-            "heading": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
+            "heading": "OCEAN: MSC TESTS RED SEA SUEZ ROUTES",
             "paragraphs": [
-                "A coalition of 22 state attorneys general filed a federal lawsuit challenging the Department of Transportation over mandates requiring state licensing agencies to release 17M commercial driver license records. State regulators argue the sweeping data demand exceeds statutory authority and violates privacy protections governing professional commercial drivers. The legal conflict creates regulatory uncertainty around carrier compliance auditing standards.",
-                "Commercial fleets face fragmented regulatory compliance enforcement and potential administrative delays in processing driver credential renewals. Logistics executives must monitor judicial rulings to update driver qualification compliance workflows and prevent capacity disruptions across interstate fleets."
+                "Mediterranean Shipping Company has deployed seven container vessels back through the Suez Canal under enhanced security protocols, joining other major carriers testing the Red Sea corridor. The Suez Canal Authority is actively incentivizing liner services to return to the shortcut in order to bypass lengthy African cape detours.",
+                "Restoring direct Suez transits cuts 10 to 14 days off Asia-Europe ocean schedules and significantly reduces voyage fuel consumption. Logistics planners must evaluate carrier risk assessments and war risk insurance adjustments when optimizing ocean transit routes."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-18T17:30:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-18T15:00:00Z",
                 "Status: Audited & True"
             ]
         }
