@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GEOPOLITICAL: UAE SUSPENDS TRADE",
-                "teaserTitle": "MARITIME: CAPACITY REMOVAL",
-                "visual_caption": "The United Arab Emirates has suspended all trade with Iran following regional missile strikes. This enforcement action disrupts underground smuggling networks across Middle Eastern free zones."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "REGULATORY: FMC DETENTION RULING",
+                "visual_caption": "USTR is moving forward with Section 301 tariffs on 60 trading partners tied to forced labor. Importers must verify supply chain origin data to prevent immediate cargo detentions."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: CAPACITY REMOVAL",
-                "teaserTitle": "LOGISTICS: DRONE EXPANSION",
-                "visual_caption": "Global port congestion is removing 1.7M TEU of capacity from active circulation. Persistent terminal bottlenecks continue to restrict vessel turnaround times worldwide."
+                "headline": "REGULATORY: FMC DETENTION RULING",
+                "teaserTitle": "COMPLIANCE: SHADOW TRANSSHIPMENT PROBE",
+                "visual_caption": "A federal appeals court upheld the FMC ruling that ocean container detention fees must promote freight fluidity. Shippers can now legally challenge unreasonable carrier demurrage charges during terminal congestion."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: DRONE EXPANSION",
-                "teaserTitle": "FUEL: REFINERY SURGE",
-                "visual_caption": "Amazon is expanding its commercial drone delivery network to 500 cities by year's end. The scaling bypasses urban road congestion to accelerate last-mile fulfillment."
+                "headline": "COMPLIANCE: TRANSSHIPMENT PROBE",
+                "teaserTitle": "MARITIME: PANAMA CANAL AUCTION SURGE",
+                "visual_caption": "Federal authorities are investigating shadow transshipment networks across 40+ countries designed to evade customs tariffs. Importers face aggressive country-of-origin audits and severe retroactive duty assessments."
             },
             {
                 "slide_index": 4,
-                "headline": "FUEL: REFINERY SURGE",
-                "teaserTitle": "REGULATORY: CDL PENALTIES",
-                "visual_caption": "U.S. refiners processed 17.4M barrels of crude daily last week. This production surge offsets regional supply tightness driven by ongoing conflicts."
+                "headline": "MARITIME: PANAMA CANAL SURGE",
+                "teaserTitle": "TRUCKING: 17M CDL RECORDS DISPUTE",
+                "visual_caption": "The Panama Canal recorded a $4.6M queue-jump fee as transit restrictions squeeze vessel slots. Shippers must evaluate escalating auction premiums against longer transit routes around southern capes."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATORY: CDL PENALTIES",
-                "teaserTitle": "MARITIME: HAPAG-ZIM PUSHBACK",
-                "visual_caption": "Pennsylvania regulators can now impose $25K fines on unlicensed driving schools. The law aims to improve workforce compliance standards across commercial fleets."
+                "headline": "TRUCKING: 17M CDL DISPUTE",
+                "teaserTitle": "INTERMODAL: 77% CHASSIS DUTIES",
+                "visual_caption": "22 states are suing to block federal demands for 17M commercial driver license records. Motor carriers must navigate compliance uncertainties while interstate legal challenges proceed."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: HAPAG-ZIM PUSHBACK",
-                "teaserTitle": "RETAIL: IMPORT FORECAST",
-                "visual_caption": "Forwarders are backing regulatory pushback against Hapag-Lloyd's $4.5B acquisition. Carrier consolidation introduces operational uncertainty for global ocean transport."
+                "headline": "INTERMODAL: 77% CHASSIS DUTIES",
+                "teaserTitle": "MARITIME: USCG LIFTS NIGERIA ADVISORY",
+                "visual_caption": "A 77% countervailing duty on Mexican chassis imports has forced a major supplier to exit the market. Drayage operators must secure domestic equipment leases to mitigate tightening regional chassis shortages."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL: IMPORT FORECAST",
+                "headline": "MARITIME: LIFTS NIGERIA ADVISORY",
                 "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "U.S. retailers have downgraded July import forecasts amid cautious consumer spending. The end-of-year outlook remains bullish as networks prepare for peak holiday demand."
+                "visual_caption": "The USCG has removed Nigeria from its Port Security Advisory, ending 12 years of extra vessel restrictions. Ocean carriers can now eliminate redundant clearance delays on transatlantic routes."
             },
             {
                 "slide_index": 8,

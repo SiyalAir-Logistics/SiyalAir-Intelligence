@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "UAE SUSPENDS TRADE WITH IRAN",
+        "hookTitle": "USTR ADVANCES SECTION 301 FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GEOPOLITICAL: UAE SUSPENDS TRADE",
-                "teaserTitle": "MARITIME: CAPACITY REMOVAL",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "REGULATORY: FMC DETENTION RULING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United Arab Emirates has suspended all trade with Iran following regional missile strikes. This action disrupts underground smuggling networks and tightens Middle Eastern supply chain security."
+                "narration_line": "The United States Trade Representative is moving forward with Section three oh one tariffs on sixty trading partners tied to forced labor. Importers must verify supply chain origin data to prevent immediate cargo detentions."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: CAPACITY REMOVAL",
-                "teaserTitle": "LOGISTICS: DRONE EXPANSION",
+                "headline": "REGULATORY: FMC DETENTION RULING",
+                "teaserTitle": "COMPLIANCE: SHADOW TRANSSHIPMENT PROBE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Global port congestion is removing one point seven million T E U of capacity from active circulation. Persistent terminal bottlenecks continue to restrict vessel turnaround times worldwide."
+                "narration_line": "A federal appeals court upheld the Federal Maritime Commission ruling that ocean container detention fees must promote freight fluidity. Shippers can now legally challenge unreasonable carrier demurrage charges during terminal congestion."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: DRONE EXPANSION",
-                "teaserTitle": "FUEL: REFINERY SURGE",
+                "headline": "COMPLIANCE: TRANSSHIPMENT PROBE",
+                "teaserTitle": "MARITIME: PANAMA CANAL AUCTION SURGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Amazon is expanding its commercial drone delivery network to five hundred cities by year end. The scaling bypasses urban road congestion to accelerate last mile fulfillment."
+                "narration_line": "Federal authorities are investigating shadow transshipment networks across forty countries designed to evade customs tariffs. Importers face aggressive country of origin audits and severe retroactive duty assessments."
             },
             {
                 "slide_index": 4,
-                "headline": "FUEL: REFINERY SURGE",
-                "teaserTitle": "REGULATORY: CDL PENALTIES",
+                "headline": "MARITIME: PANAMA CANAL SURGE",
+                "teaserTitle": "TRUCKING: 17M CDL RECORDS DISPUTE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "U S refiners processed seventeen point four million barrels of crude daily last week. This production surge offsets regional supply tightness driven by ongoing conflicts."
+                "narration_line": "The Panama Canal recorded a four point six million dollar queue jump fee as transit restrictions squeeze vessel slots. Shippers must evaluate escalating auction premiums against longer transit routes around southern capes."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATORY: CDL PENALTIES",
-                "teaserTitle": "MARITIME: HAPAG-ZIM PUSHBACK",
+                "headline": "TRUCKING: 17M CDL DISPUTE",
+                "teaserTitle": "INTERMODAL: 77% CHASSIS DUTIES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Pennsylvania regulators can now impose twenty five thousand dollar fines on unlicensed driving schools. The law aims to improve workforce compliance standards across commercial fleets."
+                "narration_line": "Twenty two states are suing to block federal demands for seventeen million commercial driver license records. Motor carriers must navigate compliance uncertainties while interstate legal challenges proceed."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: HAPAG-ZIM PUSHBACK",
-                "teaserTitle": "RETAIL: IMPORT FORECAST",
+                "headline": "INTERMODAL: 77% CHASSIS DUTIES",
+                "teaserTitle": "MARITIME: USCG LIFTS NIGERIA ADVISORY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Forwarders are backing regulatory pushback against Hapag Lloyd's four point five billion dollar acquisition. Carrier consolidation introduces operational uncertainty for global ocean transport."
+                "narration_line": "A seventy seven percent countervailing duty on Mexican chassis imports has forced a major supplier to exit the market. Drayage operators must secure domestic equipment leases to mitigate tightening regional chassis shortages."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL: IMPORT FORECAST",
+                "headline": "MARITIME: LIFTS NIGERIA ADVISORY",
                 "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "U S retailers have downgraded July import forecasts amid cautious consumer spending. The end of year outlook remains bullish as networks prepare for peak holiday demand."
+                "narration_line": "The Coast Guard has removed Nigeria from its Port Security Advisory, ending twelve years of extra vessel restrictions. Ocean carriers can now eliminate redundant clearance delays on transatlantic routes."
             },
             {
                 "slide_index": 8,

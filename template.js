@@ -1,35 +1,35 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "UAE SUSPENDS TRADE WITH",
-        "titleBlue": "IRAN",
-        "footerSummary": "UAE suspends trade with Iran following missile strikes, disrupting regional smuggling networks and tightening supply chain security across Middle Eastern free zones."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR advances Section 301 forced labor tariffs on 60 trading nations, raising cross-border compliance scrutiny and duty exposure across global sourcing networks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GEOPOLITICAL: UAE SUSPENDS TRADE",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The United Arab Emirates has suspended all trade and financial transactions with Iran following a series of ballistic missile attacks targeting the region. This decisive enforcement action severely disrupts the underground shipping and smuggling networks that historically relied on the UAE's opaque free zones to move goods.",
-                "Supply chain operators managing Middle Eastern corridors must immediately reroute regional distribution assets to mitigate secondary compliance risks. Navigating this sudden diplomatic rupture requires strict financial screening to prevent severe transaction delays and regulatory penalties."
+                "The Office of the United States Trade Representative announced the enforcement of Section 301 tariffs targeting 60 trading partners linked to forced labor violations as Section 122 duties expire. Trade regulators are initiating immediate tariff assessments across targeted high-risk manufacturing origins and commodity sectors. This broad expansion tightens entry audits and accelerates documentation scrutiny across international supply pipelines.",
+                "Importers must rapidly audit Tier 1 through Tier 3 supplier documentation to prevent port detentions and unexpected tariff liabilities. Failing to establish rigorous traceability protocols across affected jurisdictions will trigger immediate shipment seizures and substantial customs penalty assessments."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: CONTAINER CAPACITY REMOVAL",
+            "nextUpTease": "REGULATORY: FMC DETENTION RULING",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-18T20:54:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: CAPACITY REMOVAL",
+            "heading": "REGULATORY: FMC DETENTION RULING",
             "paragraphs": [
-                "Persistent global port congestion is effectively removing 1.7M TEU of container shipping capacity from active circulation across major international trade hubs. Terminal bottlenecks and severe equipment imbalances continue to compound vessel turnaround times, restricting fluid cargo movement worldwide.",
-                "Supply chain managers must factor extended dwell times and tightening vessel availability directly into inventory buffer calculations. Proactive network planning remains critical to prevent downstream fulfillment failures as structural capacity constraints persist."
+                "The U.S. Court of Appeals for the D.C. Circuit has upheld the Federal Maritime Commission mandate requiring ocean container detention and demurrage fees to strictly incentivize freight fluidity. The appellate decision solidifies regulatory limits against ocean liners levying storage penalties when terminal gates are inaccessible or equipment returns are blocked.",
+                "Beneficial cargo owners now hold stronger legal mechanisms to dispute unreasonable detention invoices and reclaim invalid ocean carrier billings. Logistics teams should systematically audit legacy carrier accessorial charges to capture immediate fee reconciliations and enforce statutory billing compliance."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: DRONE NETWORK EXPANSION",
+            "nextUpTease": "COMPLIANCE: SHADOW TRANSSHIPMENT PROBE",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: 2026-08-19T00:00:00Z",
@@ -38,75 +38,75 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "LOGISTICS: DRONE EXPANSION",
+            "heading": "COMPLIANCE: TRANSSHIPMENT PROBE",
             "paragraphs": [
-                "Amazon has announced an aggressive six-fold expansion of its commercial drone delivery network, targeting nearly 500 cities by the end of 2026. This rapid scaling highlights the maturation of last-mile aerial fulfillment infrastructure designed to bypass urban road congestion and lower operational fulfillment costs.",
-                "While drone integration promises significant reductions in last-mile transit times, it requires substantial regulatory compliance and airspace management investments. Urban supply chain planners must incorporate autonomous aerial pathways into their broader omnichannel distribution architectures to remain competitive."
+                "U.S. customs authorities have launched an investigation targeting alleged shadow transshipment networks across more than 40 nations, including Vietnam and Singapore, designed to evade import duties. Enforcement agencies are deploying advanced forensic data screening to identify fraudulent country-of-origin labeling and intermediate assembly schemes.",
+                "Cross-border shippers operating in Southeast Asian manufacturing hubs must prepare for comprehensive origin audits and prolonged clearing inspections. Organizations relying on intermediate routing nodes face immediate cargo delays and severe retroactive tariff clawbacks if supply chain custody is compromised."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL: REFINERY SURGE",
+            "nextUpTease": "MARITIME: PANAMA CANAL AUCTION SURGE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.inboundlogistics.com",
                 "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FUEL: REFINERY SURGE",
+            "heading": "MARITIME: PANAMA CANAL SURGE",
             "paragraphs": [
-                "U.S. fuel manufacturers operated domestic refineries at 17.4M barrels of crude oil daily last week, marking the fastest processing pace recorded since September 2019. This production spike is driven by intensive efforts to offset severe supply tightness stemming from ongoing military conflicts in the Middle East and Europe.",
-                "While heightened refinery output offers temporary relief against escalating energy costs, persistent crack spread volatility threatens to inflate Q4 over-the-road freight expenditures. Logistics executives must immediately audit fuel surcharge mechanisms to insulate operating budgets from erratic market swings."
+                "The Panama Canal Authority recorded a new peak queue-jump auction fee of $4.6M paid by an empty liquefied petroleum gas carrier navigating severe waterway transit bottlenecks. Persistent draft limits and seasonal vessel reservation caps continue to drive extreme bidding premiums among energy and container operators seeking guaranteed passage.",
+                "Cargo owners must weigh the soaring cost of spot canal transit slots against extended sailing schedules around southern maritime capes. Ocean freight planners should recalibrate route cost models as canal reservation surcharges directly inflate per-voyage operating expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: CDL SCHOOL PENALTIES",
+            "nextUpTease": "TRUCKING: 17M CDL RECORDS DISPUTE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REGULATORY: CDL PENALTIES",
+            "heading": "TRUCKING: 17M CDL DISPUTE",
             "paragraphs": [
-                "Pennsylvania regulators are now authorized to impose civil penalties of up to $25K on unlicensed commercial driver training schools under a strict new state law. This legislative crackdown aims to eliminate substandard operator training and improve driver compliance standards across commercial motor carrier fleets.",
-                "Motor carriers must verify the accreditation credentials of all driver pipeline partners to avoid indirect liability and ensure workforce readiness. Enforcing rigorous qualification standards protects fleet risk profiles against mounting regulatory scrutiny and legal exposure."
+                "A coalition of 22 U.S. states has filed a joint lawsuit to block federal directives demanding unredacted access to 17M commercial driver license records. State officials argue the blanket data retrieval mandate exceeds statutory authority and compromises driver privacy safeguards across regional motor carrier networks.",
+                "Freight carriers face administrative friction and regulatory ambiguity while the federal database access dispute proceeds through litigation. Fleet operators must reinforce internal compliance verification systems to maintain standard driver qualification files without disrupting interstate hiring workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HAPAG-ZIM PUSHBACK",
+            "nextUpTease": "INTERMODAL: 77% CHASSIS DUTIES",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.joc.com",
                 "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: HAPAG-ZIM PUSHBACK",
+            "heading": "INTERMODAL: 77% CHASSIS DUTIES",
             "paragraphs": [
-                "Industry forwarders have backed growing objections from Brazilian authorities and Israeli legislators regarding Hapag-Lloyd\u2019s looming $4.5B acquisition of Zim. This mounting regulatory resistance threatens further container shipping consolidation and introduces operational uncertainty for global ocean transport networks.",
-                "Shippers must monitor these regulatory bottlenecks closely as carrier consolidation alters competitive pricing dynamics and service contract availability. Strategic cargo owners should diversify carrier relationships to protect against sudden capacity reallocations on key trade lanes."
+                "The International Trade Commission has imposed a 77% countervailing duty on container chassis imported from Mexico, prompting major manufacturer GG Trailers to exit the U.S. commercial market. The severe tariff decision curtails cross-border equipment manufacturing pipelines and reduces active equipment replenishment options for domestic drayage operators.",
+                "Intermodal logistics networks face tightening chassis pool availability and escalating asset acquisition costs across major rail ramps and marine gateways. Drayage carriers must secure long-term domestic leasing commitments to insulate container repositioning capabilities from impending regional equipment shortages."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: IMPORT FORECAST ADJUSTMENT",
+            "nextUpTease": "MARITIME: USCG LIFTS NIGERIA ADVISORY",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://splash247.com",
                 "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RETAIL: IMPORT FORECAST",
+            "heading": "MARITIME: LIFTS NIGERIA ADVISORY",
             "paragraphs": [
-                "U.S. retailers have downgraded their July import forecasts based on the latest National Retail Federation Global Port Tracker data, citing cautious consumer discretionary spending. However, the end-of-year outlook remains bullish as supply chain leaders prepare for steady inventory replenishment ahead of peak holiday shopping cycles.",
-                "Balancing softer summer volumes against anticipated fourth-quarter demand spikes requires highly agile inventory management and adaptable warehousing strategies. Supply chain professionals must calibrate carrier commitments dynamically to prevent costly overstocking or stockout scenarios."
+                "The U.S. Coast Guard has officially removed Nigeria from its Port Security Advisory, terminating 12 years of mandatory heightened security protocols for vessels trading from Nigerian ports to the United States. The regulatory rollback recognizes verifiable improvements in port infrastructure security and operational compliance across West African terminals.",
+                "Ocean carriers operating on West Africa to North America routes can now eliminate costly pre-arrival clearance measures and streamline vessel turnaround schedules. Maritime operators should update voyage risk classifications to capture lower insurance overhead and accelerate regional trade flow efficiency."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://splash247.com",
                 "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
