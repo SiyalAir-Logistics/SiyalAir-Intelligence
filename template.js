@@ -1,95 +1,80 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "MAERSK TEARS UP FLEET CEILING TO TARGET",
-        "titleBlue": "GROWTH",
-        "footerSummary": "Maersk abandons its containership capacity ceiling as Vincent Clerc prepares the Danish carrier for aggressive fleet expansion."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
+        "titleBlue": "4.6M",
+        "footerSummary": "An empty tanker pays 4.6M USD to jump the Panama Canal queue as regional conflict and draft limits squeeze global shipping capacity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: MAERSK TEARS UP FLEET CEILING TO TARGET GROWTH",
+            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M USD",
             "paragraphs": [
-                "Maersk is officially abandoning its long-standing containership capacity ceiling as CEO Vincent Clerc prepares the Danish carrier for aggressive fleet expansion. Throughout the volatile 2020s, the company maintained strict asset limits, but changing trade dynamics and shifting competitive pressures have forced a fundamental pivot toward scaled vessel deployment.",
-                "This strategic reversal signals renewed tonnage competition across major international trade lanes, requiring logistics procurement leads to re-evaluate long-term ocean contract structures. Shippers must anticipate tighter slot allocations and fluctuating spot rate dynamics as top-tier liners ramp up capacity."
+                "An empty liquefied petroleum gas tanker paid 4.6M USD to cut the Panama Canal queue following severe regional shipping disruptions. This transaction shatters the prior record of 3.975M USD as vessel operators aggressively bid for priority access amid tightening waterway restrictions.",
+                "Surging priority tolls directly inflate operating expenditures for cargo owners attempting to maintain dependable delivery schedules through constrained global chokepoints. Logistics directors must factor escalating transit surcharges into near-term lane budgets to prevent severe operational bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
+            "nextUpTease": "PORT: SUMMER MONTHS IMPORTS SURGE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
+            "heading": "PORT: SUMMER MONTHS IMPORTS SURGE TO HIGHEST LEVEL",
             "paragraphs": [
-                "Mediterranean Shipping Company has deployed seven box ships back through the Suez Canal and Red Sea corridor as carrier confidence in regional security slowly stabilizes. Major ocean carriers are increasingly testing the historically vital waterway to bypass the costly African cape diversion and capture transit time savings.",
-                "The return of mainline capacity to the Suez route offers shippers vital relief on transit schedules, though lingering security premiums require careful risk assessment. Logistics directors must balance potential schedule gains against evolving war-risk surcharges and route volatility."
+                "U.S. import volumes across major maritime gateways are climbing toward their highest levels since 2022 as retailers front-load inventory. Sustained consumer demand and proactive replenishment strategies are driving unprecedented box counts through coastal terminals.",
+                "High container throughput creates localized terminal congestion and chassis shortages across key intermodal distribution corridors. Supply chain managers must secure drayage capacity in advance to mitigate potential dwell time penalties and demurrage exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: AIR FREIGHT RATES TAKE DIP",
+            "nextUpTease": "PROCUREMENT: KIMBERLY CLARK SECURES REFUND",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.dcvelocity.com",
                 "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: AIR FREIGHT RATES TAKE DIP",
+            "heading": "PROCUREMENT: KIMBERLY CLARK SECURES 45M USD REFUND",
             "paragraphs": [
-                "Global airfreight volumes and chargeable weights declined during the first full week of August, pointing toward a muted peak shipping season. Xeneta reports that spot rates have softened across major trade lanes as early holiday inventory replenishment slows down temporarily.",
-                "This market softening provides cargo owners with advantageous pricing leverage to optimize high-value inventory replenishment without incurring peak surcharges. Supply chain managers should lock in short-term air contracts immediately to capitalize on current rate dips."
+                "Personal care manufacturer Kimberly-Clark successfully secured a 45M USD tariff refund, offsetting a substantial portion of its prior year customs duties. This financial recovery provides critical capital relief against rising commodity costs and inflationary pressures across manufacturing inputs.",
+                "Proactive duty recovery strategies offer essential margin protection for large enterprises navigating complex international trade policies. Procurement teams should audit historical tariff classifications immediately to identify comparable reimbursement opportunities."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL: DIESEL MARGINS HIT NEW RECORD",
+            "nextUpTease": "TECHNOLOGY: TRUMP IMPOSES TARIFFS ON DRONES",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FUEL: DIESEL MARGINS HIT NEW RECORD",
+            "heading": "TECHNOLOGY: TRUMP IMPOSES 100% TARIFFS ON DRONES",
             "paragraphs": [
-                "National U.S. diesel averages climbed 19.7 cents to hit $5.454 per gallon, marking the highest weekly mark since May amid tightening distillate inventories. Refining margins have crossed $100 per barrel, driven by a near-perfect storm of seasonal demand and restricted refinery output.",
-                "Motor carriers are immediately passing these surging fuel costs through to shippers via escalated linehaul surcharges. Logistics procurement managers must reassess fuel indexing agreements to safeguard operating budgets against compounding transportation inflation."
+                "The federal government has enacted a 100% tariff on specific foreign drones and critical components to diminish supply chain reliance on dominant overseas manufacturing hubs. This policy targets unmanned aerial systems sourced from nations holding multi-billion-dollar market share.",
+                "Strict technology duties force electronics importers to rapidly diversify their sourcing networks toward alternative geopolitical regions. Supply chain architects must evaluate vendor resilience and redesign fulfillment footprints to absorb prohibitive component levies."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT: LA HANDLES 960K TEUS",
+            "nextUpTease": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PORT: LA HANDLES 960K TEUS",
+            "heading": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
             "paragraphs": [
-                "The Port of Los Angeles handled a near-record 960K TEUs in July, fueled by sustained consumer demand and proactive inventory replenishment by major importers. Executive Director Gene Seroka projects steady volumes of roughly 900K TEUs through August as peak season imports remain robust.",
-                "High gateway throughput risks inducing localized chassis shortages and terminal gate congestion across Southern California distribution networks. Supply chain planners should secure drayage capacity early to prevent container dwell time penalties."
+                "Germany\u2019s main service union initiated a daylong warning strike across six key seaports, bringing container handling operations to a complete standstill. The labor disruption stems from unresolved contract disputes, halting vessel turnaround schedules across vital Northern European trade gateways.",
+                "Port stoppages compound regional supply chain friction and threaten distribution timelines for European industrial shippers. Logistics planners must reroute urgent freight and incorporate potential terminal delays into cross-border transit models."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: GERMAN PORTS HIT BY STRIKE",
-            "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-18T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "LABOR: GERMAN PORTS HIT BY STRIKE",
-            "paragraphs": [
-                "Germany\u2019s main service union, Ver.di, initiated a daylong warning strike impacting six key seaports, bringing container handling and cargo operations to a complete standstill. The labor action stems from an impasse in ongoing contract negotiations, prompting swift criticism from regional employer associations.",
-                "The sudden operational paralysis strains European supply chains and threatens vessel turnaround schedules across major Northern European hubs. Shippers must reroute urgent freight and factor potential terminal delays into European distribution timelines."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "REGULATORY: USTR ADVANCES TARIFFS",
+            "nextUpTease": "REGULATORY: USMCA UNCERTAINTY CHALLENGES AUTOS",
             "tags": [
                 "Source: https://maritime-executive.com",
                 "Published: 2026-08-18T00:00:00Z",
@@ -97,17 +82,32 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
-            "heading": "REGULATORY: USTR ADVANCES TARIFFS",
+            "id": 6,
+            "heading": "REGULATORY: USMCA UNCERTAINTY CHALLENGES AUTOS",
             "paragraphs": [
-                "The Office of the United States Trade Representative announced the implementation of new duties on 60 trading partners under Section 301 of the Trade Act of 1974. This regulatory action coincides with expiring tariff exemptions, signaling a firm shift toward aggressive compliance enforcement.",
-                "Importers must navigate increased customs friction and potential cost inflation across multiple foreign sourcing corridors. Trade compliance teams need to audit supplier country-of-origin documentation immediately to avoid unexpected border delays."
+                "Automotive manufacturers operating across North American borders face escalating operational risk as the long-term viability of the trade agreement is increasingly questioned. Supply chain integration between the U.S., Mexico, and Canada is under intense regulatory scrutiny.",
+                "Persistent policy instability forces automotive executives to reconsider long-term capital allocation and regional manufacturing footprints. Cross-border operators must build highly flexible sourcing models to withstand sudden tariff implementation."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO: RATES DIP AS VOLUMES SLOW",
+            "tags": [
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-18T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "AIR CARGO: RATES DIP AS VOLUMES SLOW",
+            "paragraphs": [
+                "Global airfreight chargeable weights declined during the initial weeks of August, signaling a softer-than-expected peak shipping season across major trade lanes. Xeneta reports that international spot rates have dropped 6% month-over-month as early inventory replenishment cools down.",
+                "This market softening provides cargo owners with favorable pricing leverage to optimize high-value transport without incurring peak season premiums. Supply chain directors should lock in short-term air contracts to capture immediate cost efficiencies."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

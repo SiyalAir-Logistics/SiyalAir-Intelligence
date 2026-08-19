@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: MAERSK TEARS UP FLEET CEILING TO TARGET GROWTH",
-                "teaserTitle": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
-                "visual_caption": "Maersk is abandoning its strict containership capacity ceiling to target aggressive fleet growth. This strategic shift signals intensified vessel deployment across global ocean trade lanes."
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M USD",
+                "teaserTitle": "PORT: SUMMER MONTHS IMPORTS SURGE",
+                "visual_caption": "An empty gas tanker paid $4.6M to jump the Panama Canal queue. This record toll reflects severe waterway constraints driving up operating expenses."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
-                "teaserTitle": "AIR CARGO: AIR FREIGHT RATES TAKE DIP",
-                "visual_caption": "MSC has joined major carriers in resuming Suez Canal transits with 7 vessels. The return to the Red Sea route offers transit time savings for ocean shippers."
+                "headline": "PORT: SUMMER MONTHS IMPORTS SURGE TO HIGHEST LEVEL",
+                "teaserTitle": "PROCUREMENT: KIMBERLY CLARK SECURES REFUND",
+                "visual_caption": "U.S. import volumes are climbing toward their highest levels since 2022. Sustained retail demand is driving heavy box traffic through coastal marine terminals."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR CARGO: AIR FREIGHT RATES TAKE DIP",
-                "teaserTitle": "FUEL: DIESEL MARGINS HIT NEW RECORD",
-                "visual_caption": "Global air cargo volumes declined in early August as spot rates softened by 6%. Shippers can leverage this softer peak season pricing for inventory replenishment."
+                "headline": "PROCUREMENT: KIMBERLY CLARK SECURES 45M USD REFUND",
+                "teaserTitle": "TECHNOLOGY: TRUMP IMPOSES TARIFFS ON DRONES",
+                "visual_caption": "Kimberly-Clark secured a $45M tariff refund for prior customs duties. This recovery provides crucial capital relief against ongoing inflation."
             },
             {
                 "slide_index": 4,
-                "headline": "FUEL: DIESEL MARGINS HIT NEW RECORD",
-                "teaserTitle": "PORT: LA HANDLES 960K TEUS",
-                "visual_caption": "U.S. diesel averages surged to $5.45 per gallon as refining margins top $100. Motor carriers are passing these costs through via linehaul surcharges."
+                "headline": "TECHNOLOGY: TRUMP IMPOSES 100% TARIFFS ON DRONES",
+                "teaserTitle": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
+                "visual_caption": "Washington imposed 100% tariffs on foreign drones and critical components. The policy forces electronics importers to diversify their supplier networks."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT: LA HANDLES 960K TEUS",
-                "teaserTitle": "LABOR: GERMAN PORTS HIT BY STRIKE",
-                "visual_caption": "The Port of Los Angeles handled 960K TEUs in July amid strong import demand. High gateway volumes threaten to induce localized terminal and chassis congestion."
+                "headline": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
+                "teaserTitle": "REGULATORY: USMCA UNCERTAINTY CHALLENGES AUTOS",
+                "visual_caption": "German port workers initiated a daylong warning strike over contract disputes. The labor action brought container handling operations across major hubs to a standstill."
             },
             {
                 "slide_index": 6,
-                "headline": "LABOR: GERMAN PORTS HIT BY STRIKE",
-                "teaserTitle": "REGULATORY: USTR ADVANCES TARIFFS",
-                "visual_caption": "German union Verdi launched a daylong warning strike that halted operations at 6 major seaports. The labor impasse threatens vessel turnaround times across Northern Europe."
+                "headline": "REGULATORY: USMCA UNCERTAINTY CHALLENGES AUTOS",
+                "teaserTitle": "AIR CARGO: RATES DIP AS VOLUMES SLOW",
+                "visual_caption": "Automotive manufacturers face mounting risks as the future of the trade agreement is questioned. Cross-border operators must build flexible sourcing models immediately."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATORY: USTR ADVANCES TARIFFS",
+                "headline": "AIR CARGO: RATES DIP AS VOLUMES SLOW",
                 "teaserTitle": "",
-                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 key trading partners. Importers must audit foreign sourcing documentation to prevent unexpected customs delays."
+                "visual_caption": "Global airfreight spot rates dropped 6% as early replenishment demand slowed down. Shippers can leverage this market dip to optimize transport costs."
             },
             {
                 "slide_index": 8,
