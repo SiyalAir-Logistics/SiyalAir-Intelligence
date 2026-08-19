@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M",
+        "hookTitle": "TRUMP DELAYS CANADA TARIFFS FOR THREE DAYS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LOGISTICS: QUEUE JUMP FEE PASSES 4.6M",
-                "teaserTitle": "MARITIME: SUEZ CANAL TRANSITS",
+                "headline": "GOVERNMENT: CANADA TARIFFS DELAYED",
+                "teaserTitle": "LOGISTICS: DRONE EXPANSION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker paid four point six million dollars to jump the Panama Canal queue. Shippers must absorb steep priority fees amid ongoing waterway bottlenecks."
+                "narration_line": "President Trump signed a proclamation delaying fifty percent tariffs on Canadian imports by three days. Negotiators are using this brief extension to negotiate trade concessions."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SUEZ CANAL TRANSITS",
-                "teaserTitle": "GOVERNMENT: CANADA TARIFFS",
+                "headline": "LOGISTICS: DRONE EXPANSION",
+                "teaserTitle": "MARITIME: ZIM ACQUISITION PUSHBACK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Carriers are testing Red Sea transits with seven ships returning to the Suez route. Regional security adjustments promise reduced voyage times and lower fuel costs."
+                "narration_line": "Amazon announced a sixfold expansion of its commercial drone delivery network targeting five hundred cities. The rapid scaling aims to streamline last mile fulfillment."
             },
             {
                 "slide_index": 3,
-                "headline": "GOVERNMENT: CANADA TARIFFS",
-                "teaserTitle": "GOVERNMENT: UAE TRADE BAN",
+                "headline": "MARITIME: ZIM ACQUISITION PUSHBACK",
+                "teaserTitle": "FUEL: DIESEL CRUNCH",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The United States delayed impending fifty percent tariffs on Canada for three days. Negotiators are utilizing the extension to avert cross-border supply chain disruptions."
+                "narration_line": "Forwarders have backed growing regulatory pushback against Hapag Lloyd and its multi billion dollar acquisition of Zim. This consolidation creates fresh uncertainty for ocean shippers."
             },
             {
                 "slide_index": 4,
-                "headline": "GOVERNMENT: UAE TRADE BAN",
-                "teaserTitle": "RAILROAD: INTERMODAL EXPANSION",
+                "headline": "FUEL: DIESEL CRUNCH",
+                "teaserTitle": "MARITIME: RED SEA TRANSITS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The United Arab Emirates suspended all trade with Iran following recent missile strikes. Forwarders must immediately audit partners to ensure regional compliance."
+                "narration_line": "Diesel prices in California have climbed to seven dollars per gallon due to ongoing global conflicts. Analysts warn this supply crunch threatens fourth quarter freight budgets."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILROAD: INTERMODAL EXPANSION",
-                "teaserTitle": "SHIPYARDS: SAFETY PROBES",
+                "headline": "MARITIME: RED SEA TRANSITS",
+                "teaserTitle": "REGULATORY: FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "BNSF Railway launched a fast Phoenix to Dallas intermodal route running six days weekly. The service provides reliable rail alternatives to ease trucking capacity limits."
+                "narration_line": "Mediterranean Shipping Company resumed commercial transits through the Suez Canal with seven vessels. Container volumes are rising as carriers adapt to regional security updates."
             },
             {
                 "slide_index": 6,
-                "headline": "SHIPYARDS: SAFETY PROBES",
-                "teaserTitle": "LOGISTICS: DRONE EXPANSION",
+                "headline": "REGULATORY: FORCED LABOR TARIFFS",
+                "teaserTitle": "LOGISTICS: PORT CONGESTION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "South Korea launched safety probes at HD Hyundai following fatal subcontractor accidents. Regulators deployed inspectors to enforce strict workplace safety compliance."
+                "narration_line": "The United States Trade Representative is implementing tariffs on sixty trading nations under section three hundred one. Importers must audit supply chains to avoid border penalties."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: DRONE EXPANSION",
+                "headline": "LOGISTICS: PORT CONGESTION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon expanded its commercial drone delivery network to target five hundred cities. The scaling highlights rapid automation across last-mile fulfillment infrastructure."
+                "narration_line": "Persistent port congestion is currently keeping one point seven million TEU of capacity out of circulation. Shippers must factor these delays into inventory buffer models."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }

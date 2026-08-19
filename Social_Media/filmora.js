@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LOGISTICS: QUEUE JUMP FEE PASSES 4.6M",
-                "teaserTitle": "MARITIME: SUEZ CANAL TRANSITS",
-                "visual_caption": "An empty tanker paid $4.6M to jump the Panama Canal queue. Shippers face steep priority fees amid ongoing waterway restrictions."
+                "headline": "GOVERNMENT: CANADA TARIFFS DELAYED",
+                "teaserTitle": "LOGISTICS: DRONE EXPANSION",
+                "visual_caption": "President Trump delays 50% tariffs on Canadian imports for 3 days. Negotiators utilize the extension to avert cross border supply chain disruptions."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SUEZ CANAL TRANSITS",
-                "teaserTitle": "GOVERNMENT: CANADA TARIFFS",
-                "visual_caption": "Carriers are testing Red Sea transits with 7 ships returning to the Suez route. Security adjustments promise reduced voyage times and lower fuel costs."
+                "headline": "LOGISTICS: DRONE EXPANSION",
+                "teaserTitle": "MARITIME: ZIM ACQUISITION PUSHBACK",
+                "visual_caption": "Amazon expands its drone delivery network to 500 cities by year end. The rapid scaling targets ultrafast last mile fulfillment infrastructure."
             },
             {
                 "slide_index": 3,
-                "headline": "GOVERNMENT: CANADA TARIFFS",
-                "teaserTitle": "GOVERNMENT: UAE TRADE BAN",
-                "visual_caption": "The US delayed impending 50% tariffs on Canada for 3 days. Negotiators are utilizing the extension to avert cross-border supply chain disruptions."
+                "headline": "MARITIME: ZIM ACQUISITION PUSHBACK",
+                "teaserTitle": "FUEL: DIESEL CRUNCH",
+                "visual_caption": "Forwarders back regulatory pushback against Hapag Lloyd and its $4.5B Zim acquisition. Carrier consolidation introduces new risks for global shippers."
             },
             {
                 "slide_index": 4,
-                "headline": "GOVERNMENT: UAE TRADE BAN",
-                "teaserTitle": "RAILROAD: INTERMODAL EXPANSION",
-                "visual_caption": "The UAE suspended all trade with Iran following recent missile strikes. Forwarders must immediately audit partners to ensure regional compliance."
+                "headline": "FUEL: DIESEL CRUNCH",
+                "teaserTitle": "MARITIME: RED SEA TRANSITS",
+                "visual_caption": "California diesel prices climb to $7 per gallon as global conflicts strain supplies. Analysts warn of an acute crunch impacting Q4 freight budgets."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILROAD: INTERMODAL EXPANSION",
-                "teaserTitle": "SHIPYARDS: SAFETY PROBES",
-                "visual_caption": "BNSF Railway launched a fast Phoenix to Dallas intermodal route running 6 days weekly. The service provides reliable rail alternatives to ease trucking limits."
+                "headline": "MARITIME: RED SEA TRANSITS",
+                "teaserTitle": "REGULATORY: FORCED LABOR TARIFFS",
+                "visual_caption": "MSC resumes Suez Canal transits with 7 vessels amid rising container volumes. Carriers balance efficiency gains against persistent regional security risks."
             },
             {
                 "slide_index": 6,
-                "headline": "SHIPYARDS: SAFETY PROBES",
-                "teaserTitle": "LOGISTICS: DRONE EXPANSION",
-                "visual_caption": "South Korea launched safety probes at HD Hyundai following fatal subcontractor accidents. Regulators deployed inspectors to enforce workplace compliance."
+                "headline": "REGULATORY: FORCED LABOR TARIFFS",
+                "teaserTitle": "LOGISTICS: PORT CONGESTION",
+                "visual_caption": "USTR moves forward with Section 301 tariffs across 60 trading nations. Importers must conduct deep tier audits to avoid severe border delays."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: DRONE EXPANSION",
+                "headline": "LOGISTICS: PORT CONGESTION",
                 "teaserTitle": "",
-                "visual_caption": "Amazon expanded its commercial drone delivery network to target 500 cities. The scaling highlights rapid automation across last-mile fulfillment infrastructure."
+                "visual_caption": "Global port congestion removes 1.7M TEU of capacity from active circulation. Supply chain managers must factor extended dwell times into inventory plans."
             },
             {
                 "slide_index": 8,
