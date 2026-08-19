@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR ADVANCES SECTION 301 FORCED LABOR TARIFFS",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "REGULATORY: FMC DETENTION RULING",
+                "headline": "MARITIME: PANAMA CANAL QUEUE SURGE",
+                "teaserTitle": "TRUCKING: PENNSYLVANIA CDL PENALTIES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is moving forward with Section three oh one tariffs on sixty trading partners tied to forced labor. Importers must verify supply chain origin data to prevent immediate cargo detentions."
+                "narration_line": "The Panama Canal recorded a record four point six million dollar queue jump fee. Persistent draft limits are forcing carriers to evaluate spot premiums against cape detours."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: FMC DETENTION RULING",
-                "teaserTitle": "COMPLIANCE: SHADOW TRANSSHIPMENT PROBE",
+                "headline": "TRUCKING: PENNSYLVANIA CDL PENALTIES",
+                "teaserTitle": "EQUIPMENT: U.S. TRAILER ORDERS SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A federal appeals court upheld the Federal Maritime Commission ruling that ocean container detention fees must promote freight fluidity. Shippers can now legally challenge unreasonable carrier demurrage charges during terminal congestion."
+                "narration_line": "Pennsylvania enacted a law imposing twenty five thousand dollar fines on unlicensed driving schools. Motor carriers must audit training partners to prevent compliance liabilities."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: TRANSSHIPMENT PROBE",
-                "teaserTitle": "MARITIME: PANAMA CANAL AUCTION SURGE",
+                "headline": "EQUIPMENT: U.S. TRAILER ORDERS SURGE",
+                "teaserTitle": "DELIVERY: AMAZON DRONE EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Federal authorities are investigating shadow transshipment networks across forty countries designed to evade customs tariffs. Importers face aggressive country of origin audits and severe retroactive duty assessments."
+                "narration_line": "U.S. trailer orders surged ninety seven percent year over year in July. Fleets are committing capital to equipment replenishment ahead of anticipated peak season volumes."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: PANAMA CANAL SURGE",
-                "teaserTitle": "TRUCKING: 17M CDL RECORDS DISPUTE",
+                "headline": "LOGISTICS: AMAZON DRONE EXPANSION",
+                "teaserTitle": "GEOPOLITICAL: UAE HALTS IRAN TRADE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Panama Canal recorded a four point six million dollar queue jump fee as transit restrictions squeeze vessel slots. Shippers must evaluate escalating auction premiums against longer transit routes around southern capes."
+                "narration_line": "Amazon announced an aggressive expansion of its drone delivery footprint to five hundred cities. The scaling brings ultrafast aerial fulfillment to millions of new customers."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING: 17M CDL DISPUTE",
-                "teaserTitle": "INTERMODAL: 77% CHASSIS DUTIES",
+                "headline": "GEOPOLITICAL: UAE HALTS IRAN TRADE",
+                "teaserTitle": "MARITIME: CHINESE SHIP REACHES MURMANSK",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Twenty two states are suing to block federal demands for seventeen million commercial driver license records. Motor carriers must navigate compliance uncertainties while interstate legal challenges proceed."
+                "narration_line": "The United Arab Emirates suspended all trade and financial transactions with Iran. Shippers must audit regional sourcing dependencies and establish alternative routing options."
             },
             {
                 "slide_index": 6,
-                "headline": "INTERMODAL: 77% CHASSIS DUTIES",
-                "teaserTitle": "MARITIME: USCG LIFTS NIGERIA ADVISORY",
+                "headline": "MARITIME: CHINESE SHIP REACHES MURMANSK",
+                "teaserTitle": "REAL ESTATE: VACANCY STABILIZES",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A seventy seven percent countervailing duty on Mexican chassis imports has forced a major supplier to exit the market. Drayage operators must secure domestic equipment leases to mitigate tightening regional chassis shortages."
+                "narration_line": "A Chinese cargo ship successfully delivered container imports along the Northern Sea Route. Polar shipping offers shorter transits but demands specialized ice navigation."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: LIFTS NIGERIA ADVISORY",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "REAL ESTATE: VACANCY STABILIZES",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Coast Guard has removed Nigeria from its Port Security Advisory, ending twelve years of extra vessel restrictions. Ocean carriers can now eliminate redundant clearance delays on transatlantic routes."
+                "narration_line": "Industrial real estate vacancy stabilized at seven point three percent as demand outpaced new supply. Logistics leaders can leverage balanced markets to secure scalable hubs."
             },
             {
                 "slide_index": 8,
