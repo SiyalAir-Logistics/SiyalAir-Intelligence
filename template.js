@@ -1,20 +1,35 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE REACHes",
-        "titleBlue": "4.6M",
-        "footerSummary": "An empty LPG tanker paid 4.6M USD to jump the Panama Canal queue as regional conflicts squeeze global maritime transit networks."
+        "titleWhite": "DIESEL MARGINS TOP 100 BARREL TO REACH",
+        "titleBlue": "RECORD",
+        "footerSummary": "National diesel averages climbed to 5.454 USD per gallon as refining margins top 100 USD per barrel, forcing carriers to pass through urgent surcharges."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE REACHES 4.6M",
+            "heading": "FUEL: DIESEL MARGINS TOP 100 BARREL TO REACH RECORD",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker, the G. Arete, paid a record 4.6M USD priority fee to cut the queue at the Panama Canal. This transaction surpasses the previous 3.975M USD high mark as persistent draught restrictions and Middle East routing crises intensify waterway congestion.",
+                "U.S. national diesel averages climbed 19.7 cents to hit 5.454 USD per gallon, marking the highest weekly mark since May amid tightening distillate inventories. Refining margins have crossed 100 USD per barrel, driven by a near-perfect storm of seasonal demand and restricted supply.",
+                "Motor carriers are immediately passing these surging fuel costs through to shippers via escalated linehaul surcharges. Logistics procurement managers must reassess fuel indexing agreements to safeguard operating budgets against compounding transportation inflation."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
+            "tags": [
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-18T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 2,
+            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE SETS HIGH",
+            "paragraphs": [
+                "An empty liquefied petroleum gas tanker paid a record 4.6M USD priority fee to cut the queue at the Panama Canal as persistent draught restrictions squeeze global maritime transit networks. This transaction surpasses previous high marks as waterway congestion severely limits daily vessel slots.",
                 "Vessel operators face escalating financial hurdles to maintain transit schedules through critical global bottlenecks. Supply chain leaders must factor skyrocketing priority fees into contingency budgeting for time-sensitive cargo deployments."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR MOVES AHEAD WITH TARIFFS",
+            "nextUpTease": "REGULATORY: USTR MOVES AHEAD WITH TARIFFS",
             "tags": [
                 "Source: https://www.inboundlogistics.com",
                 "Published: 2026-08-14T00:00:00Z",
@@ -22,10 +37,10 @@ const dailyData = {
             ]
         },
         {
-            "id": 2,
+            "id": 3,
             "heading": "REGULATORY: USTR MOVES AHEAD WITH TARIFFS",
             "paragraphs": [
-                "The Office of the United States Trade Representative announced the implementation of new duties on 60 trading partners under Section 301 of the Trade Act of 1974. This regulatory action coincides with the expiration of Section 122 tariffs, signaling a shift toward targeted compliance enforcement.",
+                "The Office of the United States Trade Representative announced the implementation of new duties on 60 trading partners under Section 301 of the Trade Act of 1974. This regulatory action coincides with expiring tariff exemptions, signaling a shift toward aggressive compliance enforcement.",
                 "Importers must navigate increased customs friction and potential cost inflation across multiple foreign sourcing corridors. Trade compliance teams need to audit supplier country-of-origin documentation immediately to avoid unexpected border delays."
             ],
             "imageUrl": "",
@@ -37,31 +52,16 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
+            "id": 4,
             "heading": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
             "paragraphs": [
-                "Mediterranean Shipping Company has joined major ocean carriers in testing voyages through the Suez Canal and Red Sea corridor. Seven MSC container vessels have turned off tracking transponders as they navigate the historically volatile waterway amidst improving carrier confidence.",
+                "Mediterranean Shipping Company has joined major ocean carriers in testing voyages through the Suez Canal and Red Sea corridor. Container vessels are turning off tracking transponders as they navigate the historically volatile waterway amidst improving carrier confidence.",
                 "The return of mainline capacity to the Suez route offers transit time reductions compared to the longer African cape diversion. Shippers must weigh potential schedule gains against lingering security risks and war-risk insurance surcharges."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "FUEL: DIESEL REFINING MARGINS SPIKE",
-            "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-18T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "FUEL: DIESEL REFINING MARGINS SPIKE",
-            "paragraphs": [
-                "U.S. national diesel averages climbed 19.7 cents to hit 5.454 USD per gallon, marking the highest weekly mark since May amid tightening distillate inventories. Refining margins have crossed 100 USD per barrel, driven by a near-perfect storm of seasonal demand and restricted supply.",
-                "Motor carriers are immediately passing these surging fuel costs through to shippers via escalated linehaul surcharges. Logistics procurement managers must reassess fuel indexing agreements to safeguard Q4 operating budgets."
             ],
             "imageUrl": "",
             "nextUpTease": "PORT: LOS ANGELES TOPS 960K TEUS",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
