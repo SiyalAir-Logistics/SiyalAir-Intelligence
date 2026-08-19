@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FUEL: DIESEL CRACK SPREADS REACH RECORDS",
-                "teaserTitle": "LOGISTICS: DRONE EXPANSION",
-                "visual_caption": "Global diesel crack spreads have climbed past $100 a barrel. This severe market disconnect is directly inflating over-the-road freight operating costs."
+                "headline": "LOGISTICS: QUEUE JUMP FEE PASSES 4.6M",
+                "teaserTitle": "MARITIME: SUEZ CANAL TRANSITS",
+                "visual_caption": "An empty tanker paid $4.6M to jump the Panama Canal queue. Shippers face steep priority fees amid ongoing waterway restrictions."
             },
             {
                 "slide_index": 2,
-                "headline": "LOGISTICS: DRONE EXPANSION",
-                "teaserTitle": "GOVERNMENT: TARIFF DELAYS",
-                "visual_caption": "Amazon has announced a massive expansion of its commercial drone delivery network. The initiative targets nearly 500 cities for autonomous package fulfillment."
+                "headline": "MARITIME: SUEZ CANAL TRANSITS",
+                "teaserTitle": "GOVERNMENT: CANADA TARIFFS",
+                "visual_caption": "Carriers are testing Red Sea transits with 7 ships returning to the Suez route. Security adjustments promise reduced voyage times and lower fuel costs."
             },
             {
                 "slide_index": 3,
-                "headline": "GOVERNMENT: TARIFF DELAYS",
-                "teaserTitle": "MARITIME: SUEZ TRANSITS",
-                "visual_caption": "President Trump signed a proclamation delaying 50% tariffs on Canadian imports. Negotiators are utilizing this brief extension to prevent trade disruptions."
+                "headline": "GOVERNMENT: CANADA TARIFFS",
+                "teaserTitle": "GOVERNMENT: UAE TRADE BAN",
+                "visual_caption": "The US delayed impending 50% tariffs on Canada for 3 days. Negotiators are utilizing the extension to avert cross-border supply chain disruptions."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: SUEZ TRANSITS",
-                "teaserTitle": "SHIPYARDS: SAFETY PROBES",
-                "visual_caption": "Mediterranean Shipping Company has resumed commercial transits through the Suez Canal. Container volumes are rising as carriers adjust to regional security."
+                "headline": "GOVERNMENT: UAE TRADE BAN",
+                "teaserTitle": "RAILROAD: INTERMODAL EXPANSION",
+                "visual_caption": "The UAE suspended all trade with Iran following recent missile strikes. Forwarders must immediately audit partners to ensure regional compliance."
             },
             {
                 "slide_index": 5,
-                "headline": "SHIPYARDS: SAFETY PROBES",
-                "teaserTitle": "GOVERNMENT: IRAN SANCTIONS",
-                "visual_caption": "South Korea launched a sweeping safety investigation into major shipbuilder HD Hyundai. Inspectors deployed following fatal subcontractor accidents at regional yards."
+                "headline": "RAILROAD: INTERMODAL EXPANSION",
+                "teaserTitle": "SHIPYARDS: SAFETY PROBES",
+                "visual_caption": "BNSF Railway launched a fast Phoenix to Dallas intermodal route running 6 days weekly. The service provides reliable rail alternatives to ease trucking limits."
             },
             {
                 "slide_index": 6,
-                "headline": "GOVERNMENT: IRAN SANCTIONS",
-                "teaserTitle": "RAILROAD: INTERMODAL EXPANSION",
-                "visual_caption": "The United Arab Emirates suspended all trade and financial transactions with Iran. This economic action forces a major realignment of Middle Eastern corridors."
+                "headline": "SHIPYARDS: SAFETY PROBES",
+                "teaserTitle": "LOGISTICS: DRONE EXPANSION",
+                "visual_caption": "South Korea launched safety probes at HD Hyundai following fatal subcontractor accidents. Regulators deployed inspectors to enforce workplace compliance."
             },
             {
                 "slide_index": 7,
-                "headline": "RAILROAD: INTERMODAL EXPANSION",
+                "headline": "LOGISTICS: DRONE EXPANSION",
                 "teaserTitle": "",
-                "visual_caption": "BNSF Railway expanded its intermodal network with a faster Phoenix to Dallas route. The service runs 6 days a week to alleviate trucking capacity constraints."
+                "visual_caption": "Amazon expanded its commercial drone delivery network to target 500 cities. The scaling highlights rapid automation across last-mile fulfillment infrastructure."
             },
             {
                 "slide_index": 8,
