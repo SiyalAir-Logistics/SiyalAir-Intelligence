@@ -1,80 +1,80 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DIESEL MARGINS TOP 100 A",
-        "titleBlue": "BARREL",
-        "footerSummary": "Diesel refining margins exceed 100 USD per barrel, threatening widespread inflationary shocks and winter heating cost spikes."
+        "titleWhite": "USTR MOVES AHEAD WITH FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR advances forced labor tariffs on 60 nations under Section 301, increasing compliance risks and cost pressures for global supply chain operators."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FUEL: DIESEL MARGINS TOP 100 USD A BARREL",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "A near-perfect storm of compounding geopolitical factors has pushed diesel refining margins above 100 USD per barrel for the first time. This unprecedented pricing spike threatens a severe winter of higher heating bills and economy-wide inflationary shocks.",
-                "Surging fuel costs immediately inflate over-the-road operational expenses for motor carriers and logistics operators globally. Shippers must reassess their fuel surcharge formulas and secure fixed-rate capacity agreements to protect operating margins."
+                "The Office of the United States Trade Representative announced it is moving forward with the implementation of tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. This aggressive regulatory action targets supply chains tainted by forced labor practices, creating immediate administrative hurdles for international importers.",
+                "Companies sourcing materials globally face heightened compliance liabilities and potential customs clearance delays as federal authorities step up document auditing. Supply chain executives must thoroughly audit tier-two supplier networks to prevent unexpected financial penalties and border bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: SEAFARER KILLED IN HORMUZ",
+            "nextUpTease": "PANAMA CANAL: QUEUE-JUMP FEE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
+            "heading": "PANAMA CANAL: QUEUE-JUMP FEE",
             "paragraphs": [
-                "A seafarer was killed during the latest kinetic attack targeting commercial merchant shipping in the critical Strait of Hormuz. Simultaneously, regional authorities claimed the detention of a tanker for failing to comply with newly enforced transit mandates.",
-                "Escalating maritime violence through vital Middle Eastern chokepoints forces vessel operators into costly detours around the Cape of Good Hope. Cargo owners must incorporate extended transit timelines and elevated war-risk insurance premiums into upcoming Q4 lane models."
+                "An empty liquefied petroleum gas tanker paid a record 4.6M USD fee to bypass vessel queues at the Panama Canal amid severe regional routing pressures. Ongoing draught restrictions and geopolitical conflicts continue to squeeze maritime capacity through major global trade choke points.",
+                "Vessel operators and cargo owners face escalating transit costs as priority access premiums reach unprecedented financial highs. Logistics managers must factor these extraordinary surcharges into lane cost projections to protect operational margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOVERNMENT: CANADA TARIFF CLOCK TICKS",
+            "nextUpTease": "MARITIME: MSC SUEZ TRANSPITS",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "GOVERNMENT: CANADA TARIFF CLOCK TICKS DOWN",
+            "heading": "MARITIME: MSC SUEZ TRANSPITS",
             "paragraphs": [
-                "The federal administration has temporarily paused scheduled 50% tariffs on Canadian imports for three days while announcing a tentative trade deal framework with Ottawa. Negotiations remain intensely volatile as trade teams race to finalize permanent cross-border exemptions.",
-                "Persistent regulatory uncertainty leaves North American importers scrambling to model contingency logistics and inventory holding costs. Supply chain directors must maintain flexible cross-border routing strategies until binding trade pacts are officially signed."
+                "Mediterranean Shipping Company has joined major ocean carriers in testing vessel transits through the Suez Canal as regional container volumes steadily increase. Seven containerships recently navigated the corridor as liners reassess security conditions in the Red Sea shipping lane.",
+                "Gradual carrier return to the Suez route offers potential transit time reductions for carriers navigating between Asia and Europe. However, shippers must carefully balance shorter maritime routes against ongoing marine insurance premiums and security risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "BUSINESS: TRAIN THIEVES STEAL CARGO",
+            "nextUpTease": "PORTS: GERMAN SEAPORTS STRIKE",
             "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-18T15:40:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "BUSINESS: TRAIN THIEVES STEAL 200M IN CARGO",
+            "heading": "PORTS: GERMAN SEAPORTS STRIKE",
             "paragraphs": [
-                "Organized cargo theft rings are targeting freight rail networks, successfully pilfering 200M USD worth of goods annually across major freight corridors. Criminal syndicates exploit remote rail yards and slow-moving intermodal consists to loot high-value consumer electronics and apparel.",
-                "Rampant rail cargo theft drives up insurance deductibles and necessitates heavy capital investments in physical security and real-time telematics. Shippers moving high-value commodities via rail must enforce rigorous end-to-end monitoring protocols."
+                "A daylong warning strike called by Germany's Ver.di service union brought container operations across 6 major seaports to a complete standstill. The labor action impacted 11,000 terminal workers amid an ongoing contract negotiation impasse with the employers' association.",
+                "Abrupt European port shutdowns cause severe scheduling ripple effects across connecting feeder networks and intermodal rail connections. Freight forwarders must establish alternative staging points to mitigate dwell time spikes and equipment shortages."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: MEDIUM DUTY TRUCK SALES RISE",
+            "nextUpTease": "AUTOMOTIVE: MEDIUM DUTY SALES",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-17T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-18T14:23:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EQUIPMENT: MEDIUM DUTY TRUCK SALES RISE",
+            "heading": "AUTOMOTIVE: MEDIUM DUTY SALES",
             "paragraphs": [
-                "U.S. medium-duty truck sales gained strong momentum in July, driven primarily by robust growth within the Class 6 vehicle market segment. Fleet operators posted a 39.4% year-over-year increase in acquisitions as regional delivery providers modernize aging equipment.",
-                "Accelerated fleet replenishment improves last-mile delivery reliability but requires significant upfront capital allocation from regional carriers. Logistics executives must balance equipment upgrade cycles against fluctuating freight demand and high borrowing costs."
+                "U.S. medium-duty truck sales gained robust momentum in July, driven primarily by a 39.4% year-over-year surge within the Class 6 vehicle segment. Fleet operators are actively accelerating equipment replacement cycles to modernize aging regional delivery assets.",
+                "Accelerated truck acquisitions improve last-mile operational reliability but demand substantial capital outlays from motor carriers. Fleet executives must carefully align equipment expenditure with shifting freight rate environments and borrowing expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOVERNMENT: MEXICO WEIGHS CHINA DUTIES",
+            "nextUpTease": "ROBOTICS: NORTH AMERICAN ORDERS",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-18T00:00:00Z",
@@ -83,30 +83,30 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "GOVERNMENT: MEXICO WEIGHS CHINA DUTIES",
+            "heading": "ROBOTICS: NORTH AMERICAN ORDERS",
             "paragraphs": [
-                "Mexico's economy and finance ministries are actively evaluating new import duties on Chinese products not currently covered by existing bilateral trade agreements. This policy review aims to preempt regional transshipment vulnerabilities ahead of upcoming trade pact evaluations.",
-                "New Mexican trade restrictions threaten established nearshoring supply chains that rely on Asian raw material inputs routed through Latin America. Importers must audit their tier-one and tier-two supplier networks to mitigate unexpected customs duty liabilities."
+                "North American industrial companies placed 1.2B USD worth of robot orders during the first half of the year, representing a 6.6% year-over-year increase. Manufacturing and warehouse facilities are increasingly investing in automated fulfillment solutions to counter persistent labor constraints.",
+                "Upfront capital investments in warehouse automation yield long-term operational efficiencies by reducing facility footprints and order cycle times. Supply chain leaders must integrate physical AI and robotics to maintain competitive fulfillment throughput."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL: STATES SUE DOT OVER CDL RECORDS",
+            "nextUpTease": "FUEL: DIESEL PRICE SURGE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "LEGAL: STATES SUE DOT OVER CDL RECORDS",
+            "heading": "FUEL: DIESEL PRICE SURGE",
             "paragraphs": [
-                "A coalition of 22 states has formally filed a lawsuit against the Department of Transportation and FMCSA over federal demands to access 17M driver records. The legal challenge targets federal overreach regarding state-managed commercial driver license databases.",
-                "Regulatory friction over driver data access creates administrative compliance roadblocks for motor carriers navigating safety audits. Fleet operators must monitor judicial proceedings closely to ensure ongoing compliance with evolving federal data mandates."
+                "The national U.S. average for on-highway diesel climbed 19.7 cents to hit 5.454 USD per gallon, marking the highest weekly price point recorded since May. This sharp fuel inflation is driven by tightening diesel crack spreads and rising global energy input costs.",
+                "Surging fuel expenses immediately inflate over-the-road transport costs for motor carriers and enterprise shippers across all major trade lanes. Logistics managers must optimize network routing and update fuel surcharge formulas to protect operating margins."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]

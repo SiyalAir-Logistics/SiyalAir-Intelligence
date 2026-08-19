@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DIESEL MARGINS TOP ONE HUNDRED DOLLARS A BARREL",
+        "hookTitle": "USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FUEL: DIESEL MARGINS TOP 100 USD A BARREL",
-                "teaserTitle": "MARITIME: SEAFARER KILLED IN HORMUZ",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "PANAMA CANAL: QUEUE-JUMP FEE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Diesel refining margins have surged above one hundred dollars per barrel. This jump threatens winter heating bills and severe inflationary shocks."
+                "narration_line": "The United States Trade Representative is advancing new tariffs on sixty nations under section three hundred one. Importers face heightened compliance audits and severe financial penalties for supply chain infractions."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
-                "teaserTitle": "GOVERNMENT: CANADA TARIFF CLOCK TICKS",
+                "headline": "PANAMA CANAL: QUEUE-JUMP FEE",
+                "teaserTitle": "MARITIME: MSC SUEZ TRANSPITS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "A seafarer was killed during an attack on a merchant ship in the Strait of Hormuz. Vessel operators are facing extended detours and war risk insurance hikes."
+                "narration_line": "An empty liquefied petroleum gas tanker paid four point six million dollars to bypass Panama Canal queues. Ongoing draught restrictions continue to drive up maritime priority access premiums."
             },
             {
                 "slide_index": 3,
-                "headline": "GOVERNMENT: CANADA TARIFF CLOCK TICKS DOWN",
-                "teaserTitle": "BUSINESS: TRAIN THIEVES STEAL CARGO",
+                "headline": "MARITIME: MSC SUEZ TRANSPITS",
+                "teaserTitle": "PORTS: GERMAN SEAPORTS STRIKE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The U.S. government paused fifty percent tariffs on Canada for three days. Trade negotiators are racing to finalize a binding cross border agreement."
+                "narration_line": "Mediterranean Shipping Company is testing vessel transits through the Suez Canal as regional traffic increases. Ocean carriers are balancing shorter transit routes against lingering security risks."
             },
             {
                 "slide_index": 4,
-                "headline": "BUSINESS: TRAIN THIEVES STEAL 200M IN CARGO",
-                "teaserTitle": "EQUIPMENT: MEDIUM DUTY TRUCK SALES RISE",
+                "headline": "PORTS: GERMAN SEAPORTS STRIKE",
+                "teaserTitle": "AUTOMOTIVE: MEDIUM DUTY SALES",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Organized thieves are stealing two hundred million dollars in rail cargo annually. Shippers must deploy advanced telematics to secure vulnerable freight."
+                "narration_line": "A daylong warning strike by German port unions has brought container terminal operations to a standstill. Shippers must route cargo around halted facilities to prevent severe schedule delays."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: MEDIUM DUTY TRUCK SALES RISE",
-                "teaserTitle": "GOVERNMENT: MEXICO WEIGHS CHINA DUTIES",
+                "headline": "AUTOMOTIVE: MEDIUM DUTY SALES",
+                "teaserTitle": "ROBOTICS: NORTH AMERICAN ORDERS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "U.S. medium duty truck sales climbed in July led by strong Class six demand. Regional fleets are aggressively modernizing their delivery equipment."
+                "narration_line": "U.S. medium-duty truck sales rose in July, driven by a thirty-nine percent jump in Class six vehicles. Fleet operators are modernizing regional equipment despite high borrowing costs."
             },
             {
                 "slide_index": 6,
-                "headline": "GOVERNMENT: MEXICO WEIGHS CHINA DUTIES",
-                "teaserTitle": "LEGAL: STATES SUE DOT OVER CDL RECORDS",
+                "headline": "ROBOTICS: NORTH AMERICAN ORDERS",
+                "teaserTitle": "FUEL: DIESEL PRICE SURGE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Mexico is evaluating new import duties on Chinese products amid trade reviews. Importers must audit their tier one supplier networks immediately."
+                "narration_line": "North American companies ordered one point two billion dollars worth of robots in the first half. Facilities are rapidly expanding automation to mitigate ongoing labor shortages."
             },
             {
                 "slide_index": 7,
-                "headline": "LEGAL: STATES SUE DOT OVER CDL RECORDS",
+                "headline": "FUEL: DIESEL PRICE SURGE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Twenty two states are suing the Department of Transportation over driver record access. Fleet operators must navigate evolving federal compliance mandates."
+                "narration_line": "The national average for diesel fuel climbed to five dollars and forty-five cents per gallon. Motor carriers must adjust fuel surcharges to protect operating margins against rising energy expenses."
             },
             {
                 "slide_index": 8,
