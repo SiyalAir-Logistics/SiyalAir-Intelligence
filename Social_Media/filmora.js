@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PANAMA CANAL: QUEUE-JUMP FEE",
-                "visual_caption": "The USTR is advancing Section 301 tariffs on 60 trading partners. Importers face strict compliance audits and severe financial liabilities."
+                "headline": "GEOPOLITICS: UAE SUSPENDS TRADE WITH IRAN",
+                "teaserTitle": "MARITIME: MSC HITS 500 SHIP MILESTONE",
+                "visual_caption": "The UAE suspended all trade and financial transactions with Iran following a missile strike. Operators face immediate regional friction and must reroute cargo to ensure network security."
             },
             {
                 "slide_index": 2,
-                "headline": "PANAMA CANAL: QUEUE-JUMP FEE",
-                "teaserTitle": "MARITIME: MSC SUEZ TRANSPITS",
-                "visual_caption": "An LPG tanker paid a record $4.6M fee to bypass Panama Canal queues. Ongoing draught restrictions continue to inflate transit costs."
+                "headline": "MARITIME: MSC HITS 500 SHIP MILESTONE",
+                "teaserTitle": "PORTS: LA HANDLES 960K TEUS",
+                "visual_caption": "MSC reached a major fleet milestone by acquiring 500 secondhand ships since August 2020. Shippers must navigate tighter vessel availability across core global trade lanes."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: MSC SUEZ TRANSPITS",
-                "teaserTitle": "PORTS: GERMAN SEAPORTS STRIKE",
-                "visual_caption": "MSC is testing vessel transits through the Suez Canal as regional traffic increases. Carriers balance shorter routes against security risks."
+                "headline": "PORTS: LA HANDLES 960K TEUS",
+                "teaserTitle": "AIRFREIGHT: LUFTHANSA IT OUTAGE",
+                "visual_caption": "The Port of Los Angeles handled over 960K TEUs in July driven by strong consumer demand. Gateway congestion requires proactive drayage management to prevent demurrage penalties."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: GERMAN SEAPORTS STRIKE",
-                "teaserTitle": "AUTOMOTIVE: MEDIUM DUTY SALES",
-                "visual_caption": "A 1-day Ver.di strike halted container operations across 6 German seaports. Shippers must reroute freight to avoid severe schedule delays."
+                "headline": "AIRFREIGHT: LUFTHANSA IT OUTAGE",
+                "teaserTitle": "TECHNOLOGY: ROBOTICS ORDERS JUMP",
+                "visual_caption": "Lufthansa Cargo operations suffered major disruptions at German hubs following a critical IT outage. Freight forwarders quickly scrambled for alternative routing options to bypass terminal delays."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTOMOTIVE: MEDIUM DUTY SALES",
-                "teaserTitle": "ROBOTICS: NORTH AMERICAN ORDERS",
-                "visual_caption": "U.S. medium-duty truck sales rose in July on a 39.4% jump in Class 6 vehicles. Fleets are modernizing delivery equipment despite high costs."
+                "headline": "TECHNOLOGY: ROBOTICS ORDERS JUMP",
+                "teaserTitle": "COMPLIANCE: USMCA UNCERTAINTY",
+                "visual_caption": "North American enterprises invested $1.2B in industrial robots during H1 2026. Automated fulfillment solutions help facilities combat ongoing warehouse labor constraints."
             },
             {
                 "slide_index": 6,
-                "headline": "ROBOTICS: NORTH AMERICAN ORDERS",
-                "teaserTitle": "FUEL: DIESEL PRICE SURGE",
-                "visual_caption": "North American firms ordered $1.2B in robots during H1, up 6.6% year-over-year. Facilities are rapidly expanding warehouse automation."
+                "headline": "COMPLIANCE: USMCA UNCERTAINTY",
+                "teaserTitle": "TANKERS: SINOKOR 6B USD BET",
+                "visual_caption": "Automotive manufacturers face strategic risks as the future of the USMCA trade pact remains uncertain. Firms are actively reviewing cross-border sourcing networks to mitigate potential tariffs."
             },
             {
                 "slide_index": 7,
-                "headline": "FUEL: DIESEL PRICE SURGE",
+                "headline": "TANKERS: SINOKOR 6B USD BET",
                 "teaserTitle": "",
-                "visual_caption": "The national diesel average hit $5.45 per gallon, its highest level since May. Motor carriers must update surcharges to protect operating margins."
+                "visual_caption": "Sinokor Maritime successfully expanded its fleet by purchasing 73 tankers for nearly $5.9B. Charterers must prepare for higher energy transport rates across global maritime corridors."
             },
             {
                 "slide_index": 8,

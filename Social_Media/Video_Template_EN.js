@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES AHEAD WITH FORCED LABOR TARIFFS",
+        "hookTitle": "UAE SUSPENDS TRADE WITH IRAN",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PANAMA CANAL: QUEUE-JUMP FEE",
+                "headline": "GEOPOLITICS: UAE SUSPENDS TRADE WITH IRAN",
+                "teaserTitle": "MARITIME: MSC HITS 500 SHIP MILESTONE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is advancing new tariffs on sixty nations under section three hundred one. Importers face heightened compliance audits and severe financial penalties for supply chain infractions."
+                "narration_line": "The United Arab Emirates has suspended all trade and financial transactions with Iran following a missile strike. Supply chain operators face immediate regional friction and must reroute cargo to maintain security."
             },
             {
                 "slide_index": 2,
-                "headline": "PANAMA CANAL: QUEUE-JUMP FEE",
-                "teaserTitle": "MARITIME: MSC SUEZ TRANSPITS",
+                "headline": "MARITIME: MSC HITS 500 SHIP MILESTONE",
+                "teaserTitle": "PORTS: LA HANDLES 960K TEUS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An empty liquefied petroleum gas tanker paid four point six million dollars to bypass Panama Canal queues. Ongoing draught restrictions continue to drive up maritime priority access premiums."
+                "narration_line": "Mediterranean Shipping Company reached a major fleet milestone by acquiring its five hundredth secondhand ship since August twenty twenty. Shippers must navigate tighter vessel availability across core trade lanes."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: MSC SUEZ TRANSPITS",
-                "teaserTitle": "PORTS: GERMAN SEAPORTS STRIKE",
+                "headline": "PORTS: LA HANDLES 960K TEUS",
+                "teaserTitle": "AIRFREIGHT: LUFTHANSA IT OUTAGE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Mediterranean Shipping Company is testing vessel transits through the Suez Canal as regional traffic increases. Ocean carriers are balancing shorter transit routes against lingering security risks."
+                "narration_line": "The Port of Los Angeles handled over nine hundred sixty thousand containers in July driven by strong consumer demand. Gateway congestion requires proactive drayage management to prevent demurrage penalties."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: GERMAN SEAPORTS STRIKE",
-                "teaserTitle": "AUTOMOTIVE: MEDIUM DUTY SALES",
+                "headline": "AIRFREIGHT: LUFTHANSA IT OUTAGE",
+                "teaserTitle": "TECHNOLOGY: ROBOTICS ORDERS JUMP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A daylong warning strike by German port unions has brought container terminal operations to a standstill. Shippers must route cargo around halted facilities to prevent severe schedule delays."
+                "narration_line": "Lufthansa Cargo operations suffered major disruptions at German hubs following a critical technological IT outage. Freight forwarders quickly scrambled for alternative routing options to bypass terminal delays."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTOMOTIVE: MEDIUM DUTY SALES",
-                "teaserTitle": "ROBOTICS: NORTH AMERICAN ORDERS",
+                "headline": "TECHNOLOGY: ROBOTICS ORDERS JUMP",
+                "teaserTitle": "COMPLIANCE: USMCA UNCERTAINTY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "U.S. medium-duty truck sales rose in July, driven by a thirty-nine percent jump in Class six vehicles. Fleet operators are modernizing regional equipment despite high borrowing costs."
+                "narration_line": "North American enterprises invested one point two billion dollars in industrial robots during the first half of the year. Automated fulfillment solutions help facilities combat ongoing warehouse labor constraints."
             },
             {
                 "slide_index": 6,
-                "headline": "ROBOTICS: NORTH AMERICAN ORDERS",
-                "teaserTitle": "FUEL: DIESEL PRICE SURGE",
+                "headline": "COMPLIANCE: USMCA UNCERTAINTY",
+                "teaserTitle": "TANKERS: SINOKOR 6B USD BET",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "North American companies ordered one point two billion dollars worth of robots in the first half. Facilities are rapidly expanding automation to mitigate ongoing labor shortages."
+                "narration_line": "Automotive manufacturers face strategic risks as the future of the United States Mexico Canada Agreement remains uncertain. Firms are actively reviewing cross border sourcing networks to mitigate potential trade tariffs."
             },
             {
                 "slide_index": 7,
-                "headline": "FUEL: DIESEL PRICE SURGE",
+                "headline": "TANKERS: SINOKOR 6B USD BET",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The national average for diesel fuel climbed to five dollars and forty-five cents per gallon. Motor carriers must adjust fuel surcharges to protect operating margins against rising energy expenses."
+                "narration_line": "Sinokor Maritime successfully expanded its fleet by purchasing seventy three tankers for nearly six billion dollars. Charterers must prepare for higher energy transport rates across global maritime corridors."
             },
             {
                 "slide_index": 8,
