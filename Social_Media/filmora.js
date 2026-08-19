@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE SURGE",
-                "teaserTitle": "TRUCKING: PENNSYLVANIA CDL PENALTIES",
-                "visual_caption": "The Panama Canal recorded a $4.6M queue jump fee. Persistent draft limits are forcing carriers to evaluate spot premiums against cape detours."
+                "headline": "TRADE: FORCED LABOR SECTION 301 TARIFFS",
+                "teaserTitle": "EQUIPMENT: 77% CHASSIS IMPORT DUTIES",
+                "visual_caption": "The US is implementing Section 301 tariffs across 60 trading nations targeting forced labor risks. Shippers must audit vendor origins immediately to prevent cargo seizures at border checkpoints."
             },
             {
                 "slide_index": 2,
-                "headline": "TRUCKING: PENNSYLVANIA CDL PENALTIES",
-                "teaserTitle": "EQUIPMENT: U.S. TRAILER ORDERS SURGE",
-                "visual_caption": "Pennsylvania enacted a law imposing $25K fines on unlicensed driving schools. Motor carriers must audit training partners to prevent compliance liabilities."
+                "headline": "EQUIPMENT: 77% CHASSIS IMPORT DUTIES",
+                "teaserTitle": "CONGESTION: 1.7M TEU CAPACITY LOSS",
+                "visual_caption": "A 77% countervailing duty on Mexican chassis imports has forced major supplier GG Trailers out of the US market. Intermodal carriers now face severe equipment deficits and higher chassis leasing costs."
             },
             {
                 "slide_index": 3,
-                "headline": "EQUIPMENT: U.S. TRAILER ORDERS SURGE",
-                "teaserTitle": "DELIVERY: AMAZON DRONE EXPANSION",
-                "visual_caption": "U.S. trailer orders surged 97% year-over-year in July. Fleets are committing capital to equipment replenishment ahead of anticipated peak season volumes."
+                "headline": "CONGESTION: 1.7M TEU CAPACITY LOSS",
+                "teaserTitle": "ACQUISITION: $4.5B HAPAG-LLOYD ZIM PUSHBACK",
+                "visual_caption": "Chronic port congestion has removed 1.7M TEU of capacity from global container operations. Ocean freight rates are climbing as vessel delays squeeze available peak season space."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: AMAZON DRONE EXPANSION",
-                "teaserTitle": "GEOPOLITICAL: UAE HALTS IRAN TRADE",
-                "visual_caption": "Amazon announced an aggressive expansion of its drone delivery footprint to 500 cities. The scaling brings ultrafast aerial fulfillment to millions of new customers."
+                "headline": "ACQUISITION: $4.5B HAPAG-LLOYD ZIM PUSHBACK",
+                "teaserTitle": "AIRFREIGHT: LUFTHANSA CARGO IT OUTAGE",
+                "visual_caption": "Regulators and freight forwarders are pushing back against Hapag-Lloyd's $4.5B acquisition of Zim. Industry leaders caution that further liner consolidation will curb market competition and routing choices."
             },
             {
                 "slide_index": 5,
-                "headline": "GEOPOLITICAL: UAE HALTS IRAN TRADE",
-                "teaserTitle": "MARITIME: CHINESE SHIP REACHES MURMANSK",
-                "visual_caption": "The United Arab Emirates suspended all trade and financial transactions with Iran. Shippers must audit regional sourcing dependencies and establish alternative routing options."
+                "headline": "AIRFREIGHT: LUFTHANSA CARGO IT OUTAGE",
+                "teaserTitle": "SECURITY: US LIFTS NIGERIA RESTRICTIONS",
+                "visual_caption": "A critical software outage crippled Lufthansa Cargo handling hubs across Frankfurt and Munich. The breakdown grounded high-priority shipments and triggered extensive air freight delays across European forwarding channels."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: CHINESE SHIP REACHES MURMANSK",
-                "teaserTitle": "REAL ESTATE: VACANCY STABILIZES",
-                "visual_caption": "A Chinese cargo ship successfully delivered container imports along the Northern Sea Route. Polar shipping offers shorter transits but demands specialized ice navigation."
+                "headline": "SECURITY: US LIFTS NIGERIA RESTRICTIONS",
+                "teaserTitle": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
+                "visual_caption": "The US Coast Guard has lifted 12 years of strict port security rules on vessels arriving from Nigeria. Ocean carriers can now shorten vessel turnarounds and reduce trans-Atlantic operating overhead."
             },
             {
                 "slide_index": 7,
-                "headline": "REAL ESTATE: VACANCY STABILIZES",
+                "headline": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
                 "teaserTitle": "",
-                "visual_caption": "Industrial real estate vacancy stabilized at 7.3% as demand outpaced new supply. Logistics leaders can leverage balanced markets to secure scalable hubs."
+                "visual_caption": "Home Depot launched nationwide 3-hour delivery by converting more than 2K retail stores into regional fulfillment hubs. The initiative cuts final-mile transit times for high-demand contractor orders."
             },
             {
                 "slide_index": 8,

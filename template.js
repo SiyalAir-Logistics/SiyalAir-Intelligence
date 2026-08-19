@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
-        "titleBlue": "4.6M",
-        "footerSummary": "Panama Canal queue jump fees hit $4.6M amid severe draft restrictions, forcing carriers to evaluate spot booking premiums against cape detours."
+        "titleWhite": "FORCED LABOR SECTION 301",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR activates Section 301 forced labor tariffs across 60 nations, demanding instant origin audits to protect shipper import margins."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE SURGE",
+            "heading": "TRADE: FORCED LABOR SECTION 301 TARIFFS",
             "paragraphs": [
-                "The Panama Canal Authority recorded a new peak queue jump auction fee of $4.6M paid by an empty liquefied petroleum gas carrier navigating severe waterway transit bottlenecks. Persistent draft limits and seasonal vessel reservation caps continue to drive extreme bidding premiums among energy and container operators seeking guaranteed passage.",
-                "Cargo owners must weigh the soaring cost of spot canal transit slots against extended sailing schedules around southern maritime capes. Ocean freight planners should recalibrate route cost models as canal reservation surcharges directly inflate per voyage operating expenses."
+                "The Office of the United States Trade Representative is implementing Section 301 tariffs on 60 trading partners as prior Section 122 duties expire. Federal trade authorities are aggressively targeting supply chain origins linked to forced labor and transshipment hubs.",
+                "Importers must execute immediate traceability audits across tier-1 and tier-2 vendor networks to prevent border seizures. Cargo owners face severe customs clearance delays and financial penalties if supply documentation fails regulatory scrutiny."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: PENNSYLVANIA CDL SCHOOL LAW",
+            "nextUpTease": "EQUIPMENT: 77% CHASSIS IMPORT DUTIES",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-19T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TRUCKING: PENNSYLVANIA CDL PENALTIES",
+            "heading": "EQUIPMENT: 77% CHASSIS IMPORT DUTIES",
             "paragraphs": [
-                "Pennsylvania regulators can now impose civil penalties of up to 25K USD on unlicensed commercial driver training schools under a newly enacted state law designed to crack down on substandard operator preparation. The legislation provides state authorities with direct enforcement tools to audit training facilities and eliminate non-compliant instructional programs across regional motor carrier networks.",
-                "Trucking fleets must verify the accreditation status of driver training partners to avoid onboarding uncertified personnel and risking severe vicarious liabilities. Motor carriers operating in the region need to update compliance audit workflows to ensure all newly hired drivers possess fully verified credentials."
+                "Manufacturer GG Trailers has exited the US market following the International Trade Commission's imposition of a 77% countervailing duty on chassis built in Mexico. The trade remedy significantly reduces intermodal equipment supply across North American border transfer hubs.",
+                "Drayage operators and motor carriers face worsening chassis shortages and surging lease rates heading into peak freight season. Fleet managers must evaluate alternate domestic suppliers to mitigate cost inflation across intermodal container corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: U.S. TRAILER ORDERS",
+            "nextUpTease": "CONGESTION: 1.7M TEU CAPACITY LOSS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-19T13:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EQUIPMENT: U.S. TRAILER ORDERS SURGE",
+            "heading": "CONGESTION: 1.7M TEU CAPACITY LOSS",
             "paragraphs": [
-                "U.S. trailer orders experienced a dramatic 97% year-over-year increase in July as motor carriers raced to replace aging over-the-road equipment and expand regional capacity. Fleet operators are committing capital to equipment replenishment cycles to prepare for anticipated Q4 volume surges and mitigate rising maintenance costs.",
-                "Equipment investments require careful capital allocation as asset acquisition costs remain elevated across major manufacturing sectors. Fleet managers must balance equipment renewal timelines against shifting freight demand to optimize long-term asset utilization and protect operating margins."
+                "Persistent bottleneck conditions across major maritime hubs have removed 1.7M TEU of effective container shipping capacity from the global fleet. Inefficient vessel turnarounds and terminal yard congestion continue to choke vessel availability on primary arterial trade lanes.",
+                "Shippers must prepare for elevated ocean contract rates and worsening schedule reliability through Q4. Logistics planners need to adjust transit buffers and consider secondary port routings to bypass chronic gateway delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "DELIVERY: AMAZON DRONE EXPANSION",
+            "nextUpTease": "ACQUISITION: $4.5B HAPAG-LLOYD ZIM PUSHBACK",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-19T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LOGISTICS: AMAZON DRONE EXPANSION",
+            "heading": "ACQUISITION: $4.5B HAPAG-LLOYD ZIM PUSHBACK",
             "paragraphs": [
-                "Amazon has announced an aggressive six-fold expansion of its drone delivery footprint, targeting 500 cities by the end of 2026 to accelerate last-mile fulfillment speeds. The rapid scaling brings ultrafast aerial delivery within reach of tens of millions of customers across suburban and metropolitan markets nationwide.",
-                "E-commerce supply chains are shifting toward decentralized aerial infrastructure to bypass traditional urban traffic congestion and reduce last-mile delivery costs. Competing logistics providers must evaluate automated fulfillment technologies to maintain service parity in high-density consumer delivery sectors."
+                "Freight forwarders, Brazilian regulatory agencies, and Israeli lawmakers have intensified opposition against Hapag-Lloyd's proposed $4.5B acquisition of Zim. Market stakeholders warn that ongoing liner consolidation threatens regional competition and ocean freight rate stability.",
+                "Supply chain directors must monitor antitrust review proceedings as carrier integration could reduce service offerings on key South American and transpacific loops. Shippers should maintain multi-carrier contracting strategies to protect allocation flexibility."
             ],
             "imageUrl": "",
-            "nextUpTease": "GEOPOLITICAL: UAE HALTS IRAN TRADE",
+            "nextUpTease": "AIRFREIGHT: LUFTHANSA CARGO IT OUTAGE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-19T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GEOPOLITICAL: UAE HALTS IRAN TRADE",
+            "heading": "AIRFREIGHT: LUFTHANSA CARGO IT OUTAGE",
             "paragraphs": [
-                "The United Arab Emirates has suspended all trade and financial transactions with Iran following recent ballistic missile strikes, dismantling a major financial and business hub. The sudden cessation of cross-border commerce disrupts established trade corridors and forces international trading networks to reroute Middle Eastern shipments.",
-                "Supply chain operators with regional exposure must immediately audit sourcing dependencies tied to UAE free zones and financial clearing channels. Organizations need to establish alternative routing options and contingency compliance protocols to insulate operations from escalating geopolitical friction."
+                "A major IT software failure disrupted Lufthansa Cargo ground handling operations across primary hubs in Frankfurt and Munich. The system outage halted unit load device processing, stranding time-sensitive cargo and creating massive European airway backlogs.",
+                "Air freight forwarders must coordinate diversion protocols and renegotiate tight delivery service level agreements for high-value freight. Shippers should verify cargo status directly with ground handlers to mitigate downstream manufacturing disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: SHADOW TRANSPORTS",
+            "nextUpTease": "SECURITY: US LIFTS NIGERIA RESTRICTIONS",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-18T18:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: CHINESE SHIP REACHES MURMANSK",
+            "heading": "SECURITY: US LIFTS NIGERIA RESTRICTIONS",
             "paragraphs": [
-                "The general cargo vessel Xin Xin Hai 1 has arrived in Murmansk, marking the first time the Arctic port has received container imports directly along the Northern Sea Route. The milestone voyage highlights expanding polar shipping capabilities as operators seek alternative trade corridors between Asian manufacturing centers and European markets.",
-                "Arctic maritime routes offer reduced transit distances but introduce complex ice navigation risks, specialized insurance requirements, and harsh operating conditions. Ocean carriers must weigh potential fuel savings against the high operational overhead of polar vessel deployments."
+                "The US Coast Guard has officially removed Nigerian ports from its Port Security Advisory, ending 12 years of mandatory heightened security protocols for US-bound vessels. The regulatory relief eliminates burdensome clearance procedures for maritime carriers trading along West African routes.",
+                "Ocean carriers can now reduce port turnaround times and lower maritime compliance expenditures on trans-Atlantic trade lanes. Importers moving commodities from West Africa should anticipate improved sailing schedule reliability and reduced demurrage overhead."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION: REAL ESTATE STABILIZES",
+            "nextUpTease": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-19T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REAL ESTATE: VACANCY STABILIZES",
+            "heading": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
             "paragraphs": [
-                "The industrial real estate market regained equilibrium in the second quarter, with the national vacancy rate falling seven basis points sequentially to 7.3% as demand outpaced new supply. Colliers reported annual stability across warehouse leasing sectors, signaling a more balanced operating environment for logistics facility developers.",
-                "Supply chain leaders can leverage stabilizing industrial vacancy rates to negotiate favorable lease renewals and optimize regional distribution center footprints. Real estate strategists should capitalize on current market conditions to secure scalable warehousing infrastructure near primary transport hubs."
+                "Home Depot has launched nationwide express delivery within 3 hours or less, transforming more than 2K retail stores into localized fulfillment nodes. The rapid logistics model covers thousands of stock keeping units to support urgent commercial and contractor demands.",
+                "Retail supply chains are accelerating the shift toward decentralized storefront fulfillment to counter rising final-mile linehaul expenses. Competing building materials distributors must upgrade omnichannel fulfillment capabilities to defend regional market share."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-19T09:15:00Z",
                 "Status: Audited & True"
             ]
         }

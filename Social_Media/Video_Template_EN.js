@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M",
+        "hookTitle": "FORCED LABOR SECTION 301 TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE SURGE",
-                "teaserTitle": "TRUCKING: PENNSYLVANIA CDL PENALTIES",
+                "headline": "TRADE: FORCED LABOR SECTION 301 TARIFFS",
+                "teaserTitle": "EQUIPMENT: 77% CHASSIS IMPORT DUTIES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Panama Canal recorded a record four point six million dollar queue jump fee. Persistent draft limits are forcing carriers to evaluate spot premiums against cape detours."
+                "narration_line": "The United States is implementing Section three zero one tariffs across sixty trading nations targeting forced labor risks. Shippers must audit vendor origins immediately to prevent cargo seizures at border checkpoints."
             },
             {
                 "slide_index": 2,
-                "headline": "TRUCKING: PENNSYLVANIA CDL PENALTIES",
-                "teaserTitle": "EQUIPMENT: U.S. TRAILER ORDERS SURGE",
+                "headline": "EQUIPMENT: 77% CHASSIS IMPORT DUTIES",
+                "teaserTitle": "CONGESTION: 1.7M TEU CAPACITY LOSS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Pennsylvania enacted a law imposing twenty five thousand dollar fines on unlicensed driving schools. Motor carriers must audit training partners to prevent compliance liabilities."
+                "narration_line": "A seventy-seven percent countervailing duty on Mexican chassis imports has forced major supplier G G Trailers out of the country. Intermodal carriers now face severe equipment deficits and higher chassis leasing costs."
             },
             {
                 "slide_index": 3,
-                "headline": "EQUIPMENT: U.S. TRAILER ORDERS SURGE",
-                "teaserTitle": "DELIVERY: AMAZON DRONE EXPANSION",
+                "headline": "CONGESTION: 1.7M TEU CAPACITY LOSS",
+                "teaserTitle": "ACQUISITION: $4.5B HAPAG-LLOYD ZIM PUSHBACK",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "U.S. trailer orders surged ninety seven percent year over year in July. Fleets are committing capital to equipment replenishment ahead of anticipated peak season volumes."
+                "narration_line": "Chronic port congestion has removed one point seven million T E Us of capacity from global container operations. Ocean freight rates are climbing as vessel delays squeeze available peak season space."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: AMAZON DRONE EXPANSION",
-                "teaserTitle": "GEOPOLITICAL: UAE HALTS IRAN TRADE",
+                "headline": "ACQUISITION: $4.5B HAPAG-LLOYD ZIM PUSHBACK",
+                "teaserTitle": "AIRFREIGHT: LUFTHANSA CARGO IT OUTAGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Amazon announced an aggressive expansion of its drone delivery footprint to five hundred cities. The scaling brings ultrafast aerial fulfillment to millions of new customers."
+                "narration_line": "Regulators and freight forwarders are pushing back against Hapag-Lloyd's four point five billion dollar acquisition of Zim. Industry leaders caution that further liner consolidation will curb market competition and routing choices."
             },
             {
                 "slide_index": 5,
-                "headline": "GEOPOLITICAL: UAE HALTS IRAN TRADE",
-                "teaserTitle": "MARITIME: CHINESE SHIP REACHES MURMANSK",
+                "headline": "AIRFREIGHT: LUFTHANSA CARGO IT OUTAGE",
+                "teaserTitle": "SECURITY: US LIFTS NIGERIA RESTRICTIONS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The United Arab Emirates suspended all trade and financial transactions with Iran. Shippers must audit regional sourcing dependencies and establish alternative routing options."
+                "narration_line": "A critical software outage crippled Lufthansa Cargo handling hubs across Frankfurt and Munich. The breakdown grounded high-priority shipments and triggered extensive air freight delays across European forwarding channels."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: CHINESE SHIP REACHES MURMANSK",
-                "teaserTitle": "REAL ESTATE: VACANCY STABILIZES",
+                "headline": "SECURITY: US LIFTS NIGERIA RESTRICTIONS",
+                "teaserTitle": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "A Chinese cargo ship successfully delivered container imports along the Northern Sea Route. Polar shipping offers shorter transits but demands specialized ice navigation."
+                "narration_line": "The United States Coast Guard has lifted twelve years of strict port security rules on vessels arriving from Nigeria. Ocean carriers can now shorten vessel turnarounds and reduce trans-Atlantic operating overhead."
             },
             {
                 "slide_index": 7,
-                "headline": "REAL ESTATE: VACANCY STABILIZES",
+                "headline": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Industrial real estate vacancy stabilized at seven point three percent as demand outpaced new supply. Logistics leaders can leverage balanced markets to secure scalable hubs."
+                "narration_line": "Home Depot launched nationwide three-hour delivery by converting more than two thousand retail stores into regional fulfillment hubs. The initiative cuts final-mile transit times for high-demand contractor orders."
             },
             {
                 "slide_index": 8,
