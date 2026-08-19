@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FUEL: DIESEL MARGINS TOP 100 BARREL TO REACH RECORD",
-                "teaserTitle": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
-                "visual_caption": "National diesel averages hit $5.45 per gallon as refining margins top $100 per barrel. Motor carriers are immediately passing these surging fuel costs through to shippers."
+                "headline": "MARITIME: MAERSK TEARS UP FLEET CEILING TO TARGET GROWTH",
+                "teaserTitle": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
+                "visual_caption": "Maersk is abandoning its strict containership capacity ceiling to target aggressive fleet growth. This strategic shift signals intensified vessel deployment across global ocean trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE SETS HIGH",
-                "teaserTitle": "REGULATORY: USTR MOVES AHEAD WITH TARIFFS",
-                "visual_caption": "An empty tanker paid a record $4.6M priority fee to cut the Panama Canal queue. Vessel operators face escalating financial hurdles to maintain tight transit schedules."
+                "headline": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
+                "teaserTitle": "AIR CARGO: AIR FREIGHT RATES TAKE DIP",
+                "visual_caption": "MSC has joined major carriers in resuming Suez Canal transits with 7 vessels. The return to the Red Sea route offers transit time savings for ocean shippers."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATORY: USTR MOVES AHEAD WITH TARIFFS",
-                "teaserTitle": "MARITIME: MSC SHIPS RESUME SUEZ",
-                "visual_caption": "The USTR announced new duties on 60 trading partners under Section 301. Importers must navigate increased customs friction and potential cost inflation across corridors."
+                "headline": "AIR CARGO: AIR FREIGHT RATES TAKE DIP",
+                "teaserTitle": "FUEL: DIESEL MARGINS HIT NEW RECORD",
+                "visual_caption": "Global air cargo volumes declined in early August as spot rates softened by 6%. Shippers can leverage this softer peak season pricing for inventory replenishment."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
-                "teaserTitle": "PORT: LOS ANGELES TOPS 960K TEUS",
-                "visual_caption": "MSC joined major carriers in testing voyages through the Suez Canal and Red Sea. Shippers must weigh schedule gains against lingering security risks and surcharges."
+                "headline": "FUEL: DIESEL MARGINS HIT NEW RECORD",
+                "teaserTitle": "PORT: LA HANDLES 960K TEUS",
+                "visual_caption": "U.S. diesel averages surged to $5.45 per gallon as refining margins top $100. Motor carriers are passing these costs through via linehaul surcharges."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT: LOS ANGELES TOPS 960K TEUS IN JULY",
-                "teaserTitle": "AUTOMOTIVE: USMCA FATE THREATENS",
-                "visual_caption": "The Port of Los Angeles handled 960K TEUs in July on sustained consumer demand. High throughput risks inducing localized chassis shortages and terminal congestion."
+                "headline": "PORT: LA HANDLES 960K TEUS",
+                "teaserTitle": "LABOR: GERMAN PORTS HIT BY STRIKE",
+                "visual_caption": "The Port of Los Angeles handled 960K TEUs in July amid strong import demand. High gateway volumes threaten to induce localized terminal and chassis congestion."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOMOTIVE: USMCA FATE THREATENS PRODUCERS",
-                "teaserTitle": "AIR CARGO: PEAK SEASON DEMAND SLUMPS",
-                "visual_caption": "Automotive manufacturers face severe strategic uncertainty over USMCA viability. Cross-border supply chains remain highly vulnerable to abrupt regional duty restructuring."
+                "headline": "LABOR: GERMAN PORTS HIT BY STRIKE",
+                "teaserTitle": "REGULATORY: USTR ADVANCES TARIFFS",
+                "visual_caption": "German union Verdi launched a daylong warning strike that halted operations at 6 major seaports. The labor impasse threatens vessel turnaround times across Northern Europe."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: PEAK SEASON DEMAND SLUMPS",
+                "headline": "REGULATORY: USTR ADVANCES TARIFFS",
                 "teaserTitle": "",
-                "visual_caption": "Global air cargo volumes dropped as spot rates softened 6% month over month. Shippers gain advantageous pricing leverage to optimize high-value inventory replenishment."
+                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 key trading partners. Importers must audit foreign sourcing documentation to prevent unexpected customs delays."
             },
             {
                 "slide_index": 8,

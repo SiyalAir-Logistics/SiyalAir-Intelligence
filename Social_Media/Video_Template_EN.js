@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DIESEL MARGINS TOP ONE HUNDRED DOLLARS",
+        "hookTitle": "MAERSK TEARS UP FLEET CEILING TO TARGET GROWTH",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FUEL: DIESEL MARGINS TOP 100 BARREL TO REACH RECORD",
-                "teaserTitle": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
+                "headline": "MARITIME: MAERSK TEARS UP FLEET CEILING TO TARGET GROWTH",
+                "teaserTitle": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "National diesel averages climbed to five dollars and forty-five cents per gallon. Refining margins surpassed one hundred dollars per barrel, triggering immediate linehaul surcharges."
+                "narration_line": "Maersk is abandoning its strict containership capacity ceiling to target aggressive fleet growth. This strategic shift signals intensified vessel deployment across global ocean trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE SETS HIGH",
-                "teaserTitle": "REGULATORY: USTR MOVES AHEAD WITH TARIFFS",
+                "headline": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
+                "teaserTitle": "AIR CARGO: AIR FREIGHT RATES TAKE DIP",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An empty tanker paid four point six million dollars to jump the canal queue. Persistent draught restrictions continue to squeeze global maritime transit networks."
+                "narration_line": "MSC has joined major carriers in resuming Suez Canal transits with seven vessels. The return to the Red Sea route offers transit time savings for ocean shippers."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATORY: USTR MOVES AHEAD WITH TARIFFS",
-                "teaserTitle": "MARITIME: MSC SHIPS RESUME SUEZ",
+                "headline": "AIR CARGO: AIR FREIGHT RATES TAKE DIP",
+                "teaserTitle": "FUEL: DIESEL MARGINS HIT NEW RECORD",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The trade representative implemented new duties on sixty trading partners under Section three hundred one. Importers must audit supplier country of origin documentation immediately."
+                "narration_line": "Global air cargo volumes declined in early August as spot rates softened by six percent. Shippers can leverage this softer peak season pricing for inventory replenishment."
             },
             {
                 "slide_index": 4,
-                "headline": "MARITIME: MSC SHIPS RESUME SUEZ TRANSITS",
-                "teaserTitle": "PORT: LOS ANGELES TOPS 960K TEUS",
+                "headline": "FUEL: DIESEL MARGINS HIT NEW RECORD",
+                "teaserTitle": "PORT: LA HANDLES 960K TEUS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Mediterranean Shipping Company joined major carriers in testing voyages through the Suez Canal. Vessels disabled transponders as they navigated the volatile waterway."
+                "narration_line": "U.S. diesel averages surged to five dollars and forty five cents per gallon as refining margins top one hundred dollars. Motor carriers are passing these costs through via linehaul surcharges."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT: LOS ANGELES TOPS 960K TEUS IN JULY",
-                "teaserTitle": "AUTOMOTIVE: USMCA FATE THREATENS",
+                "headline": "PORT: LA HANDLES 960K TEUS",
+                "teaserTitle": "LABOR: GERMAN PORTS HIT BY STRIKE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand TEUs in July. Sustained consumer demand drove proactive inventory replenishment by importers."
+                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand TEUs in July amid strong import demand. High gateway volumes threaten to induce localized terminal and chassis congestion."
             },
             {
                 "slide_index": 6,
-                "headline": "AUTOMOTIVE: USMCA FATE THREATENS PRODUCERS",
-                "teaserTitle": "AIR CARGO: PEAK SEASON DEMAND SLUMPS",
+                "headline": "LABOR: GERMAN PORTS HIT BY STRIKE",
+                "teaserTitle": "REGULATORY: USTR ADVANCES TARIFFS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "North American automakers face severe strategic uncertainty regarding trade pact viability. Manufacturers are modeling multiple operational footprints to counter potential termination."
+                "narration_line": "German union Verdi launched a daylong warning strike that halted operations at six major seaports. The labor impasse threatens vessel turnaround times across Northern Europe."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: PEAK SEASON DEMAND SLUMPS",
+                "headline": "REGULATORY: USTR ADVANCES TARIFFS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Global air cargo volumes dropped during the first week of August. Spot rates softened by six percent month over month, signaling a muted peak season."
+                "narration_line": "The USTR is advancing Section three hundred one tariffs across sixty key trading partners. Importers must audit foreign sourcing documentation to prevent unexpected customs delays."
             },
             {
                 "slide_index": 8,
