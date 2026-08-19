@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "DIESEL CRACK SPREADS HIT 100",
+        "hookTitle": "GLOBAL SHIPBUILDING ORDERBOOK HITS FASTEST PACE SINCE 2008",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "FUEL: DIESEL CRACK SPREADS SURGE",
-                "teaserTitle": "MARITIME: PANAMA CANAL QUEUE-JUMP RECORD",
+                "headline": "MARITIME: GLOBAL SHIP ORDERBOOK SURGES",
+                "teaserTitle": "TANKERS: SINOKOR BUYS 73 SHIPS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Refinery crack spreads for middle distillates have topped one hundred dollars per barrel. Fleet operators face immediate operating cost inflation across North American freight networks."
+                "narration_line": "Global merchant ship orderbook growth has accelerated by twenty-seven percent year over year. Contracting volumes across international shipyards are tracking their fastest pace since two thousand and eight."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL QUEUE-JUMP RECORD",
-                "teaserTitle": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
+                "headline": "TANKERS: SINOKOR BUYS 73 SHIPS",
+                "teaserTitle": "CONTAINER: MSC REACHES 500 MILESTONE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Panama Canal recorded a record four point six million dollar priority fee. Drought conditions restrict daily reservation slots and drive up transit costs."
+                "narration_line": "South Korean owner Sinokor Maritime has dominated secondhand tanker acquisitions by purchasing seventy-three vessels. The massive fleet expansion campaign cost approximately five point nine billion dollars."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
-                "teaserTitle": "PORTS: LOS ANGELES HANDLES 960K TEUS",
+                "headline": "CONTAINER: MSC REACHES 500 MILESTONE",
+                "teaserTitle": "PANAMA CANAL: DRAG ISSUES TRIGGER WARNINGS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Twenty-two states are suing the Department of Transportation over driver record mandates. The legal battle creates compliance uncertainty for interstate motor carriers."
+                "narration_line": "Mediterranean Shipping Company has crossed a major milestone by acquiring its five hundredth secondhand containership. The Swiss liner giant continues to expand proprietary vessel capacity aggressively."
             },
             {
                 "slide_index": 4,
-                "headline": "PORTS: LOS ANGELES HANDLES 960K TEUS",
-                "teaserTitle": "TECHNOLOGY: ROBOT ORDERS HIT 1.2B",
+                "headline": "PANAMA CANAL: DRAFT WARNINGS FLASH",
+                "teaserTitle": "AIR FREIGHT: LUFTHANSA CARGO IT OUTAGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Port of Los Angeles processed nine hundred sixty thousand TEUs in July. Shippers are front-loading cargo ahead of projected trade policy volatility."
+                "narration_line": "The Panama Canal Authority has initiated proactive capacity and draft rationing measures. Declining Gatun Lake water levels threaten to restrict vessel drafts ahead of seasonal droughts."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: ROBOT ORDERS HIT 1.2B",
-                "teaserTitle": "AIR FREIGHT: UPS HONG KONG ROUTE TRANSFER",
+                "headline": "AIR CARGO: LUFTHANSA IT OUTAGE HALTS",
+                "teaserTitle": "DEFENSE: PENTAGON SIGNS 2B MINERAL DEALS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "North American enterprises invested one point two billion dollars in warehouse robotics. Operators are scaling automation to combat persistent labor shortages."
+                "narration_line": "Lufthansa Cargo suffered a severe IT system failure that halted operations at German hubs. Freight forwarders scrambled for alternative European gateway options as processing queues backed up."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR FREIGHT: UPS HONG KONG ROUTE TRANSFER",
-                "teaserTitle": "OCEAN: MSC TESTS RED SEA SUEZ ROUTES",
+                "headline": "DEFENSE: PENTAGON SIGNS 2B MINERAL DEALS",
+                "teaserTitle": "RAILWAY: DB CARGO SEEKS UK BUYER",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Department of Transportation approved UPS route transfers to the Philippines. This expansion diversifies regional air express sorting infrastructure."
+                "narration_line": "The Pentagon has finalized over two billion dollars in conditional loan commitments for domestic entities. The funding aims to secure resilient supplies of critical battery minerals."
             },
             {
                 "slide_index": 7,
-                "headline": "OCEAN: MSC TESTS RED SEA SUEZ ROUTES",
+                "headline": "RAIL FREIGHT: DB CARGO SEEKS UK BUYER",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mediterranean Shipping Company resumed transits through the Suez Canal. Direct routing cuts up to fourteen days off maritime schedules."
+                "narration_line": "German parent company DB Cargo has initiated a formal sale process for its UK freight business. The divestment reflects strategic financial restructuring across European rail operations."
             },
             {
                 "slide_index": 8,

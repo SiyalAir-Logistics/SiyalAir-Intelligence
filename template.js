@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DIESEL CRACK SPREADS HIT",
-        "titleBlue": "$100",
-        "footerSummary": "Diesel crack spreads top $100 as Panama Canal draft limits, record queue fees, and 22-state CDL record lawsuits squeeze Q3 margins."
+        "titleWhite": "GLOBAL SHIPBUILDING ORDERBOOK HITS FASTEST PACE SINCE",
+        "titleBlue": "2008",
+        "footerSummary": "Global ship orderbook growth hits fastest pace since 2008 as yards contract 27% year-over-year, tightening capacity across major maritime trade lanes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "FUEL: DIESEL CRACK SPREADS SURGE",
+            "heading": "MARITIME: GLOBAL SHIP ORDERBOOK SURGES",
             "paragraphs": [
-                "Refinery crack spreads for middle distillates have officially topped $100 per barrel, decoupling retail diesel prices from benchmark crude oil indices and driving the national average to $5.454 per gallon. Refineries are struggling to balance jet fuel and diesel yields amid seasonal maintenance turnarounds and lingering middle distillate inventory deficits.",
-                "Fleet operators face immediate operating cost inflation that erodes linehaul margin buffers across North American freight networks. Logistics procurement teams must audit dynamic fuel surcharge mechanisms and lock in fixed-rate carrier contracts to protect fourth-quarter operating budgets."
+                "Global merchant ship orderbook growth has accelerated to 27% year-over-year, marking the fastest expansion pace recorded since the pre-Lehman boom of 2008. Contracting volumes across international shipyards are tracking historic highs as maritime operators aggressively secure newbuild slots to modernize aging fleets.",
+                "Surging shipyard demand drives up newbuild vessel prices and extends delivery lead times for ocean carriers planning long-term fleet capacity. Logistics procurement teams must account for higher asset costs and constrained slot availability when forecasting multi-year ocean freight budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: PANAMA CANAL QUEUE-JUMP RECORD",
+            "nextUpTease": "TANKERS: SINOKOR BUYS 73 SHIPS",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-18T10:00:00Z",
+                "Source: https://splash247.com/global-ship-orderbook-growth-hits-fastest-pace-since-pre-lehman-boom/",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: PANAMA CANAL QUEUE-JUMP RECORD",
+            "heading": "TANKERS: SINOKOR BUYS 73 SHIPS",
             "paragraphs": [
-                "The Panama Canal Authority has recorded its highest-ever priority transit fee as an empty liquefied petroleum gas tanker paid $4.6M to bypass severe Gatun Lake draft restrictions. El Ni\u00f1o-driven drought conditions are severely restricting daily reservation slots, forcing ocean carriers to absorb escalating booking auction costs or face extended voyage delays.",
-                "Persistent water depth limitations reduce maximum vessel deadweight tonnage across vital trade lanes connecting Asian manufacturing bases to US ports. Shippers must evaluate the total cost trade-offs between paying exorbitant priority tolls or re-routing vessels via alternative global marine corridors."
+                "South Korean owner Sinokor Maritime has dominated 2026 secondhand tanker acquisitions by purchasing 73 vessels for a total investment of $5.9B. The aggressive fleet expansion campaign stands out as one of the most lucrative and extensive asset acquisition sprees in modern shipping history.",
+                "Concentrated asset buying by major operators tightens available secondhand vessel supply and drives up charter rates across global energy transport corridors. Energy shippers must navigate elevated freight benchmarks and secure long-term tonnage agreements to protect downstream petroleum margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
+            "nextUpTease": "CONTAINER: MSC REACHES 500 MILESTONE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T08:00:00Z",
+                "Source: https://splash247.com/sinokors-6bn-tanker-bet-pays-off-spectacularly/",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
+            "heading": "CONTAINER: MSC REACHES 500 MILESTONE",
             "paragraphs": [
-                "A coalition of 22 state attorneys general has filed a federal lawsuit challenging Department of Transportation mandates requiring state agencies to surrender 17M commercial driver license records. State regulators argue that the sweeping federal data transfer violates statutory privacy protections and exceeds the enforcement authority of the Federal Motor Carrier Safety Administration.",
-                "The legal showdown introduces significant compliance uncertainty for motor carriers managing multi-state driver qualification files and safety auditing workflows. Fleet compliance executives must monitor judicial rulings closely to prevent administrative bottlenecks and maintain interstate operating credentials."
+                "Mediterranean Shipping Company has officially crossed a major operational milestone by acquiring its 500th secondhand containership since August 2020, adding the 2,796 TEU vessel Calandra to its fleet. The Swiss liner giant continues to outpace competitors in expanding proprietary vessel capacity through aggressive secondary market transactions.",
+                "Unprecedented fleet scale allows major carriers to exert dominant control over global string deployments and service loops. Beneficial cargo owners must evaluate alliance shifts and carrier schedule integrity to mitigate service reliability risks across primary trade networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: LOS ANGELES HANDLES 960K TEUS",
+            "nextUpTease": "PANAMA CANAL: DRAG ISSUES TRIGGER WARNINGS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-17T12:00:00Z",
+                "Source: https://splash247.com/msc-reaches-500-secondhand-acquisitions-in-six-year-buying-blitz/",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PORTS: LOS ANGELES HANDLES 960K TEUS",
+            "heading": "PANAMA CANAL: DRAFT WARNINGS FLASH",
             "paragraphs": [
-                "The Port of Los Angeles processed over 960K TEUs in July, driven by sustained retail import demand and opportunistic shippers pulling peak season inventories forward. Port leadership projects steady operational volumes of 900K TEUs through August as cargo owners front-load shipments to mitigate potential trade policy volatility.",
-                "Surging throughput at primary West Coast marine gateways heightens the risk of terminal dwell time increases and chassis shortages during peak distribution cycles. Supply chain managers must secure reliable drayage capacity and utilize real-time visibility tools to prevent demurrage accumulation."
+                "The Panama Canal Authority has initiated proactive capacity and draft rationing measures ahead of projected El Ni\u00f1o-driven drought conditions impacting Gatun Lake water levels. Declining reservoir depths threaten to restrict maximum allowable vessel drafts and daily transit slot reservations heading into the final quarters of the year.",
+                "Imminent draft restrictions force ocean carriers to lighten boxloads or absorb costly weight surcharges, increasing landed transportation costs per container. Supply chain planners must model alternative intermodal routings and transshipment options to bypass potential bottleneck delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: ROBOT ORDERS HIT 1.2B",
+            "nextUpTease": "AIR FREIGHT: LUFTHANSA CARGO IT OUTAGE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-18T09:00:00Z",
+                "Source: https://splash247.com/red-dots-flash-warning-for-panama-canal-shipping/",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TECHNOLOGY: ROBOT ORDERS HIT 1.2B",
+            "heading": "AIR CARGO: LUFTHANSA IT OUTAGE HALTS",
             "paragraphs": [
-                "North American enterprises invested $1.2B in warehouse robotics systems during the first half of the year, representing a 6.6% year-over-year increase in automation capital expenditures. Driven by labor scarcity and escalating fulfillment complexity, logistics operators are deploying automated guided vehicles and piece-picking systems to scale throughput.",
-                "Upfront capital investments in warehouse automation deliver long-term operational savings by shrinking facility footprints and lowering per-unit handling costs. Distribution executives must align technology deployment timelines with throughput demand forecasts to maximize return on invested capital."
+                "Lufthansa Cargo experienced a severe IT system failure that brought cargo handling operations across its primary Frankfurt and Munich hub facilities to an immediate standstill. Freight forwarders were forced to scramble for alternative European gateway options as outbound and inbound processing queues backed up rapidly.",
+                "Sudden hub IT failures create acute cargo dwell time spikes and disrupt time-sensitive supply chain schedules for high-value air freight shipments. Logistics managers must establish robust contingency protocols and multi-hub routing strategies to maintain operational continuity during unexpected digital outages."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR FREIGHT: UPS HONG KONG ROUTE TRANSFER",
+            "nextUpTease": "DEFENSE: PENTAGON SIGNS 2B MINERAL DEALS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-18T07:30:00Z",
+                "Source: https://theloadstar.com/it-outage-brings-chaos-to-lufthansa-cargo-handling-at-german-hubs/",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR FREIGHT: UPS HONG KONG ROUTE TRANSFER",
+            "heading": "DEFENSE: PENTAGON SIGNS 2B MINERAL DEALS",
             "paragraphs": [
-                "The US Department of Transportation has approved the transfer of primary UPS international air cargo frequencies from Hong Kong to the Philippines. The integrator is expanding its regional sorting infrastructure at Clark International Airport to streamline cross-border express package flows across Southeast Asia.",
-                "The regulatory approval provides air cargo shippers with diversified export routing options that bypass increasingly congested traditional Chinese aviation hubs. Forwarders must restructure regional feeder networks to capitalize on accelerated transit velocity from emerging manufacturing corridors."
+                "The Department of Defense\u2019s Office of Strategic Capital has finalized over $2.0B in conditional loan commitments with domestic entities including Sila Technologies, Sunrise Energy Metals, and Niron Magnetics. The federal funding aims to secure resilient domestic supplies of critical battery minerals and advanced magnetic components.",
+                "Strategic manufacturing investments help insulate domestic high-tech supply chains from foreign material dependencies and trade policy disruptions. Industrial procurement teams should monitor federal funding impacts on raw material availability and localized component pricing."
             ],
             "imageUrl": "",
-            "nextUpTease": "OCEAN: MSC TESTS RED SEA SUEZ ROUTES",
+            "nextUpTease": "RAILWAY: DB CARGO SEEKS UK BUYER",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-18T18:20:00Z",
+                "Source: https://www.supplychaindive.com/news/pentagon-batteries-critical-minerals-loans/757398/",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "OCEAN: MSC TESTS RED SEA SUEZ ROUTES",
+            "heading": "RAIL FREIGHT: DB CARGO SEEKS UK BUYER",
             "paragraphs": [
-                "Mediterranean Shipping Company has deployed seven container vessels back through the Suez Canal under enhanced security protocols, joining other major carriers testing the Red Sea corridor. The Suez Canal Authority is actively incentivizing liner services to return to the shortcut in order to bypass lengthy African cape detours.",
-                "Restoring direct Suez transits cuts 10 to 14 days off Asia-Europe ocean schedules and significantly reduces voyage fuel consumption. Logistics planners must evaluate carrier risk assessments and war risk insurance adjustments when optimizing ocean transit routes."
+                "German parent company DB Cargo AG has officially initiated a formal sale process to divest its UK rail freight business, DB Cargo UK. The structural carve-out reflects ongoing financial optimization and strategic repositioning across European rail freight operations.",
+                "Ownership transitions among major rail operators introduce short-term operational uncertainty for industrial shippers relying on established rail freight networks. Supply chain executives must review existing service contracts and evaluate alternative rail providers to safeguard inland distribution schedules."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-18T15:00:00Z",
+                "Source: https://theloadstar.com/europe-focused-db-cargo-seeks-buyer-for-uk-railfreight-business/",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
