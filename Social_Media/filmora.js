@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: CANADA TARIFFS DELAYED",
-                "teaserTitle": "MARITIME: SUEZ CANAL TRANSITS",
-                "visual_caption": "President Trump delayed 50% Canadian tariffs for 3 days to August 22. Negotiators are using this brief extension to avert major cross-border supply chain disruptions."
+                "headline": "FUEL: DIESEL CRACK SPREADS REACH RECORDS",
+                "teaserTitle": "LOGISTICS: DRONE EXPANSION",
+                "visual_caption": "Global diesel crack spreads have climbed past $100 a barrel. This severe market disconnect is directly inflating over-the-road freight operating costs."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: SUEZ CANAL TRANSITS",
-                "teaserTitle": "TANKERS: CRACK SPREAD SURGE",
-                "visual_caption": "Mediterranean Shipping Company resumed commercial transits through the Suez Canal. Container volumes are rising as carriers adapt to regional security adjustments."
+                "headline": "LOGISTICS: DRONE EXPANSION",
+                "teaserTitle": "GOVERNMENT: TARIFF DELAYS",
+                "visual_caption": "Amazon has announced a massive expansion of its commercial drone delivery network. The initiative targets nearly 500 cities for autonomous package fulfillment."
             },
             {
                 "slide_index": 3,
-                "headline": "TANKERS: CRACK SPREAD SURGE",
-                "teaserTitle": "LOGISTICS: DRONE EXPANSION",
-                "visual_caption": "Global diesel crack spreads climbed past $100 a barrel to record highs. Refinery constraints are directly inflating over-the-road freight operating costs."
+                "headline": "GOVERNMENT: TARIFF DELAYS",
+                "teaserTitle": "MARITIME: SUEZ TRANSITS",
+                "visual_caption": "President Trump signed a proclamation delaying 50% tariffs on Canadian imports. Negotiators are utilizing this brief extension to prevent trade disruptions."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: DRONE EXPANSION",
-                "teaserTitle": "MARITIME: NIGERIA ADVISORY",
-                "visual_caption": "Amazon announced a massive expansion of its commercial drone delivery network. The service is targeting 500 cities for 1M autonomous package deliveries."
+                "headline": "MARITIME: SUEZ TRANSITS",
+                "teaserTitle": "SHIPYARDS: SAFETY PROBES",
+                "visual_caption": "Mediterranean Shipping Company has resumed commercial transits through the Suez Canal. Container volumes are rising as carriers adjust to regional security."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: NIGERIA ADVISORY",
-                "teaserTitle": "RAILROAD: INTERMODAL SERVICE",
-                "visual_caption": "The US Coast Guard removed Nigeria from its Port Security Advisory list. This action ends 12 years of extra security requirements for ships trading from Nigerian ports."
+                "headline": "SHIPYARDS: SAFETY PROBES",
+                "teaserTitle": "GOVERNMENT: IRAN SANCTIONS",
+                "visual_caption": "South Korea launched a sweeping safety investigation into major shipbuilder HD Hyundai. Inspectors deployed following fatal subcontractor accidents at regional yards."
             },
             {
                 "slide_index": 6,
-                "headline": "RAILROAD: INTERMODAL SERVICE",
-                "teaserTitle": "GOVERNMENT: TRADE SANCTIONS",
-                "visual_caption": "BNSF Railway added a faster intermodal service across the American Southwest. The new route runs 6 days a week to accommodate surging shipper transportation demand."
+                "headline": "GOVERNMENT: IRAN SANCTIONS",
+                "teaserTitle": "RAILROAD: INTERMODAL EXPANSION",
+                "visual_caption": "The United Arab Emirates suspended all trade and financial transactions with Iran. This economic action forces a major realignment of Middle Eastern corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "GOVERNMENT: TRADE SANCTIONS",
+                "headline": "RAILROAD: INTERMODAL EXPANSION",
                 "teaserTitle": "",
-                "visual_caption": "The United Arab Emirates suspended all trade and financial transactions with Iran. The economic action follows a recent missile strike affecting regional shipping lanes."
+                "visual_caption": "BNSF Railway expanded its intermodal network with a faster Phoenix to Dallas route. The service runs 6 days a week to alleviate trucking capacity constraints."
             },
             {
                 "slide_index": 8,
