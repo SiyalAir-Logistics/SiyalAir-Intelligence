@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "SHADOW TRANSHIPMENT",
-        "titleBlue": "PROBE",
-        "footerSummary": "US authorities target 40-nation transhipment network to curb tariff evasion, threatening sourcing agility and increasing audit risk for importers."
+        "titleWhite": "60-NATION TARIFF",
+        "titleBlue": "ROLLOUT",
+        "footerSummary": "USTR triggers Section 301 tariffs across 60 trading partners as Section 122 expires, elevating landed costs and compliance friction globally."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CBP: SHADOW TRANSHIPMENT PROBE",
+            "heading": "USTR: 60-NATION TARIFF ROLLOUT",
             "paragraphs": [
-                "The White House and US Customs and Border Protection have alleged a global conspiracy involving more than 40 countries, including Singapore and Vietnam, to evade tariffs through a shadow transhipment network. Authorities are intensifying audits on goods moving through these hubs to identify deceptive origin labeling used to bypass existing trade restrictions.",
-                "Importers utilizing Southeast Asian transhipment points face immediate risks of shipment seizures and retroactive duty penalties. Supply chain directors must implement aggressive provenance tracking and third-party verification to mitigate exposure to this widening enforcement net."
+                "The Office of the United States Trade Representative has advanced broad tariff actions against 60 trading partners under Section 301 of the Trade Act of 1974. The enforcement regime takes effect immediately following the expiration of temporary Section 122 duties, establishing strict import penalties tied to forced labor compliance.",
+                "Importers across major retail and manufacturing sectors face sudden duty recalibrations and increased customs scrutiny on entry filings. Supply chain leaders must audit upstream Tier-2 supplier documentation immediately to avert costly port detentions and unrecoverable margin erosion."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: 1.7M TEU CAPACITY LOCK",
+            "nextUpTease": "MIDDLE EAST: JEDDAH PORT CONGESTION",
             "tags": [
-                "Source: https://theloadstar.com/us-alleges-global-shadow-transhipment-network-conspiracy-to-evade-tariffs/",
-                "Published: 2026-08-19T09:12:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-19T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: 1.7M TEU CAPACITY LOCK",
+            "heading": "MIDDLE EAST: JEDDAH PORT CONGESTION",
             "paragraphs": [
-                "Persistent global port congestion is currently removing 1.7M TEU of container shipping capacity from the market as vessel dwell times escalate across major trade lanes. This capacity absorption effectively reduces active global fleet availability, driving a disconnect between nominal vessel supply and actual operational throughput.",
-                "Tightened vessel availability is expected to sustain elevated spot rates even as new ship deliveries enter the market. Logistics planners should anticipate extended lead times and prioritize equipment repositioning strategies to bypass regional bottlenecks in North Asia and the Middle East."
+                "Severe terminal congestion at the Saudi Arabian port of Jeddah has driven vessel waiting times up to 10 days, severely stalling breakbulk and container operations across the Red Sea. Regional feeder networks and inland trucking corridors are absorbing heavy container backlogs as terminal yard density exceeds workable operational limits.",
+                "The prolonged dwell times threaten critical industrial project milestones and force ocean carriers to weigh costly port omissions. Logistics managers must restructure regional routing by evaluating alternative Gulf transshipment hubs to prevent widespread delivery failures."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR: LUFTHANSA HUB OUTAGE",
+            "nextUpTease": "TRADE: CANADA TARIFF DEADLINE",
             "tags": [
-                "Source: https://theloadstar.com/global-port-congestion-keeping-1-7m-teu-of-capacity-out-of-the-market/",
-                "Published: 2026-08-19T10:45:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-19T07:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR: LUFTHANSA HUB OUTAGE",
+            "heading": "TRADE: CANADA TARIFF DEADLINE",
             "paragraphs": [
-                "A major IT systems failure has disrupted Lufthansa Cargo handling operations at its primary Frankfurt and Munich hubs, triggering significant backlogs for time-sensitive airfreight. The software outage stalled automated sorting and documentation processing, forcing a shift to manual protocols that have slashed throughput capacity.",
-                "Prolonged hub delays threaten cold chain integrity and high-value electronics delivery windows across the European network. Shippers should evaluate alternative air gateways in Benelux or Northern Italy to maintain transit reliability during the recovery phase."
+                "The United States administration has instituted a 3-day extension before enacting a proposed 50% tariff surcharge on Canadian imports. Bilateral negotiations remain deadlocked over digital services taxes and cross-border trade balances, leaving billions in cross-border industrial freight under immediate fiscal threat.",
+                "If enacted, the 50% duty will disrupt deeply integrated automotive, agricultural, and energy supply chains across the northern border. Cross-border logistics coordinators should pre-clear in-transit shipments and model expedited border processing strategies before the grace period expires."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE: MEXICO CHINA SURTAX",
+            "nextUpTease": "SANCTIONS: UAE IRAN EMBARGO",
             "tags": [
-                "Source: https://theloadstar.com/it-outage-brings-chaos-to-lufthansa-cargo-handling-at-german-hubs/",
-                "Published: 2026-08-18T16:20:00Z",
+                "Source: https://www.ttnews.com/articles/trump-delay-50-tariffs-canadian-goods-3-days",
+                "Published: 2026-08-19T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TRADE: MEXICO CHINA SURTAX",
+            "heading": "SANCTIONS: UAE IRAN EMBARGO",
             "paragraphs": [
-                "Mexico\u2019s economy and finance ministries are evaluating new duties on Chinese imports not currently covered by bilateral trade agreements as part of a strategic pact review. The potential surtax aims to address trade imbalances and protect domestic manufacturing interests amid surging volumes of Chinese industrial inputs.",
-                "New tariffs in Mexico could disrupt the cost-benefit analysis for North American nearshoring projects reliant on Chinese components. Procurement teams must model the impact of localized duty hikes on final assembly costs for goods destined for the US market."
+                "The United Arab Emirates has suspended all commercial maritime trade and associated banking transactions with Iran following recent antiship missile incidents in the Persian Gulf. The immediate blockade cuts off a critical intermediary trade channel that handles millions of tons of regional commodity throughput annually.",
+                "Freight forwarders and energy traders face abrupt contractual cancellations and rerouting mandates across Middle Eastern trade corridors. Compliance officers must freeze affected trade documentation and secure secondary shipping lines to avoid secondary regulatory penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "LEGAL: DOT CDL DATA LAWSUIT",
+            "nextUpTease": "SECURITY: NIGERIA PORT CLEARANCE",
             "tags": [
-                "Source: https://www.ttnews.com/articles/mexico-weighs-china-duties",
-                "Published: 2026-08-18T14:30:00Z",
+                "Source: https://maritime-executive.com/article/uae-suspends-trade-with-iran-following-antiship-missile-strike",
+                "Published: 2026-08-19T06:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LEGAL: DOT CDL DATA LAWSUIT",
+            "heading": "SECURITY: NIGERIA PORT CLEARANCE",
             "paragraphs": [
-                "Twenty-two US states have filed a lawsuit against the Department of Transportation to block a federal demand for access to 17M commercial driver license records. The legal challenge alleges federal overreach and potential violations of driver privacy rights concerning the five-year historical data request.",
-                "The outcome of this litigation will determine the government's ability to centralize driver safety and compliance data across state lines. Transportation managers should monitor potential impacts on driver recruitment and retention as privacy concerns influence labor market sentiment."
+                "The United States Coast Guard has officially removed Nigeria from its Port Security Advisory, concluding 12 years of mandatory security screening and port state control protocols on incoming vessels. The regulatory relief eliminates secondary verification inspections previously required for ships calling US gateways after departing Nigerian ports.",
+                "The policy change shortens turnaround times and reduces operational overhead for West African crude and container trade lanes. Vessel operators can now reduce administrative compliance expenditure while optimizing transatlantic scheduling reliability."
             ],
             "imageUrl": "",
-            "nextUpTease": "SAFETY: SHIPYARD FATALITY PROBE",
+            "nextUpTease": "AIR CARGO: EU DE MINIMIS DROP",
             "tags": [
-                "Source: https://www.ttnews.com/articles/states-sue-dot-cdl-records",
-                "Published: 2026-08-17T18:15:00Z",
+                "Source: https://splash247.com/us-ends-extra-security-measures-on-ships-calling-nigeria/",
+                "Published: 2026-08-19T05:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SAFETY: SHIPYARD FATALITY PROBE",
+            "heading": "AIR CARGO: EU DE MINIMIS DROP",
             "paragraphs": [
-                "South Korean labor authorities have launched a comprehensive safety investigation into HD Hyundai Heavy Industries following multiple subcontractor deaths at its shipyards. The 62-person inspection team is auditing safety protocols and working conditions that could lead to work stop orders at the world\u2019s largest shipbuilding facility.",
-                "Regulatory shutdowns or safety-related delays at major Korean yards risk pushing back delivery windows for newbuild containerships and gas carriers. Vessel operators must account for potential fleet expansion delays in their long-term capacity and asset deployment planning."
+                "European airfreight yields and cargo spot volumes have experienced a measurable slump following the full implementation of the European Union de minimis tax reform. The elimination of duty-free exemptions on low-value cross-border shipments has triggered massive customs entry bottlenecks across European airport cargo hubs.",
+                "E-commerce aggregators and air carriers face reduced cargo velocity and higher administrative processing costs per parcel. Air cargo planners must reassess freighter capacity allocations and transition toward consolidated bulk customs clearance channels to preserve parcel margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECH: 100% DRONE TARIFFS",
+            "nextUpTease": "ROUTING: UPS PHILIPPINES TRANSFER",
             "tags": [
-                "Source: https://splash247.com/seoul-probes-safety-conditions-at-hd-hyundai-following-subcontractor-deaths/",
-                "Published: 2026-08-19T07:40:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-19T04:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TECH: 100% DRONE TARIFFS",
+            "heading": "ROUTING: UPS PHILIPPINES TRANSFER",
             "paragraphs": [
-                "The US has imposed 100% tariffs on specific drones and components to mitigate supply chain reliance on the $15.6B Chinese drone market. This executive action targets Unmanned Aircraft Systems and parts deemed critical to national infrastructure and logistics security.",
-                "The steep duty hike significantly increases capital expenditure for logistics firms integrating autonomous last-mile delivery and warehouse inspection technologies. Executives must pivot toward domestic or allied-nation drone manufacturers to avoid massive cost overruns in automation initiatives."
+                "The United States Department of Transportation has approved the transfer of major UPS Asia-Pacific air routes from Hong Kong to Clark International Airport in the Philippines. The strategic repositioning anchors UPS's regional air hub outside mainland Chinese regulatory oversight and accelerates express network modernization across Southeast Asia.",
+                "The route transfer signals a structural decoupling of high-value semiconductor and electronics air corridors toward emerging ASEAN manufacturing hubs. Shippers should review their Asia-Pacific air logistics contracts to leverage optimized transit schedules into North American destinations."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/trump-imposes-100-tariffs-on-drones-components/758310/",
-                "Published: 2026-08-18T13:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-18T22:10:00Z",
                 "Status: Audited & True"
             ]
         }

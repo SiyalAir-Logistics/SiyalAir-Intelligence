@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "SHADOW TRANSHIPMENT PROBE",
+        "hookTitle": "USTR LAUNCHES SECTION 301 TARIFFS ON 60 NATIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CBP: SHADOW TRANSHIPMENT PROBE",
-                "teaserTitle": "MARITIME: 1.7M TEU CAPACITY LOCK",
+                "headline": "USTR: 60-NATION TARIFF ROLLOUT",
+                "teaserTitle": "MIDDLE EAST: JEDDAH PORT CONGESTION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States is investigating a shadow network across forty countries designed to evade trade tariffs. Importers face immediate risks of shipment seizures and retroactive duty penalties if provenance is not verified."
+                "narration_line": "The United States Trade Representative is rolling out Section three oh one tariffs across sixty partner nations. Importers must audit supplier documentation immediately to avoid border detentions and duty penalties."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: 1.7M TEU CAPACITY LOCK",
-                "teaserTitle": "AIR: LUFTHANSA HUB OUTAGE",
+                "headline": "MIDDLE EAST: JEDDAH PORT CONGESTION",
+                "teaserTitle": "TRADE: CANADA TARIFF DEADLINE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Severe port congestion is currently trapping one point seven million T E U of capacity away from the global market. This supply reduction is expected to sustain high spot rates despite new vessel deliveries."
+                "narration_line": "Vessel berthing delays at the port of Jeddah have escalated to ten days amid severe terminal congestion. Shippers should evaluate alternative Gulf gateways to mitigate mounting cargo delays."
             },
             {
                 "slide_index": 3,
-                "headline": "AIR: LUFTHANSA HUB OUTAGE",
-                "teaserTitle": "TRADE: MEXICO CHINA SURTAX",
+                "headline": "TRADE: CANADA TARIFF DEADLINE",
+                "teaserTitle": "SANCTIONS: UAE IRAN EMBARGO",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A systemic I T failure at Lufthansa hubs in Frankfurt and Munich has brought air cargo handling to a standstill. Shippers must evaluate alternative European gateways to maintain cold chain and electronics delivery schedules."
+                "narration_line": "The United States has granted a three-day delay on proposed fifty percent tariffs targeting Canadian goods. Logistics operators must pre-clear cross-border freight before the grace period closes."
             },
             {
                 "slide_index": 4,
-                "headline": "TRADE: MEXICO CHINA SURTAX",
-                "teaserTitle": "LEGAL: DOT CDL DATA LAWSUIT",
+                "headline": "SANCTIONS: UAE IRAN EMBARGO",
+                "teaserTitle": "SECURITY: NIGERIA PORT CLEARANCE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Mexico is evaluating new duties on Chinese industrial goods to address growing trade imbalances and protect domestic manufacturing. These surtaxes could significantly disrupt the cost benefits of regional nearshoring projects for North American buyers."
+                "narration_line": "The United Arab Emirates has halted all trade and financial transactions with Iran following regional maritime strikes. Freight operators face immediate contract freezes and must secure alternative Gulf routing."
             },
             {
                 "slide_index": 5,
-                "headline": "LEGAL: DOT CDL DATA LAWSUIT",
-                "teaserTitle": "SAFETY: SHIPYARD FATALITY PROBE",
+                "headline": "SECURITY: NIGERIA PORT CLEARANCE",
+                "teaserTitle": "AIR CARGO: EU DE MINIMIS DROP",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Twenty-two states have sued the Department of Transportation to block the collection of seventeen million commercial driver records. This legal battle over privacy could impact long-term driver recruitment and federal safety compliance tracking."
+                "narration_line": "The United States Coast Guard has removed Nigeria from its port security watchlist after twelve years. Ocean carriers gain faster vessel clearances and reduced compliance costs across West African routes."
             },
             {
                 "slide_index": 6,
-                "headline": "SAFETY: SHIPYARD FATALITY PROBE",
-                "teaserTitle": "TECH: 100% DRONE TARIFFS",
+                "headline": "AIR CARGO: EU DE MINIMIS DROP",
+                "teaserTitle": "ROUTING: UPS PHILIPPINES TRANSFER",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Safety investigators have entered Hyundai shipyards following a series of subcontractor deaths in South Korea. Potential work stop orders may delay the delivery of new container ships and critical gas carriers worldwide."
+                "narration_line": "European airfreight demand has slumped following the removal of duty-free de minimis tax exemptions. Air cargo operators must restructure parcel workflows to manage rising customs clearance friction."
             },
             {
                 "slide_index": 7,
-                "headline": "TECH: 100% DRONE TARIFFS",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "ROUTING: UPS PHILIPPINES TRANSFER",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "New one hundred percent tariffs on drones and components aim to decouple the logistics technology sector from Chinese suppliers. This move forces a costly shift toward domestic and allied-nation manufacturers for autonomous delivery programs."
+                "narration_line": "Federal regulators approved the transfer of major UPS air routes from Hong Kong into the Philippines. This strategic hub shift strengthens express capacity across emerging Southeast Asian production corridors."
             },
             {
                 "slide_index": 8,
