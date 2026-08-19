@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "GLOBAL SHIPBUILDING ORDERBOOK HITS FASTEST PACE SINCE 2008",
+        "hookTitle": "INDIA LOOKS TO RUN FIRST NSR ARCTIC VOYAGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: GLOBAL SHIP ORDERBOOK SURGES",
-                "teaserTitle": "TANKERS: SINOKOR BUYS 73 SHIPS",
+                "headline": "MARITIME: INDIA TARGETS ARCTIC ROUTE",
+                "teaserTitle": "SUEZ: MSC TESTS RED SEA TRANSITS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Global merchant ship orderbook growth has accelerated by twenty-seven percent year over year. Contracting volumes across international shipyards are tracking their fastest pace since two thousand and eight."
+                "narration_line": "India plans its first Northern Sea Route Arctic transit to Europe in twenty twenty-seven. The polar voyage seeks to expand bilateral trade corridors and diversify shipping options."
             },
             {
                 "slide_index": 2,
-                "headline": "TANKERS: SINOKOR BUYS 73 SHIPS",
-                "teaserTitle": "CONTAINER: MSC REACHES 500 MILESTONE",
+                "headline": "MARITIME: MSC TESTS SUEZ CORRIDOR",
+                "teaserTitle": "REGULATION: USTR ADVANCES TARIFFS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "South Korean owner Sinokor Maritime has dominated secondhand tanker acquisitions by purchasing seventy-three vessels. The massive fleet expansion campaign cost approximately five point nine billion dollars."
+                "narration_line": "Mediterranean Shipping Company is testing Suez Canal transits as regional security confidence improves. The route resumption helps ocean carriers reduce voyage times and bunker expenses."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINER: MSC REACHES 500 MILESTONE",
-                "teaserTitle": "PANAMA CANAL: DRAG ISSUES TRIGGER WARNINGS",
+                "headline": "REGULATION: USTR ADVANCES TARIFFS",
+                "teaserTitle": "BORDER: USCG LIFTS NIGERIA ADVISORY",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Mediterranean Shipping Company has crossed a major milestone by acquiring its five hundredth secondhand containership. The Swiss liner giant continues to expand proprietary vessel capacity aggressively."
+                "narration_line": "The USTR is implementing tariffs on sixty trading partners under Section three oh one. The enforcement targets forced labor practices as prior statutory exemptions expire."
             },
             {
                 "slide_index": 4,
-                "headline": "PANAMA CANAL: DRAFT WARNINGS FLASH",
-                "teaserTitle": "AIR FREIGHT: LUFTHANSA CARGO IT OUTAGE",
+                "headline": "REGULATION: USCG LIFTS NIGERIA BAN",
+                "teaserTitle": "ROBOTICS: NA ORDERS JUMP 6.6%",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Panama Canal Authority has initiated proactive capacity and draft rationing measures. Declining Gatun Lake water levels threaten to restrict vessel drafts ahead of seasonal droughts."
+                "narration_line": "The Coast Guard removed Nigeria from its Port Security Advisory after twelve years. The regulatory change eliminates mandatory security reviews for US-bound ships."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: LUFTHANSA IT OUTAGE HALTS",
-                "teaserTitle": "DEFENSE: PENTAGON SIGNS 2B MINERAL DEALS",
+                "headline": "TECHNOLOGY: NORTH AMERICAN ROBOTS SURGE",
+                "teaserTitle": "TRUCKING: DIESEL MARGINS HIT RECORD",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Lufthansa Cargo suffered a severe IT system failure that halted operations at German hubs. Freight forwarders scrambled for alternative European gateway options as processing queues backed up."
+                "narration_line": "North American robot orders reached one point two billion dollars in the first half. Facility operators are accelerating automation to counter ongoing labor constraints."
             },
             {
                 "slide_index": 6,
-                "headline": "DEFENSE: PENTAGON SIGNS 2B MINERAL DEALS",
-                "teaserTitle": "RAILWAY: DB CARGO SEEKS UK BUYER",
+                "headline": "FUEL: DIESEL CRACK SPREAD SPIKES",
+                "teaserTitle": "FINANCE: KIMBERLY-CLARK GETS REFUND",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Pentagon has finalized over two billion dollars in conditional loan commitments for domestic entities. The funding aims to secure resilient supplies of critical battery minerals."
+                "narration_line": "Diesel refining margins surpassed one hundred dollars a barrel to reach record highs. The tightening fuel supply threatens to inflate over-the-road freight rates."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL FREIGHT: DB CARGO SEEKS UK BUYER",
+                "headline": "FINANCE: KIMBERLY-CLARK SECURES REFUND",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "German parent company DB Cargo has initiated a formal sale process for its UK freight business. The divestment reflects strategic financial restructuring across European rail operations."
+                "narration_line": "Kimberly-Clark secured a forty-five million dollar tariff refund from federal authorities. The capital recovery offsets rising material costs and supports pricing stability."
             },
             {
                 "slide_index": 8,

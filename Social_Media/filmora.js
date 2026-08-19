@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: GLOBAL SHIP ORDERBOOK SURGES",
-                "teaserTitle": "TANKERS: SINOKOR BUYS 73 SHIPS",
-                "visual_caption": "Global merchant ship orderbook growth hit 27% year-over-year. Contracting volumes across international shipyards reached their fastest pace since 2008."
+                "headline": "MARITIME: INDIA TARGETS ARCTIC ROUTE",
+                "teaserTitle": "SUEZ: MSC TESTS RED SEA TRANSITS",
+                "visual_caption": "India plans its first NSR Arctic voyage to Europe in 2027. The polar route expansion aims to diversify global trade corridors."
             },
             {
                 "slide_index": 2,
-                "headline": "TANKERS: SINOKOR BUYS 73 SHIPS",
-                "teaserTitle": "CONTAINER: MSC REACHES 500 MILESTONE",
-                "visual_caption": "Sinokor Maritime dominated secondhand tanker acquisitions by purchasing 73 vessels. The extensive fleet expansion campaign totaled $5.9B."
+                "headline": "MARITIME: MSC TESTS SUEZ CORRIDOR",
+                "teaserTitle": "REGULATION: USTR ADVANCES TARIFFS",
+                "visual_caption": "MSC tests Suez Canal transits as regional security confidence returns. Carriers are cutting voyage times through the Red Sea."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINER: MSC REACHES 500 MILESTONE",
-                "teaserTitle": "PANAMA CANAL: DRAG ISSUES TRIGGER WARNINGS",
-                "visual_caption": "Mediterranean Shipping Company crossed a major milestone by acquiring its 500th secondhand containership. The Swiss liner continues aggressive fleet scaling."
+                "headline": "REGULATION: USTR ADVANCES TARIFFS",
+                "teaserTitle": "BORDER: USCG LIFTS NIGERIA ADVISORY",
+                "visual_caption": "The USTR implements Section 301 tariffs on 60 trading partners. Importers face heightened compliance audits across global supply chains."
             },
             {
                 "slide_index": 4,
-                "headline": "PANAMA CANAL: DRAFT WARNINGS FLASH",
-                "teaserTitle": "AIR FREIGHT: LUFTHANSA CARGO IT OUTAGE",
-                "visual_caption": "The Panama Canal Authority initiated proactive capacity and draft rationing measures. Declining Gatun Lake levels threaten vessel drafts ahead of droughts."
+                "headline": "REGULATION: USCG LIFTS NIGERIA BAN",
+                "teaserTitle": "ROBOTICS: NA ORDERS JUMP 6.6%",
+                "visual_caption": "The US Coast Guard removes Nigeria from its Port Security Advisory. Twelve years of extra security requirements have officially ended."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: LUFTHANSA IT OUTAGE HALTS",
-                "teaserTitle": "DEFENSE: PENTAGON SIGNS 2B MINERAL DEALS",
-                "visual_caption": "Lufthansa Cargo suffered an IT system failure that halted hub cargo handling operations. Freight forwarders scrambled for alternative European gateway options."
+                "headline": "TECHNOLOGY: NORTH AMERICAN ROBOTS SURGE",
+                "teaserTitle": "TRUCKING: DIESEL MARGINS HIT RECORD",
+                "visual_caption": "North American robot orders reached $1.2B in H1 2026. Automation investments are surging 6.6% year-over-year to offset labor shortages."
             },
             {
                 "slide_index": 6,
-                "headline": "DEFENSE: PENTAGON SIGNS 2B MINERAL DEALS",
-                "teaserTitle": "RAILWAY: DB CARGO SEEKS UK BUYER",
-                "visual_caption": "The Pentagon finalized over $2.0B in conditional loan commitments for domestic entities. Funding aims to secure resilient supplies of critical battery minerals."
+                "headline": "FUEL: DIESEL CRACK SPREAD SPIKES",
+                "teaserTitle": "FINANCE: KIMBERLY-CLARK GETS REFUND",
+                "visual_caption": "Diesel refining margins topped $100 a barrel for a record high. High fuel costs threaten to drive up motor carrier freight rates."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL FREIGHT: DB CARGO SEEKS UK BUYER",
+                "headline": "FINANCE: KIMBERLY-CLARK SECURES REFUND",
                 "teaserTitle": "",
-                "visual_caption": "German parent company DB Cargo initiated a formal sale process for its UK freight business. The divestment reflects strategic restructuring across rail operations."
+                "visual_caption": "Kimberly-Clark secured a $45M tariff refund from federal authorities. The duty recovery offsets rising oil prices and maintains margin stability."
             },
             {
                 "slide_index": 8,
