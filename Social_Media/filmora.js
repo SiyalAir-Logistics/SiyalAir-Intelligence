@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GOVERNMENT: CANADA TARIFFS DELAYED",
-                "teaserTitle": "LOGISTICS: DRONE EXPANSION",
-                "visual_caption": "President Trump delays 50% tariffs on Canadian imports for 3 days. Negotiators utilize the extension to avert cross border supply chain disruptions."
+                "headline": "GEOPOLITICAL: UAE SUSPENDS TRADE",
+                "teaserTitle": "MARITIME: CAPACITY REMOVAL",
+                "visual_caption": "The United Arab Emirates has suspended all trade with Iran following regional missile strikes. This enforcement action disrupts underground smuggling networks across Middle Eastern free zones."
             },
             {
                 "slide_index": 2,
-                "headline": "LOGISTICS: DRONE EXPANSION",
-                "teaserTitle": "MARITIME: ZIM ACQUISITION PUSHBACK",
-                "visual_caption": "Amazon expands its drone delivery network to 500 cities by year end. The rapid scaling targets ultrafast last mile fulfillment infrastructure."
+                "headline": "MARITIME: CAPACITY REMOVAL",
+                "teaserTitle": "LOGISTICS: DRONE EXPANSION",
+                "visual_caption": "Global port congestion is removing 1.7M TEU of capacity from active circulation. Persistent terminal bottlenecks continue to restrict vessel turnaround times worldwide."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: ZIM ACQUISITION PUSHBACK",
-                "teaserTitle": "FUEL: DIESEL CRUNCH",
-                "visual_caption": "Forwarders back regulatory pushback against Hapag Lloyd and its $4.5B Zim acquisition. Carrier consolidation introduces new risks for global shippers."
+                "headline": "LOGISTICS: DRONE EXPANSION",
+                "teaserTitle": "FUEL: REFINERY SURGE",
+                "visual_caption": "Amazon is expanding its commercial drone delivery network to 500 cities by year's end. The scaling bypasses urban road congestion to accelerate last-mile fulfillment."
             },
             {
                 "slide_index": 4,
-                "headline": "FUEL: DIESEL CRUNCH",
-                "teaserTitle": "MARITIME: RED SEA TRANSITS",
-                "visual_caption": "California diesel prices climb to $7 per gallon as global conflicts strain supplies. Analysts warn of an acute crunch impacting Q4 freight budgets."
+                "headline": "FUEL: REFINERY SURGE",
+                "teaserTitle": "REGULATORY: CDL PENALTIES",
+                "visual_caption": "U.S. refiners processed 17.4M barrels of crude daily last week. This production surge offsets regional supply tightness driven by ongoing conflicts."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: RED SEA TRANSITS",
-                "teaserTitle": "REGULATORY: FORCED LABOR TARIFFS",
-                "visual_caption": "MSC resumes Suez Canal transits with 7 vessels amid rising container volumes. Carriers balance efficiency gains against persistent regional security risks."
+                "headline": "REGULATORY: CDL PENALTIES",
+                "teaserTitle": "MARITIME: HAPAG-ZIM PUSHBACK",
+                "visual_caption": "Pennsylvania regulators can now impose $25K fines on unlicensed driving schools. The law aims to improve workforce compliance standards across commercial fleets."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: FORCED LABOR TARIFFS",
-                "teaserTitle": "LOGISTICS: PORT CONGESTION",
-                "visual_caption": "USTR moves forward with Section 301 tariffs across 60 trading nations. Importers must conduct deep tier audits to avoid severe border delays."
+                "headline": "MARITIME: HAPAG-ZIM PUSHBACK",
+                "teaserTitle": "RETAIL: IMPORT FORECAST",
+                "visual_caption": "Forwarders are backing regulatory pushback against Hapag-Lloyd's $4.5B acquisition. Carrier consolidation introduces operational uncertainty for global ocean transport."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: PORT CONGESTION",
-                "teaserTitle": "",
-                "visual_caption": "Global port congestion removes 1.7M TEU of capacity from active circulation. Supply chain managers must factor extended dwell times into inventory plans."
+                "headline": "RETAIL: IMPORT FORECAST",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "U.S. retailers have downgraded July import forecasts amid cautious consumer spending. The end-of-year outlook remains bullish as networks prepare for peak holiday demand."
             },
             {
                 "slide_index": 8,
