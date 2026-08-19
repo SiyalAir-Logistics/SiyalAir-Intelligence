@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR LAUNCHES SECTION 301 TARIFFS ON 60 NATIONS",
+        "hookTitle": "PANAMA CANAL DRAFT RESTRICTIONS SURGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: 60-NATION TARIFF ROLLOUT",
+                "headline": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS",
                 "teaserTitle": "MIDDLE EAST: JEDDAH PORT CONGESTION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is rolling out Section three oh one tariffs across sixty partner nations. Importers must audit supplier documentation immediately to avoid border detentions and duty penalties."
+                "narration_line": "Panama Canal draft restrictions are tightening global shipping capacity. A gas tanker recently paid four point six million dollars to bypass the queue."
             },
             {
                 "slide_index": 2,
                 "headline": "MIDDLE EAST: JEDDAH PORT CONGESTION",
-                "teaserTitle": "TRADE: CANADA TARIFF DEADLINE",
+                "teaserTitle": "AIR CARGO: PEAK SEASON SLUMP",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Vessel berthing delays at the port of Jeddah have escalated to ten days amid severe terminal congestion. Shippers should evaluate alternative Gulf gateways to mitigate mounting cargo delays."
+                "narration_line": "Severe congestion at Jeddah Port has pushed vessel waiting times up to ten days. Regional supply chains are absorbing heavy container backlogs."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE: CANADA TARIFF DEADLINE",
-                "teaserTitle": "SANCTIONS: UAE IRAN EMBARGO",
+                "headline": "AIR CARGO: PEAK SEASON SLUMP",
+                "teaserTitle": "TECHNOLOGY: ROBOTICS ORDERS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The United States has granted a three-day delay on proposed fifty percent tariffs targeting Canadian goods. Logistics operators must pre-clear cross-border freight before the grace period closes."
+                "narration_line": "Global air cargo peak season activity has experienced an early slowdown. Spot rates have declined six percent month over month."
             },
             {
                 "slide_index": 4,
-                "headline": "SANCTIONS: UAE IRAN EMBARGO",
-                "teaserTitle": "SECURITY: NIGERIA PORT CLEARANCE",
+                "headline": "TECHNOLOGY: ROBOTICS ORDERS",
+                "teaserTitle": "RETAIL: JULY SALES SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The United Arab Emirates has halted all trade and financial transactions with Iran following regional maritime strikes. Freight operators face immediate contract freezes and must secure alternative Gulf routing."
+                "narration_line": "North American enterprises invested one point two billion dollars in robotics during the first half. Automation adoption continues to accelerate."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: NIGERIA PORT CLEARANCE",
-                "teaserTitle": "AIR CARGO: EU DE MINIMIS DROP",
+                "headline": "RETAIL: JULY SALES SURGE",
+                "teaserTitle": "MARITIME: HAPAG ZIM MERGER",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The United States Coast Guard has removed Nigeria from its port security watchlist after twelve years. Ocean carriers gain faster vessel clearances and reduced compliance costs across West African routes."
+                "narration_line": "United States retail sales climbed five point four percent in July. Retailers must maintain agile replenishment schedules ahead of peak shopping."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: EU DE MINIMIS DROP",
-                "teaserTitle": "ROUTING: UPS PHILIPPINES TRANSFER",
+                "headline": "MARITIME: HAPAG ZIM MERGER",
+                "teaserTitle": "REGULATORY: TARIFF REFUNDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "European airfreight demand has slumped following the removal of duty-free de minimis tax exemptions. Air cargo operators must restructure parcel workflows to manage rising customs clearance friction."
+                "narration_line": "Regulatory pushback is threatening Hapag-Lloyd's acquisition of ZIM. Forwarders have objected to further liner consolidation in global markets."
             },
             {
                 "slide_index": 7,
-                "headline": "ROUTING: UPS PHILIPPINES TRANSFER",
+                "headline": "REGULATORY: TARIFF REFUNDS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Federal regulators approved the transfer of major UPS air routes from Hong Kong into the Philippines. This strategic hub shift strengthens express capacity across emerging Southeast Asian production corridors."
+                "narration_line": "Kimberly-Clark secured a forty-five million dollar tariff refund from federal authorities. Importers should audit historical entry filings for similar recovery."
             },
             {
                 "slide_index": 8,

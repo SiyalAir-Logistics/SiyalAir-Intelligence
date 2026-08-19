@@ -1,23 +1,23 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "60-NATION TARIFF",
-        "titleBlue": "ROLLOUT",
-        "footerSummary": "USTR triggers Section 301 tariffs across 60 trading partners as Section 122 expires, elevating landed costs and compliance friction globally."
+        "titleWhite": "PANAMA CANAL DRAFT RESTRICTIONS",
+        "titleBlue": "SURGE",
+        "footerSummary": "Panama Canal queue-jump fees hit $4.6M as draft restrictions constrain global shipping lanes and force ocean carriers to absorb rising fees."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: 60-NATION TARIFF ROLLOUT",
+            "heading": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS",
             "paragraphs": [
-                "The Office of the United States Trade Representative has advanced broad tariff actions against 60 trading partners under Section 301 of the Trade Act of 1974. The enforcement regime takes effect immediately following the expiration of temporary Section 122 duties, establishing strict import penalties tied to forced labor compliance.",
-                "Importers across major retail and manufacturing sectors face sudden duty recalibrations and increased customs scrutiny on entry filings. Supply chain leaders must audit upstream Tier-2 supplier documentation immediately to avert costly port detentions and unrecoverable margin erosion."
+                "The Panama Canal authority has maintained strict draft restrictions that continue to squeeze vessel capacities and inflate operating expenditures across major global trade routes. An empty liquefied petroleum gas tanker recently broke previous spending records by paying a $4.6M queue-jump fee to bypass vessel backlogs.",
+                "These persistent navigational constraints create severe transit unpredictability for ocean freight managers moving time-sensitive cargo between the Pacific and Atlantic basins. Shippers must factor soaring priority access fees and potential maritime bottlenecks into their Q3 and Q4 logistics budgeting models."
             ],
             "imageUrl": "",
             "nextUpTease": "MIDDLE EAST: JEDDAH PORT CONGESTION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-19T08:30:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -29,7 +29,7 @@ const dailyData = {
                 "The prolonged dwell times threaten critical industrial project milestones and force ocean carriers to weigh costly port omissions. Logistics managers must restructure regional routing by evaluating alternative Gulf transshipment hubs to prevent widespread delivery failures."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRADE: CANADA TARIFF DEADLINE",
+            "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
             "tags": [
                 "Source: https://www.joc.com",
                 "Published: 2026-08-19T07:15:00Z",
@@ -38,76 +38,76 @@ const dailyData = {
         },
         {
             "id": 3,
-            "heading": "TRADE: CANADA TARIFF DEADLINE",
+            "heading": "AIR CARGO: PEAK SEASON SLUMP",
             "paragraphs": [
-                "The United States administration has instituted a 3-day extension before enacting a proposed 50% tariff surcharge on Canadian imports. Bilateral negotiations remain deadlocked over digital services taxes and cross-border trade balances, leaving billions in cross-border industrial freight under immediate fiscal threat.",
-                "If enacted, the 50% duty will disrupt deeply integrated automotive, agricultural, and energy supply chains across the northern border. Cross-border logistics coordinators should pre-clear in-transit shipments and model expedited border processing strategies before the grace period expires."
+                "Global air cargo peak season activity has experienced an uncharacteristic early slowdown, with worldwide spot rates falling 6% month-over-month. Xeneta reports that softened demand and muted volume growth are shifting pricing leverage back into the hands of enterprise shippers.",
+                "Carriers face compressed yields on major east-west corridors as airfreight volumes fail to match historical seasonal projections. Logistics directors should capitalize on current rate softness by locking in multi-month capacity agreements before autumn retail surges materialize."
             ],
             "imageUrl": "",
-            "nextUpTease": "SANCTIONS: UAE IRAN EMBARGO",
+            "nextUpTease": "TECHNOLOGY: ROBOTICS ORDERS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/trump-delay-50-tariffs-canadian-goods-3-days",
-                "Published: 2026-08-19T09:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SANCTIONS: UAE IRAN EMBARGO",
+            "heading": "TECHNOLOGY: ROBOTICS ORDERS",
             "paragraphs": [
-                "The United Arab Emirates has suspended all commercial maritime trade and associated banking transactions with Iran following recent antiship missile incidents in the Persian Gulf. The immediate blockade cuts off a critical intermediary trade channel that handles millions of tons of regional commodity throughput annually.",
-                "Freight forwarders and energy traders face abrupt contractual cancellations and rerouting mandates across Middle Eastern trade corridors. Compliance officers must freeze affected trade documentation and secure secondary shipping lines to avoid secondary regulatory penalties."
+                "North American industrial enterprises invested $1.2B in warehouse and manufacturing robots during the first half of 2026, marking a 6.6% year-over-year increase. Automation adoption continues to accelerate as organizations seek to mitigate persistent labor shortages and reduce operational overhead.",
+                "While upfront capital expenditures remain substantial, automated fulfillment systems deliver long-term throughput stability and improved inventory accuracy. Supply chain executives must evaluate scalable robotics integrations to maintain competitive fulfillment speeds against rising consumer expectations."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: NIGERIA PORT CLEARANCE",
+            "nextUpTease": "RETAIL: JULY SALES SURGE",
             "tags": [
-                "Source: https://maritime-executive.com/article/uae-suspends-trade-with-iran-following-antiship-missile-strike",
-                "Published: 2026-08-19T06:45:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-15T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SECURITY: NIGERIA PORT CLEARANCE",
+            "heading": "RETAIL: JULY SALES SURGE",
             "paragraphs": [
-                "The United States Coast Guard has officially removed Nigeria from its Port Security Advisory, concluding 12 years of mandatory security screening and port state control protocols on incoming vessels. The regulatory relief eliminates secondary verification inspections previously required for ships calling US gateways after departing Nigerian ports.",
-                "The policy change shortens turnaround times and reduces operational overhead for West African crude and container trade lanes. Vessel operators can now reduce administrative compliance expenditure while optimizing transatlantic scheduling reliability."
+                "United States retail sales climbed 5.4% in July, driven largely by persistent inflationary pressures alongside stronger-than-expected consumer purchase volumes. Mass merchants and specialty retailers experienced healthy inventory turnover despite cautious discretionary spending habits among lower-income demographics.",
+                "The stronger retail momentum requires distribution networks to maintain agile replenishment schedules to prevent localized stockouts ahead of peak shopping cycles. Supply chain planners should closely monitor inventory velocity metrics to avoid overstocking slow-moving SKUs."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: EU DE MINIMIS DROP",
+            "nextUpTease": "MARITIME: HAPAG ZIM MERGER",
             "tags": [
-                "Source: https://splash247.com/us-ends-extra-security-measures-on-ships-calling-nigeria/",
-                "Published: 2026-08-19T05:30:00Z",
+                "Source: https://www.retaildive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR CARGO: EU DE MINIMIS DROP",
+            "heading": "MARITIME: HAPAG ZIM MERGER",
             "paragraphs": [
-                "European airfreight yields and cargo spot volumes have experienced a measurable slump following the full implementation of the European Union de minimis tax reform. The elimination of duty-free exemptions on low-value cross-border shipments has triggered massive customs entry bottlenecks across European airport cargo hubs.",
-                "E-commerce aggregators and air carriers face reduced cargo velocity and higher administrative processing costs per parcel. Air cargo planners must reassess freighter capacity allocations and transition toward consolidated bulk customs clearance channels to preserve parcel margins."
+                "Growing regulatory pushback from Brazilian authorities and Israeli legislators is threatening Hapag-Lloyd\u2019s proposed $4.5B acquisition of ZIM Integrated Shipping Services. Industry forwarders have voiced strong objections against further liner consolidation, citing potential monopolistic control over major trade lanes.",
+                "The mounting opposition creates significant transaction uncertainty for ocean carriers seeking scale efficiencies through mega-mergers. Maritime stakeholders must prepare for potential regulatory roadblocks that could reshape global container shipping alliances and pricing structures."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROUTING: UPS PHILIPPINES TRANSFER",
+            "nextUpTease": "REGULATORY: TARIFF REFUNDS",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-19T04:20:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "ROUTING: UPS PHILIPPINES TRANSFER",
+            "heading": "REGULATORY: TARIFF REFUNDS",
             "paragraphs": [
-                "The United States Department of Transportation has approved the transfer of major UPS Asia-Pacific air routes from Hong Kong to Clark International Airport in the Philippines. The strategic repositioning anchors UPS's regional air hub outside mainland Chinese regulatory oversight and accelerates express network modernization across Southeast Asia.",
-                "The route transfer signals a structural decoupling of high-value semiconductor and electronics air corridors toward emerging ASEAN manufacturing hubs. Shippers should review their Asia-Pacific air logistics contracts to leverage optimized transit schedules into North American destinations."
+                "Major consumer goods manufacturer Kimberly-Clark has secured a $45M tariff refund from federal trade authorities, offsetting half of its total 2025 duty expenditures. The financial recovery helps mitigate incremental margin pressures stemming from elevated global commodity and energy costs.",
+                "While successful duty recovery provides temporary financial relief, navigating complex customs regulations requires dedicated legal and compliance oversight. Importers should audit historical entry filings to identify similar tariff overpayment refund opportunities across their supply chains."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-18T22:10:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
