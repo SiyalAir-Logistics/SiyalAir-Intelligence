@@ -3,14 +3,14 @@ const dailyData = {
         "kicker": "",
         "titleWhite": "CANADA TARIFFS",
         "titleBlue": "DELAYED",
-        "footerSummary": "Trump delays 50% Canadian tariffs for 3 days as negotiations continue, easing immediate supply chain panic for cross-border freight forwarders."
+        "footerSummary": "Trump delays 50% Canadian tariffs for 3 days to August 22 as bilateral trade negotiations continue, easing immediate cross-border supply chain bottlenecks."
     },
     "slides": [
         {
             "id": 1,
             "heading": "GOVERNMENT: CANADA TARIFFS DELAYED",
             "paragraphs": [
-                "President Donald Trump has signed a proclamation delaying the impending 50% tariffs on Canadian imports for three days, pushing the enforcement date to August 22. Negotiators from both nations are actively using this brief extension to hammer out last-minute trade concessions and avert severe cross-border supply chain disruptions.",
+                "President Donald Trump signed a proclamation delaying the impending 50% tariffs on Canadian imports for 3 days, pushing the enforcement deadline to August 22. Negotiators from both nations are actively using this brief extension to hammer out last-minute trade concessions and avert severe cross-border supply chain disruptions.",
                 "While this temporary reprieve offers short-term relief for logistics operators and manufacturers, the underlying threat of massive import duties requires ongoing contingency planning. Supply chain leaders must maintain flexible routing strategies to absorb potential cost surges if bilateral talks ultimately collapse."
             ],
             "imageUrl": "",
@@ -44,7 +44,7 @@ const dailyData = {
                 "Carriers and fleet managers face severe margin erosion as fuel surcharges struggle to keep pace with soaring wholesale diesel prices heading into Q4. Logistics procurement teams must reassess fuel risk management strategies and lock in structured fuel surcharge agreements to protect profitability."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHIPYARDS: ORDERBOOK GROWTH",
+            "nextUpTease": "LOGISTICS: DRONE EXPANSION",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: 2026-08-19T00:00:00Z",
@@ -53,13 +53,13 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "SHIPYARDS: ORDERBOOK GROWTH",
+            "heading": "LOGISTICS: DRONE EXPANSION",
             "paragraphs": [
-                "Global shipbuilding orderbook growth has accelerated to 27% year-on-year, marking the fastest expansion pace since the eve of the pre-Lehman boom. Major ocean carriers and vessel operators are aggressively committing capital to new tonnage to secure future capacity and comply with tightening environmental regulations.",
-                "The surge in shipyard commitments risks exacerbating future vessel oversupply while inflating capital expenditure requirements across the maritime sector. Fleet strategists must carefully evaluate slot availability and delivery timelines against projected long-term cargo demand."
+                "Amazon has announced a massive expansion of its commercial drone delivery network, targeting nearly 500 cities in pursuit of 1 million autonomous package deliveries throughout 2026. The aggressive scaling highlights the rapid maturation of last-mile aerial fulfillment infrastructure and automated logistics networks.",
+                "While drone delivery promises significant reductions in urban last-mile delivery costs and transit times, it requires substantial regulatory compliance and airspace management. Urban supply chain planners must integrate autonomous aerial pathways into their broader omnichannel fulfillment architectures."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: DE MINIMIS REFORM",
+            "nextUpTease": "MARITIME: NIGERIA ADVISORY",
             "tags": [
                 "Source: https://splash247.com",
                 "Published: 2026-08-19T00:00:00Z",
@@ -68,37 +68,37 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "AIR CARGO: DE MINIMIS REFORM",
+            "heading": "MARITIME: NIGERIA ADVISORY",
             "paragraphs": [
-                "European air cargo spot rates and freight volumes have experienced a sharp post-reform slump following the implementation of strict EU duty-free tax rules on low-value imports. The rapid elimination of the de minimis exemption has fundamentally altered consumer purchasing behavior and cross-border ecommerce logistics.",
-                "Airlines and airfreight forwarders now face compressed yields on key inbound trade routes as high-frequency small-parcel volumes retreat. Logistics providers must adapt their operational models to handle shifting inventory profiles and stricter customs compliance requirements."
+                "The US Coast Guard has officially removed Nigeria from its Port Security Advisory, ending 12 years of additional security requirements imposed on ships trading from Nigerian ports. The regulatory rollback eliminates costly compliance delays and administrative burdens for maritime carriers operating on West African trade routes.",
+                "Vessel operators can now streamline port rotation schedules and reduce turnaround times at Nigerian terminals, significantly lowering voyage operating expenses. Shippers must update their compliance frameworks to capitalize on the normalized maritime transit corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: DRONE EXPANSION",
+            "nextUpTease": "RAILROAD: INTERMODAL SERVICE",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://splash247.com",
                 "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "TECHNOLOGY: DRONE EXPANSION",
+            "heading": "RAILROAD: INTERMODAL SERVICE",
             "paragraphs": [
-                "Amazon has announced a massive expansion of its commercial drone delivery network, targeting nearly 500 cities in pursuit of 1 million autonomous package deliveries throughout 2026. The aggressive scaling highlights the rapid maturation of last-mile aerial fulfillment infrastructure and automated logistics networks.",
-                "While drone delivery promises significant reductions in urban last-mile delivery costs and transit times, it requires substantial regulatory compliance and airspace management. Urban supply chain planners must integrate autonomous aerial pathways into their broader omnichannel fulfillment architectures."
+                "BNSF Railway has expanded its intermodal freight network by launching a faster Phoenix to Dallas-Fort Worth route that runs 6 days a week to accommodate surging shipper demand. The expedited service provides a reliable rail alternative designed to alleviate over-the-road trucking capacity constraints across the Southwest.",
+                "Shippers seeking cost-effective capacity can leverage this new rail link to optimize line-haul distribution and reduce long-term transportation expenditures. Logistics managers should evaluate network connectivity options to integrate this intermodal lane into their primary distribution models."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: TRADE SANCTIONS",
+            "nextUpTease": "GOVERNMENT: TRADE SANCTIONS",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATORY: TRADE SANCTIONS",
+            "heading": "GOVERNMENT: TRADE SANCTIONS",
             "paragraphs": [
                 "The United Arab Emirates has officially suspended all trade and financial transactions with Iran following a recent anti-ship missile strike affecting regional shipping lanes. The decisive economic action disrupts vital regional smuggling and trade networks, forcing a major realignment of Middle Eastern logistics corridors.",
                 "Regional maritime operators and freight forwarders must immediately reroute commercial assets and audit supply chain partners to ensure full compliance with newly enforced trade restrictions. Shippers relying on Gulf transshipment hubs must establish resilient contingency frameworks to mitigate sudden operational bottlenecks."
