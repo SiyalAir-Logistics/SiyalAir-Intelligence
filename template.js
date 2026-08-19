@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
-        "titleBlue": "4.6M",
-        "footerSummary": "An empty tanker pays 4.6M USD to jump the Panama Canal queue as regional conflict and draft limits squeeze global shipping capacity."
+        "titleWhite": "DIESEL MARGINS TOP 100 A",
+        "titleBlue": "BARREL",
+        "footerSummary": "Diesel refining margins exceed 100 USD per barrel, threatening widespread inflationary shocks and winter heating cost spikes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M USD",
+            "heading": "FUEL: DIESEL MARGINS TOP 100 USD A BARREL",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker paid 4.6M USD to cut the Panama Canal queue following severe regional shipping disruptions. This transaction shatters the prior record of 3.975M USD as vessel operators aggressively bid for priority access amid tightening waterway restrictions.",
-                "Surging priority tolls directly inflate operating expenditures for cargo owners attempting to maintain dependable delivery schedules through constrained global chokepoints. Logistics directors must factor escalating transit surcharges into near-term lane budgets to prevent severe operational bottlenecks."
+                "A near-perfect storm of compounding geopolitical factors has pushed diesel refining margins above 100 USD per barrel for the first time. This unprecedented pricing spike threatens a severe winter of higher heating bills and economy-wide inflationary shocks.",
+                "Surging fuel costs immediately inflate over-the-road operational expenses for motor carriers and logistics operators globally. Shippers must reassess their fuel surcharge formulas and secure fixed-rate capacity agreements to protect operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT: SUMMER MONTHS IMPORTS SURGE",
+            "nextUpTease": "MARITIME: SEAFARER KILLED IN HORMUZ",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORT: SUMMER MONTHS IMPORTS SURGE TO HIGHEST LEVEL",
+            "heading": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
             "paragraphs": [
-                "U.S. import volumes across major maritime gateways are climbing toward their highest levels since 2022 as retailers front-load inventory. Sustained consumer demand and proactive replenishment strategies are driving unprecedented box counts through coastal terminals.",
-                "High container throughput creates localized terminal congestion and chassis shortages across key intermodal distribution corridors. Supply chain managers must secure drayage capacity in advance to mitigate potential dwell time penalties and demurrage exposure."
+                "A seafarer was killed during the latest kinetic attack targeting commercial merchant shipping in the critical Strait of Hormuz. Simultaneously, regional authorities claimed the detention of a tanker for failing to comply with newly enforced transit mandates.",
+                "Escalating maritime violence through vital Middle Eastern chokepoints forces vessel operators into costly detours around the Cape of Good Hope. Cargo owners must incorporate extended transit timelines and elevated war-risk insurance premiums into upcoming Q4 lane models."
             ],
             "imageUrl": "",
-            "nextUpTease": "PROCUREMENT: KIMBERLY CLARK SECURES REFUND",
+            "nextUpTease": "GOVERNMENT: CANADA TARIFF CLOCK TICKS",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://splash247.com",
                 "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PROCUREMENT: KIMBERLY CLARK SECURES 45M USD REFUND",
+            "heading": "GOVERNMENT: CANADA TARIFF CLOCK TICKS DOWN",
             "paragraphs": [
-                "Personal care manufacturer Kimberly-Clark successfully secured a 45M USD tariff refund, offsetting a substantial portion of its prior year customs duties. This financial recovery provides critical capital relief against rising commodity costs and inflationary pressures across manufacturing inputs.",
-                "Proactive duty recovery strategies offer essential margin protection for large enterprises navigating complex international trade policies. Procurement teams should audit historical tariff classifications immediately to identify comparable reimbursement opportunities."
+                "The federal administration has temporarily paused scheduled 50% tariffs on Canadian imports for three days while announcing a tentative trade deal framework with Ottawa. Negotiations remain intensely volatile as trade teams race to finalize permanent cross-border exemptions.",
+                "Persistent regulatory uncertainty leaves North American importers scrambling to model contingency logistics and inventory holding costs. Supply chain directors must maintain flexible cross-border routing strategies until binding trade pacts are officially signed."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: TRUMP IMPOSES TARIFFS ON DRONES",
+            "nextUpTease": "BUSINESS: TRAIN THIEVES STEAL CARGO",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.cnbc.com",
+                "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TECHNOLOGY: TRUMP IMPOSES 100% TARIFFS ON DRONES",
+            "heading": "BUSINESS: TRAIN THIEVES STEAL 200M IN CARGO",
             "paragraphs": [
-                "The federal government has enacted a 100% tariff on specific foreign drones and critical components to diminish supply chain reliance on dominant overseas manufacturing hubs. This policy targets unmanned aerial systems sourced from nations holding multi-billion-dollar market share.",
-                "Strict technology duties force electronics importers to rapidly diversify their sourcing networks toward alternative geopolitical regions. Supply chain architects must evaluate vendor resilience and redesign fulfillment footprints to absorb prohibitive component levies."
+                "Organized cargo theft rings are targeting freight rail networks, successfully pilfering 200M USD worth of goods annually across major freight corridors. Criminal syndicates exploit remote rail yards and slow-moving intermodal consists to loot high-value consumer electronics and apparel.",
+                "Rampant rail cargo theft drives up insurance deductibles and necessitates heavy capital investments in physical security and real-time telematics. Shippers moving high-value commodities via rail must enforce rigorous end-to-end monitoring protocols."
             ],
             "imageUrl": "",
-            "nextUpTease": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
+            "nextUpTease": "EQUIPMENT: MEDIUM DUTY TRUCK SALES RISE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
+            "heading": "EQUIPMENT: MEDIUM DUTY TRUCK SALES RISE",
             "paragraphs": [
-                "Germany\u2019s main service union initiated a daylong warning strike across six key seaports, bringing container handling operations to a complete standstill. The labor disruption stems from unresolved contract disputes, halting vessel turnaround schedules across vital Northern European trade gateways.",
-                "Port stoppages compound regional supply chain friction and threaten distribution timelines for European industrial shippers. Logistics planners must reroute urgent freight and incorporate potential terminal delays into cross-border transit models."
+                "U.S. medium-duty truck sales gained strong momentum in July, driven primarily by robust growth within the Class 6 vehicle market segment. Fleet operators posted a 39.4% year-over-year increase in acquisitions as regional delivery providers modernize aging equipment.",
+                "Accelerated fleet replenishment improves last-mile delivery reliability but requires significant upfront capital allocation from regional carriers. Logistics executives must balance equipment upgrade cycles against fluctuating freight demand and high borrowing costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: USMCA UNCERTAINTY CHALLENGES AUTOS",
+            "nextUpTease": "GOVERNMENT: MEXICO WEIGHS CHINA DUTIES",
             "tags": [
-                "Source: https://maritime-executive.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "REGULATORY: USMCA UNCERTAINTY CHALLENGES AUTOS",
+            "heading": "GOVERNMENT: MEXICO WEIGHS CHINA DUTIES",
             "paragraphs": [
-                "Automotive manufacturers operating across North American borders face escalating operational risk as the long-term viability of the trade agreement is increasingly questioned. Supply chain integration between the U.S., Mexico, and Canada is under intense regulatory scrutiny.",
-                "Persistent policy instability forces automotive executives to reconsider long-term capital allocation and regional manufacturing footprints. Cross-border operators must build highly flexible sourcing models to withstand sudden tariff implementation."
+                "Mexico's economy and finance ministries are actively evaluating new import duties on Chinese products not currently covered by existing bilateral trade agreements. This policy review aims to preempt regional transshipment vulnerabilities ahead of upcoming trade pact evaluations.",
+                "New Mexican trade restrictions threaten established nearshoring supply chains that rely on Asian raw material inputs routed through Latin America. Importers must audit their tier-one and tier-two supplier networks to mitigate unexpected customs duty liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: RATES DIP AS VOLUMES SLOW",
+            "nextUpTease": "LEGAL: STATES SUE DOT OVER CDL RECORDS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-18T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: RATES DIP AS VOLUMES SLOW",
+            "heading": "LEGAL: STATES SUE DOT OVER CDL RECORDS",
             "paragraphs": [
-                "Global airfreight chargeable weights declined during the initial weeks of August, signaling a softer-than-expected peak shipping season across major trade lanes. Xeneta reports that international spot rates have dropped 6% month-over-month as early inventory replenishment cools down.",
-                "This market softening provides cargo owners with favorable pricing leverage to optimize high-value transport without incurring peak season premiums. Supply chain directors should lock in short-term air contracts to capture immediate cost efficiencies."
+                "A coalition of 22 states has formally filed a lawsuit against the Department of Transportation and FMCSA over federal demands to access 17M driver records. The legal challenge targets federal overreach regarding state-managed commercial driver license databases.",
+                "Regulatory friction over driver data access creates administrative compliance roadblocks for motor carriers navigating safety audits. Fleet operators must monitor judicial proceedings closely to ensure ongoing compliance with evolving federal data mandates."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-17T00:00:00Z",
                 "Status: Audited & True"
             ]

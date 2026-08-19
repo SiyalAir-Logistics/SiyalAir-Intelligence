@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M USD",
+        "hookTitle": "DIESEL MARGINS TOP ONE HUNDRED DOLLARS A BARREL",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M USD",
-                "teaserTitle": "PORT: SUMMER MONTHS IMPORTS SURGE",
+                "headline": "FUEL: DIESEL MARGINS TOP 100 USD A BARREL",
+                "teaserTitle": "MARITIME: SEAFARER KILLED IN HORMUZ",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty gas tanker paid four point six million dollars to jump the Panama Canal queue. This record toll reflects severe waterway constraints driving up operating costs."
+                "narration_line": "Diesel refining margins have surged above one hundred dollars per barrel. This jump threatens winter heating bills and severe inflationary shocks."
             },
             {
                 "slide_index": 2,
-                "headline": "PORT: SUMMER MONTHS IMPORTS SURGE TO HIGHEST LEVEL",
-                "teaserTitle": "PROCUREMENT: KIMBERLY CLARK SECURES REFUND",
+                "headline": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
+                "teaserTitle": "GOVERNMENT: CANADA TARIFF CLOCK TICKS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "U.S. import volumes are climbing toward their highest levels since twenty twenty two. Sustained retail demand is driving heavy box traffic through coastal marine terminals."
+                "narration_line": "A seafarer was killed during an attack on a merchant ship in the Strait of Hormuz. Vessel operators are facing extended detours and war risk insurance hikes."
             },
             {
                 "slide_index": 3,
-                "headline": "PROCUREMENT: KIMBERLY CLARK SECURES 45M USD REFUND",
-                "teaserTitle": "TECHNOLOGY: TRUMP IMPOSES TARIFFS ON DRONES",
+                "headline": "GOVERNMENT: CANADA TARIFF CLOCK TICKS DOWN",
+                "teaserTitle": "BUSINESS: TRAIN THIEVES STEAL CARGO",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Kimberly-Clark secured a forty five million dollar tariff refund for prior customs duties. This recovery provides crucial capital relief against ongoing inflation."
+                "narration_line": "The U.S. government paused fifty percent tariffs on Canada for three days. Trade negotiators are racing to finalize a binding cross border agreement."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: TRUMP IMPOSES 100% TARIFFS ON DRONES",
-                "teaserTitle": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
+                "headline": "BUSINESS: TRAIN THIEVES STEAL 200M IN CARGO",
+                "teaserTitle": "EQUIPMENT: MEDIUM DUTY TRUCK SALES RISE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Washington imposed one hundred percent tariffs on foreign drones and critical components. The policy forces electronics importers to diversify their supplier networks."
+                "narration_line": "Organized thieves are stealing two hundred million dollars in rail cargo annually. Shippers must deploy advanced telematics to secure vulnerable freight."
             },
             {
                 "slide_index": 5,
-                "headline": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
-                "teaserTitle": "REGULATORY: USMCA UNCERTAINTY CHALLENGES AUTOS",
+                "headline": "EQUIPMENT: MEDIUM DUTY TRUCK SALES RISE",
+                "teaserTitle": "GOVERNMENT: MEXICO WEIGHS CHINA DUTIES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "German port workers initiated a daylong warning strike over contract disputes. The labor action brought container handling operations across major hubs to a standstill."
+                "narration_line": "U.S. medium duty truck sales climbed in July led by strong Class six demand. Regional fleets are aggressively modernizing their delivery equipment."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: USMCA UNCERTAINTY CHALLENGES AUTOS",
-                "teaserTitle": "AIR CARGO: RATES DIP AS VOLUMES SLOW",
+                "headline": "GOVERNMENT: MEXICO WEIGHS CHINA DUTIES",
+                "teaserTitle": "LEGAL: STATES SUE DOT OVER CDL RECORDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Automotive manufacturers face mounting risks as the future of the trade agreement is questioned. Cross-border operators must build flexible sourcing models immediately."
+                "narration_line": "Mexico is evaluating new import duties on Chinese products amid trade reviews. Importers must audit their tier one supplier networks immediately."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: RATES DIP AS VOLUMES SLOW",
+                "headline": "LEGAL: STATES SUE DOT OVER CDL RECORDS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Global airfreight spot rates dropped six percent as early replenishment demand slowed down. Shippers can leverage this market dip to optimize transport costs."
+                "narration_line": "Twenty two states are suing the Department of Transportation over driver record access. Fleet operators must navigate evolving federal compliance mandates."
             },
             {
                 "slide_index": 8,

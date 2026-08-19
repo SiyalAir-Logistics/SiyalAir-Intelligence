@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M USD",
-                "teaserTitle": "PORT: SUMMER MONTHS IMPORTS SURGE",
-                "visual_caption": "An empty gas tanker paid $4.6M to jump the Panama Canal queue. This record toll reflects severe waterway constraints driving up operating expenses."
+                "headline": "FUEL: DIESEL MARGINS TOP 100 USD A BARREL",
+                "teaserTitle": "MARITIME: SEAFARER KILLED IN HORMUZ",
+                "visual_caption": "Diesel refining margins have topped $100 a barrel. This spike threatens widespread inflationary shocks and winter heating cost increases."
             },
             {
                 "slide_index": 2,
-                "headline": "PORT: SUMMER MONTHS IMPORTS SURGE TO HIGHEST LEVEL",
-                "teaserTitle": "PROCUREMENT: KIMBERLY CLARK SECURES REFUND",
-                "visual_caption": "U.S. import volumes are climbing toward their highest levels since 2022. Sustained retail demand is driving heavy box traffic through coastal marine terminals."
+                "headline": "MARITIME: SEAFARER KILLED IN HORMUZ STRIKE",
+                "teaserTitle": "GOVERNMENT: CANADA TARIFF CLOCK TICKS",
+                "visual_caption": "A seafarer was killed in a recent attack in the Strait of Hormuz. Vessel operators face costly detours and elevated war-risk insurance."
             },
             {
                 "slide_index": 3,
-                "headline": "PROCUREMENT: KIMBERLY CLARK SECURES 45M USD REFUND",
-                "teaserTitle": "TECHNOLOGY: TRUMP IMPOSES TARIFFS ON DRONES",
-                "visual_caption": "Kimberly-Clark secured a $45M tariff refund for prior customs duties. This recovery provides crucial capital relief against ongoing inflation."
+                "headline": "GOVERNMENT: CANADA TARIFF CLOCK TICKS DOWN",
+                "teaserTitle": "BUSINESS: TRAIN THIEVES STEAL CARGO",
+                "visual_caption": "The U.S. paused 50% tariffs on Canada for 3 days. Negotiators are racing to finalize a stable cross-border trade agreement."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: TRUMP IMPOSES 100% TARIFFS ON DRONES",
-                "teaserTitle": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
-                "visual_caption": "Washington imposed 100% tariffs on foreign drones and critical components. The policy forces electronics importers to diversify their supplier networks."
+                "headline": "BUSINESS: TRAIN THIEVES STEAL 200M IN CARGO",
+                "teaserTitle": "EQUIPMENT: MEDIUM DUTY TRUCK SALES RISE",
+                "visual_caption": "Organized criminals steal $200M in rail cargo every year. Shippers must utilize real-time telematics to secure vulnerable freight."
             },
             {
                 "slide_index": 5,
-                "headline": "LABOR: GERMAN SEAPORTS PARALYZED BY STRIKE",
-                "teaserTitle": "REGULATORY: USMCA UNCERTAINTY CHALLENGES AUTOS",
-                "visual_caption": "German port workers initiated a daylong warning strike over contract disputes. The labor action brought container handling operations across major hubs to a standstill."
+                "headline": "EQUIPMENT: MEDIUM DUTY TRUCK SALES RISE",
+                "teaserTitle": "GOVERNMENT: MEXICO WEIGHS CHINA DUTIES",
+                "visual_caption": "U.S. medium-duty truck sales rose in July on Class 6 strength. Regional carriers are actively modernizing their delivery fleets."
             },
             {
                 "slide_index": 6,
-                "headline": "REGULATORY: USMCA UNCERTAINTY CHALLENGES AUTOS",
-                "teaserTitle": "AIR CARGO: RATES DIP AS VOLUMES SLOW",
-                "visual_caption": "Automotive manufacturers face mounting risks as the future of the trade agreement is questioned. Cross-border operators must build flexible sourcing models immediately."
+                "headline": "GOVERNMENT: MEXICO WEIGHS CHINA DUTIES",
+                "teaserTitle": "LEGAL: STATES SUE DOT OVER CDL RECORDS",
+                "visual_caption": "Mexico is evaluating new duties on Chinese goods. Importers must review their supply chain networks to mitigate customs risks."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: RATES DIP AS VOLUMES SLOW",
+                "headline": "LEGAL: STATES SUE DOT OVER CDL RECORDS",
                 "teaserTitle": "",
-                "visual_caption": "Global airfreight spot rates dropped 6% as early replenishment demand slowed down. Shippers can leverage this market dip to optimize transport costs."
+                "visual_caption": "22 states are suing the DOT over 17M commercial driver records. Motor carriers must monitor federal compliance mandates closely."
             },
             {
                 "slide_index": 8,
