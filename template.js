@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL DRAFT RESTRICTIONS",
-        "titleBlue": "SURGE",
-        "footerSummary": "Panama Canal queue-jump fees hit $4.6M as draft restrictions constrain global shipping lanes and force ocean carriers to absorb rising fees."
+        "titleWhite": "CANADA TARIFFS",
+        "titleBlue": "DELAYED",
+        "footerSummary": "Trump delays 50% Canadian tariffs for 3 days as negotiations continue, easing immediate supply chain panic for cross-border freight forwarders."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS",
+            "heading": "GOVERNMENT: CANADA TARIFFS DELAYED",
             "paragraphs": [
-                "The Panama Canal authority has maintained strict draft restrictions that continue to squeeze vessel capacities and inflate operating expenditures across major global trade routes. An empty liquefied petroleum gas tanker recently broke previous spending records by paying a $4.6M queue-jump fee to bypass vessel backlogs.",
-                "These persistent navigational constraints create severe transit unpredictability for ocean freight managers moving time-sensitive cargo between the Pacific and Atlantic basins. Shippers must factor soaring priority access fees and potential maritime bottlenecks into their Q3 and Q4 logistics budgeting models."
+                "President Donald Trump has signed a proclamation delaying the impending 50% tariffs on Canadian imports for three days, pushing the enforcement date to August 22. Negotiators from both nations are actively using this brief extension to hammer out last-minute trade concessions and avert severe cross-border supply chain disruptions.",
+                "While this temporary reprieve offers short-term relief for logistics operators and manufacturers, the underlying threat of massive import duties requires ongoing contingency planning. Supply chain leaders must maintain flexible routing strategies to absorb potential cost surges if bilateral talks ultimately collapse."
             ],
             "imageUrl": "",
-            "nextUpTease": "MIDDLE EAST: JEDDAH PORT CONGESTION",
+            "nextUpTease": "MARITIME: SUEZ CANAL TRANSITS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MIDDLE EAST: JEDDAH PORT CONGESTION",
+            "heading": "MARITIME: SUEZ CANAL TRANSITS",
             "paragraphs": [
-                "Severe terminal congestion at the Saudi Arabian port of Jeddah has driven vessel waiting times up to 10 days, severely stalling breakbulk and container operations across the Red Sea. Regional feeder networks and inland trucking corridors are absorbing heavy container backlogs as terminal yard density exceeds workable operational limits.",
-                "The prolonged dwell times threaten critical industrial project milestones and force ocean carriers to weigh costly port omissions. Logistics managers must restructure regional routing by evaluating alternative Gulf transshipment hubs to prevent widespread delivery failures."
+                "Mediterranean Shipping Company has joined its industry peers in testing commercial transits through the Suez Canal, sending 7 vessels back through the Red Sea corridor. Container volumes on the waterway are steadily rising as major ocean carriers grow increasingly comfortable with regional security adjustments.",
+                "The return to traditional trade lanes promises reduced transit times and lower bunker fuel consumption compared to the prolonged routing around the Cape of Good Hope. Maritime operators must balance these efficiency gains against persistent regional geopolitical risks to optimize their long-term vessel scheduling."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: PEAK SEASON SLUMP",
+            "nextUpTease": "TANKERS: CRACK SPREAD SURGE",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-19T07:15:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-19T15:40:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "AIR CARGO: PEAK SEASON SLUMP",
+            "heading": "TANKERS: CRACK SPREAD SURGE",
             "paragraphs": [
-                "Global air cargo peak season activity has experienced an uncharacteristic early slowdown, with worldwide spot rates falling 6% month-over-month. Xeneta reports that softened demand and muted volume growth are shifting pricing leverage back into the hands of enterprise shippers.",
-                "Carriers face compressed yields on major east-west corridors as airfreight volumes fail to match historical seasonal projections. Logistics directors should capitalize on current rate softness by locking in multi-month capacity agreements before autumn retail surges materialize."
+                "Global diesel crack spreads have climbed past $100 a barrel to reach record highs, driven by a tight convergence of refinery constraints and shifting geopolitical crude flows. While crude oil futures remain relatively calm below $100, the severe disconnect in refined product markets is directly inflating over-the-road freight operating costs.",
+                "Carriers and fleet managers face severe margin erosion as fuel surcharges struggle to keep pace with soaring wholesale diesel prices heading into Q4. Logistics procurement teams must reassess fuel risk management strategies and lock in structured fuel surcharge agreements to protect profitability."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: ROBOTICS ORDERS",
+            "nextUpTease": "SHIPYARDS: ORDERBOOK GROWTH",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "TECHNOLOGY: ROBOTICS ORDERS",
+            "heading": "SHIPYARDS: ORDERBOOK GROWTH",
             "paragraphs": [
-                "North American industrial enterprises invested $1.2B in warehouse and manufacturing robots during the first half of 2026, marking a 6.6% year-over-year increase. Automation adoption continues to accelerate as organizations seek to mitigate persistent labor shortages and reduce operational overhead.",
-                "While upfront capital expenditures remain substantial, automated fulfillment systems deliver long-term throughput stability and improved inventory accuracy. Supply chain executives must evaluate scalable robotics integrations to maintain competitive fulfillment speeds against rising consumer expectations."
+                "Global shipbuilding orderbook growth has accelerated to 27% year-on-year, marking the fastest expansion pace since the eve of the pre-Lehman boom. Major ocean carriers and vessel operators are aggressively committing capital to new tonnage to secure future capacity and comply with tightening environmental regulations.",
+                "The surge in shipyard commitments risks exacerbating future vessel oversupply while inflating capital expenditure requirements across the maritime sector. Fleet strategists must carefully evaluate slot availability and delivery timelines against projected long-term cargo demand."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: JULY SALES SURGE",
+            "nextUpTease": "AIR CARGO: DE MINIMIS REFORM",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-15T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RETAIL: JULY SALES SURGE",
+            "heading": "AIR CARGO: DE MINIMIS REFORM",
             "paragraphs": [
-                "United States retail sales climbed 5.4% in July, driven largely by persistent inflationary pressures alongside stronger-than-expected consumer purchase volumes. Mass merchants and specialty retailers experienced healthy inventory turnover despite cautious discretionary spending habits among lower-income demographics.",
-                "The stronger retail momentum requires distribution networks to maintain agile replenishment schedules to prevent localized stockouts ahead of peak shopping cycles. Supply chain planners should closely monitor inventory velocity metrics to avoid overstocking slow-moving SKUs."
+                "European air cargo spot rates and freight volumes have experienced a sharp post-reform slump following the implementation of strict EU duty-free tax rules on low-value imports. The rapid elimination of the de minimis exemption has fundamentally altered consumer purchasing behavior and cross-border ecommerce logistics.",
+                "Airlines and airfreight forwarders now face compressed yields on key inbound trade routes as high-frequency small-parcel volumes retreat. Logistics providers must adapt their operational models to handle shifting inventory profiles and stricter customs compliance requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: HAPAG ZIM MERGER",
+            "nextUpTease": "TECHNOLOGY: DRONE EXPANSION",
             "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: HAPAG ZIM MERGER",
+            "heading": "TECHNOLOGY: DRONE EXPANSION",
             "paragraphs": [
-                "Growing regulatory pushback from Brazilian authorities and Israeli legislators is threatening Hapag-Lloyd\u2019s proposed $4.5B acquisition of ZIM Integrated Shipping Services. Industry forwarders have voiced strong objections against further liner consolidation, citing potential monopolistic control over major trade lanes.",
-                "The mounting opposition creates significant transaction uncertainty for ocean carriers seeking scale efficiencies through mega-mergers. Maritime stakeholders must prepare for potential regulatory roadblocks that could reshape global container shipping alliances and pricing structures."
+                "Amazon has announced a massive expansion of its commercial drone delivery network, targeting nearly 500 cities in pursuit of 1 million autonomous package deliveries throughout 2026. The aggressive scaling highlights the rapid maturation of last-mile aerial fulfillment infrastructure and automated logistics networks.",
+                "While drone delivery promises significant reductions in urban last-mile delivery costs and transit times, it requires substantial regulatory compliance and airspace management. Urban supply chain planners must integrate autonomous aerial pathways into their broader omnichannel fulfillment architectures."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: TARIFF REFUNDS",
+            "nextUpTease": "REGULATORY: TRADE SANCTIONS",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATORY: TARIFF REFUNDS",
+            "heading": "REGULATORY: TRADE SANCTIONS",
             "paragraphs": [
-                "Major consumer goods manufacturer Kimberly-Clark has secured a $45M tariff refund from federal trade authorities, offsetting half of its total 2025 duty expenditures. The financial recovery helps mitigate incremental margin pressures stemming from elevated global commodity and energy costs.",
-                "While successful duty recovery provides temporary financial relief, navigating complex customs regulations requires dedicated legal and compliance oversight. Importers should audit historical entry filings to identify similar tariff overpayment refund opportunities across their supply chains."
+                "The United Arab Emirates has officially suspended all trade and financial transactions with Iran following a recent anti-ship missile strike affecting regional shipping lanes. The decisive economic action disrupts vital regional smuggling and trade networks, forcing a major realignment of Middle Eastern logistics corridors.",
+                "Regional maritime operators and freight forwarders must immediately reroute commercial assets and audit supply chain partners to ensure full compliance with newly enforced trade restrictions. Shippers relying on Gulf transshipment hubs must establish resilient contingency frameworks to mitigate sudden operational bottlenecks."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
