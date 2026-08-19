@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "UAE SUSPENDS TRADE WITH",
-        "titleBlue": "IRAN",
-        "footerSummary": "UAE suspends trade and financial transactions with Iran following a missile strike, disrupting regional supply chains and forcing cargo rerouting."
+        "titleWhite": "FORCED LABOR 301",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR advances Section 301 forced labor tariffs on 60 nations as drought-triggered Panama Canal rationing and surging diesel spreads escalate Q3 operational costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GEOPOLITICS: UAE SUSPENDS TRADE WITH IRAN",
+            "heading": "USTR: FORCED LABOR 301 TARIFFS",
             "paragraphs": [
-                "The United Arab Emirates has officially suspended all trade and financial transactions with Iran following a destructive anti-ship missile strike in the region. This decisive enforcement action halts vital maritime smuggling and financial channels that previously sustained cross-border commercial flows.",
-                "Supply chain operators managing Middle Eastern logistics lanes face sudden operational friction and heightened security protocols. Shippers must urgently reassess regional transit exposure and identify alternative transshipment hubs to maintain schedule integrity."
+                "The Office of the United States Trade Representative officially advanced Section 301 tariffs targeting forced labor practices across 60 trading partner nations following the expiration of Section 122 duties. Customs and Border Protection is deploying enhanced algorithmic screening protocols at key ports of entry to intercept non-compliant apparel, minerals, and agricultural inputs. Importers must provide auditable, origin-level supply chain mapping down to raw material extraction points.",
+                "Enterprise shippers face immediate supply chain exposure, potential cargo detention at marine gateways, and steep retroactive customs penalties. Compliance teams must urgently execute multi-tier supplier audits and diversify sourcing networks away from high-risk manufacturing hubs to safeguard landed product margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: MSC HITS 500 SHIP MILESTONE",
+            "nextUpTease": "MARITIME: PANAMA CANAL CAPACITY RATIONING",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-18T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: MSC HITS 500 SHIP MILESTONE",
+            "heading": "MARITIME: PANAMA CANAL CAPACITY RATIONING",
             "paragraphs": [
-                "Mediterranean Shipping Company has officially reached a historic fleet milestone by taking delivery of its 500th secondhand containership acquisition since August 2020. The Swiss ocean carrier absorbed the 2,796 TEU Calandra to cement its unrivaled capacity dominance across global trunk routes.",
-                "Aggressive secondary market acquisitions allow top-tier carriers to control service loops and dictate slot pricing amid volatile demand. Shippers must navigate tightening vessel availability and leverage long-term carrier contracts to secure predictable freight budgets."
+                "The Panama Canal Authority has initiated proactive capacity and draft rationing measures in anticipation of projected El Ni\u00f1o-driven drought conditions affecting Gatun Lake water levels. Ocean carriers are responding by issuing booking advisories and introducing emergency canal transit surcharges averaging $350 per container. Daily booking slots are tightening as booking auctions hit record bidding levels.",
+                "Persistent water depth restrictions reduce maximum vessel payload capacities across critical Asia-to-US East Coast service strings. Logistics planners must balance elevated spot auction costs against longer transit lead times associated with Cape of Good Hope routing."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: LA HANDLES 960K TEUS",
+            "nextUpTease": "FUEL: RECORD HIGH DIESEL MARGINS",
             "tags": [
                 "Source: https://splash247.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Published: 2026-08-19T06:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORTS: LA HANDLES 960K TEUS",
+            "heading": "FUEL: RECORD HIGH DIESEL MARGINS",
             "paragraphs": [
-                "The Port of Los Angeles achieved a near-record cargo volume in July by handling more than 960K TEUs driven by sustained consumer demand. Port leadership projects steady operational momentum to continue with incoming volume expected to surpass 900K TEUs in August.",
-                "Surging gateway throughput places localized pressure on terminal drayage and chassis availability during peak import cycles. Logistics managers must optimize inland dispatch schedules to avoid costly dwell time accumulations and container demurrage charges."
+                "The national average diesel price reached $5.454 per gallon following a 19.7-cent single-week surge driven by refinery capacity bottlenecks. Refining crack spreads topped $100 per barrel for the first time on record, decoupling middle distillate prices from benchmark crude oil indices. Motor carriers are adjusting linehaul fuel surcharges weekly to recover runaway variable operating expenses.",
+                "Escalating diesel expenditures directly inflate over-the-road freight rates, compressing shipper margins across North American distribution networks. Freight procurement leaders must audit fuel surcharge formulas and secure contract volume commitments to stabilize fourth-quarter logistics budgets."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIRFREIGHT: LUFTHANSA IT OUTAGE",
+            "nextUpTease": "SUEZ: MSC RESUMES CANAL TRANSITS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-18T15:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "AIRFREIGHT: LUFTHANSA IT OUTAGE",
+            "heading": "SUEZ: MSC RESUMES CANAL TRANSITS",
             "paragraphs": [
-                "Cargo handling operations across Lufthansa Cargo facilities in Frankfurt and Munich came to an abrupt standstill following a major system IT outage. Freight forwarders were forced to scramble for alternative gateway routing as warehouse processing ground to a halt.",
-                "Unexpected technological failures at primary European air hubs create immediate scheduling backlogs for time-sensitive cargo. Forwarders must establish robust contingency protocols and multi-hub routing strategies to insulate supply chains from digital vulnerabilities."
+                "Mediterranean Shipping Company has resumed Suez Canal transits by dispatching seven container vessels through the Red Sea waterway under heightened security protocols. The carrier joins select global ocean lines testing safe passage through the corridor to eliminate extensive routing detours around Southern Africa. The canal authority continues offering incentive structures to draw major liner services back to the gateway.",
+                "Direct Suez routing recovers 10 to 14 days of sailing schedule reliability and reduces vessel operating fuel consumption on Asia-Europe trade lanes. Supply chain strategists must evaluate carrier risk assessments and insurance premium adjustments when selecting between Suez and African transit options."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: ROBOTICS ORDERS JUMP",
+            "nextUpTease": "AVIATION: DOT APPROVES UPS ROUTE TRANSFER",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-18T18:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TECHNOLOGY: ROBOTICS ORDERS JUMP",
+            "heading": "AVIATION: DOT APPROVES UPS ROUTE TRANSFER",
             "paragraphs": [
-                "North American industrial enterprises invested $1.2B in robotics solutions during the first half of the year, representing a 6.6% year-over-year increase. Warehouses and fulfillment centers are rapidly deploying automation technologies to mitigate persistent labor shortages.",
-                "Upfront capital expenditures in physical AI lower long-term operational costs and streamline order fulfillment velocity. Supply chain leaders must evaluate automation scaling to maintain competitive throughput against rising operational wage pressures."
+                "The US Department of Transportation approved the formal transfer of primary UPS international air cargo route frequencies from Hong Kong to the Philippines. The integrator is expanding its air express sorting infrastructure at Clark International Airport to accelerate cross-border package sortation across the Asia-Pacific region. The regulatory decision enables expanded dedicated freighter operations across secondary Southeast Asian manufacturing nodes.",
+                "Airfreight shippers gain diversified export capacity and expedited customs clearance paths bypassing increasingly congested traditional gateway hubs. Forwarders must restructure regional linehaul feeder connections to capitalize on enhanced transit velocity from emerging manufacturing corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: USMCA UNCERTAINTY",
+            "nextUpTease": "INTERMODAL: BNSF EXPANDS SOUTHWEST RAIL",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-18T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "COMPLIANCE: USMCA UNCERTAINTY",
+            "heading": "INTERMODAL: BNSF EXPANDS SOUTHWEST RAIL",
             "paragraphs": [
-                "Automotive manufacturers operating across North America face acute strategic vulnerabilities as the political future of the United States-Mexico-Canada Agreement remains heavily contested. Original equipment manufacturers are actively reviewing cross-border sourcing footprints to prepare for potential trade pact revisions.",
-                "Shifting regional trade rules threaten established regional supply chains and localized manufacturing cost structures. Industry executives must model alternative supplier networks to protect margins against sudden tariff implementations and regulatory shifts."
+                "BNSF Railway launched an expanded six-day weekly intermodal freight service connecting Phoenix with the Dallas-Fort Worth logistics hub with sub-four-day transit times. The railroad added dedicated block train capacity to capture escalating freight volumes migrating from interstate highway trucking corridors. The enhanced service directly connects major inland distribution hubs across the American Southwest.",
+                "Intermodal capacity expansion provides shippers with a predictable, fuel-efficient modal hedge against rising truckload spot rates and localized driver constraints. Supply chain operators must assess total cost of transit metrics to strategically rebalance containerized inventory flows between road and rail."
             ],
             "imageUrl": "",
-            "nextUpTease": "TANKERS: SINOKOR 6B USD BET",
+            "nextUpTease": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-18T17:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TANKERS: SINOKOR 6B USD BET",
+            "heading": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
             "paragraphs": [
-                "South Korean owner Sinokor Maritime reaped exceptional financial returns from its aggressive tanker acquisition campaign executed throughout the year. The firm deployed nearly $5.9B to acquire 73 secondhand tankers, capitalizing on lucrative global energy transport demands.",
-                "Strategic asset plays in the tanker segment highlight the high profitability of specialized maritime sectors amid geopolitical disruptions. Charterers must navigate inflated vessel leasing rates as asset owners command premium pricing across core energy routes."
+                "A coalition of 22 state attorneys general filed a federal lawsuit challenging the Department of Transportation over mandates requiring state licensing agencies to release 17M commercial driver license records. State regulators argue the sweeping data demand exceeds statutory authority and violates privacy protections governing professional commercial drivers. The legal conflict creates regulatory uncertainty around carrier compliance auditing standards.",
+                "Commercial fleets face fragmented regulatory compliance enforcement and potential administrative delays in processing driver credential renewals. Logistics executives must monitor judicial rulings to update driver qualification compliance workflows and prevent capacity disruptions across interstate fleets."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-18T17:30:00Z",
                 "Status: Audited & True"
             ]
         }

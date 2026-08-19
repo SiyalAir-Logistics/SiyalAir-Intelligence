@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GEOPOLITICS: UAE SUSPENDS TRADE WITH IRAN",
-                "teaserTitle": "MARITIME: MSC HITS 500 SHIP MILESTONE",
-                "visual_caption": "The UAE suspended all trade and financial transactions with Iran following a missile strike. Operators face immediate regional friction and must reroute cargo to ensure network security."
+                "headline": "USTR: FORCED LABOR 301 TARIFFS",
+                "teaserTitle": "MARITIME: PANAMA CANAL CAPACITY RATIONING",
+                "visual_caption": "The USTR is implementing Section 301 tariffs targeting forced labor across 60 nations. Importers face immediate customs audits, mandatory supply chain tracing, and unexpected duty surcharges on Q3 shipments."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: MSC HITS 500 SHIP MILESTONE",
-                "teaserTitle": "PORTS: LA HANDLES 960K TEUS",
-                "visual_caption": "MSC reached a major fleet milestone by acquiring 500 secondhand ships since August 2020. Shippers must navigate tighter vessel availability across core global trade lanes."
+                "headline": "MARITIME: PANAMA CANAL CAPACITY RATIONING",
+                "teaserTitle": "FUEL: RECORD HIGH DIESEL MARGINS",
+                "visual_caption": "The Panama Canal Authority is initiating capacity and draft rationing ahead of an expected severe drought. Shippers face soaring auction slot premiums and extended transit delays across Americas-bound maritime routes."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: LA HANDLES 960K TEUS",
-                "teaserTitle": "AIRFREIGHT: LUFTHANSA IT OUTAGE",
-                "visual_caption": "The Port of Los Angeles handled over 960K TEUs in July driven by strong consumer demand. Gateway congestion requires proactive drayage management to prevent demurrage penalties."
+                "headline": "FUEL: RECORD HIGH DIESEL MARGINS",
+                "teaserTitle": "SUEZ: MSC RESUMES CANAL TRANSITS",
+                "visual_caption": "National diesel prices hit $5.454 per gallon as refinery crack margins breach historic highs. Fleet operators must absorb sharp fuel cost spikes or pass escalating surcharges directly to contracted shippers."
             },
             {
                 "slide_index": 4,
-                "headline": "AIRFREIGHT: LUFTHANSA IT OUTAGE",
-                "teaserTitle": "TECHNOLOGY: ROBOTICS ORDERS JUMP",
-                "visual_caption": "Lufthansa Cargo operations suffered major disruptions at German hubs following a critical IT outage. Freight forwarders quickly scrambled for alternative routing options to bypass terminal delays."
+                "headline": "SUEZ: MSC RESUMES CANAL TRANSITS",
+                "teaserTitle": "AVIATION: DOT APPROVES UPS ROUTE TRANSFER",
+                "visual_caption": "Seven major container vessels operated by MSC have resumed transit through the Suez Canal corridor. Carrier redeployments signal cautious confidence in Red Sea security, creating selective routing savings against longer African detours."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: ROBOTICS ORDERS JUMP",
-                "teaserTitle": "COMPLIANCE: USMCA UNCERTAINTY",
-                "visual_caption": "North American enterprises invested $1.2B in industrial robots during H1 2026. Automated fulfillment solutions help facilities combat ongoing warehouse labor constraints."
+                "headline": "AVIATION: DOT APPROVES UPS ROUTE TRANSFER",
+                "teaserTitle": "INTERMODAL: BNSF EXPANDS SOUTHWEST RAIL",
+                "visual_caption": "The DOT approved the transfer of key UPS air cargo routing from Hong Kong to the Philippines. Forwarders should evaluate Clark hub transshipment schedules to mitigate regional congestion and preserve express delivery commitments."
             },
             {
                 "slide_index": 6,
-                "headline": "COMPLIANCE: USMCA UNCERTAINTY",
-                "teaserTitle": "TANKERS: SINOKOR 6B USD BET",
-                "visual_caption": "Automotive manufacturers face strategic risks as the future of the USMCA trade pact remains uncertain. Firms are actively reviewing cross-border sourcing networks to mitigate potential tariffs."
+                "headline": "INTERMODAL: BNSF EXPANDS SOUTHWEST RAIL",
+                "teaserTitle": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
+                "visual_caption": "BNSF Railway launched 6-day weekly intermodal service connecting Phoenix and North Texas in under 4 days. Cross-country shippers gain resilient overland capacity options to bypass congested regional truckload corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "TANKERS: SINOKOR 6B USD BET",
+                "headline": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
                 "teaserTitle": "",
-                "visual_caption": "Sinokor Maritime successfully expanded its fleet by purchasing 73 tankers for nearly $5.9B. Charterers must prepare for higher energy transport rates across global maritime corridors."
+                "visual_caption": "22 states filed a joint lawsuit against the DOT over access demands for 17M commercial driver records. Motor carriers face shifting compliance hurdles and heightened data privacy disputes across interstate freight lanes."
             },
             {
                 "slide_index": 8,

@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "UAE SUSPENDS TRADE WITH IRAN",
+        "hookTitle": "FORCED LABOR 301 TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GEOPOLITICS: UAE SUSPENDS TRADE WITH IRAN",
-                "teaserTitle": "MARITIME: MSC HITS 500 SHIP MILESTONE",
+                "headline": "USTR: FORCED LABOR 301 TARIFFS",
+                "teaserTitle": "MARITIME: PANAMA CANAL CAPACITY RATIONING",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United Arab Emirates has suspended all trade and financial transactions with Iran following a missile strike. Supply chain operators face immediate regional friction and must reroute cargo to maintain security."
+                "narration_line": "The United States Trade Representative is implementing Section three zero one tariffs targeting forced labor across sixty nations. Importers face immediate customs audits, mandatory supply chain tracing, and unexpected duty surcharges on Q3 shipments."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: MSC HITS 500 SHIP MILESTONE",
-                "teaserTitle": "PORTS: LA HANDLES 960K TEUS",
+                "headline": "MARITIME: PANAMA CANAL CAPACITY RATIONING",
+                "teaserTitle": "FUEL: RECORD HIGH DIESEL MARGINS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Mediterranean Shipping Company reached a major fleet milestone by acquiring its five hundredth secondhand ship since August twenty twenty. Shippers must navigate tighter vessel availability across core trade lanes."
+                "narration_line": "The Panama Canal Authority is initiating capacity and draft rationing ahead of an expected severe drought. Shippers face soaring auction slot premiums and extended transit delays across Americas-bound maritime routes."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: LA HANDLES 960K TEUS",
-                "teaserTitle": "AIRFREIGHT: LUFTHANSA IT OUTAGE",
+                "headline": "FUEL: RECORD HIGH DIESEL MARGINS",
+                "teaserTitle": "SUEZ: MSC RESUMES CANAL TRANSITS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Port of Los Angeles handled over nine hundred sixty thousand containers in July driven by strong consumer demand. Gateway congestion requires proactive drayage management to prevent demurrage penalties."
+                "narration_line": "National diesel prices hit five dollars and forty-five cents per gallon as refinery crack margins breach historic highs. Fleet operators must absorb sharp fuel cost spikes or pass escalating surcharges directly to contracted shippers."
             },
             {
                 "slide_index": 4,
-                "headline": "AIRFREIGHT: LUFTHANSA IT OUTAGE",
-                "teaserTitle": "TECHNOLOGY: ROBOTICS ORDERS JUMP",
+                "headline": "SUEZ: MSC RESUMES CANAL TRANSITS",
+                "teaserTitle": "AVIATION: DOT APPROVES UPS ROUTE TRANSFER",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Lufthansa Cargo operations suffered major disruptions at German hubs following a critical technological IT outage. Freight forwarders quickly scrambled for alternative routing options to bypass terminal delays."
+                "narration_line": "Seven major container vessels operated by MSC have resumed transit through the Suez Canal corridor. Carrier redeployments signal cautious confidence in Red Sea security, creating selective routing savings against longer African detours."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: ROBOTICS ORDERS JUMP",
-                "teaserTitle": "COMPLIANCE: USMCA UNCERTAINTY",
+                "headline": "AVIATION: DOT APPROVES UPS ROUTE TRANSFER",
+                "teaserTitle": "INTERMODAL: BNSF EXPANDS SOUTHWEST RAIL",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "North American enterprises invested one point two billion dollars in industrial robots during the first half of the year. Automated fulfillment solutions help facilities combat ongoing warehouse labor constraints."
+                "narration_line": "The Department of Transportation approved the transfer of key UPS air cargo routing from Hong Kong to the Philippines. Forwarders should evaluate Clark hub transshipment schedules to mitigate regional congestion and preserve express delivery commitments."
             },
             {
                 "slide_index": 6,
-                "headline": "COMPLIANCE: USMCA UNCERTAINTY",
-                "teaserTitle": "TANKERS: SINOKOR 6B USD BET",
+                "headline": "INTERMODAL: BNSF EXPANDS SOUTHWEST RAIL",
+                "teaserTitle": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Automotive manufacturers face strategic risks as the future of the United States Mexico Canada Agreement remains uncertain. Firms are actively reviewing cross border sourcing networks to mitigate potential trade tariffs."
+                "narration_line": "BNSF Railway launched six-day weekly intermodal service connecting Phoenix and North Texas in under four days. Cross-country shippers gain resilient overland capacity options to bypass congested regional truckload corridors."
             },
             {
                 "slide_index": 7,
-                "headline": "TANKERS: SINOKOR 6B USD BET",
+                "headline": "REGULATION: 22 STATES SUE OVER CDL RECORDS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Sinokor Maritime successfully expanded its fleet by purchasing seventy three tankers for nearly six billion dollars. Charterers must prepare for higher energy transport rates across global maritime corridors."
+                "narration_line": "Twenty-two states filed a joint lawsuit against the Department of Transportation over access demands for seventeen million commercial driver records. Motor carriers face shifting compliance hurdles and heightened data privacy disputes across interstate freight lanes."
             },
             {
                 "slide_index": 8,
