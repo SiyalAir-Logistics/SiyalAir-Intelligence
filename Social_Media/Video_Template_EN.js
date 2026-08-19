@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "INDIA LOOKS TO RUN FIRST NSR ARCTIC VOYAGE",
+        "hookTitle": "SHADOW TRANSHIPMENT PROBE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: INDIA TARGETS ARCTIC ROUTE",
-                "teaserTitle": "SUEZ: MSC TESTS RED SEA TRANSITS",
+                "headline": "CBP: SHADOW TRANSHIPMENT PROBE",
+                "teaserTitle": "MARITIME: 1.7M TEU CAPACITY LOCK",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "India plans its first Northern Sea Route Arctic transit to Europe in twenty twenty-seven. The polar voyage seeks to expand bilateral trade corridors and diversify shipping options."
+                "narration_line": "The United States is investigating a shadow network across forty countries designed to evade trade tariffs. Importers face immediate risks of shipment seizures and retroactive duty penalties if provenance is not verified."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: MSC TESTS SUEZ CORRIDOR",
-                "teaserTitle": "REGULATION: USTR ADVANCES TARIFFS",
+                "headline": "MARITIME: 1.7M TEU CAPACITY LOCK",
+                "teaserTitle": "AIR: LUFTHANSA HUB OUTAGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Mediterranean Shipping Company is testing Suez Canal transits as regional security confidence improves. The route resumption helps ocean carriers reduce voyage times and bunker expenses."
+                "narration_line": "Severe port congestion is currently trapping one point seven million T E U of capacity away from the global market. This supply reduction is expected to sustain high spot rates despite new vessel deliveries."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: USTR ADVANCES TARIFFS",
-                "teaserTitle": "BORDER: USCG LIFTS NIGERIA ADVISORY",
+                "headline": "AIR: LUFTHANSA HUB OUTAGE",
+                "teaserTitle": "TRADE: MEXICO CHINA SURTAX",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The USTR is implementing tariffs on sixty trading partners under Section three oh one. The enforcement targets forced labor practices as prior statutory exemptions expire."
+                "narration_line": "A systemic I T failure at Lufthansa hubs in Frankfurt and Munich has brought air cargo handling to a standstill. Shippers must evaluate alternative European gateways to maintain cold chain and electronics delivery schedules."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: USCG LIFTS NIGERIA BAN",
-                "teaserTitle": "ROBOTICS: NA ORDERS JUMP 6.6%",
+                "headline": "TRADE: MEXICO CHINA SURTAX",
+                "teaserTitle": "LEGAL: DOT CDL DATA LAWSUIT",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Coast Guard removed Nigeria from its Port Security Advisory after twelve years. The regulatory change eliminates mandatory security reviews for US-bound ships."
+                "narration_line": "Mexico is evaluating new duties on Chinese industrial goods to address growing trade imbalances and protect domestic manufacturing. These surtaxes could significantly disrupt the cost benefits of regional nearshoring projects for North American buyers."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: NORTH AMERICAN ROBOTS SURGE",
-                "teaserTitle": "TRUCKING: DIESEL MARGINS HIT RECORD",
+                "headline": "LEGAL: DOT CDL DATA LAWSUIT",
+                "teaserTitle": "SAFETY: SHIPYARD FATALITY PROBE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "North American robot orders reached one point two billion dollars in the first half. Facility operators are accelerating automation to counter ongoing labor constraints."
+                "narration_line": "Twenty-two states have sued the Department of Transportation to block the collection of seventeen million commercial driver records. This legal battle over privacy could impact long-term driver recruitment and federal safety compliance tracking."
             },
             {
                 "slide_index": 6,
-                "headline": "FUEL: DIESEL CRACK SPREAD SPIKES",
-                "teaserTitle": "FINANCE: KIMBERLY-CLARK GETS REFUND",
+                "headline": "SAFETY: SHIPYARD FATALITY PROBE",
+                "teaserTitle": "TECH: 100% DRONE TARIFFS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Diesel refining margins surpassed one hundred dollars a barrel to reach record highs. The tightening fuel supply threatens to inflate over-the-road freight rates."
+                "narration_line": "Safety investigators have entered Hyundai shipyards following a series of subcontractor deaths in South Korea. Potential work stop orders may delay the delivery of new container ships and critical gas carriers worldwide."
             },
             {
                 "slide_index": 7,
-                "headline": "FINANCE: KIMBERLY-CLARK SECURES REFUND",
-                "teaserTitle": "",
+                "headline": "TECH: 100% DRONE TARIFFS",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Kimberly-Clark secured a forty-five million dollar tariff refund from federal authorities. The capital recovery offsets rising material costs and supports pricing stability."
+                "narration_line": "New one hundred percent tariffs on drones and components aim to decouple the logistics technology sector from Chinese suppliers. This move forces a costly shift toward domestic and allied-nation manufacturers for autonomous delivery programs."
             },
             {
                 "slide_index": 8,

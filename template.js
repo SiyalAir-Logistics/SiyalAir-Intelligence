@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "INDIA LOOKS TO RUN FIRST NSR ARCTIC",
-        "titleBlue": "VOYAGE",
-        "footerSummary": "India plans its first Northern Sea Route transit to Europe in 2027, seeking new trade corridors amid shifting global shipping dynamics."
+        "titleWhite": "SHADOW TRANSHIPMENT",
+        "titleBlue": "PROBE",
+        "footerSummary": "US authorities target 40-nation transhipment network to curb tariff evasion, threatening sourcing agility and increasing audit risk for importers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: INDIA TARGETS ARCTIC ROUTE",
+            "heading": "CBP: SHADOW TRANSHIPMENT PROBE",
             "paragraphs": [
-                "India is preparing to conduct its inaugural transit along Russia Northern Sea Route to Europe in 2027, marking a significant step in expanding bilateral economic corridors. The proposed Arctic voyage aligns with broader efforts to diversify maritime trading routes and strengthen strategic supply chain partnerships.",
-                "Alternative Arctic passages offer reduced transit distances between Asian and European ports, potentially lowering fuel consumption for ocean carriers. Logistics directors must evaluate the geopolitical risks and specialized vessel requirements associated with polar shipping before committing cargo."
+                "The White House and US Customs and Border Protection have alleged a global conspiracy involving more than 40 countries, including Singapore and Vietnam, to evade tariffs through a shadow transhipment network. Authorities are intensifying audits on goods moving through these hubs to identify deceptive origin labeling used to bypass existing trade restrictions.",
+                "Importers utilizing Southeast Asian transhipment points face immediate risks of shipment seizures and retroactive duty penalties. Supply chain directors must implement aggressive provenance tracking and third-party verification to mitigate exposure to this widening enforcement net."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUEZ: MSC TESTS RED SEA TRANSITS",
+            "nextUpTease": "MARITIME: 1.7M TEU CAPACITY LOCK",
             "tags": [
-                "Source: https://maritime-executive.com/article/report-india-looks-to-run-first-nsr-arctic-voyage-to-europe-in-2027",
-                "Published: 2026-08-18T17:04:00Z",
+                "Source: https://theloadstar.com/us-alleges-global-shadow-transhipment-network-conspiracy-to-evade-tariffs/",
+                "Published: 2026-08-19T09:12:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: MSC TESTS SUEZ CORRIDOR",
+            "heading": "MARITIME: 1.7M TEU CAPACITY LOCK",
             "paragraphs": [
-                "Mediterranean Shipping Company has joined major ocean carriers in testing transits through the Suez Canal as security confidence gradually returns to the Red Sea region. The resumption of vessel strings through the waterway follows similar moves by Maersk and Hapag-Lloyd to restore traditional maritime shortcuts.",
-                "Reopening the Suez route helps liner operators cut voyage times and bunker costs compared to the longer routing around the Cape of Good Hope. Beneficial cargo owners should monitor carrier schedule adjustments and schedule reliability metrics as maritime networks realign."
+                "Persistent global port congestion is currently removing 1.7M TEU of container shipping capacity from the market as vessel dwell times escalate across major trade lanes. This capacity absorption effectively reduces active global fleet availability, driving a disconnect between nominal vessel supply and actual operational throughput.",
+                "Tightened vessel availability is expected to sustain elevated spot rates even as new ship deliveries enter the market. Logistics planners should anticipate extended lead times and prioritize equipment repositioning strategies to bypass regional bottlenecks in North Asia and the Middle East."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATION: USTR ADVANCES TARIFFS",
+            "nextUpTease": "AIR: LUFTHANSA HUB OUTAGE",
             "tags": [
-                "Source: https://maritime-executive.com/article/msc-tests-transits-as-container-volumes-rise-at-suez-canal",
-                "Published: 2026-08-18T15:40:00Z",
+                "Source: https://theloadstar.com/global-port-congestion-keeping-1-7m-teu-of-capacity-out-of-the-market/",
+                "Published: 2026-08-19T10:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REGULATION: USTR ADVANCES TARIFFS",
+            "heading": "AIR: LUFTHANSA HUB OUTAGE",
             "paragraphs": [
-                "The Office of the United States Trade Representative is moving forward with the implementation of tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. The enforcement action targets goods linked to forced labor practices as existing statutory provisions expire.",
-                "Heightened trade restrictions increase compliance burdens and administrative overhead for importers managing complex global sourcing networks. Supply chain executives must audit supplier tiers and verify labor provenance to prevent border delays and unexpected penalty costs."
+                "A major IT systems failure has disrupted Lufthansa Cargo handling operations at its primary Frankfurt and Munich hubs, triggering significant backlogs for time-sensitive airfreight. The software outage stalled automated sorting and documentation processing, forcing a shift to manual protocols that have slashed throughput capacity.",
+                "Prolonged hub delays threaten cold chain integrity and high-value electronics delivery windows across the European network. Shippers should evaluate alternative air gateways in Benelux or Northern Italy to maintain transit reliability during the recovery phase."
             ],
             "imageUrl": "",
-            "nextUpTease": "BORDER: USCG LIFTS NIGERIA ADVISORY",
+            "nextUpTease": "TRADE: MEXICO CHINA SURTAX",
             "tags": [
-                "Source: https://www.logisticsmgmt.com/news/ustr-moves-ahead-with-forced-labor-based-tariffs-on-60-trading-partners",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://theloadstar.com/it-outage-brings-chaos-to-lufthansa-cargo-handling-at-german-hubs/",
+                "Published: 2026-08-18T16:20:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "REGULATION: USCG LIFTS NIGERIA BAN",
+            "heading": "TRADE: MEXICO CHINA SURTAX",
             "paragraphs": [
-                "The United States Coast Guard has officially removed Nigeria from its Port Security Advisory, concluding 12 years of mandatory additional security requirements on ships calling Nigerian ports. The regulatory rollback eliminates specialized compliance checks and administrative friction for vessels trading between Nigeria and the US.",
-                "Eradicating legacy port security advisories streamlines vessel turnaround times and lowers operating overhead for maritime operators serving West African trade lanes. Fleet managers can optimize vessel deployment schedules without accounting for punitive port delays."
+                "Mexico\u2019s economy and finance ministries are evaluating new duties on Chinese imports not currently covered by bilateral trade agreements as part of a strategic pact review. The potential surtax aims to address trade imbalances and protect domestic manufacturing interests amid surging volumes of Chinese industrial inputs.",
+                "New tariffs in Mexico could disrupt the cost-benefit analysis for North American nearshoring projects reliant on Chinese components. Procurement teams must model the impact of localized duty hikes on final assembly costs for goods destined for the US market."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROBOTICS: NA ORDERS JUMP 6.6%",
+            "nextUpTease": "LEGAL: DOT CDL DATA LAWSUIT",
             "tags": [
-                "Source: https://splash247.com/us-ends-extra-security-measures-on-ships-calling-nigeria/",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/mexico-weighs-china-duties",
+                "Published: 2026-08-18T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TECHNOLOGY: NORTH AMERICAN ROBOTS SURGE",
+            "heading": "LEGAL: DOT CDL DATA LAWSUIT",
             "paragraphs": [
-                "North American companies ordered $1.2B worth of industrial and warehouse robots in the first half of the year, representing a 6.6% year-over-year increase in automation investment. Facility operators continue to prioritize advanced robotics to mitigate persistent labor shortages and accelerate fulfillment throughput.",
-                "Capital investments in warehouse automation require significant upfront expenditure but deliver long-term efficiency gains and lower operating costs. Logistics leaders must align automation strategies with demand forecasting to maximize return on investment across distribution hubs."
+                "Twenty-two US states have filed a lawsuit against the Department of Transportation to block a federal demand for access to 17M commercial driver license records. The legal challenge alleges federal overreach and potential violations of driver privacy rights concerning the five-year historical data request.",
+                "The outcome of this litigation will determine the government's ability to centralize driver safety and compliance data across state lines. Transportation managers should monitor potential impacts on driver recruitment and retention as privacy concerns influence labor market sentiment."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUCKING: DIESEL MARGINS HIT RECORD",
+            "nextUpTease": "SAFETY: SHIPYARD FATALITY PROBE",
             "tags": [
-                "Source: https://www.supplychainbrain.com/articles/label-report-robot-orders-in-north-america-surge-in-first-half-of-2026",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.ttnews.com/articles/states-sue-dot-cdl-records",
+                "Published: 2026-08-17T18:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FUEL: DIESEL CRACK SPREAD SPIKES",
+            "heading": "SAFETY: SHIPYARD FATALITY PROBE",
             "paragraphs": [
-                "Diesel refining margins have surged past $100 a barrel, reaching historic highs driven by tightening middle distillate supplies and robust seasonal demand. The widening disconnect between falling crude oil prices and rising pump costs threatens to inflate over-the-road freight rates heading into Q4.",
-                "Escalating fuel expenses directly increase linehaul operating costs for motor carriers and push fuel surcharges higher for shippers. Transportation procurement teams must utilize dynamic fuel indexing and route optimization to protect operating margins."
+                "South Korean labor authorities have launched a comprehensive safety investigation into HD Hyundai Heavy Industries following multiple subcontractor deaths at its shipyards. The 62-person inspection team is auditing safety protocols and working conditions that could lead to work stop orders at the world\u2019s largest shipbuilding facility.",
+                "Regulatory shutdowns or safety-related delays at major Korean yards risk pushing back delivery windows for newbuild containerships and gas carriers. Vessel operators must account for potential fleet expansion delays in their long-term capacity and asset deployment planning."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCE: KIMBERLY-CLARK GETS REFUND",
+            "nextUpTease": "TECH: 100% DRONE TARIFFS",
             "tags": [
-                "Source: https://www.ttnews.com/articles/diesel-margins-top-100-barrel-record-high",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://splash247.com/seoul-probes-safety-conditions-at-hd-hyundai-following-subcontractor-deaths/",
+                "Published: 2026-08-19T07:40:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "FINANCE: KIMBERLY-CLARK SECURES REFUND",
+            "heading": "TECH: 100% DRONE TARIFFS",
             "paragraphs": [
-                "Kimberly-Clark has successfully secured a $45M tariff refund from federal authorities, recovering half of the total duty payments it incurred over the past year. The capital recovery provides crucial financial relief to offset rising raw material costs and maintain consumer price stability.",
-                "Proactive duty recovery strategies help major consumer goods manufacturers buffer against volatile trade policy adjustments and inflationary pressures. Supply chain financial controllers should audit historical tariff payments to identify potential refund opportunities."
+                "The US has imposed 100% tariffs on specific drones and components to mitigate supply chain reliance on the $15.6B Chinese drone market. This executive action targets Unmanned Aircraft Systems and parts deemed critical to national infrastructure and logistics security.",
+                "The steep duty hike significantly increases capital expenditure for logistics firms integrating autonomous last-mile delivery and warehouse inspection technologies. Executives must pivot toward domestic or allied-nation drone manufacturers to avoid massive cost overruns in automation initiatives."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/kimberly-clark-tariff-refund-oil-prices/758200/",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-imposes-100-tariffs-on-drones-components/758310/",
+                "Published: 2026-08-18T13:00:00Z",
                 "Status: Audited & True"
             ]
         }

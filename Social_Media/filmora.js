@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: INDIA TARGETS ARCTIC ROUTE",
-                "teaserTitle": "SUEZ: MSC TESTS RED SEA TRANSITS",
-                "visual_caption": "India plans its first NSR Arctic voyage to Europe in 2027. The polar route expansion aims to diversify global trade corridors."
+                "headline": "CBP: SHADOW TRANSHIPMENT PROBE",
+                "teaserTitle": "MARITIME: 1.7M TEU CAPACITY LOCK",
+                "visual_caption": "US authorities are targeting a 40-country shadow network used for tariff evasion. Importers face high risks of seizures and duty penalties without verified provenance."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: MSC TESTS SUEZ CORRIDOR",
-                "teaserTitle": "REGULATION: USTR ADVANCES TARIFFS",
-                "visual_caption": "MSC tests Suez Canal transits as regional security confidence returns. Carriers are cutting voyage times through the Red Sea."
+                "headline": "MARITIME: 1.7M TEU CAPACITY LOCK",
+                "teaserTitle": "AIR: LUFTHANSA HUB OUTAGE",
+                "visual_caption": "Global port congestion is currently locking up 1.7M TEU of container capacity. Reduced vessel supply is likely to sustain elevated spot rates throughout the quarter."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: USTR ADVANCES TARIFFS",
-                "teaserTitle": "BORDER: USCG LIFTS NIGERIA ADVISORY",
-                "visual_caption": "The USTR implements Section 301 tariffs on 60 trading partners. Importers face heightened compliance audits across global supply chains."
+                "headline": "AIR: LUFTHANSA HUB OUTAGE",
+                "teaserTitle": "TRADE: MEXICO CHINA SURTAX",
+                "visual_caption": "Lufthansa hubs in Frankfurt and Munich are facing chaos following a major IT systems outage. Shippers should reroute time-sensitive cargo to Benelux or Northern Italian air gateways."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: USCG LIFTS NIGERIA BAN",
-                "teaserTitle": "ROBOTICS: NA ORDERS JUMP 6.6%",
-                "visual_caption": "The US Coast Guard removes Nigeria from its Port Security Advisory. Twelve years of extra security requirements have officially ended."
+                "headline": "TRADE: MEXICO CHINA SURTAX",
+                "teaserTitle": "LEGAL: DOT CDL DATA LAWSUIT",
+                "visual_caption": "Mexico weighs new duties on Chinese goods to balance trade and protect domestic industry. This surtax threatens to inflate the costs of North American nearshoring initiatives."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: NORTH AMERICAN ROBOTS SURGE",
-                "teaserTitle": "TRUCKING: DIESEL MARGINS HIT RECORD",
-                "visual_caption": "North American robot orders reached $1.2B in H1 2026. Automation investments are surging 6.6% year-over-year to offset labor shortages."
+                "headline": "LEGAL: DOT CDL DATA LAWSUIT",
+                "teaserTitle": "SAFETY: SHIPYARD FATALITY PROBE",
+                "visual_caption": "22 US states are suing to block the DOT from accessing 17M commercial driver records. The privacy-driven lawsuit could disrupt national safety and labor compliance frameworks."
             },
             {
                 "slide_index": 6,
-                "headline": "FUEL: DIESEL CRACK SPREAD SPIKES",
-                "teaserTitle": "FINANCE: KIMBERLY-CLARK GETS REFUND",
-                "visual_caption": "Diesel refining margins topped $100 a barrel for a record high. High fuel costs threaten to drive up motor carrier freight rates."
+                "headline": "SAFETY: SHIPYARD FATALITY PROBE",
+                "teaserTitle": "TECH: 100% DRONE TARIFFS",
+                "visual_caption": "Massive safety audits at Hyundai shipyards follow a series of subcontractor deaths in Korea. Potential stop orders risk delaying the global rollout of new container vessel capacity."
             },
             {
                 "slide_index": 7,
-                "headline": "FINANCE: KIMBERLY-CLARK SECURES REFUND",
-                "teaserTitle": "",
-                "visual_caption": "Kimberly-Clark secured a $45M tariff refund from federal authorities. The duty recovery offsets rising oil prices and maintains margin stability."
+                "headline": "TECH: 100% DRONE TARIFFS",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "New 100% tariffs on drones and components target the $15.6B Chinese UAS market. Logistics firms must now pivot to domestic hardware to avoid massive automation cost spikes."
             },
             {
                 "slide_index": 8,
