@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "FORCED LABOR TARIFFS",
+        "hookTitle": "PANAMA CANAL DRAFT RESTRICTIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "PORT CONGESTION CRISIS",
+                "headline": "MARITIME: PANAMA CANAL RESTRICTIONS",
+                "teaserTitle": "TARIFFS: US SHADOW TRANSHIPMENT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States is implementing forced labor tariffs on sixty trading partners. Importers must perform immediate supply chain audits to prevent cargo seizures and financial penalties."
+                "narration_line": "Panama Canal draft restrictions have forced vessels to carry lighter loads, pushing queue jump fees to four point six million dollars. Carriers are implementing emergency surcharges as global maritime congestion intensifies."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PORT CONGESTION CRISIS",
-                "teaserTitle": "CANADA TARIFF DELAY",
+                "headline": "TARIFFS: US SHADOW TRANSHIPMENT",
+                "teaserTitle": "COMPLIANCE: US CHASSIS DUTIES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Global port congestion is removing one point seven million containers from the market. Shippers should expect rising rates and equipment shortages as terminal delays persist."
+                "narration_line": "The White House alleges that over forty countries are operating a shadow transshipment network to evade tariffs. Importers face aggressive customs audits and potential cargo seizures."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE: CANADA TARIFF DELAY",
-                "teaserTitle": "CDL ENFORCEMENT PENALTIES",
+                "headline": "COMPLIANCE: US CHASSIS DUTIES",
+                "teaserTitle": "SECURITY: HORMUZ MARITIME PRESSURES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A three day delay on fifty percent Canada tariffs offers a temporary reprieve. Supply chain leaders must monitor trade talks closely to adjust cross border landed costs."
+                "narration_line": "A seventy-seven percent countervailing duty on Mexican chassis has driven a key supplier out of the U.S. market. Motor carriers must quickly secure equipment alternatives to avoid severe drayage delays."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: CDL ENFORCEMENT PENALTIES",
-                "teaserTitle": "HORMUZ TRANSIT RISK",
+                "headline": "SECURITY: HORMUZ MARITIME PRESSURES",
+                "teaserTitle": "AIR CARGO: GERMAN HUB OUTAGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Pennsylvania is now imposing twenty five thousand dollar fines on unlicensed driving schools. This crackdown will tighten the driver labor pool while improving highway safety standards."
+                "narration_line": "Shipowners are pressuring crews to transit the high risk Strait of Hormuz despite escalating regional conflicts. Operators face severe legal liabilities if maritime labor safety rights are breached."
             },
             {
                 "slide_index": 5,
-                "headline": "SECURITY: HORMUZ TRANSIT RISK",
-                "teaserTitle": "TRAILER ORDER SURGE",
+                "headline": "AIR CARGO: GERMAN HUB OUTAGE",
+                "teaserTitle": "RETAIL: INVENTORY DIGITAL TWINS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Seafarers are resisting pressure to transit the Strait of Hormuz due to rising Iranian strikes. Strategic rerouting is necessary to avoid asset loss and legal liability."
+                "narration_line": "A severe IT failure crippled cargo handling operations across Lufthansa Cargo hubs in Frankfurt and Munich. Forwarders were forced to route time sensitive freight through secondary European airports."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT: TRAILER ORDER SURGE",
-                "teaserTitle": "MINI-BID STRATEGY SHIFT",
+                "headline": "RETAIL: INVENTORY DIGITAL TWINS",
+                "teaserTitle": "EQUIPMENT: U.S. TRAILER SURGE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "U.S. trailer orders have surged ninety seven percent as carriers prepare for new emissions rules. Securing equipment now is vital to avoid future price hikes and shortages."
+                "narration_line": "Target has deployed a digital twin platform to simulate inventory decisions and preempt supply chain bottlenecks. The advanced modeling tool helps reduce safety stock while protecting profit margins."
             },
             {
                 "slide_index": 7,
-                "headline": "PROCUREMENT: MINI-BID STRATEGY SHIFT",
-                "teaserTitle": "LIVE INTELLIGENCE",
+                "headline": "EQUIPMENT: U.S. TRAILER SURGE",
+                "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Mini bids are replacing annual contracts as shippers chase shrinking trucking capacity. Procurement teams must use real time data to navigate volatile freight spot markets."
+                "narration_line": "U.S. trailer orders surged ninety-seven percent in July as carriers prepare for stricter emissions mandates. Fleet modernization is accelerating to prevent long term maintenance downtime."
             },
             {
                 "slide_index": 8,
