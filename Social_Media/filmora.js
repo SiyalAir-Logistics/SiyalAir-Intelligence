@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS SURGE",
-                "teaserTitle": "TRANSPORT: CRUDE OIL PRICES SPIKE",
-                "visual_caption": "Ocean carriers are raising surcharges as Panama Canal draft restrictions constrain vessel capacity. Shippers face rising transit costs and must evaluate alternate routing options."
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M",
+                "teaserTitle": "FUEL: OIL PRICES SURGE ON IRAN PRESSURE",
+                "visual_caption": "An empty tanker paid $4.6M to jump the Panama Canal queue. Severe maritime congestion and El Nino conditions are escalating priority fees across global trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "FUEL: CRUDE OIL PRICES SPIKE",
-                "teaserTitle": "COMPLIANCE: DE MINIMIS EXEMPTION UPHELD",
-                "visual_caption": "International Brent crude prices surged 2.4% to $93.83 per barrel amid supply concerns. Motor carriers must implement emergency fuel surcharges to offset rising voyage operating costs."
+                "headline": "FUEL: OIL PRICES SURGE ON IRAN PRESSURE",
+                "teaserTitle": "GOVERNMENT: CANADA TARIFFS DELAYED",
+                "visual_caption": "Brent crude surged 2.4% to $93.83 a barrel. Heightened Middle East tensions are directly inflating bunker fuel expenses for commercial fleets."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: DE MINIMIS EXEMPTION UPHELD",
-                "teaserTitle": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
-                "visual_caption": "The Court of International Trade upheld authority to eliminate tariff exemptions for sub-$800 imports. E-commerce platforms must restructure customs compliance protocols to absorb new duties."
+                "headline": "GOVERNMENT: CANADA TARIFFS DELAYED",
+                "teaserTitle": "LOGISTICS: AMAZON EXPANDS DRONES",
+                "visual_caption": "President Trump delayed proposed 50% tariffs on Canada for 3 days. Bilateral trade negotiations are advancing toward a tentative agreement amid ongoing cross-border friction."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
+                "headline": "LOGISTICS: AMAZON EXPANDS DRONES",
                 "teaserTitle": "EQUIPMENT: TRAILER ORDERS JUMP",
-                "visual_caption": "Competition authorities executed search warrants at software giant WiseTech Global during an antitrust probe. Logistics operators must evaluate software redundancy plans to ensure operational continuity."
+                "visual_caption": "Amazon plans to expand aerial drone delivery to 500 cities this year. This aggressive last-mile scaling initiative aims to bypass urban ground congestion."
             },
             {
                 "slide_index": 5,
                 "headline": "EQUIPMENT: TRAILER ORDERS JUMP",
-                "teaserTitle": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
-                "visual_caption": "Net U.S. trailer orders increased 97% year-over-year as fleets upgrade aging equipment. Motor carriers are locking in procurement contracts ahead of projected volume surges."
+                "teaserTitle": "PORT: LOS ANGELES JULY VOLUME",
+                "visual_caption": "Net U.S. trailer orders increased 97% in July. Motor carriers are aggressively investing capital to modernize aging over-the-road equipment fleets."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
-                "teaserTitle": "RETAIL: PORT OF LOS ANGELES VOLUME",
-                "visual_caption": "Hapag-Lloyd agreed to acquire a 25% equity stake in a Rotterdam container terminal. Terminal consolidation protects berth access and enhances container handling velocity across European gateways."
+                "headline": "PORT: LOS ANGELES JULY VOLUME",
+                "teaserTitle": "MARITIME: ROTTERDAM TERMINAL STAKE",
+                "visual_caption": "The Port of Los Angeles reported its second-busiest July in operational history. Waterfront terminals managed heavy container inflows as retailers rushed import goods."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT: PORT OF LOS ANGELES VOLUME",
+                "headline": "MARITIME: ROTTERDAM TERMINAL STAKE",
                 "teaserTitle": "",
-                "visual_caption": "The Port of Los Angeles recorded its second-busiest July on record amid sustained early peak season imports. Supply chain managers must utilize flexible drayage contracts to prevent landside bottlenecks."
+                "visual_caption": "Hapag-Lloyd secured a 25% equity stake in a Rotterdam container terminal. The acquisition strengthens European gateway infrastructure for the Gemini network."
             },
             {
                 "slide_index": 8,

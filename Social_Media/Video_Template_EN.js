@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL DRAFT RESTRICTIONS SURGE",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS SURGE",
-                "teaserTitle": "TRANSPORT: CRUDE OIL PRICES SPIKE",
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M",
+                "teaserTitle": "FUEL: OIL PRICES SURGE ON IRAN PRESSURE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Ocean carriers are raising surcharges as Panama Canal draft restrictions constrain vessel capacity. Shippers face rising transit costs and must evaluate alternate routing options."
+                "narration_line": "An empty tanker paid four point six million dollars to jump the Panama Canal queue. Severe maritime congestion and El Nino conditions are escalating priority fees across global trade lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "FUEL: CRUDE OIL PRICES SPIKE",
-                "teaserTitle": "COMPLIANCE: DE MINIMIS EXEMPTION UPHELD",
+                "headline": "FUEL: OIL PRICES SURGE ON IRAN PRESSURE",
+                "teaserTitle": "GOVERNMENT: CANADA TARIFFS DELAYED",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "International Brent crude prices surged two point four percent to ninety three dollars and eighty three cents per barrel. Motor carriers must implement emergency fuel surcharges to offset voyage operating costs."
+                "narration_line": "Brent crude surged two point four percent to ninety three dollars and eighty three cents a barrel. Heightened Middle East tensions are directly inflating bunker fuel expenses for commercial fleets."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: DE MINIMIS EXEMPTION UPHELD",
-                "teaserTitle": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
+                "headline": "GOVERNMENT: CANADA TARIFFS DELAYED",
+                "teaserTitle": "LOGISTICS: AMAZON EXPANDS DRONES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The Court of International Trade upheld presidential authority to eliminate duty-free exemptions for sub-eight-hundred-dollar imports. E-commerce platforms must restructure customs compliance protocols to absorb new duties."
+                "narration_line": "President Trump delayed proposed fifty percent tariffs on Canada for three days. Bilateral trade negotiations are advancing toward a tentative agreement amid ongoing cross-border friction."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
+                "headline": "LOGISTICS: AMAZON EXPANDS DRONES",
                 "teaserTitle": "EQUIPMENT: TRAILER ORDERS JUMP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Australian competition authorities executed search warrants at software giant WiseTech Global during an antitrust investigation. Logistics operators must evaluate software redundancy plans to ensure operational continuity."
+                "narration_line": "Amazon plans to expand aerial drone delivery to five hundred cities this year. This aggressive last-mile scaling initiative aims to bypass urban ground congestion."
             },
             {
                 "slide_index": 5,
                 "headline": "EQUIPMENT: TRAILER ORDERS JUMP",
-                "teaserTitle": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
+                "teaserTitle": "PORT: LOS ANGELES JULY VOLUME",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Net United States trailer orders increased ninety seven percent year-over-year as fleets upgrade aging equipment. Motor carriers are locking in procurement contracts ahead of projected volume surges."
+                "narration_line": "Net United States trailer orders increased ninety seven percent in July. Motor carriers are aggressively investing capital to modernize aging over-the-road equipment fleets."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
-                "teaserTitle": "RETAIL: PORT OF LOS ANGELES VOLUME",
+                "headline": "PORT: LOS ANGELES JULY VOLUME",
+                "teaserTitle": "MARITIME: ROTTERDAM TERMINAL STAKE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Hapag-Lloyd agreed to acquire a twenty five percent equity stake in a Rotterdam container terminal. Terminal consolidation protects berth access and enhances container handling velocity across European gateways."
+                "narration_line": "The Port of Los Angeles reported its second busiest July in operational history. Waterfront terminals managed heavy container inflows as retailers rushed import goods."
             },
             {
                 "slide_index": 7,
-                "headline": "PORT: PORT OF LOS ANGELES VOLUME",
+                "headline": "MARITIME: ROTTERDAM TERMINAL STAKE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Port of Los Angeles recorded its second-busiest July on record amid sustained early peak season imports. Supply chain managers must utilize flexible drayage contracts to prevent landside bottlenecks."
+                "narration_line": "Hapag-Lloyd secured a twenty five percent equity stake in a Rotterdam container terminal. The acquisition strengthens European gateway infrastructure for the Gemini network."
             },
             {
                 "slide_index": 8,
