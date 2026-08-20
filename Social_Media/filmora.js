@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR 301 TARIFFS",
-                "teaserTitle": "TRADE: ITC 77% CHASSIS DUTIES",
-                "visual_caption": "USTR is rolling out Section 301 tariffs on 60 trade partners to target forced labor. Importers face aggressive compliance audits and rising clearance overhead across major ports."
+                "headline": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS",
+                "teaserTitle": "TECHNOLOGY: ACCC WISETECH RAIDS",
+                "visual_caption": "Severe drought conditions have forced the Panama Canal to enforce strict draft limits. Queue-jump fees have surpassed $4.6M as vessels shed cargo weight."
             },
             {
                 "slide_index": 2,
-                "headline": "TRADE: ITC 77% CHASSIS DUTIES",
-                "teaserTitle": "REGULATION: ACCC RAIDS WISETECH PREMISES",
-                "visual_caption": "Mexican supplier GG Trailers exited the US market following a 77% countervailing duty. Intermodal operators must diversify equipment supply lines before peak season container volumes rise."
+                "headline": "TECHNOLOGY: ACCC WISETECH RAIDS",
+                "teaserTitle": "FULFILLMENT: HOME DEPOT EXPRESS DELIVERY",
+                "visual_caption": "Australian regulators have executed search warrants at the headquarters of software giant WiseTech. The investigation examines potential anti-competitive market practices."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: ACCC RAIDS WISETECH PREMISES",
-                "teaserTitle": "AIR CARGO: EU DE MINIMIS REFORM",
-                "visual_caption": "Australian regulators executed a search warrant at software firm WiseTech over competition concerns. Global freight forwarders should review contract risk as software consolidation faces severe government scrutiny."
+                "headline": "FULFILLMENT: HOME DEPOT EXPRESS DELIVERY",
+                "teaserTitle": "GOVERNMENT: PENNSYLVANIA CDL SCHOOL LAW",
+                "visual_caption": "Home Depot has rolled out nationwide express delivery guaranteeing fulfillment in under 3 hours. The retailer converts 2,000 stores into local fulfillment hubs."
             },
             {
                 "slide_index": 4,
-                "headline": "AIR CARGO: EU DE MINIMIS REFORM",
-                "teaserTitle": "INLAND: RHINE LOW WATER BARGE CRISIS",
-                "visual_caption": "European air freight demand slowed significantly after regulators scrapped the tax-free de minimis import threshold. Cross-border sellers must now establish regional clearance hubs to manage mandatory VAT."
+                "headline": "GOVERNMENT: PENNSYLVANIA CDL SCHOOL LAW",
+                "teaserTitle": "COMPLIANCE: US DE MINIMIS RESCISSION",
+                "visual_caption": "Pennsylvania regulators can now levy civil penalties up to $25K on unlicensed CDL schools. The law aims to eliminate unqualified driver training pipelines."
             },
             {
                 "slide_index": 5,
-                "headline": "INLAND: RHINE LOW WATER BARGE CRISIS",
-                "teaserTitle": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
-                "visual_caption": "Low water levels along the Rhine River have severely disrupted European commercial barge traffic. Shippers are redirecting heavy bulk cargo onto strained regional rail and road networks."
+                "headline": "COMPLIANCE: US DE MINIMIS RESCISSION",
+                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS SURGE",
+                "visual_caption": "The Court of International Trade upheld the rescission of tariff exemptions for sub-$800 imports. Cross-border e-commerce parcels now face mandatory duty assessments."
             },
             {
                 "slide_index": 6,
-                "headline": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
-                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY AT 7.3%",
-                "visual_caption": "Home Depot launched 3-hour delivery across 2,000 retail store locations nationwide. Competing building distributors must accelerate local store fulfillment to protect key professional customer contracts."
+                "headline": "EQUIPMENT: US TRAILER ORDERS SURGE",
+                "teaserTitle": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
+                "visual_caption": "U.S. trailer orders posted a 97% surge in July as carriers upgraded aging over-the-road fleets. OEM manufacturing backlogs are expanding across domestic equipment markets."
             },
             {
                 "slide_index": 7,
-                "headline": "REAL ESTATE: INDUSTRIAL VACANCY AT 7.3%",
-                "teaserTitle": "LIVE INTELLIGENCE",
-                "visual_caption": "US industrial real estate vacancy fell to 7.3% in Q2 as tenant demand stabilized. Logistics operators should secure warehouse footprint early as lease concessions tighten across prime hubs."
+                "headline": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
+                "teaserTitle": "",
+                "visual_caption": "Hapag-Lloyd has acquired a 25% equity stake in a Rotterdam container terminal. The investment secures vital gateway handling capacity for the Gemini network."
             },
             {
                 "slide_index": 8,
