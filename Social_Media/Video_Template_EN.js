@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CK HUTCHISON SEEKS 1.5B USD IN DAMAGES",
+        "hookTitle": "USTR MOVES FORWARD WITH FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GLOBAL GATEWAYS: CK HUTCHISON DAMAGES",
-                "teaserTitle": "MARITIME: PANAMA DRAFT SURCHARGES",
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "OIL: CRUDE SURGE THREATENS BUNKER",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "CK Hutchison is seeking one point five billion dollars in damages from Panama over cancelled terminal leases. Supply chain leaders must monitor this dispute for potential regional trade disruptions."
+                "narration_line": "The United States Trade Representative is advancing new tariffs on sixty nations under section three hundred and one. Importers face strict compliance checks that threaten to disrupt cross-border supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA DRAFT SURCHARGES",
-                "teaserTitle": "FUEL: REFINERY PROCESSING PEAK",
+                "headline": "FUEL: OIL PRICES SURGE",
+                "teaserTitle": "CONTAINERS: ZIM Q2 REVENUE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Ocean carriers are raising emergency surcharges due to strict Panama Canal draft restrictions. Importers must incorporate these rising maritime costs into landed pricing models."
+                "narration_line": "Brent crude jumped one point eight percent to ninety-three dollars per barrel amid escalating tensions with Iran. Fleet operators must update fuel surcharges to protect carrier operating margins."
             },
             {
                 "slide_index": 3,
-                "headline": "FUEL: REFINERY PROCESSING PEAK",
-                "teaserTitle": "RAILROAD: CONTAINER SMUGGLING CASE",
+                "headline": "MARITIME: ZIM Q2 REVENUE",
+                "teaserTitle": "AVIATION: AMAZON DRONE EXPANSION",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "U.S. refineries processed seventeen point four million barrels of crude oil daily last week. This record processing pace helps mitigate severe distillate fuel supply crunches."
+                "narration_line": "Zim posted strong quarterly revenue of one point eight billion dollars on rising transpacific volumes. Meanwhile, Brazilian regulators have placed strict scrutiny on its proposed merger."
             },
             {
                 "slide_index": 4,
-                "headline": "RAILROAD: CONTAINER SMUGGLING CASE",
-                "teaserTitle": "RETAIL: WALMART E-COMMERCE GROWTH",
+                "headline": "PROCUREMENT: AMAZON DRONE EXPANSION",
+                "teaserTitle": "RAIL: SMUGGLING CASE ARREST",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "A federal investigation into intermodal container smuggling highlights tightening security compliance. Shippers face increased terminal inspection delays across major rail corridors."
+                "narration_line": "Amazon is expanding its Prime Air drone delivery network across major metropolitan hubs this year. This autonomous infrastructure sets a new standard for fast retail fulfillment."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL: WALMART E-COMMERCE GROWTH",
-                "teaserTitle": "PROCUREMENT: CATERPILLAR TARIFF REFUND",
+                "headline": "RAILROAD: CONTAINER SMUGGLING CASE",
+                "teaserTitle": "EQUIPMENT: TRAILER ORDERS RISE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Walmart reported twenty-four percent e-commerce sales growth driven by fast delivery adoption. Comparable sales slowed as consumer spending habits shifted under economic pressure."
+                "narration_line": "Federal authorities arrested suspects linked to an intermodal container smuggling investigation. Rail shippers now face heightened security inspections and terminal delays."
             },
             {
                 "slide_index": 6,
-                "headline": "PROCUREMENT: CATERPILLAR TARIFF REFUND",
-                "teaserTitle": "AVIATION: AMAZON DRONE EXPANSION",
+                "headline": "EQUIPMENT: TRAILER ORDERS RISE",
+                "teaserTitle": "RETAIL: WALMART SALES GROWTH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Caterpillar secured a three hundred ninety-two million dollar tariff refund amid shrinking duty costs. Importers should audit historical entries to identify similar recovery opportunities."
+                "narration_line": "U.S. trailer orders defied seasonal expectations with a ninety-seven percent jump in July. Carriers are actively investing in hardware modernization despite rate volatility."
             },
             {
                 "slide_index": 7,
-                "headline": "AVIATION: AMAZON DRONE EXPANSION",
+                "headline": "RETAIL: WALMART SALES GROWTH",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon is expanding its Prime Air drone delivery network sixfold across major metro regions. This scaling establishes a new competitive standard for ultra-fast retail fulfillment."
+                "narration_line": "Walmart posted twenty-four percent e-commerce growth even as comparable sales slowed significantly. Retailers must optimize local inventory to protect fulfillment margins."
             },
             {
                 "slide_index": 8,

@@ -1,80 +1,80 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CK HUTCHISON SEEKS 1.5B USD IN",
-        "titleBlue": "DAMAGES",
-        "footerSummary": "CK Hutchison seeks 1.5B USD in damages from Panama over cancelled terminal leases amid escalating state investment dispute."
+        "titleWhite": "USTR MOVES FORWARD WITH FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR advances forced labor tariffs on 60 nations as Section 301 acts, escalating global trade compliance and margin risks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "GLOBAL GATEWAYS: CK HUTCHISON DAMAGES",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "CK Hutchison has formally initiated legal proceedings seeking 1.5B USD in damages from Panama, alleging that the state violated a bilateral investment protection treaty. The dispute centers on the abrupt cancellation of critical port terminal leases, which the conglomerate characterizes as a coordinated state attack campaign.",
-                "Supply chain leaders utilizing Central American maritime corridors must closely monitor this legal standoff for potential operational friction and terminal access volatility. Managing multi-port routing strategies will be essential to insulate regional container flows from unexpected political disruptions."
+                "The Office of the United States Trade Representative has officially moved forward with implementing restrictive tariffs targeting 60 trading partners under Section 301. This regulatory shift enforces strict compliance measures against supply chains tied to forced labor, creating immediate customs hurdles for importers.",
+                "Supply chain leaders must audit sourcing networks across affected jurisdictions to avoid severe import delays and unexpected financial liabilities. Maintaining rigorous traceability protocols is now vital to secure cross-border inventory flows and protect landed operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: PANAMA DRAFT SURCHARGES",
+            "nextUpTease": "OIL: CRUDE SURGE THREATENS BUNKER",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: PANAMA DRAFT SURCHARGES",
+            "heading": "FUEL: OIL PRICES SURGE",
             "paragraphs": [
-                "Major ocean carriers including MSC and CMA CGM are actively raising emergency surcharges to offset ongoing operational constraints driven by strict Panama Canal draft restrictions. Water level monitoring protocols across the vital waterway continue to force weight limits on traversing boxships, constraining overall capacity.",
-                "Importers must incorporate these climbing maritime surcharges into landed cost calculations as seasonal draft adjustments persist. Securing alternative modal routing or booking well in advance remains critical for maintaining predictable transpacific delivery timelines."
+                "International benchmark Brent crude surged 1.8% to $93.24 per barrel amid escalating U.S. pressure and threats directed at Iran. The rapid spike in crude values directly compresses carrier operating margins and drives up immediate transportation overhead.",
+                "Fleet operators and logistics buyers must immediately reassess fuel surcharge mechanisms to insulate bottom lines against sustained energy volatility. Proactive bunker cost management remains critical as geopolitical tensions continue to disrupt global petroleum markets."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL: REFINERY PROCESSING PEAK",
+            "nextUpTease": "CONTAINERS: ZIM Q2 REVENUE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FUEL: REFINERY PROCESSING PEAK",
+            "heading": "MARITIME: ZIM Q2 REVENUE",
             "paragraphs": [
-                "U.S. fuel manufacturers operated refineries at 17.4M barrels of crude oil daily last week, marking the fastest processing pace recorded since September 2019. Driven by mounting energy pressures from the ongoing Iran conflict, refiners are aggressively ramping up output to prevent severe diesel supply crunches.",
-                "While heightened refinery throughput helps stabilize domestic distillate inventories, elevated operational pacing leaves little room for unexpected facility downtime. Fleet operators must maintain agile fuel purchasing strategies to hedge against persistent bunker and diesel price volatility."
+                "Zim posted solid financial results for the second quarter, generating $1.8B in revenue and returning to profitability on strengthening transpacific volumes. However, the carrier's broader strategic positioning faces mounting headwinds as Brazilian competition regulators subject its proposed merger to deep scrutiny.",
+                "Ocean freight procurement managers must evaluate potential structural changes in carrier alliances and service reliability as regulatory scrutiny intensifies. Diversifying vessel contracts helps mitigate schedule disruption risks stemming from prolonged merger reviews."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILROAD: CONTAINER SMUGGLING CASE",
+            "nextUpTease": "AVIATION: AMAZON DRONE EXPANSION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.maritime-executive.com",
+                "Published: 2026-08-19T10:41:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "RAILROAD: CONTAINER SMUGGLING CASE",
+            "heading": "PROCUREMENT: AMAZON DRONE EXPANSION",
             "paragraphs": [
-                "A Texas woman has surrendered to federal authorities in connection with a Union Pacific rail-container smuggling investigation linked to a tragic border incident. The high-profile enforcement action highlights intensified security scrutiny targeting intermodal freight networks and cross-border transport security compliance.",
-                "Rail shippers face heightened risk of terminal inspections and dwell time delays as law enforcement tightens controls across southern gateway routes. Strengthening digital cargo visibility and vendor vetting protocols is vital to prevent illicit supply chain exploitation."
+                "Amazon is aggressively expanding its Prime Air drone delivery footprint sixfold this year to encompass major metropolitan markets like Atlanta, Chicago, and Cleveland. This rapid scaling establishes an advanced benchmark for last-mile delivery velocity and urban logistics automation.",
+                "Traditional parcel carriers and regional distributors must adapt their fulfillment models to compete with autonomous aerial delivery infrastructure. Integrating advanced last-mile technology is essential for maintaining competitive parity in dense consumer sectors."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: WALMART E-COMMERCE GROWTH",
+            "nextUpTease": "RAIL: SMUGGLING CASE ARREST",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RETAIL: WALMART E-COMMERCE GROWTH",
+            "heading": "RAILROAD: CONTAINER SMUGGLING CASE",
             "paragraphs": [
-                "Walmart reported a 24% surge in second-quarter e-commerce sales, propelled heavily by accelerated fast-delivery adoption and expanding omnichannel capabilities. However, executive leadership noted that comparable sales growth slowed to its lowest pace in six years as consumer spending habits shifted under inflationary pressures.",
-                "Retail logistics networks must adapt rapidly to surging consumer expectations for expedited parcel fulfillment even as top-line sales growth moderates. Optimizing last-mile distribution centers and localized inventory placement remains paramount for protecting fulfillment margins."
+                "A federal investigation into Union Pacific intermodal container smuggling linked to a tragic border incident has resulted in high-profile surrenders to authorities. This enforcement action highlights heightened security oversight targeting cross-border rail networks and freight security compliance.",
+                "Rail shippers face elevated risks of border terminal inspections and extended dwell times as law enforcement tightens intermodal corridor controls. Strengthening digital cargo tracking and vendor verification protocols is critical to prevent illicit supply chain exploitation."
             ],
             "imageUrl": "",
-            "nextUpTease": "PROCUREMENT: CATERPILLAR TARIFF REFUND",
+            "nextUpTease": "EQUIPMENT: TRAILER ORDERS RISE",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: 2026-08-20T00:00:00Z",
@@ -83,30 +83,30 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "PROCUREMENT: CATERPILLAR TARIFF REFUND",
+            "heading": "EQUIPMENT: TRAILER ORDERS RISE",
             "paragraphs": [
-                "Caterpillar has successfully secured a 392M USD tariff refund as overall duty costs experienced a notable contraction amid shifting trade policies. The substantial capital recovery underscores the financial impact of retroactive duty adjustments and evolving customs enforcement frameworks for heavy manufacturers.",
-                "Global supply chain managers must conduct rigorous audits of historical import entries to identify similar duty recovery opportunities under current trade regulations. Proactive customs management directly enhances cash flow and mitigates structural cost pressures."
+                "U.S. trailer orders defied traditional seasonal expectations by jumping 97% in July, reflecting shifting equipment demand across domestic freight networks. Fleet operators are actively committing capital to hardware modernization despite broader economic and rate uncertainties.",
+                "Motor carriers must carefully balance capital equipment investments against fluctuating spot rates and tightening operating budgets. Strategic fleet renewals help maintain service reliability while preparing operations for future volume recoveries."
             ],
             "imageUrl": "",
-            "nextUpTease": "AVIATION: AMAZON DRONE EXPANSION",
+            "nextUpTease": "RETAIL: WALMART SALES GROWTH",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AVIATION: AMAZON DRONE EXPANSION",
+            "heading": "RETAIL: WALMART SALES GROWTH",
             "paragraphs": [
-                "Amazon is aggressively expanding its Prime Air drone delivery footprint sixfold this year, rolling out autonomous aerial shipping to major metropolitan centers including Atlanta, Chicago, and Cleveland. This strategic network scaling establishes a new benchmark for ultra-fast retail fulfillment and urban logistics automation.",
-                "Traditional parcel carriers and regional distributors must evaluate how autonomous aerial delivery infrastructure impacts same-day fulfillment expectations. Integrating advanced last-mile automation technologies will be essential for maintaining competitive parity in dense consumer markets."
+                "Walmart reported a 24% surge in second-quarter e-commerce sales driven by fast-delivery adoption, though overall comparable sales growth slowed to its lowest pace in six years. Executive leadership noted that consumer spending habits shifted downward when national gas prices breached $4 per gallon in July.",
+                "Retail supply chain networks must calibrate inventory placement and omnichannel fulfillment strategies to navigate cautious consumer behavior. Optimizing localized distribution centers remains vital for preserving retail margins amid soft top-line growth."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
