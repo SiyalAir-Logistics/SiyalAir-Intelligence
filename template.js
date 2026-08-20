@@ -1,80 +1,35 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP",
-        "titleBlue": "FEE",
-        "footerSummary": "Panama Canal priority queue fees surpass $4.6M as geopolitical rerouting intensifies maritime transit bottlenecks."
+        "titleWhite": "PANAMA CANAL DRAFT",
+        "titleBlue": "RESTRICTIONS",
+        "footerSummary": "Panama Canal draft restrictions slash vessel cargo limits as severe regional drought conditions escalate maritime transit bottlenecks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
+            "heading": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker paid a record $4.6M fee to bypass the Panama Canal waiting queue amidst severe regional shipping disruptions. Persistent draft restrictions and geopolitical tensions continue to severely constrain maritime transit capacity across global trade lanes.",
-                "Vessel operators face escalating financial exposure and difficult routing trade-offs to maintain tight delivery schedules. Logistics directors must evaluate premium queue-jump expenses against mounting demurrage costs and delayed cargo delivery timelines."
+                "Amid a worsening regional drought, the Panama Canal authority has enforced strict draft restrictions forcing cargo ships to transit at lighter weights. Persistent low water levels continue to constrain maritime capacity and disrupt scheduling across critical global trade corridors.",
+                "Vessel operators face mounting financial exposure and complex routing trade-offs to manage reduced payload capacities. Supply chain directors must evaluate lighter load limits against rising spot freight rates and potential delivery delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRONE: AMAZON 500 CITY EXPANSION",
+            "nextUpTease": "REGULATION: WISetech competition probe",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TECHNOLOGY: AMAZON DRONE EXPANSION",
+            "heading": "TECHNOLOGY: WISETECH COMPETITION PROBE",
             "paragraphs": [
-                "Amazon is aggressively accelerating its autonomous drone delivery network to span 500 US cities by the end of the year. The massive infrastructural scale-up brings ultrafast aerial fulfillment within reach of tens of millions of residential consumers nationwide.",
-                "Retail supply chains are forced to adapt rapidly to decentralized, aerial last-mile fulfillment models to remain competitive. Traditional courier networks must upgrade automation capabilities to defend market share against compressed delivery windows."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TARIFFS: CANADA 50% DUTY DELAY",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-19T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "TRADE: CANADA TARIFF DELAY",
-            "paragraphs": [
-                "The White House has granted a temporary 3-day reprieve on the proposed 50% tariffs covering Canadian imports while high-stakes trade negotiations continue. Importers and cross-border motor carriers remain on high alert as the administration reviews final trade concessions.",
-                "Supply chain planners must utilize this brief window to audit North American inventory levels and preposition critical components. Prolonged regulatory uncertainty risks severe border congestion and sudden cost spikes for cross-border shippers."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: PA UNLICENSED CDL FINES",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-18T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "REGULATION: PENNSYLVANIA CDL PENALTIES",
-            "paragraphs": [
-                "Pennsylvania state regulators have enacted strict legislation empowering authorities to levy civil penalties up to $25K against unlicensed commercial driver training schools. The enforcement crackdown targets substandard driver preparation to improve overall highway safety standards.",
-                "Motor carriers and fleet operators must rigorously verify the credential compliance of driver recruiting pipelines to avoid vicarious liability. Sourcing drivers from vetted, certified training programs is now essential to mitigate legal and operational risk."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "LOGISTICS: WISETECH ACCC INVESTIGATION",
-            "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "SOFTWARE: WISETECH ACCC SEARCH",
-            "paragraphs": [
-                "Australian competition regulators executed a formal search warrant at logistics software giant WiseTech as part of an ongoing market dominance probe. The investigation follows previous regulatory scrutiny regarding software acquisitions and industry data integration.",
+                "Australian competition regulators executed a formal search warrant at logistics software giant WiseTech as part of an ongoing antitrust market investigation. The sweeping probe follows prior regulatory scrutiny regarding software acquisitions and industry platform integration.",
                 "Enterprise freight forwarders relying on consolidated software ecosystems must monitor potential platform disruptions and licensing shifts. Diversifying technology stacks is critical to ensure operational resilience against third-party vendor investigations."
             ],
             "imageUrl": "",
-            "nextUpTease": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
+            "nextUpTease": "CONTAINERS: HAPAG-LLOYD ZIM DEAL PUSHBACK",
             "tags": [
                 "Source: https://www.freightwaves.com",
                 "Published: 2026-08-19T00:00:00Z",
@@ -82,14 +37,44 @@ const dailyData = {
             ]
         },
         {
-            "id": 6,
-            "heading": "FULFILLMENT: HOME DEPOT EXPRESS RETAIL",
+            "id": 3,
+            "heading": "CONTAINERS: HAPAG-LLOYD ZIM DEAL PUSHBACK",
             "paragraphs": [
-                "Home Depot has successfully rolled out nationwide express delivery within 3 hours or less, leveraging more than 2K retail stores as localized fulfillment nodes. The rapid service covers thousands of SKUs to capture urgent commercial contractor demand.",
+                "International freight forwarders have joined Brazilian authorities and Israeli legislators in voicing strong pushback against the looming Hapag-Lloyd acquisition of Zim. Growing regulatory and industry opposition threatens to delay or derail further consolidation within container liner shipping.",
+                "Carriers and logistics partners must navigate increased uncertainty surrounding service contracts and alliance stability. Shippers are urged to audit carrier diversification strategies to mitigate potential service disruptions resulting from mega-merger reviews."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "SECURITY: INDIAN SEAFARERS HORMUZ PRESSURE",
+            "tags": [
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-19T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "SECURITY: INDIAN SEAFARERS HORMUZ PRESSURE",
+            "paragraphs": [
+                "The Forward Seamen Union of India has reported that shipowners are pressuring crews to transit high-risk zones in the Strait of Hormuz against their explicit wishes. Recent military strikes and vessel seizures have severely escalated safety risks for commercial mariners operating in the Middle East.",
+                "Fleet operators face heightened legal liability and potential crew refusals under maritime labor conventions. Managing routing safety requires balancing urgent delivery timelines against extreme geopolitical and security exposures."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "RETAIL: HOME DEPOT EXPRESS DELIVERY",
+            "tags": [
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-19T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "RETAIL: HOME DEPOT EXPRESS DELIVERY",
+            "paragraphs": [
+                "Home Depot has successfully launched nationwide express delivery within 3 hours or less, leveraging more than 2K U.S. stores as localized fulfillment hubs. The accelerated service covers thousands of SKUs to capture urgent commercial contractor demand.",
                 "Omnichannel retail logistics is undergoing a fundamental structural shift toward decentralized storefront warehousing and fast linehaul execution. Competing distributors must optimize local inventory visibility to match expedited fulfillment benchmarks."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: USMCA AUTOMOTIVE THREAT",
+            "nextUpTease": "LOGISTICS: CHASSIS TARIFF IMPACT",
             "tags": [
                 "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-19T00:00:00Z",
@@ -97,8 +82,23 @@ const dailyData = {
             ]
         },
         {
+            "id": 6,
+            "heading": "LOGISTICS: CHASSIS TARIFF IMPACT",
+            "paragraphs": [
+                "GG Trailers has officially exited the U.S. market following the International Trade Commission decision to impose a 77% countervailing duty on chassis imported through Mexico. The steep import tariff has driven key regional suppliers out of the domestic supply chain.",
+                "Intermodal operators and motor carriers face worsening equipment shortages and higher replacement costs for drayage chassis. Fleet managers must diversify equipment sourcing channels to maintain chassis availability across major port terminals."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CUSTOMS: USMCA AUTOMOTIVE THREAT",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: 2026-08-19T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
             "id": 7,
-            "heading": "AUTOMOTIVE: USMCA UNCERTAINTY RISK",
+            "heading": "CUSTOMS: USMCA AUTOMOTIVE THREAT",
             "paragraphs": [
                 "North American automotive manufacturers face severe strategic disruption as the long-term viability of the United States-Mexico-Canada Agreement comes under intense political scrutiny. Automakers must prepare for potential regional supply chain realignment and reinstated border duties.",
                 "Supply chain directors are re-evaluating tier-1 sourcing footprints across Mexico and Canada to mitigate sudden cross-border tariff exposure. Investing in agile manufacturing networks is vital to survive the potential dismantling of the trade pact."

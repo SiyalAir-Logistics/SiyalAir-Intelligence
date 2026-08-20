@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE",
+        "hookTitle": "PANAMA CANAL DRAFT RESTRICTIONS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
-                "teaserTitle": "DRONE: AMAZON 500 CITY EXPANSION",
+                "headline": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS",
+                "teaserTitle": "TECHNOLOGY: WISETECH COMPETITION PROBE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker paid a record four point six million dollars to bypass the Panama Canal queue. Persistent draft restrictions and regional conflicts continue to constrain global maritime capacity."
+                "narration_line": "Panama Canal draft restrictions are forcing cargo ships to transit at lighter weights due to regional drought. Vessel operators face mounting financial exposure and complex routing trade-offs."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: AMAZON DRONE EXPANSION",
-                "teaserTitle": "TARIFFS: CANADA 50% DUTY DELAY",
+                "headline": "TECHNOLOGY: WISETECH COMPETITION PROBE",
+                "teaserTitle": "CONTAINERS: HAPAG-LLOYD ZIM DEAL PUSHBACK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Amazon is rapidly expanding its autonomous drone delivery network to span five hundred US cities by year end. Retail supply chains must adapt to decentralized aerial fulfillment models."
+                "narration_line": "Australian regulators executed a search warrant at software giant WiseTech in an antitrust probe. Enterprise freight forwarders must monitor platform stability and licensing shifts."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE: CANADA TARIFF DELAY",
-                "teaserTitle": "COMPLIANCE: PA UNLICENSED CDL FINES",
+                "headline": "CONTAINERS: HAPAG-LLOYD ZIM DEAL PUSHBACK",
+                "teaserTitle": "SECURITY: INDIAN SEAFARERS HORMUZ PRESSURE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The White House granted a temporary three day reprieve on proposed fifty percent tariffs for Canadian imports. Importers are using this brief window to audit North American inventory levels."
+                "narration_line": "Freight forwarders and regulators are pushing back against the proposed Hapag-Lloyd acquisition of Zim. Shippers must audit carrier diversification strategies to mitigate service risks."
             },
             {
                 "slide_index": 4,
-                "headline": "REGULATION: PENNSYLVANIA CDL PENALTIES",
-                "teaserTitle": "LOGISTICS: WISETECH ACCC INVESTIGATION",
+                "headline": "SECURITY: INDIAN SEAFARERS HORMUZ PRESSURE",
+                "teaserTitle": "RETAIL: HOME DEPOT EXPRESS DELIVERY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Pennsylvania regulators enacted strict laws allowing civil penalties up to twenty-five thousand dollars against unlicensed CDL schools. Fleets must verify driver training compliance to avoid liability."
+                "narration_line": "Indian seafarers report intense pressure from owners to transit high-risk zones in the Strait of Hormuz. Fleet operators face heightened legal liability and potential crew refusals."
             },
             {
                 "slide_index": 5,
-                "headline": "SOFTWARE: WISETECH ACCC SEARCH",
-                "teaserTitle": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
+                "headline": "RETAIL: HOME DEPOT EXPRESS DELIVERY",
+                "teaserTitle": "LOGISTICS: CHASSIS TARIFF IMPACT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Australian antitrust authorities executed a search warrant at logistics software giant WiseTech during an ongoing probe. Enterprise forwarders must monitor software platform stability."
+                "narration_line": "Home Depot launched nationwide express delivery within three hours using two thousand stores as hubs. Retail logistics is rapidly shifting toward decentralized storefront warehousing."
             },
             {
                 "slide_index": 6,
-                "headline": "FULFILLMENT: HOME DEPOT EXPRESS RETAIL",
-                "teaserTitle": "COMPLIANCE: USMCA AUTOMOTIVE THREAT",
+                "headline": "LOGISTICS: CHASSIS TARIFF IMPACT",
+                "teaserTitle": "CUSTOMS: USMCA AUTOMOTIVE THREAT",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Home Depot launched nationwide express delivery within three hours using over two thousand stores as fulfillment hubs. Retailers are racing to optimize local inventory visibility."
+                "narration_line": "GG Trailers exited the United States market following a seventy-seven percent tariff on Mexican chassis. Intermodal operators now face worsening equipment shortages and higher costs."
             },
             {
                 "slide_index": 7,
-                "headline": "AUTOMOTIVE: USMCA UNCERTAINTY RISK",
+                "headline": "CUSTOMS: USMCA AUTOMOTIVE THREAT",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "North American automakers face severe disruption as the future of the trade agreement faces intense political scrutiny. Manufacturers are re-evaluating sourcing footprints across Mexico."
+                "narration_line": "Automotive manufacturers face severe disruption as the future of the trade agreement is questioned. Supply chain directors are re-evaluating cross-border sourcing footprints across North America."
             },
             {
                 "slide_index": 8,
