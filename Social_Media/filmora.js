@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE SURGES",
-                "teaserTitle": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
-                "visual_caption": "An empty tanker bypassed the Panama Canal queue after paying a record $4.6M fee. Persistent water draft restrictions and regional conflicts continue to inflate maritime operating costs."
+                "headline": "USTR: FORCED LABOR TARIFFS",
+                "teaserTitle": "PORT CONGESTION CRISIS",
+                "visual_caption": "USTR moves ahead with forced labor tariffs on 60 nations as Section 122 expires. Importers face immediate compliance friction and high risk of cargo seizures at the border."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
-                "teaserTitle": "CONTAINERS: GLOBAL PORT CONGESTION",
-                "visual_caption": "Australian regulators executed a search warrant at software giant WiseTech in an ongoing antitrust investigation. Freight forwarders must monitor potential platform disruptions and diversify their technology stacks."
+                "headline": "MARITIME: PORT CONGESTION CRISIS",
+                "teaserTitle": "CANADA TARIFF DELAY",
+                "visual_caption": "Severe port congestion removes 1.7M TEU of global container capacity. Shippers face slot scarcity and rising freight rates as scheduling reliability continues to drop."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINERS: GLOBAL PORT CONGESTION",
-                "teaserTitle": "SECURITY: HORMUZ STRAIT SEAFARER PRESSURE",
-                "visual_caption": "Persistent port congestion is removing 1.7M TEU of capacity from active circulation. Ocean carriers are deploying new surcharges to offset extended transit delays."
+                "headline": "TRADE: CANADA TARIFF DELAY",
+                "teaserTitle": "CDL ENFORCEMENT PENALTIES",
+                "visual_caption": "A 3-day delay on 50% Canada tariffs highlights extreme trade volatility. Cross-border networks must remain flexible to absorb sudden regulatory shifts and cost spikes."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: HORMUZ STRAIT SEAFARER PRESSURE",
-                "teaserTitle": "RETAIL: HOME DEPOT EXPRESS EXPANSION",
-                "visual_caption": "The Forward Seamen Union of India reports owners are pressuring crews to transit high-risk zones in Hormuz. Fleet operators face heightened legal liability and extreme geopolitical security exposures."
+                "headline": "TRUCKING: CDL ENFORCEMENT PENALTIES",
+                "teaserTitle": "HORMUZ TRANSIT RISK",
+                "visual_caption": "Pennsylvania imposes $25K fines on unlicensed CDL training schools. This enforcement will tighten driver supply while raising professional safety and certification standards."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL: HOME DEPOT EXPRESS EXPANSION",
-                "teaserTitle": "LOGISTICS: US CHASSIS DUTY EXIT",
-                "visual_caption": "Home Depot launched nationwide express delivery using over 2K stores as fulfillment hubs. Omnichannel distributors must optimize local inventory visibility to match expedited fulfillment benchmarks."
+                "headline": "SECURITY: HORMUZ TRANSIT RISK",
+                "teaserTitle": "TRAILER ORDER SURGE",
+                "visual_caption": "Seafarers report mounting pressure to transit the high-risk Strait of Hormuz. Rerouting costs are rising as Iranian vessel seizures reach a critical operational threshold."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS: US CHASSIS DUTY EXIT",
-                "teaserTitle": "CUSTOMS: USTR TARIFF IMPLEMENTATION",
-                "visual_caption": "GG Trailers exited the U.S. market after a 77% countervailing duty was imposed on Mexican chassis. Motor carriers face worsening equipment shortages and higher replacement costs."
+                "headline": "EQUIPMENT: TRAILER ORDER SURGE",
+                "teaserTitle": "MINI-BID STRATEGY SHIFT",
+                "visual_caption": "Trailer orders jump 97% as carriers secure assets ahead of 2027 emissions rules. Fleet modernization is now a priority to mitigate future equipment shortages and downtime."
             },
             {
                 "slide_index": 7,
-                "headline": "CUSTOMS: USTR TARIFF IMPLEMENTATION",
-                "teaserTitle": "",
-                "visual_caption": "The USTR is advancing Section 301 tariffs across 60 trading partner nations. Importers must urgently review commodity classifications to mitigate sudden cross-border compliance costs."
+                "headline": "PROCUREMENT: MINI-BID STRATEGY SHIFT",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "Short-term mini-bids are replacing annual RFPs to capture shrinking truck capacity. Data-driven procurement is essential to navigate volatile spot rates and carrier shifts."
             },
             {
                 "slide_index": 8,

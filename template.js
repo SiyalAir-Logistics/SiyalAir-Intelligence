@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL FEE TOPS",
-        "titleBlue": "4.6M",
-        "footerSummary": "Panama Canal queue-jump fees surge past 4.6M USD as geopolitical rerouting intensifies maritime congestion and inflates vessel operating costs globally."
+        "titleWhite": "FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR implements forced labor tariffs on 60 nations, while port congestion removes 1.7M TEU of global capacity, inflating cross-border compliance costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE SURGES",
+            "heading": "USTR: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker will cut the Panama Canal transit queue next week after paying a record 4.6M USD fee. Persistent regional water draft restrictions and Middle East conflict rerouting have compounded maritime bottlenecks across critical global trade corridors.",
-                "Vessel operators face mounting financial exposure and complex scheduling trade-offs to bypass escalating terminal congestion. Supply chain directors must evaluate steep priority fees against rising spot freight rates and critical delivery delays."
+                "The USTR is moving forward with forced labor-based tariffs on 60 trading partners following the expiration of Section 122 exemptions. This regulatory shift introduces immediate compliance friction for importers managing Tier 2 and Tier 3 sourcing networks.",
+                "Logistics professionals must execute comprehensive supply chain audits to mitigate the risk of cargo seizures at U.S. ports. The strategic cost of non-compliance now includes both heavy financial penalties and indefinite inventory detention."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
+            "nextUpTease": "MARITIME: PORT CONGESTION CRISIS",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com/article/ustr_moves_ahead_with_forced_labor_based_tariffs",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
+            "heading": "MARITIME: PORT CONGESTION CRISIS",
             "paragraphs": [
-                "Australian competition regulators executed a formal search warrant at logistics software giant WiseTech as part of an ongoing antitrust market investigation. The sweeping regulatory probe follows prior scrutiny regarding enterprise software acquisitions and platform integration.",
-                "Freight forwarders relying on consolidated software ecosystems must monitor potential platform disruptions and licensing shifts. Diversifying technology stacks is critical to ensure operational resilience against third-party vendor investigations."
+                "Persistent global port congestion has effectively removed 1.7M TEU of container shipping capacity from the active market. Major carriers are reporting significant scheduling delays as vessel bunching at hub terminals disrupts weekly service loops.",
+                "Shippers face rising slot scarcity and higher contract rates as equipment imbalances worsen across Asian and European corridors. Strategic inventory positioning is required to offset extended lead times and volatile carrier reliability."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINERS: GLOBAL PORT CONGESTION",
+            "nextUpTease": "TRADE: CANADA TARIFF DELAY",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://theloadstar.com/global-port-congestion-keeping-1.7m-teu-of-capacity-out-of-the-market/",
                 "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CONTAINERS: GLOBAL PORT CONGESTION",
+            "heading": "TRADE: CANADA TARIFF DELAY",
             "paragraphs": [
-                "Persistent global port congestion is effectively removing 1.7M TEU of container shipping capacity from active circulation. Major ocean carriers are experiencing severe scheduling delays and vessel bunching across key international hub terminals.",
-                "Supply chain managers must factor tightened box availability and extended transit lead times into inventory planning. Carriers are deploying additional surcharges to offset the rising operational costs of idle fleet capacity."
+                "President Trump has delayed the implementation of 50% tariffs on Canadian imports for a period of 3 days to facilitate ongoing trade negotiations. This temporary reprieve highlights the extreme volatility currently governing North American cross-border logistics.",
+                "Supply chain managers must maintain high-frequency monitoring of tariff status to adjust landed cost calculations in real-time. The risk of sudden 50% cost increases necessitates flexible routing and rapid nearshoring evaluations."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: HORMUZ STRAIT SEAFARER PRESSURE",
+            "nextUpTease": "TRUCKING: CDL ENFORCEMENT PENALTIES",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.supplychaindive.com/news/trump-delays-50-canada-tariffs-3-days/724589/",
+                "Published: 2026-08-19T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SECURITY: HORMUZ STRAIT SEAFARER PRESSURE",
+            "heading": "TRUCKING: CDL ENFORCEMENT PENALTIES",
             "paragraphs": [
-                "The Forward Seamen Union of India reports that shipowners are pressuring mariners to transit high-risk zones in the Strait of Hormuz against their explicit wishes. Recent military strikes and vessel seizures have severely escalated safety risks for commercial crews operating in the Middle East.",
-                "Fleet operators face heightened legal liability and potential crew refusals under maritime labor conventions. Managing routing safety requires balancing urgent delivery timelines against extreme geopolitical and security exposures."
+                "A new Pennsylvania law authorizes regulators to impose civil penalties of up to $25,000 on unlicensed commercial driver training schools. This legislative crackdown targets fraudulent certification practices that have compromised safety standards within the driver labor pool.",
+                "Fleet operators must verify the accreditation of all entry-level driver training providers to ensure compliance with federal safety mandates. Stricter licensing enforcement is expected to tighten driver availability while improving long-term road safety metrics."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: HOME DEPOT EXPRESS EXPANSION",
+            "nextUpTease": "SECURITY: HORMUZ TRANSIT RISK",
             "tags": [
-                "Source: https://maritime-executive.com",
+                "Source: https://www.ttnews.com/articles/pennsylvania-cdl-schools",
                 "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RETAIL: HOME DEPOT EXPRESS EXPANSION",
+            "heading": "SECURITY: HORMUZ TRANSIT RISK",
             "paragraphs": [
-                "Home Depot has successfully launched nationwide express delivery within 3 hours or less, leveraging more than 2K U.S. stores as localized fulfillment hubs. The accelerated service covers thousands of SKUs to capture urgent commercial contractor demand.",
-                "Omnichannel retail logistics is undergoing a fundamental structural shift toward decentralized storefront warehousing and fast linehaul execution. Competing distributors must optimize local inventory visibility to match expedited fulfillment benchmarks."
+                "The Forward Seamen Union of India reports that shipowners are pressuring mariners to transit the high-risk Strait of Hormuz despite escalating Iranian vessel seizures. Military strikes and detentions in the region have reached a critical threshold for commercial maritime safety.",
+                "Operators face mounting legal liability and potential crew refusals as geopolitical tensions remain elevated. Supply chain directors must evaluate the financial burden of Suez Canal rerouting against the extreme risk of asset loss in the Middle East."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: US CHASSIS DUTY EXIT",
+            "nextUpTease": "EQUIPMENT: TRAILER ORDER SURGE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://maritime-executive.com/article/indian-seafarers-complain-of-pressure-to-transit-strait-of-hormuz",
+                "Published: 2026-08-19T16:24:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LOGISTICS: US CHASSIS DUTY EXIT",
+            "heading": "EQUIPMENT: TRAILER ORDER SURGE",
             "paragraphs": [
-                "GG Trailers has officially exited the U.S. market following the International Trade Commission decision to impose a 77% countervailing duty on chassis imported through Mexico. The steep import tariff has driven key regional suppliers out of the domestic supply chain.",
-                "Intermodal operators and motor carriers face worsening equipment shortages and higher replacement costs for drayage chassis. Fleet managers must diversify equipment sourcing channels to maintain chassis availability across major port terminals."
+                "U.S. trailer orders surged 97% in July as carriers aggressively prepare for 2027 emissions regulations and potential capacity shortages. This spike in equipment investment signals a strategic pivot toward fleet modernization amidst rising operational costs.",
+                "Logistics providers are securing equipment now to avoid future price hikes and lead-time extensions driven by regulatory manufacturing shifts. Maintaining a young fleet age is critical for ensuring compliance and minimizing maintenance-related downtime."
             ],
             "imageUrl": "",
-            "nextUpTease": "CUSTOMS: USTR TARIFF IMPLEMENTATION",
+            "nextUpTease": "PROCUREMENT: MINI-BID STRATEGY SHIFT",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ttnews.com/articles/us-trailer-orders-july-2026",
                 "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "CUSTOMS: USTR TARIFF IMPLEMENTATION",
+            "heading": "PROCUREMENT: MINI-BID STRATEGY SHIFT",
             "paragraphs": [
-                "The Office of the United States Trade Representative announced it is moving forward with the implementation of tariffs on 60 nations under Section 301 of the Trade Act of 1974. Importers must urgently review commodity classifications to mitigate sudden border compliance costs.",
-                "Supply chain directors are realigning global sourcing networks to absorb broad tariff expansions without eroding operating margins. Proactive customs auditing is essential to prevent costly clearance delays and regulatory penalties."
+                "Shippers are increasingly utilizing mini-bids and short-term contracts to manage widening capacity gaps as trucking rates climb. This departure from the traditional annual RFP cycle allow's for more precise alignment with volatile market spot pricing.",
+                "Strategic procurement teams are prioritizing flexibility over long-term rate stability to navigate shifting carrier availability. Successful bid management now requires real-time data integration to capture target capacity in a tightening freight market."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.joc.com/article/use-mini-bids-blowing-shippers-seek-shrinking-truck-capacity",
                 "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
