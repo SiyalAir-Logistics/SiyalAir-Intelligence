@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES FORWARD WITH FORCED LABOR TARIFFS",
+        "hookTitle": "CK HUTCHISON SEEKS ONE POINT FIVE BILLION IN DAMAGES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS",
-                "teaserTitle": "OIL: CRUDE SURGE THREATENS BUNKER",
+                "headline": "GLOBAL GATEWAYS: CK HUTCHISON DAMAGES",
+                "teaserTitle": "INFRASTRUCTURE: MALAYSIA PORT CAPACITY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is advancing new tariffs on sixty nations under section three hundred and one. Importers face strict compliance checks that threaten to disrupt cross-border supply chains."
+                "narration_line": "CK Hutchison is seeking one point five billion dollars in damages from Panama over seized port terminals. This legal dispute highlights growing risks across international maritime infrastructure."
             },
             {
                 "slide_index": 2,
-                "headline": "FUEL: OIL PRICES SURGE",
-                "teaserTitle": "CONTAINERS: ZIM Q2 REVENUE",
+                "headline": "INFRASTRUCTURE: MALAYSIA PORT CAPACITY",
+                "teaserTitle": "CONTAINER SHIPPING: HAPAG ROTTERDAM STAKE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Brent crude jumped one point eight percent to ninety-three dollars per barrel amid escalating tensions with Iran. Fleet operators must update fuel surcharges to protect carrier operating margins."
+                "narration_line": "Malaysian ports are under pressure to accelerate infrastructure upgrades to handle surging trade volumes. Regional hubs must expand capacity to prevent severe vessel congestion."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: ZIM Q2 REVENUE",
-                "teaserTitle": "AVIATION: AMAZON DRONE EXPANSION",
+                "headline": "CONTAINER SHIPPING: HAPAG ROTTERDAM STAKE",
+                "teaserTitle": "INLAND WATERWAYS: RHINE LOW WATER CRISIS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Zim posted strong quarterly revenue of one point eight billion dollars on rising transpacific volumes. Meanwhile, Brazilian regulators have placed strict scrutiny on its proposed merger."
+                "narration_line": "Hapag-Lloyd is acquiring a twenty-five percent stake in a major Rotterdam terminal to secure capacity. The move strengthens hub-and-spoke operations across European gateway routes."
             },
             {
                 "slide_index": 4,
-                "headline": "PROCUREMENT: AMAZON DRONE EXPANSION",
-                "teaserTitle": "RAIL: SMUGGLING CASE ARREST",
+                "headline": "INLAND WATERWAYS: RHINE LOW WATER CRISIS",
+                "teaserTitle": "WAREHOUSING: GXO OUTSOURCING GROWTH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Amazon is expanding its Prime Air drone delivery network across major metropolitan hubs this year. This autonomous infrastructure sets a new standard for fast retail fulfillment."
+                "narration_line": "Low water levels on the Rhine river are severely restricting commercial barge traffic capacity. Shippers must adopt multi-modal transport plans to avoid severe supply chain delays."
             },
             {
                 "slide_index": 5,
-                "headline": "RAILROAD: CONTAINER SMUGGLING CASE",
-                "teaserTitle": "EQUIPMENT: TRAILER ORDERS RISE",
+                "headline": "WAREHOUSING: GXO OUTSOURCING GROWTH",
+                "teaserTitle": "PORT VOLUMES: LOS ANGELES JULY THROUGHPUT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Federal authorities arrested suspects linked to an intermodal container smuggling investigation. Rail shippers now face heightened security inspections and terminal delays."
+                "narration_line": "GXO Logistics reports surging demand for outsourced warehousing solutions among global cargo owners. Flexible third-party facilities help organizations manage complex inventory volatility."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT: TRAILER ORDERS RISE",
-                "teaserTitle": "RETAIL: WALMART SALES GROWTH",
+                "headline": "PORT VOLUMES: LOS ANGELES JULY THROUGHPUT",
+                "teaserTitle": "FLEET EXPANSION: NAVIOS VLCC SPEND",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "U.S. trailer orders defied seasonal expectations with a ninety-seven percent jump in July. Carriers are actively investing in hardware modernization despite rate volatility."
+                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand units in July despite slight normalization. Strong import volumes reflect sustained inventory replenishment for peak retail seasons."
             },
             {
                 "slide_index": 7,
-                "headline": "RETAIL: WALMART SALES GROWTH",
+                "headline": "FLEET EXPANSION: NAVIOS VLCC SPEND",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Walmart posted twenty-four percent e-commerce growth even as comparable sales slowed significantly. Retailers must optimize local inventory to protect fulfillment margins."
+                "narration_line": "Navios Maritime Partners has pushed newbuild spending past eight hundred forty million dollars. This fleet expansion highlights confidence in long-term global crude transportation demand."
             },
             {
                 "slide_index": 8,

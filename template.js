@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR MOVES FORWARD WITH FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR advances forced labor tariffs on 60 nations as Section 301 acts, escalating global trade compliance and margin risks."
+        "titleWhite": "CK HUTCHISON SEEKS 1.5B IN",
+        "titleBlue": "DAMAGES",
+        "footerSummary": "CK Hutchison targets 1.5B in damages from Panama over seized port terminals as global trade disputes escalate margin pressures."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "USTR: FORCED LABOR TARIFFS",
+            "heading": "GLOBAL GATEWAYS: CK HUTCHISON DAMAGES",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially moved forward with implementing restrictive tariffs targeting 60 trading partners under Section 301. This regulatory shift enforces strict compliance measures against supply chains tied to forced labor, creating immediate customs hurdles for importers.",
-                "Supply chain leaders must audit sourcing networks across affected jurisdictions to avoid severe import delays and unexpected financial liabilities. Maintaining rigorous traceability protocols is now vital to secure cross-border inventory flows and protect landed operating margins."
+                "CK Hutchison has officially initiated legal action seeking 1.5B USD in damages from Panama, alleging that recent terminal seizures violated key investment protection treaties. The high-stakes dispute underscores growing instability across critical maritime chokepoints and regional logistics infrastructure.",
+                "Supply chain executives must re-evaluate gateway dependencies and contractual risk exposures as state-level interventions threaten established container routing networks. Protecting maritime assets requires proactive legal and operational contingency planning to prevent sudden cargo diversion delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "OIL: CRUDE SURGE THREATENS BUNKER",
+            "nextUpTease": "PORT INFRASTRUCTURE: MALAYSIA EXPANSION",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.supplychainbrain.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FUEL: OIL PRICES SURGE",
+            "heading": "INFRASTRUCTURE: MALAYSIA PORT CAPACITY",
             "paragraphs": [
-                "International benchmark Brent crude surged 1.8% to $93.24 per barrel amid escalating U.S. pressure and threats directed at Iran. The rapid spike in crude values directly compresses carrier operating margins and drives up immediate transportation overhead.",
-                "Fleet operators and logistics buyers must immediately reassess fuel surcharge mechanisms to insulate bottom lines against sustained energy volatility. Proactive bunker cost management remains critical as geopolitical tensions continue to disrupt global petroleum markets."
+                "Malaysian port authorities have been formally urged to accelerate infrastructure modernization to absorb surging intra-Asia shipping volumes. Without rapid terminal expansion, regional hubs face severe vessel bunching and extended dwell times that threaten transit reliability.",
+                "Carriers and freight forwarders must factor regional port congestion into scheduling models to safeguard transit times and prevent unexpected demurrage costs. Upgraded facilities remain vital for maintaining efficient cargo flow throughout competitive Asian maritime lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "CONTAINERS: ZIM Q2 REVENUE",
+            "nextUpTease": "MARITIME LOGISTICS: HAPAG ROTTERDAM STAKE",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME: ZIM Q2 REVENUE",
+            "heading": "CONTAINER SHIPPING: HAPAG ROTTERDAM STAKE",
             "paragraphs": [
-                "Zim posted solid financial results for the second quarter, generating $1.8B in revenue and returning to profitability on strengthening transpacific volumes. However, the carrier's broader strategic positioning faces mounting headwinds as Brazilian competition regulators subject its proposed merger to deep scrutiny.",
-                "Ocean freight procurement managers must evaluate potential structural changes in carrier alliances and service reliability as regulatory scrutiny intensifies. Diversifying vessel contracts helps mitigate schedule disruption risks stemming from prolonged merger reviews."
+                "Hapag-Lloyd has agreed to acquire a 25% stake in a major Rotterdam box terminal to anchor its upcoming Gemini network hub-and-spoke strategy. This strategic acquisition aims to secure guaranteed terminal capacity and optimize vessel turnaround times across European gateways.",
+                "Ocean freight procurement teams should monitor how carrier-controlled terminal stakes impact slot allocation and schedule reliability during peak operational cycles. Aligning with carriers investing in dedicated hub infrastructure helps insulate supply chains from port bottlenecks."
             ],
             "imageUrl": "",
-            "nextUpTease": "AVIATION: AMAZON DRONE EXPANSION",
+            "nextUpTease": "RIVER TRANSPORT: RHINE LOW WATER",
             "tags": [
-                "Source: https://www.maritime-executive.com",
-                "Published: 2026-08-19T10:41:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "PROCUREMENT: AMAZON DRONE EXPANSION",
+            "heading": "INLAND WATERWAYS: RHINE LOW WATER CRISIS",
             "paragraphs": [
-                "Amazon is aggressively expanding its Prime Air drone delivery footprint sixfold this year to encompass major metropolitan markets like Atlanta, Chicago, and Cleveland. This rapid scaling establishes an advanced benchmark for last-mile delivery velocity and urban logistics automation.",
-                "Traditional parcel carriers and regional distributors must adapt their fulfillment models to compete with autonomous aerial delivery infrastructure. Integrating advanced last-mile technology is essential for maintaining competitive parity in dense consumer sectors."
+                "Persistent low water levels on the Rhine river are severely disrupting commercial barge traffic, driven by decades of delayed infrastructure modernization. The navigational crisis forces operators to implement light-loading protocols, immediately shrinking effective cargo capacity.",
+                "European shippers relying on inland waterway transport must establish multi-modal contingency plans and secure auxiliary trucking capacity early. Proactive inventory buffering is essential to prevent severe manufacturing slowdowns during seasonal draft restrictions."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: SMUGGLING CASE ARREST",
+            "nextUpTease": "AIR CARGO: GXO WAREHOUSE OUTSOURCING",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "RAILROAD: CONTAINER SMUGGLING CASE",
+            "heading": "WAREHOUSING: GXO OUTSOURCING GROWTH",
             "paragraphs": [
-                "A federal investigation into Union Pacific intermodal container smuggling linked to a tragic border incident has resulted in high-profile surrenders to authorities. This enforcement action highlights heightened security oversight targeting cross-border rail networks and freight security compliance.",
-                "Rail shippers face elevated risks of border terminal inspections and extended dwell times as law enforcement tightens intermodal corridor controls. Strengthening digital cargo tracking and vendor verification protocols is critical to prevent illicit supply chain exploitation."
+                "GXO Logistics reports accelerated demand for third-party warehousing solutions as cargo owners prioritize operational scalability and risk mitigation. Shippers are increasingly migrating fixed facility investments toward flexible outsourced models to absorb demand volatility.",
+                "Supply chain leaders must weigh the capital efficiency of outsourced fulfillment against the loss of direct operational control in proprietary facilities. Strategic 3PL partnerships provide essential elasticity for managing complex omnichannel inventory flows."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: TRAILER ORDERS RISE",
+            "nextUpTease": "PORT OPERATIONS: LOS ANGELES VOLUME",
             "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://theloadstar.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "EQUIPMENT: TRAILER ORDERS RISE",
+            "heading": "PORT VOLUMES: LOS ANGELES JULY THROUGHPUT",
             "paragraphs": [
-                "U.S. trailer orders defied traditional seasonal expectations by jumping 97% in July, reflecting shifting equipment demand across domestic freight networks. Fleet operators are actively committing capital to hardware modernization despite broader economic and rate uncertainties.",
-                "Motor carriers must carefully balance capital equipment investments against fluctuating spot rates and tightening operating budgets. Strategic fleet renewals help maintain service reliability while preparing operations for future volume recoveries."
+                "The Port of Los Angeles processed 960K TEU in July, marking the second-busiest July in its history despite a minor 5.8% annual normalization. Strong import volumes reflect sustained inventory replenishment as retailers prepare for upcoming peak consumer seasons.",
+                "Importers must maintain close visibility over West Coast marine terminal gate operations and chassis availability to avoid unexpected drayage delays. Early coordination with drayage carriers ensures smooth cargo evacuation as container volumes remain elevated."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: WALMART SALES GROWTH",
+            "nextUpTease": "FREIGHT EQUIPMENT: NAVIOS VLCC INVESTMENT",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RETAIL: WALMART SALES GROWTH",
+            "heading": "FLEET EXPANSION: NAVIOS VLCC SPEND",
             "paragraphs": [
-                "Walmart reported a 24% surge in second-quarter e-commerce sales driven by fast-delivery adoption, though overall comparable sales growth slowed to its lowest pace in six years. Executive leadership noted that consumer spending habits shifted downward when national gas prices breached $4 per gallon in July.",
-                "Retail supply chain networks must calibrate inventory placement and omnichannel fulfillment strategies to navigate cautious consumer behavior. Optimizing localized distribution centers remains vital for preserving retail margins amid soft top-line growth."
+                "Navios Maritime Partners has pushed its recent VLCC newbuild investment past 840M USD with the addition of three scrubber-fitted supertankers. This aggressive fleet expansion highlights strong carrier confidence in long-term global crude transportation demand.",
+                "Energy shippers and charterers must evaluate evolving tanker supply fundamentals and environmental compliance costs when securing long-term freight contracts. Strategic vessel partnerships help insulate petroleum supply chains from future tonnage constraints."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
+                "Source: https://splash247.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
