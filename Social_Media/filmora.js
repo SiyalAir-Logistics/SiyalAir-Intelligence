@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "USTR: FORCED LABOR TARIFFS ON 60 COUNTRIES",
-                "teaserTitle": "MARITIME: ROTTERDAM TERMINAL STAKE",
-                "visual_caption": "The USTR is implementing Section 301 tariffs across 60 nations. Importers must audit supply chains immediately to avoid severe customs detentions."
+                "headline": "MARITIME: TANKERS U-TURN IN HORMUZ",
+                "teaserTitle": "PORT: PANAMA CANAL QUEUE FEES",
+                "visual_caption": "Chinese crude tankers executed sudden U-turns in the Strait of Hormuz amid rising security tensions. Shipping lines face mounting operational uncertainty and escalating voyage risks across critical maritime lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: ROTTERDAM TERMINAL STAKE",
-                "teaserTitle": "FUEL: BRENT CRUDE SURGE",
-                "visual_caption": "Hapag-Lloyd has acquired a 25% equity stake in a Rotterdam container terminal. The strategic move secures critical European gateway handling capacity."
+                "headline": "PORT: PANAMA CANAL QUEUE FEES",
+                "teaserTitle": "FLEET: NAVIOS SUPERTANKER SPEND",
+                "visual_caption": "The Panama Canal queue-jump fee surged to a record $4.6M for a single tanker transit. Ongoing draft restrictions and high demand continue to compress shipper operating margins."
             },
             {
                 "slide_index": 3,
-                "headline": "FUEL: BRENT CRUDE SURGE",
-                "teaserTitle": "LOGISTICS: SALARY BENCHMARK REBOUND",
-                "visual_caption": "Brent crude prices surged 2.5% following rising Middle East geopolitical tensions. The sharp fuel escalation will immediately drive higher global transport surcharges."
+                "headline": "FLEET: NAVIOS SUPERTANKER SPEND",
+                "teaserTitle": "LAST MILE: HOME DEPOT EXPRESS DELIVERY",
+                "visual_caption": "Navios Maritime Partners added 3 more scrubber-fitted supertankers in a $361.5M deal. The capital-intensive expansion reflects strong long-term confidence in crude transport assets."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: SALARY BENCHMARK REBOUND",
+                "headline": "LAST MILE: HOME DEPOT EXPRESS DELIVERY",
                 "teaserTitle": "EQUIPMENT: TRAILER ORDERS SURGE",
-                "visual_caption": "Supply chain salaries have rebounded to an average of $126.4K. Corporate organizations are elevating logistics leadership roles to manage complex risks."
+                "visual_caption": "Home Depot launched a nationwide express delivery service promising fulfillment in under 3 hours. The model utilizes over 2K local stores as micro-distribution hubs."
             },
             {
                 "slide_index": 5,
                 "headline": "EQUIPMENT: TRAILER ORDERS SURGE",
                 "teaserTitle": "COMPLIANCE: CHASSIS DUTY FALLOUT",
-                "visual_caption": "Net U.S. trailer orders experienced a dramatic 97% year-over-year increase in July. Motor carriers are aggressively upgrading aging over-the-road equipment fleets."
+                "visual_caption": "Net U.S. trailer orders jumped 97% in July as motor carriers upgraded aging fleets. Fleet executives are committing vital capital to secure assets ahead of volume spikes."
             },
             {
                 "slide_index": 6,
                 "headline": "COMPLIANCE: CHASSIS DUTY FALLOUT",
-                "teaserTitle": "LAST MILE: DRONE EXPANSION TARGETS",
-                "visual_caption": "GG Trailers has exited the U.S. market following a 77% countervailing duty on Mexican imports. Drayage providers now face acute intermodal equipment shortages."
+                "teaserTitle": "AIR CARGO: ECOMMERCE DUTY IMPACTS",
+                "visual_caption": "GG Trailers exited the market after a 77% countervailing duty hit cross-border chassis imports. Drayage operators now face acute equipment shortages across major North American hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "LAST MILE: DRONE EXPANSION TARGETS",
+                "headline": "AIR CARGO: ECOMMERCE DUTY IMPACTS",
                 "teaserTitle": "",
-                "visual_caption": "Amazon plans to expand autonomous drone delivery operations to 500 cities this year. This technology rollout compresses last-mile delivery times for qualifying parcels."
+                "visual_caption": "Air cargo rates and volumes slumped following European duty-free tax reforms on low-value parcels. Logistics providers must restructure pricing models to adapt to shifting regulatory costs."
             },
             {
                 "slide_index": 8,
