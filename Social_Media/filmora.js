@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PROCUREMENT: CATERPILLAR TARIFF REFUND",
-                "teaserTitle": "MARITIME: PANAMA CANAL SURCHARGES",
-                "visual_caption": "Caterpillar secured a $392M tariff refund after a customs review. This financial recovery highlights how manufacturers recapture duties amidst shifting trade policies."
+                "headline": "GLOBAL GATEWAYS: CK HUTCHISON PANAMA CLAIM",
+                "teaserTitle": "MARITIME: PANAMA CANAL QUEUE JUMP",
+                "visual_caption": "CK Hutchison files a $1.5B claim against Panama. This legal escalation intensifies terminal operating risks across major global gateways."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL SURCHARGES",
-                "teaserTitle": "LOGISTICS: AMAZON DRONE EXPANSION",
-                "visual_caption": "Ocean carriers are implementing steep new surcharges due to Panama Canal draft restrictions. Low water levels force vessels to lighten loads, constraining regional capacity."
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP",
+                "teaserTitle": "FUEL: BRENT CRUDE OIL SURGE",
+                "visual_caption": "An empty tanker bypassed the Panama Canal queue after paying $4.6M. Record priority fees highlight rising transport costs amid draft restrictions."
             },
             {
                 "slide_index": 3,
-                "headline": "LOGISTICS: AMAZON DRONE EXPANSION",
-                "teaserTitle": "EQUIPMENT: U S TRAILER ORDERS",
-                "visual_caption": "Amazon is scaling its Prime Air drone delivery network across major metropolitan areas. This expansion bypasses urban ground traffic to accelerate delivery speeds."
+                "headline": "FUEL: BRENT CRUDE OIL SURGE",
+                "teaserTitle": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
+                "visual_caption": "International Brent crude surged 1.8% to $93.24 per barrel. Geopolitical pressures on Iran continue to elevate bunker fuel expenses."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: U S TRAILER ORDERS",
-                "teaserTitle": "FUEL: OIL PRICES SURGE ON IRAN",
-                "visual_caption": "Net U.S. trailer orders surged 97% in July as motor carriers modernize fleets. Fleet executives are rushing to secure manufacturing slots ahead of freight volume surges."
+                "headline": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
+                "teaserTitle": "FINANCIAL: ZIM Q2 RESULTS AND HAPAG",
+                "visual_caption": "Australian regulators executed search warrants at logistics software giant WiseTech. The ongoing antitrust probe introduces operational uncertainty for forwarders."
             },
             {
                 "slide_index": 5,
-                "headline": "FUEL: OIL PRICES SURGE ON IRAN",
-                "teaserTitle": "FINANCIAL: ZIM Q2 REVENUE RESULTS",
-                "visual_caption": "Brent crude surged 1.8% to $93.24 as geopolitical tensions heighten shipping risks. Commercial fleet operators face immediate upward pressure on bunker fuel expenses."
+                "headline": "FINANCIAL: ZIM Q2 RESULTS AND HAPAG",
+                "teaserTitle": "EQUIPMENT: U S TRAILER ORDERS",
+                "visual_caption": "Zim reported solid Q2 profits while facing regulatory scrutiny over its merger. Brazilian authorities have launched a thorough review of the Hapag-Lloyd deal."
             },
             {
                 "slide_index": 6,
-                "headline": "FINANCIAL: ZIM Q2 REVENUE RESULTS",
-                "teaserTitle": "TECHNOLOGY: WISETECH SEARCH WARRANT",
-                "visual_caption": "Zim generated $1.78B in revenue during the second quarter, returning to profitability. Strong quarterly cash flows provide balance sheet flexibility amid regulatory scrutiny."
+                "headline": "EQUIPMENT: U S TRAILER ORDERS",
+                "teaserTitle": "AVIATION: AIR CARGO RATE DIPS",
+                "visual_caption": "Net U.S. trailer orders jumped 97% in July. Motor carriers are aggressively upgrading fleets ahead of projected autumnal freight volume surges."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: WISETECH SEARCH WARRANT",
+                "headline": "AVIATION: AIR CARGO RATE DIPS",
                 "teaserTitle": "",
-                "visual_caption": "Australian regulators executed a search warrant at logistics software giant WiseTech. The antitrust probe introduces operational uncertainty for dependent freight forwarders."
+                "visual_caption": "Global air cargo spot rates dipped as trade volumes softened. Forwarders must optimize modal mixes to protect operating margins in a fluctuating market."
             },
             {
                 "slide_index": 8,
