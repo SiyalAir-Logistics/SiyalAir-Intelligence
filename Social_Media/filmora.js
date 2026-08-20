@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M",
-                "teaserTitle": "MARITIME: VLCC MARKET ENTERS STOP PRESS TERRITORY",
-                "visual_caption": "An empty tanker paid $4.6M to bypass the Panama Canal queue. Severe drought conditions and regional conflicts continue to drive up transit costs."
+                "headline": "MARITIME: VLCC MARKET ENTERS STOP PRESS TERRITORY",
+                "teaserTitle": "PORTS: CK HUTCHISON PILES 1.5B CLAIM ON PANAMA",
+                "visual_caption": "The VLCC market has surged into overdrive as spot rates climb east and west of Suez. Intensified Chinese crude buying and tightening vessel availability have created extreme tanker conditions."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: VLCC MARKET ENTERS STOP PRESS TERRITORY",
-                "teaserTitle": "TRADE: US DE MINIMIS ELIMINATION UPHELD",
-                "visual_caption": "The VLCC market has surged into overdrive as rates spike across Suez routes. High Chinese crude buying and security crises are tightening vessel availability."
+                "headline": "PORTS: CK HUTCHISON PILES 1.5B CLAIM ON PANAMA",
+                "teaserTitle": "AVIATION: AMAZON EXPANDS DRONE DELIVERY REACH",
+                "visual_caption": "CK Hutchison opened a new legal front in its Panama dispute by launching international arbitration seeking >$1.5B. The claim targets the loss of concession investments at key canal terminals."
             },
             {
                 "slide_index": 3,
-                "headline": "TRADE: US DE MINIMIS ELIMINATION UPHELD",
-                "teaserTitle": "TECHNOLOGY: ACCC RAIDS WISETECH IN COMPETITION PROBE",
-                "visual_caption": "The court upheld presidential authority to rescind tariff exemptions for sub-$800 imports. Importers must overhaul entry filing processes and absorb higher clearance costs."
+                "headline": "AVIATION: AMAZON EXPANDS DRONE DELIVERY REACH",
+                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS RISE 97%",
+                "visual_caption": "Amazon announced plans to scale its autonomous drone delivery network coverage to 500 cities by year end. This expansion allocates massive capital into localized last-mile fulfillment assets."
             },
             {
                 "slide_index": 4,
-                "headline": "TECHNOLOGY: ACCC RAIDS WISETECH IN COMPETITION PROBE",
-                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS RISE 97%",
-                "visual_caption": "Australian regulators executed an unexpected search warrant at logistics software giant WiseTech. The sudden raid introduces operational software uncertainty for enterprise supply chains."
+                "headline": "EQUIPMENT: US TRAILER ORDERS RISE 97%",
+                "teaserTitle": "LOGISTICS: GLOBAL PORT CONGESTION KEEPS 1.7M TEU OUT",
+                "visual_caption": "U.S. trailer orders surged 97% in July according to the latest industry data. Motor carriers are actively committing capital to upgrade aging over-the-road equipment assets."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: US TRAILER ORDERS RISE 97%",
-                "teaserTitle": "PORTS: CK HUTCHISON LAUNCHES 1.5B PANAMA ARBITRATION",
-                "visual_caption": "U.S. trailer orders surged 97% in July as carriers upgrade aging assets. Fleets are actively expanding network capacity ahead of peak shipping seasons."
+                "headline": "LOGISTICS: GLOBAL PORT CONGESTION KEEPS 1.7M TEU OUT",
+                "teaserTitle": "TRADE: US TO HALVE TARIFFS ON CANADA STEEL",
+                "visual_caption": "Worldwide port congestion is effectively removing 1.7M TEU of container capacity from active circulation. Bottlenecks at major hubs continue to disrupt published sailing schedules."
             },
             {
                 "slide_index": 6,
-                "headline": "PORTS: CK HUTCHISON LAUNCHES 1.5B PANAMA ARBITRATION",
-                "teaserTitle": "AVIATION: AMAZON EXPANDS DRONE DELIVERY REACH",
-                "visual_caption": "CK Hutchison launched a $1.5B international arbitration over Panama port concessions. Escalating legal battles threaten terminal stability in Central America."
+                "headline": "TRADE: US TO HALVE TARIFFS ON CANADA STEEL",
+                "teaserTitle": "REGULATION: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
+                "visual_caption": "The United States is moving to halve proposed tariffs on Canadian steel and aluminum imports following trade negotiations. The adjustment aims to ease cost pressures on North American manufacturing."
             },
             {
                 "slide_index": 7,
-                "headline": "AVIATION: AMAZON EXPANDS DRONE DELIVERY REACH",
+                "headline": "REGULATION: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
                 "teaserTitle": "",
-                "visual_caption": "Amazon plans to expand its autonomous drone delivery network to 500 cities this year. This rapid scaling accelerates automated last-mile fulfillment infrastructure."
+                "visual_caption": "Pennsylvania regulators are enforcing a new law that imposes penalties of up to $25K on unlicensed CDL schools. The measure targets substandard training to improve commercial driving safety."
             },
             {
                 "slide_index": 8,
