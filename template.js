@@ -1,65 +1,80 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR MOVES FORCED LABOR TARIFFS ON",
-        "titleBlue": "60",
-        "footerSummary": "USTR implements Section 301 tariffs across 60 nations, tightening cross-border compliance and forcing shippers to audit foreign supply chain sourcing immediately."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
+        "titleBlue": "4.6M",
+        "footerSummary": "Panama Canal queue jump fee hits $4.6M as conflict reroutes global shipping, forcing operators to absorb steep premiums and adjust routing."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "REGULATORY: FORCED LABOR TARIFFS ON 60",
+            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially moved forward with the implementation of strict tariffs on 60 trading nations under Section 301 of the Trade Act of 1974. This sweeping regulatory enforcement targets goods linked to forced labor practices, creating immediate border compliance bottlenecks for importers.",
-                "Shippers must absorb aggressive customs friction and reevaluate multi-tier supplier transparency to avoid steep financial penalties and port delays. Supply chain executives need to deploy automated audit protocols across international vendor networks immediately."
+                "An empty liquefied petroleum gas tanker paid $4.6M to jump the Panama Canal queue, marking the highest publicly reported priority fee to date. Worsening regional drought conditions and ongoing Middle East conflicts have compounded vessel delays across key international trade lanes.",
+                "Vessel operators face difficult routing trade-offs and higher per-unit transit costs as capacity limitations push more cargo onto alternative modes. Logistics managers must budget for substantial draft surcharges and longer transit lead times to maintain delivery schedules."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: PANAMA CARGO WEIGHT LIMITS",
+            "nextUpTease": "MARITIME: VLCC MARKET ENTERS STOP PRESS TERRITORY",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: PANAMA CARGO WEIGHT LIMITS",
+            "heading": "MARITIME: VLCC MARKET ENTERS STOP PRESS TERRITORY",
             "paragraphs": [
-                "Worsening regional drought conditions have forced the Panama Canal Authority to restrict transiting cargo ships to significantly lighter weights. This operational constraint reduces vessel payload capacities and compounds voyage scheduling delays across key global trade lanes.",
-                "Vessel operators face difficult routing trade-offs and higher per-unit transit costs as capacity limitations push more cargo onto alternative modes. Logistics managers must budget for substantial draft surcharges and longer transit lead times."
+                "The very large crude carrier market has surged into overdrive as rates spike simultaneously east and west of Suez. Strong Chinese crude buying combined with tightening vessel availability and Middle East security crises have produced extraordinary tanker market conditions.",
+                "Charterers face extreme freight inflation and intense competition for remaining open tonnage as geopolitical tensions restrict optimal routing. Fleet managers must secure long-term capacity agreements quickly to insulate operational budgets from volatile spot market swings."
             ],
             "imageUrl": "",
-            "nextUpTease": "TECHNOLOGY: WISETECH COMPETITION RAID",
+            "nextUpTease": "TRADE: US DE MINIMIS ELIMINATION UPHELD",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-19T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "TECHNOLOGY: WISETECH COMPETITION RAID",
-            "paragraphs": [
-                "The Australian Competition and Consumer Commission executed an unexpected search warrant at logistics software giant WiseTech as part of an ongoing market investigation. The sudden regulatory raid introduces operational software uncertainty for enterprise supply chains relying on the platform.",
-                "Software interruptions of this scale force users to scrutinize vendor stability and evaluate contingency workflows for core transportation management systems. Shippers must assess digital architecture vulnerabilities to prevent potential software downtime from stalling freight execution."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "TRUCKING: PENNSYLVANIA CDL FINES",
-            "tags": [
-                "Source: https://www.freightwaves.com",
+                "Source: https://splash247.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 4,
-            "heading": "TRUCKING: PENNSYLVANIA CDL FINES",
+            "id": 3,
+            "heading": "TRADE: US DE MINIMIS ELIMINATION UPHELD",
             "paragraphs": [
-                "Pennsylvania regulators are enforcing a new state law that imposes civil penalties of up to $25K on unlicensed commercial driver training schools. This legislative crackdown aims to eliminate sub-standard educational providers and improve overall safety compliance across regional fleets.",
-                "The elimination of non-compliant training programs may temporarily constrict the local pipeline of qualified new drivers entering the commercial labor market. Motor carriers operating in the region must verify the accreditation status of their driver pipelines to avoid secondary liabilities."
+                "The Court of International Trade upheld presidential authority to rescind tariff exemptions for sub-$800 imports, securing the complete elimination of de minimis entry. This judicial ruling removes low-value tax loopholes and subjects high-volume direct-to-consumer parcel shipments to strict customs review.",
+                "E-commerce importers must overhaul entry filing processes and absorb higher clearance costs across cross-border parcels. Supply chain executives need to re-examine inventory holding strategies to offset rising duties on low-value international merchandise."
             ],
             "imageUrl": "",
-            "nextUpTease": "AVIATION: AMAZON DRONE SCALE",
+            "nextUpTease": "TECHNOLOGY: ACCC RAIDS WISTECH IN COMPETITION PROBE",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-13T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "TECHNOLOGY: ACCC RAIDS WISETECH IN COMPETITION PROBE",
+            "paragraphs": [
+                "The Australian Competition and Consumer Commission executed an unexpected search warrant at logistics software giant WiseTech as part of an ongoing market investigation. The sudden regulatory raid introduces operational software uncertainty for enterprise supply chains relying on the platform.",
+                "Software interruptions of this scale force users to scrutinize vendor stability and evaluate contingency workflows for core transportation management systems. Shippers must assess digital architecture vulnerabilities to prevent potential software downtime from stalling freight execution."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "EQUIPMENT: US TRAILER ORDERS RISE 97%",
+            "tags": [
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-19T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
+            "heading": "EQUIPMENT: US TRAILER ORDERS RISE 97%",
+            "paragraphs": [
+                "U.S. trailer orders surged 97% in July according to the latest industry data, signaling a sharp rebound in fleet capital equipment investments. Motor carriers are actively committing capital to upgrade aging over-the-road assets and expand network capacity ahead of peak shipping seasons.",
+                "Capital expenditure increases reflect carrier confidence but require careful cash flow management amidst fluctuating freight rate environments. Fleet directors must balance equipment replenishment timelines against maintenance cost reductions to optimize return on investment."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PORTS: CK HUTCHISON LAUNCHES 1.5B PANAMA ARBITRATION",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-19T00:00:00Z",
@@ -67,47 +82,32 @@ const dailyData = {
             ]
         },
         {
-            "id": 5,
-            "heading": "AVIATION: AMAZON DRONE SCALE",
-            "paragraphs": [
-                "Amazon announced plans to aggressively expand its autonomous drone delivery network reach to 500 cities by the end of the year. This rapid scaling reflects major capital investments in last-mile fulfillment infrastructure designed to bypass urban road congestion.",
-                "The proliferation of commercial drone delivery alters last-mile fulfillment expectations and forces traditional parcel carriers to accelerate their own automation initiatives. Retail supply chain planners must evaluate how aerial fulfillment integration impacts local distribution center placement."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "SECURITY: HORMUZ CREW PRESSURES",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-19T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
             "id": 6,
-            "heading": "SECURITY: HORMUZ CREW PRESSURES",
+            "heading": "PORTS: CK HUTCHISON LAUNCHES 1.5B PANAMA ARBITRATION",
             "paragraphs": [
-                "The Forward Seamen Union of India reported that shipowners are pressuring crews to transit the high-risk Strait of Hormuz against their explicit safety wishes. This contentious operating environment follows recent military engagements and ongoing regional security threats in key Middle Eastern waters.",
-                "Forcing vessel transits through active conflict zones exposes operators to severe liability, crew attrition, and catastrophic asset loss risks. Cargo owners must track maritime routing decisions closely to prevent supply chain disruptions stemming from crew safety refusals."
+                "CK Hutchison opened a major new legal front in its dispute with Panama by launching international arbitration seeking over $1.5B in damages. The claim targets the loss of concession investments at the Balboa and Cristobal container terminals located at both ends of the canal.",
+                "Escalating legal battles over critical gateway infrastructure threaten long-term operational stability and terminal concession agreements in Central America. Global carriers using the region must monitor ownership disputes closely to mitigate potential terminal handling disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "TERMINALS: ROTTERDAM STAKE BUY",
+            "nextUpTease": "AVIATION: AMAZON EXPANDS DRONE DELIVERY REACH",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TERMINALS: ROTTERDAM STAKE BUY",
+            "heading": "AVIATION: AMAZON EXPANDS DRONE DELIVERY REACH",
             "paragraphs": [
-                "Hapag-Lloyd has acquired a strategic 25% stake in Maersk's Rotterdam container terminal facility to cement dedicated handling capacity in Europe. This ownership realignment deepens inter-carrier cooperation as major lines maneuver to control critical gateway infrastructure.",
-                "Consolidating terminal access alters competitive dynamics and may restrict independent carrier scheduling flexibility at major European transshipment hubs. Regional shippers must review service contract terms to ensure equitable terminal access and avoid priority handling bottlenecks."
+                "Amazon announced aggressive plans to scale its autonomous drone delivery network coverage to 500 cities by the end of the year. This rapid expansion reflects massive capital allocation into localized last-mile fulfillment assets designed to bypass dense urban road congestion.",
+                "The rapid proliferation of commercial drone networks forces traditional parcel carriers to accelerate their own automated fulfillment strategies. Supply chain planners must evaluate how aerial last-mile integration impacts urban distribution center networks and real estate footprints."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

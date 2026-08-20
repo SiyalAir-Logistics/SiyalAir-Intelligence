@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "USTR MOVES FORCED LABOR TARIFFS ON SIXTY",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATORY: FORCED LABOR TARIFFS ON 60",
-                "teaserTitle": "MARITIME: PANAMA CARGO WEIGHT LIMITS",
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M",
+                "teaserTitle": "MARITIME: VLCC MARKET ENTERS STOP PRESS TERRITORY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The United States Trade Representative is implementing Section three oh one tariffs across sixty trading nations. Shippers must audit foreign supply chain sourcing immediately to prevent border delays."
+                "narration_line": "An empty tanker paid four point six million dollars to bypass the Panama Canal queue. Severe drought conditions and regional conflicts continue to drive up transit costs."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CARGO WEIGHT LIMITS",
-                "teaserTitle": "TECHNOLOGY: WISETECH COMPETITION RAID",
+                "headline": "MARITIME: VLCC MARKET ENTERS STOP PRESS TERRITORY",
+                "teaserTitle": "TRADE: US DE MINIMIS ELIMINATION UPHELD",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Worsening drought conditions are forcing the Panama Canal to restrict vessels to lighter weights. This operational constraint reduces capacity and increases transit costs."
+                "narration_line": "The very large crude carrier market has surged into overdrive as rates spike across Suez routes. High Chinese crude buying and security crises are tightening vessel availability."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHNOLOGY: WISETECH COMPETITION RAID",
-                "teaserTitle": "TRUCKING: PENNSYLVANIA CDL FINES",
+                "headline": "TRADE: US DE MINIMIS ELIMINATION UPHELD",
+                "teaserTitle": "TECHNOLOGY: ACCC RAIDS WISETECH IN COMPETITION PROBE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Australian regulators executed a search warrant at software giant WiseTech during an ongoing investigation. Users must evaluate contingency workflows for core transport systems."
+                "narration_line": "The court upheld presidential authority to rescind tariff exemptions for sub eight hundred dollar imports. Importers must overhaul entry filing processes and absorb higher clearance costs."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: PENNSYLVANIA CDL FINES",
-                "teaserTitle": "AVIATION: AMAZON DRONE SCALE",
+                "headline": "TECHNOLOGY: ACCC RAIDS WISETECH IN COMPETITION PROBE",
+                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS RISE 97%",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Pennsylvania regulators are enforcing new civil penalties of up to twenty-five thousand dollars on unlicensed schools. Motor carriers must verify driver training pipeline accreditations."
+                "narration_line": "Australian regulators executed an unexpected search warrant at logistics software giant WiseTech. The sudden raid introduces operational software uncertainty for enterprise supply chains."
             },
             {
                 "slide_index": 5,
-                "headline": "AVIATION: AMAZON DRONE SCALE",
-                "teaserTitle": "SECURITY: HORMUZ CREW PRESSURES",
+                "headline": "EQUIPMENT: US TRAILER ORDERS RISE 97%",
+                "teaserTitle": "PORTS: CK HUTCHISON LAUNCHES 1.5B PANAMA ARBITRATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon plans to expand its drone delivery network reach to five hundred cities this year. This scaling reflects major investments in autonomous last-mile fulfillment infrastructure."
+                "narration_line": "United States trailer orders surged ninety-seven percent in July as carriers upgrade aging assets. Fleets are actively expanding network capacity ahead of peak shipping seasons."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: HORMUZ CREW PRESSURES",
-                "teaserTitle": "TERMINALS: ROTTERDAM STAKE BUY",
+                "headline": "PORTS: CK HUTCHISON LAUNCHES 1.5B PANAMA ARBITRATION",
+                "teaserTitle": "AVIATION: AMAZON EXPANDS DRONE DELIVERY REACH",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Union officials report shipowners are pressuring crews to transit high-risk Middle Eastern waters. Cargo owners must track maritime routing decisions to avoid severe disruptions."
+                "narration_line": "CK Hutchison launched a one point five billion dollar international arbitration over Panama port concessions. Escalating legal battles threaten terminal stability in Central America."
             },
             {
                 "slide_index": 7,
-                "headline": "TERMINALS: ROTTERDAM STAKE BUY",
+                "headline": "AVIATION: AMAZON EXPANDS DRONE DELIVERY REACH",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Hapag-Lloyd has acquired a twenty-five percent stake in a major Rotterdam container terminal facility. This ownership realignment deepens inter-carrier cooperation across European gateways."
+                "narration_line": "Amazon plans to expand its autonomous drone delivery network to five hundred cities this year. This rapid scaling accelerates automated last-mile fulfillment infrastructure."
             },
             {
                 "slide_index": 8,
