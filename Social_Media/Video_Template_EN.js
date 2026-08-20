@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL FEE HITS FOUR MILLION DOLLARS",
+        "hookTitle": "USTR MOVES FORCED LABOR TARIFFS ON SIXTY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: CANAL QUEUE JUMP FEE",
-                "teaserTitle": "REGULATORY: CHASSIS DUTIES EXIT",
+                "headline": "REGULATORY: FORCED LABOR TARIFFS ON 60",
+                "teaserTitle": "MARITIME: PANAMA CARGO WEIGHT LIMITS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker paid four point six million dollars to jump the Panama Canal queue. Severe draft restrictions are driving up premium slot costs across global shipping lanes."
+                "narration_line": "The United States Trade Representative is implementing Section three oh one tariffs across sixty trading nations. Shippers must audit foreign supply chain sourcing immediately to prevent border delays."
             },
             {
                 "slide_index": 2,
-                "headline": "REGULATORY: CHASSIS DUTIES EXIT",
-                "teaserTitle": "TECHNOLOGY: WISETECH COMPETITION PROBE",
+                "headline": "MARITIME: PANAMA CARGO WEIGHT LIMITS",
+                "teaserTitle": "TECHNOLOGY: WISETECH COMPETITION RAID",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "GG Trailers is exiting the US market after a seventy-seven percent tariff was imposed on Mexican chassis. This regulatory shift tightens domestic equipment availability for motor carriers."
+                "narration_line": "Worsening drought conditions are forcing the Panama Canal to restrict vessels to lighter weights. This operational constraint reduces capacity and increases transit costs."
             },
             {
                 "slide_index": 3,
-                "headline": "TECHNOLOGY: WISETECH COMPETITION PROBE",
-                "teaserTitle": "TRUCKING: PENNSYLVANIA CDL LAW",
+                "headline": "TECHNOLOGY: WISETECH COMPETITION RAID",
+                "teaserTitle": "TRUCKING: PENNSYLVANIA CDL FINES",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Australian regulators executed a search warrant at software giant WiseTech during a competition probe. Enterprise users now face unexpected operational uncertainty across their management systems."
+                "narration_line": "Australian regulators executed a search warrant at software giant WiseTech during an ongoing investigation. Users must evaluate contingency workflows for core transport systems."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: PENNSYLVANIA CDL LAW",
-                "teaserTitle": "AVIATION: AMAZON DRONE EXPANSION",
+                "headline": "TRUCKING: PENNSYLVANIA CDL FINES",
+                "teaserTitle": "AVIATION: AMAZON DRONE SCALE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Pennsylvania enacted a new law imposing twenty-five thousand dollar penalties on unlicensed driving schools. The measure aims to clean up sub-standard driver education across regional fleets."
+                "narration_line": "Pennsylvania regulators are enforcing new civil penalties of up to twenty-five thousand dollars on unlicensed schools. Motor carriers must verify driver training pipeline accreditations."
             },
             {
                 "slide_index": 5,
-                "headline": "AVIATION: AMAZON DRONE EXPANSION",
-                "teaserTitle": "SECURITY: HORMUZ TRANSIT PRESSURES",
+                "headline": "AVIATION: AMAZON DRONE SCALE",
+                "teaserTitle": "SECURITY: HORMUZ CREW PRESSURES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon announced plans to expand its drone delivery network reach to five hundred cities this year. Autonomous last-mile fulfillment is scaling rapidly to bypass urban road congestion."
+                "narration_line": "Amazon plans to expand its drone delivery network reach to five hundred cities this year. This scaling reflects major investments in autonomous last-mile fulfillment infrastructure."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: HORMUZ TRANSIT PRESSURES",
-                "teaserTitle": "TERMINALS: ROTTERDAM STAKE ACQUISITION",
+                "headline": "SECURITY: HORMUZ CREW PRESSURES",
+                "teaserTitle": "TERMINALS: ROTTERDAM STAKE BUY",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Seamen unions report shipowners are pressuring crews to transit the high-risk Strait of Hormuz. Operating in active conflict zones exposes carriers to severe safety and liability risks."
+                "narration_line": "Union officials report shipowners are pressuring crews to transit high-risk Middle Eastern waters. Cargo owners must track maritime routing decisions to avoid severe disruptions."
             },
             {
                 "slide_index": 7,
-                "headline": "TERMINALS: ROTTERDAM STAKE ACQUISITION",
+                "headline": "TERMINALS: ROTTERDAM STAKE BUY",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Hapag-Lloyd acquired a twenty-five percent stake in Maersk's Rotterdam container terminal. This ownership move consolidates handling priority at major European transshipment gateways."
+                "narration_line": "Hapag-Lloyd has acquired a twenty-five percent stake in a major Rotterdam container terminal facility. This ownership realignment deepens inter-carrier cooperation across European gateways."
             },
             {
                 "slide_index": 8,
