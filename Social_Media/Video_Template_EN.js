@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "VLCC MARKET ENTERS STOP PRESS TERRITORY",
+        "hookTitle": "USTR LAUNCHES SECTION 301 FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: VLCC MARKET ENTERS STOP PRESS TERRITORY",
-                "teaserTitle": "PORTS: CK HUTCHISON PILES 1.5B CLAIM ON PANAMA",
+                "headline": "USTR: FORCED LABOR 301 TARIFFS",
+                "teaserTitle": "TRADE: ITC 77% CHASSIS DUTIES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The very large crude carrier market has surged into overdrive as spot rates climb east and west of Suez. Intensified Chinese crude buying and tightening vessel availability have created extreme tanker conditions."
+                "narration_line": "The United States Trade Representative is rolling out Section three oh one tariffs on sixty trade partners. Importers face aggressive compliance audits and rising clearance overhead across major ports."
             },
             {
                 "slide_index": 2,
-                "headline": "PORTS: CK HUTCHISON PILES 1.5B CLAIM ON PANAMA",
-                "teaserTitle": "AVIATION: AMAZON EXPANDS DRONE DELIVERY REACH",
+                "headline": "TRADE: ITC 77% CHASSIS DUTIES",
+                "teaserTitle": "REGULATION: ACCC RAIDS WISETECH PREMISES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CK Hutchison opened a new legal front in its Panama dispute by launching international arbitration seeking over one point five billion dollars. The claim targets the loss of concession investments at key canal terminals."
+                "narration_line": "Mexican supplier G G Trailers exited the United States market following a seventy-seven percent countervailing duty. Intermodal operators must diversify equipment supply lines before peak season container volumes rise."
             },
             {
                 "slide_index": 3,
-                "headline": "AVIATION: AMAZON EXPANDS DRONE DELIVERY REACH",
-                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS RISE 97%",
+                "headline": "REGULATION: ACCC RAIDS WISETECH PREMISES",
+                "teaserTitle": "AIR CARGO: EU DE MINIMIS REFORM",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Amazon announced plans to scale its autonomous drone delivery network coverage to five hundred cities by year end. This expansion allocates massive capital into localized last-mile fulfillment assets."
+                "narration_line": "Australian regulators executed a search warrant at software firm WiseTech over competition concerns. Global freight forwarders should review contract risk as software consolidation faces severe government scrutiny."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: US TRAILER ORDERS RISE 97%",
-                "teaserTitle": "LOGISTICS: GLOBAL PORT CONGESTION KEEPS 1.7M TEU OUT",
+                "headline": "AIR CARGO: EU DE MINIMIS REFORM",
+                "teaserTitle": "INLAND: RHINE LOW WATER BARGE CRISIS",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "U.S. trailer orders surged ninety-seven percent in July according to the latest industry data. Motor carriers are actively committing capital to upgrade aging over-the-road equipment assets."
+                "narration_line": "European air freight demand slowed significantly after regulators scrapped the tax-free de minimis import threshold. Cross-border sellers must now establish regional clearance hubs to manage mandatory value-added taxes."
             },
             {
                 "slide_index": 5,
-                "headline": "LOGISTICS: GLOBAL PORT CONGESTION KEEPS 1.7M TEU OUT",
-                "teaserTitle": "TRADE: US TO HALVE TARIFFS ON CANADA STEEL",
+                "headline": "INLAND: RHINE LOW WATER BARGE CRISIS",
+                "teaserTitle": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Worldwide port congestion is effectively removing one point seven million teus of container capacity from active circulation. Bottlenecks at major hubs continue to disrupt published sailing schedules."
+                "narration_line": "Low water levels along the Rhine River have severely disrupted European commercial barge traffic. Shippers are redirecting heavy bulk cargo onto strained regional rail and road networks."
             },
             {
                 "slide_index": 6,
-                "headline": "TRADE: US TO HALVE TARIFFS ON CANADA STEEL",
-                "teaserTitle": "REGULATION: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
+                "headline": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY AT 7.3%",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The United States is moving to halve proposed tariffs on Canadian steel and aluminum imports following trade negotiations. The adjustment aims to ease cost pressures on North American manufacturing."
+                "narration_line": "Home Depot launched three-hour delivery across two thousand retail store locations nationwide. Competing building distributors must accelerate local store fulfillment to protect key professional customer contracts."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
-                "teaserTitle": "",
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY AT 7.3%",
+                "teaserTitle": "LIVE INTELLIGENCE",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Pennsylvania regulators are enforcing a new law that imposes penalties of up to twenty-five thousand dollars on unlicensed CDL schools. The measure targets substandard training to improve commercial driving safety."
+                "narration_line": "United States industrial real estate vacancy fell to seven point three percent in the second quarter. Logistics operators should secure warehouse footprint early as lease concessions tighten across prime hubs."
             },
             {
                 "slide_index": 8,

@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: VLCC MARKET ENTERS STOP PRESS TERRITORY",
-                "teaserTitle": "PORTS: CK HUTCHISON PILES 1.5B CLAIM ON PANAMA",
-                "visual_caption": "The VLCC market has surged into overdrive as spot rates climb east and west of Suez. Intensified Chinese crude buying and tightening vessel availability have created extreme tanker conditions."
+                "headline": "USTR: FORCED LABOR 301 TARIFFS",
+                "teaserTitle": "TRADE: ITC 77% CHASSIS DUTIES",
+                "visual_caption": "USTR is rolling out Section 301 tariffs on 60 trade partners to target forced labor. Importers face aggressive compliance audits and rising clearance overhead across major ports."
             },
             {
                 "slide_index": 2,
-                "headline": "PORTS: CK HUTCHISON PILES 1.5B CLAIM ON PANAMA",
-                "teaserTitle": "AVIATION: AMAZON EXPANDS DRONE DELIVERY REACH",
-                "visual_caption": "CK Hutchison opened a new legal front in its Panama dispute by launching international arbitration seeking >$1.5B. The claim targets the loss of concession investments at key canal terminals."
+                "headline": "TRADE: ITC 77% CHASSIS DUTIES",
+                "teaserTitle": "REGULATION: ACCC RAIDS WISETECH PREMISES",
+                "visual_caption": "Mexican supplier GG Trailers exited the US market following a 77% countervailing duty. Intermodal operators must diversify equipment supply lines before peak season container volumes rise."
             },
             {
                 "slide_index": 3,
-                "headline": "AVIATION: AMAZON EXPANDS DRONE DELIVERY REACH",
-                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS RISE 97%",
-                "visual_caption": "Amazon announced plans to scale its autonomous drone delivery network coverage to 500 cities by year end. This expansion allocates massive capital into localized last-mile fulfillment assets."
+                "headline": "REGULATION: ACCC RAIDS WISETECH PREMISES",
+                "teaserTitle": "AIR CARGO: EU DE MINIMIS REFORM",
+                "visual_caption": "Australian regulators executed a search warrant at software firm WiseTech over competition concerns. Global freight forwarders should review contract risk as software consolidation faces severe government scrutiny."
             },
             {
                 "slide_index": 4,
-                "headline": "EQUIPMENT: US TRAILER ORDERS RISE 97%",
-                "teaserTitle": "LOGISTICS: GLOBAL PORT CONGESTION KEEPS 1.7M TEU OUT",
-                "visual_caption": "U.S. trailer orders surged 97% in July according to the latest industry data. Motor carriers are actively committing capital to upgrade aging over-the-road equipment assets."
+                "headline": "AIR CARGO: EU DE MINIMIS REFORM",
+                "teaserTitle": "INLAND: RHINE LOW WATER BARGE CRISIS",
+                "visual_caption": "European air freight demand slowed significantly after regulators scrapped the tax-free de minimis import threshold. Cross-border sellers must now establish regional clearance hubs to manage mandatory VAT."
             },
             {
                 "slide_index": 5,
-                "headline": "LOGISTICS: GLOBAL PORT CONGESTION KEEPS 1.7M TEU OUT",
-                "teaserTitle": "TRADE: US TO HALVE TARIFFS ON CANADA STEEL",
-                "visual_caption": "Worldwide port congestion is effectively removing 1.7M TEU of container capacity from active circulation. Bottlenecks at major hubs continue to disrupt published sailing schedules."
+                "headline": "INLAND: RHINE LOW WATER BARGE CRISIS",
+                "teaserTitle": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
+                "visual_caption": "Low water levels along the Rhine River have severely disrupted European commercial barge traffic. Shippers are redirecting heavy bulk cargo onto strained regional rail and road networks."
             },
             {
                 "slide_index": 6,
-                "headline": "TRADE: US TO HALVE TARIFFS ON CANADA STEEL",
-                "teaserTitle": "REGULATION: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
-                "visual_caption": "The United States is moving to halve proposed tariffs on Canadian steel and aluminum imports following trade negotiations. The adjustment aims to ease cost pressures on North American manufacturing."
+                "headline": "FULFILLMENT: HOME DEPOT 3-HOUR DELIVERY",
+                "teaserTitle": "REAL ESTATE: INDUSTRIAL VACANCY AT 7.3%",
+                "visual_caption": "Home Depot launched 3-hour delivery across 2,000 retail store locations nationwide. Competing building distributors must accelerate local store fulfillment to protect key professional customer contracts."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
-                "teaserTitle": "",
-                "visual_caption": "Pennsylvania regulators are enforcing a new law that imposes penalties of up to $25K on unlicensed CDL schools. The measure targets substandard training to improve commercial driving safety."
+                "headline": "REAL ESTATE: INDUSTRIAL VACANCY AT 7.3%",
+                "teaserTitle": "LIVE INTELLIGENCE",
+                "visual_caption": "US industrial real estate vacancy fell to 7.3% in Q2 as tenant demand stabilized. Logistics operators should secure warehouse footprint early as lease concessions tighten across prime hubs."
             },
             {
                 "slide_index": 8,
