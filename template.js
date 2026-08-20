@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL DRAFT",
-        "titleBlue": "RESTRICTIONS",
-        "footerSummary": "Panama Canal draft restrictions push queue-jump fees to $4.6M while container lines hike surcharges, exacerbating global maritime congestion."
+        "titleWhite": "HUDONG ZHONGHUA EXPANDS SHIPYARD",
+        "titleBlue": "CAPACITY",
+        "footerSummary": "Chinese and Japanese shipyards launch aggressive expansion drives to capture record orderbooks, squeezing global maritime capacity and driving up newbuilding costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL RESTRICTIONS",
+            "heading": "SHIPYARDS: HUDONG ZHONGHUA EXPANSION",
             "paragraphs": [
-                "Amid a worsening regional drought, the Panama Canal authority has restricted cargo ships to lighter weights, compounding slot scarcity and vessel delays across global trade lanes. Ocean carriers such as MSC and CMA CGM are actively raising emergency surcharges to offset the operational friction caused by ongoing water draft limits.",
-                "An empty liquefied petroleum gas tanker recently paid a record $4.6M queue-jump fee to bypass the bottleneck, underscoring the extreme financial lengths operators must take to maintain transit schedules. Supply chain managers face surging spot rates and compressed delivery windows as critical maritime infrastructure struggles with environmental constraints."
+                "China's Hudong Zhonghua Shipbuilding is accelerating the expansion of its Changxing Island facilities by extending its No.2 drydock by 220 m. This aggressive infrastructure push comes as major Asian shipyards race to capture an unprecedented surge in global vessel newbuilding orders.",
+                "The capacity race threatens to inflate capital expenditure for ocean carriers while tightening availability across key construction berths. Fleet operators must lock in long-term vessel delivery slots early to mitigate escalating asset acquisition costs."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFFS: US SHADOW TRANSHIPMENT",
+            "nextUpTease": "SHIPYARDS: JAPAN DOCK CONSTRUCTION",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/ocean-carriers-raise-fees-panama-canal-draft-restrictions/724590/",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://splash247.com/hudong-zhonghua-details-expansion-plans/",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "TARIFFS: US SHADOW TRANSHIPMENT",
+            "heading": "SHIPYARDS: JAPAN DOCK CONSTRUCTION",
             "paragraphs": [
-                "The White House has formally alleged that more than 40 countries, including key manufacturing hubs like Singapore and Vietnam, are participating in a global shadow transshipment network designed to evade U.S. tariffs. This regulatory crackdown threatens to disrupt established sourcing routes and trigger aggressive customs audits on cross-border shipments.",
-                "Importers must execute immediate tier-one through tier-three vendor reviews to verify the true origin of component parts and finished goods. Failure to establish end-to-end provenance exposes organizations to severe cargo seizures, heavy financial penalties, and protracted border delays."
+                "Namura Shipbuilding is moving forward with plans to construct Japan's first large shipbuilding dock in nearly a decade. The strategic infrastructure project supports a broader government-backed initiative to revitalize the nation's competitive standing in global commercial maritime manufacturing.",
+                "The introduction of new dock capacity provides alternative sourcing options for shipowners navigating crowded Chinese orderbooks. However, prolonged construction timelines mean immediate relief for tight global vessel supply remains limited."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: US CHASSIS DUTIES",
+            "nextUpTease": "PORTS: ANTWERP BRUGES INVESTMENT",
             "tags": [
-                "Source: https://theloadstar.com/us-alleges-global-shadow-transhipment-network-conspiracy-to-evade-tariffs/",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://splash247.com/japan-to-construct-first-large-shipbuilding-dock-since-2017/",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "COMPLIANCE: US CHASSIS DUTIES",
+            "heading": "PORTS: ANTWERP BRUGES INVESTMENT",
             "paragraphs": [
-                "GG Trailers has officially exited the U.S. market following the International Trade Commission\u2019s decision to impose a 77% countervailing duty on chassis imported through Mexico. This punitive tariff structure has effectively eliminated a major cross-border equipment supplier, tightening domestic intermodal chassis availability.",
-                "Motor carriers and equipment leasing companies must re-evaluate their asset replacement strategies in the face of soaring equipment acquisition costs. Sourcing alternatives must be established quickly to prevent regional shortages from inflating drayage rates and delaying port evacuations."
+                "The Port of Antwerp Bruges has secured a massive \u20ac500M funding package to fuel an ambitious \u20ac5B strategic investment drive. The capital injection targets critical terminal upgrades, digital automation, and heavy infrastructure modernization to handle rising container volumes.",
+                "Port executives are prioritizing efficiency gains to prevent recurring landside congestion and maintain fluidity for intermodal freight operators. Shippers routing cargo through European gateways should evaluate how these terminal enhancements impact dwell times and handling tariffs."
             ],
             "imageUrl": "",
-            "nextUpTease": "SECURITY: HORMUZ MARITIME PRESSURES",
+            "nextUpTease": "CARRIERS: HAPAG LLOYD ROTTERDAM STAKE",
             "tags": [
-                "Source: https://www.joc.com/article/us-chassis-duties-drive-out-mexican-supplier",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://splash247.com/antwerp-bruges-secures-e500m-for-e5bn-investment-drive/",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SECURITY: HORMUZ MARITIME PRESSURES",
+            "heading": "CARRIERS: HAPAG LLOYD ROTTERDAM STAKE",
             "paragraphs": [
-                "The Forward Seamen\u2019s Union of India has reported that shipowners are aggressively pressuring crews to transit the high-risk Strait of Hormuz despite recent kinetic strikes and ongoing detentions. This operational pressure persists even as three Chinese tankers execute abrupt U-turns to avoid escalating conflict zones in the Middle East.",
-                "Vessel operators face severe legal liability under maritime labor conventions if crew safety rights are violated in pursuit of transit continuity. Logistics executives must balance the high cost of African cape-rounding diversions against the catastrophic risk of asset seizure and crew endangerment."
+                "Hapag-Lloyd has acquired a strategic 25% stake in Maersk's Rotterdam container terminal facility, deepening operational ties between major ocean carrier networks. This financial maneuver secures dedicated berth access and aligns terminal handling priorities amidst ongoing global supply chain volatility.",
+                "Competing ocean carriers and cargo owners must monitor potential terminal preference shifts that could influence container turnaround speeds at key European transshipment hubs. Securing guaranteed handling capacity will become a core differentiator for liner service reliability."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: GERMAN HUB OUTAGE",
+            "nextUpTease": "REGULATORY: US SECURITY WAIVER",
             "tags": [
-                "Source: https://maritime-executive.com/article/indian-seafarers-complain-of-pressure-to-transit-strait-of-hormuz",
-                "Published: 2026-08-19T04:24:00Z",
+                "Source: https://www.joc.com/article/maersk-sells-25-stake-in-rotterdam-terminal-to-hapag-lloyd",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AIR CARGO: GERMAN HUB OUTAGE",
+            "heading": "REGULATORY: US SECURITY WAIVER",
             "paragraphs": [
-                "A major IT infrastructure failure brought cargo handling operations across Lufthansa Cargo\u2019s core Frankfurt and Munich hubs to a complete standstill. The sudden system outage disrupted critical freight acceptance and sorting workflows during peak operational hours.",
-                "Forwarders experienced immediate export bottlenecks and missed flight connections, forcing urgent contingency routing through secondary European airports. Shippers must maintain diversified carrier networks to insulate time-sensitive airfreight from localized IT vulnerabilities."
+                "The U.S. Coast Guard has officially removed Nigeria from its Port Security Advisory, terminating 12 years of mandatory additional security requirements for vessels trading between Nigerian ports and the United States. The regulatory rollback eliminates costly compliance delays and administrative burdens for operators on this trade lane.",
+                "Vessel operators can now streamline voyage planning and reduce port stay durations by bypassing redundant security protocols. Shippers leveraging West African maritime corridors should experience improved schedule reliability and lower operational friction."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: INVENTORY DIGITAL TWINS",
+            "nextUpTease": "CARRIERS: GRC EMISSIONS METHODOLOGY",
             "tags": [
-                "Source: https://theloadstar.com/it-outage-brings-chaos-to-lufthansa-cargo-handling-at-german-hubs/",
-                "Published: 2026-08-18T00:00:00Z",
+                "Source: https://splash247.com/us-ends-extra-security-measures-on-ships-calling-nigeria/",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RETAIL: INVENTORY DIGITAL TWINS",
+            "heading": "CARRIERS: GRC EMISSIONS METHODOLOGY",
             "paragraphs": [
-                "Target has deployed an advanced digital twin platform named Proxima to simulate distribution decisions and preemptively identify inventory bottlenecks across its supply chain network. This proprietary modeling tool allows executives to test complex fulfillment scenarios before operational execution.",
-                "Leveraging predictive simulation helps organizations reduce safety stock requirements while protecting profit margins from unexpected demand volatility. Enterprise supply chains are increasingly adopting digital twin technology to transition from reactive firefighting to proactive network optimization."
+                "A coalition of major global car carrier operators has established the GRC Council to standardize greenhouse gas accounting rules and improve emissions data transparency. Partnering with ClassNK, the initiative aims to replace fragmented reporting standards with verified operational metrics across pure car truck carriers.",
+                "Automotive shippers facing stringent corporate sustainability mandates must integrate these standardized emissions datasets into their carrier selection criteria. Accurate carbon tracking will increasingly dictate logistics contract awards as global environmental regulations tighten."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: U.S. TRAILER SURGE",
+            "nextUpTease": "RAIL: BNSF SOUTHWEST INTERMODAL",
             "tags": [
-                "Source: https://www.retaildive.com/news/target-inventory-management-digital-twins-proxima/724588/",
+                "Source: https://splash247.com/car-carriers-step-up-push-for-more-accurate-emissions-data/",
                 "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EQUIPMENT: U.S. TRAILER SURGE",
+            "heading": "RAIL: BNSF SOUTHWEST INTERMODAL",
             "paragraphs": [
-                "U.S. trailer orders experienced a 97% surge in July as motor carriers raced to upgrade aging fleets ahead of upcoming 2027 emissions regulations. This massive capital expenditure reflects a concerted industry effort to lock in equipment before anticipated manufacturing bottlenecks and regulatory price hikes take effect.",
-                "Fleet operators must weigh the immediate debt servicing costs of accelerated procurement against the long-term maintenance savings of a modern fleet. Strategic equipment planning remains essential for maintaining over-the-road capacity and service reliability."
+                "BNSF Railway has expanded its intermodal service network by introducing a faster Southwest corridor running six days a week between Phoenix and Dallas Fort Worth. The expedited route addresses surging shipper demand for reliable cross-region transit amid persistent over-the-road capacity constraints.",
+                "Supply chain managers should leverage this optimized rail link to bypass congested highway networks and achieve predictable transit times for freight moving across the southern tier. Integrating scheduled intermodal options helps buffer enterprises against volatile trucking spot rates."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.ttnews.com/articles/us-trailer-orders-july-2026",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.supplychaindive.com/news/bnsf-faster-intermodal-service-southwest-phoenix-dallas/724591/",
+                "Published: 2026-08-13T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

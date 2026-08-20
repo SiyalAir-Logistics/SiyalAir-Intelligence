@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL DRAFT RESTRICTIONS",
+        "hookTitle": "HUDONG ZHONGHUA EXPANDS SHIPYARD CAPACITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL RESTRICTIONS",
-                "teaserTitle": "TARIFFS: US SHADOW TRANSHIPMENT",
+                "headline": "SHIPYARDS: HUDONG ZHONGHUA EXPANSION",
+                "teaserTitle": "SHIPYARDS: JAPAN DOCK CONSTRUCTION",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Panama Canal draft restrictions have forced vessels to carry lighter loads, pushing queue jump fees to four point six million dollars. Carriers are implementing emergency surcharges as global maritime congestion intensifies."
+                "narration_line": "Hudong Zhonghua Shipbuilding is extending its drydock to capture a massive newbuilding surge. The expansion tightens global vessel capacity and drives up asset acquisition costs."
             },
             {
                 "slide_index": 2,
-                "headline": "TARIFFS: US SHADOW TRANSHIPMENT",
-                "teaserTitle": "COMPLIANCE: US CHASSIS DUTIES",
+                "headline": "SHIPYARDS: JAPAN DOCK CONSTRUCTION",
+                "teaserTitle": "PORTS: ANTWERP BRUGES INVESTMENT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The White House alleges that over forty countries are operating a shadow transshipment network to evade tariffs. Importers face aggressive customs audits and potential cargo seizures."
+                "narration_line": "Namura Shipbuilding is building Japan's first large dock in nearly a decade. This strategic project aims to revive national maritime manufacturing fortunes."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: US CHASSIS DUTIES",
-                "teaserTitle": "SECURITY: HORMUZ MARITIME PRESSURES",
+                "headline": "PORTS: ANTWERP BRUGES INVESTMENT",
+                "teaserTitle": "CARRIERS: HAPAG LLOYD ROTTERDAM STAKE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A seventy-seven percent countervailing duty on Mexican chassis has driven a key supplier out of the U.S. market. Motor carriers must quickly secure equipment alternatives to avoid severe drayage delays."
+                "narration_line": "Antwerp Bruges has secured five hundred million euros for a massive infrastructure drive. The capital targets terminal automation to streamline European freight."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: HORMUZ MARITIME PRESSURES",
-                "teaserTitle": "AIR CARGO: GERMAN HUB OUTAGE",
+                "headline": "CARRIERS: HAPAG LLOYD ROTTERDAM STAKE",
+                "teaserTitle": "REGULATORY: US SECURITY WAIVER",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Shipowners are pressuring crews to transit the high risk Strait of Hormuz despite escalating regional conflicts. Operators face severe legal liabilities if maritime labor safety rights are breached."
+                "narration_line": "Hapag Lloyd has acquired a twenty five percent stake in Maersk's Rotterdam terminal. This deal secures dedicated berth access amid supply chain volatility."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: GERMAN HUB OUTAGE",
-                "teaserTitle": "RETAIL: INVENTORY DIGITAL TWINS",
+                "headline": "REGULATORY: US SECURITY WAIVER",
+                "teaserTitle": "CARRIERS: GRC EMISSIONS METHODOLOGY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "A severe IT failure crippled cargo handling operations across Lufthansa Cargo hubs in Frankfurt and Munich. Forwarders were forced to route time sensitive freight through secondary European airports."
+                "narration_line": "The Coast Guard has removed Nigeria from its port security advisory list. This change eliminates twelve years of costly delays for trading vessels."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: INVENTORY DIGITAL TWINS",
-                "teaserTitle": "EQUIPMENT: U.S. TRAILER SURGE",
+                "headline": "CARRIERS: GRC EMISSIONS METHODOLOGY",
+                "teaserTitle": "RAIL: BNSF SOUTHWEST INTERMODAL",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Target has deployed a digital twin platform to simulate inventory decisions and preempt supply chain bottlenecks. The advanced modeling tool helps reduce safety stock while protecting profit margins."
+                "narration_line": "Global car carriers have established a council to standardize greenhouse gas reporting. Accurate emissions data will soon dictate logistics contract awards."
             },
             {
                 "slide_index": 7,
-                "headline": "EQUIPMENT: U.S. TRAILER SURGE",
+                "headline": "RAIL: BNSF SOUTHWEST INTERMODAL",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "U.S. trailer orders surged ninety-seven percent in July as carriers prepare for stricter emissions mandates. Fleet modernization is accelerating to prevent long term maintenance downtime."
+                "narration_line": "BNSF Railway has launched an expedited intermodal route connecting Phoenix and Dallas. The service helps shippers bypass congested over-the-road highways."
             },
             {
                 "slide_index": 8,

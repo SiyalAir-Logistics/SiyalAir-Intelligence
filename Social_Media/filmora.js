@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL RESTRICTIONS",
-                "teaserTitle": "TARIFFS: US SHADOW TRANSHIPMENT",
-                "visual_caption": "Panama Canal draft limits force lighter vessel loads, driving queue-jump fees to $4.6M. Ocean carriers are raising emergency surcharges as global maritime congestion intensifies."
+                "headline": "SHIPYARDS: HUDONG ZHONGHUA EXPANSION",
+                "teaserTitle": "SHIPYARDS: JAPAN DOCK CONSTRUCTION",
+                "visual_caption": "Hudong Zhonghua is extending its No.2 drydock by 220 m to capture rising newbuilding demand. The infrastructure rush increases capital costs for ocean carriers."
             },
             {
                 "slide_index": 2,
-                "headline": "TARIFFS: US SHADOW TRANSHIPMENT",
-                "teaserTitle": "COMPLIANCE: US CHASSIS DUTIES",
-                "visual_caption": "The White House claims over 40 countries participate in a shadow transshipment network to evade tariffs. Importers face aggressive customs audits and potential cargo seizures."
+                "headline": "SHIPYARDS: JAPAN DOCK CONSTRUCTION",
+                "teaserTitle": "PORTS: ANTWERP BRUGES INVESTMENT",
+                "visual_caption": "Namura Shipbuilding is building Japan's first large dock since 2017. The project supports a government drive to revive commercial shipbuilding."
             },
             {
                 "slide_index": 3,
-                "headline": "COMPLIANCE: US CHASSIS DUTIES",
-                "teaserTitle": "SECURITY: HORMUZ MARITIME PRESSURES",
-                "visual_caption": "A 77% countervailing duty on Mexican chassis has driven a key supplier out of the U.S. market. Motor carriers must quickly secure equipment alternatives to avoid severe drayage delays."
+                "headline": "PORTS: ANTWERP BRUGES INVESTMENT",
+                "teaserTitle": "CARRIERS: HAPAG LLOYD ROTTERDAM STAKE",
+                "visual_caption": "Antwerp Bruges secured \u20ac500M for a \u20ac5B investment drive. The funds target terminal modernization and automated freight handling."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: HORMUZ MARITIME PRESSURES",
-                "teaserTitle": "AIR CARGO: GERMAN HUB OUTAGE",
-                "visual_caption": "Shipowners are pressuring crews to transit the high-risk Strait of Hormuz despite regional conflict. Operators face severe legal liabilities if maritime labor safety rights are breached."
+                "headline": "CARRIERS: HAPAG LLOYD ROTTERDAM STAKE",
+                "teaserTitle": "REGULATORY: US SECURITY WAIVER",
+                "visual_caption": "Hapag-Lloyd acquired a 25% stake in Maersk's Rotterdam terminal. The partnership secures priority berth access across European gateways."
             },
             {
                 "slide_index": 5,
-                "headline": "AIR CARGO: GERMAN HUB OUTAGE",
-                "teaserTitle": "RETAIL: INVENTORY DIGITAL TWINS",
-                "visual_caption": "A severe IT failure crippled cargo handling operations across Lufthansa Cargo hubs in Frankfurt and Munich. Forwarders were forced to route time-sensitive freight through secondary European airports."
+                "headline": "REGULATORY: US SECURITY WAIVER",
+                "teaserTitle": "CARRIERS: GRC EMISSIONS METHODOLOGY",
+                "visual_caption": "The US Coast Guard ended 12 years of extra security mandates for Nigerian ports. Operators will benefit from reduced port stay durations."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: INVENTORY DIGITAL TWINS",
-                "teaserTitle": "EQUIPMENT: U.S. TRAILER SURGE",
-                "visual_caption": "Target has deployed a digital twin platform to simulate inventory decisions and preempt supply chain bottlenecks. The advanced modeling tool helps reduce safety stock while protecting profit margins."
+                "headline": "CARRIERS: GRC EMISSIONS METHODOLOGY",
+                "teaserTitle": "RAIL: BNSF SOUTHWEST INTERMODAL",
+                "visual_caption": "Major car carriers formed the GRCC to standardize GHG accounting rules. Verified emissions metrics will drive future logistics contracts."
             },
             {
                 "slide_index": 7,
-                "headline": "EQUIPMENT: U.S. TRAILER SURGE",
+                "headline": "RAIL: BNSF SOUTHWEST INTERMODAL",
                 "teaserTitle": "",
-                "visual_caption": "U.S. trailer orders surged 97% in July as carriers prepare for stricter emissions mandates. Fleet modernization is accelerating to prevent long-term maintenance downtime."
+                "visual_caption": "BNSF added a fast Southwest intermodal service running 6 days a week. Shippers gain reliable transit capacity between Phoenix and Dallas."
             },
             {
                 "slide_index": 8,
