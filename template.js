@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES 4M USD AS",
-        "titleBlue": "WARS",
-        "footerSummary": "Panama Canal queue jump fees cross 4.6M USD as regional wars and draft restrictions intensify global maritime congestion pressures."
+        "titleWhite": "CK HUTCHISON SEEKS 1.5B USD IN",
+        "titleBlue": "DAMAGES",
+        "footerSummary": "CK Hutchison seeks 1.5B USD in damages from Panama over cancelled terminal leases amid escalating state investment dispute."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP",
+            "heading": "GLOBAL GATEWAYS: CK HUTCHISON DAMAGES",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker recently bypassed the congested Panama Canal transit queue after paying an unprecedented 4.6M USD fee, according to recent shipping intelligence reports. This record-breaking expenditure highlights how soaring priority costs are becoming standard operating procedure for carriers seeking to escape severe draft-restriction bottlenecks.",
-                "Importers must factor these escalating queue-jump premiums into landed cost models as regional water levels and geopolitical pressures constrain transit efficiency. Absorbing these surging expenses remains vital for maintaining predictable maritime delivery schedules across major trade lanes."
+                "CK Hutchison has formally initiated legal proceedings seeking 1.5B USD in damages from Panama, alleging that the state violated a bilateral investment protection treaty. The dispute centers on the abrupt cancellation of critical port terminal leases, which the conglomerate characterizes as a coordinated state attack campaign.",
+                "Supply chain leaders utilizing Central American maritime corridors must closely monitor this legal standoff for potential operational friction and terminal access volatility. Managing multi-port routing strategies will be essential to insulate regional container flows from unexpected political disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "FUEL: BRENT CRUDE OIL SURGE",
+            "nextUpTease": "MARITIME: PANAMA DRAFT SURCHARGES",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FUEL: BRENT CRUDE OIL SURGE",
+            "heading": "MARITIME: PANAMA DRAFT SURCHARGES",
             "paragraphs": [
-                "International benchmark Brent crude surged 1.8% to 93.24 USD per barrel as mounting geopolitical pressures on Iran heighten Middle East energy shipping risks. Commercial fleet operators face immediate upward pressure on bunker fuel expenses as tensions threaten vital maritime chokepoints and regional export routes.",
-                "The sharp spike in crude directly inflates operating costs for motor carriers and ocean lines, triggering emergency fuel surcharges across key global corridors. Supply chain planners must deploy dynamic bunker adjustment mechanisms to absorb ongoing energy market volatility."
+                "Major ocean carriers including MSC and CMA CGM are actively raising emergency surcharges to offset ongoing operational constraints driven by strict Panama Canal draft restrictions. Water level monitoring protocols across the vital waterway continue to force weight limits on traversing boxships, constraining overall capacity.",
+                "Importers must incorporate these climbing maritime surcharges into landed cost calculations as seasonal draft adjustments persist. Securing alternative modal routing or booking well in advance remains critical for maintaining predictable transpacific delivery timelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: TARIFF REFORM DEADLINES",
+            "nextUpTease": "FUEL: REFINERY PROCESSING PEAK",
             "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REGULATORY: TARIFF REFORM DEADLINES",
+            "heading": "FUEL: REFINERY PROCESSING PEAK",
             "paragraphs": [
-                "The United States and Canada are locked in intensive trade negotiations as the strict operational deadline approaches for proposed 50% tariffs on key industrial imports. Policymakers are racing against time to finalize terms and avert severe cross-border supply chain disruptions that threaten continental manufacturing networks.",
-                "Automotive and industrial shippers must prepare contingency routing plans to mitigate potential cost spikes resulting from sudden trade policy shifts. Managing multi-source inventory strategies will be critical for businesses navigating these imminent border friction points."
+                "U.S. fuel manufacturers operated refineries at 17.4M barrels of crude oil daily last week, marking the fastest processing pace recorded since September 2019. Driven by mounting energy pressures from the ongoing Iran conflict, refiners are aggressively ramping up output to prevent severe diesel supply crunches.",
+                "While heightened refinery throughput helps stabilize domestic distillate inventories, elevated operational pacing leaves little room for unexpected facility downtime. Fleet operators must maintain agile fuel purchasing strategies to hedge against persistent bunker and diesel price volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "FINANCIAL: ZIM Q2 RESULTS",
+            "nextUpTease": "RAILROAD: CONTAINER SMUGGLING CASE",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-18T00:00:00Z",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FINANCIAL: ZIM Q2 RESULTS",
+            "heading": "RAILROAD: CONTAINER SMUGGLING CASE",
             "paragraphs": [
-                "Zim posted solid financial results for the second quarter, generating 1.8B USD in revenue and returning to profitability amidst ongoing transpacific volume growth. However, the carrier's share price slipped following announcements that Brazilian competition regulators would thoroughly review its proposed merger with Hapag-Lloyd.",
-                "Strong quarterly cash flows provide Zim with necessary balance sheet flexibility to navigate complex international antitrust reviews and fleet modernizations. Shippers relying on carrier contract stability must monitor how these financial shifts influence long-term capacity allocations."
+                "A Texas woman has surrendered to federal authorities in connection with a Union Pacific rail-container smuggling investigation linked to a tragic border incident. The high-profile enforcement action highlights intensified security scrutiny targeting intermodal freight networks and cross-border transport security compliance.",
+                "Rail shippers face heightened risk of terminal inspections and dwell time delays as law enforcement tightens controls across southern gateway routes. Strengthening digital cargo visibility and vendor vetting protocols is vital to prevent illicit supply chain exploitation."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: US TRAILER ORDERS",
+            "nextUpTease": "RETAIL: WALMART E-COMMERCE GROWTH",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EQUIPMENT: US TRAILER ORDERS",
+            "heading": "RETAIL: WALMART E-COMMERCE GROWTH",
             "paragraphs": [
-                "Net U.S. trailer orders surged 97% in July, defying traditional seasonal lulls as motor carriers aggressively invest capital to modernize aging over-the-road fleets. Fleet executives are rushing to secure manufacturing slots ahead of forecasted autumnal freight volume surges and tightening environmental regulations.",
-                "The sudden surge in equipment demand extends manufacturer backlogs and drives up capital expenditures for regional trucking enterprises across the country. Fleet operators must lock in multi-year procurement schedules now to prevent capacity shortfalls and maintain network velocity."
+                "Walmart reported a 24% surge in second-quarter e-commerce sales, propelled heavily by accelerated fast-delivery adoption and expanding omnichannel capabilities. However, executive leadership noted that comparable sales growth slowed to its lowest pace in six years as consumer spending habits shifted under inflationary pressures.",
+                "Retail logistics networks must adapt rapidly to surging consumer expectations for expedited parcel fulfillment even as top-line sales growth moderates. Optimizing last-mile distribution centers and localized inventory placement remains paramount for protecting fulfillment margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "AVIATION: AIR CARGO RATE DIPS",
+            "nextUpTease": "PROCUREMENT: CATERPILLAR TARIFF REFUND",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AVIATION: AIR CARGO RATE DIPS",
+            "heading": "PROCUREMENT: CATERPILLAR TARIFF REFUND",
             "paragraphs": [
-                "Global air cargo spot rates experienced a notable downward correction as air freight volumes temporarily lost height following recent regulatory shifts on low-value imports. The softening demand reflects broader adjustments in cross-border e-commerce shipping behavior after the elimination of key tax exemptions.",
-                "Freight forwarders must re-evaluate capacity commitments and optimize air-ocean modal mixes to protect margins in a fluctuating rate environment. Strategic alignment with agile carriers remains crucial for navigating short-term volume contractions."
+                "Caterpillar has successfully secured a 392M USD tariff refund as overall duty costs experienced a notable contraction amid shifting trade policies. The substantial capital recovery underscores the financial impact of retroactive duty adjustments and evolving customs enforcement frameworks for heavy manufacturers.",
+                "Global supply chain managers must conduct rigorous audits of historical import entries to identify similar duty recovery opportunities under current trade regulations. Proactive customs management directly enhances cash flow and mitigates structural cost pressures."
             ],
             "imageUrl": "",
-            "nextUpTease": "GATEWAYS: HINGED PORT CAPACITY",
+            "nextUpTease": "AVIATION: AMAZON DRONE EXPANSION",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GATEWAYS: HINGED PORT CAPACITY",
+            "heading": "AVIATION: AMAZON DRONE EXPANSION",
             "paragraphs": [
-                "Hapag-Lloyd has announced an agreement to acquire a 25% stake in a major container terminal at Rotterdam, securing a vital operational foothold for the upcoming Gemini Cooperation network. This strategic investment strengthens carrier control over crucial European gateway infrastructure as schedule reliability initiatives take center stage.",
-                "Supply chain leaders must evaluate how dedicated terminal stakes impact berth access and container dwell times across major European transshipment hubs. Aligning with carrier-backed infrastructure networks helps insulate shippers from broader port congestion risks."
+                "Amazon is aggressively expanding its Prime Air drone delivery footprint sixfold this year, rolling out autonomous aerial shipping to major metropolitan centers including Atlanta, Chicago, and Cleveland. This strategic network scaling establishes a new benchmark for ultra-fast retail fulfillment and urban logistics automation.",
+                "Traditional parcel carriers and regional distributors must evaluate how autonomous aerial delivery infrastructure impacts same-day fulfillment expectations. Integrating advanced last-mile automation technologies will be essential for maintaining competitive parity in dense consumer markets."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]

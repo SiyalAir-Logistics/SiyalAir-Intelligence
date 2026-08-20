@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4M USD AS WARS",
+        "hookTitle": "CK HUTCHISON SEEKS 1.5B USD IN DAMAGES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP",
-                "teaserTitle": "FUEL: BRENT CRUDE OIL SURGE",
+                "headline": "GLOBAL GATEWAYS: CK HUTCHISON DAMAGES",
+                "teaserTitle": "MARITIME: PANAMA DRAFT SURCHARGES",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker bypassed the Panama Canal queue after paying a record four point six million dollars. This soaring priority fee highlights escalating congestion and draft restriction costs for ocean shippers."
+                "narration_line": "CK Hutchison is seeking one point five billion dollars in damages from Panama over cancelled terminal leases. Supply chain leaders must monitor this dispute for potential regional trade disruptions."
             },
             {
                 "slide_index": 2,
-                "headline": "FUEL: BRENT CRUDE OIL SURGE",
-                "teaserTitle": "REGULATORY: TARIFF REFORM DEADLINES",
+                "headline": "MARITIME: PANAMA DRAFT SURCHARGES",
+                "teaserTitle": "FUEL: REFINERY PROCESSING PEAK",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "International Brent crude surged one point eight percent as geopolitical pressures heighten Middle East shipping risks. Fleet operators face immediate upward pressure on bunker fuel expenses across key global trade lanes."
+                "narration_line": "Ocean carriers are raising emergency surcharges due to strict Panama Canal draft restrictions. Importers must incorporate these rising maritime costs into landed pricing models."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATORY: TARIFF REFORM DEADLINES",
-                "teaserTitle": "FINANCIAL: ZIM Q2 RESULTS",
+                "headline": "FUEL: REFINERY PROCESSING PEAK",
+                "teaserTitle": "RAILROAD: CONTAINER SMUGGLING CASE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "United States and Canada trade talks race against proposed fifty percent tariffs on key industrial imports. Policymakers are rushing to avert severe cross-border supply chain disruptions and manufacturing delays."
+                "narration_line": "U.S. refineries processed seventeen point four million barrels of crude oil daily last week. This record processing pace helps mitigate severe distillate fuel supply crunches."
             },
             {
                 "slide_index": 4,
-                "headline": "FINANCIAL: ZIM Q2 RESULTS",
-                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS",
+                "headline": "RAILROAD: CONTAINER SMUGGLING CASE",
+                "teaserTitle": "RETAIL: WALMART E-COMMERCE GROWTH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Zim posted solid second quarter revenue of one point eight billion dollars and returned to profitability. However, shares slipped as Brazilian regulators initiated a thorough review of its Hapag-Lloyd merger."
+                "narration_line": "A federal investigation into intermodal container smuggling highlights tightening security compliance. Shippers face increased terminal inspection delays across major rail corridors."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: US TRAILER ORDERS",
-                "teaserTitle": "AVIATION: AIR CARGO RATE DIPS",
+                "headline": "RETAIL: WALMART E-COMMERCE GROWTH",
+                "teaserTitle": "PROCUREMENT: CATERPILLAR TARIFF REFUND",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Net United States trailer orders surged ninety-seven percent in July as motor carriers modernize aging fleets. Fleet executives are rushing to secure manufacturing slots ahead of forecasted autumnal freight volume surges."
+                "narration_line": "Walmart reported twenty-four percent e-commerce sales growth driven by fast delivery adoption. Comparable sales slowed as consumer spending habits shifted under economic pressure."
             },
             {
                 "slide_index": 6,
-                "headline": "AVIATION: AIR CARGO RATE DIPS",
-                "teaserTitle": "GATEWAYS: HINGED PORT CAPACITY",
+                "headline": "PROCUREMENT: CATERPILLAR TARIFF REFUND",
+                "teaserTitle": "AVIATION: AMAZON DRONE EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Global air cargo spot rates experienced a notable downward correction as shipping volumes temporarily softened. Forwarders must re-evaluate capacity commitments to protect profit margins in a fluctuating rate environment."
+                "narration_line": "Caterpillar secured a three hundred ninety-two million dollar tariff refund amid shrinking duty costs. Importers should audit historical entries to identify similar recovery opportunities."
             },
             {
                 "slide_index": 7,
-                "headline": "GATEWAYS: HINGED PORT CAPACITY",
+                "headline": "AVIATION: AMAZON DRONE EXPANSION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Hapag-Lloyd is acquiring a twenty-five percent stake in a major Rotterdam terminal to support the Gemini network. This strategic investment strengthens carrier control over vital European gateway infrastructure."
+                "narration_line": "Amazon is expanding its Prime Air drone delivery network sixfold across major metro regions. This scaling establishes a new competitive standard for ultra-fast retail fulfillment."
             },
             {
                 "slide_index": 8,
