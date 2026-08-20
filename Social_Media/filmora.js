@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS",
-                "teaserTitle": "TECHNOLOGY: ACCC WISETECH RAIDS",
-                "visual_caption": "Severe drought conditions have forced the Panama Canal to enforce strict draft limits. Queue-jump fees have surpassed $4.6M as vessels shed cargo weight."
+                "headline": "USTR: FORCED LABOR TARIFFS ON 60 COUNTRIES",
+                "teaserTitle": "MARITIME: ROTTERDAM TERMINAL STAKE",
+                "visual_caption": "The USTR is implementing Section 301 tariffs across 60 nations. Importers must audit supply chains immediately to avoid severe customs detentions."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: ACCC WISETECH RAIDS",
-                "teaserTitle": "FULFILLMENT: HOME DEPOT EXPRESS DELIVERY",
-                "visual_caption": "Australian regulators have executed search warrants at the headquarters of software giant WiseTech. The investigation examines potential anti-competitive market practices."
+                "headline": "MARITIME: ROTTERDAM TERMINAL STAKE",
+                "teaserTitle": "FUEL: BRENT CRUDE SURGE",
+                "visual_caption": "Hapag-Lloyd has acquired a 25% equity stake in a Rotterdam container terminal. The strategic move secures critical European gateway handling capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "FULFILLMENT: HOME DEPOT EXPRESS DELIVERY",
-                "teaserTitle": "GOVERNMENT: PENNSYLVANIA CDL SCHOOL LAW",
-                "visual_caption": "Home Depot has rolled out nationwide express delivery guaranteeing fulfillment in under 3 hours. The retailer converts 2,000 stores into local fulfillment hubs."
+                "headline": "FUEL: BRENT CRUDE SURGE",
+                "teaserTitle": "LOGISTICS: SALARY BENCHMARK REBOUND",
+                "visual_caption": "Brent crude prices surged 2.5% following rising Middle East geopolitical tensions. The sharp fuel escalation will immediately drive higher global transport surcharges."
             },
             {
                 "slide_index": 4,
-                "headline": "GOVERNMENT: PENNSYLVANIA CDL SCHOOL LAW",
-                "teaserTitle": "COMPLIANCE: US DE MINIMIS RESCISSION",
-                "visual_caption": "Pennsylvania regulators can now levy civil penalties up to $25K on unlicensed CDL schools. The law aims to eliminate unqualified driver training pipelines."
+                "headline": "LOGISTICS: SALARY BENCHMARK REBOUND",
+                "teaserTitle": "EQUIPMENT: TRAILER ORDERS SURGE",
+                "visual_caption": "Supply chain salaries have rebounded to an average of $126.4K. Corporate organizations are elevating logistics leadership roles to manage complex risks."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: US DE MINIMIS RESCISSION",
-                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS SURGE",
-                "visual_caption": "The Court of International Trade upheld the rescission of tariff exemptions for sub-$800 imports. Cross-border e-commerce parcels now face mandatory duty assessments."
+                "headline": "EQUIPMENT: TRAILER ORDERS SURGE",
+                "teaserTitle": "COMPLIANCE: CHASSIS DUTY FALLOUT",
+                "visual_caption": "Net U.S. trailer orders experienced a dramatic 97% year-over-year increase in July. Motor carriers are aggressively upgrading aging over-the-road equipment fleets."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT: US TRAILER ORDERS SURGE",
-                "teaserTitle": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
-                "visual_caption": "U.S. trailer orders posted a 97% surge in July as carriers upgraded aging over-the-road fleets. OEM manufacturing backlogs are expanding across domestic equipment markets."
+                "headline": "COMPLIANCE: CHASSIS DUTY FALLOUT",
+                "teaserTitle": "LAST MILE: DRONE EXPANSION TARGETS",
+                "visual_caption": "GG Trailers has exited the U.S. market following a 77% countervailing duty on Mexican imports. Drayage providers now face acute intermodal equipment shortages."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
+                "headline": "LAST MILE: DRONE EXPANSION TARGETS",
                 "teaserTitle": "",
-                "visual_caption": "Hapag-Lloyd has acquired a 25% equity stake in a Rotterdam container terminal. The investment secures vital gateway handling capacity for the Gemini network."
+                "visual_caption": "Amazon plans to expand autonomous drone delivery operations to 500 cities this year. This technology rollout compresses last-mile delivery times for qualifying parcels."
             },
             {
                 "slide_index": 8,

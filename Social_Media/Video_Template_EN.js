@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL DRAFT RESTRICTIONS",
+        "hookTitle": "FORCED LABOR TARIFFS ON SIXTY COUNTRIES",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS",
-                "teaserTitle": "TECHNOLOGY: ACCC WISETECH RAIDS",
+                "headline": "USTR: FORCED LABOR TARIFFS ON 60 COUNTRIES",
+                "teaserTitle": "MARITIME: ROTTERDAM TERMINAL STAKE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Severe drought conditions have forced the Panama Canal to impose strict draft limits on transiting vessels. Queue jump fees have surged past four point six million dollars as operators shed weight."
+                "narration_line": "The United States Trade Representative is implementing Section three oh one tariffs across sixty nations. Importers must audit supply chains immediately to avoid severe customs detentions."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: ACCC WISETECH RAIDS",
-                "teaserTitle": "FULFILLMENT: HOME DEPOT EXPRESS DELIVERY",
+                "headline": "MARITIME: ROTTERDAM TERMINAL STAKE",
+                "teaserTitle": "FUEL: BRENT CRUDE SURGE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Australian competition regulators have executed search warrants at the headquarters of logistics software giant WiseTech. The ongoing probe examines potential anti-competitive software acquisition practices."
+                "narration_line": "Hapag-Lloyd has acquired a twenty-five percent equity stake in a Rotterdam container terminal. The strategic move secures critical European gateway handling capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "FULFILLMENT: HOME DEPOT EXPRESS DELIVERY",
-                "teaserTitle": "GOVERNMENT: PENNSYLVANIA CDL SCHOOL LAW",
+                "headline": "FUEL: BRENT CRUDE SURGE",
+                "teaserTitle": "LOGISTICS: SALARY BENCHMARK REBOUND",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Home Depot has rolled out a nationwide express delivery service guaranteeing job site fulfillment in three hours. The retailer utilizes over two thousand physical stores as localized distribution hubs."
+                "narration_line": "Brent crude prices surged two point five percent following rising Middle East geopolitical tensions. The sharp fuel escalation will immediately drive higher global transport surcharges."
             },
             {
                 "slide_index": 4,
-                "headline": "GOVERNMENT: PENNSYLVANIA CDL SCHOOL LAW",
-                "teaserTitle": "COMPLIANCE: US DE MINIMIS RESCISSION",
+                "headline": "LOGISTICS: SALARY BENCHMARK REBOUND",
+                "teaserTitle": "EQUIPMENT: TRAILER ORDERS SURGE",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Pennsylvania regulators can now impose civil penalties of up to twenty-five thousand dollars on unlicensed commercial driver schools. The new statute aims to tighten safety compliance across regional transport networks."
+                "narration_line": "Supply chain salaries have rebounded to an average of one hundred twenty-six thousand dollars. Corporate organizations are elevating logistics leadership roles to manage complex risks."
             },
             {
                 "slide_index": 5,
-                "headline": "COMPLIANCE: US DE MINIMIS RESCISSION",
-                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS SURGE",
+                "headline": "EQUIPMENT: TRAILER ORDERS SURGE",
+                "teaserTitle": "COMPLIANCE: CHASSIS DUTY FALLOUT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Court of International Trade has upheld executive authority to rescind tariff exemptions for sub-eight-hundred-dollar imports. Cross border e-commerce parcels now face mandatory value added tax assessments."
+                "narration_line": "Net United States trailer orders experienced a dramatic ninety-seven percent year-over-year increase in July. Motor carriers are aggressively upgrading aging over-the-road equipment fleets."
             },
             {
                 "slide_index": 6,
-                "headline": "EQUIPMENT: US TRAILER ORDERS SURGE",
-                "teaserTitle": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
+                "headline": "COMPLIANCE: CHASSIS DUTY FALLOUT",
+                "teaserTitle": "LAST MILE: DRONE EXPANSION TARGETS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Net United States trailer orders experienced a ninety-seven percent surge in July as carriers upgraded aging fleets. Manufacturers face extended order backlogs as freight operators secure new assets."
+                "narration_line": "GG Trailers has exited the United States market following a seventy-seven percent countervailing duty on Mexican imports. Drayage providers now face acute intermodal equipment shortages."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
+                "headline": "LAST MILE: DRONE EXPANSION TARGETS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Hapag Lloyd has acquired a twenty-five percent equity stake in a major container terminal at the Port of Rotterdam. The strategic investment supports the launch of the carrier's Gemini cooperation network."
+                "narration_line": "Amazon plans to expand autonomous drone delivery operations to five hundred cities this year. This technology rollout compresses last-mile delivery times for qualifying parcels."
             },
             {
                 "slide_index": 8,
