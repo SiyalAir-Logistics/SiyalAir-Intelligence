@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M",
+        "hookTitle": "USTR MOVES FORWARD WITH FORCED LABOR TARIFFS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M",
-                "teaserTitle": "FUEL: OIL PRICES SURGE ON IRAN PRESSURE",
+                "headline": "PROCUREMENT: USTR FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker paid four point six million dollars to jump the Panama Canal queue. Severe maritime congestion and El Nino conditions are escalating priority fees across global trade lanes."
+                "narration_line": "The Office of the United States Trade Representative is implementing Section 301 tariffs across sixty nations. Importers must audit supplier networks immediately to mitigate unexpected duty liabilities."
             },
             {
                 "slide_index": 2,
-                "headline": "FUEL: OIL PRICES SURGE ON IRAN PRESSURE",
-                "teaserTitle": "GOVERNMENT: CANADA TARIFFS DELAYED",
+                "headline": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
+                "teaserTitle": "EQUIPMENT: U S TRAILER ORDERS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Brent crude surged two point four percent to ninety three dollars and eighty three cents a barrel. Heightened Middle East tensions are directly inflating bunker fuel expenses for commercial fleets."
+                "narration_line": "Hapag-Lloyd has acquired a twenty-five percent equity stake in a Rotterdam container terminal. This strategic investment strengthens core European gateway infrastructure for the Gemini network."
             },
             {
                 "slide_index": 3,
-                "headline": "GOVERNMENT: CANADA TARIFFS DELAYED",
-                "teaserTitle": "LOGISTICS: AMAZON EXPANDS DRONES",
+                "headline": "EQUIPMENT: U S TRAILER ORDERS",
+                "teaserTitle": "PORT: LOS ANGELES JULY VOLUME",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "President Trump delayed proposed fifty percent tariffs on Canada for three days. Bilateral trade negotiations are advancing toward a tentative agreement amid ongoing cross-border friction."
+                "narration_line": "Net United States trailer orders increased ninety-seven percent in July as motor carriers modernize fleets. Fleet executives are securing manufacturing slots ahead of forecasted freight surges."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: AMAZON EXPANDS DRONES",
-                "teaserTitle": "EQUIPMENT: TRAILER ORDERS JUMP",
+                "headline": "PORT: LOS ANGELES JULY VOLUME",
+                "teaserTitle": "FUEL: OIL PRICES SURGE ON IRAN",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Amazon plans to expand aerial drone delivery to five hundred cities this year. This aggressive last-mile scaling initiative aims to bypass urban ground congestion."
+                "narration_line": "The Port of Los Angeles reported its second-busiest July in history amidst heavy container inflows. Waterfront terminals managed early peak volume while maintaining fluid gate operations."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: TRAILER ORDERS JUMP",
-                "teaserTitle": "PORT: LOS ANGELES JULY VOLUME",
+                "headline": "FUEL: OIL PRICES SURGE ON IRAN",
+                "teaserTitle": "LEGAL: PANAMA PORT ARBITRATION",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Net United States trailer orders increased ninety seven percent in July. Motor carriers are aggressively investing capital to modernize aging over-the-road equipment fleets."
+                "narration_line": "Brent crude surged two point four percent to ninety-three dollars and eighty-three cents per barrel. Commercial fleets face immediate upward pressure on bunker fuel expenses."
             },
             {
                 "slide_index": 6,
-                "headline": "PORT: LOS ANGELES JULY VOLUME",
-                "teaserTitle": "MARITIME: ROTTERDAM TERMINAL STAKE",
+                "headline": "LEGAL: PANAMA PORT ARBITRATION",
+                "teaserTitle": "LOGISTICS: AMAZON DRONE EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "The Port of Los Angeles reported its second busiest July in operational history. Waterfront terminals managed heavy container inflows as retailers rushed import goods."
+                "narration_line": "CK Hutchison filed a one point five billion dollar arbitration claim against Panama. The legal dispute highlights sovereign risk and regulatory volatility across global transshipment hubs."
             },
             {
                 "slide_index": 7,
-                "headline": "MARITIME: ROTTERDAM TERMINAL STAKE",
+                "headline": "LOGISTICS: AMAZON DRONE EXPANSION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Hapag-Lloyd secured a twenty five percent equity stake in a Rotterdam container terminal. The acquisition strengthens European gateway infrastructure for the Gemini network."
+                "narration_line": "Amazon will expand its aerial drone delivery network to five hundred cities this year. This aggressive last-mile scaling initiative aims to bypass urban ground congestion."
             },
             {
                 "slide_index": 8,
