@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "HUDONG ZHONGHUA EXPANDS SHIPYARD CAPACITY",
+        "hookTitle": "PANAMA CANAL FEE HITS FOUR MILLION DOLLARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "SHIPYARDS: HUDONG ZHONGHUA EXPANSION",
-                "teaserTitle": "SHIPYARDS: JAPAN DOCK CONSTRUCTION",
+                "headline": "MARITIME: CANAL QUEUE JUMP FEE",
+                "teaserTitle": "REGULATORY: CHASSIS DUTIES EXIT",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Hudong Zhonghua Shipbuilding is extending its drydock to capture a massive newbuilding surge. The expansion tightens global vessel capacity and drives up asset acquisition costs."
+                "narration_line": "An empty tanker paid four point six million dollars to jump the Panama Canal queue. Severe draft restrictions are driving up premium slot costs across global shipping lanes."
             },
             {
                 "slide_index": 2,
-                "headline": "SHIPYARDS: JAPAN DOCK CONSTRUCTION",
-                "teaserTitle": "PORTS: ANTWERP BRUGES INVESTMENT",
+                "headline": "REGULATORY: CHASSIS DUTIES EXIT",
+                "teaserTitle": "TECHNOLOGY: WISETECH COMPETITION PROBE",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Namura Shipbuilding is building Japan's first large dock in nearly a decade. This strategic project aims to revive national maritime manufacturing fortunes."
+                "narration_line": "GG Trailers is exiting the US market after a seventy-seven percent tariff was imposed on Mexican chassis. This regulatory shift tightens domestic equipment availability for motor carriers."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: ANTWERP BRUGES INVESTMENT",
-                "teaserTitle": "CARRIERS: HAPAG LLOYD ROTTERDAM STAKE",
+                "headline": "TECHNOLOGY: WISETECH COMPETITION PROBE",
+                "teaserTitle": "TRUCKING: PENNSYLVANIA CDL LAW",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Antwerp Bruges has secured five hundred million euros for a massive infrastructure drive. The capital targets terminal automation to streamline European freight."
+                "narration_line": "Australian regulators executed a search warrant at software giant WiseTech during a competition probe. Enterprise users now face unexpected operational uncertainty across their management systems."
             },
             {
                 "slide_index": 4,
-                "headline": "CARRIERS: HAPAG LLOYD ROTTERDAM STAKE",
-                "teaserTitle": "REGULATORY: US SECURITY WAIVER",
+                "headline": "TRUCKING: PENNSYLVANIA CDL LAW",
+                "teaserTitle": "AVIATION: AMAZON DRONE EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Hapag Lloyd has acquired a twenty five percent stake in Maersk's Rotterdam terminal. This deal secures dedicated berth access amid supply chain volatility."
+                "narration_line": "Pennsylvania enacted a new law imposing twenty-five thousand dollar penalties on unlicensed driving schools. The measure aims to clean up sub-standard driver education across regional fleets."
             },
             {
                 "slide_index": 5,
-                "headline": "REGULATORY: US SECURITY WAIVER",
-                "teaserTitle": "CARRIERS: GRC EMISSIONS METHODOLOGY",
+                "headline": "AVIATION: AMAZON DRONE EXPANSION",
+                "teaserTitle": "SECURITY: HORMUZ TRANSIT PRESSURES",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Coast Guard has removed Nigeria from its port security advisory list. This change eliminates twelve years of costly delays for trading vessels."
+                "narration_line": "Amazon announced plans to expand its drone delivery network reach to five hundred cities this year. Autonomous last-mile fulfillment is scaling rapidly to bypass urban road congestion."
             },
             {
                 "slide_index": 6,
-                "headline": "CARRIERS: GRC EMISSIONS METHODOLOGY",
-                "teaserTitle": "RAIL: BNSF SOUTHWEST INTERMODAL",
+                "headline": "SECURITY: HORMUZ TRANSIT PRESSURES",
+                "teaserTitle": "TERMINALS: ROTTERDAM STAKE ACQUISITION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Global car carriers have established a council to standardize greenhouse gas reporting. Accurate emissions data will soon dictate logistics contract awards."
+                "narration_line": "Seamen unions report shipowners are pressuring crews to transit the high-risk Strait of Hormuz. Operating in active conflict zones exposes carriers to severe safety and liability risks."
             },
             {
                 "slide_index": 7,
-                "headline": "RAIL: BNSF SOUTHWEST INTERMODAL",
+                "headline": "TERMINALS: ROTTERDAM STAKE ACQUISITION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "BNSF Railway has launched an expedited intermodal route connecting Phoenix and Dallas. The service helps shippers bypass congested over-the-road highways."
+                "narration_line": "Hapag-Lloyd acquired a twenty-five percent stake in Maersk's Rotterdam container terminal. This ownership move consolidates handling priority at major European transshipment gateways."
             },
             {
                 "slide_index": 8,

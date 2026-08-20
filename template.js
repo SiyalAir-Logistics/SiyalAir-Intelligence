@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "HUDONG ZHONGHUA EXPANDS SHIPYARD",
-        "titleBlue": "CAPACITY",
-        "footerSummary": "Chinese and Japanese shipyards launch aggressive expansion drives to capture record orderbooks, squeezing global maritime capacity and driving up newbuilding costs."
+        "titleWhite": "PANAMA CANAL FEE HITS",
+        "titleBlue": "4M",
+        "footerSummary": "Panama Canal queue jump fees surge past $4.6M as regional draft restrictions and Middle East trade rerouting intensify global vessel bottlenecks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "SHIPYARDS: HUDONG ZHONGHUA EXPANSION",
+            "heading": "MARITIME: CANAL QUEUE JUMP FEE",
             "paragraphs": [
-                "China's Hudong Zhonghua Shipbuilding is accelerating the expansion of its Changxing Island facilities by extending its No.2 drydock by 220 m. This aggressive infrastructure push comes as major Asian shipyards race to capture an unprecedented surge in global vessel newbuilding orders.",
-                "The capacity race threatens to inflate capital expenditure for ocean carriers while tightening availability across key construction berths. Fleet operators must lock in long-term vessel delivery slots early to mitigate escalating asset acquisition costs."
+                "An empty liquefied petroleum gas tanker paid a record $4.6M to bypass the Panama Canal queue amid worsening drought conditions and draft restrictions. The soaring queue jump fee highlights the extreme premium vessel operators are willing to absorb to secure immediate transit slots.",
+                "Shippers face compounding voyage delays and unpredictable transit costs as crucial global trade arteries operate under severe capacity constraints. Logistics managers must budget for aggressive slot surcharges when moving time-sensitive cargo through restricted maritime corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "SHIPYARDS: JAPAN DOCK CONSTRUCTION",
+            "nextUpTease": "REGULATORY: CHASSIS DUTIES EXIT",
             "tags": [
-                "Source: https://splash247.com/hudong-zhonghua-details-expansion-plans/",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SHIPYARDS: JAPAN DOCK CONSTRUCTION",
+            "heading": "REGULATORY: CHASSIS DUTIES EXIT",
             "paragraphs": [
-                "Namura Shipbuilding is moving forward with plans to construct Japan's first large shipbuilding dock in nearly a decade. The strategic infrastructure project supports a broader government-backed initiative to revitalize the nation's competitive standing in global commercial maritime manufacturing.",
-                "The introduction of new dock capacity provides alternative sourcing options for shipowners navigating crowded Chinese orderbooks. However, prolonged construction timelines mean immediate relief for tight global vessel supply remains limited."
+                "GG Trailers is exiting the US market following the International Trade Commission decision to impose a 77% countervailing duty on chassis imported from Mexico. This regulatory enforcement action abruptly eliminates a major cross-border equipment supplier from domestic distribution networks.",
+                "The withdrawal of Mexican chassis manufacturing options tightens domestic equipment availability and forces motor carriers to seek alternative, higher-cost sourcing channels. Fleet operators must reevaluate equipment replacement strategies to mitigate rising intermodal asset expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORTS: ANTWERP BRUGES INVESTMENT",
+            "nextUpTease": "TECHNOLOGY: WISETECH COMPETITION PROBE",
             "tags": [
-                "Source: https://splash247.com/japan-to-construct-first-large-shipbuilding-dock-since-2017/",
+                "Source: https://www.joc.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PORTS: ANTWERP BRUGES INVESTMENT",
+            "heading": "TECHNOLOGY: WISETECH COMPETITION PROBE",
             "paragraphs": [
-                "The Port of Antwerp Bruges has secured a massive \u20ac500M funding package to fuel an ambitious \u20ac5B strategic investment drive. The capital injection targets critical terminal upgrades, digital automation, and heavy infrastructure modernization to handle rising container volumes.",
-                "Port executives are prioritizing efficiency gains to prevent recurring landside congestion and maintain fluidity for intermodal freight operators. Shippers routing cargo through European gateways should evaluate how these terminal enhancements impact dwell times and handling tariffs."
+                "The Australian Competition and Consumer Commission executed a search warrant at logistics software giant WiseTech as part of an ongoing competition investigation. The unexpected regulatory raid introduces operational uncertainty for supply chain networks relying heavily on the provider's core enterprise platforms.",
+                "Software disruptions of this scale force enterprise users to scrutinize vendor stability and contingency protocols for critical transportation management systems. Shippers must assess their digital architecture vulnerabilities to prevent potential software downtime from stalling daily freight execution."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIERS: HAPAG LLOYD ROTTERDAM STAKE",
+            "nextUpTease": "TRUCKING: PENNSYLVANIA CDL LAW",
             "tags": [
-                "Source: https://splash247.com/antwerp-bruges-secures-e500m-for-e5bn-investment-drive/",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "CARRIERS: HAPAG LLOYD ROTTERDAM STAKE",
+            "heading": "TRUCKING: PENNSYLVANIA CDL LAW",
             "paragraphs": [
-                "Hapag-Lloyd has acquired a strategic 25% stake in Maersk's Rotterdam container terminal facility, deepening operational ties between major ocean carrier networks. This financial maneuver secures dedicated berth access and aligns terminal handling priorities amidst ongoing global supply chain volatility.",
-                "Competing ocean carriers and cargo owners must monitor potential terminal preference shifts that could influence container turnaround speeds at key European transshipment hubs. Securing guaranteed handling capacity will become a core differentiator for liner service reliability."
+                "Pennsylvania regulators are enforcing a new state law that imposes civil penalties of up to $25K on unlicensed commercial driver training schools. This legislative crackdown aims to eliminate sub-standard driver education providers and improve safety standards across regional commercial fleets.",
+                "The elimination of non-compliant training programs may temporarily constrict the local pipeline of qualified new drivers entering the commercial labor market. Motor carriers operating in the region must verify the accreditation status of their driver training pipelines to avoid secondary compliance liabilities."
             ],
             "imageUrl": "",
-            "nextUpTease": "REGULATORY: US SECURITY WAIVER",
+            "nextUpTease": "AVIATION: AMAZON DRONE EXPANSION",
             "tags": [
-                "Source: https://www.joc.com/article/maersk-sells-25-stake-in-rotterdam-terminal-to-hapag-lloyd",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REGULATORY: US SECURITY WAIVER",
+            "heading": "AVIATION: AMAZON DRONE EXPANSION",
             "paragraphs": [
-                "The U.S. Coast Guard has officially removed Nigeria from its Port Security Advisory, terminating 12 years of mandatory additional security requirements for vessels trading between Nigerian ports and the United States. The regulatory rollback eliminates costly compliance delays and administrative burdens for operators on this trade lane.",
-                "Vessel operators can now streamline voyage planning and reduce port stay durations by bypassing redundant security protocols. Shippers leveraging West African maritime corridors should experience improved schedule reliability and lower operational friction."
+                "Amazon announced plans to aggressively expand its drone delivery network reach to 500 cities by the end of the year. This rapid scaling reflects major investments in autonomous last-mile delivery infrastructure designed to bypass urban road congestion.",
+                "The proliferation of commercial drone delivery alters last-mile fulfillment expectations and forces traditional parcel carriers to accelerate their own automation initiatives. Retail supply chain planners must evaluate how aerial fulfillment integration impacts local distribution center placement."
             ],
             "imageUrl": "",
-            "nextUpTease": "CARRIERS: GRC EMISSIONS METHODOLOGY",
+            "nextUpTease": "SECURITY: HORMUZ TRANSIT PRESSURES",
             "tags": [
-                "Source: https://splash247.com/us-ends-extra-security-measures-on-ships-calling-nigeria/",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "CARRIERS: GRC EMISSIONS METHODOLOGY",
+            "heading": "SECURITY: HORMUZ TRANSIT PRESSURES",
             "paragraphs": [
-                "A coalition of major global car carrier operators has established the GRC Council to standardize greenhouse gas accounting rules and improve emissions data transparency. Partnering with ClassNK, the initiative aims to replace fragmented reporting standards with verified operational metrics across pure car truck carriers.",
-                "Automotive shippers facing stringent corporate sustainability mandates must integrate these standardized emissions datasets into their carrier selection criteria. Accurate carbon tracking will increasingly dictate logistics contract awards as global environmental regulations tighten."
+                "The Forward Seamen Union of India reported that shipowners are pressuring crews to transit the high-risk Strait of Hormuz against their explicit safety wishes. This contentious operating environment follows recent military engagements and ongoing regional security threats in key Middle Eastern waters.",
+                "Forcing vessel transits through active conflict zones exposes operators to severe liability, crew attrition, and catastrophic asset loss risks. Cargo owners must track maritime routing decisions closely to prevent supply chain disruptions stemming from crew safety refusals."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAIL: BNSF SOUTHWEST INTERMODAL",
+            "nextUpTease": "TERMINALS: ROTTERDAM STAKE ACQUISITION",
             "tags": [
-                "Source: https://splash247.com/car-carriers-step-up-push-for-more-accurate-emissions-data/",
+                "Source: https://maritime-executive.com",
                 "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAIL: BNSF SOUTHWEST INTERMODAL",
+            "heading": "TERMINALS: ROTTERDAM STAKE ACQUISITION",
             "paragraphs": [
-                "BNSF Railway has expanded its intermodal service network by introducing a faster Southwest corridor running six days a week between Phoenix and Dallas Fort Worth. The expedited route addresses surging shipper demand for reliable cross-region transit amid persistent over-the-road capacity constraints.",
-                "Supply chain managers should leverage this optimized rail link to bypass congested highway networks and achieve predictable transit times for freight moving across the southern tier. Integrating scheduled intermodal options helps buffer enterprises against volatile trucking spot rates."
+                "Hapag-Lloyd has acquired a strategic 25% stake in Maersk's Rotterdam container terminal facility to cement dedicated handling capacity in Europe. This ownership realignment deepens inter-carrier cooperation as major lines maneuver to control critical gateway infrastructure.",
+                "Consolidating terminal access alters competitive dynamics and may restrict independent carrier scheduling flexibility at major European transshipment hubs. Regional shippers must review service contract terms to ensure equitable terminal access and avoid priority handling bottlenecks."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/bnsf-faster-intermodal-service-southwest-phoenix-dallas/724591/",
-                "Published: 2026-08-13T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
