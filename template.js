@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "TANKERS U-TURN IN",
-        "titleBlue": "HORMUZ",
-        "footerSummary": "Chinese tankers execute U-turns in Hormuz as Middle East geopolitical risks elevate bunker costs and constrain critical maritime trade routes."
+        "titleWhite": "PANAMA CANAL DRAFT RESTRICTIONS",
+        "titleBlue": "SURGE",
+        "footerSummary": "Ocean carriers raise surcharges as ongoing Panama Canal draft restrictions force capacity constraints and escalate global trade transit costs."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: TANKERS U-TURN IN HORMUZ",
+            "heading": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS SURGE",
             "paragraphs": [
-                "Three Chinese crude tankers executed sudden U-turns in the Strait of Hormuz as regional security risks escalated following heightened political tensions. The abrupt navigation shifts highlight ongoing volatility in critical Middle East maritime chokepoints, forcing vessel operators to re-evaluate transit schedules.",
-                "Shipping lines face mounting operational uncertainty and rising voyage risks that threaten to inflate global maritime freight rates. Fleet managers must continuously monitor real-time security data to protect crew safety and prevent costly cargo delays."
+                "Ocean carriers including MSC and CMA CGM are actively raising surcharges as ongoing water level fluctuations and strict draft constraints continue to impact maritime transits through the Panama Canal. These operational limitations force vessels to shed cargo weight and alter load distributions, severely restricting overall throughput capacity along critical global shipping lanes.",
+                "Shippers face compounding cost pressures and reduced schedule predictability as container lines pass on the financial burden of lightering and route adjustments. Logistics planners must re-evaluate service contracts and analyze alternate routing options to mitigate unpredictable transit delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT: PANAMA CANAL QUEUE FEES",
+            "nextUpTease": "TRANSPORT: CRUDE OIL PRICES SPIKE",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-20T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORT: PANAMA CANAL QUEUE FEES",
+            "heading": "FUEL: CRUDE OIL PRICES SPIKE",
             "paragraphs": [
-                "The queue-jump fee for the Panama Canal surged to a record $4.6M as an empty liquefied petroleum gas tanker bypassed standard wait times. Ongoing draft restrictions and high transit demand have turned priority passage into an expensive necessity for time-sensitive cargo operations.",
-                "Shippers absorbing these premium tolls face compressed operating margins and increased cost allocations for Latin American trade lanes. Logistics planners must weigh the financial trade-offs of expedited canal transit against longer alternate routing options."
+                "International benchmark Brent crude surged 2.4% to $93.83 per barrel amid escalating geopolitical tensions and supply security concerns involving Middle East shipping routes. The sharp upward price movement reflects growing anxieties across global energy markets, directly inflating bunker fuel expenses for commercial fleet operators worldwide.",
+                "Motor carriers and ocean lines are being forced to implement immediate emergency fuel surcharges to offset rapidly compounding voyage operating costs. Supply chain executives must build dynamic bunker adjustment mechanisms into carrier agreements to protect operating margins against ongoing energy volatility."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET: NAVIOS SUPERTANKER SPEND",
+            "nextUpTease": "COMPLIANCE: DE MINIMIS EXEMPTION UPHELD",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-20T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "FLEET: NAVIOS SUPERTANKER SPEND",
+            "heading": "COMPLIANCE: DE MINIMIS EXEMPTION UPHELD",
             "paragraphs": [
-                "Navios Maritime Partners expanded its newbuilding commitment with a $361.5M deal for three scrubber-fitted VLCCs, pushing total supertanker investments past $843.5M. The capital-intensive fleet expansion reflects strong long-term confidence in high-capacity crude transport assets amidst shifting global energy demands.",
-                "Securing modern tonnage requires substantial capital outlay, increasing financial exposure for maritime operators navigating volatile charter markets. Asset owners must carefully time fleet modernization initiatives to maintain competitive advantages without overextending liquidity."
+                "The Court of International Trade officially upheld the presidential authority to rescind tariff exemptions for sub-$800 imports, securing the permanent elimination of the cross-border de minimis loophole. This legal ruling removes years of duty-free trade advantages that previously fueled low-value e-commerce parcel volume flowing across international borders.",
+                "High-volume air cargo operators and digital retail platforms must restructure inventory pricing and customs compliance protocols to absorb newly applicable import duties. Supply chain managers should prepare for sustained processing slowdowns as customs authorities increase physical inspections on low-value shipments."
             ],
             "imageUrl": "",
-            "nextUpTease": "LAST MILE: HOME DEPOT EXPRESS DELIVERY",
+            "nextUpTease": "LOGISTICS: WISETECH ANTITRUST PROBE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-20T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LAST MILE: HOME DEPOT EXPRESS DELIVERY",
+            "heading": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
             "paragraphs": [
-                "Home Depot has rolled out a nationwide express delivery service capable of fulfilling thousands of SKUs in 3 hours or less across the U.S. The accelerated fulfillment model leverages more than 2,000 local retail stores as micro-distribution hubs to capture surging consumer demand.",
-                "Rapid store-fulfilled delivery models require sophisticated inventory visibility and robust local logistics coordination to protect retail profitability. Competitors must upgrade localized fulfillment capabilities to prevent market share erosion in high-density metropolitan markets."
+                "Australian competition regulators executed formal search warrants at global logistics software giant WiseTech Global as part of an active competition and antitrust investigation. The regulatory sweep targets core software licensing practices and market dominance within the critical freight forwarding and customs management technology sector.",
+                "Freight forwarders and enterprise users relying on centralized logistics software platforms face potential vendor instability and compliance auditing reviews. IT and supply chain leadership must evaluate software redundancy plans to ensure operational continuity amidst regulatory probes."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: TRAILER ORDERS SURGE",
+            "nextUpTease": "EQUIPMENT: TRAILER ORDERS JUMP",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-20T07:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "EQUIPMENT: TRAILER ORDERS SURGE",
+            "heading": "EQUIPMENT: TRAILER ORDERS JUMP",
             "paragraphs": [
-                "Net U.S. trailer orders jumped 97% year-over-year in July as motor carriers actively upgraded aging over-the-road equipment fleets. Fleet executives are committing vital capital expenditure to secure freight assets ahead of anticipated autumnal volume spikes.",
-                "The sudden surge in equipment manufacturing demand extends OEM order backlogs and inflates capital requirements for transport operators. Fleet managers must lock in multi-year procurement contracts now to prevent equipment availability shortfalls."
+                "Net U.S. trailer orders increased 97% year-over-year in July, defying seasonal trends as motor carriers aggressively invest capital to modernize aging over-the-road equipment fleets. Fleet executives are rushing to secure manufacturing slots ahead of forecasted autumnal freight volume surges and tighter environmental compliance rules.",
+                "The sudden surge in equipment demand extends manufacturer backlogs and drives up capital expenditures for regional trucking enterprises. Fleet operators must lock in multi-year procurement schedules now to prevent equipment availability shortfalls and maintain network capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "COMPLIANCE: CHASSIS DUTY FALLOUT",
+            "nextUpTease": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Published: 2026-08-19T14:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "COMPLIANCE: CHASSIS DUTY FALLOUT",
+            "heading": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
             "paragraphs": [
-                "GG Trailers officially exited the U.S. market following the International Trade Commission's imposition of a 77% countervailing duty on chassis imported through Mexico. The punitive tariff barrier has effectively choked off cross-border supply lines for crucial intermodal equipment.",
-                "Drayage operators and intermodal trucking providers face acute equipment shortages and rising replacement costs across major North American hubs. Importers must diversify equipment leasing partnerships to maintain seamless container drayage operations."
+                "Hapag-Lloyd finalized an agreement to acquire a 25% equity stake in a major container terminal at the Port of Rotterdam to strengthen its core European gateway infrastructure. The strategic acquisition serves as a foundational pillar for the upcoming Gemini Cooperation hub-and-spoke operational network.",
+                "Consolidating terminal ownership allows major ocean carriers to protect berth access and streamline container handling velocity against industry-wide port congestion. Regional shippers must monitor how tighter terminal integration impacts dwell times and container availability across European hubs."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: ECOMMERCE DUTY IMPACTS",
+            "nextUpTease": "RETAIL: PORT OF LOS ANGELES VOLUME",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-20T09:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: ECOMMERCE DUTY IMPACTS",
+            "heading": "PORT: PORT OF LOS ANGELES VOLUME",
             "paragraphs": [
-                "Air cargo rates and shipment volumes slumped following recent European duty-free tax reforms targeting low-value cross-border e-commerce parcels. The elimination of the de minimis exemption is immediately altering shipper behavior and slowing air freight demand across major trade lanes.",
-                "Logistics providers relying on high-volume parcel traffic must restructure pricing models to adapt to shifting regulatory cost structures. Operators face the strategic challenge of realigning capacity as low-value import volumes contract under new customs rules."
+                "The Port of Los Angeles reported its second-busiest July in operational history, driven by sustained early peak season import volumes as retailers rush goods ahead of schedule. Waterfront terminals managed heavy container inflows while maintaining fluid gate operations and minimizing chronic landside truck queues.",
+                "Strong import volumes signal sustained consumer demand but raise the risk of early peak season terminal congestion and inland intermodal bottlenecks. Supply chain leaders must utilize advanced appointment systems and flexible drayage contracts to protect supply chain velocity."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-20T11:30:00Z",
                 "Status: Audited & True"
             ]
         }

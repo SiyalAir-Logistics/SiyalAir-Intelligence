@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "TANKERS U-TURN IN HORMUZ",
+        "hookTitle": "PANAMA CANAL DRAFT RESTRICTIONS SURGE",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: TANKERS U-TURN IN HORMUZ",
-                "teaserTitle": "PORT: PANAMA CANAL QUEUE FEES",
+                "headline": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS SURGE",
+                "teaserTitle": "TRANSPORT: CRUDE OIL PRICES SPIKE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Chinese crude tankers executed sudden U-turns in the Strait of Hormuz amid rising regional security tensions. Shipping lines face mounting operational uncertainty and escalating voyage risks across critical maritime lanes."
+                "narration_line": "Ocean carriers are raising surcharges as Panama Canal draft restrictions constrain vessel capacity. Shippers face rising transit costs and must evaluate alternate routing options."
             },
             {
                 "slide_index": 2,
-                "headline": "PORT: PANAMA CANAL QUEUE FEES",
-                "teaserTitle": "FLEET: NAVIOS SUPERTANKER SPEND",
+                "headline": "FUEL: CRUDE OIL PRICES SPIKE",
+                "teaserTitle": "COMPLIANCE: DE MINIMIS EXEMPTION UPHELD",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The Panama Canal queue-jump fee surged to a record four point six million dollars for a single tanker transit. Ongoing draft restrictions and high demand continue to compress shipper operating margins."
+                "narration_line": "International Brent crude prices surged two point four percent to ninety three dollars and eighty three cents per barrel. Motor carriers must implement emergency fuel surcharges to offset voyage operating costs."
             },
             {
                 "slide_index": 3,
-                "headline": "FLEET: NAVIOS SUPERTANKER SPEND",
-                "teaserTitle": "LAST MILE: HOME DEPOT EXPRESS DELIVERY",
+                "headline": "COMPLIANCE: DE MINIMIS EXEMPTION UPHELD",
+                "teaserTitle": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Navios Maritime Partners added three more scrubber-fitted supertankers in a three hundred sixty-one million dollar deal. The capital-intensive expansion reflects strong long-term confidence in crude transport assets."
+                "narration_line": "The Court of International Trade upheld presidential authority to eliminate duty-free exemptions for sub-eight-hundred-dollar imports. E-commerce platforms must restructure customs compliance protocols to absorb new duties."
             },
             {
                 "slide_index": 4,
-                "headline": "LAST MILE: HOME DEPOT EXPRESS DELIVERY",
-                "teaserTitle": "EQUIPMENT: TRAILER ORDERS SURGE",
+                "headline": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
+                "teaserTitle": "EQUIPMENT: TRAILER ORDERS JUMP",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Home Depot launched a nationwide express delivery service promising fulfillment in under three hours. The model utilizes over two thousand local stores as micro-distribution hubs."
+                "narration_line": "Australian competition authorities executed search warrants at software giant WiseTech Global during an antitrust investigation. Logistics operators must evaluate software redundancy plans to ensure operational continuity."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: TRAILER ORDERS SURGE",
-                "teaserTitle": "COMPLIANCE: CHASSIS DUTY FALLOUT",
+                "headline": "EQUIPMENT: TRAILER ORDERS JUMP",
+                "teaserTitle": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Net United States trailer orders jumped ninety-seven percent in July as motor carriers upgraded aging fleets. Fleet executives are committing vital capital to secure assets ahead of volume spikes."
+                "narration_line": "Net United States trailer orders increased ninety seven percent year-over-year as fleets upgrade aging equipment. Motor carriers are locking in procurement contracts ahead of projected volume surges."
             },
             {
                 "slide_index": 6,
-                "headline": "COMPLIANCE: CHASSIS DUTY FALLOUT",
-                "teaserTitle": "AIR CARGO: ECOMMERCE DUTY IMPACTS",
+                "headline": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
+                "teaserTitle": "RETAIL: PORT OF LOS ANGELES VOLUME",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "GG Trailers exited the market after a seventy-seven percent countervailing duty hit cross-border chassis imports. Drayage operators now face acute equipment shortages across major North American hubs."
+                "narration_line": "Hapag-Lloyd agreed to acquire a twenty five percent equity stake in a Rotterdam container terminal. Terminal consolidation protects berth access and enhances container handling velocity across European gateways."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: ECOMMERCE DUTY IMPACTS",
+                "headline": "PORT: PORT OF LOS ANGELES VOLUME",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Air cargo rates and volumes slumped following European duty-free tax reforms on low-value parcels. Logistics providers must restructure pricing models to adapt to shifting regulatory costs."
+                "narration_line": "The Port of Los Angeles recorded its second-busiest July on record amid sustained early peak season imports. Supply chain managers must utilize flexible drayage contracts to prevent landside bottlenecks."
             },
             {
                 "slide_index": 8,
