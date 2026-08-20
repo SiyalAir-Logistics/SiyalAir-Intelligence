@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PROCUREMENT: USTR FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
-                "visual_caption": "USTR is implementing Section 301 tariffs across 60 nations. Importers must audit supplier networks immediately to mitigate duty liabilities."
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
+                "teaserTitle": "LEGAL: CK HUTCHISON PANAMA ARBITRATION",
+                "visual_caption": "An empty LPG tanker paid a record $4.6M fee to skip the Panama Canal transit queue. This unprecedented premium highlights acute capacity constraints and physical bottlenecks."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: HAPAG LLOYD ROTTERDAM STAKE",
-                "teaserTitle": "EQUIPMENT: U S TRAILER ORDERS",
-                "visual_caption": "Hapag-Lloyd acquired a 25% equity stake in a Rotterdam container terminal. This investment strengthens core European gateway infrastructure."
+                "headline": "LEGAL: CK HUTCHISON PANAMA ARBITRATION",
+                "teaserTitle": "FUEL: OIL PRICES SURGE ON IRAN",
+                "visual_caption": "CK Hutchison filed a $1.5B arbitration claim against Panama over canceled terminal leases. The legal escalation underscores rising sovereign risk across transshipment hubs."
             },
             {
                 "slide_index": 3,
-                "headline": "EQUIPMENT: U S TRAILER ORDERS",
-                "teaserTitle": "PORT: LOS ANGELES JULY VOLUME",
-                "visual_caption": "U.S. trailer orders jumped 97% in July as motor carriers modernize fleets. Fleets are securing slots ahead of forecasted freight surges."
+                "headline": "FUEL: OIL PRICES SURGE ON IRAN",
+                "teaserTitle": "EQUIPMENT: U S TRAILER ORDERS",
+                "visual_caption": "Brent crude surged 1.8% to $93.24 per barrel amid escalating geopolitical tensions. Commercial fleet operators face immediate upward pressure on bunker fuel expenses."
             },
             {
                 "slide_index": 4,
-                "headline": "PORT: LOS ANGELES JULY VOLUME",
-                "teaserTitle": "FUEL: OIL PRICES SURGE ON IRAN",
-                "visual_caption": "The Port of LA reported its 2nd-busiest July on record amidst heavy inflows. Terminals managed early peak volume while maintaining fluid gates."
+                "headline": "EQUIPMENT: U S TRAILER ORDERS",
+                "teaserTitle": "PORT: LOS ANGELES JULY VOLUME",
+                "visual_caption": "Net U.S. trailer orders increased 97% in July as motor carriers modernize fleets. Fleet executives are rushing to secure manufacturing slots ahead of autumnal volume surges."
             },
             {
                 "slide_index": 5,
-                "headline": "FUEL: OIL PRICES SURGE ON IRAN",
-                "teaserTitle": "LEGAL: PANAMA PORT ARBITRATION",
-                "visual_caption": "Brent crude surged 2.4% to $93.83 per barrel amid escalating geopolitical tensions. Commercial fleets face immediate upward pressure on bunker fuel."
+                "headline": "PORT: LOS ANGELES JULY VOLUME",
+                "teaserTitle": "AIR CARGO: ZIM Q2 FINANCIAL GAINS",
+                "visual_caption": "The Port of Los Angeles reported its second-busiest July in operational history. Terminals managed early peak volume while minimizing landside truck queues."
             },
             {
                 "slide_index": 6,
-                "headline": "LEGAL: PANAMA PORT ARBITRATION",
+                "headline": "FINANCIAL: ZIM Q2 REVENUE RESULTS",
                 "teaserTitle": "LOGISTICS: AMAZON DRONE EXPANSION",
-                "visual_caption": "CK Hutchison filed a $1.5B arbitration claim against Panama over leases. The legal dispute highlights sovereign risk across transshipment hubs."
+                "visual_caption": "Zim posted solid Q2 results, generating $1.78B in revenue and returning to profit. The performance reflects elevated rate retention despite persistent network disruptions."
             },
             {
                 "slide_index": 7,
                 "headline": "LOGISTICS: AMAZON DRONE EXPANSION",
                 "teaserTitle": "",
-                "visual_caption": "Amazon will expand its aerial drone delivery network to 500 cities this year. This aggressive last-mile scaling aims to bypass urban congestion."
+                "visual_caption": "Amazon announced plans to expand its aerial drone delivery network to 500 cities. This aggressive scaling initiative aims to bypass urban ground congestion."
             },
             {
                 "slide_index": 8,
