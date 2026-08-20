@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL DRAFT RESTRICTIONS",
+        "hookTitle": "PANAMA CANAL FEE TOPS 4.6M",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL DRAFT RESTRICTIONS",
-                "teaserTitle": "TECHNOLOGY: WISETECH COMPETITION PROBE",
+                "headline": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE SURGES",
+                "teaserTitle": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Panama Canal draft restrictions are forcing cargo ships to transit at lighter weights due to regional drought. Vessel operators face mounting financial exposure and complex routing trade-offs."
+                "narration_line": "An empty tanker bypassed the Panama Canal queue after paying a record four point six million dollars. Persistent water draft restrictions and regional conflicts continue to inflate maritime operating costs."
             },
             {
                 "slide_index": 2,
-                "headline": "TECHNOLOGY: WISETECH COMPETITION PROBE",
-                "teaserTitle": "CONTAINERS: HAPAG-LLOYD ZIM DEAL PUSHBACK",
+                "headline": "TECHNOLOGY: WISETECH ANTITRUST PROBE",
+                "teaserTitle": "CONTAINERS: GLOBAL PORT CONGESTION",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Australian regulators executed a search warrant at software giant WiseTech in an antitrust probe. Enterprise freight forwarders must monitor platform stability and licensing shifts."
+                "narration_line": "Australian regulators executed a search warrant at software giant WiseTech in an ongoing antitrust investigation. Freight forwarders must monitor potential platform disruptions and diversify their technology stacks."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINERS: HAPAG-LLOYD ZIM DEAL PUSHBACK",
-                "teaserTitle": "SECURITY: INDIAN SEAFARERS HORMUZ PRESSURE",
+                "headline": "CONTAINERS: GLOBAL PORT CONGESTION",
+                "teaserTitle": "SECURITY: HORMUZ STRAIT SEAFARER PRESSURE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Freight forwarders and regulators are pushing back against the proposed Hapag-Lloyd acquisition of Zim. Shippers must audit carrier diversification strategies to mitigate service risks."
+                "narration_line": "Persistent port congestion is removing one point seven million twenty-foot units of capacity from active circulation. Ocean carriers are deploying new surcharges to offset extended transit delays."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: INDIAN SEAFARERS HORMUZ PRESSURE",
-                "teaserTitle": "RETAIL: HOME DEPOT EXPRESS DELIVERY",
+                "headline": "SECURITY: HORMUZ STRAIT SEAFARER PRESSURE",
+                "teaserTitle": "RETAIL: HOME DEPOT EXPRESS EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Indian seafarers report intense pressure from owners to transit high-risk zones in the Strait of Hormuz. Fleet operators face heightened legal liability and potential crew refusals."
+                "narration_line": "The Forward Seamen Union of India reports owners are pressuring crews to transit high-risk zones in Hormuz. Fleet operators face heightened legal liability and extreme geopolitical security exposures."
             },
             {
                 "slide_index": 5,
-                "headline": "RETAIL: HOME DEPOT EXPRESS DELIVERY",
-                "teaserTitle": "LOGISTICS: CHASSIS TARIFF IMPACT",
+                "headline": "RETAIL: HOME DEPOT EXPRESS EXPANSION",
+                "teaserTitle": "LOGISTICS: US CHASSIS DUTY EXIT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Home Depot launched nationwide express delivery within three hours using two thousand stores as hubs. Retail logistics is rapidly shifting toward decentralized storefront warehousing."
+                "narration_line": "Home Depot launched nationwide express delivery using over two thousand stores as fulfillment hubs. Omnichannel distributors must optimize local inventory visibility to match expedited fulfillment benchmarks."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS: CHASSIS TARIFF IMPACT",
-                "teaserTitle": "CUSTOMS: USMCA AUTOMOTIVE THREAT",
+                "headline": "LOGISTICS: US CHASSIS DUTY EXIT",
+                "teaserTitle": "CUSTOMS: USTR TARIFF IMPLEMENTATION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "GG Trailers exited the United States market following a seventy-seven percent tariff on Mexican chassis. Intermodal operators now face worsening equipment shortages and higher costs."
+                "narration_line": "GG Trailers exited the U.S. market after a seventy-seven percent countervailing duty was imposed on Mexican chassis. Motor carriers face worsening equipment shortages and higher replacement costs."
             },
             {
                 "slide_index": 7,
-                "headline": "CUSTOMS: USMCA AUTOMOTIVE THREAT",
+                "headline": "CUSTOMS: USTR TARIFF IMPLEMENTATION",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Automotive manufacturers face severe disruption as the future of the trade agreement is questioned. Supply chain directors are re-evaluating cross-border sourcing footprints across North America."
+                "narration_line": "The USTR is advancing Section three zero one tariffs across sixty trading partner nations. Importers must urgently review commodity classifications to mitigate sudden cross-border compliance costs."
             },
             {
                 "slide_index": 8,
