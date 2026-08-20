@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE",
-                "teaserTitle": "LEGAL: CK HUTCHISON PANAMA ARBITRATION",
-                "visual_caption": "An empty LPG tanker paid a record $4.6M fee to skip the Panama Canal transit queue. This unprecedented premium highlights acute capacity constraints and physical bottlenecks."
+                "headline": "PROCUREMENT: CATERPILLAR TARIFF REFUND",
+                "teaserTitle": "MARITIME: PANAMA CANAL SURCHARGES",
+                "visual_caption": "Caterpillar secured a $392M tariff refund after a customs review. This financial recovery highlights how manufacturers recapture duties amidst shifting trade policies."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: CK HUTCHISON PANAMA ARBITRATION",
-                "teaserTitle": "FUEL: OIL PRICES SURGE ON IRAN",
-                "visual_caption": "CK Hutchison filed a $1.5B arbitration claim against Panama over canceled terminal leases. The legal escalation underscores rising sovereign risk across transshipment hubs."
+                "headline": "MARITIME: PANAMA CANAL SURCHARGES",
+                "teaserTitle": "LOGISTICS: AMAZON DRONE EXPANSION",
+                "visual_caption": "Ocean carriers are implementing steep new surcharges due to Panama Canal draft restrictions. Low water levels force vessels to lighten loads, constraining regional capacity."
             },
             {
                 "slide_index": 3,
-                "headline": "FUEL: OIL PRICES SURGE ON IRAN",
+                "headline": "LOGISTICS: AMAZON DRONE EXPANSION",
                 "teaserTitle": "EQUIPMENT: U S TRAILER ORDERS",
-                "visual_caption": "Brent crude surged 1.8% to $93.24 per barrel amid escalating geopolitical tensions. Commercial fleet operators face immediate upward pressure on bunker fuel expenses."
+                "visual_caption": "Amazon is scaling its Prime Air drone delivery network across major metropolitan areas. This expansion bypasses urban ground traffic to accelerate delivery speeds."
             },
             {
                 "slide_index": 4,
                 "headline": "EQUIPMENT: U S TRAILER ORDERS",
-                "teaserTitle": "PORT: LOS ANGELES JULY VOLUME",
-                "visual_caption": "Net U.S. trailer orders increased 97% in July as motor carriers modernize fleets. Fleet executives are rushing to secure manufacturing slots ahead of autumnal volume surges."
+                "teaserTitle": "FUEL: OIL PRICES SURGE ON IRAN",
+                "visual_caption": "Net U.S. trailer orders surged 97% in July as motor carriers modernize fleets. Fleet executives are rushing to secure manufacturing slots ahead of freight volume surges."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT: LOS ANGELES JULY VOLUME",
-                "teaserTitle": "AIR CARGO: ZIM Q2 FINANCIAL GAINS",
-                "visual_caption": "The Port of Los Angeles reported its second-busiest July in operational history. Terminals managed early peak volume while minimizing landside truck queues."
+                "headline": "FUEL: OIL PRICES SURGE ON IRAN",
+                "teaserTitle": "FINANCIAL: ZIM Q2 REVENUE RESULTS",
+                "visual_caption": "Brent crude surged 1.8% to $93.24 as geopolitical tensions heighten shipping risks. Commercial fleet operators face immediate upward pressure on bunker fuel expenses."
             },
             {
                 "slide_index": 6,
                 "headline": "FINANCIAL: ZIM Q2 REVENUE RESULTS",
-                "teaserTitle": "LOGISTICS: AMAZON DRONE EXPANSION",
-                "visual_caption": "Zim posted solid Q2 results, generating $1.78B in revenue and returning to profit. The performance reflects elevated rate retention despite persistent network disruptions."
+                "teaserTitle": "TECHNOLOGY: WISETECH SEARCH WARRANT",
+                "visual_caption": "Zim generated $1.78B in revenue during the second quarter, returning to profitability. Strong quarterly cash flows provide balance sheet flexibility amid regulatory scrutiny."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: AMAZON DRONE EXPANSION",
+                "headline": "TECHNOLOGY: WISETECH SEARCH WARRANT",
                 "teaserTitle": "",
-                "visual_caption": "Amazon announced plans to expand its aerial drone delivery network to 500 cities. This aggressive scaling initiative aims to bypass urban ground congestion."
+                "visual_caption": "Australian regulators executed a search warrant at logistics software giant WiseTech. The antitrust probe introduces operational uncertainty for dependent freight forwarders."
             },
             {
                 "slide_index": 8,
