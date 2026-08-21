@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GLOBAL GATEWAYS: CK HUTCHISON DAMAGES",
-                "teaserTitle": "INFRASTRUCTURE: MALAYSIA PORT CAPACITY",
-                "visual_caption": "CK Hutchison seeks $1.5B in damages from Panama over seized port terminals. This legal dispute highlights growing risks across international maritime infrastructure."
+                "headline": "TRADE POLICY: SECTION 301 FORCED LABOR TARIFFS",
+                "teaserTitle": "MARITIME BOTTLENECK: PANAMA TRANSIT CUTS",
+                "visual_caption": "The USTR has enacted Section 301 tariffs on 60 nations targeting forced labor. Importers now face direct customs holds and aggressive documentation audits across international supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "INFRASTRUCTURE: MALAYSIA PORT CAPACITY",
-                "teaserTitle": "CONTAINER SHIPPING: HAPAG ROTTERDAM STAKE",
-                "visual_caption": "Malaysian ports are under pressure to accelerate infrastructure upgrades to handle surging trade volumes. Regional hubs must expand capacity to prevent severe vessel congestion."
+                "headline": "MARITIME TRANSIT: PANAMA CANAL RESTRICTIONS",
+                "teaserTitle": "ENERGY MARKETS: OIL SURGES PAST $93",
+                "visual_caption": "The Panama Canal Authority is slashing daily transit slots due to intensifying drought across the isthmus. Vessel queue-jump auction fees have surged to a record $4.6M."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINER SHIPPING: HAPAG ROTTERDAM STAKE",
-                "teaserTitle": "INLAND WATERWAYS: RHINE LOW WATER CRISIS",
-                "visual_caption": "Hapag-Lloyd is acquiring a 25% stake in a major Rotterdam terminal to secure capacity. The move strengthens hub-and-spoke operations across European gateway routes."
+                "headline": "ENERGY COSTS: BRENT CRUDE SPIKES PAST $93",
+                "teaserTitle": "FLEET EQUIPMENT: TRAILER ORDERS SURGE 97%",
+                "visual_caption": "Brent crude oil prices climbed nearly 1.8% to surpass $93.24 per barrel. Freight carriers are actively adjusting dynamic fuel surcharges to protect operating margins from rapid linehaul cost increases."
             },
             {
                 "slide_index": 4,
-                "headline": "INLAND WATERWAYS: RHINE LOW WATER CRISIS",
-                "teaserTitle": "WAREHOUSING: GXO OUTSOURCING GROWTH",
-                "visual_caption": "Low water levels on the Rhine river are severely restricting commercial barge traffic capacity. Shippers must adopt multi-modal transport plans to avoid severe supply chain delays."
+                "headline": "FLEET ASSETS: US TRAILER ORDERS SURGE 97%",
+                "teaserTitle": "TANKER ASSETS: EVALEND $220M ORDER",
+                "visual_caption": "US commercial trailer orders jumped 97% in July defying historic seasonal slowdowns. Motor carriers are locking in manufacturing slots to counter anticipated price hikes across commercial equipment in 2027."
             },
             {
                 "slide_index": 5,
-                "headline": "WAREHOUSING: GXO OUTSOURCING GROWTH",
-                "teaserTitle": "PORT VOLUMES: LOS ANGELES JULY THROUGHPUT",
-                "visual_caption": "GXO Logistics reports surging demand for outsourced warehousing solutions among global cargo owners. Flexible third-party facilities help organizations manage complex inventory volatility."
+                "headline": "TANKER FLEET: EVALEND COMMITS $220M ORDER",
+                "teaserTitle": "TRADE BARRIERS: CANADA TARIFF REDUCTIONS",
+                "visual_caption": "Evalend Shipping committed $220M for 4 new product tankers in China. The 74K DWT vessels will service growing clean petroleum demand across transatlantic maritime lanes."
             },
             {
                 "slide_index": 6,
-                "headline": "PORT VOLUMES: LOS ANGELES JULY THROUGHPUT",
-                "teaserTitle": "FLEET EXPANSION: NAVIOS VLCC SPEND",
-                "visual_caption": "The Port of Los Angeles handled 960K TEU in July despite slight normalization. Strong import volumes reflect sustained inventory replenishment for peak retail seasons."
+                "headline": "CROSS-BORDER: US PROPOSES 50% TARIFF CUT",
+                "teaserTitle": "AUTONOMOUS DELIVERY: AMAZON DRONE EXPANSION",
+                "visual_caption": "US trade officials are advancing plans to halve 50% tariffs on Canadian metals to 25%. The proposed duty reduction will provide critical cost relief for integrated North American automotive manufacturing chains."
             },
             {
                 "slide_index": 7,
-                "headline": "FLEET EXPANSION: NAVIOS VLCC SPEND",
+                "headline": "LAST MILE: AMAZON DRONE EXPANSION TO 500 CITIES",
                 "teaserTitle": "",
-                "visual_caption": "Navios Maritime Partners has pushed newbuild spending past $840M. This fleet expansion highlights confidence in long-term global crude transportation demand."
+                "visual_caption": "Amazon is scaling Prime Air autonomous drone logistics into 500 metropolitan cities this year. The micro-fulfillment network delivers high-density parcel freight to consumers within 60 minutes of ordering."
             },
             {
                 "slide_index": 8,
