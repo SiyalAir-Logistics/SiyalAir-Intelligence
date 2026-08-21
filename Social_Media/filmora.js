@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "REGULATION: USTR FORCED LABOR TARIFFS",
-                "teaserTitle": "ASIA USWC RATES SURGE",
-                "visual_caption": "USTR is advancing forced labor tariffs on 60 trading partners. Importers must audit supply chain compliance to avoid severe border delays."
+                "headline": "WATERWAYS: PANAMA CANAL CUTS SLOTS",
+                "teaserTitle": "RUSSIAN FUEL TANKER FLOWS REVERSE",
+                "visual_caption": "The Panama Canal cuts daily ship transits to 32 starting in September due to worsening drought. A record $4.6M queue-jump fee highlights severe vessel prioritization pressures."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: ASIA USWC RATES SURGE",
-                "teaserTitle": "CK HUTCHISON SEEKS 1.5B DAMAGES",
-                "visual_caption": "Spot freight rates from Asia to the US West Coast are surging rapidly. Shippers face compounding transport costs ahead of canal restrictions."
+                "headline": "TANKERS: RUSSIAN FUEL FLOWS REVERSE",
+                "teaserTitle": "PORT CAPACITY ABSORBS 5% TEU LOSS",
+                "visual_caption": "Russia is importing nearly 270K tonnes of refined fuels from Asia this month. Repeated refinery strikes have created an extraordinary tanker trade flow reversal."
             },
             {
                 "slide_index": 3,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B DAMAGES",
-                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS",
-                "visual_caption": "CK Hutchison is seeking $1.5B in damages from Panama. The legal action follows the government seizure of two vital container terminals."
+                "headline": "PORTS: CAPACITY ABSORBS 5% TEU LOSS",
+                "teaserTitle": "HD HYUNDAI TARGETS US SHIPYARD BUY",
+                "visual_caption": "Persistent global port congestion is tying up 5% of total worldwide container carrying capacity. This operational friction severely reduces effective vessel deployment."
             },
             {
                 "slide_index": 4,
-                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
-                "teaserTitle": "FEDEX NETWORK CLOSES SHIP CENTERS",
-                "visual_caption": "The Panama Canal is cutting daily bookings down to 32 ships. Severe drought conditions continue to constrain interoceanic transit capacity."
+                "headline": "MARITIME: HD HYUNDAI US SHIPYARD BUY",
+                "teaserTitle": "ATA CHIEF SPEAR DEPARTS FEDERATION",
+                "visual_caption": "South Korea's HD Hyundai Group is in advanced negotiations to acquire a U.S. shipyard. The strategic move expands its domestic manufacturing footprint."
             },
             {
                 "slide_index": 5,
-                "headline": "LOGISTICS: FEDEX NETWORK CLOSES SHIP CENTERS",
-                "teaserTitle": "ALUMINUM PRICING PROBE LAUNCHED",
-                "visual_caption": "FedEx is shutting down regional ship centers under its Network 2.0 overhaul. Shippers must adapt to tighter local pickup schedules."
+                "headline": "TRUCKING: ATA CHIEF SPEAR DEPARTS",
+                "teaserTitle": "DSV CEO ISSUES AIR AND SEA RIOT ACT",
+                "visual_caption": "American Trucking Associations CEO Chris Spear has stepped down from his post. An executive search is underway amid regulatory and court challenges."
             },
             {
                 "slide_index": 6,
-                "headline": "COMPLIANCE: ALUMINUM PRICING PROBE LAUNCHED",
-                "teaserTitle": "STATES WIN CDL DATABASE LAWSUIT",
-                "visual_caption": "Nearly 60 members of Congress are demanding an investigation into aluminum pricing. Lawmakers target unfair tariff surcharges in metal markets."
+                "headline": "AIR CARGO: DSV CEO ISSUES RIOT ACT",
+                "teaserTitle": "INDONESIAN TARIFFS STRIKE IMPORTERS",
+                "visual_caption": "DSV CEO Jens Lund issued a strict internal warning regarding network integration. Management demands fast consolidation following the DB Schenker acquisition."
             },
             {
                 "slide_index": 7,
-                "headline": "TRUCKING: STATES WIN CDL DATABASE LAWSUIT",
+                "headline": "RATES: ASIAN TARIFFS STRIKE IMPORTERS",
                 "teaserTitle": "",
-                "visual_caption": "22 states have successfully blocked federal access to 17M driver records. Fleets must maintain internal qualification files to ensure compliance."
+                "visual_caption": "Asian importers face severe freight rate shocks as carriers apply new surcharges on China routes. These unexpected pricing spikes continue to compress operating margins."
             },
             {
                 "slide_index": 8,

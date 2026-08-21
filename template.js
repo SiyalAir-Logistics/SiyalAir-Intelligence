@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "USTR MOVES FORWARD WITH FORCED LABOR",
-        "titleBlue": "TARIFFS",
-        "footerSummary": "USTR advances forced labor tariffs on 60 trading partners as Section 122 expires, amplifying compliance and margin risks for global shippers."
+        "titleWhite": "PANAMA CANAL CUTS DAILY",
+        "titleBlue": "SLOTS",
+        "footerSummary": "Panama Canal cuts daily transits to 32 ships from September, driving up queue-jump fees to $4.6M and squeezing transpacific intermodal capacity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "REGULATION: USTR FORCED LABOR TARIFFS",
+            "heading": "WATERWAYS: PANAMA CANAL CUTS SLOTS",
             "paragraphs": [
-                "The Office of the United States Trade Representative is proceeding with the implementation of tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. This aggressive regulatory shift coincides with the official expiration of Section 122 trade measures across global supply chains.",
-                "Importers must rapidly audit tier-1 and tier-2 vendor networks to prevent severe customs delays and unexpected duty assessments at destination ports. Failure to verify origin and labor compliance will trigger cascading border friction and immediately compress gross operating margins."
+                "The Panama Canal Authority is officially reducing daily booking capacity to 32 ship transits starting in mid-September as worsening rainfall deficits force defensive measures against El Ni\u00f1o. This operational contraction follows a record $4.6M queue-jump fee paid by an empty LPG tanker, highlighting extreme cargo prioritization pressures.",
+                "Reduced daily capacity will drive up auction bidding costs and push more transpacific tonnage toward alternative intermodal land-bridge corridors. Importers moving containerized freight must reevaluate routing strategies to prevent severe delivery schedule slippage."
             ],
             "imageUrl": "",
-            "nextUpTease": "ASIA USWC RATES SURGE",
+            "nextUpTease": "RUSSIAN FUEL TANKER FLOWS REVERSE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-21T08:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "MARITIME: ASIA USWC RATES SURGE",
+            "heading": "TANKERS: RUSSIAN FUEL FLOWS REVERSE",
             "paragraphs": [
-                "Spot freight rates on Asia to United States West Coast lanes are surging at an accelerated pace as cargo owners scramble to bypass upcoming capacity bottlenecks. Ocean carriers are capitalizing on heightened demand driven by imminent El Ni\u00f1o restrictions across interoceanic trade paths.",
-                "Shippers face compounding cost pressures and tighter booking allocations as carriers prioritize higher-yielding transpacific loops. Logistics planners must secure forward service contracts immediately to insulate annual freight budgets from volatile spot market spikes."
+                "Russia is actively importing nearly 270K tonnes of refined fuels from Asia this month, creating an extraordinary reversal in global tanker trade routes. Repeated Ukrainian drone and missile strikes on domestic refineries have left the major energy producer short on supply.",
+                "This shift in maritime product trade draws significant clean product tanker capacity away from traditional routes and inflates spot freight expenses. Energy logistics planners must adjust vessel chartering schedules to navigate heightened geopolitical routing risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "CK HUTCHISON SEEKS 1.5B DAMAGES",
+            "nextUpTease": "PORT CAPACITY ABSORBS 5% TEU LOSS",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-21T09:30:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B DAMAGES",
+            "heading": "PORTS: CAPACITY ABSORBS 5% TEU LOSS",
             "paragraphs": [
-                "Hong Kong conglomerate CK Hutchison Holdings has initiated formal international arbitration proceedings demanding $1.5B in damages from Panama. The legal action follows the controversial government seizure of the Balboa and Cristobal container terminal concessions earlier this year.",
-                "Ongoing legal disputes over terminal asset ownership threaten long-term operational stability and gateway throughput at key transshipment hubs. Global ocean liners managing regional schedules must account for heightened legal risk and potential berthing disruptions."
+                "Persistent global supply chain bottlenecks and port congestion are currently tying up 5% of the total worldwide container carrying capacity, according to Sea-Intelligence data. This friction severely reduces effective vessel deployment compared to the stable baseline recorded between 2011 and 2019.",
+                "Carriers and beneficial cargo owners absorb continuous cost penalties as trapped vessel assets restrict service frequency and equipment availability. Logistics teams must factor prolonged port dwell times into baseline inventory buffer calculations."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL TRIMS DAILY SLOTS",
+            "nextUpTease": "HD HYUNDAI TARGETS US SHIPYARD BUY",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-20T14:15:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-21T15:51:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
+            "heading": "MARITIME: HD HYUNDAI US SHIPYARD BUY",
             "paragraphs": [
-                "The Panama Canal Authority is officially reducing daily booking capacity to 32 transits starting in mid-September to manage severe rainfall deficits. El Ni\u00f1o induced drought conditions continue to drain watershed reservoir levels, forcing stricter vessel allocation rules.",
-                "Reduced daily capacity will drive up queue-jump auction fees and push more tonnage toward alternative intermodal land-bridge corridors. Importers moving high-value containerized freight must reevaluate routing strategies to prevent costly delivery schedule slippage."
+                "South Korea\u2019s HD Hyundai Group is currently in advanced negotiations to acquire a major United States shipyard to expand its domestic manufacturing footprint. The strategic move aligns with the broader push to leverage opportunities under the American shipbuilding initiative.",
+                "Securing domestic shipyard assets allows foreign maritime giants to capture lucrative Jones Act and defense contracts while bypassing import tariffs. Domestic logistics providers should monitor how this cross-border consolidation impacts commercial vessel construction timelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "FEDEX NETWORK CLOSES SHIP CENTERS",
+            "nextUpTease": "ATA CHIEF SPEAR DEPARTS FEDERATION",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-21T07:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-21T14:29:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "LOGISTICS: FEDEX NETWORK CLOSES SHIP CENTERS",
+            "heading": "TRUCKING: ATA CHIEF SPEAR DEPARTS",
             "paragraphs": [
-                "Logistics giant FedEx is actively shutting down regional ship centers as part of its ongoing Network 2.0 operational overhaul and consolidation. The structural restructuring aims to streamline physical footprint expenses and optimize last-mile delivery route density.",
-                "While facility closures drive corporate cost efficiencies, local shippers may experience shifts in pickup cutoff times and transit consistency. Regional distribution managers must diversify carrier partnerships to maintain resilient parcel service level agreements."
+                "American Trucking Associations President and CEO Chris Spear has officially stepped down from his leadership post, triggering an immediate executive search. His departure comes as motor carriers face intense regulatory friction, driver verification lawsuits, and shifting trade policies.",
+                "The leadership transition arrives at a critical juncture for domestic freight advocacy as the industry navigates complex labor and safety mandates. Fleet operators must stay closely aligned with association policy updates to anticipate impending regulatory shifts."
             ],
             "imageUrl": "",
-            "nextUpTease": "ALUMINUM PRICING PROBE LAUNCHED",
+            "nextUpTease": "DSV CEO ISSUES AIR AND SEA RIOT ACT",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-21T10:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "COMPLIANCE: ALUMINUM PRICING PROBE LAUNCHED",
+            "heading": "AIR CARGO: DSV CEO ISSUES RIOT ACT",
             "paragraphs": [
-                "Nearly 60 members of Congress have formally petitioned for an immediate federal investigation into the contentious Midwest aluminum premium pricing mechanism. Lawmakers argue that current indexes improperly incorporate 50% tariff penalty costs even when facilities utilize domestically recycled metal.",
-                "Flawed metal pricing formulas artificially inflate raw material expenses for domestic manufacturers and industrial packaging suppliers. Procurement executives must scrutinize supplier pricing contracts to strip out unwarranted tariff surcharges from metal components."
+                "DSV Chief Executive Jens Lund has delivered a sharp internal warning regarding operational focus and aggressive integration execution following the massive DB Schenker acquisition. Management insists on immediate consolidation of air and sea logistics networks to eliminate duplicate overhead.",
+                "Shippers utilizing combined forwarding services should anticipate tighter capacity controls and accelerated facility rationalization across key global gateways. Procurement managers must verify that contract service level agreements remain intact during the transition."
             ],
             "imageUrl": "",
-            "nextUpTease": "STATES WIN CDL DATABASE LAWSUIT",
+            "nextUpTease": "INDONESIAN TARIFFS STRIKE IMPORTERS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-19T11:30:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "TRUCKING: STATES WIN CDL DATABASE LAWSUIT",
+            "heading": "RATES: ASIAN TARIFFS STRIKE IMPORTERS",
             "paragraphs": [
-                "A federal court coalition of 22 states has successfully blocked aggressive federal mandates demanding bulk access to 17M commercial driver records. The ruling protects state-level database governance and halts unauthorized federal overreach into commercial driver privacy protections.",
-                "The legal victory prevents immediate disruption to driver verification workflows and cross-border motor carrier compliance auditing systems. Fleet safety directors must maintain robust internal qualification archives to ensure uninterrupted driver onboarding operations."
+                "Indian and regional Asian importers are facing severe freight rate shocks as carriers aggressively apply surcharges on routes originating from China. Surging spot costs and restricted vessel loops compound financial pressures on manufacturing supply chains.",
+                "Unpredicted transport pricing spikes erode profit margins for companies relying on just-in-time raw material inputs from core Asian hubs. Supply chain leaders must establish dynamic freight budgeting models to absorb sudden rate volatility."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-21T12:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
