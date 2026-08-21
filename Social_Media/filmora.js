@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M USD",
-                "teaserTitle": "USTR ADVANCES TARIFFS",
-                "visual_caption": "An empty LPG tanker paid $4.6M to bypass Panama Canal queues. Severe draft restrictions and water constraints continue to escalate shipping costs."
+                "headline": "MARITIME: PANAMA CANAL REDUCES DAILY TRANSITS TO 32 SHIPS",
+                "teaserTitle": "OIL PRICES SURGE ON IRAN TENSION",
+                "visual_caption": "The Panama Canal cuts daily capacity to 32 ships amid worsening rainfall deficits. Commercial carriers face tighter scheduling constraints across key waterways."
             },
             {
                 "slide_index": 2,
-                "headline": "GOVERNMENT: USTR ADVANCES TARIFFS ON 60 NATIONS",
-                "teaserTitle": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
-                "visual_caption": "The USTR implemented forced labor tariffs across 60 trading partners. Importers face immediate compliance challenges as customs authorities ramp up enforcement."
+                "headline": "FUEL: OIL PRICES SURGE AS US THREATENS IRAN",
+                "teaserTitle": "USTR ADVANCES TARIFFS ON 60 NATIONS",
+                "visual_caption": "Brent crude prices surged 1.8% to $93.24 per barrel following geopolitical friction. Refineries processed 17.4M barrels daily to meet surging energy demand."
             },
             {
                 "slide_index": 3,
-                "headline": "CONTAINERS: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
-                "teaserTitle": "MARITIME: CK HUTCHISON SEEKS 1.5B USD",
-                "visual_caption": "Hapag-Lloyd acquired a 25% stake in a major Rotterdam terminal. The strategic investment strengthens the Gemini network hub-and-spoke operations."
+                "headline": "GOVERNMENT: USTR ADVANCES TARIFFS ON 60 NATIONS",
+                "teaserTitle": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+                "visual_caption": "The USTR is implementing tariffs on 60 nations under Section 301. Importers face rigorous customs audits as regulatory enforcement expands."
             },
             {
                 "slide_index": 4,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD PANAMA DAMAGES",
-                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS SURGE",
-                "visual_caption": "CK Hutchison filed a $1.5B compensation claim against Panama. The dispute follows the cancellation of strategic port operating leases."
+                "headline": "CONTAINERS: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS SURGE 97 PERCENT",
+                "visual_caption": "Hapag-Lloyd acquired a 25% equity stake in a key Rotterdam container terminal. This investment anchors the Gemini network hub-and-spoke strategy."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: US TRAILER ORDERS SURGE 97 PERCENT",
-                "teaserTitle": "RETAIL: WALMART Q2 COMPS SOFTEN",
-                "visual_caption": "U.S. commercial trailer orders surged 97% year-over-year in July. Motor carriers rushed to secure manufacturing slots amid rising equipment costs."
+                "heading": "EQUIPMENT: US TRAILER ORDERS SURGE 97 PERCENT",
+                "teaserTitle": "LEGAL: CK HUTCHISON SEEKS 1.5B USD",
+                "visual_caption": "US commercial trailer orders jumped 97% year-over-year during the month of July. Fleets accelerated asset replacement cycles ahead of predicted price hikes."
             },
             {
                 "slide_index": 6,
-                "headline": "RETAIL: WALMART Q2 COMPS SOFTEN ON DRUG PRICING",
+                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD PANAMA DAMAGES",
                 "teaserTitle": "LOGISTICS: RHENUS LAUNCHES GREEN SERVICE",
-                "visual_caption": "Walmart posted its slowest comparable sales growth in 6 years due to drug pricing regulations. E-commerce growth remained robust despite retail margin compression."
+                "visual_caption": "CK Hutchison filed a $1.5B claim against Panama over canceled terminal leases. The dispute introduces substantial sovereign risk for port investors."
             },
             {
                 "slide_index": 7,
                 "headline": "LOGISTICS: RHENUS LAUNCHES GREEN TRANSPORT BOOK",
                 "teaserTitle": "",
-                "visual_caption": "The Rhenus Group launched a new book-and-claim service for transport emissions. Shippers can allocate sustainable fuel investments without physical asset access."
+                "visual_caption": "The Rhenus Group introduced a digital book-and-claim service for transport emissions. Shippers can allocate sustainable fuel investments across multimodal networks."
             },
             {
                 "slide_index": 8,

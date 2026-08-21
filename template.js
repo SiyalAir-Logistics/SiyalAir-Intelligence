@@ -1,68 +1,68 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES 4M",
-        "titleBlue": "USD",
-        "footerSummary": "Panama Canal queue jump fees surge to 4.6M USD as carriers navigate severe draft restrictions and regional transit bottlenecks."
+        "titleWhite": "PANAMA CANAL REDUCES DAILY TRANSITS TO 32",
+        "titleBlue": "SHIPS",
+        "footerSummary": "Panama Canal reduces daily booking capacity to 32 ships as worsening rainfall deficits force the waterway into deeper defensive measures."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M USD",
+            "heading": "MARITIME: PANAMA CANAL REDUCES DAILY TRANSITS TO 32 SHIPS",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker will bypass the Panama Canal transit queue after paying an unprecedented 4.6M USD fee amid worsening water constraints. Persistent El Ni\u00f1o weather patterns and declining Gatun Lake levels continue to restrict daily vessel passages and compress regional throughput capacity. Shippers face severe maritime delays as carriers absorb escalating operational surcharges to secure priority access through the vital isthmus waterway.",
-                "Absorbing multi-million-dollar queue jump charges severely impacts freight margins and forces logistics planners to reevaluate total landed cost projections. Commercial cargo owners must model alternative intermodal routing strategies to circumvent unpredictable waterway bottlenecks during peak shipping cycles."
+                "The Panama Canal Authority is officially cutting daily booking capacity to 32 ships starting in mid-September as worsening rainfall deficits impact Gatun Lake water levels. This defensive operational adjustment comes in response to intensifying Super El Ni\u00f1o weather patterns that threaten sustained isthmus transit throughput. Commercial container lines and bulk operators face tighter scheduling constraints and heightened schedule unreliability across key global trade corridors.",
+                "Navigating reduced draft limits and tighter transit quotas forces logistics planners to absorb steeper operational costs and evaluate alternative intermodal routings. Shippers must proactively secure forward bookings and factor potential waterway delays into their long-term inventory replenishment models."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR ADVANCES TARIFFS",
+            "nextUpTease": "OIL PRICES SURGE ON IRAN TENSION",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T08:00:00Z",
+                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GOVERNMENT: USTR ADVANCES TARIFFS ON 60 NATIONS",
+            "heading": "FUEL: OIL PRICES SURGE AS US THREATENS IRAN",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially implemented forced labor-based tariffs across 60 trading partners under Section 301. This sweeping regulatory enforcement coincides with the expiration of legacy Section 122 tariffs, triggering rigorous customs audits across international entry points. Importers face immediate compliance challenges as regulatory authorities ramp up scrutiny on foreign supply chain provenance and documentation.",
-                "Navigating this complex regulatory expansion requires automated border management solutions to prevent costly port delays and cargo detentions. Shippers must diversify sourcing regions and engage specialized customs brokers to mitigate cascading cost increases across international supply chains."
+                "Brent crude oil prices surged 1.8% to 93.24 USD per barrel following heightened geopolitical friction and renewed United States pressure targeting Iranian maritime channels. Refineries have ramped up daily processing throughput to 17.4M barrels, reaching the highest operational pace recorded since 2019. This energy spike directly impacts global bunker surcharges and pushes heavy transportation fuel costs higher for motor carriers and ocean liners alike.",
+                "Escalating fuel expenses compress operating margins across all freight modes, forcing transportation providers to pass rising energy costs downstream through dynamic surcharges. Supply chain executives must recalibrate baseline freight budgets to account for sustained fuel volatility through the winter shipping cycle."
             ],
             "imageUrl": "",
-            "nextUpTease": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+            "nextUpTease": "USTR ADVANCES TARIFFS ON 60 NATIONS",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-20T09:00:00Z",
+                "Source: https://www.ttnews.com/articles/oil-prices-surge-us-threatens-pressure-iran",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "CONTAINERS: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+            "heading": "GOVERNMENT: USTR ADVANCES TARIFFS ON 60 NATIONS",
             "paragraphs": [
-                "Hapag-Lloyd has finalized an agreement to acquire a 25% equity stake in a major container terminal located at the Port of Rotterdam. This strategic terminal investment serves as a vital pillar for the Gemini Cooperation's newly established hub-and-spoke ocean network architecture. Securing proprietary terminal access allows the carrier to optimize berth productivity and insulate service schedules against European port congestion.",
-                "Controlling key gateway infrastructure enhances operational resilience and provides superior schedule reliability for enterprise cargo owners navigating volatile trade lanes. Shippers should evaluate how carrier-owned terminal networks impact long-term service contracts and equipment availability."
+                "The Office of the United States Trade Representative is moving forward with the implementation of forced labor-based tariffs across 60 trading partners under Section 301. This regulatory enforcement action coincides with the expiration of legacy Section 122 tariffs, triggering rigorous compliance audits at all major customs entry points. Importers face immediate administrative friction as border authorities intensify vetting of foreign supply chain documentation and product provenance.",
+                "Managing this expanded regulatory scope requires automated trade compliance tools to prevent costly port delays and potential cargo seizures. Logistics buyers must diversify sourcing geographies and engage specialized customs brokers to mitigate cascading cost increases across international networks."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME: CK HUTCHISON SEEKS 1.5B USD",
+            "nextUpTease": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-20T10:00:00Z",
+                "Source: https://www.logisticsmgmt.com/news/ustr-moves-ahead-with-forced-labor-based-tariffs-on-60-trading-partners",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B USD PANAMA DAMAGES",
+            "heading": "CONTAINERS: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
             "paragraphs": [
-                "CK Hutchison has formally filed a 1.5B USD compensation claim against Panama, alleging severe breaches of international investment protection treaties. The legal dispute stems from the abrupt cancellation of strategic terminal operating leases, triggering widespread uncertainty across global port management operations. International maritime operators are monitoring the arbitration proceedings closely as a bellwether for sovereign risk in port infrastructure investments.",
-                "Escalating legal friction in critical transshipment hubs introduces substantial regulatory risk for multinational terminal operators and ocean carriers alike. Logistics executives must factor geopolitical and sovereign dispute exposures into long-term network deployment strategies."
+                "Hapag-Lloyd has finalized an agreement to acquire a 25% equity stake in a major container terminal located at the Port of Rotterdam. This strategic gateway investment forms a foundational pillar for the Gemini Cooperation's newly established hub-and-spoke ocean network architecture. Securing proprietary terminal capacity allows the carrier to optimize berth productivity and insulate service schedules against European port congestion.",
+                "Controlling key terminal assets enhances operational resilience and delivers superior schedule predictability for enterprise cargo owners navigating volatile trade lanes. Shippers should evaluate how carrier-owned port networks impact long-term service contracts and local equipment availability."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: US TRAILER ORDERS SURGE",
+            "nextUpTease": "EQUIPMENT: US TRAILER ORDERS SURGE 97 PERCENT",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-20T08:00:00Z",
+                "Source: https://theloadstar.com/hapag-lloyd-to-acquire-25-of-box-terminal-at-rotterdam-vital-to-gemini/",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -70,29 +70,29 @@ const dailyData = {
             "id": 5,
             "heading": "EQUIPMENT: US TRAILER ORDERS SURGE 97 PERCENT",
             "paragraphs": [
-                "United States commercial trailer orders defied historical seasonal expectations by surging 97% year-over-year during the month of July. Motor carriers and private fleets rushed to secure manufacturing slots against a backdrop of tightening equipment availability and rising component costs. This unexpected procurement wave highlights an aggressive push by fleet operators to replace aging over-the-road assets ahead of predicted price spikes.",
-                "Accelerating capital expenditures for fleet renewal significantly increases fixed overhead costs for motor carriers operating in competitive freight markets. Shippers should anticipate tighter equipment capacity in specific regional corridors as fleets manage absorption timelines."
+                "United States commercial trailer orders defied seasonal expectations by surging 97% year-over-year during the month of July. Motor carriers and private fleets rushed to secure manufacturing slots against a backdrop of tightening equipment availability and rising component expenses. This unexpected procurement wave highlights an aggressive push by fleet operators to replace aging over-the-road assets ahead of predicted price hikes.",
+                "Accelerating capital expenditures for fleet modernization significantly increases fixed overhead costs for motor carriers operating in competitive freight markets. Shippers should anticipate tighter equipment capacity in specific regional corridors as fleets manage absorption timelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: WALMART Q2 COMPS SOFTEN",
+            "nextUpTease": "LEGAL: CK HUTCHISON SEEKS 1.5B USD",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T11:00:00Z",
+                "Source: https://www.ttnews.com/articles/us-trailer-orders-july-2026",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "RETAIL: WALMART Q2 COMPS SOFTEN ON DRUG PRICING",
+            "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B USD PANAMA DAMAGES",
             "paragraphs": [
-                "Walmart reported its slowest pace of United States comparable sales growth in six years, with second-quarter metrics softened by strict drug pricing regulations. Despite robust overall e-commerce expansion driven by accelerated delivery capabilities, retail sales volumes experienced notable margin compression. Supply chain executives are analyzing how pharmaceutical pricing shifts ripple through mass-merchandise inventory replenishment cycles.",
-                "Shifting consumer spending patterns and regulatory adjustments in retail sectors require high agility from enterprise distribution networks. Supply chain leaders must utilize advanced demand sensing tools to align inventory levels with localized consumption shifts."
+                "CK Hutchison has formally filed a 1.5B USD compensation claim against Panama, alleging severe breaches of international investment protection treaties. The legal dispute stems from the abrupt cancellation of strategic terminal operating leases, triggering widespread uncertainty across global port management operations. International maritime operators are monitoring the arbitration proceedings closely as a bellwether for sovereign risk in port infrastructure investments.",
+                "Escalating legal friction in critical transshipment hubs introduces substantial regulatory risk for multinational terminal operators and ocean carriers alike. Logistics executives must factor geopolitical and sovereign dispute exposures into long-term network deployment strategies."
             ],
             "imageUrl": "",
             "nextUpTease": "LOGISTICS: RHENUS LAUNCHES GREEN SERVICE",
             "tags": [
-                "Source: https://www.retaildive.com",
-                "Published: 2026-08-20T08:30:00Z",
+                "Source: https://www.supplychainbrain.com/articles/ck-hutchison-seeks-15b-in-damages-over-seized-panama-ports",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
@@ -106,8 +106,8 @@ const dailyData = {
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-20T07:00:00Z",
+                "Source: https://www.dcvelocity.com/articles/89047-rhenus-group-offers-book-and-claim-service-to-reduce-transport-emissions",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
