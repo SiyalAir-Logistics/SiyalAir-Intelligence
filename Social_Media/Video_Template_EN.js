@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL FEE SURGES TO 4.6M USD",
+        "hookTitle": "PANAMA CANAL CUTS TRANSIT SLOTS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL FEE SURGES TO 4.6M",
-                "teaserTitle": "CK HUTCHISON DEMANDS 1.5B IN PANAMA",
+                "headline": "CANAL: PANAMA CUTS DAILY BOOKINGS TO 32",
+                "teaserTitle": "HAPAG-LLOYD BUYS 25% ROTTERDAM STAKE",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty tanker bypassed the Panama Canal queue after paying a record four point six million dollars. This payment sets a new high as draft restrictions squeeze global shipping."
+                "narration_line": "The Panama Canal is reducing daily booking slots to thirty-two vessels this September due to worsening water deficits. Shippers face higher auction surcharges and mounting transit delays."
             },
             {
                 "slide_index": 2,
-                "headline": "GLOBAL: CK HUTCHISON DEMANDS 1.5B IN PANAMA",
-                "teaserTitle": "USTR ADVANCES FORCED LABOR TARIFFS ON",
+                "headline": "PORTS: HAPAG-LLOYD BUYS 25% ROTTERDAM STAKE",
+                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR DEPARTS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CK Hutchison Holdings initiated a second arbitration against Panama seeking one point five billion dollars in damages. The action follows the seizure of vital port terminal concessions."
+                "narration_line": "Hapag-Lloyd has acquired a twenty-five percent stake in the Maasvlakte Two terminal at the Port of Rotterdam. The move secures vital European berthing capacity for the Gemini Cooperation."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: USTR ADVANCES FORCED LABOR TARIFFS ON",
-                "teaserTitle": "PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
+                "headline": "TRUCKING: ATA PRESIDENT CHRIS SPEAR DEPARTS",
+                "teaserTitle": "22 STATES SUE OVER CDL DATABASE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The trade representative is implementing new tariffs across sixty nations under section three oh one. This regulatory shift enforces strict compliance audits on global supply chains."
+                "narration_line": "American Trucking Associations President Chris Spear has stepped down after nearly a decade leading the organization. The leadership change arrives amid sweeping regulatory reviews across the freight sector."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPLIANCE: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
-                "teaserTitle": "PORT OF LOS ANGELES POSTS STRONG",
+                "headline": "COMPLIANCE: 22 STATES SUE OVER CDL DATABASE",
+                "teaserTitle": "WAREHOUSE VACANCY FALLS TO 7.3%",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Pennsylvania regulators can now impose twenty five thousand dollar fines on unlicensed training schools. The law aims to eliminate substandard instruction across key freight corridors."
+                "narration_line": "Twenty-two states have sued to block federal mandates requiring bulk access to seventeen million commercial driver records. State leaders argue the demand violates statutory driver privacy laws."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: PORT OF LOS ANGELES POSTS STRONG",
-                "teaserTitle": "SUPPLY CHAIN SALARIES REBOUND TO",
+                "headline": "REAL ESTATE: WAREHOUSE VACANCY FALLS TO 7.3%",
+                "teaserTitle": "TANKER HIJACKED IN GULF OF ADEN",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand TEUs in July despite a slight annual dip. Shippers continue front loading imports to hedge against global risks."
+                "narration_line": "National warehouse vacancy fell to seven point three percent in the second quarter as industrial demand rebounded. Slower construction starts are stabilizing industrial lease rates nationwide."
             },
             {
                 "slide_index": 6,
-                "headline": "LABOR: SUPPLY CHAIN SALARIES REBOUND TO",
-                "teaserTitle": "TRUMP LIFTS TARIFFS ON BEEF IMPORTS",
+                "headline": "SECURITY: TANKER HIJACKED IN GULF OF ADEN",
+                "teaserTitle": "HD HYUNDAI PURSUES US SHIPYARD",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Logistics salaries rebounded to one hundred twenty six thousand dollars as professionals take on broader roles. Executives are managing complex technology and risk protocols."
+                "narration_line": "Armed groups have hijacked a commercial product tanker in the Gulf of Aden, forcing it toward Somalia. Maritime carriers face rising war-risk insurance premiums across regional transit lanes."
             },
             {
                 "slide_index": 7,
-                "headline": "PROCUREMENT: TRUMP LIFTS TARIFFS ON BEEF IMPORTS",
+                "headline": "INFRASTRUCTURE: HD HYUNDAI PURSUES US SHIPYARD",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The administration will allow three hundred thousand metric tons of beef to enter duty free for ninety days. This policy aims to ease domestic shortages and stabilize cold chain margins."
+                "narration_line": "South Korea's HD Hyundai is in advanced talks to acquire an American commercial shipyard. The acquisition aims to expand domestic manufacturing for commercial and specialized vessels."
             },
             {
                 "slide_index": 8,

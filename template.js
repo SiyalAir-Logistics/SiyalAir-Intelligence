@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL FEE SURGES TO",
-        "titleBlue": "4.6M",
-        "footerSummary": "Panama Canal queue jump fee hits a record 4.6M USD as regional shipping bottlenecks force carriers into aggressive bidding wars."
+        "titleWhite": "PANAMA CUTS DAILY BOOKINGS TO",
+        "titleBlue": "32",
+        "footerSummary": "Panama Canal restricts daily vessel slots to 32 starting September as severe rainfall deficits threaten global maritime transit capacity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL FEE SURGES TO 4.6M",
+            "heading": "CANAL: PANAMA CUTS DAILY BOOKINGS TO 32",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker will bypass the congested Panama Canal queue after paying a record 4.6M USD fee, according to recent shipping intelligence data. This transaction represents the highest publicly reported queue jump payment to date, eclipsing previous benchmarks as draft restrictions intensify.",
-                "Escalating transit premiums compound operational expenses for enterprise shippers relying on primary maritime gateways for transpacific trade movement. Logistics directors must reevaluate routing strategies and anticipate continued spot market volatility across critical bottleneck corridors."
+                "The Panama Canal Authority confirmed it will restrict daily booking slots to 32 vessels starting September 4 due to persistent drought conditions. Daily allocations will drop to 9 Neopanamax and 23 Panamax transits as reservoir levels decline across the watershed.",
+                "Restricted booking windows will intensify vessel congestion and drive spot auction premiums significantly higher across key interoceanic trade routes. Enterprise shippers moving transpacific freight must evaluate alternate routings via the Suez Canal or U.S. West Coast intermodal corridors."
             ],
             "imageUrl": "",
-            "nextUpTease": "CK HUTCHISON DEMANDS 1.5B IN PANAMA",
+            "nextUpTease": "HAPAG-LLOYD BUYS 25% ROTTERDAM STAKE",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-21T10:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GLOBAL: CK HUTCHISON DEMANDS 1.5B IN PANAMA",
+            "heading": "PORTS: HAPAG-LLOYD BUYS 25% ROTTERDAM STAKE",
             "paragraphs": [
-                "Hong Kong based CK Hutchison Holdings has officially initiated a second international arbitration proceeding against the government of Panama seeking 1.5B USD in damages. The legal action follows the controversial cancellation and seizure of vital terminal operating concessions at Balboa and Cristobal ports.",
-                "Prolonged regulatory disputes across major maritime hubs introduce acute asset vulnerability and operational friction for international supply chain operators. Enterprise logistics executives must monitor gateway stability closely to protect cargo flows from sudden administrative disruptions."
+                "Hapag-Lloyd has acquired a 25% stake in the automated Maasvlakte II container terminal at the Port of Rotterdam from APM Terminals. The strategic transaction fortifies long-term hub berthing capacity for the newly formed Gemini Cooperation alliance with Maersk.",
+                "Direct terminal equity ownership grants the carrier alliance priority berthing windows and greater control over European transshipment fluidity. Competing non-alliance ocean carriers face tightening berthing schedules and potential feeder connection delays at Europe's largest gateway."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR ADVANCES FORCED LABOR TARIFFS ON",
+            "nextUpTease": "ATA PRESIDENT CHRIS SPEAR DEPARTS",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-20T20:43:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-21T11:45:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "REGULATION: USTR ADVANCES FORCED LABOR TARIFFS ON",
+            "heading": "TRUCKING: ATA PRESIDENT CHRIS SPEAR DEPARTS",
             "paragraphs": [
-                "The Office of the United States Trade Representative is moving forward with the implementation of targeted trade tariffs across 60 nations under Section 301 authority. This regulatory expansion coincides with the expiration of older provisions, enforcing stricter compliance audits on cross-border supply chains.",
-                "Heightened customs enforcement increases administrative overhead and introduces potential clearance delays for importers managing complex multi-tier sourcing networks. Trade compliance teams must conduct rigorous supplier audits immediately to mitigate detention risks and avoid severe financial penalties."
+                "American Trucking Associations President and CEO Chris Spear has officially stepped down after leading the national freight federation since 2016. The leadership transition comes during pivotal legislative battles over automated broker liability, independent contractor classifications, and tightening emissions standards.",
+                "Spear's sudden departure leaves motor carriers navigating high-stakes regulatory shifts without veteran lobbying leadership in Washington. Motor carriers and third-party logistics brokers must brace for fragmented advocacy on upcoming federal carrier oversight and safety rules."
             ],
             "imageUrl": "",
-            "nextUpTease": "PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
+            "nextUpTease": "22 STATES SUE OVER CDL DATABASE",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-21T14:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "COMPLIANCE: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
+            "heading": "COMPLIANCE: 22 STATES SUE OVER CDL DATABASE",
             "paragraphs": [
-                "Pennsylvania regulators are enforcing a strict new state law authorizing civil penalties of up to 25K USD against unlicensed commercial driver training academies. This regulatory crackdown aims to eliminate substandard instruction and elevate safety compliance across key regional freight arteries.",
-                "Aggressive credential oversight further restricts qualified driver pipelines and elevates operating pressures for regional motor carriers. Fleet managers must audit driver qualification files meticulously to prevent compliance infractions and control liability exposure."
+                "A coalition of 22 state attorneys general filed a federal lawsuit to block government mandates demanding bulk access to 17M commercial driver records. The states argue that releasing detailed Commercial Driver's License registries violates statutory privacy protections and oversteps federal oversight authority.",
+                "Contested driver data governance threatens to stall unified federal safety compliance audits and driver verification screening systems. Fleet compliance directors must maintain redundant driver qualification files to avoid cross-border audit citations amid jurisdictional conflicts."
             ],
             "imageUrl": "",
-            "nextUpTease": "PORT OF LOS ANGELES POSTS STRONG",
+            "nextUpTease": "WAREHOUSE VACANCY FALLS TO 7.3%",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-21T16:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "MARITIME: PORT OF LOS ANGELES POSTS STRONG",
+            "heading": "REAL ESTATE: WAREHOUSE VACANCY FALLS TO 7.3%",
             "paragraphs": [
-                "The Port of Los Angeles processed 960K TEUs in July, securing its second busiest July volume on record despite a minor 5.8% annual pullback. Shippers continue front-loading container imports through West Coast gateways to hedge against ongoing geopolitical volatility and carrier schedule disruptions.",
-                "Robust throughput demands high asset velocity from terminal operators and drayage providers to prevent severe landside congestion and equipment bottlenecks. Supply chain leaders should coordinate rail and trucking allocations early to avoid compounding demurrage charges."
+                "U.S. industrial real estate vacancy contracted by 7 basis points sequentially to 7.3% in Q2 2026 as net absorption outpaced new warehouse completions. Slower speculative construction starts have allowed logistics hubs to digest pandemic-era inventory expansion.",
+                "Tightening prime warehouse supply across Tier 1 logistics markets will reaccelerate industrial lease rate growth heading into 2027. Supply chain executives must secure distribution lease renewals early to prevent unexpected operational rent spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "SUPPLY CHAIN SALARIES REBOUND TO",
+            "nextUpTease": "TANKER HIJACKED IN GULF OF ADEN",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-21T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "LABOR: SUPPLY CHAIN SALARIES REBOUND TO",
+            "heading": "SECURITY: TANKER HIJACKED IN GULF OF ADEN",
             "paragraphs": [
-                "Logistics Management\u2019s 2026 industry study indicates average professional compensation rebounding to 126K USD as supply chain leaders assume expanded responsibilities. Executives are managing increasingly complex technology integrations, risk mitigation protocols, and cross-functional enterprise strategies.",
-                "Upward salary trends underscore the critical strategic value placed on experienced logistics talent in navigating persistent global market instability. Organizations must invest in competitive compensation frameworks and continuous professional development to retain top-tier supply chain leadership."
+                "Maritime security agencies confirmed the hijacking of a commercial product tanker in the Gulf of Aden by armed groups diverting the vessel toward Somalia. The attack represents the second verified vessel seizure in regional waters this week, signaling escalating piracy risks.",
+                "Resurgent piracy in the southern Red Sea corridor adds another security premium on top of persistent regional missile threats. Tanker operators and commercial fleets face escalating war-risk insurance surcharges and higher operational routing expenses."
             ],
             "imageUrl": "",
-            "nextUpTease": "TRUMP LIFTS TARIFFS ON BEEF IMPORTS",
+            "nextUpTease": "HD HYUNDAI PURSUES US SHIPYARD",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-21T12:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "PROCUREMENT: TRUMP LIFTS TARIFFS ON BEEF IMPORTS",
+            "heading": "INFRASTRUCTURE: HD HYUNDAI PURSUES US SHIPYARD",
             "paragraphs": [
-                "President Donald Trump announced a temporary exemption allowing 300K metric tons of ground beef to enter the United States duty-free over the next 90 days. This intervention addresses domestic production constraints as cattle volumes reach their lowest levels since 1970.",
-                "Relaxed import duties provide immediate cost relief for cold chain operators and food service distributors facing persistent inventory deficits. Procurement teams should capitalize on this 90-day window to optimize inventory holding expenses and stabilize operational margins."
+                "South Korea's HD Hyundai is in advanced negotiations to acquire a commercial shipyard in the United States to expand domestic vessel construction capabilities. The strategic investment aligns with the Make American Shipbuilding Great Again framework to revitalize domestic maritime production capacity.",
+                "Acquiring American production facilities enables foreign marine conglomerates to build Jones Act-compliant commercial vessels and naval support craft. Logistics operators can anticipate long-term relief in domestic fleet replacement cycles and offshore supply vessel capacity."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-21T14:29:00Z",
                 "Status: Audited & True"
             ]
         }
