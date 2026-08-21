@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL CUTS CAPACITY TO 32",
+        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES FOUR POINT SIX MILLION DOLLARS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL CUTS CAPACITY TO 32",
-                "teaserTitle": "FORCED LABOR TARIFFS",
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP PASSES $4.6M",
+                "teaserTitle": "DAMAGES OVER PANAMA PORTS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Panama Canal Authority is cutting daily vessel bookings to thirty-two ships starting in mid September due to worsening drought conditions. This constraint inflates scheduling volatility and compels ocean carriers to seek alternative corridors."
+                "narration_line": "An empty liquefied petroleum gas tanker will cut the Panama Canal queue next week after paying a record four point six million dollar fee. Surging priority tolls dramatically inflate operational expenses for carriers seeking to bypass growing vessel queues."
             },
             {
                 "slide_index": 2,
-                "headline": "GOVERNMENT: FORCED LABOR TARIFFS",
-                "teaserTitle": "TANKER TRADE FLOWS",
+                "headline": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS $1.5B IN PANAMA",
+                "teaserTitle": "CDL RECORDS LAWSUIT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "The United States Trade Representative is implementing Section three hundred one tariffs on sixty nations targeting forced labor. Importers face increased administrative burdens and stricter customs compliance vetting."
+                "narration_line": "CK Hutchison is alleging that Panama violated an investment protection treaty through an aggressive state attack campaign following port lease cancellations. Supply chain planners must diversify maritime gateway dependencies to mitigate sudden terminal access losses."
             },
             {
                 "slide_index": 3,
-                "headline": "TANKERS: REVERSED TANKER TRADE FLOWS",
-                "teaserTitle": "CDL RECORDS LAWSUIT",
+                "headline": "TRUCKING: STATES SUE OVER CDL RECORDS",
+                "teaserTitle": "TEAMSTERS REVEAL SHUTDOWN",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Russia is importing nearly two hundred seventy thousand tons of refined fuels from Asia following refinery strikes. This reversal tightens global product tanker availability and drives up charter rates."
+                "narration_line": "A coalition of twenty two states has filed a federal lawsuit to block a mandate demanding access to seventeen million truck driver records. Fleet managers must closely track legal challenges to anticipate potential disruptions in driver qualification verification workflows."
             },
             {
                 "slide_index": 4,
-                "headline": "TRUCKING: 22 STATES SUE OVER CDL RECORDS",
-                "teaserTitle": "CONTAINER SHIPPING CAPACITY",
+                "headline": "LOGISTICS: TEAMSTERS REVEAL TP FREIGHT SHUTDOWN",
+                "teaserTitle": "DRONE DELIVERY EXPANSION",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Twenty two states have filed a lawsuit to block a federal mandate accessing seventeen million commercial driver records. Fleet operators must monitor potential disruptions in driver vetting workflows."
+                "narration_line": "The Teamsters union disclosed that TP Freight executed an abrupt operational shutdown, stranding active customer shipments across regional terminals. Logistics procurement teams must enforce stringent financial health monitoring across regional carrier networks to prevent abandonment."
             },
             {
                 "slide_index": 5,
-                "headline": "MARITIME: CHINA STRAINS AUTO SHIPPING CAPACITY",
-                "teaserTitle": "STRIKE AT TP FREIGHT",
+                "headline": "PROCUREMENT: AMAZON EXPANDS DRONE DELIVERY",
+                "teaserTitle": "TARIFF REFUND RECOVERY",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Rapidly growing Chinese automotive exports are severely straining global roll on roll off vessel capacity. Automotive manufacturers must secure long term contracts early to avoid severe rate spikes."
+                "narration_line": "Amazon is scaling its Prime Air network to achieve a sixfold geographic expansion this year by deploying autonomous drone hubs into major cities. Logistics leaders must evaluate how autonomous last mile routing alters regional distribution cost structures."
             },
             {
                 "slide_index": 6,
-                "headline": "LOGISTICS: TEAMSTERS REVEAL TP FREIGHT SHUTDOWN",
-                "teaserTitle": "DRONE DELIVERY EXPANSION",
+                "headline": "FINANCE: CATERPILLAR BAGS $392M TARIFF REFUND",
+                "teaserTitle": "DRONE DESTROYED IN BLACK SEA",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "TP Freight has executed a sudden shutdown of regional less than truckload operations. Sudden carrier closures force shippers into higher priced spot markets to cover stranded freight."
+                "narration_line": "Caterpillar has successfully secured a three hundred ninety two million dollar tariff refund as international duty costs shrink across manufacturing supply chains. Supply chain financial officers must audit historical import entries to identify similar duty recovery opportunities."
             },
             {
                 "slide_index": 7,
-                "headline": "TECHNOLOGY: AMAZON EXPANDS DRONE DELIVERY",
+                "headline": "REGULATION: BLACK SEA DRONE THREATENS GAS PROJECT",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon is scaling its Prime Air network with a sixfold expansion into major metropolitan centers. Autonomous aerial routing redefines final mile speed and forces competing parcel carriers to upgrade."
+                "narration_line": "Security forces at an offshore natural gas project in the Black Sea successfully neutralized an unidentified loitering naval drone. Energy shippers must incorporate robust threat intelligence and defensive routing protocols into regional maritime operations."
             },
             {
                 "slide_index": 8,
