@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LOGISTICS: PANAMA CANAL DRAUGHT RESTRICTIONS SQUEEZE CAPACITY",
-                "teaserTitle": "CK HUTCHISON ARBITRATION CLAIM",
-                "visual_caption": "Panama Canal water levels decline as drought conditions worsen. Carriers implement emergency surcharges to offset slot limitations."
+                "headline": "LOGISTICS: PANAMA CANAL DRAFT RESTRICTIONS SQUEEZE CAPACITY",
+                "teaserTitle": "CK HUTCHISON DEMANDS DAMAGES",
+                "visual_caption": "The Panama Canal Authority is cutting daily booking capacity to 32 ships as worsening rainfall deficits constrain water levels. Major ocean carriers are implementing emergency surcharges and slot limits."
             },
             {
                 "slide_index": 2,
-                "headline": "GLOBAL GATEWAYS: CK HUTCHISON FILES ARBITRATION",
-                "teaserTitle": "SAILDRONE MISSILE TEST",
-                "visual_caption": "CK Hutchison initiates international arbitration against Panama. The firm demands $1.5B over seized terminal concessions."
+                "headline": "GLOBAL GATEWAYS: CK HUTCHISON DEMANDS DAMAGES",
+                "teaserTitle": "SAILDRONE TESTS MISSILE SYSTEMS",
+                "visual_caption": "CK Hutchison Holdings initiated arbitration against Panama demanding $1.5B in financial compensation for seized ports. Prolonged legal friction introduces acute operational risk for marine terminal operators."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: SAILDRONE COMPLETES MISSILE TESTS",
-                "teaserTitle": "HORMUZ TANKER SHUTTLE",
-                "visual_caption": "Saildrone successfully tests missile launches from its large USV platform. The milestone expands autonomous maritime security capabilities."
+                "headline": "MARITIME: SAILDRONE TESTS MISSILE SYSTEMS",
+                "teaserTitle": "SAUDIS SHUTTLE CRUDE NORTH",
+                "visual_caption": "Saildrone successfully test-fired small missiles from its large sail-powered Surveyor platform during recent naval exercises. The milestone expands the tactical mission set for autonomous surface vessels."
             },
             {
                 "slide_index": 4,
-                "headline": "FUEL: SAUDIS SHUTTLE CRUDE TO EVADE HOUHIS",
-                "teaserTitle": "AMAZON EXPANDS DRONE NETWORK",
-                "visual_caption": "Operators deploy tankers through alternative routes to evade attacks. Military escorts secure millions of barrels of oil."
+                "headline": "FUEL: SAUDIS SHUTTLE CRUDE NORTH",
+                "teaserTitle": "AMAZON SCALES DRONE DELIVERY",
+                "visual_caption": "State-backed operators are deploying Sinokor tankers to shuttle crude oil north to evade ongoing Houthi attacks. Persistent security threats in vital chokepoints inflate voyage operating costs."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: AMAZON SCALES DRONE DELIVERY HUB",
-                "teaserTitle": "USPS RATE ADJUSTMENTS",
-                "visual_caption": "Amazon expands its Prime Air drone delivery network into major metropolitan markets. The strategy accelerates final-mile fulfillment speed."
+                "headline": "TECHNOLOGY: AMAZON SCALES DRONE DELIVERY",
+                "teaserTitle": "USPS LOWERS SELECT RATES",
+                "visual_caption": "Amazon is expanding its Prime Air drone delivery operations 6x this year into Atlanta, Chicago, and Cleveland. Scaling autonomous delivery intensifies competitive pressures on legacy parcel networks."
             },
             {
                 "slide_index": 6,
-                "headline": "PARCEL: USPS ADJUSTS SELECT ECOMMERCE RATES",
-                "teaserTitle": "HANKOOK TIRE PRODUCTION",
-                "visual_caption": "The USPS introduces targeted shipping rate reductions for online marketplace sellers. Rural ZIP codes are excluded from these adjustments."
+                "headline": "PARCEL: USPS LOWERS SELECT RATES",
+                "teaserTitle": "HANKOOK RAMPS TIRE OUTPUT",
+                "visual_caption": "The USPS announced targeted rate reductions for select commercial shipments beginning Aug 22. Rural ZIP codes are explicitly excluded from the pricing adjustments."
             },
             {
                 "slide_index": 7,
-                "headline": "EQUIPMENT: HANKOOK RAMPS UP TENNESSEE TIRE PLANT",
+                "headline": "EQUIPMENT: HANKOOK RAMPS TIRE OUTPUT",
                 "teaserTitle": "",
-                "visual_caption": "Hankook Tire scales commercial truck tire manufacturing output in Tennessee. The expansion helps fleets bypass international supply volatility."
+                "visual_caption": "Hankook Tire is accelerating commercial truck tire manufacturing output at its advanced Tennessee facility. Domestic production expansion insulates motor carriers from import volatility."
             },
             {
                 "slide_index": 8,
