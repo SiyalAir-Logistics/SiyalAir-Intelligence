@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL QUEUE JUMP FEE PASSES FOUR POINT SIX MILLION DOLLARS",
+        "hookTitle": "PANAMA CANAL DRAUGHT RESTRICTIONS SQUEEZE CAPACITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP PASSES $4.6M",
-                "teaserTitle": "DAMAGES OVER PANAMA PORTS",
+                "headline": "LOGISTICS: PANAMA CANAL DRAUGHT RESTRICTIONS SQUEEZE CAPACITY",
+                "teaserTitle": "CK HUTCHISON ARBITRATION CLAIM",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "An empty liquefied petroleum gas tanker will cut the Panama Canal queue next week after paying a record four point six million dollar fee. Surging priority tolls dramatically inflate operational expenses for carriers seeking to bypass growing vessel queues."
+                "narration_line": "Panama Canal water levels are declining as drought conditions worsen. Ocean carriers are implementing emergency surcharges to offset severe slot limitations."
             },
             {
                 "slide_index": 2,
-                "headline": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS $1.5B IN PANAMA",
-                "teaserTitle": "CDL RECORDS LAWSUIT",
+                "headline": "GLOBAL GATEWAYS: CK HUTCHISON FILES ARBITRATION",
+                "teaserTitle": "SAILDRONE MISSILE TEST",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "CK Hutchison is alleging that Panama violated an investment protection treaty through an aggressive state attack campaign following port lease cancellations. Supply chain planners must diversify maritime gateway dependencies to mitigate sudden terminal access losses."
+                "narration_line": "CK Hutchison initiated international arbitration against Panama. The firm demands one point five billion dollars over seized terminal concessions."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: STATES SUE OVER CDL RECORDS",
-                "teaserTitle": "TEAMSTERS REVEAL SHUTDOWN",
+                "headline": "MARITIME: SAILDRONE COMPLETES MISSILE TESTS",
+                "teaserTitle": "HORMUZ TANKER SHUTTLE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "A coalition of twenty two states has filed a federal lawsuit to block a mandate demanding access to seventeen million truck driver records. Fleet managers must closely track legal challenges to anticipate potential disruptions in driver qualification verification workflows."
+                "narration_line": "Saildrone successfully tested missile launches from its large unmanned vessel platform. The milestone expands autonomous security capabilities across trade lanes."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: TEAMSTERS REVEAL TP FREIGHT SHUTDOWN",
-                "teaserTitle": "DRONE DELIVERY EXPANSION",
+                "headline": "FUEL: SAUDIS SHUTTLE CRUDE TO EVADE HOUHIS",
+                "teaserTitle": "AMAZON EXPANDS DRONE NETWORK",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "The Teamsters union disclosed that TP Freight executed an abrupt operational shutdown, stranding active customer shipments across regional terminals. Logistics procurement teams must enforce stringent financial health monitoring across regional carrier networks to prevent abandonment."
+                "narration_line": "State operators are deploying tankers through alternative routes to evade attacks. Military escorts have secured millions of barrels of oil since May."
             },
             {
                 "slide_index": 5,
-                "headline": "PROCUREMENT: AMAZON EXPANDS DRONE DELIVERY",
-                "teaserTitle": "TARIFF REFUND RECOVERY",
+                "headline": "TECHNOLOGY: AMAZON SCALES DRONE DELIVERY HUB",
+                "teaserTitle": "USPS RATE ADJUSTMENTS",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon is scaling its Prime Air network to achieve a sixfold geographic expansion this year by deploying autonomous drone hubs into major cities. Logistics leaders must evaluate how autonomous last mile routing alters regional distribution cost structures."
+                "narration_line": "Amazon is expanding its Prime Air drone delivery network into major metropolitan markets. The move accelerates final mile fulfillment speed for customers."
             },
             {
                 "slide_index": 6,
-                "headline": "FINANCE: CATERPILLAR BAGS $392M TARIFF REFUND",
-                "teaserTitle": "DRONE DESTROYED IN BLACK SEA",
+                "headline": "PARCEL: USPS ADJUSTS SELECT ECOMMERCE RATES",
+                "teaserTitle": "HANKOOK TIRE PRODUCTION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Caterpillar has successfully secured a three hundred ninety two million dollar tariff refund as international duty costs shrink across manufacturing supply chains. Supply chain financial officers must audit historical import entries to identify similar duty recovery opportunities."
+                "narration_line": "The United States Postal Service introduced targeted shipping rate reductions for sellers. Rural ZIP codes are explicitly excluded from these pricing adjustments."
             },
             {
                 "slide_index": 7,
-                "headline": "REGULATION: BLACK SEA DRONE THREATENS GAS PROJECT",
+                "headline": "EQUIPMENT: HANKOOK RAMPS UP TENNESSEE TIRE PLANT",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Security forces at an offshore natural gas project in the Black Sea successfully neutralized an unidentified loitering naval drone. Energy shippers must incorporate robust threat intelligence and defensive routing protocols into regional maritime operations."
+                "narration_line": "Hankook Tire is scaling commercial truck tire manufacturing output in Tennessee. The expansion helps motor carriers bypass international supply chain friction."
             },
             {
                 "slide_index": 8,

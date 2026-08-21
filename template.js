@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
-        "titleBlue": "$4.6M",
-        "footerSummary": "Panama Canal queue-jump fees hit $4.6M as Iran war reroutes global shipping, forcing operators to absorb record transit overhead."
+        "titleWhite": "PANAMA CANAL DRAUGHT RESTRICTIONS SQUEEZE",
+        "titleBlue": "CAPACITY",
+        "footerSummary": "Panama Canal draft limits and rising queue fees accelerate Asia-US freight rate surges, forcing carriers to rebalance transpacific loops."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP PASSES $4.6M",
+            "heading": "LOGISTICS: PANAMA CANAL DRAUGHT RESTRICTIONS SQUEEZE CAPACITY",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker will cut the Panama Canal queue next week after paying a record $4.6M fee, according to shipping reports. The massive payment shatters previous prioritization records as escalating regional conflicts drive severe maritime bottlenecks across primary global trade lanes.",
-                "Surging priority tolls dramatically inflate operational expenses for carriers seeking to bypass growing vessel queues. Logistics executives must evaluate whether premium slot investments are financially justified against severe port delay penalties."
+                "The Panama Canal Authority is expanding temporary transit modifications and draft restrictions as worsening drought conditions reduce available water levels in Gatun Lake. Major ocean carriers including MSC and CMA CGM are implementing emergency surcharges to offset severe slot limitations and growing vessel queues across the isthmus.",
+                "Surging transit restrictions disrupt established sailing schedules and drive spot freight rates higher on key transpacific shipping routes. Logistics procurement teams must model immediate alternative routing strategies to protect carrier budgets from compounding congestion penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "DAMAGES OVER PANAMA PORTS",
+            "nextUpTease": "CK HUTCHISON ARBITRATION CLAIM",
             "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-20T18:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS $1.5B IN PANAMA",
+            "heading": "GLOBAL GATEWAYS: CK HUTCHISON FILES ARBITRATION",
             "paragraphs": [
-                "CK Hutchison is formally alleging that Panama violated a bilateral investment protection treaty through what the enterprise described as an aggressive state attack campaign. The legal action follows the controversial cancellation of vital port terminal leases, escalating diplomatic and commercial friction across international shipping gateways.",
-                "Such large-scale disputes introduce deep asset seizure risks and operational uncertainty for terminal operators and vessel schedulers. Supply chain planners must diversify maritime gateway dependencies to mitigate sudden terminal access losses."
+                "CK Hutchison Holdings has officially initiated international arbitration proceedings against the government of Panama demanding $1.5B in financial compensation. The legal dispute follows the controversial seizure and cancellation of key terminal operating concessions at the ports of Balboa and Cristobal.",
+                "Prolonged legal friction across strategic container hubs introduces acute operational risk and asset uncertainty for international marine terminal operators. Enterprise supply chain executives must closely monitor gateway stability to insulate cargo flows from sudden terminal management changes."
             ],
             "imageUrl": "",
-            "nextUpTease": "CDL RECORDS LAWSUIT",
+            "nextUpTease": "SAILDRONE MISSILE TEST",
             "tags": [
-                "Source: https://www.supplychainbrain.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRUCKING: STATES SUE OVER CDL RECORDS",
+            "heading": "MARITIME: SAILDRONE COMPLETES MISSILE TESTS",
             "paragraphs": [
-                "A coalition of 22 state attorneys general has filed a federal lawsuit to block a sweeping mandate demanding access to 17M commercial truck drivers' records. Plaintiffs argue that the federal oversight action oversteps statutory authority and exposes sensitive motor carrier data to severe cybersecurity vulnerabilities.",
-                "Ongoing regulatory disputes create fragmented compliance standards for interstate motor carriers operating across multiple state jurisdictions. Fleet managers must closely track legal challenges to anticipate potential disruptions in driver qualification verification workflows."
+                "California-based USV builder Saildrone successfully test-fired small missiles from its large sail-powered Surveyor platform during recent naval exercises. The milestone expands the tactical mission set for unmanned surface vessels backed by major defense investments from industry contractors.",
+                "The rapid integration of autonomous surface assets into maritime security frameworks redefines threat mitigation protocols across high-risk commercial shipping corridors. Maritime operators must evaluate how expanding unmanned naval patrols alters regional route safety and vessel escort requirements."
             ],
             "imageUrl": "",
-            "nextUpTease": "TEAMSTERS REVEAL SHUTDOWN",
+            "nextUpTease": "HORMUZ TANKER SHUTTLE",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-20T20:34:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LOGISTICS: TEAMSTERS REVEAL TP FREIGHT SHUTDOWN",
+            "heading": "FUEL: SAUDIS SHUTTLE CRUDE TO EVADE HOUHIS",
             "paragraphs": [
-                "The Teamsters union has disclosed that TP Freight has executed an abrupt operational shutdown, stranding active customer shipments across regional terminals. The sudden carrier collapse instantly removes critical less-than-truckload capacity from local distribution networks without advance notice.",
-                "Carrier insolvencies force shippers to scramble for replacement capacity on expensive spot markets. Logistics procurement teams must enforce stringent financial health monitoring across regional carrier networks to prevent sudden freight abandonment."
+                "State-backed operators are actively deploying Sinokor tankers to shuttle crude oil north through alternative regional channels to evade ongoing Houthi attacks in maritime transit lanes. Official reporting indicates active military escorts have aided the secure passage of millions of barrels of oil since May.",
+                "Persistent security threats in vital Middle Eastern energy chokepoints inflate voyage operating costs and force prolonged transit deviations. Energy logists must factor volatile bunker pricing and specialized escort premiums into long-term transport contracts."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRONE DELIVERY EXPANSION",
+            "nextUpTease": "AMAZON EXPANDS DRONE NETWORK",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "PROCUREMENT: AMAZON EXPANDS DRONE DELIVERY",
+            "heading": "TECHNOLOGY: AMAZON SCALES DRONE DELIVERY HUB",
             "paragraphs": [
-                "Amazon is aggressively scaling its Prime Air network to achieve a sixfold geographic expansion this year by deploying autonomous drone delivery hubs into major metropolitan markets. The e-commerce giant is launching commercial aerial operations across Atlanta, Chicago, and Cleveland to accelerate final-mile fulfillment speed.",
-                "Rapid deployment of aerial delivery infrastructure intensifies competitive pressure on legacy parcel networks to upgrade automation and density. Logistics leaders must evaluate how autonomous last-mile routing alters regional distribution cost structures."
+                "Amazon is aggressively expanding its Prime Air drone delivery operations sixfold this year by deploying autonomous aerial fulfillment networks into major metropolitan markets including Atlanta, Chicago, and Cleveland. The e-commerce giant aims to accelerate final-mile delivery velocity through localized aerial deployment hubs.",
+                "Scaling autonomous delivery infrastructure intensifies competitive pressures on legacy parcel networks to adopt advanced robotics and automation solutions. Supply chain leaders must assess how aerial fulfillment integration transforms final-mile cost economics and urban distribution footprints."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFF REFUND RECOVERY",
+            "nextUpTease": "USPS RATE ADJUSTMENTS",
             "tags": [
                 "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "FINANCE: CATERPILLAR BAGS $392M TARIFF REFUND",
+            "heading": "PARCEL: USPS ADJUSTS SELECT ECOMMERCE RATES",
             "paragraphs": [
-                "Caterpillar has successfully secured a $392M tariff refund as international duty costs shrink across key manufacturing supply chains. The substantial recovery highlights the financial impact of shifting trade enforcement actions and fluctuating import tariff schedules on heavy equipment producers.",
-                "Proactive duty recovery strategies provide critical capital relief for global manufacturers navigating complex customs environments. Supply chain financial officers must audit historical import entries to identify similar duty overpayment refund opportunities."
+                "The United States Postal Service has announced targeted rate reductions for select commercial shipments beginning August 22, offering modest fulfillment cost relief to online marketplace sellers. However, shipments destined for rural ZIP codes are explicitly excluded from the pricing adjustments.",
+                "Uneven rate recalibrations force high-volume e-commerce shippers to dynamically optimize carrier selection matrices to protect regional shipping margins. Logistics managers must audit zone-based pricing structures to capture potential cost savings across non-rural delivery lanes."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRONE DESTROYED IN BLACK SEA",
+            "nextUpTease": "HANKOOK TIRE PRODUCTION",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.ecommercebytes.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "REGULATION: BLACK SEA DRONE THREATENS GAS PROJECT",
+            "heading": "EQUIPMENT: HANKOOK RAMPS UP TENNESSEE TIRE PLANT",
             "paragraphs": [
-                "Security forces at the Neptun Deep offshore natural gas project in the Black Sea successfully neutralized an unidentified loitering naval drone operating near active pipelaying vessels. The hostile unmanned surface vehicle approached within striking distance of critical energy infrastructure off the coast of Constanta.",
-                "Rising maritime security incidents in vital energy corridors heighten operational risk exposure for offshore logistics and vessel charters. Energy shippers must incorporate robust threat intelligence and defensive routing protocols into regional maritime operations."
+                "Hankook Tire is accelerating commercial truck tire manufacturing output at its advanced Tennessee production facility to meet growing domestic fleet demand. The domestic manufacturing expansion is designed to insulate heavy-duty motor carriers from international supply chain volatility and import tariff pressures.",
+                "Expanding local component production provides critical inventory resilience for commercial truck fleets navigating ongoing equipment replacement cycles. Fleet procurement officers must leverage regional supplier partnerships to minimize vulnerability to import lead-time disruptions."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
