@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "ASIA USWC RATES SURGE AHEAD OF PANAMA RESTRICTIONS",
+        "hookTitle": "PANAMA CANAL REDUCES DAILY TRANSITS",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ASIA USWC RATES SURGE",
-                "teaserTitle": "PANAMA CANAL QUEUE-JUMP FEE PASSES $4M",
+                "headline": "MARITIME: PANAMA CANAL REDUCES DAILY TRANSITS",
+                "teaserTitle": "ELD CRACKDOWN CUTS TRUCKING CAPACITY",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "Transpacific spot rates are surging as carriers preempt Panama Canal capacity cuts. The waterway will reduce daily transits to 32 ships next month."
+                "narration_line": "The Panama Canal Authority is cutting daily booking capacity to 32 ships by mid September. This restriction inflates operating expenditures and forces shippers to seek alternative routes."
             },
             {
                 "slide_index": 2,
-                "headline": "GLOBAL GATEWAYS: PANAMA CANAL FEE",
-                "teaserTitle": "RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE",
+                "headline": "SURFACE: ELD CRACKDOWN CUTS TRUCKING CAPACITY",
+                "teaserTitle": "RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An empty tanker paid a record 4.6 million dollar priority fee to jump the canal queue. Escalating auction costs expose extreme financial exposure for shippers."
+                "narration_line": "Federal regulators are intensifying oversight of electronic logging devices to curb work hour fraud. The strict enforcement sweep is squeezing active trucking capacity and driving up spot rates."
             },
             {
                 "slide_index": 3,
-                "headline": "TANKERS: RUSSIAN FUEL SHORTAGES",
-                "teaserTitle": "SAUDIS SHUTTLE OIL NORTH",
+                "headline": "TANKERS: RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
+                "teaserTitle": "USTR ADVANCES FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Russia is importing 270 thousand metric tons of refined fuel from Asia amid refinery strikes. This unprecedented trade reversal absorbs vital tanker tonnage."
+                "narration_line": "Russia is importing nearly 270 thousand metric tons of refined fuels from Asia this month. Persistent refinery strikes have triggered a major structural reversal in global tanker trade flows."
             },
             {
                 "slide_index": 4,
-                "headline": "FUEL: SAUDIS SHUTTLE OIL NORTH",
-                "teaserTitle": "AMAZON TO EXPAND DRONE DELIVERY",
+                "headline": "COMPLIANCE: USTR ADVANCES FORCED LABOR TARIFFS",
+                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE REACH",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "State operators are shuttling crude north on Sinokor tankers to bypass regional security threats. Military escorts have successfully secured 660 million barrels since May."
+                "narration_line": "The USTR is moving forward with Section 301 tariffs across sixty nations as older duties expire. The new trade rules increase customs auditing costs for multinational supply chains."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: AMAZON DRONE DELIVERY",
-                "teaserTitle": "CATERPILLAR BAGS $392M TARIFF REFUND",
+                "headline": "TECHNOLOGY: AMAZON EXPANDS PRIME AIR DRONE REACH",
+                "teaserTitle": "CATERPILLAR SECURES TARIFF REFUND",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Amazon is expanding Prime Air drone delivery sixfold into major metropolitan markets this year. The network aims to accelerate final mile delivery velocity."
+                "narration_line": "Amazon is expanding its Prime Air drone delivery network sixfold into major metropolitan markets. The rollout aims to accelerate final mile fulfillment velocity through localized aerial hubs."
             },
             {
                 "slide_index": 6,
-                "headline": "PROCUREMENT: TARIFF REFUND",
-                "teaserTitle": "CK HUTCHISON SEEKS $1.5B IN DAMAGES",
+                "headline": "PROCUREMENT: CATERPILLAR SECURES TARIFF REFUND",
+                "teaserTitle": "CK HUTCHISON FILES ARBITRATION CLAIM",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Caterpillar secured a 392 million dollar tariff refund as quarterly duty costs contracted. The manufacturer still absorbed 400 million in direct tariff expenses."
+                "narration_line": "Heavy equipment maker Caterpillar secured a 392 million dollar tariff refund as duty costs contracted. Procurement teams must track compliance data to capture retroactive duty recoveries."
             },
             {
                 "slide_index": 7,
-                "headline": "GLOBAL GATEWAYS: PANAMA DAMAGES",
+                "headline": "GATEWAYS: CK HUTCHISON FILES ARBITRATION CLAIM",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "CK Hutchison initiated arbitration against Panama demanding 1.5 billion dollars in compensation. The action follows the controversial seizure of key terminal operating concessions."
+                "narration_line": "CK Hutchison Holdings initiated a 1.5 billion dollar arbitration claim against Panama's government. The legal dispute follows the controversial seizure of key marine terminal operating concessions."
             },
             {
                 "slide_index": 8,
