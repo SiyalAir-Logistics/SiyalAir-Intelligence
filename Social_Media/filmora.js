@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: ASIA USWC RATES SURGE AHEAD OF PANAMA RESTRICTIONS",
+                "headline": "MARITIME: ASIA USWC RATES SURGE",
                 "teaserTitle": "PANAMA CANAL QUEUE-JUMP FEE PASSES $4M",
-                "visual_caption": "Asia to USWC freight rates are surging as vessel transit reductions approach. Shippers face tightening slot allocations and rising spot costs ahead of canal limits."
+                "visual_caption": "Transpacific spot rates surge as carriers preempt Panama Canal capacity cuts. Daily transits will drop to 32 ships next month."
             },
             {
                 "slide_index": 2,
-                "headline": "GLOBAL GATEWAYS: PANAMA CANAL QUEUE-JUMP FEE PASSES $4M",
-                "teaserTitle": "RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
-                "visual_caption": "An empty tanker paid $4.6M to jump the canal queue. This record priority fee exposes extreme financial exposure for operators needing guaranteed lock scheduling."
+                "headline": "GLOBAL GATEWAYS: PANAMA CANAL FEE",
+                "teaserTitle": "RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE",
+                "visual_caption": "An empty tanker paid a record $4.6M priority fee to jump the canal queue. Escalating auction costs expose extreme financial exposure."
             },
             {
                 "slide_index": 3,
-                "headline": "TANKERS: RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
-                "teaserTitle": "SAUDIS SHUTTLE OIL NORTH ON SINOKOR TANKERS",
-                "visual_caption": "Russia is importing 270K tons of refined fuels from Asia this month. Repeated refinery strikes have forced an extraordinary reversal in global tanker trade flows."
+                "headline": "TANKERS: RUSSIAN FUEL SHORTAGES",
+                "teaserTitle": "SAUDIS SHUTTLE OIL NORTH",
+                "visual_caption": "Russia is importing 270K metric tons of refined fuel from Asia amid refinery strikes. This unprecedented trade reversal absorbs vital tanker tonnage."
             },
             {
                 "slide_index": 4,
-                "headline": "FUEL: SAUDIS SHUTTLE OIL NORTH ON SINOKOR TANKERS",
-                "teaserTitle": "AMAZON TO EXPAND DRONE DELIVERY REACH SIXFOLD",
-                "visual_caption": "State operators are deploying Sinokor tankers to shuttle crude oil north past regional threats. Military escorts have facilitated the secure passage of 660M barrels."
+                "headline": "FUEL: SAUDIS SHUTTLE OIL NORTH",
+                "teaserTitle": "AMAZON TO EXPAND DRONE DELIVERY",
+                "visual_caption": "State operators shuttle crude north on Sinokor tankers to bypass security threats. Military escorts have secured 660M barrels since May."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: AMAZON TO EXPAND DRONE DELIVERY REACH SIXFOLD",
+                "headline": "TECHNOLOGY: AMAZON DRONE DELIVERY",
                 "teaserTitle": "CATERPILLAR BAGS $392M TARIFF REFUND",
-                "visual_caption": "Amazon is expanding Prime Air drone delivery operations 6x into major metropolitan markets. The e-commerce giant aims to accelerate final mile velocity through localized hubs."
+                "visual_caption": "Amazon is expanding Prime Air drone delivery 6x into major metropolitan markets this year. The network accelerates final mile delivery velocity."
             },
             {
                 "slide_index": 6,
-                "headline": "PROCUREMENT: CATERPILLAR BAGS $392M TARIFF REFUND",
-                "teaserTitle": "CK HUTCHISON SEEKS $1.5B IN PANAMA DAMAGES",
-                "visual_caption": "Caterpillar secured a $392M tariff refund as duty costs contracted. The industrial giant still absorbed $400M in direct tariff expenses during the quarter."
+                "headline": "PROCUREMENT: TARIFF REFUND",
+                "teaserTitle": "CK HUTCHISON SEEKS $1.5B IN DAMAGES",
+                "visual_caption": "Caterpillar secured a $392M tariff refund as quarterly duty costs contracted. The firm still absorbed $400M in direct tariff expenses."
             },
             {
                 "slide_index": 7,
-                "headline": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS $1.5B IN PANAMA DAMAGES",
+                "headline": "GLOBAL GATEWAYS: PANAMA DAMAGES",
                 "teaserTitle": "",
-                "visual_caption": "CK Hutchison initiated arbitration demanding $1.5B in damages from Panama. The legal action follows the seizure of key container terminal operating concessions."
+                "visual_caption": "CK Hutchison initiated arbitration demanding $1.5B in damages from Panama. The action follows the seizure of key terminal operating concessions."
             },
             {
                 "slide_index": 8,
