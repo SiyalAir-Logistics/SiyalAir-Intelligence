@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GLOBAL GATEWAYS: CK HUTCHISON 1.5B PANAMA CLAIM",
-                "teaserTitle": "MARITIME LOGISTICS: PANAMA CANAL 4.6M QUEUE JUMP",
-                "visual_caption": "CK Hutchison filed a $1.5B claim against Panama over seized port terminals. The legal dispute significantly elevates cross-border maritime investment risks globally."
+                "headline": "PROCUREMENT: CATERPILLAR BAGS 392M TARIFF REFUND",
+                "teaserTitle": "GLOBAL TRADE: USTR ADVANCES 60 NATION TARIFFS",
+                "visual_caption": "Caterpillar secured a $392M tariff refund as duty costs decline. Industrial importers must audit customs entries to capture retrospective savings."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME LOGISTICS: PANAMA CANAL 4.6M QUEUE JUMP",
-                "teaserTitle": "ENERGY MARKETS: OIL SURGES PAST 93",
-                "visual_caption": "An empty tanker paid $4.6M to jump the Panama Canal queue. Severe drought conditions continue to restrict vessel transit capacity and drive up costs."
+                "headline": "GLOBAL TRADE: USTR ADVANCES 60 NATION TARIFFS",
+                "teaserTitle": "MARITIME LOGISTICS: OCEAN CARRIERS HIKE PANAMA SURCHARGES",
+                "visual_caption": "The USTR advanced new tariffs across 60 trading nations under Section 301. Importers face heightened compliance friction as border scrutiny intensifies."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY MARKETS: OIL SURGES PAST 93",
-                "teaserTitle": "FLEET ASSETS: US TRAILER ORDERS SURGE 97%",
-                "visual_caption": "Brent crude surged 1.8% to $93.24 per barrel amid Middle East tensions. US refineries accelerated processing throughput to 17.4M barrels daily."
+                "headline": "MARITIME LOGISTICS: OCEAN CARRIERS HIKE PANAMA SURCHARGES",
+                "teaserTitle": "FLEET ASSETS: RYDER PREDICTS DOUBLE-DIGIT USED TRUCK HIKE",
+                "visual_caption": "Ocean carriers are raising surcharges due to ongoing Panama Canal draft restrictions. Persistent water constraints continue to inflate container transport costs."
             },
             {
                 "slide_index": 4,
-                "headline": "FLEET ASSETS: US TRAILER ORDERS SURGE 97%",
-                "teaserTitle": "PORT OPERATIONS: LA HANDLES 960K TEU",
-                "visual_caption": "Net commercial trailer orders spiked 97% year-over-year in July. Carriers are actively executing fleet replacements ahead of anticipated market tightening."
+                "headline": "FLEET ASSETS: RYDER PREDICTS DOUBLE-DIGIT USED TRUCK HIKE",
+                "teaserTitle": "AUTOMATION: RHENUS LAUNCHES 3PL GREEN TRANSPORT BOOK",
+                "visual_caption": "Ryder forecasts double-digit price increases for used commercial trucks through 2027. Motor carriers face escalating capital expenditure requirements for fleet assets."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT OPERATIONS: LA HANDLES 960K TEU",
-                "teaserTitle": "OCEAN SHIPPING: HAPAG LLOYD ROTTERDAM STAKE",
-                "visual_caption": "The Port of Los Angeles handled 960K TEUs during a robust July volume period. Importers continue front-loading inventory to mitigate supply chain disruptions."
+                "headline": "AUTOMATION: RHENUS LAUNCHES 3PL GREEN TRANSPORT BOOK",
+                "teaserTitle": "AIR CARGO: AMAZON EXPANDS DRONE DELIVERY REACH",
+                "visual_caption": "The Rhenus Group introduced a digital book-and-claim service to reduce transport emissions. The platform streamlines corporate carbon reporting across multimodal networks."
             },
             {
                 "slide_index": 6,
-                "headline": "OCEAN SHIPPING: HAPAG LLOYD ROTTERDAM STAKE",
-                "teaserTitle": "LAST MILE: AMAZON EXPANDS PRIME AIR",
-                "visual_caption": "Hapag-Lloyd acquired a 25% stake in a key Rotterdam container terminal. The acquisition strengthens the hub-and-spoke infrastructure of the Gemini Cooperation."
+                "headline": "AIR CARGO: AMAZON EXPANDS DRONE DELIVERY REACH",
+                "teaserTitle": "RAILROAD OPERATIONS: CLASS I SPEED AND DWELL METRICS",
+                "visual_caption": "Amazon is scaling its Prime Air drone delivery operations across 6 major metropolitan markets. The expansion accelerates automated last-mile fulfillment in urban airspace."
             },
             {
                 "slide_index": 7,
-                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR",
+                "headline": "RAILROAD OPERATIONS: CLASS I SPEED AND DWELL METRICS",
                 "teaserTitle": "",
-                "visual_caption": "Amazon is scaling its Prime Air drone delivery network across 500 cities. The initiative aims to achieve 60-minute parcel fulfillment in major metropolitan markets."
+                "visual_caption": "Class I railroad telemetry reveals mixed performance across mainline train velocity indices. Shippers must monitor real-time network dwell metrics to prevent delays."
             },
             {
                 "slide_index": 8,

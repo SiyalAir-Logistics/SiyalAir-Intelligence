@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "CK HUTCHISON SEEKS 1.5B IN DAMAGES",
+        "hookTitle": "CATERPILLAR BAGS THREE HUNDRED NINETY-TWO MILLION TARIFF REFUND",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "GLOBAL GATEWAYS: CK HUTCHISON 1.5B PANAMA CLAIM",
-                "teaserTitle": "MARITIME LOGISTICS: PANAMA CANAL 4.6M QUEUE JUMP",
+                "headline": "PROCUREMENT: CATERPILLAR BAGS 392M TARIFF REFUND",
+                "teaserTitle": "GLOBAL TRADE: USTR ADVANCES 60 NATION TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "CK Hutchison filed a one point five billion dollar claim against Panama over seized ports. The dispute heightens cross border maritime investment risks."
+                "narration_line": "Caterpillar secured a three hundred ninety-two million dollar tariff refund as duty costs decline. Industrial importers must audit customs entries to capture retrospective savings."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME LOGISTICS: PANAMA CANAL 4.6M QUEUE JUMP",
-                "teaserTitle": "ENERGY MARKETS: OIL SURGES PAST 93",
+                "headline": "GLOBAL TRADE: USTR ADVANCES 60 NATION TARIFFS",
+                "teaserTitle": "MARITIME LOGISTICS: OCEAN CARRIERS HIKE PANAMA SURCHARGES",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "An empty tanker paid four point six million dollars to jump the Panama Canal queue. Severe drought conditions continue to restrict vessel transit capacity."
+                "narration_line": "The USTR advanced new tariffs across sixty trading nations under section three hundred one. Importers face heightened compliance friction as border scrutiny intensifies."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY MARKETS: OIL SURGES PAST 93",
-                "teaserTitle": "FLEET ASSETS: US TRAILER ORDERS SURGE 97%",
+                "headline": "MARITIME LOGISTICS: OCEAN CARRIERS HIKE PANAMA SURCHARGES",
+                "teaserTitle": "FLEET ASSETS: RYDER PREDICTS DOUBLE-DIGIT USED TRUCK HIKE",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Brent crude surged one point eight percent to ninety three dollars per barrel amid Middle East tensions. US refineries accelerated processing to seventeen point four million barrels daily."
+                "narration_line": "Ocean carriers are raising surcharges due to ongoing Panama Canal draft restrictions. Persistent water constraints continue to inflate container transport costs."
             },
             {
                 "slide_index": 4,
-                "headline": "FLEET ASSETS: US TRAILER ORDERS SURGE 97%",
-                "teaserTitle": "PORT OPERATIONS: LA HANDLES 960K TEU",
+                "headline": "FLEET ASSETS: RYDER PREDICTS DOUBLE-DIGIT USED TRUCK HIKE",
+                "teaserTitle": "AUTOMATION: RHENUS LAUNCHES 3PL GREEN TRANSPORT BOOK",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Net commercial trailer orders spiked ninety seven percent year over year in July. Carriers are actively pursuing fleet upgrades ahead of anticipated capacity tightening."
+                "narration_line": "Ryder forecasts double-digit price increases for used commercial trucks through twenty twenty-seven. Motor carriers face escalating capital expenditure requirements for fleet assets."
             },
             {
                 "slide_index": 5,
-                "headline": "PORT OPERATIONS: LA HANDLES 960K TEU",
-                "teaserTitle": "OCEAN SHIPPING: HAPAG LLOYD ROTTERDAM STAKE",
+                "headline": "AUTOMATION: RHENUS LAUNCHES 3PL GREEN TRANSPORT BOOK",
+                "teaserTitle": "AIR CARGO: AMAZON EXPANDS DRONE DELIVERY REACH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "The Port of Los Angeles handled nine hundred sixty thousand TEUs during a busy July. BCOs continue front loading import volumes to avoid potential logistics bottlenecks."
+                "narration_line": "The Rhenus Group introduced a digital book-and-claim service to reduce transport emissions. The platform streamlines corporate carbon reporting across multimodal networks."
             },
             {
                 "slide_index": 6,
-                "headline": "OCEAN SHIPPING: HAPAG LLOYD ROTTERDAM STAKE",
-                "teaserTitle": "LAST MILE: AMAZON EXPANDS PRIME AIR",
+                "headline": "AIR CARGO: AMAZON EXPANDS DRONE DELIVERY REACH",
+                "teaserTitle": "RAILROAD OPERATIONS: CLASS I SPEED AND DWELL METRICS",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Hapag Lloyd acquired a twenty five percent stake in a key Rotterdam container terminal. The move strengthens the operational backbone of the upcoming Gemini Cooperation network."
+                "narration_line": "Amazon is scaling its Prime Air drone delivery operations across six major metropolitan markets. The expansion accelerates automated last-mile fulfillment in urban airspace."
             },
             {
                 "slide_index": 7,
-                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR",
+                "headline": "RAILROAD OPERATIONS: CLASS I SPEED AND DWELL METRICS",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Amazon is scaling its Prime Air autonomous drone delivery network to five hundred cities. The expansion targets sixty minute parcel fulfillment across major metropolitan areas."
+                "narration_line": "Class I railroad telemetry reveals mixed performance across mainline train velocity indices. Shippers must monitor real-time network dwell metrics to prevent delays."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }
