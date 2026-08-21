@@ -1,57 +1,57 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL REDUCES DAILY TRANSITS TO 32 SHIPS",
+        "hookTitle": "DETENTION FEES MUST PROMOTE FREIGHT FLUIDITY",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL REDUCES DAILY TRANSITS TO 32 SHIPS",
-                "teaserTitle": "OIL PRICES SURGE ON IRAN TENSION",
+                "headline": "MARITIME: DETENTION FEES MUST PROMOTE FREIGHT FLUIDITY",
+                "teaserTitle": "OIL PRICES SURGE AS US THREATENS IRAN",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Panama Canal is cutting daily booking capacity to thirty-two ships due to worsening rainfall deficits. Commercial operators face tighter schedules and rising transit friction."
+                "narration_line": "The federal appeals court upheld a ruling requiring detention fees to protect supply chain fluidity. Shippers gain stronger legal backing against punitive terminal charges."
             },
             {
                 "slide_index": 2,
                 "headline": "FUEL: OIL PRICES SURGE AS US THREATENS IRAN",
-                "teaserTitle": "USTR ADVANCES TARIFFS ON 60 NATIONS",
+                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS RISE 97 PERCENT",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Brent crude oil prices surged one point eight percent following geopolitical tensions near Iran. Refineries expanded daily processing throughput to seventeen point four million barrels."
+                "narration_line": "Brent crude prices surged one point eight percent following renewed pressure on Iran. Refineries accelerated processing to seventeen point four million barrels daily."
             },
             {
                 "slide_index": 3,
-                "headline": "GOVERNMENT: USTR ADVANCES TARIFFS ON 60 NATIONS",
-                "teaserTitle": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+                "headline": "EQUIPMENT: US TRAILER ORDERS RISE 97 PERCENT",
+                "teaserTitle": "LOGISTICS: RHENUS LAUNCHES GREEN TRANSPORT BOOK",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "The trade representative is implementing forced labor tariffs across sixty trading partners. Importers face rigorous customs audits as legacy trade rules expire."
+                "narration_line": "United States commercial trailer orders jumped ninety-seven percent year over year in July. Fleets rushed to secure production slots amid tightening equipment availability."
             },
             {
                 "slide_index": 4,
-                "headline": "CONTAINERS: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
-                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS SURGE 97 PERCENT",
+                "headline": "LOGISTICS: RHENUS LAUNCHES GREEN TRANSPORT BOOK",
+                "teaserTitle": "GOVERNMENT: US TO HALVE TARIFFS ON CANADA",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Hapag-Lloyd has acquired a twenty-five percent stake in a major Rotterdam container terminal. This gateway investment supports the Gemini network hub architecture."
+                "narration_line": "Rhenus Group introduced a book and claim service to reduce multimodal transport emissions. The digital framework streamlines corporate Scope Three sustainability reporting."
             },
             {
                 "slide_index": 5,
-                "headline": "EQUIPMENT: US TRAILER ORDERS SURGE 97 PERCENT",
-                "teaserTitle": "LEGAL: CK HUTCHISON SEEKS 1.5B USD",
+                "headline": "GOVERNMENT: US TO HALVE TARIFFS ON CANADA",
+                "teaserTitle": "RETAIL: WALMART SEES SLOWEST SALES GROWTH",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "United States commercial trailer orders surged ninety-seven percent year-over-year in July. Fleet operators accelerated asset replacement amid tightening equipment availability."
+                "narration_line": "The United States is discussing halving existing steel and aluminum tariffs on Canada. The shift would ease cost pressures on North American automotive manufacturing."
             },
             {
                 "slide_index": 6,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD PANAMA DAMAGES",
-                "teaserTitle": "LOGISTICS: RHENUS LAUNCHES GREEN SERVICE",
+                "headline": "RETAIL: WALMART SEES SLOWEST SALES GROWTH",
+                "teaserTitle": "MARITIME: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "CK Hutchison filed a one point five billion dollar compensation claim against Panama. The legal dispute highlights rising sovereign risk in port infrastructure investments."
+                "narration_line": "Walmart reported its slowest domestic sales growth in six years due to cautious consumers. Omnichannel investments helped offset softer quarterly store performance."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: RHENUS LAUNCHES GREEN TRANSPORT BOOK",
+                "headline": "MARITIME: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "The Rhenus Group launched a book-and-claim service to reduce transport emissions. The digital framework helps shippers meet stringent carbon reporting compliance."
+                "narration_line": "Hapag Lloyd acquired a twenty-five percent stake in a Rotterdam container terminal. The investment secures key capacity for the Gemini Cooperation network."
             },
             {
                 "slide_index": 8,

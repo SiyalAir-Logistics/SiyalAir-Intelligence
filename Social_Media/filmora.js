@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL REDUCES DAILY TRANSITS TO 32 SHIPS",
-                "teaserTitle": "OIL PRICES SURGE ON IRAN TENSION",
-                "visual_caption": "The Panama Canal cuts daily capacity to 32 ships amid worsening rainfall deficits. Commercial carriers face tighter scheduling constraints across key waterways."
+                "headline": "MARITIME: DETENTION FEES MUST PROMOTE FREIGHT FLUIDITY",
+                "teaserTitle": "OIL PRICES SURGE AS US THREATENS IRAN",
+                "visual_caption": "The federal appeals court upheld a ruling requiring detention fees to protect supply chain fluidity. Shippers gain legal backing against punitive terminal charges."
             },
             {
                 "slide_index": 2,
                 "headline": "FUEL: OIL PRICES SURGE AS US THREATENS IRAN",
-                "teaserTitle": "USTR ADVANCES TARIFFS ON 60 NATIONS",
-                "visual_caption": "Brent crude prices surged 1.8% to $93.24 per barrel following geopolitical friction. Refineries processed 17.4M barrels daily to meet surging energy demand."
+                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS RISE 97 PERCENT",
+                "visual_caption": "Brent crude prices surged 1.8% following renewed pressure on Iran. Refineries accelerated processing to 17.4M barrels daily."
             },
             {
                 "slide_index": 3,
-                "headline": "GOVERNMENT: USTR ADVANCES TARIFFS ON 60 NATIONS",
-                "teaserTitle": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
-                "visual_caption": "The USTR is implementing tariffs on 60 nations under Section 301. Importers face rigorous customs audits as regulatory enforcement expands."
+                "headline": "EQUIPMENT: US TRAILER ORDERS RISE 97 PERCENT",
+                "teaserTitle": "LOGISTICS: RHENUS LAUNCHES GREEN TRANSPORT BOOK",
+                "visual_caption": "U.S. commercial trailer orders jumped 97% year-over-year in July. Fleets rushed to secure production slots amid tightening equipment availability."
             },
             {
                 "slide_index": 4,
-                "headline": "CONTAINERS: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
-                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS SURGE 97 PERCENT",
-                "visual_caption": "Hapag-Lloyd acquired a 25% equity stake in a key Rotterdam container terminal. This investment anchors the Gemini network hub-and-spoke strategy."
+                "headline": "LOGISTICS: RHENUS LAUNCHES GREEN TRANSPORT BOOK",
+                "teaserTitle": "GOVERNMENT: US TO HALVE TARIFFS ON CANADA",
+                "visual_caption": "Rhenus Group introduced a book-and-claim service to reduce multimodal transport emissions. The digital framework streamlines corporate Scope 3 reporting."
             },
             {
                 "slide_index": 5,
-                "heading": "EQUIPMENT: US TRAILER ORDERS SURGE 97 PERCENT",
-                "teaserTitle": "LEGAL: CK HUTCHISON SEEKS 1.5B USD",
-                "visual_caption": "US commercial trailer orders jumped 97% year-over-year during the month of July. Fleets accelerated asset replacement cycles ahead of predicted price hikes."
+                "headline": "GOVERNMENT: US TO HALVE TARIFFS ON CANADA",
+                "teaserTitle": "RETAIL: WALMART SEES SLOWEST SALES GROWTH",
+                "visual_caption": "The U.S. is discussing halving existing steel and aluminum tariffs on Canada. The shift would ease cost pressures on North American automotive manufacturing."
             },
             {
                 "slide_index": 6,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD PANAMA DAMAGES",
-                "teaserTitle": "LOGISTICS: RHENUS LAUNCHES GREEN SERVICE",
-                "visual_caption": "CK Hutchison filed a $1.5B claim against Panama over canceled terminal leases. The dispute introduces substantial sovereign risk for port investors."
+                "headline": "RETAIL: WALMART SEES SLOWEST SALES GROWTH",
+                "teaserTitle": "MARITIME: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+                "visual_caption": "Walmart reported its slowest domestic sales growth in 6 years due to cautious consumers. Omnichannel investments helped offset softer quarterly performance."
             },
             {
                 "slide_index": 7,
-                "headline": "LOGISTICS: RHENUS LAUNCHES GREEN TRANSPORT BOOK",
+                "headline": "MARITIME: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
                 "teaserTitle": "",
-                "visual_caption": "The Rhenus Group introduced a digital book-and-claim service for transport emissions. Shippers can allocate sustainable fuel investments across multimodal networks."
+                "visual_caption": "Hapag-Lloyd acquired a 25% stake in a Rotterdam container terminal. The investment secures key gateway capacity for the Gemini Cooperation network."
             },
             {
                 "slide_index": 8,
