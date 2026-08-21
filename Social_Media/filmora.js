@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "CANAL: PANAMA CUTS DAILY BOOKINGS TO 32",
-                "teaserTitle": "HAPAG-LLOYD BUYS 25% ROTTERDAM STAKE",
-                "visual_caption": "The Panama Canal is reducing daily booking slots to 32 vessels this September due to worsening water deficits. Shippers face higher auction surcharges and mounting transit delays."
+                "headline": "REGULATION: USTR FORCED LABOR TARIFFS",
+                "teaserTitle": "ASIA USWC RATES SURGE",
+                "visual_caption": "USTR is advancing forced labor tariffs on 60 trading partners. Importers must audit supply chain compliance to avoid severe border delays."
             },
             {
                 "slide_index": 2,
-                "headline": "PORTS: HAPAG-LLOYD BUYS 25% ROTTERDAM STAKE",
-                "teaserTitle": "ATA PRESIDENT CHRIS SPEAR DEPARTS",
-                "visual_caption": "Hapag-Lloyd has acquired a 25% stake in the Maasvlakte II terminal at the Port of Rotterdam. The move secures vital European berthing capacity for the Gemini Cooperation."
+                "headline": "MARITIME: ASIA USWC RATES SURGE",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B DAMAGES",
+                "visual_caption": "Spot freight rates from Asia to the US West Coast are surging rapidly. Shippers face compounding transport costs ahead of canal restrictions."
             },
             {
                 "slide_index": 3,
-                "headline": "TRUCKING: ATA PRESIDENT CHRIS SPEAR DEPARTS",
-                "teaserTitle": "22 STATES SUE OVER CDL DATABASE",
-                "visual_caption": "American Trucking Associations President Chris Spear has stepped down after nearly a decade leading the organization. The leadership change arrives amid sweeping regulatory reviews across the freight sector."
+                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B DAMAGES",
+                "teaserTitle": "PANAMA CANAL TRIMS DAILY SLOTS",
+                "visual_caption": "CK Hutchison is seeking $1.5B in damages from Panama. The legal action follows the government seizure of two vital container terminals."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPLIANCE: 22 STATES SUE OVER CDL DATABASE",
-                "teaserTitle": "WAREHOUSE VACANCY FALLS TO 7.3%",
-                "visual_caption": "22 states have sued to block federal mandates requiring bulk access to 17M commercial driver records. State leaders argue the demand violates statutory driver privacy laws."
+                "headline": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
+                "teaserTitle": "FEDEX NETWORK CLOSES SHIP CENTERS",
+                "visual_caption": "The Panama Canal is cutting daily bookings down to 32 ships. Severe drought conditions continue to constrain interoceanic transit capacity."
             },
             {
                 "slide_index": 5,
-                "headline": "REAL ESTATE: WAREHOUSE VACANCY FALLS TO 7.3%",
-                "teaserTitle": "TANKER HIJACKED IN GULF OF ADEN",
-                "visual_caption": "National warehouse vacancy fell to 7.3% in Q2 as industrial demand rebounded. Slower construction starts are stabilizing industrial lease rates nationwide."
+                "headline": "LOGISTICS: FEDEX NETWORK CLOSES SHIP CENTERS",
+                "teaserTitle": "ALUMINUM PRICING PROBE LAUNCHED",
+                "visual_caption": "FedEx is shutting down regional ship centers under its Network 2.0 overhaul. Shippers must adapt to tighter local pickup schedules."
             },
             {
                 "slide_index": 6,
-                "headline": "SECURITY: TANKER HIJACKED IN GULF OF ADEN",
-                "teaserTitle": "HD HYUNDAI PURSUES US SHIPYARD",
-                "visual_caption": "Armed groups have hijacked a commercial product tanker in the Gulf of Aden, forcing it toward Somalia. Maritime carriers face rising war-risk insurance premiums across regional transit lanes."
+                "headline": "COMPLIANCE: ALUMINUM PRICING PROBE LAUNCHED",
+                "teaserTitle": "STATES WIN CDL DATABASE LAWSUIT",
+                "visual_caption": "Nearly 60 members of Congress are demanding an investigation into aluminum pricing. Lawmakers target unfair tariff surcharges in metal markets."
             },
             {
                 "slide_index": 7,
-                "headline": "INFRASTRUCTURE: HD HYUNDAI PURSUES US SHIPYARD",
+                "headline": "TRUCKING: STATES WIN CDL DATABASE LAWSUIT",
                 "teaserTitle": "",
-                "visual_caption": "South Korea's HD Hyundai is in advanced talks to acquire an American commercial shipyard. The acquisition aims to expand domestic manufacturing for commercial and specialized vessels."
+                "visual_caption": "22 states have successfully blocked federal access to 17M driver records. Fleets must maintain internal qualification files to ensure compliance."
             },
             {
                 "slide_index": 8,

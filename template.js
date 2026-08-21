@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CUTS DAILY BOOKINGS TO",
-        "titleBlue": "32",
-        "footerSummary": "Panama Canal restricts daily vessel slots to 32 starting September as severe rainfall deficits threaten global maritime transit capacity."
+        "titleWhite": "USTR MOVES FORWARD WITH FORCED LABOR",
+        "titleBlue": "TARIFFS",
+        "footerSummary": "USTR advances forced labor tariffs on 60 trading partners as Section 122 expires, amplifying compliance and margin risks for global shippers."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "CANAL: PANAMA CUTS DAILY BOOKINGS TO 32",
+            "heading": "REGULATION: USTR FORCED LABOR TARIFFS",
             "paragraphs": [
-                "The Panama Canal Authority confirmed it will restrict daily booking slots to 32 vessels starting September 4 due to persistent drought conditions. Daily allocations will drop to 9 Neopanamax and 23 Panamax transits as reservoir levels decline across the watershed.",
-                "Restricted booking windows will intensify vessel congestion and drive spot auction premiums significantly higher across key interoceanic trade routes. Enterprise shippers moving transpacific freight must evaluate alternate routings via the Suez Canal or U.S. West Coast intermodal corridors."
+                "The Office of the United States Trade Representative is proceeding with the implementation of tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. This aggressive regulatory shift coincides with the official expiration of Section 122 trade measures across global supply chains.",
+                "Importers must rapidly audit tier-1 and tier-2 vendor networks to prevent severe customs delays and unexpected duty assessments at destination ports. Failure to verify origin and labor compliance will trigger cascading border friction and immediately compress gross operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "HAPAG-LLOYD BUYS 25% ROTTERDAM STAKE",
+            "nextUpTease": "ASIA USWC RATES SURGE",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-21T10:15:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-21T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "PORTS: HAPAG-LLOYD BUYS 25% ROTTERDAM STAKE",
+            "heading": "MARITIME: ASIA USWC RATES SURGE",
             "paragraphs": [
-                "Hapag-Lloyd has acquired a 25% stake in the automated Maasvlakte II container terminal at the Port of Rotterdam from APM Terminals. The strategic transaction fortifies long-term hub berthing capacity for the newly formed Gemini Cooperation alliance with Maersk.",
-                "Direct terminal equity ownership grants the carrier alliance priority berthing windows and greater control over European transshipment fluidity. Competing non-alliance ocean carriers face tightening berthing schedules and potential feeder connection delays at Europe's largest gateway."
+                "Spot freight rates on Asia to United States West Coast lanes are surging at an accelerated pace as cargo owners scramble to bypass upcoming capacity bottlenecks. Ocean carriers are capitalizing on heightened demand driven by imminent El Ni\u00f1o restrictions across interoceanic trade paths.",
+                "Shippers face compounding cost pressures and tighter booking allocations as carriers prioritize higher-yielding transpacific loops. Logistics planners must secure forward service contracts immediately to insulate annual freight budgets from volatile spot market spikes."
             ],
             "imageUrl": "",
-            "nextUpTease": "ATA PRESIDENT CHRIS SPEAR DEPARTS",
+            "nextUpTease": "CK HUTCHISON SEEKS 1.5B DAMAGES",
             "tags": [
                 "Source: https://theloadstar.com",
-                "Published: 2026-08-21T11:45:00Z",
+                "Published: 2026-08-21T09:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "TRUCKING: ATA PRESIDENT CHRIS SPEAR DEPARTS",
+            "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B DAMAGES",
             "paragraphs": [
-                "American Trucking Associations President and CEO Chris Spear has officially stepped down after leading the national freight federation since 2016. The leadership transition comes during pivotal legislative battles over automated broker liability, independent contractor classifications, and tightening emissions standards.",
-                "Spear's sudden departure leaves motor carriers navigating high-stakes regulatory shifts without veteran lobbying leadership in Washington. Motor carriers and third-party logistics brokers must brace for fragmented advocacy on upcoming federal carrier oversight and safety rules."
+                "Hong Kong conglomerate CK Hutchison Holdings has initiated formal international arbitration proceedings demanding $1.5B in damages from Panama. The legal action follows the controversial government seizure of the Balboa and Cristobal container terminal concessions earlier this year.",
+                "Ongoing legal disputes over terminal asset ownership threaten long-term operational stability and gateway throughput at key transshipment hubs. Global ocean liners managing regional schedules must account for heightened legal risk and potential berthing disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "22 STATES SUE OVER CDL DATABASE",
+            "nextUpTease": "PANAMA CANAL TRIMS DAILY SLOTS",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-21T14:30:00Z",
+                "Published: 2026-08-20T14:15:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "COMPLIANCE: 22 STATES SUE OVER CDL DATABASE",
+            "heading": "WATERWAYS: PANAMA CANAL TRIMS DAILY SLOTS",
             "paragraphs": [
-                "A coalition of 22 state attorneys general filed a federal lawsuit to block government mandates demanding bulk access to 17M commercial driver records. The states argue that releasing detailed Commercial Driver's License registries violates statutory privacy protections and oversteps federal oversight authority.",
-                "Contested driver data governance threatens to stall unified federal safety compliance audits and driver verification screening systems. Fleet compliance directors must maintain redundant driver qualification files to avoid cross-border audit citations amid jurisdictional conflicts."
+                "The Panama Canal Authority is officially reducing daily booking capacity to 32 transits starting in mid-September to manage severe rainfall deficits. El Ni\u00f1o induced drought conditions continue to drain watershed reservoir levels, forcing stricter vessel allocation rules.",
+                "Reduced daily capacity will drive up queue-jump auction fees and push more tonnage toward alternative intermodal land-bridge corridors. Importers moving high-value containerized freight must reevaluate routing strategies to prevent costly delivery schedule slippage."
             ],
             "imageUrl": "",
-            "nextUpTease": "WAREHOUSE VACANCY FALLS TO 7.3%",
+            "nextUpTease": "FEDEX NETWORK CLOSES SHIP CENTERS",
             "tags": [
-                "Source: https://www.freightwaves.com",
-                "Published: 2026-08-21T16:00:00Z",
+                "Source: https://splash247.com",
+                "Published: 2026-08-21T07:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "REAL ESTATE: WAREHOUSE VACANCY FALLS TO 7.3%",
+            "heading": "LOGISTICS: FEDEX NETWORK CLOSES SHIP CENTERS",
             "paragraphs": [
-                "U.S. industrial real estate vacancy contracted by 7 basis points sequentially to 7.3% in Q2 2026 as net absorption outpaced new warehouse completions. Slower speculative construction starts have allowed logistics hubs to digest pandemic-era inventory expansion.",
-                "Tightening prime warehouse supply across Tier 1 logistics markets will reaccelerate industrial lease rate growth heading into 2027. Supply chain executives must secure distribution lease renewals early to prevent unexpected operational rent spikes."
+                "Logistics giant FedEx is actively shutting down regional ship centers as part of its ongoing Network 2.0 operational overhaul and consolidation. The structural restructuring aims to streamline physical footprint expenses and optimize last-mile delivery route density.",
+                "While facility closures drive corporate cost efficiencies, local shippers may experience shifts in pickup cutoff times and transit consistency. Regional distribution managers must diversify carrier partnerships to maintain resilient parcel service level agreements."
             ],
             "imageUrl": "",
-            "nextUpTease": "TANKER HIJACKED IN GULF OF ADEN",
+            "nextUpTease": "ALUMINUM PRICING PROBE LAUNCHED",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-21T11:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-21T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "SECURITY: TANKER HIJACKED IN GULF OF ADEN",
+            "heading": "COMPLIANCE: ALUMINUM PRICING PROBE LAUNCHED",
             "paragraphs": [
-                "Maritime security agencies confirmed the hijacking of a commercial product tanker in the Gulf of Aden by armed groups diverting the vessel toward Somalia. The attack represents the second verified vessel seizure in regional waters this week, signaling escalating piracy risks.",
-                "Resurgent piracy in the southern Red Sea corridor adds another security premium on top of persistent regional missile threats. Tanker operators and commercial fleets face escalating war-risk insurance surcharges and higher operational routing expenses."
+                "Nearly 60 members of Congress have formally petitioned for an immediate federal investigation into the contentious Midwest aluminum premium pricing mechanism. Lawmakers argue that current indexes improperly incorporate 50% tariff penalty costs even when facilities utilize domestically recycled metal.",
+                "Flawed metal pricing formulas artificially inflate raw material expenses for domestic manufacturers and industrial packaging suppliers. Procurement executives must scrutinize supplier pricing contracts to strip out unwarranted tariff surcharges from metal components."
             ],
             "imageUrl": "",
-            "nextUpTease": "HD HYUNDAI PURSUES US SHIPYARD",
+            "nextUpTease": "STATES WIN CDL DATABASE LAWSUIT",
             "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-21T12:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-19T11:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "INFRASTRUCTURE: HD HYUNDAI PURSUES US SHIPYARD",
+            "heading": "TRUCKING: STATES WIN CDL DATABASE LAWSUIT",
             "paragraphs": [
-                "South Korea's HD Hyundai is in advanced negotiations to acquire a commercial shipyard in the United States to expand domestic vessel construction capabilities. The strategic investment aligns with the Make American Shipbuilding Great Again framework to revitalize domestic maritime production capacity.",
-                "Acquiring American production facilities enables foreign marine conglomerates to build Jones Act-compliant commercial vessels and naval support craft. Logistics operators can anticipate long-term relief in domestic fleet replacement cycles and offshore supply vessel capacity."
+                "A federal court coalition of 22 states has successfully blocked aggressive federal mandates demanding bulk access to 17M commercial driver records. The ruling protects state-level database governance and halts unauthorized federal overreach into commercial driver privacy protections.",
+                "The legal victory prevents immediate disruption to driver verification workflows and cross-border motor carrier compliance auditing systems. Fleet safety directors must maintain robust internal qualification archives to ensure uninterrupted driver onboarding operations."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-21T14:29:00Z",
+                "Source: https://www.freightwaves.com",
+                "Published: 2026-08-21T12:00:00Z",
                 "Status: Audited & True"
             ]
         }
