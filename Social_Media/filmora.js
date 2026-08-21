@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "PROCUREMENT: CATERPILLAR BAGS 392M TARIFF REFUND",
-                "teaserTitle": "GLOBAL TRADE: USTR ADVANCES 60 NATION TARIFFS",
-                "visual_caption": "Caterpillar secured a $392M tariff refund as duty costs decline. Industrial importers must audit customs entries to capture retrospective savings."
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M USD",
+                "teaserTitle": "USTR ADVANCES TARIFFS",
+                "visual_caption": "An empty LPG tanker paid $4.6M to bypass Panama Canal queues. Severe draft restrictions and water constraints continue to escalate shipping costs."
             },
             {
                 "slide_index": 2,
-                "headline": "GLOBAL TRADE: USTR ADVANCES 60 NATION TARIFFS",
-                "teaserTitle": "MARITIME LOGISTICS: OCEAN CARRIERS HIKE PANAMA SURCHARGES",
-                "visual_caption": "The USTR advanced new tariffs across 60 trading nations under Section 301. Importers face heightened compliance friction as border scrutiny intensifies."
+                "headline": "GOVERNMENT: USTR ADVANCES TARIFFS ON 60 NATIONS",
+                "teaserTitle": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+                "visual_caption": "The USTR implemented forced labor tariffs across 60 trading partners. Importers face immediate compliance challenges as customs authorities ramp up enforcement."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME LOGISTICS: OCEAN CARRIERS HIKE PANAMA SURCHARGES",
-                "teaserTitle": "FLEET ASSETS: RYDER PREDICTS DOUBLE-DIGIT USED TRUCK HIKE",
-                "visual_caption": "Ocean carriers are raising surcharges due to ongoing Panama Canal draft restrictions. Persistent water constraints continue to inflate container transport costs."
+                "headline": "CONTAINERS: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+                "teaserTitle": "MARITIME: CK HUTCHISON SEEKS 1.5B USD",
+                "visual_caption": "Hapag-Lloyd acquired a 25% stake in a major Rotterdam terminal. The strategic investment strengthens the Gemini network hub-and-spoke operations."
             },
             {
                 "slide_index": 4,
-                "headline": "FLEET ASSETS: RYDER PREDICTS DOUBLE-DIGIT USED TRUCK HIKE",
-                "teaserTitle": "AUTOMATION: RHENUS LAUNCHES 3PL GREEN TRANSPORT BOOK",
-                "visual_caption": "Ryder forecasts double-digit price increases for used commercial trucks through 2027. Motor carriers face escalating capital expenditure requirements for fleet assets."
+                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B USD PANAMA DAMAGES",
+                "teaserTitle": "EQUIPMENT: US TRAILER ORDERS SURGE",
+                "visual_caption": "CK Hutchison filed a $1.5B compensation claim against Panama. The dispute follows the cancellation of strategic port operating leases."
             },
             {
                 "slide_index": 5,
-                "headline": "AUTOMATION: RHENUS LAUNCHES 3PL GREEN TRANSPORT BOOK",
-                "teaserTitle": "AIR CARGO: AMAZON EXPANDS DRONE DELIVERY REACH",
-                "visual_caption": "The Rhenus Group introduced a digital book-and-claim service to reduce transport emissions. The platform streamlines corporate carbon reporting across multimodal networks."
+                "headline": "EQUIPMENT: US TRAILER ORDERS SURGE 97 PERCENT",
+                "teaserTitle": "RETAIL: WALMART Q2 COMPS SOFTEN",
+                "visual_caption": "U.S. commercial trailer orders surged 97% year-over-year in July. Motor carriers rushed to secure manufacturing slots amid rising equipment costs."
             },
             {
                 "slide_index": 6,
-                "headline": "AIR CARGO: AMAZON EXPANDS DRONE DELIVERY REACH",
-                "teaserTitle": "RAILROAD OPERATIONS: CLASS I SPEED AND DWELL METRICS",
-                "visual_caption": "Amazon is scaling its Prime Air drone delivery operations across 6 major metropolitan markets. The expansion accelerates automated last-mile fulfillment in urban airspace."
+                "headline": "RETAIL: WALMART Q2 COMPS SOFTEN ON DRUG PRICING",
+                "teaserTitle": "LOGISTICS: RHENUS LAUNCHES GREEN SERVICE",
+                "visual_caption": "Walmart posted its slowest comparable sales growth in 6 years due to drug pricing regulations. E-commerce growth remained robust despite retail margin compression."
             },
             {
                 "slide_index": 7,
-                "headline": "RAILROAD OPERATIONS: CLASS I SPEED AND DWELL METRICS",
+                "headline": "LOGISTICS: RHENUS LAUNCHES GREEN TRANSPORT BOOK",
                 "teaserTitle": "",
-                "visual_caption": "Class I railroad telemetry reveals mixed performance across mainline train velocity indices. Shippers must monitor real-time network dwell metrics to prevent delays."
+                "visual_caption": "The Rhenus Group launched a new book-and-claim service for transport emissions. Shippers can allocate sustainable fuel investments without physical asset access."
             },
             {
                 "slide_index": 8,

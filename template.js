@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "CATERPILLAR BAGS 392M TARIFF",
-        "titleBlue": "REFUND",
-        "footerSummary": "Caterpillar secures a 392M USD tariff refund as duty costs shrink, highlighting critical trade compliance shifts for heavy machinery supply chains globally."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES 4M",
+        "titleBlue": "USD",
+        "footerSummary": "Panama Canal queue jump fees surge to 4.6M USD as carriers navigate severe draft restrictions and regional transit bottlenecks."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "PROCUREMENT: CATERPILLAR BAGS 392M TARIFF REFUND",
+            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES 4.6M USD",
             "paragraphs": [
-                "Caterpillar has successfully secured a 392M USD tariff refund as overall duty costs experience a noticeable contraction across industrial manufacturing sectors. The substantial financial recovery reflects evolving trade policy adjustments and rigorous customs audits that favor compliant capital equipment importers. Supply chain leaders managing heavy machinery distribution must recalibrate their duty drawback strategies to capture similar retrospective savings.",
-                "Recovering millions in overpaid duties directly enhances operational liquidity and helps offset rising logistics overheads driven by regional freight volatility. Industrial supply chain managers should immediately audit their customs entry filings to identify analogous refund opportunities across international trade corridors."
+                "An empty liquefied petroleum gas tanker will bypass the Panama Canal transit queue after paying an unprecedented 4.6M USD fee amid worsening water constraints. Persistent El Ni\u00f1o weather patterns and declining Gatun Lake levels continue to restrict daily vessel passages and compress regional throughput capacity. Shippers face severe maritime delays as carriers absorb escalating operational surcharges to secure priority access through the vital isthmus waterway.",
+                "Absorbing multi-million-dollar queue jump charges severely impacts freight margins and forces logistics planners to reevaluate total landed cost projections. Commercial cargo owners must model alternative intermodal routing strategies to circumvent unpredictable waterway bottlenecks during peak shipping cycles."
             ],
             "imageUrl": "",
-            "nextUpTease": "GLOBAL TRADE: USTR ADVANCES 60 NATION TARIFFS",
+            "nextUpTease": "USTR ADVANCES TARIFFS",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-20T10:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "GLOBAL TRADE: USTR ADVANCES 60 NATION TARIFFS",
+            "heading": "GOVERNMENT: USTR ADVANCES TARIFFS ON 60 NATIONS",
             "paragraphs": [
-                "The Office of the United States Trade Representative has officially moved forward with the implementation of strict tariffs across 60 trading partners under Section 301. This sweeping regulatory enforcement coincides with the expiration of legacy Section 122 tariffs, signaling a pivot toward targeted, punitive trade measures. Importers face immediate compliance challenges as customs authorities ramp up scrutiny on country-of-origin documentation.",
+                "The Office of the United States Trade Representative has officially implemented forced labor-based tariffs across 60 trading partners under Section 301. This sweeping regulatory enforcement coincides with the expiration of legacy Section 122 tariffs, triggering rigorous customs audits across international entry points. Importers face immediate compliance challenges as regulatory authorities ramp up scrutiny on foreign supply chain provenance and documentation.",
                 "Navigating this complex regulatory expansion requires automated border management solutions to prevent costly port delays and cargo detentions. Shippers must diversify sourcing regions and engage specialized customs brokers to mitigate cascading cost increases across international supply chains."
             ],
             "imageUrl": "",
-            "nextUpTease": "MARITIME LOGISTICS: OCEAN CARRIERS HIKE PANAMA SURCHARGES",
+            "nextUpTease": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
             "tags": [
                 "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-20T09:15:00Z",
+                "Published: 2026-08-20T09:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "MARITIME LOGISTICS: OCEAN CARRIERS HIKE PANAMA SURCHARGES",
+            "heading": "CONTAINERS: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
             "paragraphs": [
-                "Major ocean carriers including MSC and CMA CGM are actively raising operational surcharges in response to ongoing Panama Canal draft restrictions and water level declines. Persistent El Ni\u00f1o weather patterns and regional constraints continue to limit Gatun Lake throughput capacity, forcing lines to pass financial friction onto shippers. Containerized transport networks are absorbing extended transit times as vessels contend with restricted cargo payloads.",
-                "Logistics planners must incorporate dynamic waterway surcharges into total landed cost calculations while evaluating alternative intermodal routing options. Failing to adapt to these recurring maritime bottlenecks risks severe delivery disruptions during peak shipping intervals."
+                "Hapag-Lloyd has finalized an agreement to acquire a 25% equity stake in a major container terminal located at the Port of Rotterdam. This strategic terminal investment serves as a vital pillar for the Gemini Cooperation's newly established hub-and-spoke ocean network architecture. Securing proprietary terminal access allows the carrier to optimize berth productivity and insulate service schedules against European port congestion.",
+                "Controlling key gateway infrastructure enhances operational resilience and provides superior schedule reliability for enterprise cargo owners navigating volatile trade lanes. Shippers should evaluate how carrier-owned terminal networks impact long-term service contracts and equipment availability."
             ],
             "imageUrl": "",
-            "nextUpTease": "FLEET ASSETS: RYDER PREDICTS DOUBLE-DIGIT USED TRUCK HIKE",
+            "nextUpTease": "MARITIME: CK HUTCHISON SEEKS 1.5B USD",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-20T08:30:00Z",
+                "Source: https://theloadstar.com",
+                "Published: 2026-08-20T10:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FLEET ASSETS: RYDER PREDICTS DOUBLE-DIGIT USED TRUCK HIKE",
+            "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B USD PANAMA DAMAGES",
             "paragraphs": [
-                "Ryder executives have issued a definitive market forecast projecting double-digit price increases for secondary market commercial trucks throughout 2027. Tightening equipment availability, driven by restrained OEM production and stricter emissions mandates, is compressing the pre-owned commercial vehicle inventory pool. Motor carriers seeking to expand or replace aging over-the-road assets face escalating capital expenditure requirements.",
-                "Fleet directors must accelerate equipment procurement cycles and lock in long-term maintenance contracts to insulate operations against inflated asset valuations. Proactive asset management is vital for maintaining fleet reliability without destabilizing corporate capital budgets."
+                "CK Hutchison has formally filed a 1.5B USD compensation claim against Panama, alleging severe breaches of international investment protection treaties. The legal dispute stems from the abrupt cancellation of strategic terminal operating leases, triggering widespread uncertainty across global port management operations. International maritime operators are monitoring the arbitration proceedings closely as a bellwether for sovereign risk in port infrastructure investments.",
+                "Escalating legal friction in critical transshipment hubs introduces substantial regulatory risk for multinational terminal operators and ocean carriers alike. Logistics executives must factor geopolitical and sovereign dispute exposures into long-term network deployment strategies."
             ],
             "imageUrl": "",
-            "nextUpTease": "AUTOMATION: RHENUS LAUNCHES 3PL GREEN TRANSPORT BOOK",
+            "nextUpTease": "EQUIPMENT: US TRAILER ORDERS SURGE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-20T07:45:00Z",
+                "Source: https://www.supplychainbrain.com",
+                "Published: 2026-08-20T08:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "AUTOMATION: RHENUS LAUNCHES 3PL GREEN TRANSPORT BOOK",
+            "heading": "EQUIPMENT: US TRAILER ORDERS SURGE 97 PERCENT",
             "paragraphs": [
-                "The Rhenus Group has introduced an innovative book-and-claim service designed to help enterprise shippers transparently account for and reduce transport emissions. The digital framework allows logistics buyers to allocate sustainable fuel investments across multimodal networks without requiring direct physical access to green assets. This scalable approach addresses corporate environmental mandates while streamlining carbon reporting compliance.",
-                "Supply chain executives are increasingly leveraging verified book-and-claim mechanisms to meet stringent Scope 3 emissions reduction targets cost-effectively. Adopting these digital sustainability tools enables organizations to demonstrate verifiable environmental progress to increasingly conscious consumer bases."
+                "United States commercial trailer orders defied historical seasonal expectations by surging 97% year-over-year during the month of July. Motor carriers and private fleets rushed to secure manufacturing slots against a backdrop of tightening equipment availability and rising component costs. This unexpected procurement wave highlights an aggressive push by fleet operators to replace aging over-the-road assets ahead of predicted price spikes.",
+                "Accelerating capital expenditures for fleet renewal significantly increases fixed overhead costs for motor carriers operating in competitive freight markets. Shippers should anticipate tighter equipment capacity in specific regional corridors as fleets manage absorption timelines."
             ],
             "imageUrl": "",
-            "nextUpTease": "AIR CARGO: AMAZON EXPANDS DRONE DELIVERY REACH",
+            "nextUpTease": "RETAIL: WALMART Q2 COMPS SOFTEN",
             "tags": [
-                "Source: https://www.dcvelocity.com",
-                "Published: 2026-08-20T06:50:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-19T11:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "AIR CARGO: AMAZON EXPANDS DRONE DELIVERY REACH",
+            "heading": "RETAIL: WALMART Q2 COMPS SOFTEN ON DRUG PRICING",
             "paragraphs": [
-                "Amazon is aggressively scaling its Prime Air drone delivery operations to span six major metropolitan markets, including Atlanta, Chicago, and Cleveland. The e-commerce giant's rapid network expansion introduces high-density autonomous aerial logistics directly into complex suburban and urban airspace environments. This deployment highlights the accelerating shift toward ultrafast automated fulfillment models within retail distribution.",
-                "Traditional parcel carriers and last-mile operators must upgrade their urban logistics infrastructure to compete against compressed delivery windows. Failing to embrace autonomous fulfillment technologies risks substantial market share erosion in high-density consumer sectors."
+                "Walmart reported its slowest pace of United States comparable sales growth in six years, with second-quarter metrics softened by strict drug pricing regulations. Despite robust overall e-commerce expansion driven by accelerated delivery capabilities, retail sales volumes experienced notable margin compression. Supply chain executives are analyzing how pharmaceutical pricing shifts ripple through mass-merchandise inventory replenishment cycles.",
+                "Shifting consumer spending patterns and regulatory adjustments in retail sectors require high agility from enterprise distribution networks. Supply chain leaders must utilize advanced demand sensing tools to align inventory levels with localized consumption shifts."
             ],
             "imageUrl": "",
-            "nextUpTease": "RAILROAD OPERATIONS: CLASS I SPEED AND DWELL METRICS",
+            "nextUpTease": "LOGISTICS: RHENUS LAUNCHES GREEN SERVICE",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-20T06:00:00Z",
+                "Source: https://www.retaildive.com",
+                "Published: 2026-08-20T08:30:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "RAILROAD OPERATIONS: CLASS I SPEED AND DWELL METRICS",
+            "heading": "LOGISTICS: RHENUS LAUNCHES GREEN TRANSPORT BOOK",
             "paragraphs": [
-                "Latest operational telemetry data for Class I railroads reveals mixed performance across mainline train velocity and terminal dwell time indices nationwide. While select western corridors show improved intermodal fluidity, eastern networks continue to battle localized yard congestion and labor allocation friction. Shippers relying on rail transport must monitor real-time network key performance indicators to prevent unexpected transit delays.",
-                "Transportation managers should establish agile contingency plans and diversify intermodal carrier allocations to safeguard supply chain continuity. Maintaining real-time visibility into rail network bottlenecks remains an essential competency for mitigating freight volatility."
+                "The Rhenus Group has introduced an innovative book-and-claim service designed to help enterprise shippers transparently account for and reduce transport emissions. The digital framework allows logistics buyers to allocate sustainable fuel investments across multimodal networks without requiring direct physical access to green assets. This scalable approach addresses corporate environmental mandates while streamlining carbon reporting compliance.",
+                "Supply chain executives are increasingly leveraging verified book-and-claim mechanisms to meet stringent Scope 3 emissions reduction targets cost-effectively. Adopting these digital sustainability tools enables organizations to demonstrate verifiable environmental progress to increasingly conscious consumer bases."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-20T05:15:00Z",
+                "Source: https://www.dcvelocity.com",
+                "Published: 2026-08-20T07:00:00Z",
                 "Status: Audited & True"
             ]
         }
