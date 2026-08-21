@@ -1,35 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
-        "titleBlue": "$4.6M",
-        "footerSummary": "Panama Canal queue jump fee hits $4.6M as Iranian conflict reroutes global shipping, squeezing vessel transit capacity."
+        "titleWhite": "PANAMA CANAL CAPACITY CUT TO",
+        "titleBlue": "32",
+        "footerSummary": "Panama Canal cuts daily capacity to 32 ships as worsening El Nino rainfall deficits force defensive booking restrictions."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
+            "heading": "MARITIME: PANAMA CANAL CAPACITY CUT TO 32",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker recently secured expedited passage through the Panama Canal by paying a record-breaking $4.6M queue jump fee. This unprecedented financial outlay highlights the compounding disruption in global maritime corridors as geopolitical conflicts force major vessel rerouting.",
-                "Surging priority tolls elevate operating expenditures for marine charterers attempting to bypass chronic waterway congestion and strict draft limits. Shippers must factor escalating premium transit costs into landed margin forecasts to protect profitability."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL CUTS DAILY CAPACITY",
-            "tags": [
-                "Source: https://www.inboundlogistics.com",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "MARITIME: PANAMA CANAL CUTS DAILY CAPACITY",
-            "paragraphs": [
-                "The Panama Canal Authority is officially reducing daily booking capacity to 32 ships starting in mid September as worsening rainfall deficits strain water levels. The waterway will restrict bookings to 9 Neopanamax and 23 Panamax transit slots to manage El Ni\u00f1o pressures.",
+                "The Panama Canal Authority is officially reducing daily booking capacity to 32 ships starting in mid September as worsening rainfall deficits strain water levels. The waterway will restrict bookings to 9 Neopanamax and 23 Panamax transit slots to manage El Nino pressures and maintain operational safety.",
                 "Constrained transit availability accelerates booking competition and inflates spot freight rates across transpacific trade routes. Logistics directors should evaluate alternative intermodal gateways immediately to insulate distribution networks from severe transit delays."
             ],
             "imageUrl": "",
-            "nextUpTease": "RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
+            "nextUpTease": "CK HUTCHISON SEEKS DAMAGES FROM PANAMA",
             "tags": [
                 "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
                 "Published: 2026-08-21T00:00:00Z",
@@ -37,77 +22,92 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "TANKERS: RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
+            "id": 2,
+            "heading": "GLOBAL: CK HUTCHISON SEEKS DAMAGES FROM PANAMA",
             "paragraphs": [
-                "Russia is importing approximately 270K metric tons of refined fuels from Asia this month, generating an extraordinary trade flow reversal. Persistent Ukrainian drone strikes against domestic refineries have left one of the world's primary energy producers facing critical fuel deficits.",
-                "This historic trade reversal upends traditional maritime deployment patterns and absorbs vital product tanker capacity across long haul eastern routes. Energy charterers must navigate shifting ton mile dynamics and heightened regional risk premiums to secure reliable vessel tonnage."
+                "Hong Kong based CK Hutchison Holdings has officially initiated international arbitration proceedings against the government of Panama demanding $1.5B in financial compensation. The legal action follows the controversial seizure and cancellation of key terminal operating concessions at the vital ports of Balboa and Cristobal.",
+                "Prolonged legal friction across strategic container hubs introduces acute operational risk and asset uncertainty for international marine terminal operators. Enterprise supply chain executives must monitor gateway stability closely to insulate cargo flows from sudden management disruptions."
             ],
             "imageUrl": "",
-            "nextUpTease": "HORMUZ RETURN COMES WITH BIG RISK FOR CARRIERS",
+            "nextUpTease": "TRUMP LIFTS TARIFFS ON GROUND BEEF",
             "tags": [
-                "Source: https://splash247.com/russian-fuel-shortages-reverse-tanker-trade-flows/",
+                "Source: https://maritime-executive.com",
+                "Published: 2026-08-20T20:43:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "PROCUREMENT: TRUMP LIFTS TARIFFS ON GROUND BEEF",
+            "paragraphs": [
+                "President Donald Trump announced he will temporarily allow 300K metric tons of ground beef to enter the United States duty free over the next 90 days. This intervention aims to lower consumer prices as domestic cattle production hits its lowest volume threshold since 1970.",
+                "Relaxed import duties provide immediate cost relief for cold chain operators and food service distributors facing persistent supply shortages. Procurement teams should capitalize on the 90 day window to optimize inventory holding costs and stabilize protein margins."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "SECURITY: HORMUZ RETURN COMES WITH BIG RISK FOR CARRIERS",
+            "heading": "REGULATION: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
             "paragraphs": [
-                "The U.S. military has facilitated the secure passage of 660M barrels of oil through the Strait of Hormuz since May amid ongoing regional hostilities. Despite naval escorts, marine carriers face persistent security vulnerabilities and elevated insurance premiums when transiting the volatile chokepoint.",
-                "Heightened threat levels require maritime operators to maintain rigorous risk mitigation protocols and dynamic route planning. Supply chain executives must account for volatile war risk surcharges when budgeting petroleum and chemical feedstock imports."
+                "Pennsylvania regulators can now impose civil penalties of up to $25K on unlicensed commercial driver training schools under a strict new state law. This enforcement measure is designed to eliminate substandard driver instruction and improve safety standards across major freight corridors.",
+                "Cracking down on rogue training programs further tightens qualified driver pipelines and elevates operational hurdles for regional motor carriers. Fleet managers must audit driver credentials rigorously to prevent compliance violations and mitigate liability exposure."
             ],
             "imageUrl": "",
-            "nextUpTease": "ELD CRACKDOWN CUTS TRUCKING CAPACITY",
+            "nextUpTease": "OIL PRICES STABLE AMID HORMUZ STALL",
             "tags": [
-                "Source: https://www.cnbc.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-19T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "SURFACE: ELD CRACKDOWN CUTS TRUCKING CAPACITY",
+            "heading": "FUEL: OIL PRICES STABLE AMID HORMUZ STALL",
             "paragraphs": [
-                "Federal transportation regulators are aggressively tightening oversight of electronic logging devices to eradicate hours of service fraud across major freight corridors. This strict enforcement sweep is idling non compliant vehicles and tightening over the road capacity.",
-                "Escalating compliance enforcement exacerbates driver shortages and drives up spot market freight rates for enterprise shippers. Supply chain leaders must diversify carrier partnerships and optimize lane routing to maintain reliable domestic distribution."
+                "International benchmark Brent crude rose 0.7% to $94.46 a barrel as diplomatic talks regarding the security of the Strait of Hormuz stalled. The ongoing Middle East conflict continues to keep energy expenses elevated compared to pre war baselines.",
+                "Sustained high fuel expenses compound operating pressures for ocean carriers and over the road fleets navigating long haul routes. Logistics leaders must refine fuel surcharge mechanisms and optimize fleet efficiency to protect operating margins."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR ADVANCES FORCED LABOR TARIFFS",
+            "nextUpTease": "PORT OF LOS ANGELES POSTS STRONG JULY",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ttnews.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "COMPLIANCE: USTR ADVANCES FORCED LABOR TARIFFS",
+            "heading": "MARITIME: PORT OF LOS ANGELES POSTS STRONG JULY",
             "paragraphs": [
-                "The Office of the United States Trade Representative is moving forward with the implementation of targeted tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. This regulatory rollout coincides with the formal expiration of legacy Section 122 duties across multiple industrial import categories.",
-                "Expanding trade barriers increase administrative burdens and impose complex customs auditing costs on multinational supply chain operations. Importers must upgrade origin tracing protocols and enhance database transparency to prevent unexpected border detentions."
+                "The Port of Los Angeles handled 960K TEUs in July, marking its second busiest July volume on record despite a minor 5.82% annual pullback. Shippers continue front loading import volumes through West Coast gateways to hedge against ongoing global supply chain risks.",
+                "Strong gateway throughput requires terminal operators and drayage providers to maintain high equipment velocity to prevent landside congestion. Supply chain directors should coordinate rail and trucking allocations early to avoid dwell time penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "CK HUTCHISON FILES ARBITRATION CLAIM",
+            "nextUpTease": "SUPPLY CHAIN SALARIES REBOUND TO $126K",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.ttnews.com",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "GATEWAYS: CK HUTCHISON FILES ARBITRATION CLAIM",
+            "heading": "LABOR: SUPPLY CHAIN SALARIES REBOUND TO $126K",
             "paragraphs": [
-                "Hong Kong based CK Hutchison Holdings has officially initiated international arbitration proceedings against the government of Panama demanding $1.5B in financial compensation. The legal action follows the controversial seizure and cancellation of key terminal operating concessions at the vital ports of Balboa and Cristobal.",
-                "Prolonged legal friction across strategic container hubs introduces acute operational risk and asset uncertainty for international marine terminal operators. Enterprise supply chain executives must monitor gateway stability closely to insulate cargo flows from sudden management disruptions."
+                "Logistics Management\u2019s 2026 Salary Study reveals average professional compensation rebounding to $126K as supply chain leaders take on broader responsibilities. Executives are managing increasingly complex technology integrations, risk management protocols, and enterprise decision making.",
+                "Expanding compensation trends reflect the vital strategic value placed on experienced logistics talent in navigating persistent market volatility. Organizations must invest in competitive compensation and continuous training to retain elite supply chain leadership."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-20T20:43:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

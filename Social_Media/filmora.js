@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
-                "teaserTitle": "PANAMA CANAL CUTS DAILY CAPACITY",
-                "visual_caption": "An empty liquefied petroleum gas tanker secured expedited passage through the Panama Canal by paying a record $4.6M fee. Surging priority tolls elevate operating expenditures for marine charterers attempting to bypass chronic waterway congestion."
+                "headline": "MARITIME: PANAMA CANAL CAPACITY CUT TO 32",
+                "teaserTitle": "CK HUTCHISON SEEKS DAMAGES FROM PANAMA",
+                "visual_caption": "The Panama Canal is cutting daily booking capacity to 32 ships starting in September due to severe rainfall deficits. This restriction accelerates booking competition and inflates spot freight rates across transpacific routes."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL CUTS DAILY CAPACITY",
-                "teaserTitle": "RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
-                "visual_caption": "The Panama Canal Authority is officially reducing daily booking capacity to 32 ships starting in September. Constrained transit availability accelerates booking competition and inflates spot freight rates across transpacific trade routes."
+                "headline": "GLOBAL: CK HUTCHISON SEEKS DAMAGES FROM PANAMA",
+                "teaserTitle": "TRUMP LIFTS TARIFFS ON GROUND BEEF",
+                "visual_caption": "CK Hutchison Holdings initiated arbitration demanding $1.5B over seized Panama ports. Legal friction across key marine terminals introduces acute operational risk for international operators."
             },
             {
                 "slide_index": 3,
-                "headline": "TANKERS: RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
-                "teaserTitle": "HORMUZ RETURN COMES WITH BIG RISK FOR CARRIERS",
-                "visual_caption": "Russia is importing 270K metric tons of refined fuels from Asia this month. Persistent Ukrainian drone strikes against domestic refineries have left one of the world's primary energy producers facing critical fuel deficits."
+                "headline": "PROCUREMENT: TRUMP LIFTS TARIFFS ON GROUND BEEF",
+                "teaserTitle": "PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
+                "visual_caption": "President Trump will allow 300K metric tons of ground beef to enter duty free for 90 days. This measure provides immediate cost relief for food service distributors facing severe domestic supply shortages."
             },
             {
                 "slide_index": 4,
-                "headline": "SECURITY: HORMUZ RETURN COMES WITH BIG RISK FOR CARRIERS",
-                "teaserTitle": "ELD CRACKDOWN CUTS TRUCKING CAPACITY",
-                "visual_caption": "The U.S. military has facilitated the secure passage of 660M barrels of oil through the Strait of Hormuz since May. Despite naval escorts, marine carriers face persistent security vulnerabilities and elevated insurance premiums."
+                "headline": "REGULATION: PENNSYLVANIA TARGETS UNLICENSED CDL SCHOOLS",
+                "teaserTitle": "OIL PRICES STABLE AMID HORMUZ STALL",
+                "visual_caption": "Pennsylvania regulators can now impose $25K penalties on unlicensed commercial driver schools. Cracking down on substandard training tightens qualified driver pipelines and raises fleet compliance hurdles."
             },
             {
                 "slide_index": 5,
-                "headline": "SURFACE: ELD CRACKDOWN CUTS TRUCKING CAPACITY",
-                "teaserTitle": "USTR ADVANCES FORCED LABOR TARIFFS",
-                "visual_caption": "Federal transportation regulators are aggressively tightening oversight of electronic logging devices across major freight corridors. This strict enforcement sweep is idling non-compliant vehicles and tightening over-the-road capacity."
+                "headline": "FUEL: OIL PRICES STABLE AMID HORMUZ STALL",
+                "teaserTitle": "PORT OF LOS ANGELES POSTS STRONG JULY",
+                "visual_caption": "Brent crude rose to $94.46 as Strait of Hormuz diplomatic talks stalled. Sustained high fuel expenses compound operating pressures for ocean carriers and over the road transport fleets."
             },
             {
                 "slide_index": 6,
-                "headline": "COMPLIANCE: USTR ADVANCES FORCED LABOR TARIFFS",
-                "teaserTitle": "CK HUTCHISON FILES ARBITRATION CLAIM",
-                "visual_caption": "The Office of the United States Trade Representative is moving forward with targeted tariffs on 60 trading partners under Section 301. Expanding trade barriers increase administrative burdens and impose complex customs auditing costs."
+                "headline": "MARITIME: PORT OF LOS ANGELES POSTS STRONG JULY",
+                "teaserTitle": "SUPPLY CHAIN SALARIES REBOUND TO $126K",
+                "visual_caption": "The Port of Los Angeles handled 960K TEUs in July as shippers front loaded imports. Strong gateway throughput requires terminal operators to maintain high equipment velocity to prevent landside congestion."
             },
             {
                 "slide_index": 7,
-                "headline": "GATEWAYS: CK HUTCHISON FILES ARBITRATION CLAIM",
+                "headline": "LABOR: SUPPLY CHAIN SALARIES REBOUND TO $126K",
                 "teaserTitle": "",
-                "visual_caption": "CK Hutchison Holdings has initiated international arbitration proceedings against Panama demanding $1.5B in compensation. The legal action follows the controversial seizure of key terminal operating concessions."
+                "visual_caption": "Average logistics salaries rebounded to $126K amid expanding professional responsibilities. Organizations must invest in competitive compensation to retain elite supply chain leadership talent."
             },
             {
                 "slide_index": 8,
