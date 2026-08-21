@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL REDUCES CAPACITY TO 32",
-                "teaserTitle": "PANAMA SUIT",
-                "visual_caption": "The Panama Canal Authority is restricting daily transits to 32 vessels starting in mid-September. Severe drought conditions continue to constrain global trade routes."
+                "headline": "MARITIME: PANAMA CANAL CUTS CAPACITY TO 32",
+                "teaserTitle": "FORCED LABOR TARIFFS",
+                "visual_caption": "The Panama Canal Authority is cutting daily vessel bookings to 32 ships starting in mid-September due to worsening drought conditions. This constraint inflates scheduling volatility and compels ocean carriers to seek alternative corridors."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B PANAMA SUIT",
-                "teaserTitle": "TARIFF REFUND",
-                "visual_caption": "Operator CK Hutchison is demanding $1.5B in damages from Panama. The arbitration follows the contentious cancellation of strategic port leases."
+                "headline": "GOVERNMENT: FORCED LABOR TARIFFS",
+                "teaserTitle": "TANKER TRADE FLOWS",
+                "visual_caption": "The USTR is implementing Section 301 tariffs on 60 nations targeting forced labor. Importers face increased administrative burdens and stricter customs compliance vetting."
             },
             {
                 "slide_index": 3,
-                "headline": "PROCUREMENT: CATERPILLAR BAGS 392M TARIFF REFUND",
-                "teaserTitle": "DRONE DELIVERY",
-                "visual_caption": "Caterpillar has successfully secured a $392M tariff refund. The recovery highlights aggressive corporate auditing of historical duty costs."
+                "headline": "TANKERS: REVERSED TANKER TRADE FLOWS",
+                "teaserTitle": "CDL RECORDS LAWSUIT",
+                "visual_caption": "Russia is importing nearly 270K tons of refined fuels from Asia following refinery strikes. This reversal tightens global product tanker availability and drives up charter rates."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: AMAZON EXPANDS DRONE DELIVERY",
-                "teaserTitle": "OIL PRICES",
-                "visual_caption": "Amazon is expanding its Prime Air drone delivery network 6x into major metropolitan hubs. The initiative accelerates final-mile fulfillment speeds for consumers."
+                "headline": "TRUCKING: 22 STATES SUE OVER CDL RECORDS",
+                "teaserTitle": "CONTAINER SHIPPING CAPACITY",
+                "visual_caption": "22 states have filed a lawsuit to block a federal mandate accessing 17M commercial driver records. Fleet operators must monitor potential disruptions in driver vetting workflows."
             },
             {
                 "slide_index": 5,
-                "headline": "FUEL: OIL PRICES SURGE ON IRAN TENSION",
-                "teaserTitle": "ROTTERDAM STAKE",
-                "visual_caption": "Brent crude surged 1.8% to $93.24 per barrel amid Middle East tensions. Refineries accelerated processing to 17.4M barrels daily."
+                "headline": "MARITIME: CHINA STRAINS AUTO SHIPPING CAPACITY",
+                "teaserTitle": "STRIKE AT TP FREIGHT",
+                "visual_caption": "Rapidly growing Chinese automotive exports are severely straining global RoRo vessel capacity. Automotive manufacturers must secure long-term contracts early to avoid severe rate spikes."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
-                "teaserTitle": "EU REFORM",
-                "visual_caption": "Hapag-Lloyd has acquired a 25% equity stake in a major Rotterdam container terminal. This gateway asset supports the new Gemini network."
+                "headline": "LOGISTICS: TEAMSTERS REVEAL TP FREIGHT SHUTDOWN",
+                "teaserTitle": "DRONE DELIVERY EXPANSION",
+                "visual_caption": "TP Freight has executed a sudden shutdown of regional LTL operations. Sudden carrier closures force shippers into higher-priced spot markets to cover stranded freight."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: AIR CARGO RATES SLUMP AFTER EU REFORM",
+                "headline": "TECHNOLOGY: AMAZON EXPANDS DRONE DELIVERY",
                 "teaserTitle": "",
-                "visual_caption": "Global air cargo rates contracted following new European Union de minimis tax reforms. The elimination of duty-free exemptions altered cross-border e-commerce flows."
+                "visual_caption": "Amazon is scaling its Prime Air network with a 6x expansion into major metropolitan centers. Autonomous aerial routing redefines final-mile speed and forces competing carriers to upgrade."
             },
             {
                 "slide_index": 8,

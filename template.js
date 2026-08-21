@@ -1,112 +1,112 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL REDUCES CAPACITY TO",
+        "titleWhite": "PANAMA CANAL CUTS CAPACITY TO",
         "titleBlue": "32",
         "footerSummary": "Panama Canal cuts daily transits to 32 vessels starting in mid-September as severe drought conditions and declining water levels threaten global routes."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL REDUCES CAPACITY TO 32",
+            "heading": "MARITIME: PANAMA CANAL CUTS CAPACITY TO 32",
             "paragraphs": [
-                "The Panama Canal Authority is expanding temporary modifications to lock transit capacity by restricting daily bookings to 32 vessels starting in mid-September. Severe rainfall deficits across Gatun Lake and escalating Super El Nino forecasts have forced the waterway to enforce strict defensive scheduling.",
+                "The Panama Canal Authority is officially cutting daily booking capacity to 32 ships starting in mid-September as worsening rainfall deficits force the waterway into deeper defensive measures against El Nino. For booking dates from September 4, the canal will offer nine neopanamax slots and 23 panamax slots to manage declining water levels.",
                 "Constrained waterway capacity immediately inflates scheduling volatility and compels ocean carriers to reassess route economics through alternative corridors. Shippers must prepare for higher transit surcharges and reduced vessel availability as peak shipping demand intensifies."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA SUIT",
+            "nextUpTease": "FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://maritime-executive.com/article/panama-canal-begins-reducing-daily-transits-due-to-declining-water-levels",
-                "Published: 2026-08-20T18:41:00Z",
+                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B PANAMA SUIT",
+            "heading": "GOVERNMENT: FORCED LABOR TARIFFS",
             "paragraphs": [
-                "Global infrastructure operator CK Hutchison has initiated formal legal proceedings demanding $1.5B in damages from Panama, alleging severe violations of an investment protection treaty. The international arbitration follows the contentious cancellation of strategic port terminal leases that disrupted established maritime operations.",
-                "Sovereign legal disputes threaten long-term capital deployments and introduce significant operational unpredictability into global port stewardship. Supply chain executives must monitor arbitration developments closely to anticipate potential shifts in terminal management reliability and local port tariffs."
+                "In a widely expected move, the Office of the United States Trade Representative announced it is moving forward with the implementation of tariffs on 60 nations under Section 301 of the Trade Act of 1974. The sweeping trade enforcement action targets supply chains linked to forced labor practices across multiple international trade corridors.",
+                "Regulatory compliance checks will intensify enforcement scrutiny, requiring importers to audit tier-one and tier-two suppliers rigorously. Supply chain executives face increased administrative burdens and potential border delays as customs authorities vet landed merchandise against compliance standards."
             ],
             "imageUrl": "",
-            "nextUpTease": "TARIFF REFUND",
+            "nextUpTease": "TANKER TRADE FLOWS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/caterpillar-tariff-refund-duty-costs-shrink/758402/",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.logisticsmgmt.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "PROCUREMENT: CATERPILLAR BAGS 392M TARIFF REFUND",
+            "heading": "TANKERS: REVERSED TANKER TRADE FLOWS",
             "paragraphs": [
-                "Caterpillar has successfully secured a massive $392M tariff refund as regulatory scrutiny over import duty calculations intensifies across federal agencies. The substantial financial recovery highlights shifting trade compliance dynamics as industrial enterprises aggressively audit historical duty disbursements.",
-                "Reclaiming historical duty outlays injects crucial liquidity into enterprise balance sheets and alters landed cost accounting models. Procurement leaders must systematically audit past customs entries to identify similar recovery opportunities across international supply chains."
+                "Russia is importing almost 270K tons of refined fuels from Asia this month, creating an extraordinary reversal in tanker trade flows. Repeated Ukrainian strikes on domestic refineries have left one of the world\u2019s largest energy producers short of fuel, forcing emergency cross-border procurement.",
+                "Shifting energy trade routes tighten availability for product tankers and drive up charter rates across regional maritime networks. Fuel buyers and logistics providers must recalibrate vessel sourcing strategies to navigate constrained refining capacity."
             ],
             "imageUrl": "",
-            "nextUpTease": "DRONE DELIVERY",
+            "nextUpTease": "CDL RECORDS LAWSUIT",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/amazon-expand-drone-delivery-reach-sixfold-2026/758401/",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://splash247.com/russian-fuel-shortages-reverse-tanker-trade-flows/",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LOGISTICS: AMAZON EXPANDS DRONE DELIVERY",
+            "heading": "TRUCKING: 22 STATES SUE OVER CDL RECORDS",
             "paragraphs": [
-                "Amazon is aggressively scaling its Prime Air network to reach sixfold geographic expansion this year by deploying autonomous drone delivery hubs into major metropolitan centers. The e-commerce giant will soon launch commercial drone operations across Atlanta, Chicago, and Cleveland to accelerate final-mile speed.",
-                "Rapid deployment of aerial fulfillment infrastructure redefines consumer delivery expectations and forces competing parcel carriers to upgrade network density. Logistics executives must evaluate how autonomous aerial routing alters regional distribution cost structures."
+                "A coalition of 22 states has filed a lawsuit to block a federal mandate requiring access to 17M truck drivers\u2019 records. State attorneys general argue that the federal demand oversteps statutory authority and creates significant data privacy risks for commercial motor vehicle operators.",
+                "Regulatory friction between state agencies and federal regulators introduces compliance uncertainty for interstate motor carriers. Fleet operators must monitor legal proceedings closely to anticipate potential disruptions in driver qualification and vetting workflows."
             ],
             "imageUrl": "",
-            "nextUpTease": "OIL PRICES",
+            "nextUpTease": "CONTAINER SHIPPING CAPACITY",
             "tags": [
-                "Source: https://www.ttnews.com/news/articles/oil-prices-surge-us-threatens-pressure-iran",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "FUEL: OIL PRICES SURGE ON IRAN TENSION",
+            "heading": "MARITIME: CHINA STRAINS AUTO SHIPPING CAPACITY",
             "paragraphs": [
-                "International benchmark Brent crude surged 1.8% to $93.24 per barrel amid escalating geopolitical tensions and maritime security disruptions in the Middle East. Refineries responded by aggressively accelerating processing throughput to 17.4M barrels daily, hitting the highest operational pace recorded since September 2019.",
-                "Escalating energy costs compress operating margins, forcing logistics providers to pass fuel volatility downstream via dynamic variable surcharges. Freight buyers must recalibrate baseline operating budgets to account for sustained fuel price spikes through the approaching winter shipping cycle."
+                "Rapidly growing Chinese automotive exports are heavily straining global vessel capacity, according to major liner executives. The export surge is absorbing available roll-on roll-off vessel space and driving up charter costs for finished vehicle logistics.",
+                " constrained vessel availability threatens export schedules for global automotive manufacturers seeking outbound distribution. Supply chain planners must secure long-term capacity agreements early to avoid severe rate spikes and port congestion."
             ],
             "imageUrl": "",
-            "nextUpTease": "ROTTERDAM STAKE",
+            "nextUpTease": "STRIKE AT TP FREIGHT",
             "tags": [
-                "Source: https://theloadstar.com/hapag-lloyd-to-acquire-25-of-box-terminal-at-rotterdam-vital-to-gemini/",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "MARITIME: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
+            "heading": "LOGISTICS: TEAMSTERS REVEAL TP FREIGHT SHUTDOWN",
             "paragraphs": [
-                "German ocean carrier Hapag-Lloyd has finalized an agreement to acquire a 25% equity stake in a major container terminal at the Port of Rotterdam. This strategic gateway asset serves as a foundational operational pillar for the newly established Gemini Cooperation hub and spoke network.",
-                "Controlling dedicated terminal capacity enhances operational resilience and delivers superior schedule predictability for enterprise cargo owners navigating congested European gateways. Logistics directors must evaluate how proprietary carrier terminal investments impact long-term service contracts and equipment availability."
+                "The Teamsters union revealed that TP Freight has executed a sudden shutdown of operations, catching shipping customers and logistics partners off guard. The abrupt closure eliminates regional less-than-truckload capacity and leaves active freight stranded across local terminal networks.",
+                "Carrier insolvencies and sudden closures force shippers into higher-priced spot markets to cover disrupted freight movements. Logistics managers must diversify carrier portfolios and maintain rigorous financial health checks on regional providers to mitigate abandonment risks."
             ],
             "imageUrl": "",
-            "nextUpTease": "EU REFORM",
+            "nextUpTease": "DRONE DELIVERY EXPANSION",
             "tags": [
-                "Source: https://www.joc.com/article/air-cargo-rates-volume-slump-after-eu-duty-free-tax-reform_20260820.html",
+                "Source: https://www.freightwaves.com",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "AIR CARGO: AIR CARGO RATES SLUMP AFTER EU REFORM",
+            "heading": "TECHNOLOGY: AMAZON EXPANDS DRONE DELIVERY",
             "paragraphs": [
-                "Global air cargo rates and volumes experienced a sharp contraction following the implementation of sweeping European Union de minimis tax reforms. The elimination of duty-free exemptions for low-value imports immediately altered consumer purchasing behavior and shifted e-commerce logistics strategies across cross-border channels.",
-                "Regulatory shifts in low-value import taxation disrupt traditional air freight demand patterns and complicate customs clearance timelines for parcel carriers. Supply chain managers must restructure cross-border inventory flows to mitigate the financial friction introduced by new tax rules."
+                "Amazon is aggressively scaling its Prime Air network to achieve a sixfold geographic expansion this year by deploying autonomous drone delivery hubs into major metropolitan centers. The e-commerce giant is launching commercial drone operations across Atlanta, Chicago, and Cleveland to accelerate final-mile speed.",
+                "Rapid deployment of aerial fulfillment infrastructure redefines consumer delivery expectations and forces competing parcel carriers to upgrade network density. Logistics executives must evaluate how autonomous aerial routing alters regional distribution cost structures."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com/article/air-cargo-rates-volume-slump-after-eu-duty-free-tax-reform_20260820.html",
+                "Source: https://www.supplychaindive.com/news/amazon-expand-drone-delivery-reach-sixfold-2026/758401/",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]

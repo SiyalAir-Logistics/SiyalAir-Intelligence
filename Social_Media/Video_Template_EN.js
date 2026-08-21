@@ -1,64 +1,64 @@
 module.exports = {
     "language": "EN",
     "video_shorts_data": {
-        "hookTitle": "PANAMA CANAL REDUCES CAPACITY TO THIRTY TWO",
+        "hookTitle": "PANAMA CANAL CUTS CAPACITY TO 32",
         "totalDurationSeconds": 30,
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL REDUCES CAPACITY TO 32",
-                "teaserTitle": "PANAMA SUIT",
+                "headline": "MARITIME: PANAMA CANAL CUTS CAPACITY TO 32",
+                "teaserTitle": "FORCED LABOR TARIFFS",
                 "visual_asset": "backgroundyt1.png",
-                "narration_line": "The Panama Canal Authority is restricting daily transits to thirty two vessels starting in mid September. Severe drought conditions continue to constrain global trade routes."
+                "narration_line": "The Panama Canal Authority is cutting daily vessel bookings to thirty-two ships starting in mid September due to worsening drought conditions. This constraint inflates scheduling volatility and compels ocean carriers to seek alternative corridors."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: CK HUTCHISON SEEKS 1.5B PANAMA SUIT",
-                "teaserTitle": "TARIFF REFUND",
+                "headline": "GOVERNMENT: FORCED LABOR TARIFFS",
+                "teaserTitle": "TANKER TRADE FLOWS",
                 "visual_asset": "backgroundyt2.png",
-                "narration_line": "Operator CK Hutchison is demanding one point five billion dollars in damages from Panama. The arbitration follows the contentious cancellation of strategic port leases."
+                "narration_line": "The United States Trade Representative is implementing Section three hundred one tariffs on sixty nations targeting forced labor. Importers face increased administrative burdens and stricter customs compliance vetting."
             },
             {
                 "slide_index": 3,
-                "headline": "PROCUREMENT: CATERPILLAR BAGS 392M TARIFF REFUND",
-                "teaserTitle": "DRONE DELIVERY",
+                "headline": "TANKERS: REVERSED TANKER TRADE FLOWS",
+                "teaserTitle": "CDL RECORDS LAWSUIT",
                 "visual_asset": "backgroundyt3.png",
-                "narration_line": "Caterpillar has successfully secured a three hundred ninety two million dollar tariff refund. The recovery highlights aggressive corporate auditing of historical duty costs."
+                "narration_line": "Russia is importing nearly two hundred seventy thousand tons of refined fuels from Asia following refinery strikes. This reversal tightens global product tanker availability and drives up charter rates."
             },
             {
                 "slide_index": 4,
-                "headline": "LOGISTICS: AMAZON EXPANDS DRONE DELIVERY",
-                "teaserTitle": "OIL PRICES",
+                "headline": "TRUCKING: 22 STATES SUE OVER CDL RECORDS",
+                "teaserTitle": "CONTAINER SHIPPING CAPACITY",
                 "visual_asset": "backgroundyt4.png",
-                "narration_line": "Amazon is expanding its Prime Air drone delivery network sixfold into major metropolitan hubs. The initiative accelerates final mile fulfillment speeds for consumers."
+                "narration_line": "Twenty two states have filed a lawsuit to block a federal mandate accessing seventeen million commercial driver records. Fleet operators must monitor potential disruptions in driver vetting workflows."
             },
             {
                 "slide_index": 5,
-                "headline": "FUEL: OIL PRICES SURGE ON IRAN TENSION",
-                "teaserTitle": "ROTTERDAM STAKE",
+                "headline": "MARITIME: CHINA STRAINS AUTO SHIPPING CAPACITY",
+                "teaserTitle": "STRIKE AT TP FREIGHT",
                 "visual_asset": "backgroundyt5.png",
-                "narration_line": "Brent crude surged one point eight percent to ninety three dollars per barrel amid Middle East tensions. Refineries accelerated processing to seventeen point four million barrels daily."
+                "narration_line": "Rapidly growing Chinese automotive exports are severely straining global roll on roll off vessel capacity. Automotive manufacturers must secure long term contracts early to avoid severe rate spikes."
             },
             {
                 "slide_index": 6,
-                "headline": "MARITIME: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
-                "teaserTitle": "EU REFORM",
+                "headline": "LOGISTICS: TEAMSTERS REVEAL TP FREIGHT SHUTDOWN",
+                "teaserTitle": "DRONE DELIVERY EXPANSION",
                 "visual_asset": "backgroundyt6.png",
-                "narration_line": "Hapag Lloyd has acquired a twenty five percent equity stake in a major Rotterdam container terminal. This gateway asset supports the new Gemini network."
+                "narration_line": "TP Freight has executed a sudden shutdown of regional less than truckload operations. Sudden carrier closures force shippers into higher priced spot markets to cover stranded freight."
             },
             {
                 "slide_index": 7,
-                "headline": "AIR CARGO: AIR CARGO RATES SLUMP AFTER EU REFORM",
+                "headline": "TECHNOLOGY: AMAZON EXPANDS DRONE DELIVERY",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt7.png",
-                "narration_line": "Global air cargo rates contracted following new European Union de minimis tax reforms. The elimination of duty free exemptions altered cross border e-commerce flows."
+                "narration_line": "Amazon is scaling its Prime Air network with a sixfold expansion into major metropolitan centers. Autonomous aerial routing redefines final mile speed and forces competing parcel carriers to upgrade."
             },
             {
                 "slide_index": 8,
                 "headline": "LIVE INTELLIGENCE",
                 "teaserTitle": "",
                 "visual_asset": "backgroundyt8.png",
-                "narration_line": "Get the latest real time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
+                "narration_line": "Get the latest real-time tracking updates, market shifts, and hourly insights at Momentum Point. Like, share, and follow for more."
             }
         ]
     }
