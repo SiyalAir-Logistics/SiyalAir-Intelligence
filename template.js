@@ -1,95 +1,35 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL REDUCES DAILY TRANSITS TO",
+        "titleWhite": "PANAMA CANAL REDUCES CAPACITY TO",
         "titleBlue": "32",
-        "footerSummary": "Panama Canal cuts daily capacity to 32 ships from mid-September as worsening rainfall deficits force deeper defensive measures against El Ni\u00f1o."
+        "footerSummary": "Panama Canal slashes daily transit booking capacity to 32 vessels starting mid-September as severe drought conditions trigger aggressive defensive measures."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL REDUCES DAILY TRANSITS TO 32",
+            "heading": "MARITIME: PANAMA CANAL REDUCES CAPACITY TO 32",
             "paragraphs": [
-                "The Panama Canal Authority is expanding temporary modifications to transit capacity by cutting daily booking limits to 32 ships starting in mid-September. Worsening rainfall deficits in Gatun Lake and intensifying Super El Ni\u00f1o forecasts have forced the waterway to implement aggressive defensive measures against severe drought conditions. Neopanamax and panamax booking slots are directly restricted under the new schedule, squeezing vessel scheduling across global trade lanes.",
-                "Tightening transit capacity elevates scheduling friction and forces ocean carriers to reevaluate route economics through alternative corridors. Shippers must prepare for higher transit surcharges and constrained vessel availability heading into the peak shipping window."
+                "The Panama Canal Authority is officially implementing temporary modifications to lock transit capacity by restricting daily bookings to 32 vessels starting in mid-September. Severe rainfall deficits across Gatun Lake and escalating Super El Nino forecasts have forced the waterway to enforce strict defensive scheduling. Neopanamax and panamax transit slots face severe contractions, directly compounding vessel queues across key international trade routes.",
+                "Constrained waterway capacity immediately inflates scheduling volatility and compels ocean carriers to reassess route economics through alternative corridors. Shippers must prepare for higher transit surcharges and reduced vessel availability as peak shipping demand intensifies."
             ],
             "imageUrl": "",
-            "nextUpTease": "PANAMA CANAL QUEUE-JUMP FEE PASSES 4.6M",
+            "nextUpTease": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
             "tags": [
                 "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
-                "Published: 2026-08-21T00:00:00Z",
+                "Published: 2026-08-21T06:41:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "LOGISTICS: PANAMA CANAL QUEUE-JUMP FEE PASSES 4.6M",
+            "heading": "MARITIME: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
             "paragraphs": [
-                "An empty liquefied petroleum gas tanker paid a record 4.6M USD queue-jump fee to bypass vessel congestion at the Panama Canal. This transaction surpasses the prior high-water mark of 3.98M USD as carriers aggressively bid for priority access amid tightening waterway restrictions. High-stakes priority fees reflect the extreme financial measures commercial operators deploy to maintain transit schedules.",
-                "Soaring priority access costs inflate operating expenses and establish a costly precedent for urgent cargo movements. Supply chain directors must weigh queue-jump expenditures against severe inventory holding delays when planning critical corridor transits."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CATERPILLAR BAGS 392M TARIFF REFUND",
-            "tags": [
-                "Source: https://www.inboundlogistics.com/panama-canal-queue-jump-fee-passes-4m-as-iran-war-reroutes-global-shipping/",
-                "Published: 2026-08-14T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 3,
-            "heading": "PROCUREMENT: CATERPILLAR BAGS 392M TARIFF REFUND",
-            "paragraphs": [
-                "Caterpillar has successfully secured a massive 392M USD tariff refund as regulatory scrutiny over import duty calculations intensifies. The substantial financial recovery highlights shifting trade compliance dynamics as industrial enterprises aggressively audit historical duty disbursements. Global manufacturers are increasingly reviewing past tariff classifications to reclaim trapped capital from federal agencies.",
-                "Reclaiming historical duty outlays injects crucial liquidity into enterprise balance sheets and alters landed cost accounting models. Procurement leaders must systematically audit past customs entries to identify similar recovery opportunities across international supply chains."
+                "German ocean carrier Hapag-Lloyd has finalized an agreement to acquire a 25% equity stake in a major container terminal at the Port of Rotterdam. This strategic gateway asset serves as a foundational operational pillar for the newly established Gemini Cooperation hub and spoke network. Gecuring direct equity control over prime European terminal infrastructure allows the carrier to optimize berth productivity and protect service reliability.",
+                "Controlling dedicated terminal capacity enhances operational resilience and delivers superior schedule predictability for enterprise cargo owners navigating congested European gateways. Logistics directors must evaluate how proprietary carrier terminal investments impact long-term service contracts and equipment availability."
             ],
             "imageUrl": "",
             "nextUpTease": "OIL PRICES SURGE ON MIDDLE EAST TENSION",
-            "tags": [
-                "Source: https://www.supplychaindive.com",
-                "Published: 2026-08-20T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 4,
-            "heading": "FUEL: OIL PRICES SURGE ON MIDDLE EAST TENSION",
-            "paragraphs": [
-                "International benchmark Brent crude surged 1.8% to 93.24 USD per barrel amid escalating geopolitical tensions and maritime security threats in the Middle East. Refineries responded by aggressively ramping up processing throughput to 17.4M barrels daily, hitting the highest operational pace recorded since September 2019. This energy spike directly drives up global bunker surcharges and pushes heavy transportation fuel costs higher across all freight sectors.",
-                "Escalating fuel expenses compress operating margins, forcing logistics providers to pass energy volatility downstream via dynamic surcharges. Freight buyers must recalibrate baseline operating budgets to account for sustained fuel price spikes through the winter shipping cycle."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "CK HUTCHISON SEEKS 1.5B IN PANAMA SUIT",
-            "tags": [
-                "Source: https://www.ttnews.com/news/articles/oil-prices-surge-us-threatens-pressure-iran",
-                "Published: 2026-08-20T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 5,
-            "heading": "BUSINESS: CK HUTCHISON SEEKS 1.5B IN PANAMA SUIT",
-            "paragraphs": [
-                "CK Hutchison has initiated legal proceedings demanding 1.5B USD in damages from Panama, alleging violations of an investment protection treaty. The dispute follows the contentious cancellation of strategic terminal leases that disrupted established port operations and regional gateway access. This high-profile arbitration underscores mounting legal risks for multinational infrastructure operators in volatile sovereign jurisdictions.",
-                "Sovereign legal disputes threaten long-term capital investments and introduce significant operational unpredictability into global terminal management. Port users must monitor arbitration outcomes closely to anticipate potential shifts in terminal stewardship and service reliability."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
-            "tags": [
-                "Source: https://www.ttnews.com/news/articles/ck-hutchison-seeks-15-billion-damages-panama",
-                "Published: 2026-08-20T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "MARITIME: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
-            "paragraphs": [
-                "Hapag-Lloyd has finalized an agreement to acquire a 25% equity stake in a major container terminal located at the Port of Rotterdam. This strategic gateway investment forms a foundational pillar for the Gemini Cooperation's newly established hub-and-spoke ocean network architecture. Securing proprietary terminal capacity allows the carrier to optimize berth productivity and insulate service schedules against European port congestion.",
-                "Controlling key terminal assets enhances operational resilience and delivers superior schedule predictability for enterprise cargo owners navigating volatile trade lanes. Shippers should evaluate how carrier-owned port networks impact long-term service contracts and local equipment availability."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "AIR CARGO RATES SLUMP AFTER EU REFORM",
             "tags": [
                 "Source: https://theloadstar.com/hapag-lloyd-to-acquire-25-of-box-terminal-at-rotterdam-vital-to-gemini/",
                 "Published: 2026-08-20T00:00:00Z",
@@ -97,16 +37,76 @@ const dailyData = {
             ]
         },
         {
-            "id": 7,
+            "id": 3,
+            "heading": "FUEL: OIL PRICES SURGE ON MIDDLE EAST TENSION",
+            "paragraphs": [
+                "International benchmark Brent crude surged 1.8% to $93.24 per barrel amid escalating geopolitical tensions and maritime security disruptions in the Middle East. Refineries responded by aggressively accelerating processing throughput to 17.4M barrels daily, hitting the highest operational pace recorded since September 2019. This energy spike directly drives up global bunker fuel surcharges and pushes heavy transportation expenses higher across all freight sectors.",
+                "Escalating energy costs compress operating margins, forcing logistics providers to pass fuel volatility downstream via dynamic variable surcharges. Freight buyers must recalibrate baseline operating budgets to account for sustained fuel price spikes through the approaching winter shipping cycle."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CK HUTCHISON SEEKS 1.5B PANAMA SUIT",
+            "tags": [
+                "Source: https://www.ttnews.com/news/articles/oil-prices-surge-us-threatens-pressure-iran",
+                "Published: 2026-08-20T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 4,
+            "heading": "LEGAL: CK HUTCHISON SEEKS 1.5B PANAMA SUIT",
+            "paragraphs": [
+                "Global infrastructure operator CK Hutchison has initiated formal legal proceedings demanding $1.5B in damages from Panama, alleging severe violations of an investment protection treaty. The international arbitration follows the contentious cancellation of strategic port terminal leases that disrupted established maritime operations and regional trade gateway access. This high-stakes legal challenge highlights mounting sovereign risks for multinational terminal operators.",
+                "Sovereign legal disputes threaten long-term capital deployments and introduce significant operational unpredictability into global port stewardship. Supply chain executives must monitor arbitration developments closely to anticipate potential shifts in terminal management reliability and local port tariffs."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "AIR CARGO RATES SLUMP AFTER EU REFORM",
+            "tags": [
+                "Source: https://www.ttnews.com/news/articles/ck-hutchison-seeks-15-billion-damages-panama",
+                "Published: 2026-08-20T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 5,
             "heading": "AIR CARGO: AIR CARGO RATES SLUMP AFTER EU REFORM",
             "paragraphs": [
-                "Global air cargo rates and volumes experienced a sharp contraction following the implementation of sweeping European Union de minimis tax reforms. The elimination of duty-free exemptions for low-value imports immediately altered consumer purchasing behavior and shifted e-commerce logistics strategies across cross-border channels. Forwarders report sudden volume drops as online platforms adjust to heightened customs processing overhead.",
+                "Global air cargo rates and volumes experienced a sharp contraction following the implementation of sweeping European Union de minimis tax reforms. The elimination of duty-free exemptions for low-value imports immediately altered consumer purchasing behavior and shifted e-commerce logistics strategies across cross-border channels. Forwarders report sudden volume declines as online retail platforms adjust to heightened customs processing overhead.",
                 "Regulatory shifts in low-value import taxation disrupt traditional air freight demand patterns and complicate customs clearance timelines for parcel carriers. Supply chain managers must restructure cross-border inventory flows to mitigate the financial friction introduced by new tax rules."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "CATERPILLAR BAGS 392M TARIFF REFUND",
+            "tags": [
+                "Source: https://www.joc.com",
+                "Published: 2026-08-21T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 6,
+            "heading": "PROCUREMENT: CATERPILLAR BAGS 392M TARIFF REFUND",
+            "paragraphs": [
+                "Caterpillar has successfully secured a massive $392M tariff refund as regulatory scrutiny over import duty calculations intensifies across federal agencies. The substantial financial recovery highlights shifting trade compliance dynamics as industrial enterprises aggressively audit historical duty disbursements. Global manufacturers are increasingly reviewing past tariff classifications to reclaim trapped capital from customs authorities.",
+                "Reclaiming historical duty outlays injects crucial liquidity into enterprise balance sheets and alters landed cost accounting models. Procurement leaders must systematically audit past customs entries to identify similar recovery opportunities across international supply chains."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "USPS RATES ON EBAY TO DROP ON AUG 22",
+            "tags": [
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-20T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "LOGISTICS: USPS RATES ON EBAY TO DROP ON AUG 22",
+            "paragraphs": [
+                "eBay has officially informed marketplace sellers that select USPS shipping rates will decrease beginning August 22, offering targeted relief for high-volume e-commerce merchants. However, the newly adjusted shipping rates explicitly exclude packages destined for buyers located in rural ZIP codes, preserving higher transit costs for remote deliveries. This rate restructuring forces online sellers to refine their shipping matrix to capture available cost savings.",
+                "Uneven rate adjustments complicate final-mile margin calculations for omnichannel retailers operating across diverse geographic markets. Logistics directors must evaluate carrier rate updates granularly to protect profitability on remote fulfillment routes."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://www.ecommercebytes.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
