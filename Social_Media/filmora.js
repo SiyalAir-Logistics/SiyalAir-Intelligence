@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "TRADE POLICY: SECTION 301 FORCED LABOR TARIFFS",
-                "teaserTitle": "MARITIME BOTTLENECK: PANAMA TRANSIT CUTS",
-                "visual_caption": "The USTR has enacted Section 301 tariffs on 60 nations targeting forced labor. Importers now face direct customs holds and aggressive documentation audits across international supply chains."
+                "headline": "GLOBAL GATEWAYS: CK HUTCHISON 1.5B PANAMA CLAIM",
+                "teaserTitle": "MARITIME LOGISTICS: PANAMA CANAL 4.6M QUEUE JUMP",
+                "visual_caption": "CK Hutchison filed a $1.5B claim against Panama over seized port terminals. The legal dispute significantly elevates cross-border maritime investment risks globally."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME TRANSIT: PANAMA CANAL RESTRICTIONS",
-                "teaserTitle": "ENERGY MARKETS: OIL SURGES PAST $93",
-                "visual_caption": "The Panama Canal Authority is slashing daily transit slots due to intensifying drought across the isthmus. Vessel queue-jump auction fees have surged to a record $4.6M."
+                "headline": "MARITIME LOGISTICS: PANAMA CANAL 4.6M QUEUE JUMP",
+                "teaserTitle": "ENERGY MARKETS: OIL SURGES PAST 93",
+                "visual_caption": "An empty tanker paid $4.6M to jump the Panama Canal queue. Severe drought conditions continue to restrict vessel transit capacity and drive up costs."
             },
             {
                 "slide_index": 3,
-                "headline": "ENERGY COSTS: BRENT CRUDE SPIKES PAST $93",
-                "teaserTitle": "FLEET EQUIPMENT: TRAILER ORDERS SURGE 97%",
-                "visual_caption": "Brent crude oil prices climbed nearly 1.8% to surpass $93.24 per barrel. Freight carriers are actively adjusting dynamic fuel surcharges to protect operating margins from rapid linehaul cost increases."
+                "headline": "ENERGY MARKETS: OIL SURGES PAST 93",
+                "teaserTitle": "FLEET ASSETS: US TRAILER ORDERS SURGE 97%",
+                "visual_caption": "Brent crude surged 1.8% to $93.24 per barrel amid Middle East tensions. US refineries accelerated processing throughput to 17.4M barrels daily."
             },
             {
                 "slide_index": 4,
                 "headline": "FLEET ASSETS: US TRAILER ORDERS SURGE 97%",
-                "teaserTitle": "TANKER ASSETS: EVALEND $220M ORDER",
-                "visual_caption": "US commercial trailer orders jumped 97% in July defying historic seasonal slowdowns. Motor carriers are locking in manufacturing slots to counter anticipated price hikes across commercial equipment in 2027."
+                "teaserTitle": "PORT OPERATIONS: LA HANDLES 960K TEU",
+                "visual_caption": "Net commercial trailer orders spiked 97% year-over-year in July. Carriers are actively executing fleet replacements ahead of anticipated market tightening."
             },
             {
                 "slide_index": 5,
-                "headline": "TANKER FLEET: EVALEND COMMITS $220M ORDER",
-                "teaserTitle": "TRADE BARRIERS: CANADA TARIFF REDUCTIONS",
-                "visual_caption": "Evalend Shipping committed $220M for 4 new product tankers in China. The 74K DWT vessels will service growing clean petroleum demand across transatlantic maritime lanes."
+                "headline": "PORT OPERATIONS: LA HANDLES 960K TEU",
+                "teaserTitle": "OCEAN SHIPPING: HAPAG LLOYD ROTTERDAM STAKE",
+                "visual_caption": "The Port of Los Angeles handled 960K TEUs during a robust July volume period. Importers continue front-loading inventory to mitigate supply chain disruptions."
             },
             {
                 "slide_index": 6,
-                "headline": "CROSS-BORDER: US PROPOSES 50% TARIFF CUT",
-                "teaserTitle": "AUTONOMOUS DELIVERY: AMAZON DRONE EXPANSION",
-                "visual_caption": "US trade officials are advancing plans to halve 50% tariffs on Canadian metals to 25%. The proposed duty reduction will provide critical cost relief for integrated North American automotive manufacturing chains."
+                "headline": "OCEAN SHIPPING: HAPAG LLOYD ROTTERDAM STAKE",
+                "teaserTitle": "LAST MILE: AMAZON EXPANDS PRIME AIR",
+                "visual_caption": "Hapag-Lloyd acquired a 25% stake in a key Rotterdam container terminal. The acquisition strengthens the hub-and-spoke infrastructure of the Gemini Cooperation."
             },
             {
                 "slide_index": 7,
-                "headline": "LAST MILE: AMAZON DRONE EXPANSION TO 500 CITIES",
+                "headline": "LAST MILE: AMAZON EXPANDS PRIME AIR",
                 "teaserTitle": "",
-                "visual_caption": "Amazon is scaling Prime Air autonomous drone logistics into 500 metropolitan cities this year. The micro-fulfillment network delivers high-density parcel freight to consumers within 60 minutes of ordering."
+                "visual_caption": "Amazon is scaling its Prime Air drone delivery network across 500 cities. The initiative aims to achieve 60-minute parcel fulfillment in major metropolitan markets."
             },
             {
                 "slide_index": 8,
