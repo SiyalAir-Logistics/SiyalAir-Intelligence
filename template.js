@@ -1,113 +1,113 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "DETENTION FEES MUST PROMOTE FREIGHT",
-        "titleBlue": "FLUIDITY",
-        "footerSummary": "Federal appeals court upholds maritime commission ruling that detention charges must protect supply chain fluidity and deter carrier abuse."
+        "titleWhite": "PANAMA CANAL REDUCES DAILY TRANSITS TO",
+        "titleBlue": "32",
+        "footerSummary": "Panama Canal cuts daily capacity to 32 ships from mid-September as worsening rainfall deficits force deeper defensive measures against El Ni\u00f1o."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: DETENTION FEES MUST PROMOTE FREIGHT FLUIDITY",
+            "heading": "MARITIME: PANAMA CANAL REDUCES DAILY TRANSITS TO 32",
             "paragraphs": [
-                "The United States Court of Appeals for the District of Columbia Circuit has officially upheld a landmark Federal Maritime Commission decision ensuring that detention and demurrage fees must actively promote freight fluidity. The ruling reinforces regulatory oversight against unjustified terminal penalty charges levied on shippers and motor carriers during port congestion bottlenecks. Importers and logistics providers gain stronger legal backing to contest punitive detention billings that fail to incentivize cargo movement.",
-                "Defending against improper accessorial fees significantly improves operating margin predictability for supply chain executives navigating congested coastal gateways. Shippers must audit historical demurrage invoices and leverage the judicial precedent to recover disputed terminal costs."
+                "The Panama Canal Authority is expanding temporary modifications to transit capacity by cutting daily booking limits to 32 ships starting in mid-September. Worsening rainfall deficits in Gatun Lake and intensifying Super El Ni\u00f1o forecasts have forced the waterway to implement aggressive defensive measures against severe drought conditions. Neopanamax and panamax booking slots are directly restricted under the new schedule, squeezing vessel scheduling across global trade lanes.",
+                "Tightening transit capacity elevates scheduling friction and forces ocean carriers to reevaluate route economics through alternative corridors. Shippers must prepare for higher transit surcharges and constrained vessel availability heading into the peak shipping window."
             ],
             "imageUrl": "",
-            "nextUpTease": "OIL PRICES SURGE AS US THREATENS IRAN",
+            "nextUpTease": "PANAMA CANAL QUEUE-JUMP FEE PASSES 4.6M",
             "tags": [
-                "Source: https://www.fmc.gov",
-                "Published: 2026-07-08T00:00:00Z",
+                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "FUEL: OIL PRICES SURGE AS US THREATENS IRAN",
+            "heading": "LOGISTICS: PANAMA CANAL QUEUE-JUMP FEE PASSES 4.6M",
             "paragraphs": [
-                "Brent crude oil prices surged 1.8% to $93.24 per barrel following heightened geopolitical friction and renewed United States pressure targeting Iranian maritime shipping corridors. Refineries responded by aggressively ramping up daily processing throughput to 17.4M barrels, reaching the highest operational pace recorded since September 2019. This energy spike directly drives up global bunker surcharges and pushes heavy transportation fuel costs higher for motor carriers and ocean liners alike.",
-                "Escalating fuel expenses compress operating margins across all freight modes, forcing transportation providers to pass rising energy costs downstream through dynamic fuel surcharges. Supply chain executives must recalibrate baseline freight budgets to account for sustained energy volatility through the upcoming winter shipping cycle."
+                "An empty liquefied petroleum gas tanker paid a record 4.6M USD queue-jump fee to bypass vessel congestion at the Panama Canal. This transaction surpasses the prior high-water mark of 3.98M USD as carriers aggressively bid for priority access amid tightening waterway restrictions. High-stakes priority fees reflect the extreme financial measures commercial operators deploy to maintain transit schedules.",
+                "Soaring priority access costs inflate operating expenses and establish a costly precedent for urgent cargo movements. Supply chain directors must weigh queue-jump expenditures against severe inventory holding delays when planning critical corridor transits."
             ],
             "imageUrl": "",
-            "nextUpTease": "EQUIPMENT: US TRAILER ORDERS RISE 97 PERCENT",
+            "nextUpTease": "CATERPILLAR BAGS 392M TARIFF REFUND",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.inboundlogistics.com/panama-canal-queue-jump-fee-passes-4m-as-iran-war-reroutes-global-shipping/",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 3,
-            "heading": "EQUIPMENT: US TRAILER ORDERS RISE 97 PERCENT",
+            "heading": "PROCUREMENT: CATERPILLAR BAGS 392M TARIFF REFUND",
             "paragraphs": [
-                "United States commercial trailer orders defied seasonal expectations by surging 97% year-over-year during the month of July against lukewarm historical comparisons. Motor carriers and private fleets rushed to secure manufacturing production slots against a backdrop of tightening equipment availability and rising component expenses. This unexpected procurement wave highlights an aggressive fleet modernization push by operators seeking to replace aging over-the-road assets ahead of predicted price hikes.",
-                "Accelerating capital expenditures for equipment acquisition significantly increases fixed overhead costs for motor carriers operating in competitive freight markets. Shippers should anticipate tighter equipment capacity in specific regional corridors as fleets manage absorption timelines and replacement schedules."
+                "Caterpillar has successfully secured a massive 392M USD tariff refund as regulatory scrutiny over import duty calculations intensifies. The substantial financial recovery highlights shifting trade compliance dynamics as industrial enterprises aggressively audit historical duty disbursements. Global manufacturers are increasingly reviewing past tariff classifications to reclaim trapped capital from federal agencies.",
+                "Reclaiming historical duty outlays injects crucial liquidity into enterprise balance sheets and alters landed cost accounting models. Procurement leaders must systematically audit past customs entries to identify similar recovery opportunities across international supply chains."
             ],
             "imageUrl": "",
-            "nextUpTease": "LOGISTICS: RHENUS LAUNCHES GREEN TRANSPORT BOOK",
+            "nextUpTease": "OIL PRICES SURGE ON MIDDLE EAST TENSION",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
+                "Source: https://www.supplychaindive.com",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "LOGISTICS: RHENUS LAUNCHES GREEN TRANSPORT BOOK",
+            "heading": "FUEL: OIL PRICES SURGE ON MIDDLE EAST TENSION",
             "paragraphs": [
-                "The Rhenus Group has introduced an innovative book-and-claim service designed to help enterprise shippers transparently account for and reduce multimodal transport emissions. The digital framework allows logistics buyers to allocate sustainable fuel investments across complex supply chain networks without requiring direct physical access to green assets. This scalable approach addresses corporate environmental mandates while streamlining mandatory carbon reporting compliance.",
-                "Supply chain executives are increasingly leveraging verified book-and-claim mechanisms to meet stringent Scope 3 emissions reduction targets cost-effectively. Adopting these digital sustainability tools enables organizations to demonstrate verifiable environmental progress to increasingly conscious consumer bases."
+                "International benchmark Brent crude surged 1.8% to 93.24 USD per barrel amid escalating geopolitical tensions and maritime security threats in the Middle East. Refineries responded by aggressively ramping up processing throughput to 17.4M barrels daily, hitting the highest operational pace recorded since September 2019. This energy spike directly drives up global bunker surcharges and pushes heavy transportation fuel costs higher across all freight sectors.",
+                "Escalating fuel expenses compress operating margins, forcing logistics providers to pass energy volatility downstream via dynamic surcharges. Freight buyers must recalibrate baseline operating budgets to account for sustained fuel price spikes through the winter shipping cycle."
             ],
             "imageUrl": "",
-            "nextUpTease": "GOVERNMENT: US TO HALVE TARIFFS ON CANADA",
+            "nextUpTease": "CK HUTCHISON SEEKS 1.5B IN PANAMA SUIT",
             "tags": [
-                "Source: https://www.dcvelocity.com",
+                "Source: https://www.ttnews.com/news/articles/oil-prices-surge-us-threatens-pressure-iran",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "GOVERNMENT: US TO HALVE TARIFFS ON CANADA",
+            "heading": "BUSINESS: CK HUTCHISON SEEKS 1.5B IN PANAMA SUIT",
             "paragraphs": [
-                "The United States is reportedly discussing a major policy shift to halve existing tariffs on steel and aluminum imports originating from Canada. The proposed adjustment would reduce the current 50% penalty rate, easing heavy cost pressures on North American automotive and industrial manufacturers. Cross-border shippers and logistics providers are closely tracking the trade talks for immediate relief on raw material procurement.",
-                "Lowering border metal levies significantly reduces landed production costs and eases friction across integrated North American supply chains. Sourcing executives must prepare for rapid border inventory shifts if the tariff reduction is formally enacted."
+                "CK Hutchison has initiated legal proceedings demanding 1.5B USD in damages from Panama, alleging violations of an investment protection treaty. The dispute follows the contentious cancellation of strategic terminal leases that disrupted established port operations and regional gateway access. This high-profile arbitration underscores mounting legal risks for multinational infrastructure operators in volatile sovereign jurisdictions.",
+                "Sovereign legal disputes threaten long-term capital investments and introduce significant operational unpredictability into global terminal management. Port users must monitor arbitration outcomes closely to anticipate potential shifts in terminal stewardship and service reliability."
             ],
             "imageUrl": "",
-            "nextUpTease": "RETAIL: WALMART SEES SLOWEST SALES GROWTH",
+            "nextUpTease": "HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
             "tags": [
-                "Source: https://www.ttnews.com",
-                "Published: 2026-08-19T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 6,
-            "heading": "RETAIL: WALMART SEES SLOWEST SALES GROWTH",
-            "paragraphs": [
-                "Walmart reported its slowest pace of United States comparable store sales growth in six years, reflecting a more cautious domestic consumer spending environment. Executives noted that ongoing drug pricing regulations and tightened discretionary budgets weighed on top-line quarterly performance across brick-and-mortar locations. Despite the deceleration, the retail giant's heavy omnichannel investments and fast delivery capabilities continued to fuel e-commerce expansion.",
-                "Slowing retail comparable sales signal shifting inventory replenishment strategies as big-box operators prioritize demand forecasting accuracy over volume growth. Supply chain leaders must align inbound distribution flows with moderated consumer demand to prevent overstocking."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "MARITIME: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
-            "tags": [
-                "Source: https://www.ttnews.com",
+                "Source: https://www.ttnews.com/news/articles/ck-hutchison-seeks-15-billion-damages-panama",
                 "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
-            "id": 7,
+            "id": 6,
             "heading": "MARITIME: HAPAG LLOYD ACQUIRES ROTTERDAM STAKE",
             "paragraphs": [
                 "Hapag-Lloyd has finalized an agreement to acquire a 25% equity stake in a major container terminal located at the Port of Rotterdam. This strategic gateway investment forms a foundational pillar for the Gemini Cooperation's newly established hub-and-spoke ocean network architecture. Securing proprietary terminal capacity allows the carrier to optimize berth productivity and insulate service schedules against European port congestion.",
                 "Controlling key terminal assets enhances operational resilience and delivers superior schedule predictability for enterprise cargo owners navigating volatile trade lanes. Shippers should evaluate how carrier-owned port networks impact long-term service contracts and local equipment availability."
             ],
             "imageUrl": "",
+            "nextUpTease": "AIR CARGO RATES SLUMP AFTER EU REFORM",
+            "tags": [
+                "Source: https://theloadstar.com/hapag-lloyd-to-acquire-25-of-box-terminal-at-rotterdam-vital-to-gemini/",
+                "Published: 2026-08-20T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 7,
+            "heading": "AIR CARGO: AIR CARGO RATES SLUMP AFTER EU REFORM",
+            "paragraphs": [
+                "Global air cargo rates and volumes experienced a sharp contraction following the implementation of sweeping European Union de minimis tax reforms. The elimination of duty-free exemptions for low-value imports immediately altered consumer purchasing behavior and shifted e-commerce logistics strategies across cross-border channels. Forwarders report sudden volume drops as online platforms adjust to heightened customs processing overhead.",
+                "Regulatory shifts in low-value import taxation disrupt traditional air freight demand patterns and complicate customs clearance timelines for parcel carriers. Supply chain managers must restructure cross-border inventory flows to mitigate the financial friction introduced by new tax rules."
+            ],
+            "imageUrl": "",
             "nextUpTease": "",
             "tags": [
-                "Source: https://theloadstar.com",
-                "Published: 2026-08-20T00:00:00Z",
+                "Source: https://www.joc.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         }
