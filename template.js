@@ -1,35 +1,20 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL DRAFT RESTRICTIONS SQUEEZE",
-        "titleBlue": "CAPACITY",
-        "footerSummary": "Panama Canal capacity cuts and record queue fees push Asia to West Coast spot rates higher, forcing immediate routing shifts."
+        "titleWhite": "ASIA USWC RATES SURGE AHEAD OF PANAMA",
+        "titleBlue": "RESTRICTIONS",
+        "footerSummary": "Panama Canal capacity cuts and record $4.6M queue fees drive Asia to US West Coast spot rates higher, forcing immediate routing shifts."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "LOGISTICS: PANAMA CANAL DRAFT RESTRICTIONS SQUEEZE CAPACITY",
+            "heading": "MARITIME: ASIA USWC RATES SURGE AHEAD OF PANAMA RESTRICTIONS",
             "paragraphs": [
-                "The Panama Canal Authority is officially reducing daily transit booking capacity to 32 ships starting in mid September as worsening rainfall deficits constrain Gatun Lake water levels. Major ocean carriers are implementing emergency surcharges and slot limits while spot freight rates surge rapidly across transpacific shipping lanes.",
-                "Surging transit restrictions disrupt established maritime schedules and inflate operating expenditures for cargo owners relying on isthmus routings. Logistics procurement directors must model alternative intermodal networks immediately to protect freight budgets from compounding delay penalties."
+                "Asia to US West Coast freight rates are surging rapidly as ocean carriers and shippers race to preempt upcoming vessel transit reductions through the Panama Canal. The Panama Canal Authority is officially scaling back daily transit booking capacity starting in mid September as severe El Ni\u00f1o rainfall deficits deplete Gatun Lake water levels.",
+                "Surging spot rates and tightening slot allocations inflate operating expenditures for transpacific cargo owners relying on isthmus routings. Logistics procurement directors must model alternative intermodal networks immediately to protect transport budgets from compounding delay penalties."
             ],
             "imageUrl": "",
-            "nextUpTease": "CK HUTCHISON DEMANDS DAMAGES",
-            "tags": [
-                "Source: https://splash247.com",
-                "Published: 2026-08-21T00:00:00Z",
-                "Status: Audited & True"
-            ]
-        },
-        {
-            "id": 2,
-            "heading": "GLOBAL GATEWAYS: CK HUTCHISON DEMANDS DAMAGES",
-            "paragraphs": [
-                "CK Hutchison Holdings has officially initiated international arbitration proceedings against the government of Panama demanding $1.5B in financial compensation. The legal action follows the controversial seizure and cancellation of key terminal operating concessions at the vital ports of Balboa and Cristobal.",
-                "Prolonged legal friction across strategic container hubs introduces acute operational risk and asset uncertainty for international marine terminal operators. Enterprise supply chain executives must monitor gateway stability closely to insulate cargo flows from sudden management disruptions."
-            ],
-            "imageUrl": "",
-            "nextUpTease": "SAILDRONE TESTS MISSILE SYSTEMS",
+            "nextUpTease": "PANAMA CANAL QUEUE-JUMP FEE PASSES $4M",
             "tags": [
                 "Source: https://theloadstar.com",
                 "Published: 2026-08-21T00:00:00Z",
@@ -37,29 +22,44 @@ const dailyData = {
             ]
         },
         {
-            "id": 3,
-            "heading": "MARITIME: SAILDRONE TESTS MISSILE SYSTEMS",
+            "id": 2,
+            "heading": "GLOBAL GATEWAYS: PANAMA CANAL QUEUE-JUMP FEE PASSES $4M",
             "paragraphs": [
-                "Unmanned surface vehicle builder Saildrone successfully test fired small missiles from its large sail powered Surveyor platform during recent naval exercises. The milestone expands the tactical mission set for autonomous vessels backed by major defense investments from key industry contractors.",
-                "The rapid integration of autonomous surface assets into maritime security frameworks redefines threat mitigation protocols across high risk commercial shipping corridors. Fleet operators must evaluate how expanding naval patrols alters regional route safety and vessel escort requirements."
+                "An empty liquefied petroleum gas tanker recently cut the Panama Canal queue after paying a record breaking $4.6M priority fee, according to shipping intelligence reports. This staggering financial outlay eclipses the prior high water mark of $3.98M as vessel operators scramble to bypass crippling administrative bottlenecks.",
+                "Escalating priority transit costs expose extreme financial exposure for supply chain operators requiring guaranteed lock scheduling during peak seasonal volumes. Enterprise logistics managers must factor unpredictable premium auction expenses into long term maritime routing evaluations."
             ],
             "imageUrl": "",
-            "nextUpTease": "SAUDIS SHUTTLE CRUDE NORTH",
+            "nextUpTease": "RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
             "tags": [
-                "Source: https://maritime-executive.com",
-                "Published: 2026-08-20T20:34:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
+                "Status: Audited & True"
+            ]
+        },
+        {
+            "id": 3,
+            "heading": "TANKERS: RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
+            "paragraphs": [
+                "Russia is importing approximately 270K metric tons of refined fuels from Asia this month, creating an extraordinary structural reversal in global tanker trade flows. Persistent Ukrainian drone strikes against domestic processing refineries have left one of the world's primary energy producers facing acute internal fuel shortages.",
+                "This unprecedented trade reversal upends traditional maritime deployment patterns and absorbs vital product tanker capacity across long haul eastern routes. Energy charterers must navigate shifting ton mile dynamics and heightened regional risk premiums to secure reliable vessel tonnage."
+            ],
+            "imageUrl": "",
+            "nextUpTease": "SAUDIS SHUTTLE OIL NORTH ON SINOKOR TANKERS",
+            "tags": [
+                "Source: https://splash247.com",
+                "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 4,
-            "heading": "FUEL: SAUDIS SHUTTLE CRUDE NORTH",
+            "heading": "FUEL: SAUDIS SHUTTLE OIL NORTH ON SINOKOR TANKERS",
             "paragraphs": [
-                "State backed operators are actively deploying Sinokor tankers to shuttle crude oil north through alternative regional channels to evade ongoing Houthi attacks in maritime transit lanes. Official reporting indicates active military escorts have aided the secure passage of millions of barrels of oil since May.",
-                "Persistent security threats in vital Middle Eastern energy chokepoints inflate voyage operating costs and force prolonged transit deviations. Energy logistics managers must factor volatile bunker pricing and specialized escort premiums into long term transport contracts."
+                "State backed operators are actively deploying Sinokor tankers to shuttle crude oil north through alternative regional channels to evade ongoing Houthi attacks in maritime transit corridors. Official reporting confirms that military escorts have successfully facilitated the secure passage of 660M barrels of oil since May.",
+                "Persistent security threats in vital Middle Eastern energy chokepoints inflate voyage operating costs and enforce prolonged transit deviations. Energy logistics directors must factor volatile bunker pricing and specialized naval escort premiums into ongoing transport agreements."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON SCALES DRONE DELIVERY",
+            "nextUpTease": "AMAZON TO EXPAND DRONE DELIVERY REACH SIXFOLD",
             "tags": [
                 "Source: https://www.ttnews.com",
                 "Published: 2026-08-21T00:00:00Z",
@@ -68,13 +68,13 @@ const dailyData = {
         },
         {
             "id": 5,
-            "heading": "TECHNOLOGY: AMAZON SCALES DRONE DELIVERY",
+            "heading": "TECHNOLOGY: AMAZON TO EXPAND DRONE DELIVERY REACH SIXFOLD",
             "paragraphs": [
-                "Amazon is aggressively expanding its Prime Air drone delivery operations sixfold this year by deploying autonomous aerial fulfillment networks into major metropolitan markets including Atlanta, Chicago, and Cleveland. The e-commerce giant aims to accelerate final mile delivery velocity through localized aerial hubs.",
+                "Amazon is aggressively expanding its Prime Air drone delivery operations sixfold this year by deploying autonomous aerial fulfillment networks into major metropolitan markets including Atlanta, Chicago, and Cleveland. The e-commerce giant aims to accelerate final mile delivery velocity through localized aerial fulfillment hubs.",
                 "Scaling autonomous delivery infrastructure intensifies competitive pressures on legacy parcel networks to adopt advanced robotics and automation solutions. Supply chain leaders must assess how aerial fulfillment integration transforms final mile cost economics and urban distribution footprints."
             ],
             "imageUrl": "",
-            "nextUpTease": "USPS LOWERS SELECT RATES",
+            "nextUpTease": "CATERPILLAR BAGS $392M TARIFF REFUND",
             "tags": [
                 "Source: https://www.retaildive.com",
                 "Published: 2026-08-21T00:00:00Z",
@@ -83,31 +83,31 @@ const dailyData = {
         },
         {
             "id": 6,
-            "heading": "PARCEL: USPS LOWERS SELECT RATES",
+            "heading": "PROCUREMENT: CATERPILLAR BAGS $392M TARIFF REFUND",
             "paragraphs": [
-                "The United States Postal Service has announced targeted rate reductions for select commercial shipments beginning August 22, offering modest fulfillment cost relief to online marketplace sellers. However, shipments destined for rural ZIP codes are explicitly excluded from the pricing adjustments.",
-                "Uneven rate recalibrations force high volume e-commerce shippers to dynamically optimize carrier selection matrices to protect regional shipping margins. Logistics managers must audit zone based pricing structures to capture potential cost savings across non-rural delivery lanes."
+                "Heavy equipment manufacturer Caterpillar secured a massive $392M tariff refund as international duty costs contracted during the quarterly reporting period ending June 30. Excluding this substantial recovery, the industrial giant still absorbed $400M in direct tariff expenses across its global manufacturing footprint.",
+                "Fluctuating regulatory duties and retrospective refunds introduce complex accounting volatility for multinational industrial supply chains. Procurement executives must implement granular trade compliance tracking to capture retroactive duty recoveries and optimize landed cost models."
             ],
             "imageUrl": "",
-            "nextUpTease": "HANKOOK RAMPS TIRE OUTPUT",
+            "nextUpTease": "CK HUTCHISON SEEKS $1.5B IN PANAMA DAMAGES",
             "tags": [
-                "Source: https://www.ecommercebytes.com",
+                "Source: https://www.supplychaindive.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 7,
-            "heading": "EQUIPMENT: HANKOOK RAMPS TIRE OUTPUT",
+            "heading": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS $1.5B IN PANAMA DAMAGES",
             "paragraphs": [
-                "Hankook Tire is accelerating commercial truck tire manufacturing output at its advanced Tennessee production facility to meet growing domestic fleet demand. The domestic manufacturing expansion is designed to insulate heavy duty motor carriers from international supply chain volatility and import tariff pressures.",
-                "Expanding local component production provides critical inventory resilience for commercial truck fleets navigating ongoing equipment replacement cycles. Fleet procurement officers must leverage regional supplier partnerships to minimize vulnerability to import lead time disruptions."
+                "CK Hutchison Holdings has officially initiated international arbitration proceedings against the government of Panama demanding $1.5B in financial compensation. The legal action follows the controversial seizure and cancellation of key terminal operating concessions at the vital ports of Balboa and Cristobal.",
+                "Prolonged legal friction across strategic container hubs introduces acute operational risk and asset uncertainty for international marine terminal operators. Enterprise supply chain executives must monitor gateway stability closely to insulate cargo flows from sudden management disruptions."
             ],
             "imageUrl": "",
             "nextUpTease": "",
             "tags": [
                 "Source: https://www.ttnews.com",
-                "Published: 2026-08-21T00:00:00Z",
+                "Published: 2026-08-20T00:00:00Z",
                 "Status: Audited & True"
             ]
         }

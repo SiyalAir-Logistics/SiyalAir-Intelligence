@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "LOGISTICS: PANAMA CANAL DRAFT RESTRICTIONS SQUEEZE CAPACITY",
-                "teaserTitle": "CK HUTCHISON DEMANDS DAMAGES",
-                "visual_caption": "The Panama Canal Authority is cutting daily booking capacity to 32 ships as worsening rainfall deficits constrain water levels. Major ocean carriers are implementing emergency surcharges and slot limits."
+                "headline": "MARITIME: ASIA USWC RATES SURGE AHEAD OF PANAMA RESTRICTIONS",
+                "teaserTitle": "PANAMA CANAL QUEUE-JUMP FEE PASSES $4M",
+                "visual_caption": "Asia to USWC freight rates are surging as vessel transit reductions approach. Shippers face tightening slot allocations and rising spot costs ahead of canal limits."
             },
             {
                 "slide_index": 2,
-                "headline": "GLOBAL GATEWAYS: CK HUTCHISON DEMANDS DAMAGES",
-                "teaserTitle": "SAILDRONE TESTS MISSILE SYSTEMS",
-                "visual_caption": "CK Hutchison Holdings initiated arbitration against Panama demanding $1.5B in financial compensation for seized ports. Prolonged legal friction introduces acute operational risk for marine terminal operators."
+                "headline": "GLOBAL GATEWAYS: PANAMA CANAL QUEUE-JUMP FEE PASSES $4M",
+                "teaserTitle": "RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
+                "visual_caption": "An empty tanker paid $4.6M to jump the canal queue. This record priority fee exposes extreme financial exposure for operators needing guaranteed lock scheduling."
             },
             {
                 "slide_index": 3,
-                "headline": "MARITIME: SAILDRONE TESTS MISSILE SYSTEMS",
-                "teaserTitle": "SAUDIS SHUTTLE CRUDE NORTH",
-                "visual_caption": "Saildrone successfully test-fired small missiles from its large sail-powered Surveyor platform during recent naval exercises. The milestone expands the tactical mission set for autonomous surface vessels."
+                "headline": "TANKERS: RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
+                "teaserTitle": "SAUDIS SHUTTLE OIL NORTH ON SINOKOR TANKERS",
+                "visual_caption": "Russia is importing 270K tons of refined fuels from Asia this month. Repeated refinery strikes have forced an extraordinary reversal in global tanker trade flows."
             },
             {
                 "slide_index": 4,
-                "headline": "FUEL: SAUDIS SHUTTLE CRUDE NORTH",
-                "teaserTitle": "AMAZON SCALES DRONE DELIVERY",
-                "visual_caption": "State-backed operators are deploying Sinokor tankers to shuttle crude oil north to evade ongoing Houthi attacks. Persistent security threats in vital chokepoints inflate voyage operating costs."
+                "headline": "FUEL: SAUDIS SHUTTLE OIL NORTH ON SINOKOR TANKERS",
+                "teaserTitle": "AMAZON TO EXPAND DRONE DELIVERY REACH SIXFOLD",
+                "visual_caption": "State operators are deploying Sinokor tankers to shuttle crude oil north past regional threats. Military escorts have facilitated the secure passage of 660M barrels."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: AMAZON SCALES DRONE DELIVERY",
-                "teaserTitle": "USPS LOWERS SELECT RATES",
-                "visual_caption": "Amazon is expanding its Prime Air drone delivery operations 6x this year into Atlanta, Chicago, and Cleveland. Scaling autonomous delivery intensifies competitive pressures on legacy parcel networks."
+                "headline": "TECHNOLOGY: AMAZON TO EXPAND DRONE DELIVERY REACH SIXFOLD",
+                "teaserTitle": "CATERPILLAR BAGS $392M TARIFF REFUND",
+                "visual_caption": "Amazon is expanding Prime Air drone delivery operations 6x into major metropolitan markets. The e-commerce giant aims to accelerate final mile velocity through localized hubs."
             },
             {
                 "slide_index": 6,
-                "headline": "PARCEL: USPS LOWERS SELECT RATES",
-                "teaserTitle": "HANKOOK RAMPS TIRE OUTPUT",
-                "visual_caption": "The USPS announced targeted rate reductions for select commercial shipments beginning Aug 22. Rural ZIP codes are explicitly excluded from the pricing adjustments."
+                "headline": "PROCUREMENT: CATERPILLAR BAGS $392M TARIFF REFUND",
+                "teaserTitle": "CK HUTCHISON SEEKS $1.5B IN PANAMA DAMAGES",
+                "visual_caption": "Caterpillar secured a $392M tariff refund as duty costs contracted. The industrial giant still absorbed $400M in direct tariff expenses during the quarter."
             },
             {
                 "slide_index": 7,
-                "headline": "EQUIPMENT: HANKOOK RAMPS TIRE OUTPUT",
+                "headline": "GLOBAL GATEWAYS: CK HUTCHISON SEEKS $1.5B IN PANAMA DAMAGES",
                 "teaserTitle": "",
-                "visual_caption": "Hankook Tire is accelerating commercial truck tire manufacturing output at its advanced Tennessee facility. Domestic production expansion insulates motor carriers from import volatility."
+                "visual_caption": "CK Hutchison initiated arbitration demanding $1.5B in damages from Panama. The legal action follows the seizure of key container terminal operating concessions."
             },
             {
                 "slide_index": 8,
