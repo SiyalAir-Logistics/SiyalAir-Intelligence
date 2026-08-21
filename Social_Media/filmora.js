@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "MARITIME: PANAMA CANAL REDUCES DAILY TRANSITS",
-                "teaserTitle": "ELD CRACKDOWN CUTS TRUCKING CAPACITY",
-                "visual_caption": "The Panama Canal cuts daily capacity to 32 ships by mid-September. Shippers face soaring spot rates and must divert cargo through alternative intermodal networks."
+                "headline": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
+                "teaserTitle": "PANAMA CANAL CUTS DAILY CAPACITY",
+                "visual_caption": "An empty liquefied petroleum gas tanker secured expedited passage through the Panama Canal by paying a record $4.6M fee. Surging priority tolls elevate operating expenditures for marine charterers attempting to bypass chronic waterway congestion."
             },
             {
                 "slide_index": 2,
-                "headline": "SURFACE: ELD CRACKDOWN CUTS TRUCKING CAPACITY",
+                "headline": "MARITIME: PANAMA CANAL CUTS DAILY CAPACITY",
                 "teaserTitle": "RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
-                "visual_caption": "Regulators tighten electronic logging device oversight to eliminate work-hour fraud. The strict enforcement sweep constricts available truck capacity and raises spot rates."
+                "visual_caption": "The Panama Canal Authority is officially reducing daily booking capacity to 32 ships starting in September. Constrained transit availability accelerates booking competition and inflates spot freight rates across transpacific trade routes."
             },
             {
                 "slide_index": 3,
                 "headline": "TANKERS: RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
-                "teaserTitle": "USTR ADVANCES FORCED LABOR TARIFFS",
-                "visual_caption": "Russia imports 270K metric tons of refined fuels from Asia this month. Repeated refinery strikes upend traditional maritime deployment patterns and absorb tanker capacity."
+                "teaserTitle": "HORMUZ RETURN COMES WITH BIG RISK FOR CARRIERS",
+                "visual_caption": "Russia is importing 270K metric tons of refined fuels from Asia this month. Persistent Ukrainian drone strikes against domestic refineries have left one of the world's primary energy producers facing critical fuel deficits."
             },
             {
                 "slide_index": 4,
-                "headline": "COMPLIANCE: USTR ADVANCES FORCED LABOR TARIFFS",
-                "teaserTitle": "AMAZON EXPANDS PRIME AIR DRONE REACH",
-                "visual_caption": "The USTR implements Section 301 tariffs on 60 nations as Section 122 duties expire. Importers must enhance origin tracing to prevent unexpected border delays."
+                "headline": "SECURITY: HORMUZ RETURN COMES WITH BIG RISK FOR CARRIERS",
+                "teaserTitle": "ELD CRACKDOWN CUTS TRUCKING CAPACITY",
+                "visual_caption": "The U.S. military has facilitated the secure passage of 660M barrels of oil through the Strait of Hormuz since May. Despite naval escorts, marine carriers face persistent security vulnerabilities and elevated insurance premiums."
             },
             {
                 "slide_index": 5,
-                "headline": "TECHNOLOGY: AMAZON EXPANDS PRIME AIR DRONE REACH",
-                "teaserTitle": "CATERPILLAR SECURES TARIFF REFUND",
-                "visual_caption": "Amazon expands Prime Air drone delivery operations 6x across major metro markets. Autonomous aerial fulfillment hubs accelerate final-mile delivery velocity."
+                "headline": "SURFACE: ELD CRACKDOWN CUTS TRUCKING CAPACITY",
+                "teaserTitle": "USTR ADVANCES FORCED LABOR TARIFFS",
+                "visual_caption": "Federal transportation regulators are aggressively tightening oversight of electronic logging devices across major freight corridors. This strict enforcement sweep is idling non-compliant vehicles and tightening over-the-road capacity."
             },
             {
                 "slide_index": 6,
-                "headline": "PROCUREMENT: CATERPILLAR SECURES TARIFF REFUND",
+                "headline": "COMPLIANCE: USTR ADVANCES FORCED LABOR TARIFFS",
                 "teaserTitle": "CK HUTCHISON FILES ARBITRATION CLAIM",
-                "visual_caption": "Caterpillar secures a $392M tariff refund as quarterly duty costs contract. Granular trade compliance tracking is essential to capture retroactive duty recoveries."
+                "visual_caption": "The Office of the United States Trade Representative is moving forward with targeted tariffs on 60 trading partners under Section 301. Expanding trade barriers increase administrative burdens and impose complex customs auditing costs."
             },
             {
                 "slide_index": 7,
                 "headline": "GATEWAYS: CK HUTCHISON FILES ARBITRATION CLAIM",
                 "teaserTitle": "",
-                "visual_caption": "CK Hutchison initiates a $1.5B arbitration claim against Panama over port seizures. Supply chain executives must monitor gateway stability to insulate cargo flows."
+                "visual_caption": "CK Hutchison Holdings has initiated international arbitration proceedings against Panama demanding $1.5B in compensation. The legal action follows the controversial seizure of key terminal operating concessions."
             },
             {
                 "slide_index": 8,

@@ -1,37 +1,37 @@
 const dailyData = {
     "main": {
         "kicker": "",
-        "titleWhite": "PANAMA CANAL REDUCES DAILY",
-        "titleBlue": "TRANSITS",
-        "footerSummary": "Panama Canal water level drops force daily transits down to 32 ships by mid September, triggering immediate spot rate surges."
+        "titleWhite": "PANAMA CANAL QUEUE JUMP FEE PASSES",
+        "titleBlue": "$4.6M",
+        "footerSummary": "Panama Canal queue jump fee hits $4.6M as Iranian conflict reroutes global shipping, squeezing vessel transit capacity."
     },
     "slides": [
         {
             "id": 1,
-            "heading": "MARITIME: PANAMA CANAL REDUCES DAILY TRANSITS",
+            "heading": "MARITIME: PANAMA CANAL QUEUE JUMP FEE PASSES $4.6M",
             "paragraphs": [
-                "The Panama Canal Authority is officially scaling back daily booking capacity to 32 ships starting in mid September as worsening rainfall deficits deplete Gatun Lake water levels. For booking dates beginning September 4, the waterway will restrict operations to nine Neopanamax and 23 Panamax slots.",
-                "Worsening transit constraints inflate operating expenditures for transpacific cargo owners relying on isthmus routings. Logistics procurement directors must model alternative intermodal networks immediately to protect transport budgets from compounding delay penalties."
+                "An empty liquefied petroleum gas tanker recently secured expedited passage through the Panama Canal by paying a record-breaking $4.6M queue jump fee. This unprecedented financial outlay highlights the compounding disruption in global maritime corridors as geopolitical conflicts force major vessel rerouting.",
+                "Surging priority tolls elevate operating expenditures for marine charterers attempting to bypass chronic waterway congestion and strict draft limits. Shippers must factor escalating premium transit costs into landed margin forecasts to protect profitability."
             ],
             "imageUrl": "",
-            "nextUpTease": "ELD CRACKDOWN CUTS TRUCKING CAPACITY",
+            "nextUpTease": "PANAMA CANAL CUTS DAILY CAPACITY",
             "tags": [
-                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
-                "Published: 2026-08-21T00:00:00Z",
+                "Source: https://www.inboundlogistics.com",
+                "Published: 2026-08-14T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 2,
-            "heading": "SURFACE: ELD CRACKDOWN CUTS TRUCKING CAPACITY",
+            "heading": "MARITIME: PANAMA CANAL CUTS DAILY CAPACITY",
             "paragraphs": [
-                "Federal regulators are tightening oversight of electronic logging devices to aggressively deter fraud in driver work hours across major U.S. freight corridors. This strict enforcement sweep is squeezing already reduced over the road capacity and forcing motor carriers to idle non compliant vehicles.",
-                "Rising compliance scrutiny amplifies driver shortages and drives up spot market freight rates for enterprise shippers. Supply chain managers must diversify carrier partnerships and optimize network lane routing to maintain reliable domestic distribution."
+                "The Panama Canal Authority is officially reducing daily booking capacity to 32 ships starting in mid September as worsening rainfall deficits strain water levels. The waterway will restrict bookings to 9 Neopanamax and 23 Panamax transit slots to manage El Ni\u00f1o pressures.",
+                "Constrained transit availability accelerates booking competition and inflates spot freight rates across transpacific trade routes. Logistics directors should evaluate alternative intermodal gateways immediately to insulate distribution networks from severe transit delays."
             ],
             "imageUrl": "",
             "nextUpTease": "RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
             "tags": [
-                "Source: https://www.joc.com",
+                "Source: https://splash247.com/panama-canal-cuts-daily-capacity/",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
@@ -40,11 +40,11 @@ const dailyData = {
             "id": 3,
             "heading": "TANKERS: RUSSIA FUEL CRISIS REVERSES TANKER FLOWS",
             "paragraphs": [
-                "Russia is importing approximately 270K metric tons of refined fuels from Asia this month, creating an extraordinary structural reversal in global tanker trade flows. Persistent Ukrainian drone strikes against domestic processing refineries have left one of the world's primary energy producers facing acute internal fuel shortages.",
-                "This unprecedented trade reversal upends traditional maritime deployment patterns and absorbs vital product tanker capacity across long haul eastern routes. Energy charterers must navigate shifting ton mile dynamics and heightened regional risk premiums to secure reliable vessel tonnage."
+                "Russia is importing approximately 270K metric tons of refined fuels from Asia this month, generating an extraordinary trade flow reversal. Persistent Ukrainian drone strikes against domestic refineries have left one of the world's primary energy producers facing critical fuel deficits.",
+                "This historic trade reversal upends traditional maritime deployment patterns and absorbs vital product tanker capacity across long haul eastern routes. Energy charterers must navigate shifting ton mile dynamics and heightened regional risk premiums to secure reliable vessel tonnage."
             ],
             "imageUrl": "",
-            "nextUpTease": "USTR ADVANCES FORCED LABOR TARIFFS",
+            "nextUpTease": "HORMUZ RETURN COMES WITH BIG RISK FOR CARRIERS",
             "tags": [
                 "Source: https://splash247.com/russian-fuel-shortages-reverse-tanker-trade-flows/",
                 "Published: 2026-08-21T00:00:00Z",
@@ -53,45 +53,45 @@ const dailyData = {
         },
         {
             "id": 4,
-            "heading": "COMPLIANCE: USTR ADVANCES FORCED LABOR TARIFFS",
+            "heading": "SECURITY: HORMUZ RETURN COMES WITH BIG RISK FOR CARRIERS",
             "paragraphs": [
-                "The Office of the United States Trade Representative has announced it is moving forward with the implementation of targeted tariffs on 60 nations under Section 301 of the Trade Act of 1974. This decisive regulatory action coincides with the formal expiration of legacy Section 122 duties across multiple industrial import categories.",
-                "Expanding trade barriers increase administrative burdens and impose complex customs auditing costs on multinational supply chain operations. Importers must upgrade origin tracing protocols and enhance database transparency to prevent unexpected border detentions."
+                "The U.S. military has facilitated the secure passage of 660M barrels of oil through the Strait of Hormuz since May amid ongoing regional hostilities. Despite naval escorts, marine carriers face persistent security vulnerabilities and elevated insurance premiums when transiting the volatile chokepoint.",
+                "Heightened threat levels require maritime operators to maintain rigorous risk mitigation protocols and dynamic route planning. Supply chain executives must account for volatile war risk surcharges when budgeting petroleum and chemical feedstock imports."
             ],
             "imageUrl": "",
-            "nextUpTease": "AMAZON EXPANDS PRIME AIR DRONE REACH",
+            "nextUpTease": "ELD CRACKDOWN CUTS TRUCKING CAPACITY",
             "tags": [
-                "Source: https://www.logisticsmgmt.com",
+                "Source: https://www.cnbc.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 5,
-            "heading": "TECHNOLOGY: AMAZON EXPANDS PRIME AIR DRONE REACH",
+            "heading": "SURFACE: ELD CRACKDOWN CUTS TRUCKING CAPACITY",
             "paragraphs": [
-                "Amazon is aggressively expanding its Prime Air drone delivery operations sixfold this year by deploying autonomous aerial fulfillment networks into metropolitan markets including Atlanta, Chicago, and Cleveland. The e-commerce giant aims to accelerate final mile delivery velocity through localized aerial fulfillment hubs.",
-                "Scaling autonomous delivery infrastructure intensifies competitive pressures on legacy parcel networks to adopt advanced robotics and automation solutions. Supply chain leaders must assess how aerial fulfillment integration transforms final mile cost economics and urban distribution footprints."
+                "Federal transportation regulators are aggressively tightening oversight of electronic logging devices to eradicate hours of service fraud across major freight corridors. This strict enforcement sweep is idling non compliant vehicles and tightening over the road capacity.",
+                "Escalating compliance enforcement exacerbates driver shortages and drives up spot market freight rates for enterprise shippers. Supply chain leaders must diversify carrier partnerships and optimize lane routing to maintain reliable domestic distribution."
             ],
             "imageUrl": "",
-            "nextUpTease": "CATERPILLAR SECURES TARIFF REFUND",
+            "nextUpTease": "USTR ADVANCES FORCED LABOR TARIFFS",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/amazon-expand-drone-delivery-reach-sixfold-2026/750000/",
+                "Source: https://www.joc.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
         },
         {
             "id": 6,
-            "heading": "PROCUREMENT: CATERPILLAR SECURES TARIFF REFUND",
+            "heading": "COMPLIANCE: USTR ADVANCES FORCED LABOR TARIFFS",
             "paragraphs": [
-                "Heavy equipment manufacturer Caterpillar secured a substantial $392M tariff refund as international duty costs contracted during the quarterly reporting period ending June 30. Excluding this financial recovery, the industrial giant still absorbed $400M in direct tariff expenses across its global manufacturing footprint.",
-                "Fluctuating regulatory duties and retrospective refunds introduce complex accounting volatility for multinational industrial supply chains. Procurement executives must implement granular trade compliance tracking to capture retroactive duty recoveries and optimize landed cost models."
+                "The Office of the United States Trade Representative is moving forward with the implementation of targeted tariffs on 60 trading partners under Section 301 of the Trade Act of 1974. This regulatory rollout coincides with the formal expiration of legacy Section 122 duties across multiple industrial import categories.",
+                "Expanding trade barriers increase administrative burdens and impose complex customs auditing costs on multinational supply chain operations. Importers must upgrade origin tracing protocols and enhance database transparency to prevent unexpected border detentions."
             ],
             "imageUrl": "",
             "nextUpTease": "CK HUTCHISON FILES ARBITRATION CLAIM",
             "tags": [
-                "Source: https://www.supplychaindive.com/news/caterpillar-tariff-refund-duty-costs-shrink/750000/",
+                "Source: https://www.logisticsmgmt.com",
                 "Published: 2026-08-21T00:00:00Z",
                 "Status: Audited & True"
             ]
