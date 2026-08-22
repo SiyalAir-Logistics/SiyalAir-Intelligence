@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "WATERWAYS: PANAMA CANAL CUTS CAPACITY",
-                "teaserTitle": "PANAMA CANAL QUEUE-JUMP FEE HITS 4.6M USD",
-                "visual_caption": "The Panama Canal cuts daily booking capacity to 32 transits due to drought. Shippers face tighter draft limits and higher reservation costs."
+                "headline": "FREIGHT RATES: ASIA USWC RATES SURGE ON PANAMA CANAL RESTRICTIONS",
+                "teaserTitle": "PANAMA CANAL TO TRIM DAILY SHIPPING SLOTS",
+                "visual_caption": "Asia to USWC freight rates are surging rapidly as shippers rush to beat Panama Canal restrictions. Carriers are implementing steep peak surcharges to manage the capacity bottleneck."
             },
             {
                 "slide_index": 2,
-                "headline": "MARITIME: PANAMA CANAL QUEUE-JUMP FEE HITS 4.6M USD",
-                "teaserTitle": "FMC UPHOLDS DETENTION BILLING RULES",
-                "visual_caption": "An empty LPG tanker paid $4.6M to bypass canal queues. Premium priority fees are reshaping transit throughput access."
+                "headline": "WATERWAYS: PANAMA CANAL TO TRIM DAILY SHIPPING SLOTS",
+                "teaserTitle": "CK HUTCHISON SEEKS 1.5B USD IN PANAMA TERMINALS COMPENSATION",
+                "visual_caption": "The Panama Canal Authority is reducing daily vessel transit slots due to El Nino drought conditions. Supply chain managers must secure alternative routing to avoid severe delays."
             },
             {
                 "slide_index": 3,
-                "headline": "REGULATION: FMC UPHOLDS DETENTION BILLING RULES",
-                "teaserTitle": "CHINA OPENS NEW ARCTIC TRADE ROUTE",
-                "visual_caption": "The D.C. Circuit upheld FMC rules requiring detention fees to promote freight fluidity. Carriers must audit invoicing systems immediately."
+                "headline": "LEGAL DISPUTES: CK HUTCHISON SEEKS 1.5B USD IN PANAMA TERMINALS COMPENSATION",
+                "teaserTitle": "PORT DELAYS AND CONGESTION ABSORB 5% OF INDUSTRY TEU CAPACITY",
+                "visual_caption": "CK Hutchison launched international arbitration for $1.5B over seized Panama port terminals. The legal dispute escalates operating risks across crucial global trade gateways."
             },
             {
                 "slide_index": 4,
-                "headline": "GLOBAL GATEWAYS: CHINA OPENS NEW ARCTIC TRADE ROUTE",
-                "teaserTitle": "PORT DELAYS ABSORB 5% OF TEU CAPACITY",
-                "visual_caption": "Sea Legend launched a regular Arctic container route connecting Asia and Europe in 20 days. Northern passages offer strategic alternatives to southern canals."
+                "headline": "CAPACITY DRAIN: PORT DELAYS AND CONGESTION ABSORB 5% OF INDUSTRY TEU CAPACITY",
+                "teaserTitle": "HD HYUNDAI NEGOTIATES ACQUISITION OF US SHIPYARD",
+                "visual_caption": "Global port delays and congestion are currently trapping 5% of worldwide TEU container capacity. This structural lockup restricts equipment availability across major trade lanes."
             },
             {
                 "slide_index": 5,
-                "headline": "CAPACITY: PORT DELAYS ABSORB 5% OF TEU CAPACITY",
-                "teaserTitle": "HD HYUNDAI NEGOTIATES US SHIPYARD ACQUISITION",
-                "visual_caption": "Persistent port congestion is absorbing 5% of worldwide container vessel capacity. Supply chain managers must build extended buffer times into planning."
+                "headline": "SHIPBUILDING: HD HYUNDAI NEGOTIATES ACQUISITION OF US SHIPYARD",
+                "teaserTitle": "CHINA OPENS NEW ARCTIC TRADE ROUTE",
+                "visual_caption": "HD Hyundai Group is negotiating the acquisition of a major United States shipyard. The strategic move aims to expand domestic vessel construction and heavy maintenance capabilities."
             },
             {
                 "slide_index": 6,
-                "headline": "INFRASTRUCTURE: HD HYUNDAI NEGOTIATES US SHIPYARD ACQUISITION",
-                "teaserTitle": "US DELAYS 50% TARIFFS ON CANADA IMPORTS",
-                "visual_caption": "HD Hyundai is negotiating the acquisition of a major US shipyard facility. Foreign capital integration will reshape domestic maritime construction."
+                "headline": "GLOBAL GATEWAYS: CHINA OPENS NEW ARCTIC TRADE ROUTE",
+                "teaserTitle": "RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
+                "visual_caption": "Sea Legend has launched a regular container service via the Arctic trade route. This northern passage successfully cut trial transit times between Asia and Europe to 20 days."
             },
             {
                 "slide_index": 7,
-                "headline": "TRADE: US DELAYS 50% TARIFFS ON CANADA IMPORTS",
+                "headline": "TANKER MARKETS: RUSSIAN FUEL SHORTAGES REVERSE TANKER TRADE FLOWS",
                 "teaserTitle": "",
-                "visual_caption": "Washington delayed proposed 50% tariffs on Canadian steel and aluminum by 3 days. Negotiators are racing to finalize a bilateral trade agreement."
+                "visual_caption": "Russia is importing nearly 270K tons of refined fuels from Asia following refinery strikes. This unusual shift creates an extraordinary reversal in international tanker trade flows."
             },
             {
                 "slide_index": 8,
