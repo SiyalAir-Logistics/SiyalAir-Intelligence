@@ -4,45 +4,45 @@ module.exports = {
         "script_slides": [
             {
                 "slide_index": 1,
-                "headline": "WATERWAYS: PANAMA CANAL TRIMS SLOTS",
-                "teaserTitle": "CK HUTCHISON SEEKS $1.5B IN PANAMA",
-                "visual_caption": "The Panama Canal Authority is cutting daily booking capacity to 32 ships starting in mid-September. This restriction will drive up spot rates and squeeze transpacific intermodal capacity."
+                "headline": "WATERWAYS: PANAMA CANAL QUEUE JUMP SURGES PAST 4.6M",
+                "teaserTitle": "CHINA OPENS NEW ARCTIC TRADE ROUTE",
+                "visual_caption": "An empty LPG tanker secured transit priority with a $4.6M fee. This extreme financial outlay highlights severe capacity constraints facing global supply chains."
             },
             {
                 "slide_index": 2,
-                "headline": "LEGAL: CK HUTCHISON SEEKS $1.5B IN PANAMA",
-                "teaserTitle": "PORTS ABSORB 5% GLOBAL CAPACITY",
-                "visual_caption": "CK Hutchison has initiated a $1.5B arbitration against Panama over seized port terminals. The legal battle introduces major contractual uncertainty for regional maritime networks."
+                "headline": "ROUTES: CHINA OPENS NEW ARCTIC TRADE ROUTE",
+                "teaserTitle": "PORT DELAYS ABSORB 5% CAPACITY",
+                "visual_caption": "China is launching a regular container service to Europe through the Arctic route. Severe ice obstacles will restrict year-round adoption despite shorter distances."
             },
             {
                 "slide_index": 3,
-                "headline": "PORTS: ABSORB 5% GLOBAL CAPACITY",
-                "teaserTitle": "RUSSIAN FUEL FLOWS REVERSE",
-                "visual_caption": "Persistent global port congestion is currently tying up 5% of worldwide container carrying capacity. Shippers must factor extended dwell times into inventory buffers."
+                "headline": "PORTS: PORT DELAYS ABSORB 5% CAPACITY",
+                "teaserTitle": "KOREA SHIPBUILDER TARGETS US YARD",
+                "visual_caption": "Persistent port congestion currently traps 5.0% of global container carrying capacity. This ongoing inefficiency restricts vessel loop frequency and inflates expenses."
             },
             {
                 "slide_index": 4,
-                "headline": "TANKERS: RUSSIAN FUEL FLOWS REVERSE",
-                "teaserTitle": "ATA CHIEF SPEAR DEPARTS FEDERATION",
-                "visual_caption": "Russia is importing 270K tonnes of refined fuels from Asia following refinery strikes. This unusual trade reversal inflates global clean tanker costs."
+                "headline": "MARITIME: KOREA SHIPBUILDER TARGETS US YARD",
+                "teaserTitle": "USTR ADVANCES FORCED LABOR TARIFFS",
+                "visual_caption": "South Korea\u2019s HD Hyundai Group is negotiating the acquisition of a U.S. shipyard. The move strengthens industrial positioning under regional manufacturing initiatives."
             },
             {
                 "slide_index": 5,
-                "headline": "TRUCKING: ATA CHIEF SPEAR DEPARTS",
-                "teaserTitle": "USTR ADVANCES FORCED LABOR TARIFFS",
-                "visual_caption": "American Trucking Associations chief Chris Spear has stepped down amid rising regulatory pressures. Fleet operators must monitor upcoming federal policy shifts closely."
+                "headline": "CUSTOMS: USTR ADVANCES FORCED LABOR TARIFFS",
+                "teaserTitle": "INTERMODAL SURGES AS TRUCKING TIGHTENS",
+                "visual_caption": "The USTR is implementing targeted tariffs on 60 nations under Section 301. Importers must audit supplier compliance to avoid expensive border holds."
             },
             {
                 "slide_index": 6,
-                "headline": "CUSTOMS: USTR ADVANCES FORCED LABOR TARIFFS",
-                "teaserTitle": "RAILWAY TRAFFIC RETURNS TO NORM",
-                "visual_caption": "The USTR is advancing forced labor tariffs on 60 trading partners under Section 301. Importers must audit tier-one supplier networks to avoid border holds."
+                "headline": "RAILWAYS: INTERMODAL SURGES AS TRUCKING TIGHTENS",
+                "teaserTitle": "NEW JERSEY PORT ORDERS 96 EV TRUCKS",
+                "visual_caption": "Rising truckload rates are driving shippers back to historic intermodal volume norms. Containerized rail is successfully absorbing excess freight displaced by highway constraints."
             },
             {
                 "slide_index": 7,
-                "headline": "RAILWAYS: TRAFFIC RETURNS TO NORM",
+                "headline": "FLEET: NEW JERSEY PORT ORDERS 96 EV TRUCKS",
                 "teaserTitle": "",
-                "visual_caption": "U.S. shippers are increasing intermodal rail usage due to rising truckload rates. This modal shift helps enterprises mitigate highway freight pricing volatility."
+                "visual_caption": "A New Jersey seaport ordered 96 electric terminal trucks to advance zero-emission drayage. Fleets must prepare infrastructure for tightening environmental regulations."
             },
             {
                 "slide_index": 8,
